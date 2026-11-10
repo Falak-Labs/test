@@ -1,4 +1,4 @@
-# Post status 2026-11-10T16:27:21+00:00
+# Post status 2026-11-10T16:53:58+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -39,55 +39,55 @@
 | ep06-rocket | en.tiktok | sent |  | 2026-11-10T15:50:45.693Z https://tiktok.com/@congratsengineer/video/7706570494668967182 |
 | ep06-rocket | en.youtube | sent |  | 2026-11-10T15:50:05.482Z https://www.youtube.com/shorts/autWa_pR7ig |
 | ep07-castle | ar.instagram | sent |  | 2026-11-10T16:01:35.395Z https://www.instagram.com/reel/DfkSTghBIdA/ |
-| ep07-castle | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T16:00:00.000Z |
+| ep07-castle | ar.tiktok | sent |  | 2026-11-10T16:50:45.100Z https://tiktok.com/@kef.tenbeni/video/7706586090714500365 |
 | ep07-castle | ar.youtube | sent |  | 2026-11-10T16:00:29.782Z https://www.youtube.com/shorts/E4Ohy56L-OA |
 | ep07-castle | en.instagram | sent |  | 2026-11-10T16:01:55.796Z https://www.instagram.com/reel/DfkSTryJjPZ/ |
 | ep07-castle | en.tiktok | sent |  | 2026-11-10T16:02:17.491Z https://tiktok.com/@congratsengineer/video/7706573079757049102 |
 | ep07-castle | en.youtube | sent |  | 2026-11-10T16:00:31.236Z https://www.youtube.com/shorts/KhiCgs9UEXY |
 | ep08-claw | ar.instagram | sent |  | 2026-11-10T16:10:58.760Z https://www.instagram.com/reel/DfkTZu-K3_A/ |
-| ep08-claw | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T16:10:00.000Z |
+| ep08-claw | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T17:30:00.000Z |
 | ep08-claw | ar.youtube | sent |  | 2026-11-10T16:10:02.992Z https://www.youtube.com/shorts/OROGwzCoqUs |
 | ep08-claw | en.instagram | sent |  | 2026-11-10T16:10:59.212Z https://www.instagram.com/reel/DfkTZtoSRM5/ |
 | ep08-claw | en.tiktok | sent |  | 2026-11-10T16:10:45.348Z https://tiktok.com/@congratsengineer/video/7706575644141817101 |
 | ep08-claw | en.youtube | sent |  | 2026-11-10T16:10:03.818Z https://www.youtube.com/shorts/DzoD0nJiO6M |
 | ep09-submarine | ar.instagram | sent |  | 2026-11-10T16:21:08.167Z https://www.instagram.com/reel/DfkUj2nB91n/ |
-| ep09-submarine | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T16:20:00.000Z |
+| ep09-submarine | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T18:10:00.000Z |
 | ep09-submarine | ar.youtube | sent |  | 2026-11-10T16:20:11.362Z https://www.youtube.com/shorts/1mR_xeTolBY |
 | ep09-submarine | en.instagram | sent |  | 2026-11-10T16:23:07.769Z https://www.instagram.com/reel/DfkUjx9MB8Y/ |
 | ep09-submarine | en.tiktok | sent |  | 2026-11-10T16:20:51.400Z https://tiktok.com/@congratsengineer/video/7706578225341680910 |
 | ep09-submarine | en.youtube | sent |  | 2026-11-10T16:20:11.482Z https://www.youtube.com/shorts/grPQCgleIig |
-| ep10-toilet | ar.instagram | scheduled |  | 2026-11-10T16:30:00.000Z |
-| ep10-toilet | ar.tiktok | scheduled |  | 2026-11-10T16:30:00.000Z |
-| ep10-toilet | ar.youtube | scheduled |  | 2026-11-10T16:30:00.000Z |
-| ep10-toilet | en.instagram | scheduled |  | 2026-11-10T16:30:00.000Z |
-| ep10-toilet | en.tiktok | scheduled |  | 2026-11-10T16:30:00.000Z |
-| ep10-toilet | en.youtube | scheduled |  | 2026-11-10T16:30:00.000Z |
-| ep11-airplane | ar.instagram | scheduled |  | 2026-11-10T16:40:00.000Z |
-| ep11-airplane | ar.tiktok | scheduled |  | 2026-11-10T16:40:00.000Z |
-| ep11-airplane | ar.youtube | scheduled |  | 2026-11-10T16:40:00.000Z |
-| ep11-airplane | en.instagram | scheduled |  | 2026-11-10T16:40:00.000Z |
-| ep11-airplane | en.tiktok | scheduled |  | 2026-11-10T16:40:00.000Z |
-| ep11-airplane | en.youtube | scheduled |  | 2026-11-10T16:40:00.000Z |
-| ep12-fireworks | ar.instagram | scheduled |  | 2026-11-10T16:50:00.000Z |
-| ep12-fireworks | ar.tiktok | scheduled |  | 2026-11-10T16:50:00.000Z |
-| ep12-fireworks | ar.youtube | scheduled |  | 2026-11-10T16:50:00.000Z |
-| ep12-fireworks | en.instagram | scheduled |  | 2026-11-10T16:50:00.000Z |
-| ep12-fireworks | en.tiktok | scheduled |  | 2026-11-10T16:50:00.000Z |
-| ep12-fireworks | en.youtube | scheduled |  | 2026-11-10T16:50:00.000Z |
+| ep10-toilet | ar.instagram | sent |  | 2026-11-10T16:32:46.266Z https://www.instagram.com/reel/DfkVw0AvSYp/ |
+| ep10-toilet | ar.tiktok | scheduled |  | 2026-11-10T18:55:16.000Z |
+| ep10-toilet | ar.youtube | sent |  | 2026-11-10T16:30:33.045Z https://www.youtube.com/shorts/feLV9lELWT4 |
+| ep10-toilet | en.instagram | sent |  | 2026-11-10T16:32:37.108Z https://www.instagram.com/reel/DfkVzibCHA_/ |
+| ep10-toilet | en.tiktok | sent |  | 2026-11-10T16:31:35.772Z https://tiktok.com/@congratsengineer/video/7706580909218188558 |
+| ep10-toilet | en.youtube | sent |  | 2026-11-10T16:30:32.781Z https://www.youtube.com/shorts/zdZV6e-YG0w |
+| ep11-airplane | ar.instagram | sent |  | 2026-11-10T16:43:04.064Z https://www.instagram.com/reel/DfkW8ZJAUGA/ |
+| ep11-airplane | ar.tiktok | scheduled |  | 2026-11-10T19:35:16.000Z |
+| ep11-airplane | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T16:40:00.000Z |
+| ep11-airplane | en.instagram | sent |  | 2026-11-10T16:43:02.605Z https://www.instagram.com/reel/DfkW2dOCruI/ |
+| ep11-airplane | en.tiktok | sent |  | 2026-11-10T16:40:49.996Z https://tiktok.com/@congratsengineer/video/7706583338705865997 |
+| ep11-airplane | en.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T16:40:00.000Z |
+| ep12-fireworks | ar.instagram | sent |  | 2026-11-10T16:50:56.780Z https://www.instagram.com/reel/DfkX-i2hN9l/ |
+| ep12-fireworks | ar.tiktok | scheduled |  | 2026-11-10T20:15:16.000Z |
+| ep12-fireworks | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T16:50:00.000Z |
+| ep12-fireworks | en.instagram | sent |  | 2026-11-10T16:51:00.537Z https://www.instagram.com/reel/DfkX-n_hnVg/ |
+| ep12-fireworks | en.tiktok | sent |  | 2026-11-10T16:50:44.135Z https://tiktok.com/@congratsengineer/video/7706585981394210062 |
+| ep12-fireworks | en.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T16:50:00.000Z |
 | ep13-vault | ar.instagram | scheduled |  | 2026-11-10T17:00:00.000Z |
-| ep13-vault | ar.tiktok | scheduled |  | 2026-11-10T17:00:00.000Z |
+| ep13-vault | ar.tiktok | scheduled |  | 2026-11-10T20:55:16.000Z |
 | ep13-vault | ar.youtube | scheduled |  | 2026-11-10T17:00:00.000Z |
 | ep13-vault | en.instagram | scheduled |  | 2026-11-10T17:00:00.000Z |
 | ep13-vault | en.tiktok | scheduled |  | 2026-11-10T17:00:00.000Z |
 | ep13-vault | en.youtube | scheduled |  | 2026-11-10T17:00:00.000Z |
 | ep14-aircon | ar.instagram | scheduled |  | 2026-11-10T17:10:00.000Z |
-| ep14-aircon | ar.tiktok | scheduled |  | 2026-11-10T17:10:00.000Z |
+| ep14-aircon | ar.tiktok | scheduled |  | 2026-11-10T21:35:16.000Z |
 | ep14-aircon | ar.youtube | scheduled |  | 2026-11-10T17:10:00.000Z |
 | ep14-aircon | en.instagram | scheduled |  | 2026-11-10T17:10:00.000Z |
 | ep14-aircon | en.tiktok | scheduled |  | 2026-11-10T17:10:00.000Z |
 | ep14-aircon | en.youtube | scheduled |  | 2026-11-10T17:10:00.000Z |
 | ep15-station | ar.instagram | scheduled |  | 2026-11-10T17:20:00.000Z |
-| ep15-station | ar.tiktok | scheduled |  | 2026-11-10T17:20:00.000Z |
+| ep15-station | ar.tiktok | scheduled |  | 2026-11-10T22:15:16.000Z |
 | ep15-station | ar.youtube | scheduled |  | 2026-11-10T17:20:00.000Z |
 | ep15-station | en.instagram | scheduled |  | 2026-11-10T17:20:00.000Z |
 | ep15-station | en.tiktok | scheduled |  | 2026-11-10T17:20:00.000Z |
