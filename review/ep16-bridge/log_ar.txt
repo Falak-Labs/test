@@ -1,0 +1,32 @@
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+loaded PerthNet (Implicit) at step 250,000
+model ready in 8s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+  L 1 seed 302    2.99s 11.7 l/s  ok  asr 3%  (23s)
+  L 2 seed 303    3.21s 11.5 l/s  ok  asr 8%  (22s)
+  L 3 seed 304    5.37s 13.4 l/s  ok  asr 14%  (34s)
+  L 4 seed 305    4.14s 12.6 l/s  ok  asr 4%  (26s)
+  L 5 seed 306    4.88s 13.9 l/s  ok  asr 16%  (33s)
+  L 6 seed 307    6.03s 14.4 l/s  Whisper 33% off  asr 33%  (38s)
+  L 6 seed 1307   6.55s 13.3 l/s  ok  asr 28%  (40s)
+  L 7 seed 308    4.08s 12.7 l/s  ok  asr 12%  (26s)
+  L 8 seed 309    4.10s 11.5 l/s  ok  asr 9%  (26s)
+  L 9 seed 310    4.99s 11.2 l/s  ok  asr 12%  (32s)
+  L10 seed 311    4.16s 11.3 l/s  ok  asr 14%  (26s)
+  L11 seed 312    4.74s 11.8 l/s  ok  asr 18%  (31s)
+  L12 seed 313    2.79s 10.4 l/s  ok  asr 9%  (20s)
+  L13 seed 314    2.47s 10.5 l/s  ok  asr 7%  (18s)
+  L14 seed 315    4.03s 10.7 l/s  Whisper 37% off  asr 37%  (25s)
+  L14 seed 1315   3.51s 12.3 l/s  Whisper 44% off  asr 44%  (23s)
+  L14 seed 2315   3.35s 12.8 l/s  Whisper 41% off  asr 41%  (23s)
+NAMAA Saudi built-in: 14 lines, 166 words, 62.40s (2.66 words/s), 477s -> series/voice/bridge_ar_sa.wav  CHECK lines [14]
+bridge_ar_sa: 65.50s, 1965 frames
+video done in 535s
+audio done
+final out/bridge_ar_sa/bridge_ar_sa_final.mp4
+QA  duration 65.50s  loudness -14.0 LUFS  true peak -1.9 dBFS  1080x1920 @ 30/1  frames 1965
+QA sheet out/bridge_ar_sa/qa_sheet.png

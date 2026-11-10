@@ -1,0 +1,13 @@
+bridge: 68.79s, 2064 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 563s
+audio done
+final out/bridge/bridge_final.mp4
+QA  duration 68.80s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2064
+QA sheet out/bridge/qa_sheet.png
