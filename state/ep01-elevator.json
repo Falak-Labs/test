@@ -14,18 +14,20 @@
    "channel": "6af2b54962b70b94b0ddd768",
    "service": "youtube",
    "status": "scheduled",
-   "dueAt": "2026-11-11T00:00:00.000Z",
+   "dueAt": "2026-11-10T07:12:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T06:47:02+00:00"
+   "created": "2026-11-10T06:47:02+00:00",
+   "moved": "2026-11-10T07:07:00+00:00"
   },
   "en.instagram": {
    "id": "6af2bdeae261c09acca59880",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
    "status": "scheduled",
-   "dueAt": "2026-11-11T00:00:00.000Z",
+   "dueAt": "2026-11-10T07:12:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T06:47:02+00:00"
+   "created": "2026-11-10T06:47:02+00:00",
+   "moved": "2026-11-10T07:07:00+00:00"
   }
  }
 }
