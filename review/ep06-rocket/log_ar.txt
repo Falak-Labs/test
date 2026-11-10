@@ -1,55 +1,12 @@
-/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
-  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
-loaded PerthNet (Implicit) at step 250,000
-model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
-/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
-  self.gen = func(*args, **kwds)
-The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-  L 1 seed 302    3.97s 12.3 l/s  12 letters/s, Whisper 67% off  asr 67%  (38s)
-  L 1 seed 1302   4.63s 10.6 l/s  ok  asr 50%  (41s)
-  L 2 seed 303    3.80s 12.1 l/s  12 letters/s, Whisper 55% off  asr 55%  (37s)
-  L 2 seed 1303   3.73s 12.3 l/s  12 letters/s, Whisper 55% off  asr 55%  (36s)
-  L 2 seed 2303   3.87s 11.9 l/s  ok  asr 45%  (38s)
-  L 3 seed 304    5.12s 11.5 l/s  ok  asr 31%  (46s)
-  L 4 seed 305    4.53s 11.3 l/s  stopped early, Whisper 62% off  asr 62%  (40s)
-  L 4 seed 1305   4.34s 11.8 l/s  Whisper 69% off  asr 69%  (40s)
-  L 4 seed 2305   4.33s 11.8 l/s  Whisper 85% off  asr 85%  (40s)
-  L 5 seed 306    5.27s 10.8 l/s  Whisper 64% off  asr 64%  (46s)
-  L 5 seed 1306   4.34s 13.1 l/s  13 letters/s, Whisper 79% off  asr 79%  (39s)
-  L 5 seed 2306   4.55s 12.5 l/s  13 letters/s, Whisper 64% off  asr 64%  (41s)
-  L 6 seed 307    4.36s 12.8 l/s  13 letters/s, Whisper 54% off  asr 54%  (40s)
-  L 6 seed 1307   4.83s 11.6 l/s  Whisper 69% off  asr 69%  (42s)
-  L 6 seed 2307   4.96s 11.3 l/s  Whisper 69% off  asr 69%  (44s)
-  L 7 seed 308    6.49s 13.1 l/s  13 letters/s, Whisper 60% off  asr 60%  (56s)
-  L 7 seed 1308   6.75s 12.6 l/s  13 letters/s, Whisper 65% off  asr 65%  (58s)
-  L 7 seed 2308   6.73s 12.6 l/s  13 letters/s, Whisper 55% off  asr 55%  (57s)
-  L 8 seed 309    3.77s 13.3 l/s  13 letters/s, Whisper 75% off  asr 75%  (36s)
-  L 8 seed 1309   3.65s 13.7 l/s  14 letters/s, Whisper 83% off  asr 83%  (34s)
-  L 8 seed 2309   3.46s 14.5 l/s  14 letters/s, Whisper 92% off  asr 92%  (34s)
-  L 9 seed 310    5.18s 12.7 l/s  13 letters/s, Whisper 86% off  asr 86%  (44s)
-  L 9 seed 1310   5.38s 12.3 l/s  12 letters/s, Whisper 57% off  asr 57%  (47s)
-  L 9 seed 2310   5.32s 12.4 l/s  12 letters/s, Whisper 93% off  asr 93%  (47s)
-  L10 seed 311    3.41s 13.5 l/s  13 letters/s, Whisper 64% off  asr 64%  (33s)
-  L10 seed 1311   3.41s 13.5 l/s  13 letters/s, Whisper 64% off  asr 64%  (34s)
-  L10 seed 2311   3.12s 14.7 l/s  15 letters/s, Whisper 91% off  asr 91%  (32s)
-  L11 seed 312    4.36s 12.8 l/s  13 letters/s, Whisper 73% off  asr 73%  (40s)
-  L11 seed 1312   4.22s 13.3 l/s  13 letters/s, Whisper 60% off  asr 60%  (40s)
-  L11 seed 2312   4.14s 13.5 l/s  14 letters/s, Whisper 67% off  asr 67%  (39s)
-  L12 seed 313    3.40s  8.2 l/s  Whisper 67% off  asr 67%  (32s)
-  L12 seed 1313   3.40s  8.2 l/s  Whisper 67% off  asr 67%  (33s)
-  L12 seed 2313   3.20s  8.8 l/s  Whisper 67% off  asr 67%  (31s)
-  L13 seed 314    3.24s 10.2 l/s  Whisper 88% off  asr 88%  (32s)
-  L13 seed 1314   3.04s 10.9 l/s  Whisper 75% off  asr 75%  (30s)
-  L13 seed 2314   2.82s 11.7 l/s  Whisper 62% off  asr 62%  (30s)
-  L14 seed 315    4.73s 12.9 l/s  13 letters/s, Whisper 67% off  asr 67%  (41s)
-  L14 seed 1315   4.54s 13.4 l/s  13 letters/s, Whisper 92% off  asr 92%  (42s)
-  L14 seed 2315   4.61s 13.2 l/s  13 letters/s, Whisper 67% off  asr 67%  (41s)
-NAMAA Saudi built-in: 14 lines, 174 words, 66.42s (2.62 words/s), 1560s -> series/voice/rocket_ar_sa.wav  CHECK lines [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
-Traceback (most recent call last):
-  File "/home/runner/work/test/test/kit/make.py", line 19, in <module>
-    from bik.render import render, mux, contact_sheet  # noqa: E402
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/test/test/kit/bik/render.py", line 5, in <module>
-    import skia
-ImportError: libEGL.so.1: cannot open shared object file: No such file or directory
+rocket_ar_sa: 69.52s, 2086 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 711s
+audio done
+final out/rocket_ar_sa/rocket_ar_sa_final.mp4
+QA  duration 69.53s  loudness -14.0 LUFS  true peak -1.8 dBFS  1080x1920 @ 30/1  frames 2086
+QA sheet out/rocket_ar_sa/qa_sheet.png
