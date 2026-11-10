@@ -6,24 +6,18 @@ model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builti
   self.gen = func(*args, **kwds)
 The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
 WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-  L 1 seed 302    3.60s 13.1 l/s  ok  asr 16%  (37s)
-  L 2 seed 303    2.33s 14.2 l/s  ok  asr 21%  (28s)
-  L 3 seed 304    4.13s 14.3 l/s  ok  asr 9%  (39s)
-  L 4 seed 305    4.37s 12.1 l/s  ok  asr 7%  (41s)
-  L 5 seed 306    7.15s  9.7 l/s  ok  asr 23%  (61s)
-  L 6 seed 307    3.43s 13.1 l/s  ok  asr 14%  (35s)
-  L 7 seed 308    6.23s 11.2 l/s  ok  asr 4%  (52s)
-  L 8 seed 309    5.21s 12.7 l/s  ok  asr 26%  (46s)
-  L 9 seed 310    5.12s 11.5 l/s  ok  asr 9%  (46s)
-  L10 seed 311    3.23s 12.7 l/s  ok  asr 14%  (34s)
-  L11 seed 312    4.44s 12.8 l/s  ok  asr 9%  (41s)
-  L12 seed 313    2.53s 11.9 l/s  ok  asr 20%  (29s)
-  L13 seed 314    2.46s 11.0 l/s  ok  asr 19%  (27s)
-  L14 seed 315    3.67s  9.8 l/s  ok  asr 17%  (36s)
-NAMAA Saudi built-in: 14 lines, 163 words, 61.80s (2.64 words/s), 562s -> series/voice/station_ar_sa.wav
-station_ar_sa: 64.90s, 1947 frames
-video done in 449s
+  L 6 seed 308    3.07s 14.7 l/s  15 letters/s  asr 17%  (27s)
+  L 6 seed 1308   3.72s 12.1 l/s  ok  asr 13%  (28s)
+NAMAA Saudi built-in: 14 lines, 163 words, 62.09s (2.63 words/s), 66s -> series/voice/station_ar_sa.wav
+station_ar_sa: 65.19s, 1956 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 524s
 audio done
 final out/station_ar_sa/station_ar_sa_final.mp4
-QA  duration 64.90s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 1947
+QA  duration 65.20s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 1956
 QA sheet out/station_ar_sa/qa_sheet.png
