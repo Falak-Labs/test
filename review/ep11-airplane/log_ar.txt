@@ -1,29 +1,23 @@
 /opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
   deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
 loaded PerthNet (Implicit) at step 250,000
-model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
+model ready in 7s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
 /opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
   self.gen = func(*args, **kwds)
 The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
 WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-  L 1 seed 302    4.23s 11.6 l/s  ok  asr 6%  (34s)
-  L 2 seed 303    4.39s 11.6 l/s  ok  asr 8%  (34s)
-  L 3 seed 304    6.90s 12.5 l/s  ok  asr 22%  (50s)
-  L 4 seed 305    5.19s 11.0 l/s  ok  asr 12%  (38s)
-  L 5 seed 306    6.39s 11.6 l/s  ok  asr 15%  (45s)
-  L 6 seed 307    3.13s 11.2 l/s  ok  asr 23%  (25s)
-  L 7 seed 308    5.92s 12.0 l/s  ok  asr 13%  (42s)
-  L 8 seed 309    4.66s 10.7 l/s  ok  asr 12%  (35s)
-  L 9 seed 310    5.10s 12.5 l/s  ok  asr 14%  (38s)
-  L10 seed 311    3.38s 13.6 l/s  ok  asr 12%  (28s)
-  L11 seed 312    5.31s 11.1 l/s  ok  asr 8%  (39s)
-  L12 seed 313    3.28s  9.8 l/s  ok  asr 3%  (27s)
-  L13 seed 314    2.50s  9.6 l/s  ok  asr 29%  (22s)
-  L14 seed 315    3.63s 13.2 l/s  ok  asr 15%  (30s)
-NAMAA Saudi built-in: 14 lines, 175 words, 67.91s (2.58 words/s), 499s -> series/voice/airplane_ar_sa.wav
-airplane_ar_sa: 71.01s, 2130 frames
-video done in 608s
+  L13 seed 315    2.43s  9.9 l/s  ok  asr 22%  (25s)
+NAMAA Saudi built-in: 14 lines, 175 words, 67.84s (2.58 words/s), 35s -> series/voice/airplane_ar_sa.wav
+airplane_ar_sa: 70.94s, 2128 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 466s
 audio done
 final out/airplane_ar_sa/airplane_ar_sa_final.mp4
-QA  duration 71.00s  loudness -14.0 LUFS  true peak -0.9 dBFS  1080x1920 @ 30/1  frames 2130
+QA  duration 70.93s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2128
 QA sheet out/airplane_ar_sa/qa_sheet.png
