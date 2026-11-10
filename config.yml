@@ -1,0 +1,13 @@
+# Posting settings. Each language has its own Buffer account; its API key lives in the repo's Actions secrets.
+keys:
+  en: BUFFER_KEY_EN     # Buffer account 1: YouTube + Instagram + TikTok (English)
+  ar: BUFFER_KEY_AR     # Buffer account 2: YouTube + Instagram + TikTok (Arabic)
+times:                  # every post of an episode goes out on its "date" at this local time
+  en: {zone: America/New_York, at: "19:00"}
+  ar: {zone: Asia/Riyadh, at: "21:00"}
+youtube:
+  categoryId: "27"      # Education
+  madeForKids: false
+pages_base: https://falak-labs.github.io/test
+raw_base: https://raw.githubusercontent.com/Falak-Labs/test/main
+test_only: true         # true = only the targets listed under "now:" are posted (first test run)
