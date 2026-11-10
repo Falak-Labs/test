@@ -1,15 +1,27 @@
-bridge_ar_sa: 65.50s, 1965 frames
-
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+loaded PerthNet (Implicit) at step 250,000
+model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+  L14 seed 316    3.20s 13.4 l/s  Whisper 42% off  asr 42%  (36s)
+  L14 seed 1316   3.71s 11.6 l/s  Whisper 47% off  asr 47%  (38s)
+  L14 seed 2316   3.70s 11.6 l/s  Whisper 41% off  asr 41%  (38s)
+NAMAA Saudi built-in: 14 lines, 166 words, 62.07s (2.67 words/s), 124s -> series/voice/bridge_ar_sa.wav  CHECK lines [14]
+bridge_ar_sa: 65.17s, 1955 frames
+unknown element "reset-dirs"
 unknown element "reset-dirs"
 Unable to revert mtime: /usr/share/fonts
 Unable to revert mtime: /usr/share/fonts/truetype
 Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
 Unable to revert mtime: /usr/share/fonts/truetype/lato
 Unable to revert mtime: /usr/share/fonts/truetype/liberation
-Unable to revert mtime: /usr/share/fonts/truetype/liberation
 Unable to revert mtime: /usr/share/fonts/truetype/noto
-video done in 436s
+video done in 486s
 audio done
 final out/bridge_ar_sa/bridge_ar_sa_final.mp4
-QA  duration 65.50s  loudness -14.0 LUFS  true peak -1.9 dBFS  1080x1920 @ 30/1  frames 1965
+QA  duration 65.17s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 1955
 QA sheet out/bridge_ar_sa/qa_sheet.png
