@@ -232,6 +232,9 @@ def preview(cfg, files):
                 if st["targets"].get(tgt, {}).get("id"):
                     print(f"== {slug} {tgt}: already on Buffer ({st['targets'][tgt].get('status')})\n")
                     continue
+                if tgt in (ep.get("hold") or []):
+                    print(f"== {slug} {tgt}: on hold\n")
+                    continue
                 if limit and queued.get(tgt, 0) >= limit:
                     print(f"== {slug} {tgt}: waits ({limit} posts already queued on this channel)\n")
                     continue
@@ -289,6 +292,9 @@ def main():
                 tgt = f"{lang}.{platform}"
                 done = st["targets"].get(tgt, {})
                 if done.get("id"):
+                    continue
+                if tgt in (ep.get("hold") or []):           # hold: [en.tiktok, ar.tiktok] keeps those targets back
+                    log(f"{slug} {tgt}: on hold in posts/{fn}")
                     continue
                 if test_only and tgt not in now_targets:
                     continue

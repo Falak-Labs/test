@@ -1,6 +1,7 @@
 episode: 16
 date: 2026-11-10
-at: {default: "2026-11-10T17:30:00Z", tiktok: "2026-11-11T15:50:00Z"}   # YouTube + Instagram today; TikTok tomorrow (TikTok allows about 15 API posts a day per account)
+at: "2026-11-10T17:30:00Z"   # YouTube + Instagram, one episode every 10 minutes
+hold: [en.tiktok, ar.tiktok]   # TikTok for 16-20: the user decides later (Nov 10)
 video:
   en: media/ep16-bridge-en.mp4
   ar: media/ep16-bridge-ar.mp4
