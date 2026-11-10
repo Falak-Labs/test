@@ -1,0 +1,14 @@
+aircon: 63.66s, 1910 frames
+
+unknown element "reset-dirs"
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 528s
+audio done
+final out/aircon/aircon_final.mp4
+QA  duration 63.67s  loudness -14.0 LUFS  true peak -1.6 dBFS  1080x1920 @ 30/1  frames 1910
+QA sheet out/aircon/qa_sheet.png
