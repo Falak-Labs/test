@@ -134,6 +134,28 @@ class Buffer:
         node_type = unwrap(self.field(unwrap(edges["type"])["name"], "node")["type"])["name"]
         sel = self.selection(node_type, {"id", "status", "dueAt", "sentAt", "createdAt", "channelId", "channelService",
                                          "text", "externalLink", "serviceLink", "error", "errorMessage", "channel"})
-        q = ('query { posts(input: { organizationId: "%s", filter: { status: [%s] } }) { edges { node { %s } } } }'
-             % (organization_id, ", ".join(statuses), sel))
-        return [e["node"] for e in self.q(q)["posts"]["edges"]]
+        # Buffer pages its results (10 by default): ask for bigger pages and follow the cursor.
+        top = {a["name"] for a in pf["args"]}
+        inner = {f["name"] for f in self.type(in_type).get("inputFields") or []}
+        page_info = self.field(conn, "pageInfo")
+        pi_fields = {f["name"] for f in self.type(unwrap(page_info["type"])["name"]).get("fields") or []} if page_info else set()
+        page_sel = " pageInfo { hasNextPage endCursor }" if {"hasNextPage", "endCursor"} <= pi_fields else ""
+        out, after = [], None
+        for _ in range(40):
+            inp_extra, top_extra = "", ""
+            for name, val in (("first", "25"), ("after", '"%s"' % after if after else None)):
+                if val is None:
+                    continue
+                if name in top:
+                    top_extra += ", %s: %s" % (name, val)
+                elif name in inner:
+                    inp_extra += ", %s: %s" % (name, val)
+            q = ('query { posts(input: { organizationId: "%s", filter: { status: [%s] }%s }%s) { edges { node { %s } }%s } }'
+                 % (organization_id, ", ".join(statuses), inp_extra, top_extra, sel, page_sel))
+            d = self.q(q)["posts"]
+            out += [e["node"] for e in d.get("edges") or []]
+            pi = d.get("pageInfo") or {}
+            if not (pi.get("hasNextPage") and pi.get("endCursor") and ("after" in top or "after" in inner)):
+                break
+            after = pi["endCursor"]
+        return out
