@@ -1,4 +1,4 @@
-# Post status 2026-11-10T09:18:08+00:00
+# Post status 2026-11-10T15:43:03+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -32,3 +32,63 @@
 | ep05-waterslide | en.instagram | sent |  | 2026-11-10T07:22:56.901Z https://www.instagram.com/reel/DfjW-NEP2ap/ |
 | ep05-waterslide | en.tiktok | sent |  | 2026-11-10T07:52:02Z https://www.tiktok.com/@congratsengineer/video/7706447222933556494 |
 | ep05-waterslide | en.youtube | sent |  | 2026-11-10T07:18:01.669Z https://www.youtube.com/shorts/rwEmHVnoQTM |
+| ep06-rocket | ar.instagram | scheduled |  | 2026-11-10T15:50:00.000Z |
+| ep06-rocket | ar.tiktok | scheduled |  | 2026-11-10T15:50:00.000Z |
+| ep06-rocket | ar.youtube | scheduled |  | 2026-11-10T15:50:00.000Z |
+| ep06-rocket | en.instagram | scheduled |  | 2026-11-10T15:50:00.000Z |
+| ep06-rocket | en.tiktok | scheduled |  | 2026-11-10T15:50:00.000Z |
+| ep06-rocket | en.youtube | scheduled |  | 2026-11-10T15:50:00.000Z |
+| ep07-castle | ar.instagram | scheduled |  | 2026-11-10T16:00:00.000Z |
+| ep07-castle | ar.tiktok | scheduled |  | 2026-11-10T16:00:00.000Z |
+| ep07-castle | ar.youtube | scheduled |  | 2026-11-10T16:00:00.000Z |
+| ep07-castle | en.instagram | scheduled |  | 2026-11-10T16:00:00.000Z |
+| ep07-castle | en.tiktok | scheduled |  | 2026-11-10T16:00:00.000Z |
+| ep07-castle | en.youtube | scheduled |  | 2026-11-10T16:00:00.000Z |
+| ep08-claw | ar.instagram | scheduled |  | 2026-11-10T16:10:00.000Z |
+| ep08-claw | ar.tiktok | scheduled |  | 2026-11-10T16:10:00.000Z |
+| ep08-claw | ar.youtube | scheduled |  | 2026-11-10T16:10:00.000Z |
+| ep08-claw | en.instagram | scheduled |  | 2026-11-10T16:10:00.000Z |
+| ep08-claw | en.tiktok | scheduled |  | 2026-11-10T16:10:00.000Z |
+| ep08-claw | en.youtube | scheduled |  | 2026-11-10T16:10:00.000Z |
+| ep09-submarine | ar.instagram | scheduled |  | 2026-11-10T16:20:00.000Z |
+| ep09-submarine | ar.tiktok | scheduled |  | 2026-11-10T16:20:00.000Z |
+| ep09-submarine | ar.youtube | scheduled |  | 2026-11-10T16:20:00.000Z |
+| ep09-submarine | en.instagram | scheduled |  | 2026-11-10T16:20:00.000Z |
+| ep09-submarine | en.tiktok | scheduled |  | 2026-11-10T16:20:00.000Z |
+| ep09-submarine | en.youtube | scheduled |  | 2026-11-10T16:20:00.000Z |
+| ep10-toilet | ar.instagram | scheduled |  | 2026-11-10T16:30:00.000Z |
+| ep10-toilet | ar.tiktok | scheduled |  | 2026-11-10T16:30:00.000Z |
+| ep10-toilet | ar.youtube | scheduled |  | 2026-11-10T16:30:00.000Z |
+| ep10-toilet | en.instagram | scheduled |  | 2026-11-10T16:30:00.000Z |
+| ep10-toilet | en.tiktok | scheduled |  | 2026-11-10T16:30:00.000Z |
+| ep10-toilet | en.youtube | scheduled |  | 2026-11-10T16:30:00.000Z |
+| ep11-airplane | ar.instagram | scheduled |  | 2026-11-10T16:40:00.000Z |
+| ep11-airplane | ar.tiktok | scheduled |  | 2026-11-10T16:40:00.000Z |
+| ep11-airplane | ar.youtube | scheduled |  | 2026-11-10T16:40:00.000Z |
+| ep11-airplane | en.instagram | scheduled |  | 2026-11-10T16:40:00.000Z |
+| ep11-airplane | en.tiktok | scheduled |  | 2026-11-10T16:40:00.000Z |
+| ep11-airplane | en.youtube | scheduled |  | 2026-11-10T16:40:00.000Z |
+| ep12-fireworks | ar.instagram | scheduled |  | 2026-11-10T16:50:00.000Z |
+| ep12-fireworks | ar.tiktok | scheduled |  | 2026-11-10T16:50:00.000Z |
+| ep12-fireworks | ar.youtube | scheduled |  | 2026-11-10T16:50:00.000Z |
+| ep12-fireworks | en.instagram | scheduled |  | 2026-11-10T16:50:00.000Z |
+| ep12-fireworks | en.tiktok | scheduled |  | 2026-11-10T16:50:00.000Z |
+| ep12-fireworks | en.youtube | scheduled |  | 2026-11-10T16:50:00.000Z |
+| ep13-vault | ar.instagram | scheduled |  | 2026-11-10T17:00:00.000Z |
+| ep13-vault | ar.tiktok | scheduled |  | 2026-11-10T17:00:00.000Z |
+| ep13-vault | ar.youtube | scheduled |  | 2026-11-10T17:00:00.000Z |
+| ep13-vault | en.instagram | scheduled |  | 2026-11-10T17:00:00.000Z |
+| ep13-vault | en.tiktok | scheduled |  | 2026-11-10T17:00:00.000Z |
+| ep13-vault | en.youtube | scheduled |  | 2026-11-10T17:00:00.000Z |
+| ep14-aircon | ar.instagram | scheduled |  | 2026-11-10T17:10:00.000Z |
+| ep14-aircon | ar.tiktok | scheduled |  | 2026-11-10T17:10:00.000Z |
+| ep14-aircon | ar.youtube | scheduled |  | 2026-11-10T17:10:00.000Z |
+| ep14-aircon | en.instagram | scheduled |  | 2026-11-10T17:10:00.000Z |
+| ep14-aircon | en.tiktok | scheduled |  | 2026-11-10T17:10:00.000Z |
+| ep14-aircon | en.youtube | scheduled |  | 2026-11-10T17:10:00.000Z |
+| ep15-station | ar.instagram | scheduled |  | 2026-11-10T17:20:00.000Z |
+| ep15-station | ar.tiktok | scheduled |  | 2026-11-10T17:20:00.000Z |
+| ep15-station | ar.youtube | scheduled |  | 2026-11-10T17:20:00.000Z |
+| ep15-station | en.instagram | scheduled |  | 2026-11-10T17:20:00.000Z |
+| ep15-station | en.tiktok | scheduled |  | 2026-11-10T17:20:00.000Z |
+| ep15-station | en.youtube | scheduled |  | 2026-11-10T17:20:00.000Z |
