@@ -1,9 +1,9 @@
-"""Move queued posts of one language up to the next hour, in episode order (no duplicates: edits the Buffer posts).
+"""Move queued posts up, platform by platform (edits the Buffer posts: no duplicates).
 
-    python scripts/move_up.py en [first_minutes=5] [gap_minutes=10]
+    python scripts/move_up.py <lang> <platforms in order> <first_minutes> <gap_minutes>
+    python scripts/move_up.py en youtube,instagram 2 1   -> every YouTube post first, 1 min apart, then Instagram
 
-Each episode's posts get the same time; episode N goes out first_minutes + (N-1)*gap_minutes from now.  The edit
-resends the post's caption, video, title and settings, so nothing is lost whatever Buffer does with missing fields.
+Only posts Buffer still lists as scheduled are touched.  The edit resends caption, video, title and settings.
 """
 import datetime as dt
 import os
@@ -15,30 +15,30 @@ from buffer import BufferError  # noqa: E402
 
 
 def main():
-    lang = sys.argv[1]
-    first = float(sys.argv[2]) if len(sys.argv) > 2 else 5
-    gap = float(sys.argv[3]) if len(sys.argv) > 3 else 10
+    lang, order = sys.argv[1], sys.argv[2].split(",")
+    first, gap = float(sys.argv[3]), float(sys.argv[4])
     cfg = post.load_yaml(os.path.join(post.ROOT, "config.yml"))
     key = os.environ.get(cfg["keys"][lang], "").strip()
     if not key:
         sys.exit(f"no Buffer key for {lang}")
     acc = post.Account(key, lang)
+    queued = set()
+    for org in {ch["organizationId"] for ch in acc.channels.values()}:
+        queued |= {n.get("id") for n in acc.buf.posts(org, ["scheduled"])}
+    post.log(f"{len(queued)} posts still queued in Buffer")
     files = sorted(f for f in os.listdir(os.path.join(post.ROOT, "posts")) if f.endswith(".yml"))
+    eps = [(fn[:-4], post.load_yaml(os.path.join(post.ROOT, "posts", fn))) for fn in files]
+    states = {slug: post.load_state(slug) for slug, _ in eps}
     slot = 0
-    for fn in files:
-        ep = post.load_yaml(os.path.join(post.ROOT, "posts", fn))
-        slug, st = fn[:-4], post.load_state(fn[:-4])
-        todo = [p for p in post.PLATFORMS
-                if st["targets"].get(f"{lang}.{p}", {}).get("id")
-                and st["targets"][f"{lang}.{p}"].get("status") not in ("sent", "sending")]
-        if not todo:
-            continue
-        when = post.NOW + dt.timedelta(minutes=first + gap * slot)
-        slot += 1
-        due = when.strftime("%Y-%m-%dT%H:%M:%S.000Z")
-        for platform in todo:
+    for platform in order:
+        for slug, ep in eps:
             tgt = f"{lang}.{platform}"
-            rec = st["targets"][tgt]
+            rec = states[slug]["targets"].get(tgt) or {}
+            if not rec.get("id") or rec["id"] not in queued:
+                continue
+            when = post.NOW + dt.timedelta(minutes=first + gap * slot)
+            slot += 1
+            due = when.strftime("%Y-%m-%dT%H:%M:%S.000Z")
             inp = {"id": rec["id"], "text": post.caption_for(cfg, ep, lang, platform), "schedulingType": "automatic",
                    "assets": acc.video_assets(post.media_url(cfg, ep["video"][lang])), "mode": "customScheduled",
                    "dueAt": due}
@@ -52,9 +52,10 @@ def main():
                 p = acc.buf.edit_post(inp)
                 rec.update({"dueAt": p.get("dueAt") or due, "status": p.get("status") or rec.get("status"),
                             "mode": "customScheduled", "moved": post.NOW.isoformat(timespec="seconds")})
-                post.log(f"{slug} {tgt}: moved to {when.astimezone(dt.timezone.utc):%H:%M} UTC (status {p.get('status')})")
+                post.log(f"{slug} {tgt}: moved to {when:%H:%M} UTC")
             except (BufferError, RuntimeError) as e:
                 post.log(f"{slug} {tgt}: NOT moved: {str(e)[:300]}")
+    for slug, st in states.items():
         post.save_state(slug, st)
     with open(os.path.join(post.ROOT, "state", "last-run.md"), "w", encoding="utf-8") as f:
         f.write(f"# Move-up run {post.NOW.isoformat(timespec='seconds')}\n\n" + "\n".join(f"- {m}" for m in post.LOG) + "\n")
