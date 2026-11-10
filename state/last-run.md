@@ -1,28 +1,8 @@
-# Last posting run 2026-11-10T17:26:38+00:00
+# Requeue run 2026-11-10T18:26:38+00:00
 
-- en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
-- ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
-- ep16-bridge en.tiktok: on hold in posts/ep16-bridge.yml
-- ep16-bridge ar.tiktok: on hold in posts/ep16-bridge.yml
-- ep17-vending en.tiktok: on hold in posts/ep17-vending.yml
-- ep17-vending ar.tiktok: on hold in posts/ep17-vending.yml
-- ep18-metro en.youtube: on hold in posts/ep18-metro.yml
-- ep18-metro en.instagram: scheduled (Tue 10 Nov 17:50 UTC) id 6af353d1341cea4af623bad8
-- ep18-metro en.tiktok: on hold in posts/ep18-metro.yml
-- ep18-metro ar.youtube: on hold in posts/ep18-metro.yml
-- ep18-metro ar.instagram: scheduled (Tue 10 Nov 17:50 UTC) id 6af353d21d932748c7ddc175
-- ep18-metro ar.tiktok: on hold in posts/ep18-metro.yml
-- ep19-dam en.youtube: on hold in posts/ep19-dam.yml
-- ep19-dam en.instagram: scheduled (Tue 10 Nov 18:00 UTC) id 6af353d40649793ed2fa36b5
-- ep19-dam en.tiktok: on hold in posts/ep19-dam.yml
-- ep19-dam ar.youtube: on hold in posts/ep19-dam.yml
-- ep19-dam ar.instagram: scheduled (Tue 10 Nov 18:00 UTC) id 6af353d6eca53e2861f517c4
-- ep19-dam ar.tiktok: on hold in posts/ep19-dam.yml
-- ep20-racecar en.youtube: on hold in posts/ep20-racecar.yml
-- ep20-racecar en.instagram: scheduled (Tue 10 Nov 18:10 UTC) id 6af353d894964d984f069760
-- ep20-racecar en.tiktok: on hold in posts/ep20-racecar.yml
-- ep20-racecar ar.youtube: on hold in posts/ep20-racecar.yml
-- ep20-racecar ar.instagram: scheduled (Tue 10 Nov 18:10 UTC) id 6af353da5c5c3532713ee19c
-- ep20-racecar ar.tiktok: on hold in posts/ep20-racecar.yml
-- en: 5 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=142; t=747, "24h"; r=65; t=47172, "30d"; r=2465; t=2552772; ratelimit-policy="15m"; q=15
-- ar: 5 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=142; t=746, "24h"; r=228; t=53299, "30d"; r=2628; t=2558899; ratelimit-policy="15m"; q=1
+- ep10-toilet ar.tiktok: queued for 16:00 UTC (Buffer status now: scheduled)
+- ep11-airplane ar.tiktok: queued for 16:10 UTC (Buffer status now: scheduled)
+- ep12-fireworks ar.tiktok: queued for 16:20 UTC (Buffer status now: scheduled)
+- ep13-vault ar.tiktok: queued for 16:30 UTC (Buffer status now: scheduled)
+- ep14-aircon ar.tiktok: queued for 16:40 UTC (Buffer status now: scheduled)
+- ep15-station ar.tiktok: queued for 16:50 UTC (Buffer status now: scheduled)
