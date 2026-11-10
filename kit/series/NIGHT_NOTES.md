@@ -111,7 +111,8 @@
   force (run 13:43 UTC). Episodes 1-5 (posted) had none. Racecar uses "320 كم/س", "20 شخص", "12 طن", "N زر": fine now.
 - Saudi voices measured with tools/check_ar_voice.py: all fine except station line 6 (fix run dispatched 13:57 UTC) and
   bridge line 14 (the year; 34%: fix=14 to dispatch after the forced bridge run ends).
-- Draft post texts for 6-20 are in the repo: drafts/epNN-kit.yml (dates 2026-11-19 .. 12-03 proposed). To schedule after his
+- Draft post texts for 6-20 are in the repo: drafts/epNN-kit.yml (dates 2026-11-11 .. 11-25 proposed: Season 1 all went out Nov 9-10, so no gap). Buffer free plan queues at most 10
+  posts per channel: move 6-15 first, 16-20 once some have gone out. To schedule after his
   approval: git mv drafts/epNN-kit.yml posts/ and push (the post workflow reads posts/ only).
 - racecar.py reusable bits: car() with parts as 0..1 parameters (wings, halo, nose crumple, paint wipe, stickers, x-ray);
   world that scrolls past a fixed car (self.speed Track -> self.dist_at(t), tiles drawn modulo a period, long periods so the
