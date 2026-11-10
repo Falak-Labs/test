@@ -1,0 +1,31 @@
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+loaded PerthNet (Implicit) at step 250,000
+model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+  L 1 seed 302    3.17s 10.7 l/s  ok  asr 29%  (37s)
+  L 2 seed 303    4.67s 12.6 l/s  ok  asr 20%  (44s)
+  L 3 seed 304    5.08s 13.4 l/s  ok  asr 17%  (49s)
+  L 4 seed 305    3.65s 14.0 l/s  ok  asr 23%  (38s)
+  L 5 seed 306    6.65s 13.1 l/s  stopped early  asr 7%  (60s)
+  L 5 seed 1306   6.51s 13.4 l/s  stopped early  asr 9%  (59s)
+  L 5 seed 2306   6.70s 13.0 l/s  stopped early  asr 8%  (60s)
+  L 6 seed 307    3.68s 14.4 l/s  ok  asr 25%  (38s)
+  L 7 seed 308    5.74s 12.4 l/s  ok  asr 8%  (52s)
+  L 8 seed 309    4.35s 12.0 l/s  ok  asr 11%  (42s)
+  L 9 seed 310    4.11s 10.5 l/s  ok  asr 9%  (40s)
+  L10 seed 311    3.30s 13.9 l/s  ok  asr 9%  (34s)
+  L11 seed 312    3.55s 11.5 l/s  ok  asr 15%  (37s)
+  L12 seed 313    3.38s 10.4 l/s  ok  asr 16%  (32s)
+  L13 seed 314    3.20s  9.4 l/s  ok  asr 11%  (33s)
+  L14 seed 315    4.22s 12.1 l/s  ok  asr 8%  (40s)
+NAMAA Saudi built-in: 14 lines, 165 words, 62.65s (2.63 words/s), 708s -> series/voice/dam_ar_sa.wav  CHECK lines [5]
+dam_ar_sa: 65.75s, 1972 frames
+video done in 513s
+audio done
+final out/dam_ar_sa/dam_ar_sa_final.mp4
+QA  duration 65.73s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 1972
+QA sheet out/dam_ar_sa/qa_sheet.png
