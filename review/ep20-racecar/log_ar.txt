@@ -1,0 +1,30 @@
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+loaded PerthNet (Implicit) at step 250,000
+model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+  L 1 seed 302    3.96s 13.4 l/s  ok  asr 14%  (33s)
+  L 2 seed 303    3.45s 10.4 l/s  ok  asr 24%  (27s)
+  L 3 seed 304    4.38s 13.2 l/s  ok  asr 14%  (34s)
+  L 4 seed 305    5.49s 14.0 l/s  ok  asr 22%  (41s)
+  L 5 seed 306    5.44s 13.1 l/s  ok  asr 4%  (40s)
+  L 6 seed 307    3.41s 14.7 l/s  stopped early, 15 letters/s  asr 15%  (27s)
+  L 6 seed 1307   3.46s 14.5 l/s  ok  asr 15%  (28s)
+  L 7 seed 308    6.44s 12.3 l/s  ok  asr 17%  (45s)
+  L 8 seed 309    3.21s 11.2 l/s  ok  asr 7%  (26s)
+  L 9 seed 310    6.32s 13.4 l/s  ok  asr 24%  (45s)
+  L10 seed 311    3.94s 12.2 l/s  ok  asr 11%  (29s)
+  L11 seed 312    4.90s 11.8 l/s  ok  asr 12%  (35s)
+  L12 seed 313    3.20s  8.8 l/s  ok  asr 5%  (26s)
+  L13 seed 314    2.72s 10.3 l/s  ok  asr 17%  (23s)
+  L14 seed 315    3.36s 12.8 l/s  ok  asr 4%  (27s)
+NAMAA Saudi built-in: 14 lines, 174 words, 64.17s (2.71 words/s), 499s -> series/voice/racecar_ar_sa.wav
+racecar_ar_sa: 67.27s, 2018 frames
+video done in 611s
+audio done
+final out/racecar_ar_sa/racecar_ar_sa_final.mp4
+QA  duration 67.27s  loudness -14.0 LUFS  true peak -1.9 dBFS  1080x1920 @ 30/1  frames 2018
+QA sheet out/racecar_ar_sa/qa_sheet.png
