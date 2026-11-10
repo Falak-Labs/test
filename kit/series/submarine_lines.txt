@@ -1,10 +1,10 @@
 If you seal up a barrel and roll it into the sea, congrats, you just built a submarine.
-But it floats like a cork, and you just bob around, waving at seagulls.
-So you add ballast tanks: open the vents, seawater floods in, and you sink. Blow it out with compressed air, and you rise.
+But it just floats like a cork, and you bob around, waving at seagulls.
+So you add ballast tanks: open the vents, seawater floods in, and you sink. Push it out with compressed air, and you rise.
 Now you can dive, until the deep water squeezes your barrel like a soda can.
 So you build a pressure hull: a thick steel tube with rounded ends, braced by steel rings, so the squeeze spreads evenly.
 But it's dark down there, you have no windows, and you just drove into a mountain.
-So you add sonar, which sends out a ping and listens for the echo, and a periscope for a peek at the surface.
+So you add sonar, which sends out a loud ping and listens for the echo, and a periscope for a peek at the surface.
 Now you can find your way, until the air goes stale, and the whole crew gets a headache.
 So you add scrubbers that soak up the carbon dioxide, and a machine that splits water into oxygen. Now only the food can run out.
 But before you dive, follow, because next we're building a toilet.

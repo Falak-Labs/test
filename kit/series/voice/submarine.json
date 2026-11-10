@@ -2,93 +2,1286 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 64.61,
- "words": 232,
+ "duration": 64.93,
+ "words": 233,
  "words_per_sec": 3.59,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
    "end": 4.25,
-   "text": "If you seal up a barrel and roll it into the sea, congrats, you just built a submarine."
+   "text": "If you seal up a barrel and roll it into the sea, congrats, you just built a submarine.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.313
+    },
+    {
+     "w": "you",
+     "start": 0.313,
+     "end": 0.495
+    },
+    {
+     "w": "seal",
+     "start": 0.495,
+     "end": 0.678
+    },
+    {
+     "w": "up",
+     "start": 0.678,
+     "end": 0.861
+    },
+    {
+     "w": "a",
+     "start": 0.861,
+     "end": 1.043
+    },
+    {
+     "w": "barrel",
+     "start": 1.043,
+     "end": 1.361
+    },
+    {
+     "w": "and",
+     "start": 1.361,
+     "end": 1.544
+    },
+    {
+     "w": "roll",
+     "start": 1.544,
+     "end": 1.726
+    },
+    {
+     "w": "it",
+     "start": 1.726,
+     "end": 1.909
+    },
+    {
+     "w": "into",
+     "start": 1.909,
+     "end": 2.227
+    },
+    {
+     "w": "the",
+     "start": 2.227,
+     "end": 2.409
+    },
+    {
+     "w": "sea,",
+     "start": 2.409,
+     "end": 2.592
+    },
+    {
+     "w": "congrats,",
+     "start": 2.592,
+     "end": 2.91
+    },
+    {
+     "w": "you",
+     "start": 3.05,
+     "end": 3.224
+    },
+    {
+     "w": "just",
+     "start": 3.224,
+     "end": 3.399
+    },
+    {
+     "w": "built",
+     "start": 3.399,
+     "end": 3.573
+    },
+    {
+     "w": "a",
+     "start": 3.573,
+     "end": 3.747
+    },
+    {
+     "w": "submarine.",
+     "start": 3.747,
+     "end": 4.18
+    }
+   ]
   },
   {
    "line": 2,
    "start": 4.615,
-   "end": 8.312,
-   "text": "But it floats like a cork, and you just bob around, waving at seagulls."
+   "end": 8.427,
+   "text": "But it just floats like a cork, and you bob around, waving at seagulls.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.755,
+     "end": 4.956
+    },
+    {
+     "w": "it",
+     "start": 4.956,
+     "end": 5.158
+    },
+    {
+     "w": "just",
+     "start": 5.158,
+     "end": 5.359
+    },
+    {
+     "w": "floats",
+     "start": 5.359,
+     "end": 5.561
+    },
+    {
+     "w": "like",
+     "start": 5.561,
+     "end": 5.762
+    },
+    {
+     "w": "a",
+     "start": 5.762,
+     "end": 5.964
+    },
+    {
+     "w": "cork,",
+     "start": 5.964,
+     "end": 6.165
+    },
+    {
+     "w": "and",
+     "start": 6.295,
+     "end": 6.481
+    },
+    {
+     "w": "you",
+     "start": 6.481,
+     "end": 6.666
+    },
+    {
+     "w": "bob",
+     "start": 6.666,
+     "end": 6.852
+    },
+    {
+     "w": "around,",
+     "start": 6.852,
+     "end": 7.175
+    },
+    {
+     "w": "waving",
+     "start": 7.315,
+     "end": 7.715
+    },
+    {
+     "w": "at",
+     "start": 7.715,
+     "end": 7.945
+    },
+    {
+     "w": "seagulls.",
+     "start": 7.945,
+     "end": 8.345
+    }
+   ]
   },
   {
    "line": 3,
-   "start": 8.677,
-   "end": 15.135,
-   "text": "So you add ballast tanks: open the vents, seawater floods in, and you sink. Blow it out with compressed air, and you rise."
+   "start": 8.792,
+   "end": 15.188,
+   "text": "So you add ballast tanks: open the vents, seawater floods in, and you sink. Push it out with compressed air, and you rise.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.902,
+     "end": 9.127
+    },
+    {
+     "w": "you",
+     "start": 9.127,
+     "end": 9.351
+    },
+    {
+     "w": "add",
+     "start": 9.351,
+     "end": 9.576
+    },
+    {
+     "w": "ballast",
+     "start": 9.576,
+     "end": 9.967
+    },
+    {
+     "w": "tanks:",
+     "start": 9.967,
+     "end": 10.192
+    },
+    {
+     "w": "open",
+     "start": 10.332,
+     "end": 10.676
+    },
+    {
+     "w": "the",
+     "start": 10.676,
+     "end": 10.874
+    },
+    {
+     "w": "vents,",
+     "start": 10.874,
+     "end": 11.072
+    },
+    {
+     "w": "seawater",
+     "start": 11.212,
+     "end": 11.816
+    },
+    {
+     "w": "floods",
+     "start": 11.816,
+     "end": 12.059
+    },
+    {
+     "w": "in,",
+     "start": 12.059,
+     "end": 12.302
+    },
+    {
+     "w": "and",
+     "start": 12.442,
+     "end": 12.615
+    },
+    {
+     "w": "you",
+     "start": 12.615,
+     "end": 12.789
+    },
+    {
+     "w": "sink.",
+     "start": 12.789,
+     "end": 12.962
+    },
+    {
+     "w": "Push",
+     "start": 13.122,
+     "end": 13.292
+    },
+    {
+     "w": "it",
+     "start": 13.292,
+     "end": 13.462
+    },
+    {
+     "w": "out",
+     "start": 13.462,
+     "end": 13.631
+    },
+    {
+     "w": "with",
+     "start": 13.631,
+     "end": 13.801
+    },
+    {
+     "w": "compressed",
+     "start": 13.801,
+     "end": 14.222
+    },
+    {
+     "w": "air,",
+     "start": 14.222,
+     "end": 14.392
+    },
+    {
+     "w": "and",
+     "start": 14.532,
+     "end": 14.729
+    },
+    {
+     "w": "you",
+     "start": 14.729,
+     "end": 14.925
+    },
+    {
+     "w": "rise.",
+     "start": 14.925,
+     "end": 15.122
+    }
+   ]
   },
   {
    "line": 4,
-   "start": 15.5,
-   "end": 19.375,
-   "text": "Now you can dive, until the deep water squeezes your barrel like a soda can."
+   "start": 15.552,
+   "end": 19.427,
+   "text": "Now you can dive, until the deep water squeezes your barrel like a soda can.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 15.662,
+     "end": 15.874
+    },
+    {
+     "w": "you",
+     "start": 15.874,
+     "end": 16.087
+    },
+    {
+     "w": "can",
+     "start": 16.087,
+     "end": 16.299
+    },
+    {
+     "w": "dive,",
+     "start": 16.299,
+     "end": 16.512
+    },
+    {
+     "w": "until",
+     "start": 16.662,
+     "end": 16.98
+    },
+    {
+     "w": "the",
+     "start": 16.98,
+     "end": 17.163
+    },
+    {
+     "w": "deep",
+     "start": 17.163,
+     "end": 17.346
+    },
+    {
+     "w": "water",
+     "start": 17.346,
+     "end": 17.665
+    },
+    {
+     "w": "squeezes",
+     "start": 17.665,
+     "end": 17.983
+    },
+    {
+     "w": "your",
+     "start": 17.983,
+     "end": 18.166
+    },
+    {
+     "w": "barrel",
+     "start": 18.166,
+     "end": 18.485
+    },
+    {
+     "w": "like",
+     "start": 18.485,
+     "end": 18.668
+    },
+    {
+     "w": "a",
+     "start": 18.668,
+     "end": 18.851
+    },
+    {
+     "w": "soda",
+     "start": 18.851,
+     "end": 19.169
+    },
+    {
+     "w": "can.",
+     "start": 19.169,
+     "end": 19.352
+    }
+   ]
   },
   {
    "line": 5,
-   "start": 19.74,
-   "end": 25.458,
-   "text": "So you build a pressure hull: a thick steel tube with rounded ends, braced by steel rings, so the squeeze spreads evenly."
+   "start": 19.792,
+   "end": 25.51,
+   "text": "So you build a pressure hull: a thick steel tube with rounded ends, braced by steel rings, so the squeeze spreads evenly.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.902,
+     "end": 20.107
+    },
+    {
+     "w": "you",
+     "start": 20.107,
+     "end": 20.311
+    },
+    {
+     "w": "build",
+     "start": 20.311,
+     "end": 20.516
+    },
+    {
+     "w": "a",
+     "start": 20.516,
+     "end": 20.721
+    },
+    {
+     "w": "pressure",
+     "start": 20.721,
+     "end": 21.077
+    },
+    {
+     "w": "hull:",
+     "start": 21.077,
+     "end": 21.282
+    },
+    {
+     "w": "a",
+     "start": 21.392,
+     "end": 21.59
+    },
+    {
+     "w": "thick",
+     "start": 21.59,
+     "end": 21.787
+    },
+    {
+     "w": "steel",
+     "start": 21.787,
+     "end": 21.985
+    },
+    {
+     "w": "tube",
+     "start": 21.985,
+     "end": 22.183
+    },
+    {
+     "w": "with",
+     "start": 22.183,
+     "end": 22.38
+    },
+    {
+     "w": "rounded",
+     "start": 22.38,
+     "end": 22.724
+    },
+    {
+     "w": "ends,",
+     "start": 22.724,
+     "end": 22.922
+    },
+    {
+     "w": "braced",
+     "start": 23.032,
+     "end": 23.396
+    },
+    {
+     "w": "by",
+     "start": 23.396,
+     "end": 23.604
+    },
+    {
+     "w": "steel",
+     "start": 23.604,
+     "end": 23.813
+    },
+    {
+     "w": "rings,",
+     "start": 23.813,
+     "end": 24.022
+    },
+    {
+     "w": "so",
+     "start": 24.162,
+     "end": 24.359
+    },
+    {
+     "w": "the",
+     "start": 24.359,
+     "end": 24.557
+    },
+    {
+     "w": "squeeze",
+     "start": 24.557,
+     "end": 24.754
+    },
+    {
+     "w": "spreads",
+     "start": 24.754,
+     "end": 24.952
+    },
+    {
+     "w": "evenly.",
+     "start": 24.952,
+     "end": 25.442
+    }
+   ]
   },
   {
    "line": 6,
-   "start": 25.823,
-   "end": 29.656,
-   "text": "But it's dark down there, you have no windows, and you just drove into a mountain."
+   "start": 25.875,
+   "end": 29.708,
+   "text": "But it's dark down there, you have no windows, and you just drove into a mountain.",
+   "words": [
+    {
+     "w": "But",
+     "start": 26.005,
+     "end": 26.223
+    },
+    {
+     "w": "it's",
+     "start": 26.223,
+     "end": 26.441
+    },
+    {
+     "w": "dark",
+     "start": 26.441,
+     "end": 26.659
+    },
+    {
+     "w": "down",
+     "start": 26.659,
+     "end": 26.877
+    },
+    {
+     "w": "there,",
+     "start": 26.877,
+     "end": 27.095
+    },
+    {
+     "w": "you",
+     "start": 27.235,
+     "end": 27.431
+    },
+    {
+     "w": "have",
+     "start": 27.431,
+     "end": 27.627
+    },
+    {
+     "w": "no",
+     "start": 27.627,
+     "end": 27.824
+    },
+    {
+     "w": "windows,",
+     "start": 27.824,
+     "end": 28.165
+    },
+    {
+     "w": "and",
+     "start": 28.285,
+     "end": 28.444
+    },
+    {
+     "w": "you",
+     "start": 28.444,
+     "end": 28.603
+    },
+    {
+     "w": "just",
+     "start": 28.603,
+     "end": 28.763
+    },
+    {
+     "w": "drove",
+     "start": 28.763,
+     "end": 28.922
+    },
+    {
+     "w": "into",
+     "start": 28.922,
+     "end": 29.199
+    },
+    {
+     "w": "a",
+     "start": 29.199,
+     "end": 29.358
+    },
+    {
+     "w": "mountain.",
+     "start": 29.358,
+     "end": 29.635
+    }
+   ]
   },
   {
    "line": 7,
-   "start": 30.021,
-   "end": 35.125,
-   "text": "So you add sonar, which sends out a ping and listens for the echo, and a periscope for a peek at the surface."
+   "start": 30.073,
+   "end": 35.427,
+   "text": "So you add sonar, which sends out a loud ping and listens for the echo, and a periscope for a peek at the surface.",
+   "words": [
+    {
+     "w": "So",
+     "start": 30.183,
+     "end": 30.373
+    },
+    {
+     "w": "you",
+     "start": 30.373,
+     "end": 30.563
+    },
+    {
+     "w": "add",
+     "start": 30.563,
+     "end": 30.753
+    },
+    {
+     "w": "sonar,",
+     "start": 30.753,
+     "end": 31.083
+    },
+    {
+     "w": "which",
+     "start": 31.233,
+     "end": 31.409
+    },
+    {
+     "w": "sends",
+     "start": 31.409,
+     "end": 31.586
+    },
+    {
+     "w": "out",
+     "start": 31.586,
+     "end": 31.762
+    },
+    {
+     "w": "a",
+     "start": 31.762,
+     "end": 31.938
+    },
+    {
+     "w": "loud",
+     "start": 31.938,
+     "end": 32.114
+    },
+    {
+     "w": "ping",
+     "start": 32.114,
+     "end": 32.291
+    },
+    {
+     "w": "and",
+     "start": 32.291,
+     "end": 32.467
+    },
+    {
+     "w": "listens",
+     "start": 32.467,
+     "end": 32.774
+    },
+    {
+     "w": "for",
+     "start": 32.774,
+     "end": 32.95
+    },
+    {
+     "w": "the",
+     "start": 32.95,
+     "end": 33.126
+    },
+    {
+     "w": "echo,",
+     "start": 33.126,
+     "end": 33.433
+    },
+    {
+     "w": "and",
+     "start": 33.593,
+     "end": 33.751
+    },
+    {
+     "w": "a",
+     "start": 33.751,
+     "end": 33.908
+    },
+    {
+     "w": "periscope",
+     "start": 33.908,
+     "end": 34.3
+    },
+    {
+     "w": "for",
+     "start": 34.3,
+     "end": 34.458
+    },
+    {
+     "w": "a",
+     "start": 34.458,
+     "end": 34.615
+    },
+    {
+     "w": "peek",
+     "start": 34.615,
+     "end": 34.773
+    },
+    {
+     "w": "at",
+     "start": 34.773,
+     "end": 34.931
+    },
+    {
+     "w": "the",
+     "start": 34.931,
+     "end": 35.088
+    },
+    {
+     "w": "surface.",
+     "start": 35.088,
+     "end": 35.363
+    }
+   ]
   },
   {
    "line": 8,
-   "start": 35.49,
-   "end": 39.469,
-   "text": "Now you can find your way, until the air goes stale, and the whole crew gets a headache."
+   "start": 35.792,
+   "end": 39.771,
+   "text": "Now you can find your way, until the air goes stale, and the whole crew gets a headache.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 35.902,
+     "end": 36.084
+    },
+    {
+     "w": "you",
+     "start": 36.084,
+     "end": 36.265
+    },
+    {
+     "w": "can",
+     "start": 36.265,
+     "end": 36.447
+    },
+    {
+     "w": "find",
+     "start": 36.447,
+     "end": 36.629
+    },
+    {
+     "w": "your",
+     "start": 36.629,
+     "end": 36.81
+    },
+    {
+     "w": "way,",
+     "start": 36.81,
+     "end": 36.992
+    },
+    {
+     "w": "until",
+     "start": 37.112,
+     "end": 37.382
+    },
+    {
+     "w": "the",
+     "start": 37.382,
+     "end": 37.537
+    },
+    {
+     "w": "air",
+     "start": 37.537,
+     "end": 37.692
+    },
+    {
+     "w": "goes",
+     "start": 37.692,
+     "end": 37.847
+    },
+    {
+     "w": "stale,",
+     "start": 37.847,
+     "end": 38.002
+    },
+    {
+     "w": "and",
+     "start": 38.052,
+     "end": 38.256
+    },
+    {
+     "w": "the",
+     "start": 38.256,
+     "end": 38.46
+    },
+    {
+     "w": "whole",
+     "start": 38.46,
+     "end": 38.664
+    },
+    {
+     "w": "crew",
+     "start": 38.664,
+     "end": 38.868
+    },
+    {
+     "w": "gets",
+     "start": 38.868,
+     "end": 39.073
+    },
+    {
+     "w": "a",
+     "start": 39.073,
+     "end": 39.277
+    },
+    {
+     "w": "headache.",
+     "start": 39.277,
+     "end": 39.632
+    }
+   ]
   },
   {
    "line": 9,
-   "start": 39.833,
-   "end": 46.167,
-   "text": "So you add scrubbers that soak up the carbon dioxide, and a machine that splits water into oxygen. Now only the food can run out."
+   "start": 40.135,
+   "end": 46.469,
+   "text": "So you add scrubbers that soak up the carbon dioxide, and a machine that splits water into oxygen. Now only the food can run out.",
+   "words": [
+    {
+     "w": "So",
+     "start": 40.245,
+     "end": 40.439
+    },
+    {
+     "w": "you",
+     "start": 40.439,
+     "end": 40.633
+    },
+    {
+     "w": "add",
+     "start": 40.633,
+     "end": 40.827
+    },
+    {
+     "w": "scrubbers",
+     "start": 40.827,
+     "end": 41.164
+    },
+    {
+     "w": "that",
+     "start": 41.164,
+     "end": 41.358
+    },
+    {
+     "w": "soak",
+     "start": 41.358,
+     "end": 41.552
+    },
+    {
+     "w": "up",
+     "start": 41.552,
+     "end": 41.746
+    },
+    {
+     "w": "the",
+     "start": 41.746,
+     "end": 41.94
+    },
+    {
+     "w": "carbon",
+     "start": 41.94,
+     "end": 42.277
+    },
+    {
+     "w": "dioxide,",
+     "start": 42.277,
+     "end": 42.615
+    },
+    {
+     "w": "and",
+     "start": 42.615,
+     "end": 42.809
+    },
+    {
+     "w": "a",
+     "start": 42.809,
+     "end": 43.003
+    },
+    {
+     "w": "machine",
+     "start": 43.003,
+     "end": 43.34
+    },
+    {
+     "w": "that",
+     "start": 43.34,
+     "end": 43.534
+    },
+    {
+     "w": "splits",
+     "start": 43.534,
+     "end": 43.728
+    },
+    {
+     "w": "water",
+     "start": 43.728,
+     "end": 44.065
+    },
+    {
+     "w": "into",
+     "start": 44.065,
+     "end": 44.403
+    },
+    {
+     "w": "oxygen.",
+     "start": 44.403,
+     "end": 44.884
+    },
+    {
+     "w": "Now",
+     "start": 44.884,
+     "end": 45.078
+    },
+    {
+     "w": "only",
+     "start": 45.078,
+     "end": 45.416
+    },
+    {
+     "w": "the",
+     "start": 45.416,
+     "end": 45.609
+    },
+    {
+     "w": "food",
+     "start": 45.609,
+     "end": 45.803
+    },
+    {
+     "w": "can",
+     "start": 45.803,
+     "end": 45.997
+    },
+    {
+     "w": "run",
+     "start": 45.997,
+     "end": 46.191
+    },
+    {
+     "w": "out.",
+     "start": 46.191,
+     "end": 46.385
+    }
+   ]
   },
   {
    "line": 10,
-   "start": 46.531,
-   "end": 49.698,
-   "text": "But before you dive, follow, because next we're building a toilet."
+   "start": 46.833,
+   "end": 50.0,
+   "text": "But before you dive, follow, because next we're building a toilet.",
+   "words": [
+    {
+     "w": "But",
+     "start": 46.983,
+     "end": 47.179
+    },
+    {
+     "w": "before",
+     "start": 47.179,
+     "end": 47.521
+    },
+    {
+     "w": "you",
+     "start": 47.521,
+     "end": 47.717
+    },
+    {
+     "w": "dive,",
+     "start": 47.717,
+     "end": 47.913
+    },
+    {
+     "w": "follow,",
+     "start": 48.083,
+     "end": 48.423
+    },
+    {
+     "w": "because",
+     "start": 48.553,
+     "end": 48.847
+    },
+    {
+     "w": "next",
+     "start": 48.847,
+     "end": 49.016
+    },
+    {
+     "w": "we're",
+     "start": 49.016,
+     "end": 49.185
+    },
+    {
+     "w": "building",
+     "start": 49.185,
+     "end": 49.48
+    },
+    {
+     "w": "a",
+     "start": 49.48,
+     "end": 49.649
+    },
+    {
+     "w": "toilet.",
+     "start": 49.649,
+     "end": 49.943
+    }
+   ]
   },
   {
    "line": 11,
-   "start": 50.063,
-   "end": 53.688,
-   "text": "Now just add a propeller, paint it black, and tell nobody where you parked it."
+   "start": 50.365,
+   "end": 53.99,
+   "text": "Now just add a propeller, paint it black, and tell nobody where you parked it.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 50.475,
+     "end": 50.654
+    },
+    {
+     "w": "just",
+     "start": 50.654,
+     "end": 50.833
+    },
+    {
+     "w": "add",
+     "start": 50.833,
+     "end": 51.012
+    },
+    {
+     "w": "a",
+     "start": 51.012,
+     "end": 51.191
+    },
+    {
+     "w": "propeller,",
+     "start": 51.191,
+     "end": 51.635
+    },
+    {
+     "w": "paint",
+     "start": 51.785,
+     "end": 51.885
+    },
+    {
+     "w": "it",
+     "start": 51.885,
+     "end": 51.985
+    },
+    {
+     "w": "black,",
+     "start": 51.985,
+     "end": 52.085
+    },
+    {
+     "w": "and",
+     "start": 52.135,
+     "end": 52.327
+    },
+    {
+     "w": "tell",
+     "start": 52.327,
+     "end": 52.519
+    },
+    {
+     "w": "nobody",
+     "start": 52.519,
+     "end": 52.995
+    },
+    {
+     "w": "where",
+     "start": 52.995,
+     "end": 53.187
+    },
+    {
+     "w": "you",
+     "start": 53.187,
+     "end": 53.379
+    },
+    {
+     "w": "parked",
+     "start": 53.379,
+     "end": 53.713
+    },
+    {
+     "w": "it.",
+     "start": 53.713,
+     "end": 53.905
+    }
+   ]
   },
   {
    "line": 12,
-   "start": 54.052,
-   "end": 57.094,
-   "text": "One hull, over a hundred sailors, zero windows."
+   "start": 54.354,
+   "end": 57.396,
+   "text": "One hull, over a hundred sailors, zero windows.",
+   "words": [
+    {
+     "w": "One",
+     "start": 54.444,
+     "end": 54.673
+    },
+    {
+     "w": "hull,",
+     "start": 54.673,
+     "end": 54.901
+    },
+    {
+     "w": "over",
+     "start": 54.901,
+     "end": 55.299
+    },
+    {
+     "w": "a",
+     "start": 55.299,
+     "end": 55.528
+    },
+    {
+     "w": "hundred",
+     "start": 55.528,
+     "end": 55.926
+    },
+    {
+     "w": "sailors,",
+     "start": 55.926,
+     "end": 56.324
+    },
+    {
+     "w": "zero",
+     "start": 56.494,
+     "end": 56.914
+    },
+    {
+     "w": "windows.",
+     "start": 56.914,
+     "end": 57.334
+    }
+   ]
   },
   {
    "line": 13,
-   "start": 57.458,
-   "end": 60.094,
-   "text": "And congrats, you just built a submarine yourself."
+   "start": 57.76,
+   "end": 60.396,
+   "text": "And congrats, you just built a submarine yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 57.88,
+     "end": 58.097
+    },
+    {
+     "w": "congrats,",
+     "start": 58.097,
+     "end": 58.475
+    },
+    {
+     "w": "you",
+     "start": 58.475,
+     "end": 58.692
+    },
+    {
+     "w": "just",
+     "start": 58.692,
+     "end": 58.909
+    },
+    {
+     "w": "built",
+     "start": 58.909,
+     "end": 59.126
+    },
+    {
+     "w": "a",
+     "start": 59.126,
+     "end": 59.343
+    },
+    {
+     "w": "submarine",
+     "start": 59.343,
+     "end": 59.882
+    },
+    {
+     "w": "yourself.",
+     "start": 59.882,
+     "end": 60.26
+    }
+   ]
   },
   {
    "line": 14,
-   "start": 60.458,
-   "end": 64.635,
-   "text": "And the periscope? New subs steer it with a game controller. Tell your mom it's training."
+   "start": 60.76,
+   "end": 64.938,
+   "text": "And the periscope? New subs steer it with a game controller. Tell your mom it's training.",
+   "words": [
+    {
+     "w": "And",
+     "start": 60.89,
+     "end": 61.06
+    },
+    {
+     "w": "the",
+     "start": 61.06,
+     "end": 61.229
+    },
+    {
+     "w": "periscope?",
+     "start": 61.229,
+     "end": 61.65
+    },
+    {
+     "w": "New",
+     "start": 61.78,
+     "end": 61.974
+    },
+    {
+     "w": "subs",
+     "start": 61.974,
+     "end": 62.168
+    },
+    {
+     "w": "steer",
+     "start": 62.168,
+     "end": 62.362
+    },
+    {
+     "w": "it",
+     "start": 62.362,
+     "end": 62.556
+    },
+    {
+     "w": "with",
+     "start": 62.556,
+     "end": 62.75
+    },
+    {
+     "w": "a",
+     "start": 62.75,
+     "end": 62.944
+    },
+    {
+     "w": "game",
+     "start": 62.944,
+     "end": 63.138
+    },
+    {
+     "w": "controller.",
+     "start": 63.138,
+     "end": 63.62
+    },
+    {
+     "w": "Tell",
+     "start": 63.75,
+     "end": 63.95
+    },
+    {
+     "w": "your",
+     "start": 63.95,
+     "end": 64.151
+    },
+    {
+     "w": "mom",
+     "start": 64.151,
+     "end": 64.351
+    },
+    {
+     "w": "it's",
+     "start": 64.351,
+     "end": 64.551
+    },
+    {
+     "w": "training.",
+     "start": 64.551,
+     "end": 64.9
+    }
+   ]
   }
  ]
 }

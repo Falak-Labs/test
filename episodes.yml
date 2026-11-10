@@ -10,3 +10,4 @@ episodes:
   - {slug: ep06-rocket, kit: rocket, look: 2}
   - {slug: ep07-castle, kit: castle, look: 2}
   - {slug: ep08-claw, kit: claw, look: 2}
+  - {slug: ep09-submarine, kit: submarine, look: 2}
