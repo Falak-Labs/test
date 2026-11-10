@@ -232,7 +232,8 @@ class EpisodeV2:
 
     def label(self, ax, ay, lx, ly, key, t0, t1, accent=ACCENT, size=34):
         """Leader-line label from the part at screen (ax, ay) to a card centred at (lx, ly). key: entry of TEXT[..]["L"]."""
-        v2.callout(self._c, ax, ay, lx, ly, self.L.get(key, key), self.span(t0, t1), accent, size=size, t=self._t, rtl=self.rtl)
+        v2.callout(self._c, ax, ay, lx, ly, self.L.get(key, key), self.span(t0, max(t1, t0 + 0.85)), accent, size=size, t=self._t,
+                   rtl=self.rtl)
 
     def chip(self, x, y, key, t0, t1, accent=None, size=40):
         v2.chip(self._c, x, y, self.L.get(key, key), self.span(t0, t1, 0.25, 0.2), accent=accent, size=size)

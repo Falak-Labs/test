@@ -10,85 +10,1258 @@
    "line": 1,
    "start": 0.0,
    "end": 4.281,
-   "text": "If you hang a claw over a box of toys, congrats, you just built a claw machine."
+   "text": "If you hang a claw over a box of toys, congrats, you just built a claw machine.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.343
+    },
+    {
+     "w": "you",
+     "start": 0.343,
+     "end": 0.556
+    },
+    {
+     "w": "hang",
+     "start": 0.556,
+     "end": 0.769
+    },
+    {
+     "w": "a",
+     "start": 0.769,
+     "end": 0.982
+    },
+    {
+     "w": "claw",
+     "start": 0.982,
+     "end": 1.196
+    },
+    {
+     "w": "over",
+     "start": 1.196,
+     "end": 1.567
+    },
+    {
+     "w": "a",
+     "start": 1.567,
+     "end": 1.78
+    },
+    {
+     "w": "box",
+     "start": 1.78,
+     "end": 1.993
+    },
+    {
+     "w": "of",
+     "start": 1.993,
+     "end": 2.206
+    },
+    {
+     "w": "toys,",
+     "start": 2.206,
+     "end": 2.419
+    },
+    {
+     "w": "congrats,",
+     "start": 2.419,
+     "end": 2.79
+    },
+    {
+     "w": "you",
+     "start": 2.93,
+     "end": 3.12
+    },
+    {
+     "w": "just",
+     "start": 3.12,
+     "end": 3.31
+    },
+    {
+     "w": "built",
+     "start": 3.31,
+     "end": 3.5
+    },
+    {
+     "w": "a",
+     "start": 3.5,
+     "end": 3.69
+    },
+    {
+     "w": "claw",
+     "start": 3.69,
+     "end": 3.879
+    },
+    {
+     "w": "machine.",
+     "start": 3.879,
+     "end": 4.21
+    }
+   ]
   },
   {
    "line": 2,
    "start": 4.646,
    "end": 8.354,
-   "text": "But it never lets go: every kid wins, and the box is empty by lunch."
+   "text": "But it never lets go: every kid wins, and the box is empty by lunch.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.786,
+     "end": 4.951
+    },
+    {
+     "w": "it",
+     "start": 4.951,
+     "end": 5.117
+    },
+    {
+     "w": "never",
+     "start": 5.117,
+     "end": 5.405
+    },
+    {
+     "w": "lets",
+     "start": 5.405,
+     "end": 5.571
+    },
+    {
+     "w": "go:",
+     "start": 5.571,
+     "end": 5.736
+    },
+    {
+     "w": "every",
+     "start": 5.866,
+     "end": 6.353
+    },
+    {
+     "w": "kid",
+     "start": 6.353,
+     "end": 6.55
+    },
+    {
+     "w": "wins,",
+     "start": 6.55,
+     "end": 6.746
+    },
+    {
+     "w": "and",
+     "start": 6.876,
+     "end": 7.058
+    },
+    {
+     "w": "the",
+     "start": 7.058,
+     "end": 7.24
+    },
+    {
+     "w": "box",
+     "start": 7.24,
+     "end": 7.422
+    },
+    {
+     "w": "is",
+     "start": 7.422,
+     "end": 7.605
+    },
+    {
+     "w": "empty",
+     "start": 7.605,
+     "end": 7.922
+    },
+    {
+     "w": "by",
+     "start": 7.922,
+     "end": 8.104
+    },
+    {
+     "w": "lunch.",
+     "start": 8.104,
+     "end": 8.286
+    }
+   ]
   },
   {
    "line": 3,
    "start": 8.719,
    "end": 15.177,
-   "text": "So you close the claw with an electromagnet, and add a power dial: strong enough to lift a toy, then weak enough to drop it halfway."
+   "text": "So you close the claw with an electromagnet, and add a power dial: strong enough to lift a toy, then weak enough to drop it halfway.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.829,
+     "end": 9.006
+    },
+    {
+     "w": "you",
+     "start": 9.006,
+     "end": 9.183
+    },
+    {
+     "w": "close",
+     "start": 9.183,
+     "end": 9.36
+    },
+    {
+     "w": "the",
+     "start": 9.36,
+     "end": 9.537
+    },
+    {
+     "w": "claw",
+     "start": 9.537,
+     "end": 9.714
+    },
+    {
+     "w": "with",
+     "start": 9.714,
+     "end": 9.891
+    },
+    {
+     "w": "an",
+     "start": 9.891,
+     "end": 10.068
+    },
+    {
+     "w": "electromagnet,",
+     "start": 10.068,
+     "end": 10.769
+    },
+    {
+     "w": "and",
+     "start": 10.919,
+     "end": 11.1
+    },
+    {
+     "w": "add",
+     "start": 11.1,
+     "end": 11.281
+    },
+    {
+     "w": "a",
+     "start": 11.281,
+     "end": 11.462
+    },
+    {
+     "w": "power",
+     "start": 11.462,
+     "end": 11.778
+    },
+    {
+     "w": "dial:",
+     "start": 11.778,
+     "end": 11.959
+    },
+    {
+     "w": "strong",
+     "start": 12.129,
+     "end": 12.326
+    },
+    {
+     "w": "enough",
+     "start": 12.326,
+     "end": 12.67
+    },
+    {
+     "w": "to",
+     "start": 12.67,
+     "end": 12.867
+    },
+    {
+     "w": "lift",
+     "start": 12.867,
+     "end": 13.064
+    },
+    {
+     "w": "a",
+     "start": 13.064,
+     "end": 13.262
+    },
+    {
+     "w": "toy,",
+     "start": 13.262,
+     "end": 13.459
+    },
+    {
+     "w": "then",
+     "start": 13.589,
+     "end": 13.769
+    },
+    {
+     "w": "weak",
+     "start": 13.769,
+     "end": 13.95
+    },
+    {
+     "w": "enough",
+     "start": 13.95,
+     "end": 14.264
+    },
+    {
+     "w": "to",
+     "start": 14.264,
+     "end": 14.444
+    },
+    {
+     "w": "drop",
+     "start": 14.444,
+     "end": 14.625
+    },
+    {
+     "w": "it",
+     "start": 14.625,
+     "end": 14.805
+    },
+    {
+     "w": "halfway.",
+     "start": 14.805,
+     "end": 15.119
+    }
+   ]
   },
   {
    "line": 4,
    "start": 15.542,
    "end": 18.208,
-   "text": "Now nobody ever wins, so nobody ever plays."
+   "text": "Now nobody ever wins, so nobody ever plays.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 15.652,
+     "end": 15.846
+    },
+    {
+     "w": "nobody",
+     "start": 15.846,
+     "end": 16.329
+    },
+    {
+     "w": "ever",
+     "start": 16.329,
+     "end": 16.668
+    },
+    {
+     "w": "wins,",
+     "start": 16.668,
+     "end": 16.862
+    },
+    {
+     "w": "so",
+     "start": 17.012,
+     "end": 17.19
+    },
+    {
+     "w": "nobody",
+     "start": 17.19,
+     "end": 17.633
+    },
+    {
+     "w": "ever",
+     "start": 17.633,
+     "end": 17.944
+    },
+    {
+     "w": "plays.",
+     "start": 17.944,
+     "end": 18.122
+    }
+   ]
   },
   {
    "line": 5,
    "start": 18.573,
    "end": 25.708,
-   "text": "So you add a computer that counts the coins: once they cover the prize, plus your profit, the claw holds tight. That's not luck, that's accounting."
+   "text": "So you add a computer that counts the coins: once they cover the prize, plus your profit, the claw holds tight. That's not luck, that's accounting.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.683,
+     "end": 18.874
+    },
+    {
+     "w": "you",
+     "start": 18.874,
+     "end": 19.065
+    },
+    {
+     "w": "add",
+     "start": 19.065,
+     "end": 19.255
+    },
+    {
+     "w": "a",
+     "start": 19.255,
+     "end": 19.446
+    },
+    {
+     "w": "computer",
+     "start": 19.446,
+     "end": 19.92
+    },
+    {
+     "w": "that",
+     "start": 19.92,
+     "end": 20.111
+    },
+    {
+     "w": "counts",
+     "start": 20.111,
+     "end": 20.301
+    },
+    {
+     "w": "the",
+     "start": 20.301,
+     "end": 20.492
+    },
+    {
+     "w": "coins:",
+     "start": 20.492,
+     "end": 20.683
+    },
+    {
+     "w": "once",
+     "start": 20.813,
+     "end": 21.032
+    },
+    {
+     "w": "they",
+     "start": 21.032,
+     "end": 21.252
+    },
+    {
+     "w": "cover",
+     "start": 21.252,
+     "end": 21.634
+    },
+    {
+     "w": "the",
+     "start": 21.634,
+     "end": 21.854
+    },
+    {
+     "w": "prize,",
+     "start": 21.854,
+     "end": 22.073
+    },
+    {
+     "w": "plus",
+     "start": 22.253,
+     "end": 22.453
+    },
+    {
+     "w": "your",
+     "start": 22.453,
+     "end": 22.654
+    },
+    {
+     "w": "profit,",
+     "start": 22.654,
+     "end": 23.003
+    },
+    {
+     "w": "the",
+     "start": 23.173,
+     "end": 23.4
+    },
+    {
+     "w": "claw",
+     "start": 23.4,
+     "end": 23.628
+    },
+    {
+     "w": "holds",
+     "start": 23.628,
+     "end": 23.856
+    },
+    {
+     "w": "tight.",
+     "start": 23.856,
+     "end": 24.083
+    },
+    {
+     "w": "That's",
+     "start": 24.213,
+     "end": 24.41
+    },
+    {
+     "w": "not",
+     "start": 24.41,
+     "end": 24.606
+    },
+    {
+     "w": "luck,",
+     "start": 24.606,
+     "end": 24.803
+    },
+    {
+     "w": "that's",
+     "start": 24.873,
+     "end": 25.1
+    },
+    {
+     "w": "accounting.",
+     "start": 25.1,
+     "end": 25.663
+    }
+   ]
   },
   {
    "line": 6,
    "start": 26.073,
    "end": 29.177,
-   "text": "But somebody shakes the machine until a toy tumbles into the chute."
+   "text": "But somebody shakes the machine until a toy tumbles into the chute.",
+   "words": [
+    {
+     "w": "But",
+     "start": 26.213,
+     "end": 26.374
+    },
+    {
+     "w": "somebody",
+     "start": 26.374,
+     "end": 26.891
+    },
+    {
+     "w": "shakes",
+     "start": 26.891,
+     "end": 27.171
+    },
+    {
+     "w": "the",
+     "start": 27.171,
+     "end": 27.332
+    },
+    {
+     "w": "machine",
+     "start": 27.332,
+     "end": 27.611
+    },
+    {
+     "w": "until",
+     "start": 27.611,
+     "end": 27.891
+    },
+    {
+     "w": "a",
+     "start": 27.891,
+     "end": 28.052
+    },
+    {
+     "w": "toy",
+     "start": 28.052,
+     "end": 28.212
+    },
+    {
+     "w": "tumbles",
+     "start": 28.212,
+     "end": 28.492
+    },
+    {
+     "w": "into",
+     "start": 28.492,
+     "end": 28.772
+    },
+    {
+     "w": "the",
+     "start": 28.772,
+     "end": 28.932
+    },
+    {
+     "w": "chute.",
+     "start": 28.932,
+     "end": 29.093
+    }
+   ]
   },
   {
    "line": 7,
    "start": 29.542,
    "end": 35.156,
-   "text": "So you bolt it down, and add a shake sensor: one shove, the claw lets go, and an alarm tells the whole mall."
+   "text": "So you bolt it down, and add a shake sensor: one shove, the claw lets go, and an alarm tells the whole mall.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.652,
+     "end": 29.852
+    },
+    {
+     "w": "you",
+     "start": 29.852,
+     "end": 30.052
+    },
+    {
+     "w": "bolt",
+     "start": 30.052,
+     "end": 30.252
+    },
+    {
+     "w": "it",
+     "start": 30.252,
+     "end": 30.452
+    },
+    {
+     "w": "down,",
+     "start": 30.452,
+     "end": 30.652
+    },
+    {
+     "w": "and",
+     "start": 30.782,
+     "end": 30.967
+    },
+    {
+     "w": "add",
+     "start": 30.967,
+     "end": 31.151
+    },
+    {
+     "w": "a",
+     "start": 31.151,
+     "end": 31.336
+    },
+    {
+     "w": "shake",
+     "start": 31.336,
+     "end": 31.521
+    },
+    {
+     "w": "sensor:",
+     "start": 31.521,
+     "end": 31.842
+    },
+    {
+     "w": "one",
+     "start": 31.972,
+     "end": 32.272
+    },
+    {
+     "w": "shove,",
+     "start": 32.272,
+     "end": 32.572
+    },
+    {
+     "w": "the",
+     "start": 32.712,
+     "end": 32.922
+    },
+    {
+     "w": "claw",
+     "start": 32.922,
+     "end": 33.132
+    },
+    {
+     "w": "lets",
+     "start": 33.132,
+     "end": 33.342
+    },
+    {
+     "w": "go,",
+     "start": 33.342,
+     "end": 33.552
+    },
+    {
+     "w": "and",
+     "start": 33.722,
+     "end": 33.9
+    },
+    {
+     "w": "an",
+     "start": 33.9,
+     "end": 34.079
+    },
+    {
+     "w": "alarm",
+     "start": 34.079,
+     "end": 34.389
+    },
+    {
+     "w": "tells",
+     "start": 34.389,
+     "end": 34.567
+    },
+    {
+     "w": "the",
+     "start": 34.567,
+     "end": 34.745
+    },
+    {
+     "w": "whole",
+     "start": 34.745,
+     "end": 34.924
+    },
+    {
+     "w": "mall.",
+     "start": 34.924,
+     "end": 35.102
+    }
+   ]
   },
   {
    "line": 8,
    "start": 35.521,
    "end": 40.542,
-   "text": "Now it's safe, until a kid crawls in through the prize door and gets stuck. Yes, that really happens."
+   "text": "Now it's safe, until a kid crawls in through the prize door and gets stuck. Yes, that really happens.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 35.621,
+     "end": 35.831
+    },
+    {
+     "w": "it's",
+     "start": 35.831,
+     "end": 36.041
+    },
+    {
+     "w": "safe,",
+     "start": 36.041,
+     "end": 36.251
+    },
+    {
+     "w": "until",
+     "start": 36.441,
+     "end": 36.802
+    },
+    {
+     "w": "a",
+     "start": 36.802,
+     "end": 37.009
+    },
+    {
+     "w": "kid",
+     "start": 37.009,
+     "end": 37.216
+    },
+    {
+     "w": "crawls",
+     "start": 37.216,
+     "end": 37.423
+    },
+    {
+     "w": "in",
+     "start": 37.423,
+     "end": 37.631
+    },
+    {
+     "w": "through",
+     "start": 37.631,
+     "end": 37.838
+    },
+    {
+     "w": "the",
+     "start": 37.838,
+     "end": 38.045
+    },
+    {
+     "w": "prize",
+     "start": 38.045,
+     "end": 38.252
+    },
+    {
+     "w": "door",
+     "start": 38.252,
+     "end": 38.459
+    },
+    {
+     "w": "and",
+     "start": 38.459,
+     "end": 38.667
+    },
+    {
+     "w": "gets",
+     "start": 38.667,
+     "end": 38.874
+    },
+    {
+     "w": "stuck.",
+     "start": 38.874,
+     "end": 39.081
+    },
+    {
+     "w": "Yes,",
+     "start": 39.271,
+     "end": 39.591
+    },
+    {
+     "w": "that",
+     "start": 39.661,
+     "end": 39.842
+    },
+    {
+     "w": "really",
+     "start": 39.842,
+     "end": 40.156
+    },
+    {
+     "w": "happens.",
+     "start": 40.156,
+     "end": 40.471
+    }
+   ]
   },
   {
    "line": 9,
    "start": 40.906,
    "end": 45.927,
-   "text": "So you lock the prize door, and add a light beam in the chute: it only opens when a prize drops through."
+   "text": "So you lock the prize door, and add a light beam in the chute: it only opens when a prize drops through.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.026,
+     "end": 41.253
+    },
+    {
+     "w": "you",
+     "start": 41.253,
+     "end": 41.479
+    },
+    {
+     "w": "lock",
+     "start": 41.479,
+     "end": 41.706
+    },
+    {
+     "w": "the",
+     "start": 41.706,
+     "end": 41.933
+    },
+    {
+     "w": "prize",
+     "start": 41.933,
+     "end": 42.159
+    },
+    {
+     "w": "door,",
+     "start": 42.159,
+     "end": 42.386
+    },
+    {
+     "w": "and",
+     "start": 42.536,
+     "end": 42.704
+    },
+    {
+     "w": "add",
+     "start": 42.704,
+     "end": 42.871
+    },
+    {
+     "w": "a",
+     "start": 42.871,
+     "end": 43.038
+    },
+    {
+     "w": "light",
+     "start": 43.038,
+     "end": 43.206
+    },
+    {
+     "w": "beam",
+     "start": 43.206,
+     "end": 43.374
+    },
+    {
+     "w": "in",
+     "start": 43.374,
+     "end": 43.541
+    },
+    {
+     "w": "the",
+     "start": 43.541,
+     "end": 43.708
+    },
+    {
+     "w": "chute:",
+     "start": 43.708,
+     "end": 43.876
+    },
+    {
+     "w": "it",
+     "start": 44.036,
+     "end": 44.227
+    },
+    {
+     "w": "only",
+     "start": 44.227,
+     "end": 44.559
+    },
+    {
+     "w": "opens",
+     "start": 44.559,
+     "end": 44.892
+    },
+    {
+     "w": "when",
+     "start": 44.892,
+     "end": 45.082
+    },
+    {
+     "w": "a",
+     "start": 45.082,
+     "end": 45.273
+    },
+    {
+     "w": "prize",
+     "start": 45.273,
+     "end": 45.464
+    },
+    {
+     "w": "drops",
+     "start": 45.464,
+     "end": 45.655
+    },
+    {
+     "w": "through.",
+     "start": 45.655,
+     "end": 45.846
+    }
+   ]
   },
   {
    "line": 10,
    "start": 46.292,
    "end": 50.063,
-   "text": "But before you drop a coin, follow, because next we're building a submarine."
+   "text": "But before you drop a coin, follow, because next we're building a submarine.",
+   "words": [
+    {
+     "w": "But",
+     "start": 46.432,
+     "end": 46.628
+    },
+    {
+     "w": "before",
+     "start": 46.628,
+     "end": 46.969
+    },
+    {
+     "w": "you",
+     "start": 46.969,
+     "end": 47.165
+    },
+    {
+     "w": "drop",
+     "start": 47.165,
+     "end": 47.36
+    },
+    {
+     "w": "a",
+     "start": 47.36,
+     "end": 47.556
+    },
+    {
+     "w": "coin,",
+     "start": 47.556,
+     "end": 47.752
+    },
+    {
+     "w": "follow,",
+     "start": 47.912,
+     "end": 48.242
+    },
+    {
+     "w": "because",
+     "start": 48.372,
+     "end": 48.687
+    },
+    {
+     "w": "next",
+     "start": 48.687,
+     "end": 48.867
+    },
+    {
+     "w": "we're",
+     "start": 48.867,
+     "end": 49.048
+    },
+    {
+     "w": "building",
+     "start": 49.048,
+     "end": 49.363
+    },
+    {
+     "w": "a",
+     "start": 49.363,
+     "end": 49.543
+    },
+    {
+     "w": "submarine.",
+     "start": 49.543,
+     "end": 49.992
+    }
+   ]
   },
   {
    "line": 11,
    "start": 50.427,
    "end": 55.333,
-   "text": "Now just add flashing lights, a song that never stops, and one giant teddy bear nobody can lift."
+   "text": "Now just add flashing lights, a song that never stops, and one giant teddy bear nobody can lift.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 50.537,
+     "end": 50.779
+    },
+    {
+     "w": "just",
+     "start": 50.779,
+     "end": 51.021
+    },
+    {
+     "w": "add",
+     "start": 51.021,
+     "end": 51.263
+    },
+    {
+     "w": "flashing",
+     "start": 51.263,
+     "end": 51.685
+    },
+    {
+     "w": "lights,",
+     "start": 51.685,
+     "end": 51.927
+    },
+    {
+     "w": "a",
+     "start": 52.067,
+     "end": 52.276
+    },
+    {
+     "w": "song",
+     "start": 52.276,
+     "end": 52.485
+    },
+    {
+     "w": "that",
+     "start": 52.485,
+     "end": 52.694
+    },
+    {
+     "w": "never",
+     "start": 52.694,
+     "end": 53.058
+    },
+    {
+     "w": "stops,",
+     "start": 53.058,
+     "end": 53.267
+    },
+    {
+     "w": "and",
+     "start": 53.387,
+     "end": 53.572
+    },
+    {
+     "w": "one",
+     "start": 53.572,
+     "end": 53.757
+    },
+    {
+     "w": "giant",
+     "start": 53.757,
+     "end": 53.942
+    },
+    {
+     "w": "teddy",
+     "start": 53.942,
+     "end": 54.264
+    },
+    {
+     "w": "bear",
+     "start": 54.264,
+     "end": 54.448
+    },
+    {
+     "w": "nobody",
+     "start": 54.448,
+     "end": 54.907
+    },
+    {
+     "w": "can",
+     "start": 54.907,
+     "end": 55.092
+    },
+    {
+     "w": "lift.",
+     "start": 55.092,
+     "end": 55.277
+    }
+   ]
   },
   {
    "line": 12,
    "start": 55.698,
    "end": 58.552,
-   "text": "One coin, twenty seconds, zero refunds."
+   "text": "One coin, twenty seconds, zero refunds.",
+   "words": [
+    {
+     "w": "One",
+     "start": 55.788,
+     "end": 56.138
+    },
+    {
+     "w": "coin,",
+     "start": 56.138,
+     "end": 56.488
+    },
+    {
+     "w": "twenty",
+     "start": 56.648,
+     "end": 57.023
+    },
+    {
+     "w": "seconds,",
+     "start": 57.023,
+     "end": 57.398
+    },
+    {
+     "w": "zero",
+     "start": 57.578,
+     "end": 58.033
+    },
+    {
+     "w": "refunds.",
+     "start": 58.033,
+     "end": 58.488
+    }
+   ]
   },
   {
    "line": 13,
    "start": 58.917,
    "end": 61.667,
-   "text": "And congrats, you just built a claw machine yourself."
+   "text": "And congrats, you just built a claw machine yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.047,
+     "end": 59.302
+    },
+    {
+     "w": "congrats,",
+     "start": 59.302,
+     "end": 59.747
+    },
+    {
+     "w": "you",
+     "start": 59.877,
+     "end": 60.073
+    },
+    {
+     "w": "just",
+     "start": 60.073,
+     "end": 60.268
+    },
+    {
+     "w": "built",
+     "start": 60.268,
+     "end": 60.464
+    },
+    {
+     "w": "a",
+     "start": 60.464,
+     "end": 60.66
+    },
+    {
+     "w": "claw",
+     "start": 60.66,
+     "end": 60.856
+    },
+    {
+     "w": "machine",
+     "start": 60.856,
+     "end": 61.196
+    },
+    {
+     "w": "yourself.",
+     "start": 61.196,
+     "end": 61.537
+    }
+   ]
   },
   {
    "line": 14,
    "start": 62.031,
    "end": 65.823,
-   "text": "And the giant teddy bear? He's bigger than the prize door. He lives there now."
+   "text": "And the giant teddy bear? He's bigger than the prize door. He lives there now.",
+   "words": [
+    {
+     "w": "And",
+     "start": 62.161,
+     "end": 62.372
+    },
+    {
+     "w": "the",
+     "start": 62.372,
+     "end": 62.583
+    },
+    {
+     "w": "giant",
+     "start": 62.583,
+     "end": 62.793
+    },
+    {
+     "w": "teddy",
+     "start": 62.793,
+     "end": 63.16
+    },
+    {
+     "w": "bear?",
+     "start": 63.16,
+     "end": 63.371
+    },
+    {
+     "w": "He's",
+     "start": 63.511,
+     "end": 63.711
+    },
+    {
+     "w": "bigger",
+     "start": 63.711,
+     "end": 64.06
+    },
+    {
+     "w": "than",
+     "start": 64.06,
+     "end": 64.26
+    },
+    {
+     "w": "the",
+     "start": 64.26,
+     "end": 64.46
+    },
+    {
+     "w": "prize",
+     "start": 64.46,
+     "end": 64.661
+    },
+    {
+     "w": "door.",
+     "start": 64.661,
+     "end": 64.861
+    },
+    {
+     "w": "He",
+     "start": 65.011,
+     "end": 65.169
+    },
+    {
+     "w": "lives",
+     "start": 65.169,
+     "end": 65.445
+    },
+    {
+     "w": "there",
+     "start": 65.445,
+     "end": 65.603
+    },
+    {
+     "w": "now.",
+     "start": 65.603,
+     "end": 65.761
+    }
+   ]
   }
  ]
 }
