@@ -31,7 +31,7 @@ jobs:
         env:
           BUFFER_KEY_EN: ${{ secrets.BUFFER_KEY_EN }}
           BUFFER_KEY_AR: ${{ secrets.BUFFER_KEY_AR }}
-        run: python scripts/status.py --wait-now 8
+        run: python scripts/status.py   # one look at Buffer (polling used up the daily API allowance on Nov 10)
       - name: Save state
         if: always()
         run: |
