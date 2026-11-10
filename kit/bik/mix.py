@@ -58,6 +58,7 @@ def master(src, dst, target=-14.0):
                        capture_output=True, text=True).stderr
     js = json.loads(m[m.rindex("{"): m.rindex("}") + 1])
     flt = (f"{pre},loudnorm=I={target}:TP=-1.7:LRA=9:measured_I={js['input_i']}:measured_TP={js['input_tp']}:"
-           f"measured_LRA={js['input_lra']}:measured_thresh={js['input_thresh']}:offset={js['target_offset']}:linear=true")
+           f"measured_LRA={js['input_lra']}:measured_thresh={js['input_thresh']}:offset={js['target_offset']}:linear=true"
+           f",aresample={SR},alimiter=limit=0.776:attack=2:release=60:level=0")   # brick wall at -2.2 dBFS: AAC adds up to ~1 dB
     subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", src, "-af", flt, "-ar", str(SR), dst],
                    check=True)
