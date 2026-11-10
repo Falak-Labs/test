@@ -80,10 +80,12 @@ def make(slug, kit, langs, look):
         report["langs"][lang] = rep
         try:
             vo = os.path.join("series", "voice", L["voice"].format(kit=kit))
-            if not (os.path.exists(os.path.join(KIT, vo + ".json")) and os.path.exists(os.path.join(KIT, vo + ".wav"))):
+            have = os.path.exists(os.path.join(KIT, vo + ".json")) and os.path.exists(os.path.join(KIT, vo + ".wav"))
+            fix = os.environ.get("FIX_LINES", "").strip() if lang == "ar" else ""      # "6,11": take those Saudi lines again
+            if not have or fix:
                 if lang == "ar":
                     run([sys.executable, "-I", "-u", "tools/make_vo_namaa.py", f"series/{kit}_lines_ar_sa.txt", vo,
-                         "--asr", "--seed", "301", "--max-rate", "12"], log, env)
+                         "--asr", "--seed", "301", "--max-rate", "14.5"] + (["--only", fix] if have and fix else []), log, env)
                 else:
                     run([sys.executable, "-I", "-u", "tools/make_vo.py", f"series/{kit}_lines.txt", vo, "--verify"], log, env)
                 for f in glob.glob(os.path.join(KIT, vo + ".json")) + glob.glob(os.path.join(KIT, vo + ".wav")):

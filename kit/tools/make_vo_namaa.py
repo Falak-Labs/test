@@ -354,16 +354,17 @@ def asr(y, text):
             tokens=f"{wd}/small-tokens.txt", language="ar", task="transcribe", num_threads=2)
     from scipy.signal import resample_poly
     st = REC.create_stream()
-    st.accept_waveform(16000, resample_poly(y, 2, 3).astype(np.float32))
+    # three seconds of silence after the line: sherpa's Whisper allows only so many tokens per second of audio and
+    # otherwise cuts fast Arabic lines short
+    st.accept_waveform(16000, np.concatenate([resample_poly(y, 2, 3), np.zeros(48000)]).astype(np.float32))
     REC.decode_stream(st)
     hyp = st.result.text.strip()
 
     def norm(s):
         s = re.sub("[إأآٱ]", "ا", TASHKEEL.sub("", s)).replace("ى", "ي").replace("ة", "ه")
-        return re.findall(r"[ء-ي0-9]+", s)
-    r, h = norm(text), norm(hyp)
-    ops = difflib.SequenceMatcher(a=r, b=h).get_opcodes()
-    return sum(max(i2 - i1, j2 - j1) for op, i1, i2, j1, j2 in ops if op != "equal") / max(len(r), 1), hyp
+        return "".join(re.findall(r"[ء-ي0-9]+", s))
+    # letters, not words: Whisper spells dialect its own way (قلعة -> جلعة), a wrong or missing word still shows
+    return 1 - difflib.SequenceMatcher(a=norm(text), b=norm(hyp), autojunk=False).ratio(), hyp
 
 
 def make_line(i, line, seed0):
@@ -384,7 +385,7 @@ def make_line(i, line, seed0):
         err, hyp = None, ""
         if a.asr:
             err, hyp = asr(y, line)
-            if err > 0.5:
+            if err > 0.3:
                 probs.append(f"Whisper {err:.0%} off")
         forced = [m for m in msgs if "forcing EOS" in m]
         print(f"  L{i:>2} seed {seed:<5} {d:5.2f}s {rate:4.1f} l/s  {', '.join(probs) or 'ok'}"
