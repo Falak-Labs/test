@@ -52,20 +52,56 @@ def _sk_font(name, size):
     return f
 
 
-def shape(s, size, name="Tajawal-Black"):
-    """Glyph ids, glyph positions (visual order, left to right) and the advance width."""
+_LTR = re.compile(r"[0-9A-Za-z][0-9A-Za-z.,:%°+×/\-]*")
+
+
+def _runs(s):
+    """Split a label into (text, is_ltr) runs: numbers and Latin words read left to right inside Arabic text."""
+    out, i = [], 0
+    for m in _LTR.finditer(s):
+        if m.start() > i:
+            out.append((s[i:m.start()], False))
+        out.append((m.group(0), True))
+        i = m.end()
+    if i < len(s):
+        out.append((s[i:], False))
+    return out
+
+
+def _shape_run(s, size, name, ltr=None):
     font, upem = _hb_font(name)
     buf = hb.Buffer()
     buf.add_str(s)
-    buf.guess_segment_properties()
+    if ltr is None:
+        buf.guess_segment_properties()
+    else:
+        buf.direction = "ltr" if ltr else "rtl"
+        buf.script = "Latn" if ltr else "Arab"
+        buf.language = "ar"
     hb.shape(font, buf, {"kern": True, "liga": True})
     k = size / upem
     gids, pos, x = [], [], 0.0
     for info, gp in zip(buf.glyph_infos, buf.glyph_positions):
         gids.append(info.codepoint)
-        pos.append(skia.Point(x + gp.x_offset * k, -gp.y_offset * k))
+        pos.append((x + gp.x_offset * k, -gp.y_offset * k))
         x += gp.x_advance * k
     return gids, pos, x
+
+
+def shape(s, size, name="Tajawal-Black"):
+    """Glyph ids, glyph positions (visual order, left to right) and the advance width.
+    A label that mixes Arabic with numbers ("320 كم/س", "لندن، 1863") is laid out run by run: the paragraph runs right to
+    left, each number keeps its digits left to right."""
+    if is_ar(s) and _LTR.search(s):
+        gids, pos, x = [], [], 0.0
+        for txt, ltr in reversed(_runs(s)):
+            g, p_, w = _shape_run(txt, size, name, ltr)
+            gids += g
+            pos += [skia.Point(x + px, py) for px, py in p_]
+            x += w
+        return gids, pos, x
+    g, p_, w = _shape_run(s, size, name)
+    return g, [skia.Point(px, py) for px, py in p_], w
 
 
 def width_ar(s, size, name="Tajawal-Black"):
