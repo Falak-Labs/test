@@ -1,0 +1,54 @@
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+loaded PerthNet (Implicit) at step 250,000
+model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+  L 1 seed 302    4.04s 13.1 l/s  13 letters/s, Whisper 77% off  asr 77%  (44s)
+  L 1 seed 1302   4.22s 12.6 l/s  13 letters/s, Whisper 62% off  asr 62%  (45s)
+  L 1 seed 2302   4.02s 13.2 l/s  13 letters/s, Whisper 85% off  asr 85%  (44s)
+  L 2 seed 303    3.43s 11.4 l/s  Whisper 55% off  asr 55%  (39s)
+  L 2 seed 1303   3.36s 11.6 l/s  Whisper 91% off  asr 91%  (39s)
+  L 2 seed 2303   3.11s 12.5 l/s  13 letters/s, Whisper 91% off  asr 91%  (37s)
+  L 3 seed 304    5.64s 16.0 l/s  16 letters/s, Whisper 89% off  asr 89%  (56s)
+  L 3 seed 1304   7.12s 12.6 l/s  13 letters/s, Whisper 83% off  asr 83%  (69s)
+  L 3 seed 2304   6.90s 13.0 l/s  13 letters/s, Whisper 83% off  asr 83%  (64s)
+  L 4 seed 305    2.25s 10.2 l/s  Whisper 100% off  asr 100%  (30s)
+  L 4 seed 1305   2.85s  8.1 l/s  Whisper 117% off  [forced stop]  asr 117%  (35s)
+  L 4 seed 2305   1.97s 11.7 l/s  Whisper 100% off  asr 100%  (28s)
+  L 5 seed 306    7.06s 11.6 l/s  Whisper 79% off  asr 79%  (69s)
+  L 5 seed 1306   6.09s 13.5 l/s  13 letters/s, Whisper 84% off  asr 84%  (62s)
+  L 5 seed 2306   6.20s 13.2 l/s  13 letters/s, Whisper 89% off  asr 89%  (63s)
+  L 6 seed 307    2.86s 13.3 l/s  13 letters/s, Whisper 70% off  asr 70%  (38s)
+  L 6 seed 1307   2.54s 15.0 l/s  stopped early, 15 letters/s, Whisper 70% off  asr 70%  (34s)
+  L 6 seed 2307   2.72s 14.0 l/s  stopped early, 14 letters/s, Whisper 90% off  asr 90%  (34s)
+  L 7 seed 308    7.12s  9.8 l/s  Whisper 88% off  asr 88%  (67s)
+  L 7 seed 1308   5.97s 11.7 l/s  Whisper 75% off  asr 75%  (59s)
+  L 7 seed 2308   6.39s 11.0 l/s  Whisper 62% off  asr 62%  (62s)
+  L 8 seed 309    4.63s 12.5 l/s  13 letters/s, Whisper 67% off  asr 67%  (47s)
+  L 8 seed 1309   4.46s 13.0 l/s  13 letters/s, Whisper 67% off  asr 67%  (47s)
+  L 8 seed 2309   4.66s 12.4 l/s  12 letters/s, Whisper 80% off  asr 80%  (47s)
+  L 9 seed 310    4.51s 14.6 l/s  15 letters/s, Whisper 88% off  asr 88%  (47s)
+  L 9 seed 1310   5.09s 13.0 l/s  13 letters/s, Whisper 59% off  asr 59%  (52s)
+  L 9 seed 2310   5.18s 12.7 l/s  13 letters/s, Whisper 53% off  asr 53%  (52s)
+  L10 seed 311    3.02s 12.6 l/s  13 letters/s, Whisper 90% off  asr 90%  (35s)
+  L10 seed 1311   3.24s 11.7 l/s  Whisper 70% off  asr 70%  (35s)
+  L10 seed 2311   3.07s 12.4 l/s  12 letters/s, Whisper 60% off  asr 60%  (35s)
+  L11 seed 312    4.90s 12.0 l/s  12 letters/s, Whisper 87% off  asr 87%  (49s)
+  L11 seed 1312   4.70s 12.6 l/s  13 letters/s, Whisper 67% off  asr 67%  (47s)
+  L11 seed 2312   5.18s 11.4 l/s  Whisper 67% off  asr 67%  (54s)
+  L12 seed 313    2.62s 10.3 l/s  Whisper 83% off  asr 83%  (33s)
+  L12 seed 1313   2.97s  9.1 l/s  ok  asr 50%  (35s)
+  L13 seed 314    3.20s 10.6 l/s  ok  asr 38%  (38s)
+  L14 seed 315    3.58s 12.3 l/s  12 letters/s, Whisper 70% off  asr 70%  (44s)
+  L14 seed 1315   3.32s 13.3 l/s  13 letters/s, Whisper 80% off  asr 80%  (40s)
+  L14 seed 2315   3.33s 13.2 l/s  13 letters/s, Whisper 90% off  asr 90%  (40s)
+NAMAA Saudi built-in: 14 lines, 174 words, 65.21s (2.67 words/s), 1806s -> series/voice/claw_ar_sa.wav  CHECK lines [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14]
+claw_ar_sa: 68.31s, 2049 frames
+video done in 528s
+audio done
+final out/claw_ar_sa/claw_ar_sa_final.mp4
+QA  duration 68.30s  loudness -14.0 LUFS  true peak -0.8 dBFS  1080x1920 @ 30/1  frames 2049
+QA sheet out/claw_ar_sa/qa_sheet.png
