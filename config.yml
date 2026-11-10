@@ -9,6 +9,8 @@ times:                  # every post of an episode goes out on its "date" at thi
   en: {zone: America/New_York, at: "19:00"}
   ar: {zone: Asia/Riyadh, at: "21:00"}
 every_days: 1           # at least this many days between two posts on the same channel (late posts queue up behind)
+hold:                   # true = this language's posts wait (videos are being checked)
+  ar: true
 burst:                  # one-time catch-up: post a language's waiting episodes one every `gap` minutes, from now
   ar: {first: 6, gap: 5}       # remove this line once the Arabic back catalogue is out
 youtube:

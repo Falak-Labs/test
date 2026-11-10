@@ -1,0 +1,1262 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.83,
+ "words": 228,
+ "words_per_sec": 3.46,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.896,
+   "text": "If you float a wooden deck on your pool, congrats, you just built a pool that turns into a patio.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.305
+    },
+    {
+     "w": "you",
+     "start": 0.305,
+     "end": 0.479
+    },
+    {
+     "w": "float",
+     "start": 0.479,
+     "end": 0.654
+    },
+    {
+     "w": "a",
+     "start": 0.654,
+     "end": 0.828
+    },
+    {
+     "w": "wooden",
+     "start": 0.828,
+     "end": 1.132
+    },
+    {
+     "w": "deck",
+     "start": 1.132,
+     "end": 1.306
+    },
+    {
+     "w": "on",
+     "start": 1.306,
+     "end": 1.481
+    },
+    {
+     "w": "your",
+     "start": 1.481,
+     "end": 1.655
+    },
+    {
+     "w": "pool,",
+     "start": 1.655,
+     "end": 1.83
+    },
+    {
+     "w": "congrats,",
+     "start": 1.98,
+     "end": 2.355
+    },
+    {
+     "w": "you",
+     "start": 2.355,
+     "end": 2.571
+    },
+    {
+     "w": "just",
+     "start": 2.571,
+     "end": 2.786
+    },
+    {
+     "w": "built",
+     "start": 2.786,
+     "end": 3.002
+    },
+    {
+     "w": "a",
+     "start": 3.002,
+     "end": 3.217
+    },
+    {
+     "w": "pool",
+     "start": 3.217,
+     "end": 3.433
+    },
+    {
+     "w": "that",
+     "start": 3.433,
+     "end": 3.648
+    },
+    {
+     "w": "turns",
+     "start": 3.648,
+     "end": 3.864
+    },
+    {
+     "w": "into",
+     "start": 3.864,
+     "end": 4.239
+    },
+    {
+     "w": "a",
+     "start": 4.239,
+     "end": 4.455
+    },
+    {
+     "w": "patio.",
+     "start": 4.455,
+     "end": 4.83
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.26,
+   "end": 10.021,
+   "text": "But when three friends stand on one corner, it tips, and everybody goes swimming in their clothes.",
+   "words": [
+    {
+     "w": "But",
+     "start": 5.4,
+     "end": 5.606
+    },
+    {
+     "w": "when",
+     "start": 5.606,
+     "end": 5.812
+    },
+    {
+     "w": "three",
+     "start": 5.812,
+     "end": 6.017
+    },
+    {
+     "w": "friends",
+     "start": 6.017,
+     "end": 6.223
+    },
+    {
+     "w": "stand",
+     "start": 6.223,
+     "end": 6.429
+    },
+    {
+     "w": "on",
+     "start": 6.429,
+     "end": 6.635
+    },
+    {
+     "w": "one",
+     "start": 6.635,
+     "end": 6.84
+    },
+    {
+     "w": "corner,",
+     "start": 6.84,
+     "end": 7.198
+    },
+    {
+     "w": "it",
+     "start": 7.198,
+     "end": 7.404
+    },
+    {
+     "w": "tips,",
+     "start": 7.404,
+     "end": 7.61
+    },
+    {
+     "w": "and",
+     "start": 7.68,
+     "end": 7.878
+    },
+    {
+     "w": "everybody",
+     "start": 7.878,
+     "end": 8.664
+    },
+    {
+     "w": "goes",
+     "start": 8.664,
+     "end": 8.863
+    },
+    {
+     "w": "swimming",
+     "start": 8.863,
+     "end": 9.208
+    },
+    {
+     "w": "in",
+     "start": 9.208,
+     "end": 9.406
+    },
+    {
+     "w": "their",
+     "start": 9.406,
+     "end": 9.605
+    },
+    {
+     "w": "clothes.",
+     "start": 9.605,
+     "end": 9.95
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.385,
+   "end": 16.094,
+   "text": "So you build it from stainless steel, add air chambers underneath, and hold every corner on cables, so it stays level.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.495,
+     "end": 10.713
+    },
+    {
+     "w": "you",
+     "start": 10.713,
+     "end": 10.932
+    },
+    {
+     "w": "build",
+     "start": 10.932,
+     "end": 11.15
+    },
+    {
+     "w": "it",
+     "start": 11.15,
+     "end": 11.368
+    },
+    {
+     "w": "from",
+     "start": 11.368,
+     "end": 11.587
+    },
+    {
+     "w": "stainless",
+     "start": 11.587,
+     "end": 11.967
+    },
+    {
+     "w": "steel,",
+     "start": 11.967,
+     "end": 12.185
+    },
+    {
+     "w": "add",
+     "start": 12.315,
+     "end": 12.501
+    },
+    {
+     "w": "air",
+     "start": 12.501,
+     "end": 12.688
+    },
+    {
+     "w": "chambers",
+     "start": 12.688,
+     "end": 13.012
+    },
+    {
+     "w": "underneath,",
+     "start": 13.012,
+     "end": 13.475
+    },
+    {
+     "w": "and",
+     "start": 13.615,
+     "end": 13.775
+    },
+    {
+     "w": "hold",
+     "start": 13.775,
+     "end": 13.934
+    },
+    {
+     "w": "every",
+     "start": 13.934,
+     "end": 14.33
+    },
+    {
+     "w": "corner",
+     "start": 14.33,
+     "end": 14.608
+    },
+    {
+     "w": "on",
+     "start": 14.608,
+     "end": 14.767
+    },
+    {
+     "w": "cables,",
+     "start": 14.767,
+     "end": 15.045
+    },
+    {
+     "w": "so",
+     "start": 15.195,
+     "end": 15.368
+    },
+    {
+     "w": "it",
+     "start": 15.368,
+     "end": 15.541
+    },
+    {
+     "w": "stays",
+     "start": 15.541,
+     "end": 15.714
+    },
+    {
+     "w": "level.",
+     "start": 15.714,
+     "end": 16.015
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.458,
+   "end": 19.573,
+   "text": "Now it's rock solid, until you want to swim, and it won't go down.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 16.558,
+     "end": 16.771
+    },
+    {
+     "w": "it's",
+     "start": 16.771,
+     "end": 16.984
+    },
+    {
+     "w": "rock",
+     "start": 16.984,
+     "end": 17.197
+    },
+    {
+     "w": "solid,",
+     "start": 17.197,
+     "end": 17.568
+    },
+    {
+     "w": "until",
+     "start": 17.698,
+     "end": 17.971
+    },
+    {
+     "w": "you",
+     "start": 17.971,
+     "end": 18.128
+    },
+    {
+     "w": "want",
+     "start": 18.128,
+     "end": 18.284
+    },
+    {
+     "w": "to",
+     "start": 18.284,
+     "end": 18.441
+    },
+    {
+     "w": "swim,",
+     "start": 18.441,
+     "end": 18.598
+    },
+    {
+     "w": "and",
+     "start": 18.758,
+     "end": 18.904
+    },
+    {
+     "w": "it",
+     "start": 18.904,
+     "end": 19.05
+    },
+    {
+     "w": "won't",
+     "start": 19.05,
+     "end": 19.196
+    },
+    {
+     "w": "go",
+     "start": 19.196,
+     "end": 19.342
+    },
+    {
+     "w": "down.",
+     "start": 19.342,
+     "end": 19.488
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.938,
+   "end": 26.031,
+   "text": "So you add pulleys, steel cables, and a piston that runs on plain water instead of oil, pulling the floor down to any depth.",
+   "words": [
+    {
+     "w": "So",
+     "start": 20.048,
+     "end": 20.301
+    },
+    {
+     "w": "you",
+     "start": 20.301,
+     "end": 20.554
+    },
+    {
+     "w": "add",
+     "start": 20.554,
+     "end": 20.807
+    },
+    {
+     "w": "pulleys,",
+     "start": 20.807,
+     "end": 21.248
+    },
+    {
+     "w": "steel",
+     "start": 21.298,
+     "end": 21.535
+    },
+    {
+     "w": "cables,",
+     "start": 21.535,
+     "end": 21.948
+    },
+    {
+     "w": "and",
+     "start": 22.078,
+     "end": 22.255
+    },
+    {
+     "w": "a",
+     "start": 22.255,
+     "end": 22.432
+    },
+    {
+     "w": "piston",
+     "start": 22.432,
+     "end": 22.74
+    },
+    {
+     "w": "that",
+     "start": 22.74,
+     "end": 22.917
+    },
+    {
+     "w": "runs",
+     "start": 22.917,
+     "end": 23.094
+    },
+    {
+     "w": "on",
+     "start": 23.094,
+     "end": 23.271
+    },
+    {
+     "w": "plain",
+     "start": 23.271,
+     "end": 23.448
+    },
+    {
+     "w": "water",
+     "start": 23.448,
+     "end": 23.756
+    },
+    {
+     "w": "instead",
+     "start": 23.756,
+     "end": 24.064
+    },
+    {
+     "w": "of",
+     "start": 24.064,
+     "end": 24.241
+    },
+    {
+     "w": "oil,",
+     "start": 24.241,
+     "end": 24.418
+    },
+    {
+     "w": "pulling",
+     "start": 24.598,
+     "end": 24.873
+    },
+    {
+     "w": "the",
+     "start": 24.873,
+     "end": 25.031
+    },
+    {
+     "w": "floor",
+     "start": 25.031,
+     "end": 25.189
+    },
+    {
+     "w": "down",
+     "start": 25.189,
+     "end": 25.347
+    },
+    {
+     "w": "to",
+     "start": 25.347,
+     "end": 25.505
+    },
+    {
+     "w": "any",
+     "start": 25.505,
+     "end": 25.78
+    },
+    {
+     "w": "depth.",
+     "start": 25.78,
+     "end": 25.938
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 26.396,
+   "end": 30.052,
+   "text": "But every time it moves, thousands of gallons of water need somewhere to go.",
+   "words": [
+    {
+     "w": "But",
+     "start": 26.536,
+     "end": 26.69
+    },
+    {
+     "w": "every",
+     "start": 26.69,
+     "end": 27.071
+    },
+    {
+     "w": "time",
+     "start": 27.071,
+     "end": 27.225
+    },
+    {
+     "w": "it",
+     "start": 27.225,
+     "end": 27.378
+    },
+    {
+     "w": "moves,",
+     "start": 27.378,
+     "end": 27.646
+    },
+    {
+     "w": "thousands",
+     "start": 27.756,
+     "end": 28.06
+    },
+    {
+     "w": "of",
+     "start": 28.06,
+     "end": 28.235
+    },
+    {
+     "w": "gallons",
+     "start": 28.235,
+     "end": 28.539
+    },
+    {
+     "w": "of",
+     "start": 28.539,
+     "end": 28.714
+    },
+    {
+     "w": "water",
+     "start": 28.714,
+     "end": 29.018
+    },
+    {
+     "w": "need",
+     "start": 29.018,
+     "end": 29.193
+    },
+    {
+     "w": "somewhere",
+     "start": 29.193,
+     "end": 29.626
+    },
+    {
+     "w": "to",
+     "start": 29.626,
+     "end": 29.801
+    },
+    {
+     "w": "go.",
+     "start": 29.801,
+     "end": 29.976
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 30.417,
+   "end": 36.292,
+   "text": "So you leave a thin gap around the edge, and the water just flows around it: no draining, no pumping, no flooding.",
+   "words": [
+    {
+     "w": "So",
+     "start": 30.527,
+     "end": 30.708
+    },
+    {
+     "w": "you",
+     "start": 30.708,
+     "end": 30.888
+    },
+    {
+     "w": "leave",
+     "start": 30.888,
+     "end": 31.069
+    },
+    {
+     "w": "a",
+     "start": 31.069,
+     "end": 31.25
+    },
+    {
+     "w": "thin",
+     "start": 31.25,
+     "end": 31.43
+    },
+    {
+     "w": "gap",
+     "start": 31.43,
+     "end": 31.611
+    },
+    {
+     "w": "around",
+     "start": 31.611,
+     "end": 31.926
+    },
+    {
+     "w": "the",
+     "start": 31.926,
+     "end": 32.106
+    },
+    {
+     "w": "edge,",
+     "start": 32.106,
+     "end": 32.287
+    },
+    {
+     "w": "and",
+     "start": 32.397,
+     "end": 32.599
+    },
+    {
+     "w": "the",
+     "start": 32.599,
+     "end": 32.802
+    },
+    {
+     "w": "water",
+     "start": 32.802,
+     "end": 33.154
+    },
+    {
+     "w": "just",
+     "start": 33.154,
+     "end": 33.356
+    },
+    {
+     "w": "flows",
+     "start": 33.356,
+     "end": 33.558
+    },
+    {
+     "w": "around",
+     "start": 33.558,
+     "end": 33.91
+    },
+    {
+     "w": "it:",
+     "start": 33.91,
+     "end": 34.113
+    },
+    {
+     "w": "no",
+     "start": 34.113,
+     "end": 34.315
+    },
+    {
+     "w": "draining,",
+     "start": 34.315,
+     "end": 34.667
+    },
+    {
+     "w": "no",
+     "start": 34.827,
+     "end": 35.079
+    },
+    {
+     "w": "pumping,",
+     "start": 35.079,
+     "end": 35.517
+    },
+    {
+     "w": "no",
+     "start": 35.657,
+     "end": 35.858
+    },
+    {
+     "w": "flooding.",
+     "start": 35.858,
+     "end": 36.207
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 36.656,
+   "end": 41.031,
+   "text": "Now everything works, until a pool float drifts under the edge while the floor is rising.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 36.766,
+     "end": 36.959
+    },
+    {
+     "w": "everything",
+     "start": 36.959,
+     "end": 37.583
+    },
+    {
+     "w": "works,",
+     "start": 37.583,
+     "end": 37.776
+    },
+    {
+     "w": "until",
+     "start": 37.906,
+     "end": 38.255
+    },
+    {
+     "w": "a",
+     "start": 38.255,
+     "end": 38.455
+    },
+    {
+     "w": "pool",
+     "start": 38.455,
+     "end": 38.656
+    },
+    {
+     "w": "float",
+     "start": 38.656,
+     "end": 38.856
+    },
+    {
+     "w": "drifts",
+     "start": 38.856,
+     "end": 39.056
+    },
+    {
+     "w": "under",
+     "start": 39.056,
+     "end": 39.405
+    },
+    {
+     "w": "the",
+     "start": 39.405,
+     "end": 39.605
+    },
+    {
+     "w": "edge",
+     "start": 39.605,
+     "end": 39.806
+    },
+    {
+     "w": "while",
+     "start": 39.806,
+     "end": 40.006
+    },
+    {
+     "w": "the",
+     "start": 40.006,
+     "end": 40.206
+    },
+    {
+     "w": "floor",
+     "start": 40.206,
+     "end": 40.407
+    },
+    {
+     "w": "is",
+     "start": 40.407,
+     "end": 40.607
+    },
+    {
+     "w": "rising.",
+     "start": 40.607,
+     "end": 40.956
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 41.396,
+   "end": 46.677,
+   "text": "So you add sensors that stop it instantly, locks at the top, and a frame strong enough to hold a whole party.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.506,
+     "end": 41.706
+    },
+    {
+     "w": "you",
+     "start": 41.706,
+     "end": 41.905
+    },
+    {
+     "w": "add",
+     "start": 41.905,
+     "end": 42.105
+    },
+    {
+     "w": "sensors",
+     "start": 42.105,
+     "end": 42.452
+    },
+    {
+     "w": "that",
+     "start": 42.452,
+     "end": 42.652
+    },
+    {
+     "w": "stop",
+     "start": 42.652,
+     "end": 42.851
+    },
+    {
+     "w": "it",
+     "start": 42.851,
+     "end": 43.051
+    },
+    {
+     "w": "instantly,",
+     "start": 43.051,
+     "end": 43.546
+    },
+    {
+     "w": "locks",
+     "start": 43.706,
+     "end": 43.894
+    },
+    {
+     "w": "at",
+     "start": 43.894,
+     "end": 44.081
+    },
+    {
+     "w": "the",
+     "start": 44.081,
+     "end": 44.268
+    },
+    {
+     "w": "top,",
+     "start": 44.268,
+     "end": 44.456
+    },
+    {
+     "w": "and",
+     "start": 44.646,
+     "end": 44.815
+    },
+    {
+     "w": "a",
+     "start": 44.815,
+     "end": 44.984
+    },
+    {
+     "w": "frame",
+     "start": 44.984,
+     "end": 45.153
+    },
+    {
+     "w": "strong",
+     "start": 45.153,
+     "end": 45.322
+    },
+    {
+     "w": "enough",
+     "start": 45.322,
+     "end": 45.616
+    },
+    {
+     "w": "to",
+     "start": 45.616,
+     "end": 45.785
+    },
+    {
+     "w": "hold",
+     "start": 45.785,
+     "end": 45.954
+    },
+    {
+     "w": "a",
+     "start": 45.954,
+     "end": 46.123
+    },
+    {
+     "w": "whole",
+     "start": 46.123,
+     "end": 46.292
+    },
+    {
+     "w": "party.",
+     "start": 46.292,
+     "end": 46.586
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 47.042,
+   "end": 50.938,
+   "text": "But before you press the button, follow, because next we're building a roller coaster.",
+   "words": [
+    {
+     "w": "But",
+     "start": 47.182,
+     "end": 47.357
+    },
+    {
+     "w": "before",
+     "start": 47.357,
+     "end": 47.662
+    },
+    {
+     "w": "you",
+     "start": 47.662,
+     "end": 47.837
+    },
+    {
+     "w": "press",
+     "start": 47.837,
+     "end": 48.012
+    },
+    {
+     "w": "the",
+     "start": 48.012,
+     "end": 48.187
+    },
+    {
+     "w": "button,",
+     "start": 48.187,
+     "end": 48.492
+    },
+    {
+     "w": "follow,",
+     "start": 48.642,
+     "end": 48.972
+    },
+    {
+     "w": "because",
+     "start": 49.102,
+     "end": 49.411
+    },
+    {
+     "w": "next",
+     "start": 49.411,
+     "end": 49.589
+    },
+    {
+     "w": "we're",
+     "start": 49.589,
+     "end": 49.767
+    },
+    {
+     "w": "building",
+     "start": 49.767,
+     "end": 50.076
+    },
+    {
+     "w": "a",
+     "start": 50.076,
+     "end": 50.253
+    },
+    {
+     "w": "roller",
+     "start": 50.253,
+     "end": 50.563
+    },
+    {
+     "w": "coaster.",
+     "start": 50.563,
+     "end": 50.872
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 51.302,
+   "end": 56.271,
+   "text": "Now just tile it like the patio, press a button, and in five minutes your patio sinks into a pool.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 51.412,
+     "end": 51.621
+    },
+    {
+     "w": "just",
+     "start": 51.621,
+     "end": 51.831
+    },
+    {
+     "w": "tile",
+     "start": 51.831,
+     "end": 52.04
+    },
+    {
+     "w": "it",
+     "start": 52.04,
+     "end": 52.249
+    },
+    {
+     "w": "like",
+     "start": 52.249,
+     "end": 52.458
+    },
+    {
+     "w": "the",
+     "start": 52.458,
+     "end": 52.668
+    },
+    {
+     "w": "patio,",
+     "start": 52.668,
+     "end": 53.032
+    },
+    {
+     "w": "press",
+     "start": 53.222,
+     "end": 53.388
+    },
+    {
+     "w": "a",
+     "start": 53.388,
+     "end": 53.553
+    },
+    {
+     "w": "button,",
+     "start": 53.553,
+     "end": 53.842
+    },
+    {
+     "w": "and",
+     "start": 54.002,
+     "end": 54.171
+    },
+    {
+     "w": "in",
+     "start": 54.171,
+     "end": 54.34
+    },
+    {
+     "w": "five",
+     "start": 54.34,
+     "end": 54.509
+    },
+    {
+     "w": "minutes",
+     "start": 54.509,
+     "end": 54.928
+    },
+    {
+     "w": "your",
+     "start": 54.928,
+     "end": 55.097
+    },
+    {
+     "w": "patio",
+     "start": 55.097,
+     "end": 55.391
+    },
+    {
+     "w": "sinks",
+     "start": 55.391,
+     "end": 55.56
+    },
+    {
+     "w": "into",
+     "start": 55.56,
+     "end": 55.854
+    },
+    {
+     "w": "a",
+     "start": 55.854,
+     "end": 56.023
+    },
+    {
+     "w": "pool.",
+     "start": 56.023,
+     "end": 56.192
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 56.635,
+   "end": 59.792,
+   "text": "One backyard, two spaces, zero compromises.",
+   "words": [
+    {
+     "w": "One",
+     "start": 56.735,
+     "end": 57.027
+    },
+    {
+     "w": "backyard,",
+     "start": 57.027,
+     "end": 57.535
+    },
+    {
+     "w": "two",
+     "start": 57.705,
+     "end": 57.971
+    },
+    {
+     "w": "spaces,",
+     "start": 57.971,
+     "end": 58.435
+    },
+    {
+     "w": "zero",
+     "start": 58.595,
+     "end": 58.991
+    },
+    {
+     "w": "compromises.",
+     "start": 58.991,
+     "end": 59.725
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 60.156,
+   "end": 63.135,
+   "text": "And congrats, you just built a disappearing pool yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 60.276,
+     "end": 60.491
+    },
+    {
+     "w": "congrats,",
+     "start": 60.491,
+     "end": 60.865
+    },
+    {
+     "w": "you",
+     "start": 60.865,
+     "end": 61.08
+    },
+    {
+     "w": "just",
+     "start": 61.08,
+     "end": 61.295
+    },
+    {
+     "w": "built",
+     "start": 61.295,
+     "end": 61.51
+    },
+    {
+     "w": "a",
+     "start": 61.51,
+     "end": 61.725
+    },
+    {
+     "w": "disappearing",
+     "start": 61.725,
+     "end": 62.417
+    },
+    {
+     "w": "pool",
+     "start": 62.417,
+     "end": 62.632
+    },
+    {
+     "w": "yourself.",
+     "start": 62.632,
+     "end": 63.006
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 63.5,
+   "end": 65.844,
+   "text": "And the dog? He still doesn't trust the patio.",
+   "words": [
+    {
+     "w": "And",
+     "start": 63.62,
+     "end": 63.807
+    },
+    {
+     "w": "the",
+     "start": 63.807,
+     "end": 63.993
+    },
+    {
+     "w": "dog?",
+     "start": 63.993,
+     "end": 64.18
+    },
+    {
+     "w": "He",
+     "start": 64.32,
+     "end": 64.534
+    },
+    {
+     "w": "still",
+     "start": 64.534,
+     "end": 64.747
+    },
+    {
+     "w": "doesn't",
+     "start": 64.747,
+     "end": 64.961
+    },
+    {
+     "w": "trust",
+     "start": 64.961,
+     "end": 65.175
+    },
+    {
+     "w": "the",
+     "start": 65.175,
+     "end": 65.388
+    },
+    {
+     "w": "patio.",
+     "start": 65.388,
+     "end": 65.76
+    }
+   ]
+  }
+ ]
+}

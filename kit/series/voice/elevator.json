@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 66.38,
+ "words": 231,
+ "words_per_sec": 3.48,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.635,
+   "text": "If you tie a rope to a box and pull it through your ceiling, congrats, you just built an elevator."
+  },
+  {
+   "line": 2,
+   "start": 5.0,
+   "end": 8.365,
+   "text": "But with four people inside, your arms quit before floor two."
+  },
+  {
+   "line": 3,
+   "start": 8.729,
+   "end": 14.635,
+   "text": "So you add a motor, a roof pulley, and a counterweight as heavy as the box plus half a load, so the motor barely works."
+  },
+  {
+   "line": 4,
+   "start": 15.0,
+   "end": 17.927,
+   "text": "Now it glides up ten floors, until the rope snaps."
+  },
+  {
+   "line": 5,
+   "start": 18.292,
+   "end": 24.812,
+   "text": "So you add steel rails, backup cables, and a speed governor: if the box falls too fast, clamps bite the rails and stop it dead."
+  },
+  {
+   "line": 6,
+   "start": 25.177,
+   "end": 29.177,
+   "text": "But on floor five, someone opens the door while the box is still on floor one."
+  },
+  {
+   "line": 7,
+   "start": 29.542,
+   "end": 35.833,
+   "text": "That's why every door gets a lock that only opens when the box is there, a light beam across it, and edges that reopen on touch."
+  },
+  {
+   "line": 8,
+   "start": 36.198,
+   "end": 41.083,
+   "text": "Now everything works, until the power cuts out and you're stuck between floors with eleven strangers."
+  },
+  {
+   "line": 9,
+   "start": 41.448,
+   "end": 47.312,
+   "text": "So you add a backup battery, an emergency phone, and a rescue mode that crawls to the nearest floor and opens the doors."
+  },
+  {
+   "line": 10,
+   "start": 47.677,
+   "end": 51.75,
+   "text": "But before you press the first button, follow, because next we're building a skyscraper."
+  },
+  {
+   "line": 11,
+   "start": 52.115,
+   "end": 56.667,
+   "text": "Now just hide the machine behind two shiny doors, add a panel of buttons, and a little ding."
+  },
+  {
+   "line": 12,
+   "start": 57.031,
+   "end": 59.698,
+   "text": "One shaft, twenty floors, zero stairs."
+  },
+  {
+   "line": 13,
+   "start": 60.062,
+   "end": 62.646,
+   "text": "And congrats, you just built an elevator yourself."
+  },
+  {
+   "line": 14,
+   "start": 63.01,
+   "end": 66.385,
+   "text": "And no, pressing the button ten times won't make it come any faster."
+  }
+ ]
+}

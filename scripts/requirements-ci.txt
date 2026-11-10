@@ -1,0 +1,9 @@
+numpy
+scipy
+soundfile
+pillow
+skia-python
+uharfbuzz
+sherpa-onnx
+pyyaml
+requests

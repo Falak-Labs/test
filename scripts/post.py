@@ -231,6 +231,7 @@ def main():
     test_only = bool(cfg.get("test_only"))
     last = last_due_times(files)
     burst_slots = {}
+    held = set()
     accounts = {}
     for lang, var in cfg["keys"].items():
         key = os.environ.get(var, "").strip()
@@ -250,6 +251,11 @@ def main():
         now_targets = set(ep.get("now") or [])
         for lang in ("en", "ar"):
             if lang not in accounts or lang not in ep:
+                continue
+            if (cfg.get("hold") or {}).get(lang) and not set(ep.get("now") or []) & {f"{lang}.{p}" for p in PLATFORMS}:
+                if lang not in held:
+                    log(f"{lang}: on hold in config.yml - nothing is posted for this language")
+                    held.add(lang)
                 continue
             acc = accounts[lang]
             video = ep["video"].get(lang)

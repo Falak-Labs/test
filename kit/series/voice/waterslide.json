@@ -1,0 +1,1252 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 62.03,
+ "words": 226,
+ "words_per_sec": 3.64,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.146,
+   "text": "If you pour water down a plastic ramp, congrats, you just built a water slide.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.356
+    },
+    {
+     "w": "you",
+     "start": 0.356,
+     "end": 0.583
+    },
+    {
+     "w": "pour",
+     "start": 0.583,
+     "end": 0.809
+    },
+    {
+     "w": "water",
+     "start": 0.809,
+     "end": 1.203
+    },
+    {
+     "w": "down",
+     "start": 1.203,
+     "end": 1.429
+    },
+    {
+     "w": "a",
+     "start": 1.429,
+     "end": 1.656
+    },
+    {
+     "w": "plastic",
+     "start": 1.656,
+     "end": 2.05
+    },
+    {
+     "w": "ramp,",
+     "start": 2.05,
+     "end": 2.276
+    },
+    {
+     "w": "congrats,",
+     "start": 2.276,
+     "end": 2.67
+    },
+    {
+     "w": "you",
+     "start": 2.81,
+     "end": 2.997
+    },
+    {
+     "w": "just",
+     "start": 2.997,
+     "end": 3.184
+    },
+    {
+     "w": "built",
+     "start": 3.184,
+     "end": 3.371
+    },
+    {
+     "w": "a",
+     "start": 3.371,
+     "end": 3.558
+    },
+    {
+     "w": "water",
+     "start": 3.558,
+     "end": 3.883
+    },
+    {
+     "w": "slide.",
+     "start": 3.883,
+     "end": 4.07
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.51,
+   "end": 8.458,
+   "text": "But the water runs out halfway down, and you get stuck on the burning hot plastic.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.65,
+     "end": 4.845
+    },
+    {
+     "w": "the",
+     "start": 4.845,
+     "end": 5.04
+    },
+    {
+     "w": "water",
+     "start": 5.04,
+     "end": 5.38
+    },
+    {
+     "w": "runs",
+     "start": 5.38,
+     "end": 5.575
+    },
+    {
+     "w": "out",
+     "start": 5.575,
+     "end": 5.77
+    },
+    {
+     "w": "halfway",
+     "start": 5.77,
+     "end": 6.11
+    },
+    {
+     "w": "down,",
+     "start": 6.11,
+     "end": 6.305
+    },
+    {
+     "w": "and",
+     "start": 6.305,
+     "end": 6.5
+    },
+    {
+     "w": "you",
+     "start": 6.5,
+     "end": 6.695
+    },
+    {
+     "w": "get",
+     "start": 6.695,
+     "end": 6.89
+    },
+    {
+     "w": "stuck",
+     "start": 6.89,
+     "end": 7.085
+    },
+    {
+     "w": "on",
+     "start": 7.085,
+     "end": 7.28
+    },
+    {
+     "w": "the",
+     "start": 7.28,
+     "end": 7.476
+    },
+    {
+     "w": "burning",
+     "start": 7.476,
+     "end": 7.815
+    },
+    {
+     "w": "hot",
+     "start": 7.815,
+     "end": 8.01
+    },
+    {
+     "w": "plastic.",
+     "start": 8.01,
+     "end": 8.35
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.823,
+   "end": 13.99,
+   "text": "So you add pumps that push water up to the top nonstop, so a sheet of water carries you all the way down.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.943,
+     "end": 9.146
+    },
+    {
+     "w": "you",
+     "start": 9.146,
+     "end": 9.349
+    },
+    {
+     "w": "add",
+     "start": 9.349,
+     "end": 9.553
+    },
+    {
+     "w": "pumps",
+     "start": 9.553,
+     "end": 9.756
+    },
+    {
+     "w": "that",
+     "start": 9.756,
+     "end": 9.959
+    },
+    {
+     "w": "push",
+     "start": 9.959,
+     "end": 10.162
+    },
+    {
+     "w": "water",
+     "start": 10.162,
+     "end": 10.516
+    },
+    {
+     "w": "up",
+     "start": 10.516,
+     "end": 10.719
+    },
+    {
+     "w": "to",
+     "start": 10.719,
+     "end": 10.923
+    },
+    {
+     "w": "the",
+     "start": 10.923,
+     "end": 11.126
+    },
+    {
+     "w": "top",
+     "start": 11.126,
+     "end": 11.329
+    },
+    {
+     "w": "nonstop,",
+     "start": 11.329,
+     "end": 11.683
+    },
+    {
+     "w": "so",
+     "start": 11.863,
+     "end": 12.028
+    },
+    {
+     "w": "a",
+     "start": 12.028,
+     "end": 12.193
+    },
+    {
+     "w": "sheet",
+     "start": 12.193,
+     "end": 12.358
+    },
+    {
+     "w": "of",
+     "start": 12.358,
+     "end": 12.523
+    },
+    {
+     "w": "water",
+     "start": 12.523,
+     "end": 12.81
+    },
+    {
+     "w": "carries",
+     "start": 12.81,
+     "end": 13.098
+    },
+    {
+     "w": "you",
+     "start": 13.098,
+     "end": 13.263
+    },
+    {
+     "w": "all",
+     "start": 13.263,
+     "end": 13.428
+    },
+    {
+     "w": "the",
+     "start": 13.428,
+     "end": 13.593
+    },
+    {
+     "w": "way",
+     "start": 13.593,
+     "end": 13.758
+    },
+    {
+     "w": "down.",
+     "start": 13.758,
+     "end": 13.923
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.354,
+   "end": 18.469,
+   "text": "Now it's fast, until a sharp turn launches you right over the side and into the bushes.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 14.454,
+     "end": 14.697
+    },
+    {
+     "w": "it's",
+     "start": 14.697,
+     "end": 14.941
+    },
+    {
+     "w": "fast,",
+     "start": 14.941,
+     "end": 15.184
+    },
+    {
+     "w": "until",
+     "start": 15.354,
+     "end": 15.654
+    },
+    {
+     "w": "a",
+     "start": 15.654,
+     "end": 15.826
+    },
+    {
+     "w": "sharp",
+     "start": 15.826,
+     "end": 15.998
+    },
+    {
+     "w": "turn",
+     "start": 15.998,
+     "end": 16.171
+    },
+    {
+     "w": "launches",
+     "start": 16.171,
+     "end": 16.471
+    },
+    {
+     "w": "you",
+     "start": 16.471,
+     "end": 16.643
+    },
+    {
+     "w": "right",
+     "start": 16.643,
+     "end": 16.815
+    },
+    {
+     "w": "over",
+     "start": 16.815,
+     "end": 17.115
+    },
+    {
+     "w": "the",
+     "start": 17.115,
+     "end": 17.287
+    },
+    {
+     "w": "side",
+     "start": 17.287,
+     "end": 17.46
+    },
+    {
+     "w": "and",
+     "start": 17.46,
+     "end": 17.632
+    },
+    {
+     "w": "into",
+     "start": 17.632,
+     "end": 17.932
+    },
+    {
+     "w": "the",
+     "start": 17.932,
+     "end": 18.104
+    },
+    {
+     "w": "bushes.",
+     "start": 18.104,
+     "end": 18.404
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.833,
+   "end": 23.781,
+   "text": "So you bank the curves like a racetrack, raise the walls, and wrap the fastest part in a closed tube.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.943,
+     "end": 19.12
+    },
+    {
+     "w": "you",
+     "start": 19.12,
+     "end": 19.297
+    },
+    {
+     "w": "bank",
+     "start": 19.297,
+     "end": 19.474
+    },
+    {
+     "w": "the",
+     "start": 19.474,
+     "end": 19.651
+    },
+    {
+     "w": "curves",
+     "start": 19.651,
+     "end": 19.959
+    },
+    {
+     "w": "like",
+     "start": 19.959,
+     "end": 20.137
+    },
+    {
+     "w": "a",
+     "start": 20.137,
+     "end": 20.314
+    },
+    {
+     "w": "racetrack,",
+     "start": 20.314,
+     "end": 20.753
+    },
+    {
+     "w": "raise",
+     "start": 20.893,
+     "end": 21.103
+    },
+    {
+     "w": "the",
+     "start": 21.103,
+     "end": 21.313
+    },
+    {
+     "w": "walls,",
+     "start": 21.313,
+     "end": 21.523
+    },
+    {
+     "w": "and",
+     "start": 21.523,
+     "end": 21.733
+    },
+    {
+     "w": "wrap",
+     "start": 21.733,
+     "end": 21.943
+    },
+    {
+     "w": "the",
+     "start": 21.943,
+     "end": 22.153
+    },
+    {
+     "w": "fastest",
+     "start": 22.153,
+     "end": 22.518
+    },
+    {
+     "w": "part",
+     "start": 22.518,
+     "end": 22.728
+    },
+    {
+     "w": "in",
+     "start": 22.728,
+     "end": 22.938
+    },
+    {
+     "w": "a",
+     "start": 22.938,
+     "end": 23.148
+    },
+    {
+     "w": "closed",
+     "start": 23.148,
+     "end": 23.513
+    },
+    {
+     "w": "tube.",
+     "start": 23.513,
+     "end": 23.723
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.146,
+   "end": 28.229,
+   "text": "But then the next rider goes down too soon, catches up, and crashes right into you.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.286,
+     "end": 24.487
+    },
+    {
+     "w": "then",
+     "start": 24.487,
+     "end": 24.688
+    },
+    {
+     "w": "the",
+     "start": 24.688,
+     "end": 24.89
+    },
+    {
+     "w": "next",
+     "start": 24.89,
+     "end": 25.091
+    },
+    {
+     "w": "rider",
+     "start": 25.091,
+     "end": 25.441
+    },
+    {
+     "w": "goes",
+     "start": 25.441,
+     "end": 25.642
+    },
+    {
+     "w": "down",
+     "start": 25.642,
+     "end": 25.844
+    },
+    {
+     "w": "too",
+     "start": 25.844,
+     "end": 26.045
+    },
+    {
+     "w": "soon,",
+     "start": 26.045,
+     "end": 26.246
+    },
+    {
+     "w": "catches",
+     "start": 26.406,
+     "end": 26.73
+    },
+    {
+     "w": "up,",
+     "start": 26.73,
+     "end": 26.916
+    },
+    {
+     "w": "and",
+     "start": 27.086,
+     "end": 27.253
+    },
+    {
+     "w": "crashes",
+     "start": 27.253,
+     "end": 27.543
+    },
+    {
+     "w": "right",
+     "start": 27.543,
+     "end": 27.709
+    },
+    {
+     "w": "into",
+     "start": 27.709,
+     "end": 27.999
+    },
+    {
+     "w": "you.",
+     "start": 27.999,
+     "end": 28.166
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 28.594,
+   "end": 32.604,
+   "text": "So you add a light at the top that stays red until a sensor sees you leave the bottom.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.704,
+     "end": 28.884
+    },
+    {
+     "w": "you",
+     "start": 28.884,
+     "end": 29.064
+    },
+    {
+     "w": "add",
+     "start": 29.064,
+     "end": 29.244
+    },
+    {
+     "w": "a",
+     "start": 29.244,
+     "end": 29.424
+    },
+    {
+     "w": "light",
+     "start": 29.424,
+     "end": 29.604
+    },
+    {
+     "w": "at",
+     "start": 29.604,
+     "end": 29.784
+    },
+    {
+     "w": "the",
+     "start": 29.784,
+     "end": 29.964
+    },
+    {
+     "w": "top",
+     "start": 29.964,
+     "end": 30.144
+    },
+    {
+     "w": "that",
+     "start": 30.144,
+     "end": 30.324
+    },
+    {
+     "w": "stays",
+     "start": 30.324,
+     "end": 30.504
+    },
+    {
+     "w": "red",
+     "start": 30.504,
+     "end": 30.684
+    },
+    {
+     "w": "until",
+     "start": 30.684,
+     "end": 30.997
+    },
+    {
+     "w": "a",
+     "start": 30.997,
+     "end": 31.177
+    },
+    {
+     "w": "sensor",
+     "start": 31.177,
+     "end": 31.491
+    },
+    {
+     "w": "sees",
+     "start": 31.491,
+     "end": 31.671
+    },
+    {
+     "w": "you",
+     "start": 31.671,
+     "end": 31.851
+    },
+    {
+     "w": "leave",
+     "start": 31.851,
+     "end": 32.031
+    },
+    {
+     "w": "the",
+     "start": 32.031,
+     "end": 32.211
+    },
+    {
+     "w": "bottom.",
+     "start": 32.211,
+     "end": 32.524
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.969,
+   "end": 36.771,
+   "text": "Now it's safe, until you shoot off the end and skip across the pool like a stone.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 33.069,
+     "end": 33.282
+    },
+    {
+     "w": "it's",
+     "start": 33.282,
+     "end": 33.496
+    },
+    {
+     "w": "safe,",
+     "start": 33.496,
+     "end": 33.709
+    },
+    {
+     "w": "until",
+     "start": 33.879,
+     "end": 34.196
+    },
+    {
+     "w": "you",
+     "start": 34.196,
+     "end": 34.378
+    },
+    {
+     "w": "shoot",
+     "start": 34.378,
+     "end": 34.56
+    },
+    {
+     "w": "off",
+     "start": 34.56,
+     "end": 34.743
+    },
+    {
+     "w": "the",
+     "start": 34.743,
+     "end": 34.925
+    },
+    {
+     "w": "end",
+     "start": 34.925,
+     "end": 35.107
+    },
+    {
+     "w": "and",
+     "start": 35.107,
+     "end": 35.289
+    },
+    {
+     "w": "skip",
+     "start": 35.289,
+     "end": 35.471
+    },
+    {
+     "w": "across",
+     "start": 35.471,
+     "end": 35.788
+    },
+    {
+     "w": "the",
+     "start": 35.788,
+     "end": 35.97
+    },
+    {
+     "w": "pool",
+     "start": 35.97,
+     "end": 36.153
+    },
+    {
+     "w": "like",
+     "start": 36.153,
+     "end": 36.335
+    },
+    {
+     "w": "a",
+     "start": 36.335,
+     "end": 36.517
+    },
+    {
+     "w": "stone.",
+     "start": 36.517,
+     "end": 36.699
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 37.135,
+   "end": 42.583,
+   "text": "So you add a long run-out lane where shallow water slows you down, and a splash pool deep enough to land in.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.245,
+     "end": 37.457
+    },
+    {
+     "w": "you",
+     "start": 37.457,
+     "end": 37.668
+    },
+    {
+     "w": "add",
+     "start": 37.668,
+     "end": 37.88
+    },
+    {
+     "w": "a",
+     "start": 37.88,
+     "end": 38.091
+    },
+    {
+     "w": "long",
+     "start": 38.091,
+     "end": 38.303
+    },
+    {
+     "w": "run-out",
+     "start": 38.303,
+     "end": 38.671
+    },
+    {
+     "w": "lane",
+     "start": 38.671,
+     "end": 38.882
+    },
+    {
+     "w": "where",
+     "start": 38.882,
+     "end": 39.094
+    },
+    {
+     "w": "shallow",
+     "start": 39.094,
+     "end": 39.462
+    },
+    {
+     "w": "water",
+     "start": 39.462,
+     "end": 39.83
+    },
+    {
+     "w": "slows",
+     "start": 39.83,
+     "end": 40.042
+    },
+    {
+     "w": "you",
+     "start": 40.042,
+     "end": 40.253
+    },
+    {
+     "w": "down,",
+     "start": 40.253,
+     "end": 40.465
+    },
+    {
+     "w": "and",
+     "start": 40.465,
+     "end": 40.676
+    },
+    {
+     "w": "a",
+     "start": 40.676,
+     "end": 40.888
+    },
+    {
+     "w": "splash",
+     "start": 40.888,
+     "end": 41.099
+    },
+    {
+     "w": "pool",
+     "start": 41.099,
+     "end": 41.311
+    },
+    {
+     "w": "deep",
+     "start": 41.311,
+     "end": 41.522
+    },
+    {
+     "w": "enough",
+     "start": 41.522,
+     "end": 41.89
+    },
+    {
+     "w": "to",
+     "start": 41.89,
+     "end": 42.102
+    },
+    {
+     "w": "land",
+     "start": 42.102,
+     "end": 42.313
+    },
+    {
+     "w": "in.",
+     "start": 42.313,
+     "end": 42.525
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 42.948,
+   "end": 47.198,
+   "text": "But before you grab a mat, follow, because next we're building a rocket that lands itself.",
+   "words": [
+    {
+     "w": "But",
+     "start": 43.098,
+     "end": 43.267
+    },
+    {
+     "w": "before",
+     "start": 43.267,
+     "end": 43.562
+    },
+    {
+     "w": "you",
+     "start": 43.562,
+     "end": 43.731
+    },
+    {
+     "w": "grab",
+     "start": 43.731,
+     "end": 43.9
+    },
+    {
+     "w": "a",
+     "start": 43.9,
+     "end": 44.069
+    },
+    {
+     "w": "mat,",
+     "start": 44.069,
+     "end": 44.238
+    },
+    {
+     "w": "follow,",
+     "start": 44.398,
+     "end": 44.718
+    },
+    {
+     "w": "because",
+     "start": 44.838,
+     "end": 45.167
+    },
+    {
+     "w": "next",
+     "start": 45.167,
+     "end": 45.356
+    },
+    {
+     "w": "we're",
+     "start": 45.356,
+     "end": 45.545
+    },
+    {
+     "w": "building",
+     "start": 45.545,
+     "end": 45.874
+    },
+    {
+     "w": "a",
+     "start": 45.874,
+     "end": 46.062
+    },
+    {
+     "w": "rocket",
+     "start": 46.062,
+     "end": 46.391
+    },
+    {
+     "w": "that",
+     "start": 46.391,
+     "end": 46.58
+    },
+    {
+     "w": "lands",
+     "start": 46.58,
+     "end": 46.769
+    },
+    {
+     "w": "itself.",
+     "start": 46.769,
+     "end": 47.098
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 47.562,
+   "end": 52.177,
+   "text": "Now just paint it every color, twist a few more slides around the tower, and open the gates.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 47.672,
+     "end": 47.848
+    },
+    {
+     "w": "just",
+     "start": 47.848,
+     "end": 48.025
+    },
+    {
+     "w": "paint",
+     "start": 48.025,
+     "end": 48.201
+    },
+    {
+     "w": "it",
+     "start": 48.201,
+     "end": 48.377
+    },
+    {
+     "w": "every",
+     "start": 48.377,
+     "end": 48.815
+    },
+    {
+     "w": "color,",
+     "start": 48.815,
+     "end": 49.122
+    },
+    {
+     "w": "twist",
+     "start": 49.292,
+     "end": 49.471
+    },
+    {
+     "w": "a",
+     "start": 49.471,
+     "end": 49.65
+    },
+    {
+     "w": "few",
+     "start": 49.65,
+     "end": 49.829
+    },
+    {
+     "w": "more",
+     "start": 49.829,
+     "end": 50.008
+    },
+    {
+     "w": "slides",
+     "start": 50.008,
+     "end": 50.32
+    },
+    {
+     "w": "around",
+     "start": 50.32,
+     "end": 50.631
+    },
+    {
+     "w": "the",
+     "start": 50.631,
+     "end": 50.81
+    },
+    {
+     "w": "tower,",
+     "start": 50.81,
+     "end": 51.122
+    },
+    {
+     "w": "and",
+     "start": 51.292,
+     "end": 51.438
+    },
+    {
+     "w": "open",
+     "start": 51.438,
+     "end": 51.692
+    },
+    {
+     "w": "the",
+     "start": 51.692,
+     "end": 51.838
+    },
+    {
+     "w": "gates.",
+     "start": 51.838,
+     "end": 52.092
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 52.542,
+   "end": 55.667,
+   "text": "One tower, six slides, zero dry swimsuits.",
+   "words": [
+    {
+     "w": "One",
+     "start": 52.642,
+     "end": 52.89
+    },
+    {
+     "w": "tower,",
+     "start": 52.89,
+     "end": 53.322
+    },
+    {
+     "w": "six",
+     "start": 53.482,
+     "end": 53.763
+    },
+    {
+     "w": "slides,",
+     "start": 53.763,
+     "end": 54.252
+    },
+    {
+     "w": "zero",
+     "start": 54.382,
+     "end": 54.86
+    },
+    {
+     "w": "dry",
+     "start": 54.86,
+     "end": 55.134
+    },
+    {
+     "w": "swimsuits.",
+     "start": 55.134,
+     "end": 55.612
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.031,
+   "end": 58.688,
+   "text": "And congrats, you just built a water slide yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.151,
+     "end": 56.41
+    },
+    {
+     "w": "congrats,",
+     "start": 56.41,
+     "end": 56.861
+    },
+    {
+     "w": "you",
+     "start": 56.991,
+     "end": 57.178
+    },
+    {
+     "w": "just",
+     "start": 57.178,
+     "end": 57.366
+    },
+    {
+     "w": "built",
+     "start": 57.366,
+     "end": 57.553
+    },
+    {
+     "w": "a",
+     "start": 57.553,
+     "end": 57.741
+    },
+    {
+     "w": "water",
+     "start": 57.741,
+     "end": 58.067
+    },
+    {
+     "w": "slide",
+     "start": 58.067,
+     "end": 58.255
+    },
+    {
+     "w": "yourself.",
+     "start": 58.255,
+     "end": 58.581
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.052,
+   "end": 62.042,
+   "text": "And the scariest part? Still walking barefoot on the hot ground.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.172,
+     "end": 59.366
+    },
+    {
+     "w": "the",
+     "start": 59.366,
+     "end": 59.56
+    },
+    {
+     "w": "scariest",
+     "start": 59.56,
+     "end": 59.898
+    },
+    {
+     "w": "part?",
+     "start": 59.898,
+     "end": 60.092
+    },
+    {
+     "w": "Still",
+     "start": 60.242,
+     "end": 60.429
+    },
+    {
+     "w": "walking",
+     "start": 60.429,
+     "end": 60.753
+    },
+    {
+     "w": "barefoot",
+     "start": 60.753,
+     "end": 61.216
+    },
+    {
+     "w": "on",
+     "start": 61.216,
+     "end": 61.402
+    },
+    {
+     "w": "the",
+     "start": 61.402,
+     "end": 61.589
+    },
+    {
+     "w": "hot",
+     "start": 61.589,
+     "end": 61.775
+    },
+    {
+     "w": "ground.",
+     "start": 61.775,
+     "end": 61.962
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1292 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 62.88,
+ "words": 234,
+ "words_per_sec": 3.72,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.438,
+   "text": "If you roll a cart down a hill on two rails, congrats, you just built a roller coaster.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.317
+    },
+    {
+     "w": "you",
+     "start": 0.317,
+     "end": 0.505
+    },
+    {
+     "w": "roll",
+     "start": 0.505,
+     "end": 0.692
+    },
+    {
+     "w": "a",
+     "start": 0.692,
+     "end": 0.879
+    },
+    {
+     "w": "cart",
+     "start": 0.879,
+     "end": 1.066
+    },
+    {
+     "w": "down",
+     "start": 1.066,
+     "end": 1.254
+    },
+    {
+     "w": "a",
+     "start": 1.254,
+     "end": 1.441
+    },
+    {
+     "w": "hill",
+     "start": 1.441,
+     "end": 1.628
+    },
+    {
+     "w": "on",
+     "start": 1.628,
+     "end": 1.815
+    },
+    {
+     "w": "two",
+     "start": 1.815,
+     "end": 2.003
+    },
+    {
+     "w": "rails,",
+     "start": 2.003,
+     "end": 2.19
+    },
+    {
+     "w": "congrats,",
+     "start": 2.32,
+     "end": 2.705
+    },
+    {
+     "w": "you",
+     "start": 2.705,
+     "end": 2.926
+    },
+    {
+     "w": "just",
+     "start": 2.926,
+     "end": 3.147
+    },
+    {
+     "w": "built",
+     "start": 3.147,
+     "end": 3.369
+    },
+    {
+     "w": "a",
+     "start": 3.369,
+     "end": 3.59
+    },
+    {
+     "w": "roller",
+     "start": 3.59,
+     "end": 3.975
+    },
+    {
+     "w": "coaster.",
+     "start": 3.975,
+     "end": 4.36
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.802,
+   "end": 8.219,
+   "text": "But it stops at the bottom, and someone has to push it all the way back up.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.942,
+     "end": 5.113
+    },
+    {
+     "w": "it",
+     "start": 5.113,
+     "end": 5.283
+    },
+    {
+     "w": "stops",
+     "start": 5.283,
+     "end": 5.454
+    },
+    {
+     "w": "at",
+     "start": 5.454,
+     "end": 5.624
+    },
+    {
+     "w": "the",
+     "start": 5.624,
+     "end": 5.795
+    },
+    {
+     "w": "bottom,",
+     "start": 5.795,
+     "end": 6.092
+    },
+    {
+     "w": "and",
+     "start": 6.262,
+     "end": 6.417
+    },
+    {
+     "w": "someone",
+     "start": 6.417,
+     "end": 6.687
+    },
+    {
+     "w": "has",
+     "start": 6.687,
+     "end": 6.842
+    },
+    {
+     "w": "to",
+     "start": 6.842,
+     "end": 6.997
+    },
+    {
+     "w": "push",
+     "start": 6.997,
+     "end": 7.152
+    },
+    {
+     "w": "it",
+     "start": 7.152,
+     "end": 7.307
+    },
+    {
+     "w": "all",
+     "start": 7.307,
+     "end": 7.462
+    },
+    {
+     "w": "the",
+     "start": 7.462,
+     "end": 7.617
+    },
+    {
+     "w": "way",
+     "start": 7.617,
+     "end": 7.772
+    },
+    {
+     "w": "back",
+     "start": 7.772,
+     "end": 7.927
+    },
+    {
+     "w": "up.",
+     "start": 7.927,
+     "end": 8.082
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.583,
+   "end": 14.469,
+   "text": "So you add a chain that drags the train up the first hill, and safety dogs that clack into a ratchet, so it can never roll back.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.693,
+     "end": 8.881
+    },
+    {
+     "w": "you",
+     "start": 8.881,
+     "end": 9.068
+    },
+    {
+     "w": "add",
+     "start": 9.068,
+     "end": 9.256
+    },
+    {
+     "w": "a",
+     "start": 9.256,
+     "end": 9.444
+    },
+    {
+     "w": "chain",
+     "start": 9.444,
+     "end": 9.631
+    },
+    {
+     "w": "that",
+     "start": 9.631,
+     "end": 9.819
+    },
+    {
+     "w": "drags",
+     "start": 9.819,
+     "end": 10.007
+    },
+    {
+     "w": "the",
+     "start": 10.007,
+     "end": 10.195
+    },
+    {
+     "w": "train",
+     "start": 10.195,
+     "end": 10.382
+    },
+    {
+     "w": "up",
+     "start": 10.382,
+     "end": 10.57
+    },
+    {
+     "w": "the",
+     "start": 10.57,
+     "end": 10.758
+    },
+    {
+     "w": "first",
+     "start": 10.758,
+     "end": 10.945
+    },
+    {
+     "w": "hill,",
+     "start": 10.945,
+     "end": 11.133
+    },
+    {
+     "w": "and",
+     "start": 11.313,
+     "end": 11.489
+    },
+    {
+     "w": "safety",
+     "start": 11.489,
+     "end": 11.926
+    },
+    {
+     "w": "dogs",
+     "start": 11.926,
+     "end": 12.102
+    },
+    {
+     "w": "that",
+     "start": 12.102,
+     "end": 12.278
+    },
+    {
+     "w": "clack",
+     "start": 12.278,
+     "end": 12.454
+    },
+    {
+     "w": "into",
+     "start": 12.454,
+     "end": 12.76
+    },
+    {
+     "w": "a",
+     "start": 12.76,
+     "end": 12.937
+    },
+    {
+     "w": "ratchet,",
+     "start": 12.937,
+     "end": 13.243
+    },
+    {
+     "w": "so",
+     "start": 13.423,
+     "end": 13.561
+    },
+    {
+     "w": "it",
+     "start": 13.561,
+     "end": 13.699
+    },
+    {
+     "w": "can",
+     "start": 13.699,
+     "end": 13.837
+    },
+    {
+     "w": "never",
+     "start": 13.837,
+     "end": 14.077
+    },
+    {
+     "w": "roll",
+     "start": 14.077,
+     "end": 14.215
+    },
+    {
+     "w": "back.",
+     "start": 14.215,
+     "end": 14.353
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.833,
+   "end": 18.438,
+   "text": "Now it's thrilling, until a fast hill throws the cars right off the track.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 14.933,
+     "end": 15.147
+    },
+    {
+     "w": "it's",
+     "start": 15.147,
+     "end": 15.361
+    },
+    {
+     "w": "thrilling,",
+     "start": 15.361,
+     "end": 15.733
+    },
+    {
+     "w": "until",
+     "start": 15.893,
+     "end": 16.262
+    },
+    {
+     "w": "a",
+     "start": 16.262,
+     "end": 16.474
+    },
+    {
+     "w": "fast",
+     "start": 16.474,
+     "end": 16.686
+    },
+    {
+     "w": "hill",
+     "start": 16.686,
+     "end": 16.898
+    },
+    {
+     "w": "throws",
+     "start": 16.898,
+     "end": 17.111
+    },
+    {
+     "w": "the",
+     "start": 17.111,
+     "end": 17.323
+    },
+    {
+     "w": "cars",
+     "start": 17.323,
+     "end": 17.535
+    },
+    {
+     "w": "right",
+     "start": 17.535,
+     "end": 17.747
+    },
+    {
+     "w": "off",
+     "start": 17.747,
+     "end": 17.959
+    },
+    {
+     "w": "the",
+     "start": 17.959,
+     "end": 18.171
+    },
+    {
+     "w": "track.",
+     "start": 18.171,
+     "end": 18.383
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.802,
+   "end": 24.167,
+   "text": "So you give every car three sets of wheels: on top of the rail, on the side, and underneath, so it's locked on.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.912,
+     "end": 19.095
+    },
+    {
+     "w": "you",
+     "start": 19.095,
+     "end": 19.278
+    },
+    {
+     "w": "give",
+     "start": 19.278,
+     "end": 19.462
+    },
+    {
+     "w": "every",
+     "start": 19.462,
+     "end": 19.916
+    },
+    {
+     "w": "car",
+     "start": 19.916,
+     "end": 20.099
+    },
+    {
+     "w": "three",
+     "start": 20.099,
+     "end": 20.282
+    },
+    {
+     "w": "sets",
+     "start": 20.282,
+     "end": 20.466
+    },
+    {
+     "w": "of",
+     "start": 20.466,
+     "end": 20.649
+    },
+    {
+     "w": "wheels:",
+     "start": 20.649,
+     "end": 20.832
+    },
+    {
+     "w": "on",
+     "start": 20.952,
+     "end": 21.126
+    },
+    {
+     "w": "top",
+     "start": 21.126,
+     "end": 21.3
+    },
+    {
+     "w": "of",
+     "start": 21.3,
+     "end": 21.474
+    },
+    {
+     "w": "the",
+     "start": 21.474,
+     "end": 21.648
+    },
+    {
+     "w": "rail,",
+     "start": 21.648,
+     "end": 21.822
+    },
+    {
+     "w": "on",
+     "start": 21.962,
+     "end": 22.162
+    },
+    {
+     "w": "the",
+     "start": 22.162,
+     "end": 22.362
+    },
+    {
+     "w": "side,",
+     "start": 22.362,
+     "end": 22.562
+    },
+    {
+     "w": "and",
+     "start": 22.702,
+     "end": 22.851
+    },
+    {
+     "w": "underneath,",
+     "start": 22.851,
+     "end": 23.222
+    },
+    {
+     "w": "so",
+     "start": 23.372,
+     "end": 23.53
+    },
+    {
+     "w": "it's",
+     "start": 23.53,
+     "end": 23.688
+    },
+    {
+     "w": "locked",
+     "start": 23.688,
+     "end": 23.964
+    },
+    {
+     "w": "on.",
+     "start": 23.964,
+     "end": 24.122
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.531,
+   "end": 27.896,
+   "text": "But then you add a round loop, and the riders get crushed into their seats.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.671,
+     "end": 24.831
+    },
+    {
+     "w": "then",
+     "start": 24.831,
+     "end": 24.991
+    },
+    {
+     "w": "you",
+     "start": 24.991,
+     "end": 25.151
+    },
+    {
+     "w": "add",
+     "start": 25.151,
+     "end": 25.311
+    },
+    {
+     "w": "a",
+     "start": 25.311,
+     "end": 25.471
+    },
+    {
+     "w": "round",
+     "start": 25.471,
+     "end": 25.631
+    },
+    {
+     "w": "loop,",
+     "start": 25.631,
+     "end": 25.791
+    },
+    {
+     "w": "and",
+     "start": 25.991,
+     "end": 26.171
+    },
+    {
+     "w": "the",
+     "start": 26.171,
+     "end": 26.351
+    },
+    {
+     "w": "riders",
+     "start": 26.351,
+     "end": 26.664
+    },
+    {
+     "w": "get",
+     "start": 26.664,
+     "end": 26.844
+    },
+    {
+     "w": "crushed",
+     "start": 26.844,
+     "end": 27.158
+    },
+    {
+     "w": "into",
+     "start": 27.158,
+     "end": 27.471
+    },
+    {
+     "w": "their",
+     "start": 27.471,
+     "end": 27.651
+    },
+    {
+     "w": "seats.",
+     "start": 27.651,
+     "end": 27.831
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 28.26,
+   "end": 33.979,
+   "text": "So you stretch the loop into a teardrop, tight at the top and wide at the bottom, and lock everyone in with shoulder bars.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.38,
+     "end": 28.571
+    },
+    {
+     "w": "you",
+     "start": 28.571,
+     "end": 28.762
+    },
+    {
+     "w": "stretch",
+     "start": 28.762,
+     "end": 28.953
+    },
+    {
+     "w": "the",
+     "start": 28.953,
+     "end": 29.144
+    },
+    {
+     "w": "loop",
+     "start": 29.144,
+     "end": 29.334
+    },
+    {
+     "w": "into",
+     "start": 29.334,
+     "end": 29.667
+    },
+    {
+     "w": "a",
+     "start": 29.667,
+     "end": 29.858
+    },
+    {
+     "w": "teardrop,",
+     "start": 29.858,
+     "end": 30.19
+    },
+    {
+     "w": "tight",
+     "start": 30.38,
+     "end": 30.546
+    },
+    {
+     "w": "at",
+     "start": 30.546,
+     "end": 30.713
+    },
+    {
+     "w": "the",
+     "start": 30.713,
+     "end": 30.879
+    },
+    {
+     "w": "top",
+     "start": 30.879,
+     "end": 31.045
+    },
+    {
+     "w": "and",
+     "start": 31.045,
+     "end": 31.212
+    },
+    {
+     "w": "wide",
+     "start": 31.212,
+     "end": 31.378
+    },
+    {
+     "w": "at",
+     "start": 31.378,
+     "end": 31.544
+    },
+    {
+     "w": "the",
+     "start": 31.544,
+     "end": 31.71
+    },
+    {
+     "w": "bottom,",
+     "start": 31.71,
+     "end": 32.0
+    },
+    {
+     "w": "and",
+     "start": 32.17,
+     "end": 32.359
+    },
+    {
+     "w": "lock",
+     "start": 32.359,
+     "end": 32.547
+    },
+    {
+     "w": "everyone",
+     "start": 32.547,
+     "end": 33.016
+    },
+    {
+     "w": "in",
+     "start": 33.016,
+     "end": 33.204
+    },
+    {
+     "w": "with",
+     "start": 33.204,
+     "end": 33.393
+    },
+    {
+     "w": "shoulder",
+     "start": 33.393,
+     "end": 33.721
+    },
+    {
+     "w": "bars.",
+     "start": 33.721,
+     "end": 33.91
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 34.344,
+   "end": 37.865,
+   "text": "Now everything flows, until it's time to stop, and the power goes out.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 34.454,
+     "end": 34.665
+    },
+    {
+     "w": "everything",
+     "start": 34.665,
+     "end": 35.343
+    },
+    {
+     "w": "flows,",
+     "start": 35.343,
+     "end": 35.554
+    },
+    {
+     "w": "until",
+     "start": 35.664,
+     "end": 35.982
+    },
+    {
+     "w": "it's",
+     "start": 35.982,
+     "end": 36.165
+    },
+    {
+     "w": "time",
+     "start": 36.165,
+     "end": 36.348
+    },
+    {
+     "w": "to",
+     "start": 36.348,
+     "end": 36.531
+    },
+    {
+     "w": "stop,",
+     "start": 36.531,
+     "end": 36.714
+    },
+    {
+     "w": "and",
+     "start": 36.894,
+     "end": 37.049
+    },
+    {
+     "w": "the",
+     "start": 37.049,
+     "end": 37.204
+    },
+    {
+     "w": "power",
+     "start": 37.204,
+     "end": 37.474
+    },
+    {
+     "w": "goes",
+     "start": 37.474,
+     "end": 37.629
+    },
+    {
+     "w": "out.",
+     "start": 37.629,
+     "end": 37.784
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 38.229,
+   "end": 43.708,
+   "text": "So you add magnetic brakes that need no power at all: the faster the train comes in, the harder they slow it down.",
+   "words": [
+    {
+     "w": "So",
+     "start": 38.339,
+     "end": 38.518
+    },
+    {
+     "w": "you",
+     "start": 38.518,
+     "end": 38.697
+    },
+    {
+     "w": "add",
+     "start": 38.697,
+     "end": 38.876
+    },
+    {
+     "w": "magnetic",
+     "start": 38.876,
+     "end": 39.32
+    },
+    {
+     "w": "brakes",
+     "start": 39.32,
+     "end": 39.632
+    },
+    {
+     "w": "that",
+     "start": 39.632,
+     "end": 39.811
+    },
+    {
+     "w": "need",
+     "start": 39.811,
+     "end": 39.99
+    },
+    {
+     "w": "no",
+     "start": 39.99,
+     "end": 40.169
+    },
+    {
+     "w": "power",
+     "start": 40.169,
+     "end": 40.481
+    },
+    {
+     "w": "at",
+     "start": 40.481,
+     "end": 40.66
+    },
+    {
+     "w": "all:",
+     "start": 40.66,
+     "end": 40.839
+    },
+    {
+     "w": "the",
+     "start": 40.979,
+     "end": 41.163
+    },
+    {
+     "w": "faster",
+     "start": 41.163,
+     "end": 41.485
+    },
+    {
+     "w": "the",
+     "start": 41.485,
+     "end": 41.669
+    },
+    {
+     "w": "train",
+     "start": 41.669,
+     "end": 41.853
+    },
+    {
+     "w": "comes",
+     "start": 41.853,
+     "end": 42.175
+    },
+    {
+     "w": "in,",
+     "start": 42.175,
+     "end": 42.359
+    },
+    {
+     "w": "the",
+     "start": 42.479,
+     "end": 42.651
+    },
+    {
+     "w": "harder",
+     "start": 42.651,
+     "end": 42.951
+    },
+    {
+     "w": "they",
+     "start": 42.951,
+     "end": 43.123
+    },
+    {
+     "w": "slow",
+     "start": 43.123,
+     "end": 43.295
+    },
+    {
+     "w": "it",
+     "start": 43.295,
+     "end": 43.467
+    },
+    {
+     "w": "down.",
+     "start": 43.467,
+     "end": 43.639
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 44.073,
+   "end": 47.99,
+   "text": "But before you raise your hands, follow, because next we're building a water slide.",
+   "words": [
+    {
+     "w": "But",
+     "start": 44.213,
+     "end": 44.415
+    },
+    {
+     "w": "before",
+     "start": 44.415,
+     "end": 44.766
+    },
+    {
+     "w": "you",
+     "start": 44.766,
+     "end": 44.968
+    },
+    {
+     "w": "raise",
+     "start": 44.968,
+     "end": 45.169
+    },
+    {
+     "w": "your",
+     "start": 45.169,
+     "end": 45.371
+    },
+    {
+     "w": "hands,",
+     "start": 45.371,
+     "end": 45.573
+    },
+    {
+     "w": "follow,",
+     "start": 45.723,
+     "end": 46.053
+    },
+    {
+     "w": "because",
+     "start": 46.193,
+     "end": 46.514
+    },
+    {
+     "w": "next",
+     "start": 46.514,
+     "end": 46.698
+    },
+    {
+     "w": "we're",
+     "start": 46.698,
+     "end": 46.883
+    },
+    {
+     "w": "building",
+     "start": 46.883,
+     "end": 47.203
+    },
+    {
+     "w": "a",
+     "start": 47.203,
+     "end": 47.388
+    },
+    {
+     "w": "water",
+     "start": 47.388,
+     "end": 47.709
+    },
+    {
+     "w": "slide.",
+     "start": 47.709,
+     "end": 47.893
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 48.354,
+   "end": 52.135,
+   "text": "Now just paint the track bright red, and build a line that zigzags around it.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 48.464,
+     "end": 48.704
+    },
+    {
+     "w": "just",
+     "start": 48.704,
+     "end": 48.944
+    },
+    {
+     "w": "paint",
+     "start": 48.944,
+     "end": 49.184
+    },
+    {
+     "w": "the",
+     "start": 49.184,
+     "end": 49.424
+    },
+    {
+     "w": "track",
+     "start": 49.424,
+     "end": 49.664
+    },
+    {
+     "w": "bright",
+     "start": 49.664,
+     "end": 49.904
+    },
+    {
+     "w": "red,",
+     "start": 49.904,
+     "end": 50.144
+    },
+    {
+     "w": "and",
+     "start": 50.274,
+     "end": 50.463
+    },
+    {
+     "w": "build",
+     "start": 50.463,
+     "end": 50.652
+    },
+    {
+     "w": "a",
+     "start": 50.652,
+     "end": 50.84
+    },
+    {
+     "w": "line",
+     "start": 50.84,
+     "end": 51.029
+    },
+    {
+     "w": "that",
+     "start": 51.029,
+     "end": 51.218
+    },
+    {
+     "w": "zigzags",
+     "start": 51.218,
+     "end": 51.547
+    },
+    {
+     "w": "around",
+     "start": 51.547,
+     "end": 51.875
+    },
+    {
+     "w": "it.",
+     "start": 51.875,
+     "end": 52.064
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 52.5,
+   "end": 55.385,
+   "text": "One hill, one loop, a thousand riders an hour.",
+   "words": [
+    {
+     "w": "One",
+     "start": 52.6,
+     "end": 52.895
+    },
+    {
+     "w": "hill,",
+     "start": 52.895,
+     "end": 53.19
+    },
+    {
+     "w": "one",
+     "start": 53.4,
+     "end": 53.635
+    },
+    {
+     "w": "loop,",
+     "start": 53.635,
+     "end": 53.87
+    },
+    {
+     "w": "a",
+     "start": 53.92,
+     "end": 54.134
+    },
+    {
+     "w": "thousand",
+     "start": 54.134,
+     "end": 54.508
+    },
+    {
+     "w": "riders",
+     "start": 54.508,
+     "end": 54.881
+    },
+    {
+     "w": "an",
+     "start": 54.881,
+     "end": 55.096
+    },
+    {
+     "w": "hour.",
+     "start": 55.096,
+     "end": 55.31
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.75,
+   "end": 58.5,
+   "text": "And congrats, you just built a roller coaster yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 55.87,
+     "end": 56.079
+    },
+    {
+     "w": "congrats,",
+     "start": 56.079,
+     "end": 56.443
+    },
+    {
+     "w": "you",
+     "start": 56.443,
+     "end": 56.652
+    },
+    {
+     "w": "just",
+     "start": 56.652,
+     "end": 56.861
+    },
+    {
+     "w": "built",
+     "start": 56.861,
+     "end": 57.07
+    },
+    {
+     "w": "a",
+     "start": 57.07,
+     "end": 57.279
+    },
+    {
+     "w": "roller",
+     "start": 57.279,
+     "end": 57.642
+    },
+    {
+     "w": "coaster",
+     "start": 57.642,
+     "end": 58.006
+    },
+    {
+     "w": "yourself.",
+     "start": 58.006,
+     "end": 58.37
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 58.865,
+   "end": 62.906,
+   "text": "And the line? Still two hours long. Some problems even engineers can't fix.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.985,
+     "end": 59.188
+    },
+    {
+     "w": "the",
+     "start": 59.188,
+     "end": 59.392
+    },
+    {
+     "w": "line?",
+     "start": 59.392,
+     "end": 59.595
+    },
+    {
+     "w": "Still",
+     "start": 59.715,
+     "end": 59.956
+    },
+    {
+     "w": "two",
+     "start": 59.956,
+     "end": 60.198
+    },
+    {
+     "w": "hours",
+     "start": 60.198,
+     "end": 60.439
+    },
+    {
+     "w": "long.",
+     "start": 60.439,
+     "end": 60.681
+    },
+    {
+     "w": "Some",
+     "start": 60.681,
+     "end": 60.922
+    },
+    {
+     "w": "problems",
+     "start": 60.922,
+     "end": 61.343
+    },
+    {
+     "w": "even",
+     "start": 61.343,
+     "end": 61.763
+    },
+    {
+     "w": "engineers",
+     "start": 61.763,
+     "end": 62.362
+    },
+    {
+     "w": "can't",
+     "start": 62.362,
+     "end": 62.604
+    },
+    {
+     "w": "fix.",
+     "start": 62.604,
+     "end": 62.845
+    }
+   ]
+  }
+ ]
+}

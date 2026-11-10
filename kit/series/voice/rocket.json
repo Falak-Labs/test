@@ -1,0 +1,1282 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.57,
+ "words": 232,
+ "words_per_sec": 3.54,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.458,
+   "text": "If you launch a rocket and just wait, congrats, you just built a rocket that lands itself.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.14,
+     "end": 0.316
+    },
+    {
+     "w": "you",
+     "start": 0.316,
+     "end": 0.492
+    },
+    {
+     "w": "launch",
+     "start": 0.492,
+     "end": 0.669
+    },
+    {
+     "w": "a",
+     "start": 0.669,
+     "end": 0.845
+    },
+    {
+     "w": "rocket",
+     "start": 0.845,
+     "end": 1.151
+    },
+    {
+     "w": "and",
+     "start": 1.151,
+     "end": 1.328
+    },
+    {
+     "w": "just",
+     "start": 1.328,
+     "end": 1.504
+    },
+    {
+     "w": "wait,",
+     "start": 1.504,
+     "end": 1.68
+    },
+    {
+     "w": "congrats,",
+     "start": 1.86,
+     "end": 2.4
+    },
+    {
+     "w": "you",
+     "start": 2.54,
+     "end": 2.729
+    },
+    {
+     "w": "just",
+     "start": 2.729,
+     "end": 2.918
+    },
+    {
+     "w": "built",
+     "start": 2.918,
+     "end": 3.106
+    },
+    {
+     "w": "a",
+     "start": 3.106,
+     "end": 3.295
+    },
+    {
+     "w": "rocket",
+     "start": 3.295,
+     "end": 3.624
+    },
+    {
+     "w": "that",
+     "start": 3.624,
+     "end": 3.813
+    },
+    {
+     "w": "lands",
+     "start": 3.813,
+     "end": 4.001
+    },
+    {
+     "w": "itself.",
+     "start": 4.001,
+     "end": 4.33
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.823,
+   "end": 9.344,
+   "text": "But it comes down nose first, faster than a bullet, and turns your launch pad into a crater.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.963,
+     "end": 5.125
+    },
+    {
+     "w": "it",
+     "start": 5.125,
+     "end": 5.286
+    },
+    {
+     "w": "comes",
+     "start": 5.286,
+     "end": 5.568
+    },
+    {
+     "w": "down",
+     "start": 5.568,
+     "end": 5.73
+    },
+    {
+     "w": "nose",
+     "start": 5.73,
+     "end": 5.891
+    },
+    {
+     "w": "first,",
+     "start": 5.891,
+     "end": 6.053
+    },
+    {
+     "w": "faster",
+     "start": 6.133,
+     "end": 6.539
+    },
+    {
+     "w": "than",
+     "start": 6.539,
+     "end": 6.773
+    },
+    {
+     "w": "a",
+     "start": 6.773,
+     "end": 7.007
+    },
+    {
+     "w": "bullet,",
+     "start": 7.007,
+     "end": 7.413
+    },
+    {
+     "w": "and",
+     "start": 7.543,
+     "end": 7.725
+    },
+    {
+     "w": "turns",
+     "start": 7.725,
+     "end": 7.908
+    },
+    {
+     "w": "your",
+     "start": 7.908,
+     "end": 8.09
+    },
+    {
+     "w": "launch",
+     "start": 8.09,
+     "end": 8.273
+    },
+    {
+     "w": "pad",
+     "start": 8.273,
+     "end": 8.455
+    },
+    {
+     "w": "into",
+     "start": 8.455,
+     "end": 8.773
+    },
+    {
+     "w": "a",
+     "start": 8.773,
+     "end": 8.955
+    },
+    {
+     "w": "crater.",
+     "start": 8.955,
+     "end": 9.273
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.708,
+   "end": 14.75,
+   "text": "So you add gas thrusters that flip it around, and relight the engines to brake, so it falls tail first.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.818,
+     "end": 10.022
+    },
+    {
+     "w": "you",
+     "start": 10.022,
+     "end": 10.226
+    },
+    {
+     "w": "add",
+     "start": 10.226,
+     "end": 10.431
+    },
+    {
+     "w": "gas",
+     "start": 10.431,
+     "end": 10.635
+    },
+    {
+     "w": "thrusters",
+     "start": 10.635,
+     "end": 10.99
+    },
+    {
+     "w": "that",
+     "start": 10.99,
+     "end": 11.194
+    },
+    {
+     "w": "flip",
+     "start": 11.194,
+     "end": 11.398
+    },
+    {
+     "w": "it",
+     "start": 11.398,
+     "end": 11.603
+    },
+    {
+     "w": "around,",
+     "start": 11.603,
+     "end": 11.958
+    },
+    {
+     "w": "and",
+     "start": 12.078,
+     "end": 12.241
+    },
+    {
+     "w": "relight",
+     "start": 12.241,
+     "end": 12.525
+    },
+    {
+     "w": "the",
+     "start": 12.525,
+     "end": 12.688
+    },
+    {
+     "w": "engines",
+     "start": 12.688,
+     "end": 13.092
+    },
+    {
+     "w": "to",
+     "start": 13.092,
+     "end": 13.255
+    },
+    {
+     "w": "brake,",
+     "start": 13.255,
+     "end": 13.418
+    },
+    {
+     "w": "so",
+     "start": 13.558,
+     "end": 13.786
+    },
+    {
+     "w": "it",
+     "start": 13.786,
+     "end": 14.014
+    },
+    {
+     "w": "falls",
+     "start": 14.014,
+     "end": 14.242
+    },
+    {
+     "w": "tail",
+     "start": 14.242,
+     "end": 14.47
+    },
+    {
+     "w": "first.",
+     "start": 14.47,
+     "end": 14.698
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 15.115,
+   "end": 19.24,
+   "text": "Now it's slower, until the air grabs it, and it starts to tumble like a dropped pencil.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 15.215,
+     "end": 15.424
+    },
+    {
+     "w": "it's",
+     "start": 15.424,
+     "end": 15.632
+    },
+    {
+     "w": "slower,",
+     "start": 15.632,
+     "end": 15.995
+    },
+    {
+     "w": "until",
+     "start": 16.165,
+     "end": 16.459
+    },
+    {
+     "w": "the",
+     "start": 16.459,
+     "end": 16.628
+    },
+    {
+     "w": "air",
+     "start": 16.628,
+     "end": 16.797
+    },
+    {
+     "w": "grabs",
+     "start": 16.797,
+     "end": 16.966
+    },
+    {
+     "w": "it,",
+     "start": 16.966,
+     "end": 17.135
+    },
+    {
+     "w": "and",
+     "start": 17.295,
+     "end": 17.472
+    },
+    {
+     "w": "it",
+     "start": 17.472,
+     "end": 17.648
+    },
+    {
+     "w": "starts",
+     "start": 17.648,
+     "end": 17.825
+    },
+    {
+     "w": "to",
+     "start": 17.825,
+     "end": 18.001
+    },
+    {
+     "w": "tumble",
+     "start": 18.001,
+     "end": 18.178
+    },
+    {
+     "w": "like",
+     "start": 18.178,
+     "end": 18.354
+    },
+    {
+     "w": "a",
+     "start": 18.354,
+     "end": 18.531
+    },
+    {
+     "w": "dropped",
+     "start": 18.531,
+     "end": 18.838
+    },
+    {
+     "w": "pencil.",
+     "start": 18.838,
+     "end": 19.145
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.604,
+   "end": 24.448,
+   "text": "So you add four grid fins near the top, like flying waffle irons, that steer it all the way down.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.714,
+     "end": 19.962
+    },
+    {
+     "w": "you",
+     "start": 19.962,
+     "end": 20.21
+    },
+    {
+     "w": "add",
+     "start": 20.21,
+     "end": 20.457
+    },
+    {
+     "w": "four",
+     "start": 20.457,
+     "end": 20.705
+    },
+    {
+     "w": "grid",
+     "start": 20.705,
+     "end": 20.953
+    },
+    {
+     "w": "fins",
+     "start": 20.953,
+     "end": 21.201
+    },
+    {
+     "w": "near",
+     "start": 21.201,
+     "end": 21.448
+    },
+    {
+     "w": "the",
+     "start": 21.448,
+     "end": 21.696
+    },
+    {
+     "w": "top,",
+     "start": 21.696,
+     "end": 21.944
+    },
+    {
+     "w": "like",
+     "start": 22.034,
+     "end": 22.249
+    },
+    {
+     "w": "flying",
+     "start": 22.249,
+     "end": 22.464
+    },
+    {
+     "w": "waffle",
+     "start": 22.464,
+     "end": 22.679
+    },
+    {
+     "w": "irons,",
+     "start": 22.679,
+     "end": 23.054
+    },
+    {
+     "w": "that",
+     "start": 23.184,
+     "end": 23.355
+    },
+    {
+     "w": "steer",
+     "start": 23.355,
+     "end": 23.527
+    },
+    {
+     "w": "it",
+     "start": 23.527,
+     "end": 23.698
+    },
+    {
+     "w": "all",
+     "start": 23.698,
+     "end": 23.87
+    },
+    {
+     "w": "the",
+     "start": 23.87,
+     "end": 24.041
+    },
+    {
+     "w": "way",
+     "start": 24.041,
+     "end": 24.213
+    },
+    {
+     "w": "down.",
+     "start": 24.213,
+     "end": 24.384
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.812,
+   "end": 29.646,
+   "text": "But the engine is too strong: even on its lowest setting, it pushes the empty rocket back up.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.962,
+     "end": 25.17
+    },
+    {
+     "w": "the",
+     "start": 25.17,
+     "end": 25.377
+    },
+    {
+     "w": "engine",
+     "start": 25.377,
+     "end": 25.739
+    },
+    {
+     "w": "is",
+     "start": 25.739,
+     "end": 25.947
+    },
+    {
+     "w": "too",
+     "start": 25.947,
+     "end": 26.154
+    },
+    {
+     "w": "strong:",
+     "start": 26.154,
+     "end": 26.362
+    },
+    {
+     "w": "even",
+     "start": 26.482,
+     "end": 26.783
+    },
+    {
+     "w": "on",
+     "start": 26.783,
+     "end": 26.956
+    },
+    {
+     "w": "its",
+     "start": 26.956,
+     "end": 27.129
+    },
+    {
+     "w": "lowest",
+     "start": 27.129,
+     "end": 27.431
+    },
+    {
+     "w": "setting,",
+     "start": 27.431,
+     "end": 27.732
+    },
+    {
+     "w": "it",
+     "start": 27.872,
+     "end": 28.049
+    },
+    {
+     "w": "pushes",
+     "start": 28.049,
+     "end": 28.356
+    },
+    {
+     "w": "the",
+     "start": 28.356,
+     "end": 28.533
+    },
+    {
+     "w": "empty",
+     "start": 28.533,
+     "end": 28.841
+    },
+    {
+     "w": "rocket",
+     "start": 28.841,
+     "end": 29.149
+    },
+    {
+     "w": "back",
+     "start": 29.149,
+     "end": 29.325
+    },
+    {
+     "w": "up.",
+     "start": 29.325,
+     "end": 29.502
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 30.01,
+   "end": 35.344,
+   "text": "So it can't hover. You time one last burn, so the speed hits zero at the exact moment it touches the ground.",
+   "words": [
+    {
+     "w": "So",
+     "start": 30.12,
+     "end": 30.285
+    },
+    {
+     "w": "it",
+     "start": 30.285,
+     "end": 30.449
+    },
+    {
+     "w": "can't",
+     "start": 30.449,
+     "end": 30.614
+    },
+    {
+     "w": "hover.",
+     "start": 30.614,
+     "end": 30.9
+    },
+    {
+     "w": "You",
+     "start": 31.05,
+     "end": 31.218
+    },
+    {
+     "w": "time",
+     "start": 31.218,
+     "end": 31.386
+    },
+    {
+     "w": "one",
+     "start": 31.386,
+     "end": 31.554
+    },
+    {
+     "w": "last",
+     "start": 31.554,
+     "end": 31.722
+    },
+    {
+     "w": "burn,",
+     "start": 31.722,
+     "end": 31.89
+    },
+    {
+     "w": "so",
+     "start": 31.97,
+     "end": 32.177
+    },
+    {
+     "w": "the",
+     "start": 32.177,
+     "end": 32.383
+    },
+    {
+     "w": "speed",
+     "start": 32.383,
+     "end": 32.59
+    },
+    {
+     "w": "hits",
+     "start": 32.59,
+     "end": 32.797
+    },
+    {
+     "w": "zero",
+     "start": 32.797,
+     "end": 33.157
+    },
+    {
+     "w": "at",
+     "start": 33.157,
+     "end": 33.364
+    },
+    {
+     "w": "the",
+     "start": 33.364,
+     "end": 33.57
+    },
+    {
+     "w": "exact",
+     "start": 33.57,
+     "end": 33.93
+    },
+    {
+     "w": "moment",
+     "start": 33.93,
+     "end": 34.29
+    },
+    {
+     "w": "it",
+     "start": 34.29,
+     "end": 34.497
+    },
+    {
+     "w": "touches",
+     "start": 34.497,
+     "end": 34.857
+    },
+    {
+     "w": "the",
+     "start": 34.857,
+     "end": 35.063
+    },
+    {
+     "w": "ground.",
+     "start": 35.063,
+     "end": 35.27
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 35.708,
+   "end": 40.573,
+   "text": "Now it touches down softly, but it's as tall as a fourteen-story building, and it tips right over.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 35.818,
+     "end": 36.0
+    },
+    {
+     "w": "it",
+     "start": 36.0,
+     "end": 36.182
+    },
+    {
+     "w": "touches",
+     "start": 36.182,
+     "end": 36.499
+    },
+    {
+     "w": "down",
+     "start": 36.499,
+     "end": 36.681
+    },
+    {
+     "w": "softly,",
+     "start": 36.681,
+     "end": 36.998
+    },
+    {
+     "w": "but",
+     "start": 37.078,
+     "end": 37.292
+    },
+    {
+     "w": "it's",
+     "start": 37.292,
+     "end": 37.507
+    },
+    {
+     "w": "as",
+     "start": 37.507,
+     "end": 37.721
+    },
+    {
+     "w": "tall",
+     "start": 37.721,
+     "end": 37.935
+    },
+    {
+     "w": "as",
+     "start": 37.935,
+     "end": 38.15
+    },
+    {
+     "w": "a",
+     "start": 38.15,
+     "end": 38.364
+    },
+    {
+     "w": "fourteen-story",
+     "start": 38.364,
+     "end": 39.055
+    },
+    {
+     "w": "building,",
+     "start": 39.055,
+     "end": 39.428
+    },
+    {
+     "w": "and",
+     "start": 39.598,
+     "end": 39.757
+    },
+    {
+     "w": "it",
+     "start": 39.757,
+     "end": 39.915
+    },
+    {
+     "w": "tips",
+     "start": 39.915,
+     "end": 40.074
+    },
+    {
+     "w": "right",
+     "start": 40.074,
+     "end": 40.232
+    },
+    {
+     "w": "over.",
+     "start": 40.232,
+     "end": 40.508
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 40.938,
+   "end": 46.198,
+   "text": "So you add four legs that fold out wide just before landing, with crush cores inside that soak up the hit.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.048,
+     "end": 41.26
+    },
+    {
+     "w": "you",
+     "start": 41.26,
+     "end": 41.472
+    },
+    {
+     "w": "add",
+     "start": 41.472,
+     "end": 41.684
+    },
+    {
+     "w": "four",
+     "start": 41.684,
+     "end": 41.897
+    },
+    {
+     "w": "legs",
+     "start": 41.897,
+     "end": 42.109
+    },
+    {
+     "w": "that",
+     "start": 42.109,
+     "end": 42.321
+    },
+    {
+     "w": "fold",
+     "start": 42.321,
+     "end": 42.533
+    },
+    {
+     "w": "out",
+     "start": 42.533,
+     "end": 42.745
+    },
+    {
+     "w": "wide",
+     "start": 42.745,
+     "end": 42.957
+    },
+    {
+     "w": "just",
+     "start": 42.957,
+     "end": 43.169
+    },
+    {
+     "w": "before",
+     "start": 43.169,
+     "end": 43.539
+    },
+    {
+     "w": "landing,",
+     "start": 43.539,
+     "end": 43.908
+    },
+    {
+     "w": "with",
+     "start": 44.078,
+     "end": 44.273
+    },
+    {
+     "w": "crush",
+     "start": 44.273,
+     "end": 44.467
+    },
+    {
+     "w": "cores",
+     "start": 44.467,
+     "end": 44.806
+    },
+    {
+     "w": "inside",
+     "start": 44.806,
+     "end": 45.145
+    },
+    {
+     "w": "that",
+     "start": 45.145,
+     "end": 45.339
+    },
+    {
+     "w": "soak",
+     "start": 45.339,
+     "end": 45.534
+    },
+    {
+     "w": "up",
+     "start": 45.534,
+     "end": 45.729
+    },
+    {
+     "w": "the",
+     "start": 45.729,
+     "end": 45.923
+    },
+    {
+     "w": "hit.",
+     "start": 45.923,
+     "end": 46.118
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 46.563,
+   "end": 50.25,
+   "text": "But before you start the countdown, follow, because next we're building a castle.",
+   "words": [
+    {
+     "w": "But",
+     "start": 46.703,
+     "end": 46.889
+    },
+    {
+     "w": "before",
+     "start": 46.889,
+     "end": 47.212
+    },
+    {
+     "w": "you",
+     "start": 47.212,
+     "end": 47.398
+    },
+    {
+     "w": "start",
+     "start": 47.398,
+     "end": 47.584
+    },
+    {
+     "w": "the",
+     "start": 47.584,
+     "end": 47.77
+    },
+    {
+     "w": "countdown,",
+     "start": 47.77,
+     "end": 48.093
+    },
+    {
+     "w": "follow,",
+     "start": 48.293,
+     "end": 48.613
+    },
+    {
+     "w": "because",
+     "start": 48.743,
+     "end": 49.078
+    },
+    {
+     "w": "next",
+     "start": 49.078,
+     "end": 49.271
+    },
+    {
+     "w": "we're",
+     "start": 49.271,
+     "end": 49.463
+    },
+    {
+     "w": "building",
+     "start": 49.463,
+     "end": 49.798
+    },
+    {
+     "w": "a",
+     "start": 49.798,
+     "end": 49.991
+    },
+    {
+     "w": "castle.",
+     "start": 49.991,
+     "end": 50.183
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 50.615,
+   "end": 54.875,
+   "text": "Now just park a ship in the ocean, draw a giant target on the deck, and land on that.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 50.725,
+     "end": 50.908
+    },
+    {
+     "w": "just",
+     "start": 50.908,
+     "end": 51.091
+    },
+    {
+     "w": "park",
+     "start": 51.091,
+     "end": 51.274
+    },
+    {
+     "w": "a",
+     "start": 51.274,
+     "end": 51.457
+    },
+    {
+     "w": "ship",
+     "start": 51.457,
+     "end": 51.64
+    },
+    {
+     "w": "in",
+     "start": 51.64,
+     "end": 51.823
+    },
+    {
+     "w": "the",
+     "start": 51.823,
+     "end": 52.006
+    },
+    {
+     "w": "ocean,",
+     "start": 52.006,
+     "end": 52.325
+    },
+    {
+     "w": "draw",
+     "start": 52.505,
+     "end": 52.692
+    },
+    {
+     "w": "a",
+     "start": 52.692,
+     "end": 52.88
+    },
+    {
+     "w": "giant",
+     "start": 52.88,
+     "end": 53.067
+    },
+    {
+     "w": "target",
+     "start": 53.067,
+     "end": 53.393
+    },
+    {
+     "w": "on",
+     "start": 53.393,
+     "end": 53.58
+    },
+    {
+     "w": "the",
+     "start": 53.58,
+     "end": 53.768
+    },
+    {
+     "w": "deck,",
+     "start": 53.768,
+     "end": 53.955
+    },
+    {
+     "w": "and",
+     "start": 54.125,
+     "end": 54.293
+    },
+    {
+     "w": "land",
+     "start": 54.293,
+     "end": 54.46
+    },
+    {
+     "w": "on",
+     "start": 54.46,
+     "end": 54.628
+    },
+    {
+     "w": "that.",
+     "start": 54.628,
+     "end": 54.795
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 55.24,
+   "end": 57.979,
+   "text": "One rocket, nine engines, zero pilots.",
+   "words": [
+    {
+     "w": "One",
+     "start": 55.34,
+     "end": 55.57
+    },
+    {
+     "w": "rocket,",
+     "start": 55.57,
+     "end": 55.97
+    },
+    {
+     "w": "nine",
+     "start": 56.16,
+     "end": 56.375
+    },
+    {
+     "w": "engines,",
+     "start": 56.375,
+     "end": 56.91
+    },
+    {
+     "w": "zero",
+     "start": 57.07,
+     "end": 57.485
+    },
+    {
+     "w": "pilots.",
+     "start": 57.485,
+     "end": 57.9
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 58.344,
+   "end": 61.406,
+   "text": "And congrats, you just built a self-landing rocket yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.464,
+     "end": 58.723
+    },
+    {
+     "w": "congrats,",
+     "start": 58.723,
+     "end": 59.174
+    },
+    {
+     "w": "you",
+     "start": 59.314,
+     "end": 59.514
+    },
+    {
+     "w": "just",
+     "start": 59.514,
+     "end": 59.713
+    },
+    {
+     "w": "built",
+     "start": 59.713,
+     "end": 59.913
+    },
+    {
+     "w": "a",
+     "start": 59.913,
+     "end": 60.113
+    },
+    {
+     "w": "self-landing",
+     "start": 60.113,
+     "end": 60.609
+    },
+    {
+     "w": "rocket",
+     "start": 60.609,
+     "end": 60.956
+    },
+    {
+     "w": "yourself.",
+     "start": 60.956,
+     "end": 61.304
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 61.771,
+   "end": 65.594,
+   "text": "And the ship's name? \"Of Course I Still Love You.\" Even engineers have feelings.",
+   "words": [
+    {
+     "w": "And",
+     "start": 61.891,
+     "end": 62.091
+    },
+    {
+     "w": "the",
+     "start": 62.091,
+     "end": 62.291
+    },
+    {
+     "w": "ship's",
+     "start": 62.291,
+     "end": 62.491
+    },
+    {
+     "w": "name?",
+     "start": 62.491,
+     "end": 62.691
+    },
+    {
+     "w": "\"Of",
+     "start": 62.841,
+     "end": 63.049
+    },
+    {
+     "w": "Course",
+     "start": 63.049,
+     "end": 63.256
+    },
+    {
+     "w": "I",
+     "start": 63.256,
+     "end": 63.464
+    },
+    {
+     "w": "Still",
+     "start": 63.464,
+     "end": 63.671
+    },
+    {
+     "w": "Love",
+     "start": 63.671,
+     "end": 63.879
+    },
+    {
+     "w": "You.\"",
+     "start": 63.879,
+     "end": 64.086
+    },
+    {
+     "w": "Even",
+     "start": 64.086,
+     "end": 64.447
+    },
+    {
+     "w": "engineers",
+     "start": 64.447,
+     "end": 64.962
+    },
+    {
+     "w": "have",
+     "start": 64.962,
+     "end": 65.17
+    },
+    {
+     "w": "feelings.",
+     "start": 65.17,
+     "end": 65.531
+    }
+   ]
+  }
+ ]
+}

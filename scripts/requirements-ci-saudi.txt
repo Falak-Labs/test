@@ -1,0 +1,12 @@
+# NAMAA Saudi TTS = Chatterbox Multilingual fine-tune.  chatterbox-tts 0.1.7 is installed with --no-deps (its extras
+# gradio / pkuseg / pykakasi are not needed for Arabic); these are the pins it declares for the parts we use.
+numpy<2
+librosa==0.11.0
+s3tokenizer
+transformers==5.2.0
+diffusers==0.29.0
+resemble-perth
+conformer==0.3.2
+safetensors==0.5.3
+pyloudnorm
+omegaconf

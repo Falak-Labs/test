@@ -1,0 +1,9 @@
+# Every episode the production workflow knows.  media/<slug>-en.mp4 and media/<slug>-ar.mp4 are made when missing.
+#   kit  = name of kit/episodes/<kit>.py and kit/series/<kit>_lines*.txt
+#   look = 1 (Episodes 1-5) or 2 (new format; longer render, lighter compression)
+episodes:
+  - {slug: ep01-elevator, kit: elevator, look: 1}
+  - {slug: ep02-skyscraper, kit: skyscraper, look: 1}
+  - {slug: ep03-pool, kit: pool, look: 1}
+  - {slug: ep04-coaster, kit: coaster, look: 1}
+  - {slug: ep05-waterslide, kit: waterslide, look: 1}

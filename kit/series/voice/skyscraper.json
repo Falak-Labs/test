@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 66.5,
+ "words": 222,
+ "words_per_sec": 3.34,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.615,
+   "text": "If you stack a hundred apartments on top of each other, congrats, you just built a skyscraper."
+  },
+  {
+   "line": 2,
+   "start": 4.979,
+   "end": 8.885,
+   "text": "But whoever lives on floor ninety-nine has to climb ninety-eight flights of stairs."
+  },
+  {
+   "line": 3,
+   "start": 9.25,
+   "end": 15.146,
+   "text": "So you add express elevators that shoot up to sky lobbies, where local ones take over, like a train, then a bus."
+  },
+  {
+   "line": 4,
+   "start": 15.51,
+   "end": 20.396,
+   "text": "Now everyone gets home fast, until a storm hits and the top sways so much people get seasick."
+  },
+  {
+   "line": 5,
+   "start": 20.76,
+   "end": 27.531,
+   "text": "So you hang a steel ball heavier than a jumbo jet near the top, on cables and shock pistons: when the tower leans left, the ball swings right."
+  },
+  {
+   "line": 6,
+   "start": 27.896,
+   "end": 30.677,
+   "text": "But then an earthquake hits, and the ground starts shaking."
+  },
+  {
+   "line": 7,
+   "start": 31.042,
+   "end": 37.448,
+   "text": "So you build a frame that bends instead of snapping, add shock absorbers inside it, and drive the foundations deep into bedrock."
+  },
+  {
+   "line": 8,
+   "start": 37.812,
+   "end": 41.781,
+   "text": "Now it can survive almost anything, until a fire breaks out on floor eighty."
+  },
+  {
+   "line": 9,
+   "start": 42.146,
+   "end": 48.906,
+   "text": "So you add sprinklers everywhere, stairwells where fans blow in fresh air so smoke stays out, and refuge floors where people wait safely."
+  },
+  {
+   "line": 10,
+   "start": 49.271,
+   "end": 53.563,
+   "text": "But before you cut the ribbon, follow, because next we're building a pool that disappears."
+  },
+  {
+   "line": 11,
+   "start": 53.927,
+   "end": 56.177,
+   "text": "Now just wrap it in glass and turn on the lights."
+  },
+  {
+   "line": 12,
+   "start": 56.542,
+   "end": 59.698,
+   "text": "One city block, a hundred floors, ten thousand people."
+  },
+  {
+   "line": 13,
+   "start": 60.062,
+   "end": 62.76,
+   "text": "And congrats, you just built a skyscraper yourself."
+  },
+  {
+   "line": 14,
+   "start": 63.125,
+   "end": 66.521,
+   "text": "And the thirteenth floor? It's still there. We just call it fourteen."
+  }
+ ]
+}
