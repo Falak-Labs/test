@@ -24,11 +24,14 @@
    "id": "6af2bdf505af22d726102e7b",
    "channel": "6af2b78762b70b94b0de0dfa",
    "service": "tiktok",
-   "status": "not listed",
+   "status": "sent",
    "dueAt": "2026-11-10T07:42:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T06:47:02+00:00",
-   "moved": "2026-11-10T07:07:00+00:00"
+   "moved": "2026-11-10T07:07:00+00:00",
+   "link": "https://www.tiktok.com/@congratsengineer/video/7706444634074926349",
+   "sentAt": "2026-11-10T07:42:02Z",
+   "note": "confirmed in Buffer's list of the TikTok account after it was reconnected on Nov 10"
   },
   "ar.youtube": {
    "id": "6af2d98bce343d8a0184b551",

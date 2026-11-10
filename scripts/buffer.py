@@ -1,11 +1,15 @@
 """Tiny Buffer GraphQL client (https://developers.buffer.com). It reads the schema at run time (introspection), so
 small changes in Buffer's beta API (type names, enum values, union members) don't break the posting run."""
+import datetime as dt
 import json
+import os
 import time
 
 import requests
 
 API = "https://api.buffer.com"
+CACHE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "state", "buffer-schema.json")
+CACHE_DAYS = 3      # the schema is re-read after this many days (it costs ~15 of the 3,000 monthly API requests)
 TYPE_REF = "kind name ofType { kind name ofType { kind name ofType { kind name } } }"
 
 
@@ -19,18 +23,39 @@ class BufferError(RuntimeError):
     pass
 
 
+def _load_cache():
+    try:
+        d = json.load(open(CACHE, encoding="utf-8"))
+        age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(d["saved"])
+        return d["types"] if age < dt.timedelta(days=CACHE_DAYS) else {}
+    except (OSError, ValueError, KeyError, TypeError):
+        return {}
+
+
 class Buffer:
+    _schema = None          # the API schema is the same for every account: one cache per process, saved in state/
+    quota = {}              # label -> the rate-limit header Buffer sent last (what is left of the API allowance)
+
     def __init__(self, key, label=""):
         self.key, self.label = key, label
-        self._types = {}
+        if Buffer._schema is None:
+            Buffer._schema = _load_cache()
+        self._types = Buffer._schema
+        self.calls = 0
 
     # ------------------------------------------------------------------ transport
     def q(self, query, variables=None):
         for attempt in range(5):
             r = requests.post(API, json={"query": query, "variables": variables or {}}, timeout=90,
                               headers={"Authorization": f"Bearer {self.key}", "Content-Type": "application/json"})
+            self.calls += 1
+            for hk, hv in r.headers.items():
+                if "ratelimit" in hk.lower() and "policy" not in hk.lower():
+                    Buffer.quota[self.label] = str(hv)[:200]
             if r.status_code == 429 or r.status_code >= 500:
                 wait = int(r.headers.get("Retry-After", "0") or 0) or 10 * (attempt + 1)
+                if r.status_code == 429 and wait > 900:
+                    raise BufferError(f"Buffer API allowance used up; it frees up in about {wait // 3600 + 1} h")
                 print(f"  [{self.label}] Buffer {r.status_code}, retrying in {wait}s")
                 time.sleep(min(wait, 120))
                 continue
@@ -51,6 +76,12 @@ class Buffer:
                        "inputFields { name type { " + TYPE_REF + " } } enumValues { name } "
                        "possibleTypes { name } } }", {"n": name})
             self._types[name] = d["__type"] or {}
+            try:
+                os.makedirs(os.path.dirname(CACHE), exist_ok=True)
+                with open(CACHE, "w", encoding="utf-8") as f:
+                    json.dump({"saved": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "types": self._types}, f)
+            except OSError:
+                pass
         return self._types[name]
 
     def field(self, type_name, field_name):

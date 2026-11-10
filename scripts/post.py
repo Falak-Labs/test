@@ -317,6 +317,8 @@ def main():
                                           "at": NOW.isoformat(timespec="seconds")}
                     log(f"{slug} {tgt}: FAILED: {str(e)[:300]}")
         save_state(slug, st)
+    for lang, acc in accounts.items():
+        log(f"{lang}: {acc.buf.calls} Buffer API requests this run; allowance left: {Buffer.quota.get(lang, 'not reported')}")
     with open(os.path.join(ROOT, "state", "last-run.md"), "w", encoding="utf-8") as f:
         f.write(f"# Last posting run {NOW.isoformat(timespec='seconds')}\n\n" + "\n".join(f"- {m}" for m in LOG) + "\n")
 

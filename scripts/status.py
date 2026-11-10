@@ -99,6 +99,8 @@ def main():
     with open(os.path.join(ROOT, "state", "status.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
     print("\n".join(lines))
+    for lang, buf in accounts.items():
+        print(f"{lang}: {buf.calls} Buffer API requests; allowance left: {Buffer.quota.get(lang, 'not reported')}")
 
 
 if __name__ == "__main__":
