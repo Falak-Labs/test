@@ -118,3 +118,14 @@
   kerb does not strobe at 30 fps); hstreaks(); stopwatch(); foil() card; pit crew that runs in (crew_x); custom sounds rev(),
   screech(), gun_snd(), crunch().
 - Light subject on a dark, calm background: the first racecar pass had a dark car in front of bright boards and was unreadable.
+
+## Notes added 15:00 UTC (delivery)
+- Episode 20 final: EN 69.0 s, AR 68.8 s. The Saudi line 14 was reworded to name the Gulf podium drink (rose water,
+  checked: Bahrain, Abu Dhabi and Saudi races use a non-alcoholic sparkling rose-water drink) and re-recorded (fix=14).
+- Re-recorded this morning: station line 6 (now 16%), bridge line 14 (the year is heard right now).
+- PAGES: deployments timed out once the published repo passed about 900 MB, so new videos were not public. Fixed by
+  `_config.yml` (exclude everything but media/) and removing `.nojekyll`; first good deployment 14:59 UTC. Every push
+  cancels the deployment in progress: push once, then wait for a successful "pages build and deployment" run.
+- Review page for the user: https://claude.ai/artifact/CNbhyzqS3HDGTBVVneyLQG (generator kept only in the session:
+  it embeds one thumbnail per build and links to falak-labs.github.io/test/media/<slug>-en.mp4 / -ar.mp4).
+- Waiting for his approval. Nothing is in posts/ for 6-20.
