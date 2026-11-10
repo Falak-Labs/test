@@ -6,46 +6,18 @@ model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builti
   self.gen = func(*args, **kwds)
 The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
 WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-  L 1 seed 302    4.12s 10.9 l/s  Whisper 83% off  asr 83%  (43s)
-  L 1 seed 1302   3.57s 12.6 l/s  13 letters/s, Whisper 83% off  asr 83%  (37s)
-  L 1 seed 2302   4.06s 11.1 l/s  Whisper 67% off  asr 67%  (39s)
-  L 2 seed 303    3.64s 11.5 l/s  ok  asr 44%  (38s)
-  L 3 seed 304    5.52s 11.8 l/s  ok  asr 29%  (55s)
-  L 4 seed 305    3.82s 11.8 l/s  Whisper 70% off  asr 70%  (41s)
-  L 4 seed 1305   4.05s 11.1 l/s  Whisper 70% off  asr 70%  (42s)
-  L 4 seed 2305   3.34s 13.5 l/s  13 letters/s, Whisper 90% off  asr 90%  (39s)
-  L 5 seed 306    7.09s 10.7 l/s  Whisper 65% off  asr 65%  (68s)
-  L 5 seed 1306   6.75s 11.3 l/s  Whisper 53% off  asr 53%  (64s)
-  L 5 seed 2306   6.08s 12.5 l/s  12 letters/s, Whisper 82% off  asr 82%  (58s)
-  L 6 seed 307    2.62s 12.2 l/s  12 letters/s, Whisper 75% off  asr 75%  (32s)
-  L 6 seed 1307   2.44s 13.1 l/s  13 letters/s, Whisper 88% off  asr 88%  (30s)
-  L 6 seed 2307   2.28s 14.0 l/s  14 letters/s, Whisper 88% off  asr 88%  (30s)
-  L 7 seed 308    6.50s 11.7 l/s  Whisper 83% off  asr 83%  (61s)
-  L 7 seed 1308   6.19s 12.3 l/s  12 letters/s, Whisper 78% off  asr 78%  (60s)
-  L 7 seed 2308   6.16s 12.3 l/s  12 letters/s, Whisper 83% off  asr 83%  (57s)
-  L 8 seed 309    3.72s 12.6 l/s  13 letters/s, Whisper 64% off  asr 64%  (39s)
-  L 8 seed 1309   3.39s 13.9 l/s  14 letters/s, Whisper 82% off  asr 82%  (38s)
-  L 8 seed 2309   3.44s 13.7 l/s  14 letters/s, Whisper 73% off  asr 73%  (37s)
-  L 9 seed 310    5.18s 13.5 l/s  14 letters/s, Whisper 76% off  asr 76%  (53s)
-  L 9 seed 1310   5.35s 13.1 l/s  13 letters/s, Whisper 59% off  asr 59%  (54s)
-  L 9 seed 2310   4.92s 14.2 l/s  14 letters/s, Whisper 71% off  asr 71%  (49s)
-  L10 seed 311    3.34s 15.0 l/s  15 letters/s, Whisper 75% off  asr 75%  (37s)
-  L10 seed 1311   4.23s 11.8 l/s  Whisper 58% off  asr 58%  (42s)
-  L10 seed 2311   3.89s 12.9 l/s  13 letters/s, Whisper 67% off  asr 67%  (41s)
-  L11 seed 312    4.49s 10.0 l/s  Whisper 55% off  asr 55%  (43s)
-  L11 seed 1312   3.63s 12.4 l/s  12 letters/s, Whisper 91% off  asr 91%  (38s)
-  L11 seed 2312   4.15s 10.8 l/s  Whisper 91% off  asr 91%  (42s)
-  L12 seed 313    2.56s  9.4 l/s  Whisper 67% off  asr 67%  (30s)
-  L12 seed 1313   2.46s  9.8 l/s  Whisper 67% off  asr 67%  (28s)
-  L12 seed 2313   2.60s  9.2 l/s  Whisper 67% off  asr 67%  (29s)
-  L13 seed 314    2.49s  9.2 l/s  ok  asr 33%  (29s)
-  L14 seed 315    4.09s 13.9 l/s  stopped early, 14 letters/s, Whisper 87% off  asr 87%  (42s)
-  L14 seed 1315   4.82s 11.8 l/s  Whisper 60% off  asr 60%  (45s)
-  L14 seed 2315   4.04s 14.1 l/s  stopped early, 14 letters/s, Whisper 67% off  asr 67%  (40s)
-NAMAA Saudi built-in: 14 lines, 166 words, 64.47s (2.57 words/s), 1563s -> series/voice/castle_ar_sa.wav  CHECK lines [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14]
-castle_ar_sa: 67.57s, 2027 frames
-video done in 553s
+  L 6 seed 308    2.48s 12.9 l/s  ok  asr 21%  (22s)
+  L11 seed 313    3.77s 11.9 l/s  ok  asr 17%  (27s)
+NAMAA Saudi built-in: 14 lines, 166 words, 63.61s (2.61 words/s), 60s -> series/voice/castle_ar_sa.wav  CHECK lines [1, 4, 5, 7, 8, 9, 10, 12, 14]
+castle_ar_sa: 66.71s, 2001 frames
+Unable to revert mtime: /usr/share/fonts
+unknown element "reset-dirs"
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 620s
 audio done
 final out/castle_ar_sa/castle_ar_sa_final.mp4
-QA  duration 67.57s  loudness -14.0 LUFS  true peak -1.3 dBFS  1080x1920 @ 30/1  frames 2027
+QA  duration 66.70s  loudness -14.0 LUFS  true peak -1.2 dBFS  1080x1920 @ 30/1  frames 2001
 QA sheet out/castle_ar_sa/qa_sheet.png
