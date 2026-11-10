@@ -2,93 +2,1211 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 66.23,
+ "duration": 65.94,
  "words": 218,
- "words_per_sec": 3.29,
+ "words_per_sec": 3.31,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
    "end": 4.198,
-   "text": "If you seal a room and throw it into orbit, congrats, you just built a space station."
+   "text": "If you seal a room and throw it into orbit, congrats, you just built a space station.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.326
+    },
+    {
+     "w": "you",
+     "start": 0.326,
+     "end": 0.522
+    },
+    {
+     "w": "seal",
+     "start": 0.522,
+     "end": 0.718
+    },
+    {
+     "w": "a",
+     "start": 0.718,
+     "end": 0.914
+    },
+    {
+     "w": "room",
+     "start": 0.914,
+     "end": 1.109
+    },
+    {
+     "w": "and",
+     "start": 1.109,
+     "end": 1.305
+    },
+    {
+     "w": "throw",
+     "start": 1.305,
+     "end": 1.501
+    },
+    {
+     "w": "it",
+     "start": 1.501,
+     "end": 1.697
+    },
+    {
+     "w": "into",
+     "start": 1.697,
+     "end": 2.038
+    },
+    {
+     "w": "orbit,",
+     "start": 2.038,
+     "end": 2.379
+    },
+    {
+     "w": "congrats,",
+     "start": 2.379,
+     "end": 2.72
+    },
+    {
+     "w": "you",
+     "start": 2.86,
+     "end": 3.048
+    },
+    {
+     "w": "just",
+     "start": 3.048,
+     "end": 3.237
+    },
+    {
+     "w": "built",
+     "start": 3.237,
+     "end": 3.425
+    },
+    {
+     "w": "a",
+     "start": 3.425,
+     "end": 3.614
+    },
+    {
+     "w": "space",
+     "start": 3.614,
+     "end": 3.802
+    },
+    {
+     "w": "station.",
+     "start": 3.802,
+     "end": 4.13
+    }
+   ]
   },
   {
    "line": 2,
    "start": 4.562,
    "end": 7.167,
-   "text": "But your own breath poisons the air before the weekend."
+   "text": "But your own breath poisons the air before the weekend.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.692,
+     "end": 4.889
+    },
+    {
+     "w": "your",
+     "start": 4.889,
+     "end": 5.086
+    },
+    {
+     "w": "own",
+     "start": 5.086,
+     "end": 5.284
+    },
+    {
+     "w": "breath",
+     "start": 5.284,
+     "end": 5.481
+    },
+    {
+     "w": "poisons",
+     "start": 5.481,
+     "end": 5.824
+    },
+    {
+     "w": "the",
+     "start": 5.824,
+     "end": 6.021
+    },
+    {
+     "w": "air",
+     "start": 6.021,
+     "end": 6.218
+    },
+    {
+     "w": "before",
+     "start": 6.218,
+     "end": 6.562
+    },
+    {
+     "w": "the",
+     "start": 6.562,
+     "end": 6.759
+    },
+    {
+     "w": "weekend.",
+     "start": 6.759,
+     "end": 7.102
+    }
+   ]
   },
   {
    "line": 3,
    "start": 7.531,
    "end": 12.51,
-   "text": "So you add a machine that splits water to make oxygen, and scrubbers that trap the carbon dioxide."
+   "text": "So you add a machine that splits water to make oxygen, and scrubbers that trap the carbon dioxide.",
+   "words": [
+    {
+     "w": "So",
+     "start": 7.641,
+     "end": 7.852
+    },
+    {
+     "w": "you",
+     "start": 7.852,
+     "end": 8.062
+    },
+    {
+     "w": "add",
+     "start": 8.062,
+     "end": 8.273
+    },
+    {
+     "w": "a",
+     "start": 8.273,
+     "end": 8.483
+    },
+    {
+     "w": "machine",
+     "start": 8.483,
+     "end": 8.85
+    },
+    {
+     "w": "that",
+     "start": 8.85,
+     "end": 9.06
+    },
+    {
+     "w": "splits",
+     "start": 9.06,
+     "end": 9.271
+    },
+    {
+     "w": "water",
+     "start": 9.271,
+     "end": 9.637
+    },
+    {
+     "w": "to",
+     "start": 9.637,
+     "end": 9.848
+    },
+    {
+     "w": "make",
+     "start": 9.848,
+     "end": 10.059
+    },
+    {
+     "w": "oxygen,",
+     "start": 10.059,
+     "end": 10.581
+    },
+    {
+     "w": "and",
+     "start": 10.631,
+     "end": 10.828
+    },
+    {
+     "w": "scrubbers",
+     "start": 10.828,
+     "end": 11.172
+    },
+    {
+     "w": "that",
+     "start": 11.172,
+     "end": 11.369
+    },
+    {
+     "w": "trap",
+     "start": 11.369,
+     "end": 11.567
+    },
+    {
+     "w": "the",
+     "start": 11.567,
+     "end": 11.764
+    },
+    {
+     "w": "carbon",
+     "start": 11.764,
+     "end": 12.107
+    },
+    {
+     "w": "dioxide.",
+     "start": 12.107,
+     "end": 12.451
+    }
+   ]
   },
   {
    "line": 4,
    "start": 12.875,
    "end": 18.115,
-   "text": "Now you can breathe, until the water runs out, and the nearest store is four hundred kilometers straight down."
+   "text": "Now you can breathe, until the water runs out, and the nearest store is four hundred kilometers straight down.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 12.975,
+     "end": 13.195
+    },
+    {
+     "w": "you",
+     "start": 13.195,
+     "end": 13.415
+    },
+    {
+     "w": "can",
+     "start": 13.415,
+     "end": 13.635
+    },
+    {
+     "w": "breathe,",
+     "start": 13.635,
+     "end": 13.855
+    },
+    {
+     "w": "until",
+     "start": 13.995,
+     "end": 14.298
+    },
+    {
+     "w": "the",
+     "start": 14.298,
+     "end": 14.473
+    },
+    {
+     "w": "water",
+     "start": 14.473,
+     "end": 14.776
+    },
+    {
+     "w": "runs",
+     "start": 14.776,
+     "end": 14.951
+    },
+    {
+     "w": "out,",
+     "start": 14.951,
+     "end": 15.125
+    },
+    {
+     "w": "and",
+     "start": 15.275,
+     "end": 15.476
+    },
+    {
+     "w": "the",
+     "start": 15.476,
+     "end": 15.678
+    },
+    {
+     "w": "nearest",
+     "start": 15.678,
+     "end": 16.028
+    },
+    {
+     "w": "store",
+     "start": 16.028,
+     "end": 16.23
+    },
+    {
+     "w": "is",
+     "start": 16.23,
+     "end": 16.431
+    },
+    {
+     "w": "four",
+     "start": 16.431,
+     "end": 16.633
+    },
+    {
+     "w": "hundred",
+     "start": 16.633,
+     "end": 16.983
+    },
+    {
+     "w": "kilometers",
+     "start": 16.983,
+     "end": 17.632
+    },
+    {
+     "w": "straight",
+     "start": 17.632,
+     "end": 17.834
+    },
+    {
+     "w": "down.",
+     "start": 17.834,
+     "end": 18.035
+    }
+   ]
   },
   {
    "line": 5,
    "start": 18.479,
-   "end": 24.521,
-   "text": "So you add a distiller and filters, and recycle sweat, breath, and yes, pee. Yesterday's coffee is tomorrow's coffee."
+   "end": 25.094,
+   "text": "So you add filters and a distiller, and recycle your sweat, your breath, and yes, your pee. Yesterday's coffee is tomorrow's coffee.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.589,
+     "end": 18.768
+    },
+    {
+     "w": "you",
+     "start": 18.768,
+     "end": 18.947
+    },
+    {
+     "w": "add",
+     "start": 18.947,
+     "end": 19.126
+    },
+    {
+     "w": "filters",
+     "start": 19.126,
+     "end": 19.437
+    },
+    {
+     "w": "and",
+     "start": 19.437,
+     "end": 19.616
+    },
+    {
+     "w": "a",
+     "start": 19.616,
+     "end": 19.795
+    },
+    {
+     "w": "distiller,",
+     "start": 19.795,
+     "end": 20.239
+    },
+    {
+     "w": "and",
+     "start": 20.389,
+     "end": 20.592
+    },
+    {
+     "w": "recycle",
+     "start": 20.592,
+     "end": 20.944
+    },
+    {
+     "w": "your",
+     "start": 20.944,
+     "end": 21.146
+    },
+    {
+     "w": "sweat,",
+     "start": 21.146,
+     "end": 21.349
+    },
+    {
+     "w": "your",
+     "start": 21.509,
+     "end": 21.729
+    },
+    {
+     "w": "breath,",
+     "start": 21.729,
+     "end": 21.949
+    },
+    {
+     "w": "and",
+     "start": 22.129,
+     "end": 22.349
+    },
+    {
+     "w": "yes,",
+     "start": 22.349,
+     "end": 22.569
+    },
+    {
+     "w": "your",
+     "start": 22.569,
+     "end": 22.789
+    },
+    {
+     "w": "pee.",
+     "start": 22.789,
+     "end": 23.009
+    },
+    {
+     "w": "Yesterday's",
+     "start": 23.159,
+     "end": 23.742
+    },
+    {
+     "w": "coffee",
+     "start": 23.742,
+     "end": 23.977
+    },
+    {
+     "w": "is",
+     "start": 23.977,
+     "end": 24.211
+    },
+    {
+     "w": "tomorrow's",
+     "start": 24.211,
+     "end": 24.794
+    },
+    {
+     "w": "coffee.",
+     "start": 24.794,
+     "end": 25.029
+    }
+   ]
   },
   {
    "line": 6,
-   "start": 24.885,
-   "end": 28.906,
-   "text": "But floating is like staying in bed all year, and your muscles and bones waste away."
+   "start": 25.458,
+   "end": 29.031,
+   "text": "But floating is like a year in bed, and your muscles and bones waste away.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.598,
+     "end": 25.78
+    },
+    {
+     "w": "floating",
+     "start": 25.78,
+     "end": 26.097
+    },
+    {
+     "w": "is",
+     "start": 26.097,
+     "end": 26.278
+    },
+    {
+     "w": "like",
+     "start": 26.278,
+     "end": 26.46
+    },
+    {
+     "w": "a",
+     "start": 26.46,
+     "end": 26.642
+    },
+    {
+     "w": "year",
+     "start": 26.642,
+     "end": 26.824
+    },
+    {
+     "w": "in",
+     "start": 26.824,
+     "end": 27.006
+    },
+    {
+     "w": "bed,",
+     "start": 27.006,
+     "end": 27.188
+    },
+    {
+     "w": "and",
+     "start": 27.338,
+     "end": 27.514
+    },
+    {
+     "w": "your",
+     "start": 27.514,
+     "end": 27.689
+    },
+    {
+     "w": "muscles",
+     "start": 27.689,
+     "end": 27.995
+    },
+    {
+     "w": "and",
+     "start": 27.995,
+     "end": 28.171
+    },
+    {
+     "w": "bones",
+     "start": 28.171,
+     "end": 28.477
+    },
+    {
+     "w": "waste",
+     "start": 28.477,
+     "end": 28.652
+    },
+    {
+     "w": "away.",
+     "start": 28.652,
+     "end": 28.958
+    }
+   ]
   },
   {
    "line": 7,
-   "start": 29.271,
-   "end": 35.198,
-   "text": "So you add a treadmill with bungee straps, a weight machine that uses vacuum instead of weights, and two hours of exercise a day."
+   "start": 29.396,
+   "end": 34.688,
+   "text": "So you add a treadmill with bungee straps, a weight machine that pulls against vacuum, and work out two hours a day.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.506,
+     "end": 29.704
+    },
+    {
+     "w": "you",
+     "start": 29.704,
+     "end": 29.902
+    },
+    {
+     "w": "add",
+     "start": 29.902,
+     "end": 30.1
+    },
+    {
+     "w": "a",
+     "start": 30.1,
+     "end": 30.298
+    },
+    {
+     "w": "treadmill",
+     "start": 30.298,
+     "end": 30.642
+    },
+    {
+     "w": "with",
+     "start": 30.642,
+     "end": 30.84
+    },
+    {
+     "w": "bungee",
+     "start": 30.84,
+     "end": 31.038
+    },
+    {
+     "w": "straps,",
+     "start": 31.038,
+     "end": 31.236
+    },
+    {
+     "w": "a",
+     "start": 31.286,
+     "end": 31.501
+    },
+    {
+     "w": "weight",
+     "start": 31.501,
+     "end": 31.715
+    },
+    {
+     "w": "machine",
+     "start": 31.715,
+     "end": 32.089
+    },
+    {
+     "w": "that",
+     "start": 32.089,
+     "end": 32.304
+    },
+    {
+     "w": "pulls",
+     "start": 32.304,
+     "end": 32.519
+    },
+    {
+     "w": "against",
+     "start": 32.519,
+     "end": 32.892
+    },
+    {
+     "w": "vacuum,",
+     "start": 32.892,
+     "end": 33.266
+    },
+    {
+     "w": "and",
+     "start": 33.406,
+     "end": 33.58
+    },
+    {
+     "w": "work",
+     "start": 33.58,
+     "end": 33.755
+    },
+    {
+     "w": "out",
+     "start": 33.755,
+     "end": 33.929
+    },
+    {
+     "w": "two",
+     "start": 33.929,
+     "end": 34.103
+    },
+    {
+     "w": "hours",
+     "start": 34.103,
+     "end": 34.277
+    },
+    {
+     "w": "a",
+     "start": 34.277,
+     "end": 34.452
+    },
+    {
+     "w": "day.",
+     "start": 34.452,
+     "end": 34.626
+    }
+   ]
   },
   {
    "line": 8,
-   "start": 35.562,
-   "end": 40.0,
-   "text": "Now you're fit, until a speck of paint hits the wall at twenty-eight thousand kilometers an hour."
+   "start": 35.052,
+   "end": 39.49,
+   "text": "Now you're fit, until a speck of paint hits the wall at twenty-eight thousand kilometers an hour.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 35.162,
+     "end": 35.365
+    },
+    {
+     "w": "you're",
+     "start": 35.365,
+     "end": 35.569
+    },
+    {
+     "w": "fit,",
+     "start": 35.569,
+     "end": 35.772
+    },
+    {
+     "w": "until",
+     "start": 35.922,
+     "end": 36.25
+    },
+    {
+     "w": "a",
+     "start": 36.25,
+     "end": 36.439
+    },
+    {
+     "w": "speck",
+     "start": 36.439,
+     "end": 36.628
+    },
+    {
+     "w": "of",
+     "start": 36.628,
+     "end": 36.816
+    },
+    {
+     "w": "paint",
+     "start": 36.816,
+     "end": 37.005
+    },
+    {
+     "w": "hits",
+     "start": 37.005,
+     "end": 37.194
+    },
+    {
+     "w": "the",
+     "start": 37.194,
+     "end": 37.382
+    },
+    {
+     "w": "wall",
+     "start": 37.382,
+     "end": 37.571
+    },
+    {
+     "w": "at",
+     "start": 37.571,
+     "end": 37.76
+    },
+    {
+     "w": "twenty-eight",
+     "start": 37.76,
+     "end": 38.088
+    },
+    {
+     "w": "thousand",
+     "start": 38.088,
+     "end": 38.417
+    },
+    {
+     "w": "kilometers",
+     "start": 38.417,
+     "end": 39.025
+    },
+    {
+     "w": "an",
+     "start": 39.025,
+     "end": 39.213
+    },
+    {
+     "w": "hour.",
+     "start": 39.213,
+     "end": 39.402
+    }
+   ]
   },
   {
    "line": 9,
-   "start": 40.365,
-   "end": 45.729,
-   "text": "So you wrap the hull in bumper shields: thin aluminum shatters the speck, and bulletproof fabric catches the bits."
+   "start": 39.854,
+   "end": 45.427,
+   "text": "So you wrap the walls in shields: an aluminum bumper shatters the speck, and bulletproof fabric catches the bits.",
+   "words": [
+    {
+     "w": "So",
+     "start": 39.964,
+     "end": 40.175
+    },
+    {
+     "w": "you",
+     "start": 40.175,
+     "end": 40.387
+    },
+    {
+     "w": "wrap",
+     "start": 40.387,
+     "end": 40.598
+    },
+    {
+     "w": "the",
+     "start": 40.598,
+     "end": 40.81
+    },
+    {
+     "w": "walls",
+     "start": 40.81,
+     "end": 41.021
+    },
+    {
+     "w": "in",
+     "start": 41.021,
+     "end": 41.233
+    },
+    {
+     "w": "shields:",
+     "start": 41.233,
+     "end": 41.444
+    },
+    {
+     "w": "an",
+     "start": 41.574,
+     "end": 41.755
+    },
+    {
+     "w": "aluminum",
+     "start": 41.755,
+     "end": 42.34
+    },
+    {
+     "w": "bumper",
+     "start": 42.34,
+     "end": 42.656
+    },
+    {
+     "w": "shatters",
+     "start": 42.656,
+     "end": 42.971
+    },
+    {
+     "w": "the",
+     "start": 42.971,
+     "end": 43.153
+    },
+    {
+     "w": "speck,",
+     "start": 43.153,
+     "end": 43.334
+    },
+    {
+     "w": "and",
+     "start": 43.514,
+     "end": 43.719
+    },
+    {
+     "w": "bulletproof",
+     "start": 43.719,
+     "end": 44.229
+    },
+    {
+     "w": "fabric",
+     "start": 44.229,
+     "end": 44.586
+    },
+    {
+     "w": "catches",
+     "start": 44.586,
+     "end": 44.943
+    },
+    {
+     "w": "the",
+     "start": 44.943,
+     "end": 45.149
+    },
+    {
+     "w": "bits.",
+     "start": 45.149,
+     "end": 45.354
+    }
+   ]
   },
   {
    "line": 10,
-   "start": 46.094,
-   "end": 50.125,
-   "text": "But before you float away, follow, because next we're building a suspension bridge."
+   "start": 45.792,
+   "end": 49.823,
+   "text": "But before you float away, follow, because next we're building a suspension bridge.",
+   "words": [
+    {
+     "w": "But",
+     "start": 45.932,
+     "end": 46.117
+    },
+    {
+     "w": "before",
+     "start": 46.117,
+     "end": 46.439
+    },
+    {
+     "w": "you",
+     "start": 46.439,
+     "end": 46.625
+    },
+    {
+     "w": "float",
+     "start": 46.625,
+     "end": 46.81
+    },
+    {
+     "w": "away,",
+     "start": 46.81,
+     "end": 47.132
+    },
+    {
+     "w": "follow,",
+     "start": 47.282,
+     "end": 47.622
+    },
+    {
+     "w": "because",
+     "start": 47.762,
+     "end": 48.11
+    },
+    {
+     "w": "next",
+     "start": 48.11,
+     "end": 48.309
+    },
+    {
+     "w": "we're",
+     "start": 48.309,
+     "end": 48.509
+    },
+    {
+     "w": "building",
+     "start": 48.509,
+     "end": 48.857
+    },
+    {
+     "w": "a",
+     "start": 48.857,
+     "end": 49.057
+    },
+    {
+     "w": "suspension",
+     "start": 49.057,
+     "end": 49.552
+    },
+    {
+     "w": "bridge.",
+     "start": 49.552,
+     "end": 49.752
+    }
+   ]
   },
   {
    "line": 11,
-   "start": 50.49,
-   "end": 55.552,
-   "text": "Now just unfold solar wings, add a big window facing Earth, and tie down absolutely everything."
+   "start": 50.188,
+   "end": 55.25,
+   "text": "Now just unfold solar wings, add a big window facing Earth, and tie down absolutely everything.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 50.298,
+     "end": 50.501
+    },
+    {
+     "w": "just",
+     "start": 50.501,
+     "end": 50.704
+    },
+    {
+     "w": "unfold",
+     "start": 50.704,
+     "end": 51.057
+    },
+    {
+     "w": "solar",
+     "start": 51.057,
+     "end": 51.41
+    },
+    {
+     "w": "wings,",
+     "start": 51.41,
+     "end": 51.613
+    },
+    {
+     "w": "add",
+     "start": 51.613,
+     "end": 51.816
+    },
+    {
+     "w": "a",
+     "start": 51.816,
+     "end": 52.019
+    },
+    {
+     "w": "big",
+     "start": 52.019,
+     "end": 52.222
+    },
+    {
+     "w": "window",
+     "start": 52.222,
+     "end": 52.575
+    },
+    {
+     "w": "facing",
+     "start": 52.575,
+     "end": 52.928
+    },
+    {
+     "w": "Earth,",
+     "start": 52.928,
+     "end": 53.131
+    },
+    {
+     "w": "and",
+     "start": 53.131,
+     "end": 53.334
+    },
+    {
+     "w": "tie",
+     "start": 53.334,
+     "end": 53.537
+    },
+    {
+     "w": "down",
+     "start": 53.537,
+     "end": 53.74
+    },
+    {
+     "w": "absolutely",
+     "start": 53.74,
+     "end": 54.544
+    },
+    {
+     "w": "everything.",
+     "start": 54.544,
+     "end": 55.198
+    }
+   ]
   },
   {
    "line": 12,
-   "start": 55.917,
-   "end": 59.229,
-   "text": "One station, sixteen sunrises a day, zero showers."
+   "start": 55.615,
+   "end": 58.927,
+   "text": "One station, sixteen sunrises a day, zero showers.",
+   "words": [
+    {
+     "w": "One",
+     "start": 55.715,
+     "end": 55.974
+    },
+    {
+     "w": "station,",
+     "start": 55.974,
+     "end": 56.425
+    },
+    {
+     "w": "sixteen",
+     "start": 56.565,
+     "end": 56.929
+    },
+    {
+     "w": "sunrises",
+     "start": 56.929,
+     "end": 57.447
+    },
+    {
+     "w": "a",
+     "start": 57.447,
+     "end": 57.656
+    },
+    {
+     "w": "day,",
+     "start": 57.656,
+     "end": 57.865
+    },
+    {
+     "w": "zero",
+     "start": 58.045,
+     "end": 58.45
+    },
+    {
+     "w": "showers.",
+     "start": 58.45,
+     "end": 58.855
+    }
+   ]
   },
   {
    "line": 13,
-   "start": 59.594,
-   "end": 62.333,
-   "text": "And congrats, you just built a space station yourself."
+   "start": 59.292,
+   "end": 62.031,
+   "text": "And congrats, you just built a space station yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.412,
+     "end": 59.671
+    },
+    {
+     "w": "congrats,",
+     "start": 59.671,
+     "end": 60.122
+    },
+    {
+     "w": "you",
+     "start": 60.252,
+     "end": 60.447
+    },
+    {
+     "w": "just",
+     "start": 60.447,
+     "end": 60.641
+    },
+    {
+     "w": "built",
+     "start": 60.641,
+     "end": 60.836
+    },
+    {
+     "w": "a",
+     "start": 60.836,
+     "end": 61.03
+    },
+    {
+     "w": "space",
+     "start": 61.03,
+     "end": 61.225
+    },
+    {
+     "w": "station",
+     "start": 61.225,
+     "end": 61.563
+    },
+    {
+     "w": "yourself.",
+     "start": 61.563,
+     "end": 61.902
+    }
+   ]
   },
   {
    "line": 14,
-   "start": 62.698,
-   "end": 66.25,
-   "text": "And the toilet? It's a vacuum cleaner with a seat belt. Aim carefully."
+   "start": 62.396,
+   "end": 65.948,
+   "text": "And the toilet? It's a vacuum cleaner with a seat belt. Aim carefully.",
+   "words": [
+    {
+     "w": "And",
+     "start": 62.516,
+     "end": 62.679
+    },
+    {
+     "w": "the",
+     "start": 62.679,
+     "end": 62.842
+    },
+    {
+     "w": "toilet?",
+     "start": 62.842,
+     "end": 63.126
+    },
+    {
+     "w": "It's",
+     "start": 63.296,
+     "end": 63.474
+    },
+    {
+     "w": "a",
+     "start": 63.474,
+     "end": 63.652
+    },
+    {
+     "w": "vacuum",
+     "start": 63.652,
+     "end": 63.963
+    },
+    {
+     "w": "cleaner",
+     "start": 63.963,
+     "end": 64.273
+    },
+    {
+     "w": "with",
+     "start": 64.273,
+     "end": 64.451
+    },
+    {
+     "w": "a",
+     "start": 64.451,
+     "end": 64.63
+    },
+    {
+     "w": "seat",
+     "start": 64.63,
+     "end": 64.808
+    },
+    {
+     "w": "belt.",
+     "start": 64.808,
+     "end": 64.986
+    },
+    {
+     "w": "Aim",
+     "start": 65.046,
+     "end": 65.245
+    },
+    {
+     "w": "carefully.",
+     "start": 65.245,
+     "end": 65.886
+    }
+   ]
   }
  ]
 }
