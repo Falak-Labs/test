@@ -10,85 +10,1278 @@
    "line": 1,
    "start": 0.0,
    "end": 3.427,
-   "text": "If you put a seat over a bucket, congrats, you just built a toilet."
+   "text": "If you put a seat over a bucket, congrats, you just built a toilet.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.324
+    },
+    {
+     "w": "you",
+     "start": 0.324,
+     "end": 0.519
+    },
+    {
+     "w": "put",
+     "start": 0.519,
+     "end": 0.713
+    },
+    {
+     "w": "a",
+     "start": 0.713,
+     "end": 0.907
+    },
+    {
+     "w": "seat",
+     "start": 0.907,
+     "end": 1.101
+    },
+    {
+     "w": "over",
+     "start": 1.101,
+     "end": 1.439
+    },
+    {
+     "w": "a",
+     "start": 1.439,
+     "end": 1.634
+    },
+    {
+     "w": "bucket,",
+     "start": 1.634,
+     "end": 1.972
+    },
+    {
+     "w": "congrats,",
+     "start": 1.972,
+     "end": 2.31
+    },
+    {
+     "w": "you",
+     "start": 2.45,
+     "end": 2.609
+    },
+    {
+     "w": "just",
+     "start": 2.609,
+     "end": 2.767
+    },
+    {
+     "w": "built",
+     "start": 2.767,
+     "end": 2.926
+    },
+    {
+     "w": "a",
+     "start": 2.926,
+     "end": 3.084
+    },
+    {
+     "w": "toilet.",
+     "start": 3.084,
+     "end": 3.36
+    }
+   ]
   },
   {
    "line": 2,
    "start": 3.792,
    "end": 6.979,
-   "text": "But somebody has to carry the bucket out, and nobody wants that job."
+   "text": "But somebody has to carry the bucket out, and nobody wants that job.",
+   "words": [
+    {
+     "w": "But",
+     "start": 3.942,
+     "end": 4.081
+    },
+    {
+     "w": "somebody",
+     "start": 4.081,
+     "end": 4.53
+    },
+    {
+     "w": "has",
+     "start": 4.53,
+     "end": 4.669
+    },
+    {
+     "w": "to",
+     "start": 4.669,
+     "end": 4.809
+    },
+    {
+     "w": "carry",
+     "start": 4.809,
+     "end": 5.051
+    },
+    {
+     "w": "the",
+     "start": 5.051,
+     "end": 5.19
+    },
+    {
+     "w": "bucket",
+     "start": 5.19,
+     "end": 5.433
+    },
+    {
+     "w": "out,",
+     "start": 5.433,
+     "end": 5.572
+    },
+    {
+     "w": "and",
+     "start": 5.722,
+     "end": 5.899
+    },
+    {
+     "w": "nobody",
+     "start": 5.899,
+     "end": 6.34
+    },
+    {
+     "w": "wants",
+     "start": 6.34,
+     "end": 6.517
+    },
+    {
+     "w": "that",
+     "start": 6.517,
+     "end": 6.695
+    },
+    {
+     "w": "job.",
+     "start": 6.695,
+     "end": 6.872
+    }
+   ]
   },
   {
    "line": 3,
    "start": 7.344,
    "end": 13.521,
-   "text": "So you add a tank of water above the bowl, with a rubber flapper at the bottom: push the handle, and gravity does the dirty work."
+   "text": "So you add a tank of water above the bowl, with a rubber flapper at the bottom: push the handle, and gravity does the dirty work.",
+   "words": [
+    {
+     "w": "So",
+     "start": 7.454,
+     "end": 7.621
+    },
+    {
+     "w": "you",
+     "start": 7.621,
+     "end": 7.788
+    },
+    {
+     "w": "add",
+     "start": 7.788,
+     "end": 7.956
+    },
+    {
+     "w": "a",
+     "start": 7.956,
+     "end": 8.123
+    },
+    {
+     "w": "tank",
+     "start": 8.123,
+     "end": 8.29
+    },
+    {
+     "w": "of",
+     "start": 8.29,
+     "end": 8.457
+    },
+    {
+     "w": "water",
+     "start": 8.457,
+     "end": 8.748
+    },
+    {
+     "w": "above",
+     "start": 8.748,
+     "end": 9.04
+    },
+    {
+     "w": "the",
+     "start": 9.04,
+     "end": 9.207
+    },
+    {
+     "w": "bowl,",
+     "start": 9.207,
+     "end": 9.374
+    },
+    {
+     "w": "with",
+     "start": 9.524,
+     "end": 9.714
+    },
+    {
+     "w": "a",
+     "start": 9.714,
+     "end": 9.904
+    },
+    {
+     "w": "rubber",
+     "start": 9.904,
+     "end": 10.234
+    },
+    {
+     "w": "flapper",
+     "start": 10.234,
+     "end": 10.564
+    },
+    {
+     "w": "at",
+     "start": 10.564,
+     "end": 10.754
+    },
+    {
+     "w": "the",
+     "start": 10.754,
+     "end": 10.944
+    },
+    {
+     "w": "bottom:",
+     "start": 10.944,
+     "end": 11.275
+    },
+    {
+     "w": "push",
+     "start": 11.275,
+     "end": 11.464
+    },
+    {
+     "w": "the",
+     "start": 11.464,
+     "end": 11.654
+    },
+    {
+     "w": "handle,",
+     "start": 11.654,
+     "end": 11.844
+    },
+    {
+     "w": "and",
+     "start": 11.984,
+     "end": 12.16
+    },
+    {
+     "w": "gravity",
+     "start": 12.16,
+     "end": 12.598
+    },
+    {
+     "w": "does",
+     "start": 12.598,
+     "end": 12.774
+    },
+    {
+     "w": "the",
+     "start": 12.774,
+     "end": 12.951
+    },
+    {
+     "w": "dirty",
+     "start": 12.951,
+     "end": 13.258
+    },
+    {
+     "w": "work.",
+     "start": 13.258,
+     "end": 13.434
+    }
+   ]
   },
   {
    "line": 4,
    "start": 13.885,
    "end": 17.354,
-   "text": "Now it flushes, until the sewer sends its smell back up to say hello."
+   "text": "Now it flushes, until the sewer sends its smell back up to say hello.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 13.995,
+     "end": 14.22
+    },
+    {
+     "w": "it",
+     "start": 14.22,
+     "end": 14.444
+    },
+    {
+     "w": "flushes,",
+     "start": 14.444,
+     "end": 14.835
+    },
+    {
+     "w": "until",
+     "start": 14.955,
+     "end": 15.263
+    },
+    {
+     "w": "the",
+     "start": 15.263,
+     "end": 15.44
+    },
+    {
+     "w": "sewer",
+     "start": 15.44,
+     "end": 15.748
+    },
+    {
+     "w": "sends",
+     "start": 15.748,
+     "end": 15.925
+    },
+    {
+     "w": "its",
+     "start": 15.925,
+     "end": 16.102
+    },
+    {
+     "w": "smell",
+     "start": 16.102,
+     "end": 16.279
+    },
+    {
+     "w": "back",
+     "start": 16.279,
+     "end": 16.456
+    },
+    {
+     "w": "up",
+     "start": 16.456,
+     "end": 16.633
+    },
+    {
+     "w": "to",
+     "start": 16.633,
+     "end": 16.81
+    },
+    {
+     "w": "say",
+     "start": 16.81,
+     "end": 16.987
+    },
+    {
+     "w": "hello.",
+     "start": 16.987,
+     "end": 17.295
+    }
+   ]
   },
   {
    "line": 5,
    "start": 17.719,
    "end": 23.26,
-   "text": "So you bend the pipe into an S, called a trap: a little water always stays in the curve, and seals out the gas."
+   "text": "So you bend the pipe into an S, called a trap: a little water always stays in the curve, and seals out the gas.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.829,
+     "end": 18.009
+    },
+    {
+     "w": "you",
+     "start": 18.009,
+     "end": 18.188
+    },
+    {
+     "w": "bend",
+     "start": 18.188,
+     "end": 18.368
+    },
+    {
+     "w": "the",
+     "start": 18.368,
+     "end": 18.547
+    },
+    {
+     "w": "pipe",
+     "start": 18.547,
+     "end": 18.727
+    },
+    {
+     "w": "into",
+     "start": 18.727,
+     "end": 19.04
+    },
+    {
+     "w": "an",
+     "start": 19.04,
+     "end": 19.219
+    },
+    {
+     "w": "S,",
+     "start": 19.219,
+     "end": 19.399
+    },
+    {
+     "w": "called",
+     "start": 19.559,
+     "end": 19.815
+    },
+    {
+     "w": "a",
+     "start": 19.815,
+     "end": 19.962
+    },
+    {
+     "w": "trap:",
+     "start": 19.962,
+     "end": 20.109
+    },
+    {
+     "w": "a",
+     "start": 20.309,
+     "end": 20.487
+    },
+    {
+     "w": "little",
+     "start": 20.487,
+     "end": 20.665
+    },
+    {
+     "w": "water",
+     "start": 20.665,
+     "end": 20.976
+    },
+    {
+     "w": "always",
+     "start": 20.976,
+     "end": 21.286
+    },
+    {
+     "w": "stays",
+     "start": 21.286,
+     "end": 21.464
+    },
+    {
+     "w": "in",
+     "start": 21.464,
+     "end": 21.643
+    },
+    {
+     "w": "the",
+     "start": 21.643,
+     "end": 21.821
+    },
+    {
+     "w": "curve,",
+     "start": 21.821,
+     "end": 21.999
+    },
+    {
+     "w": "and",
+     "start": 22.149,
+     "end": 22.357
+    },
+    {
+     "w": "seals",
+     "start": 22.357,
+     "end": 22.565
+    },
+    {
+     "w": "out",
+     "start": 22.565,
+     "end": 22.773
+    },
+    {
+     "w": "the",
+     "start": 22.773,
+     "end": 22.981
+    },
+    {
+     "w": "gas.",
+     "start": 22.981,
+     "end": 23.189
+    }
+   ]
   },
   {
    "line": 6,
    "start": 23.625,
    "end": 27.042,
-   "text": "But the refill never stops, and now your bathroom is a swimming pool."
+   "text": "But the refill never stops, and now your bathroom is a swimming pool.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.765,
+     "end": 23.979
+    },
+    {
+     "w": "the",
+     "start": 23.979,
+     "end": 24.194
+    },
+    {
+     "w": "refill",
+     "start": 24.194,
+     "end": 24.567
+    },
+    {
+     "w": "never",
+     "start": 24.567,
+     "end": 24.941
+    },
+    {
+     "w": "stops,",
+     "start": 24.941,
+     "end": 25.155
+    },
+    {
+     "w": "and",
+     "start": 25.295,
+     "end": 25.469
+    },
+    {
+     "w": "now",
+     "start": 25.469,
+     "end": 25.643
+    },
+    {
+     "w": "your",
+     "start": 25.643,
+     "end": 25.817
+    },
+    {
+     "w": "bathroom",
+     "start": 25.817,
+     "end": 26.12
+    },
+    {
+     "w": "is",
+     "start": 26.12,
+     "end": 26.294
+    },
+    {
+     "w": "a",
+     "start": 26.294,
+     "end": 26.468
+    },
+    {
+     "w": "swimming",
+     "start": 26.468,
+     "end": 26.771
+    },
+    {
+     "w": "pool.",
+     "start": 26.771,
+     "end": 26.945
+    }
+   ]
   },
   {
    "line": 7,
    "start": 27.406,
    "end": 32.688,
-   "text": "So you add a float: when the tank is full, it shuts the fill valve. Plus an overflow tube, just in case."
+   "text": "So you add a float: when the tank is full, it shuts the fill valve. Plus an overflow tube, just in case.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.516,
+     "end": 27.68
+    },
+    {
+     "w": "you",
+     "start": 27.68,
+     "end": 27.844
+    },
+    {
+     "w": "add",
+     "start": 27.844,
+     "end": 28.008
+    },
+    {
+     "w": "a",
+     "start": 28.008,
+     "end": 28.172
+    },
+    {
+     "w": "float:",
+     "start": 28.172,
+     "end": 28.336
+    },
+    {
+     "w": "when",
+     "start": 28.516,
+     "end": 28.71
+    },
+    {
+     "w": "the",
+     "start": 28.71,
+     "end": 28.904
+    },
+    {
+     "w": "tank",
+     "start": 28.904,
+     "end": 29.098
+    },
+    {
+     "w": "is",
+     "start": 29.098,
+     "end": 29.292
+    },
+    {
+     "w": "full,",
+     "start": 29.292,
+     "end": 29.486
+    },
+    {
+     "w": "it",
+     "start": 29.646,
+     "end": 29.848
+    },
+    {
+     "w": "shuts",
+     "start": 29.848,
+     "end": 30.05
+    },
+    {
+     "w": "the",
+     "start": 30.05,
+     "end": 30.252
+    },
+    {
+     "w": "fill",
+     "start": 30.252,
+     "end": 30.454
+    },
+    {
+     "w": "valve.",
+     "start": 30.454,
+     "end": 30.656
+    },
+    {
+     "w": "Plus",
+     "start": 30.866,
+     "end": 31.041
+    },
+    {
+     "w": "an",
+     "start": 31.041,
+     "end": 31.216
+    },
+    {
+     "w": "overflow",
+     "start": 31.216,
+     "end": 31.651
+    },
+    {
+     "w": "tube,",
+     "start": 31.651,
+     "end": 31.826
+    },
+    {
+     "w": "just",
+     "start": 32.026,
+     "end": 32.226
+    },
+    {
+     "w": "in",
+     "start": 32.226,
+     "end": 32.426
+    },
+    {
+     "w": "case.",
+     "start": 32.426,
+     "end": 32.626
+    }
+   ]
   },
   {
    "line": 8,
    "start": 33.052,
    "end": 38.74,
-   "text": "Now it works, until water racing down the drain sucks the trap dry, glug, glug, and the smell is back."
+   "text": "Now it works, until water racing down the drain sucks the trap dry, glug, glug, and the smell is back.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 33.152,
+     "end": 33.385
+    },
+    {
+     "w": "it",
+     "start": 33.385,
+     "end": 33.619
+    },
+    {
+     "w": "works,",
+     "start": 33.619,
+     "end": 33.852
+    },
+    {
+     "w": "until",
+     "start": 33.992,
+     "end": 34.374
+    },
+    {
+     "w": "water",
+     "start": 34.374,
+     "end": 34.755
+    },
+    {
+     "w": "racing",
+     "start": 34.755,
+     "end": 35.137
+    },
+    {
+     "w": "down",
+     "start": 35.137,
+     "end": 35.356
+    },
+    {
+     "w": "the",
+     "start": 35.356,
+     "end": 35.576
+    },
+    {
+     "w": "drain",
+     "start": 35.576,
+     "end": 35.795
+    },
+    {
+     "w": "sucks",
+     "start": 35.795,
+     "end": 36.014
+    },
+    {
+     "w": "the",
+     "start": 36.014,
+     "end": 36.233
+    },
+    {
+     "w": "trap",
+     "start": 36.233,
+     "end": 36.453
+    },
+    {
+     "w": "dry,",
+     "start": 36.453,
+     "end": 36.672
+    },
+    {
+     "w": "glug,",
+     "start": 36.812,
+     "end": 37.002
+    },
+    {
+     "w": "glug,",
+     "start": 37.002,
+     "end": 37.192
+    },
+    {
+     "w": "and",
+     "start": 37.312,
+     "end": 37.572
+    },
+    {
+     "w": "the",
+     "start": 37.572,
+     "end": 37.832
+    },
+    {
+     "w": "smell",
+     "start": 37.832,
+     "end": 38.092
+    },
+    {
+     "w": "is",
+     "start": 38.092,
+     "end": 38.352
+    },
+    {
+     "w": "back.",
+     "start": 38.352,
+     "end": 38.612
+    }
+   ]
   },
   {
    "line": 9,
    "start": 39.104,
    "end": 46.104,
-   "text": "So you run a vent pipe up through the roof: air follows the water down, the trap stays full, and the smell goes out the top. Sorry, birds."
+   "text": "So you run a vent pipe up through the roof: air follows the water down, the trap stays full, and the smell goes out the top. Sorry, birds.",
+   "words": [
+    {
+     "w": "So",
+     "start": 39.214,
+     "end": 39.435
+    },
+    {
+     "w": "you",
+     "start": 39.435,
+     "end": 39.656
+    },
+    {
+     "w": "run",
+     "start": 39.656,
+     "end": 39.877
+    },
+    {
+     "w": "a",
+     "start": 39.877,
+     "end": 40.098
+    },
+    {
+     "w": "vent",
+     "start": 40.098,
+     "end": 40.319
+    },
+    {
+     "w": "pipe",
+     "start": 40.319,
+     "end": 40.54
+    },
+    {
+     "w": "up",
+     "start": 40.54,
+     "end": 40.761
+    },
+    {
+     "w": "through",
+     "start": 40.761,
+     "end": 40.982
+    },
+    {
+     "w": "the",
+     "start": 40.982,
+     "end": 41.203
+    },
+    {
+     "w": "roof:",
+     "start": 41.203,
+     "end": 41.424
+    },
+    {
+     "w": "air",
+     "start": 41.474,
+     "end": 41.638
+    },
+    {
+     "w": "follows",
+     "start": 41.638,
+     "end": 41.922
+    },
+    {
+     "w": "the",
+     "start": 41.922,
+     "end": 42.086
+    },
+    {
+     "w": "water",
+     "start": 42.086,
+     "end": 42.37
+    },
+    {
+     "w": "down,",
+     "start": 42.37,
+     "end": 42.534
+    },
+    {
+     "w": "the",
+     "start": 42.654,
+     "end": 42.824
+    },
+    {
+     "w": "trap",
+     "start": 42.824,
+     "end": 42.994
+    },
+    {
+     "w": "stays",
+     "start": 42.994,
+     "end": 43.164
+    },
+    {
+     "w": "full,",
+     "start": 43.164,
+     "end": 43.334
+    },
+    {
+     "w": "and",
+     "start": 43.444,
+     "end": 43.67
+    },
+    {
+     "w": "the",
+     "start": 43.67,
+     "end": 43.895
+    },
+    {
+     "w": "smell",
+     "start": 43.895,
+     "end": 44.121
+    },
+    {
+     "w": "goes",
+     "start": 44.121,
+     "end": 44.347
+    },
+    {
+     "w": "out",
+     "start": 44.347,
+     "end": 44.573
+    },
+    {
+     "w": "the",
+     "start": 44.573,
+     "end": 44.798
+    },
+    {
+     "w": "top.",
+     "start": 44.798,
+     "end": 45.024
+    },
+    {
+     "w": "Sorry,",
+     "start": 45.244,
+     "end": 45.614
+    },
+    {
+     "w": "birds.",
+     "start": 45.684,
+     "end": 46.044
+    }
+   ]
   },
   {
    "line": 10,
    "start": 46.469,
    "end": 49.927,
-   "text": "But before you sit down, follow, because next we're building an airplane."
+   "text": "But before you sit down, follow, because next we're building an airplane.",
+   "words": [
+    {
+     "w": "But",
+     "start": 46.619,
+     "end": 46.809
+    },
+    {
+     "w": "before",
+     "start": 46.809,
+     "end": 47.139
+    },
+    {
+     "w": "you",
+     "start": 47.139,
+     "end": 47.329
+    },
+    {
+     "w": "sit",
+     "start": 47.329,
+     "end": 47.519
+    },
+    {
+     "w": "down,",
+     "start": 47.519,
+     "end": 47.709
+    },
+    {
+     "w": "follow,",
+     "start": 47.849,
+     "end": 48.189
+    },
+    {
+     "w": "because",
+     "start": 48.329,
+     "end": 48.653
+    },
+    {
+     "w": "next",
+     "start": 48.653,
+     "end": 48.839
+    },
+    {
+     "w": "we're",
+     "start": 48.839,
+     "end": 49.025
+    },
+    {
+     "w": "building",
+     "start": 49.025,
+     "end": 49.349
+    },
+    {
+     "w": "an",
+     "start": 49.349,
+     "end": 49.535
+    },
+    {
+     "w": "airplane.",
+     "start": 49.535,
+     "end": 49.859
+    }
+   ]
   },
   {
    "line": 11,
    "start": 50.292,
    "end": 53.917,
-   "text": "Now just add a lid, a lock on the door, and a shampoo bottle to read."
+   "text": "Now just add a lid, a lock on the door, and a shampoo bottle to read.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 50.402,
+     "end": 50.596
+    },
+    {
+     "w": "just",
+     "start": 50.596,
+     "end": 50.79
+    },
+    {
+     "w": "add",
+     "start": 50.79,
+     "end": 50.984
+    },
+    {
+     "w": "a",
+     "start": 50.984,
+     "end": 51.178
+    },
+    {
+     "w": "lid,",
+     "start": 51.178,
+     "end": 51.372
+    },
+    {
+     "w": "a",
+     "start": 51.522,
+     "end": 51.694
+    },
+    {
+     "w": "lock",
+     "start": 51.694,
+     "end": 51.866
+    },
+    {
+     "w": "on",
+     "start": 51.866,
+     "end": 52.038
+    },
+    {
+     "w": "the",
+     "start": 52.038,
+     "end": 52.21
+    },
+    {
+     "w": "door,",
+     "start": 52.21,
+     "end": 52.382
+    },
+    {
+     "w": "and",
+     "start": 52.542,
+     "end": 52.733
+    },
+    {
+     "w": "a",
+     "start": 52.733,
+     "end": 52.925
+    },
+    {
+     "w": "shampoo",
+     "start": 52.925,
+     "end": 53.258
+    },
+    {
+     "w": "bottle",
+     "start": 53.258,
+     "end": 53.449
+    },
+    {
+     "w": "to",
+     "start": 53.449,
+     "end": 53.641
+    },
+    {
+     "w": "read.",
+     "start": 53.641,
+     "end": 53.832
+    }
+   ]
   },
   {
    "line": 12,
    "start": 54.281,
    "end": 57.229,
-   "text": "One push, six liters max, zero buckets."
+   "text": "One push, six liters max, zero buckets.",
+   "words": [
+    {
+     "w": "One",
+     "start": 54.371,
+     "end": 54.691
+    },
+    {
+     "w": "push,",
+     "start": 54.691,
+     "end": 55.011
+    },
+    {
+     "w": "six",
+     "start": 55.151,
+     "end": 55.424
+    },
+    {
+     "w": "liters",
+     "start": 55.424,
+     "end": 55.898
+    },
+    {
+     "w": "max,",
+     "start": 55.898,
+     "end": 56.171
+    },
+    {
+     "w": "zero",
+     "start": 56.361,
+     "end": 56.756
+    },
+    {
+     "w": "buckets.",
+     "start": 56.756,
+     "end": 57.151
+    }
+   ]
   },
   {
    "line": 13,
    "start": 57.594,
    "end": 60.021,
-   "text": "And congrats, you just built a toilet yourself."
+   "text": "And congrats, you just built a toilet yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 57.724,
+     "end": 57.979
+    },
+    {
+     "w": "congrats,",
+     "start": 57.979,
+     "end": 58.424
+    },
+    {
+     "w": "you",
+     "start": 58.564,
+     "end": 58.744
+    },
+    {
+     "w": "just",
+     "start": 58.744,
+     "end": 58.925
+    },
+    {
+     "w": "built",
+     "start": 58.925,
+     "end": 59.105
+    },
+    {
+     "w": "a",
+     "start": 59.105,
+     "end": 59.286
+    },
+    {
+     "w": "toilet",
+     "start": 59.286,
+     "end": 59.6
+    },
+    {
+     "w": "yourself.",
+     "start": 59.6,
+     "end": 59.914
+    }
+   ]
   },
   {
    "line": 14,
    "start": 60.385,
    "end": 64.906,
-   "text": "And the seat? Up or down? Economists have written real papers on that. Still no winner."
+   "text": "And the seat? Up or down? Economists have written real papers on that. Still no winner.",
+   "words": [
+    {
+     "w": "And",
+     "start": 60.505,
+     "end": 60.695
+    },
+    {
+     "w": "the",
+     "start": 60.695,
+     "end": 60.885
+    },
+    {
+     "w": "seat?",
+     "start": 60.885,
+     "end": 61.075
+    },
+    {
+     "w": "Up",
+     "start": 61.205,
+     "end": 61.425
+    },
+    {
+     "w": "or",
+     "start": 61.425,
+     "end": 61.645
+    },
+    {
+     "w": "down?",
+     "start": 61.645,
+     "end": 61.865
+    },
+    {
+     "w": "Economists",
+     "start": 62.035,
+     "end": 62.673
+    },
+    {
+     "w": "have",
+     "start": 62.673,
+     "end": 62.871
+    },
+    {
+     "w": "written",
+     "start": 62.871,
+     "end": 63.216
+    },
+    {
+     "w": "real",
+     "start": 63.216,
+     "end": 63.414
+    },
+    {
+     "w": "papers",
+     "start": 63.414,
+     "end": 63.759
+    },
+    {
+     "w": "on",
+     "start": 63.759,
+     "end": 63.957
+    },
+    {
+     "w": "that.",
+     "start": 63.957,
+     "end": 64.155
+    },
+    {
+     "w": "Still",
+     "start": 64.215,
+     "end": 64.378
+    },
+    {
+     "w": "no",
+     "start": 64.378,
+     "end": 64.541
+    },
+    {
+     "w": "winner.",
+     "start": 64.541,
+     "end": 64.825
+    }
+   ]
   }
  ]
 }
