@@ -1,4 +1,4 @@
-# Post status 2026-11-10T15:57:25+00:00
+# Post status 2026-11-10T16:17:36+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@
 | ep06-rocket | en.instagram | sent |  | 2026-11-10T15:50:59.386Z https://www.instagram.com/reel/DfkRHX2ghH9/ |
 | ep06-rocket | en.tiktok | sent |  | 2026-11-10T15:50:45.693Z https://tiktok.com/@congratsengineer/video/7706570494668967182 |
 | ep06-rocket | en.youtube | sent |  | 2026-11-10T15:50:05.482Z https://www.youtube.com/shorts/autWa_pR7ig |
-| ep07-castle | ar.instagram | scheduled |  | 2026-11-10T16:00:00.000Z |
-| ep07-castle | ar.tiktok | scheduled |  | 2026-11-10T16:00:00.000Z |
-| ep07-castle | ar.youtube | scheduled |  | 2026-11-10T16:00:00.000Z |
-| ep07-castle | en.instagram | scheduled |  | 2026-11-10T16:00:00.000Z |
-| ep07-castle | en.tiktok | scheduled |  | 2026-11-10T16:00:00.000Z |
-| ep07-castle | en.youtube | scheduled |  | 2026-11-10T16:00:00.000Z |
-| ep08-claw | ar.instagram | scheduled |  | 2026-11-10T16:10:00.000Z |
-| ep08-claw | ar.tiktok | scheduled |  | 2026-11-10T16:10:00.000Z |
-| ep08-claw | ar.youtube | scheduled |  | 2026-11-10T16:10:00.000Z |
-| ep08-claw | en.instagram | scheduled |  | 2026-11-10T16:10:00.000Z |
-| ep08-claw | en.tiktok | scheduled |  | 2026-11-10T16:10:00.000Z |
-| ep08-claw | en.youtube | scheduled |  | 2026-11-10T16:10:00.000Z |
+| ep07-castle | ar.instagram | sent |  | 2026-11-10T16:01:35.395Z https://www.instagram.com/reel/DfkSTghBIdA/ |
+| ep07-castle | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T16:00:00.000Z |
+| ep07-castle | ar.youtube | sent |  | 2026-11-10T16:00:29.782Z https://www.youtube.com/shorts/E4Ohy56L-OA |
+| ep07-castle | en.instagram | sent |  | 2026-11-10T16:01:55.796Z https://www.instagram.com/reel/DfkSTryJjPZ/ |
+| ep07-castle | en.tiktok | sent |  | 2026-11-10T16:02:17.491Z https://tiktok.com/@congratsengineer/video/7706573079757049102 |
+| ep07-castle | en.youtube | sent |  | 2026-11-10T16:00:31.236Z https://www.youtube.com/shorts/KhiCgs9UEXY |
+| ep08-claw | ar.instagram | sent |  | 2026-11-10T16:10:58.760Z https://www.instagram.com/reel/DfkTZu-K3_A/ |
+| ep08-claw | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T16:10:00.000Z |
+| ep08-claw | ar.youtube | sent |  | 2026-11-10T16:10:02.992Z https://www.youtube.com/shorts/OROGwzCoqUs |
+| ep08-claw | en.instagram | sent |  | 2026-11-10T16:10:59.212Z https://www.instagram.com/reel/DfkTZtoSRM5/ |
+| ep08-claw | en.tiktok | sent |  | 2026-11-10T16:10:45.348Z https://tiktok.com/@congratsengineer/video/7706575644141817101 |
+| ep08-claw | en.youtube | sent |  | 2026-11-10T16:10:03.818Z https://www.youtube.com/shorts/DzoD0nJiO6M |
 | ep09-submarine | ar.instagram | scheduled |  | 2026-11-10T16:20:00.000Z |
 | ep09-submarine | ar.tiktok | scheduled |  | 2026-11-10T16:20:00.000Z |
 | ep09-submarine | ar.youtube | scheduled |  | 2026-11-10T16:20:00.000Z |
@@ -92,3 +92,11 @@
 | ep15-station | en.instagram | scheduled |  | 2026-11-10T17:20:00.000Z |
 | ep15-station | en.tiktok | scheduled |  | 2026-11-10T17:20:00.000Z |
 | ep15-station | en.youtube | scheduled |  | 2026-11-10T17:20:00.000Z |
+| ep16-bridge | ar.instagram | scheduled |  | 2026-11-10T17:30:00.000Z |
+| ep16-bridge | ar.youtube | scheduled |  | 2026-11-10T17:30:00.000Z |
+| ep16-bridge | en.instagram | scheduled |  | 2026-11-10T17:30:00.000Z |
+| ep16-bridge | en.youtube | scheduled |  | 2026-11-10T17:30:00.000Z |
+| ep17-vending | ar.instagram | scheduled |  | 2026-11-10T17:40:00.000Z |
+| ep17-vending | ar.youtube | scheduled |  | 2026-11-10T17:40:00.000Z |
+| ep17-vending | en.instagram | scheduled |  | 2026-11-10T17:40:00.000Z |
+| ep17-vending | en.youtube | scheduled |  | 2026-11-10T17:40:00.000Z |

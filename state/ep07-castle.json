@@ -4,52 +4,62 @@
    "id": "6af3395be9e4a87f7b4ce70e",
    "channel": "6af2b54962b70b94b0ddd768",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-10T16:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T15:33:38+00:00"
+   "created": "2026-11-10T15:33:38+00:00",
+   "link": "https://www.youtube.com/shorts/KhiCgs9UEXY",
+   "sentAt": "2026-11-10T16:00:31.236Z"
   },
   "en.instagram": {
    "id": "6af3395ca80c88d576428179",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-10T16:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T15:33:38+00:00"
+   "created": "2026-11-10T15:33:38+00:00",
+   "link": "https://www.instagram.com/reel/DfkSTryJjPZ/",
+   "sentAt": "2026-11-10T16:01:55.796Z"
   },
   "en.tiktok": {
    "id": "6af3395c42d372a81f6538a8",
    "channel": "6af2d49862b70b94b0df5758",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-10T16:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T15:33:38+00:00"
+   "created": "2026-11-10T15:33:38+00:00",
+   "link": "https://tiktok.com/@congratsengineer/video/7706573079757049102",
+   "sentAt": "2026-11-10T16:02:17.491Z"
   },
   "ar.youtube": {
    "id": "6af3395e2d2fdb3b7de4e407",
    "channel": "6af2cd5262b70b94b0ded572",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-10T16:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T15:33:38+00:00"
+   "created": "2026-11-10T15:33:38+00:00",
+   "link": "https://www.youtube.com/shorts/E4Ohy56L-OA",
+   "sentAt": "2026-11-10T16:00:29.782Z"
   },
   "ar.instagram": {
    "id": "6af3395e2d2fdb3b7de4e472",
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-10T16:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T15:33:38+00:00"
+   "created": "2026-11-10T15:33:38+00:00",
+   "link": "https://www.instagram.com/reel/DfkSTghBIdA/",
+   "sentAt": "2026-11-10T16:01:35.395Z"
   },
   "ar.tiktok": {
    "id": "6af3395fe9e4a87f7b4ce7c9",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "error",
    "dueAt": "2026-11-10T16:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T15:33:38+00:00"
