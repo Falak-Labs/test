@@ -8,7 +8,9 @@
    "dueAt": "2026-11-10T07:32:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T06:47:02+00:00",
-   "moved": "2026-11-10T07:07:00+00:00"
+   "moved": "2026-11-10T07:07:00+00:00",
+   "link": "https://www.youtube.com/shorts/IN2l7ggvkEg",
+   "sentAt": "2026-11-10T07:16:01.811Z"
   },
   "en.instagram": {
    "id": "6af2bdf226f9e6aeeaece24a",
@@ -18,7 +20,9 @@
    "dueAt": "2026-11-10T07:32:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T06:47:02+00:00",
-   "moved": "2026-11-10T07:07:00+00:00"
+   "moved": "2026-11-10T07:07:00+00:00",
+   "link": "https://www.instagram.com/reel/DfjW2LDMqLO/",
+   "sentAt": "2026-11-10T07:22:57.510Z"
   },
   "en.tiktok": {
    "id": "6af2bdf2d35dff5701e42424",
@@ -37,28 +41,34 @@
    "id": "6af2d98907c5e29b2ea5d410",
    "channel": "6af2cd5262b70b94b0ded572",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-10T09:00:13.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T08:44:13+00:00"
+   "created": "2026-11-10T08:44:13+00:00",
+   "link": "https://www.youtube.com/shorts/eYwml4HY4Zo",
+   "sentAt": "2026-11-10T09:02:49.588Z"
   },
   "ar.instagram": {
    "id": "6af2d98a2224e5e623731a71",
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-10T09:00:13.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T08:44:13+00:00"
+   "created": "2026-11-10T08:44:13+00:00",
+   "link": "https://www.instagram.com/reel/DfjinPTBhk1/",
+   "sentAt": "2026-11-10T09:04:42.868Z"
   },
   "ar.tiktok": {
    "id": "6af2d98a1586e43ae33e88a0",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-10T09:00:13.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T08:44:13+00:00"
+   "created": "2026-11-10T08:44:13+00:00",
+   "link": "https://tiktok.com/@kef.tenbeni/video/7706465415173508365",
+   "sentAt": "2026-11-10T09:03:30.000Z"
   }
  }
 }
