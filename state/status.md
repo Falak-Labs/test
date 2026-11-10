@@ -1,4 +1,4 @@
-# Post status 2026-11-10T07:34:33+00:00
+# Post status 2026-11-10T07:42:26+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ep03-pool | en.tiktok | sent |  | 2026-11-10T07:33:42.147Z https://tiktok.com/@congratsengineer/video/7706442090397437198 |
 | ep03-pool | en.youtube | sent |  | 2026-11-10T07:16:01.811Z https://www.youtube.com/shorts/IN2l7ggvkEg |
 | ep04-coaster | en.instagram | sent |  | 2026-11-10T07:21:56.231Z https://www.instagram.com/reel/DfjW3HLqUvY/ |
-| ep04-coaster | en.tiktok | scheduled |  | 2026-11-10T07:42:00.000Z |
+| ep04-coaster | en.tiktok | sending |  | 2026-11-10T07:42:00.000Z |
 | ep04-coaster | en.youtube | sent |  | 2026-11-10T07:17:02.671Z https://www.youtube.com/shorts/dgWeJi8nGUE |
 | ep05-waterslide | en.instagram | sent |  | 2026-11-10T07:22:56.901Z https://www.instagram.com/reel/DfjW-NEP2ap/ |
 | ep05-waterslide | en.tiktok | scheduled |  | 2026-11-10T07:52:00.000Z |
