@@ -1,7 +1,7 @@
 episode: 20
 date: 2026-11-10
 at: "2026-11-10T18:10:00Z"   # YouTube + Instagram, one episode every 10 minutes
-hold: [en.youtube, en.instagram, en.tiktok, ar.youtube, ar.instagram, ar.tiktok]   # wait until Buffer's queue is done (max 10 at a time); TikTok decided later
+hold: [en.youtube, ar.youtube, en.tiktok, ar.tiktok]   # YouTube: after the channels are verified (daily upload limit); TikTok: the user decides later
 video:
   en: media/ep20-racecar-en.mp4
   ar: media/ep20-racecar-ar.mp4
