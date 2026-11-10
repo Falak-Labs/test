@@ -1,31 +1,12 @@
-/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
-  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
-loaded PerthNet (Implicit) at step 250,000
-model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
-/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
-  self.gen = func(*args, **kwds)
-The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-  L 1 seed 302    3.75s 12.3 l/s  ok  asr 21%  (37s)
-  L 2 seed 303    3.99s 11.5 l/s  ok  asr 13%  (38s)
-  L 3 seed 304    5.28s 13.1 l/s  ok  asr 15%  (46s)
-  L 4 seed 305    3.79s 11.9 l/s  ok  asr 20%  (36s)
-  L 5 seed 306    5.01s 11.6 l/s  stopped early  asr 12%  (44s)
-  L 5 seed 1306   4.02s 14.4 l/s  stopped early  asr 12%  (38s)
-  L 5 seed 2306   4.17s 13.9 l/s  stopped early, Whisper 33% off  asr 33%  (39s)
-  L 6 seed 307    3.00s 12.3 l/s  ok  asr 14%  (30s)
-  L 7 seed 308    9.16s 13.1 l/s  ok  asr 14%  (73s)
-  L 8 seed 309    3.93s  9.9 l/s  ok  asr 4%  (36s)
-  L 9 seed 310    5.65s 14.3 l/s  ok  asr 21%  (50s)
-  L10 seed 311    3.08s 13.3 l/s  ok  asr 9%  (32s)
-  L11 seed 312    3.70s 12.2 l/s  ok  asr 9%  (35s)
-  L12 seed 313    3.27s  8.9 l/s  ok  asr 9%  (31s)
-  L13 seed 314    2.94s 10.9 l/s  ok  asr 8%  (31s)
-  L14 seed 315    2.75s 10.5 l/s  ok  asr 7%  (29s)
-NAMAA Saudi built-in: 14 lines, 168 words, 63.20s (2.66 words/s), 635s -> series/voice/fireworks_ar_sa.wav  CHECK lines [5]
 fireworks_ar_sa: 66.30s, 1989 frames
-video done in 532s
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 474s
 audio done
 final out/fireworks_ar_sa/fireworks_ar_sa_final.mp4
-QA  duration 66.30s  loudness -14.0 LUFS  true peak -0.7 dBFS  1080x1920 @ 30/1  frames 1989
+QA  duration 66.30s  loudness -14.0 LUFS  true peak -1.7 dBFS  1080x1920 @ 30/1  frames 1989
 QA sheet out/fireworks_ar_sa/qa_sheet.png
