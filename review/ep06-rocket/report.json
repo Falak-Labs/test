@@ -1,0 +1,10 @@
+{
+ "slug": "ep06-rocket",
+ "kit": "rocket",
+ "langs": {
+  "en": {
+   "ok": false,
+   "error": "exit 1: /opt/hostedtoolcache/Python/3.12.16/x64/bin/python -I -u make.py episodes/rocket.py series/voice/rocket out/rocket"
+  }
+ }
+}

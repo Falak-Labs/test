@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/runner/work/test/test/kit/make.py", line 19, in <module>
+    from bik.render import render, mux, contact_sheet  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/test/test/kit/bik/render.py", line 5, in <module>
+    import skia
+ImportError: libEGL.so.1: cannot open shared object file: No such file or directory
