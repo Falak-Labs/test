@@ -1,4 +1,4 @@
-# Post status 2026-11-10T17:35:02+00:00
+# Post status 2026-11-10T18:23:12+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@
 | ep08-claw | en.tiktok | sent |  | 2026-11-10T16:10:45.348Z https://tiktok.com/@congratsengineer/video/7706575644141817101 |
 | ep08-claw | en.youtube | sent |  | 2026-11-10T16:10:03.818Z https://www.youtube.com/shorts/DzoD0nJiO6M |
 | ep09-submarine | ar.instagram | sent |  | 2026-11-10T16:21:08.167Z https://www.instagram.com/reel/DfkUj2nB91n/ |
-| ep09-submarine | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T18:10:00.000Z |
+| ep09-submarine | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T18:10:00.000Z |
 | ep09-submarine | ar.youtube | sent |  | 2026-11-10T16:20:11.362Z https://www.youtube.com/shorts/1mR_xeTolBY |
 | ep09-submarine | en.instagram | sent |  | 2026-11-10T16:23:07.769Z https://www.instagram.com/reel/DfkUjx9MB8Y/ |
 | ep09-submarine | en.tiktok | sent |  | 2026-11-10T16:20:51.400Z https://tiktok.com/@congratsengineer/video/7706578225341680910 |
@@ -64,45 +64,45 @@
 | ep10-toilet | en.youtube | sent |  | 2026-11-10T16:30:32.781Z https://www.youtube.com/shorts/zdZV6e-YG0w |
 | ep11-airplane | ar.instagram | sent |  | 2026-11-10T16:43:04.064Z https://www.instagram.com/reel/DfkW8ZJAUGA/ |
 | ep11-airplane | ar.tiktok | scheduled |  | 2026-11-10T19:35:16.000Z |
-| ep11-airplane | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:20:30.281Z |
+| ep11-airplane | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:43:40.257Z |
 | ep11-airplane | en.instagram | sent |  | 2026-11-10T16:43:02.605Z https://www.instagram.com/reel/DfkW2dOCruI/ |
 | ep11-airplane | en.tiktok | sent |  | 2026-11-10T16:40:49.996Z https://tiktok.com/@congratsengineer/video/7706583338705865997 |
-| ep11-airplane | en.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T16:40:00.000Z |
+| ep11-airplane | en.youtube | not listed |  | 2026-11-10T16:40:00.000Z |
 | ep12-fireworks | ar.instagram | sent |  | 2026-11-10T16:50:56.780Z https://www.instagram.com/reel/DfkX-i2hN9l/ |
 | ep12-fireworks | ar.tiktok | scheduled |  | 2026-11-10T20:15:16.000Z |
-| ep12-fireworks | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:20:40.440Z |
+| ep12-fireworks | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:43:29.437Z |
 | ep12-fireworks | en.instagram | sent |  | 2026-11-10T16:51:00.537Z https://www.instagram.com/reel/DfkX-n_hnVg/ |
 | ep12-fireworks | en.tiktok | sent |  | 2026-11-10T16:50:44.135Z https://tiktok.com/@congratsengineer/video/7706585981394210062 |
-| ep12-fireworks | en.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T16:50:00.000Z |
+| ep12-fireworks | en.youtube | not listed |  | 2026-11-10T16:50:00.000Z |
 | ep13-vault | ar.instagram | sent |  | 2026-11-10T17:01:58.958Z https://www.instagram.com/reel/DfkZO4whSgv/ |
 | ep13-vault | ar.tiktok | scheduled |  | 2026-11-10T20:55:16.000Z |
-| ep13-vault | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:00:00.000Z |
+| ep13-vault | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:48:57.147Z |
 | ep13-vault | en.instagram | sent |  | 2026-11-10T17:02:20.290Z https://www.instagram.com/reel/DfkZPeCRuka/ |
 | ep13-vault | en.tiktok | sent |  | 2026-11-10T17:04:00.913Z https://tiktok.com/@congratsengineer/video/7706588826172476685 |
-| ep13-vault | en.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:00:00.000Z |
+| ep13-vault | en.youtube | not listed |  | 2026-11-10T17:00:00.000Z |
 | ep14-aircon | ar.instagram | sent |  | 2026-11-10T17:12:22.703Z https://www.instagram.com/reel/DfkaaotRbha/ |
 | ep14-aircon | ar.tiktok | scheduled |  | 2026-11-10T21:35:16.000Z |
-| ep14-aircon | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:10:00.000Z |
+| ep14-aircon | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:43:26.682Z |
 | ep14-aircon | en.instagram | sent |  | 2026-11-10T17:12:21.621Z https://www.instagram.com/reel/DfkabskB9Ct/ |
 | ep14-aircon | en.tiktok | sent |  | 2026-11-10T17:11:16.402Z https://tiktok.com/@congratsengineer/video/7706591233061211406 |
-| ep14-aircon | en.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:10:00.000Z |
+| ep14-aircon | en.youtube | not listed |  | 2026-11-10T17:10:00.000Z |
 | ep15-station | ar.instagram | sent |  | 2026-11-10T17:23:04.842Z https://www.instagram.com/reel/Dfkbb_4hmaw/ |
 | ep15-station | ar.tiktok | scheduled |  | 2026-11-10T22:15:16.000Z |
-| ep15-station | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:20:00.000Z |
+| ep15-station | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:43:32.255Z |
 | ep15-station | en.instagram | sent |  | 2026-11-10T17:23:05.175Z https://www.instagram.com/reel/Dfkba08PI3w/ |
 | ep15-station | en.tiktok | sent |  | 2026-11-10T17:20:48.361Z https://tiktok.com/@congratsengineer/video/7706593643599105294 |
-| ep15-station | en.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:20:00.000Z |
+| ep15-station | en.youtube | not listed |  | 2026-11-10T17:20:00.000Z |
 | ep16-bridge | ar.instagram | sent |  | 2026-11-10T17:31:28.621Z https://www.instagram.com/reel/Dfkcm_ztD_E/ |
-| ep16-bridge | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:30:00.000Z |
+| ep16-bridge | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:43:36.119Z |
 | ep16-bridge | en.instagram | sent |  | 2026-11-10T17:31:33.915Z https://www.instagram.com/reel/DfkcmpfhAcV/ |
-| ep16-bridge | en.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:30:00.000Z |
-| ep17-vending | ar.instagram | scheduled |  | 2026-11-10T17:40:00.000Z |
-| ep17-vending | ar.youtube | scheduled |  | 2026-11-10T17:40:00.000Z |
-| ep17-vending | en.instagram | scheduled |  | 2026-11-10T17:40:00.000Z |
-| ep17-vending | en.youtube | scheduled |  | 2026-11-10T17:40:00.000Z |
-| ep18-metro | ar.instagram | scheduled |  | 2026-11-10T17:50:00.000Z |
-| ep18-metro | en.instagram | scheduled |  | 2026-11-10T17:50:00.000Z |
-| ep19-dam | ar.instagram | scheduled |  | 2026-11-10T18:00:00.000Z |
-| ep19-dam | en.instagram | scheduled |  | 2026-11-10T18:00:00.000Z |
-| ep20-racecar | ar.instagram | scheduled |  | 2026-11-10T18:10:00.000Z |
-| ep20-racecar | en.instagram | scheduled |  | 2026-11-10T18:10:00.000Z |
+| ep16-bridge | en.youtube | not listed |  | 2026-11-10T17:30:00.000Z |
+| ep17-vending | ar.instagram | sent |  | 2026-11-10T17:43:03.461Z https://www.instagram.com/reel/DfkdvCUOZLB/ |
+| ep17-vending | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:43:23.538Z |
+| ep17-vending | en.instagram | not listed |  | 2026-11-10T17:40:00.000Z |
+| ep17-vending | en.youtube | not listed |  | 2026-11-10T17:40:00.000Z |
+| ep18-metro | ar.instagram | sent |  | 2026-11-10T17:53:06.775Z https://www.instagram.com/reel/Dfke9mPAGFS/ |
+| ep18-metro | en.instagram | not listed |  | 2026-11-10T17:50:00.000Z |
+| ep19-dam | ar.instagram | sent |  | 2026-11-10T18:01:15.833Z https://www.instagram.com/reel/DfkgAqrtSJc/ |
+| ep19-dam | en.instagram | not listed |  | 2026-11-10T18:00:00.000Z |
+| ep20-racecar | ar.instagram | sent |  | 2026-11-10T18:11:38.935Z https://www.instagram.com/reel/DfkhNZ2h2RN/ |
+| ep20-racecar | en.instagram | not listed |  | 2026-11-10T18:10:00.000Z |

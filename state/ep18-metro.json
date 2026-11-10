@@ -4,7 +4,7 @@
    "id": "6af353d1341cea4af623bad8",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "not listed",
    "dueAt": "2026-11-10T17:50:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T17:26:38+00:00"
@@ -13,10 +13,12 @@
    "id": "6af353d21d932748c7ddc175",
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-10T17:50:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T17:26:38+00:00"
+   "created": "2026-11-10T17:26:38+00:00",
+   "link": "https://www.instagram.com/reel/Dfke9mPAGFS/",
+   "sentAt": "2026-11-10T17:53:06.775Z"
   }
  }
 }
