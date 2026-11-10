@@ -2,93 +2,1301 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 65.81,
- "words": 235,
- "words_per_sec": 3.57,
+ "duration": 66.24,
+ "words": 236,
+ "words_per_sec": 3.56,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
    "end": 4.562,
-   "text": "If you leave snacks on a shelf with a jar for the money, congrats, you just built a vending machine."
+   "text": "If you leave snacks on a shelf with a jar for the money, congrats, you just built a vending machine.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.32
+    },
+    {
+     "w": "you",
+     "start": 0.32,
+     "end": 0.51
+    },
+    {
+     "w": "leave",
+     "start": 0.51,
+     "end": 0.7
+    },
+    {
+     "w": "snacks",
+     "start": 0.7,
+     "end": 0.89
+    },
+    {
+     "w": "on",
+     "start": 0.89,
+     "end": 1.08
+    },
+    {
+     "w": "a",
+     "start": 1.08,
+     "end": 1.269
+    },
+    {
+     "w": "shelf",
+     "start": 1.269,
+     "end": 1.459
+    },
+    {
+     "w": "with",
+     "start": 1.459,
+     "end": 1.649
+    },
+    {
+     "w": "a",
+     "start": 1.649,
+     "end": 1.839
+    },
+    {
+     "w": "jar",
+     "start": 1.839,
+     "end": 2.029
+    },
+    {
+     "w": "for",
+     "start": 2.029,
+     "end": 2.219
+    },
+    {
+     "w": "the",
+     "start": 2.219,
+     "end": 2.409
+    },
+    {
+     "w": "money,",
+     "start": 2.409,
+     "end": 2.739
+    },
+    {
+     "w": "congrats,",
+     "start": 2.739,
+     "end": 3.07
+    },
+    {
+     "w": "you",
+     "start": 3.2,
+     "end": 3.371
+    },
+    {
+     "w": "just",
+     "start": 3.371,
+     "end": 3.542
+    },
+    {
+     "w": "built",
+     "start": 3.542,
+     "end": 3.713
+    },
+    {
+     "w": "a",
+     "start": 3.713,
+     "end": 3.884
+    },
+    {
+     "w": "vending",
+     "start": 3.884,
+     "end": 4.182
+    },
+    {
+     "w": "machine.",
+     "start": 4.182,
+     "end": 4.48
+    }
+   ]
   },
   {
    "line": 2,
    "start": 4.927,
    "end": 6.958,
-   "text": "But people take the snacks. And the jar."
+   "text": "But people take the snacks. And the jar.",
+   "words": [
+    {
+     "w": "But",
+     "start": 5.067,
+     "end": 5.267
+    },
+    {
+     "w": "people",
+     "start": 5.267,
+     "end": 5.467
+    },
+    {
+     "w": "take",
+     "start": 5.467,
+     "end": 5.667
+    },
+    {
+     "w": "the",
+     "start": 5.667,
+     "end": 5.867
+    },
+    {
+     "w": "snacks.",
+     "start": 5.867,
+     "end": 6.067
+    },
+    {
+     "w": "And",
+     "start": 6.117,
+     "end": 6.37
+    },
+    {
+     "w": "the",
+     "start": 6.37,
+     "end": 6.624
+    },
+    {
+     "w": "jar.",
+     "start": 6.624,
+     "end": 6.877
+    }
+   ]
   },
   {
    "line": 3,
    "start": 7.323,
-   "end": 14.906,
-   "text": "So you lock it behind glass, and add a coin slot that checks each coin's size and metal, and a bill reader that scans your cash with light, and hates wrinkles."
+   "end": 14.99,
+   "text": "So you lock it behind glass, add a coin slot that checks each coin for size and metal, and a bill reader that scans your cash with light, and hates wrinkles.",
+   "words": [
+    {
+     "w": "So",
+     "start": 7.433,
+     "end": 7.645
+    },
+    {
+     "w": "you",
+     "start": 7.645,
+     "end": 7.857
+    },
+    {
+     "w": "lock",
+     "start": 7.857,
+     "end": 8.069
+    },
+    {
+     "w": "it",
+     "start": 8.069,
+     "end": 8.282
+    },
+    {
+     "w": "behind",
+     "start": 8.282,
+     "end": 8.651
+    },
+    {
+     "w": "glass,",
+     "start": 8.651,
+     "end": 8.863
+    },
+    {
+     "w": "add",
+     "start": 8.983,
+     "end": 9.202
+    },
+    {
+     "w": "a",
+     "start": 9.202,
+     "end": 9.421
+    },
+    {
+     "w": "coin",
+     "start": 9.421,
+     "end": 9.64
+    },
+    {
+     "w": "slot",
+     "start": 9.64,
+     "end": 9.859
+    },
+    {
+     "w": "that",
+     "start": 9.859,
+     "end": 10.078
+    },
+    {
+     "w": "checks",
+     "start": 10.078,
+     "end": 10.297
+    },
+    {
+     "w": "each",
+     "start": 10.297,
+     "end": 10.516
+    },
+    {
+     "w": "coin",
+     "start": 10.516,
+     "end": 10.735
+    },
+    {
+     "w": "for",
+     "start": 10.735,
+     "end": 10.954
+    },
+    {
+     "w": "size",
+     "start": 10.954,
+     "end": 11.173
+    },
+    {
+     "w": "and",
+     "start": 11.173,
+     "end": 11.392
+    },
+    {
+     "w": "metal,",
+     "start": 11.392,
+     "end": 11.773
+    },
+    {
+     "w": "and",
+     "start": 11.923,
+     "end": 12.115
+    },
+    {
+     "w": "a",
+     "start": 12.115,
+     "end": 12.307
+    },
+    {
+     "w": "bill",
+     "start": 12.307,
+     "end": 12.498
+    },
+    {
+     "w": "reader",
+     "start": 12.498,
+     "end": 12.832
+    },
+    {
+     "w": "that",
+     "start": 12.832,
+     "end": 13.024
+    },
+    {
+     "w": "scans",
+     "start": 13.024,
+     "end": 13.216
+    },
+    {
+     "w": "your",
+     "start": 13.216,
+     "end": 13.408
+    },
+    {
+     "w": "cash",
+     "start": 13.408,
+     "end": 13.599
+    },
+    {
+     "w": "with",
+     "start": 13.599,
+     "end": 13.791
+    },
+    {
+     "w": "light,",
+     "start": 13.791,
+     "end": 13.983
+    },
+    {
+     "w": "and",
+     "start": 14.143,
+     "end": 14.319
+    },
+    {
+     "w": "hates",
+     "start": 14.319,
+     "end": 14.626
+    },
+    {
+     "w": "wrinkles.",
+     "start": 14.626,
+     "end": 14.933
+    }
+   ]
   },
   {
    "line": 4,
-   "start": 15.271,
-   "end": 19.208,
-   "text": "Now it gets paid, but the snacks are locked in too. You just paid to look at chips."
+   "start": 15.354,
+   "end": 19.292,
+   "text": "Now it gets paid, but the snacks are locked in too. You just paid to look at chips.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 15.454,
+     "end": 15.656
+    },
+    {
+     "w": "it",
+     "start": 15.656,
+     "end": 15.859
+    },
+    {
+     "w": "gets",
+     "start": 15.859,
+     "end": 16.061
+    },
+    {
+     "w": "paid,",
+     "start": 16.061,
+     "end": 16.264
+    },
+    {
+     "w": "but",
+     "start": 16.424,
+     "end": 16.607
+    },
+    {
+     "w": "the",
+     "start": 16.607,
+     "end": 16.791
+    },
+    {
+     "w": "snacks",
+     "start": 16.791,
+     "end": 16.974
+    },
+    {
+     "w": "are",
+     "start": 16.974,
+     "end": 17.158
+    },
+    {
+     "w": "locked",
+     "start": 17.158,
+     "end": 17.477
+    },
+    {
+     "w": "in",
+     "start": 17.477,
+     "end": 17.661
+    },
+    {
+     "w": "too.",
+     "start": 17.661,
+     "end": 17.844
+    },
+    {
+     "w": "You",
+     "start": 17.984,
+     "end": 18.161
+    },
+    {
+     "w": "just",
+     "start": 18.161,
+     "end": 18.338
+    },
+    {
+     "w": "paid",
+     "start": 18.338,
+     "end": 18.515
+    },
+    {
+     "w": "to",
+     "start": 18.515,
+     "end": 18.693
+    },
+    {
+     "w": "look",
+     "start": 18.693,
+     "end": 18.87
+    },
+    {
+     "w": "at",
+     "start": 18.87,
+     "end": 19.047
+    },
+    {
+     "w": "chips.",
+     "start": 19.047,
+     "end": 19.224
+    }
+   ]
   },
   {
    "line": 5,
-   "start": 19.573,
-   "end": 24.719,
-   "text": "So you sit every snack in a metal spiral: a motor turns it once, and the front snack walks off the edge."
+   "start": 19.656,
+   "end": 25.146,
+   "text": "So you sit every snack in a metal spiral with a motor: one full turn, and the front snack walks off the edge.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.766,
+     "end": 19.955
+    },
+    {
+     "w": "you",
+     "start": 19.955,
+     "end": 20.144
+    },
+    {
+     "w": "sit",
+     "start": 20.144,
+     "end": 20.333
+    },
+    {
+     "w": "every",
+     "start": 20.333,
+     "end": 20.803
+    },
+    {
+     "w": "snack",
+     "start": 20.803,
+     "end": 20.992
+    },
+    {
+     "w": "in",
+     "start": 20.992,
+     "end": 21.181
+    },
+    {
+     "w": "a",
+     "start": 21.181,
+     "end": 21.37
+    },
+    {
+     "w": "metal",
+     "start": 21.37,
+     "end": 21.699
+    },
+    {
+     "w": "spiral",
+     "start": 21.699,
+     "end": 22.029
+    },
+    {
+     "w": "with",
+     "start": 22.029,
+     "end": 22.218
+    },
+    {
+     "w": "a",
+     "start": 22.218,
+     "end": 22.407
+    },
+    {
+     "w": "motor:",
+     "start": 22.407,
+     "end": 22.736
+    },
+    {
+     "w": "one",
+     "start": 22.796,
+     "end": 22.966
+    },
+    {
+     "w": "full",
+     "start": 22.966,
+     "end": 23.136
+    },
+    {
+     "w": "turn,",
+     "start": 23.136,
+     "end": 23.306
+    },
+    {
+     "w": "and",
+     "start": 23.446,
+     "end": 23.648
+    },
+    {
+     "w": "the",
+     "start": 23.648,
+     "end": 23.851
+    },
+    {
+     "w": "front",
+     "start": 23.851,
+     "end": 24.054
+    },
+    {
+     "w": "snack",
+     "start": 24.054,
+     "end": 24.256
+    },
+    {
+     "w": "walks",
+     "start": 24.256,
+     "end": 24.458
+    },
+    {
+     "w": "off",
+     "start": 24.458,
+     "end": 24.661
+    },
+    {
+     "w": "the",
+     "start": 24.661,
+     "end": 24.864
+    },
+    {
+     "w": "edge.",
+     "start": 24.864,
+     "end": 25.066
+    }
+   ]
   },
   {
    "line": 6,
-   "start": 25.083,
-   "end": 28.198,
-   "text": "But the chips get stuck, hanging by one corner, mocking you."
+   "start": 25.51,
+   "end": 28.625,
+   "text": "But the chips get stuck, hanging by one corner, mocking you.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.65,
+     "end": 25.866
+    },
+    {
+     "w": "the",
+     "start": 25.866,
+     "end": 26.082
+    },
+    {
+     "w": "chips",
+     "start": 26.082,
+     "end": 26.298
+    },
+    {
+     "w": "get",
+     "start": 26.298,
+     "end": 26.514
+    },
+    {
+     "w": "stuck,",
+     "start": 26.514,
+     "end": 26.73
+    },
+    {
+     "w": "hanging",
+     "start": 26.89,
+     "end": 27.208
+    },
+    {
+     "w": "by",
+     "start": 27.208,
+     "end": 27.39
+    },
+    {
+     "w": "one",
+     "start": 27.39,
+     "end": 27.572
+    },
+    {
+     "w": "corner,",
+     "start": 27.572,
+     "end": 27.89
+    },
+    {
+     "w": "mocking",
+     "start": 28.03,
+     "end": 28.36
+    },
+    {
+     "w": "you.",
+     "start": 28.36,
+     "end": 28.55
+    }
+   ]
   },
   {
    "line": 7,
-   "start": 28.563,
-   "end": 34.875,
-   "text": "So you add invisible light beams across the bottom: if nothing falls through, the spiral turns again, or you get your money back."
+   "start": 28.99,
+   "end": 35.302,
+   "text": "So you add invisible light beams across the bottom: if nothing falls through, the spiral turns again, or you get your money back.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.1,
+     "end": 29.304
+    },
+    {
+     "w": "you",
+     "start": 29.304,
+     "end": 29.508
+    },
+    {
+     "w": "add",
+     "start": 29.508,
+     "end": 29.712
+    },
+    {
+     "w": "invisible",
+     "start": 29.712,
+     "end": 30.218
+    },
+    {
+     "w": "light",
+     "start": 30.218,
+     "end": 30.422
+    },
+    {
+     "w": "beams",
+     "start": 30.422,
+     "end": 30.626
+    },
+    {
+     "w": "across",
+     "start": 30.626,
+     "end": 30.981
+    },
+    {
+     "w": "the",
+     "start": 30.981,
+     "end": 31.185
+    },
+    {
+     "w": "bottom:",
+     "start": 31.185,
+     "end": 31.54
+    },
+    {
+     "w": "if",
+     "start": 31.66,
+     "end": 31.822
+    },
+    {
+     "w": "nothing",
+     "start": 31.822,
+     "end": 32.105
+    },
+    {
+     "w": "falls",
+     "start": 32.105,
+     "end": 32.268
+    },
+    {
+     "w": "through,",
+     "start": 32.268,
+     "end": 32.43
+    },
+    {
+     "w": "the",
+     "start": 32.5,
+     "end": 32.718
+    },
+    {
+     "w": "spiral",
+     "start": 32.718,
+     "end": 33.096
+    },
+    {
+     "w": "turns",
+     "start": 33.096,
+     "end": 33.314
+    },
+    {
+     "w": "again,",
+     "start": 33.314,
+     "end": 33.693
+    },
+    {
+     "w": "or",
+     "start": 33.693,
+     "end": 33.911
+    },
+    {
+     "w": "you",
+     "start": 33.911,
+     "end": 34.128
+    },
+    {
+     "w": "get",
+     "start": 34.128,
+     "end": 34.346
+    },
+    {
+     "w": "your",
+     "start": 34.346,
+     "end": 34.564
+    },
+    {
+     "w": "money",
+     "start": 34.564,
+     "end": 34.942
+    },
+    {
+     "w": "back.",
+     "start": 34.942,
+     "end": 35.16
+    }
+   ]
   },
   {
    "line": 8,
-   "start": 35.24,
-   "end": 40.479,
-   "text": "Now it's fair, until someone rocks the machine for a free snack. Bad idea: it weighs a quarter of a ton."
+   "start": 35.667,
+   "end": 40.906,
+   "text": "Now it's fair, until someone rocks the machine for a free snack. Bad idea: it weighs a quarter of a ton.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 35.767,
+     "end": 35.997
+    },
+    {
+     "w": "it's",
+     "start": 35.997,
+     "end": 36.227
+    },
+    {
+     "w": "fair,",
+     "start": 36.227,
+     "end": 36.457
+    },
+    {
+     "w": "until",
+     "start": 36.637,
+     "end": 36.955
+    },
+    {
+     "w": "someone",
+     "start": 36.955,
+     "end": 37.273
+    },
+    {
+     "w": "rocks",
+     "start": 37.273,
+     "end": 37.456
+    },
+    {
+     "w": "the",
+     "start": 37.456,
+     "end": 37.638
+    },
+    {
+     "w": "machine",
+     "start": 37.638,
+     "end": 37.956
+    },
+    {
+     "w": "for",
+     "start": 37.956,
+     "end": 38.139
+    },
+    {
+     "w": "a",
+     "start": 38.139,
+     "end": 38.322
+    },
+    {
+     "w": "free",
+     "start": 38.322,
+     "end": 38.504
+    },
+    {
+     "w": "snack.",
+     "start": 38.504,
+     "end": 38.687
+    },
+    {
+     "w": "Bad",
+     "start": 38.747,
+     "end": 38.946
+    },
+    {
+     "w": "idea:",
+     "start": 38.946,
+     "end": 39.294
+    },
+    {
+     "w": "it",
+     "start": 39.294,
+     "end": 39.493
+    },
+    {
+     "w": "weighs",
+     "start": 39.493,
+     "end": 39.692
+    },
+    {
+     "w": "a",
+     "start": 39.692,
+     "end": 39.892
+    },
+    {
+     "w": "quarter",
+     "start": 39.892,
+     "end": 40.239
+    },
+    {
+     "w": "of",
+     "start": 40.239,
+     "end": 40.438
+    },
+    {
+     "w": "a",
+     "start": 40.438,
+     "end": 40.638
+    },
+    {
+     "w": "ton.",
+     "start": 40.638,
+     "end": 40.837
+    }
+   ]
   },
   {
    "line": 9,
-   "start": 40.844,
-   "end": 45.823,
-   "text": "So you bolt it down, add a flap that blocks sneaky arms, and an alarm that screams when it tilts."
+   "start": 41.271,
+   "end": 46.25,
+   "text": "So you bolt it down, add a flap that blocks sneaky arms, and an alarm that screams when it tilts.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.381,
+     "end": 41.579
+    },
+    {
+     "w": "you",
+     "start": 41.579,
+     "end": 41.777
+    },
+    {
+     "w": "bolt",
+     "start": 41.777,
+     "end": 41.975
+    },
+    {
+     "w": "it",
+     "start": 41.975,
+     "end": 42.173
+    },
+    {
+     "w": "down,",
+     "start": 42.173,
+     "end": 42.371
+    },
+    {
+     "w": "add",
+     "start": 42.531,
+     "end": 42.761
+    },
+    {
+     "w": "a",
+     "start": 42.761,
+     "end": 42.991
+    },
+    {
+     "w": "flap",
+     "start": 42.991,
+     "end": 43.221
+    },
+    {
+     "w": "that",
+     "start": 43.221,
+     "end": 43.451
+    },
+    {
+     "w": "blocks",
+     "start": 43.451,
+     "end": 43.681
+    },
+    {
+     "w": "sneaky",
+     "start": 43.681,
+     "end": 44.081
+    },
+    {
+     "w": "arms,",
+     "start": 44.081,
+     "end": 44.311
+    },
+    {
+     "w": "and",
+     "start": 44.441,
+     "end": 44.64
+    },
+    {
+     "w": "an",
+     "start": 44.64,
+     "end": 44.839
+    },
+    {
+     "w": "alarm",
+     "start": 44.839,
+     "end": 45.186
+    },
+    {
+     "w": "that",
+     "start": 45.186,
+     "end": 45.385
+    },
+    {
+     "w": "screams",
+     "start": 45.385,
+     "end": 45.584
+    },
+    {
+     "w": "when",
+     "start": 45.584,
+     "end": 45.783
+    },
+    {
+     "w": "it",
+     "start": 45.783,
+     "end": 45.982
+    },
+    {
+     "w": "tilts.",
+     "start": 45.982,
+     "end": 46.181
+    }
+   ]
   },
   {
    "line": 10,
-   "start": 46.188,
-   "end": 49.646,
-   "text": "But before you pick a snack, follow, because next we're building a metro."
+   "start": 46.615,
+   "end": 50.073,
+   "text": "But before you pick a snack, follow, because next we're building a metro.",
+   "words": [
+    {
+     "w": "But",
+     "start": 46.765,
+     "end": 46.933
+    },
+    {
+     "w": "before",
+     "start": 46.933,
+     "end": 47.224
+    },
+    {
+     "w": "you",
+     "start": 47.224,
+     "end": 47.392
+    },
+    {
+     "w": "pick",
+     "start": 47.392,
+     "end": 47.56
+    },
+    {
+     "w": "a",
+     "start": 47.56,
+     "end": 47.727
+    },
+    {
+     "w": "snack,",
+     "start": 47.727,
+     "end": 47.895
+    },
+    {
+     "w": "follow,",
+     "start": 48.105,
+     "end": 48.435
+    },
+    {
+     "w": "because",
+     "start": 48.555,
+     "end": 48.862
+    },
+    {
+     "w": "next",
+     "start": 48.862,
+     "end": 49.038
+    },
+    {
+     "w": "we're",
+     "start": 49.038,
+     "end": 49.215
+    },
+    {
+     "w": "building",
+     "start": 49.215,
+     "end": 49.522
+    },
+    {
+     "w": "a",
+     "start": 49.522,
+     "end": 49.698
+    },
+    {
+     "w": "metro.",
+     "start": 49.698,
+     "end": 50.005
+    }
+   ]
   },
   {
    "line": 11,
-   "start": 50.01,
-   "end": 54.333,
-   "text": "Now just add a glowing front, a loud hum, and the one snack nobody ever buys."
+   "start": 50.438,
+   "end": 54.76,
+   "text": "Now just add a glowing front, a loud hum, and the one snack nobody ever buys.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 50.538,
+     "end": 50.735
+    },
+    {
+     "w": "just",
+     "start": 50.735,
+     "end": 50.933
+    },
+    {
+     "w": "add",
+     "start": 50.933,
+     "end": 51.13
+    },
+    {
+     "w": "a",
+     "start": 51.13,
+     "end": 51.327
+    },
+    {
+     "w": "glowing",
+     "start": 51.327,
+     "end": 51.671
+    },
+    {
+     "w": "front,",
+     "start": 51.671,
+     "end": 51.868
+    },
+    {
+     "w": "a",
+     "start": 52.058,
+     "end": 52.301
+    },
+    {
+     "w": "loud",
+     "start": 52.301,
+     "end": 52.545
+    },
+    {
+     "w": "hum,",
+     "start": 52.545,
+     "end": 52.788
+    },
+    {
+     "w": "and",
+     "start": 52.968,
+     "end": 53.156
+    },
+    {
+     "w": "the",
+     "start": 53.156,
+     "end": 53.343
+    },
+    {
+     "w": "one",
+     "start": 53.343,
+     "end": 53.531
+    },
+    {
+     "w": "snack",
+     "start": 53.531,
+     "end": 53.718
+    },
+    {
+     "w": "nobody",
+     "start": 53.718,
+     "end": 54.184
+    },
+    {
+     "w": "ever",
+     "start": 54.184,
+     "end": 54.51
+    },
+    {
+     "w": "buys.",
+     "start": 54.51,
+     "end": 54.698
+    }
+   ]
   },
   {
    "line": 12,
-   "start": 54.698,
-   "end": 57.833,
-   "text": "One machine, five hundred snacks, zero cashiers."
+   "start": 55.125,
+   "end": 58.26,
+   "text": "One machine, five hundred snacks, zero cashiers.",
+   "words": [
+    {
+     "w": "One",
+     "start": 55.225,
+     "end": 55.473
+    },
+    {
+     "w": "machine,",
+     "start": 55.473,
+     "end": 55.905
+    },
+    {
+     "w": "five",
+     "start": 56.085,
+     "end": 56.342
+    },
+    {
+     "w": "hundred",
+     "start": 56.342,
+     "end": 56.788
+    },
+    {
+     "w": "snacks,",
+     "start": 56.788,
+     "end": 57.045
+    },
+    {
+     "w": "zero",
+     "start": 57.185,
+     "end": 57.695
+    },
+    {
+     "w": "cashiers.",
+     "start": 57.695,
+     "end": 58.205
+    }
+   ]
   },
   {
    "line": 13,
-   "start": 58.198,
-   "end": 60.927,
-   "text": "And congrats, you just built a vending machine yourself."
+   "start": 58.625,
+   "end": 61.354,
+   "text": "And congrats, you just built a vending machine yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.735,
+     "end": 58.943
+    },
+    {
+     "w": "congrats,",
+     "start": 58.943,
+     "end": 59.305
+    },
+    {
+     "w": "you",
+     "start": 59.305,
+     "end": 59.514
+    },
+    {
+     "w": "just",
+     "start": 59.514,
+     "end": 59.722
+    },
+    {
+     "w": "built",
+     "start": 59.722,
+     "end": 59.93
+    },
+    {
+     "w": "a",
+     "start": 59.93,
+     "end": 60.138
+    },
+    {
+     "w": "vending",
+     "start": 60.138,
+     "end": 60.5
+    },
+    {
+     "w": "machine",
+     "start": 60.5,
+     "end": 60.863
+    },
+    {
+     "w": "yourself.",
+     "start": 60.863,
+     "end": 61.225
+    }
+   ]
   },
   {
    "line": 14,
-   "start": 61.292,
-   "end": 65.833,
-   "text": "And the chips in slot B4? Stuck since Tuesday. Buy another bag. Now two are stuck."
+   "start": 61.719,
+   "end": 66.26,
+   "text": "And the chips in slot B4? Stuck since Tuesday. Buy another bag. Now two are stuck.",
+   "words": [
+    {
+     "w": "And",
+     "start": 61.849,
+     "end": 62.096
+    },
+    {
+     "w": "the",
+     "start": 62.096,
+     "end": 62.342
+    },
+    {
+     "w": "chips",
+     "start": 62.342,
+     "end": 62.589
+    },
+    {
+     "w": "in",
+     "start": 62.589,
+     "end": 62.836
+    },
+    {
+     "w": "slot",
+     "start": 62.836,
+     "end": 63.082
+    },
+    {
+     "w": "B4?",
+     "start": 63.082,
+     "end": 63.329
+    },
+    {
+     "w": "Stuck",
+     "start": 63.499,
+     "end": 63.711
+    },
+    {
+     "w": "since",
+     "start": 63.711,
+     "end": 63.922
+    },
+    {
+     "w": "Tuesday.",
+     "start": 63.922,
+     "end": 64.291
+    },
+    {
+     "w": "Buy",
+     "start": 64.291,
+     "end": 64.502
+    },
+    {
+     "w": "another",
+     "start": 64.502,
+     "end": 65.027
+    },
+    {
+     "w": "bag.",
+     "start": 65.027,
+     "end": 65.239
+    },
+    {
+     "w": "Now",
+     "start": 65.399,
+     "end": 65.579
+    },
+    {
+     "w": "two",
+     "start": 65.579,
+     "end": 65.759
+    },
+    {
+     "w": "are",
+     "start": 65.759,
+     "end": 65.939
+    },
+    {
+     "w": "stuck.",
+     "start": 65.939,
+     "end": 66.119
+    }
+   ]
   }
  ]
 }
