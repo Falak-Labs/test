@@ -130,3 +130,15 @@
 - Review page for the user: https://claude.ai/artifact/CNbhyzqS3HDGTBVVneyLQG (generator kept only in the session:
   it embeds one thumbnail per build and links to falak-labs.github.io/test/media/<slug>-en.mp4 / -ar.mp4).
 - Waiting for his approval. Nothing is in posts/ for 6-20.
+
+## Posting day, Nov 10 (the user approved all 15 at 07:26 PT)
+- He asked for one episode every 10 minutes on all six channels, and for no more than 10 posts queued per channel
+  at once (Buffer free plan; failed posts count too). posts/*.yml now carry `at:` times and `hold:` lists.
+- TikTok, Arabic account: TikTok blocked builds 7, 8, 9 as "potential spam" at a 10-minute rhythm and again at
+  40 minutes (7 went through on the retry). 10-15 are parked at 2026-11-20 placeholders; 16-20 held. English TikTok
+  took 6-15 with no block (15 posts in 24 h).
+- YouTube: unverified channels take 10 uploads per 24 h; 11-17 failed, 18-20 held. Needs youtube.com/verify or a
+  re-post from Nov 11 16:50 UTC.
+- Buffer API: the EN account ran out of daily allowance at ~18:28 UTC (status polling in post.yml every 30 s for
+  8 minutes, several runs). post.yml now checks once.
+- New scripts: requeue.py (edit posts, also failed ones, to new times), find_posts.py (diagnostics).
