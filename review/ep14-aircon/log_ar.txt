@@ -1,32 +1,34 @@
 /opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
   deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
 loaded PerthNet (Implicit) at step 250,000
-model ready in 8s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
+model ready in 6s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
 /opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
   self.gen = func(*args, **kwds)
 The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
 WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-  L 1 seed 302    3.86s 10.4 l/s  ok  asr 10%  (25s)
-  L 2 seed 303    3.61s 13.0 l/s  ok  asr 10%  (23s)
-  L 3 seed 304    4.23s 13.7 l/s  ok  asr 11%  (26s)
-  L 4 seed 305    4.86s 12.3 l/s  ok  asr 10%  (29s)
-  L 5 seed 306    5.29s 11.2 l/s  ok  asr 13%  (31s)
-  L 6 seed 307    2.66s 12.0 l/s  ok  asr 8%  (18s)
-  L 7 seed 308    3.97s 15.1 l/s  stopped early, 15 letters/s  asr 27%  (25s)
-  L 7 seed 1308   3.94s 15.2 l/s  15 letters/s  asr 26%  (25s)
-  L 7 seed 2308   4.33s 13.9 l/s  ok  asr 18%  (27s)
-  L 8 seed 309    3.19s 14.4 l/s  ok  asr 18%  (20s)
-  L 9 seed 310    4.34s 13.8 l/s  stopped early  asr 14%  (27s)
-  L 9 seed 1310   4.60s 13.0 l/s  ok  asr 18%  (28s)
-  L10 seed 311    3.58s 12.6 l/s  ok  asr 9%  (22s)
-  L11 seed 312    3.99s 12.5 l/s  ok  asr 13%  (25s)
-  L12 seed 313    2.44s  8.2 l/s  ok  asr 18%  (16s)
-  L13 seed 314    2.42s  9.5 l/s  ok  asr 16%  (17s)
-  L14 seed 315    2.39s 12.1 l/s  ok  asr 8%  (18s)
-NAMAA Saudi built-in: 14 lines, 148 words, 55.35s (2.67 words/s), 414s -> series/voice/aircon_ar_sa.wav
-aircon_ar_sa: 58.45s, 1754 frames
-video done in 485s
+  L 5 seed 307    4.67s 13.5 l/s  stopped early  asr 6%  (32s)
+  L 5 seed 1307   5.25s 12.0 l/s  stopped early  asr 17%  (34s)
+  L 5 seed 2307   4.61s 13.7 l/s  ok  asr 17%  (32s)
+  L 6 seed 308    4.39s 11.6 l/s  ok  asr 20%  (30s)
+  L 7 seed 2309   4.27s 15.5 l/s  stopped early, 15 letters/s  asr 27%  (32s)
+  L 7 seed 3309   5.04s 13.1 l/s  ok  asr 21%  (34s)
+  L 9 seed 1311   4.98s 14.1 l/s  stopped early  asr 18%  (34s)
+  L 9 seed 2311   5.24s 13.4 l/s  stopped early  asr 21%  (35s)
+  L 9 seed 3311   5.31s 13.2 l/s  stopped early  asr 12%  (34s)
+  L11 seed 313    4.70s 12.1 l/s  ok  asr 19%  (31s)
+  L14 seed 316    3.10s 11.3 l/s  ok  asr 4%  (22s)
+NAMAA Saudi built-in: 14 lines, 163 words, 59.24s (2.75 words/s), 357s -> series/voice/aircon_ar_sa.wav  CHECK lines [9]
+aircon_ar_sa: 62.34s, 1870 frames
+unknown element "reset-dirs"
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 333s
 audio done
 final out/aircon_ar_sa/aircon_ar_sa_final.mp4
-QA  duration 58.47s  loudness -14.0 LUFS  true peak -1.8 dBFS  1080x1920 @ 30/1  frames 1754
+QA  duration 62.33s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 1870
 QA sheet out/aircon_ar_sa/qa_sheet.png
