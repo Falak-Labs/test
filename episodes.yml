@@ -15,3 +15,4 @@ episodes:
   - {slug: ep11-airplane, kit: airplane, look: 2}
   - {slug: ep12-fireworks, kit: fireworks, look: 2}
   - {slug: ep13-vault, kit: vault, look: 2}
+  - {slug: ep14-aircon, kit: aircon, look: 2}
