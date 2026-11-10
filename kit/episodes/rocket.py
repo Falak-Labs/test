@@ -297,14 +297,38 @@ class Rocket(EpisodeV2):
     SKY_ALT = {"pad": 0.0, "lz": 0.0, "sea": 0.0, "fall": 0.42, "fall2": 0.36, "space": 1.0}
     TITLE = {"en": "ROCKET", "ar_sa": "صاروخ"}
     EMPH = {"en": ["CONGRATS", "LANDS", "ITSELF", "CRATER", "FLIP", "TAIL", "TUMBLE", "FINS", "STEER", "STRONG", "ZERO",
-                   "TIPS", "LEGS", "CRUSH", "FOLLOW", "CASTLE", "TARGET", "NINE", "YOURSELF", "LOVE", "FEELINGS"]}
-    KEYS = {}
+                   "TIPS", "LEGS", "CRUSH", "FOLLOW", "CASTLE", "TARGET", "NINE", "YOURSELF", "LOVE", "FEELINGS"],
+            "ar_sa": ["مبروك", "بروحه", "حفرة", "تقلبه", "ذيله", "يتشقلب", "زعانف", "تسوقه", "قوي", "صفر", "ويطيح", "رجول",
+                      "حشوة", "تابعني", "قلعة", "هدف", "تسع", "بيدك", "أحبك", "مشاعر"]}
+    KEYS = {"ar_sa": {
+        ("hook", "LAUNCH"): "طيرت", ("hook", "WAIT"): "تستنى", ("hook", "CONGRATS"): "مبروك", ("hook", "LANDS"): "ينزل",
+        ("break1", "NOSE"): "خشمه", ("break1", "FASTER"): "أسرع", ("break1", "BULLET"): "الرصاصة", ("break1", "AND"): "ويخلي",
+        ("break1", "LAUNCH"): "منصة", ("break1", "CRATER"): "حفرة",
+        ("fix1", "GAS"): "بخاخات", ("fix1", "FLIP"): "تقلبه", ("fix1", "RELIGHT"): "وتشغل", ("fix1", "BRAKE"): "تفرمل",
+        ("fix1", "TAIL"): "ذيله",
+        ("break2", "AIR"): "الهوا", ("break2", "TUMBLE"): "يتشقلب", ("break2", "PENCIL"): "قلم",
+        ("fix2", "GRID"): "زعانف", ("fix2", "WAFFLE"): "وافل", ("fix2", "STEER"): "تسوقه", ("fix2", "DOWN"): "تحت",
+        ("break3", "STRONG"): "قوي", ("break3", "LOWEST"): "أوطى", ("break3", "PUSHES"): "يدف", ("break3", "UP"): "فوق",
+        ("fix3", "HOVER"): "يوقف", ("fix3", "BURN"): "وتشغله", ("fix3", "ZERO"): "صفر", ("fix3", "TOUCHES"): "يلمس",
+        ("break4", "SOFTLY"): "بشويش", ("break4", "TALL"): "طوله", ("break4", "TIPS"): "ويطيح",
+        ("fix4", "LEGS"): "رجول", ("fix4", "FOLD"): "تنفتح", ("fix4", "CRUSH"): "حشوة", ("fix4", "SOAK"): "وتمتص",
+        ("cta", "FOLLOW"): "تابعني",
+        ("reveal", "PARK"): "وقف", ("reveal", "DRAW"): "وارسم", ("reveal", "LAND"): "وانزل",
+        ("stat", "ONE"): "صاروخ", ("stat", "NINE"): "تسع", ("stat", "ZERO"): "وصفر",
+        ("closer", "CONGRATS"): "مبروك",
+        ("tag", "NAME"): "واسم", ("tag", "COURSE"): "أكيد", ("tag", "FEELINGS"): "مشاعر"}}
     TEXT = {"en": {"follow": ("FOLLOW", "next: a castle"),
                    "stat": [("1", "ROCKET"), ("9", "ENGINES"), ("0", "PILOTS")],
                    "L": {"yours": "YOUR ROCKET", "nose": "NOSE FIRST", "gas": "GAS THRUSTERS", "relit": "3 ENGINES RELIT",
                          "fins": "GRID FINS", "waffle": "NOT FOR WAFFLES", "throttle": "LOWEST POWER", "nohover": "NO HOVERING",
                          "burn": "ONE LAST BURN", "speed": "SPEED", "height": "HEIGHT", "touch": "TOUCHDOWN",
-                         "floors": "14 FLOORS", "legs": "LANDING LEGS", "crush": "CRUSH CORE"}}}
+                         "floors": "14 FLOORS", "legs": "LANDING LEGS", "crush": "CRUSH CORE"}},
+            "ar_sa": {"follow": ("تابعني", "الجاي: قلعة"),
+                      "stat": [("1", "صاروخ"), ("9", "محركات"), ("0", "طيارين")],
+                      "L": {"yours": "صاروخك", "nose": "على خشمه", "gas": "بخاخات غاز", "relit": "المحركات اشتغلت",
+                            "fins": "زعانف شبك", "waffle": "مو للوافل", "throttle": "أوطى قوة", "nohover": "ما يوقف بالهوا",
+                            "burn": "آخر تشغيلة", "speed": "السرعة", "height": "الارتفاع", "touch": "نزل بالسلامة",
+                            "floors": "أربعطعش دور", "legs": "رجول الهبوط", "crush": "حشوة تنعصر"}}}
     TAIL = 2.0
 
 
