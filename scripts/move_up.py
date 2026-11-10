@@ -23,7 +23,7 @@ def main():
         sys.exit(f"no Buffer key for {lang}")
     acc = post.Account(key, lang)
     queued = set()
-    for org in {ch["organizationId"] for ch in acc.channels.values()}:
+    for org in {ch["organizationId"] for ch in acc.all_channels}:
         queued |= {n.get("id") for n in acc.buf.posts(org, ["scheduled"])}
     post.log(f"{len(queued)} posts still queued in Buffer")
     files = sorted(f for f in os.listdir(os.path.join(post.ROOT, "posts")) if f.endswith(".yml"))

@@ -2,10 +2,13 @@
 keys:
   en: BUFFER_KEY_EN     # Buffer account 1: YouTube + Instagram + TikTok (English)
   ar: BUFFER_KEY_AR     # Buffer account 2: YouTube + Instagram + TikTok (Arabic)
+channels:               # the name each connected account must have in Buffer; a post is refused if none matches
+  en: {youtube: ["congrats engineer", "congratsengineer"], instagram: ["congratsengineer"], tiktok: ["congratsengineer"]}
+  ar: {youtube: ["كيف تبني", "kef"], instagram: ["kef.tenbeni", "kef"], tiktok: ["kef.tenbeni", "kef"]}
 times:                  # every post of an episode goes out on its "date" at this local time
   en: {zone: America/New_York, at: "19:00"}
   ar: {zone: Asia/Riyadh, at: "21:00"}
-every_days: 2           # at least this many days between two posts on the same channel (late posts queue up behind)
+every_days: 1           # at least this many days between two posts on the same channel (late posts queue up behind)
 youtube:
   categoryId: "27"      # Education
   madeForKids: false

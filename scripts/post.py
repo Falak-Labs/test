@@ -117,8 +117,9 @@ class Account:
 
     def __init__(self, key, lang):
         self.buf = Buffer(key, lang)
+        self.all_channels = self.buf.channels()
         self.channels = {}
-        for ch in self.buf.channels():
+        for ch in self.all_channels:
             self.channels.setdefault(ch["service"].lower(), ch)
         mf = self.buf.field("Mutation", "createPost")
         self.in_type = unwrap(next(a for a in mf["args"] if a["name"] == "input")["type"])["name"]
@@ -131,6 +132,22 @@ class Account:
         self.assets_list = t["kind"] == "LIST"
         self.asset_type = unwrap(assets["type"])["name"]
         self.post_types = self.buf.enum_values("PostType")
+
+    def pick(self, cfg, lang, platform):
+        """The connected channel for this platform whose name matches config.yml `channels` (so an English post can
+        never go to an Arabic account that happens to be connected to the same Buffer login). (channel, problem)"""
+        want = ((cfg.get("channels") or {}).get(lang) or {}).get(platform) or []
+        mine = [ch for ch in self.all_channels if ch["service"].lower() == platform]
+        if not mine:
+            return None, f"{platform} is not connected in the {lang} Buffer account"
+        if not want:
+            return mine[0], None
+        for ch in mine:
+            hay = " ".join(str(ch.get(k) or "") for k in ("name", "displayName")).lower()
+            if any(w.lower() in hay for w in want):
+                return ch, None
+        names = ", ".join(str(ch.get("displayName") or ch.get("name")) for ch in mine)
+        return None, f"the {platform} account connected to the {lang} Buffer login is '{names}', not the {lang} one"
 
     def video_assets(self, url):
         names = {f["name"] for f in self.buf.type(self.asset_type).get("inputFields") or []}
@@ -245,9 +262,9 @@ def main():
                 if not video or not os.path.exists(os.path.join(ROOT, video)):
                     log(f"{slug} {tgt}: waiting for the video {video}")
                     break
-                ch = acc.channels.get(platform)
+                ch, problem = acc.pick(cfg, lang, platform)
                 if not ch:
-                    log(f"{slug} {tgt}: {platform} is not connected in the {lang} Buffer account - skipped")
+                    log(f"{slug} {tgt}: {problem} - skipped")
                     continue
                 if done.get("tries", 0) >= 3:
                     log(f"{slug} {tgt}: failed 3 times, not retrying (last error: {done.get('error')})")
