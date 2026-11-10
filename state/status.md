@@ -1,4 +1,4 @@
-# Post status 2026-11-10T16:17:36+00:00
+# Post status 2026-11-10T16:27:21+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@
 | ep08-claw | en.instagram | sent |  | 2026-11-10T16:10:59.212Z https://www.instagram.com/reel/DfkTZtoSRM5/ |
 | ep08-claw | en.tiktok | sent |  | 2026-11-10T16:10:45.348Z https://tiktok.com/@congratsengineer/video/7706575644141817101 |
 | ep08-claw | en.youtube | sent |  | 2026-11-10T16:10:03.818Z https://www.youtube.com/shorts/DzoD0nJiO6M |
-| ep09-submarine | ar.instagram | scheduled |  | 2026-11-10T16:20:00.000Z |
-| ep09-submarine | ar.tiktok | scheduled |  | 2026-11-10T16:20:00.000Z |
-| ep09-submarine | ar.youtube | scheduled |  | 2026-11-10T16:20:00.000Z |
-| ep09-submarine | en.instagram | scheduled |  | 2026-11-10T16:20:00.000Z |
-| ep09-submarine | en.tiktok | scheduled |  | 2026-11-10T16:20:00.000Z |
-| ep09-submarine | en.youtube | scheduled |  | 2026-11-10T16:20:00.000Z |
+| ep09-submarine | ar.instagram | sent |  | 2026-11-10T16:21:08.167Z https://www.instagram.com/reel/DfkUj2nB91n/ |
+| ep09-submarine | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-10T16:20:00.000Z |
+| ep09-submarine | ar.youtube | sent |  | 2026-11-10T16:20:11.362Z https://www.youtube.com/shorts/1mR_xeTolBY |
+| ep09-submarine | en.instagram | sent |  | 2026-11-10T16:23:07.769Z https://www.instagram.com/reel/DfkUjx9MB8Y/ |
+| ep09-submarine | en.tiktok | sent |  | 2026-11-10T16:20:51.400Z https://tiktok.com/@congratsengineer/video/7706578225341680910 |
+| ep09-submarine | en.youtube | sent |  | 2026-11-10T16:20:11.482Z https://www.youtube.com/shorts/grPQCgleIig |
 | ep10-toilet | ar.instagram | scheduled |  | 2026-11-10T16:30:00.000Z |
 | ep10-toilet | ar.tiktok | scheduled |  | 2026-11-10T16:30:00.000Z |
 | ep10-toilet | ar.youtube | scheduled |  | 2026-11-10T16:30:00.000Z |
