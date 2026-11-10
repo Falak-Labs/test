@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.81,
+ "words": 235,
+ "words_per_sec": 3.57,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.562,
+   "text": "If you leave snacks on a shelf with a jar for the money, congrats, you just built a vending machine."
+  },
+  {
+   "line": 2,
+   "start": 4.927,
+   "end": 6.958,
+   "text": "But people take the snacks. And the jar."
+  },
+  {
+   "line": 3,
+   "start": 7.323,
+   "end": 14.906,
+   "text": "So you lock it behind glass, and add a coin slot that checks each coin's size and metal, and a bill reader that scans your cash with light, and hates wrinkles."
+  },
+  {
+   "line": 4,
+   "start": 15.271,
+   "end": 19.208,
+   "text": "Now it gets paid, but the snacks are locked in too. You just paid to look at chips."
+  },
+  {
+   "line": 5,
+   "start": 19.573,
+   "end": 24.719,
+   "text": "So you sit every snack in a metal spiral: a motor turns it once, and the front snack walks off the edge."
+  },
+  {
+   "line": 6,
+   "start": 25.083,
+   "end": 28.198,
+   "text": "But the chips get stuck, hanging by one corner, mocking you."
+  },
+  {
+   "line": 7,
+   "start": 28.563,
+   "end": 34.875,
+   "text": "So you add invisible light beams across the bottom: if nothing falls through, the spiral turns again, or you get your money back."
+  },
+  {
+   "line": 8,
+   "start": 35.24,
+   "end": 40.479,
+   "text": "Now it's fair, until someone rocks the machine for a free snack. Bad idea: it weighs a quarter of a ton."
+  },
+  {
+   "line": 9,
+   "start": 40.844,
+   "end": 45.823,
+   "text": "So you bolt it down, add a flap that blocks sneaky arms, and an alarm that screams when it tilts."
+  },
+  {
+   "line": 10,
+   "start": 46.188,
+   "end": 49.646,
+   "text": "But before you pick a snack, follow, because next we're building a metro."
+  },
+  {
+   "line": 11,
+   "start": 50.01,
+   "end": 54.333,
+   "text": "Now just add a glowing front, a loud hum, and the one snack nobody ever buys."
+  },
+  {
+   "line": 12,
+   "start": 54.698,
+   "end": 57.833,
+   "text": "One machine, five hundred snacks, zero cashiers."
+  },
+  {
+   "line": 13,
+   "start": 58.198,
+   "end": 60.927,
+   "text": "And congrats, you just built a vending machine yourself."
+  },
+  {
+   "line": 14,
+   "start": 61.292,
+   "end": 65.833,
+   "text": "And the chips in slot B4? Stuck since Tuesday. Buy another bag. Now two are stuck."
+  }
+ ]
+}

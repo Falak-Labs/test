@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 67.42,
+ "words": 232,
+ "words_per_sec": 3.44,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.031,
+   "text": "If you block a river with a pile of rocks, congrats, you just built a dam."
+  },
+  {
+   "line": 2,
+   "start": 4.396,
+   "end": 9.615,
+   "text": "But the lake gets deeper every day, and deeper water pushes harder, until it shoves your pile downstream."
+  },
+  {
+   "line": 3,
+   "start": 9.979,
+   "end": 17.302,
+   "text": "So you build it in concrete, thickest at the bottom, where the push is strongest, and curved like an arch, so the lake squeezes it into the canyon walls."
+  },
+  {
+   "line": 4,
+   "start": 17.667,
+   "end": 21.531,
+   "text": "Now it holds, but all that water is doing nothing, like a teenager in summer."
+  },
+  {
+   "line": 5,
+   "start": 21.896,
+   "end": 28.396,
+   "text": "So you run giant pipes called penstocks through the wall, and the falling water spins turbines that turn generators. That's electricity."
+  },
+  {
+   "line": 6,
+   "start": 28.76,
+   "end": 33.354,
+   "text": "But then a storm fills the lake to the brim, and your dam becomes a very expensive waterfall."
+  },
+  {
+   "line": 7,
+   "start": 33.719,
+   "end": 39.635,
+   "text": "So you add spillways: giant gates and chutes that let the extra water out, big enough to swallow Niagara Falls. Twice."
+  },
+  {
+   "line": 8,
+   "start": 40.0,
+   "end": 43.583,
+   "text": "Now it's safe, until the salmon swim home to lay their eggs, and hit a wall."
+  },
+  {
+   "line": 9,
+   "start": 43.948,
+   "end": 48.417,
+   "text": "So you build a fish ladder: a staircase of little pools they jump up, one step at a time."
+  },
+  {
+   "line": 10,
+   "start": 48.781,
+   "end": 52.427,
+   "text": "But before you flip the switch, follow, because next we're building a race car."
+  },
+  {
+   "line": 11,
+   "start": 52.792,
+   "end": 56.438,
+   "text": "Now just add power lines, a road across the top, and a gift shop."
+  },
+  {
+   "line": 12,
+   "start": 56.802,
+   "end": 60.167,
+   "text": "One wall, seventeen turbines, power for a million people."
+  },
+  {
+   "line": 13,
+   "start": 60.531,
+   "end": 62.854,
+   "text": "And congrats, you just built a dam yourself."
+  },
+  {
+   "line": 14,
+   "start": 63.219,
+   "end": 67.438,
+   "text": "And the lazy fish? Some dams have a fish elevator. That's real. We checked."
+  }
+ ]
+}

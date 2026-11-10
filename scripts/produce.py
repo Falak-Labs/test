@@ -70,8 +70,9 @@ def make(slug, kit, langs, look):
     for sub in ("media", "review", "voice"):
         os.makedirs(os.path.join(dst, sub), exist_ok=True)
     env = dict(os.environ)
-    if int(look) >= 2:
-        env.setdefault("BIK_CRF", "23")
+    if int(look) >= 2:                                   # new format: fine grain needs a stronger encode to stay ~23 MB
+        env.setdefault("BIK_CRF", "24")
+        env.setdefault("BIK_PRESET", "medium")
     report = {"slug": slug, "kit": kit, "langs": {}}
     failed = False
     for lang in langs.split(","):
@@ -119,6 +120,16 @@ def make(slug, kit, langs, look):
                 rep["voice_lines_flagged"] = bad
             rep["issues"] = issues
             final = glob.glob(os.path.join(KIT, outdir, "*_final.mp4"))[0]
+            if lang == "en":                             # can the words still be understood under the sound effects?
+                try:
+                    mixlog = []
+                    mt = run([sys.executable, "-I", "-u", "tools/verify_mix.py", vo, outdir], mixlog, env)
+                    mm = re.search(r"overall word error rate: (\d+)/(\d+)", mt)
+                    if mm:
+                        rep["mix_word_errors"] = f"{mm.group(1)}/{mm.group(2)}"
+                    rep["mix_lines_off"] = [l.strip()[:160] for l in mt.splitlines() if re.match(r"^L\s*\d+\s+\d+ diff", l)]
+                except Exception as e:  # noqa: BLE001
+                    rep["mix_check"] = "not run: " + str(e)[:120]
             rep["size_mb"] = round(os.path.getsize(final) / 1e6, 1)
             shutil.copy(os.path.join(KIT, outdir, "qa_sheet.png"), os.path.join(dst, "review", f"qa_{lang}.png"))
             if not issues:

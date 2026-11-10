@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 64.61,
+ "words": 232,
+ "words_per_sec": 3.59,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.25,
+   "text": "If you seal up a barrel and roll it into the sea, congrats, you just built a submarine."
+  },
+  {
+   "line": 2,
+   "start": 4.615,
+   "end": 8.312,
+   "text": "But it floats like a cork, and you just bob around, waving at seagulls."
+  },
+  {
+   "line": 3,
+   "start": 8.677,
+   "end": 15.135,
+   "text": "So you add ballast tanks: open the vents, seawater floods in, and you sink. Blow it out with compressed air, and you rise."
+  },
+  {
+   "line": 4,
+   "start": 15.5,
+   "end": 19.375,
+   "text": "Now you can dive, until the deep water squeezes your barrel like a soda can."
+  },
+  {
+   "line": 5,
+   "start": 19.74,
+   "end": 25.458,
+   "text": "So you build a pressure hull: a thick steel tube with rounded ends, braced by steel rings, so the squeeze spreads evenly."
+  },
+  {
+   "line": 6,
+   "start": 25.823,
+   "end": 29.656,
+   "text": "But it's dark down there, you have no windows, and you just drove into a mountain."
+  },
+  {
+   "line": 7,
+   "start": 30.021,
+   "end": 35.125,
+   "text": "So you add sonar, which sends out a ping and listens for the echo, and a periscope for a peek at the surface."
+  },
+  {
+   "line": 8,
+   "start": 35.49,
+   "end": 39.469,
+   "text": "Now you can find your way, until the air goes stale, and the whole crew gets a headache."
+  },
+  {
+   "line": 9,
+   "start": 39.833,
+   "end": 46.167,
+   "text": "So you add scrubbers that soak up the carbon dioxide, and a machine that splits water into oxygen. Now only the food can run out."
+  },
+  {
+   "line": 10,
+   "start": 46.531,
+   "end": 49.698,
+   "text": "But before you dive, follow, because next we're building a toilet."
+  },
+  {
+   "line": 11,
+   "start": 50.063,
+   "end": 53.688,
+   "text": "Now just add a propeller, paint it black, and tell nobody where you parked it."
+  },
+  {
+   "line": 12,
+   "start": 54.052,
+   "end": 57.094,
+   "text": "One hull, over a hundred sailors, zero windows."
+  },
+  {
+   "line": 13,
+   "start": 57.458,
+   "end": 60.094,
+   "text": "And congrats, you just built a submarine yourself."
+  },
+  {
+   "line": 14,
+   "start": 60.458,
+   "end": 64.635,
+   "text": "And the periscope? New subs steer it with a game controller. Tell your mom it's training."
+  }
+ ]
+}

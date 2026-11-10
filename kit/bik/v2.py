@@ -704,11 +704,14 @@ def stat_card(c, x, y, big, small, p, accent=INK, w=290, h=250):
     glass(c, -w / 2, -h / 2, w, h, r=30, a=a)
     c.drawRRect(rr(-w / 2 + 22, -h / 2 + 18, w - 44, 6, 3), P(accent, 0.9 * a))
     ar = is_ar(small)
-    text(c, big, 0, 34, 138, accent, "Poppins-Black", a=a)
+    bs = min(138.0, 138.0 * (w - 44) / max(1.0, text_width(big, 138, "Poppins-Black")))      # long numbers shrink to fit
+    text(c, big, 0, 34 - (138 - bs) * 0.30, bs, accent, "Poppins-Black", a=a)
     if ar:
-        text_ar(c, small, 0, 96, 44, INK, "Tajawal-Bold", a=a)
+        ss = min(44.0, 44.0 * (w - 36) / max(1.0, width_ar(small, 44, "Tajawal-Bold")))
+        text_ar(c, small, 0, 96, ss, INK, "Tajawal-Bold", a=a)
     else:
-        text(c, small, 0, 92, 36, INK, "Poppins-Bold", a=a)
+        ss = min(36.0, 36.0 * (w - 36) / max(1.0, text_width(small, 36, "Poppins-Bold")))
+        text(c, small, 0, 92, ss, INK, "Poppins-Bold", a=a)
     c.restore()
 
 

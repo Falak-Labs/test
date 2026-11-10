@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 66.49,
+ "words": 236,
+ "words_per_sec": 3.55,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.979,
+   "text": "If you dig a tunnel and push a wagon through it, congrats, you just built a metro."
+  },
+  {
+   "line": 2,
+   "start": 4.344,
+   "end": 10.573,
+   "text": "But pushing is slow, and steam engines fill the tunnel with smoke. The first metro used them anyway. Riders arrived lightly smoked."
+  },
+  {
+   "line": 3,
+   "start": 10.938,
+   "end": 16.469,
+   "text": "So you go electric: a third rail beside the track carries the power, and metal shoes on the train feed it to the motors."
+  },
+  {
+   "line": 4,
+   "start": 16.833,
+   "end": 20.125,
+   "text": "Now it's fast, until one train catches up with another in the dark."
+  },
+  {
+   "line": 5,
+   "start": 20.49,
+   "end": 26.875,
+   "text": "So you add beacons in the track, a radio on every train, and a computer that keeps a safe gap between them. No driver needed."
+  },
+  {
+   "line": 6,
+   "start": 27.24,
+   "end": 30.99,
+   "text": "But on a crowded platform, somebody always stands too close to the edge."
+  },
+  {
+   "line": 7,
+   "start": 31.354,
+   "end": 36.542,
+   "text": "So you add a glass wall along the platform, with doors that only open once a train stops right behind them."
+  },
+  {
+   "line": 8,
+   "start": 36.906,
+   "end": 41.052,
+   "text": "Now it's safe, until one train stops between stations, and it gets hot and stuffy."
+  },
+  {
+   "line": 9,
+   "start": 41.417,
+   "end": 45.927,
+   "text": "So you add giant fans, air shafts up to the street, and a lit walkway to the next station."
+  },
+  {
+   "line": 10,
+   "start": 46.292,
+   "end": 49.875,
+   "text": "But before you tap your card, follow, because next we're building a dam."
+  },
+  {
+   "line": 11,
+   "start": 50.24,
+   "end": 54.469,
+   "text": "Now just add a map of colored lines, and a calm voice that says, \"Mind the gap.\""
+  },
+  {
+   "line": 12,
+   "start": 54.833,
+   "end": 58.125,
+   "text": "One tunnel, a train every two minutes, zero drivers."
+  },
+  {
+   "line": 13,
+   "start": 58.49,
+   "end": 61.448,
+   "text": "And congrats, you just built a driverless metro yourself."
+  },
+  {
+   "line": 14,
+   "start": 61.813,
+   "end": 66.5,
+   "text": "And the guy holding the doors? Every train behind him is waiting. His friend is still buying a ticket."
+  }
+ ]
+}

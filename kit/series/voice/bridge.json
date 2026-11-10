@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.68,
+ "words": 222,
+ "words_per_sec": 3.38,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.469,
+   "text": "If you lay a plank across a river, congrats, you just built a bridge."
+  },
+  {
+   "line": 2,
+   "start": 3.833,
+   "end": 7.344,
+   "text": "But the river is a mile wide, and your plank snaps and goes swimming."
+  },
+  {
+   "line": 3,
+   "start": 7.708,
+   "end": 13.698,
+   "text": "So you build two towers, drape two main cables over them, and hang the road on steel hangers, like laundry on a clothesline."
+  },
+  {
+   "line": 4,
+   "start": 14.062,
+   "end": 18.177,
+   "text": "Now it hangs, until the cables yank their ends out of the ground, like tent pegs."
+  },
+  {
+   "line": 5,
+   "start": 18.542,
+   "end": 24.865,
+   "text": "So you fan each cable into strands, hook them onto eyebars, and bury those in an anchorage: sixty thousand tons of concrete."
+  },
+  {
+   "line": 6,
+   "start": 25.229,
+   "end": 31.115,
+   "text": "But then the wind makes the road gallop. In nineteen forty, drivers came to ride a bridge like that, until it twisted apart."
+  },
+  {
+   "line": 7,
+   "start": 31.479,
+   "end": 36.479,
+   "text": "So you stiffen the deck with a steel truss, or shape it into a streamlined box the wind slides past."
+  },
+  {
+   "line": 8,
+   "start": 36.844,
+   "end": 40.635,
+   "text": "Now it's steady, until a hot day makes the steel grow, and the road buckles."
+  },
+  {
+   "line": 9,
+   "start": 41.0,
+   "end": 46.0,
+   "text": "So you cut gaps called expansion joints, covered by steel fingers that slide together like two combs."
+  },
+  {
+   "line": 10,
+   "start": 46.365,
+   "end": 50.198,
+   "text": "But before you cut the ribbon, follow, because next we're building a vending machine."
+  },
+  {
+   "line": 11,
+   "start": 50.562,
+   "end": 54.844,
+   "text": "Now just paint it orange. The navy asked for black and yellow stripes, like a giant bee."
+  },
+  {
+   "line": 12,
+   "start": 55.208,
+   "end": 58.344,
+   "text": "One bridge, two towers, fifty-five thousand wires."
+  },
+  {
+   "line": 13,
+   "start": 58.708,
+   "end": 61.625,
+   "text": "And congrats, you just built a suspension bridge yourself."
+  },
+  {
+   "line": 14,
+   "start": 61.99,
+   "end": 65.688,
+   "text": "And the paint job? Started in nineteen thirty-seven. Still not done."
+  }
+ ]
+}

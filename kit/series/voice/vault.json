@@ -1,0 +1,1297 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 62.33,
+ "words": 235,
+ "words_per_sec": 3.77,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.073,
+   "text": "If you put your money in a box and lock it, congrats, you just built a bank vault.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.319
+    },
+    {
+     "w": "you",
+     "start": 0.319,
+     "end": 0.508
+    },
+    {
+     "w": "put",
+     "start": 0.508,
+     "end": 0.697
+    },
+    {
+     "w": "your",
+     "start": 0.697,
+     "end": 0.887
+    },
+    {
+     "w": "money",
+     "start": 0.887,
+     "end": 1.216
+    },
+    {
+     "w": "in",
+     "start": 1.216,
+     "end": 1.405
+    },
+    {
+     "w": "a",
+     "start": 1.405,
+     "end": 1.594
+    },
+    {
+     "w": "box",
+     "start": 1.594,
+     "end": 1.783
+    },
+    {
+     "w": "and",
+     "start": 1.783,
+     "end": 1.972
+    },
+    {
+     "w": "lock",
+     "start": 1.972,
+     "end": 2.162
+    },
+    {
+     "w": "it,",
+     "start": 2.162,
+     "end": 2.351
+    },
+    {
+     "w": "congrats,",
+     "start": 2.351,
+     "end": 2.68
+    },
+    {
+     "w": "you",
+     "start": 2.82,
+     "end": 3.018
+    },
+    {
+     "w": "just",
+     "start": 3.018,
+     "end": 3.217
+    },
+    {
+     "w": "built",
+     "start": 3.217,
+     "end": 3.415
+    },
+    {
+     "w": "a",
+     "start": 3.415,
+     "end": 3.613
+    },
+    {
+     "w": "bank",
+     "start": 3.613,
+     "end": 3.812
+    },
+    {
+     "w": "vault.",
+     "start": 3.812,
+     "end": 4.01
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.438,
+   "end": 7.958,
+   "text": "But a thief picks up the box and walks off. You even packed it for him.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.568,
+     "end": 4.767
+    },
+    {
+     "w": "a",
+     "start": 4.767,
+     "end": 4.966
+    },
+    {
+     "w": "thief",
+     "start": 4.966,
+     "end": 5.165
+    },
+    {
+     "w": "picks",
+     "start": 5.165,
+     "end": 5.364
+    },
+    {
+     "w": "up",
+     "start": 5.364,
+     "end": 5.563
+    },
+    {
+     "w": "the",
+     "start": 5.563,
+     "end": 5.762
+    },
+    {
+     "w": "box",
+     "start": 5.762,
+     "end": 5.961
+    },
+    {
+     "w": "and",
+     "start": 5.961,
+     "end": 6.16
+    },
+    {
+     "w": "walks",
+     "start": 6.16,
+     "end": 6.359
+    },
+    {
+     "w": "off.",
+     "start": 6.359,
+     "end": 6.558
+    },
+    {
+     "w": "You",
+     "start": 6.718,
+     "end": 6.874
+    },
+    {
+     "w": "even",
+     "start": 6.874,
+     "end": 7.147
+    },
+    {
+     "w": "packed",
+     "start": 7.147,
+     "end": 7.419
+    },
+    {
+     "w": "it",
+     "start": 7.419,
+     "end": 7.575
+    },
+    {
+     "w": "for",
+     "start": 7.575,
+     "end": 7.732
+    },
+    {
+     "w": "him.",
+     "start": 7.732,
+     "end": 7.888
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.323,
+   "end": 13.083,
+   "text": "So you make the box a room, with concrete walls a foot and a half thick and steel bars inside.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.433,
+     "end": 8.614
+    },
+    {
+     "w": "you",
+     "start": 8.614,
+     "end": 8.796
+    },
+    {
+     "w": "make",
+     "start": 8.796,
+     "end": 8.977
+    },
+    {
+     "w": "the",
+     "start": 8.977,
+     "end": 9.159
+    },
+    {
+     "w": "box",
+     "start": 9.159,
+     "end": 9.34
+    },
+    {
+     "w": "a",
+     "start": 9.34,
+     "end": 9.522
+    },
+    {
+     "w": "room,",
+     "start": 9.522,
+     "end": 9.703
+    },
+    {
+     "w": "with",
+     "start": 9.853,
+     "end": 10.069
+    },
+    {
+     "w": "concrete",
+     "start": 10.069,
+     "end": 10.445
+    },
+    {
+     "w": "walls",
+     "start": 10.445,
+     "end": 10.662
+    },
+    {
+     "w": "a",
+     "start": 10.662,
+     "end": 10.878
+    },
+    {
+     "w": "foot",
+     "start": 10.878,
+     "end": 11.094
+    },
+    {
+     "w": "and",
+     "start": 11.094,
+     "end": 11.31
+    },
+    {
+     "w": "a",
+     "start": 11.31,
+     "end": 11.526
+    },
+    {
+     "w": "half",
+     "start": 11.526,
+     "end": 11.742
+    },
+    {
+     "w": "thick",
+     "start": 11.742,
+     "end": 11.958
+    },
+    {
+     "w": "and",
+     "start": 11.958,
+     "end": 12.174
+    },
+    {
+     "w": "steel",
+     "start": 12.174,
+     "end": 12.391
+    },
+    {
+     "w": "bars",
+     "start": 12.391,
+     "end": 12.607
+    },
+    {
+     "w": "inside.",
+     "start": 12.607,
+     "end": 12.983
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 13.448,
+   "end": 16.927,
+   "text": "Now it can't walk off, until he comes back with a drill and goes for the lock.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 13.558,
+     "end": 13.748
+    },
+    {
+     "w": "it",
+     "start": 13.748,
+     "end": 13.938
+    },
+    {
+     "w": "can't",
+     "start": 13.938,
+     "end": 14.128
+    },
+    {
+     "w": "walk",
+     "start": 14.128,
+     "end": 14.318
+    },
+    {
+     "w": "off,",
+     "start": 14.318,
+     "end": 14.508
+    },
+    {
+     "w": "until",
+     "start": 14.678,
+     "end": 14.959
+    },
+    {
+     "w": "he",
+     "start": 14.959,
+     "end": 15.121
+    },
+    {
+     "w": "comes",
+     "start": 15.121,
+     "end": 15.403
+    },
+    {
+     "w": "back",
+     "start": 15.403,
+     "end": 15.564
+    },
+    {
+     "w": "with",
+     "start": 15.564,
+     "end": 15.726
+    },
+    {
+     "w": "a",
+     "start": 15.726,
+     "end": 15.888
+    },
+    {
+     "w": "drill",
+     "start": 15.888,
+     "end": 16.049
+    },
+    {
+     "w": "and",
+     "start": 16.049,
+     "end": 16.211
+    },
+    {
+     "w": "goes",
+     "start": 16.211,
+     "end": 16.373
+    },
+    {
+     "w": "for",
+     "start": 16.373,
+     "end": 16.535
+    },
+    {
+     "w": "the",
+     "start": 16.535,
+     "end": 16.696
+    },
+    {
+     "w": "lock.",
+     "start": 16.696,
+     "end": 16.858
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.292,
+   "end": 23.292,
+   "text": "So you hide a glass plate in the door: if a drill cracks it, spring bolts jam the door, and even the right code won't work.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.402,
+     "end": 17.592
+    },
+    {
+     "w": "you",
+     "start": 17.592,
+     "end": 17.782
+    },
+    {
+     "w": "hide",
+     "start": 17.782,
+     "end": 17.972
+    },
+    {
+     "w": "a",
+     "start": 17.972,
+     "end": 18.162
+    },
+    {
+     "w": "glass",
+     "start": 18.162,
+     "end": 18.352
+    },
+    {
+     "w": "plate",
+     "start": 18.352,
+     "end": 18.542
+    },
+    {
+     "w": "in",
+     "start": 18.542,
+     "end": 18.732
+    },
+    {
+     "w": "the",
+     "start": 18.732,
+     "end": 18.922
+    },
+    {
+     "w": "door:",
+     "start": 18.922,
+     "end": 19.112
+    },
+    {
+     "w": "if",
+     "start": 19.282,
+     "end": 19.52
+    },
+    {
+     "w": "a",
+     "start": 19.52,
+     "end": 19.758
+    },
+    {
+     "w": "drill",
+     "start": 19.758,
+     "end": 19.996
+    },
+    {
+     "w": "cracks",
+     "start": 19.996,
+     "end": 20.234
+    },
+    {
+     "w": "it,",
+     "start": 20.234,
+     "end": 20.472
+    },
+    {
+     "w": "spring",
+     "start": 20.542,
+     "end": 20.752
+    },
+    {
+     "w": "bolts",
+     "start": 20.752,
+     "end": 20.961
+    },
+    {
+     "w": "jam",
+     "start": 20.961,
+     "end": 21.171
+    },
+    {
+     "w": "the",
+     "start": 21.171,
+     "end": 21.38
+    },
+    {
+     "w": "door,",
+     "start": 21.38,
+     "end": 21.59
+    },
+    {
+     "w": "and",
+     "start": 21.59,
+     "end": 21.799
+    },
+    {
+     "w": "even",
+     "start": 21.799,
+     "end": 22.164
+    },
+    {
+     "w": "the",
+     "start": 22.164,
+     "end": 22.374
+    },
+    {
+     "w": "right",
+     "start": 22.374,
+     "end": 22.583
+    },
+    {
+     "w": "code",
+     "start": 22.583,
+     "end": 22.793
+    },
+    {
+     "w": "won't",
+     "start": 22.793,
+     "end": 23.002
+    },
+    {
+     "w": "work.",
+     "start": 23.002,
+     "end": 23.212
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.656,
+   "end": 26.896,
+   "text": "But then he skips the drill, and makes the manager open it at midnight.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.796,
+     "end": 23.999
+    },
+    {
+     "w": "then",
+     "start": 23.999,
+     "end": 24.203
+    },
+    {
+     "w": "he",
+     "start": 24.203,
+     "end": 24.406
+    },
+    {
+     "w": "skips",
+     "start": 24.406,
+     "end": 24.609
+    },
+    {
+     "w": "the",
+     "start": 24.609,
+     "end": 24.813
+    },
+    {
+     "w": "drill,",
+     "start": 24.813,
+     "end": 25.016
+    },
+    {
+     "w": "and",
+     "start": 25.156,
+     "end": 25.3
+    },
+    {
+     "w": "makes",
+     "start": 25.3,
+     "end": 25.552
+    },
+    {
+     "w": "the",
+     "start": 25.552,
+     "end": 25.696
+    },
+    {
+     "w": "manager",
+     "start": 25.696,
+     "end": 26.054
+    },
+    {
+     "w": "open",
+     "start": 26.054,
+     "end": 26.306
+    },
+    {
+     "w": "it",
+     "start": 26.306,
+     "end": 26.45
+    },
+    {
+     "w": "at",
+     "start": 26.45,
+     "end": 26.595
+    },
+    {
+     "w": "midnight.",
+     "start": 26.595,
+     "end": 26.846
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.26,
+   "end": 33.615,
+   "text": "So you add a time lock: three clocks that keep the door shut until morning, and a code split between two people. Now the manager can sleep.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.37,
+     "end": 27.542
+    },
+    {
+     "w": "you",
+     "start": 27.542,
+     "end": 27.713
+    },
+    {
+     "w": "add",
+     "start": 27.713,
+     "end": 27.885
+    },
+    {
+     "w": "a",
+     "start": 27.885,
+     "end": 28.057
+    },
+    {
+     "w": "time",
+     "start": 28.057,
+     "end": 28.228
+    },
+    {
+     "w": "lock:",
+     "start": 28.228,
+     "end": 28.4
+    },
+    {
+     "w": "three",
+     "start": 28.59,
+     "end": 28.787
+    },
+    {
+     "w": "clocks",
+     "start": 28.787,
+     "end": 28.985
+    },
+    {
+     "w": "that",
+     "start": 28.985,
+     "end": 29.182
+    },
+    {
+     "w": "keep",
+     "start": 29.182,
+     "end": 29.38
+    },
+    {
+     "w": "the",
+     "start": 29.38,
+     "end": 29.577
+    },
+    {
+     "w": "door",
+     "start": 29.577,
+     "end": 29.775
+    },
+    {
+     "w": "shut",
+     "start": 29.775,
+     "end": 29.972
+    },
+    {
+     "w": "until",
+     "start": 29.972,
+     "end": 30.316
+    },
+    {
+     "w": "morning,",
+     "start": 30.316,
+     "end": 30.66
+    },
+    {
+     "w": "and",
+     "start": 30.8,
+     "end": 30.982
+    },
+    {
+     "w": "a",
+     "start": 30.982,
+     "end": 31.164
+    },
+    {
+     "w": "code",
+     "start": 31.164,
+     "end": 31.346
+    },
+    {
+     "w": "split",
+     "start": 31.346,
+     "end": 31.529
+    },
+    {
+     "w": "between",
+     "start": 31.529,
+     "end": 31.846
+    },
+    {
+     "w": "two",
+     "start": 31.846,
+     "end": 32.028
+    },
+    {
+     "w": "people.",
+     "start": 32.028,
+     "end": 32.21
+    },
+    {
+     "w": "Now",
+     "start": 32.27,
+     "end": 32.46
+    },
+    {
+     "w": "the",
+     "start": 32.46,
+     "end": 32.65
+    },
+    {
+     "w": "manager",
+     "start": 32.65,
+     "end": 33.12
+    },
+    {
+     "w": "can",
+     "start": 33.12,
+     "end": 33.31
+    },
+    {
+     "w": "sleep.",
+     "start": 33.31,
+     "end": 33.5
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 33.979,
+   "end": 37.073,
+   "text": "Now the door is hopeless, so he digs a tunnel under the floor.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 34.089,
+     "end": 34.273
+    },
+    {
+     "w": "the",
+     "start": 34.273,
+     "end": 34.456
+    },
+    {
+     "w": "door",
+     "start": 34.456,
+     "end": 34.64
+    },
+    {
+     "w": "is",
+     "start": 34.64,
+     "end": 34.823
+    },
+    {
+     "w": "hopeless,",
+     "start": 34.823,
+     "end": 35.279
+    },
+    {
+     "w": "so",
+     "start": 35.449,
+     "end": 35.614
+    },
+    {
+     "w": "he",
+     "start": 35.614,
+     "end": 35.778
+    },
+    {
+     "w": "digs",
+     "start": 35.778,
+     "end": 35.943
+    },
+    {
+     "w": "a",
+     "start": 35.943,
+     "end": 36.107
+    },
+    {
+     "w": "tunnel",
+     "start": 36.107,
+     "end": 36.394
+    },
+    {
+     "w": "under",
+     "start": 36.394,
+     "end": 36.68
+    },
+    {
+     "w": "the",
+     "start": 36.68,
+     "end": 36.844
+    },
+    {
+     "w": "floor.",
+     "start": 36.844,
+     "end": 37.009
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 37.438,
+   "end": 43.573,
+   "text": "So you add sensors that feel the floor shake, microphones that hear the scraping, and an alarm that calls the police before he's through.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.548,
+     "end": 37.749
+    },
+    {
+     "w": "you",
+     "start": 37.749,
+     "end": 37.95
+    },
+    {
+     "w": "add",
+     "start": 37.95,
+     "end": 38.152
+    },
+    {
+     "w": "sensors",
+     "start": 38.152,
+     "end": 38.502
+    },
+    {
+     "w": "that",
+     "start": 38.502,
+     "end": 38.703
+    },
+    {
+     "w": "feel",
+     "start": 38.703,
+     "end": 38.904
+    },
+    {
+     "w": "the",
+     "start": 38.904,
+     "end": 39.106
+    },
+    {
+     "w": "floor",
+     "start": 39.106,
+     "end": 39.307
+    },
+    {
+     "w": "shake,",
+     "start": 39.307,
+     "end": 39.508
+    },
+    {
+     "w": "microphones",
+     "start": 39.638,
+     "end": 40.245
+    },
+    {
+     "w": "that",
+     "start": 40.245,
+     "end": 40.433
+    },
+    {
+     "w": "hear",
+     "start": 40.433,
+     "end": 40.622
+    },
+    {
+     "w": "the",
+     "start": 40.622,
+     "end": 40.81
+    },
+    {
+     "w": "scraping,",
+     "start": 40.81,
+     "end": 41.138
+    },
+    {
+     "w": "and",
+     "start": 41.308,
+     "end": 41.487
+    },
+    {
+     "w": "an",
+     "start": 41.487,
+     "end": 41.666
+    },
+    {
+     "w": "alarm",
+     "start": 41.666,
+     "end": 41.978
+    },
+    {
+     "w": "that",
+     "start": 41.978,
+     "end": 42.157
+    },
+    {
+     "w": "calls",
+     "start": 42.157,
+     "end": 42.337
+    },
+    {
+     "w": "the",
+     "start": 42.337,
+     "end": 42.516
+    },
+    {
+     "w": "police",
+     "start": 42.516,
+     "end": 42.828
+    },
+    {
+     "w": "before",
+     "start": 42.828,
+     "end": 43.14
+    },
+    {
+     "w": "he's",
+     "start": 43.14,
+     "end": 43.319
+    },
+    {
+     "w": "through.",
+     "start": 43.319,
+     "end": 43.498
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 43.938,
+   "end": 47.844,
+   "text": "But before you spin the wheel, follow, because next we're building an air conditioner.",
+   "words": [
+    {
+     "w": "But",
+     "start": 44.078,
+     "end": 44.265
+    },
+    {
+     "w": "before",
+     "start": 44.265,
+     "end": 44.59
+    },
+    {
+     "w": "you",
+     "start": 44.59,
+     "end": 44.777
+    },
+    {
+     "w": "spin",
+     "start": 44.777,
+     "end": 44.964
+    },
+    {
+     "w": "the",
+     "start": 44.964,
+     "end": 45.151
+    },
+    {
+     "w": "wheel,",
+     "start": 45.151,
+     "end": 45.338
+    },
+    {
+     "w": "follow,",
+     "start": 45.518,
+     "end": 45.858
+    },
+    {
+     "w": "because",
+     "start": 45.998,
+     "end": 46.287
+    },
+    {
+     "w": "next",
+     "start": 46.287,
+     "end": 46.454
+    },
+    {
+     "w": "we're",
+     "start": 46.454,
+     "end": 46.62
+    },
+    {
+     "w": "building",
+     "start": 46.62,
+     "end": 46.91
+    },
+    {
+     "w": "an",
+     "start": 46.91,
+     "end": 47.076
+    },
+    {
+     "w": "air",
+     "start": 47.076,
+     "end": 47.242
+    },
+    {
+     "w": "conditioner.",
+     "start": 47.242,
+     "end": 47.778
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 48.208,
+   "end": 53.302,
+   "text": "Now just add a giant round door, a shiny wheel, and a pen on a chain, so nobody steals the pen.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 48.318,
+     "end": 48.532
+    },
+    {
+     "w": "just",
+     "start": 48.532,
+     "end": 48.747
+    },
+    {
+     "w": "add",
+     "start": 48.747,
+     "end": 48.961
+    },
+    {
+     "w": "a",
+     "start": 48.961,
+     "end": 49.176
+    },
+    {
+     "w": "giant",
+     "start": 49.176,
+     "end": 49.39
+    },
+    {
+     "w": "round",
+     "start": 49.39,
+     "end": 49.605
+    },
+    {
+     "w": "door,",
+     "start": 49.605,
+     "end": 49.819
+    },
+    {
+     "w": "a",
+     "start": 49.819,
+     "end": 50.034
+    },
+    {
+     "w": "shiny",
+     "start": 50.034,
+     "end": 50.407
+    },
+    {
+     "w": "wheel,",
+     "start": 50.407,
+     "end": 50.621
+    },
+    {
+     "w": "and",
+     "start": 50.621,
+     "end": 50.836
+    },
+    {
+     "w": "a",
+     "start": 50.836,
+     "end": 51.05
+    },
+    {
+     "w": "pen",
+     "start": 51.05,
+     "end": 51.265
+    },
+    {
+     "w": "on",
+     "start": 51.265,
+     "end": 51.479
+    },
+    {
+     "w": "a",
+     "start": 51.479,
+     "end": 51.694
+    },
+    {
+     "w": "chain,",
+     "start": 51.694,
+     "end": 51.908
+    },
+    {
+     "w": "so",
+     "start": 52.078,
+     "end": 52.259
+    },
+    {
+     "w": "nobody",
+     "start": 52.259,
+     "end": 52.706
+    },
+    {
+     "w": "steals",
+     "start": 52.706,
+     "end": 52.887
+    },
+    {
+     "w": "the",
+     "start": 52.887,
+     "end": 53.067
+    },
+    {
+     "w": "pen.",
+     "start": 53.067,
+     "end": 53.248
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 53.667,
+   "end": 56.427,
+   "text": "One door, twenty tons, zero robberies.",
+   "words": [
+    {
+     "w": "One",
+     "start": 53.767,
+     "end": 54.077
+    },
+    {
+     "w": "door,",
+     "start": 54.077,
+     "end": 54.387
+    },
+    {
+     "w": "twenty",
+     "start": 54.547,
+     "end": 55.004
+    },
+    {
+     "w": "tons,",
+     "start": 55.004,
+     "end": 55.267
+    },
+    {
+     "w": "zero",
+     "start": 55.427,
+     "end": 55.806
+    },
+    {
+     "w": "robberies.",
+     "start": 55.806,
+     "end": 56.347
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.792,
+   "end": 59.344,
+   "text": "And congrats, you just built a bank vault yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.912,
+     "end": 57.171
+    },
+    {
+     "w": "congrats,",
+     "start": 57.171,
+     "end": 57.622
+    },
+    {
+     "w": "you",
+     "start": 57.752,
+     "end": 57.941
+    },
+    {
+     "w": "just",
+     "start": 57.941,
+     "end": 58.129
+    },
+    {
+     "w": "built",
+     "start": 58.129,
+     "end": 58.318
+    },
+    {
+     "w": "a",
+     "start": 58.318,
+     "end": 58.506
+    },
+    {
+     "w": "bank",
+     "start": 58.506,
+     "end": 58.695
+    },
+    {
+     "w": "vault",
+     "start": 58.695,
+     "end": 58.884
+    },
+    {
+     "w": "yourself.",
+     "start": 58.884,
+     "end": 59.212
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.708,
+   "end": 62.354,
+   "text": "And the pen? Stolen on day one. With the chain.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.818,
+     "end": 60.018
+    },
+    {
+     "w": "the",
+     "start": 60.018,
+     "end": 60.218
+    },
+    {
+     "w": "pen?",
+     "start": 60.218,
+     "end": 60.418
+    },
+    {
+     "w": "Stolen",
+     "start": 60.628,
+     "end": 60.977
+    },
+    {
+     "w": "on",
+     "start": 60.977,
+     "end": 61.177
+    },
+    {
+     "w": "day",
+     "start": 61.177,
+     "end": 61.378
+    },
+    {
+     "w": "one.",
+     "start": 61.378,
+     "end": 61.578
+    },
+    {
+     "w": "With",
+     "start": 61.718,
+     "end": 61.901
+    },
+    {
+     "w": "the",
+     "start": 61.901,
+     "end": 62.085
+    },
+    {
+     "w": "chain.",
+     "start": 62.085,
+     "end": 62.268
+    }
+   ]
+  }
+ ]
+}

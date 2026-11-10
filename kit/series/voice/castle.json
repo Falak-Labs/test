@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 66.22,
+ "words": 233,
+ "words_per_sec": 3.52,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.594,
+   "text": "If you pile up a hill of dirt and put your house on top, congrats, you just built a castle."
+  },
+  {
+   "line": 2,
+   "start": 4.958,
+   "end": 8.865,
+   "text": "But the neighbors show up with torches, and your wooden walls turn out to be firewood."
+  },
+  {
+   "line": 3,
+   "start": 9.229,
+   "end": 14.76,
+   "text": "So you rebuild in stone: a curtain wall thicker than you are tall, and round towers that boulders glance off."
+  },
+  {
+   "line": 4,
+   "start": 15.125,
+   "end": 18.354,
+   "text": "Now it won't burn, until they bring ladders and simply climb over."
+  },
+  {
+   "line": 5,
+   "start": 18.719,
+   "end": 24.469,
+   "text": "So you dig a moat all around, and add battlements on top: stone teeth to hide behind, with gaps to shoot through."
+  },
+  {
+   "line": 6,
+   "start": 24.833,
+   "end": 28.125,
+   "text": "But the front door is still a door, and they knock with a battering ram."
+  },
+  {
+   "line": 7,
+   "start": 28.49,
+   "end": 36.135,
+   "text": "So you add a drawbridge, a portcullis that drops like a guillotine, and murder holes in the ceiling, for dropping rocks. Boiling oil? Too expensive."
+  },
+  {
+   "line": 8,
+   "start": 36.5,
+   "end": 40.969,
+   "text": "Now nobody gets in, and neither does lunch: they camp outside and wait for you to starve."
+  },
+  {
+   "line": 9,
+   "start": 41.333,
+   "end": 47.26,
+   "text": "So you dig a well inside the walls, stock the cellars for months, and add a sally port: a hidden door for midnight raids."
+  },
+  {
+   "line": 10,
+   "start": 47.625,
+   "end": 51.573,
+   "text": "But before you raise the flag, follow, because next we're building a claw machine."
+  },
+  {
+   "line": 11,
+   "start": 51.938,
+   "end": 55.885,
+   "text": "Now just hang some banners, light the torches, and hire one guy with a trumpet."
+  },
+  {
+   "line": 12,
+   "start": 56.25,
+   "end": 58.896,
+   "text": "One hill, four towers, zero visitors."
+  },
+  {
+   "line": 13,
+   "start": 59.26,
+   "end": 61.667,
+   "text": "And congrats, you just built a castle yourself."
+  },
+  {
+   "line": 14,
+   "start": 62.031,
+   "end": 66.24,
+   "text": "And the toilet? A hole in the wall, straight into the moat. That's why nobody swims in the moat."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 64.89,
+ "words": 233,
+ "words_per_sec": 3.59,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.427,
+   "text": "If you put a seat over a bucket, congrats, you just built a toilet."
+  },
+  {
+   "line": 2,
+   "start": 3.792,
+   "end": 6.979,
+   "text": "But somebody has to carry the bucket out, and nobody wants that job."
+  },
+  {
+   "line": 3,
+   "start": 7.344,
+   "end": 13.521,
+   "text": "So you add a tank of water above the bowl, with a rubber flapper at the bottom: push the handle, and gravity does the dirty work."
+  },
+  {
+   "line": 4,
+   "start": 13.885,
+   "end": 17.354,
+   "text": "Now it flushes, until the sewer sends its smell back up to say hello."
+  },
+  {
+   "line": 5,
+   "start": 17.719,
+   "end": 23.26,
+   "text": "So you bend the pipe into an S, called a trap: a little water always stays in the curve, and seals out the gas."
+  },
+  {
+   "line": 6,
+   "start": 23.625,
+   "end": 27.042,
+   "text": "But the refill never stops, and now your bathroom is a swimming pool."
+  },
+  {
+   "line": 7,
+   "start": 27.406,
+   "end": 32.688,
+   "text": "So you add a float: when the tank is full, it shuts the fill valve. Plus an overflow tube, just in case."
+  },
+  {
+   "line": 8,
+   "start": 33.052,
+   "end": 38.74,
+   "text": "Now it works, until water racing down the drain sucks the trap dry, glug, glug, and the smell is back."
+  },
+  {
+   "line": 9,
+   "start": 39.104,
+   "end": 46.104,
+   "text": "So you run a vent pipe up through the roof: air follows the water down, the trap stays full, and the smell goes out the top. Sorry, birds."
+  },
+  {
+   "line": 10,
+   "start": 46.469,
+   "end": 49.927,
+   "text": "But before you sit down, follow, because next we're building an airplane."
+  },
+  {
+   "line": 11,
+   "start": 50.292,
+   "end": 53.917,
+   "text": "Now just add a lid, a lock on the door, and a shampoo bottle to read."
+  },
+  {
+   "line": 12,
+   "start": 54.281,
+   "end": 57.229,
+   "text": "One push, six liters max, zero buckets."
+  },
+  {
+   "line": 13,
+   "start": 57.594,
+   "end": 60.021,
+   "text": "And congrats, you just built a toilet yourself."
+  },
+  {
+   "line": 14,
+   "start": 60.385,
+   "end": 64.906,
+   "text": "And the seat? Up or down? Economists have written real papers on that. Still no winner."
+  }
+ ]
+}

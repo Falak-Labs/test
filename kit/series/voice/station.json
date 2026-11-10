@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 66.23,
+ "words": 218,
+ "words_per_sec": 3.29,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.198,
+   "text": "If you seal a room and throw it into orbit, congrats, you just built a space station."
+  },
+  {
+   "line": 2,
+   "start": 4.562,
+   "end": 7.167,
+   "text": "But your own breath poisons the air before the weekend."
+  },
+  {
+   "line": 3,
+   "start": 7.531,
+   "end": 12.51,
+   "text": "So you add a machine that splits water to make oxygen, and scrubbers that trap the carbon dioxide."
+  },
+  {
+   "line": 4,
+   "start": 12.875,
+   "end": 18.115,
+   "text": "Now you can breathe, until the water runs out, and the nearest store is four hundred kilometers straight down."
+  },
+  {
+   "line": 5,
+   "start": 18.479,
+   "end": 24.521,
+   "text": "So you add a distiller and filters, and recycle sweat, breath, and yes, pee. Yesterday's coffee is tomorrow's coffee."
+  },
+  {
+   "line": 6,
+   "start": 24.885,
+   "end": 28.906,
+   "text": "But floating is like staying in bed all year, and your muscles and bones waste away."
+  },
+  {
+   "line": 7,
+   "start": 29.271,
+   "end": 35.198,
+   "text": "So you add a treadmill with bungee straps, a weight machine that uses vacuum instead of weights, and two hours of exercise a day."
+  },
+  {
+   "line": 8,
+   "start": 35.562,
+   "end": 40.0,
+   "text": "Now you're fit, until a speck of paint hits the wall at twenty-eight thousand kilometers an hour."
+  },
+  {
+   "line": 9,
+   "start": 40.365,
+   "end": 45.729,
+   "text": "So you wrap the hull in bumper shields: thin aluminum shatters the speck, and bulletproof fabric catches the bits."
+  },
+  {
+   "line": 10,
+   "start": 46.094,
+   "end": 50.125,
+   "text": "But before you float away, follow, because next we're building a suspension bridge."
+  },
+  {
+   "line": 11,
+   "start": 50.49,
+   "end": 55.552,
+   "text": "Now just unfold solar wings, add a big window facing Earth, and tie down absolutely everything."
+  },
+  {
+   "line": 12,
+   "start": 55.917,
+   "end": 59.229,
+   "text": "One station, sixteen sunrises a day, zero showers."
+  },
+  {
+   "line": 13,
+   "start": 59.594,
+   "end": 62.333,
+   "text": "And congrats, you just built a space station yourself."
+  },
+  {
+   "line": 14,
+   "start": 62.698,
+   "end": 66.25,
+   "text": "And the toilet? It's a vacuum cleaner with a seat belt. Aim carefully."
+  }
+ ]
+}

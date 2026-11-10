@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 67.92,
+ "words": 236,
+ "words_per_sec": 3.47,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.323,
+   "text": "If you glue wings on a bus and drive it off a cliff, congrats, you just built an airplane."
+  },
+  {
+   "line": 2,
+   "start": 4.688,
+   "end": 9.406,
+   "text": "But flat, level wings lift nothing, so it's just a bus, falling, with extra steps."
+  },
+  {
+   "line": 3,
+   "start": 9.771,
+   "end": 16.115,
+   "text": "So you curve the wings and tilt them into the wind: they push air down, the air pushes them up, and jet engines keep that wind coming."
+  },
+  {
+   "line": 4,
+   "start": 16.479,
+   "end": 21.646,
+   "text": "Now it flies, until the air gets thin, and in about a minute, everyone takes a nap. Including the pilot."
+  },
+  {
+   "line": 5,
+   "start": 22.01,
+   "end": 27.646,
+   "text": "So you seal the cabin, pump in air squeezed by the engines, and add an outflow valve: a soda can with seats."
+  },
+  {
+   "line": 6,
+   "start": 28.01,
+   "end": 30.927,
+   "text": "But it wobbles and rolls like a paper plane with a bent wing."
+  },
+  {
+   "line": 7,
+   "start": 31.292,
+   "end": 36.771,
+   "text": "So you add a tail with a rudder to swing the nose, elevators to tip it up or down, and ailerons on the wings to roll."
+  },
+  {
+   "line": 8,
+   "start": 37.135,
+   "end": 41.438,
+   "text": "Now it steers, until you have to land, at twice highway speed, with no brakes."
+  },
+  {
+   "line": 9,
+   "start": 41.802,
+   "end": 48.323,
+   "text": "So you add big flaps to fly slower, landing gear with shock absorbers and brakes, and thrust reversers that blow engine air forward."
+  },
+  {
+   "line": 10,
+   "start": 48.688,
+   "end": 52.979,
+   "text": "But before you fasten your seatbelt, follow, because next we're building a fireworks show."
+  },
+  {
+   "line": 11,
+   "start": 53.344,
+   "end": 57.865,
+   "text": "Now just add tiny windows, tiny pretzels, and a black box that's actually orange."
+  },
+  {
+   "line": 12,
+   "start": 58.229,
+   "end": 61.073,
+   "text": "Two wings, three hundred seats, zero legroom."
+  },
+  {
+   "line": 13,
+   "start": 61.438,
+   "end": 63.906,
+   "text": "And congrats, you just built an airplane yourself."
+  },
+  {
+   "line": 14,
+   "start": 64.271,
+   "end": 67.938,
+   "text": "And the middle armrest? Nobody knows whose it is. Science has no answer."
+  }
+ ]
+}

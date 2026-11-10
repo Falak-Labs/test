@@ -46,12 +46,15 @@ def main():
     if "--wait-now" in sys.argv:
         wait = float(sys.argv[sys.argv.index("--wait-now") + 1])
     cfg = yaml.safe_load(open(os.path.join(ROOT, "config.yml"), encoding="utf-8"))
-    accounts = {lang: Buffer(os.environ[var].strip(), lang) for lang, var in cfg["keys"].items()
-                if os.environ.get(var, "").strip()}
     states = {}
     for fn in sorted(os.listdir(os.path.join(ROOT, "state"))):
         if fn.endswith(".json"):
             states[fn[:-5]] = json.load(open(os.path.join(ROOT, "state", fn), encoding="utf-8"))
+    # only ask Buffer about languages that still have a post whose outcome is unknown (saves API requests)
+    open_langs = {tgt.split(".")[0] for st in states.values() for tgt, t in st["targets"].items()
+                  if t.get("id") and not (t.get("status") == "sent" and t.get("link"))}
+    accounts = {lang: Buffer(os.environ[var].strip(), lang) for lang, var in cfg["keys"].items()
+                if os.environ.get(var, "").strip() and lang in open_langs}
     deadline = time.time() + wait * 60
     while True:
         by_id = snapshot(accounts)
@@ -71,11 +74,22 @@ def main():
                 rows.append((slug, tgt, "not created", t.get("error", "")[:160], ""))
                 continue
             lang, node = by_id.get(t["id"], (None, {}))
-            status = node.get("status") or "not listed"
-            t["status"] = status
-            err = node.get("error") or node.get("errorMessage") or node.get("error.message") or ""
-            link = node.get("externalLink") or node.get("serviceLink") or ""
-            when = node.get("sentAt") or node.get("dueAt") or t.get("dueAt") or ""
+            if node:
+                status = node.get("status") or "not listed"
+                t["status"] = status
+                err = node.get("error") or node.get("errorMessage") or node.get("error.message") or ""
+                link = node.get("externalLink") or node.get("serviceLink") or ""
+                when = node.get("sentAt") or node.get("dueAt") or t.get("dueAt") or ""
+                if link:
+                    t["link"] = link
+                if node.get("sentAt"):
+                    t["sentAt"] = node["sentAt"]
+            elif t.get("status") == "sent" and t.get("link"):
+                # published earlier; Buffer no longer lists it (e.g. the channel was reconnected): keep what we know
+                status, err, link, when = "sent", "", t["link"], t.get("sentAt") or t.get("dueAt") or ""
+            else:
+                status, err, link, when = "not listed", "", "", t.get("dueAt") or ""
+                t["status"] = status
             rows.append((slug, tgt, status, str(err)[:160], f"{when} {link}".strip()))
         with open(os.path.join(ROOT, "state", slug + ".json"), "w", encoding="utf-8") as f:
             json.dump(st, f, ensure_ascii=False, indent=1)

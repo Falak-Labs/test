@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.89,
+ "words": 230,
+ "words_per_sec": 3.49,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.25,
+   "text": "If you bolt a huge engine onto a go-kart, congrats, you just built a race car."
+  },
+  {
+   "line": 2,
+   "start": 4.615,
+   "end": 7.781,
+   "text": "But at the first fast corner, it slides straight off the track."
+  },
+  {
+   "line": 3,
+   "start": 8.146,
+   "end": 13.781,
+   "text": "So you add wings, upside down, front and rear: instead of lifting the car, the air squashes it onto the road."
+  },
+  {
+   "line": 4,
+   "start": 14.146,
+   "end": 19.948,
+   "text": "Now it could drive on the ceiling, in theory, until you brake from two hundred miles an hour, and the brakes catch fire."
+  },
+  {
+   "line": 5,
+   "start": 20.312,
+   "end": 25.99,
+   "text": "So you fit carbon discs and pads that work best glowing red, at a thousand degrees, and air ducts to cool them."
+  },
+  {
+   "line": 6,
+   "start": 26.354,
+   "end": 29.729,
+   "text": "But those soft, sticky tires wear out long before the finish."
+  },
+  {
+   "line": 7,
+   "start": 30.094,
+   "end": 35.927,
+   "text": "So you use one nut per wheel, and train twenty people with wheel guns and jacks to change all four in about two seconds."
+  },
+  {
+   "line": 8,
+   "start": 36.292,
+   "end": 38.646,
+   "text": "Now it's fast everywhere, until it meets a wall."
+  },
+  {
+   "line": 9,
+   "start": 39.01,
+   "end": 46.177,
+   "text": "So you sit in a carbon-fiber survival cell, under a titanium halo that can hold up a double-decker bus, behind a nose that crumples so you don't."
+  },
+  {
+   "line": 10,
+   "start": 46.542,
+   "end": 50.375,
+   "text": "But before you start your engine, follow, because next we're building a cruise ship."
+  },
+  {
+   "line": 11,
+   "start": 50.74,
+   "end": 55.438,
+   "text": "Now just cover it in stickers, and add a steering wheel with over twenty buttons. One is for your drink."
+  },
+  {
+   "line": 12,
+   "start": 55.802,
+   "end": 59.208,
+   "text": "One driver, a thousand horsepower, zero cup holders."
+  },
+  {
+   "line": 13,
+   "start": 59.573,
+   "end": 62.073,
+   "text": "And congrats, you just built a race car yourself."
+  },
+  {
+   "line": 14,
+   "start": 62.438,
+   "end": 65.917,
+   "text": "And the winner's drink? They don't even drink it. They spray it. On purpose."
+  }
+ ]
+}

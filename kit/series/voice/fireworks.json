@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 69.16,
+ "words": 233,
+ "words_per_sec": 3.37,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.198,
+   "text": "If you pop a party popper at a birthday, congrats, you just built a fireworks show."
+  },
+  {
+   "line": 2,
+   "start": 4.562,
+   "end": 8.333,
+   "text": "But it's one tiny pop, a puff of confetti, and the whole town is watching."
+  },
+  {
+   "line": 3,
+   "start": 8.698,
+   "end": 15.271,
+   "text": "So licensed pros pack it into a paper ball called a shell, lower it into a mortar tube, and a lift charge underneath shoots it sky-high."
+  },
+  {
+   "line": 4,
+   "start": 15.635,
+   "end": 19.531,
+   "text": "Now it flies, until it bursts too low, right above the crew's hard hats."
+  },
+  {
+   "line": 5,
+   "start": 19.896,
+   "end": 24.167,
+   "text": "So they add a time fuse that burns on the way up, and fires the burst charge near the top."
+  },
+  {
+   "line": 6,
+   "start": 24.531,
+   "end": 28.552,
+   "text": "But it's just a white flash and a bang: no color, no shape, no \"wow\"."
+  },
+  {
+   "line": 7,
+   "start": 28.917,
+   "end": 39.104,
+   "text": "So they fill it with pellets called stars, made with metal salts: strontium burns red, barium green, copper blue. Arrange them in a heart, and the sky draws a heart. Sometimes sideways."
+  },
+  {
+   "line": 8,
+   "start": 39.469,
+   "end": 44.292,
+   "text": "Now it's gorgeous, until someone has to light a thousand fuses by hand. Goodbye, eyebrows."
+  },
+  {
+   "line": 9,
+   "start": 44.656,
+   "end": 50.99,
+   "text": "So they wire an electric match to every shell, and a computer far away fires each one seconds early, so it bursts right on the beat."
+  },
+  {
+   "line": 10,
+   "start": 51.354,
+   "end": 54.771,
+   "text": "But before you look up, follow, because next we're building a bank vault."
+  },
+  {
+   "line": 11,
+   "start": 55.135,
+   "end": 59.51,
+   "text": "Now just add music, a crowd far, far back, and one guy who claps too early."
+  },
+  {
+   "line": 12,
+   "start": 59.875,
+   "end": 63.312,
+   "text": "One button, a thousand shells, zero eyebrows lost."
+  },
+  {
+   "line": 13,
+   "start": 63.677,
+   "end": 66.51,
+   "text": "And congrats, you just built a fireworks show yourself."
+  },
+  {
+   "line": 14,
+   "start": 66.875,
+   "end": 69.177,
+   "text": "And the dog? Under the bed until Tuesday."
+  }
+ ]
+}

@@ -1,14 +1,14 @@
 If you hang a claw over a box of toys, congrats, you just built a claw machine.
-But the claw grabs too well, and one kid empties the whole box with a single coin.
-So you add a dial inside that sets the grip: strong enough to lift a prize, weak enough to drop it halfway.
+But it never lets go: every kid wins, and the box is empty by lunch.
+So you close the claw with an electromagnet, and add a power dial: strong enough to lift a toy, then weak enough to drop it halfway.
 Now nobody ever wins, so nobody ever plays.
-So you add a small computer that counts the coins, and lets the claw squeeze tight once in a while.
-But kids learn to rock the machine until the prizes fall into the chute.
-So you bolt it to the floor, and add a tilt sensor with an alarm loud enough to embarrass anyone.
-Now it's safe, until a kid climbs in through the prize door. Yes, that really happens.
-So you add a one-way flap on the chute, and a light beam that knows when a prize, and only a prize, drops.
+So you add a computer that counts the coins: once they cover the prize, plus your profit, the claw holds tight. That's not luck, that's accounting.
+But somebody shakes the machine until a toy tumbles into the chute.
+So you bolt it down, and add a shake sensor: one shove, the claw lets go, and an alarm tells the whole mall.
+Now it's safe, until a kid crawls in through the prize door and gets stuck. Yes, that really happens.
+So you lock the prize door, and add a light beam in the chute: it only opens when a prize drops through.
 But before you drop a coin, follow, because next we're building a submarine.
 Now just add flashing lights, a song that never stops, and one giant teddy bear nobody can lift.
-One claw, a hundred toys, zero winners.
+One coin, twenty seconds, zero refunds.
 And congrats, you just built a claw machine yourself.
-And the giant teddy bear? He's been in there since 2009. He lives there now.
+And the giant teddy bear? He's bigger than the prize door. He lives there now.

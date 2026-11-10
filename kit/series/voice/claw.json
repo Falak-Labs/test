@@ -1,0 +1,94 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.8,
+ "words": 229,
+ "words_per_sec": 3.48,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.281,
+   "text": "If you hang a claw over a box of toys, congrats, you just built a claw machine."
+  },
+  {
+   "line": 2,
+   "start": 4.646,
+   "end": 8.354,
+   "text": "But it never lets go: every kid wins, and the box is empty by lunch."
+  },
+  {
+   "line": 3,
+   "start": 8.719,
+   "end": 15.177,
+   "text": "So you close the claw with an electromagnet, and add a power dial: strong enough to lift a toy, then weak enough to drop it halfway."
+  },
+  {
+   "line": 4,
+   "start": 15.542,
+   "end": 18.208,
+   "text": "Now nobody ever wins, so nobody ever plays."
+  },
+  {
+   "line": 5,
+   "start": 18.573,
+   "end": 25.708,
+   "text": "So you add a computer that counts the coins: once they cover the prize, plus your profit, the claw holds tight. That's not luck, that's accounting."
+  },
+  {
+   "line": 6,
+   "start": 26.073,
+   "end": 29.177,
+   "text": "But somebody shakes the machine until a toy tumbles into the chute."
+  },
+  {
+   "line": 7,
+   "start": 29.542,
+   "end": 35.156,
+   "text": "So you bolt it down, and add a shake sensor: one shove, the claw lets go, and an alarm tells the whole mall."
+  },
+  {
+   "line": 8,
+   "start": 35.521,
+   "end": 40.542,
+   "text": "Now it's safe, until a kid crawls in through the prize door and gets stuck. Yes, that really happens."
+  },
+  {
+   "line": 9,
+   "start": 40.906,
+   "end": 45.927,
+   "text": "So you lock the prize door, and add a light beam in the chute: it only opens when a prize drops through."
+  },
+  {
+   "line": 10,
+   "start": 46.292,
+   "end": 50.063,
+   "text": "But before you drop a coin, follow, because next we're building a submarine."
+  },
+  {
+   "line": 11,
+   "start": 50.427,
+   "end": 55.333,
+   "text": "Now just add flashing lights, a song that never stops, and one giant teddy bear nobody can lift."
+  },
+  {
+   "line": 12,
+   "start": 55.698,
+   "end": 58.552,
+   "text": "One coin, twenty seconds, zero refunds."
+  },
+  {
+   "line": 13,
+   "start": 58.917,
+   "end": 61.667,
+   "text": "And congrats, you just built a claw machine yourself."
+  },
+  {
+   "line": 14,
+   "start": 62.031,
+   "end": 65.823,
+   "text": "And the giant teddy bear? He's bigger than the prize door. He lives there now."
+  }
+ ]
+}
