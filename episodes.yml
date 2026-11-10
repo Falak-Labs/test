@@ -12,3 +12,4 @@ episodes:
   - {slug: ep08-claw, kit: claw, look: 2}
   - {slug: ep09-submarine, kit: submarine, look: 2}
   - {slug: ep10-toilet, kit: toilet, look: 2}
+  - {slug: ep11-airplane, kit: airplane, look: 2}

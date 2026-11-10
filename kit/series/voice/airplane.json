@@ -2,93 +2,1281 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 67.92,
- "words": 236,
+ "duration": 66.85,
+ "words": 232,
  "words_per_sec": 3.47,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
    "end": 4.323,
-   "text": "If you glue wings on a bus and drive it off a cliff, congrats, you just built an airplane."
+   "text": "If you glue wings on a bus and drive it off a cliff, congrats, you just built an airplane.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.331
+    },
+    {
+     "w": "you",
+     "start": 0.331,
+     "end": 0.533
+    },
+    {
+     "w": "glue",
+     "start": 0.533,
+     "end": 0.734
+    },
+    {
+     "w": "wings",
+     "start": 0.734,
+     "end": 0.936
+    },
+    {
+     "w": "on",
+     "start": 0.936,
+     "end": 1.137
+    },
+    {
+     "w": "a",
+     "start": 1.137,
+     "end": 1.339
+    },
+    {
+     "w": "bus",
+     "start": 1.339,
+     "end": 1.54
+    },
+    {
+     "w": "and",
+     "start": 1.54,
+     "end": 1.742
+    },
+    {
+     "w": "drive",
+     "start": 1.742,
+     "end": 1.943
+    },
+    {
+     "w": "it",
+     "start": 1.943,
+     "end": 2.145
+    },
+    {
+     "w": "off",
+     "start": 2.145,
+     "end": 2.346
+    },
+    {
+     "w": "a",
+     "start": 2.346,
+     "end": 2.548
+    },
+    {
+     "w": "cliff,",
+     "start": 2.548,
+     "end": 2.749
+    },
+    {
+     "w": "congrats,",
+     "start": 2.749,
+     "end": 3.1
+    },
+    {
+     "w": "you",
+     "start": 3.23,
+     "end": 3.409
+    },
+    {
+     "w": "just",
+     "start": 3.409,
+     "end": 3.589
+    },
+    {
+     "w": "built",
+     "start": 3.589,
+     "end": 3.768
+    },
+    {
+     "w": "an",
+     "start": 3.768,
+     "end": 3.948
+    },
+    {
+     "w": "airplane.",
+     "start": 3.948,
+     "end": 4.26
+    }
+   ]
   },
   {
    "line": 2,
    "start": 4.688,
    "end": 9.406,
-   "text": "But flat, level wings lift nothing, so it's just a bus, falling, with extra steps."
+   "text": "But flat, level wings lift nothing, so it's just a bus, falling, with extra steps.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.828,
+     "end": 5.093
+    },
+    {
+     "w": "flat,",
+     "start": 5.093,
+     "end": 5.358
+    },
+    {
+     "w": "level",
+     "start": 5.508,
+     "end": 5.895
+    },
+    {
+     "w": "wings",
+     "start": 5.895,
+     "end": 6.118
+    },
+    {
+     "w": "lift",
+     "start": 6.118,
+     "end": 6.341
+    },
+    {
+     "w": "nothing,",
+     "start": 6.341,
+     "end": 6.728
+    },
+    {
+     "w": "so",
+     "start": 6.878,
+     "end": 7.066
+    },
+    {
+     "w": "it's",
+     "start": 7.066,
+     "end": 7.254
+    },
+    {
+     "w": "just",
+     "start": 7.254,
+     "end": 7.442
+    },
+    {
+     "w": "a",
+     "start": 7.442,
+     "end": 7.63
+    },
+    {
+     "w": "bus,",
+     "start": 7.63,
+     "end": 7.818
+    },
+    {
+     "w": "falling,",
+     "start": 7.958,
+     "end": 8.328
+    },
+    {
+     "w": "with",
+     "start": 8.478,
+     "end": 8.708
+    },
+    {
+     "w": "extra",
+     "start": 8.708,
+     "end": 9.108
+    },
+    {
+     "w": "steps.",
+     "start": 9.108,
+     "end": 9.338
+    }
+   ]
   },
   {
    "line": 3,
    "start": 9.771,
    "end": 16.115,
-   "text": "So you curve the wings and tilt them into the wind: they push air down, the air pushes them up, and jet engines keep that wind coming."
+   "text": "So you curve the wings and tilt them into the wind: they push air down, the air pushes them up, and jet engines keep that wind coming.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.881,
+     "end": 10.069
+    },
+    {
+     "w": "you",
+     "start": 10.069,
+     "end": 10.257
+    },
+    {
+     "w": "curve",
+     "start": 10.257,
+     "end": 10.446
+    },
+    {
+     "w": "the",
+     "start": 10.446,
+     "end": 10.634
+    },
+    {
+     "w": "wings",
+     "start": 10.634,
+     "end": 10.822
+    },
+    {
+     "w": "and",
+     "start": 10.822,
+     "end": 11.01
+    },
+    {
+     "w": "tilt",
+     "start": 11.01,
+     "end": 11.199
+    },
+    {
+     "w": "them",
+     "start": 11.199,
+     "end": 11.387
+    },
+    {
+     "w": "into",
+     "start": 11.387,
+     "end": 11.715
+    },
+    {
+     "w": "the",
+     "start": 11.715,
+     "end": 11.903
+    },
+    {
+     "w": "wind:",
+     "start": 11.903,
+     "end": 12.091
+    },
+    {
+     "w": "they",
+     "start": 12.231,
+     "end": 12.461
+    },
+    {
+     "w": "push",
+     "start": 12.461,
+     "end": 12.691
+    },
+    {
+     "w": "air",
+     "start": 12.691,
+     "end": 12.921
+    },
+    {
+     "w": "down,",
+     "start": 12.921,
+     "end": 13.151
+    },
+    {
+     "w": "the",
+     "start": 13.301,
+     "end": 13.458
+    },
+    {
+     "w": "air",
+     "start": 13.458,
+     "end": 13.615
+    },
+    {
+     "w": "pushes",
+     "start": 13.615,
+     "end": 13.887
+    },
+    {
+     "w": "them",
+     "start": 13.887,
+     "end": 14.044
+    },
+    {
+     "w": "up,",
+     "start": 14.044,
+     "end": 14.201
+    },
+    {
+     "w": "and",
+     "start": 14.381,
+     "end": 14.563
+    },
+    {
+     "w": "jet",
+     "start": 14.563,
+     "end": 14.745
+    },
+    {
+     "w": "engines",
+     "start": 14.745,
+     "end": 15.197
+    },
+    {
+     "w": "keep",
+     "start": 15.197,
+     "end": 15.38
+    },
+    {
+     "w": "that",
+     "start": 15.38,
+     "end": 15.562
+    },
+    {
+     "w": "wind",
+     "start": 15.562,
+     "end": 15.744
+    },
+    {
+     "w": "coming.",
+     "start": 15.744,
+     "end": 16.061
+    }
+   ]
   },
   {
    "line": 4,
    "start": 16.479,
-   "end": 21.646,
-   "text": "Now it flies, until the air gets thin, and in about a minute, everyone takes a nap. Including the pilot."
+   "end": 21.51,
+   "text": "Now it flies, until the air gets thin, and within a minute, everyone takes a nap. Including the pilot.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 16.579,
+     "end": 16.771
+    },
+    {
+     "w": "it",
+     "start": 16.771,
+     "end": 16.963
+    },
+    {
+     "w": "flies,",
+     "start": 16.963,
+     "end": 17.156
+    },
+    {
+     "w": "until",
+     "start": 17.156,
+     "end": 17.49
+    },
+    {
+     "w": "the",
+     "start": 17.49,
+     "end": 17.682
+    },
+    {
+     "w": "air",
+     "start": 17.682,
+     "end": 17.875
+    },
+    {
+     "w": "gets",
+     "start": 17.875,
+     "end": 18.067
+    },
+    {
+     "w": "thin,",
+     "start": 18.067,
+     "end": 18.259
+    },
+    {
+     "w": "and",
+     "start": 18.349,
+     "end": 18.546
+    },
+    {
+     "w": "within",
+     "start": 18.546,
+     "end": 18.889
+    },
+    {
+     "w": "a",
+     "start": 18.889,
+     "end": 19.086
+    },
+    {
+     "w": "minute,",
+     "start": 19.086,
+     "end": 19.429
+    },
+    {
+     "w": "everyone",
+     "start": 19.579,
+     "end": 19.906
+    },
+    {
+     "w": "takes",
+     "start": 19.906,
+     "end": 20.135
+    },
+    {
+     "w": "a",
+     "start": 20.135,
+     "end": 20.267
+    },
+    {
+     "w": "nap.",
+     "start": 20.267,
+     "end": 20.399
+    },
+    {
+     "w": "Including",
+     "start": 20.599,
+     "end": 20.993
+    },
+    {
+     "w": "the",
+     "start": 20.993,
+     "end": 21.152
+    },
+    {
+     "w": "pilot.",
+     "start": 21.152,
+     "end": 21.429
+    }
+   ]
   },
   {
    "line": 5,
-   "start": 22.01,
-   "end": 27.646,
-   "text": "So you seal the cabin, pump in air squeezed by the engines, and add an outflow valve: a soda can with seats."
+   "start": 21.875,
+   "end": 27.51,
+   "text": "So you seal the cabin, pump in air squeezed by the engines, and add an outflow valve: a soda can with seats.",
+   "words": [
+    {
+     "w": "So",
+     "start": 21.985,
+     "end": 22.185
+    },
+    {
+     "w": "you",
+     "start": 22.185,
+     "end": 22.386
+    },
+    {
+     "w": "seal",
+     "start": 22.386,
+     "end": 22.586
+    },
+    {
+     "w": "the",
+     "start": 22.586,
+     "end": 22.786
+    },
+    {
+     "w": "cabin,",
+     "start": 22.786,
+     "end": 23.135
+    },
+    {
+     "w": "pump",
+     "start": 23.275,
+     "end": 23.445
+    },
+    {
+     "w": "in",
+     "start": 23.445,
+     "end": 23.615
+    },
+    {
+     "w": "air",
+     "start": 23.615,
+     "end": 23.786
+    },
+    {
+     "w": "squeezed",
+     "start": 23.786,
+     "end": 24.082
+    },
+    {
+     "w": "by",
+     "start": 24.082,
+     "end": 24.252
+    },
+    {
+     "w": "the",
+     "start": 24.252,
+     "end": 24.423
+    },
+    {
+     "w": "engines,",
+     "start": 24.423,
+     "end": 24.845
+    },
+    {
+     "w": "and",
+     "start": 24.975,
+     "end": 25.175
+    },
+    {
+     "w": "add",
+     "start": 25.175,
+     "end": 25.376
+    },
+    {
+     "w": "an",
+     "start": 25.376,
+     "end": 25.576
+    },
+    {
+     "w": "outflow",
+     "start": 25.576,
+     "end": 25.925
+    },
+    {
+     "w": "valve:",
+     "start": 25.925,
+     "end": 26.125
+    },
+    {
+     "w": "a",
+     "start": 26.265,
+     "end": 26.467
+    },
+    {
+     "w": "soda",
+     "start": 26.467,
+     "end": 26.819
+    },
+    {
+     "w": "can",
+     "start": 26.819,
+     "end": 27.021
+    },
+    {
+     "w": "with",
+     "start": 27.021,
+     "end": 27.223
+    },
+    {
+     "w": "seats.",
+     "start": 27.223,
+     "end": 27.425
+    }
+   ]
   },
   {
    "line": 6,
-   "start": 28.01,
-   "end": 30.927,
-   "text": "But it wobbles and rolls like a paper plane with a bent wing."
+   "start": 27.875,
+   "end": 30.792,
+   "text": "But it wobbles and rolls like a paper plane with a bent wing.",
+   "words": [
+    {
+     "w": "But",
+     "start": 28.015,
+     "end": 28.201
+    },
+    {
+     "w": "it",
+     "start": 28.201,
+     "end": 28.387
+    },
+    {
+     "w": "wobbles",
+     "start": 28.387,
+     "end": 28.71
+    },
+    {
+     "w": "and",
+     "start": 28.71,
+     "end": 28.896
+    },
+    {
+     "w": "rolls",
+     "start": 28.896,
+     "end": 29.081
+    },
+    {
+     "w": "like",
+     "start": 29.081,
+     "end": 29.267
+    },
+    {
+     "w": "a",
+     "start": 29.267,
+     "end": 29.453
+    },
+    {
+     "w": "paper",
+     "start": 29.453,
+     "end": 29.776
+    },
+    {
+     "w": "plane",
+     "start": 29.776,
+     "end": 29.962
+    },
+    {
+     "w": "with",
+     "start": 29.962,
+     "end": 30.148
+    },
+    {
+     "w": "a",
+     "start": 30.148,
+     "end": 30.333
+    },
+    {
+     "w": "bent",
+     "start": 30.333,
+     "end": 30.519
+    },
+    {
+     "w": "wing.",
+     "start": 30.519,
+     "end": 30.705
+    }
+   ]
   },
   {
    "line": 7,
-   "start": 31.292,
-   "end": 36.771,
-   "text": "So you add a tail with a rudder to swing the nose, elevators to tip it up or down, and ailerons on the wings to roll."
+   "start": 31.156,
+   "end": 36.635,
+   "text": "So you add a tail with a rudder to swing the nose, elevators to tip it up or down, and ailerons on the wings to roll.",
+   "words": [
+    {
+     "w": "So",
+     "start": 31.266,
+     "end": 31.438
+    },
+    {
+     "w": "you",
+     "start": 31.438,
+     "end": 31.61
+    },
+    {
+     "w": "add",
+     "start": 31.61,
+     "end": 31.782
+    },
+    {
+     "w": "a",
+     "start": 31.782,
+     "end": 31.954
+    },
+    {
+     "w": "tail",
+     "start": 31.954,
+     "end": 32.125
+    },
+    {
+     "w": "with",
+     "start": 32.125,
+     "end": 32.297
+    },
+    {
+     "w": "a",
+     "start": 32.297,
+     "end": 32.469
+    },
+    {
+     "w": "rudder",
+     "start": 32.469,
+     "end": 32.768
+    },
+    {
+     "w": "to",
+     "start": 32.768,
+     "end": 32.94
+    },
+    {
+     "w": "swing",
+     "start": 32.94,
+     "end": 33.112
+    },
+    {
+     "w": "the",
+     "start": 33.112,
+     "end": 33.284
+    },
+    {
+     "w": "nose,",
+     "start": 33.284,
+     "end": 33.456
+    },
+    {
+     "w": "elevators",
+     "start": 33.586,
+     "end": 34.114
+    },
+    {
+     "w": "to",
+     "start": 34.114,
+     "end": 34.277
+    },
+    {
+     "w": "tip",
+     "start": 34.277,
+     "end": 34.441
+    },
+    {
+     "w": "it",
+     "start": 34.441,
+     "end": 34.605
+    },
+    {
+     "w": "up",
+     "start": 34.605,
+     "end": 34.769
+    },
+    {
+     "w": "or",
+     "start": 34.769,
+     "end": 34.932
+    },
+    {
+     "w": "down,",
+     "start": 34.932,
+     "end": 35.096
+    },
+    {
+     "w": "and",
+     "start": 35.266,
+     "end": 35.418
+    },
+    {
+     "w": "ailerons",
+     "start": 35.418,
+     "end": 35.796
+    },
+    {
+     "w": "on",
+     "start": 35.796,
+     "end": 35.948
+    },
+    {
+     "w": "the",
+     "start": 35.948,
+     "end": 36.1
+    },
+    {
+     "w": "wings",
+     "start": 36.1,
+     "end": 36.252
+    },
+    {
+     "w": "to",
+     "start": 36.252,
+     "end": 36.404
+    },
+    {
+     "w": "roll.",
+     "start": 36.404,
+     "end": 36.556
+    }
+   ]
   },
   {
    "line": 8,
-   "start": 37.135,
-   "end": 41.438,
-   "text": "Now it steers, until you have to land, at twice highway speed, with no brakes."
+   "start": 37.0,
+   "end": 41.302,
+   "text": "Now it steers, until you have to land, at twice highway speed, with no brakes.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 37.1,
+     "end": 37.373
+    },
+    {
+     "w": "it",
+     "start": 37.373,
+     "end": 37.647
+    },
+    {
+     "w": "steers,",
+     "start": 37.647,
+     "end": 37.92
+    },
+    {
+     "w": "until",
+     "start": 38.04,
+     "end": 38.44
+    },
+    {
+     "w": "you",
+     "start": 38.44,
+     "end": 38.67
+    },
+    {
+     "w": "have",
+     "start": 38.67,
+     "end": 38.9
+    },
+    {
+     "w": "to",
+     "start": 38.9,
+     "end": 39.13
+    },
+    {
+     "w": "land,",
+     "start": 39.13,
+     "end": 39.36
+    },
+    {
+     "w": "at",
+     "start": 39.41,
+     "end": 39.604
+    },
+    {
+     "w": "twice",
+     "start": 39.604,
+     "end": 39.798
+    },
+    {
+     "w": "highway",
+     "start": 39.798,
+     "end": 40.136
+    },
+    {
+     "w": "speed,",
+     "start": 40.136,
+     "end": 40.33
+    },
+    {
+     "w": "with",
+     "start": 40.5,
+     "end": 40.698
+    },
+    {
+     "w": "no",
+     "start": 40.698,
+     "end": 40.896
+    },
+    {
+     "w": "brakes.",
+     "start": 40.896,
+     "end": 41.24
+    }
+   ]
   },
   {
    "line": 9,
-   "start": 41.802,
-   "end": 48.323,
-   "text": "So you add big flaps to fly slower, landing gear with shock absorbers and brakes, and thrust reversers that blow engine air forward."
+   "start": 41.667,
+   "end": 47.25,
+   "text": "So you add big flaps to fly slower, landing gear with brakes, and thrust reversers that blow engine air forward.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.777,
+     "end": 41.99
+    },
+    {
+     "w": "you",
+     "start": 41.99,
+     "end": 42.203
+    },
+    {
+     "w": "add",
+     "start": 42.203,
+     "end": 42.415
+    },
+    {
+     "w": "big",
+     "start": 42.415,
+     "end": 42.628
+    },
+    {
+     "w": "flaps",
+     "start": 42.628,
+     "end": 42.841
+    },
+    {
+     "w": "to",
+     "start": 42.841,
+     "end": 43.054
+    },
+    {
+     "w": "fly",
+     "start": 43.054,
+     "end": 43.267
+    },
+    {
+     "w": "slower,",
+     "start": 43.267,
+     "end": 43.637
+    },
+    {
+     "w": "landing",
+     "start": 43.797,
+     "end": 44.15
+    },
+    {
+     "w": "gear",
+     "start": 44.15,
+     "end": 44.352
+    },
+    {
+     "w": "with",
+     "start": 44.352,
+     "end": 44.555
+    },
+    {
+     "w": "brakes,",
+     "start": 44.555,
+     "end": 44.907
+    },
+    {
+     "w": "and",
+     "start": 45.027,
+     "end": 45.223
+    },
+    {
+     "w": "thrust",
+     "start": 45.223,
+     "end": 45.419
+    },
+    {
+     "w": "reversers",
+     "start": 45.419,
+     "end": 45.906
+    },
+    {
+     "w": "that",
+     "start": 45.906,
+     "end": 46.102
+    },
+    {
+     "w": "blow",
+     "start": 46.102,
+     "end": 46.298
+    },
+    {
+     "w": "engine",
+     "start": 46.298,
+     "end": 46.64
+    },
+    {
+     "w": "air",
+     "start": 46.64,
+     "end": 46.836
+    },
+    {
+     "w": "forward.",
+     "start": 46.836,
+     "end": 47.177
+    }
+   ]
   },
   {
    "line": 10,
-   "start": 48.688,
-   "end": 52.979,
-   "text": "But before you fasten your seatbelt, follow, because next we're building a fireworks show."
+   "start": 47.615,
+   "end": 51.906,
+   "text": "But before you fasten your seatbelt, follow, because next we're building a fireworks show.",
+   "words": [
+    {
+     "w": "But",
+     "start": 47.755,
+     "end": 47.945
+    },
+    {
+     "w": "before",
+     "start": 47.945,
+     "end": 48.275
+    },
+    {
+     "w": "you",
+     "start": 48.275,
+     "end": 48.465
+    },
+    {
+     "w": "fasten",
+     "start": 48.465,
+     "end": 48.795
+    },
+    {
+     "w": "your",
+     "start": 48.795,
+     "end": 48.985
+    },
+    {
+     "w": "seatbelt,",
+     "start": 48.985,
+     "end": 49.315
+    },
+    {
+     "w": "follow,",
+     "start": 49.475,
+     "end": 49.835
+    },
+    {
+     "w": "because",
+     "start": 49.975,
+     "end": 50.298
+    },
+    {
+     "w": "next",
+     "start": 50.298,
+     "end": 50.484
+    },
+    {
+     "w": "we're",
+     "start": 50.484,
+     "end": 50.67
+    },
+    {
+     "w": "building",
+     "start": 50.67,
+     "end": 50.993
+    },
+    {
+     "w": "a",
+     "start": 50.993,
+     "end": 51.179
+    },
+    {
+     "w": "fireworks",
+     "start": 51.179,
+     "end": 51.639
+    },
+    {
+     "w": "show.",
+     "start": 51.639,
+     "end": 51.825
+    }
+   ]
   },
   {
    "line": 11,
-   "start": 53.344,
-   "end": 57.865,
-   "text": "Now just add tiny windows, tiny pretzels, and a black box that's actually orange."
+   "start": 52.271,
+   "end": 56.792,
+   "text": "Now just add tiny windows, tiny pretzels, and a black box that's actually orange.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 52.381,
+     "end": 52.616
+    },
+    {
+     "w": "just",
+     "start": 52.616,
+     "end": 52.85
+    },
+    {
+     "w": "add",
+     "start": 52.85,
+     "end": 53.085
+    },
+    {
+     "w": "tiny",
+     "start": 53.085,
+     "end": 53.493
+    },
+    {
+     "w": "windows,",
+     "start": 53.493,
+     "end": 53.901
+    },
+    {
+     "w": "tiny",
+     "start": 54.031,
+     "end": 54.446
+    },
+    {
+     "w": "pretzels,",
+     "start": 54.446,
+     "end": 54.861
+    },
+    {
+     "w": "and",
+     "start": 54.991,
+     "end": 55.18
+    },
+    {
+     "w": "a",
+     "start": 55.18,
+     "end": 55.368
+    },
+    {
+     "w": "black",
+     "start": 55.368,
+     "end": 55.557
+    },
+    {
+     "w": "box",
+     "start": 55.557,
+     "end": 55.746
+    },
+    {
+     "w": "that's",
+     "start": 55.746,
+     "end": 55.934
+    },
+    {
+     "w": "actually",
+     "start": 55.934,
+     "end": 56.403
+    },
+    {
+     "w": "orange.",
+     "start": 56.403,
+     "end": 56.731
+    }
+   ]
   },
   {
    "line": 12,
-   "start": 58.229,
-   "end": 61.073,
-   "text": "Two wings, three hundred seats, zero legroom."
+   "start": 57.156,
+   "end": 60.0,
+   "text": "Two wings, three hundred seats, zero legroom.",
+   "words": [
+    {
+     "w": "Two",
+     "start": 57.326,
+     "end": 57.636
+    },
+    {
+     "w": "wings,",
+     "start": 57.636,
+     "end": 57.946
+    },
+    {
+     "w": "three",
+     "start": 58.086,
+     "end": 58.311
+    },
+    {
+     "w": "hundred",
+     "start": 58.311,
+     "end": 58.701
+    },
+    {
+     "w": "seats,",
+     "start": 58.701,
+     "end": 58.926
+    },
+    {
+     "w": "zero",
+     "start": 59.096,
+     "end": 59.516
+    },
+    {
+     "w": "legroom.",
+     "start": 59.516,
+     "end": 59.936
+    }
+   ]
   },
   {
    "line": 13,
-   "start": 61.438,
-   "end": 63.906,
-   "text": "And congrats, you just built an airplane yourself."
+   "start": 60.365,
+   "end": 62.833,
+   "text": "And congrats, you just built an airplane yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 60.485,
+     "end": 60.744
+    },
+    {
+     "w": "congrats,",
+     "start": 60.744,
+     "end": 61.195
+    },
+    {
+     "w": "you",
+     "start": 61.325,
+     "end": 61.513
+    },
+    {
+     "w": "just",
+     "start": 61.513,
+     "end": 61.702
+    },
+    {
+     "w": "built",
+     "start": 61.702,
+     "end": 61.89
+    },
+    {
+     "w": "an",
+     "start": 61.89,
+     "end": 62.079
+    },
+    {
+     "w": "airplane",
+     "start": 62.079,
+     "end": 62.407
+    },
+    {
+     "w": "yourself.",
+     "start": 62.407,
+     "end": 62.735
+    }
+   ]
   },
   {
    "line": 14,
-   "start": 64.271,
-   "end": 67.938,
-   "text": "And the middle armrest? Nobody knows whose it is. Science has no answer."
+   "start": 63.198,
+   "end": 66.865,
+   "text": "And the middle armrest? Nobody knows whose it is. Science has no answer.",
+   "words": [
+    {
+     "w": "And",
+     "start": 63.318,
+     "end": 63.489
+    },
+    {
+     "w": "the",
+     "start": 63.489,
+     "end": 63.66
+    },
+    {
+     "w": "middle",
+     "start": 63.66,
+     "end": 63.831
+    },
+    {
+     "w": "armrest?",
+     "start": 63.831,
+     "end": 64.128
+    },
+    {
+     "w": "Nobody",
+     "start": 64.328,
+     "end": 64.776
+    },
+    {
+     "w": "knows",
+     "start": 64.776,
+     "end": 64.956
+    },
+    {
+     "w": "whose",
+     "start": 64.956,
+     "end": 65.137
+    },
+    {
+     "w": "it",
+     "start": 65.137,
+     "end": 65.317
+    },
+    {
+     "w": "is.",
+     "start": 65.317,
+     "end": 65.498
+    },
+    {
+     "w": "Science",
+     "start": 65.648,
+     "end": 65.886
+    },
+    {
+     "w": "has",
+     "start": 65.886,
+     "end": 66.125
+    },
+    {
+     "w": "no",
+     "start": 66.125,
+     "end": 66.363
+    },
+    {
+     "w": "answer.",
+     "start": 66.363,
+     "end": 66.778
+    }
+   ]
   }
  ]
 }
