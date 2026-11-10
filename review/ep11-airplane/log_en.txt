@@ -1,0 +1,12 @@
+airplane: 69.96s, 2099 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 600s
+audio done
+final out/airplane/airplane_final.mp4
+QA  duration 69.97s  loudness -14.0 LUFS  true peak -1.4 dBFS  1080x1920 @ 30/1  frames 2099
+QA sheet out/airplane/qa_sheet.png
