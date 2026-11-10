@@ -464,7 +464,7 @@ class RaceCar(EpisodeV2):
                    "DRINK", "DRIVER", "HORSEPOWER", "ZERO", "YOURSELF", "SPRAY", "PURPOSE"],
             "ar_sa": ["مبروك", "مكينة", "كارتينج", "سباق", "منعطف", "تزحلق", "أجنحة", "مقلوبة", "يضغطها", "السقف", "نظرياً", "ثلاثمية", "نار",
                       "الكربون", "مولّعة", "ألف", "وفتحات", "الطرية", "تخلص", "صامولة", "عشرين", "ثانيتين", "سريعة", "جدار", "كبسولة", "طوق",
-                      "باص", "خشم", "تابعني", "سفينة", "ملصقات", "دركسون", "زر", "لمشروبك", "سوّاق", "حصان", "وصفر", "بيدك", "يرشّه", "متعمّد"]}
+                      "باص", "خشم", "تابعني", "سفينة", "ملصقات", "دركسون", "زر", "لمشروبك", "سوّاق", "حصان", "وصفر", "بيدك", "ورد", "يرشّها", "متعمّد"]}
     KEYS = {"ar_sa": {
         ("hook", "BOLT"): "ركّبت", ("hook", "ENGINE"): "مكينة", ("hook", "GO-KART"): "كارتينج", ("hook", "CONGRATS"): "مبروك", ("hook", "RACE"): "سباق",
         ("break1", "FIRST"): "أول", ("break1", "CORNER"): "منعطف", ("break1", "SLIDES"): "تزحلق", ("break1", "OFF"): "برّا", ("break1", "TRACK"): "الحلبة",
@@ -485,7 +485,7 @@ class RaceCar(EpisodeV2):
         ("reveal", "BUTTONS"): "زر", ("reveal", "ONE"): "واحد", ("reveal", "DRINK"): "لمشروبك",
         ("stat", "ONE"): "سوّاق", ("stat", "THOUSAND"): "ألف", ("stat", "ZERO"): "وصفر",
         ("closer", "CONGRATS"): "مبروك",
-        ("tag", "WINNER"): "الفايز", ("tag", "DON'T"): "يشربه", ("tag", "SPRAY"): "يرشّه", ("tag", "PURPOSE"): "متعمّد"}}
+        ("tag", "WINNER"): "الفايز", ("tag", "ROSE"): "ورد", ("tag", "DON'T"): "يشربه", ("tag", "SPRAY"): "يرشّه", ("tag", "PURPOSE"): "متعمّد"}}
     TEXT = {"en": {"follow": ("FOLLOW", "next: a cruise ship"),
                    "stat": [("1", "DRIVER"), ("1,000", "HORSEPOWER"), ("0", "CUP HOLDERS")],
                    "L": {"engine": "HUGE ENGINE", "car": "YOUR RACE CAR", "grip": "NO GRIP", "fwing": "FRONT WING", "rwing": "REAR WING", "lift": "LIFT",
@@ -499,7 +499,7 @@ class RaceCar(EpisodeV2):
                             "down": "ضغط لتحت", "theory": "نظرياً", "unit": "كم/س", "disc": "قرص كربون", "pads": "فحمات", "duct": "فتحة هوا",
                             "soft": "كفرات طرية", "gf": "كفرات قدّام", "gr": "كفرات ورا", "nut": "صامولة وحدة", "crew": "20 شخص", "gun": "مسدس هوا",
                             "jack": "رافعة", "cell": "كبسولة النجاة", "halo": "طوق تيتانيوم", "bus": "12 طن", "nose": "خشم يتكسّر", "start": "تشغيل",
-                            "btn": "زر", "drink": "مشروب"}}}
+                            "btn": "زر", "drink": "مشروب", "rose": "موية ورد"}}}
 
     # ------------------------------------------------------------------ timing
     def _tracks(self):
@@ -528,6 +528,8 @@ class RaceCar(EpisodeV2):
             "s1": ("stat", "ONE", 0.03), "s2": ("stat", "THOUSAND", 0.3), "s3": ("stat", "ZERO", 0.66),
             "cong2": ("closer", "CONGRATS", 0.16),
             "winner": ("tag", "WINNER", 0.12), "nodrink": ("tag", "DON'T", 0.36), "spray": ("tag", "SPRAY", 0.66), "purpose": ("tag", "PURPOSE", 0.9)})
+        if self.rtl:                                                   # the Gulf podium drink: only the Saudi script names it
+            T["rose"] = self.w("tag", "ROSE", 0.3)
         T["land"] = T["engine"] + 0.05                                # the engine lands on its word
         T["poof"] = T["congrats"]
         T["launch"] = s("break1") - 0.5
@@ -1358,8 +1360,8 @@ class RaceCar(EpisodeV2):
             x2, y2 = self.at(226, -40)
             self.label(x2, y2, x2 - 60, y2 - 330, "nose", T["nose"] - 0.1, T["crunch"] + 0.5, PAINT)
             self.badge("check", T["dont"], s("cta") + 0.05, x=880, y=470)
-        elif ph == "tag":
-            pass
+        elif ph == "tag" and "rose" in T:
+            self.chip(540, 440, "rose", T["rose"] - 0.1, T["spray"] - 0.15, accent=HILITE, size=48)
 
     def foil(self, c, tw):
         """A card with a wing section on it: the right way up it lifts, upside down it presses."""
