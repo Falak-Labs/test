@@ -1,4 +1,5 @@
-# Last posting run 2026-11-10T08:06:38+00:00
+# Last posting run 2026-11-10T08:20:17+00:00
 
 - en: Buffer channels: youtube (Congrats Engineer), instagram (congratsengineer)
-- ar: no Buffer key yet (secret BUFFER_KEY_AR) - its posts wait
+- ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
+- ar: on hold in config.yml - nothing is posted for this language
