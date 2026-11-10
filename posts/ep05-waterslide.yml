@@ -1,21 +1,29 @@
 episode: 5
-date: 2026-11-22
+date: 2026-11-18
 video:
   en: media/ep05-waterslide-en.mp4
   ar: media/ep05-waterslide-ar.mp4
 en:
-  title: "Congrats, you just built a water slide 💦"
-  caption: |
-    Build #5: The Water Slide 💦
-    Pumps, banked turns, a red light and a run-out lane. Every part is there for a reason.
-    What should we build next? 👇
-
-    #engineering #howitworks #waterslide #waterpark #stem
+  title: "How Water Slides Work: Why You Don't Fly Off the Turns 🌊"
+  text: |
+    Why don't you fly off a water slide? 🌊
+    It starts as water on a plastic ramp. Then you add pumps, banked turns, a red light that waits for the rider ahead, and a splash pool deep enough to land in.
+    What's the scariest slide you've ever ridden? 👇
+  next: "a rocket that lands itself 🚀"
+  seo: "Pumps that keep a sheet of water flowing, banked curves, raised walls and a closed tube, a dispatch light with an exit sensor, a run-out lane and a deep splash pool."
+  tags:
+    tiktok: "#waterpark #waterslide #engineering #learnontiktok #physics"
+    instagram: "#waterpark #waterslide #engineering #physics #howitworks"
+    youtube: "#waterslide #engineering #physics"
 ar:
-  title: "مبروك، بنيت زحليقة موية بنفسك 💦"
-  caption: |
-    البناء رقم 5: زحليقة الموية 💦
-    مضخات، لفات مايلة، إشارة حمرا، وممر تهدئة… كل قطعة لها سبب.
-    وش نبني بعدها؟ 👇
-
-    #هندسة #كيف_تبني #زحليقة #ملاهي_مائية #تعلم_على_التيك_توك
+  title: "كيف تشتغل زحليقة الموية؟ وليش ما تطير بالمنعطف 🌊"
+  text: |
+    ليش ما تطير برا زحليقة الموية؟ 🌊
+    تبدأ بموية على لوح بلاستيك، وبعدين تضيف مضخات، لفات مايلة، إشارة حمرا تنتظر اللي قدامك، ومسبح غويط تنزل فيه.
+    وش أخوف زحليقة ركبتها؟ 👇
+  next: "صاروخ ينزل بروحه 🚀"
+  seo: "مضخات تدف الموية، لفات مايلة وجدران عالية وأنبوب مسكّر، إشارة مع حساس، ممر تهدئة، ومسبح غويط."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #زحليقة #السعودية"
+    instagram: "#هندسة #زحليقة #ملاهي #معلومات #السعودية"
+    youtube: "#هندسة #زحليقة #معلومات"

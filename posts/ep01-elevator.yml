@@ -1,22 +1,30 @@
 episode: 1
 date: 2026-11-10
-now: [en.tiktok]          # the first test: post this one right away
+now: [en.tiktok]          # posted on Nov 10 as the first test
 video:
   en: media/ep01-elevator-en.mp4
   ar: media/ep01-elevator-ar.mp4
 en:
-  title: "Congrats, you just built an elevator 🛗"
-  caption: |
-    Build #1: The Elevator 🛗
-    You build it, it breaks, you fix it, four times, until it's a real elevator.
-    What should we build next? 👇
-
-    #engineering #howitworks #elevator #science #stem
+  title: "How Elevators Work (and Why They Don't Fall) 🛗"
+  text: |
+    How elevators really work, in 60 seconds 🛗
+    You start with a rope and a box. It breaks 4 times, and every fix is a real part inside the elevator you rode today.
+    Which fix surprised you? 👇
+  next: "a skyscraper 🏙️"
+  seo: "Counterweight, speed governor and safety brakes, door interlocks and light curtains, emergency battery and rescue mode: how a modern elevator stays safe."
+  tags:
+    tiktok: "#engineering #howitworks #elevator #learnontiktok #stem"
+    instagram: "#engineering #howitworks #elevator #stem #science"
+    youtube: "#engineering #howitworks #elevator"
 ar:
-  title: "مبروك، بنيت مصعد بنفسك 🛗"
-  caption: |
-    البناء رقم 1: المصعد 🛗
-    تبنيه، يخرب، تصلّحه… أربع مرات لين يصير مصعد حقيقي.
-    وش نبني بعده؟ 👇
-
-    #هندسة #كيف_تبني #مصعد #علوم #تعلم_على_التيك_توك
+  title: "كيف يشتغل المصعد؟ ووش يمنعه يطيح 🛗"
+  text: |
+    كيف يشتغل المصعد فعلاً؟ في دقيقة وحدة 🛗
+    تبدأ بحبل وصندوق، ويخرب أربع مرات، وكل تصليحة قطعة حقيقية موجودة في المصعد اللي ركبته اليوم.
+    أي تصليحة فاجأتك؟ 👇
+  next: "ناطحة سحاب 🏙️"
+  seo: "الثقل الموازن، منظّم السرعة والفرامل، أقفال الأبواب وشعاع الضوء، وبطارية الطوارئ ونظام الإنقاذ: كذا يظل المصعد آمن."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #مصعد #السعودية"
+    instagram: "#هندسة #معلومات #هل_تعلم #مصعد #السعودية"
+    youtube: "#هندسة #معلومات #مصعد"

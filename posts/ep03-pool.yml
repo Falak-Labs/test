@@ -1,21 +1,29 @@
 episode: 3
-date: 2026-11-16
+date: 2026-11-14
 video:
   en: media/ep03-pool-en.mp4
   ar: media/ep03-pool-ar.mp4
 en:
-  title: "Congrats, you just built a disappearing pool"
-  caption: |
-    Build #3: The Disappearing Pool
-    A patio that sinks into a pool in five minutes, without flooding the backyard.
-    What should we build next? 👇
-
-    #engineering #howitworks #pool #backyard #stem
+  title: "How a Disappearing Pool Works (Patio to Pool in 5 Min) 🤯"
+  text: |
+    A patio that sinks into a pool at the press of a button 🤯
+    It starts as a floating deck. Then it breaks 4 times: it tips, it won't go down, the water has nowhere to go, and a pool float gets stuck under it.
+    Would you stand on it? 👇
+  next: "a roller coaster 🎢"
+  seo: "How a hidden pool floor works: a stainless steel deck with air chambers, cables and pulleys, a piston that runs on water, a gap for the water to flow around, and safety sensors."
+  tags:
+    tiktok: "#engineering #swimmingpool #luxuryhomes #learnontiktok #howitworks"
+    instagram: "#engineering #swimmingpool #luxuryhomes #howitworks #architecture"
+    youtube: "#engineering #swimmingpool #howitworks"
 ar:
-  title: "مبروك، بنيت مسبح يختفي بنفسك"
-  caption: |
-    البناء رقم 3: المسبح اللي يختفي
-    حوش يتحول لمسبح في خمس دقايق… وبدون ما يغرق البيت.
-    وش نبني بعده؟ 👇
-
-    #هندسة #كيف_تبني #مسبح #بيت_الأحلام #تعلم_على_التيك_توك
+  title: "مسبح يختفي ويصير حوش بضغطة زر 🤯 كيف يشتغل؟"
+  text: |
+    حوش ينزل ويصير مسبح بضغطة زر 🤯
+    يبدأ بأرضية خشب تطفي فوق الموية، ويخرب أربع مرات: ينقلب، ما يرضى ينزل، الموية ما تلقى لها مكان، وعوامة تعلق تحته.
+    تتجرأ توقف عليه؟ 👇
+  next: "قطار موت 🎢"
+  seo: "أرضية ستانلس ستيل فيها غرف هوا، كيابل وبكرات، مكبس يشتغل بالموية، فتحة حول الطرف تمشي فيها الموية، وحساسات أمان."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #مسبح #السعودية"
+    instagram: "#هندسة #مسبح #ديكور #معلومات #السعودية"
+    youtube: "#هندسة #مسبح #معلومات"

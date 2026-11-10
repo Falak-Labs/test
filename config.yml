@@ -5,9 +5,17 @@ keys:
 times:                  # every post of an episode goes out on its "date" at this local time
   en: {zone: America/New_York, at: "19:00"}
   ar: {zone: Asia/Riyadh, at: "21:00"}
+every_days: 2           # at least this many days between two posts on the same channel (late posts queue up behind)
 youtube:
   categoryId: "27"      # Education
   madeForKids: false
+cta:                    # last caption line; {next} comes from the episode file
+  en:
+    default: "Next build: {next} Follow so you don't miss it."
+    youtube: "Next build: {next} Subscribe so you don't miss it."
+  ar:
+    default: "البناء الجاي: {next} تابعنا عشان ما يفوتك."
+    youtube: "البناء الجاي: {next} اشترك عشان ما يفوتك."
 pages_base: https://falak-labs.github.io/test
 raw_base: https://raw.githubusercontent.com/Falak-Labs/test/main
-test_only: true         # true = only the targets listed under "now:" are posted (first test run)
+test_only: false        # true = only the targets listed under "now:" are posted

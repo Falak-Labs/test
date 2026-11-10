@@ -1,21 +1,29 @@
 episode: 2
-date: 2026-11-13
+date: 2026-11-12
 video:
   en: media/ep02-skyscraper-en.mp4
   ar: media/ep02-skyscraper-ar.mp4
 en:
-  title: "Congrats, you just built a skyscraper 🏙️"
-  caption: |
-    Build #2: The Skyscraper 🏙️
-    100 floors, a storm, an earthquake and a fire, and the real fixes engineers use for each.
-    What should we build next? 👇
-
-    #engineering #howitworks #skyscraper #architecture #stem
+  title: "How Skyscrapers Survive Wind, Earthquakes & Fire 🏙️"
+  text: |
+    How do skyscrapers survive wind, earthquakes and fire? 🏙️
+    Stack 100 apartments, then fix it 4 times: sky lobbies, a giant swinging steel ball, a frame that bends, and smoke-proof stairs.
+    Would you live on floor 99? 👇
+  next: "a pool that disappears 🤯"
+  seo: "Express elevators and sky lobbies, a tuned mass damper, a flexible frame with dampers, deep foundations, sprinklers, pressurized stairwells and refuge floors."
+  tags:
+    tiktok: "#engineering #skyscraper #architecture #learnontiktok #howitworks"
+    instagram: "#engineering #skyscraper #architecture #howitworks #stem"
+    youtube: "#engineering #skyscraper #architecture"
 ar:
-  title: "مبروك، بنيت ناطحة سحاب بنفسك 🏙️"
-  caption: |
-    البناء رقم 2: ناطحة السحاب 🏙️
-    مية دور، عاصفة، زلزال، وحريق… وكل حل يستخدمه المهندسين فعلًا.
-    وش نبني بعدها؟ 👇
-
-    #هندسة #كيف_تبني #ناطحة_سحاب #عمارة #تعلم_على_التيك_توك
+  title: "كيف تصمد ناطحة السحاب قدام الرياح والزلازل والحريق؟ 🏙️"
+  text: |
+    كيف تصمد ناطحة السحاب قدام الرياح والزلازل والحريق؟ 🏙️
+    تكدّس مية شقة فوق بعض، وتصلّحها أربع مرات: مصاعد سريعة، كورة حديد ضخمة تتمرجح، هيكل ينثني، ودرج ما يدخله الدخان.
+    تقبل تسكن في الدور 99؟ 👇
+  next: "مسبح يختفي 🤯"
+  seo: "مصاعد سريعة ولوبي فوق، كورة حديد تخفف التمايل، هيكل مرن ومساعدات، أساسات توصل الصخر، رشاشات موية، ودرج آمن من الدخان وأدوار آمنة."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #ناطحة_سحاب #السعودية"
+    instagram: "#هندسة #معلومات #هل_تعلم #ناطحة_سحاب #السعودية"
+    youtube: "#هندسة #معلومات #ناطحة_سحاب"
