@@ -801,7 +801,7 @@ class Captions:
         fname = "Tajawal-Black" if ar else "Poppins-Black"
         fs = size * (1.06 if ar else 1.0)
         meas = (lambda s, z: width_ar(s, z, fname)) if ar else (lambda s, z: text_width(s, z, fname))
-        gap = fs * 0.40
+        gap = fs * 0.50
         ws = [meas(self.words[i]["word"], fs) for i in ch]
         total = sum(ws) + gap * (len(ch) - 1)
         if total > self.max_w:

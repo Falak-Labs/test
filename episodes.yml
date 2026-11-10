@@ -8,3 +8,4 @@ episodes:
   - {slug: ep04-coaster, kit: coaster, look: 1}
   - {slug: ep05-waterslide, kit: waterslide, look: 1}
   - {slug: ep06-rocket, kit: rocket, look: 2}
+  - {slug: ep07-castle, kit: castle, look: 2}

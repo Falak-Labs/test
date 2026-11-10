@@ -49,7 +49,9 @@ def main():
     states = {}
     for fn in sorted(os.listdir(os.path.join(ROOT, "state"))):
         if fn.endswith(".json"):
-            states[fn[:-5]] = json.load(open(os.path.join(ROOT, "state", fn), encoding="utf-8"))
+            d = json.load(open(os.path.join(ROOT, "state", fn), encoding="utf-8"))
+            if isinstance(d, dict) and "targets" in d:           # (state/ also holds the Buffer schema cache)
+                states[fn[:-5]] = d
     # only ask Buffer about languages that still have a post whose outcome is unknown (saves API requests)
     open_langs = {tgt.split(".")[0] for st in states.values() for tgt, t in st["targets"].items()
                   if t.get("id") and not (t.get("status") == "sent" and t.get("link"))}

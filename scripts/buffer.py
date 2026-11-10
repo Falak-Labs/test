@@ -49,9 +49,9 @@ class Buffer:
             r = requests.post(API, json={"query": query, "variables": variables or {}}, timeout=90,
                               headers={"Authorization": f"Bearer {self.key}", "Content-Type": "application/json"})
             self.calls += 1
-            for hk, hv in r.headers.items():
-                if "ratelimit" in hk.lower() and "policy" not in hk.lower():
-                    Buffer.quota[self.label] = str(hv)[:200]
+            seen = [f"{hk}={hv}" for hk, hv in r.headers.items() if "ratelimit" in hk.lower() and "reset" not in hk.lower()]
+            if seen:
+                Buffer.quota[self.label] = "; ".join(seen)[:300]
             if r.status_code == 429 or r.status_code >= 500:
                 wait = int(r.headers.get("Retry-After", "0") or 0) or 10 * (attempt + 1)
                 if r.status_code == 429 and wait > 900:

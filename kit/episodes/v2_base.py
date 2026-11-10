@@ -32,7 +32,8 @@ from bik.captions import word_timings, Captions as _Finder  # noqa: E402
 from bik.v2 import (lin_paint, rad_paint, rr, vrect, cyl, cyl_path, box, add_glow, contact_shadow, light_cone, puff,  # noqa: E402,F401
                     glass, ACCENT, WARN, GOOD, HILITE, INK, GLASS, PLUS, SCREEN)
 from bik.v2set import (STEEL, SHIRTS, dash_paint, hard_hat, hats_in_the_air, lattice, beacon, floodlight, bunker,  # noqa: E402,F401
-                       engineer, buried_line, building_ghost, sea, heart, rumble, boom, gas_hiss)
+                       engineer, person, buried_line, building_ghost, sea, heart, rumble, boom, gas_hiss,
+                       skyline_night, window_night, room, underwater, bubbles, splash, sparks_shower)
 
 W, H = 1080, 1920
 LABELS = ["hook", "break1", "fix1", "break2", "fix2", "break3", "fix3", "break4", "fix4", "cta", "reveal", "stat",

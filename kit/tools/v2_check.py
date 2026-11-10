@@ -6,7 +6,9 @@
   (enough to check anchors, captions and layout before the real voice exists; real timings will differ).
 - Prints the duration, the start of every beat, every anchor in T and the anchors whose word was NOT FOUND in its line.
 - "beats" (default) renders the middle of each of the 14 beats; or give times in seconds, comma separated.
-- "anchors" alone (no stills): add  nostills=1
+- sweep=0.5 : instead of stills, draw a frame every 0.5 s through the whole episode and build the sound list (finds
+  crashes at moments you never looked at, and slow frames).  Takes 2-3 minutes.
+- anchors only (no stills): add  nostills=1.   Keep the full-size frames: add  keep=1  (they are deleted otherwise).
 """
 import importlib.util
 import os
@@ -49,6 +51,30 @@ def main():
                                                                                for lab, key, k in ep.missing))
     else:
         print("anchors: all found")
+    if opts.get("sweep"):                         # draw a frame every N seconds through the whole episode: catches crashes
+        import numpy as np
+        import skia
+        step = float(opts["sweep"])
+        surf = skia.Surface(1080, 1920)
+        c = surf.getCanvas()
+        t, n, worst, t0 = 0.0, 0, (0.0, 0.0), time.time()
+        while t < ep.duration:
+            f0 = time.time()
+            c.save()
+            ep.draw(c, t)
+            c.restore()
+            d = time.time() - f0
+            if d > worst[0]:
+                worst = (d, t)
+            n += 1
+            t += step
+        ev = ep.sfx_events()
+        bad = [i for i, e in enumerate(ev) if not (len(e) == 3 and (e[0] is None or isinstance(e[0], (int, float)))
+                                                   and (e[1] is None or isinstance(e[1], np.ndarray)) and isinstance(e[2], (int, float)))]
+        late = [round(e[0], 2) for e in ev if e[0] is not None and not -0.5 <= e[0] <= ep.duration]
+        print(f"sweep: {n} frames drawn without errors in {time.time() - t0:.0f}s; slowest {worst[0]:.2f}s at t={worst[1]:.1f}; "
+              f"{len(ev)} sounds" + (f"; BAD sound entries at {bad}" if bad else "") + (f"; sounds outside the video: {late}" if late else ""))
+        return
     if opts.get("nostills"):
         return
     from bik.render import still, contact_sheet
@@ -64,6 +90,12 @@ def main():
     paths = [still(ep, t, os.path.join(out, f"f{t:06.2f}.png")) for t in times]
     sheet = contact_sheet(paths, labels, os.path.join(out, "sheet.png"), cols=int(opts.get("cols", 5)), scale=float(opts.get("scale", 0.3)))
     print(f"{len(times)} stills in {time.time() - t0:.0f}s -> {sheet}")
+    if not opts.get("keep"):                      # full-size frames are ~4 MB each: keep only the sheet (keep=1 to keep them)
+        for p_ in paths:
+            try:
+                os.remove(p_)
+            except OSError:
+                pass
     if tmp:
         tmp.cleanup()
 

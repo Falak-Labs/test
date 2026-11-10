@@ -106,20 +106,35 @@ def bunker(c, x, t, lit=0.0, w=250, h=128):
         vrect(c, x, -h, w * 0.45, h, [("#FF9A4D", 0.34 * lit), ("#FF9A4D", 0.0)])
 
 
-def engineer(c, x, y, h, shirt, t, pose="stand", soot=0.0, face=1):
-    """Small rounded engineer in a hard hat, feet at (x, y). pose: stand | cheer | look | point | duck."""
+def person(c, x, y, h, shirt, t, pose="stand", soot=0.0, face=1, hat="none", hair="#2B2530", skin="#E8B48A",
+           pants="#1F2538", band=False, wet=0.0, a=1.0):
+    """Small rounded character, feet at (x, y), h = height in world units (an adult is about 120-140).
+    pose: stand | cheer | look | point | duck | walk | sit | carry (arms forward) | shrug.
+    hat: "hard" (yellow hard hat) | "none" (hair) | "beanie" (dark, pulled low) | "cap".  band: reflective vest stripe.
+    soot 0..1 darkens them, wet 0..1 adds drips.  face: 1 looks right, -1 left."""
+    if a <= 0:
+        return
     u = h / 140.0
-    skin = mix("#E8B48A", "#2A2A30", soot * 0.7)
+    skin = mix(skin, "#2A2A30", soot * 0.7)
     shirt = mix(shirt, "#22242C", soot * 0.75)
     c.save()
     c.translate(x, y)
+    if a < 1:
+        c.saveLayerAlpha(None, int(255 * a))
     if pose == "duck":
         c.scale(1, 0.64)
     if pose == "cheer":
         c.translate(0, -abs(math.sin(t * 9 + x)) * 10 * u)
     contact_shadow(c, 0, 0, 70 * u, 0.45, 12 * u)
-    for dx in (-13, 3):
-        box(c, dx * u, -52 * u, 11 * u, 52 * u, "#1F2538", r=5 * u)
+    sw = math.sin(t * 9 + x * 0.05) * 9 * u if pose == "walk" else 0.0
+    if pose == "sit":
+        for dx in (-13, 3):
+            box(c, dx * u, -40 * u, 30 * u * face if face > 0 else -30 * u, 11 * u, pants, r=5 * u)
+            box(c, (dx + 26 * face) * u, -40 * u, 11 * u, 40 * u, pants, r=5 * u)
+        c.translate(0, 12 * u)
+    else:
+        box(c, -13 * u + sw, -52 * u, 11 * u, 52 * u, pants, r=5 * u)
+        box(c, 3 * u - sw, -52 * u, 11 * u, 52 * u, pants, r=5 * u)
     arm = P(skin, 1, stroke=10 * u)
     if pose == "cheer":
         for sd in (-1, 1):
@@ -130,24 +145,53 @@ def engineer(c, x, y, h, shirt, t, pose="stand", soot=0.0, face=1):
     elif pose == "duck":
         for sd in (-1, 1):
             c.drawLine(sd * 17 * u, -98 * u, sd * 12 * u, -148 * u, arm)
+    elif pose == "carry":
+        for sd in (-1, 1):
+            c.drawLine(sd * 12 * u, -96 * u, (sd * 8 + 38 * face) * u, -84 * u, arm)
+    elif pose == "shrug":
+        for sd in (-1, 1):
+            c.drawLine(sd * 18 * u, -100 * u, sd * 40 * u, -104 * u, arm)
+            c.drawLine(sd * 40 * u, -104 * u, sd * 46 * u, -122 * u, arm)
     else:
         for sd in (-1, 1):
-            c.drawLine(sd * 18 * u, -98 * u, sd * 22 * u, -58 * u, arm)
+            c.drawLine(sd * 18 * u, -98 * u, sd * 22 * u - sw * sd * 0.6, -58 * u, arm)
     box(c, -21 * u, -110 * u, 42 * u, 64 * u, shirt, r=15 * u)
-    vrect(c, -21 * u, -80 * u, 42 * u, 9 * u, [("#F8FAFC", 0.85 * (1 - soot)), ("#CBD5E1", 0.85 * (1 - soot))])   # reflective band
+    if band:
+        vrect(c, -21 * u, -80 * u, 42 * u, 9 * u, [("#F8FAFC", 0.85 * (1 - soot)), ("#CBD5E1", 0.85 * (1 - soot))])
     tilt = -16 * face if pose in ("look", "point") else 0
     c.save()
     c.translate(0, -112 * u)
     c.rotate(tilt)
     c.drawCircle(0, -15 * u, 18 * u, rad_paint(-6 * u, -22 * u, 30 * u, [shade(skin, 0.15), skin, shade(skin, -0.25)]))
-    hat = skia.Path()                                                # hard hat
-    hat.moveTo(-20 * u, -18 * u)
-    hat.cubicTo(-20 * u, -44 * u, 20 * u, -44 * u, 20 * u, -18 * u)
-    hat.close()
-    c.drawPath(hat, lin_paint(-20 * u, 0, 20 * u, 0, ["#FDE68A", "#FACC15", "#CA8A04"]))
-    c.drawRRect(rr(-25 * u, -21 * u, 50 * u, 7 * u, 3 * u), P(mix("#EAB308", "#3A3A3A", soot * 0.5)))
+    dome = skia.Path()
+    dome.moveTo(-20 * u, -18 * u)
+    dome.cubicTo(-20 * u, -44 * u, 20 * u, -44 * u, 20 * u, -18 * u)
+    dome.close()
+    if hat == "hard":
+        c.drawPath(dome, lin_paint(-20 * u, 0, 20 * u, 0, ["#FDE68A", "#FACC15", "#CA8A04"]))
+        c.drawRRect(rr(-25 * u, -21 * u, 50 * u, 7 * u, 3 * u), P(mix("#EAB308", "#3A3A3A", soot * 0.5)))
+    elif hat == "beanie":
+        c.drawPath(dome, lin_paint(-20 * u, 0, 20 * u, 0, ["#3A4258", "#1F2538", "#11151F"]))
+        c.drawRRect(rr(-21 * u, -22 * u, 42 * u, 9 * u, 4 * u), P("#11151F"))
+    elif hat == "cap":
+        c.drawPath(dome, lin_paint(-20 * u, 0, 20 * u, 0, [shade(shirt, 0.25), shirt, shade(shirt, -0.3)]))
+        c.drawRRect(rr((0 if face > 0 else -32) * u, -21 * u, 32 * u, 6 * u, 3 * u), P(shade(shirt, -0.35)))
+    else:
+        c.drawPath(dome, lin_paint(-20 * u, 0, 20 * u, 0, [shade(hair, 0.2), hair, shade(hair, -0.3)]))
     c.restore()
+    if wet > 0:
+        for i, dx in enumerate((-16, 2, 15)):
+            yy = -120 * u + ((t * 60 + i * 23) % 50) * u
+            c.drawCircle(dx * u, yy, 3.2 * u, P("#9AD7FF", 0.85 * wet))
+    if a < 1:
+        c.restore()
     c.restore()
+
+
+def engineer(c, x, y, h, shirt, t, pose="stand", soot=0.0, face=1, wet=0.0):
+    """One of the crew: a small engineer in a yellow hard hat and a vest, feet at (x, y).
+    pose: stand | cheer | look | point | duck | walk | sit | carry | shrug."""
+    person(c, x, y, h, shirt, t, pose, soot, face, hat="hard", band=True, wet=wet)
 
 
 def buried_line(c, pts, col, t, flow=0.0, w=10):
@@ -242,3 +286,131 @@ def gas_hiss(d=0.5, seed=42):
     n = int(d * sfx.SR)
     x = sfx._bp(sfx._rng(seed).standard_normal(n), 2500, 9000)
     return sfx._norm(x * sfx._ar(n, 0.02, d * 0.6), 0.5)
+
+
+# ---------------------------------------------------------------------------------------------- more sets
+def skyline_night(c, x0, x1, base_y=0.0, seed=3, hmin=220, hmax=900, cols=("#1A1F45", "#242A5C", "#15193A"), lit=0.33, t=0.0):
+    """Row of city buildings standing on base_y, with lit windows and a few roof beacons."""
+    rng = random.Random(seed)
+    x = x0
+    while x < x1:
+        w, h = rng.randint(90, 240), rng.randint(hmin, hmax)
+        body = rng.choice(cols)
+        vrect(c, x, base_y - h, w, h, [shade(body, 0.12), body, shade(body, -0.28)], [0.0, 0.3, 1.0])
+        c.drawRect(R(x, base_y - h, 4, h), P("#FFFFFF", 0.06))
+        wr = random.Random(int(x) * 7 + seed)
+        for wy in range(int(base_y - h) + 22, int(base_y) - 20, 34):
+            for wx in range(int(x) + 12, int(x + w) - 16, 26):
+                if wr.random() < lit:
+                    c.drawRect(R(wx, wy, 12, 16), P(wr.choice(["#FFD98A", "#FFE9C9", "#9AD7FF", "#FFB37A"]), 0.85))
+        if rng.random() < 0.3:
+            beacon(c, x + w / 2, base_y - h - 12, t, hz=0.6 + rng.random(), r=4, ph=rng.random())
+        x += w + rng.randint(6, 50)
+
+
+def window_night(c, x, y, w, h, t=0.0, frame="#141829", moon=True, seed=2):
+    """A window in a wall showing the night sky."""
+    c.drawRRect(rr(x - 8, y - 8, w + 16, h + 16, 8), P(frame))
+    c.save()
+    c.clipRect(R(x, y, w, h))
+    vrect(c, x, y, w, h, ["#0B1030", "#2B2466", "#74406F"], [0.0, 0.6, 1.0])
+    rng = random.Random(seed)
+    for _ in range(int(w * h / 2600)):
+        c.drawCircle(x + rng.uniform(0, w), y + rng.uniform(0, h * 0.8), rng.uniform(0.8, 2.0), P("#FFFFFF", 0.5 + 0.4 * math.sin(t * 2 + rng.random() * 6)))
+    if moon:
+        v2.moon(c, x + w * 0.7, y + h * 0.3, min(w, h) * 0.12)
+    c.restore()
+    c.drawRect(R(x + w / 2 - 3, y, 6, h), P(frame))
+    c.drawRect(R(x, y + h / 2 - 3, w, 6), P(frame))
+    vrect(c, x, y, w, h, [("#FFFFFF", 0.07), ("#FFFFFF", 0.0)])
+
+
+def room(c, x, y, w, h, wall="#2A2F4A", floor="#3B4160", t=0.0, lamp=True, lamp_x=None, window=None, panels=140):
+    """Interior seen from the side: back wall (x, y, w, h) lit from above, floor slab under it (floor line = y + h),
+    optional hanging lamp with a cone of light, optional window=(wx, wy, ww, wh)."""
+    vrect(c, x, y, w, h, [shade(wall, 0.14), wall, shade(wall, -0.24)], [0.0, 0.4, 1.0])
+    if panels:
+        for px in range(int(x) + panels, int(x + w), panels):
+            c.drawRect(R(px, y, 2, h), P("#000000", 0.10))
+    if window:
+        window_night(c, *window, t=t)
+    vrect(c, x, y + h - 70, w, 70, [("#000000", 0.0), ("#000000", 0.28)])
+    box(c, x, y + h, w, 26, floor)
+    c.drawRect(R(x, y + h, w, 3), P("#FFFFFF", 0.14))
+    if lamp:
+        lx = x + w * 0.5 if lamp_x is None else lamp_x
+        c.drawRect(R(lx - 2, y, 4, 46), P("#11151F"))
+        shade_ = skia.Path()
+        shade_.moveTo(lx - 34, y + 74)
+        shade_.lineTo(lx - 16, y + 46)
+        shade_.lineTo(lx + 16, y + 46)
+        shade_.lineTo(lx + 34, y + 74)
+        shade_.close()
+        c.drawPath(shade_, lin_paint(lx - 34, 0, lx + 34, 0, ["#4A5270", "#2B3248", "#161A2B"]))
+        light_cone(c, lx, y + 72, 90, h * 1.05, 62, "#FFE9B8", 0.22)
+        add_glow(c, lx, y + 78, 90, "#FFE9B8", 0.85)
+        c.drawCircle(lx, y + 76, 8, P("#FFF7DA"))
+
+
+def underwater(c, W, H, t, top="#0F4468", mid="#0A2540", bottom="#040C1C", rays=True, seed=5, surface_y=None):
+    """Screen-space underwater backdrop: depth gradient, slow light shafts from above, drifting specks.
+    surface_y: screen y of the water surface if it is in frame (the sky above it is left untouched)."""
+    y0 = 0 if surface_y is None else surface_y
+    vrect(c, 0, y0, W, H - y0, [top, mid, bottom], [0.0, 0.45, 1.0])
+    if rays:
+        for i in range(5):
+            x = (W * (0.1 + 0.2 * i) + math.sin(t * 0.3 + i) * 60)
+            light_cone(c, x, y0 - 40, 90 + math.sin(t * 0.2 + i * 2) * 6 + (i - 2) * 5, H * 0.95, 9 + (i % 2) * 5, "#9AE6FF", 0.11)
+    rng = random.Random(seed)
+    for _ in range(70):
+        px = (rng.uniform(0, W) + t * rng.uniform(-14, 14)) % W
+        py = y0 + (rng.uniform(0, H - y0) - t * rng.uniform(4, 16)) % max(1.0, H - y0)
+        c.drawCircle(px, py, rng.uniform(1.0, 2.6), P("#CFF3FF", rng.uniform(0.10, 0.34)))
+
+
+def bubbles(c, x, y, t, t0=0.0, t1=None, rate=9, life=2.4, spread=34, rise=240, size=(4, 13), seed=3, a=0.8):
+    """Stream of bubbles rising from (x, y) between t0 and t1."""
+    if t < t0:
+        return
+    t1 = t if t1 is None else t1
+    n0, n1 = max(0, int((t - life - t0) * rate)), int((min(t, t1) - t0) * rate) + 1
+    for i in range(n0, n1):
+        age = t - (t0 + i / rate)
+        if not 0 <= age <= life:
+            continue
+        rng = random.Random(seed * 977 + i)
+        u = age / life
+        bx = x + rng.uniform(-spread, spread) * (0.3 + u) + math.sin(age * 5 + i) * 6
+        by = y - rise * age * (0.7 + 0.3 * rng.random())
+        r = lerp(size[0], size[1], rng.random()) * (0.7 + 0.5 * u)
+        al = a * clamp(u * 8) * (1 - u) ** 0.6
+        c.drawCircle(bx, by, r, P("#BFEFFF", 0.20 * al))
+        c.drawCircle(bx, by, r, P("#E6FAFF", 0.85 * al, stroke=max(1.2, r * 0.18)))
+        c.drawCircle(bx - r * 0.3, by - r * 0.3, r * 0.22, P("#FFFFFF", 0.9 * al))
+
+
+def splash(c, x, y, t, t0, dur=0.9, n=22, speed=560, col="#BDE6FF", seed=4, gravity=1500, width=1.0):
+    """Water splash: droplets thrown up from (x, y) at t0, plus a spreading ring on the surface."""
+    age = t - t0
+    if not 0 <= age <= dur:
+        return
+    u = age / dur
+    rng = random.Random(seed)
+    for _ in range(n):
+        ang = math.radians(rng.uniform(205, 335))
+        sp = speed * rng.uniform(0.35, 1.0)
+        px = x + math.cos(ang) * sp * age * width
+        py = y + math.sin(ang) * sp * age + 0.5 * gravity * age * age
+        if py > y + 4:
+            continue
+        c.drawCircle(px, py, rng.uniform(3, 8) * (1 - u * 0.5), P(col, 0.9 * (1 - u)))
+    c.save()
+    c.translate(x, y)
+    c.scale(1, 0.22)
+    c.drawCircle(0, 0, 30 + 190 * e_out(u) * width, P("#FFFFFF", 0.7 * (1 - u), stroke=10 * (1 - u * 0.6)))
+    c.restore()
+
+
+def sparks_shower(c, x, y, t, t0, dur=0.8, n=26, speed=700, seed=6, col="#FFD27A", cone=(200, 340)):
+    """Short burst of sparks (cutting, short circuits, grinding). Thin wrapper over v2.embers."""
+    v2.embers(c, x, y, t, t0, dur, n=n, speed=speed, seed=seed, gravity=1100, col=col, size=4.0, cone=cone)

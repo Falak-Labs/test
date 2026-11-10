@@ -10,85 +10,1278 @@
    "line": 1,
    "start": 0.0,
    "end": 4.594,
-   "text": "If you pile up a hill of dirt and put your house on top, congrats, you just built a castle."
+   "text": "If you pile up a hill of dirt and put your house on top, congrats, you just built a castle.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.338
+    },
+    {
+     "w": "you",
+     "start": 0.338,
+     "end": 0.545
+    },
+    {
+     "w": "pile",
+     "start": 0.545,
+     "end": 0.753
+    },
+    {
+     "w": "up",
+     "start": 0.753,
+     "end": 0.961
+    },
+    {
+     "w": "a",
+     "start": 0.961,
+     "end": 1.169
+    },
+    {
+     "w": "hill",
+     "start": 1.169,
+     "end": 1.376
+    },
+    {
+     "w": "of",
+     "start": 1.376,
+     "end": 1.584
+    },
+    {
+     "w": "dirt",
+     "start": 1.584,
+     "end": 1.792
+    },
+    {
+     "w": "and",
+     "start": 1.792,
+     "end": 2.0
+    },
+    {
+     "w": "put",
+     "start": 2.0,
+     "end": 2.207
+    },
+    {
+     "w": "your",
+     "start": 2.207,
+     "end": 2.415
+    },
+    {
+     "w": "house",
+     "start": 2.415,
+     "end": 2.623
+    },
+    {
+     "w": "on",
+     "start": 2.623,
+     "end": 2.831
+    },
+    {
+     "w": "top,",
+     "start": 2.831,
+     "end": 3.038
+    },
+    {
+     "w": "congrats,",
+     "start": 3.038,
+     "end": 3.4
+    },
+    {
+     "w": "you",
+     "start": 3.55,
+     "end": 3.746
+    },
+    {
+     "w": "just",
+     "start": 3.746,
+     "end": 3.942
+    },
+    {
+     "w": "built",
+     "start": 3.942,
+     "end": 4.138
+    },
+    {
+     "w": "a",
+     "start": 4.138,
+     "end": 4.334
+    },
+    {
+     "w": "castle.",
+     "start": 4.334,
+     "end": 4.53
+    }
+   ]
   },
   {
    "line": 2,
    "start": 4.958,
    "end": 8.865,
-   "text": "But the neighbors show up with torches, and your wooden walls turn out to be firewood."
+   "text": "But the neighbors show up with torches, and your wooden walls turn out to be firewood.",
+   "words": [
+    {
+     "w": "But",
+     "start": 5.098,
+     "end": 5.289
+    },
+    {
+     "w": "the",
+     "start": 5.289,
+     "end": 5.48
+    },
+    {
+     "w": "neighbors",
+     "start": 5.48,
+     "end": 5.812
+    },
+    {
+     "w": "show",
+     "start": 5.812,
+     "end": 6.004
+    },
+    {
+     "w": "up",
+     "start": 6.004,
+     "end": 6.195
+    },
+    {
+     "w": "with",
+     "start": 6.195,
+     "end": 6.386
+    },
+    {
+     "w": "torches,",
+     "start": 6.386,
+     "end": 6.718
+    },
+    {
+     "w": "and",
+     "start": 6.848,
+     "end": 7.024
+    },
+    {
+     "w": "your",
+     "start": 7.024,
+     "end": 7.199
+    },
+    {
+     "w": "wooden",
+     "start": 7.199,
+     "end": 7.505
+    },
+    {
+     "w": "walls",
+     "start": 7.505,
+     "end": 7.68
+    },
+    {
+     "w": "turn",
+     "start": 7.68,
+     "end": 7.856
+    },
+    {
+     "w": "out",
+     "start": 7.856,
+     "end": 8.031
+    },
+    {
+     "w": "to",
+     "start": 8.031,
+     "end": 8.207
+    },
+    {
+     "w": "be",
+     "start": 8.207,
+     "end": 8.382
+    },
+    {
+     "w": "firewood.",
+     "start": 8.382,
+     "end": 8.818
+    }
+   ]
   },
   {
    "line": 3,
    "start": 9.229,
    "end": 14.76,
-   "text": "So you rebuild in stone: a curtain wall thicker than you are tall, and round towers that boulders glance off."
+   "text": "So you rebuild in stone: a curtain wall thicker than you are tall, and round towers that boulders glance off.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.339,
+     "end": 9.554
+    },
+    {
+     "w": "you",
+     "start": 9.554,
+     "end": 9.77
+    },
+    {
+     "w": "rebuild",
+     "start": 9.77,
+     "end": 10.145
+    },
+    {
+     "w": "in",
+     "start": 10.145,
+     "end": 10.361
+    },
+    {
+     "w": "stone:",
+     "start": 10.361,
+     "end": 10.576
+    },
+    {
+     "w": "a",
+     "start": 10.576,
+     "end": 10.791
+    },
+    {
+     "w": "curtain",
+     "start": 10.791,
+     "end": 11.167
+    },
+    {
+     "w": "wall",
+     "start": 11.167,
+     "end": 11.382
+    },
+    {
+     "w": "thicker",
+     "start": 11.382,
+     "end": 11.757
+    },
+    {
+     "w": "than",
+     "start": 11.757,
+     "end": 11.973
+    },
+    {
+     "w": "you",
+     "start": 11.973,
+     "end": 12.188
+    },
+    {
+     "w": "are",
+     "start": 12.188,
+     "end": 12.404
+    },
+    {
+     "w": "tall,",
+     "start": 12.404,
+     "end": 12.619
+    },
+    {
+     "w": "and",
+     "start": 12.789,
+     "end": 13.009
+    },
+    {
+     "w": "round",
+     "start": 13.009,
+     "end": 13.23
+    },
+    {
+     "w": "towers",
+     "start": 13.23,
+     "end": 13.614
+    },
+    {
+     "w": "that",
+     "start": 13.614,
+     "end": 13.834
+    },
+    {
+     "w": "boulders",
+     "start": 13.834,
+     "end": 14.218
+    },
+    {
+     "w": "glance",
+     "start": 14.218,
+     "end": 14.439
+    },
+    {
+     "w": "off.",
+     "start": 14.439,
+     "end": 14.659
+    }
+   ]
   },
   {
    "line": 4,
    "start": 15.125,
    "end": 18.354,
-   "text": "Now it won't burn, until they bring ladders and simply climb over."
+   "text": "Now it won't burn, until they bring ladders and simply climb over.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 15.225,
+     "end": 15.445
+    },
+    {
+     "w": "it",
+     "start": 15.445,
+     "end": 15.665
+    },
+    {
+     "w": "won't",
+     "start": 15.665,
+     "end": 15.885
+    },
+    {
+     "w": "burn,",
+     "start": 15.885,
+     "end": 16.105
+    },
+    {
+     "w": "until",
+     "start": 16.255,
+     "end": 16.577
+    },
+    {
+     "w": "they",
+     "start": 16.577,
+     "end": 16.762
+    },
+    {
+     "w": "bring",
+     "start": 16.762,
+     "end": 16.948
+    },
+    {
+     "w": "ladders",
+     "start": 16.948,
+     "end": 17.27
+    },
+    {
+     "w": "and",
+     "start": 17.27,
+     "end": 17.455
+    },
+    {
+     "w": "simply",
+     "start": 17.455,
+     "end": 17.778
+    },
+    {
+     "w": "climb",
+     "start": 17.778,
+     "end": 17.963
+    },
+    {
+     "w": "over.",
+     "start": 17.963,
+     "end": 18.285
+    }
+   ]
   },
   {
    "line": 5,
    "start": 18.719,
    "end": 24.469,
-   "text": "So you dig a moat all around, and add battlements on top: stone teeth to hide behind, with gaps to shoot through."
+   "text": "So you dig a moat all around, and add battlements on top: stone teeth to hide behind, with gaps to shoot through.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.829,
+     "end": 19.012
+    },
+    {
+     "w": "you",
+     "start": 19.012,
+     "end": 19.196
+    },
+    {
+     "w": "dig",
+     "start": 19.196,
+     "end": 19.379
+    },
+    {
+     "w": "a",
+     "start": 19.379,
+     "end": 19.563
+    },
+    {
+     "w": "moat",
+     "start": 19.563,
+     "end": 19.746
+    },
+    {
+     "w": "all",
+     "start": 19.746,
+     "end": 19.93
+    },
+    {
+     "w": "around,",
+     "start": 19.93,
+     "end": 20.249
+    },
+    {
+     "w": "and",
+     "start": 20.369,
+     "end": 20.553
+    },
+    {
+     "w": "add",
+     "start": 20.553,
+     "end": 20.736
+    },
+    {
+     "w": "battlements",
+     "start": 20.736,
+     "end": 21.192
+    },
+    {
+     "w": "on",
+     "start": 21.192,
+     "end": 21.375
+    },
+    {
+     "w": "top:",
+     "start": 21.375,
+     "end": 21.559
+    },
+    {
+     "w": "stone",
+     "start": 21.739,
+     "end": 21.99
+    },
+    {
+     "w": "teeth",
+     "start": 21.99,
+     "end": 22.241
+    },
+    {
+     "w": "to",
+     "start": 22.241,
+     "end": 22.492
+    },
+    {
+     "w": "hide",
+     "start": 22.492,
+     "end": 22.742
+    },
+    {
+     "w": "behind,",
+     "start": 22.742,
+     "end": 23.179
+    },
+    {
+     "w": "with",
+     "start": 23.299,
+     "end": 23.519
+    },
+    {
+     "w": "gaps",
+     "start": 23.519,
+     "end": 23.739
+    },
+    {
+     "w": "to",
+     "start": 23.739,
+     "end": 23.959
+    },
+    {
+     "w": "shoot",
+     "start": 23.959,
+     "end": 24.179
+    },
+    {
+     "w": "through.",
+     "start": 24.179,
+     "end": 24.399
+    }
+   ]
   },
   {
    "line": 6,
    "start": 24.833,
    "end": 28.125,
-   "text": "But the front door is still a door, and they knock with a battering ram."
+   "text": "But the front door is still a door, and they knock with a battering ram.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.973,
+     "end": 25.167
+    },
+    {
+     "w": "the",
+     "start": 25.167,
+     "end": 25.36
+    },
+    {
+     "w": "front",
+     "start": 25.36,
+     "end": 25.554
+    },
+    {
+     "w": "door",
+     "start": 25.554,
+     "end": 25.748
+    },
+    {
+     "w": "is",
+     "start": 25.748,
+     "end": 25.942
+    },
+    {
+     "w": "still",
+     "start": 25.942,
+     "end": 26.135
+    },
+    {
+     "w": "a",
+     "start": 26.135,
+     "end": 26.329
+    },
+    {
+     "w": "door,",
+     "start": 26.329,
+     "end": 26.523
+    },
+    {
+     "w": "and",
+     "start": 26.673,
+     "end": 26.836
+    },
+    {
+     "w": "they",
+     "start": 26.836,
+     "end": 26.998
+    },
+    {
+     "w": "knock",
+     "start": 26.998,
+     "end": 27.161
+    },
+    {
+     "w": "with",
+     "start": 27.161,
+     "end": 27.324
+    },
+    {
+     "w": "a",
+     "start": 27.324,
+     "end": 27.487
+    },
+    {
+     "w": "battering",
+     "start": 27.487,
+     "end": 27.89
+    },
+    {
+     "w": "ram.",
+     "start": 27.89,
+     "end": 28.053
+    }
+   ]
   },
   {
    "line": 7,
    "start": 28.49,
    "end": 36.135,
-   "text": "So you add a drawbridge, a portcullis that drops like a guillotine, and murder holes in the ceiling, for dropping rocks. Boiling oil? Too expensive."
+   "text": "So you add a drawbridge, a portcullis that drops like a guillotine, and murder holes in the ceiling, for dropping rocks. Boiling oil? Too expensive.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.6,
+     "end": 28.788
+    },
+    {
+     "w": "you",
+     "start": 28.788,
+     "end": 28.976
+    },
+    {
+     "w": "add",
+     "start": 28.976,
+     "end": 29.164
+    },
+    {
+     "w": "a",
+     "start": 29.164,
+     "end": 29.353
+    },
+    {
+     "w": "drawbridge,",
+     "start": 29.353,
+     "end": 29.68
+    },
+    {
+     "w": "a",
+     "start": 29.8,
+     "end": 30.008
+    },
+    {
+     "w": "portcullis",
+     "start": 30.008,
+     "end": 30.523
+    },
+    {
+     "w": "that",
+     "start": 30.523,
+     "end": 30.731
+    },
+    {
+     "w": "drops",
+     "start": 30.731,
+     "end": 30.939
+    },
+    {
+     "w": "like",
+     "start": 30.939,
+     "end": 31.147
+    },
+    {
+     "w": "a",
+     "start": 31.147,
+     "end": 31.354
+    },
+    {
+     "w": "guillotine,",
+     "start": 31.354,
+     "end": 31.87
+    },
+    {
+     "w": "and",
+     "start": 32.0,
+     "end": 32.162
+    },
+    {
+     "w": "murder",
+     "start": 32.162,
+     "end": 32.443
+    },
+    {
+     "w": "holes",
+     "start": 32.443,
+     "end": 32.725
+    },
+    {
+     "w": "in",
+     "start": 32.725,
+     "end": 32.887
+    },
+    {
+     "w": "the",
+     "start": 32.887,
+     "end": 33.048
+    },
+    {
+     "w": "ceiling,",
+     "start": 33.048,
+     "end": 33.33
+    },
+    {
+     "w": "for",
+     "start": 33.49,
+     "end": 33.704
+    },
+    {
+     "w": "dropping",
+     "start": 33.704,
+     "end": 34.076
+    },
+    {
+     "w": "rocks.",
+     "start": 34.076,
+     "end": 34.29
+    },
+    {
+     "w": "Boiling",
+     "start": 34.46,
+     "end": 34.86
+    },
+    {
+     "w": "oil?",
+     "start": 34.86,
+     "end": 35.09
+    },
+    {
+     "w": "Too",
+     "start": 35.38,
+     "end": 35.578
+    },
+    {
+     "w": "expensive.",
+     "start": 35.578,
+     "end": 36.07
+    }
+   ]
   },
   {
    "line": 8,
    "start": 36.5,
    "end": 40.969,
-   "text": "Now nobody gets in, and neither does lunch: they camp outside and wait for you to starve."
+   "text": "Now nobody gets in, and neither does lunch: they camp outside and wait for you to starve.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 36.61,
+     "end": 36.807
+    },
+    {
+     "w": "nobody",
+     "start": 36.807,
+     "end": 37.296
+    },
+    {
+     "w": "gets",
+     "start": 37.296,
+     "end": 37.493
+    },
+    {
+     "w": "in,",
+     "start": 37.493,
+     "end": 37.69
+    },
+    {
+     "w": "and",
+     "start": 37.85,
+     "end": 38.046
+    },
+    {
+     "w": "neither",
+     "start": 38.046,
+     "end": 38.388
+    },
+    {
+     "w": "does",
+     "start": 38.388,
+     "end": 38.584
+    },
+    {
+     "w": "lunch:",
+     "start": 38.584,
+     "end": 38.78
+    },
+    {
+     "w": "they",
+     "start": 38.91,
+     "end": 39.112
+    },
+    {
+     "w": "camp",
+     "start": 39.112,
+     "end": 39.314
+    },
+    {
+     "w": "outside",
+     "start": 39.314,
+     "end": 39.667
+    },
+    {
+     "w": "and",
+     "start": 39.667,
+     "end": 39.869
+    },
+    {
+     "w": "wait",
+     "start": 39.869,
+     "end": 40.071
+    },
+    {
+     "w": "for",
+     "start": 40.071,
+     "end": 40.273
+    },
+    {
+     "w": "you",
+     "start": 40.273,
+     "end": 40.476
+    },
+    {
+     "w": "to",
+     "start": 40.476,
+     "end": 40.678
+    },
+    {
+     "w": "starve.",
+     "start": 40.678,
+     "end": 40.88
+    }
+   ]
   },
   {
    "line": 9,
    "start": 41.333,
    "end": 47.26,
-   "text": "So you dig a well inside the walls, stock the cellars for months, and add a sally port: a hidden door for midnight raids."
+   "text": "So you dig a well inside the walls, stock the cellars for months, and add a sally port: a hidden door for midnight raids.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.443,
+     "end": 41.632
+    },
+    {
+     "w": "you",
+     "start": 41.632,
+     "end": 41.821
+    },
+    {
+     "w": "dig",
+     "start": 41.821,
+     "end": 42.009
+    },
+    {
+     "w": "a",
+     "start": 42.009,
+     "end": 42.198
+    },
+    {
+     "w": "well",
+     "start": 42.198,
+     "end": 42.387
+    },
+    {
+     "w": "inside",
+     "start": 42.387,
+     "end": 42.715
+    },
+    {
+     "w": "the",
+     "start": 42.715,
+     "end": 42.904
+    },
+    {
+     "w": "walls,",
+     "start": 42.904,
+     "end": 43.093
+    },
+    {
+     "w": "stock",
+     "start": 43.223,
+     "end": 43.451
+    },
+    {
+     "w": "the",
+     "start": 43.451,
+     "end": 43.679
+    },
+    {
+     "w": "cellars",
+     "start": 43.679,
+     "end": 44.077
+    },
+    {
+     "w": "for",
+     "start": 44.077,
+     "end": 44.305
+    },
+    {
+     "w": "months,",
+     "start": 44.305,
+     "end": 44.533
+    },
+    {
+     "w": "and",
+     "start": 44.663,
+     "end": 44.827
+    },
+    {
+     "w": "add",
+     "start": 44.827,
+     "end": 44.99
+    },
+    {
+     "w": "a",
+     "start": 44.99,
+     "end": 45.154
+    },
+    {
+     "w": "sally",
+     "start": 45.154,
+     "end": 45.439
+    },
+    {
+     "w": "port:",
+     "start": 45.439,
+     "end": 45.603
+    },
+    {
+     "w": "a",
+     "start": 45.723,
+     "end": 45.918
+    },
+    {
+     "w": "hidden",
+     "start": 45.918,
+     "end": 46.258
+    },
+    {
+     "w": "door",
+     "start": 46.258,
+     "end": 46.453
+    },
+    {
+     "w": "for",
+     "start": 46.453,
+     "end": 46.648
+    },
+    {
+     "w": "midnight",
+     "start": 46.648,
+     "end": 46.988
+    },
+    {
+     "w": "raids.",
+     "start": 46.988,
+     "end": 47.183
+    }
+   ]
   },
   {
    "line": 10,
    "start": 47.625,
    "end": 51.573,
-   "text": "But before you raise the flag, follow, because next we're building a claw machine."
+   "text": "But before you raise the flag, follow, because next we're building a claw machine.",
+   "words": [
+    {
+     "w": "But",
+     "start": 47.765,
+     "end": 47.959
+    },
+    {
+     "w": "before",
+     "start": 47.959,
+     "end": 48.298
+    },
+    {
+     "w": "you",
+     "start": 48.298,
+     "end": 48.492
+    },
+    {
+     "w": "raise",
+     "start": 48.492,
+     "end": 48.686
+    },
+    {
+     "w": "the",
+     "start": 48.686,
+     "end": 48.881
+    },
+    {
+     "w": "flag,",
+     "start": 48.881,
+     "end": 49.075
+    },
+    {
+     "w": "follow,",
+     "start": 49.265,
+     "end": 49.595
+    },
+    {
+     "w": "because",
+     "start": 49.735,
+     "end": 50.067
+    },
+    {
+     "w": "next",
+     "start": 50.067,
+     "end": 50.258
+    },
+    {
+     "w": "we're",
+     "start": 50.258,
+     "end": 50.449
+    },
+    {
+     "w": "building",
+     "start": 50.449,
+     "end": 50.781
+    },
+    {
+     "w": "a",
+     "start": 50.781,
+     "end": 50.972
+    },
+    {
+     "w": "claw",
+     "start": 50.972,
+     "end": 51.163
+    },
+    {
+     "w": "machine.",
+     "start": 51.163,
+     "end": 51.495
+    }
+   ]
   },
   {
    "line": 11,
    "start": 51.938,
    "end": 55.885,
-   "text": "Now just hang some banners, light the torches, and hire one guy with a trumpet."
+   "text": "Now just hang some banners, light the torches, and hire one guy with a trumpet.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 52.048,
+     "end": 52.276
+    },
+    {
+     "w": "just",
+     "start": 52.276,
+     "end": 52.504
+    },
+    {
+     "w": "hang",
+     "start": 52.504,
+     "end": 52.733
+    },
+    {
+     "w": "some",
+     "start": 52.733,
+     "end": 52.961
+    },
+    {
+     "w": "banners,",
+     "start": 52.961,
+     "end": 53.358
+    },
+    {
+     "w": "light",
+     "start": 53.488,
+     "end": 53.713
+    },
+    {
+     "w": "the",
+     "start": 53.713,
+     "end": 53.937
+    },
+    {
+     "w": "torches,",
+     "start": 53.937,
+     "end": 54.328
+    },
+    {
+     "w": "and",
+     "start": 54.458,
+     "end": 54.634
+    },
+    {
+     "w": "hire",
+     "start": 54.634,
+     "end": 54.809
+    },
+    {
+     "w": "one",
+     "start": 54.809,
+     "end": 54.985
+    },
+    {
+     "w": "guy",
+     "start": 54.985,
+     "end": 55.161
+    },
+    {
+     "w": "with",
+     "start": 55.161,
+     "end": 55.336
+    },
+    {
+     "w": "a",
+     "start": 55.336,
+     "end": 55.512
+    },
+    {
+     "w": "trumpet.",
+     "start": 55.512,
+     "end": 55.818
+    }
+   ]
   },
   {
    "line": 12,
    "start": 56.25,
    "end": 58.896,
-   "text": "One hill, four towers, zero visitors."
+   "text": "One hill, four towers, zero visitors.",
+   "words": [
+    {
+     "w": "One",
+     "start": 56.35,
+     "end": 56.65
+    },
+    {
+     "w": "hill,",
+     "start": 56.65,
+     "end": 56.95
+    },
+    {
+     "w": "four",
+     "start": 57.12,
+     "end": 57.368
+    },
+    {
+     "w": "towers,",
+     "start": 57.368,
+     "end": 57.8
+    },
+    {
+     "w": "zero",
+     "start": 57.96,
+     "end": 58.319
+    },
+    {
+     "w": "visitors.",
+     "start": 58.319,
+     "end": 58.83
+    }
+   ]
   },
   {
    "line": 13,
    "start": 59.26,
    "end": 61.667,
-   "text": "And congrats, you just built a castle yourself."
+   "text": "And congrats, you just built a castle yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.37,
+     "end": 59.636
+    },
+    {
+     "w": "congrats,",
+     "start": 59.636,
+     "end": 60.1
+    },
+    {
+     "w": "you",
+     "start": 60.23,
+     "end": 60.427
+    },
+    {
+     "w": "just",
+     "start": 60.427,
+     "end": 60.625
+    },
+    {
+     "w": "built",
+     "start": 60.625,
+     "end": 60.822
+    },
+    {
+     "w": "a",
+     "start": 60.822,
+     "end": 61.019
+    },
+    {
+     "w": "castle",
+     "start": 61.019,
+     "end": 61.217
+    },
+    {
+     "w": "yourself.",
+     "start": 61.217,
+     "end": 61.56
+    }
+   ]
   },
   {
    "line": 14,
    "start": 62.031,
    "end": 66.24,
-   "text": "And the toilet? A hole in the wall, straight into the moat. That's why nobody swims in the moat."
+   "text": "And the toilet? A hole in the wall, straight into the moat. That's why nobody swims in the moat.",
+   "words": [
+    {
+     "w": "And",
+     "start": 62.161,
+     "end": 62.321
+    },
+    {
+     "w": "the",
+     "start": 62.321,
+     "end": 62.482
+    },
+    {
+     "w": "toilet?",
+     "start": 62.482,
+     "end": 62.761
+    },
+    {
+     "w": "A",
+     "start": 62.921,
+     "end": 63.089
+    },
+    {
+     "w": "hole",
+     "start": 63.089,
+     "end": 63.257
+    },
+    {
+     "w": "in",
+     "start": 63.257,
+     "end": 63.425
+    },
+    {
+     "w": "the",
+     "start": 63.425,
+     "end": 63.593
+    },
+    {
+     "w": "wall,",
+     "start": 63.593,
+     "end": 63.761
+    },
+    {
+     "w": "straight",
+     "start": 63.931,
+     "end": 64.102
+    },
+    {
+     "w": "into",
+     "start": 64.102,
+     "end": 64.399
+    },
+    {
+     "w": "the",
+     "start": 64.399,
+     "end": 64.57
+    },
+    {
+     "w": "moat.",
+     "start": 64.57,
+     "end": 64.741
+    },
+    {
+     "w": "That's",
+     "start": 64.881,
+     "end": 65.032
+    },
+    {
+     "w": "why",
+     "start": 65.032,
+     "end": 65.183
+    },
+    {
+     "w": "nobody",
+     "start": 65.183,
+     "end": 65.557
+    },
+    {
+     "w": "swims",
+     "start": 65.557,
+     "end": 65.708
+    },
+    {
+     "w": "in",
+     "start": 65.708,
+     "end": 65.859
+    },
+    {
+     "w": "the",
+     "start": 65.859,
+     "end": 66.01
+    },
+    {
+     "w": "moat.",
+     "start": 66.01,
+     "end": 66.161
+    }
+   ]
   }
  ]
 }
