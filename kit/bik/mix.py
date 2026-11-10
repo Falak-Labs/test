@@ -54,10 +54,10 @@ def build_mix(tl, vo_wav, events, out_wav, sfx_db=-11.0):
 def master(src, dst, target=-14.0):
     pre = "acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120:makeup=2"
     m = subprocess.run(["ffmpeg", "-hide_banner", "-i", src, "-af",
-                        f"{pre},loudnorm=I={target}:TP=-1.2:LRA=9:print_format=json", "-f", "null", "-"],
+                        f"{pre},loudnorm=I={target}:TP=-1.7:LRA=9:print_format=json", "-f", "null", "-"],
                        capture_output=True, text=True).stderr
     js = json.loads(m[m.rindex("{"): m.rindex("}") + 1])
-    flt = (f"{pre},loudnorm=I={target}:TP=-1.2:LRA=9:measured_I={js['input_i']}:measured_TP={js['input_tp']}:"
+    flt = (f"{pre},loudnorm=I={target}:TP=-1.7:LRA=9:measured_I={js['input_i']}:measured_TP={js['input_tp']}:"
            f"measured_LRA={js['input_lra']}:measured_thresh={js['input_thresh']}:offset={js['target_offset']}:linear=true")
     subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", src, "-af", flt, "-ar", str(SR), dst],
                    check=True)
