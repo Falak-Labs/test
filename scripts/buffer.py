@@ -99,8 +99,8 @@ class Buffer:
                 out.append(ch)
         return out
 
-    def create_post(self, inp):
-        mf = self.field("Mutation", "createPost")
+    def create_post(self, inp, mutation="createPost"):
+        mf = self.field("Mutation", mutation)
         arg = next(a for a in mf["args"] if a["name"] == "input")
         in_type = unwrap(arg["type"])["name"]
         ret = unwrap(mf["type"])["name"]
@@ -113,11 +113,15 @@ class Buffer:
                 frags.append("... on %s { post { %s } }" % (m, post_sel))
             elif "message" in names:
                 frags.append("... on %s { message }" % m)
-        d = self.q("mutation($input: %s!) { createPost(input: $input) { __typename %s } }" % (in_type, " ".join(frags)),
-                   {"input": inp})["createPost"]
+        d = self.q("mutation($input: %s!) { %s(input: $input) { __typename %s } }" % (in_type, mutation, " ".join(frags)),
+                   {"input": inp})[mutation]
         if d.get("post"):
             return d["post"]
         raise BufferError(d.get("message") or json.dumps(d, ensure_ascii=False))
+
+    def edit_post(self, inp):
+        """editPost takes the same fields as createPost plus the post id; returns the post."""
+        return self.create_post(inp, mutation="editPost")
 
     def posts(self, organization_id, statuses):
         pf = self.field("Query", "posts")
