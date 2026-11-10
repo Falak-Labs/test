@@ -19,3 +19,4 @@ episodes:
   - {slug: ep15-station, kit: station, look: 2}
   - {slug: ep16-bridge, kit: bridge, look: 2}
   - {slug: ep17-vending, kit: vending, look: 2}
+  - {slug: ep18-metro, kit: metro, look: 2}

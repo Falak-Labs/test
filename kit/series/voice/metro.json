@@ -10,85 +10,1293 @@
    "line": 1,
    "start": 0.0,
    "end": 3.979,
-   "text": "If you dig a tunnel and push a wagon through it, congrats, you just built a metro."
+   "text": "If you dig a tunnel and push a wagon through it, congrats, you just built a metro.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.317
+    },
+    {
+     "w": "you",
+     "start": 0.317,
+     "end": 0.504
+    },
+    {
+     "w": "dig",
+     "start": 0.504,
+     "end": 0.691
+    },
+    {
+     "w": "a",
+     "start": 0.691,
+     "end": 0.878
+    },
+    {
+     "w": "tunnel",
+     "start": 0.878,
+     "end": 1.204
+    },
+    {
+     "w": "and",
+     "start": 1.204,
+     "end": 1.391
+    },
+    {
+     "w": "push",
+     "start": 1.391,
+     "end": 1.578
+    },
+    {
+     "w": "a",
+     "start": 1.578,
+     "end": 1.765
+    },
+    {
+     "w": "wagon",
+     "start": 1.765,
+     "end": 2.09
+    },
+    {
+     "w": "through",
+     "start": 2.09,
+     "end": 2.277
+    },
+    {
+     "w": "it,",
+     "start": 2.277,
+     "end": 2.464
+    },
+    {
+     "w": "congrats,",
+     "start": 2.464,
+     "end": 2.79
+    },
+    {
+     "w": "you",
+     "start": 2.92,
+     "end": 3.092
+    },
+    {
+     "w": "just",
+     "start": 3.092,
+     "end": 3.265
+    },
+    {
+     "w": "built",
+     "start": 3.265,
+     "end": 3.437
+    },
+    {
+     "w": "a",
+     "start": 3.437,
+     "end": 3.61
+    },
+    {
+     "w": "metro.",
+     "start": 3.61,
+     "end": 3.91
+    }
+   ]
   },
   {
    "line": 2,
    "start": 4.344,
    "end": 10.573,
-   "text": "But pushing is slow, and steam engines fill the tunnel with smoke. The first metro used them anyway. Riders arrived lightly smoked."
+   "text": "But pushing is slow, and steam engines fill the tunnel with smoke. The first metro used them anyway. Riders arrived lightly smoked.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.484,
+     "end": 4.705
+    },
+    {
+     "w": "pushing",
+     "start": 4.705,
+     "end": 5.091
+    },
+    {
+     "w": "is",
+     "start": 5.091,
+     "end": 5.313
+    },
+    {
+     "w": "slow,",
+     "start": 5.313,
+     "end": 5.534
+    },
+    {
+     "w": "and",
+     "start": 5.684,
+     "end": 5.861
+    },
+    {
+     "w": "steam",
+     "start": 5.861,
+     "end": 6.038
+    },
+    {
+     "w": "engines",
+     "start": 6.038,
+     "end": 6.478
+    },
+    {
+     "w": "fill",
+     "start": 6.478,
+     "end": 6.655
+    },
+    {
+     "w": "the",
+     "start": 6.655,
+     "end": 6.832
+    },
+    {
+     "w": "tunnel",
+     "start": 6.832,
+     "end": 7.14
+    },
+    {
+     "w": "with",
+     "start": 7.14,
+     "end": 7.317
+    },
+    {
+     "w": "smoke.",
+     "start": 7.317,
+     "end": 7.494
+    },
+    {
+     "w": "The",
+     "start": 7.574,
+     "end": 7.738
+    },
+    {
+     "w": "first",
+     "start": 7.738,
+     "end": 7.902
+    },
+    {
+     "w": "metro",
+     "start": 7.902,
+     "end": 8.188
+    },
+    {
+     "w": "used",
+     "start": 8.188,
+     "end": 8.473
+    },
+    {
+     "w": "them",
+     "start": 8.473,
+     "end": 8.637
+    },
+    {
+     "w": "anyway.",
+     "start": 8.637,
+     "end": 9.044
+    },
+    {
+     "w": "Riders",
+     "start": 9.164,
+     "end": 9.467
+    },
+    {
+     "w": "arrived",
+     "start": 9.467,
+     "end": 9.898
+    },
+    {
+     "w": "lightly",
+     "start": 9.898,
+     "end": 10.201
+    },
+    {
+     "w": "smoked.",
+     "start": 10.201,
+     "end": 10.504
+    }
+   ]
   },
   {
    "line": 3,
    "start": 10.938,
    "end": 16.469,
-   "text": "So you go electric: a third rail beside the track carries the power, and metal shoes on the train feed it to the motors."
+   "text": "So you go electric: a third rail beside the track carries the power, and metal shoes on the train feed it to the motors.",
+   "words": [
+    {
+     "w": "So",
+     "start": 11.048,
+     "end": 11.25
+    },
+    {
+     "w": "you",
+     "start": 11.25,
+     "end": 11.453
+    },
+    {
+     "w": "go",
+     "start": 11.453,
+     "end": 11.656
+    },
+    {
+     "w": "electric:",
+     "start": 11.656,
+     "end": 12.158
+    },
+    {
+     "w": "a",
+     "start": 12.238,
+     "end": 12.414
+    },
+    {
+     "w": "third",
+     "start": 12.414,
+     "end": 12.589
+    },
+    {
+     "w": "rail",
+     "start": 12.589,
+     "end": 12.765
+    },
+    {
+     "w": "beside",
+     "start": 12.765,
+     "end": 13.07
+    },
+    {
+     "w": "the",
+     "start": 13.07,
+     "end": 13.246
+    },
+    {
+     "w": "track",
+     "start": 13.246,
+     "end": 13.421
+    },
+    {
+     "w": "carries",
+     "start": 13.421,
+     "end": 13.727
+    },
+    {
+     "w": "the",
+     "start": 13.727,
+     "end": 13.902
+    },
+    {
+     "w": "power,",
+     "start": 13.902,
+     "end": 14.208
+    },
+    {
+     "w": "and",
+     "start": 14.338,
+     "end": 14.502
+    },
+    {
+     "w": "metal",
+     "start": 14.502,
+     "end": 14.788
+    },
+    {
+     "w": "shoes",
+     "start": 14.788,
+     "end": 14.952
+    },
+    {
+     "w": "on",
+     "start": 14.952,
+     "end": 15.117
+    },
+    {
+     "w": "the",
+     "start": 15.117,
+     "end": 15.281
+    },
+    {
+     "w": "train",
+     "start": 15.281,
+     "end": 15.445
+    },
+    {
+     "w": "feed",
+     "start": 15.445,
+     "end": 15.609
+    },
+    {
+     "w": "it",
+     "start": 15.609,
+     "end": 15.774
+    },
+    {
+     "w": "to",
+     "start": 15.774,
+     "end": 15.938
+    },
+    {
+     "w": "the",
+     "start": 15.938,
+     "end": 16.102
+    },
+    {
+     "w": "motors.",
+     "start": 16.102,
+     "end": 16.388
+    }
+   ]
   },
   {
    "line": 4,
    "start": 16.833,
    "end": 20.125,
-   "text": "Now it's fast, until one train catches up with another in the dark."
+   "text": "Now it's fast, until one train catches up with another in the dark.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 16.933,
+     "end": 17.176
+    },
+    {
+     "w": "it's",
+     "start": 17.176,
+     "end": 17.42
+    },
+    {
+     "w": "fast,",
+     "start": 17.42,
+     "end": 17.663
+    },
+    {
+     "w": "until",
+     "start": 17.843,
+     "end": 18.13
+    },
+    {
+     "w": "one",
+     "start": 18.13,
+     "end": 18.295
+    },
+    {
+     "w": "train",
+     "start": 18.295,
+     "end": 18.461
+    },
+    {
+     "w": "catches",
+     "start": 18.461,
+     "end": 18.748
+    },
+    {
+     "w": "up",
+     "start": 18.748,
+     "end": 18.913
+    },
+    {
+     "w": "with",
+     "start": 18.913,
+     "end": 19.078
+    },
+    {
+     "w": "another",
+     "start": 19.078,
+     "end": 19.488
+    },
+    {
+     "w": "in",
+     "start": 19.488,
+     "end": 19.653
+    },
+    {
+     "w": "the",
+     "start": 19.653,
+     "end": 19.818
+    },
+    {
+     "w": "dark.",
+     "start": 19.818,
+     "end": 19.983
+    }
+   ]
   },
   {
    "line": 5,
    "start": 20.49,
    "end": 26.875,
-   "text": "So you add beacons in the track, a radio on every train, and a computer that keeps a safe gap between them. No driver needed."
+   "text": "So you add beacons in the track, a radio on every train, and a computer that keeps a safe gap between them. No driver needed.",
+   "words": [
+    {
+     "w": "So",
+     "start": 20.61,
+     "end": 20.783
+    },
+    {
+     "w": "you",
+     "start": 20.783,
+     "end": 20.956
+    },
+    {
+     "w": "add",
+     "start": 20.956,
+     "end": 21.129
+    },
+    {
+     "w": "beacons",
+     "start": 21.129,
+     "end": 21.431
+    },
+    {
+     "w": "in",
+     "start": 21.431,
+     "end": 21.604
+    },
+    {
+     "w": "the",
+     "start": 21.604,
+     "end": 21.777
+    },
+    {
+     "w": "track,",
+     "start": 21.777,
+     "end": 21.95
+    },
+    {
+     "w": "a",
+     "start": 22.13,
+     "end": 22.31
+    },
+    {
+     "w": "radio",
+     "start": 22.31,
+     "end": 22.623
+    },
+    {
+     "w": "on",
+     "start": 22.623,
+     "end": 22.803
+    },
+    {
+     "w": "every",
+     "start": 22.803,
+     "end": 23.25
+    },
+    {
+     "w": "train,",
+     "start": 23.25,
+     "end": 23.43
+    },
+    {
+     "w": "and",
+     "start": 23.58,
+     "end": 23.762
+    },
+    {
+     "w": "a",
+     "start": 23.762,
+     "end": 23.943
+    },
+    {
+     "w": "computer",
+     "start": 23.943,
+     "end": 24.394
+    },
+    {
+     "w": "that",
+     "start": 24.394,
+     "end": 24.576
+    },
+    {
+     "w": "keeps",
+     "start": 24.576,
+     "end": 24.757
+    },
+    {
+     "w": "a",
+     "start": 24.757,
+     "end": 24.939
+    },
+    {
+     "w": "safe",
+     "start": 24.939,
+     "end": 25.121
+    },
+    {
+     "w": "gap",
+     "start": 25.121,
+     "end": 25.302
+    },
+    {
+     "w": "between",
+     "start": 25.302,
+     "end": 25.618
+    },
+    {
+     "w": "them.",
+     "start": 25.618,
+     "end": 25.8
+    },
+    {
+     "w": "No",
+     "start": 25.93,
+     "end": 26.124
+    },
+    {
+     "w": "driver",
+     "start": 26.124,
+     "end": 26.462
+    },
+    {
+     "w": "needed.",
+     "start": 26.462,
+     "end": 26.8
+    }
+   ]
   },
   {
    "line": 6,
    "start": 27.24,
    "end": 30.99,
-   "text": "But on a crowded platform, somebody always stands too close to the edge."
+   "text": "But on a crowded platform, somebody always stands too close to the edge.",
+   "words": [
+    {
+     "w": "But",
+     "start": 27.37,
+     "end": 27.577
+    },
+    {
+     "w": "on",
+     "start": 27.577,
+     "end": 27.783
+    },
+    {
+     "w": "a",
+     "start": 27.783,
+     "end": 27.99
+    },
+    {
+     "w": "crowded",
+     "start": 27.99,
+     "end": 28.35
+    },
+    {
+     "w": "platform,",
+     "start": 28.35,
+     "end": 28.71
+    },
+    {
+     "w": "somebody",
+     "start": 28.86,
+     "end": 29.468
+    },
+    {
+     "w": "always",
+     "start": 29.468,
+     "end": 29.797
+    },
+    {
+     "w": "stands",
+     "start": 29.797,
+     "end": 29.986
+    },
+    {
+     "w": "too",
+     "start": 29.986,
+     "end": 30.175
+    },
+    {
+     "w": "close",
+     "start": 30.175,
+     "end": 30.364
+    },
+    {
+     "w": "to",
+     "start": 30.364,
+     "end": 30.552
+    },
+    {
+     "w": "the",
+     "start": 30.552,
+     "end": 30.741
+    },
+    {
+     "w": "edge.",
+     "start": 30.741,
+     "end": 30.93
+    }
+   ]
   },
   {
    "line": 7,
    "start": 31.354,
    "end": 36.542,
-   "text": "So you add a glass wall along the platform, with doors that only open once a train stops right behind them."
+   "text": "So you add a glass wall along the platform, with doors that only open once a train stops right behind them.",
+   "words": [
+    {
+     "w": "So",
+     "start": 31.464,
+     "end": 31.688
+    },
+    {
+     "w": "you",
+     "start": 31.688,
+     "end": 31.912
+    },
+    {
+     "w": "add",
+     "start": 31.912,
+     "end": 32.137
+    },
+    {
+     "w": "a",
+     "start": 32.137,
+     "end": 32.361
+    },
+    {
+     "w": "glass",
+     "start": 32.361,
+     "end": 32.585
+    },
+    {
+     "w": "wall",
+     "start": 32.585,
+     "end": 32.809
+    },
+    {
+     "w": "along",
+     "start": 32.809,
+     "end": 33.2
+    },
+    {
+     "w": "the",
+     "start": 33.2,
+     "end": 33.424
+    },
+    {
+     "w": "platform,",
+     "start": 33.424,
+     "end": 33.814
+    },
+    {
+     "w": "with",
+     "start": 33.874,
+     "end": 34.055
+    },
+    {
+     "w": "doors",
+     "start": 34.055,
+     "end": 34.237
+    },
+    {
+     "w": "that",
+     "start": 34.237,
+     "end": 34.418
+    },
+    {
+     "w": "only",
+     "start": 34.418,
+     "end": 34.734
+    },
+    {
+     "w": "open",
+     "start": 34.734,
+     "end": 35.05
+    },
+    {
+     "w": "once",
+     "start": 35.05,
+     "end": 35.231
+    },
+    {
+     "w": "a",
+     "start": 35.231,
+     "end": 35.413
+    },
+    {
+     "w": "train",
+     "start": 35.413,
+     "end": 35.594
+    },
+    {
+     "w": "stops",
+     "start": 35.594,
+     "end": 35.775
+    },
+    {
+     "w": "right",
+     "start": 35.775,
+     "end": 35.957
+    },
+    {
+     "w": "behind",
+     "start": 35.957,
+     "end": 36.273
+    },
+    {
+     "w": "them.",
+     "start": 36.273,
+     "end": 36.454
+    }
+   ]
   },
   {
    "line": 8,
    "start": 36.906,
    "end": 41.052,
-   "text": "Now it's safe, until one train stops between stations, and it gets hot and stuffy."
+   "text": "Now it's safe, until one train stops between stations, and it gets hot and stuffy.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 37.016,
+     "end": 37.223
+    },
+    {
+     "w": "it's",
+     "start": 37.223,
+     "end": 37.429
+    },
+    {
+     "w": "safe,",
+     "start": 37.429,
+     "end": 37.636
+    },
+    {
+     "w": "until",
+     "start": 37.826,
+     "end": 38.194
+    },
+    {
+     "w": "one",
+     "start": 38.194,
+     "end": 38.405
+    },
+    {
+     "w": "train",
+     "start": 38.405,
+     "end": 38.616
+    },
+    {
+     "w": "stops",
+     "start": 38.616,
+     "end": 38.827
+    },
+    {
+     "w": "between",
+     "start": 38.827,
+     "end": 39.195
+    },
+    {
+     "w": "stations,",
+     "start": 39.195,
+     "end": 39.562
+    },
+    {
+     "w": "and",
+     "start": 39.562,
+     "end": 39.774
+    },
+    {
+     "w": "it",
+     "start": 39.774,
+     "end": 39.985
+    },
+    {
+     "w": "gets",
+     "start": 39.985,
+     "end": 40.196
+    },
+    {
+     "w": "hot",
+     "start": 40.196,
+     "end": 40.407
+    },
+    {
+     "w": "and",
+     "start": 40.407,
+     "end": 40.618
+    },
+    {
+     "w": "stuffy.",
+     "start": 40.618,
+     "end": 40.986
+    }
+   ]
   },
   {
    "line": 9,
    "start": 41.417,
    "end": 45.927,
-   "text": "So you add giant fans, air shafts up to the street, and a lit walkway to the next station."
+   "text": "So you add giant fans, air shafts up to the street, and a lit walkway to the next station.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.527,
+     "end": 41.699
+    },
+    {
+     "w": "you",
+     "start": 41.699,
+     "end": 41.871
+    },
+    {
+     "w": "add",
+     "start": 41.871,
+     "end": 42.043
+    },
+    {
+     "w": "giant",
+     "start": 42.043,
+     "end": 42.215
+    },
+    {
+     "w": "fans,",
+     "start": 42.215,
+     "end": 42.387
+    },
+    {
+     "w": "air",
+     "start": 42.467,
+     "end": 42.687
+    },
+    {
+     "w": "shafts",
+     "start": 42.687,
+     "end": 42.906
+    },
+    {
+     "w": "up",
+     "start": 42.906,
+     "end": 43.126
+    },
+    {
+     "w": "to",
+     "start": 43.126,
+     "end": 43.345
+    },
+    {
+     "w": "the",
+     "start": 43.345,
+     "end": 43.565
+    },
+    {
+     "w": "street,",
+     "start": 43.565,
+     "end": 43.785
+    },
+    {
+     "w": "and",
+     "start": 43.785,
+     "end": 44.004
+    },
+    {
+     "w": "a",
+     "start": 44.004,
+     "end": 44.224
+    },
+    {
+     "w": "lit",
+     "start": 44.224,
+     "end": 44.444
+    },
+    {
+     "w": "walkway",
+     "start": 44.444,
+     "end": 44.826
+    },
+    {
+     "w": "to",
+     "start": 44.826,
+     "end": 45.045
+    },
+    {
+     "w": "the",
+     "start": 45.045,
+     "end": 45.265
+    },
+    {
+     "w": "next",
+     "start": 45.265,
+     "end": 45.485
+    },
+    {
+     "w": "station.",
+     "start": 45.485,
+     "end": 45.867
+    }
+   ]
   },
   {
    "line": 10,
    "start": 46.292,
    "end": 49.875,
-   "text": "But before you tap your card, follow, because next we're building a dam."
+   "text": "But before you tap your card, follow, because next we're building a dam.",
+   "words": [
+    {
+     "w": "But",
+     "start": 46.432,
+     "end": 46.637
+    },
+    {
+     "w": "before",
+     "start": 46.637,
+     "end": 46.993
+    },
+    {
+     "w": "you",
+     "start": 46.993,
+     "end": 47.198
+    },
+    {
+     "w": "tap",
+     "start": 47.198,
+     "end": 47.403
+    },
+    {
+     "w": "your",
+     "start": 47.403,
+     "end": 47.607
+    },
+    {
+     "w": "card,",
+     "start": 47.607,
+     "end": 47.812
+    },
+    {
+     "w": "follow,",
+     "start": 47.972,
+     "end": 48.312
+    },
+    {
+     "w": "because",
+     "start": 48.452,
+     "end": 48.766
+    },
+    {
+     "w": "next",
+     "start": 48.766,
+     "end": 48.947
+    },
+    {
+     "w": "we're",
+     "start": 48.947,
+     "end": 49.127
+    },
+    {
+     "w": "building",
+     "start": 49.127,
+     "end": 49.441
+    },
+    {
+     "w": "a",
+     "start": 49.441,
+     "end": 49.622
+    },
+    {
+     "w": "dam.",
+     "start": 49.622,
+     "end": 49.802
+    }
+   ]
   },
   {
    "line": 11,
    "start": 50.24,
    "end": 54.469,
-   "text": "Now just add a map of colored lines, and a calm voice that says, \"Mind the gap.\""
+   "text": "Now just add a map of colored lines, and a calm voice that says, Mind the gap.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 50.35,
+     "end": 50.551
+    },
+    {
+     "w": "just",
+     "start": 50.551,
+     "end": 50.752
+    },
+    {
+     "w": "add",
+     "start": 50.752,
+     "end": 50.953
+    },
+    {
+     "w": "a",
+     "start": 50.953,
+     "end": 51.154
+    },
+    {
+     "w": "map",
+     "start": 51.154,
+     "end": 51.355
+    },
+    {
+     "w": "of",
+     "start": 51.355,
+     "end": 51.556
+    },
+    {
+     "w": "colored",
+     "start": 51.556,
+     "end": 52.054
+    },
+    {
+     "w": "lines,",
+     "start": 52.054,
+     "end": 52.404
+    },
+    {
+     "w": "and",
+     "start": 52.404,
+     "end": 52.605
+    },
+    {
+     "w": "a",
+     "start": 52.605,
+     "end": 52.806
+    },
+    {
+     "w": "calm",
+     "start": 52.806,
+     "end": 53.007
+    },
+    {
+     "w": "voice",
+     "start": 53.007,
+     "end": 53.208
+    },
+    {
+     "w": "that",
+     "start": 53.208,
+     "end": 53.409
+    },
+    {
+     "w": "says,",
+     "start": 53.409,
+     "end": 53.61
+    },
+    {
+     "w": "Mind",
+     "start": 53.74,
+     "end": 53.933
+    },
+    {
+     "w": "the",
+     "start": 53.933,
+     "end": 54.127
+    },
+    {
+     "w": "gap.",
+     "start": 54.127,
+     "end": 54.32
+    }
+   ]
   },
   {
    "line": 12,
    "start": 54.833,
    "end": 58.125,
-   "text": "One tunnel, a train every two minutes, zero drivers."
+   "text": "One tunnel, a train every two minutes, zero drivers.",
+   "words": [
+    {
+     "w": "One",
+     "start": 54.943,
+     "end": 55.169
+    },
+    {
+     "w": "tunnel,",
+     "start": 55.169,
+     "end": 55.563
+    },
+    {
+     "w": "a",
+     "start": 55.743,
+     "end": 55.945
+    },
+    {
+     "w": "train",
+     "start": 55.945,
+     "end": 56.147
+    },
+    {
+     "w": "every",
+     "start": 56.147,
+     "end": 56.648
+    },
+    {
+     "w": "two",
+     "start": 56.648,
+     "end": 56.849
+    },
+    {
+     "w": "minutes,",
+     "start": 56.849,
+     "end": 57.35
+    },
+    {
+     "w": "zero",
+     "start": 57.35,
+     "end": 57.702
+    },
+    {
+     "w": "drivers.",
+     "start": 57.702,
+     "end": 58.053
+    }
+   ]
   },
   {
    "line": 13,
    "start": 58.49,
    "end": 61.448,
-   "text": "And congrats, you just built a driverless metro yourself."
+   "text": "And congrats, you just built a driverless metro yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.62,
+     "end": 58.875
+    },
+    {
+     "w": "congrats,",
+     "start": 58.875,
+     "end": 59.32
+    },
+    {
+     "w": "you",
+     "start": 59.46,
+     "end": 59.646
+    },
+    {
+     "w": "just",
+     "start": 59.646,
+     "end": 59.831
+    },
+    {
+     "w": "built",
+     "start": 59.831,
+     "end": 60.017
+    },
+    {
+     "w": "a",
+     "start": 60.017,
+     "end": 60.203
+    },
+    {
+     "w": "driverless",
+     "start": 60.203,
+     "end": 60.664
+    },
+    {
+     "w": "metro",
+     "start": 60.664,
+     "end": 60.987
+    },
+    {
+     "w": "yourself.",
+     "start": 60.987,
+     "end": 61.31
+    }
+   ]
   },
   {
    "line": 14,
    "start": 61.813,
    "end": 66.5,
-   "text": "And the guy holding the doors? Every train behind him is waiting. His friend is still buying a ticket."
+   "text": "And the guy holding the doors? Every train behind him is waiting. His friend is still buying a ticket.",
+   "words": [
+    {
+     "w": "And",
+     "start": 61.943,
+     "end": 62.127
+    },
+    {
+     "w": "the",
+     "start": 62.127,
+     "end": 62.311
+    },
+    {
+     "w": "guy",
+     "start": 62.311,
+     "end": 62.495
+    },
+    {
+     "w": "holding",
+     "start": 62.495,
+     "end": 62.815
+    },
+    {
+     "w": "the",
+     "start": 62.815,
+     "end": 62.999
+    },
+    {
+     "w": "doors?",
+     "start": 62.999,
+     "end": 63.183
+    },
+    {
+     "w": "Every",
+     "start": 63.313,
+     "end": 63.734
+    },
+    {
+     "w": "train",
+     "start": 63.734,
+     "end": 63.903
+    },
+    {
+     "w": "behind",
+     "start": 63.903,
+     "end": 64.199
+    },
+    {
+     "w": "him",
+     "start": 64.199,
+     "end": 64.368
+    },
+    {
+     "w": "is",
+     "start": 64.368,
+     "end": 64.538
+    },
+    {
+     "w": "waiting.",
+     "start": 64.538,
+     "end": 64.833
+    },
+    {
+     "w": "His",
+     "start": 64.983,
+     "end": 65.17
+    },
+    {
+     "w": "friend",
+     "start": 65.17,
+     "end": 65.358
+    },
+    {
+     "w": "is",
+     "start": 65.358,
+     "end": 65.545
+    },
+    {
+     "w": "still",
+     "start": 65.545,
+     "end": 65.732
+    },
+    {
+     "w": "buying",
+     "start": 65.732,
+     "end": 65.92
+    },
+    {
+     "w": "a",
+     "start": 65.92,
+     "end": 66.107
+    },
+    {
+     "w": "ticket.",
+     "start": 66.107,
+     "end": 66.433
+    }
+   ]
   }
  ]
 }
