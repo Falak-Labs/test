@@ -1,0 +1,12 @@
+castle: 69.34s, 2080 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 569s
+audio done
+final out/castle/castle_final.mp4
+QA  duration 69.33s  loudness -14.0 LUFS  true peak -1.2 dBFS  1080x1920 @ 30/1  frames 2080
+QA sheet out/castle/qa_sheet.png
