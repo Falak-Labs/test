@@ -15,7 +15,7 @@
    "size_mb": 19.8
   },
   "ar": {
-   "ok": false,
+   "ok": true,
    "lines": [
     {
      "line": "01",
@@ -148,7 +148,7 @@
    ],
    "duration": 68.3,
    "lufs": -14.0,
-   "peak": -0.8,
+   "peak": -1.7,
    "frame": "1080x1920",
    "fps": "30/1",
    "voice_lines_flagged": [
@@ -165,9 +165,7 @@
     "11",
     "14"
    ],
-   "issues": [
-    "peak -0.8"
-   ],
+   "issues": [],
    "size_mb": 19.3
   }
  }
