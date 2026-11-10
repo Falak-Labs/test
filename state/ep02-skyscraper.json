@@ -4,7 +4,7 @@
    "id": "6af2bdef26f9e6aeeaece1f8",
    "channel": "6af2b54962b70b94b0ddd768",
    "service": "youtube",
-   "status": "not listed",
+   "status": "scheduled",
    "dueAt": "2026-11-13T00:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T06:47:02+00:00"
@@ -13,7 +13,7 @@
    "id": "6af2bdefe261c09acca5996c",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
-   "status": "not listed",
+   "status": "scheduled",
    "dueAt": "2026-11-13T00:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T06:47:02+00:00"
