@@ -2,93 +2,1261 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 67.42,
- "words": 232,
- "words_per_sec": 3.44,
+ "duration": 66.9,
+ "words": 228,
+ "words_per_sec": 3.41,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
    "end": 4.031,
-   "text": "If you block a river with a pile of rocks, congrats, you just built a dam."
+   "text": "If you block a river with a pile of rocks, congrats, you just built a dam.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.35
+    },
+    {
+     "w": "you",
+     "start": 0.35,
+     "end": 0.569
+    },
+    {
+     "w": "block",
+     "start": 0.569,
+     "end": 0.789
+    },
+    {
+     "w": "a",
+     "start": 0.789,
+     "end": 1.008
+    },
+    {
+     "w": "river",
+     "start": 1.008,
+     "end": 1.39
+    },
+    {
+     "w": "with",
+     "start": 1.39,
+     "end": 1.61
+    },
+    {
+     "w": "a",
+     "start": 1.61,
+     "end": 1.829
+    },
+    {
+     "w": "pile",
+     "start": 1.829,
+     "end": 2.049
+    },
+    {
+     "w": "of",
+     "start": 2.049,
+     "end": 2.268
+    },
+    {
+     "w": "rocks,",
+     "start": 2.268,
+     "end": 2.488
+    },
+    {
+     "w": "congrats,",
+     "start": 2.488,
+     "end": 2.87
+    },
+    {
+     "w": "you",
+     "start": 3.01,
+     "end": 3.2
+    },
+    {
+     "w": "just",
+     "start": 3.2,
+     "end": 3.39
+    },
+    {
+     "w": "built",
+     "start": 3.39,
+     "end": 3.58
+    },
+    {
+     "w": "a",
+     "start": 3.58,
+     "end": 3.77
+    },
+    {
+     "w": "dam.",
+     "start": 3.77,
+     "end": 3.96
+    }
+   ]
   },
   {
    "line": 2,
    "start": 4.396,
    "end": 9.615,
-   "text": "But the lake gets deeper every day, and deeper water pushes harder, until it shoves your pile downstream."
+   "text": "But the lake gets deeper every day, and deeper water pushes harder, until it shoves your pile downstream.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.546,
+     "end": 4.719
+    },
+    {
+     "w": "the",
+     "start": 4.719,
+     "end": 4.893
+    },
+    {
+     "w": "lake",
+     "start": 4.893,
+     "end": 5.066
+    },
+    {
+     "w": "gets",
+     "start": 5.066,
+     "end": 5.24
+    },
+    {
+     "w": "deeper",
+     "start": 5.24,
+     "end": 5.542
+    },
+    {
+     "w": "every",
+     "start": 5.542,
+     "end": 5.973
+    },
+    {
+     "w": "day,",
+     "start": 5.973,
+     "end": 6.146
+    },
+    {
+     "w": "and",
+     "start": 6.296,
+     "end": 6.481
+    },
+    {
+     "w": "deeper",
+     "start": 6.481,
+     "end": 6.802
+    },
+    {
+     "w": "water",
+     "start": 6.802,
+     "end": 7.123
+    },
+    {
+     "w": "pushes",
+     "start": 7.123,
+     "end": 7.445
+    },
+    {
+     "w": "harder,",
+     "start": 7.445,
+     "end": 7.766
+    },
+    {
+     "w": "until",
+     "start": 7.906,
+     "end": 8.257
+    },
+    {
+     "w": "it",
+     "start": 8.257,
+     "end": 8.459
+    },
+    {
+     "w": "shoves",
+     "start": 8.459,
+     "end": 8.811
+    },
+    {
+     "w": "your",
+     "start": 8.811,
+     "end": 9.013
+    },
+    {
+     "w": "pile",
+     "start": 9.013,
+     "end": 9.215
+    },
+    {
+     "w": "downstream.",
+     "start": 9.215,
+     "end": 9.566
+    }
+   ]
   },
   {
    "line": 3,
    "start": 9.979,
-   "end": 17.302,
-   "text": "So you build it in concrete, thickest at the bottom, where the push is strongest, and curved like an arch, so the lake squeezes it into the canyon walls."
+   "end": 16.031,
+   "text": "So you build it in concrete, thickest at the bottom, and curved like an arch, so the lake squeezes it into the canyon walls.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.089,
+     "end": 10.291
+    },
+    {
+     "w": "you",
+     "start": 10.291,
+     "end": 10.493
+    },
+    {
+     "w": "build",
+     "start": 10.493,
+     "end": 10.694
+    },
+    {
+     "w": "it",
+     "start": 10.694,
+     "end": 10.896
+    },
+    {
+     "w": "in",
+     "start": 10.896,
+     "end": 11.098
+    },
+    {
+     "w": "concrete,",
+     "start": 11.098,
+     "end": 11.449
+    },
+    {
+     "w": "thickest",
+     "start": 11.609,
+     "end": 11.914
+    },
+    {
+     "w": "at",
+     "start": 11.914,
+     "end": 12.089
+    },
+    {
+     "w": "the",
+     "start": 12.089,
+     "end": 12.264
+    },
+    {
+     "w": "bottom,",
+     "start": 12.264,
+     "end": 12.569
+    },
+    {
+     "w": "and",
+     "start": 12.719,
+     "end": 12.897
+    },
+    {
+     "w": "curved",
+     "start": 12.897,
+     "end": 13.206
+    },
+    {
+     "w": "like",
+     "start": 13.206,
+     "end": 13.384
+    },
+    {
+     "w": "an",
+     "start": 13.384,
+     "end": 13.561
+    },
+    {
+     "w": "arch,",
+     "start": 13.561,
+     "end": 13.739
+    },
+    {
+     "w": "so",
+     "start": 13.889,
+     "end": 14.074
+    },
+    {
+     "w": "the",
+     "start": 14.074,
+     "end": 14.26
+    },
+    {
+     "w": "lake",
+     "start": 14.26,
+     "end": 14.445
+    },
+    {
+     "w": "squeezes",
+     "start": 14.445,
+     "end": 14.768
+    },
+    {
+     "w": "it",
+     "start": 14.768,
+     "end": 14.953
+    },
+    {
+     "w": "into",
+     "start": 14.953,
+     "end": 15.276
+    },
+    {
+     "w": "the",
+     "start": 15.276,
+     "end": 15.461
+    },
+    {
+     "w": "canyon",
+     "start": 15.461,
+     "end": 15.784
+    },
+    {
+     "w": "walls.",
+     "start": 15.784,
+     "end": 15.969
+    }
+   ]
   },
   {
    "line": 4,
-   "start": 17.667,
-   "end": 21.531,
-   "text": "Now it holds, but all that water is doing nothing, like a teenager in summer."
+   "start": 16.396,
+   "end": 20.26,
+   "text": "Now it holds, but all that water is doing nothing, like a teenager in summer.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 16.486,
+     "end": 16.68
+    },
+    {
+     "w": "it",
+     "start": 16.68,
+     "end": 16.874
+    },
+    {
+     "w": "holds,",
+     "start": 16.874,
+     "end": 17.069
+    },
+    {
+     "w": "but",
+     "start": 17.069,
+     "end": 17.263
+    },
+    {
+     "w": "all",
+     "start": 17.263,
+     "end": 17.457
+    },
+    {
+     "w": "that",
+     "start": 17.457,
+     "end": 17.651
+    },
+    {
+     "w": "water",
+     "start": 17.651,
+     "end": 17.989
+    },
+    {
+     "w": "is",
+     "start": 17.989,
+     "end": 18.184
+    },
+    {
+     "w": "doing",
+     "start": 18.184,
+     "end": 18.378
+    },
+    {
+     "w": "nothing,",
+     "start": 18.378,
+     "end": 18.716
+    },
+    {
+     "w": "like",
+     "start": 18.776,
+     "end": 18.973
+    },
+    {
+     "w": "a",
+     "start": 18.973,
+     "end": 19.169
+    },
+    {
+     "w": "teenager",
+     "start": 19.169,
+     "end": 19.657
+    },
+    {
+     "w": "in",
+     "start": 19.657,
+     "end": 19.854
+    },
+    {
+     "w": "summer.",
+     "start": 19.854,
+     "end": 20.196
+    }
+   ]
   },
   {
    "line": 5,
-   "start": 21.896,
-   "end": 28.396,
-   "text": "So you run giant pipes called penstocks through the wall, and the falling water spins turbines that turn generators. That's electricity."
+   "start": 20.625,
+   "end": 27.125,
+   "text": "So you run giant pipes called penstocks through the wall, and the falling water spins turbines that turn generators. That's electricity.",
+   "words": [
+    {
+     "w": "So",
+     "start": 20.735,
+     "end": 20.949
+    },
+    {
+     "w": "you",
+     "start": 20.949,
+     "end": 21.164
+    },
+    {
+     "w": "run",
+     "start": 21.164,
+     "end": 21.378
+    },
+    {
+     "w": "giant",
+     "start": 21.378,
+     "end": 21.592
+    },
+    {
+     "w": "pipes",
+     "start": 21.592,
+     "end": 21.966
+    },
+    {
+     "w": "called",
+     "start": 21.966,
+     "end": 22.339
+    },
+    {
+     "w": "penstocks",
+     "start": 22.339,
+     "end": 22.712
+    },
+    {
+     "w": "through",
+     "start": 22.712,
+     "end": 22.926
+    },
+    {
+     "w": "the",
+     "start": 22.926,
+     "end": 23.141
+    },
+    {
+     "w": "wall,",
+     "start": 23.141,
+     "end": 23.355
+    },
+    {
+     "w": "and",
+     "start": 23.505,
+     "end": 23.69
+    },
+    {
+     "w": "the",
+     "start": 23.69,
+     "end": 23.876
+    },
+    {
+     "w": "falling",
+     "start": 23.876,
+     "end": 24.199
+    },
+    {
+     "w": "water",
+     "start": 24.199,
+     "end": 24.521
+    },
+    {
+     "w": "spins",
+     "start": 24.521,
+     "end": 24.707
+    },
+    {
+     "w": "turbines",
+     "start": 24.707,
+     "end": 25.167
+    },
+    {
+     "w": "that",
+     "start": 25.167,
+     "end": 25.352
+    },
+    {
+     "w": "turn",
+     "start": 25.352,
+     "end": 25.538
+    },
+    {
+     "w": "generators.",
+     "start": 25.538,
+     "end": 26.135
+    },
+    {
+     "w": "That's",
+     "start": 26.285,
+     "end": 26.442
+    },
+    {
+     "w": "electricity.",
+     "start": 26.442,
+     "end": 27.065
+    }
+   ]
   },
   {
    "line": 6,
-   "start": 28.76,
-   "end": 33.354,
-   "text": "But then a storm fills the lake to the brim, and your dam becomes a very expensive waterfall."
+   "start": 27.49,
+   "end": 32.083,
+   "text": "But then a storm fills the lake to the brim, and your dam becomes a very expensive waterfall.",
+   "words": [
+    {
+     "w": "But",
+     "start": 27.63,
+     "end": 27.824
+    },
+    {
+     "w": "then",
+     "start": 27.824,
+     "end": 28.018
+    },
+    {
+     "w": "a",
+     "start": 28.018,
+     "end": 28.212
+    },
+    {
+     "w": "storm",
+     "start": 28.212,
+     "end": 28.406
+    },
+    {
+     "w": "fills",
+     "start": 28.406,
+     "end": 28.6
+    },
+    {
+     "w": "the",
+     "start": 28.6,
+     "end": 28.794
+    },
+    {
+     "w": "lake",
+     "start": 28.794,
+     "end": 28.988
+    },
+    {
+     "w": "to",
+     "start": 28.988,
+     "end": 29.182
+    },
+    {
+     "w": "the",
+     "start": 29.182,
+     "end": 29.376
+    },
+    {
+     "w": "brim,",
+     "start": 29.376,
+     "end": 29.57
+    },
+    {
+     "w": "and",
+     "start": 29.74,
+     "end": 29.911
+    },
+    {
+     "w": "your",
+     "start": 29.911,
+     "end": 30.083
+    },
+    {
+     "w": "dam",
+     "start": 30.083,
+     "end": 30.254
+    },
+    {
+     "w": "becomes",
+     "start": 30.254,
+     "end": 30.68
+    },
+    {
+     "w": "a",
+     "start": 30.68,
+     "end": 30.851
+    },
+    {
+     "w": "very",
+     "start": 30.851,
+     "end": 31.149
+    },
+    {
+     "w": "expensive",
+     "start": 31.149,
+     "end": 31.575
+    },
+    {
+     "w": "waterfall.",
+     "start": 31.575,
+     "end": 32.0
+    }
+   ]
   },
   {
    "line": 7,
-   "start": 33.719,
-   "end": 39.635,
-   "text": "So you add spillways: giant gates and chutes that let the extra water out, big enough to swallow Niagara Falls. Twice."
+   "start": 32.448,
+   "end": 38.365,
+   "text": "So you add spillways: giant gates and chutes that let the extra water out, big enough to swallow Niagara Falls. Twice.",
+   "words": [
+    {
+     "w": "So",
+     "start": 32.558,
+     "end": 32.777
+    },
+    {
+     "w": "you",
+     "start": 32.777,
+     "end": 32.997
+    },
+    {
+     "w": "add",
+     "start": 32.997,
+     "end": 33.216
+    },
+    {
+     "w": "spillways:",
+     "start": 33.216,
+     "end": 33.598
+    },
+    {
+     "w": "giant",
+     "start": 33.748,
+     "end": 33.919
+    },
+    {
+     "w": "gates",
+     "start": 33.919,
+     "end": 34.217
+    },
+    {
+     "w": "and",
+     "start": 34.217,
+     "end": 34.389
+    },
+    {
+     "w": "chutes",
+     "start": 34.389,
+     "end": 34.687
+    },
+    {
+     "w": "that",
+     "start": 34.687,
+     "end": 34.858
+    },
+    {
+     "w": "let",
+     "start": 34.858,
+     "end": 35.029
+    },
+    {
+     "w": "the",
+     "start": 35.029,
+     "end": 35.201
+    },
+    {
+     "w": "extra",
+     "start": 35.201,
+     "end": 35.499
+    },
+    {
+     "w": "water",
+     "start": 35.499,
+     "end": 35.797
+    },
+    {
+     "w": "out,",
+     "start": 35.797,
+     "end": 35.968
+    },
+    {
+     "w": "big",
+     "start": 36.098,
+     "end": 36.288
+    },
+    {
+     "w": "enough",
+     "start": 36.288,
+     "end": 36.618
+    },
+    {
+     "w": "to",
+     "start": 36.618,
+     "end": 36.808
+    },
+    {
+     "w": "swallow",
+     "start": 36.808,
+     "end": 37.138
+    },
+    {
+     "w": "Niagara",
+     "start": 37.138,
+     "end": 37.608
+    },
+    {
+     "w": "Falls.",
+     "start": 37.608,
+     "end": 37.798
+    },
+    {
+     "w": "Twice.",
+     "start": 37.988,
+     "end": 38.298
+    }
+   ]
   },
   {
    "line": 8,
-   "start": 40.0,
-   "end": 43.583,
-   "text": "Now it's safe, until the salmon swim home to lay their eggs, and hit a wall."
+   "start": 38.729,
+   "end": 42.312,
+   "text": "Now it's safe, until the salmon swim home to lay their eggs, and hit a wall.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 38.829,
+     "end": 39.042
+    },
+    {
+     "w": "it's",
+     "start": 39.042,
+     "end": 39.256
+    },
+    {
+     "w": "safe,",
+     "start": 39.256,
+     "end": 39.469
+    },
+    {
+     "w": "until",
+     "start": 39.649,
+     "end": 39.966
+    },
+    {
+     "w": "the",
+     "start": 39.966,
+     "end": 40.148
+    },
+    {
+     "w": "salmon",
+     "start": 40.148,
+     "end": 40.466
+    },
+    {
+     "w": "swim",
+     "start": 40.466,
+     "end": 40.648
+    },
+    {
+     "w": "home",
+     "start": 40.648,
+     "end": 40.83
+    },
+    {
+     "w": "to",
+     "start": 40.83,
+     "end": 41.012
+    },
+    {
+     "w": "lay",
+     "start": 41.012,
+     "end": 41.195
+    },
+    {
+     "w": "their",
+     "start": 41.195,
+     "end": 41.377
+    },
+    {
+     "w": "eggs,",
+     "start": 41.377,
+     "end": 41.559
+    },
+    {
+     "w": "and",
+     "start": 41.679,
+     "end": 41.816
+    },
+    {
+     "w": "hit",
+     "start": 41.816,
+     "end": 41.954
+    },
+    {
+     "w": "a",
+     "start": 41.954,
+     "end": 42.092
+    },
+    {
+     "w": "wall.",
+     "start": 42.092,
+     "end": 42.229
+    }
+   ]
   },
   {
    "line": 9,
-   "start": 43.948,
-   "end": 48.417,
-   "text": "So you build a fish ladder: a staircase of little pools they jump up, one step at a time."
+   "start": 42.677,
+   "end": 47.146,
+   "text": "So you build a fish ladder: a staircase of little pools they jump up, one step at a time.",
+   "words": [
+    {
+     "w": "So",
+     "start": 42.787,
+     "end": 42.969
+    },
+    {
+     "w": "you",
+     "start": 42.969,
+     "end": 43.152
+    },
+    {
+     "w": "build",
+     "start": 43.152,
+     "end": 43.334
+    },
+    {
+     "w": "a",
+     "start": 43.334,
+     "end": 43.517
+    },
+    {
+     "w": "fish",
+     "start": 43.517,
+     "end": 43.699
+    },
+    {
+     "w": "ladder:",
+     "start": 43.699,
+     "end": 44.017
+    },
+    {
+     "w": "a",
+     "start": 44.177,
+     "end": 44.384
+    },
+    {
+     "w": "staircase",
+     "start": 44.384,
+     "end": 44.745
+    },
+    {
+     "w": "of",
+     "start": 44.745,
+     "end": 44.952
+    },
+    {
+     "w": "little",
+     "start": 44.952,
+     "end": 45.159
+    },
+    {
+     "w": "pools",
+     "start": 45.159,
+     "end": 45.366
+    },
+    {
+     "w": "they",
+     "start": 45.366,
+     "end": 45.573
+    },
+    {
+     "w": "jump",
+     "start": 45.573,
+     "end": 45.78
+    },
+    {
+     "w": "up,",
+     "start": 45.78,
+     "end": 45.987
+    },
+    {
+     "w": "one",
+     "start": 46.167,
+     "end": 46.347
+    },
+    {
+     "w": "step",
+     "start": 46.347,
+     "end": 46.527
+    },
+    {
+     "w": "at",
+     "start": 46.527,
+     "end": 46.707
+    },
+    {
+     "w": "a",
+     "start": 46.707,
+     "end": 46.887
+    },
+    {
+     "w": "time.",
+     "start": 46.887,
+     "end": 47.067
+    }
+   ]
   },
   {
    "line": 10,
-   "start": 48.781,
-   "end": 52.427,
-   "text": "But before you flip the switch, follow, because next we're building a race car."
+   "start": 47.51,
+   "end": 51.156,
+   "text": "But before you flip the switch, follow, because next we're building a race car.",
+   "words": [
+    {
+     "w": "But",
+     "start": 47.66,
+     "end": 47.853
+    },
+    {
+     "w": "before",
+     "start": 47.853,
+     "end": 48.189
+    },
+    {
+     "w": "you",
+     "start": 48.189,
+     "end": 48.381
+    },
+    {
+     "w": "flip",
+     "start": 48.381,
+     "end": 48.574
+    },
+    {
+     "w": "the",
+     "start": 48.574,
+     "end": 48.767
+    },
+    {
+     "w": "switch,",
+     "start": 48.767,
+     "end": 48.96
+    },
+    {
+     "w": "follow,",
+     "start": 49.1,
+     "end": 49.41
+    },
+    {
+     "w": "because",
+     "start": 49.53,
+     "end": 49.848
+    },
+    {
+     "w": "next",
+     "start": 49.848,
+     "end": 50.031
+    },
+    {
+     "w": "we're",
+     "start": 50.031,
+     "end": 50.214
+    },
+    {
+     "w": "building",
+     "start": 50.214,
+     "end": 50.532
+    },
+    {
+     "w": "a",
+     "start": 50.532,
+     "end": 50.714
+    },
+    {
+     "w": "race",
+     "start": 50.714,
+     "end": 50.897
+    },
+    {
+     "w": "car.",
+     "start": 50.897,
+     "end": 51.08
+    }
+   ]
   },
   {
    "line": 11,
-   "start": 52.792,
-   "end": 56.438,
-   "text": "Now just add power lines, a road across the top, and a gift shop."
+   "start": 51.521,
+   "end": 55.167,
+   "text": "Now just add power lines, a road across the top, and a gift shop.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 51.621,
+     "end": 51.835
+    },
+    {
+     "w": "just",
+     "start": 51.835,
+     "end": 52.05
+    },
+    {
+     "w": "add",
+     "start": 52.05,
+     "end": 52.264
+    },
+    {
+     "w": "power",
+     "start": 52.264,
+     "end": 52.638
+    },
+    {
+     "w": "lines,",
+     "start": 52.638,
+     "end": 53.011
+    },
+    {
+     "w": "a",
+     "start": 53.141,
+     "end": 53.331
+    },
+    {
+     "w": "road",
+     "start": 53.331,
+     "end": 53.521
+    },
+    {
+     "w": "across",
+     "start": 53.521,
+     "end": 53.851
+    },
+    {
+     "w": "the",
+     "start": 53.851,
+     "end": 54.041
+    },
+    {
+     "w": "top,",
+     "start": 54.041,
+     "end": 54.231
+    },
+    {
+     "w": "and",
+     "start": 54.431,
+     "end": 54.584
+    },
+    {
+     "w": "a",
+     "start": 54.584,
+     "end": 54.736
+    },
+    {
+     "w": "gift",
+     "start": 54.736,
+     "end": 54.888
+    },
+    {
+     "w": "shop.",
+     "start": 54.888,
+     "end": 55.041
+    }
+   ]
   },
   {
    "line": 12,
-   "start": 56.802,
-   "end": 60.167,
-   "text": "One wall, seventeen turbines, power for a million people."
+   "start": 55.531,
+   "end": 58.896,
+   "text": "One wall, seventeen turbines, power for a million people.",
+   "words": [
+    {
+     "w": "One",
+     "start": 55.621,
+     "end": 55.921
+    },
+    {
+     "w": "wall,",
+     "start": 55.921,
+     "end": 56.221
+    },
+    {
+     "w": "seventeen",
+     "start": 56.401,
+     "end": 56.941
+    },
+    {
+     "w": "turbines,",
+     "start": 56.941,
+     "end": 57.481
+    },
+    {
+     "w": "power",
+     "start": 57.621,
+     "end": 57.938
+    },
+    {
+     "w": "for",
+     "start": 57.938,
+     "end": 58.12
+    },
+    {
+     "w": "a",
+     "start": 58.12,
+     "end": 58.302
+    },
+    {
+     "w": "million",
+     "start": 58.302,
+     "end": 58.619
+    },
+    {
+     "w": "people.",
+     "start": 58.619,
+     "end": 58.801
+    }
+   ]
   },
   {
    "line": 13,
-   "start": 60.531,
-   "end": 62.854,
-   "text": "And congrats, you just built a dam yourself."
+   "start": 59.26,
+   "end": 62.333,
+   "text": "And congrats, you just built a hydroelectric dam yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.38,
+     "end": 59.635
+    },
+    {
+     "w": "congrats,",
+     "start": 59.635,
+     "end": 60.08
+    },
+    {
+     "w": "you",
+     "start": 60.23,
+     "end": 60.43
+    },
+    {
+     "w": "just",
+     "start": 60.43,
+     "end": 60.629
+    },
+    {
+     "w": "built",
+     "start": 60.629,
+     "end": 60.829
+    },
+    {
+     "w": "a",
+     "start": 60.829,
+     "end": 61.029
+    },
+    {
+     "w": "hydroelectric",
+     "start": 61.029,
+     "end": 61.673
+    },
+    {
+     "w": "dam",
+     "start": 61.673,
+     "end": 61.872
+    },
+    {
+     "w": "yourself.",
+     "start": 61.872,
+     "end": 62.22
+    }
+   ]
   },
   {
    "line": 14,
-   "start": 63.219,
-   "end": 67.438,
-   "text": "And the lazy fish? Some dams have a fish elevator. That's real. We checked."
+   "start": 62.698,
+   "end": 66.917,
+   "text": "And the lazy fish? Some dams have a fish elevator. That's real. We checked.",
+   "words": [
+    {
+     "w": "And",
+     "start": 62.818,
+     "end": 63.031
+    },
+    {
+     "w": "the",
+     "start": 63.031,
+     "end": 63.244
+    },
+    {
+     "w": "lazy",
+     "start": 63.244,
+     "end": 63.615
+    },
+    {
+     "w": "fish?",
+     "start": 63.615,
+     "end": 63.828
+    },
+    {
+     "w": "Some",
+     "start": 63.968,
+     "end": 64.163
+    },
+    {
+     "w": "dams",
+     "start": 64.163,
+     "end": 64.357
+    },
+    {
+     "w": "have",
+     "start": 64.357,
+     "end": 64.552
+    },
+    {
+     "w": "a",
+     "start": 64.552,
+     "end": 64.746
+    },
+    {
+     "w": "fish",
+     "start": 64.746,
+     "end": 64.941
+    },
+    {
+     "w": "elevator.",
+     "start": 64.941,
+     "end": 65.568
+    },
+    {
+     "w": "That's",
+     "start": 65.718,
+     "end": 65.968
+    },
+    {
+     "w": "real.",
+     "start": 65.968,
+     "end": 66.218
+    },
+    {
+     "w": "We",
+     "start": 66.388,
+     "end": 66.516
+    },
+    {
+     "w": "checked.",
+     "start": 66.516,
+     "end": 66.738
+    }
+   ]
   }
  ]
 }
