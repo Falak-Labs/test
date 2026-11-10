@@ -1,0 +1,30 @@
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+loaded PerthNet (Implicit) at step 250,000
+model ready in 9s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+  L 1 seed 302    3.90s 11.5 l/s  ok  asr 2%  (42s)
+  L 2 seed 303    3.57s 10.9 l/s  ok  asr 6%  (37s)
+  L 3 seed 304    4.69s 11.5 l/s  ok  asr 11%  (47s)
+  L 4 seed 305    3.49s 12.6 l/s  ok  asr 23%  (38s)
+  L 5 seed 306    5.38s 14.7 l/s  15 letters/s  asr 23%  (52s)
+  L 5 seed 1306   6.14s 12.9 l/s  ok  asr 14%  (57s)
+  L 6 seed 307    2.98s 14.4 l/s  ok  asr 9%  (34s)
+  L 7 seed 308    6.45s 13.0 l/s  ok  asr 8%  (61s)
+  L 8 seed 309    3.05s 12.5 l/s  ok  asr 15%  (35s)
+  L 9 seed 310    5.94s 12.3 l/s  ok  asr 9%  (57s)
+  L10 seed 311    3.14s 12.4 l/s  ok  asr 4%  (34s)
+  L11 seed 312    5.52s 11.1 l/s  ok  asr 17%  (53s)
+  L12 seed 313    2.24s 10.3 l/s  ok  asr 28%  (27s)
+  L13 seed 314    3.01s  8.6 l/s  ok  asr 11%  (34s)
+  L14 seed 315    2.57s 10.9 l/s  ok  asr 7%  (31s)
+NAMAA Saudi built-in: 14 lines, 159 words, 60.59s (2.62 words/s), 651s -> series/voice/vault_ar_sa.wav
+vault_ar_sa: 63.69s, 1911 frames
+video done in 432s
+audio done
+final out/vault_ar_sa/vault_ar_sa_final.mp4
+QA  duration 63.70s  loudness -14.0 LUFS  true peak -1.7 dBFS  1080x1920 @ 30/1  frames 1911
+QA sheet out/vault_ar_sa/qa_sheet.png
