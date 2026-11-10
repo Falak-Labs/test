@@ -31,4 +31,5 @@ jobs:
         run: python scripts/${{ inputs.cmd }}.py ${{ inputs.args }}
       - name: Save state
         if: always()
-        run: bash scripts/save_state.sh "state: ${{ inputs.cmd }} $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+        run: |
+          bash scripts/save_state.sh "state: ${{ inputs.cmd }} $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"

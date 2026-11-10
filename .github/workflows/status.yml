@@ -24,4 +24,5 @@ jobs:
           BUFFER_KEY_AR: ${{ secrets.BUFFER_KEY_AR }}
         run: python scripts/status.py
       - name: Save state
-        run: bash scripts/save_state.sh "status: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+        run: |
+          bash scripts/save_state.sh "status: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
