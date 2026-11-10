@@ -1,4 +1,4 @@
-# Post status 2026-11-10T15:43:03+00:00
+# Post status 2026-11-10T15:53:17+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@
 | ep05-waterslide | en.instagram | sent |  | 2026-11-10T07:22:56.901Z https://www.instagram.com/reel/DfjW-NEP2ap/ |
 | ep05-waterslide | en.tiktok | sent |  | 2026-11-10T07:52:02Z https://www.tiktok.com/@congratsengineer/video/7706447222933556494 |
 | ep05-waterslide | en.youtube | sent |  | 2026-11-10T07:18:01.669Z https://www.youtube.com/shorts/rwEmHVnoQTM |
-| ep06-rocket | ar.instagram | scheduled |  | 2026-11-10T15:50:00.000Z |
-| ep06-rocket | ar.tiktok | scheduled |  | 2026-11-10T15:50:00.000Z |
-| ep06-rocket | ar.youtube | scheduled |  | 2026-11-10T15:50:00.000Z |
-| ep06-rocket | en.instagram | scheduled |  | 2026-11-10T15:50:00.000Z |
-| ep06-rocket | en.tiktok | scheduled |  | 2026-11-10T15:50:00.000Z |
-| ep06-rocket | en.youtube | scheduled |  | 2026-11-10T15:50:00.000Z |
+| ep06-rocket | ar.instagram | sent |  | 2026-11-10T15:50:59.999Z https://www.instagram.com/reel/DfkRHsHgXba/ |
+| ep06-rocket | ar.tiktok | sent |  | 2026-11-10T15:50:46.836Z https://tiktok.com/@kef.tenbeni/video/7706570601653226765 |
+| ep06-rocket | ar.youtube | sent |  | 2026-11-10T15:50:07.048Z https://www.youtube.com/shorts/f61qcIXlSD8 |
+| ep06-rocket | en.instagram | sent |  | 2026-11-10T15:50:59.386Z https://www.instagram.com/reel/DfkRHX2ghH9/ |
+| ep06-rocket | en.tiktok | sent |  | 2026-11-10T15:50:45.693Z https://tiktok.com/@congratsengineer/video/7706570494668967182 |
+| ep06-rocket | en.youtube | sent |  | 2026-11-10T15:50:05.482Z https://www.youtube.com/shorts/autWa_pR7ig |
 | ep07-castle | ar.instagram | scheduled |  | 2026-11-10T16:00:00.000Z |
 | ep07-castle | ar.tiktok | scheduled |  | 2026-11-10T16:00:00.000Z |
 | ep07-castle | ar.youtube | scheduled |  | 2026-11-10T16:00:00.000Z |
