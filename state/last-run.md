@@ -1,16 +1,4 @@
-# Move-up run 2026-11-10T07:07:00+00:00
+# Last posting run 2026-11-10T07:13:01+00:00
 
-- ep01-elevator en.youtube: moved to 07:12 UTC (status scheduled)
-- ep01-elevator en.instagram: moved to 07:12 UTC (status scheduled)
-- ep02-skyscraper en.youtube: moved to 07:22 UTC (status scheduled)
-- ep02-skyscraper en.instagram: moved to 07:22 UTC (status scheduled)
-- ep02-skyscraper en.tiktok: moved to 07:22 UTC (status scheduled)
-- ep03-pool en.youtube: moved to 07:32 UTC (status scheduled)
-- ep03-pool en.instagram: moved to 07:32 UTC (status scheduled)
-- ep03-pool en.tiktok: moved to 07:32 UTC (status scheduled)
-- ep04-coaster en.youtube: moved to 07:42 UTC (status scheduled)
-- ep04-coaster en.instagram: moved to 07:42 UTC (status scheduled)
-- ep04-coaster en.tiktok: moved to 07:42 UTC (status scheduled)
-- ep05-waterslide en.youtube: moved to 07:52 UTC (status scheduled)
-- ep05-waterslide en.instagram: moved to 07:52 UTC (status scheduled)
-- ep05-waterslide en.tiktok: moved to 07:52 UTC (status scheduled)
+- en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
+- ar: no Buffer key yet (secret BUFFER_KEY_AR) - its posts wait
