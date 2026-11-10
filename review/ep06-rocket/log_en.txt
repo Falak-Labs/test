@@ -1,7 +1,13 @@
-Traceback (most recent call last):
-  File "/home/runner/work/test/test/kit/make.py", line 19, in <module>
-    from bik.render import render, mux, contact_sheet  # noqa: E402
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/test/test/kit/bik/render.py", line 5, in <module>
-    import skia
-ImportError: libEGL.so.1: cannot open shared object file: No such file or directory
+rocket: 68.69s, 2061 frames
+unknown element "reset-dirs"
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 405s
+audio done
+final out/rocket/rocket_final.mp4
+QA  duration 68.70s  loudness -14.0 LUFS  true peak -1.1 dBFS  1080x1920 @ 30/1  frames 2061
+QA sheet out/rocket/qa_sheet.png
