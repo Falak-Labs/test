@@ -17,3 +17,4 @@ episodes:
   - {slug: ep13-vault, kit: vault, look: 2}
   - {slug: ep14-aircon, kit: aircon, look: 2}
   - {slug: ep15-station, kit: station, look: 2}
+  - {slug: ep16-bridge, kit: bridge, look: 2}

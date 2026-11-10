@@ -10,85 +10,1223 @@
    "line": 1,
    "start": 0.0,
    "end": 3.469,
-   "text": "If you lay a plank across a river, congrats, you just built a bridge."
+   "text": "If you lay a plank across a river, congrats, you just built a bridge.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.33
+    },
+    {
+     "w": "you",
+     "start": 0.33,
+     "end": 0.529
+    },
+    {
+     "w": "lay",
+     "start": 0.529,
+     "end": 0.729
+    },
+    {
+     "w": "a",
+     "start": 0.729,
+     "end": 0.928
+    },
+    {
+     "w": "plank",
+     "start": 0.928,
+     "end": 1.128
+    },
+    {
+     "w": "across",
+     "start": 1.128,
+     "end": 1.475
+    },
+    {
+     "w": "a",
+     "start": 1.475,
+     "end": 1.675
+    },
+    {
+     "w": "river,",
+     "start": 1.675,
+     "end": 2.023
+    },
+    {
+     "w": "congrats,",
+     "start": 2.023,
+     "end": 2.37
+    },
+    {
+     "w": "you",
+     "start": 2.51,
+     "end": 2.69
+    },
+    {
+     "w": "just",
+     "start": 2.69,
+     "end": 2.87
+    },
+    {
+     "w": "built",
+     "start": 2.87,
+     "end": 3.05
+    },
+    {
+     "w": "a",
+     "start": 3.05,
+     "end": 3.23
+    },
+    {
+     "w": "bridge.",
+     "start": 3.23,
+     "end": 3.41
+    }
+   ]
   },
   {
    "line": 2,
    "start": 3.833,
    "end": 7.344,
-   "text": "But the river is a mile wide, and your plank snaps and goes swimming."
+   "text": "But the river is a mile wide, and your plank snaps and goes swimming.",
+   "words": [
+    {
+     "w": "But",
+     "start": 3.973,
+     "end": 4.16
+    },
+    {
+     "w": "the",
+     "start": 4.16,
+     "end": 4.348
+    },
+    {
+     "w": "river",
+     "start": 4.348,
+     "end": 4.674
+    },
+    {
+     "w": "is",
+     "start": 4.674,
+     "end": 4.861
+    },
+    {
+     "w": "a",
+     "start": 4.861,
+     "end": 5.048
+    },
+    {
+     "w": "mile",
+     "start": 5.048,
+     "end": 5.236
+    },
+    {
+     "w": "wide,",
+     "start": 5.236,
+     "end": 5.423
+    },
+    {
+     "w": "and",
+     "start": 5.573,
+     "end": 5.791
+    },
+    {
+     "w": "your",
+     "start": 5.791,
+     "end": 6.01
+    },
+    {
+     "w": "plank",
+     "start": 6.01,
+     "end": 6.228
+    },
+    {
+     "w": "snaps",
+     "start": 6.228,
+     "end": 6.446
+    },
+    {
+     "w": "and",
+     "start": 6.446,
+     "end": 6.665
+    },
+    {
+     "w": "goes",
+     "start": 6.665,
+     "end": 6.883
+    },
+    {
+     "w": "swimming.",
+     "start": 6.883,
+     "end": 7.263
+    }
+   ]
   },
   {
    "line": 3,
    "start": 7.708,
    "end": 13.698,
-   "text": "So you build two towers, drape two main cables over them, and hang the road on steel hangers, like laundry on a clothesline."
+   "text": "So you build two towers, drape two main cables over them, and hang the road on steel hangers, like laundry on a clothesline.",
+   "words": [
+    {
+     "w": "So",
+     "start": 7.808,
+     "end": 8.022
+    },
+    {
+     "w": "you",
+     "start": 8.022,
+     "end": 8.237
+    },
+    {
+     "w": "build",
+     "start": 8.237,
+     "end": 8.451
+    },
+    {
+     "w": "two",
+     "start": 8.451,
+     "end": 8.665
+    },
+    {
+     "w": "towers,",
+     "start": 8.665,
+     "end": 9.038
+    },
+    {
+     "w": "drape",
+     "start": 9.168,
+     "end": 9.366
+    },
+    {
+     "w": "two",
+     "start": 9.366,
+     "end": 9.564
+    },
+    {
+     "w": "main",
+     "start": 9.564,
+     "end": 9.761
+    },
+    {
+     "w": "cables",
+     "start": 9.761,
+     "end": 10.106
+    },
+    {
+     "w": "over",
+     "start": 10.106,
+     "end": 10.45
+    },
+    {
+     "w": "them,",
+     "start": 10.45,
+     "end": 10.648
+    },
+    {
+     "w": "and",
+     "start": 10.798,
+     "end": 10.984
+    },
+    {
+     "w": "hang",
+     "start": 10.984,
+     "end": 11.17
+    },
+    {
+     "w": "the",
+     "start": 11.17,
+     "end": 11.356
+    },
+    {
+     "w": "road",
+     "start": 11.356,
+     "end": 11.542
+    },
+    {
+     "w": "on",
+     "start": 11.542,
+     "end": 11.728
+    },
+    {
+     "w": "steel",
+     "start": 11.728,
+     "end": 11.914
+    },
+    {
+     "w": "hangers,",
+     "start": 11.914,
+     "end": 12.238
+    },
+    {
+     "w": "like",
+     "start": 12.348,
+     "end": 12.527
+    },
+    {
+     "w": "laundry",
+     "start": 12.527,
+     "end": 12.838
+    },
+    {
+     "w": "on",
+     "start": 12.838,
+     "end": 13.016
+    },
+    {
+     "w": "a",
+     "start": 13.016,
+     "end": 13.195
+    },
+    {
+     "w": "clothesline.",
+     "start": 13.195,
+     "end": 13.638
+    }
+   ]
   },
   {
    "line": 4,
    "start": 14.062,
    "end": 18.177,
-   "text": "Now it hangs, until the cables yank their ends out of the ground, like tent pegs."
+   "text": "Now it hangs, until the cables yank their ends out of the ground, like tent pegs.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 14.162,
+     "end": 14.415
+    },
+    {
+     "w": "it",
+     "start": 14.415,
+     "end": 14.669
+    },
+    {
+     "w": "hangs,",
+     "start": 14.669,
+     "end": 14.922
+    },
+    {
+     "w": "until",
+     "start": 15.052,
+     "end": 15.408
+    },
+    {
+     "w": "the",
+     "start": 15.408,
+     "end": 15.613
+    },
+    {
+     "w": "cables",
+     "start": 15.613,
+     "end": 15.969
+    },
+    {
+     "w": "yank",
+     "start": 15.969,
+     "end": 16.174
+    },
+    {
+     "w": "their",
+     "start": 16.174,
+     "end": 16.379
+    },
+    {
+     "w": "ends",
+     "start": 16.379,
+     "end": 16.583
+    },
+    {
+     "w": "out",
+     "start": 16.583,
+     "end": 16.788
+    },
+    {
+     "w": "of",
+     "start": 16.788,
+     "end": 16.993
+    },
+    {
+     "w": "the",
+     "start": 16.993,
+     "end": 17.197
+    },
+    {
+     "w": "ground,",
+     "start": 17.197,
+     "end": 17.402
+    },
+    {
+     "w": "like",
+     "start": 17.502,
+     "end": 17.702
+    },
+    {
+     "w": "tent",
+     "start": 17.702,
+     "end": 17.902
+    },
+    {
+     "w": "pegs.",
+     "start": 17.902,
+     "end": 18.102
+    }
+   ]
   },
   {
    "line": 5,
    "start": 18.542,
    "end": 24.865,
-   "text": "So you fan each cable into strands, hook them onto eyebars, and bury those in an anchorage: sixty thousand tons of concrete."
+   "text": "So you fan each cable into strands, hook them onto eyebars, and bury those in an anchorage: sixty thousand tons of concrete.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.652,
+     "end": 18.86
+    },
+    {
+     "w": "you",
+     "start": 18.86,
+     "end": 19.068
+    },
+    {
+     "w": "fan",
+     "start": 19.068,
+     "end": 19.276
+    },
+    {
+     "w": "each",
+     "start": 19.276,
+     "end": 19.484
+    },
+    {
+     "w": "cable",
+     "start": 19.484,
+     "end": 19.692
+    },
+    {
+     "w": "into",
+     "start": 19.692,
+     "end": 20.054
+    },
+    {
+     "w": "strands,",
+     "start": 20.054,
+     "end": 20.262
+    },
+    {
+     "w": "hook",
+     "start": 20.262,
+     "end": 20.47
+    },
+    {
+     "w": "them",
+     "start": 20.47,
+     "end": 20.678
+    },
+    {
+     "w": "onto",
+     "start": 20.678,
+     "end": 21.04
+    },
+    {
+     "w": "eyebars,",
+     "start": 21.04,
+     "end": 21.402
+    },
+    {
+     "w": "and",
+     "start": 21.402,
+     "end": 21.61
+    },
+    {
+     "w": "bury",
+     "start": 21.61,
+     "end": 21.972
+    },
+    {
+     "w": "those",
+     "start": 21.972,
+     "end": 22.18
+    },
+    {
+     "w": "in",
+     "start": 22.18,
+     "end": 22.388
+    },
+    {
+     "w": "an",
+     "start": 22.388,
+     "end": 22.596
+    },
+    {
+     "w": "anchorage:",
+     "start": 22.596,
+     "end": 23.112
+    },
+    {
+     "w": "sixty",
+     "start": 23.252,
+     "end": 23.623
+    },
+    {
+     "w": "thousand",
+     "start": 23.623,
+     "end": 23.994
+    },
+    {
+     "w": "tons",
+     "start": 23.994,
+     "end": 24.208
+    },
+    {
+     "w": "of",
+     "start": 24.208,
+     "end": 24.421
+    },
+    {
+     "w": "concrete.",
+     "start": 24.421,
+     "end": 24.792
+    }
+   ]
   },
   {
    "line": 6,
    "start": 25.229,
    "end": 31.115,
-   "text": "But then the wind makes the road gallop. In nineteen forty, drivers came to ride a bridge like that, until it twisted apart."
+   "text": "But then the wind makes the road gallop. In nineteen forty, drivers came to ride a bridge like that, until it twisted apart.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.369,
+     "end": 25.532
+    },
+    {
+     "w": "then",
+     "start": 25.532,
+     "end": 25.696
+    },
+    {
+     "w": "the",
+     "start": 25.696,
+     "end": 25.859
+    },
+    {
+     "w": "wind",
+     "start": 25.859,
+     "end": 26.023
+    },
+    {
+     "w": "makes",
+     "start": 26.023,
+     "end": 26.307
+    },
+    {
+     "w": "the",
+     "start": 26.307,
+     "end": 26.471
+    },
+    {
+     "w": "road",
+     "start": 26.471,
+     "end": 26.634
+    },
+    {
+     "w": "gallop.",
+     "start": 26.634,
+     "end": 26.919
+    },
+    {
+     "w": "In",
+     "start": 27.119,
+     "end": 27.318
+    },
+    {
+     "w": "nineteen",
+     "start": 27.318,
+     "end": 27.812
+    },
+    {
+     "w": "forty,",
+     "start": 27.812,
+     "end": 28.159
+    },
+    {
+     "w": "drivers",
+     "start": 28.209,
+     "end": 28.494
+    },
+    {
+     "w": "came",
+     "start": 28.494,
+     "end": 28.657
+    },
+    {
+     "w": "to",
+     "start": 28.657,
+     "end": 28.821
+    },
+    {
+     "w": "ride",
+     "start": 28.821,
+     "end": 28.985
+    },
+    {
+     "w": "a",
+     "start": 28.985,
+     "end": 29.148
+    },
+    {
+     "w": "bridge",
+     "start": 29.148,
+     "end": 29.312
+    },
+    {
+     "w": "like",
+     "start": 29.312,
+     "end": 29.475
+    },
+    {
+     "w": "that,",
+     "start": 29.475,
+     "end": 29.639
+    },
+    {
+     "w": "until",
+     "start": 29.709,
+     "end": 30.081
+    },
+    {
+     "w": "it",
+     "start": 30.081,
+     "end": 30.295
+    },
+    {
+     "w": "twisted",
+     "start": 30.295,
+     "end": 30.667
+    },
+    {
+     "w": "apart.",
+     "start": 30.667,
+     "end": 31.039
+    }
+   ]
   },
   {
    "line": 7,
    "start": 31.479,
    "end": 36.479,
-   "text": "So you stiffen the deck with a steel truss, or shape it into a streamlined box the wind slides past."
+   "text": "So you stiffen the deck with a steel truss, or shape it into a streamlined box the wind slides past.",
+   "words": [
+    {
+     "w": "So",
+     "start": 31.599,
+     "end": 31.796
+    },
+    {
+     "w": "you",
+     "start": 31.796,
+     "end": 31.993
+    },
+    {
+     "w": "stiffen",
+     "start": 31.993,
+     "end": 32.336
+    },
+    {
+     "w": "the",
+     "start": 32.336,
+     "end": 32.533
+    },
+    {
+     "w": "deck",
+     "start": 32.533,
+     "end": 32.731
+    },
+    {
+     "w": "with",
+     "start": 32.731,
+     "end": 32.928
+    },
+    {
+     "w": "a",
+     "start": 32.928,
+     "end": 33.125
+    },
+    {
+     "w": "steel",
+     "start": 33.125,
+     "end": 33.322
+    },
+    {
+     "w": "truss,",
+     "start": 33.322,
+     "end": 33.519
+    },
+    {
+     "w": "or",
+     "start": 33.639,
+     "end": 33.834
+    },
+    {
+     "w": "shape",
+     "start": 33.834,
+     "end": 34.029
+    },
+    {
+     "w": "it",
+     "start": 34.029,
+     "end": 34.223
+    },
+    {
+     "w": "into",
+     "start": 34.223,
+     "end": 34.563
+    },
+    {
+     "w": "a",
+     "start": 34.563,
+     "end": 34.757
+    },
+    {
+     "w": "streamlined",
+     "start": 34.757,
+     "end": 35.241
+    },
+    {
+     "w": "box",
+     "start": 35.241,
+     "end": 35.435
+    },
+    {
+     "w": "the",
+     "start": 35.435,
+     "end": 35.63
+    },
+    {
+     "w": "wind",
+     "start": 35.63,
+     "end": 35.825
+    },
+    {
+     "w": "slides",
+     "start": 35.825,
+     "end": 36.164
+    },
+    {
+     "w": "past.",
+     "start": 36.164,
+     "end": 36.359
+    }
+   ]
   },
   {
    "line": 8,
    "start": 36.844,
    "end": 40.635,
-   "text": "Now it's steady, until a hot day makes the steel grow, and the road buckles."
+   "text": "Now it's steady, until a hot day makes the steel grow, and the road buckles.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 36.944,
+     "end": 37.147
+    },
+    {
+     "w": "it's",
+     "start": 37.147,
+     "end": 37.35
+    },
+    {
+     "w": "steady,",
+     "start": 37.35,
+     "end": 37.704
+    },
+    {
+     "w": "until",
+     "start": 37.824,
+     "end": 38.147
+    },
+    {
+     "w": "a",
+     "start": 38.147,
+     "end": 38.333
+    },
+    {
+     "w": "hot",
+     "start": 38.333,
+     "end": 38.518
+    },
+    {
+     "w": "day",
+     "start": 38.518,
+     "end": 38.704
+    },
+    {
+     "w": "makes",
+     "start": 38.704,
+     "end": 39.027
+    },
+    {
+     "w": "the",
+     "start": 39.027,
+     "end": 39.213
+    },
+    {
+     "w": "steel",
+     "start": 39.213,
+     "end": 39.398
+    },
+    {
+     "w": "grow,",
+     "start": 39.398,
+     "end": 39.584
+    },
+    {
+     "w": "and",
+     "start": 39.724,
+     "end": 39.901
+    },
+    {
+     "w": "the",
+     "start": 39.901,
+     "end": 40.078
+    },
+    {
+     "w": "road",
+     "start": 40.078,
+     "end": 40.256
+    },
+    {
+     "w": "buckles.",
+     "start": 40.256,
+     "end": 40.564
+    }
+   ]
   },
   {
    "line": 9,
    "start": 41.0,
    "end": 46.0,
-   "text": "So you cut gaps called expansion joints, covered by steel fingers that slide together like two combs."
+   "text": "So you cut gaps called expansion joints, covered by steel fingers that slide together like two combs.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.11,
+     "end": 41.325
+    },
+    {
+     "w": "you",
+     "start": 41.325,
+     "end": 41.539
+    },
+    {
+     "w": "cut",
+     "start": 41.539,
+     "end": 41.754
+    },
+    {
+     "w": "gaps",
+     "start": 41.754,
+     "end": 41.969
+    },
+    {
+     "w": "called",
+     "start": 41.969,
+     "end": 42.343
+    },
+    {
+     "w": "expansion",
+     "start": 42.343,
+     "end": 42.875
+    },
+    {
+     "w": "joints,",
+     "start": 42.875,
+     "end": 43.09
+    },
+    {
+     "w": "covered",
+     "start": 43.22,
+     "end": 43.711
+    },
+    {
+     "w": "by",
+     "start": 43.711,
+     "end": 43.908
+    },
+    {
+     "w": "steel",
+     "start": 43.908,
+     "end": 44.106
+    },
+    {
+     "w": "fingers",
+     "start": 44.106,
+     "end": 44.45
+    },
+    {
+     "w": "that",
+     "start": 44.45,
+     "end": 44.648
+    },
+    {
+     "w": "slide",
+     "start": 44.648,
+     "end": 44.846
+    },
+    {
+     "w": "together",
+     "start": 44.846,
+     "end": 45.337
+    },
+    {
+     "w": "like",
+     "start": 45.337,
+     "end": 45.534
+    },
+    {
+     "w": "two",
+     "start": 45.534,
+     "end": 45.732
+    },
+    {
+     "w": "combs.",
+     "start": 45.732,
+     "end": 45.93
+    }
+   ]
   },
   {
    "line": 10,
    "start": 46.365,
    "end": 50.198,
-   "text": "But before you cut the ribbon, follow, because next we're building a vending machine."
+   "text": "But before you cut the ribbon, follow, because next we're building a vending machine.",
+   "words": [
+    {
+     "w": "But",
+     "start": 46.505,
+     "end": 46.669
+    },
+    {
+     "w": "before",
+     "start": 46.669,
+     "end": 46.956
+    },
+    {
+     "w": "you",
+     "start": 46.956,
+     "end": 47.12
+    },
+    {
+     "w": "cut",
+     "start": 47.12,
+     "end": 47.284
+    },
+    {
+     "w": "the",
+     "start": 47.284,
+     "end": 47.449
+    },
+    {
+     "w": "ribbon,",
+     "start": 47.449,
+     "end": 47.735
+    },
+    {
+     "w": "follow,",
+     "start": 47.875,
+     "end": 48.195
+    },
+    {
+     "w": "because",
+     "start": 48.325,
+     "end": 48.639
+    },
+    {
+     "w": "next",
+     "start": 48.639,
+     "end": 48.82
+    },
+    {
+     "w": "we're",
+     "start": 48.82,
+     "end": 49.001
+    },
+    {
+     "w": "building",
+     "start": 49.001,
+     "end": 49.315
+    },
+    {
+     "w": "a",
+     "start": 49.315,
+     "end": 49.496
+    },
+    {
+     "w": "vending",
+     "start": 49.496,
+     "end": 49.811
+    },
+    {
+     "w": "machine.",
+     "start": 49.811,
+     "end": 50.125
+    }
+   ]
   },
   {
    "line": 11,
    "start": 50.562,
    "end": 54.844,
-   "text": "Now just paint it orange. The navy asked for black and yellow stripes, like a giant bee."
+   "text": "Now just paint it orange. The navy asked for black and yellow stripes, like a giant bee.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 50.672,
+     "end": 50.878
+    },
+    {
+     "w": "just",
+     "start": 50.878,
+     "end": 51.083
+    },
+    {
+     "w": "paint",
+     "start": 51.083,
+     "end": 51.289
+    },
+    {
+     "w": "it",
+     "start": 51.289,
+     "end": 51.494
+    },
+    {
+     "w": "orange.",
+     "start": 51.494,
+     "end": 51.852
+    },
+    {
+     "w": "The",
+     "start": 51.972,
+     "end": 52.142
+    },
+    {
+     "w": "navy",
+     "start": 52.142,
+     "end": 52.437
+    },
+    {
+     "w": "asked",
+     "start": 52.437,
+     "end": 52.732
+    },
+    {
+     "w": "for",
+     "start": 52.732,
+     "end": 52.902
+    },
+    {
+     "w": "black",
+     "start": 52.902,
+     "end": 53.072
+    },
+    {
+     "w": "and",
+     "start": 53.072,
+     "end": 53.241
+    },
+    {
+     "w": "yellow",
+     "start": 53.241,
+     "end": 53.537
+    },
+    {
+     "w": "stripes,",
+     "start": 53.537,
+     "end": 53.832
+    },
+    {
+     "w": "like",
+     "start": 53.982,
+     "end": 54.174
+    },
+    {
+     "w": "a",
+     "start": 54.174,
+     "end": 54.367
+    },
+    {
+     "w": "giant",
+     "start": 54.367,
+     "end": 54.56
+    },
+    {
+     "w": "bee.",
+     "start": 54.56,
+     "end": 54.752
+    }
+   ]
   },
   {
    "line": 12,
    "start": 55.208,
    "end": 58.344,
-   "text": "One bridge, two towers, fifty-five thousand wires."
+   "text": "One bridge, two towers, fifty-five thousand wires.",
+   "words": [
+    {
+     "w": "One",
+     "start": 55.308,
+     "end": 55.638
+    },
+    {
+     "w": "bridge,",
+     "start": 55.638,
+     "end": 55.968
+    },
+    {
+     "w": "two",
+     "start": 56.088,
+     "end": 56.343
+    },
+    {
+     "w": "towers,",
+     "start": 56.343,
+     "end": 56.788
+    },
+    {
+     "w": "fifty-five",
+     "start": 56.918,
+     "end": 57.484
+    },
+    {
+     "w": "thousand",
+     "start": 57.484,
+     "end": 57.881
+    },
+    {
+     "w": "wires.",
+     "start": 57.881,
+     "end": 58.278
+    }
+   ]
   },
   {
    "line": 13,
    "start": 58.708,
    "end": 61.625,
-   "text": "And congrats, you just built a suspension bridge yourself."
+   "text": "And congrats, you just built a suspension bridge yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.828,
+     "end": 59.087
+    },
+    {
+     "w": "congrats,",
+     "start": 59.087,
+     "end": 59.538
+    },
+    {
+     "w": "you",
+     "start": 59.678,
+     "end": 59.875
+    },
+    {
+     "w": "just",
+     "start": 59.875,
+     "end": 60.073
+    },
+    {
+     "w": "built",
+     "start": 60.073,
+     "end": 60.27
+    },
+    {
+     "w": "a",
+     "start": 60.27,
+     "end": 60.467
+    },
+    {
+     "w": "suspension",
+     "start": 60.467,
+     "end": 60.957
+    },
+    {
+     "w": "bridge",
+     "start": 60.957,
+     "end": 61.154
+    },
+    {
+     "w": "yourself.",
+     "start": 61.154,
+     "end": 61.498
+    }
+   ]
   },
   {
    "line": 14,
    "start": 61.99,
    "end": 65.688,
-   "text": "And the paint job? Started in nineteen thirty-seven. Still not done."
+   "text": "And the paint job? Started in nineteen thirty-seven. Still not done.",
+   "words": [
+    {
+     "w": "And",
+     "start": 62.12,
+     "end": 62.312
+    },
+    {
+     "w": "the",
+     "start": 62.312,
+     "end": 62.505
+    },
+    {
+     "w": "paint",
+     "start": 62.505,
+     "end": 62.698
+    },
+    {
+     "w": "job?",
+     "start": 62.698,
+     "end": 62.89
+    },
+    {
+     "w": "Started",
+     "start": 63.08,
+     "end": 63.461
+    },
+    {
+     "w": "in",
+     "start": 63.461,
+     "end": 63.68
+    },
+    {
+     "w": "nineteen",
+     "start": 63.68,
+     "end": 64.224
+    },
+    {
+     "w": "thirty-seven.",
+     "start": 64.224,
+     "end": 64.93
+    },
+    {
+     "w": "Still",
+     "start": 64.98,
+     "end": 65.193
+    },
+    {
+     "w": "not",
+     "start": 65.193,
+     "end": 65.407
+    },
+    {
+     "w": "done.",
+     "start": 65.407,
+     "end": 65.62
+    }
+   ]
   }
  ]
 }
