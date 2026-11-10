@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 13
+date: 2026-11-26
+video:
+  en: media/ep13-vault-en.mp4
+  ar: media/ep13-vault-ar.mp4
+en:
+  title: "How a Bank Vault Works: The Trap Hidden Inside the Door 🏦"
+  text: |
+    Why can't you just drill into a bank vault? 🏦
+    Concrete walls full of steel, a hidden glass plate that jams the door if it cracks, a time lock nobody can open at night, and sensors that hear you digging.
+    What would you keep in yours? 👇
+  next: "an air conditioner ❄️"
+  seo: "Reinforced concrete walls, a glass relocker in the door, a three-clock time lock and a split code, seismic and acoustic sensors."
+  tags:
+    tiktok: "#bank #vault #engineering #learnontiktok #security"
+    instagram: "#vault #security #engineering #howitworks #bank"
+    youtube: "#vault #security #engineering"
+ar:
+  title: "كيف تشتغل خزنة البنك؟ الفخ المخفي داخل الباب 🏦"
+  text: |
+    ليش ما تقدر تخرّم خزنة البنك بدريل؟ 🏦
+    جدران خرسانة مليانة حديد، لوح زجاج مخفي إذا انكسر يعلّق الباب وحتى الرمز الصح ما يفتحه، قفل توقيت ما ينفتح بالليل، وحساسات تسمع الحفر.
+    وش تحط في خزنتك؟ 👇
+  next: "مكيف ❄️"
+  seo: "جدران خرسانة مسلحة، لوح زجاج يعلّق الباب إذا انكسر، قفل توقيت ورمز مقسوم بين شخصين، وحساسات اهتزاز وصوت."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #بنك #السعودية"
+    instagram: "#هندسة #بنك #أمان #معلومات #السعودية"
+    youtube: "#هندسة #بنك #معلومات"

@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 11
+date: 2026-11-24
+video:
+  en: media/ep11-airplane-en.mp4
+  ar: media/ep11-airplane-ar.mp4
+en:
+  title: "How Airplanes Fly: Curved Wings, a Sealed Tube and Zero Legroom ✈️"
+  text: |
+    How does a 300-seat bus stay in the sky? ✈️
+    Curved wings push air down, engines keep the wind coming, the cabin is pumped up like a soda can, and flaps, brakes and reversers get you stopped.
+    Window or aisle? 👇
+  next: "a fireworks show 🎆"
+  seo: "Wing lift and jet engines, a pressurized cabin with an outflow valve, rudder, elevators and ailerons, flaps, landing gear and thrust reversers."
+  tags:
+    tiktok: "#airplane #aviation #engineering #learnontiktok #physics"
+    instagram: "#aviation #airplane #engineering #physics #howitworks"
+    youtube: "#airplane #aviation #engineering"
+ar:
+  title: "كيف تطير الطيارة؟ جنحان مقوّسة وكبينة مضغوطة ✈️"
+  text: |
+    كيف باص فيه ثلاث مية كرسي يثبت في السما؟ ✈️
+    جنحان مقوّسة تدف الهوا لتحت، محركات تجيب الهوا، كبينة مضغوطة زي علبة المشروب الغازي، وقلابات وفرامل توقفك على المدرج.
+    شباك ولا ممر؟ 👇
+  next: "عرض ألعاب نارية 🎆"
+  seo: "جنحان ترفع ومحركات نفاثة، كبينة مضغوطة بصمام، دفة ورافعات وجنيحات، قلابات وعجلات وفرامل وعاكسات دفع."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #طيران #السعودية"
+    instagram: "#هندسة #طيران #طيارة #معلومات #السعودية"
+    youtube: "#هندسة #طيران #معلومات"

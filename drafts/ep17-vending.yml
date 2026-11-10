@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 17
+date: 2026-11-30
+video:
+  en: media/ep17-vending-en.mp4
+  ar: media/ep17-vending-ar.mp4
+en:
+  title: "How a Vending Machine Knows Your Snack Dropped 🥤"
+  text: |
+    How does a vending machine know you got your snack? 🥤
+    It checks every coin for size and metal, scans bills with light, turns a spiral exactly once, and watches light beams at the bottom. Nothing falls? It tries again.
+    What's the worst thing that ever got stuck on you? 👇
+  next: "a metro 🚇"
+  seo: "Coin validator and bill reader, motor-driven spirals, drop-sensor light beams with a retry or refund, an anti-theft flap and a tilt alarm."
+  tags:
+    tiktok: "#vendingmachine #engineering #learnontiktok #howitworks #snacks"
+    instagram: "#vendingmachine #engineering #howitworks #design #funfacts"
+    youtube: "#vendingmachine #howitworks #engineering"
+ar:
+  title: "كيف مكينة البيع الذاتي تعرف إن كيسك طاح؟ 🥤"
+  text: |
+    كيف المكينة تعرف إنك أخذت كيسك؟ 🥤
+    تفحص كل عملة بحجمها ومعدنها، تقرا الورق بالضوء، تلف اللولب لفّة وحدة، وتراقب أشعة ضوء تحت. ما طاح شي؟ تلف مرة ثانية أو ترجع فلوسك.
+    وش أسوأ شي علق لك؟ 👇
+  next: "مترو 🚇"
+  seo: "فحص العملات وقارئ الورق، لوالب بمحركات، حساسات ضوء تتأكد من نزول المنتج، وباب ضد السرقة وإنذار ميلان."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #مكينة_بيع #السعودية"
+    instagram: "#هندسة #مكينة_بيع #تصميم #معلومات #السعودية"
+    youtube: "#هندسة #مكينة_بيع #معلومات"

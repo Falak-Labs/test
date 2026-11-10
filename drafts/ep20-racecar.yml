@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 20
+date: 2026-12-03
+video:
+  en: media/ep20-racecar-en.mp4
+  ar: media/ep20-racecar-ar.mp4
+en:
+  title: "How a Race Car Works: Upside-Down Wings and a 2-Second Pit Stop 🏎️"
+  text: |
+    Why could a race car drive on the ceiling? 🏎️
+    Upside-down wings press it into the road, carbon brakes work best glowing red, twenty people change four tires in two seconds, and a titanium halo can hold up a bus.
+    Which button would you press first? 👇
+  next: "a cruise ship 🚢"
+  seo: "Downforce from inverted wings, carbon brakes with cooling ducts, single-nut wheels and two-second pit stops, a survival cell, a titanium halo and a crumple nose."
+  tags:
+    tiktok: "#racecar #racing #engineering #learnontiktok #motorsport"
+    instagram: "#racecar #motorsport #racing #engineering #howitworks"
+    youtube: "#racecar #motorsport #engineering"
+ar:
+  title: "كيف تشتغل سيارة السباق؟ أجنحة مقلوبة وتغيير كفرات بثانيتين 🏎️"
+  text: |
+    ليش سيارة السباق تقدر تمشي على السقف؟ 🏎️
+    أجنحة مقلوبة تضغطها على الأرض، فرامل كربون تشتغل وهي حمرا مولّعة، عشرين شخص يغيّرون أربع كفرات بثانيتين، وطوق تيتانيوم يشيل باص.
+    أي زر بتضغطه أول؟ 👇
+  next: "سفينة سياحية 🚢"
+  seo: "أجنحة مقلوبة تضغط السيارة، فرامل كربون وفتحات تبريد، صامولة وحدة لكل كفر وتغيير بثانيتين، كبسولة نجاة وطوق حماية ومقدمة تمتص الصدمة."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #سباق_سيارات #السعودية"
+    instagram: "#هندسة #سيارات #سباق_سيارات #معلومات #السعودية"
+    youtube: "#هندسة #سيارات #معلومات"

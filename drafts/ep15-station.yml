@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 15
+date: 2026-11-28
+video:
+  en: media/ep15-station-en.mp4
+  ar: media/ep15-station-ar.mp4
+en:
+  title: "How a Space Station Keeps You Alive: Air, Water and Yesterday's Coffee 🛰️"
+  text: |
+    How do you stay alive in a sealed room in orbit? 🛰️
+    Machines make oxygen from water, filters turn sweat and pee back into drinking water, you work out two hours a day, and shields stop specks of paint moving at 28,000 km/h.
+    Would you drink the recycled coffee? 👇
+  next: "a suspension bridge 🌉"
+  seo: "Oxygen from electrolysis and CO2 scrubbers, water recycling, daily exercise against bone and muscle loss, and layered debris shields."
+  tags:
+    tiktok: "#space #spacestation #engineering #learnontiktok #astronaut"
+    instagram: "#space #spacestation #astronaut #engineering #howitworks"
+    youtube: "#spacestation #space #engineering"
+ar:
+  title: "كيف تعيش في محطة الفضاء؟ هوا وموية وقهوة أمس 🛰️"
+  text: |
+    كيف تعيش في غرفة مقفلة تدور حول الأرض؟ 🛰️
+    أجهزة تطلع الأكسجين من الموية، فلاتر ترجع العرق والبول موية شرب، تمارين ساعتين كل يوم، ودروع توقف حبة صبغ طايرة بسرعة ثمانية وعشرين ألف كيلو بالساعة.
+    تشرب القهوة المعاد تدويرها؟ 👇
+  next: "جسر معلق 🌉"
+  seo: "أكسجين من الموية وتنقية ثاني أكسيد الكربون، إعادة تدوير الموية، تمارين ضد ضعف العظام والعضلات، ودروع ضد الحطام."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #فضاء #السعودية"
+    instagram: "#هندسة #فضاء #محطة_الفضاء #معلومات #السعودية"
+    youtube: "#هندسة #فضاء #معلومات"

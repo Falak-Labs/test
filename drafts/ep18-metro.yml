@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 18
+date: 2026-12-01
+video:
+  en: media/ep18-metro-en.mp4
+  ar: media/ep18-metro-ar.mp4
+en:
+  title: "How a Driverless Metro Works: A Train Every Two Minutes 🚇"
+  text: |
+    How do trains run two minutes apart with nobody driving? 🚇
+    A third rail feeds the motors, beacons and radio tell a computer where every train is, glass doors line up with the train, and giant fans clear the tunnel.
+    Would you take the front seat? 👇
+  next: "a dam 💧"
+  seo: "Third-rail power, computer train control with track beacons and radio, platform screen doors, tunnel ventilation and emergency walkways."
+  tags:
+    tiktok: "#metro #subway #engineering #learnontiktok #trains"
+    instagram: "#metro #subway #trains #engineering #howitworks"
+    youtube: "#metro #trains #engineering"
+ar:
+  title: "كيف يمشي المترو بدون سوّاق؟ قطار كل دقيقتين 🚇"
+  text: |
+    كيف القطارات تمشي ورا بعض بدقيقتين وبدون سوّاق؟ 🚇
+    سكة ثالثة تعطي الكهربا، إشارات وراديو تخلي الكمبيوتر يعرف مكان كل قطار، أبواب زجاج على الرصيف، ومراوح عملاقة تهوّي النفق.
+    ركبت المترو؟ جلست قدام مكان السوّاق؟ 👇
+  next: "سد 💧"
+  seo: "كهربا من السكة الثالثة، تحكم آلي بالإشارات والراديو، أبواب زجاج على الرصيف، وتهوية ومخارج للطوارئ."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #مترو #السعودية"
+    instagram: "#هندسة #مترو #قطار #معلومات #السعودية"
+    youtube: "#هندسة #مترو #معلومات"

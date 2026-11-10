@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 19
+date: 2026-12-02
+video:
+  en: media/ep19-dam-en.mp4
+  ar: media/ep19-dam-ar.mp4
+en:
+  title: "How a Dam Makes Electricity: An Arch, Giant Pipes and a Fish Elevator 💧"
+  text: |
+    How does a wall in a river power a million people? 💧
+    A concrete arch leans on the canyon, giant pipes drop the water through turbines, spillways handle the floods, and a ladder lets the fish climb past.
+    Fish ladder or fish elevator? 👇
+  next: "a race car 🏎️"
+  seo: "Arch dam, penstocks, turbines and generators, spillway gates and chutes, fish ladders and fish lifts."
+  tags:
+    tiktok: "#dam #hydropower #engineering #learnontiktok #energy"
+    instagram: "#dam #hydropower #energy #engineering #howitworks"
+    youtube: "#dam #hydropower #engineering"
+ar:
+  title: "كيف السد يولّد كهربا؟ قوس خرسانة وتوربينات وأصنصير للسمك 💧"
+  text: |
+    كيف جدار في نهر يعطي كهربا لمليون شخص؟ 💧
+    قوس خرسانة يسند على جدران الوادي، مواسير عملاقة تنزّل الموية على التوربينات، مفيضات تصرّف السيول، وسلّم يطلع عليه السمك.
+    سلّم السمك ولا أصنصير السمك؟ 👇
+  next: "سيارة سباق 🏎️"
+  seo: "سد مقوّس، مواسير وتوربينات ومولدات، بوابات ومفيضات، وسلالم ومصاعد للسمك."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #سد #السعودية"
+    instagram: "#هندسة #سد #طاقة #معلومات #السعودية"
+    youtube: "#هندسة #سد #معلومات"

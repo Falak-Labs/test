@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 6
+date: 2026-11-19
+video:
+  en: media/ep06-rocket-en.mp4
+  ar: media/ep06-rocket-ar.mp4
+en:
+  title: "How a Rocket Lands Itself: Flip, Grid Fins, One Last Burn 🚀"
+  text: |
+    How does a rocket land on its own tail? 🚀
+    It flips with gas thrusters, steers with grid fins, relights for one perfectly timed burn, and catches itself on four legs.
+    Would you ride it down? 👇
+  next: "a castle 🏰"
+  seo: "Cold-gas thrusters that flip the booster, a braking burn, four grid fins, a landing burn timed to reach zero speed at the ground, and fold-out legs with crush cores."
+  tags:
+    tiktok: "#rocket #space #engineering #learnontiktok #physics"
+    instagram: "#rocket #space #engineering #physics #howitworks"
+    youtube: "#rocket #space #engineering"
+ar:
+  title: "كيف ينزل الصاروخ بروحه؟ يلف، يتوجّه، ويكبح بآخر لحظة 🚀"
+  text: |
+    كيف صاروخ ينزل واقف على ذيله؟ 🚀
+    يلف بدفّاعات غاز، يتوجّه بزعانف شبكية، يشغّل محركاته بآخر لحظة، وينزل على أربع رجول.
+    تركبه وهو نازل؟ 👇
+  next: "قلعة 🏰"
+  seo: "دفّاعات غاز تلف الصاروخ، حرق للكبح، أربع زعانف شبكية للتوجيه، حرق أخير بتوقيت مضبوط، ورجول تنفتح قبل النزول."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #صاروخ #السعودية"
+    instagram: "#هندسة #صاروخ #فضاء #معلومات #السعودية"
+    youtube: "#هندسة #صاروخ #معلومات"

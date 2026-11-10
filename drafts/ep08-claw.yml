@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 8
+date: 2026-11-21
+video:
+  en: media/ep08-claw-en.mp4
+  ar: media/ep08-claw-ar.mp4
+en:
+  title: "Why You Never Win the Claw Machine: It's Not Luck, It's Math 🧸"
+  text: |
+    Why does the claw always let go? 🧸
+    An electromagnet sets the grip, a dial sets how weak it is, and a computer counts coins until the prize is paid for. Only then does it hold tight.
+    How much have you lost to one of these? 👇
+  next: "a submarine 🌊"
+  seo: "Electromagnet claw with a power dial, a payout computer that counts coins, a tilt sensor and alarm, a locked prize door with a light beam in the chute."
+  tags:
+    tiktok: "#clawmachine #arcade #engineering #learnontiktok #howitworks"
+    instagram: "#clawmachine #arcade #engineering #howitworks #funfacts"
+    youtube: "#clawmachine #arcade #engineering"
+ar:
+  title: "ليش ما تفوز بمكينة سحب الألعاب؟ مو حظ، حسابات 🧸"
+  text: |
+    ليش الكماشة دايم تفلت اللعبة؟ 🧸
+    مغناطيس كهربائي يحدد قوة المسكة، وكمبيوتر يعد الريالات، وما تمسك زين إلا إذا غطّت سعر الجايزة والربح.
+    كم خسرت عليها؟ 👇
+  next: "غواصة 🌊"
+  seo: "كماشة بمغناطيس كهربائي وقوة مسك تتغير، كمبيوتر يعد الفلوس، حساس هز وإنذار، وباب جوايز مقفول بحساس ضوئي."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #ألعاب #السعودية"
+    instagram: "#هندسة #ألعاب #ملاهي #معلومات #السعودية"
+    youtube: "#هندسة #ألعاب #معلومات"

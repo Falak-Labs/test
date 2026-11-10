@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 12
+date: 2026-11-25
+video:
+  en: media/ep12-fireworks-en.mp4
+  ar: media/ep12-fireworks-ar.mp4
+en:
+  title: "How Fireworks Work: Shells, Fuses and Why Hearts Come Out Sideways 🎆"
+  text: |
+    How does a firework know when to burst? 🎆
+    A lift charge fires the shell, a time fuse burns on the way up, metal salts make the colors, and a computer fires each one early so it bursts on the beat.
+    What's the best show you've ever seen? 👇
+  next: "a bank vault 🏦"
+  seo: "Aerial shells and mortar tubes, lift charge and time fuse, stars colored by strontium, barium and copper, electric matches and computer firing by a licensed crew."
+  tags:
+    tiktok: "#fireworks #chemistry #engineering #learnontiktok #science"
+    instagram: "#fireworks #chemistry #science #engineering #howitworks"
+    youtube: "#fireworks #chemistry #science"
+ar:
+  title: "كيف تشتغل الألعاب النارية؟ وليش القلب يطلع مقلوب 🎆"
+  text: |
+    كيف القذيفة تعرف متى تنفجر؟ 🎆
+    حشوة تدفها للسما، فتيل توقيت يحترق وهي طالعة، أملاح معادن تعطي الألوان، وكمبيوتر يطلق كل وحدة بدري عشان تنفجر مع الموسيقى.
+    وش أحلى عرض شفته؟ 👇
+  next: "خزنة بنك 🏦"
+  seo: "قذائف وأنابيب إطلاق، حشوة دفع وفتيل توقيت، نجوم تتلون بأملاح المعادن، وإطلاق بالكمبيوتر على يد فريق مرخّص."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #ألعاب_نارية #السعودية"
+    instagram: "#هندسة #ألعاب_نارية #كيمياء #معلومات #السعودية"
+    youtube: "#هندسة #ألعاب_نارية #معلومات"

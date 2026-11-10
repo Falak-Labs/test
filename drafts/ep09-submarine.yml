@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 9
+date: 2026-11-22
+video:
+  en: media/ep09-submarine-en.mp4
+  ar: media/ep09-submarine-ar.mp4
+en:
+  title: "How Submarines Work: Sink on Purpose, Breathe for Months 🌊"
+  text: |
+    How does a submarine sink on purpose and come back up? 🌊
+    Ballast tanks flood to dive and blow out to rise, a ringed steel hull holds back the squeeze, sonar sees in the dark, and machines make the air.
+    Could you live for months with zero windows? 👇
+  next: "a toilet 🚽"
+  seo: "Ballast tanks and compressed air, a ring-stiffened pressure hull, sonar and periscope, CO2 scrubbers and oxygen made from water."
+  tags:
+    tiktok: "#submarine #navy #engineering #learnontiktok #ocean"
+    instagram: "#submarine #ocean #engineering #physics #howitworks"
+    youtube: "#submarine #ocean #engineering"
+ar:
+  title: "كيف تشتغل الغواصة؟ تغوص بكيفها وتتنفس شهور تحت البحر 🌊"
+  text: |
+    كيف الغواصة تغوص بكيفها وترجع تطلع؟ 🌊
+    خزانات تتعبى موية عشان تنزل وتتفرغ بهوا مضغوط عشان تطلع، جسم حديد يتحمل الضغط، سونار يشوف بالظلام، وأجهزة تسوي الهوا.
+    تعيش شهور بدون ولا شباك؟ 👇
+  next: "كرسي حمام 🚽"
+  seo: "خزانات موازنة وهوا مضغوط، جسم حديد مقوّى بحلقات، سونار ومنظار، وأجهزة تنقي الهوا وتطلع أكسجين من الموية."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #غواصة #السعودية"
+    instagram: "#هندسة #غواصة #بحر #معلومات #السعودية"
+    youtube: "#هندسة #غواصة #معلومات"

@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 14
+date: 2026-11-27
+video:
+  en: media/ep14-aircon-en.mp4
+  ar: media/ep14-aircon-ar.mp4
+en:
+  title: "How an Air Conditioner Works: It Doesn't Make Cold, It Moves Heat ❄️"
+  text: |
+    Where does the heat in your room actually go? ❄️
+    A liquid boils in a cold coil and soaks up the heat, a compressor squeezes it, and a second coil dumps it outside. A thermostat does the rest.
+    What temperature is perfect? 👇
+  next: "a space station 🛰️"
+  seo: "Refrigerant evaporating in the indoor coil, compressor and outdoor condenser coil, thermostat, drain pan and air filter."
+  tags:
+    tiktok: "#airconditioner #hvac #engineering #learnontiktok #physics"
+    instagram: "#hvac #airconditioner #engineering #physics #howitworks"
+    youtube: "#airconditioner #hvac #engineering"
+ar:
+  title: "كيف يشتغل المكيف؟ ما يسوي برودة، ينقل الحرارة برّا ❄️"
+  text: |
+    وين تروح حرارة غرفتك؟ ❄️
+    سائل يغلي داخل ملف بارد ويسحب الحرارة، كمبروسر يضغطه، وملف ثاني برّا يرمي الحرارة في الشارع، والثرموستات يضبط الباقي.
+    على كم تحط مكيفك؟ 👇
+  next: "محطة فضاء 🛰️"
+  seo: "سائل تبريد يتبخر في الملف الداخلي، كمبروسر وملف خارجي، ثرموستات، صينية تصريف وفلتر."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #مكيف #السعودية"
+    instagram: "#هندسة #مكيف #تبريد #معلومات #السعودية"
+    youtube: "#هندسة #مكيف #معلومات"

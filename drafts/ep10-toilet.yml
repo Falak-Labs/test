@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 10
+date: 2026-11-23
+video:
+  en: media/ep10-toilet-en.mp4
+  ar: media/ep10-toilet-ar.mp4
+en:
+  title: "How a Toilet Works: The S-Bend That Saved Your Nose 🚽"
+  text: |
+    What actually happens when you flush? 🚽
+    A tank and a rubber flapper let gravity do the work, an S-shaped trap keeps sewer gas out, a float stops the fill, and a pipe through the roof lets it all breathe.
+    Seat up or seat down? 👇
+  next: "an airplane ✈️"
+  seo: "Tank and flapper, the S-trap water seal, float and fill valve with an overflow tube, and a roof vent pipe."
+  tags:
+    tiktok: "#toilet #plumbing #engineering #learnontiktok #howitworks"
+    instagram: "#plumbing #engineering #howitworks #funfacts #design"
+    youtube: "#plumbing #engineering #howitworks"
+ar:
+  title: "كيف يشتغل كرسي الحمام؟ اللفّة اللي تمنع الريحة 🚽"
+  text: |
+    وش يصير لما تضغط السيفون؟ 🚽
+    خزان موية وسدادة تخلي الجاذبية تشتغل، ماسورة ملفوفة فيها موية تسد الريحة، عوامة توقف التعبئة، وماسورة تهوية تطلع للسطح.
+    القاعدة: فوق ولا تحت؟ 👇
+  next: "طيارة ✈️"
+  seo: "خزان وسدادة، مصيدة موية تسد غازات المجاري، عوامة وصمام تعبئة وماسورة فائض، وماسورة تهوية للسطح."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #سباكة #السعودية"
+    instagram: "#هندسة #سباكة #معلومات #تصميم #السعودية"
+    youtube: "#هندسة #سباكة #معلومات"

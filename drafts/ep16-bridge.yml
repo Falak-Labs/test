@@ -1,0 +1,30 @@
+# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
+episode: 16
+date: 2026-11-29
+video:
+  en: media/ep16-bridge-en.mp4
+  ar: media/ep16-bridge-ar.mp4
+en:
+  title: "How a Suspension Bridge Holds Up: Two Cables, 55,000 Wires 🌉"
+  text: |
+    How does a road hang in the air for over a kilometer? 🌉
+    Two towers, two main cables, hangers like a clothesline, anchors buried in thousands of tons of concrete, and a deck stiff enough to ignore the wind.
+    Would you walk up the cable? 👇
+  next: "a vending machine 🥤"
+  seo: "Towers, main cables and hangers, eyebars and anchorages, a stiffening truss or streamlined box deck, and expansion joints."
+  tags:
+    tiktok: "#bridge #engineering #learnontiktok #architecture #physics"
+    instagram: "#bridge #engineering #architecture #civilengineering #howitworks"
+    youtube: "#bridge #civilengineering #engineering"
+ar:
+  title: "كيف يثبت الجسر المعلق؟ كيبلين وخمسة وخمسين ألف سلك 🌉"
+  text: |
+    كيف طريق كامل يتعلق في الهوا؟ 🌉
+    برجين، كيبلين رئيسية، حبال تشيل الطريق زي حبل الغسيل، مرابط مدفونة في آلاف الأطنان خرسانة، وسطح قوي ما يهزه الهوا.
+    تمشي فوق الكيبل؟ 👇
+  next: "مكينة بيع ذاتي 🥤"
+  seo: "أبراج وكيابل رئيسية وحبال تعليق، مرابط خرسانية، سطح مقوّى ضد الريح، وفواصل تمدد."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #جسر #السعودية"
+    instagram: "#هندسة #جسر #عمارة #معلومات #السعودية"
+    youtube: "#هندسة #جسر #معلومات"
