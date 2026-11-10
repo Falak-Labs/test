@@ -1,31 +1,11 @@
-/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
-  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
-loaded PerthNet (Implicit) at step 250,000
-model ready in 7s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
-/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
-  self.gen = func(*args, **kwds)
-The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-  L 1 seed 302    3.80s 10.3 l/s  ok  asr 9%  (34s)
-  L 2 seed 303    6.36s 13.4 l/s  ok  asr 12%  (49s)
-  L 3 seed 304    6.02s 12.1 l/s  ok  asr 14%  (46s)
-  L 4 seed 305    3.17s 12.3 l/s  ok  asr 18%  (28s)
-  L 5 seed 306    4.90s 14.3 l/s  ok  asr 11%  (40s)
-  L 6 seed 307    3.98s 11.6 l/s  ok  asr 5%  (33s)
-  L 7 seed 308    4.52s 14.2 l/s  stopped early  asr 11%  (37s)
-  L 7 seed 1308   4.34s 14.7 l/s  15 letters/s  asr 11%  (36s)
-  L 7 seed 2308   4.65s 13.8 l/s  ok  asr 6%  (38s)
-  L 8 seed 309    4.17s 11.5 l/s  Whisper 49% off  asr 49%  (33s)
-  L 8 seed 1309   4.19s 11.5 l/s  ok  asr 15%  (34s)
-  L 9 seed 310    4.32s 13.7 l/s  ok  asr 12%  (35s)
-  L10 seed 311    3.46s 11.0 l/s  ok  asr 9%  (30s)
-  L11 seed 312    3.71s 12.9 l/s  ok  asr 16%  (32s)
-  L12 seed 313    3.20s  9.4 l/s  ok  asr 21%  (27s)
-  L13 seed 314    3.44s  9.0 l/s  ok  asr 11%  (30s)
-  L14 seed 315    4.64s 14.2 l/s  ok  asr 26%  (37s)
-NAMAA Saudi built-in: 14 lines, 170 words, 63.74s (2.67 words/s), 609s -> series/voice/metro_ar_sa.wav
 metro_ar_sa: 66.84s, 2005 frames
-video done in 495s
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 562s
 audio done
 final out/metro_ar_sa/metro_ar_sa_final.mp4
 QA  duration 66.83s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2005
