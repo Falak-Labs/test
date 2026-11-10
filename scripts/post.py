@@ -112,6 +112,22 @@ def last_due_times(files):
     return last
 
 
+def queued_counts(files):
+    """Posts per target (en.youtube, ...) still waiting in Buffer's queue: created, due in the future, not sent."""
+    n = {}
+    for fn in files:
+        for tgt, rec in load_state(fn[:-4])["targets"].items():
+            when = parse_utc(rec.get("dueAt")) if rec.get("id") else None
+            if when and when > NOW and rec.get("status") not in ("sent", "error"):
+                n[tgt] = n.get(tgt, 0) + 1
+    return n
+
+
+def fixed_time(ep):
+    """An episode file's own posting time (at: "2026-11-10T15:50:00Z"), or None."""
+    return parse_utc(ep.get("at")) if ep.get("at") else None
+
+
 class Account:
     """One Buffer account (one language): its channels by service, and the post input shape its API wants."""
 
@@ -200,7 +216,7 @@ def check_post(platform, title, text):
 
 def preview(cfg, files):
     """python scripts/post.py --preview : every caption and post time, without touching Buffer."""
-    last = last_due_times(files)
+    last, queued, limit = last_due_times(files), queued_counts(files), int(cfg.get("queue_limit") or 0)
     for fn in files:
         ep = load_yaml(os.path.join(ROOT, "posts", fn))
         slug, st = fn[:-4], load_state(fn[:-4])
@@ -212,8 +228,13 @@ def preview(cfg, files):
                 if st["targets"].get(tgt, {}).get("id"):
                     print(f"== {slug} {tgt}: already on Buffer ({st['targets'][tgt].get('status')})\n")
                     continue
-                when = due_time(cfg, lang, ep["date"], last.get(tgt))
+                if limit and queued.get(tgt, 0) >= limit:
+                    print(f"== {slug} {tgt}: waits ({limit} posts already queued on this channel)\n")
+                    continue
+                when = fixed_time(ep) or due_time(cfg, lang, ep["date"], last.get(tgt))
                 last[tgt] = when
+                if when > NOW:
+                    queued[tgt] = queued.get(tgt, 0) + 1
                 text, title = caption_for(cfg, ep, lang, platform), ep[lang].get("title", "")
                 issues = check_post(platform, title, text)
                 print(f"== {slug} {tgt}: {when.strftime('%a %d %b %H:%M %Z')} ({len(text)} chars, "
@@ -230,6 +251,7 @@ def main():
         return preview(cfg, files)
     test_only = bool(cfg.get("test_only"))
     last = last_due_times(files)
+    queued, limit = queued_counts(files), int(cfg.get("queue_limit") or 0)
     burst_slots = {}
     held = set()
     accounts = {}
@@ -276,6 +298,10 @@ def main():
                 if done.get("tries", 0) >= 3:
                     log(f"{slug} {tgt}: failed 3 times, not retrying (last error: {done.get('error')})")
                     continue
+                if limit and tgt not in now_targets and queued.get(tgt, 0) >= limit:
+                    log(f"{slug} {tgt}: waits - {limit} posts already queued on this channel (Buffer's limit); "
+                        "a later run adds it")
+                    continue
                 text = caption_for(cfg, ep, lang, platform)
                 issues = check_post(platform, ep[lang].get("title", ""), text)
                 if issues:
@@ -290,6 +316,8 @@ def main():
                     burst = (cfg.get("burst") or {}).get(lang)
                     if tgt in now_targets:
                         when = NOW + dt.timedelta(minutes=3)
+                    elif fixed_time(ep):    # the episode's own time; never less than 2 minutes from now
+                        when = max(fixed_time(ep), dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=2))
                     elif burst:          # catch-up: one episode every gap minutes, starting first minutes from now
                         slot = burst_slots.setdefault(lang, {}).setdefault(slug, len(burst_slots[lang]))
                         when = max(NOW + dt.timedelta(minutes=burst.get("first", 6) + burst.get("gap", 5) * slot),
@@ -310,6 +338,8 @@ def main():
                                           "status": post.get("status"), "dueAt": post.get("dueAt") or inp.get("dueAt"),
                                           "mode": inp["mode"], "created": NOW.isoformat(timespec="seconds")}
                     last[tgt] = when or NOW
+                    if when and when > dt.datetime.now(dt.timezone.utc):
+                        queued[tgt] = queued.get(tgt, 0) + 1
                     shown = when.strftime("%a %d %b %H:%M %Z") if when else "now"
                     log(f"{slug} {tgt}: scheduled ({shown}) id {post.get('id')}")
                 except (BufferError, requests.RequestException, RuntimeError) as e:

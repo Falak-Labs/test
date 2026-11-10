@@ -9,6 +9,7 @@ times:                  # every post of an episode goes out on its "date" at thi
   en: {zone: America/New_York, at: "19:00"}
   ar: {zone: Asia/Riyadh, at: "21:00"}
 every_days: 1           # at least this many days between two posts on the same channel (late posts queue up behind)
+queue_limit: 10         # Buffer free plan: at most 10 scheduled posts per channel; the rest wait for a later run
 hold: {}                # {ar: true} makes a language's posts wait
 youtube:
   categoryId: "27"      # Education

@@ -1,6 +1,6 @@
-# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
 episode: 15
-date: 2026-11-20
+date: 2026-11-10
+at: "2026-11-10T17:20:00Z"   # posting time (UTC): one episode every 10 minutes
 video:
   en: media/ep15-station-en.mp4
   ar: media/ep15-station-ar.mp4

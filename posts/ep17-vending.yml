@@ -1,6 +1,6 @@
-# DRAFT, not scheduled. To post: check the texts, set the date, then move this file to posts/.
 episode: 17
-date: 2026-11-22
+date: 2026-11-11
+at: "2026-11-11T16:00:00Z"   # posting time (UTC): one episode every 10 minutes
 video:
   en: media/ep17-vending-en.mp4
   ar: media/ep17-vending-ar.mp4
