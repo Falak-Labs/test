@@ -2,93 +2,1221 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 69.16,
- "words": 233,
- "words_per_sec": 3.37,
+ "duration": 64.44,
+ "words": 220,
+ "words_per_sec": 3.41,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 4.198,
-   "text": "If you pop a party popper at a birthday, congrats, you just built a fireworks show."
+   "end": 3.667,
+   "text": "If you pop a party popper, congrats, you just built a fireworks show.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.301
+    },
+    {
+     "w": "you",
+     "start": 0.301,
+     "end": 0.472
+    },
+    {
+     "w": "pop",
+     "start": 0.472,
+     "end": 0.643
+    },
+    {
+     "w": "a",
+     "start": 0.643,
+     "end": 0.814
+    },
+    {
+     "w": "party",
+     "start": 0.814,
+     "end": 1.112
+    },
+    {
+     "w": "popper,",
+     "start": 1.112,
+     "end": 1.41
+    },
+    {
+     "w": "congrats,",
+     "start": 1.56,
+     "end": 1.941
+    },
+    {
+     "w": "you",
+     "start": 1.941,
+     "end": 2.16
+    },
+    {
+     "w": "just",
+     "start": 2.16,
+     "end": 2.379
+    },
+    {
+     "w": "built",
+     "start": 2.379,
+     "end": 2.598
+    },
+    {
+     "w": "a",
+     "start": 2.598,
+     "end": 2.817
+    },
+    {
+     "w": "fireworks",
+     "start": 2.817,
+     "end": 3.361
+    },
+    {
+     "w": "show.",
+     "start": 3.361,
+     "end": 3.58
+    }
+   ]
   },
   {
    "line": 2,
-   "start": 4.562,
-   "end": 8.333,
-   "text": "But it's one tiny pop, a puff of confetti, and the whole town is watching."
+   "start": 4.031,
+   "end": 7.802,
+   "text": "But it's one tiny pop, a puff of confetti, and the whole town is watching.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.161,
+     "end": 4.314
+    },
+    {
+     "w": "it's",
+     "start": 4.314,
+     "end": 4.468
+    },
+    {
+     "w": "one",
+     "start": 4.468,
+     "end": 4.621
+    },
+    {
+     "w": "tiny",
+     "start": 4.621,
+     "end": 4.888
+    },
+    {
+     "w": "pop,",
+     "start": 4.888,
+     "end": 5.041
+    },
+    {
+     "w": "a",
+     "start": 5.101,
+     "end": 5.345
+    },
+    {
+     "w": "puff",
+     "start": 5.345,
+     "end": 5.59
+    },
+    {
+     "w": "of",
+     "start": 5.59,
+     "end": 5.834
+    },
+    {
+     "w": "confetti,",
+     "start": 5.834,
+     "end": 6.441
+    },
+    {
+     "w": "and",
+     "start": 6.571,
+     "end": 6.746
+    },
+    {
+     "w": "the",
+     "start": 6.746,
+     "end": 6.921
+    },
+    {
+     "w": "whole",
+     "start": 6.921,
+     "end": 7.096
+    },
+    {
+     "w": "town",
+     "start": 7.096,
+     "end": 7.271
+    },
+    {
+     "w": "is",
+     "start": 7.271,
+     "end": 7.446
+    },
+    {
+     "w": "watching.",
+     "start": 7.446,
+     "end": 7.751
+    }
+   ]
   },
   {
    "line": 3,
-   "start": 8.698,
-   "end": 15.271,
-   "text": "So licensed pros pack it into a paper ball called a shell, lower it into a mortar tube, and a lift charge underneath shoots it sky-high."
+   "start": 8.167,
+   "end": 14.396,
+   "text": "So a licensed crew packs it into a paper shell, lowers it into a mortar tube, and a lift charge underneath shoots it into the sky.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.277,
+     "end": 8.45
+    },
+    {
+     "w": "a",
+     "start": 8.45,
+     "end": 8.623
+    },
+    {
+     "w": "licensed",
+     "start": 8.623,
+     "end": 9.051
+    },
+    {
+     "w": "crew",
+     "start": 9.051,
+     "end": 9.224
+    },
+    {
+     "w": "packs",
+     "start": 9.224,
+     "end": 9.397
+    },
+    {
+     "w": "it",
+     "start": 9.397,
+     "end": 9.57
+    },
+    {
+     "w": "into",
+     "start": 9.57,
+     "end": 9.871
+    },
+    {
+     "w": "a",
+     "start": 9.871,
+     "end": 10.043
+    },
+    {
+     "w": "paper",
+     "start": 10.043,
+     "end": 10.344
+    },
+    {
+     "w": "shell,",
+     "start": 10.344,
+     "end": 10.517
+    },
+    {
+     "w": "lowers",
+     "start": 10.677,
+     "end": 10.969
+    },
+    {
+     "w": "it",
+     "start": 10.969,
+     "end": 11.137
+    },
+    {
+     "w": "into",
+     "start": 11.137,
+     "end": 11.429
+    },
+    {
+     "w": "a",
+     "start": 11.429,
+     "end": 11.597
+    },
+    {
+     "w": "mortar",
+     "start": 11.597,
+     "end": 11.889
+    },
+    {
+     "w": "tube,",
+     "start": 11.889,
+     "end": 12.057
+    },
+    {
+     "w": "and",
+     "start": 12.187,
+     "end": 12.362
+    },
+    {
+     "w": "a",
+     "start": 12.362,
+     "end": 12.537
+    },
+    {
+     "w": "lift",
+     "start": 12.537,
+     "end": 12.712
+    },
+    {
+     "w": "charge",
+     "start": 12.712,
+     "end": 12.887
+    },
+    {
+     "w": "underneath",
+     "start": 12.887,
+     "end": 13.322
+    },
+    {
+     "w": "shoots",
+     "start": 13.322,
+     "end": 13.497
+    },
+    {
+     "w": "it",
+     "start": 13.497,
+     "end": 13.672
+    },
+    {
+     "w": "into",
+     "start": 13.672,
+     "end": 13.977
+    },
+    {
+     "w": "the",
+     "start": 13.977,
+     "end": 14.152
+    },
+    {
+     "w": "sky.",
+     "start": 14.152,
+     "end": 14.327
+    }
+   ]
   },
   {
    "line": 4,
-   "start": 15.635,
-   "end": 19.531,
-   "text": "Now it flies, until it bursts too low, right above the crew's hard hats."
+   "start": 14.76,
+   "end": 18.604,
+   "text": "Now it flies, until it bursts too low, right above the crew's eyebrows.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 14.86,
+     "end": 15.133
+    },
+    {
+     "w": "it",
+     "start": 15.133,
+     "end": 15.407
+    },
+    {
+     "w": "flies,",
+     "start": 15.407,
+     "end": 15.68
+    },
+    {
+     "w": "until",
+     "start": 15.81,
+     "end": 16.174
+    },
+    {
+     "w": "it",
+     "start": 16.174,
+     "end": 16.383
+    },
+    {
+     "w": "bursts",
+     "start": 16.383,
+     "end": 16.592
+    },
+    {
+     "w": "too",
+     "start": 16.592,
+     "end": 16.801
+    },
+    {
+     "w": "low,",
+     "start": 16.801,
+     "end": 17.01
+    },
+    {
+     "w": "right",
+     "start": 17.15,
+     "end": 17.361
+    },
+    {
+     "w": "above",
+     "start": 17.361,
+     "end": 17.729
+    },
+    {
+     "w": "the",
+     "start": 17.729,
+     "end": 17.941
+    },
+    {
+     "w": "crew's",
+     "start": 17.941,
+     "end": 18.152
+    },
+    {
+     "w": "eyebrows.",
+     "start": 18.152,
+     "end": 18.52
+    }
+   ]
   },
   {
    "line": 5,
-   "start": 19.896,
-   "end": 24.167,
-   "text": "So they add a time fuse that burns on the way up, and fires the burst charge near the top."
+   "start": 18.969,
+   "end": 23.271,
+   "text": "So they add a time fuse that burns on the way up, and sets off the burst charge near the top.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.079,
+     "end": 19.257
+    },
+    {
+     "w": "they",
+     "start": 19.257,
+     "end": 19.434
+    },
+    {
+     "w": "add",
+     "start": 19.434,
+     "end": 19.612
+    },
+    {
+     "w": "a",
+     "start": 19.612,
+     "end": 19.789
+    },
+    {
+     "w": "time",
+     "start": 19.789,
+     "end": 19.966
+    },
+    {
+     "w": "fuse",
+     "start": 19.966,
+     "end": 20.144
+    },
+    {
+     "w": "that",
+     "start": 20.144,
+     "end": 20.322
+    },
+    {
+     "w": "burns",
+     "start": 20.322,
+     "end": 20.499
+    },
+    {
+     "w": "on",
+     "start": 20.499,
+     "end": 20.676
+    },
+    {
+     "w": "the",
+     "start": 20.676,
+     "end": 20.854
+    },
+    {
+     "w": "way",
+     "start": 20.854,
+     "end": 21.032
+    },
+    {
+     "w": "up,",
+     "start": 21.032,
+     "end": 21.209
+    },
+    {
+     "w": "and",
+     "start": 21.399,
+     "end": 21.592
+    },
+    {
+     "w": "sets",
+     "start": 21.592,
+     "end": 21.786
+    },
+    {
+     "w": "off",
+     "start": 21.786,
+     "end": 21.979
+    },
+    {
+     "w": "the",
+     "start": 21.979,
+     "end": 22.172
+    },
+    {
+     "w": "burst",
+     "start": 22.172,
+     "end": 22.366
+    },
+    {
+     "w": "charge",
+     "start": 22.366,
+     "end": 22.559
+    },
+    {
+     "w": "near",
+     "start": 22.559,
+     "end": 22.752
+    },
+    {
+     "w": "the",
+     "start": 22.752,
+     "end": 22.946
+    },
+    {
+     "w": "top.",
+     "start": 22.946,
+     "end": 23.139
+    }
+   ]
   },
   {
    "line": 6,
-   "start": 24.531,
-   "end": 28.552,
-   "text": "But it's just a white flash and a bang: no color, no shape, no \"wow\"."
+   "start": 23.635,
+   "end": 27.656,
+   "text": "But it's just a white flash and a bang: no color, no shape, no \"wow\".",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.775,
+     "end": 23.979
+    },
+    {
+     "w": "it's",
+     "start": 23.979,
+     "end": 24.184
+    },
+    {
+     "w": "just",
+     "start": 24.184,
+     "end": 24.388
+    },
+    {
+     "w": "a",
+     "start": 24.388,
+     "end": 24.593
+    },
+    {
+     "w": "white",
+     "start": 24.593,
+     "end": 24.797
+    },
+    {
+     "w": "flash",
+     "start": 24.797,
+     "end": 25.002
+    },
+    {
+     "w": "and",
+     "start": 25.002,
+     "end": 25.206
+    },
+    {
+     "w": "a",
+     "start": 25.206,
+     "end": 25.411
+    },
+    {
+     "w": "bang:",
+     "start": 25.411,
+     "end": 25.615
+    },
+    {
+     "w": "no",
+     "start": 25.765,
+     "end": 25.988
+    },
+    {
+     "w": "color,",
+     "start": 25.988,
+     "end": 26.375
+    },
+    {
+     "w": "no",
+     "start": 26.475,
+     "end": 26.715
+    },
+    {
+     "w": "shape,",
+     "start": 26.715,
+     "end": 26.955
+    },
+    {
+     "w": "no",
+     "start": 27.155,
+     "end": 27.375
+    },
+    {
+     "w": "\"wow\".",
+     "start": 27.375,
+     "end": 27.595
+    }
+   ]
   },
   {
    "line": 7,
-   "start": 28.917,
-   "end": 39.104,
-   "text": "So they fill it with pellets called stars, made with metal salts: strontium burns red, barium green, copper blue. Arrange them in a heart, and the sky draws a heart. Sometimes sideways."
+   "start": 28.021,
+   "end": 36.719,
+   "text": "So they fill it with pellets called stars: strontium salts burn red, barium green, copper blue. Arrange them in a heart, and you get a heart. Sometimes sideways.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.141,
+     "end": 28.35
+    },
+    {
+     "w": "they",
+     "start": 28.35,
+     "end": 28.559
+    },
+    {
+     "w": "fill",
+     "start": 28.559,
+     "end": 28.767
+    },
+    {
+     "w": "it",
+     "start": 28.767,
+     "end": 28.976
+    },
+    {
+     "w": "with",
+     "start": 28.976,
+     "end": 29.185
+    },
+    {
+     "w": "pellets",
+     "start": 29.185,
+     "end": 29.549
+    },
+    {
+     "w": "called",
+     "start": 29.549,
+     "end": 29.912
+    },
+    {
+     "w": "stars:",
+     "start": 29.912,
+     "end": 30.121
+    },
+    {
+     "w": "strontium",
+     "start": 30.261,
+     "end": 30.573
+    },
+    {
+     "w": "salts",
+     "start": 30.573,
+     "end": 30.752
+    },
+    {
+     "w": "burn",
+     "start": 30.752,
+     "end": 30.932
+    },
+    {
+     "w": "red,",
+     "start": 30.932,
+     "end": 31.111
+    },
+    {
+     "w": "barium",
+     "start": 31.191,
+     "end": 31.547
+    },
+    {
+     "w": "green,",
+     "start": 31.547,
+     "end": 31.751
+    },
+    {
+     "w": "copper",
+     "start": 31.911,
+     "end": 32.413
+    },
+    {
+     "w": "blue.",
+     "start": 32.413,
+     "end": 32.701
+    },
+    {
+     "w": "Arrange",
+     "start": 32.851,
+     "end": 33.248
+    },
+    {
+     "w": "them",
+     "start": 33.248,
+     "end": 33.476
+    },
+    {
+     "w": "in",
+     "start": 33.476,
+     "end": 33.704
+    },
+    {
+     "w": "a",
+     "start": 33.704,
+     "end": 33.932
+    },
+    {
+     "w": "heart,",
+     "start": 33.932,
+     "end": 34.16
+    },
+    {
+     "w": "and",
+     "start": 34.16,
+     "end": 34.389
+    },
+    {
+     "w": "you",
+     "start": 34.389,
+     "end": 34.617
+    },
+    {
+     "w": "get",
+     "start": 34.617,
+     "end": 34.845
+    },
+    {
+     "w": "a",
+     "start": 34.845,
+     "end": 35.073
+    },
+    {
+     "w": "heart.",
+     "start": 35.073,
+     "end": 35.301
+    },
+    {
+     "w": "Sometimes",
+     "start": 35.571,
+     "end": 36.17
+    },
+    {
+     "w": "sideways.",
+     "start": 36.17,
+     "end": 36.631
+    }
+   ]
   },
   {
    "line": 8,
-   "start": 39.469,
-   "end": 44.292,
-   "text": "Now it's gorgeous, until someone has to light a thousand fuses by hand. Goodbye, eyebrows."
+   "start": 37.083,
+   "end": 40.76,
+   "text": "Now it's gorgeous, until someone has to light a thousand fuses by hand.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 37.193,
+     "end": 37.423
+    },
+    {
+     "w": "it's",
+     "start": 37.423,
+     "end": 37.653
+    },
+    {
+     "w": "gorgeous,",
+     "start": 37.653,
+     "end": 38.053
+    },
+    {
+     "w": "until",
+     "start": 38.183,
+     "end": 38.52
+    },
+    {
+     "w": "someone",
+     "start": 38.52,
+     "end": 38.857
+    },
+    {
+     "w": "has",
+     "start": 38.857,
+     "end": 39.051
+    },
+    {
+     "w": "to",
+     "start": 39.051,
+     "end": 39.244
+    },
+    {
+     "w": "light",
+     "start": 39.244,
+     "end": 39.438
+    },
+    {
+     "w": "a",
+     "start": 39.438,
+     "end": 39.632
+    },
+    {
+     "w": "thousand",
+     "start": 39.632,
+     "end": 39.969
+    },
+    {
+     "w": "fuses",
+     "start": 39.969,
+     "end": 40.306
+    },
+    {
+     "w": "by",
+     "start": 40.306,
+     "end": 40.499
+    },
+    {
+     "w": "hand.",
+     "start": 40.499,
+     "end": 40.693
+    }
+   ]
   },
   {
    "line": 9,
-   "start": 44.656,
-   "end": 50.99,
-   "text": "So they wire an electric match to every shell, and a computer far away fires each one seconds early, so it bursts right on the beat."
+   "start": 41.125,
+   "end": 46.792,
+   "text": "So every shell gets an electric match, and a computer far away fires each one seconds early, so it bursts on the beat.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.235,
+     "end": 41.408
+    },
+    {
+     "w": "every",
+     "start": 41.408,
+     "end": 41.836
+    },
+    {
+     "w": "shell",
+     "start": 41.836,
+     "end": 42.009
+    },
+    {
+     "w": "gets",
+     "start": 42.009,
+     "end": 42.181
+    },
+    {
+     "w": "an",
+     "start": 42.181,
+     "end": 42.354
+    },
+    {
+     "w": "electric",
+     "start": 42.354,
+     "end": 42.782
+    },
+    {
+     "w": "match,",
+     "start": 42.782,
+     "end": 42.955
+    },
+    {
+     "w": "and",
+     "start": 43.065,
+     "end": 43.242
+    },
+    {
+     "w": "a",
+     "start": 43.242,
+     "end": 43.418
+    },
+    {
+     "w": "computer",
+     "start": 43.418,
+     "end": 43.856
+    },
+    {
+     "w": "far",
+     "start": 43.856,
+     "end": 44.033
+    },
+    {
+     "w": "away",
+     "start": 44.033,
+     "end": 44.34
+    },
+    {
+     "w": "fires",
+     "start": 44.34,
+     "end": 44.647
+    },
+    {
+     "w": "each",
+     "start": 44.647,
+     "end": 44.824
+    },
+    {
+     "w": "one",
+     "start": 44.824,
+     "end": 45.0
+    },
+    {
+     "w": "seconds",
+     "start": 45.0,
+     "end": 45.308
+    },
+    {
+     "w": "early,",
+     "start": 45.308,
+     "end": 45.615
+    },
+    {
+     "w": "so",
+     "start": 45.765,
+     "end": 45.92
+    },
+    {
+     "w": "it",
+     "start": 45.92,
+     "end": 46.075
+    },
+    {
+     "w": "bursts",
+     "start": 46.075,
+     "end": 46.23
+    },
+    {
+     "w": "on",
+     "start": 46.23,
+     "end": 46.385
+    },
+    {
+     "w": "the",
+     "start": 46.385,
+     "end": 46.54
+    },
+    {
+     "w": "beat.",
+     "start": 46.54,
+     "end": 46.695
+    }
+   ]
   },
   {
    "line": 10,
-   "start": 51.354,
-   "end": 54.771,
-   "text": "But before you look up, follow, because next we're building a bank vault."
+   "start": 47.156,
+   "end": 50.573,
+   "text": "But before you look up, follow, because next we're building a bank vault.",
+   "words": [
+    {
+     "w": "But",
+     "start": 47.296,
+     "end": 47.453
+    },
+    {
+     "w": "before",
+     "start": 47.453,
+     "end": 47.726
+    },
+    {
+     "w": "you",
+     "start": 47.726,
+     "end": 47.882
+    },
+    {
+     "w": "look",
+     "start": 47.882,
+     "end": 48.039
+    },
+    {
+     "w": "up,",
+     "start": 48.039,
+     "end": 48.196
+    },
+    {
+     "w": "follow,",
+     "start": 48.406,
+     "end": 48.736
+    },
+    {
+     "w": "because",
+     "start": 48.856,
+     "end": 49.174
+    },
+    {
+     "w": "next",
+     "start": 49.174,
+     "end": 49.357
+    },
+    {
+     "w": "we're",
+     "start": 49.357,
+     "end": 49.54
+    },
+    {
+     "w": "building",
+     "start": 49.54,
+     "end": 49.858
+    },
+    {
+     "w": "a",
+     "start": 49.858,
+     "end": 50.04
+    },
+    {
+     "w": "bank",
+     "start": 50.04,
+     "end": 50.223
+    },
+    {
+     "w": "vault.",
+     "start": 50.223,
+     "end": 50.406
+    }
+   ]
   },
   {
    "line": 11,
-   "start": 55.135,
-   "end": 59.51,
-   "text": "Now just add music, a crowd far, far back, and one guy who claps too early."
+   "start": 50.938,
+   "end": 54.781,
+   "text": "Now just add music, a crowd far back, and one guy who claps too early.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 51.048,
+     "end": 51.257
+    },
+    {
+     "w": "just",
+     "start": 51.257,
+     "end": 51.466
+    },
+    {
+     "w": "add",
+     "start": 51.466,
+     "end": 51.674
+    },
+    {
+     "w": "music,",
+     "start": 51.674,
+     "end": 52.038
+    },
+    {
+     "w": "a",
+     "start": 52.208,
+     "end": 52.423
+    },
+    {
+     "w": "crowd",
+     "start": 52.423,
+     "end": 52.638
+    },
+    {
+     "w": "far",
+     "start": 52.638,
+     "end": 52.853
+    },
+    {
+     "w": "back,",
+     "start": 52.853,
+     "end": 53.068
+    },
+    {
+     "w": "and",
+     "start": 53.238,
+     "end": 53.43
+    },
+    {
+     "w": "one",
+     "start": 53.43,
+     "end": 53.623
+    },
+    {
+     "w": "guy",
+     "start": 53.623,
+     "end": 53.815
+    },
+    {
+     "w": "who",
+     "start": 53.815,
+     "end": 54.008
+    },
+    {
+     "w": "claps",
+     "start": 54.008,
+     "end": 54.2
+    },
+    {
+     "w": "too",
+     "start": 54.2,
+     "end": 54.393
+    },
+    {
+     "w": "early.",
+     "start": 54.393,
+     "end": 54.728
+    }
+   ]
   },
   {
    "line": 12,
-   "start": 59.875,
-   "end": 63.312,
-   "text": "One button, a thousand shells, zero eyebrows lost."
+   "start": 55.146,
+   "end": 58.583,
+   "text": "One button, a thousand shells, zero eyebrows lost.",
+   "words": [
+    {
+     "w": "One",
+     "start": 55.236,
+     "end": 55.459
+    },
+    {
+     "w": "button,",
+     "start": 55.459,
+     "end": 55.846
+    },
+    {
+     "w": "a",
+     "start": 56.016,
+     "end": 56.291
+    },
+    {
+     "w": "thousand",
+     "start": 56.291,
+     "end": 56.771
+    },
+    {
+     "w": "shells,",
+     "start": 56.771,
+     "end": 57.046
+    },
+    {
+     "w": "zero",
+     "start": 57.206,
+     "end": 57.695
+    },
+    {
+     "w": "eyebrows",
+     "start": 57.695,
+     "end": 58.185
+    },
+    {
+     "w": "lost.",
+     "start": 58.185,
+     "end": 58.466
+    }
+   ]
   },
   {
    "line": 13,
-   "start": 63.677,
-   "end": 66.51,
-   "text": "And congrats, you just built a fireworks show yourself."
+   "start": 58.948,
+   "end": 61.781,
+   "text": "And congrats, you just built a fireworks show yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.068,
+     "end": 59.285
+    },
+    {
+     "w": "congrats,",
+     "start": 59.285,
+     "end": 59.664
+    },
+    {
+     "w": "you",
+     "start": 59.664,
+     "end": 59.881
+    },
+    {
+     "w": "just",
+     "start": 59.881,
+     "end": 60.098
+    },
+    {
+     "w": "built",
+     "start": 60.098,
+     "end": 60.316
+    },
+    {
+     "w": "a",
+     "start": 60.316,
+     "end": 60.533
+    },
+    {
+     "w": "fireworks",
+     "start": 60.533,
+     "end": 61.072
+    },
+    {
+     "w": "show",
+     "start": 61.072,
+     "end": 61.29
+    },
+    {
+     "w": "yourself.",
+     "start": 61.29,
+     "end": 61.668
+    }
+   ]
   },
   {
    "line": 14,
-   "start": 66.875,
-   "end": 69.177,
-   "text": "And the dog? Under the bed until Tuesday."
+   "start": 62.146,
+   "end": 64.448,
+   "text": "And the dog? Under the bed until Tuesday.",
+   "words": [
+    {
+     "w": "And",
+     "start": 62.266,
+     "end": 62.453
+    },
+    {
+     "w": "the",
+     "start": 62.453,
+     "end": 62.639
+    },
+    {
+     "w": "dog?",
+     "start": 62.639,
+     "end": 62.826
+    },
+    {
+     "w": "Under",
+     "start": 62.976,
+     "end": 63.311
+    },
+    {
+     "w": "the",
+     "start": 63.311,
+     "end": 63.503
+    },
+    {
+     "w": "bed",
+     "start": 63.503,
+     "end": 63.696
+    },
+    {
+     "w": "until",
+     "start": 63.696,
+     "end": 64.031
+    },
+    {
+     "w": "Tuesday.",
+     "start": 64.031,
+     "end": 64.366
+    }
+   ]
   }
  ]
 }

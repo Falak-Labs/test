@@ -13,3 +13,4 @@ episodes:
   - {slug: ep09-submarine, kit: submarine, look: 2}
   - {slug: ep10-toilet, kit: toilet, look: 2}
   - {slug: ep11-airplane, kit: airplane, look: 2}
+  - {slug: ep12-fireworks, kit: fireworks, look: 2}
