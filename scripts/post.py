@@ -230,6 +230,7 @@ def main():
         return preview(cfg, files)
     test_only = bool(cfg.get("test_only"))
     last = last_due_times(files)
+    burst_slots = {}
     accounts = {}
     for lang, var in cfg["keys"].items():
         key = os.environ.get(var, "").strip()
@@ -280,7 +281,15 @@ def main():
                     inp["mode"] = "shareNow"
                     when = None
                 else:
-                    when = NOW + dt.timedelta(minutes=3) if tgt in now_targets else due_time(cfg, lang, ep["date"], last.get(tgt))
+                    burst = (cfg.get("burst") or {}).get(lang)
+                    if tgt in now_targets:
+                        when = NOW + dt.timedelta(minutes=3)
+                    elif burst:          # catch-up: one episode every gap minutes, starting first minutes from now
+                        slot = burst_slots.setdefault(lang, {}).setdefault(slug, len(burst_slots[lang]))
+                        when = max(NOW + dt.timedelta(minutes=burst.get("first", 6) + burst.get("gap", 5) * slot),
+                                   dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=2))
+                    else:
+                        when = due_time(cfg, lang, ep["date"], last.get(tgt))
                     inp["mode"] = "customScheduled"
                     inp["dueAt"] = when.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")
                 if platform == "youtube":
