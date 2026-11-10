@@ -123,9 +123,13 @@ def queued_counts(files):
     return n
 
 
-def fixed_time(ep):
-    """An episode file's own posting time (at: "2026-11-10T15:50:00Z"), or None."""
-    return parse_utc(ep.get("at")) if ep.get("at") else None
+def fixed_time(ep, platform=None):
+    """An episode file's own posting time, or None. at: "2026-11-10T15:50:00Z" (every platform), or
+    at: {default: "...", tiktok: "..."} (one platform at another time)."""
+    at = ep.get("at")
+    if isinstance(at, dict):
+        at = at.get(platform) or at.get("default")
+    return parse_utc(at) if at else None
 
 
 class Account:
@@ -231,7 +235,7 @@ def preview(cfg, files):
                 if limit and queued.get(tgt, 0) >= limit:
                     print(f"== {slug} {tgt}: waits ({limit} posts already queued on this channel)\n")
                     continue
-                when = fixed_time(ep) or due_time(cfg, lang, ep["date"], last.get(tgt))
+                when = fixed_time(ep, platform) or due_time(cfg, lang, ep["date"], last.get(tgt))
                 last[tgt] = when
                 if when > NOW:
                     queued[tgt] = queued.get(tgt, 0) + 1
@@ -316,8 +320,8 @@ def main():
                     burst = (cfg.get("burst") or {}).get(lang)
                     if tgt in now_targets:
                         when = NOW + dt.timedelta(minutes=3)
-                    elif fixed_time(ep):    # the episode's own time; never less than 2 minutes from now
-                        when = max(fixed_time(ep), dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=2))
+                    elif fixed_time(ep, platform):    # the episode's own time; never less than 2 minutes from now
+                        when = max(fixed_time(ep, platform), dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=2))
                     elif burst:          # catch-up: one episode every gap minutes, starting first minutes from now
                         slot = burst_slots.setdefault(lang, {}).setdefault(slug, len(burst_slots[lang]))
                         when = max(NOW + dt.timedelta(minutes=burst.get("first", 6) + burst.get("gap", 5) * slot),

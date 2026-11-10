@@ -4,6 +4,9 @@ on:
     branches: [main]
     paths: ["posts/**", "media/**", "config.yml", "scripts/post.py"]
   workflow_dispatch:
+  schedule:
+    - cron: "40 16 10 11 *"     # Nov 10, 16:40 and 17:05 UTC: add episodes 16-20 once 5 of 6-15 have gone out (remove after)
+    - cron: "5 17 10 11 *"
 permissions:
   contents: write
 concurrency:
@@ -15,6 +18,8 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main                # the newest state/, so a run that waited behind another never posts twice
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

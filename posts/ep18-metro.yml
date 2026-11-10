@@ -1,6 +1,6 @@
 episode: 18
-date: 2026-11-11
-at: "2026-11-11T16:10:00Z"   # posting time (UTC): one episode every 10 minutes
+date: 2026-11-10
+at: {default: "2026-11-10T17:50:00Z", tiktok: "2026-11-11T16:10:00Z"}   # YouTube + Instagram today; TikTok tomorrow (TikTok allows about 15 API posts a day per account)
 video:
   en: media/ep18-metro-en.mp4
   ar: media/ep18-metro-ar.mp4
