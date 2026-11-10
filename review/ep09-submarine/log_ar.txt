@@ -1,0 +1,53 @@
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/diffusers/models/lora.py:393: FutureWarning: `LoRACompatibleLinear` is deprecated and will be removed in version 1.0.0. Use of `LoRACompatibleLinear` is deprecated. Please switch to PEFT backend by installing PEFT: `pip install peft`.
+  deprecate("LoRACompatibleLinear", "1.0.0", deprecation_message)
+loaded PerthNet (Implicit) at step 250,000
+model ready in 5s  (tokenizer mtl_tokenizer.json, 2454 text tokens, voice builtin, fp32)
+/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/contextlib.py:105: FutureWarning: `torch.backends.cuda.sdp_kernel()` is deprecated. In the future, this context manager will be removed. Please see `torch.nn.attention.sdpa_kernel()` for the new context manager, with updated signature.
+  self.gen = func(*args, **kwds)
+The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+WARNING:transformers.generation.configuration_utils:The following generation flags are not valid and may be ignored: ['output_attentions']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+  L 1 seed 302    3.22s 13.7 l/s  14 letters/s, Whisper 82% off  asr 82%  (22s)
+  L 1 seed 1302   3.69s 11.9 l/s  Whisper 64% off  asr 64%  (24s)
+  L 1 seed 2302   3.91s 11.3 l/s  Whisper 55% off  asr 55%  (25s)
+  L 2 seed 303    3.93s 13.2 l/s  13 letters/s, Whisper 67% off  asr 67%  (25s)
+  L 2 seed 1303   4.20s 12.4 l/s  12 letters/s, Whisper 75% off  asr 75%  (26s)
+  L 2 seed 2303   3.63s 14.3 l/s  14 letters/s, Whisper 58% off  asr 58%  (23s)
+  L 3 seed 304    5.80s 12.1 l/s  12 letters/s, Whisper 67% off  asr 67%  (33s)
+  L 3 seed 1304   5.76s 12.2 l/s  12 letters/s, Whisper 60% off  asr 60%  (33s)
+  L 3 seed 2304   6.09s 11.5 l/s  Whisper 67% off  asr 67%  (34s)
+  L 4 seed 305    4.50s 12.4 l/s  12 letters/s, Whisper 83% off  asr 83%  (27s)
+  L 4 seed 1305   4.67s 12.0 l/s  Whisper 75% off  asr 75%  (28s)
+  L 4 seed 2305   4.41s 12.7 l/s  13 letters/s, Whisper 75% off  asr 75%  (27s)
+  L 5 seed 306    6.26s 12.6 l/s  13 letters/s, Whisper 76% off  asr 76%  (36s)
+  L 5 seed 1306   6.30s 12.5 l/s  13 letters/s, Whisper 100% off  asr 100%  (36s)
+  L 5 seed 2306   6.49s 12.2 l/s  12 letters/s, Whisper 88% off  asr 88%  (37s)
+  L 6 seed 307    3.26s 10.7 l/s  Whisper 60% off  asr 60%  (22s)
+  L 6 seed 1307   2.76s 12.7 l/s  13 letters/s, Whisper 60% off  asr 60%  (20s)
+  L 6 seed 2307   2.77s 12.6 l/s  13 letters/s, Whisper 70% off  asr 70%  (19s)
+  L 7 seed 308    5.26s 10.3 l/s  Whisper 62% off  asr 62%  (31s)
+  L 7 seed 1308   4.91s 11.0 l/s  Whisper 62% off  asr 62%  (29s)
+  L 7 seed 2308   4.40s 12.3 l/s  12 letters/s, Whisper 69% off  asr 69%  (27s)
+  L 8 seed 309    3.04s 13.2 l/s  13 letters/s, Whisper 89% off  asr 89%  (20s)
+  L 8 seed 1309   3.29s 12.2 l/s  12 letters/s, Whisper 78% off  asr 78%  (21s)
+  L 8 seed 2309   3.81s 10.5 l/s  Whisper 89% off  asr 89%  (24s)
+  L 9 seed 310    5.58s 14.2 l/s  14 letters/s, Whisper 76% off  asr 76%  (33s)
+  L 9 seed 1310   5.80s 13.6 l/s  14 letters/s, Whisper 59% off  asr 59%  (34s)
+  L 9 seed 2310   5.75s 13.7 l/s  14 letters/s, Whisper 53% off  asr 53%  (33s)
+  L10 seed 311    3.10s 12.3 l/s  12 letters/s, Whisper 90% off  asr 90%  (22s)
+  L10 seed 1311   3.43s 11.1 l/s  Whisper 70% off  asr 70%  (22s)
+  L10 seed 2311   2.91s 13.1 l/s  13 letters/s, Whisper 100% off  asr 100%  (20s)
+  L11 seed 312    3.85s 11.7 l/s  Whisper 55% off  asr 55%  (25s)
+  L11 seed 1312   3.91s 11.5 l/s  Whisper 55% off  asr 55%  (25s)
+  L11 seed 2312   3.47s 13.0 l/s  13 letters/s, Whisper 82% off  asr 82%  (23s)
+  L12 seed 313    2.58s 11.6 l/s  ok  asr 38%  (18s)
+  L13 seed 314    2.50s  9.6 l/s  ok  asr 50%  (18s)
+  L14 seed 315    4.54s 12.6 l/s  13 letters/s, Whisper 100% off  asr 100%  (28s)
+  L14 seed 1315   5.10s 11.2 l/s  Whisper 75% off  asr 75%  (31s)
+  L14 seed 2315   4.30s 13.3 l/s  13 letters/s, Whisper 92% off  asr 92%  (26s)
+NAMAA Saudi built-in: 14 lines, 163 words, 64.00s (2.55 words/s), 1017s -> series/voice/submarine_ar_sa.wav  CHECK lines [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14]
+submarine_ar_sa: 67.10s, 2013 frames
+video done in 344s
+audio done
+final out/submarine_ar_sa/submarine_ar_sa_final.mp4
+QA  duration 67.10s  loudness -14.0 LUFS  true peak -1.1 dBFS  1080x1920 @ 30/1  frames 2013
+QA sheet out/submarine_ar_sa/qa_sheet.png
