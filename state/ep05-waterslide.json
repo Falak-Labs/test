@@ -24,7 +24,7 @@
    "id": "6af2bdf7223aa16048f44419",
    "channel": "6af2b78762b70b94b0de0dfa",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "not listed",
    "dueAt": "2026-11-10T07:52:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T06:47:02+00:00",
