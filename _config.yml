@@ -1,0 +1,13 @@
+# GitHub Pages serves only the videos in media/ (the public links Buffer and the review page use).
+# Everything else stays out of the site: a deployment over about 900 MB times out.
+exclude:
+  - kit
+  - review
+  - scripts
+  - state
+  - posts
+  - drafts
+  - plan
+  - README.md
+  - config.yml
+  - episodes.yml
