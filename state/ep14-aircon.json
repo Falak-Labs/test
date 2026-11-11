@@ -36,10 +36,11 @@
    "id": "6af3398242d372a81f654e0f",
    "channel": "6af2cd5262b70b94b0ded572",
    "service": "youtube",
-   "status": "error",
-   "dueAt": "2026-11-10T17:10:00.000Z",
+   "status": "scheduled",
+   "dueAt": "2026-11-11T17:20:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T15:33:38+00:00"
+   "created": "2026-11-10T15:33:38+00:00",
+   "moved": "2026-11-11T16:34:57+00:00"
   },
   "ar.instagram": {
    "id": "6af33983a9f33a390a4a081d",

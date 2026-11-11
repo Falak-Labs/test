@@ -25,10 +25,11 @@
    "id": "6af341a2825741bba8438157",
    "channel": "6af2cd5262b70b94b0ded572",
    "service": "youtube",
-   "status": "error",
-   "dueAt": "2026-11-10T17:40:00.000Z",
+   "status": "scheduled",
+   "dueAt": "2026-11-11T17:50:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T16:08:59+00:00"
+   "created": "2026-11-10T16:08:59+00:00",
+   "moved": "2026-11-11T16:34:57+00:00"
   },
   "ar.instagram": {
    "id": "6af341a3e9e4a87f7b500046",
