@@ -1,4 +1,4 @@
-# Post status 2026-11-11T16:37:12+00:00
+# Post status 2026-11-11T17:07:06+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -64,16 +64,16 @@
 | ep10-toilet | en.youtube | sent |  | 2026-11-10T16:30:32.781Z https://www.youtube.com/shorts/zdZV6e-YG0w |
 | ep11-airplane | ar.instagram | sent |  | 2026-11-10T16:43:04.064Z https://www.instagram.com/reel/DfkW8ZJAUGA/ |
 | ep11-airplane | ar.tiktok | sent |  | 2026-11-11T03:27:42.554Z https://tiktok.com/@kef.tenbeni/video/7706750193227681038 |
-| ep11-airplane | ar.youtube | scheduled | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-11T16:50:00.000Z |
+| ep11-airplane | ar.youtube | sent |  | 2026-11-11T16:50:05.034Z https://www.youtube.com/shorts/AX26IJw5a7w |
 | ep11-airplane | en.instagram | sent |  | 2026-11-10T16:43:02.605Z https://www.instagram.com/reel/DfkW2dOCruI/ |
 | ep11-airplane | en.tiktok | sent |  | 2026-11-10T16:40:49.996Z https://tiktok.com/@congratsengineer/video/7706583338705865997 |
-| ep11-airplane | en.youtube | scheduled | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-11T16:50:00.000Z |
+| ep11-airplane | en.youtube | sent |  | 2026-11-11T16:50:05.501Z https://www.youtube.com/shorts/QO3QBJjIzYY |
 | ep12-fireworks | ar.instagram | sent |  | 2026-11-10T16:50:56.780Z https://www.instagram.com/reel/DfkX-i2hN9l/ |
 | ep12-fireworks | ar.tiktok | sent |  | 2026-11-11T03:28:42.688Z https://tiktok.com/@kef.tenbeni/video/7706750422198897934 |
-| ep12-fireworks | ar.youtube | scheduled | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-11T17:00:00.000Z |
+| ep12-fireworks | ar.youtube | sent |  | 2026-11-11T17:04:42.252Z https://www.youtube.com/watch?v=-I2vRPx1fZI |
 | ep12-fireworks | en.instagram | sent |  | 2026-11-10T16:51:00.537Z https://www.instagram.com/reel/DfkX-n_hnVg/ |
 | ep12-fireworks | en.tiktok | sent |  | 2026-11-10T16:50:44.135Z https://tiktok.com/@congratsengineer/video/7706585981394210062 |
-| ep12-fireworks | en.youtube | scheduled | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-11T17:00:00.000Z |
+| ep12-fireworks | en.youtube | sent |  | 2026-11-11T17:04:49.731Z https://www.youtube.com/watch?v=gmBtVpFG5G4 |
 | ep13-vault | ar.instagram | sent |  | 2026-11-10T17:01:58.958Z https://www.instagram.com/reel/DfkZO4whSgv/ |
 | ep13-vault | ar.tiktok | sent |  | 2026-11-11T03:29:41.924Z https://tiktok.com/@kef.tenbeni/video/7706750676319227150 |
 | ep13-vault | ar.youtube | scheduled | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-11T17:10:00.000Z |
