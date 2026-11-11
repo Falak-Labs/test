@@ -31,6 +31,24 @@
    "mode": "customScheduled",
    "created": "2026-11-11T03:29:12+00:00",
    "moved": "2026-11-11T04:22:17+00:00"
+  },
+  "en.youtube": {
+   "id": "6af499b0444c2727360f62a2",
+   "channel": "6af2b54962b70b94b0ddd768",
+   "service": "youtube",
+   "status": "scheduled",
+   "dueAt": "2026-11-11T18:10:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-11T16:36:57+00:00"
+  },
+  "ar.youtube": {
+   "id": "6af499b1c39eba3c0405aa16",
+   "channel": "6af2cd5262b70b94b0ded572",
+   "service": "youtube",
+   "status": "scheduled",
+   "dueAt": "2026-11-11T18:10:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-11T16:36:57+00:00"
   }
  }
 }
