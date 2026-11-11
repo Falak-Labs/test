@@ -142,3 +142,15 @@
 - Buffer API: the EN account ran out of daily allowance at ~18:28 UTC (status polling in post.yml every 30 s for
   8 minutes, several runs). post.yml now checks once.
 - New scripts: requeue.py (edit posts, also failed ones, to new times), find_posts.py (diagnostics).
+
+## Nov 11, 18:35 UTC: 80 of 90 Season 2 posts live
+- YouTube 11-20 went out on both channels through Buffer, 16:50-18:20 UTC Nov 11 (requeue.py for the 7 failed
+  posts per channel, post.yml for 18-20), once 24 h had passed since the last uploads. Unverified channels: 10
+  uploads per 24 h each.
+- Arabic TikTok 8-15 went out on Nov 11 03:25-03:32 UTC (one a minute, no spam flag); 16-20 were refused by TikTok
+  ("large number of posts published through the API ... wait 24 hours": 15 API posts in 24 h) and wait in Buffer
+  for Nov 12 04:00-04:40 UTC. English TikTok 16-20: on hold until the user decides.
+- The user wants to post from a browser without Buffer. Claude in Chrome connected once (Nov 10 20:50 PT) for five
+  minutes: no account was signed in. Videos are served at https://falaklabs.com/test/media/ (github.io redirects
+  there). Page scripts can fetch them on youtube.com; tiktok.com and instagram.com block the fetch (CSP). Details
+  in the project handoff doc.
