@@ -1,7 +1,7 @@
 episode: 19
 date: 2026-11-10
-at: "2026-11-10T18:00:00Z"   # YouTube + Instagram, one episode every 10 minutes
-hold: [en.youtube, ar.youtube, en.tiktok, ar.tiktok]   # YouTube: after the channels are verified (daily upload limit); TikTok: the user decides later
+at: {default: "2026-11-10T18:00:00Z", tiktok: "2026-11-11T03:39:00Z"}   # YouTube/Instagram as before; Arabic TikTok now (user, Nov 10 19:16 PT)
+hold: [en.youtube, ar.youtube, en.tiktok]   # English TikTok: the user decides later; YouTube: verification / daily limit
 video:
   en: media/ep19-dam-en.mp4
   ar: media/ep19-dam-ar.mp4

@@ -1,7 +1,7 @@
 episode: 16
 date: 2026-11-10
-at: "2026-11-10T17:30:00Z"   # YouTube + Instagram, one episode every 10 minutes
-hold: [en.tiktok, ar.tiktok]   # TikTok for 16-20: the user decides later (Nov 10)
+at: {default: "2026-11-10T17:30:00Z", tiktok: "2026-11-11T03:32:00Z"}   # YouTube/Instagram as before; Arabic TikTok now (user, Nov 10 19:16 PT)
+hold: [en.tiktok]   # English TikTok: the user decides later; YouTube: verification / daily limit
 video:
   en: media/ep16-bridge-en.mp4
   ar: media/ep16-bridge-ar.mp4
