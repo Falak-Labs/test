@@ -4,11 +4,13 @@
    "id": "6af341a0a80c88d57645b021",
    "channel": "6af2b54962b70b94b0ddd768",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-11T17:50:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T16:08:59+00:00",
-   "moved": "2026-11-11T16:33:05+00:00"
+   "moved": "2026-11-11T16:33:05+00:00",
+   "link": "https://www.youtube.com/shorts/yL0AveYu6Pk",
+   "sentAt": "2026-11-11T17:50:08.700Z"
   },
   "en.instagram": {
    "id": "6af341a1825741bba84380ed",
@@ -25,11 +27,13 @@
    "id": "6af341a2825741bba8438157",
    "channel": "6af2cd5262b70b94b0ded572",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-11T17:50:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T16:08:59+00:00",
-   "moved": "2026-11-11T16:34:57+00:00"
+   "moved": "2026-11-11T16:34:57+00:00",
+   "link": "https://www.youtube.com/shorts/IPfPIvHICaU",
+   "sentAt": "2026-11-11T17:50:08.973Z"
   },
   "ar.instagram": {
    "id": "6af341a3e9e4a87f7b500046",
