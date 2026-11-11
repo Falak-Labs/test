@@ -39,6 +39,15 @@
    "created": "2026-11-10T16:08:59+00:00",
    "link": "https://www.instagram.com/reel/Dfkcm_ztD_E/",
    "sentAt": "2026-11-10T17:31:28.621Z"
+  },
+  "ar.tiktok": {
+   "id": "6af3df26ffe2872794ed11fe",
+   "channel": "6af2ce9262b70b94b0dedc45",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-11T03:32:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-11T03:21:08+00:00"
   }
  }
 }
