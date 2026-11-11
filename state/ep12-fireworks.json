@@ -4,7 +4,7 @@
    "id": "6af3397542d372a81f654489",
    "channel": "6af2b54962b70b94b0ddd768",
    "service": "youtube",
-   "status": "not listed",
+   "status": "error",
    "dueAt": "2026-11-10T16:50:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-10T15:33:38+00:00"

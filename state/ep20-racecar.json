@@ -4,10 +4,12 @@
    "id": "6af353d894964d984f069760",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
-   "status": "not listed",
+   "status": "sent",
    "dueAt": "2026-11-10T18:10:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-10T17:26:38+00:00"
+   "created": "2026-11-10T17:26:38+00:00",
+   "link": "https://www.instagram.com/reel/DfkhJFaBc-S/",
+   "sentAt": "2026-11-10T18:10:57.646Z"
   },
   "ar.instagram": {
    "id": "6af353da5c5c3532713ee19c",
