@@ -1,4 +1,4 @@
-# Post status 2026-11-11T03:21:13+00:00
+# Post status 2026-11-11T03:29:16+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -45,37 +45,37 @@
 | ep07-castle | en.tiktok | sent |  | 2026-11-10T16:02:17.491Z https://tiktok.com/@congratsengineer/video/7706573079757049102 |
 | ep07-castle | en.youtube | sent |  | 2026-11-10T16:00:31.236Z https://www.youtube.com/shorts/KhiCgs9UEXY |
 | ep08-claw | ar.instagram | sent |  | 2026-11-10T16:10:58.760Z https://www.instagram.com/reel/DfkTZu-K3_A/ |
-| ep08-claw | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-11T03:24:00.000Z |
+| ep08-claw | ar.tiktok | sent |  | 2026-11-11T03:25:42.458Z https://tiktok.com/@kef.tenbeni/video/7706749390622412046 |
 | ep08-claw | ar.youtube | sent |  | 2026-11-10T16:10:02.992Z https://www.youtube.com/shorts/OROGwzCoqUs |
 | ep08-claw | en.instagram | sent |  | 2026-11-10T16:10:59.212Z https://www.instagram.com/reel/DfkTZtoSRM5/ |
 | ep08-claw | en.tiktok | sent |  | 2026-11-10T16:10:45.348Z https://tiktok.com/@congratsengineer/video/7706575644141817101 |
 | ep08-claw | en.youtube | sent |  | 2026-11-10T16:10:03.818Z https://www.youtube.com/shorts/DzoD0nJiO6M |
 | ep09-submarine | ar.instagram | sent |  | 2026-11-10T16:21:08.167Z https://www.instagram.com/reel/DfkUj2nB91n/ |
-| ep09-submarine | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-11T03:25:00.000Z |
+| ep09-submarine | ar.tiktok | sent |  | 2026-11-11T03:26:43.315Z https://tiktok.com/@kef.tenbeni/video/7706749685813234957 |
 | ep09-submarine | ar.youtube | sent |  | 2026-11-10T16:20:11.362Z https://www.youtube.com/shorts/1mR_xeTolBY |
 | ep09-submarine | en.instagram | sent |  | 2026-11-10T16:23:07.769Z https://www.instagram.com/reel/DfkUjx9MB8Y/ |
 | ep09-submarine | en.tiktok | sent |  | 2026-11-10T16:20:51.400Z https://tiktok.com/@congratsengineer/video/7706578225341680910 |
 | ep09-submarine | en.youtube | sent |  | 2026-11-10T16:20:11.482Z https://www.youtube.com/shorts/grPQCgleIig |
 | ep10-toilet | ar.instagram | sent |  | 2026-11-10T16:32:46.266Z https://www.instagram.com/reel/DfkVw0AvSYp/ |
-| ep10-toilet | ar.tiktok | scheduled |  | 2026-11-11T03:26:00.000Z |
+| ep10-toilet | ar.tiktok | sent |  | 2026-11-11T03:27:42.174Z https://tiktok.com/@kef.tenbeni/video/7706749898338700558 |
 | ep10-toilet | ar.youtube | sent |  | 2026-11-10T16:30:33.045Z https://www.youtube.com/shorts/feLV9lELWT4 |
 | ep10-toilet | en.instagram | sent |  | 2026-11-10T16:32:37.108Z https://www.instagram.com/reel/DfkVzibCHA_/ |
 | ep10-toilet | en.tiktok | sent |  | 2026-11-10T16:31:35.772Z https://tiktok.com/@congratsengineer/video/7706580909218188558 |
 | ep10-toilet | en.youtube | sent |  | 2026-11-10T16:30:32.781Z https://www.youtube.com/shorts/zdZV6e-YG0w |
 | ep11-airplane | ar.instagram | sent |  | 2026-11-10T16:43:04.064Z https://www.instagram.com/reel/DfkW8ZJAUGA/ |
-| ep11-airplane | ar.tiktok | scheduled |  | 2026-11-11T03:27:00.000Z |
+| ep11-airplane | ar.tiktok | sent |  | 2026-11-11T03:27:42.554Z https://tiktok.com/@kef.tenbeni/video/7706750193227681038 |
 | ep11-airplane | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-11T03:18:36.940Z |
 | ep11-airplane | en.instagram | sent |  | 2026-11-10T16:43:02.605Z https://www.instagram.com/reel/DfkW2dOCruI/ |
 | ep11-airplane | en.tiktok | sent |  | 2026-11-10T16:40:49.996Z https://tiktok.com/@congratsengineer/video/7706583338705865997 |
 | ep11-airplane | en.youtube | not listed |  | 2026-11-10T16:40:00.000Z |
 | ep12-fireworks | ar.instagram | sent |  | 2026-11-10T16:50:56.780Z https://www.instagram.com/reel/DfkX-i2hN9l/ |
-| ep12-fireworks | ar.tiktok | scheduled |  | 2026-11-11T03:28:00.000Z |
+| ep12-fireworks | ar.tiktok | sent |  | 2026-11-11T03:28:42.688Z https://tiktok.com/@kef.tenbeni/video/7706750422198897934 |
 | ep12-fireworks | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-10T17:43:29.437Z |
 | ep12-fireworks | en.instagram | sent |  | 2026-11-10T16:51:00.537Z https://www.instagram.com/reel/DfkX-n_hnVg/ |
 | ep12-fireworks | en.tiktok | sent |  | 2026-11-10T16:50:44.135Z https://tiktok.com/@congratsengineer/video/7706585981394210062 |
 | ep12-fireworks | en.youtube | not listed |  | 2026-11-10T16:50:00.000Z |
 | ep13-vault | ar.instagram | sent |  | 2026-11-10T17:01:58.958Z https://www.instagram.com/reel/DfkZO4whSgv/ |
-| ep13-vault | ar.tiktok | scheduled |  | 2026-11-11T03:29:00.000Z |
+| ep13-vault | ar.tiktok | sending |  | 2026-11-11T03:29:00.000Z |
 | ep13-vault | ar.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-11T03:18:34.585Z |
 | ep13-vault | en.instagram | sent |  | 2026-11-10T17:02:20.290Z https://www.instagram.com/reel/DfkZPeCRuka/ |
 | ep13-vault | en.tiktok | sent |  | 2026-11-10T17:04:00.913Z https://tiktok.com/@congratsengineer/video/7706588826172476685 |
@@ -103,8 +103,11 @@
 | ep17-vending | en.instagram | not listed |  | 2026-11-10T17:40:00.000Z |
 | ep17-vending | en.youtube | not listed |  | 2026-11-10T17:40:00.000Z |
 | ep18-metro | ar.instagram | sent |  | 2026-11-10T17:53:06.775Z https://www.instagram.com/reel/Dfke9mPAGFS/ |
+| ep18-metro | ar.tiktok | scheduled |  | 2026-11-11T03:38:00.000Z |
 | ep18-metro | en.instagram | not listed |  | 2026-11-10T17:50:00.000Z |
 | ep19-dam | ar.instagram | sent |  | 2026-11-10T18:01:15.833Z https://www.instagram.com/reel/DfkgAqrtSJc/ |
+| ep19-dam | ar.tiktok | scheduled |  | 2026-11-11T03:39:00.000Z |
 | ep19-dam | en.instagram | not listed |  | 2026-11-10T18:00:00.000Z |
 | ep20-racecar | ar.instagram | sent |  | 2026-11-10T18:11:38.935Z https://www.instagram.com/reel/DfkhNZ2h2RN/ |
+| ep20-racecar | ar.tiktok | scheduled |  | 2026-11-11T03:40:00.000Z |
 | ep20-racecar | en.instagram | not listed |  | 2026-11-10T18:10:00.000Z |
