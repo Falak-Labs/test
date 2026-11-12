@@ -1,4 +1,4 @@
-# Post status 2026-11-12T19:59:06+00:00
+# Post status 2026-11-12T21:22:13+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -134,9 +134,9 @@
 | ep22-datacenter | en.instagram | sent |  | 2026-11-12T18:02:53.973Z https://www.instagram.com/reel/Dfppwv9MGpQ/ |
 | ep22-datacenter | en.tiktok | sent |  | 2026-11-12T18:02:30.666Z https://tiktok.com/@congratsengineer/video/7707346707947834655 |
 | ep22-datacenter | en.youtube | sent |  | 2026-11-12T18:01:20.767Z https://www.youtube.com/shorts/ymZ7GCa-wAk |
-| ep23-desal | ar.instagram | scheduled |  | 2026-11-12T21:00:00.000Z |
-| ep23-desal | ar.tiktok | scheduled |  | 2026-11-12T21:00:00.000Z |
-| ep23-desal | ar.youtube | scheduled |  | 2026-11-12T21:00:00.000Z |
+| ep23-desal | ar.instagram | sent |  | 2026-11-12T21:03:10.429Z https://www.instagram.com/reel/Dfp-So5tTDN/ |
+| ep23-desal | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T21:00:00.000Z |
+| ep23-desal | ar.youtube | sent |  | 2026-11-12T21:00:34.358Z https://www.youtube.com/shorts/jJtWOINg798 |
 | ep23-desal | en.instagram | scheduled |  | 2026-11-13T00:00:00.000Z |
 | ep23-desal | en.tiktok | scheduled |  | 2026-11-13T00:00:00.000Z |
 | ep23-desal | en.youtube | scheduled |  | 2026-11-13T00:00:00.000Z |

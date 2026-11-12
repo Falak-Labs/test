@@ -31,25 +31,29 @@
    "id": "6af5bca593c238937057e8c7",
    "channel": "6af2cd5262b70b94b0ded572",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-12T21:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-12T13:18:22+00:00"
+   "created": "2026-11-12T13:18:22+00:00",
+   "link": "https://www.youtube.com/shorts/jJtWOINg798",
+   "sentAt": "2026-11-12T21:00:34.358Z"
   },
   "ar.instagram": {
    "id": "6af5bca531339cd60d7d1aeb",
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-12T21:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-12T13:18:22+00:00"
+   "created": "2026-11-12T13:18:22+00:00",
+   "link": "https://www.instagram.com/reel/Dfp-So5tTDN/",
+   "sentAt": "2026-11-12T21:03:10.429Z"
   },
   "ar.tiktok": {
    "id": "6af5bca631339cd60d7d1b38",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "error",
    "dueAt": "2026-11-12T21:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-12T13:18:22+00:00"
