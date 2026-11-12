@@ -122,6 +122,17 @@ def words_of(chars, starts, ends):
     return out
 
 
+def fade(y, ms=6):
+    """Short fade in and out, so cuts and joins don't click (clicks push the true peak up after AAC)."""
+    n = min(len(y) // 2, int(ms / 1000 * SR))
+    if n > 1:
+        y = y.copy()
+        ramp = np.linspace(0.0, 1.0, n, dtype=np.float32)
+        y[:n] *= ramp
+        y[-n:] *= ramp[::-1]
+    return y
+
+
 def cap_pauses(y, cap):
     """Shorten every quiet stretch inside a line to `cap` seconds. Returns the audio and a time map old -> new."""
     hop = int(0.01 * SR)
@@ -147,9 +158,9 @@ def cap_pauses(y, cap):
         return y, (lambda t: t)
     parts, last = [], 0.0
     for c0, c1 in cuts:
-        parts.append(y[int(last * SR): int(c0 * SR)])
+        parts.append(fade(y[int(last * SR): int(c0 * SR)], 4))
         last = c1
-    parts.append(y[int(last * SR):])
+    parts.append(fade(y[int(last * SR):], 4))
 
     def remap(t):
         d = 0.0
@@ -172,7 +183,7 @@ for i in range(len(lines)):
     a1 = min(len(y), nz[-1] + int(0.10 * SR)) if len(nz) else len(y)
     y = y[a0:a1]
     shift = a0 / SR
-    y, remap = cap_pauses(y, a.pause)
+    y, remap = cap_pauses(fade(y), a.pause)
     ws = [{"w": w["w"], "start": round(t + remap(max(0.0, w["start"] - shift)), 3),
            "end": round(t + remap(max(0.0, w["end"] - shift)), 3)}
           for w in words_of(take["chars"], take["starts"], take["ends"])]
