@@ -55,6 +55,15 @@
    "mode": "customScheduled",
    "created": "2026-11-11T03:21:08+00:00",
    "moved": "2026-11-12T02:10:29+00:00"
+  },
+  "en.tiktok": {
+   "id": "6af520852f7f0a6952e51128",
+   "channel": "6af2d49862b70b94b0df5758",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-12T02:16:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-12T02:12:18+00:00"
   }
  }
 }
