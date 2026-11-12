@@ -1,4 +1,4 @@
-# Post status 2026-11-12T12:40:09+00:00
+# Post status 2026-11-12T13:18:33+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -134,3 +134,9 @@
 | ep22-datacenter | en.instagram | scheduled |  | 2026-11-12T18:00:00.000Z |
 | ep22-datacenter | en.tiktok | scheduled |  | 2026-11-12T18:00:00.000Z |
 | ep22-datacenter | en.youtube | scheduled |  | 2026-11-12T18:00:00.000Z |
+| ep23-desal | ar.instagram | scheduled |  | 2026-11-12T21:00:00.000Z |
+| ep23-desal | ar.tiktok | scheduled |  | 2026-11-12T21:00:00.000Z |
+| ep23-desal | ar.youtube | scheduled |  | 2026-11-12T21:00:00.000Z |
+| ep23-desal | en.instagram | scheduled |  | 2026-11-13T00:00:00.000Z |
+| ep23-desal | en.tiktok | scheduled |  | 2026-11-13T00:00:00.000Z |
+| ep23-desal | en.youtube | scheduled |  | 2026-11-13T00:00:00.000Z |

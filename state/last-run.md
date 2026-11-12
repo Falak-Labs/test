@@ -1,12 +1,12 @@
-# Last posting run 2026-11-12T12:39:58+00:00
+# Last posting run 2026-11-12T13:18:22+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
-- ep22-datacenter en.youtube: scheduled (Thu 12 Nov 18:00 UTC) id 6af5b3a1b3a8539d46d45a5b
-- ep22-datacenter en.instagram: scheduled (Thu 12 Nov 18:00 UTC) id 6af5b3a2c9355d633257c9c4
-- ep22-datacenter en.tiktok: scheduled (Thu 12 Nov 18:00 UTC) id 6af5b3a39c4618b9af3d7f70
-- ep22-datacenter ar.youtube: scheduled (Thu 12 Nov 19:00 UTC) id 6af5b3a4be882fe76e2183cf
-- ep22-datacenter ar.instagram: scheduled (Thu 12 Nov 19:00 UTC) id 6af5b3a5149e4753548215d5
-- ep22-datacenter ar.tiktok: scheduled (Thu 12 Nov 19:00 UTC) id 6af5b3a6b9a34486aae5a8be
-- en: 5 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=145; t=896, "24h"; r=584; t=83305, "30d"; r=2333; t=2397177; ratelimit-policy="15m"; q=1
-- ar: 5 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=145; t=894, "24h"; r=584; t=83302, "30d"; r=2399; t=2403304; ratelimit-policy="15m"; q=1
+- ep23-desal en.youtube: scheduled (Fri 13 Nov 00:00 UTC) id 6af5bca22982c70a077b6483
+- ep23-desal en.instagram: scheduled (Fri 13 Nov 00:00 UTC) id 6af5bca29b2f94e83b395126
+- ep23-desal en.tiktok: scheduled (Fri 13 Nov 00:00 UTC) id 6af5bca36f4d84d775f9851c
+- ep23-desal ar.youtube: scheduled (Thu 12 Nov 21:00 UTC) id 6af5bca593c238937057e8c7
+- ep23-desal ar.instagram: scheduled (Thu 12 Nov 21:00 UTC) id 6af5bca531339cd60d7d1aeb
+- ep23-desal ar.tiktok: scheduled (Thu 12 Nov 21:00 UTC) id 6af5bca631339cd60d7d1b38
+- en: 5 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=145; t=896, "24h"; r=575; t=81001, "30d"; r=2324; t=2394873; ratelimit-policy="15m"; q=1
+- ar: 5 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=145; t=894, "24h"; r=575; t=80998, "30d"; r=2390; t=2400999; ratelimit-policy="15m"; q=1
