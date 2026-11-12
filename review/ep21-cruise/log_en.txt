@@ -1,31 +1,14 @@
-  L01 recorded (69 characters)
-  L02 recorded (62 characters)
-  L03 recorded (120 characters)
-  L04 recorded (93 characters)
-  L05 recorded (128 characters)
-  L06 recorded (75 characters)
-  L07 recorded (116 characters)
-  L08 recorded (84 characters)
-  L09 recorded (127 characters)
-  L10 recorded (81 characters)
-  L11 recorded (75 characters)
-  L12 recorded (56 characters)
-  L13 recorded (52 characters)
-  L14 recorded (95 characters)
-ElevenLabs XA3P1cj7XJexe6Zq0ATX (eleven_multilingual_v2): 14 lines, 236 words, 70.01s of voice (tempo x1.120), 1233 characters requested this run -> series/voice/cruise.wav
-cruise: 73.11s, 2193 frames
-
-Unable to revert mtime: /usr/share/fonts
+ElevenLabs XA3P1cj7XJexe6Zq0ATX (eleven_multilingual_v2): 14 lines, 236 words, 66.45s of voice (tempo x1.120), 0 characters requested this run -> series/voice/cruise.wav
+cruise: 69.55s, 2086 frames
+unknown element "reset-dirs"
 Unable to revert mtime: /usr/share/fonts
 Unable to revert mtime: /usr/share/fonts/truetype
-Unable to revert mtime: /usr/share/fonts/truetype
-Unable to revert mtime: /usr/share/fonts/truetype/dejavu
 Unable to revert mtime: /usr/share/fonts/truetype/dejavu
 Unable to revert mtime: /usr/share/fonts/truetype/lato
 Unable to revert mtime: /usr/share/fonts/truetype/liberation
 Unable to revert mtime: /usr/share/fonts/truetype/noto
-video done in 500s
+video done in 344s
 audio done
 final out/cruise/cruise_final.mp4
-QA  duration 73.10s  loudness -14.1 LUFS  true peak -1.9 dBFS  1080x1920 @ 30/1  frames 2193
+QA  duration 69.53s  loudness -14.1 LUFS  true peak -1.9 dBFS  1080x1920 @ 30/1  frames 2086
 QA sheet out/cruise/qa_sheet.png

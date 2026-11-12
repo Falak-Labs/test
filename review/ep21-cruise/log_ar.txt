@@ -1,21 +1,7 @@
-  L01 recorded (56 characters)
-  L02 recorded (47 characters)
-  L03 recorded (102 characters)
-  L04 recorded (71 characters)
-  L05 recorded (98 characters)
-  L06 recorded (55 characters)
-  L07 recorded (81 characters)
-  L08 recorded (64 characters)
-  L09 recorded (99 characters)
-  L10 recorded (80 characters)
-  L11 recorded (67 characters)
-  L12 recorded (45 characters)
-  L13 recorded (38 characters)
-  L14 recorded (60 characters)
-ElevenLabs IES4nrmZdUBHByLBde0P (eleven_multilingual_v2): 14 lines, 173 words, 84.30s of voice (tempo x1.120), 963 characters requested this run -> series/voice/cruise_ar_sa.wav
-cruise_ar_sa: 87.38s, 2621 frames
-video done in 595s
+ElevenLabs IES4nrmZdUBHByLBde0P (eleven_multilingual_v2): 14 lines, 173 words, 72.92s of voice (tempo x1.120), 0 characters requested this run -> series/voice/cruise_ar_sa.wav
+cruise_ar_sa: 76.00s, 2280 frames
+video done in 381s
 audio done
 final out/cruise_ar_sa/cruise_ar_sa_final.mp4
-QA  duration 87.37s  loudness -14.0 LUFS  true peak 1.5 dBFS  1080x1920 @ 30/1  frames 2621
+QA  duration 76.00s  loudness -14.0 LUFS  true peak -1.6 dBFS  1080x1920 @ 30/1  frames 2280
 QA sheet out/cruise_ar_sa/qa_sheet.png

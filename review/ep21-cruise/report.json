@@ -3,7 +3,7 @@
  "kit": "cruise",
  "langs": {
   "en": {
-   "ok": false,
+   "ok": true,
    "lines": [
     {
      "line": "01",
@@ -104,26 +104,23 @@
      "seed": null
     }
    ],
-   "duration": 73.1,
+   "duration": 69.53,
    "lufs": -14.1,
    "peak": -1.9,
    "frame": "1080x1920",
    "fps": "30/1",
-   "issues": [
-    "length 73.1s outside 61.0-70.5"
-   ],
-   "mix_word_errors": "9/236",
+   "issues": [],
+   "mix_word_errors": "8/236",
    "mix_lines_off": [
-    "L 3 1 diff  | So you make the whole wide and put the heaviest stuff at the bottom. Engines, fuel, and water. So it always rolls back up.",
     "L 4 1 diff  | Now it stays up, but every wave rocks it, and 3,000 guests turn green at the buffet.",
     "L 5 2 diff  | So you add stabilizer fins, two wings under the water that tilt against every roll, and stop up to 90% of the rocking.",
     "L 6 3 diff  | But 7,000 people need showers, and the nearest tab is a week away.",
     "L12 2 diff  | 20 decks, 7,000 guests, zero parking spots."
    ],
-   "size_mb": 19.3
+   "size_mb": 18.6
   },
   "ar": {
-   "ok": false,
+   "ok": true,
    "lines": [
     {
      "line": "01",
@@ -224,16 +221,13 @@
      "seed": null
     }
    ],
-   "duration": 87.37,
+   "duration": 76.0,
    "lufs": -14.0,
-   "peak": 1.5,
+   "peak": -1.6,
    "frame": "1080x1920",
    "fps": "30/1",
-   "issues": [
-    "length 87.4s outside 60.5-80.0",
-    "peak 1.5"
-   ],
-   "size_mb": 21.7
+   "issues": [],
+   "size_mb": 19.5
   }
  }
 }
