@@ -1,4 +1,4 @@
-# Post status 2026-11-12T11:48:27+00:00
+# Post status 2026-11-12T12:14:10+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -122,3 +122,9 @@
 | ep20-racecar | en.instagram | sent |  | 2026-11-10T18:10:57.646Z https://www.instagram.com/reel/DfkhJFaBc-S/ |
 | ep20-racecar | en.tiktok | sent |  | 2026-11-12T02:21:47.864Z https://tiktok.com/@congratsengineer/video/7707104013971410190 |
 | ep20-racecar | en.youtube | sent |  | 2026-11-11T18:20:06.913Z https://www.youtube.com/shorts/bpjcPQGFwpU |
+| ep21-cruise | ar.instagram | scheduled |  | 2026-11-12T17:00:00.000Z |
+| ep21-cruise | ar.tiktok | scheduled |  | 2026-11-12T17:00:00.000Z |
+| ep21-cruise | ar.youtube | scheduled |  | 2026-11-12T17:00:00.000Z |
+| ep21-cruise | en.instagram | scheduled |  | 2026-11-12T14:00:00.000Z |
+| ep21-cruise | en.tiktok | scheduled |  | 2026-11-12T14:00:00.000Z |
+| ep21-cruise | en.youtube | scheduled |  | 2026-11-12T14:00:00.000Z |
