@@ -1,11 +1,11 @@
 If you boil seawater and catch the steam, congrats, you just built a desalination plant.
-But boiling enough for a whole city burns a mountain of fuel every single day.
-So instead you push seawater through a filter so tight that salt can't fit through, at the pressure you'd feel two thousand feet under the sea.
+But boiling enough for a whole city burns a mountain of fuel every day.
+So instead you push seawater through a filter so tight that salt can't pass, at the pressure of two thousand feet under the sea.
 But the sea is full of sand, seaweed and jellyfish, and they clog the filter in a day.
 So you add screens at the intake, then sand filters, so only clean water reaches the membranes.
 Now it works, but the pumps eat so much power that every glass costs a fortune.
 So you add a pressure exchanger: the salty water leaving pushes the next batch in, and cuts the power bill by up to sixty percent.
-But half the water comes back out almost twice as salty, and the fish near the pipe are not happy.
+But half the water comes back almost twice as salty, and the fish near the pipe are not happy.
 So you pipe it far out to sea and spray it through nozzles, so it mixes in before anyone notices.
 But before you take a sip, follow, because next we're building a nuclear power plant.
 Now just run a pipe two hundred and fifty miles inland, to a kitchen tap.

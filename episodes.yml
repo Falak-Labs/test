@@ -24,3 +24,4 @@ episodes:
   - {slug: ep20-racecar, kit: racecar, look: 2}
   - {slug: ep21-cruise, kit: cruise, look: 2}
   - {slug: ep22-datacenter, kit: datacenter, look: 2}
+  - {slug: ep23-desal, kit: desal, look: 2}
