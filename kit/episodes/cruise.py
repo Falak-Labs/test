@@ -177,28 +177,28 @@ class Cruise(EpisodeV2):
                    "ROCKS", "GREEN", "STABILIZER", "FINS", "NINETY", "SHOWERS", "WEEK", "FACTORY", "FILTERS", "ONLY",
                    "HARBOR", "TURN", "PODS", "THRUSTERS", "SIDEWAYS", "FOLLOW", "TWENTY", "POOLS", "THEATER", "SEVEN",
                    "ZERO", "YOURSELF", "LATE", "LEAVES", "VIDEOS", "THOUSANDS"],
-            "ar_sa": ["مبروك", "سفينة", "فندق", "تقلبه", "عريض", "الثقيلة", "تعتدل", "تهزّها", "يدوخون", "زعانف", "تسعين",
-                      "يتروشون", "أسبوع", "مصنع", "فلاتر", "ميناء", "تلف", "قواعد", "جانبية", "فتنزلق", "تابعني", "عشرين",
-                      "مسابح", "ومسرح", "سبعة", "وصفر", "بيدك", "تأخرت", "تمشي", "مقاطع", "بالآلاف"]}
-    KEYS = {"ar_sa": {
-        ("hook", "HOTEL"): "فندق", ("hook", "BOAT"): "قارب", ("hook", "CONGRATS"): "مبروك", ("hook", "CRUISE"): "سفينة",
-        ("break1", "TALL"): "طويل", ("break1", "WAVE"): "موجة", ("break1", "TIPS"): "تقلبه", ("break1", "OVER"): "جنبه",
-        ("fix1", "HULL"): "جسم", ("fix1", "WIDE"): "عريض", ("fix1", "HEAVIEST"): "الثقيلة", ("fix1", "BOTTOM"): "خالص",
-        ("fix1", "ENGINES"): "المكاين", ("fix1", "FUEL"): "والوقود", ("fix1", "WATER"): "والموية", ("fix1", "ROLLS"): "تعتدل",
-        ("break2", "STAYS"): "تنقلب", ("break2", "ROCKS"): "تهزّها", ("break2", "THOUSAND"): "آلاف", ("break2", "GREEN"): "يدوخون",
+            "ar_sa": ["مبروك", "سفينة", "فندق", "تقلبه", "عريض", "التقيل", "تتعدل", "بتهزها", "بيدوخوا", "زعانف", "تسعين",
+                      "يستحموا", "أسبوع", "مصنع", "فلاتر", "ميناء", "تلف", "قواعد", "جانبية", "فتتزحلق", "تابعني", "عشرين",
+                      "حمامات", "ومسرح", "سبع", "وصفر", "بإيدك", "اتأخرت", "هتمشي", "فيديوهات", "بالآلاف"]}
+    KEYS = {"ar_sa": {                                  # the Arabic narrator is Egyptian from build 21 on (files keep the _ar_sa name)
+        ("hook", "HOTEL"): "فندق", ("hook", "BOAT"): "مركب", ("hook", "CONGRATS"): "مبروك", ("hook", "CRUISE"): "سفينة",
+        ("break1", "TALL"): "عالي", ("break1", "WAVE"): "موجة", ("break1", "TIPS"): "تقلبه", ("break1", "OVER"): "جنبه",
+        ("fix1", "HULL"): "جسمها", ("fix1", "WIDE"): "عريض", ("fix1", "HEAVIEST"): "التقيل", ("fix1", "BOTTOM"): "خالص",
+        ("fix1", "ENGINES"): "المكن", ("fix1", "FUEL"): "والوقود", ("fix1", "WATER"): "والمية", ("fix1", "ROLLS"): "تتعدل",
+        ("break2", "STAYS"): "بتتقلب", ("break2", "ROCKS"): "بتهزها", ("break2", "THOUSAND"): "آلاف", ("break2", "GREEN"): "بيدوخوا",
         ("break2", "BUFFET"): "البوفيه",
-        ("fix2", "STABILIZER"): "زعانف", ("fix2", "WINGS"): "جناحين", ("fix2", "TILT"): "يميلون", ("fix2", "NINETY"): "تسعين",
-        ("break3", "SEVEN"): "سبعة", ("break3", "SHOWERS"): "يتروشون", ("break3", "TAP"): "حنفية", ("break3", "WEEK"): "أسبوع",
-        ("fix3", "FACTORY"): "مصنع", ("fix3", "SQUEEZES"): "يعصر", ("fix3", "FILTERS"): "فلاتر", ("fix3", "ONLY"): "إلا",
-        ("break4", "FLOATING"): "عايمة", ("break4", "PARK"): "توقفها", ("break4", "HARBOR"): "ميناء", ("break4", "TURN"): "تلف",
-        ("fix4", "PODS"): "قواعد", ("fix4", "SPIN"): "دورة", ("fix4", "THRUSTERS"): "جانبية", ("fix4", "SIDEWAYS"): "فتنزلق",
-        ("fix4", "DOCK"): "الرصيف",
+        ("fix2", "STABILIZER"): "زعانف", ("fix2", "WINGS"): "جناحين", ("fix2", "TILT"): "بيميلوا", ("fix2", "NINETY"): "تسعين",
+        ("break3", "SEVEN"): "سبع", ("break3", "SHOWERS"): "يستحموا", ("break3", "TAP"): "حنفية", ("break3", "WEEK"): "أسبوع",
+        ("fix3", "FACTORY"): "مصنع", ("fix3", "SQUEEZES"): "يعصر", ("fix3", "FILTERS"): "فلاتر", ("fix3", "ONLY"): "غير",
+        ("break4", "FLOATING"): "عايمة", ("break4", "PARK"): "تركنها", ("break4", "HARBOR"): "ميناء", ("break4", "TURN"): "تلف",
+        ("fix4", "PODS"): "قواعد", ("fix4", "SPIN"): "لفة", ("fix4", "THRUSTERS"): "جانبية", ("fix4", "SIDEWAYS"): "فتتزحلق",
+        ("fix4", "DOCK"): "للرصيف",
         ("cta", "PORT"): "الميناء", ("cta", "FOLLOW"): "تابعني",
-        ("reveal", "STACK"): "ركّب", ("reveal", "TWENTY"): "عشرين", ("reveal", "POOLS"): "مسابح", ("reveal", "PARK"): "ألعاب",
+        ("reveal", "STACK"): "ركب", ("reveal", "TWENTY"): "عشرين", ("reveal", "POOLS"): "حمامات", ("reveal", "PARK"): "ملاهي",
         ("reveal", "THEATER"): "ومسرح",
-        ("stat", "TWENTY"): "عشرين", ("stat", "SEVEN"): "سبعة", ("stat", "ZERO"): "وصفر",
+        ("stat", "TWENTY"): "عشرين", ("stat", "SEVEN"): "سبع", ("stat", "ZERO"): "وصفر",
         ("closer", "CONGRATS"): "مبروك",
-        ("tag", "LATE"): "تأخرت", ("tag", "LEAVES"): "تمشي", ("tag", "VIDEOS"): "مقاطع", ("tag", "THOUSANDS"): "بالآلاف"}}
+        ("tag", "LATE"): "اتأخرت", ("tag", "LEAVES"): "هتمشي", ("tag", "VIDEOS"): "فيديوهات", ("tag", "THOUSANDS"): "بالآلاف"}}
     TEXT = {"en": {"follow": ("FOLLOW", "next: an AI data center"),
                    "stat": [("20", "DECKS"), ("7,000", "GUESTS"), ("0", "PARKING")],
                    "L": {"hotel": "HOTEL", "ship": "YOUR CRUISE SHIP", "wide": "WIDE HULL", "g": "CENTER OF GRAVITY",
@@ -208,13 +208,13 @@ class Cruise(EpisodeV2):
                          "thr": "BOW THRUSTERS", "decks": "20 DECKS", "pools": "POOLS", "wpark": "WATER PARK",
                          "theater": "THEATER", "videos": "1000s OF VIDEOS"}},
             "ar_sa": {"follow": ("تابعني", "الجاي: مركز بيانات"),
-                      "stat": [("20", "دور"), ("7000", "راكب"), ("0", "مواقف")],
+                      "stat": [("20", "دور"), ("7000", "راكب"), ("0", "ركنة")],
                       "L": {"hotel": "فندق", "ship": "سفينتك السياحية", "wide": "جسم عريض", "g": "مركز الثقل",
-                            "engines": "مكاين", "fuel": "وقود", "water": "موية", "roll": "التمايل", "fins": "زعانف تثبيت",
-                            "m90": "-90% تمايل", "people": "7000 شخص", "tank": "موية حلوة", "week": "أقرب حنفية: أسبوع", "factory": "مصنع موية",
-                            "filter": "فلتر", "salt": "الملح يبقى برّا", "circle": "دايرة اللف", "pods": "تلف 360°",
-                            "thr": "مراوح جانبية", "decks": "20 دور", "pools": "مسابح", "wpark": "ألعاب مائية",
-                            "theater": "مسرح", "videos": "مقاطع بالآلاف"}}}
+                            "engines": "مكن", "fuel": "وقود", "water": "مية", "roll": "التمايل", "fins": "زعانف تثبيت",
+                            "m90": "-90% تمايل", "people": "7000 شخص", "tank": "مية الشرب", "week": "أقرب حنفية: أسبوع",
+                            "factory": "مصنع مية", "filter": "فلتر", "salt": "الملح بيفضل برة", "circle": "دايرة اللف",
+                            "pods": "بتلف 360°", "thr": "مراوح جانبية", "decks": "20 دور", "pools": "حمامات سباحة",
+                            "wpark": "ملاهي مية", "theater": "مسرح", "videos": "فيديوهات بالآلاف"}}}
 
     # ------------------------------------------------------------------ timing
     def _tracks(self):
