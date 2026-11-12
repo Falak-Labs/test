@@ -1,0 +1,31 @@
+episode: 21
+date: 2026-11-12
+video:
+  en: media/ep21-cruise-en.mp4
+  ar: media/ep21-cruise-ar.mp4
+en:
+  at: "2026-11-12T14:00:00Z"    # 06:00 PT
+  title: "How a Cruise Ship Works: Why a 20-Deck Floating Hotel Doesn't Tip Over 🚢"
+  text: |
+    Why doesn't a 20-deck cruise ship tip over? 🚢
+    The heavy stuff sits at the very bottom, two underwater wings cancel up to 90% of the rocking, a water factory below deck turns the sea into showers, and spinning propeller pods slide it sideways into the dock.
+    Which deck would you live on? 👇
+  next: "an AI data center 🤖"
+  seo: "Wide hull and low center of gravity, stabilizer fins, reverse osmosis fresh water, azimuth propeller pods and bow thrusters."
+  tags:
+    tiktok: "#cruiseship #engineering #learnontiktok #ships #howitworks"
+    instagram: "#cruiseship #engineering #ships #howitworks #travel"
+    youtube: "#cruiseship #engineering #ships"
+ar:
+  at: "2026-11-12T17:00:00Z"    # 09:00 PT = 7 pm Cairo, 8 pm Riyadh
+  title: "إزاي السفينة السياحية ما بتتقلبش؟ فندق عشرين دور فوق المية 🚢"
+  text: |
+    إزاي فندق عشرين دور يعوم وما يتقلبش؟ 🚢
+    الحاجات التقيلة تحت خالص، جناحين تحت المية بيوقفوا لحد تسعين في المية من التمايل، مصنع جوه السفينة بيحول مية البحر لمية تستحمى بيها، ومراوح بتلف لفة كاملة بتزحلقها على جنبها للرصيف.
+    تختار تسكن في أنهي دور؟ 👇
+  next: "مركز بيانات للذكاء الاصطناعي 🤖"
+  seo: "جسم عريض ومركز ثقل واطي، زعانف تثبيت، تحلية مية البحر بالفلاتر، مراوح بتلف لفة كاملة ومراوح جانبية في المقدمة."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #معلومات #سفن #مصر"
+    instagram: "#هندسة #سفن #معلومات #سفينة_سياحية #مصر"
+    youtube: "#هندسة #سفن #معلومات"
