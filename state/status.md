@@ -1,4 +1,4 @@
-# Post status 2026-11-12T04:52:34+00:00
+# Post status 2026-11-12T06:10:00+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -105,13 +105,13 @@
 | ep17-vending | en.tiktok | sent |  | 2026-11-12T02:18:42.138Z https://tiktok.com/@congratsengineer/video/7707103247839841549 |
 | ep17-vending | en.youtube | sent |  | 2026-11-11T17:50:08.700Z https://www.youtube.com/shorts/yL0AveYu6Pk |
 | ep18-metro | ar.instagram | sent |  | 2026-11-10T17:53:06.775Z https://www.instagram.com/reel/Dfke9mPAGFS/ |
-| ep18-metro | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T05:15:00.000Z |
+| ep18-metro | ar.tiktok | sent |  | 2026-11-12T05:16:47.603Z https://tiktok.com/@kef.tenbeni/video/7707149077577862413 |
 | ep18-metro | ar.youtube | sent |  | 2026-11-11T18:01:27.830Z https://www.youtube.com/shorts/NZ31KfF7Z-U |
 | ep18-metro | en.instagram | sent |  | 2026-11-10T17:51:09.817Z https://www.instagram.com/reel/Dfke2nNBVnL/ |
 | ep18-metro | en.tiktok | sent |  | 2026-11-12T02:19:42.556Z https://tiktok.com/@congratsengineer/video/7707103512072572173 |
 | ep18-metro | en.youtube | sent |  | 2026-11-11T18:01:24.009Z https://www.youtube.com/shorts/bwSLlAvWY4U |
 | ep19-dam | ar.instagram | sent |  | 2026-11-10T18:01:15.833Z https://www.instagram.com/reel/DfkgAqrtSJc/ |
-| ep19-dam | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T06:00:00.000Z |
+| ep19-dam | ar.tiktok | sent |  | 2026-11-12T06:01:18.759Z https://tiktok.com/@kef.tenbeni/video/7707160795318127885 |
 | ep19-dam | ar.youtube | sent |  | 2026-11-11T18:10:08.829Z https://www.youtube.com/shorts/8OyBWYQxH-Q |
 | ep19-dam | en.instagram | sent |  | 2026-11-10T18:02:13.785Z https://www.instagram.com/reel/DfkgDDgSaSQ/ |
 | ep19-dam | en.tiktok | sent |  | 2026-11-12T02:20:42.922Z https://tiktok.com/@congratsengineer/video/7707103740859337998 |

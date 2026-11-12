@@ -26,11 +26,13 @@
    "id": "6af3e1095e53322cd57ae8b6",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-12T05:15:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-11T03:29:12+00:00",
-   "moved": "2026-11-12T02:33:45+00:00"
+   "moved": "2026-11-12T02:33:45+00:00",
+   "link": "https://tiktok.com/@kef.tenbeni/video/7707149077577862413",
+   "sentAt": "2026-11-12T05:16:47.603Z"
   },
   "en.youtube": {
    "id": "6af499ac67456c42e971ad9c",
