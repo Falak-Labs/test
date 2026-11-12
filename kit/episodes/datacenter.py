@@ -703,6 +703,10 @@ class DataCenter(EpisodeV2):
             self.chip(540, 560, "nowhere", T["nowhere"], T["s1"] - 0.35, accent=HILITE, size=40)
 
     # ------------------------------------------------------------------ set: the phone (tag)
+    @staticmethod
+    def text_w(s, size):
+        return arabic.width_ar(s, size * 1.15, "Tajawal-Black") if arabic.is_ar(s) else text_width(s, size, "Poppins-Black")
+
     def draw_phone(self, c, t):
         T, s = self.T, self.tl.s
         cam = self.cams["phone"].at(t)
@@ -711,16 +715,18 @@ class DataCenter(EpisodeV2):
         c.drawRRect(rr(-260, -600, 520, 760, 60), P("#0B1220"))                   # the phone
         c.drawRRect(rr(-236, -572, 472, 704, 44), P("#F8FAFC"))
         ask = prog(t, T["half"] - 0.2, T["half"] + 0.1)
-        if ask > 0:
-            c.drawRRect(rr(-30, -420, 240, 80, 30), P("#2563EB", ask))
-            word(c, self.L["ask"], 90, -370, 30, "#FFFFFF", a=ask)
+        if ask > 0:                                                                  # bubbles sized to their text
+            bw = self.text_w(self.L["ask"], 40) + 64
+            c.drawRRect(rr(206 - bw, -440, bw, 96, 40), P("#2563EB", ask))
+            word(c, self.L["ask"], 206 - bw / 2, -378, 40, "#FFFFFF", a=ask)
         if T["half"] + 0.3 <= t < T["name"]:
             for i in range(3):
-                c.drawCircle(-170 + i * 26, -260, 9, P("#94A3B8", 0.5 + 0.5 * math.sin(t * 8 + i)))
+                c.drawCircle(-170 + i * 26, -272, 10, P("#94A3B8", 0.5 + 0.5 * math.sin(t * 8 + i)))
         rep = prog(t, T["name"] - 0.05, T["name"] + 0.25)
         if rep > 0:
-            c.drawRRect(rr(-210, -300, 300, 80, 30), P("#E2E8F0", rep))
-            word(c, self.L["reply"], -60, -250, 32, "#0F172A", a=rep)
+            bw = self.text_w(self.L["reply"], 40) + 64
+            c.drawRRect(rr(-206, -320, bw, 96, 40), P("#475569", rep))
+            word(c, self.L["reply"], -206 + bw / 2, -258, 40, "#FFFFFF", a=rep)
         ck = prog(t, T["cat"] - 0.2, T["cat"] + 0.2)                                # the cat
         if ck > 0:
             c.save()
