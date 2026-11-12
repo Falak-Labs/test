@@ -163,3 +163,22 @@
 - Lesson: the Arabic TikTok spam refusal is on the request, not on the video or the daily count. Send, check the
   status once, and requeue a blocked post later; do not send several Arabic TikToks in the same minute.
 - Next: Episode 21 "a cruise ship" (Season 3). Before it, shrink media/ on Pages (limit near 900 MB).
+
+## Season 3 (Nov 12): ElevenLabs voices, Egyptian Arabic, three builds a day
+- Narrators (voices.yml): English ElevenLabs XA3P1cj7XJexe6Zq0ATX, Arabic ElevenLabs IES4nrmZdUBHByLBde0P, model
+  eleven_multilingual_v2, made on the runner by tools/make_vo_eleven.py (secret ELEVENLABS_API_KEY). Takes are saved per
+  line in series/voice/KIT[_ar_sa]_lines/ and reused while the text is the same: to change one line, edit it, delete
+  only KIT[_ar_sa].json + .wav and run produce again (only the changed lines cost credits).
+- The Arabic voice is EGYPTIAN (user, Nov 12 03:37 PT). Write every Arabic script in Egyptian: "لو …، مبروك، كده انت
+  بنيت …" / "بس قبل ما …، تابعني، عشان اللي جاي هنبني …" / "ومبروك، كده انت بنيت … بإيدك"; Egyptian words (دلوقتي، عايز،
+  أوضة، مية، ساقعة، برة، المكن، طلمبات، كوباية) and Egyptian jokes (build 23: the fish turns into fesikh). Files keep the
+  _ar_sa name and lang=ar_sa. KEYS["ar_sa"] must use the Egyptian words.
+- Length: ElevenLabs reads slower than Easton/NAMAA; make_vo_eleven speeds up to 1.12 at most. At that cap English runs
+  ~3.4 words/s and Egyptian ~2.4 words/s. Keep English to about 225 words (232 gave 71.3 s, over the 70.5 s gate) and
+  Arabic to about 165 words (166 gave 72.7 s; the Arabic gate is 60.5-80 s).
+- check_ar_voice on the Egyptian takes: weak lines none, 0-23% per line (the high ones are numbers heard as digits).
+- Chat bubbles and other text boxes: size them to the text (arabic.width_ar / text_width); a fixed 240 px bubble cut the
+  Arabic question in build 22.
+- Posting: posts/epNN-KIT.yml may carry `at:` inside each language block (post.py fixed_time(ep, platform, lang)).
+  Day slots: English 06:00, 10:00, 16:00 PT; Arabic 09:00, 11:00, 13:00 PT (7, 9, 11 pm Cairo), Arabic TikToks 2 h apart.
+  Push a post file only after its videos are committed AND a Pages deployment after that commit ended in success.
