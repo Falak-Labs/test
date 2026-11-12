@@ -1,0 +1,21 @@
+  L01 recorded (63 characters)
+  L02 recorded (57 characters)
+  L03 recorded (91 characters)
+  L04 recorded (57 characters)
+  L05 recorded (70 characters)
+  L06 recorded (70 characters)
+  L07 recorded (93 characters)
+  L08 recorded (73 characters)
+  L09 recorded (80 characters)
+  L10 recorded (60 characters)
+  L11 recorded (58 characters)
+  L12 recorded (39 characters)
+  L13 recorded (38 characters)
+  L14 recorded (45 characters)
+ElevenLabs IES4nrmZdUBHByLBde0P (eleven_multilingual_v2): 14 lines, 167 words, 67.38s of voice (tempo x1.120), 894 characters requested this run -> series/voice/desal_ar_sa.wav
+desal_ar_sa: 70.47s, 2114 frames
+video done in 583s
+audio done
+final out/desal_ar_sa/desal_ar_sa_final.mp4
+QA  duration 70.47s  loudness -14.0 LUFS  true peak -1.3 dBFS  1080x1920 @ 30/1  frames 2114
+QA sheet out/desal_ar_sa/qa_sheet.png

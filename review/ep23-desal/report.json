@@ -1,0 +1,234 @@
+{
+ "slug": "ep23-desal",
+ "kit": "desal",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "If you boil seawater and catch the steam, congrats, you just built a desalination plant.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "But boiling enough for a whole city burns a mountain of fuel every day.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "So instead you push seawater through a filter so tight that salt can't pass, at the pressure of two thousand feet under the sea.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "But the sea is full of sand, seaweed and jellyfish, and they clog the filter in a day.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "So you add screens at the intake, then sand filters, so only clean water reaches the membranes.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "Now it works, but the pumps eat so much power that every glass costs a fortune.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "So you add a pressure exchanger: the salty water leaving pushes the next batch in, and cuts the power bill by up to sixty percent.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "But half the water comes back almost twice as salty, and the fish near the pipe are not happy.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "So you pipe it far out to sea and spray it through nozzles, so it mixes in before anyone notices.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "But before you take a sip, follow, because next we're building a nuclear power plant.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "Now just run a pipe two hundred and fifty miles inland, to a kitchen tap.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "One sea, a million tons a day, zero clouds.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "And congrats, you just built a desalination plant yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "And the fish near the outlet? Saltier than a gamer who just lost.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.5,
+   "lufs": -14.1,
+   "peak": -1.9,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "10/229",
+   "mix_lines_off": [
+    "L 3 1 diff  | So instead, you push seawater through a filter so tight that salt can't pass at the pressure of 2,000 feet under the sea.",
+    "L 7 2 diff  | So you add a pressure exchanger. The salty water leaving pushes the next batch in and cuts the power bill by up to 60%.",
+    "L 9 1 diff  | So you pipe it far out to see and spray it through nozzles, so it mixes in before anyone notices.",
+    "L11 4 diff  | Now just run a pipe 250 miles inland to a kitchen tap.",
+    "L12 2 diff  | 1C, a million tons a day, zero clouds."
+   ],
+   "size_mb": 19.3
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو غليت مية البحر ولميت البخار، مبروك، كده انت بنيت محطة تحلية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس عشان تغلي مية تكفي مدينة كاملة، هتحرق جبل وقود كل يوم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فبدل الغلي، تزق مية البحر في فلتر ضيق أوي، الملح ما يعديش منه، بضغط زي ستمية متر تحت البحر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس البحر مليان رمل وطحالب وقناديل، وبيسدوا الفلتر في يوم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتحط شبك عند المدخل، وبعده فلاتر رمل، فما يوصلش للأغشية غير مية نضيفة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "دلوقتي اشتغلت، بس الطلمبات بتاكل كهربا لدرجة إن كل كوباية بتكلفك ثروة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتركب مبادل ضغط: المية المالحة الخارجة تزق الدفعة الجاية، وتوفر لحد ستين في المية من الكهربا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس نص المية بترجع مالحة الضعف تقريباً، والسمك اللي جنب الماسورة مش مبسوط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتمد الماسورة بعيد جوه البحر، وترشها من فتحات صغيرة، فتختلط قبل ما حد ياخد باله.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تشرب، تابعني، عشان اللي جاي هنبني محطة طاقة نووية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس مد ماسورة مية مئات الكيلومترات، لحد حنفية مطبخك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "بحر واحد، مليون طن في اليوم، وصفر سحاب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت محطة تحلية بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "والسمك اللي عند المخرج؟ شوية كمان ويبقى فسيخ.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 70.47,
+   "lufs": -14.0,
+   "peak": -1.3,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.3
+  }
+ }
+}
