@@ -1,4 +1,4 @@
-# Post status 2026-11-12T02:30:34+00:00
+# Post status 2026-11-12T04:52:34+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -93,25 +93,25 @@
 | ep15-station | en.tiktok | sent |  | 2026-11-10T17:20:48.361Z https://tiktok.com/@congratsengineer/video/7706593643599105294 |
 | ep15-station | en.youtube | sent |  | 2026-11-11T17:31:23.622Z https://www.youtube.com/shorts/luE_0LBf-D8 |
 | ep16-bridge | ar.instagram | sent |  | 2026-11-10T17:31:28.621Z https://www.instagram.com/reel/Dfkcm_ztD_E/ |
-| ep16-bridge | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T02:16:00.000Z |
+| ep16-bridge | ar.tiktok | sent |  | 2026-11-12T03:46:45.494Z https://tiktok.com/@kef.tenbeni/video/7707125917608430861 |
 | ep16-bridge | ar.youtube | sent |  | 2026-11-11T17:40:12.897Z https://www.youtube.com/shorts/Py2IZU8-_9w |
 | ep16-bridge | en.instagram | sent |  | 2026-11-10T17:31:33.915Z https://www.instagram.com/reel/DfkcmpfhAcV/ |
 | ep16-bridge | en.tiktok | sent |  | 2026-11-12T02:17:42.977Z https://tiktok.com/@congratsengineer/video/7707102974220225806 |
 | ep16-bridge | en.youtube | sent |  | 2026-11-11T17:40:11.085Z https://www.youtube.com/shorts/3A8ovnXV9gE |
 | ep17-vending | ar.instagram | sent |  | 2026-11-10T17:43:03.461Z https://www.instagram.com/reel/DfkdvCUOZLB/ |
-| ep17-vending | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T02:17:00.000Z |
+| ep17-vending | ar.tiktok | sent |  | 2026-11-12T04:32:07.009Z https://tiktok.com/@kef.tenbeni/video/7707137547444555022 |
 | ep17-vending | ar.youtube | sent |  | 2026-11-11T17:50:08.973Z https://www.youtube.com/shorts/IPfPIvHICaU |
 | ep17-vending | en.instagram | sent |  | 2026-11-10T17:41:03.314Z https://www.instagram.com/reel/DfkdtXIOXq5/ |
 | ep17-vending | en.tiktok | sent |  | 2026-11-12T02:18:42.138Z https://tiktok.com/@congratsengineer/video/7707103247839841549 |
 | ep17-vending | en.youtube | sent |  | 2026-11-11T17:50:08.700Z https://www.youtube.com/shorts/yL0AveYu6Pk |
 | ep18-metro | ar.instagram | sent |  | 2026-11-10T17:53:06.775Z https://www.instagram.com/reel/Dfke9mPAGFS/ |
-| ep18-metro | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T02:17:43.777Z |
+| ep18-metro | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T05:15:00.000Z |
 | ep18-metro | ar.youtube | sent |  | 2026-11-11T18:01:27.830Z https://www.youtube.com/shorts/NZ31KfF7Z-U |
 | ep18-metro | en.instagram | sent |  | 2026-11-10T17:51:09.817Z https://www.instagram.com/reel/Dfke2nNBVnL/ |
 | ep18-metro | en.tiktok | sent |  | 2026-11-12T02:19:42.556Z https://tiktok.com/@congratsengineer/video/7707103512072572173 |
 | ep18-metro | en.youtube | sent |  | 2026-11-11T18:01:24.009Z https://www.youtube.com/shorts/bwSLlAvWY4U |
 | ep19-dam | ar.instagram | sent |  | 2026-11-10T18:01:15.833Z https://www.instagram.com/reel/DfkgAqrtSJc/ |
-| ep19-dam | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T02:17:38.713Z |
+| ep19-dam | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T06:00:00.000Z |
 | ep19-dam | ar.youtube | sent |  | 2026-11-11T18:10:08.829Z https://www.youtube.com/shorts/8OyBWYQxH-Q |
 | ep19-dam | en.instagram | sent |  | 2026-11-10T18:02:13.785Z https://www.instagram.com/reel/DfkgDDgSaSQ/ |
 | ep19-dam | en.tiktok | sent |  | 2026-11-12T02:20:42.922Z https://tiktok.com/@congratsengineer/video/7707103740859337998 |
