@@ -1,7 +1,28 @@
-ElevenLabs IES4nrmZdUBHByLBde0P (eleven_multilingual_v2): 14 lines, 173 words, 72.92s of voice (tempo x1.120), 0 characters requested this run -> series/voice/cruise_ar_sa.wav
-cruise_ar_sa: 76.00s, 2280 frames
-video done in 381s
+  L01 recorded (56 characters)
+  L02 recorded (47 characters)
+  L03 recorded (78 characters)
+  L04 recorded (73 characters)
+  L05 recorded (83 characters)
+  L06 recorded (59 characters)
+  L07 recorded (68 characters)
+  L08 recorded (69 characters)
+  L09 recorded (91 characters)
+  L10 recorded (84 characters)
+  L11 recorded (66 characters)
+  L12 recorded (43 characters)
+  L13 recorded (40 characters)
+  L14 recorded (65 characters)
+ElevenLabs IES4nrmZdUBHByLBde0P (eleven_multilingual_v2): 14 lines, 166 words, 69.65s of voice (tempo x1.120), 922 characters requested this run -> series/voice/cruise_ar_sa.wav
+cruise_ar_sa: 72.74s, 2182 frames
+unknown element "reset-dirs"
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 563s
 audio done
 final out/cruise_ar_sa/cruise_ar_sa_final.mp4
-QA  duration 76.00s  loudness -14.0 LUFS  true peak -1.6 dBFS  1080x1920 @ 30/1  frames 2280
+QA  duration 72.73s  loudness -14.0 LUFS  true peak -1.7 dBFS  1080x1920 @ 30/1  frames 2182
 QA sheet out/cruise_ar_sa/qa_sheet.png
