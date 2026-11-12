@@ -50,7 +50,7 @@
    "id": "6af3df26ffe2872794ed11fe",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "error",
    "dueAt": "2026-11-12T02:16:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-11T03:21:08+00:00",
@@ -60,10 +60,12 @@
    "id": "6af520852f7f0a6952e51128",
    "channel": "6af2d49862b70b94b0df5758",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-12T02:16:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-12T02:12:18+00:00"
+   "created": "2026-11-12T02:12:18+00:00",
+   "link": "https://tiktok.com/@congratsengineer/video/7707102974220225806",
+   "sentAt": "2026-11-12T02:17:42.977Z"
   }
  }
 }
