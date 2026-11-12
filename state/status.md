@@ -1,4 +1,4 @@
-# Post status 2026-11-12T17:22:13+00:00
+# Post status 2026-11-12T19:59:06+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -123,17 +123,17 @@
 | ep20-racecar | en.tiktok | sent |  | 2026-11-12T02:21:47.864Z https://tiktok.com/@congratsengineer/video/7707104013971410190 |
 | ep20-racecar | en.youtube | sent |  | 2026-11-11T18:20:06.913Z https://www.youtube.com/shorts/bpjcPQGFwpU |
 | ep21-cruise | ar.instagram | sent |  | 2026-11-12T17:02:19.579Z https://www.instagram.com/reel/Dfpi2MoIo2n/ |
-| ep21-cruise | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T17:00:00.000Z |
+| ep21-cruise | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-12T23:00:00.000Z |
 | ep21-cruise | ar.youtube | sent |  | 2026-11-12T17:01:08.447Z https://www.youtube.com/shorts/pzpI4AhsfIw |
 | ep21-cruise | en.instagram | sent |  | 2026-11-12T14:02:59.889Z https://www.instagram.com/reel/DfpORhEtKwW/ |
 | ep21-cruise | en.tiktok | sent |  | 2026-11-12T14:03:28.997Z https://tiktok.com/@congratsengineer/video/7707284566070889741 |
-| ep21-cruise | en.youtube | error | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-12T14:00:00.000Z |
-| ep22-datacenter | ar.instagram | scheduled |  | 2026-11-12T19:00:00.000Z |
-| ep22-datacenter | ar.tiktok | scheduled |  | 2026-11-12T19:00:00.000Z |
-| ep22-datacenter | ar.youtube | scheduled |  | 2026-11-12T19:00:00.000Z |
-| ep22-datacenter | en.instagram | scheduled |  | 2026-11-12T18:00:00.000Z |
-| ep22-datacenter | en.tiktok | scheduled |  | 2026-11-12T18:00:00.000Z |
-| ep22-datacenter | en.youtube | scheduled |  | 2026-11-12T18:00:00.000Z |
+| ep21-cruise | en.youtube | scheduled | You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post. | 2026-11-12T22:00:00.000Z |
+| ep22-datacenter | ar.instagram | sent |  | 2026-11-12T19:03:37.733Z https://www.instagram.com/reel/DfpwtAPC_lH/ |
+| ep22-datacenter | ar.tiktok | sent |  | 2026-11-12T19:02:51.637Z https://tiktok.com/@kef.tenbeni/video/7707362217875787021 |
+| ep22-datacenter | ar.youtube | sent |  | 2026-11-12T19:01:52.056Z https://www.youtube.com/shorts/ASZ-gewifFk |
+| ep22-datacenter | en.instagram | sent |  | 2026-11-12T18:02:53.973Z https://www.instagram.com/reel/Dfppwv9MGpQ/ |
+| ep22-datacenter | en.tiktok | sent |  | 2026-11-12T18:02:30.666Z https://tiktok.com/@congratsengineer/video/7707346707947834655 |
+| ep22-datacenter | en.youtube | sent |  | 2026-11-12T18:01:20.767Z https://www.youtube.com/shorts/ymZ7GCa-wAk |
 | ep23-desal | ar.instagram | scheduled |  | 2026-11-12T21:00:00.000Z |
 | ep23-desal | ar.tiktok | scheduled |  | 2026-11-12T21:00:00.000Z |
 | ep23-desal | ar.youtube | scheduled |  | 2026-11-12T21:00:00.000Z |
