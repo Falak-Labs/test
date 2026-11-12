@@ -1215,6 +1215,7 @@ class Desal(EpisodeV2):
                     for bx, col in ((-36, "#EF4444"), (30, "#22C55E"), (46, "#3B82F6")):
                         c.drawCircle(bx, -2, 8, P(col, g))
                     c.restore()
+            c.restore()
         if not ar:                                                                    # the game screen
             g = e_back(prog(t, T["gamer"] - 0.3, T["gamer"] + 0.1))
             if g > 0:
