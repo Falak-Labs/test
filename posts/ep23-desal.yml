@@ -1,0 +1,31 @@
+episode: 23
+date: 2026-11-12
+video:
+  en: media/ep23-desal-en.mp4
+  ar: media/ep23-desal-ar.mp4
+en:
+  at: "2026-11-13T00:00:00Z"    # 16:00 PT
+  title: "How a Desalination Plant Turns the Sea Into Tap Water 💧"
+  text: |
+    How do you turn the sea into drinking water? 💧
+    Boiling it would burn a mountain of fuel, so you squeeze seawater through a filter so tight that salt can't pass, at the pressure of 2,000 feet under the sea, and let the salty water leaving push the next batch in.
+    Would you drink it? 👇
+  next: "a nuclear power plant ⚛️"
+  seo: "Reverse osmosis membranes, intake screens and sand filters, high-pressure pumps, pressure exchangers that save up to 60% of the power, and brine diffusers far out at sea."
+  tags:
+    tiktok: "#desalination #engineering #water #learnontiktok #howitworks"
+    instagram: "#desalination #engineering #water #howitworks #science"
+    youtube: "#desalination #engineering #water"
+ar:
+  at: "2026-11-12T21:00:00Z"    # 13:00 PT = 11 pm Cairo, midnight Riyadh
+  title: "إزاي بيحولوا مية البحر لمية شرب؟ محطة التحلية من جوه 💧"
+  text: |
+    إزاي مية البحر بتوصل لحنفية مطبخك؟ 💧
+    الغلي هيحرق جبل وقود، فبيزقوا المية في فلتر ضيق أوي الملح ما يعديش منه، بضغط زي ستمية متر تحت البحر، والمية المالحة الخارجة بتزق الدفعة الجاية.
+    تشربها؟ 👇
+  next: "محطة طاقة نووية ⚛️"
+  seo: "أغشية التناضح العكسي، شبك على المدخل وفلاتر رمل، طلمبات ضغط عالي، مبادل ضغط بيوفر لحد ستين في المية من الكهربا، وفتحات رش بعيد جوه البحر."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #مية #معلومات #مصر"
+    instagram: "#هندسة #تحلية_المياه #معلومات #مية #مصر"
+    youtube: "#هندسة #تحلية_المياه #معلومات"
