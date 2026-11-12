@@ -19,8 +19,8 @@ cta:                    # last caption line; {next} comes from the episode file
     default: "Next build: {next} Follow so you don't miss it."
     youtube: "Next build: {next} Subscribe so you don't miss it."
   ar:
-    default: "البناء الجاي: {next} تابعنا عشان ما يفوتك."
-    youtube: "البناء الجاي: {next} اشترك عشان ما يفوتك."
+    default: "البناء الجاي: {next} تابعنا عشان ما يفوتكش."
+    youtube: "البناء الجاي: {next} اشترك عشان ما يفوتكش."
 pages_base: https://falak-labs.github.io/test
 raw_base: https://raw.githubusercontent.com/Falak-Labs/test/main
 test_only: false        # true = only the targets listed under "now:" are posted

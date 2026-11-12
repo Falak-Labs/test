@@ -123,13 +123,16 @@ def queued_counts(files):
     return n
 
 
-def fixed_time(ep, platform=None):
+def fixed_time(ep, platform=None, lang=None):
     """An episode file's own posting time, or None. at: "2026-11-10T15:50:00Z" (every platform), or
-    at: {default: "...", tiktok: "..."} (one platform at another time)."""
-    at = ep.get("at")
-    if isinstance(at, dict):
-        at = at.get(platform) or at.get("default")
-    return parse_utc(at) if at else None
+    at: {default: "...", tiktok: "..."} (one platform at another time). A language block may carry its own
+    at: in the same two shapes (en: {at: ...}); it wins over the episode's."""
+    for at in (((ep.get(lang) or {}).get("at") if lang else None), ep.get("at")):
+        if isinstance(at, dict):
+            at = at.get(platform) or at.get("default")
+        if at:
+            return parse_utc(at)
+    return None
 
 
 class Account:
@@ -238,7 +241,7 @@ def preview(cfg, files):
                 if limit and queued.get(tgt, 0) >= limit:
                     print(f"== {slug} {tgt}: waits ({limit} posts already queued on this channel)\n")
                     continue
-                when = fixed_time(ep, platform) or due_time(cfg, lang, ep["date"], last.get(tgt))
+                when = fixed_time(ep, platform, lang) or due_time(cfg, lang, ep["date"], last.get(tgt))
                 last[tgt] = when
                 if when > NOW:
                     queued[tgt] = queued.get(tgt, 0) + 1
@@ -326,8 +329,8 @@ def main():
                     burst = (cfg.get("burst") or {}).get(lang)
                     if tgt in now_targets:
                         when = NOW + dt.timedelta(minutes=3)
-                    elif fixed_time(ep, platform):    # the episode's own time; never less than 2 minutes from now
-                        when = max(fixed_time(ep, platform), dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=2))
+                    elif fixed_time(ep, platform, lang):    # the episode's own time; never less than 2 minutes from now
+                        when = max(fixed_time(ep, platform, lang), dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=2))
                     elif burst:          # catch-up: one episode every gap minutes, starting first minutes from now
                         slot = burst_slots.setdefault(lang, {}).setdefault(slug, len(burst_slots[lang]))
                         when = max(NOW + dt.timedelta(minutes=burst.get("first", 6) + burst.get("gap", 5) * slot),
