@@ -1,0 +1,31 @@
+episode: 22
+date: 2026-11-12
+video:
+  en: media/ep22-datacenter-en.mp4
+  ar: media/ep22-datacenter-ar.mp4
+en:
+  at: "2026-11-12T18:00:00Z"    # 10:00 PT
+  title: "How an AI Data Center Works: A City's Worth of Power in a Gray Box 🤖"
+  text: |
+    Why does AI need its own power station? 🤖
+    A thousand computers turn a room into an oven, so cold water runs over every chip, a private substation feeds it a city's worth of power, batteries and diesel generators catch every blink, and the door only opens after it scans your face.
+    What would you ask it first? 👇
+  next: "a desalination plant 💧"
+  seo: "Liquid cooling with cold plates and roof coolers, a private substation, battery rooms and diesel backup generators, fences, guards and face-scanning doors."
+  tags:
+    tiktok: "#ai #datacenter #engineering #learnontiktok #tech"
+    instagram: "#ai #datacenter #engineering #tech #howitworks"
+    youtube: "#ai #datacenter #engineering"
+ar:
+  at: "2026-11-12T19:00:00Z"    # 11:00 PT = 9 pm Cairo, 10 pm Riyadh
+  title: "إزاي مركز بيانات الذكاء الاصطناعي بيشتغل؟ كهربا مدينة في صندوق رمادي 🤖"
+  text: |
+    ليه الذكاء الاصطناعي محتاج محطة كهربا لوحده؟ 🤖
+    ألف كمبيوتر بيحولوا الأوضة لفرن، فالمية الساقعة بتعدي فوق كل شريحة، ومحطة كهربا مخصوص بتديله كهربا مدينة كاملة، وبطاريات ومولدات ديزل جاهزة لو الكهربا قطعت، والباب ما بيفتحش غير لما يتعرف على وشك.
+    أول سؤال هتسأله إيه؟ 👇
+  next: "محطة تحلية مية البحر 💧"
+  seo: "تبريد بالمية فوق الشرايح ومبردات على السطح، محطة كهربا خاصة، أوضة بطاريات ومولدات ديزل احتياطي، أسوار وأمن وأبواب بتتعرف على الوش."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #ذكاء_اصطناعي #هندسة #معلومات #مصر"
+    instagram: "#ذكاء_اصطناعي #هندسة #تكنولوجيا #معلومات #مصر"
+    youtube: "#ذكاء_اصطناعي #هندسة #معلومات"
