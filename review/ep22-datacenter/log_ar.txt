@@ -1,0 +1,21 @@
+  L01 recorded (84 characters)
+  L02 recorded (67 characters)
+  L03 recorded (83 characters)
+  L04 recorded (71 characters)
+  L05 recorded (77 characters)
+  L06 recorded (57 characters)
+  L07 recorded (71 characters)
+  L08 recorded (69 characters)
+  L09 recorded (75 characters)
+  L10 recorded (57 characters)
+  L11 recorded (54 characters)
+  L12 recorded (40 characters)
+  L13 recorded (56 characters)
+  L14 recorded (53 characters)
+ElevenLabs IES4nrmZdUBHByLBde0P (eleven_multilingual_v2): 14 lines, 170 words, 66.37s of voice (tempo x1.120), 914 characters requested this run -> series/voice/datacenter_ar_sa.wav
+datacenter_ar_sa: 69.46s, 2084 frames
+video done in 432s
+audio done
+final out/datacenter_ar_sa/datacenter_ar_sa_final.mp4
+QA  duration 69.47s  loudness -14.0 LUFS  true peak -1.2 dBFS  1080x1920 @ 30/1  frames 2084
+QA sheet out/datacenter_ar_sa/qa_sheet.png

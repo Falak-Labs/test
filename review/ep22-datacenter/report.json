@@ -1,0 +1,232 @@
+{
+ "slug": "ep22-datacenter",
+ "kit": "datacenter",
+ "langs": {
+  "en": {
+   "ok": false,
+   "lines": [
+    {
+     "line": "01",
+     "text": "If you plug a thousand computers into one room, congrats, you just built an AI data center.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "But they get so hot, the room turns into an oven in minutes, and every chip shuts itself down.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "So you pump cold water through metal plates sitting right on the chips, and giant coolers on the roof dump the heat outside.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "Now it's cool, but it drinks as much power as a whole city, and the lights across town flicker.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "So you build your own substation next door, with transformers bigger than houses, and cables as thick as your arm.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "But if the power blinks for even one second, hours of training vanish.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "So you add a room full of batteries that kicks in instantly, and diesel generators that roar to life in ten seconds.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "Now it never stops, until someone walks in and trips over the most important cable in the building.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "So you add fences, guards, cameras, and a door that lets one person through, only after it scans their face.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "But before you hit start, follow, because next we're building a desalination plant.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "Now just hide it all inside a plain gray box in the middle of nowhere.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "A hundred thousand chips, one city of power, zero windows.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "And congrats, you just built an AI data center yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "And all that power? Half the time, it's helping someone name their cat.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 71.33,
+   "lufs": -14.1,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [
+    "length 71.3s outside 61.0-70.5"
+   ],
+   "mix_word_errors": "3/232",
+   "mix_lines_off": [
+    "L12 3 diff  | 100,000 chips, one city of power, zero windows."
+   ],
+   "size_mb": 16.3
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو وصلت ألف كمبيوتر في أوضة واحدة، مبروك، كده انت بنيت مركز بيانات للذكاء الاصطناعي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس بيسخنوا لدرجة إن الأوضة تبقى فرن في دقايق، وكل شريحة تقفل نفسها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتعدي مية ساقعة في ألواح معدن فوق الشرايح، ومبردات ضخمة على السطح ترمي الحرارة برة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "دلوقتي بقت ساقعة، بس بتشرب كهربا قد مدينة كاملة، ونور الحتة كلها بيرعش.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتبني محطة كهربا مخصوص جنبها، بمحولات أكبر من البيوت، وكابلات تخينة قد دراعك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس لو الكهربا قطعت ثانية واحدة بس، ساعات من التدريب تطير.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحط أوضة مليانة بطاريات تشتغل في لحظة، ومولدات ديزل تدور في عشر ثواني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "دلوقتي عمرها ما بتقف، لحد ما واحد يدخل ويتكعبل في أهم كابل في المبنى.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتحط أسوار وأمن وكاميرات، وباب ما يدخلش غير شخص واحد، بعد ما يتعرف على وشه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تشغلها، تابعني، عشان اللي جاي هنبني محطة تحلية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس خبيها كلها في صندوق رمادي عادي في نص الصحرا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "مية ألف شريحة، كهربا مدينة، وصفر شبابيك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت مركز بيانات للذكاء الاصطناعي بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وكل الكهربا دي؟ نص الوقت بتساعد واحد يختار اسم لقطته.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.47,
+   "lufs": -14.0,
+   "peak": -1.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 15.7
+  }
+ }
+}
