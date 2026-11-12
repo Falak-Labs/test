@@ -34,12 +34,15 @@ import soundfile as sf
 from scipy.signal import resample_poly
 
 SR = 24000
-OUT = "review/voicetest"
+LANG = os.environ.get("VT_LANG") or "ar"                       # ar: the Saudi script, en: the English one
+OUT = os.environ.get("VT_OUT") or "review/voicetest"
 KIT = os.environ.get("VT_KIT") or "racecar"
 PICK = [int(x) for x in (os.environ.get("VT_LINES") or "1,2,3,14").split(",") if x.strip()]
 ENGINES = [e.strip() for e in (os.environ.get("VT_ENGINES") or
                                "namaa,ms_hamed,ms_fahed,silma,gemini_fenrir,gemini_charon,azure_hamed").split(",") if e.strip()]
-ALL = open(f"kit/series/{KIT}_lines_ar_sa.txt", encoding="utf-8").read().strip().splitlines()
+ALL = open(f"kit/series/{KIT}_lines{'_ar_sa' if LANG == 'ar' else ''}.txt", encoding="utf-8").read().strip().splitlines()
+RATE = os.environ.get("VT_RATE") or ""                         # e.g. +25% for every Microsoft voice
+PAUSE_CAP = float(os.environ.get("VT_PAUSE_CAP") or 0)          # longest pause kept inside a line (s); 0 keeps them all
 LINES = [ALL[i - 1].strip() for i in PICK]
 GAP = 0.35
 GEM_MODEL = os.environ.get("GEMINI_TTS_MODEL") or "gemini-3.1-flash-tts-preview"
@@ -48,7 +51,10 @@ GEM_STYLE = ("Read the following Arabic script aloud in a natural Saudi (Najdi) 
 GEM_VOICES = {"fenrir": "Fenrir", "charon": "Charon", "puck": "Puck", "orus": "Orus", "algieba": "Algieba",
               "iapetus": "Iapetus", "umbriel": "Umbriel", "sadachbia": "Sadachbia", "achird": "Achird"}
 AZ_VOICES = {"hamed": ("ar-SA-HamedNeural", "+5%"), "fahed": ("ar-KW-FahedNeural", "+10%"),
-             "laith": ("ar-SY-LaithNeural", "+5%"), "hamdan": ("ar-AE-HamdanNeural", "+5%")}
+             "laith": ("ar-SY-LaithNeural", "+5%"), "hamdan": ("ar-AE-HamdanNeural", "+5%"),
+             "moaz": ("ar-QA-MoazNeural", "+5%"), "ali": ("ar-BH-AliNeural", "+5%"), "abdullah": ("ar-OM-AbdullahNeural", "+5%"),
+             "andrew": ("en-US-AndrewMultilingualNeural", "+5%"), "brian": ("en-US-BrianMultilingualNeural", "+5%"),
+             "guy": ("en-US-GuyNeural", "+5%"), "christopher": ("en-US-ChristopherNeural", "+5%")}
 
 
 def load(path):
@@ -99,8 +105,33 @@ async def _edge(text, voice, rate, path):
     await edge_tts.Communicate(text, voice, rate=rate).save(path)
 
 
+def cap_pauses(y, cap):
+    """Shorten every quiet stretch longer than cap seconds to cap (Microsoft's voices pause long at commas)."""
+    if cap <= 0:
+        return y
+    hop = int(0.01 * SR)
+    e = np.array([np.sqrt(np.mean(y[i:i + hop] ** 2) + 1e-12) for i in range(0, len(y) - hop, hop)])
+    quiet = e < max(1e-4, 0.03 * np.percentile(e, 95))
+    out, i, n = [], 0, len(quiet)
+    while i < n:
+        j = i
+        while j < n and quiet[j] == quiet[i]:
+            j += 1
+        a, b = i * hop, j * hop
+        if quiet[i] and (j - i) * 0.01 > cap:
+            keep = int(cap * SR)
+            out.append(y[a:a + keep // 2])
+            out.append(y[b - keep // 2:b])
+        else:
+            out.append(y[a:b])
+        i = j
+    out.append(y[n * hop:])
+    return np.concatenate(out).astype(np.float32)
+
+
 def eng_ms(name):
     voice, rate = AZ_VOICES[name.split("_", 1)[1]]
+    rate = RATE or rate
     parts = []
     with tempfile.TemporaryDirectory() as td:
         for i, t in enumerate(LINES):
@@ -114,7 +145,7 @@ def eng_ms(name):
                     time.sleep(4)
             else:
                 return None
-            parts.append(load(p))
+            parts.append(cap_pauses(load(p), PAUSE_CAP))
     return join(parts)
 
 
@@ -223,7 +254,13 @@ def make(only, skip):
 T = re.compile("[ً-ْـ]")
 
 
+NUM = {"zero": "0", "one": "1", "two": "2", "three": "3", "four": "4", "five": "5", "six": "6", "seven": "7", "eight": "8",
+       "nine": "9", "ten": "10", "twenty": "20", "thirty": "30", "ninety": "90", "hundred": "100", "thousand": "1000"}
+
+
 def words(s):
+    if LANG == "en":
+        return [NUM.get(w, w) for w in re.findall(r"[a-z0-9']+", s.lower().replace(",", ""))]
     s = re.sub("[إأآٱ]", "ا", T.sub("", s)).replace("ى", "ي").replace("ة", "ه")
     return re.findall(r"[ء-ي0-9]+", s)
 
@@ -254,7 +291,7 @@ def score():
     wd = os.environ.get("TTS_HOME", "/home/runner/tts") + "/asr/sherpa-onnx-whisper-small"
     R = sherpa_onnx.OfflineRecognizer.from_whisper(
         encoder=f"{wd}/small-encoder.int8.onnx", decoder=f"{wd}/small-decoder.int8.onnx",
-        tokens=f"{wd}/small-tokens.txt", language="ar", task="transcribe", num_threads=4)
+        tokens=f"{wd}/small-tokens.txt", language=LANG, task="transcribe", num_threads=4)
     mos_model = torch.hub.load("tarepan/SpeechMOS:v1.2.0", "utmos22_strong", trust_repo=True)
     ref = words(" ".join(LINES))
     rows = []
