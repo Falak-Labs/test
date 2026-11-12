@@ -65,6 +65,10 @@ def run(cmd, log, env=None):
     return "".join(out)
 
 
+VOICES = yaml.safe_load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "voices.yml"))) \
+    if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "voices.yml")) else {}
+
+
 def make(slug, kit, langs, look):
     dst = os.path.join(OUT, slug)
     for sub in ("media", "review", "voice"):
@@ -82,8 +86,15 @@ def make(slug, kit, langs, look):
             vo = os.path.join("series", "voice", L["voice"].format(kit=kit))
             have = os.path.exists(os.path.join(KIT, vo + ".json")) and os.path.exists(os.path.join(KIT, vo + ".wav"))
             fix = os.environ.get("FIX_LINES", "").strip() if lang == "ar" else ""      # "6,11": take those Saudi lines again
+            eng = VOICES.get(lang) or {}
             if not have or fix:
-                if lang == "ar":
+                if eng.get("engine") == "eleven":                                     # ElevenLabs (voices.yml)
+                    if not os.environ.get("ELEVENLABS_API_KEY"):
+                        raise RuntimeError("voices.yml asks for ElevenLabs but the ELEVENLABS_API_KEY secret is not set")
+                    run([sys.executable, "-I", "-u", "tools/make_vo_eleven.py", "series/" + L["lines"].format(kit=kit), vo,
+                         "--voice", str(eng["voice"]), "--model", eng.get("model", "eleven_multilingual_v2")]
+                        + (["--only", fix] if have and fix else []), log, env)
+                elif lang == "ar":
                     run([sys.executable, "-I", "-u", "tools/make_vo_namaa.py", f"series/{kit}_lines_ar_sa.txt", vo,
                          "--asr", "--seed", "301", "--max-rate", "14.5"] + (["--only", fix] if have and fix else []), log, env)
                 else:

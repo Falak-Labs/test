@@ -22,3 +22,4 @@ episodes:
   - {slug: ep18-metro, kit: metro, look: 2}
   - {slug: ep19-dam, kit: dam, look: 2}
   - {slug: ep20-racecar, kit: racecar, look: 2}
+  - {slug: ep21-cruise, kit: cruise, look: 2}

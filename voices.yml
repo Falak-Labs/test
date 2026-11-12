@@ -1,0 +1,6 @@
+# Narrator voice per language for NEW episodes. An episode whose voice files already exist in kit/series/voice keeps
+# them (Episodes 1-20: Easton for English, NAMAA Saudi for Arabic).
+#   engine: eleven = ElevenLabs (needs the ELEVENLABS_API_KEY Actions secret; voice = ElevenLabs voice ID, not secret)
+#   no entry   = the old voices: Phonon Easton (English, made in the workspace) and NAMAA Saudi (Arabic, on the runner)
+en: {engine: eleven, voice: XA3P1cj7XJexe6Zq0ATX, model: eleven_multilingual_v2}
+ar: {engine: eleven, voice: IES4nrmZdUBHByLBde0P, model: eleven_multilingual_v2}

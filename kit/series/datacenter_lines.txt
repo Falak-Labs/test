@@ -1,0 +1,14 @@
+If you plug a thousand computers into one room, congrats, you just built an AI data center.
+But they get so hot, the room turns into an oven in minutes, and every chip shuts itself down.
+So you pump cold water through metal plates sitting right on the chips, and giant coolers on the roof dump the heat outside.
+Now it's cool, but it drinks as much power as a whole city, and the lights across town flicker.
+So you build your own substation next door, with transformers bigger than houses, and cables as thick as your arm.
+But if the power blinks for even one second, hours of training vanish.
+So you add a room full of batteries that kicks in instantly, and diesel generators that roar to life in ten seconds.
+Now it never stops, until someone walks in and trips over the most important cable in the building.
+So you add fences, guards, cameras, and a door that lets one person through, only after it scans their face.
+But before you hit start, follow, because next we're building a desalination plant.
+Now just hide it all inside a plain gray box in the middle of nowhere.
+A hundred thousand chips, one city of power, zero windows.
+And congrats, you just built an AI data center yourself.
+And all that power? Half the time, it's helping someone name their cat.
