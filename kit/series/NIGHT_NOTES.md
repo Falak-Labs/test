@@ -154,3 +154,12 @@
   minutes: no account was signed in. Videos are served at https://falaklabs.com/test/media/ (github.io redirects
   there). Page scripts can fetch them on youtube.com; tiktok.com and instagram.com block the fetch (CSP). Details
   in the project handoff doc.
+
+## Nov 12, 06:10 UTC: Season 2 fully posted, 90 of 90 live
+- Status run 06:10 UTC: 120 of 120 rows "sent" (Season 1 + Season 2), nothing waiting in Buffer, no holds left.
+- Nov 12 02:16-02:21 UTC ("publish everything now, use buffer"): English TikTok 16-20 and Arabic TikTok 20 went
+  out; Arabic TikTok 16-19 were refused as "potential spam" when sent together.
+- The same four passed one at a time, 45 minutes apart (requeue.py): 03:46, 04:32, 05:16, 06:01 UTC.
+- Lesson: the Arabic TikTok spam refusal is on the request, not on the video or the daily count. Send, check the
+  status once, and requeue a blocked post later; do not send several Arabic TikToks in the same minute.
+- Next: Episode 21 "a cruise ship" (Season 3). Before it, shrink media/ on Pages (limit near 900 MB).
