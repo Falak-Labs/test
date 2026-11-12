@@ -1,27 +1,17 @@
-  L01 recorded (91 characters)
-  L02 recorded (94 characters)
-  L03 recorded (124 characters)
-  L04 recorded (95 characters)
-  L05 recorded (114 characters)
-  L06 recorded (70 characters)
-  L07 recorded (116 characters)
-  L08 recorded (99 characters)
-  L09 recorded (108 characters)
-  L10 recorded (83 characters)
-  L11 recorded (70 characters)
-  L12 recorded (58 characters)
-  L13 recorded (56 characters)
-  L14 recorded (71 characters)
-ElevenLabs XA3P1cj7XJexe6Zq0ATX (eleven_multilingual_v2): 14 lines, 232 words, 68.21s of voice (tempo x1.120), 1249 characters requested this run -> series/voice/datacenter.wav
-datacenter: 71.33s, 2140 frames
+  L03 recorded (110 characters)
+  L09 recorded (88 characters)
+ElevenLabs XA3P1cj7XJexe6Zq0ATX (eleven_multilingual_v2): 14 lines, 227 words, 66.87s of voice (tempo x1.120), 198 characters requested this run -> series/voice/datacenter.wav
+datacenter: 69.97s, 2099 frames
+unknown element "reset-dirs"
 Unable to revert mtime: /usr/share/fonts
 Unable to revert mtime: /usr/share/fonts/truetype
 Unable to revert mtime: /usr/share/fonts/truetype/dejavu
 Unable to revert mtime: /usr/share/fonts/truetype/lato
 Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
 Unable to revert mtime: /usr/share/fonts/truetype/noto
-video done in 438s
+video done in 489s
 audio done
 final out/datacenter/datacenter_final.mp4
-QA  duration 71.33s  loudness -14.1 LUFS  true peak -1.8 dBFS  1080x1920 @ 30/1  frames 2140
+QA  duration 69.97s  loudness -14.1 LUFS  true peak -1.7 dBFS  1080x1920 @ 30/1  frames 2099
 QA sheet out/datacenter/qa_sheet.png

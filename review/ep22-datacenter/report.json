@@ -3,7 +3,7 @@
  "kit": "datacenter",
  "langs": {
   "en": {
-   "ok": false,
+   "ok": true,
    "lines": [
     {
      "line": "01",
@@ -21,7 +21,7 @@
     },
     {
      "line": "03",
-     "text": "So you pump cold water through metal plates sitting right on the chips, and giant coolers on the roof dump the heat outside.",
+     "text": "So you pump cold water through metal plates on the chips, and giant coolers on the roof dump the heat outside.",
      "heard": null,
      "problems": null,
      "seed": null
@@ -63,7 +63,7 @@
     },
     {
      "line": "09",
-     "text": "So you add fences, guards, cameras, and a door that lets one person through, only after it scans their face.",
+     "text": "So you add fences, guards, cameras, and a door that only opens after it scans your face.",
      "heard": null,
      "problems": null,
      "seed": null
@@ -104,19 +104,17 @@
      "seed": null
     }
    ],
-   "duration": 71.33,
+   "duration": 69.97,
    "lufs": -14.1,
-   "peak": -1.8,
+   "peak": -1.7,
    "frame": "1080x1920",
    "fps": "30/1",
-   "issues": [
-    "length 71.3s outside 61.0-70.5"
-   ],
-   "mix_word_errors": "3/232",
+   "issues": [],
+   "mix_word_errors": "3/227",
    "mix_lines_off": [
     "L12 3 diff  | 100,000 chips, one city of power, zero windows."
    ],
-   "size_mb": 16.3
+   "size_mb": 16.1
   },
   "ar": {
    "ok": true,

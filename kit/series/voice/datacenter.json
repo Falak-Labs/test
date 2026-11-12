@@ -3,9 +3,9 @@
  "model": "eleven_multilingual_v2",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 66.8,
+ "duration": 66.867,
  "words": 227,
- "words_per_sec": 3.4,
+ "words_per_sec": 3.39,
  "lines": [
   {
    "line": 1,
@@ -206,1051 +206,1051 @@
   {
    "line": 3,
    "start": 10.482,
-   "end": 16.09,
+   "end": 16.004,
    "text": "So you pump cold water through metal plates on the chips, and giant coolers on the roof dump the heat outside.",
    "words": [
     {
      "w": "So",
      "start": 10.482,
-     "end": 10.621
+     "end": 10.606
     },
     {
      "w": "you",
-     "start": 10.663,
-     "end": 10.736
+     "start": 10.648,
+     "end": 10.721
     },
     {
      "w": "pump",
-     "start": 10.798,
-     "end": 10.974
+     "start": 10.783,
+     "end": 10.97
     },
     {
      "w": "cold",
-     "start": 11.046,
-     "end": 11.285
+     "start": 11.042,
+     "end": 11.291
     },
     {
      "w": "water",
-     "start": 11.347,
-     "end": 11.617
+     "start": 11.353,
+     "end": 11.612
     },
     {
      "w": "through",
-     "start": 11.658,
-     "end": 11.855
+     "start": 11.664,
+     "end": 11.861
     },
     {
      "w": "metal",
-     "start": 11.887,
-     "end": 12.073
+     "start": 11.892,
+     "end": 12.089
     },
     {
      "w": "plates",
-     "start": 12.125,
-     "end": 12.415
+     "start": 12.13,
+     "end": 12.41
     },
     {
      "w": "on",
-     "start": 12.456,
-     "end": 12.529
+     "start": 12.452,
+     "end": 12.514
     },
     {
      "w": "the",
-     "start": 12.56,
-     "end": 12.622
+     "start": 12.555,
+     "end": 12.618
     },
     {
      "w": "chips,",
-     "start": 12.654,
-     "end": 13.134
+     "start": 12.648,
+     "end": 13.161
     },
     {
      "w": "and",
-     "start": 13.196,
-     "end": 13.321
+     "start": 13.206,
+     "end": 13.341
     },
     {
      "w": "giant",
-     "start": 13.424,
-     "end": 13.725
+     "start": 13.413,
+     "end": 13.704
     },
     {
      "w": "coolers",
-     "start": 13.787,
-     "end": 14.139
+     "start": 13.755,
+     "end": 14.087
     },
     {
      "w": "on",
-     "start": 14.181,
-     "end": 14.243
+     "start": 14.129,
+     "end": 14.191
     },
     {
      "w": "the",
-     "start": 14.274,
-     "end": 14.337
+     "start": 14.222,
+     "end": 14.284
     },
     {
      "w": "roof",
-     "start": 14.388,
-     "end": 14.616
+     "start": 14.346,
+     "end": 14.596
     },
     {
      "w": "dump",
-     "start": 14.751,
-     "end": 14.979
+     "start": 14.773,
+     "end": 14.97
     },
     {
      "w": "the",
-     "start": 15.031,
-     "end": 15.093
+     "start": 15.021,
+     "end": 15.084
     },
     {
      "w": "heat",
-     "start": 15.155,
-     "end": 15.352
+     "start": 15.125,
+     "end": 15.291
     },
     {
      "w": "outside.",
-     "start": 15.404,
-     "end": 16.09
+     "start": 15.332,
+     "end": 16.004
     }
    ]
   },
   {
    "line": 4,
-   "start": 16.403,
-   "end": 21.377,
+   "start": 16.316,
+   "end": 21.289,
    "text": "Now it's cool, but it drinks as much power as a whole city, and the lights across town flicker.",
    "words": [
     {
      "w": "Now",
-     "start": 16.403,
-     "end": 16.581
+     "start": 16.316,
+     "end": 16.495
     },
     {
      "w": "it's",
-     "start": 16.622,
-     "end": 16.746
+     "start": 16.536,
+     "end": 16.66
     },
     {
      "w": "cool,",
-     "start": 16.798,
-     "end": 17.213
+     "start": 16.712,
+     "end": 17.127
     },
     {
      "w": "but",
-     "start": 17.296,
-     "end": 17.493
+     "start": 17.21,
+     "end": 17.406
     },
     {
      "w": "it",
-     "start": 17.545,
-     "end": 17.659
+     "start": 17.458,
+     "end": 17.572
     },
     {
      "w": "drinks",
-     "start": 17.7,
-     "end": 17.929
+     "start": 17.613,
+     "end": 17.842
     },
     {
      "w": "as",
-     "start": 17.96,
-     "end": 18.021
+     "start": 17.873,
+     "end": 17.935
     },
     {
      "w": "much",
-     "start": 18.136,
-     "end": 18.354
+     "start": 18.049,
+     "end": 18.267
     },
     {
      "w": "power",
-     "start": 18.405,
-     "end": 18.685
+     "start": 18.319,
+     "end": 18.598
     },
     {
      "w": "as",
-     "start": 18.747,
-     "end": 18.82
+     "start": 18.661,
+     "end": 18.733
     },
     {
      "w": "a",
-     "start": 18.871,
-     "end": 18.903
+     "start": 18.785,
+     "end": 18.816
     },
     {
      "w": "whole",
-     "start": 18.965,
-     "end": 19.224
+     "start": 18.879,
+     "end": 19.138
     },
     {
      "w": "city,",
-     "start": 19.276,
-     "end": 19.715
+     "start": 19.189,
+     "end": 19.629
     },
     {
      "w": "and",
-     "start": 19.758,
-     "end": 19.862
+     "start": 19.671,
+     "end": 19.775
     },
     {
      "w": "the",
-     "start": 19.903,
-     "end": 19.965
+     "start": 19.816,
+     "end": 19.879
     },
     {
      "w": "lights",
-     "start": 19.996,
-     "end": 20.193
+     "start": 19.91,
+     "end": 20.106
     },
     {
      "w": "across",
-     "start": 20.224,
-     "end": 20.494
+     "start": 20.137,
+     "end": 20.407
     },
     {
      "w": "town",
-     "start": 20.546,
-     "end": 20.804
+     "start": 20.459,
+     "end": 20.718
     },
     {
      "w": "flicker.",
-     "start": 20.887,
-     "end": 21.717
+     "start": 20.801,
+     "end": 21.63
     }
    ]
   },
   {
    "line": 5,
-   "start": 21.689,
-   "end": 27.273,
+   "start": 21.602,
+   "end": 27.187,
    "text": "So you build your own substation next door, with transformers bigger than houses, and cables as thick as your arm.",
    "words": [
     {
      "w": "So",
-     "start": 21.689,
-     "end": 21.829
+     "start": 21.602,
+     "end": 21.742
     },
     {
      "w": "you",
-     "start": 21.871,
-     "end": 21.932
+     "start": 21.784,
+     "end": 21.846
     },
     {
      "w": "build",
-     "start": 21.995,
-     "end": 22.139
+     "start": 21.908,
+     "end": 22.053
     },
     {
      "w": "your",
-     "start": 22.181,
-     "end": 22.274
+     "start": 22.095,
+     "end": 22.188
     },
     {
      "w": "own",
-     "start": 22.326,
-     "end": 22.451
+     "start": 22.239,
+     "end": 22.364
     },
     {
      "w": "substation",
-     "start": 22.512,
-     "end": 23.052
+     "start": 22.426,
+     "end": 22.965
     },
     {
      "w": "next",
-     "start": 23.104,
-     "end": 23.29
+     "start": 23.017,
+     "end": 23.204
     },
     {
      "w": "door,",
-     "start": 23.332,
-     "end": 23.705
+     "start": 23.246,
+     "end": 23.619
     },
     {
      "w": "with",
-     "start": 23.786,
-     "end": 23.942
+     "start": 23.699,
+     "end": 23.855
     },
     {
      "w": "transformers",
-     "start": 23.983,
-     "end": 24.626
+     "start": 23.896,
+     "end": 24.539
     },
     {
      "w": "bigger",
-     "start": 24.698,
-     "end": 24.937
+     "start": 24.612,
+     "end": 24.85
     },
     {
      "w": "than",
-     "start": 24.979,
-     "end": 25.082
+     "start": 24.892,
+     "end": 24.996
     },
     {
      "w": "houses,",
-     "start": 25.134,
-     "end": 25.654
+     "start": 25.047,
+     "end": 25.566
     },
     {
      "w": "and",
-     "start": 25.704,
-     "end": 25.828
+     "start": 25.617,
+     "end": 25.741
     },
     {
      "w": "cables",
-     "start": 25.89,
-     "end": 26.274
+     "start": 25.804,
+     "end": 26.187
     },
     {
      "w": "as",
-     "start": 26.315,
-     "end": 26.398
+     "start": 26.229,
+     "end": 26.312
     },
     {
      "w": "thick",
-     "start": 26.471,
-     "end": 26.637
+     "start": 26.384,
+     "end": 26.55
     },
     {
      "w": "as",
-     "start": 26.668,
-     "end": 26.72
+     "start": 26.581,
+     "end": 26.633
     },
     {
      "w": "your",
-     "start": 26.761,
-     "end": 26.875
+     "start": 26.674,
+     "end": 26.788
     },
     {
      "w": "arm.",
-     "start": 26.927,
-     "end": 27.611
+     "start": 26.84,
+     "end": 27.524
     }
    ]
   },
   {
    "line": 6,
-   "start": 27.586,
-   "end": 31.171,
+   "start": 27.499,
+   "end": 31.085,
    "text": "But if the power blinks for even one second, hours of training vanish.",
    "words": [
     {
      "w": "But",
-     "start": 27.586,
-     "end": 27.694
+     "start": 27.499,
+     "end": 27.607
     },
     {
      "w": "if",
-     "start": 27.725,
-     "end": 27.777
+     "start": 27.638,
+     "end": 27.69
     },
     {
      "w": "the",
-     "start": 27.818,
-     "end": 27.88
+     "start": 27.731,
+     "end": 27.794
     },
     {
      "w": "power",
-     "start": 27.922,
-     "end": 28.181
+     "start": 27.836,
+     "end": 28.095
     },
     {
      "w": "blinks",
-     "start": 28.222,
-     "end": 28.461
+     "start": 28.136,
+     "end": 28.374
     },
     {
      "w": "for",
-     "start": 28.503,
-     "end": 28.616
+     "start": 28.416,
+     "end": 28.529
     },
     {
      "w": "even",
-     "start": 28.679,
-     "end": 28.865
+     "start": 28.592,
+     "end": 28.779
     },
     {
      "w": "one",
-     "start": 28.948,
-     "end": 29.187
+     "start": 28.862,
+     "end": 29.1
     },
     {
      "w": "second,",
-     "start": 29.249,
-     "end": 29.764
+     "start": 29.162,
+     "end": 29.678
     },
     {
      "w": "hours",
-     "start": 29.84,
-     "end": 30.151
+     "start": 29.754,
+     "end": 30.064
     },
     {
      "w": "of",
-     "start": 30.192,
-     "end": 30.254
+     "start": 30.105,
+     "end": 30.168
     },
     {
      "w": "training",
-     "start": 30.296,
-     "end": 30.587
+     "start": 30.21,
+     "end": 30.5
     },
     {
      "w": "vanish.",
-     "start": 30.638,
-     "end": 31.467
+     "start": 30.552,
+     "end": 31.38
     }
    ]
   },
   {
    "line": 7,
-   "start": 31.484,
-   "end": 37.452,
+   "start": 31.397,
+   "end": 37.365,
    "text": "So you add a room full of batteries that kicks in instantly, and diesel generators that roar to life in ten seconds.",
    "words": [
     {
      "w": "So",
-     "start": 31.484,
-     "end": 31.619
+     "start": 31.397,
+     "end": 31.532
     },
     {
      "w": "you",
-     "start": 31.66,
-     "end": 31.733
+     "start": 31.573,
+     "end": 31.646
     },
     {
      "w": "add",
-     "start": 31.795,
-     "end": 31.94
+     "start": 31.708,
+     "end": 31.854
     },
     {
      "w": "a",
-     "start": 31.971,
-     "end": 31.992
+     "start": 31.885,
+     "end": 31.905
     },
     {
      "w": "room",
-     "start": 32.033,
-     "end": 32.21
+     "start": 31.946,
+     "end": 32.123
     },
     {
      "w": "full",
-     "start": 32.282,
-     "end": 32.479
+     "start": 32.196,
+     "end": 32.393
     },
     {
      "w": "of",
-     "start": 32.531,
-     "end": 32.583
+     "start": 32.445,
+     "end": 32.496
     },
     {
      "w": "batteries",
-     "start": 32.635,
-     "end": 33.018
+     "start": 32.548,
+     "end": 32.931
     },
     {
      "w": "that",
-     "start": 33.049,
-     "end": 33.163
+     "start": 32.962,
+     "end": 33.077
     },
     {
      "w": "kicks",
-     "start": 33.225,
-     "end": 33.454
+     "start": 33.138,
+     "end": 33.367
     },
     {
      "w": "in",
-     "start": 33.505,
-     "end": 33.588
+     "start": 33.419,
+     "end": 33.502
     },
     {
      "w": "instantly,",
-     "start": 33.671,
-     "end": 34.305
+     "start": 33.585,
+     "end": 34.219
     },
     {
      "w": "and",
-     "start": 34.365,
-     "end": 34.499
+     "start": 34.279,
+     "end": 34.413
     },
     {
      "w": "diesel",
-     "start": 34.572,
-     "end": 34.852
+     "start": 34.486,
+     "end": 34.765
     },
     {
      "w": "generators",
-     "start": 34.894,
-     "end": 35.35
+     "start": 34.807,
+     "end": 35.263
     },
     {
      "w": "that",
-     "start": 35.391,
-     "end": 35.505
+     "start": 35.304,
+     "end": 35.419
     },
     {
      "w": "roar",
-     "start": 35.578,
-     "end": 35.805
+     "start": 35.491,
+     "end": 35.719
     },
     {
      "w": "to",
-     "start": 35.868,
-     "end": 35.93
+     "start": 35.781,
+     "end": 35.844
     },
     {
      "w": "life",
-     "start": 36.013,
-     "end": 36.272
+     "start": 35.927,
+     "end": 36.186
     },
     {
      "w": "in",
-     "start": 36.313,
-     "end": 36.386
+     "start": 36.227,
+     "end": 36.299
     },
     {
      "w": "ten",
-     "start": 36.448,
-     "end": 36.677
+     "start": 36.362,
+     "end": 36.59
     },
     {
      "w": "seconds.",
-     "start": 36.759,
-     "end": 37.452
+     "start": 36.672,
+     "end": 37.365
     }
    ]
   },
   {
    "line": 8,
-   "start": 37.764,
-   "end": 42.45,
+   "start": 37.678,
+   "end": 42.363,
    "text": "Now it never stops, until someone walks in and trips over the most important cable in the building.",
    "words": [
     {
      "w": "Now",
-     "start": 37.764,
-     "end": 37.951
+     "start": 37.678,
+     "end": 37.864
     },
     {
      "w": "it",
-     "start": 38.003,
-     "end": 38.065
+     "start": 37.916,
+     "end": 37.979
     },
     {
      "w": "never",
-     "start": 38.106,
-     "end": 38.262
+     "start": 38.02,
+     "end": 38.175
     },
     {
      "w": "stops,",
-     "start": 38.313,
-     "end": 38.889
+     "start": 38.227,
+     "end": 38.803
     },
     {
      "w": "until",
-     "start": 38.978,
-     "end": 39.196
+     "start": 38.891,
+     "end": 39.109
     },
     {
      "w": "someone",
-     "start": 39.237,
-     "end": 39.486
+     "start": 39.151,
+     "end": 39.399
     },
     {
      "w": "walks",
-     "start": 39.517,
-     "end": 39.766
+     "start": 39.43,
+     "end": 39.679
     },
     {
      "w": "in",
-     "start": 39.818,
-     "end": 39.973
+     "start": 39.731,
+     "end": 39.887
     },
     {
      "w": "and",
-     "start": 40.036,
-     "end": 40.139
+     "start": 39.949,
+     "end": 40.053
     },
     {
      "w": "trips",
-     "start": 40.18,
-     "end": 40.429
+     "start": 40.094,
+     "end": 40.343
     },
     {
      "w": "over",
-     "start": 40.471,
-     "end": 40.626
+     "start": 40.384,
+     "end": 40.539
     },
     {
      "w": "the",
-     "start": 40.668,
-     "end": 40.729
+     "start": 40.581,
+     "end": 40.643
     },
     {
      "w": "most",
-     "start": 40.803,
-     "end": 41.01
+     "start": 40.716,
+     "end": 40.923
     },
     {
      "w": "important",
-     "start": 41.051,
-     "end": 41.497
+     "start": 40.964,
+     "end": 41.411
     },
     {
      "w": "cable",
-     "start": 41.538,
-     "end": 41.818
+     "start": 41.452,
+     "end": 41.731
     },
     {
      "w": "in",
-     "start": 41.849,
-     "end": 41.901
+     "start": 41.762,
+     "end": 41.814
     },
     {
      "w": "the",
-     "start": 41.932,
-     "end": 41.995
+     "start": 41.846,
+     "end": 41.908
     },
     {
      "w": "building.",
-     "start": 42.026,
-     "end": 42.854
+     "start": 41.939,
+     "end": 42.768
     }
    ]
   },
   {
    "line": 9,
-   "start": 42.762,
-   "end": 47.828,
+   "start": 42.676,
+   "end": 47.896,
    "text": "So you add fences, guards, cameras, and a door that only opens after it scans your face.",
    "words": [
     {
      "w": "So",
-     "start": 42.762,
-     "end": 42.888
+     "start": 42.676,
+     "end": 42.821
     },
     {
      "w": "you",
-     "start": 42.929,
-     "end": 43.003
+     "start": 42.862,
+     "end": 42.934
     },
     {
      "w": "add",
-     "start": 43.064,
-     "end": 43.199
+     "start": 43.008,
+     "end": 43.132
     },
     {
      "w": "fences,",
-     "start": 43.271,
-     "end": 43.821
+     "start": 43.204,
+     "end": 43.887
     },
     {
      "w": "guards,",
-     "start": 43.956,
-     "end": 44.485
+     "start": 43.982,
+     "end": 44.572
     },
     {
      "w": "cameras,",
-     "start": 44.547,
-     "end": 45.191
+     "start": 44.676,
+     "end": 45.327
     },
     {
      "w": "and",
-     "start": 45.228,
-     "end": 45.372
+     "start": 45.375,
+     "end": 45.509
     },
     {
      "w": "a",
-     "start": 45.424,
-     "end": 45.455
+     "start": 45.561,
+     "end": 45.582
     },
     {
      "w": "door",
-     "start": 45.497,
-     "end": 45.673
+     "start": 45.634,
+     "end": 45.8
     },
     {
      "w": "that",
-     "start": 45.715,
-     "end": 45.819
+     "start": 45.841,
+     "end": 45.945
     },
     {
      "w": "only",
-     "start": 45.88,
-     "end": 46.129
+     "start": 45.996,
+     "end": 46.193
     },
     {
      "w": "opens",
-     "start": 46.192,
-     "end": 46.471
+     "start": 46.255,
+     "end": 46.546
     },
     {
      "w": "after",
-     "start": 46.523,
-     "end": 46.752
+     "start": 46.607,
+     "end": 46.816
     },
     {
      "w": "it",
-     "start": 46.793,
-     "end": 46.855
+     "start": 46.868,
+     "end": 46.929
     },
     {
      "w": "scans",
-     "start": 46.896,
-     "end": 47.177
+     "start": 46.96,
+     "end": 47.229
     },
     {
      "w": "your",
-     "start": 47.207,
-     "end": 47.311
+     "start": 47.271,
+     "end": 47.374
     },
     {
      "w": "face.",
-     "start": 47.363,
-     "end": 48.617
+     "start": 47.428,
+     "end": 48.246
     }
    ]
   },
   {
    "line": 10,
-   "start": 48.14,
-   "end": 52.15,
+   "start": 48.209,
+   "end": 52.22,
    "text": "But before you hit start, follow, because next we're building a desalination plant.",
    "words": [
     {
      "w": "But",
-     "start": 48.14,
-     "end": 48.263
+     "start": 48.209,
+     "end": 48.333
     },
     {
      "w": "before",
-     "start": 48.295,
-     "end": 48.574
+     "start": 48.364,
+     "end": 48.644
     },
     {
      "w": "you",
-     "start": 48.605,
-     "end": 48.679
+     "start": 48.675,
+     "end": 48.748
     },
     {
      "w": "hit",
-     "start": 48.74,
-     "end": 48.865
+     "start": 48.81,
+     "end": 48.935
     },
     {
      "w": "start,",
-     "start": 48.927,
-     "end": 49.31
+     "start": 48.996,
+     "end": 49.379
     },
     {
      "w": "follow,",
-     "start": 49.429,
-     "end": 49.958
+     "start": 49.499,
+     "end": 50.028
     },
     {
      "w": "because",
-     "start": 50.026,
-     "end": 50.286
+     "start": 50.096,
+     "end": 50.355
     },
     {
      "w": "next",
-     "start": 50.327,
-     "end": 50.524
+     "start": 50.396,
+     "end": 50.594
     },
     {
      "w": "we're",
-     "start": 50.555,
-     "end": 50.7
+     "start": 50.625,
+     "end": 50.77
     },
     {
      "w": "building",
-     "start": 50.721,
-     "end": 50.959
+     "start": 50.79,
+     "end": 51.029
     },
     {
      "w": "a",
-     "start": 51.001,
-     "end": 51.021
+     "start": 51.071,
+     "end": 51.091
     },
     {
      "w": "desalination",
-     "start": 51.084,
-     "end": 51.788
+     "start": 51.154,
+     "end": 51.858
     },
     {
      "w": "plant.",
-     "start": 51.84,
-     "end": 52.514
+     "start": 51.91,
+     "end": 52.584
     }
    ]
   },
   {
    "line": 11,
-   "start": 52.462,
-   "end": 55.759,
+   "start": 52.532,
+   "end": 55.828,
    "text": "Now just hide it all inside a plain gray box in the middle of nowhere.",
    "words": [
     {
      "w": "Now",
-     "start": 52.462,
-     "end": 52.649
+     "start": 52.532,
+     "end": 52.719
     },
     {
      "w": "just",
-     "start": 52.712,
-     "end": 52.856
+     "start": 52.781,
+     "end": 52.926
     },
     {
      "w": "hide",
-     "start": 52.908,
-     "end": 53.085
+     "start": 52.978,
+     "end": 53.154
     },
     {
      "w": "it",
-     "start": 53.115,
-     "end": 53.167
+     "start": 53.185,
+     "end": 53.237
     },
     {
      "w": "all",
-     "start": 53.22,
-     "end": 53.385
+     "start": 53.289,
+     "end": 53.454
     },
     {
      "w": "inside",
-     "start": 53.437,
-     "end": 53.737
+     "start": 53.506,
+     "end": 53.807
     },
     {
      "w": "a",
-     "start": 53.769,
-     "end": 53.789
+     "start": 53.838,
+     "end": 53.859
     },
     {
      "w": "plain",
-     "start": 53.841,
-     "end": 54.1
+     "start": 53.911,
+     "end": 54.17
     },
     {
      "w": "gray",
-     "start": 54.162,
-     "end": 54.36
+     "start": 54.232,
+     "end": 54.429
     },
     {
      "w": "box",
-     "start": 54.421,
-     "end": 54.722
+     "start": 54.491,
+     "end": 54.792
     },
     {
      "w": "in",
-     "start": 54.774,
-     "end": 54.826
+     "start": 54.844,
+     "end": 54.896
     },
     {
      "w": "the",
-     "start": 54.857,
-     "end": 54.92
+     "start": 54.927,
+     "end": 54.989
     },
     {
      "w": "middle",
-     "start": 54.95,
-     "end": 55.158
+     "start": 55.02,
+     "end": 55.228
     },
     {
      "w": "of",
-     "start": 55.188,
-     "end": 55.23
+     "start": 55.258,
+     "end": 55.3
     },
     {
      "w": "nowhere.",
-     "start": 55.293,
-     "end": 56.07
+     "start": 55.362,
+     "end": 56.139
     }
    ]
   },
   {
    "line": 12,
-   "start": 56.071,
-   "end": 59.715,
+   "start": 56.14,
+   "end": 59.785,
    "text": "A hundred thousand chips, one city of power, zero windows.",
    "words": [
     {
      "w": "A",
-     "start": 56.071,
-     "end": 56.135
+     "start": 56.14,
+     "end": 56.204
     },
     {
      "w": "hundred",
-     "start": 56.238,
-     "end": 56.508
+     "start": 56.308,
+     "end": 56.578
     },
     {
      "w": "thousand",
-     "start": 56.539,
-     "end": 56.85
+     "start": 56.609,
+     "end": 56.92
     },
     {
      "w": "chips,",
-     "start": 56.912,
-     "end": 57.41
+     "start": 56.982,
+     "end": 57.479
     },
     {
      "w": "one",
-     "start": 57.507,
-     "end": 57.714
+     "start": 57.577,
+     "end": 57.784
     },
     {
      "w": "city",
-     "start": 57.766,
-     "end": 57.984
+     "start": 57.836,
+     "end": 58.054
     },
     {
      "w": "of",
-     "start": 58.026,
-     "end": 58.078
+     "start": 58.096,
+     "end": 58.147
     },
     {
      "w": "power,",
-     "start": 58.139,
-     "end": 58.616
+     "start": 58.209,
+     "end": 58.686
     },
     {
      "w": "zero",
-     "start": 58.749,
-     "end": 59.112
+     "start": 58.819,
+     "end": 59.182
     },
     {
      "w": "windows.",
-     "start": 59.174,
-     "end": 60.242
+     "start": 59.244,
+     "end": 60.312
     }
    ]
   },
   {
    "line": 13,
-   "start": 60.028,
-   "end": 63.154,
+   "start": 60.097,
+   "end": 63.223,
    "text": "And congrats, you just built an AI data center yourself.",
    "words": [
     {
      "w": "And",
-     "start": 60.028,
-     "end": 60.134
+     "start": 60.097,
+     "end": 60.204
     },
     {
      "w": "congrats,",
-     "start": 60.186,
-     "end": 60.876
+     "start": 60.255,
+     "end": 60.946
     },
     {
      "w": "you",
-     "start": 60.964,
-     "end": 61.057
+     "start": 61.034,
+     "end": 61.127
     },
     {
      "w": "just",
-     "start": 61.12,
-     "end": 61.254
+     "start": 61.189,
+     "end": 61.324
     },
     {
      "w": "built",
-     "start": 61.296,
-     "end": 61.472
+     "start": 61.365,
+     "end": 61.542
     },
     {
      "w": "an",
-     "start": 61.513,
-     "end": 61.565
+     "start": 61.583,
+     "end": 61.635
     },
     {
      "w": "AI",
-     "start": 61.638,
-     "end": 61.897
+     "start": 61.707,
+     "end": 61.967
     },
     {
      "w": "data",
-     "start": 61.959,
-     "end": 62.177
+     "start": 62.029,
+     "end": 62.246
     },
     {
      "w": "center",
-     "start": 62.229,
-     "end": 62.446
+     "start": 62.298,
+     "end": 62.516
     },
     {
      "w": "yourself.",
-     "start": 62.509,
-     "end": 63.919
+     "start": 62.579,
+     "end": 63.988
     }
    ]
   },
   {
    "line": 14,
-   "start": 63.466,
-   "end": 66.801,
+   "start": 63.536,
+   "end": 66.871,
    "text": "And all that power? Half the time, it's helping someone name their cat.",
    "words": [
     {
      "w": "And",
-     "start": 63.466,
-     "end": 63.575
+     "start": 63.536,
+     "end": 63.644
     },
     {
      "w": "all",
-     "start": 63.617,
-     "end": 63.731
+     "start": 63.686,
+     "end": 63.8
     },
     {
      "w": "that",
-     "start": 63.783,
-     "end": 63.896
+     "start": 63.852,
+     "end": 63.965
     },
     {
      "w": "power?",
-     "start": 63.948,
-     "end": 64.404
+     "start": 64.017,
+     "end": 64.473
     },
     {
      "w": "Half",
-     "start": 64.488,
-     "end": 64.685
+     "start": 64.556,
+     "end": 64.754
     },
     {
      "w": "the",
-     "start": 64.737,
-     "end": 64.799
+     "start": 64.805,
+     "end": 64.868
     },
     {
      "w": "time,",
-     "start": 64.84,
-     "end": 65.224
+     "start": 64.909,
+     "end": 65.293
     },
     {
      "w": "it's",
-     "start": 65.301,
-     "end": 65.446
+     "start": 65.37,
+     "end": 65.514
     },
     {
      "w": "helping",
-     "start": 65.477,
-     "end": 65.695
+     "start": 65.546,
+     "end": 65.763
     },
     {
      "w": "someone",
-     "start": 65.746,
-     "end": 66.026
+     "start": 65.815,
+     "end": 66.095
     },
     {
      "w": "name",
-     "start": 66.057,
-     "end": 66.223
+     "start": 66.126,
+     "end": 66.292
     },
     {
      "w": "their",
-     "start": 66.244,
-     "end": 66.369
+     "start": 66.312,
+     "end": 66.437
     },
     {
      "w": "cat.",
-     "start": 66.421,
-     "end": 67.053
+     "start": 66.489,
+     "end": 67.121
     }
    ]
   }
