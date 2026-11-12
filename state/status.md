@@ -1,4 +1,4 @@
-# Post status 2026-11-12T12:14:10+00:00
+# Post status 2026-11-12T12:40:09+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -128,3 +128,9 @@
 | ep21-cruise | en.instagram | scheduled |  | 2026-11-12T14:00:00.000Z |
 | ep21-cruise | en.tiktok | scheduled |  | 2026-11-12T14:00:00.000Z |
 | ep21-cruise | en.youtube | scheduled |  | 2026-11-12T14:00:00.000Z |
+| ep22-datacenter | ar.instagram | scheduled |  | 2026-11-12T19:00:00.000Z |
+| ep22-datacenter | ar.tiktok | scheduled |  | 2026-11-12T19:00:00.000Z |
+| ep22-datacenter | ar.youtube | scheduled |  | 2026-11-12T19:00:00.000Z |
+| ep22-datacenter | en.instagram | scheduled |  | 2026-11-12T18:00:00.000Z |
+| ep22-datacenter | en.tiktok | scheduled |  | 2026-11-12T18:00:00.000Z |
+| ep22-datacenter | en.youtube | scheduled |  | 2026-11-12T18:00:00.000Z |
