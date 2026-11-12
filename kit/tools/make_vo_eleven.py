@@ -10,6 +10,7 @@ usage:
 - Writes the same files as the other voice tools: <out>.wav / .json (line and word times) / .mp3 (-14 LUFS preview),
   plus <out>_lines/ with one take per line (L01.mp3 + L01.json). Run it again and only missing lines are requested;
   --only 3,7 records lines 3 and 7 again and keeps the rest (credits are spent only on what is requested).
+- Pauses inside a line longer than --pause seconds are shortened (ElevenLabs pauses long at commas).
 - A voice longer than --max seconds is sped up (12% at most), one shorter than --min slowed down (8% at most), so the
   video stays inside its length window.
 - The key is read from the environment and is never printed or written anywhere.
@@ -39,6 +40,7 @@ ap.add_argument("--gap", type=float, default=0.35)
 ap.add_argument("--max", type=float, default=66.0)
 ap.add_argument("--min", type=float, default=59.0)
 ap.add_argument("--speed", type=float, default=1.0)
+ap.add_argument("--pause", type=float, default=0.22, help="longest pause kept inside a line, seconds")
 ap.add_argument("--stability", type=float, default=0.45)
 ap.add_argument("--similarity", type=float, default=0.8)
 ap.add_argument("--style", type=float, default=0.2)
@@ -90,13 +92,14 @@ for i in range(len(lines)):
     mp3, js = os.path.join(ldir, f"L{i + 1:02d}.mp3"), os.path.join(ldir, f"L{i + 1:02d}.json")
     if os.path.exists(mp3) and os.path.exists(js) and (i + 1) not in only:
         old = json.load(open(js, encoding="utf-8"))
-        if old.get("text") == lines[i] and old.get("voice") == a.voice and old.get("model") == a.model:
+        if (old.get("text") == lines[i] and old.get("voice") == a.voice and old.get("model") == a.model
+                and abs(old.get("speed", 1.0) - a.speed) < 1e-6):
             continue
     d = request(i)
     sent += len(lines[i])
     open(mp3, "wb").write(base64.b64decode(d["audio_base64"]))
     al = d.get("alignment") or d.get("normalized_alignment") or {}
-    json.dump({"text": lines[i], "voice": a.voice, "model": a.model, "chars": al.get("characters", []),
+    json.dump({"text": lines[i], "voice": a.voice, "model": a.model, "speed": a.speed, "chars": al.get("characters", []),
                "starts": al.get("character_start_times_seconds", []), "ends": al.get("character_end_times_seconds", [])},
               open(js, "w", encoding="utf-8"), ensure_ascii=False)
     print(f"  L{i + 1:02d} recorded ({len(lines[i])} characters)", flush=True)
@@ -119,6 +122,46 @@ def words_of(chars, starts, ends):
     return out
 
 
+def cap_pauses(y, cap):
+    """Shorten every quiet stretch inside a line to `cap` seconds. Returns the audio and a time map old -> new."""
+    hop = int(0.01 * SR)
+    n = len(y) // hop
+    if cap <= 0 or n < 3:
+        return y, (lambda t: t)
+    e = np.array([np.sqrt(np.mean(y[i * hop:(i + 1) * hop] ** 2) + 1e-12) for i in range(n)])
+    quiet = e < max(1e-4, 0.03 * np.percentile(e, 95))
+    cuts, i = [], 0
+    while i < n:
+        if not quiet[i]:
+            i += 1
+            continue
+        j = i
+        while j < n and quiet[j]:
+            j += 1
+        if (j - i) * 0.01 > cap:
+            c0, c1 = i * 0.01 + cap / 2, j * 0.01 - cap / 2
+            if c1 > c0:
+                cuts.append((c0, c1))
+        i = j
+    if not cuts:
+        return y, (lambda t: t)
+    parts, last = [], 0.0
+    for c0, c1 in cuts:
+        parts.append(y[int(last * SR): int(c0 * SR)])
+        last = c1
+    parts.append(y[int(last * SR):])
+
+    def remap(t):
+        d = 0.0
+        for c0, c1 in cuts:
+            if t >= c1:
+                d += c1 - c0
+            elif t > c0:
+                d += t - c0
+        return t - d
+    return np.concatenate(parts).astype(np.float32), remap
+
+
 gap = np.zeros(int(a.gap * SR), np.float32)
 audio, out_lines, t = [], [], 0.0
 for i in range(len(lines)):
@@ -129,7 +172,9 @@ for i in range(len(lines)):
     a1 = min(len(y), nz[-1] + int(0.10 * SR)) if len(nz) else len(y)
     y = y[a0:a1]
     shift = a0 / SR
-    ws = [{"w": w["w"], "start": round(t + max(0.0, w["start"] - shift), 3), "end": round(t + max(0.0, w["end"] - shift), 3)}
+    y, remap = cap_pauses(y, a.pause)
+    ws = [{"w": w["w"], "start": round(t + remap(max(0.0, w["start"] - shift)), 3),
+           "end": round(t + remap(max(0.0, w["end"] - shift)), 3)}
           for w in words_of(take["chars"], take["starts"], take["ends"])]
     if i:
         audio.append(gap)

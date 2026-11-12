@@ -92,7 +92,8 @@ def make(slug, kit, langs, look):
                     if not os.environ.get("ELEVENLABS_API_KEY"):
                         raise RuntimeError("voices.yml asks for ElevenLabs but the ELEVENLABS_API_KEY secret is not set")
                     run([sys.executable, "-I", "-u", "tools/make_vo_eleven.py", "series/" + L["lines"].format(kit=kit), vo,
-                         "--voice", str(eng["voice"]), "--model", eng.get("model", "eleven_multilingual_v2")]
+                         "--voice", str(eng["voice"]), "--model", eng.get("model", "eleven_multilingual_v2"),
+                         "--speed", str(eng.get("speed", 1.0)), "--pause", str(eng.get("pause", 0.22))]
                         + (["--only", fix] if have and fix else []), log, env)
                 elif lang == "ar":
                     run([sys.executable, "-I", "-u", "tools/make_vo_namaa.py", f"series/{kit}_lines_ar_sa.txt", vo,
