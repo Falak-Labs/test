@@ -1,0 +1,239 @@
+{
+ "slug": "ep21-cruise",
+ "kit": "cruise",
+ "langs": {
+  "en": {
+   "ok": false,
+   "lines": [
+    {
+     "line": "01",
+     "text": "If you put a hotel on a boat, congrats, you just built a cruise ship.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "But a hotel is tall, so the first big wave tips it right over.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "So you make the hull wide and put the heaviest stuff at the bottom: engines, fuel and water, so it always rolls back up.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "Now it stays up, but every wave rocks it, and three thousand guests turn green at the buffet.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "So you add stabilizer fins, two wings under the water that tilt against every roll and stop up to ninety percent of the rocking.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "But seven thousand people need showers, and the nearest tap is a week away.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "So you build a water factory below deck that squeezes seawater through filters so fine that only water gets through.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "Now it's a floating city, until you try to park it in a harbor with no room to turn.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "So you put the propellers on pods that spin all the way around, and thrusters in the nose, so it slides sideways into the dock.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "But before you leave port, follow, because next we're building an AI data center.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "Now just stack twenty decks on top, with pools, a water park and a theater.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "Twenty decks, seven thousand guests, zero parking spots.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "And congrats, you just built a cruise ship yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "And if you're late back from shore? It leaves without you. There are videos. Thousands of them.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 73.1,
+   "lufs": -14.1,
+   "peak": -1.9,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [
+    "length 73.1s outside 61.0-70.5"
+   ],
+   "mix_word_errors": "9/236",
+   "mix_lines_off": [
+    "L 3 1 diff  | So you make the whole wide and put the heaviest stuff at the bottom. Engines, fuel, and water. So it always rolls back up.",
+    "L 4 1 diff  | Now it stays up, but every wave rocks it, and 3,000 guests turn green at the buffet.",
+    "L 5 2 diff  | So you add stabilizer fins, two wings under the water that tilt against every roll, and stop up to 90% of the rocking.",
+    "L 6 3 diff  | But 7,000 people need showers, and the nearest tab is a week away.",
+    "L12 2 diff  | 20 decks, 7,000 guests, zero parking spots."
+   ],
+   "size_mb": 19.3
+  },
+  "ar": {
+   "ok": false,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو حطّيت فندق على قارب، مبروك، كذا سويت لك سفينة سياحية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الفندق طويل، وأول موجة كبيرة تقلبه على جنبه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتخلّي جسم السفينة عريض، وتحط الأشياء الثقيلة تحت خالص: المكاين والوقود والموية، عشان ترجع تعتدل دايم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "الحين ما تنقلب، بس كل موجة تهزّها، وثلاثة آلاف راكب يدوخون عند البوفيه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتركّب لها زعانف تثبيت، جناحين تحت الموية يميلون عكس كل هزّة، ويوقفون لين تسعين بالمية من التمايل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس سبعة آلاف شخص يبون يتروشون، وأقرب حنفية بعيدة أسبوع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتسوي مصنع موية تحت: يعصر موية البحر في فلاتر ناعمة مرة، ما يعدي منها إلا الموية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "الحين صارت مدينة عايمة، لين تبي توقفها في ميناء ما فيه مكان تلف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتركّب المراوح على قواعد تلف دورة كاملة، وتحط مراوح جانبية في المقدمة، فتنزلق على جنبها لين الرصيف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تطلع من الميناء، تابعني، لأن الجاي بنبني مركز بيانات للذكاء الاصطناعي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين بس ركّب فوقها عشرين دور، فيها مسابح ومدينة ألعاب مائية ومسرح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "عشرين دور، سبعة آلاف راكب، وصفر مواقف سيارات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك سفينة سياحية بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وإذا تأخرت وإنت نازل البر؟ تمشي وتخليك. وفيه مقاطع. بالآلاف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 87.37,
+   "lufs": -14.0,
+   "peak": 1.5,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [
+    "length 87.4s outside 60.5-80.0",
+    "peak 1.5"
+   ],
+   "size_mb": 21.7
+  }
+ }
+}

@@ -1,0 +1,1303 @@
+{
+ "voice": "elevenlabs:XA3P1cj7XJexe6Zq0ATX",
+ "model": "eleven_multilingual_v2",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 70.013,
+ "words": 236,
+ "words_per_sec": 3.37,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.409,
+   "text": "If you put a hotel on a boat, congrats, you just built a cruise ship.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.0,
+     "end": 0.091
+    },
+    {
+     "w": "you",
+     "start": 0.122,
+     "end": 0.195
+    },
+    {
+     "w": "put",
+     "start": 0.246,
+     "end": 0.361
+    },
+    {
+     "w": "a",
+     "start": 0.391,
+     "end": 0.412
+    },
+    {
+     "w": "hotel",
+     "start": 0.474,
+     "end": 0.786
+    },
+    {
+     "w": "on",
+     "start": 0.847,
+     "end": 0.921
+    },
+    {
+     "w": "a",
+     "start": 0.962,
+     "end": 0.982
+    },
+    {
+     "w": "boat,",
+     "start": 1.034,
+     "end": 1.397
+    },
+    {
+     "w": "congrats,",
+     "start": 1.511,
+     "end": 2.205
+    },
+    {
+     "w": "you",
+     "start": 2.268,
+     "end": 2.351
+    },
+    {
+     "w": "just",
+     "start": 2.412,
+     "end": 2.537
+    },
+    {
+     "w": "built",
+     "start": 2.568,
+     "end": 2.734
+    },
+    {
+     "w": "a",
+     "start": 2.776,
+     "end": 2.796
+    },
+    {
+     "w": "cruise",
+     "start": 2.828,
+     "end": 3.066
+    },
+    {
+     "w": "ship.",
+     "start": 3.087,
+     "end": 3.874
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 3.721,
+   "end": 7.131,
+   "text": "But a hotel is tall, so the first big wave tips it right over.",
+   "words": [
+    {
+     "w": "But",
+     "start": 3.721,
+     "end": 3.84
+    },
+    {
+     "w": "a",
+     "start": 3.871,
+     "end": 3.892
+    },
+    {
+     "w": "hotel",
+     "start": 3.954,
+     "end": 4.306
+    },
+    {
+     "w": "is",
+     "start": 4.369,
+     "end": 4.452
+    },
+    {
+     "w": "tall,",
+     "start": 4.524,
+     "end": 4.99
+    },
+    {
+     "w": "so",
+     "start": 5.125,
+     "end": 5.239
+    },
+    {
+     "w": "the",
+     "start": 5.291,
+     "end": 5.354
+    },
+    {
+     "w": "first",
+     "start": 5.405,
+     "end": 5.623
+    },
+    {
+     "w": "big",
+     "start": 5.664,
+     "end": 5.82
+    },
+    {
+     "w": "wave",
+     "start": 5.871,
+     "end": 6.11
+    },
+    {
+     "w": "tips",
+     "start": 6.141,
+     "end": 6.359
+    },
+    {
+     "w": "it",
+     "start": 6.4,
+     "end": 6.462
+    },
+    {
+     "w": "right",
+     "start": 6.546,
+     "end": 6.753
+    },
+    {
+     "w": "over.",
+     "start": 6.795,
+     "end": 7.364
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 7.444,
+   "end": 14.812,
+   "text": "So you make the hull wide and put the heaviest stuff at the bottom: engines, fuel and water, so it always rolls back up.",
+   "words": [
+    {
+     "w": "So",
+     "start": 7.444,
+     "end": 7.587
+    },
+    {
+     "w": "you",
+     "start": 7.638,
+     "end": 7.701
+    },
+    {
+     "w": "make",
+     "start": 7.753,
+     "end": 7.897
+    },
+    {
+     "w": "the",
+     "start": 7.919,
+     "end": 7.98
+    },
+    {
+     "w": "hull",
+     "start": 8.043,
+     "end": 8.24
+    },
+    {
+     "w": "wide",
+     "start": 8.302,
+     "end": 8.675
+    },
+    {
+     "w": "and",
+     "start": 8.737,
+     "end": 8.872
+    },
+    {
+     "w": "put",
+     "start": 8.913,
+     "end": 9.048
+    },
+    {
+     "w": "the",
+     "start": 9.079,
+     "end": 9.142
+    },
+    {
+     "w": "heaviest",
+     "start": 9.214,
+     "end": 9.577
+    },
+    {
+     "w": "stuff",
+     "start": 9.608,
+     "end": 9.826
+    },
+    {
+     "w": "at",
+     "start": 9.867,
+     "end": 9.919
+    },
+    {
+     "w": "the",
+     "start": 9.95,
+     "end": 10.012
+    },
+    {
+     "w": "bottom:",
+     "start": 10.064,
+     "end": 10.469
+    },
+    {
+     "w": "engines,",
+     "start": 10.862,
+     "end": 11.474
+    },
+    {
+     "w": "fuel",
+     "start": 11.578,
+     "end": 11.951
+    },
+    {
+     "w": "and",
+     "start": 12.106,
+     "end": 12.241
+    },
+    {
+     "w": "water,",
+     "start": 12.324,
+     "end": 12.832
+    },
+    {
+     "w": "so",
+     "start": 13.08,
+     "end": 13.163
+    },
+    {
+     "w": "it",
+     "start": 13.226,
+     "end": 13.278
+    },
+    {
+     "w": "always",
+     "start": 13.298,
+     "end": 13.464
+    },
+    {
+     "w": "rolls",
+     "start": 13.505,
+     "end": 13.692
+    },
+    {
+     "w": "back",
+     "start": 13.734,
+     "end": 13.91
+    },
+    {
+     "w": "up.",
+     "start": 13.972,
+     "end": 14.812
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 15.125,
+   "end": 19.83,
+   "text": "Now it stays up, but every wave rocks it, and three thousand guests turn green at the buffet.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 15.125,
+     "end": 15.29
+    },
+    {
+     "w": "it",
+     "start": 15.342,
+     "end": 15.404
+    },
+    {
+     "w": "stays",
+     "start": 15.446,
+     "end": 15.715
+    },
+    {
+     "w": "up,",
+     "start": 15.778,
+     "end": 15.996
+    },
+    {
+     "w": "but",
+     "start": 16.099,
+     "end": 16.254
+    },
+    {
+     "w": "every",
+     "start": 16.306,
+     "end": 16.524
+    },
+    {
+     "w": "wave",
+     "start": 16.576,
+     "end": 16.783
+    },
+    {
+     "w": "rocks",
+     "start": 16.835,
+     "end": 17.115
+    },
+    {
+     "w": "it,",
+     "start": 17.167,
+     "end": 17.354
+    },
+    {
+     "w": "and",
+     "start": 17.457,
+     "end": 17.581
+    },
+    {
+     "w": "three",
+     "start": 17.633,
+     "end": 17.83
+    },
+    {
+     "w": "thousand",
+     "start": 17.862,
+     "end": 18.162
+    },
+    {
+     "w": "guests",
+     "start": 18.224,
+     "end": 18.546
+    },
+    {
+     "w": "turn",
+     "start": 18.597,
+     "end": 18.795
+    },
+    {
+     "w": "green",
+     "start": 18.867,
+     "end": 19.126
+    },
+    {
+     "w": "at",
+     "start": 19.168,
+     "end": 19.229
+    },
+    {
+     "w": "the",
+     "start": 19.261,
+     "end": 19.323
+    },
+    {
+     "w": "buffet.",
+     "start": 19.354,
+     "end": 20.421
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 20.143,
+   "end": 26.83,
+   "text": "So you add stabilizer fins, two wings under the water that tilt against every roll and stop up to ninety percent of the rocking.",
+   "words": [
+    {
+     "w": "So",
+     "start": 20.143,
+     "end": 20.298
+    },
+    {
+     "w": "you",
+     "start": 20.35,
+     "end": 20.422
+    },
+    {
+     "w": "add",
+     "start": 20.496,
+     "end": 20.651
+    },
+    {
+     "w": "stabilizer",
+     "start": 20.713,
+     "end": 21.283
+    },
+    {
+     "w": "fins,",
+     "start": 21.346,
+     "end": 21.874
+    },
+    {
+     "w": "two",
+     "start": 22.009,
+     "end": 22.196
+    },
+    {
+     "w": "wings",
+     "start": 22.257,
+     "end": 22.517
+    },
+    {
+     "w": "under",
+     "start": 22.558,
+     "end": 22.693
+    },
+    {
+     "w": "the",
+     "start": 22.734,
+     "end": 22.796
+    },
+    {
+     "w": "water",
+     "start": 22.848,
+     "end": 23.107
+    },
+    {
+     "w": "that",
+     "start": 23.149,
+     "end": 23.263
+    },
+    {
+     "w": "tilt",
+     "start": 23.315,
+     "end": 23.543
+    },
+    {
+     "w": "against",
+     "start": 23.585,
+     "end": 23.833
+    },
+    {
+     "w": "every",
+     "start": 23.905,
+     "end": 24.165
+    },
+    {
+     "w": "roll",
+     "start": 24.237,
+     "end": 24.487
+    },
+    {
+     "w": "and",
+     "start": 24.704,
+     "end": 24.87
+    },
+    {
+     "w": "stop",
+     "start": 24.912,
+     "end": 25.129
+    },
+    {
+     "w": "up",
+     "start": 25.191,
+     "end": 25.274
+    },
+    {
+     "w": "to",
+     "start": 25.315,
+     "end": 25.367
+    },
+    {
+     "w": "ninety",
+     "start": 25.471,
+     "end": 25.751
+    },
+    {
+     "w": "percent",
+     "start": 25.813,
+     "end": 26.124
+    },
+    {
+     "w": "of",
+     "start": 26.165,
+     "end": 26.217
+    },
+    {
+     "w": "the",
+     "start": 26.248,
+     "end": 26.311
+    },
+    {
+     "w": "rocking.",
+     "start": 26.362,
+     "end": 27.316
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 27.143,
+   "end": 30.805,
+   "text": "But seven thousand people need showers, and the nearest tap is a week away.",
+   "words": [
+    {
+     "w": "But",
+     "start": 27.143,
+     "end": 27.273
+    },
+    {
+     "w": "seven",
+     "start": 27.336,
+     "end": 27.595
+    },
+    {
+     "w": "thousand",
+     "start": 27.657,
+     "end": 28.02
+    },
+    {
+     "w": "people",
+     "start": 28.071,
+     "end": 28.321
+    },
+    {
+     "w": "need",
+     "start": 28.352,
+     "end": 28.507
+    },
+    {
+     "w": "showers,",
+     "start": 28.548,
+     "end": 29.056
+    },
+    {
+     "w": "and",
+     "start": 29.119,
+     "end": 29.243
+    },
+    {
+     "w": "the",
+     "start": 29.284,
+     "end": 29.346
+    },
+    {
+     "w": "nearest",
+     "start": 29.367,
+     "end": 29.616
+    },
+    {
+     "w": "tap",
+     "start": 29.657,
+     "end": 29.917
+    },
+    {
+     "w": "is",
+     "start": 29.979,
+     "end": 30.062
+    },
+    {
+     "w": "a",
+     "start": 30.113,
+     "end": 30.135
+    },
+    {
+     "w": "week",
+     "start": 30.207,
+     "end": 30.404
+    },
+    {
+     "w": "away.",
+     "start": 30.455,
+     "end": 31.223
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 31.118,
+   "end": 37.296,
+   "text": "So you build a water factory below deck that squeezes seawater through filters so fine that only water gets through.",
+   "words": [
+    {
+     "w": "So",
+     "start": 31.118,
+     "end": 31.232
+    },
+    {
+     "w": "you",
+     "start": 31.284,
+     "end": 31.346
+    },
+    {
+     "w": "build",
+     "start": 31.397,
+     "end": 31.543
+    },
+    {
+     "w": "a",
+     "start": 31.584,
+     "end": 31.605
+    },
+    {
+     "w": "water",
+     "start": 31.657,
+     "end": 31.885
+    },
+    {
+     "w": "factory",
+     "start": 31.937,
+     "end": 32.279
+    },
+    {
+     "w": "below",
+     "start": 32.341,
+     "end": 32.559
+    },
+    {
+     "w": "deck",
+     "start": 32.621,
+     "end": 32.859
+    },
+    {
+     "w": "that",
+     "start": 32.932,
+     "end": 33.087
+    },
+    {
+     "w": "squeezes",
+     "start": 33.16,
+     "end": 33.605
+    },
+    {
+     "w": "seawater",
+     "start": 33.657,
+     "end": 34.104
+    },
+    {
+     "w": "through",
+     "start": 34.135,
+     "end": 34.331
+    },
+    {
+     "w": "filters",
+     "start": 34.373,
+     "end": 34.725
+    },
+    {
+     "w": "so",
+     "start": 34.777,
+     "end": 34.954
+    },
+    {
+     "w": "fine",
+     "start": 35.026,
+     "end": 35.327
+    },
+    {
+     "w": "that",
+     "start": 35.347,
+     "end": 35.462
+    },
+    {
+     "w": "only",
+     "start": 35.523,
+     "end": 35.721
+    },
+    {
+     "w": "water",
+     "start": 35.793,
+     "end": 36.062
+    },
+    {
+     "w": "gets",
+     "start": 36.114,
+     "end": 36.29
+    },
+    {
+     "w": "through.",
+     "start": 36.321,
+     "end": 37.296
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 37.609,
+   "end": 41.402,
+   "text": "Now it's a floating city, until you try to park it in a harbor with no room to turn.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 37.609,
+     "end": 37.774
+    },
+    {
+     "w": "it's",
+     "start": 37.815,
+     "end": 37.919
+    },
+    {
+     "w": "a",
+     "start": 37.95,
+     "end": 37.971
+    },
+    {
+     "w": "floating",
+     "start": 38.022,
+     "end": 38.323
+    },
+    {
+     "w": "city,",
+     "start": 38.375,
+     "end": 38.769
+    },
+    {
+     "w": "until",
+     "start": 38.821,
+     "end": 39.029
+    },
+    {
+     "w": "you",
+     "start": 39.059,
+     "end": 39.121
+    },
+    {
+     "w": "try",
+     "start": 39.162,
+     "end": 39.277
+    },
+    {
+     "w": "to",
+     "start": 39.319,
+     "end": 39.36
+    },
+    {
+     "w": "park",
+     "start": 39.412,
+     "end": 39.598
+    },
+    {
+     "w": "it",
+     "start": 39.64,
+     "end": 39.702
+    },
+    {
+     "w": "in",
+     "start": 39.744,
+     "end": 39.796
+    },
+    {
+     "w": "a",
+     "start": 39.837,
+     "end": 39.857
+    },
+    {
+     "w": "harbor",
+     "start": 39.92,
+     "end": 40.199
+    },
+    {
+     "w": "with",
+     "start": 40.252,
+     "end": 40.376
+    },
+    {
+     "w": "no",
+     "start": 40.459,
+     "end": 40.594
+    },
+    {
+     "w": "room",
+     "start": 40.655,
+     "end": 40.821
+    },
+    {
+     "w": "to",
+     "start": 40.873,
+     "end": 40.915
+    },
+    {
+     "w": "turn.",
+     "start": 40.967,
+     "end": 41.754
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 41.714,
+   "end": 48.221,
+   "text": "So you put the propellers on pods that spin all the way around, and thrusters in the nose, so it slides sideways into the dock.",
+   "words": [
+    {
+     "w": "So",
+     "start": 41.714,
+     "end": 41.841
+    },
+    {
+     "w": "you",
+     "start": 41.882,
+     "end": 41.945
+    },
+    {
+     "w": "put",
+     "start": 41.986,
+     "end": 42.1
+    },
+    {
+     "w": "the",
+     "start": 42.131,
+     "end": 42.193
+    },
+    {
+     "w": "propellers",
+     "start": 42.224,
+     "end": 42.639
+    },
+    {
+     "w": "on",
+     "start": 42.68,
+     "end": 42.763
+    },
+    {
+     "w": "pods",
+     "start": 42.836,
+     "end": 43.188
+    },
+    {
+     "w": "that",
+     "start": 43.24,
+     "end": 43.375
+    },
+    {
+     "w": "spin",
+     "start": 43.437,
+     "end": 43.717
+    },
+    {
+     "w": "all",
+     "start": 43.821,
+     "end": 44.048
+    },
+    {
+     "w": "the",
+     "start": 44.09,
+     "end": 44.153
+    },
+    {
+     "w": "way",
+     "start": 44.194,
+     "end": 44.308
+    },
+    {
+     "w": "around,",
+     "start": 44.349,
+     "end": 44.846
+    },
+    {
+     "w": "and",
+     "start": 44.961,
+     "end": 45.085
+    },
+    {
+     "w": "thrusters",
+     "start": 45.137,
+     "end": 45.562
+    },
+    {
+     "w": "in",
+     "start": 45.593,
+     "end": 45.645
+    },
+    {
+     "w": "the",
+     "start": 45.687,
+     "end": 45.749
+    },
+    {
+     "w": "nose,",
+     "start": 45.801,
+     "end": 46.267
+    },
+    {
+     "w": "so",
+     "start": 46.454,
+     "end": 46.546
+    },
+    {
+     "w": "it",
+     "start": 46.609,
+     "end": 46.661
+    },
+    {
+     "w": "slides",
+     "start": 46.703,
+     "end": 47.024
+    },
+    {
+     "w": "sideways",
+     "start": 47.054,
+     "end": 47.501
+    },
+    {
+     "w": "into",
+     "start": 47.553,
+     "end": 47.677
+    },
+    {
+     "w": "the",
+     "start": 47.729,
+     "end": 47.791
+    },
+    {
+     "w": "dock.",
+     "start": 47.832,
+     "end": 48.745
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 48.534,
+   "end": 53.429,
+   "text": "But before you leave port, follow, because next we're building an AI data center.",
+   "words": [
+    {
+     "w": "But",
+     "start": 48.534,
+     "end": 48.65
+    },
+    {
+     "w": "before",
+     "start": 48.692,
+     "end": 48.992
+    },
+    {
+     "w": "you",
+     "start": 49.034,
+     "end": 49.106
+    },
+    {
+     "w": "leave",
+     "start": 49.169,
+     "end": 49.345
+    },
+    {
+     "w": "port,",
+     "start": 49.396,
+     "end": 49.749
+    },
+    {
+     "w": "follow,",
+     "start": 49.904,
+     "end": 50.433
+    },
+    {
+     "w": "because",
+     "start": 50.775,
+     "end": 51.013
+    },
+    {
+     "w": "next",
+     "start": 51.055,
+     "end": 51.262
+    },
+    {
+     "w": "we're",
+     "start": 51.294,
+     "end": 51.438
+    },
+    {
+     "w": "building",
+     "start": 51.459,
+     "end": 51.708
+    },
+    {
+     "w": "an",
+     "start": 51.739,
+     "end": 51.791
+    },
+    {
+     "w": "AI",
+     "start": 51.874,
+     "end": 52.144
+    },
+    {
+     "w": "data",
+     "start": 52.216,
+     "end": 52.444
+    },
+    {
+     "w": "center.",
+     "start": 52.496,
+     "end": 53.429
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 53.741,
+   "end": 57.982,
+   "text": "Now just stack twenty decks on top, with pools, a water park and a theater.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 53.741,
+     "end": 53.907
+    },
+    {
+     "w": "just",
+     "start": 53.959,
+     "end": 54.094
+    },
+    {
+     "w": "stack",
+     "start": 54.114,
+     "end": 54.342
+    },
+    {
+     "w": "twenty",
+     "start": 54.404,
+     "end": 54.715
+    },
+    {
+     "w": "decks",
+     "start": 54.767,
+     "end": 54.975
+    },
+    {
+     "w": "on",
+     "start": 55.016,
+     "end": 55.099
+    },
+    {
+     "w": "top,",
+     "start": 55.162,
+     "end": 55.565
+    },
+    {
+     "w": "with",
+     "start": 55.7,
+     "end": 55.855
+    },
+    {
+     "w": "pools,",
+     "start": 55.918,
+     "end": 56.509
+    },
+    {
+     "w": "a",
+     "start": 56.581,
+     "end": 56.644
+    },
+    {
+     "w": "water",
+     "start": 56.716,
+     "end": 56.965
+    },
+    {
+     "w": "park",
+     "start": 57.006,
+     "end": 57.255
+    },
+    {
+     "w": "and",
+     "start": 57.328,
+     "end": 57.462
+    },
+    {
+     "w": "a",
+     "start": 57.504,
+     "end": 57.535
+    },
+    {
+     "w": "theater.",
+     "start": 57.587,
+     "end": 58.302
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 58.295,
+   "end": 61.475,
+   "text": "Twenty decks, seven thousand guests, zero parking spots.",
+   "words": [
+    {
+     "w": "Twenty",
+     "start": 58.295,
+     "end": 58.574
+    },
+    {
+     "w": "decks,",
+     "start": 58.626,
+     "end": 59.01
+    },
+    {
+     "w": "seven",
+     "start": 59.113,
+     "end": 59.362
+    },
+    {
+     "w": "thousand",
+     "start": 59.404,
+     "end": 59.704
+    },
+    {
+     "w": "guests,",
+     "start": 59.756,
+     "end": 60.264
+    },
+    {
+     "w": "zero",
+     "start": 60.337,
+     "end": 60.606
+    },
+    {
+     "w": "parking",
+     "start": 60.669,
+     "end": 60.948
+    },
+    {
+     "w": "spots.",
+     "start": 60.989,
+     "end": 61.912
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 61.787,
+   "end": 64.458,
+   "text": "And congrats, you just built a cruise ship yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 61.787,
+     "end": 61.887
+    },
+    {
+     "w": "congrats,",
+     "start": 61.939,
+     "end": 62.634
+    },
+    {
+     "w": "you",
+     "start": 62.738,
+     "end": 62.83
+    },
+    {
+     "w": "just",
+     "start": 62.904,
+     "end": 63.017
+    },
+    {
+     "w": "built",
+     "start": 63.048,
+     "end": 63.214
+    },
+    {
+     "w": "a",
+     "start": 63.255,
+     "end": 63.276
+    },
+    {
+     "w": "cruise",
+     "start": 63.329,
+     "end": 63.588
+    },
+    {
+     "w": "ship",
+     "start": 63.608,
+     "end": 63.774
+    },
+    {
+     "w": "yourself.",
+     "start": 63.826,
+     "end": 65.204
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 64.771,
+   "end": 70.012,
+   "text": "And if you're late back from shore? It leaves without you. There are videos. Thousands of them.",
+   "words": [
+    {
+     "w": "And",
+     "start": 64.771,
+     "end": 64.885
+    },
+    {
+     "w": "if",
+     "start": 64.927,
+     "end": 64.979
+    },
+    {
+     "w": "you're",
+     "start": 65.01,
+     "end": 65.175
+    },
+    {
+     "w": "late",
+     "start": 65.206,
+     "end": 65.362
+    },
+    {
+     "w": "back",
+     "start": 65.393,
+     "end": 65.548
+    },
+    {
+     "w": "from",
+     "start": 65.59,
+     "end": 65.704
+    },
+    {
+     "w": "shore?",
+     "start": 65.777,
+     "end": 66.233
+    },
+    {
+     "w": "It",
+     "start": 66.575,
+     "end": 66.699
+    },
+    {
+     "w": "leaves",
+     "start": 66.751,
+     "end": 66.948
+    },
+    {
+     "w": "without",
+     "start": 66.979,
+     "end": 67.259
+    },
+    {
+     "w": "you.",
+     "start": 67.311,
+     "end": 67.632
+    },
+    {
+     "w": "There",
+     "start": 67.819,
+     "end": 68.005
+    },
+    {
+     "w": "are",
+     "start": 68.037,
+     "end": 68.12
+    },
+    {
+     "w": "videos.",
+     "start": 68.171,
+     "end": 68.814
+    },
+    {
+     "w": "Thousands",
+     "start": 69.062,
+     "end": 69.591
+    },
+    {
+     "w": "of",
+     "start": 69.633,
+     "end": 69.705
+    },
+    {
+     "w": "them.",
+     "start": 69.768,
+     "end": 70.182
+    }
+   ]
+  }
+ ]
+}
