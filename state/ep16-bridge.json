@@ -50,11 +50,11 @@
    "id": "6af3df26ffe2872794ed11fe",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "error",
-   "dueAt": "2026-11-12T02:16:00.000Z",
+   "status": "scheduled",
+   "dueAt": "2026-11-12T03:45:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-11T03:21:08+00:00",
-   "moved": "2026-11-12T02:10:29+00:00"
+   "moved": "2026-11-12T02:33:45+00:00"
   },
   "en.tiktok": {
    "id": "6af520852f7f0a6952e51128",

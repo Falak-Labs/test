@@ -26,11 +26,11 @@
    "id": "6af3e1095e53322cd57ae8b6",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "error",
-   "dueAt": "2026-11-12T02:18:00.000Z",
+   "status": "scheduled",
+   "dueAt": "2026-11-12T05:15:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-11T03:29:12+00:00",
-   "moved": "2026-11-12T02:10:29+00:00"
+   "moved": "2026-11-12T02:33:45+00:00"
   },
   "en.youtube": {
    "id": "6af499ac67456c42e971ad9c",
