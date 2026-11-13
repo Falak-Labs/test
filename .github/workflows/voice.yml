@@ -32,10 +32,10 @@ jobs:
           python-version: "3.12"
           cache: pip
           cache-dependency-path: scripts/requirements-ci*.txt
-      - name: ffmpeg
+      - name: ffmpeg and the libraries Skia needs (align_words imports the kit)
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq --no-install-recommends ffmpeg
+          sudo apt-get install -y -qq --no-install-recommends ffmpeg libegl1 libgl1 libgles2 libfontconfig1
       - name: Python packages
         run: pip install --quiet -r scripts/requirements-ci.txt
       - uses: actions/cache@v4
