@@ -1,0 +1,14 @@
+nuclear: 66.97s, 2009 frames
+unknown element "reset-dirs"
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 612s
+audio done
+final out/nuclear/nuclear_final.mp4
+QA  duration 66.97s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2009
+QA sheet out/nuclear/qa_sheet.png

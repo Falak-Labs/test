@@ -1,0 +1,128 @@
+{
+ "slug": "ep24-nuclear",
+ "kit": "nuclear",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 66.97,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "0/221",
+   "mix_lines_off": [],
+   "size_mb": 17.9
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو استخدمت يورانيوم عشان تغلي مية، مبروك، كده انت بنيت محطة طاقة نووية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الذرات بتنقسم أسرع وأسرع، والقلب بيسخن لحد ما يسيح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتحط قضبان تحكم بتشفط النيوترونات الطايرة، تنزلها وتطلعها عشان تظبط القوة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "دلوقتي ثابتة، بس حتى وهي مطفية القلب بيفضل يطلع حرارة، ولو المية وقفت هيسيح برضه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتحط طلمبات احتياطي، ومولدات ديزل، وخزان مية كبير فوق بينزل لوحده.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس المية اللي بتلمس القلب بتبقى مشعة، ومش عايزها تلف التوربينة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتعمل دايرتين: مية القلب السخنة تفضل مقفول عليها جوه، وتسخن مية نضيفة هي اللي تغلي وتلف التوربينة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "دلوقتي شغالة، لحد ما ييجي زلزال، أو فيضان، أو طيارة تخبط في المبنى.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتلف المفاعل بغلاف حديد جوه قبة خرسانة سمكها أكتر من متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تدوس على الزرار، تابعني، عشان اللي جاي هنبني حاملة طيارات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس ركب برجين عملاقين ما بيطلعش منهم غير بخار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "حباية وقود واحدة، طاقة طن فحم، وصفر دخان.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت محطة نووية بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "والأبراج اللي الناس خايفة منها؟ أكبر براد شاي في الدنيا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.4,
+   "lufs": -14.0,
+   "peak": -1.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.2
+  }
+ }
+}

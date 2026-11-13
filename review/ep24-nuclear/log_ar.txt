@@ -1,0 +1,6 @@
+nuclear_ar_sa: 69.41s, 2082 frames
+video done in 639s
+audio done
+final out/nuclear_ar_sa/nuclear_ar_sa_final.mp4
+QA  duration 69.40s  loudness -14.0 LUFS  true peak -1.2 dBFS  1080x1920 @ 30/1  frames 2082
+QA sheet out/nuclear_ar_sa/qa_sheet.png
