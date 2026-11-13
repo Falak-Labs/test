@@ -231,8 +231,8 @@ def ring_marks(c, x, y, t, a=1.0):
 def jet_snd(d=1.6, seed=60):
     n = int(d * sfx.SR)
     tt = np.arange(n) / sfx.SR
-    x = sfx._bp(sfx._rng(seed).standard_normal(n), 500, 5000) + 0.3 * np.sin(2 * np.pi * (900 + 600 * tt / d) * tt)
-    return sfx._norm(x * sfx._ar(n, 0.25, 0.5), 0.6)
+    x = sfx._bp(sfx._rng(seed).standard_normal(n), 150, 1800) + 0.2 * np.sin(2 * np.pi * (500 + 300 * tt / d) * tt)
+    return sfx._norm(sfx._lp(x, 2200) * sfx._ar(n, 0.25, 0.5), 0.6)
 
 
 def cat_snd(d=1.2, seed=61):
@@ -252,7 +252,7 @@ def honk_snd(d=0.35):
 def wire_snd(d=0.8, seed=62):
     n = int(d * sfx.SR)
     tt = np.arange(n) / sfx.SR
-    x = np.sin(2 * np.pi * (380 - 200 * tt) * tt) * np.exp(-tt * 4) + 0.5 * sfx._hp(sfx._rng(seed).standard_normal(n), 3000) * np.exp(-tt * 8)
+    x = np.sin(2 * np.pi * (380 - 200 * tt) * tt) * np.exp(-tt * 4) + 0.3 * sfx._bp(sfx._rng(seed).standard_normal(n), 1500, 4000) * np.exp(-tt * 8)
     return sfx._norm(x, 0.7)
 
 
@@ -927,17 +927,17 @@ class Carrier(EpisodeV2):
               (T["ship"], sfx.thud(0.5, 62), -2), (T["ship"] + 0.05, sfx.clank(300.0, 0.6, 63), -8),
               (T["congrats"] + 0.1, sfx.sparkle(0.7, 9, 64), -9)]
         ev += [(T["three"] + 0.15 * i, sfx.pop(65 + i), -6) for i in range(3)]
-        ev += [(T["roll0"], jet_snd(1.6, 68), -8), (T["drop"] + 0.42, water_snd(1.0, 69), -3), (T["drop"] + 0.5, sfx.womp(), -8)]
-        ev += [(T["catapult"] - 0.2, sfx.clank(500.0, 0.4, 70), -6), (T["fling0"], cat_snd(1.2, 71), -4),
+        ev += [(T["roll0"], jet_snd(1.6, 68), -8), (T["drop"] + 0.42, water_snd(1.0, 69), -6), (T["drop"] + 0.5, sfx.womp(), -8)]
+        ev += [(T["catapult"] - 0.2, sfx.clank(500.0, 0.4, 70), -6), (T["fling0"], cat_snd(1.2, 71), -8),
                (T["fling0"] + 0.1, jet_snd(2.0, 72), -6), (T["two"], sfx.ding(), -8), (T["seconds"] + 0.2, sfx.chime(), -6)]
         ev += [(T["coming"] - 0.8, jet_snd(1.6, 73), -8), (T["td"], sfx.thud(0.3, 74), -6), (T["td"] + 0.02, sfx.hiss(0.4, 75), -12),
-               (T["over"] + 0.42, water_snd(1.0, 76), -3), (T["over"] + 0.5, sfx.alarm(3, 820.0), -11)]
+               (T["over"] + 0.42, water_snd(1.0, 76), -6), (T["over"] + 0.5, sfx.alarm(3, 820.0), -11)]
         ev += [(s("fix2") - 0.12, sfx.whoosh(0.4, True, 77), -4)]
         ev += [(T["stretch"] + 0.12 * i, sfx.snap(78 + i), -10) for i in range(4)]
-        ev += [(T["catch"] - 1.2, jet_snd(1.4, 82), -9), (T["catch"], wire_snd(0.9, 83), -4), (T["catch"], sfx.thunk(84), -4),
+        ev += [(T["catch"] - 1.2, jet_snd(1.4, 82), -11), (T["catch"], wire_snd(0.9, 83), -8), (T["catch"], sfx.thunk(84), -5),
                (T["halt"] - 0.1, sfx.chime(), -6)]
         ev += [(s("break3") - 0.12, sfx.whoosh(0.4, False, 85), -4), (T["crash"] - 0.8, jet_snd(1.0, 86), -9),
-               (T["crash"], boom(1.2, 87), -4), (T["crash"] + 0.05, sfx.clank(240.0, 0.6, 88), -6), (T["crash"] + 0.3, sfx.alarm(3, 820.0), -11)]
+               (T["crash"], boom(1.2, 87), -6), (T["crash"] + 0.05, sfx.clank(240.0, 0.6, 88), -6), (T["crash"] + 0.3, sfx.alarm(3, 820.0), -11)]
         ev += [(s("fix3") - 0.12, sfx.whoosh(0.4, True, 89), -6), (T["angle"], sfx.whirr(0.8, 140.0, 220.0, 90), -12),
                (T["bolter"] - 0.5, jet_snd(1.2, 91), -9), (T["gas"], sfx.riser(0.8, 92), -8), (T["gas"] + 0.1, jet_snd(1.6, 93), -5),
                (T["takes"] + 0.3, sfx.chime(), -6)]

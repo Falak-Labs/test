@@ -194,3 +194,31 @@
   force; commits kit/series/voice/KIT* and prints each voice's length. Make the voices before animating, then check
   the scene with the real timings. Test Nov 13 01:51Z: build 24 English 221 words -> 63.84 s, 0% word errors.
 - Credits now: only Arabic, about 950 per build, about 57,000 a month at two builds a day.
+
+## Nov 13 2026 (daily task, first run 02:40 UTC): builds 24 nuclear and 25 aircraft carrier
+- Fresh cloud box: pip install skia-python numpy scipy soundfile pillow pyyaml uharfbuzz sherpa-onnx
+  --break-system-packages. check_ar_voice needs /home/claude/tts/asr/sherpa-onnx-whisper-small: download
+  https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-whisper-small.tar.bz2 (639 MB) and
+  extract only "*int8*" and "*tokens*". The GitHub MCP tools (actions_run_trigger, actions_list, get_job_logs) start
+  and read the workflows; git push from /home/claude/test works.
+- Voices: nuclear EN 221 words -> 63.8 s, AR 160 words -> 66.3 s; carrier EN 224 words -> 62.5 s, AR 166 words ->
+  66.0 s (tempo 1.11). Easton's --verify diffs were number formats and "sails" heard as "sales" only.
+- nuclear.py (seven sets): Integral() = smooth spin/flow phases from a Track (never t * speed(t)); a chain reaction
+  from precomputed split times per atom (rate grows 2x every 0.5 s, then follows the control-rod depth); neutrons
+  stop at a control rod they cross; fuel_rod(heat, melt); trefoil(); tower() rises out of the ground; dome_path()
+  cross-sections (steel shell + concrete ring); kettle morph of the cooling tower; tea_glass() for the Egyptian tag.
+- carrier.py (four worlds): jet_side(), jet_top(), side-view ship in red primer (the reveal paints it gray from
+  above), fields() overlay, deck_path(ang) morphs the straight deck into the angled deck, strip(ang) gives the
+  landing axis, the caught cable bends into a V at the hook, gas_station() at sea, car() for the parking tag.
+- A whip cut to the SAME set hides a reset (site at fix4, top at fix3).
+- A callout leader is vertical then horizontal: give the card the anchor's own y (ly = ay) for a flat leader that
+  does not cross the subject.
+- AUDIO PEAKS (build 25 Arabic failed the gate at +0.1 dBFS true peak): ffmpeg's native AAC encoder's PNS and TNS tools
+  made random 2-4 dB inter-sample overshoots on the dense ElevenLabs Arabic voice, after the -2.2 dBFS brick wall; a
+  lower limiter did not help (it moved the spike). bik/render.py mux() now encodes with -aac_pns 0 -aac_tns 0 (falls
+  back to the old command if an ffmpeg lacks them): the same mixes then measure -1.5 to -2.7 dBFS. Local check of a
+  mix: build_mix() to a wav, ffmpeg -c:a aac -b:a 192k -aac_pns 0 -aac_tns 0, then ebur128=peak=true.
+- PAGES SIZE: media/ is about 855 MB after build 25 (817 MB after 24). Deployments slow down near 900 MB and timed out
+  above it before. BEFORE the next produce run, take the posted Season 1 videos out of media/ (ep01-ep05, 162 MB,
+  all 30 posts are live and Buffer no longer needs them): git rm media/ep0[1-5]-*.mp4, commit, push, and wait for a
+  successful Pages run.

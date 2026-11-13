@@ -46,10 +46,16 @@ def render(scene, duration, out_mp4, workdir, segments=8, workers=2):
 
 
 def mux(video, audio, out):
+    """Video copied, audio to AAC 192k. PNS and TNS are switched off: on dense voices they made the native encoder
+    overshoot by 2-4 dB at random (build 25 Arabic: +0.1 dBFS true peak after a -2.2 dBFS brick wall)."""
     tmp = out[:-4] + ".part.mp4"
-    subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", video, "-i", audio,
-                    "-map", "0:v", "-map", "1:a", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-shortest",
-                    "-movflags", "+faststart", tmp], check=True)
+    base = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", video, "-i", audio,
+            "-map", "0:v", "-map", "1:a", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k"]
+    tail = ["-shortest", "-movflags", "+faststart", tmp]
+    try:
+        subprocess.run(base + ["-aac_pns", "0", "-aac_tns", "0"] + tail, check=True)
+    except subprocess.CalledProcessError:                 # an ffmpeg without those switches: encode as before
+        subprocess.run(base + tail, check=True)
     os.replace(tmp, out)
     return out
 
