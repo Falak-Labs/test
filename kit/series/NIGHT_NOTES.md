@@ -225,3 +225,11 @@
 - Scheduled Nov 13 04:15 UTC, all 12 targets "scheduled" in state/: build 24 AR 17:00Z (09:00 PT), EN 18:00Z
   (10:00 PT); build 25 AR 20:00Z (12:00 PT), EN 00:00Z Nov 14 (16:00 PT). Next: 26 the world's tallest tower (promised
   by 25), 27 tunnel boring machine.
+
+## Arabic voice from Nov 12 2026 20:33 PT: UZbXudn9g5q7bjznYXcC
+- The owner switched the Arabic ElevenLabs voice to UZbXudn9g5q7bjznYXcC (voices.yml); it replaced IES4nrmZdUBHByLBde0P.
+  Builds 24-25 (posting Nov 13) keep the old voice. A three-line Egyptian sample (kit/series/sample_lines_ar_sa.txt,
+  voice/sample_ar_sa.*) checks clean: 3-8% per line, weak lines none. Scripts stay Egyptian until the owner names
+  another dialect for this voice. The ElevenLabs key is Text-to-Speech only: GET /v1/voices/{id} answers 400, so the
+  voice's labels cannot be read from the runner.
+- Make voices: a kit whose name starts with "sample" keeps natural speed (no 59-66 s fitting).
