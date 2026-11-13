@@ -1,0 +1,135 @@
+{
+ "slug": "ep25-carrier",
+ "kit": "carrier",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 65.63,
+   "lufs": -14.0,
+   "peak": -1.9,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "10/224",
+   "mix_lines_off": [
+    "L 3 4 diff  | So you add a catapult that flings the jet to 160 miles an hour in 2 seconds.",
+    "L 9 1 diff  | So you put in two nuclear reactors, like the plant we just built, and it sales 20 years without refueling.",
+    "L11 1 diff  | Now just paint it navy gray and park over 60 aircraft on top.",
+    "L12 4 diff  | 100,000 tons, 5,000 people, zero gas stations."
+   ],
+   "size_mb": 14.1
+  },
+  "ar": {
+   "ok": false,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو حطيت ممر طيارات على مركب، مبروك، كده انت بنيت حاملة طيارات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس السطح طوله يدوب تلات ملاعب كورة، قصير أوي على طيارة نفاثة عشان تطير.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتحط منجنيق يرمي الطيارة من صفر لميتين وستين كيلو في الساعة في تانيتين.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "دلوقتي بتطير، بس وهي راجعة بتنزل بسرعة لدرجة إنها تكمل وتقع من الآخر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتشد كابلات حديد على السطح، وخطاف في ديلها يمسك واحد ويوقفها في تانيتين.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الطيارة اللي تفوت كل الكابلات، تخبط في الطيارات الراكنة قدام.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتميل ممر النزول على جنب، ولو فوتت، تدوس بنزين وتطير تاني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "دلوقتي شغالة، بس مركب بالتقل ده هيفضل يقف يمون كل شوية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتحط جواها مفاعلين نوويين، زي المحطة اللي لسه بانيينها، وتمشي عشرين سنة من غير ما تمون.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تطلع أول طيارة، تابعني، عشان اللي جاي هنبني أطول برج في الدنيا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس ادهنها رمادي، واركن فوقها أكتر من ستين طيارة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "مية ألف طن، خمس تلاف واحد، وصفر بنزينة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت حاملة طيارات بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "والطيار اللي بينزل عليها بالليل؟ بيلف ساعة عشان يركن في وسط البلد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": 0.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [
+    "peak 0.1"
+   ],
+   "size_mb": 14.6
+  }
+ }
+}
