@@ -233,3 +233,9 @@
   another dialect for this voice. The ElevenLabs key is Text-to-Speech only: GET /v1/voices/{id} answers 400, so the
   voice's labels cannot be read from the runner.
 - Make voices: a kit whose name starts with "sample" keeps natural speed (no 59-66 s fitting).
+- Nov 12 21:12 PT: the owner did NOT like UZbXudn9g5q7bjznYXcC. He is trying kU20U5bOr9ND3yqlsdwV with a JORDANIAN
+  script: sample kit/series/sample_jo_lines_ar_sa.txt (4 lines, 2.42 words/s, 3-14% per line, no weak lines; Whisper
+  hears the Jordanian "g" for qaf). Until he approves it, voices.yml is back on IES4nrmZdUBHByLBde0P with
+  dialect: egyptian. If he approves: voices.yml ar {voice: kU20U5bOr9ND3yqlsdwV, dialect: jordanian}, and write the
+  Arabic in Jordanian ("لو ...، مبروك، هيك إنت بنيت ..." / "بس قبل ما ...، تابعني، لأنه الجاي رح نبني ..." /
+  "ومبروك، هيك إنت بنيت ... بإيدك"). Make voices can try any voice without touching voices.yml: input voice=<ID>.
