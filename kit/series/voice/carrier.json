@@ -1,0 +1,1242 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 62.52,
+ "words": 224,
+ "words_per_sec": 3.58,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.021,
+   "text": "If you put a runway on a ship, congrats, you just built an aircraft carrier.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.327
+    },
+    {
+     "w": "you",
+     "start": 0.327,
+     "end": 0.525
+    },
+    {
+     "w": "put",
+     "start": 0.525,
+     "end": 0.722
+    },
+    {
+     "w": "a",
+     "start": 0.722,
+     "end": 0.92
+    },
+    {
+     "w": "runway",
+     "start": 0.92,
+     "end": 1.264
+    },
+    {
+     "w": "on",
+     "start": 1.264,
+     "end": 1.461
+    },
+    {
+     "w": "a",
+     "start": 1.461,
+     "end": 1.659
+    },
+    {
+     "w": "ship,",
+     "start": 1.659,
+     "end": 1.856
+    },
+    {
+     "w": "congrats,",
+     "start": 1.856,
+     "end": 2.2
+    },
+    {
+     "w": "you",
+     "start": 2.35,
+     "end": 2.565
+    },
+    {
+     "w": "just",
+     "start": 2.565,
+     "end": 2.78
+    },
+    {
+     "w": "built",
+     "start": 2.78,
+     "end": 2.996
+    },
+    {
+     "w": "an",
+     "start": 2.996,
+     "end": 3.211
+    },
+    {
+     "w": "aircraft",
+     "start": 3.211,
+     "end": 3.585
+    },
+    {
+     "w": "carrier.",
+     "start": 3.585,
+     "end": 3.96
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.385,
+   "end": 8.406,
+   "text": "But the deck is only three football fields long, too short for a jet to take off.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.525,
+     "end": 4.73
+    },
+    {
+     "w": "the",
+     "start": 4.73,
+     "end": 4.935
+    },
+    {
+     "w": "deck",
+     "start": 4.935,
+     "end": 5.14
+    },
+    {
+     "w": "is",
+     "start": 5.14,
+     "end": 5.345
+    },
+    {
+     "w": "only",
+     "start": 5.345,
+     "end": 5.702
+    },
+    {
+     "w": "three",
+     "start": 5.702,
+     "end": 5.907
+    },
+    {
+     "w": "football",
+     "start": 5.907,
+     "end": 6.264
+    },
+    {
+     "w": "fields",
+     "start": 6.264,
+     "end": 6.469
+    },
+    {
+     "w": "long,",
+     "start": 6.469,
+     "end": 6.674
+    },
+    {
+     "w": "too",
+     "start": 6.674,
+     "end": 6.88
+    },
+    {
+     "w": "short",
+     "start": 6.88,
+     "end": 7.085
+    },
+    {
+     "w": "for",
+     "start": 7.085,
+     "end": 7.29
+    },
+    {
+     "w": "a",
+     "start": 7.29,
+     "end": 7.495
+    },
+    {
+     "w": "jet",
+     "start": 7.495,
+     "end": 7.7
+    },
+    {
+     "w": "to",
+     "start": 7.7,
+     "end": 7.905
+    },
+    {
+     "w": "take",
+     "start": 7.905,
+     "end": 8.11
+    },
+    {
+     "w": "off.",
+     "start": 8.11,
+     "end": 8.315
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.771,
+   "end": 13.438,
+   "text": "So you add a catapult that flings the jet to a hundred and sixty miles an hour in two seconds.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.881,
+     "end": 9.064
+    },
+    {
+     "w": "you",
+     "start": 9.064,
+     "end": 9.248
+    },
+    {
+     "w": "add",
+     "start": 9.248,
+     "end": 9.431
+    },
+    {
+     "w": "a",
+     "start": 9.431,
+     "end": 9.614
+    },
+    {
+     "w": "catapult",
+     "start": 9.614,
+     "end": 10.069
+    },
+    {
+     "w": "that",
+     "start": 10.069,
+     "end": 10.252
+    },
+    {
+     "w": "flings",
+     "start": 10.252,
+     "end": 10.435
+    },
+    {
+     "w": "the",
+     "start": 10.435,
+     "end": 10.619
+    },
+    {
+     "w": "jet",
+     "start": 10.619,
+     "end": 10.802
+    },
+    {
+     "w": "to",
+     "start": 10.802,
+     "end": 10.985
+    },
+    {
+     "w": "a",
+     "start": 10.985,
+     "end": 11.169
+    },
+    {
+     "w": "hundred",
+     "start": 11.169,
+     "end": 11.488
+    },
+    {
+     "w": "and",
+     "start": 11.488,
+     "end": 11.671
+    },
+    {
+     "w": "sixty",
+     "start": 11.671,
+     "end": 11.99
+    },
+    {
+     "w": "miles",
+     "start": 11.99,
+     "end": 12.309
+    },
+    {
+     "w": "an",
+     "start": 12.309,
+     "end": 12.492
+    },
+    {
+     "w": "hour",
+     "start": 12.492,
+     "end": 12.675
+    },
+    {
+     "w": "in",
+     "start": 12.675,
+     "end": 12.859
+    },
+    {
+     "w": "two",
+     "start": 12.859,
+     "end": 13.042
+    },
+    {
+     "w": "seconds.",
+     "start": 13.042,
+     "end": 13.361
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 13.802,
+   "end": 17.792,
+   "text": "Now it flies, but coming back, it lands so fast it shoots right off the end.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 13.902,
+     "end": 14.179
+    },
+    {
+     "w": "it",
+     "start": 14.179,
+     "end": 14.455
+    },
+    {
+     "w": "flies,",
+     "start": 14.455,
+     "end": 14.732
+    },
+    {
+     "w": "but",
+     "start": 14.842,
+     "end": 15.016
+    },
+    {
+     "w": "coming",
+     "start": 15.016,
+     "end": 15.318
+    },
+    {
+     "w": "back,",
+     "start": 15.318,
+     "end": 15.492
+    },
+    {
+     "w": "it",
+     "start": 15.652,
+     "end": 15.859
+    },
+    {
+     "w": "lands",
+     "start": 15.859,
+     "end": 16.066
+    },
+    {
+     "w": "so",
+     "start": 16.066,
+     "end": 16.273
+    },
+    {
+     "w": "fast",
+     "start": 16.273,
+     "end": 16.48
+    },
+    {
+     "w": "it",
+     "start": 16.48,
+     "end": 16.687
+    },
+    {
+     "w": "shoots",
+     "start": 16.687,
+     "end": 16.894
+    },
+    {
+     "w": "right",
+     "start": 16.894,
+     "end": 17.101
+    },
+    {
+     "w": "off",
+     "start": 17.101,
+     "end": 17.308
+    },
+    {
+     "w": "the",
+     "start": 17.308,
+     "end": 17.515
+    },
+    {
+     "w": "end.",
+     "start": 17.515,
+     "end": 17.722
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.156,
+   "end": 23.531,
+   "text": "So you stretch steel cables across the deck, and a hook on its tail grabs one and stops it in two seconds.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.266,
+     "end": 18.481
+    },
+    {
+     "w": "you",
+     "start": 18.481,
+     "end": 18.696
+    },
+    {
+     "w": "stretch",
+     "start": 18.696,
+     "end": 18.911
+    },
+    {
+     "w": "steel",
+     "start": 18.911,
+     "end": 19.127
+    },
+    {
+     "w": "cables",
+     "start": 19.127,
+     "end": 19.501
+    },
+    {
+     "w": "across",
+     "start": 19.501,
+     "end": 19.876
+    },
+    {
+     "w": "the",
+     "start": 19.876,
+     "end": 20.091
+    },
+    {
+     "w": "deck,",
+     "start": 20.091,
+     "end": 20.306
+    },
+    {
+     "w": "and",
+     "start": 20.356,
+     "end": 20.566
+    },
+    {
+     "w": "a",
+     "start": 20.566,
+     "end": 20.777
+    },
+    {
+     "w": "hook",
+     "start": 20.777,
+     "end": 20.987
+    },
+    {
+     "w": "on",
+     "start": 20.987,
+     "end": 21.197
+    },
+    {
+     "w": "its",
+     "start": 21.197,
+     "end": 21.408
+    },
+    {
+     "w": "tail",
+     "start": 21.408,
+     "end": 21.618
+    },
+    {
+     "w": "grabs",
+     "start": 21.618,
+     "end": 21.828
+    },
+    {
+     "w": "one",
+     "start": 21.828,
+     "end": 22.038
+    },
+    {
+     "w": "and",
+     "start": 22.038,
+     "end": 22.249
+    },
+    {
+     "w": "stops",
+     "start": 22.249,
+     "end": 22.459
+    },
+    {
+     "w": "it",
+     "start": 22.459,
+     "end": 22.669
+    },
+    {
+     "w": "in",
+     "start": 22.669,
+     "end": 22.88
+    },
+    {
+     "w": "two",
+     "start": 22.88,
+     "end": 23.09
+    },
+    {
+     "w": "seconds.",
+     "start": 23.09,
+     "end": 23.456
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.896,
+   "end": 27.417,
+   "text": "But a jet that misses every cable slams into the planes parked up front.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.026,
+     "end": 24.207
+    },
+    {
+     "w": "a",
+     "start": 24.207,
+     "end": 24.387
+    },
+    {
+     "w": "jet",
+     "start": 24.387,
+     "end": 24.568
+    },
+    {
+     "w": "that",
+     "start": 24.568,
+     "end": 24.748
+    },
+    {
+     "w": "misses",
+     "start": 24.748,
+     "end": 25.062
+    },
+    {
+     "w": "every",
+     "start": 25.062,
+     "end": 25.51
+    },
+    {
+     "w": "cable",
+     "start": 25.51,
+     "end": 25.691
+    },
+    {
+     "w": "slams",
+     "start": 25.691,
+     "end": 25.872
+    },
+    {
+     "w": "into",
+     "start": 25.872,
+     "end": 26.186
+    },
+    {
+     "w": "the",
+     "start": 26.186,
+     "end": 26.366
+    },
+    {
+     "w": "planes",
+     "start": 26.366,
+     "end": 26.681
+    },
+    {
+     "w": "parked",
+     "start": 26.681,
+     "end": 26.995
+    },
+    {
+     "w": "up",
+     "start": 26.995,
+     "end": 27.175
+    },
+    {
+     "w": "front.",
+     "start": 27.175,
+     "end": 27.356
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.781,
+   "end": 32.562,
+   "text": "So you angle the landing strip to the side, so if it misses, it just hits the gas and takes off again.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.891,
+     "end": 28.077
+    },
+    {
+     "w": "you",
+     "start": 28.077,
+     "end": 28.263
+    },
+    {
+     "w": "angle",
+     "start": 28.263,
+     "end": 28.448
+    },
+    {
+     "w": "the",
+     "start": 28.448,
+     "end": 28.634
+    },
+    {
+     "w": "landing",
+     "start": 28.634,
+     "end": 28.958
+    },
+    {
+     "w": "strip",
+     "start": 28.958,
+     "end": 29.144
+    },
+    {
+     "w": "to",
+     "start": 29.144,
+     "end": 29.329
+    },
+    {
+     "w": "the",
+     "start": 29.329,
+     "end": 29.515
+    },
+    {
+     "w": "side,",
+     "start": 29.515,
+     "end": 29.701
+    },
+    {
+     "w": "so",
+     "start": 29.871,
+     "end": 30.036
+    },
+    {
+     "w": "if",
+     "start": 30.036,
+     "end": 30.2
+    },
+    {
+     "w": "it",
+     "start": 30.2,
+     "end": 30.365
+    },
+    {
+     "w": "misses,",
+     "start": 30.365,
+     "end": 30.651
+    },
+    {
+     "w": "it",
+     "start": 30.761,
+     "end": 30.927
+    },
+    {
+     "w": "just",
+     "start": 30.927,
+     "end": 31.093
+    },
+    {
+     "w": "hits",
+     "start": 31.093,
+     "end": 31.259
+    },
+    {
+     "w": "the",
+     "start": 31.259,
+     "end": 31.425
+    },
+    {
+     "w": "gas",
+     "start": 31.425,
+     "end": 31.591
+    },
+    {
+     "w": "and",
+     "start": 31.591,
+     "end": 31.757
+    },
+    {
+     "w": "takes",
+     "start": 31.757,
+     "end": 32.046
+    },
+    {
+     "w": "off",
+     "start": 32.046,
+     "end": 32.212
+    },
+    {
+     "w": "again.",
+     "start": 32.212,
+     "end": 32.501
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.927,
+   "end": 36.667,
+   "text": "Now it works, but a ship this heavy would have to stop for fuel all the time.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 33.027,
+     "end": 33.26
+    },
+    {
+     "w": "it",
+     "start": 33.26,
+     "end": 33.494
+    },
+    {
+     "w": "works,",
+     "start": 33.494,
+     "end": 33.727
+    },
+    {
+     "w": "but",
+     "start": 33.857,
+     "end": 34.042
+    },
+    {
+     "w": "a",
+     "start": 34.042,
+     "end": 34.227
+    },
+    {
+     "w": "ship",
+     "start": 34.227,
+     "end": 34.413
+    },
+    {
+     "w": "this",
+     "start": 34.413,
+     "end": 34.598
+    },
+    {
+     "w": "heavy",
+     "start": 34.598,
+     "end": 34.92
+    },
+    {
+     "w": "would",
+     "start": 34.92,
+     "end": 35.105
+    },
+    {
+     "w": "have",
+     "start": 35.105,
+     "end": 35.291
+    },
+    {
+     "w": "to",
+     "start": 35.291,
+     "end": 35.476
+    },
+    {
+     "w": "stop",
+     "start": 35.476,
+     "end": 35.661
+    },
+    {
+     "w": "for",
+     "start": 35.661,
+     "end": 35.846
+    },
+    {
+     "w": "fuel",
+     "start": 35.846,
+     "end": 36.031
+    },
+    {
+     "w": "all",
+     "start": 36.031,
+     "end": 36.217
+    },
+    {
+     "w": "the",
+     "start": 36.217,
+     "end": 36.402
+    },
+    {
+     "w": "time.",
+     "start": 36.402,
+     "end": 36.587
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 37.031,
+   "end": 42.292,
+   "text": "So you put in two nuclear reactors, like the plant we just built, and it sails twenty years without refueling.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.151,
+     "end": 37.321
+    },
+    {
+     "w": "you",
+     "start": 37.321,
+     "end": 37.491
+    },
+    {
+     "w": "put",
+     "start": 37.491,
+     "end": 37.66
+    },
+    {
+     "w": "in",
+     "start": 37.66,
+     "end": 37.83
+    },
+    {
+     "w": "two",
+     "start": 37.83,
+     "end": 38.0
+    },
+    {
+     "w": "nuclear",
+     "start": 38.0,
+     "end": 38.295
+    },
+    {
+     "w": "reactors,",
+     "start": 38.295,
+     "end": 38.591
+    },
+    {
+     "w": "like",
+     "start": 38.671,
+     "end": 38.916
+    },
+    {
+     "w": "the",
+     "start": 38.916,
+     "end": 39.161
+    },
+    {
+     "w": "plant",
+     "start": 39.161,
+     "end": 39.406
+    },
+    {
+     "w": "we",
+     "start": 39.406,
+     "end": 39.651
+    },
+    {
+     "w": "just",
+     "start": 39.651,
+     "end": 39.896
+    },
+    {
+     "w": "built,",
+     "start": 39.896,
+     "end": 40.141
+    },
+    {
+     "w": "and",
+     "start": 40.331,
+     "end": 40.522
+    },
+    {
+     "w": "it",
+     "start": 40.522,
+     "end": 40.712
+    },
+    {
+     "w": "sails",
+     "start": 40.712,
+     "end": 40.903
+    },
+    {
+     "w": "twenty",
+     "start": 40.903,
+     "end": 41.235
+    },
+    {
+     "w": "years",
+     "start": 41.235,
+     "end": 41.426
+    },
+    {
+     "w": "without",
+     "start": 41.426,
+     "end": 41.758
+    },
+    {
+     "w": "refueling.",
+     "start": 41.758,
+     "end": 42.231
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 42.656,
+   "end": 47.219,
+   "text": "But before you launch the first jet, follow, because next we're building the world's tallest tower.",
+   "words": [
+    {
+     "w": "But",
+     "start": 42.796,
+     "end": 42.99
+    },
+    {
+     "w": "before",
+     "start": 42.99,
+     "end": 43.327
+    },
+    {
+     "w": "you",
+     "start": 43.327,
+     "end": 43.521
+    },
+    {
+     "w": "launch",
+     "start": 43.521,
+     "end": 43.715
+    },
+    {
+     "w": "the",
+     "start": 43.715,
+     "end": 43.908
+    },
+    {
+     "w": "first",
+     "start": 43.908,
+     "end": 44.102
+    },
+    {
+     "w": "jet,",
+     "start": 44.102,
+     "end": 44.296
+    },
+    {
+     "w": "follow,",
+     "start": 44.446,
+     "end": 44.796
+    },
+    {
+     "w": "because",
+     "start": 44.936,
+     "end": 45.288
+    },
+    {
+     "w": "next",
+     "start": 45.288,
+     "end": 45.491
+    },
+    {
+     "w": "we're",
+     "start": 45.491,
+     "end": 45.694
+    },
+    {
+     "w": "building",
+     "start": 45.694,
+     "end": 46.046
+    },
+    {
+     "w": "the",
+     "start": 46.046,
+     "end": 46.248
+    },
+    {
+     "w": "world's",
+     "start": 46.248,
+     "end": 46.451
+    },
+    {
+     "w": "tallest",
+     "start": 46.451,
+     "end": 46.804
+    },
+    {
+     "w": "tower.",
+     "start": 46.804,
+     "end": 47.156
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 47.583,
+   "end": 51.219,
+   "text": "Now just paint it navy gray, and park over sixty aircraft on top.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 47.693,
+     "end": 47.911
+    },
+    {
+     "w": "just",
+     "start": 47.911,
+     "end": 48.129
+    },
+    {
+     "w": "paint",
+     "start": 48.129,
+     "end": 48.347
+    },
+    {
+     "w": "it",
+     "start": 48.347,
+     "end": 48.565
+    },
+    {
+     "w": "navy",
+     "start": 48.565,
+     "end": 48.945
+    },
+    {
+     "w": "gray,",
+     "start": 48.945,
+     "end": 49.163
+    },
+    {
+     "w": "and",
+     "start": 49.323,
+     "end": 49.515
+    },
+    {
+     "w": "park",
+     "start": 49.515,
+     "end": 49.707
+    },
+    {
+     "w": "over",
+     "start": 49.707,
+     "end": 50.041
+    },
+    {
+     "w": "sixty",
+     "start": 50.041,
+     "end": 50.375
+    },
+    {
+     "w": "aircraft",
+     "start": 50.375,
+     "end": 50.709
+    },
+    {
+     "w": "on",
+     "start": 50.709,
+     "end": 50.901
+    },
+    {
+     "w": "top.",
+     "start": 50.901,
+     "end": 51.093
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.583,
+   "end": 55.615,
+   "text": "A hundred thousand tons, five thousand people, zero gas stations.",
+   "words": [
+    {
+     "w": "A",
+     "start": 51.703,
+     "end": 51.955
+    },
+    {
+     "w": "hundred",
+     "start": 51.955,
+     "end": 52.393
+    },
+    {
+     "w": "thousand",
+     "start": 52.393,
+     "end": 52.831
+    },
+    {
+     "w": "tons,",
+     "start": 52.831,
+     "end": 53.083
+    },
+    {
+     "w": "five",
+     "start": 53.203,
+     "end": 53.47
+    },
+    {
+     "w": "thousand",
+     "start": 53.47,
+     "end": 53.936
+    },
+    {
+     "w": "people,",
+     "start": 53.936,
+     "end": 54.203
+    },
+    {
+     "w": "zero",
+     "start": 54.383,
+     "end": 54.834
+    },
+    {
+     "w": "gas",
+     "start": 54.834,
+     "end": 55.092
+    },
+    {
+     "w": "stations.",
+     "start": 55.092,
+     "end": 55.543
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.979,
+   "end": 58.958,
+   "text": "And congrats, you just built an aircraft carrier yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.099,
+     "end": 56.354
+    },
+    {
+     "w": "congrats,",
+     "start": 56.354,
+     "end": 56.799
+    },
+    {
+     "w": "you",
+     "start": 56.949,
+     "end": 57.154
+    },
+    {
+     "w": "just",
+     "start": 57.154,
+     "end": 57.359
+    },
+    {
+     "w": "built",
+     "start": 57.359,
+     "end": 57.564
+    },
+    {
+     "w": "an",
+     "start": 57.564,
+     "end": 57.769
+    },
+    {
+     "w": "aircraft",
+     "start": 57.769,
+     "end": 58.126
+    },
+    {
+     "w": "carrier",
+     "start": 58.126,
+     "end": 58.482
+    },
+    {
+     "w": "yourself.",
+     "start": 58.482,
+     "end": 58.839
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.323,
+   "end": 62.542,
+   "text": "And the pilots who land on it at night? Still can't parallel park.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.453,
+     "end": 59.617
+    },
+    {
+     "w": "the",
+     "start": 59.617,
+     "end": 59.782
+    },
+    {
+     "w": "pilots",
+     "start": 59.782,
+     "end": 60.067
+    },
+    {
+     "w": "who",
+     "start": 60.067,
+     "end": 60.232
+    },
+    {
+     "w": "land",
+     "start": 60.232,
+     "end": 60.396
+    },
+    {
+     "w": "on",
+     "start": 60.396,
+     "end": 60.56
+    },
+    {
+     "w": "it",
+     "start": 60.56,
+     "end": 60.724
+    },
+    {
+     "w": "at",
+     "start": 60.724,
+     "end": 60.889
+    },
+    {
+     "w": "night?",
+     "start": 60.889,
+     "end": 61.053
+    },
+    {
+     "w": "Still",
+     "start": 61.233,
+     "end": 61.448
+    },
+    {
+     "w": "can't",
+     "start": 61.448,
+     "end": 61.664
+    },
+    {
+     "w": "parallel",
+     "start": 61.664,
+     "end": 62.198
+    },
+    {
+     "w": "park.",
+     "start": 62.198,
+     "end": 62.413
+    }
+   ]
+  }
+ ]
+}
