@@ -14,6 +14,9 @@ on:
         description: "make again even if the voice files exist"
         type: boolean
         default: false
+      voice:
+        description: "optional: another ElevenLabs voice ID for the Arabic (to try a voice; voices.yml stays)"
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -50,6 +53,7 @@ jobs:
           KIT: ${{ inputs.kit }}
           LANGS: ${{ inputs.langs }}
           FORCE: ${{ inputs.force }}
+          VOICE_OVERRIDE: ${{ inputs.voice }}
         run: python scripts/make_voices.py
       - name: Save to the repo
         run: |

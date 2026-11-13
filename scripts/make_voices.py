@@ -34,7 +34,9 @@ for lang in langs:
     if all(os.path.exists(os.path.join(KIT_DIR, vo + e)) for e in (".json", ".wav")) and not force:
         print(f"{lang}: {vo} already exists, kept (FORCE=true to make it again)")
         continue
-    eng = VOICES.get(lang) or {}
+    eng = dict(VOICES.get(lang) or {})
+    if lang == "ar" and os.environ.get("VOICE_OVERRIDE", "").strip():         # try another ElevenLabs voice (samples)
+        eng.update(engine="eleven", voice=os.environ["VOICE_OVERRIDE"].strip())
     if eng.get("engine") == "eleven":
         if not os.environ.get("ELEVENLABS_API_KEY"):
             sys.exit("voices.yml asks for ElevenLabs but the ELEVENLABS_API_KEY secret is not set")

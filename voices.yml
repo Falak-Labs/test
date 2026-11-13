@@ -2,6 +2,9 @@
 # them (Episodes 1-20: Easton + NAMAA Saudi; builds 21-23: ElevenLabs for both).
 #   engine: phonon = Phonon 31M (gradium/phonon-31m-en, Apache 2.0, free, runs on the runner's CPU); voice = catalogue name
 #   engine: eleven = ElevenLabs (needs the ELEVENLABS_API_KEY Actions secret; voice = ElevenLabs voice ID, not secret)
-# From Nov 12 2026 (owner's call): English on free Easton, only Arabic on ElevenLabs (Egyptian narrator).
+# From Nov 12 2026 (owner's call): English on free Easton, only Arabic on ElevenLabs.
+# ar.dialect = the dialect the Arabic scripts are written in (egyptian or jordanian). Nov 12 21:12 PT: he rejected
+# UZbXudn9g5q7bjznYXcC and is trying kU20U5bOr9ND3yqlsdwV with a Jordanian script; until he approves it, the
+# Egyptian voice he accepted for builds 21-25 stays.
 en: {engine: phonon, voice: Easton}
-ar: {engine: eleven, voice: UZbXudn9g5q7bjznYXcC, model: eleven_multilingual_v2}   # owner's pick Nov 12 20:33 PT (was IES4nrmZdUBHByLBde0P)
+ar: {engine: eleven, voice: IES4nrmZdUBHByLBde0P, model: eleven_multilingual_v2, dialect: egyptian}
