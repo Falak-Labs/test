@@ -1,0 +1,31 @@
+episode: 24
+date: 2026-11-13
+video:
+  en: media/ep24-nuclear-en.mp4
+  ar: media/ep24-nuclear-ar.mp4
+en:
+  at: "2026-11-13T18:00:00Z"    # 10:00 PT
+  title: "How a Nuclear Power Plant Boils Water With Atoms ⚛️"
+  text: |
+    How do you make electricity with atoms? ⚛️
+    Uranium atoms split and heat water, control rods soak up the neutrons to set the power, two separate water loops keep the radioactive water sealed inside, and a concrete dome over a meter thick wraps it all.
+    Scary or genius? 👇
+  next: "an aircraft carrier ⚓"
+  seo: "Fission chain reaction, control rods, decay heat and emergency cooling with backup pumps, diesel generators and a gravity-fed water tank, pressurized water reactor primary and secondary loops, steam generator and turbine, steel containment inside a concrete shield building, and cooling towers that only release water vapor."
+  tags:
+    tiktok: "#nuclear #engineering #energy #learnontiktok #howitworks"
+    instagram: "#nuclear #engineering #energy #howitworks #science"
+    youtube: "#nuclear #engineering #energy"
+ar:
+  at: "2026-11-13T17:00:00Z"    # 09:00 PT = 7 pm Cairo
+  title: "إزاي المحطة النووية بتعمل كهربا؟ من الذرة لحد البخار ⚛️"
+  text: |
+    إزاي ذرة صغيرة تنور مدينة كاملة؟ ⚛️
+    ذرات اليورانيوم بتنقسم وتسخن المية، وقضبان التحكم بتشفط النيوترونات عشان تظبط القوة، ودايرتين مية بيخلوا المية المشعة مقفول عليها جوه، وكله جوه قبة خرسانة سمكها أكتر من متر.
+    مخيفة ولا عبقرية؟ 👇
+  next: "حاملة طيارات ⚓"
+  seo: "الانشطار النووي، قضبان التحكم، حرارة القلب بعد الإطفاء، طلمبات احتياطي ومولدات ديزل وخزان مية بينزل لوحده، دايرة مقفولة حوالين القلب ودايرة مية نضيفة بتلف التوربينة، غلاف حديد جوه قبة خرسانة، وأبراج تبريد ما بيطلعش منها غير بخار."
+  tags:
+    tiktok: "#تعلم_على_التيك_توك #هندسة #طاقة_نووية #معلومات #مصر"
+    instagram: "#هندسة #طاقة_نووية #معلومات #كهربا #مصر"
+    youtube: "#هندسة #طاقة_نووية #معلومات"
