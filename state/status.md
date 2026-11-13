@@ -1,4 +1,4 @@
-# Post status 2026-11-13T03:44:53+00:00
+# Post status 2026-11-13T04:15:26+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -146,3 +146,9 @@
 | ep24-nuclear | en.instagram | scheduled |  | 2026-11-13T18:00:00.000Z |
 | ep24-nuclear | en.tiktok | scheduled |  | 2026-11-13T18:00:00.000Z |
 | ep24-nuclear | en.youtube | scheduled |  | 2026-11-13T18:00:00.000Z |
+| ep25-carrier | ar.instagram | scheduled |  | 2026-11-13T20:00:00.000Z |
+| ep25-carrier | ar.tiktok | scheduled |  | 2026-11-13T20:00:00.000Z |
+| ep25-carrier | ar.youtube | scheduled |  | 2026-11-13T20:00:00.000Z |
+| ep25-carrier | en.instagram | scheduled |  | 2026-11-14T00:00:00.000Z |
+| ep25-carrier | en.tiktok | scheduled |  | 2026-11-14T00:00:00.000Z |
+| ep25-carrier | en.youtube | scheduled |  | 2026-11-14T00:00:00.000Z |
