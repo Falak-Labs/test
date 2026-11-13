@@ -218,7 +218,10 @@
   lower limiter did not help (it moved the spike). bik/render.py mux() now encodes with -aac_pns 0 -aac_tns 0 (falls
   back to the old command if an ffmpeg lacks them): the same mixes then measure -1.5 to -2.7 dBFS. Local check of a
   mix: build_mix() to a wav, ffmpeg -c:a aac -b:a 192k -aac_pns 0 -aac_tns 0, then ebur128=peak=true.
-- PAGES SIZE: media/ is about 855 MB after build 25 (817 MB after 24). Deployments slow down near 900 MB and timed out
+- PAGES SIZE: media/ is about 846 MB after build 25 (52 videos). Deployments slow down near 900 MB and timed out
   above it before. BEFORE the next produce run, take the posted Season 1 videos out of media/ (ep01-ep05, 162 MB,
   all 30 posts are live and Buffer no longer needs them): git rm media/ep0[1-5]-*.mp4, commit, push, and wait for a
   successful Pages run.
+- Scheduled Nov 13 04:15 UTC, all 12 targets "scheduled" in state/: build 24 AR 17:00Z (09:00 PT), EN 18:00Z
+  (10:00 PT); build 25 AR 20:00Z (12:00 PT), EN 00:00Z Nov 14 (16:00 PT). Next: 26 the world's tallest tower (promised
+  by 25), 27 tunnel boring machine.
