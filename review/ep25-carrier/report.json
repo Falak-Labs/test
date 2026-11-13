@@ -20,7 +20,7 @@
    "size_mb": 14.1
   },
   "ar": {
-   "ok": false,
+   "ok": true,
    "lines": [
     {
      "line": "01",
@@ -123,12 +123,10 @@
    ],
    "duration": 69.1,
    "lufs": -14.0,
-   "peak": 0.1,
+   "peak": -1.8,
    "frame": "1080x1920",
    "fps": "30/1",
-   "issues": [
-    "peak 0.1"
-   ],
+   "issues": [],
    "size_mb": 14.6
   }
  }

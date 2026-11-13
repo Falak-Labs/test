@@ -1,6 +1,13 @@
 carrier_ar_sa: 69.10s, 2073 frames
-video done in 414s
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+video done in 556s
 audio done
 final out/carrier_ar_sa/carrier_ar_sa_final.mp4
-QA  duration 69.10s  loudness -14.0 LUFS  true peak 0.1 dBFS  1080x1920 @ 30/1  frames 2073
+QA  duration 69.10s  loudness -14.0 LUFS  true peak -1.8 dBFS  1080x1920 @ 30/1  frames 2073
 QA sheet out/carrier_ar_sa/qa_sheet.png
