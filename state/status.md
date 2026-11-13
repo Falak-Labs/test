@@ -1,4 +1,4 @@
-# Post status 2026-11-13T01:23:19+00:00
+# Post status 2026-11-13T03:44:53+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -140,3 +140,9 @@
 | ep23-desal | en.instagram | sent |  | 2026-11-13T00:04:15.370Z https://www.instagram.com/reel/DfqS9BBBik4/ |
 | ep23-desal | en.tiktok | sent |  | 2026-11-13T00:02:53.514Z https://tiktok.com/@congratsengineer/video/7707439328452021518 |
 | ep23-desal | en.youtube | sent |  | 2026-11-13T00:01:04.202Z https://www.youtube.com/shorts/WZa91FYM6oY |
+| ep24-nuclear | ar.instagram | scheduled |  | 2026-11-13T17:00:00.000Z |
+| ep24-nuclear | ar.tiktok | scheduled |  | 2026-11-13T17:00:00.000Z |
+| ep24-nuclear | ar.youtube | scheduled |  | 2026-11-13T17:00:00.000Z |
+| ep24-nuclear | en.instagram | scheduled |  | 2026-11-13T18:00:00.000Z |
+| ep24-nuclear | en.tiktok | scheduled |  | 2026-11-13T18:00:00.000Z |
+| ep24-nuclear | en.youtube | scheduled |  | 2026-11-13T18:00:00.000Z |
