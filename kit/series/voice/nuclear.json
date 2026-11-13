@@ -1,0 +1,1227 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 63.84,
+ "words": 221,
+ "words_per_sec": 3.46,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.292,
+   "text": "If you use uranium to boil water, congrats, you just built a nuclear power plant.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.14,
+     "end": 0.318
+    },
+    {
+     "w": "you",
+     "start": 0.318,
+     "end": 0.496
+    },
+    {
+     "w": "use",
+     "start": 0.496,
+     "end": 0.673
+    },
+    {
+     "w": "uranium",
+     "start": 0.673,
+     "end": 1.115
+    },
+    {
+     "w": "to",
+     "start": 1.115,
+     "end": 1.293
+    },
+    {
+     "w": "boil",
+     "start": 1.293,
+     "end": 1.47
+    },
+    {
+     "w": "water,",
+     "start": 1.47,
+     "end": 1.78
+    },
+    {
+     "w": "congrats,",
+     "start": 1.91,
+     "end": 2.293
+    },
+    {
+     "w": "you",
+     "start": 2.293,
+     "end": 2.513
+    },
+    {
+     "w": "just",
+     "start": 2.513,
+     "end": 2.733
+    },
+    {
+     "w": "built",
+     "start": 2.733,
+     "end": 2.953
+    },
+    {
+     "w": "a",
+     "start": 2.953,
+     "end": 3.174
+    },
+    {
+     "w": "nuclear",
+     "start": 3.174,
+     "end": 3.557
+    },
+    {
+     "w": "power",
+     "start": 3.557,
+     "end": 3.94
+    },
+    {
+     "w": "plant.",
+     "start": 3.94,
+     "end": 4.16
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.656,
+   "end": 8.823,
+   "text": "But the atoms keep splitting faster and faster, and the core gets hot enough to melt.",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.796,
+     "end": 4.996
+    },
+    {
+     "w": "the",
+     "start": 4.996,
+     "end": 5.197
+    },
+    {
+     "w": "atoms",
+     "start": 5.197,
+     "end": 5.546
+    },
+    {
+     "w": "keep",
+     "start": 5.546,
+     "end": 5.746
+    },
+    {
+     "w": "splitting",
+     "start": 5.746,
+     "end": 6.095
+    },
+    {
+     "w": "faster",
+     "start": 6.095,
+     "end": 6.444
+    },
+    {
+     "w": "and",
+     "start": 6.444,
+     "end": 6.645
+    },
+    {
+     "w": "faster,",
+     "start": 6.645,
+     "end": 6.994
+    },
+    {
+     "w": "and",
+     "start": 6.994,
+     "end": 7.194
+    },
+    {
+     "w": "the",
+     "start": 7.194,
+     "end": 7.395
+    },
+    {
+     "w": "core",
+     "start": 7.395,
+     "end": 7.595
+    },
+    {
+     "w": "gets",
+     "start": 7.595,
+     "end": 7.796
+    },
+    {
+     "w": "hot",
+     "start": 7.796,
+     "end": 7.996
+    },
+    {
+     "w": "enough",
+     "start": 7.996,
+     "end": 8.345
+    },
+    {
+     "w": "to",
+     "start": 8.345,
+     "end": 8.546
+    },
+    {
+     "w": "melt.",
+     "start": 8.546,
+     "end": 8.746
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.188,
+   "end": 14.031,
+   "text": "So you add control rods that soak up the flying neutrons, and slide them in and out to set the power.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.298,
+     "end": 9.499
+    },
+    {
+     "w": "you",
+     "start": 9.499,
+     "end": 9.7
+    },
+    {
+     "w": "add",
+     "start": 9.7,
+     "end": 9.901
+    },
+    {
+     "w": "control",
+     "start": 9.901,
+     "end": 10.251
+    },
+    {
+     "w": "rods",
+     "start": 10.251,
+     "end": 10.452
+    },
+    {
+     "w": "that",
+     "start": 10.452,
+     "end": 10.654
+    },
+    {
+     "w": "soak",
+     "start": 10.654,
+     "end": 10.855
+    },
+    {
+     "w": "up",
+     "start": 10.855,
+     "end": 11.056
+    },
+    {
+     "w": "the",
+     "start": 11.056,
+     "end": 11.257
+    },
+    {
+     "w": "flying",
+     "start": 11.257,
+     "end": 11.458
+    },
+    {
+     "w": "neutrons,",
+     "start": 11.458,
+     "end": 11.808
+    },
+    {
+     "w": "and",
+     "start": 11.808,
+     "end": 12.009
+    },
+    {
+     "w": "slide",
+     "start": 12.009,
+     "end": 12.21
+    },
+    {
+     "w": "them",
+     "start": 12.21,
+     "end": 12.411
+    },
+    {
+     "w": "in",
+     "start": 12.411,
+     "end": 12.612
+    },
+    {
+     "w": "and",
+     "start": 12.612,
+     "end": 12.814
+    },
+    {
+     "w": "out",
+     "start": 12.814,
+     "end": 13.015
+    },
+    {
+     "w": "to",
+     "start": 13.015,
+     "end": 13.216
+    },
+    {
+     "w": "set",
+     "start": 13.216,
+     "end": 13.417
+    },
+    {
+     "w": "the",
+     "start": 13.417,
+     "end": 13.618
+    },
+    {
+     "w": "power.",
+     "start": 13.618,
+     "end": 13.968
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.396,
+   "end": 19.51,
+   "text": "Now it's steady, but even switched off, the core keeps making heat, and if the water stops, it melts anyway.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 14.506,
+     "end": 14.704
+    },
+    {
+     "w": "it's",
+     "start": 14.704,
+     "end": 14.902
+    },
+    {
+     "w": "steady,",
+     "start": 14.902,
+     "end": 15.246
+    },
+    {
+     "w": "but",
+     "start": 15.386,
+     "end": 15.576
+    },
+    {
+     "w": "even",
+     "start": 15.576,
+     "end": 15.906
+    },
+    {
+     "w": "switched",
+     "start": 15.906,
+     "end": 16.236
+    },
+    {
+     "w": "off,",
+     "start": 16.236,
+     "end": 16.426
+    },
+    {
+     "w": "the",
+     "start": 16.476,
+     "end": 16.647
+    },
+    {
+     "w": "core",
+     "start": 16.647,
+     "end": 16.817
+    },
+    {
+     "w": "keeps",
+     "start": 16.817,
+     "end": 16.988
+    },
+    {
+     "w": "making",
+     "start": 16.988,
+     "end": 17.285
+    },
+    {
+     "w": "heat,",
+     "start": 17.285,
+     "end": 17.456
+    },
+    {
+     "w": "and",
+     "start": 17.596,
+     "end": 17.768
+    },
+    {
+     "w": "if",
+     "start": 17.768,
+     "end": 17.941
+    },
+    {
+     "w": "the",
+     "start": 17.941,
+     "end": 18.113
+    },
+    {
+     "w": "water",
+     "start": 18.113,
+     "end": 18.414
+    },
+    {
+     "w": "stops,",
+     "start": 18.414,
+     "end": 18.586
+    },
+    {
+     "w": "it",
+     "start": 18.726,
+     "end": 18.891
+    },
+    {
+     "w": "melts",
+     "start": 18.891,
+     "end": 19.056
+    },
+    {
+     "w": "anyway.",
+     "start": 19.056,
+     "end": 19.466
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.875,
+   "end": 25.031,
+   "text": "So you add backup pumps, diesel generators, and a giant water tank up high that pours in on its own.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.985,
+     "end": 20.208
+    },
+    {
+     "w": "you",
+     "start": 20.208,
+     "end": 20.431
+    },
+    {
+     "w": "add",
+     "start": 20.431,
+     "end": 20.654
+    },
+    {
+     "w": "backup",
+     "start": 20.654,
+     "end": 21.042
+    },
+    {
+     "w": "pumps,",
+     "start": 21.042,
+     "end": 21.265
+    },
+    {
+     "w": "diesel",
+     "start": 21.395,
+     "end": 21.714
+    },
+    {
+     "w": "generators,",
+     "start": 21.714,
+     "end": 22.305
+    },
+    {
+     "w": "and",
+     "start": 22.425,
+     "end": 22.611
+    },
+    {
+     "w": "a",
+     "start": 22.611,
+     "end": 22.796
+    },
+    {
+     "w": "giant",
+     "start": 22.796,
+     "end": 22.982
+    },
+    {
+     "w": "water",
+     "start": 22.982,
+     "end": 23.305
+    },
+    {
+     "w": "tank",
+     "start": 23.305,
+     "end": 23.49
+    },
+    {
+     "w": "up",
+     "start": 23.49,
+     "end": 23.676
+    },
+    {
+     "w": "high",
+     "start": 23.676,
+     "end": 23.862
+    },
+    {
+     "w": "that",
+     "start": 23.862,
+     "end": 24.047
+    },
+    {
+     "w": "pours",
+     "start": 24.047,
+     "end": 24.233
+    },
+    {
+     "w": "in",
+     "start": 24.233,
+     "end": 24.418
+    },
+    {
+     "w": "on",
+     "start": 24.418,
+     "end": 24.604
+    },
+    {
+     "w": "its",
+     "start": 24.604,
+     "end": 24.789
+    },
+    {
+     "w": "own.",
+     "start": 24.789,
+     "end": 24.975
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 25.396,
+   "end": 29.625,
+   "text": "But the water touching the core turns radioactive, and you don't want that spinning a turbine.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.536,
+     "end": 25.727
+    },
+    {
+     "w": "the",
+     "start": 25.727,
+     "end": 25.917
+    },
+    {
+     "w": "water",
+     "start": 25.917,
+     "end": 26.249
+    },
+    {
+     "w": "touching",
+     "start": 26.249,
+     "end": 26.581
+    },
+    {
+     "w": "the",
+     "start": 26.581,
+     "end": 26.772
+    },
+    {
+     "w": "core",
+     "start": 26.772,
+     "end": 26.962
+    },
+    {
+     "w": "turns",
+     "start": 26.962,
+     "end": 27.153
+    },
+    {
+     "w": "radioactive,",
+     "start": 27.153,
+     "end": 27.626
+    },
+    {
+     "w": "and",
+     "start": 27.716,
+     "end": 27.912
+    },
+    {
+     "w": "you",
+     "start": 27.912,
+     "end": 28.108
+    },
+    {
+     "w": "don't",
+     "start": 28.108,
+     "end": 28.305
+    },
+    {
+     "w": "want",
+     "start": 28.305,
+     "end": 28.501
+    },
+    {
+     "w": "that",
+     "start": 28.501,
+     "end": 28.697
+    },
+    {
+     "w": "spinning",
+     "start": 28.697,
+     "end": 29.038
+    },
+    {
+     "w": "a",
+     "start": 29.038,
+     "end": 29.235
+    },
+    {
+     "w": "turbine.",
+     "start": 29.235,
+     "end": 29.576
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 29.99,
+   "end": 36.438,
+   "text": "So you build two loops: the hot core water stays sealed inside and only heats clean water, which boils and spins the turbine.",
+   "words": [
+    {
+     "w": "So",
+     "start": 30.1,
+     "end": 30.33
+    },
+    {
+     "w": "you",
+     "start": 30.33,
+     "end": 30.56
+    },
+    {
+     "w": "build",
+     "start": 30.56,
+     "end": 30.79
+    },
+    {
+     "w": "two",
+     "start": 30.79,
+     "end": 31.02
+    },
+    {
+     "w": "loops:",
+     "start": 31.02,
+     "end": 31.25
+    },
+    {
+     "w": "the",
+     "start": 31.38,
+     "end": 31.593
+    },
+    {
+     "w": "hot",
+     "start": 31.593,
+     "end": 31.805
+    },
+    {
+     "w": "core",
+     "start": 31.805,
+     "end": 32.018
+    },
+    {
+     "w": "water",
+     "start": 32.018,
+     "end": 32.388
+    },
+    {
+     "w": "stays",
+     "start": 32.388,
+     "end": 32.601
+    },
+    {
+     "w": "sealed",
+     "start": 32.601,
+     "end": 32.971
+    },
+    {
+     "w": "inside",
+     "start": 32.971,
+     "end": 33.341
+    },
+    {
+     "w": "and",
+     "start": 33.341,
+     "end": 33.554
+    },
+    {
+     "w": "only",
+     "start": 33.554,
+     "end": 33.924
+    },
+    {
+     "w": "heats",
+     "start": 33.924,
+     "end": 34.137
+    },
+    {
+     "w": "clean",
+     "start": 34.137,
+     "end": 34.35
+    },
+    {
+     "w": "water,",
+     "start": 34.35,
+     "end": 34.72
+    },
+    {
+     "w": "which",
+     "start": 34.84,
+     "end": 35.07
+    },
+    {
+     "w": "boils",
+     "start": 35.07,
+     "end": 35.3
+    },
+    {
+     "w": "and",
+     "start": 35.3,
+     "end": 35.53
+    },
+    {
+     "w": "spins",
+     "start": 35.53,
+     "end": 35.76
+    },
+    {
+     "w": "the",
+     "start": 35.76,
+     "end": 35.99
+    },
+    {
+     "w": "turbine.",
+     "start": 35.99,
+     "end": 36.39
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 36.802,
+   "end": 40.479,
+   "text": "Now it works, until an earthquake, a flood or a plane hits the building.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 36.902,
+     "end": 37.142
+    },
+    {
+     "w": "it",
+     "start": 37.142,
+     "end": 37.382
+    },
+    {
+     "w": "works,",
+     "start": 37.382,
+     "end": 37.622
+    },
+    {
+     "w": "until",
+     "start": 37.762,
+     "end": 38.065
+    },
+    {
+     "w": "an",
+     "start": 38.065,
+     "end": 38.239
+    },
+    {
+     "w": "earthquake,",
+     "start": 38.239,
+     "end": 38.542
+    },
+    {
+     "w": "a",
+     "start": 38.712,
+     "end": 38.908
+    },
+    {
+     "w": "flood",
+     "start": 38.908,
+     "end": 39.103
+    },
+    {
+     "w": "or",
+     "start": 39.103,
+     "end": 39.299
+    },
+    {
+     "w": "a",
+     "start": 39.299,
+     "end": 39.495
+    },
+    {
+     "w": "plane",
+     "start": 39.495,
+     "end": 39.69
+    },
+    {
+     "w": "hits",
+     "start": 39.69,
+     "end": 39.886
+    },
+    {
+     "w": "the",
+     "start": 39.886,
+     "end": 40.081
+    },
+    {
+     "w": "building.",
+     "start": 40.081,
+     "end": 40.422
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 40.844,
+   "end": 44.781,
+   "text": "So you wrap the reactor in a steel shell inside a concrete dome over a meter thick.",
+   "words": [
+    {
+     "w": "So",
+     "start": 40.954,
+     "end": 41.135
+    },
+    {
+     "w": "you",
+     "start": 41.135,
+     "end": 41.315
+    },
+    {
+     "w": "wrap",
+     "start": 41.315,
+     "end": 41.496
+    },
+    {
+     "w": "the",
+     "start": 41.496,
+     "end": 41.677
+    },
+    {
+     "w": "reactor",
+     "start": 41.677,
+     "end": 41.991
+    },
+    {
+     "w": "in",
+     "start": 41.991,
+     "end": 42.172
+    },
+    {
+     "w": "a",
+     "start": 42.172,
+     "end": 42.352
+    },
+    {
+     "w": "steel",
+     "start": 42.352,
+     "end": 42.533
+    },
+    {
+     "w": "shell",
+     "start": 42.533,
+     "end": 42.714
+    },
+    {
+     "w": "inside",
+     "start": 42.714,
+     "end": 43.028
+    },
+    {
+     "w": "a",
+     "start": 43.028,
+     "end": 43.209
+    },
+    {
+     "w": "concrete",
+     "start": 43.209,
+     "end": 43.523
+    },
+    {
+     "w": "dome",
+     "start": 43.523,
+     "end": 43.704
+    },
+    {
+     "w": "over",
+     "start": 43.704,
+     "end": 44.018
+    },
+    {
+     "w": "a",
+     "start": 44.018,
+     "end": 44.199
+    },
+    {
+     "w": "meter",
+     "start": 44.199,
+     "end": 44.513
+    },
+    {
+     "w": "thick.",
+     "start": 44.513,
+     "end": 44.694
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 45.146,
+   "end": 49.156,
+   "text": "But before you flip the switch, follow, because next we're building an aircraft carrier.",
+   "words": [
+    {
+     "w": "But",
+     "start": 45.296,
+     "end": 45.487
+    },
+    {
+     "w": "before",
+     "start": 45.487,
+     "end": 45.821
+    },
+    {
+     "w": "you",
+     "start": 45.821,
+     "end": 46.012
+    },
+    {
+     "w": "flip",
+     "start": 46.012,
+     "end": 46.203
+    },
+    {
+     "w": "the",
+     "start": 46.203,
+     "end": 46.395
+    },
+    {
+     "w": "switch,",
+     "start": 46.395,
+     "end": 46.586
+    },
+    {
+     "w": "follow,",
+     "start": 46.726,
+     "end": 47.026
+    },
+    {
+     "w": "because",
+     "start": 47.156,
+     "end": 47.495
+    },
+    {
+     "w": "next",
+     "start": 47.495,
+     "end": 47.69
+    },
+    {
+     "w": "we're",
+     "start": 47.69,
+     "end": 47.884
+    },
+    {
+     "w": "building",
+     "start": 47.884,
+     "end": 48.223
+    },
+    {
+     "w": "an",
+     "start": 48.223,
+     "end": 48.418
+    },
+    {
+     "w": "aircraft",
+     "start": 48.418,
+     "end": 48.757
+    },
+    {
+     "w": "carrier.",
+     "start": 48.757,
+     "end": 49.096
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 49.521,
+   "end": 52.875,
+   "text": "Now just add two giant towers that puff out nothing but steam.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 49.631,
+     "end": 49.867
+    },
+    {
+     "w": "just",
+     "start": 49.867,
+     "end": 50.103
+    },
+    {
+     "w": "add",
+     "start": 50.103,
+     "end": 50.339
+    },
+    {
+     "w": "two",
+     "start": 50.339,
+     "end": 50.575
+    },
+    {
+     "w": "giant",
+     "start": 50.575,
+     "end": 50.81
+    },
+    {
+     "w": "towers",
+     "start": 50.81,
+     "end": 51.221
+    },
+    {
+     "w": "that",
+     "start": 51.221,
+     "end": 51.457
+    },
+    {
+     "w": "puff",
+     "start": 51.457,
+     "end": 51.693
+    },
+    {
+     "w": "out",
+     "start": 51.693,
+     "end": 51.929
+    },
+    {
+     "w": "nothing",
+     "start": 51.929,
+     "end": 52.339
+    },
+    {
+     "w": "but",
+     "start": 52.339,
+     "end": 52.575
+    },
+    {
+     "w": "steam.",
+     "start": 52.575,
+     "end": 52.811
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 53.24,
+   "end": 56.552,
+   "text": "One fuel pellet, the energy of a ton of coal, zero smoke.",
+   "words": [
+    {
+     "w": "One",
+     "start": 53.34,
+     "end": 53.559
+    },
+    {
+     "w": "fuel",
+     "start": 53.559,
+     "end": 53.778
+    },
+    {
+     "w": "pellet,",
+     "start": 53.778,
+     "end": 54.16
+    },
+    {
+     "w": "the",
+     "start": 54.29,
+     "end": 54.478
+    },
+    {
+     "w": "energy",
+     "start": 54.478,
+     "end": 54.945
+    },
+    {
+     "w": "of",
+     "start": 54.945,
+     "end": 55.133
+    },
+    {
+     "w": "a",
+     "start": 55.133,
+     "end": 55.321
+    },
+    {
+     "w": "ton",
+     "start": 55.321,
+     "end": 55.509
+    },
+    {
+     "w": "of",
+     "start": 55.509,
+     "end": 55.697
+    },
+    {
+     "w": "coal,",
+     "start": 55.697,
+     "end": 55.885
+    },
+    {
+     "w": "zero",
+     "start": 55.885,
+     "end": 56.212
+    },
+    {
+     "w": "smoke.",
+     "start": 56.212,
+     "end": 56.4
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.917,
+   "end": 59.979,
+   "text": "And congrats, you just built a nuclear power plant yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 57.037,
+     "end": 57.256
+    },
+    {
+     "w": "congrats,",
+     "start": 57.256,
+     "end": 57.637
+    },
+    {
+     "w": "you",
+     "start": 57.637,
+     "end": 57.857
+    },
+    {
+     "w": "just",
+     "start": 57.857,
+     "end": 58.076
+    },
+    {
+     "w": "built",
+     "start": 58.076,
+     "end": 58.295
+    },
+    {
+     "w": "a",
+     "start": 58.295,
+     "end": 58.514
+    },
+    {
+     "w": "nuclear",
+     "start": 58.514,
+     "end": 58.895
+    },
+    {
+     "w": "power",
+     "start": 58.895,
+     "end": 59.277
+    },
+    {
+     "w": "plant",
+     "start": 59.277,
+     "end": 59.496
+    },
+    {
+     "w": "yourself.",
+     "start": 59.496,
+     "end": 59.877
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 60.344,
+   "end": 63.865,
+   "text": "And those scary towers everyone's afraid of? The world's biggest kettles.",
+   "words": [
+    {
+     "w": "And",
+     "start": 60.464,
+     "end": 60.638
+    },
+    {
+     "w": "those",
+     "start": 60.638,
+     "end": 60.812
+    },
+    {
+     "w": "scary",
+     "start": 60.812,
+     "end": 61.114
+    },
+    {
+     "w": "towers",
+     "start": 61.114,
+     "end": 61.417
+    },
+    {
+     "w": "everyone's",
+     "start": 61.417,
+     "end": 61.977
+    },
+    {
+     "w": "afraid",
+     "start": 61.977,
+     "end": 62.28
+    },
+    {
+     "w": "of?",
+     "start": 62.28,
+     "end": 62.454
+    },
+    {
+     "w": "The",
+     "start": 62.624,
+     "end": 62.837
+    },
+    {
+     "w": "world's",
+     "start": 62.837,
+     "end": 63.051
+    },
+    {
+     "w": "biggest",
+     "start": 63.051,
+     "end": 63.422
+    },
+    {
+     "w": "kettles.",
+     "start": 63.422,
+     "end": 63.794
+    }
+   ]
+  }
+ ]
+}

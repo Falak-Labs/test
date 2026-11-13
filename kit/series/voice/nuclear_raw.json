@@ -1,0 +1,91 @@
+{
+ "voice": "Easton",
+ "duration": 61.31,
+ "words": 221,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.12,
+   "text": "If you use uranium to boil water, congrats, you just built a nuclear power plant."
+  },
+  {
+   "line": 2,
+   "start": 4.47,
+   "end": 8.47,
+   "text": "But the atoms keep splitting faster and faster, and the core gets hot enough to melt."
+  },
+  {
+   "line": 3,
+   "start": 8.82,
+   "end": 13.47,
+   "text": "So you add control rods that soak up the flying neutrons, and slide them in and out to set the power."
+  },
+  {
+   "line": 4,
+   "start": 13.82,
+   "end": 18.73,
+   "text": "Now it's steady, but even switched off, the core keeps making heat, and if the water stops, it melts anyway."
+  },
+  {
+   "line": 5,
+   "start": 19.08,
+   "end": 24.03,
+   "text": "So you add backup pumps, diesel generators, and a giant water tank up high that pours in on its own."
+  },
+  {
+   "line": 6,
+   "start": 24.38,
+   "end": 28.44,
+   "text": "But the water touching the core turns radioactive, and you don't want that spinning a turbine."
+  },
+  {
+   "line": 7,
+   "start": 28.79,
+   "end": 34.98,
+   "text": "So you build two loops: the hot core water stays sealed inside and only heats clean water, which boils and spins the turbine."
+  },
+  {
+   "line": 8,
+   "start": 35.33,
+   "end": 38.86,
+   "text": "Now it works, until an earthquake, a flood or a plane hits the building."
+  },
+  {
+   "line": 9,
+   "start": 39.21,
+   "end": 42.99,
+   "text": "So you wrap the reactor in a steel shell inside a concrete dome over a meter thick."
+  },
+  {
+   "line": 10,
+   "start": 43.34,
+   "end": 47.19,
+   "text": "But before you flip the switch, follow, because next we're building an aircraft carrier."
+  },
+  {
+   "line": 11,
+   "start": 47.54,
+   "end": 50.76,
+   "text": "Now just add two giant towers that puff out nothing but steam."
+  },
+  {
+   "line": 12,
+   "start": 51.11,
+   "end": 54.29,
+   "text": "One fuel pellet, the energy of a ton of coal, zero smoke."
+  },
+  {
+   "line": 13,
+   "start": 54.64,
+   "end": 57.58,
+   "text": "And congrats, you just built a nuclear power plant yourself."
+  },
+  {
+   "line": 14,
+   "start": 57.93,
+   "end": 61.31,
+   "text": "And those scary towers everyone's afraid of? The world's biggest kettles."
+  }
+ ]
+}
