@@ -98,8 +98,10 @@ def make(slug, kit, langs, look):
                 elif lang == "ar":
                     run([sys.executable, "-I", "-u", "tools/make_vo_namaa.py", f"series/{kit}_lines_ar_sa.txt", vo,
                          "--asr", "--seed", "301", "--max-rate", "14.5"] + (["--only", fix] if have and fix else []), log, env)
-                else:
-                    run([sys.executable, "-I", "-u", "tools/make_vo.py", f"series/{kit}_lines.txt", vo, "--verify"], log, env)
+                else:                                                                 # Phonon (free): line times, then word times
+                    run([sys.executable, "-I", "-u", "tools/make_vo.py", f"series/{kit}_lines.txt", vo, "--verify",
+                         "--voice", str(eng.get("voice", "Easton"))], log, env)
+                    run([sys.executable, "-I", "-u", "tools/align_words.py", vo], log, env)
                 for f in glob.glob(os.path.join(KIT, vo + ".json")) + glob.glob(os.path.join(KIT, vo + ".wav")):
                     shutil.copy(f, os.path.join(dst, "voice"))
                 if os.path.isdir(os.path.join(KIT, vo + "_lines")):

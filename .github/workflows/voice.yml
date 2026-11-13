@@ -1,0 +1,56 @@
+name: Make voices
+# Narration only, no render: English with free Phonon Easton, Arabic with ElevenLabs (voices.yml). The files land in
+# kit/series/voice/, where the Produce workflow reuses them. Use it to hear and time a script before animating it.
+on:
+  workflow_dispatch:
+    inputs:
+      kit:
+        description: "kit name, as in kit/series/<kit>_lines.txt (e.g. nuclear)"
+        required: true
+      langs:
+        description: "en, ar or en,ar"
+        default: "en,ar"
+      force:
+        description: "make again even if the voice files exist"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: voice-${{ inputs.kit }}
+  cancel-in-progress: false
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      TTS_HOME: /home/runner/tts
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements-ci*.txt
+      - name: ffmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends ffmpeg
+      - name: Python packages
+        run: pip install --quiet -r scripts/requirements-ci.txt
+      - uses: actions/cache@v4
+        with:
+          path: /home/runner/tts
+          key: tts-voice-v1
+      - name: Models (Phonon Easton and Whisper base.en; Arabic needs none)
+        run: bash scripts/ci_models.sh en
+      - name: Voices
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          KIT: ${{ inputs.kit }}
+          LANGS: ${{ inputs.langs }}
+          FORCE: ${{ inputs.force }}
+        run: python scripts/make_voices.py
+      - name: Save to the repo
+        run: |
+          bash scripts/save_state.sh "voice for ${{ inputs.kit }}, $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" kit/series/voice

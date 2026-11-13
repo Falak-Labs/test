@@ -1,6 +1,7 @@
 # Narrator voice per language for NEW episodes. An episode whose voice files already exist in kit/series/voice keeps
-# them (Episodes 1-20: Easton for English, NAMAA Saudi for Arabic).
+# them (Episodes 1-20: Easton + NAMAA Saudi; builds 21-23: ElevenLabs for both).
+#   engine: phonon = Phonon 31M (gradium/phonon-31m-en, Apache 2.0, free, runs on the runner's CPU); voice = catalogue name
 #   engine: eleven = ElevenLabs (needs the ELEVENLABS_API_KEY Actions secret; voice = ElevenLabs voice ID, not secret)
-#   no entry   = the old voices: Phonon Easton (English, made in the workspace) and NAMAA Saudi (Arabic, on the runner)
-en: {engine: eleven, voice: XA3P1cj7XJexe6Zq0ATX, model: eleven_multilingual_v2}
+# From Nov 12 2026 (owner's call): English on free Easton, only Arabic on ElevenLabs (Egyptian narrator).
+en: {engine: phonon, voice: Easton}
 ar: {engine: eleven, voice: IES4nrmZdUBHByLBde0P, model: eleven_multilingual_v2}

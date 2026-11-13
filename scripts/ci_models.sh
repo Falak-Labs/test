@@ -27,5 +27,14 @@ if [[ ",$langs," == *",ar,"* ]]; then
 fi
 if [[ ",$langs," == *",en,"* ]]; then
   asr base.en
+  m="$TTS_HOME/phonon/phonon-31m-en"; v="$TTS_HOME/phonon/phonon-voices"; mkdir -p "$m" "$v/voices"
+  for f in model.q8.gguf config.json generation_config.json processor_config.json tokenizer.json tokenizer.model \
+           tokenizer_config.json tokenizer.5.0.0.json chat_template.jinja default-voice.safetensors README.md; do
+    get "https://huggingface.co/gradium/phonon-31m-en/resolve/main/$f" "$m/$f"
+  done
+  get "https://huggingface.co/gradium/phonon-voices/resolve/main/voices.jsonl" "$v/voices.jsonl"
+  get "https://huggingface.co/gradium/phonon-voices/resolve/main/README.md" "$v/README.md"
+  get "https://huggingface.co/gradium/phonon-voices/resolve/main/voices/LMDIYE0Oa377Qh6Z.safetensors" \
+      "$v/voices/LMDIYE0Oa377Qh6Z.safetensors"                                   # Easton
 fi
 du -sh "$TTS_HOME"/* 2>/dev/null || true
