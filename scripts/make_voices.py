@@ -38,9 +38,22 @@ for lang in langs:
     if eng.get("engine") == "eleven":
         if not os.environ.get("ELEVENLABS_API_KEY"):
             sys.exit("voices.yml asks for ElevenLabs but the ELEVENLABS_API_KEY secret is not set")
+        try:                                                  # who is this voice? (name, accent labels; never the key)
+            import requests
+            r = requests.get(f"https://api.elevenlabs.io/v1/voices/{eng['voice']}",
+                             headers={"xi-api-key": os.environ["ELEVENLABS_API_KEY"]}, timeout=30)
+            if r.ok:
+                v = r.json()
+                print(f"== {lang} voice {eng['voice']}: {v.get('name')!r}, category {v.get('category')}, "
+                      f"labels {v.get('labels')}, description {(v.get('description') or '')[:200]!r}", flush=True)
+            else:
+                print(f"== {lang} voice {eng['voice']}: lookup answered {r.status_code}", flush=True)
+        except Exception as e:  # noqa: BLE001
+            print(f"== voice lookup failed: {type(e).__name__}", flush=True)
+        fit = ["--min", "0", "--max", "9999"] if kit.startswith("sample") else []      # samples keep natural speed
         run([sys.executable, "-I", "-u", "tools/make_vo_eleven.py", lines, vo, "--voice", str(eng["voice"]),
              "--model", eng.get("model", "eleven_multilingual_v2"), "--speed", str(eng.get("speed", 1.0)),
-             "--pause", str(eng.get("pause", 0.22))])
+             "--pause", str(eng.get("pause", 0.22))] + fit)
     elif eng.get("engine") == "phonon":
         run([sys.executable, "-I", "-u", "tools/make_vo.py", lines, vo, "--verify", "--voice", str(eng.get("voice", "Easton"))])
         run([sys.executable, "-I", "-u", "tools/align_words.py", vo])

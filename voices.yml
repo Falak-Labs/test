@@ -4,4 +4,4 @@
 #   engine: eleven = ElevenLabs (needs the ELEVENLABS_API_KEY Actions secret; voice = ElevenLabs voice ID, not secret)
 # From Nov 12 2026 (owner's call): English on free Easton, only Arabic on ElevenLabs (Egyptian narrator).
 en: {engine: phonon, voice: Easton}
-ar: {engine: eleven, voice: IES4nrmZdUBHByLBde0P, model: eleven_multilingual_v2}
+ar: {engine: eleven, voice: UZbXudn9g5q7bjznYXcC, model: eleven_multilingual_v2}   # owner's pick Nov 12 20:33 PT (was IES4nrmZdUBHByLBde0P)
