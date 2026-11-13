@@ -182,3 +182,15 @@
 - Posting: posts/epNN-KIT.yml may carry `at:` inside each language block (post.py fixed_time(ep, platform, lang)).
   Day slots: English 06:00, 10:00, 16:00 PT; Arabic 09:00, 11:00, 13:00 PT (7, 9, 11 pm Cairo), Arabic TikToks 2 h apart.
   Push a post file only after its videos are committed AND a Pages deployment after that commit ended in success.
+
+## Voices from Nov 12 2026 17:41 PT: English back on free Easton, only Arabic on ElevenLabs
+- Owner: "use English voice the free one ... no need to waste money on new voice. So only Arabic use ElevenLabs."
+  voices.yml: en {engine: phonon, voice: Easton}, ar {engine: eleven, voice: IES4nrmZdUBHByLBde0P}. Builds 21-23 keep
+  their ElevenLabs English (already posted).
+- The runner now makes Easton itself: requirements-ci.txt has ptts==0.6.0, ci_models.sh "en" fetches
+  gradium/phonon-31m-en and the Easton embedding (gradium/phonon-voices voices/LMDIYE0Oa377Qh6Z.safetensors) from
+  Hugging Face, and produce.py runs tools/make_vo.py --verify then tools/align_words.py (word times).
+- New workflow "Make voices" (.github/workflows/voice.yml, scripts/make_voices.py): narration only, inputs kit, langs,
+  force; commits kit/series/voice/KIT* and prints each voice's length. Make the voices before animating, then check
+  the scene with the real timings. Test Nov 13 01:51Z: build 24 English 221 words -> 63.84 s, 0% word errors.
+- Credits now: only Arabic, about 950 per build, about 57,000 a month at two builds a day.
