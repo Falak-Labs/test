@@ -1,0 +1,137 @@
+{
+ "slug": "ep26-tower",
+ "kit": "tower",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.33,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "35/234",
+   "mix_lines_off": [
+    "L 1 4 diff  | If you stack over 160 floors into the desert sky, congrats, you just built the world's tallest tower.",
+    "L 3 6 diff  | So you drill 192 piles 50 meters deep and the ground gripping their sides holds it up.",
+    "L 5 1 diff  | So you give it three wanes around a strong core, each one bracing the others like a tripod.",
+    "L 7 2 diff  | So it steps in 27 times as it climbs in a spiral so the wind never gets a grip.",
+    "L 9 2 diff  | So you pour at night with ice in the mix and pump it a record 600 meters straight up.",
+    "L11 2 diff  | Now just push a 200 meter spire up through the roof and turn on the lights.",
+    "L12 12 diff | 828 meters, 163 floors, 57 elevators.",
+    "L14 6 diff  | and the day the elevator breaks 2909 stairs."
+   ],
+   "size_mb": 19.9
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو رصيت مية وستين دور فوق بعض في الصحرا، مبروك، كده انت بنيت أطول برج في الدنيا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الأرض هنا رمل وصخر طري، وبرج بالتقل ده هيغرز فيها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتحفر مية اتنين وتسعين عمود خمسين متر لتحت، والأرض تمسك في جنابهم وتشيله.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "دلوقتي واقف، بس رفيع كده هيتهز زي قلم على سنه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتعمله تلات جناحات حوالين قلب جامد، كل واحد ساند التانيين، زي حامل الكاميرا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس فوق، الهوا بيعمل دوامات تهزه يمين وشمال.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فيدخل لجوه سبعة وعشرين مرة وهو طالع، زي الحلزونة، فالهوا يتلخبط وما يمسكوش.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "دلوقتي الشكل تمام، بس في الحر، الخرسانة بتشد قبل ما توصل فوق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتصب بالليل، بتلج في الخلطة، وتضخها ستمية متر لفوق، رقم قياسي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تطلع فوق، تابعني، عشان اللي جاي هنبني مكنة حفر أنفاق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس زق من جوه سارية ميتين متر تطلع من السطح، وولع النور.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "تمنمية تمانية وعشرين متر، مية تلاتة وستين دور، سبعة وخمسين أسانسير.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت أطول برج في الدنيا بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "والبواب؟ هيقولك الأسانسير عطلان يا باشا، دول ألفين وتسعمية سلمة بس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 70.7,
+   "lufs": -14.0,
+   "peak": -1.6,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.2
+  }
+ }
+}

@@ -1,0 +1,6 @@
+tower_ar_sa: 70.69s, 2121 frames
+video done in 625s
+audio done
+final out/tower_ar_sa/tower_ar_sa_final.mp4
+QA  duration 70.70s  loudness -14.0 LUFS  true peak -1.6 dBFS  1080x1920 @ 30/1  frames 2121
+QA sheet out/tower_ar_sa/qa_sheet.png
