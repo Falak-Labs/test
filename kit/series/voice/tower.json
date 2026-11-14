@@ -1,0 +1,1267 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.32,
+ "words": 229,
+ "words_per_sec": 3.51,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.01,
+   "text": "If you stack over a hundred and sixty floors into the desert sky, congrats, you just built the world's tallest tower.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.342
+    },
+    {
+     "w": "you",
+     "start": 0.342,
+     "end": 0.554
+    },
+    {
+     "w": "stack",
+     "start": 0.554,
+     "end": 0.766
+    },
+    {
+     "w": "over",
+     "start": 0.766,
+     "end": 1.135
+    },
+    {
+     "w": "a",
+     "start": 1.135,
+     "end": 1.347
+    },
+    {
+     "w": "hundred",
+     "start": 1.347,
+     "end": 1.716
+    },
+    {
+     "w": "and",
+     "start": 1.716,
+     "end": 1.928
+    },
+    {
+     "w": "sixty",
+     "start": 1.928,
+     "end": 2.297
+    },
+    {
+     "w": "floors",
+     "start": 2.297,
+     "end": 2.509
+    },
+    {
+     "w": "into",
+     "start": 2.509,
+     "end": 2.878
+    },
+    {
+     "w": "the",
+     "start": 2.878,
+     "end": 3.09
+    },
+    {
+     "w": "desert",
+     "start": 3.09,
+     "end": 3.459
+    },
+    {
+     "w": "sky,",
+     "start": 3.459,
+     "end": 3.671
+    },
+    {
+     "w": "congrats,",
+     "start": 3.671,
+     "end": 4.04
+    },
+    {
+     "w": "you",
+     "start": 4.18,
+     "end": 4.389
+    },
+    {
+     "w": "just",
+     "start": 4.389,
+     "end": 4.597
+    },
+    {
+     "w": "built",
+     "start": 4.597,
+     "end": 4.806
+    },
+    {
+     "w": "the",
+     "start": 4.806,
+     "end": 5.015
+    },
+    {
+     "w": "world's",
+     "start": 5.015,
+     "end": 5.223
+    },
+    {
+     "w": "tallest",
+     "start": 5.223,
+     "end": 5.587
+    },
+    {
+     "w": "tower.",
+     "start": 5.587,
+     "end": 5.95
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.375,
+   "end": 10.25,
+   "text": "But the ground here is sand and soft rock, and a tower this heavy would sink.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.515,
+     "end": 6.709
+    },
+    {
+     "w": "the",
+     "start": 6.709,
+     "end": 6.904
+    },
+    {
+     "w": "ground",
+     "start": 6.904,
+     "end": 7.098
+    },
+    {
+     "w": "here",
+     "start": 7.098,
+     "end": 7.293
+    },
+    {
+     "w": "is",
+     "start": 7.293,
+     "end": 7.487
+    },
+    {
+     "w": "sand",
+     "start": 7.487,
+     "end": 7.682
+    },
+    {
+     "w": "and",
+     "start": 7.682,
+     "end": 7.876
+    },
+    {
+     "w": "soft",
+     "start": 7.876,
+     "end": 8.071
+    },
+    {
+     "w": "rock,",
+     "start": 8.071,
+     "end": 8.265
+    },
+    {
+     "w": "and",
+     "start": 8.335,
+     "end": 8.548
+    },
+    {
+     "w": "a",
+     "start": 8.548,
+     "end": 8.762
+    },
+    {
+     "w": "tower",
+     "start": 8.762,
+     "end": 9.133
+    },
+    {
+     "w": "this",
+     "start": 9.133,
+     "end": 9.347
+    },
+    {
+     "w": "heavy",
+     "start": 9.347,
+     "end": 9.718
+    },
+    {
+     "w": "would",
+     "start": 9.718,
+     "end": 9.932
+    },
+    {
+     "w": "sink.",
+     "start": 9.932,
+     "end": 10.145
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.615,
+   "end": 15.698,
+   "text": "So you drill a hundred and ninety-two piles fifty meters deep, and the ground gripping their sides holds it up.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.725,
+     "end": 10.902
+    },
+    {
+     "w": "you",
+     "start": 10.902,
+     "end": 11.078
+    },
+    {
+     "w": "drill",
+     "start": 11.078,
+     "end": 11.255
+    },
+    {
+     "w": "a",
+     "start": 11.255,
+     "end": 11.432
+    },
+    {
+     "w": "hundred",
+     "start": 11.432,
+     "end": 11.739
+    },
+    {
+     "w": "and",
+     "start": 11.739,
+     "end": 11.916
+    },
+    {
+     "w": "ninety-two",
+     "start": 11.916,
+     "end": 12.486
+    },
+    {
+     "w": "piles",
+     "start": 12.486,
+     "end": 12.793
+    },
+    {
+     "w": "fifty",
+     "start": 12.793,
+     "end": 13.101
+    },
+    {
+     "w": "meters",
+     "start": 13.101,
+     "end": 13.408
+    },
+    {
+     "w": "deep,",
+     "start": 13.408,
+     "end": 13.585
+    },
+    {
+     "w": "and",
+     "start": 13.775,
+     "end": 13.95
+    },
+    {
+     "w": "the",
+     "start": 13.95,
+     "end": 14.124
+    },
+    {
+     "w": "ground",
+     "start": 14.124,
+     "end": 14.299
+    },
+    {
+     "w": "gripping",
+     "start": 14.299,
+     "end": 14.603
+    },
+    {
+     "w": "their",
+     "start": 14.603,
+     "end": 14.777
+    },
+    {
+     "w": "sides",
+     "start": 14.777,
+     "end": 15.081
+    },
+    {
+     "w": "holds",
+     "start": 15.081,
+     "end": 15.256
+    },
+    {
+     "w": "it",
+     "start": 15.256,
+     "end": 15.43
+    },
+    {
+     "w": "up.",
+     "start": 15.43,
+     "end": 15.605
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.062,
+   "end": 19.969,
+   "text": "Now it stands, but a tower this skinny would wobble like a pencil on its tip.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 16.162,
+     "end": 16.295
+    },
+    {
+     "w": "it",
+     "start": 16.295,
+     "end": 16.429
+    },
+    {
+     "w": "stands,",
+     "start": 16.429,
+     "end": 16.562
+    },
+    {
+     "w": "but",
+     "start": 16.612,
+     "end": 16.824
+    },
+    {
+     "w": "a",
+     "start": 16.824,
+     "end": 17.035
+    },
+    {
+     "w": "tower",
+     "start": 17.035,
+     "end": 17.403
+    },
+    {
+     "w": "this",
+     "start": 17.403,
+     "end": 17.615
+    },
+    {
+     "w": "skinny",
+     "start": 17.615,
+     "end": 17.983
+    },
+    {
+     "w": "would",
+     "start": 17.983,
+     "end": 18.195
+    },
+    {
+     "w": "wobble",
+     "start": 18.195,
+     "end": 18.406
+    },
+    {
+     "w": "like",
+     "start": 18.406,
+     "end": 18.618
+    },
+    {
+     "w": "a",
+     "start": 18.618,
+     "end": 18.829
+    },
+    {
+     "w": "pencil",
+     "start": 18.829,
+     "end": 19.197
+    },
+    {
+     "w": "on",
+     "start": 19.197,
+     "end": 19.409
+    },
+    {
+     "w": "its",
+     "start": 19.409,
+     "end": 19.62
+    },
+    {
+     "w": "tip.",
+     "start": 19.62,
+     "end": 19.832
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 20.333,
+   "end": 24.927,
+   "text": "So you give it three wings around a strong core, each one bracing the others, like a tripod.",
+   "words": [
+    {
+     "w": "So",
+     "start": 20.443,
+     "end": 20.644
+    },
+    {
+     "w": "you",
+     "start": 20.644,
+     "end": 20.845
+    },
+    {
+     "w": "give",
+     "start": 20.845,
+     "end": 21.046
+    },
+    {
+     "w": "it",
+     "start": 21.046,
+     "end": 21.247
+    },
+    {
+     "w": "three",
+     "start": 21.247,
+     "end": 21.449
+    },
+    {
+     "w": "wings",
+     "start": 21.449,
+     "end": 21.65
+    },
+    {
+     "w": "around",
+     "start": 21.65,
+     "end": 22.0
+    },
+    {
+     "w": "a",
+     "start": 22.0,
+     "end": 22.201
+    },
+    {
+     "w": "strong",
+     "start": 22.201,
+     "end": 22.402
+    },
+    {
+     "w": "core,",
+     "start": 22.402,
+     "end": 22.603
+    },
+    {
+     "w": "each",
+     "start": 22.733,
+     "end": 22.93
+    },
+    {
+     "w": "one",
+     "start": 22.93,
+     "end": 23.128
+    },
+    {
+     "w": "bracing",
+     "start": 23.128,
+     "end": 23.472
+    },
+    {
+     "w": "the",
+     "start": 23.472,
+     "end": 23.669
+    },
+    {
+     "w": "others,",
+     "start": 23.669,
+     "end": 24.013
+    },
+    {
+     "w": "like",
+     "start": 24.143,
+     "end": 24.333
+    },
+    {
+     "w": "a",
+     "start": 24.333,
+     "end": 24.523
+    },
+    {
+     "w": "tripod.",
+     "start": 24.523,
+     "end": 24.853
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 25.292,
+   "end": 29.375,
+   "text": "But up high, the wind spins into whirlpools that shake it side to side.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.422,
+     "end": 25.655
+    },
+    {
+     "w": "up",
+     "start": 25.655,
+     "end": 25.889
+    },
+    {
+     "w": "high,",
+     "start": 25.889,
+     "end": 26.122
+    },
+    {
+     "w": "the",
+     "start": 26.272,
+     "end": 26.512
+    },
+    {
+     "w": "wind",
+     "start": 26.512,
+     "end": 26.753
+    },
+    {
+     "w": "spins",
+     "start": 26.753,
+     "end": 26.993
+    },
+    {
+     "w": "into",
+     "start": 26.993,
+     "end": 27.411
+    },
+    {
+     "w": "whirlpools",
+     "start": 27.411,
+     "end": 27.83
+    },
+    {
+     "w": "that",
+     "start": 27.83,
+     "end": 28.07
+    },
+    {
+     "w": "shake",
+     "start": 28.07,
+     "end": 28.311
+    },
+    {
+     "w": "it",
+     "start": 28.311,
+     "end": 28.551
+    },
+    {
+     "w": "side",
+     "start": 28.551,
+     "end": 28.791
+    },
+    {
+     "w": "to",
+     "start": 28.791,
+     "end": 29.032
+    },
+    {
+     "w": "side.",
+     "start": 29.032,
+     "end": 29.272
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 29.74,
+   "end": 34.49,
+   "text": "So it steps in twenty-seven times as it climbs, in a spiral, so the wind never gets a grip.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.85,
+     "end": 30.01
+    },
+    {
+     "w": "it",
+     "start": 30.01,
+     "end": 30.169
+    },
+    {
+     "w": "steps",
+     "start": 30.169,
+     "end": 30.329
+    },
+    {
+     "w": "in",
+     "start": 30.329,
+     "end": 30.489
+    },
+    {
+     "w": "twenty-seven",
+     "start": 30.489,
+     "end": 31.003
+    },
+    {
+     "w": "times",
+     "start": 31.003,
+     "end": 31.281
+    },
+    {
+     "w": "as",
+     "start": 31.281,
+     "end": 31.441
+    },
+    {
+     "w": "it",
+     "start": 31.441,
+     "end": 31.6
+    },
+    {
+     "w": "climbs,",
+     "start": 31.6,
+     "end": 31.76
+    },
+    {
+     "w": "in",
+     "start": 31.81,
+     "end": 32.016
+    },
+    {
+     "w": "a",
+     "start": 32.016,
+     "end": 32.222
+    },
+    {
+     "w": "spiral,",
+     "start": 32.222,
+     "end": 32.58
+    },
+    {
+     "w": "so",
+     "start": 32.65,
+     "end": 32.87
+    },
+    {
+     "w": "the",
+     "start": 32.87,
+     "end": 33.089
+    },
+    {
+     "w": "wind",
+     "start": 33.089,
+     "end": 33.309
+    },
+    {
+     "w": "never",
+     "start": 33.309,
+     "end": 33.691
+    },
+    {
+     "w": "gets",
+     "start": 33.691,
+     "end": 33.911
+    },
+    {
+     "w": "a",
+     "start": 33.911,
+     "end": 34.13
+    },
+    {
+     "w": "grip.",
+     "start": 34.13,
+     "end": 34.35
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 34.854,
+   "end": 39.156,
+   "text": "Now the shape works, but in the desert heat, the concrete hardens before it reaches the top.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 34.964,
+     "end": 35.162
+    },
+    {
+     "w": "the",
+     "start": 35.162,
+     "end": 35.359
+    },
+    {
+     "w": "shape",
+     "start": 35.359,
+     "end": 35.556
+    },
+    {
+     "w": "works,",
+     "start": 35.556,
+     "end": 35.754
+    },
+    {
+     "w": "but",
+     "start": 35.804,
+     "end": 36.001
+    },
+    {
+     "w": "in",
+     "start": 36.001,
+     "end": 36.198
+    },
+    {
+     "w": "the",
+     "start": 36.198,
+     "end": 36.395
+    },
+    {
+     "w": "desert",
+     "start": 36.395,
+     "end": 36.737
+    },
+    {
+     "w": "heat,",
+     "start": 36.737,
+     "end": 36.934
+    },
+    {
+     "w": "the",
+     "start": 37.074,
+     "end": 37.256
+    },
+    {
+     "w": "concrete",
+     "start": 37.256,
+     "end": 37.574
+    },
+    {
+     "w": "hardens",
+     "start": 37.574,
+     "end": 37.892
+    },
+    {
+     "w": "before",
+     "start": 37.892,
+     "end": 38.209
+    },
+    {
+     "w": "it",
+     "start": 38.209,
+     "end": 38.392
+    },
+    {
+     "w": "reaches",
+     "start": 38.392,
+     "end": 38.709
+    },
+    {
+     "w": "the",
+     "start": 38.709,
+     "end": 38.892
+    },
+    {
+     "w": "top.",
+     "start": 38.892,
+     "end": 39.074
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 39.521,
+   "end": 43.792,
+   "text": "So you pour at night, with ice in the mix, and pump it a record six hundred meters straight up.",
+   "words": [
+    {
+     "w": "So",
+     "start": 39.631,
+     "end": 39.815
+    },
+    {
+     "w": "you",
+     "start": 39.815,
+     "end": 39.999
+    },
+    {
+     "w": "pour",
+     "start": 39.999,
+     "end": 40.183
+    },
+    {
+     "w": "at",
+     "start": 40.183,
+     "end": 40.367
+    },
+    {
+     "w": "night,",
+     "start": 40.367,
+     "end": 40.551
+    },
+    {
+     "w": "with",
+     "start": 40.711,
+     "end": 40.885
+    },
+    {
+     "w": "ice",
+     "start": 40.885,
+     "end": 41.059
+    },
+    {
+     "w": "in",
+     "start": 41.059,
+     "end": 41.233
+    },
+    {
+     "w": "the",
+     "start": 41.233,
+     "end": 41.407
+    },
+    {
+     "w": "mix,",
+     "start": 41.407,
+     "end": 41.581
+    },
+    {
+     "w": "and",
+     "start": 41.721,
+     "end": 41.883
+    },
+    {
+     "w": "pump",
+     "start": 41.883,
+     "end": 42.045
+    },
+    {
+     "w": "it",
+     "start": 42.045,
+     "end": 42.207
+    },
+    {
+     "w": "a",
+     "start": 42.207,
+     "end": 42.369
+    },
+    {
+     "w": "record",
+     "start": 42.369,
+     "end": 42.651
+    },
+    {
+     "w": "six",
+     "start": 42.651,
+     "end": 42.813
+    },
+    {
+     "w": "hundred",
+     "start": 42.813,
+     "end": 43.095
+    },
+    {
+     "w": "meters",
+     "start": 43.095,
+     "end": 43.377
+    },
+    {
+     "w": "straight",
+     "start": 43.377,
+     "end": 43.539
+    },
+    {
+     "w": "up.",
+     "start": 43.539,
+     "end": 43.701
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 44.156,
+   "end": 48.417,
+   "text": "But before you ride to the top, follow, because next we're building a tunnel boring machine.",
+   "words": [
+    {
+     "w": "But",
+     "start": 44.296,
+     "end": 44.464
+    },
+    {
+     "w": "before",
+     "start": 44.464,
+     "end": 44.756
+    },
+    {
+     "w": "you",
+     "start": 44.756,
+     "end": 44.924
+    },
+    {
+     "w": "ride",
+     "start": 44.924,
+     "end": 45.092
+    },
+    {
+     "w": "to",
+     "start": 45.092,
+     "end": 45.26
+    },
+    {
+     "w": "the",
+     "start": 45.26,
+     "end": 45.428
+    },
+    {
+     "w": "top,",
+     "start": 45.428,
+     "end": 45.596
+    },
+    {
+     "w": "follow,",
+     "start": 45.796,
+     "end": 46.136
+    },
+    {
+     "w": "because",
+     "start": 46.246,
+     "end": 46.561
+    },
+    {
+     "w": "next",
+     "start": 46.561,
+     "end": 46.742
+    },
+    {
+     "w": "we're",
+     "start": 46.742,
+     "end": 46.924
+    },
+    {
+     "w": "building",
+     "start": 46.924,
+     "end": 47.239
+    },
+    {
+     "w": "a",
+     "start": 47.239,
+     "end": 47.42
+    },
+    {
+     "w": "tunnel",
+     "start": 47.42,
+     "end": 47.735
+    },
+    {
+     "w": "boring",
+     "start": 47.735,
+     "end": 48.051
+    },
+    {
+     "w": "machine.",
+     "start": 48.051,
+     "end": 48.366
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 48.781,
+   "end": 52.625,
+   "text": "Now just push a two hundred meter spire up through the roof, and turn on the lights.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 48.891,
+     "end": 49.086
+    },
+    {
+     "w": "just",
+     "start": 49.086,
+     "end": 49.281
+    },
+    {
+     "w": "push",
+     "start": 49.281,
+     "end": 49.476
+    },
+    {
+     "w": "a",
+     "start": 49.476,
+     "end": 49.671
+    },
+    {
+     "w": "two",
+     "start": 49.671,
+     "end": 49.866
+    },
+    {
+     "w": "hundred",
+     "start": 49.866,
+     "end": 50.206
+    },
+    {
+     "w": "meter",
+     "start": 50.206,
+     "end": 50.546
+    },
+    {
+     "w": "spire",
+     "start": 50.546,
+     "end": 50.741
+    },
+    {
+     "w": "up",
+     "start": 50.741,
+     "end": 50.936
+    },
+    {
+     "w": "through",
+     "start": 50.936,
+     "end": 51.131
+    },
+    {
+     "w": "the",
+     "start": 51.131,
+     "end": 51.326
+    },
+    {
+     "w": "roof,",
+     "start": 51.326,
+     "end": 51.521
+    },
+    {
+     "w": "and",
+     "start": 51.681,
+     "end": 51.855
+    },
+    {
+     "w": "turn",
+     "start": 51.855,
+     "end": 52.029
+    },
+    {
+     "w": "on",
+     "start": 52.029,
+     "end": 52.203
+    },
+    {
+     "w": "the",
+     "start": 52.203,
+     "end": 52.377
+    },
+    {
+     "w": "lights.",
+     "start": 52.377,
+     "end": 52.551
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 52.99,
+   "end": 57.625,
+   "text": "Eight hundred and twenty-eight meters, a hundred and sixty-three floors, fifty-seven elevators.",
+   "words": [
+    {
+     "w": "Eight",
+     "start": 53.1,
+     "end": 53.309
+    },
+    {
+     "w": "hundred",
+     "start": 53.309,
+     "end": 53.673
+    },
+    {
+     "w": "and",
+     "start": 53.673,
+     "end": 53.882
+    },
+    {
+     "w": "twenty-eight",
+     "start": 53.882,
+     "end": 54.246
+    },
+    {
+     "w": "meters,",
+     "start": 54.246,
+     "end": 54.61
+    },
+    {
+     "w": "a",
+     "start": 54.73,
+     "end": 54.948
+    },
+    {
+     "w": "hundred",
+     "start": 54.948,
+     "end": 55.328
+    },
+    {
+     "w": "and",
+     "start": 55.328,
+     "end": 55.546
+    },
+    {
+     "w": "sixty-three",
+     "start": 55.546,
+     "end": 55.926
+    },
+    {
+     "w": "floors,",
+     "start": 55.926,
+     "end": 56.144
+    },
+    {
+     "w": "fifty-seven",
+     "start": 56.144,
+     "end": 56.847
+    },
+    {
+     "w": "elevators.",
+     "start": 56.847,
+     "end": 57.55
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 57.99,
+   "end": 61.156,
+   "text": "And congrats, you just built the world's tallest tower yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.11,
+     "end": 58.369
+    },
+    {
+     "w": "congrats,",
+     "start": 58.369,
+     "end": 58.82
+    },
+    {
+     "w": "you",
+     "start": 58.96,
+     "end": 59.163
+    },
+    {
+     "w": "just",
+     "start": 59.163,
+     "end": 59.367
+    },
+    {
+     "w": "built",
+     "start": 59.367,
+     "end": 59.57
+    },
+    {
+     "w": "the",
+     "start": 59.57,
+     "end": 59.774
+    },
+    {
+     "w": "world's",
+     "start": 59.774,
+     "end": 59.977
+    },
+    {
+     "w": "tallest",
+     "start": 59.977,
+     "end": 60.332
+    },
+    {
+     "w": "tower",
+     "start": 60.332,
+     "end": 60.686
+    },
+    {
+     "w": "yourself.",
+     "start": 60.686,
+     "end": 61.04
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 61.521,
+   "end": 65.333,
+   "text": "And the day the elevator breaks? Two thousand nine hundred and nine stairs.",
+   "words": [
+    {
+     "w": "And",
+     "start": 61.641,
+     "end": 61.858
+    },
+    {
+     "w": "the",
+     "start": 61.858,
+     "end": 62.074
+    },
+    {
+     "w": "day",
+     "start": 62.074,
+     "end": 62.291
+    },
+    {
+     "w": "the",
+     "start": 62.291,
+     "end": 62.508
+    },
+    {
+     "w": "elevator",
+     "start": 62.508,
+     "end": 63.206
+    },
+    {
+     "w": "breaks?",
+     "start": 63.206,
+     "end": 63.423
+    },
+    {
+     "w": "Two",
+     "start": 63.423,
+     "end": 63.64
+    },
+    {
+     "w": "thousand",
+     "start": 63.64,
+     "end": 64.017
+    },
+    {
+     "w": "nine",
+     "start": 64.017,
+     "end": 64.234
+    },
+    {
+     "w": "hundred",
+     "start": 64.234,
+     "end": 64.611
+    },
+    {
+     "w": "and",
+     "start": 64.611,
+     "end": 64.828
+    },
+    {
+     "w": "nine",
+     "start": 64.828,
+     "end": 65.044
+    },
+    {
+     "w": "stairs.",
+     "start": 65.044,
+     "end": 65.261
+    }
+   ]
+  }
+ ]
+}
