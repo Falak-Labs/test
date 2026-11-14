@@ -154,7 +154,7 @@ class Buffer:
         """editPost takes the same fields as createPost plus the post id; returns the post."""
         return self.create_post(inp, mutation="editPost")
 
-    def posts(self, organization_id, statuses):
+    def posts(self, organization_id, statuses, extra=()):
         pf = self.field("Query", "posts")
         in_type = unwrap(next(a for a in pf["args"] if a["name"] == "input")["type"])["name"]
         filt = self.input_field(in_type, "filter")
@@ -168,7 +168,8 @@ class Buffer:
         edges = self.field(conn, "edges")
         node_type = unwrap(self.field(unwrap(edges["type"])["name"], "node")["type"])["name"]
         sel = self.selection(node_type, {"id", "status", "dueAt", "sentAt", "createdAt", "channelId", "channelService",
-                                         "text", "externalLink", "serviceLink", "error", "errorMessage", "channel"})
+                                         "text", "externalLink", "serviceLink", "error", "errorMessage", "channel"}
+                             | set(extra))
         # Buffer pages its results (10 by default): ask for bigger pages and follow the cursor.
         top = {a["name"] for a in pf["args"]}
         inner = {f["name"] for f in self.type(in_type).get("inputFields") or []}
