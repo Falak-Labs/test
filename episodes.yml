@@ -28,3 +28,4 @@ episodes:
   - {slug: ep23-desal, kit: desal, look: 2}
   - {slug: ep24-nuclear, kit: nuclear, look: 2}
   - {slug: ep25-carrier, kit: carrier, look: 2}
+  - {slug: ep26-tower, kit: tower, look: 2}
