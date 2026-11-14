@@ -294,3 +294,9 @@
   retire ep06-ep10 (and drop those four duplicates) BEFORE the next produce run, as noted above.
 - Posts made before Nov 14 keep their old covers: TikTok cannot change a cover after posting; Instagram can only in the
   app (Edit > Edit cover).
+- Nov 14 01:41-01:42 PT: the owner phone-verified BOTH YouTube channels (screenshots "Phone number verified", the
+  blue hard-hat avatar = English, the green one = Arabic). That unlocks YouTube's intermediate features: custom
+  thumbnails, videos over 15 minutes, live streaming. The higher daily UPLOAD limit is an advanced feature (channel
+  history or an ID check), so keep the "daily video upload limit" requeue rule; two uploads a day per channel stay far
+  below it anyway. YouTube covers via Buffer (VideoAssetInput.thumbnailUrl) are still untested; the owner said covers
+  on YouTube are "not that important", so only try it if he asks.
