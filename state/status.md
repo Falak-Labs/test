@@ -1,4 +1,4 @@
-# Post status 2026-11-14T07:45:15+00:00
+# Post status 2026-11-14T18:10:40+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -152,12 +152,12 @@
 | ep25-carrier | en.instagram | sent |  | 2026-11-14T01:46:02.256Z https://www.instagram.com/reel/DftDl4ahcN9/ |
 | ep25-carrier | en.tiktok | sent |  | 2026-11-14T00:03:36.104Z https://tiktok.com/@congratsengineer/video/7707810577862692110 |
 | ep25-carrier | en.youtube | sent |  | 2026-11-14T00:00:56.699Z https://www.youtube.com/shorts/4eLbi6pRaEM |
-| ep26-tower | ar.instagram | scheduled |  | 2026-11-14T17:00:00.000Z |
-| ep26-tower | ar.tiktok | scheduled |  | 2026-11-14T17:00:00.000Z |
-| ep26-tower | ar.youtube | scheduled |  | 2026-11-14T17:00:00.000Z |
-| ep26-tower | en.instagram | scheduled |  | 2026-11-14T18:00:00.000Z |
-| ep26-tower | en.tiktok | scheduled |  | 2026-11-14T18:00:00.000Z |
-| ep26-tower | en.youtube | scheduled |  | 2026-11-14T18:00:00.000Z |
+| ep26-tower | ar.instagram | sent |  | 2026-11-14T17:02:32.371Z https://www.instagram.com/reel/DfusdsmPrCm/ |
+| ep26-tower | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-14T17:00:00.000Z |
+| ep26-tower | ar.youtube | sent |  | 2026-11-14T17:01:16.807Z https://www.youtube.com/shorts/CNYFwydnXMo |
+| ep26-tower | en.instagram | sent |  | 2026-11-14T18:02:17.595Z https://www.instagram.com/reel/DfuzSlyh2KJ/ |
+| ep26-tower | en.tiktok | sent |  | 2026-11-14T18:02:59.961Z https://tiktok.com/@congratsengineer/video/7708088893874195726 |
+| ep26-tower | en.youtube | sent |  | 2026-11-14T18:01:19.220Z https://www.youtube.com/shorts/5UnMJExUHBU |
 | ep27-tunnel | ar.instagram | scheduled |  | 2026-11-14T20:00:00.000Z |
 | ep27-tunnel | ar.tiktok | scheduled |  | 2026-11-14T20:00:00.000Z |
 | ep27-tunnel | ar.youtube | scheduled |  | 2026-11-14T20:00:00.000Z |
