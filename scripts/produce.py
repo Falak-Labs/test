@@ -37,6 +37,8 @@ def plan(a):
     for e in episodes():
         if only and e["slug"] not in only:
             continue
+        if e.get("retired"):                    # posted; its videos were taken off Pages on purpose: never remake
+            continue
         need = []
         for lang in langs:
             lines = os.path.join(KIT, "series", LANG[lang]["lines"].format(kit=e["kit"]))
