@@ -15,10 +15,11 @@
    "id": "6af68ed8c1a0010a5bf9900b",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
-   "status": "error",
-   "dueAt": "2026-11-14T00:00:00.000Z",
+   "status": "scheduled",
+   "dueAt": "2026-11-14T01:45:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-13T04:15:17+00:00"
+   "created": "2026-11-13T04:15:17+00:00",
+   "moved": "2026-11-14T01:18:01+00:00"
   },
   "en.tiktok": {
    "id": "6af68ed8c1a0010a5bf99056",
