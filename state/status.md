@@ -1,4 +1,4 @@
-# Post status 2026-11-14T02:45:08+00:00
+# Post status 2026-11-14T04:15:22+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -147,8 +147,20 @@
 | ep24-nuclear | en.tiktok | sent |  | 2026-11-13T18:02:37.770Z https://www.tiktok.com/@congratsengineer/video/7707717724159446285?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep24-nuclear | en.youtube | sent |  | 2026-11-13T18:01:59.505Z https://www.youtube.com/shorts/x_OopPVzYJY |
 | ep25-carrier | ar.instagram | sent |  | 2026-11-13T20:03:22.764Z https://www.instagram.com/reel/DfscVuNzUR3/ |
-| ep25-carrier | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-14T04:00:00.000Z |
+| ep25-carrier | ar.tiktok | sent |  | 2026-11-14T04:01:15.046Z https://tiktok.com/@kef.tenbeni/video/7707872083191139598 |
 | ep25-carrier | ar.youtube | sent |  | 2026-11-13T20:01:50.935Z https://www.youtube.com/shorts/noezcIeSvbc |
 | ep25-carrier | en.instagram | sent |  | 2026-11-14T01:46:02.256Z https://www.instagram.com/reel/DftDl4ahcN9/ |
 | ep25-carrier | en.tiktok | sent |  | 2026-11-14T00:03:36.104Z https://tiktok.com/@congratsengineer/video/7707810577862692110 |
 | ep25-carrier | en.youtube | sent |  | 2026-11-14T00:00:56.699Z https://www.youtube.com/shorts/4eLbi6pRaEM |
+| ep26-tower | ar.instagram | scheduled |  | 2026-11-14T17:00:00.000Z |
+| ep26-tower | ar.tiktok | scheduled |  | 2026-11-14T17:00:00.000Z |
+| ep26-tower | ar.youtube | scheduled |  | 2026-11-14T17:00:00.000Z |
+| ep26-tower | en.instagram | scheduled |  | 2026-11-14T18:00:00.000Z |
+| ep26-tower | en.tiktok | scheduled |  | 2026-11-14T18:00:00.000Z |
+| ep26-tower | en.youtube | scheduled |  | 2026-11-14T18:00:00.000Z |
+| ep27-tunnel | ar.instagram | scheduled |  | 2026-11-14T20:00:00.000Z |
+| ep27-tunnel | ar.tiktok | scheduled |  | 2026-11-14T20:00:00.000Z |
+| ep27-tunnel | ar.youtube | scheduled |  | 2026-11-14T20:00:00.000Z |
+| ep27-tunnel | en.instagram | scheduled |  | 2026-11-15T00:00:00.000Z |
+| ep27-tunnel | en.tiktok | scheduled |  | 2026-11-15T00:00:00.000Z |
+| ep27-tunnel | en.youtube | scheduled |  | 2026-11-15T00:00:00.000Z |
