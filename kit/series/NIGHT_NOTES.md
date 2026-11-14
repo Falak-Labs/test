@@ -269,3 +269,28 @@
   balance (Wikipedia); women's names for good luck, Saint Barbara (ICE); Bertha 17.5 m wide, 99 m long, 6,100 t.
 - Scheduled for Nov 14 PT: 26 AR 09:00 (17:00Z), EN 10:00 (18:00Z); 27 AR 12:00 (20:00Z), EN 16:00 (00:00Z Nov 15).
   Next: 28 bullet train (promised by 27), 29 humanoid robot.
+
+## Nov 14 2026 ~00:00 PT: video covers (the owner: "Can't we start having a video cover? ... if someone open my account they can see the video covers you design")
+- Every v2 video's FRAME 0 is now a designed cover: the finished build (the world at the middle of the closer beat, no
+  HUD/labels/captions), a yellow "BUILD #N" / "البناء رقم N" badge, and "CONGRATS, YOU JUST BUILT" + the name in big
+  yellow letters ("مبروك، كده انت بنيت" + name in Arabic). The name is parsed from the closer line ("you just built X
+  yourself" / "بنيت ... بإيدك"; a/an dropped), so keep closers in that form. All text sits inside y 240-1680, the 3:4
+  middle that TikTok and Instagram profile grids show.
+- Code: kit/bik/cover.py (design), EpisodeV2.draw_world() (split out of draw()), draw_cover(), COVER_T (a beat label,
+  (label, fraction) or seconds; default ("closer", 0.5); tunnel.py uses ("fix1", 0.6), the cutter head).
+  make.py's first step "cover" writes out/cover.png and bik/render.py draws it as frame 0 (BIK_COVER=0 turns it off).
+  produce.py keeps review/<slug>/cover_<lang>.jpg and report.json says "cover": true. Look at a cover on its own with
+  python3 -I tools/make_cover.py <kit> [lang=ar_sa] [t=<beat or seconds>] (prints whether the text is inside the crop).
+- Posting: post.py / requeue.py / move_up.py send assets[].video.metadata.thumbnailOffset = 0 (ms) on TikTok and
+  Instagram, so both pick frame 0 as the cover (a post file may set cover_ms). Read back with tools.yml
+  cmd=show_assets args="<lang> <slug> ..." (prints Buffer's stored video URL, thumbnailOffset, due time).
+  YouTube: Buffer cannot set a Shorts thumbnail through the frame offset (thumbnailOffset stays null); YouTube picks
+  its own frame. VideoAssetInput also has thumbnailUrl (a custom image URL): untested; worth a try for YouTube once the
+  channels are verified (custom thumbnails need a verified channel).
+- Builds 26-27 (already scheduled) were re-rendered with covers (run 43570294697, same lengths and checks) and their
+  12 Buffer posts edited at the same times to media/<slug>-<lang>-cover.mp4 (new names so Buffer fetched them fresh;
+  show_assets confirmed the URLs and thumbnailOffset 0 on TikTok/Instagram). The old names media/ep26-tower-*.mp4 and
+  media/ep27-tunnel-*.mp4 now hold the same covered videos; nothing points at them any more. media/ is about 836 MB:
+  retire ep06-ep10 (and drop those four duplicates) BEFORE the next produce run, as noted above.
+- Posts made before Nov 14 keep their old covers: TikTok cannot change a cover after posting; Instagram can only in the
+  app (Edit > Edit cover).
