@@ -37,7 +37,7 @@ def main():
             continue
         due = when.strftime("%Y-%m-%dT%H:%M:%S.000Z")
         inp = {"id": rec["id"], "text": post.caption_for(cfg, ep, lang, platform), "schedulingType": "automatic",
-               "assets": acc.video_assets(post.media_url(cfg, ep["video"][lang])), "mode": "customScheduled", "dueAt": due}
+               "assets": acc.video_assets(post.media_url(cfg, ep["video"][lang]), platform, ep.get("cover_ms", 0)), "mode": "customScheduled", "dueAt": due}
         if platform == "youtube":
             inp["metadata"] = {"youtube": {"title": ep[lang]["title"][:100], "categoryId": str(cfg["youtube"]["categoryId"]),
                                            "madeForKids": bool(cfg["youtube"].get("madeForKids", False)),

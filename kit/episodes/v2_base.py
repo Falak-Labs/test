@@ -144,6 +144,36 @@ class EpisodeV2:
 
     # ------------------------------------------------------------------ frame
     def draw(self, c, t):
+        tw, m = self.draw_world(c, t)
+        v2.hud(c, W, t, self.BUILD_NO, self.TITLE.get(self.lang, self.TITLE["en"]), self.hud_states(tw),
+               a=prog(t, 0.15, 0.5), rtl=self.rtl)
+        f = getattr(self, "ui_" + m, None)
+        if f:
+            f(c, t, tw)
+        self.ui_common(c, t, tw)
+        self.cap.draw(c, W, t)
+
+    # ------------------------------------------------------------------ cover
+    COVER_T = None    # picture behind the cover: None = middle of "closer"; a beat label, (label, fraction) or seconds
+
+    def cover_time(self):
+        ct = ("closer", 0.5) if self.COVER_T is None else self.COVER_T
+        if isinstance(ct, str):
+            ct = (ct, 0.5)
+        if isinstance(ct, tuple):
+            return lerp(self.tl.s(ct[0]), self.tl.e(ct[0]), ct[1])
+        return float(ct)
+
+    def draw_cover(self, c):
+        """Frame 0 of the video and the post's cover: the world at cover_time() plus the build's number and name."""
+        from bik import cover
+        self.draw_world(c, self.cover_time())
+        closer = next((ln["text"] for ln in self.tl.lines if ln["label"] == "closer"), "")
+        small, name = cover.subject(self.lang, closer, self.TITLE.get(self.lang, self.TITLE["en"]))
+        return cover.overlay(c, W, H, self.BUILD_NO, self.lang, small, name)
+
+    def draw_world(self, c, t):
+        """The finished picture at time t (sets, whip cuts, shake, finishing pass) without HUD, labels or captions."""
         if self.buf is None:
             self.buf = skia.Surface(W, H)
         tw = self.world_t(t)
@@ -164,13 +194,7 @@ class EpisodeV2:
             v2.speed_streaks(b, W, H, tw, 0.9 * amt, seed=12, n=60)
             b.drawRect(R(0, 0, W, H), P(self.CLEAR, 0.25 * amt))
         self.post.apply(c, self.buf.makeImageSnapshot(), int(round(t * 30)))
-        v2.hud(c, W, t, self.BUILD_NO, self.TITLE.get(self.lang, self.TITLE["en"]), self.hud_states(tw),
-               a=prog(t, 0.15, 0.5), rtl=self.rtl)
-        f = getattr(self, "ui_" + m, None)
-        if f:
-            f(c, t, tw)
-        self.ui_common(c, t, tw)
-        self.cap.draw(c, W, t)
+        return tw, m
 
     def whip_backdrop(self, c, t, m):
         v2.sky(c, W, H, self.SKY_ALT.get(m, 0.0), horizon_y=H * 0.66)

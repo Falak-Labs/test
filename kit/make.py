@@ -1,9 +1,10 @@
 """Render one episode end to end: video, sound mix, final MP4, QA numbers and a check sheet.
 
 usage:
-  python3 make.py episodes/elevator.py /path/to/vo_prefix /path/to/out_dir [video|audio|mux|qa ...] [lang=ar]
+  python3 make.py episodes/elevator.py /path/to/vo_prefix /path/to/out_dir [cover|video|audio|mux|qa ...] [lang=ar]
   (vo_prefix = the Phonon output without extension: prefix.wav + prefix.json)
-  With no step names it runs all four in order.
+  With no step names it runs all five in order. cover = out_dir/cover.png (v2 episodes), drawn as frame 0 of the
+  video so the posts can use it as their cover; BIK_COVER=0 leaves it out.
 """
 import importlib.util
 import json
@@ -55,7 +56,7 @@ def qa(final, scene, out):
 
 def main():
     ep_path, vo, out = sys.argv[1:4]
-    steps = [a for a in sys.argv[4:] if not a.startswith("lang=")] or ["video", "audio", "mux", "qa"]
+    steps = [a for a in sys.argv[4:] if not a.startswith("lang=")] or ["cover", "video", "audio", "mux", "qa"]
     lang = next((a[5:] for a in sys.argv[4:] if a.startswith("lang=")), "en")
     os.makedirs(out, exist_ok=True)
     m = load(ep_path)
@@ -63,8 +64,20 @@ def main():
     name = getattr(m, "NAME", "episode") + ("" if lang == "en" else "_" + lang)
     video, audio, final = (os.path.join(out, f) for f in ("video.mp4", "mix.wav", f"{name}_final.mp4"))
     print(f"{name}: {scene.duration:.2f}s, {int(round(scene.duration * 30))} frames")
+    cover = os.path.join(out, "cover.png")
+    use_cover = hasattr(scene, "draw_cover") and os.environ.get("BIK_COVER", "1") != "0"
+    if use_cover and ("cover" in steps or ("video" in steps and not os.path.exists(cover))):
+        import skia
+        surf = skia.Surface(1080, 1920)
+        info = scene.draw_cover(surf.getCanvas())
+        surf.makeImageSnapshot().save(cover, skia.kPNG)
+        scene.buf = None                                 # the render workers make their own
+        print(f"cover {cover}: {info['lines']} (frame 0 of the video)")
     if "video" in steps:
         t0 = time.time()
+        if use_cover:                                    # frame 0 = the cover; the posts pick it (thumbnailOffset 0)
+            import skia
+            scene.cover_frame = skia.Image.open(cover)
         # BIK_WORKERS overrides; default uses half the CPU threads (2 on the 2-core cloud box, 12 on a 32-thread PC)
         workers = int(os.environ.get("BIK_WORKERS", max(2, min(12, (os.cpu_count() or 2) // 2))))
         render(scene, scene.duration, video, os.path.join(out, "parts"), segments=max(8, 2 * workers), workers=workers)

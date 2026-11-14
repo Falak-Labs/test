@@ -150,6 +150,11 @@ def make(slug, kit, langs, look):
                     rep["mix_check"] = "not run: " + str(e)[:120]
             rep["size_mb"] = round(os.path.getsize(final) / 1e6, 1)
             shutil.copy(os.path.join(KIT, outdir, "qa_sheet.png"), os.path.join(dst, "review", f"qa_{lang}.png"))
+            cov = os.path.join(KIT, outdir, "cover.png")       # frame 0 of the video = the post's cover
+            if os.path.exists(cov):
+                from PIL import Image
+                Image.open(cov).convert("RGB").save(os.path.join(dst, "review", f"cover_{lang}.jpg"), quality=88)
+                rep["cover"] = True
             if not issues:
                 shutil.copy(final, os.path.join(dst, "media", f"{slug}-{lang}.mp4"))
                 rep["ok"] = True

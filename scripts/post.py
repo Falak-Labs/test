@@ -172,9 +172,18 @@ class Account:
         names = ", ".join(str(ch.get("displayName") or ch.get("name")) for ch in mine)
         return None, f"the {platform} account connected to the {lang} Buffer login is '{names}', not the {lang} one"
 
-    def video_assets(self, url):
-        names = {f["name"] for f in self.buf.type(self.asset_type).get("inputFields") or []}
-        one = {"video": {"url": url}} if "video" in names else {"videos": [{"url": url}]}
+    def video_assets(self, url, platform=None, cover_ms=0):
+        """The video for a post. On TikTok and Instagram the cover is frame cover_ms of the video (our videos carry the
+        designed cover as frame 0); Buffer takes it as metadata.thumbnailOffset in milliseconds."""
+        fields = self.buf.type(self.asset_type).get("inputFields") or []
+        names = {f["name"] for f in fields}
+        v = {"url": url}
+        if platform in ("tiktok", "instagram") and cover_ms is not None:
+            vf = next((f for f in fields if f["name"] in ("video", "videos")), None)
+            vt = unwrap(vf["type"])["name"] if vf else None
+            if vt and self.buf.input_field(vt, "metadata"):
+                v["metadata"] = {"thumbnailOffset": int(cover_ms)}
+        one = {"video": v} if "video" in names else {"videos": [v]}
         return [one] if self.assets_list else one
 
     def reel(self):
@@ -321,7 +330,7 @@ def main():
                     log(f"{slug} {tgt}: not posted, fix posts/{fn}: " + "; ".join(issues))
                     continue
                 inp = {"channelId": ch["id"], "text": text, "schedulingType": "automatic",
-                       "assets": acc.video_assets(media_url(cfg, video))}
+                       "assets": acc.video_assets(media_url(cfg, video), platform, ep.get("cover_ms", 0))}
                 if tgt in now_targets and "shareNow" in acc.modes:
                     inp["mode"] = "shareNow"
                     when = None

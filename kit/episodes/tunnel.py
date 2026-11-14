@@ -235,6 +235,7 @@ def ringtone(d=1.2):
 # ====================================================================================== the episode
 class Tunnel(EpisodeV2):
     BUILD_NO = 27
+    COVER_T = ("fix1", 0.6)                      # cover: the cutter head with its steel discs
     FIRST_SET = "city"
     CLEAR = "#070B1F"
     TITLE = {"en": "TUNNEL BORING MACHINE", "ar_sa": "مكنة حفر أنفاق"}

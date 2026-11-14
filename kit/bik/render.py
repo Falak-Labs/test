@@ -16,9 +16,13 @@ def _encode_range(f0, f1, out_path):
            "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", os.environ.get("BIK_PRESET", "veryfast"), "-crf", os.environ.get("BIK_CRF", "18"),
            "-pix_fmt", "yuv420p", "-threads", "2", tmp]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
+    cover = getattr(_SCENE, "cover_frame", None)         # a skia.Image: drawn as frame 0 (the post's cover)
     for f in range(f0, f1):
         c.save()
-        _SCENE.draw(c, f / FPS)
+        if f == 0 and cover is not None:
+            c.drawImage(cover, 0, 0)
+        else:
+            _SCENE.draw(c, f / FPS)
         c.restore()
         proc.stdin.write(surf.makeImageSnapshot().tobytes())
     proc.stdin.close()
