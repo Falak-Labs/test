@@ -1,4 +1,4 @@
-# Post status 2026-11-14T02:40:16+00:00
+# Post status 2026-11-14T02:45:08+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@
 | ep23-desal | en.tiktok | sent |  | 2026-11-13T00:02:53.514Z https://www.tiktok.com/@congratsengineer/video/7707439328452021518?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep23-desal | en.youtube | sent |  | 2026-11-13T00:01:04.202Z https://www.youtube.com/shorts/WZa91FYM6oY |
 | ep24-nuclear | ar.instagram | sent |  | 2026-11-13T17:04:23.508Z https://www.instagram.com/reel/DfsH5d9TrwE/ |
-| ep24-nuclear | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-14T02:00:00.000Z |
+| ep24-nuclear | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-14T06:00:00.000Z |
 | ep24-nuclear | ar.youtube | sent |  | 2026-11-13T17:02:49.559Z https://www.youtube.com/shorts/XyFgXUUBNJo |
 | ep24-nuclear | en.instagram | sent |  | 2026-11-13T18:03:53.880Z https://www.instagram.com/reel/DfsOrIiBXY_/ |
 | ep24-nuclear | en.tiktok | sent |  | 2026-11-13T18:02:37.770Z https://www.tiktok.com/@congratsengineer/video/7707717724159446285?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
