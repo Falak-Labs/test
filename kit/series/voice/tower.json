@@ -2,7 +2,7 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 65.32,
+ "duration": 65.21,
  "words": 229,
  "words_per_sec": 3.51,
  "lines": [
@@ -504,762 +504,762 @@
   {
    "line": 6,
    "start": 25.292,
-   "end": 29.375,
-   "text": "But up high, the wind spins into whirlpools that shake it side to side.",
+   "end": 29.26,
+   "text": "But up high, the wind spins into whirlpools that make the whole tower sway.",
    "words": [
     {
      "w": "But",
      "start": 25.422,
-     "end": 25.655
+     "end": 25.659
     },
     {
      "w": "up",
-     "start": 25.655,
-     "end": 25.889
+     "start": 25.659,
+     "end": 25.895
     },
     {
      "w": "high,",
-     "start": 25.889,
-     "end": 26.122
+     "start": 25.895,
+     "end": 26.132
     },
     {
      "w": "the",
-     "start": 26.272,
-     "end": 26.512
+     "start": 26.282,
+     "end": 26.503
     },
     {
      "w": "wind",
-     "start": 26.512,
-     "end": 26.753
+     "start": 26.503,
+     "end": 26.724
     },
     {
      "w": "spins",
-     "start": 26.753,
-     "end": 26.993
+     "start": 26.724,
+     "end": 26.945
     },
     {
      "w": "into",
-     "start": 26.993,
-     "end": 27.411
+     "start": 26.945,
+     "end": 27.329
     },
     {
      "w": "whirlpools",
-     "start": 27.411,
-     "end": 27.83
+     "start": 27.329,
+     "end": 27.713
     },
     {
      "w": "that",
-     "start": 27.83,
-     "end": 28.07
+     "start": 27.713,
+     "end": 27.934
     },
     {
-     "w": "shake",
-     "start": 28.07,
-     "end": 28.311
+     "w": "make",
+     "start": 27.934,
+     "end": 28.155
     },
     {
-     "w": "it",
-     "start": 28.311,
-     "end": 28.551
+     "w": "the",
+     "start": 28.155,
+     "end": 28.376
     },
     {
-     "w": "side",
-     "start": 28.551,
-     "end": 28.791
+     "w": "whole",
+     "start": 28.376,
+     "end": 28.597
     },
     {
-     "w": "to",
-     "start": 28.791,
-     "end": 29.032
+     "w": "tower",
+     "start": 28.597,
+     "end": 28.981
     },
     {
-     "w": "side.",
-     "start": 29.032,
-     "end": 29.272
+     "w": "sway.",
+     "start": 28.981,
+     "end": 29.202
     }
    ]
   },
   {
    "line": 7,
-   "start": 29.74,
-   "end": 34.49,
+   "start": 29.625,
+   "end": 34.375,
    "text": "So it steps in twenty-seven times as it climbs, in a spiral, so the wind never gets a grip.",
    "words": [
     {
      "w": "So",
-     "start": 29.85,
-     "end": 30.01
+     "start": 29.745,
+     "end": 29.904
     },
     {
      "w": "it",
-     "start": 30.01,
-     "end": 30.169
+     "start": 29.904,
+     "end": 30.063
     },
     {
      "w": "steps",
-     "start": 30.169,
-     "end": 30.329
+     "start": 30.063,
+     "end": 30.221
     },
     {
      "w": "in",
-     "start": 30.329,
-     "end": 30.489
+     "start": 30.221,
+     "end": 30.38
     },
     {
      "w": "twenty-seven",
-     "start": 30.489,
-     "end": 31.003
+     "start": 30.38,
+     "end": 30.892
     },
     {
      "w": "times",
-     "start": 31.003,
-     "end": 31.281
+     "start": 30.892,
+     "end": 31.169
     },
     {
      "w": "as",
-     "start": 31.281,
-     "end": 31.441
+     "start": 31.169,
+     "end": 31.327
     },
     {
      "w": "it",
-     "start": 31.441,
-     "end": 31.6
+     "start": 31.327,
+     "end": 31.486
     },
     {
      "w": "climbs,",
-     "start": 31.6,
-     "end": 31.76
+     "start": 31.486,
+     "end": 31.645
     },
     {
      "w": "in",
-     "start": 31.81,
-     "end": 32.016
+     "start": 31.695,
+     "end": 31.904
     },
     {
      "w": "a",
-     "start": 32.016,
-     "end": 32.222
+     "start": 31.904,
+     "end": 32.112
     },
     {
      "w": "spiral,",
-     "start": 32.222,
-     "end": 32.58
+     "start": 32.112,
+     "end": 32.475
     },
     {
      "w": "so",
-     "start": 32.65,
-     "end": 32.87
+     "start": 32.545,
+     "end": 32.762
     },
     {
      "w": "the",
-     "start": 32.87,
-     "end": 33.089
+     "start": 32.762,
+     "end": 32.979
     },
     {
      "w": "wind",
-     "start": 33.089,
-     "end": 33.309
+     "start": 32.979,
+     "end": 33.196
     },
     {
      "w": "never",
-     "start": 33.309,
-     "end": 33.691
+     "start": 33.196,
+     "end": 33.574
     },
     {
      "w": "gets",
-     "start": 33.691,
-     "end": 33.911
+     "start": 33.574,
+     "end": 33.791
     },
     {
      "w": "a",
-     "start": 33.911,
-     "end": 34.13
+     "start": 33.791,
+     "end": 34.008
     },
     {
      "w": "grip.",
-     "start": 34.13,
-     "end": 34.35
+     "start": 34.008,
+     "end": 34.225
     }
    ]
   },
   {
    "line": 8,
-   "start": 34.854,
-   "end": 39.156,
+   "start": 34.74,
+   "end": 39.042,
    "text": "Now the shape works, but in the desert heat, the concrete hardens before it reaches the top.",
    "words": [
     {
      "w": "Now",
-     "start": 34.964,
-     "end": 35.162
+     "start": 34.85,
+     "end": 35.048
     },
     {
      "w": "the",
-     "start": 35.162,
-     "end": 35.359
+     "start": 35.048,
+     "end": 35.245
     },
     {
      "w": "shape",
-     "start": 35.359,
-     "end": 35.556
+     "start": 35.245,
+     "end": 35.442
     },
     {
      "w": "works,",
-     "start": 35.556,
-     "end": 35.754
+     "start": 35.442,
+     "end": 35.64
     },
     {
      "w": "but",
-     "start": 35.804,
-     "end": 36.001
+     "start": 35.69,
+     "end": 35.885
     },
     {
      "w": "in",
-     "start": 36.001,
-     "end": 36.198
+     "start": 35.885,
+     "end": 36.08
     },
     {
      "w": "the",
-     "start": 36.198,
-     "end": 36.395
+     "start": 36.08,
+     "end": 36.275
     },
     {
      "w": "desert",
-     "start": 36.395,
-     "end": 36.737
+     "start": 36.275,
+     "end": 36.615
     },
     {
      "w": "heat,",
-     "start": 36.737,
-     "end": 36.934
+     "start": 36.615,
+     "end": 36.81
     },
     {
      "w": "the",
-     "start": 37.074,
-     "end": 37.256
+     "start": 36.96,
+     "end": 37.142
     },
     {
      "w": "concrete",
-     "start": 37.256,
-     "end": 37.574
+     "start": 37.142,
+     "end": 37.46
     },
     {
      "w": "hardens",
-     "start": 37.574,
-     "end": 37.892
+     "start": 37.46,
+     "end": 37.778
     },
     {
      "w": "before",
-     "start": 37.892,
-     "end": 38.209
+     "start": 37.778,
+     "end": 38.095
     },
     {
      "w": "it",
-     "start": 38.209,
-     "end": 38.392
+     "start": 38.095,
+     "end": 38.278
     },
     {
      "w": "reaches",
-     "start": 38.392,
-     "end": 38.709
+     "start": 38.278,
+     "end": 38.595
     },
     {
      "w": "the",
-     "start": 38.709,
-     "end": 38.892
+     "start": 38.595,
+     "end": 38.778
     },
     {
      "w": "top.",
-     "start": 38.892,
-     "end": 39.074
+     "start": 38.778,
+     "end": 38.96
     }
    ]
   },
   {
    "line": 9,
-   "start": 39.521,
-   "end": 43.792,
+   "start": 39.406,
+   "end": 43.677,
    "text": "So you pour at night, with ice in the mix, and pump it a record six hundred meters straight up.",
    "words": [
     {
      "w": "So",
-     "start": 39.631,
-     "end": 39.815
+     "start": 39.506,
+     "end": 39.69
     },
     {
      "w": "you",
-     "start": 39.815,
-     "end": 39.999
+     "start": 39.69,
+     "end": 39.874
     },
     {
      "w": "pour",
-     "start": 39.999,
-     "end": 40.183
+     "start": 39.874,
+     "end": 40.058
     },
     {
      "w": "at",
-     "start": 40.183,
-     "end": 40.367
+     "start": 40.058,
+     "end": 40.242
     },
     {
      "w": "night,",
-     "start": 40.367,
-     "end": 40.551
+     "start": 40.242,
+     "end": 40.426
     },
     {
      "w": "with",
-     "start": 40.711,
-     "end": 40.885
+     "start": 40.596,
+     "end": 40.77
     },
     {
      "w": "ice",
-     "start": 40.885,
-     "end": 41.059
+     "start": 40.77,
+     "end": 40.944
     },
     {
      "w": "in",
-     "start": 41.059,
-     "end": 41.233
+     "start": 40.944,
+     "end": 41.118
     },
     {
      "w": "the",
-     "start": 41.233,
-     "end": 41.407
+     "start": 41.118,
+     "end": 41.292
     },
     {
      "w": "mix,",
-     "start": 41.407,
-     "end": 41.581
+     "start": 41.292,
+     "end": 41.466
     },
     {
      "w": "and",
-     "start": 41.721,
-     "end": 41.883
+     "start": 41.606,
+     "end": 41.769
     },
     {
      "w": "pump",
-     "start": 41.883,
-     "end": 42.045
+     "start": 41.769,
+     "end": 41.932
     },
     {
      "w": "it",
-     "start": 42.045,
-     "end": 42.207
+     "start": 41.932,
+     "end": 42.094
     },
     {
      "w": "a",
-     "start": 42.207,
-     "end": 42.369
+     "start": 42.094,
+     "end": 42.257
     },
     {
      "w": "record",
-     "start": 42.369,
-     "end": 42.651
+     "start": 42.257,
+     "end": 42.541
     },
     {
      "w": "six",
-     "start": 42.651,
-     "end": 42.813
+     "start": 42.541,
+     "end": 42.704
     },
     {
      "w": "hundred",
-     "start": 42.813,
-     "end": 43.095
+     "start": 42.704,
+     "end": 42.987
     },
     {
      "w": "meters",
-     "start": 43.095,
-     "end": 43.377
+     "start": 42.987,
+     "end": 43.27
     },
     {
      "w": "straight",
-     "start": 43.377,
-     "end": 43.539
+     "start": 43.27,
+     "end": 43.433
     },
     {
      "w": "up.",
-     "start": 43.539,
-     "end": 43.701
+     "start": 43.433,
+     "end": 43.596
     }
    ]
   },
   {
    "line": 10,
-   "start": 44.156,
-   "end": 48.417,
+   "start": 44.042,
+   "end": 48.302,
    "text": "But before you ride to the top, follow, because next we're building a tunnel boring machine.",
    "words": [
     {
      "w": "But",
-     "start": 44.296,
-     "end": 44.464
+     "start": 44.182,
+     "end": 44.349
     },
     {
      "w": "before",
-     "start": 44.464,
-     "end": 44.756
+     "start": 44.349,
+     "end": 44.639
     },
     {
      "w": "you",
-     "start": 44.756,
-     "end": 44.924
+     "start": 44.639,
+     "end": 44.805
     },
     {
      "w": "ride",
-     "start": 44.924,
-     "end": 45.092
+     "start": 44.805,
+     "end": 44.972
     },
     {
      "w": "to",
-     "start": 45.092,
-     "end": 45.26
+     "start": 44.972,
+     "end": 45.139
     },
     {
      "w": "the",
-     "start": 45.26,
-     "end": 45.428
+     "start": 45.139,
+     "end": 45.305
     },
     {
      "w": "top,",
-     "start": 45.428,
-     "end": 45.596
+     "start": 45.305,
+     "end": 45.472
     },
     {
      "w": "follow,",
-     "start": 45.796,
-     "end": 46.136
+     "start": 45.682,
+     "end": 46.012
     },
     {
      "w": "because",
-     "start": 46.246,
-     "end": 46.561
+     "start": 46.132,
+     "end": 46.446
     },
     {
      "w": "next",
-     "start": 46.561,
-     "end": 46.742
+     "start": 46.446,
+     "end": 46.626
     },
     {
      "w": "we're",
-     "start": 46.742,
-     "end": 46.924
+     "start": 46.626,
+     "end": 46.806
     },
     {
      "w": "building",
-     "start": 46.924,
-     "end": 47.239
+     "start": 46.806,
+     "end": 47.12
     },
     {
      "w": "a",
-     "start": 47.239,
-     "end": 47.42
+     "start": 47.12,
+     "end": 47.301
     },
     {
      "w": "tunnel",
-     "start": 47.42,
-     "end": 47.735
+     "start": 47.301,
+     "end": 47.614
     },
     {
      "w": "boring",
-     "start": 47.735,
-     "end": 48.051
+     "start": 47.614,
+     "end": 47.928
     },
     {
      "w": "machine.",
-     "start": 48.051,
-     "end": 48.366
+     "start": 47.928,
+     "end": 48.242
     }
    ]
   },
   {
    "line": 11,
-   "start": 48.781,
-   "end": 52.625,
+   "start": 48.667,
+   "end": 52.51,
    "text": "Now just push a two hundred meter spire up through the roof, and turn on the lights.",
    "words": [
     {
      "w": "Now",
-     "start": 48.891,
-     "end": 49.086
+     "start": 48.777,
+     "end": 48.972
     },
     {
      "w": "just",
-     "start": 49.086,
-     "end": 49.281
+     "start": 48.972,
+     "end": 49.167
     },
     {
      "w": "push",
-     "start": 49.281,
-     "end": 49.476
+     "start": 49.167,
+     "end": 49.362
     },
     {
      "w": "a",
-     "start": 49.476,
-     "end": 49.671
+     "start": 49.362,
+     "end": 49.557
     },
     {
      "w": "two",
-     "start": 49.671,
-     "end": 49.866
+     "start": 49.557,
+     "end": 49.752
     },
     {
      "w": "hundred",
-     "start": 49.866,
-     "end": 50.206
+     "start": 49.752,
+     "end": 50.092
     },
     {
      "w": "meter",
-     "start": 50.206,
-     "end": 50.546
+     "start": 50.092,
+     "end": 50.432
     },
     {
      "w": "spire",
-     "start": 50.546,
-     "end": 50.741
+     "start": 50.432,
+     "end": 50.627
     },
     {
      "w": "up",
-     "start": 50.741,
-     "end": 50.936
+     "start": 50.627,
+     "end": 50.822
     },
     {
      "w": "through",
-     "start": 50.936,
-     "end": 51.131
+     "start": 50.822,
+     "end": 51.017
     },
     {
      "w": "the",
-     "start": 51.131,
-     "end": 51.326
+     "start": 51.017,
+     "end": 51.212
     },
     {
      "w": "roof,",
-     "start": 51.326,
-     "end": 51.521
+     "start": 51.212,
+     "end": 51.407
     },
     {
      "w": "and",
-     "start": 51.681,
-     "end": 51.855
+     "start": 51.567,
+     "end": 51.741
     },
     {
      "w": "turn",
-     "start": 51.855,
-     "end": 52.029
+     "start": 51.741,
+     "end": 51.915
     },
     {
      "w": "on",
-     "start": 52.029,
-     "end": 52.203
+     "start": 51.915,
+     "end": 52.089
     },
     {
      "w": "the",
-     "start": 52.203,
-     "end": 52.377
+     "start": 52.089,
+     "end": 52.263
     },
     {
      "w": "lights.",
-     "start": 52.377,
-     "end": 52.551
+     "start": 52.263,
+     "end": 52.437
     }
    ]
   },
   {
    "line": 12,
-   "start": 52.99,
-   "end": 57.625,
+   "start": 52.875,
+   "end": 57.51,
    "text": "Eight hundred and twenty-eight meters, a hundred and sixty-three floors, fifty-seven elevators.",
    "words": [
     {
      "w": "Eight",
-     "start": 53.1,
-     "end": 53.309
+     "start": 52.995,
+     "end": 53.203
     },
     {
      "w": "hundred",
-     "start": 53.309,
-     "end": 53.673
+     "start": 53.203,
+     "end": 53.564
     },
     {
      "w": "and",
-     "start": 53.673,
-     "end": 53.882
+     "start": 53.564,
+     "end": 53.772
     },
     {
      "w": "twenty-eight",
-     "start": 53.882,
-     "end": 54.246
+     "start": 53.772,
+     "end": 54.133
     },
     {
      "w": "meters,",
-     "start": 54.246,
-     "end": 54.61
+     "start": 54.133,
+     "end": 54.495
     },
     {
      "w": "a",
-     "start": 54.73,
-     "end": 54.948
+     "start": 54.615,
+     "end": 54.833
     },
     {
      "w": "hundred",
-     "start": 54.948,
-     "end": 55.328
+     "start": 54.833,
+     "end": 55.213
     },
     {
      "w": "and",
-     "start": 55.328,
-     "end": 55.546
+     "start": 55.213,
+     "end": 55.431
     },
     {
      "w": "sixty-three",
-     "start": 55.546,
-     "end": 55.926
+     "start": 55.431,
+     "end": 55.811
     },
     {
      "w": "floors,",
-     "start": 55.926,
-     "end": 56.144
+     "start": 55.811,
+     "end": 56.029
     },
     {
      "w": "fifty-seven",
-     "start": 56.144,
-     "end": 56.847
+     "start": 56.029,
+     "end": 56.732
     },
     {
      "w": "elevators.",
-     "start": 56.847,
-     "end": 57.55
+     "start": 56.732,
+     "end": 57.435
     }
    ]
   },
   {
    "line": 13,
-   "start": 57.99,
-   "end": 61.156,
+   "start": 57.875,
+   "end": 61.042,
    "text": "And congrats, you just built the world's tallest tower yourself.",
    "words": [
     {
      "w": "And",
-     "start": 58.11,
-     "end": 58.369
+     "start": 57.995,
+     "end": 58.254
     },
     {
      "w": "congrats,",
-     "start": 58.369,
-     "end": 58.82
+     "start": 58.254,
+     "end": 58.705
     },
     {
      "w": "you",
-     "start": 58.96,
-     "end": 59.163
+     "start": 58.835,
+     "end": 59.038
     },
     {
      "w": "just",
-     "start": 59.163,
-     "end": 59.367
+     "start": 59.038,
+     "end": 59.242
     },
     {
      "w": "built",
-     "start": 59.367,
-     "end": 59.57
+     "start": 59.242,
+     "end": 59.445
     },
     {
      "w": "the",
-     "start": 59.57,
-     "end": 59.774
+     "start": 59.445,
+     "end": 59.649
     },
     {
      "w": "world's",
-     "start": 59.774,
-     "end": 59.977
+     "start": 59.649,
+     "end": 59.852
     },
     {
      "w": "tallest",
-     "start": 59.977,
-     "end": 60.332
+     "start": 59.852,
+     "end": 60.207
     },
     {
      "w": "tower",
-     "start": 60.332,
-     "end": 60.686
+     "start": 60.207,
+     "end": 60.561
     },
     {
      "w": "yourself.",
-     "start": 60.686,
-     "end": 61.04
+     "start": 60.561,
+     "end": 60.915
     }
    ]
   },
   {
    "line": 14,
-   "start": 61.521,
-   "end": 65.333,
+   "start": 61.406,
+   "end": 65.219,
    "text": "And the day the elevator breaks? Two thousand nine hundred and nine stairs.",
    "words": [
     {
      "w": "And",
-     "start": 61.641,
-     "end": 61.858
+     "start": 61.526,
+     "end": 61.743
     },
     {
      "w": "the",
-     "start": 61.858,
-     "end": 62.074
+     "start": 61.743,
+     "end": 61.961
     },
     {
      "w": "day",
-     "start": 62.074,
-     "end": 62.291
+     "start": 61.961,
+     "end": 62.178
     },
     {
      "w": "the",
-     "start": 62.291,
-     "end": 62.508
+     "start": 62.178,
+     "end": 62.395
     },
     {
      "w": "elevator",
-     "start": 62.508,
-     "end": 63.206
+     "start": 62.395,
+     "end": 63.096
     },
     {
      "w": "breaks?",
-     "start": 63.206,
-     "end": 63.423
+     "start": 63.096,
+     "end": 63.313
     },
     {
      "w": "Two",
-     "start": 63.423,
-     "end": 63.64
+     "start": 63.313,
+     "end": 63.53
     },
     {
      "w": "thousand",
-     "start": 63.64,
-     "end": 64.017
+     "start": 63.53,
+     "end": 63.908
     },
     {
      "w": "nine",
-     "start": 64.017,
-     "end": 64.234
+     "start": 63.908,
+     "end": 64.126
     },
     {
      "w": "hundred",
-     "start": 64.234,
-     "end": 64.611
+     "start": 64.126,
+     "end": 64.504
     },
     {
      "w": "and",
-     "start": 64.611,
-     "end": 64.828
+     "start": 64.504,
+     "end": 64.721
     },
     {
      "w": "nine",
-     "start": 64.828,
-     "end": 65.044
+     "start": 64.721,
+     "end": 64.939
     },
     {
      "w": "stairs.",
-     "start": 65.044,
-     "end": 65.261
+     "start": 64.939,
+     "end": 65.156
     }
    ]
   }
