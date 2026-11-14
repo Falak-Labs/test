@@ -14,7 +14,8 @@
    "mix_lines_off": [
     "L12 5 diff  | 17 meters wide, 100 meters long, 6,000 tons."
    ],
-   "size_mb": 19.7
+   "size_mb": 19.8,
+   "cover": true
   },
   "ar": {
    "ok": true,
@@ -124,7 +125,8 @@
    "frame": "1080x1920",
    "fps": "30/1",
    "issues": [],
-   "size_mb": 20.1
+   "size_mb": 20.2,
+   "cover": true
   }
  }
 }

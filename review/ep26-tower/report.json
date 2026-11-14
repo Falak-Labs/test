@@ -20,7 +20,8 @@
     "L12 12 diff | 828 meters, 163 floors, 57 elevators.",
     "L14 6 diff  | and the day the elevator breaks 2909 stairs."
    ],
-   "size_mb": 19.9
+   "size_mb": 19.9,
+   "cover": true
   },
   "ar": {
    "ok": true,
@@ -130,7 +131,8 @@
    "frame": "1080x1920",
    "fps": "30/1",
    "issues": [],
-   "size_mb": 20.2
+   "size_mb": 20.2,
+   "cover": true
   }
  }
 }
