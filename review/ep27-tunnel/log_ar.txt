@@ -1,0 +1,6 @@
+tunnel_ar_sa: 69.10s, 2073 frames
+video done in 465s
+audio done
+final out/tunnel_ar_sa/tunnel_ar_sa_final.mp4
+QA  duration 69.10s  loudness -14.0 LUFS  true peak -1.7 dBFS  1080x1920 @ 30/1  frames 2073
+QA sheet out/tunnel_ar_sa/qa_sheet.png

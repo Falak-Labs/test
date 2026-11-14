@@ -1,0 +1,130 @@
+{
+ "slug": "ep27-tunnel",
+ "kit": "tunnel",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 66.8,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "5/232",
+   "mix_lines_off": [
+    "L12 5 diff  | 17 meters wide, 100 meters long, 6,000 tons."
+   ],
+   "size_mb": 19.7
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو عملت بريمة عرضها قد بيت، وبتزحف تحت المدن، مبروك، كده انت بنيت مكنة حفر أنفاق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الصخر ناشف أوي على البريمة العادية، تلف مكانها وتتزنق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتركب على الراس اللي بتلف أقراص حديد بتتدحرج على الصخر وتكسره حتت صغيرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "دلوقتي بتحفر، بس الردم بيتكوم قدامها ويدفن الراس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتحط حلزونة كبيرة تسحب الردم لجوه، وسير طويل يطلعه لبرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس تحت المدينة الأرض طين طري، وأول ما تحفر، النفق يقع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فدراع روبوت يركب حلقات خرسانة ورا الراس على طول، والمكنة تزق فيهم وتمشي لقدام.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "دلوقتي ماشية، بس كل ما تشيل طين من تحت، الشارع اللي فوق يهبط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتملا الأوضة اللي ورا الراس بالطين، يزق في الأرض قد ما هي بتزق فيك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما توصل للناحية التانية، تابعني، عشان اللي جاي هنبني القطر الطلقة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس سميها اسم ست عشان الحظ، زي عمال الأنفاق، ويلا احفر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "سبعتاشر متر عرض، مية متر طول، ست تلاف طن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت مكنة حفر أنفاق بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وبعد ما حفرت تحت البلد كلها؟ أول ما تدخل النفق، الشبكة تقطع، ألو؟ سامعني؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -1.7,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.1
+  }
+ }
+}
