@@ -1,4 +1,4 @@
-# Post status 2026-11-14T18:10:40+00:00
+# Post status 2026-11-14T21:25:32+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -158,9 +158,9 @@
 | ep26-tower | en.instagram | sent |  | 2026-11-14T18:02:17.595Z https://www.instagram.com/reel/DfuzSlyh2KJ/ |
 | ep26-tower | en.tiktok | sent |  | 2026-11-14T18:02:59.961Z https://tiktok.com/@congratsengineer/video/7708088893874195726 |
 | ep26-tower | en.youtube | sent |  | 2026-11-14T18:01:19.220Z https://www.youtube.com/shorts/5UnMJExUHBU |
-| ep27-tunnel | ar.instagram | scheduled |  | 2026-11-14T20:00:00.000Z |
-| ep27-tunnel | ar.tiktok | scheduled |  | 2026-11-14T20:00:00.000Z |
-| ep27-tunnel | ar.youtube | scheduled |  | 2026-11-14T20:00:00.000Z |
+| ep27-tunnel | ar.instagram | sent |  | 2026-11-14T20:02:33.555Z https://www.instagram.com/reel/DfvBDRXIhJT/ |
+| ep27-tunnel | ar.tiktok | sent |  | 2026-11-14T20:02:07.243Z https://tiktok.com/@kef.tenbeni/video/7708119675309280526 |
+| ep27-tunnel | ar.youtube | sent |  | 2026-11-14T20:00:59.544Z https://www.youtube.com/shorts/HW-kPSLK-yQ |
 | ep27-tunnel | en.instagram | scheduled |  | 2026-11-15T00:00:00.000Z |
 | ep27-tunnel | en.tiktok | scheduled |  | 2026-11-15T00:00:00.000Z |
 | ep27-tunnel | en.youtube | scheduled |  | 2026-11-15T00:00:00.000Z |
