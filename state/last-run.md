@@ -1,4 +1,3 @@
-# Requeue run 2026-11-14T08:00:26+00:00
+# Requeue run 2026-11-14T21:27:29+00:00
 
-- ep26-tower en.youtube: queued for 18:00 UTC (Buffer status now: scheduled)
-- ep27-tunnel en.youtube: queued for 00:00 UTC (Buffer status now: scheduled)
+- ep26-tower ar.tiktok: queued for 22:30 UTC (Buffer status now: scheduled)
