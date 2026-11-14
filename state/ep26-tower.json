@@ -43,7 +43,8 @@
    "status": "scheduled",
    "dueAt": "2026-11-14T17:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-14T04:15:07+00:00"
+   "created": "2026-11-14T04:15:07+00:00",
+   "moved": "2026-11-14T07:53:30+00:00"
   },
   "ar.tiktok": {
    "id": "6af7e051bb36d00909e83f1d",
