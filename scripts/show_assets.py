@@ -46,7 +46,7 @@ def main():
             p = d.get("post") or {}
             print(f"{slug} {tgt}: {p.get('status')} due {p.get('dueAt')}")
             for a in p.get("assets") or []:
-                print("   ", json.dumps(a, ensure_ascii=False)[:400])
+                print("   ", json.dumps(a, ensure_ascii=False)[:1500])
 
 
 if __name__ == "__main__":
