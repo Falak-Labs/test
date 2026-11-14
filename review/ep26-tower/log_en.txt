@@ -1,14 +1,12 @@
 tower: 68.32s, 2050 frames
-unknown element "reset-dirs"
 Unable to revert mtime: /usr/share/fonts
 Unable to revert mtime: /usr/share/fonts/truetype
-Unable to revert mtime: /usr/share/fonts/truetype/dejavu
 Unable to revert mtime: /usr/share/fonts/truetype/dejavu
 Unable to revert mtime: /usr/share/fonts/truetype/lato
 Unable to revert mtime: /usr/share/fonts/truetype/liberation
 Unable to revert mtime: /usr/share/fonts/truetype/noto
-video done in 610s
+video done in 544s
 audio done
 final out/tower/tower_final.mp4
-QA  duration 68.33s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2050
+QA  duration 68.33s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2050
 QA sheet out/tower/qa_sheet.png
