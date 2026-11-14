@@ -1,4 +1,4 @@
-# Post status 2026-11-13T19:47:25+00:00
+# Post status 2026-11-14T01:13:11+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -146,9 +146,9 @@
 | ep24-nuclear | en.instagram | sent |  | 2026-11-13T18:03:53.880Z https://www.instagram.com/reel/DfsOrIiBXY_/ |
 | ep24-nuclear | en.tiktok | sent |  | 2026-11-13T18:02:37.770Z https://www.tiktok.com/@congratsengineer/video/7707717724159446285?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep24-nuclear | en.youtube | sent |  | 2026-11-13T18:01:59.505Z https://www.youtube.com/shorts/x_OopPVzYJY |
-| ep25-carrier | ar.instagram | scheduled |  | 2026-11-13T20:00:00.000Z |
-| ep25-carrier | ar.tiktok | scheduled |  | 2026-11-13T20:00:00.000Z |
-| ep25-carrier | ar.youtube | scheduled |  | 2026-11-13T20:00:00.000Z |
-| ep25-carrier | en.instagram | scheduled |  | 2026-11-14T00:00:00.000Z |
-| ep25-carrier | en.tiktok | scheduled |  | 2026-11-14T00:00:00.000Z |
-| ep25-carrier | en.youtube | scheduled |  | 2026-11-14T00:00:00.000Z |
+| ep25-carrier | ar.instagram | sent |  | 2026-11-13T20:03:22.764Z https://www.instagram.com/reel/DfscVuNzUR3/ |
+| ep25-carrier | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-13T20:00:00.000Z |
+| ep25-carrier | ar.youtube | sent |  | 2026-11-13T20:01:50.935Z https://www.youtube.com/shorts/noezcIeSvbc |
+| ep25-carrier | en.instagram | error | It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications. | 2026-11-14T00:00:00.000Z |
+| ep25-carrier | en.tiktok | sent |  | 2026-11-14T00:03:36.104Z https://tiktok.com/@congratsengineer/video/7707810577862692110 |
+| ep25-carrier | en.youtube | sent |  | 2026-11-14T00:00:56.699Z https://www.youtube.com/shorts/4eLbi6pRaEM |
