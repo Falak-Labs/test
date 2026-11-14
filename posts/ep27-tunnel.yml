@@ -1,0 +1,31 @@
+episode: 27
+date: 2026-11-14
+video:
+  en: media/ep27-tunnel-en.mp4
+  ar: media/ep27-tunnel-ar.mp4
+en:
+  at: "2026-11-15T00:00:00Z"    # 16:00 PT
+  title: "How a Tunnel Boring Machine Digs Under a City 🚇"
+  text: |
+    How do you dig a tunnel under a whole city without it caving in? 🚇
+    Steel discs roll and crack the rock, a giant screw and a conveyor belt carry the rubble out, a robot arm builds concrete rings behind the head, and the chamber stays packed with mud so the street above doesn't sink.
+    What would you name yours? 👇
+  next: "a bullet train 🚄"
+  seo: "Tunnel boring machine (TBM) explained: disc cutters on the cutterhead, screw conveyor and belt conveyor for the muck, segment erector and concrete lining rings, thrust jacks pushing off the rings, earth pressure balance against settlement, why TBMs get women's names (Saint Barbara), Bertha in Seattle: 17.5 m wide, 99 m long, about 6,000 tons."
+  tags:
+    tiktok: "#tunnelboringmachine #engineering #construction #learnontiktok #howitworks"
+    instagram: "#tunnelboringmachine #engineering #construction #howitworks #science"
+    youtube: "#tunnelboringmachine #engineering #construction"
+ar:
+  at: "2026-11-14T20:00:00Z"    # 12:00 PT = 10 pm Cairo
+  title: "إزاي مكنة حفر الأنفاق بتحفر تحت المدينة؟ 🚇"
+  text: |
+    إزاي تحفر نفق تحت مدينة كاملة من غير ما يقع؟ 🚇
+    أقراص حديد بتتدحرج وتكسر الصخر، وحلزونة كبيرة وسير بيطلعوا الردم لبرة، ودراع روبوت بيركب حلقات خرسانة ورا الراس، والأوضة اللي ورا الراس مليانة طين بيزق قصاد الأرض عشان الشارع اللي فوق ما يهبطش.
+    هتسمي مكنتك إيه؟ 👇
+  next: "القطر الطلقة 🚄"
+  seo: "مكنة حفر الأنفاق من جوه: أقراص القطع في الراس، الحلزونة والسير اللي بيطلعوا الردم، دراع تركيب حلقات الخرسانة، الجاكات اللي بتزق في الحلقات، ضغط الطين قصاد الأرض عشان الشارع ما يهبطش، وليه المكن ده بياخد أسماء ستات، سبعتاشر متر عرض ومية متر طول وست تلاف طن."
+  tags:
+    tiktok: "#مترو #هندسة #أنفاق #تعلم_على_التيك_توك #مصر"
+    instagram: "#هندسة #أنفاق #مترو #معلومات #مصر"
+    youtube: "#هندسة #أنفاق #معلومات"

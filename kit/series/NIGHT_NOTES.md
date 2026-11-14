@@ -239,3 +239,33 @@
   dialect: egyptian. If he approves: voices.yml ar {voice: kU20U5bOr9ND3yqlsdwV, dialect: jordanian}, and write the
   Arabic in Jordanian ("لو ...، مبروك، هيك إنت بنيت ..." / "بس قبل ما ...، تابعني، لأنه الجاي رح نبني ..." /
   "ومبروك، هيك إنت بنيت ... بإيدك"). Make voices can try any voice without touching voices.yml: input voice=<ID>.
+
+## Nov 14 2026 (daily task, run of Nov 13 18:37 PT): builds 26 tallest tower and 27 tunnel boring machine
+- Status 02:40Z: Nov 13 posts 10 of 12 sent. 25 ar.tiktok waited for 04:00Z (requeued the run before); 24 ar.tiktok got
+  "potential spam" again at 02:00Z and was requeued to 06:00Z (2 h after 25's).
+- PAGES: the posted Season 1 videos are off the site (git rm media/ep0[1-5]-*.mp4, 162 MB). episodes.yml marks them
+  `retired: true` and produce.py's plan skips retired episodes, so a run without `only` never remakes them. media/ is
+  about 765 MB after builds 26-27 and every build adds about 40 MB. TO DO BEFORE THE NEXT PRODUCE RUN: retire the next
+  posted builds the same way (ep06-ep10, about 200 MB: all their posts are live), then wait for a green Pages run.
+- Check that `git push` really went through before dispatching a workflow: a post.yml state commit landed between my
+  commit and push, the push was refused, and the first voice runs ran on the old main (cancelled, dispatched again).
+- Easton read "side to side" as "side to side to side" (both Whisper models heard the repeat). Reworded the line and made
+  the English again. Read the --verify diff lines for repeated words, not only number formats.
+- The mix check heard "wings" as "wanes": three -6 dB pops sat right on the word. Sounds that land on a key word: -15 dB.
+- check_ar_voice flags the all-numbers stat line as weak (68%, 48%) because Whisper writes the numbers as digits; the
+  digits were right, so no fix run. Every other line 1-23%.
+- New tool: tools/save_check.py <kit> [lang=ar_sa] draws every 0.25 s and reports frames that leave the canvas save
+  count changed (a missing restore makes the picture drift without any error). Run it with the sweeps.
+- tower.py (desert, ground, plan, sky, pump, lobby): tower() is a stack of 27 tiers with wing (skinny core -> winged),
+  step (straight box -> setbacks on alternate sides = the spiral), built, spire, lights; vortex(), crane(), mixer() with
+  a turning drum, ice(), pencil(), tripod(), hexagon(), big_arrow(); v2.sky(pal=...) takes a mixed day/night palette.
+- tunnel.py (city, face, side, portal): tbm_side() (shield, back-up gear, teeth, packed chamber, name plate),
+  tbm_front() (spokes, disc cutters popping in), a Gaussian street trough with tilting houses, the side cutaway scrolls
+  the world (rings, stones) instead of moving the machine, phone() with signal bars, portal arch + cell tower arcs.
+- Facts (tower = Burj Khalifa): 828 m, 163 floors, 57 lifts (burjkhalifa.ae); 192 piles, 1.5 m x 43 m, more than 50 m
+  deep; 27 spiral setbacks against wind vortices; 2,909 stairs (Wikipedia); concrete pumped a record 606 m, poured at
+  night with ice in the mix (Putzmeister, Pumps & Systems); spire of 4,000+ t steel built inside and jacked up to over
+  200 m (burjkhalifa.ae). TBM: disc cutters, screw conveyor, ring segments, pushing off the lining, earth pressure
+  balance (Wikipedia); women's names for good luck, Saint Barbara (ICE); Bertha 17.5 m wide, 99 m long, 6,100 t.
+- Scheduled for Nov 14 PT: 26 AR 09:00 (17:00Z), EN 10:00 (18:00Z); 27 AR 12:00 (20:00Z), EN 16:00 (00:00Z Nov 15).
+  Next: 28 bullet train (promised by 27), 29 humanoid robot.
