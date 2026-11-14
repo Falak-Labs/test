@@ -978,7 +978,7 @@ class Tower(EpisodeV2):
         ev += [(s("break2") - 0.12, sfx.whoosh(0.4, False, 112), -4), (T["wobble"], sfx.creak(1.2, 113), -8),
                (T["wobble"] + 0.9, sfx.creak(1.0, 114), -9), (T["tip"], sfx.alarm(2, 820.0), -12)]
         ev += [(s("fix2") - 0.12, sfx.whoosh(0.4, True, 115), -4)]
-        ev += [(T["wings"] - 0.2 + 0.16 * i, sfx.pop(116 + i), -6) for i in range(3)]
+        ev += [(T["wings"] - 0.2 + 0.16 * i, sfx.pop(116 + i), -15) for i in range(3)]     # soft: they sit on "wings"
         ev += [(T["bracing"], sfx.snap(120), -8), (T["tripod"] - 0.1, sfx.click(121), -6), (T["tripod"] + 0.2, sfx.chime(), -6)]
         ev += [(s("break3") - 0.12, sfx.whoosh(0.4, False, 122), -4), (T["wind"] - 0.4, wind_snd(3.4, 123), -8),
                (T["sway"], sfx.creak(1.2, 124), -8), (T["sway"] + 0.3, sfx.alarm(2, 820.0), -13)]
