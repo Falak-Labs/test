@@ -1,0 +1,14 @@
+If you build a machine on two legs that can do a backflip, congrats, you just built a humanoid robot.
+But on two small feet, it tips over the second you let go.
+So you give it an inner ear, a sensor that feels every tilt, and motors that correct it hundreds of times a second.
+Now it stands, but the moment it lifts a leg, it falls flat on its face.
+So before each step, it shifts its weight over the other foot, like you do without thinking.
+Now it walks, but one bump or one push, and it goes down.
+So thousands of copies practice in a computer, falling and getting up, years of practice in hours, and the real robot gets that brain.
+Now it's steady, but you hand it an egg, and it crushes it.
+So you put touch sensors in its fingertips, so it feels how hard it squeezes.
+But before it gets up, follow, because next we're building a stadium that cools itself.
+Now just add cameras for eyes and a battery, and enter it in a half marathon, like the robots in Beijing.
+Twenty-one kilometers, three battery changes, two hours and forty minutes for the fastest robot.
+And congrats, you just built a humanoid robot yourself.
+And after all that? It does backflips, but it still can't fold a fitted sheet.
