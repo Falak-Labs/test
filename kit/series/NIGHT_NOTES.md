@@ -313,6 +313,9 @@
   226 / 228 / 231 words; ElevenLabs Egyptian 69.9 / 68.1 / 69.2 s for 168 / 167 / 167 words (2,710 characters).
   Whisper base.en in the verify step heard "dives" as "dyes" and "built" as "build"; the local Whisper small heard both
   right (a 15-line script: sherpa whisper-small with language="en" on the line's span). Check that way before rewording.
+  In the MIX of build 28 even Whisper small heard "dyes" (moving the sounds off the word did not help), so line 7 became
+  "which dives into water without a splash": English voice remade (voice.yml langs=en force=true, free) and the English
+  video rendered again (produce only=ep28-bullettrain langs=en force=true); the Arabic video was kept.
 - A missing `xx += 900` in a while loop made v2_check hang for 10 minutes with no output. When a check seems stuck,
   time one frame per beat with a small script (every frame should take under a second).
 - v2.speed_streaks only moves streaks vertically; for sideways speed use hstreaks (racecar.py, copied into bullettrain.py).
