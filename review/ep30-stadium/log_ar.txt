@@ -1,0 +1,7 @@
+stadium_ar_sa: 72.34s, 2170 frames
+cover out/stadium_ar_sa/cover.png: ['استاد', 'بيبرّد نفسه'] (frame 0 of the video)
+video done in 355s
+audio done
+final out/stadium_ar_sa/stadium_ar_sa_final.mp4
+QA  duration 72.33s  loudness -14.0 LUFS  true peak -1.8 dBFS  1080x1920 @ 30/1  frames 2170
+QA sheet out/stadium_ar_sa/qa_sheet.png

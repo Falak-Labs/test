@@ -1,0 +1,136 @@
+{
+ "slug": "ep30-stadium",
+ "kit": "stadium",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.63,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "12/234",
+   "mix_lines_off": [
+    "L 1 1 diff  | If you build a stadium in the desert that's cold inside with a roof wide open, congrats, you just built a self-cooling stadium.",
+    "L 6 4 diff  | Now it's shaded, but 40,000 fans give off the heat of 80,000 laptops.",
+    "L 7 1 diff  | So cold air blows from a grill under every seat and big nozzles beside the pitch, only where people are.",
+    "L11 1 diff  | Now just switch it on two hours early, like the professor they call Dr. Cool did in Qatar and open the gates.",
+    "L12 5 diff  | 21 degrees on the pitch, 40,000 fans, 7 cooled stadiums at the World Cup."
+   ],
+   "size_mb": 19.2,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو عملت استاد في الصحرا، سقفه مفتوح، وجواه ساقع، مبروك، كده انت بنيت استاد بيبرّد نفسه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس شمس الصحرا بتخلي المدرجات فرن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فالسقف يضلل على الكراسي، وتدهنه من برة بلون فاتح يرجّع الشمس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس السقف مفتوح، فهوا الصحرا السخن بيدخل من فوق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتقوّس حرف السقف زي جناح الطيارة، فالهوا يعدي من فوق، والساقع يفضل جوه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "دلوقتي فيه ضل، بس أربعين ألف مشجع بيطلعوا حرارة قد تمانين ألف لابتوب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فيطلع هوا ساقع من تحت كل كرسي، ومن فتحات كبيرة جنب الملعب، مكان الناس بس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "دلوقتي ساقع، بس تبريد الهوا ده طول اليوم بياكل كهربا كتير أوي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتبرّد مية بالليل، وتخزنها للماتش، وترجّع الهوا تنضفه وتبرده تاني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل صفارة البداية، تابعني، عشان اللي جاي هنبني توربينة رياح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس شغّله قبل الماتش بساعتين، زي ما عمل دكتور كول في قطر، وافتح البوابات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "واحد وعشرين درجة في الملعب، أربعين ألف مشجع، وسبع استادات متبردة في كاس العالم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت استاد بيبرّد نفسه بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وبعد ما برّدت الصحرا كلها؟ أمك في المدرج تقولك: اقفل التكييف ده، هتاخد برد!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 72.33,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 19.6,
+   "cover": true
+  }
+ }
+}

@@ -1,0 +1,7 @@
+bullettrain_ar_sa: 72.99s, 2190 frames
+cover out/bullettrain_ar_sa/cover.png: ['القطر', 'الطلقة'] (frame 0 of the video)
+video done in 561s
+audio done
+final out/bullettrain_ar_sa/bullettrain_ar_sa_final.mp4
+QA  duration 73.00s  loudness -14.0 LUFS  true peak -1.9 dBFS  1080x1920 @ 30/1  frames 2190
+QA sheet out/bullettrain_ar_sa/qa_sheet.png

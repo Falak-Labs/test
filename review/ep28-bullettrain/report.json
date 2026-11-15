@@ -1,0 +1,135 @@
+{
+ "slug": "ep28-bullettrain",
+ "kit": "bullettrain",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.03,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "12/227",
+   "mix_lines_off": [
+    "L 2 1 diff  | But one engine dragging 16 heavy cars is way too slow to speed up.",
+    "L 7 1 diff  | So an engineer who loved birds copied the kingfisher, which dawd without a splash and gave it a beak.",
+    "L11 1 diff  | Now just let a crew clean it in 7 minutes flat, take a bow and open the doors.",
+    "L12 9 diff  | 320 km/h, 16 cars, and on average just 24 seconds late."
+   ],
+   "size_mb": 20.3,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو عملت قطر بوزه زي منقار الطير، مبروك، كده انت بنيت القطر الطلقة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس جرار واحد بيشد ستاشر عربية تقيلة، بطيء أوي على ما يسرّع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتحط موتورات صغيرة تحت كل عربية تقريبًا، والقطر كله يشد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "دلوقتي سريع، بس السكة القديمة كلها ملفات ومزلقانات، فيطير من أول ملف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتعمله سكة لوحده: ملفات واسعة مايلة لجوه، ومن غير مزلقانات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس أول ما يدخل النفق، يزق الهوا قدامه، وآخر النفق يضرب زي المدفع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فمهندس بيحب الطيور قلّد الرفراف، اللي بيغطس في المية من غير رشة، وعمل للقطر منقار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "دلوقتي هادي، بس اليابان فيها زلازل، وبالسرعة دي مش هيلحق يقف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فحساسات على طول السكة تحس بأول رعشة للزلزال، وتقطع الكهربا قبل الهزة الكبيرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تركب، تابعني، عشان اللي جاي هنبني روبوت شبه البني آدم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس فريق النضافة يلمّعه في سبع دقايق، وينحنيلك، وافتح الأبواب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "تلتمية وعشرين كيلو في الساعة، ستاشر عربية، ومتوسط التأخير أربعة وعشرين ثانية بس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت القطر الطلقة بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وبعد كل ده؟ لو اتأخرت ثانية، هيمشي من غيرك، ده مش ميكروباص هيستنى لما يكمّل!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 73.0,
+   "lufs": -14.0,
+   "peak": -1.9,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 21.2,
+   "cover": true
+  }
+ }
+}
