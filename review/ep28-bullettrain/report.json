@@ -4,20 +4,20 @@
  "langs": {
   "en": {
    "ok": true,
-   "duration": 67.03,
+   "duration": 67.53,
    "lufs": -14.0,
    "peak": -2.1,
    "frame": "1080x1920",
    "fps": "30/1",
    "issues": [],
-   "mix_word_errors": "12/227",
+   "mix_word_errors": "12/229",
    "mix_lines_off": [
+    "L 1 1 diff  | If you build a train with a bird's beef for a nose, congrats, you just built a bullet train.",
     "L 2 1 diff  | But one engine dragging 16 heavy cars is way too slow to speed up.",
-    "L 7 1 diff  | So an engineer who loved birds copied the kingfisher, which dawd without a splash and gave it a beak.",
-    "L11 1 diff  | Now just let a crew clean it in 7 minutes flat, take a bow and open the doors.",
+    "L11 1 diff  | Now just let a crew clean it in 7 minutes flat. Take a bow and open the doors.",
     "L12 9 diff  | 320 km/h, 16 cars, and on average just 24 seconds late."
    ],
-   "size_mb": 20.3,
+   "size_mb": 20.4,
    "cover": true
   },
   "ar": {

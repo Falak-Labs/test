@@ -1,4 +1,4 @@
-bullettrain: 67.03s, 2011 frames
+bullettrain: 67.53s, 2026 frames
 Unable to revert mtime: /usr/share/fonts
 Unable to revert mtime: /usr/share/fonts/truetype
 Unable to revert mtime: /usr/share/fonts/truetype/dejavu
@@ -6,8 +6,8 @@ Unable to revert mtime: /usr/share/fonts/truetype/lato
 Unable to revert mtime: /usr/share/fonts/truetype/liberation
 Unable to revert mtime: /usr/share/fonts/truetype/noto
 cover out/bullettrain/cover.png: ['BULLET', 'TRAIN'] (frame 0 of the video)
-video done in 515s
+video done in 334s
 audio done
 final out/bullettrain/bullettrain_final.mp4
-QA  duration 67.03s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2011
+QA  duration 67.53s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2026
 QA sheet out/bullettrain/qa_sheet.png
