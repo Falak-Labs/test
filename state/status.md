@@ -1,4 +1,4 @@
-# Post status 2026-11-15T02:50:10+00:00
+# Post status 2026-11-15T04:48:25+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -164,3 +164,21 @@
 | ep27-tunnel | en.instagram | sent |  | 2026-11-15T00:01:48.369Z https://www.instagram.com/reel/DfvcdjHqbGr/ |
 | ep27-tunnel | en.tiktok | sent |  | 2026-11-15T00:02:29.933Z https://tiktok.com/@congratsengineer/video/7708181401790713102 |
 | ep27-tunnel | en.youtube | sent |  | 2026-11-15T00:01:05.496Z https://www.youtube.com/shorts/6z5Av7axFRM |
+| ep28-bullettrain | ar.instagram | scheduled |  | 2026-11-15T17:00:00.000Z |
+| ep28-bullettrain | ar.tiktok | scheduled |  | 2026-11-15T17:00:00.000Z |
+| ep28-bullettrain | ar.youtube | scheduled |  | 2026-11-15T17:00:00.000Z |
+| ep28-bullettrain | en.instagram | scheduled |  | 2026-11-15T14:00:00.000Z |
+| ep28-bullettrain | en.tiktok | scheduled |  | 2026-11-15T14:00:00.000Z |
+| ep28-bullettrain | en.youtube | scheduled |  | 2026-11-15T14:00:00.000Z |
+| ep29-humanoid | ar.instagram | scheduled |  | 2026-11-15T20:00:00.000Z |
+| ep29-humanoid | ar.tiktok | scheduled |  | 2026-11-15T20:00:00.000Z |
+| ep29-humanoid | ar.youtube | scheduled |  | 2026-11-15T20:00:00.000Z |
+| ep29-humanoid | en.instagram | scheduled |  | 2026-11-15T18:00:00.000Z |
+| ep29-humanoid | en.tiktok | scheduled |  | 2026-11-15T18:00:00.000Z |
+| ep29-humanoid | en.youtube | scheduled |  | 2026-11-15T18:00:00.000Z |
+| ep30-stadium | ar.instagram | scheduled |  | 2026-11-15T23:00:00.000Z |
+| ep30-stadium | ar.tiktok | scheduled |  | 2026-11-15T23:00:00.000Z |
+| ep30-stadium | ar.youtube | scheduled |  | 2026-11-15T23:00:00.000Z |
+| ep30-stadium | en.instagram | scheduled |  | 2026-11-16T00:00:00.000Z |
+| ep30-stadium | en.tiktok | scheduled |  | 2026-11-16T00:00:00.000Z |
+| ep30-stadium | en.youtube | scheduled |  | 2026-11-16T00:00:00.000Z |
