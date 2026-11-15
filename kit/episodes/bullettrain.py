@@ -1225,8 +1225,8 @@ class BulletTrain(EpisodeV2):
                (T["shoves"], sfx.whoosh(0.8, True, 87), -12), (T["booms"], boom(1.4, 88), -3),
                (T["booms"] + 0.3, sfx.alarm(3, 820.0), -12)]
         ev += [(s("fix3") - 0.12, sfx.whoosh(0.4, False, 89), -5), (T["kingfisher"], sfx.pop(90), -9),
-               (T["dives"] + 0.1, sfx.whoosh(0.5, False, 91), -12), (T["dives"] + 0.4, sfx.tap(92), -14),
-               (T["beak3"] - 0.6, sfx.riser(0.8, 93), -12), (T["splash"] - 0.1, rush(1.3, 94), -14),
+               (T["dives"] + 0.45, sfx.whoosh(0.5, False, 91), -18), (T["dives"] + 0.6, sfx.tap(92), -16),
+               (T["beak3"] - 0.6, sfx.riser(0.8, 93), -14), (T["in3b"] - 0.1, rush(1.3, 94), -18),
                (T["beak3"] + 0.2, sfx.chime(), -6)]
         ev += [(s("break4") - 0.12, sfx.whoosh(0.4, True, 95), -4), (s("break4"), rush(2.0, 96), -12),
                (T["quakes"], rumble(2.4, 97), -6), (T["hit4"], boom(1.4, 98), -6),

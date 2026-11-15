@@ -4,7 +4,7 @@ So you put small motors under almost every car, and the whole train pulls togeth
 Now it's fast, but old tracks have tight bends and crossings, and it flies off the first curve.
 So it gets its own track: wide curves tilted inward, no crossings, nothing in the way.
 But when it shoots into a tunnel, it shoves the air ahead, and the far end booms like a cannon.
-So an engineer who loved birds copied the kingfisher, which dives without a splash, and gave it a beak.
+So an engineer who loved birds copied the kingfisher, which dives into water without a splash, and gave it a beak.
 Now it's quiet, but Japan has earthquakes, and this fast, it can't stop in time.
 So sensors along the line feel the first small wave of a quake and cut the power before the big shake hits.
 But before you board, follow, because next we're building a humanoid robot.
