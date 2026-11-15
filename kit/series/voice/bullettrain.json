@@ -2,8 +2,8 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 63.91,
- "words": 226,
+ "duration": 64.42,
+ "words": 228,
  "words_per_sec": 3.54,
  "lines": [
   {
@@ -567,8 +567,8 @@
   {
    "line": 7,
    "start": 28.312,
-   "end": 33.229,
-   "text": "So an engineer who loved birds copied the kingfisher, which dives without a splash, and gave it a beak.",
+   "end": 33.729,
+   "text": "So an engineer who loved birds copied the kingfisher, which dives into water without a splash, and gave it a beak.",
    "words": [
     {
      "w": "So",
@@ -618,633 +618,643 @@
     {
      "w": "which",
      "start": 30.642,
-     "end": 30.841
+     "end": 30.822
     },
     {
      "w": "dives",
-     "start": 30.841,
-     "end": 31.187
+     "start": 30.822,
+     "end": 31.134
+    },
+    {
+     "w": "into",
+     "start": 31.134,
+     "end": 31.447
+    },
+    {
+     "w": "water",
+     "start": 31.447,
+     "end": 31.76
     },
     {
      "w": "without",
-     "start": 31.187,
-     "end": 31.534
+     "start": 31.76,
+     "end": 32.073
     },
     {
      "w": "a",
-     "start": 31.534,
-     "end": 31.733
+     "start": 32.073,
+     "end": 32.252
     },
     {
      "w": "splash,",
-     "start": 31.733,
-     "end": 31.932
+     "start": 32.252,
+     "end": 32.432
     },
     {
      "w": "and",
-     "start": 31.992,
-     "end": 32.22
+     "start": 32.512,
+     "end": 32.734
     },
     {
      "w": "gave",
-     "start": 32.22,
-     "end": 32.448
+     "start": 32.734,
+     "end": 32.956
     },
     {
      "w": "it",
-     "start": 32.448,
-     "end": 32.676
+     "start": 32.956,
+     "end": 33.178
     },
     {
      "w": "a",
-     "start": 32.676,
-     "end": 32.904
+     "start": 33.178,
+     "end": 33.4
     },
     {
      "w": "beak.",
-     "start": 32.904,
-     "end": 33.132
+     "start": 33.4,
+     "end": 33.622
     }
    ]
   },
   {
    "line": 8,
-   "start": 33.594,
-   "end": 37.823,
+   "start": 34.094,
+   "end": 38.323,
    "text": "Now it's quiet, but Japan has earthquakes, and this fast, it can't stop in time.",
    "words": [
     {
      "w": "Now",
-     "start": 33.704,
-     "end": 33.951
+     "start": 34.204,
+     "end": 34.451
     },
     {
      "w": "it's",
-     "start": 33.951,
-     "end": 34.197
+     "start": 34.451,
+     "end": 34.697
     },
     {
      "w": "quiet,",
-     "start": 34.197,
-     "end": 34.444
+     "start": 34.697,
+     "end": 34.944
     },
     {
      "w": "but",
-     "start": 34.574,
-     "end": 34.773
+     "start": 35.074,
+     "end": 35.273
     },
     {
      "w": "Japan",
-     "start": 34.773,
-     "end": 35.12
+     "start": 35.273,
+     "end": 35.62
     },
     {
      "w": "has",
-     "start": 35.12,
-     "end": 35.319
+     "start": 35.62,
+     "end": 35.819
     },
     {
      "w": "earthquakes,",
-     "start": 35.319,
-     "end": 35.814
+     "start": 35.819,
+     "end": 36.314
     },
     {
      "w": "and",
-     "start": 35.964,
-     "end": 36.181
+     "start": 36.464,
+     "end": 36.681
     },
     {
      "w": "this",
-     "start": 36.181,
-     "end": 36.397
+     "start": 36.681,
+     "end": 36.897
     },
     {
      "w": "fast,",
-     "start": 36.397,
-     "end": 36.614
+     "start": 36.897,
+     "end": 37.114
     },
     {
      "w": "it",
-     "start": 36.794,
-     "end": 36.986
+     "start": 37.284,
+     "end": 37.478
     },
     {
      "w": "can't",
-     "start": 36.986,
-     "end": 37.178
+     "start": 37.478,
+     "end": 37.672
     },
     {
      "w": "stop",
-     "start": 37.178,
-     "end": 37.37
+     "start": 37.672,
+     "end": 37.866
     },
     {
      "w": "in",
-     "start": 37.37,
-     "end": 37.562
+     "start": 37.866,
+     "end": 38.06
     },
     {
      "w": "time.",
-     "start": 37.562,
-     "end": 37.754
+     "start": 38.06,
+     "end": 38.254
     }
    ]
   },
   {
    "line": 9,
-   "start": 38.188,
-   "end": 43.312,
+   "start": 38.688,
+   "end": 43.813,
    "text": "So sensors along the line feel the first small wave of a quake and cut the power before the big shake hits.",
    "words": [
     {
      "w": "So",
-     "start": 38.288,
-     "end": 38.486
+     "start": 38.798,
+     "end": 38.996
     },
     {
      "w": "sensors",
-     "start": 38.486,
-     "end": 38.83
+     "start": 38.996,
+     "end": 39.34
     },
     {
      "w": "along",
-     "start": 38.83,
-     "end": 39.175
+     "start": 39.34,
+     "end": 39.685
     },
     {
      "w": "the",
-     "start": 39.175,
-     "end": 39.373
+     "start": 39.685,
+     "end": 39.883
     },
     {
      "w": "line",
-     "start": 39.373,
-     "end": 39.571
+     "start": 39.883,
+     "end": 40.081
     },
     {
      "w": "feel",
-     "start": 39.571,
-     "end": 39.769
+     "start": 40.081,
+     "end": 40.279
     },
     {
      "w": "the",
-     "start": 39.769,
-     "end": 39.966
+     "start": 40.279,
+     "end": 40.476
     },
     {
      "w": "first",
-     "start": 39.966,
-     "end": 40.164
+     "start": 40.476,
+     "end": 40.674
     },
     {
      "w": "small",
-     "start": 40.164,
-     "end": 40.362
+     "start": 40.674,
+     "end": 40.872
     },
     {
      "w": "wave",
-     "start": 40.362,
-     "end": 40.56
+     "start": 40.872,
+     "end": 41.07
     },
     {
      "w": "of",
-     "start": 40.56,
-     "end": 40.758
+     "start": 41.07,
+     "end": 41.268
     },
     {
      "w": "a",
-     "start": 40.758,
-     "end": 40.956
+     "start": 41.268,
+     "end": 41.466
     },
     {
      "w": "quake",
-     "start": 40.956,
-     "end": 41.154
+     "start": 41.466,
+     "end": 41.664
     },
     {
      "w": "and",
-     "start": 41.154,
-     "end": 41.352
+     "start": 41.664,
+     "end": 41.862
     },
     {
      "w": "cut",
-     "start": 41.352,
-     "end": 41.55
+     "start": 41.862,
+     "end": 42.06
     },
     {
      "w": "the",
-     "start": 41.55,
-     "end": 41.747
+     "start": 42.06,
+     "end": 42.257
     },
     {
      "w": "power",
-     "start": 41.747,
-     "end": 42.092
+     "start": 42.257,
+     "end": 42.602
     },
     {
      "w": "before",
-     "start": 42.092,
-     "end": 42.436
+     "start": 42.602,
+     "end": 42.946
     },
     {
      "w": "the",
-     "start": 42.436,
-     "end": 42.634
+     "start": 42.946,
+     "end": 43.144
     },
     {
      "w": "big",
-     "start": 42.634,
-     "end": 42.832
+     "start": 43.144,
+     "end": 43.342
     },
     {
      "w": "shake",
-     "start": 42.832,
-     "end": 43.03
+     "start": 43.342,
+     "end": 43.54
     },
     {
      "w": "hits.",
-     "start": 43.03,
-     "end": 43.228
+     "start": 43.54,
+     "end": 43.738
     }
    ]
   },
   {
    "line": 10,
-   "start": 43.677,
-   "end": 47.354,
+   "start": 44.177,
+   "end": 47.854,
    "text": "But before you board, follow, because next we're building a humanoid robot.",
    "words": [
     {
      "w": "But",
-     "start": 43.817,
-     "end": 44.02
+     "start": 44.317,
+     "end": 44.52
     },
     {
      "w": "before",
-     "start": 44.02,
-     "end": 44.372
+     "start": 44.52,
+     "end": 44.872
     },
     {
      "w": "you",
-     "start": 44.372,
-     "end": 44.574
+     "start": 44.872,
+     "end": 45.074
     },
     {
      "w": "board,",
-     "start": 44.574,
-     "end": 44.777
+     "start": 45.074,
+     "end": 45.277
     },
     {
      "w": "follow,",
-     "start": 44.937,
-     "end": 45.267
+     "start": 45.427,
+     "end": 45.767
     },
     {
      "w": "because",
-     "start": 45.377,
-     "end": 45.686
+     "start": 45.887,
+     "end": 46.194
     },
     {
      "w": "next",
-     "start": 45.686,
-     "end": 45.864
+     "start": 46.194,
+     "end": 46.371
     },
     {
      "w": "we're",
-     "start": 45.864,
-     "end": 46.041
+     "start": 46.371,
+     "end": 46.548
     },
     {
      "w": "building",
-     "start": 46.041,
-     "end": 46.35
+     "start": 46.548,
+     "end": 46.855
     },
     {
      "w": "a",
-     "start": 46.35,
-     "end": 46.528
+     "start": 46.855,
+     "end": 47.031
     },
     {
      "w": "humanoid",
-     "start": 46.528,
-     "end": 46.968
+     "start": 47.031,
+     "end": 47.47
     },
     {
      "w": "robot.",
-     "start": 46.968,
-     "end": 47.277
+     "start": 47.47,
+     "end": 47.777
     }
    ]
   },
   {
    "line": 11,
-   "start": 47.719,
-   "end": 51.896,
+   "start": 48.219,
+   "end": 52.396,
    "text": "Now just let a crew clean it in seven minutes flat, take a bow, and open the doors.",
    "words": [
     {
      "w": "Now",
-     "start": 47.829,
-     "end": 47.998
+     "start": 48.329,
+     "end": 48.498
     },
     {
      "w": "just",
-     "start": 47.998,
-     "end": 48.168
+     "start": 48.498,
+     "end": 48.668
     },
     {
      "w": "let",
-     "start": 48.168,
-     "end": 48.337
+     "start": 48.668,
+     "end": 48.837
     },
     {
      "w": "a",
-     "start": 48.337,
-     "end": 48.507
+     "start": 48.837,
+     "end": 49.007
     },
     {
      "w": "crew",
-     "start": 48.507,
-     "end": 48.676
+     "start": 49.007,
+     "end": 49.176
     },
     {
      "w": "clean",
-     "start": 48.676,
-     "end": 48.845
+     "start": 49.176,
+     "end": 49.345
     },
     {
      "w": "it",
-     "start": 48.845,
-     "end": 49.015
+     "start": 49.345,
+     "end": 49.515
     },
     {
      "w": "in",
-     "start": 49.015,
-     "end": 49.184
+     "start": 49.515,
+     "end": 49.684
     },
     {
      "w": "seven",
-     "start": 49.184,
-     "end": 49.479
+     "start": 49.684,
+     "end": 49.979
     },
     {
      "w": "minutes",
-     "start": 49.479,
-     "end": 49.9
+     "start": 49.979,
+     "end": 50.4
     },
     {
      "w": "flat,",
-     "start": 49.9,
-     "end": 50.069
+     "start": 50.4,
+     "end": 50.569
     },
     {
      "w": "take",
-     "start": 50.209,
-     "end": 50.396
+     "start": 50.709,
+     "end": 50.896
     },
     {
      "w": "a",
-     "start": 50.396,
-     "end": 50.582
+     "start": 50.896,
+     "end": 51.082
     },
     {
      "w": "bow,",
-     "start": 50.582,
-     "end": 50.769
+     "start": 51.082,
+     "end": 51.269
     },
     {
      "w": "and",
-     "start": 50.999,
-     "end": 51.174
+     "start": 51.499,
+     "end": 51.674
     },
     {
      "w": "open",
-     "start": 51.174,
-     "end": 51.479
+     "start": 51.674,
+     "end": 51.979
     },
     {
      "w": "the",
-     "start": 51.479,
-     "end": 51.654
+     "start": 51.979,
+     "end": 52.154
     },
     {
      "w": "doors.",
-     "start": 51.654,
-     "end": 51.829
+     "start": 52.154,
+     "end": 52.329
     }
    ]
   },
   {
    "line": 12,
-   "start": 52.26,
-   "end": 57.146,
+   "start": 52.76,
+   "end": 57.646,
    "text": "Three hundred twenty kilometers an hour, sixteen cars, and on average just twenty-four seconds late.",
    "words": [
     {
      "w": "Three",
-     "start": 52.38,
-     "end": 52.553
+     "start": 52.89,
+     "end": 53.063
     },
     {
      "w": "hundred",
-     "start": 52.553,
-     "end": 52.855
+     "start": 53.063,
+     "end": 53.365
     },
     {
      "w": "twenty",
-     "start": 52.855,
-     "end": 53.156
+     "start": 53.365,
+     "end": 53.666
     },
     {
      "w": "kilometers",
-     "start": 53.156,
-     "end": 53.714
+     "start": 53.666,
+     "end": 54.224
     },
     {
      "w": "an",
-     "start": 53.714,
-     "end": 53.887
+     "start": 54.224,
+     "end": 54.397
     },
     {
      "w": "hour,",
-     "start": 53.887,
-     "end": 54.06
+     "start": 54.397,
+     "end": 54.57
     },
     {
      "w": "sixteen",
-     "start": 54.2,
-     "end": 54.573
+     "start": 54.7,
+     "end": 55.072
     },
     {
      "w": "cars,",
-     "start": 54.573,
-     "end": 54.787
+     "start": 55.072,
+     "end": 55.285
     },
     {
      "w": "and",
-     "start": 54.787,
-     "end": 55.001
+     "start": 55.285,
+     "end": 55.499
     },
     {
      "w": "on",
-     "start": 55.001,
-     "end": 55.216
+     "start": 55.499,
+     "end": 55.712
     },
     {
      "w": "average",
-     "start": 55.216,
-     "end": 55.747
+     "start": 55.712,
+     "end": 56.242
     },
     {
      "w": "just",
-     "start": 55.747,
-     "end": 55.961
+     "start": 56.242,
+     "end": 56.455
     },
     {
      "w": "twenty-four",
-     "start": 55.961,
-     "end": 56.493
+     "start": 56.455,
+     "end": 56.985
     },
     {
      "w": "seconds",
-     "start": 56.493,
-     "end": 56.866
+     "start": 56.985,
+     "end": 57.357
     },
     {
      "w": "late.",
-     "start": 56.866,
-     "end": 57.08
+     "start": 57.357,
+     "end": 57.57
     }
    ]
   },
   {
    "line": 13,
-   "start": 57.51,
-   "end": 60.083,
+   "start": 58.01,
+   "end": 60.583,
    "text": "And congrats, you just built a bullet train yourself.",
    "words": [
     {
      "w": "And",
-     "start": 57.63,
-     "end": 57.839
+     "start": 58.13,
+     "end": 58.339
     },
     {
      "w": "congrats,",
-     "start": 57.839,
-     "end": 58.201
+     "start": 58.339,
+     "end": 58.701
     },
     {
      "w": "you",
-     "start": 58.201,
-     "end": 58.41
+     "start": 58.701,
+     "end": 58.91
     },
     {
      "w": "just",
-     "start": 58.41,
-     "end": 58.619
+     "start": 58.91,
+     "end": 59.119
     },
     {
      "w": "built",
-     "start": 58.619,
-     "end": 58.827
+     "start": 59.119,
+     "end": 59.327
     },
     {
      "w": "a",
-     "start": 58.827,
-     "end": 59.036
+     "start": 59.327,
+     "end": 59.536
     },
     {
      "w": "bullet",
-     "start": 59.036,
-     "end": 59.399
+     "start": 59.536,
+     "end": 59.899
     },
     {
      "w": "train",
-     "start": 59.399,
-     "end": 59.607
+     "start": 59.899,
+     "end": 60.107
     },
     {
      "w": "yourself.",
-     "start": 59.607,
-     "end": 59.97
+     "start": 60.107,
+     "end": 60.47
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.448,
-   "end": 63.927,
+   "start": 60.948,
+   "end": 64.427,
    "text": "And after all that? You still miss it, because it left exactly on time.",
    "words": [
     {
      "w": "And",
-     "start": 60.568,
-     "end": 60.728
+     "start": 61.058,
+     "end": 61.218
     },
     {
      "w": "after",
-     "start": 60.728,
-     "end": 61.007
+     "start": 61.218,
+     "end": 61.497
     },
     {
      "w": "all",
-     "start": 61.007,
-     "end": 61.168
+     "start": 61.497,
+     "end": 61.658
     },
     {
      "w": "that?",
-     "start": 61.168,
-     "end": 61.328
+     "start": 61.658,
+     "end": 61.818
     },
     {
      "w": "You",
-     "start": 61.498,
-     "end": 61.676
+     "start": 61.998,
+     "end": 62.178
     },
     {
      "w": "still",
-     "start": 61.676,
-     "end": 61.853
+     "start": 62.178,
+     "end": 62.358
     },
     {
      "w": "miss",
-     "start": 61.853,
-     "end": 62.03
+     "start": 62.358,
+     "end": 62.538
     },
     {
      "w": "it,",
-     "start": 62.03,
-     "end": 62.208
+     "start": 62.538,
+     "end": 62.718
     },
     {
      "w": "because",
-     "start": 62.418,
-     "end": 62.729
+     "start": 62.918,
+     "end": 63.229
     },
     {
      "w": "it",
-     "start": 62.729,
-     "end": 62.908
+     "start": 63.229,
+     "end": 63.408
     },
     {
      "w": "left",
-     "start": 62.908,
-     "end": 63.087
+     "start": 63.408,
+     "end": 63.587
     },
     {
      "w": "exactly",
-     "start": 63.087,
-     "end": 63.53
+     "start": 63.587,
+     "end": 64.03
     },
     {
      "w": "on",
-     "start": 63.53,
-     "end": 63.709
+     "start": 64.03,
+     "end": 64.209
     },
     {
      "w": "time.",
-     "start": 63.709,
-     "end": 63.888
+     "start": 64.209,
+     "end": 64.388
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
  "voice": "Easton",
- "duration": 61.37,
- "words": 226,
+ "duration": 61.85,
+ "words": 228,
  "lines": [
   {
    "line": 1,
@@ -42,49 +42,49 @@
   {
    "line": 7,
    "start": 27.18,
-   "end": 31.9,
-   "text": "So an engineer who loved birds copied the kingfisher, which dives without a splash, and gave it a beak."
+   "end": 32.38,
+   "text": "So an engineer who loved birds copied the kingfisher, which dives into water without a splash, and gave it a beak."
   },
   {
    "line": 8,
-   "start": 32.25,
-   "end": 36.31,
+   "start": 32.73,
+   "end": 36.79,
    "text": "Now it's quiet, but Japan has earthquakes, and this fast, it can't stop in time."
   },
   {
    "line": 9,
-   "start": 36.66,
-   "end": 41.58,
+   "start": 37.14,
+   "end": 42.06,
    "text": "So sensors along the line feel the first small wave of a quake and cut the power before the big shake hits."
   },
   {
    "line": 10,
-   "start": 41.93,
-   "end": 45.46,
+   "start": 42.41,
+   "end": 45.94,
    "text": "But before you board, follow, because next we're building a humanoid robot."
   },
   {
    "line": 11,
-   "start": 45.81,
-   "end": 49.82,
+   "start": 46.29,
+   "end": 50.3,
    "text": "Now just let a crew clean it in seven minutes flat, take a bow, and open the doors."
   },
   {
    "line": 12,
-   "start": 50.17,
-   "end": 54.86,
+   "start": 50.65,
+   "end": 55.34,
    "text": "Three hundred twenty kilometers an hour, sixteen cars, and on average just twenty-four seconds late."
   },
   {
    "line": 13,
-   "start": 55.21,
-   "end": 57.68,
+   "start": 55.69,
+   "end": 58.16,
    "text": "And congrats, you just built a bullet train yourself."
   },
   {
    "line": 14,
-   "start": 58.03,
-   "end": 61.37,
+   "start": 58.51,
+   "end": 61.85,
    "text": "And after all that? You still miss it, because it left exactly on time."
   }
  ]
