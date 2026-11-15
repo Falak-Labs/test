@@ -1,0 +1,91 @@
+{
+ "voice": "Easton",
+ "duration": 61.05,
+ "words": 228,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.93,
+   "text": "If you build a machine on two legs that can do a backflip, congrats, you just built a humanoid robot."
+  },
+  {
+   "line": 2,
+   "start": 5.28,
+   "end": 8.01,
+   "text": "But on two small feet, it tips over the second you let go."
+  },
+  {
+   "line": 3,
+   "start": 8.36,
+   "end": 13.76,
+   "text": "So you give it an inner ear, a sensor that feels every tilt, and motors that correct it hundreds of times a second."
+  },
+  {
+   "line": 4,
+   "start": 14.11,
+   "end": 17.76,
+   "text": "Now it stands, but the moment it lifts a leg, it falls flat on its face."
+  },
+  {
+   "line": 5,
+   "start": 18.11,
+   "end": 22.04,
+   "text": "So before each step, it shifts its weight over the other foot, like you do without thinking."
+  },
+  {
+   "line": 6,
+   "start": 22.39,
+   "end": 25.42,
+   "text": "Now it walks, but one bump or one push, and it goes down."
+  },
+  {
+   "line": 7,
+   "start": 25.77,
+   "end": 32.36,
+   "text": "So thousands of copies practice in a computer, falling and getting up, years of practice in hours, and the real robot gets that brain."
+  },
+  {
+   "line": 8,
+   "start": 32.71,
+   "end": 35.39,
+   "text": "Now it's steady, but you hand it an egg, and it crushes it."
+  },
+  {
+   "line": 9,
+   "start": 35.74,
+   "end": 39.38,
+   "text": "So you put touch sensors in its fingertips, so it feels how hard it squeezes."
+  },
+  {
+   "line": 10,
+   "start": 39.73,
+   "end": 43.83,
+   "text": "But before it gets up, follow, because next we're building a stadium that cools itself."
+  },
+  {
+   "line": 11,
+   "start": 44.18,
+   "end": 49.06,
+   "text": "Now just add cameras for eyes and a battery, and enter it in a half marathon, like the robots in Beijing."
+  },
+  {
+   "line": 12,
+   "start": 49.41,
+   "end": 53.98,
+   "text": "Twenty-one kilometers, three battery changes, two hours and forty minutes for the fastest robot."
+  },
+  {
+   "line": 13,
+   "start": 54.33,
+   "end": 57.13,
+   "text": "And congrats, you just built a humanoid robot yourself."
+  },
+  {
+   "line": 14,
+   "start": 57.48,
+   "end": 61.05,
+   "text": "And after all that? It does backflips, but it still can't fold a fitted sheet."
+  }
+ ]
+}
