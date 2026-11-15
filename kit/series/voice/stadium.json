@@ -1,0 +1,1277 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.5,
+ "words": 231,
+ "words_per_sec": 3.53,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.354,
+   "text": "If you build a stadium in the desert that's cold inside with the roof wide open, congrats, you just built a self-cooling stadium.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.341
+    },
+    {
+     "w": "you",
+     "start": 0.341,
+     "end": 0.551
+    },
+    {
+     "w": "build",
+     "start": 0.551,
+     "end": 0.762
+    },
+    {
+     "w": "a",
+     "start": 0.762,
+     "end": 0.972
+    },
+    {
+     "w": "stadium",
+     "start": 0.972,
+     "end": 1.339
+    },
+    {
+     "w": "in",
+     "start": 1.339,
+     "end": 1.55
+    },
+    {
+     "w": "the",
+     "start": 1.55,
+     "end": 1.76
+    },
+    {
+     "w": "desert",
+     "start": 1.76,
+     "end": 2.127
+    },
+    {
+     "w": "that's",
+     "start": 2.127,
+     "end": 2.337
+    },
+    {
+     "w": "cold",
+     "start": 2.337,
+     "end": 2.548
+    },
+    {
+     "w": "inside",
+     "start": 2.548,
+     "end": 2.914
+    },
+    {
+     "w": "with",
+     "start": 2.914,
+     "end": 3.125
+    },
+    {
+     "w": "the",
+     "start": 3.125,
+     "end": 3.336
+    },
+    {
+     "w": "roof",
+     "start": 3.336,
+     "end": 3.546
+    },
+    {
+     "w": "wide",
+     "start": 3.546,
+     "end": 3.757
+    },
+    {
+     "w": "open,",
+     "start": 3.757,
+     "end": 4.123
+    },
+    {
+     "w": "congrats,",
+     "start": 4.123,
+     "end": 4.49
+    },
+    {
+     "w": "you",
+     "start": 4.63,
+     "end": 4.832
+    },
+    {
+     "w": "just",
+     "start": 4.832,
+     "end": 5.034
+    },
+    {
+     "w": "built",
+     "start": 5.034,
+     "end": 5.236
+    },
+    {
+     "w": "a",
+     "start": 5.236,
+     "end": 5.438
+    },
+    {
+     "w": "self-cooling",
+     "start": 5.438,
+     "end": 5.939
+    },
+    {
+     "w": "stadium.",
+     "start": 5.939,
+     "end": 6.29
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.719,
+   "end": 9.24,
+   "text": "But the desert sun bakes the stands like an oven.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.859,
+     "end": 7.048
+    },
+    {
+     "w": "the",
+     "start": 7.048,
+     "end": 7.237
+    },
+    {
+     "w": "desert",
+     "start": 7.237,
+     "end": 7.566
+    },
+    {
+     "w": "sun",
+     "start": 7.566,
+     "end": 7.755
+    },
+    {
+     "w": "bakes",
+     "start": 7.755,
+     "end": 8.084
+    },
+    {
+     "w": "the",
+     "start": 8.084,
+     "end": 8.273
+    },
+    {
+     "w": "stands",
+     "start": 8.273,
+     "end": 8.462
+    },
+    {
+     "w": "like",
+     "start": 8.462,
+     "end": 8.651
+    },
+    {
+     "w": "an",
+     "start": 8.651,
+     "end": 8.84
+    },
+    {
+     "w": "oven.",
+     "start": 8.84,
+     "end": 9.169
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.604,
+   "end": 13.875,
+   "text": "So the roof shades the seats, and you paint the outside light, so it bounces the sun away.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.714,
+     "end": 9.923
+    },
+    {
+     "w": "the",
+     "start": 9.923,
+     "end": 10.132
+    },
+    {
+     "w": "roof",
+     "start": 10.132,
+     "end": 10.342
+    },
+    {
+     "w": "shades",
+     "start": 10.342,
+     "end": 10.706
+    },
+    {
+     "w": "the",
+     "start": 10.706,
+     "end": 10.915
+    },
+    {
+     "w": "seats,",
+     "start": 10.915,
+     "end": 11.124
+    },
+    {
+     "w": "and",
+     "start": 11.234,
+     "end": 11.415
+    },
+    {
+     "w": "you",
+     "start": 11.415,
+     "end": 11.596
+    },
+    {
+     "w": "paint",
+     "start": 11.596,
+     "end": 11.777
+    },
+    {
+     "w": "the",
+     "start": 11.777,
+     "end": 11.958
+    },
+    {
+     "w": "outside",
+     "start": 11.958,
+     "end": 12.273
+    },
+    {
+     "w": "light,",
+     "start": 12.273,
+     "end": 12.454
+    },
+    {
+     "w": "so",
+     "start": 12.584,
+     "end": 12.748
+    },
+    {
+     "w": "it",
+     "start": 12.748,
+     "end": 12.913
+    },
+    {
+     "w": "bounces",
+     "start": 12.913,
+     "end": 13.199
+    },
+    {
+     "w": "the",
+     "start": 13.199,
+     "end": 13.363
+    },
+    {
+     "w": "sun",
+     "start": 13.363,
+     "end": 13.528
+    },
+    {
+     "w": "away.",
+     "start": 13.528,
+     "end": 13.814
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.24,
+   "end": 17.865,
+   "text": "But the roof is open, so the hot desert wind just pours in over the top.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.38,
+     "end": 14.545
+    },
+    {
+     "w": "the",
+     "start": 14.545,
+     "end": 14.711
+    },
+    {
+     "w": "roof",
+     "start": 14.711,
+     "end": 14.876
+    },
+    {
+     "w": "is",
+     "start": 14.876,
+     "end": 15.042
+    },
+    {
+     "w": "open,",
+     "start": 15.042,
+     "end": 15.33
+    },
+    {
+     "w": "so",
+     "start": 15.5,
+     "end": 15.679
+    },
+    {
+     "w": "the",
+     "start": 15.679,
+     "end": 15.857
+    },
+    {
+     "w": "hot",
+     "start": 15.857,
+     "end": 16.036
+    },
+    {
+     "w": "desert",
+     "start": 16.036,
+     "end": 16.347
+    },
+    {
+     "w": "wind",
+     "start": 16.347,
+     "end": 16.526
+    },
+    {
+     "w": "just",
+     "start": 16.526,
+     "end": 16.704
+    },
+    {
+     "w": "pours",
+     "start": 16.704,
+     "end": 16.883
+    },
+    {
+     "w": "in",
+     "start": 16.883,
+     "end": 17.062
+    },
+    {
+     "w": "over",
+     "start": 17.062,
+     "end": 17.373
+    },
+    {
+     "w": "the",
+     "start": 17.373,
+     "end": 17.551
+    },
+    {
+     "w": "top.",
+     "start": 17.551,
+     "end": 17.73
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.229,
+   "end": 23.49,
+   "text": "So you curve the roof edge like an airplane wing, the wind slides over, and the cool air stays down inside.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.339,
+     "end": 18.553
+    },
+    {
+     "w": "you",
+     "start": 18.553,
+     "end": 18.767
+    },
+    {
+     "w": "curve",
+     "start": 18.767,
+     "end": 18.981
+    },
+    {
+     "w": "the",
+     "start": 18.981,
+     "end": 19.196
+    },
+    {
+     "w": "roof",
+     "start": 19.196,
+     "end": 19.41
+    },
+    {
+     "w": "edge",
+     "start": 19.41,
+     "end": 19.624
+    },
+    {
+     "w": "like",
+     "start": 19.624,
+     "end": 19.838
+    },
+    {
+     "w": "an",
+     "start": 19.838,
+     "end": 20.052
+    },
+    {
+     "w": "airplane",
+     "start": 20.052,
+     "end": 20.425
+    },
+    {
+     "w": "wing,",
+     "start": 20.425,
+     "end": 20.639
+    },
+    {
+     "w": "the",
+     "start": 20.779,
+     "end": 20.963
+    },
+    {
+     "w": "wind",
+     "start": 20.963,
+     "end": 21.148
+    },
+    {
+     "w": "slides",
+     "start": 21.148,
+     "end": 21.468
+    },
+    {
+     "w": "over,",
+     "start": 21.468,
+     "end": 21.789
+    },
+    {
+     "w": "and",
+     "start": 21.929,
+     "end": 22.123
+    },
+    {
+     "w": "the",
+     "start": 22.123,
+     "end": 22.317
+    },
+    {
+     "w": "cool",
+     "start": 22.317,
+     "end": 22.51
+    },
+    {
+     "w": "air",
+     "start": 22.51,
+     "end": 22.704
+    },
+    {
+     "w": "stays",
+     "start": 22.704,
+     "end": 22.898
+    },
+    {
+     "w": "down",
+     "start": 22.898,
+     "end": 23.092
+    },
+    {
+     "w": "inside.",
+     "start": 23.092,
+     "end": 23.429
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.854,
+   "end": 28.146,
+   "text": "Now it's shaded, but forty thousand fans give off the heat of eighty thousand laptops.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 23.954,
+     "end": 24.154
+    },
+    {
+     "w": "it's",
+     "start": 24.154,
+     "end": 24.355
+    },
+    {
+     "w": "shaded,",
+     "start": 24.355,
+     "end": 24.704
+    },
+    {
+     "w": "but",
+     "start": 24.854,
+     "end": 25.059
+    },
+    {
+     "w": "forty",
+     "start": 25.059,
+     "end": 25.416
+    },
+    {
+     "w": "thousand",
+     "start": 25.416,
+     "end": 25.773
+    },
+    {
+     "w": "fans",
+     "start": 25.773,
+     "end": 25.978
+    },
+    {
+     "w": "give",
+     "start": 25.978,
+     "end": 26.183
+    },
+    {
+     "w": "off",
+     "start": 26.183,
+     "end": 26.388
+    },
+    {
+     "w": "the",
+     "start": 26.388,
+     "end": 26.593
+    },
+    {
+     "w": "heat",
+     "start": 26.593,
+     "end": 26.798
+    },
+    {
+     "w": "of",
+     "start": 26.798,
+     "end": 27.003
+    },
+    {
+     "w": "eighty",
+     "start": 27.003,
+     "end": 27.36
+    },
+    {
+     "w": "thousand",
+     "start": 27.36,
+     "end": 27.717
+    },
+    {
+     "w": "laptops.",
+     "start": 27.717,
+     "end": 28.074
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 28.51,
+   "end": 33.802,
+   "text": "So cold air blows from a grille under every seat, and big nozzles beside the pitch, only where people are.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.61,
+     "end": 28.808
+    },
+    {
+     "w": "cold",
+     "start": 28.808,
+     "end": 29.006
+    },
+    {
+     "w": "air",
+     "start": 29.006,
+     "end": 29.204
+    },
+    {
+     "w": "blows",
+     "start": 29.204,
+     "end": 29.402
+    },
+    {
+     "w": "from",
+     "start": 29.402,
+     "end": 29.6
+    },
+    {
+     "w": "a",
+     "start": 29.6,
+     "end": 29.798
+    },
+    {
+     "w": "grille",
+     "start": 29.798,
+     "end": 29.996
+    },
+    {
+     "w": "under",
+     "start": 29.996,
+     "end": 30.341
+    },
+    {
+     "w": "every",
+     "start": 30.341,
+     "end": 30.832
+    },
+    {
+     "w": "seat,",
+     "start": 30.832,
+     "end": 31.03
+    },
+    {
+     "w": "and",
+     "start": 31.19,
+     "end": 31.397
+    },
+    {
+     "w": "big",
+     "start": 31.397,
+     "end": 31.604
+    },
+    {
+     "w": "nozzles",
+     "start": 31.604,
+     "end": 31.965
+    },
+    {
+     "w": "beside",
+     "start": 31.965,
+     "end": 32.326
+    },
+    {
+     "w": "the",
+     "start": 32.326,
+     "end": 32.533
+    },
+    {
+     "w": "pitch,",
+     "start": 32.533,
+     "end": 32.74
+    },
+    {
+     "w": "only",
+     "start": 32.87,
+     "end": 33.189
+    },
+    {
+     "w": "where",
+     "start": 33.189,
+     "end": 33.373
+    },
+    {
+     "w": "people",
+     "start": 33.373,
+     "end": 33.556
+    },
+    {
+     "w": "are.",
+     "start": 33.556,
+     "end": 33.74
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 34.167,
+   "end": 37.667,
+   "text": "Now it's cool, but chilling all that air all day burns crazy power.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 34.267,
+     "end": 34.504
+    },
+    {
+     "w": "it's",
+     "start": 34.504,
+     "end": 34.74
+    },
+    {
+     "w": "cool,",
+     "start": 34.74,
+     "end": 34.977
+    },
+    {
+     "w": "but",
+     "start": 35.177,
+     "end": 35.373
+    },
+    {
+     "w": "chilling",
+     "start": 35.373,
+     "end": 35.715
+    },
+    {
+     "w": "all",
+     "start": 35.715,
+     "end": 35.912
+    },
+    {
+     "w": "that",
+     "start": 35.912,
+     "end": 36.108
+    },
+    {
+     "w": "air",
+     "start": 36.108,
+     "end": 36.304
+    },
+    {
+     "w": "all",
+     "start": 36.304,
+     "end": 36.501
+    },
+    {
+     "w": "day",
+     "start": 36.501,
+     "end": 36.697
+    },
+    {
+     "w": "burns",
+     "start": 36.697,
+     "end": 36.893
+    },
+    {
+     "w": "crazy",
+     "start": 36.893,
+     "end": 37.235
+    },
+    {
+     "w": "power.",
+     "start": 37.235,
+     "end": 37.577
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 38.031,
+   "end": 42.542,
+   "text": "So you chill water at night, save it for the match, and pull the used air back to cool it again.",
+   "words": [
+    {
+     "w": "So",
+     "start": 38.141,
+     "end": 38.326
+    },
+    {
+     "w": "you",
+     "start": 38.326,
+     "end": 38.512
+    },
+    {
+     "w": "chill",
+     "start": 38.512,
+     "end": 38.697
+    },
+    {
+     "w": "water",
+     "start": 38.697,
+     "end": 39.02
+    },
+    {
+     "w": "at",
+     "start": 39.02,
+     "end": 39.206
+    },
+    {
+     "w": "night,",
+     "start": 39.206,
+     "end": 39.391
+    },
+    {
+     "w": "save",
+     "start": 39.551,
+     "end": 39.733
+    },
+    {
+     "w": "it",
+     "start": 39.733,
+     "end": 39.915
+    },
+    {
+     "w": "for",
+     "start": 39.915,
+     "end": 40.097
+    },
+    {
+     "w": "the",
+     "start": 40.097,
+     "end": 40.279
+    },
+    {
+     "w": "match,",
+     "start": 40.279,
+     "end": 40.461
+    },
+    {
+     "w": "and",
+     "start": 40.591,
+     "end": 40.755
+    },
+    {
+     "w": "pull",
+     "start": 40.755,
+     "end": 40.918
+    },
+    {
+     "w": "the",
+     "start": 40.918,
+     "end": 41.082
+    },
+    {
+     "w": "used",
+     "start": 41.082,
+     "end": 41.367
+    },
+    {
+     "w": "air",
+     "start": 41.367,
+     "end": 41.531
+    },
+    {
+     "w": "back",
+     "start": 41.531,
+     "end": 41.695
+    },
+    {
+     "w": "to",
+     "start": 41.695,
+     "end": 41.858
+    },
+    {
+     "w": "cool",
+     "start": 41.858,
+     "end": 42.022
+    },
+    {
+     "w": "it",
+     "start": 42.022,
+     "end": 42.186
+    },
+    {
+     "w": "again.",
+     "start": 42.186,
+     "end": 42.471
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 42.906,
+   "end": 46.49,
+   "text": "But before kickoff, follow, because next we're building a wind turbine.",
+   "words": [
+    {
+     "w": "But",
+     "start": 43.056,
+     "end": 43.257
+    },
+    {
+     "w": "before",
+     "start": 43.257,
+     "end": 43.606
+    },
+    {
+     "w": "kickoff,",
+     "start": 43.606,
+     "end": 43.956
+    },
+    {
+     "w": "follow,",
+     "start": 44.146,
+     "end": 44.486
+    },
+    {
+     "w": "because",
+     "start": 44.646,
+     "end": 44.986
+    },
+    {
+     "w": "next",
+     "start": 44.986,
+     "end": 45.181
+    },
+    {
+     "w": "we're",
+     "start": 45.181,
+     "end": 45.376
+    },
+    {
+     "w": "building",
+     "start": 45.376,
+     "end": 45.716
+    },
+    {
+     "w": "a",
+     "start": 45.716,
+     "end": 45.911
+    },
+    {
+     "w": "wind",
+     "start": 45.911,
+     "end": 46.106
+    },
+    {
+     "w": "turbine.",
+     "start": 46.106,
+     "end": 46.446
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 46.854,
+   "end": 52.271,
+   "text": "Now just switch it on two hours early, like the professor they call Doctor Cool did in Qatar, and open the gates.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 46.964,
+     "end": 47.161
+    },
+    {
+     "w": "just",
+     "start": 47.161,
+     "end": 47.358
+    },
+    {
+     "w": "switch",
+     "start": 47.358,
+     "end": 47.554
+    },
+    {
+     "w": "it",
+     "start": 47.554,
+     "end": 47.751
+    },
+    {
+     "w": "on",
+     "start": 47.751,
+     "end": 47.948
+    },
+    {
+     "w": "two",
+     "start": 47.948,
+     "end": 48.145
+    },
+    {
+     "w": "hours",
+     "start": 48.145,
+     "end": 48.341
+    },
+    {
+     "w": "early,",
+     "start": 48.341,
+     "end": 48.684
+    },
+    {
+     "w": "like",
+     "start": 48.844,
+     "end": 49.031
+    },
+    {
+     "w": "the",
+     "start": 49.031,
+     "end": 49.219
+    },
+    {
+     "w": "professor",
+     "start": 49.219,
+     "end": 49.684
+    },
+    {
+     "w": "they",
+     "start": 49.684,
+     "end": 49.872
+    },
+    {
+     "w": "call",
+     "start": 49.872,
+     "end": 50.059
+    },
+    {
+     "w": "Doctor",
+     "start": 50.059,
+     "end": 50.385
+    },
+    {
+     "w": "Cool",
+     "start": 50.385,
+     "end": 50.573
+    },
+    {
+     "w": "did",
+     "start": 50.573,
+     "end": 50.76
+    },
+    {
+     "w": "in",
+     "start": 50.76,
+     "end": 50.948
+    },
+    {
+     "w": "Qatar,",
+     "start": 50.948,
+     "end": 51.274
+    },
+    {
+     "w": "and",
+     "start": 51.404,
+     "end": 51.546
+    },
+    {
+     "w": "open",
+     "start": 51.546,
+     "end": 51.794
+    },
+    {
+     "w": "the",
+     "start": 51.794,
+     "end": 51.936
+    },
+    {
+     "w": "gates.",
+     "start": 51.936,
+     "end": 52.184
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 52.635,
+   "end": 57.354,
+   "text": "Twenty-one degrees on the pitch, forty thousand fans, seven cooled stadiums at the World Cup.",
+   "words": [
+    {
+     "w": "Twenty-one",
+     "start": 52.775,
+     "end": 53.14
+    },
+    {
+     "w": "degrees",
+     "start": 53.14,
+     "end": 53.506
+    },
+    {
+     "w": "on",
+     "start": 53.506,
+     "end": 53.715
+    },
+    {
+     "w": "the",
+     "start": 53.715,
+     "end": 53.925
+    },
+    {
+     "w": "pitch,",
+     "start": 53.925,
+     "end": 54.135
+    },
+    {
+     "w": "forty",
+     "start": 54.255,
+     "end": 54.655
+    },
+    {
+     "w": "thousand",
+     "start": 54.655,
+     "end": 55.055
+    },
+    {
+     "w": "fans,",
+     "start": 55.055,
+     "end": 55.285
+    },
+    {
+     "w": "seven",
+     "start": 55.425,
+     "end": 55.765
+    },
+    {
+     "w": "cooled",
+     "start": 55.765,
+     "end": 56.105
+    },
+    {
+     "w": "stadiums",
+     "start": 56.105,
+     "end": 56.444
+    },
+    {
+     "w": "at",
+     "start": 56.444,
+     "end": 56.639
+    },
+    {
+     "w": "the",
+     "start": 56.639,
+     "end": 56.835
+    },
+    {
+     "w": "World",
+     "start": 56.835,
+     "end": 57.03
+    },
+    {
+     "w": "Cup.",
+     "start": 57.03,
+     "end": 57.225
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 57.719,
+   "end": 60.792,
+   "text": "And congrats, you just built a self-cooling stadium yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 57.839,
+     "end": 58.098
+    },
+    {
+     "w": "congrats,",
+     "start": 58.098,
+     "end": 58.549
+    },
+    {
+     "w": "you",
+     "start": 58.679,
+     "end": 58.88
+    },
+    {
+     "w": "just",
+     "start": 58.88,
+     "end": 59.08
+    },
+    {
+     "w": "built",
+     "start": 59.08,
+     "end": 59.281
+    },
+    {
+     "w": "a",
+     "start": 59.281,
+     "end": 59.482
+    },
+    {
+     "w": "self-cooling",
+     "start": 59.482,
+     "end": 59.98
+    },
+    {
+     "w": "stadium",
+     "start": 59.98,
+     "end": 60.33
+    },
+    {
+     "w": "yourself.",
+     "start": 60.33,
+     "end": 60.679
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 61.156,
+   "end": 65.521,
+   "text": "And after cooling the desert? There's always one guy in a jacket yelling, turn the AC down!",
+   "words": [
+    {
+     "w": "And",
+     "start": 61.286,
+     "end": 61.445
+    },
+    {
+     "w": "after",
+     "start": 61.445,
+     "end": 61.722
+    },
+    {
+     "w": "cooling",
+     "start": 61.722,
+     "end": 62.0
+    },
+    {
+     "w": "the",
+     "start": 62.0,
+     "end": 62.159
+    },
+    {
+     "w": "desert?",
+     "start": 62.159,
+     "end": 62.436
+    },
+    {
+     "w": "There's",
+     "start": 62.586,
+     "end": 62.92
+    },
+    {
+     "w": "always",
+     "start": 62.92,
+     "end": 63.254
+    },
+    {
+     "w": "one",
+     "start": 63.254,
+     "end": 63.446
+    },
+    {
+     "w": "guy",
+     "start": 63.446,
+     "end": 63.637
+    },
+    {
+     "w": "in",
+     "start": 63.637,
+     "end": 63.829
+    },
+    {
+     "w": "a",
+     "start": 63.829,
+     "end": 64.021
+    },
+    {
+     "w": "jacket",
+     "start": 64.021,
+     "end": 64.355
+    },
+    {
+     "w": "yelling,",
+     "start": 64.355,
+     "end": 64.689
+    },
+    {
+     "w": "turn",
+     "start": 64.689,
+     "end": 64.881
+    },
+    {
+     "w": "the",
+     "start": 64.881,
+     "end": 65.072
+    },
+    {
+     "w": "AC",
+     "start": 65.072,
+     "end": 65.264
+    },
+    {
+     "w": "down!",
+     "start": 65.264,
+     "end": 65.456
+    }
+   ]
+  }
+ ]
+}
