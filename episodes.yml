@@ -30,3 +30,6 @@ episodes:
   - {slug: ep25-carrier, kit: carrier, look: 2}
   - {slug: ep26-tower, kit: tower, look: 2}
   - {slug: ep27-tunnel, kit: tunnel, look: 2}
+  - {slug: ep28-bullettrain, kit: bullettrain, look: 2}
+  - {slug: ep29-humanoid, kit: humanoid, look: 2}
+  - {slug: ep30-stadium, kit: stadium, look: 2}
