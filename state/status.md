@@ -1,4 +1,4 @@
-# Post status 2026-11-15T06:41:21+00:00
+# Post status 2026-11-15T18:55:41+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -164,18 +164,18 @@
 | ep27-tunnel | en.instagram | sent |  | 2026-11-15T00:01:48.369Z https://www.instagram.com/reel/DfvcdjHqbGr/ |
 | ep27-tunnel | en.tiktok | sent |  | 2026-11-15T00:02:29.933Z https://tiktok.com/@congratsengineer/video/7708181401790713102 |
 | ep27-tunnel | en.youtube | sent |  | 2026-11-15T00:01:05.496Z https://www.youtube.com/shorts/6z5Av7axFRM |
-| ep28-bullettrain | ar.instagram | scheduled |  | 2026-11-15T17:00:00.000Z |
-| ep28-bullettrain | ar.tiktok | scheduled |  | 2026-11-15T17:00:00.000Z |
-| ep28-bullettrain | ar.youtube | scheduled |  | 2026-11-15T17:00:00.000Z |
-| ep28-bullettrain | en.instagram | scheduled |  | 2026-11-15T14:00:00.000Z |
-| ep28-bullettrain | en.tiktok | scheduled |  | 2026-11-15T14:00:00.000Z |
-| ep28-bullettrain | en.youtube | scheduled |  | 2026-11-15T14:00:00.000Z |
+| ep28-bullettrain | ar.instagram | sent |  | 2026-11-15T17:02:57.092Z https://www.instagram.com/reel/DfxRTrlRF53/ |
+| ep28-bullettrain | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-15T17:49:00.000Z |
+| ep28-bullettrain | ar.youtube | sent |  | 2026-11-15T17:01:42.982Z https://www.youtube.com/shorts/qLq9nSsFZmE |
+| ep28-bullettrain | en.instagram | sent |  | 2026-11-15T14:01:55.401Z https://www.instagram.com/reel/Dfw8mLShCBf/ |
+| ep28-bullettrain | en.tiktok | sent |  | 2026-11-15T14:02:24.368Z https://tiktok.com/@congratsengineer/video/7708397691822247182 |
+| ep28-bullettrain | en.youtube | sent |  | 2026-11-15T14:00:32.270Z https://www.youtube.com/shorts/pO8BTGrrpOs |
 | ep29-humanoid | ar.instagram | scheduled |  | 2026-11-15T20:00:00.000Z |
 | ep29-humanoid | ar.tiktok | scheduled |  | 2026-11-15T20:00:00.000Z |
 | ep29-humanoid | ar.youtube | scheduled |  | 2026-11-15T20:00:00.000Z |
-| ep29-humanoid | en.instagram | scheduled |  | 2026-11-15T18:00:00.000Z |
-| ep29-humanoid | en.tiktok | scheduled |  | 2026-11-15T18:00:00.000Z |
-| ep29-humanoid | en.youtube | scheduled |  | 2026-11-15T18:00:00.000Z |
+| ep29-humanoid | en.instagram | sent |  | 2026-11-15T18:03:27.869Z https://www.instagram.com/reel/DfxYHRIo1gV/ |
+| ep29-humanoid | en.tiktok | sent |  | 2026-11-15T18:03:56.504Z https://tiktok.com/@congratsengineer/video/7708459767638936845 |
+| ep29-humanoid | en.youtube | sent |  | 2026-11-15T18:01:13.780Z https://www.youtube.com/shorts/a-2pWKyoNFg |
 | ep30-stadium | ar.instagram | scheduled |  | 2026-11-15T23:00:00.000Z |
 | ep30-stadium | ar.tiktok | scheduled |  | 2026-11-15T23:00:00.000Z |
 | ep30-stadium | ar.youtube | scheduled |  | 2026-11-15T23:00:00.000Z |
