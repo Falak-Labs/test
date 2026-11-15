@@ -1,4 +1,4 @@
-# Post status 2026-11-14T22:30:10+00:00
+# Post status 2026-11-15T02:40:31+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@
 | ep25-carrier | en.tiktok | sent |  | 2026-11-14T00:03:36.104Z https://tiktok.com/@congratsengineer/video/7707810577862692110 |
 | ep25-carrier | en.youtube | sent |  | 2026-11-14T00:00:56.699Z https://www.youtube.com/shorts/4eLbi6pRaEM |
 | ep26-tower | ar.instagram | sent |  | 2026-11-14T17:02:32.371Z https://www.instagram.com/reel/DfusdsmPrCm/ |
-| ep26-tower | ar.tiktok | sending | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-14T22:30:00.000Z |
+| ep26-tower | ar.tiktok | sent |  | 2026-11-14T22:31:00.016Z https://tiktok.com/@kef.tenbeni/video/7708158020064234765 |
 | ep26-tower | ar.youtube | sent |  | 2026-11-14T17:01:16.807Z https://www.youtube.com/shorts/CNYFwydnXMo |
 | ep26-tower | en.instagram | sent |  | 2026-11-14T18:02:17.595Z https://www.instagram.com/reel/DfuzSlyh2KJ/ |
 | ep26-tower | en.tiktok | sent |  | 2026-11-14T18:02:59.961Z https://tiktok.com/@congratsengineer/video/7708088893874195726 |
@@ -161,6 +161,6 @@
 | ep27-tunnel | ar.instagram | sent |  | 2026-11-14T20:02:33.555Z https://www.instagram.com/reel/DfvBDRXIhJT/ |
 | ep27-tunnel | ar.tiktok | sent |  | 2026-11-14T20:02:07.243Z https://tiktok.com/@kef.tenbeni/video/7708119675309280526 |
 | ep27-tunnel | ar.youtube | sent |  | 2026-11-14T20:00:59.544Z https://www.youtube.com/shorts/HW-kPSLK-yQ |
-| ep27-tunnel | en.instagram | scheduled |  | 2026-11-15T00:00:00.000Z |
-| ep27-tunnel | en.tiktok | scheduled |  | 2026-11-15T00:00:00.000Z |
-| ep27-tunnel | en.youtube | scheduled |  | 2026-11-15T00:00:00.000Z |
+| ep27-tunnel | en.instagram | sent |  | 2026-11-15T00:01:48.369Z https://www.instagram.com/reel/DfvcdjHqbGr/ |
+| ep27-tunnel | en.tiktok | sent |  | 2026-11-15T00:02:29.933Z https://tiktok.com/@congratsengineer/video/7708181401790713102 |
+| ep27-tunnel | en.youtube | sent |  | 2026-11-15T00:01:05.496Z https://www.youtube.com/shorts/6z5Av7axFRM |
