@@ -1,0 +1,31 @@
+episode: 28
+date: 2026-11-15
+video:
+  en: media/ep28-bullettrain-en.mp4
+  ar: media/ep28-bullettrain-ar.mp4
+en:
+  at: "2026-11-15T14:00:00Z"    # 06:00 PT
+  title: "How Japan's Bullet Train Goes 320 km/h 🚄"
+  text: |
+    Why does Japan's bullet train have a bird's beak for a nose? 🚄
+    Motors under almost every car, its own track with wide tilted curves, a long kingfisher nose that stops the tunnel boom, and sensors that cut the power before an earthquake's big shake arrives.
+    Would you make it on time? 👇
+  next: "a humanoid robot 🤖"
+  seo: "How the Shinkansen works: motors spread along the train instead of one heavy locomotive, its own standard-gauge track with banked curves and no level crossings, the 500 Series nose shaped after the kingfisher's beak to stop the tunnel boom (Eiji Nakatsu), earthquake sensors that feel the first P-wave and cut the power, 320 km/h, 16 cars, a 24-second average delay, the 7-minute cleaning crew."
+  tags:
+    tiktok: "#bullettrain #shinkansen #japan #engineering #learnontiktok"
+    instagram: "#bullettrain #shinkansen #japan #engineering #howitworks"
+    youtube: "#shinkansen #bullettrain #engineering"
+ar:
+  at: "2026-11-15T17:00:00Z"    # 09:00 PT = 7 pm Cairo
+  title: "إزاي القطر الطلقة في اليابان بيجري تلتمية وعشرين كيلو؟ 🚄"
+  text: |
+    ليه بوز القطر الطلقة شبه منقار الطير؟ 🚄
+    موتورات تحت كل عربية تقريبًا، وسكة لوحده بملفات واسعة مايلة لجوه ومن غير مزلقانات، وبوز طويل زي منقار الرفراف عشان آخر النفق ما يضربش زي المدفع، وحساسات بتقطع الكهربا قبل ما الهزة الكبيرة توصل.
+    كنت هتلحقه ولا هيمشي من غيرك؟ 👇
+  next: "روبوت شبه البني آدم 🤖"
+  seo: "القطر الطلقة الياباني من جوه: موتورات متوزعة تحت العربيات بدل جرار واحد تقيل، سكة لوحده بملفات واسعة مايلة ومن غير مزلقانات، البوز اللي اتعمل زي منقار طير الرفراف عشان يمنع ضربة النفق، حساسات الزلازل اللي بتحس بأول رعشة وتقطع الكهربا، تلتمية وعشرين كيلو في الساعة، ستاشر عربية، ومتوسط تأخير أربعة وعشرين ثانية."
+  tags:
+    tiktok: "#القطر_الطلقة #اليابان #هندسة #تعلم_على_التيك_توك #مصر"
+    instagram: "#القطر_الطلقة #اليابان #هندسة #معلومات #مصر"
+    youtube: "#القطر_الطلقة #اليابان #هندسة"

@@ -1,0 +1,31 @@
+episode: 29
+date: 2026-11-15
+video:
+  en: media/ep29-humanoid-en.mp4
+  ar: media/ep29-humanoid-ar.mp4
+en:
+  at: "2026-11-15T18:00:00Z"    # 10:00 PT
+  title: "How a Humanoid Robot Keeps Its Balance 🤖"
+  text: |
+    How does a robot on two legs not fall over? 🤖
+    An inner ear that feels every tilt, its weight moved over one foot before every step, thousands of copies practicing in a computer, and touch sensors so it can hold an egg without crushing it.
+    Would you let it fold your laundry? 👇
+  next: "a stadium that cools itself 🏟️"
+  seo: "Humanoid robot engineering: an IMU (the robot's inner ear) and joint motors correcting balance hundreds of times a second, shifting the center of mass over the standing foot before each step, reinforcement learning in simulation with thousands of robots and years of practice in hours, tactile sensors in the fingertips for grip force, Beijing's 2025 humanoid robot half marathon: 21 km, the fastest robot in 2 h 40 min with three battery changes."
+  tags:
+    tiktok: "#robot #humanoidrobot #engineering #ai #learnontiktok"
+    instagram: "#robot #humanoidrobot #engineering #ai #howitworks"
+    youtube: "#robot #humanoidrobot #engineering"
+ar:
+  at: "2026-11-15T20:00:00Z"    # 12:00 PT = 10 pm Cairo
+  title: "إزاي الروبوت اللي شبه البني آدم بيمشي من غير ما يقع؟ 🤖"
+  text: |
+    إزاي روبوت على رجلين ما يقعش؟ 🤖
+    ودن من جوه بتحس بأي ميلة، ووزنه بيتنقل على رجل واحدة قبل كل خطوة، وآلاف النسخ منه بتتمرن في الكمبيوتر، وحساسات لمس في صوابعه عشان يمسك البيضة من غير ما يفعصها.
+    تبعته يجيب العيش؟ 👇
+  next: "استاد بيبرّد نفسه 🏟️"
+  seo: "الروبوت اللي شبه البني آدم من جوه: حساس توازن زي الودن الداخلية وموتورات بتعدل وقفته مئات المرات في الثانية، نقل الوزن على الرجل التانية قبل كل خطوة، تمرين آلاف النسخ في محاكاة على الكمبيوتر، حساسات لمس في الصوابع، ونص ماراتون الروبوتات في بكين: واحد وعشرين كيلو في ساعتين وأربعين دقيقة لأسرع روبوت."
+  tags:
+    tiktok: "#روبوت #ذكاء_اصطناعي #هندسة #تعلم_على_التيك_توك #مصر"
+    instagram: "#روبوت #ذكاء_اصطناعي #هندسة #معلومات #مصر"
+    youtube: "#روبوت #ذكاء_اصطناعي #هندسة"

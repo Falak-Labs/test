@@ -1,0 +1,31 @@
+episode: 30
+date: 2026-11-15
+video:
+  en: media/ep30-stadium-en.mp4
+  ar: media/ep30-stadium-ar.mp4
+en:
+  at: "2026-11-16T00:00:00Z"    # 16:00 PT
+  title: "How Qatar Cooled an Open-Air Stadium in the Desert 🏟️"
+  text: |
+    How do you keep a stadium cold in the desert with the roof wide open? 🏟️
+    The roof shades the seats and its edge is shaped like a wing so the hot wind slides over, cold air blows from a grille under every seat, and water chilled at night keeps it cool for the match.
+    Would you bring a jacket? 👇
+  next: "a wind turbine 🌬️"
+  seo: "How Qatar's 2022 World Cup stadiums were cooled: spot cooling of only the seats and the pitch, air outlets under every seat and big nozzles beside the pitch, a roof shaped and wind-tunnel tested to keep hot air out, light facade colors, chilled water made at night and stored, the air pulled back, filtered and cooled again, about 21°C on the pitch, the work of Qatar University's Dr Saud Abdulaziz Abdul Ghani, known as Dr Cool."
+  tags:
+    tiktok: "#stadium #qatar #worldcup #engineering #learnontiktok"
+    instagram: "#stadium #qatar #worldcup #engineering #howitworks"
+    youtube: "#stadium #qatar #engineering"
+ar:
+  at: "2026-11-15T23:00:00Z"    # 15:00 PT = 1 am Cairo
+  title: "إزاي قطر برّدت استاد مفتوح في الصحرا؟ 🏟️"
+  text: |
+    إزاي تخلي استاد في الصحرا ساقع وسقفه مفتوح؟ 🏟️
+    السقف بيضلل على الكراسي وحرفه زي جناح الطيارة عشان الهوا السخن يعدي من فوق، وهوا ساقع بيطلع من تحت كل كرسي، ومية متبردة بالليل بتفضل ساقعة لحد الماتش.
+    هتاخد جاكيت معاك؟ 👇
+  next: "توربينة رياح 🌬️"
+  seo: "استادات كاس العالم في قطر من جوه: تبريد مكان الناس بس، فتحات تحت كل كرسي وفتحات كبيرة جنب الملعب، سقف متصمم ومتجرب في نفق هوا عشان الهوا السخن ما يدخلش، ألوان فاتحة برة، مية بتتبرد بالليل وتتخزن، والهوا بيرجع يتنضف ويتبرد تاني، حوالي واحد وعشرين درجة في الملعب، شغل الدكتور سعود عبد الغني اللي بيسموه دكتور كول."
+  tags:
+    tiktok: "#كاس_العالم #قطر #هندسة #تعلم_على_التيك_توك #مصر"
+    instagram: "#قطر #كاس_العالم #هندسة #معلومات #مصر"
+    youtube: "#قطر #كاس_العالم #هندسة"

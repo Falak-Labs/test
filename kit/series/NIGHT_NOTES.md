@@ -300,3 +300,42 @@
   history or an ID check), so keep the "daily video upload limit" requeue rule; two uploads a day per channel stay far
   below it anyway. YouTube covers via Buffer (VideoAssetInput.thumbnailUrl) are still untested; the owner said covers
   on YouTube are "not that important", so only try it if he asks.
+
+## Nov 15 2026 (daily task, run of Nov 14 18:37 PT, three builds a day): 28 bullet train, 29 humanoid robot, 30 self-cooling stadium
+- Status 02:40Z: all 12 posts of Nov 14 (builds 26-27) sent; all 162 rows "sent". Metrics 02:42Z: Buffer refreshed only
+  English Instagram since Nov 14 morning (the other channels' numbers are stale, see the performance doc).
+- The cloud copy was a SHALLOW clone with an old local main (no merge base with origin): fetch, then
+  `git reset --hard origin/main` (the working tree was clean).
+- PAGES: retired ep06-ep12 (episodes.yml `retired: true`, git rm media) and dropped the four old-named copies
+  media/ep26-tower-{en,ar}.mp4 and media/ep27-tunnel-{en,ar}.mp4 (Buffer used the -cover files): media/ 836 -> 517 MB.
+  Three builds add about 120 MB a day, so retire about three posted builds per run from now on (next: ep13-ep15).
+- Voices: three Make voices runs at once work (the concurrency group is per kit). Easton 63.9 / 63.6 / 65.5 s for
+  226 / 228 / 231 words; ElevenLabs Egyptian 69.9 / 68.1 / 69.2 s for 168 / 167 / 167 words (2,710 characters).
+  Whisper base.en in the verify step heard "dives" as "dyes" and "built" as "build"; the local Whisper small heard both
+  right (a 15-line script: sherpa whisper-small with language="en" on the line's span). Check that way before rewording.
+- A missing `xx += 900` in a while loop made v2_check hang for 10 minutes with no output. When a check seems stuck,
+  time one frame per beat with a small script (every frame should take under a second).
+- v2.speed_streaks only moves streaks vertically; for sideways speed use hstreaks (racecar.py, copied into bullettrain.py).
+- Bright day skies plus the bloom pass wash the whole frame white: keep dusk palettes (stadium.py DAYSKY is dusk) and a
+  small sun glow. A translucent effect drawn OVER the stands (the stadium's cool-air bubble) reads; behind them it vanishes.
+- Language-specific tag pictures: `if self.rtl:` (humanoid: the fitted sheet in English, the mother sending it for bread
+  with the battery dying in Arabic; stadium: the guy in a jacket vs. the mother saying "close the AC").
+- bullettrain.py (line, power, map, tunnel, quake, station): train_side(tip, n, k, ...) with k morphing a round nose into
+  the kingfisher beak and an x-ray motors overlay, old_train(), fuji(), kingfisher(), bower() (a cleaner who bows),
+  gauge() speedometer, board() station clock, Poly (walk a polyline: x, y, angle), train_top() with a derail point,
+  an air wave running ahead of the nose through the tunnel, P/S earthquake rings and line-side sensors.
+- humanoid.py (lab, sim, hand, road): a front-view robot on two-bone IK (pose()/mixp()/robot()/robot_at()), the backflip
+  is a rotation around the pelvis with a tuck pose, falls are rotations around a foot edge, a support zone + weight line
+  for the step, run_pose() toward the camera on a perspective road, hand() with curling fingers and fingertip pads,
+  egg()/splat(), lantern(), stick() for the push, sheet() for the tag.
+- stadium.py (bowl, stands): stands_path()/roof_path(wing) for a cut-open bowl, thermo(), tank(), chiller(), nozzle(),
+  puff_air(), lever(), jacket_guy(), mom() (headscarf), bubble(); the stands close-up seats fans on maroon seats with a
+  grille under each.
+- Facts: Shinkansen 320 km/h (E5, Wikipedia), 16 cars / 1,323 seats (N700), 24 s average delay (JR Central, fiscal 2016,
+  nippon.com), kingfisher nose of the 500 Series (Eiji Nakatsu; booms heard 400 m away), UrEDAS stops trains from the
+  P-wave (web-japan.org), 7-minute cleaning (Japan Today). Humanoids: years of practice in hours in simulation (Figure),
+  tactile fingertips (Optimus Gen 2 egg demo, Unitree Dex3), Beijing half marathon Apr 19 2025: 21 km, Tiangong Ultra
+  2 h 40 min, three battery swaps (AP via ABC, Al Jazeera). Qatar stadiums: spot cooling, outlets under every seat and
+  nozzles by the pitch, roof edge shaped like a wing, chilled water made at night and stored, air pulled back and
+  re-cooled, about 21 C, Khalifa International first in 2017 + six new = seven cooled, 40,000 people = 80,000 laptops of
+  heat, switched on two hours before an event (The Athletic, AP via Yahoo, Gulf Times).
