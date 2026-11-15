@@ -8,13 +8,13 @@ episodes:
   - {slug: ep03-pool, kit: pool, look: 1, retired: true}
   - {slug: ep04-coaster, kit: coaster, look: 1, retired: true}
   - {slug: ep05-waterslide, kit: waterslide, look: 1, retired: true}
-  - {slug: ep06-rocket, kit: rocket, look: 2}
-  - {slug: ep07-castle, kit: castle, look: 2}
-  - {slug: ep08-claw, kit: claw, look: 2}
-  - {slug: ep09-submarine, kit: submarine, look: 2}
-  - {slug: ep10-toilet, kit: toilet, look: 2}
-  - {slug: ep11-airplane, kit: airplane, look: 2}
-  - {slug: ep12-fireworks, kit: fireworks, look: 2}
+  - {slug: ep06-rocket, kit: rocket, look: 2, retired: true}
+  - {slug: ep07-castle, kit: castle, look: 2, retired: true}
+  - {slug: ep08-claw, kit: claw, look: 2, retired: true}
+  - {slug: ep09-submarine, kit: submarine, look: 2, retired: true}
+  - {slug: ep10-toilet, kit: toilet, look: 2, retired: true}
+  - {slug: ep11-airplane, kit: airplane, look: 2, retired: true}
+  - {slug: ep12-fireworks, kit: fireworks, look: 2, retired: true}
   - {slug: ep13-vault, kit: vault, look: 2}
   - {slug: ep14-aircon, kit: aircon, look: 2}
   - {slug: ep15-station, kit: station, look: 2}
