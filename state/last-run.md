@@ -1,24 +1,4 @@
-# Last posting run 2026-11-16T04:16:08+00:00
+# Requeue run 2026-11-16T21:46:59+00:00
 
-- en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
-- ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
-- ep31-turbine en.youtube: scheduled (Mon 16 Nov 14:00 UTC) id 6afa838ad7e5fee6389d8395
-- ep31-turbine en.instagram: scheduled (Mon 16 Nov 14:00 UTC) id 6afa838bff465c57dad0c139
-- ep31-turbine en.tiktok: scheduled (Mon 16 Nov 14:00 UTC) id 6afa838b8e87c256a3b0066d
-- ep31-turbine ar.youtube: scheduled (Mon 16 Nov 17:00 UTC) id 6afa838fd7e5fee6389d83f3
-- ep31-turbine ar.instagram: scheduled (Mon 16 Nov 17:00 UTC) id 6afa838f06e1675856c6ad3b
-- ep31-turbine ar.tiktok: scheduled (Mon 16 Nov 17:00 UTC) id 6afa83908e87c256a3b006cc
-- ep32-telescope en.youtube: scheduled (Mon 16 Nov 18:00 UTC) id 6afa8391a869c35e5bb83a49
-- ep32-telescope en.instagram: scheduled (Mon 16 Nov 18:00 UTC) id 6afa8391d7e5fee6389d845a
-- ep32-telescope en.tiktok: scheduled (Mon 16 Nov 18:00 UTC) id 6afa839206e1675856c6adb9
-- ep32-telescope ar.youtube: scheduled (Mon 16 Nov 20:00 UTC) id 6afa839306e1675856c6ae09
-- ep32-telescope ar.instagram: scheduled (Mon 16 Nov 20:00 UTC) id 6afa83938e87c256a3b00748
-- ep32-telescope ar.tiktok: scheduled (Mon 16 Nov 20:00 UTC) id 6afa8393a869c35e5bb83ac1
-- ep33-camel en.youtube: scheduled (Tue 17 Nov 00:00 UTC) id 6afa839506e1675856c6ae6c
-- ep33-camel en.instagram: scheduled (Tue 17 Nov 00:00 UTC) id 6afa8396a869c35e5bb83b9d
-- ep33-camel en.tiktok: scheduled (Tue 17 Nov 00:00 UTC) id 6afa839660a910801c69d4cb
-- ep33-camel ar.youtube: scheduled (Mon 16 Nov 23:00 UTC) id 6afa8397a869c35e5bb83c2c
-- ep33-camel ar.instagram: scheduled (Mon 16 Nov 23:00 UTC) id 6afa8398d7e5fee6389d92ab
-- ep33-camel ar.tiktok: scheduled (Mon 16 Nov 23:00 UTC) id 6afa8398d7e5fee6389d92f3
-- en: 11 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=139; t=887, "24h"; r=544; t=80732, "30d"; r=2065; t=2081797; ratelimit-policy="15m"; q=1
-- ar: 11 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=139; t=885, "24h"; r=545; t=80732, "30d"; r=2108; t=2087925; ratelimit-policy="15m"; q=1
+- ep31-turbine ar.tiktok: queued for 01:30 UTC (Buffer status now: scheduled)
+- ep32-telescope ar.tiktok: queued for 04:00 UTC (Buffer status now: scheduled)
