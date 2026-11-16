@@ -4,10 +4,11 @@
    "id": "6af93993b9a106584c89ed86",
    "channel": "6af2b54962b70b94b0ddd768",
    "service": "youtube",
-   "status": "error",
-   "dueAt": "2026-11-16T00:00:00.000Z",
+   "status": "scheduled",
+   "dueAt": "2026-11-16T03:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-15T04:48:09+00:00"
+   "created": "2026-11-15T04:48:09+00:00",
+   "moved": "2026-11-16T02:46:09+00:00"
   },
   "en.instagram": {
    "id": "6af93993c5b364e06234d8c6",

@@ -1,24 +1,3 @@
-# Last posting run 2026-11-15T04:48:09+00:00
+# Requeue run 2026-11-16T02:46:09+00:00
 
-- en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
-- ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
-- ep28-bullettrain en.youtube: scheduled (Sun 15 Nov 14:00 UTC) id 6af9398be86a5789a6ed1af0
-- ep28-bullettrain en.instagram: scheduled (Sun 15 Nov 14:00 UTC) id 6af9398b76c23bf1c75b3d59
-- ep28-bullettrain en.tiktok: scheduled (Sun 15 Nov 14:00 UTC) id 6af9398cc5b364e06234d77f
-- ep28-bullettrain ar.youtube: scheduled (Sun 15 Nov 17:00 UTC) id 6af9398d918fe79d2ec0f4ba
-- ep28-bullettrain ar.instagram: scheduled (Sun 15 Nov 17:00 UTC) id 6af9398d918fe79d2ec0f4f1
-- ep28-bullettrain ar.tiktok: scheduled (Sun 15 Nov 17:00 UTC) id 6af9398eb9a106584c89ead6
-- ep29-humanoid en.youtube: scheduled (Sun 15 Nov 18:00 UTC) id 6af9398fb9a106584c89eb0f
-- ep29-humanoid en.instagram: scheduled (Sun 15 Nov 18:00 UTC) id 6af9398fe5a113497ac7c6a3
-- ep29-humanoid en.tiktok: scheduled (Sun 15 Nov 18:00 UTC) id 6af9398fe5a113497ac7c6dc
-- ep29-humanoid ar.youtube: scheduled (Sun 15 Nov 20:00 UTC) id 6af93991e5a113497ac7c7eb
-- ep29-humanoid ar.instagram: scheduled (Sun 15 Nov 20:00 UTC) id 6af93991c5b364e06234d888
-- ep29-humanoid ar.tiktok: scheduled (Sun 15 Nov 20:00 UTC) id 6af93992918fe79d2ec0f56b
-- ep30-stadium en.youtube: scheduled (Mon 16 Nov 00:00 UTC) id 6af93993b9a106584c89ed86
-- ep30-stadium en.instagram: scheduled (Mon 16 Nov 00:00 UTC) id 6af93993c5b364e06234d8c6
-- ep30-stadium en.tiktok: scheduled (Mon 16 Nov 00:00 UTC) id 6af93994b9a106584c89edc0
-- ep30-stadium ar.youtube: scheduled (Sun 15 Nov 23:00 UTC) id 6af9399576c23bf1c75b3e9a
-- ep30-stadium ar.instagram: scheduled (Sun 15 Nov 23:00 UTC) id 6af93995c5b364e06234d92d
-- ep30-stadium ar.tiktok: scheduled (Sun 15 Nov 23:00 UTC) id 6af93996b9a106584c89ee32
-- en: 11 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=139; t=890, "24h"; r=566; t=59829, "30d"; r=2136; t=2166280; ratelimit-policy="15m"; q=1
-- ar: 11 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=139; t=889, "24h"; r=559; t=59829, "30d"; r=2178; t=2172407; ratelimit-policy="15m"; q=1
+- ep30-stadium en.youtube: queued for 03:30 UTC (Buffer status now: scheduled)
