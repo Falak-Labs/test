@@ -406,3 +406,5 @@
   the owner moving his YouTube channels to Brand Accounts. Asked him to reconnect both YouTube channels in Buffer.
   Until he says it's done, don't keep requeueing YouTube; afterwards requeue 30/31/32 youtube (en + ar), spaced.
   Arabic TikTok 31 and 32 ("potential spam") requeued to 01:30Z and 04:00Z Nov 17.
+- Nov 16 14:25 PT: the owner reconnected both YouTube channels in Buffer. The six failed YouTube posts of builds 30-32
+  went out right away (22:21-22:25Z, Buffer retried them on reconnect). YouTube works again: requeue as usual.
