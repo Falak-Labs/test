@@ -1,0 +1,91 @@
+{
+ "voice": "Easton",
+ "duration": 60.44,
+ "words": 229,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.86,
+   "text": "If you build a fan taller than most skyscrapers, and one turn of its blades powers a home for two days, congrats, you just built a wind turbine."
+  },
+  {
+   "line": 2,
+   "start": 7.21,
+   "end": 9.81,
+   "text": "But wind just pushes a flat paddle, and that's slow."
+  },
+  {
+   "line": 3,
+   "start": 10.16,
+   "end": 13.89,
+   "text": "So you shape each blade like an airplane wing, and the wind lifts it around instead."
+  },
+  {
+   "line": 4,
+   "start": 14.24,
+   "end": 18.05,
+   "text": "But the wind keeps changing direction, so your blades end up facing the wrong way."
+  },
+  {
+   "line": 5,
+   "start": 18.4,
+   "end": 21.77,
+   "text": "So a wind vane on top tells motors to turn the whole head into the wind."
+  },
+  {
+   "line": 6,
+   "start": 22.12,
+   "end": 26.13,
+   "text": "But the blades only turn about ten times a minute, and a generator wants over a thousand."
+  },
+  {
+   "line": 7,
+   "start": 26.48,
+   "end": 29.44,
+   "text": "So a gearbox multiplies that spin about a hundred times."
+  },
+  {
+   "line": 8,
+   "start": 29.79,
+   "end": 33.58,
+   "text": "But then a storm hits, and the blades spin fast enough to tear the whole thing apart."
+  },
+  {
+   "line": 9,
+   "start": 33.93,
+   "end": 39.02,
+   "text": "So the blades twist their edges into the wind, the rotor slows, and a brake locks it until the storm passes."
+  },
+  {
+   "line": 10,
+   "start": 39.37,
+   "end": 43.15,
+   "text": "But before you climb down, follow, because next we're building a space telescope."
+  },
+  {
+   "line": 11,
+   "start": 43.5,
+   "end": 48.39,
+   "text": "Now just paint one blade black so birds can see it, and plant a hundred of them where the wind never stops."
+  },
+  {
+   "line": 12,
+   "start": 48.74,
+   "end": 54.19,
+   "text": "Blades longer than a football field, tips at three hundred kilometers an hour, and seventy percent fewer birds hit."
+  },
+  {
+   "line": 13,
+   "start": 54.54,
+   "end": 57.16,
+   "text": "And congrats, you just built a wind turbine yourself."
+  },
+  {
+   "line": 14,
+   "start": 57.51,
+   "end": 60.44,
+   "text": "And the first comment you'll get? Why not just put a fan in front of it?"
+  }
+ ]
+}
