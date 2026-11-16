@@ -1,4 +1,4 @@
-# Post status 2026-11-16T03:42:59+00:00
+# Post status 2026-11-16T04:16:29+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -178,7 +178,25 @@
 | ep29-humanoid | en.youtube | sent |  | 2026-11-15T18:01:13.780Z https://www.youtube.com/shorts/a-2pWKyoNFg |
 | ep30-stadium | ar.instagram | sent |  | 2026-11-15T23:02:42.019Z https://www.instagram.com/reel/Dfx6ZGCBM0Q/ |
 | ep30-stadium | ar.tiktok | sent |  | 2026-11-15T23:02:06.169Z https://tiktok.com/@kef.tenbeni/video/7708537032959724814 |
-| ep30-stadium | ar.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T03:40:00.000Z |
+| ep30-stadium | ar.youtube | scheduled | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T16:30:00.000Z |
 | ep30-stadium | en.instagram | sent |  | 2026-11-16T00:02:29.439Z https://www.instagram.com/reel/DfyBTo9Bn5J/ |
 | ep30-stadium | en.tiktok | sent |  | 2026-11-16T00:01:33.512Z https://tiktok.com/@congratsengineer/video/7708552394774285581 |
-| ep30-stadium | en.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T03:30:00.000Z |
+| ep30-stadium | en.youtube | scheduled | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T13:30:00.000Z |
+| ep31-turbine | ar.instagram | scheduled |  | 2026-11-16T17:00:00.000Z |
+| ep31-turbine | ar.tiktok | scheduled |  | 2026-11-16T17:00:00.000Z |
+| ep31-turbine | ar.youtube | scheduled |  | 2026-11-16T17:00:00.000Z |
+| ep31-turbine | en.instagram | scheduled |  | 2026-11-16T14:00:00.000Z |
+| ep31-turbine | en.tiktok | scheduled |  | 2026-11-16T14:00:00.000Z |
+| ep31-turbine | en.youtube | scheduled |  | 2026-11-16T14:00:00.000Z |
+| ep32-telescope | ar.instagram | scheduled |  | 2026-11-16T20:00:00.000Z |
+| ep32-telescope | ar.tiktok | scheduled |  | 2026-11-16T20:00:00.000Z |
+| ep32-telescope | ar.youtube | scheduled |  | 2026-11-16T20:00:00.000Z |
+| ep32-telescope | en.instagram | scheduled |  | 2026-11-16T18:00:00.000Z |
+| ep32-telescope | en.tiktok | scheduled |  | 2026-11-16T18:00:00.000Z |
+| ep32-telescope | en.youtube | scheduled |  | 2026-11-16T18:00:00.000Z |
+| ep33-camel | ar.instagram | scheduled |  | 2026-11-16T23:00:00.000Z |
+| ep33-camel | ar.tiktok | scheduled |  | 2026-11-16T23:00:00.000Z |
+| ep33-camel | ar.youtube | scheduled |  | 2026-11-16T23:00:00.000Z |
+| ep33-camel | en.instagram | scheduled |  | 2026-11-17T00:00:00.000Z |
+| ep33-camel | en.tiktok | scheduled |  | 2026-11-17T00:00:00.000Z |
+| ep33-camel | en.youtube | scheduled |  | 2026-11-17T00:00:00.000Z |
