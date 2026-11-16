@@ -33,3 +33,6 @@ episodes:
   - {slug: ep28-bullettrain, kit: bullettrain, look: 2}
   - {slug: ep29-humanoid, kit: humanoid, look: 2}
   - {slug: ep30-stadium, kit: stadium, look: 2}
+  - {slug: ep31-turbine, kit: turbine, look: 2}
+  - {slug: ep32-telescope, kit: telescope, look: 2}
+  - {slug: ep33-camel, kit: camel, look: 2}
