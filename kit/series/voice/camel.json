@@ -1,0 +1,1252 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 64.49,
+ "words": 226,
+ "words_per_sec": 3.5,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 7.781,
+   "text": "If you build a robot that rides a racing camel at sixty kilometers an hour while its owner yells from a car, congrats, you just built a robot camel jockey.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.32
+    },
+    {
+     "w": "you",
+     "start": 0.32,
+     "end": 0.51
+    },
+    {
+     "w": "build",
+     "start": 0.51,
+     "end": 0.7
+    },
+    {
+     "w": "a",
+     "start": 0.7,
+     "end": 0.89
+    },
+    {
+     "w": "robot",
+     "start": 0.89,
+     "end": 1.221
+    },
+    {
+     "w": "that",
+     "start": 1.221,
+     "end": 1.411
+    },
+    {
+     "w": "rides",
+     "start": 1.411,
+     "end": 1.742
+    },
+    {
+     "w": "a",
+     "start": 1.742,
+     "end": 1.932
+    },
+    {
+     "w": "racing",
+     "start": 1.932,
+     "end": 2.263
+    },
+    {
+     "w": "camel",
+     "start": 2.263,
+     "end": 2.594
+    },
+    {
+     "w": "at",
+     "start": 2.594,
+     "end": 2.784
+    },
+    {
+     "w": "sixty",
+     "start": 2.784,
+     "end": 3.115
+    },
+    {
+     "w": "kilometers",
+     "start": 3.115,
+     "end": 3.728
+    },
+    {
+     "w": "an",
+     "start": 3.728,
+     "end": 3.918
+    },
+    {
+     "w": "hour",
+     "start": 3.918,
+     "end": 4.108
+    },
+    {
+     "w": "while",
+     "start": 4.108,
+     "end": 4.298
+    },
+    {
+     "w": "its",
+     "start": 4.298,
+     "end": 4.488
+    },
+    {
+     "w": "owner",
+     "start": 4.488,
+     "end": 4.819
+    },
+    {
+     "w": "yells",
+     "start": 4.819,
+     "end": 5.009
+    },
+    {
+     "w": "from",
+     "start": 5.009,
+     "end": 5.199
+    },
+    {
+     "w": "a",
+     "start": 5.199,
+     "end": 5.389
+    },
+    {
+     "w": "car,",
+     "start": 5.389,
+     "end": 5.579
+    },
+    {
+     "w": "congrats,",
+     "start": 5.579,
+     "end": 5.91
+    },
+    {
+     "w": "you",
+     "start": 6.06,
+     "end": 6.24
+    },
+    {
+     "w": "just",
+     "start": 6.24,
+     "end": 6.42
+    },
+    {
+     "w": "built",
+     "start": 6.42,
+     "end": 6.6
+    },
+    {
+     "w": "a",
+     "start": 6.6,
+     "end": 6.78
+    },
+    {
+     "w": "robot",
+     "start": 6.78,
+     "end": 7.093
+    },
+    {
+     "w": "camel",
+     "start": 7.093,
+     "end": 7.407
+    },
+    {
+     "w": "jockey.",
+     "start": 7.407,
+     "end": 7.72
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 8.146,
+   "end": 12.708,
+   "text": "But camels run faster with lighter riders, and your first robot weighs as much as a suitcase.",
+   "words": [
+    {
+     "w": "But",
+     "start": 8.286,
+     "end": 8.484
+    },
+    {
+     "w": "camels",
+     "start": 8.484,
+     "end": 8.828
+    },
+    {
+     "w": "run",
+     "start": 8.828,
+     "end": 9.026
+    },
+    {
+     "w": "faster",
+     "start": 9.026,
+     "end": 9.37
+    },
+    {
+     "w": "with",
+     "start": 9.37,
+     "end": 9.568
+    },
+    {
+     "w": "lighter",
+     "start": 9.568,
+     "end": 9.912
+    },
+    {
+     "w": "riders,",
+     "start": 9.912,
+     "end": 10.256
+    },
+    {
+     "w": "and",
+     "start": 10.376,
+     "end": 10.573
+    },
+    {
+     "w": "your",
+     "start": 10.573,
+     "end": 10.77
+    },
+    {
+     "w": "first",
+     "start": 10.77,
+     "end": 10.967
+    },
+    {
+     "w": "robot",
+     "start": 10.967,
+     "end": 11.309
+    },
+    {
+     "w": "weighs",
+     "start": 11.309,
+     "end": 11.506
+    },
+    {
+     "w": "as",
+     "start": 11.506,
+     "end": 11.703
+    },
+    {
+     "w": "much",
+     "start": 11.703,
+     "end": 11.9
+    },
+    {
+     "w": "as",
+     "start": 11.9,
+     "end": 12.097
+    },
+    {
+     "w": "a",
+     "start": 12.097,
+     "end": 12.293
+    },
+    {
+     "w": "suitcase.",
+     "start": 12.293,
+     "end": 12.636
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 13.073,
+   "end": 17.573,
+   "text": "So you strip it down to a cordless drill, a battery and a radio, about two kilos.",
+   "words": [
+    {
+     "w": "So",
+     "start": 13.183,
+     "end": 13.375
+    },
+    {
+     "w": "you",
+     "start": 13.375,
+     "end": 13.567
+    },
+    {
+     "w": "strip",
+     "start": 13.567,
+     "end": 13.759
+    },
+    {
+     "w": "it",
+     "start": 13.759,
+     "end": 13.951
+    },
+    {
+     "w": "down",
+     "start": 13.951,
+     "end": 14.143
+    },
+    {
+     "w": "to",
+     "start": 14.143,
+     "end": 14.335
+    },
+    {
+     "w": "a",
+     "start": 14.335,
+     "end": 14.527
+    },
+    {
+     "w": "cordless",
+     "start": 14.527,
+     "end": 14.861
+    },
+    {
+     "w": "drill,",
+     "start": 14.861,
+     "end": 15.053
+    },
+    {
+     "w": "a",
+     "start": 15.223,
+     "end": 15.388
+    },
+    {
+     "w": "battery",
+     "start": 15.388,
+     "end": 15.797
+    },
+    {
+     "w": "and",
+     "start": 15.797,
+     "end": 15.961
+    },
+    {
+     "w": "a",
+     "start": 15.961,
+     "end": 16.126
+    },
+    {
+     "w": "radio,",
+     "start": 16.126,
+     "end": 16.413
+    },
+    {
+     "w": "about",
+     "start": 16.583,
+     "end": 16.94
+    },
+    {
+     "w": "two",
+     "start": 16.94,
+     "end": 17.146
+    },
+    {
+     "w": "kilos.",
+     "start": 17.146,
+     "end": 17.503
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 17.938,
+   "end": 21.448,
+   "text": "But a robot just sits there, and the camel has no reason to speed up.",
+   "words": [
+    {
+     "w": "But",
+     "start": 18.068,
+     "end": 18.234
+    },
+    {
+     "w": "a",
+     "start": 18.234,
+     "end": 18.4
+    },
+    {
+     "w": "robot",
+     "start": 18.4,
+     "end": 18.69
+    },
+    {
+     "w": "just",
+     "start": 18.69,
+     "end": 18.856
+    },
+    {
+     "w": "sits",
+     "start": 18.856,
+     "end": 19.022
+    },
+    {
+     "w": "there,",
+     "start": 19.022,
+     "end": 19.188
+    },
+    {
+     "w": "and",
+     "start": 19.258,
+     "end": 19.453
+    },
+    {
+     "w": "the",
+     "start": 19.453,
+     "end": 19.647
+    },
+    {
+     "w": "camel",
+     "start": 19.647,
+     "end": 19.986
+    },
+    {
+     "w": "has",
+     "start": 19.986,
+     "end": 20.181
+    },
+    {
+     "w": "no",
+     "start": 20.181,
+     "end": 20.375
+    },
+    {
+     "w": "reason",
+     "start": 20.375,
+     "end": 20.714
+    },
+    {
+     "w": "to",
+     "start": 20.714,
+     "end": 20.909
+    },
+    {
+     "w": "speed",
+     "start": 20.909,
+     "end": 21.103
+    },
+    {
+     "w": "up.",
+     "start": 21.103,
+     "end": 21.298
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 21.813,
+   "end": 24.958,
+   "text": "So the drill spins a little plastic whip, at the press of a button.",
+   "words": [
+    {
+     "w": "So",
+     "start": 21.923,
+     "end": 22.1
+    },
+    {
+     "w": "the",
+     "start": 22.1,
+     "end": 22.278
+    },
+    {
+     "w": "drill",
+     "start": 22.278,
+     "end": 22.455
+    },
+    {
+     "w": "spins",
+     "start": 22.455,
+     "end": 22.632
+    },
+    {
+     "w": "a",
+     "start": 22.632,
+     "end": 22.81
+    },
+    {
+     "w": "little",
+     "start": 22.81,
+     "end": 22.987
+    },
+    {
+     "w": "plastic",
+     "start": 22.987,
+     "end": 23.296
+    },
+    {
+     "w": "whip,",
+     "start": 23.296,
+     "end": 23.473
+    },
+    {
+     "w": "at",
+     "start": 23.533,
+     "end": 23.735
+    },
+    {
+     "w": "the",
+     "start": 23.735,
+     "end": 23.937
+    },
+    {
+     "w": "press",
+     "start": 23.937,
+     "end": 24.138
+    },
+    {
+     "w": "of",
+     "start": 24.138,
+     "end": 24.34
+    },
+    {
+     "w": "a",
+     "start": 24.34,
+     "end": 24.542
+    },
+    {
+     "w": "button.",
+     "start": 24.542,
+     "end": 24.893
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 25.323,
+   "end": 28.844,
+   "text": "But camels listen to one voice, their owner's, and he's not on the track.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.463,
+     "end": 25.67
+    },
+    {
+     "w": "camels",
+     "start": 25.67,
+     "end": 26.031
+    },
+    {
+     "w": "listen",
+     "start": 26.031,
+     "end": 26.391
+    },
+    {
+     "w": "to",
+     "start": 26.391,
+     "end": 26.599
+    },
+    {
+     "w": "one",
+     "start": 26.599,
+     "end": 26.806
+    },
+    {
+     "w": "voice,",
+     "start": 26.806,
+     "end": 27.013
+    },
+    {
+     "w": "their",
+     "start": 27.143,
+     "end": 27.34
+    },
+    {
+     "w": "owner's,",
+     "start": 27.34,
+     "end": 27.683
+    },
+    {
+     "w": "and",
+     "start": 27.823,
+     "end": 27.97
+    },
+    {
+     "w": "he's",
+     "start": 27.97,
+     "end": 28.116
+    },
+    {
+     "w": "not",
+     "start": 28.116,
+     "end": 28.263
+    },
+    {
+     "w": "on",
+     "start": 28.263,
+     "end": 28.41
+    },
+    {
+     "w": "the",
+     "start": 28.41,
+     "end": 28.556
+    },
+    {
+     "w": "track.",
+     "start": 28.556,
+     "end": 28.703
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 29.208,
+   "end": 33.219,
+   "text": "So a speaker sits by the camel's ear, and the owner shouts through a walkie-talkie.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.318,
+     "end": 29.518
+    },
+    {
+     "w": "a",
+     "start": 29.518,
+     "end": 29.719
+    },
+    {
+     "w": "speaker",
+     "start": 29.719,
+     "end": 30.068
+    },
+    {
+     "w": "sits",
+     "start": 30.068,
+     "end": 30.268
+    },
+    {
+     "w": "by",
+     "start": 30.268,
+     "end": 30.468
+    },
+    {
+     "w": "the",
+     "start": 30.468,
+     "end": 30.669
+    },
+    {
+     "w": "camel's",
+     "start": 30.669,
+     "end": 31.018
+    },
+    {
+     "w": "ear,",
+     "start": 31.018,
+     "end": 31.218
+    },
+    {
+     "w": "and",
+     "start": 31.378,
+     "end": 31.568
+    },
+    {
+     "w": "the",
+     "start": 31.568,
+     "end": 31.758
+    },
+    {
+     "w": "owner",
+     "start": 31.758,
+     "end": 32.088
+    },
+    {
+     "w": "shouts",
+     "start": 32.088,
+     "end": 32.278
+    },
+    {
+     "w": "through",
+     "start": 32.278,
+     "end": 32.467
+    },
+    {
+     "w": "a",
+     "start": 32.467,
+     "end": 32.657
+    },
+    {
+     "w": "walkie-talkie.",
+     "start": 32.657,
+     "end": 33.128
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 33.583,
+   "end": 37.052,
+   "text": "But the first robots scared the camels, they looked like nothing they'd seen.",
+   "words": [
+    {
+     "w": "But",
+     "start": 33.733,
+     "end": 33.926
+    },
+    {
+     "w": "the",
+     "start": 33.926,
+     "end": 34.119
+    },
+    {
+     "w": "first",
+     "start": 34.119,
+     "end": 34.312
+    },
+    {
+     "w": "robots",
+     "start": 34.312,
+     "end": 34.648
+    },
+    {
+     "w": "scared",
+     "start": 34.648,
+     "end": 34.984
+    },
+    {
+     "w": "the",
+     "start": 34.984,
+     "end": 35.177
+    },
+    {
+     "w": "camels,",
+     "start": 35.177,
+     "end": 35.513
+    },
+    {
+     "w": "they",
+     "start": 35.633,
+     "end": 35.815
+    },
+    {
+     "w": "looked",
+     "start": 35.815,
+     "end": 36.131
+    },
+    {
+     "w": "like",
+     "start": 36.131,
+     "end": 36.313
+    },
+    {
+     "w": "nothing",
+     "start": 36.313,
+     "end": 36.629
+    },
+    {
+     "w": "they'd",
+     "start": 36.629,
+     "end": 36.811
+    },
+    {
+     "w": "seen.",
+     "start": 36.811,
+     "end": 36.993
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 37.417,
+   "end": 42.177,
+   "text": "So you give it a little face, sunglasses, racing silks, and even the old jockeys' perfume.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.527,
+     "end": 37.747
+    },
+    {
+     "w": "you",
+     "start": 37.747,
+     "end": 37.968
+    },
+    {
+     "w": "give",
+     "start": 37.968,
+     "end": 38.188
+    },
+    {
+     "w": "it",
+     "start": 38.188,
+     "end": 38.409
+    },
+    {
+     "w": "a",
+     "start": 38.409,
+     "end": 38.629
+    },
+    {
+     "w": "little",
+     "start": 38.629,
+     "end": 38.85
+    },
+    {
+     "w": "face,",
+     "start": 38.85,
+     "end": 39.07
+    },
+    {
+     "w": "sunglasses,",
+     "start": 39.07,
+     "end": 39.617
+    },
+    {
+     "w": "racing",
+     "start": 39.747,
+     "end": 40.12
+    },
+    {
+     "w": "silks,",
+     "start": 40.12,
+     "end": 40.334
+    },
+    {
+     "w": "and",
+     "start": 40.334,
+     "end": 40.549
+    },
+    {
+     "w": "even",
+     "start": 40.549,
+     "end": 40.922
+    },
+    {
+     "w": "the",
+     "start": 40.922,
+     "end": 41.136
+    },
+    {
+     "w": "old",
+     "start": 41.136,
+     "end": 41.351
+    },
+    {
+     "w": "jockeys'",
+     "start": 41.351,
+     "end": 41.724
+    },
+    {
+     "w": "perfume.",
+     "start": 41.724,
+     "end": 42.097
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 42.542,
+   "end": 46.042,
+   "text": "But before the start, follow, because next we're building an electric car.",
+   "words": [
+    {
+     "w": "But",
+     "start": 42.682,
+     "end": 42.868
+    },
+    {
+     "w": "before",
+     "start": 42.868,
+     "end": 43.191
+    },
+    {
+     "w": "the",
+     "start": 43.191,
+     "end": 43.376
+    },
+    {
+     "w": "start,",
+     "start": 43.376,
+     "end": 43.562
+    },
+    {
+     "w": "follow,",
+     "start": 43.712,
+     "end": 44.042
+    },
+    {
+     "w": "because",
+     "start": 44.162,
+     "end": 44.478
+    },
+    {
+     "w": "next",
+     "start": 44.478,
+     "end": 44.66
+    },
+    {
+     "w": "we're",
+     "start": 44.66,
+     "end": 44.842
+    },
+    {
+     "w": "building",
+     "start": 44.842,
+     "end": 45.158
+    },
+    {
+     "w": "an",
+     "start": 45.158,
+     "end": 45.34
+    },
+    {
+     "w": "electric",
+     "start": 45.34,
+     "end": 45.79
+    },
+    {
+     "w": "car.",
+     "start": 45.79,
+     "end": 45.972
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 46.406,
+   "end": 51.031,
+   "text": "Now just line them up, and every owner chases his camel in an SUV on a road beside the track.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 46.526,
+     "end": 46.706
+    },
+    {
+     "w": "just",
+     "start": 46.706,
+     "end": 46.886
+    },
+    {
+     "w": "line",
+     "start": 46.886,
+     "end": 47.066
+    },
+    {
+     "w": "them",
+     "start": 47.066,
+     "end": 47.246
+    },
+    {
+     "w": "up,",
+     "start": 47.246,
+     "end": 47.426
+    },
+    {
+     "w": "and",
+     "start": 47.646,
+     "end": 47.814
+    },
+    {
+     "w": "every",
+     "start": 47.814,
+     "end": 48.231
+    },
+    {
+     "w": "owner",
+     "start": 48.231,
+     "end": 48.524
+    },
+    {
+     "w": "chases",
+     "start": 48.524,
+     "end": 48.817
+    },
+    {
+     "w": "his",
+     "start": 48.817,
+     "end": 48.985
+    },
+    {
+     "w": "camel",
+     "start": 48.985,
+     "end": 49.278
+    },
+    {
+     "w": "in",
+     "start": 49.278,
+     "end": 49.446
+    },
+    {
+     "w": "an",
+     "start": 49.446,
+     "end": 49.614
+    },
+    {
+     "w": "SUV",
+     "start": 49.614,
+     "end": 49.782
+    },
+    {
+     "w": "on",
+     "start": 49.782,
+     "end": 49.951
+    },
+    {
+     "w": "a",
+     "start": 49.951,
+     "end": 50.119
+    },
+    {
+     "w": "road",
+     "start": 50.119,
+     "end": 50.287
+    },
+    {
+     "w": "beside",
+     "start": 50.287,
+     "end": 50.58
+    },
+    {
+     "w": "the",
+     "start": 50.58,
+     "end": 50.748
+    },
+    {
+     "w": "track.",
+     "start": 50.748,
+     "end": 50.916
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.396,
+   "end": 56.5,
+   "text": "Sixty-five kilometers an hour, robots of two kilos, and camels worth over a million dirhams.",
+   "words": [
+    {
+     "w": "Sixty-five",
+     "start": 51.486,
+     "end": 51.995
+    },
+    {
+     "w": "kilometers",
+     "start": 51.995,
+     "end": 52.656
+    },
+    {
+     "w": "an",
+     "start": 52.656,
+     "end": 52.861
+    },
+    {
+     "w": "hour,",
+     "start": 52.861,
+     "end": 53.066
+    },
+    {
+     "w": "robots",
+     "start": 53.236,
+     "end": 53.633
+    },
+    {
+     "w": "of",
+     "start": 53.633,
+     "end": 53.861
+    },
+    {
+     "w": "two",
+     "start": 53.861,
+     "end": 54.089
+    },
+    {
+     "w": "kilos,",
+     "start": 54.089,
+     "end": 54.486
+    },
+    {
+     "w": "and",
+     "start": 54.606,
+     "end": 54.789
+    },
+    {
+     "w": "camels",
+     "start": 54.789,
+     "end": 55.107
+    },
+    {
+     "w": "worth",
+     "start": 55.107,
+     "end": 55.289
+    },
+    {
+     "w": "over",
+     "start": 55.289,
+     "end": 55.607
+    },
+    {
+     "w": "a",
+     "start": 55.607,
+     "end": 55.79
+    },
+    {
+     "w": "million",
+     "start": 55.79,
+     "end": 56.108
+    },
+    {
+     "w": "dirhams.",
+     "start": 56.108,
+     "end": 56.426
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.865,
+   "end": 60.0,
+   "text": "And congrats, you just built a robot camel jockey yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.985,
+     "end": 57.193
+    },
+    {
+     "w": "congrats,",
+     "start": 57.193,
+     "end": 57.555
+    },
+    {
+     "w": "you",
+     "start": 57.605,
+     "end": 57.812
+    },
+    {
+     "w": "just",
+     "start": 57.812,
+     "end": 58.019
+    },
+    {
+     "w": "built",
+     "start": 58.019,
+     "end": 58.226
+    },
+    {
+     "w": "a",
+     "start": 58.226,
+     "end": 58.433
+    },
+    {
+     "w": "robot",
+     "start": 58.433,
+     "end": 58.794
+    },
+    {
+     "w": "camel",
+     "start": 58.794,
+     "end": 59.154
+    },
+    {
+     "w": "jockey",
+     "start": 59.154,
+     "end": 59.515
+    },
+    {
+     "w": "yourself.",
+     "start": 59.515,
+     "end": 59.875
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 60.365,
+   "end": 64.5,
+   "text": "And the scariest race? Not on the track. It's the SUVs racing on the road next to it.",
+   "words": [
+    {
+     "w": "And",
+     "start": 60.485,
+     "end": 60.704
+    },
+    {
+     "w": "the",
+     "start": 60.704,
+     "end": 60.924
+    },
+    {
+     "w": "scariest",
+     "start": 60.924,
+     "end": 61.306
+    },
+    {
+     "w": "race?",
+     "start": 61.306,
+     "end": 61.525
+    },
+    {
+     "w": "Not",
+     "start": 61.655,
+     "end": 61.812
+    },
+    {
+     "w": "on",
+     "start": 61.812,
+     "end": 61.97
+    },
+    {
+     "w": "the",
+     "start": 61.97,
+     "end": 62.128
+    },
+    {
+     "w": "track.",
+     "start": 62.128,
+     "end": 62.285
+    },
+    {
+     "w": "It's",
+     "start": 62.475,
+     "end": 62.657
+    },
+    {
+     "w": "the",
+     "start": 62.657,
+     "end": 62.84
+    },
+    {
+     "w": "SUVs",
+     "start": 62.84,
+     "end": 63.022
+    },
+    {
+     "w": "racing",
+     "start": 63.022,
+     "end": 63.34
+    },
+    {
+     "w": "on",
+     "start": 63.34,
+     "end": 63.523
+    },
+    {
+     "w": "the",
+     "start": 63.523,
+     "end": 63.705
+    },
+    {
+     "w": "road",
+     "start": 63.705,
+     "end": 63.888
+    },
+    {
+     "w": "next",
+     "start": 63.888,
+     "end": 64.07
+    },
+    {
+     "w": "to",
+     "start": 64.07,
+     "end": 64.253
+    },
+    {
+     "w": "it.",
+     "start": 64.253,
+     "end": 64.435
+    }
+   ]
+  }
+ ]
+}
