@@ -1,0 +1,91 @@
+{
+ "voice": "Easton",
+ "duration": 64.78,
+ "words": 231,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 7.07,
+   "text": "If you build a golden mirror taller than a giraffe, fold it like origami, and open it in deep space, congrats, you just built a space telescope."
+  },
+  {
+   "line": 2,
+   "start": 7.42,
+   "end": 11.79,
+   "text": "But the oldest galaxies are so far, their light arrives stretched into heat you can't see."
+  },
+  {
+   "line": 3,
+   "start": 12.14,
+   "end": 15.7,
+   "text": "So you coat the mirror in gold, because gold bounces that heat really well."
+  },
+  {
+   "line": 4,
+   "start": 16.05,
+   "end": 19.0,
+   "text": "But a mirror six and a half meters wide won't fit in any rocket."
+  },
+  {
+   "line": 5,
+   "start": 19.35,
+   "end": 22.95,
+   "text": "So you build it from eighteen hexagons and fold the sides back like a table."
+  },
+  {
+   "line": 6,
+   "start": 23.3,
+   "end": 27.57,
+   "text": "But the Sun warms your telescope, and a warm telescope glows and blinds itself."
+  },
+  {
+   "line": 7,
+   "start": 27.92,
+   "end": 31.61,
+   "text": "So you open a sunshade as big as a tennis court, five layers as thin as a hair."
+  },
+  {
+   "line": 8,
+   "start": 31.96,
+   "end": 35.55,
+   "text": "But eighteen mirrors show eighteen blurry stars, not one sharp picture."
+  },
+  {
+   "line": 9,
+   "start": 35.9,
+   "end": 41.85,
+   "text": "So tiny motors nudge each mirror in steps ten thousand times thinner than a hair, until all eighteen stars become one."
+  },
+  {
+   "line": 10,
+   "start": 42.2,
+   "end": 45.91,
+   "text": "But before you look, follow, because next we're building a robot camel jockey."
+  },
+  {
+   "line": 11,
+   "start": 46.26,
+   "end": 50.98,
+   "text": "Now just park it a million and a half kilometers from Earth, and look back more than thirteen billion years."
+  },
+  {
+   "line": 12,
+   "start": 51.33,
+   "end": 56.64,
+   "text": "Six and a half meters of mirror, forty-eight grams of gold, and minus two hundred thirty-three degrees in the shade."
+  },
+  {
+   "line": 13,
+   "start": 56.99,
+   "end": 59.8,
+   "text": "And congrats, you just built a space telescope yourself."
+  },
+  {
+   "line": 14,
+   "start": 60.15,
+   "end": 64.78,
+   "text": "And it can see a galaxy thirteen billion light years away, but you still can't find the TV remote."
+  }
+ ]
+}

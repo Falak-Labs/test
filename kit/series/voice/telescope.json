@@ -1,0 +1,1277 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 67.47,
+ "words": 231,
+ "words_per_sec": 3.42,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 7.365,
+   "text": "If you build a golden mirror taller than a giraffe, fold it like origami, and open it in deep space, congrats, you just built a space telescope.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.302
+    },
+    {
+     "w": "you",
+     "start": 0.302,
+     "end": 0.474
+    },
+    {
+     "w": "build",
+     "start": 0.474,
+     "end": 0.646
+    },
+    {
+     "w": "a",
+     "start": 0.646,
+     "end": 0.818
+    },
+    {
+     "w": "golden",
+     "start": 0.818,
+     "end": 1.118
+    },
+    {
+     "w": "mirror",
+     "start": 1.118,
+     "end": 1.417
+    },
+    {
+     "w": "taller",
+     "start": 1.417,
+     "end": 1.716
+    },
+    {
+     "w": "than",
+     "start": 1.716,
+     "end": 1.889
+    },
+    {
+     "w": "a",
+     "start": 1.889,
+     "end": 2.061
+    },
+    {
+     "w": "giraffe,",
+     "start": 2.061,
+     "end": 2.36
+    },
+    {
+     "w": "fold",
+     "start": 2.54,
+     "end": 2.718
+    },
+    {
+     "w": "it",
+     "start": 2.718,
+     "end": 2.897
+    },
+    {
+     "w": "like",
+     "start": 2.897,
+     "end": 3.075
+    },
+    {
+     "w": "origami,",
+     "start": 3.075,
+     "end": 3.65
+    },
+    {
+     "w": "and",
+     "start": 3.78,
+     "end": 3.965
+    },
+    {
+     "w": "open",
+     "start": 3.965,
+     "end": 4.288
+    },
+    {
+     "w": "it",
+     "start": 4.288,
+     "end": 4.474
+    },
+    {
+     "w": "in",
+     "start": 4.474,
+     "end": 4.659
+    },
+    {
+     "w": "deep",
+     "start": 4.659,
+     "end": 4.845
+    },
+    {
+     "w": "space,",
+     "start": 4.845,
+     "end": 5.03
+    },
+    {
+     "w": "congrats,",
+     "start": 5.21,
+     "end": 5.72
+    },
+    {
+     "w": "you",
+     "start": 5.84,
+     "end": 6.024
+    },
+    {
+     "w": "just",
+     "start": 6.024,
+     "end": 6.209
+    },
+    {
+     "w": "built",
+     "start": 6.209,
+     "end": 6.393
+    },
+    {
+     "w": "a",
+     "start": 6.393,
+     "end": 6.578
+    },
+    {
+     "w": "space",
+     "start": 6.578,
+     "end": 6.762
+    },
+    {
+     "w": "telescope.",
+     "start": 6.762,
+     "end": 7.22
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.729,
+   "end": 12.281,
+   "text": "But the oldest galaxies are so far, their light arrives stretched into heat you can't see.",
+   "words": [
+    {
+     "w": "But",
+     "start": 7.879,
+     "end": 8.087
+    },
+    {
+     "w": "the",
+     "start": 8.087,
+     "end": 8.295
+    },
+    {
+     "w": "oldest",
+     "start": 8.295,
+     "end": 8.658
+    },
+    {
+     "w": "galaxies",
+     "start": 8.658,
+     "end": 9.174
+    },
+    {
+     "w": "are",
+     "start": 9.174,
+     "end": 9.383
+    },
+    {
+     "w": "so",
+     "start": 9.383,
+     "end": 9.591
+    },
+    {
+     "w": "far,",
+     "start": 9.591,
+     "end": 9.799
+    },
+    {
+     "w": "their",
+     "start": 9.949,
+     "end": 10.135
+    },
+    {
+     "w": "light",
+     "start": 10.135,
+     "end": 10.322
+    },
+    {
+     "w": "arrives",
+     "start": 10.322,
+     "end": 10.784
+    },
+    {
+     "w": "stretched",
+     "start": 10.784,
+     "end": 11.109
+    },
+    {
+     "w": "into",
+     "start": 11.109,
+     "end": 11.433
+    },
+    {
+     "w": "heat",
+     "start": 11.433,
+     "end": 11.62
+    },
+    {
+     "w": "you",
+     "start": 11.62,
+     "end": 11.806
+    },
+    {
+     "w": "can't",
+     "start": 11.806,
+     "end": 11.993
+    },
+    {
+     "w": "see.",
+     "start": 11.993,
+     "end": 12.179
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.646,
+   "end": 16.354,
+   "text": "So you coat the mirror in gold, because gold bounces that heat really well.",
+   "words": [
+    {
+     "w": "So",
+     "start": 12.756,
+     "end": 12.945
+    },
+    {
+     "w": "you",
+     "start": 12.945,
+     "end": 13.133
+    },
+    {
+     "w": "coat",
+     "start": 13.133,
+     "end": 13.322
+    },
+    {
+     "w": "the",
+     "start": 13.322,
+     "end": 13.51
+    },
+    {
+     "w": "mirror",
+     "start": 13.51,
+     "end": 13.839
+    },
+    {
+     "w": "in",
+     "start": 13.839,
+     "end": 14.027
+    },
+    {
+     "w": "gold,",
+     "start": 14.027,
+     "end": 14.216
+    },
+    {
+     "w": "because",
+     "start": 14.346,
+     "end": 14.708
+    },
+    {
+     "w": "gold",
+     "start": 14.708,
+     "end": 14.917
+    },
+    {
+     "w": "bounces",
+     "start": 14.917,
+     "end": 15.279
+    },
+    {
+     "w": "that",
+     "start": 15.279,
+     "end": 15.487
+    },
+    {
+     "w": "heat",
+     "start": 15.487,
+     "end": 15.695
+    },
+    {
+     "w": "really",
+     "start": 15.695,
+     "end": 16.058
+    },
+    {
+     "w": "well.",
+     "start": 16.058,
+     "end": 16.266
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.719,
+   "end": 19.792,
+   "text": "But a mirror six and a half meters wide won't fit in any rocket.",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.859,
+     "end": 17.029
+    },
+    {
+     "w": "a",
+     "start": 17.029,
+     "end": 17.199
+    },
+    {
+     "w": "mirror",
+     "start": 17.199,
+     "end": 17.494
+    },
+    {
+     "w": "six",
+     "start": 17.494,
+     "end": 17.664
+    },
+    {
+     "w": "and",
+     "start": 17.664,
+     "end": 17.834
+    },
+    {
+     "w": "a",
+     "start": 17.834,
+     "end": 18.003
+    },
+    {
+     "w": "half",
+     "start": 18.003,
+     "end": 18.173
+    },
+    {
+     "w": "meters",
+     "start": 18.173,
+     "end": 18.469
+    },
+    {
+     "w": "wide",
+     "start": 18.469,
+     "end": 18.639
+    },
+    {
+     "w": "won't",
+     "start": 18.639,
+     "end": 18.808
+    },
+    {
+     "w": "fit",
+     "start": 18.808,
+     "end": 18.978
+    },
+    {
+     "w": "in",
+     "start": 18.978,
+     "end": 19.148
+    },
+    {
+     "w": "any",
+     "start": 19.148,
+     "end": 19.443
+    },
+    {
+     "w": "rocket.",
+     "start": 19.443,
+     "end": 19.739
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 20.156,
+   "end": 23.906,
+   "text": "So you build it from eighteen hexagons and fold the sides back like a table.",
+   "words": [
+    {
+     "w": "So",
+     "start": 20.266,
+     "end": 20.465
+    },
+    {
+     "w": "you",
+     "start": 20.465,
+     "end": 20.663
+    },
+    {
+     "w": "build",
+     "start": 20.663,
+     "end": 20.862
+    },
+    {
+     "w": "it",
+     "start": 20.862,
+     "end": 21.061
+    },
+    {
+     "w": "from",
+     "start": 21.061,
+     "end": 21.26
+    },
+    {
+     "w": "eighteen",
+     "start": 21.26,
+     "end": 21.606
+    },
+    {
+     "w": "hexagons",
+     "start": 21.606,
+     "end": 22.099
+    },
+    {
+     "w": "and",
+     "start": 22.099,
+     "end": 22.298
+    },
+    {
+     "w": "fold",
+     "start": 22.298,
+     "end": 22.496
+    },
+    {
+     "w": "the",
+     "start": 22.496,
+     "end": 22.695
+    },
+    {
+     "w": "sides",
+     "start": 22.695,
+     "end": 23.041
+    },
+    {
+     "w": "back",
+     "start": 23.041,
+     "end": 23.24
+    },
+    {
+     "w": "like",
+     "start": 23.24,
+     "end": 23.439
+    },
+    {
+     "w": "a",
+     "start": 23.439,
+     "end": 23.637
+    },
+    {
+     "w": "table.",
+     "start": 23.637,
+     "end": 23.836
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.271,
+   "end": 28.719,
+   "text": "But the Sun warms your telescope, and a warm telescope glows and blinds itself.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.411,
+     "end": 24.617
+    },
+    {
+     "w": "the",
+     "start": 24.617,
+     "end": 24.823
+    },
+    {
+     "w": "Sun",
+     "start": 24.823,
+     "end": 25.029
+    },
+    {
+     "w": "warms",
+     "start": 25.029,
+     "end": 25.234
+    },
+    {
+     "w": "your",
+     "start": 25.234,
+     "end": 25.44
+    },
+    {
+     "w": "telescope,",
+     "start": 25.44,
+     "end": 25.951
+    },
+    {
+     "w": "and",
+     "start": 26.111,
+     "end": 26.352
+    },
+    {
+     "w": "a",
+     "start": 26.352,
+     "end": 26.592
+    },
+    {
+     "w": "warm",
+     "start": 26.592,
+     "end": 26.833
+    },
+    {
+     "w": "telescope",
+     "start": 26.833,
+     "end": 27.43
+    },
+    {
+     "w": "glows",
+     "start": 27.43,
+     "end": 27.671
+    },
+    {
+     "w": "and",
+     "start": 27.671,
+     "end": 27.911
+    },
+    {
+     "w": "blinds",
+     "start": 27.911,
+     "end": 28.152
+    },
+    {
+     "w": "itself.",
+     "start": 28.152,
+     "end": 28.571
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 29.083,
+   "end": 32.927,
+   "text": "So you open a sunshade as big as a tennis court, five layers as thin as a hair.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.193,
+     "end": 29.359
+    },
+    {
+     "w": "you",
+     "start": 29.359,
+     "end": 29.526
+    },
+    {
+     "w": "open",
+     "start": 29.526,
+     "end": 29.815
+    },
+    {
+     "w": "a",
+     "start": 29.815,
+     "end": 29.982
+    },
+    {
+     "w": "sunshade",
+     "start": 29.982,
+     "end": 30.271
+    },
+    {
+     "w": "as",
+     "start": 30.271,
+     "end": 30.438
+    },
+    {
+     "w": "big",
+     "start": 30.438,
+     "end": 30.604
+    },
+    {
+     "w": "as",
+     "start": 30.604,
+     "end": 30.771
+    },
+    {
+     "w": "a",
+     "start": 30.771,
+     "end": 30.937
+    },
+    {
+     "w": "tennis",
+     "start": 30.937,
+     "end": 31.227
+    },
+    {
+     "w": "court,",
+     "start": 31.227,
+     "end": 31.393
+    },
+    {
+     "w": "five",
+     "start": 31.513,
+     "end": 31.709
+    },
+    {
+     "w": "layers",
+     "start": 31.709,
+     "end": 31.904
+    },
+    {
+     "w": "as",
+     "start": 31.904,
+     "end": 32.1
+    },
+    {
+     "w": "thin",
+     "start": 32.1,
+     "end": 32.296
+    },
+    {
+     "w": "as",
+     "start": 32.296,
+     "end": 32.492
+    },
+    {
+     "w": "a",
+     "start": 32.492,
+     "end": 32.687
+    },
+    {
+     "w": "hair.",
+     "start": 32.687,
+     "end": 32.883
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 33.292,
+   "end": 37.031,
+   "text": "But eighteen mirrors show eighteen blurry stars, not one sharp picture.",
+   "words": [
+    {
+     "w": "But",
+     "start": 33.432,
+     "end": 33.67
+    },
+    {
+     "w": "eighteen",
+     "start": 33.67,
+     "end": 34.084
+    },
+    {
+     "w": "mirrors",
+     "start": 34.084,
+     "end": 34.498
+    },
+    {
+     "w": "show",
+     "start": 34.498,
+     "end": 34.736
+    },
+    {
+     "w": "eighteen",
+     "start": 34.736,
+     "end": 35.15
+    },
+    {
+     "w": "blurry",
+     "start": 35.15,
+     "end": 35.564
+    },
+    {
+     "w": "stars,",
+     "start": 35.564,
+     "end": 35.802
+    },
+    {
+     "w": "not",
+     "start": 35.942,
+     "end": 36.155
+    },
+    {
+     "w": "one",
+     "start": 36.155,
+     "end": 36.368
+    },
+    {
+     "w": "sharp",
+     "start": 36.368,
+     "end": 36.581
+    },
+    {
+     "w": "picture.",
+     "start": 36.581,
+     "end": 36.952
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 37.396,
+   "end": 43.594,
+   "text": "So tiny motors nudge each mirror in steps ten thousand times thinner than a hair, until all eighteen stars become one.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.506,
+     "end": 37.713
+    },
+    {
+     "w": "tiny",
+     "start": 37.713,
+     "end": 38.074
+    },
+    {
+     "w": "motors",
+     "start": 38.074,
+     "end": 38.435
+    },
+    {
+     "w": "nudge",
+     "start": 38.435,
+     "end": 38.642
+    },
+    {
+     "w": "each",
+     "start": 38.642,
+     "end": 38.849
+    },
+    {
+     "w": "mirror",
+     "start": 38.849,
+     "end": 39.21
+    },
+    {
+     "w": "in",
+     "start": 39.21,
+     "end": 39.417
+    },
+    {
+     "w": "steps",
+     "start": 39.417,
+     "end": 39.625
+    },
+    {
+     "w": "ten",
+     "start": 39.625,
+     "end": 39.832
+    },
+    {
+     "w": "thousand",
+     "start": 39.832,
+     "end": 40.193
+    },
+    {
+     "w": "times",
+     "start": 40.193,
+     "end": 40.553
+    },
+    {
+     "w": "thinner",
+     "start": 40.553,
+     "end": 40.914
+    },
+    {
+     "w": "than",
+     "start": 40.914,
+     "end": 41.121
+    },
+    {
+     "w": "a",
+     "start": 41.121,
+     "end": 41.329
+    },
+    {
+     "w": "hair,",
+     "start": 41.329,
+     "end": 41.536
+    },
+    {
+     "w": "until",
+     "start": 41.706,
+     "end": 42.091
+    },
+    {
+     "w": "all",
+     "start": 42.091,
+     "end": 42.313
+    },
+    {
+     "w": "eighteen",
+     "start": 42.313,
+     "end": 42.698
+    },
+    {
+     "w": "stars",
+     "start": 42.698,
+     "end": 42.919
+    },
+    {
+     "w": "become",
+     "start": 42.919,
+     "end": 43.305
+    },
+    {
+     "w": "one.",
+     "start": 43.305,
+     "end": 43.526
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 43.958,
+   "end": 47.823,
+   "text": "But before you look, follow, because next we're building a robot camel jockey.",
+   "words": [
+    {
+     "w": "But",
+     "start": 44.098,
+     "end": 44.273
+    },
+    {
+     "w": "before",
+     "start": 44.273,
+     "end": 44.578
+    },
+    {
+     "w": "you",
+     "start": 44.578,
+     "end": 44.753
+    },
+    {
+     "w": "look,",
+     "start": 44.753,
+     "end": 44.928
+    },
+    {
+     "w": "follow,",
+     "start": 45.088,
+     "end": 45.438
+    },
+    {
+     "w": "because",
+     "start": 45.548,
+     "end": 45.88
+    },
+    {
+     "w": "next",
+     "start": 45.88,
+     "end": 46.07
+    },
+    {
+     "w": "we're",
+     "start": 46.07,
+     "end": 46.261
+    },
+    {
+     "w": "building",
+     "start": 46.261,
+     "end": 46.592
+    },
+    {
+     "w": "a",
+     "start": 46.592,
+     "end": 46.783
+    },
+    {
+     "w": "robot",
+     "start": 46.783,
+     "end": 47.115
+    },
+    {
+     "w": "camel",
+     "start": 47.115,
+     "end": 47.446
+    },
+    {
+     "w": "jockey.",
+     "start": 47.446,
+     "end": 47.778
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 48.188,
+   "end": 53.104,
+   "text": "Now just park it a million and a half kilometers from Earth, and look back more than thirteen billion years.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 48.298,
+     "end": 48.492
+    },
+    {
+     "w": "just",
+     "start": 48.492,
+     "end": 48.686
+    },
+    {
+     "w": "park",
+     "start": 48.686,
+     "end": 48.88
+    },
+    {
+     "w": "it",
+     "start": 48.88,
+     "end": 49.074
+    },
+    {
+     "w": "a",
+     "start": 49.074,
+     "end": 49.268
+    },
+    {
+     "w": "million",
+     "start": 49.268,
+     "end": 49.605
+    },
+    {
+     "w": "and",
+     "start": 49.605,
+     "end": 49.799
+    },
+    {
+     "w": "a",
+     "start": 49.799,
+     "end": 49.993
+    },
+    {
+     "w": "half",
+     "start": 49.993,
+     "end": 50.187
+    },
+    {
+     "w": "kilometers",
+     "start": 50.187,
+     "end": 50.812
+    },
+    {
+     "w": "from",
+     "start": 50.812,
+     "end": 51.006
+    },
+    {
+     "w": "Earth,",
+     "start": 51.006,
+     "end": 51.199
+    },
+    {
+     "w": "and",
+     "start": 51.199,
+     "end": 51.393
+    },
+    {
+     "w": "look",
+     "start": 51.393,
+     "end": 51.587
+    },
+    {
+     "w": "back",
+     "start": 51.587,
+     "end": 51.781
+    },
+    {
+     "w": "more",
+     "start": 51.781,
+     "end": 51.975
+    },
+    {
+     "w": "than",
+     "start": 51.975,
+     "end": 52.169
+    },
+    {
+     "w": "thirteen",
+     "start": 52.169,
+     "end": 52.507
+    },
+    {
+     "w": "billion",
+     "start": 52.507,
+     "end": 52.844
+    },
+    {
+     "w": "years.",
+     "start": 52.844,
+     "end": 53.038
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 53.469,
+   "end": 59.0,
+   "text": "Six and a half meters of mirror, forty-eight grams of gold, and minus two hundred thirty-three degrees in the shade.",
+   "words": [
+    {
+     "w": "Six",
+     "start": 53.569,
+     "end": 53.783
+    },
+    {
+     "w": "and",
+     "start": 53.783,
+     "end": 53.997
+    },
+    {
+     "w": "a",
+     "start": 53.997,
+     "end": 54.211
+    },
+    {
+     "w": "half",
+     "start": 54.211,
+     "end": 54.425
+    },
+    {
+     "w": "meters",
+     "start": 54.425,
+     "end": 54.798
+    },
+    {
+     "w": "of",
+     "start": 54.798,
+     "end": 55.012
+    },
+    {
+     "w": "mirror,",
+     "start": 55.012,
+     "end": 55.384
+    },
+    {
+     "w": "forty-eight",
+     "start": 55.384,
+     "end": 55.757
+    },
+    {
+     "w": "grams",
+     "start": 55.757,
+     "end": 55.971
+    },
+    {
+     "w": "of",
+     "start": 55.971,
+     "end": 56.185
+    },
+    {
+     "w": "gold,",
+     "start": 56.185,
+     "end": 56.399
+    },
+    {
+     "w": "and",
+     "start": 56.559,
+     "end": 56.756
+    },
+    {
+     "w": "minus",
+     "start": 56.756,
+     "end": 57.1
+    },
+    {
+     "w": "two",
+     "start": 57.1,
+     "end": 57.297
+    },
+    {
+     "w": "hundred",
+     "start": 57.297,
+     "end": 57.64
+    },
+    {
+     "w": "thirty-three",
+     "start": 57.64,
+     "end": 57.984
+    },
+    {
+     "w": "degrees",
+     "start": 57.984,
+     "end": 58.327
+    },
+    {
+     "w": "in",
+     "start": 58.327,
+     "end": 58.524
+    },
+    {
+     "w": "the",
+     "start": 58.524,
+     "end": 58.722
+    },
+    {
+     "w": "shade.",
+     "start": 58.722,
+     "end": 58.919
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 59.365,
+   "end": 62.292,
+   "text": "And congrats, you just built a space telescope yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.495,
+     "end": 59.75
+    },
+    {
+     "w": "congrats,",
+     "start": 59.75,
+     "end": 60.195
+    },
+    {
+     "w": "you",
+     "start": 60.325,
+     "end": 60.525
+    },
+    {
+     "w": "just",
+     "start": 60.525,
+     "end": 60.724
+    },
+    {
+     "w": "built",
+     "start": 60.724,
+     "end": 60.924
+    },
+    {
+     "w": "a",
+     "start": 60.924,
+     "end": 61.123
+    },
+    {
+     "w": "space",
+     "start": 61.123,
+     "end": 61.323
+    },
+    {
+     "w": "telescope",
+     "start": 61.323,
+     "end": 61.818
+    },
+    {
+     "w": "yourself.",
+     "start": 61.818,
+     "end": 62.165
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 62.656,
+   "end": 67.479,
+   "text": "And it can see a galaxy thirteen billion light years away, but you still can't find the TV remote.",
+   "words": [
+    {
+     "w": "And",
+     "start": 62.786,
+     "end": 62.98
+    },
+    {
+     "w": "it",
+     "start": 62.98,
+     "end": 63.174
+    },
+    {
+     "w": "can",
+     "start": 63.174,
+     "end": 63.367
+    },
+    {
+     "w": "see",
+     "start": 63.367,
+     "end": 63.561
+    },
+    {
+     "w": "a",
+     "start": 63.561,
+     "end": 63.755
+    },
+    {
+     "w": "galaxy",
+     "start": 63.755,
+     "end": 64.236
+    },
+    {
+     "w": "thirteen",
+     "start": 64.236,
+     "end": 64.574
+    },
+    {
+     "w": "billion",
+     "start": 64.574,
+     "end": 64.911
+    },
+    {
+     "w": "light",
+     "start": 64.911,
+     "end": 65.105
+    },
+    {
+     "w": "years",
+     "start": 65.105,
+     "end": 65.299
+    },
+    {
+     "w": "away,",
+     "start": 65.299,
+     "end": 65.636
+    },
+    {
+     "w": "but",
+     "start": 65.746,
+     "end": 65.938
+    },
+    {
+     "w": "you",
+     "start": 65.938,
+     "end": 66.13
+    },
+    {
+     "w": "still",
+     "start": 66.13,
+     "end": 66.323
+    },
+    {
+     "w": "can't",
+     "start": 66.323,
+     "end": 66.515
+    },
+    {
+     "w": "find",
+     "start": 66.515,
+     "end": 66.707
+    },
+    {
+     "w": "the",
+     "start": 66.707,
+     "end": 66.899
+    },
+    {
+     "w": "TV",
+     "start": 66.899,
+     "end": 67.091
+    },
+    {
+     "w": "remote.",
+     "start": 67.091,
+     "end": 67.426
+    }
+   ]
+  }
+ ]
+}
