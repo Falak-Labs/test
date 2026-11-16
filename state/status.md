@@ -1,4 +1,4 @@
-# Post status 2026-11-16T02:41:58+00:00
+# Post status 2026-11-16T02:53:39+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@
 | ep27-tunnel | en.tiktok | sent |  | 2026-11-15T00:02:29.933Z https://tiktok.com/@congratsengineer/video/7708181401790713102 |
 | ep27-tunnel | en.youtube | sent |  | 2026-11-15T00:01:05.496Z https://www.youtube.com/shorts/6z5Av7axFRM |
 | ep28-bullettrain | ar.instagram | sent |  | 2026-11-15T17:02:57.092Z https://www.instagram.com/reel/DfxRTrlRF53/ |
-| ep28-bullettrain | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-15T17:49:00.000Z |
+| ep28-bullettrain | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-16T05:00:00.000Z |
 | ep28-bullettrain | ar.youtube | sent |  | 2026-11-15T17:01:42.982Z https://www.youtube.com/shorts/qLq9nSsFZmE |
 | ep28-bullettrain | en.instagram | sent |  | 2026-11-15T14:01:55.401Z https://www.instagram.com/reel/Dfw8mLShCBf/ |
 | ep28-bullettrain | en.tiktok | sent |  | 2026-11-15T14:02:24.368Z https://tiktok.com/@congratsengineer/video/7708397691822247182 |
@@ -178,7 +178,7 @@
 | ep29-humanoid | en.youtube | sent |  | 2026-11-15T18:01:13.780Z https://www.youtube.com/shorts/a-2pWKyoNFg |
 | ep30-stadium | ar.instagram | sent |  | 2026-11-15T23:02:42.019Z https://www.instagram.com/reel/Dfx6ZGCBM0Q/ |
 | ep30-stadium | ar.tiktok | sent |  | 2026-11-15T23:02:06.169Z https://tiktok.com/@kef.tenbeni/video/7708537032959724814 |
-| ep30-stadium | ar.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-15T23:00:00.000Z |
+| ep30-stadium | ar.youtube | scheduled | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T03:40:00.000Z |
 | ep30-stadium | en.instagram | sent |  | 2026-11-16T00:02:29.439Z https://www.instagram.com/reel/DfyBTo9Bn5J/ |
 | ep30-stadium | en.tiktok | sent |  | 2026-11-16T00:01:33.512Z https://tiktok.com/@congratsengineer/video/7708552394774285581 |
-| ep30-stadium | en.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T00:00:00.000Z |
+| ep30-stadium | en.youtube | scheduled | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T03:30:00.000Z |
