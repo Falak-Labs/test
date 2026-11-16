@@ -1,4 +1,4 @@
-# Post status 2026-11-16T22:10:24+00:00
+# Post status 2026-11-16T22:30:41+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -178,22 +178,22 @@
 | ep29-humanoid | en.youtube | sent |  | 2026-11-15T18:01:13.780Z https://www.youtube.com/shorts/a-2pWKyoNFg |
 | ep30-stadium | ar.instagram | sent |  | 2026-11-15T23:02:42.019Z https://www.instagram.com/reel/Dfx6ZGCBM0Q/ |
 | ep30-stadium | ar.tiktok | sent |  | 2026-11-15T23:02:06.169Z https://tiktok.com/@kef.tenbeni/video/7708537032959724814 |
-| ep30-stadium | ar.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T16:30:00.000Z |
+| ep30-stadium | ar.youtube | sent |  | 2026-11-16T22:21:08.294Z https://www.youtube.com/shorts/2S6YfmsMwzo |
 | ep30-stadium | en.instagram | sent |  | 2026-11-16T00:02:29.439Z https://www.instagram.com/reel/DfyBTo9Bn5J/ |
 | ep30-stadium | en.tiktok | sent |  | 2026-11-16T00:01:33.512Z https://tiktok.com/@congratsengineer/video/7708552394774285581 |
-| ep30-stadium | en.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T13:30:00.000Z |
+| ep30-stadium | en.youtube | sent |  | 2026-11-16T22:25:09.434Z https://www.youtube.com/shorts/h6OkJeFSUsM |
 | ep31-turbine | ar.instagram | sent |  | 2026-11-16T17:06:56.132Z https://www.instagram.com/reel/Dfz2asrOiIz/ |
 | ep31-turbine | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-17T01:30:00.000Z |
-| ep31-turbine | ar.youtube | error | It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling. | 2026-11-16T17:00:00.000Z |
+| ep31-turbine | ar.youtube | sent |  | 2026-11-16T22:21:26.613Z https://www.youtube.com/shorts/ErDwf6nkzSg |
 | ep31-turbine | en.instagram | sent |  | 2026-11-16T14:02:38.526Z https://www.instagram.com/reel/Dfzhe-aPmXM/ |
 | ep31-turbine | en.tiktok | sent |  | 2026-11-16T14:04:33.883Z https://tiktok.com/@congratsengineer/video/7708769477931879694 |
-| ep31-turbine | en.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T14:00:00.000Z |
+| ep31-turbine | en.youtube | sent |  | 2026-11-16T22:24:58.564Z https://www.youtube.com/shorts/ihAabGRkyQA |
 | ep32-telescope | ar.instagram | sent |  | 2026-11-16T20:03:26.872Z https://www.instagram.com/reel/Df0KvpEAiwM/ |
 | ep32-telescope | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-17T04:00:00.000Z |
-| ep32-telescope | ar.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T20:00:00.000Z |
+| ep32-telescope | ar.youtube | sent |  | 2026-11-16T22:21:18.782Z https://www.youtube.com/shorts/NBw2ay3Hkrk |
 | ep32-telescope | en.instagram | sent |  | 2026-11-16T18:04:32.919Z https://www.instagram.com/reel/Dfz9ELYJ3sA/ |
 | ep32-telescope | en.tiktok | sent |  | 2026-11-16T18:04:44.946Z https://tiktok.com/@congratsengineer/video/7708831481099029790 |
-| ep32-telescope | en.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T18:00:00.000Z |
+| ep32-telescope | en.youtube | sent |  | 2026-11-16T22:24:52.112Z https://www.youtube.com/shorts/F5LyzorFAYw |
 | ep33-camel | ar.instagram | scheduled |  | 2026-11-16T23:00:00.000Z |
 | ep33-camel | ar.tiktok | scheduled |  | 2026-11-16T23:00:00.000Z |
 | ep33-camel | ar.youtube | scheduled |  | 2026-11-16T23:00:00.000Z |
