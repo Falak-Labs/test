@@ -15,9 +15,9 @@ episodes:
   - {slug: ep10-toilet, kit: toilet, look: 2, retired: true}
   - {slug: ep11-airplane, kit: airplane, look: 2, retired: true}
   - {slug: ep12-fireworks, kit: fireworks, look: 2, retired: true}
-  - {slug: ep13-vault, kit: vault, look: 2}
-  - {slug: ep14-aircon, kit: aircon, look: 2}
-  - {slug: ep15-station, kit: station, look: 2}
+  - {slug: ep13-vault, kit: vault, look: 2, retired: true}
+  - {slug: ep14-aircon, kit: aircon, look: 2, retired: true}
+  - {slug: ep15-station, kit: station, look: 2, retired: true}
   - {slug: ep16-bridge, kit: bridge, look: 2}
   - {slug: ep17-vending, kit: vending, look: 2}
   - {slug: ep18-metro, kit: metro, look: 2}
