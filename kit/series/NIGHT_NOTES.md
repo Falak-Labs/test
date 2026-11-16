@@ -396,3 +396,8 @@
   (Wikipedia), cordless drill + whip + two-way radio (Hackaday), mannequin faces, sunglasses, silks and jockeys'
   perfume because the first robots scared the camels (Wikipedia), one SUV per robot beside the track (Scholastic),
   65 km/h bursts, 40 km/h over distance, races 4-10 km, camels over Dh1 million, season October-April (Khaleej Times).
+- Scheduled for Nov 16 PT (post run 04:16Z, all 18 targets "scheduled"): 31 EN 06:00 (14:00Z), AR 09:00 (17:00Z);
+  32 EN 10:00 (18:00Z), AR 12:00 (20:00Z); 33 AR 15:00 (23:00Z), EN 16:00 (00:00Z Nov 17). Also waiting in Buffer:
+  28 ar.tiktok 05:00Z, 30 en.youtube 13:30Z and 30 ar.youtube 16:30Z (the YouTube pair failed twice with Buffer's
+  "unknown error"; tools.yml cmd=show_assets showed the same asset as build 29's, which went out). Next: 34 electric
+  car (promised by 33), 35 smartphone, 36 the Great Pyramid of Giza.
