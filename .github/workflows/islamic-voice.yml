@@ -1,0 +1,66 @@
+name: Islamic story voice
+# Narration only, for the Arabic Islamic shorts project. One ElevenLabs request per line of islamic/lines/<name>.txt,
+# the audio, word timings and per-line takes land in islamic/voice/ (committed back to main). Reads the
+# ELEVENLABS_API_KEY Actions secret; the key is never printed or written. Spends credits only for lines whose
+# text, voice or model changed since the last run (force=true records everything again).
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "script name, as in islamic/lines/<name>.txt"
+        required: true
+      voice:
+        description: "ElevenLabs voice ID (default: Suhail Jouaneh, Fusha with a Levantine touch)"
+        default: "vRVc2UEclSTO2Z2n6vY5"
+      model:
+        description: "ElevenLabs model"
+        default: "eleven_multilingual_v2"
+      gap:
+        description: "silence between lines, seconds"
+        default: "0.7"
+      pause:
+        description: "longest pause kept inside a line, seconds"
+        default: "0.6"
+      force:
+        description: "record every line again, even unchanged ones"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: islamic-voice-${{ inputs.name }}
+  cancel-in-progress: false
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends ffmpeg
+      - name: Python packages
+        run: pip install --quiet requests numpy soundfile
+      - name: Record
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          NAME: ${{ inputs.name }}
+          VOICE: ${{ inputs.voice }}
+          MODEL: ${{ inputs.model }}
+          GAP: ${{ inputs.gap }}
+          PAUSE: ${{ inputs.pause }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          set -euo pipefail
+          test -f "islamic/lines/${NAME}.txt" || { echo "islamic/lines/${NAME}.txt is missing"; exit 1; }
+          mkdir -p islamic/voice
+          if [ "$FORCE" = "true" ]; then rm -rf "islamic/voice/${NAME}_lines"; fi
+          # natural speed (no fitting to a 60 s window), longer pauses for a slow reflective delivery
+          python -I -u kit/tools/make_vo_eleven.py "islamic/lines/${NAME}.txt" "islamic/voice/${NAME}" \
+            --voice "$VOICE" --model "$MODEL" --gap "$GAP" --pause "$PAUSE" --min 0 --max 9999
+      - name: Save to the repo
+        run: bash scripts/save_state.sh "islamic voice: ${{ inputs.name }}, $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" islamic/voice
