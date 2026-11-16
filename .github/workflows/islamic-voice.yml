@@ -63,4 +63,5 @@ jobs:
           python -I -u kit/tools/make_vo_eleven.py "islamic/lines/${NAME}.txt" "islamic/voice/${NAME}" \
             --voice "$VOICE" --model "$MODEL" --gap "$GAP" --pause "$PAUSE" --min 0 --max 9999
       - name: Save to the repo
-        run: bash scripts/save_state.sh "islamic voice: ${{ inputs.name }}, $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" islamic/voice
+        run: |
+          bash scripts/save_state.sh "islamic voice ${{ inputs.name }} $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" islamic/voice
