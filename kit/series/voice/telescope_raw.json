@@ -1,91 +1,91 @@
 {
  "voice": "Easton",
- "duration": 64.78,
- "words": 231,
+ "duration": 63.75,
+ "words": 223,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 7.07,
-   "text": "If you build a golden mirror taller than a giraffe, fold it like origami, and open it in deep space, congrats, you just built a space telescope."
+   "end": 6.66,
+   "text": "If you build a golden mirror taller than a giraffe, fold it like origami and open it in space, congrats, you just built a space telescope."
   },
   {
    "line": 2,
-   "start": 7.42,
-   "end": 11.79,
+   "start": 7.01,
+   "end": 11.38,
    "text": "But the oldest galaxies are so far, their light arrives stretched into heat you can't see."
   },
   {
    "line": 3,
-   "start": 12.14,
-   "end": 15.7,
+   "start": 11.73,
+   "end": 15.29,
    "text": "So you coat the mirror in gold, because gold bounces that heat really well."
   },
   {
    "line": 4,
-   "start": 16.05,
-   "end": 19.0,
+   "start": 15.64,
+   "end": 18.59,
    "text": "But a mirror six and a half meters wide won't fit in any rocket."
   },
   {
    "line": 5,
-   "start": 19.35,
-   "end": 22.95,
+   "start": 18.94,
+   "end": 22.54,
    "text": "So you build it from eighteen hexagons and fold the sides back like a table."
   },
   {
    "line": 6,
-   "start": 23.3,
-   "end": 27.57,
+   "start": 22.89,
+   "end": 27.16,
    "text": "But the Sun warms your telescope, and a warm telescope glows and blinds itself."
   },
   {
    "line": 7,
-   "start": 27.92,
-   "end": 31.61,
-   "text": "So you open a sunshade as big as a tennis court, five layers as thin as a hair."
+   "start": 27.51,
+   "end": 31.09,
+   "text": "So you open a sunshade the size of a tennis court, five layers thin as a hair."
   },
   {
    "line": 8,
-   "start": 31.96,
-   "end": 35.55,
+   "start": 31.44,
+   "end": 35.03,
    "text": "But eighteen mirrors show eighteen blurry stars, not one sharp picture."
   },
   {
    "line": 9,
-   "start": 35.9,
-   "end": 41.85,
+   "start": 35.38,
+   "end": 41.33,
    "text": "So tiny motors nudge each mirror in steps ten thousand times thinner than a hair, until all eighteen stars become one."
   },
   {
    "line": 10,
-   "start": 42.2,
-   "end": 45.91,
+   "start": 41.68,
+   "end": 45.39,
    "text": "But before you look, follow, because next we're building a robot camel jockey."
   },
   {
    "line": 11,
-   "start": 46.26,
-   "end": 50.98,
-   "text": "Now just park it a million and a half kilometers from Earth, and look back more than thirteen billion years."
+   "start": 45.74,
+   "end": 50.53,
+   "text": "Now just park it a million and a half kilometers away, and look back over thirteen billion years."
   },
   {
    "line": 12,
-   "start": 51.33,
-   "end": 56.64,
-   "text": "Six and a half meters of mirror, forty-eight grams of gold, and minus two hundred thirty-three degrees in the shade."
+   "start": 50.88,
+   "end": 55.84,
+   "text": "Six and a half meters of mirror, forty-eight grams of gold, and minus two hundred thirty-three in the shade."
   },
   {
    "line": 13,
-   "start": 56.99,
-   "end": 59.8,
+   "start": 56.19,
+   "end": 59.0,
    "text": "And congrats, you just built a space telescope yourself."
   },
   {
    "line": 14,
-   "start": 60.15,
-   "end": 64.78,
-   "text": "And it can see a galaxy thirteen billion light years away, but you still can't find the TV remote."
+   "start": 59.35,
+   "end": 63.75,
+   "text": "It sees galaxies thirteen billion light years away, and you still can't find the TV remote."
   }
  ]
 }
