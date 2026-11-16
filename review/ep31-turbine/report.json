@@ -1,0 +1,133 @@
+{
+ "slug": "ep31-turbine",
+ "kit": "turbine",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 66.07,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "10/229",
+   "mix_lines_off": [
+    "L 7 2 diff  | So a gearbox multiplies that spin about 100 times.",
+    "L12 8 diff  | Blaze longer than a football field, tips at 300 km/h and 70% fewer birds hit."
+   ],
+   "size_mb": 21.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو عملت مروحة أطول من ناطحة سحاب، ولفة واحدة منها تشغّل بيت يومين، مبروك، كده انت بنيت توربينة رياح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الهوا بيزق الريشة المفرودة، والزق ده بطيء.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتعمل كل ريشة زي جناح الطيارة، والهوا يرفعها ويلفّها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الهوا كل شوية يغيّر اتجاهه، والريش تبقى في الناحية الغلط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتحط دوّارة هوا فوق، تقول للمواتير تلف الراس كلها في وش الهوا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الريش بتلف عشر لفات بس في الدقيقة، والمولّد عايز أكتر من ألف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحط فتيس يكبّر اللفة حوالي مية مرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس لما تيجي عاصفة، الريش تلف بسرعة تفرتك التوربينة كلها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فكل ريشة تلف بحرفها في وش الهوا، فتهدى، والفرامل تقفلها لحد ما العاصفة تعدي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تنزل، تابعني، عشان اللي جاي هنبني تلسكوب فضائي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس ادهن ريشة إسود عشان الطيور تشوفها، وازرع منها مية في الزعفرانة، الهوا هناك ما بيقفش.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ريشة أطول من ملعب كورة، طرفها بتلتمية كيلو في الساعة، وخبطات الطيور أقل سبعين في المية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت توربينة رياح بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وبعد ما عملت كهربا ببلاش من الهوا؟ أبوك برضه يقولك: اطفي النور، الكهربا غالية!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.2,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 21.9,
+   "cover": true
+  }
+ }
+}

@@ -1,0 +1,13 @@
+camel: 67.60s, 2028 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/camel/cover.png: ['ROBOT CAMEL', 'JOCKEY'] (frame 0 of the video)
+video done in 505s
+audio done
+final out/camel/camel_final.mp4
+QA  duration 67.60s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2028
+QA sheet out/camel/qa_sheet.png

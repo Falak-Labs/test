@@ -1,0 +1,7 @@
+telescope_ar_sa: 69.62s, 2089 frames
+cover out/telescope_ar_sa/cover.png: ['تلسكوب', 'فضائي'] (frame 0 of the video)
+video done in 295s
+audio done
+final out/telescope_ar_sa/telescope_ar_sa_final.mp4
+QA  duration 69.63s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2089
+QA sheet out/telescope_ar_sa/qa_sheet.png

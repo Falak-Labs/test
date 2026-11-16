@@ -1,0 +1,13 @@
+telescope: 69.51s, 2085 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/telescope/cover.png: ['SPACE', 'TELESCOPE'] (frame 0 of the video)
+video done in 296s
+audio done
+final out/telescope/telescope_final.mp4
+QA  duration 69.50s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2085
+QA sheet out/telescope/qa_sheet.png
