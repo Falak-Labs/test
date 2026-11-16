@@ -401,3 +401,8 @@
   28 ar.tiktok 05:00Z, 30 en.youtube 13:30Z and 30 ar.youtube 16:30Z (the YouTube pair failed twice with Buffer's
   "unknown error"; tools.yml cmd=show_assets showed the same asset as build 29's, which went out). Next: 34 electric
   car (promised by 33), 35 smartphone, 36 the Great Pyramid of Giza.
+- Nov 16 13:45 PT status: builds 26-29 6/6 live. YouTube failing on BOTH channels since Nov 15: "unknown error" and, on
+  31 ar.youtube, "Buffer has lost authorization to post on your behalf. Please refresh your channel". Likely tied to
+  the owner moving his YouTube channels to Brand Accounts. Asked him to reconnect both YouTube channels in Buffer.
+  Until he says it's done, don't keep requeueing YouTube; afterwards requeue 30/31/32 youtube (en + ar), spaced.
+  Arabic TikTok 31 and 32 ("potential spam") requeued to 01:30Z and 04:00Z Nov 17.
