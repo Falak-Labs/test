@@ -1,4 +1,4 @@
-# Post status 2026-11-16T04:16:29+00:00
+# Post status 2026-11-16T06:37:26+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@
 | ep27-tunnel | en.tiktok | sent |  | 2026-11-15T00:02:29.933Z https://tiktok.com/@congratsengineer/video/7708181401790713102 |
 | ep27-tunnel | en.youtube | sent |  | 2026-11-15T00:01:05.496Z https://www.youtube.com/shorts/6z5Av7axFRM |
 | ep28-bullettrain | ar.instagram | sent |  | 2026-11-15T17:02:57.092Z https://www.instagram.com/reel/DfxRTrlRF53/ |
-| ep28-bullettrain | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-16T05:00:00.000Z |
+| ep28-bullettrain | ar.tiktok | sent |  | 2026-11-16T05:01:18.719Z https://tiktok.com/@kef.tenbeni/video/7708629668559211790 |
 | ep28-bullettrain | ar.youtube | sent |  | 2026-11-15T17:01:42.982Z https://www.youtube.com/shorts/qLq9nSsFZmE |
 | ep28-bullettrain | en.instagram | sent |  | 2026-11-15T14:01:55.401Z https://www.instagram.com/reel/Dfw8mLShCBf/ |
 | ep28-bullettrain | en.tiktok | sent |  | 2026-11-15T14:02:24.368Z https://tiktok.com/@congratsengineer/video/7708397691822247182 |
