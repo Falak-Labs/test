@@ -1,0 +1,31 @@
+episode: 32
+date: 2026-11-16
+video:
+  en: media/ep32-telescope-en.mp4
+  ar: media/ep32-telescope-ar.mp4
+en:
+  at: "2026-11-16T18:00:00Z"    # 10:00 PT
+  title: "How the James Webb Telescope Sees 13 Billion Years Back 🔭"
+  text: |
+    A golden mirror taller than a giraffe, folded like origami to fit in a rocket. 🔭
+    Gold to bounce the faint heat of the oldest galaxies, a sunshade the size of a tennis court, and tiny motors that line up 18 mirrors in steps ten thousand times thinner than a hair.
+    What would you point it at? 👇
+  next: "a robot camel jockey 🐪"
+  seo: "How the James Webb Space Telescope works: a 6.5 m primary mirror of 18 gold-coated beryllium hexagons (about 48 grams of gold), side wings folded like a drop-leaf table to fit the Ariane 5 rocket, a five-layer Kapton sunshield about the size of a tennis court (85°C on the Sun side, -233°C on the cold side), actuators that move each segment in 10-nanometer steps until 18 images of a star become one, parked 1.5 million km from Earth, seeing galaxies more than 13 billion light-years away in infrared."
+  tags:
+    tiktok: "#jameswebb #space #nasa #telescope #learnontiktok"
+    instagram: "#jameswebb #space #telescope #astronomy #howitworks"
+    youtube: "#jameswebb #space #telescope"
+ar:
+  at: "2026-11-16T20:00:00Z"    # 12:00 PT = 10 pm Cairo
+  title: "إزاي تلسكوب جيمس ويب بيشوف لورا تلتاشر مليار سنة؟ 🔭"
+  text: |
+    مراية دهب أطول من الزرافة، متطبقة زي الورق عشان تدخل الصاروخ! 🔭
+    دهب بيرجّع حرارة أقدم المجرات، وشمسية قد ملعب تنس، ومواتير صغيرة بتظبط تمنتاشر مراية لحد ما يبقوا مراية واحدة.
+    تبص بيه على إيه؟ 👇
+  next: "روبوت سباق الهجن 🐪"
+  seo: "تلسكوب جيمس ويب من جوه: مراية عرضها ستة متر ونص من تمنتاشر حتة سداسية متغطية دهب (حوالي تمانية وأربعين جرام دهب)، جنابها بتتطبق عشان تدخل الصاروخ، شمسية من خمس طبقات قد ملعب تنس (خمسة وتمانين درجة ناحية الشمس وميتين تلاتة وتلاتين تحت الصفر في الضل)، مواتير بتحرك كل مراية خطوات أرفع من الشعرة بعشر تلاف مرة، على بعد مليون ونص كيلو من الأرض، وبيشوف مجرات بعيدة أكتر من تلتاشر مليار سنة ضوئية."
+  tags:
+    tiktok: "#جيمس_ويب #الفضاء #ناسا #تعلم_على_التيك_توك #مصر"
+    instagram: "#جيمس_ويب #الفضاء #فلك #معلومات #مصر"
+    youtube: "#جيمس_ويب #الفضاء #فلك"

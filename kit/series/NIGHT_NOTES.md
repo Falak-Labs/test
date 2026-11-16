@@ -342,3 +342,57 @@
   nozzles by the pitch, roof edge shaped like a wing, chilled water made at night and stored, air pulled back and
   re-cooled, about 21 C, Khalifa International first in 2017 + six new = seven cooled, 40,000 people = 80,000 laptops of
   heat, switched on two hours before an event (The Athletic, AP via Yahoo, Gulf Times).
+
+## Nov 16 2026 (daily task, run of Nov 15 18:37 PT): 31 wind turbine, 32 space telescope, 33 robot camel jockey
+- Status 02:41Z: Nov 15 posts 15 of 18 sent. Requeued: 28 ar.tiktok ("potential spam") to 05:00Z; 30 en.youtube and
+  ar.youtube to 03:30Z / 03:40Z (Buffer "An unknown error has occurred. Please retry the post again": first time seen,
+  both YouTube posts of the same build, Instagram and TikTok took the same files).
+- Metrics 02:55Z: all six channels refreshed; 107,685 views in total. English TikTok's nuclear plant jumped to 7,226
+  two days after posting (watched 11%); the humanoid robot was the weakest opener (6% watched on English TikTok).
+  Details in the project doc claude/build-it-performance.md.
+- PAGES: retired ep13-ep15 (episodes.yml `retired: true`, git rm media): media/ 627 -> 523 MB before today's six
+  videos. Next to retire: ep16-ep18.
+- Voices (three Make voices runs at once): Easton 62.95 / 67.47 / 64.49 s for 229 / 231 / 226 words; the telescope was
+  over 67 s, five lines trimmed to 223 words and English remade (langs=en force=true, free): 66.38 s. ElevenLabs
+  Egyptian 66.1 / 66.5 / 66.7 s for 168 / 166 / 165 words (908 + 903 + 903 characters). check_ar_voice: only the
+  telescope's all-numbers stat line flagged (45%, Whisper writes digits).
+- Local English check with Whisper small (the "15-line script" of Nov 15): sherpa whisper-small, language="en", each
+  line's span padded with 0.5 s before and 2 s after, words compared with difflib. Only number formats this time.
+- DO NOT run `python3 scripts/post.py --help` locally: it is not a help flag, it runs the posting pass without keys and
+  writes state/last-run.md plus empty state/epNN.json for every new post file. Revert those, never commit them.
+- turbine.py (farm, foil, top, gear): turbine(c, x, s, ang, air, wk, black, blur, sway, dark, ring) in front view;
+  blade_pts(L, air, wk) morphs a flat wooden paddle into a tapered wing (air) and squeezes it edge-on (wk = pitch);
+  Spin = integral of a turns-per-second Track (the storm spins up and the feathered rotor stops without jumps);
+  far_turbine() silhouettes on two ridges pop in for "a hundred of them"; foil_path(k) plate -> airfoil with
+  streamlines that bunch or curve and a LIFT arrow; a top view with eight yaw motors, a wind vane and the rotor drawn
+  as three projected blades; gear() and a one-stage gearbox cutaway; eagle(), skyscraper(), house(), desk_fan(),
+  comment_card(), mustache_dad() (Arabic tag: the dad switches the house lights off).
+- telescope.py (space, light, rocket, focus, map, deep, room): mirror() = 18 hexagons in axial coordinates around an
+  empty centre, the two 3-segment side wings fold about their hinges (x' = hinge + (x - hinge) cos a); shield() five
+  layers that unfold; giraffe() for scale; wave() a light wave whose wavelength stretches and reddens, dashed where it
+  is invisible heat; clamshell fairing halves that swing shut on the folded mirror; the focus board with 18 blurry
+  copies that merge into one star with Webb's 6 + 2 spikes; galaxy(), star_spikes(), couch(), mom().
+- camel.py (track, scale, road): camel() side view with two-segment legs (Run = integral of a speed Track, the ground
+  and rail posts scroll past a camel that stays near x = 0); robot_new() = saddle pad, battery/radio box, antenna, a
+  cordless drill spinning a plastic whip, a speaker, a mannequin face with cap and sunglasses, racing silks;
+  robot_old(); suv() with the owner in ghutra and agal and a walkie-talkie; scale_dial(), suitcase(), keyfob().
+  The gallop thuds are built in sfx_events from the speed Track (about 140 sounds: fine).
+- ARABIC STAT CARDS: the big value is drawn in Poppins only, so Arabic letters there come out as boxes ("107 م",
+  "300 كم/س", "48 جرام" did on the first render). Keep the big value to digits and symbols ("107", "300", "6.5",
+  "1,000,000+", "233°") and put the Arabic unit in the small label ("متر طول الريشة", "كم/س سرعة الطرف"). The three
+  Arabic videos were rendered again (produce only=... langs=ar force=true; the voices were reused, no credits).
+- The CI mix check (Whisper base.en) heard the telescope's "a mirror" as "a mere"; Whisper small on the same mix heard
+  it right (ffmpeg the mp4 to 16 kHz mono, cut the line at voice time + 0.5 s lead). No re-render needed.
+- A warm sunset + orange sand + a tan camel washed out under the bloom pass: a navy-to-plum sky, darker sand and a
+  dark outline on the animal fixed it. A pale subject on a darker background, as always.
+- Facts: wind: GE Haliade-X 107 m blades, one rotation powers a UK home for more than two days (GE); blade tips over
+  100 m/s (Hackaday, leading-edge erosion); Smøla, Norway, one black blade = 71.9% fewer bird deaths (Ecology and
+  Evolution, via Smithsonian); yaw, pitch, feathering and brakes (scienceinsights.org); gearbox 1:78 on a 1.5 MW
+  turbine (Kirkwood); Zafarana on the Red Sea, average wind over 9 m/s (Bibliotheca Alexandrina). Webb (NASA): 6.5 m,
+  18 beryllium segments, gold about 100 nm, 48 g in all (Big Think), wings of 3 segments folded like a drop-leaf table,
+  6 + 1 actuators per segment, 10 nm steps = 1/10,000 of a hair (Space.com), sunshield 21 x 14 m, five Kapton layers,
+  85°C / -233°C, L2 1.5 million km, galaxies more than 13 billion light-years away. Camels: first working robot 2003
+  (Qatar Scientific Club), Swiss K-Team robots for Qatar 2004-05 about 25 kg with saddle (swissinfo), later 2-3 kg
+  (Wikipedia), cordless drill + whip + two-way radio (Hackaday), mannequin faces, sunglasses, silks and jockeys'
+  perfume because the first robots scared the camels (Wikipedia), one SUV per robot beside the track (Scholastic),
+  65 km/h bursts, 40 km/h over distance, races 4-10 km, camels over Dh1 million, season October-April (Khaleej Times).

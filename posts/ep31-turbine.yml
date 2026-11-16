@@ -1,0 +1,31 @@
+episode: 31
+date: 2026-11-16
+video:
+  en: media/ep31-turbine-en.mp4
+  ar: media/ep31-turbine-ar.mp4
+en:
+  at: "2026-11-16T14:00:00Z"    # 06:00 PT
+  title: "How a Wind Turbine Makes Power From Thin Air 🌬️"
+  text: |
+    One turn of its blades can power a home for two days. 🌬️
+    Blades shaped like airplane wings so the wind lifts them, a head that turns to face the wind, a gearbox that spins the generator a hundred times faster, and blades that turn their edges into a storm.
+    Would you live next to one? 👇
+  next: "a space telescope 🔭"
+  seo: "How a wind turbine works: wing-shaped blades turned by lift, not push; a wind vane and yaw motors that turn the head into the wind; a gearbox that turns about ten rotor turns a minute into over a thousand for the generator; pitch control that turns the blades edge-on in a storm, then a brake. GE's Haliade-X: 107 m blades, one turn powers a home for two days. Blade tips faster than 300 km/h. Painting one blade black cut bird deaths about 70% at Smøla, Norway."
+  tags:
+    tiktok: "#windturbine #engineering #renewableenergy #learnontiktok #science"
+    instagram: "#windturbine #engineering #renewableenergy #howitworks #science"
+    youtube: "#windturbine #engineering #energy"
+ar:
+  at: "2026-11-16T17:00:00Z"    # 09:00 PT = 7 pm Cairo
+  title: "إزاي توربينة الرياح بتعمل كهربا من الهوا؟ 🌬️"
+  text: |
+    لفة واحدة من ريشها تشغّل بيت يومين كاملين! 🌬️
+    ريش زي جناح الطيارة عشان الهوا يرفعها، وراس بتلف في وش الهوا، وفتيس بيكبّر اللفة مية مرة، وريش بتلف بحرفها لما تيجي عاصفة.
+    شوفتها على طريق الزعفرانة؟ 👇
+  next: "تلسكوب فضائي 🔭"
+  seo: "توربينة الرياح من جوه: ريش زي جناح الطيارة بتلف بالرفع مش بالزق، دوّارة هوا ومواتير بتلف الراس في وش الهوا، فتيس بيحوّل حوالي عشر لفات في الدقيقة لأكتر من ألف للمولّد، والريش بتلف بحرفها وقت العاصفة والفرامل بتقفلها. ريشة طولها مية وسبعة متر، لفة واحدة تشغّل بيت يومين، طرف الريشة أسرع من تلتمية كيلو في الساعة، وريشة سودا قللت خبطات الطيور حوالي سبعين في المية. مزارع الرياح في الزعفرانة وجبل الزيت على البحر الأحمر."
+  tags:
+    tiktok: "#طاقة_الرياح #هندسة #مصر #تعلم_على_التيك_توك #الزعفرانة"
+    instagram: "#طاقة_الرياح #هندسة #مصر #معلومات #طاقة_نظيفة"
+    youtube: "#طاقة_الرياح #هندسة #مصر"
