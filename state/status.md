@@ -1,4 +1,4 @@
-# Post status 2026-11-15T18:55:41+00:00
+# Post status 2026-11-16T02:41:58+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -170,15 +170,15 @@
 | ep28-bullettrain | en.instagram | sent |  | 2026-11-15T14:01:55.401Z https://www.instagram.com/reel/Dfw8mLShCBf/ |
 | ep28-bullettrain | en.tiktok | sent |  | 2026-11-15T14:02:24.368Z https://tiktok.com/@congratsengineer/video/7708397691822247182 |
 | ep28-bullettrain | en.youtube | sent |  | 2026-11-15T14:00:32.270Z https://www.youtube.com/shorts/pO8BTGrrpOs |
-| ep29-humanoid | ar.instagram | scheduled |  | 2026-11-15T20:00:00.000Z |
-| ep29-humanoid | ar.tiktok | scheduled |  | 2026-11-15T20:00:00.000Z |
-| ep29-humanoid | ar.youtube | scheduled |  | 2026-11-15T20:00:00.000Z |
+| ep29-humanoid | ar.instagram | sent |  | 2026-11-15T20:02:34.964Z https://www.instagram.com/reel/Dfxl0E_sXVG/ |
+| ep29-humanoid | ar.tiktok | sent |  | 2026-11-15T20:02:17.894Z https://tiktok.com/@kef.tenbeni/video/7708490613183843597 |
+| ep29-humanoid | ar.youtube | sent |  | 2026-11-15T20:00:37.609Z https://www.youtube.com/shorts/N_K1lDGyhGk |
 | ep29-humanoid | en.instagram | sent |  | 2026-11-15T18:03:27.869Z https://www.instagram.com/reel/DfxYHRIo1gV/ |
 | ep29-humanoid | en.tiktok | sent |  | 2026-11-15T18:03:56.504Z https://tiktok.com/@congratsengineer/video/7708459767638936845 |
 | ep29-humanoid | en.youtube | sent |  | 2026-11-15T18:01:13.780Z https://www.youtube.com/shorts/a-2pWKyoNFg |
-| ep30-stadium | ar.instagram | scheduled |  | 2026-11-15T23:00:00.000Z |
-| ep30-stadium | ar.tiktok | scheduled |  | 2026-11-15T23:00:00.000Z |
-| ep30-stadium | ar.youtube | scheduled |  | 2026-11-15T23:00:00.000Z |
-| ep30-stadium | en.instagram | scheduled |  | 2026-11-16T00:00:00.000Z |
-| ep30-stadium | en.tiktok | scheduled |  | 2026-11-16T00:00:00.000Z |
-| ep30-stadium | en.youtube | scheduled |  | 2026-11-16T00:00:00.000Z |
+| ep30-stadium | ar.instagram | sent |  | 2026-11-15T23:02:42.019Z https://www.instagram.com/reel/Dfx6ZGCBM0Q/ |
+| ep30-stadium | ar.tiktok | sent |  | 2026-11-15T23:02:06.169Z https://tiktok.com/@kef.tenbeni/video/7708537032959724814 |
+| ep30-stadium | ar.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-15T23:00:00.000Z |
+| ep30-stadium | en.instagram | sent |  | 2026-11-16T00:02:29.439Z https://www.instagram.com/reel/DfyBTo9Bn5J/ |
+| ep30-stadium | en.tiktok | sent |  | 2026-11-16T00:01:33.512Z https://tiktok.com/@congratsengineer/video/7708552394774285581 |
+| ep30-stadium | en.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-16T00:00:00.000Z |
