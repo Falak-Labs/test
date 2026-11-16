@@ -278,7 +278,7 @@ def suv(c, x, y, s, t, owner=1.0, yell=0.0, radio=0.0, col="#F8FAFC", a=1.0, hon
     c.restore()
 
 
-def scale_dial(c, x, y, kg, a=1.0):
+def scale_dial(c, x, y, kg, a=1.0, unit="kg"):
     """A big dial scale: platform top at y, dial below; kg 0..30."""
     c.drawRRect(rr(x - 300, y, 600, 60, 20), lin_paint(0, y, 0, y + 60, ["#E2E8F0", "#94A3B8"], a=a))
     c.drawRRect(rr(x - 260, y + 60, 520, 120, 20), P("#334155", a))
@@ -292,7 +292,7 @@ def scale_dial(c, x, y, kg, a=1.0):
     an = math.radians(-210 + clamp(kg / 30.0) * 240)
     c.drawLine(dx, dy, dx + math.cos(an) * 74, dy + math.sin(an) * 74, P(WARN, a, stroke=8))
     c.drawCircle(dx, dy, 10, P("#0F172A", a))
-    text(c, f"{kg:.0f} kg", dx, dy + 46, 34, "#0F172A", "Poppins-Black", a=a)
+    word(c, f"{kg:.0f} {unit}", dx, dy + 46, 34, "#0F172A", a)
 
 
 def suitcase(c, x, y, s, a=1.0):
@@ -371,9 +371,9 @@ class Camel(EpisodeV2):
                          "where": "OWNER: NOT ON THE TRACK", "speaker": "SPEAKER BY THE EAR", "yalla": "YALLA! YALLA!",
                          "scared": "SCARED!", "face": "LITTLE FACE", "glasses": "SUNGLASSES", "silks": "RACING SILKS",
                          "perfume": "JOCKEYS' PERFUME", "line": "LINE THEM UP", "chase": "OWNERS CHASE IN SUVS",
-                         "real": "THE REAL RACE", "kmh": "km/h"}},
+                         "real": "THE REAL RACE", "kmh": "km/h", "kg": "kg"}},
             "ar_sa": {"follow": ("تابعني", "الجاي: عربية كهربا"),
-                      "stat": [("65 كم/س", "أقصى سرعة"), ("2 كيلو", "الروبوت"), ("+1,000,000", "درهم تمن الجمل")],
+                      "stat": [("65", "كم/س أقصى سرعة"), ("2", "كيلو الروبوت"), ("1,000,000+", "درهم تمن الجمل")],
                       "L": {"robot": "الروبوت بتاعك", "owner": "صاحبه في العربية", "jockey": "روبوت سباق الهجن",
                             "lighter": "أخف = أسرع", "suitcase": "= شنطة سفر", "drill": "شنيور", "battery": "بطارية",
                             "radio": "لاسلكي", "kilos": "حوالي 2 كيلو", "sits": "قاعد ساكت", "slow": "بيهدّي",
@@ -381,7 +381,7 @@ class Camel(EpisodeV2):
                             "where": "صاحبه مش في الحلبة", "speaker": "سماعة جنب ودنه", "yalla": "يلا! يلا!",
                             "scared": "اتخض!", "face": "وش صغير", "glasses": "نضارة شمس", "silks": "هدوم سباق",
                             "perfume": "برفان الجوكية", "line": "صفّهم", "chase": "أصحابهم وراهم بالجيب",
-                            "real": "الدائري الساعة خمسة", "kmh": "كم/س"}}}
+                            "real": "الدائري الساعة خمسة", "kmh": "كم/س", "kg": "كيلو"}}}
 
     # ------------------------------------------------------------------ timing
     def _tracks(self):
@@ -637,7 +637,7 @@ class Camel(EpisodeV2):
         room(c, 0, 0, W, 1060, wall="#3B2F2A", floor="#5A4636", t=t, lamp=True, lamp_x=540)
         vrect(c, 0, 1060, W, H - 1060, ["#5A4636", "#3B2F2A", "#21180F"])
         kg = self.kg.at(t)
-        scale_dial(c, 540, 960, kg)
+        scale_dial(c, 540, 960, kg, unit=self.L["kg"])
         k = prog(t, T["strip0"], T["strip0"] + 0.5) if t >= s("fix1") - 0.12 else 0.0
         if k < 1:
             robot_old(c, 540, 960, 2.2 * (1 - k * 0.3), a=1 - k)

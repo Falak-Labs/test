@@ -322,7 +322,7 @@ class Telescope(EpisodeV2):
                          "moon": "MOON", "l2": "1.5 MILLION KM", "back": "13 BILLION YEARS AGO",
                          "found": "GALAXY FOUND", "remote": "TV REMOTE", "notfound": "NOT FOUND", "safe": ""}},
             "ar_sa": {"follow": ("تابعني", "الجاي: روبوت سباق الهجن"),
-                      "stat": [("6.5 م", "مراية"), ("48 جرام", "دهب"), ("233°", "تحت الصفر")],
+                      "stat": [("6.5", "متر مراية"), ("48", "جرام دهب"), ("233°", "تحت الصفر")],
                       "L": {"mirror": "مراية دهب", "giraffe": "أطول من الزرافة", "origami": "بتتطبق زي الورق",
                             "tele": "التلسكوب بتاعك", "stretched": "النور وصل حرارة", "cantsee": "العين ما تشوفهاش",
                             "gold": "الدهب بيرجّع الحرارة", "w65": "6.5 م", "w54": "الصاروخ: 5.4 م",

@@ -433,7 +433,7 @@ class Turbine(EpisodeV2):
                          "birds": "BIRDS SEE IT", "hundred": "x 100", "never": "WHERE THE WIND NEVER STOPS",
                          "comment": "why not just put a fan in front of it?", "dad": ""}},
             "ar_sa": {"follow": ("تابعني", "الجاي: تلسكوب فضائي"),
-                      "stat": [("107 م", "طول الريشة"), ("300 كم/س", "سرعة الطرف"), ("70%", "خبطات أقل")],
+                      "stat": [("107", "متر طول الريشة"), ("300", "كم/س سرعة الطرف"), ("70%", "خبطات طيور أقل")],
                       "L": {"turbine": "التوربينة بتاعتك", "taller": "أطول من ناطحة سحاب", "turn": "لفة واحدة",
                             "days": "= بيت يومين", "push": "الهوا بيزق وبس", "slow": "بطيء",
                             "wing": "زي جناح الطيارة", "lift": "بيرفعها", "wind": "الهوا",
