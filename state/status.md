@@ -1,4 +1,4 @@
-# Post status 2026-11-16T22:30:41+00:00
+# Post status 2026-11-17T02:41:14+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -183,7 +183,7 @@
 | ep30-stadium | en.tiktok | sent |  | 2026-11-16T00:01:33.512Z https://tiktok.com/@congratsengineer/video/7708552394774285581 |
 | ep30-stadium | en.youtube | sent |  | 2026-11-16T22:25:09.434Z https://www.youtube.com/shorts/h6OkJeFSUsM |
 | ep31-turbine | ar.instagram | sent |  | 2026-11-16T17:06:56.132Z https://www.instagram.com/reel/Dfz2asrOiIz/ |
-| ep31-turbine | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-17T01:30:00.000Z |
+| ep31-turbine | ar.tiktok | sent |  | 2026-11-17T01:40:16.763Z https://tiktok.com/@kef.tenbeni/video/7708946697908522253 |
 | ep31-turbine | ar.youtube | sent |  | 2026-11-16T22:21:26.613Z https://www.youtube.com/shorts/ErDwf6nkzSg |
 | ep31-turbine | en.instagram | sent |  | 2026-11-16T14:02:38.526Z https://www.instagram.com/reel/Dfzhe-aPmXM/ |
 | ep31-turbine | en.tiktok | sent |  | 2026-11-16T14:04:33.883Z https://tiktok.com/@congratsengineer/video/7708769477931879694 |
@@ -194,9 +194,9 @@
 | ep32-telescope | en.instagram | sent |  | 2026-11-16T18:04:32.919Z https://www.instagram.com/reel/Dfz9ELYJ3sA/ |
 | ep32-telescope | en.tiktok | sent |  | 2026-11-16T18:04:44.946Z https://tiktok.com/@congratsengineer/video/7708831481099029790 |
 | ep32-telescope | en.youtube | sent |  | 2026-11-16T22:24:52.112Z https://www.youtube.com/shorts/F5LyzorFAYw |
-| ep33-camel | ar.instagram | scheduled |  | 2026-11-16T23:00:00.000Z |
-| ep33-camel | ar.tiktok | scheduled |  | 2026-11-16T23:00:00.000Z |
-| ep33-camel | ar.youtube | scheduled |  | 2026-11-16T23:00:00.000Z |
-| ep33-camel | en.instagram | scheduled |  | 2026-11-17T00:00:00.000Z |
-| ep33-camel | en.tiktok | scheduled |  | 2026-11-17T00:00:00.000Z |
-| ep33-camel | en.youtube | scheduled |  | 2026-11-17T00:00:00.000Z |
+| ep33-camel | ar.instagram | sent |  | 2026-11-16T23:02:35.952Z https://www.instagram.com/reel/Df0fR_phmju/ |
+| ep33-camel | ar.tiktok | sent |  | 2026-11-16T23:02:38.611Z https://tiktok.com/@kef.tenbeni/video/7708908299848092942 |
+| ep33-camel | ar.youtube | sent |  | 2026-11-16T23:01:31.182Z https://www.youtube.com/shorts/OF5v0935go8 |
+| ep33-camel | en.instagram | sent |  | 2026-11-17T00:02:39.724Z https://www.instagram.com/reel/Df0mHusRuXo/ |
+| ep33-camel | en.tiktok | sent |  | 2026-11-17T00:03:37.440Z https://tiktok.com/@congratsengineer/video/7708923861533773069 |
+| ep33-camel | en.youtube | sent |  | 2026-11-17T00:01:35.801Z https://www.youtube.com/shorts/DxuZ0KzPodI |
