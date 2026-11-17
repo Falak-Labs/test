@@ -1,4 +1,4 @@
-# Post status 2026-11-17T04:20:35+00:00
+# Post status 2026-11-17T08:00:29+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -141,64 +141,64 @@
 | ep23-desal | en.tiktok | sent |  | 2026-11-13T00:02:53.514Z https://www.tiktok.com/@congratsengineer/video/7707439328452021518?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep23-desal | en.youtube | sent |  | 2026-11-13T00:01:04.202Z https://www.youtube.com/shorts/WZa91FYM6oY |
 | ep24-nuclear | ar.instagram | sent |  | 2026-11-13T17:04:23.508Z https://www.instagram.com/reel/DfsH5d9TrwE/ |
-| ep24-nuclear | ar.tiktok | sent |  | 2026-11-14T06:01:14.337Z https://tiktok.com/@kef.tenbeni/video/7707902946935115021 |
+| ep24-nuclear | ar.tiktok | sent |  | 2026-11-14T06:01:14.337Z https://www.tiktok.com/@kef.tenbeni/video/7707902946935115021?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep24-nuclear | ar.youtube | sent |  | 2026-11-13T17:02:49.559Z https://www.youtube.com/shorts/XyFgXUUBNJo |
 | ep24-nuclear | en.instagram | sent |  | 2026-11-13T18:03:53.880Z https://www.instagram.com/reel/DfsOrIiBXY_/ |
 | ep24-nuclear | en.tiktok | sent |  | 2026-11-13T18:02:37.770Z https://www.tiktok.com/@congratsengineer/video/7707717724159446285?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep24-nuclear | en.youtube | sent |  | 2026-11-13T18:01:59.505Z https://www.youtube.com/shorts/x_OopPVzYJY |
 | ep25-carrier | ar.instagram | sent |  | 2026-11-13T20:03:22.764Z https://www.instagram.com/reel/DfscVuNzUR3/ |
-| ep25-carrier | ar.tiktok | sent |  | 2026-11-14T04:01:15.046Z https://tiktok.com/@kef.tenbeni/video/7707872083191139598 |
+| ep25-carrier | ar.tiktok | sent |  | 2026-11-14T04:01:15.046Z https://www.tiktok.com/@kef.tenbeni/video/7707872083191139598?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep25-carrier | ar.youtube | sent |  | 2026-11-13T20:01:50.935Z https://www.youtube.com/shorts/noezcIeSvbc |
 | ep25-carrier | en.instagram | sent |  | 2026-11-14T01:46:02.256Z https://www.instagram.com/reel/DftDl4ahcN9/ |
-| ep25-carrier | en.tiktok | sent |  | 2026-11-14T00:03:36.104Z https://tiktok.com/@congratsengineer/video/7707810577862692110 |
+| ep25-carrier | en.tiktok | sent |  | 2026-11-14T00:03:36.104Z https://www.tiktok.com/@congratsengineer/video/7707810577862692110?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep25-carrier | en.youtube | sent |  | 2026-11-14T00:00:56.699Z https://www.youtube.com/shorts/4eLbi6pRaEM |
 | ep26-tower | ar.instagram | sent |  | 2026-11-14T17:02:32.371Z https://www.instagram.com/reel/DfusdsmPrCm/ |
-| ep26-tower | ar.tiktok | sent |  | 2026-11-14T22:31:00.016Z https://tiktok.com/@kef.tenbeni/video/7708158020064234765 |
+| ep26-tower | ar.tiktok | sent |  | 2026-11-14T22:31:00.016Z https://www.tiktok.com/@kef.tenbeni/video/7708158020064234765?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep26-tower | ar.youtube | sent |  | 2026-11-14T17:01:16.807Z https://www.youtube.com/shorts/CNYFwydnXMo |
 | ep26-tower | en.instagram | sent |  | 2026-11-14T18:02:17.595Z https://www.instagram.com/reel/DfuzSlyh2KJ/ |
-| ep26-tower | en.tiktok | sent |  | 2026-11-14T18:02:59.961Z https://tiktok.com/@congratsengineer/video/7708088893874195726 |
+| ep26-tower | en.tiktok | sent |  | 2026-11-14T18:02:59.961Z https://www.tiktok.com/@congratsengineer/video/7708088893874195726?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep26-tower | en.youtube | sent |  | 2026-11-14T18:01:19.220Z https://www.youtube.com/shorts/5UnMJExUHBU |
 | ep27-tunnel | ar.instagram | sent |  | 2026-11-14T20:02:33.555Z https://www.instagram.com/reel/DfvBDRXIhJT/ |
-| ep27-tunnel | ar.tiktok | sent |  | 2026-11-14T20:02:07.243Z https://tiktok.com/@kef.tenbeni/video/7708119675309280526 |
+| ep27-tunnel | ar.tiktok | sent |  | 2026-11-14T20:02:07.243Z https://www.tiktok.com/@kef.tenbeni/video/7708119675309280526?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep27-tunnel | ar.youtube | sent |  | 2026-11-14T20:00:59.544Z https://www.youtube.com/shorts/HW-kPSLK-yQ |
 | ep27-tunnel | en.instagram | sent |  | 2026-11-15T00:01:48.369Z https://www.instagram.com/reel/DfvcdjHqbGr/ |
-| ep27-tunnel | en.tiktok | sent |  | 2026-11-15T00:02:29.933Z https://tiktok.com/@congratsengineer/video/7708181401790713102 |
+| ep27-tunnel | en.tiktok | sent |  | 2026-11-15T00:02:29.933Z https://www.tiktok.com/@congratsengineer/video/7708181401790713102?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep27-tunnel | en.youtube | sent |  | 2026-11-15T00:01:05.496Z https://www.youtube.com/shorts/6z5Av7axFRM |
 | ep28-bullettrain | ar.instagram | sent |  | 2026-11-15T17:02:57.092Z https://www.instagram.com/reel/DfxRTrlRF53/ |
-| ep28-bullettrain | ar.tiktok | sent |  | 2026-11-16T05:01:18.719Z https://tiktok.com/@kef.tenbeni/video/7708629668559211790 |
+| ep28-bullettrain | ar.tiktok | sent |  | 2026-11-16T05:01:18.719Z https://www.tiktok.com/@kef.tenbeni/video/7708629668559211790?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep28-bullettrain | ar.youtube | sent |  | 2026-11-15T17:01:42.982Z https://www.youtube.com/shorts/qLq9nSsFZmE |
 | ep28-bullettrain | en.instagram | sent |  | 2026-11-15T14:01:55.401Z https://www.instagram.com/reel/Dfw8mLShCBf/ |
-| ep28-bullettrain | en.tiktok | sent |  | 2026-11-15T14:02:24.368Z https://tiktok.com/@congratsengineer/video/7708397691822247182 |
+| ep28-bullettrain | en.tiktok | sent |  | 2026-11-15T14:02:24.368Z https://www.tiktok.com/@congratsengineer/video/7708397691822247182?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep28-bullettrain | en.youtube | sent |  | 2026-11-15T14:00:32.270Z https://www.youtube.com/shorts/pO8BTGrrpOs |
 | ep29-humanoid | ar.instagram | sent |  | 2026-11-15T20:02:34.964Z https://www.instagram.com/reel/Dfxl0E_sXVG/ |
-| ep29-humanoid | ar.tiktok | sent |  | 2026-11-15T20:02:17.894Z https://tiktok.com/@kef.tenbeni/video/7708490613183843597 |
+| ep29-humanoid | ar.tiktok | sent |  | 2026-11-15T20:02:17.894Z https://www.tiktok.com/@kef.tenbeni/video/7708490613183843597?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep29-humanoid | ar.youtube | sent |  | 2026-11-15T20:00:37.609Z https://www.youtube.com/shorts/N_K1lDGyhGk |
 | ep29-humanoid | en.instagram | sent |  | 2026-11-15T18:03:27.869Z https://www.instagram.com/reel/DfxYHRIo1gV/ |
-| ep29-humanoid | en.tiktok | sent |  | 2026-11-15T18:03:56.504Z https://tiktok.com/@congratsengineer/video/7708459767638936845 |
+| ep29-humanoid | en.tiktok | sent |  | 2026-11-15T18:03:56.504Z https://www.tiktok.com/@congratsengineer/video/7708459767638936845?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep29-humanoid | en.youtube | sent |  | 2026-11-15T18:01:13.780Z https://www.youtube.com/shorts/a-2pWKyoNFg |
 | ep30-stadium | ar.instagram | sent |  | 2026-11-15T23:02:42.019Z https://www.instagram.com/reel/Dfx6ZGCBM0Q/ |
-| ep30-stadium | ar.tiktok | sent |  | 2026-11-15T23:02:06.169Z https://tiktok.com/@kef.tenbeni/video/7708537032959724814 |
+| ep30-stadium | ar.tiktok | sent |  | 2026-11-15T23:02:06.169Z https://www.tiktok.com/@kef.tenbeni/video/7708537032959724814?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep30-stadium | ar.youtube | sent |  | 2026-11-16T22:21:08.294Z https://www.youtube.com/shorts/2S6YfmsMwzo |
 | ep30-stadium | en.instagram | sent |  | 2026-11-16T00:02:29.439Z https://www.instagram.com/reel/DfyBTo9Bn5J/ |
-| ep30-stadium | en.tiktok | sent |  | 2026-11-16T00:01:33.512Z https://tiktok.com/@congratsengineer/video/7708552394774285581 |
+| ep30-stadium | en.tiktok | sent |  | 2026-11-16T00:01:33.512Z https://www.tiktok.com/@congratsengineer/video/7708552394774285581?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep30-stadium | en.youtube | sent |  | 2026-11-16T22:25:09.434Z https://www.youtube.com/shorts/h6OkJeFSUsM |
 | ep31-turbine | ar.instagram | sent |  | 2026-11-16T17:06:56.132Z https://www.instagram.com/reel/Dfz2asrOiIz/ |
-| ep31-turbine | ar.tiktok | sent |  | 2026-11-17T01:40:16.763Z https://tiktok.com/@kef.tenbeni/video/7708946697908522253 |
+| ep31-turbine | ar.tiktok | sent |  | 2026-11-17T01:40:16.763Z https://www.tiktok.com/@kef.tenbeni/video/7708946697908522253?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep31-turbine | ar.youtube | sent |  | 2026-11-16T22:21:26.613Z https://www.youtube.com/shorts/ErDwf6nkzSg |
 | ep31-turbine | en.instagram | sent |  | 2026-11-16T14:02:38.526Z https://www.instagram.com/reel/Dfzhe-aPmXM/ |
-| ep31-turbine | en.tiktok | sent |  | 2026-11-16T14:04:33.883Z https://tiktok.com/@congratsengineer/video/7708769477931879694 |
+| ep31-turbine | en.tiktok | sent |  | 2026-11-16T14:04:33.883Z https://www.tiktok.com/@congratsengineer/video/7708769477931879694?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep31-turbine | en.youtube | sent |  | 2026-11-16T22:24:58.564Z https://www.youtube.com/shorts/ihAabGRkyQA |
 | ep32-telescope | ar.instagram | sent |  | 2026-11-16T20:03:26.872Z https://www.instagram.com/reel/Df0KvpEAiwM/ |
-| ep32-telescope | ar.tiktok | sent |  | 2026-11-17T04:01:23.474Z https://tiktok.com/@kef.tenbeni/video/7708985346687601934 |
+| ep32-telescope | ar.tiktok | sent |  | 2026-11-17T04:01:23.474Z https://www.tiktok.com/@kef.tenbeni/video/7708985346687601934?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep32-telescope | ar.youtube | sent |  | 2026-11-16T22:21:18.782Z https://www.youtube.com/shorts/NBw2ay3Hkrk |
 | ep32-telescope | en.instagram | sent |  | 2026-11-16T18:04:32.919Z https://www.instagram.com/reel/Dfz9ELYJ3sA/ |
-| ep32-telescope | en.tiktok | sent |  | 2026-11-16T18:04:44.946Z https://tiktok.com/@congratsengineer/video/7708831481099029790 |
+| ep32-telescope | en.tiktok | sent |  | 2026-11-16T18:04:44.946Z https://www.tiktok.com/@congratsengineer/video/7708831481099029790?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep32-telescope | en.youtube | sent |  | 2026-11-16T22:24:52.112Z https://www.youtube.com/shorts/F5LyzorFAYw |
 | ep33-camel | ar.instagram | sent |  | 2026-11-16T23:02:35.952Z https://www.instagram.com/reel/Df0fR_phmju/ |
-| ep33-camel | ar.tiktok | sent |  | 2026-11-16T23:02:38.611Z https://tiktok.com/@kef.tenbeni/video/7708908299848092942 |
+| ep33-camel | ar.tiktok | sent |  | 2026-11-16T23:02:38.611Z https://www.tiktok.com/@kef.tenbeni/video/7708908299848092942?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep33-camel | ar.youtube | sent |  | 2026-11-16T23:01:31.182Z https://www.youtube.com/shorts/OF5v0935go8 |
 | ep33-camel | en.instagram | sent |  | 2026-11-17T00:02:39.724Z https://www.instagram.com/reel/Df0mHusRuXo/ |
-| ep33-camel | en.tiktok | sent |  | 2026-11-17T00:03:37.440Z https://tiktok.com/@congratsengineer/video/7708923861533773069 |
+| ep33-camel | en.tiktok | sent |  | 2026-11-17T00:03:37.440Z https://www.tiktok.com/@congratsengineer/video/7708923861533773069?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep33-camel | en.youtube | sent |  | 2026-11-17T00:01:35.801Z https://www.youtube.com/shorts/DxuZ0KzPodI |
 | ep34-evcar | ar.instagram | scheduled |  | 2026-11-18T17:00:00.000Z |
 | ep34-evcar | ar.tiktok | scheduled |  | 2026-11-18T17:00:00.000Z |
