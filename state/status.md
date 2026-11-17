@@ -1,4 +1,4 @@
-# Post status 2026-11-17T02:55:26+00:00
+# Post status 2026-11-17T04:05:15+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -189,7 +189,7 @@
 | ep31-turbine | en.tiktok | sent |  | 2026-11-16T14:04:33.883Z https://tiktok.com/@congratsengineer/video/7708769477931879694 |
 | ep31-turbine | en.youtube | sent |  | 2026-11-16T22:24:58.564Z https://www.youtube.com/shorts/ihAabGRkyQA |
 | ep32-telescope | ar.instagram | sent |  | 2026-11-16T20:03:26.872Z https://www.instagram.com/reel/Df0KvpEAiwM/ |
-| ep32-telescope | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-17T04:00:00.000Z |
+| ep32-telescope | ar.tiktok | sent |  | 2026-11-17T04:01:23.474Z https://tiktok.com/@kef.tenbeni/video/7708985346687601934 |
 | ep32-telescope | ar.youtube | sent |  | 2026-11-16T22:21:18.782Z https://www.youtube.com/shorts/NBw2ay3Hkrk |
 | ep32-telescope | en.instagram | sent |  | 2026-11-16T18:04:32.919Z https://www.instagram.com/reel/Dfz9ELYJ3sA/ |
 | ep32-telescope | en.tiktok | sent |  | 2026-11-16T18:04:44.946Z https://tiktok.com/@congratsengineer/video/7708831481099029790 |
@@ -200,3 +200,15 @@
 | ep33-camel | en.instagram | sent |  | 2026-11-17T00:02:39.724Z https://www.instagram.com/reel/Df0mHusRuXo/ |
 | ep33-camel | en.tiktok | sent |  | 2026-11-17T00:03:37.440Z https://tiktok.com/@congratsengineer/video/7708923861533773069 |
 | ep33-camel | en.youtube | sent |  | 2026-11-17T00:01:35.801Z https://www.youtube.com/shorts/DxuZ0KzPodI |
+| ep34-evcar | ar.instagram | scheduled |  | 2026-11-18T17:00:00.000Z |
+| ep34-evcar | ar.tiktok | scheduled |  | 2026-11-18T17:00:00.000Z |
+| ep34-evcar | ar.youtube | scheduled |  | 2026-11-18T17:00:00.000Z |
+| ep34-evcar | en.instagram | scheduled |  | 2026-11-18T14:00:00.000Z |
+| ep34-evcar | en.tiktok | scheduled |  | 2026-11-18T14:00:00.000Z |
+| ep34-evcar | en.youtube | scheduled |  | 2026-11-18T14:00:00.000Z |
+| ep35-phone | ar.instagram | scheduled |  | 2026-11-18T20:00:00.000Z |
+| ep35-phone | ar.tiktok | scheduled |  | 2026-11-18T20:00:00.000Z |
+| ep35-phone | ar.youtube | scheduled |  | 2026-11-18T20:00:00.000Z |
+| ep35-phone | en.instagram | scheduled |  | 2026-11-18T18:00:00.000Z |
+| ep35-phone | en.tiktok | scheduled |  | 2026-11-18T18:00:00.000Z |
+| ep35-phone | en.youtube | scheduled |  | 2026-11-18T18:00:00.000Z |
