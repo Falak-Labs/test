@@ -7,7 +7,7 @@ But it has no idea which way you're holding it.
 So a chip smaller than a grain of rice holds a silicon weight on springs that moves when you tilt it.
 But the map needs to know exactly where you are.
 So it listens to satellites twenty thousand kilometers up, their clocks corrected for Einstein's relativity, or your map drifts ten kilometers a day.
-But before you unlock it, follow, because next we're building the Great Pyramid of Giza.
+But before you unlock it, follow, because next we're building Egypt's Great Pyramid.
 Now just add a camera that merges fifteen photos into one in the dark, and put it in your pocket.
 Nineteen billion switches, fifteen photos in one, and satellites twenty thousand kilometers up.
 And congrats, you just built a smartphone yourself.
