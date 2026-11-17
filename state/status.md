@@ -1,4 +1,4 @@
-# Post status 2026-11-17T04:05:15+00:00
+# Post status 2026-11-17T04:20:35+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -212,3 +212,9 @@
 | ep35-phone | en.instagram | scheduled |  | 2026-11-18T18:00:00.000Z |
 | ep35-phone | en.tiktok | scheduled |  | 2026-11-18T18:00:00.000Z |
 | ep35-phone | en.youtube | scheduled |  | 2026-11-18T18:00:00.000Z |
+| ep36-pyramid | ar.instagram | scheduled |  | 2026-11-18T23:00:00.000Z |
+| ep36-pyramid | ar.tiktok | scheduled |  | 2026-11-18T23:00:00.000Z |
+| ep36-pyramid | ar.youtube | scheduled |  | 2026-11-18T23:00:00.000Z |
+| ep36-pyramid | en.instagram | scheduled |  | 2026-11-19T00:00:00.000Z |
+| ep36-pyramid | en.tiktok | scheduled |  | 2026-11-19T00:00:00.000Z |
+| ep36-pyramid | en.youtube | scheduled |  | 2026-11-19T00:00:00.000Z |
