@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 64.97,
+ "duration": 64.89,
  "words": 232,
- "words_per_sec": 3.57,
+ "words_per_sec": 3.58,
  "lines": [
   {
    "line": 1,
@@ -391,890 +391,890 @@
   {
    "line": 5,
    "start": 19.479,
-   "end": 23.0,
-   "text": "So you float them down the Nile on boats, to a harbor right by the site.",
+   "end": 22.917,
+   "text": "So you float them on boats down the Nile, to a harbor right by the site.",
    "words": [
     {
      "w": "So",
      "start": 19.589,
-     "end": 19.788
+     "end": 19.793
     },
     {
      "w": "you",
-     "start": 19.788,
-     "end": 19.987
+     "start": 19.793,
+     "end": 19.998
     },
     {
      "w": "float",
-     "start": 19.987,
-     "end": 20.186
+     "start": 19.998,
+     "end": 20.202
     },
     {
      "w": "them",
-     "start": 20.186,
-     "end": 20.385
-    },
-    {
-     "w": "down",
-     "start": 20.385,
-     "end": 20.584
-    },
-    {
-     "w": "the",
-     "start": 20.584,
-     "end": 20.782
-    },
-    {
-     "w": "Nile",
-     "start": 20.782,
-     "end": 20.981
+     "start": 20.202,
+     "end": 20.407
     },
     {
      "w": "on",
-     "start": 20.981,
-     "end": 21.18
+     "start": 20.407,
+     "end": 20.611
     },
     {
-     "w": "boats,",
-     "start": 21.18,
-     "end": 21.379
+     "w": "boats",
+     "start": 20.611,
+     "end": 20.816
     },
     {
-     "w": "to",
-     "start": 21.379,
-     "end": 21.578
-    },
-    {
-     "w": "a",
-     "start": 21.578,
-     "end": 21.777
-    },
-    {
-     "w": "harbor",
-     "start": 21.777,
-     "end": 22.123
-    },
-    {
-     "w": "right",
-     "start": 22.123,
-     "end": 22.322
-    },
-    {
-     "w": "by",
-     "start": 22.322,
-     "end": 22.521
+     "w": "down",
+     "start": 20.816,
+     "end": 21.02
     },
     {
      "w": "the",
-     "start": 22.521,
-     "end": 22.72
+     "start": 21.02,
+     "end": 21.225
+    },
+    {
+     "w": "Nile,",
+     "start": 21.225,
+     "end": 21.429
+    },
+    {
+     "w": "to",
+     "start": 21.569,
+     "end": 21.736
+    },
+    {
+     "w": "a",
+     "start": 21.736,
+     "end": 21.902
+    },
+    {
+     "w": "harbor",
+     "start": 21.902,
+     "end": 22.192
+    },
+    {
+     "w": "right",
+     "start": 22.192,
+     "end": 22.359
+    },
+    {
+     "w": "by",
+     "start": 22.359,
+     "end": 22.526
+    },
+    {
+     "w": "the",
+     "start": 22.526,
+     "end": 22.692
     },
     {
      "w": "site.",
-     "start": 22.72,
-     "end": 22.919
+     "start": 22.692,
+     "end": 22.859
     }
    ]
   },
   {
    "line": 6,
-   "start": 23.365,
-   "end": 26.865,
+   "start": 23.281,
+   "end": 26.781,
    "text": "But the king's room is deep inside, with a mountain of stone on its roof.",
    "words": [
     {
      "w": "But",
-     "start": 23.515,
-     "end": 23.709
+     "start": 23.421,
+     "end": 23.615
     },
     {
      "w": "the",
-     "start": 23.709,
-     "end": 23.902
+     "start": 23.615,
+     "end": 23.809
     },
     {
      "w": "king's",
-     "start": 23.902,
-     "end": 24.096
+     "start": 23.809,
+     "end": 24.003
     },
     {
      "w": "room",
-     "start": 24.096,
-     "end": 24.289
+     "start": 24.003,
+     "end": 24.198
     },
     {
      "w": "is",
-     "start": 24.289,
-     "end": 24.483
+     "start": 24.198,
+     "end": 24.392
     },
     {
      "w": "deep",
-     "start": 24.483,
-     "end": 24.676
+     "start": 24.392,
+     "end": 24.586
     },
     {
      "w": "inside,",
-     "start": 24.676,
-     "end": 25.013
+     "start": 24.586,
+     "end": 24.924
     },
     {
      "w": "with",
-     "start": 25.013,
-     "end": 25.207
+     "start": 24.924,
+     "end": 25.118
     },
     {
      "w": "a",
-     "start": 25.207,
-     "end": 25.4
+     "start": 25.118,
+     "end": 25.312
     },
     {
      "w": "mountain",
-     "start": 25.4,
-     "end": 25.737
+     "start": 25.312,
+     "end": 25.65
     },
     {
      "w": "of",
-     "start": 25.737,
-     "end": 25.931
+     "start": 25.65,
+     "end": 25.844
     },
     {
      "w": "stone",
-     "start": 25.931,
-     "end": 26.124
+     "start": 25.844,
+     "end": 26.039
     },
     {
      "w": "on",
-     "start": 26.124,
-     "end": 26.318
+     "start": 26.039,
+     "end": 26.233
     },
     {
      "w": "its",
-     "start": 26.318,
-     "end": 26.511
+     "start": 26.233,
+     "end": 26.427
     },
     {
      "w": "roof.",
-     "start": 26.511,
-     "end": 26.705
+     "start": 26.427,
+     "end": 26.621
     }
    ]
   },
   {
    "line": 7,
-   "start": 27.229,
-   "end": 32.365,
+   "start": 27.146,
+   "end": 32.281,
    "text": "So above it you stack five empty rooms of granite beams, and a pointed roof that pushes the weight aside.",
    "words": [
     {
      "w": "So",
-     "start": 27.339,
-     "end": 27.552
+     "start": 27.256,
+     "end": 27.469
     },
     {
      "w": "above",
-     "start": 27.552,
-     "end": 27.921
+     "start": 27.469,
+     "end": 27.838
     },
     {
      "w": "it",
-     "start": 27.921,
-     "end": 28.134
+     "start": 27.838,
+     "end": 28.051
     },
     {
      "w": "you",
-     "start": 28.134,
-     "end": 28.347
+     "start": 28.051,
+     "end": 28.264
     },
     {
      "w": "stack",
-     "start": 28.347,
-     "end": 28.559
+     "start": 28.264,
+     "end": 28.476
     },
     {
      "w": "five",
-     "start": 28.559,
-     "end": 28.772
+     "start": 28.476,
+     "end": 28.689
     },
     {
      "w": "empty",
-     "start": 28.772,
-     "end": 29.141
+     "start": 28.689,
+     "end": 29.058
     },
     {
      "w": "rooms",
-     "start": 29.141,
-     "end": 29.354
+     "start": 29.058,
+     "end": 29.271
     },
     {
      "w": "of",
-     "start": 29.354,
-     "end": 29.567
+     "start": 29.271,
+     "end": 29.484
     },
     {
      "w": "granite",
-     "start": 29.567,
-     "end": 29.936
+     "start": 29.484,
+     "end": 29.853
     },
     {
      "w": "beams,",
-     "start": 29.936,
-     "end": 30.149
+     "start": 29.853,
+     "end": 30.066
     },
     {
      "w": "and",
-     "start": 30.279,
-     "end": 30.459
+     "start": 30.186,
+     "end": 30.367
     },
     {
      "w": "a",
-     "start": 30.459,
-     "end": 30.639
+     "start": 30.367,
+     "end": 30.548
     },
     {
      "w": "pointed",
-     "start": 30.639,
-     "end": 30.952
+     "start": 30.548,
+     "end": 30.863
     },
     {
      "w": "roof",
-     "start": 30.952,
-     "end": 31.132
+     "start": 30.863,
+     "end": 31.044
     },
     {
      "w": "that",
-     "start": 31.132,
-     "end": 31.312
+     "start": 31.044,
+     "end": 31.224
     },
     {
      "w": "pushes",
-     "start": 31.312,
-     "end": 31.626
+     "start": 31.224,
+     "end": 31.539
     },
     {
      "w": "the",
-     "start": 31.626,
-     "end": 31.806
+     "start": 31.539,
+     "end": 31.72
     },
     {
      "w": "weight",
-     "start": 31.806,
-     "end": 31.986
+     "start": 31.72,
+     "end": 31.901
     },
     {
      "w": "aside.",
-     "start": 31.986,
-     "end": 32.299
+     "start": 31.901,
+     "end": 32.216
     }
    ]
   },
   {
    "line": 8,
-   "start": 32.729,
-   "end": 36.021,
+   "start": 32.646,
+   "end": 35.938,
    "text": "But if the base is off by a hand, the corners never meet at the top.",
    "words": [
     {
      "w": "But",
-     "start": 32.869,
-     "end": 33.042
+     "start": 32.786,
+     "end": 32.959
     },
     {
      "w": "if",
-     "start": 33.042,
-     "end": 33.216
+     "start": 32.959,
+     "end": 33.133
     },
     {
      "w": "the",
-     "start": 33.216,
-     "end": 33.389
+     "start": 33.133,
+     "end": 33.306
     },
     {
      "w": "base",
-     "start": 33.389,
-     "end": 33.562
+     "start": 33.306,
+     "end": 33.479
     },
     {
      "w": "is",
-     "start": 33.562,
-     "end": 33.736
+     "start": 33.479,
+     "end": 33.653
     },
     {
      "w": "off",
-     "start": 33.736,
-     "end": 33.909
+     "start": 33.653,
+     "end": 33.826
     },
     {
      "w": "by",
-     "start": 33.909,
-     "end": 34.082
+     "start": 33.826,
+     "end": 33.999
     },
     {
      "w": "a",
-     "start": 34.082,
-     "end": 34.256
+     "start": 33.999,
+     "end": 34.173
     },
     {
      "w": "hand,",
-     "start": 34.256,
-     "end": 34.429
+     "start": 34.173,
+     "end": 34.346
     },
     {
      "w": "the",
-     "start": 34.559,
-     "end": 34.715
+     "start": 34.476,
+     "end": 34.632
     },
     {
      "w": "corners",
-     "start": 34.715,
-     "end": 34.986
+     "start": 34.632,
+     "end": 34.903
     },
     {
      "w": "never",
-     "start": 34.986,
-     "end": 35.256
+     "start": 34.903,
+     "end": 35.173
     },
     {
      "w": "meet",
-     "start": 35.256,
-     "end": 35.412
+     "start": 35.173,
+     "end": 35.329
     },
     {
      "w": "at",
-     "start": 35.412,
-     "end": 35.568
+     "start": 35.329,
+     "end": 35.485
     },
     {
      "w": "the",
-     "start": 35.568,
-     "end": 35.723
+     "start": 35.485,
+     "end": 35.64
     },
     {
      "w": "top.",
-     "start": 35.723,
-     "end": 35.879
+     "start": 35.64,
+     "end": 35.796
     }
    ]
   },
   {
    "line": 9,
-   "start": 36.385,
-   "end": 40.823,
+   "start": 36.302,
+   "end": 40.74,
    "text": "So you level it within two centimeters and aim it north, less than a tenth of a degree off.",
    "words": [
     {
      "w": "So",
-     "start": 36.495,
-     "end": 36.674
+     "start": 36.412,
+     "end": 36.592
     },
     {
      "w": "you",
-     "start": 36.674,
-     "end": 36.853
+     "start": 36.592,
+     "end": 36.771
     },
     {
      "w": "level",
-     "start": 36.853,
-     "end": 37.164
+     "start": 36.771,
+     "end": 37.084
     },
     {
      "w": "it",
-     "start": 37.164,
-     "end": 37.343
+     "start": 37.084,
+     "end": 37.263
     },
     {
      "w": "within",
-     "start": 37.343,
-     "end": 37.654
+     "start": 37.263,
+     "end": 37.576
     },
     {
      "w": "two",
-     "start": 37.654,
-     "end": 37.833
+     "start": 37.576,
+     "end": 37.755
     },
     {
      "w": "centimeters",
-     "start": 37.833,
-     "end": 38.41
+     "start": 37.755,
+     "end": 38.334
     },
     {
      "w": "and",
-     "start": 38.41,
-     "end": 38.588
+     "start": 38.334,
+     "end": 38.513
     },
     {
      "w": "aim",
-     "start": 38.588,
-     "end": 38.767
+     "start": 38.513,
+     "end": 38.693
     },
     {
      "w": "it",
-     "start": 38.767,
-     "end": 38.946
+     "start": 38.693,
+     "end": 38.872
     },
     {
      "w": "north,",
-     "start": 38.946,
-     "end": 39.125
+     "start": 38.872,
+     "end": 39.052
     },
     {
      "w": "less",
-     "start": 39.285,
-     "end": 39.459
+     "start": 39.212,
+     "end": 39.384
     },
     {
      "w": "than",
-     "start": 39.459,
-     "end": 39.632
+     "start": 39.384,
+     "end": 39.557
     },
     {
      "w": "a",
-     "start": 39.632,
-     "end": 39.806
+     "start": 39.557,
+     "end": 39.73
     },
     {
      "w": "tenth",
-     "start": 39.806,
-     "end": 39.98
+     "start": 39.73,
+     "end": 39.902
     },
     {
      "w": "of",
-     "start": 39.98,
-     "end": 40.154
+     "start": 39.902,
+     "end": 40.074
     },
     {
      "w": "a",
-     "start": 40.154,
-     "end": 40.328
+     "start": 40.074,
+     "end": 40.247
     },
     {
      "w": "degree",
-     "start": 40.328,
-     "end": 40.501
+     "start": 40.247,
+     "end": 40.42
     },
     {
      "w": "off.",
-     "start": 40.501,
-     "end": 40.675
+     "start": 40.42,
+     "end": 40.592
     }
    ]
   },
   {
    "line": 10,
-   "start": 41.188,
-   "end": 45.604,
+   "start": 41.104,
+   "end": 45.521,
    "text": "But before you climb it, follow, because next we're building a wind tower that cools a house.",
    "words": [
     {
      "w": "But",
-     "start": 41.328,
-     "end": 41.5
+     "start": 41.254,
+     "end": 41.425
     },
     {
      "w": "before",
-     "start": 41.5,
-     "end": 41.801
+     "start": 41.425,
+     "end": 41.722
     },
     {
      "w": "you",
-     "start": 41.801,
-     "end": 41.973
+     "start": 41.722,
+     "end": 41.893
     },
     {
      "w": "climb",
-     "start": 41.973,
-     "end": 42.146
+     "start": 41.893,
+     "end": 42.063
     },
     {
      "w": "it,",
-     "start": 42.146,
-     "end": 42.318
+     "start": 42.063,
+     "end": 42.234
     },
     {
      "w": "follow,",
-     "start": 42.458,
-     "end": 42.798
+     "start": 42.374,
+     "end": 42.724
     },
     {
      "w": "because",
-     "start": 42.928,
-     "end": 43.269
+     "start": 42.834,
+     "end": 43.176
     },
     {
      "w": "next",
-     "start": 43.269,
-     "end": 43.465
+     "start": 43.176,
+     "end": 43.373
     },
     {
      "w": "we're",
-     "start": 43.465,
-     "end": 43.661
+     "start": 43.373,
+     "end": 43.57
     },
     {
      "w": "building",
-     "start": 43.661,
-     "end": 44.002
+     "start": 43.57,
+     "end": 43.912
     },
     {
      "w": "a",
-     "start": 44.002,
-     "end": 44.198
+     "start": 43.912,
+     "end": 44.109
     },
     {
      "w": "wind",
-     "start": 44.198,
-     "end": 44.393
+     "start": 44.109,
+     "end": 44.305
     },
     {
      "w": "tower",
-     "start": 44.393,
-     "end": 44.734
+     "start": 44.305,
+     "end": 44.647
     },
     {
      "w": "that",
-     "start": 44.734,
-     "end": 44.93
+     "start": 44.647,
+     "end": 44.844
     },
     {
      "w": "cools",
-     "start": 44.93,
-     "end": 45.126
+     "start": 44.844,
+     "end": 45.041
     },
     {
      "w": "a",
-     "start": 45.126,
-     "end": 45.322
+     "start": 45.041,
+     "end": 45.237
     },
     {
      "w": "house.",
-     "start": 45.322,
-     "end": 45.518
+     "start": 45.237,
+     "end": 45.434
     }
    ]
   },
   {
    "line": 11,
-   "start": 45.969,
-   "end": 50.365,
+   "start": 45.885,
+   "end": 50.281,
    "text": "Now just bring thousands of workers, not slaves, and case it in polished white stone.",
    "words": [
     {
      "w": "Now",
-     "start": 46.079,
-     "end": 46.313
+     "start": 45.995,
+     "end": 46.229
     },
     {
      "w": "just",
-     "start": 46.313,
-     "end": 46.547
+     "start": 46.229,
+     "end": 46.463
     },
     {
      "w": "bring",
-     "start": 46.547,
-     "end": 46.781
+     "start": 46.463,
+     "end": 46.697
     },
     {
      "w": "thousands",
-     "start": 46.781,
-     "end": 47.188
+     "start": 46.697,
+     "end": 47.104
     },
     {
      "w": "of",
-     "start": 47.188,
-     "end": 47.422
+     "start": 47.104,
+     "end": 47.338
     },
     {
      "w": "workers,",
-     "start": 47.422,
-     "end": 47.829
+     "start": 47.338,
+     "end": 47.745
     },
     {
      "w": "not",
-     "start": 47.959,
-     "end": 48.168
+     "start": 47.875,
+     "end": 48.083
     },
     {
      "w": "slaves,",
-     "start": 48.168,
-     "end": 48.53
+     "start": 48.083,
+     "end": 48.444
     },
     {
      "w": "and",
-     "start": 48.53,
-     "end": 48.739
+     "start": 48.444,
+     "end": 48.652
     },
     {
      "w": "case",
-     "start": 48.739,
-     "end": 48.948
+     "start": 48.652,
+     "end": 48.859
     },
     {
      "w": "it",
-     "start": 48.948,
-     "end": 49.156
+     "start": 48.859,
+     "end": 49.067
     },
     {
      "w": "in",
-     "start": 49.156,
-     "end": 49.365
+     "start": 49.067,
+     "end": 49.275
     },
     {
      "w": "polished",
-     "start": 49.365,
-     "end": 49.882
+     "start": 49.275,
+     "end": 49.79
     },
     {
      "w": "white",
-     "start": 49.882,
-     "end": 50.09
+     "start": 49.79,
+     "end": 49.997
     },
     {
      "w": "stone.",
-     "start": 50.09,
-     "end": 50.299
+     "start": 49.997,
+     "end": 50.205
     }
    ]
   },
   {
    "line": 12,
-   "start": 50.729,
-   "end": 56.333,
+   "start": 50.646,
+   "end": 56.25,
    "text": "A hundred forty-six meters, two point three million blocks, and the world's tallest for thirty-eight centuries.",
    "words": [
     {
      "w": "A",
-     "start": 50.839,
-     "end": 51.053
+     "start": 50.756,
+     "end": 50.97
     },
     {
      "w": "hundred",
-     "start": 51.053,
-     "end": 51.425
+     "start": 50.97,
+     "end": 51.342
     },
     {
      "w": "forty-six",
-     "start": 51.425,
-     "end": 51.956
+     "start": 51.342,
+     "end": 51.874
     },
     {
      "w": "meters,",
-     "start": 51.956,
-     "end": 52.329
+     "start": 51.874,
+     "end": 52.246
     },
     {
      "w": "two",
-     "start": 52.459,
-     "end": 52.702
+     "start": 52.386,
+     "end": 52.627
     },
     {
      "w": "point",
-     "start": 52.702,
-     "end": 52.944
+     "start": 52.627,
+     "end": 52.869
     },
     {
      "w": "three",
-     "start": 52.944,
-     "end": 53.187
+     "start": 52.869,
+     "end": 53.11
     },
     {
      "w": "million",
-     "start": 53.187,
-     "end": 53.609
+     "start": 53.11,
+     "end": 53.53
     },
     {
      "w": "blocks,",
-     "start": 53.609,
-     "end": 53.852
+     "start": 53.53,
+     "end": 53.771
     },
     {
      "w": "and",
-     "start": 53.852,
-     "end": 54.094
+     "start": 53.771,
+     "end": 54.013
     },
     {
      "w": "the",
-     "start": 54.094,
-     "end": 54.337
+     "start": 54.013,
+     "end": 54.254
     },
     {
      "w": "world's",
-     "start": 54.337,
-     "end": 54.58
+     "start": 54.254,
+     "end": 54.496
     },
     {
      "w": "tallest",
-     "start": 54.58,
-     "end": 55.002
+     "start": 54.496,
+     "end": 54.916
     },
     {
      "w": "for",
-     "start": 55.002,
-     "end": 55.245
+     "start": 54.916,
+     "end": 55.157
     },
     {
      "w": "thirty-eight",
-     "start": 55.245,
-     "end": 55.667
+     "start": 55.157,
+     "end": 55.577
     },
     {
      "w": "centuries.",
-     "start": 55.667,
-     "end": 56.269
+     "start": 55.577,
+     "end": 56.176
     }
    ]
   },
   {
    "line": 13,
-   "start": 56.698,
-   "end": 60.042,
+   "start": 56.615,
+   "end": 59.958,
    "text": "And congrats, you just built the Great Pyramid of Giza yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.818,
-     "end": 57.029
+     "start": 56.735,
+     "end": 56.945
     },
     {
      "w": "congrats,",
-     "start": 57.029,
-     "end": 57.396
+     "start": 56.945,
+     "end": 57.311
     },
     {
      "w": "you",
-     "start": 57.396,
-     "end": 57.607
+     "start": 57.311,
+     "end": 57.521
     },
     {
      "w": "just",
-     "start": 57.607,
-     "end": 57.817
+     "start": 57.521,
+     "end": 57.731
     },
     {
      "w": "built",
-     "start": 57.817,
-     "end": 58.028
+     "start": 57.731,
+     "end": 57.941
     },
     {
      "w": "the",
-     "start": 58.028,
-     "end": 58.239
+     "start": 57.941,
+     "end": 58.152
     },
     {
      "w": "Great",
-     "start": 58.239,
-     "end": 58.45
+     "start": 58.152,
+     "end": 58.362
     },
     {
      "w": "Pyramid",
-     "start": 58.45,
-     "end": 58.973
+     "start": 58.362,
+     "end": 58.883
     },
     {
      "w": "of",
-     "start": 58.973,
-     "end": 59.184
+     "start": 58.883,
+     "end": 59.093
     },
     {
      "w": "Giza",
-     "start": 59.184,
-     "end": 59.551
+     "start": 59.093,
+     "end": 59.459
     },
     {
      "w": "yourself.",
-     "start": 59.551,
-     "end": 59.918
+     "start": 59.459,
+     "end": 59.825
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.406,
-   "end": 64.99,
+   "start": 60.323,
+   "end": 64.906,
    "text": "And forty-five centuries later it still stands. The shelf you put up last week? On the floor.",
    "words": [
     {
      "w": "And",
-     "start": 60.526,
-     "end": 60.736
+     "start": 60.443,
+     "end": 60.626
     },
     {
      "w": "forty-five",
-     "start": 60.736,
-     "end": 61.258
+     "start": 60.626,
+     "end": 61.081
     },
     {
      "w": "centuries",
-     "start": 61.258,
-     "end": 61.779
+     "start": 61.081,
+     "end": 61.535
     },
     {
      "w": "later",
-     "start": 61.779,
-     "end": 62.145
+     "start": 61.535,
+     "end": 61.854
     },
     {
      "w": "it",
-     "start": 62.145,
-     "end": 62.355
+     "start": 61.854,
+     "end": 62.037
     },
     {
      "w": "still",
-     "start": 62.355,
-     "end": 62.565
+     "start": 62.037,
+     "end": 62.22
     },
     {
      "w": "stands.",
-     "start": 62.565,
-     "end": 62.775
+     "start": 62.22,
+     "end": 62.403
     },
     {
      "w": "The",
-     "start": 62.775,
-     "end": 62.985
+     "start": 62.453,
+     "end": 62.69
     },
     {
      "w": "shelf",
-     "start": 62.985,
-     "end": 63.195
+     "start": 62.69,
+     "end": 62.927
     },
     {
      "w": "you",
-     "start": 63.195,
-     "end": 63.405
+     "start": 62.927,
+     "end": 63.164
     },
     {
      "w": "put",
-     "start": 63.405,
-     "end": 63.616
+     "start": 63.164,
+     "end": 63.402
     },
     {
      "w": "up",
-     "start": 63.616,
-     "end": 63.826
+     "start": 63.402,
+     "end": 63.639
     },
     {
      "w": "last",
-     "start": 63.826,
-     "end": 64.036
+     "start": 63.639,
+     "end": 63.876
     },
     {
      "w": "week?",
-     "start": 64.036,
-     "end": 64.246
+     "start": 63.876,
+     "end": 64.113
     },
     {
      "w": "On",
-     "start": 64.396,
-     "end": 64.569
+     "start": 64.293,
+     "end": 64.473
     },
     {
      "w": "the",
-     "start": 64.569,
-     "end": 64.743
+     "start": 64.473,
+     "end": 64.653
     },
     {
      "w": "floor.",
-     "start": 64.743,
-     "end": 64.916
+     "start": 64.653,
+     "end": 64.833
     }
    ]
   }
