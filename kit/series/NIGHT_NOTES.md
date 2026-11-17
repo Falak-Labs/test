@@ -408,3 +408,51 @@
   Arabic TikTok 31 and 32 ("potential spam") requeued to 01:30Z and 04:00Z Nov 17.
 - Nov 16 14:25 PT: the owner reconnected both YouTube channels in Buffer. The six failed YouTube posts of builds 30-32
   went out right away (22:21-22:25Z, Buffer retried them on reconnect). YouTube works again: requeue as usual.
+
+## Nov 17 2026 (daily task, run of Nov 16 18:37 PT): 34 electric car, 35 smartphone, 36 Great Pyramid of Giza
+- Status 02:41Z: Nov 16 posts 17 of 18 sent; 32 ar.tiktok went out on its 04:00Z requeue (04:01Z): 198 of 198 "sent".
+- Metrics 02:43Z: 118,509 views (+10,824). Buffer has not refreshed YouTube numbers since Nov 15 03:27Z / 05:10Z (the lost
+  authorization): YouTube posts of builds 28-33 read 0, not real zeros. Details in claude/build-it-performance.md.
+- PAGES: retired ep16-ep18 (episodes.yml `retired: true`, git rm media): media/ 630 -> 529 MB, about 620 MB with today's
+  six videos (13-17 MB each). Next to retire: ep19-ep21.
+- Voices: Easton 63.95 / 64.96 / 65.1 s for 228 / 226 / 233 words; ElevenLabs Egyptian 67.7 / 66.0 / 69.0 s for 160 / 167
+  / 166 words (922 + 912 + 938 characters, plus one pyramid line remade). check_ar_voice: only the all-numbers stat lines
+  flagged (digits). Videos: EN 67.1 / 68.1 / 68.2 s, AR 70.8 / 69.1 / 72.1 s, peaks -1.3 to -2.2 dBFS, covers in.
+- Whisper small on the first English takes caught: "down the Nile on boats" -> "nylon boats" (now "on boats down the
+  Nile"); "Great Pyramid of Giza" in the phone's line 10 -> "Diza" (now "Egypt's Great Pyramid"; the pyramid's own lines
+  say Giza fine); "case it in polished white stone" -> "in case it" (now "cover it in"); "gleamed" -> "gleaned" (now "was
+  once shiny white"). Arabic: "أقل من عُشر درجة" came back as "10 درجة" (a tenth read as ten): now "كسر صغير من درجة".
+  The pyramid English was rendered twice (produce only=ep36-pyramid langs=en force=true after the voice remake).
+  The CI mix check (base.en) still writes "Diza" and "an appointed roof"; Whisper small on the MIX hears "Giza" and "and a
+  pointed roof" (scratch tool: Timeline(...).s/e per line on the mp4's 16 kHz audio).
+- BUG PATTERN: Track.to(t, v, dur) STARTS the move at t. I passed arrival times as t four times (evcar: the car and the
+  walker in the crossing, the charge and the dawn): the motion began when it should have ended. Write .to(start, v, dur).
+- evcar.py's x-ray set: view() plus an inner save need two restores; save_check caught the missing one.
+- A white casing under the bloom pass washed the pyramid into a flat white triangle: casing #CFC2A3 / #7E7464 with faint
+  course lines and a weak glint keeps the faces and the cover readable.
+- evcar.py (street, xray, cross, garage, uncle): ev_side() (pearl sedan, the front-trunk hood opens on a grocery bag,
+  xray mode), sports_car(), traffic_light(), cells() (cells fly from a block into a flat layer), battery_block(),
+  cg_mark(), gas_engine() (pumping pistons, sparks, gears), motor() (copper stator, magnet rotor), dash_line() (moving
+  dashes along a polyline), pedal(), battery_pill(), speaker_waves() (or a crossed-out speaker), ev_top() + walker_top()
+  for a top view of a zebra crossing, window_sky() (night to sunrise), overalls_man() (mechanic with a mustache).
+- phone.py (moon, brick, screen, space, night, mom): phone() front view with screen content (cat video, apps, map, dark)
+  and an inner(c, sx, sy, sw, sh) callback, content_rot (the landscape fix), a touch grid; cat_face(); lander() (Apollo
+  LM); earth(); satellite(); mini_clock(); brick() (the 1973 phone); chip() whose grid gets finer; finger(); rice();
+  mems() (a proof mass on springs with comb fingers); pocket(); flower_card() (good-morning picture); mom().
+- pyramid.py (giza, sledge, nile, inside, base, shelf): pyramid() two-face view with courses, built 0..1 (stacks from the
+  bottom), casing 0..1 and a glint band; palm(); worker() (white kilt); sledge(); small_car() for scale; jar(); a Nile map
+  (river_pts/at_river walk the river, boats sail it); boat(); arrow(); a cut through the pyramid with the king's room, five
+  relieving rooms and a gable; compass(); level_tool(); books() falling off a shelf.
+- Facts: EV: 8,256 cells in a Model S P100D pack (Teslarati teardown); EU AVAS on every new EV since July 2021, sound up to
+  about 20 km/h and when reversing (BVRLA); 96% of new cars sold in Norway in 2025 were electric (Reuters and others).
+  Phone: Martin Cooper, Apr 3 1973, about 2.5 lb, 10 h to charge, 35 min of talk (AARP); Apollo Guidance Computer 2,048
+  words of RAM vs a phone's GBs, a million times and more (Big Think); A17 Pro 19 billion transistors (Wikipedia);
+  capacitive grid, gloves don't work (ScienceAlert); MEMS accelerometer smaller than a grain of rice (MakeTechEasier);
+  GPS about 20,200 km up, clocks 38 µs a day fast, about 10-11 km a day without the fix; Night Sight merges up to 15
+  frames (Google Research). Pyramid (Wikipedia): 146.6 m, about 2.3 million blocks, tallest for 3,800+ years, base level
+  to 21 mm, sides about 3.6' off the cardinal directions, Aswan granite 900+ km away, five relieving chambers; wet sand
+  halves the pull (Univ. of Amsterdam 2014, Live Science; Djehutihotep painting); Diary of Merer: Tura limestone by
+  boat to the Giza harbour.
+- Scheduled for Nov 18 PT (post runs 04:05Z and 04:19Z, all 18 targets "scheduled"): 34 EN 06:00 (14:00Z), AR 09:00
+  (17:00Z); 35 EN 10:00 (18:00Z), AR 12:00 (20:00Z); 36 AR 15:00 (23:00Z), EN 16:00 (00:00Z Nov 19). Next: 37 a desert
+  wind tower that cools a house (promised by 36; Egyptian "ملقف" / Gulf "برجيل"), 38 Petra, 39 Japanese pagoda.
