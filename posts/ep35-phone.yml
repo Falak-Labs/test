@@ -1,0 +1,31 @@
+episode: 35
+date: 2026-11-18
+video:
+  en: media/ep35-phone-en.mp4
+  ar: media/ep35-phone-ar.mp4
+en:
+  at: "2026-11-18T18:00:00Z"    # 10:00 PT
+  title: "How Your Smartphone Knows Where You Are 📱"
+  text: |
+    A million times the memory of the computer that flew to the Moon, and we use it for cat videos. 📱
+    A grid of invisible wires under the glass feels your finger, a speck of silicon on springs knows which way is up, satellites 20,000 km away find you on the map (with Einstein's help), and the camera merges 15 photos into one in the dark.
+    How many hours a day are you on yours? 👇
+  next: "Egypt's Great Pyramid 🏜️"
+  seo: "How a smartphone works: the first mobile phone (Martin Cooper, Motorola, 1973) weighed about 1.1 kg, took 10 hours to charge and gave 35 minutes of talk; today one chip the size of a fingernail holds about 19 billion transistors (Apple A17 Pro); a capacitive touchscreen is a grid of transparent wires under the glass and your finger draws a little charge where it touches, which is why gloves don't work; a MEMS accelerometer smaller than a grain of rice holds a silicon weight on springs that moves when you tilt the phone; GPS satellites orbit about 20,200 km up and their clocks are corrected for Einstein's relativity, or positions would drift about 10 km a day; night mode merges up to 15 frames into one photo. The Apollo Guidance Computer had about 4 KB of memory."
+  tags:
+    tiktok: "#smartphone #iphone #engineering #tech #learnontiktok"
+    instagram: "#smartphone #iphone #tech #engineering #howitworks"
+    youtube: "#smartphone #tech #engineering"
+ar:
+  at: "2026-11-18T20:00:00Z"    # 12:00 PT = 10 pm Cairo
+  title: "إزاي الموبايل بيعرف انت فين؟ 📱"
+  text: |
+    في جيبك ذاكرة أكتر مليون مرة من كمبيوتر رحلة القمر، وبنتفرج بيه على قطط! 📱
+    شبكة سلوك مش باينة تحت الإزاز بتحس بصباعك، حتة سيليكون على يايات بتعرف انت ماسكه إزاي، أقمار صناعية فوق بعشرين ألف كيلو بتعرف انت فين، والكاميرا بتجمع خمستاشر صورة في واحدة في الضلمة.
+    بتقعد على الموبايل كام ساعة في اليوم؟ 👇
+  next: "الهرم الأكبر 🏜️"
+  seo: "إزاي الموبايل بيشتغل: أول موبايل في التاريخ سنة ألف تسعمية تلاتة وسبعين كان أتقل من كيلو ويتشحن عشر ساعات ويكلم نص ساعة وشوية، ودلوقتي شريحة قد الضفر فيها تسعتاشر مليار ترانزستور. الشاشة اللمس فيها شبكة سلوك شفافة تحت الإزاز وصباعك بيسحب شوية كهربا مكان اللمسة، وعشان كده الجوانتي مش بيشتغل. فيه حساس أصغر من حباية الرز جواه حتة سيليكون على يايات بتتحرك لما تميّل الموبايل. أقمار الجي بي إس على بعد حوالي عشرين ألف كيلو وساعاتها متظبطة بنسبية أينشتاين، وإلا مكانك على الخريطة يتوه حوالي عشرة كيلو في اليوم، والكاميرا بالليل بتجمع لحد خمستاشر صورة في صورة واحدة."
+  tags:
+    tiktok: "#موبايل #تكنولوجيا #هندسة #مصر #تعلم_على_التيك_توك"
+    instagram: "#موبايل #تكنولوجيا #هندسة #معلومات #مصر"
+    youtube: "#موبايل #تكنولوجيا #هندسة"

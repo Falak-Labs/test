@@ -1,0 +1,31 @@
+episode: 34
+date: 2026-11-18
+video:
+  en: media/ep34-evcar-en.mp4
+  ar: media/ep34-evcar-ar.mp4
+en:
+  at: "2026-11-18T14:00:00Z"    # 06:00 PT
+  title: "How an Electric Car Beats a Sports Car Off the Line ⚡"
+  text: |
+    No engine under the hood, just a second trunk, and it still wins at the green light. ⚡
+    Eight thousand battery cells laid flat under the floor, a motor with full force from a standstill and just one gear, brakes that turn the motor into a generator, and a sound it plays on purpose so people hear it coming.
+    Would you switch to electric? 👇
+  next: "a smartphone 📱"
+  seo: "How electric cars work: thousands of small lithium-ion cells (a Tesla Model S P100D pack has 8,256) lie flat under the floor like a skateboard, so the weight sits low and the car hugs the road; an electric motor gives full torque from a standstill through a single-speed gearbox, which is why EVs beat sports cars off the line; regenerative braking turns the motor into a generator that puts energy back in the battery when you lift your foot; since July 2021 every new electric car in the EU must play a warning sound (AVAS) below about 20 km/h and when reversing. Plug it in at night like a phone. In 2025, 96% of new cars sold in Norway were electric."
+  tags:
+    tiktok: "#electriccar #ev #engineering #cars #learnontiktok"
+    instagram: "#electriccar #ev #tesla #engineering #howitworks"
+    youtube: "#electriccar #ev #engineering"
+ar:
+  at: "2026-11-18T17:00:00Z"    # 09:00 PT = 7 pm Cairo
+  title: "إزاي العربية الكهربا بتسبق العربية السبور؟ ⚡"
+  text: |
+    مكان الموتور فيها شنطة، وبرضه بتسبق العربية السبور في الإشارة! ⚡
+    تمن تلاف خلية بطارية تحت الأرضية، موتور كهربا قوته كاملة من أول لحظة وسرعة واحدة بس، فرامل بترجّع كهربا للبطارية، وصوت مخصوص عشان اللي بيعدّي الشارع يسمعها.
+    تشتري عربية كهربا؟ 👇
+  next: "موبايل 📱"
+  seo: "إزاي العربية الكهربا بتشتغل: آلاف الخلايا الصغيرة متفرشة تحت الأرضية فالتقل يبقى تحت والعربية تمسك في الأرض، والموتور الكهربا قوته كاملة من أول لحظة وبسرعة واحدة من غير ما تغيّر فتيس، ولما ترفع رجلك الموتور يقلب دينامو ويرجّع كهربا للبطارية. في أوروبا كل عربية كهربا جديدة لازم تطلّع صوت لحد عشرين كيلو في الساعة عشان الناس تسمعها، وفي النرويج ستة وتسعين في المية من العربيات الجديدة السنة اللي فاتت كانت كهربا."
+  tags:
+    tiktok: "#عربيات #عربية_كهربا #هندسة #مصر #تعلم_على_التيك_توك"
+    instagram: "#عربيات #سيارات_كهربائية #هندسة #معلومات #مصر"
+    youtube: "#عربيات #سيارات_كهربائية #هندسة"
