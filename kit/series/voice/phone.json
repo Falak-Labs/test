@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 65.1,
- "words": 226,
- "words_per_sec": 3.47,
+ "duration": 64.96,
+ "words": 224,
+ "words_per_sec": 3.45,
  "lines": [
   {
    "line": 1,
@@ -846,8 +846,8 @@
   {
    "line": 10,
    "start": 42.844,
-   "end": 47.135,
-   "text": "But before you unlock it, follow, because next we're building the Great Pyramid of Giza.",
+   "end": 46.979,
+   "text": "But before you unlock it, follow, because next we're building Egypt's Great Pyramid.",
    "words": [
     {
      "w": "But",
@@ -877,374 +877,364 @@
     {
      "w": "follow,",
      "start": 44.254,
-     "end": 44.604
+     "end": 44.594
     },
     {
      "w": "because",
      "start": 44.714,
-     "end": 45.035
+     "end": 45.07
     },
     {
      "w": "next",
-     "start": 45.035,
-     "end": 45.219
+     "start": 45.07,
+     "end": 45.275
     },
     {
      "w": "we're",
-     "start": 45.219,
-     "end": 45.403
+     "start": 45.275,
+     "end": 45.479
     },
     {
      "w": "building",
-     "start": 45.403,
-     "end": 45.724
+     "start": 45.479,
+     "end": 45.836
     },
     {
-     "w": "the",
-     "start": 45.724,
-     "end": 45.908
+     "w": "Egypt's",
+     "start": 45.836,
+     "end": 46.192
     },
     {
      "w": "Great",
-     "start": 45.908,
-     "end": 46.092
+     "start": 46.192,
+     "end": 46.396
     },
     {
-     "w": "Pyramid",
-     "start": 46.092,
-     "end": 46.549
-    },
-    {
-     "w": "of",
-     "start": 46.549,
-     "end": 46.733
-    },
-    {
-     "w": "Giza.",
-     "start": 46.733,
-     "end": 47.054
+     "w": "Pyramid.",
+     "start": 46.396,
+     "end": 46.904
     }
    ]
   },
   {
    "line": 11,
-   "start": 47.5,
-   "end": 52.219,
+   "start": 47.344,
+   "end": 52.062,
    "text": "Now just add a camera that merges fifteen photos into one in the dark, and put it in your pocket.",
    "words": [
     {
      "w": "Now",
-     "start": 47.62,
-     "end": 47.8
+     "start": 47.454,
+     "end": 47.634
     },
     {
      "w": "just",
-     "start": 47.8,
-     "end": 47.98
+     "start": 47.634,
+     "end": 47.814
     },
     {
      "w": "add",
-     "start": 47.98,
-     "end": 48.16
+     "start": 47.814,
+     "end": 47.994
     },
     {
      "w": "a",
-     "start": 48.16,
-     "end": 48.339
+     "start": 47.994,
+     "end": 48.173
     },
     {
      "w": "camera",
-     "start": 48.339,
-     "end": 48.786
+     "start": 48.173,
+     "end": 48.62
     },
     {
      "w": "that",
-     "start": 48.786,
-     "end": 48.966
+     "start": 48.62,
+     "end": 48.8
     },
     {
      "w": "merges",
-     "start": 48.966,
-     "end": 49.279
+     "start": 48.8,
+     "end": 49.113
     },
     {
      "w": "fifteen",
-     "start": 49.279,
-     "end": 49.592
+     "start": 49.113,
+     "end": 49.426
     },
     {
      "w": "photos",
-     "start": 49.592,
-     "end": 49.905
+     "start": 49.426,
+     "end": 49.739
     },
     {
      "w": "into",
-     "start": 49.905,
-     "end": 50.218
+     "start": 49.739,
+     "end": 50.052
     },
     {
      "w": "one",
-     "start": 50.218,
-     "end": 50.398
+     "start": 50.052,
+     "end": 50.232
     },
     {
      "w": "in",
-     "start": 50.398,
-     "end": 50.578
+     "start": 50.232,
+     "end": 50.412
     },
     {
      "w": "the",
-     "start": 50.578,
-     "end": 50.758
+     "start": 50.412,
+     "end": 50.592
     },
     {
      "w": "dark,",
-     "start": 50.758,
-     "end": 50.938
+     "start": 50.592,
+     "end": 50.772
     },
     {
      "w": "and",
-     "start": 50.938,
-     "end": 51.117
+     "start": 50.772,
+     "end": 50.951
     },
     {
      "w": "put",
-     "start": 51.117,
-     "end": 51.297
+     "start": 50.951,
+     "end": 51.131
     },
     {
      "w": "it",
-     "start": 51.297,
-     "end": 51.477
+     "start": 51.131,
+     "end": 51.311
     },
     {
      "w": "in",
-     "start": 51.477,
-     "end": 51.657
+     "start": 51.311,
+     "end": 51.491
     },
     {
      "w": "your",
-     "start": 51.657,
-     "end": 51.837
+     "start": 51.491,
+     "end": 51.671
     },
     {
      "w": "pocket.",
-     "start": 51.837,
-     "end": 52.15
+     "start": 51.671,
+     "end": 51.984
     }
    ]
   },
   {
    "line": 12,
-   "start": 52.583,
-   "end": 57.604,
+   "start": 52.427,
+   "end": 57.448,
    "text": "Nineteen billion switches, fifteen photos in one, and satellites twenty thousand kilometers up.",
    "words": [
     {
      "w": "Nineteen",
-     "start": 52.663,
-     "end": 53.171
+     "start": 52.507,
+     "end": 53.015
     },
     {
      "w": "billion",
-     "start": 53.171,
-     "end": 53.527
+     "start": 53.015,
+     "end": 53.371
     },
     {
      "w": "switches,",
-     "start": 53.527,
-     "end": 53.883
+     "start": 53.371,
+     "end": 53.727
     },
     {
      "w": "fifteen",
-     "start": 53.883,
-     "end": 54.239
+     "start": 53.727,
+     "end": 54.083
     },
     {
      "w": "photos",
-     "start": 54.239,
-     "end": 54.595
+     "start": 54.083,
+     "end": 54.439
     },
     {
      "w": "in",
-     "start": 54.595,
-     "end": 54.799
+     "start": 54.439,
+     "end": 54.643
     },
     {
      "w": "one,",
-     "start": 54.799,
-     "end": 55.004
+     "start": 54.643,
+     "end": 54.848
     },
     {
      "w": "and",
-     "start": 55.004,
-     "end": 55.208
+     "start": 54.848,
+     "end": 55.052
     },
     {
      "w": "satellites",
-     "start": 55.208,
-     "end": 55.867
+     "start": 55.052,
+     "end": 55.711
     },
     {
      "w": "twenty",
-     "start": 55.867,
-     "end": 56.223
+     "start": 55.711,
+     "end": 56.067
     },
     {
      "w": "thousand",
-     "start": 56.223,
-     "end": 56.579
+     "start": 56.067,
+     "end": 56.423
     },
     {
      "w": "kilometers",
-     "start": 56.579,
-     "end": 57.238
+     "start": 56.423,
+     "end": 57.082
     },
     {
      "w": "up.",
-     "start": 57.238,
-     "end": 57.443
+     "start": 57.082,
+     "end": 57.287
     }
    ]
   },
   {
    "line": 13,
-   "start": 57.969,
-   "end": 60.521,
+   "start": 57.812,
+   "end": 60.365,
    "text": "And congrats, you just built a smartphone yourself.",
    "words": [
     {
      "w": "And",
-     "start": 58.089,
-     "end": 58.348
+     "start": 57.932,
+     "end": 58.191
     },
     {
      "w": "congrats,",
-     "start": 58.348,
-     "end": 58.799
+     "start": 58.191,
+     "end": 58.642
     },
     {
      "w": "you",
-     "start": 58.939,
-     "end": 59.137
+     "start": 58.782,
+     "end": 58.978
     },
     {
      "w": "just",
-     "start": 59.137,
-     "end": 59.335
+     "start": 58.978,
+     "end": 59.175
     },
     {
      "w": "built",
-     "start": 59.335,
-     "end": 59.532
+     "start": 59.175,
+     "end": 59.371
     },
     {
      "w": "a",
-     "start": 59.532,
-     "end": 59.73
+     "start": 59.371,
+     "end": 59.568
     },
     {
      "w": "smartphone",
-     "start": 59.73,
-     "end": 60.075
+     "start": 59.568,
+     "end": 59.91
     },
     {
      "w": "yourself.",
-     "start": 60.075,
-     "end": 60.419
+     "start": 59.91,
+     "end": 60.252
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.885,
-   "end": 65.125,
+   "start": 60.729,
+   "end": 64.969,
    "text": "And your mom says you're always on your phone, then sends you twenty good morning flower pictures.",
    "words": [
     {
      "w": "And",
-     "start": 61.015,
-     "end": 61.199
+     "start": 60.859,
+     "end": 61.044
     },
     {
      "w": "your",
-     "start": 61.199,
-     "end": 61.383
+     "start": 61.044,
+     "end": 61.229
     },
     {
      "w": "mom",
-     "start": 61.383,
-     "end": 61.566
+     "start": 61.229,
+     "end": 61.413
     },
     {
      "w": "says",
-     "start": 61.566,
-     "end": 61.75
+     "start": 61.413,
+     "end": 61.598
     },
     {
      "w": "you're",
-     "start": 61.75,
-     "end": 61.934
+     "start": 61.598,
+     "end": 61.783
     },
     {
      "w": "always",
-     "start": 61.934,
-     "end": 62.254
+     "start": 61.783,
+     "end": 62.105
     },
     {
      "w": "on",
-     "start": 62.254,
-     "end": 62.437
+     "start": 62.105,
+     "end": 62.289
     },
     {
      "w": "your",
-     "start": 62.437,
-     "end": 62.621
+     "start": 62.289,
+     "end": 62.474
     },
     {
      "w": "phone,",
-     "start": 62.621,
-     "end": 62.805
+     "start": 62.474,
+     "end": 62.659
     },
     {
      "w": "then",
-     "start": 62.975,
-     "end": 63.153
+     "start": 62.819,
+     "end": 62.997
     },
     {
      "w": "sends",
-     "start": 63.153,
-     "end": 63.33
+     "start": 62.997,
+     "end": 63.174
     },
     {
      "w": "you",
-     "start": 63.33,
-     "end": 63.508
+     "start": 63.174,
+     "end": 63.352
     },
     {
      "w": "twenty",
-     "start": 63.508,
-     "end": 63.818
+     "start": 63.352,
+     "end": 63.662
     },
     {
      "w": "good",
-     "start": 63.818,
-     "end": 63.995
+     "start": 63.662,
+     "end": 63.839
     },
     {
      "w": "morning",
-     "start": 63.995,
-     "end": 64.305
+     "start": 63.839,
+     "end": 64.149
     },
     {
      "w": "flower",
-     "start": 64.305,
-     "end": 64.614
+     "start": 64.149,
+     "end": 64.458
     },
     {
      "w": "pictures.",
-     "start": 64.614,
-     "end": 65.055
+     "start": 64.458,
+     "end": 64.899
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
  "voice": "Easton",
- "duration": 62.52,
- "words": 226,
+ "duration": 62.37,
+ "words": 224,
  "lines": [
   {
    "line": 1,
@@ -60,31 +60,31 @@
   {
    "line": 10,
    "start": 41.13,
-   "end": 45.25,
-   "text": "But before you unlock it, follow, because next we're building the Great Pyramid of Giza."
+   "end": 45.1,
+   "text": "But before you unlock it, follow, because next we're building Egypt's Great Pyramid."
   },
   {
    "line": 11,
-   "start": 45.6,
-   "end": 50.13,
+   "start": 45.45,
+   "end": 49.98,
    "text": "Now just add a camera that merges fifteen photos into one in the dark, and put it in your pocket."
   },
   {
    "line": 12,
-   "start": 50.48,
-   "end": 55.3,
+   "start": 50.33,
+   "end": 55.15,
    "text": "Nineteen billion switches, fifteen photos in one, and satellites twenty thousand kilometers up."
   },
   {
    "line": 13,
-   "start": 55.65,
-   "end": 58.1,
+   "start": 55.5,
+   "end": 57.95,
    "text": "And congrats, you just built a smartphone yourself."
   },
   {
    "line": 14,
-   "start": 58.45,
-   "end": 62.52,
+   "start": 58.3,
+   "end": 62.37,
    "text": "And your mom says you're always on your phone, then sends you twenty good morning flower pictures."
   }
  ]
