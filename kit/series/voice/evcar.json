@@ -1,0 +1,1262 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 63.95,
+ "words": 228,
+ "words_per_sec": 3.57,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.865,
+   "text": "If you build a car with a trunk where the engine should be, that still beats a sports car off the line, congrats, you just built an electric car.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.307
+    },
+    {
+     "w": "you",
+     "start": 0.307,
+     "end": 0.484
+    },
+    {
+     "w": "build",
+     "start": 0.484,
+     "end": 0.661
+    },
+    {
+     "w": "a",
+     "start": 0.661,
+     "end": 0.837
+    },
+    {
+     "w": "car",
+     "start": 0.837,
+     "end": 1.014
+    },
+    {
+     "w": "with",
+     "start": 1.014,
+     "end": 1.191
+    },
+    {
+     "w": "a",
+     "start": 1.191,
+     "end": 1.368
+    },
+    {
+     "w": "trunk",
+     "start": 1.368,
+     "end": 1.545
+    },
+    {
+     "w": "where",
+     "start": 1.545,
+     "end": 1.722
+    },
+    {
+     "w": "the",
+     "start": 1.722,
+     "end": 1.898
+    },
+    {
+     "w": "engine",
+     "start": 1.898,
+     "end": 2.206
+    },
+    {
+     "w": "should",
+     "start": 2.206,
+     "end": 2.383
+    },
+    {
+     "w": "be,",
+     "start": 2.383,
+     "end": 2.56
+    },
+    {
+     "w": "that",
+     "start": 2.7,
+     "end": 2.917
+    },
+    {
+     "w": "still",
+     "start": 2.917,
+     "end": 3.133
+    },
+    {
+     "w": "beats",
+     "start": 3.133,
+     "end": 3.35
+    },
+    {
+     "w": "a",
+     "start": 3.35,
+     "end": 3.567
+    },
+    {
+     "w": "sports",
+     "start": 3.567,
+     "end": 3.783
+    },
+    {
+     "w": "car",
+     "start": 3.783,
+     "end": 4.0
+    },
+    {
+     "w": "off",
+     "start": 4.0,
+     "end": 4.217
+    },
+    {
+     "w": "the",
+     "start": 4.217,
+     "end": 4.433
+    },
+    {
+     "w": "line,",
+     "start": 4.433,
+     "end": 4.65
+    },
+    {
+     "w": "congrats,",
+     "start": 4.77,
+     "end": 5.149
+    },
+    {
+     "w": "you",
+     "start": 5.149,
+     "end": 5.367
+    },
+    {
+     "w": "just",
+     "start": 5.367,
+     "end": 5.585
+    },
+    {
+     "w": "built",
+     "start": 5.585,
+     "end": 5.803
+    },
+    {
+     "w": "an",
+     "start": 5.803,
+     "end": 6.021
+    },
+    {
+     "w": "electric",
+     "start": 6.021,
+     "end": 6.562
+    },
+    {
+     "w": "car.",
+     "start": 6.562,
+     "end": 6.78
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.229,
+   "end": 11.375,
+   "text": "But it needs a huge amount of energy, and batteries are heavy, hundreds of kilos.",
+   "words": [
+    {
+     "w": "But",
+     "start": 7.359,
+     "end": 7.521
+    },
+    {
+     "w": "it",
+     "start": 7.521,
+     "end": 7.684
+    },
+    {
+     "w": "needs",
+     "start": 7.684,
+     "end": 7.846
+    },
+    {
+     "w": "a",
+     "start": 7.846,
+     "end": 8.009
+    },
+    {
+     "w": "huge",
+     "start": 8.009,
+     "end": 8.171
+    },
+    {
+     "w": "amount",
+     "start": 8.171,
+     "end": 8.454
+    },
+    {
+     "w": "of",
+     "start": 8.454,
+     "end": 8.616
+    },
+    {
+     "w": "energy,",
+     "start": 8.616,
+     "end": 9.019
+    },
+    {
+     "w": "and",
+     "start": 9.149,
+     "end": 9.326
+    },
+    {
+     "w": "batteries",
+     "start": 9.326,
+     "end": 9.764
+    },
+    {
+     "w": "are",
+     "start": 9.764,
+     "end": 9.941
+    },
+    {
+     "w": "heavy,",
+     "start": 9.941,
+     "end": 10.249
+    },
+    {
+     "w": "hundreds",
+     "start": 10.379,
+     "end": 10.74
+    },
+    {
+     "w": "of",
+     "start": 10.74,
+     "end": 10.948
+    },
+    {
+     "w": "kilos.",
+     "start": 10.948,
+     "end": 11.309
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 11.74,
+   "end": 16.688,
+   "text": "So you lay eight thousand cells flat under the floor, so the weight sits low and the car hugs the road.",
+   "words": [
+    {
+     "w": "So",
+     "start": 11.85,
+     "end": 12.068
+    },
+    {
+     "w": "you",
+     "start": 12.068,
+     "end": 12.285
+    },
+    {
+     "w": "lay",
+     "start": 12.285,
+     "end": 12.503
+    },
+    {
+     "w": "eight",
+     "start": 12.503,
+     "end": 12.721
+    },
+    {
+     "w": "thousand",
+     "start": 12.721,
+     "end": 13.1
+    },
+    {
+     "w": "cells",
+     "start": 13.1,
+     "end": 13.318
+    },
+    {
+     "w": "flat",
+     "start": 13.318,
+     "end": 13.535
+    },
+    {
+     "w": "under",
+     "start": 13.535,
+     "end": 13.915
+    },
+    {
+     "w": "the",
+     "start": 13.915,
+     "end": 14.132
+    },
+    {
+     "w": "floor,",
+     "start": 14.132,
+     "end": 14.35
+    },
+    {
+     "w": "so",
+     "start": 14.51,
+     "end": 14.702
+    },
+    {
+     "w": "the",
+     "start": 14.702,
+     "end": 14.894
+    },
+    {
+     "w": "weight",
+     "start": 14.894,
+     "end": 15.085
+    },
+    {
+     "w": "sits",
+     "start": 15.085,
+     "end": 15.277
+    },
+    {
+     "w": "low",
+     "start": 15.277,
+     "end": 15.469
+    },
+    {
+     "w": "and",
+     "start": 15.469,
+     "end": 15.661
+    },
+    {
+     "w": "the",
+     "start": 15.661,
+     "end": 15.853
+    },
+    {
+     "w": "car",
+     "start": 15.853,
+     "end": 16.045
+    },
+    {
+     "w": "hugs",
+     "start": 16.045,
+     "end": 16.236
+    },
+    {
+     "w": "the",
+     "start": 16.236,
+     "end": 16.428
+    },
+    {
+     "w": "road.",
+     "start": 16.428,
+     "end": 16.62
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 17.052,
+   "end": 21.552,
+   "text": "But a gas engine needs explosions, pistons and a gearbox before the wheels even turn.",
+   "words": [
+    {
+     "w": "But",
+     "start": 17.182,
+     "end": 17.4
+    },
+    {
+     "w": "a",
+     "start": 17.4,
+     "end": 17.617
+    },
+    {
+     "w": "gas",
+     "start": 17.617,
+     "end": 17.835
+    },
+    {
+     "w": "engine",
+     "start": 17.835,
+     "end": 18.214
+    },
+    {
+     "w": "needs",
+     "start": 18.214,
+     "end": 18.432
+    },
+    {
+     "w": "explosions,",
+     "start": 18.432,
+     "end": 18.972
+    },
+    {
+     "w": "pistons",
+     "start": 19.112,
+     "end": 19.458
+    },
+    {
+     "w": "and",
+     "start": 19.458,
+     "end": 19.657
+    },
+    {
+     "w": "a",
+     "start": 19.657,
+     "end": 19.856
+    },
+    {
+     "w": "gearbox",
+     "start": 19.856,
+     "end": 20.203
+    },
+    {
+     "w": "before",
+     "start": 20.203,
+     "end": 20.549
+    },
+    {
+     "w": "the",
+     "start": 20.549,
+     "end": 20.748
+    },
+    {
+     "w": "wheels",
+     "start": 20.748,
+     "end": 20.947
+    },
+    {
+     "w": "even",
+     "start": 20.947,
+     "end": 21.293
+    },
+    {
+     "w": "turn.",
+     "start": 21.293,
+     "end": 21.492
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 21.917,
+   "end": 25.896,
+   "text": "So you use an electric motor: full force from a standstill, and just one gear.",
+   "words": [
+    {
+     "w": "So",
+     "start": 22.027,
+     "end": 22.228
+    },
+    {
+     "w": "you",
+     "start": 22.228,
+     "end": 22.428
+    },
+    {
+     "w": "use",
+     "start": 22.428,
+     "end": 22.629
+    },
+    {
+     "w": "an",
+     "start": 22.629,
+     "end": 22.83
+    },
+    {
+     "w": "electric",
+     "start": 22.83,
+     "end": 23.328
+    },
+    {
+     "w": "motor:",
+     "start": 23.328,
+     "end": 23.677
+    },
+    {
+     "w": "full",
+     "start": 23.767,
+     "end": 23.952
+    },
+    {
+     "w": "force",
+     "start": 23.952,
+     "end": 24.136
+    },
+    {
+     "w": "from",
+     "start": 24.136,
+     "end": 24.321
+    },
+    {
+     "w": "a",
+     "start": 24.321,
+     "end": 24.506
+    },
+    {
+     "w": "standstill,",
+     "start": 24.506,
+     "end": 24.827
+    },
+    {
+     "w": "and",
+     "start": 24.967,
+     "end": 25.182
+    },
+    {
+     "w": "just",
+     "start": 25.182,
+     "end": 25.397
+    },
+    {
+     "w": "one",
+     "start": 25.397,
+     "end": 25.612
+    },
+    {
+     "w": "gear.",
+     "start": 25.612,
+     "end": 25.827
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 26.26,
+   "end": 29.813,
+   "text": "But every time you brake, all that speed turns into heat and is gone.",
+   "words": [
+    {
+     "w": "But",
+     "start": 26.4,
+     "end": 26.562
+    },
+    {
+     "w": "every",
+     "start": 26.562,
+     "end": 26.964
+    },
+    {
+     "w": "time",
+     "start": 26.964,
+     "end": 27.126
+    },
+    {
+     "w": "you",
+     "start": 27.126,
+     "end": 27.288
+    },
+    {
+     "w": "brake,",
+     "start": 27.288,
+     "end": 27.45
+    },
+    {
+     "w": "all",
+     "start": 27.58,
+     "end": 27.801
+    },
+    {
+     "w": "that",
+     "start": 27.801,
+     "end": 28.021
+    },
+    {
+     "w": "speed",
+     "start": 28.021,
+     "end": 28.242
+    },
+    {
+     "w": "turns",
+     "start": 28.242,
+     "end": 28.463
+    },
+    {
+     "w": "into",
+     "start": 28.463,
+     "end": 28.847
+    },
+    {
+     "w": "heat",
+     "start": 28.847,
+     "end": 29.068
+    },
+    {
+     "w": "and",
+     "start": 29.068,
+     "end": 29.289
+    },
+    {
+     "w": "is",
+     "start": 29.289,
+     "end": 29.509
+    },
+    {
+     "w": "gone.",
+     "start": 29.509,
+     "end": 29.73
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 30.177,
+   "end": 34.479,
+   "text": "So when you lift your foot, the motor becomes a generator and puts energy back in the battery.",
+   "words": [
+    {
+     "w": "So",
+     "start": 30.287,
+     "end": 30.464
+    },
+    {
+     "w": "when",
+     "start": 30.464,
+     "end": 30.64
+    },
+    {
+     "w": "you",
+     "start": 30.64,
+     "end": 30.817
+    },
+    {
+     "w": "lift",
+     "start": 30.817,
+     "end": 30.994
+    },
+    {
+     "w": "your",
+     "start": 30.994,
+     "end": 31.17
+    },
+    {
+     "w": "foot,",
+     "start": 31.17,
+     "end": 31.347
+    },
+    {
+     "w": "the",
+     "start": 31.507,
+     "end": 31.657
+    },
+    {
+     "w": "motor",
+     "start": 31.657,
+     "end": 31.918
+    },
+    {
+     "w": "becomes",
+     "start": 31.918,
+     "end": 32.29
+    },
+    {
+     "w": "a",
+     "start": 32.29,
+     "end": 32.44
+    },
+    {
+     "w": "generator",
+     "start": 32.44,
+     "end": 32.923
+    },
+    {
+     "w": "and",
+     "start": 32.923,
+     "end": 33.073
+    },
+    {
+     "w": "puts",
+     "start": 33.073,
+     "end": 33.223
+    },
+    {
+     "w": "energy",
+     "start": 33.223,
+     "end": 33.595
+    },
+    {
+     "w": "back",
+     "start": 33.595,
+     "end": 33.745
+    },
+    {
+     "w": "in",
+     "start": 33.745,
+     "end": 33.895
+    },
+    {
+     "w": "the",
+     "start": 33.895,
+     "end": 34.045
+    },
+    {
+     "w": "battery.",
+     "start": 34.045,
+     "end": 34.417
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 34.844,
+   "end": 38.104,
+   "text": "But it's so quiet that people crossing the street can't hear it coming.",
+   "words": [
+    {
+     "w": "But",
+     "start": 34.984,
+     "end": 35.196
+    },
+    {
+     "w": "it's",
+     "start": 35.196,
+     "end": 35.408
+    },
+    {
+     "w": "so",
+     "start": 35.408,
+     "end": 35.62
+    },
+    {
+     "w": "quiet",
+     "start": 35.62,
+     "end": 35.832
+    },
+    {
+     "w": "that",
+     "start": 35.832,
+     "end": 36.044
+    },
+    {
+     "w": "people",
+     "start": 36.044,
+     "end": 36.256
+    },
+    {
+     "w": "crossing",
+     "start": 36.256,
+     "end": 36.625
+    },
+    {
+     "w": "the",
+     "start": 36.625,
+     "end": 36.837
+    },
+    {
+     "w": "street",
+     "start": 36.837,
+     "end": 37.049
+    },
+    {
+     "w": "can't",
+     "start": 37.049,
+     "end": 37.261
+    },
+    {
+     "w": "hear",
+     "start": 37.261,
+     "end": 37.473
+    },
+    {
+     "w": "it",
+     "start": 37.473,
+     "end": 37.685
+    },
+    {
+     "w": "coming.",
+     "start": 37.685,
+     "end": 38.054
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 38.469,
+   "end": 43.156,
+   "text": "So below twenty kilometers an hour, it plays a sound on purpose. In Europe, it's the law.",
+   "words": [
+    {
+     "w": "So",
+     "start": 38.579,
+     "end": 38.762
+    },
+    {
+     "w": "below",
+     "start": 38.762,
+     "end": 39.082
+    },
+    {
+     "w": "twenty",
+     "start": 39.082,
+     "end": 39.401
+    },
+    {
+     "w": "kilometers",
+     "start": 39.401,
+     "end": 39.992
+    },
+    {
+     "w": "an",
+     "start": 39.992,
+     "end": 40.176
+    },
+    {
+     "w": "hour,",
+     "start": 40.176,
+     "end": 40.359
+    },
+    {
+     "w": "it",
+     "start": 40.509,
+     "end": 40.699
+    },
+    {
+     "w": "plays",
+     "start": 40.699,
+     "end": 40.889
+    },
+    {
+     "w": "a",
+     "start": 40.889,
+     "end": 41.079
+    },
+    {
+     "w": "sound",
+     "start": 41.079,
+     "end": 41.269
+    },
+    {
+     "w": "on",
+     "start": 41.269,
+     "end": 41.458
+    },
+    {
+     "w": "purpose.",
+     "start": 41.458,
+     "end": 41.789
+    },
+    {
+     "w": "In",
+     "start": 41.939,
+     "end": 42.096
+    },
+    {
+     "w": "Europe,",
+     "start": 42.096,
+     "end": 42.369
+    },
+    {
+     "w": "it's",
+     "start": 42.589,
+     "end": 42.752
+    },
+    {
+     "w": "the",
+     "start": 42.752,
+     "end": 42.916
+    },
+    {
+     "w": "law.",
+     "start": 42.916,
+     "end": 43.079
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 43.521,
+   "end": 47.094,
+   "text": "But before you hit the pedal, follow, because next we're building a smartphone.",
+   "words": [
+    {
+     "w": "But",
+     "start": 43.671,
+     "end": 43.889
+    },
+    {
+     "w": "before",
+     "start": 43.889,
+     "end": 44.268
+    },
+    {
+     "w": "you",
+     "start": 44.268,
+     "end": 44.486
+    },
+    {
+     "w": "hit",
+     "start": 44.486,
+     "end": 44.704
+    },
+    {
+     "w": "the",
+     "start": 44.704,
+     "end": 44.922
+    },
+    {
+     "w": "pedal,",
+     "start": 44.922,
+     "end": 45.301
+    },
+    {
+     "w": "follow,",
+     "start": 45.431,
+     "end": 45.709
+    },
+    {
+     "w": "because",
+     "start": 45.709,
+     "end": 45.987
+    },
+    {
+     "w": "next",
+     "start": 45.987,
+     "end": 46.146
+    },
+    {
+     "w": "we're",
+     "start": 46.146,
+     "end": 46.306
+    },
+    {
+     "w": "building",
+     "start": 46.306,
+     "end": 46.584
+    },
+    {
+     "w": "a",
+     "start": 46.584,
+     "end": 46.743
+    },
+    {
+     "w": "smartphone.",
+     "start": 46.743,
+     "end": 47.021
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 47.458,
+   "end": 50.938,
+   "text": "Now just plug it in at night, and in the morning it's full, like your phone.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 47.568,
+     "end": 47.742
+    },
+    {
+     "w": "just",
+     "start": 47.742,
+     "end": 47.917
+    },
+    {
+     "w": "plug",
+     "start": 47.917,
+     "end": 48.091
+    },
+    {
+     "w": "it",
+     "start": 48.091,
+     "end": 48.265
+    },
+    {
+     "w": "in",
+     "start": 48.265,
+     "end": 48.439
+    },
+    {
+     "w": "at",
+     "start": 48.439,
+     "end": 48.614
+    },
+    {
+     "w": "night,",
+     "start": 48.614,
+     "end": 48.788
+    },
+    {
+     "w": "and",
+     "start": 48.948,
+     "end": 49.114
+    },
+    {
+     "w": "in",
+     "start": 49.114,
+     "end": 49.28
+    },
+    {
+     "w": "the",
+     "start": 49.28,
+     "end": 49.446
+    },
+    {
+     "w": "morning",
+     "start": 49.446,
+     "end": 49.736
+    },
+    {
+     "w": "it's",
+     "start": 49.736,
+     "end": 49.902
+    },
+    {
+     "w": "full,",
+     "start": 49.902,
+     "end": 50.068
+    },
+    {
+     "w": "like",
+     "start": 50.238,
+     "end": 50.441
+    },
+    {
+     "w": "your",
+     "start": 50.441,
+     "end": 50.645
+    },
+    {
+     "w": "phone.",
+     "start": 50.645,
+     "end": 50.848
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.302,
+   "end": 56.927,
+   "text": "Eight thousand cells, one gear, and in Norway, ninety-six of every hundred new cars last year were electric.",
+   "words": [
+    {
+     "w": "Eight",
+     "start": 51.422,
+     "end": 51.612
+    },
+    {
+     "w": "thousand",
+     "start": 51.612,
+     "end": 51.942
+    },
+    {
+     "w": "cells,",
+     "start": 51.942,
+     "end": 52.132
+    },
+    {
+     "w": "one",
+     "start": 52.132,
+     "end": 52.322
+    },
+    {
+     "w": "gear,",
+     "start": 52.322,
+     "end": 52.512
+    },
+    {
+     "w": "and",
+     "start": 52.632,
+     "end": 52.792
+    },
+    {
+     "w": "in",
+     "start": 52.792,
+     "end": 52.953
+    },
+    {
+     "w": "Norway,",
+     "start": 52.953,
+     "end": 53.232
+    },
+    {
+     "w": "ninety-six",
+     "start": 53.392,
+     "end": 54.086
+    },
+    {
+     "w": "of",
+     "start": 54.086,
+     "end": 54.301
+    },
+    {
+     "w": "every",
+     "start": 54.301,
+     "end": 54.836
+    },
+    {
+     "w": "hundred",
+     "start": 54.836,
+     "end": 55.211
+    },
+    {
+     "w": "new",
+     "start": 55.211,
+     "end": 55.426
+    },
+    {
+     "w": "cars",
+     "start": 55.426,
+     "end": 55.641
+    },
+    {
+     "w": "last",
+     "start": 55.641,
+     "end": 55.857
+    },
+    {
+     "w": "year",
+     "start": 55.857,
+     "end": 56.072
+    },
+    {
+     "w": "were",
+     "start": 56.072,
+     "end": 56.288
+    },
+    {
+     "w": "electric.",
+     "start": 56.288,
+     "end": 56.822
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 57.292,
+   "end": 60.052,
+   "text": "And congrats, you just built an electric car yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 57.412,
+     "end": 57.622
+    },
+    {
+     "w": "congrats,",
+     "start": 57.622,
+     "end": 57.987
+    },
+    {
+     "w": "you",
+     "start": 57.987,
+     "end": 58.197
+    },
+    {
+     "w": "just",
+     "start": 58.197,
+     "end": 58.407
+    },
+    {
+     "w": "built",
+     "start": 58.407,
+     "end": 58.616
+    },
+    {
+     "w": "an",
+     "start": 58.616,
+     "end": 58.826
+    },
+    {
+     "w": "electric",
+     "start": 58.826,
+     "end": 59.347
+    },
+    {
+     "w": "car",
+     "start": 59.347,
+     "end": 59.557
+    },
+    {
+     "w": "yourself.",
+     "start": 59.557,
+     "end": 59.922
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 60.417,
+   "end": 63.969,
+   "text": "And your uncle still opens the hood to check the oil, and finds your groceries.",
+   "words": [
+    {
+     "w": "And",
+     "start": 60.537,
+     "end": 60.724
+    },
+    {
+     "w": "your",
+     "start": 60.724,
+     "end": 60.912
+    },
+    {
+     "w": "uncle",
+     "start": 60.912,
+     "end": 61.099
+    },
+    {
+     "w": "still",
+     "start": 61.099,
+     "end": 61.287
+    },
+    {
+     "w": "opens",
+     "start": 61.287,
+     "end": 61.613
+    },
+    {
+     "w": "the",
+     "start": 61.613,
+     "end": 61.8
+    },
+    {
+     "w": "hood",
+     "start": 61.8,
+     "end": 61.987
+    },
+    {
+     "w": "to",
+     "start": 61.987,
+     "end": 62.175
+    },
+    {
+     "w": "check",
+     "start": 62.175,
+     "end": 62.362
+    },
+    {
+     "w": "the",
+     "start": 62.362,
+     "end": 62.55
+    },
+    {
+     "w": "oil,",
+     "start": 62.55,
+     "end": 62.737
+    },
+    {
+     "w": "and",
+     "start": 62.897,
+     "end": 63.081
+    },
+    {
+     "w": "finds",
+     "start": 63.081,
+     "end": 63.266
+    },
+    {
+     "w": "your",
+     "start": 63.266,
+     "end": 63.45
+    },
+    {
+     "w": "groceries.",
+     "start": 63.45,
+     "end": 63.907
+    }
+   ]
+  }
+ ]
+}

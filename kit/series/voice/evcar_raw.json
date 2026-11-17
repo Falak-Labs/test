@@ -1,0 +1,91 @@
+{
+ "voice": "Easton",
+ "duration": 61.41,
+ "words": 228,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.59,
+   "text": "If you build a car with a trunk where the engine should be, that still beats a sports car off the line, congrats, you just built an electric car."
+  },
+  {
+   "line": 2,
+   "start": 6.94,
+   "end": 10.92,
+   "text": "But it needs a huge amount of energy, and batteries are heavy, hundreds of kilos."
+  },
+  {
+   "line": 3,
+   "start": 11.27,
+   "end": 16.02,
+   "text": "So you lay eight thousand cells flat under the floor, so the weight sits low and the car hugs the road."
+  },
+  {
+   "line": 4,
+   "start": 16.37,
+   "end": 20.69,
+   "text": "But a gas engine needs explosions, pistons and a gearbox before the wheels even turn."
+  },
+  {
+   "line": 5,
+   "start": 21.04,
+   "end": 24.86,
+   "text": "So you use an electric motor: full force from a standstill, and just one gear."
+  },
+  {
+   "line": 6,
+   "start": 25.21,
+   "end": 28.62,
+   "text": "But every time you brake, all that speed turns into heat and is gone."
+  },
+  {
+   "line": 7,
+   "start": 28.97,
+   "end": 33.1,
+   "text": "So when you lift your foot, the motor becomes a generator and puts energy back in the battery."
+  },
+  {
+   "line": 8,
+   "start": 33.45,
+   "end": 36.58,
+   "text": "But it's so quiet that people crossing the street can't hear it coming."
+  },
+  {
+   "line": 9,
+   "start": 36.93,
+   "end": 41.43,
+   "text": "So below twenty kilometers an hour, it plays a sound on purpose. In Europe, it's the law."
+  },
+  {
+   "line": 10,
+   "start": 41.78,
+   "end": 45.21,
+   "text": "But before you hit the pedal, follow, because next we're building a smartphone."
+  },
+  {
+   "line": 11,
+   "start": 45.56,
+   "end": 48.9,
+   "text": "Now just plug it in at night, and in the morning it's full, like your phone."
+  },
+  {
+   "line": 12,
+   "start": 49.25,
+   "end": 54.65,
+   "text": "Eight thousand cells, one gear, and in Norway, ninety-six of every hundred new cars last year were electric."
+  },
+  {
+   "line": 13,
+   "start": 55.0,
+   "end": 57.65,
+   "text": "And congrats, you just built an electric car yourself."
+  },
+  {
+   "line": 14,
+   "start": 58.0,
+   "end": 61.41,
+   "text": "And your uncle still opens the hood to check the oil, and finds your groceries."
+  }
+ ]
+}
