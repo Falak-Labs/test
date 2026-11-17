@@ -1,0 +1,7 @@
+evcar_ar_sa: 70.75s, 2123 frames
+cover out/evcar_ar_sa/cover.png: ['عربية كهربا'] (frame 0 of the video)
+video done in 458s
+audio done
+final out/evcar_ar_sa/evcar_ar_sa_final.mp4
+QA  duration 70.77s  loudness -14.0 LUFS  true peak -1.3 dBFS  1080x1920 @ 30/1  frames 2123
+QA sheet out/evcar_ar_sa/qa_sheet.png

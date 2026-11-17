@@ -1,0 +1,7 @@
+pyramid_ar_sa: 72.10s, 2163 frames
+cover out/pyramid_ar_sa/cover.png: ['الهرم الأكبر'] (frame 0 of the video)
+video done in 524s
+audio done
+final out/pyramid_ar_sa/pyramid_ar_sa_final.mp4
+QA  duration 72.10s  loudness -14.0 LUFS  true peak -1.5 dBFS  1080x1920 @ 30/1  frames 2163
+QA sheet out/pyramid_ar_sa/qa_sheet.png

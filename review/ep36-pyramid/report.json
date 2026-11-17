@@ -1,0 +1,136 @@
+{
+ "slug": "ep36-pyramid",
+ "kit": "pyramid",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.0,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "17/235",
+   "mix_lines_off": [
+    "L 1 2 diff  | If you stack over 2 million stone blocks into a mountain that once gleaned white, congrats, you just built the great pyramid of Diza.",
+    "L 4 2 diff  | But the white stone is across the river and the granite 900 kilometers away.",
+    "L 7 3 diff  | So above it, you stack five empty rooms of granite beams, an appointed roof that pushes the weight aside,",
+    "L12 7 diff  | 146 meters, 2.3 million blocks, and the world's tallest for 38 centuries.",
+    "L14 3 diff  | And 45 centuries later it still stands to shelf you put up last week on the floor."
+   ],
+   "size_mb": 15.1,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو رصّيت مليونين حجر وعملت منهم جبل كان أبيض وبيلمع، مبروك، كده انت بنيت الهرم الأكبر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الحجر الواحد أتقل من عربية، والزلاجة على الرملة بتغرز.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتصب مية على الرملة قدامها، الرملة المبلولة بتتماسك، ونص الرجالة بس يشدوها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الحجر الأبيض في البر التاني، والجرانيت في أسوان، على بعد تسعمية كيلو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتنقلهم في مراكب على النيل، لحد ميناء جنب الموقع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس أوضة الملك جوة خالص، وفوق سقفها جبل حجارة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتبني فوقها خمس أوض فاضية بكمرات جرانيت، وفوقهم سقف مدبب يزق التقل على الجناب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس لو القاعدة مايلة شبر، الأركان مش هتتقابل فوق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتظبط القاعدة لحد اتنين سنتي، وتوجّهه على الشمال، والغلط كسر صغير من درجة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تطلع فوق، تابعني، عشان اللي جاي هنبني برج هوا بيبرّد البيت.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس هات آلاف العمال، مش عبيد، ولبّسه حجر أبيض ملمّع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "مية وستة وأربعين متر، مليونين وتلتمية ألف حجر، وأطول مبنى في الدنيا تمانية وتلاتين قرن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت الهرم الأكبر بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وبعد أربع تلاف وخمسمية سنة لسه واقف، والرف اللي الصنايعي ركّبهولك امبارح، وقع النهارده.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 72.1,
+   "lufs": -14.0,
+   "peak": -1.5,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 15.6,
+   "cover": true
+  }
+ }
+}

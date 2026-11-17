@@ -1,0 +1,136 @@
+{
+ "slug": "ep34-evcar",
+ "kit": "evcar",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.07,
+   "lufs": -14.0,
+   "peak": -1.6,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "12/229",
+   "mix_lines_off": [
+    "L 3 2 diff  | So you lay 8,000 cells flat under the floor so the weight sits low and the car hugs the road.",
+    "L 6 1 diff  | But every time you break, all that speed turns into heat and is gone.",
+    "L 9 3 diff  | So below 20 km/h, it plays a sound on purpose. In Europe, it's the law.",
+    "L12 5 diff  | 8,000 cells, one gear, and in Norway, 96 of every 100 new cars last year were electric.",
+    "L14 1 diff  | And your uncle still opens the hood to check the oil and find your groceries."
+   ],
+   "size_mb": 17.0,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو عملت عربية مكان الموتور فيها شنطة، وبتسبق العربية السبور في الإشارة، مبروك، كده انت بنيت عربية كهربا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس العربية عايزة طاقة كتير، والبطاريات تقيلة أوي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فترص تمن تلاف خلية تحت الأرضية، فالتقل يبقى تحت والعربية تمسك في الأرض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس موتور البنزين عايز انفجارات وبساتم وفتيس عشان العجل يلف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتحط موتور كهربا، قوته كاملة من أول لحظة، وسرعة واحدة بس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس كل ما تدوس فرامل، الحركة دي بتتحول حرارة وتضيع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فلما ترفع رجلك، الموتور يقلب دينامو، ويرجّع كهربا للبطارية وانت بتهدّي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس العربية ساكتة أوي، واللي بيعدّي الشارع مش سامعها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فلحد عشرين كيلو في الساعة، تطلّع صوت مخصوص، وفي أوروبا ده قانون.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تدوس بنزين، تابعني، عشان اللي جاي هنبني موبايل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس اشحنها بالليل في البيت، والصبح تلاقيها مليانة زي موبايلك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "تمن تلاف خلية، وسرعة واحدة، وفي النرويج ستة وتسعين في المية من العربيات الجديدة كهربا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت عربية كهربا بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "والميكانيكي بتاع الحتة فتح الكبوت يشوف الزيت، لقى شنطة الخضار، وقالك: دي عايزة عمرة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 70.77,
+   "lufs": -14.0,
+   "peak": -1.3,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 17.5,
+   "cover": true
+  }
+ }
+}

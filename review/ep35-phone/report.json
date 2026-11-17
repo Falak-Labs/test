@@ -1,0 +1,136 @@
+{
+ "slug": "ep35-phone",
+ "kit": "phone",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.07,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "8/225",
+   "mix_lines_off": [
+    "L 2 2 diff  | But the first mobile phone weighed over a kilo, charged for 10 hours, and talked for 35 minutes.",
+    "L 3 1 diff  | So you shrink it all onto one chip the size of a fingernail, 19 billion switches.",
+    "L 9 1 diff  | So it listens to satellites 20,000 kilometers up, their clocks corrected for Einstein's relativity, or your map drifts 10 kilometers a day.",
+    "L11 1 diff  | Now just add a camera that merges 15 photos into one in the dark and put it in your pocket.",
+    "L12 3 diff  | 19 billion switches, 15 photos in one, and satellites 20,000 kilometers up."
+   ],
+   "size_mb": 13.1,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو شايل في جيبك ذاكرة أكتر مليون مرة من كمبيوتر رحلة القمر، وبتتفرج بيها على قطط، مبروك، كده انت بنيت موبايل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس أول موبايل كان أتقل من كيلو، يتشحن عشر ساعات، ويكلم نص ساعة وشوية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتحشر كل ده في شريحة قد ضفرك، فيها تسعتاشر مليار مفتاح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الإزاز مش حاسس بصباعك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتحط تحت الإزاز شبكة سلوك مش باينة، وصباعك يسحب شوية كهربا مكان اللمسة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الموبايل مش عارف انت ماسكه إزاي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحط شريحة أصغر من حباية رز، فيها حتة سيليكون على يايات تتحرك لما تميّله.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس الخريطة لازم تعرف انت فين بالظبط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فيسمع لأقمار صناعية فوق بعشرين ألف كيلو، وساعاتها متظبطة بنسبية أينشتاين، وإلا تتوه عشرة كيلو في اليوم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تفتح القفل، تابعني، عشان اللي جاي هنبني الهرم الأكبر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس ركّب كاميرا تجمع خمستاشر صورة في الضلمة في واحدة، وحطه في جيبك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "تسعتاشر مليار مفتاح، خمستاشر صورة في واحدة، وأقمار على عشرين ألف كيلو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت موبايل بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وأمك تقولك: انت على الموبايل طول اليوم! وبعدها تبعتلك عشرين صورة صباح الخير بالورد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -1.9,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 13.1,
+   "cover": true
+  }
+ }
+}
