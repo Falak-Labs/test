@@ -1,0 +1,91 @@
+{
+ "voice": "Easton",
+ "duration": 62.52,
+ "words": 226,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.82,
+   "text": "If you carry a million times the memory of the computer that flew to the Moon, and use it for cat videos, congrats, you just built a smartphone."
+  },
+  {
+   "line": 2,
+   "start": 7.17,
+   "end": 12.06,
+   "text": "But the first mobile phone weighed over a kilo, charged for ten hours, and talked for thirty-five minutes."
+  },
+  {
+   "line": 3,
+   "start": 12.41,
+   "end": 16.5,
+   "text": "So you shrink it all onto one chip the size of a fingernail: nineteen billion switches."
+  },
+  {
+   "line": 4,
+   "start": 16.85,
+   "end": 18.47,
+   "text": "But glass can't feel your finger."
+  },
+  {
+   "line": 5,
+   "start": 18.82,
+   "end": 23.75,
+   "text": "So under the glass you hide a grid of invisible wires, and your finger steals a little charge where it touches."
+  },
+  {
+   "line": 6,
+   "start": 24.1,
+   "end": 26.24,
+   "text": "But it has no idea which way you're holding it."
+  },
+  {
+   "line": 7,
+   "start": 26.59,
+   "end": 30.99,
+   "text": "So a chip smaller than a grain of rice holds a silicon weight on springs that moves when you tilt it."
+  },
+  {
+   "line": 8,
+   "start": 31.34,
+   "end": 33.61,
+   "text": "But the map needs to know exactly where you are."
+  },
+  {
+   "line": 9,
+   "start": 33.96,
+   "end": 40.78,
+   "text": "So it listens to satellites twenty thousand kilometers up, their clocks corrected for Einstein's relativity, or your map drifts ten kilometers a day."
+  },
+  {
+   "line": 10,
+   "start": 41.13,
+   "end": 45.25,
+   "text": "But before you unlock it, follow, because next we're building the Great Pyramid of Giza."
+  },
+  {
+   "line": 11,
+   "start": 45.6,
+   "end": 50.13,
+   "text": "Now just add a camera that merges fifteen photos into one in the dark, and put it in your pocket."
+  },
+  {
+   "line": 12,
+   "start": 50.48,
+   "end": 55.3,
+   "text": "Nineteen billion switches, fifteen photos in one, and satellites twenty thousand kilometers up."
+  },
+  {
+   "line": 13,
+   "start": 55.65,
+   "end": 58.1,
+   "text": "And congrats, you just built a smartphone yourself."
+  },
+  {
+   "line": 14,
+   "start": 58.45,
+   "end": 62.52,
+   "text": "And your mom says you're always on your phone, then sends you twenty good morning flower pictures."
+  }
+ ]
+}

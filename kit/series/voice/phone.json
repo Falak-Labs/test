@@ -1,0 +1,1252 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.1,
+ "words": 226,
+ "words_per_sec": 3.47,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 7.104,
+   "text": "If you carry a million times the memory of the computer that flew to the Moon, and use it for cat videos, congrats, you just built a smartphone.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.318
+    },
+    {
+     "w": "you",
+     "start": 0.318,
+     "end": 0.506
+    },
+    {
+     "w": "carry",
+     "start": 0.506,
+     "end": 0.833
+    },
+    {
+     "w": "a",
+     "start": 0.833,
+     "end": 1.021
+    },
+    {
+     "w": "million",
+     "start": 1.021,
+     "end": 1.348
+    },
+    {
+     "w": "times",
+     "start": 1.348,
+     "end": 1.675
+    },
+    {
+     "w": "the",
+     "start": 1.675,
+     "end": 1.863
+    },
+    {
+     "w": "memory",
+     "start": 1.863,
+     "end": 2.329
+    },
+    {
+     "w": "of",
+     "start": 2.329,
+     "end": 2.517
+    },
+    {
+     "w": "the",
+     "start": 2.517,
+     "end": 2.704
+    },
+    {
+     "w": "computer",
+     "start": 2.704,
+     "end": 3.171
+    },
+    {
+     "w": "that",
+     "start": 3.171,
+     "end": 3.359
+    },
+    {
+     "w": "flew",
+     "start": 3.359,
+     "end": 3.546
+    },
+    {
+     "w": "to",
+     "start": 3.546,
+     "end": 3.734
+    },
+    {
+     "w": "the",
+     "start": 3.734,
+     "end": 3.922
+    },
+    {
+     "w": "Moon,",
+     "start": 3.922,
+     "end": 4.11
+    },
+    {
+     "w": "and",
+     "start": 4.16,
+     "end": 4.375
+    },
+    {
+     "w": "use",
+     "start": 4.375,
+     "end": 4.59
+    },
+    {
+     "w": "it",
+     "start": 4.59,
+     "end": 4.805
+    },
+    {
+     "w": "for",
+     "start": 4.805,
+     "end": 5.02
+    },
+    {
+     "w": "cat",
+     "start": 5.02,
+     "end": 5.236
+    },
+    {
+     "w": "videos,",
+     "start": 5.236,
+     "end": 5.61
+    },
+    {
+     "w": "congrats,",
+     "start": 5.66,
+     "end": 5.75
+    },
+    {
+     "w": "you",
+     "start": 5.9,
+     "end": 6.099
+    },
+    {
+     "w": "just",
+     "start": 6.099,
+     "end": 6.297
+    },
+    {
+     "w": "built",
+     "start": 6.297,
+     "end": 6.496
+    },
+    {
+     "w": "a",
+     "start": 6.496,
+     "end": 6.694
+    },
+    {
+     "w": "smartphone.",
+     "start": 6.694,
+     "end": 7.04
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.469,
+   "end": 12.563,
+   "text": "But the first mobile phone weighed over a kilo, charged for ten hours, and talked for thirty-five minutes.",
+   "words": [
+    {
+     "w": "But",
+     "start": 7.609,
+     "end": 7.786
+    },
+    {
+     "w": "the",
+     "start": 7.786,
+     "end": 7.963
+    },
+    {
+     "w": "first",
+     "start": 7.963,
+     "end": 8.141
+    },
+    {
+     "w": "mobile",
+     "start": 8.141,
+     "end": 8.449
+    },
+    {
+     "w": "phone",
+     "start": 8.449,
+     "end": 8.626
+    },
+    {
+     "w": "weighed",
+     "start": 8.626,
+     "end": 8.935
+    },
+    {
+     "w": "over",
+     "start": 8.935,
+     "end": 9.243
+    },
+    {
+     "w": "a",
+     "start": 9.243,
+     "end": 9.421
+    },
+    {
+     "w": "kilo,",
+     "start": 9.421,
+     "end": 9.729
+    },
+    {
+     "w": "charged",
+     "start": 9.899,
+     "end": 10.236
+    },
+    {
+     "w": "for",
+     "start": 10.236,
+     "end": 10.429
+    },
+    {
+     "w": "ten",
+     "start": 10.429,
+     "end": 10.622
+    },
+    {
+     "w": "hours,",
+     "start": 10.622,
+     "end": 10.816
+    },
+    {
+     "w": "and",
+     "start": 10.816,
+     "end": 11.009
+    },
+    {
+     "w": "talked",
+     "start": 11.009,
+     "end": 11.346
+    },
+    {
+     "w": "for",
+     "start": 11.346,
+     "end": 11.539
+    },
+    {
+     "w": "thirty-five",
+     "start": 11.539,
+     "end": 12.019
+    },
+    {
+     "w": "minutes.",
+     "start": 12.019,
+     "end": 12.499
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.927,
+   "end": 17.188,
+   "text": "So you shrink it all onto one chip the size of a fingernail: nineteen billion switches.",
+   "words": [
+    {
+     "w": "So",
+     "start": 13.037,
+     "end": 13.229
+    },
+    {
+     "w": "you",
+     "start": 13.229,
+     "end": 13.421
+    },
+    {
+     "w": "shrink",
+     "start": 13.421,
+     "end": 13.613
+    },
+    {
+     "w": "it",
+     "start": 13.613,
+     "end": 13.805
+    },
+    {
+     "w": "all",
+     "start": 13.805,
+     "end": 13.998
+    },
+    {
+     "w": "onto",
+     "start": 13.998,
+     "end": 14.332
+    },
+    {
+     "w": "one",
+     "start": 14.332,
+     "end": 14.524
+    },
+    {
+     "w": "chip",
+     "start": 14.524,
+     "end": 14.716
+    },
+    {
+     "w": "the",
+     "start": 14.716,
+     "end": 14.908
+    },
+    {
+     "w": "size",
+     "start": 14.908,
+     "end": 15.1
+    },
+    {
+     "w": "of",
+     "start": 15.1,
+     "end": 15.293
+    },
+    {
+     "w": "a",
+     "start": 15.293,
+     "end": 15.485
+    },
+    {
+     "w": "fingernail:",
+     "start": 15.485,
+     "end": 15.961
+    },
+    {
+     "w": "nineteen",
+     "start": 15.961,
+     "end": 16.438
+    },
+    {
+     "w": "billion",
+     "start": 16.438,
+     "end": 16.773
+    },
+    {
+     "w": "switches.",
+     "start": 16.773,
+     "end": 17.107
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 17.552,
+   "end": 19.24,
+   "text": "But glass can't feel your finger.",
+   "words": [
+    {
+     "w": "But",
+     "start": 17.682,
+     "end": 17.902
+    },
+    {
+     "w": "glass",
+     "start": 17.902,
+     "end": 18.121
+    },
+    {
+     "w": "can't",
+     "start": 18.121,
+     "end": 18.341
+    },
+    {
+     "w": "feel",
+     "start": 18.341,
+     "end": 18.56
+    },
+    {
+     "w": "your",
+     "start": 18.56,
+     "end": 18.78
+    },
+    {
+     "w": "finger.",
+     "start": 18.78,
+     "end": 19.162
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.604,
+   "end": 24.74,
+   "text": "So under the glass you hide a grid of invisible wires, and your finger steals a little charge where it touches.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.714,
+     "end": 19.899
+    },
+    {
+     "w": "under",
+     "start": 19.899,
+     "end": 20.22
+    },
+    {
+     "w": "the",
+     "start": 20.22,
+     "end": 20.405
+    },
+    {
+     "w": "glass",
+     "start": 20.405,
+     "end": 20.59
+    },
+    {
+     "w": "you",
+     "start": 20.59,
+     "end": 20.775
+    },
+    {
+     "w": "hide",
+     "start": 20.775,
+     "end": 20.96
+    },
+    {
+     "w": "a",
+     "start": 20.96,
+     "end": 21.144
+    },
+    {
+     "w": "grid",
+     "start": 21.144,
+     "end": 21.329
+    },
+    {
+     "w": "of",
+     "start": 21.329,
+     "end": 21.514
+    },
+    {
+     "w": "invisible",
+     "start": 21.514,
+     "end": 21.972
+    },
+    {
+     "w": "wires,",
+     "start": 21.972,
+     "end": 22.294
+    },
+    {
+     "w": "and",
+     "start": 22.424,
+     "end": 22.62
+    },
+    {
+     "w": "your",
+     "start": 22.62,
+     "end": 22.816
+    },
+    {
+     "w": "finger",
+     "start": 22.816,
+     "end": 23.157
+    },
+    {
+     "w": "steals",
+     "start": 23.157,
+     "end": 23.353
+    },
+    {
+     "w": "a",
+     "start": 23.353,
+     "end": 23.549
+    },
+    {
+     "w": "little",
+     "start": 23.549,
+     "end": 23.745
+    },
+    {
+     "w": "charge",
+     "start": 23.745,
+     "end": 23.941
+    },
+    {
+     "w": "where",
+     "start": 23.941,
+     "end": 24.137
+    },
+    {
+     "w": "it",
+     "start": 24.137,
+     "end": 24.333
+    },
+    {
+     "w": "touches.",
+     "start": 24.333,
+     "end": 24.674
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 25.104,
+   "end": 27.333,
+   "text": "But it has no idea which way you're holding it.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.234,
+     "end": 25.411
+    },
+    {
+     "w": "it",
+     "start": 25.411,
+     "end": 25.588
+    },
+    {
+     "w": "has",
+     "start": 25.588,
+     "end": 25.764
+    },
+    {
+     "w": "no",
+     "start": 25.764,
+     "end": 25.941
+    },
+    {
+     "w": "idea",
+     "start": 25.941,
+     "end": 26.249
+    },
+    {
+     "w": "which",
+     "start": 26.249,
+     "end": 26.426
+    },
+    {
+     "w": "way",
+     "start": 26.426,
+     "end": 26.603
+    },
+    {
+     "w": "you're",
+     "start": 26.603,
+     "end": 26.779
+    },
+    {
+     "w": "holding",
+     "start": 26.779,
+     "end": 27.087
+    },
+    {
+     "w": "it.",
+     "start": 27.087,
+     "end": 27.264
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.698,
+   "end": 32.281,
+   "text": "So a chip smaller than a grain of rice holds a silicon weight on springs that moves when you tilt it.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.808,
+     "end": 27.991
+    },
+    {
+     "w": "a",
+     "start": 27.991,
+     "end": 28.174
+    },
+    {
+     "w": "chip",
+     "start": 28.174,
+     "end": 28.358
+    },
+    {
+     "w": "smaller",
+     "start": 28.358,
+     "end": 28.677
+    },
+    {
+     "w": "than",
+     "start": 28.677,
+     "end": 28.86
+    },
+    {
+     "w": "a",
+     "start": 28.86,
+     "end": 29.043
+    },
+    {
+     "w": "grain",
+     "start": 29.043,
+     "end": 29.226
+    },
+    {
+     "w": "of",
+     "start": 29.226,
+     "end": 29.409
+    },
+    {
+     "w": "rice",
+     "start": 29.409,
+     "end": 29.592
+    },
+    {
+     "w": "holds",
+     "start": 29.592,
+     "end": 29.776
+    },
+    {
+     "w": "a",
+     "start": 29.776,
+     "end": 29.959
+    },
+    {
+     "w": "silicon",
+     "start": 29.959,
+     "end": 30.414
+    },
+    {
+     "w": "weight",
+     "start": 30.414,
+     "end": 30.597
+    },
+    {
+     "w": "on",
+     "start": 30.597,
+     "end": 30.78
+    },
+    {
+     "w": "springs",
+     "start": 30.78,
+     "end": 30.963
+    },
+    {
+     "w": "that",
+     "start": 30.963,
+     "end": 31.146
+    },
+    {
+     "w": "moves",
+     "start": 31.146,
+     "end": 31.465
+    },
+    {
+     "w": "when",
+     "start": 31.465,
+     "end": 31.648
+    },
+    {
+     "w": "you",
+     "start": 31.648,
+     "end": 31.832
+    },
+    {
+     "w": "tilt",
+     "start": 31.832,
+     "end": 32.015
+    },
+    {
+     "w": "it.",
+     "start": 32.015,
+     "end": 32.198
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.646,
+   "end": 35.01,
+   "text": "But the map needs to know exactly where you are.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.786,
+     "end": 32.973
+    },
+    {
+     "w": "the",
+     "start": 32.973,
+     "end": 33.161
+    },
+    {
+     "w": "map",
+     "start": 33.161,
+     "end": 33.348
+    },
+    {
+     "w": "needs",
+     "start": 33.348,
+     "end": 33.535
+    },
+    {
+     "w": "to",
+     "start": 33.535,
+     "end": 33.722
+    },
+    {
+     "w": "know",
+     "start": 33.722,
+     "end": 33.91
+    },
+    {
+     "w": "exactly",
+     "start": 33.91,
+     "end": 34.374
+    },
+    {
+     "w": "where",
+     "start": 34.374,
+     "end": 34.561
+    },
+    {
+     "w": "you",
+     "start": 34.561,
+     "end": 34.749
+    },
+    {
+     "w": "are.",
+     "start": 34.749,
+     "end": 34.936
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.375,
+   "end": 42.479,
+   "text": "So it listens to satellites twenty thousand kilometers up, their clocks corrected for Einstein's relativity, or your map drifts ten kilometers a day.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.485,
+     "end": 35.665
+    },
+    {
+     "w": "it",
+     "start": 35.665,
+     "end": 35.845
+    },
+    {
+     "w": "listens",
+     "start": 35.845,
+     "end": 36.158
+    },
+    {
+     "w": "to",
+     "start": 36.158,
+     "end": 36.338
+    },
+    {
+     "w": "satellites",
+     "start": 36.338,
+     "end": 36.917
+    },
+    {
+     "w": "twenty",
+     "start": 36.917,
+     "end": 37.23
+    },
+    {
+     "w": "thousand",
+     "start": 37.23,
+     "end": 37.544
+    },
+    {
+     "w": "kilometers",
+     "start": 37.544,
+     "end": 38.123
+    },
+    {
+     "w": "up,",
+     "start": 38.123,
+     "end": 38.303
+    },
+    {
+     "w": "their",
+     "start": 38.303,
+     "end": 38.483
+    },
+    {
+     "w": "clocks",
+     "start": 38.483,
+     "end": 38.663
+    },
+    {
+     "w": "corrected",
+     "start": 38.663,
+     "end": 39.109
+    },
+    {
+     "w": "for",
+     "start": 39.109,
+     "end": 39.289
+    },
+    {
+     "w": "Einstein's",
+     "start": 39.289,
+     "end": 39.602
+    },
+    {
+     "w": "relativity,",
+     "start": 39.602,
+     "end": 40.315
+    },
+    {
+     "w": "or",
+     "start": 40.465,
+     "end": 40.657
+    },
+    {
+     "w": "your",
+     "start": 40.657,
+     "end": 40.848
+    },
+    {
+     "w": "map",
+     "start": 40.848,
+     "end": 41.04
+    },
+    {
+     "w": "drifts",
+     "start": 41.04,
+     "end": 41.232
+    },
+    {
+     "w": "ten",
+     "start": 41.232,
+     "end": 41.424
+    },
+    {
+     "w": "kilometers",
+     "start": 41.424,
+     "end": 42.042
+    },
+    {
+     "w": "a",
+     "start": 42.042,
+     "end": 42.233
+    },
+    {
+     "w": "day.",
+     "start": 42.233,
+     "end": 42.425
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 42.844,
+   "end": 47.135,
+   "text": "But before you unlock it, follow, because next we're building the Great Pyramid of Giza.",
+   "words": [
+    {
+     "w": "But",
+     "start": 42.994,
+     "end": 43.167
+    },
+    {
+     "w": "before",
+     "start": 43.167,
+     "end": 43.468
+    },
+    {
+     "w": "you",
+     "start": 43.468,
+     "end": 43.64
+    },
+    {
+     "w": "unlock",
+     "start": 43.64,
+     "end": 43.941
+    },
+    {
+     "w": "it,",
+     "start": 43.941,
+     "end": 44.114
+    },
+    {
+     "w": "follow,",
+     "start": 44.254,
+     "end": 44.604
+    },
+    {
+     "w": "because",
+     "start": 44.714,
+     "end": 45.035
+    },
+    {
+     "w": "next",
+     "start": 45.035,
+     "end": 45.219
+    },
+    {
+     "w": "we're",
+     "start": 45.219,
+     "end": 45.403
+    },
+    {
+     "w": "building",
+     "start": 45.403,
+     "end": 45.724
+    },
+    {
+     "w": "the",
+     "start": 45.724,
+     "end": 45.908
+    },
+    {
+     "w": "Great",
+     "start": 45.908,
+     "end": 46.092
+    },
+    {
+     "w": "Pyramid",
+     "start": 46.092,
+     "end": 46.549
+    },
+    {
+     "w": "of",
+     "start": 46.549,
+     "end": 46.733
+    },
+    {
+     "w": "Giza.",
+     "start": 46.733,
+     "end": 47.054
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 47.5,
+   "end": 52.219,
+   "text": "Now just add a camera that merges fifteen photos into one in the dark, and put it in your pocket.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 47.62,
+     "end": 47.8
+    },
+    {
+     "w": "just",
+     "start": 47.8,
+     "end": 47.98
+    },
+    {
+     "w": "add",
+     "start": 47.98,
+     "end": 48.16
+    },
+    {
+     "w": "a",
+     "start": 48.16,
+     "end": 48.339
+    },
+    {
+     "w": "camera",
+     "start": 48.339,
+     "end": 48.786
+    },
+    {
+     "w": "that",
+     "start": 48.786,
+     "end": 48.966
+    },
+    {
+     "w": "merges",
+     "start": 48.966,
+     "end": 49.279
+    },
+    {
+     "w": "fifteen",
+     "start": 49.279,
+     "end": 49.592
+    },
+    {
+     "w": "photos",
+     "start": 49.592,
+     "end": 49.905
+    },
+    {
+     "w": "into",
+     "start": 49.905,
+     "end": 50.218
+    },
+    {
+     "w": "one",
+     "start": 50.218,
+     "end": 50.398
+    },
+    {
+     "w": "in",
+     "start": 50.398,
+     "end": 50.578
+    },
+    {
+     "w": "the",
+     "start": 50.578,
+     "end": 50.758
+    },
+    {
+     "w": "dark,",
+     "start": 50.758,
+     "end": 50.938
+    },
+    {
+     "w": "and",
+     "start": 50.938,
+     "end": 51.117
+    },
+    {
+     "w": "put",
+     "start": 51.117,
+     "end": 51.297
+    },
+    {
+     "w": "it",
+     "start": 51.297,
+     "end": 51.477
+    },
+    {
+     "w": "in",
+     "start": 51.477,
+     "end": 51.657
+    },
+    {
+     "w": "your",
+     "start": 51.657,
+     "end": 51.837
+    },
+    {
+     "w": "pocket.",
+     "start": 51.837,
+     "end": 52.15
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 52.583,
+   "end": 57.604,
+   "text": "Nineteen billion switches, fifteen photos in one, and satellites twenty thousand kilometers up.",
+   "words": [
+    {
+     "w": "Nineteen",
+     "start": 52.663,
+     "end": 53.171
+    },
+    {
+     "w": "billion",
+     "start": 53.171,
+     "end": 53.527
+    },
+    {
+     "w": "switches,",
+     "start": 53.527,
+     "end": 53.883
+    },
+    {
+     "w": "fifteen",
+     "start": 53.883,
+     "end": 54.239
+    },
+    {
+     "w": "photos",
+     "start": 54.239,
+     "end": 54.595
+    },
+    {
+     "w": "in",
+     "start": 54.595,
+     "end": 54.799
+    },
+    {
+     "w": "one,",
+     "start": 54.799,
+     "end": 55.004
+    },
+    {
+     "w": "and",
+     "start": 55.004,
+     "end": 55.208
+    },
+    {
+     "w": "satellites",
+     "start": 55.208,
+     "end": 55.867
+    },
+    {
+     "w": "twenty",
+     "start": 55.867,
+     "end": 56.223
+    },
+    {
+     "w": "thousand",
+     "start": 56.223,
+     "end": 56.579
+    },
+    {
+     "w": "kilometers",
+     "start": 56.579,
+     "end": 57.238
+    },
+    {
+     "w": "up.",
+     "start": 57.238,
+     "end": 57.443
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 57.969,
+   "end": 60.521,
+   "text": "And congrats, you just built a smartphone yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.089,
+     "end": 58.348
+    },
+    {
+     "w": "congrats,",
+     "start": 58.348,
+     "end": 58.799
+    },
+    {
+     "w": "you",
+     "start": 58.939,
+     "end": 59.137
+    },
+    {
+     "w": "just",
+     "start": 59.137,
+     "end": 59.335
+    },
+    {
+     "w": "built",
+     "start": 59.335,
+     "end": 59.532
+    },
+    {
+     "w": "a",
+     "start": 59.532,
+     "end": 59.73
+    },
+    {
+     "w": "smartphone",
+     "start": 59.73,
+     "end": 60.075
+    },
+    {
+     "w": "yourself.",
+     "start": 60.075,
+     "end": 60.419
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 60.885,
+   "end": 65.125,
+   "text": "And your mom says you're always on your phone, then sends you twenty good morning flower pictures.",
+   "words": [
+    {
+     "w": "And",
+     "start": 61.015,
+     "end": 61.199
+    },
+    {
+     "w": "your",
+     "start": 61.199,
+     "end": 61.383
+    },
+    {
+     "w": "mom",
+     "start": 61.383,
+     "end": 61.566
+    },
+    {
+     "w": "says",
+     "start": 61.566,
+     "end": 61.75
+    },
+    {
+     "w": "you're",
+     "start": 61.75,
+     "end": 61.934
+    },
+    {
+     "w": "always",
+     "start": 61.934,
+     "end": 62.254
+    },
+    {
+     "w": "on",
+     "start": 62.254,
+     "end": 62.437
+    },
+    {
+     "w": "your",
+     "start": 62.437,
+     "end": 62.621
+    },
+    {
+     "w": "phone,",
+     "start": 62.621,
+     "end": 62.805
+    },
+    {
+     "w": "then",
+     "start": 62.975,
+     "end": 63.153
+    },
+    {
+     "w": "sends",
+     "start": 63.153,
+     "end": 63.33
+    },
+    {
+     "w": "you",
+     "start": 63.33,
+     "end": 63.508
+    },
+    {
+     "w": "twenty",
+     "start": 63.508,
+     "end": 63.818
+    },
+    {
+     "w": "good",
+     "start": 63.818,
+     "end": 63.995
+    },
+    {
+     "w": "morning",
+     "start": 63.995,
+     "end": 64.305
+    },
+    {
+     "w": "flower",
+     "start": 64.305,
+     "end": 64.614
+    },
+    {
+     "w": "pictures.",
+     "start": 64.614,
+     "end": 65.055
+    }
+   ]
+  }
+ ]
+}
