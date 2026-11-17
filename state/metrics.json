@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T02:55Z",
+ "generated": "2026-11-17T02:43Z",
  "channels": {
   "en.tiktok": {
    "id": "6af2d49862b70b94b0df5758",
@@ -39,19 +39,26 @@
   }
  },
  "posts": {
-  "ep30-stadium": {
+  "ep33-camel": {
+   "en.instagram": {
+    "sentAt": "2026-11-17T00:02:39.724Z",
+    "metricsUpdatedAt": "2026-11-16T04:16:22.160Z",
+    "metrics": {},
+    "raw": null,
+    "link": "https://www.instagram.com/reel/Df0mHusRuXo/"
+   },
    "en.tiktok": {
-    "sentAt": "2026-11-16T00:01:33.512Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.227Z",
+    "sentAt": "2026-11-17T00:03:37.440Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
-     "reactions": 6,
+     "reactions": 1,
      "comments": 0,
-     "engagementrate": 4.84,
-     "views": 124,
+     "engagementrate": 2.33,
+     "views": 43,
      "shares": 0,
      "reach": 0,
-     "totaltimewatched": 23.07,
-     "averagetimewatched": 11.07
+     "totaltimewatched": 3.5,
+     "averagetimewatched": 5.53
     },
     "raw": [
      {
@@ -59,7 +66,7 @@
       "name": "Reactions",
       "type": "reactions",
       "unit": "count",
-      "value": 6
+      "value": 1
      },
      {
       "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
@@ -73,14 +80,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 4.84
+      "value": 2.33
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 124
+      "value": 43
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -101,119 +108,34 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 23.07
+      "value": 3.5
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 11.07
+      "value": 5.53
      }
     ],
-    "link": "https://tiktok.com/@congratsengineer/video/7708552394774285581"
+    "link": "https://tiktok.com/@congratsengineer/video/7708923861533773069"
    },
-   "en.instagram": {
-    "sentAt": "2026-11-16T00:02:29.439Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.561Z",
+   "en.youtube": {
+    "sentAt": "2026-11-17T00:01:35.801Z",
+    "metricsUpdatedAt": "2026-11-17T00:03:45.039Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 0,
-     "shares": 0,
-     "saves": 0,
-     "totaltimewatched": 0,
-     "averagetimewatched": 0,
-     "reach": 0
+     "views": 0
     },
     "raw": [
      {
-      "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+      "description": "Also called Likes on YouTube. This shows how many people reacted to your post.",
       "name": "Reactions",
       "type": "reactions",
       "unit": "count",
       "value": 0
-     },
-     {
-      "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
-      "name": "Comments",
-      "type": "comments",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
-      "name": "Eng. Rate",
-      "type": "engagementRate",
-      "unit": "percentage",
-      "value": 0
-     },
-     {
-      "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
-      "name": "Views",
-      "type": "views",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
-      "name": "Shares",
-      "type": "shares",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
-      "name": "Saves",
-      "type": "saves",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "Total time watched in minutes",
-      "name": "Watch Time (min)",
-      "type": "totalTimeWatched",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
-      "name": "Avg. Watch Time (sec)",
-      "type": "averageTimeWatched",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
-      "name": "Reach",
-      "type": "reach",
-      "unit": "count",
-      "value": 0
-     }
-    ],
-    "link": "https://www.instagram.com/reel/DfyBTo9Bn5J/"
-   },
-   "ar.tiktok": {
-    "sentAt": "2026-11-15T23:02:06.169Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.508Z",
-    "metrics": {
-     "reactions": 1,
-     "comments": 0,
-     "engagementrate": 0.83,
-     "views": 120,
-     "shares": 0,
-     "reach": 0,
-     "totaltimewatched": 23.9,
-     "averagetimewatched": 12.26
-    },
-    "raw": [
-     {
-      "description": "Also called Likes on TikTok. This shows how many people reacted to your post.",
-      "name": "Reactions",
-      "type": "reactions",
-      "unit": "count",
-      "value": 1
      },
      {
       "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
@@ -227,141 +149,30 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 0.83
+      "value": 0
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 120
-     },
-     {
-      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
-      "name": "Shares",
-      "type": "shares",
-      "unit": "count",
       "value": 0
-     },
-     {
-      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
-      "name": "Reach",
-      "type": "reach",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "The total time people spent watching your video, added up over every view.",
-      "name": "Watch Time (min)",
-      "type": "totalTimeWatched",
-      "unit": "count",
-      "value": 23.9
-     },
-     {
-      "description": "How long people watched your video for on average. Shows how well the video holds attention.",
-      "name": "Avg. Watch Time (sec)",
-      "type": "averageTimeWatched",
-      "unit": "count",
-      "value": 12.26
      }
     ],
-    "link": "https://tiktok.com/@kef.tenbeni/video/7708537032959724814"
+    "link": "https://www.youtube.com/shorts/DxuZ0KzPodI"
    },
-   "ar.instagram": {
-    "sentAt": "2026-11-15T23:02:42.019Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.087Z",
+   "ar.tiktok": {
+    "sentAt": "2026-11-16T23:02:38.611Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
     "metrics": {
-     "reactions": 4,
+     "reactions": 2,
      "comments": 0,
-     "engagementrate": 1.14,
-     "views": 414,
-     "shares": 0,
-     "saves": 0,
-     "totaltimewatched": 133.82,
-     "averagetimewatched": 23.34,
-     "reach": 350
-    },
-    "raw": [
-     {
-      "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
-      "name": "Reactions",
-      "type": "reactions",
-      "unit": "count",
-      "value": 4
-     },
-     {
-      "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
-      "name": "Comments",
-      "type": "comments",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
-      "name": "Eng. Rate",
-      "type": "engagementRate",
-      "unit": "percentage",
-      "value": 1.14
-     },
-     {
-      "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
-      "name": "Views",
-      "type": "views",
-      "unit": "count",
-      "value": 414
-     },
-     {
-      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
-      "name": "Shares",
-      "type": "shares",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
-      "name": "Saves",
-      "type": "saves",
-      "unit": "count",
-      "value": 0
-     },
-     {
-      "description": "Total time watched in minutes",
-      "name": "Watch Time (min)",
-      "type": "totalTimeWatched",
-      "unit": "count",
-      "value": 133.82
-     },
-     {
-      "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
-      "name": "Avg. Watch Time (sec)",
-      "type": "averageTimeWatched",
-      "unit": "count",
-      "value": 23.34
-     },
-     {
-      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
-      "name": "Reach",
-      "type": "reach",
-      "unit": "count",
-      "value": 350
-     }
-    ],
-    "link": "https://www.instagram.com/reel/Dfx6ZGCBM0Q/"
-   }
-  },
-  "ep29-humanoid": {
-   "en.tiktok": {
-    "sentAt": "2026-11-15T18:03:56.504Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.227Z",
-    "metrics": {
-     "reactions": 1,
-     "comments": 0,
-     "engagementrate": 1.08,
+     "engagementrate": 2.15,
      "views": 93,
      "shares": 0,
      "reach": 0,
-     "totaltimewatched": 6.12,
-     "averagetimewatched": 3.91
+     "totaltimewatched": 15.65,
+     "averagetimewatched": 9.78
     },
     "raw": [
      {
@@ -369,7 +180,7 @@
       "name": "Reactions",
       "type": "reactions",
       "unit": "count",
-      "value": 1
+      "value": 2
      },
      {
       "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
@@ -383,7 +194,7 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 1.08
+      "value": 2.15
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
@@ -411,31 +222,31 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 6.12
+      "value": 15.65
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 3.91
+      "value": 9.78
      }
     ],
-    "link": "https://tiktok.com/@congratsengineer/video/7708459767638936845"
+    "link": "https://tiktok.com/@kef.tenbeni/video/7708908299848092942"
    },
-   "en.instagram": {
-    "sentAt": "2026-11-15T18:03:27.869Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+   "ar.instagram": {
+    "sentAt": "2026-11-16T23:02:35.952Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.460Z",
     "metrics": {
-     "reactions": 4,
+     "reactions": 1,
      "comments": 0,
-     "engagementrate": 0.68,
-     "views": 648,
+     "engagementrate": 0.7,
+     "views": 168,
      "shares": 0,
      "saves": 0,
-     "totaltimewatched": 141.87,
-     "averagetimewatched": 14.4,
-     "reach": 592
+     "totaltimewatched": 48.38,
+     "averagetimewatched": 20.16,
+     "reach": 143
     },
     "raw": [
      {
@@ -443,7 +254,7 @@
       "name": "Reactions",
       "type": "reactions",
       "unit": "count",
-      "value": 4
+      "value": 1
      },
      {
       "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
@@ -457,14 +268,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 0.68
+      "value": 0.7
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 648
+      "value": 168
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -485,21 +296,1321 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 141.87
+      "value": 48.38
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 14.4
+      "value": 20.16
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 592
+      "value": 143
+     }
+    ],
+    "link": "https://www.instagram.com/reel/Df0fR_phmju/"
+   },
+   "ar.youtube": {
+    "sentAt": "2026-11-16T23:01:31.182Z",
+    "metricsUpdatedAt": "2026-11-16T23:04:09.169Z",
+    "metrics": {
+     "reactions": 0,
+     "comments": 0,
+     "engagementrate": 0,
+     "views": 0
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on YouTube. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 0
+     }
+    ],
+    "link": "https://www.youtube.com/shorts/OF5v0935go8"
+   }
+  },
+  "ep32-telescope": {
+   "en.tiktok": {
+    "sentAt": "2026-11-16T18:04:44.946Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
+    "metrics": {
+     "reactions": 0,
+     "comments": 0,
+     "engagementrate": 0,
+     "views": 67,
+     "shares": 0,
+     "reach": 0,
+     "totaltimewatched": 3.33,
+     "averagetimewatched": 5.27
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on TikTok. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 67
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The total time people spent watching your video, added up over every view.",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 3.33
+     },
+     {
+      "description": "How long people watched your video for on average. Shows how well the video holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 5.27
+     }
+    ],
+    "link": "https://tiktok.com/@congratsengineer/video/7708831481099029790"
+   },
+   "en.instagram": {
+    "sentAt": "2026-11-16T18:04:32.919Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
+    "metrics": {
+     "reactions": 26,
+     "comments": 0,
+     "engagementrate": 2.45,
+     "views": 1278,
+     "shares": 0,
+     "saves": 0,
+     "totaltimewatched": 330.97,
+     "averagetimewatched": 18.68,
+     "reach": 1061
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 26
+     },
+     {
+      "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 2.45
+     },
+     {
+      "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+      "name": "Views",
+      "type": "views",
+      "unit": "count",
+      "value": 1278
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+      "name": "Saves",
+      "type": "saves",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "Total time watched in minutes",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 330.97
+     },
+     {
+      "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 18.68
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 1061
+     }
+    ],
+    "link": "https://www.instagram.com/reel/Dfz9ELYJ3sA/"
+   },
+   "en.youtube": {
+    "sentAt": "2026-11-16T22:24:52.112Z",
+    "metricsUpdatedAt": "2026-11-16T22:27:27.019Z",
+    "metrics": {
+     "reactions": 0,
+     "comments": 0,
+     "engagementrate": 0,
+     "views": 0
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on YouTube. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 0
+     }
+    ],
+    "link": "https://www.youtube.com/shorts/F5LyzorFAYw"
+   },
+   "ar.instagram": {
+    "sentAt": "2026-11-16T20:03:26.872Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.460Z",
+    "metrics": {
+     "reactions": 2,
+     "comments": 0,
+     "engagementrate": 1.49,
+     "views": 156,
+     "shares": 0,
+     "saves": 0,
+     "totaltimewatched": 33.61,
+     "averagetimewatched": 15.16,
+     "reach": 134
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 2
+     },
+     {
+      "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 1.49
+     },
+     {
+      "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+      "name": "Views",
+      "type": "views",
+      "unit": "count",
+      "value": 156
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+      "name": "Saves",
+      "type": "saves",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "Total time watched in minutes",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 33.61
+     },
+     {
+      "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 15.16
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 134
+     }
+    ],
+    "link": "https://www.instagram.com/reel/Df0KvpEAiwM/"
+   },
+   "ar.youtube": {
+    "sentAt": "2026-11-16T22:21:18.782Z",
+    "metricsUpdatedAt": "2026-11-16T22:23:59.224Z",
+    "metrics": {
+     "reactions": 0,
+     "comments": 0,
+     "engagementrate": 0,
+     "views": 0
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on YouTube. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 0
+     }
+    ],
+    "link": "https://www.youtube.com/shorts/NBw2ay3Hkrk"
+   }
+  },
+  "ep31-turbine": {
+   "en.instagram": {
+    "sentAt": "2026-11-16T14:02:38.526Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
+    "metrics": {
+     "reactions": 94,
+     "comments": 0,
+     "engagementrate": 3.42,
+     "views": 3469,
+     "shares": 4,
+     "saves": 2,
+     "totaltimewatched": 1203.41,
+     "averagetimewatched": 23.87,
+     "reach": 2956
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 94
+     },
+     {
+      "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 3.42
+     },
+     {
+      "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+      "name": "Views",
+      "type": "views",
+      "unit": "count",
+      "value": 3469
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 4
+     },
+     {
+      "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+      "name": "Saves",
+      "type": "saves",
+      "unit": "count",
+      "value": 2
+     },
+     {
+      "description": "Total time watched in minutes",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 1203.41
+     },
+     {
+      "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 23.87
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 2956
+     }
+    ],
+    "link": "https://www.instagram.com/reel/Dfzhe-aPmXM/"
+   },
+   "en.tiktok": {
+    "sentAt": "2026-11-16T14:04:33.883Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
+    "metrics": {
+     "reactions": 1,
+     "comments": 0,
+     "engagementrate": 1.27,
+     "views": 79,
+     "shares": 0,
+     "reach": 0,
+     "totaltimewatched": 14.87,
+     "averagetimewatched": 11.74
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on TikTok. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 1
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 1.27
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 79
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The total time people spent watching your video, added up over every view.",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 14.87
+     },
+     {
+      "description": "How long people watched your video for on average. Shows how well the video holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 11.74
+     }
+    ],
+    "link": "https://tiktok.com/@congratsengineer/video/7708769477931879694"
+   },
+   "en.youtube": {
+    "sentAt": "2026-11-16T22:24:58.564Z",
+    "metricsUpdatedAt": "2026-11-16T22:27:24.020Z",
+    "metrics": {
+     "reactions": 0,
+     "comments": 0,
+     "engagementrate": 0,
+     "views": 0
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on YouTube. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 0
+     }
+    ],
+    "link": "https://www.youtube.com/shorts/ihAabGRkyQA"
+   },
+   "ar.tiktok": {
+    "sentAt": "2026-11-17T01:40:16.763Z",
+    "metricsUpdatedAt": "2026-11-16T04:16:16.009Z",
+    "metrics": {
+     "reactions": 0,
+     "comments": 0,
+     "engagementrate": 0,
+     "views": 0,
+     "shares": 0,
+     "reach": 0,
+     "totaltimewatched": 0,
+     "averagetimewatched": 0
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on TikTok. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The total time people spent watching your video, added up over every view.",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How long people watched your video for on average. Shows how well the video holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 0
+     }
+    ],
+    "link": "https://tiktok.com/@kef.tenbeni/video/7708946697908522253"
+   },
+   "ar.youtube": {
+    "sentAt": "2026-11-16T22:21:26.613Z",
+    "metricsUpdatedAt": "2026-11-16T22:24:00.898Z",
+    "metrics": {
+     "reactions": 0,
+     "comments": 0,
+     "engagementrate": 0,
+     "views": 0
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on YouTube. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 0
+     }
+    ],
+    "link": "https://www.youtube.com/shorts/ErDwf6nkzSg"
+   },
+   "ar.instagram": {
+    "sentAt": "2026-11-16T17:06:56.132Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.460Z",
+    "metrics": {
+     "reactions": 2,
+     "comments": 0,
+     "engagementrate": 1.45,
+     "views": 165,
+     "shares": 0,
+     "saves": 0,
+     "totaltimewatched": 51.28,
+     "averagetimewatched": 21.98,
+     "reach": 138
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 2
+     },
+     {
+      "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 1.45
+     },
+     {
+      "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+      "name": "Views",
+      "type": "views",
+      "unit": "count",
+      "value": 165
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+      "name": "Saves",
+      "type": "saves",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "Total time watched in minutes",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 51.28
+     },
+     {
+      "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 21.98
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 138
+     }
+    ],
+    "link": "https://www.instagram.com/reel/Dfz2asrOiIz/"
+   }
+  },
+  "ep30-stadium": {
+   "en.tiktok": {
+    "sentAt": "2026-11-16T00:01:33.512Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
+    "metrics": {
+     "reactions": 20,
+     "comments": 0,
+     "engagementrate": 6.42,
+     "views": 327,
+     "shares": 1,
+     "reach": 0,
+     "totaltimewatched": 87.63,
+     "averagetimewatched": 15.84
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on TikTok. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 20
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 6.42
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 327
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 1
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The total time people spent watching your video, added up over every view.",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 87.63
+     },
+     {
+      "description": "How long people watched your video for on average. Shows how well the video holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 15.84
+     }
+    ],
+    "link": "https://tiktok.com/@congratsengineer/video/7708552394774285581"
+   },
+   "en.instagram": {
+    "sentAt": "2026-11-16T00:02:29.439Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
+    "metrics": {
+     "reactions": 67,
+     "comments": 0,
+     "engagementrate": 2.67,
+     "views": 3104,
+     "shares": 0,
+     "saves": 3,
+     "totaltimewatched": 1167.45,
+     "averagetimewatched": 25.66,
+     "reach": 2663
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 67
+     },
+     {
+      "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 2.67
+     },
+     {
+      "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+      "name": "Views",
+      "type": "views",
+      "unit": "count",
+      "value": 3104
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+      "name": "Saves",
+      "type": "saves",
+      "unit": "count",
+      "value": 3
+     },
+     {
+      "description": "Total time watched in minutes",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 1167.45
+     },
+     {
+      "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 25.66
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 2663
+     }
+    ],
+    "link": "https://www.instagram.com/reel/DfyBTo9Bn5J/"
+   },
+   "en.youtube": {
+    "sentAt": "2026-11-16T22:25:09.434Z",
+    "metricsUpdatedAt": "2026-11-16T22:27:32.086Z",
+    "metrics": {
+     "reactions": 0,
+     "comments": 0,
+     "engagementrate": 0,
+     "views": 0
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on YouTube. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 0
+     }
+    ],
+    "link": "https://www.youtube.com/shorts/h6OkJeFSUsM"
+   },
+   "ar.tiktok": {
+    "sentAt": "2026-11-15T23:02:06.169Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
+    "metrics": {
+     "reactions": 4,
+     "comments": 0,
+     "engagementrate": 1.8,
+     "views": 222,
+     "shares": 0,
+     "reach": 0,
+     "totaltimewatched": 62.17,
+     "averagetimewatched": 16.29
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on TikTok. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 4
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 1.8
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 222
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The total time people spent watching your video, added up over every view.",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 62.17
+     },
+     {
+      "description": "How long people watched your video for on average. Shows how well the video holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 16.29
+     }
+    ],
+    "link": "https://tiktok.com/@kef.tenbeni/video/7708537032959724814"
+   },
+   "ar.instagram": {
+    "sentAt": "2026-11-15T23:02:42.019Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.460Z",
+    "metrics": {
+     "reactions": 20,
+     "comments": 0,
+     "engagementrate": 2.26,
+     "views": 1244,
+     "shares": 2,
+     "saves": 2,
+     "totaltimewatched": 452.53,
+     "averagetimewatched": 25,
+     "reach": 1061
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 20
+     },
+     {
+      "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 2.26
+     },
+     {
+      "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+      "name": "Views",
+      "type": "views",
+      "unit": "count",
+      "value": 1244
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 2
+     },
+     {
+      "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+      "name": "Saves",
+      "type": "saves",
+      "unit": "count",
+      "value": 2
+     },
+     {
+      "description": "Total time watched in minutes",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 452.53
+     },
+     {
+      "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 25
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 1061
+     }
+    ],
+    "link": "https://www.instagram.com/reel/Dfx6ZGCBM0Q/"
+   },
+   "ar.youtube": {
+    "sentAt": "2026-11-16T22:21:08.294Z",
+    "metricsUpdatedAt": "2026-11-16T22:22:51.713Z",
+    "metrics": {
+     "reactions": 0,
+     "comments": 0,
+     "engagementrate": 0,
+     "views": 0
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on YouTube. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 0
+     }
+    ],
+    "link": "https://www.youtube.com/shorts/2S6YfmsMwzo"
+   }
+  },
+  "ep29-humanoid": {
+   "en.tiktok": {
+    "sentAt": "2026-11-15T18:03:56.504Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
+    "metrics": {
+     "reactions": 2,
+     "comments": 0,
+     "engagementrate": 1.64,
+     "views": 122,
+     "shares": 0,
+     "reach": 0,
+     "totaltimewatched": 11.72,
+     "averagetimewatched": 5.68
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on TikTok. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 2
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 1.64
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 122
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The total time people spent watching your video, added up over every view.",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 11.72
+     },
+     {
+      "description": "How long people watched your video for on average. Shows how well the video holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 5.68
+     }
+    ],
+    "link": "https://tiktok.com/@congratsengineer/video/7708459767638936845"
+   },
+   "en.instagram": {
+    "sentAt": "2026-11-15T18:03:27.869Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
+    "metrics": {
+     "reactions": 7,
+     "comments": 0,
+     "engagementrate": 0.87,
+     "views": 898,
+     "shares": 0,
+     "saves": 0,
+     "totaltimewatched": 309.81,
+     "averagetimewatched": 22.81,
+     "reach": 804
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on Instagram. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 7
+     },
+     {
+      "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 0.87
+     },
+     {
+      "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
+      "name": "Views",
+      "type": "views",
+      "unit": "count",
+      "value": 898
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many times people saved your post. A strong signal that your content is worth revisiting.",
+      "name": "Saves",
+      "type": "saves",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "Total time watched in minutes",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 309.81
+     },
+     {
+      "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 22.81
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 804
      }
     ],
     "link": "https://www.instagram.com/reel/DfxYHRIo1gV/"
@@ -547,16 +1658,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-15T20:02:17.894Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.508Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
     "metrics": {
-     "reactions": 2,
+     "reactions": 3,
      "comments": 0,
-     "engagementrate": 1.83,
-     "views": 109,
+     "engagementrate": 2.65,
+     "views": 113,
      "shares": 0,
      "reach": 0,
-     "totaltimewatched": 11.55,
-     "averagetimewatched": 6.19
+     "totaltimewatched": 12.6,
+     "averagetimewatched": 6.52
     },
     "raw": [
      {
@@ -564,7 +1675,7 @@
       "name": "Reactions",
       "type": "reactions",
       "unit": "count",
-      "value": 2
+      "value": 3
      },
      {
       "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
@@ -578,14 +1689,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 1.83
+      "value": 2.65
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 109
+      "value": 113
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -606,14 +1717,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 11.55
+      "value": 12.6
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 6.19
+      "value": 6.52
      }
     ],
     "link": "https://tiktok.com/@kef.tenbeni/video/7708490613183843597"
@@ -661,17 +1772,17 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-15T20:02:34.964Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.087Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.460Z",
     "metrics": {
-     "reactions": 3,
+     "reactions": 4,
      "comments": 0,
-     "engagementrate": 2.52,
-     "views": 145,
+     "engagementrate": 3.17,
+     "views": 152,
      "shares": 0,
      "saves": 0,
-     "totaltimewatched": 28.96,
-     "averagetimewatched": 14.36,
-     "reach": 119
+     "totaltimewatched": 30.85,
+     "averagetimewatched": 14.46,
+     "reach": 126
     },
     "raw": [
      {
@@ -679,7 +1790,7 @@
       "name": "Reactions",
       "type": "reactions",
       "unit": "count",
-      "value": 3
+      "value": 4
      },
      {
       "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
@@ -693,14 +1804,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 2.52
+      "value": 3.17
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 145
+      "value": 152
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -721,21 +1832,21 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 28.96
+      "value": 30.85
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 14.36
+      "value": 14.46
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 119
+      "value": 126
      }
     ],
     "link": "https://www.instagram.com/reel/Dfxl0E_sXVG/"
@@ -744,16 +1855,16 @@
   "ep28-bullettrain": {
    "en.tiktok": {
     "sentAt": "2026-11-15T14:02:24.368Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.227Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
-     "reactions": 13,
+     "reactions": 46,
      "comments": 0,
-     "engagementrate": 6.53,
-     "views": 199,
+     "engagementrate": 7.99,
+     "views": 576,
      "shares": 0,
      "reach": 0,
-     "totaltimewatched": 65.45,
-     "averagetimewatched": 19.44
+     "totaltimewatched": 206.2,
+     "averagetimewatched": 21.19
     },
     "raw": [
      {
@@ -761,7 +1872,7 @@
       "name": "Reactions",
       "type": "reactions",
       "unit": "count",
-      "value": 13
+      "value": 46
      },
      {
       "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
@@ -775,14 +1886,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 6.53
+      "value": 7.99
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 199
+      "value": 576
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -803,14 +1914,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 65.45
+      "value": 206.2
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 19.44
+      "value": 21.19
      }
     ],
     "link": "https://tiktok.com/@congratsengineer/video/7708397691822247182"
@@ -858,17 +1969,17 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-15T14:01:55.401Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
     "metrics": {
-     "reactions": 166,
+     "reactions": 169,
      "comments": 0,
-     "engagementrate": 5.48,
-     "views": 3788,
+     "engagementrate": 5.47,
+     "views": 3828,
      "shares": 0,
      "saves": 3,
-     "totaltimewatched": 1870.16,
-     "averagetimewatched": 33.93,
-     "reach": 3136
+     "totaltimewatched": 1884.08,
+     "averagetimewatched": 33.8,
+     "reach": 3201
     },
     "raw": [
      {
@@ -876,7 +1987,7 @@
       "name": "Reactions",
       "type": "reactions",
       "unit": "count",
-      "value": 166
+      "value": 169
      },
      {
       "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
@@ -890,14 +2001,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 5.48
+      "value": 5.47
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 3788
+      "value": 3828
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -918,38 +2029,111 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 1870.16
+      "value": 1884.08
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 33.93
+      "value": 33.8
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 3136
+      "value": 3201
      }
     ],
     "link": "https://www.instagram.com/reel/Dfw8mLShCBf/"
    },
+   "ar.tiktok": {
+    "sentAt": "2026-11-16T05:01:18.719Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
+    "metrics": {
+     "reactions": 15,
+     "comments": 1,
+     "engagementrate": 6.13,
+     "views": 261,
+     "shares": 0,
+     "reach": 0,
+     "totaltimewatched": 74.42,
+     "averagetimewatched": 16.36
+    },
+    "raw": [
+     {
+      "description": "Also called Likes on TikTok. This shows how many people reacted to your post.",
+      "name": "Reactions",
+      "type": "reactions",
+      "unit": "count",
+      "value": 15
+     },
+     {
+      "description": "The number of comments your post received. Shows when your post is starting conversations, not just getting seen.",
+      "name": "Comments",
+      "type": "comments",
+      "unit": "count",
+      "value": 1
+     },
+     {
+      "description": "The percentage of people who interacted with your post compared to how many saw it. Balances views and actions to show how compelling your posts are.",
+      "name": "Eng. Rate",
+      "type": "engagementRate",
+      "unit": "percentage",
+      "value": 6.13
+     },
+     {
+      "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
+      "name": "Video Views",
+      "type": "views",
+      "unit": "count",
+      "value": 261
+     },
+     {
+      "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
+      "name": "Shares",
+      "type": "shares",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
+      "name": "Reach",
+      "type": "reach",
+      "unit": "count",
+      "value": 0
+     },
+     {
+      "description": "The total time people spent watching your video, added up over every view.",
+      "name": "Watch Time (min)",
+      "type": "totalTimeWatched",
+      "unit": "count",
+      "value": 74.42
+     },
+     {
+      "description": "How long people watched your video for on average. Shows how well the video holds attention.",
+      "name": "Avg. Watch Time (sec)",
+      "type": "averageTimeWatched",
+      "unit": "count",
+      "value": 16.36
+     }
+    ],
+    "link": "https://tiktok.com/@kef.tenbeni/video/7708629668559211790"
+   },
    "ar.instagram": {
     "sentAt": "2026-11-15T17:02:57.092Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.087Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.460Z",
     "metrics": {
-     "reactions": 3,
+     "reactions": 4,
      "comments": 0,
-     "engagementrate": 3.15,
-     "views": 150,
+     "engagementrate": 3.85,
+     "views": 154,
      "shares": 0,
      "saves": 1,
-     "totaltimewatched": 47.49,
-     "averagetimewatched": 22.09,
-     "reach": 127
+     "totaltimewatched": 48.94,
+     "averagetimewatched": 22.08,
+     "reach": 130
     },
     "raw": [
      {
@@ -957,7 +2141,7 @@
       "name": "Reactions",
       "type": "reactions",
       "unit": "count",
-      "value": 3
+      "value": 4
      },
      {
       "description": "The number of comments and replies your post received. Shows when your post is starting conversations, not just getting seen.",
@@ -971,14 +2155,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 3.15
+      "value": 3.85
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 150
+      "value": 154
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -999,21 +2183,21 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 47.49
+      "value": 48.94
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 22.09
+      "value": 22.08
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 127
+      "value": 130
      }
     ],
     "link": "https://www.instagram.com/reel/DfxRTrlRF53/"
@@ -1063,16 +2247,16 @@
   "ep27-tunnel": {
    "en.instagram": {
     "sentAt": "2026-11-15T00:01:48.369Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
     "metrics": {
      "reactions": 17,
      "comments": 0,
      "engagementrate": 1.89,
-     "views": 1076,
+     "views": 1078,
      "shares": 0,
      "saves": 0,
-     "totaltimewatched": 366.23,
-     "averagetimewatched": 24.2,
+     "totaltimewatched": 367.1,
+     "averagetimewatched": 24.18,
      "reach": 898
     },
     "raw": [
@@ -1102,7 +2286,7 @@
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 1076
+      "value": 1078
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -1123,14 +2307,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 366.23
+      "value": 367.1
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 24.2
+      "value": 24.18
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
@@ -1144,16 +2328,16 @@
    },
    "en.tiktok": {
     "sentAt": "2026-11-15T00:02:29.933Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.227Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 53,
      "comments": 0,
-     "engagementrate": 5.75,
-     "views": 921,
+     "engagementrate": 5.74,
+     "views": 924,
      "shares": 0,
      "reach": 0,
-     "totaltimewatched": 298.98,
-     "averagetimewatched": 19.31
+     "totaltimewatched": 299.05,
+     "averagetimewatched": 19.25
     },
     "raw": [
      {
@@ -1175,14 +2359,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 5.75
+      "value": 5.74
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 921
+      "value": 924
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -1203,14 +2387,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 298.98
+      "value": 299.05
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 19.31
+      "value": 19.25
      }
     ],
     "link": "https://tiktok.com/@congratsengineer/video/7708181401790713102"
@@ -1258,17 +2442,17 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-14T20:02:33.555Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.087Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.460Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
-     "engagementrate": 0.71,
-     "views": 167,
+     "engagementrate": 0.7,
+     "views": 169,
      "shares": 0,
      "saves": 0,
-     "totaltimewatched": 54.63,
-     "averagetimewatched": 23.58,
-     "reach": 141
+     "totaltimewatched": 54.86,
+     "averagetimewatched": 23.34,
+     "reach": 143
     },
     "raw": [
      {
@@ -1290,14 +2474,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 0.71
+      "value": 0.7
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 167
+      "value": 169
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -1318,37 +2502,37 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 54.63
+      "value": 54.86
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 23.58
+      "value": 23.34
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 141
+      "value": 143
      }
     ],
     "link": "https://www.instagram.com/reel/DfvBDRXIhJT/"
    },
    "ar.tiktok": {
     "sentAt": "2026-11-14T20:02:07.243Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
     "metrics": {
      "reactions": 11,
      "comments": 0,
-     "engagementrate": 3.73,
-     "views": 295,
+     "engagementrate": 3.69,
+     "views": 298,
      "shares": 0,
-     "reach": 0,
-     "totaltimewatched": 88.02,
-     "averagetimewatched": 16.93
+     "reach": 144,
+     "totaltimewatched": 89.2,
+     "averagetimewatched": 16.99
     },
     "raw": [
      {
@@ -1370,14 +2554,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 3.73
+      "value": 3.69
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 295
+      "value": 298
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -1391,21 +2575,21 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 0
+      "value": 144
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 88.02
+      "value": 89.2
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 16.93
+      "value": 16.99
      }
     ],
     "link": "https://tiktok.com/@kef.tenbeni/video/7708119675309280526"
@@ -1455,16 +2639,16 @@
   "ep26-tower": {
    "en.instagram": {
     "sentAt": "2026-11-14T18:02:17.595Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
     "metrics": {
      "reactions": 94,
      "comments": 1,
      "engagementrate": 6.09,
-     "views": 2117,
+     "views": 2118,
      "shares": 0,
      "saves": 3,
-     "totaltimewatched": 870.62,
-     "averagetimewatched": 31.35,
+     "totaltimewatched": 870.65,
+     "averagetimewatched": 31.32,
      "reach": 1641
     },
     "raw": [
@@ -1494,7 +2678,7 @@
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 2117
+      "value": 2118
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -1515,14 +2699,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 870.62
+      "value": 870.65
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 31.35
+      "value": 31.32
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
@@ -1536,14 +2720,14 @@
    },
    "en.tiktok": {
     "sentAt": "2026-11-14T18:02:59.961Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.227Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 17,
      "comments": 0,
      "engagementrate": 5.56,
      "views": 324,
      "shares": 1,
-     "reach": 0,
+     "reach": 298,
      "totaltimewatched": 88.42,
      "averagetimewatched": 16.08
     },
@@ -1588,7 +2772,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 0
+      "value": 298
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -1650,16 +2834,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-14T22:31:00.016Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.508Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
     "metrics": {
      "reactions": 14,
      "comments": 1,
-     "engagementrate": 3.4,
-     "views": 441,
+     "engagementrate": 3.38,
+     "views": 444,
      "shares": 0,
-     "reach": 0,
-     "totaltimewatched": 144.18,
-     "averagetimewatched": 18.65
+     "reach": 98,
+     "totaltimewatched": 147.33,
+     "averagetimewatched": 18.85
     },
     "raw": [
      {
@@ -1681,14 +2865,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 3.4
+      "value": 3.38
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 441
+      "value": 444
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -1702,38 +2886,38 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 0
+      "value": 98
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 144.18
+      "value": 147.33
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 18.65
+      "value": 18.85
      }
     ],
     "link": "https://tiktok.com/@kef.tenbeni/video/7708158020064234765"
    },
    "ar.instagram": {
     "sentAt": "2026-11-14T17:02:32.371Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.087Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.460Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
-     "engagementrate": 25,
-     "views": 9,
+     "engagementrate": 20,
+     "views": 10,
      "shares": 0,
      "saves": 0,
-     "totaltimewatched": 1.44,
-     "averagetimewatched": 17.28,
-     "reach": 4
+     "totaltimewatched": 1.64,
+     "averagetimewatched": 14.02,
+     "reach": 5
     },
     "raw": [
      {
@@ -1755,14 +2939,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 25
+      "value": 20
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 9
+      "value": 10
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -1783,21 +2967,21 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 1.44
+      "value": 1.64
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 17.28
+      "value": 14.02
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 4
+      "value": 5
      }
     ],
     "link": "https://www.instagram.com/reel/DfusdsmPrCm/"
@@ -1847,14 +3031,14 @@
   "ep25-carrier": {
    "en.tiktok": {
     "sentAt": "2026-11-14T00:03:36.104Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 11,
      "comments": 0,
      "engagementrate": 3.33,
      "views": 330,
      "shares": 0,
-     "reach": 0,
+     "reach": 309,
      "totaltimewatched": 86.1,
      "averagetimewatched": 15.33
     },
@@ -1899,7 +3083,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 0
+      "value": 309
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -1920,7 +3104,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-14T01:46:02.256Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
     "metrics": {
      "reactions": 7,
      "comments": 0,
@@ -2042,17 +3226,17 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-13T20:03:22.764Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.087Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.460Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
-     "engagementrate": 0.81,
-     "views": 138,
+     "engagementrate": 0.8,
+     "views": 139,
      "shares": 0,
      "saves": 0,
-     "totaltimewatched": 42.27,
-     "averagetimewatched": 21.86,
-     "reach": 123
+     "totaltimewatched": 43.07,
+     "averagetimewatched": 21.9,
+     "reach": 125
     },
     "raw": [
      {
@@ -2074,14 +3258,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 0.81
+      "value": 0.8
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 138
+      "value": 139
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -2102,35 +3286,35 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 42.27
+      "value": 43.07
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 21.86
+      "value": 21.9
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 123
+      "value": 125
      }
     ],
     "link": "https://www.instagram.com/reel/DfscVuNzUR3/"
    },
    "ar.tiktok": {
     "sentAt": "2026-11-14T04:01:15.046Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
     "metrics": {
      "reactions": 5,
      "comments": 0,
      "engagementrate": 2.46,
      "views": 203,
      "shares": 0,
-     "reach": 0,
+     "reach": 180,
      "totaltimewatched": 48.98,
      "averagetimewatched": 14.13
     },
@@ -2175,7 +3359,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 0
+      "value": 180
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -2239,15 +3423,15 @@
   "ep24-nuclear": {
    "en.tiktok": {
     "sentAt": "2026-11-13T18:02:37.770Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 35,
      "comments": 0,
      "engagementrate": 0.5,
-     "views": 7226,
+     "views": 7231,
      "shares": 1,
-     "reach": 1,
-     "totaltimewatched": 988.73,
+     "reach": 6959,
+     "totaltimewatched": 989.02,
      "averagetimewatched": 7.38
     },
     "raw": [
@@ -2277,7 +3461,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 7226
+      "value": 7231
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -2291,14 +3475,14 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 1
+      "value": 6959
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 988.73
+      "value": 989.02
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
@@ -2312,17 +3496,17 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-13T18:03:53.880Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
     "metrics": {
      "reactions": 103,
      "comments": 0,
-     "engagementrate": 4.01,
-     "views": 3544,
+     "engagementrate": 4.04,
+     "views": 3546,
      "shares": 9,
-     "saves": 5,
-     "totaltimewatched": 1593.64,
-     "averagetimewatched": 32.53,
-     "reach": 2946
+     "saves": 6,
+     "totaltimewatched": 1595.5,
+     "averagetimewatched": 32.55,
+     "reach": 2948
     },
     "raw": [
      {
@@ -2344,14 +3528,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 4.01
+      "value": 4.04
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 3544
+      "value": 3546
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -2365,28 +3549,28 @@
       "name": "Saves",
       "type": "saves",
       "unit": "count",
-      "value": 5
+      "value": 6
      },
      {
       "description": "Total time watched in minutes",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 1593.64
+      "value": 1595.5
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 32.53
+      "value": 32.55
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 2946
+      "value": 2948
      }
     ],
     "link": "https://www.instagram.com/reel/DfsOrIiBXY_/"
@@ -2434,14 +3618,14 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-14T06:01:14.337Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
     "metrics": {
      "reactions": 7,
      "comments": 0,
      "engagementrate": 2.72,
      "views": 257,
      "shares": 0,
-     "reach": 0,
+     "reach": 216,
      "totaltimewatched": 61.13,
      "averagetimewatched": 13.19
     },
@@ -2486,7 +3670,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 0
+      "value": 216
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -2548,17 +3732,17 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-13T17:04:23.508Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.087Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
-     "engagementrate": 33.33,
-     "views": 5,
+     "engagementrate": 20,
+     "views": 6,
      "shares": 0,
      "saves": 0,
-     "totaltimewatched": 0.29,
-     "averagetimewatched": 5.89,
-     "reach": 3
+     "totaltimewatched": 0.39,
+     "averagetimewatched": 5.78,
+     "reach": 5
     },
     "raw": [
      {
@@ -2580,14 +3764,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 33.33
+      "value": 20
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 5
+      "value": 6
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -2608,21 +3792,21 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 0.29
+      "value": 0.39
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 5.89
+      "value": 5.78
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 3
+      "value": 5
      }
     ],
     "link": "https://www.instagram.com/reel/DfsH5d9TrwE/"
@@ -2631,14 +3815,14 @@
   "ep23-desal": {
    "en.tiktok": {
     "sentAt": "2026-11-13T00:02:53.514Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
      "views": 49,
      "shares": 0,
-     "reach": 39,
+     "reach": 43,
      "totaltimewatched": 16.1,
      "averagetimewatched": 18.59
     },
@@ -2683,7 +3867,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 39
+      "value": 43
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -2704,7 +3888,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-13T00:04:15.370Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.416Z",
     "metrics": {
      "reactions": 7,
      "comments": 0,
@@ -2826,14 +4010,14 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-13T01:01:34.827Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
      "views": 2,
      "shares": 0,
-     "reach": 1,
+     "reach": 2,
      "totaltimewatched": 2.28,
      "averagetimewatched": 27.46
     },
@@ -2878,7 +4062,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 1
+      "value": 2
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -2940,17 +4124,17 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-12T21:03:10.429Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.087Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
-     "engagementrate": 1.4,
-     "views": 173,
+     "engagementrate": 1.39,
+     "views": 174,
      "shares": 0,
      "saves": 1,
-     "totaltimewatched": 49.01,
-     "averagetimewatched": 20.71,
-     "reach": 143
+     "totaltimewatched": 49.03,
+     "averagetimewatched": 20.57,
+     "reach": 144
     },
     "raw": [
      {
@@ -2972,14 +4156,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 1.4
+      "value": 1.39
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 173
+      "value": 174
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -3000,21 +4184,21 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 49.01
+      "value": 49.03
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 20.71
+      "value": 20.57
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 143
+      "value": 144
      }
     ],
     "link": "https://www.instagram.com/reel/Dfp-So5tTDN/"
@@ -3023,14 +4207,14 @@
   "ep22-datacenter": {
    "en.tiktok": {
     "sentAt": "2026-11-12T18:02:30.666Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
      "engagementrate": 9.09,
      "views": 11,
      "shares": 0,
-     "reach": 5,
+     "reach": 7,
      "totaltimewatched": 6.43,
      "averagetimewatched": 29.77
     },
@@ -3075,7 +4259,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 5
+      "value": 7
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -3096,7 +4280,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-12T18:02:53.973Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 99,
      "comments": 0,
@@ -3218,16 +4402,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-12T19:02:51.637Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 5,
      "comments": 0,
-     "engagementrate": 2.82,
-     "views": 177,
+     "engagementrate": 2.79,
+     "views": 179,
      "shares": 0,
-     "reach": 152,
-     "totaltimewatched": 35.33,
-     "averagetimewatched": 11.59
+     "reach": 160,
+     "totaltimewatched": 35.45,
+     "averagetimewatched": 11.38
     },
     "raw": [
      {
@@ -3249,14 +4433,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 2.82
+      "value": 2.79
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 177
+      "value": 179
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -3270,28 +4454,28 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 152
+      "value": 160
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 35.33
+      "value": 35.45
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 11.59
+      "value": 11.38
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7707362217875787021?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "ar.instagram": {
     "sentAt": "2026-11-12T19:03:37.733Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.087Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
@@ -3415,14 +4599,14 @@
   "ep21-cruise": {
    "en.tiktok": {
     "sentAt": "2026-11-12T14:03:28.997Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 42,
      "comments": 0,
      "engagementrate": 7.79,
      "views": 539,
      "shares": 0,
-     "reach": 487,
+     "reach": 492,
      "totaltimewatched": 206.62,
      "averagetimewatched": 22.83
     },
@@ -3467,7 +4651,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 487
+      "value": 492
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -3488,17 +4672,17 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-12T14:02:59.889Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 58,
      "comments": 0,
      "engagementrate": 4,
-     "views": 1913,
+     "views": 1914,
      "shares": 2,
      "saves": 3,
      "totaltimewatched": 1027.48,
-     "averagetimewatched": 38.01,
-     "reach": 1623
+     "averagetimewatched": 37.98,
+     "reach": 1626
     },
     "raw": [
      {
@@ -3527,7 +4711,7 @@
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 1913
+      "value": 1914
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -3555,14 +4739,14 @@
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 38.01
+      "value": 37.98
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 1623
+      "value": 1626
      }
     ],
     "link": "https://www.instagram.com/reel/DfpORhEtKwW/"
@@ -3610,16 +4794,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-12T23:01:48.686Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.302Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 5,
+     "views": 6,
      "shares": 0,
-     "reach": 3,
-     "totaltimewatched": 2.57,
-     "averagetimewatched": 17.13
+     "reach": 4,
+     "totaltimewatched": 2.58,
+     "averagetimewatched": 15.56
     },
     "raw": [
      {
@@ -3648,7 +4832,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 5
+      "value": 6
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -3662,28 +4846,28 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 3
+      "value": 4
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 2.57
+      "value": 2.58
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 17.13
+      "value": 15.56
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7707423795463654669?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "ar.instagram": {
     "sentAt": "2026-11-12T17:02:19.579Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 3,
      "comments": 0,
@@ -3807,7 +4991,7 @@
   "ep20-racecar": {
    "en.tiktok": {
     "sentAt": "2026-11-12T02:21:47.864Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
@@ -3921,7 +5105,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-10T18:10:57.646Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 76,
      "comments": 0,
@@ -4043,7 +5227,7 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-12T02:17:38.813Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
@@ -4116,7 +5300,7 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T18:11:38.935Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 3,
      "comments": 0,
@@ -4199,7 +5383,7 @@
   "ep19-dam": {
    "en.tiktok": {
     "sentAt": "2026-11-12T02:20:42.922Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 2,
      "comments": 0,
@@ -4313,16 +5497,16 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-10T18:02:13.785Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 47,
      "comments": 0,
      "engagementrate": 3.83,
-     "views": 1619,
+     "views": 1620,
      "shares": 0,
      "saves": 3,
-     "totaltimewatched": 693.43,
-     "averagetimewatched": 30.59,
+     "totaltimewatched": 693.45,
+     "averagetimewatched": 30.57,
      "reach": 1333
     },
     "raw": [
@@ -4352,7 +5536,7 @@
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 1619
+      "value": 1620
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -4373,14 +5557,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 693.43
+      "value": 693.45
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 30.59
+      "value": 30.57
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
@@ -4435,14 +5619,14 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-12T06:01:18.759Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 4,
      "comments": 0,
      "engagementrate": 2.4,
      "views": 167,
      "shares": 0,
-     "reach": 153,
+     "reach": 155,
      "totaltimewatched": 29.03,
      "averagetimewatched": 9.68
     },
@@ -4487,7 +5671,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 153
+      "value": 155
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -4508,7 +5692,7 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T18:01:15.833Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 4,
      "comments": 0,
@@ -4591,16 +5775,16 @@
   "ep18-metro": {
    "en.tiktok": {
     "sentAt": "2026-11-12T02:19:42.556Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 3,
      "comments": 0,
-     "engagementrate": 1.65,
-     "views": 182,
+     "engagementrate": 1.64,
+     "views": 183,
      "shares": 0,
-     "reach": 153,
-     "totaltimewatched": 36.92,
-     "averagetimewatched": 12.31
+     "reach": 159,
+     "totaltimewatched": 36.93,
+     "averagetimewatched": 12.24
     },
     "raw": [
      {
@@ -4622,14 +5806,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 1.65
+      "value": 1.64
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 182
+      "value": 183
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -4643,21 +5827,21 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 153
+      "value": 159
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 36.92
+      "value": 36.93
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 12.31
+      "value": 12.24
      }
     ],
     "link": "https://www.tiktok.com/@congratsengineer/video/7707103512072572173?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
@@ -4705,7 +5889,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-10T17:51:09.817Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 8,
      "comments": 0,
@@ -4827,16 +6011,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-12T05:16:47.603Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
-     "engagementrate": 0.79,
-     "views": 127,
+     "engagementrate": 0.76,
+     "views": 132,
      "shares": 0,
-     "reach": 105,
-     "totaltimewatched": 14.98,
-     "averagetimewatched": 6.66
+     "reach": 108,
+     "totaltimewatched": 15.58,
+     "averagetimewatched": 6.68
     },
     "raw": [
      {
@@ -4858,14 +6042,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 0.79
+      "value": 0.76
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 127
+      "value": 132
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -4879,28 +6063,28 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 105
+      "value": 108
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 14.98
+      "value": 15.58
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 6.66
+      "value": 6.68
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7707149077577862413?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T17:53:06.775Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 4,
      "comments": 0,
@@ -4983,7 +6167,7 @@
   "ep17-vending": {
    "en.tiktok": {
     "sentAt": "2026-11-12T02:18:42.138Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 55,
      "comments": 0,
@@ -5056,7 +6240,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-10T17:41:03.314Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 8,
      "comments": 0,
@@ -5178,7 +6362,7 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-12T04:32:07.009Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
@@ -5251,17 +6435,17 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T17:43:03.461Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 3,
      "comments": 0,
-     "engagementrate": 2.08,
+     "engagementrate": 2.07,
      "views": 170,
      "shares": 0,
      "saves": 0,
      "totaltimewatched": 46.05,
      "averagetimewatched": 19.46,
-     "reach": 144
+     "reach": 145
     },
     "raw": [
      {
@@ -5283,7 +6467,7 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 2.08
+      "value": 2.07
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
@@ -5325,7 +6509,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 144
+      "value": 145
      }
     ],
     "link": "https://www.instagram.com/reel/DfkdvCUOZLB/"
@@ -5375,7 +6559,7 @@
   "ep16-bridge": {
    "en.tiktok": {
     "sentAt": "2026-11-12T02:17:42.977Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 7,
      "comments": 1,
@@ -5448,7 +6632,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-10T17:31:33.915Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 5,
      "comments": 0,
@@ -5570,16 +6754,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-12T03:46:45.494Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 137,
+     "views": 138,
      "shares": 0,
-     "reach": 123,
-     "totaltimewatched": 17.83,
-     "averagetimewatched": 7.54
+     "reach": 127,
+     "totaltimewatched": 17.88,
+     "averagetimewatched": 7.5
     },
     "raw": [
      {
@@ -5608,7 +6792,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 137
+      "value": 138
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -5622,37 +6806,37 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 123
+      "value": 127
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 17.83
+      "value": 17.88
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 7.54
+      "value": 7.5
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7707125917608430861?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T17:31:28.621Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 26,
      "comments": 0,
      "engagementrate": 1.97,
-     "views": 1788,
+     "views": 1790,
      "shares": 1,
      "saves": 3,
-     "totaltimewatched": 552.59,
-     "averagetimewatched": 21.84,
+     "totaltimewatched": 552.62,
+     "averagetimewatched": 21.81,
      "reach": 1520
     },
     "raw": [
@@ -5682,7 +6866,7 @@
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 1788
+      "value": 1790
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -5703,14 +6887,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 552.59
+      "value": 552.62
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 21.84
+      "value": 21.81
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
@@ -5767,14 +6951,14 @@
   "ep15-station": {
    "en.tiktok": {
     "sentAt": "2026-11-10T17:20:48.361Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 2,
      "comments": 0,
      "engagementrate": 0.66,
      "views": 304,
      "shares": 0,
-     "reach": 269,
+     "reach": 273,
      "totaltimewatched": 38.78,
      "averagetimewatched": 7.56
     },
@@ -5819,7 +7003,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 269
+      "value": 273
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -5840,7 +7024,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-10T17:23:05.175Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 5,
      "comments": 0,
@@ -5962,7 +7146,7 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T17:23:04.842Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 2,
      "comments": 0,
@@ -6043,16 +7227,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-11T03:32:43.333Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 3,
+     "views": 4,
      "shares": 0,
      "reach": 1,
-     "totaltimewatched": 0.13,
-     "averagetimewatched": 2.78
+     "totaltimewatched": 0.15,
+     "averagetimewatched": 2.3
     },
     "raw": [
      {
@@ -6081,7 +7265,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 3
+      "value": 4
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -6102,14 +7286,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 0.13
+      "value": 0.15
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 2.78
+      "value": 2.3
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706751258211798286?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
@@ -6159,7 +7343,7 @@
   "ep14-aircon": {
    "en.instagram": {
     "sentAt": "2026-11-10T17:12:21.621Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 48,
      "comments": 0,
@@ -6240,7 +7424,7 @@
    },
    "en.tiktok": {
     "sentAt": "2026-11-10T17:11:16.402Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 16,
      "comments": 0,
@@ -6354,16 +7538,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-11T03:31:06.416Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 7,
+     "views": 10,
      "shares": 0,
-     "reach": 2,
-     "totaltimewatched": 1.77,
-     "averagetimewatched": 13.34
+     "reach": 4,
+     "totaltimewatched": 3.1,
+     "averagetimewatched": 16.98
     },
     "raw": [
      {
@@ -6392,7 +7576,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 7
+      "value": 10
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -6406,28 +7590,28 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 2
+      "value": 4
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 1.77
+      "value": 3.1
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 13.34
+      "value": 16.98
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706751049536736526?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T17:12:22.703Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 29,
      "comments": 0,
@@ -6551,7 +7735,7 @@
   "ep13-vault": {
    "en.instagram": {
     "sentAt": "2026-11-10T17:02:20.290Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 5,
      "comments": 0,
@@ -6632,15 +7816,15 @@
    },
    "en.tiktok": {
     "sentAt": "2026-11-10T17:04:00.913Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 169,
      "comments": 0,
-     "engagementrate": 2.14,
-     "views": 7962,
+     "engagementrate": 2.13,
+     "views": 7964,
      "shares": 1,
-     "reach": 7522,
-     "totaltimewatched": 1176.52,
+     "reach": 7564,
+     "totaltimewatched": 1180.03,
      "averagetimewatched": 8.12
     },
     "raw": [
@@ -6663,14 +7847,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 2.14
+      "value": 2.13
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 7962
+      "value": 7964
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -6684,14 +7868,14 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 7522
+      "value": 7564
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 1176.52
+      "value": 1180.03
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
@@ -6746,16 +7930,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-11T03:29:41.924Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 3,
+     "views": 5,
      "shares": 0,
-     "reach": 1,
-     "totaltimewatched": 1.07,
-     "averagetimewatched": 10.78
+     "reach": 2,
+     "totaltimewatched": 1.25,
+     "averagetimewatched": 9.48
     },
     "raw": [
      {
@@ -6784,7 +7968,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 3
+      "value": 5
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -6798,28 +7982,28 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 1
+      "value": 2
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 1.07
+      "value": 1.25
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 10.78
+      "value": 9.48
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706750676319227150?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T17:01:58.958Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 16,
      "comments": 0,
@@ -6943,7 +8127,7 @@
   "ep12-fireworks": {
    "en.instagram": {
     "sentAt": "2026-11-10T16:51:00.537Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 69,
      "comments": 0,
@@ -7024,7 +8208,7 @@
    },
    "en.tiktok": {
     "sentAt": "2026-11-10T16:50:44.135Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
@@ -7138,7 +8322,7 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T16:50:56.780Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 4,
      "comments": 0,
@@ -7219,16 +8403,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-11T03:28:42.688Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 10,
+     "views": 13,
      "shares": 0,
-     "reach": 0,
-     "totaltimewatched": 2.52,
-     "averagetimewatched": 15.16
+     "reach": 2,
+     "totaltimewatched": 2.57,
+     "averagetimewatched": 11.92
     },
     "raw": [
      {
@@ -7257,7 +8441,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 10
+      "value": 13
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -7271,21 +8455,21 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 0
+      "value": 2
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 2.52
+      "value": 2.57
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 15.16
+      "value": 11.92
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706750422198897934?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
@@ -7335,7 +8519,7 @@
   "ep11-airplane": {
    "en.tiktok": {
     "sentAt": "2026-11-10T16:40:49.996Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
@@ -7408,7 +8592,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-10T16:43:02.605Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 32,
      "comments": 0,
@@ -7530,17 +8714,17 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T16:43:04.064Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 2,
      "comments": 0,
-     "engagementrate": 1.21,
-     "views": 184,
+     "engagementrate": 1.2,
+     "views": 185,
      "shares": 0,
      "saves": 0,
-     "totaltimewatched": 42.84,
-     "averagetimewatched": 15.67,
-     "reach": 165
+     "totaltimewatched": 43.13,
+     "averagetimewatched": 15.68,
+     "reach": 166
     },
     "raw": [
      {
@@ -7562,14 +8746,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 1.21
+      "value": 1.2
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 184
+      "value": 185
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -7590,37 +8774,37 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 42.84
+      "value": 43.13
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 15.67
+      "value": 15.68
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 165
+      "value": 166
      }
     ],
     "link": "https://www.instagram.com/reel/DfkW8ZJAUGA/"
    },
    "ar.tiktok": {
     "sentAt": "2026-11-11T03:27:42.554Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 8,
+     "views": 9,
      "shares": 0,
      "reach": 4,
-     "totaltimewatched": 1.92,
-     "averagetimewatched": 14.44
+     "totaltimewatched": 1.97,
+     "averagetimewatched": 11.8
     },
     "raw": [
      {
@@ -7649,7 +8833,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 8
+      "value": 9
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -7670,14 +8854,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 1.92
+      "value": 1.97
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 14.44
+      "value": 11.8
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706750193227681038?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
@@ -7727,7 +8911,7 @@
   "ep10-toilet": {
    "en.tiktok": {
     "sentAt": "2026-11-10T16:31:35.772Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
@@ -7736,7 +8920,7 @@
      "shares": 0,
      "reach": 10,
      "totaltimewatched": 6.67,
-     "averagetimewatched": 28.57
+     "averagetimewatched": 26.69
     },
     "raw": [
      {
@@ -7793,14 +8977,14 @@
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 28.57
+      "value": 26.69
      }
     ],
     "link": "https://www.tiktok.com/@congratsengineer/video/7706580909218188558?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "en.instagram": {
     "sentAt": "2026-11-10T16:32:37.108Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 26,
      "comments": 0,
@@ -7922,16 +9106,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-11T03:27:42.174Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 41,
+     "views": 55,
      "shares": 0,
-     "reach": 3,
-     "totaltimewatched": 2.93,
-     "averagetimewatched": 4.21
+     "reach": 20,
+     "totaltimewatched": 3.25,
+     "averagetimewatched": 3.55
     },
     "raw": [
      {
@@ -7960,7 +9144,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 41
+      "value": 55
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -7974,21 +9158,21 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 3
+      "value": 20
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 2.93
+      "value": 3.25
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 4.21
+      "value": 3.55
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706749898338700558?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
@@ -8036,7 +9220,7 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T16:32:46.266Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 13,
      "comments": 0,
@@ -8119,7 +9303,7 @@
   "ep09-submarine": {
    "en.instagram": {
     "sentAt": "2026-11-10T16:23:07.769Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 52,
      "comments": 0,
@@ -8200,16 +9384,16 @@
    },
    "en.tiktok": {
     "sentAt": "2026-11-10T16:20:51.400Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 55,
      "comments": 0,
      "engagementrate": 2.07,
      "views": 2662,
      "shares": 0,
-     "reach": 2425,
-     "totaltimewatched": 481.72,
-     "averagetimewatched": 10.35
+     "reach": 2426,
+     "totaltimewatched": 485.03,
+     "averagetimewatched": 10.39
     },
     "raw": [
      {
@@ -8252,21 +9436,21 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 2425
+      "value": 2426
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 481.72
+      "value": 485.03
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 10.35
+      "value": 10.39
      }
     ],
     "link": "https://www.tiktok.com/@congratsengineer/video/7706578225341680910?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
@@ -8314,16 +9498,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-11T03:26:43.315Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 5,
+     "views": 10,
      "shares": 0,
-     "reach": 0,
-     "totaltimewatched": 2.05,
-     "averagetimewatched": 17.59
+     "reach": 1,
+     "totaltimewatched": 2.3,
+     "averagetimewatched": 11.53
     },
     "raw": [
      {
@@ -8352,7 +9536,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 5
+      "value": 10
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -8366,28 +9550,28 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 0
+      "value": 1
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 2.05
+      "value": 2.3
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 17.59
+      "value": 11.53
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706749685813234957?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T16:21:08.167Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 28,
      "comments": 1,
@@ -8511,7 +9695,7 @@
   "ep08-claw": {
    "en.tiktok": {
     "sentAt": "2026-11-10T16:10:45.348Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
@@ -8584,7 +9768,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-10T16:10:59.212Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 46,
      "comments": 0,
@@ -8706,14 +9890,14 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-11T03:25:42.458Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.509Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
      "views": 1,
      "shares": 0,
-     "reach": 0,
+     "reach": 1,
      "totaltimewatched": 1.15,
      "averagetimewatched": 69.29
     },
@@ -8758,7 +9942,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 0
+      "value": 1
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
@@ -8820,7 +10004,7 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T16:10:58.760Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 35,
      "comments": 0,
@@ -8903,7 +10087,7 @@
   "ep07-castle": {
    "en.instagram": {
     "sentAt": "2026-11-10T16:01:55.796Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 6,
      "comments": 0,
@@ -8984,7 +10168,7 @@
    },
    "en.tiktok": {
     "sentAt": "2026-11-10T16:02:17.491Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.163Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
@@ -9098,16 +10282,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-10T16:50:45.100Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.510Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 0,
      "comments": 0,
      "engagementrate": 0,
-     "views": 12,
+     "views": 15,
      "shares": 0,
      "reach": 4,
-     "totaltimewatched": 2.83,
-     "averagetimewatched": 12.18
+     "totaltimewatched": 6.68,
+     "averagetimewatched": 23.65
     },
     "raw": [
      {
@@ -9136,7 +10320,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 12
+      "value": 15
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -9157,21 +10341,21 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 2.83
+      "value": 6.68
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 12.18
+      "value": 23.65
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706586090714500365?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T16:01:35.395Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 11,
      "comments": 0,
@@ -9295,7 +10479,7 @@
   "ep06-rocket": {
    "en.tiktok": {
     "sentAt": "2026-11-10T15:50:45.693Z",
-    "metricsUpdatedAt": "2026-11-16T02:32:57.228Z",
+    "metricsUpdatedAt": "2026-11-17T01:34:04.164Z",
     "metrics": {
      "reactions": 3,
      "comments": 0,
@@ -9368,7 +10552,7 @@
    },
    "en.instagram": {
     "sentAt": "2026-11-10T15:50:59.386Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 65,
      "comments": 0,
@@ -9490,16 +10674,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-10T15:50:46.836Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.510Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 4,
      "comments": 0,
-     "engagementrate": 2.11,
-     "views": 190,
+     "engagementrate": 2.02,
+     "views": 198,
      "shares": 0,
      "reach": 164,
-     "totaltimewatched": 41.63,
-     "averagetimewatched": 12.37
+     "totaltimewatched": 43.35,
+     "averagetimewatched": 12.39
     },
     "raw": [
      {
@@ -9521,14 +10705,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 2.11
+      "value": 2.02
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 190
+      "value": 198
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -9549,14 +10733,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 41.63
+      "value": 43.35
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 12.37
+      "value": 12.39
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706570601653226765?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
@@ -9604,7 +10788,7 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T15:50:59.999Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 3,
      "comments": 0,
@@ -9687,17 +10871,17 @@
   "ep05-waterslide": {
    "en.instagram": {
     "sentAt": "2026-11-10T07:22:56.901Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 66,
      "comments": 0,
      "engagementrate": 2.61,
-     "views": 3264,
+     "views": 3265,
      "shares": 1,
      "saves": 6,
-     "totaltimewatched": 1291.25,
+     "totaltimewatched": 1291.3,
      "averagetimewatched": 27.18,
-     "reach": 2831
+     "reach": 2832
     },
     "raw": [
      {
@@ -9726,7 +10910,7 @@
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 3264
+      "value": 3265
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -9747,7 +10931,7 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 1291.25
+      "value": 1291.3
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
@@ -9761,7 +10945,7 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 2831
+      "value": 2832
      }
     ],
     "link": "https://www.instagram.com/reel/DfjW-NEP2ap/"
@@ -9809,16 +10993,16 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T09:11:11.593Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 21,
      "comments": 0,
      "engagementrate": 1.05,
-     "views": 2409,
+     "views": 2410,
      "shares": 0,
      "saves": 0,
-     "totaltimewatched": 852.02,
-     "averagetimewatched": 24.68,
+     "totaltimewatched": 852.09,
+     "averagetimewatched": 24.67,
      "reach": 2009
     },
     "raw": [
@@ -9848,7 +11032,7 @@
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 2409
+      "value": 2410
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -9869,14 +11053,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 852.02
+      "value": 852.09
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 24.68
+      "value": 24.67
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
@@ -9890,16 +11074,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-10T09:10:56.553Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.510Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 2,
      "comments": 0,
      "engagementrate": 0.79,
-     "views": 253,
+     "views": 254,
      "shares": 0,
      "reach": 240,
-     "totaltimewatched": 60.1,
-     "averagetimewatched": 12.93
+     "totaltimewatched": 60.12,
+     "averagetimewatched": 12.88
     },
     "raw": [
      {
@@ -9928,7 +11112,7 @@
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 253
+      "value": 254
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -9949,14 +11133,14 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 60.1
+      "value": 60.12
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 12.93
+      "value": 12.88
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706467160310222093?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
@@ -10006,7 +11190,7 @@
   "ep04-coaster": {
    "en.instagram": {
     "sentAt": "2026-11-10T07:21:56.231Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.563Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 48,
      "comments": 0,
@@ -10169,16 +11353,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-10T09:05:56.397Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.510Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 2,
      "comments": 0,
-     "engagementrate": 0.88,
-     "views": 227,
+     "engagementrate": 0.87,
+     "views": 229,
      "shares": 0,
      "reach": 195,
-     "totaltimewatched": 44.02,
-     "averagetimewatched": 10.78
+     "totaltimewatched": 44.03,
+     "averagetimewatched": 10.7
     },
     "raw": [
      {
@@ -10200,14 +11384,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 0.88
+      "value": 0.87
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 227
+      "value": 229
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -10228,21 +11412,21 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 44.02
+      "value": 44.03
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 10.78
+      "value": 10.7
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706465880972004622?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T09:06:13.055Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 2,
      "comments": 0,
@@ -10325,7 +11509,7 @@
   "ep03-pool": {
    "en.instagram": {
     "sentAt": "2026-11-10T07:22:57.510Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.562Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 41,
      "comments": 0,
@@ -10447,17 +11631,17 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T09:04:42.868Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 33,
      "comments": 0,
-     "engagementrate": 1.76,
-     "views": 2254,
+     "engagementrate": 1.81,
+     "views": 2255,
      "shares": 0,
-     "saves": 1,
-     "totaltimewatched": 879.81,
+     "saves": 2,
+     "totaltimewatched": 880.42,
      "averagetimewatched": 27.06,
-     "reach": 1930
+     "reach": 1933
     },
     "raw": [
      {
@@ -10479,14 +11663,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 1.76
+      "value": 1.81
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 2254
+      "value": 2255
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -10500,14 +11684,14 @@
       "name": "Saves",
       "type": "saves",
       "unit": "count",
-      "value": 1
+      "value": 2
      },
      {
       "description": "Total time watched in minutes",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 879.81
+      "value": 880.42
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
@@ -10521,14 +11705,14 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 1930
+      "value": 1933
      }
     ],
     "link": "https://www.instagram.com/reel/DfjinPTBhk1/"
    },
    "ar.tiktok": {
     "sentAt": "2026-11-10T09:03:30.000Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.510Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 5,
      "comments": 1,
@@ -10644,17 +11828,17 @@
   "ep02-skyscraper": {
    "en.instagram": {
     "sentAt": "2026-11-10T07:21:55.142Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.563Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 121,
      "comments": 2,
      "engagementrate": 3.4,
-     "views": 4909,
+     "views": 4910,
      "shares": 1,
      "saves": 11,
-     "totaltimewatched": 2282.75,
-     "averagetimewatched": 33.1,
-     "reach": 4057
+     "totaltimewatched": 2282.86,
+     "averagetimewatched": 33.09,
+     "reach": 4058
     },
     "raw": [
      {
@@ -10683,7 +11867,7 @@
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 4909
+      "value": 4910
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -10704,21 +11888,21 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 2282.75
+      "value": 2282.86
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 33.1
+      "value": 33.09
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 4057
+      "value": 4058
      }
     ],
     "link": "https://www.instagram.com/reel/DfjWpAjiwUx/"
@@ -10766,7 +11950,7 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T08:56:13.060Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 2,
      "comments": 0,
@@ -10847,16 +12031,16 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-10T08:55:56.804Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.510Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 11,
      "comments": 0,
-     "engagementrate": 3.21,
-     "views": 343,
+     "engagementrate": 3.18,
+     "views": 346,
      "shares": 0,
-     "reach": 321,
-     "totaltimewatched": 129.87,
-     "averagetimewatched": 20.24
+     "reach": 328,
+     "totaltimewatched": 130.52,
+     "averagetimewatched": 20.18
     },
     "raw": [
      {
@@ -10878,14 +12062,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 3.21
+      "value": 3.18
      },
      {
       "description": "How many times your video was watched. Helps you understand how much attention your video content gets.",
       "name": "Video Views",
       "type": "views",
       "unit": "count",
-      "value": 343
+      "value": 346
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -10899,21 +12083,21 @@
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 321
+      "value": 328
      },
      {
       "description": "The total time people spent watching your video, added up over every view.",
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 129.87
+      "value": 130.52
      },
      {
       "description": "How long people watched your video for on average. Shows how well the video holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 20.24
+      "value": 20.18
      }
     ],
     "link": "https://www.tiktok.com/@kef.tenbeni/video/7706463287138962702?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
@@ -10963,17 +12147,17 @@
   "ep01-elevator": {
    "en.instagram": {
     "sentAt": "2026-11-10T07:12:58.645Z",
-    "metricsUpdatedAt": "2026-11-16T00:08:11.563Z",
+    "metricsUpdatedAt": "2026-11-16T23:08:21.417Z",
     "metrics": {
      "reactions": 77,
      "comments": 0,
-     "engagementrate": 3.48,
-     "views": 2701,
+     "engagementrate": 3.47,
+     "views": 2704,
      "shares": 1,
      "saves": 1,
-     "totaltimewatched": 1017.47,
-     "averagetimewatched": 25.66,
-     "reach": 2301
+     "totaltimewatched": 1017.69,
+     "averagetimewatched": 25.65,
+     "reach": 2304
     },
     "raw": [
      {
@@ -10995,14 +12179,14 @@
       "name": "Eng. Rate",
       "type": "engagementRate",
       "unit": "percentage",
-      "value": 3.48
+      "value": 3.47
      },
      {
       "description": "How many times your post was viewed. Helps you understand how much attention your content gets.",
       "name": "Views",
       "type": "views",
       "unit": "count",
-      "value": 2701
+      "value": 2704
      },
      {
       "description": "How many times your post was shared by others. A sign your content is reaching beyond your immediate audience.",
@@ -11023,21 +12207,21 @@
       "name": "Watch Time (min)",
       "type": "totalTimeWatched",
       "unit": "count",
-      "value": 1017.47
+      "value": 1017.69
      },
      {
       "description": "How long people watched your Reel for on average. Shows how well it holds attention.",
       "name": "Avg. Watch Time (sec)",
       "type": "averageTimeWatched",
       "unit": "count",
-      "value": 25.66
+      "value": 25.65
      },
      {
       "description": "How many unique people saw your post. Unlike impressions, each person is only counted once. Gives you a sense of how far your content spread.",
       "name": "Reach",
       "type": "reach",
       "unit": "count",
-      "value": 2301
+      "value": 2304
      }
     ],
     "link": "https://www.instagram.com/reel/DfjV1F2P0iT/"
@@ -11085,7 +12269,7 @@
    },
    "ar.tiktok": {
     "sentAt": "2026-11-10T08:50:56.935Z",
-    "metricsUpdatedAt": "2026-11-16T02:04:56.510Z",
+    "metricsUpdatedAt": "2026-11-17T01:05:57.303Z",
     "metrics": {
      "reactions": 1,
      "comments": 0,
@@ -11199,7 +12383,7 @@
    },
    "ar.instagram": {
     "sentAt": "2026-11-10T08:53:12.726Z",
-    "metricsUpdatedAt": "2026-11-16T01:53:22.088Z",
+    "metricsUpdatedAt": "2026-11-17T00:53:41.461Z",
     "metrics": {
      "reactions": 2,
      "comments": 0,
