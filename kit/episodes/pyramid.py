@@ -292,12 +292,12 @@ class Pyramid(EpisodeV2):
     FIRST_SET = "giza"
     CLEAR = "#160F2E"
     TITLE = {"en": "GREAT PYRAMID", "ar_sa": "الهرم الأكبر"}
-    EMPH = {"en": ["CONGRATS", "STACK", "TWO", "MILLION", "STONE", "BLOCKS", "MOUNTAIN", "GLEAMED", "WHITE", "GREAT",
+    EMPH = {"en": ["CONGRATS", "STACK", "TWO", "MILLION", "STONE", "BLOCKS", "MOUNTAIN", "SHINY", "WHITE", "GREAT",
                    "PYRAMID", "GIZA", "OUTWEIGH", "CAR", "SLEDGE", "DIGS", "POUR", "WATER", "FIRM", "HALF", "CREW",
                    "ACROSS", "RIVER", "GRANITE", "NINE", "HUNDRED", "FLOAT", "BOATS", "NILE", "HARBOR", "KING'S",
                    "DEEP", "ROOF", "FIVE", "EMPTY", "ROOMS", "BEAMS", "POINTED", "PUSHES", "ASIDE", "BASE", "HAND",
                    "CORNERS", "NEVER", "LEVEL", "CENTIMETERS", "NORTH", "TENTH", "DEGREE", "FOLLOW", "WIND", "TOWER",
-                   "COOLS", "THOUSANDS", "WORKERS", "SLAVES", "POLISHED", "FORTY-SIX", "TALLEST", "THIRTY-EIGHT",
+                   "COOLS", "THOUSANDS", "WORKERS", "SLAVES", "COVER", "POLISHED", "FORTY-SIX", "TALLEST", "THIRTY-EIGHT",
                    "CENTURIES", "YOURSELF", "FORTY-FIVE", "STANDS", "SHELF", "FLOOR"],
             "ar_sa": ["مبروك", "رصيت", "مليونين", "حجر", "جبل", "أبيض", "وبيلمع", "الهرم", "الأكبر", "أتقل", "عربية",
                       "والزلاجة", "بتغرز", "فتصب", "مية", "بتتماسك", "ونص", "الرجالة", "الأبيض", "البر", "التاني",
@@ -306,7 +306,7 @@ class Pyramid(EpisodeV2):
                       "فتظبط", "اتنين", "سنتي", "الشمال", "كسر", "تابعني", "برج", "هوا", "بيبرد", "آلاف", "العمال",
                       "عبيد", "ملمع", "وأطول", "قرن", "بإيدك", "واقف", "والرف", "الصنايعي", "وقع"]}
     KEYS = {"ar_sa": {
-        ("hook", "STACK"): "رصيت", ("hook", "MILLION"): "مليونين", ("hook", "MOUNTAIN"): "جبل", ("hook", "GLEAMED"): "وبيلمع",
+        ("hook", "STACK"): "رصيت", ("hook", "MILLION"): "مليونين", ("hook", "MOUNTAIN"): "جبل", ("hook", "SHINY"): "وبيلمع",
         ("hook", "CONGRATS"): "مبروك", ("hook", "PYRAMID"): "الهرم",
         ("break1", "OUTWEIGH"): "أتقل", ("break1", "CAR"): "عربية", ("break1", "SLEDGE"): "والزلاجة", ("break1", "DIGS"): "بتغرز",
         ("fix1", "POUR"): "فتصب", ("fix1", "WATER"): "مية", ("fix1", "FIRM"): "بتتماسك", ("fix1", "HALF"): "ونص",
@@ -320,13 +320,13 @@ class Pyramid(EpisodeV2):
         ("fix4", "LEVEL"): "فتظبط", ("fix4", "TWO"): "اتنين", ("fix4", "NORTH"): "الشمال", ("fix4", "DEGREE"): "درجة",
         ("cta", "FOLLOW"): "تابعني",
         ("reveal", "THOUSANDS"): "آلاف", ("reveal", "WORKERS"): "العمال", ("reveal", "SLAVES"): "عبيد",
-        ("reveal", "CASE"): "ولبسه", ("reveal", "POLISHED"): "ملمع",
+        ("reveal", "COVER"): "ولبسه", ("reveal", "POLISHED"): "ملمع",
         ("stat", "HUNDRED"): "مية", ("stat", "TWO"): "مليونين", ("stat", "TALLEST"): "وأطول",
         ("closer", "CONGRATS"): "مبروك",
         ("tag", "CENTURIES"): "سنة", ("tag", "STANDS"): "واقف", ("tag", "SHELF"): "والرف", ("tag", "FLOOR"): "وقع"}}
     TEXT = {"en": {"follow": ("FOLLOW", "next: a wind tower"),
                    "stat": [("146 m", "TALL WHEN NEW"), ("2,300,000", "BLOCKS"), ("3,800", "YEARS THE TALLEST")],
-                   "L": {"blocks": "2.3 MILLION BLOCKS", "white": "IT GLEAMED WHITE", "gp": "THE GREAT PYRAMID",
+                   "L": {"blocks": "2.3 MILLION BLOCKS", "white": "ONCE SHINY WHITE", "gp": "THE GREAT PYRAMID",
                          "car": "HEAVIER THAN A CAR", "digs": "IT DIGS IN", "water": "WATER ON THE SAND",
                          "firm": "WET SAND = FIRM", "half": "HALF THE CREW", "tura": "WHITE STONE: TURA",
                          "river": "ACROSS THE RIVER", "aswan": "GRANITE: ASWAN", "km": "900 km", "giza": "GIZA",
@@ -355,7 +355,7 @@ class Pyramid(EpisodeV2):
         s, e, T = self.tl.s, self.tl.e, self.T
         self.anchors({
             "stack": ("hook", "STACK", 0.05), "million": ("hook", "MILLION", 0.2), "mountain": ("hook", "MOUNTAIN", 0.45),
-            "gleamed": ("hook", "GLEAMED", 0.6), "congrats": ("hook", "CONGRATS", 0.7), "pyramid": ("hook", "PYRAMID", 0.9),
+            "gleamed": ("hook", "SHINY", 0.6), "congrats": ("hook", "CONGRATS", 0.7), "pyramid": ("hook", "PYRAMID", 0.9),
             "outweigh": ("break1", "OUTWEIGH", 0.2), "car": ("break1", "CAR", 0.4), "sledge": ("break1", "SLEDGE", 0.6),
             "digs": ("break1", "DIGS", 0.85),
             "pour": ("fix1", "POUR", 0.1), "water": ("fix1", "WATER", 0.2), "firm": ("fix1", "FIRM", 0.5),
@@ -374,7 +374,7 @@ class Pyramid(EpisodeV2):
             "degree": ("fix4", "DEGREE", 0.92),
             "follow": ("cta", "FOLLOW", 0.35),
             "thousands": ("reveal", "THOUSANDS", 0.15), "workers": ("reveal", "WORKERS", 0.3), "slaves": ("reveal", "SLAVES", 0.45),
-            "case": ("reveal", "CASE", 0.65), "polished": ("reveal", "POLISHED", 0.8),
+            "case": ("reveal", "COVER", 0.65), "polished": ("reveal", "POLISHED", 0.8),
             "s1": ("stat", "HUNDRED", 0.04), "s2": ("stat", "TWO", 0.35), "s3": ("stat", "TALLEST", 0.65),
             "cong2": ("closer", "CONGRATS", 0.16),
             "cent": ("tag", "CENTURIES", 0.2), "stands": ("tag", "STANDS", 0.4), "shelf": ("tag", "SHELF", 0.6),
