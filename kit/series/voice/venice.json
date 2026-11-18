@@ -2,8 +2,8 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 67.02,
- "words": 228,
+ "duration": 66.26,
+ "words": 225,
  "words_per_sec": 3.4,
  "lines": [
   {
@@ -127,1134 +127,1119 @@
   {
    "line": 2,
    "start": 6.125,
-   "end": 10.344,
-   "text": "But the lagoon floor is soft mud, and a stone palace sinks into it like a boot.",
+   "end": 9.958,
+   "text": "But the lagoon floor is soft mud, and a stone palace sinks like a boot.",
    "words": [
     {
      "w": "But",
      "start": 6.275,
-     "end": 6.501
+     "end": 6.502
     },
     {
      "w": "the",
-     "start": 6.501,
-     "end": 6.727
+     "start": 6.502,
+     "end": 6.73
     },
     {
      "w": "lagoon",
-     "start": 6.727,
-     "end": 7.121
+     "start": 6.73,
+     "end": 7.126
     },
     {
      "w": "floor",
-     "start": 7.121,
-     "end": 7.347
+     "start": 7.126,
+     "end": 7.353
     },
     {
      "w": "is",
-     "start": 7.347,
-     "end": 7.573
+     "start": 7.353,
+     "end": 7.58
     },
     {
      "w": "soft",
-     "start": 7.573,
-     "end": 7.799
+     "start": 7.58,
+     "end": 7.808
     },
     {
      "w": "mud,",
-     "start": 7.799,
-     "end": 8.025
+     "start": 7.808,
+     "end": 8.035
     },
     {
      "w": "and",
-     "start": 8.165,
-     "end": 8.348
+     "start": 8.195,
+     "end": 8.389
     },
     {
      "w": "a",
-     "start": 8.348,
-     "end": 8.531
+     "start": 8.389,
+     "end": 8.584
     },
     {
      "w": "stone",
-     "start": 8.531,
-     "end": 8.714
+     "start": 8.584,
+     "end": 8.778
     },
     {
      "w": "palace",
-     "start": 8.714,
-     "end": 9.032
+     "start": 8.778,
+     "end": 9.117
     },
     {
      "w": "sinks",
-     "start": 9.032,
-     "end": 9.215
-    },
-    {
-     "w": "into",
-     "start": 9.215,
-     "end": 9.533
-    },
-    {
-     "w": "it",
-     "start": 9.533,
-     "end": 9.716
+     "start": 9.117,
+     "end": 9.312
     },
     {
      "w": "like",
-     "start": 9.716,
-     "end": 9.899
+     "start": 9.312,
+     "end": 9.506
     },
     {
      "w": "a",
-     "start": 9.899,
-     "end": 10.082
+     "start": 9.506,
+     "end": 9.701
     },
     {
      "w": "boot.",
-     "start": 10.082,
-     "end": 10.265
+     "start": 9.701,
+     "end": 9.895
     }
    ]
   },
   {
    "line": 3,
-   "start": 10.708,
-   "end": 16.229,
-   "text": "So you hammer wooden piles into the mud by hand, nine on every square meter, and the crew sings to keep the beat.",
+   "start": 10.323,
+   "end": 15.698,
+   "text": "So you hammer wooden piles into the mud by hand, nine per square meter, while the crew sings to keep the beat.",
    "words": [
     {
      "w": "So",
-     "start": 10.818,
-     "end": 11.005
+     "start": 10.433,
+     "end": 10.62
     },
     {
      "w": "you",
-     "start": 11.005,
-     "end": 11.193
+     "start": 10.62,
+     "end": 10.808
     },
     {
      "w": "hammer",
-     "start": 11.193,
-     "end": 11.519
+     "start": 10.808,
+     "end": 11.134
     },
     {
      "w": "wooden",
-     "start": 11.519,
-     "end": 11.846
+     "start": 11.134,
+     "end": 11.461
     },
     {
      "w": "piles",
-     "start": 11.846,
-     "end": 12.172
+     "start": 11.461,
+     "end": 11.787
     },
     {
      "w": "into",
-     "start": 12.172,
-     "end": 12.498
+     "start": 11.787,
+     "end": 12.113
     },
     {
      "w": "the",
-     "start": 12.498,
-     "end": 12.686
+     "start": 12.113,
+     "end": 12.301
     },
     {
      "w": "mud",
-     "start": 12.686,
-     "end": 12.873
+     "start": 12.301,
+     "end": 12.488
     },
     {
      "w": "by",
-     "start": 12.873,
-     "end": 13.061
+     "start": 12.488,
+     "end": 12.676
     },
     {
      "w": "hand,",
-     "start": 13.061,
-     "end": 13.248
+     "start": 12.676,
+     "end": 12.863
     },
     {
      "w": "nine",
-     "start": 13.388,
-     "end": 13.571
+     "start": 12.993,
+     "end": 13.227
     },
     {
-     "w": "on",
-     "start": 13.571,
-     "end": 13.754
-    },
-    {
-     "w": "every",
-     "start": 13.754,
-     "end": 14.207
+     "w": "per",
+     "start": 13.227,
+     "end": 13.461
     },
     {
      "w": "square",
-     "start": 14.207,
-     "end": 14.39
+     "start": 13.461,
+     "end": 13.695
     },
     {
      "w": "meter,",
-     "start": 14.39,
-     "end": 14.708
+     "start": 13.695,
+     "end": 14.103
     },
     {
-     "w": "and",
-     "start": 14.878,
-     "end": 15.034
+     "w": "while",
+     "start": 14.253,
+     "end": 14.426
     },
     {
      "w": "the",
-     "start": 15.034,
-     "end": 15.19
+     "start": 14.426,
+     "end": 14.598
     },
     {
      "w": "crew",
-     "start": 15.19,
-     "end": 15.347
+     "start": 14.598,
+     "end": 14.771
     },
     {
      "w": "sings",
-     "start": 15.347,
-     "end": 15.503
+     "start": 14.771,
+     "end": 14.943
     },
     {
      "w": "to",
-     "start": 15.503,
-     "end": 15.659
+     "start": 14.943,
+     "end": 15.116
     },
     {
      "w": "keep",
-     "start": 15.659,
-     "end": 15.816
+     "start": 15.116,
+     "end": 15.288
     },
     {
      "w": "the",
-     "start": 15.816,
-     "end": 15.972
+     "start": 15.288,
+     "end": 15.461
     },
     {
      "w": "beat.",
-     "start": 15.972,
-     "end": 16.128
+     "start": 15.461,
+     "end": 15.633
     }
    ]
   },
   {
    "line": 4,
-   "start": 16.594,
-   "end": 19.062,
+   "start": 16.062,
+   "end": 18.531,
    "text": "But the piles are too short to reach solid rock.",
    "words": [
     {
      "w": "But",
-     "start": 16.734,
-     "end": 16.933
+     "start": 16.202,
+     "end": 16.4
     },
     {
      "w": "the",
-     "start": 16.933,
-     "end": 17.131
+     "start": 16.4,
+     "end": 16.597
     },
     {
      "w": "piles",
-     "start": 17.131,
-     "end": 17.477
+     "start": 16.597,
+     "end": 16.942
     },
     {
      "w": "are",
-     "start": 17.477,
-     "end": 17.675
+     "start": 16.942,
+     "end": 17.139
     },
     {
      "w": "too",
-     "start": 17.675,
-     "end": 17.874
+     "start": 17.139,
+     "end": 17.337
     },
     {
      "w": "short",
-     "start": 17.874,
-     "end": 18.073
+     "start": 17.337,
+     "end": 17.535
     },
     {
      "w": "to",
-     "start": 18.073,
-     "end": 18.271
+     "start": 17.535,
+     "end": 17.732
     },
     {
      "w": "reach",
-     "start": 18.271,
-     "end": 18.47
+     "start": 17.732,
+     "end": 17.93
     },
     {
      "w": "solid",
-     "start": 18.47,
-     "end": 18.815
+     "start": 17.93,
+     "end": 18.274
     },
     {
      "w": "rock.",
-     "start": 18.815,
-     "end": 19.014
+     "start": 18.274,
+     "end": 18.472
     }
    ]
   },
   {
    "line": 5,
-   "start": 19.427,
-   "end": 25.125,
+   "start": 18.896,
+   "end": 24.594,
    "text": "So you drive them in a spiral, from the outside in, until the mud squeezes them so tight that friction holds the weight.",
    "words": [
     {
      "w": "So",
-     "start": 19.537,
-     "end": 19.718
+     "start": 19.006,
+     "end": 19.187
     },
     {
      "w": "you",
-     "start": 19.718,
-     "end": 19.899
+     "start": 19.187,
+     "end": 19.368
     },
     {
      "w": "drive",
-     "start": 19.899,
-     "end": 20.08
+     "start": 19.368,
+     "end": 19.549
     },
     {
      "w": "them",
-     "start": 20.08,
-     "end": 20.26
+     "start": 19.549,
+     "end": 19.729
     },
     {
      "w": "in",
-     "start": 20.26,
-     "end": 20.441
+     "start": 19.729,
+     "end": 19.91
     },
     {
      "w": "a",
-     "start": 20.441,
-     "end": 20.622
+     "start": 19.91,
+     "end": 20.091
     },
     {
      "w": "spiral,",
-     "start": 20.622,
-     "end": 20.937
+     "start": 20.091,
+     "end": 20.406
     },
     {
      "w": "from",
-     "start": 21.107,
-     "end": 21.305
+     "start": 20.576,
+     "end": 20.774
     },
     {
      "w": "the",
-     "start": 21.305,
-     "end": 21.504
+     "start": 20.774,
+     "end": 20.973
     },
     {
      "w": "outside",
-     "start": 21.504,
-     "end": 21.849
+     "start": 20.973,
+     "end": 21.318
     },
     {
      "w": "in,",
-     "start": 21.849,
-     "end": 22.047
+     "start": 21.318,
+     "end": 21.516
     },
     {
      "w": "until",
-     "start": 22.197,
-     "end": 22.546
+     "start": 21.666,
+     "end": 22.015
     },
     {
      "w": "the",
-     "start": 22.546,
-     "end": 22.746
+     "start": 22.015,
+     "end": 22.215
     },
     {
      "w": "mud",
-     "start": 22.746,
-     "end": 22.947
+     "start": 22.215,
+     "end": 22.416
     },
     {
      "w": "squeezes",
-     "start": 22.947,
-     "end": 23.295
+     "start": 22.416,
+     "end": 22.764
     },
     {
      "w": "them",
-     "start": 23.295,
-     "end": 23.496
+     "start": 22.764,
+     "end": 22.965
     },
     {
      "w": "so",
-     "start": 23.496,
-     "end": 23.696
+     "start": 22.965,
+     "end": 23.165
     },
     {
      "w": "tight",
-     "start": 23.696,
-     "end": 23.897
+     "start": 23.165,
+     "end": 23.366
     },
     {
      "w": "that",
-     "start": 23.897,
-     "end": 24.097
+     "start": 23.366,
+     "end": 23.566
     },
     {
      "w": "friction",
-     "start": 24.097,
-     "end": 24.446
+     "start": 23.566,
+     "end": 23.915
     },
     {
      "w": "holds",
-     "start": 24.446,
-     "end": 24.646
+     "start": 23.915,
+     "end": 24.115
     },
     {
      "w": "the",
-     "start": 24.646,
-     "end": 24.847
+     "start": 24.115,
+     "end": 24.316
     },
     {
      "w": "weight.",
-     "start": 24.847,
-     "end": 25.047
+     "start": 24.316,
+     "end": 24.516
     }
    ]
   },
   {
    "line": 6,
-   "start": 25.49,
-   "end": 26.75,
-   "text": "But wood rots, right?",
+   "start": 24.958,
+   "end": 26.479,
+   "text": "But wood goes rotten, right?",
    "words": [
     {
      "w": "But",
-     "start": 25.62,
-     "end": 25.867
+     "start": 25.088,
+     "end": 25.316
     },
     {
      "w": "wood",
-     "start": 25.867,
-     "end": 26.113
+     "start": 25.316,
+     "end": 25.544
     },
     {
-     "w": "rots,",
-     "start": 26.113,
-     "end": 26.36
+     "w": "goes",
+     "start": 25.544,
+     "end": 25.773
+    },
+    {
+     "w": "rotten,",
+     "start": 25.773,
+     "end": 26.17
     },
     {
      "w": "right?",
-     "start": 26.42,
-     "end": 26.64
+     "start": 26.17,
+     "end": 26.398
     }
    ]
   },
   {
    "line": 7,
-   "start": 27.115,
-   "end": 33.042,
-   "text": "Not down there: in mud and water there's no air, so no fungi, no insects, and the piles last for centuries.",
+   "start": 26.844,
+   "end": 32.604,
+   "text": "Not down there: in mud and water there's no air, so no fungi, no insects, and the piles last centuries.",
    "words": [
     {
      "w": "Not",
-     "start": 27.215,
-     "end": 27.422
+     "start": 26.944,
+     "end": 27.151
     },
     {
      "w": "down",
-     "start": 27.422,
-     "end": 27.63
+     "start": 27.151,
+     "end": 27.359
     },
     {
      "w": "there:",
-     "start": 27.63,
-     "end": 27.837
+     "start": 27.359,
+     "end": 27.566
     },
     {
      "w": "in",
-     "start": 27.837,
-     "end": 28.044
+     "start": 27.566,
+     "end": 27.773
     },
     {
      "w": "mud",
-     "start": 28.044,
-     "end": 28.251
+     "start": 27.773,
+     "end": 27.98
     },
     {
      "w": "and",
-     "start": 28.251,
-     "end": 28.459
+     "start": 27.98,
+     "end": 28.188
     },
     {
      "w": "water",
-     "start": 28.459,
-     "end": 28.82
+     "start": 28.188,
+     "end": 28.549
     },
     {
      "w": "there's",
-     "start": 28.82,
-     "end": 29.18
+     "start": 28.549,
+     "end": 28.909
     },
     {
      "w": "no",
-     "start": 29.18,
-     "end": 29.388
+     "start": 28.909,
+     "end": 29.117
     },
     {
      "w": "air,",
-     "start": 29.388,
-     "end": 29.595
+     "start": 29.117,
+     "end": 29.324
     },
     {
      "w": "so",
-     "start": 29.745,
-     "end": 29.959
+     "start": 29.474,
+     "end": 29.691
     },
     {
      "w": "no",
-     "start": 29.959,
-     "end": 30.173
+     "start": 29.691,
+     "end": 29.907
     },
     {
      "w": "fungi,",
-     "start": 30.173,
-     "end": 30.545
+     "start": 29.907,
+     "end": 30.284
     },
     {
      "w": "no",
-     "start": 30.685,
-     "end": 30.893
+     "start": 30.434,
+     "end": 30.644
     },
     {
      "w": "insects,",
-     "start": 30.893,
-     "end": 31.255
+     "start": 30.644,
+     "end": 31.009
     },
     {
      "w": "and",
-     "start": 31.255,
-     "end": 31.463
+     "start": 31.009,
+     "end": 31.219
     },
     {
      "w": "the",
-     "start": 31.463,
-     "end": 31.671
+     "start": 31.219,
+     "end": 31.428
     },
     {
      "w": "piles",
-     "start": 31.671,
-     "end": 32.033
+     "start": 31.428,
+     "end": 31.794
     },
     {
      "w": "last",
-     "start": 32.033,
-     "end": 32.241
-    },
-    {
-     "w": "for",
-     "start": 32.241,
-     "end": 32.449
+     "start": 31.794,
+     "end": 32.003
     },
     {
      "w": "centuries.",
-     "start": 32.449,
-     "end": 32.965
+     "start": 32.003,
+     "end": 32.524
     }
    ]
   },
   {
    "line": 8,
-   "start": 33.406,
-   "end": 36.854,
+   "start": 32.969,
+   "end": 36.417,
    "text": "But bricks soak up salt water like a sponge, and it eats the walls.",
    "words": [
     {
      "w": "But",
-     "start": 33.536,
-     "end": 33.756
+     "start": 33.109,
+     "end": 33.337
     },
     {
      "w": "bricks",
-     "start": 33.756,
-     "end": 33.977
+     "start": 33.337,
+     "end": 33.565
     },
     {
      "w": "soak",
-     "start": 33.977,
-     "end": 34.197
+     "start": 33.565,
+     "end": 33.793
     },
     {
      "w": "up",
-     "start": 34.197,
-     "end": 34.418
+     "start": 33.793,
+     "end": 34.021
     },
     {
      "w": "salt",
-     "start": 34.418,
-     "end": 34.638
+     "start": 34.021,
+     "end": 34.249
     },
     {
      "w": "water",
-     "start": 34.638,
-     "end": 35.022
+     "start": 34.249,
+     "end": 34.645
     },
     {
      "w": "like",
-     "start": 35.022,
-     "end": 35.243
+     "start": 34.645,
+     "end": 34.873
     },
     {
      "w": "a",
-     "start": 35.243,
-     "end": 35.463
+     "start": 34.873,
+     "end": 35.101
     },
     {
      "w": "sponge,",
-     "start": 35.463,
-     "end": 35.684
+     "start": 35.101,
+     "end": 35.329
     },
     {
      "w": "and",
-     "start": 35.684,
-     "end": 35.904
+     "start": 35.459,
+     "end": 35.637
     },
     {
      "w": "it",
-     "start": 35.904,
-     "end": 36.125
+     "start": 35.637,
+     "end": 35.815
     },
     {
      "w": "eats",
-     "start": 36.125,
-     "end": 36.345
+     "start": 35.815,
+     "end": 35.993
     },
     {
      "w": "the",
-     "start": 36.345,
-     "end": 36.566
+     "start": 35.993,
+     "end": 36.171
     },
     {
      "w": "walls.",
-     "start": 36.566,
-     "end": 36.786
+     "start": 36.171,
+     "end": 36.349
     }
    ]
   },
   {
    "line": 9,
-   "start": 37.219,
-   "end": 43.823,
-   "text": "So you saw the piles level, lay thick wooden boards on top, and start every wall with Istrian stone, too dense for salt to climb.",
+   "start": 36.781,
+   "end": 43.063,
+   "text": "So you saw the piles level, lay thick boards on top, and start every wall with hard white stone, too dense for salt to climb.",
    "words": [
     {
      "w": "So",
-     "start": 37.329,
-     "end": 37.551
+     "start": 36.891,
+     "end": 37.065
     },
     {
      "w": "you",
-     "start": 37.551,
-     "end": 37.773
+     "start": 37.065,
+     "end": 37.239
     },
     {
      "w": "saw",
-     "start": 37.773,
-     "end": 37.995
+     "start": 37.239,
+     "end": 37.412
     },
     {
      "w": "the",
-     "start": 37.995,
-     "end": 38.217
+     "start": 37.412,
+     "end": 37.586
     },
     {
      "w": "piles",
-     "start": 38.217,
-     "end": 38.603
+     "start": 37.586,
+     "end": 37.889
     },
     {
      "w": "level,",
-     "start": 38.603,
-     "end": 38.989
+     "start": 37.889,
+     "end": 38.191
     },
     {
      "w": "lay",
-     "start": 39.069,
-     "end": 39.25
+     "start": 38.321,
+     "end": 38.563
     },
     {
      "w": "thick",
-     "start": 39.25,
-     "end": 39.431
-    },
-    {
-     "w": "wooden",
-     "start": 39.431,
-     "end": 39.746
+     "start": 38.563,
+     "end": 38.805
     },
     {
      "w": "boards",
-     "start": 39.746,
-     "end": 39.927
+     "start": 38.805,
+     "end": 39.047
     },
     {
      "w": "on",
-     "start": 39.927,
-     "end": 40.108
+     "start": 39.047,
+     "end": 39.289
     },
     {
      "w": "top,",
-     "start": 40.108,
-     "end": 40.289
+     "start": 39.289,
+     "end": 39.531
     },
     {
      "w": "and",
-     "start": 40.459,
-     "end": 40.653
+     "start": 39.701,
+     "end": 39.891
     },
     {
      "w": "start",
-     "start": 40.653,
-     "end": 40.847
+     "start": 39.891,
+     "end": 40.081
     },
     {
      "w": "every",
-     "start": 40.847,
-     "end": 41.329
+     "start": 40.081,
+     "end": 40.552
     },
     {
      "w": "wall",
-     "start": 41.329,
-     "end": 41.523
+     "start": 40.552,
+     "end": 40.742
     },
     {
      "w": "with",
-     "start": 41.523,
-     "end": 41.717
+     "start": 40.742,
+     "end": 40.931
     },
     {
-     "w": "Istrian",
-     "start": 41.717,
-     "end": 42.055
+     "w": "hard",
+     "start": 40.931,
+     "end": 41.121
+    },
+    {
+     "w": "white",
+     "start": 41.121,
+     "end": 41.311
     },
     {
      "w": "stone,",
-     "start": 42.055,
-     "end": 42.249
+     "start": 41.311,
+     "end": 41.501
     },
     {
      "w": "too",
-     "start": 42.399,
-     "end": 42.627
+     "start": 41.661,
+     "end": 41.884
     },
     {
      "w": "dense",
-     "start": 42.627,
-     "end": 42.856
+     "start": 41.884,
+     "end": 42.108
     },
     {
      "w": "for",
-     "start": 42.856,
-     "end": 43.084
+     "start": 42.108,
+     "end": 42.331
     },
     {
      "w": "salt",
-     "start": 43.084,
-     "end": 43.312
+     "start": 42.331,
+     "end": 42.554
     },
     {
      "w": "to",
-     "start": 43.312,
-     "end": 43.541
+     "start": 42.554,
+     "end": 42.778
     },
     {
      "w": "climb.",
-     "start": 43.541,
-     "end": 43.769
+     "start": 42.778,
+     "end": 43.001
     }
    ]
   },
   {
    "line": 10,
-   "start": 44.188,
-   "end": 48.604,
+   "start": 43.427,
+   "end": 47.844,
    "text": "But before the tide comes in, follow, because next we're building the Great Wall of China.",
    "words": [
     {
      "w": "But",
-     "start": 44.328,
-     "end": 44.523
+     "start": 43.567,
+     "end": 43.762
     },
     {
      "w": "before",
-     "start": 44.523,
-     "end": 44.863
+     "start": 43.762,
+     "end": 44.102
     },
     {
      "w": "the",
-     "start": 44.863,
-     "end": 45.058
+     "start": 44.102,
+     "end": 44.297
     },
     {
      "w": "tide",
-     "start": 45.058,
-     "end": 45.253
+     "start": 44.297,
+     "end": 44.492
     },
     {
      "w": "comes",
-     "start": 45.253,
-     "end": 45.593
+     "start": 44.492,
+     "end": 44.832
     },
     {
      "w": "in,",
-     "start": 45.593,
-     "end": 45.788
+     "start": 44.832,
+     "end": 45.027
     },
     {
      "w": "follow,",
-     "start": 45.958,
-     "end": 46.298
+     "start": 45.197,
+     "end": 45.537
     },
     {
      "w": "because",
-     "start": 46.428,
-     "end": 46.754
+     "start": 45.677,
+     "end": 46.001
     },
     {
      "w": "next",
-     "start": 46.754,
-     "end": 46.941
+     "start": 46.001,
+     "end": 46.187
     },
     {
      "w": "we're",
-     "start": 46.941,
-     "end": 47.128
+     "start": 46.187,
+     "end": 46.374
     },
     {
      "w": "building",
-     "start": 47.128,
-     "end": 47.454
+     "start": 46.374,
+     "end": 46.698
     },
     {
      "w": "the",
-     "start": 47.454,
-     "end": 47.641
+     "start": 46.698,
+     "end": 46.884
     },
     {
      "w": "Great",
-     "start": 47.641,
-     "end": 47.828
+     "start": 46.884,
+     "end": 47.07
     },
     {
      "w": "Wall",
-     "start": 47.828,
-     "end": 48.015
+     "start": 47.07,
+     "end": 47.257
     },
     {
      "w": "of",
-     "start": 48.015,
-     "end": 48.202
+     "start": 47.257,
+     "end": 47.443
     },
     {
      "w": "China.",
-     "start": 48.202,
-     "end": 48.528
+     "start": 47.443,
+     "end": 47.767
     }
    ]
   },
   {
    "line": 11,
-   "start": 48.969,
-   "end": 53.021,
+   "start": 48.208,
+   "end": 52.26,
    "text": "Now just add palaces, canals and bridges, and swap every car for a boat.",
    "words": [
     {
      "w": "Now",
-     "start": 49.079,
-     "end": 49.288
+     "start": 48.318,
+     "end": 48.527
     },
     {
      "w": "just",
-     "start": 49.288,
-     "end": 49.498
+     "start": 48.527,
+     "end": 48.737
     },
     {
      "w": "add",
-     "start": 49.498,
-     "end": 49.707
+     "start": 48.737,
+     "end": 48.946
     },
     {
      "w": "palaces,",
-     "start": 49.707,
-     "end": 50.226
+     "start": 48.946,
+     "end": 49.465
     },
     {
      "w": "canals",
-     "start": 50.226,
-     "end": 50.59
+     "start": 49.465,
+     "end": 49.829
     },
     {
      "w": "and",
-     "start": 50.59,
-     "end": 50.8
+     "start": 49.829,
+     "end": 50.039
     },
     {
      "w": "bridges,",
-     "start": 50.8,
-     "end": 51.164
+     "start": 50.039,
+     "end": 50.403
     },
     {
      "w": "and",
-     "start": 51.164,
-     "end": 51.373
+     "start": 50.403,
+     "end": 50.612
     },
     {
      "w": "swap",
-     "start": 51.373,
-     "end": 51.583
+     "start": 50.612,
+     "end": 50.822
     },
     {
      "w": "every",
-     "start": 51.583,
-     "end": 52.102
+     "start": 50.822,
+     "end": 51.341
     },
     {
      "w": "car",
-     "start": 52.102,
-     "end": 52.311
+     "start": 51.341,
+     "end": 51.55
     },
     {
      "w": "for",
-     "start": 52.311,
-     "end": 52.52
+     "start": 51.55,
+     "end": 51.759
     },
     {
      "w": "a",
-     "start": 52.52,
-     "end": 52.73
+     "start": 51.759,
+     "end": 51.969
     },
     {
      "w": "boat.",
-     "start": 52.73,
-     "end": 52.939
+     "start": 51.969,
+     "end": 52.178
     }
    ]
   },
   {
    "line": 12,
-   "start": 53.385,
-   "end": 58.49,
+   "start": 52.625,
+   "end": 57.729,
    "text": "Sixteen hundred years old, millions of piles, and fourteen thousand under the Rialto Bridge alone.",
    "words": [
     {
      "w": "Sixteen",
-     "start": 53.485,
-     "end": 53.879
+     "start": 52.725,
+     "end": 53.119
     },
     {
      "w": "hundred",
-     "start": 53.879,
-     "end": 54.273
+     "start": 53.119,
+     "end": 53.513
     },
     {
      "w": "years",
-     "start": 54.273,
-     "end": 54.499
+     "start": 53.513,
+     "end": 53.739
     },
     {
      "w": "old,",
-     "start": 54.499,
-     "end": 54.725
+     "start": 53.739,
+     "end": 53.965
     },
     {
      "w": "millions",
-     "start": 54.875,
-     "end": 55.256
+     "start": 54.115,
+     "end": 54.496
     },
     {
      "w": "of",
-     "start": 55.256,
-     "end": 55.474
+     "start": 54.496,
+     "end": 54.714
     },
     {
      "w": "piles,",
-     "start": 55.474,
-     "end": 55.855
+     "start": 54.714,
+     "end": 55.095
     },
     {
      "w": "and",
-     "start": 55.975,
-     "end": 56.182
+     "start": 55.215,
+     "end": 55.421
     },
     {
      "w": "fourteen",
-     "start": 56.182,
-     "end": 56.542
+     "start": 55.421,
+     "end": 55.779
     },
     {
      "w": "thousand",
-     "start": 56.542,
-     "end": 56.902
+     "start": 55.779,
+     "end": 56.138
     },
     {
      "w": "under",
-     "start": 56.902,
-     "end": 57.262
+     "start": 56.138,
+     "end": 56.496
     },
     {
      "w": "the",
-     "start": 57.262,
-     "end": 57.468
+     "start": 56.496,
+     "end": 56.702
     },
     {
      "w": "Rialto",
-     "start": 57.468,
-     "end": 57.828
+     "start": 56.702,
+     "end": 57.061
     },
     {
      "w": "Bridge",
-     "start": 57.828,
-     "end": 58.035
+     "start": 57.061,
+     "end": 57.267
     },
     {
      "w": "alone.",
-     "start": 58.035,
-     "end": 58.395
+     "start": 57.267,
+     "end": 57.625
     }
    ]
   },
   {
    "line": 13,
-   "start": 58.854,
-   "end": 61.167,
+   "start": 58.094,
+   "end": 60.406,
    "text": "And congrats, you just built Venice yourself.",
    "words": [
     {
      "w": "And",
-     "start": 58.964,
-     "end": 59.227
+     "start": 58.214,
+     "end": 58.477
     },
     {
      "w": "congrats,",
-     "start": 59.227,
-     "end": 59.684
+     "start": 58.477,
+     "end": 58.934
     },
     {
      "w": "you",
-     "start": 59.814,
-     "end": 60.001
+     "start": 59.064,
+     "end": 59.249
     },
     {
      "w": "just",
-     "start": 60.001,
-     "end": 60.187
+     "start": 59.249,
+     "end": 59.434
     },
     {
      "w": "built",
-     "start": 60.187,
-     "end": 60.374
+     "start": 59.434,
+     "end": 59.619
     },
     {
      "w": "Venice",
-     "start": 60.374,
-     "end": 60.699
+     "start": 59.619,
+     "end": 59.942
     },
     {
      "w": "yourself.",
-     "start": 60.699,
-     "end": 61.024
+     "start": 59.942,
+     "end": 60.264
     }
    ]
   },
   {
    "line": 14,
-   "start": 61.531,
-   "end": 67.042,
+   "start": 60.771,
+   "end": 66.281,
    "text": "Sixteen centuries on wooden sticks, still standing. Your café table needs a folded napkin under one leg.",
    "words": [
     {
      "w": "Sixteen",
-     "start": 61.611,
-     "end": 62.0
+     "start": 60.851,
+     "end": 61.24
     },
     {
      "w": "centuries",
-     "start": 62.0,
-     "end": 62.555
+     "start": 61.24,
+     "end": 61.795
     },
     {
      "w": "on",
-     "start": 62.555,
-     "end": 62.778
+     "start": 61.795,
+     "end": 62.018
     },
     {
      "w": "wooden",
-     "start": 62.778,
-     "end": 63.167
+     "start": 62.018,
+     "end": 62.407
     },
     {
      "w": "sticks,",
-     "start": 63.167,
-     "end": 63.391
+     "start": 62.407,
+     "end": 62.631
     },
     {
      "w": "still",
-     "start": 63.531,
-     "end": 63.786
+     "start": 62.781,
+     "end": 63.033
     },
     {
      "w": "standing.",
-     "start": 63.786,
-     "end": 64.231
+     "start": 63.033,
+     "end": 63.471
     },
     {
      "w": "Your",
-     "start": 64.381,
-     "end": 64.591
+     "start": 63.621,
+     "end": 63.831
     },
     {
      "w": "café",
-     "start": 64.591,
-     "end": 64.802
+     "start": 63.831,
+     "end": 64.042
     },
     {
      "w": "table",
-     "start": 64.802,
-     "end": 65.012
+     "start": 64.042,
+     "end": 64.252
     },
     {
      "w": "needs",
-     "start": 65.012,
-     "end": 65.222
+     "start": 64.252,
+     "end": 64.462
     },
     {
      "w": "a",
-     "start": 65.222,
-     "end": 65.432
+     "start": 64.462,
+     "end": 64.672
     },
     {
      "w": "folded",
-     "start": 65.432,
-     "end": 65.798
+     "start": 64.672,
+     "end": 65.038
     },
     {
      "w": "napkin",
-     "start": 65.798,
-     "end": 66.164
+     "start": 65.038,
+     "end": 65.404
     },
     {
      "w": "under",
-     "start": 66.164,
-     "end": 66.53
+     "start": 65.404,
+     "end": 65.77
     },
     {
      "w": "one",
-     "start": 66.53,
-     "end": 66.741
+     "start": 65.77,
+     "end": 65.981
     },
     {
      "w": "leg.",
-     "start": 66.741,
-     "end": 66.951
+     "start": 65.981,
+     "end": 66.191
     }
    ]
   }
