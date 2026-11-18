@@ -586,3 +586,10 @@
   0c814dcb0ce7 sledge and water); balance after: about 38 credits on Plus. This session's network policy refuses
   Higgsfield's file host (d8j0ntlcm91z4.cloudfront.net), so the clips cannot be checked or mixed into videos here.
   Do not fetch them any other way: mixing AI shots needs the owner to allow that host, or another decision from him.
+- Nov 17 22:10 PT: the owner asked for "a couple samples of gulf voice". Sent three Saudi (white dialect) ElevenLabs
+  library voices reading five wind-tower lines in Saudi dialect (kit/series/sample_gulf_a/b/c_lines_ar_sa.txt, Make
+  voices with the voice input, eleven_multilingual_v2): 1 Mansour 5HAezIQAaoSgJypcI0NP, 2 Raed lBgZD85rJJVmqahd7yzK,
+  3 Adam iw6tHUyMo0UfbjntW0h3. 31-33 s for 71 words (about 2.2 words/s), check_ar_voice 1-7% per line, no weak lines,
+  qaf read as "g". Library voices work with the API key directly on his paid plan. About 1,200 credits. Waiting for
+  his pick; voices.yml stays on the Egyptian voice until he says. Saudi frames, as in Seasons 1-2: "لو ...، مبروك، كذا
+  سويت لك ..." / "بس قبل لا ...، تابعني، لأن الجاي بنبني ..." / "ومبروك، كذا سويت لك ... بيدك".
