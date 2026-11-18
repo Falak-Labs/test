@@ -44,9 +44,10 @@
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
    "status": "scheduled",
-   "dueAt": "2026-11-18T20:00:00.000Z",
+   "dueAt": "2026-11-18T08:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-17T04:04:59+00:00"
+   "created": "2026-11-17T04:04:59+00:00",
+   "moved": "2026-11-18T02:11:51+00:00"
   },
   "ar.tiktok": {
    "id": "6afbd276797935b975de3e6e",
