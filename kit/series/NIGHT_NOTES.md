@@ -608,3 +608,7 @@
   (Saudi dialect, kits list) + make_voices.py uses it for kits listed there; LINEUP.md rule: odd builds from 41 get
   Mansour with a Saudi script, even builds stay Egyptian (IES4nrmZdUBHByLBde0P). Builds 37-40 are unchanged. Decision on
   Dec 1: compare Arabic views per voice (metrics.json), keep the winner. Record each voice per build in performance doc.
+- The two run prompts (last changed Nov 17 ~21:40 PT) were written before the Arabic A/B test and name only the
+  Egyptian and Jordanian frames. Follow LINEUP.md and voices.yml `ar_alt` anyway: every odd build from 41 gets a Saudi
+  script and Mansour (add the kit to ar_alt.kits and push before its voice is made); even builds stay Egyptian.
+  (Changing a scheduled task's prompt needs the owner's OK in a chat turn; a scheduled run cannot do it.)
