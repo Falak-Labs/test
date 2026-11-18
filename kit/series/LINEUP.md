@@ -28,9 +28,9 @@ Rules:
   promised yet and the facts do not hold up.
 
 ## Upcoming
-40. the Panama Canal locks (promised by 39)
-41. the Dutch storm surge barrier, Maeslantkering
-42. Venice built on wooden piles
+40. the Panama Canal locks (promised by 39) (taken: midday run of 2026-11-18)
+41. the Dutch storm surge barrier, Maeslantkering (taken: midday run of 2026-11-18)
+42. Venice built on wooden piles (taken: midday run of 2026-11-18)
 43. the Great Wall of China
 44. an Omani falaj water channel
 45. Machu Picchu's terraces
