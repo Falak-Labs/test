@@ -1,0 +1,642 @@
+{
+ "episode": "ep02",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2"
+ ],
+ "requested_characters": 895,
+ "recorded_this_run": [
+  "i2",
+  "p01t",
+  "p01k",
+  "p02t",
+  "p02k",
+  "p03t",
+  "p03k",
+  "p04t",
+  "p04k",
+  "p05t",
+  "p05k",
+  "p06t",
+  "p06k",
+  "p07t",
+  "p07k",
+  "p08t",
+  "p08k",
+  "p09t",
+  "p09k",
+  "p10t",
+  "p10k",
+  "p11t",
+  "p11k",
+  "p12t",
+  "p12k",
+  "p13t",
+  "p13k",
+  "p14t",
+  "p14k",
+  "p15t",
+  "p15k",
+  "tw",
+  "sT",
+  "sA",
+  "sL",
+  "T_op",
+  "T_pour",
+  "T_too",
+  "T_nih",
+  "T_tee",
+  "A_op",
+  "A_pour",
+  "A_too",
+  "A_nih",
+  "A_tee",
+  "L_op",
+  "L_pour",
+  "L_too",
+  "L_nih",
+  "L_tee",
+  "w5",
+  "w6"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "i1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "السلام عليكم! مرحبا بيكم.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "i2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "اليوم غادي نتعلمو الإنجليزية فالمطعم والسوق.",
+   "characters": 44,
+   "model": "eleven_v4",
+   "seconds": 3.84
+  },
+  {
+   "id": "i3",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "يالله، نبداو!",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "طابلة لجوج، عافاك.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "A table for two, please.",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "عطيني المونيو، عافاك.",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Can I see the menu, please?",
+   "characters": 27,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "آش كاين عندكم؟",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "What do you have?",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "بغيت الدجاج، عافاك.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "I want chicken, please.",
+   "characters": 23,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "بلا بصلة، عافاك.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "No onions, please.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p06t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "هاد الماكلة باردة.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p06k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "This food is cold.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "p07t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "مزيانة بزاف!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p07k",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "It's very good!",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "p08t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "الحساب، عافاك.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p08k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "The bill, please.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p09t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "واش كاين الوايفاي؟",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p09k",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Is there Wi-Fi?",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p10t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "خلي الباقي.",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p10k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Keep the change.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p11t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "غالي بزاف!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p11k",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "It's too expensive!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "p12t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "نقص ليا شوية، عافاك.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "p12k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Can you lower the price?",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "p13t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "غادي ناخد هادا.",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p13k",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "I'll take this one.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p14t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "أنا من المغرب.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p14k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "I'm from Morocco.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p15t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "نهارك مبارك!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p15k",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Have a nice day!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "r0",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "نعاودو!",
+   "characters": 7,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "w0",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "ودابا، الكلمة الصعيبة ديال اليوم!",
+   "characters": 33,
+   "model": "eleven_v4",
+   "seconds": 3.2
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Opportunity.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "w1",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Wow! It's so long!",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.64
+  },
+  {
+   "id": "w2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "شوية بشوية.",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "sT",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Op. [long pause] Pour. [long pause] Too. [long pause] Nih. [long pause] Tee.",
+   "characters": 76,
+   "model": "eleven_v4",
+   "seconds": 5.92
+  },
+  {
+   "id": "sA",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Op. [long pause] Pour. [long pause] Too. [long pause] Nih. [long pause] Tee.",
+   "characters": 76,
+   "model": "eleven_v4",
+   "seconds": 6.8
+  },
+  {
+   "id": "sL",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Op. [long pause] Pour. [long pause] Too. [long pause] Nih. [long pause] Tee.",
+   "characters": 76,
+   "model": "eleven_v4",
+   "seconds": 6.24
+  },
+  {
+   "id": "T_op",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Op.",
+   "characters": 3,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_pour",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Pour.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_too",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Too.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_nih",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Nih.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_tee",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Tee.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "A_op",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Op.",
+   "characters": 3,
+   "model": "eleven_v4",
+   "seconds": 0.72
+  },
+  {
+   "id": "A_pour",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Pour.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "A_too",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Too.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "A_nih",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Nih.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "A_tee",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Tee.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_op",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Op.",
+   "characters": 3,
+   "model": "eleven_v4",
+   "seconds": 0.64
+  },
+  {
+   "id": "L_pour",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Pour.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_too",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Too.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "L_nih",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Nih.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_tee",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Tee.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "w3",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "دابا بالزربة!",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "w4",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "دابا كاملة!",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Opportunity!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Good job! Opportunity!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "o1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "عجبك الدرس؟ كتب لينا الكلمة الصعيبة فالتعليقات، وتابعنا باش تتعلم كل نهار!",
+   "characters": 74,
+   "model": "eleven_v4",
+   "seconds": 6.24
+  },
+  {
+   "id": "o2",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "See you next time!",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "o3",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Bye!",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  }
+ ]
+}
