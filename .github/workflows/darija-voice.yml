@@ -1,0 +1,55 @@
+name: Darija lesson voice
+# Voices for the Darija -> English lesson videos (teacher, Adam, Lina). One ElevenLabs request and one take per line of
+# darija/lines/<episode>.txt; the audio and ElevenLabs' character timings land in darija/voice/<episode>/ (committed
+# back to main). Reads the ELEVENLABS_API_KEY Actions secret; the key is never printed or written. Spends credits only
+# for lines whose text, voice, model or settings changed since the last run (force=true records everything again).
+# Started with no inputs, it voices the last script by name in darija/lines, so a whole episode is one run.
+on:
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "script name, as in darija/lines/<episode>.txt (empty = the last one by name)"
+        required: false
+        default: ""
+      force:
+        description: "record every line again, even unchanged ones"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: darija-voice
+  cancel-in-progress: false
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Python packages
+        run: pip install --quiet requests
+      - name: Record
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          EPISODE: ${{ inputs.episode }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          set -euo pipefail
+          if [ -z "$EPISODE" ]; then
+            EPISODE="$(ls darija/lines/*.txt | sort | tail -n 1 | xargs -n 1 basename | sed 's/\.txt$//')"
+          fi
+          case "$EPISODE" in ""|*[!A-Za-z0-9_-]*) echo "bad episode name"; exit 1;; esac
+          test -f "darija/lines/${EPISODE}.txt" || { echo "darija/lines/${EPISODE}.txt is missing"; exit 1; }
+          echo "episode: ${EPISODE}"
+          args=()
+          if [ "$FORCE" = "true" ]; then args+=(--force); fi
+          python -I -u darija/tools/make_vo_lesson.py "darija/lines/${EPISODE}.txt" "darija/voice/${EPISODE}" "${args[@]}"
+      - name: Save to the repo
+        if: always()
+        run: |
+          bash scripts/save_state.sh "darija voice $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" darija/voice

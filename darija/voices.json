@@ -1,0 +1,12 @@
+{
+ "model": ["eleven_v4", "eleven_v3", "eleven_multilingual_v2"],
+ "output_format": "mp3_44100_128",
+ "settings": {
+  "eleven_multilingual_v2": {"stability": 0.45, "similarity_boost": 0.8, "style": 0.25, "use_speaker_boost": true}
+ },
+ "speakers": {
+  "T": {"name": "Teacher (Ghizlane, Moroccan Darija)", "voice": "OfGMGmhShO8iL9jCkXy8"},
+  "A": {"name": "Adam, the boy (Teddy Twinkle)", "voice": "XjGYkUkzth8BPs29fmcV"},
+  "L": {"name": "Lina, the girl (Candy)", "voice": "Nggzl2QAXh3OijoXD116"}
+ }
+}
