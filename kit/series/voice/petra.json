@@ -1,0 +1,1267 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 64.84,
+ "words": 229,
+ "words_per_sec": 3.53,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.906,
+   "text": "If you carve a palace forty meters tall straight out of a cliff, without a single brick, congrats, you just built Petra.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.316
+    },
+    {
+     "w": "you",
+     "start": 0.316,
+     "end": 0.502
+    },
+    {
+     "w": "carve",
+     "start": 0.502,
+     "end": 0.688
+    },
+    {
+     "w": "a",
+     "start": 0.688,
+     "end": 0.874
+    },
+    {
+     "w": "palace",
+     "start": 0.874,
+     "end": 1.197
+    },
+    {
+     "w": "forty",
+     "start": 1.197,
+     "end": 1.521
+    },
+    {
+     "w": "meters",
+     "start": 1.521,
+     "end": 1.845
+    },
+    {
+     "w": "tall",
+     "start": 1.845,
+     "end": 2.03
+    },
+    {
+     "w": "straight",
+     "start": 2.03,
+     "end": 2.216
+    },
+    {
+     "w": "out",
+     "start": 2.216,
+     "end": 2.402
+    },
+    {
+     "w": "of",
+     "start": 2.402,
+     "end": 2.588
+    },
+    {
+     "w": "a",
+     "start": 2.588,
+     "end": 2.774
+    },
+    {
+     "w": "cliff,",
+     "start": 2.774,
+     "end": 2.96
+    },
+    {
+     "w": "without",
+     "start": 3.14,
+     "end": 3.452
+    },
+    {
+     "w": "a",
+     "start": 3.452,
+     "end": 3.631
+    },
+    {
+     "w": "single",
+     "start": 3.631,
+     "end": 3.811
+    },
+    {
+     "w": "brick,",
+     "start": 3.811,
+     "end": 3.99
+    },
+    {
+     "w": "congrats,",
+     "start": 4.2,
+     "end": 4.77
+    },
+    {
+     "w": "you",
+     "start": 4.9,
+     "end": 5.098
+    },
+    {
+     "w": "just",
+     "start": 5.098,
+     "end": 5.297
+    },
+    {
+     "w": "built",
+     "start": 5.297,
+     "end": 5.495
+    },
+    {
+     "w": "Petra.",
+     "start": 5.495,
+     "end": 5.84
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.271,
+   "end": 10.281,
+   "text": "But carve from the bottom up, and every chip from above lands on the work you've finished.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.411,
+     "end": 6.586
+    },
+    {
+     "w": "carve",
+     "start": 6.586,
+     "end": 6.761
+    },
+    {
+     "w": "from",
+     "start": 6.761,
+     "end": 6.936
+    },
+    {
+     "w": "the",
+     "start": 6.936,
+     "end": 7.111
+    },
+    {
+     "w": "bottom",
+     "start": 7.111,
+     "end": 7.416
+    },
+    {
+     "w": "up,",
+     "start": 7.416,
+     "end": 7.591
+    },
+    {
+     "w": "and",
+     "start": 7.771,
+     "end": 7.937
+    },
+    {
+     "w": "every",
+     "start": 7.937,
+     "end": 8.349
+    },
+    {
+     "w": "chip",
+     "start": 8.349,
+     "end": 8.515
+    },
+    {
+     "w": "from",
+     "start": 8.515,
+     "end": 8.681
+    },
+    {
+     "w": "above",
+     "start": 8.681,
+     "end": 8.969
+    },
+    {
+     "w": "lands",
+     "start": 8.969,
+     "end": 9.135
+    },
+    {
+     "w": "on",
+     "start": 9.135,
+     "end": 9.301
+    },
+    {
+     "w": "the",
+     "start": 9.301,
+     "end": 9.467
+    },
+    {
+     "w": "work",
+     "start": 9.467,
+     "end": 9.633
+    },
+    {
+     "w": "you've",
+     "start": 9.633,
+     "end": 9.799
+    },
+    {
+     "w": "finished.",
+     "start": 9.799,
+     "end": 10.211
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.646,
+   "end": 13.156,
+   "text": "So you start at the very top and carve your way down.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.756,
+     "end": 10.938
+    },
+    {
+     "w": "you",
+     "start": 10.938,
+     "end": 11.12
+    },
+    {
+     "w": "start",
+     "start": 11.12,
+     "end": 11.302
+    },
+    {
+     "w": "at",
+     "start": 11.302,
+     "end": 11.484
+    },
+    {
+     "w": "the",
+     "start": 11.484,
+     "end": 11.666
+    },
+    {
+     "w": "very",
+     "start": 11.666,
+     "end": 11.983
+    },
+    {
+     "w": "top",
+     "start": 11.983,
+     "end": 12.166
+    },
+    {
+     "w": "and",
+     "start": 12.166,
+     "end": 12.348
+    },
+    {
+     "w": "carve",
+     "start": 12.348,
+     "end": 12.53
+    },
+    {
+     "w": "your",
+     "start": 12.53,
+     "end": 12.712
+    },
+    {
+     "w": "way",
+     "start": 12.712,
+     "end": 12.894
+    },
+    {
+     "w": "down.",
+     "start": 12.894,
+     "end": 13.076
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 13.521,
+   "end": 17.24,
+   "text": "But it's the desert, it barely rains, and twenty thousand people need water.",
+   "words": [
+    {
+     "w": "But",
+     "start": 13.651,
+     "end": 13.809
+    },
+    {
+     "w": "it's",
+     "start": 13.809,
+     "end": 13.967
+    },
+    {
+     "w": "the",
+     "start": 13.967,
+     "end": 14.126
+    },
+    {
+     "w": "desert,",
+     "start": 14.126,
+     "end": 14.401
+    },
+    {
+     "w": "it",
+     "start": 14.541,
+     "end": 14.74
+    },
+    {
+     "w": "barely",
+     "start": 14.74,
+     "end": 15.232
+    },
+    {
+     "w": "rains,",
+     "start": 15.232,
+     "end": 15.431
+    },
+    {
+     "w": "and",
+     "start": 15.571,
+     "end": 15.766
+    },
+    {
+     "w": "twenty",
+     "start": 15.766,
+     "end": 16.104
+    },
+    {
+     "w": "thousand",
+     "start": 16.104,
+     "end": 16.443
+    },
+    {
+     "w": "people",
+     "start": 16.443,
+     "end": 16.638
+    },
+    {
+     "w": "need",
+     "start": 16.638,
+     "end": 16.832
+    },
+    {
+     "w": "water.",
+     "start": 16.832,
+     "end": 17.171
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.604,
+   "end": 22.438,
+   "text": "So you cut a channel into the canyon wall and lay clay pipes from a spring outside town into the city.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.714,
+     "end": 17.892
+    },
+    {
+     "w": "you",
+     "start": 17.892,
+     "end": 18.07
+    },
+    {
+     "w": "cut",
+     "start": 18.07,
+     "end": 18.248
+    },
+    {
+     "w": "a",
+     "start": 18.248,
+     "end": 18.426
+    },
+    {
+     "w": "channel",
+     "start": 18.426,
+     "end": 18.736
+    },
+    {
+     "w": "into",
+     "start": 18.736,
+     "end": 19.045
+    },
+    {
+     "w": "the",
+     "start": 19.045,
+     "end": 19.223
+    },
+    {
+     "w": "canyon",
+     "start": 19.223,
+     "end": 19.533
+    },
+    {
+     "w": "wall",
+     "start": 19.533,
+     "end": 19.711
+    },
+    {
+     "w": "and",
+     "start": 19.711,
+     "end": 19.889
+    },
+    {
+     "w": "lay",
+     "start": 19.889,
+     "end": 20.067
+    },
+    {
+     "w": "clay",
+     "start": 20.067,
+     "end": 20.245
+    },
+    {
+     "w": "pipes",
+     "start": 20.245,
+     "end": 20.555
+    },
+    {
+     "w": "from",
+     "start": 20.555,
+     "end": 20.733
+    },
+    {
+     "w": "a",
+     "start": 20.733,
+     "end": 20.911
+    },
+    {
+     "w": "spring",
+     "start": 20.911,
+     "end": 21.089
+    },
+    {
+     "w": "outside",
+     "start": 21.089,
+     "end": 21.398
+    },
+    {
+     "w": "town",
+     "start": 21.398,
+     "end": 21.576
+    },
+    {
+     "w": "into",
+     "start": 21.576,
+     "end": 21.886
+    },
+    {
+     "w": "the",
+     "start": 21.886,
+     "end": 22.064
+    },
+    {
+     "w": "city.",
+     "start": 22.064,
+     "end": 22.374
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 22.802,
+   "end": 26.833,
+   "text": "But when it does rain, a flash flood roars down the narrow canyon into the city.",
+   "words": [
+    {
+     "w": "But",
+     "start": 22.942,
+     "end": 23.13
+    },
+    {
+     "w": "when",
+     "start": 23.13,
+     "end": 23.318
+    },
+    {
+     "w": "it",
+     "start": 23.318,
+     "end": 23.506
+    },
+    {
+     "w": "does",
+     "start": 23.506,
+     "end": 23.694
+    },
+    {
+     "w": "rain,",
+     "start": 23.694,
+     "end": 23.882
+    },
+    {
+     "w": "a",
+     "start": 24.022,
+     "end": 24.215
+    },
+    {
+     "w": "flash",
+     "start": 24.215,
+     "end": 24.409
+    },
+    {
+     "w": "flood",
+     "start": 24.409,
+     "end": 24.602
+    },
+    {
+     "w": "roars",
+     "start": 24.602,
+     "end": 24.795
+    },
+    {
+     "w": "down",
+     "start": 24.795,
+     "end": 24.989
+    },
+    {
+     "w": "the",
+     "start": 24.989,
+     "end": 25.182
+    },
+    {
+     "w": "narrow",
+     "start": 25.182,
+     "end": 25.519
+    },
+    {
+     "w": "canyon",
+     "start": 25.519,
+     "end": 25.855
+    },
+    {
+     "w": "into",
+     "start": 25.855,
+     "end": 26.192
+    },
+    {
+     "w": "the",
+     "start": 26.192,
+     "end": 26.385
+    },
+    {
+     "w": "city.",
+     "start": 26.385,
+     "end": 26.722
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.198,
+   "end": 31.198,
+   "text": "So you dam the canyon's mouth and dig a tunnel through the mountain to send the flood around.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.308,
+     "end": 27.489
+    },
+    {
+     "w": "you",
+     "start": 27.489,
+     "end": 27.67
+    },
+    {
+     "w": "dam",
+     "start": 27.67,
+     "end": 27.85
+    },
+    {
+     "w": "the",
+     "start": 27.85,
+     "end": 28.031
+    },
+    {
+     "w": "canyon's",
+     "start": 28.031,
+     "end": 28.346
+    },
+    {
+     "w": "mouth",
+     "start": 28.346,
+     "end": 28.527
+    },
+    {
+     "w": "and",
+     "start": 28.527,
+     "end": 28.707
+    },
+    {
+     "w": "dig",
+     "start": 28.707,
+     "end": 28.888
+    },
+    {
+     "w": "a",
+     "start": 28.888,
+     "end": 29.069
+    },
+    {
+     "w": "tunnel",
+     "start": 29.069,
+     "end": 29.384
+    },
+    {
+     "w": "through",
+     "start": 29.384,
+     "end": 29.565
+    },
+    {
+     "w": "the",
+     "start": 29.565,
+     "end": 29.745
+    },
+    {
+     "w": "mountain",
+     "start": 29.745,
+     "end": 30.06
+    },
+    {
+     "w": "to",
+     "start": 30.06,
+     "end": 30.241
+    },
+    {
+     "w": "send",
+     "start": 30.241,
+     "end": 30.422
+    },
+    {
+     "w": "the",
+     "start": 30.422,
+     "end": 30.602
+    },
+    {
+     "w": "flood",
+     "start": 30.602,
+     "end": 30.783
+    },
+    {
+     "w": "around.",
+     "start": 30.783,
+     "end": 31.098
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.563,
+   "end": 34.906,
+   "text": "But a rich city of incense traders is a prize for every raider.",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.703,
+     "end": 31.882
+    },
+    {
+     "w": "a",
+     "start": 31.882,
+     "end": 32.062
+    },
+    {
+     "w": "rich",
+     "start": 32.062,
+     "end": 32.241
+    },
+    {
+     "w": "city",
+     "start": 32.241,
+     "end": 32.554
+    },
+    {
+     "w": "of",
+     "start": 32.554,
+     "end": 32.733
+    },
+    {
+     "w": "incense",
+     "start": 32.733,
+     "end": 33.045
+    },
+    {
+     "w": "traders",
+     "start": 33.045,
+     "end": 33.358
+    },
+    {
+     "w": "is",
+     "start": 33.358,
+     "end": 33.537
+    },
+    {
+     "w": "a",
+     "start": 33.537,
+     "end": 33.717
+    },
+    {
+     "w": "prize",
+     "start": 33.717,
+     "end": 33.896
+    },
+    {
+     "w": "for",
+     "start": 33.896,
+     "end": 34.075
+    },
+    {
+     "w": "every",
+     "start": 34.075,
+     "end": 34.521
+    },
+    {
+     "w": "raider.",
+     "start": 34.521,
+     "end": 34.833
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.271,
+   "end": 39.438,
+   "text": "So you hide it at the end of a winding canyon, only three meters wide in places.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.371,
+     "end": 35.573
+    },
+    {
+     "w": "you",
+     "start": 35.573,
+     "end": 35.775
+    },
+    {
+     "w": "hide",
+     "start": 35.775,
+     "end": 35.977
+    },
+    {
+     "w": "it",
+     "start": 35.977,
+     "end": 36.179
+    },
+    {
+     "w": "at",
+     "start": 36.179,
+     "end": 36.38
+    },
+    {
+     "w": "the",
+     "start": 36.38,
+     "end": 36.582
+    },
+    {
+     "w": "end",
+     "start": 36.582,
+     "end": 36.784
+    },
+    {
+     "w": "of",
+     "start": 36.784,
+     "end": 36.986
+    },
+    {
+     "w": "a",
+     "start": 36.986,
+     "end": 37.188
+    },
+    {
+     "w": "winding",
+     "start": 37.188,
+     "end": 37.54
+    },
+    {
+     "w": "canyon,",
+     "start": 37.54,
+     "end": 37.891
+    },
+    {
+     "w": "only",
+     "start": 37.961,
+     "end": 38.257
+    },
+    {
+     "w": "three",
+     "start": 38.257,
+     "end": 38.428
+    },
+    {
+     "w": "meters",
+     "start": 38.428,
+     "end": 38.724
+    },
+    {
+     "w": "wide",
+     "start": 38.724,
+     "end": 38.894
+    },
+    {
+     "w": "in",
+     "start": 38.894,
+     "end": 39.065
+    },
+    {
+     "w": "places.",
+     "start": 39.065,
+     "end": 39.361
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 39.802,
+   "end": 45.0,
+   "text": "But before you walk in, follow, because next we're building a Japanese pagoda that dances through earthquakes.",
+   "words": [
+    {
+     "w": "But",
+     "start": 39.952,
+     "end": 40.138
+    },
+    {
+     "w": "before",
+     "start": 40.138,
+     "end": 40.463
+    },
+    {
+     "w": "you",
+     "start": 40.463,
+     "end": 40.649
+    },
+    {
+     "w": "walk",
+     "start": 40.649,
+     "end": 40.836
+    },
+    {
+     "w": "in,",
+     "start": 40.836,
+     "end": 41.022
+    },
+    {
+     "w": "follow,",
+     "start": 41.182,
+     "end": 41.512
+    },
+    {
+     "w": "because",
+     "start": 41.632,
+     "end": 41.957
+    },
+    {
+     "w": "next",
+     "start": 41.957,
+     "end": 42.144
+    },
+    {
+     "w": "we're",
+     "start": 42.144,
+     "end": 42.331
+    },
+    {
+     "w": "building",
+     "start": 42.331,
+     "end": 42.656
+    },
+    {
+     "w": "a",
+     "start": 42.656,
+     "end": 42.843
+    },
+    {
+     "w": "Japanese",
+     "start": 42.843,
+     "end": 43.306
+    },
+    {
+     "w": "pagoda",
+     "start": 43.306,
+     "end": 43.77
+    },
+    {
+     "w": "that",
+     "start": 43.77,
+     "end": 43.957
+    },
+    {
+     "w": "dances",
+     "start": 43.957,
+     "end": 44.282
+    },
+    {
+     "w": "through",
+     "start": 44.282,
+     "end": 44.468
+    },
+    {
+     "w": "earthquakes.",
+     "start": 44.468,
+     "end": 44.932
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 45.365,
+   "end": 50.521,
+   "text": "Now just carve tombs and a theater in rose-red stone, and stay hidden from Europe until eighteen twelve.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 45.475,
+     "end": 45.698
+    },
+    {
+     "w": "just",
+     "start": 45.698,
+     "end": 45.922
+    },
+    {
+     "w": "carve",
+     "start": 45.922,
+     "end": 46.145
+    },
+    {
+     "w": "tombs",
+     "start": 46.145,
+     "end": 46.368
+    },
+    {
+     "w": "and",
+     "start": 46.368,
+     "end": 46.592
+    },
+    {
+     "w": "a",
+     "start": 46.592,
+     "end": 46.815
+    },
+    {
+     "w": "theater",
+     "start": 46.815,
+     "end": 47.204
+    },
+    {
+     "w": "in",
+     "start": 47.204,
+     "end": 47.427
+    },
+    {
+     "w": "rose-red",
+     "start": 47.427,
+     "end": 47.982
+    },
+    {
+     "w": "stone,",
+     "start": 47.982,
+     "end": 48.205
+    },
+    {
+     "w": "and",
+     "start": 48.375,
+     "end": 48.561
+    },
+    {
+     "w": "stay",
+     "start": 48.561,
+     "end": 48.747
+    },
+    {
+     "w": "hidden",
+     "start": 48.747,
+     "end": 49.071
+    },
+    {
+     "w": "from",
+     "start": 49.071,
+     "end": 49.257
+    },
+    {
+     "w": "Europe",
+     "start": 49.257,
+     "end": 49.581
+    },
+    {
+     "w": "until",
+     "start": 49.581,
+     "end": 49.905
+    },
+    {
+     "w": "eighteen",
+     "start": 49.905,
+     "end": 50.229
+    },
+    {
+     "w": "twelve.",
+     "start": 50.229,
+     "end": 50.415
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 50.885,
+   "end": 55.865,
+   "text": "Forty meters tall, a canyon one point two kilometers long, and about two thousand years old.",
+   "words": [
+    {
+     "w": "Forty",
+     "start": 51.025,
+     "end": 51.39
+    },
+    {
+     "w": "meters",
+     "start": 51.39,
+     "end": 51.755
+    },
+    {
+     "w": "tall,",
+     "start": 51.755,
+     "end": 51.965
+    },
+    {
+     "w": "a",
+     "start": 52.115,
+     "end": 52.327
+    },
+    {
+     "w": "canyon",
+     "start": 52.327,
+     "end": 52.695
+    },
+    {
+     "w": "one",
+     "start": 52.695,
+     "end": 52.907
+    },
+    {
+     "w": "point",
+     "start": 52.907,
+     "end": 53.119
+    },
+    {
+     "w": "two",
+     "start": 53.119,
+     "end": 53.331
+    },
+    {
+     "w": "kilometers",
+     "start": 53.331,
+     "end": 54.013
+    },
+    {
+     "w": "long,",
+     "start": 54.013,
+     "end": 54.225
+    },
+    {
+     "w": "and",
+     "start": 54.365,
+     "end": 54.553
+    },
+    {
+     "w": "about",
+     "start": 54.553,
+     "end": 54.882
+    },
+    {
+     "w": "two",
+     "start": 54.882,
+     "end": 55.07
+    },
+    {
+     "w": "thousand",
+     "start": 55.07,
+     "end": 55.398
+    },
+    {
+     "w": "years",
+     "start": 55.398,
+     "end": 55.587
+    },
+    {
+     "w": "old.",
+     "start": 55.587,
+     "end": 55.775
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.229,
+   "end": 58.625,
+   "text": "And congrats, you just built Petra yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.339,
+     "end": 56.605
+    },
+    {
+     "w": "congrats,",
+     "start": 56.605,
+     "end": 57.069
+    },
+    {
+     "w": "you",
+     "start": 57.189,
+     "end": 57.39
+    },
+    {
+     "w": "just",
+     "start": 57.39,
+     "end": 57.59
+    },
+    {
+     "w": "built",
+     "start": 57.59,
+     "end": 57.791
+    },
+    {
+     "w": "Petra",
+     "start": 57.791,
+     "end": 58.14
+    },
+    {
+     "w": "yourself.",
+     "start": 58.14,
+     "end": 58.489
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 58.99,
+   "end": 64.854,
+   "text": "For years people shot at the urn on top, sure it hid gold. Solid rock. Like grandma's cookie tin: just sewing stuff.",
+   "words": [
+    {
+     "w": "For",
+     "start": 59.17,
+     "end": 59.352
+    },
+    {
+     "w": "years",
+     "start": 59.352,
+     "end": 59.534
+    },
+    {
+     "w": "people",
+     "start": 59.534,
+     "end": 59.717
+    },
+    {
+     "w": "shot",
+     "start": 59.717,
+     "end": 59.899
+    },
+    {
+     "w": "at",
+     "start": 59.899,
+     "end": 60.081
+    },
+    {
+     "w": "the",
+     "start": 60.081,
+     "end": 60.263
+    },
+    {
+     "w": "urn",
+     "start": 60.263,
+     "end": 60.446
+    },
+    {
+     "w": "on",
+     "start": 60.446,
+     "end": 60.628
+    },
+    {
+     "w": "top,",
+     "start": 60.628,
+     "end": 60.81
+    },
+    {
+     "w": "sure",
+     "start": 61.0,
+     "end": 61.195
+    },
+    {
+     "w": "it",
+     "start": 61.195,
+     "end": 61.39
+    },
+    {
+     "w": "hid",
+     "start": 61.39,
+     "end": 61.585
+    },
+    {
+     "w": "gold.",
+     "start": 61.585,
+     "end": 61.78
+    },
+    {
+     "w": "Solid",
+     "start": 61.93,
+     "end": 62.349
+    },
+    {
+     "w": "rock.",
+     "start": 62.349,
+     "end": 62.59
+    },
+    {
+     "w": "Like",
+     "start": 62.71,
+     "end": 62.955
+    },
+    {
+     "w": "grandma's",
+     "start": 62.955,
+     "end": 63.381
+    },
+    {
+     "w": "cookie",
+     "start": 63.381,
+     "end": 63.625
+    },
+    {
+     "w": "tin:",
+     "start": 63.625,
+     "end": 63.87
+    },
+    {
+     "w": "just",
+     "start": 64.04,
+     "end": 64.23
+    },
+    {
+     "w": "sewing",
+     "start": 64.23,
+     "end": 64.56
+    },
+    {
+     "w": "stuff.",
+     "start": 64.56,
+     "end": 64.75
+    }
+   ]
+  }
+ ]
+}
