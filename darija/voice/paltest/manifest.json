@@ -1,0 +1,223 @@
+{
+ "episode": "paltest",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2"
+ ],
+ "requested_characters": 330,
+ "recorded_this_run": [
+  "S_i1",
+  "S_p1",
+  "S_p5",
+  "S_w",
+  "M_i1",
+  "M_p1",
+  "M_p5",
+  "M_w",
+  "F_i1",
+  "F_p1",
+  "F_p5",
+  "F_w",
+  "G_i1",
+  "G_p1",
+  "G_p5",
+  "G_w",
+  "Y_i1",
+  "Y_p1",
+  "Y_p5",
+  "Y_w"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "S_i1",
+   "speaker": "S",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "السلام عليكم! أهلا وسهلا فيكم.",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 2.8
+  },
+  {
+   "id": "S_p1",
+   "speaker": "S",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مرحبا، كيفك؟",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "S_p5",
+   "speaker": "S",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "من وين إنت؟",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "S_w",
+   "speaker": "S",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Communication",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "M_i1",
+   "speaker": "M",
+   "voice": "a1KZUXKFVFDOb33I1uqr",
+   "text": "السلام عليكم! أهلا وسهلا فيكم.",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 2.88
+  },
+  {
+   "id": "M_p1",
+   "speaker": "M",
+   "voice": "a1KZUXKFVFDOb33I1uqr",
+   "text": "مرحبا، كيفك؟",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "M_p5",
+   "speaker": "M",
+   "voice": "a1KZUXKFVFDOb33I1uqr",
+   "text": "من وين إنت؟",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "M_w",
+   "speaker": "M",
+   "voice": "a1KZUXKFVFDOb33I1uqr",
+   "text": "Communication",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "F_i1",
+   "speaker": "F",
+   "voice": "4wf10lgibMnboGJGCLrP",
+   "text": "السلام عليكم! أهلا وسهلا فيكم.",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 2.8
+  },
+  {
+   "id": "F_p1",
+   "speaker": "F",
+   "voice": "4wf10lgibMnboGJGCLrP",
+   "text": "مرحبا، كيفك؟",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "F_p5",
+   "speaker": "F",
+   "voice": "4wf10lgibMnboGJGCLrP",
+   "text": "من وين إنت؟",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "F_w",
+   "speaker": "F",
+   "voice": "4wf10lgibMnboGJGCLrP",
+   "text": "Communication",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "G_i1",
+   "speaker": "G",
+   "voice": "Wim44P0dU9HtjyzNnFsv",
+   "text": "السلام عليكم! أهلا وسهلا فيكم.",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 2.96
+  },
+  {
+   "id": "G_p1",
+   "speaker": "G",
+   "voice": "Wim44P0dU9HtjyzNnFsv",
+   "text": "مرحبا، كيفك؟",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "G_p5",
+   "speaker": "G",
+   "voice": "Wim44P0dU9HtjyzNnFsv",
+   "text": "من وين إنت؟",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "G_w",
+   "speaker": "G",
+   "voice": "Wim44P0dU9HtjyzNnFsv",
+   "text": "Communication",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "Y_i1",
+   "speaker": "Y",
+   "voice": "6ZvbKYJmZfL6zVBzLwpV",
+   "text": "السلام عليكم! أهلا وسهلا فيكم.",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 2.8
+  },
+  {
+   "id": "Y_p1",
+   "speaker": "Y",
+   "voice": "6ZvbKYJmZfL6zVBzLwpV",
+   "text": "مرحبا، كيفك؟",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "Y_p5",
+   "speaker": "Y",
+   "voice": "6ZvbKYJmZfL6zVBzLwpV",
+   "text": "من وين إنت؟",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "Y_w",
+   "speaker": "Y",
+   "voice": "6ZvbKYJmZfL6zVBzLwpV",
+   "text": "Communication",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  }
+ ]
+}
