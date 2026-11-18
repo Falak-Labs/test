@@ -1,4 +1,4 @@
-# Post status 2026-11-18T04:08:42+00:00
+# Post status 2026-11-18T04:18:20+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -224,3 +224,9 @@
 | ep37-windtower | en.instagram | scheduled |  | 2026-11-18T14:00:00.000Z |
 | ep37-windtower | en.tiktok | scheduled |  | 2026-11-18T14:00:00.000Z |
 | ep37-windtower | en.youtube | scheduled |  | 2026-11-18T14:00:00.000Z |
+| ep38-petra | ar.instagram | scheduled |  | 2026-11-18T20:00:00.000Z |
+| ep38-petra | ar.tiktok | scheduled |  | 2026-11-18T20:00:00.000Z |
+| ep38-petra | ar.youtube | scheduled |  | 2026-11-18T20:00:00.000Z |
+| ep38-petra | en.instagram | scheduled |  | 2026-11-18T18:00:00.000Z |
+| ep38-petra | en.tiktok | scheduled |  | 2026-11-18T18:00:00.000Z |
+| ep38-petra | en.youtube | scheduled |  | 2026-11-18T18:00:00.000Z |
