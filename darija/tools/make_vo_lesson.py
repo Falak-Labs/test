@@ -118,6 +118,22 @@ if not models:
     fail(f"none of the models {want} can be used with this key; it offers: {', '.join(state['available'])}")
 
 
+def add_to_library():
+    """a speaker with "owner" (public_owner_id) is a shared-library voice: add it to the account once (idempotent)"""
+    for k, sp in speakers.items():
+        if not sp.get("owner"):
+            continue
+        try:
+            r = requests.post(f"{API}/voices/add/{sp['owner']}/{sp['voice']}", headers={**HEAD, "Content-Type": "application/json"},
+                              json={"new_name": sp.get("name", k)[:60]}, timeout=60)
+            print(f"  add voice {k} {sp['voice']}: HTTP {r.status_code} {clean(r.text)[:120]}", flush=True)
+        except requests.RequestException as e:
+            print(f"  add voice {k}: {type(e).__name__}", flush=True)
+
+
+add_to_library()
+
+
 def tts(voice, body):
     url = f"{API}/text-to-speech/{voice}/with-timestamps?output_format={fmt}"
     for attempt in range(5):

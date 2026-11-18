@@ -1,0 +1,35 @@
+{
+ "model": "eleven_v4",
+ "output_format": "mp3_44100_128",
+ "speakers": {
+  "S": {
+   "name": "Pal teacher test Sara",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "owner": "1660580588b63dbec39e4ca21a160cef605969e84448cbc688655770170e64da"
+  },
+  "M": {
+   "name": "Pal teacher test Salma",
+   "voice": "a1KZUXKFVFDOb33I1uqr",
+   "owner": "7398804d9eaf2f463899a907587c33a390591775784f87857b6d0e1e4e3e66f6"
+  },
+  "F": {
+   "name": "Pal teacher test Farah",
+   "voice": "4wf10lgibMnboGJGCLrP",
+   "owner": "f684ad6eda828d3a96f4a8d31b1caa8249cbaa2883a518ccbbf4788ae0429e32"
+  },
+  "G": {
+   "name": "Pal teacher test Ghaida",
+   "voice": "Wim44P0dU9HtjyzNnFsv",
+   "owner": "1c07ef5740387faa0fd1f7e624ce51055c0b270674ab3da0f0e22c2882bce3c4"
+  },
+  "Y": {
+   "name": "Pal teacher test Lina",
+   "voice": "6ZvbKYJmZfL6zVBzLwpV",
+   "owner": "5b59d16d2bda902c4b5b52ce2d07f3112aec8c162cd719e9e227e8fea8e23350"
+  },
+  "A": {
+   "name": "Adam",
+   "voice": "XjGYkUkzth8BPs29fmcV"
+  }
+ }
+}
