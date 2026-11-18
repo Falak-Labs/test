@@ -63,3 +63,12 @@ T | w6 | Good job! Opportunity!
 T | o1 | عجبك الدرس؟ كتب لينا الكلمة الصعيبة فالتعليقات، وتابعنا باش تتعلم كل نهار!
 L | o2 | See you next time!
 A | o3 | Bye!
+T | T_ahp | Ahp.
+T | T_awp | Awp.
+T | T_nee | Nee.
+A | A_ahp | Ahp.
+A | A_awp | Awp.
+A | A_nee | Nee.
+L | L_ahp | Ahp.
+L | L_awp | Awp.
+L | L_nee | Nee.
