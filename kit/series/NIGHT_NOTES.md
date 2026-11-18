@@ -542,3 +542,20 @@
   balance was 55.83 credits on the Plus plan). Samples first; keep the v2 look until he approves one.
 - Repo size: GitHub reports 2.1 GB for Falak-Labs/test (search API `size`), most of it videos in git history;
   GitHub asks for under 5 GB. Six builds a day add about 250 MB a day: move the videos to GitHub Releases soon.
+
+## Nov 17 2026 ~21:50 PT: the Arabic accounts, by the numbers (the owner asked "do you think we still have a hope for Arabic accounts? I don't feel they are doing good")
+- Check-in 21:45 PT: all nine English posts of builds 34-36 are live (34 at 18:40, 35 at 20:00, 36 at 21:30 PT); 37-39
+  are "scheduled" on Nov 18 PT at the right times, so the DATES fix worked. Arabic 34-36 go out 06:00Z, 08:30Z, 11:00Z.
+- Numbers (metrics of 02:44Z Nov 18, builds 1-33): Arabic 26,069 views, English 101,610 (Arabic is a fifth of the total).
+  Arabic Instagram 20,138 (median 195; English median 1,976), Arabic TikTok 4,882 (last eight 113-444, like a typical
+  English TikTok, median 184), Arabic YouTube 1,049 (median 10; two at 256 and 312; English Season 3 about 1,000 each).
+- Arabic Instagram is two-level: a video gets either about 150-250 views or 1,200-2,400. Builds 1-20 (Saudi voice, all
+  sent on Nov 10, the account's first day): 8 of 20 took off (pool, waterslide, claw, submarine, toilet, vault, aircon,
+  bridge), 17,417 views. Builds 21-33 (Egyptian voice and #مصر tags, 2-3 a day): 1 of 13 (the Qatar stadium, 1,248),
+  2,721 views, and three got only 6-10 views (data center, nuclear, tower). Arabic/English ratio per build on Instagram:
+  median 0.74 in Season 2, 0.09 since build 21, while English Instagram went UP. Not known which change did it: the
+  dialect and tags, the topics (heavy machines), or the first-day batch.
+- Told the owner: there is hope (TikTok recovered, YouTube is waking, nine Instagram videos passed 1,200) but Arabic is
+  behind; proposed a test of a Gulf-dialect ElevenLabs voice against the Egyptian one for a few days, Arab-world and
+  everyday topics for Arabic, and a decision on Dec 1. NOTHING is decided: keep Arabic exactly as voices.yml says until
+  he answers. Evening run: carry these numbers into claude/build-it-performance.md with your next entry.
