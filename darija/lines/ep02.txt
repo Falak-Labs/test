@@ -1,0 +1,65 @@
+# Darija -> English lessons, episode 2: 15 everyday phrases, then the hard word (Opportunity).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | i1 | السلام عليكم! مرحبا بيكم.
+T | i2 | اليوم غادي نتعلمو الإنجليزية فالمطعم والسوق.
+T | i3 | يالله، نبداو!
+T | p01t | طابلة لجوج، عافاك.
+A | p01k | A table for two, please.
+T | p02t | عطيني المونيو، عافاك.
+L | p02k | Can I see the menu, please?
+T | p03t | آش كاين عندكم؟
+A | p03k | What do you have?
+T | p04t | بغيت الدجاج، عافاك.
+L | p04k | I want chicken, please.
+T | p05t | بلا بصلة، عافاك.
+A | p05k | No onions, please.
+T | p06t | هاد الماكلة باردة.
+L | p06k | This food is cold.
+T | p07t | مزيانة بزاف!
+A | p07k | It's very good!
+T | p08t | الحساب، عافاك.
+L | p08k | The bill, please.
+T | p09t | واش كاين الوايفاي؟
+A | p09k | Is there Wi-Fi?
+T | p10t | خلي الباقي.
+L | p10k | Keep the change.
+T | p11t | غالي بزاف!
+A | p11k | It's too expensive!
+T | p12t | نقص ليا شوية، عافاك.
+L | p12k | Can you lower the price?
+T | p13t | غادي ناخد هادا.
+A | p13k | I'll take this one.
+T | p14t | أنا من المغرب.
+L | p14k | I'm from Morocco.
+T | p15t | نهارك مبارك!
+A | p15k | Have a nice day!
+T | r0 | نعاودو!
+T | w0 | ودابا، الكلمة الصعيبة ديال اليوم!
+T | tw | Opportunity.
+A | w1 | Wow! It's so long!
+T | w2 | شوية بشوية.
+T | sT | Op. [long pause] Pour. [long pause] Too. [long pause] Nih. [long pause] Tee.
+A | sA | Op. [long pause] Pour. [long pause] Too. [long pause] Nih. [long pause] Tee.
+L | sL | Op. [long pause] Pour. [long pause] Too. [long pause] Nih. [long pause] Tee.
+T | T_op | Op.
+T | T_pour | Pour.
+T | T_too | Too.
+T | T_nih | Nih.
+T | T_tee | Tee.
+A | A_op | Op.
+A | A_pour | Pour.
+A | A_too | Too.
+A | A_nih | Nih.
+A | A_tee | Tee.
+L | L_op | Op.
+L | L_pour | Pour.
+L | L_too | Too.
+L | L_nih | Nih.
+L | L_tee | Tee.
+T | w3 | دابا بالزربة!
+T | w4 | دابا كاملة!
+A | w5 | Opportunity!
+T | w6 | Good job! Opportunity!
+T | o1 | عجبك الدرس؟ كتب لينا الكلمة الصعيبة فالتعليقات، وتابعنا باش تتعلم كل نهار!
+L | o2 | See you next time!
+A | o3 | Bye!
