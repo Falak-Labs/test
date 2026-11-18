@@ -19,6 +19,11 @@ Rules:
   on, write the Arabic script in Saudi dialect (frames: "لو ...، مبروك، كذا سويت لك ..." / "بس قبل لا ...، تابعني،
   لأن الجاي بنبني ..." / "ومبروك، كذا سويت لك ... بيدك"; see kit/series/sample_gulf_a_lines_ar_sa.txt) and add the
   kit name to `ar_alt.kits` in voices.yml; even builds stay Egyptian. Run tools/check_ar_voice.py as usual.
+  Saudi script style: real everyday Najdi/Hejazi-leaning white dialect, never Egyptian or formal Arabic words (use
+  "وش، ليش، كذا، الحين، مرة، يبي، ما عاد، طيب"; not "إيه، ده، دلوقتي"). Short spoken sentences, no stiff written forms,
+  numbers as spoken words, the same 13 lines and fact checks as the English. Write each line to be read aloud by one
+  calm Saudi narrator at about 2.2 words a second; keep qaf natural. Check with tools/check_ar_voice.py and fix any
+  line over 10% before producing.
 - Entries marked "idea" are proposals: check them with a web search before writing; replace one only if it is not
   promised yet and the facts do not hold up.
 
