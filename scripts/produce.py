@@ -88,7 +88,10 @@ def make(slug, kit, langs, look):
             vo = os.path.join("series", "voice", L["voice"].format(kit=kit))
             have = os.path.exists(os.path.join(KIT, vo + ".json")) and os.path.exists(os.path.join(KIT, vo + ".wav"))
             fix = os.environ.get("FIX_LINES", "").strip() if lang == "ar" else ""      # "6,11": take those Saudi lines again
-            eng = VOICES.get(lang) or {}
+            eng = dict(VOICES.get(lang) or {})
+            alt = VOICES.get("ar_alt") or {}                       # A/B test: these kits use the Gulf voice (voices.yml ar_alt)
+            if lang == "ar" and kit in (alt.get("kits") or []):
+                eng.update({k: v for k, v in alt.items() if k != "kits"})
             if not have or fix:
                 if eng.get("engine") == "eleven":                                     # ElevenLabs (voices.yml)
                     if not os.environ.get("ELEVENLABS_API_KEY"):
