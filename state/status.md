@@ -1,4 +1,4 @@
-# Post status 2026-11-18T20:37:06+00:00
+# Post status 2026-11-18T20:43:34+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -236,3 +236,9 @@
 | ep39-pagoda | en.instagram | scheduled |  | 2026-11-19T00:00:00.000Z |
 | ep39-pagoda | en.tiktok | scheduled |  | 2026-11-19T00:00:00.000Z |
 | ep39-pagoda | en.youtube | scheduled |  | 2026-11-19T00:00:00.000Z |
+| ep40-panama | ar.instagram | scheduled |  | 2026-11-19T08:00:00.000Z |
+| ep40-panama | ar.tiktok | scheduled |  | 2026-11-19T08:00:00.000Z |
+| ep40-panama | ar.youtube | scheduled |  | 2026-11-19T08:00:00.000Z |
+| ep40-panama | en.instagram | scheduled |  | 2026-11-19T14:00:00.000Z |
+| ep40-panama | en.tiktok | scheduled |  | 2026-11-19T14:00:00.000Z |
+| ep40-panama | en.youtube | scheduled |  | 2026-11-19T14:00:00.000Z |
