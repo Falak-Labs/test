@@ -1,4 +1,4 @@
-# Post status 2026-11-18T02:42:17+00:00
+# Post status 2026-11-18T02:51:56+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -203,9 +203,9 @@
 | ep34-evcar | ar.instagram | scheduled |  | 2026-11-18T06:00:00.000Z |
 | ep34-evcar | ar.tiktok | scheduled |  | 2026-11-18T06:00:00.000Z |
 | ep34-evcar | ar.youtube | scheduled |  | 2026-11-18T06:00:00.000Z |
-| ep34-evcar | en.instagram | sending |  | 2026-11-18T02:40:00.000Z |
+| ep34-evcar | en.instagram | sent |  | 2026-11-18T02:43:00.051Z https://www.instagram.com/reel/Df3dK5Bpysh/ |
 | ep34-evcar | en.tiktok | sent |  | 2026-11-18T02:41:44.996Z https://tiktok.com/@congratsengineer/video/7709335731075878158 |
-| ep34-evcar | en.youtube | sent |  | 2026-11-18T02:40:04.911Z https://www.youtube.com/watch?v=oGtG5FfH44U |
+| ep34-evcar | en.youtube | sent |  | 2026-11-18T02:40:04.911Z https://www.youtube.com/shorts/oGtG5FfH44U |
 | ep35-phone | ar.instagram | scheduled |  | 2026-11-18T08:30:00.000Z |
 | ep35-phone | ar.tiktok | scheduled |  | 2026-11-18T08:30:00.000Z |
 | ep35-phone | ar.youtube | scheduled |  | 2026-11-18T08:30:00.000Z |
