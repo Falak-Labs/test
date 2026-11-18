@@ -1,0 +1,13 @@
+windtower: 67.36s, 2021 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/windtower/cover.png: ['WIND', 'TOWER'] (frame 0 of the video)
+video done in 333s
+audio done
+final out/windtower/windtower_final.mp4
+QA  duration 67.37s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2021
+QA sheet out/windtower/qa_sheet.png

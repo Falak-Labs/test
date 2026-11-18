@@ -1,0 +1,134 @@
+{
+ "slug": "ep37-windtower",
+ "kit": "windtower",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.37,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "6/231",
+   "mix_lines_off": [
+    "L11 2 diff  | Now just give every house one, like old Dubai or Yazd in Iran, with about 700 of them.",
+    "L12 2 diff  | 5 meters above the roof, up to 10 degrees cooler, and in Egyptian paintings over 3000 years ago.",
+    "L14 2 diff  | 3,000 years of free cooling, your AC brakes on the hottest day and the repair guy can come next week."
+   ],
+   "size_mb": 18.4,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو خليت بيت في الصحرا أبرد عشر درجات، من غير تكييف ولا نقطة كهربا، مبروك، كده انت بنيت برج هوا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الهوا في الشارع واقف، وسخن ومليان تراب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتعلّي برج لفوق لحد النسمة، وفتحته تلقف الهوا وتنزّله جوة الأوضة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الهوا كل شوية يغيّر اتجاهه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتفتحه من الأربع جهات، وتقسمه من جوة، جهة تدخّل الهوا، والباقي يشفط الحر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس فيه أيام مفيش فيها ولا نسمة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فالشمس تسخّن البرج، وهواه يطلع لفوق زي المدخنة، ويسحب معاه حر الأوضة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس هوا الصحرا نفسه سخن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتعلّق قماش مبلول في الفتحات، أو تعدّي الهوا على مية، والمية وهي بتتبخر تبرّده.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تشغّل التكييف، تابعني، عشان اللي جاي هنبني البترا، مدينة محفورة في الجبل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس حط واحد على كل بيت، زي بيوت القاهرة زمان، وكانوا بيسموه الملقف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "خمسة متر فوق السطح، أبرد لحد عشر درجات، ومرسوم عند المصريين القدام من أكتر من تلات تلاف سنة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت برج الهوا بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "تلات تلاف سنة تبريد ببلاش، وتكييفك انت فصل في عز الحر، والفني قالك: الفريون خلص.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -1.7,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.4,
+   "cover": true
+  }
+ }
+}
