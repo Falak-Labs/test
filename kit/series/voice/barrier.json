@@ -1,0 +1,1277 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 64.74,
+ "words": 231,
+ "words_per_sec": 3.57,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 7.646,
+   "text": "If you can swing two steel arms, each longer than two football fields, across a river to stop the sea, congrats, you just built the Dutch storm barrier.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.351
+    },
+    {
+     "w": "you",
+     "start": 0.351,
+     "end": 0.573
+    },
+    {
+     "w": "can",
+     "start": 0.573,
+     "end": 0.794
+    },
+    {
+     "w": "swing",
+     "start": 0.794,
+     "end": 1.016
+    },
+    {
+     "w": "two",
+     "start": 1.016,
+     "end": 1.237
+    },
+    {
+     "w": "steel",
+     "start": 1.237,
+     "end": 1.459
+    },
+    {
+     "w": "arms,",
+     "start": 1.459,
+     "end": 1.68
+    },
+    {
+     "w": "each",
+     "start": 1.81,
+     "end": 2.036
+    },
+    {
+     "w": "longer",
+     "start": 2.036,
+     "end": 2.429
+    },
+    {
+     "w": "than",
+     "start": 2.429,
+     "end": 2.655
+    },
+    {
+     "w": "two",
+     "start": 2.655,
+     "end": 2.881
+    },
+    {
+     "w": "football",
+     "start": 2.881,
+     "end": 3.274
+    },
+    {
+     "w": "fields,",
+     "start": 3.274,
+     "end": 3.5
+    },
+    {
+     "w": "across",
+     "start": 3.62,
+     "end": 3.995
+    },
+    {
+     "w": "a",
+     "start": 3.995,
+     "end": 4.21
+    },
+    {
+     "w": "river",
+     "start": 4.21,
+     "end": 4.584
+    },
+    {
+     "w": "to",
+     "start": 4.584,
+     "end": 4.8
+    },
+    {
+     "w": "stop",
+     "start": 4.8,
+     "end": 5.015
+    },
+    {
+     "w": "the",
+     "start": 5.015,
+     "end": 5.23
+    },
+    {
+     "w": "sea,",
+     "start": 5.23,
+     "end": 5.445
+    },
+    {
+     "w": "congrats,",
+     "start": 5.445,
+     "end": 5.82
+    },
+    {
+     "w": "you",
+     "start": 5.95,
+     "end": 6.159
+    },
+    {
+     "w": "just",
+     "start": 6.159,
+     "end": 6.369
+    },
+    {
+     "w": "built",
+     "start": 6.369,
+     "end": 6.578
+    },
+    {
+     "w": "the",
+     "start": 6.578,
+     "end": 6.787
+    },
+    {
+     "w": "Dutch",
+     "start": 6.787,
+     "end": 6.996
+    },
+    {
+     "w": "storm",
+     "start": 6.996,
+     "end": 7.206
+    },
+    {
+     "w": "barrier.",
+     "start": 7.206,
+     "end": 7.57
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 8.01,
+   "end": 13.156,
+   "text": "But a quarter of the Netherlands is below the sea, and storms push the North Sea up the river to Rotterdam.",
+   "words": [
+    {
+     "w": "But",
+     "start": 8.15,
+     "end": 8.323
+    },
+    {
+     "w": "a",
+     "start": 8.323,
+     "end": 8.496
+    },
+    {
+     "w": "quarter",
+     "start": 8.496,
+     "end": 8.796
+    },
+    {
+     "w": "of",
+     "start": 8.796,
+     "end": 8.969
+    },
+    {
+     "w": "the",
+     "start": 8.969,
+     "end": 9.142
+    },
+    {
+     "w": "Netherlands",
+     "start": 9.142,
+     "end": 9.571
+    },
+    {
+     "w": "is",
+     "start": 9.571,
+     "end": 9.744
+    },
+    {
+     "w": "below",
+     "start": 9.744,
+     "end": 10.044
+    },
+    {
+     "w": "the",
+     "start": 10.044,
+     "end": 10.217
+    },
+    {
+     "w": "sea,",
+     "start": 10.217,
+     "end": 10.39
+    },
+    {
+     "w": "and",
+     "start": 10.52,
+     "end": 10.714
+    },
+    {
+     "w": "storms",
+     "start": 10.714,
+     "end": 10.909
+    },
+    {
+     "w": "push",
+     "start": 10.909,
+     "end": 11.103
+    },
+    {
+     "w": "the",
+     "start": 11.103,
+     "end": 11.297
+    },
+    {
+     "w": "North",
+     "start": 11.297,
+     "end": 11.492
+    },
+    {
+     "w": "Sea",
+     "start": 11.492,
+     "end": 11.686
+    },
+    {
+     "w": "up",
+     "start": 11.686,
+     "end": 11.881
+    },
+    {
+     "w": "the",
+     "start": 11.881,
+     "end": 12.075
+    },
+    {
+     "w": "river",
+     "start": 12.075,
+     "end": 12.413
+    },
+    {
+     "w": "to",
+     "start": 12.413,
+     "end": 12.608
+    },
+    {
+     "w": "Rotterdam.",
+     "start": 12.608,
+     "end": 13.09
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 13.521,
+   "end": 15.365,
+   "text": "So you'd wall the river off with a dam.",
+   "words": [
+    {
+     "w": "So",
+     "start": 13.621,
+     "end": 13.792
+    },
+    {
+     "w": "you'd",
+     "start": 13.792,
+     "end": 13.964
+    },
+    {
+     "w": "wall",
+     "start": 13.964,
+     "end": 14.135
+    },
+    {
+     "w": "the",
+     "start": 14.135,
+     "end": 14.307
+    },
+    {
+     "w": "river",
+     "start": 14.307,
+     "end": 14.605
+    },
+    {
+     "w": "off",
+     "start": 14.605,
+     "end": 14.777
+    },
+    {
+     "w": "with",
+     "start": 14.777,
+     "end": 14.948
+    },
+    {
+     "w": "a",
+     "start": 14.948,
+     "end": 15.12
+    },
+    {
+     "w": "dam.",
+     "start": 15.12,
+     "end": 15.291
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 15.729,
+   "end": 18.083,
+   "text": "But that river is the road to Europe's biggest port.",
+   "words": [
+    {
+     "w": "But",
+     "start": 15.869,
+     "end": 16.033
+    },
+    {
+     "w": "that",
+     "start": 16.033,
+     "end": 16.198
+    },
+    {
+     "w": "river",
+     "start": 16.198,
+     "end": 16.484
+    },
+    {
+     "w": "is",
+     "start": 16.484,
+     "end": 16.648
+    },
+    {
+     "w": "the",
+     "start": 16.648,
+     "end": 16.812
+    },
+    {
+     "w": "road",
+     "start": 16.812,
+     "end": 16.977
+    },
+    {
+     "w": "to",
+     "start": 16.977,
+     "end": 17.141
+    },
+    {
+     "w": "Europe's",
+     "start": 17.141,
+     "end": 17.549
+    },
+    {
+     "w": "biggest",
+     "start": 17.549,
+     "end": 17.835
+    },
+    {
+     "w": "port.",
+     "start": 17.835,
+     "end": 17.999
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.448,
+   "end": 21.76,
+   "text": "So you build two hollow gates that wait open in docks on the banks.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.558,
+     "end": 18.752
+    },
+    {
+     "w": "you",
+     "start": 18.752,
+     "end": 18.945
+    },
+    {
+     "w": "build",
+     "start": 18.945,
+     "end": 19.139
+    },
+    {
+     "w": "two",
+     "start": 19.139,
+     "end": 19.332
+    },
+    {
+     "w": "hollow",
+     "start": 19.332,
+     "end": 19.669
+    },
+    {
+     "w": "gates",
+     "start": 19.669,
+     "end": 20.006
+    },
+    {
+     "w": "that",
+     "start": 20.006,
+     "end": 20.2
+    },
+    {
+     "w": "wait",
+     "start": 20.2,
+     "end": 20.393
+    },
+    {
+     "w": "open",
+     "start": 20.393,
+     "end": 20.73
+    },
+    {
+     "w": "in",
+     "start": 20.73,
+     "end": 20.924
+    },
+    {
+     "w": "docks",
+     "start": 20.924,
+     "end": 21.117
+    },
+    {
+     "w": "on",
+     "start": 21.117,
+     "end": 21.311
+    },
+    {
+     "w": "the",
+     "start": 21.311,
+     "end": 21.504
+    },
+    {
+     "w": "banks.",
+     "start": 21.504,
+     "end": 21.698
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 22.125,
+   "end": 25.646,
+   "text": "But each is heavier than a thousand elephants: no hinge can swing that.",
+   "words": [
+    {
+     "w": "But",
+     "start": 22.255,
+     "end": 22.462
+    },
+    {
+     "w": "each",
+     "start": 22.462,
+     "end": 22.668
+    },
+    {
+     "w": "is",
+     "start": 22.668,
+     "end": 22.875
+    },
+    {
+     "w": "heavier",
+     "start": 22.875,
+     "end": 23.235
+    },
+    {
+     "w": "than",
+     "start": 23.235,
+     "end": 23.442
+    },
+    {
+     "w": "a",
+     "start": 23.442,
+     "end": 23.649
+    },
+    {
+     "w": "thousand",
+     "start": 23.649,
+     "end": 24.008
+    },
+    {
+     "w": "elephants:",
+     "start": 24.008,
+     "end": 24.521
+    },
+    {
+     "w": "no",
+     "start": 24.521,
+     "end": 24.728
+    },
+    {
+     "w": "hinge",
+     "start": 24.728,
+     "end": 24.935
+    },
+    {
+     "w": "can",
+     "start": 24.935,
+     "end": 25.142
+    },
+    {
+     "w": "swing",
+     "start": 25.142,
+     "end": 25.348
+    },
+    {
+     "w": "that.",
+     "start": 25.348,
+     "end": 25.555
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 26.01,
+   "end": 31.125,
+   "text": "So you flood the docks, the gates float, and each swings out on a giant steel ball joint, like a shoulder.",
+   "words": [
+    {
+     "w": "So",
+     "start": 26.12,
+     "end": 26.306
+    },
+    {
+     "w": "you",
+     "start": 26.306,
+     "end": 26.492
+    },
+    {
+     "w": "flood",
+     "start": 26.492,
+     "end": 26.678
+    },
+    {
+     "w": "the",
+     "start": 26.678,
+     "end": 26.864
+    },
+    {
+     "w": "docks,",
+     "start": 26.864,
+     "end": 27.05
+    },
+    {
+     "w": "the",
+     "start": 27.1,
+     "end": 27.351
+    },
+    {
+     "w": "gates",
+     "start": 27.351,
+     "end": 27.789
+    },
+    {
+     "w": "float,",
+     "start": 27.789,
+     "end": 28.04
+    },
+    {
+     "w": "and",
+     "start": 28.2,
+     "end": 28.415
+    },
+    {
+     "w": "each",
+     "start": 28.415,
+     "end": 28.63
+    },
+    {
+     "w": "swings",
+     "start": 28.63,
+     "end": 28.845
+    },
+    {
+     "w": "out",
+     "start": 28.845,
+     "end": 29.06
+    },
+    {
+     "w": "on",
+     "start": 29.06,
+     "end": 29.275
+    },
+    {
+     "w": "a",
+     "start": 29.275,
+     "end": 29.49
+    },
+    {
+     "w": "giant",
+     "start": 29.49,
+     "end": 29.705
+    },
+    {
+     "w": "steel",
+     "start": 29.705,
+     "end": 29.92
+    },
+    {
+     "w": "ball",
+     "start": 29.92,
+     "end": 30.135
+    },
+    {
+     "w": "joint,",
+     "start": 30.135,
+     "end": 30.35
+    },
+    {
+     "w": "like",
+     "start": 30.48,
+     "end": 30.638
+    },
+    {
+     "w": "a",
+     "start": 30.638,
+     "end": 30.795
+    },
+    {
+     "w": "shoulder.",
+     "start": 30.795,
+     "end": 31.07
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.49,
+   "end": 34.677,
+   "text": "But a floating gate bobs on the waves, and the sea slips under it.",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.63,
+     "end": 31.822
+    },
+    {
+     "w": "a",
+     "start": 31.822,
+     "end": 32.014
+    },
+    {
+     "w": "floating",
+     "start": 32.014,
+     "end": 32.348
+    },
+    {
+     "w": "gate",
+     "start": 32.348,
+     "end": 32.54
+    },
+    {
+     "w": "bobs",
+     "start": 32.54,
+     "end": 32.732
+    },
+    {
+     "w": "on",
+     "start": 32.732,
+     "end": 32.924
+    },
+    {
+     "w": "the",
+     "start": 32.924,
+     "end": 33.116
+    },
+    {
+     "w": "waves,",
+     "start": 33.116,
+     "end": 33.45
+    },
+    {
+     "w": "and",
+     "start": 33.58,
+     "end": 33.731
+    },
+    {
+     "w": "the",
+     "start": 33.731,
+     "end": 33.883
+    },
+    {
+     "w": "sea",
+     "start": 33.883,
+     "end": 34.034
+    },
+    {
+     "w": "slips",
+     "start": 34.034,
+     "end": 34.185
+    },
+    {
+     "w": "under",
+     "start": 34.185,
+     "end": 34.449
+    },
+    {
+     "w": "it.",
+     "start": 34.449,
+     "end": 34.6
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.042,
+   "end": 40.146,
+   "text": "So when they meet, you let water in, and they sink to the riverbed: a steel wall twenty-two meters tall.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.152,
+     "end": 35.327
+    },
+    {
+     "w": "when",
+     "start": 35.327,
+     "end": 35.502
+    },
+    {
+     "w": "they",
+     "start": 35.502,
+     "end": 35.677
+    },
+    {
+     "w": "meet,",
+     "start": 35.677,
+     "end": 35.852
+    },
+    {
+     "w": "you",
+     "start": 36.012,
+     "end": 36.206
+    },
+    {
+     "w": "let",
+     "start": 36.206,
+     "end": 36.4
+    },
+    {
+     "w": "water",
+     "start": 36.4,
+     "end": 36.738
+    },
+    {
+     "w": "in,",
+     "start": 36.738,
+     "end": 36.932
+    },
+    {
+     "w": "and",
+     "start": 37.092,
+     "end": 37.28
+    },
+    {
+     "w": "they",
+     "start": 37.28,
+     "end": 37.469
+    },
+    {
+     "w": "sink",
+     "start": 37.469,
+     "end": 37.657
+    },
+    {
+     "w": "to",
+     "start": 37.657,
+     "end": 37.846
+    },
+    {
+     "w": "the",
+     "start": 37.846,
+     "end": 38.034
+    },
+    {
+     "w": "riverbed:",
+     "start": 38.034,
+     "end": 38.502
+    },
+    {
+     "w": "a",
+     "start": 38.552,
+     "end": 38.736
+    },
+    {
+     "w": "steel",
+     "start": 38.736,
+     "end": 38.919
+    },
+    {
+     "w": "wall",
+     "start": 38.919,
+     "end": 39.103
+    },
+    {
+     "w": "twenty-two",
+     "start": 39.103,
+     "end": 39.559
+    },
+    {
+     "w": "meters",
+     "start": 39.559,
+     "end": 39.878
+    },
+    {
+     "w": "tall.",
+     "start": 39.878,
+     "end": 40.062
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 40.51,
+   "end": 44.813,
+   "text": "But before the storm hits, follow, because next we're building Venice on wooden piles.",
+   "words": [
+    {
+     "w": "But",
+     "start": 40.65,
+     "end": 40.866
+    },
+    {
+     "w": "before",
+     "start": 40.866,
+     "end": 41.242
+    },
+    {
+     "w": "the",
+     "start": 41.242,
+     "end": 41.458
+    },
+    {
+     "w": "storm",
+     "start": 41.458,
+     "end": 41.674
+    },
+    {
+     "w": "hits,",
+     "start": 41.674,
+     "end": 41.89
+    },
+    {
+     "w": "follow,",
+     "start": 42.06,
+     "end": 42.39
+    },
+    {
+     "w": "because",
+     "start": 42.52,
+     "end": 42.852
+    },
+    {
+     "w": "next",
+     "start": 42.852,
+     "end": 43.042
+    },
+    {
+     "w": "we're",
+     "start": 43.042,
+     "end": 43.233
+    },
+    {
+     "w": "building",
+     "start": 43.233,
+     "end": 43.564
+    },
+    {
+     "w": "Venice",
+     "start": 43.564,
+     "end": 43.896
+    },
+    {
+     "w": "on",
+     "start": 43.896,
+     "end": 44.087
+    },
+    {
+     "w": "wooden",
+     "start": 44.087,
+     "end": 44.418
+    },
+    {
+     "w": "piles.",
+     "start": 44.418,
+     "end": 44.75
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 45.177,
+   "end": 49.719,
+   "text": "Now hand the button to a computer: if the sea will rise three meters, it closes by itself.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 45.287,
+     "end": 45.471
+    },
+    {
+     "w": "hand",
+     "start": 45.471,
+     "end": 45.656
+    },
+    {
+     "w": "the",
+     "start": 45.656,
+     "end": 45.84
+    },
+    {
+     "w": "button",
+     "start": 45.84,
+     "end": 46.161
+    },
+    {
+     "w": "to",
+     "start": 46.161,
+     "end": 46.345
+    },
+    {
+     "w": "a",
+     "start": 46.345,
+     "end": 46.53
+    },
+    {
+     "w": "computer:",
+     "start": 46.53,
+     "end": 46.987
+    },
+    {
+     "w": "if",
+     "start": 47.047,
+     "end": 47.23
+    },
+    {
+     "w": "the",
+     "start": 47.23,
+     "end": 47.414
+    },
+    {
+     "w": "sea",
+     "start": 47.414,
+     "end": 47.597
+    },
+    {
+     "w": "will",
+     "start": 47.597,
+     "end": 47.781
+    },
+    {
+     "w": "rise",
+     "start": 47.781,
+     "end": 47.964
+    },
+    {
+     "w": "three",
+     "start": 47.964,
+     "end": 48.148
+    },
+    {
+     "w": "meters,",
+     "start": 48.148,
+     "end": 48.467
+    },
+    {
+     "w": "it",
+     "start": 48.587,
+     "end": 48.771
+    },
+    {
+     "w": "closes",
+     "start": 48.771,
+     "end": 49.092
+    },
+    {
+     "w": "by",
+     "start": 49.092,
+     "end": 49.276
+    },
+    {
+     "w": "itself.",
+     "start": 49.276,
+     "end": 49.597
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 50.083,
+   "end": 55.677,
+   "text": "Six thousand eight hundred tonnes an arm, ten-meter ball joints, and ten years of waiting for its first real storm.",
+   "words": [
+    {
+     "w": "Six",
+     "start": 50.183,
+     "end": 50.389
+    },
+    {
+     "w": "thousand",
+     "start": 50.389,
+     "end": 50.748
+    },
+    {
+     "w": "eight",
+     "start": 50.748,
+     "end": 50.954
+    },
+    {
+     "w": "hundred",
+     "start": 50.954,
+     "end": 51.312
+    },
+    {
+     "w": "tonnes",
+     "start": 51.312,
+     "end": 51.671
+    },
+    {
+     "w": "an",
+     "start": 51.671,
+     "end": 51.877
+    },
+    {
+     "w": "arm,",
+     "start": 51.877,
+     "end": 52.083
+    },
+    {
+     "w": "ten-meter",
+     "start": 52.263,
+     "end": 52.855
+    },
+    {
+     "w": "ball",
+     "start": 52.855,
+     "end": 53.094
+    },
+    {
+     "w": "joints,",
+     "start": 53.094,
+     "end": 53.333
+    },
+    {
+     "w": "and",
+     "start": 53.463,
+     "end": 53.661
+    },
+    {
+     "w": "ten",
+     "start": 53.661,
+     "end": 53.86
+    },
+    {
+     "w": "years",
+     "start": 53.86,
+     "end": 54.058
+    },
+    {
+     "w": "of",
+     "start": 54.058,
+     "end": 54.256
+    },
+    {
+     "w": "waiting",
+     "start": 54.256,
+     "end": 54.601
+    },
+    {
+     "w": "for",
+     "start": 54.601,
+     "end": 54.8
+    },
+    {
+     "w": "its",
+     "start": 54.8,
+     "end": 54.998
+    },
+    {
+     "w": "first",
+     "start": 54.998,
+     "end": 55.196
+    },
+    {
+     "w": "real",
+     "start": 55.196,
+     "end": 55.395
+    },
+    {
+     "w": "storm.",
+     "start": 55.395,
+     "end": 55.593
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.042,
+   "end": 59.198,
+   "text": "And congrats, you just built the Dutch storm barrier yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.162,
+     "end": 56.421
+    },
+    {
+     "w": "congrats,",
+     "start": 56.421,
+     "end": 56.872
+    },
+    {
+     "w": "you",
+     "start": 57.012,
+     "end": 57.229
+    },
+    {
+     "w": "just",
+     "start": 57.229,
+     "end": 57.447
+    },
+    {
+     "w": "built",
+     "start": 57.447,
+     "end": 57.664
+    },
+    {
+     "w": "the",
+     "start": 57.664,
+     "end": 57.881
+    },
+    {
+     "w": "Dutch",
+     "start": 57.881,
+     "end": 58.098
+    },
+    {
+     "w": "storm",
+     "start": 58.098,
+     "end": 58.316
+    },
+    {
+     "w": "barrier",
+     "start": 58.316,
+     "end": 58.694
+    },
+    {
+     "w": "yourself.",
+     "start": 58.694,
+     "end": 59.072
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.562,
+   "end": 64.75,
+   "text": "And in a storm, the Dutch race old bikes straight into it, on a storm barrier: the headwind championship.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.692,
+     "end": 59.874
+    },
+    {
+     "w": "in",
+     "start": 59.874,
+     "end": 60.057
+    },
+    {
+     "w": "a",
+     "start": 60.057,
+     "end": 60.24
+    },
+    {
+     "w": "storm,",
+     "start": 60.24,
+     "end": 60.422
+    },
+    {
+     "w": "the",
+     "start": 60.602,
+     "end": 60.788
+    },
+    {
+     "w": "Dutch",
+     "start": 60.788,
+     "end": 60.973
+    },
+    {
+     "w": "race",
+     "start": 60.973,
+     "end": 61.159
+    },
+    {
+     "w": "old",
+     "start": 61.159,
+     "end": 61.344
+    },
+    {
+     "w": "bikes",
+     "start": 61.344,
+     "end": 61.668
+    },
+    {
+     "w": "straight",
+     "start": 61.668,
+     "end": 61.853
+    },
+    {
+     "w": "into",
+     "start": 61.853,
+     "end": 62.176
+    },
+    {
+     "w": "it,",
+     "start": 62.176,
+     "end": 62.362
+    },
+    {
+     "w": "on",
+     "start": 62.492,
+     "end": 62.69
+    },
+    {
+     "w": "a",
+     "start": 62.69,
+     "end": 62.889
+    },
+    {
+     "w": "storm",
+     "start": 62.889,
+     "end": 63.087
+    },
+    {
+     "w": "barrier:",
+     "start": 63.087,
+     "end": 63.432
+    },
+    {
+     "w": "the",
+     "start": 63.592,
+     "end": 63.793
+    },
+    {
+     "w": "headwind",
+     "start": 63.793,
+     "end": 64.143
+    },
+    {
+     "w": "championship.",
+     "start": 64.143,
+     "end": 64.642
+    }
+   ]
+  }
+ ]
+}
