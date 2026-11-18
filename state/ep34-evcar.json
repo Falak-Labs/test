@@ -5,9 +5,10 @@
    "channel": "6af2b54962b70b94b0ddd768",
    "service": "youtube",
    "status": "scheduled",
-   "dueAt": "2026-11-18T14:00:00.000Z",
+   "dueAt": "2026-11-18T02:40:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-17T04:04:59+00:00"
+   "created": "2026-11-17T04:04:59+00:00",
+   "moved": "2026-11-18T02:05:44+00:00"
   },
   "en.instagram": {
    "id": "6afbd26e4b26315855bd21fa",
