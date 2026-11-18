@@ -525,3 +525,20 @@
   the pillar stops a storey that swings too far (The Economist 1997, Ishida's shake-table models); wide eaves add
   stability (Wikipedia); Skytree 634 m, a 375 m concrete central column, up to about 50% less shaking
   (gov-online.go.jp).
+
+## Nov 17 2026 ~21:00 PT: six builds a day from Nov 19, new English voice and a richer look on the way
+- The owner: "I will pay the Pro" (ElevenLabs Pro, 600,000 credits a month) and "Let's start posting 6 videos a day".
+  Two runs a day, three builds each, both for TOMORROW (PT): "Build-It midday production" (11:23 PT, new) takes
+  TOMORROW's first three slots, English 06:00 / 08:30 / 11:00 and Arabic 00:00 / 03:00 / 06:00 PT; "Build-It daily
+  production" (18:37 PT) takes the last three, English 13:30 / 16:00 / 18:30 and Arabic 09:00 / 12:00 / 15:00 PT.
+  kit/series/LINEUP.md is the shared lineup (posting order, line 10 promises, how to add ideas). First six-a-day day:
+  Thu Nov 19 (40-42 from the midday run of Nov 18, 43-45 from the evening run of Nov 18).
+- ElevenLabs account on Nov 17 (MCP account_get_usage): Creator, 58,098 of 127,949 used, resets Dec 12. Six Arabic
+  builds a day is about 5,400 credits a day: Creator alone would run out before Dec 12, hence Pro.
+- He is bothered by the English Easton voice: samples of four ElevenLabs English voices go to him tonight; English
+  stays on Easton until he picks one (then voices.yml en: {engine: eleven, voice: <id>, model: ...}).
+- He wants "some taste": he picked "richer animation" and "cinematic AI shots" (Higgsfield: a 5 s Kling 3.0 clip,
+  9:16, no sound, costs about 7.5 credits; Veo 3.1 fast 4 s about 16; Seedance 2.5 720p 5 s about 35; the Higgsfield
+  balance was 55.83 credits on the Plus plan). Samples first; keep the v2 look until he approves one.
+- Repo size: GitHub reports 2.1 GB for Falak-Labs/test (search API `size`), most of it videos in git history;
+  GitHub asks for under 5 GB. Six builds a day add about 250 MB a day: move the videos to GitHub Releases soon.
