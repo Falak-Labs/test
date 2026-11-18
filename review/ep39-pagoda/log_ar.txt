@@ -1,0 +1,7 @@
+pagoda_ar_sa: 71.69s, 2151 frames
+cover out/pagoda_ar_sa/cover.png: ['الباجودا', 'اليابانية'] (frame 0 of the video)
+video done in 511s
+audio done
+final out/pagoda_ar_sa/pagoda_ar_sa_final.mp4
+QA  duration 71.70s  loudness -14.0 LUFS  true peak -1.6 dBFS  1080x1920 @ 30/1  frames 2151
+QA sheet out/pagoda_ar_sa/qa_sheet.png
