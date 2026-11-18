@@ -612,3 +612,41 @@
   Egyptian and Jordanian frames. Follow LINEUP.md and voices.yml `ar_alt` anyway: every odd build from 41 gets a Saudi
   script and Mansour (add the kit to ar_alt.kits and push before its voice is made); even builds stay Egyptian.
   (Changing a scheduled task's prompt needs the owner's OK in a chat turn; a scheduled run cannot do it.)
+
+## Nov 18 2026 (midday run, 11:23 PT): 40 Panama Canal locks, 41 Dutch storm barrier, 42 Venice (first six-a-day day)
+- TODAY Nov 18 PT, TOMORROW Thu Nov 19 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT before
+  the push). PST from Nov 1: 00:00 / 03:00 / 06:00 PT = 08:00Z / 11:00Z / 14:00Z; 06:00 / 08:30 / 11:00 PT = 14:00Z /
+  16:30Z / 19:00Z.
+- Status 19:26Z: Arabic 35-36 (00:30, 03:00 PT) and English 37-38 (06:00, 10:00 PT) all live; Arabic 37 Instagram and
+  YouTube live, its TikTok "potential spam" at 17:00Z -> requeued to 02:00Z Nov 19 (18:00 PT Nov 18): 3 h after Arabic
+  39's TikTok (23:00Z), 6 h before Arabic 40's (08:00Z). The evening run's step 0 should see it "sent".
+- Pages: retired ep22-ep24 (all sent): media/ 609 -> 507 MB before today's six videos (about 105 MB). Next: ep25-ep27.
+- A/B test: 41 is odd -> `barrier` added to voices.yml ar_alt.kits (Mansour, Saudi script). scripts/produce.py now
+  applies ar_alt too (before, any Arabic voice produce.py had to make, or a `fix` run, used the Egyptian voice).
+- Voices: Easton 66.41 / 64.93 / 66.26 s (227 / 232 / 225 words; Venice was 67.02 s at 228 words, trimmed and remade).
+  ElevenLabs (one take each, 961 + 868 + 920 characters): Egyptian panama 71.57 s (166 words) and venice 68.68 s
+  (165), Mansour barrier 68.63 s (155 words). All three hit make_vo_eleven's 12% speed-up cap (tempo 1.12): Mansour
+  reads about 2.0 words/s, so keep Saudi scripts near 145-150 words; Egyptian 165 words lands at 69-72 s.
+- Whisper small on the first English voices misheard "riverbed" (river but), "tonnes an arm" (tons in arm), "rots"
+  (rods) and "Istrian" (history and): reworded ("to the bottom", "per arm", "goes rotten", "hard white stone").
+  check_ar_voice: no weak lines; the Saudi lines over 10% (barrier 9 and 12) are digits only (Whisper writes numbers).
+- Scenes: panama.py (canal = side view of the staircase, levels(u) gives every chamber's water and the ship for climb
+  progress u 0..3, gate_closed(); map of the Americas with the long way round; dam; lock = one chamber in section with
+  the culvert, floor holes, a crossed-out pump and a bath duck; gate = one leaf = 400 cars, x-ray hollow cells, then the
+  two leaves from above closing into a V; mules = top view, ship_top(), mule()); barrier.py (river/dam/docks from above:
+  arm_pose(swing) turns each arm 90 degrees about its ball joint J, gate_arm() draws truss + curved gate; surge and sink
+  in section; tag: riders on old bikes in English, the dallah and the desert in Arabic); venice.py (city cut open:
+  palaces on pile forests, tree() flips into a pile, the Rialto arch, carbody() -> gondola; mud with the drop-weight
+  rig and singing crew; deep with the rock far below and the spiral of pile heads from above; rot; wall with bricks
+  that soak up salt, sawn piles, boards and the stone band; cafe with the folded napkin).
+- Lessons: Track.to(t, v, dur): dur is the length of the move; dur 0 jumps (the first hook climb sat still).
+  v2 has no splash(): use splash() from v2set (v2_base imports it). Bright yellow facades bloom white in v2's Post:
+  keep big flat areas mid-tone (Venice facades were darkened). A glyph like the subscript 2 or an arrow may be missing
+  in Poppins: write "O2", avoid arrows.
+- Produce: one slug per run as each scene was ready (40 at 20:21Z, 41 at 20:28Z, 42 at 20:35Z).
+- Videos: 40 EN 69.5 s / AR 74.7 s, 41 EN 68.0 / AR 71.7 (Mansour), 42 EN 69.4 / AR 71.8; -14 LUFS, peaks -1.7 to
+  -2.2 dBFS, covers in. Whisper small on the English mixes: number formats, plus Easton's "in dry docks" -> "and dry
+  docks" and "gate bobs" -> "gatebods" in 41 (captions carry the words; left as is). All 18 targets "scheduled" for
+  Thu Nov 19 PT (state/ep40-42 checked by turning every dueAt back into PT).
+- Arabic 38 TikTok got "potential spam" at 20:00Z: requeued to 05:00Z Nov 19 (21:00 PT Nov 18), 3 h from Arabic 37's
+  requeue (02:00Z) and 40's (08:00Z). Arabic TikTok is refusing about one post a day: keep 3 h between Arabic TikToks.
