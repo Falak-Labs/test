@@ -35,6 +35,9 @@ for lang in langs:
         print(f"{lang}: {vo} already exists, kept (FORCE=true to make it again)")
         continue
     eng = dict(VOICES.get(lang) or {})
+    alt = VOICES.get("ar_alt") or {}                       # A/B test: these kits use the Gulf voice (voices.yml ar_alt)
+    if lang == "ar" and kit in (alt.get("kits") or []):
+        eng.update({k: v for k, v in alt.items() if k != "kits"})
     override = os.environ.get("VOICE_OVERRIDE", "").strip()
     if override and (lang == "ar" or kit.startswith("sample")):       # try another ElevenLabs voice (samples);
         eng.update(engine="eleven", voice=override)                    # English only for sample kits

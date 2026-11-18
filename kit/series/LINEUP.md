@@ -15,6 +15,10 @@ Rules:
   (claude/build-it-performance.md): famous mega-structures and places with a real story, and everyday things people
   use. Mix countries and cultures (the Arab world, Asia, Africa, Europe, the Americas). Avoid religious rituals,
   politics, anything that mocks a culture, gadgets-in-a-lab openers and far-away space pictures.
+- Arabic voice A/B test (owner picked the Gulf voice Mansour, Nov 17 22:15 PT): for every ODD-numbered build from 41
+  on, write the Arabic script in Saudi dialect (frames: "لو ...، مبروك، كذا سويت لك ..." / "بس قبل لا ...، تابعني،
+  لأن الجاي بنبني ..." / "ومبروك، كذا سويت لك ... بيدك"; see kit/series/sample_gulf_a_lines_ar_sa.txt) and add the
+  kit name to `ar_alt.kits` in voices.yml; even builds stay Egyptian. Run tools/check_ar_voice.py as usual.
 - Entries marked "idea" are proposals: check them with a web search before writing; replace one only if it is not
   promised yet and the facts do not hold up.
 

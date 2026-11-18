@@ -593,3 +593,7 @@
   qaf read as "g". Library voices work with the API key directly on his paid plan. About 1,200 credits. Waiting for
   his pick; voices.yml stays on the Egyptian voice until he says. Saudi frames, as in Seasons 1-2: "لو ...، مبروك، كذا
   سويت لك ..." / "بس قبل لا ...، تابعني، لأن الجاي بنبني ..." / "ومبروك، كذا سويت لك ... بيدك".
+- Nov 17 22:15 PT: the owner picked Gulf voice 1 (Mansour 5HAezIQAaoSgJypcI0NP). A/B test set up: voices.yml ar_alt
+  (Saudi dialect, kits list) + make_voices.py uses it for kits listed there; LINEUP.md rule: odd builds from 41 get
+  Mansour with a Saudi script, even builds stay Egyptian (IES4nrmZdUBHByLBde0P). Builds 37-40 are unchanged. Decision on
+  Dec 1: compare Arabic views per voice (metrics.json), keep the winner. Record each voice per build in performance doc.
