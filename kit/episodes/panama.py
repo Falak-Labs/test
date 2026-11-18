@@ -162,17 +162,17 @@ def ship_top(c, x, y, Wd, Ln, a=1.0):
         return
     p = skia.Path()
     p.moveTo(x, y)
-    p.quadTo(x + Wd * 0.5, y + Wd * 0.4, x + Wd * 0.5, y + Wd * 1.1)
+    p.quadTo(x + Wd * 0.5, y + Wd * 0.1, x + Wd * 0.5, y + Wd * 0.5)
     p.lineTo(x + Wd * 0.5, y + Ln)
     p.lineTo(x - Wd * 0.5, y + Ln)
-    p.lineTo(x - Wd * 0.5, y + Wd * 1.1)
-    p.quadTo(x - Wd * 0.5, y + Wd * 0.4, x, y)
+    p.lineTo(x - Wd * 0.5, y + Wd * 0.5)
+    p.quadTo(x - Wd * 0.5, y + Wd * 0.1, x, y)
     p.close()
     c.drawPath(p, lin_paint(x - Wd / 2, 0, x + Wd / 2, 0, ["#1B2540", "#2E3E66", "#1B2540"], a=a))
     rng = random.Random(3)
-    rows = int((Ln - Wd * 1.4) / 44)
+    rows = int((Ln - Wd * 0.8 - 140) / 44)
     for r_ in range(rows):
-        yy = y + Wd * 1.2 + r_ * 44
+        yy = y + Wd * 0.62 + r_ * 44
         for k_ in range(6):
             col = BOX_COLS[rng.randrange(len(BOX_COLS))]
             bw = (Wd - 30) / 6.0
@@ -319,14 +319,19 @@ class Panama(EpisodeV2):
         self.cut(s("tag") - 0.2, "swim", 1)
         # ---- the climb: 0..3 = chambers passed; hook climbs from 0 to 3, the closer shows it again
         h0, h1 = 0.0, s("break1") - 0.3
-        self.climb_hook = Track(0.15).to(h0 + 0.05, 0.15, 0.0).to(h1, 3.05, 0.0)
-        self.climb_close = Track(0.6).to(s("closer") - 0.1, 0.6, 0.0).to(self.duration, 1.9, 0.0)
+        lin = (lambda x: x)
+        self.climb_hook = Track(0.15).to(h0 + 0.05, 3.05, h1 - h0 - 0.05, lin)
+        self.climb_close = Track(0.6).to(s("closer") - 0.1, 0.6, 0.0).to(s("closer"), 1.6, e("closer") - s("closer"), lin)
         # reveal: a ship through the whole canal (u: 0..3 up, 3..4 lake, 4..7 down, 7..7.5 ocean)
-        self.trip = Track(0.0).to(s("reveal"), 0.0, 0.0).to(s("stat") - 0.15, 7.5, 0.0)
-        cm = Camera(-300, -420, 0.86)
-        cm.key(0.05, -250, -430, 0.88, 0.0).key(T["congrats"], 120, -520, 0.72, 2.2)
-        cm.key(s("reveal") - 0.12, 900, -420, 0.27, 0.0)
-        cm.key(s("closer") - 0.1, -220, -420, 0.86, 0.0).key(self.duration, -150, -430, 0.9, 2.0)
+        r0 = s("reveal") + 0.05
+        self.trip = Track(0.0).to(r0, 3.0, max(0.3, T["across"] - r0), lin).to(T["across"], 4.0, max(0.3, T["down"] - T["across"]), lin) \
+            .to(T["down"], 7.0, max(0.3, T["ocean"] - T["down"]), lin).to(T["ocean"], 7.5, max(0.3, s("stat") - 0.15 - T["ocean"]), lin)
+        cm = Camera(-20, -105, 0.95)
+        cm.key(0.05, -20, -105, 0.95, 0.0).key(T["stair"], 120, -140, 0.88, 3.0).key(T["congrats"], 260, -160, 0.84, 2.4)
+        cm.key(s("reveal") - 0.12, -60, -95, 0.42, 0.0).key(T["across"], 1150, -95, 0.42, 1.2)
+        cm.key(T["down"], 2350, -95, 0.42, 1.0).key(T["ocean"], 3050, -95, 0.42, 1.0)
+        cm.key(s("stat") - 0.12, 1250, -150, 0.27, 0.0)
+        cm.key(s("closer") - 0.1, -20, -105, 0.95, 0.0).key(self.duration, 10, -115, 0.98, 2.0)
         self.cam = cm
         self.spans = [(T["weeks"], T["cross"] + 0.3), (T["uphill"], T["toy"] + 0.3), (T["cars"], T["swing"] + 0.3),
                       (T["side"], T["center"] + 0.3)]
@@ -397,14 +402,15 @@ class Panama(EpisodeV2):
             prof.lineTo(PAC_X0 + (k + 1) * CW, LAKE_Y + (k + 1) * STEP + DEPTH + 30)
         prof.lineTo(PAC_X0 + 3 * CW + 40, 140)
         prof.lineTo(5600, 140)
-        prof.lineTo(5600, 2400)
-        prof.lineTo(-2600, 2400)
+        prof.lineTo(5600, 9000)
+        prof.lineTo(-2600, 9000)
         prof.close()
         c.drawPath(prof, lin_paint(0, LAKE_Y, 0, 900, ["#5B3F2A", "#3D2A1C", "#21160E"]))
         tex(c, prof, "stone", 1.0, 0.25)
         # the two oceans
         water(c, -2600, X0 - 40, 0, 140, t)
         water(c, PAC_X0 + 3 * CW + 40, 5600, 0, 140, t)
+        c.drawRect(R(-2600, 140, 8200, 8860), lin_paint(0, 140, 0, 1200, ["#3D2A1C", "#21160E"]))
         return gy
 
     def staircase(self, c, t, u, side="atl", u_ship=None, ship_a=1.0, ship_len=250):
@@ -485,9 +491,9 @@ class Panama(EpisodeV2):
         rk = (prog(t, T["rain"] - 0.4, T["rain"]) * (1 - prog(t, s("break1") - 0.6, s("break1")))) if hook else 0.0
         if rk > 0 or rv:
             rr_ = rk if hook else 0.45
-            rain_cloud(c, 700, LAKE_Y - 640, 1.5, t, a=rr_, seed=1)
-            rain_cloud(c, 1300, LAKE_Y - 700, 1.3, t, a=rr_, seed=2)
-            rain(c, 400, 1700, LAKE_Y - 600, LAKE_Y + 20, t, a=rr_, n=90)
+            for (qx, qy, qs, sd) in ((150, -560, 1.4, 1), (560, -620, 1.3, 2), (1300, -600, 1.4, 3)):
+                rain_cloud(c, qx, LAKE_Y + qy, qs, t, a=rr_, seed=sd)
+            rain(c, -200, 1700, LAKE_Y - 560, LAKE_Y + 20, t, a=rr_, n=110)
         c.restore()
         self.ui["cam"] = cam
         self.ui["u"] = u
@@ -496,9 +502,9 @@ class Panama(EpisodeV2):
         T, s = self.T, self.tl.s
         cam = self.ui.get("cam", self.cam.at(tw))
         if tw < s("break1"):
-            self.chip(540, 380, "climb", T["climb"] - 0.15, T["rain"] - 0.15, accent="#93C5FD", size=40)
-            self.chip(540, 380, "rain", T["rain"] - 0.15, T["panama"] - 0.15, accent="#BFDBFE", size=40)
-            self.chip(540, 380, "locks", T["panama"] - 0.15, s("break1") + 0.1, accent=HILITE, size=44)
+            self.chip(540, 560, "climb", T["climb"] - 0.15, T["rain"] - 0.15, accent="#93C5FD", size=40)
+            self.chip(540, 560, "rain", T["rain"] - 0.15, T["panama"] - 0.15, accent="#BFDBFE", size=40)
+            self.chip(540, 560, "locks", T["panama"] - 0.15, s("break1") + 0.1, accent=HILITE, size=44)
             return
         if s("reveal") - 0.12 <= tw < s("stat") - 0.12:
             ax, ay = self.at(cam, X0 + CW * 1.5, -2 * STEP - 60)
@@ -511,64 +517,57 @@ class Panama(EpisodeV2):
             self.label(ox, oy, 760, 560, "other", T["ocean"] - 0.1, s("stat") - 0.15, HILITE, size=34)
 
     # ------------------------------------------------------------------ set: map (break1)
+    ROUTE = [(830, 500), (980, 555), (1100, 650), (1105, 800), (1010, 960), (900, 1120), (830, 1232), (760, 1236),
+             (700, 1100), (660, 900), (640, 700), (690, 600), (760, 588)]
+
     def draw_map(self, c, t):
         T, s = self.T, self.tl.s
         vrect(c, 0, 0, W, H, ["#0B2447", "#0E3A66", "#0B2447"])
-        for k in range(14):                                              # latitude lines
-            c.drawLine(0, 300 + k * 70, W, 300 + k * 70, P("#1E4F80", 0.35, stroke=2))
-        zk = e_io(prog(t, s("break1"), T["atl"]))
-        c.save()
-        c.translate(540, 760)
-        c.scale(0.92 + 0.08 * zk, 0.92 + 0.08 * zk)
-        c.translate(-540, -760)
-        na = skia.Path()                                                 # North America, a stylised outline
-        for i, (x, y) in enumerate(((60, 300), (1020, 300), (1000, 400), (860, 470), (800, 560), (700, 600),
-                                    (660, 660), (720, 700), (740, 740), (700, 760), (640, 720), (560, 690),
-                                    (470, 620), (380, 520), (300, 470), (200, 430), (90, 420))):
-            (na.moveTo if i == 0 else na.lineTo)(x, y)
-        na.close()
-        land = lin_paint(0, 300, 0, 1230, ["#3F7D4E", "#2F6B3F", "#24553A"])
-        c.drawPath(na, land)
-        isth = skia.Path()                                               # Central America and the isthmus
-        isth.moveTo(700, 760)
-        isth.lineTo(740, 740)
-        isth.quadTo(760, 790, 800, 815)
-        isth.lineTo(830, 835)
-        isth.lineTo(812, 852)
-        isth.quadTo(770, 830, 735, 800)
-        isth.close()
-        c.drawPath(isth, land)
+        for k in range(16):                                              # latitude lines
+            c.drawLine(0, 240 + k * 70, W, 240 + k * 70, P("#1E4F80", 0.35, stroke=2))
+        land = lin_paint(0, 230, 0, 1230, ["#4C8A55", "#2F6B3F", "#24553A"])
+        ca = skia.Path()                                                 # Mexico and Central America down to Panama
+        for i, (x, y) in enumerate(((-20, 230), (700, 230), (690, 300), (640, 360), (600, 420), (650, 470),
+                                    (700, 500), (760, 525), (805, 540), (795, 562), (740, 556), (690, 536),
+                                    (620, 502), (540, 452), (450, 382), (330, 332), (200, 302), (-20, 300))):
+            (ca.moveTo if i == 0 else ca.lineTo)(x, y)
+        ca.close()
+        c.drawPath(ca, land)
+        for (ix, iy, iw, ih) in ((760, 320, 150, 26), (900, 352, 90, 22), (1010, 372, 40, 16)):   # Caribbean islands
+            c.drawOval(R(ix, iy, iw, ih), land)
         sa = skia.Path()                                                 # South America
-        for i, (x, y) in enumerate(((812, 852), (860, 850), (960, 900), (1040, 980), (1010, 1060), (940, 1110),
-                                    (900, 1160), (840, 1200), (790, 1225), (770, 1210), (760, 1150), (740, 1060),
-                                    (735, 980), (760, 900))):
+        for i, (x, y) in enumerate(((800, 548), (860, 540), (950, 575), (1050, 640), (1072, 700), (1060, 780),
+                                    (1000, 850), (960, 920), (900, 1000), (860, 1080), (820, 1160), (792, 1215),
+                                    (772, 1200), (760, 1120), (740, 1000), (720, 880), (700, 760), (690, 660),
+                                    (720, 600), (770, 570))):
             (sa.moveTo if i == 0 else sa.lineTo)(x, y)
         sa.close()
         c.drawPath(sa, land)
+        tex(c, sa, "sand", 0.6, 0.18)
         mk = prog(t, T["mts"] - 0.3, T["mts"] + 0.2)                     # mountains along the isthmus
-        for i in range(7):
-            mx = 730 + i * 14
-            my = 778 + i * 9
+        for i in range(8):
+            mx = 640 + i * 20
+            my = 478 + i * 9
             tri = skia.Path()
-            tri.moveTo(mx - 12, my + 6)
-            tri.lineTo(mx, my - 22 * mk)
-            tri.lineTo(mx + 12, my + 6)
+            tri.moveTo(mx - 13, my + 8)
+            tri.lineTo(mx, my - 26 * mk)
+            tri.lineTo(mx + 13, my + 8)
             tri.close()
             c.drawPath(tri, P("#A16207", mk))
             c.drawPath(tri, P("#FDE68A", 0.6 * mk, stroke=2))
-        # the long way round, drawn as it goes
-        route = [(840, 790), (930, 840), (1060, 960), (1050, 1080), (960, 1170), (850, 1236), (770, 1240),
-                 (720, 1180), (700, 1060), (700, 960), (730, 880), (770, 838)]
-        rk = prog(t, T["around"] - 0.5, T["weeks"])
+        add_glow(c, 790, 550, 90, "#FDE68A", 0.35 * mk)
+        rk = prog(t, T["around"] - 0.5, T["weeks"])                      # the long way round, drawn as it goes
+        pts = self.ROUTE
+        px, py = pts[0]
+        ang = 0.0
         if rk > 0:
-            pts = route
             total = sum(math.hypot(bx - ax, by - ay) for (ax, ay), (bx, by) in zip(pts, pts[1:]))
             want = total * rk
             path = skia.Path()
             path.moveTo(*pts[0])
-            px, py = pts[0]
             for (ax, ay), (bx, by) in zip(pts, pts[1:]):
                 d = math.hypot(bx - ax, by - ay)
+                ang = math.degrees(math.atan2(by - ay, bx - ax))
                 if want <= d:
                     px, py = ax + (bx - ax) * want / d, ay + (by - ay) * want / d
                     path.lineTo(px, py)
@@ -576,27 +575,19 @@ class Panama(EpisodeV2):
                 path.lineTo(bx, by)
                 want -= d
                 px, py = bx, by
-            c.drawPath(path, dash_paint("#FDE68A", 1.0, 6, t, 16, 12))
-            c.save()
-            c.translate(px, py)
-            c.scale(0.18, 0.18)
-            cargo_ship(c, 0, 0, 250, t)
-            c.restore()
-        else:
-            c.save()
-            c.translate(860, 790)
-            c.scale(0.18, 0.18)
-            cargo_ship(c, 0, 0, 250, t)
-            c.restore()
+            c.drawPath(path, dash_paint("#FDE68A", 1.0, 7, t, 18, 12))
+        c.save()
+        c.translate(px, py)
+        c.scale(0.24, 0.24)
+        cargo_ship(c, 0, 0, 250, t, face=-1 if 90 < ang % 360 < 270 else 1)
         c.restore()
-        self.ui["map_k"] = zk
 
     def ui_map(self, c, t, tw):
         T, s = self.T, self.tl.s
-        self.chip(330, 980, "pac", T["atl"] - 0.2, s("fix1") - 0.15, accent="#93C5FD", size=34)
-        self.chip(940, 700, "atl", T["atl"] - 0.2, s("fix1") - 0.15, accent="#93C5FD", size=34)
-        self.label(770, 800, 540, 560, "split", T["mts"] - 0.1, T["around"] - 0.15, "#FDE68A", size=36)
-        self.chip(540, 560, "weeks", T["around"] - 0.1, s("fix1") - 0.15, accent=WARN, size=40)
+        self.chip(330, 760, "pac", T["atl"] - 0.2, s("fix1") - 0.15, accent="#93C5FD", size=36)
+        self.chip(930, 280, "atl", T["atl"] - 0.2, s("fix1") - 0.15, accent="#93C5FD", size=36)
+        self.label(740, 520, 380, 470, "split", T["mts"] - 0.1, T["around"] - 0.15, "#FDE68A", size=36)
+        self.chip(360, 1000, "weeks", T["around"] - 0.1, s("fix1") - 0.15, accent=WARN, size=40)
         self.badge("alert", T["weeks"] + 0.05, s("fix1") - 0.2, x=880, y=330)
         self.red(T["weeks"] + 0.05, 1.3)
 
@@ -620,8 +611,8 @@ class Panama(EpisodeV2):
         ground.lineTo(560, 30)
         ground.quadTo(700, 0, 760, -420)
         ground.lineTo(1100, -500)
-        ground.lineTo(1100, 1600)
-        ground.lineTo(-900, 1600)
+        ground.lineTo(1100, 3000)
+        ground.lineTo(-900, 3000)
         ground.close()
         water(c, -900, -320, 0, 130, t)                                  # the sea
         water(c, -260, 700 + 60 * fk, lvl, 30, t, a=1.0 if fk > 0.02 else 0.0)
@@ -637,17 +628,18 @@ class Panama(EpisodeV2):
         if dk > 0:                                                       # the dam wall
             dp = skia.Path()
             top = lerp(30, LAKE_Y - 30, dk)
-            dp.moveTo(-330, 40)
-            dp.lineTo(-300, top)
+            dp.moveTo(-470, 60)
+            dp.lineTo(-330, top)
             dp.lineTo(-250, top)
-            dp.lineTo(-200, 40)
+            dp.lineTo(-110, 60)
             dp.close()
-            c.drawPath(dp, lin_paint(-330, 0, -200, 0, ["#9CA3AF", "#D1D5DB", "#6B7280"]))
-            c.drawPath(dp, P("#4B5563", 1, stroke=3))
+            c.drawPath(dp, lin_paint(0, top, 0, 60, ["#6E7752", "#556045", "#3A402C"]))
+            c.drawRect(R(-330, top - 6, 80, 10), P("#D1D5DB"))
+            c.drawPath(dp, P("#2F3424", 1, stroke=3))
         rk = prog(t, T["lake"] - 0.6, T["lake"])
-        rain_cloud(c, 200, -900, 1.6, t, a=rk, seed=3)
-        rain_cloud(c, 620, -980, 1.3, t, a=rk, seed=4)
-        rain(c, -150, 900, -900, lvl, t, a=rk * 0.9, n=70)
+        rain_cloud(c, 250, -760, 1.5, t, a=rk, seed=3)
+        rain_cloud(c, 700, -820, 1.3, t, a=rk, seed=4)
+        rain(c, -100, 900, -760, lvl, t, a=rk * 0.9, n=70)
         if fk > 0.9:                                                     # a ship crosses on the lake
             xk = prog(t, T["cross"] - 0.6, s("break2") - 0.1)
             cargo_ship(c, lerp(-150, 520, xk), LAKE_Y, 200, t)
@@ -658,9 +650,9 @@ class Panama(EpisodeV2):
     def ui_dam(self, c, t, tw):
         T, s = self.T, self.tl.s
         cam = self.ui.get("cam", (60, -330, 0.82))
-        ax, ay = self.at(cam, -265, LAKE_Y * min(1.0, prog(tw, T["dam"] - 0.2, T["dam"] + 0.6)) - 10)
-        self.label(ax, ay, 300, 470, "dam", T["dam"] - 0.1, T["lake"] - 0.1, "#E2E8F0", size=36)
-        self.chip(540, 470, "lake", T["lake"] - 0.1, T["hills"] - 0.1, accent="#93C5FD", size=40)
+        ax, ay = self.at(cam, -290, LAKE_Y * min(1.0, prog(tw, T["dam"] - 0.2, T["dam"] + 0.6)) - 10)
+        self.label(ax, ay, 300, 380, "dam", T["dam"] - 0.1, T["lake"] - 0.1, "#E2E8F0", size=36)
+        self.chip(540, 380, "lake", T["lake"] - 0.1, T["hills"] - 0.1, accent="#93C5FD", size=40)
         k = self.span(T["hills"] - 0.1, s("break2") - 0.15)
         if k > 0:                                                        # the height arrow: 26 m above the sea
             sx, sy0 = self.at(cam, -560, 0)
@@ -674,7 +666,7 @@ class Panama(EpisodeV2):
                 hp.close()
                 c.drawPath(hp, P(HILITE, k))
             v2.chip(c, sx + 40 + 150, (sy0 + sy1) / 2, self.L["high"], k, accent=HILITE, size=32)
-        self.chip(540, 470, "cross", T["cross"] - 0.1, s("break2") - 0.15, accent=GOOD, size=40)
+        self.chip(540, 380, "cross", T["cross"] - 0.1, s("break2") - 0.15, accent=GOOD, size=40)
         self.badge("check", T["cross"] + 0.1, s("break2") - 0.15, x=880, y=330)
 
     # ------------------------------------------------------------------ set: lock (break2, fix2)
@@ -692,10 +684,11 @@ class Panama(EpisodeV2):
             hill.moveTo(40, 40)
             hill.quadTo(260, 20, 420, -300)
             hill.lineTo(900, -330)
-            hill.lineTo(900, 1400)
-            hill.lineTo(40, 1400)
+            hill.lineTo(900, 3000)
+            hill.lineTo(40, 3000)
             hill.close()
             water(c, -900, 120, 0, 140, t)
+            c.drawRect(R(-900, 140, 1000, 2900), lin_paint(0, 140, 0, 900, ["#3D2A1C", "#21160E"]))
             c.drawPath(hill, lin_paint(0, -330, 0, 600, ["#4D6B3A", "#3D2A1C", "#21160E"]))
             water(c, 420, 900, -330, -200, t)
             jungle(c, 430, 900, -330, t, 0.9, 0.95, seed=5)
@@ -705,11 +698,11 @@ class Panama(EpisodeV2):
             tilt = -16 * e_out(prog(t, T["uphill"] - 0.35, T["uphill"] - 0.1)) * (1 - back)
             cargo_ship(c, sx, 0, 300, t, tilt=tilt)
             if back > 0:
-                v2.splash(c, sx + 150, 0, t, T["uphill"] - 0.1, dur=0.9, n=20, speed=520)
+                splash(c, sx + 150, 0, t, T["uphill"] - 0.1, dur=0.9, n=20, speed=520)
             c.restore()
             self.ui["cam"] = cam
             return
-        cam = (0, -120, 0.98)                                            # one chamber in section
+        cam = (0, 110, 0.98)                                             # one chamber in section
         cx, cy, z = cam
         vrect(c, 0, 0, W, H, ["#101736", "#1A2350", "#0B1030"])
         self.view(c, cam)
@@ -719,10 +712,10 @@ class Panama(EpisodeV2):
         rk = e_io(prog(t, T["rise"], T["toy"] + 0.2))
         lvl = lerp(lo, hi, rk)
         c.drawRect(R(-1200, FL, 2400, 900), lin_paint(0, FL, 0, FL + 900, ["#3D2A1C", "#21160E"]))
-        water(c, -1200, LX0 - 30, lo, FL, t)                             # the lower side
-        water(c, LX1 + 30, 1200, hi, FL, t)                              # the lake side, high
+        water(c, -1200, LX0 - 60, lo, FL, t)                             # the lower side
+        water(c, LX1 + 60, 1200, hi, FL, t)                              # the lake side, high
         water(c, LX0, LX1, lvl, FL, t)
-        concrete(c, LX1, hi - 60, 30, FL - hi + 60)                      # upper gate wall
+        concrete(c, LX1, hi - 60, 60, FL - hi + 60)                      # upper gate wall
         # the culvert: from the lake side down through the wall and under the floor
         cul = [(560, hi + 120), (560, FL + 90), (-380, FL + 90)]
         ck = prog(t, T["valve"], T["valve"] + 0.4) * (1 - prog(t, T["toy"] + 0.2, T["toy"] + 0.8))
@@ -751,10 +744,10 @@ class Panama(EpisodeV2):
         c.drawLine(-34, 0, 34, 0, P("#FBBF24", 1, stroke=6))
         c.drawLine(0, -34, 0, 34, P("#FBBF24", 1, stroke=6))
         c.restore()
-        concrete(c, LX0 - 30, hi - 60, 30, FL - hi + 60)                 # lower gate wall
+        concrete(c, LX0 - 60, hi - 60, 60, FL - hi + 60)                 # lower gate wall
         gk = prog(t, T["close"] - 0.3, T["close"] + 0.1)
-        gate_side(c, LX0 - 15, hi - 60, FL, gk)
-        gate_side(c, LX1 + 15, hi - 60, FL, 1.0)
+        gate_side(c, LX0 - 30, hi - 60, FL, gk)
+        gate_side(c, LX1 + 30, hi - 60, FL, 1.0)
         enter = e_io(prog(t, s("fix2"), T["box"]))
         cargo_ship(c, lerp(-900, -70, enter), lvl, 330, t)
         dk = prog(t, T["toy"] - 0.25, T["toy"] + 0.1)
@@ -771,11 +764,11 @@ class Panama(EpisodeV2):
             self.badge("alert", T["uphill"] + 0.05, s("fix2") - 0.2, x=880, y=330)
             self.red(T["uphill"] + 0.05, 1.3)
             return
-        cam = self.ui.get("cam", (0, -120, 0.98))
+        cam = self.ui.get("cam", (0, 110, 0.98))
         self.chip(540, 380, "steps", T["steps"] - 0.1, T["box"] - 0.1, accent="#93C5FD", size=40)
         self.chip(540, 380, "box", T["box"] - 0.1, T["close"] - 0.1, accent="#E2E8F0", size=40)
         self.chip(540, 380, "close", T["close"] - 0.1, T["pours"] - 0.1, accent=HILITE, size=40)
-        tx, ty = self.at(cam, 560, -60)
+        tx, ty = self.at(cam, 560, -40)
         self.label(tx, ty, 700, 480, "tunnel", T["pours"] - 0.1, T["floor"] - 0.1, "#93C5FD", size=34)
         fx_, fy_ = self.at(cam, -120, 256)
         self.label(fx_, fy_, 540, 480, "floor", T["floor"] - 0.1, T["pumps"] - 0.1, "#93C5FD", size=34)
@@ -951,61 +944,77 @@ class Panama(EpisodeV2):
     def draw_swim(self, c, t):
         T = self.T
         vrect(c, 0, 0, W, 1240, ["#1E2156", "#55306E", "#C4566A"])
-        concrete(c, 0, 760, 160, 500)
-        concrete(c, 920, 760, 160, 500)
-        water(c, 160, 920, 880, 1260, t)
+        v2.stars(c, W, H, t, 0.4)
+        concrete(c, -10, 980, 130, 300)
+        concrete(c, 960, 980, 130, 300)
+        water(c, 120, 960, 1010, 1260, t)
         vrect(c, 0, 1240, W, H - 1240, ["#2A3442", "#1C232D", "#0E1218"])
         wk = prog(t, T["weighed"] - 0.3, T["weighed"] + 0.1)
-        if wk < 1:                                                       # the swimmer
+        if wk < 1:                                                       # the swimmer, crawling along the lock
             a = 1 - wk
-            sx = 300 + (t - self.tl.s("tag")) * 90
-            c.drawCircle(sx, 872, 26, P("#E8B48A", a))
-            c.drawRect(R(sx - 30, 852, 60, 14), P("#1F2937", a))
-            arm = math.sin(t * 7) * 40
-            c.drawLine(sx + 10, 880, sx + 50 + arm * 0.5, 850 - abs(arm) * 0.6, P("#E8B48A", a, stroke=12))
-            v2.splash(c, sx + 60, 880, t, T["swam"], dur=0.6, n=10, speed=300)
+            sx = 260 + (t - self.tl.s("tag")) * 120
+            c.drawCircle(sx, 1004, 34, P("#E8B48A", a))
+            c.drawRect(R(sx - 36, 976, 72, 18), P("#1F2937", a))
+            arm = math.sin(t * 7)
+            c.drawLine(sx + 14, 1016, sx + 80 + arm * 30, 960 - abs(arm) * 50, P("#E8B48A", a, stroke=16))
+            splash(c, sx + 90, 1010, t, T["swam"], dur=0.6, n=12, speed=320)
         if wk > 0:                                                       # weighed like a ship
-            c.drawRRect(rr(380, 1080, 320, 50, 12), P("#9CA3AF", wk))
-            c.drawRRect(rr(470, 940, 140, 140, 70), P("#E5E7EB", wk))
-            c.drawCircle(540, 1010, 56, P("#FFFFFF", wk))
-            nd = lerp(-120, 35, prog(t, T["weighed"], T["weighed"] + 0.5))
-            c.drawLine(540, 1010, 540 + math.sin(math.radians(nd)) * 46, 1010 - math.cos(math.radians(nd)) * 46,
-                       P(WARN, wk, stroke=5))
-            person(c, 540, 940, 160, "#38BDF8", t, pose="stand", face=1, hat="none", wet=1.0, a=wk)
+            c.drawRRect(rr(330, 1150, 420, 60, 14), P("#9CA3AF", wk))
+            c.drawRect(R(700, 760, 24, 400), P("#6B7280", wk))
+            c.drawCircle(712, 720, 90, P("#F8FAFC", wk))
+            c.drawCircle(712, 720, 90, P("#475569", wk, stroke=8))
+            for k in range(9):
+                an = math.radians(-120 + k * 30)
+                c.drawLine(712 + math.sin(an) * 70, 720 - math.cos(an) * 70, 712 + math.sin(an) * 82,
+                           720 - math.cos(an) * 82, P("#334155", wk, stroke=4))
+            nd = lerp(-120, 40, e_out(prog(t, T["weighed"], T["weighed"] + 0.6)))
+            c.drawLine(712, 720, 712 + math.sin(math.radians(nd)) * 66, 720 - math.cos(math.radians(nd)) * 66,
+                       P(WARN, wk, stroke=7))
+            person(c, 480, 1150, 330, "#38BDF8", t, pose="stand", face=1, hat="none", wet=1.0, a=wk)
         ck = prog(t, T["cents"] - 0.2, T["cents"] + 0.2)
         if ck > 0:                                                       # the toll ticket
             c.save()
-            c.translate(820, 620)
+            c.translate(330, 560)
             c.rotate(-6)
-            c.drawRRect(rr(-130, -80, 260, 160, 16), P("#FEF3C7", ck))
-            c.drawRRect(rr(-130, -80, 260, 160, 16), P("#92400E", ck, stroke=4))
+            c.scale(0.8 + 0.2 * e_back(ck), 0.8 + 0.2 * e_back(ck))
+            c.drawRRect(rr(-210, -90, 420, 180, 18), P("#FEF3C7", ck))
+            c.drawRRect(rr(-210, -90, 420, 180, 18), P("#92400E", ck, stroke=5))
             c.restore()
         ak = prog(t, T["airport"] - 0.2, T["airport"] + 0.2)
         if ak > 0:
-            if not self.rtl:                                             # airport water
-                c.drawRRect(rr(150, 470, 90, 220, 30), P("#BFDBFE", 0.9 * ak))
-                c.drawRect(R(170, 440, 50, 36), P("#3B82F6", ak))
-            else:                                                        # the parking guy waving you in
-                person(c, 230, 1240, 190, "#F97316", t, pose="cheer", face=1, hat="cap", a=ak)
-                car_icon(c, 420, 1210, 4.0, "#EF4444", a=ak)
+            if not self.rtl:                                             # a small bottle of airport water
+                c.save()
+                c.translate(900, 560)
+                c.scale(0.6 + 0.4 * e_back(ak), 0.6 + 0.4 * e_back(ak))
+                c.drawRRect(rr(-55, -120, 110, 260, 36), P("#BFDBFE", 0.9 * ak))
+                c.drawRRect(rr(-55, -40, 110, 80, 6), P("#1D4ED8", ak))
+                c.drawRect(R(-26, -160, 52, 42), P("#3B82F6", ak))
+                c.restore()
+            else:                                                        # the parking guy: "come, come"
+                person(c, 900, 1240, 260, "#F97316", t, pose="cheer", face=-1, hat="cap", band=True, a=ak)
 
     def ui_swim(self, c, t, tw):
         T = self.T
         self.chip(540, 380, "swam", T["swam"] - 0.2, T["weighed"] - 0.1, accent="#93C5FD", size=40)
-        self.chip(540, 380, "weigh", T["weighed"] - 0.1, T["cents"] - 0.1, accent=HILITE, size=40)
-        k = self.span(T["weighed"] + 0.2, T["cents"] + 0.1)
+        self.chip(540, 380, "weigh", T["weighed"] - 0.1, T["airport"] - 0.1, accent=HILITE, size=40)
+        k = self.span(T["weighed"] + 0.3, self.duration + 1)
         if k > 0:
-            v2.chip(c, 540, 860, self.L["lbs"], k, accent=WARN, size=36)
+            v2.chip(c, 712, 860, self.L["lbs"], k, accent=WARN, size=36)
         ck = self.span(T["cents"] - 0.1, self.duration + 1)
         if ck > 0:
-            word(c, self.L["toll"], 820, 640, 40, "#92400E", a=ck)
+            c.save()
+            c.translate(330, 560)
+            c.rotate(-6)
+            word(c, self.L["toll"], 0, 18, 46, "#92400E", a=ck)
+            c.restore()
         ak = self.span(T["airport"] - 0.1, self.duration + 1)
         if ak > 0:
             if not self.rtl:
-                v2.chip(c, 195, 410, self.L["water7"], ak, accent=WARN, size=44)
+                v2.chip(c, 900, 790, self.L["water7"], ak, accent=WARN, size=48)
                 v2.chip(c, 540, 380, self.L["airport"], ak, accent=WARN, size=40)
             else:
-                v2.chip(c, 330, 930, self.L["water7"], ak, accent=HILITE, size=44)
+                v2.chip(c, 700, 880, self.L["water7"], ak, accent=HILITE, size=44)
+                v2.chip(c, 540, 380, self.L["airport"], ak, accent=HILITE, size=40)
 
     def whip_backdrop(self, c, t, m):
         v2.sky(c, W, H, 0.0, pal=DUSK, horizon_y=H * 0.66)
