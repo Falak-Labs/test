@@ -1,5 +1,8 @@
 # Darija -> English lessons, episode 1: 15 everyday phrases, then the hard word (Communication).
 # SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | i1 | السلام عليكم! مرحبا بيكم.
+T | i2 | اليوم غادي نتعلمو الإنجليزية بالدارجة.
+T | i3 | يالله، نبداو!
 T | p01t | سلام، لاباس؟
 A | p01k | Hi, how are you?
 T | p02t | لاباس، الحمد لله.
@@ -60,7 +63,6 @@ T | w6 | Good job! Communication!
 T | o1 | عجبك الدرس؟ كتب لينا الكلمة الصعيبة فالتعليقات، وتابعنا باش تتعلم كل نهار!
 L | o2 | See you next time!
 A | o3 | Bye!
-# spare takes of the "mu" part for Adam (the first ones were heard as "new" by the speech check)
 A | A_mew2 | Myoo.
 A | A_mew3 | Mew!
 A | A_mew4 | Mew.
