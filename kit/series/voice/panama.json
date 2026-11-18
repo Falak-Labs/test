@@ -1,0 +1,1257 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 66.41,
+ "words": 227,
+ "words_per_sec": 3.42,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.76,
+   "text": "If you can make a cargo ship climb a staircase into the mountains, using only rain, congrats, you just built the Panama Canal locks.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.31
+    },
+    {
+     "w": "you",
+     "start": 0.31,
+     "end": 0.491
+    },
+    {
+     "w": "can",
+     "start": 0.491,
+     "end": 0.671
+    },
+    {
+     "w": "make",
+     "start": 0.671,
+     "end": 0.852
+    },
+    {
+     "w": "a",
+     "start": 0.852,
+     "end": 1.032
+    },
+    {
+     "w": "cargo",
+     "start": 1.032,
+     "end": 1.346
+    },
+    {
+     "w": "ship",
+     "start": 1.346,
+     "end": 1.527
+    },
+    {
+     "w": "climb",
+     "start": 1.527,
+     "end": 1.707
+    },
+    {
+     "w": "a",
+     "start": 1.707,
+     "end": 1.887
+    },
+    {
+     "w": "staircase",
+     "start": 1.887,
+     "end": 2.201
+    },
+    {
+     "w": "into",
+     "start": 2.201,
+     "end": 2.516
+    },
+    {
+     "w": "the",
+     "start": 2.516,
+     "end": 2.696
+    },
+    {
+     "w": "mountains,",
+     "start": 2.696,
+     "end": 3.01
+    },
+    {
+     "w": "using",
+     "start": 3.13,
+     "end": 3.499
+    },
+    {
+     "w": "only",
+     "start": 3.499,
+     "end": 3.868
+    },
+    {
+     "w": "rain,",
+     "start": 3.868,
+     "end": 4.08
+    },
+    {
+     "w": "congrats,",
+     "start": 4.23,
+     "end": 4.621
+    },
+    {
+     "w": "you",
+     "start": 4.621,
+     "end": 4.845
+    },
+    {
+     "w": "just",
+     "start": 4.845,
+     "end": 5.069
+    },
+    {
+     "w": "built",
+     "start": 5.069,
+     "end": 5.294
+    },
+    {
+     "w": "the",
+     "start": 5.294,
+     "end": 5.518
+    },
+    {
+     "w": "Panama",
+     "start": 5.518,
+     "end": 6.075
+    },
+    {
+     "w": "Canal",
+     "start": 6.075,
+     "end": 6.466
+    },
+    {
+     "w": "locks.",
+     "start": 6.466,
+     "end": 6.69
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.125,
+   "end": 11.531,
+   "text": "But mountains split the Atlantic from the Pacific, and sailing around South America takes weeks.",
+   "words": [
+    {
+     "w": "But",
+     "start": 7.255,
+     "end": 7.425
+    },
+    {
+     "w": "mountains",
+     "start": 7.425,
+     "end": 7.721
+    },
+    {
+     "w": "split",
+     "start": 7.721,
+     "end": 7.891
+    },
+    {
+     "w": "the",
+     "start": 7.891,
+     "end": 8.061
+    },
+    {
+     "w": "Atlantic",
+     "start": 8.061,
+     "end": 8.483
+    },
+    {
+     "w": "from",
+     "start": 8.483,
+     "end": 8.653
+    },
+    {
+     "w": "the",
+     "start": 8.653,
+     "end": 8.823
+    },
+    {
+     "w": "Pacific,",
+     "start": 8.823,
+     "end": 9.245
+    },
+    {
+     "w": "and",
+     "start": 9.425,
+     "end": 9.603
+    },
+    {
+     "w": "sailing",
+     "start": 9.603,
+     "end": 9.914
+    },
+    {
+     "w": "around",
+     "start": 9.914,
+     "end": 10.224
+    },
+    {
+     "w": "South",
+     "start": 10.224,
+     "end": 10.402
+    },
+    {
+     "w": "America",
+     "start": 10.402,
+     "end": 10.976
+    },
+    {
+     "w": "takes",
+     "start": 10.976,
+     "end": 11.287
+    },
+    {
+     "w": "weeks.",
+     "start": 11.287,
+     "end": 11.465
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 11.896,
+   "end": 15.833,
+   "text": "So you dam a river into a giant lake high in the hills, and ships cross on it.",
+   "words": [
+    {
+     "w": "So",
+     "start": 12.006,
+     "end": 12.191
+    },
+    {
+     "w": "you",
+     "start": 12.191,
+     "end": 12.376
+    },
+    {
+     "w": "dam",
+     "start": 12.376,
+     "end": 12.561
+    },
+    {
+     "w": "a",
+     "start": 12.561,
+     "end": 12.746
+    },
+    {
+     "w": "river",
+     "start": 12.746,
+     "end": 13.068
+    },
+    {
+     "w": "into",
+     "start": 13.068,
+     "end": 13.391
+    },
+    {
+     "w": "a",
+     "start": 13.391,
+     "end": 13.576
+    },
+    {
+     "w": "giant",
+     "start": 13.576,
+     "end": 13.761
+    },
+    {
+     "w": "lake",
+     "start": 13.761,
+     "end": 13.946
+    },
+    {
+     "w": "high",
+     "start": 13.946,
+     "end": 14.131
+    },
+    {
+     "w": "in",
+     "start": 14.131,
+     "end": 14.316
+    },
+    {
+     "w": "the",
+     "start": 14.316,
+     "end": 14.501
+    },
+    {
+     "w": "hills,",
+     "start": 14.501,
+     "end": 14.686
+    },
+    {
+     "w": "and",
+     "start": 14.816,
+     "end": 15.006
+    },
+    {
+     "w": "ships",
+     "start": 15.006,
+     "end": 15.196
+    },
+    {
+     "w": "cross",
+     "start": 15.196,
+     "end": 15.386
+    },
+    {
+     "w": "on",
+     "start": 15.386,
+     "end": 15.576
+    },
+    {
+     "w": "it.",
+     "start": 15.576,
+     "end": 15.766
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.198,
+   "end": 17.719,
+   "text": "But ships can't sail uphill.",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.338,
+     "end": 16.563
+    },
+    {
+     "w": "ships",
+     "start": 16.563,
+     "end": 16.787
+    },
+    {
+     "w": "can't",
+     "start": 16.787,
+     "end": 17.012
+    },
+    {
+     "w": "sail",
+     "start": 17.012,
+     "end": 17.237
+    },
+    {
+     "w": "uphill.",
+     "start": 17.237,
+     "end": 17.628
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.083,
+   "end": 26.094,
+   "text": "So you build water steps: the ship enters a concrete box, the gates close, and lake water pours in through the floor, no pumps, lifting it like a bath toy.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.193,
+     "end": 18.421
+    },
+    {
+     "w": "you",
+     "start": 18.421,
+     "end": 18.649
+    },
+    {
+     "w": "build",
+     "start": 18.649,
+     "end": 18.878
+    },
+    {
+     "w": "water",
+     "start": 18.878,
+     "end": 19.275
+    },
+    {
+     "w": "steps:",
+     "start": 19.275,
+     "end": 19.503
+    },
+    {
+     "w": "the",
+     "start": 19.633,
+     "end": 19.847
+    },
+    {
+     "w": "ship",
+     "start": 19.847,
+     "end": 20.061
+    },
+    {
+     "w": "enters",
+     "start": 20.061,
+     "end": 20.433
+    },
+    {
+     "w": "a",
+     "start": 20.433,
+     "end": 20.647
+    },
+    {
+     "w": "concrete",
+     "start": 20.647,
+     "end": 21.019
+    },
+    {
+     "w": "box,",
+     "start": 21.019,
+     "end": 21.233
+    },
+    {
+     "w": "the",
+     "start": 21.353,
+     "end": 21.562
+    },
+    {
+     "w": "gates",
+     "start": 21.562,
+     "end": 21.924
+    },
+    {
+     "w": "close,",
+     "start": 21.924,
+     "end": 22.133
+    },
+    {
+     "w": "and",
+     "start": 22.263,
+     "end": 22.457
+    },
+    {
+     "w": "lake",
+     "start": 22.457,
+     "end": 22.652
+    },
+    {
+     "w": "water",
+     "start": 22.652,
+     "end": 22.991
+    },
+    {
+     "w": "pours",
+     "start": 22.991,
+     "end": 23.185
+    },
+    {
+     "w": "in",
+     "start": 23.185,
+     "end": 23.38
+    },
+    {
+     "w": "through",
+     "start": 23.38,
+     "end": 23.574
+    },
+    {
+     "w": "the",
+     "start": 23.574,
+     "end": 23.769
+    },
+    {
+     "w": "floor,",
+     "start": 23.769,
+     "end": 23.963
+    },
+    {
+     "w": "no",
+     "start": 24.133,
+     "end": 24.352
+    },
+    {
+     "w": "pumps,",
+     "start": 24.352,
+     "end": 24.57
+    },
+    {
+     "w": "lifting",
+     "start": 24.57,
+     "end": 24.95
+    },
+    {
+     "w": "it",
+     "start": 24.95,
+     "end": 25.169
+    },
+    {
+     "w": "like",
+     "start": 25.169,
+     "end": 25.387
+    },
+    {
+     "w": "a",
+     "start": 25.387,
+     "end": 25.606
+    },
+    {
+     "w": "bath",
+     "start": 25.606,
+     "end": 25.824
+    },
+    {
+     "w": "toy.",
+     "start": 25.824,
+     "end": 26.043
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 26.458,
+   "end": 29.25,
+   "text": "But the biggest gates weigh as much as four hundred cars.",
+   "words": [
+    {
+     "w": "But",
+     "start": 26.608,
+     "end": 26.802
+    },
+    {
+     "w": "the",
+     "start": 26.802,
+     "end": 26.997
+    },
+    {
+     "w": "biggest",
+     "start": 26.997,
+     "end": 27.335
+    },
+    {
+     "w": "gates",
+     "start": 27.335,
+     "end": 27.673
+    },
+    {
+     "w": "weigh",
+     "start": 27.673,
+     "end": 27.868
+    },
+    {
+     "w": "as",
+     "start": 27.868,
+     "end": 28.062
+    },
+    {
+     "w": "much",
+     "start": 28.062,
+     "end": 28.257
+    },
+    {
+     "w": "as",
+     "start": 28.257,
+     "end": 28.451
+    },
+    {
+     "w": "four",
+     "start": 28.451,
+     "end": 28.645
+    },
+    {
+     "w": "hundred",
+     "start": 28.645,
+     "end": 28.984
+    },
+    {
+     "w": "cars.",
+     "start": 28.984,
+     "end": 29.178
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 29.615,
+   "end": 33.594,
+   "text": "So you make them hollow: they half float, and motors weaker than a car's swing them.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.725,
+     "end": 29.906
+    },
+    {
+     "w": "you",
+     "start": 29.906,
+     "end": 30.087
+    },
+    {
+     "w": "make",
+     "start": 30.087,
+     "end": 30.268
+    },
+    {
+     "w": "them",
+     "start": 30.268,
+     "end": 30.45
+    },
+    {
+     "w": "hollow:",
+     "start": 30.45,
+     "end": 30.765
+    },
+    {
+     "w": "they",
+     "start": 30.885,
+     "end": 31.132
+    },
+    {
+     "w": "half",
+     "start": 31.132,
+     "end": 31.378
+    },
+    {
+     "w": "float,",
+     "start": 31.378,
+     "end": 31.625
+    },
+    {
+     "w": "and",
+     "start": 31.775,
+     "end": 31.961
+    },
+    {
+     "w": "motors",
+     "start": 31.961,
+     "end": 32.284
+    },
+    {
+     "w": "weaker",
+     "start": 32.284,
+     "end": 32.607
+    },
+    {
+     "w": "than",
+     "start": 32.607,
+     "end": 32.792
+    },
+    {
+     "w": "a",
+     "start": 32.792,
+     "end": 32.978
+    },
+    {
+     "w": "car's",
+     "start": 32.978,
+     "end": 33.164
+    },
+    {
+     "w": "swing",
+     "start": 33.164,
+     "end": 33.349
+    },
+    {
+     "w": "them.",
+     "start": 33.349,
+     "end": 33.535
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 33.958,
+   "end": 36.927,
+   "text": "But a big ship fits with barely half a meter on each side.",
+   "words": [
+    {
+     "w": "But",
+     "start": 34.088,
+     "end": 34.267
+    },
+    {
+     "w": "a",
+     "start": 34.267,
+     "end": 34.447
+    },
+    {
+     "w": "big",
+     "start": 34.447,
+     "end": 34.626
+    },
+    {
+     "w": "ship",
+     "start": 34.626,
+     "end": 34.805
+    },
+    {
+     "w": "fits",
+     "start": 34.805,
+     "end": 34.985
+    },
+    {
+     "w": "with",
+     "start": 34.985,
+     "end": 35.164
+    },
+    {
+     "w": "barely",
+     "start": 35.164,
+     "end": 35.609
+    },
+    {
+     "w": "half",
+     "start": 35.609,
+     "end": 35.788
+    },
+    {
+     "w": "a",
+     "start": 35.788,
+     "end": 35.968
+    },
+    {
+     "w": "meter",
+     "start": 35.968,
+     "end": 36.28
+    },
+    {
+     "w": "on",
+     "start": 36.28,
+     "end": 36.459
+    },
+    {
+     "w": "each",
+     "start": 36.459,
+     "end": 36.639
+    },
+    {
+     "w": "side.",
+     "start": 36.639,
+     "end": 36.818
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 37.292,
+   "end": 41.281,
+   "text": "So electric locomotives called mules hold it on steel cables, dead center.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.402,
+     "end": 37.589
+    },
+    {
+     "w": "electric",
+     "start": 37.589,
+     "end": 38.052
+    },
+    {
+     "w": "locomotives",
+     "start": 38.052,
+     "end": 38.791
+    },
+    {
+     "w": "called",
+     "start": 38.791,
+     "end": 39.116
+    },
+    {
+     "w": "mules",
+     "start": 39.116,
+     "end": 39.441
+    },
+    {
+     "w": "hold",
+     "start": 39.441,
+     "end": 39.627
+    },
+    {
+     "w": "it",
+     "start": 39.627,
+     "end": 39.814
+    },
+    {
+     "w": "on",
+     "start": 39.814,
+     "end": 40.001
+    },
+    {
+     "w": "steel",
+     "start": 40.001,
+     "end": 40.187
+    },
+    {
+     "w": "cables,",
+     "start": 40.187,
+     "end": 40.512
+    },
+    {
+     "w": "dead",
+     "start": 40.642,
+     "end": 40.843
+    },
+    {
+     "w": "center.",
+     "start": 40.843,
+     "end": 41.192
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 41.646,
+   "end": 45.885,
+   "text": "But before you open the gates, follow, because next we're building the Dutch storm barrier.",
+   "words": [
+    {
+     "w": "But",
+     "start": 41.796,
+     "end": 42.012
+    },
+    {
+     "w": "before",
+     "start": 42.012,
+     "end": 42.389
+    },
+    {
+     "w": "you",
+     "start": 42.389,
+     "end": 42.606
+    },
+    {
+     "w": "open",
+     "start": 42.606,
+     "end": 42.983
+    },
+    {
+     "w": "the",
+     "start": 42.983,
+     "end": 43.199
+    },
+    {
+     "w": "gates,",
+     "start": 43.199,
+     "end": 43.576
+    },
+    {
+     "w": "follow,",
+     "start": 43.716,
+     "end": 44.023
+    },
+    {
+     "w": "because",
+     "start": 44.023,
+     "end": 44.33
+    },
+    {
+     "w": "next",
+     "start": 44.33,
+     "end": 44.506
+    },
+    {
+     "w": "we're",
+     "start": 44.506,
+     "end": 44.683
+    },
+    {
+     "w": "building",
+     "start": 44.683,
+     "end": 44.99
+    },
+    {
+     "w": "the",
+     "start": 44.99,
+     "end": 45.166
+    },
+    {
+     "w": "Dutch",
+     "start": 45.166,
+     "end": 45.343
+    },
+    {
+     "w": "storm",
+     "start": 45.343,
+     "end": 45.519
+    },
+    {
+     "w": "barrier.",
+     "start": 45.519,
+     "end": 45.826
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 46.25,
+   "end": 50.594,
+   "text": "Now send a ship up three steps, across the lake, and down three more to the other ocean.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 46.36,
+     "end": 46.587
+    },
+    {
+     "w": "send",
+     "start": 46.587,
+     "end": 46.814
+    },
+    {
+     "w": "a",
+     "start": 46.814,
+     "end": 47.041
+    },
+    {
+     "w": "ship",
+     "start": 47.041,
+     "end": 47.269
+    },
+    {
+     "w": "up",
+     "start": 47.269,
+     "end": 47.496
+    },
+    {
+     "w": "three",
+     "start": 47.496,
+     "end": 47.723
+    },
+    {
+     "w": "steps,",
+     "start": 47.723,
+     "end": 47.95
+    },
+    {
+     "w": "across",
+     "start": 48.08,
+     "end": 48.392
+    },
+    {
+     "w": "the",
+     "start": 48.392,
+     "end": 48.571
+    },
+    {
+     "w": "lake,",
+     "start": 48.571,
+     "end": 48.75
+    },
+    {
+     "w": "and",
+     "start": 48.92,
+     "end": 49.089
+    },
+    {
+     "w": "down",
+     "start": 49.089,
+     "end": 49.258
+    },
+    {
+     "w": "three",
+     "start": 49.258,
+     "end": 49.426
+    },
+    {
+     "w": "more",
+     "start": 49.426,
+     "end": 49.595
+    },
+    {
+     "w": "to",
+     "start": 49.595,
+     "end": 49.764
+    },
+    {
+     "w": "the",
+     "start": 49.764,
+     "end": 49.933
+    },
+    {
+     "w": "other",
+     "start": 49.933,
+     "end": 50.226
+    },
+    {
+     "w": "ocean.",
+     "start": 50.226,
+     "end": 50.52
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 50.958,
+   "end": 56.281,
+   "text": "Twenty-six meters up, two hundred million liters per ship, and over a million ships since nineteen fourteen.",
+   "words": [
+    {
+     "w": "Twenty-six",
+     "start": 51.088,
+     "end": 51.554
+    },
+    {
+     "w": "meters",
+     "start": 51.554,
+     "end": 51.88
+    },
+    {
+     "w": "up,",
+     "start": 51.88,
+     "end": 52.068
+    },
+    {
+     "w": "two",
+     "start": 52.248,
+     "end": 52.435
+    },
+    {
+     "w": "hundred",
+     "start": 52.435,
+     "end": 52.761
+    },
+    {
+     "w": "million",
+     "start": 52.761,
+     "end": 53.087
+    },
+    {
+     "w": "liters",
+     "start": 53.087,
+     "end": 53.413
+    },
+    {
+     "w": "per",
+     "start": 53.413,
+     "end": 53.601
+    },
+    {
+     "w": "ship,",
+     "start": 53.601,
+     "end": 53.788
+    },
+    {
+     "w": "and",
+     "start": 53.988,
+     "end": 54.178
+    },
+    {
+     "w": "over",
+     "start": 54.178,
+     "end": 54.508
+    },
+    {
+     "w": "a",
+     "start": 54.508,
+     "end": 54.698
+    },
+    {
+     "w": "million",
+     "start": 54.698,
+     "end": 55.028
+    },
+    {
+     "w": "ships",
+     "start": 55.028,
+     "end": 55.217
+    },
+    {
+     "w": "since",
+     "start": 55.217,
+     "end": 55.407
+    },
+    {
+     "w": "nineteen",
+     "start": 55.407,
+     "end": 55.878
+    },
+    {
+     "w": "fourteen.",
+     "start": 55.878,
+     "end": 56.208
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.646,
+   "end": 59.823,
+   "text": "And congrats, you just built the Panama Canal locks yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.766,
+     "end": 57.014
+    },
+    {
+     "w": "congrats,",
+     "start": 57.014,
+     "end": 57.446
+    },
+    {
+     "w": "you",
+     "start": 57.606,
+     "end": 57.798
+    },
+    {
+     "w": "just",
+     "start": 57.798,
+     "end": 57.989
+    },
+    {
+     "w": "built",
+     "start": 57.989,
+     "end": 58.181
+    },
+    {
+     "w": "the",
+     "start": 58.181,
+     "end": 58.372
+    },
+    {
+     "w": "Panama",
+     "start": 58.372,
+     "end": 58.848
+    },
+    {
+     "w": "Canal",
+     "start": 58.848,
+     "end": 59.181
+    },
+    {
+     "w": "locks",
+     "start": 59.181,
+     "end": 59.373
+    },
+    {
+     "w": "yourself.",
+     "start": 59.373,
+     "end": 59.706
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 60.188,
+   "end": 66.417,
+   "text": "In nineteen twenty-eight a man swam it, so they weighed him like a ship and charged him thirty-six cents. Airport water costs more.",
+   "words": [
+    {
+     "w": "In",
+     "start": 60.318,
+     "end": 60.507
+    },
+    {
+     "w": "nineteen",
+     "start": 60.507,
+     "end": 60.975
+    },
+    {
+     "w": "twenty-eight",
+     "start": 60.975,
+     "end": 61.303
+    },
+    {
+     "w": "a",
+     "start": 61.303,
+     "end": 61.492
+    },
+    {
+     "w": "man",
+     "start": 61.492,
+     "end": 61.681
+    },
+    {
+     "w": "swam",
+     "start": 61.681,
+     "end": 61.869
+    },
+    {
+     "w": "it,",
+     "start": 61.869,
+     "end": 62.058
+    },
+    {
+     "w": "so",
+     "start": 62.208,
+     "end": 62.41
+    },
+    {
+     "w": "they",
+     "start": 62.41,
+     "end": 62.612
+    },
+    {
+     "w": "weighed",
+     "start": 62.612,
+     "end": 62.963
+    },
+    {
+     "w": "him",
+     "start": 62.963,
+     "end": 63.165
+    },
+    {
+     "w": "like",
+     "start": 63.165,
+     "end": 63.367
+    },
+    {
+     "w": "a",
+     "start": 63.367,
+     "end": 63.568
+    },
+    {
+     "w": "ship",
+     "start": 63.568,
+     "end": 63.77
+    },
+    {
+     "w": "and",
+     "start": 63.77,
+     "end": 63.972
+    },
+    {
+     "w": "charged",
+     "start": 63.972,
+     "end": 64.323
+    },
+    {
+     "w": "him",
+     "start": 64.323,
+     "end": 64.525
+    },
+    {
+     "w": "thirty-six",
+     "start": 64.525,
+     "end": 65.026
+    },
+    {
+     "w": "cents.",
+     "start": 65.026,
+     "end": 65.228
+    },
+    {
+     "w": "Airport",
+     "start": 65.308,
+     "end": 65.645
+    },
+    {
+     "w": "water",
+     "start": 65.645,
+     "end": 65.981
+    },
+    {
+     "w": "costs",
+     "start": 65.981,
+     "end": 66.175
+    },
+    {
+     "w": "more.",
+     "start": 66.175,
+     "end": 66.368
+    }
+   ]
+  }
+ ]
+}
