@@ -14,14 +14,41 @@
   "eleven_turbo_v2",
   "eleven_flash_v2"
  ],
- "requested_characters": 13,
+ "requested_characters": 76,
  "recorded_this_run": [
-  "A_mew2",
-  "A_mew3",
-  "A_mew4"
+  "i1",
+  "i2",
+  "i3"
  ],
  "notes": [],
  "lines": [
+  {
+   "id": "i1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "السلام عليكم! مرحبا بيكم.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "i2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "اليوم غادي نتعلمو الإنجليزية بالدارجة.",
+   "characters": 38,
+   "model": "eleven_v4",
+   "seconds": 3.28
+  },
+  {
+   "id": "i3",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "يالله، نبداو!",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
   {
    "id": "p01t",
    "speaker": "T",
