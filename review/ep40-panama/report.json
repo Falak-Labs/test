@@ -1,0 +1,137 @@
+{
+ "slug": "ep40-panama",
+ "kit": "panama",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.53,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "16/230",
+   "mix_lines_off": [
+    "L 3 1 diff  | So you dam a river into a giant lake high in the hills and shifts cross on it.",
+    "L 5 1 diff  | So you build water steps. The ship enters a concrete box that gates close and lake water pours in through the floor. No pumps, lifting it like a b",
+    "L 6 2 diff  | But the biggest gates weigh as much as 400 cars.",
+    "L 7 1 diff  | So you make them hollow, they half float and motors weaker than a car swing them.",
+    "L12 6 diff  | 26 meters up, 200 million liters per ship, and over a million ships since 1914.",
+    "L14 5 diff  | In 1928 a man swam it, so they weighed him like a ship and charged him 36 cents. Airport water costs more."
+   ],
+   "size_mb": 17.4,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو خليت مركب عملاق يطلع سلم الجبل بمية المطر، مبروك، كده انت بنيت هويس قناة بنما.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس دي مش السويس المستوية: بين المحيطين جبال، واللفة حوالين أمريكا الجنوبية أسابيع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتسد نهر، يبقى بحيرة عملاقة عالية في الجبل، والمراكب تعدي عليها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس المركب مبيطلعش العالي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتبني سلالم مية: المركب يدخل صندوق، البوابات تتقفل، ومية البحيرة تدخل من الأرضية من غير طلمبة، وترفعه زي لعبة البانيو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس أكبر بوابة وزنها قد أربعمية عربية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتعملها مجوفة، نص عايمة، وموتورات أضعف من موتور العربية تفتحها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس المركب الكبير داخل بالعافية، نص متر من كل ناحية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فقاطرات كهربا اسمها البغال تمسكه بحبال حديد، في النص بالظبط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تفتح البوابات، تابعني، عشان اللي جاي هنبني حاجز العواصف الهولندي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس طلّعه تلات درجات، عدّيه البحيرة، ونزّله تلاتة للمحيط التاني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ستة وعشرين متر لفوق، ميتين مليون لتر لكل مركب، وأكتر من مليون مركب في مية سنة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت هويس قناة بنما بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "واحد عدّاها عوم، وزنوه زي المركب ودفّعوه ستة وتلاتين سنت، والسايس بياخد أكتر وهو بيقولك: تعالى تعالى.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 74.67,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.1,
+   "cover": true
+  }
+ }
+}

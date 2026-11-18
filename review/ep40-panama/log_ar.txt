@@ -1,0 +1,7 @@
+panama_ar_sa: 74.65s, 2240 frames
+cover out/panama_ar_sa/cover.png: ['هويس', 'قناة بنما'] (frame 0 of the video)
+video done in 402s
+audio done
+final out/panama_ar_sa/panama_ar_sa_final.mp4
+QA  duration 74.67s  loudness -14.0 LUFS  true peak -1.8 dBFS  1080x1920 @ 30/1  frames 2240
+QA sheet out/panama_ar_sa/qa_sheet.png
