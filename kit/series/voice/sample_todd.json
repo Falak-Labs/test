@@ -1,0 +1,652 @@
+{
+ "voice": "elevenlabs:g14YnDYCsy3k7XLlcKlO",
+ "model": "eleven_multilingual_v2",
+ "tempo": 1.0,
+ "gap": 0.35,
+ "duration": 37.002,
+ "words": 117,
+ "words_per_sec": 3.16,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 7.154,
+   "text": "If you stack over two million stone blocks into a mountain that was once shiny white, congrats, you just built the Great Pyramid of Giza.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.0,
+     "end": 0.133
+    },
+    {
+     "w": "you",
+     "start": 0.18,
+     "end": 0.261
+    },
+    {
+     "w": "stack",
+     "start": 0.342,
+     "end": 0.644
+    },
+    {
+     "w": "over",
+     "start": 0.737,
+     "end": 0.934
+    },
+    {
+     "w": "two",
+     "start": 1.016,
+     "end": 1.248
+    },
+    {
+     "w": "million",
+     "start": 1.318,
+     "end": 1.585
+    },
+    {
+     "w": "stone",
+     "start": 1.631,
+     "end": 1.875
+    },
+    {
+     "w": "blocks",
+     "start": 1.91,
+     "end": 2.188
+    },
+    {
+     "w": "into",
+     "start": 2.223,
+     "end": 2.351
+    },
+    {
+     "w": "a",
+     "start": 2.42,
+     "end": 2.444
+    },
+    {
+     "w": "mountain",
+     "start": 2.502,
+     "end": 2.769
+    },
+    {
+     "w": "that",
+     "start": 2.804,
+     "end": 2.896
+    },
+    {
+     "w": "was",
+     "start": 2.931,
+     "end": 3.024
+    },
+    {
+     "w": "once",
+     "start": 3.105,
+     "end": 3.384
+    },
+    {
+     "w": "shiny",
+     "start": 3.454,
+     "end": 3.79
+    },
+    {
+     "w": "white,",
+     "start": 3.837,
+     "end": 4.13
+    },
+    {
+     "w": "congrats,",
+     "start": 4.237,
+     "end": 5.03
+    },
+    {
+     "w": "you",
+     "start": 5.173,
+     "end": 5.266
+    },
+    {
+     "w": "just",
+     "start": 5.335,
+     "end": 5.486
+    },
+    {
+     "w": "built",
+     "start": 5.521,
+     "end": 5.707
+    },
+    {
+     "w": "the",
+     "start": 5.753,
+     "end": 5.823
+    },
+    {
+     "w": "Great",
+     "start": 5.881,
+     "end": 6.055
+    },
+    {
+     "w": "Pyramid",
+     "start": 6.113,
+     "end": 6.45
+    },
+    {
+     "w": "of",
+     "start": 6.485,
+     "end": 6.531
+    },
+    {
+     "w": "Giza.",
+     "start": 6.578,
+     "end": 7.155
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.504,
+   "end": 11.569,
+   "text": "But most blocks outweigh a car, and a sledge on sand just digs in.",
+   "words": [
+    {
+     "w": "But",
+     "start": 7.504,
+     "end": 7.657
+    },
+    {
+     "w": "most",
+     "start": 7.773,
+     "end": 8.051
+    },
+    {
+     "w": "blocks",
+     "start": 8.098,
+     "end": 8.4
+    },
+    {
+     "w": "outweigh",
+     "start": 8.446,
+     "end": 8.783
+    },
+    {
+     "w": "a",
+     "start": 8.818,
+     "end": 8.852
+    },
+    {
+     "w": "car,",
+     "start": 8.91,
+     "end": 9.27
+    },
+    {
+     "w": "and",
+     "start": 9.305,
+     "end": 9.398
+    },
+    {
+     "w": "a",
+     "start": 9.433,
+     "end": 9.456
+    },
+    {
+     "w": "sledge",
+     "start": 9.514,
+     "end": 9.816
+    },
+    {
+     "w": "on",
+     "start": 9.851,
+     "end": 9.932
+    },
+    {
+     "w": "sand",
+     "start": 10.002,
+     "end": 10.257
+    },
+    {
+     "w": "just",
+     "start": 10.315,
+     "end": 10.478
+    },
+    {
+     "w": "digs",
+     "start": 10.547,
+     "end": 10.803
+    },
+    {
+     "w": "in.",
+     "start": 10.861,
+     "end": 11.569
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 11.919,
+   "end": 16.352,
+   "text": "So you pour water on the sand: it turns firm, and half the crew can pull it.",
+   "words": [
+    {
+     "w": "So",
+     "start": 11.919,
+     "end": 12.094
+    },
+    {
+     "w": "you",
+     "start": 12.152,
+     "end": 12.233
+    },
+    {
+     "w": "pour",
+     "start": 12.349,
+     "end": 12.616
+    },
+    {
+     "w": "water",
+     "start": 12.686,
+     "end": 12.953
+    },
+    {
+     "w": "on",
+     "start": 13.011,
+     "end": 13.092
+    },
+    {
+     "w": "the",
+     "start": 13.139,
+     "end": 13.208
+    },
+    {
+     "w": "sand:",
+     "start": 13.243,
+     "end": 13.699
+    },
+    {
+     "w": "it",
+     "start": 13.837,
+     "end": 13.953
+    },
+    {
+     "w": "turns",
+     "start": 13.987,
+     "end": 14.243
+    },
+    {
+     "w": "firm,",
+     "start": 14.336,
+     "end": 14.847
+    },
+    {
+     "w": "and",
+     "start": 14.928,
+     "end": 15.09
+    },
+    {
+     "w": "half",
+     "start": 15.183,
+     "end": 15.427
+    },
+    {
+     "w": "the",
+     "start": 15.485,
+     "end": 15.554
+    },
+    {
+     "w": "crew",
+     "start": 15.601,
+     "end": 15.798
+    },
+    {
+     "w": "can",
+     "start": 15.845,
+     "end": 15.949
+    },
+    {
+     "w": "pull",
+     "start": 15.996,
+     "end": 16.181
+    },
+    {
+     "w": "it.",
+     "start": 16.239,
+     "end": 16.634
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.702,
+   "end": 20.836,
+   "text": "But before you climb it, follow, because next we're building a wind tower that cools a house.",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.702,
+     "end": 16.814
+    },
+    {
+     "w": "before",
+     "start": 16.838,
+     "end": 17.035
+    },
+    {
+     "w": "you",
+     "start": 17.07,
+     "end": 17.139
+    },
+    {
+     "w": "climb",
+     "start": 17.186,
+     "end": 17.43
+    },
+    {
+     "w": "it,",
+     "start": 17.465,
+     "end": 17.692
+    },
+    {
+     "w": "follow,",
+     "start": 17.821,
+     "end": 18.302
+    },
+    {
+     "w": "because",
+     "start": 18.374,
+     "end": 18.629
+    },
+    {
+     "w": "next",
+     "start": 18.664,
+     "end": 18.815
+    },
+    {
+     "w": "we're",
+     "start": 18.838,
+     "end": 18.954
+    },
+    {
+     "w": "building",
+     "start": 18.978,
+     "end": 19.221
+    },
+    {
+     "w": "a",
+     "start": 19.256,
+     "end": 19.279
+    },
+    {
+     "w": "wind",
+     "start": 19.337,
+     "end": 19.57
+    },
+    {
+     "w": "tower",
+     "start": 19.616,
+     "end": 19.837
+    },
+    {
+     "w": "that",
+     "start": 19.872,
+     "end": 19.964
+    },
+    {
+     "w": "cools",
+     "start": 19.999,
+     "end": 20.22
+    },
+    {
+     "w": "a",
+     "start": 20.255,
+     "end": 20.278
+    },
+    {
+     "w": "house.",
+     "start": 20.336,
+     "end": 21.358
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 21.186,
+   "end": 27.68,
+   "text": "A hundred forty-six meters, two point three million blocks, and the world's tallest for thirty-eight centuries.",
+   "words": [
+    {
+     "w": "A",
+     "start": 21.186,
+     "end": 21.256
+    },
+    {
+     "w": "hundred",
+     "start": 21.349,
+     "end": 21.604
+    },
+    {
+     "w": "forty-six",
+     "start": 21.662,
+     "end": 22.115
+    },
+    {
+     "w": "meters,",
+     "start": 22.184,
+     "end": 22.533
+    },
+    {
+     "w": "two",
+     "start": 22.649,
+     "end": 22.869
+    },
+    {
+     "w": "point",
+     "start": 22.951,
+     "end": 23.183
+    },
+    {
+     "w": "three",
+     "start": 23.229,
+     "end": 23.485
+    },
+    {
+     "w": "million",
+     "start": 23.531,
+     "end": 23.833
+    },
+    {
+     "w": "blocks,",
+     "start": 23.88,
+     "end": 24.39
+    },
+    {
+     "w": "and",
+     "start": 24.541,
+     "end": 24.704
+    },
+    {
+     "w": "the",
+     "start": 24.75,
+     "end": 24.82
+    },
+    {
+     "w": "world's",
+     "start": 24.866,
+     "end": 25.191
+    },
+    {
+     "w": "tallest",
+     "start": 25.238,
+     "end": 25.702
+    },
+    {
+     "w": "for",
+     "start": 25.772,
+     "end": 25.911
+    },
+    {
+     "w": "thirty-eight",
+     "start": 26.027,
+     "end": 26.689
+    },
+    {
+     "w": "centuries.",
+     "start": 26.759,
+     "end": 27.68
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 28.03,
+   "end": 31.915,
+   "text": "And congrats, you just built the Great Pyramid of Giza yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 28.03,
+     "end": 28.193
+    },
+    {
+     "w": "congrats,",
+     "start": 28.262,
+     "end": 29.075
+    },
+    {
+     "w": "you",
+     "start": 29.166,
+     "end": 29.294
+    },
+    {
+     "w": "just",
+     "start": 29.444,
+     "end": 29.723
+    },
+    {
+     "w": "built",
+     "start": 29.804,
+     "end": 30.037
+    },
+    {
+     "w": "the",
+     "start": 30.071,
+     "end": 30.141
+    },
+    {
+     "w": "Great",
+     "start": 30.199,
+     "end": 30.385
+    },
+    {
+     "w": "Pyramid",
+     "start": 30.466,
+     "end": 30.826
+    },
+    {
+     "w": "of",
+     "start": 30.861,
+     "end": 30.907
+    },
+    {
+     "w": "Giza",
+     "start": 30.965,
+     "end": 31.221
+    },
+    {
+     "w": "yourself.",
+     "start": 31.29,
+     "end": 32.242
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 32.265,
+   "end": 37.002,
+   "text": "And forty-five centuries later it still stands. The shelf you put up last week? On the floor.",
+   "words": [
+    {
+     "w": "And",
+     "start": 32.265,
+     "end": 32.38
+    },
+    {
+     "w": "forty-five",
+     "start": 32.449,
+     "end": 32.937
+    },
+    {
+     "w": "centuries",
+     "start": 32.972,
+     "end": 33.32
+    },
+    {
+     "w": "later",
+     "start": 33.367,
+     "end": 33.599
+    },
+    {
+     "w": "it",
+     "start": 33.668,
+     "end": 33.738
+    },
+    {
+     "w": "still",
+     "start": 33.785,
+     "end": 33.982
+    },
+    {
+     "w": "stands.",
+     "start": 34.028,
+     "end": 34.615
+    },
+    {
+     "w": "The",
+     "start": 34.672,
+     "end": 34.788
+    },
+    {
+     "w": "shelf",
+     "start": 34.835,
+     "end": 35.09
+    },
+    {
+     "w": "you",
+     "start": 35.137,
+     "end": 35.206
+    },
+    {
+     "w": "put",
+     "start": 35.264,
+     "end": 35.381
+    },
+    {
+     "w": "up",
+     "start": 35.415,
+     "end": 35.497
+    },
+    {
+     "w": "last",
+     "start": 35.555,
+     "end": 35.752
+    },
+    {
+     "w": "week?",
+     "start": 35.81,
+     "end": 36.165
+    },
+    {
+     "w": "On",
+     "start": 36.235,
+     "end": 36.409
+    },
+    {
+     "w": "the",
+     "start": 36.444,
+     "end": 36.514
+    },
+    {
+     "w": "floor.",
+     "start": 36.56,
+     "end": 37.175
+    }
+   ]
+  }
+ ]
+}
