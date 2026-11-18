@@ -1,4 +1,4 @@
-# Post status 2026-11-18T19:26:40+00:00
+# Post status 2026-11-18T19:44:14+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -219,7 +219,7 @@
 | ep36-pyramid | en.tiktok | sent |  | 2026-11-18T05:30:46.755Z https://tiktok.com/@congratsengineer/video/7709379367360597262 |
 | ep36-pyramid | en.youtube | sent |  | 2026-11-18T05:30:08.839Z https://www.youtube.com/shorts/NBpVVXvwBd4 |
 | ep37-windtower | ar.instagram | sent |  | 2026-11-18T17:05:10.686Z https://www.instagram.com/reel/Df4_6ANwVci/ |
-| ep37-windtower | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-18T17:00:00.000Z |
+| ep37-windtower | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-19T02:00:00.000Z |
 | ep37-windtower | ar.youtube | sent |  | 2026-11-18T17:03:17.795Z https://www.youtube.com/shorts/f3nfx--F-Kk |
 | ep37-windtower | en.instagram | sent |  | 2026-11-18T14:03:06.680Z https://www.instagram.com/reel/Df4rClNxsXT/ |
 | ep37-windtower | en.tiktok | sent |  | 2026-11-18T14:05:41.977Z https://tiktok.com/@congratsengineer/video/7709511909875223822 |
