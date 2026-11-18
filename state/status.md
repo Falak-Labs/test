@@ -1,4 +1,4 @@
-# Post status 2026-11-18T20:43:34+00:00
+# Post status 2026-11-18T20:53:47+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -242,3 +242,9 @@
 | ep40-panama | en.instagram | scheduled |  | 2026-11-19T14:00:00.000Z |
 | ep40-panama | en.tiktok | scheduled |  | 2026-11-19T14:00:00.000Z |
 | ep40-panama | en.youtube | scheduled |  | 2026-11-19T14:00:00.000Z |
+| ep41-barrier | ar.instagram | scheduled |  | 2026-11-19T11:00:00.000Z |
+| ep41-barrier | ar.tiktok | scheduled |  | 2026-11-19T11:00:00.000Z |
+| ep41-barrier | ar.youtube | scheduled |  | 2026-11-19T11:00:00.000Z |
+| ep41-barrier | en.instagram | scheduled |  | 2026-11-19T16:30:00.000Z |
+| ep41-barrier | en.tiktok | scheduled |  | 2026-11-19T16:30:00.000Z |
+| ep41-barrier | en.youtube | scheduled |  | 2026-11-19T16:30:00.000Z |
