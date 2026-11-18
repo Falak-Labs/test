@@ -1,4 +1,4 @@
-# Post status 2026-11-18T02:56:27+00:00
+# Post status 2026-11-18T04:08:42+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -209,12 +209,18 @@
 | ep35-phone | ar.instagram | scheduled |  | 2026-11-18T08:30:00.000Z |
 | ep35-phone | ar.tiktok | scheduled |  | 2026-11-18T08:30:00.000Z |
 | ep35-phone | ar.youtube | scheduled |  | 2026-11-18T08:30:00.000Z |
-| ep35-phone | en.instagram | scheduled |  | 2026-11-18T04:00:00.000Z |
-| ep35-phone | en.tiktok | scheduled |  | 2026-11-18T04:00:00.000Z |
-| ep35-phone | en.youtube | scheduled |  | 2026-11-18T04:00:00.000Z |
+| ep35-phone | en.instagram | sent |  | 2026-11-18T04:01:49.414Z https://www.instagram.com/reel/Df3mSLmBAir/ |
+| ep35-phone | en.tiktok | sent |  | 2026-11-18T04:01:11.281Z https://tiktok.com/@congratsengineer/video/7709356358910496013 |
+| ep35-phone | en.youtube | sent |  | 2026-11-18T04:00:27.627Z https://www.youtube.com/shorts/u3ND6hLvRmg |
 | ep36-pyramid | ar.instagram | scheduled |  | 2026-11-18T11:00:00.000Z |
 | ep36-pyramid | ar.tiktok | scheduled |  | 2026-11-18T11:00:00.000Z |
 | ep36-pyramid | ar.youtube | scheduled |  | 2026-11-18T11:00:00.000Z |
 | ep36-pyramid | en.instagram | scheduled |  | 2026-11-18T05:30:00.000Z |
 | ep36-pyramid | en.tiktok | scheduled |  | 2026-11-18T05:30:00.000Z |
 | ep36-pyramid | en.youtube | scheduled |  | 2026-11-18T05:30:00.000Z |
+| ep37-windtower | ar.instagram | scheduled |  | 2026-11-18T17:00:00.000Z |
+| ep37-windtower | ar.tiktok | scheduled |  | 2026-11-18T17:00:00.000Z |
+| ep37-windtower | ar.youtube | scheduled |  | 2026-11-18T17:00:00.000Z |
+| ep37-windtower | en.instagram | scheduled |  | 2026-11-18T14:00:00.000Z |
+| ep37-windtower | en.tiktok | scheduled |  | 2026-11-18T14:00:00.000Z |
+| ep37-windtower | en.youtube | scheduled |  | 2026-11-18T14:00:00.000Z |
