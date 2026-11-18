@@ -1,4 +1,0 @@
-# Three short lines, one per voice, to check the workflow end to end. Removed after the check.
-T | t1 | مزيان!
-A | a1 | Good job!
-L | l1 | Bye!
