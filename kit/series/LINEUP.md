@@ -5,7 +5,9 @@ Two runs a day make three builds each (Nov 17 2026, the owner: "Let's start post
 - **Build-It daily production** (18:37 PT) makes TOMORROW's last three builds.
 
 Rules:
-- Each run takes the three lowest-numbered entries below that are not in episodes.yml yet, in this order.
+- Each run takes the three lowest-numbered entries below that are not in episodes.yml yet and not taken, in this order.
+  As soon as you pick them, add "(taken: midday|evening run of <TODAY in PT>)" to their lines and push this file, so
+  the other run skips them. A mark older than a day whose build is still not in episodes.yml is free again.
 - Line 10 of build N promises build N+1 as listed here (the other run may be the one that makes it), so the order
   below is the posting order. Never reorder or renumber entries that are already promised by a made build.
 - Keep at least nine entries ahead of the ones you take: when fewer remain, research new ideas and append them before
