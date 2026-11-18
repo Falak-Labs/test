@@ -48,6 +48,8 @@ jobs:
           echo "episode: ${EPISODE}"
           args=()
           if [ "$FORCE" = "true" ]; then args+=(--force); fi
+          # an episode can have its own voices: darija/voices_<episode>.json (e.g. a Palestinian teacher)
+          if [ -f "darija/voices_${EPISODE}.json" ]; then args+=(--voices "darija/voices_${EPISODE}.json"); fi
           python -I -u darija/tools/make_vo_lesson.py "darija/lines/${EPISODE}.txt" "darija/voice/${EPISODE}" "${args[@]}"
       - name: Save to the repo
         if: always()

@@ -1,0 +1,29 @@
+name: Darija voice find
+# Lists ElevenLabs voices (the account's own and the shared library's Levantine / Palestinian Arabic ones) into
+# darija/voice/_find/voices.json. Costs no credits. The key is read from the ELEVENLABS_API_KEY secret and never printed.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: darija-voice
+  cancel-in-progress: false
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet requests
+      - name: Find
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python -I -u darija/tools/find_voices.py darija/voice/_find
+      - name: Save to the repo
+        if: always()
+        run: bash scripts/save_state.sh "darija voice find $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" darija/voice
