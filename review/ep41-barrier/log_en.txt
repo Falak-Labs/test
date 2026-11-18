@@ -1,0 +1,13 @@
+barrier: 68.04s, 2041 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/barrier/cover.png: ['THE DUTCH', 'STORM BARRIER'] (frame 0 of the video)
+video done in 436s
+audio done
+final out/barrier/barrier_final.mp4
+QA  duration 68.03s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2041
+QA sheet out/barrier/qa_sheet.png

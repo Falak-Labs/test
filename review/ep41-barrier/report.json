@@ -1,0 +1,136 @@
+{
+ "slug": "ep41-barrier",
+ "kit": "barrier",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.03,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "11/234",
+   "mix_lines_off": [
+    "L 3 2 diff  | So you'd wall the river off of the dam.",
+    "L 5 1 diff  | So you build two hollow gates that wait open and dry docks on the banks.",
+    "L 9 2 diff  | So when they meet, you let water in, and they sink to the bottom, a steel wall 22 meters tall.",
+    "L11 1 diff  | Now hand the button to a computer if the C will rise 3 meters, it closes by itself.",
+    "L12 5 diff  | 6,800 tons per arm, 10 meter ball joints, and 10 years of waiting for its first real storm."
+   ],
+   "size_mb": 21.9,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو سكّرت نهر بذراعين حديد، كل وحدة أطول من ملعبين، توقف البحر، مبروك، كذا سويت لك حاجز العواصف الهولندي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس ربع هولندا تحت البحر، والعاصفة تدف البحر في النهر لين روتردام.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتقول: طيب، أسكّر النهر بسد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس هالنهر طريق السفن لأكبر ميناء في أوروبا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتسوي بوابتين مجوفة، تنتظر مفتوحة في أحواض على الطرف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس كل وحدة أثقل من ألف فيل، ولا مفصلة تشيلها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتعبّي الأحواض موية، تطفو البوابات، وتلف على كورة حديد، زي مفصل الكتف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس البوابة الطافية تتهز مع الموج، والبحر يدخل من تحتها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فأول ما يتقابلون، تعبّيهم موية، وينزلون القاع: جدار حديد اثنين وعشرين متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا توصل العاصفة، تابعني، لأن الجاي بنبني فينيسيا على الخشب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين عط الزر للكمبيوتر: إذا البحر بيرتفع ثلاثة متر، يسكّر بروحه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ستة آلاف وثمنمية طن للذراع، كورة عشرة متر، وعشر سنين لين أول عاصفة جد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك حاجز العواصف الهولندي بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وهم يبنون جدار يصد العاصفة، وحنا أول ما تغيّم، نشيل الدلة ونطلع البر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 71.73,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 21.7,
+   "cover": true
+  }
+ }
+}
