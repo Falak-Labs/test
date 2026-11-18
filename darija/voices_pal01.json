@@ -1,0 +1,19 @@
+{
+ "model": "eleven_v4",
+ "output_format": "mp3_44100_128",
+ "speakers": {
+  "T": {
+   "name": "Teacher (Sara, young Jordanian/Levantine)",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "owner": "1660580588b63dbec39e4ca21a160cef605969e84448cbc688655770170e64da"
+  },
+  "A": {
+   "name": "Adam, the boy (Teddy Twinkle)",
+   "voice": "XjGYkUkzth8BPs29fmcV"
+  },
+  "L": {
+   "name": "Lina, the girl (Candy)",
+   "voice": "Nggzl2QAXh3OijoXD116"
+  }
+ }
+}

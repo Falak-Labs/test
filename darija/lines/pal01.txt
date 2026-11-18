@@ -1,0 +1,65 @@
+# Palestinian -> English lessons, episode 1: 15 everyday phrases, then the hard word (Communication).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | i1 | السلام عليكم! أهلا وسهلا فيكم.
+T | i2 | اليوم رح نتعلم إنجليزي، خطوة خطوة.
+T | i3 | يلا، نبلش!
+T | p01t | مرحبا، كيفك؟
+A | p01k | Hi, how are you?
+T | p02t | منيح، الحمد لله.
+L | p02k | I'm fine, thank you.
+T | p03t | شو اسمك؟
+A | p03k | What's your name?
+T | p04t | اسمي لينا.
+L | p04k | My name is Lina.
+T | p05t | من وين إنت؟
+A | p05k | Where are you from?
+T | p06t | بدي مي، من فضلك.
+L | p06k | I want water, please.
+T | p07t | قديش هاد؟
+A | p07k | How much is this?
+T | p08t | وين الحمام؟
+L | p08k | Where is the bathroom?
+T | p09t | ما فهمت.
+A | p09k | I don't understand.
+T | p10t | عيدها، لو سمحت.
+L | p10k | Say it again, please.
+T | p11t | شكرا كتير.
+A | p11k | Thank you very much.
+T | p12t | عفوا.
+L | p12k | You're welcome.
+T | p13t | أنا آسف.
+A | p13k | I'm sorry.
+T | p14t | بشوفك بكرا.
+L | p14k | See you tomorrow.
+T | p15t | مع السلامة!
+A | p15k | Goodbye!
+T | r0 | تعالوا نعيد!
+T | w0 | هلأ، كلمة اليوم الصعبة!
+T | tw | Communication.
+A | w1 | Wow! It's so long!
+T | w2 | شوي شوي.
+T | sT | Come. [long pause] Mew. [long pause] Nih. [long pause] Kay. [long pause] Shun.
+A | sA | Come. [long pause] Mew. [long pause] Nih. [long pause] Kay. [long pause] Shun.
+L | sL | Come. [long pause] Mew. [long pause] Nih. [long pause] Kay. [long pause] Shun.
+T | T_come | Come.
+T | T_mew | Mew.
+T | T_nih | Nih.
+T | T_kay | Kay.
+T | T_shun | Shun.
+A | A_come | Come.
+A | A_mew | Mew.
+A | A_nih | Nih.
+A | A_kay | Kay.
+A | A_shun | Shun.
+L | L_come | Come.
+L | L_mew | Mew.
+L | L_nih | Nih.
+L | L_kay | Kay.
+L | L_shun | Shun.
+T | w3 | هلأ أسرع!
+T | w4 | هلأ الكلمة كاملة!
+A | w5 | Communication!
+T | w6 | Good job! Communication!
+T | o1 | عجبك الدرس؟ اكتبلنا الكلمة الصعبة بالتعليقات، وتابعنا عشان تتعلم كل يوم!
+L | o2 | See you next time!
+A | o3 | Bye!
