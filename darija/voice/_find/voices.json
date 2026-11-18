@@ -314,76 +314,61 @@
    "preview_url": "https://storage.googleapis.com/eleven-public-prod/premade/voices/pqHfZKP75CvOlQylNhV4/d782b3ff-84ba-4029-848c-acf01285524d.mp3"
   },
   {
-   "voice_id": "XTdzBt8oIEvodkwhxeA0",
-   "name": "Bateman - Deep and Seductive",
+   "voice_id": "kU20U5bOr9ND3yqlsdwV",
+   "name": "Majdi - life style voice",
    "category": "professional",
    "labels": {
-    "accent": "american",
-    "use_case": "narrative_story",
-    "language": "en",
-    "gender": "male",
-    "descriptive": "calm",
-    "age": "young"
-   },
-   "description": "Best voice over for your books and content (shorts, youtube, tiktok, Instagram). He has a chilling, narcissistic and pleasant tone.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/fc6e8b9c1f4d49ad9c3bc398c04c9b03/voices/XTdzBt8oIEvodkwhxeA0/h7QiU8fPoQDkdnZ0zsau.mp3"
-  },
-  {
-   "voice_id": "6cFz1T5FQxQS8Xk88qQi",
-   "name": "Ahmed - Deep Arabic Documentary & Audiob",
-   "category": "professional",
-   "labels": {
-    "accent": "modern standard",
-    "use_case": "narrative_story",
-    "language": "ar",
-    "gender": "male",
-    "descriptive": "calm",
-    "age": "middle_aged"
-   },
-   "description": "A deep, warm, and authoritative male voice in crystal-clear Modern Standard Arabic (Fusha). Studio-treated for cinematic documentaries, psychological book summaries, long-form audiobooks, and executive institutional narration. Calm pacing with natural dramatic gravitas.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/bce8bba78e3148199d6fa567e9b1933e/voices/6cFz1T5FQxQS8Xk88qQi/b0a8e597-4100-4ce5-a7da-f4dc1fdb8d43.mp3"
-  },
-  {
-   "voice_id": "UZbXudn9g5q7bjznYXcC",
-   "name": "Ahmed - Natural and Clear",
-   "category": "professional",
-   "labels": {
-    "accent": "gulf",
-    "use_case": "narrative_story",
-    "language": "ar",
-    "descriptive": "deep",
-    "gender": "male",
-    "age": "young"
-   },
-   "description": "Natural male voice with a clear Gulf accent. Calm, grounded delivery with a slight melancholic tone. Works well for storytelling, ambient narration, and reflective monologues.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/412d5a5090c84555826808dbf61fcc95/voices/UZbXudn9g5q7bjznYXcC/AwrAGXnc17QfGdxFo8YT.mp3"
-  },
-  {
-   "voice_id": "XA3P1cj7XJexe6Zq0ATX",
-   "name": "Dan - Friendly, Relaxed & Real",
-   "category": "professional",
-   "labels": {
-    "accent": "american",
-    "use_case": "social_media",
-    "language": "en",
     "descriptive": "casual",
-    "gender": "male",
-    "age": "middle_aged"
+    "age": "young",
+    "accent": "jordanian",
+    "use_case": "characters_animation",
+    "language": "ar",
+    "gender": "male"
    },
-   "description": "Down-to-earth, warm baritone with a natural, conversational read that sounds like a real person, not an announcer. Made for social media and creator content: social media, Reels, faceless channels, fun facts and top-ten lists, explainers and tutorials, recipes, product reviews, storytime and podcasts.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/77c87c6612e1409888fc6cfe07c0b8b9/voices/XA3P1cj7XJexe6Zq0ATX/Id3YsPkeMdW6m7dCTVxp.mp3"
+   "description": "A great voice for natural Arabic.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/0f56d8417f704908b9279330f8abe188/voices/kU20U5bOr9ND3yqlsdwV/eKlV7o73pSYMrp8fvtld.mp3"
+  },
+  {
+   "voice_id": "C5sH6vPhsC46AKaQmXXJ",
+   "name": "Loubna",
+   "category": "professional",
+   "labels": {
+    "descriptive": "upbeat",
+    "age": "young",
+    "accent": "moroccan",
+    "use_case": "conversational",
+    "language": "ar",
+    "gender": "female"
+   },
+   "description": "Authentic Moroccan female voice speaking natural Moroccan Darija, with genuine Moroccan pronunciation, rhythm and intonation. Warm, calm, clear, reassuring and conversational. Ideal for a medical clinic receptionist, patient support, appointment booking and phone conversations. Comfortable with the natural mix of Moroccan Darija and commonly used French medical terms. Professional, empathetic and welcoming.",
+   "preview_url": "https://api.us.elevenlabs.io/v1/voices/C5sH6vPhsC46AKaQmXXJ/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiI4OWUzZTAwYjM2NDM0MTk0OTQ0N2RiZWVjNTllZWQ4MSIsImZpbGVuYW1lIjoiMDJkZDA1NTktZWVkYi00Y2Q2LWFmMjktYWNjNTFjMDE1NjZjLm1wMyIsInRpbWVzdGFtcCI6MTc5NDk4MTYwMDAwMDAwMH0%3D"
+  },
+  {
+   "voice_id": "PmGnwGtnBs40iau7JfoF",
+   "name": "Jawad Moroccan Darija",
+   "category": "professional",
+   "labels": {
+    "use_case": "social_media",
+    "age": "middle_aged",
+    "accent": "moroccan",
+    "descriptive": "calm",
+    "language": "ar",
+    "gender": "male"
+   },
+   "description": "Warm and clear Arabic Moroccan Darija male voice, natural and conversational.",
+   "preview_url": "https://api.us.elevenlabs.io/v1/voices/PmGnwGtnBs40iau7JfoF/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiJkOGVhNTg3OWJiOTk0NGNjYjM0ODkxNWM3MDhkZjk4NiIsImZpbGVuYW1lIjoiOE42ODJkU3ZFY3IzZGp5TjF3M0subXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
   },
   {
    "voice_id": "IES4nrmZdUBHByLBde0P",
    "name": "Haytham - Conversation",
    "category": "professional",
    "labels": {
-    "accent": "egyptian",
     "use_case": "narrative_story",
-    "language": "ar",
-    "gender": "male",
+    "age": "middle_aged",
+    "accent": "egyptian",
     "descriptive": "crisp",
-    "age": "middle_aged"
+    "language": "ar",
+    "gender": "male"
    },
    "description": "Middle aged Arab male voice, warm, energetic, suitable for casual conversations, voice acting and story telling",
    "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/a2bfb04e0f004a808d30b9b123c4092f/voices/IES4nrmZdUBHByLBde0P/Y8RuRq66G8IOa64qczlV.mp3"
@@ -393,162 +378,147 @@
    "name": "Hamza - Deep and Charismatic",
    "category": "professional",
    "labels": {
-    "accent": "modern standard",
     "use_case": "narrative_story",
-    "language": "ar",
-    "gender": "male",
+    "age": "middle_aged",
+    "accent": "modern standard",
     "descriptive": "deep",
-    "age": "middle_aged"
+    "language": "ar",
+    "gender": "male"
    },
    "description": "Deep Arabic Male Voice.",
    "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/a8fed30185bd42549c8a314f3a30089e/voices/imSStoespHEDicyPMZ3i/BFln7irdQLOX4mL3Bhwe.mp3"
   },
   {
-   "voice_id": "PmGnwGtnBs40iau7JfoF",
-   "name": "Jawad Moroccan Darija",
+   "voice_id": "XA3P1cj7XJexe6Zq0ATX",
+   "name": "Dan - Friendly, Relaxed & Real",
    "category": "professional",
    "labels": {
-    "accent": "moroccan",
-    "use_case": "social_media",
-    "language": "ar",
-    "descriptive": "calm",
-    "gender": "male",
-    "age": "middle_aged"
-   },
-   "description": "Warm and clear Arabic Moroccan Darija male voice, natural and conversational.",
-   "preview_url": "https://api.us.elevenlabs.io/v1/voices/PmGnwGtnBs40iau7JfoF/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiJkOGVhNTg3OWJiOTk0NGNjYjM0ODkxNWM3MDhkZjk4NiIsImZpbGVuYW1lIjoiOE42ODJkU3ZFY3IzZGp5TjF3M0subXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
-  },
-  {
-   "voice_id": "C5sH6vPhsC46AKaQmXXJ",
-   "name": "Loubna",
-   "category": "professional",
-   "labels": {
-    "accent": "moroccan",
-    "use_case": "conversational",
-    "language": "ar",
-    "gender": "female",
-    "descriptive": "upbeat",
-    "age": "young"
-   },
-   "description": "Authentic Moroccan female voice speaking natural Moroccan Darija, with genuine Moroccan pronunciation, rhythm and intonation. Warm, calm, clear, reassuring and conversational. Ideal for a medical clinic receptionist, patient support, appointment booking and phone conversations. Comfortable with the natural mix of Moroccan Darija and commonly used French medical terms. Professional, empathetic and welcoming.",
-   "preview_url": "https://api.us.elevenlabs.io/v1/voices/C5sH6vPhsC46AKaQmXXJ/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiI4OWUzZTAwYjM2NDM0MTk0OTQ0N2RiZWVjNTllZWQ4MSIsImZpbGVuYW1lIjoiMDJkZDA1NTktZWVkYi00Y2Q2LWFmMjktYWNjNTFjMDE1NjZjLm1wMyIsInRpbWVzdGFtcCI6MTc5NDk4MTYwMDAwMDAwMH0%3D"
-  },
-  {
-   "voice_id": "kqVT88a5QfII1HNAEPTJ",
-   "name": "Declan Sage - Wise, Deliberate, Captivating",
-   "category": "professional",
-   "labels": {
+    "descriptive": "casual",
+    "age": "middle_aged",
     "accent": "american",
-    "use_case": "narrative_story",
+    "use_case": "social_media",
     "language": "en",
-    "descriptive": "deep",
-    "gender": "male",
-    "age": "middle_aged"
+    "gender": "male"
    },
-   "description": "A deep, resonant male voice with a standard American accent and a slight husky and raspy quality but still pleasant. It has a controlled, measured, and direct delivery, perfect for authoritative narrations, compelling audiobooks, and professional voiceover requiring gravitas and clarity.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/5d6438deeb7d443ca0a6fc6309d5bb8a/voices/kqVT88a5QfII1HNAEPTJ/Hex3MZnpQ3dCbdgTkKyr.mp3"
+   "description": "Down-to-earth, warm baritone with a natural, conversational read that sounds like a real person, not an announcer. Made for social media and creator content: social media, Reels, faceless channels, fun facts and top-ten lists, explainers and tutorials, recipes, product reviews, storytime and podcasts.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/77c87c6612e1409888fc6cfe07c0b8b9/voices/XA3P1cj7XJexe6Zq0ATX/Id3YsPkeMdW6m7dCTVxp.mp3"
   },
   {
-   "voice_id": "vRVc2UEclSTO2Z2n6vY5",
-   "name": "Suhail Jouaneh",
+   "voice_id": "XTdzBt8oIEvodkwhxeA0",
+   "name": "Bateman - Deep and Seductive",
    "category": "professional",
    "labels": {
-    "accent": "levantine",
     "use_case": "narrative_story",
-    "language": "ar",
-    "gender": "male",
-    "descriptive": "professional",
-    "age": "old"
+    "age": "young",
+    "accent": "american",
+    "descriptive": "calm",
+    "language": "en",
+    "gender": "male"
    },
-   "description": "A deep, rich, and resonant mature male voice with a refined Levantine Arabic accent. Warm, confident, and authoritative, with a professional, composed delivery. Speaks Modern Standard Arabic (Fusha) with clear articulation, natural pacing, and subtle Levantine warmth. Ideal for documentaries, educational narration, corporate presentations, and sophisticated storytelling.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/24ec3294814741879b1711d49fe08a37/voices/vRVc2UEclSTO2Z2n6vY5/9e9a3ceb-a501-4406-9b93-229e6411bef7.mp3"
+   "description": "Best voice over for your books and content (shorts, youtube, tiktok, Instagram). He has a chilling, narcissistic and pleasant tone.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/fc6e8b9c1f4d49ad9c3bc398c04c9b03/voices/XTdzBt8oIEvodkwhxeA0/h7QiU8fPoQDkdnZ0zsau.mp3"
   },
   {
-   "voice_id": "S7CPkcJPABvw8oef8idX",
-   "name": "Tareq Mohammed",
+   "voice_id": "6cFz1T5FQxQS8Xk88qQi",
+   "name": "Ahmed - Deep Arabic Documentary & Audiob",
    "category": "professional",
    "labels": {
+    "descriptive": "calm",
+    "age": "middle_aged",
     "accent": "modern standard",
     "use_case": "narrative_story",
     "language": "ar",
-    "gender": "male",
-    "descriptive": "chill",
-    "age": "middle_aged"
+    "gender": "male"
    },
-   "description": "A natural, mature male Arabic voice speaking clear, accessible Modern Standard Arabic (MSA). Warm, authentic, and composed, with balanced pacing, clear articulation, and expressive yet natural intonation. Ideal for documentaries, education, storytelling, scientific explanations, and audiobooks. Its neutral, engaging, versatile delivery adapts to different topics and emotions without exaggerated drama or artificial expression.",
-   "preview_url": "https://api.us.elevenlabs.io/v1/voices/S7CPkcJPABvw8oef8idX/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiI0MWMxZmFmOWJhYmI0ZTU0YjZiODA0NDQ2MjdkODhmZCIsImZpbGVuYW1lIjoiRnZvbWZEYndBT25GeUhqQTlqOGMubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
+   "description": "A deep, warm, and authoritative male voice in crystal-clear Modern Standard Arabic (Fusha). Studio-treated for cinematic documentaries, psychological book summaries, long-form audiobooks, and executive institutional narration. Calm pacing with natural dramatic gravitas.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/bce8bba78e3148199d6fa567e9b1933e/voices/6cFz1T5FQxQS8Xk88qQi/b0a8e597-4100-4ce5-a7da-f4dc1fdb8d43.mp3"
   },
   {
-   "voice_id": "j5yKf07d4XvSvuWfxQwD",
-   "name": "Saleh - Saudi Arabic",
+   "voice_id": "iw6tHUyMo0UfbjntW0h3",
+   "name": "Adam - Saudi Companion",
    "category": "professional",
    "labels": {
+    "descriptive": "casual",
+    "age": "middle_aged",
     "accent": "saudi",
-    "use_case": "informative_educational",
+    "use_case": "advertisement",
     "language": "ar",
-    "descriptive": "formal",
-    "gender": "male",
-    "age": "middle_aged"
+    "gender": "male"
    },
-   "description": "A native Arabic voice with a Saudi accent and a lower pitch, suited to storytelling, podcasts, educational narration, and everyday dialogue.",
-   "preview_url": "https://api.us.elevenlabs.io/v1/voices/j5yKf07d4XvSvuWfxQwD/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiJjMWMyZmM4YmNmYjY0ZTljYmU2YmJjZjAyMGFjOGZiYyIsImZpbGVuYW1lIjoiNWFjOTE1MDMtYTU0NS00MmY0LThhMDItNjQxMzE5MjkzYzVjLm1wMyIsInRpbWVzdGFtcCI6MTc5NDk4MTYwMDAwMDAwMH0%3D"
+   "description": "Authentic Saudi Arabic male voice with a natural, conversational tone and a clear local accent. Great for videos, social media content, storytelling, ads, podcasts, and voiceovers. Friendly, expressive, and engaging, with a versatile delivery that feels natural rather than robotic. Ideal for creators looking for a relatable Saudi voice",
+   "preview_url": "https://api.us.elevenlabs.io/v1/voices/iw6tHUyMo0UfbjntW0h3/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiJkZjc1Y2E3YjdlNWU0MGY3ODkyZGQyMGVkNzM0YmJlZCIsImZpbGVuYW1lIjoidDlPZDlXTVZobG5FdGZCUjFKbjcubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
+  },
+  {
+   "voice_id": "UZbXudn9g5q7bjznYXcC",
+   "name": "Ahmed - Natural and Clear",
+   "category": "professional",
+   "labels": {
+    "use_case": "narrative_story",
+    "age": "young",
+    "accent": "gulf",
+    "descriptive": "deep",
+    "language": "ar",
+    "gender": "male"
+   },
+   "description": "Natural male voice with a clear Gulf accent. Calm, grounded delivery with a slight melancholic tone. Works well for storytelling, ambient narration, and reflective monologues.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/412d5a5090c84555826808dbf61fcc95/voices/UZbXudn9g5q7bjznYXcC/AwrAGXnc17QfGdxFo8YT.mp3"
   },
   {
    "voice_id": "KXptrwcsEqqFSwRKJukF",
    "name": "Meisam - Deep, Strong and Engaging",
    "category": "professional",
    "labels": {
-    "accent": "modern standard",
     "use_case": "narrative_story",
-    "language": "ar",
-    "gender": "male",
+    "age": "young",
+    "accent": "modern standard",
     "descriptive": "professional",
-    "age": "young"
+    "language": "ar",
+    "gender": "male"
    },
    "description": "Strong Emotional Cinematic Tone.",
    "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/0d0114f7bd0346ad8200d951340aa58b/voices/KXptrwcsEqqFSwRKJukF/lJmmSoNix3eXSEKAdnoI.mp3"
   },
   {
-   "voice_id": "kU20U5bOr9ND3yqlsdwV",
-   "name": "Majdi - life style voice",
+   "voice_id": "j5yKf07d4XvSvuWfxQwD",
+   "name": "Saleh - Saudi Arabic",
    "category": "professional",
    "labels": {
-    "accent": "jordanian",
-    "use_case": "characters_animation",
+    "descriptive": "formal",
+    "age": "middle_aged",
+    "accent": "saudi",
+    "use_case": "informative_educational",
     "language": "ar",
-    "gender": "male",
-    "descriptive": "casual",
-    "age": "young"
+    "gender": "male"
    },
-   "description": "A great voice for natural Arabic.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/0f56d8417f704908b9279330f8abe188/voices/kU20U5bOr9ND3yqlsdwV/eKlV7o73pSYMrp8fvtld.mp3"
+   "description": "A native Arabic voice with a Saudi accent and a lower pitch, suited to storytelling, podcasts, educational narration, and everyday dialogue.",
+   "preview_url": "https://api.us.elevenlabs.io/v1/voices/j5yKf07d4XvSvuWfxQwD/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiJjMWMyZmM4YmNmYjY0ZTljYmU2YmJjZjAyMGFjOGZiYyIsImZpbGVuYW1lIjoiNWFjOTE1MDMtYTU0NS00MmY0LThhMDItNjQxMzE5MjkzYzVjLm1wMyIsInRpbWVzdGFtcCI6MTc5NDk4MTYwMDAwMDAwMH0%3D"
   },
   {
-   "voice_id": "Nggzl2QAXh3OijoXD116",
-   "name": "Candy - Girly and Sweet",
+   "voice_id": "vRVc2UEclSTO2Z2n6vY5",
+   "name": "Suhail Jouaneh",
    "category": "professional",
    "labels": {
-    "accent": "american",
-    "use_case": "characters_animation",
-    "language": "en",
-    "gender": "female",
-    "descriptive": "cute",
-    "age": "young"
+    "use_case": "narrative_story",
+    "age": "old",
+    "accent": "levantine",
+    "descriptive": "professional",
+    "language": "ar",
+    "gender": "male"
    },
-   "description": "Youthful, cute, sassy, energetic, bubbly, expressive, high pitched, excited, happy, sparkly, giggly, whimsical, bright, cheerful, playful, cartoony, fun, lighthearted, kawaii, magical voice. It is perfect for animation, mascots, little animals, girly vibes, characters, and upbeat storytelling.",
-   "preview_url": "https://api.us.elevenlabs.io/v1/voices/Nggzl2QAXh3OijoXD116/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiI0YjhlNjQ0NWVmMzE0OTIwOWMwZGQ1MDgwYzdkNGE1NSIsImZpbGVuYW1lIjoiQ3NEajFYZGJOMDd3R1A3RVo3REQubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
+   "description": "A deep, rich, and resonant mature male voice with a refined Levantine Arabic accent. Warm, confident, and authoritative, with a professional, composed delivery. Speaks Modern Standard Arabic (Fusha) with clear articulation, natural pacing, and subtle Levantine warmth. Ideal for documentaries, educational narration, corporate presentations, and sophisticated storytelling.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/24ec3294814741879b1711d49fe08a37/voices/vRVc2UEclSTO2Z2n6vY5/9e9a3ceb-a501-4406-9b93-229e6411bef7.mp3"
   },
   {
    "voice_id": "XjGYkUkzth8BPs29fmcV",
    "name": "Teddy Twinkle - Cute Cartoon Boy",
    "category": "professional",
    "labels": {
+    "descriptive": "cute",
+    "age": "young",
     "accent": "american",
     "use_case": "characters_animation",
     "language": "en",
-    "gender": "male",
-    "descriptive": "cute",
-    "age": "young"
+    "gender": "male"
    },
    "description": "A sweet, playful, and adorable little cartoon boy inspired by popular kids' characters. He is kind, cheerful, and lovable. Ideal for children's animations, kids' audiobooks, storybook apps, educational content, and social media.",
    "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/5ffce2e982a34fc6bbcffb2ab8c84b98/voices/XjGYkUkzth8BPs29fmcV/FszPLYKsSOGlPcyE5hMf.mp3"
@@ -558,121 +528,150 @@
    "name": "Todd - Clear, Engaging and Educational",
    "category": "professional",
    "labels": {
-    "accent": "american",
     "use_case": "informative_educational",
-    "language": "en",
-    "gender": "male",
+    "age": "young",
+    "accent": "american",
     "descriptive": "upbeat",
-    "age": "young"
+    "language": "en",
+    "gender": "male"
    },
    "description": "A clear, engaging voice perfect for YouTube tutorials, explainer videos, and educational content. Professional yet approachable, with natural pacing and articulate delivery that keeps viewers focused and informed. Ideal for tech tutorials, how-to guides, eLearning courses, and documentary narration.",
    "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/4c276422f63944548ae062831f9873a6/voices/g14YnDYCsy3k7XLlcKlO/8PoqmGvhrKkyBTo11v1X.mp3"
-  },
-  {
-   "voice_id": "VCgLBmBjldJmfphyB8sZ",
-   "name": "Liam - Viral Short-Form Storyteller",
-   "category": "professional",
-   "labels": {
-    "accent": "american",
-    "use_case": "social_media",
-    "language": "en",
-    "descriptive": "hyped",
-    "gender": "male",
-    "age": "young"
-   },
-   "description": "Liam’s voice is a master in social media content creation—perfect for Youtube, Tiktok, Snapchat, etc. With a perfectly balanced tone with both authoritative insight and playful enthusiasm, Liam is ideal for capturing the fast pace of social media. With a refined delivery that emphasizes every catchy phrase and clever quip, this voice is built to drive online engagement. It’s the ultimate sound for transforming ideas into viral phenomena, leaving a lasting impression on every viewer.",
-   "preview_url": "https://api.us.elevenlabs.io/v1/voices/VCgLBmBjldJmfphyB8sZ/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiIyMGQyY2YwM2Y2MzM0MjIyODVlYWE4MjlhZTcwMTIyMCIsImZpbGVuYW1lIjoiTUdOek1CSFpJM0JJREFFOGN6MzgubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
-  },
-  {
-   "voice_id": "A9ATTqUUQ6GHu0coCz8t",
-   "name": "Hamid",
-   "category": "professional",
-   "labels": {
-    "accent": "moroccan",
-    "use_case": "entertainment_tv",
-    "language": "ar",
-    "gender": "male",
-    "descriptive": "pleasant",
-    "age": "young"
-   },
-   "description": "Young voice male with a pleasant tone. Perfect for news.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/custom/voices/A9ATTqUUQ6GHu0coCz8t/52WpzlQwppmSVSQXa65L.mp3"
-  },
-  {
-   "voice_id": "lBgZD85rJJVmqahd7yzK",
-   "name": "RAED ALOTAIBI - Saudi Arabic White Dialect Voice",
-   "category": "professional",
-   "labels": {
-    "accent": "saudi",
-    "use_case": "narrative_story",
-    "language": "ar",
-    "descriptive": "cute",
-    "gender": "male",
-    "age": "middle_aged"
-   },
-   "description": "Authentic Saudi Arabian male voice with a natural Najdi accent from Riyadh. Clear, warm, confident, and conversational delivery with expressive intonation and natural Saudi pronunciation. Ideal for commercial advertisements, storytelling, podcasts, social media content, educational narration, documentaries, and AI voice assistants. Delivers a genuine local Saudi speaking style with a friendly, engaging, and professional tone.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/24301e6c91734e478a7acb56711529e7/voices/lBgZD85rJJVmqahd7yzK/0usXlyHyFPbIL91d2XDX.mp3"
-  },
-  {
-   "voice_id": "OfGMGmhShO8iL9jCkXy8",
-   "name": "Ghizlane - Warm, Natural and Encouraging",
-   "category": "professional",
-   "labels": {
-    "accent": "moroccan",
-    "use_case": "advertisement",
-    "language": "ar",
-    "gender": "female",
-    "descriptive": "excited",
-    "age": "middle_aged"
-   },
-   "description": "A natural, dynamic, and expressive voice in Darija (Moroccan Arabic), optimized for commercial use. Ideal for advertising, brand promotions, and professional narrations, with a warm, convincing, and engaging tone. ",
-   "preview_url": "https://api.us.elevenlabs.io/v1/voices/OfGMGmhShO8iL9jCkXy8/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiI5ZDUzMGIwOWI2NmY0MjkwODI1ZjZhODc1YmY5NDU4OCIsImZpbGVuYW1lIjoiOHJtaU9vZnRINkFiS3Y1eVRoVWQubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
-  },
-  {
-   "voice_id": "hiDWCdbsrOy64l833ab2",
-   "name": "Tariq - Commanding and Resolute",
-   "category": "professional",
-   "labels": {
-    "accent": "moroccan",
-    "use_case": "advertisement",
-    "language": "ar",
-    "descriptive": "professional",
-    "gender": "male",
-    "age": "middle_aged"
-   },
-   "description": "A strong, authoritative middle-aged Moroccan male voice. He carries a deep, resonant tone with natural gravitas and unhurried confidence, perfect for leadership messaging, documentaries, or any content that demands immediate respect and attention.",
-   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/1da06ea679a54975ad96a2221fe6530d/voices/hiDWCdbsrOy64l833ab2/GFLlwmdAPhamzElZuuMg.mp3"
   },
   {
    "voice_id": "5HAezIQAaoSgJypcI0NP",
    "name": "Mansour - Saudi, Natural and Expressive",
    "category": "professional",
    "labels": {
+    "descriptive": "professional",
+    "age": "middle_aged",
     "accent": "saudi",
     "use_case": "advertisement",
     "language": "ar",
-    "gender": "male",
-    "descriptive": "professional",
-    "age": "middle_aged"
+    "gender": "male"
    },
    "description": "A clear, natural, and expressive Saudi male voice for compelling commercials, engaging stories, and easy-to-follow explainers. Authentic Saudi Arabic and clear Modern Standard Arabic, shaped by 14 years of professional voice acting. Try a line from your next project. ",
    "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/78c4391ec1ca4cdc9db0ff8f42450405/voices/5HAezIQAaoSgJypcI0NP/ENvoTRGbq9m2sRtD0wzk.mp3"
   },
   {
-   "voice_id": "iw6tHUyMo0UfbjntW0h3",
-   "name": "Adam - Saudi Companion",
+   "voice_id": "VCgLBmBjldJmfphyB8sZ",
+   "name": "Liam - Viral Short-Form Storyteller",
    "category": "professional",
    "labels": {
-    "language": "ar",
-    "age": "middle_aged",
-    "descriptive": "casual",
-    "use_case": "advertisement",
-    "accent": "saudi",
-    "gender": "male",
-    "locale": "ar-SA"
+    "use_case": "social_media",
+    "age": "young",
+    "accent": "american",
+    "descriptive": "hyped",
+    "language": "en",
+    "gender": "male"
    },
-   "description": "Authentic Saudi Arabic male voice with a natural, conversational tone and a clear local accent. Great for videos, social media content, storytelling, ads, podcasts, and voiceovers. Friendly, expressive, and engaging, with a versatile delivery that feels natural rather than robotic. Ideal for creators looking for a relatable Saudi voice",
-   "preview_url": "https://api.us.elevenlabs.io/v1/voices/iw6tHUyMo0UfbjntW0h3/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiJkZjc1Y2E3YjdlNWU0MGY3ODkyZGQyMGVkNzM0YmJlZCIsImZpbGVuYW1lIjoidDlPZDlXTVZobG5FdGZCUjFKbjcubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
+   "description": "Liam’s voice is a master in social media content creation—perfect for Youtube, Tiktok, Snapchat, etc. With a perfectly balanced tone with both authoritative insight and playful enthusiasm, Liam is ideal for capturing the fast pace of social media. With a refined delivery that emphasizes every catchy phrase and clever quip, this voice is built to drive online engagement. It’s the ultimate sound for transforming ideas into viral phenomena, leaving a lasting impression on every viewer.",
+   "preview_url": "https://api.us.elevenlabs.io/v1/voices/VCgLBmBjldJmfphyB8sZ/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiIyMGQyY2YwM2Y2MzM0MjIyODVlYWE4MjlhZTcwMTIyMCIsImZpbGVuYW1lIjoiTUdOek1CSFpJM0JJREFFOGN6MzgubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
+  },
+  {
+   "voice_id": "kqVT88a5QfII1HNAEPTJ",
+   "name": "Declan Sage - Wise, Deliberate, Captivating",
+   "category": "professional",
+   "labels": {
+    "descriptive": "deep",
+    "age": "middle_aged",
+    "accent": "american",
+    "use_case": "narrative_story",
+    "language": "en",
+    "gender": "male"
+   },
+   "description": "A deep, resonant male voice with a standard American accent and a slight husky and raspy quality but still pleasant. It has a controlled, measured, and direct delivery, perfect for authoritative narrations, compelling audiobooks, and professional voiceover requiring gravitas and clarity.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/5d6438deeb7d443ca0a6fc6309d5bb8a/voices/kqVT88a5QfII1HNAEPTJ/Hex3MZnpQ3dCbdgTkKyr.mp3"
+  },
+  {
+   "voice_id": "Nggzl2QAXh3OijoXD116",
+   "name": "Candy - Girly and Sweet",
+   "category": "professional",
+   "labels": {
+    "use_case": "characters_animation",
+    "age": "young",
+    "accent": "american",
+    "descriptive": "cute",
+    "language": "en",
+    "gender": "female"
+   },
+   "description": "Youthful, cute, sassy, energetic, bubbly, expressive, high pitched, excited, happy, sparkly, giggly, whimsical, bright, cheerful, playful, cartoony, fun, lighthearted, kawaii, magical voice. It is perfect for animation, mascots, little animals, girly vibes, characters, and upbeat storytelling.",
+   "preview_url": "https://api.us.elevenlabs.io/v1/voices/Nggzl2QAXh3OijoXD116/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiI0YjhlNjQ0NWVmMzE0OTIwOWMwZGQ1MDgwYzdkNGE1NSIsImZpbGVuYW1lIjoiQ3NEajFYZGJOMDd3R1A3RVo3REQubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
+  },
+  {
+   "voice_id": "hiDWCdbsrOy64l833ab2",
+   "name": "Tariq - Commanding and Resolute",
+   "category": "professional",
+   "labels": {
+    "descriptive": "professional",
+    "age": "middle_aged",
+    "accent": "moroccan",
+    "use_case": "advertisement",
+    "language": "ar",
+    "gender": "male"
+   },
+   "description": "A strong, authoritative middle-aged Moroccan male voice. He carries a deep, resonant tone with natural gravitas and unhurried confidence, perfect for leadership messaging, documentaries, or any content that demands immediate respect and attention.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/1da06ea679a54975ad96a2221fe6530d/voices/hiDWCdbsrOy64l833ab2/GFLlwmdAPhamzElZuuMg.mp3"
+  },
+  {
+   "voice_id": "lBgZD85rJJVmqahd7yzK",
+   "name": "RAED ALOTAIBI - Saudi Arabic White Dialect Voice",
+   "category": "professional",
+   "labels": {
+    "descriptive": "cute",
+    "age": "middle_aged",
+    "accent": "saudi",
+    "use_case": "narrative_story",
+    "language": "ar",
+    "gender": "male"
+   },
+   "description": "Authentic Saudi Arabian male voice with a natural Najdi accent from Riyadh. Clear, warm, confident, and conversational delivery with expressive intonation and natural Saudi pronunciation. Ideal for commercial advertisements, storytelling, podcasts, social media content, educational narration, documentaries, and AI voice assistants. Delivers a genuine local Saudi speaking style with a friendly, engaging, and professional tone.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/24301e6c91734e478a7acb56711529e7/voices/lBgZD85rJJVmqahd7yzK/0usXlyHyFPbIL91d2XDX.mp3"
+  },
+  {
+   "voice_id": "S7CPkcJPABvw8oef8idX",
+   "name": "Tareq Mohammed",
+   "category": "professional",
+   "labels": {
+    "descriptive": "chill",
+    "age": "middle_aged",
+    "accent": "modern standard",
+    "use_case": "narrative_story",
+    "language": "ar",
+    "gender": "male"
+   },
+   "description": "A natural, mature male Arabic voice speaking clear, accessible Modern Standard Arabic (MSA). Warm, authentic, and composed, with balanced pacing, clear articulation, and expressive yet natural intonation. Ideal for documentaries, education, storytelling, scientific explanations, and audiobooks. Its neutral, engaging, versatile delivery adapts to different topics and emotions without exaggerated drama or artificial expression.",
+   "preview_url": "https://api.us.elevenlabs.io/v1/voices/S7CPkcJPABvw8oef8idX/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiI0MWMxZmFmOWJhYmI0ZTU0YjZiODA0NDQ2MjdkODhmZCIsImZpbGVuYW1lIjoiRnZvbWZEYndBT25GeUhqQTlqOGMubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
+  },
+  {
+   "voice_id": "A9ATTqUUQ6GHu0coCz8t",
+   "name": "Hamid",
+   "category": "professional",
+   "labels": {
+    "descriptive": "pleasant",
+    "age": "young",
+    "accent": "moroccan",
+    "use_case": "entertainment_tv",
+    "language": "ar",
+    "gender": "male"
+   },
+   "description": "Young voice male with a pleasant tone. Perfect for news.",
+   "preview_url": "https://storage.googleapis.com/eleven-public-prod/custom/voices/A9ATTqUUQ6GHu0coCz8t/52WpzlQwppmSVSQXa65L.mp3"
+  },
+  {
+   "voice_id": "OfGMGmhShO8iL9jCkXy8",
+   "name": "Ghizlane - Warm, Natural and Encouraging",
+   "category": "professional",
+   "labels": {
+    "use_case": "advertisement",
+    "age": "middle_aged",
+    "accent": "moroccan",
+    "descriptive": "excited",
+    "language": "ar",
+    "gender": "female"
+   },
+   "description": "A natural, dynamic, and expressive voice in Darija (Moroccan Arabic), optimized for commercial use. Ideal for advertising, brand promotions, and professional narrations, with a warm, convincing, and engaging tone. ",
+   "preview_url": "https://api.us.elevenlabs.io/v1/voices/OfGMGmhShO8iL9jCkXy8/previews/audio?payload=eyJ2b2ljZV9zb3VyY2UiOiJjdXN0b20iLCJ3b3Jrc3BhY2VfaWQiOiI5ZDUzMGIwOWI2NmY0MjkwODI1ZjZhODc1YmY5NDU4OCIsImZpbGVuYW1lIjoiOHJtaU9vZnRINkFiS3Y1eVRoVWQubXAzIiwidGltZXN0YW1wIjoxNzk0OTgxNjAwMDAwMDAwfQ%3D%3D"
   }
  ],
  "shared": [
@@ -2424,5 +2423,352 @@
   }
  ],
  "notes": [],
+ "targeted": [
+  {
+   "q": "{\"accent\": \"palestinian\"}",
+   "voice_id": "drMurExmkWVIH5nW8snR",
+   "public_owner_id": "937339be96d573aadb75f1cc37f1fe851f7392043ea61779a67e6a38527356b8",
+   "name": "Khaled Alnajjar - Strong and Expressive",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "social_media",
+   "description": "A heavy, melodious Arabic voice that symbolizes strength and chivalry. It is eloquent and expresses feelings and emotions, making you feel as if you are seeing the voice.\n",
+   "usage_character_count_1y": 169948594,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"palestinian\"}",
+   "voice_id": "8sSDN08XkFeN2zqNwCZk",
+   "public_owner_id": "ff805328f91ec2e7e7fe4b712f36d65d0948ba17ea4734223a6398dcefd4c5ca",
+   "name": "Odai - Expressive and Professional",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "narrative_story",
+   "description": "A professional Arabic voice with expressive tones, designed for captivating Arabic poetry recitation.\n",
+   "usage_character_count_1y": 9403923,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"palestinian\"}",
+   "voice_id": "7mLtkQsi2wugYsAucgv1",
+   "public_owner_id": "29ce471abf184c52a10b9b1514c4959ad0ca6ab62be103a1acd5bcaaa13e4304",
+   "name": "Booker - Informative",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "informative_educational",
+   "description": "Authoritative, warm Levantine Arabic male voice of a seasoned financial broadcaster. Clear diction and a confident, measured pace make it ideal for economic news, market analysis, finance courses, documentaries and educational content.",
+   "usage_character_count_1y": 2249591,
+   "free_users_allowed": false
+  },
+  {
+   "q": "{\"accent\": \"palestinian\"}",
+   "voice_id": "NeokBGcPJaElDOj380Qt",
+   "public_owner_id": "d045d95f6835c2e11cce6e665bcc8efa22e24e2ddad089dc15f12ae55a45351b",
+   "name": "Bader Eshtaya - Palestine Arabic",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "conversational",
+   "description": " Palestine Arabic male voice.",
+   "usage_character_count_1y": 1719449,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"palestinian\"}",
+   "voice_id": "f9dOKyDue8H7Ik3UXjB7",
+   "public_owner_id": "96d2a5d3d21ef288928468aadc3f5ad52fb45a20a0144909828d444ae5c55669",
+   "name": "Amin - Professional & Calm",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "narrative_story",
+   "description": "A great voice for voiceovers, presentations, and TTS applications.",
+   "usage_character_count_1y": 276918,
+   "free_users_allowed": false
+  },
+  {
+   "q": "{\"accent\": \"palestinian\", \"language\": \"ar\"}",
+   "voice_id": "drMurExmkWVIH5nW8snR",
+   "public_owner_id": "937339be96d573aadb75f1cc37f1fe851f7392043ea61779a67e6a38527356b8",
+   "name": "Khaled Alnajjar - Strong and Expressive",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "social_media",
+   "description": "A heavy, melodious Arabic voice that symbolizes strength and chivalry. It is eloquent and expresses feelings and emotions, making you feel as if you are seeing the voice.\n",
+   "usage_character_count_1y": 169948594,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"palestinian\", \"language\": \"ar\"}",
+   "voice_id": "8sSDN08XkFeN2zqNwCZk",
+   "public_owner_id": "ff805328f91ec2e7e7fe4b712f36d65d0948ba17ea4734223a6398dcefd4c5ca",
+   "name": "Odai - Expressive and Professional",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "narrative_story",
+   "description": "A professional Arabic voice with expressive tones, designed for captivating Arabic poetry recitation.\n",
+   "usage_character_count_1y": 9403923,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"palestinian\", \"language\": \"ar\"}",
+   "voice_id": "7mLtkQsi2wugYsAucgv1",
+   "public_owner_id": "29ce471abf184c52a10b9b1514c4959ad0ca6ab62be103a1acd5bcaaa13e4304",
+   "name": "Booker - Informative",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "informative_educational",
+   "description": "Authoritative, warm Levantine Arabic male voice of a seasoned financial broadcaster. Clear diction and a confident, measured pace make it ideal for economic news, market analysis, finance courses, documentaries and educational content.",
+   "usage_character_count_1y": 2249591,
+   "free_users_allowed": false
+  },
+  {
+   "q": "{\"accent\": \"palestinian\", \"language\": \"ar\"}",
+   "voice_id": "NeokBGcPJaElDOj380Qt",
+   "public_owner_id": "d045d95f6835c2e11cce6e665bcc8efa22e24e2ddad089dc15f12ae55a45351b",
+   "name": "Bader Eshtaya - Palestine Arabic",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "conversational",
+   "description": " Palestine Arabic male voice.",
+   "usage_character_count_1y": 1719449,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"palestinian\", \"language\": \"ar\"}",
+   "voice_id": "f9dOKyDue8H7Ik3UXjB7",
+   "public_owner_id": "96d2a5d3d21ef288928468aadc3f5ad52fb45a20a0144909828d444ae5c55669",
+   "name": "Amin - Professional & Calm",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "narrative_story",
+   "description": "A great voice for voiceovers, presentations, and TTS applications.",
+   "usage_character_count_1y": 276918,
+   "free_users_allowed": false
+  },
+  {
+   "q": "{\"search\": \"palestinian\"}",
+   "voice_id": "drMurExmkWVIH5nW8snR",
+   "public_owner_id": "937339be96d573aadb75f1cc37f1fe851f7392043ea61779a67e6a38527356b8",
+   "name": "Khaled Alnajjar - Strong and Expressive",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "social_media",
+   "description": "A heavy, melodious Arabic voice that symbolizes strength and chivalry. It is eloquent and expresses feelings and emotions, making you feel as if you are seeing the voice.\n",
+   "usage_character_count_1y": 169948594,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"search\": \"palestinian\"}",
+   "voice_id": "8sSDN08XkFeN2zqNwCZk",
+   "public_owner_id": "ff805328f91ec2e7e7fe4b712f36d65d0948ba17ea4734223a6398dcefd4c5ca",
+   "name": "Odai - Expressive and Professional",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "narrative_story",
+   "description": "A professional Arabic voice with expressive tones, designed for captivating Arabic poetry recitation.\n",
+   "usage_character_count_1y": 9403923,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"search\": \"palestinian\"}",
+   "voice_id": "7mLtkQsi2wugYsAucgv1",
+   "public_owner_id": "29ce471abf184c52a10b9b1514c4959ad0ca6ab62be103a1acd5bcaaa13e4304",
+   "name": "Booker - Informative",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "informative_educational",
+   "description": "Authoritative, warm Levantine Arabic male voice of a seasoned financial broadcaster. Clear diction and a confident, measured pace make it ideal for economic news, market analysis, finance courses, documentaries and educational content.",
+   "usage_character_count_1y": 2249591,
+   "free_users_allowed": false
+  },
+  {
+   "q": "{\"search\": \"palestinian\"}",
+   "voice_id": "NeokBGcPJaElDOj380Qt",
+   "public_owner_id": "d045d95f6835c2e11cce6e665bcc8efa22e24e2ddad089dc15f12ae55a45351b",
+   "name": "Bader Eshtaya - Palestine Arabic",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "conversational",
+   "description": " Palestine Arabic male voice.",
+   "usage_character_count_1y": 1719449,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"search\": \"palestinian\"}",
+   "voice_id": "f9dOKyDue8H7Ik3UXjB7",
+   "public_owner_id": "96d2a5d3d21ef288928468aadc3f5ad52fb45a20a0144909828d444ae5c55669",
+   "name": "Amin - Professional & Calm",
+   "gender": "male",
+   "age": "middle_aged",
+   "accent": "palestinian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "narrative_story",
+   "description": "A great voice for voiceovers, presentations, and TTS applications.",
+   "usage_character_count_1y": 276918,
+   "free_users_allowed": false
+  },
+  {
+   "q": "{\"search\": \"palestine female\"}",
+   "voice_id": "tUXHogBOJVTxEBz7fSle",
+   "public_owner_id": "7398804d9eaf2f463899a907587c33a390591775784f87857b6d0e1e4e3e66f6",
+   "name": "Laloosh - Warm Finance Customer Care",
+   "gender": "female",
+   "age": "young",
+   "accent": "levantine",
+   "locale": "ar-LB",
+   "language": "ar",
+   "use_case": "conversational",
+   "description": "Laloosh brings a warm, human-like Arabic voice with a natural Levantine accent — the dialect spoken across Lebanon, Jordan, Syria, and Palestine, and widely understood across the Arab world. Her composed, trustworthy delivery makes banking interactions feel genuinely personal rather than automated. Perfect for Arabic banking helplines, MENA fintech support bots, Islamic banking customer care, KYC verification flows, and account query automation across UAE, Saudi Arabia, Qatar, Kuwait, & Jordan.",
+   "usage_character_count_1y": 13977192,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"levantine\", \"gender\": \"female\", \"language\": \"ar\", \"age\": \"middle_aged\"}",
+   "voice_id": "2zZ1oe9n1ydzKsKbR0A5",
+   "public_owner_id": "e8f924d20dc83eef451b9a9a31c0db1b3b14a52940b1411124e2324fab42270c",
+   "name": "Jasmine - Lebanese",
+   "gender": "female",
+   "age": "middle_aged",
+   "accent": "levantine",
+   "locale": "ar-LB",
+   "language": "ar",
+   "use_case": "social_media",
+   "description": "Female Lebanese Arabic voice, warm and polished, with a medium-high pitch, clear diction, expressive melodic intonation, and confident TV-presenter energy. Friendly, articulate, and engaging, with a lively but controlled pace, bright tone, and soft authority. Conversational yet professional, natural on-air delivery.",
+   "usage_character_count_1y": 1905189,
+   "free_users_allowed": false
+  },
+  {
+   "q": "{\"accent\": \"levantine\", \"gender\": \"female\", \"language\": \"ar\", \"age\": \"middle_aged\"}",
+   "voice_id": "ZpEtuMdTIlJXYXAhevhG",
+   "public_owner_id": "b11ba57b5815bf861c2cb764605fd53a9544948008706505e87a2765ac4b5717",
+   "name": "Mía García - Business Asesor",
+   "gender": "female",
+   "age": "middle_aged",
+   "accent": "latin american",
+   "locale": "es-AR",
+   "language": "es",
+   "use_case": "informative_educational",
+   "description": "Mia García is a Latin American Neutral Spanish voiceover who is passionate , natural, engaging and eloquent. Wonderful for business, narrations and informative.",
+   "usage_character_count_1y": 180771062,
+   "free_users_allowed": false
+  },
+  {
+   "q": "{\"accent\": \"jordanian\", \"gender\": \"female\"}",
+   "voice_id": "jAAHNNqlbAX9iWjJPEtE",
+   "public_owner_id": "1660580588b63dbec39e4ca21a160cef605969e84448cbc688655770170e64da",
+   "name": "Sara - Soft, Calm and Gentle",
+   "gender": "female",
+   "age": "young",
+   "accent": "jordanian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "social_media",
+   "description": "This voice clone is based on a natural female voice with a calm, expressive, and intelligent tone. It reflects a neutral Middle Eastern accent with clear articulation and a warm delivery, making it ideal for AI assistants, educational content, and professional narrations. Perfect for use in Arabic and bilingual (Arabic-English- French - Turkish) applications where clarity and trustworthiness are essential.",
+   "usage_character_count_1y": 222120229,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"jordanian\", \"gender\": \"female\"}",
+   "voice_id": "4wf10lgibMnboGJGCLrP",
+   "public_owner_id": "f684ad6eda828d3a96f4a8d31b1caa8249cbaa2883a518ccbbf4788ae0429e32",
+   "name": "Farah - Smooth, Calm and Warm",
+   "gender": "female",
+   "age": "young",
+   "accent": "jordanian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "advertisement",
+   "description": "A premium Arabic female voice with a warm, clear, and expressive tone, ideal for ads, narration, storytelling, audiobooks, YouTube content, podcasts, educational videos, and AI avatars.\n\n Features a natural Levantine accent (Jordanian/Ammani) blended with modern Arabic fluency and subtle English code-switching — perfect for today’s digital audience.\n\nTested in production environments, including AI content, media, and voice assistant applications.",
+   "usage_character_count_1y": 169461369,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"jordanian\", \"gender\": \"female\"}",
+   "voice_id": "g3YpdjT1OTh9cunaumJs",
+   "public_owner_id": "722f743536e817452d6a03ba1828d77dbce13b57783c65f4bf053ca6f7774d7c",
+   "name": "Layla - Modern Arabic ",
+   "gender": "female",
+   "age": "middle_aged",
+   "accent": "jordanian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "narrative_story",
+   "description": "A soft, calm Arabic female voice, perfect for narration, commercials, podcasts, and storytelling. Warm, charismatic, and effortlessly professional —  صوت عربي",
+   "usage_character_count_1y": 38514730,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"jordanian\", \"gender\": \"female\"}",
+   "voice_id": "6ZvbKYJmZfL6zVBzLwpV",
+   "public_owner_id": "5b59d16d2bda902c4b5b52ce2d07f3112aec8c162cd719e9e227e8fea8e23350",
+   "name": "Lina",
+   "gender": "female",
+   "age": "young",
+   "accent": "jordanian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "conversational",
+   "description": "Young conversational female voice",
+   "usage_character_count_1y": 9543045,
+   "free_users_allowed": true
+  },
+  {
+   "q": "{\"accent\": \"jordanian\", \"gender\": \"female\"}",
+   "voice_id": "qqoGsCP3aVgNBb1rmA33",
+   "public_owner_id": "45777c0b1fc5d754578f34f3dfcfbbca1f313499fccf4298d9f355392021cdaf",
+   "name": "Bebe - Pleasant",
+   "gender": "female",
+   "age": "middle_aged",
+   "accent": "jordanian",
+   "locale": null,
+   "language": "ar",
+   "use_case": "narrative_story",
+   "description": "A great voice for Jordanian Voice over.",
+   "usage_character_count_1y": 530750,
+   "free_users_allowed": true
+  }
+ ],
  "checked": 1200
 }
