@@ -1,4 +1,4 @@
-# Post status 2026-11-18T20:53:47+00:00
+# Post status 2026-11-18T21:06:02+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -248,3 +248,9 @@
 | ep41-barrier | en.instagram | scheduled |  | 2026-11-19T16:30:00.000Z |
 | ep41-barrier | en.tiktok | scheduled |  | 2026-11-19T16:30:00.000Z |
 | ep41-barrier | en.youtube | scheduled |  | 2026-11-19T16:30:00.000Z |
+| ep42-venice | ar.instagram | scheduled |  | 2026-11-19T14:00:00.000Z |
+| ep42-venice | ar.tiktok | scheduled |  | 2026-11-19T14:00:00.000Z |
+| ep42-venice | ar.youtube | scheduled |  | 2026-11-19T14:00:00.000Z |
+| ep42-venice | en.instagram | scheduled |  | 2026-11-19T19:00:00.000Z |
+| ep42-venice | en.tiktok | scheduled |  | 2026-11-19T19:00:00.000Z |
+| ep42-venice | en.youtube | scheduled |  | 2026-11-19T19:00:00.000Z |
