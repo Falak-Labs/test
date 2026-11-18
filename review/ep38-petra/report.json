@@ -1,0 +1,138 @@
+{
+ "slug": "ep38-petra",
+ "kit": "petra",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.97,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "14/230",
+   "mix_lines_off": [
+    "L 1 1 diff  | If you carve a palace 40 meters tall straight out of a cliff without a single brick, congrats, you just built Petra.",
+    "L 2 1 diff  | But car from the bottom up and every chip from above lands on the work you've finished.",
+    "L 4 1 diff  | But it's the desert, it barely rains and 20,000 people need water.",
+    "L11 5 diff  | Now just carve tombs in a theater in Rose Redstone and stay hidden from Europe until 1812.",
+    "L12 3 diff  | 40 meters tall, a canyon 1.2 kilometers long, and about 2,000 years old.",
+    "L13 1 diff  | And congrats, you just built Petrie yourself.",
+    "L14 2 diff  | For years people shot at the urn on top, sure it hit gold, solid rock, like grandma's cookie tin, just sowing stuff."
+   ],
+   "size_mb": 16.7,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو حفرت قصر أربعين متر جوة جبل صخر، من غير ولا طوبة، مبروك، كده انت بنيت البترا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس لو حفرت من تحت، كل حتة تقع من فوق هتبوّظ اللي خلصته.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتبدأ من فوق خالص، وتنزل لتحت.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس دي صحرا، والمطر نادر، وعشرين ألف واحد عايزين مية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتحفر قناة في حيطة الوادي، وتمد مواسير فخار من عين مية لحد المدينة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس لما المطر ينزل، السيل بيجري في الممر الضيق على المدينة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتعمل سد عند بق الممر، وتحفر نفق في الجبل يلف السيل بعيد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس مدينة غنية بالبخور، والحرامية طمعانين فيها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتخبيها في آخر ممر متعرّج، عرضه تلاتة متر في حتت.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تدخل، تابعني، عشان اللي جاي هنبني برج ياباني بيرقص مع الزلازل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "دلوقتي بس احفر مقابر ومسرح في الصخر الوردي، وخليها مستخبية عن أوروبا لحد ألف وتمنمية واتناشر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "أربعين متر طول، ممر طوله كيلو ومتين متر، وعمرها حوالي ألفين سنة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت البترا بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وسنين والناس بتضرب رصاص على الجرة اللي فوق، فاكرينها دهب، طلعت صخر. زي علبة البسكوت عند أمك: إبرة وخيط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 16.5,
+   "cover": true
+  }
+ }
+}
