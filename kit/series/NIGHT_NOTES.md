@@ -456,3 +456,18 @@
 - Scheduled for Nov 18 PT (post runs 04:05Z and 04:19Z, all 18 targets "scheduled"): 34 EN 06:00 (14:00Z), AR 09:00
   (17:00Z); 35 EN 10:00 (18:00Z), AR 12:00 (20:00Z); 36 AR 15:00 (23:00Z), EN 16:00 (00:00Z Nov 19). Next: 37 a desert
   wind tower that cools a house (promised by 36; Egyptian "ملقف" / Gulf "برجيل"), 38 Petra, 39 Japanese pagoda.
+
+## Nov 17 2026 ~18:15 PT: an empty day, and the fix
+- The run of Nov 16 18:37 PT scheduled builds 34-36 for Nov 18 PT instead of Nov 17: it took "tomorrow" from the UTC
+  date (18:37 PT is already the next day in UTC). Nothing posted on Nov 17 until the owner asked at 17:59 PT ("I didn't
+  see anything posted?").
+- Fixed the same hour with requeue (all 18 targets "scheduled" at the new times): English tonight: 34 at 18:40 PT
+  (02:40Z Nov 18), 35 at 20:00 PT (04:00Z), 36 at 21:30 PT (05:30Z). Arabic in the Arab morning: 34 at 06:00Z (22:00 PT,
+  8 am Cairo), 35 at 08:30Z, 36 at 11:00Z (03:00 PT, 1 pm Cairo). The at: lines in posts/ep34-36 follow.
+- So Nov 18 PT is FREE for builds 37-39 at the normal slots (EN 06:00 / 10:00 / 16:00, AR 09:00 / 12:00 / 15:00 PT).
+  Arabic 36 goes out at 11:00Z, six hours before Arabic 37 at 17:00Z.
+- The daily task's prompt now has a DATES paragraph (TODAY = `TZ=America/Los_Angeles date` at the start of the run; turn
+  every at: time back into PT before pushing) and its step 0 goes by state/ (not by the dates in post files) and counts
+  what went out today.
+- Handoff doc (claude/build-it-series-handoff.md): this is not in it yet. Add these lines to its daily log when you
+  update it tonight.

@@ -4,7 +4,7 @@ video:
   en: media/ep34-evcar-en.mp4
   ar: media/ep34-evcar-ar.mp4
 en:
-  at: "2026-11-18T14:00:00Z"    # 06:00 PT
+  at: "2026-11-18T02:40:00Z"    # 18:40 PT Nov 17 (moved up a day, see NIGHT_NOTES Nov 17)
   title: "How an Electric Car Beats a Sports Car Off the Line ⚡"
   text: |
     No engine under the hood, just a second trunk, and it still wins at the green light. ⚡
@@ -17,7 +17,7 @@ en:
     instagram: "#electriccar #ev #tesla #engineering #howitworks"
     youtube: "#electriccar #ev #engineering"
 ar:
-  at: "2026-11-18T17:00:00Z"    # 09:00 PT = 7 pm Cairo
+  at: "2026-11-18T06:00:00Z"    # 22:00 PT Nov 17 = 8 am Cairo (moved up)
   title: "إزاي العربية الكهربا بتسبق العربية السبور؟ ⚡"
   text: |
     مكان الموتور فيها شنطة، وبرضه بتسبق العربية السبور في الإشارة! ⚡

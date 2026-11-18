@@ -4,7 +4,7 @@ video:
   en: media/ep35-phone-en.mp4
   ar: media/ep35-phone-ar.mp4
 en:
-  at: "2026-11-18T18:00:00Z"    # 10:00 PT
+  at: "2026-11-18T04:00:00Z"    # 20:00 PT Nov 17 (moved up a day)
   title: "How Your Smartphone Knows Where You Are 📱"
   text: |
     A million times the memory of the computer that flew to the Moon, and we use it for cat videos. 📱
@@ -17,7 +17,7 @@ en:
     instagram: "#smartphone #iphone #tech #engineering #howitworks"
     youtube: "#smartphone #tech #engineering"
 ar:
-  at: "2026-11-18T20:00:00Z"    # 12:00 PT = 10 pm Cairo
+  at: "2026-11-18T08:30:00Z"    # 00:30 PT Nov 18 = 10:30 am Cairo (moved up)
   title: "إزاي الموبايل بيعرف انت فين؟ 📱"
   text: |
     في جيبك ذاكرة أكتر مليون مرة من كمبيوتر رحلة القمر، وبنتفرج بيه على قطط! 📱

@@ -4,7 +4,7 @@ video:
   en: media/ep36-pyramid-en.mp4
   ar: media/ep36-pyramid-ar.mp4
 en:
-  at: "2026-11-19T00:00:00Z"    # 16:00 PT
+  at: "2026-11-18T05:30:00Z"    # 21:30 PT Nov 17 (moved up a day)
   title: "How the Great Pyramid of Giza Was Built 🏜️"
   text: |
     The tallest thing people built for 3,800 years, and it once gleamed white. 🏜️
@@ -17,7 +17,7 @@ en:
     instagram: "#pyramids #egypt #giza #ancientegypt #engineering"
     youtube: "#pyramids #egypt #history"
 ar:
-  at: "2026-11-18T23:00:00Z"    # 15:00 PT = 1 am Cairo
+  at: "2026-11-18T11:00:00Z"    # 03:00 PT Nov 18 = 1 pm Cairo (moved up)
   title: "إزاي اتبنى الهرم الأكبر؟ 🏜️"
   text: |
     كان أطول مبنى في الدنيا تمانية وتلاتين قرن، ولونه كان أبيض وبيلمع! 🏜️
