@@ -1,4 +1,4 @@
-# Post status 2026-11-17T21:00:22+00:00
+# Post status 2026-11-18T02:19:39+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -200,21 +200,21 @@
 | ep33-camel | en.instagram | sent |  | 2026-11-17T00:02:39.724Z https://www.instagram.com/reel/Df0mHusRuXo/ |
 | ep33-camel | en.tiktok | sent |  | 2026-11-17T00:03:37.440Z https://www.tiktok.com/@congratsengineer/video/7708923861533773069?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep33-camel | en.youtube | sent |  | 2026-11-17T00:01:35.801Z https://www.youtube.com/shorts/DxuZ0KzPodI |
-| ep34-evcar | ar.instagram | scheduled |  | 2026-11-18T17:00:00.000Z |
-| ep34-evcar | ar.tiktok | scheduled |  | 2026-11-18T17:00:00.000Z |
-| ep34-evcar | ar.youtube | scheduled |  | 2026-11-18T17:00:00.000Z |
-| ep34-evcar | en.instagram | scheduled |  | 2026-11-18T14:00:00.000Z |
-| ep34-evcar | en.tiktok | scheduled |  | 2026-11-18T14:00:00.000Z |
-| ep34-evcar | en.youtube | scheduled |  | 2026-11-18T14:00:00.000Z |
-| ep35-phone | ar.instagram | scheduled |  | 2026-11-18T20:00:00.000Z |
-| ep35-phone | ar.tiktok | scheduled |  | 2026-11-18T20:00:00.000Z |
-| ep35-phone | ar.youtube | scheduled |  | 2026-11-18T20:00:00.000Z |
-| ep35-phone | en.instagram | scheduled |  | 2026-11-18T18:00:00.000Z |
-| ep35-phone | en.tiktok | scheduled |  | 2026-11-18T18:00:00.000Z |
-| ep35-phone | en.youtube | scheduled |  | 2026-11-18T18:00:00.000Z |
-| ep36-pyramid | ar.instagram | scheduled |  | 2026-11-18T23:00:00.000Z |
-| ep36-pyramid | ar.tiktok | scheduled |  | 2026-11-18T23:00:00.000Z |
-| ep36-pyramid | ar.youtube | scheduled |  | 2026-11-18T23:00:00.000Z |
-| ep36-pyramid | en.instagram | scheduled |  | 2026-11-19T00:00:00.000Z |
-| ep36-pyramid | en.tiktok | scheduled |  | 2026-11-19T00:00:00.000Z |
-| ep36-pyramid | en.youtube | scheduled |  | 2026-11-19T00:00:00.000Z |
+| ep34-evcar | ar.instagram | scheduled |  | 2026-11-18T06:00:00.000Z |
+| ep34-evcar | ar.tiktok | scheduled |  | 2026-11-18T06:00:00.000Z |
+| ep34-evcar | ar.youtube | scheduled |  | 2026-11-18T06:00:00.000Z |
+| ep34-evcar | en.instagram | scheduled |  | 2026-11-18T02:40:00.000Z |
+| ep34-evcar | en.tiktok | scheduled |  | 2026-11-18T02:40:00.000Z |
+| ep34-evcar | en.youtube | scheduled |  | 2026-11-18T02:40:00.000Z |
+| ep35-phone | ar.instagram | scheduled |  | 2026-11-18T08:30:00.000Z |
+| ep35-phone | ar.tiktok | scheduled |  | 2026-11-18T08:30:00.000Z |
+| ep35-phone | ar.youtube | scheduled |  | 2026-11-18T08:30:00.000Z |
+| ep35-phone | en.instagram | scheduled |  | 2026-11-18T04:00:00.000Z |
+| ep35-phone | en.tiktok | scheduled |  | 2026-11-18T04:00:00.000Z |
+| ep35-phone | en.youtube | scheduled |  | 2026-11-18T04:00:00.000Z |
+| ep36-pyramid | ar.instagram | scheduled |  | 2026-11-18T11:00:00.000Z |
+| ep36-pyramid | ar.tiktok | scheduled |  | 2026-11-18T11:00:00.000Z |
+| ep36-pyramid | ar.youtube | scheduled |  | 2026-11-18T11:00:00.000Z |
+| ep36-pyramid | en.instagram | scheduled |  | 2026-11-18T05:30:00.000Z |
+| ep36-pyramid | en.tiktok | scheduled |  | 2026-11-18T05:30:00.000Z |
+| ep36-pyramid | en.youtube | scheduled |  | 2026-11-18T05:30:00.000Z |
