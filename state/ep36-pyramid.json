@@ -25,9 +25,10 @@
    "channel": "6af2d49862b70b94b0df5758",
    "service": "tiktok",
    "status": "scheduled",
-   "dueAt": "2026-11-19T00:00:00.000Z",
+   "dueAt": "2026-11-18T05:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-17T04:20:25+00:00"
+   "created": "2026-11-17T04:20:25+00:00",
+   "moved": "2026-11-18T02:09:54+00:00"
   },
   "ar.youtube": {
    "id": "6afbd60e3e42cd001e4f92c5",
