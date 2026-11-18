@@ -471,3 +471,57 @@
   what went out today.
 - Handoff doc (claude/build-it-series-handoff.md): this is not in it yet. Add these lines to its daily log when you
   update it tonight.
+
+## Nov 18 2026 (daily task, run of Nov 17 18:37 PT): 37 desert wind tower, 38 Petra, 39 Japanese pagoda
+- TODAY was Nov 17 PT, TOMORROW Nov 18 PT (checked with `TZ=America/Los_Angeles date` first, and every at: time turned
+  back into PT before the push). Status 02:42Z: nothing went out during the day of Nov 17 (the slip of the Nov 16 run);
+  English 34 went out at 18:40 PT, the rest of 34-36 follow tonight and early Nov 18 (see "an empty day" above).
+  Nothing to requeue. Metrics 02:45Z: 127,679 views; English YouTube Shorts now about 1,100 a build (doc updated).
+- The GH_TOKEN for `gh` was invalid in this cloud session: workflows were dispatched and watched with the GitHub MCP
+  tools (actions_run_trigger, actions_list, actions_get); git push worked as usual.
+- Another project shares the repo: a Darija lessons voice workflow (darija/, other Claude sessions push to main). Pull
+  with --rebase before every push; its ElevenLabs use comes out of the same plan.
+- Local checks need: pip install skia-python numpy scipy soundfile pillow pyyaml uharfbuzz sherpa-onnx; Whisper small
+  for check_ar_voice.py: the GitHub release asset k2-fsa/sherpa-onnx asr-models/sherpa-onnx-whisper-small.tar.bz2
+  (640 MB, downloads fine through the proxy), keep only small-{encoder,decoder}.int8.onnx + small-tokens.txt in
+  /home/claude/tts/asr/sherpa-onnx-whisper-small.
+- Bash calls stop at 10 minutes: run sweeps, save checks and covers as separate calls (two sweeps take ~3.5 min).
+- PAGES: retired ep19-ep21 (episodes.yml `retired: true`, git rm media): media/ 616 -> 509 MB before today's six videos.
+  Next to retire: ep22-ep24.
+- Voices: Easton 64.25 / 64.84 / 69.33 s for 231 / 229 / 232 words: the pagoda was too long (Japanese names and
+  numbers read slowly); four lines trimmed to 219 words and English remade (langs=en force=true): 65.68 s.
+  ElevenLabs Egyptian 66.0 / 66.0 / 68.6 s for 165 / 166 / 168 words (872 + 860 + 921 characters, one take each).
+  check_ar_voice: no weak lines (max 25%, the all-numbers stat lines). Whisper small heard Petra's "1812" right on the
+  last 2.2 s of the line (the whole line gave "1882").
+- Produce: one slug per run as each scene was ready (37 at 03:25Z, 38 at 03:47Z, 39 at 04:04Z); runs can overlap
+  (save_state.sh re-applies files onto a fresh main).
+- windtower.py (house, street, top, still, water, ac): house() = a mud house in section with tower_body() on the roof
+  (TX0..TX1, openings OPEN0..OPEN1 with the barjeel's wooden sticks, split = a wall down the shaft, heat glow, wet
+  cloths), flow() = moving dashes along a smoothed polyline (PathMeasure segment + arrowhead) for air in / out / stack /
+  low inflow, thermo() + readout() for 45° outside / 35° inside, a top view of the tower with an X of walls and the
+  quarter facing the wind in blue, a limp flag for "no wind", a pool with vapour, town silhouettes for the reveal,
+  ac_unit() smoking for the tag. The cover needs the closer camera zoomed out (0.74) so the tower top clears the badge.
+- petra.py (cliff, carve, pipe, map, siq, urn): treasury() front view (6 columns, pediment, side pavilions with half
+  pediments, the tholos and the urn), carved 0..1 top-down or bottom-up through a clip band, cracks, bullet dents;
+  cliff() with striations; tomb() with crow-steps; theater(); chips_fall(); the pipe set (channel cut into the wall,
+  clay pipes laid one by one, water running inside); a map (wadi, Siq, dam, tunnel around the city); the Siq view with
+  the Treasury glowing at the end; camel riders imported from camel.py (`from camel import camel`); the tag's blue
+  cookie tin. The salmon cliff behind a salmon facade had no contrast: ROCK darkened to #9E5646..#3A1A18.
+- pagoda.py (temple, quake, xray, eaves, home): pagoda() five storeys (body + upturned tiled roof, eave 0..1 width,
+  rot stains, red 0..1 posts, x-ray, the trunk drawn over the floors in x-ray, a 'gone' storey that slides off, nine
+  rings on the spire), sway() = the snake dance (alternating offsets) or one rigid lean, fuji() from bullettrain.py and
+  mom() from phone.py, skytree() with its glowing core, jenga() and dishes() that topple. Language-specific tag: Jenga +
+  "ACHOO!" in English, the dish stack in the sink that falls from mom's look in Arabic.
+- Facts: wind tower: up to ~10 °C cooler (Ferrovial; Dubai studies via Matador), barjeel about 5 m above the roof, open
+  on four sides, works as a solar chimney with no wind, water sprinkled under it (Bayut), wet cloths on poles (Matador),
+  lee-side suction and internal walls (Wikipedia), Yazd about 700 windcatchers, Dowlatabad 33 m (AFP via Al-Monitor),
+  ancient Egyptian windcatchers on the house of Nakht (Book of the Dead, 18th Dynasty) and nearly every Cairo house in
+  Napoleon's drawings (TheCollector). Petra: Treasury facade 39.5 m, 60 BC-AD 50, bullet marks on the urn from people
+  hoping to break it open, Burckhardt 1812 (Petra authority pdtra.gov.jo); top-down carving (Lonely Planet, the
+  Unfinished Tomb); pipes from Ain Mousa along the Siq wall, about 20,000 people, a diversion dam and tunnel at the Siq
+  entrance (MDPI Water 2020); Siq 1.2 km, 3 m at its narrowest (Wikipedia). Pagoda: only two pagodas lost to
+  earthquakes in 1,400 years, Horyu-ji pillar from a cypress felled in 594 (Wikipedia Shinbashira); about a thousand
+  mortise joints, almost no nails, storeys sway in alternating directions like a snake dance (web-japan.org Nipponia);
+  the pillar stops a storey that swings too far (The Economist 1997, Ishida's shake-table models); wide eaves add
+  stability (Wikipedia); Skytree 634 m, a 375 m concrete central column, up to about 50% less shaking
+  (gov-online.go.jp).
