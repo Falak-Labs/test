@@ -53,6 +53,19 @@ for gender in ("female", "male", None):
                                                             "description", "preview_url", "usage_character_count_1y", "cloned_by_count", "free_users_allowed")})
         if not d.get("has_more"):
             break
+# targeted searches: the library's own accent filter and a few search words
+res["targeted"] = []
+for q in ({"accent": "palestinian"}, {"accent": "palestinian", "gender": "female"}, {"accent": "palestinian", "language": "ar"}, {"search": "palestinian"}, {"search": "palestine female"},
+          {"search": "فلسطيني"}, {"search": "فلسطينية"}, {"accent": "levantine", "gender": "female", "language": "ar", "age": "middle_aged"}, {"accent": "jordanian", "gender": "female"}):
+    for page in range(3):
+        try:
+            d = get("/shared-voices", page_size=100, page=page, sort="usage_character_count_1y", **q)
+        except Exception as e:  # noqa
+            res["notes"].append(f"targeted {q}: " + str(e)[:150].replace(key, "***")); break
+        for v in d.get("voices", []):
+            res["targeted"].append({"q": json.dumps(q, ensure_ascii=False), **{k: v.get(k) for k in ("voice_id", "public_owner_id", "name", "gender", "age", "accent", "locale", "language", "use_case", "description", "usage_character_count_1y", "free_users_allowed")}})
+        if not d.get("has_more"):
+            break
 res["checked"] = len(seen)
 json.dump(res, open(os.path.join(out, "voices.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print("own voices", len(res["own"]), "| shared arabic checked", len(seen), "| levantine matches", len(res["shared"]), "|", res["notes"])
