@@ -1,4 +1,4 @@
-# Post status 2026-11-18T05:47:11+00:00
+# Post status 2026-11-18T07:36:10+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -200,9 +200,9 @@
 | ep33-camel | en.instagram | sent |  | 2026-11-17T00:02:39.724Z https://www.instagram.com/reel/Df0mHusRuXo/ |
 | ep33-camel | en.tiktok | sent |  | 2026-11-17T00:03:37.440Z https://www.tiktok.com/@congratsengineer/video/7708923861533773069?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep33-camel | en.youtube | sent |  | 2026-11-17T00:01:35.801Z https://www.youtube.com/shorts/DxuZ0KzPodI |
-| ep34-evcar | ar.instagram | scheduled |  | 2026-11-18T06:00:00.000Z |
-| ep34-evcar | ar.tiktok | scheduled |  | 2026-11-18T06:00:00.000Z |
-| ep34-evcar | ar.youtube | scheduled |  | 2026-11-18T06:00:00.000Z |
+| ep34-evcar | ar.instagram | sent |  | 2026-11-18T06:01:46.669Z https://www.instagram.com/reel/Df30CN8yC7g/ |
+| ep34-evcar | ar.tiktok | sent |  | 2026-11-18T06:01:39.837Z https://tiktok.com/@kef.tenbeni/video/7709387352988241166 |
+| ep34-evcar | ar.youtube | sent |  | 2026-11-18T06:00:39.906Z https://www.youtube.com/shorts/Mb71HcBrNPk |
 | ep34-evcar | en.instagram | sent |  | 2026-11-18T02:43:00.051Z https://www.instagram.com/reel/Df3dK5Bpysh/ |
 | ep34-evcar | en.tiktok | sent |  | 2026-11-18T02:41:44.996Z https://tiktok.com/@congratsengineer/video/7709335731075878158 |
 | ep34-evcar | en.youtube | sent |  | 2026-11-18T02:40:04.911Z https://www.youtube.com/shorts/oGtG5FfH44U |
