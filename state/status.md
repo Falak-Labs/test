@@ -1,4 +1,4 @@
-# Post status 2026-11-18T07:36:10+00:00
+# Post status 2026-11-18T11:23:16+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -206,15 +206,15 @@
 | ep34-evcar | en.instagram | sent |  | 2026-11-18T02:43:00.051Z https://www.instagram.com/reel/Df3dK5Bpysh/ |
 | ep34-evcar | en.tiktok | sent |  | 2026-11-18T02:41:44.996Z https://tiktok.com/@congratsengineer/video/7709335731075878158 |
 | ep34-evcar | en.youtube | sent |  | 2026-11-18T02:40:04.911Z https://www.youtube.com/shorts/oGtG5FfH44U |
-| ep35-phone | ar.instagram | scheduled |  | 2026-11-18T08:30:00.000Z |
-| ep35-phone | ar.tiktok | scheduled |  | 2026-11-18T08:30:00.000Z |
-| ep35-phone | ar.youtube | scheduled |  | 2026-11-18T08:30:00.000Z |
+| ep35-phone | ar.instagram | sent |  | 2026-11-18T08:31:16.535Z https://www.instagram.com/reel/Df4FKWoOBQf/ |
+| ep35-phone | ar.tiktok | sent |  | 2026-11-18T08:31:08.905Z https://tiktok.com/@kef.tenbeni/video/7709425707931258125 |
+| ep35-phone | ar.youtube | sent |  | 2026-11-18T08:30:38.607Z https://www.youtube.com/shorts/bFsyHR_XTMo |
 | ep35-phone | en.instagram | sent |  | 2026-11-18T04:01:49.414Z https://www.instagram.com/reel/Df3mSLmBAir/ |
 | ep35-phone | en.tiktok | sent |  | 2026-11-18T04:01:11.281Z https://tiktok.com/@congratsengineer/video/7709356358910496013 |
 | ep35-phone | en.youtube | sent |  | 2026-11-18T04:00:27.627Z https://www.youtube.com/shorts/u3ND6hLvRmg |
-| ep36-pyramid | ar.instagram | scheduled |  | 2026-11-18T11:00:00.000Z |
-| ep36-pyramid | ar.tiktok | scheduled |  | 2026-11-18T11:00:00.000Z |
-| ep36-pyramid | ar.youtube | scheduled |  | 2026-11-18T11:00:00.000Z |
+| ep36-pyramid | ar.instagram | sent |  | 2026-11-18T11:03:33.682Z https://www.instagram.com/reel/Df4WiKKBkrs/ |
+| ep36-pyramid | ar.tiktok | sent |  | 2026-11-18T11:04:04.006Z https://tiktok.com/@kef.tenbeni/video/7709464954679708942 |
+| ep36-pyramid | ar.youtube | sent |  | 2026-11-18T11:03:43.833Z https://www.youtube.com/shorts/phjQkTp5G0Q |
 | ep36-pyramid | en.instagram | sent |  | 2026-11-18T05:30:59.644Z https://www.instagram.com/reel/Df3wiOABLxp/ |
 | ep36-pyramid | en.tiktok | sent |  | 2026-11-18T05:30:46.755Z https://tiktok.com/@congratsengineer/video/7709379367360597262 |
 | ep36-pyramid | en.youtube | sent |  | 2026-11-18T05:30:08.839Z https://www.youtube.com/shorts/NBpVVXvwBd4 |

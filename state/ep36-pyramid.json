@@ -40,31 +40,37 @@
    "id": "6afbd60e3e42cd001e4f92c5",
    "channel": "6af2cd5262b70b94b0ded572",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-18T11:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-17T04:20:25+00:00",
-   "moved": "2026-11-18T02:13:49+00:00"
+   "moved": "2026-11-18T02:13:49+00:00",
+   "link": "https://www.youtube.com/shorts/phjQkTp5G0Q",
+   "sentAt": "2026-11-18T11:03:43.833Z"
   },
   "ar.instagram": {
    "id": "6afbd60e85dca6b14a1e312b",
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-18T11:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-17T04:20:25+00:00",
-   "moved": "2026-11-18T02:11:51+00:00"
+   "moved": "2026-11-18T02:11:51+00:00",
+   "link": "https://www.instagram.com/reel/Df4WiKKBkrs/",
+   "sentAt": "2026-11-18T11:03:33.682Z"
   },
   "ar.tiktok": {
    "id": "6afbd60fdf36f4d8256a4cc4",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-18T11:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-17T04:20:25+00:00",
-   "moved": "2026-11-18T02:15:33+00:00"
+   "moved": "2026-11-18T02:15:33+00:00",
+   "link": "https://tiktok.com/@kef.tenbeni/video/7709464954679708942",
+   "sentAt": "2026-11-18T11:04:04.006Z"
   }
  }
 }
