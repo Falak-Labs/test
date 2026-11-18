@@ -60,3 +60,7 @@ T | w6 | Good job! Communication!
 T | o1 | عجبك الدرس؟ كتب لينا الكلمة الصعيبة فالتعليقات، وتابعنا باش تتعلم كل نهار!
 L | o2 | See you next time!
 A | o3 | Bye!
+# spare takes of the "mu" part for Adam (the first ones were heard as "new" by the speech check)
+A | A_mew2 | Myoo.
+A | A_mew3 | Mew!
+A | A_mew4 | Mew.
