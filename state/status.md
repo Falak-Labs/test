@@ -1,4 +1,4 @@
-# Post status 2026-11-18T04:18:20+00:00
+# Post status 2026-11-18T04:35:35+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -230,3 +230,9 @@
 | ep38-petra | en.instagram | scheduled |  | 2026-11-18T18:00:00.000Z |
 | ep38-petra | en.tiktok | scheduled |  | 2026-11-18T18:00:00.000Z |
 | ep38-petra | en.youtube | scheduled |  | 2026-11-18T18:00:00.000Z |
+| ep39-pagoda | ar.instagram | scheduled |  | 2026-11-18T23:00:00.000Z |
+| ep39-pagoda | ar.tiktok | scheduled |  | 2026-11-18T23:00:00.000Z |
+| ep39-pagoda | ar.youtube | scheduled |  | 2026-11-18T23:00:00.000Z |
+| ep39-pagoda | en.instagram | scheduled |  | 2026-11-19T00:00:00.000Z |
+| ep39-pagoda | en.tiktok | scheduled |  | 2026-11-19T00:00:00.000Z |
+| ep39-pagoda | en.youtube | scheduled |  | 2026-11-19T00:00:00.000Z |
