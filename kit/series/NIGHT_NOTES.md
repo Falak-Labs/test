@@ -559,3 +559,30 @@
   behind; proposed a test of a Gulf-dialect ElevenLabs voice against the Egyptian one for a few days, Arab-world and
   everyday topics for Arabic, and a decision on Dec 1. NOTHING is decided: keep Arabic exactly as voices.yml says until
   he answers. Evening run: carry these numbers into claude/build-it-performance.md with your next entry.
+
+## Nov 17 2026 ~22:40 PT: second daily run created, voice and style samples sent
+- Scheduled tasks: "Build-It midday production" (trig_01ALubp472TNeQtwzvYgGG9A, 11:23 PT daily, first run Nov 18 for
+  Nov 19's first three slots) and "Build-It daily production" (trig_018LnswgiUywWnrkauA1Ujhd, 18:37 PT, last three).
+  Both prompts point at LINEUP.md, which now has a claim rule: mark the three entries you take "(taken: midday|evening
+  run of <date>)" and push LINEUP.md right away, so the two runs never make the same build.
+- English voice samples (owner to pick one): scripts kit/series/sample_{brian,liam,todd,dan}_lines.txt (pyramid lines
+  1, 2, 3, 10, 12, 13, 14), voices kit/series/voice/sample_*.{wav,json,mp3}. make_voices.py: the `voice` input of
+  Make voices now also applies to English when the kit name starts with "sample". IDs: 1 Brian nPczCjzI2devNBz1zQrb
+  (premade, deep narrator), 2 Liam "Viral Short-Form Storyteller" VCgLBmBjldJmfphyB8sZ (library), 3 Todd "Clear,
+  Engaging and Educational" g14YnDYCsy3k7XLlcKlO (library), 4 Dan XA3P1cj7XJexe6Zq0ATX (builds 21-23). Library voices
+  work over the API on a paid plan without adding them. All four were clean in Whisper small (number formats only).
+- At natural speed these voices read 3.1-3.3 words/s (117 words = 35.6-38.2 s), slower than Easton: with an ElevenLabs
+  English voice keep scripts to about 205-215 words (make_vo_eleven speeds up 12% at most to fit --max 66 s).
+  When he picks: voices.yml en: {engine: eleven, voice: <id>, model: eleven_multilingual_v2}; about 1,300 credits a build.
+- Look 3 proposal (sample only, production stays on v2 until he approves): bik/v2.py Post3 (film grade, warm halation,
+  god rays from post.light, dust, breathing camera) and helpers tex()/texture() (tileable sand, stone, grain, cloud),
+  soft_shadow(), tile_noise(); sample scene episodes/pyramid3.py (not in episodes.yml) = build 36's opening in golden-hour
+  light with textures, cast shadows, haze, rim-lit palms, a glittering Nile. Lessons from the first pass: bright flat
+  areas + bloom + rays wash the frame out; keep mid-tones darker, bloom threshold 0.74, rays only from the sun's glow.
+  Cost: about 2 s a frame on the 2-core box vs 0.7 s for v2 (the resampled drift and a third bloom level are the big
+  parts): optimize before production (drift as a transform of the world canvas, bloom levels from the W/4 surface).
+- AI shots: Kling 3.0 pro, 5 s, 9:16, no sound = 8.75 Higgsfield credits (std 7.5, Kling 2.6 5.0, Seedance 480p 15).
+  Two sample clips were made for the pyramid (jobs b8f74f06-0cf1-467d-82e0-1a0d7745db71 hook, dd1dfecb-5302-4ac6-be1f-
+  0c814dcb0ce7 sledge and water); balance after: about 38 credits on Plus. This session's network policy refuses
+  Higgsfield's file host (d8j0ntlcm91z4.cloudfront.net), so the clips cannot be checked or mixed into videos here.
+  Do not fetch them any other way: mixing AI shots needs the owner to allow that host, or another decision from him.

@@ -517,6 +517,243 @@ class Post:
             c.restore()
 
 
+
+# ---------------------------------------------------------------------------------------------- look 3 (proposal, Nov 18 2026)
+# A richer finish on top of v2, chosen per episode (LOOK = 3 in the scene class): surface textures, a film grade with
+# a warm halation, god rays from a light the set names, floating dust and a slow breathing camera. Nothing here changes
+# the v2 look of existing episodes.
+def tile_noise(size=512, bands=((5, 1.0), (14, 0.6), (40, 0.32), (120, 0.16)), seed=7):
+    """Tileable noise 0..1 (size x size): random fields low-passed in the Fourier domain, so the tile wraps."""
+    rng = np.random.default_rng(seed)
+    fy = np.fft.fftfreq(size)[:, None] * size
+    fx = np.fft.fftfreq(size)[None, :] * size
+    k = np.sqrt(fx * fx + fy * fy)
+    out = np.zeros((size, size), np.float32)
+    for f0, amp in bands:
+        n = np.real(np.fft.ifft2(np.fft.fft2(rng.standard_normal((size, size))) * np.exp(-(k / f0) ** 2)))
+        out += amp * (n / (n.std() + 1e-9)).astype(np.float32)
+    return (out - out.min()) / (out.max() - out.min() + 1e-9)
+
+
+_TEX = {}
+
+
+def texture(kind="sand"):
+    """Grey tile (skia.Image, 512 px) for overlay on surfaces: sand (grain and wind ripples), stone (blotches and pits),
+    grain (fine speckle), cloud (soft wisps)."""
+    if kind in _TEX:
+        return _TEX[kind]
+    size = 512
+    yy, xx = np.mgrid[0:size, 0:size].astype(np.float32) / size
+    if kind == "sand":
+        low = tile_noise(size, ((4, 1.0), (10, 0.5)), seed=21)
+        fine = tile_noise(size, ((90, 1.0), (200, 0.8)), seed=22)
+        rip = 0.5 + 0.5 * np.sin(2 * np.pi * (yy * 26 + xx * 3 + 1.6 * low))
+        g = 0.47 * low + 0.38 * fine + 0.15 * rip ** 3
+    elif kind == "stone":
+        blot = tile_noise(size, ((6, 1.0), (16, 0.7), (48, 0.4)), seed=31)
+        pits = tile_noise(size, ((150, 1.0),), seed=32)
+        g = 0.75 * blot + 0.25 * pits
+        g = np.where(pits > 0.78, g - 0.25 * (pits - 0.78) / 0.22, g)
+    elif kind == "cloud":
+        g = tile_noise(size, ((3, 1.0), (8, 0.6), (22, 0.3)), seed=41)
+    else:
+        g = tile_noise(size, ((160, 1.0), (240, 0.7)), seed=51)
+    g = (g - g.min()) / (g.max() - g.min() + 1e-9)
+    v = np.clip(128 + (g - 0.5) * 230, 0, 255).astype(np.uint8)
+    _TEX[kind] = skia.Image.fromarray(np.dstack([v, v, v, np.full_like(v, 255)]), skia.ColorType.kRGBA_8888_ColorType)
+    return _TEX[kind]
+
+
+def tex(c, shape, kind="sand", scale=1.0, a=0.35, mode=skia.BlendMode.kOverlay, dx=0.0, dy=0.0, sy=None):
+    """Lay a texture over a path or rect (in the current canvas coordinates, so it moves with the world)."""
+    if a <= 0:
+        return
+    m = skia.Matrix()
+    m.setScale(scale, scale if sy is None else sy)
+    m.postTranslate(dx, dy)
+    p = skia.Paint(AntiAlias=True)
+    p.setShader(texture(kind).makeShader(skia.TileMode.kRepeat, skia.TileMode.kRepeat, _LIN, m))
+    p.setAlphaf(clamp(a))
+    p.setBlendMode(mode)
+    c.drawPath(shape, p) if isinstance(shape, skia.Path) else c.drawRect(shape, p)
+
+
+def soft_shadow(c, pts, a=0.45, blur=16, col="#1A1030"):
+    """Cast shadow on the ground: a dark polygon (world or screen points) with soft edges, multiplied in."""
+    if a <= 0 or len(pts) < 3:
+        return
+    path = skia.Path()
+    path.moveTo(*pts[0])
+    for q in pts[1:]:
+        path.lineTo(*q)
+    path.close()
+    p = P(col, a, blur=blur)
+    p.setBlendMode(skia.BlendMode.kMultiply)
+    c.drawPath(path, p)
+
+
+class Post3(Post):
+    """Look 3 finishing pass: the world drawn with a slow breathing camera and a film grade (soft S-curve, lifted
+    blacks, warm highlights / teal shadows, a touch less saturation), bloom with a warm halation, god rays from
+    post.light (screen x, y) at strength post.rays, floating dust at post.dust, then vignette and grain. A set sets
+    light / rays / dust while it draws; they reset after every frame."""
+
+    def __init__(self, W, H, bloom=0.42, grain=0.05, vignette=0.55, threshold=0.74, drift=1.0, sat=0.92, contrast=0.36,
+                 warm=1.0):
+        super().__init__(W, H, bloom, grain, vignette, threshold)
+        self.drift, self.sat, self.contrast, self.warm = drift, sat, contrast, warm
+        self.light, self.rays, self.ray_col = None, 0.0, "#FFD7A0"
+        self.dust, self.dust_col = 0.0, "#FFE7C2"
+
+    def _init(self):
+        super()._init()
+        W, H = self.W, self.H
+        x = np.linspace(0.0, 1.0, 256)
+        y = x + self.contrast * (x * x * (3 - 2 * x) - x)
+        y = 0.02 + 0.975 * y
+        ws, wh, k = (1 - x) ** 2, x ** 2, self.warm
+        chans = (y + k * (0.030 * wh - 0.020 * ws), y + k * (0.010 * wh + 0.008 * ws), y + k * (-0.030 * wh + 0.042 * ws))
+        tabs = [[int(v) for v in np.clip(np.round(ch * 255), 0, 255)] for ch in chans]
+        lr, lg, lb, sv = 0.2126, 0.7152, 0.0722, self.sat
+        sat = [lr * (1 - sv) + sv, lg * (1 - sv), lb * (1 - sv), 0, 0,
+               lr * (1 - sv), lg * (1 - sv) + sv, lb * (1 - sv), 0, 0,
+               lr * (1 - sv), lg * (1 - sv), lb * (1 - sv) + sv, 0, 0,
+               0, 0, 0, 1, 0]
+        self.grade = skia.ColorFilters.Compose(skia.TableColorFilter.MakeARGB(None, *tabs), skia.ColorFilters.Matrix(sat))
+        self.halo = skia.ColorFilters.Matrix([1.0, 0, 0, 0, 0, 0, 0.74, 0, 0, 0, 0, 0, 0.48, 0, 0, 0, 0, 0, 1, 0])
+        g, o = 1.0 / (1.0 - 0.70), -0.70 / (1.0 - 0.70)
+        self.high_r = skia.ColorFilters.Matrix([g, 0, 0, 0, o, 0, g, 0, 0, o, 0, 0, g, 0, o, 0, 0, 0, 1, 0])
+        self.huge = skia.Surface(W // 24, H // 24)
+        self.rsrc = skia.Surface(W // 6, H // 6)
+        self.rbuf = skia.Surface(W // 6, H // 6)
+        r, gg, b = (int(self.ray_col[i:i + 2], 16) / 255.0 for i in (1, 3, 5))
+        self.ray_tint = skia.ColorFilters.Matrix([r, 0, 0, 0, 0, 0, gg, 0, 0, 0, 0, 0, b, 0, 0, 0, 0, 0, 1, 0])
+        vp = skia.Paint(AntiAlias=True)
+        vp.setShader(skia.GradientShader.MakeRadial(skia.Point(W / 2, H * 0.44), H * 0.78,
+                                                    [C("#000000", 0), C("#000000", 0), C("#07040C", self.k_vig)],
+                                                    [0.0, 0.48, 1.0]))
+        self.vig = vp
+        rng = np.random.default_rng(11)
+        self.motes = [(rng.uniform(0, W), rng.uniform(0, H), rng.uniform(1.3, 3.8), rng.uniform(0.3, 1.0),
+                       rng.uniform(0, 6.283)) for _ in range(70)]
+        self.bokeh = [(rng.uniform(0, W), rng.uniform(0, H), rng.uniform(16, 44), rng.uniform(0.4, 1.0),
+                       rng.uniform(0, 6.283)) for _ in range(9)]
+
+    def _rays(self, c, image, lin):
+        W, H = self.W, self.H
+        rs = self.rsrc
+        w, h = rs.width(), rs.height()
+        k = w / W
+        lx, ly = self.light[0] * k, self.light[1] * k
+        cv = rs.getCanvas()
+        cv.clear(0xFF000000)
+        hp = skia.Paint()
+        hp.setColorFilter(self.high_r)
+        cv.drawImageRect(image, R(0, 0, W, H), R(0, 0, w, h), lin, hp)
+        mp = skia.Paint()
+        mp.setBlendMode(skia.BlendMode.kModulate)
+        mp.setShader(skia.GradientShader.MakeRadial(skia.Point(lx, ly), H * 0.30 * k,
+                                                    [0xFFFFFFFF, 0xFF808080, 0xFF000000], [0.0, 0.35, 1.0]))
+        cv.drawRect(R(0, 0, w, h), mp)
+        src = rs.makeImageSnapshot()
+        rb = self.rbuf.getCanvas()
+        rb.clear(0xFF000000)
+        n = 22
+        for i in range(n):
+            s = 1.0 + i * 0.05
+            p = skia.Paint()
+            p.setBlendMode(PLUS)
+            p.setAlphaf((1 - i / n) * 2.4 / n)
+            rb.save()
+            rb.translate(lx, ly)
+            rb.scale(s, s)
+            rb.translate(-lx, -ly)
+            rb.drawImage(src, 0, 0, lin, p)
+            rb.restore()
+        out = skia.Paint()
+        out.setBlendMode(PLUS)
+        out.setAlphaf(clamp(self.rays))
+        out.setColorFilter(self.ray_tint)
+        out.setImageFilter(skia.ImageFilters.Blur(1.2, 1.2))
+        c.save()
+        c.scale(W / w, H / h)
+        c.drawImage(self.rbuf.makeImageSnapshot(), 0, 0, lin, out)
+        c.restore()
+
+    def _dust(self, c, t):
+        W, H = self.W, self.H
+        lx, ly = self.light if self.light else (W * 0.3, H * 0.3)
+        for x0, y0, r, b, ph in self.motes:
+            x = (x0 + 16 * t + 18 * math.sin(0.5 * t + ph)) % (W + 40) - 20
+            y = (y0 - 10 * t + 12 * math.sin(0.37 * t + 1.7 * ph)) % (H + 40) - 20
+            near = math.exp(-math.hypot(x - lx, y - ly) / 650.0)
+            a = self.dust * b * (0.22 + 0.78 * near) * (0.65 + 0.35 * math.sin(2.1 * t + ph))
+            if a > 0.01:
+                p = P(self.dust_col, clamp(a), blur=0.6)
+                p.setBlendMode(PLUS)
+                c.drawCircle(x, y, r, p)
+        for x0, y0, r, b, ph in self.bokeh:
+            x = (x0 + 9 * t) % (W + 120) - 60
+            y = (y0 - 6 * t + 20 * math.sin(0.2 * t + ph)) % (H + 120) - 60
+            p = P(self.dust_col, clamp(0.07 * self.dust * b), blur=r * 0.22)
+            p.setBlendMode(PLUS)
+            c.drawCircle(x, y, r, p)
+
+    def apply(self, c, image, frame=0):
+        if self.small is None:
+            self._init()
+        W, H = self.W, self.H
+        t = frame / 30.0
+        lin = skia.SamplingOptions(skia.FilterMode.kLinear)
+        c.clear(0xFF000000)
+        c.save()
+        if self.drift:
+            d = self.drift
+            sc = 1.03 + 0.004 * d * math.sin(0.41 * t)
+            dx = d * (7 * math.sin(0.27 * t + 0.6) + 3 * math.sin(0.83 * t + 2.1))
+            dy = d * (6 * math.sin(0.21 * t + 1.3) + 2.5 * math.sin(0.67 * t))
+            c.translate(W / 2 + dx, H / 2 + dy)
+            c.rotate(d * 0.16 * math.sin(0.19 * t + 0.4))
+            c.scale(sc, sc)
+            c.translate(-W / 2, -H / 2)
+        gp = skia.Paint()
+        gp.setColorFilter(self.grade)
+        c.drawImage(image, 0, 0, lin, gp)
+        for surf, sigma, gain, halo in ((self.small, 5.0, 0.55, False), (self.tiny, 4.0, 0.38, True),
+                                        (self.huge, 3.0, 0.30, True)):
+            sc_ = surf.getCanvas()
+            sc_.clear(0xFF000000)
+            hp = skia.Paint()
+            hp.setColorFilter(self.high)
+            sc_.drawImageRect(image, R(0, 0, W, H), R(0, 0, surf.width(), surf.height()), lin, hp)
+            bp = skia.Paint()
+            bp.setBlendMode(PLUS)
+            bp.setAlphaf(self.k_bloom * gain)
+            bp.setImageFilter(skia.ImageFilters.Blur(sigma, sigma))
+            if halo:
+                bp.setColorFilter(self.halo)
+            c.save()
+            c.scale(W / surf.width(), H / surf.height())
+            c.drawImage(surf.makeImageSnapshot(), 0, 0, lin, bp)
+            c.restore()
+        if self.light is not None and self.rays > 0:
+            self._rays(c, image, lin)
+        if self.dust > 0:
+            self._dust(c, t)
+        c.restore()
+        c.drawRect(R(0, 0, W, H), self.vig)
+        if self.k_grain > 0:
+            rng = random.Random(frame)
+            gp = skia.Paint()
+            gp.setBlendMode(skia.BlendMode.kSoftLight)
+            gp.setAlphaf(self.k_grain * 2.2)
+            c.save()
+            c.scale(2, 2)
+            c.drawImage(self.noise[frame % len(self.noise)], -rng.randint(0, 31), -rng.randint(0, 31), lin, gp)
+            c.restore()
+        self.light, self.rays, self.dust = None, 0.0, 0.0
+
 # ---------------------------------------------------------------------------------------------- UI: HUD, callouts, badges
 def glass(c, x, y, w, h, r=18, a=1.0, tint=GLASS, stroke="#FFFFFF"):
     """Dark glass card with a hairline edge and a soft shadow."""
