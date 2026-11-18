@@ -9,7 +9,6 @@ Same script, timing, captions and HUD as pyramid.py; what changes is the picture
 """
 from pyramid import *  # noqa: F401,F403
 from pyramid import _tri  # noqa: F401
-from bik.v2 import tex, soft_shadow  # noqa: E402
 
 GOLD = {"top": "#0B1630", "upper": "#1F3A60", "mid": "#7A6378", "low": "#E0975E", "horizon": "#FFD08A",
         "space_top": "#010208", "space_mid": "#040817", "space_low": "#0A1232"}
@@ -135,7 +134,6 @@ class Pyramid3(Pyramid):
 
     def __init__(self, vo_json, vo_wav, lang="en"):
         super().__init__(vo_json, vo_wav, lang)
-        self.post = v2.Post3(W, H)
         rng = random.Random(3)
         self.wisps = [(rng.uniform(-200, 1300), rng.uniform(140, 520), rng.uniform(260, 620), rng.uniform(16, 34),
                        rng.uniform(0.35, 0.8)) for _ in range(9)]

@@ -579,8 +579,19 @@
   soft_shadow(), tile_noise(); sample scene episodes/pyramid3.py (not in episodes.yml) = build 36's opening in golden-hour
   light with textures, cast shadows, haze, rim-lit palms, a glittering Nile. Lessons from the first pass: bright flat
   areas + bloom + rays wash the frame out; keep mid-tones darker, bloom threshold 0.74, rays only from the sun's glow.
-  Cost: about 2 s a frame on the 2-core box vs 0.7 s for v2 (the resampled drift and a third bloom level are the big
-  parts): optimize before production (drift as a transform of the world canvas, bloom levels from the W/4 surface).
+  Speed: after blurring the bloom levels at low resolution (no image filter on the scaled-up draws) Post3 takes about
+  0.33 s a frame against 0.54 s for v2's Post; a whole look-3 frame of the sample is about 0.9-1.0 s (v2 0.6-0.7 s),
+  the extra being the textures on big areas.
+- Sent to the owner (~22:20 PT): deliver files before_after_pyramid.mp4 (current left, new right) and
+  new_look_pyramid.mp4, 17.5 s each, narrated by Brian for lines 1-3 (a hybrid voice: sample lines 1-3 + build 36's
+  lines 4-14, made by a scratch script). He was asked for: voice 1-4, new look yes/no, AI shots yes/no.
+- IF HE APPROVES THE NEW LOOK: set `LOOK = 3` in the scene class (EpisodeV2 then finishes with v2.Post3). In every
+  draw_<set>: self.post.light = (screen x, y) of the key light (sun, lamp), self.post.rays 0.3-0.7 when that light is
+  in or near the frame, self.post.dust 0.5-0.9 outdoors / in workshops (0 underwater or in space). Paint big surfaces
+  with tex(c, path_or_rect, "sand" | "stone" | "grain" | "cloud", scale, a) (overlay blend; it moves with the world),
+  cast shadows with soft_shadow(c, points, a, blur), contact shadows under everything that touches the ground, haze
+  between far and near layers, a rim light on silhouettes, darker mid-tones (no big bright flat areas: they bloom).
+  Reference: episodes/pyramid3.py (plateau, foreground, pyramid3, palm3).
 - AI shots: Kling 3.0 pro, 5 s, 9:16, no sound = 8.75 Higgsfield credits (std 7.5, Kling 2.6 5.0, Seedance 480p 15).
   Two sample clips were made for the pyramid (jobs b8f74f06-0cf1-467d-82e0-1a0d7745db71 hook, dd1dfecb-5302-4ac6-be1f-
   0c814dcb0ce7 sledge and water); balance after: about 38 credits on Plus. This session's network policy refuses

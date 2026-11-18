@@ -30,7 +30,7 @@ from bik.draw import C, P, R, rect, circle, poly, line, dashed, text, text_width
 from bik import sfx, v2, v2set, fx, arabic  # noqa: E402,F401
 from bik.captions import word_timings, Captions as _Finder  # noqa: E402
 from bik.v2 import (lin_paint, rad_paint, rr, vrect, cyl, cyl_path, box, add_glow, contact_shadow, light_cone, puff,  # noqa: E402,F401
-                    glass, ACCENT, WARN, GOOD, HILITE, INK, GLASS, PLUS, SCREEN)
+                    glass, ACCENT, WARN, GOOD, HILITE, INK, GLASS, PLUS, SCREEN, tex, soft_shadow)
 from bik.v2set import (STEEL, SHIRTS, dash_paint, hard_hat, hats_in_the_air, lattice, beacon, floodlight, bunker,  # noqa: E402,F401
                        engineer, person, buried_line, building_ghost, sea, heart, rumble, boom, gas_hiss,
                        skyline_night, window_night, room, underwater, bubbles, splash, sparks_shower)
@@ -53,6 +53,7 @@ class EpisodeV2:
     CLEAR = "#070B1F"
     TAIL = 2.0
     CAPTION_Y = 1330
+    LOOK = 2                                      # 3 = the look-3 finish (v2.Post3): only once the owner approves it
 
     def __init__(self, vo_json, vo_wav, lang="en"):
         self.lang, self.rtl = lang, lang.startswith("ar")
@@ -64,7 +65,7 @@ class EpisodeV2:
                                hide=[(tl.pause_start, tl.s("cta"))])
         self._finder = _Finder(self.words)
         self.duration = tl.duration
-        self.post = v2.Post(W, H)
+        self.post = v2.Post3(W, H) if self.LOOK == 3 else v2.Post(W, H)
         self.buf = None
         self.ui = {}                               # scratch: draw_<set> leaves screen positions here for ui_<set>
         self.cuts = [(-1e9, self.FIRST_SET, 0)]

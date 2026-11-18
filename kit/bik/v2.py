@@ -593,6 +593,14 @@ def soft_shadow(c, pts, a=0.45, blur=16, col="#1A1030"):
     c.drawPath(path, p)
 
 
+def drift_xform(t, d=1.0):
+    """Slow breathing camera of look 3 at video time t: (dx, dy, scale, degrees). EpisodeV2 applies it to the world
+    canvas (free); Post3(drift=1) applies it to the finished image instead (costs a resample)."""
+    return (d * (7 * math.sin(0.27 * t + 0.6) + 3 * math.sin(0.83 * t + 2.1)),
+            d * (6 * math.sin(0.21 * t + 1.3) + 2.5 * math.sin(0.67 * t)),
+            1.0 + 0.03 * d + 0.004 * d * math.sin(0.41 * t), d * 0.16 * math.sin(0.19 * t + 0.4))
+
+
 class Post3(Post):
     """Look 3 finishing pass: the world drawn with a slow breathing camera and a film grade (soft S-curve, lifted
     blacks, warm highlights / teal shadows, a touch less saturation), bloom with a warm halation, god rays from
@@ -648,9 +656,8 @@ class Post3(Post):
         lx, ly = self.light[0] * k, self.light[1] * k
         cv = rs.getCanvas()
         cv.clear(0xFF000000)
-        hp = skia.Paint()
-        hp.setColorFilter(self.high_r)
-        cv.drawImageRect(image, R(0, 0, W, H), R(0, 0, w, h), lin, hp)
+        b = self._bright                                   # the bloom's bright pass (1/4 size) is the ray source
+        cv.drawImageRect(b, R(0, 0, b.width(), b.height()), R(0, 0, w, h), lin)
         mp = skia.Paint()
         mp.setBlendMode(skia.BlendMode.kModulate)
         mp.setShader(skia.GradientShader.MakeRadial(skia.Point(lx, ly), H * 0.30 * k,
@@ -675,7 +682,6 @@ class Post3(Post):
         out.setBlendMode(PLUS)
         out.setAlphaf(clamp(self.rays))
         out.setColorFilter(self.ray_tint)
-        out.setImageFilter(skia.ImageFilters.Blur(1.2, 1.2))
         c.save()
         c.scale(W / w, H / h)
         c.drawImage(self.rbuf.makeImageSnapshot(), 0, 0, lin, out)
@@ -690,7 +696,7 @@ class Post3(Post):
             near = math.exp(-math.hypot(x - lx, y - ly) / 650.0)
             a = self.dust * b * (0.22 + 0.78 * near) * (0.65 + 0.35 * math.sin(2.1 * t + ph))
             if a > 0.01:
-                p = P(self.dust_col, clamp(a), blur=0.6)
+                p = P(self.dust_col, clamp(a))
                 p.setBlendMode(PLUS)
                 c.drawCircle(x, y, r, p)
         for x0, y0, r, b, ph in self.bokeh:
@@ -709,28 +715,31 @@ class Post3(Post):
         c.clear(0xFF000000)
         c.save()
         if self.drift:
-            d = self.drift
-            sc = 1.03 + 0.004 * d * math.sin(0.41 * t)
-            dx = d * (7 * math.sin(0.27 * t + 0.6) + 3 * math.sin(0.83 * t + 2.1))
-            dy = d * (6 * math.sin(0.21 * t + 1.3) + 2.5 * math.sin(0.67 * t))
+            dx, dy, sc, rot = drift_xform(t, self.drift)
             c.translate(W / 2 + dx, H / 2 + dy)
-            c.rotate(d * 0.16 * math.sin(0.19 * t + 0.4))
+            c.rotate(rot)
             c.scale(sc, sc)
             c.translate(-W / 2, -H / 2)
         gp = skia.Paint()
         gp.setColorFilter(self.grade)
         c.drawImage(image, 0, 0, lin, gp)
+        sc_ = self.small.getCanvas()                    # bright pass once at 1/4 size; smaller levels come from it
+        sc_.clear(0xFF000000)
+        hp = skia.Paint()
+        hp.setColorFilter(self.high)
+        sc_.drawImageRect(image, R(0, 0, W, H), R(0, 0, self.small.width(), self.small.height()), lin, hp)
+        self._bright = bright = self.small.makeImageSnapshot()
         for surf, sigma, gain, halo in ((self.small, 5.0, 0.55, False), (self.tiny, 4.0, 0.38, True),
                                         (self.huge, 3.0, 0.30, True)):
-            sc_ = surf.getCanvas()
+            sc_ = surf.getCanvas()                      # blur at low resolution, then scale up without a filter
             sc_.clear(0xFF000000)
-            hp = skia.Paint()
-            hp.setColorFilter(self.high)
-            sc_.drawImageRect(image, R(0, 0, W, H), R(0, 0, surf.width(), surf.height()), lin, hp)
+            fp = skia.Paint()
+            fp.setImageFilter(skia.ImageFilters.Blur(sigma, sigma))
+            sc_.drawImageRect(bright, R(0, 0, bright.width(), bright.height()), R(0, 0, surf.width(), surf.height()),
+                              lin, fp)
             bp = skia.Paint()
             bp.setBlendMode(PLUS)
             bp.setAlphaf(self.k_bloom * gain)
-            bp.setImageFilter(skia.ImageFilters.Blur(sigma, sigma))
             if halo:
                 bp.setColorFilter(self.halo)
             c.save()
