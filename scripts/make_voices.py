@@ -35,8 +35,9 @@ for lang in langs:
         print(f"{lang}: {vo} already exists, kept (FORCE=true to make it again)")
         continue
     eng = dict(VOICES.get(lang) or {})
-    if lang == "ar" and os.environ.get("VOICE_OVERRIDE", "").strip():         # try another ElevenLabs voice (samples)
-        eng.update(engine="eleven", voice=os.environ["VOICE_OVERRIDE"].strip())
+    override = os.environ.get("VOICE_OVERRIDE", "").strip()
+    if override and (lang == "ar" or kit.startswith("sample")):       # try another ElevenLabs voice (samples);
+        eng.update(engine="eleven", voice=override)                    # English only for sample kits
     if eng.get("engine") == "eleven":
         if not os.environ.get("ELEVENLABS_API_KEY"):
             sys.exit("voices.yml asks for ElevenLabs but the ELEVENLABS_API_KEY secret is not set")
