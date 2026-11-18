@@ -2,8 +2,8 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 64.74,
- "words": 231,
+ "duration": 64.93,
+ "words": 232,
  "words_per_sec": 3.57,
  "lines": [
   {
@@ -381,895 +381,900 @@
   {
    "line": 5,
    "start": 18.448,
-   "end": 21.76,
-   "text": "So you build two hollow gates that wait open in docks on the banks.",
+   "end": 22.0,
+   "text": "So you build two hollow gates that wait open in dry docks on the banks.",
    "words": [
     {
      "w": "So",
      "start": 18.558,
-     "end": 18.752
+     "end": 18.754
     },
     {
      "w": "you",
-     "start": 18.752,
-     "end": 18.945
+     "start": 18.754,
+     "end": 18.951
     },
     {
      "w": "build",
-     "start": 18.945,
-     "end": 19.139
+     "start": 18.951,
+     "end": 19.147
     },
     {
      "w": "two",
-     "start": 19.139,
-     "end": 19.332
+     "start": 19.147,
+     "end": 19.343
     },
     {
      "w": "hollow",
-     "start": 19.332,
-     "end": 19.669
+     "start": 19.343,
+     "end": 19.685
     },
     {
      "w": "gates",
-     "start": 19.669,
-     "end": 20.006
+     "start": 19.685,
+     "end": 20.026
     },
     {
      "w": "that",
-     "start": 20.006,
-     "end": 20.2
+     "start": 20.026,
+     "end": 20.223
     },
     {
      "w": "wait",
-     "start": 20.2,
-     "end": 20.393
+     "start": 20.223,
+     "end": 20.419
     },
     {
      "w": "open",
-     "start": 20.393,
-     "end": 20.73
+     "start": 20.419,
+     "end": 20.76
     },
     {
      "w": "in",
-     "start": 20.73,
-     "end": 20.924
+     "start": 20.76,
+     "end": 20.957
+    },
+    {
+     "w": "dry",
+     "start": 20.957,
+     "end": 21.153
     },
     {
      "w": "docks",
-     "start": 20.924,
-     "end": 21.117
+     "start": 21.153,
+     "end": 21.349
     },
     {
      "w": "on",
-     "start": 21.117,
-     "end": 21.311
+     "start": 21.349,
+     "end": 21.545
     },
     {
      "w": "the",
-     "start": 21.311,
-     "end": 21.504
+     "start": 21.545,
+     "end": 21.742
     },
     {
      "w": "banks.",
-     "start": 21.504,
-     "end": 21.698
+     "start": 21.742,
+     "end": 21.938
     }
    ]
   },
   {
    "line": 6,
-   "start": 22.125,
-   "end": 25.646,
+   "start": 22.365,
+   "end": 25.885,
    "text": "But each is heavier than a thousand elephants: no hinge can swing that.",
    "words": [
     {
      "w": "But",
-     "start": 22.255,
-     "end": 22.462
+     "start": 22.505,
+     "end": 22.711
     },
     {
      "w": "each",
-     "start": 22.462,
-     "end": 22.668
+     "start": 22.711,
+     "end": 22.917
     },
     {
      "w": "is",
-     "start": 22.668,
-     "end": 22.875
+     "start": 22.917,
+     "end": 23.123
     },
     {
      "w": "heavier",
-     "start": 22.875,
-     "end": 23.235
+     "start": 23.123,
+     "end": 23.482
     },
     {
      "w": "than",
-     "start": 23.235,
-     "end": 23.442
+     "start": 23.482,
+     "end": 23.688
     },
     {
      "w": "a",
-     "start": 23.442,
-     "end": 23.649
+     "start": 23.688,
+     "end": 23.894
     },
     {
      "w": "thousand",
-     "start": 23.649,
-     "end": 24.008
+     "start": 23.894,
+     "end": 24.253
     },
     {
      "w": "elephants:",
-     "start": 24.008,
-     "end": 24.521
+     "start": 24.253,
+     "end": 24.764
     },
     {
      "w": "no",
-     "start": 24.521,
-     "end": 24.728
+     "start": 24.764,
+     "end": 24.971
     },
     {
      "w": "hinge",
-     "start": 24.728,
-     "end": 24.935
+     "start": 24.971,
+     "end": 25.177
     },
     {
      "w": "can",
-     "start": 24.935,
-     "end": 25.142
+     "start": 25.177,
+     "end": 25.383
     },
     {
      "w": "swing",
-     "start": 25.142,
-     "end": 25.348
+     "start": 25.383,
+     "end": 25.589
     },
     {
      "w": "that.",
-     "start": 25.348,
-     "end": 25.555
+     "start": 25.589,
+     "end": 25.795
     }
    ]
   },
   {
    "line": 7,
-   "start": 26.01,
-   "end": 31.125,
+   "start": 26.25,
+   "end": 31.365,
    "text": "So you flood the docks, the gates float, and each swings out on a giant steel ball joint, like a shoulder.",
    "words": [
     {
      "w": "So",
-     "start": 26.12,
-     "end": 26.306
+     "start": 26.36,
+     "end": 26.546
     },
     {
      "w": "you",
-     "start": 26.306,
-     "end": 26.492
+     "start": 26.546,
+     "end": 26.732
     },
     {
      "w": "flood",
-     "start": 26.492,
-     "end": 26.678
+     "start": 26.732,
+     "end": 26.918
     },
     {
      "w": "the",
-     "start": 26.678,
-     "end": 26.864
+     "start": 26.918,
+     "end": 27.104
     },
     {
      "w": "docks,",
-     "start": 26.864,
-     "end": 27.05
+     "start": 27.104,
+     "end": 27.29
     },
     {
      "w": "the",
-     "start": 27.1,
-     "end": 27.351
+     "start": 27.34,
+     "end": 27.591
     },
     {
      "w": "gates",
-     "start": 27.351,
-     "end": 27.789
+     "start": 27.591,
+     "end": 28.029
     },
     {
      "w": "float,",
-     "start": 27.789,
-     "end": 28.04
+     "start": 28.029,
+     "end": 28.28
     },
     {
      "w": "and",
-     "start": 28.2,
-     "end": 28.415
+     "start": 28.45,
+     "end": 28.663
     },
     {
      "w": "each",
-     "start": 28.415,
-     "end": 28.63
+     "start": 28.663,
+     "end": 28.876
     },
     {
      "w": "swings",
-     "start": 28.63,
-     "end": 28.845
+     "start": 28.876,
+     "end": 29.089
     },
     {
      "w": "out",
-     "start": 28.845,
-     "end": 29.06
+     "start": 29.089,
+     "end": 29.302
     },
     {
      "w": "on",
-     "start": 29.06,
-     "end": 29.275
+     "start": 29.302,
+     "end": 29.515
     },
     {
      "w": "a",
-     "start": 29.275,
-     "end": 29.49
+     "start": 29.515,
+     "end": 29.728
     },
     {
      "w": "giant",
-     "start": 29.49,
-     "end": 29.705
+     "start": 29.728,
+     "end": 29.941
     },
     {
      "w": "steel",
-     "start": 29.705,
-     "end": 29.92
+     "start": 29.941,
+     "end": 30.154
     },
     {
      "w": "ball",
-     "start": 29.92,
-     "end": 30.135
+     "start": 30.154,
+     "end": 30.367
     },
     {
      "w": "joint,",
-     "start": 30.135,
-     "end": 30.35
+     "start": 30.367,
+     "end": 30.58
     },
     {
      "w": "like",
-     "start": 30.48,
-     "end": 30.638
+     "start": 30.72,
+     "end": 30.875
     },
     {
      "w": "a",
-     "start": 30.638,
-     "end": 30.795
+     "start": 30.875,
+     "end": 31.03
     },
     {
      "w": "shoulder.",
-     "start": 30.795,
-     "end": 31.07
+     "start": 31.03,
+     "end": 31.3
     }
    ]
   },
   {
    "line": 8,
-   "start": 31.49,
-   "end": 34.677,
+   "start": 31.729,
+   "end": 34.917,
    "text": "But a floating gate bobs on the waves, and the sea slips under it.",
    "words": [
     {
      "w": "But",
-     "start": 31.63,
-     "end": 31.822
+     "start": 31.869,
+     "end": 32.061
     },
     {
      "w": "a",
-     "start": 31.822,
-     "end": 32.014
+     "start": 32.061,
+     "end": 32.253
     },
     {
      "w": "floating",
-     "start": 32.014,
-     "end": 32.348
+     "start": 32.253,
+     "end": 32.587
     },
     {
      "w": "gate",
-     "start": 32.348,
-     "end": 32.54
+     "start": 32.587,
+     "end": 32.779
     },
     {
      "w": "bobs",
-     "start": 32.54,
-     "end": 32.732
+     "start": 32.779,
+     "end": 32.971
     },
     {
      "w": "on",
-     "start": 32.732,
-     "end": 32.924
+     "start": 32.971,
+     "end": 33.163
     },
     {
      "w": "the",
-     "start": 32.924,
-     "end": 33.116
+     "start": 33.163,
+     "end": 33.355
     },
     {
      "w": "waves,",
-     "start": 33.116,
-     "end": 33.45
+     "start": 33.355,
+     "end": 33.689
     },
     {
      "w": "and",
-     "start": 33.58,
-     "end": 33.731
+     "start": 33.809,
+     "end": 33.963
     },
     {
      "w": "the",
-     "start": 33.731,
-     "end": 33.883
+     "start": 33.963,
+     "end": 34.118
     },
     {
      "w": "sea",
-     "start": 33.883,
-     "end": 34.034
+     "start": 34.118,
+     "end": 34.272
     },
     {
      "w": "slips",
-     "start": 34.034,
-     "end": 34.185
+     "start": 34.272,
+     "end": 34.426
     },
     {
      "w": "under",
-     "start": 34.185,
-     "end": 34.449
+     "start": 34.426,
+     "end": 34.695
     },
     {
      "w": "it.",
-     "start": 34.449,
-     "end": 34.6
+     "start": 34.695,
+     "end": 34.849
     }
    ]
   },
   {
    "line": 9,
-   "start": 35.042,
-   "end": 40.146,
-   "text": "So when they meet, you let water in, and they sink to the riverbed: a steel wall twenty-two meters tall.",
+   "start": 35.281,
+   "end": 40.344,
+   "text": "So when they meet, you let water in, and they sink to the bottom: a steel wall twenty-two meters tall.",
    "words": [
     {
      "w": "So",
-     "start": 35.152,
-     "end": 35.327
+     "start": 35.391,
+     "end": 35.566
     },
     {
      "w": "when",
-     "start": 35.327,
-     "end": 35.502
+     "start": 35.566,
+     "end": 35.741
     },
     {
      "w": "they",
-     "start": 35.502,
-     "end": 35.677
+     "start": 35.741,
+     "end": 35.916
     },
     {
      "w": "meet,",
-     "start": 35.677,
-     "end": 35.852
+     "start": 35.916,
+     "end": 36.091
     },
     {
      "w": "you",
-     "start": 36.012,
-     "end": 36.206
+     "start": 36.251,
+     "end": 36.445
     },
     {
      "w": "let",
-     "start": 36.206,
-     "end": 36.4
+     "start": 36.445,
+     "end": 36.639
     },
     {
      "w": "water",
-     "start": 36.4,
-     "end": 36.738
+     "start": 36.639,
+     "end": 36.977
     },
     {
      "w": "in,",
-     "start": 36.738,
-     "end": 36.932
+     "start": 36.977,
+     "end": 37.171
     },
     {
      "w": "and",
-     "start": 37.092,
-     "end": 37.28
+     "start": 37.331,
+     "end": 37.529
     },
     {
      "w": "they",
-     "start": 37.28,
-     "end": 37.469
+     "start": 37.529,
+     "end": 37.727
     },
     {
      "w": "sink",
-     "start": 37.469,
-     "end": 37.657
+     "start": 37.727,
+     "end": 37.924
     },
     {
      "w": "to",
-     "start": 37.657,
-     "end": 37.846
+     "start": 37.924,
+     "end": 38.122
     },
     {
      "w": "the",
-     "start": 37.846,
-     "end": 38.034
+     "start": 38.122,
+     "end": 38.32
     },
     {
-     "w": "riverbed:",
-     "start": 38.034,
-     "end": 38.502
+     "w": "bottom:",
+     "start": 38.32,
+     "end": 38.664
     },
     {
      "w": "a",
-     "start": 38.552,
-     "end": 38.736
+     "start": 38.664,
+     "end": 38.862
     },
     {
      "w": "steel",
-     "start": 38.736,
-     "end": 38.919
+     "start": 38.862,
+     "end": 39.06
     },
     {
      "w": "wall",
-     "start": 38.919,
-     "end": 39.103
+     "start": 39.06,
+     "end": 39.258
     },
     {
      "w": "twenty-two",
-     "start": 39.103,
-     "end": 39.559
+     "start": 39.258,
+     "end": 39.749
     },
     {
      "w": "meters",
-     "start": 39.559,
-     "end": 39.878
+     "start": 39.749,
+     "end": 40.093
     },
     {
      "w": "tall.",
-     "start": 39.878,
-     "end": 40.062
+     "start": 40.093,
+     "end": 40.291
     }
    ]
   },
   {
    "line": 10,
-   "start": 40.51,
-   "end": 44.813,
+   "start": 40.708,
+   "end": 45.01,
    "text": "But before the storm hits, follow, because next we're building Venice on wooden piles.",
    "words": [
     {
      "w": "But",
-     "start": 40.65,
-     "end": 40.866
+     "start": 40.858,
+     "end": 41.072
     },
     {
      "w": "before",
-     "start": 40.866,
-     "end": 41.242
+     "start": 41.072,
+     "end": 41.445
     },
     {
      "w": "the",
-     "start": 41.242,
-     "end": 41.458
+     "start": 41.445,
+     "end": 41.659
     },
     {
      "w": "storm",
-     "start": 41.458,
-     "end": 41.674
+     "start": 41.659,
+     "end": 41.874
     },
     {
      "w": "hits,",
-     "start": 41.674,
-     "end": 41.89
+     "start": 41.874,
+     "end": 42.088
     },
     {
      "w": "follow,",
-     "start": 42.06,
-     "end": 42.39
+     "start": 42.258,
+     "end": 42.588
     },
     {
      "w": "because",
-     "start": 42.52,
-     "end": 42.852
+     "start": 42.708,
+     "end": 43.041
     },
     {
      "w": "next",
-     "start": 42.852,
-     "end": 43.042
-    },
-    {
-     "w": "we're",
-     "start": 43.042,
+     "start": 43.041,
      "end": 43.233
     },
     {
-     "w": "building",
+     "w": "we're",
      "start": 43.233,
-     "end": 43.564
+     "end": 43.424
+    },
+    {
+     "w": "building",
+     "start": 43.424,
+     "end": 43.757
     },
     {
      "w": "Venice",
-     "start": 43.564,
-     "end": 43.896
+     "start": 43.757,
+     "end": 44.09
     },
     {
      "w": "on",
-     "start": 43.896,
-     "end": 44.087
+     "start": 44.09,
+     "end": 44.282
     },
     {
      "w": "wooden",
-     "start": 44.087,
-     "end": 44.418
+     "start": 44.282,
+     "end": 44.615
     },
     {
      "w": "piles.",
-     "start": 44.418,
-     "end": 44.75
+     "start": 44.615,
+     "end": 44.948
     }
    ]
   },
   {
    "line": 11,
-   "start": 45.177,
-   "end": 49.719,
+   "start": 45.375,
+   "end": 49.917,
    "text": "Now hand the button to a computer: if the sea will rise three meters, it closes by itself.",
    "words": [
     {
      "w": "Now",
-     "start": 45.287,
-     "end": 45.471
+     "start": 45.475,
+     "end": 45.66
     },
     {
      "w": "hand",
-     "start": 45.471,
-     "end": 45.656
+     "start": 45.66,
+     "end": 45.846
     },
     {
      "w": "the",
-     "start": 45.656,
-     "end": 45.84
+     "start": 45.846,
+     "end": 46.031
     },
     {
      "w": "button",
-     "start": 45.84,
-     "end": 46.161
+     "start": 46.031,
+     "end": 46.354
     },
     {
      "w": "to",
-     "start": 46.161,
-     "end": 46.345
+     "start": 46.354,
+     "end": 46.539
     },
     {
      "w": "a",
-     "start": 46.345,
-     "end": 46.53
+     "start": 46.539,
+     "end": 46.725
     },
     {
      "w": "computer:",
-     "start": 46.53,
-     "end": 46.987
+     "start": 46.725,
+     "end": 47.185
     },
     {
      "w": "if",
-     "start": 47.047,
-     "end": 47.23
+     "start": 47.245,
+     "end": 47.427
     },
     {
      "w": "the",
-     "start": 47.23,
-     "end": 47.414
+     "start": 47.427,
+     "end": 47.609
     },
     {
      "w": "sea",
-     "start": 47.414,
-     "end": 47.597
+     "start": 47.609,
+     "end": 47.791
     },
     {
      "w": "will",
-     "start": 47.597,
-     "end": 47.781
+     "start": 47.791,
+     "end": 47.974
     },
     {
      "w": "rise",
-     "start": 47.781,
-     "end": 47.964
+     "start": 47.974,
+     "end": 48.156
     },
     {
      "w": "three",
-     "start": 47.964,
-     "end": 48.148
+     "start": 48.156,
+     "end": 48.338
     },
     {
      "w": "meters,",
-     "start": 48.148,
-     "end": 48.467
+     "start": 48.338,
+     "end": 48.655
     },
     {
      "w": "it",
-     "start": 48.587,
-     "end": 48.771
+     "start": 48.785,
+     "end": 48.969
     },
     {
      "w": "closes",
-     "start": 48.771,
-     "end": 49.092
+     "start": 48.969,
+     "end": 49.29
     },
     {
      "w": "by",
-     "start": 49.092,
-     "end": 49.276
+     "start": 49.29,
+     "end": 49.474
     },
     {
      "w": "itself.",
-     "start": 49.276,
-     "end": 49.597
+     "start": 49.474,
+     "end": 49.795
     }
    ]
   },
   {
    "line": 12,
-   "start": 50.083,
-   "end": 55.677,
-   "text": "Six thousand eight hundred tonnes an arm, ten-meter ball joints, and ten years of waiting for its first real storm.",
+   "start": 50.281,
+   "end": 55.865,
+   "text": "Six thousand eight hundred tonnes per arm, ten-meter ball joints, and ten years of waiting for its first real storm.",
    "words": [
     {
      "w": "Six",
-     "start": 50.183,
-     "end": 50.389
+     "start": 50.381,
+     "end": 50.594
     },
     {
      "w": "thousand",
-     "start": 50.389,
-     "end": 50.748
+     "start": 50.594,
+     "end": 50.963
     },
     {
      "w": "eight",
-     "start": 50.748,
-     "end": 50.954
+     "start": 50.963,
+     "end": 51.176
     },
     {
      "w": "hundred",
-     "start": 50.954,
-     "end": 51.312
+     "start": 51.176,
+     "end": 51.546
     },
     {
      "w": "tonnes",
-     "start": 51.312,
-     "end": 51.671
+     "start": 51.546,
+     "end": 51.916
     },
     {
-     "w": "an",
-     "start": 51.671,
-     "end": 51.877
+     "w": "per",
+     "start": 51.916,
+     "end": 52.128
     },
     {
      "w": "arm,",
-     "start": 51.877,
-     "end": 52.083
+     "start": 52.128,
+     "end": 52.341
     },
     {
      "w": "ten-meter",
-     "start": 52.263,
-     "end": 52.855
+     "start": 52.501,
+     "end": 53.077
     },
     {
      "w": "ball",
-     "start": 52.855,
-     "end": 53.094
+     "start": 53.077,
+     "end": 53.309
     },
     {
      "w": "joints,",
-     "start": 53.094,
-     "end": 53.333
+     "start": 53.309,
+     "end": 53.541
     },
     {
      "w": "and",
-     "start": 53.463,
-     "end": 53.661
+     "start": 53.651,
+     "end": 53.849
     },
     {
      "w": "ten",
-     "start": 53.661,
-     "end": 53.86
+     "start": 53.849,
+     "end": 54.048
     },
     {
      "w": "years",
-     "start": 53.86,
-     "end": 54.058
+     "start": 54.048,
+     "end": 54.246
     },
     {
      "w": "of",
-     "start": 54.058,
-     "end": 54.256
+     "start": 54.246,
+     "end": 54.444
     },
     {
      "w": "waiting",
-     "start": 54.256,
-     "end": 54.601
+     "start": 54.444,
+     "end": 54.789
     },
     {
      "w": "for",
-     "start": 54.601,
-     "end": 54.8
+     "start": 54.789,
+     "end": 54.988
     },
     {
      "w": "its",
-     "start": 54.8,
-     "end": 54.998
+     "start": 54.988,
+     "end": 55.186
     },
     {
      "w": "first",
-     "start": 54.998,
-     "end": 55.196
+     "start": 55.186,
+     "end": 55.384
     },
     {
      "w": "real",
-     "start": 55.196,
-     "end": 55.395
+     "start": 55.384,
+     "end": 55.583
     },
     {
      "w": "storm.",
-     "start": 55.395,
-     "end": 55.593
+     "start": 55.583,
+     "end": 55.781
     }
    ]
   },
   {
    "line": 13,
-   "start": 56.042,
-   "end": 59.198,
+   "start": 56.229,
+   "end": 59.385,
    "text": "And congrats, you just built the Dutch storm barrier yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.162,
-     "end": 56.421
+     "start": 56.349,
+     "end": 56.608
     },
     {
      "w": "congrats,",
-     "start": 56.421,
-     "end": 56.872
+     "start": 56.608,
+     "end": 57.059
     },
     {
      "w": "you",
-     "start": 57.012,
-     "end": 57.229
+     "start": 57.199,
+     "end": 57.416
     },
     {
      "w": "just",
-     "start": 57.229,
-     "end": 57.447
+     "start": 57.416,
+     "end": 57.634
     },
     {
      "w": "built",
-     "start": 57.447,
-     "end": 57.664
+     "start": 57.634,
+     "end": 57.851
     },
     {
      "w": "the",
-     "start": 57.664,
-     "end": 57.881
+     "start": 57.851,
+     "end": 58.068
     },
     {
      "w": "Dutch",
-     "start": 57.881,
-     "end": 58.098
+     "start": 58.068,
+     "end": 58.285
     },
     {
      "w": "storm",
-     "start": 58.098,
-     "end": 58.316
+     "start": 58.285,
+     "end": 58.503
     },
     {
      "w": "barrier",
-     "start": 58.316,
-     "end": 58.694
+     "start": 58.503,
+     "end": 58.881
     },
     {
      "w": "yourself.",
-     "start": 58.694,
-     "end": 59.072
+     "start": 58.881,
+     "end": 59.259
     }
    ]
   },
   {
    "line": 14,
-   "start": 59.562,
-   "end": 64.75,
+   "start": 59.75,
+   "end": 64.938,
    "text": "And in a storm, the Dutch race old bikes straight into it, on a storm barrier: the headwind championship.",
    "words": [
     {
      "w": "And",
-     "start": 59.692,
-     "end": 59.874
+     "start": 59.88,
+     "end": 60.062
     },
     {
      "w": "in",
-     "start": 59.874,
-     "end": 60.057
+     "start": 60.062,
+     "end": 60.245
     },
     {
      "w": "a",
-     "start": 60.057,
-     "end": 60.24
+     "start": 60.245,
+     "end": 60.428
     },
     {
      "w": "storm,",
-     "start": 60.24,
-     "end": 60.422
+     "start": 60.428,
+     "end": 60.61
     },
     {
      "w": "the",
-     "start": 60.602,
-     "end": 60.788
+     "start": 60.79,
+     "end": 60.977
     },
     {
      "w": "Dutch",
-     "start": 60.788,
-     "end": 60.973
+     "start": 60.977,
+     "end": 61.163
     },
     {
      "w": "race",
-     "start": 60.973,
-     "end": 61.159
+     "start": 61.163,
+     "end": 61.35
     },
     {
      "w": "old",
-     "start": 61.159,
-     "end": 61.344
+     "start": 61.35,
+     "end": 61.537
     },
     {
      "w": "bikes",
-     "start": 61.344,
-     "end": 61.668
+     "start": 61.537,
+     "end": 61.862
     },
     {
      "w": "straight",
-     "start": 61.668,
-     "end": 61.853
+     "start": 61.862,
+     "end": 62.048
     },
     {
      "w": "into",
-     "start": 61.853,
-     "end": 62.176
+     "start": 62.048,
+     "end": 62.373
     },
     {
      "w": "it,",
-     "start": 62.176,
-     "end": 62.362
+     "start": 62.373,
+     "end": 62.56
     },
     {
      "w": "on",
-     "start": 62.492,
-     "end": 62.69
+     "start": 62.68,
+     "end": 62.878
     },
     {
      "w": "a",
-     "start": 62.69,
-     "end": 62.889
+     "start": 62.878,
+     "end": 63.077
     },
     {
      "w": "storm",
-     "start": 62.889,
-     "end": 63.087
+     "start": 63.077,
+     "end": 63.275
     },
     {
      "w": "barrier:",
-     "start": 63.087,
-     "end": 63.432
+     "start": 63.275,
+     "end": 63.62
     },
     {
      "w": "the",
-     "start": 63.592,
-     "end": 63.793
+     "start": 63.78,
+     "end": 63.981
     },
     {
      "w": "headwind",
-     "start": 63.793,
-     "end": 64.143
+     "start": 63.981,
+     "end": 64.331
     },
     {
      "w": "championship.",
-     "start": 64.143,
-     "end": 64.642
+     "start": 64.331,
+     "end": 64.83
     }
    ]
   }
