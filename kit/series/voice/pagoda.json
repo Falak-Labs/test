@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 69.33,
- "words": 232,
- "words_per_sec": 3.35,
+ "duration": 65.68,
+ "words": 219,
+ "words_per_sec": 3.33,
  "lines": [
   {
    "line": 1,
@@ -230,1051 +230,986 @@
   {
    "line": 3,
    "start": 11.948,
-   "end": 17.74,
-   "text": "So you build it from wood that bends and springs back, almost no nails, just a thousand joints that twist and rub.",
+   "end": 17.031,
+   "text": "So you build it from wood that bends, with almost no nails: a thousand joints that twist and rub.",
    "words": [
     {
      "w": "So",
      "start": 12.058,
-     "end": 12.284
+     "end": 12.274
     },
     {
      "w": "you",
-     "start": 12.284,
-     "end": 12.511
+     "start": 12.274,
+     "end": 12.49
     },
     {
      "w": "build",
-     "start": 12.511,
-     "end": 12.737
+     "start": 12.49,
+     "end": 12.707
     },
     {
      "w": "it",
-     "start": 12.737,
-     "end": 12.963
+     "start": 12.707,
+     "end": 12.923
     },
     {
      "w": "from",
-     "start": 12.963,
-     "end": 13.19
+     "start": 12.923,
+     "end": 13.139
     },
     {
      "w": "wood",
-     "start": 13.19,
-     "end": 13.416
+     "start": 13.139,
+     "end": 13.356
     },
     {
      "w": "that",
-     "start": 13.416,
-     "end": 13.643
+     "start": 13.356,
+     "end": 13.572
     },
     {
-     "w": "bends",
-     "start": 13.643,
-     "end": 13.869
+     "w": "bends,",
+     "start": 13.572,
+     "end": 13.788
     },
     {
-     "w": "and",
-     "start": 13.869,
-     "end": 14.095
-    },
-    {
-     "w": "springs",
-     "start": 14.095,
-     "end": 14.322
-    },
-    {
-     "w": "back,",
-     "start": 14.322,
-     "end": 14.548
+     "w": "with",
+     "start": 13.928,
+     "end": 14.175
     },
     {
      "w": "almost",
-     "start": 14.668,
-     "end": 15.11
+     "start": 14.175,
+     "end": 14.604
     },
     {
      "w": "no",
-     "start": 15.11,
-     "end": 15.364
+     "start": 14.604,
+     "end": 14.851
     },
     {
-     "w": "nails,",
-     "start": 15.364,
-     "end": 15.618
-    },
-    {
-     "w": "just",
-     "start": 15.748,
-     "end": 15.965
+     "w": "nails:",
+     "start": 14.851,
+     "end": 15.098
     },
     {
      "w": "a",
-     "start": 15.965,
-     "end": 16.183
+     "start": 15.228,
+     "end": 15.451
     },
     {
      "w": "thousand",
-     "start": 16.183,
-     "end": 16.561
+     "start": 15.451,
+     "end": 15.841
     },
     {
      "w": "joints",
-     "start": 16.561,
-     "end": 16.779
+     "start": 15.841,
+     "end": 16.064
     },
     {
      "w": "that",
-     "start": 16.779,
-     "end": 16.996
+     "start": 16.064,
+     "end": 16.288
     },
     {
      "w": "twist",
-     "start": 16.996,
-     "end": 17.213
+     "start": 16.288,
+     "end": 16.511
     },
     {
      "w": "and",
-     "start": 17.213,
-     "end": 17.431
+     "start": 16.511,
+     "end": 16.735
     },
     {
      "w": "rub.",
-     "start": 17.431,
-     "end": 17.648
+     "start": 16.735,
+     "end": 16.958
     }
    ]
   },
   {
    "line": 4,
-   "start": 18.104,
-   "end": 20.823,
+   "start": 17.396,
+   "end": 20.115,
    "text": "But a tall tower whips at the top like a fishing rod.",
    "words": [
     {
      "w": "But",
-     "start": 18.244,
-     "end": 18.431
+     "start": 17.536,
+     "end": 17.723
     },
     {
      "w": "a",
-     "start": 18.431,
-     "end": 18.618
+     "start": 17.723,
+     "end": 17.91
     },
     {
      "w": "tall",
-     "start": 18.618,
-     "end": 18.805
+     "start": 17.91,
+     "end": 18.097
     },
     {
      "w": "tower",
-     "start": 18.805,
-     "end": 19.13
+     "start": 18.097,
+     "end": 18.422
     },
     {
      "w": "whips",
-     "start": 19.13,
-     "end": 19.317
+     "start": 18.422,
+     "end": 18.609
     },
     {
      "w": "at",
-     "start": 19.317,
-     "end": 19.504
+     "start": 18.609,
+     "end": 18.796
     },
     {
      "w": "the",
-     "start": 19.504,
-     "end": 19.691
+     "start": 18.796,
+     "end": 18.983
     },
     {
      "w": "top",
-     "start": 19.691,
-     "end": 19.878
+     "start": 18.983,
+     "end": 19.17
     },
     {
      "w": "like",
-     "start": 19.878,
-     "end": 20.065
+     "start": 19.17,
+     "end": 19.357
     },
     {
      "w": "a",
-     "start": 20.065,
-     "end": 20.252
+     "start": 19.357,
+     "end": 19.544
     },
     {
      "w": "fishing",
-     "start": 20.252,
-     "end": 20.577
+     "start": 19.544,
+     "end": 19.869
     },
     {
      "w": "rod.",
-     "start": 20.577,
-     "end": 20.764
+     "start": 19.869,
+     "end": 20.056
     }
    ]
   },
   {
    "line": 5,
-   "start": 21.188,
-   "end": 25.969,
+   "start": 20.479,
+   "end": 25.26,
    "text": "So you don't lock the floors together: you stack five boxes, each swaying opposite to the next.",
    "words": [
     {
      "w": "So",
-     "start": 21.298,
-     "end": 21.542
+     "start": 20.589,
+     "end": 20.833
     },
     {
      "w": "you",
-     "start": 21.542,
-     "end": 21.786
+     "start": 20.833,
+     "end": 21.077
     },
     {
      "w": "don't",
-     "start": 21.786,
-     "end": 22.03
+     "start": 21.077,
+     "end": 21.321
     },
     {
      "w": "lock",
-     "start": 22.03,
-     "end": 22.274
+     "start": 21.321,
+     "end": 21.565
     },
     {
      "w": "the",
-     "start": 22.274,
-     "end": 22.518
+     "start": 21.565,
+     "end": 21.809
     },
     {
      "w": "floors",
-     "start": 22.518,
-     "end": 22.762
+     "start": 21.809,
+     "end": 22.053
     },
     {
      "w": "together:",
-     "start": 22.762,
-     "end": 23.368
+     "start": 22.053,
+     "end": 22.659
     },
     {
      "w": "you",
-     "start": 23.498,
-     "end": 23.656
+     "start": 22.789,
+     "end": 22.949
     },
     {
      "w": "stack",
-     "start": 23.656,
-     "end": 23.814
+     "start": 22.949,
+     "end": 23.11
     },
     {
      "w": "five",
-     "start": 23.814,
-     "end": 23.973
+     "start": 23.11,
+     "end": 23.27
     },
     {
      "w": "boxes,",
-     "start": 23.973,
-     "end": 24.248
+     "start": 23.27,
+     "end": 23.549
     },
     {
      "w": "each",
-     "start": 24.398,
-     "end": 24.592
+     "start": 23.679,
+     "end": 23.875
     },
     {
      "w": "swaying",
-     "start": 24.592,
-     "end": 24.786
+     "start": 23.875,
+     "end": 24.072
     },
     {
      "w": "opposite",
-     "start": 24.786,
-     "end": 25.267
+     "start": 24.072,
+     "end": 24.56
     },
     {
      "w": "to",
-     "start": 25.267,
-     "end": 25.46
+     "start": 24.56,
+     "end": 24.756
     },
     {
      "w": "the",
-     "start": 25.46,
-     "end": 25.654
+     "start": 24.756,
+     "end": 24.953
     },
     {
      "w": "next.",
-     "start": 25.654,
-     "end": 25.848
+     "start": 24.953,
+     "end": 25.149
     }
    ]
   },
   {
    "line": 6,
-   "start": 26.333,
-   "end": 29.0,
+   "start": 25.625,
+   "end": 28.292,
    "text": "But if one floor swings too far, it slides off.",
    "words": [
     {
      "w": "But",
-     "start": 26.473,
-     "end": 26.706
+     "start": 25.765,
+     "end": 25.998
     },
     {
      "w": "if",
-     "start": 26.706,
-     "end": 26.939
+     "start": 25.998,
+     "end": 26.231
     },
     {
      "w": "one",
-     "start": 26.939,
-     "end": 27.172
+     "start": 26.231,
+     "end": 26.464
     },
     {
      "w": "floor",
-     "start": 27.172,
-     "end": 27.404
+     "start": 26.464,
+     "end": 26.696
     },
     {
      "w": "swings",
-     "start": 27.404,
-     "end": 27.637
+     "start": 26.696,
+     "end": 26.929
     },
     {
      "w": "too",
-     "start": 27.637,
-     "end": 27.87
+     "start": 26.929,
+     "end": 27.162
     },
     {
      "w": "far,",
-     "start": 27.87,
-     "end": 28.103
+     "start": 27.162,
+     "end": 27.395
     },
     {
      "w": "it",
-     "start": 28.253,
-     "end": 28.424
+     "start": 27.545,
+     "end": 27.716
     },
     {
      "w": "slides",
-     "start": 28.424,
-     "end": 28.722
+     "start": 27.716,
+     "end": 28.014
     },
     {
      "w": "off.",
-     "start": 28.722,
-     "end": 28.893
+     "start": 28.014,
+     "end": 28.185
     }
    ]
   },
   {
    "line": 7,
-   "start": 29.365,
-   "end": 34.292,
+   "start": 28.656,
+   "end": 33.583,
    "text": "So you run a giant tree trunk up the middle, and a floor that swings too far bumps it and comes back.",
    "words": [
     {
      "w": "So",
-     "start": 29.475,
-     "end": 29.673
+     "start": 28.766,
+     "end": 28.964
     },
     {
      "w": "you",
-     "start": 29.673,
-     "end": 29.871
+     "start": 28.964,
+     "end": 29.162
     },
     {
      "w": "run",
-     "start": 29.871,
-     "end": 30.069
+     "start": 29.162,
+     "end": 29.36
     },
     {
      "w": "a",
-     "start": 30.069,
-     "end": 30.267
+     "start": 29.36,
+     "end": 29.558
     },
     {
      "w": "giant",
-     "start": 30.267,
-     "end": 30.465
+     "start": 29.558,
+     "end": 29.756
     },
     {
      "w": "tree",
-     "start": 30.465,
-     "end": 30.663
+     "start": 29.756,
+     "end": 29.954
     },
     {
      "w": "trunk",
-     "start": 30.663,
-     "end": 30.861
+     "start": 29.954,
+     "end": 30.152
     },
     {
      "w": "up",
-     "start": 30.861,
-     "end": 31.059
+     "start": 30.152,
+     "end": 30.35
     },
     {
      "w": "the",
-     "start": 31.059,
-     "end": 31.257
+     "start": 30.35,
+     "end": 30.548
     },
     {
      "w": "middle,",
-     "start": 31.257,
-     "end": 31.455
+     "start": 30.548,
+     "end": 30.746
     },
     {
      "w": "and",
-     "start": 31.615,
-     "end": 31.816
+     "start": 30.906,
+     "end": 31.107
     },
     {
      "w": "a",
-     "start": 31.816,
-     "end": 32.017
+     "start": 31.107,
+     "end": 31.308
     },
     {
      "w": "floor",
-     "start": 32.017,
-     "end": 32.218
+     "start": 31.308,
+     "end": 31.509
     },
     {
      "w": "that",
-     "start": 32.218,
-     "end": 32.419
+     "start": 31.509,
+     "end": 31.71
     },
     {
      "w": "swings",
-     "start": 32.419,
-     "end": 32.62
+     "start": 31.71,
+     "end": 31.911
     },
     {
      "w": "too",
-     "start": 32.62,
-     "end": 32.821
+     "start": 31.911,
+     "end": 32.112
     },
     {
      "w": "far",
-     "start": 32.821,
-     "end": 33.022
+     "start": 32.112,
+     "end": 32.313
     },
     {
      "w": "bumps",
-     "start": 33.022,
-     "end": 33.222
+     "start": 32.313,
+     "end": 32.513
     },
     {
      "w": "it",
-     "start": 33.222,
-     "end": 33.423
+     "start": 32.513,
+     "end": 32.714
     },
     {
      "w": "and",
-     "start": 33.423,
-     "end": 33.624
+     "start": 32.714,
+     "end": 32.915
     },
     {
      "w": "comes",
-     "start": 33.624,
-     "end": 33.974
+     "start": 32.915,
+     "end": 33.265
     },
     {
      "w": "back.",
-     "start": 33.974,
-     "end": 34.175
+     "start": 33.265,
+     "end": 33.466
     }
    ]
   },
   {
    "line": 8,
-   "start": 34.656,
-   "end": 36.646,
+   "start": 33.948,
+   "end": 35.938,
    "text": "But rain and snow rot wooden walls.",
    "words": [
     {
      "w": "But",
-     "start": 34.786,
-     "end": 35.017
+     "start": 34.078,
+     "end": 34.309
     },
     {
      "w": "rain",
-     "start": 35.017,
-     "end": 35.248
+     "start": 34.309,
+     "end": 34.54
     },
     {
      "w": "and",
-     "start": 35.248,
-     "end": 35.48
+     "start": 34.54,
+     "end": 34.772
     },
     {
      "w": "snow",
-     "start": 35.48,
-     "end": 35.711
+     "start": 34.772,
+     "end": 35.003
     },
     {
      "w": "rot",
-     "start": 35.711,
-     "end": 35.942
+     "start": 35.003,
+     "end": 35.234
     },
     {
      "w": "wooden",
-     "start": 35.942,
-     "end": 36.345
+     "start": 35.234,
+     "end": 35.637
     },
     {
      "w": "walls.",
-     "start": 36.345,
-     "end": 36.576
+     "start": 35.637,
+     "end": 35.868
     }
    ]
   },
   {
    "line": 9,
-   "start": 37.01,
-   "end": 42.812,
-   "text": "So every roof gets wide eaves that keep the walls dry, and their weight steadies the tower like a tightrope walker's pole.",
+   "start": 36.302,
+   "end": 41.802,
+   "text": "So every roof gets wide eaves: they keep the walls dry, and steady the tower like a tightrope walker's pole.",
    "words": [
     {
      "w": "So",
-     "start": 37.12,
-     "end": 37.327
+     "start": 36.412,
+     "end": 36.614
     },
     {
      "w": "every",
-     "start": 37.327,
-     "end": 37.842
+     "start": 36.614,
+     "end": 37.115
     },
     {
      "w": "roof",
-     "start": 37.842,
-     "end": 38.05
+     "start": 37.115,
+     "end": 37.317
     },
     {
      "w": "gets",
-     "start": 38.05,
-     "end": 38.257
+     "start": 37.317,
+     "end": 37.519
     },
     {
      "w": "wide",
-     "start": 38.257,
-     "end": 38.465
+     "start": 37.519,
+     "end": 37.721
     },
     {
-     "w": "eaves",
-     "start": 38.465,
-     "end": 38.826
+     "w": "eaves:",
+     "start": 37.721,
+     "end": 38.072
     },
     {
-     "w": "that",
-     "start": 38.826,
-     "end": 39.033
+     "w": "they",
+     "start": 38.202,
+     "end": 38.434
     },
     {
      "w": "keep",
-     "start": 39.033,
-     "end": 39.241
+     "start": 38.434,
+     "end": 38.666
     },
     {
      "w": "the",
-     "start": 39.241,
-     "end": 39.448
+     "start": 38.666,
+     "end": 38.898
     },
     {
      "w": "walls",
-     "start": 39.448,
-     "end": 39.656
+     "start": 38.898,
+     "end": 39.13
     },
     {
      "w": "dry,",
-     "start": 39.656,
-     "end": 39.863
+     "start": 39.13,
+     "end": 39.362
     },
     {
      "w": "and",
-     "start": 39.863,
-     "end": 40.071
+     "start": 39.482,
+     "end": 39.671
     },
     {
-     "w": "their",
-     "start": 40.071,
-     "end": 40.278
-    },
-    {
-     "w": "weight",
-     "start": 40.278,
-     "end": 40.486
-    },
-    {
-     "w": "steadies",
-     "start": 40.486,
-     "end": 40.847
+     "w": "steady",
+     "start": 39.671,
+     "end": 40.0
     },
     {
      "w": "the",
-     "start": 40.847,
-     "end": 41.054
+     "start": 40.0,
+     "end": 40.189
     },
     {
      "w": "tower",
-     "start": 41.054,
-     "end": 41.415
+     "start": 40.189,
+     "end": 40.518
     },
     {
      "w": "like",
-     "start": 41.415,
-     "end": 41.623
+     "start": 40.518,
+     "end": 40.706
     },
     {
      "w": "a",
-     "start": 41.623,
-     "end": 41.83
+     "start": 40.706,
+     "end": 40.895
     },
     {
      "w": "tightrope",
-     "start": 41.83,
-     "end": 42.191
+     "start": 40.895,
+     "end": 41.224
     },
     {
      "w": "walker's",
-     "start": 42.191,
-     "end": 42.553
+     "start": 41.224,
+     "end": 41.553
     },
     {
      "w": "pole.",
-     "start": 42.553,
-     "end": 42.76
+     "start": 41.553,
+     "end": 41.742
     }
    ]
   },
   {
    "line": 10,
-   "start": 43.177,
-   "end": 47.5,
+   "start": 42.167,
+   "end": 46.49,
    "text": "But before the ground shakes, follow, because next we're building the Panama Canal locks.",
    "words": [
     {
      "w": "But",
-     "start": 43.317,
-     "end": 43.511
+     "start": 42.307,
+     "end": 42.501
     },
     {
      "w": "before",
-     "start": 43.511,
-     "end": 43.85
+     "start": 42.501,
+     "end": 42.84
     },
     {
      "w": "the",
-     "start": 43.85,
-     "end": 44.044
+     "start": 42.84,
+     "end": 43.034
     },
     {
      "w": "ground",
-     "start": 44.044,
-     "end": 44.239
+     "start": 43.034,
+     "end": 43.229
     },
     {
      "w": "shakes,",
-     "start": 44.239,
-     "end": 44.577
+     "start": 43.229,
+     "end": 43.567
     },
     {
      "w": "follow,",
-     "start": 44.727,
-     "end": 45.037
+     "start": 43.717,
+     "end": 44.037
     },
     {
      "w": "because",
-     "start": 45.167,
-     "end": 45.503
+     "start": 44.157,
+     "end": 44.493
     },
     {
      "w": "next",
-     "start": 45.503,
-     "end": 45.696
+     "start": 44.493,
+     "end": 44.686
     },
     {
      "w": "we're",
-     "start": 45.696,
-     "end": 45.889
+     "start": 44.686,
+     "end": 44.879
     },
     {
      "w": "building",
-     "start": 45.889,
-     "end": 46.225
+     "start": 44.879,
+     "end": 45.215
     },
     {
      "w": "the",
-     "start": 46.225,
-     "end": 46.419
+     "start": 45.215,
+     "end": 45.409
     },
     {
      "w": "Panama",
-     "start": 46.419,
-     "end": 46.898
+     "start": 45.409,
+     "end": 45.888
     },
     {
      "w": "Canal",
-     "start": 46.898,
-     "end": 47.234
+     "start": 45.888,
+     "end": 46.224
     },
     {
      "w": "locks.",
-     "start": 47.234,
-     "end": 47.427
+     "start": 46.224,
+     "end": 46.417
     }
    ]
   },
   {
    "line": 11,
-   "start": 47.865,
-   "end": 53.927,
-   "text": "Now just paint it red, top it with nine bronze rings, and wait thirteen centuries for Tokyo Skytree to copy your idea.",
+   "start": 46.854,
+   "end": 51.375,
+   "text": "Now just paint it red, and wait thirteen centuries for Tokyo Skytree to copy your idea.",
    "words": [
     {
      "w": "Now",
-     "start": 47.975,
-     "end": 48.189
+     "start": 46.964,
+     "end": 47.176
     },
     {
      "w": "just",
-     "start": 48.189,
-     "end": 48.403
+     "start": 47.176,
+     "end": 47.388
     },
     {
      "w": "paint",
-     "start": 48.403,
-     "end": 48.617
+     "start": 47.388,
+     "end": 47.6
     },
     {
      "w": "it",
-     "start": 48.617,
-     "end": 48.831
+     "start": 47.6,
+     "end": 47.812
     },
     {
      "w": "red,",
-     "start": 48.831,
-     "end": 49.045
-    },
-    {
-     "w": "top",
-     "start": 49.185,
-     "end": 49.404
-    },
-    {
-     "w": "it",
-     "start": 49.404,
-     "end": 49.623
-    },
-    {
-     "w": "with",
-     "start": 49.623,
-     "end": 49.843
-    },
-    {
-     "w": "nine",
-     "start": 49.843,
-     "end": 50.062
-    },
-    {
-     "w": "bronze",
-     "start": 50.062,
-     "end": 50.281
-    },
-    {
-     "w": "rings,",
-     "start": 50.281,
-     "end": 50.5
+     "start": 47.812,
+     "end": 48.024
     },
     {
      "w": "and",
-     "start": 50.5,
-     "end": 50.719
+     "start": 48.164,
+     "end": 48.367
     },
     {
      "w": "wait",
-     "start": 50.719,
-     "end": 50.938
+     "start": 48.367,
+     "end": 48.571
     },
     {
      "w": "thirteen",
-     "start": 50.938,
-     "end": 51.32
+     "start": 48.571,
+     "end": 48.925
     },
     {
      "w": "centuries",
-     "start": 51.32,
-     "end": 51.864
+     "start": 48.925,
+     "end": 49.429
     },
     {
      "w": "for",
-     "start": 51.864,
-     "end": 52.083
+     "start": 49.429,
+     "end": 49.632
     },
     {
      "w": "Tokyo",
-     "start": 52.083,
-     "end": 52.464
+     "start": 49.632,
+     "end": 49.986
     },
     {
      "w": "Skytree",
-     "start": 52.464,
-     "end": 52.684
+     "start": 49.986,
+     "end": 50.19
     },
     {
      "w": "to",
-     "start": 52.684,
-     "end": 52.903
+     "start": 50.19,
+     "end": 50.393
     },
     {
      "w": "copy",
-     "start": 52.903,
-     "end": 53.284
+     "start": 50.393,
+     "end": 50.747
     },
     {
      "w": "your",
-     "start": 53.284,
-     "end": 53.503
+     "start": 50.747,
+     "end": 50.95
     },
     {
      "w": "idea.",
-     "start": 53.503,
-     "end": 53.885
+     "start": 50.95,
+     "end": 51.304
     }
    ]
   },
   {
    "line": 12,
-   "start": 54.292,
-   "end": 60.406,
-   "text": "Thirteen hundred years at Horyu-ji, a thousand joints, and only two pagodas lost to earthquakes in fourteen centuries.",
+   "start": 51.74,
+   "end": 56.74,
+   "text": "Thirteen hundred years old, a thousand joints, and only two lost to earthquakes in fourteen centuries.",
    "words": [
     {
      "w": "Thirteen",
-     "start": 54.402,
-     "end": 54.778
+     "start": 51.85,
+     "end": 52.202
     },
     {
      "w": "hundred",
-     "start": 54.778,
-     "end": 55.154
+     "start": 52.202,
+     "end": 52.555
     },
     {
      "w": "years",
-     "start": 55.154,
-     "end": 55.37
+     "start": 52.555,
+     "end": 52.758
     },
     {
-     "w": "at",
-     "start": 55.37,
-     "end": 55.586
-    },
-    {
-     "w": "Horyu-ji,",
-     "start": 55.586,
-     "end": 56.122
+     "w": "old,",
+     "start": 52.758,
+     "end": 52.96
     },
     {
      "w": "a",
-     "start": 56.272,
-     "end": 56.478
+     "start": 53.13,
+     "end": 53.371
     },
     {
      "w": "thousand",
-     "start": 56.478,
-     "end": 56.838
+     "start": 53.371,
+     "end": 53.789
     },
     {
      "w": "joints,",
-     "start": 56.838,
-     "end": 57.044
+     "start": 53.789,
+     "end": 54.03
     },
     {
      "w": "and",
-     "start": 57.044,
-     "end": 57.251
+     "start": 54.16,
+     "end": 54.347
     },
     {
      "w": "only",
-     "start": 57.251,
-     "end": 57.61
+     "start": 54.347,
+     "end": 54.672
     },
     {
      "w": "two",
-     "start": 57.61,
-     "end": 57.816
-    },
-    {
-     "w": "pagodas",
-     "start": 57.816,
-     "end": 58.329
+     "start": 54.672,
+     "end": 54.858
     },
     {
      "w": "lost",
-     "start": 58.329,
-     "end": 58.535
+     "start": 54.858,
+     "end": 55.045
     },
     {
      "w": "to",
-     "start": 58.535,
-     "end": 58.742
+     "start": 55.045,
+     "end": 55.232
     },
     {
      "w": "earthquakes",
-     "start": 58.742,
-     "end": 59.254
+     "start": 55.232,
+     "end": 55.695
     },
     {
      "w": "in",
-     "start": 59.254,
-     "end": 59.46
+     "start": 55.695,
+     "end": 55.882
     },
     {
      "w": "fourteen",
-     "start": 59.46,
-     "end": 59.82
+     "start": 55.882,
+     "end": 56.207
     },
     {
      "w": "centuries.",
-     "start": 59.82,
-     "end": 60.332
+     "start": 56.207,
+     "end": 56.67
     }
    ]
   },
   {
    "line": 13,
-   "start": 60.771,
-   "end": 63.802,
+   "start": 57.104,
+   "end": 60.135,
    "text": "And congrats, you just built a Japanese pagoda yourself.",
    "words": [
     {
      "w": "And",
-     "start": 60.891,
-     "end": 61.097
+     "start": 57.224,
+     "end": 57.431
     },
     {
      "w": "congrats,",
-     "start": 61.097,
-     "end": 61.456
+     "start": 57.431,
+     "end": 57.791
     },
     {
      "w": "you",
-     "start": 61.456,
-     "end": 61.662
+     "start": 57.791,
+     "end": 57.997
     },
     {
      "w": "just",
-     "start": 61.662,
-     "end": 61.868
+     "start": 57.997,
+     "end": 58.204
     },
     {
      "w": "built",
-     "start": 61.868,
-     "end": 62.074
+     "start": 58.204,
+     "end": 58.411
     },
     {
      "w": "a",
-     "start": 62.074,
-     "end": 62.28
+     "start": 58.411,
+     "end": 58.618
     },
     {
      "w": "Japanese",
-     "start": 62.28,
-     "end": 62.791
+     "start": 58.618,
+     "end": 59.131
     },
     {
      "w": "pagoda",
-     "start": 62.791,
-     "end": 63.302
+     "start": 59.131,
+     "end": 59.644
     },
     {
      "w": "yourself.",
-     "start": 63.302,
-     "end": 63.661
+     "start": 59.644,
+     "end": 60.004
     }
    ]
   },
   {
    "line": 14,
-   "start": 64.167,
-   "end": 69.354,
+   "start": 60.5,
+   "end": 65.688,
    "text": "Fourteen hundred years of earthquakes, still standing. Your Jenga tower fell when your little brother sneezed.",
    "words": [
     {
      "w": "Fourteen",
-     "start": 64.297,
-     "end": 64.642
+     "start": 60.64,
+     "end": 60.983
     },
     {
      "w": "hundred",
-     "start": 64.642,
-     "end": 64.988
+     "start": 60.983,
+     "end": 61.326
     },
     {
      "w": "years",
-     "start": 64.988,
-     "end": 65.186
+     "start": 61.326,
+     "end": 61.524
     },
     {
      "w": "of",
-     "start": 65.186,
-     "end": 65.385
+     "start": 61.524,
+     "end": 61.721
     },
     {
      "w": "earthquakes,",
-     "start": 65.385,
-     "end": 65.877
+     "start": 61.721,
+     "end": 62.21
     },
     {
      "w": "still",
-     "start": 66.077,
-     "end": 66.336
+     "start": 62.42,
+     "end": 62.675
     },
     {
      "w": "standing.",
-     "start": 66.336,
-     "end": 66.787
+     "start": 62.675,
+     "end": 63.12
     },
     {
      "w": "Your",
-     "start": 66.917,
-     "end": 67.111
+     "start": 63.25,
+     "end": 63.444
     },
     {
      "w": "Jenga",
-     "start": 67.111,
-     "end": 67.449
+     "start": 63.444,
+     "end": 63.782
     },
     {
      "w": "tower",
-     "start": 67.449,
-     "end": 67.786
+     "start": 63.782,
+     "end": 64.119
     },
     {
      "w": "fell",
-     "start": 67.786,
-     "end": 67.98
+     "start": 64.119,
+     "end": 64.313
     },
     {
      "w": "when",
-     "start": 67.98,
-     "end": 68.174
+     "start": 64.313,
+     "end": 64.507
     },
     {
      "w": "your",
-     "start": 68.174,
-     "end": 68.368
+     "start": 64.507,
+     "end": 64.701
     },
     {
      "w": "little",
-     "start": 68.368,
-     "end": 68.562
+     "start": 64.701,
+     "end": 64.895
     },
     {
      "w": "brother",
-     "start": 68.562,
-     "end": 68.899
+     "start": 64.895,
+     "end": 65.232
     },
     {
      "w": "sneezed.",
-     "start": 68.899,
-     "end": 69.237
+     "start": 65.232,
+     "end": 65.57
     }
    ]
   }
