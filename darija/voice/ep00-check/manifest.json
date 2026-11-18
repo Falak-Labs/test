@@ -1,0 +1,53 @@
+{
+ "episode": "ep00-check",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2"
+ ],
+ "requested_characters": 19,
+ "recorded_this_run": [
+  "t1",
+  "a1",
+  "l1"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "t1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "مزيان!",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "a1",
+   "speaker": "A",
+   "voice": "XjGYkUkzth8BPs29fmcV",
+   "text": "Good job!",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "l1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Bye!",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  }
+ ]
+}
