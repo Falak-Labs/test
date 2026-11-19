@@ -1,4 +1,4 @@
-# Post status 2026-11-18T21:06:02+00:00
+# Post status 2026-11-19T02:40:20+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -219,23 +219,23 @@
 | ep36-pyramid | en.tiktok | sent |  | 2026-11-18T05:30:46.755Z https://tiktok.com/@congratsengineer/video/7709379367360597262 |
 | ep36-pyramid | en.youtube | sent |  | 2026-11-18T05:30:08.839Z https://www.youtube.com/shorts/NBpVVXvwBd4 |
 | ep37-windtower | ar.instagram | sent |  | 2026-11-18T17:05:10.686Z https://www.instagram.com/reel/Df4_6ANwVci/ |
-| ep37-windtower | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-19T02:00:00.000Z |
+| ep37-windtower | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-19T02:00:00.000Z |
 | ep37-windtower | ar.youtube | sent |  | 2026-11-18T17:03:17.795Z https://www.youtube.com/shorts/f3nfx--F-Kk |
 | ep37-windtower | en.instagram | sent |  | 2026-11-18T14:03:06.680Z https://www.instagram.com/reel/Df4rClNxsXT/ |
 | ep37-windtower | en.tiktok | sent |  | 2026-11-18T14:05:41.977Z https://tiktok.com/@congratsengineer/video/7709511909875223822 |
 | ep37-windtower | en.youtube | sent |  | 2026-11-18T14:01:26.936Z https://www.youtube.com/shorts/oUTQjr8Nf1Q |
 | ep38-petra | ar.instagram | sent |  | 2026-11-18T20:03:06.326Z https://www.instagram.com/reel/Df5UTrsAgRM/ |
-| ep38-petra | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-18T20:00:00.000Z |
+| ep38-petra | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-19T05:00:00.000Z |
 | ep38-petra | ar.youtube | sent |  | 2026-11-18T20:02:30.024Z https://www.youtube.com/shorts/ap2oGYKYxwE |
 | ep38-petra | en.instagram | sent |  | 2026-11-18T18:05:23.882Z https://www.instagram.com/reel/Df5G27ntqLA/ |
 | ep38-petra | en.tiktok | sent |  | 2026-11-18T18:04:03.308Z https://tiktok.com/@congratsengineer/video/7709573594275138830 |
 | ep38-petra | en.youtube | sent |  | 2026-11-18T18:02:54.058Z https://www.youtube.com/shorts/KnS6lV4ZKKc |
-| ep39-pagoda | ar.instagram | scheduled |  | 2026-11-18T23:00:00.000Z |
-| ep39-pagoda | ar.tiktok | scheduled |  | 2026-11-18T23:00:00.000Z |
-| ep39-pagoda | ar.youtube | scheduled |  | 2026-11-18T23:00:00.000Z |
-| ep39-pagoda | en.instagram | scheduled |  | 2026-11-19T00:00:00.000Z |
-| ep39-pagoda | en.tiktok | scheduled |  | 2026-11-19T00:00:00.000Z |
-| ep39-pagoda | en.youtube | scheduled |  | 2026-11-19T00:00:00.000Z |
+| ep39-pagoda | ar.instagram | sent |  | 2026-11-18T23:04:30.518Z https://www.instagram.com/reel/Df5o-fwJeq5/ |
+| ep39-pagoda | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-18T23:00:00.000Z |
+| ep39-pagoda | ar.youtube | sent |  | 2026-11-18T23:02:06.963Z https://www.youtube.com/shorts/JaLP8UCr7bE |
+| ep39-pagoda | en.instagram | sent |  | 2026-11-19T00:03:31.548Z https://www.instagram.com/reel/Df5v2B7MZgT/ |
+| ep39-pagoda | en.tiktok | sent |  | 2026-11-19T00:04:16.980Z https://tiktok.com/@congratsengineer/video/7709666226531749133 |
+| ep39-pagoda | en.youtube | sent |  | 2026-11-19T00:01:55.480Z https://www.youtube.com/shorts/jGzFhArOIVo |
 | ep40-panama | ar.instagram | scheduled |  | 2026-11-19T08:00:00.000Z |
 | ep40-panama | ar.tiktok | scheduled |  | 2026-11-19T08:00:00.000Z |
 | ep40-panama | ar.youtube | scheduled |  | 2026-11-19T08:00:00.000Z |
