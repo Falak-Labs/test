@@ -1,0 +1,134 @@
+{
+ "slug": "ep47-igloo",
+ "kit": "igloo",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "5/231",
+   "mix_lines_off": [
+    "L 1 2 diff  | If you can keep a family warm at -40 with nothing but snow, congrats, you just built an igloo.",
+    "L10 1 diff  | But before you crawl inside, follow, because next we're building a Moroccan Riyadh.",
+    "L12 2 diff  | A minus 40 outside, above freezing inside, and a skilled builder needs about an hour."
+   ],
+   "size_mb": 18.0,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو دفّيت عيلة على سالب أربعين، بس بالثلج، مبروك، كذا سويت لك بيت ثلج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الريح هناك تجمّد جلدك في دقايق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتقص طوب من ثلج دكّته الريح، أغلبه هوا محبوس، والهوا يحفظ الدفا مثل الجاكيت.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس ما فيه شجر، ولا شي يشيل السقف وانت تبني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فترص الطوب لولبي وهو يطلع، كل طوبة مايلة على اللي قبلها، والقبة تشيل نفسها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الهوا الحار يطلع، وكل ما انفتح الباب دخل البرد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحفر المدخل أوطى من الأرضية، البرد ينزل فيه ويقعد، وانت تنام فوق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس حرارتك تذوّب الجدار من داخل، ما راح يقطّر ويطيح؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "هنا السر: الذايب يتجمّد طبقة جليد، والقبة تقوى لين تقدر توقف فوقها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تدخل، تابعني، لأن الجاي بنبني رياض مغربي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين ولّع سراج زيت صغير، افتح خرم فوق للهوا، وحط شباك جليد صافي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "سالب أربعين برا، فوق الصفر داخل، ويبنونه في ساعة تقريبًا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك بيت ثلج بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "هم ينامون دافين في بيت ثلج، وحنا أول ما تنزل الحرارة عشرين، طلّعنا الفروة وشبّينا النار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.4,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.5,
+   "cover": true
+  }
+ }
+}
