@@ -1,4 +1,4 @@
-# Requeue run 2026-11-19T19:35:01+00:00
+# Requeue run 2026-11-19T19:38:25+00:00
 
-- ep40-panama en.youtube: NOT queued: You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
-- ep45-machupicchu en.youtube: NOT queued: You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
+- ep42-venice ar.tiktok: queued for 01:30 UTC (Buffer status now: scheduled)
+- ep43-greatwall ar.tiktok: queued for 04:00 UTC (Buffer status now: scheduled)
