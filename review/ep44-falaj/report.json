@@ -1,0 +1,138 @@
+{
+ "slug": "ep44-falaj",
+ "kit": "falaj",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.6,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "14/227",
+   "mix_lines_off": [
+    "L 1 1 diff  | If you can make a stream flow out of the desert with no pump and no power, for 15 centuries, congrats, you just built an Omani Falaj.",
+    "L 3 1 diff  | So you dig a mother well down to it up to 60 meters deep.",
+    "L 8 2 diff  | Now one stream must water 200 owners and everyone wants it now.",
+    "L 9 1 diff  | So you share it by time, half hour turns, a sundial shadow ends your turn by day, the stars by night.",
+    "L12 3 diff  | Over 3,000 still flowing, 60 meter wells some 15 centuries old.",
+    "L13 2 diff  | And congrats, you just built an Omani for laws yourself.",
+    "L14 4 diff  | 15 centuries of sharing one stream with no fights and your family still can't share one bathroom at 7am."
+   ],
+   "size_mb": 19.3,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو طلّعت مية من أرض الصحرا، من غير طلمبة ولا كهربا، خمستاشر قرن، مبروك، كده انت بنيت فلج عماني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس المطر نادر، والمية مستخبية تحت الجبال.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتحفر بير أم لحد المية، لحد ستين متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس القرية بعيدة، والمية مش هتطلع من البير لوحدها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتحفر نفق للبير، ميله خفيف خالص، والجاذبية لوحدها تجيب المية للغيطان.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس بتحفر بإيدك تحت الأرض في الحر، والعامل يستحمل عشرين دقيقة بس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتنزل آبار من فوق للهوا وللصخر، ومن الطيارة تبان زي خط منقط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس المجرى واحد، ومتين صاحب أرض، وكل واحد عايزها حالًا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتقسمها بالوقت، نص ساعة لكل دور: بالنهار ضل المزولة يقولك خلصت، وبالليل النجوم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تفتح لأرضك، تابعني، عشان اللي جاي هنبني مدرجات ماتشو بيتشو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "وبعدين تمشي في القرية: الشرب الأول، بعدين الاستحمام، بعدين الغسيل، وفي الآخر النخل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "أكتر من تلات آلاف فلج لسه شغالين، آبار ستين متر، وفيه منهم عمره خمستاشر قرن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت فلج عماني بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "خمستاشر قرن بيقسموا مية واحدة من غير خناقة، وعندنا حمام واحد الصبح، وأخوك جوه من ساعة ويقولك: خارج أهو!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 71.7,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 19.6,
+   "cover": true
+  }
+ }
+}

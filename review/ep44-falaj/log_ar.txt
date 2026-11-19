@@ -1,0 +1,7 @@
+falaj_ar_sa: 71.71s, 2151 frames
+cover out/falaj_ar_sa/cover.png: ['فلج عماني'] (frame 0 of the video)
+video done in 361s
+audio done
+final out/falaj_ar_sa/falaj_ar_sa_final.mp4
+QA  duration 71.70s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2151
+QA sheet out/falaj_ar_sa/qa_sheet.png
