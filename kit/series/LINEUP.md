@@ -34,9 +34,9 @@ Rules:
 43. the Great Wall of China (taken: evening run of 2026-11-18)
 44. an Omani falaj water channel (taken: evening run of 2026-11-18)
 45. Machu Picchu's terraces (taken: evening run of 2026-11-18)
-46. the Aswan High Dam
-47. an igloo
-48. a Moroccan riad with its courtyard
+46. the Aswan High Dam (taken: midday run of 2026-11-19)
+47. an igloo (taken: midday run of 2026-11-19)
+48. a Moroccan riad with its courtyard (taken: midday run of 2026-11-19)
 49. the Hagia Sophia dome
 50. a Korean ondol heated floor
 51. the Burj Al Arab on its island
