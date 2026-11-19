@@ -1,0 +1,136 @@
+{
+ "slug": "ep43-greatwall",
+ "kit": "greatwall",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.27,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "12/226",
+   "mix_lines_off": [
+    "L 5 3 diff  | So you pound Earth into hard layers, or stack reads with gravel. Some still stand 2,000 years later.",
+    "L 9 3 diff  | So you build beacon towers that can see each other. One smoke means 100 raiders, 5 means 10,000.",
+    "L10 1 diff  | But before you light the next beacon, follow, because next we're building an Omani Fallage.",
+    "L12 4 diff  | 21,000 kilometers, 2,000 years, and from the moon, zero. You can't see it.",
+    "L14 1 diff  | Smoke jumped tower to tower across provinces and your friends saw your message yesterday and still hasn't replied."
+   ],
+   "size_mb": 19.2,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو بنيت سور يلف أكثر من نص الأرض، ملصوق بشوربة رز، مبروك، كذا سويت لك سور الصين العظيم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الغزاة جايين من الشمال على خيل، والسهل ما يوقفهم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتمشّي السور فوق قمم الجبال، وما فيه خيل تطلع هناك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس في صحرا غوبي، لا حجر ولا خشب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتدك التراب طبقة فوق طبقة، أو ترص قصب مع حصى، وبعضه واقف من ألفين سنة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بعدين أسرة مينغ تبنيه طوب، بس الجير يتفتت مع المطر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتخلط شوربة رز مع الجير، والنشا يشد الخلطة، والمطر يزحلق عنها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس سور بهالطول ما ينفع، إذا الجيش بعيد أيام.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتبني أبراج تشوف بعض: دخانة يعني مية غازي، وخمس دخانات عشرة آلاف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تولّع البرج الجاي، تابعني، لأن الجاي بنبني فلج عماني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين اربط الكل، والصينيين للحين يسمون الدخان هذا: دخان الذيب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "واحد وعشرين ألف كيلو، ألفين سنة بناء، ومن القمر؟ صفر، ما يبان.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك سور الصين العظيم بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "الدخان ينط من برج لبرج، وخويك شاف رسالتك أمس، وللحين ما رد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -13.9,
+   "peak": -2.6,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.8,
+   "cover": true
+  }
+ }
+}
