@@ -1,4 +1,4 @@
-# Post status 2026-11-19T20:54:40+00:00
+# Post status 2026-11-19T21:09:58+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -278,3 +278,11 @@
 | ep46-aswan | en.instagram | scheduled |  | 2026-11-20T14:00:00.000Z |
 | ep46-aswan | en.tiktok | scheduled |  | 2026-11-20T14:00:00.000Z |
 | ep46-aswan | en.youtube | scheduled |  | 2026-11-20T14:00:00.000Z |
+| ep47-igloo | ar.instagram | scheduled |  | 2026-11-20T11:00:00.000Z |
+| ep47-igloo | ar.tiktok | scheduled |  | 2026-11-20T11:00:00.000Z |
+| ep47-igloo | en.instagram | scheduled |  | 2026-11-20T16:30:00.000Z |
+| ep47-igloo | en.tiktok | scheduled |  | 2026-11-20T16:30:00.000Z |
+| ep48-riad | ar.instagram | scheduled |  | 2026-11-20T14:00:00.000Z |
+| ep48-riad | ar.tiktok | scheduled |  | 2026-11-20T14:00:00.000Z |
+| ep48-riad | en.instagram | scheduled |  | 2026-11-20T19:00:00.000Z |
+| ep48-riad | en.tiktok | scheduled |  | 2026-11-20T19:00:00.000Z |

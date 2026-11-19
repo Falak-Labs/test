@@ -1,0 +1,40 @@
+{
+ "targets": {
+  "en.instagram": {
+   "id": "6aff65a0d606779a4df9cb4c",
+   "channel": "6af2b48e62b70b94b0ddc2f3",
+   "service": "instagram",
+   "status": "scheduled",
+   "dueAt": "2026-11-20T19:00:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-19T21:09:48+00:00"
+  },
+  "en.tiktok": {
+   "id": "6aff65a0373c7db3cb532f9c",
+   "channel": "6af2d49862b70b94b0df5758",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-20T19:00:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-19T21:09:48+00:00"
+  },
+  "ar.instagram": {
+   "id": "6aff65a1d606779a4df9cbc3",
+   "channel": "6af2cd1062b70b94b0ded3ff",
+   "service": "instagram",
+   "status": "scheduled",
+   "dueAt": "2026-11-20T14:00:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-19T21:09:48+00:00"
+  },
+  "ar.tiktok": {
+   "id": "6aff65a18ba5b0cdc4adac9c",
+   "channel": "6af2ce9262b70b94b0dedc45",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-20T14:00:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-19T21:09:48+00:00"
+  }
+ }
+}
