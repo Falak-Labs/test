@@ -1,0 +1,32 @@
+episode: 47
+date: 2026-11-20
+video:
+  en: media/ep47-igloo-en.mp4
+  ar: media/ep47-igloo-ar.mp4
+hold: [en.youtube, ar.youtube]    # Buffer takes only 2 YouTube posts a day per channel (Nov 19): one per run
+en:
+  at: "2026-11-20T16:30:00Z"    # 08:30 PT Nov 20
+  title: "Igloo: A Snow House That Stays Warm at -40° ❄️"
+  text: |
+    A family sleeping warm at minus forty, in a house made of nothing but snow. ❄️
+    Wind-packed snow is mostly trapped air, the blocks rise in a spiral that holds itself up, the doorway sits below the floor so the cold sinks into the tunnel, and the melt refreezes into a skin of ice that makes the dome strong enough to stand on.
+    Could you sleep in one? 👇
+  next: "a Moroccan riad 🌿"
+  seo: "How an igloo keeps people warm: snow houses of the Arctic are built from blocks of wind-packed snow cut with a snow knife. Snow is mostly trapped air, which makes it a good insulator: body heat alone can keep the inside at about -7 to 16 °C while it is around -40 °C outside, and a small seal-oil lamp warms it more. The blocks are laid in a rising spiral, each leaning on the one before, so the dome supports itself while it is built, with no wood for a frame. The entrance tunnel is dug lower than the floor: cold air is heavier, sinks into it and stays there, and people sleep on a raised platform where the warm air collects. The heat melts the inner surface a little, and it refreezes into a glaze of ice that makes the dome stronger and windproof, strong enough for a person to stand on top. A small hole in the top lets fresh air in, a block of clear ice can serve as a window, and a skilled builder can finish a small igloo in about an hour."
+  tags:
+    tiktok: "#igloo #arctic #engineering #snow #learnontiktok"
+    instagram: "#igloo #arctic #engineering #winter #snow"
+    youtube: "#igloo #engineering #arctic"
+ar:
+  at: "2026-11-20T11:00:00Z"    # 03:00 PT Nov 20 = 2 pm Riyadh
+  title: "بيت الثلج: دافي على سالب أربعين ❄️"
+  text: |
+    عيلة كاملة تنام دافية على سالب أربعين، في بيت كله ثلج! ❄️
+    الثلج اللي دكّته الريح أغلبه هوا محبوس، والطوب ينرص لولبي والقبة تشيل نفسها، والمدخل أوطى من الأرضية عشان البرد ينزل للنفق ويقعد فيه، والذايب يتجمّد طبقة جليد لين تقدر توقف فوقها.
+    تقدر تنام فيه ليلة؟ 👇
+  next: "رياض مغربي 🌿"
+  seo: "كيف بيت الثلج يدفّي: بيوت الثلج في القطب الشمالي تنبني من طوب ثلج دكّته الريح، ينقص بسكين ثلج. الثلج أغلبه هوا محبوس، والهوا المحبوس عازل ممتاز، فحرارة الناس وسراج زيت صغير تخلي داخل البيت فوق الصفر وبرا سالب أربعين. الطوب ينرص لولبي وهو يطلع، كل طوبة مايلة على اللي قبلها، فالقبة تشيل نفسها وهي تنبني بدون خشب. والمدخل نفق محفور أوطى من الأرضية: البرد أثقل، ينزل فيه ويقعد، والناس تنام فوق على دكة عالية مكان الدفا. والحرارة تذوّب الجدار من داخل شوي، ويرجع يتجمّد طبقة جليد تقوّي القبة وتسكّر الريح، لين يقدر واحد يوقف فوقها. وفيه خرم صغير فوق للهوا، وشباك من جليد صافي، والمحترف يبنيه في حوالي ساعة."
+  tags:
+    tiktok: "#بيت_ثلج #الشتاء #هندسة #معلومات #السعودية"
+    instagram: "#بيت_ثلج #شتاء #هندسة #معلومات #السعودية"
+    youtube: "#بيت_ثلج #هندسة #معلومات"

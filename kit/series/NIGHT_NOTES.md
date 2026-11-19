@@ -700,3 +700,65 @@
 - Final videos: 43 EN 68.3 / AR 69.1 s, 44 EN 68.6 / AR 71.7 s, 45 EN 68.9 / AR 71.5 s; -14 LUFS, peaks -1.7 to -2.6
   dBFS, covers in. ElevenLabs (MCP account_get_usage, 04:36Z): still Creator, 62,444 of 127,949 used, reset Dec 12; at
   about 5,400 a day (six Arabic voices) it lasts until about Dec 1.
+
+## Nov 19 2026 (midday run, 11:23 PT): 46 Aswan High Dam, 47 igloo, 48 Moroccan riad (for Fri Nov 20)
+- TODAY Nov 19 PT, TOMORROW Fri Nov 20 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT before the
+  push). PST: Arabic 00:00 / 03:00 / 06:00 PT = 08:00Z / 11:00Z / 14:00Z; English 06:00 / 08:30 / 11:00 PT = 14:00Z /
+  16:30Z / 19:00Z Nov 20.
+- **YOUTUBE: Buffer now takes only 2 posts a day per YouTube channel.** New on Nov 19 (between 08:00Z and 11:00Z):
+  Arabic YouTube 41, 42, 43 failed at post time with "The daily posting limit for this channel has been reached!", and
+  requeue answers "You have already scheduled the maximum number of posts YouTube allows in a day (2)". New tool:
+  tools.yml cmd=limits (scripts/limits.py) prints Buffer's dailyPostingLimits per channel for today and the next two
+  days: YouTube 2, TikTok 25, Instagram 50 a day; the day is the channel's time zone (all six are America/Los_Angeles),
+  and it counts scheduled + sent posts of that PT day. Six builds a day cannot all reach YouTube.
+  Rule until the owner decides: each run gives YouTube to ONE build per language per day, its FIRST build (midday: EN
+  06:00 / AR 00:00 PT; evening: EN 13:30 / AR 09:00 PT); its other two post files carry
+  `hold: [en.youtube, ar.youtube]`. Before requeueing any YouTube post, run cmd=limits and pick a PT day with room.
+  Nov 19 PT is over the limit on English YouTube (43, 44, 42, 41 scheduled): expect 42 (19:12 PT) and 41 (20:58 PT)
+  to fail, and Arabic 45 (15:00 PT). EN 40 / 45 and AR 41 / 42 / 43 YouTube stay failed (no free day); the owner was
+  told.
+- Today's posts (status 19:28Z): English Instagram 40, 41, 42, 44 and English TikTok 40, 43, 44, 45 went out early
+  at 05:40-05:43Z (21:40 PT Nov 18). No workflow of ours ran then (post 05:09Z, status 07:31Z): most likely "share now"
+  in Buffer. English YouTube 40 and 45 failed "unknown error" at 07:25Z; English YouTube 41 and 42 were moved in Buffer
+  to 03:12Z / 04:58Z Nov 20. Arabic 40, 41 live except 41's YouTube; Arabic TikTok 42 (14:00Z) and 43 (17:00Z)
+  "potential spam" -> requeued to 01:30Z and 04:00Z Nov 21 (the 3-hour grid of Nov 20 is full; 06:00Z Nov 21 is left
+  for the evening run). Arabic 44 and 45 at 12:00 and 15:00 PT, English 43-45 at 13:30 / 16:00 / 18:30 PT.
+- Pages: retired ep28-ep30 (all 18 sent): media/ 629 -> 520 MB before today's six videos. Next: ep31-ep33.
+- A/B test: 47 is odd -> `igloo` in voices.yml ar_alt.kits (Mansour, Saudi script); 46 and 48 Egyptian.
+- Voices: Easton aswan 65.69 s (226 words), igloo 63.99 s (229), riad 64.88 s (231). ElevenLabs one take each:
+  Egyptian aswan 66.0 s (164 words, 863 characters), Mansour igloo 66.0 s (159 words, tempo 1.075, 825 characters),
+  Egyptian riad 67.6 s (164 words). check_ar_voice: no weak lines (max 21%, the number lines).
+- Whisper small heard Easton's "riad" as "riot" (riad lines 1 and 13, igloo line 10). tools/make_vo.py now has a SAY
+  map (riad -> "ree-ahd") used only for the text sent to Easton; captions and the json keep the script's spelling.
+  English remade free for igloo and riad (langs=en force=true): Whisper now writes "re aid" / "riyadh" (the right
+  sound). Add a word to SAY whenever Easton says a name wrong.
+- Scenes (all v2 look 2):
+  - aswan.py (valley, section, divert, temple, shower): valley = raised view upstream, lake_half(y) with the inlets of
+    the shore, up_half / dn_half for the river, mini_pyramid() x17 in two rows for the hook, the dam face with stepped
+    berms, crest road + lamps, power house and outflow, flood (mud colour, houses half under) / dry (cracks, a thread
+    of water) states, months() bars panel (all in summer -> every month), pylons at dusk; section = the hill of rock
+    and sand with along() seepage paths stopped by the clay core and the cement curtain; divert = from above, a dump
+    truck whose rocks are swept away, blasts along CHAN, water in the channel, a rock barrier; temple = facade() with
+    statue() (the head drawn 1.35x about the neck; the second colossus broken, its head at its feet), cut lines,
+    lifted 300 with cranes while the water rises; shower_guy() for the tag.
+  - igloo.py (tundra, wind, blocks, build, cut, tag): aurora() curtains, blizzard(), igloo_outside() with spiral
+    seams, the tunnel and warm light, a cutaway (interior() clipped to the dome) for the hook, hood_person() parka,
+    magnifier() of snow grains, jacket_icon(), the spiral build with a key block, shell() of the wall in section with
+    an ice glaze, lamp() qulliq, the trench where cold air pools; tag EN mom with a jacket, AR a Saudi man in a red
+    shemagh who puts on the farwa (fur_cloak()) by a fire with the dallah (from barrier.py) at 20 degrees.
+  - riad.py (court, city, section, wall, door, fez, tag): courtyard() front view (far wall arches, cedar gallery,
+    green roof tiles, zellige_band() / zellige_star() laid piece by piece, perspective floor, orange trees,
+    fountain()), facade() halves that slide shut and open, roofs() of the medina from above with shadows and green
+    courtyards, donkey(), the house in section growing taller / narrower with the sun's shaft and cool night air, the
+    wall that melts in rain then lime plaster + stone + black soap + beading water, the entrance from above (sight line
+    stopped by the bent corridor), the neighbour with binoculars for the tag ("PASTA AGAIN?" / "ملوخية تاني؟").
+- Lessons: skia Path.getLastPt() returns a bool in this binding (keep your own last point). Light snow, white domes,
+  light floors and plaster bloom to pure white in v2's Post: keep them mid-tone (snow #AFC3DA..#5A7396, dome
+  #DCE6F2..#6E88A8, riad floor #BFA984..#B59F78, rooms #CDB08A). draw.P takes 6-digit hex plus an alpha, not
+  "#RRGGBBAA". In a shell, `cd X && (A) & (B) &` puts the cd in A's background shell only: start background chains
+  after a plain `cd X;`. The riad's fountain sat behind the cover's name block (y 1227+): the closer camera was moved
+  so the subject's key part sits above y 1200.
+- Final: aswan EN 68.8 s / AR 69.1 s, igloo EN 67.1 s / AR 69.1 s (Mansour), riad EN 68.0 s / AR 70.7 s; all -14 LUFS,
+  peaks -1.8 to -2.4 dBFS, covers in. Whisper small on the English mixes: number formats, riad -> "riyade" / "re aid"
+  (the respelling), zellige -> "zelage"; nothing else. Credits 863 + 825 + 918 characters. 46 posts to all six targets;
+  47 and 48 hold YouTube (four targets each).
