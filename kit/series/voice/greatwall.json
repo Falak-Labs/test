@@ -1,0 +1,1252 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 64.56,
+ "words": 226,
+ "words_per_sec": 3.5,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.906,
+   "text": "If you can build a wall more than halfway around the Earth, glued with rice soup, congrats, you just built the Great Wall of China.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.318
+    },
+    {
+     "w": "you",
+     "start": 0.318,
+     "end": 0.506
+    },
+    {
+     "w": "can",
+     "start": 0.506,
+     "end": 0.695
+    },
+    {
+     "w": "build",
+     "start": 0.695,
+     "end": 0.883
+    },
+    {
+     "w": "a",
+     "start": 0.883,
+     "end": 1.071
+    },
+    {
+     "w": "wall",
+     "start": 1.071,
+     "end": 1.259
+    },
+    {
+     "w": "more",
+     "start": 1.259,
+     "end": 1.447
+    },
+    {
+     "w": "than",
+     "start": 1.447,
+     "end": 1.636
+    },
+    {
+     "w": "halfway",
+     "start": 1.636,
+     "end": 1.963
+    },
+    {
+     "w": "around",
+     "start": 1.963,
+     "end": 2.291
+    },
+    {
+     "w": "the",
+     "start": 2.291,
+     "end": 2.479
+    },
+    {
+     "w": "Earth,",
+     "start": 2.479,
+     "end": 2.667
+    },
+    {
+     "w": "glued",
+     "start": 2.667,
+     "end": 2.855
+    },
+    {
+     "w": "with",
+     "start": 2.855,
+     "end": 3.044
+    },
+    {
+     "w": "rice",
+     "start": 3.044,
+     "end": 3.232
+    },
+    {
+     "w": "soup,",
+     "start": 3.232,
+     "end": 3.42
+    },
+    {
+     "w": "congrats,",
+     "start": 3.62,
+     "end": 3.99
+    },
+    {
+     "w": "you",
+     "start": 3.99,
+     "end": 4.203
+    },
+    {
+     "w": "just",
+     "start": 4.203,
+     "end": 4.416
+    },
+    {
+     "w": "built",
+     "start": 4.416,
+     "end": 4.629
+    },
+    {
+     "w": "the",
+     "start": 4.629,
+     "end": 4.841
+    },
+    {
+     "w": "Great",
+     "start": 4.841,
+     "end": 5.054
+    },
+    {
+     "w": "Wall",
+     "start": 5.054,
+     "end": 5.267
+    },
+    {
+     "w": "of",
+     "start": 5.267,
+     "end": 5.48
+    },
+    {
+     "w": "China.",
+     "start": 5.48,
+     "end": 5.85
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.271,
+   "end": 10.344,
+   "text": "But raiders on fast horses sweep in from the north, and flat land can't stop them.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.401,
+     "end": 6.627
+    },
+    {
+     "w": "raiders",
+     "start": 6.627,
+     "end": 7.019
+    },
+    {
+     "w": "on",
+     "start": 7.019,
+     "end": 7.245
+    },
+    {
+     "w": "fast",
+     "start": 7.245,
+     "end": 7.47
+    },
+    {
+     "w": "horses",
+     "start": 7.47,
+     "end": 7.863
+    },
+    {
+     "w": "sweep",
+     "start": 7.863,
+     "end": 8.089
+    },
+    {
+     "w": "in",
+     "start": 8.089,
+     "end": 8.314
+    },
+    {
+     "w": "from",
+     "start": 8.314,
+     "end": 8.54
+    },
+    {
+     "w": "the",
+     "start": 8.54,
+     "end": 8.765
+    },
+    {
+     "w": "north,",
+     "start": 8.765,
+     "end": 8.991
+    },
+    {
+     "w": "and",
+     "start": 9.061,
+     "end": 9.264
+    },
+    {
+     "w": "flat",
+     "start": 9.264,
+     "end": 9.468
+    },
+    {
+     "w": "land",
+     "start": 9.468,
+     "end": 9.671
+    },
+    {
+     "w": "can't",
+     "start": 9.671,
+     "end": 9.874
+    },
+    {
+     "w": "stop",
+     "start": 9.874,
+     "end": 10.078
+    },
+    {
+     "w": "them.",
+     "start": 10.078,
+     "end": 10.281
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.708,
+   "end": 13.812,
+   "text": "So you run it along the mountain ridges, where no horse can charge.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.818,
+     "end": 11.01
+    },
+    {
+     "w": "you",
+     "start": 11.01,
+     "end": 11.203
+    },
+    {
+     "w": "run",
+     "start": 11.203,
+     "end": 11.395
+    },
+    {
+     "w": "it",
+     "start": 11.395,
+     "end": 11.588
+    },
+    {
+     "w": "along",
+     "start": 11.588,
+     "end": 11.923
+    },
+    {
+     "w": "the",
+     "start": 11.923,
+     "end": 12.115
+    },
+    {
+     "w": "mountain",
+     "start": 12.115,
+     "end": 12.451
+    },
+    {
+     "w": "ridges,",
+     "start": 12.451,
+     "end": 12.786
+    },
+    {
+     "w": "where",
+     "start": 12.786,
+     "end": 12.978
+    },
+    {
+     "w": "no",
+     "start": 12.978,
+     "end": 13.171
+    },
+    {
+     "w": "horse",
+     "start": 13.171,
+     "end": 13.363
+    },
+    {
+     "w": "can",
+     "start": 13.363,
+     "end": 13.556
+    },
+    {
+     "w": "charge.",
+     "start": 13.556,
+     "end": 13.748
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.177,
+   "end": 16.979,
+   "text": "But out in the Gobi Desert, there's no stone and no wood.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.307,
+     "end": 14.458
+    },
+    {
+     "w": "out",
+     "start": 14.458,
+     "end": 14.609
+    },
+    {
+     "w": "in",
+     "start": 14.609,
+     "end": 14.76
+    },
+    {
+     "w": "the",
+     "start": 14.76,
+     "end": 14.911
+    },
+    {
+     "w": "Gobi",
+     "start": 14.911,
+     "end": 15.174
+    },
+    {
+     "w": "Desert,",
+     "start": 15.174,
+     "end": 15.437
+    },
+    {
+     "w": "there's",
+     "start": 15.577,
+     "end": 15.926
+    },
+    {
+     "w": "no",
+     "start": 15.926,
+     "end": 16.126
+    },
+    {
+     "w": "stone",
+     "start": 16.126,
+     "end": 16.326
+    },
+    {
+     "w": "and",
+     "start": 16.326,
+     "end": 16.526
+    },
+    {
+     "w": "no",
+     "start": 16.526,
+     "end": 16.727
+    },
+    {
+     "w": "wood.",
+     "start": 16.727,
+     "end": 16.927
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.344,
+   "end": 22.708,
+   "text": "So you pound earth into hard layers, or stack reeds with gravel. Some still stands two thousand years later.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.454,
+     "end": 17.683
+    },
+    {
+     "w": "you",
+     "start": 17.683,
+     "end": 17.911
+    },
+    {
+     "w": "pound",
+     "start": 17.911,
+     "end": 18.14
+    },
+    {
+     "w": "earth",
+     "start": 18.14,
+     "end": 18.369
+    },
+    {
+     "w": "into",
+     "start": 18.369,
+     "end": 18.767
+    },
+    {
+     "w": "hard",
+     "start": 18.767,
+     "end": 18.995
+    },
+    {
+     "w": "layers,",
+     "start": 18.995,
+     "end": 19.224
+    },
+    {
+     "w": "or",
+     "start": 19.354,
+     "end": 19.565
+    },
+    {
+     "w": "stack",
+     "start": 19.565,
+     "end": 19.776
+    },
+    {
+     "w": "reeds",
+     "start": 19.776,
+     "end": 19.986
+    },
+    {
+     "w": "with",
+     "start": 19.986,
+     "end": 20.197
+    },
+    {
+     "w": "gravel.",
+     "start": 20.197,
+     "end": 20.564
+    },
+    {
+     "w": "Some",
+     "start": 20.714,
+     "end": 20.94
+    },
+    {
+     "w": "still",
+     "start": 20.94,
+     "end": 21.167
+    },
+    {
+     "w": "stands",
+     "start": 21.167,
+     "end": 21.393
+    },
+    {
+     "w": "two",
+     "start": 21.393,
+     "end": 21.62
+    },
+    {
+     "w": "thousand",
+     "start": 21.62,
+     "end": 22.014
+    },
+    {
+     "w": "years",
+     "start": 22.014,
+     "end": 22.24
+    },
+    {
+     "w": "later.",
+     "start": 22.24,
+     "end": 22.634
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.073,
+   "end": 26.479,
+   "text": "Then the Ming rebuild it in brick, but lime mortar crumbles in the rain.",
+   "words": [
+    {
+     "w": "Then",
+     "start": 23.183,
+     "end": 23.365
+    },
+    {
+     "w": "the",
+     "start": 23.365,
+     "end": 23.547
+    },
+    {
+     "w": "Ming",
+     "start": 23.547,
+     "end": 23.729
+    },
+    {
+     "w": "rebuild",
+     "start": 23.729,
+     "end": 24.047
+    },
+    {
+     "w": "it",
+     "start": 24.047,
+     "end": 24.229
+    },
+    {
+     "w": "in",
+     "start": 24.229,
+     "end": 24.411
+    },
+    {
+     "w": "brick,",
+     "start": 24.411,
+     "end": 24.593
+    },
+    {
+     "w": "but",
+     "start": 24.783,
+     "end": 24.974
+    },
+    {
+     "w": "lime",
+     "start": 24.974,
+     "end": 25.165
+    },
+    {
+     "w": "mortar",
+     "start": 25.165,
+     "end": 25.497
+    },
+    {
+     "w": "crumbles",
+     "start": 25.497,
+     "end": 25.83
+    },
+    {
+     "w": "in",
+     "start": 25.83,
+     "end": 26.021
+    },
+    {
+     "w": "the",
+     "start": 26.021,
+     "end": 26.212
+    },
+    {
+     "w": "rain.",
+     "start": 26.212,
+     "end": 26.403
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 26.844,
+   "end": 31.229,
+   "text": "So you stir sticky rice soup into the lime: the starch packs it tight, and rain rolls off.",
+   "words": [
+    {
+     "w": "So",
+     "start": 26.954,
+     "end": 27.151
+    },
+    {
+     "w": "you",
+     "start": 27.151,
+     "end": 27.347
+    },
+    {
+     "w": "stir",
+     "start": 27.347,
+     "end": 27.544
+    },
+    {
+     "w": "sticky",
+     "start": 27.544,
+     "end": 27.886
+    },
+    {
+     "w": "rice",
+     "start": 27.886,
+     "end": 28.082
+    },
+    {
+     "w": "soup",
+     "start": 28.082,
+     "end": 28.279
+    },
+    {
+     "w": "into",
+     "start": 28.279,
+     "end": 28.621
+    },
+    {
+     "w": "the",
+     "start": 28.621,
+     "end": 28.817
+    },
+    {
+     "w": "lime:",
+     "start": 28.817,
+     "end": 29.014
+    },
+    {
+     "w": "the",
+     "start": 29.154,
+     "end": 29.37
+    },
+    {
+     "w": "starch",
+     "start": 29.37,
+     "end": 29.586
+    },
+    {
+     "w": "packs",
+     "start": 29.586,
+     "end": 29.802
+    },
+    {
+     "w": "it",
+     "start": 29.802,
+     "end": 30.018
+    },
+    {
+     "w": "tight,",
+     "start": 30.018,
+     "end": 30.234
+    },
+    {
+     "w": "and",
+     "start": 30.374,
+     "end": 30.566
+    },
+    {
+     "w": "rain",
+     "start": 30.566,
+     "end": 30.759
+    },
+    {
+     "w": "rolls",
+     "start": 30.759,
+     "end": 30.952
+    },
+    {
+     "w": "off.",
+     "start": 30.952,
+     "end": 31.144
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.594,
+   "end": 34.729,
+   "text": "But a wall this long is useless if the army is days away.",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.724,
+     "end": 31.909
+    },
+    {
+     "w": "a",
+     "start": 31.909,
+     "end": 32.094
+    },
+    {
+     "w": "wall",
+     "start": 32.094,
+     "end": 32.278
+    },
+    {
+     "w": "this",
+     "start": 32.278,
+     "end": 32.463
+    },
+    {
+     "w": "long",
+     "start": 32.463,
+     "end": 32.648
+    },
+    {
+     "w": "is",
+     "start": 32.648,
+     "end": 32.833
+    },
+    {
+     "w": "useless",
+     "start": 32.833,
+     "end": 33.291
+    },
+    {
+     "w": "if",
+     "start": 33.291,
+     "end": 33.476
+    },
+    {
+     "w": "the",
+     "start": 33.476,
+     "end": 33.661
+    },
+    {
+     "w": "army",
+     "start": 33.661,
+     "end": 33.983
+    },
+    {
+     "w": "is",
+     "start": 33.983,
+     "end": 34.168
+    },
+    {
+     "w": "days",
+     "start": 34.168,
+     "end": 34.352
+    },
+    {
+     "w": "away.",
+     "start": 34.352,
+     "end": 34.674
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.094,
+   "end": 40.677,
+   "text": "So you build beacon towers in sight of each other: one smoke means a hundred raiders, five means ten thousand.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.204,
+     "end": 35.387
+    },
+    {
+     "w": "you",
+     "start": 35.387,
+     "end": 35.571
+    },
+    {
+     "w": "build",
+     "start": 35.571,
+     "end": 35.754
+    },
+    {
+     "w": "beacon",
+     "start": 35.754,
+     "end": 36.073
+    },
+    {
+     "w": "towers",
+     "start": 36.073,
+     "end": 36.392
+    },
+    {
+     "w": "in",
+     "start": 36.392,
+     "end": 36.575
+    },
+    {
+     "w": "sight",
+     "start": 36.575,
+     "end": 36.758
+    },
+    {
+     "w": "of",
+     "start": 36.758,
+     "end": 36.942
+    },
+    {
+     "w": "each",
+     "start": 36.942,
+     "end": 37.125
+    },
+    {
+     "w": "other:",
+     "start": 37.125,
+     "end": 37.444
+    },
+    {
+     "w": "one",
+     "start": 37.614,
+     "end": 37.84
+    },
+    {
+     "w": "smoke",
+     "start": 37.84,
+     "end": 38.066
+    },
+    {
+     "w": "means",
+     "start": 38.066,
+     "end": 38.292
+    },
+    {
+     "w": "a",
+     "start": 38.292,
+     "end": 38.518
+    },
+    {
+     "w": "hundred",
+     "start": 38.518,
+     "end": 38.911
+    },
+    {
+     "w": "raiders,",
+     "start": 38.911,
+     "end": 39.304
+    },
+    {
+     "w": "five",
+     "start": 39.444,
+     "end": 39.693
+    },
+    {
+     "w": "means",
+     "start": 39.693,
+     "end": 39.942
+    },
+    {
+     "w": "ten",
+     "start": 39.942,
+     "end": 40.191
+    },
+    {
+     "w": "thousand.",
+     "start": 40.191,
+     "end": 40.624
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 41.042,
+   "end": 45.427,
+   "text": "But before you light the next beacon, follow, because next we're building an Omani falaj.",
+   "words": [
+    {
+     "w": "But",
+     "start": 41.182,
+     "end": 41.364
+    },
+    {
+     "w": "before",
+     "start": 41.364,
+     "end": 41.68
+    },
+    {
+     "w": "you",
+     "start": 41.68,
+     "end": 41.861
+    },
+    {
+     "w": "light",
+     "start": 41.861,
+     "end": 42.043
+    },
+    {
+     "w": "the",
+     "start": 42.043,
+     "end": 42.224
+    },
+    {
+     "w": "next",
+     "start": 42.224,
+     "end": 42.406
+    },
+    {
+     "w": "beacon,",
+     "start": 42.406,
+     "end": 42.722
+    },
+    {
+     "w": "follow,",
+     "start": 42.852,
+     "end": 43.182
+    },
+    {
+     "w": "because",
+     "start": 43.312,
+     "end": 43.644
+    },
+    {
+     "w": "next",
+     "start": 43.644,
+     "end": 43.834
+    },
+    {
+     "w": "we're",
+     "start": 43.834,
+     "end": 44.025
+    },
+    {
+     "w": "building",
+     "start": 44.025,
+     "end": 44.357
+    },
+    {
+     "w": "an",
+     "start": 44.357,
+     "end": 44.547
+    },
+    {
+     "w": "Omani",
+     "start": 44.547,
+     "end": 45.02
+    },
+    {
+     "w": "falaj.",
+     "start": 45.02,
+     "end": 45.352
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 45.792,
+   "end": 50.063,
+   "text": "Now join it all up. Chinese still call that warning smoke wolf smoke: the wolves are coming.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 45.902,
+     "end": 46.068
+    },
+    {
+     "w": "join",
+     "start": 46.068,
+     "end": 46.234
+    },
+    {
+     "w": "it",
+     "start": 46.234,
+     "end": 46.4
+    },
+    {
+     "w": "all",
+     "start": 46.4,
+     "end": 46.566
+    },
+    {
+     "w": "up.",
+     "start": 46.566,
+     "end": 46.732
+    },
+    {
+     "w": "Chinese",
+     "start": 46.892,
+     "end": 47.251
+    },
+    {
+     "w": "still",
+     "start": 47.251,
+     "end": 47.458
+    },
+    {
+     "w": "call",
+     "start": 47.458,
+     "end": 47.665
+    },
+    {
+     "w": "that",
+     "start": 47.665,
+     "end": 47.871
+    },
+    {
+     "w": "warning",
+     "start": 47.871,
+     "end": 48.23
+    },
+    {
+     "w": "smoke",
+     "start": 48.23,
+     "end": 48.437
+    },
+    {
+     "w": "wolf",
+     "start": 48.437,
+     "end": 48.644
+    },
+    {
+     "w": "smoke:",
+     "start": 48.644,
+     "end": 48.85
+    },
+    {
+     "w": "the",
+     "start": 48.85,
+     "end": 49.057
+    },
+    {
+     "w": "wolves",
+     "start": 49.057,
+     "end": 49.416
+    },
+    {
+     "w": "are",
+     "start": 49.416,
+     "end": 49.623
+    },
+    {
+     "w": "coming.",
+     "start": 49.623,
+     "end": 49.982
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 50.427,
+   "end": 55.375,
+   "text": "Twenty-one thousand kilometers, two thousand years, and from the Moon? Zero. You can't see it.",
+   "words": [
+    {
+     "w": "Twenty-one",
+     "start": 50.557,
+     "end": 50.923
+    },
+    {
+     "w": "thousand",
+     "start": 50.923,
+     "end": 51.289
+    },
+    {
+     "w": "kilometers,",
+     "start": 51.289,
+     "end": 51.967
+    },
+    {
+     "w": "two",
+     "start": 52.107,
+     "end": 52.364
+    },
+    {
+     "w": "thousand",
+     "start": 52.364,
+     "end": 52.81
+    },
+    {
+     "w": "years,",
+     "start": 52.81,
+     "end": 53.067
+    },
+    {
+     "w": "and",
+     "start": 53.187,
+     "end": 53.374
+    },
+    {
+     "w": "from",
+     "start": 53.374,
+     "end": 53.562
+    },
+    {
+     "w": "the",
+     "start": 53.562,
+     "end": 53.75
+    },
+    {
+     "w": "Moon?",
+     "start": 53.75,
+     "end": 53.937
+    },
+    {
+     "w": "Zero.",
+     "start": 54.087,
+     "end": 54.527
+    },
+    {
+     "w": "You",
+     "start": 54.657,
+     "end": 54.814
+    },
+    {
+     "w": "can't",
+     "start": 54.814,
+     "end": 54.972
+    },
+    {
+     "w": "see",
+     "start": 54.972,
+     "end": 55.13
+    },
+    {
+     "w": "it.",
+     "start": 55.13,
+     "end": 55.287
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.74,
+   "end": 58.74,
+   "text": "And congrats, you just built the Great Wall of China yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 55.85,
+     "end": 56.06
+    },
+    {
+     "w": "congrats,",
+     "start": 56.06,
+     "end": 56.426
+    },
+    {
+     "w": "you",
+     "start": 56.426,
+     "end": 56.636
+    },
+    {
+     "w": "just",
+     "start": 56.636,
+     "end": 56.847
+    },
+    {
+     "w": "built",
+     "start": 56.847,
+     "end": 57.057
+    },
+    {
+     "w": "the",
+     "start": 57.057,
+     "end": 57.267
+    },
+    {
+     "w": "Great",
+     "start": 57.267,
+     "end": 57.478
+    },
+    {
+     "w": "Wall",
+     "start": 57.478,
+     "end": 57.688
+    },
+    {
+     "w": "of",
+     "start": 57.688,
+     "end": 57.898
+    },
+    {
+     "w": "China",
+     "start": 57.898,
+     "end": 58.264
+    },
+    {
+     "w": "yourself.",
+     "start": 58.264,
+     "end": 58.63
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.104,
+   "end": 64.573,
+   "text": "Smoke jumped tower to tower across provinces, and your friend saw your message yesterday and still hasn't replied.",
+   "words": [
+    {
+     "w": "Smoke",
+     "start": 59.164,
+     "end": 59.375
+    },
+    {
+     "w": "jumped",
+     "start": 59.375,
+     "end": 59.741
+    },
+    {
+     "w": "tower",
+     "start": 59.741,
+     "end": 60.108
+    },
+    {
+     "w": "to",
+     "start": 60.108,
+     "end": 60.318
+    },
+    {
+     "w": "tower",
+     "start": 60.318,
+     "end": 60.685
+    },
+    {
+     "w": "across",
+     "start": 60.685,
+     "end": 61.051
+    },
+    {
+     "w": "provinces,",
+     "start": 61.051,
+     "end": 61.574
+    },
+    {
+     "w": "and",
+     "start": 61.714,
+     "end": 61.914
+    },
+    {
+     "w": "your",
+     "start": 61.914,
+     "end": 62.114
+    },
+    {
+     "w": "friend",
+     "start": 62.114,
+     "end": 62.313
+    },
+    {
+     "w": "saw",
+     "start": 62.313,
+     "end": 62.513
+    },
+    {
+     "w": "your",
+     "start": 62.513,
+     "end": 62.713
+    },
+    {
+     "w": "message",
+     "start": 62.713,
+     "end": 63.061
+    },
+    {
+     "w": "yesterday",
+     "start": 63.061,
+     "end": 63.557
+    },
+    {
+     "w": "and",
+     "start": 63.557,
+     "end": 63.757
+    },
+    {
+     "w": "still",
+     "start": 63.757,
+     "end": 63.956
+    },
+    {
+     "w": "hasn't",
+     "start": 63.956,
+     "end": 64.156
+    },
+    {
+     "w": "replied.",
+     "start": 64.156,
+     "end": 64.504
+    }
+   ]
+  }
+ ]
+}
