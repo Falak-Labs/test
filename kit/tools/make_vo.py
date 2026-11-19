@@ -35,6 +35,16 @@ a = ap.parse_args()
 MAX_PAUSE, KEEP_PAUSE = 0.16, 0.11
 
 
+# How Easton should say a word; the captions and the json keep the script's spelling (Nov 19: "riad" came out as "riot").
+SAY = {"riad": "ree-ahd", "riads": "ree-ahds"}
+
+
+def say(line):
+    for k, v in SAY.items():
+        line = re.sub(r"\b%s\b" % k, lambda m, v=v: v.capitalize() if m.group(0)[0].isupper() else v, line, flags=re.I)
+    return line
+
+
 def clean(line):
     s = line.replace("…", ",").replace("...", ",")
     s = re.sub(r"\s*—\s*", ", ", s)
@@ -76,7 +86,7 @@ tts = ptts.TTS(model, lang="en", quant="q8", voice_catalog=voices)
 lines = [clean(l) for l in open(a.lines, encoding="utf-8") if l.strip()]
 pieces, timing, t, sr = [], [], 0.0, 24000
 for i, line in enumerate(lines, 1):
-    au = tighten(np.asarray(tts.synth(line, voice=a.voice), np.float32), tts.sample_rate)
+    au = tighten(np.asarray(tts.synth(say(line), voice=a.voice), np.float32), tts.sample_rate)
     sr = tts.sample_rate
     d = len(au) / sr
     timing.append({"line": i, "start": round(t, 3), "end": round(t + d, 3), "text": line})
