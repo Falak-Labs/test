@@ -27,9 +27,9 @@ episodes:
   - {slug: ep22-datacenter, kit: datacenter, look: 2, retired: true}
   - {slug: ep23-desal, kit: desal, look: 2, retired: true}
   - {slug: ep24-nuclear, kit: nuclear, look: 2, retired: true}
-  - {slug: ep25-carrier, kit: carrier, look: 2}
-  - {slug: ep26-tower, kit: tower, look: 2}
-  - {slug: ep27-tunnel, kit: tunnel, look: 2}
+  - {slug: ep25-carrier, kit: carrier, look: 2, retired: true}
+  - {slug: ep26-tower, kit: tower, look: 2, retired: true}
+  - {slug: ep27-tunnel, kit: tunnel, look: 2, retired: true}
   - {slug: ep28-bullettrain, kit: bullettrain, look: 2}
   - {slug: ep29-humanoid, kit: humanoid, look: 2}
   - {slug: ep30-stadium, kit: stadium, look: 2}
