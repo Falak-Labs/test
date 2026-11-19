@@ -43,7 +43,7 @@ for lang, var in (("en", "BUFFER_KEY_EN"), ("ar", "BUFFER_KEY_AR")):
             sel = buf.selection(out_name, None) or "__typename"
             ids = [ch["id"] for ch in chans]
             names = {f[0] for f in in_f}
-            today = dt.datetime.now(dt.timezone.utc).date()
+            today = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=8)).date()      # the channels' day (PT)
             tries = []
             base = {}
             if "organizationId" in names:
@@ -52,8 +52,9 @@ for lang, var in (("en", "BUFFER_KEY_EN"), ("ar", "BUFFER_KEY_AR")):
                 base["channelIds"] = ids
             date_key = next((n for n in ("date", "day", "dates", "days") if n in names), None)
             if date_key:
-                for d in (today, today + dt.timedelta(days=1)):
-                    v = [d.isoformat()] if date_key.endswith("s") else d.isoformat()
+                for d in (today, today + dt.timedelta(days=1), today + dt.timedelta(days=2)):
+                    iso = d.isoformat() + "T20:00:00.000Z"                                  # noon PT that day
+                    v = [iso] if date_key.endswith("s") else iso
                     tries.append(dict(base, **{date_key: v}))
             else:
                 tries.append(base)
