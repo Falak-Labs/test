@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 65.59,
+ "duration": 65.49,
  "words": 225,
- "words_per_sec": 3.43,
+ "words_per_sec": 3.44,
  "lines": [
   {
    "line": 1,
@@ -371,870 +371,870 @@
   {
    "line": 5,
    "start": 18.062,
-   "end": 22.625,
-   "text": "So you dig a tunnel back to the well, so gently sloped that gravity alone brings the water out.",
+   "end": 22.771,
+   "text": "So you dig a tunnel back to the well, on a slope so gentle that gravity alone brings the water out.",
    "words": [
     {
      "w": "So",
      "start": 18.182,
-     "end": 18.35
+     "end": 18.352
     },
     {
      "w": "you",
-     "start": 18.35,
-     "end": 18.519
+     "start": 18.352,
+     "end": 18.523
     },
     {
      "w": "dig",
-     "start": 18.519,
-     "end": 18.687
+     "start": 18.523,
+     "end": 18.693
     },
     {
      "w": "a",
-     "start": 18.687,
-     "end": 18.855
+     "start": 18.693,
+     "end": 18.864
     },
     {
      "w": "tunnel",
-     "start": 18.855,
-     "end": 19.149
+     "start": 18.864,
+     "end": 19.16
     },
     {
      "w": "back",
-     "start": 19.149,
-     "end": 19.317
+     "start": 19.16,
+     "end": 19.331
     },
     {
      "w": "to",
-     "start": 19.317,
-     "end": 19.485
+     "start": 19.331,
+     "end": 19.501
     },
     {
      "w": "the",
-     "start": 19.485,
-     "end": 19.654
+     "start": 19.501,
+     "end": 19.672
     },
     {
      "w": "well,",
-     "start": 19.654,
-     "end": 19.822
+     "start": 19.672,
+     "end": 19.842
+    },
+    {
+     "w": "on",
+     "start": 19.962,
+     "end": 20.146
+    },
+    {
+     "w": "a",
+     "start": 20.146,
+     "end": 20.33
+    },
+    {
+     "w": "slope",
+     "start": 20.33,
+     "end": 20.513
     },
     {
      "w": "so",
-     "start": 19.972,
-     "end": 20.153
+     "start": 20.513,
+     "end": 20.697
     },
     {
-     "w": "gently",
-     "start": 20.153,
-     "end": 20.469
-    },
-    {
-     "w": "sloped",
-     "start": 20.469,
-     "end": 20.785
+     "w": "gentle",
+     "start": 20.697,
+     "end": 20.881
     },
     {
      "w": "that",
-     "start": 20.785,
-     "end": 20.966
+     "start": 20.881,
+     "end": 21.065
     },
     {
      "w": "gravity",
-     "start": 20.966,
-     "end": 21.416
+     "start": 21.065,
+     "end": 21.521
     },
     {
      "w": "alone",
-     "start": 21.416,
-     "end": 21.732
+     "start": 21.521,
+     "end": 21.841
     },
     {
      "w": "brings",
-     "start": 21.732,
-     "end": 21.913
+     "start": 21.841,
+     "end": 22.024
     },
     {
      "w": "the",
-     "start": 21.913,
-     "end": 22.095
+     "start": 22.024,
+     "end": 22.208
     },
     {
      "w": "water",
-     "start": 22.095,
-     "end": 22.411
+     "start": 22.208,
+     "end": 22.528
     },
     {
      "w": "out.",
-     "start": 22.411,
-     "end": 22.592
+     "start": 22.528,
+     "end": 22.712
     }
    ]
   },
   {
    "line": 6,
-   "start": 22.99,
-   "end": 27.531,
+   "start": 23.135,
+   "end": 27.677,
    "text": "But you dig by hand, underground, in the heat: a digger lasts twenty minutes at a time.",
    "words": [
     {
      "w": "But",
-     "start": 23.13,
-     "end": 23.332
+     "start": 23.275,
+     "end": 23.477
     },
     {
      "w": "you",
-     "start": 23.332,
-     "end": 23.534
+     "start": 23.477,
+     "end": 23.679
     },
     {
      "w": "dig",
-     "start": 23.534,
-     "end": 23.736
+     "start": 23.679,
+     "end": 23.881
     },
     {
      "w": "by",
-     "start": 23.736,
-     "end": 23.938
+     "start": 23.881,
+     "end": 24.083
     },
     {
      "w": "hand,",
-     "start": 23.938,
-     "end": 24.14
+     "start": 24.083,
+     "end": 24.285
     },
     {
      "w": "underground,",
-     "start": 24.28,
-     "end": 24.89
+     "start": 24.425,
+     "end": 25.035
     },
     {
      "w": "in",
-     "start": 25.03,
-     "end": 25.183
+     "start": 25.175,
+     "end": 25.328
     },
     {
      "w": "the",
-     "start": 25.183,
-     "end": 25.337
+     "start": 25.328,
+     "end": 25.482
     },
     {
      "w": "heat:",
-     "start": 25.337,
-     "end": 25.49
+     "start": 25.482,
+     "end": 25.635
     },
     {
      "w": "a",
-     "start": 25.66,
-     "end": 25.825
+     "start": 25.795,
+     "end": 25.961
     },
     {
      "w": "digger",
-     "start": 25.825,
-     "end": 26.112
+     "start": 25.961,
+     "end": 26.25
     },
     {
      "w": "lasts",
-     "start": 26.112,
-     "end": 26.278
+     "start": 26.25,
+     "end": 26.416
     },
     {
      "w": "twenty",
-     "start": 26.278,
-     "end": 26.565
+     "start": 26.416,
+     "end": 26.705
     },
     {
      "w": "minutes",
-     "start": 26.565,
-     "end": 26.975
+     "start": 26.705,
+     "end": 27.117
     },
     {
      "w": "at",
-     "start": 26.975,
-     "end": 27.14
+     "start": 27.117,
+     "end": 27.283
     },
     {
      "w": "a",
-     "start": 27.14,
-     "end": 27.305
+     "start": 27.283,
+     "end": 27.449
     },
     {
      "w": "time.",
-     "start": 27.305,
-     "end": 27.47
+     "start": 27.449,
+     "end": 27.615
     }
    ]
   },
   {
    "line": 7,
-   "start": 27.896,
-   "end": 31.5,
+   "start": 28.042,
+   "end": 31.646,
    "text": "So you sink shafts for air and rock. From a plane they look like a dotted line.",
    "words": [
     {
      "w": "So",
-     "start": 28.006,
-     "end": 28.205
+     "start": 28.152,
+     "end": 28.35
     },
     {
      "w": "you",
-     "start": 28.205,
-     "end": 28.404
+     "start": 28.35,
+     "end": 28.547
     },
     {
      "w": "sink",
-     "start": 28.404,
-     "end": 28.602
+     "start": 28.547,
+     "end": 28.745
     },
     {
      "w": "shafts",
-     "start": 28.602,
-     "end": 28.801
+     "start": 28.745,
+     "end": 28.942
     },
     {
      "w": "for",
-     "start": 28.801,
-     "end": 29.0
+     "start": 28.942,
+     "end": 29.14
     },
     {
      "w": "air",
-     "start": 29.0,
-     "end": 29.198
+     "start": 29.14,
+     "end": 29.337
     },
     {
      "w": "and",
-     "start": 29.198,
-     "end": 29.397
+     "start": 29.337,
+     "end": 29.534
     },
     {
      "w": "rock.",
-     "start": 29.397,
-     "end": 29.596
+     "start": 29.534,
+     "end": 29.732
     },
     {
      "w": "From",
-     "start": 29.786,
-     "end": 29.955
+     "start": 29.932,
+     "end": 30.099
     },
     {
      "w": "a",
-     "start": 29.955,
-     "end": 30.125
+     "start": 30.099,
+     "end": 30.267
     },
     {
      "w": "plane",
-     "start": 30.125,
-     "end": 30.294
+     "start": 30.267,
+     "end": 30.434
     },
     {
      "w": "they",
-     "start": 30.294,
-     "end": 30.464
+     "start": 30.434,
+     "end": 30.601
     },
     {
      "w": "look",
-     "start": 30.464,
-     "end": 30.633
+     "start": 30.601,
+     "end": 30.769
     },
     {
      "w": "like",
-     "start": 30.633,
-     "end": 30.802
+     "start": 30.769,
+     "end": 30.936
     },
     {
      "w": "a",
-     "start": 30.802,
-     "end": 30.972
+     "start": 30.936,
+     "end": 31.103
     },
     {
      "w": "dotted",
-     "start": 30.972,
-     "end": 31.267
+     "start": 31.103,
+     "end": 31.395
     },
     {
      "w": "line.",
-     "start": 31.267,
-     "end": 31.436
+     "start": 31.395,
+     "end": 31.562
     }
    ]
   },
   {
    "line": 8,
-   "start": 31.865,
-   "end": 35.385,
+   "start": 32.01,
+   "end": 35.531,
    "text": "Now one stream must water two hundred owners, and everyone wants it now.",
    "words": [
     {
      "w": "Now",
-     "start": 31.965,
-     "end": 32.167
+     "start": 32.11,
+     "end": 32.311
     },
     {
      "w": "one",
-     "start": 32.167,
-     "end": 32.369
+     "start": 32.311,
+     "end": 32.512
     },
     {
      "w": "stream",
-     "start": 32.369,
-     "end": 32.57
+     "start": 32.512,
+     "end": 32.713
     },
     {
      "w": "must",
-     "start": 32.57,
-     "end": 32.772
+     "start": 32.713,
+     "end": 32.915
     },
     {
      "w": "water",
-     "start": 32.772,
-     "end": 33.123
+     "start": 32.915,
+     "end": 33.265
     },
     {
      "w": "two",
-     "start": 33.123,
-     "end": 33.325
+     "start": 33.265,
+     "end": 33.466
     },
     {
      "w": "hundred",
-     "start": 33.325,
-     "end": 33.676
+     "start": 33.466,
+     "end": 33.816
     },
     {
      "w": "owners,",
-     "start": 33.676,
-     "end": 34.027
+     "start": 33.816,
+     "end": 34.166
     },
     {
      "w": "and",
-     "start": 34.027,
-     "end": 34.229
+     "start": 34.166,
+     "end": 34.367
     },
     {
      "w": "everyone",
-     "start": 34.229,
-     "end": 34.73
+     "start": 34.367,
+     "end": 34.867
     },
     {
      "w": "wants",
-     "start": 34.73,
-     "end": 34.931
+     "start": 34.867,
+     "end": 35.068
     },
     {
      "w": "it",
-     "start": 34.931,
-     "end": 35.133
+     "start": 35.068,
+     "end": 35.269
     },
     {
      "w": "now.",
-     "start": 35.133,
-     "end": 35.335
+     "start": 35.269,
+     "end": 35.47
     }
    ]
   },
   {
    "line": 9,
-   "start": 35.75,
-   "end": 41.062,
+   "start": 35.896,
+   "end": 41.208,
    "text": "So you share it by time, half-hour turns: a sundial's shadow ends your turn by day, the stars by night.",
    "words": [
     {
      "w": "So",
-     "start": 35.86,
-     "end": 36.107
+     "start": 36.006,
+     "end": 36.253
     },
     {
      "w": "you",
-     "start": 36.107,
-     "end": 36.353
+     "start": 36.253,
+     "end": 36.499
     },
     {
      "w": "share",
-     "start": 36.353,
-     "end": 36.6
+     "start": 36.499,
+     "end": 36.746
     },
     {
      "w": "it",
-     "start": 36.6,
-     "end": 36.847
+     "start": 36.746,
+     "end": 36.993
     },
     {
      "w": "by",
-     "start": 36.847,
-     "end": 37.093
+     "start": 36.993,
+     "end": 37.239
     },
     {
      "w": "time,",
-     "start": 37.093,
-     "end": 37.34
+     "start": 37.239,
+     "end": 37.486
     },
     {
      "w": "half-hour",
-     "start": 37.39,
-     "end": 37.803
+     "start": 37.536,
+     "end": 37.949
     },
     {
      "w": "turns:",
-     "start": 37.803,
-     "end": 38.04
+     "start": 37.949,
+     "end": 38.186
     },
     {
      "w": "a",
-     "start": 38.17,
-     "end": 38.375
+     "start": 38.316,
+     "end": 38.521
     },
     {
      "w": "sundial's",
-     "start": 38.375,
-     "end": 38.731
+     "start": 38.521,
+     "end": 38.877
     },
     {
      "w": "shadow",
-     "start": 38.731,
-     "end": 39.087
+     "start": 38.877,
+     "end": 39.233
     },
     {
      "w": "ends",
-     "start": 39.087,
-     "end": 39.292
+     "start": 39.233,
+     "end": 39.438
     },
     {
      "w": "your",
-     "start": 39.292,
-     "end": 39.496
+     "start": 39.438,
+     "end": 39.642
     },
     {
      "w": "turn",
-     "start": 39.496,
-     "end": 39.701
+     "start": 39.642,
+     "end": 39.847
     },
     {
      "w": "by",
-     "start": 39.701,
-     "end": 39.905
+     "start": 39.847,
+     "end": 40.051
     },
     {
      "w": "day,",
-     "start": 39.905,
-     "end": 40.11
+     "start": 40.051,
+     "end": 40.256
     },
     {
      "w": "the",
-     "start": 40.25,
-     "end": 40.435
+     "start": 40.396,
+     "end": 40.581
     },
     {
      "w": "stars",
-     "start": 40.435,
-     "end": 40.62
+     "start": 40.581,
+     "end": 40.766
     },
     {
      "w": "by",
-     "start": 40.62,
-     "end": 40.805
+     "start": 40.766,
+     "end": 40.951
     },
     {
      "w": "night.",
-     "start": 40.805,
-     "end": 40.99
+     "start": 40.951,
+     "end": 41.136
     }
    ]
   },
   {
    "line": 10,
-   "start": 41.427,
-   "end": 45.854,
+   "start": 41.573,
+   "end": 46.0,
    "text": "But before you open your gate, follow, because next we're building Machu Picchu's terraces.",
    "words": [
     {
      "w": "But",
-     "start": 41.567,
-     "end": 41.734
+     "start": 41.723,
+     "end": 41.889
     },
     {
      "w": "before",
-     "start": 41.734,
-     "end": 42.025
+     "start": 41.889,
+     "end": 42.177
     },
     {
      "w": "you",
-     "start": 42.025,
-     "end": 42.192
+     "start": 42.177,
+     "end": 42.343
     },
     {
      "w": "open",
-     "start": 42.192,
-     "end": 42.483
+     "start": 42.343,
+     "end": 42.632
     },
     {
      "w": "your",
-     "start": 42.483,
-     "end": 42.65
+     "start": 42.632,
+     "end": 42.797
     },
     {
      "w": "gate,",
-     "start": 42.65,
-     "end": 42.817
+     "start": 42.797,
+     "end": 42.963
     },
     {
      "w": "follow,",
-     "start": 43.007,
-     "end": 43.347
+     "start": 43.153,
+     "end": 43.493
     },
     {
      "w": "because",
-     "start": 43.477,
-     "end": 43.828
+     "start": 43.623,
+     "end": 43.974
     },
     {
      "w": "next",
-     "start": 43.828,
-     "end": 44.03
+     "start": 43.974,
+     "end": 44.176
     },
     {
      "w": "we're",
-     "start": 44.03,
-     "end": 44.232
+     "start": 44.176,
+     "end": 44.378
     },
     {
      "w": "building",
-     "start": 44.232,
-     "end": 44.583
+     "start": 44.378,
+     "end": 44.729
     },
     {
      "w": "Machu",
-     "start": 44.583,
-     "end": 44.935
+     "start": 44.729,
+     "end": 45.081
     },
     {
      "w": "Picchu's",
-     "start": 44.935,
-     "end": 45.286
+     "start": 45.081,
+     "end": 45.432
     },
     {
      "w": "terraces.",
-     "start": 45.286,
-     "end": 45.787
+     "start": 45.432,
+     "end": 45.933
     }
    ]
   },
   {
    "line": 11,
-   "start": 46.219,
-   "end": 51.302,
+   "start": 46.365,
+   "end": 51.448,
    "text": "Then it runs through the village: drinking water first, then baths, then washing, then the palms.",
    "words": [
     {
      "w": "Then",
-     "start": 46.329,
-     "end": 46.517
+     "start": 46.475,
+     "end": 46.662
     },
     {
      "w": "it",
-     "start": 46.517,
-     "end": 46.706
+     "start": 46.662,
+     "end": 46.849
     },
     {
      "w": "runs",
-     "start": 46.706,
-     "end": 46.894
+     "start": 46.849,
+     "end": 47.036
     },
     {
      "w": "through",
-     "start": 46.894,
-     "end": 47.083
+     "start": 47.036,
+     "end": 47.223
     },
     {
      "w": "the",
-     "start": 47.083,
-     "end": 47.271
+     "start": 47.223,
+     "end": 47.41
     },
     {
      "w": "village:",
-     "start": 47.271,
-     "end": 47.599
+     "start": 47.41,
+     "end": 47.735
     },
     {
      "w": "drinking",
-     "start": 47.739,
-     "end": 48.116
+     "start": 47.875,
+     "end": 48.252
     },
     {
      "w": "water",
-     "start": 48.116,
-     "end": 48.493
+     "start": 48.252,
+     "end": 48.629
     },
     {
      "w": "first,",
-     "start": 48.493,
-     "end": 48.709
+     "start": 48.629,
+     "end": 48.845
     },
     {
      "w": "then",
-     "start": 48.909,
-     "end": 49.169
+     "start": 49.055,
+     "end": 49.32
     },
     {
      "w": "baths,",
-     "start": 49.169,
-     "end": 49.429
+     "start": 49.32,
+     "end": 49.585
     },
     {
      "w": "then",
-     "start": 49.479,
-     "end": 49.822
+     "start": 49.635,
+     "end": 49.974
     },
     {
      "w": "washing,",
-     "start": 49.822,
-     "end": 50.419
+     "start": 49.974,
+     "end": 50.565
     },
     {
      "w": "then",
-     "start": 50.569,
-     "end": 50.786
+     "start": 50.715,
+     "end": 50.935
     },
     {
      "w": "the",
-     "start": 50.786,
-     "end": 51.002
+     "start": 50.935,
+     "end": 51.155
     },
     {
      "w": "palms.",
-     "start": 51.002,
-     "end": 51.219
+     "start": 51.155,
+     "end": 51.375
     }
    ]
   },
   {
    "line": 12,
-   "start": 51.667,
-   "end": 56.271,
-   "text": "Over three thousand still flowing, wells sixty meters deep, some fifteen centuries old.",
+   "start": 51.813,
+   "end": 56.188,
+   "text": "Over three thousand still flowing, sixty-meter wells, some fifteen centuries old.",
    "words": [
     {
      "w": "Over",
-     "start": 51.757,
-     "end": 52.155
+     "start": 51.923,
+     "end": 52.313
     },
     {
      "w": "three",
-     "start": 52.155,
-     "end": 52.383
+     "start": 52.313,
+     "end": 52.538
     },
     {
      "w": "thousand",
-     "start": 52.383,
-     "end": 52.781
+     "start": 52.538,
+     "end": 52.928
     },
     {
      "w": "still",
-     "start": 52.781,
-     "end": 53.009
+     "start": 52.928,
+     "end": 53.153
     },
     {
      "w": "flowing,",
-     "start": 53.009,
-     "end": 53.407
+     "start": 53.153,
+     "end": 53.543
     },
     {
-     "w": "wells",
-     "start": 53.547,
-     "end": 53.751
+     "w": "sixty-meter",
+     "start": 53.703,
+     "end": 54.428
     },
     {
-     "w": "sixty",
-     "start": 53.751,
-     "end": 54.107
-    },
-    {
-     "w": "meters",
-     "start": 54.107,
-     "end": 54.463
-    },
-    {
-     "w": "deep,",
-     "start": 54.463,
-     "end": 54.667
+     "w": "wells,",
+     "start": 54.428,
+     "end": 54.653
     },
     {
      "w": "some",
-     "start": 54.867,
-     "end": 55.081
+     "start": 54.783,
+     "end": 54.995
     },
     {
      "w": "fifteen",
-     "start": 55.081,
-     "end": 55.453
+     "start": 54.995,
+     "end": 55.364
     },
     {
      "w": "centuries",
-     "start": 55.453,
-     "end": 55.983
+     "start": 55.364,
+     "end": 55.891
     },
     {
      "w": "old.",
-     "start": 55.983,
-     "end": 56.197
+     "start": 55.891,
+     "end": 56.103
     }
    ]
   },
   {
    "line": 13,
-   "start": 56.635,
-   "end": 59.583,
+   "start": 56.552,
+   "end": 59.5,
    "text": "And congrats, you just built an Omani falaj yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.755,
-     "end": 56.968
+     "start": 56.672,
+     "end": 56.884
     },
     {
      "w": "congrats,",
-     "start": 56.968,
-     "end": 57.338
+     "start": 56.884,
+     "end": 57.252
     },
     {
      "w": "you",
-     "start": 57.338,
-     "end": 57.55
+     "start": 57.252,
+     "end": 57.464
     },
     {
      "w": "just",
-     "start": 57.55,
-     "end": 57.763
+     "start": 57.464,
+     "end": 57.676
     },
     {
      "w": "built",
-     "start": 57.763,
-     "end": 57.975
+     "start": 57.676,
+     "end": 57.888
     },
     {
      "w": "an",
-     "start": 57.975,
-     "end": 58.188
+     "start": 57.888,
+     "end": 58.099
     },
     {
      "w": "Omani",
-     "start": 58.188,
-     "end": 58.715
+     "start": 58.099,
+     "end": 58.625
     },
     {
      "w": "falaj",
-     "start": 58.715,
-     "end": 59.085
+     "start": 58.625,
+     "end": 58.993
     },
     {
      "w": "yourself.",
-     "start": 59.085,
-     "end": 59.455
+     "start": 58.993,
+     "end": 59.362
     }
    ]
   },
   {
    "line": 14,
-   "start": 59.948,
-   "end": 65.594,
+   "start": 59.865,
+   "end": 65.51,
    "text": "Fifteen centuries of sharing one stream with no fights, and your family still can't share one bathroom at seven a.m.",
    "words": [
     {
      "w": "Fifteen",
-     "start": 60.128,
-     "end": 60.45
+     "start": 60.045,
+     "end": 60.367
     },
     {
      "w": "centuries",
-     "start": 60.45,
-     "end": 60.908
+     "start": 60.367,
+     "end": 60.825
     },
     {
      "w": "of",
-     "start": 60.908,
-     "end": 61.093
+     "start": 60.825,
+     "end": 61.01
     },
     {
      "w": "sharing",
-     "start": 61.093,
-     "end": 61.414
+     "start": 61.01,
+     "end": 61.331
     },
     {
      "w": "one",
-     "start": 61.414,
-     "end": 61.599
+     "start": 61.331,
+     "end": 61.516
     },
     {
      "w": "stream",
-     "start": 61.599,
-     "end": 61.784
+     "start": 61.516,
+     "end": 61.701
     },
     {
      "w": "with",
-     "start": 61.784,
-     "end": 61.969
+     "start": 61.701,
+     "end": 61.886
     },
     {
      "w": "no",
-     "start": 61.969,
-     "end": 62.153
+     "start": 61.886,
+     "end": 62.07
     },
     {
      "w": "fights,",
-     "start": 62.153,
-     "end": 62.338
+     "start": 62.07,
+     "end": 62.255
     },
     {
      "w": "and",
-     "start": 62.418,
-     "end": 62.641
+     "start": 62.335,
+     "end": 62.558
     },
     {
      "w": "your",
-     "start": 62.641,
-     "end": 62.865
+     "start": 62.558,
+     "end": 62.782
     },
     {
      "w": "family",
-     "start": 62.865,
-     "end": 63.419
+     "start": 62.782,
+     "end": 63.336
     },
     {
      "w": "still",
-     "start": 63.419,
-     "end": 63.643
+     "start": 63.336,
+     "end": 63.56
     },
     {
      "w": "can't",
-     "start": 63.643,
-     "end": 63.866
+     "start": 63.56,
+     "end": 63.783
     },
     {
      "w": "share",
-     "start": 63.866,
-     "end": 64.09
+     "start": 63.783,
+     "end": 64.007
     },
     {
      "w": "one",
-     "start": 64.09,
-     "end": 64.313
+     "start": 64.007,
+     "end": 64.23
     },
     {
      "w": "bathroom",
-     "start": 64.313,
-     "end": 64.702
+     "start": 64.23,
+     "end": 64.619
     },
     {
      "w": "at",
-     "start": 64.702,
-     "end": 64.926
+     "start": 64.619,
+     "end": 64.843
     },
     {
      "w": "seven",
-     "start": 64.926,
-     "end": 65.315
+     "start": 64.843,
+     "end": 65.232
     },
     {
      "w": "a.m.",
-     "start": 65.315,
-     "end": 65.538
+     "start": 65.232,
+     "end": 65.455
     }
    ]
   }
