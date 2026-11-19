@@ -693,3 +693,10 @@
   never in 1240-1420; when a section diagram is wider than the frame, pan along it (well -> village -> wide) instead of
   zooming out to 0.4; fill everything under a close-up set (a sky gradient left under a wall shows a bright band).
 - falaj's first produce run was cancelled to render it again with a closer closer shot (bigger channel on the cover).
+- Machu Picchu was rendered three times: the hook's "knife-edge" came out as "9th edge" in Whisper small on the mix.
+  Moving the whoosh and lowering the rain hiss (-10 -> -20 dB) did not change Whisper small (the voice alone reads
+  right, CI's base.en reads the final mix right): Easton's "knife" is just borderline. Accepted; the caption shows
+  KNIFE-EDGE. make.py <scene> <vo prefix> <out> audio builds only the mix locally: test effect changes that way first.
+- Final videos: 43 EN 68.3 / AR 69.1 s, 44 EN 68.6 / AR 71.7 s, 45 EN 68.9 / AR 71.5 s; -14 LUFS, peaks -1.7 to -2.6
+  dBFS, covers in. ElevenLabs (MCP account_get_usage, 04:36Z): still Creator, 62,444 of 127,949 used, reset Dec 12; at
+  about 5,400 a day (six Arabic voices) it lasts until about Dec 1.
