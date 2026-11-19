@@ -1,4 +1,4 @@
-# Post status 2026-11-19T20:43:47+00:00
+# Post status 2026-11-19T20:54:40+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -272,3 +272,9 @@
 | ep45-machupicchu | en.instagram | scheduled |  | 2026-11-20T02:30:00.000Z |
 | ep45-machupicchu | en.tiktok | sent |  | 2026-11-19T05:41:59.472Z https://tiktok.com/@congratsengineer/video/7709753097454767374 |
 | ep45-machupicchu | en.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-19T07:26:13.115Z |
+| ep46-aswan | ar.instagram | scheduled |  | 2026-11-20T08:00:00.000Z |
+| ep46-aswan | ar.tiktok | scheduled |  | 2026-11-20T08:00:00.000Z |
+| ep46-aswan | ar.youtube | scheduled |  | 2026-11-20T08:00:00.000Z |
+| ep46-aswan | en.instagram | scheduled |  | 2026-11-20T14:00:00.000Z |
+| ep46-aswan | en.tiktok | scheduled |  | 2026-11-20T14:00:00.000Z |
+| ep46-aswan | en.youtube | scheduled |  | 2026-11-20T14:00:00.000Z |
