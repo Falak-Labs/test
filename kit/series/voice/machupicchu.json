@@ -2,8 +2,8 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 66.08,
- "words": 215,
+ "duration": 65.76,
+ "words": 214,
  "words_per_sec": 3.25,
  "lines": [
   {
@@ -411,785 +411,780 @@
   {
    "line": 5,
    "start": 21.188,
-   "end": 27.156,
-   "text": "So you fill each terrace in layers: stones, gravel, sand, topsoil, and rain drains straight through.",
+   "end": 27.031,
+   "text": "So you fill each terrace in layers: stones, gravel, sand, topsoil, and rain runs straight through.",
    "words": [
     {
      "w": "So",
      "start": 21.298,
-     "end": 21.611
+     "end": 21.6
     },
     {
      "w": "you",
-     "start": 21.611,
-     "end": 21.923
+     "start": 21.6,
+     "end": 21.903
     },
     {
      "w": "fill",
-     "start": 21.923,
-     "end": 22.236
+     "start": 21.903,
+     "end": 22.205
     },
     {
      "w": "each",
-     "start": 22.236,
-     "end": 22.549
+     "start": 22.205,
+     "end": 22.507
     },
     {
      "w": "terrace",
-     "start": 22.549,
-     "end": 23.093
+     "start": 22.507,
+     "end": 23.033
     },
     {
      "w": "in",
-     "start": 23.093,
-     "end": 23.405
+     "start": 23.033,
+     "end": 23.336
     },
     {
      "w": "layers:",
-     "start": 23.405,
-     "end": 23.718
+     "start": 23.336,
+     "end": 23.638
     },
     {
      "w": "stones,",
-     "start": 23.868,
-     "end": 24.348
+     "start": 23.798,
+     "end": 24.278
     },
     {
      "w": "gravel,",
-     "start": 24.438,
-     "end": 24.878
+     "start": 24.338,
+     "end": 24.818
     },
     {
      "w": "sand,",
-     "start": 25.018,
-     "end": 25.252
+     "start": 24.958,
+     "end": 25.206
     },
     {
      "w": "topsoil,",
-     "start": 25.252,
-     "end": 25.658
+     "start": 25.206,
+     "end": 25.638
     },
     {
      "w": "and",
      "start": 25.808,
-     "end": 26.064
+     "end": 26.038
     },
     {
      "w": "rain",
-     "start": 26.064,
-     "end": 26.32
+     "start": 26.038,
+     "end": 26.268
     },
     {
-     "w": "drains",
-     "start": 26.32,
-     "end": 26.576
+     "w": "runs",
+     "start": 26.268,
+     "end": 26.498
     },
     {
      "w": "straight",
-     "start": 26.576,
-     "end": 26.832
+     "start": 26.498,
+     "end": 26.728
     },
     {
      "w": "through.",
-     "start": 26.832,
-     "end": 27.088
+     "start": 26.728,
+     "end": 26.958
     }
    ]
   },
   {
    "line": 6,
-   "start": 27.521,
-   "end": 30.0,
+   "start": 27.396,
+   "end": 29.875,
    "text": "The city needs water too, but not floods.",
    "words": [
     {
      "w": "The",
-     "start": 27.651,
-     "end": 27.862
+     "start": 27.536,
+     "end": 27.746
     },
     {
      "w": "city",
-     "start": 27.862,
-     "end": 28.23
+     "start": 27.746,
+     "end": 28.111
     },
     {
      "w": "needs",
-     "start": 28.23,
-     "end": 28.442
+     "start": 28.111,
+     "end": 28.321
     },
     {
      "w": "water",
-     "start": 28.442,
-     "end": 28.81
+     "start": 28.321,
+     "end": 28.686
     },
     {
      "w": "too,",
-     "start": 28.81,
-     "end": 29.021
+     "start": 28.686,
+     "end": 28.896
     },
     {
      "w": "but",
-     "start": 29.171,
-     "end": 29.418
+     "start": 29.046,
+     "end": 29.293
     },
     {
      "w": "not",
-     "start": 29.418,
-     "end": 29.664
+     "start": 29.293,
+     "end": 29.539
     },
     {
      "w": "floods.",
-     "start": 29.664,
-     "end": 29.911
+     "start": 29.539,
+     "end": 29.786
     }
    ]
   },
   {
    "line": 7,
-   "start": 30.365,
-   "end": 35.177,
+   "start": 30.24,
+   "end": 35.052,
    "text": "So a stone canal feeds sixteen fountains, and over a hundred drain holes carry storms away.",
    "words": [
     {
      "w": "So",
-     "start": 30.465,
-     "end": 30.677
+     "start": 30.34,
+     "end": 30.532
     },
     {
      "w": "a",
-     "start": 30.677,
-     "end": 30.889
+     "start": 30.532,
+     "end": 30.724
     },
     {
      "w": "stone",
-     "start": 30.889,
-     "end": 31.101
+     "start": 30.724,
+     "end": 30.916
     },
     {
      "w": "canal",
-     "start": 31.101,
-     "end": 31.47
+     "start": 30.916,
+     "end": 31.25
     },
     {
      "w": "feeds",
-     "start": 31.47,
-     "end": 31.682
+     "start": 31.25,
+     "end": 31.442
     },
     {
      "w": "sixteen",
-     "start": 31.682,
-     "end": 32.052
+     "start": 31.442,
+     "end": 31.776
     },
     {
      "w": "fountains,",
-     "start": 32.052,
-     "end": 32.421
+     "start": 31.776,
+     "end": 32.11
     },
     {
      "w": "and",
-     "start": 32.421,
-     "end": 32.633
+     "start": 32.16,
+     "end": 32.383
     },
     {
      "w": "over",
-     "start": 32.633,
-     "end": 33.002
+     "start": 32.383,
+     "end": 32.771
     },
     {
      "w": "a",
-     "start": 33.002,
-     "end": 33.214
+     "start": 32.771,
+     "end": 32.993
     },
     {
      "w": "hundred",
-     "start": 33.214,
-     "end": 33.583
+     "start": 32.993,
+     "end": 33.381
     },
     {
      "w": "drain",
-     "start": 33.583,
-     "end": 33.795
+     "start": 33.381,
+     "end": 33.604
     },
     {
      "w": "holes",
-     "start": 33.795,
-     "end": 34.165
+     "start": 33.604,
+     "end": 33.992
     },
     {
      "w": "carry",
-     "start": 34.165,
-     "end": 34.534
+     "start": 33.992,
+     "end": 34.379
     },
     {
      "w": "storms",
-     "start": 34.534,
-     "end": 34.746
+     "start": 34.379,
+     "end": 34.602
     },
     {
      "w": "away.",
-     "start": 34.746,
-     "end": 35.115
+     "start": 34.602,
+     "end": 34.99
     }
    ]
   },
   {
    "line": 8,
-   "start": 35.542,
-   "end": 38.479,
+   "start": 35.417,
+   "end": 38.354,
    "text": "But it sits on fault lines, and earthquakes keep shaking it.",
    "words": [
     {
      "w": "But",
-     "start": 35.682,
-     "end": 35.878
+     "start": 35.557,
+     "end": 35.753
     },
     {
      "w": "it",
-     "start": 35.878,
-     "end": 36.074
+     "start": 35.753,
+     "end": 35.949
     },
     {
      "w": "sits",
-     "start": 36.074,
-     "end": 36.269
+     "start": 35.949,
+     "end": 36.144
     },
     {
      "w": "on",
-     "start": 36.269,
-     "end": 36.465
+     "start": 36.144,
+     "end": 36.34
     },
     {
      "w": "fault",
-     "start": 36.465,
-     "end": 36.661
+     "start": 36.34,
+     "end": 36.536
     },
     {
      "w": "lines,",
-     "start": 36.661,
-     "end": 37.002
+     "start": 36.536,
+     "end": 36.877
     },
     {
      "w": "and",
-     "start": 37.122,
-     "end": 37.301
+     "start": 36.997,
+     "end": 37.174
     },
     {
      "w": "earthquakes",
-     "start": 37.301,
-     "end": 37.744
+     "start": 37.174,
+     "end": 37.614
     },
     {
      "w": "keep",
-     "start": 37.744,
-     "end": 37.922
+     "start": 37.614,
+     "end": 37.791
     },
     {
      "w": "shaking",
-     "start": 37.922,
-     "end": 38.233
+     "start": 37.791,
+     "end": 38.1
     },
     {
      "w": "it.",
-     "start": 38.233,
-     "end": 38.412
+     "start": 38.1,
+     "end": 38.277
     }
    ]
   },
   {
    "line": 9,
-   "start": 38.844,
-   "end": 43.396,
+   "start": 38.719,
+   "end": 43.271,
    "text": "So you cut every stone so tight that paper won't slip between them, and lean the doors inward.",
    "words": [
     {
      "w": "So",
-     "start": 38.954,
-     "end": 39.152
+     "start": 38.829,
+     "end": 39.027
     },
     {
      "w": "you",
-     "start": 39.152,
-     "end": 39.35
+     "start": 39.027,
+     "end": 39.225
     },
     {
      "w": "cut",
-     "start": 39.35,
-     "end": 39.548
+     "start": 39.225,
+     "end": 39.423
     },
     {
      "w": "every",
-     "start": 39.548,
-     "end": 40.039
+     "start": 39.423,
+     "end": 39.914
     },
     {
      "w": "stone",
-     "start": 40.039,
-     "end": 40.237
+     "start": 39.914,
+     "end": 40.112
     },
     {
      "w": "so",
-     "start": 40.237,
-     "end": 40.435
+     "start": 40.112,
+     "end": 40.31
     },
     {
      "w": "tight",
-     "start": 40.435,
-     "end": 40.633
+     "start": 40.31,
+     "end": 40.508
     },
     {
      "w": "that",
-     "start": 40.633,
-     "end": 40.831
+     "start": 40.508,
+     "end": 40.706
     },
     {
      "w": "paper",
-     "start": 40.831,
-     "end": 41.176
+     "start": 40.706,
+     "end": 41.051
     },
     {
      "w": "won't",
-     "start": 41.176,
-     "end": 41.373
+     "start": 41.051,
+     "end": 41.248
     },
     {
      "w": "slip",
-     "start": 41.373,
-     "end": 41.571
+     "start": 41.248,
+     "end": 41.446
     },
     {
      "w": "between",
-     "start": 41.571,
-     "end": 41.916
+     "start": 41.446,
+     "end": 41.791
     },
     {
      "w": "them,",
-     "start": 41.916,
-     "end": 42.114
+     "start": 41.791,
+     "end": 41.989
     },
     {
      "w": "and",
-     "start": 42.264,
-     "end": 42.445
+     "start": 42.149,
+     "end": 42.33
     },
     {
      "w": "lean",
-     "start": 42.445,
-     "end": 42.626
+     "start": 42.33,
+     "end": 42.511
     },
     {
      "w": "the",
-     "start": 42.626,
-     "end": 42.807
+     "start": 42.511,
+     "end": 42.692
     },
     {
      "w": "doors",
-     "start": 42.807,
-     "end": 42.989
+     "start": 42.692,
+     "end": 42.874
     },
     {
      "w": "inward.",
-     "start": 42.989,
-     "end": 43.304
+     "start": 42.874,
+     "end": 43.189
     }
    ]
   },
   {
    "line": 10,
-   "start": 43.76,
-   "end": 48.062,
+   "start": 43.635,
+   "end": 47.938,
    "text": "But before you climb the last step, follow, because next we're building the Aswan High Dam.",
    "words": [
     {
      "w": "But",
-     "start": 43.91,
-     "end": 44.099
+     "start": 43.775,
+     "end": 43.964
     },
     {
      "w": "before",
-     "start": 44.099,
-     "end": 44.427
+     "start": 43.964,
+     "end": 44.292
     },
     {
      "w": "you",
-     "start": 44.427,
-     "end": 44.616
+     "start": 44.292,
+     "end": 44.481
     },
     {
      "w": "climb",
-     "start": 44.616,
-     "end": 44.804
+     "start": 44.481,
+     "end": 44.669
     },
     {
      "w": "the",
-     "start": 44.804,
-     "end": 44.993
+     "start": 44.669,
+     "end": 44.858
     },
     {
      "w": "last",
-     "start": 44.993,
-     "end": 45.181
+     "start": 44.858,
+     "end": 45.046
     },
     {
      "w": "step,",
-     "start": 45.181,
-     "end": 45.37
+     "start": 45.046,
+     "end": 45.235
     },
     {
      "w": "follow,",
-     "start": 45.54,
-     "end": 45.86
+     "start": 45.415,
+     "end": 45.735
     },
     {
      "w": "because",
-     "start": 45.98,
-     "end": 46.324
+     "start": 45.855,
+     "end": 46.199
     },
     {
      "w": "next",
-     "start": 46.324,
-     "end": 46.522
+     "start": 46.199,
+     "end": 46.397
     },
     {
      "w": "we're",
-     "start": 46.522,
-     "end": 46.719
+     "start": 46.397,
+     "end": 46.594
     },
     {
      "w": "building",
-     "start": 46.719,
-     "end": 47.063
+     "start": 46.594,
+     "end": 46.938
     },
     {
      "w": "the",
-     "start": 47.063,
-     "end": 47.261
+     "start": 46.938,
+     "end": 47.136
     },
     {
      "w": "Aswan",
-     "start": 47.261,
-     "end": 47.605
+     "start": 47.136,
+     "end": 47.48
     },
     {
      "w": "High",
-     "start": 47.605,
-     "end": 47.802
+     "start": 47.48,
+     "end": 47.677
     },
     {
      "w": "Dam.",
-     "start": 47.802,
-     "end": 48.0
+     "start": 47.677,
+     "end": 47.875
     }
    ]
   },
   {
    "line": 11,
-   "start": 48.427,
-   "end": 52.562,
-   "text": "Now add palaces for the emperor Pachacuti, so well hidden the Spanish never found it.",
+   "start": 48.302,
+   "end": 52.25,
+   "text": "Now add palaces for the emperor Pachacuti, in a city the Spanish never found.",
    "words": [
     {
      "w": "Now",
-     "start": 48.527,
-     "end": 48.702
+     "start": 48.402,
+     "end": 48.58
     },
     {
      "w": "add",
-     "start": 48.702,
-     "end": 48.877
+     "start": 48.58,
+     "end": 48.758
     },
     {
      "w": "palaces",
-     "start": 48.877,
-     "end": 49.31
+     "start": 48.758,
+     "end": 49.2
     },
     {
      "w": "for",
-     "start": 49.31,
-     "end": 49.485
+     "start": 49.2,
+     "end": 49.378
     },
     {
      "w": "the",
-     "start": 49.485,
-     "end": 49.66
+     "start": 49.378,
+     "end": 49.556
     },
     {
      "w": "emperor",
-     "start": 49.66,
-     "end": 50.094
+     "start": 49.556,
+     "end": 49.998
     },
     {
      "w": "Pachacuti,",
-     "start": 50.094,
-     "end": 50.657
+     "start": 49.998,
+     "end": 50.572
     },
     {
-     "w": "so",
-     "start": 50.807,
-     "end": 50.971
+     "w": "in",
+     "start": 50.732,
+     "end": 50.889
     },
     {
-     "w": "well",
-     "start": 50.971,
-     "end": 51.136
+     "w": "a",
+     "start": 50.889,
+     "end": 51.046
     },
     {
-     "w": "hidden",
-     "start": 51.136,
-     "end": 51.422
+     "w": "city",
+     "start": 51.046,
+     "end": 51.32
     },
     {
      "w": "the",
-     "start": 51.422,
-     "end": 51.586
+     "start": 51.32,
+     "end": 51.477
     },
     {
      "w": "Spanish",
-     "start": 51.586,
-     "end": 51.872
+     "start": 51.477,
+     "end": 51.751
     },
     {
      "w": "never",
-     "start": 51.872,
-     "end": 52.158
+     "start": 51.751,
+     "end": 52.025
     },
     {
-     "w": "found",
-     "start": 52.158,
-     "end": 52.323
-    },
-    {
-     "w": "it.",
-     "start": 52.323,
-     "end": 52.487
+     "w": "found.",
+     "start": 52.025,
+     "end": 52.182
     }
    ]
   },
   {
    "line": 12,
-   "start": 52.927,
-   "end": 57.594,
+   "start": 52.615,
+   "end": 57.281,
    "text": "Twenty-four hundred meters up, sixty percent of it underground, and five centuries without a slide.",
    "words": [
     {
      "w": "Twenty-four",
-     "start": 53.047,
-     "end": 53.496
+     "start": 52.735,
+     "end": 53.184
     },
     {
      "w": "hundred",
-     "start": 53.496,
-     "end": 53.811
+     "start": 53.184,
+     "end": 53.499
     },
     {
      "w": "meters",
-     "start": 53.811,
-     "end": 54.126
+     "start": 53.499,
+     "end": 53.814
     },
     {
      "w": "up,",
-     "start": 54.126,
-     "end": 54.307
+     "start": 53.814,
+     "end": 53.995
     },
     {
      "w": "sixty",
-     "start": 54.507,
-     "end": 54.8
+     "start": 54.195,
+     "end": 54.49
     },
     {
      "w": "percent",
-     "start": 54.8,
-     "end": 55.093
+     "start": 54.49,
+     "end": 54.785
     },
     {
      "w": "of",
-     "start": 55.093,
-     "end": 55.261
+     "start": 54.785,
+     "end": 54.955
     },
     {
      "w": "it",
-     "start": 55.261,
-     "end": 55.429
+     "start": 54.955,
+     "end": 55.124
     },
     {
      "w": "underground,",
-     "start": 55.429,
-     "end": 55.847
+     "start": 55.124,
+     "end": 55.545
     },
     {
      "w": "and",
-     "start": 56.017,
-     "end": 56.199
+     "start": 55.705,
+     "end": 55.887
     },
     {
      "w": "five",
-     "start": 56.199,
-     "end": 56.382
+     "start": 55.887,
+     "end": 56.07
     },
     {
      "w": "centuries",
-     "start": 56.382,
-     "end": 56.835
+     "start": 56.07,
+     "end": 56.523
     },
     {
      "w": "without",
-     "start": 56.835,
-     "end": 57.152
+     "start": 56.523,
+     "end": 56.84
     },
     {
      "w": "a",
-     "start": 57.152,
-     "end": 57.335
+     "start": 56.84,
+     "end": 57.023
     },
     {
      "w": "slide.",
-     "start": 57.335,
-     "end": 57.517
+     "start": 57.023,
+     "end": 57.205
     }
    ]
   },
   {
    "line": 13,
-   "start": 57.958,
-   "end": 60.875,
+   "start": 57.646,
+   "end": 60.562,
    "text": "And congrats, you just built Machu Picchu yourself.",
    "words": [
     {
      "w": "And",
-     "start": 58.078,
-     "end": 58.337
+     "start": 57.766,
+     "end": 58.025
     },
     {
      "w": "congrats,",
-     "start": 58.337,
-     "end": 58.788
+     "start": 58.025,
+     "end": 58.476
     },
     {
      "w": "you",
-     "start": 58.928,
-     "end": 59.151
+     "start": 58.616,
+     "end": 58.839
     },
     {
      "w": "just",
-     "start": 59.151,
-     "end": 59.373
+     "start": 58.839,
+     "end": 59.061
     },
     {
      "w": "built",
-     "start": 59.373,
-     "end": 59.596
+     "start": 59.061,
+     "end": 59.284
     },
     {
      "w": "Machu",
-     "start": 59.596,
-     "end": 59.983
+     "start": 59.284,
+     "end": 59.671
     },
     {
      "w": "Picchu",
-     "start": 59.983,
-     "end": 60.371
+     "start": 59.671,
+     "end": 60.059
     },
     {
      "w": "yourself.",
-     "start": 60.371,
-     "end": 60.758
+     "start": 60.059,
+     "end": 60.446
     }
    ]
   },
   {
    "line": 14,
-   "start": 61.24,
-   "end": 66.094,
+   "start": 60.927,
+   "end": 65.781,
    "text": "Five centuries of storms, every drop goes where they planned, and your neighbor's AC drips on your head.",
    "words": [
     {
      "w": "Five",
-     "start": 61.36,
-     "end": 61.575
+     "start": 61.047,
+     "end": 61.264
     },
     {
      "w": "centuries",
-     "start": 61.575,
-     "end": 62.109
+     "start": 61.264,
+     "end": 61.803
     },
     {
      "w": "of",
-     "start": 62.109,
-     "end": 62.325
+     "start": 61.803,
+     "end": 62.02
     },
     {
      "w": "storms,",
-     "start": 62.325,
-     "end": 62.54
+     "start": 62.02,
+     "end": 62.237
     },
     {
      "w": "every",
-     "start": 62.65,
-     "end": 63.109
+     "start": 62.337,
+     "end": 62.796
     },
     {
      "w": "drop",
-     "start": 63.109,
-     "end": 63.294
+     "start": 62.796,
+     "end": 62.981
     },
     {
      "w": "goes",
-     "start": 63.294,
-     "end": 63.478
+     "start": 62.981,
+     "end": 63.165
     },
     {
      "w": "where",
-     "start": 63.478,
-     "end": 63.663
+     "start": 63.165,
+     "end": 63.35
     },
     {
      "w": "they",
-     "start": 63.663,
-     "end": 63.848
+     "start": 63.35,
+     "end": 63.535
     },
     {
      "w": "planned,",
-     "start": 63.848,
-     "end": 64.17
+     "start": 63.535,
+     "end": 63.857
     },
     {
      "w": "and",
-     "start": 64.32,
-     "end": 64.513
+     "start": 63.997,
+     "end": 64.193
     },
     {
      "w": "your",
-     "start": 64.513,
-     "end": 64.707
+     "start": 64.193,
+     "end": 64.388
     },
     {
      "w": "neighbor's",
-     "start": 64.707,
-     "end": 65.043
+     "start": 64.388,
+     "end": 64.729
     },
     {
      "w": "AC",
-     "start": 65.043,
-     "end": 65.237
+     "start": 64.729,
+     "end": 64.924
     },
     {
      "w": "drips",
-     "start": 65.237,
-     "end": 65.43
+     "start": 64.924,
+     "end": 65.12
     },
     {
      "w": "on",
-     "start": 65.43,
-     "end": 65.623
+     "start": 65.12,
+     "end": 65.316
     },
     {
      "w": "your",
-     "start": 65.623,
-     "end": 65.817
+     "start": 65.316,
+     "end": 65.511
     },
     {
      "w": "head.",
-     "start": 65.817,
-     "end": 66.01
+     "start": 65.511,
+     "end": 65.707
     }
    ]
   }
