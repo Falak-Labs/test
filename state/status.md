@@ -1,4 +1,4 @@
-# Post status 2026-11-19T05:09:16+00:00
+# Post status 2026-11-19T07:31:44+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -239,36 +239,36 @@
 | ep40-panama | ar.instagram | scheduled |  | 2026-11-19T08:00:00.000Z |
 | ep40-panama | ar.tiktok | scheduled |  | 2026-11-19T08:00:00.000Z |
 | ep40-panama | ar.youtube | scheduled |  | 2026-11-19T08:00:00.000Z |
-| ep40-panama | en.instagram | scheduled |  | 2026-11-19T14:00:00.000Z |
-| ep40-panama | en.tiktok | scheduled |  | 2026-11-19T14:00:00.000Z |
-| ep40-panama | en.youtube | scheduled |  | 2026-11-19T14:00:00.000Z |
+| ep40-panama | en.instagram | sent |  | 2026-11-19T05:40:42.704Z https://www.instagram.com/reel/Df6WbNlP5PQ/ |
+| ep40-panama | en.tiktok | sent |  | 2026-11-19T05:40:11.523Z https://tiktok.com/@congratsengineer/video/7709752915430231309 |
+| ep40-panama | en.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-19T07:25:41.510Z |
 | ep41-barrier | ar.instagram | scheduled |  | 2026-11-19T11:00:00.000Z |
 | ep41-barrier | ar.tiktok | scheduled |  | 2026-11-19T11:00:00.000Z |
 | ep41-barrier | ar.youtube | scheduled |  | 2026-11-19T11:00:00.000Z |
-| ep41-barrier | en.instagram | scheduled |  | 2026-11-19T16:30:00.000Z |
+| ep41-barrier | en.instagram | sent |  | 2026-11-19T05:40:50.468Z https://www.instagram.com/reel/Df6WcEbpIA9/ |
 | ep41-barrier | en.tiktok | scheduled |  | 2026-11-19T16:30:00.000Z |
-| ep41-barrier | en.youtube | scheduled |  | 2026-11-19T16:30:00.000Z |
+| ep41-barrier | en.youtube | scheduled |  | 2026-11-20T04:58:00.000Z |
 | ep42-venice | ar.instagram | scheduled |  | 2026-11-19T14:00:00.000Z |
 | ep42-venice | ar.tiktok | scheduled |  | 2026-11-19T14:00:00.000Z |
 | ep42-venice | ar.youtube | scheduled |  | 2026-11-19T14:00:00.000Z |
-| ep42-venice | en.instagram | scheduled |  | 2026-11-19T19:00:00.000Z |
+| ep42-venice | en.instagram | sent |  | 2026-11-19T05:41:00.776Z https://www.instagram.com/reel/Df6WdelprHI/ |
 | ep42-venice | en.tiktok | scheduled |  | 2026-11-19T19:00:00.000Z |
-| ep42-venice | en.youtube | scheduled |  | 2026-11-19T19:00:00.000Z |
+| ep42-venice | en.youtube | scheduled |  | 2026-11-20T03:12:00.000Z |
 | ep43-greatwall | ar.instagram | scheduled |  | 2026-11-19T17:00:00.000Z |
 | ep43-greatwall | ar.tiktok | scheduled |  | 2026-11-19T17:00:00.000Z |
 | ep43-greatwall | ar.youtube | scheduled |  | 2026-11-19T17:00:00.000Z |
 | ep43-greatwall | en.instagram | scheduled |  | 2026-11-19T21:30:00.000Z |
-| ep43-greatwall | en.tiktok | scheduled |  | 2026-11-19T21:30:00.000Z |
+| ep43-greatwall | en.tiktok | sent |  | 2026-11-19T05:40:49.636Z https://tiktok.com/@congratsengineer/video/7709753082191678733 |
 | ep43-greatwall | en.youtube | scheduled |  | 2026-11-19T21:30:00.000Z |
 | ep44-falaj | ar.instagram | scheduled |  | 2026-11-19T20:00:00.000Z |
 | ep44-falaj | ar.tiktok | scheduled |  | 2026-11-19T20:00:00.000Z |
 | ep44-falaj | ar.youtube | scheduled |  | 2026-11-19T20:00:00.000Z |
-| ep44-falaj | en.instagram | scheduled |  | 2026-11-20T00:00:00.000Z |
-| ep44-falaj | en.tiktok | scheduled |  | 2026-11-20T00:00:00.000Z |
+| ep44-falaj | en.instagram | sent |  | 2026-11-19T05:43:10.144Z https://www.instagram.com/reel/Df6WiGRBsHh/ |
+| ep44-falaj | en.tiktok | sent |  | 2026-11-19T05:41:53.378Z https://tiktok.com/@congratsengineer/video/7709753115062439182 |
 | ep44-falaj | en.youtube | scheduled |  | 2026-11-20T00:00:00.000Z |
 | ep45-machupicchu | ar.instagram | scheduled |  | 2026-11-19T23:00:00.000Z |
 | ep45-machupicchu | ar.tiktok | scheduled |  | 2026-11-19T23:00:00.000Z |
 | ep45-machupicchu | ar.youtube | scheduled |  | 2026-11-19T23:00:00.000Z |
 | ep45-machupicchu | en.instagram | scheduled |  | 2026-11-20T02:30:00.000Z |
-| ep45-machupicchu | en.tiktok | scheduled |  | 2026-11-20T02:30:00.000Z |
-| ep45-machupicchu | en.youtube | scheduled |  | 2026-11-20T02:30:00.000Z |
+| ep45-machupicchu | en.tiktok | sent |  | 2026-11-19T05:41:59.472Z https://tiktok.com/@congratsengineer/video/7709753097454767374 |
+| ep45-machupicchu | en.youtube | error | An unknown error has occurred. Please retry the post again, and get in touch if this persists. | 2026-11-19T07:26:13.115Z |
