@@ -1,0 +1,20 @@
+U | U_1 | Hi, how are you?
+U | U_2 | I'm ten years old.
+U | U_3 | Nice to meet you!
+U | U_4 | Congratulations!
+R | R_1 | Hi, how are you?
+R | R_2 | I'm ten years old.
+R | R_3 | Nice to meet you!
+R | R_4 | Congratulations!
+K | K_1 | Hi, how are you?
+K | K_2 | I'm ten years old.
+K | K_3 | Nice to meet you!
+K | K_4 | Congratulations!
+V | V_1 | Hi, how are you?
+V | V_2 | I'm ten years old.
+V | V_3 | Nice to meet you!
+V | V_4 | Congratulations!
+O | O_1 | Hi, how are you?
+O | O_2 | I'm ten years old.
+O | O_3 | Nice to meet you!
+O | O_4 | Congratulations!

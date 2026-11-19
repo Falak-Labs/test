@@ -1,0 +1,31 @@
+{
+ "model": "eleven_v4",
+ "output_format": "mp3_44100_128",
+ "speakers": {
+  "U": {
+   "name": "Boy voice test Austin",
+   "voice": "Xb3zeLrTi6F4ziIcXdwk",
+   "owner": "a1d65b1cbfdc8ef78aa2ede940019d4b8aa5d8f8a5e37e2e3b49b7071f03ad6f"
+  },
+  "R": {
+   "name": "Boy voice test Ryan",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "owner": "b5373c4878a2f83618999d6b84063960545c52f4ac5743deca70f1b062bf7552"
+  },
+  "K": {
+   "name": "Boy voice test Kavya",
+   "voice": "bA58y3FqVI6b6gTNh0oT",
+   "owner": "7398804d9eaf2f463899a907587c33a390591775784f87857b6d0e1e4e3e66f6"
+  },
+  "V": {
+   "name": "Boy voice test Valf",
+   "voice": "loY1uopAz31XyhAEhNSa",
+   "owner": "edb29bf3ecacd3634096c4bc62c0537e04cbfb94cf27cd2babced5c1709800d6"
+  },
+  "O": {
+   "name": "Boy voice test Omar",
+   "voice": "S7IsvAvEoDfui6GSZK3A",
+   "owner": "7398804d9eaf2f463899a907587c33a390591775784f87857b6d0e1e4e3e66f6"
+  }
+ }
+}
