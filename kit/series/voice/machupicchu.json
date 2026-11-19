@@ -1,0 +1,1252 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 70.05,
+ "words": 226,
+ "words_per_sec": 3.23,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 8.104,
+   "text": "If you can build a stone city on a knife-edge mountain, in two meters of rain a year, that hasn't slid in five centuries, congrats, you just built Machu Picchu.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.315
+    },
+    {
+     "w": "you",
+     "start": 0.315,
+     "end": 0.499
+    },
+    {
+     "w": "can",
+     "start": 0.499,
+     "end": 0.684
+    },
+    {
+     "w": "build",
+     "start": 0.684,
+     "end": 0.868
+    },
+    {
+     "w": "a",
+     "start": 0.868,
+     "end": 1.053
+    },
+    {
+     "w": "stone",
+     "start": 1.053,
+     "end": 1.237
+    },
+    {
+     "w": "city",
+     "start": 1.237,
+     "end": 1.558
+    },
+    {
+     "w": "on",
+     "start": 1.558,
+     "end": 1.743
+    },
+    {
+     "w": "a",
+     "start": 1.743,
+     "end": 1.928
+    },
+    {
+     "w": "knife-edge",
+     "start": 1.928,
+     "end": 2.249
+    },
+    {
+     "w": "mountain,",
+     "start": 2.249,
+     "end": 2.57
+    },
+    {
+     "w": "in",
+     "start": 2.71,
+     "end": 2.895
+    },
+    {
+     "w": "two",
+     "start": 2.895,
+     "end": 3.079
+    },
+    {
+     "w": "meters",
+     "start": 3.079,
+     "end": 3.401
+    },
+    {
+     "w": "of",
+     "start": 3.401,
+     "end": 3.586
+    },
+    {
+     "w": "rain",
+     "start": 3.586,
+     "end": 3.771
+    },
+    {
+     "w": "a",
+     "start": 3.771,
+     "end": 3.955
+    },
+    {
+     "w": "year,",
+     "start": 3.955,
+     "end": 4.14
+    },
+    {
+     "w": "that",
+     "start": 4.28,
+     "end": 4.487
+    },
+    {
+     "w": "hasn't",
+     "start": 4.487,
+     "end": 4.694
+    },
+    {
+     "w": "slid",
+     "start": 4.694,
+     "end": 4.902
+    },
+    {
+     "w": "in",
+     "start": 4.902,
+     "end": 5.109
+    },
+    {
+     "w": "five",
+     "start": 5.109,
+     "end": 5.316
+    },
+    {
+     "w": "centuries,",
+     "start": 5.316,
+     "end": 5.83
+    },
+    {
+     "w": "congrats,",
+     "start": 5.97,
+     "end": 6.53
+    },
+    {
+     "w": "you",
+     "start": 6.67,
+     "end": 6.881
+    },
+    {
+     "w": "just",
+     "start": 6.881,
+     "end": 7.093
+    },
+    {
+     "w": "built",
+     "start": 7.093,
+     "end": 7.304
+    },
+    {
+     "w": "Machu",
+     "start": 7.304,
+     "end": 7.672
+    },
+    {
+     "w": "Picchu.",
+     "start": 7.672,
+     "end": 8.04
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 8.469,
+   "end": 12.333,
+   "text": "But on a slope this steep, rain turns soil to mud, and mud slides.",
+   "words": [
+    {
+     "w": "But",
+     "start": 8.599,
+     "end": 8.844
+    },
+    {
+     "w": "on",
+     "start": 8.844,
+     "end": 9.088
+    },
+    {
+     "w": "a",
+     "start": 9.088,
+     "end": 9.333
+    },
+    {
+     "w": "slope",
+     "start": 9.333,
+     "end": 9.577
+    },
+    {
+     "w": "this",
+     "start": 9.577,
+     "end": 9.822
+    },
+    {
+     "w": "steep,",
+     "start": 9.822,
+     "end": 10.066
+    },
+    {
+     "w": "rain",
+     "start": 10.066,
+     "end": 10.311
+    },
+    {
+     "w": "turns",
+     "start": 10.311,
+     "end": 10.555
+    },
+    {
+     "w": "soil",
+     "start": 10.555,
+     "end": 10.8
+    },
+    {
+     "w": "to",
+     "start": 10.8,
+     "end": 11.044
+    },
+    {
+     "w": "mud,",
+     "start": 11.044,
+     "end": 11.289
+    },
+    {
+     "w": "and",
+     "start": 11.419,
+     "end": 11.644
+    },
+    {
+     "w": "mud",
+     "start": 11.644,
+     "end": 11.868
+    },
+    {
+     "w": "slides.",
+     "start": 11.868,
+     "end": 12.259
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.698,
+   "end": 17.406,
+   "text": "So you carve the mountain into giant steps: hundreds of terraces, each held by a stone wall.",
+   "words": [
+    {
+     "w": "So",
+     "start": 12.808,
+     "end": 13.021
+    },
+    {
+     "w": "you",
+     "start": 13.021,
+     "end": 13.234
+    },
+    {
+     "w": "carve",
+     "start": 13.234,
+     "end": 13.447
+    },
+    {
+     "w": "the",
+     "start": 13.447,
+     "end": 13.66
+    },
+    {
+     "w": "mountain",
+     "start": 13.66,
+     "end": 14.031
+    },
+    {
+     "w": "into",
+     "start": 14.031,
+     "end": 14.402
+    },
+    {
+     "w": "giant",
+     "start": 14.402,
+     "end": 14.615
+    },
+    {
+     "w": "steps:",
+     "start": 14.615,
+     "end": 14.828
+    },
+    {
+     "w": "hundreds",
+     "start": 14.978,
+     "end": 15.291
+    },
+    {
+     "w": "of",
+     "start": 15.291,
+     "end": 15.471
+    },
+    {
+     "w": "terraces,",
+     "start": 15.471,
+     "end": 15.918
+    },
+    {
+     "w": "each",
+     "start": 16.038,
+     "end": 16.256
+    },
+    {
+     "w": "held",
+     "start": 16.256,
+     "end": 16.475
+    },
+    {
+     "w": "by",
+     "start": 16.475,
+     "end": 16.693
+    },
+    {
+     "w": "a",
+     "start": 16.693,
+     "end": 16.911
+    },
+    {
+     "w": "stone",
+     "start": 16.911,
+     "end": 17.13
+    },
+    {
+     "w": "wall.",
+     "start": 17.13,
+     "end": 17.348
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 17.771,
+   "end": 21.792,
+   "text": "But flat steps hold rain, and soaked soil gets heavy enough to burst a wall.",
+   "words": [
+    {
+     "w": "But",
+     "start": 17.901,
+     "end": 18.123
+    },
+    {
+     "w": "flat",
+     "start": 18.123,
+     "end": 18.345
+    },
+    {
+     "w": "steps",
+     "start": 18.345,
+     "end": 18.566
+    },
+    {
+     "w": "hold",
+     "start": 18.566,
+     "end": 18.788
+    },
+    {
+     "w": "rain,",
+     "start": 18.788,
+     "end": 19.01
+    },
+    {
+     "w": "and",
+     "start": 19.01,
+     "end": 19.232
+    },
+    {
+     "w": "soaked",
+     "start": 19.232,
+     "end": 19.618
+    },
+    {
+     "w": "soil",
+     "start": 19.618,
+     "end": 19.84
+    },
+    {
+     "w": "gets",
+     "start": 19.84,
+     "end": 20.062
+    },
+    {
+     "w": "heavy",
+     "start": 20.062,
+     "end": 20.448
+    },
+    {
+     "w": "enough",
+     "start": 20.448,
+     "end": 20.834
+    },
+    {
+     "w": "to",
+     "start": 20.834,
+     "end": 21.056
+    },
+    {
+     "w": "burst",
+     "start": 21.056,
+     "end": 21.277
+    },
+    {
+     "w": "a",
+     "start": 21.277,
+     "end": 21.499
+    },
+    {
+     "w": "wall.",
+     "start": 21.499,
+     "end": 21.721
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 22.156,
+   "end": 28.177,
+   "text": "So you fill each terrace in layers: stones, gravel, sand, then topsoil, and rain drains straight through.",
+   "words": [
+    {
+     "w": "So",
+     "start": 22.266,
+     "end": 22.568
+    },
+    {
+     "w": "you",
+     "start": 22.568,
+     "end": 22.871
+    },
+    {
+     "w": "fill",
+     "start": 22.871,
+     "end": 23.173
+    },
+    {
+     "w": "each",
+     "start": 23.173,
+     "end": 23.475
+    },
+    {
+     "w": "terrace",
+     "start": 23.475,
+     "end": 24.001
+    },
+    {
+     "w": "in",
+     "start": 24.001,
+     "end": 24.304
+    },
+    {
+     "w": "layers:",
+     "start": 24.304,
+     "end": 24.606
+    },
+    {
+     "w": "stones,",
+     "start": 24.776,
+     "end": 25.246
+    },
+    {
+     "w": "gravel,",
+     "start": 25.316,
+     "end": 25.776
+    },
+    {
+     "w": "sand,",
+     "start": 25.906,
+     "end": 26.125
+    },
+    {
+     "w": "then",
+     "start": 26.125,
+     "end": 26.344
+    },
+    {
+     "w": "topsoil,",
+     "start": 26.344,
+     "end": 26.726
+    },
+    {
+     "w": "and",
+     "start": 26.866,
+     "end": 27.114
+    },
+    {
+     "w": "rain",
+     "start": 27.114,
+     "end": 27.362
+    },
+    {
+     "w": "drains",
+     "start": 27.362,
+     "end": 27.61
+    },
+    {
+     "w": "straight",
+     "start": 27.61,
+     "end": 27.858
+    },
+    {
+     "w": "through.",
+     "start": 27.858,
+     "end": 28.106
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 28.542,
+   "end": 31.021,
+   "text": "The city needs water too, but not floods.",
+   "words": [
+    {
+     "w": "The",
+     "start": 28.682,
+     "end": 28.893
+    },
+    {
+     "w": "city",
+     "start": 28.893,
+     "end": 29.261
+    },
+    {
+     "w": "needs",
+     "start": 29.261,
+     "end": 29.473
+    },
+    {
+     "w": "water",
+     "start": 29.473,
+     "end": 29.841
+    },
+    {
+     "w": "too,",
+     "start": 29.841,
+     "end": 30.052
+    },
+    {
+     "w": "but",
+     "start": 30.202,
+     "end": 30.445
+    },
+    {
+     "w": "not",
+     "start": 30.445,
+     "end": 30.689
+    },
+    {
+     "w": "floods.",
+     "start": 30.689,
+     "end": 30.932
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 31.385,
+   "end": 36.854,
+   "text": "So a stone canal brings spring water to sixteen fountains, and over a hundred drain holes carry storms away.",
+   "words": [
+    {
+     "w": "So",
+     "start": 31.495,
+     "end": 31.688
+    },
+    {
+     "w": "a",
+     "start": 31.688,
+     "end": 31.881
+    },
+    {
+     "w": "stone",
+     "start": 31.881,
+     "end": 32.074
+    },
+    {
+     "w": "canal",
+     "start": 32.074,
+     "end": 32.409
+    },
+    {
+     "w": "brings",
+     "start": 32.409,
+     "end": 32.602
+    },
+    {
+     "w": "spring",
+     "start": 32.602,
+     "end": 32.795
+    },
+    {
+     "w": "water",
+     "start": 32.795,
+     "end": 33.131
+    },
+    {
+     "w": "to",
+     "start": 33.131,
+     "end": 33.324
+    },
+    {
+     "w": "sixteen",
+     "start": 33.324,
+     "end": 33.659
+    },
+    {
+     "w": "fountains,",
+     "start": 33.659,
+     "end": 33.995
+    },
+    {
+     "w": "and",
+     "start": 34.055,
+     "end": 34.27
+    },
+    {
+     "w": "over",
+     "start": 34.27,
+     "end": 34.644
+    },
+    {
+     "w": "a",
+     "start": 34.644,
+     "end": 34.859
+    },
+    {
+     "w": "hundred",
+     "start": 34.859,
+     "end": 35.233
+    },
+    {
+     "w": "drain",
+     "start": 35.233,
+     "end": 35.448
+    },
+    {
+     "w": "holes",
+     "start": 35.448,
+     "end": 35.822
+    },
+    {
+     "w": "carry",
+     "start": 35.822,
+     "end": 36.196
+    },
+    {
+     "w": "storms",
+     "start": 36.196,
+     "end": 36.411
+    },
+    {
+     "w": "away.",
+     "start": 36.411,
+     "end": 36.785
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 37.219,
+   "end": 40.156,
+   "text": "But it sits on fault lines, and earthquakes keep shaking it.",
+   "words": [
+    {
+     "w": "But",
+     "start": 37.359,
+     "end": 37.555
+    },
+    {
+     "w": "it",
+     "start": 37.555,
+     "end": 37.751
+    },
+    {
+     "w": "sits",
+     "start": 37.751,
+     "end": 37.946
+    },
+    {
+     "w": "on",
+     "start": 37.946,
+     "end": 38.142
+    },
+    {
+     "w": "fault",
+     "start": 38.142,
+     "end": 38.338
+    },
+    {
+     "w": "lines,",
+     "start": 38.338,
+     "end": 38.679
+    },
+    {
+     "w": "and",
+     "start": 38.799,
+     "end": 38.976
+    },
+    {
+     "w": "earthquakes",
+     "start": 38.976,
+     "end": 39.416
+    },
+    {
+     "w": "keep",
+     "start": 39.416,
+     "end": 39.593
+    },
+    {
+     "w": "shaking",
+     "start": 39.593,
+     "end": 39.902
+    },
+    {
+     "w": "it.",
+     "start": 39.902,
+     "end": 40.079
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 40.521,
+   "end": 45.938,
+   "text": "So you cut every stone so tightly that paper won't slip between them, no mortar, and lean the doors inward.",
+   "words": [
+    {
+     "w": "So",
+     "start": 40.631,
+     "end": 40.826
+    },
+    {
+     "w": "you",
+     "start": 40.826,
+     "end": 41.021
+    },
+    {
+     "w": "cut",
+     "start": 41.021,
+     "end": 41.216
+    },
+    {
+     "w": "every",
+     "start": 41.216,
+     "end": 41.701
+    },
+    {
+     "w": "stone",
+     "start": 41.701,
+     "end": 41.896
+    },
+    {
+     "w": "so",
+     "start": 41.896,
+     "end": 42.091
+    },
+    {
+     "w": "tightly",
+     "start": 42.091,
+     "end": 42.431
+    },
+    {
+     "w": "that",
+     "start": 42.431,
+     "end": 42.626
+    },
+    {
+     "w": "paper",
+     "start": 42.626,
+     "end": 42.966
+    },
+    {
+     "w": "won't",
+     "start": 42.966,
+     "end": 43.161
+    },
+    {
+     "w": "slip",
+     "start": 43.161,
+     "end": 43.356
+    },
+    {
+     "w": "between",
+     "start": 43.356,
+     "end": 43.696
+    },
+    {
+     "w": "them,",
+     "start": 43.696,
+     "end": 43.891
+    },
+    {
+     "w": "no",
+     "start": 44.031,
+     "end": 44.261
+    },
+    {
+     "w": "mortar,",
+     "start": 44.261,
+     "end": 44.661
+    },
+    {
+     "w": "and",
+     "start": 44.811,
+     "end": 44.994
+    },
+    {
+     "w": "lean",
+     "start": 44.994,
+     "end": 45.177
+    },
+    {
+     "w": "the",
+     "start": 45.177,
+     "end": 45.36
+    },
+    {
+     "w": "doors",
+     "start": 45.36,
+     "end": 45.543
+    },
+    {
+     "w": "inward.",
+     "start": 45.543,
+     "end": 45.861
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 46.302,
+   "end": 50.604,
+   "text": "But before you climb the last step, follow, because next we're building the Aswan High Dam.",
+   "words": [
+    {
+     "w": "But",
+     "start": 46.442,
+     "end": 46.631
+    },
+    {
+     "w": "before",
+     "start": 46.631,
+     "end": 46.959
+    },
+    {
+     "w": "you",
+     "start": 46.959,
+     "end": 47.148
+    },
+    {
+     "w": "climb",
+     "start": 47.148,
+     "end": 47.336
+    },
+    {
+     "w": "the",
+     "start": 47.336,
+     "end": 47.525
+    },
+    {
+     "w": "last",
+     "start": 47.525,
+     "end": 47.713
+    },
+    {
+     "w": "step,",
+     "start": 47.713,
+     "end": 47.902
+    },
+    {
+     "w": "follow,",
+     "start": 48.082,
+     "end": 48.402
+    },
+    {
+     "w": "because",
+     "start": 48.522,
+     "end": 48.866
+    },
+    {
+     "w": "next",
+     "start": 48.866,
+     "end": 49.064
+    },
+    {
+     "w": "we're",
+     "start": 49.064,
+     "end": 49.261
+    },
+    {
+     "w": "building",
+     "start": 49.261,
+     "end": 49.605
+    },
+    {
+     "w": "the",
+     "start": 49.605,
+     "end": 49.803
+    },
+    {
+     "w": "Aswan",
+     "start": 49.803,
+     "end": 50.147
+    },
+    {
+     "w": "High",
+     "start": 50.147,
+     "end": 50.344
+    },
+    {
+     "w": "Dam.",
+     "start": 50.344,
+     "end": 50.542
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 50.969,
+   "end": 56.229,
+   "text": "Now add palaces for the emperor Pachacuti, around fourteen fifty, so hidden the Spanish never found it.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 51.069,
+     "end": 51.244
+    },
+    {
+     "w": "add",
+     "start": 51.244,
+     "end": 51.419
+    },
+    {
+     "w": "palaces",
+     "start": 51.419,
+     "end": 51.852
+    },
+    {
+     "w": "for",
+     "start": 51.852,
+     "end": 52.027
+    },
+    {
+     "w": "the",
+     "start": 52.027,
+     "end": 52.202
+    },
+    {
+     "w": "emperor",
+     "start": 52.202,
+     "end": 52.636
+    },
+    {
+     "w": "Pachacuti,",
+     "start": 52.636,
+     "end": 53.199
+    },
+    {
+     "w": "around",
+     "start": 53.349,
+     "end": 53.726
+    },
+    {
+     "w": "fourteen",
+     "start": 53.726,
+     "end": 54.102
+    },
+    {
+     "w": "fifty,",
+     "start": 54.102,
+     "end": 54.479
+    },
+    {
+     "w": "so",
+     "start": 54.649,
+     "end": 54.814
+    },
+    {
+     "w": "hidden",
+     "start": 54.814,
+     "end": 55.101
+    },
+    {
+     "w": "the",
+     "start": 55.101,
+     "end": 55.266
+    },
+    {
+     "w": "Spanish",
+     "start": 55.266,
+     "end": 55.552
+    },
+    {
+     "w": "never",
+     "start": 55.552,
+     "end": 55.839
+    },
+    {
+     "w": "found",
+     "start": 55.839,
+     "end": 56.004
+    },
+    {
+     "w": "it.",
+     "start": 56.004,
+     "end": 56.169
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 56.594,
+   "end": 61.26,
+   "text": "Twenty-four hundred meters up, sixty percent of it underground, and five centuries without a slide.",
+   "words": [
+    {
+     "w": "Twenty-four",
+     "start": 56.724,
+     "end": 57.166
+    },
+    {
+     "w": "hundred",
+     "start": 57.166,
+     "end": 57.476
+    },
+    {
+     "w": "meters",
+     "start": 57.476,
+     "end": 57.786
+    },
+    {
+     "w": "up,",
+     "start": 57.786,
+     "end": 57.964
+    },
+    {
+     "w": "sixty",
+     "start": 58.174,
+     "end": 58.469
+    },
+    {
+     "w": "percent",
+     "start": 58.469,
+     "end": 58.764
+    },
+    {
+     "w": "of",
+     "start": 58.764,
+     "end": 58.934
+    },
+    {
+     "w": "it",
+     "start": 58.934,
+     "end": 59.103
+    },
+    {
+     "w": "underground,",
+     "start": 59.103,
+     "end": 59.524
+    },
+    {
+     "w": "and",
+     "start": 59.684,
+     "end": 59.866
+    },
+    {
+     "w": "five",
+     "start": 59.866,
+     "end": 60.049
+    },
+    {
+     "w": "centuries",
+     "start": 60.049,
+     "end": 60.502
+    },
+    {
+     "w": "without",
+     "start": 60.502,
+     "end": 60.819
+    },
+    {
+     "w": "a",
+     "start": 60.819,
+     "end": 61.002
+    },
+    {
+     "w": "slide.",
+     "start": 61.002,
+     "end": 61.184
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 61.625,
+   "end": 64.542,
+   "text": "And congrats, you just built Machu Picchu yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 61.755,
+     "end": 62.01
+    },
+    {
+     "w": "congrats,",
+     "start": 62.01,
+     "end": 62.455
+    },
+    {
+     "w": "you",
+     "start": 62.595,
+     "end": 62.818
+    },
+    {
+     "w": "just",
+     "start": 62.818,
+     "end": 63.04
+    },
+    {
+     "w": "built",
+     "start": 63.04,
+     "end": 63.263
+    },
+    {
+     "w": "Machu",
+     "start": 63.263,
+     "end": 63.65
+    },
+    {
+     "w": "Picchu",
+     "start": 63.65,
+     "end": 64.038
+    },
+    {
+     "w": "yourself.",
+     "start": 64.038,
+     "end": 64.425
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 64.906,
+   "end": 70.073,
+   "text": "Five centuries of storms, every drop goes where they planned, and your neighbor's AC still drips on your head.",
+   "words": [
+    {
+     "w": "Five",
+     "start": 65.026,
+     "end": 65.241
+    },
+    {
+     "w": "centuries",
+     "start": 65.241,
+     "end": 65.775
+    },
+    {
+     "w": "of",
+     "start": 65.775,
+     "end": 65.991
+    },
+    {
+     "w": "storms,",
+     "start": 65.991,
+     "end": 66.206
+    },
+    {
+     "w": "every",
+     "start": 66.326,
+     "end": 66.782
+    },
+    {
+     "w": "drop",
+     "start": 66.782,
+     "end": 66.965
+    },
+    {
+     "w": "goes",
+     "start": 66.965,
+     "end": 67.149
+    },
+    {
+     "w": "where",
+     "start": 67.149,
+     "end": 67.333
+    },
+    {
+     "w": "they",
+     "start": 67.333,
+     "end": 67.516
+    },
+    {
+     "w": "planned,",
+     "start": 67.516,
+     "end": 67.836
+    },
+    {
+     "w": "and",
+     "start": 67.986,
+     "end": 68.194
+    },
+    {
+     "w": "your",
+     "start": 68.194,
+     "end": 68.403
+    },
+    {
+     "w": "neighbor's",
+     "start": 68.403,
+     "end": 68.766
+    },
+    {
+     "w": "AC",
+     "start": 68.766,
+     "end": 68.974
+    },
+    {
+     "w": "still",
+     "start": 68.974,
+     "end": 69.182
+    },
+    {
+     "w": "drips",
+     "start": 69.182,
+     "end": 69.391
+    },
+    {
+     "w": "on",
+     "start": 69.391,
+     "end": 69.599
+    },
+    {
+     "w": "your",
+     "start": 69.599,
+     "end": 69.808
+    },
+    {
+     "w": "head.",
+     "start": 69.808,
+     "end": 70.016
+    }
+   ]
+  }
+ ]
+}
