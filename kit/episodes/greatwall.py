@@ -290,7 +290,7 @@ def bowl(c, x, y, s, t, a=1.0, steam=1.0, tilt=0.0):
 def earth_globe(c, x, y, r, k, a=1.0, t=0.0):
     """The Earth with a yellow line wrapping k of the way round it (k > 0.5: more than halfway)."""
     add_glow(c, x, y, r * 1.6, "#60A5FA", 0.35 * a)
-    c.drawCircle(x, y, r, rad_paint(x - r * 0.35, y - r * 0.35, r * 1.4, ["#60A5FA", "#1D4ED8", "#0B1E5B"], a=a))
+    c.drawCircle(x, y, r, rad_paint(x - r * 0.35, y - r * 0.35, r * 1.4, ["#93C5FD", "#2563EB", "#1E3A8A"], a=a))
     c.save()
     clip = skia.Path()
     clip.addCircle(x, y, r)
@@ -299,11 +299,11 @@ def earth_globe(c, x, y, r, k, a=1.0, t=0.0):
     for i in range(7):
         cx_ = x + ((rng.uniform(-1, 1) * r + t * 20) % (2 * r)) - r
         cy_ = y + rng.uniform(-0.7, 0.7) * r
-        c.drawOval(R(cx_ - r * 0.28, cy_ - r * 0.16, r * rng.uniform(0.35, 0.6), r * rng.uniform(0.2, 0.34)), P("#22A06B", 0.9 * a))
+        c.drawOval(R(cx_ - r * 0.28, cy_ - r * 0.16, r * rng.uniform(0.35, 0.6), r * rng.uniform(0.2, 0.34)), P("#34D399", a))
     c.restore()
     c.drawCircle(x, y, r, P("#BFDBFE", 0.5 * a, stroke=3))
     if k > 0:
-        c.drawArc(R(x - r * 1.14, y - r * 1.14, r * 2.28, r * 2.28), 180, 360 * k, False, P("#FACC15", a, stroke=r * 0.11))
+        c.drawArc(R(x - r * 1.14, y - r * 1.14, r * 2.28, r * 2.28), 180, 360 * k, False, P("#FACC15", a, stroke=r * 0.14))
         ang = math.radians(180 + 360 * k)
         add_glow(c, x + math.cos(ang) * r * 1.14, y + math.sin(ang) * r * 1.14, r * 0.3, "#FDE68A", 0.8 * a)
         c.drawLine(x - r * 1.3, y, x + r * 1.3, y, P("#F8FAFC", 0.5 * a * prog(k, 0.4, 0.5), stroke=3))
@@ -415,7 +415,7 @@ class GreatWall(EpisodeV2):
     TITLE = {"en": "GREAT WALL OF CHINA", "ar_sa": "سور الصين العظيم"}
     EMPH = {"en": ["CONGRATS", "WALL", "HALFWAY", "EARTH", "RICE", "SOUP", "GREAT", "CHINA", "RAIDERS", "FAST",
                    "HORSES", "NORTH", "FLAT", "STOP", "RIDGES", "MOUNTAIN", "CHARGE", "GOBI", "DESERT", "STONE",
-                   "WOOD", "POUND", "LAYERS", "REEDS", "GRAVEL", "STANDS", "THOUSAND", "MING", "BRICK", "LIME",
+                   "WOOD", "POUND", "LAYERS", "REEDS", "GRAVEL", "STANDS", "THOUSAND", "CENTURIES", "REBUILT", "BRICK", "LIME",
                    "MORTAR", "CRUMBLES", "RAIN", "STIR", "STICKY", "STARCH", "TIGHT", "ROLLS", "LONG", "USELESS",
                    "ARMY", "DAYS", "BEACON", "TOWERS", "SIGHT", "SMOKE", "HUNDRED", "FIVE", "FOLLOW", "OMANI",
                    "FALAJ", "WOLF", "WOLVES", "COMING", "KILOMETERS", "YEARS", "MOON", "ZERO", "YOURSELF",
@@ -435,7 +435,7 @@ class GreatWall(EpisodeV2):
         ("break2", "GOBI"): "غوبي", ("break2", "STONE"): "حجر", ("break2", "WOOD"): "خشب",
         ("fix2", "POUND"): "فتدك", ("fix2", "LAYERS"): "طبقة", ("fix2", "REEDS"): "قصب", ("fix2", "GRAVEL"): "حصى",
         ("fix2", "STANDS"): "واقف", ("fix2", "THOUSAND"): "ألفين",
-        ("break3", "MING"): "مينغ", ("break3", "BRICK"): "طوب", ("break3", "CRUMBLES"): "يتفتت",
+        ("break3", "CENTURIES"): "مينغ", ("break3", "BRICK"): "طوب", ("break3", "CRUMBLES"): "يتفتت",
         ("break3", "RAIN"): "المطر",
         ("fix3", "STIR"): "فتخلط", ("fix3", "RICE"): "رز", ("fix3", "STARCH"): "والنشا", ("fix3", "TIGHT"): "يشد",
         ("fix3", "ROLLS"): "يزحلق",
@@ -494,7 +494,7 @@ class GreatWall(EpisodeV2):
             "gobi": ("break2", "GOBI", 0.35), "stone": ("break2", "STONE", 0.7), "wood": ("break2", "WOOD", 0.92),
             "pound": ("fix2", "POUND", 0.08), "layers": ("fix2", "LAYERS", 0.3), "reeds": ("fix2", "REEDS", 0.45),
             "gravel": ("fix2", "GRAVEL", 0.55), "stands": ("fix2", "STANDS", 0.7), "thousand": ("fix2", "THOUSAND", 0.85),
-            "ming": ("break3", "MING", 0.15), "brick": ("break3", "BRICK", 0.4), "crumbles": ("break3", "CRUMBLES", 0.75),
+            "ming": ("break3", "CENTURIES", 0.1), "brick": ("break3", "BRICK", 0.4), "crumbles": ("break3", "CRUMBLES", 0.75),
             "rain": ("break3", "RAIN", 0.92),
             "stir": ("fix3", "STIR", 0.1), "rice2": ("fix3", "RICE", 0.25), "starch": ("fix3", "STARCH", 0.55),
             "tight": ("fix3", "TIGHT", 0.7), "rolls": ("fix3", "ROLLS", 0.92),
@@ -512,7 +512,8 @@ class GreatWall(EpisodeV2):
             "yesterday": ("tag", "YESTERDAY", 0.7), "replied": ("tag", "REPLIED", 0.92)})
         T["fall"] = max(T["crumbles"] + 0.15, s("break3") + 0.5)
         T["relay"] = max(T["beacon"] - 0.1, s("fix4") + 0.05)
-        T["camp"] = T["relay"] + 2.4
+        self.dt_relay = clamp((T["one"] - 0.35 - T["relay"]) / 9.0, 0.1, 0.26)
+        T["camp"] = T["relay"] + 9 * self.dt_relay + 0.2
         # ---- sets
         self.cut(s("break1") - 0.12, "plain", 1)
         self.cut(s("break2") - 0.12, "gobi", -1)
@@ -528,15 +529,15 @@ class GreatWall(EpisodeV2):
         cm.key(s("closer") - 0.1, 210, -470, 1.32, 0.0).key(self.duration, 180, -470, 1.38, 2.5)
         self.cam = cm
         # ---- plain camera: break1 follows the riders over the flat, fix1 shows the mountain
-        cp = Camera(1500, -300, 0.82)
-        cp.key(s("break1"), 1150, -300, 0.82, max(0.8, s("fix1") - s("break1")))
-        cp.key(s("fix1") - 0.12, -560, -440, 0.74, 0.0).key(s("fix1"), -520, -420, 0.78, max(0.8, s("break2") - s("fix1")))
+        cp = Camera(2050, -120, 1.05)
+        cp.key(s("break1"), 1100, -120, 1.05, max(0.8, s("fix1") - s("break1")))
+        cp.key(s("fix1") - 0.12, -600, -300, 0.74, 0.0).key(s("fix1"), -560, -300, 0.78, max(0.8, s("break2") - s("fix1")))
         self.cam_plain = cp
         # ---- beacon camera: the raiders at the east end, then the relay west to the army camp
         cb = Camera(1000, -260, 0.8)
         cb.key(s("break4"), 900, -260, 0.82, 1.0)
-        cb.key(T["relay"], -2950, -260, 0.82, 2.4)
-        cb.key(T["one"] - 0.25, -2700, -330, 1.25, 0.6)
+        cb.key(T["relay"], -2950, -260, 0.82, 9 * self.dt_relay + 0.2)
+        cb.key(T["one"] - 0.2, -2860, -150, 1.2, 0.6)
         self.cam_beacon = cb
         self.spans = [(T["stop"], T["charge"] + 0.3), (T["wood"], T["thousand"] + 0.3), (T["crumbles"], T["rolls"] + 0.3),
                       (T["days"], T["tenk"] + 0.3)]
@@ -620,15 +621,17 @@ class GreatWall(EpisodeV2):
             k = self.span(T["halfway"] - 0.15, T["rice"] - 0.05)
             if k > 0:
                 gk = prog(tw, T["halfway"] - 0.1, T["earth"] + 0.5)
-                c.drawRRect(rr(270, 380, 540, 540, 60), P("#0B1220", 0.75 * k))
-                earth_globe(c, 540, 650, 190, 0.53 * e_out(gk), a=k, t=tw)
-                v2.chip(c, 540, 965, self.L["half"], k, accent=HILITE, size=34)
-                v2.chip(c, 540, 420, self.L["km"], self.span(T["earth"], T["rice"] - 0.05), accent="#FACC15", size=40)
+                c.drawRRect(rr(190, 470, 700, 640, 60), P("#0B1220", 0.9 * k))
+                c.drawRRect(rr(190, 470, 700, 640, 60), P("#FACC15", 0.6 * k, stroke=4))
+                earth_globe(c, 540, 770, 205, 0.53 * e_out(gk), a=k, t=tw)
+                v2.chip(c, 540, 1050, self.L["half"], k, accent=HILITE, size=38)
+                v2.chip(c, 540, 520, self.L["km"], self.span(T["earth"], T["rice"] - 0.05), accent="#FACC15", size=44)
             kb = self.span(T["rice"] - 0.1, T["great"] - 0.05)
             if kb > 0:
-                c.drawRRect(rr(300, 440, 480, 430, 60), P("#0B1220", 0.72 * kb))
-                bowl(c, 540, 700, 1.3 * e_back(clamp(kb)), tw, a=kb)
-                v2.chip(c, 540, 930, self.L["rice"], kb, accent=HILITE, size=36)
+                c.drawRRect(rr(220, 500, 640, 560, 60), P("#0B1220", 0.9 * kb))
+                c.drawRRect(rr(220, 500, 640, 560, 60), P("#FACC15", 0.6 * kb, stroke=4))
+                bowl(c, 540, 800, 1.6 * e_back(clamp(kb)), tw, a=kb)
+                v2.chip(c, 540, 1010, self.L["rice"], kb, accent=HILITE, size=40)
             self.chip(540, 420, "name", T["great"] - 0.1, s("break1") + 0.1, accent=HILITE, size=44)
             return
         if tw < s("stat") - 0.12:
@@ -670,35 +673,52 @@ class GreatWall(EpisodeV2):
             mp.lineTo(x_, y_)
         mp.lineTo(self.MTN[-1][0], 0)
         mp.close()
-        c.drawPath(mp, lin_paint(0, -700, 0, 0, ["#3A4A3E", "#1E2A22"]))
+        c.drawPath(mp, lin_paint(0, -700, 0, 0, ["#46584A", "#1E2A22"]))
+        c.save()
+        c.clipPath(mp, doAntiAlias=True)
         for k in range(14):                                          # rock strata on the cliffs
             yy = -80 - k * 44
-            c.drawLine(-1700, yy, -240, yy + 30, P("#14201A", 0.35, stroke=5))
+            c.drawLine(-1900, yy, -200, yy + 30, P("#14201A", 0.35, stroke=5))
+        for k in range(9):                                           # sunlit faces
+            x_ = -1700 + k * 170
+            fp = skia.Path()
+            fp.moveTo(x_, self.mtn_y(x_) + 10)
+            fp.lineTo(x_ + 90, self.mtn_y(x_ + 90) + 10)
+            fp.lineTo(x_ + 40, 0)
+            fp.close()
+            c.drawPath(fp, P("#6B7F5E", 0.25))
+        c.restore()
+        rim = skia.Path()
+        rim.moveTo(*self.MTN[0])
+        for p_ in self.MTN[1:]:
+            rim.lineTo(*p_)
+        c.drawPath(rim, P("#F3A46C", 0.35, stroke=8))
         fn = self.mtn_y
-        wall_on(c, fn, -1640, -420, 1.0, wh=40.0, step=10.0)
+        wall_on(c, fn, -1640, -420, 1.0, wh=50.0, step=10.0)
         for tx_ in (-1240, -900, -580):
-            tower(c, tx_, fn(tx_), 80, 108)
-        for i, hx in enumerate((520, 700, 860)):                     # a farm on the flat land
-            house_cn(c, hx, 0, 130, 86, lit=0.7)
-        c.drawLine(380, -30, 1000, -30, P("#7C5A3A", 0.8, stroke=6))
-        for fx_ in range(380, 1001, 60):
+            tower(c, tx_, fn(tx_), 96, 130)
+        for i, hx in enumerate((260, 450, 640)):                     # a farm on the flat land
+            house_cn(c, hx, 0, 150, 100, lit=0.7)
+        c.drawLine(140, -30, 760, -30, P("#7C5A3A", 0.8, stroke=6))
+        for fx_ in range(140, 761, 60):
             c.drawLine(fx_, 0, fx_, -46, P("#7C5A3A", 0.9, stroke=6))
         fixed = t >= s("fix1") - 0.12
         for i in range(5):                                           # the raiders
             if not fixed:
                 u = prog(t, s("break1") - 0.1 + i * 0.12, s("fix1") + 0.2)
-                hx = lerp(2600 + i * 160, 980 + i * 150, u)
+                hx = lerp(1900 + i * 150, 760 + i * 140, u)
                 rear = 0.0
             else:
                 u = e_out(prog(t, s("fix1") - 0.12 + i * 0.1, T["charge"] - 0.1))
                 hx = lerp(700 + i * 170, -160 + i * 120, u)
                 rear = prog(t, T["charge"] - 0.4 + i * 0.05, T["charge"])
-            hy = 30 + (i % 2) * 70
-            horse(c, hx, hy, 0.95, t * 11 + i * 1.3, face=-1, rear=rear, rider=("#B91C1C", "#1D4ED8", "#B45309")[i % 3])
+            hy = (30 + (i % 2) * 60) if not fixed else (10 + (i % 2) * 26)
+            horse(c, hx, hy, 1.25 if not fixed else 1.1, t * 11 + i * 1.3, face=-1, rear=rear,
+                  rider=("#B91C1C", "#1D4ED8", "#B45309")[i % 3])
         if not fixed:
             dk = prog(t, s("break1"), T["flat"])
             for k in range(8):                                       # dust behind the horses
-                v2.puff(c, lerp(2700, 1200, dk) + k * 90, 80 + (k % 3) * 30, 50 + k * 4, "#C9A36A", 0.35 * dk, k=k)
+                v2.puff(c, lerp(2100, 1000, dk) + k * 90, 60 + (k % 3) * 24, 50 + k * 4, "#C9A36A", 0.35 * dk, k=k)
         c.restore()
         self.ui["cam"] = cam
 
@@ -723,7 +743,7 @@ class GreatWall(EpisodeV2):
         fixed = t >= s("fix2") - 0.12
         old = fixed and t >= T["stands"] - 0.2
         z = 1.0 if not old else lerp(1.0, 0.72, e_io(prog(t, T["stands"] - 0.2, T["stands"] + 0.6)))
-        cam = (0, -330, z)
+        cam = (0, -200, z)
         cx, cy, _ = cam
         gy = (0 - cy) * z + H / 2
         v2.sky(c, W, H, 0.0, pal=DESERT, horizon_y=gy - 20)
@@ -750,10 +770,12 @@ class GreatWall(EpisodeV2):
                 pth.lineTo(xx + math.sin(t * 5 + k * 1.3 + i) * 12, -40 - k * 60)
             c.drawPath(pth, P("#FFD9A0", heat * 0.5 * math.sin(((t * 0.6 + i * 0.13) % 1.0) * math.pi), stroke=6))
         if not fixed:
-            person(c, -170, 40, 150, "#2563EB", t, pose="shrug", face=1, hat="none", hair="#1C1917")
-            c.drawRect(R(-60, 0, 120, 44), P("#7C5A3A"))              # an empty cart
-            c.drawCircle(-40, 50, 18, P("#3F2A1A"))
-            c.drawCircle(40, 50, 18, P("#3F2A1A"))
+            person(c, -200, 40, 270, "#2563EB", t, pose="shrug", face=1, hat="none", hair="#1C1917")
+            c.drawRect(R(-20, -40, 230, 70), P("#7C5A3A"))            # an empty cart
+            c.drawRect(R(-20, -40, 230, 70), P("#4A321E", stroke=6))
+            c.drawLine(210, -30, 300, -90, P("#7C5A3A", stroke=10))
+            c.drawCircle(30, 40, 30, P("#3F2A1A"))
+            c.drawCircle(160, 40, 30, P("#3F2A1A"))
             tb = (t * 0.5) % 1.0                                     # a tumbleweed rolls by
             tx_ = lerp(900, -900, tb)
             c.save()
@@ -940,14 +962,19 @@ class GreatWall(EpisodeV2):
                 v2set.splash(c, px, y0 + 20, t, t - (t + i * 0.3) % 0.9, dur=0.7, n=6, speed=260)
             wk = prog(t, T["stir"] - 0.3, T["stir"])
             wok(c, 300, 1110, 1.05 * wk, t, stir=t, a=wk)
-            pk = self.span(T["rice2"] - 0.1, T["starch"] + 0.2)
-            if pk > 0:                                               # pour into the lime
-                pth = skia.Path()
-                pth.moveTo(380, 1080)
-                pth.quadTo(560, 900, 640, 760)
-                c.drawPath(pth, P("#F8FAFC", 0.9 * pk, stroke=22))
-                c.drawOval(R(560, 1010, 300, 90), P("#E5E7EB", pk))
-                c.drawOval(R(580, 1020, 260, 70), P("#F8FAFC", pk))
+            tk = prog(t, T["stir"] - 0.2, T["stir"] + 0.2)
+            if tk > 0:                                               # the lime trough, the soup poured in
+                c.drawRect(R(600, 1080, 360, 110), lin_paint(600, 0, 960, 0, ["#6B7280", "#9CA3AF", "#4B5563"], a=tk))
+                c.drawRect(R(612, 1080, 336, 26), P(mix("#D6D3CB", "#FFFFFF", white), tk))
+                pk = self.span(T["rice2"] - 0.1, T["starch"] + 0.2)
+                if pk > 0:
+                    pth = skia.Path()
+                    pth.moveTo(440, 1070)
+                    pth.quadTo(560, 960, 700, 1090)
+                    c.drawPath(pth, P("#F8FAFC", 0.95 * pk, stroke=20))
+                    for k in range(5):
+                        q = (t * 1.5 + k / 5.0) % 1.0
+                        c.drawOval(R(640 + k * 60, 1084 - 6 * math.sin(q * math.pi), 40, 14), P("#FFFFFF", 0.8 * pk))
         self.ui["y0"] = y0
 
     def ui_mortar(self, c, t, tw):
@@ -1002,7 +1029,7 @@ class GreatWall(EpisodeV2):
         nb = len(self.BT)
         for i, bx in enumerate(self.BT):
             j = nb - 1 - i                                           # relay order: east (right) to west (left)
-            t0 = T["relay"] + j * 0.26
+            t0 = T["relay"] + j * self.dt_relay
             lit = prog(t, t0, t0 + 0.2) if fixed else 0.0
             n = 1
             if i == 0 and fixed:
@@ -1010,17 +1037,17 @@ class GreatWall(EpisodeV2):
             tower(c, bx, self.long_y(bx), 84, 112, fire=lit, t=t)
             if lit > 0:
                 smoke_col(c, bx, self.long_y(bx) - 140, t, t0, s=1.0, a=lit, seed=i * 7, n=n, gap=44)
-        for k, tx_ in enumerate((-3500, -3330, -3160)):              # the army camp at the west end
-            tent(c, tx_, self.long_y(tx_) + 90, 1.0)
+        for k, tx_ in enumerate((-3080, -2950)):                     # the army camp at the west end
+            tent(c, tx_, self.long_y(tx_) + 60, 1.3)
         ck = prog(t, T["camp"], T["camp"] + 0.3) if fixed else 0.0
         for k in range(4):
-            person(c, -3420 + k * 70, self.long_y(-3420) + 96, 110, "#B91C1C", t, pose="cheer" if ck > 0.5 else "stand",
+            person(c, -3110 + k * 80, self.long_y(-3000) + 80, 120, "#B91C1C", t, pose="cheer" if ck > 0.5 else "stand",
                    face=1, hat="none", hair="#1C1917")
         if t < T["relay"] + 1.0:                                     # raiders arrive at the east end
             for i in range(4):
                 u = e_out(prog(t, s("break4") - 0.1 + i * 0.15, s("break4") + 1.6 + i * 0.15))
-                hx = lerp(2300 + i * 150, 1500 + i * 130, u)
-                horse(c, hx, self.long_y(hx) + 110 + (i % 2) * 40, 0.85, t * 11 + i, face=-1,
+                hx = lerp(1900 + i * 140, 1050 + i * 120, u)
+                horse(c, hx, self.long_y(hx) + 120 + (i % 2) * 40, 1.25, t * 11 + i, face=-1,
                       rider=("#B91C1C", "#1D4ED8")[i % 2])
         c.restore()
         self.ui["cam"] = cam
@@ -1067,7 +1094,7 @@ class GreatWall(EpisodeV2):
             if lit > 0:
                 smoke_col(c, bx, fn(bx) - 80, t, t0, s=0.55, a=lit, seed=i * 5)
         c.restore()
-        pk = prog(t, T["friend"] - 0.4, T["friend"])
+        pk = prog(t, T["friend"] - 0.45, T["friend"] - 0.1)
         if pk > 0:
             phone_chat(c, 540, 300 + (1 - e_out(pk)) * 300, 600, 820, t, pk, self.L["msg"], self.L["seen"],
                        typing=self.span(T["yesterday"], T["replied"] - 0.1), rtl=self.rtl,
@@ -1111,7 +1138,7 @@ class GreatWall(EpisodeV2):
             ev.append((s("break4") + 0.1 + k * 0.14, sfx.thud(0.12, 86 + k % 3), -13))
         ev += [(T["days"] + 0.1, sfx.alarm(3, 820.0), -12)]
         for j in range(len(self.BT)):
-            ev.append((T["relay"] + j * 0.26, sfx.sizzle(0.3, 90 + j), -14))
+            ev.append((T["relay"] + j * self.dt_relay, sfx.sizzle(0.3, 90 + j), -14))
         ev += [(T["camp"], sfx.ding(), -10), (T["one"], sfx.thunk(91), -6), (T["five"], sfx.thunk(92), -4),
                (T["tenk"] + 0.1, sfx.ding(), -8), (T["tenk"] + 0.3, sfx.chime(), -6)]
         ev += [(T["pause"], sfx.click(93), 0), (T["follow"] - 0.15, sfx.pop(94), -4)]
