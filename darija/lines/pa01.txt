@@ -16,7 +16,7 @@ T | r0 | تعالوا نعيد!
 T | w0 | هسا، كلمة اليوم الصعبة!
 T | tw | Congratulations.
 T | w2 | شوي شوي.
-T | w3 | هسا أَسْرَع!
+T | w3 | هسا بسرعة!
 T | w4 | هسا الكلمة كاملة!
 A | w5 | Congratulations!
 T | w6 | Good job! Congratulations!
