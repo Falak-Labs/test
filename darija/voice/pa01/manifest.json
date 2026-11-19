@@ -1,0 +1,464 @@
+{
+ "episode": "pa01",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 511,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "p05k",
+  "r0",
+  "w0",
+  "tw",
+  "w2",
+  "w3",
+  "w4",
+  "w6",
+  "v0",
+  "v1",
+  "v1b",
+  "v2",
+  "o1",
+  "T_con",
+  "T_grat",
+  "T_you",
+  "T_lay",
+  "T_shuns",
+  "sT"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مرحبا! بتعرف كيف تحكي مبروك بالإنجليزي؟",
+   "characters": 39,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الجواب بالآخر. يلا!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مرحبا، كيفك؟",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Hi, how are you?",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "منيح، الحمد لله.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "I'm fine, thank you.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "شو اسمك؟",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "What's your name?",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "اسمي لينا.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "My name is Lina.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "أنا من فلسطين.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I'm from Palestine.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "r0",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "تعالوا نعيد!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "w0",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "هسا، كلمة اليوم الصعبة!",
+   "characters": 23,
+   "model": "eleven_v4",
+   "seconds": 2.48
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Congratulations.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "w2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "شوي شوي.",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "w3",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "هسا أسرع!",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "w4",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "هسا الكلمة كاملة!",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Congratulations!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Congratulations!",
+   "characters": 26,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "v0",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "وهسا بجملة!",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Congratulations! You passed the Tawjihi!",
+   "characters": 40,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "v1b",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Congratulations! You passed the Taw-jee-hee!",
+   "characters": 44,
+   "model": "eleven_v4",
+   "seconds": 3.28
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مبروك! نجحت بالتوجيهي!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Congratulations!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "o1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "عجبك الدرس؟ اكتب الكلمة بالتعليقات، وتابعنا!",
+   "characters": 44,
+   "model": "eleven_v4",
+   "seconds": 4.0
+  },
+  {
+   "id": "o2",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "See you next time!",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "o3",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Bye!",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "T_con",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Con.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_grat",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Grat.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_you",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "You.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_lay",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Lay.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.72
+  },
+  {
+   "id": "T_shuns",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Shuns.",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "sT",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Con. [long pause] Grat. [long pause] You. [long pause] Lay. [long pause] Shuns.",
+   "characters": 79,
+   "model": "eleven_v4",
+   "seconds": 7.52
+  },
+  {
+   "id": "A_con",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Con.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "A_grat",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Grat.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "A_you",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "You.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "A_lay",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Lay.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "A_shuns",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Shuns.",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "sA",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Con. [long pause] Grat. [long pause] You. [long pause] Lay. [long pause] Shuns.",
+   "characters": 79,
+   "model": "eleven_v4",
+   "seconds": 8.32
+  },
+  {
+   "id": "L_con",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Con.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_grat",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Grat.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "L_you",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "You.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_lay",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Lay.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "L_shuns",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Shuns.",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "sL",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Con. [long pause] Grat. [long pause] You. [long pause] Lay. [long pause] Shuns.",
+   "characters": 79,
+   "model": "eleven_v4",
+   "seconds": 8.96
+  }
+ ]
+}
