@@ -843,7 +843,7 @@ class MachuPicchu(EpisodeV2):
     # ------------------------------------------------------------------ sound
     def sfx_events(self):
         T, s, e = self.T, self.tl.s, self.tl.e
-        ev = [(0.05, sfx.hiss(3.0, 61), -10), (0.1, rumble(1.6, 62), -16), (T["knife"] + 0.5, sfx.whoosh(0.5, False, 63), -17),
+        ev = [(0.05, sfx.hiss(3.0, 61), -20), (0.1, rumble(1.6, 62), -20), (T["knife"] + 0.5, sfx.whoosh(0.5, False, 63), -17),
               (T["two"], sfx.pop(64), -10), (T["slid"], sfx.ding(), -10),
               (T["congrats"] + 0.1, sfx.sparkle(0.7, 9, 65), -9), (T["machu"], sfx.chime(), -9)]
         ev += [(s("break1") - 0.12, sfx.whoosh(0.4, True, 66), -4), (T["mud"], sfx.hiss(1.2, 67), -12),
