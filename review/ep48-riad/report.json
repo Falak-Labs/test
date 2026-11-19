@@ -1,0 +1,136 @@
+{
+ "slug": "ep48-riad",
+ "kit": "riad",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.0,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "14/231",
+   "mix_lines_off": [
+    "L 1 3 diff  | If you hide a garden in a fountain behind a blank mud wall, congrats, you just built a Moroccan re-aid.",
+    "L10 1 diff  | But before you open the door, follow, because next we're building the Haggia Sophia's dome.",
+    "L11 4 diff  | Now, Tyler and Zellage, thousands of tiny pieces chipped by hand and plant orange trees around the fountain.",
+    "L12 4 diff  | Over 9,000 alleys in Old Feds, 12 centuries old, and not a single car.",
+    "L13 2 diff  | And congrats, you just built a Moroccan re-aid yourself."
+   ],
+   "size_mb": 20.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو خبّيت جنينة ونافورة ورا حيطة طين صمّا، مبروك، كده انت بنيت رياض مغربي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس المدينة القديمة زحمة، الحواري يا دوب تساع حمار، والشمس في الصيف بتشوي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتقلب البيت لجوه: مفيش شبابيك تقريبًا على الشارع، وكل أوضة بتفتح على حوش في النص.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الحوش المفتوح للسما، الحر هيدخله برضه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتعليه وتضيّقه: الحيطان تضلّله، وهوا الليل الساقع ينزل فيه ويفضل طول الصبح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس حيطة الطين بتدوب في المطر، والحمام هيشرب مية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتلبّسها جير، وتلمّعها بحجر من النهر، وتدعكها بالصابون البلدي لحد ما المية تزحلق عليها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "وأي حد معدّي قدام الباب، هيبص جوه على طول.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتلف المدخل في زاوية، واللي في الحارة ميشوفش غير حيطة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تفتح الباب، تابعني، عشان اللي جاي هنبني قبة آيا صوفيا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "ودلوقتي لبّسه زليج: آلاف الحتت الصغيرة، كل حتة متكسرة بالإيد، وازرع برتقان حوالين النافورة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "أكتر من تسع تلاف حارة في فاس القديمة، عمرها اتناشر قرن، ومفيهاش عربية واحدة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت رياض مغربي بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "قرون بيبنوا بيوت محدش يشوف جواها، وجارتك اللي قصادك عارفة انتو اتغديتو إيه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 70.73,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.8,
+   "cover": true
+  }
+ }
+}
