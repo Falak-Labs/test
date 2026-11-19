@@ -1,90 +1,90 @@
 {
  "voice": "Easton",
- "duration": 62.48,
+ "duration": 62.3,
  "words": 231,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 5.09,
+   "end": 4.99,
    "text": "If you hide a garden and a fountain behind a blank mud wall, congrats, you just built a Moroccan riad."
   },
   {
    "line": 2,
-   "start": 5.44,
-   "end": 9.91,
+   "start": 5.34,
+   "end": 9.81,
    "text": "But the old city is packed, alleys barely fit a donkey, and the summer sun bakes everything."
   },
   {
    "line": 3,
-   "start": 10.26,
-   "end": 15.09,
+   "start": 10.16,
+   "end": 14.99,
    "text": "So you turn the house inside out: almost no windows on the street, and every room opens onto a courtyard."
   },
   {
    "line": 4,
-   "start": 15.44,
-   "end": 18.6,
+   "start": 15.34,
+   "end": 18.5,
    "text": "But a courtyard open to the sky lets the heat pour in, too."
   },
   {
    "line": 5,
-   "start": 18.95,
-   "end": 23.66,
+   "start": 18.85,
+   "end": 23.56,
    "text": "So you make it tall and narrow: the walls shade it, and cool night air sinks in and stays all morning."
   },
   {
    "line": 6,
-   "start": 24.01,
-   "end": 27.27,
+   "start": 23.91,
+   "end": 27.17,
    "text": "But mud walls melt in the rain, and a bathroom would soak right through."
   },
   {
    "line": 7,
-   "start": 27.62,
-   "end": 32.47,
+   "start": 27.52,
+   "end": 32.37,
    "text": "So you coat them in lime, polish it with a river stone, and rub in black soap until water rolls off."
   },
   {
    "line": 8,
-   "start": 32.82,
-   "end": 35.24,
+   "start": 32.72,
+   "end": 35.14,
    "text": "And anyone walking past the door could look straight in."
   },
   {
    "line": 9,
-   "start": 35.59,
-   "end": 39.24,
+   "start": 35.49,
+   "end": 39.14,
    "text": "So the entrance turns a corner, and from the alley, all you ever see is a wall."
   },
   {
    "line": 10,
-   "start": 39.59,
-   "end": 43.92,
+   "start": 39.49,
+   "end": 43.82,
    "text": "But before you open the door, follow, because next we're building the Hagia Sophia's dome."
   },
   {
    "line": 11,
-   "start": 44.27,
-   "end": 49.61,
+   "start": 44.17,
+   "end": 49.51,
    "text": "Now tile it in zellige, thousands of tiny pieces chipped by hand, and plant orange trees around the fountain."
   },
   {
    "line": 12,
-   "start": 49.96,
-   "end": 54.21,
+   "start": 49.86,
+   "end": 54.11,
    "text": "Over nine thousand alleys in old Fez, twelve centuries old, and not a single car."
   },
   {
    "line": 13,
-   "start": 54.56,
-   "end": 57.33,
+   "start": 54.46,
+   "end": 57.15,
    "text": "And congrats, you just built a Moroccan riad yourself."
   },
   {
    "line": 14,
-   "start": 57.68,
-   "end": 62.48,
+   "start": 57.5,
+   "end": 62.3,
    "text": "Centuries of houses nobody can see into, and your neighbor across the street still knows what you had for dinner."
   }
  ]

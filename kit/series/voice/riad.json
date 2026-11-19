@@ -2,1274 +2,1274 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 65.06,
+ "duration": 64.88,
  "words": 231,
- "words_per_sec": 3.55,
+ "words_per_sec": 3.56,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 5.302,
+   "end": 5.198,
    "text": "If you hide a garden and a fountain behind a blank mud wall, congrats, you just built a Moroccan riad.",
    "words": [
     {
      "w": "If",
      "start": 0.14,
-     "end": 0.349
+     "end": 0.346
     },
     {
      "w": "you",
-     "start": 0.349,
-     "end": 0.559
+     "start": 0.346,
+     "end": 0.551
     },
     {
      "w": "hide",
-     "start": 0.559,
-     "end": 0.768
+     "start": 0.551,
+     "end": 0.757
     },
     {
      "w": "a",
-     "start": 0.768,
-     "end": 0.977
+     "start": 0.757,
+     "end": 0.963
     },
     {
      "w": "garden",
-     "start": 0.977,
-     "end": 1.341
+     "start": 0.963,
+     "end": 1.321
     },
     {
      "w": "and",
-     "start": 1.341,
-     "end": 1.551
+     "start": 1.321,
+     "end": 1.527
     },
     {
      "w": "a",
-     "start": 1.551,
-     "end": 1.76
+     "start": 1.527,
+     "end": 1.733
     },
     {
      "w": "fountain",
-     "start": 1.76,
-     "end": 2.124
+     "start": 1.733,
+     "end": 2.091
     },
     {
      "w": "behind",
-     "start": 2.124,
-     "end": 2.489
+     "start": 2.091,
+     "end": 2.449
     },
     {
      "w": "a",
-     "start": 2.489,
-     "end": 2.698
+     "start": 2.449,
+     "end": 2.655
     },
     {
      "w": "blank",
-     "start": 2.698,
-     "end": 2.907
+     "start": 2.655,
+     "end": 2.86
     },
     {
      "w": "mud",
-     "start": 2.907,
-     "end": 3.116
+     "start": 2.86,
+     "end": 3.066
     },
     {
      "w": "wall,",
-     "start": 3.116,
-     "end": 3.326
+     "start": 3.066,
+     "end": 3.272
     },
     {
      "w": "congrats,",
-     "start": 3.326,
-     "end": 3.69
+     "start": 3.272,
+     "end": 3.63
     },
     {
      "w": "you",
-     "start": 3.82,
-     "end": 4.007
+     "start": 3.77,
+     "end": 3.952
     },
     {
      "w": "just",
-     "start": 4.007,
-     "end": 4.194
+     "start": 3.952,
+     "end": 4.134
     },
     {
      "w": "built",
-     "start": 4.194,
-     "end": 4.381
+     "start": 4.134,
+     "end": 4.315
     },
     {
      "w": "a",
-     "start": 4.381,
-     "end": 4.569
+     "start": 4.315,
+     "end": 4.497
     },
     {
      "w": "Moroccan",
-     "start": 4.569,
-     "end": 5.033
+     "start": 4.497,
+     "end": 4.948
     },
     {
      "w": "riad.",
-     "start": 5.033,
-     "end": 5.22
+     "start": 4.948,
+     "end": 5.13
     }
    ]
   },
   {
    "line": 2,
-   "start": 5.667,
-   "end": 10.323,
+   "start": 5.562,
+   "end": 10.219,
    "text": "But the old city is packed, alleys barely fit a donkey, and the summer sun bakes everything.",
    "words": [
     {
      "w": "But",
-     "start": 5.807,
-     "end": 5.979
+     "start": 5.702,
+     "end": 5.861
     },
     {
      "w": "the",
-     "start": 5.979,
-     "end": 6.152
+     "start": 5.861,
+     "end": 6.02
     },
     {
      "w": "old",
-     "start": 6.152,
-     "end": 6.324
+     "start": 6.02,
+     "end": 6.179
     },
     {
      "w": "city",
-     "start": 6.324,
-     "end": 6.624
+     "start": 6.179,
+     "end": 6.456
     },
     {
      "w": "is",
-     "start": 6.624,
-     "end": 6.797
+     "start": 6.456,
+     "end": 6.615
     },
     {
      "w": "packed,",
-     "start": 6.797,
-     "end": 7.097
+     "start": 6.615,
+     "end": 6.892
     },
     {
      "w": "alleys",
-     "start": 7.227,
-     "end": 7.54
+     "start": 7.122,
+     "end": 7.435
     },
     {
      "w": "barely",
-     "start": 7.54,
-     "end": 7.985
+     "start": 7.435,
+     "end": 7.88
     },
     {
      "w": "fit",
-     "start": 7.985,
-     "end": 8.165
+     "start": 7.88,
+     "end": 8.06
     },
     {
      "w": "a",
-     "start": 8.165,
-     "end": 8.344
+     "start": 8.06,
+     "end": 8.239
     },
     {
      "w": "donkey,",
-     "start": 8.344,
-     "end": 8.657
+     "start": 8.239,
+     "end": 8.552
     },
     {
      "w": "and",
-     "start": 8.787,
-     "end": 8.94
+     "start": 8.682,
+     "end": 8.835
     },
     {
      "w": "the",
-     "start": 8.94,
-     "end": 9.092
+     "start": 8.835,
+     "end": 8.987
     },
     {
      "w": "summer",
-     "start": 9.092,
-     "end": 9.358
+     "start": 8.987,
+     "end": 9.253
     },
     {
      "w": "sun",
-     "start": 9.358,
-     "end": 9.51
+     "start": 9.253,
+     "end": 9.405
     },
     {
      "w": "bakes",
-     "start": 9.51,
-     "end": 9.776
+     "start": 9.405,
+     "end": 9.671
     },
     {
      "w": "everything.",
-     "start": 9.776,
-     "end": 10.267
+     "start": 9.671,
+     "end": 10.162
     }
    ]
   },
   {
    "line": 3,
-   "start": 10.688,
-   "end": 15.719,
+   "start": 10.583,
+   "end": 15.615,
    "text": "So you turn the house inside out: almost no windows on the street, and every room opens onto a courtyard.",
    "words": [
     {
      "w": "So",
-     "start": 10.798,
-     "end": 10.975
+     "start": 10.693,
+     "end": 10.871
     },
     {
      "w": "you",
-     "start": 10.975,
-     "end": 11.152
+     "start": 10.871,
+     "end": 11.05
     },
     {
      "w": "turn",
-     "start": 11.152,
-     "end": 11.329
+     "start": 11.05,
+     "end": 11.228
     },
     {
      "w": "the",
-     "start": 11.329,
-     "end": 11.506
+     "start": 11.228,
+     "end": 11.406
     },
     {
      "w": "house",
-     "start": 11.506,
-     "end": 11.683
+     "start": 11.406,
+     "end": 11.584
     },
     {
      "w": "inside",
-     "start": 11.683,
-     "end": 11.991
+     "start": 11.584,
+     "end": 11.895
     },
     {
      "w": "out:",
-     "start": 11.991,
-     "end": 12.168
+     "start": 11.895,
+     "end": 12.073
     },
     {
      "w": "almost",
-     "start": 12.338,
-     "end": 12.666
+     "start": 12.233,
+     "end": 12.561
     },
     {
      "w": "no",
-     "start": 12.666,
-     "end": 12.855
+     "start": 12.561,
+     "end": 12.75
     },
     {
      "w": "windows",
-     "start": 12.855,
-     "end": 13.183
+     "start": 12.75,
+     "end": 13.078
     },
     {
      "w": "on",
-     "start": 13.183,
-     "end": 13.371
+     "start": 13.078,
+     "end": 13.266
     },
     {
      "w": "the",
-     "start": 13.371,
-     "end": 13.56
+     "start": 13.266,
+     "end": 13.455
     },
     {
      "w": "street,",
-     "start": 13.56,
-     "end": 13.748
+     "start": 13.455,
+     "end": 13.643
     },
     {
      "w": "and",
-     "start": 13.918,
-     "end": 14.08
+     "start": 13.813,
+     "end": 13.975
     },
     {
      "w": "every",
-     "start": 14.08,
-     "end": 14.481
+     "start": 13.975,
+     "end": 14.376
     },
     {
      "w": "room",
-     "start": 14.481,
-     "end": 14.642
+     "start": 14.376,
+     "end": 14.537
     },
     {
      "w": "opens",
-     "start": 14.642,
-     "end": 14.924
+     "start": 14.537,
+     "end": 14.819
     },
     {
      "w": "onto",
-     "start": 14.924,
-     "end": 15.205
+     "start": 14.819,
+     "end": 15.1
     },
     {
      "w": "a",
-     "start": 15.205,
-     "end": 15.367
+     "start": 15.1,
+     "end": 15.262
     },
     {
      "w": "courtyard.",
-     "start": 15.367,
-     "end": 15.648
+     "start": 15.262,
+     "end": 15.543
     }
    ]
   },
   {
    "line": 4,
-   "start": 16.083,
-   "end": 19.375,
+   "start": 15.979,
+   "end": 19.271,
    "text": "But a courtyard open to the sky lets the heat pour in, too.",
    "words": [
     {
      "w": "But",
-     "start": 16.213,
-     "end": 16.426
+     "start": 16.109,
+     "end": 16.322
     },
     {
      "w": "a",
-     "start": 16.426,
-     "end": 16.638
+     "start": 16.322,
+     "end": 16.534
     },
     {
      "w": "courtyard",
-     "start": 16.638,
-     "end": 17.009
+     "start": 16.534,
+     "end": 16.905
     },
     {
      "w": "open",
-     "start": 17.009,
-     "end": 17.379
+     "start": 16.905,
+     "end": 17.275
     },
     {
      "w": "to",
-     "start": 17.379,
-     "end": 17.592
+     "start": 17.275,
+     "end": 17.488
     },
     {
      "w": "the",
-     "start": 17.592,
-     "end": 17.804
+     "start": 17.488,
+     "end": 17.7
     },
     {
      "w": "sky",
-     "start": 17.804,
-     "end": 18.017
+     "start": 17.7,
+     "end": 17.913
     },
     {
      "w": "lets",
-     "start": 18.017,
-     "end": 18.23
+     "start": 17.913,
+     "end": 18.126
     },
     {
      "w": "the",
-     "start": 18.23,
-     "end": 18.442
+     "start": 18.126,
+     "end": 18.338
     },
     {
      "w": "heat",
-     "start": 18.442,
-     "end": 18.655
+     "start": 18.338,
+     "end": 18.551
     },
     {
      "w": "pour",
-     "start": 18.655,
-     "end": 18.868
+     "start": 18.551,
+     "end": 18.764
     },
     {
      "w": "in,",
-     "start": 18.868,
-     "end": 19.08
+     "start": 18.764,
+     "end": 18.976
     },
     {
      "w": "too.",
-     "start": 19.08,
-     "end": 19.293
+     "start": 18.976,
+     "end": 19.189
     }
    ]
   },
   {
    "line": 5,
-   "start": 19.74,
-   "end": 24.646,
+   "start": 19.635,
+   "end": 24.542,
    "text": "So you make it tall and narrow: the walls shade it, and cool night air sinks in and stays all morning.",
    "words": [
     {
      "w": "So",
-     "start": 19.85,
-     "end": 20.027
+     "start": 19.745,
+     "end": 19.922
     },
     {
      "w": "you",
-     "start": 20.027,
-     "end": 20.204
+     "start": 19.922,
+     "end": 20.099
     },
     {
      "w": "make",
-     "start": 20.204,
-     "end": 20.381
+     "start": 20.099,
+     "end": 20.276
     },
     {
      "w": "it",
-     "start": 20.381,
-     "end": 20.558
+     "start": 20.276,
+     "end": 20.453
     },
     {
      "w": "tall",
-     "start": 20.558,
-     "end": 20.735
+     "start": 20.453,
+     "end": 20.63
     },
     {
      "w": "and",
-     "start": 20.735,
-     "end": 20.912
+     "start": 20.63,
+     "end": 20.807
     },
     {
      "w": "narrow:",
-     "start": 20.912,
-     "end": 21.22
+     "start": 20.807,
+     "end": 21.115
     },
     {
      "w": "the",
-     "start": 21.38,
-     "end": 21.582
+     "start": 21.275,
+     "end": 21.48
     },
     {
      "w": "walls",
-     "start": 21.582,
-     "end": 21.785
+     "start": 21.48,
+     "end": 21.685
     },
     {
      "w": "shade",
-     "start": 21.785,
-     "end": 21.987
+     "start": 21.685,
+     "end": 21.89
     },
     {
      "w": "it,",
-     "start": 21.987,
-     "end": 22.19
+     "start": 21.89,
+     "end": 22.095
     },
     {
      "w": "and",
-     "start": 22.33,
-     "end": 22.539
+     "start": 22.225,
+     "end": 22.434
     },
     {
      "w": "cool",
-     "start": 22.539,
-     "end": 22.747
+     "start": 22.434,
+     "end": 22.642
     },
     {
      "w": "night",
-     "start": 22.747,
-     "end": 22.956
+     "start": 22.642,
+     "end": 22.851
     },
     {
      "w": "air",
-     "start": 22.956,
-     "end": 23.164
+     "start": 22.851,
+     "end": 23.059
     },
     {
      "w": "sinks",
-     "start": 23.164,
-     "end": 23.373
+     "start": 23.059,
+     "end": 23.268
     },
     {
      "w": "in",
-     "start": 23.373,
-     "end": 23.581
+     "start": 23.268,
+     "end": 23.476
     },
     {
      "w": "and",
-     "start": 23.581,
-     "end": 23.79
+     "start": 23.476,
+     "end": 23.685
     },
     {
      "w": "stays",
-     "start": 23.79,
-     "end": 23.998
+     "start": 23.685,
+     "end": 23.893
     },
     {
      "w": "all",
-     "start": 23.998,
-     "end": 24.207
+     "start": 23.893,
+     "end": 24.102
     },
     {
      "w": "morning.",
-     "start": 24.207,
-     "end": 24.57
+     "start": 24.102,
+     "end": 24.465
     }
    ]
   },
   {
    "line": 6,
-   "start": 25.01,
-   "end": 28.406,
+   "start": 24.906,
+   "end": 28.302,
    "text": "But mud walls melt in the rain, and a bathroom would soak right through.",
    "words": [
     {
      "w": "But",
-     "start": 25.15,
-     "end": 25.366
+     "start": 25.046,
+     "end": 25.262
     },
     {
      "w": "mud",
-     "start": 25.366,
-     "end": 25.581
+     "start": 25.262,
+     "end": 25.477
     },
     {
      "w": "walls",
-     "start": 25.581,
-     "end": 25.797
+     "start": 25.477,
+     "end": 25.693
     },
     {
      "w": "melt",
-     "start": 25.797,
-     "end": 26.013
+     "start": 25.693,
+     "end": 25.909
     },
     {
      "w": "in",
-     "start": 26.013,
-     "end": 26.229
+     "start": 25.909,
+     "end": 26.125
     },
     {
      "w": "the",
-     "start": 26.229,
-     "end": 26.444
+     "start": 26.125,
+     "end": 26.34
     },
     {
      "w": "rain,",
-     "start": 26.444,
-     "end": 26.66
+     "start": 26.34,
+     "end": 26.556
     },
     {
      "w": "and",
-     "start": 26.8,
-     "end": 26.998
+     "start": 26.706,
+     "end": 26.902
     },
     {
      "w": "a",
-     "start": 26.998,
-     "end": 27.195
+     "start": 26.902,
+     "end": 27.099
     },
     {
      "w": "bathroom",
-     "start": 27.195,
-     "end": 27.539
+     "start": 27.099,
+     "end": 27.441
     },
     {
      "w": "would",
-     "start": 27.539,
-     "end": 27.737
+     "start": 27.441,
+     "end": 27.637
     },
     {
      "w": "soak",
-     "start": 27.737,
-     "end": 27.935
+     "start": 27.637,
+     "end": 27.833
     },
     {
      "w": "right",
-     "start": 27.935,
-     "end": 28.132
+     "start": 27.833,
+     "end": 28.03
     },
     {
      "w": "through.",
-     "start": 28.132,
-     "end": 28.33
+     "start": 28.03,
+     "end": 28.226
     }
    ]
   },
   {
    "line": 7,
-   "start": 28.771,
-   "end": 33.823,
+   "start": 28.667,
+   "end": 33.719,
    "text": "So you coat them in lime, polish it with a river stone, and rub in black soap until water rolls off.",
    "words": [
     {
      "w": "So",
-     "start": 28.881,
-     "end": 29.083
+     "start": 28.777,
+     "end": 28.979
     },
     {
      "w": "you",
-     "start": 29.083,
-     "end": 29.284
+     "start": 28.979,
+     "end": 29.18
     },
     {
      "w": "coat",
-     "start": 29.284,
-     "end": 29.486
+     "start": 29.18,
+     "end": 29.382
     },
     {
      "w": "them",
-     "start": 29.486,
-     "end": 29.688
+     "start": 29.382,
+     "end": 29.584
     },
     {
      "w": "in",
-     "start": 29.688,
-     "end": 29.889
+     "start": 29.584,
+     "end": 29.785
     },
     {
      "w": "lime,",
-     "start": 29.889,
-     "end": 30.091
+     "start": 29.785,
+     "end": 29.987
     },
     {
      "w": "polish",
-     "start": 30.231,
-     "end": 30.526
+     "start": 30.127,
+     "end": 30.42
     },
     {
      "w": "it",
-     "start": 30.526,
-     "end": 30.696
+     "start": 30.42,
+     "end": 30.589
     },
     {
      "w": "with",
-     "start": 30.696,
-     "end": 30.866
+     "start": 30.589,
+     "end": 30.757
     },
     {
      "w": "a",
-     "start": 30.866,
-     "end": 31.036
+     "start": 30.757,
+     "end": 30.925
     },
     {
      "w": "river",
-     "start": 31.036,
-     "end": 31.331
+     "start": 30.925,
+     "end": 31.219
     },
     {
      "w": "stone,",
-     "start": 31.331,
-     "end": 31.501
+     "start": 31.219,
+     "end": 31.387
     },
     {
      "w": "and",
-     "start": 31.651,
-     "end": 31.847
+     "start": 31.547,
+     "end": 31.743
     },
     {
      "w": "rub",
-     "start": 31.847,
-     "end": 32.042
+     "start": 31.743,
+     "end": 31.938
     },
     {
      "w": "in",
-     "start": 32.042,
-     "end": 32.238
+     "start": 31.938,
+     "end": 32.134
     },
     {
      "w": "black",
-     "start": 32.238,
-     "end": 32.433
+     "start": 32.134,
+     "end": 32.329
     },
     {
      "w": "soap",
-     "start": 32.433,
-     "end": 32.629
+     "start": 32.329,
+     "end": 32.525
     },
     {
      "w": "until",
-     "start": 32.629,
-     "end": 32.969
+     "start": 32.525,
+     "end": 32.865
     },
     {
      "w": "water",
-     "start": 32.969,
-     "end": 33.31
+     "start": 32.865,
+     "end": 33.206
     },
     {
      "w": "rolls",
-     "start": 33.31,
-     "end": 33.505
+     "start": 33.206,
+     "end": 33.401
     },
     {
      "w": "off.",
-     "start": 33.505,
-     "end": 33.701
+     "start": 33.401,
+     "end": 33.597
     }
    ]
   },
   {
    "line": 8,
-   "start": 34.188,
-   "end": 36.708,
+   "start": 34.083,
+   "end": 36.604,
    "text": "And anyone walking past the door could look straight in.",
    "words": [
     {
      "w": "And",
-     "start": 34.298,
-     "end": 34.501
+     "start": 34.213,
+     "end": 34.415
     },
     {
      "w": "anyone",
-     "start": 34.501,
-     "end": 34.854
+     "start": 34.415,
+     "end": 34.767
     },
     {
      "w": "walking",
-     "start": 34.854,
-     "end": 35.207
+     "start": 34.767,
+     "end": 35.119
     },
     {
      "w": "past",
-     "start": 35.207,
-     "end": 35.41
+     "start": 35.119,
+     "end": 35.321
     },
     {
      "w": "the",
-     "start": 35.41,
-     "end": 35.613
+     "start": 35.321,
+     "end": 35.523
     },
     {
      "w": "door",
-     "start": 35.613,
-     "end": 35.816
+     "start": 35.523,
+     "end": 35.725
     },
     {
      "w": "could",
-     "start": 35.816,
-     "end": 36.019
+     "start": 35.725,
+     "end": 35.927
     },
     {
      "w": "look",
-     "start": 36.019,
-     "end": 36.222
+     "start": 35.927,
+     "end": 36.129
     },
     {
      "w": "straight",
-     "start": 36.222,
-     "end": 36.425
+     "start": 36.129,
+     "end": 36.331
     },
     {
      "w": "in.",
-     "start": 36.425,
-     "end": 36.628
+     "start": 36.331,
+     "end": 36.533
     }
    ]
   },
   {
    "line": 9,
-   "start": 37.073,
-   "end": 40.875,
+   "start": 36.969,
+   "end": 40.771,
    "text": "So the entrance turns a corner, and from the alley, all you ever see is a wall.",
    "words": [
     {
      "w": "So",
-     "start": 37.183,
-     "end": 37.371
+     "start": 37.079,
+     "end": 37.269
     },
     {
      "w": "the",
-     "start": 37.371,
-     "end": 37.56
+     "start": 37.269,
+     "end": 37.459
     },
     {
      "w": "entrance",
-     "start": 37.56,
-     "end": 37.888
+     "start": 37.459,
+     "end": 37.789
     },
     {
      "w": "turns",
-     "start": 37.888,
-     "end": 38.076
+     "start": 37.789,
+     "end": 37.979
     },
     {
      "w": "a",
-     "start": 38.076,
-     "end": 38.265
+     "start": 37.979,
+     "end": 38.169
     },
     {
      "w": "corner,",
-     "start": 38.265,
-     "end": 38.593
+     "start": 38.169,
+     "end": 38.499
     },
     {
      "w": "and",
-     "start": 38.753,
-     "end": 38.913
+     "start": 38.639,
+     "end": 38.801
     },
     {
      "w": "from",
-     "start": 38.913,
-     "end": 39.074
+     "start": 38.801,
+     "end": 38.964
     },
     {
      "w": "the",
-     "start": 39.074,
-     "end": 39.234
+     "start": 38.964,
+     "end": 39.126
     },
     {
      "w": "alley,",
-     "start": 39.234,
-     "end": 39.513
+     "start": 39.126,
+     "end": 39.409
     },
     {
      "w": "all",
-     "start": 39.673,
-     "end": 39.818
+     "start": 39.569,
+     "end": 39.714
     },
     {
      "w": "you",
-     "start": 39.818,
-     "end": 39.962
+     "start": 39.714,
+     "end": 39.858
     },
     {
      "w": "ever",
-     "start": 39.962,
-     "end": 40.214
+     "start": 39.858,
+     "end": 40.11
     },
     {
      "w": "see",
-     "start": 40.214,
-     "end": 40.359
+     "start": 40.11,
+     "end": 40.255
     },
     {
      "w": "is",
-     "start": 40.359,
-     "end": 40.504
+     "start": 40.255,
+     "end": 40.4
     },
     {
      "w": "a",
-     "start": 40.504,
-     "end": 40.648
+     "start": 40.4,
+     "end": 40.544
     },
     {
      "w": "wall.",
-     "start": 40.648,
-     "end": 40.793
+     "start": 40.544,
+     "end": 40.689
     }
    ]
   },
   {
    "line": 10,
-   "start": 41.24,
-   "end": 45.75,
+   "start": 41.135,
+   "end": 45.646,
    "text": "But before you open the door, follow, because next we're building the Hagia Sophia's dome.",
    "words": [
     {
      "w": "But",
-     "start": 41.39,
-     "end": 41.562
+     "start": 41.285,
+     "end": 41.457
     },
     {
      "w": "before",
-     "start": 41.562,
-     "end": 41.863
+     "start": 41.457,
+     "end": 41.758
     },
     {
      "w": "you",
-     "start": 41.863,
-     "end": 42.035
+     "start": 41.758,
+     "end": 41.93
     },
     {
      "w": "open",
-     "start": 42.035,
-     "end": 42.335
+     "start": 41.93,
+     "end": 42.23
     },
     {
      "w": "the",
-     "start": 42.335,
-     "end": 42.508
+     "start": 42.23,
+     "end": 42.403
     },
     {
      "w": "door,",
-     "start": 42.508,
-     "end": 42.68
+     "start": 42.403,
+     "end": 42.575
     },
     {
      "w": "follow,",
-     "start": 42.84,
-     "end": 43.18
+     "start": 42.735,
+     "end": 43.075
     },
     {
      "w": "because",
-     "start": 43.32,
-     "end": 43.692
+     "start": 43.215,
+     "end": 43.588
     },
     {
      "w": "next",
-     "start": 43.692,
-     "end": 43.905
+     "start": 43.588,
+     "end": 43.802
     },
     {
      "w": "we're",
-     "start": 43.905,
-     "end": 44.118
+     "start": 43.802,
+     "end": 44.017
     },
     {
      "w": "building",
-     "start": 44.118,
-     "end": 44.49
+     "start": 44.017,
+     "end": 44.39
     },
     {
      "w": "the",
-     "start": 44.49,
-     "end": 44.703
+     "start": 44.39,
+     "end": 44.604
     },
     {
      "w": "Hagia",
-     "start": 44.703,
-     "end": 45.075
+     "start": 44.604,
+     "end": 44.978
     },
     {
      "w": "Sophia's",
-     "start": 45.075,
-     "end": 45.447
+     "start": 44.978,
+     "end": 45.351
     },
     {
      "w": "dome.",
-     "start": 45.447,
-     "end": 45.66
+     "start": 45.351,
+     "end": 45.565
     }
    ]
   },
   {
    "line": 11,
-   "start": 46.115,
-   "end": 51.677,
+   "start": 46.01,
+   "end": 51.573,
    "text": "Now tile it in zellige, thousands of tiny pieces chipped by hand, and plant orange trees around the fountain.",
    "words": [
     {
      "w": "Now",
-     "start": 46.225,
-     "end": 46.444
+     "start": 46.12,
+     "end": 46.339
     },
     {
      "w": "tile",
-     "start": 46.444,
-     "end": 46.664
+     "start": 46.339,
+     "end": 46.559
     },
     {
      "w": "it",
-     "start": 46.664,
-     "end": 46.883
+     "start": 46.559,
+     "end": 46.778
     },
     {
      "w": "in",
-     "start": 46.883,
-     "end": 47.103
+     "start": 46.778,
+     "end": 46.998
     },
     {
      "w": "zellige,",
-     "start": 47.103,
-     "end": 47.485
+     "start": 46.998,
+     "end": 47.38
     },
     {
      "w": "thousands",
-     "start": 47.605,
-     "end": 47.97
+     "start": 47.5,
+     "end": 47.865
     },
     {
      "w": "of",
-     "start": 47.97,
-     "end": 48.18
+     "start": 47.865,
+     "end": 48.075
     },
     {
      "w": "tiny",
-     "start": 48.18,
-     "end": 48.545
+     "start": 48.075,
+     "end": 48.44
     },
     {
      "w": "pieces",
-     "start": 48.545,
-     "end": 48.91
+     "start": 48.44,
+     "end": 48.805
     },
     {
      "w": "chipped",
-     "start": 48.91,
-     "end": 49.275
+     "start": 48.805,
+     "end": 49.17
     },
     {
      "w": "by",
-     "start": 49.275,
-     "end": 49.485
+     "start": 49.17,
+     "end": 49.38
     },
     {
      "w": "hand,",
-     "start": 49.485,
-     "end": 49.695
+     "start": 49.38,
+     "end": 49.59
     },
     {
      "w": "and",
-     "start": 49.845,
-     "end": 50.034
+     "start": 49.73,
+     "end": 49.921
     },
     {
      "w": "plant",
-     "start": 50.034,
-     "end": 50.222
+     "start": 49.921,
+     "end": 50.112
     },
     {
      "w": "orange",
-     "start": 50.222,
-     "end": 50.551
+     "start": 50.112,
+     "end": 50.444
     },
     {
      "w": "trees",
-     "start": 50.551,
-     "end": 50.739
+     "start": 50.444,
+     "end": 50.635
     },
     {
      "w": "around",
-     "start": 50.739,
-     "end": 51.068
+     "start": 50.635,
+     "end": 50.967
     },
     {
      "w": "the",
-     "start": 51.068,
-     "end": 51.257
+     "start": 50.967,
+     "end": 51.158
     },
     {
      "w": "fountain.",
-     "start": 51.257,
-     "end": 51.585
+     "start": 51.158,
+     "end": 51.49
     }
    ]
   },
   {
    "line": 12,
-   "start": 52.042,
-   "end": 56.469,
+   "start": 51.938,
+   "end": 56.365,
    "text": "Over nine thousand alleys in old Fez, twelve centuries old, and not a single car.",
    "words": [
     {
      "w": "Over",
-     "start": 52.132,
-     "end": 52.51
+     "start": 52.028,
+     "end": 52.406
     },
     {
      "w": "nine",
-     "start": 52.51,
-     "end": 52.726
+     "start": 52.406,
+     "end": 52.622
     },
     {
      "w": "thousand",
-     "start": 52.726,
-     "end": 53.104
+     "start": 52.622,
+     "end": 53.0
     },
     {
      "w": "alleys",
-     "start": 53.104,
-     "end": 53.481
+     "start": 53.0,
+     "end": 53.377
     },
     {
      "w": "in",
-     "start": 53.481,
-     "end": 53.698
+     "start": 53.377,
+     "end": 53.594
     },
     {
      "w": "old",
-     "start": 53.698,
-     "end": 53.915
+     "start": 53.594,
+     "end": 53.811
     },
     {
      "w": "Fez,",
-     "start": 53.915,
-     "end": 54.132
+     "start": 53.811,
+     "end": 54.028
     },
     {
      "w": "twelve",
-     "start": 54.272,
-     "end": 54.491
+     "start": 54.168,
+     "end": 54.384
     },
     {
      "w": "centuries",
-     "start": 54.491,
-     "end": 55.033
+     "start": 54.384,
+     "end": 54.922
     },
     {
      "w": "old,",
-     "start": 55.033,
-     "end": 55.252
+     "start": 54.922,
+     "end": 55.138
     },
     {
      "w": "and",
-     "start": 55.412,
-     "end": 55.608
+     "start": 55.308,
+     "end": 55.504
     },
     {
      "w": "not",
-     "start": 55.608,
-     "end": 55.804
+     "start": 55.504,
+     "end": 55.7
     },
     {
      "w": "a",
-     "start": 55.804,
-     "end": 56.0
+     "start": 55.7,
+     "end": 55.896
     },
     {
      "w": "single",
-     "start": 56.0,
-     "end": 56.196
+     "start": 55.896,
+     "end": 56.092
     },
     {
      "w": "car.",
-     "start": 56.196,
-     "end": 56.392
+     "start": 56.092,
+     "end": 56.288
     }
    ]
   },
   {
    "line": 13,
-   "start": 56.833,
-   "end": 59.719,
+   "start": 56.729,
+   "end": 59.531,
    "text": "And congrats, you just built a Moroccan riad yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.953,
-     "end": 57.208
+     "start": 56.849,
+     "end": 57.06
     },
     {
      "w": "congrats,",
-     "start": 57.208,
-     "end": 57.653
+     "start": 57.06,
+     "end": 57.429
     },
     {
      "w": "you",
-     "start": 57.803,
-     "end": 57.997
+     "start": 57.429,
+     "end": 57.64
     },
     {
      "w": "just",
-     "start": 57.997,
-     "end": 58.191
+     "start": 57.64,
+     "end": 57.852
     },
     {
      "w": "built",
-     "start": 58.191,
-     "end": 58.385
+     "start": 57.852,
+     "end": 58.063
     },
     {
      "w": "a",
-     "start": 58.385,
-     "end": 58.579
+     "start": 58.063,
+     "end": 58.275
     },
     {
      "w": "Moroccan",
-     "start": 58.579,
-     "end": 59.061
+     "start": 58.275,
+     "end": 58.799
     },
     {
      "w": "riad",
-     "start": 59.061,
-     "end": 59.255
+     "start": 58.799,
+     "end": 59.011
     },
     {
      "w": "yourself.",
-     "start": 59.255,
-     "end": 59.593
+     "start": 59.011,
+     "end": 59.379
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.083,
-   "end": 65.083,
+   "start": 59.896,
+   "end": 64.896,
    "text": "Centuries of houses nobody can see into, and your neighbor across the street still knows what you had for dinner.",
    "words": [
     {
      "w": "Centuries",
-     "start": 60.173,
-     "end": 60.611
+     "start": 59.986,
+     "end": 60.424
     },
     {
      "w": "of",
-     "start": 60.611,
-     "end": 60.787
+     "start": 60.424,
+     "end": 60.6
     },
     {
      "w": "houses",
-     "start": 60.787,
-     "end": 61.095
+     "start": 60.6,
+     "end": 60.908
     },
     {
      "w": "nobody",
-     "start": 61.095,
-     "end": 61.533
+     "start": 60.908,
+     "end": 61.346
     },
     {
      "w": "can",
-     "start": 61.533,
-     "end": 61.709
+     "start": 61.346,
+     "end": 61.522
     },
     {
      "w": "see",
-     "start": 61.709,
-     "end": 61.886
+     "start": 61.522,
+     "end": 61.699
     },
     {
      "w": "into,",
-     "start": 61.886,
-     "end": 62.193
+     "start": 61.699,
+     "end": 62.006
     },
     {
      "w": "and",
-     "start": 62.333,
-     "end": 62.508
+     "start": 62.156,
+     "end": 62.331
     },
     {
      "w": "your",
-     "start": 62.508,
-     "end": 62.684
+     "start": 62.331,
+     "end": 62.505
     },
     {
      "w": "neighbor",
-     "start": 62.684,
-     "end": 62.989
+     "start": 62.505,
+     "end": 62.81
     },
     {
      "w": "across",
-     "start": 62.989,
-     "end": 63.294
+     "start": 62.81,
+     "end": 63.114
     },
     {
      "w": "the",
-     "start": 63.294,
-     "end": 63.47
+     "start": 63.114,
+     "end": 63.289
     },
     {
      "w": "street",
-     "start": 63.47,
-     "end": 63.645
+     "start": 63.289,
+     "end": 63.463
     },
     {
      "w": "still",
-     "start": 63.645,
-     "end": 63.821
+     "start": 63.463,
+     "end": 63.638
     },
     {
      "w": "knows",
-     "start": 63.821,
-     "end": 63.996
+     "start": 63.638,
+     "end": 63.813
     },
     {
      "w": "what",
-     "start": 63.996,
-     "end": 64.171
+     "start": 63.813,
+     "end": 63.988
     },
     {
      "w": "you",
-     "start": 64.171,
-     "end": 64.347
+     "start": 63.988,
+     "end": 64.162
     },
     {
      "w": "had",
-     "start": 64.347,
-     "end": 64.522
+     "start": 64.162,
+     "end": 64.337
     },
     {
      "w": "for",
-     "start": 64.522,
-     "end": 64.698
+     "start": 64.337,
+     "end": 64.512
     },
     {
      "w": "dinner.",
-     "start": 64.698,
-     "end": 65.003
+     "start": 64.512,
+     "end": 64.816
     }
    ]
   }
