@@ -1,4 +1,4 @@
-# Post status 2026-11-19T04:28:33+00:00
+# Post status 2026-11-19T05:09:16+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -225,7 +225,7 @@
 | ep37-windtower | en.tiktok | sent |  | 2026-11-18T14:05:41.977Z https://tiktok.com/@congratsengineer/video/7709511909875223822 |
 | ep37-windtower | en.youtube | sent |  | 2026-11-18T14:01:26.936Z https://www.youtube.com/shorts/oUTQjr8Nf1Q |
 | ep38-petra | ar.instagram | sent |  | 2026-11-18T20:03:06.326Z https://www.instagram.com/reel/Df5UTrsAgRM/ |
-| ep38-petra | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-19T05:00:00.000Z |
+| ep38-petra | ar.tiktok | sent |  | 2026-11-19T05:01:54.774Z https://tiktok.com/@kef.tenbeni/video/7709743063752510734 |
 | ep38-petra | ar.youtube | sent |  | 2026-11-18T20:02:30.024Z https://www.youtube.com/shorts/ap2oGYKYxwE |
 | ep38-petra | en.instagram | sent |  | 2026-11-18T18:05:23.882Z https://www.instagram.com/reel/Df5G27ntqLA/ |
 | ep38-petra | en.tiktok | sent |  | 2026-11-18T18:04:03.308Z https://tiktok.com/@congratsengineer/video/7709573594275138830 |
@@ -266,3 +266,9 @@
 | ep44-falaj | en.instagram | scheduled |  | 2026-11-20T00:00:00.000Z |
 | ep44-falaj | en.tiktok | scheduled |  | 2026-11-20T00:00:00.000Z |
 | ep44-falaj | en.youtube | scheduled |  | 2026-11-20T00:00:00.000Z |
+| ep45-machupicchu | ar.instagram | scheduled |  | 2026-11-19T23:00:00.000Z |
+| ep45-machupicchu | ar.tiktok | scheduled |  | 2026-11-19T23:00:00.000Z |
+| ep45-machupicchu | ar.youtube | scheduled |  | 2026-11-19T23:00:00.000Z |
+| ep45-machupicchu | en.instagram | scheduled |  | 2026-11-20T02:30:00.000Z |
+| ep45-machupicchu | en.tiktok | scheduled |  | 2026-11-20T02:30:00.000Z |
+| ep45-machupicchu | en.youtube | scheduled |  | 2026-11-20T02:30:00.000Z |
