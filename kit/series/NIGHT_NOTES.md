@@ -714,15 +714,19 @@
   Rule until the owner decides: each run gives YouTube to ONE build per language per day, its FIRST build (midday: EN
   06:00 / AR 00:00 PT; evening: EN 13:30 / AR 09:00 PT); its other two post files carry
   `hold: [en.youtube, ar.youtube]`. Before requeueing any YouTube post, run cmd=limits and pick a PT day with room.
-  Nov 19 PT is over the limit on English YouTube (43, 44, 42, 41 scheduled): expect 42 (19:12 PT) and 41 (20:58 PT)
-  to fail, and Arabic 45 (15:00 PT). EN 40 / 45 and AR 41 / 42 / 43 YouTube stay failed (no free day); the owner was
-  told.
+  Nov 19 PT has four English YouTube posts queued (43 13:30, 44 16:00, 42 19:12, 41 20:58 PT): two will fail (if
+  Buffer counts the day's sent + scheduled, 43 and 44 fail and 42 / 41 go out). Arabic 45 (15:00 PT) should go out
+  (only 40 sent that day). EN 40 / 45 and AR 41-44 YouTube stay failed (no free day); the owner was told.
 - Today's posts (status 19:28Z): English Instagram 40, 41, 42, 44 and English TikTok 40, 43, 44, 45 went out early
   at 05:40-05:43Z (21:40 PT Nov 18). No workflow of ours ran then (post 05:09Z, status 07:31Z): most likely "share now"
   in Buffer. English YouTube 40 and 45 failed "unknown error" at 07:25Z; English YouTube 41 and 42 were moved in Buffer
   to 03:12Z / 04:58Z Nov 20. Arabic 40, 41 live except 41's YouTube; Arabic TikTok 42 (14:00Z) and 43 (17:00Z)
-  "potential spam" -> requeued to 01:30Z and 04:00Z Nov 21 (the 3-hour grid of Nov 20 is full; 06:00Z Nov 21 is left
-  for the evening run). Arabic 44 and 45 at 12:00 and 15:00 PT, English 43-45 at 13:30 / 16:00 / 18:30 PT.
+  "potential spam" -> requeued to 01:30Z and 04:00Z Nov 21 (the 3-hour grid of Nov 20 is full). Status 21:09Z: Arabic
+  44 Instagram live, its TikTok "potential spam" (20:00Z) -> requeued to 06:00Z Nov 21 (22:00 PT Nov 20), its YouTube
+  failed on the daily limit with only 40 sent that day: Buffer counts sent + still-scheduled posts of the day at post
+  time, so on a day with more than 2 queued the EARLIER ones fail. Arabic 45 at 15:00 PT, English 43-45 at 13:30 /
+  16:00 / 18:30 PT. Next free Arabic TikTok gap 2 h from the others: after 23:00Z Nov 21 (the evening run of Nov 20
+  fills 17:00 / 20:00 / 23:00Z).
 - Pages: retired ep28-ep30 (all 18 sent): media/ 629 -> 520 MB before today's six videos. Next: ep31-ep33.
 - A/B test: 47 is odd -> `igloo` in voices.yml ar_alt.kits (Mansour, Saudi script); 46 and 48 Egyptian.
 - Voices: Easton aswan 65.69 s (226 words), igloo 63.99 s (229), riad 64.88 s (231). ElevenLabs one take each:
