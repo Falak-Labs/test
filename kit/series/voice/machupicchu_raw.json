@@ -1,91 +1,91 @@
 {
  "voice": "Easton",
- "duration": 67.27,
- "words": 226,
+ "duration": 63.45,
+ "words": 215,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 7.78,
-   "text": "If you can build a stone city on a knife-edge mountain, in two meters of rain a year, that hasn't slid in five centuries, congrats, you just built Machu Picchu."
+   "end": 7.19,
+   "text": "If you can build a city on a knife-edge mountain, in two meters of rain a year, that hasn't slid in five centuries, congrats, you just built Machu Picchu."
   },
   {
    "line": 2,
-   "start": 8.13,
-   "end": 11.84,
+   "start": 7.54,
+   "end": 11.25,
    "text": "But on a slope this steep, rain turns soil to mud, and mud slides."
   },
   {
    "line": 3,
-   "start": 12.19,
-   "end": 16.71,
-   "text": "So you carve the mountain into giant steps: hundreds of terraces, each held by a stone wall."
+   "start": 11.6,
+   "end": 15.78,
+   "text": "So you carve the mountain into giant steps, hundreds of terraces, each held by a wall."
   },
   {
    "line": 4,
-   "start": 17.06,
-   "end": 20.92,
+   "start": 16.13,
+   "end": 19.99,
    "text": "But flat steps hold rain, and soaked soil gets heavy enough to burst a wall."
   },
   {
    "line": 5,
-   "start": 21.27,
-   "end": 27.05,
-   "text": "So you fill each terrace in layers: stones, gravel, sand, then topsoil, and rain drains straight through."
+   "start": 20.34,
+   "end": 26.07,
+   "text": "So you fill each terrace in layers: stones, gravel, sand, topsoil, and rain drains straight through."
   },
   {
    "line": 6,
-   "start": 27.4,
-   "end": 29.78,
+   "start": 26.42,
+   "end": 28.8,
    "text": "The city needs water too, but not floods."
   },
   {
    "line": 7,
-   "start": 30.13,
-   "end": 35.38,
-   "text": "So a stone canal brings spring water to sixteen fountains, and over a hundred drain holes carry storms away."
+   "start": 29.15,
+   "end": 33.77,
+   "text": "So a stone canal feeds sixteen fountains, and over a hundred drain holes carry storms away."
   },
   {
    "line": 8,
-   "start": 35.73,
-   "end": 38.55,
+   "start": 34.12,
+   "end": 36.94,
    "text": "But it sits on fault lines, and earthquakes keep shaking it."
   },
   {
    "line": 9,
-   "start": 38.9,
-   "end": 44.1,
-   "text": "So you cut every stone so tightly that paper won't slip between them, no mortar, and lean the doors inward."
+   "start": 37.29,
+   "end": 41.66,
+   "text": "So you cut every stone so tight that paper won't slip between them, and lean the doors inward."
   },
   {
    "line": 10,
-   "start": 44.45,
-   "end": 48.58,
+   "start": 42.01,
+   "end": 46.14,
    "text": "But before you climb the last step, follow, because next we're building the Aswan High Dam."
   },
   {
    "line": 11,
-   "start": 48.93,
-   "end": 53.98,
-   "text": "Now add palaces for the emperor Pachacuti, around fourteen fifty, so hidden the Spanish never found it."
+   "start": 46.49,
+   "end": 50.46,
+   "text": "Now add palaces for the emperor Pachacuti, so well hidden the Spanish never found it."
   },
   {
    "line": 12,
-   "start": 54.33,
-   "end": 58.81,
+   "start": 50.81,
+   "end": 55.29,
    "text": "Twenty-four hundred meters up, sixty percent of it underground, and five centuries without a slide."
   },
   {
    "line": 13,
-   "start": 59.16,
-   "end": 61.96,
+   "start": 55.64,
+   "end": 58.44,
    "text": "And congrats, you just built Machu Picchu yourself."
   },
   {
    "line": 14,
-   "start": 62.31,
-   "end": 67.27,
-   "text": "Five centuries of storms, every drop goes where they planned, and your neighbor's AC still drips on your head."
+   "start": 58.79,
+   "end": 63.45,
+   "text": "Five centuries of storms, every drop goes where they planned, and your neighbor's AC drips on your head."
   }
  ]
 }
