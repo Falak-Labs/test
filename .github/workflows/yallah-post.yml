@@ -1,0 +1,46 @@
+name: Yallah Say posts
+# Hands each queued Yallah Say video to Buffer a few minutes before its time (the schedule lives in yallah/queue/).
+# Buffer keys: Actions secrets BUFFER_KEY_MA and BUFFER_KEY_PA. Nothing is sent while "enabled" is false in yallah/config.json.
+on:
+  workflow_dispatch:
+    inputs:
+      preview:
+        description: "true = only list what is queued (Buffer is not touched)"
+        default: "true"
+  # schedule:                     # switched on once the Buffer keys exist and the first videos are approved
+  #   - cron: "*/10 * * * *"
+permissions:
+  contents: write
+concurrency:
+  group: yallah-posting
+  cancel-in-progress: false
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Is anything due?
+        id: due
+        run: python3 yallah/post_due.py --check
+      - name: Preview
+        if: inputs.preview == 'true'
+        run: python3 yallah/post_due.py --preview
+      - uses: actions/setup-python@v5
+        if: steps.due.outputs.due == 'true' && inputs.preview != 'true'
+        with:
+          python-version: "3.12"
+      - name: Send what is due to Buffer
+        if: steps.due.outputs.due == 'true' && inputs.preview != 'true'
+        env:
+          BUFFER_KEY_MA: ${{ secrets.BUFFER_KEY_MA }}
+          BUFFER_KEY_PA: ${{ secrets.BUFFER_KEY_PA }}
+        run: |
+          pip install --quiet requests pyyaml
+          python yallah/post_due.py
+      - name: Save state
+        if: steps.due.outputs.due == 'true' && inputs.preview != 'true'
+        run: bash scripts/save_state.sh "yallah posts $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" yallah/state state/buffer-schema.json

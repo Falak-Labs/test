@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "lead_minutes": 20,
+ "delay_minutes": [4, 11],
+ "accounts": {
+  "ma": {"secret": "BUFFER_KEY_MA", "zone": "Africa/Casablanca", "slots": ["08:30", "13:00", "18:30", "21:30"],
+         "channels": {"youtube": ["yallahsayma", "yallah say"], "instagram": ["yallahsayma"], "tiktok": ["yallah.say"]}},
+  "pa": {"secret": "BUFFER_KEY_PA", "zone": "Asia/Hebron", "slots": ["08:00", "13:30", "18:00", "21:00"],
+         "channels": {"youtube": ["yallahsaypa", "yallah say"], "instagram": ["yallahsaypa"], "tiktok": ["yallahsaypa"]}}
+ },
+ "youtube": {"categoryId": "27", "madeForKids": false},
+ "raw_base": "https://raw.githubusercontent.com/Falak-Labs/test/main"
+}
