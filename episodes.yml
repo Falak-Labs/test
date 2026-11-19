@@ -45,3 +45,5 @@ episodes:
   - {slug: ep40-panama, kit: panama, look: 2}
   - {slug: ep41-barrier, kit: barrier, look: 2}
   - {slug: ep42-venice, kit: venice, look: 2}
+  - {slug: ep44-falaj, kit: falaj, look: 2}
+  - {slug: ep45-machupicchu, kit: machupicchu, look: 2}

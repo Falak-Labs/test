@@ -68,11 +68,11 @@ def fort_tower(c, x, y, r, h, a=1.0):
 def channel(c, x0, x1, t, front=1.0, a=1.0, wet=1.0, flow_x=None, level=1.0):
     """The falaj seen from the side: back bank, water surface (0..18), front stone wall (18..70).
     flow_x: the water has reached x (None = full). level 0..1 lowers the water (less water)."""
-    c.drawRect(R(x0, -18, x1 - x0, 12), P(shade(STONE, -0.05), a))
-    c.drawRect(R(x0, -8, x1 - x0, 26), P("#6B5434", a))
+    c.drawRect(R(x0, -30, x1 - x0, 14), P(shade(STONE, -0.05), a))
+    c.drawRect(R(x0, -16, x1 - x0, 34), P("#6B5434", a))
     xe = x1 if flow_x is None else clamp(flow_x, x0, x1)
     if xe > x0 and wet > 0:
-        top = lerp(16, -6, clamp(level))
+        top = lerp(16, -14, clamp(level))
         c.drawRect(R(x0, top, xe - x0, 18 - top), lin_paint(0, top, 0, 18, [AQUA, AQUA_D], a=wet * a))
         xx = x0 + ((t * 120) % 70)
         while xx < xe - 20:
@@ -359,19 +359,21 @@ class Falaj(EpisodeV2):
         self.cut(s("reveal") - 0.12, "oasis", 1)
         self.cut(s("tag") - 0.2, "bath", -1)
         # ---- oasis camera
-        cm = Camera(-80, -230, 1.05)
-        cm.key(0.05, 60, -230, 1.0, 3.5).key(T["congrats"], 120, -240, 0.95, 2.0)
-        cm.key(s("reveal") - 0.12, -60, -230, 1.0, 0.0).key(T["drinking"] - 0.2, 0, -230, 1.05, 0.5)
-        cm.key(T["baths"] - 0.25, 380, -230, 1.05, 0.5).key(T["washing"] - 0.25, 720, -230, 1.05, 0.5)
-        cm.key(T["palms"] - 0.25, 1080, -260, 1.0, 0.5)
-        cm.key(s("stat") - 0.12, 420, -300, 0.72, 0.0)
-        cm.key(s("closer") - 0.1, 260, -250, 0.86, 0.0).key(self.duration, 300, -250, 0.9, 3.0)
+        cm = Camera(-420, -20, 1.6)
+        cm.key(0.6, -100, -50, 1.2, max(1.6, T["pump"] - 0.8)).key(T["congrats"], 140, -80, 1.05, 2.0)
+        cm.key(s("reveal") - 0.12, -60, -40, 1.3, 0.0).key(T["drinking"] - 0.2, 20, -40, 1.3, 0.5)
+        cm.key(T["baths"] - 0.25, 380, -40, 1.3, 0.5).key(T["washing"] - 0.25, 720, -40, 1.3, 0.5)
+        cm.key(T["palms"] - 0.25, 1060, -80, 1.2, 0.5)
+        cm.key(s("stat") - 0.12, 420, -150, 0.8, 0.0)
+        cm.key(s("closer") - 0.1, -300, -70, 1.42, 0.0).key(self.duration, -290, -70, 1.46, 3.0)
         self.cam = cm
         # ---- section camera
-        cs = Camera(-700, 60, 0.62)
-        cs.key(T["deep"] - 0.3, -620, 120, 0.66, 0.6)
-        cs.key(s("fix1") - 0.12, -300, 150, 0.9, 0.0).key(s("fix1"), -300, 170, 0.92, 2.0)
-        cs.key(s("break2") - 0.12, 420, 120, 0.44, 0.0).key(s("break2"), 460, 140, 0.44, 2.0)
+        cs = Camera(-420, 300, 0.66)
+        cs.key(T["deep"] - 0.3, -480, 360, 0.72, 0.6)
+        cs.key(s("fix1") - 0.12, -300, 200, 1.15, 0.0).key(s("fix1"), -300, 210, 1.18, 2.0)
+        cs.key(s("break2") - 0.12, -250, 200, 0.95, 0.0).key(s("break2"), 1050, 330, 0.95, max(0.6, T["miles"] + 0.4 - s("break2")))
+        cs.key(T["climb"] - 0.3, 330, 210, 0.5, 0.6)
+        cs.key(T["out"] - 0.3, 900, 330, 0.95, 0.7)
         self.cam_sec = cs
         self.spans = [(T["mountains"], T["sixty"] + 0.3), (T["climb"], T["out"] + 0.3), (T["minutes"], T["dotted"] + 0.3),
                       (T["wants"], T["night"] + 0.3)]
@@ -425,10 +427,13 @@ class Falaj(EpisodeV2):
             fx_ = None
         channel(c, -560, 2200, t, flow_x=fx_)
         mouth(c, -600)
-        if hook:
-            gk = 1 - prog(t, 2.6, 3.4)
+        if True:
+            gk = (1 - prog(t, 3.0, 4.0)) if hook else 0.6
             if gk > 0:
-                splash(c, -540, 0, t, t - (t % 0.5), dur=0.5, n=10, speed=300)
+                add_glow(c, -540, -10, 110, "#7DD3FC", 0.6 * gk)
+                for k in range(7):                                   # foam where the water comes out
+                    q = (t * 2.2 + k / 7.0) % 1.0
+                    c.drawCircle(-548 + q * 120, -8 - math.sin(q * math.pi) * 26, 9 + 8 * (1 - q), P("#F0F9FF", 0.85 * gk * (1 - q)))
         if not hook and s("reveal") - 0.12 <= t < s("stat") - 0.12:  # the stations along the channel
             jar(c, 0, -14, 1.3)
             c.drawRect(R(30, -60, 34, 46), P("#C2703D"))
@@ -467,18 +472,20 @@ class Falaj(EpisodeV2):
 
     # ------------------------------------------------------------------ set: section (break1, fix1, break2, fix2)
     MTN = [(-1800, -760), (-1500, -880), (-1250, -780), (-1000, -900), (-760, -620), (-560, -260), (-380, -20), (-300, 8)]
-    AQ_TOP, AQ_BOT = 250.0, 350.0
+    AQ_TOP, AQ_BOT = 180.0, 260.0
     WELL_X = -300.0
+    WELL_D = 232.0
+    EXIT_X = 881.0
 
     @staticmethod
     def surf(x):
         if x <= -300:
             return poly_y(Falaj.MTN, x)
-        return 8 + 0.22 * (x + 300)
+        return 8 + 0.2 * (x + 300)
 
     def tunnel_pts(self, k=1.0):
-        x0, y0 = self.WELL_X, 330.0
-        x1 = 1263.0
+        x0, y0 = self.WELL_X, self.WELL_D
+        x1 = self.EXIT_X
         y1 = self.surf(x1)
         n = 30
         pts = []
@@ -513,37 +520,37 @@ class Falaj(EpisodeV2):
         for k in range(16):                                          # rock layers
             yy = -700 + k * 90
             c.drawLine(-2600, yy, 2600, yy + 260, P("#2E1A14", 0.25, stroke=6))
-        sand = skia.Path()                                           # the sandy plain on top
-        sand.moveTo(-420, 2600)
-        x = -420
-        while x <= 2600:
-            sand.lineTo(x, self.surf(x))
-            x += 50
-        sand.lineTo(2600, 2600)
+        sand = skia.Path()                                           # a thin sandy layer on the plain
+        xs_ = list(range(-420, 2601, 50))
+        sand.moveTo(xs_[0], self.surf(xs_[0]))
+        for x_ in xs_[1:]:
+            sand.lineTo(x_, self.surf(x_))
+        for x_ in reversed(xs_):
+            sand.lineTo(x_, self.surf(x_) + 70 + 30 * math.sin(x_ / 140.0))
         sand.close()
-        c.drawPath(sand, lin_paint(0, 0, 0, 260, [SAND, shade(SAND, -0.35)], a=0.75))
+        c.drawPath(sand, P(SAND, 0.9))
         aqk = clamp(0.35 + prog(t, T["deep"] - 0.3, T["deep"] + 0.3))
         aq = skia.Path()
         aq.moveTo(-2600, self.AQ_TOP)
-        aq.lineTo(700, self.AQ_TOP + 30)
-        aq.quadTo(820, self.AQ_TOP + 60, 700, self.AQ_BOT + 20)
+        aq.lineTo(300, self.AQ_TOP + 20)
+        aq.quadTo(420, self.AQ_TOP + 50, 300, self.AQ_BOT + 14)
         aq.lineTo(-2600, self.AQ_BOT)
         aq.close()
         c.drawPath(aq, lin_paint(0, self.AQ_TOP, 0, self.AQ_BOT, [AQUA, AQUA_D], a=0.85 * aqk))
         rng = random.Random(4)
         for _ in range(140):
-            px_ = rng.uniform(-2000, 650)
+            px_ = rng.uniform(-2000, 280)
             py_ = rng.uniform(self.AQ_TOP + 10, self.AQ_BOT - 6)
             c.drawCircle(px_, py_, rng.uniform(5, 10), P("#E0F2FE", 0.5 * aqk))
         if prog(t, T["deep"] - 0.3, T["deep"] + 0.3) > 0:
-            add_glow(c, -700, 300, 520, "#38BDF8", 0.25 * prog(t, T["deep"] - 0.3, T["deep"] + 0.3))
+            add_glow(c, -600, 220, 520, "#38BDF8", 0.25 * prog(t, T["deep"] - 0.3, T["deep"] + 0.3))
         well = prog(t, T["dig"] - 0.2, T["mother"] + 0.4) if t >= s("fix1") - 0.12 else 0.0
         if well > 0:                                                 # the mother well
-            wd = lerp(8, 330, e_io(well))
-            c.drawRect(R(self.WELL_X - 26, 8, 52, wd - 8), P("#1A0F0A"))
-            c.drawRect(R(self.WELL_X - 26, 8, 52, wd - 8), P("#5B3A22", stroke=6))
+            wd = lerp(8, self.WELL_D, e_io(well))
+            c.drawRect(R(self.WELL_X - 30, 8, 60, wd - 8), P("#1A0F0A"))
+            c.drawRect(R(self.WELL_X - 30, 8, 60, wd - 8), P("#7A5236", stroke=7))
             if well >= 1:
-                c.drawRect(R(self.WELL_X - 20, 285, 40, 45), P(AQUA, 0.95))
+                c.drawRect(R(self.WELL_X - 24, self.WELL_D - 46, 48, 46), P(AQUA, 0.95))
         tk = prog(t, T["tunnel"] - 0.3, T["slope"] + 0.2) if t >= s("fix2") - 0.12 else 0.0
         if tk > 0:                                                   # the tunnel, dug back from the village end
             full = self.tunnel_pts(1.0)
@@ -554,36 +561,36 @@ class Falaj(EpisodeV2):
             tp.moveTo(*seg[0])
             for p_ in seg[1:]:
                 tp.lineTo(*p_)
-            c.drawPath(tp, P("#1A0F0A", stroke=44))
-            c.drawPath(tp, P("#5B3A22", 0.6, stroke=50, blur=2))
-            c.drawPath(tp, P("#1A0F0A", stroke=40))
+            c.drawPath(tp, P("#C08A5A", 0.9, stroke=74))
+            c.drawPath(tp, P("#1A0F0A", stroke=60))
         fk = prog(t, T["gravity"] - 0.3, T["out"] + 0.2) if t >= s("fix2") - 0.12 else 0.0
         if fk > 0:
-            flow(c, self.tunnel_pts(1.0), AQUA, t, k=fk, w=22, speed=1.4)
+            flow(c, self.tunnel_pts(1.0), AQUA, t, k=fk, w=30, speed=1.4)
         c.restore()
-        x = 1263
+        x = self.EXIT_X
         if fk >= 1 or t >= T["out"]:
             ch = skia.Path()
-            ch.moveTo(1263, self.surf(1263))
-            while x <= 2100:
+            ch.moveTo(x, self.surf(x))
+            while x <= 1800:
                 ch.lineTo(x, self.surf(x) - 6)
                 x += 40
-            c.drawPath(ch, P(AQUA, stroke=26))
+            c.drawPath(ch, P(AQUA, stroke=30))
+            add_glow(c, self.EXIT_X + 60, self.surf(self.EXIT_X + 60), 120, "#7DD3FC", 0.5)
         for i in range(5):                                           # the village down the slope
-            hx = 1380 + i * 150
+            hx = 960 + i * 150
             mudhouse(c, hx, self.surf(hx) + 6, 120, 100 + (i % 2) * 30, lit=0.4, seed=i)
         green = prog(t, T["out"] - 0.2, T["out"] + 0.6) if t >= s("fix2") - 0.12 else 0.0
         for i in range(6):
-            px = 1320 + i * 140
+            px = 900 + i * 140
             palm(c, px, self.surf(px) + 4, 260 + (i % 3) * 40, sway=math.sin(t + i) * 0.3, a=0.35 + 0.65 * green)
         if t < s("fix1") - 0.12:                                     # one raindrop on hot sand
             dk = prog(t, T["rains"] - 0.6, T["rains"])
             if dk < 1:
-                c.drawCircle(-150, lerp(-900, -12, dk ** 2), 16, P("#7DD3FC", 0.9))
+                c.drawCircle(0, lerp(-900, 60, dk ** 2), 26, P("#7DD3FC", 0.95))
             else:
-                v2set.splash(c, -150, -6, t, T["rains"], dur=0.5, n=8, speed=200, col="#BAE6FD")
-                add_glow(c, -150, -10, 60, "#FDBA74", 0.4 * (1 - prog(t, T["rains"], T["rains"] + 0.8)))
-            heat_lines(c, -500, 300, -300, 0, t, a=0.8)
+                v2set.splash(c, 0, 66, t, T["rains"], dur=0.5, n=10, speed=260, col="#BAE6FD")
+                add_glow(c, 0, 60, 90, "#FDBA74", 0.5 * (1 - prog(t, T["rains"], T["rains"] + 0.8)))
+            heat_lines(c, -300, 400, -260, 20, t, a=0.8)
         if t >= s("fix1") - 0.12 and t < s("break2") - 0.12:         # crew and windlass at the well top
             windlass(c, self.WELL_X, 8, 1.0, t, turn=t * 0.6)
             person(c, self.WELL_X - 110, 8, 130, "#F5F5F4", t, pose="carry", face=1, hat="none", hair="#1C1917",
@@ -592,16 +599,17 @@ class Falaj(EpisodeV2):
                    skin="#9A6A44", pants="#44403C")
             rk = prog(t, T["sixty"] - 0.3, T["sixty"])
             if rk > 0:                                               # the 60 m ruler
-                c.drawLine(self.WELL_X + 70, 8, self.WELL_X + 70, 8 + 322 * rk, P(HILITE, stroke=6))
+                L_ = self.WELL_D - 8
+                c.drawLine(self.WELL_X + 80, 8, self.WELL_X + 80, 8 + L_ * rk, P(HILITE, stroke=7))
                 for j in range(7):
-                    yy = 8 + j * 322 / 6.0
-                    if yy <= 8 + 322 * rk:
-                        c.drawLine(self.WELL_X + 60, yy, self.WELL_X + 82, yy, P(HILITE, stroke=5))
+                    yy = 8 + j * L_ / 6.0
+                    if yy <= 8 + L_ * rk:
+                        c.drawLine(self.WELL_X + 68, yy, self.WELL_X + 94, yy, P(HILITE, stroke=6))
         if s("break2") - 0.12 <= t < s("fix2") - 0.12:               # water stuck at the bottom of the well
             uk = self.span(T["climb"] - 0.2, s("fix2") - 0.15)
             if uk > 0:
-                arrow(c, self.WELL_X + 70, 300, self.WELL_X + 70, 60, WARN, a=uk, w=14, head=38)
-                c.drawLine(self.WELL_X + 30, 220, self.WELL_X + 110, 140, P(WARN, uk, stroke=14))
+                arrow(c, self.WELL_X + 90, 200, self.WELL_X + 90, -40, WARN, a=uk, w=18, head=46)
+                c.drawLine(self.WELL_X + 40, 120, self.WELL_X + 140, 20, P(WARN, uk, stroke=18))
         c.restore()
         self.ui["cam"] = cam
 
@@ -615,15 +623,15 @@ class Falaj(EpisodeV2):
             self.red(T["mountains"] + 0.05, 1.2)
             return
         if tw < s("break2") - 0.12:
-            wx, wy = self.at(cam, self.WELL_X, 180)
-            self.label(wx, wy, 300, 560, "mother", T["mother"] - 0.15, s("break2") - 0.15, "#7DD3FC", size=38)
-            rx, ry = self.at(cam, self.WELL_X + 70, 170)
-            self.label(rx, ry, 780, 700, "m60", T["sixty"] - 0.15, s("break2") - 0.15, HILITE, size=36)
+            wx, wy = self.at(cam, self.WELL_X - 30, 120)
+            self.label(wx, wy, 280, 460, "mother", T["mother"] - 0.15, s("break2") - 0.15, "#7DD3FC", size=38)
+            rx, ry = self.at(cam, self.WELL_X + 80, 120)
+            self.label(rx, ry, 800, 560, "m60", T["sixty"] - 0.15, s("break2") - 0.15, HILITE, size=36)
             self.badge("check", T["sixty"] + 0.1, s("break2") - 0.15, x=880, y=520)
             return
         if tw < s("fix2") - 0.12:
-            vx, vy = self.at(cam, 1650, 380)
-            self.label(vx, vy, 760, 560, "miles", T["miles"] - 0.2, s("fix2") - 0.15, "#E2E8F0", size=34)
+            vx, vy = self.at(cam, 1200, self.surf(1200) - 120)
+            self.label(vx, vy, 520, 640, "miles", T["miles"] - 0.2, s("fix2") - 0.15, "#E2E8F0", size=34)
             self.chip(540, 420, "climb", T["climb"] - 0.15, s("fix2") - 0.15, accent=WARN, size=38)
             self.badge("alert", T["climb"] + 0.05, s("fix2") - 0.2, x=880, y=520)
             self.red(T["climb"] + 0.05, 1.2)
@@ -635,13 +643,14 @@ class Falaj(EpisodeV2):
         self.badge("check", T["out"] + 0.1, s("break3") - 0.15, x=880, y=520)
 
     # ------------------------------------------------------------------ set: dig (break3, fix3)
-    SHAFTS = (-560.0, -60.0, 440.0)
+    SHAFTS = (-700.0, -280.0, 140.0)
 
     def draw_dig(self, c, t):
         T, s = self.T, self.tl.s
         fixed = t >= s("fix3") - 0.12
-        z = 1.0 if not fixed else lerp(1.0, 0.78, e_io(prog(t, s("fix3") - 0.1, T["air"])))
-        cam = (0, -300, z)
+        kz = e_io(prog(t, s("fix3") - 0.1, T["air"])) if fixed else 0.0
+        z = lerp(1.5, 0.8, kz)
+        cam = (lerp(110, -180, kz), lerp(-20, -260, kz), z)
         cx, cy, _ = cam
         v2.sky(c, W, H, 0.0, pal=GOLD, horizon_y=(-620 - cy) * z + H / 2)
         self.view(c, cam)
@@ -649,18 +658,18 @@ class Falaj(EpisodeV2):
         c.drawRect(R(-2000, -640, 4000, 30), P(SAND))
         for k in range(10):
             c.drawLine(-2000, -560 + k * 70, 2000, -520 + k * 70, P("#2E1A14", 0.25, stroke=5))
-        c.drawRect(R(-1400, -110, 2100, 130), P("#120A06"))             # the tunnel
-        c.drawRect(R(-1400, -110, 2100, 130), P("#3B2416", stroke=6))
-        c.drawRect(R(-1400, 0, 2100, 20), P(AQUA, 0.5 if fixed else 0.25))
-        lamp = (560, -80)
-        add_glow(c, lamp[0], lamp[1], 220, "#FDBA74", 0.5)
-        c.drawCircle(lamp[0], lamp[1], 10, P("#FDE68A"))
-        pick_digger(c, 520, 20, 140, t, swing=1.0, sweat=0.0 if fixed else prog(t, T["heat"] - 0.3, T["heat"]))
-        c.drawRect(R(690, -110, 30, 130), P("#4A2C22"))
+        c.drawRect(R(-1400, -130, 1730, 150), P("#120A06"))             # the tunnel
+        c.drawRect(R(-1400, -130, 1730, 150), P("#C08A5A", 0.5, stroke=8))
+        c.drawRect(R(-1400, 0, 1730, 20), P(AQUA, 0.5 if fixed else 0.25))
+        lamp = (60, -100)
+        add_glow(c, lamp[0], lamp[1], 260, "#FDBA74", 0.6)
+        c.drawCircle(lamp[0], lamp[1], 12, P("#FDE68A"))
+        pick_digger(c, 150, 20, 190, t, swing=1.0, sweat=0.0 if fixed else prog(t, T["heat"] - 0.3, T["heat"]))
+        c.drawRect(R(330, -130, 40, 150), P("#4A2C22"))
         if not fixed:
             hk = prog(t, T["heat"] - 0.4, T["heat"])
             for i in range(5):
-                xx = 200 + i * 80
+                xx = -200 + i * 80
                 pth = skia.Path()
                 pth.moveTo(xx, 0)
                 for k in range(1, 6):
@@ -671,7 +680,7 @@ class Falaj(EpisodeV2):
                 k = prog(t, s("fix3") - 0.1 + i * 0.15, T["shafts"] + 0.3 + i * 0.15)
                 if k <= 0:
                     continue
-                top, bot = -620.0, -110.0
+                top, bot = -620.0, -130.0
                 c.drawRect(R(sx - 30, top, 60, (bot - top) * k), P("#120A06"))
                 c.drawRect(R(sx - 30, top, 60, (bot - top) * k), P("#3B2416", stroke=5))
                 c.drawOval(R(sx - 90, top - 30, 180, 40), P(shade(SAND, -0.2)))
@@ -762,7 +771,7 @@ class Falaj(EpisodeV2):
         T, s = self.T, self.tl.s
         fixed = t >= s("fix4") - 0.12
         night = prog(t, T["night0"], T["night0"] + 0.5) if fixed else 0.0
-        cam = (0, -260, 1.0)
+        cam = (0, 60, 1.0)
         self.far(c, t, cam, night=night)
         self.view(c, cam)
         c.drawRect(R(-3000, -80, 6000, 3000), lin_paint(0, -80, 0, 700, [SAND, SAND_D, "#6B4524"]))
@@ -796,18 +805,18 @@ class Falaj(EpisodeV2):
             hk = prog(t, T["hundred"] - 0.4, T["hundred"])
             for i in range(12):
                 px = -560 + i * 100
-                person(c, px, 150, 120 + (i % 3) * 10, ("#F5F5F4", "#E7E5E4", "#D6D3D1")[i % 3], t + i * 0.2,
+                person(c, px, 190, 130 + (i % 3) * 10, ("#F5F5F4", "#E7E5E4", "#D6D3D1")[i % 3], t + i * 0.2,
                        pose="cheer" if hk > 0.5 else "stand", face=1, hat="none", hair="#1C1917", skin="#B07A4F",
                        pants="#57534E", a=hk)
         else:
             sk = prog(t, T["sundial"] - 0.3, T["sundial"]) * (1 - night)
             if sk > 0:
                 ang = lerp(200, 340, prog(t, T["sundial"] - 0.3, T["night0"]))
-                sundial(c, -330, 190, 1.0, t, ang, a=sk, glow=prog(t, T["shadow"] - 0.2, T["shadow"] + 0.2))
+                sundial(c, 0, 190, 1.2, t, ang, a=sk, glow=prog(t, T["shadow"] - 0.2, T["shadow"] + 0.2))
             if night > 0:
-                st_x = lerp(-200, 120, prog(t, T["stars"] - 0.3, T["night"] + 0.6))
-                add_glow(c, st_x, -760, 70, "#FDE68A", night)
-                c.drawCircle(st_x, -760, 9, P("#FFFFFF", night))
+                st_x = lerp(-260, 60, prog(t, T["stars"] - 0.3, T["night"] + 0.6))
+                add_glow(c, st_x, -560, 90, "#FDE68A", night)
+                c.drawCircle(st_x, -560, 12, P("#FFFFFF", night))
         c.restore()
         self.ui["active"] = active
 
