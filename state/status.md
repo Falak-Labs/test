@@ -1,4 +1,4 @@
-# Post status 2026-11-19T19:28:12+00:00
+# Post status 2026-11-19T20:21:50+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -249,20 +249,20 @@
 | ep41-barrier | en.tiktok | sent |  | 2026-11-19T16:32:51.366Z https://tiktok.com/@congratsengineer/video/7709921165006949645 |
 | ep41-barrier | en.youtube | scheduled |  | 2026-11-20T04:58:00.000Z |
 | ep42-venice | ar.instagram | sent |  | 2026-11-19T14:03:34.551Z https://www.instagram.com/reel/Df7P7GIz0xp/ |
-| ep42-venice | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-19T14:00:00.000Z |
+| ep42-venice | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T01:30:00.000Z |
 | ep42-venice | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T14:00:00.000Z |
 | ep42-venice | en.instagram | sent |  | 2026-11-19T05:41:00.776Z https://www.instagram.com/reel/Df6WdelprHI/ |
 | ep42-venice | en.tiktok | sent |  | 2026-11-19T19:04:33.374Z https://tiktok.com/@congratsengineer/video/7709960069793778957 |
 | ep42-venice | en.youtube | scheduled |  | 2026-11-20T03:12:00.000Z |
 | ep43-greatwall | ar.instagram | sent |  | 2026-11-19T17:05:28.690Z https://www.instagram.com/reel/Df7krF_OPIN/ |
-| ep43-greatwall | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-19T17:00:00.000Z |
+| ep43-greatwall | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T04:00:00.000Z |
 | ep43-greatwall | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T17:00:00.000Z |
 | ep43-greatwall | en.instagram | scheduled |  | 2026-11-19T21:30:00.000Z |
 | ep43-greatwall | en.tiktok | sent |  | 2026-11-19T05:40:49.636Z https://tiktok.com/@congratsengineer/video/7709753082191678733 |
 | ep43-greatwall | en.youtube | scheduled |  | 2026-11-19T21:30:00.000Z |
-| ep44-falaj | ar.instagram | scheduled |  | 2026-11-19T20:00:00.000Z |
-| ep44-falaj | ar.tiktok | scheduled |  | 2026-11-19T20:00:00.000Z |
-| ep44-falaj | ar.youtube | scheduled |  | 2026-11-19T20:00:00.000Z |
+| ep44-falaj | ar.instagram | sent |  | 2026-11-19T20:03:02.694Z https://www.instagram.com/reel/Df75HkTsTFJ/ |
+| ep44-falaj | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-19T20:00:00.000Z |
+| ep44-falaj | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T20:00:00.000Z |
 | ep44-falaj | en.instagram | sent |  | 2026-11-19T05:43:10.144Z https://www.instagram.com/reel/Df6WiGRBsHh/ |
 | ep44-falaj | en.tiktok | sent |  | 2026-11-19T05:41:53.378Z https://tiktok.com/@congratsengineer/video/7709753115062439182 |
 | ep44-falaj | en.youtube | scheduled |  | 2026-11-20T00:00:00.000Z |
