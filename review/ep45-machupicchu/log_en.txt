@@ -1,0 +1,13 @@
+machupicchu: 68.88s, 2066 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/machupicchu/cover.png: ['MACHU', 'PICCHU'] (frame 0 of the video)
+video done in 529s
+audio done
+final out/machupicchu/machupicchu_final.mp4
+QA  duration 68.87s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2066
+QA sheet out/machupicchu/qa_sheet.png

@@ -1,0 +1,137 @@
+{
+ "slug": "ep45-machupicchu",
+ "kit": "machupicchu",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.87,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "12/216",
+   "mix_lines_off": [
+    "L 2 2 diff  | But on a slope this steep, rain turns soil to mud and mudslides.",
+    "L 4 1 diff  | But flat steps hold rain, and soap soil gets heavy enough to burst a wall.",
+    "L 5 1 diff  | So you fill each terrace and layers, stones, gravel, sand, topsoil, and rain runs straight through.",
+    "L 7 3 diff  | So a stone canal feeds 16 fountains and over 100 drain holes carry storms away.",
+    "L11 1 diff  | Now add palaces for the Emperor Pachakidi in a city the Spanish never found.",
+    "L12 4 diff  | 24-hundred meters up, 60% of it underground, and five centuries without a slide."
+   ],
+   "size_mb": 21.0,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو بنيت مدينة حجر على جبل حاد، في مترين مطر بالسنة، وما انزلقت خمس قرون، مبروك، كذا سويت لك ماتشو بيتشو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس على منحدر بهالحدة، المطر يقلب التراب طين، والطين ينزلق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتقص الجبل درج، مئات المدرجات، كل وحدة يشيلها جدار حجر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الدرجة تحبس المطر، والتراب المبلول يثقل لين يفجر الجدار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتعبيها طبقات: حجر، حصى، رمل، وفوقها تربة، والمطر ينزل ويطلع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "والمدينة تبي موية، بس مو سيول.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فقناة حجر تجيب موية العين للنوافير، وأكثر من مية فتحة تصرّف السيول.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس هي فوق صدوع، والزلازل تهزها كل شوي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتقص كل حجر على جاره، لين الورقة ما تدخل بينهم، وتميّل الأبواب لداخل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تطلع آخر درجة، تابعني، لأن الجاي بنبني السد العالي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين حط فوقها قصور إمبراطور الإنكا، حوالي ألف وأربعمية وخمسين، والإسبان ما لقوها أبد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ألفين وأربعمية متر فوق، ستين بالمية تحت الأرض، وخمس قرون بدون انزلاق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك ماتشو بيتشو بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "خمس قرون سيول، وكل نقطة تروح وين خططوا لها، ومكيف الجيران ينقط على راسك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 71.53,
+   "lufs": -14.0,
+   "peak": -1.7,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 21.3,
+   "cover": true
+  }
+ }
+}
