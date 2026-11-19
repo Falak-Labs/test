@@ -3,6 +3,10 @@ name: Darija voice find
 # darija/voice/_find/voices.json. Costs no credits. The key is read from the ELEVENLABS_API_KEY secret and never printed.
 on:
   workflow_dispatch:
+    inputs:
+      tool:
+        description: "find_voices.py (Levantine teachers) or find_kid_voices.py (little boy voices)"
+        default: find_voices.py
 permissions:
   contents: write
 concurrency:
@@ -23,7 +27,10 @@ jobs:
       - name: Find
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-        run: python -I -u darija/tools/find_voices.py darija/voice/_find
+          TOOL: ${{ inputs.tool }}
+        run: |
+          case "$TOOL" in find_voices.py|find_kid_voices.py) ;; *) echo "unknown tool"; exit 1;; esac
+          python -I -u "darija/tools/$TOOL" darija/voice/_find
       - name: Save to the repo
         if: always()
         run: bash scripts/save_state.sh "darija voice find $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" darija/voice
