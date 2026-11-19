@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 65.17,
- "words": 227,
- "words_per_sec": 3.48,
+ "duration": 65.15,
+ "words": 225,
+ "words_per_sec": 3.45,
  "lines": [
   {
    "line": 1,
@@ -474,782 +474,772 @@
   {
    "line": 6,
    "start": 23.073,
-   "end": 27.021,
-   "text": "Then the Ming dynasty rebuilds it in brick, but lime mortar crumbles in the rain.",
+   "end": 27.0,
+   "text": "Centuries later, it's rebuilt in brick, but lime mortar crumbles in the rain.",
    "words": [
     {
-     "w": "Then",
-     "start": 23.183,
-     "end": 23.382
+     "w": "Centuries",
+     "start": 23.143,
+     "end": 23.654
     },
     {
-     "w": "the",
-     "start": 23.382,
-     "end": 23.58
+     "w": "later,",
+     "start": 23.654,
+     "end": 24.013
     },
     {
-     "w": "Ming",
-     "start": 23.58,
-     "end": 23.779
+     "w": "it's",
+     "start": 24.153,
+     "end": 24.36
     },
     {
-     "w": "dynasty",
-     "start": 23.779,
-     "end": 24.272
-    },
-    {
-     "w": "rebuilds",
-     "start": 24.272,
-     "end": 24.617
-    },
-    {
-     "w": "it",
-     "start": 24.617,
-     "end": 24.816
+     "w": "rebuilt",
+     "start": 24.36,
+     "end": 24.72
     },
     {
      "w": "in",
-     "start": 24.816,
-     "end": 25.014
+     "start": 24.72,
+     "end": 24.926
     },
     {
      "w": "brick,",
-     "start": 25.014,
-     "end": 25.213
+     "start": 24.926,
+     "end": 25.133
     },
     {
      "w": "but",
-     "start": 25.353,
-     "end": 25.544
+     "start": 25.333,
+     "end": 25.523
     },
     {
      "w": "lime",
-     "start": 25.544,
-     "end": 25.735
+     "start": 25.523,
+     "end": 25.713
     },
     {
      "w": "mortar",
-     "start": 25.735,
-     "end": 26.067
+     "start": 25.713,
+     "end": 26.043
     },
     {
      "w": "crumbles",
-     "start": 26.067,
-     "end": 26.4
+     "start": 26.043,
+     "end": 26.374
     },
     {
      "w": "in",
-     "start": 26.4,
-     "end": 26.591
+     "start": 26.374,
+     "end": 26.563
     },
     {
      "w": "the",
-     "start": 26.591,
-     "end": 26.782
+     "start": 26.563,
+     "end": 26.753
     },
     {
      "w": "rain.",
-     "start": 26.782,
-     "end": 26.973
+     "start": 26.753,
+     "end": 26.943
     }
    ]
   },
   {
    "line": 7,
-   "start": 27.385,
-   "end": 31.771,
+   "start": 27.365,
+   "end": 31.75,
    "text": "So you stir sticky rice soup into the lime: the starch packs it tight, and rain rolls off.",
    "words": [
     {
      "w": "So",
-     "start": 27.495,
-     "end": 27.692
+     "start": 27.475,
+     "end": 27.672
     },
     {
      "w": "you",
-     "start": 27.692,
-     "end": 27.888
+     "start": 27.672,
+     "end": 27.868
     },
     {
      "w": "stir",
-     "start": 27.888,
-     "end": 28.085
+     "start": 27.868,
+     "end": 28.065
     },
     {
      "w": "sticky",
-     "start": 28.085,
-     "end": 28.427
+     "start": 28.065,
+     "end": 28.407
     },
     {
      "w": "rice",
-     "start": 28.427,
-     "end": 28.623
+     "start": 28.407,
+     "end": 28.603
     },
     {
      "w": "soup",
-     "start": 28.623,
-     "end": 28.82
+     "start": 28.603,
+     "end": 28.8
     },
     {
      "w": "into",
-     "start": 28.82,
-     "end": 29.162
+     "start": 28.8,
+     "end": 29.142
     },
     {
      "w": "the",
-     "start": 29.162,
-     "end": 29.358
+     "start": 29.142,
+     "end": 29.338
     },
     {
      "w": "lime:",
-     "start": 29.358,
-     "end": 29.555
+     "start": 29.338,
+     "end": 29.535
     },
     {
      "w": "the",
-     "start": 29.705,
-     "end": 29.921
+     "start": 29.675,
+     "end": 29.891
     },
     {
      "w": "starch",
-     "start": 29.921,
-     "end": 30.137
+     "start": 29.891,
+     "end": 30.107
     },
     {
      "w": "packs",
-     "start": 30.137,
-     "end": 30.353
+     "start": 30.107,
+     "end": 30.323
     },
     {
      "w": "it",
-     "start": 30.353,
-     "end": 30.569
+     "start": 30.323,
+     "end": 30.539
     },
     {
      "w": "tight,",
-     "start": 30.569,
-     "end": 30.785
+     "start": 30.539,
+     "end": 30.755
     },
     {
      "w": "and",
-     "start": 30.915,
-     "end": 31.11
+     "start": 30.895,
+     "end": 31.088
     },
     {
      "w": "rain",
-     "start": 31.11,
-     "end": 31.305
+     "start": 31.088,
+     "end": 31.28
     },
     {
      "w": "rolls",
-     "start": 31.305,
-     "end": 31.5
+     "start": 31.28,
+     "end": 31.472
     },
     {
      "w": "off.",
-     "start": 31.5,
-     "end": 31.695
+     "start": 31.472,
+     "end": 31.665
     }
    ]
   },
   {
    "line": 8,
-   "start": 32.135,
-   "end": 35.271,
+   "start": 32.115,
+   "end": 35.25,
    "text": "But a wall this long is useless if the army is days away.",
    "words": [
     {
      "w": "But",
-     "start": 32.265,
-     "end": 32.45
+     "start": 32.245,
+     "end": 32.43
     },
     {
      "w": "a",
-     "start": 32.45,
-     "end": 32.635
+     "start": 32.43,
+     "end": 32.615
     },
     {
      "w": "wall",
-     "start": 32.635,
-     "end": 32.819
+     "start": 32.615,
+     "end": 32.799
     },
     {
      "w": "this",
-     "start": 32.819,
-     "end": 33.004
+     "start": 32.799,
+     "end": 32.984
     },
     {
      "w": "long",
-     "start": 33.004,
-     "end": 33.189
+     "start": 32.984,
+     "end": 33.169
     },
     {
      "w": "is",
-     "start": 33.189,
-     "end": 33.374
+     "start": 33.169,
+     "end": 33.354
     },
     {
      "w": "useless",
-     "start": 33.374,
-     "end": 33.832
+     "start": 33.354,
+     "end": 33.812
     },
     {
      "w": "if",
-     "start": 33.832,
-     "end": 34.017
+     "start": 33.812,
+     "end": 33.997
     },
     {
      "w": "the",
-     "start": 34.017,
-     "end": 34.202
+     "start": 33.997,
+     "end": 34.182
     },
     {
      "w": "army",
-     "start": 34.202,
-     "end": 34.524
+     "start": 34.182,
+     "end": 34.504
     },
     {
      "w": "is",
-     "start": 34.524,
-     "end": 34.709
+     "start": 34.504,
+     "end": 34.689
     },
     {
      "w": "days",
-     "start": 34.709,
-     "end": 34.893
+     "start": 34.689,
+     "end": 34.873
     },
     {
      "w": "away.",
-     "start": 34.893,
-     "end": 35.215
+     "start": 34.873,
+     "end": 35.195
     }
    ]
   },
   {
    "line": 9,
-   "start": 35.635,
-   "end": 41.281,
+   "start": 35.615,
+   "end": 41.26,
    "text": "So you build beacon towers that can see each other: one smoke means a hundred raiders, five means ten thousand.",
    "words": [
     {
      "w": "So",
-     "start": 35.745,
-     "end": 35.93
+     "start": 35.725,
+     "end": 35.949
     },
     {
      "w": "you",
-     "start": 35.93,
-     "end": 36.115
+     "start": 35.949,
+     "end": 36.173
     },
     {
      "w": "build",
-     "start": 36.115,
-     "end": 36.3
+     "start": 36.173,
+     "end": 36.396
     },
     {
      "w": "beacon",
-     "start": 36.3,
-     "end": 36.622
+     "start": 36.396,
+     "end": 36.786
     },
     {
      "w": "towers",
-     "start": 36.622,
-     "end": 36.943
+     "start": 36.786,
+     "end": 37.175
     },
     {
      "w": "that",
-     "start": 36.943,
-     "end": 37.128
+     "start": 37.175,
+     "end": 37.399
     },
     {
      "w": "can",
-     "start": 37.128,
-     "end": 37.313
+     "start": 37.399,
+     "end": 37.623
     },
     {
      "w": "see",
-     "start": 37.313,
-     "end": 37.498
+     "start": 37.623,
+     "end": 37.847
     },
     {
      "w": "each",
-     "start": 37.498,
-     "end": 37.683
+     "start": 37.847,
+     "end": 38.07
     },
     {
      "w": "other:",
-     "start": 37.683,
-     "end": 38.005
+     "start": 38.07,
+     "end": 38.46
     },
     {
      "w": "one",
-     "start": 38.185,
-     "end": 38.411
+     "start": 38.46,
+     "end": 38.684
     },
     {
      "w": "smoke",
-     "start": 38.411,
-     "end": 38.637
+     "start": 38.684,
+     "end": 38.908
     },
     {
      "w": "means",
-     "start": 38.637,
-     "end": 38.863
+     "start": 38.908,
+     "end": 39.131
     },
     {
      "w": "a",
-     "start": 38.863,
-     "end": 39.089
+     "start": 39.131,
+     "end": 39.355
     },
     {
      "w": "hundred",
-     "start": 39.089,
-     "end": 39.482
+     "start": 39.355,
+     "end": 39.745
     },
     {
      "w": "raiders,",
-     "start": 39.482,
-     "end": 39.875
+     "start": 39.745,
+     "end": 40.134
     },
     {
      "w": "five",
-     "start": 40.005,
-     "end": 40.26
+     "start": 40.134,
+     "end": 40.358
     },
     {
      "w": "means",
-     "start": 40.26,
-     "end": 40.515
+     "start": 40.358,
+     "end": 40.582
     },
     {
      "w": "ten",
-     "start": 40.515,
-     "end": 40.771
+     "start": 40.582,
+     "end": 40.805
     },
     {
      "w": "thousand.",
-     "start": 40.771,
-     "end": 41.215
+     "start": 40.805,
+     "end": 41.195
     }
    ]
   },
   {
    "line": 10,
-   "start": 41.646,
-   "end": 46.031,
+   "start": 41.625,
+   "end": 46.01,
    "text": "But before you light the next beacon, follow, because next we're building an Omani falaj.",
    "words": [
     {
      "w": "But",
-     "start": 41.796,
-     "end": 41.976
+     "start": 41.775,
+     "end": 41.957
     },
     {
      "w": "before",
-     "start": 41.976,
-     "end": 42.29
+     "start": 41.957,
+     "end": 42.273
     },
     {
      "w": "you",
-     "start": 42.29,
-     "end": 42.471
+     "start": 42.273,
+     "end": 42.454
     },
     {
      "w": "light",
-     "start": 42.471,
-     "end": 42.651
+     "start": 42.454,
+     "end": 42.636
     },
     {
      "w": "the",
-     "start": 42.651,
-     "end": 42.832
+     "start": 42.636,
+     "end": 42.817
     },
     {
      "w": "next",
-     "start": 42.832,
-     "end": 43.012
+     "start": 42.817,
+     "end": 42.999
     },
     {
      "w": "beacon,",
-     "start": 43.012,
-     "end": 43.326
+     "start": 42.999,
+     "end": 43.315
     },
     {
      "w": "follow,",
-     "start": 43.456,
-     "end": 43.786
+     "start": 43.435,
+     "end": 43.765
     },
     {
      "w": "because",
-     "start": 43.926,
-     "end": 44.256
+     "start": 43.905,
+     "end": 44.235
     },
     {
      "w": "next",
-     "start": 44.256,
-     "end": 44.446
+     "start": 44.235,
+     "end": 44.425
     },
     {
      "w": "we're",
-     "start": 44.446,
-     "end": 44.635
+     "start": 44.425,
+     "end": 44.614
     },
     {
      "w": "building",
-     "start": 44.635,
-     "end": 44.966
+     "start": 44.614,
+     "end": 44.945
     },
     {
      "w": "an",
-     "start": 44.966,
-     "end": 45.155
+     "start": 44.945,
+     "end": 45.134
     },
     {
      "w": "Omani",
-     "start": 45.155,
-     "end": 45.626
+     "start": 45.134,
+     "end": 45.605
     },
     {
      "w": "falaj.",
-     "start": 45.626,
-     "end": 45.956
+     "start": 45.605,
+     "end": 45.935
     }
    ]
   },
   {
    "line": 11,
-   "start": 46.396,
-   "end": 50.667,
+   "start": 46.375,
+   "end": 50.646,
    "text": "Now join it all up. Chinese still call that warning smoke wolf smoke: the wolves are coming.",
    "words": [
     {
      "w": "Now",
-     "start": 46.506,
-     "end": 46.672
+     "start": 46.485,
+     "end": 46.651
     },
     {
      "w": "join",
-     "start": 46.672,
-     "end": 46.838
+     "start": 46.651,
+     "end": 46.817
     },
     {
      "w": "it",
-     "start": 46.838,
-     "end": 47.004
+     "start": 46.817,
+     "end": 46.983
     },
     {
      "w": "all",
-     "start": 47.004,
-     "end": 47.17
+     "start": 46.983,
+     "end": 47.149
     },
     {
      "w": "up.",
-     "start": 47.17,
-     "end": 47.336
+     "start": 47.149,
+     "end": 47.315
     },
     {
      "w": "Chinese",
-     "start": 47.486,
-     "end": 47.847
+     "start": 47.465,
+     "end": 47.826
     },
     {
      "w": "still",
-     "start": 47.847,
-     "end": 48.054
+     "start": 47.826,
+     "end": 48.033
     },
     {
      "w": "call",
-     "start": 48.054,
-     "end": 48.261
+     "start": 48.033,
+     "end": 48.24
     },
     {
      "w": "that",
-     "start": 48.261,
-     "end": 48.468
+     "start": 48.24,
+     "end": 48.447
     },
     {
      "w": "warning",
-     "start": 48.468,
-     "end": 48.829
+     "start": 48.447,
+     "end": 48.808
     },
     {
      "w": "smoke",
-     "start": 48.829,
-     "end": 49.036
+     "start": 48.808,
+     "end": 49.015
     },
     {
      "w": "wolf",
-     "start": 49.036,
-     "end": 49.243
+     "start": 49.015,
+     "end": 49.222
     },
     {
      "w": "smoke:",
-     "start": 49.243,
-     "end": 49.45
+     "start": 49.222,
+     "end": 49.429
     },
     {
      "w": "the",
-     "start": 49.45,
-     "end": 49.658
+     "start": 49.429,
+     "end": 49.637
     },
     {
      "w": "wolves",
-     "start": 49.658,
-     "end": 50.018
+     "start": 49.637,
+     "end": 49.997
     },
     {
      "w": "are",
-     "start": 50.018,
-     "end": 50.225
+     "start": 49.997,
+     "end": 50.204
     },
     {
      "w": "coming.",
-     "start": 50.225,
-     "end": 50.586
+     "start": 50.204,
+     "end": 50.565
     }
    ]
   },
   {
    "line": 12,
-   "start": 51.031,
-   "end": 55.979,
+   "start": 51.01,
+   "end": 55.958,
    "text": "Twenty-one thousand kilometers, two thousand years, and from the Moon? Zero. You can't see it.",
    "words": [
     {
      "w": "Twenty-one",
-     "start": 51.151,
-     "end": 51.522
+     "start": 51.13,
+     "end": 51.501
     },
     {
      "w": "thousand",
-     "start": 51.522,
-     "end": 51.894
+     "start": 51.501,
+     "end": 51.873
     },
     {
      "w": "kilometers,",
-     "start": 51.894,
-     "end": 52.581
+     "start": 51.873,
+     "end": 52.56
     },
     {
      "w": "two",
-     "start": 52.711,
-     "end": 52.968
+     "start": 52.69,
+     "end": 52.949
     },
     {
      "w": "thousand",
-     "start": 52.968,
-     "end": 53.414
+     "start": 52.949,
+     "end": 53.401
     },
     {
      "w": "years,",
-     "start": 53.414,
-     "end": 53.671
+     "start": 53.401,
+     "end": 53.66
     },
     {
      "w": "and",
-     "start": 53.791,
-     "end": 53.978
+     "start": 53.77,
+     "end": 53.957
     },
     {
      "w": "from",
-     "start": 53.978,
-     "end": 54.166
+     "start": 53.957,
+     "end": 54.145
     },
     {
      "w": "the",
-     "start": 54.166,
-     "end": 54.354
+     "start": 54.145,
+     "end": 54.332
     },
     {
      "w": "Moon?",
-     "start": 54.354,
-     "end": 54.541
+     "start": 54.332,
+     "end": 54.52
     },
     {
      "w": "Zero.",
-     "start": 54.701,
-     "end": 55.121
+     "start": 54.68,
+     "end": 55.1
     },
     {
      "w": "You",
-     "start": 55.271,
-     "end": 55.426
+     "start": 55.25,
+     "end": 55.405
     },
     {
      "w": "can't",
-     "start": 55.426,
-     "end": 55.581
+     "start": 55.405,
+     "end": 55.56
     },
     {
      "w": "see",
-     "start": 55.581,
-     "end": 55.736
+     "start": 55.56,
+     "end": 55.715
     },
     {
      "w": "it.",
-     "start": 55.736,
-     "end": 55.891
+     "start": 55.715,
+     "end": 55.87
     }
    ]
   },
   {
    "line": 13,
-   "start": 56.344,
-   "end": 59.344,
+   "start": 56.323,
+   "end": 59.323,
    "text": "And congrats, you just built the Great Wall of China yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.464,
-     "end": 56.716
+     "start": 56.443,
+     "end": 56.652
     },
     {
      "w": "congrats,",
-     "start": 56.716,
-     "end": 57.154
+     "start": 56.652,
+     "end": 57.017
     },
     {
      "w": "you",
-     "start": 57.304,
-     "end": 57.488
+     "start": 57.017,
+     "end": 57.227
     },
     {
      "w": "just",
-     "start": 57.488,
-     "end": 57.672
+     "start": 57.227,
+     "end": 57.436
     },
     {
      "w": "built",
-     "start": 57.672,
-     "end": 57.856
+     "start": 57.436,
+     "end": 57.646
     },
     {
      "w": "the",
-     "start": 57.856,
-     "end": 58.041
+     "start": 57.646,
+     "end": 57.855
     },
     {
      "w": "Great",
-     "start": 58.041,
-     "end": 58.225
+     "start": 57.855,
+     "end": 58.065
     },
     {
      "w": "Wall",
-     "start": 58.225,
-     "end": 58.409
+     "start": 58.065,
+     "end": 58.274
     },
     {
      "w": "of",
-     "start": 58.409,
-     "end": 58.593
+     "start": 58.274,
+     "end": 58.484
     },
     {
      "w": "China",
-     "start": 58.593,
-     "end": 58.913
+     "start": 58.484,
+     "end": 58.848
     },
     {
      "w": "yourself.",
-     "start": 58.913,
-     "end": 59.234
+     "start": 58.848,
+     "end": 59.213
     }
    ]
   },
   {
    "line": 14,
-   "start": 59.708,
-   "end": 65.177,
+   "start": 59.688,
+   "end": 65.156,
    "text": "Smoke jumped tower to tower across provinces, and your friend saw your message yesterday and still hasn't replied.",
    "words": [
     {
      "w": "Smoke",
-     "start": 59.768,
-     "end": 59.979
+     "start": 59.748,
+     "end": 59.959
     },
     {
      "w": "jumped",
-     "start": 59.979,
-     "end": 60.345
+     "start": 59.959,
+     "end": 60.325
     },
     {
      "w": "tower",
-     "start": 60.345,
-     "end": 60.712
+     "start": 60.325,
+     "end": 60.692
     },
     {
      "w": "to",
-     "start": 60.712,
-     "end": 60.922
+     "start": 60.692,
+     "end": 60.902
     },
     {
      "w": "tower",
-     "start": 60.922,
-     "end": 61.289
+     "start": 60.902,
+     "end": 61.269
     },
     {
      "w": "across",
-     "start": 61.289,
-     "end": 61.655
+     "start": 61.269,
+     "end": 61.635
     },
     {
      "w": "provinces,",
-     "start": 61.655,
-     "end": 62.178
+     "start": 61.635,
+     "end": 62.158
     },
     {
      "w": "and",
-     "start": 62.308,
-     "end": 62.508
+     "start": 62.288,
+     "end": 62.489
     },
     {
      "w": "your",
-     "start": 62.508,
-     "end": 62.708
+     "start": 62.489,
+     "end": 62.689
     },
     {
      "w": "friend",
-     "start": 62.708,
-     "end": 62.907
+     "start": 62.689,
+     "end": 62.89
     },
     {
      "w": "saw",
-     "start": 62.907,
-     "end": 63.107
+     "start": 62.89,
+     "end": 63.09
     },
     {
      "w": "your",
-     "start": 63.107,
-     "end": 63.307
+     "start": 63.09,
+     "end": 63.291
     },
     {
      "w": "message",
-     "start": 63.307,
-     "end": 63.655
+     "start": 63.291,
+     "end": 63.64
     },
     {
      "w": "yesterday",
-     "start": 63.655,
-     "end": 64.151
+     "start": 63.64,
+     "end": 64.137
     },
     {
      "w": "and",
-     "start": 64.151,
-     "end": 64.351
+     "start": 64.137,
+     "end": 64.338
     },
     {
      "w": "still",
-     "start": 64.351,
-     "end": 64.55
+     "start": 64.338,
+     "end": 64.538
     },
     {
      "w": "hasn't",
-     "start": 64.55,
-     "end": 64.75
+     "start": 64.538,
+     "end": 64.739
     },
     {
      "w": "replied.",
-     "start": 64.75,
-     "end": 65.098
+     "start": 64.739,
+     "end": 65.088
     }
    ]
   }
