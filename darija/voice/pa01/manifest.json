@@ -15,11 +15,9 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 77,
+ "requested_characters": 10,
  "recorded_this_run": [
-  "h1",
-  "w3",
-  "v2"
+  "w3"
  ],
  "notes": [],
  "lines": [
@@ -171,8 +169,8 @@
    "id": "w3",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "هسا أَسْرَع!",
-   "characters": 12,
+   "text": "هسا بسرعة!",
+   "characters": 10,
    "model": "eleven_v4",
    "seconds": 1.52
   },
