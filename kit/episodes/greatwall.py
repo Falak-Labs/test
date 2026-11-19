@@ -390,7 +390,7 @@ def phone_chat(c, x, y, w, h, t, a, mine, seen, typing=0.0, rtl=False, k_seen=1.
         text(c, mine, bx + bw / 2, by + 64, 44, "#FFFFFF", "Poppins-Bold", a=a)
     ka = a * k_seen
     if ka > 0:
-        sy = by + 150
+        sy = by + 172
         if arabic.is_ar(seen):
             arabic.text_ar(c, seen, bx + bw / 2, sy, 36, "#94A3B8", "Tajawal-Bold", a=ka)
         else:
@@ -417,7 +417,7 @@ class GreatWall(EpisodeV2):
                    "HORSES", "NORTH", "FLAT", "STOP", "RIDGES", "MOUNTAIN", "CHARGE", "GOBI", "DESERT", "STONE",
                    "WOOD", "POUND", "LAYERS", "REEDS", "GRAVEL", "STANDS", "THOUSAND", "CENTURIES", "REBUILT", "BRICK", "LIME",
                    "MORTAR", "CRUMBLES", "RAIN", "STIR", "STICKY", "STARCH", "TIGHT", "ROLLS", "LONG", "USELESS",
-                   "ARMY", "DAYS", "BEACON", "TOWERS", "SIGHT", "SMOKE", "HUNDRED", "FIVE", "FOLLOW", "OMANI",
+                   "ARMY", "DAYS", "BEACON", "TOWERS", "SEE", "SMOKE", "HUNDRED", "FIVE", "FOLLOW", "OMANI",
                    "FALAJ", "WOLF", "WOLVES", "COMING", "KILOMETERS", "YEARS", "MOON", "ZERO", "YOURSELF",
                    "FRIEND", "MESSAGE", "YESTERDAY", "REPLIED"],
             "ar_sa": ["مبروك", "سور", "نص", "الأرض", "بشوربة", "رز", "الصين", "العظيم", "الغزاة", "خيل", "الشمال",
@@ -441,7 +441,7 @@ class GreatWall(EpisodeV2):
         ("fix3", "ROLLS"): "يزحلق",
         ("break4", "LONG"): "بهالطول", ("break4", "USELESS"): "ينفع", ("break4", "ARMY"): "الجيش",
         ("break4", "DAYS"): "أيام",
-        ("fix4", "BEACON"): "أبراج", ("fix4", "SIGHT"): "تشوف", ("fix4", "ONE"): "دخانة", ("fix4", "HUNDRED"): "مية",
+        ("fix4", "BEACON"): "أبراج", ("fix4", "SEE"): "تشوف", ("fix4", "ONE"): "دخانة", ("fix4", "HUNDRED"): "مية",
         ("fix4", "FIVE"): "وخمس", ("fix4", "THOUSAND"): "آلاف",
         ("cta", "FOLLOW"): "تابعني",
         ("reveal", "JOIN"): "اربط", ("reveal", "CALL"): "يسمون", ("reveal", "WOLF"): "الذيب",
@@ -461,7 +461,7 @@ class GreatWall(EpisodeV2):
                          "lime": "PLAIN LIME MORTAR", "crumble": "IT CRUMBLES IN THE RAIN", "stir": "STICKY RICE SOUP",
                          "into": "+ LIME", "loose": "LOOSE", "tight": "PACKED TIGHT", "rolls": "RAIN ROLLS OFF",
                          "long": "THOUSANDS OF KM", "army": "THE ARMY", "days": "DAYS AWAY",
-                         "beacon": "BEACON TOWERS", "sight": "IN SIGHT OF EACH OTHER", "one": "1 SMOKE = 100 RAIDERS",
+                         "beacon": "BEACON TOWERS", "sight": "EACH SEES THE NEXT", "one": "1 SMOKE = 100 RAIDERS",
                          "five": "5 SMOKES = 10,000", "join": "SEA TO DESERT", "wolf": "WOLF SMOKE",
                          "wolves": "THE WOLVES ARE COMING!", "msg": "u there?", "seen": "Seen yesterday",
                          "provinces": "ACROSS PROVINCES", "nothing": "...still nothing"}},
@@ -500,7 +500,7 @@ class GreatWall(EpisodeV2):
             "tight": ("fix3", "TIGHT", 0.7), "rolls": ("fix3", "ROLLS", 0.92),
             "long": ("break4", "LONG", 0.3), "useless": ("break4", "USELESS", 0.5), "army": ("break4", "ARMY", 0.75),
             "days": ("break4", "DAYS", 0.9),
-            "beacon": ("fix4", "BEACON", 0.15), "sight": ("fix4", "SIGHT", 0.3), "one": ("fix4", "ONE", 0.5),
+            "beacon": ("fix4", "BEACON", 0.15), "sight": ("fix4", "SEE", 0.3), "one": ("fix4", "ONE", 0.5),
             "hundred": ("fix4", "HUNDRED", 0.65), "five": ("fix4", "FIVE", 0.78), "tenk": ("fix4", "THOUSAND", 0.95),
             "follow": ("cta", "FOLLOW", 0.35),
             "join": ("reveal", "JOIN", 0.1), "call": ("reveal", "CALL", 0.4), "wolf": ("reveal", "WOLF", 0.65),
@@ -901,6 +901,7 @@ class GreatWall(EpisodeV2):
         crumble = prog(t, T["crumbles"] - 0.2, T["rain"] + 0.4) if not fixed else 0.0
         white = prog(t, T["rice2"], T["starch"]) if fixed else 0.0
         vrect(c, 0, y0 - 20, W, rows * (bh + gap) + 40, ["#3A3328", "#2A241C"])
+        vrect(c, 0, y0 + rows * (bh + gap) - 10, W, H, ["#2A241C", "#14100C"])
         nb = 0
         for r_ in range(rows):
             yy = y0 + r_ * (bh + gap)
