@@ -1,0 +1,136 @@
+{
+ "slug": "ep46-aswan",
+ "kit": "aswan",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.8,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "13/226",
+   "mix_lines_off": [
+    "L 1 1 diff  | If you pile 17 great pyramids of rock across the Nile, congrats, you just built the Aswan High Dam.",
+    "L11 4 diff  | Behind it, a lake 500 km long fills, so the giant statues of Abu Simbal are cut up and lifted to safety.",
+    "L12 4 diff  | 111 meters tall, almost 4 kilometers long, and once, half of Egypt's electricity.",
+    "L13 1 diff  | And congrats, you just built the Aswan Hai Dam yourself.",
+    "L14 3 diff  | It holds back a lake 500 km long and your water still cuts off when your hair is full of shampoo."
+   ],
+   "size_mb": 20.9,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو كوّمت صخر قد سبعتاشر هرم في عرض النيل، مبروك، كده انت بنيت السد العالي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس النيل بيفيض كل صيف: سنة يغرّق القرى، وسنة ميجيش خالص.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتقفل الوادي، وتحبس الفيضان في بحيرة، وتنزّل المية بالراحة طول السنة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس المية دي كلها بتزق جامد، وأي حيطة عادية هتقع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فبدل الحيطة تبني جبل: صخر ورمل، تخنه من تحت قرب الكيلو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس المية بتنشّ من الصخر والرمل، زي القهوة من الفلتر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحط في قلبه طين، وتحقن أسمنت في قاع النهر، عشان المية متعديش من تحت.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "وإزاي تبني جوه نهر عمره ما وقف؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "تفتح قناة جديدة في الجرانيت جنبه، تعدّي منها النيل، وبعدين تقفل الفتحة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تفتح البوابات، تابعني، عشان اللي جاي هنبني بيت من التلج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "وورا السد بتتملي بحيرة طولها خمسمية كيلو، وتماثيل أبو سمبل تتقطّع حتت وتطلع فوق الجبل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ارتفاعه مية وحداشر متر، طوله قرب أربعة كيلو، وكان في يوم بيطلّع نص كهربا مصر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت السد العالي بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "بيحجز بحيرة خمسمية كيلو، والمية عندك تقطع أول ما راسك تبقى كلها شامبو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.7,
+   "cover": true
+  }
+ }
+}
