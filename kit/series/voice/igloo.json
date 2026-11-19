@@ -1,0 +1,1267 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 63.96,
+ "words": 229,
+ "words_per_sec": 3.58,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.281,
+   "text": "If you can keep a family warm at minus forty with nothing but snow, congrats, you just built an igloo.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.334
+    },
+    {
+     "w": "you",
+     "start": 0.334,
+     "end": 0.537
+    },
+    {
+     "w": "can",
+     "start": 0.537,
+     "end": 0.741
+    },
+    {
+     "w": "keep",
+     "start": 0.741,
+     "end": 0.945
+    },
+    {
+     "w": "a",
+     "start": 0.945,
+     "end": 1.148
+    },
+    {
+     "w": "family",
+     "start": 1.148,
+     "end": 1.654
+    },
+    {
+     "w": "warm",
+     "start": 1.654,
+     "end": 1.857
+    },
+    {
+     "w": "at",
+     "start": 1.857,
+     "end": 2.061
+    },
+    {
+     "w": "minus",
+     "start": 2.061,
+     "end": 2.415
+    },
+    {
+     "w": "forty",
+     "start": 2.415,
+     "end": 2.77
+    },
+    {
+     "w": "with",
+     "start": 2.77,
+     "end": 2.974
+    },
+    {
+     "w": "nothing",
+     "start": 2.974,
+     "end": 3.328
+    },
+    {
+     "w": "but",
+     "start": 3.328,
+     "end": 3.532
+    },
+    {
+     "w": "snow,",
+     "start": 3.532,
+     "end": 3.735
+    },
+    {
+     "w": "congrats,",
+     "start": 3.735,
+     "end": 4.09
+    },
+    {
+     "w": "you",
+     "start": 4.23,
+     "end": 4.401
+    },
+    {
+     "w": "just",
+     "start": 4.401,
+     "end": 4.571
+    },
+    {
+     "w": "built",
+     "start": 4.571,
+     "end": 4.742
+    },
+    {
+     "w": "an",
+     "start": 4.742,
+     "end": 4.913
+    },
+    {
+     "w": "igloo.",
+     "start": 4.913,
+     "end": 5.21
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.646,
+   "end": 8.24,
+   "text": "But the wind out here can freeze your skin in minutes.",
+   "words": [
+    {
+     "w": "But",
+     "start": 5.786,
+     "end": 5.977
+    },
+    {
+     "w": "the",
+     "start": 5.977,
+     "end": 6.167
+    },
+    {
+     "w": "wind",
+     "start": 6.167,
+     "end": 6.358
+    },
+    {
+     "w": "out",
+     "start": 6.358,
+     "end": 6.549
+    },
+    {
+     "w": "here",
+     "start": 6.549,
+     "end": 6.739
+    },
+    {
+     "w": "can",
+     "start": 6.739,
+     "end": 6.93
+    },
+    {
+     "w": "freeze",
+     "start": 6.93,
+     "end": 7.121
+    },
+    {
+     "w": "your",
+     "start": 7.121,
+     "end": 7.311
+    },
+    {
+     "w": "skin",
+     "start": 7.311,
+     "end": 7.502
+    },
+    {
+     "w": "in",
+     "start": 7.502,
+     "end": 7.693
+    },
+    {
+     "w": "minutes.",
+     "start": 7.693,
+     "end": 8.166
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.604,
+   "end": 14.0,
+   "text": "So you cut blocks of wind-packed snow. It's mostly trapped air, and trapped air holds heat, like a down jacket.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.714,
+     "end": 8.924
+    },
+    {
+     "w": "you",
+     "start": 8.924,
+     "end": 9.134
+    },
+    {
+     "w": "cut",
+     "start": 9.134,
+     "end": 9.344
+    },
+    {
+     "w": "blocks",
+     "start": 9.344,
+     "end": 9.553
+    },
+    {
+     "w": "of",
+     "start": 9.553,
+     "end": 9.763
+    },
+    {
+     "w": "wind-packed",
+     "start": 9.763,
+     "end": 10.284
+    },
+    {
+     "w": "snow.",
+     "start": 10.284,
+     "end": 10.494
+    },
+    {
+     "w": "It's",
+     "start": 10.644,
+     "end": 10.845
+    },
+    {
+     "w": "mostly",
+     "start": 10.845,
+     "end": 11.194
+    },
+    {
+     "w": "trapped",
+     "start": 11.194,
+     "end": 11.543
+    },
+    {
+     "w": "air,",
+     "start": 11.543,
+     "end": 11.744
+    },
+    {
+     "w": "and",
+     "start": 11.894,
+     "end": 12.084
+    },
+    {
+     "w": "trapped",
+     "start": 12.084,
+     "end": 12.414
+    },
+    {
+     "w": "air",
+     "start": 12.414,
+     "end": 12.604
+    },
+    {
+     "w": "holds",
+     "start": 12.604,
+     "end": 12.794
+    },
+    {
+     "w": "heat,",
+     "start": 12.794,
+     "end": 12.984
+    },
+    {
+     "w": "like",
+     "start": 13.134,
+     "end": 13.303
+    },
+    {
+     "w": "a",
+     "start": 13.303,
+     "end": 13.471
+    },
+    {
+     "w": "down",
+     "start": 13.471,
+     "end": 13.64
+    },
+    {
+     "w": "jacket.",
+     "start": 13.64,
+     "end": 13.934
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.365,
+   "end": 17.583,
+   "text": "But there are no trees, nothing to hold up a roof while you build.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.505,
+     "end": 14.709
+    },
+    {
+     "w": "there",
+     "start": 14.709,
+     "end": 14.912
+    },
+    {
+     "w": "are",
+     "start": 14.912,
+     "end": 15.116
+    },
+    {
+     "w": "no",
+     "start": 15.116,
+     "end": 15.319
+    },
+    {
+     "w": "trees,",
+     "start": 15.319,
+     "end": 15.523
+    },
+    {
+     "w": "nothing",
+     "start": 15.523,
+     "end": 15.877
+    },
+    {
+     "w": "to",
+     "start": 15.877,
+     "end": 16.08
+    },
+    {
+     "w": "hold",
+     "start": 16.08,
+     "end": 16.284
+    },
+    {
+     "w": "up",
+     "start": 16.284,
+     "end": 16.487
+    },
+    {
+     "w": "a",
+     "start": 16.487,
+     "end": 16.691
+    },
+    {
+     "w": "roof",
+     "start": 16.691,
+     "end": 16.894
+    },
+    {
+     "w": "while",
+     "start": 16.894,
+     "end": 17.098
+    },
+    {
+     "w": "you",
+     "start": 17.098,
+     "end": 17.301
+    },
+    {
+     "w": "build.",
+     "start": 17.301,
+     "end": 17.505
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.948,
+   "end": 22.719,
+   "text": "So you lay the blocks in a rising spiral, each leaning on the last, and the dome holds itself up.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.058,
+     "end": 18.245
+    },
+    {
+     "w": "you",
+     "start": 18.245,
+     "end": 18.432
+    },
+    {
+     "w": "lay",
+     "start": 18.432,
+     "end": 18.619
+    },
+    {
+     "w": "the",
+     "start": 18.619,
+     "end": 18.806
+    },
+    {
+     "w": "blocks",
+     "start": 18.806,
+     "end": 18.993
+    },
+    {
+     "w": "in",
+     "start": 18.993,
+     "end": 19.18
+    },
+    {
+     "w": "a",
+     "start": 19.18,
+     "end": 19.367
+    },
+    {
+     "w": "rising",
+     "start": 19.367,
+     "end": 19.692
+    },
+    {
+     "w": "spiral,",
+     "start": 19.692,
+     "end": 20.018
+    },
+    {
+     "w": "each",
+     "start": 20.158,
+     "end": 20.337
+    },
+    {
+     "w": "leaning",
+     "start": 20.337,
+     "end": 20.65
+    },
+    {
+     "w": "on",
+     "start": 20.65,
+     "end": 20.829
+    },
+    {
+     "w": "the",
+     "start": 20.829,
+     "end": 21.009
+    },
+    {
+     "w": "last,",
+     "start": 21.009,
+     "end": 21.188
+    },
+    {
+     "w": "and",
+     "start": 21.358,
+     "end": 21.539
+    },
+    {
+     "w": "the",
+     "start": 21.539,
+     "end": 21.72
+    },
+    {
+     "w": "dome",
+     "start": 21.72,
+     "end": 21.901
+    },
+    {
+     "w": "holds",
+     "start": 21.901,
+     "end": 22.082
+    },
+    {
+     "w": "itself",
+     "start": 22.082,
+     "end": 22.397
+    },
+    {
+     "w": "up.",
+     "start": 22.397,
+     "end": 22.578
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.083,
+   "end": 26.906,
+   "text": "But warm air rises, and every time the door opens, cold rushes in.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.213,
+     "end": 23.417
+    },
+    {
+     "w": "warm",
+     "start": 23.417,
+     "end": 23.62
+    },
+    {
+     "w": "air",
+     "start": 23.62,
+     "end": 23.824
+    },
+    {
+     "w": "rises,",
+     "start": 23.824,
+     "end": 24.178
+    },
+    {
+     "w": "and",
+     "start": 24.178,
+     "end": 24.382
+    },
+    {
+     "w": "every",
+     "start": 24.382,
+     "end": 24.888
+    },
+    {
+     "w": "time",
+     "start": 24.888,
+     "end": 25.091
+    },
+    {
+     "w": "the",
+     "start": 25.091,
+     "end": 25.295
+    },
+    {
+     "w": "door",
+     "start": 25.295,
+     "end": 25.498
+    },
+    {
+     "w": "opens,",
+     "start": 25.498,
+     "end": 25.853
+    },
+    {
+     "w": "cold",
+     "start": 25.993,
+     "end": 26.215
+    },
+    {
+     "w": "rushes",
+     "start": 26.215,
+     "end": 26.601
+    },
+    {
+     "w": "in.",
+     "start": 26.601,
+     "end": 26.823
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.271,
+   "end": 32.542,
+   "text": "So you dig the doorway below the floor: cold air sinks into the tunnel and stays there, and you sleep up high.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.381,
+     "end": 27.574
+    },
+    {
+     "w": "you",
+     "start": 27.574,
+     "end": 27.767
+    },
+    {
+     "w": "dig",
+     "start": 27.767,
+     "end": 27.96
+    },
+    {
+     "w": "the",
+     "start": 27.96,
+     "end": 28.153
+    },
+    {
+     "w": "doorway",
+     "start": 28.153,
+     "end": 28.489
+    },
+    {
+     "w": "below",
+     "start": 28.489,
+     "end": 28.825
+    },
+    {
+     "w": "the",
+     "start": 28.825,
+     "end": 29.018
+    },
+    {
+     "w": "floor:",
+     "start": 29.018,
+     "end": 29.211
+    },
+    {
+     "w": "cold",
+     "start": 29.351,
+     "end": 29.55
+    },
+    {
+     "w": "air",
+     "start": 29.55,
+     "end": 29.75
+    },
+    {
+     "w": "sinks",
+     "start": 29.75,
+     "end": 29.949
+    },
+    {
+     "w": "into",
+     "start": 29.949,
+     "end": 30.296
+    },
+    {
+     "w": "the",
+     "start": 30.296,
+     "end": 30.496
+    },
+    {
+     "w": "tunnel",
+     "start": 30.496,
+     "end": 30.843
+    },
+    {
+     "w": "and",
+     "start": 30.843,
+     "end": 31.042
+    },
+    {
+     "w": "stays",
+     "start": 31.042,
+     "end": 31.242
+    },
+    {
+     "w": "there,",
+     "start": 31.242,
+     "end": 31.441
+    },
+    {
+     "w": "and",
+     "start": 31.611,
+     "end": 31.785
+    },
+    {
+     "w": "you",
+     "start": 31.785,
+     "end": 31.959
+    },
+    {
+     "w": "sleep",
+     "start": 31.959,
+     "end": 32.133
+    },
+    {
+     "w": "up",
+     "start": 32.133,
+     "end": 32.307
+    },
+    {
+     "w": "high.",
+     "start": 32.307,
+     "end": 32.481
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.906,
+   "end": 36.188,
+   "text": "But your body heat melts the walls. Won't they drip and cave in?",
+   "words": [
+    {
+     "w": "But",
+     "start": 33.046,
+     "end": 33.26
+    },
+    {
+     "w": "your",
+     "start": 33.26,
+     "end": 33.475
+    },
+    {
+     "w": "body",
+     "start": 33.475,
+     "end": 33.848
+    },
+    {
+     "w": "heat",
+     "start": 33.848,
+     "end": 34.063
+    },
+    {
+     "w": "melts",
+     "start": 34.063,
+     "end": 34.277
+    },
+    {
+     "w": "the",
+     "start": 34.277,
+     "end": 34.492
+    },
+    {
+     "w": "walls.",
+     "start": 34.492,
+     "end": 34.706
+    },
+    {
+     "w": "Won't",
+     "start": 34.856,
+     "end": 35.064
+    },
+    {
+     "w": "they",
+     "start": 35.064,
+     "end": 35.273
+    },
+    {
+     "w": "drip",
+     "start": 35.273,
+     "end": 35.481
+    },
+    {
+     "w": "and",
+     "start": 35.481,
+     "end": 35.689
+    },
+    {
+     "w": "cave",
+     "start": 35.689,
+     "end": 35.898
+    },
+    {
+     "w": "in?",
+     "start": 35.898,
+     "end": 36.106
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.552,
+   "end": 42.104,
+   "text": "That's the trick: the melt refreezes into a skin of ice, and the dome gets stronger, strong enough to stand on.",
+   "words": [
+    {
+     "w": "That's",
+     "start": 36.682,
+     "end": 36.885
+    },
+    {
+     "w": "the",
+     "start": 36.885,
+     "end": 37.089
+    },
+    {
+     "w": "trick:",
+     "start": 37.089,
+     "end": 37.292
+    },
+    {
+     "w": "the",
+     "start": 37.342,
+     "end": 37.534
+    },
+    {
+     "w": "melt",
+     "start": 37.534,
+     "end": 37.725
+    },
+    {
+     "w": "refreezes",
+     "start": 37.725,
+     "end": 38.201
+    },
+    {
+     "w": "into",
+     "start": 38.201,
+     "end": 38.535
+    },
+    {
+     "w": "a",
+     "start": 38.535,
+     "end": 38.727
+    },
+    {
+     "w": "skin",
+     "start": 38.727,
+     "end": 38.919
+    },
+    {
+     "w": "of",
+     "start": 38.919,
+     "end": 39.11
+    },
+    {
+     "w": "ice,",
+     "start": 39.11,
+     "end": 39.302
+    },
+    {
+     "w": "and",
+     "start": 39.432,
+     "end": 39.645
+    },
+    {
+     "w": "the",
+     "start": 39.645,
+     "end": 39.857
+    },
+    {
+     "w": "dome",
+     "start": 39.857,
+     "end": 40.07
+    },
+    {
+     "w": "gets",
+     "start": 40.07,
+     "end": 40.282
+    },
+    {
+     "w": "stronger,",
+     "start": 40.282,
+     "end": 40.652
+    },
+    {
+     "w": "strong",
+     "start": 40.792,
+     "end": 41.008
+    },
+    {
+     "w": "enough",
+     "start": 41.008,
+     "end": 41.384
+    },
+    {
+     "w": "to",
+     "start": 41.384,
+     "end": 41.6
+    },
+    {
+     "w": "stand",
+     "start": 41.6,
+     "end": 41.816
+    },
+    {
+     "w": "on.",
+     "start": 41.816,
+     "end": 42.032
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 42.469,
+   "end": 46.542,
+   "text": "But before you crawl inside, follow, because next we're building a Moroccan riad.",
+   "words": [
+    {
+     "w": "But",
+     "start": 42.619,
+     "end": 42.83
+    },
+    {
+     "w": "before",
+     "start": 42.83,
+     "end": 43.198
+    },
+    {
+     "w": "you",
+     "start": 43.198,
+     "end": 43.41
+    },
+    {
+     "w": "crawl",
+     "start": 43.41,
+     "end": 43.621
+    },
+    {
+     "w": "inside,",
+     "start": 43.621,
+     "end": 43.989
+    },
+    {
+     "w": "follow,",
+     "start": 44.129,
+     "end": 44.469
+    },
+    {
+     "w": "because",
+     "start": 44.609,
+     "end": 44.932
+    },
+    {
+     "w": "next",
+     "start": 44.932,
+     "end": 45.118
+    },
+    {
+     "w": "we're",
+     "start": 45.118,
+     "end": 45.304
+    },
+    {
+     "w": "building",
+     "start": 45.304,
+     "end": 45.627
+    },
+    {
+     "w": "a",
+     "start": 45.627,
+     "end": 45.813
+    },
+    {
+     "w": "Moroccan",
+     "start": 45.813,
+     "end": 46.273
+    },
+    {
+     "w": "riad.",
+     "start": 46.273,
+     "end": 46.459
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 46.906,
+   "end": 51.146,
+   "text": "Light a small seal-oil lamp, poke an air hole in the top, and add a window of clear ice.",
+   "words": [
+    {
+     "w": "Light",
+     "start": 47.006,
+     "end": 47.204
+    },
+    {
+     "w": "a",
+     "start": 47.204,
+     "end": 47.402
+    },
+    {
+     "w": "small",
+     "start": 47.402,
+     "end": 47.601
+    },
+    {
+     "w": "seal-oil",
+     "start": 47.601,
+     "end": 47.946
+    },
+    {
+     "w": "lamp,",
+     "start": 47.946,
+     "end": 48.144
+    },
+    {
+     "w": "poke",
+     "start": 48.144,
+     "end": 48.342
+    },
+    {
+     "w": "an",
+     "start": 48.342,
+     "end": 48.54
+    },
+    {
+     "w": "air",
+     "start": 48.54,
+     "end": 48.739
+    },
+    {
+     "w": "hole",
+     "start": 48.739,
+     "end": 48.937
+    },
+    {
+     "w": "in",
+     "start": 48.937,
+     "end": 49.135
+    },
+    {
+     "w": "the",
+     "start": 49.135,
+     "end": 49.333
+    },
+    {
+     "w": "top,",
+     "start": 49.333,
+     "end": 49.532
+    },
+    {
+     "w": "and",
+     "start": 49.532,
+     "end": 49.73
+    },
+    {
+     "w": "add",
+     "start": 49.73,
+     "end": 49.928
+    },
+    {
+     "w": "a",
+     "start": 49.928,
+     "end": 50.126
+    },
+    {
+     "w": "window",
+     "start": 50.126,
+     "end": 50.471
+    },
+    {
+     "w": "of",
+     "start": 50.471,
+     "end": 50.67
+    },
+    {
+     "w": "clear",
+     "start": 50.67,
+     "end": 50.868
+    },
+    {
+     "w": "ice.",
+     "start": 50.868,
+     "end": 51.066
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.51,
+   "end": 56.115,
+   "text": "Minus forty outside, above freezing inside, and a skilled builder needs about an hour.",
+   "words": [
+    {
+     "w": "Minus",
+     "start": 51.61,
+     "end": 52.02
+    },
+    {
+     "w": "forty",
+     "start": 52.02,
+     "end": 52.43
+    },
+    {
+     "w": "outside,",
+     "start": 52.43,
+     "end": 52.84
+    },
+    {
+     "w": "above",
+     "start": 53.0,
+     "end": 53.397
+    },
+    {
+     "w": "freezing",
+     "start": 53.397,
+     "end": 53.793
+    },
+    {
+     "w": "inside,",
+     "start": 53.793,
+     "end": 54.19
+    },
+    {
+     "w": "and",
+     "start": 54.34,
+     "end": 54.505
+    },
+    {
+     "w": "a",
+     "start": 54.505,
+     "end": 54.671
+    },
+    {
+     "w": "skilled",
+     "start": 54.671,
+     "end": 54.958
+    },
+    {
+     "w": "builder",
+     "start": 54.958,
+     "end": 55.246
+    },
+    {
+     "w": "needs",
+     "start": 55.246,
+     "end": 55.412
+    },
+    {
+     "w": "about",
+     "start": 55.412,
+     "end": 55.699
+    },
+    {
+     "w": "an",
+     "start": 55.699,
+     "end": 55.865
+    },
+    {
+     "w": "hour.",
+     "start": 55.865,
+     "end": 56.03
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.479,
+   "end": 58.938,
+   "text": "And congrats, you just built an igloo yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.599,
+     "end": 56.854
+    },
+    {
+     "w": "congrats,",
+     "start": 56.854,
+     "end": 57.299
+    },
+    {
+     "w": "you",
+     "start": 57.439,
+     "end": 57.623
+    },
+    {
+     "w": "just",
+     "start": 57.623,
+     "end": 57.808
+    },
+    {
+     "w": "built",
+     "start": 57.808,
+     "end": 57.992
+    },
+    {
+     "w": "an",
+     "start": 57.992,
+     "end": 58.177
+    },
+    {
+     "w": "igloo",
+     "start": 58.177,
+     "end": 58.498
+    },
+    {
+     "w": "yourself.",
+     "start": 58.498,
+     "end": 58.819
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.302,
+   "end": 63.979,
+   "text": "They sleep warm in a house made of snow, and your mom still makes you take a jacket, just in case.",
+   "words": [
+    {
+     "w": "They",
+     "start": 59.432,
+     "end": 59.622
+    },
+    {
+     "w": "sleep",
+     "start": 59.622,
+     "end": 59.812
+    },
+    {
+     "w": "warm",
+     "start": 59.812,
+     "end": 60.002
+    },
+    {
+     "w": "in",
+     "start": 60.002,
+     "end": 60.192
+    },
+    {
+     "w": "a",
+     "start": 60.192,
+     "end": 60.382
+    },
+    {
+     "w": "house",
+     "start": 60.382,
+     "end": 60.572
+    },
+    {
+     "w": "made",
+     "start": 60.572,
+     "end": 60.761
+    },
+    {
+     "w": "of",
+     "start": 60.761,
+     "end": 60.951
+    },
+    {
+     "w": "snow,",
+     "start": 60.951,
+     "end": 61.141
+    },
+    {
+     "w": "and",
+     "start": 61.141,
+     "end": 61.331
+    },
+    {
+     "w": "your",
+     "start": 61.331,
+     "end": 61.521
+    },
+    {
+     "w": "mom",
+     "start": 61.521,
+     "end": 61.711
+    },
+    {
+     "w": "still",
+     "start": 61.711,
+     "end": 61.901
+    },
+    {
+     "w": "makes",
+     "start": 61.901,
+     "end": 62.232
+    },
+    {
+     "w": "you",
+     "start": 62.232,
+     "end": 62.422
+    },
+    {
+     "w": "take",
+     "start": 62.422,
+     "end": 62.611
+    },
+    {
+     "w": "a",
+     "start": 62.611,
+     "end": 62.801
+    },
+    {
+     "w": "jacket,",
+     "start": 62.801,
+     "end": 63.132
+    },
+    {
+     "w": "just",
+     "start": 63.302,
+     "end": 63.505
+    },
+    {
+     "w": "in",
+     "start": 63.505,
+     "end": 63.709
+    },
+    {
+     "w": "case.",
+     "start": 63.709,
+     "end": 63.912
+    }
+   ]
+  }
+ ]
+}
