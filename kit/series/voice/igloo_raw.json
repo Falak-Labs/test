@@ -1,6 +1,6 @@
 {
  "voice": "Easton",
- "duration": 61.42,
+ "duration": 61.44,
  "words": 229,
  "lines": [
   {
@@ -60,31 +60,31 @@
   {
    "line": 10,
    "start": 40.77,
-   "end": 44.68,
+   "end": 44.7,
    "text": "But before you crawl inside, follow, because next we're building a Moroccan riad."
   },
   {
    "line": 11,
-   "start": 45.03,
-   "end": 49.1,
+   "start": 45.05,
+   "end": 49.12,
    "text": "Light a small seal-oil lamp, poke an air hole in the top, and add a window of clear ice."
   },
   {
    "line": 12,
-   "start": 49.45,
-   "end": 53.87,
+   "start": 49.47,
+   "end": 53.89,
    "text": "Minus forty outside, above freezing inside, and a skilled builder needs about an hour."
   },
   {
    "line": 13,
-   "start": 54.22,
-   "end": 56.58,
+   "start": 54.24,
+   "end": 56.6,
    "text": "And congrats, you just built an igloo yourself."
   },
   {
    "line": 14,
-   "start": 56.93,
-   "end": 61.42,
+   "start": 56.95,
+   "end": 61.44,
    "text": "They sleep warm in a house made of snow, and your mom still makes you take a jacket, just in case."
   }
  ]

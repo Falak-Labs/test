@@ -2,7 +2,7 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 63.96,
+ "duration": 63.99,
  "words": 229,
  "words_per_sec": 3.58,
  "lines": [
@@ -851,7 +851,7 @@
   {
    "line": 10,
    "start": 42.469,
-   "end": 46.542,
+   "end": 46.563,
    "text": "But before you crawl inside, follow, because next we're building a Moroccan riad.",
    "words": [
     {
@@ -881,385 +881,385 @@
     },
     {
      "w": "follow,",
-     "start": 44.129,
-     "end": 44.469
+     "start": 44.139,
+     "end": 44.479
     },
     {
      "w": "because",
-     "start": 44.609,
-     "end": 44.932
+     "start": 44.599,
+     "end": 44.926
     },
     {
      "w": "next",
-     "start": 44.932,
-     "end": 45.118
+     "start": 44.926,
+     "end": 45.113
     },
     {
      "w": "we're",
-     "start": 45.118,
-     "end": 45.304
+     "start": 45.113,
+     "end": 45.301
     },
     {
      "w": "building",
-     "start": 45.304,
-     "end": 45.627
+     "start": 45.301,
+     "end": 45.628
     },
     {
      "w": "a",
-     "start": 45.627,
-     "end": 45.813
+     "start": 45.628,
+     "end": 45.816
     },
     {
      "w": "Moroccan",
-     "start": 45.813,
-     "end": 46.273
+     "start": 45.816,
+     "end": 46.281
     },
     {
      "w": "riad.",
-     "start": 46.273,
-     "end": 46.459
+     "start": 46.281,
+     "end": 46.469
     }
    ]
   },
   {
    "line": 11,
-   "start": 46.906,
-   "end": 51.146,
+   "start": 46.927,
+   "end": 51.167,
    "text": "Light a small seal-oil lamp, poke an air hole in the top, and add a window of clear ice.",
    "words": [
     {
      "w": "Light",
-     "start": 47.006,
-     "end": 47.204
+     "start": 47.037,
+     "end": 47.241
     },
     {
      "w": "a",
-     "start": 47.204,
-     "end": 47.402
+     "start": 47.241,
+     "end": 47.445
     },
     {
      "w": "small",
-     "start": 47.402,
-     "end": 47.601
+     "start": 47.445,
+     "end": 47.649
     },
     {
      "w": "seal-oil",
-     "start": 47.601,
-     "end": 47.946
+     "start": 47.649,
+     "end": 48.004
     },
     {
      "w": "lamp,",
-     "start": 47.946,
-     "end": 48.144
+     "start": 48.004,
+     "end": 48.209
     },
     {
      "w": "poke",
-     "start": 48.144,
-     "end": 48.342
+     "start": 48.209,
+     "end": 48.413
     },
     {
      "w": "an",
-     "start": 48.342,
-     "end": 48.54
+     "start": 48.413,
+     "end": 48.617
     },
     {
      "w": "air",
-     "start": 48.54,
-     "end": 48.739
+     "start": 48.617,
+     "end": 48.821
     },
     {
      "w": "hole",
-     "start": 48.739,
-     "end": 48.937
+     "start": 48.821,
+     "end": 49.025
     },
     {
      "w": "in",
-     "start": 48.937,
-     "end": 49.135
+     "start": 49.025,
+     "end": 49.229
     },
     {
      "w": "the",
-     "start": 49.135,
-     "end": 49.333
+     "start": 49.229,
+     "end": 49.433
     },
     {
      "w": "top,",
-     "start": 49.333,
-     "end": 49.532
+     "start": 49.433,
+     "end": 49.637
     },
     {
      "w": "and",
-     "start": 49.532,
-     "end": 49.73
+     "start": 49.797,
+     "end": 49.964
     },
     {
      "w": "add",
-     "start": 49.73,
-     "end": 49.928
+     "start": 49.964,
+     "end": 50.13
     },
     {
      "w": "a",
-     "start": 49.928,
-     "end": 50.126
+     "start": 50.13,
+     "end": 50.297
     },
     {
      "w": "window",
-     "start": 50.126,
-     "end": 50.471
+     "start": 50.297,
+     "end": 50.587
     },
     {
      "w": "of",
-     "start": 50.471,
-     "end": 50.67
+     "start": 50.587,
+     "end": 50.754
     },
     {
      "w": "clear",
-     "start": 50.67,
-     "end": 50.868
+     "start": 50.754,
+     "end": 50.92
     },
     {
      "w": "ice.",
-     "start": 50.868,
-     "end": 51.066
+     "start": 50.92,
+     "end": 51.087
     }
    ]
   },
   {
    "line": 12,
-   "start": 51.51,
-   "end": 56.115,
+   "start": 51.531,
+   "end": 56.135,
    "text": "Minus forty outside, above freezing inside, and a skilled builder needs about an hour.",
    "words": [
     {
      "w": "Minus",
-     "start": 51.61,
-     "end": 52.02
+     "start": 51.621,
+     "end": 52.034
     },
     {
      "w": "forty",
-     "start": 52.02,
-     "end": 52.43
+     "start": 52.034,
+     "end": 52.448
     },
     {
      "w": "outside,",
-     "start": 52.43,
-     "end": 52.84
+     "start": 52.448,
+     "end": 52.861
     },
     {
      "w": "above",
-     "start": 53.0,
-     "end": 53.397
+     "start": 53.021,
+     "end": 53.418
     },
     {
      "w": "freezing",
-     "start": 53.397,
-     "end": 53.793
+     "start": 53.418,
+     "end": 53.814
     },
     {
      "w": "inside,",
-     "start": 53.793,
-     "end": 54.19
+     "start": 53.814,
+     "end": 54.211
     },
     {
      "w": "and",
-     "start": 54.34,
-     "end": 54.505
+     "start": 54.361,
+     "end": 54.527
     },
     {
      "w": "a",
-     "start": 54.505,
-     "end": 54.671
+     "start": 54.527,
+     "end": 54.694
     },
     {
      "w": "skilled",
-     "start": 54.671,
-     "end": 54.958
+     "start": 54.694,
+     "end": 54.983
     },
     {
      "w": "builder",
-     "start": 54.958,
-     "end": 55.246
+     "start": 54.983,
+     "end": 55.273
     },
     {
      "w": "needs",
-     "start": 55.246,
-     "end": 55.412
+     "start": 55.273,
+     "end": 55.439
     },
     {
      "w": "about",
-     "start": 55.412,
-     "end": 55.699
+     "start": 55.439,
+     "end": 55.728
     },
     {
      "w": "an",
-     "start": 55.699,
-     "end": 55.865
+     "start": 55.728,
+     "end": 55.895
     },
     {
      "w": "hour.",
-     "start": 55.865,
-     "end": 56.03
+     "start": 55.895,
+     "end": 56.061
     }
    ]
   },
   {
    "line": 13,
-   "start": 56.479,
-   "end": 58.938,
+   "start": 56.5,
+   "end": 58.958,
    "text": "And congrats, you just built an igloo yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.599,
-     "end": 56.854
+     "start": 56.62,
+     "end": 56.875
     },
     {
      "w": "congrats,",
-     "start": 56.854,
-     "end": 57.299
+     "start": 56.875,
+     "end": 57.32
     },
     {
      "w": "you",
-     "start": 57.439,
-     "end": 57.623
+     "start": 57.46,
+     "end": 57.644
     },
     {
      "w": "just",
-     "start": 57.623,
-     "end": 57.808
+     "start": 57.644,
+     "end": 57.829
     },
     {
      "w": "built",
-     "start": 57.808,
-     "end": 57.992
+     "start": 57.829,
+     "end": 58.013
     },
     {
      "w": "an",
-     "start": 57.992,
-     "end": 58.177
+     "start": 58.013,
+     "end": 58.198
     },
     {
      "w": "igloo",
-     "start": 58.177,
-     "end": 58.498
+     "start": 58.198,
+     "end": 58.519
     },
     {
      "w": "yourself.",
-     "start": 58.498,
-     "end": 58.819
+     "start": 58.519,
+     "end": 58.84
     }
    ]
   },
   {
    "line": 14,
-   "start": 59.302,
-   "end": 63.979,
+   "start": 59.323,
+   "end": 64.0,
    "text": "They sleep warm in a house made of snow, and your mom still makes you take a jacket, just in case.",
    "words": [
     {
      "w": "They",
-     "start": 59.432,
-     "end": 59.622
+     "start": 59.453,
+     "end": 59.643
     },
     {
      "w": "sleep",
-     "start": 59.622,
-     "end": 59.812
+     "start": 59.643,
+     "end": 59.833
     },
     {
      "w": "warm",
-     "start": 59.812,
-     "end": 60.002
+     "start": 59.833,
+     "end": 60.023
     },
     {
      "w": "in",
-     "start": 60.002,
-     "end": 60.192
+     "start": 60.023,
+     "end": 60.213
     },
     {
      "w": "a",
-     "start": 60.192,
-     "end": 60.382
+     "start": 60.213,
+     "end": 60.403
     },
     {
      "w": "house",
-     "start": 60.382,
-     "end": 60.572
+     "start": 60.403,
+     "end": 60.593
     },
     {
      "w": "made",
-     "start": 60.572,
-     "end": 60.761
+     "start": 60.593,
+     "end": 60.782
     },
     {
      "w": "of",
-     "start": 60.761,
-     "end": 60.951
+     "start": 60.782,
+     "end": 60.972
     },
     {
      "w": "snow,",
-     "start": 60.951,
-     "end": 61.141
+     "start": 60.972,
+     "end": 61.162
     },
     {
      "w": "and",
-     "start": 61.141,
-     "end": 61.331
+     "start": 61.162,
+     "end": 61.352
     },
     {
      "w": "your",
-     "start": 61.331,
-     "end": 61.521
+     "start": 61.352,
+     "end": 61.542
     },
     {
      "w": "mom",
-     "start": 61.521,
-     "end": 61.711
+     "start": 61.542,
+     "end": 61.732
     },
     {
      "w": "still",
-     "start": 61.711,
-     "end": 61.901
+     "start": 61.732,
+     "end": 61.922
     },
     {
      "w": "makes",
-     "start": 61.901,
-     "end": 62.232
+     "start": 61.922,
+     "end": 62.253
     },
     {
      "w": "you",
-     "start": 62.232,
-     "end": 62.422
+     "start": 62.253,
+     "end": 62.443
     },
     {
      "w": "take",
-     "start": 62.422,
-     "end": 62.611
+     "start": 62.443,
+     "end": 62.632
     },
     {
      "w": "a",
-     "start": 62.611,
-     "end": 62.801
+     "start": 62.632,
+     "end": 62.822
     },
     {
      "w": "jacket,",
-     "start": 62.801,
-     "end": 63.132
+     "start": 62.822,
+     "end": 63.153
     },
     {
      "w": "just",
-     "start": 63.302,
-     "end": 63.505
+     "start": 63.323,
+     "end": 63.526
     },
     {
      "w": "in",
-     "start": 63.505,
-     "end": 63.709
+     "start": 63.526,
+     "end": 63.73
     },
     {
      "w": "case.",
-     "start": 63.709,
-     "end": 63.912
+     "start": 63.73,
+     "end": 63.933
     }
    ]
   }
