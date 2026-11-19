@@ -1,6 +1,6 @@
 # Yallah Say, episode 01 (pa): five phrases, quiz, hard word (Congratulations) in a sentence.
 # SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
-T | h1 | مرحبا! بتعرف كيف تحكي مبروك بالإنجليزي؟
+T | h1 | مرحبا! بتعرف كيف تحكي مَبْروك بالإنجليزي؟
 T | h2 | الجواب بالآخر. يلا!
 T | p01t | مرحبا، كيفك؟
 A | p01k | Hi, how are you?
@@ -16,14 +16,14 @@ T | r0 | تعالوا نعيد!
 T | w0 | هسا، كلمة اليوم الصعبة!
 T | tw | Congratulations.
 T | w2 | شوي شوي.
-T | w3 | هسا أسرع!
+T | w3 | هسا أَسْرَع!
 T | w4 | هسا الكلمة كاملة!
 A | w5 | Congratulations!
 T | w6 | Good job! Congratulations!
 T | v0 | وهسا بجملة!
 L | v1 | Congratulations! You passed the Tawjihi!
 L | v1b | Congratulations! You passed the Taw-jee-hee!
-T | v2 | مبروك! نجحت بالتوجيهي!
+T | v2 | مَبْروك! نجحت بالتوجيهي!
 L | Lw | Congratulations!
 T | o1 | عجبك الدرس؟ اكتب الكلمة بالتعليقات، وتابعنا!
 L | o2 | See you next time!
