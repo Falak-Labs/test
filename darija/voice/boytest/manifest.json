@@ -1,0 +1,224 @@
+{
+ "episode": "boytest",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 335,
+ "recorded_this_run": [
+  "U_1",
+  "U_2",
+  "U_3",
+  "U_4",
+  "R_1",
+  "R_2",
+  "R_3",
+  "R_4",
+  "K_1",
+  "K_2",
+  "K_3",
+  "K_4",
+  "V_1",
+  "V_2",
+  "V_3",
+  "V_4",
+  "O_1",
+  "O_2",
+  "O_3",
+  "O_4"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "U_1",
+   "speaker": "U",
+   "voice": "Xb3zeLrTi6F4ziIcXdwk",
+   "text": "Hi, how are you?",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "U_2",
+   "speaker": "U",
+   "voice": "Xb3zeLrTi6F4ziIcXdwk",
+   "text": "I'm ten years old.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "U_3",
+   "speaker": "U",
+   "voice": "Xb3zeLrTi6F4ziIcXdwk",
+   "text": "Nice to meet you!",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "U_4",
+   "speaker": "U",
+   "voice": "Xb3zeLrTi6F4ziIcXdwk",
+   "text": "Congratulations!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "R_1",
+   "speaker": "R",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Hi, how are you?",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "R_2",
+   "speaker": "R",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I'm ten years old.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "R_3",
+   "speaker": "R",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Nice to meet you!",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "R_4",
+   "speaker": "R",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Congratulations!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "K_1",
+   "speaker": "K",
+   "voice": "bA58y3FqVI6b6gTNh0oT",
+   "text": "Hi, how are you?",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "K_2",
+   "speaker": "K",
+   "voice": "bA58y3FqVI6b6gTNh0oT",
+   "text": "I'm ten years old.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "K_3",
+   "speaker": "K",
+   "voice": "bA58y3FqVI6b6gTNh0oT",
+   "text": "Nice to meet you!",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "K_4",
+   "speaker": "K",
+   "voice": "bA58y3FqVI6b6gTNh0oT",
+   "text": "Congratulations!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "V_1",
+   "speaker": "V",
+   "voice": "loY1uopAz31XyhAEhNSa",
+   "text": "Hi, how are you?",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "V_2",
+   "speaker": "V",
+   "voice": "loY1uopAz31XyhAEhNSa",
+   "text": "I'm ten years old.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "V_3",
+   "speaker": "V",
+   "voice": "loY1uopAz31XyhAEhNSa",
+   "text": "Nice to meet you!",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "V_4",
+   "speaker": "V",
+   "voice": "loY1uopAz31XyhAEhNSa",
+   "text": "Congratulations!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "O_1",
+   "speaker": "O",
+   "voice": "S7IsvAvEoDfui6GSZK3A",
+   "text": "Hi, how are you?",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "O_2",
+   "speaker": "O",
+   "voice": "S7IsvAvEoDfui6GSZK3A",
+   "text": "I'm ten years old.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "O_3",
+   "speaker": "O",
+   "voice": "S7IsvAvEoDfui6GSZK3A",
+   "text": "Nice to meet you!",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "O_4",
+   "speaker": "O",
+   "voice": "S7IsvAvEoDfui6GSZK3A",
+   "text": "Congratulations!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  }
+ ]
+}
