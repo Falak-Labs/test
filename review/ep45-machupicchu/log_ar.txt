@@ -1,6 +1,6 @@
 machupicchu_ar_sa: 71.55s, 2146 frames
 cover out/machupicchu_ar_sa/cover.png: ['ماتشو', 'بيتشو'] (frame 0 of the video)
-video done in 547s
+video done in 574s
 audio done
 final out/machupicchu_ar_sa/machupicchu_ar_sa_final.mp4
 QA  duration 71.53s  loudness -14.0 LUFS  true peak -1.7 dBFS  1080x1920 @ 30/1  frames 2146
