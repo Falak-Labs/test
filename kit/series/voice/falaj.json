@@ -1,0 +1,1242 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.59,
+ "words": 225,
+ "words_per_sec": 3.43,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.906,
+   "text": "If you can make a stream flow out of the desert with no pump and no power, for fifteen centuries, congrats, you just built an Omani falaj.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.313
+    },
+    {
+     "w": "you",
+     "start": 0.313,
+     "end": 0.497
+    },
+    {
+     "w": "can",
+     "start": 0.497,
+     "end": 0.68
+    },
+    {
+     "w": "make",
+     "start": 0.68,
+     "end": 0.864
+    },
+    {
+     "w": "a",
+     "start": 0.864,
+     "end": 1.047
+    },
+    {
+     "w": "stream",
+     "start": 1.047,
+     "end": 1.231
+    },
+    {
+     "w": "flow",
+     "start": 1.231,
+     "end": 1.414
+    },
+    {
+     "w": "out",
+     "start": 1.414,
+     "end": 1.597
+    },
+    {
+     "w": "of",
+     "start": 1.597,
+     "end": 1.781
+    },
+    {
+     "w": "the",
+     "start": 1.781,
+     "end": 1.964
+    },
+    {
+     "w": "desert",
+     "start": 1.964,
+     "end": 2.284
+    },
+    {
+     "w": "with",
+     "start": 2.284,
+     "end": 2.467
+    },
+    {
+     "w": "no",
+     "start": 2.467,
+     "end": 2.65
+    },
+    {
+     "w": "pump",
+     "start": 2.65,
+     "end": 2.834
+    },
+    {
+     "w": "and",
+     "start": 2.834,
+     "end": 3.017
+    },
+    {
+     "w": "no",
+     "start": 3.017,
+     "end": 3.201
+    },
+    {
+     "w": "power,",
+     "start": 3.201,
+     "end": 3.52
+    },
+    {
+     "w": "for",
+     "start": 3.59,
+     "end": 3.764
+    },
+    {
+     "w": "fifteen",
+     "start": 3.764,
+     "end": 4.068
+    },
+    {
+     "w": "centuries,",
+     "start": 4.068,
+     "end": 4.5
+    },
+    {
+     "w": "congrats,",
+     "start": 4.66,
+     "end": 5.21
+    },
+    {
+     "w": "you",
+     "start": 5.35,
+     "end": 5.531
+    },
+    {
+     "w": "just",
+     "start": 5.531,
+     "end": 5.712
+    },
+    {
+     "w": "built",
+     "start": 5.712,
+     "end": 5.894
+    },
+    {
+     "w": "an",
+     "start": 5.894,
+     "end": 6.075
+    },
+    {
+     "w": "Omani",
+     "start": 6.075,
+     "end": 6.525
+    },
+    {
+     "w": "falaj.",
+     "start": 6.525,
+     "end": 6.84
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.271,
+   "end": 10.344,
+   "text": "But it barely rains, and the water is deep under the mountains.",
+   "words": [
+    {
+     "w": "But",
+     "start": 7.401,
+     "end": 7.594
+    },
+    {
+     "w": "it",
+     "start": 7.594,
+     "end": 7.788
+    },
+    {
+     "w": "barely",
+     "start": 7.788,
+     "end": 8.268
+    },
+    {
+     "w": "rains,",
+     "start": 8.268,
+     "end": 8.461
+    },
+    {
+     "w": "and",
+     "start": 8.581,
+     "end": 8.747
+    },
+    {
+     "w": "the",
+     "start": 8.747,
+     "end": 8.914
+    },
+    {
+     "w": "water",
+     "start": 8.914,
+     "end": 9.203
+    },
+    {
+     "w": "is",
+     "start": 9.203,
+     "end": 9.369
+    },
+    {
+     "w": "deep",
+     "start": 9.369,
+     "end": 9.536
+    },
+    {
+     "w": "under",
+     "start": 9.536,
+     "end": 9.825
+    },
+    {
+     "w": "the",
+     "start": 9.825,
+     "end": 9.992
+    },
+    {
+     "w": "mountains.",
+     "start": 9.992,
+     "end": 10.281
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.708,
+   "end": 13.906,
+   "text": "So you dig a mother well down to it, up to sixty meters deep.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.818,
+     "end": 10.989
+    },
+    {
+     "w": "you",
+     "start": 10.989,
+     "end": 11.161
+    },
+    {
+     "w": "dig",
+     "start": 11.161,
+     "end": 11.332
+    },
+    {
+     "w": "a",
+     "start": 11.332,
+     "end": 11.504
+    },
+    {
+     "w": "mother",
+     "start": 11.504,
+     "end": 11.802
+    },
+    {
+     "w": "well",
+     "start": 11.802,
+     "end": 11.974
+    },
+    {
+     "w": "down",
+     "start": 11.974,
+     "end": 12.145
+    },
+    {
+     "w": "to",
+     "start": 12.145,
+     "end": 12.317
+    },
+    {
+     "w": "it,",
+     "start": 12.317,
+     "end": 12.488
+    },
+    {
+     "w": "up",
+     "start": 12.628,
+     "end": 12.802
+    },
+    {
+     "w": "to",
+     "start": 12.802,
+     "end": 12.977
+    },
+    {
+     "w": "sixty",
+     "start": 12.977,
+     "end": 13.28
+    },
+    {
+     "w": "meters",
+     "start": 13.28,
+     "end": 13.584
+    },
+    {
+     "w": "deep.",
+     "start": 13.584,
+     "end": 13.758
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.271,
+   "end": 17.698,
+   "text": "But the village is miles away, and water won't climb out by itself.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.411,
+     "end": 14.584
+    },
+    {
+     "w": "the",
+     "start": 14.584,
+     "end": 14.756
+    },
+    {
+     "w": "village",
+     "start": 14.756,
+     "end": 15.057
+    },
+    {
+     "w": "is",
+     "start": 15.057,
+     "end": 15.23
+    },
+    {
+     "w": "miles",
+     "start": 15.23,
+     "end": 15.53
+    },
+    {
+     "w": "away,",
+     "start": 15.53,
+     "end": 15.831
+    },
+    {
+     "w": "and",
+     "start": 15.951,
+     "end": 16.149
+    },
+    {
+     "w": "water",
+     "start": 16.149,
+     "end": 16.494
+    },
+    {
+     "w": "won't",
+     "start": 16.494,
+     "end": 16.692
+    },
+    {
+     "w": "climb",
+     "start": 16.692,
+     "end": 16.89
+    },
+    {
+     "w": "out",
+     "start": 16.89,
+     "end": 17.088
+    },
+    {
+     "w": "by",
+     "start": 17.088,
+     "end": 17.286
+    },
+    {
+     "w": "itself.",
+     "start": 17.286,
+     "end": 17.631
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.062,
+   "end": 22.625,
+   "text": "So you dig a tunnel back to the well, so gently sloped that gravity alone brings the water out.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.182,
+     "end": 18.35
+    },
+    {
+     "w": "you",
+     "start": 18.35,
+     "end": 18.519
+    },
+    {
+     "w": "dig",
+     "start": 18.519,
+     "end": 18.687
+    },
+    {
+     "w": "a",
+     "start": 18.687,
+     "end": 18.855
+    },
+    {
+     "w": "tunnel",
+     "start": 18.855,
+     "end": 19.149
+    },
+    {
+     "w": "back",
+     "start": 19.149,
+     "end": 19.317
+    },
+    {
+     "w": "to",
+     "start": 19.317,
+     "end": 19.485
+    },
+    {
+     "w": "the",
+     "start": 19.485,
+     "end": 19.654
+    },
+    {
+     "w": "well,",
+     "start": 19.654,
+     "end": 19.822
+    },
+    {
+     "w": "so",
+     "start": 19.972,
+     "end": 20.153
+    },
+    {
+     "w": "gently",
+     "start": 20.153,
+     "end": 20.469
+    },
+    {
+     "w": "sloped",
+     "start": 20.469,
+     "end": 20.785
+    },
+    {
+     "w": "that",
+     "start": 20.785,
+     "end": 20.966
+    },
+    {
+     "w": "gravity",
+     "start": 20.966,
+     "end": 21.416
+    },
+    {
+     "w": "alone",
+     "start": 21.416,
+     "end": 21.732
+    },
+    {
+     "w": "brings",
+     "start": 21.732,
+     "end": 21.913
+    },
+    {
+     "w": "the",
+     "start": 21.913,
+     "end": 22.095
+    },
+    {
+     "w": "water",
+     "start": 22.095,
+     "end": 22.411
+    },
+    {
+     "w": "out.",
+     "start": 22.411,
+     "end": 22.592
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 22.99,
+   "end": 27.531,
+   "text": "But you dig by hand, underground, in the heat: a digger lasts twenty minutes at a time.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.13,
+     "end": 23.332
+    },
+    {
+     "w": "you",
+     "start": 23.332,
+     "end": 23.534
+    },
+    {
+     "w": "dig",
+     "start": 23.534,
+     "end": 23.736
+    },
+    {
+     "w": "by",
+     "start": 23.736,
+     "end": 23.938
+    },
+    {
+     "w": "hand,",
+     "start": 23.938,
+     "end": 24.14
+    },
+    {
+     "w": "underground,",
+     "start": 24.28,
+     "end": 24.89
+    },
+    {
+     "w": "in",
+     "start": 25.03,
+     "end": 25.183
+    },
+    {
+     "w": "the",
+     "start": 25.183,
+     "end": 25.337
+    },
+    {
+     "w": "heat:",
+     "start": 25.337,
+     "end": 25.49
+    },
+    {
+     "w": "a",
+     "start": 25.66,
+     "end": 25.825
+    },
+    {
+     "w": "digger",
+     "start": 25.825,
+     "end": 26.112
+    },
+    {
+     "w": "lasts",
+     "start": 26.112,
+     "end": 26.278
+    },
+    {
+     "w": "twenty",
+     "start": 26.278,
+     "end": 26.565
+    },
+    {
+     "w": "minutes",
+     "start": 26.565,
+     "end": 26.975
+    },
+    {
+     "w": "at",
+     "start": 26.975,
+     "end": 27.14
+    },
+    {
+     "w": "a",
+     "start": 27.14,
+     "end": 27.305
+    },
+    {
+     "w": "time.",
+     "start": 27.305,
+     "end": 27.47
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.896,
+   "end": 31.5,
+   "text": "So you sink shafts for air and rock. From a plane they look like a dotted line.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.006,
+     "end": 28.205
+    },
+    {
+     "w": "you",
+     "start": 28.205,
+     "end": 28.404
+    },
+    {
+     "w": "sink",
+     "start": 28.404,
+     "end": 28.602
+    },
+    {
+     "w": "shafts",
+     "start": 28.602,
+     "end": 28.801
+    },
+    {
+     "w": "for",
+     "start": 28.801,
+     "end": 29.0
+    },
+    {
+     "w": "air",
+     "start": 29.0,
+     "end": 29.198
+    },
+    {
+     "w": "and",
+     "start": 29.198,
+     "end": 29.397
+    },
+    {
+     "w": "rock.",
+     "start": 29.397,
+     "end": 29.596
+    },
+    {
+     "w": "From",
+     "start": 29.786,
+     "end": 29.955
+    },
+    {
+     "w": "a",
+     "start": 29.955,
+     "end": 30.125
+    },
+    {
+     "w": "plane",
+     "start": 30.125,
+     "end": 30.294
+    },
+    {
+     "w": "they",
+     "start": 30.294,
+     "end": 30.464
+    },
+    {
+     "w": "look",
+     "start": 30.464,
+     "end": 30.633
+    },
+    {
+     "w": "like",
+     "start": 30.633,
+     "end": 30.802
+    },
+    {
+     "w": "a",
+     "start": 30.802,
+     "end": 30.972
+    },
+    {
+     "w": "dotted",
+     "start": 30.972,
+     "end": 31.267
+    },
+    {
+     "w": "line.",
+     "start": 31.267,
+     "end": 31.436
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.865,
+   "end": 35.385,
+   "text": "Now one stream must water two hundred owners, and everyone wants it now.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 31.965,
+     "end": 32.167
+    },
+    {
+     "w": "one",
+     "start": 32.167,
+     "end": 32.369
+    },
+    {
+     "w": "stream",
+     "start": 32.369,
+     "end": 32.57
+    },
+    {
+     "w": "must",
+     "start": 32.57,
+     "end": 32.772
+    },
+    {
+     "w": "water",
+     "start": 32.772,
+     "end": 33.123
+    },
+    {
+     "w": "two",
+     "start": 33.123,
+     "end": 33.325
+    },
+    {
+     "w": "hundred",
+     "start": 33.325,
+     "end": 33.676
+    },
+    {
+     "w": "owners,",
+     "start": 33.676,
+     "end": 34.027
+    },
+    {
+     "w": "and",
+     "start": 34.027,
+     "end": 34.229
+    },
+    {
+     "w": "everyone",
+     "start": 34.229,
+     "end": 34.73
+    },
+    {
+     "w": "wants",
+     "start": 34.73,
+     "end": 34.931
+    },
+    {
+     "w": "it",
+     "start": 34.931,
+     "end": 35.133
+    },
+    {
+     "w": "now.",
+     "start": 35.133,
+     "end": 35.335
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.75,
+   "end": 41.062,
+   "text": "So you share it by time, half-hour turns: a sundial's shadow ends your turn by day, the stars by night.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.86,
+     "end": 36.107
+    },
+    {
+     "w": "you",
+     "start": 36.107,
+     "end": 36.353
+    },
+    {
+     "w": "share",
+     "start": 36.353,
+     "end": 36.6
+    },
+    {
+     "w": "it",
+     "start": 36.6,
+     "end": 36.847
+    },
+    {
+     "w": "by",
+     "start": 36.847,
+     "end": 37.093
+    },
+    {
+     "w": "time,",
+     "start": 37.093,
+     "end": 37.34
+    },
+    {
+     "w": "half-hour",
+     "start": 37.39,
+     "end": 37.803
+    },
+    {
+     "w": "turns:",
+     "start": 37.803,
+     "end": 38.04
+    },
+    {
+     "w": "a",
+     "start": 38.17,
+     "end": 38.375
+    },
+    {
+     "w": "sundial's",
+     "start": 38.375,
+     "end": 38.731
+    },
+    {
+     "w": "shadow",
+     "start": 38.731,
+     "end": 39.087
+    },
+    {
+     "w": "ends",
+     "start": 39.087,
+     "end": 39.292
+    },
+    {
+     "w": "your",
+     "start": 39.292,
+     "end": 39.496
+    },
+    {
+     "w": "turn",
+     "start": 39.496,
+     "end": 39.701
+    },
+    {
+     "w": "by",
+     "start": 39.701,
+     "end": 39.905
+    },
+    {
+     "w": "day,",
+     "start": 39.905,
+     "end": 40.11
+    },
+    {
+     "w": "the",
+     "start": 40.25,
+     "end": 40.435
+    },
+    {
+     "w": "stars",
+     "start": 40.435,
+     "end": 40.62
+    },
+    {
+     "w": "by",
+     "start": 40.62,
+     "end": 40.805
+    },
+    {
+     "w": "night.",
+     "start": 40.805,
+     "end": 40.99
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 41.427,
+   "end": 45.854,
+   "text": "But before you open your gate, follow, because next we're building Machu Picchu's terraces.",
+   "words": [
+    {
+     "w": "But",
+     "start": 41.567,
+     "end": 41.734
+    },
+    {
+     "w": "before",
+     "start": 41.734,
+     "end": 42.025
+    },
+    {
+     "w": "you",
+     "start": 42.025,
+     "end": 42.192
+    },
+    {
+     "w": "open",
+     "start": 42.192,
+     "end": 42.483
+    },
+    {
+     "w": "your",
+     "start": 42.483,
+     "end": 42.65
+    },
+    {
+     "w": "gate,",
+     "start": 42.65,
+     "end": 42.817
+    },
+    {
+     "w": "follow,",
+     "start": 43.007,
+     "end": 43.347
+    },
+    {
+     "w": "because",
+     "start": 43.477,
+     "end": 43.828
+    },
+    {
+     "w": "next",
+     "start": 43.828,
+     "end": 44.03
+    },
+    {
+     "w": "we're",
+     "start": 44.03,
+     "end": 44.232
+    },
+    {
+     "w": "building",
+     "start": 44.232,
+     "end": 44.583
+    },
+    {
+     "w": "Machu",
+     "start": 44.583,
+     "end": 44.935
+    },
+    {
+     "w": "Picchu's",
+     "start": 44.935,
+     "end": 45.286
+    },
+    {
+     "w": "terraces.",
+     "start": 45.286,
+     "end": 45.787
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 46.219,
+   "end": 51.302,
+   "text": "Then it runs through the village: drinking water first, then baths, then washing, then the palms.",
+   "words": [
+    {
+     "w": "Then",
+     "start": 46.329,
+     "end": 46.517
+    },
+    {
+     "w": "it",
+     "start": 46.517,
+     "end": 46.706
+    },
+    {
+     "w": "runs",
+     "start": 46.706,
+     "end": 46.894
+    },
+    {
+     "w": "through",
+     "start": 46.894,
+     "end": 47.083
+    },
+    {
+     "w": "the",
+     "start": 47.083,
+     "end": 47.271
+    },
+    {
+     "w": "village:",
+     "start": 47.271,
+     "end": 47.599
+    },
+    {
+     "w": "drinking",
+     "start": 47.739,
+     "end": 48.116
+    },
+    {
+     "w": "water",
+     "start": 48.116,
+     "end": 48.493
+    },
+    {
+     "w": "first,",
+     "start": 48.493,
+     "end": 48.709
+    },
+    {
+     "w": "then",
+     "start": 48.909,
+     "end": 49.169
+    },
+    {
+     "w": "baths,",
+     "start": 49.169,
+     "end": 49.429
+    },
+    {
+     "w": "then",
+     "start": 49.479,
+     "end": 49.822
+    },
+    {
+     "w": "washing,",
+     "start": 49.822,
+     "end": 50.419
+    },
+    {
+     "w": "then",
+     "start": 50.569,
+     "end": 50.786
+    },
+    {
+     "w": "the",
+     "start": 50.786,
+     "end": 51.002
+    },
+    {
+     "w": "palms.",
+     "start": 51.002,
+     "end": 51.219
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.667,
+   "end": 56.271,
+   "text": "Over three thousand still flowing, wells sixty meters deep, some fifteen centuries old.",
+   "words": [
+    {
+     "w": "Over",
+     "start": 51.757,
+     "end": 52.155
+    },
+    {
+     "w": "three",
+     "start": 52.155,
+     "end": 52.383
+    },
+    {
+     "w": "thousand",
+     "start": 52.383,
+     "end": 52.781
+    },
+    {
+     "w": "still",
+     "start": 52.781,
+     "end": 53.009
+    },
+    {
+     "w": "flowing,",
+     "start": 53.009,
+     "end": 53.407
+    },
+    {
+     "w": "wells",
+     "start": 53.547,
+     "end": 53.751
+    },
+    {
+     "w": "sixty",
+     "start": 53.751,
+     "end": 54.107
+    },
+    {
+     "w": "meters",
+     "start": 54.107,
+     "end": 54.463
+    },
+    {
+     "w": "deep,",
+     "start": 54.463,
+     "end": 54.667
+    },
+    {
+     "w": "some",
+     "start": 54.867,
+     "end": 55.081
+    },
+    {
+     "w": "fifteen",
+     "start": 55.081,
+     "end": 55.453
+    },
+    {
+     "w": "centuries",
+     "start": 55.453,
+     "end": 55.983
+    },
+    {
+     "w": "old.",
+     "start": 55.983,
+     "end": 56.197
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.635,
+   "end": 59.583,
+   "text": "And congrats, you just built an Omani falaj yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.755,
+     "end": 56.968
+    },
+    {
+     "w": "congrats,",
+     "start": 56.968,
+     "end": 57.338
+    },
+    {
+     "w": "you",
+     "start": 57.338,
+     "end": 57.55
+    },
+    {
+     "w": "just",
+     "start": 57.55,
+     "end": 57.763
+    },
+    {
+     "w": "built",
+     "start": 57.763,
+     "end": 57.975
+    },
+    {
+     "w": "an",
+     "start": 57.975,
+     "end": 58.188
+    },
+    {
+     "w": "Omani",
+     "start": 58.188,
+     "end": 58.715
+    },
+    {
+     "w": "falaj",
+     "start": 58.715,
+     "end": 59.085
+    },
+    {
+     "w": "yourself.",
+     "start": 59.085,
+     "end": 59.455
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.948,
+   "end": 65.594,
+   "text": "Fifteen centuries of sharing one stream with no fights, and your family still can't share one bathroom at seven a.m.",
+   "words": [
+    {
+     "w": "Fifteen",
+     "start": 60.128,
+     "end": 60.45
+    },
+    {
+     "w": "centuries",
+     "start": 60.45,
+     "end": 60.908
+    },
+    {
+     "w": "of",
+     "start": 60.908,
+     "end": 61.093
+    },
+    {
+     "w": "sharing",
+     "start": 61.093,
+     "end": 61.414
+    },
+    {
+     "w": "one",
+     "start": 61.414,
+     "end": 61.599
+    },
+    {
+     "w": "stream",
+     "start": 61.599,
+     "end": 61.784
+    },
+    {
+     "w": "with",
+     "start": 61.784,
+     "end": 61.969
+    },
+    {
+     "w": "no",
+     "start": 61.969,
+     "end": 62.153
+    },
+    {
+     "w": "fights,",
+     "start": 62.153,
+     "end": 62.338
+    },
+    {
+     "w": "and",
+     "start": 62.418,
+     "end": 62.641
+    },
+    {
+     "w": "your",
+     "start": 62.641,
+     "end": 62.865
+    },
+    {
+     "w": "family",
+     "start": 62.865,
+     "end": 63.419
+    },
+    {
+     "w": "still",
+     "start": 63.419,
+     "end": 63.643
+    },
+    {
+     "w": "can't",
+     "start": 63.643,
+     "end": 63.866
+    },
+    {
+     "w": "share",
+     "start": 63.866,
+     "end": 64.09
+    },
+    {
+     "w": "one",
+     "start": 64.09,
+     "end": 64.313
+    },
+    {
+     "w": "bathroom",
+     "start": 64.313,
+     "end": 64.702
+    },
+    {
+     "w": "at",
+     "start": 64.702,
+     "end": 64.926
+    },
+    {
+     "w": "seven",
+     "start": 64.926,
+     "end": 65.315
+    },
+    {
+     "w": "a.m.",
+     "start": 65.315,
+     "end": 65.538
+    }
+   ]
+  }
+ ]
+}
