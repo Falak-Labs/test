@@ -1,0 +1,1252 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.69,
+ "words": 226,
+ "words_per_sec": 3.44,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.625,
+   "text": "If you pile seventeen Great Pyramids of rock across the Nile, congrats, you just built the Aswan High Dam.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.337
+    },
+    {
+     "w": "you",
+     "start": 0.337,
+     "end": 0.545
+    },
+    {
+     "w": "pile",
+     "start": 0.545,
+     "end": 0.752
+    },
+    {
+     "w": "seventeen",
+     "start": 0.752,
+     "end": 1.267
+    },
+    {
+     "w": "Great",
+     "start": 1.267,
+     "end": 1.474
+    },
+    {
+     "w": "Pyramids",
+     "start": 1.474,
+     "end": 1.989
+    },
+    {
+     "w": "of",
+     "start": 1.989,
+     "end": 2.197
+    },
+    {
+     "w": "rock",
+     "start": 2.197,
+     "end": 2.404
+    },
+    {
+     "w": "across",
+     "start": 2.404,
+     "end": 2.765
+    },
+    {
+     "w": "the",
+     "start": 2.765,
+     "end": 2.973
+    },
+    {
+     "w": "Nile,",
+     "start": 2.973,
+     "end": 3.18
+    },
+    {
+     "w": "congrats,",
+     "start": 3.32,
+     "end": 3.87
+    },
+    {
+     "w": "you",
+     "start": 4.03,
+     "end": 4.226
+    },
+    {
+     "w": "just",
+     "start": 4.226,
+     "end": 4.423
+    },
+    {
+     "w": "built",
+     "start": 4.423,
+     "end": 4.619
+    },
+    {
+     "w": "the",
+     "start": 4.619,
+     "end": 4.815
+    },
+    {
+     "w": "Aswan",
+     "start": 4.815,
+     "end": 5.157
+    },
+    {
+     "w": "High",
+     "start": 5.157,
+     "end": 5.354
+    },
+    {
+     "w": "Dam.",
+     "start": 5.354,
+     "end": 5.55
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.99,
+   "end": 10.677,
+   "text": "But every summer the Nile floods: one year it drowns villages, the next it barely comes.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.12,
+     "end": 6.313
+    },
+    {
+     "w": "every",
+     "start": 6.313,
+     "end": 6.793
+    },
+    {
+     "w": "summer",
+     "start": 6.793,
+     "end": 7.13
+    },
+    {
+     "w": "the",
+     "start": 7.13,
+     "end": 7.323
+    },
+    {
+     "w": "Nile",
+     "start": 7.323,
+     "end": 7.517
+    },
+    {
+     "w": "floods:",
+     "start": 7.517,
+     "end": 7.71
+    },
+    {
+     "w": "one",
+     "start": 7.85,
+     "end": 8.051
+    },
+    {
+     "w": "year",
+     "start": 8.051,
+     "end": 8.251
+    },
+    {
+     "w": "it",
+     "start": 8.251,
+     "end": 8.452
+    },
+    {
+     "w": "drowns",
+     "start": 8.452,
+     "end": 8.653
+    },
+    {
+     "w": "villages,",
+     "start": 8.653,
+     "end": 9.151
+    },
+    {
+     "w": "the",
+     "start": 9.151,
+     "end": 9.351
+    },
+    {
+     "w": "next",
+     "start": 9.351,
+     "end": 9.552
+    },
+    {
+     "w": "it",
+     "start": 9.552,
+     "end": 9.753
+    },
+    {
+     "w": "barely",
+     "start": 9.753,
+     "end": 10.251
+    },
+    {
+     "w": "comes.",
+     "start": 10.251,
+     "end": 10.6
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 11.042,
+   "end": 15.594,
+   "text": "So you block the valley, trap the flood in a giant lake, and let it out slowly, all year.",
+   "words": [
+    {
+     "w": "So",
+     "start": 11.152,
+     "end": 11.342
+    },
+    {
+     "w": "you",
+     "start": 11.342,
+     "end": 11.532
+    },
+    {
+     "w": "block",
+     "start": 11.532,
+     "end": 11.722
+    },
+    {
+     "w": "the",
+     "start": 11.722,
+     "end": 11.911
+    },
+    {
+     "w": "valley,",
+     "start": 11.911,
+     "end": 12.242
+    },
+    {
+     "w": "trap",
+     "start": 12.392,
+     "end": 12.598
+    },
+    {
+     "w": "the",
+     "start": 12.598,
+     "end": 12.803
+    },
+    {
+     "w": "flood",
+     "start": 12.803,
+     "end": 13.009
+    },
+    {
+     "w": "in",
+     "start": 13.009,
+     "end": 13.215
+    },
+    {
+     "w": "a",
+     "start": 13.215,
+     "end": 13.421
+    },
+    {
+     "w": "giant",
+     "start": 13.421,
+     "end": 13.626
+    },
+    {
+     "w": "lake,",
+     "start": 13.626,
+     "end": 13.832
+    },
+    {
+     "w": "and",
+     "start": 13.962,
+     "end": 14.126
+    },
+    {
+     "w": "let",
+     "start": 14.126,
+     "end": 14.289
+    },
+    {
+     "w": "it",
+     "start": 14.289,
+     "end": 14.453
+    },
+    {
+     "w": "out",
+     "start": 14.453,
+     "end": 14.617
+    },
+    {
+     "w": "slowly,",
+     "start": 14.617,
+     "end": 14.902
+    },
+    {
+     "w": "all",
+     "start": 15.052,
+     "end": 15.282
+    },
+    {
+     "w": "year.",
+     "start": 15.282,
+     "end": 15.512
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 15.958,
+   "end": 19.146,
+   "text": "But that much water pushes hard enough to knock over a normal wall.",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.098,
+     "end": 16.275
+    },
+    {
+     "w": "that",
+     "start": 16.275,
+     "end": 16.452
+    },
+    {
+     "w": "much",
+     "start": 16.452,
+     "end": 16.63
+    },
+    {
+     "w": "water",
+     "start": 16.63,
+     "end": 16.938
+    },
+    {
+     "w": "pushes",
+     "start": 16.938,
+     "end": 17.247
+    },
+    {
+     "w": "hard",
+     "start": 17.247,
+     "end": 17.424
+    },
+    {
+     "w": "enough",
+     "start": 17.424,
+     "end": 17.732
+    },
+    {
+     "w": "to",
+     "start": 17.732,
+     "end": 17.909
+    },
+    {
+     "w": "knock",
+     "start": 17.909,
+     "end": 18.087
+    },
+    {
+     "w": "over",
+     "start": 18.087,
+     "end": 18.395
+    },
+    {
+     "w": "a",
+     "start": 18.395,
+     "end": 18.572
+    },
+    {
+     "w": "normal",
+     "start": 18.572,
+     "end": 18.881
+    },
+    {
+     "w": "wall.",
+     "start": 18.881,
+     "end": 19.058
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.51,
+   "end": 23.771,
+   "text": "So you build a hill instead: rock and sand, almost a kilometer thick at the bottom.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.62,
+     "end": 19.816
+    },
+    {
+     "w": "you",
+     "start": 19.816,
+     "end": 20.012
+    },
+    {
+     "w": "build",
+     "start": 20.012,
+     "end": 20.207
+    },
+    {
+     "w": "a",
+     "start": 20.207,
+     "end": 20.403
+    },
+    {
+     "w": "hill",
+     "start": 20.403,
+     "end": 20.599
+    },
+    {
+     "w": "instead:",
+     "start": 20.599,
+     "end": 20.94
+    },
+    {
+     "w": "rock",
+     "start": 21.09,
+     "end": 21.281
+    },
+    {
+     "w": "and",
+     "start": 21.281,
+     "end": 21.472
+    },
+    {
+     "w": "sand,",
+     "start": 21.472,
+     "end": 21.664
+    },
+    {
+     "w": "almost",
+     "start": 21.664,
+     "end": 21.996
+    },
+    {
+     "w": "a",
+     "start": 21.996,
+     "end": 22.188
+    },
+    {
+     "w": "kilometer",
+     "start": 22.188,
+     "end": 22.804
+    },
+    {
+     "w": "thick",
+     "start": 22.804,
+     "end": 22.995
+    },
+    {
+     "w": "at",
+     "start": 22.995,
+     "end": 23.186
+    },
+    {
+     "w": "the",
+     "start": 23.186,
+     "end": 23.377
+    },
+    {
+     "w": "bottom.",
+     "start": 23.377,
+     "end": 23.71
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.135,
+   "end": 27.469,
+   "text": "But water seeps through rock and sand, like coffee through a filter.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.275,
+     "end": 24.506
+    },
+    {
+     "w": "water",
+     "start": 24.506,
+     "end": 24.909
+    },
+    {
+     "w": "seeps",
+     "start": 24.909,
+     "end": 25.14
+    },
+    {
+     "w": "through",
+     "start": 25.14,
+     "end": 25.371
+    },
+    {
+     "w": "rock",
+     "start": 25.371,
+     "end": 25.603
+    },
+    {
+     "w": "and",
+     "start": 25.603,
+     "end": 25.834
+    },
+    {
+     "w": "sand,",
+     "start": 25.834,
+     "end": 26.065
+    },
+    {
+     "w": "like",
+     "start": 26.215,
+     "end": 26.421
+    },
+    {
+     "w": "coffee",
+     "start": 26.421,
+     "end": 26.626
+    },
+    {
+     "w": "through",
+     "start": 26.626,
+     "end": 26.832
+    },
+    {
+     "w": "a",
+     "start": 26.832,
+     "end": 27.037
+    },
+    {
+     "w": "filter.",
+     "start": 27.037,
+     "end": 27.395
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.833,
+   "end": 32.26,
+   "text": "So you give it a clay core, and pump cement deep into the riverbed so nothing sneaks under.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.943,
+     "end": 28.122
+    },
+    {
+     "w": "you",
+     "start": 28.122,
+     "end": 28.3
+    },
+    {
+     "w": "give",
+     "start": 28.3,
+     "end": 28.479
+    },
+    {
+     "w": "it",
+     "start": 28.479,
+     "end": 28.657
+    },
+    {
+     "w": "a",
+     "start": 28.657,
+     "end": 28.836
+    },
+    {
+     "w": "clay",
+     "start": 28.836,
+     "end": 29.014
+    },
+    {
+     "w": "core,",
+     "start": 29.014,
+     "end": 29.193
+    },
+    {
+     "w": "and",
+     "start": 29.343,
+     "end": 29.529
+    },
+    {
+     "w": "pump",
+     "start": 29.529,
+     "end": 29.715
+    },
+    {
+     "w": "cement",
+     "start": 29.715,
+     "end": 30.038
+    },
+    {
+     "w": "deep",
+     "start": 30.038,
+     "end": 30.224
+    },
+    {
+     "w": "into",
+     "start": 30.224,
+     "end": 30.547
+    },
+    {
+     "w": "the",
+     "start": 30.547,
+     "end": 30.733
+    },
+    {
+     "w": "riverbed",
+     "start": 30.733,
+     "end": 31.194
+    },
+    {
+     "w": "so",
+     "start": 31.194,
+     "end": 31.38
+    },
+    {
+     "w": "nothing",
+     "start": 31.38,
+     "end": 31.704
+    },
+    {
+     "w": "sneaks",
+     "start": 31.704,
+     "end": 31.89
+    },
+    {
+     "w": "under.",
+     "start": 31.89,
+     "end": 32.213
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.625,
+   "end": 34.885,
+   "text": "And how do you build in a river that never stops?",
+   "words": [
+    {
+     "w": "And",
+     "start": 32.745,
+     "end": 32.911
+    },
+    {
+     "w": "how",
+     "start": 32.911,
+     "end": 33.077
+    },
+    {
+     "w": "do",
+     "start": 33.077,
+     "end": 33.243
+    },
+    {
+     "w": "you",
+     "start": 33.243,
+     "end": 33.408
+    },
+    {
+     "w": "build",
+     "start": 33.408,
+     "end": 33.574
+    },
+    {
+     "w": "in",
+     "start": 33.574,
+     "end": 33.74
+    },
+    {
+     "w": "a",
+     "start": 33.74,
+     "end": 33.906
+    },
+    {
+     "w": "river",
+     "start": 33.906,
+     "end": 34.195
+    },
+    {
+     "w": "that",
+     "start": 34.195,
+     "end": 34.36
+    },
+    {
+     "w": "never",
+     "start": 34.36,
+     "end": 34.649
+    },
+    {
+     "w": "stops?",
+     "start": 34.649,
+     "end": 34.815
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.25,
+   "end": 39.802,
+   "text": "You blast a new channel through the granite beside it, send the Nile around, then close the gap.",
+   "words": [
+    {
+     "w": "You",
+     "start": 35.37,
+     "end": 35.552
+    },
+    {
+     "w": "blast",
+     "start": 35.552,
+     "end": 35.733
+    },
+    {
+     "w": "a",
+     "start": 35.733,
+     "end": 35.915
+    },
+    {
+     "w": "new",
+     "start": 35.915,
+     "end": 36.097
+    },
+    {
+     "w": "channel",
+     "start": 36.097,
+     "end": 36.413
+    },
+    {
+     "w": "through",
+     "start": 36.413,
+     "end": 36.594
+    },
+    {
+     "w": "the",
+     "start": 36.594,
+     "end": 36.776
+    },
+    {
+     "w": "granite",
+     "start": 36.776,
+     "end": 37.092
+    },
+    {
+     "w": "beside",
+     "start": 37.092,
+     "end": 37.408
+    },
+    {
+     "w": "it,",
+     "start": 37.408,
+     "end": 37.59
+    },
+    {
+     "w": "send",
+     "start": 37.76,
+     "end": 37.977
+    },
+    {
+     "w": "the",
+     "start": 37.977,
+     "end": 38.195
+    },
+    {
+     "w": "Nile",
+     "start": 38.195,
+     "end": 38.412
+    },
+    {
+     "w": "around,",
+     "start": 38.412,
+     "end": 38.79
+    },
+    {
+     "w": "then",
+     "start": 38.91,
+     "end": 39.095
+    },
+    {
+     "w": "close",
+     "start": 39.095,
+     "end": 39.28
+    },
+    {
+     "w": "the",
+     "start": 39.28,
+     "end": 39.465
+    },
+    {
+     "w": "gap.",
+     "start": 39.465,
+     "end": 39.65
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 40.167,
+   "end": 43.74,
+   "text": "But before you open the gates, follow, because next we're building an igloo.",
+   "words": [
+    {
+     "w": "But",
+     "start": 40.307,
+     "end": 40.465
+    },
+    {
+     "w": "before",
+     "start": 40.465,
+     "end": 40.74
+    },
+    {
+     "w": "you",
+     "start": 40.74,
+     "end": 40.898
+    },
+    {
+     "w": "open",
+     "start": 40.898,
+     "end": 41.174
+    },
+    {
+     "w": "the",
+     "start": 41.174,
+     "end": 41.332
+    },
+    {
+     "w": "gates,",
+     "start": 41.332,
+     "end": 41.607
+    },
+    {
+     "w": "follow,",
+     "start": 41.777,
+     "end": 42.097
+    },
+    {
+     "w": "because",
+     "start": 42.237,
+     "end": 42.544
+    },
+    {
+     "w": "next",
+     "start": 42.544,
+     "end": 42.72
+    },
+    {
+     "w": "we're",
+     "start": 42.72,
+     "end": 42.897
+    },
+    {
+     "w": "building",
+     "start": 42.897,
+     "end": 43.204
+    },
+    {
+     "w": "an",
+     "start": 43.204,
+     "end": 43.38
+    },
+    {
+     "w": "igloo.",
+     "start": 43.38,
+     "end": 43.687
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 44.104,
+   "end": 50.542,
+   "text": "Behind it, a lake five hundred kilometers long fills, so the giant statues of Abu Simbel are cut up and lifted to safety.",
+   "words": [
+    {
+     "w": "Behind",
+     "start": 44.214,
+     "end": 44.551
+    },
+    {
+     "w": "it,",
+     "start": 44.551,
+     "end": 44.744
+    },
+    {
+     "w": "a",
+     "start": 44.924,
+     "end": 45.129
+    },
+    {
+     "w": "lake",
+     "start": 45.129,
+     "end": 45.334
+    },
+    {
+     "w": "five",
+     "start": 45.334,
+     "end": 45.538
+    },
+    {
+     "w": "hundred",
+     "start": 45.538,
+     "end": 45.895
+    },
+    {
+     "w": "kilometers",
+     "start": 45.895,
+     "end": 46.554
+    },
+    {
+     "w": "long",
+     "start": 46.554,
+     "end": 46.759
+    },
+    {
+     "w": "fills,",
+     "start": 46.759,
+     "end": 46.964
+    },
+    {
+     "w": "so",
+     "start": 47.104,
+     "end": 47.285
+    },
+    {
+     "w": "the",
+     "start": 47.285,
+     "end": 47.466
+    },
+    {
+     "w": "giant",
+     "start": 47.466,
+     "end": 47.647
+    },
+    {
+     "w": "statues",
+     "start": 47.647,
+     "end": 47.962
+    },
+    {
+     "w": "of",
+     "start": 47.962,
+     "end": 48.144
+    },
+    {
+     "w": "Abu",
+     "start": 48.144,
+     "end": 48.459
+    },
+    {
+     "w": "Simbel",
+     "start": 48.459,
+     "end": 48.774
+    },
+    {
+     "w": "are",
+     "start": 48.774,
+     "end": 48.955
+    },
+    {
+     "w": "cut",
+     "start": 48.955,
+     "end": 49.136
+    },
+    {
+     "w": "up",
+     "start": 49.136,
+     "end": 49.317
+    },
+    {
+     "w": "and",
+     "start": 49.317,
+     "end": 49.498
+    },
+    {
+     "w": "lifted",
+     "start": 49.498,
+     "end": 49.814
+    },
+    {
+     "w": "to",
+     "start": 49.814,
+     "end": 49.995
+    },
+    {
+     "w": "safety.",
+     "start": 49.995,
+     "end": 50.444
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 50.906,
+   "end": 56.469,
+   "text": "A hundred and eleven meters tall, almost four kilometers long, and once, half of Egypt's electricity.",
+   "words": [
+    {
+     "w": "A",
+     "start": 51.026,
+     "end": 51.211
+    },
+    {
+     "w": "hundred",
+     "start": 51.211,
+     "end": 51.534
+    },
+    {
+     "w": "and",
+     "start": 51.534,
+     "end": 51.719
+    },
+    {
+     "w": "eleven",
+     "start": 51.719,
+     "end": 52.178
+    },
+    {
+     "w": "meters",
+     "start": 52.178,
+     "end": 52.501
+    },
+    {
+     "w": "tall,",
+     "start": 52.501,
+     "end": 52.686
+    },
+    {
+     "w": "almost",
+     "start": 52.816,
+     "end": 53.196
+    },
+    {
+     "w": "four",
+     "start": 53.196,
+     "end": 53.414
+    },
+    {
+     "w": "kilometers",
+     "start": 53.414,
+     "end": 54.118
+    },
+    {
+     "w": "long,",
+     "start": 54.118,
+     "end": 54.336
+    },
+    {
+     "w": "and",
+     "start": 54.476,
+     "end": 54.726
+    },
+    {
+     "w": "once,",
+     "start": 54.726,
+     "end": 54.976
+    },
+    {
+     "w": "half",
+     "start": 55.126,
+     "end": 55.292
+    },
+    {
+     "w": "of",
+     "start": 55.292,
+     "end": 55.458
+    },
+    {
+     "w": "Egypt's",
+     "start": 55.458,
+     "end": 55.748
+    },
+    {
+     "w": "electricity.",
+     "start": 55.748,
+     "end": 56.406
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.833,
+   "end": 59.802,
+   "text": "And congrats, you just built the Aswan High Dam yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.953,
+     "end": 57.216
+    },
+    {
+     "w": "congrats,",
+     "start": 57.216,
+     "end": 57.673
+    },
+    {
+     "w": "you",
+     "start": 57.803,
+     "end": 57.999
+    },
+    {
+     "w": "just",
+     "start": 57.999,
+     "end": 58.195
+    },
+    {
+     "w": "built",
+     "start": 58.195,
+     "end": 58.392
+    },
+    {
+     "w": "the",
+     "start": 58.392,
+     "end": 58.588
+    },
+    {
+     "w": "Aswan",
+     "start": 58.588,
+     "end": 58.929
+    },
+    {
+     "w": "High",
+     "start": 58.929,
+     "end": 59.125
+    },
+    {
+     "w": "Dam",
+     "start": 59.125,
+     "end": 59.322
+    },
+    {
+     "w": "yourself.",
+     "start": 59.322,
+     "end": 59.663
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 60.167,
+   "end": 65.708,
+   "text": "It holds back a lake five hundred kilometers long, and your water still cuts off when your hair is full of shampoo.",
+   "words": [
+    {
+     "w": "It",
+     "start": 60.307,
+     "end": 60.514
+    },
+    {
+     "w": "holds",
+     "start": 60.514,
+     "end": 60.722
+    },
+    {
+     "w": "back",
+     "start": 60.722,
+     "end": 60.929
+    },
+    {
+     "w": "a",
+     "start": 60.929,
+     "end": 61.136
+    },
+    {
+     "w": "lake",
+     "start": 61.136,
+     "end": 61.344
+    },
+    {
+     "w": "five",
+     "start": 61.344,
+     "end": 61.551
+    },
+    {
+     "w": "hundred",
+     "start": 61.551,
+     "end": 61.912
+    },
+    {
+     "w": "kilometers",
+     "start": 61.912,
+     "end": 62.58
+    },
+    {
+     "w": "long,",
+     "start": 62.58,
+     "end": 62.787
+    },
+    {
+     "w": "and",
+     "start": 62.917,
+     "end": 63.105
+    },
+    {
+     "w": "your",
+     "start": 63.105,
+     "end": 63.293
+    },
+    {
+     "w": "water",
+     "start": 63.293,
+     "end": 63.62
+    },
+    {
+     "w": "still",
+     "start": 63.62,
+     "end": 63.807
+    },
+    {
+     "w": "cuts",
+     "start": 63.807,
+     "end": 63.995
+    },
+    {
+     "w": "off",
+     "start": 63.995,
+     "end": 64.183
+    },
+    {
+     "w": "when",
+     "start": 64.183,
+     "end": 64.371
+    },
+    {
+     "w": "your",
+     "start": 64.371,
+     "end": 64.559
+    },
+    {
+     "w": "hair",
+     "start": 64.559,
+     "end": 64.747
+    },
+    {
+     "w": "is",
+     "start": 64.747,
+     "end": 64.934
+    },
+    {
+     "w": "full",
+     "start": 64.934,
+     "end": 65.122
+    },
+    {
+     "w": "of",
+     "start": 65.122,
+     "end": 65.31
+    },
+    {
+     "w": "shampoo.",
+     "start": 65.31,
+     "end": 65.637
+    }
+   ]
+  }
+ ]
+}
