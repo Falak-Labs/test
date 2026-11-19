@@ -650,3 +650,46 @@
   Thu Nov 19 PT (state/ep40-42 checked by turning every dueAt back into PT).
 - Arabic 38 TikTok got "potential spam" at 20:00Z: requeued to 05:00Z Nov 19 (21:00 PT Nov 18), 3 h from Arabic 37's
   requeue (02:00Z) and 40's (08:00Z). Arabic TikTok is refusing about one post a day: keep 3 h between Arabic TikToks.
+
+## Nov 18 2026 (evening run, 18:37 PT): 43 Great Wall of China, 44 Omani falaj, 45 Machu Picchu (for Thu Nov 19)
+- TODAY Nov 18 PT, TOMORROW Thu Nov 19 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT before the
+  push). PST: Arabic 09:00 / 12:00 / 15:00 PT = 17:00Z / 20:00Z / 23:00Z Nov 19; English 13:30 / 16:00 / 18:30 PT =
+  21:30Z Nov 19 / 00:00Z / 02:30Z Nov 20.
+- Status 02:40Z: English 37-39 all live; Arabic 35-36 and 37-39 Instagram + YouTube live. Arabic TikTok refused all three
+  of the day ("potential spam": 37 twice, 38, 39). 38 waits for 05:00Z Nov 19; 37 and 39 requeued to 02:00Z and 05:00Z
+  Nov 20 (one requeue call can carry several slug=time pairs). With seven Arabic TikToks a day from Nov 19 (05, 08, 11,
+  14, 17, 20, 23Z) the only 3-hour gaps left are at night UTC: put refused Arabic TikToks at 02:00Z / 05:00Z.
+- Pages: retired ep25-ep27 (all sent): media/ 619 -> 515 MB before tonight's videos. Next to retire: ep28-ep30.
+- A/B test: 43 and 45 are odd -> `greatwall` and `machupicchu` added to voices.yml ar_alt.kits (Mansour, Saudi scripts);
+  44 falaj is Egyptian.
+- Voices: Easton 64.6 / 65.6 / 70.1 s at first (226 / 224 / 226 words): Machu Picchu was too long (the name, Pachacuti,
+  "fourteen fifty"); trimmed to 215 words -> 65.8 s. Whisper small then caught "Ming" -> "main" (twice, even as "the Ming
+  dynasty": now "Centuries later, it's rebuilt in brick"), "in sight of" -> "inside of" (now "that can see each other"),
+  "so gently sloped" -> "slope", "wells sixty" -> "while 60", "so well hidden" -> "so while hidden". English remakes are
+  free: langs=en force=true. Final: greatwall 65.2 s, falaj 65.5 s, machupicchu 65.8 s.
+  ElevenLabs one take each (Arabic): Mansour greatwall 66.0 s (157 words, tempo 1.04: faster than barrier), Egyptian falaj
+  68.6 s (168 words, 1.12 cap), Mansour machupicchu 68.5 s (159 words, 1.12 cap). check_ar_voice: no weak lines except
+  the digit lines (greatwall 12 at 34%, falaj 12 at 31%); "ماتشو بيتشو" is heard as "ما تشو بيتشو"-like (name only).
+- A Make voices run hung 20+ minutes in apt-get ("ffmpeg and the libraries Skia needs"): cancel it and dispatch again.
+- Scenes (all three on v2_base, look 2):
+  - greatwall.py (ridge, plain, gobi, mortar, beacon, chat): crest(x, seed) sine crests for three parallax ranges,
+    wall_on(c, fn, x0, x1, u) draws a wall along any crest function (band, lit walkway, merlons, shadow), tower() with
+    arched windows and a beacon fire, smoke_col() = v2.smoke columns (n columns for "five smokes"), horse() galloping
+    rider with banner (rear for the cliff), house_cn(), tent(), bowl() of rice soup, earth_globe() with a >180 degree
+    arc, wok(), crystals() magnifier (loose vs packed), phone_chat() for the tag, wolf_icon(). The beacon relay timing
+    adapts (dt_relay) so the last tower lights before "one smoke".
+  - falaj.py (oasis, section, dig, aerial, share, bath): channel() side view of the stone channel with a flow front,
+    mouth(), mudhouse(), fort_tower(), section with surf(x) plain + aquifer band + mother well + tunnel_pts() and
+    windtower.flow() for the water, dig set with pick_digger() + timer() + lit shafts + windlass()/basket(), an aerial
+    set (dotted line of shaft mounds + plane), share set with gates that open one at a time + sundial() + night stars,
+    door_queue() for the tag (bathroom at 7 a.m.). Imports palm (pyramid), flow/sun/heat_lines/arrow/plug_off
+    (windtower), pump (panama).
+  - machupicchu.py (city, slope, layers, water, quake, stones, ac): huayna() peak, front_terraces() = the terraced slope
+    seen from the front (grey wall bands + green steps, widening downward) - this is what makes it read as Machu Picchu;
+    side-view terraces did not show at all. house() stone houses with a side face, trapezoid door, thatched gable.
+    gauge() rain tube with a person for scale, helmet() for "the Spanish never found it", ashlar_stones() polygons,
+    a trapezoid doorway, window_ac() + facade() for the tag.
+- Framing lessons tonight: put the ground at screen y ~1000-1150 (camera cy so that (0 - cy) * z + 960 lands there),
+  never in 1240-1420; when a section diagram is wider than the frame, pan along it (well -> village -> wide) instead of
+  zooming out to 0.4; fill everything under a close-up set (a sky gradient left under a wall shows a bright band).
+- falaj's first produce run was cancelled to render it again with a closer closer shot (bigger channel on the cover).
