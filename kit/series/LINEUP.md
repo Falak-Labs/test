@@ -31,9 +31,9 @@ Rules:
 40. the Panama Canal locks (promised by 39) (taken: midday run of 2026-11-18)
 41. the Dutch storm surge barrier, Maeslantkering (taken: midday run of 2026-11-18)
 42. Venice built on wooden piles (taken: midday run of 2026-11-18)
-43. the Great Wall of China
-44. an Omani falaj water channel
-45. Machu Picchu's terraces
+43. the Great Wall of China (taken: evening run of 2026-11-18)
+44. an Omani falaj water channel (taken: evening run of 2026-11-18)
+45. Machu Picchu's terraces (taken: evening run of 2026-11-18)
 46. the Aswan High Dam
 47. an igloo
 48. a Moroccan riad with its courtyard
