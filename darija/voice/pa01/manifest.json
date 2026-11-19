@@ -15,34 +15,11 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 511,
+ "requested_characters": 77,
  "recorded_this_run": [
   "h1",
-  "h2",
-  "p01t",
-  "p02t",
-  "p03t",
-  "p04t",
-  "p05t",
-  "p05k",
-  "r0",
-  "w0",
-  "tw",
-  "w2",
   "w3",
-  "w4",
-  "w6",
-  "v0",
-  "v1",
-  "v1b",
-  "v2",
-  "o1",
-  "T_con",
-  "T_grat",
-  "T_you",
-  "T_lay",
-  "T_shuns",
-  "sT"
+  "v2"
  ],
  "notes": [],
  "lines": [
@@ -50,10 +27,10 @@
    "id": "h1",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "مرحبا! بتعرف كيف تحكي مبروك بالإنجليزي؟",
-   "characters": 39,
+   "text": "مرحبا! بتعرف كيف تحكي مَبْروك بالإنجليزي؟",
+   "characters": 41,
    "model": "eleven_v4",
-   "seconds": 3.36
+   "seconds": 3.92
   },
   {
    "id": "h2",
@@ -194,8 +171,8 @@
    "id": "w3",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "هسا أسرع!",
-   "characters": 9,
+   "text": "هسا أَسْرَع!",
+   "characters": 12,
    "model": "eleven_v4",
    "seconds": 1.52
   },
@@ -257,8 +234,8 @@
    "id": "v2",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "مبروك! نجحت بالتوجيهي!",
-   "characters": 22,
+   "text": "مَبْروك! نجحت بالتوجيهي!",
+   "characters": 24,
    "model": "eleven_v4",
    "seconds": 2.4
   },
