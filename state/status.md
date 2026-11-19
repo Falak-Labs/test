@@ -1,4 +1,4 @@
-# Post status 2026-11-19T02:51:31+00:00
+# Post status 2026-11-19T04:28:33+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -254,3 +254,15 @@
 | ep42-venice | en.instagram | scheduled |  | 2026-11-19T19:00:00.000Z |
 | ep42-venice | en.tiktok | scheduled |  | 2026-11-19T19:00:00.000Z |
 | ep42-venice | en.youtube | scheduled |  | 2026-11-19T19:00:00.000Z |
+| ep43-greatwall | ar.instagram | scheduled |  | 2026-11-19T17:00:00.000Z |
+| ep43-greatwall | ar.tiktok | scheduled |  | 2026-11-19T17:00:00.000Z |
+| ep43-greatwall | ar.youtube | scheduled |  | 2026-11-19T17:00:00.000Z |
+| ep43-greatwall | en.instagram | scheduled |  | 2026-11-19T21:30:00.000Z |
+| ep43-greatwall | en.tiktok | scheduled |  | 2026-11-19T21:30:00.000Z |
+| ep43-greatwall | en.youtube | scheduled |  | 2026-11-19T21:30:00.000Z |
+| ep44-falaj | ar.instagram | scheduled |  | 2026-11-19T20:00:00.000Z |
+| ep44-falaj | ar.tiktok | scheduled |  | 2026-11-19T20:00:00.000Z |
+| ep44-falaj | ar.youtube | scheduled |  | 2026-11-19T20:00:00.000Z |
+| ep44-falaj | en.instagram | scheduled |  | 2026-11-20T00:00:00.000Z |
+| ep44-falaj | en.tiktok | scheduled |  | 2026-11-20T00:00:00.000Z |
+| ep44-falaj | en.youtube | scheduled |  | 2026-11-20T00:00:00.000Z |
