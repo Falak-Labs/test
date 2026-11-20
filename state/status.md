@@ -1,4 +1,4 @@
-# Post status 2026-11-20T19:29:20+00:00
+# Post status 2026-11-20T19:45:09+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -282,12 +282,12 @@
 | ep47-igloo | ar.tiktok | sent |  | 2026-11-20T11:02:37.369Z https://www.tiktok.com/@kef.tenbeni/video/7710207127872097549?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep47-igloo | en.instagram | sent |  | 2026-11-20T16:33:29.870Z https://www.instagram.com/reel/Df-FznpQFmi/ |
 | ep47-igloo | en.tiktok | sent |  | 2026-11-20T16:33:08.692Z https://www.tiktok.com/@congratsengineer/video/7710292308058443022?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
-| ep48-riad | ar.instagram | error | It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications. | 2026-11-20T14:00:00.000Z |
-| ep48-riad | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-20T14:00:00.000Z |
+| ep48-riad | ar.instagram | scheduled | It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications. | 2026-11-20T21:00:00.000Z |
+| ep48-riad | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T01:30:00.000Z |
 | ep48-riad | en.instagram | sent |  | 2026-11-20T19:05:12.557Z https://www.instagram.com/reel/Df-XNADPkRO/ |
 | ep48-riad | en.tiktok | sent |  | 2026-11-20T19:03:23.189Z https://tiktok.com/@congratsengineer/video/7710330949552147726 |
 | ep49-hagiasophia | ar.instagram | sent |  | 2026-11-20T17:05:53.535Z https://www.instagram.com/reel/Df-JiqchH_O/ |
-| ep49-hagiasophia | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-20T17:00:00.000Z |
+| ep49-hagiasophia | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T04:30:00.000Z |
 | ep49-hagiasophia | ar.youtube | sent |  | 2026-11-20T17:02:22.230Z https://www.youtube.com/shorts/CrimuU8-5fE |
 | ep49-hagiasophia | en.instagram | scheduled |  | 2026-11-20T21:30:00.000Z |
 | ep49-hagiasophia | en.tiktok | scheduled |  | 2026-11-20T21:30:00.000Z |
