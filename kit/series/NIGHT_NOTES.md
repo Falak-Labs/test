@@ -873,3 +873,6 @@
   - Told him: payouts in a couple of months are unlikely at this pace; proposed 3 builds a day again with the effort
     going into the first seconds, English TikTok + English YouTube as the money targets, and one long YouTube
     compilation a week (watch hours, long-form ad rates). WAITING for his yes/no: do not change the pace until he answers.
+  - The config.yml push (05:28Z Nov 20) started post.yml, as any config.yml push does: it scheduled 50's waiting Arabic
+    TikTok (20:00Z Nov 20) because the queue had one free place; 51's Arabic TikTok still waits (10 queued). Nothing
+    else changed. The money plan is saved as the project doc claude/build-it-money-plan.md.
