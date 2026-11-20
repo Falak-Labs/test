@@ -1,0 +1,1267 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 66.5,
+ "words": 229,
+ "words_per_sec": 3.44,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.094,
+   "text": "If you can float a brick dome over thirty meters wide on a ring of light, congrats, you just built the Hagia Sophia's dome.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.341
+    },
+    {
+     "w": "you",
+     "start": 0.341,
+     "end": 0.553
+    },
+    {
+     "w": "can",
+     "start": 0.553,
+     "end": 0.764
+    },
+    {
+     "w": "float",
+     "start": 0.764,
+     "end": 0.975
+    },
+    {
+     "w": "a",
+     "start": 0.975,
+     "end": 1.186
+    },
+    {
+     "w": "brick",
+     "start": 1.186,
+     "end": 1.398
+    },
+    {
+     "w": "dome",
+     "start": 1.398,
+     "end": 1.609
+    },
+    {
+     "w": "over",
+     "start": 1.609,
+     "end": 1.977
+    },
+    {
+     "w": "thirty",
+     "start": 1.977,
+     "end": 2.345
+    },
+    {
+     "w": "meters",
+     "start": 2.345,
+     "end": 2.712
+    },
+    {
+     "w": "wide",
+     "start": 2.712,
+     "end": 2.924
+    },
+    {
+     "w": "on",
+     "start": 2.924,
+     "end": 3.135
+    },
+    {
+     "w": "a",
+     "start": 3.135,
+     "end": 3.346
+    },
+    {
+     "w": "ring",
+     "start": 3.346,
+     "end": 3.557
+    },
+    {
+     "w": "of",
+     "start": 3.557,
+     "end": 3.769
+    },
+    {
+     "w": "light,",
+     "start": 3.769,
+     "end": 3.98
+    },
+    {
+     "w": "congrats,",
+     "start": 4.03,
+     "end": 4.52
+    },
+    {
+     "w": "you",
+     "start": 4.59,
+     "end": 4.757
+    },
+    {
+     "w": "just",
+     "start": 4.757,
+     "end": 4.925
+    },
+    {
+     "w": "built",
+     "start": 4.925,
+     "end": 5.092
+    },
+    {
+     "w": "the",
+     "start": 5.092,
+     "end": 5.26
+    },
+    {
+     "w": "Hagia",
+     "start": 5.26,
+     "end": 5.551
+    },
+    {
+     "w": "Sophia's",
+     "start": 5.551,
+     "end": 5.843
+    },
+    {
+     "w": "dome.",
+     "start": 5.843,
+     "end": 6.01
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.458,
+   "end": 10.094,
+   "text": "But a dome needs round walls, and the emperor wants a giant square hall.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.598,
+     "end": 6.819
+    },
+    {
+     "w": "a",
+     "start": 6.819,
+     "end": 7.04
+    },
+    {
+     "w": "dome",
+     "start": 7.04,
+     "end": 7.261
+    },
+    {
+     "w": "needs",
+     "start": 7.261,
+     "end": 7.482
+    },
+    {
+     "w": "round",
+     "start": 7.482,
+     "end": 7.703
+    },
+    {
+     "w": "walls,",
+     "start": 7.703,
+     "end": 7.923
+    },
+    {
+     "w": "and",
+     "start": 7.923,
+     "end": 8.144
+    },
+    {
+     "w": "the",
+     "start": 8.144,
+     "end": 8.365
+    },
+    {
+     "w": "emperor",
+     "start": 8.365,
+     "end": 8.913
+    },
+    {
+     "w": "wants",
+     "start": 8.913,
+     "end": 9.134
+    },
+    {
+     "w": "a",
+     "start": 9.134,
+     "end": 9.355
+    },
+    {
+     "w": "giant",
+     "start": 9.355,
+     "end": 9.576
+    },
+    {
+     "w": "square",
+     "start": 9.576,
+     "end": 9.797
+    },
+    {
+     "w": "hall.",
+     "start": 9.797,
+     "end": 10.018
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.458,
+   "end": 15.792,
+   "text": "So you raise four huge arches and fill the corners with curved brick triangles, turning the square into a circle.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.568,
+     "end": 10.779
+    },
+    {
+     "w": "you",
+     "start": 10.779,
+     "end": 10.989
+    },
+    {
+     "w": "raise",
+     "start": 10.989,
+     "end": 11.2
+    },
+    {
+     "w": "four",
+     "start": 11.2,
+     "end": 11.411
+    },
+    {
+     "w": "huge",
+     "start": 11.411,
+     "end": 11.621
+    },
+    {
+     "w": "arches",
+     "start": 11.621,
+     "end": 11.988
+    },
+    {
+     "w": "and",
+     "start": 11.988,
+     "end": 12.199
+    },
+    {
+     "w": "fill",
+     "start": 12.199,
+     "end": 12.41
+    },
+    {
+     "w": "the",
+     "start": 12.41,
+     "end": 12.62
+    },
+    {
+     "w": "corners",
+     "start": 12.62,
+     "end": 12.987
+    },
+    {
+     "w": "with",
+     "start": 12.987,
+     "end": 13.198
+    },
+    {
+     "w": "curved",
+     "start": 13.198,
+     "end": 13.564
+    },
+    {
+     "w": "brick",
+     "start": 13.564,
+     "end": 13.775
+    },
+    {
+     "w": "triangles,",
+     "start": 13.775,
+     "end": 14.142
+    },
+    {
+     "w": "turning",
+     "start": 14.142,
+     "end": 14.509
+    },
+    {
+     "w": "the",
+     "start": 14.509,
+     "end": 14.719
+    },
+    {
+     "w": "square",
+     "start": 14.719,
+     "end": 14.93
+    },
+    {
+     "w": "into",
+     "start": 14.93,
+     "end": 15.297
+    },
+    {
+     "w": "a",
+     "start": 15.297,
+     "end": 15.507
+    },
+    {
+     "w": "circle.",
+     "start": 15.507,
+     "end": 15.718
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.156,
+   "end": 19.542,
+   "text": "But a dome that heavy pushes outward, and the arches start to spread.",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.286,
+     "end": 16.482
+    },
+    {
+     "w": "a",
+     "start": 16.482,
+     "end": 16.679
+    },
+    {
+     "w": "dome",
+     "start": 16.679,
+     "end": 16.875
+    },
+    {
+     "w": "that",
+     "start": 16.875,
+     "end": 17.071
+    },
+    {
+     "w": "heavy",
+     "start": 17.071,
+     "end": 17.413
+    },
+    {
+     "w": "pushes",
+     "start": 17.413,
+     "end": 17.754
+    },
+    {
+     "w": "outward,",
+     "start": 17.754,
+     "end": 18.096
+    },
+    {
+     "w": "and",
+     "start": 18.246,
+     "end": 18.428
+    },
+    {
+     "w": "the",
+     "start": 18.428,
+     "end": 18.611
+    },
+    {
+     "w": "arches",
+     "start": 18.611,
+     "end": 18.929
+    },
+    {
+     "w": "start",
+     "start": 18.929,
+     "end": 19.111
+    },
+    {
+     "w": "to",
+     "start": 19.111,
+     "end": 19.294
+    },
+    {
+     "w": "spread.",
+     "start": 19.294,
+     "end": 19.476
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.906,
+   "end": 24.167,
+   "text": "So half domes lean on both ends, and giant buttresses on the sides catch the push.",
+   "words": [
+    {
+     "w": "So",
+     "start": 20.016,
+     "end": 20.241
+    },
+    {
+     "w": "half",
+     "start": 20.241,
+     "end": 20.466
+    },
+    {
+     "w": "domes",
+     "start": 20.466,
+     "end": 20.857
+    },
+    {
+     "w": "lean",
+     "start": 20.857,
+     "end": 21.082
+    },
+    {
+     "w": "on",
+     "start": 21.082,
+     "end": 21.306
+    },
+    {
+     "w": "both",
+     "start": 21.306,
+     "end": 21.531
+    },
+    {
+     "w": "ends,",
+     "start": 21.531,
+     "end": 21.756
+    },
+    {
+     "w": "and",
+     "start": 21.876,
+     "end": 22.074
+    },
+    {
+     "w": "giant",
+     "start": 22.074,
+     "end": 22.272
+    },
+    {
+     "w": "buttresses",
+     "start": 22.272,
+     "end": 22.763
+    },
+    {
+     "w": "on",
+     "start": 22.763,
+     "end": 22.96
+    },
+    {
+     "w": "the",
+     "start": 22.96,
+     "end": 23.158
+    },
+    {
+     "w": "sides",
+     "start": 23.158,
+     "end": 23.503
+    },
+    {
+     "w": "catch",
+     "start": 23.503,
+     "end": 23.7
+    },
+    {
+     "w": "the",
+     "start": 23.7,
+     "end": 23.898
+    },
+    {
+     "w": "push.",
+     "start": 23.898,
+     "end": 24.096
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.531,
+   "end": 27.948,
+   "text": "But a solid dome would crush itself, and the hall below would be dark.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.661,
+     "end": 24.855
+    },
+    {
+     "w": "a",
+     "start": 24.855,
+     "end": 25.049
+    },
+    {
+     "w": "solid",
+     "start": 25.049,
+     "end": 25.387
+    },
+    {
+     "w": "dome",
+     "start": 25.387,
+     "end": 25.582
+    },
+    {
+     "w": "would",
+     "start": 25.582,
+     "end": 25.776
+    },
+    {
+     "w": "crush",
+     "start": 25.776,
+     "end": 25.97
+    },
+    {
+     "w": "itself,",
+     "start": 25.97,
+     "end": 26.308
+    },
+    {
+     "w": "and",
+     "start": 26.308,
+     "end": 26.502
+    },
+    {
+     "w": "the",
+     "start": 26.502,
+     "end": 26.696
+    },
+    {
+     "w": "hall",
+     "start": 26.696,
+     "end": 26.89
+    },
+    {
+     "w": "below",
+     "start": 26.89,
+     "end": 27.228
+    },
+    {
+     "w": "would",
+     "start": 27.228,
+     "end": 27.423
+    },
+    {
+     "w": "be",
+     "start": 27.423,
+     "end": 27.617
+    },
+    {
+     "w": "dark.",
+     "start": 27.617,
+     "end": 27.811
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 28.312,
+   "end": 32.198,
+   "text": "So you build forty thin ribs, with forty windows between them around the base.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.422,
+     "end": 28.645
+    },
+    {
+     "w": "you",
+     "start": 28.645,
+     "end": 28.867
+    },
+    {
+     "w": "build",
+     "start": 28.867,
+     "end": 29.09
+    },
+    {
+     "w": "forty",
+     "start": 29.09,
+     "end": 29.477
+    },
+    {
+     "w": "thin",
+     "start": 29.477,
+     "end": 29.699
+    },
+    {
+     "w": "ribs,",
+     "start": 29.699,
+     "end": 29.922
+    },
+    {
+     "w": "with",
+     "start": 30.052,
+     "end": 30.242
+    },
+    {
+     "w": "forty",
+     "start": 30.242,
+     "end": 30.572
+    },
+    {
+     "w": "windows",
+     "start": 30.572,
+     "end": 30.902
+    },
+    {
+     "w": "between",
+     "start": 30.902,
+     "end": 31.233
+    },
+    {
+     "w": "them",
+     "start": 31.233,
+     "end": 31.422
+    },
+    {
+     "w": "around",
+     "start": 31.422,
+     "end": 31.753
+    },
+    {
+     "w": "the",
+     "start": 31.753,
+     "end": 31.942
+    },
+    {
+     "w": "base.",
+     "start": 31.942,
+     "end": 32.132
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.562,
+   "end": 36.99,
+   "text": "But this is earthquake country, and twenty-one years later, the first dome came crashing down.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.702,
+     "end": 32.899
+    },
+    {
+     "w": "this",
+     "start": 32.899,
+     "end": 33.097
+    },
+    {
+     "w": "is",
+     "start": 33.097,
+     "end": 33.294
+    },
+    {
+     "w": "earthquake",
+     "start": 33.294,
+     "end": 33.638
+    },
+    {
+     "w": "country,",
+     "start": 33.638,
+     "end": 33.982
+    },
+    {
+     "w": "and",
+     "start": 34.142,
+     "end": 34.35
+    },
+    {
+     "w": "twenty-one",
+     "start": 34.35,
+     "end": 34.712
+    },
+    {
+     "w": "years",
+     "start": 34.712,
+     "end": 34.92
+    },
+    {
+     "w": "later,",
+     "start": 34.92,
+     "end": 35.282
+    },
+    {
+     "w": "the",
+     "start": 35.412,
+     "end": 35.637
+    },
+    {
+     "w": "first",
+     "start": 35.637,
+     "end": 35.863
+    },
+    {
+     "w": "dome",
+     "start": 35.863,
+     "end": 36.088
+    },
+    {
+     "w": "came",
+     "start": 36.088,
+     "end": 36.314
+    },
+    {
+     "w": "crashing",
+     "start": 36.314,
+     "end": 36.707
+    },
+    {
+     "w": "down.",
+     "start": 36.707,
+     "end": 36.932
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 37.354,
+   "end": 43.281,
+   "text": "So they rebuilt it steeper, so it pushes out less, in mortar as thick as the bricks, so it bends instead of breaking.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.464,
+     "end": 37.665
+    },
+    {
+     "w": "they",
+     "start": 37.665,
+     "end": 37.865
+    },
+    {
+     "w": "rebuilt",
+     "start": 37.865,
+     "end": 38.214
+    },
+    {
+     "w": "it",
+     "start": 38.214,
+     "end": 38.415
+    },
+    {
+     "w": "steeper,",
+     "start": 38.415,
+     "end": 38.764
+    },
+    {
+     "w": "so",
+     "start": 38.894,
+     "end": 39.094
+    },
+    {
+     "w": "it",
+     "start": 39.094,
+     "end": 39.295
+    },
+    {
+     "w": "pushes",
+     "start": 39.295,
+     "end": 39.643
+    },
+    {
+     "w": "out",
+     "start": 39.643,
+     "end": 39.844
+    },
+    {
+     "w": "less,",
+     "start": 39.844,
+     "end": 40.044
+    },
+    {
+     "w": "in",
+     "start": 40.184,
+     "end": 40.383
+    },
+    {
+     "w": "mortar",
+     "start": 40.383,
+     "end": 40.729
+    },
+    {
+     "w": "as",
+     "start": 40.729,
+     "end": 40.928
+    },
+    {
+     "w": "thick",
+     "start": 40.928,
+     "end": 41.127
+    },
+    {
+     "w": "as",
+     "start": 41.127,
+     "end": 41.326
+    },
+    {
+     "w": "the",
+     "start": 41.326,
+     "end": 41.525
+    },
+    {
+     "w": "bricks,",
+     "start": 41.525,
+     "end": 41.724
+    },
+    {
+     "w": "so",
+     "start": 41.884,
+     "end": 42.063
+    },
+    {
+     "w": "it",
+     "start": 42.063,
+     "end": 42.242
+    },
+    {
+     "w": "bends",
+     "start": 42.242,
+     "end": 42.421
+    },
+    {
+     "w": "instead",
+     "start": 42.421,
+     "end": 42.733
+    },
+    {
+     "w": "of",
+     "start": 42.733,
+     "end": 42.912
+    },
+    {
+     "w": "breaking.",
+     "start": 42.912,
+     "end": 43.224
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 43.646,
+   "end": 48.323,
+   "text": "But before you look up, follow, because next we're building a Korean floor that heats the whole house.",
+   "words": [
+    {
+     "w": "But",
+     "start": 43.786,
+     "end": 43.945
+    },
+    {
+     "w": "before",
+     "start": 43.945,
+     "end": 44.22
+    },
+    {
+     "w": "you",
+     "start": 44.22,
+     "end": 44.379
+    },
+    {
+     "w": "look",
+     "start": 44.379,
+     "end": 44.537
+    },
+    {
+     "w": "up,",
+     "start": 44.537,
+     "end": 44.696
+    },
+    {
+     "w": "follow,",
+     "start": 44.886,
+     "end": 45.226
+    },
+    {
+     "w": "because",
+     "start": 45.336,
+     "end": 45.692
+    },
+    {
+     "w": "next",
+     "start": 45.692,
+     "end": 45.897
+    },
+    {
+     "w": "we're",
+     "start": 45.897,
+     "end": 46.101
+    },
+    {
+     "w": "building",
+     "start": 46.101,
+     "end": 46.458
+    },
+    {
+     "w": "a",
+     "start": 46.458,
+     "end": 46.662
+    },
+    {
+     "w": "Korean",
+     "start": 46.662,
+     "end": 47.018
+    },
+    {
+     "w": "floor",
+     "start": 47.018,
+     "end": 47.223
+    },
+    {
+     "w": "that",
+     "start": 47.223,
+     "end": 47.428
+    },
+    {
+     "w": "heats",
+     "start": 47.428,
+     "end": 47.632
+    },
+    {
+     "w": "the",
+     "start": 47.632,
+     "end": 47.837
+    },
+    {
+     "w": "whole",
+     "start": 47.837,
+     "end": 48.041
+    },
+    {
+     "w": "house.",
+     "start": 48.041,
+     "end": 48.246
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 48.688,
+   "end": 53.438,
+   "text": "Now cover it in gold and let the sun pour in: from the floor, the dome seems to hang from the sky.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 48.798,
+     "end": 48.985
+    },
+    {
+     "w": "cover",
+     "start": 48.985,
+     "end": 49.309
+    },
+    {
+     "w": "it",
+     "start": 49.309,
+     "end": 49.496
+    },
+    {
+     "w": "in",
+     "start": 49.496,
+     "end": 49.682
+    },
+    {
+     "w": "gold",
+     "start": 49.682,
+     "end": 49.869
+    },
+    {
+     "w": "and",
+     "start": 49.869,
+     "end": 50.055
+    },
+    {
+     "w": "let",
+     "start": 50.055,
+     "end": 50.242
+    },
+    {
+     "w": "the",
+     "start": 50.242,
+     "end": 50.428
+    },
+    {
+     "w": "sun",
+     "start": 50.428,
+     "end": 50.615
+    },
+    {
+     "w": "pour",
+     "start": 50.615,
+     "end": 50.801
+    },
+    {
+     "w": "in:",
+     "start": 50.801,
+     "end": 50.988
+    },
+    {
+     "w": "from",
+     "start": 51.128,
+     "end": 51.345
+    },
+    {
+     "w": "the",
+     "start": 51.345,
+     "end": 51.561
+    },
+    {
+     "w": "floor,",
+     "start": 51.561,
+     "end": 51.778
+    },
+    {
+     "w": "the",
+     "start": 51.938,
+     "end": 52.118
+    },
+    {
+     "w": "dome",
+     "start": 52.118,
+     "end": 52.298
+    },
+    {
+     "w": "seems",
+     "start": 52.298,
+     "end": 52.478
+    },
+    {
+     "w": "to",
+     "start": 52.478,
+     "end": 52.658
+    },
+    {
+     "w": "hang",
+     "start": 52.658,
+     "end": 52.838
+    },
+    {
+     "w": "from",
+     "start": 52.838,
+     "end": 53.018
+    },
+    {
+     "w": "the",
+     "start": 53.018,
+     "end": 53.198
+    },
+    {
+     "w": "sky.",
+     "start": 53.198,
+     "end": 53.378
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 53.802,
+   "end": 57.75,
+   "text": "Fifty-five meters high, built in under six years, fifteen centuries ago.",
+   "words": [
+    {
+     "w": "Fifty-five",
+     "start": 53.982,
+     "end": 54.566
+    },
+    {
+     "w": "meters",
+     "start": 54.566,
+     "end": 54.976
+    },
+    {
+     "w": "high,",
+     "start": 54.976,
+     "end": 55.212
+    },
+    {
+     "w": "built",
+     "start": 55.322,
+     "end": 55.528
+    },
+    {
+     "w": "in",
+     "start": 55.528,
+     "end": 55.733
+    },
+    {
+     "w": "under",
+     "start": 55.733,
+     "end": 56.091
+    },
+    {
+     "w": "six",
+     "start": 56.091,
+     "end": 56.296
+    },
+    {
+     "w": "years,",
+     "start": 56.296,
+     "end": 56.502
+    },
+    {
+     "w": "fifteen",
+     "start": 56.652,
+     "end": 56.959
+    },
+    {
+     "w": "centuries",
+     "start": 56.959,
+     "end": 57.395
+    },
+    {
+     "w": "ago.",
+     "start": 57.395,
+     "end": 57.702
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 58.115,
+   "end": 61.5,
+   "text": "And congrats, you just built the Hagia Sophia's dome yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.235,
+     "end": 58.498
+    },
+    {
+     "w": "congrats,",
+     "start": 58.498,
+     "end": 58.955
+    },
+    {
+     "w": "you",
+     "start": 59.085,
+     "end": 59.308
+    },
+    {
+     "w": "just",
+     "start": 59.308,
+     "end": 59.531
+    },
+    {
+     "w": "built",
+     "start": 59.531,
+     "end": 59.754
+    },
+    {
+     "w": "the",
+     "start": 59.754,
+     "end": 59.977
+    },
+    {
+     "w": "Hagia",
+     "start": 59.977,
+     "end": 60.365
+    },
+    {
+     "w": "Sophia's",
+     "start": 60.365,
+     "end": 60.754
+    },
+    {
+     "w": "dome",
+     "start": 60.754,
+     "end": 60.977
+    },
+    {
+     "w": "yourself.",
+     "start": 60.977,
+     "end": 61.365
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 61.865,
+   "end": 66.521,
+   "text": "It has survived fifteen centuries of earthquakes, and your phone cracked falling off the couch.",
+   "words": [
+    {
+     "w": "It",
+     "start": 61.995,
+     "end": 62.199
+    },
+    {
+     "w": "has",
+     "start": 62.199,
+     "end": 62.402
+    },
+    {
+     "w": "survived",
+     "start": 62.402,
+     "end": 62.907
+    },
+    {
+     "w": "fifteen",
+     "start": 62.907,
+     "end": 63.261
+    },
+    {
+     "w": "centuries",
+     "start": 63.261,
+     "end": 63.766
+    },
+    {
+     "w": "of",
+     "start": 63.766,
+     "end": 63.97
+    },
+    {
+     "w": "earthquakes,",
+     "start": 63.97,
+     "end": 64.475
+    },
+    {
+     "w": "and",
+     "start": 64.605,
+     "end": 64.8
+    },
+    {
+     "w": "your",
+     "start": 64.8,
+     "end": 64.995
+    },
+    {
+     "w": "phone",
+     "start": 64.995,
+     "end": 65.19
+    },
+    {
+     "w": "cracked",
+     "start": 65.19,
+     "end": 65.53
+    },
+    {
+     "w": "falling",
+     "start": 65.53,
+     "end": 65.87
+    },
+    {
+     "w": "off",
+     "start": 65.87,
+     "end": 66.065
+    },
+    {
+     "w": "the",
+     "start": 66.065,
+     "end": 66.26
+    },
+    {
+     "w": "couch.",
+     "start": 66.26,
+     "end": 66.455
+    }
+   ]
+  }
+ ]
+}
