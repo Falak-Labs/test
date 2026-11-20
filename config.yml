@@ -14,12 +14,17 @@ hold: {}                # {ar: true} makes a language's posts wait
 youtube:
   categoryId: "27"      # Education
   madeForKids: false
-cta:                    # last caption line; {next} comes from the episode file
+cta:                    # last caption line(s); {next} comes from the episode file
+  # Nov 19 2026, the owner: "mention at the end, follow us on YouTube for more videos" with the handle, to bring
+  # Instagram and TikTok viewers to YouTube (the channel he wants monetized first). The handles are the same on all
+  # three apps. Arabic TikTok is left out for now: that account keeps getting "potential spam" refusals and one
+  # repeated promo line in every caption could make them worse; add it under ar.tiktok when he says so.
   en:
-    default: "Next build: {next} Follow so you don't miss it."
+    default: "Next build: {next} Follow so you don't miss it.\nFollow us on YouTube for more builds: @congratsengineer"
     youtube: "Next build: {next} Subscribe so you don't miss it."
   ar:
     default: "البناء الجاي: {next} تابعنا عشان ما يفوتكش."
+    instagram: "البناء الجاي: {next} تابعنا عشان ما يفوتكش.\nوتابعنا على يوتيوب لفيديوهات أكثر: @kef.tenbeni"
     youtube: "البناء الجاي: {next} اشترك عشان ما يفوتكش."
 pages_base: https://falak-labs.github.io/test
 raw_base: https://raw.githubusercontent.com/Falak-Labs/test/main

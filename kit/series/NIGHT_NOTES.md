@@ -849,3 +849,27 @@
   state/last-run.md for "waits" after every post push.
 - Nov 19 21:13 PT: owner chose "option 1" for YouTube: 2 builds a day per channel get YouTube, the other 4 are held
   (rule in LINEUP.md). Builds 46 and 49 already carry YouTube for Nov 20, 47/48/50/51 hold it; failed YouTube posts stay failed.
+- Nov 19 21:18 PT, the owner: "Let's start mention at the end, follow us on YouTube for more videos and give it the
+  @congratsengineer and the other one", and asked for a deep check of the money plan ("I need 10 million views and 1000
+  subscriber ... are we going to the right path ... in a couple months maybe we'll start making money"). Done / found:
+  - config.yml cta: English default (Instagram + TikTok) and Arabic Instagram now end with a second line "Follow us on
+    YouTube for more builds: @congratsengineer" / "وتابعنا على يوتيوب لفيديوهات أكثر: @kef.tenbeni" (the handles are the
+    same on all three apps per the owner; the YouTube pages could not be opened from this session to confirm). Arabic
+    TikTok left out for now (potential-spam refusals); he was told. Applies to posts created from now on (52+);
+    posts already in Buffer (46-51) keep their captions. Checked with caption_for on ep51: no issues on any platform.
+  - **The 2-a-day YouTube limit is Buffer's FREE plan** (support.buffer.com daily posting limits: YouTube Shorts free 2,
+    paid 100 with a verified email). Essentials is $6 a channel a month ($5 yearly), 3 channels per account = $18, both
+    accounts $36; it also removes the 10-scheduled-posts cap. Not bought: our own numbers say 2-3 YouTube posts a day get
+    ~1,000 views each while the bulk days got a median of 11, so more YouTube posts a day is not the lever. His call.
+  - Money rules checked Nov 19 2026 (details + sources in the project doc claude/build-it-money-plan.md): YouTube ads =
+    1,000 subs + 10M Shorts views / 90 days or 4,000 watch hours / 12 months; **from Feb 1 2027 new channels need 20M /
+    90 days or 8,000 hours, and Shorts ads pay only channels holding 10M / 90 days**. YouTube's July 2026 "inauthentic
+    content" clarification names template-based, AI-heavy, near-identical videos made in volume as not monetizable.
+    TikTok Creator Rewards: 10k followers + 100k views / 30 days, videos over 1 minute, 8 countries (no Arab country),
+    about $0.40-1.00 per 1,000 qualified views. Instagram: no per-view pay.
+  - Where we are (metrics 02:51Z Nov 20): EN YouTube about 2,000 views a day against 111,000 a day needed (~55x), AR
+    YouTube about 800 a day; EN TikTok 26,195 views in 10 days; EN Instagram 77,586 (half of all 157,183). Follower and
+    subscriber counts are unknown here (Buffer gives none); asked him for the six numbers.
+  - Told him: payouts in a couple of months are unlikely at this pace; proposed 3 builds a day again with the effort
+    going into the first seconds, English TikTok + English YouTube as the money targets, and one long YouTube
+    compilation a week (watch hours, long-form ad rates). WAITING for his yes/no: do not change the pace until he answers.
