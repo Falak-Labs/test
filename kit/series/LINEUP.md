@@ -50,9 +50,9 @@ Rules:
 49. the Hagia Sophia dome (taken: evening run of 2026-11-19)
 50. a Korean ondol heated floor (taken: evening run of 2026-11-19)
 51. the Burj Al Arab on its island (taken: evening run of 2026-11-19)
-52. the Palm Jumeirah, an island shaped like a palm tree (Dubai) (promised by 51)
-53. idea: a refrigerator
-54. idea: the Eiffel Tower
+52. the Palm Jumeirah, an island shaped like a palm tree (Dubai) (promised by 51) (taken: midday run of 2026-11-20)
+53. idea: a refrigerator (taken: midday run of 2026-11-20)
+54. idea: the Eiffel Tower (taken: midday run of 2026-11-20)
 55. idea: the Suez Canal
 56. idea: an escalator
 57. idea: the Sydney Opera House shells
