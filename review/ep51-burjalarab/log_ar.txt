@@ -1,0 +1,7 @@
+burjalarab_ar_sa: 69.13s, 2074 frames
+cover out/burjalarab_ar_sa/cover.png: ['برج العرب'] (frame 0 of the video)
+video done in 505s
+audio done
+final out/burjalarab_ar_sa/burjalarab_ar_sa_final.mp4
+QA  duration 69.13s  loudness -14.0 LUFS  true peak -2.6 dBFS  1080x1920 @ 30/1  frames 2074
+QA sheet out/burjalarab_ar_sa/qa_sheet.png

@@ -1,0 +1,135 @@
+{
+ "slug": "ep51-burjalarab",
+ "kit": "burjalarab",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 66.37,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "12/230",
+   "mix_lines_off": [
+    "L 5 4 diff  | So you drive 230 concrete piles 40 meters down, the sand grips their sides, and friction holds it all up.",
+    "L 7 1 diff  | So you armor the shore with hollow concrete blocks and a honeycomb, waves crash in, lose their power, and drain away.",
+    "L11 3 diff  | Now add a helipad 210 meters up. Two tennis legends once played on it.",
+    "L12 4 diff  | 321 meters tall and the island took longer to build than the hotel."
+   ],
+   "size_mb": 18.3,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو حطّيت فندق على شكل شراع في البحر، فوق جزيرة سويتها بنفسك، مبروك، كذا سويت لك برج العرب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس هناك ما فيه أرض، كله بحر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتسوي لك وحدة: تحاوط المكان بصخور، وتعبّيه رمل، لين تطلع جزيرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الرمل رخو، وما تحته صخر يوقف عليه برج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتدق ميتين وثلاثين عمود خرسانة بطول أربعين متر، والرمل يمسكها من جوانبها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الموج بياكل الجزيرة شوي شوي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتدرّع الشط بقطع خرسانة مفرّغة مثل خلية النحل، الموج يدخلها ويفقد قوته.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس شمس الصحرا بتخلّي البهو العملاق فرن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتشد شراع من قماش ألياف زجاج على الواجهة، يدخّل النور، ويرد الحر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تحجز، تابعني، لأن الجاي بنبني جزيرة على شكل نخلة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين حط مهبط هليكوبتر على علو ميتين وعشرة متر، لعب عليه نجوم التنس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "علوه ثلاثمية وواحد وعشرين متر، والجزيرة أخذت وقت أكثر من الفندق نفسه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك برج العرب بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "بنوا جزيرة في البحر عشان فندق، وخالك أول ما درى إنك حاجز فندق: فندق؟! وبيتي وش فيه؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.13,
+   "lufs": -14.0,
+   "peak": -2.6,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 19.4,
+   "cover": true
+  }
+ }
+}
