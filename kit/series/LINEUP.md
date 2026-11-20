@@ -40,7 +40,7 @@ Rules:
 49. the Hagia Sophia dome (taken: evening run of 2026-11-19)
 50. a Korean ondol heated floor (taken: evening run of 2026-11-19)
 51. the Burj Al Arab on its island (taken: evening run of 2026-11-19)
-52. idea: the Palm Jumeirah, an island shaped like a palm tree (Dubai)
+52. the Palm Jumeirah, an island shaped like a palm tree (Dubai) (promised by 51)
 53. idea: a refrigerator
 54. idea: the Eiffel Tower
 55. idea: the Suez Canal
@@ -49,3 +49,6 @@ Rules:
 58. idea: a giant Ferris wheel (Ain Dubai / the London Eye)
 59. idea: the Statue of Liberty (a copper skin on an iron frame)
 60. idea: a microwave oven
+61. idea: the Leaning Tower of Pisa (why it leans and still stands)
+62. idea: a Bedouin goat-hair tent (bait al-sha'ar) that keeps out rain and sun
+63. idea: a washing machine
