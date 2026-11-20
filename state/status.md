@@ -1,4 +1,4 @@
-# Post status 2026-11-20T07:24:07+00:00
+# Post status 2026-11-20T08:24:18+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -272,9 +272,9 @@
 | ep45-machupicchu | en.instagram | sent |  | 2026-11-20T02:31:30.495Z https://www.instagram.com/reel/Df8liWLvOKJ/ |
 | ep45-machupicchu | en.tiktok | sent |  | 2026-11-19T05:41:59.472Z https://tiktok.com/@congratsengineer/video/7709753097454767374 |
 | ep45-machupicchu | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-20T04:59:25.703Z |
-| ep46-aswan | ar.instagram | scheduled |  | 2026-11-20T08:00:00.000Z |
-| ep46-aswan | ar.tiktok | scheduled |  | 2026-11-20T08:00:00.000Z |
-| ep46-aswan | ar.youtube | scheduled |  | 2026-11-20T08:00:00.000Z |
+| ep46-aswan | ar.instagram | sent |  | 2026-11-20T08:02:54.281Z https://www.instagram.com/reel/Df9LZ2lpIyV/ |
+| ep46-aswan | ar.tiktok | sent |  | 2026-11-20T08:01:20.825Z https://tiktok.com/@kef.tenbeni/video/7710160167266045198 |
+| ep46-aswan | ar.youtube | sent |  | 2026-11-20T08:00:43.207Z https://www.youtube.com/shorts/LEcWHPyyXvQ |
 | ep46-aswan | en.instagram | scheduled |  | 2026-11-20T14:00:00.000Z |
 | ep46-aswan | en.tiktok | scheduled |  | 2026-11-20T14:00:00.000Z |
 | ep46-aswan | en.youtube | scheduled |  | 2026-11-20T14:00:00.000Z |
@@ -297,5 +297,6 @@
 | ep50-ondol | en.instagram | scheduled |  | 2026-11-21T00:00:00.000Z |
 | ep50-ondol | en.tiktok | scheduled |  | 2026-11-21T00:00:00.000Z |
 | ep51-burjalarab | ar.instagram | scheduled |  | 2026-11-20T23:00:00.000Z |
+| ep51-burjalarab | ar.tiktok | scheduled |  | 2026-11-20T23:00:00.000Z |
 | ep51-burjalarab | en.instagram | scheduled |  | 2026-11-21T02:30:00.000Z |
 | ep51-burjalarab | en.tiktok | scheduled |  | 2026-11-21T02:30:00.000Z |
