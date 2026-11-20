@@ -1,3 +1,4 @@
-# Requeue run 2026-11-19T21:13:55+00:00
+# Requeue run 2026-11-20T02:48:11+00:00
 
-- ep44-falaj ar.tiktok: queued for 06:00 UTC (Buffer status now: scheduled)
+- ep37-windtower ar.tiktok: queued for 01:30 UTC (Buffer status now: scheduled)
+- ep45-machupicchu ar.tiktok: queued for 04:30 UTC (Buffer status now: scheduled)

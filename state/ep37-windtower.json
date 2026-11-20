@@ -59,11 +59,11 @@
    "id": "6afd24c4bb12698d1597a616",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "error",
-   "dueAt": "2026-11-20T02:00:00.000Z",
+   "status": "scheduled",
+   "dueAt": "2026-11-22T01:30:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-18T04:08:30+00:00",
-   "moved": "2026-11-19T02:43:06+00:00"
+   "moved": "2026-11-20T02:48:11+00:00"
   }
  }
 }
