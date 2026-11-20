@@ -1,0 +1,135 @@
+{
+ "slug": "ep53-fridge",
+ "kit": "fridge",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.3,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "5/228",
+   "mix_lines_off": [
+    "L 1 2 diff  | If you can keep milk cold in a heat wave without a single cube of ice, congrats, you just built a refrigerator.",
+    "L 2 1 diff  | But cold used to mean ice, sawn from frozen lakes and shipped as far as India and sawdust.",
+    "L 5 1 diff  | So a compressor squeezes the gas hard. Squeeze gas gets hot like a bike pump.",
+    "L12 1 diff  | 4 degrees inside, minus 18 in the freezer, and Albert Einstein once patented a fridge."
+   ],
+   "size_mb": 19.7,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو قدرت تخلّي الحليب بارد في عز الصيف، بدون ولا مكعب ثلج، مبروك، كذا سويت لك ثلاجة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس زمان، البرد يعني ثلج يقصّونه من بحيرات متجمدة، ويشحنونه لين الهند.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتجيب سائل يغلي تحت الصفر بكثير، وهو يغلي داخل الصندوق يسحب الحرارة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس أول ما يصير كله غاز، خلاص، ما عاد ينفع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فالكمبروسر يعصر الغاز عصر، والغاز إذا انعصر يسخن، مثل منفاخ السيكل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الحين الغاز شايل كل الحرارة اللي كانت داخل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتمشّيه في اللفّات اللي ورا، الحرارة تطلع للمطبخ، ويرجع سائل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس هذا السائل للحين تحت ضغط قوي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتدخّله في ماسورة رفيعة مثل المكرونة، ضغطه ينزل، ويبرد مرة، وتبدأ اللفة من جديد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تفتح الثلاجة، تابعني، لأن الجاي بنبني برج إيفل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين حط ثرموستات يشغّل الكمبروسر ويطفيه، ومغناطيس مخبّى في مطاط الباب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "أربع درجات داخلها، وسالب ثمنطعش في الفريزر، وأينشتاين سجّل اختراع ثلاجة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك ثلاجة بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "تطلّع الحرارة طول اليوم، وأنت واقف فاتح بابها تدوّر على شي ما تدري وش هو، وأمك: سكّر الثلاجة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.4,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 19.9,
+   "cover": true
+  }
+ }
+}
