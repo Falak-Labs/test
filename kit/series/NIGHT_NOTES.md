@@ -895,3 +895,60 @@
     electricity" (37 wind tower, 44 falaj, 48 riad) and episode "No engines: build 8 wonders anyway" (36 pyramid, 38
     Petra, 39 pagoda, 42 Venice, 43 Great Wall, 44 falaj, 45 Machu Picchu, 49 Hagia Sophia). All are in media/; older
     builds are in git history (the clone is not shallow). The mixes have no music bed, so lines can be cut cleanly.
+
+## Nov 20 2026 (midday run, 11:23 PT): 52 Palm Jumeirah, 53 refrigerator, 54 Eiffel Tower (for Sat Nov 21)
+- TODAY Nov 20 PT, TOMORROW Sat Nov 21 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT before the
+  push). PST: Arabic 00:00 / 03:00 / 06:00 PT = 08:00Z / 11:00Z / 14:00Z; English 06:00 / 08:30 / 11:00 PT = 14:00Z /
+  16:30Z / 19:00Z Nov 21.
+- Status 19:29Z (Nov 20 PT, builds 46-51): 46-48 English Instagram + TikTok live; 46 Arabic all three live; 47 all four
+  live; 48 Arabic Instagram "an issue with the media attached" (14:00Z) -> requeued to 21:00Z Nov 20, and its Arabic
+  TikTok "potential spam" -> 01:30Z Nov 23; 49 Arabic Instagram + YouTube live, its TikTok "potential spam" (17:00Z) ->
+  04:30Z Nov 23. Status 20:27Z: 50 Arabic Instagram live, its TikTok "potential spam" (20:00Z) -> 21:00Z Nov 20
+  (exactly 2 h before 51's 23:00Z). The only 2-hour gaps left in the Arabic TikTok grid are at night UTC after the
+  23:00Z slot (01:30Z / 04:30Z the next day), already used through Nov 23 UTC.
+- **English YouTube 46 (06:00 PT Nov 20) failed on the daily limit although Nov 20 PT had only 46 and 49 queued.**
+  The English channel had 42 sent at 03:12Z and 40/41/44/45 failed at 04:59Z, all on Nov 20 UTC (19:12-20:59 PT Nov 19).
+  So Buffer's 2-a-day YouTube count is NOT the PT day: most likely the UTC day (or a rolling 24 h), failed posts
+  included. 49's English YouTube (21:30Z Nov 20) will probably fail the same way. Keep every YouTube post between
+  08:00Z and 23:59Z (00:00-15:59 PT), where the UTC day and the PT day agree: the evening run's English YouTube must be
+  its 13:30 PT build (21:30Z), never 16:00 / 18:30 PT (00:00Z / 02:30Z = the next UTC day, which the next midday run
+  also uses). This run's YouTube posts: EN 19:00Z, AR 14:00Z Nov 21.
+- Pages: retired ep34-ep36 (all 18 sent): media/ 636 -> 549 MB before today's six videos (about 128 MB). Next: ep37-ep39
+  (37's Arabic TikTok waits for 01:30Z Nov 22: retire 37 only after it is sent).
+- A/B test: 53 is odd -> `fridge` in voices.yml ar_alt.kits (Mansour, Saudi script); 52 and 54 Egyptian.
+- YouTube slot: given to 54 the Eiffel Tower (the strongest topic of the three, as the performance doc asks), not to the
+  first build: 52 and 53 carry `hold: [en.youtube, ar.youtube]`; 54 posts YouTube at EN 11:00 / AR 06:00 PT.
+- Voices: Easton palmjumeirah 63.29 s (227 words), fridge 64.21 s (228), eiffel 67.20 s at first (229 words, many
+  numbers) -> trimmed to 223 words, 66.08 s. Whisper small heard "seabed" as "sieved" and "tide" as "tie": reworded
+  ("sea floor", "fresh sea water flows in") and English remade free. "Jumeirah" comes out as "Jumira" / "you mirror"
+  (name only; the caption carries it). ElevenLabs (one take each): Egyptian palmjumeirah 66.0 s (165 words), Mansour
+  fridge 66.0 s (156 words), Egyptian eiffel 70.6 s (165 words). check_ar_voice: fridge line 8 "للحين مضغوط" was 20%
+  (heard "الحمد غوط"), rewritten "بس هذا السائل للحين تحت ضغط قوي" -> 6% (one line remade); everything else under 22%.
+- Research: WebSearch here returns only titles and links (no page text), and agents are not allowed, so facts were
+  checked against result titles (toureiffel.paris "Why does the Eiffel Tower change size?", the 15 cm summer growth,
+  compressed-air caissons in Google Arts & Culture, Scientific American on the Einstein-Szilard refrigerators, the
+  magnetic door seal patent) plus well-documented figures (Palm: 94 million m3 of sand, 7 million t of rock, 11 km
+  crescent, 16 fronds, rainbowing, vibro-compaction, two gaps; Eiffel: 18,038 parts, 2.5 million rivets, 57 m first
+  floor, 60 t of paint in three shades, 20-year permit; melted = 7,300 t / 7.87 t/m3 / 125 m x 125 m = 5.9 cm).
+- Scenes (all v2 look 2):
+  - palmjumeirah.py (top, coast, plan, sand, storm, quake, tag): palm_island() draws the island from above: frond(i,
+    side) gives the 16 fronds (tips on a circle), arc_pts() the crescent (closes from both ends, GAPS opens two cuts,
+    boulders along the outer edge), shallow-water halos, villas_top(), towers on the trunk, the big hotel at the top,
+    `dusk` for the sunset closer; sea_top()/coast_top(); dredger_top() + sand_arc() (rainbow option) for rainbowing;
+    plan = blueprint with numbered fronds and glowing beach lines; quake = grains() section, soup jitter, vibro probes
+    with rings, house_side(); tag = towel_person() biting a sandy sandwich.
+  - fridge.py (kitchen, ice, loop, tag): LOOP = the refrigerant path (compressor -> condenser zigzag on the back ->
+    capillary coil -> evaporator in the freezer -> suction line), loop_at(s) / temp_col(s) colour the dots by
+    temperature; the loop set shows one part per beat (evaporator boils, compressor cutaway piston, coils with heat
+    lines, two gauges, capillary) then the whole loop flowing; fridge_front() front view with the door swinging open;
+    ship() with ice blocks for break1; tag: an empty lit fridge, a person staring, a spinning clock; AR adds mom (phone.mom)
+    with "سكّر الثلاجة!".
+  - eiffel.py (paris, wind, ground, legs, rivets, tag): eiffel() draws the tower from w_out(h) / w_in(h) (outline and the
+    gap between the legs, metres x U=2.4), lattice diagonals per panel, the arch, three platforms, shades by height,
+    `lit` + `sparkle` for the night closer, `solid` and `sway` for the sail; rooftops() of Paris; caisson section with an
+    air hose and two diggers; legs set at zoom 3.2 with one leg low and a jack; rivets close-up (gusset plate, red-hot
+    rivets cooling, forge, hammer); tag: the protest letter, the pinch photo; AR adds the aunt: "برج القاهرة أحلى!".
+- Lessons: light interiors bloom white in v2's Post (fridge inside, frozen lake): keep them mid-tone (#7FA8CC..#5E86AE,
+  body #8E98A6). A stat-beat camera key `.key(s("closer"), ...)` overrides the closer's own key: end the stat drift
+  before the closer. Captions over a low sun wash out: keep the sun above y ~700. The Arabic TikTok queue (10) is the
+  bottleneck at six builds a day plus requeues: 54's Arabic TikTok "waits" until 51 (23:00Z) leaves the queue.
