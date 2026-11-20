@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 67.18,
- "words": 229,
- "words_per_sec": 3.41,
+ "duration": 66.06,
+ "words": 223,
+ "words_per_sec": 3.38,
  "lines": [
   {
    "line": 1,
@@ -376,890 +376,860 @@
   {
    "line": 5,
    "start": 18.635,
-   "end": 24.302,
-   "text": "So you sink giant iron boxes full of pumped-in air, and workers dig inside, dry, to firm ground.",
+   "end": 24.021,
+   "text": "So you sink iron boxes full of pumped-in air, and workers dig inside, dry, to firm ground.",
    "words": [
     {
      "w": "So",
      "start": 18.745,
-     "end": 18.996
+     "end": 18.992
     },
     {
      "w": "you",
-     "start": 18.996,
-     "end": 19.246
+     "start": 18.992,
+     "end": 19.24
     },
     {
      "w": "sink",
-     "start": 19.246,
-     "end": 19.497
-    },
-    {
-     "w": "giant",
-     "start": 19.497,
-     "end": 19.748
+     "start": 19.24,
+     "end": 19.487
     },
     {
      "w": "iron",
-     "start": 19.748,
-     "end": 20.184
+     "start": 19.487,
+     "end": 19.918
     },
     {
      "w": "boxes",
-     "start": 20.184,
-     "end": 20.621
+     "start": 19.918,
+     "end": 20.349
     },
     {
      "w": "full",
-     "start": 20.621,
-     "end": 20.871
+     "start": 20.349,
+     "end": 20.596
     },
     {
      "w": "of",
-     "start": 20.871,
-     "end": 21.122
+     "start": 20.596,
+     "end": 20.844
     },
     {
      "w": "pumped-in",
-     "start": 21.122,
-     "end": 21.744
+     "start": 20.844,
+     "end": 21.458
     },
     {
      "w": "air,",
-     "start": 21.744,
-     "end": 21.995
+     "start": 21.458,
+     "end": 21.705
     },
     {
      "w": "and",
-     "start": 22.045,
-     "end": 22.277
+     "start": 21.765,
+     "end": 21.997
     },
     {
      "w": "workers",
-     "start": 22.277,
-     "end": 22.68
+     "start": 21.997,
+     "end": 22.4
     },
     {
      "w": "dig",
-     "start": 22.68,
-     "end": 22.912
+     "start": 22.4,
+     "end": 22.632
     },
     {
      "w": "inside,",
-     "start": 22.912,
-     "end": 23.315
+     "start": 22.632,
+     "end": 23.035
     },
     {
      "w": "dry,",
-     "start": 23.505,
-     "end": 23.595
+     "start": 23.205,
+     "end": 23.285
     },
     {
      "w": "to",
-     "start": 23.685,
-     "end": 23.862
+     "start": 23.365,
+     "end": 23.555
     },
     {
      "w": "firm",
-     "start": 23.862,
-     "end": 24.038
+     "start": 23.555,
+     "end": 23.745
     },
     {
      "w": "ground.",
-     "start": 24.038,
-     "end": 24.215
+     "start": 23.745,
+     "end": 23.935
     }
    ]
   },
   {
    "line": 6,
-   "start": 24.667,
-   "end": 28.312,
+   "start": 24.385,
+   "end": 28.031,
    "text": "But the legs lean in, and all four must meet, fifty-seven meters up.",
    "words": [
     {
      "w": "But",
-     "start": 24.807,
-     "end": 25.015
+     "start": 24.535,
+     "end": 24.741
     },
     {
      "w": "the",
-     "start": 25.015,
-     "end": 25.223
+     "start": 24.741,
+     "end": 24.947
     },
     {
      "w": "legs",
-     "start": 25.223,
-     "end": 25.431
+     "start": 24.947,
+     "end": 25.153
     },
     {
      "w": "lean",
-     "start": 25.431,
-     "end": 25.639
+     "start": 25.153,
+     "end": 25.359
     },
     {
      "w": "in,",
-     "start": 25.639,
-     "end": 25.847
+     "start": 25.359,
+     "end": 25.565
     },
     {
      "w": "and",
-     "start": 26.037,
-     "end": 26.243
+     "start": 25.755,
+     "end": 25.961
     },
     {
      "w": "all",
-     "start": 26.243,
-     "end": 26.449
+     "start": 25.961,
+     "end": 26.167
     },
     {
      "w": "four",
-     "start": 26.449,
-     "end": 26.655
+     "start": 26.167,
+     "end": 26.373
     },
     {
      "w": "must",
-     "start": 26.655,
-     "end": 26.861
+     "start": 26.373,
+     "end": 26.579
     },
     {
      "w": "meet,",
-     "start": 26.861,
-     "end": 27.067
+     "start": 26.579,
+     "end": 26.785
     },
     {
      "w": "fifty-seven",
-     "start": 27.227,
-     "end": 27.757
+     "start": 26.945,
+     "end": 27.48
     },
     {
      "w": "meters",
-     "start": 27.757,
-     "end": 28.043
+     "start": 27.48,
+     "end": 27.769
     },
     {
      "w": "up.",
-     "start": 28.043,
-     "end": 28.207
+     "start": 27.769,
+     "end": 27.935
     }
    ]
   },
   {
    "line": 7,
-   "start": 28.677,
-   "end": 33.406,
-   "text": "So hydraulic jacks under the feet nudge each leg, a millimeter at a time, until they line up.",
+   "start": 28.396,
+   "end": 32.708,
+   "text": "So hydraulic jacks in the feet nudge each leg, a millimeter at a time, into line.",
    "words": [
     {
      "w": "So",
-     "start": 28.787,
-     "end": 28.984
+     "start": 28.506,
+     "end": 28.701
     },
     {
      "w": "hydraulic",
-     "start": 28.984,
-     "end": 29.474
+     "start": 28.701,
+     "end": 29.184
     },
     {
      "w": "jacks",
-     "start": 29.474,
-     "end": 29.671
+     "start": 29.184,
+     "end": 29.379
     },
     {
-     "w": "under",
-     "start": 29.671,
-     "end": 30.015
+     "w": "in",
+     "start": 29.379,
+     "end": 29.574
     },
     {
      "w": "the",
-     "start": 30.015,
-     "end": 30.212
+     "start": 29.574,
+     "end": 29.769
     },
     {
      "w": "feet",
-     "start": 30.212,
-     "end": 30.41
+     "start": 29.769,
+     "end": 29.964
     },
     {
      "w": "nudge",
-     "start": 30.41,
-     "end": 30.607
+     "start": 29.964,
+     "end": 30.159
     },
     {
      "w": "each",
-     "start": 30.607,
-     "end": 30.804
+     "start": 30.159,
+     "end": 30.354
     },
     {
      "w": "leg,",
-     "start": 30.804,
-     "end": 31.002
+     "start": 30.354,
+     "end": 30.549
     },
     {
      "w": "a",
-     "start": 31.002,
-     "end": 31.199
+     "start": 30.549,
+     "end": 30.743
     },
     {
      "w": "millimeter",
-     "start": 31.199,
-     "end": 31.835
+     "start": 30.743,
+     "end": 31.371
     },
     {
      "w": "at",
-     "start": 31.835,
-     "end": 32.032
+     "start": 31.371,
+     "end": 31.566
     },
     {
      "w": "a",
-     "start": 32.032,
-     "end": 32.23
+     "start": 31.566,
+     "end": 31.761
     },
     {
      "w": "time,",
-     "start": 32.23,
-     "end": 32.427
+     "start": 31.761,
+     "end": 31.956
     },
     {
-     "w": "until",
-     "start": 32.547,
-     "end": 32.811
+     "w": "into",
+     "start": 32.096,
+     "end": 32.439
     },
     {
-     "w": "they",
-     "start": 32.811,
-     "end": 32.963
-    },
-    {
-     "w": "line",
-     "start": 32.963,
-     "end": 33.115
-    },
-    {
-     "w": "up.",
-     "start": 33.115,
-     "end": 33.267
+     "w": "line.",
+     "start": 32.439,
+     "end": 32.636
     }
    ]
   },
   {
    "line": 8,
-   "start": 33.771,
-   "end": 36.781,
+   "start": 33.073,
+   "end": 36.083,
    "text": "But eighteen thousand pieces must hold together up in the wind.",
    "words": [
     {
      "w": "But",
-     "start": 33.901,
-     "end": 34.092
+     "start": 33.203,
+     "end": 33.394
     },
     {
      "w": "eighteen",
-     "start": 34.092,
-     "end": 34.425
+     "start": 33.394,
+     "end": 33.727
     },
     {
      "w": "thousand",
-     "start": 34.425,
-     "end": 34.757
+     "start": 33.727,
+     "end": 34.059
     },
     {
      "w": "pieces",
-     "start": 34.757,
-     "end": 35.09
+     "start": 34.059,
+     "end": 34.392
     },
     {
      "w": "must",
-     "start": 35.09,
-     "end": 35.281
+     "start": 34.392,
+     "end": 34.583
     },
     {
      "w": "hold",
-     "start": 35.281,
-     "end": 35.472
+     "start": 34.583,
+     "end": 34.774
     },
     {
      "w": "together",
-     "start": 35.472,
-     "end": 35.947
+     "start": 34.774,
+     "end": 35.249
     },
     {
      "w": "up",
-     "start": 35.947,
-     "end": 36.138
+     "start": 35.249,
+     "end": 35.44
     },
     {
      "w": "in",
-     "start": 36.138,
-     "end": 36.329
+     "start": 35.44,
+     "end": 35.631
     },
     {
      "w": "the",
-     "start": 36.329,
-     "end": 36.52
+     "start": 35.631,
+     "end": 35.822
     },
     {
      "w": "wind.",
-     "start": 36.52,
-     "end": 36.711
+     "start": 35.822,
+     "end": 36.013
     }
    ]
   },
   {
    "line": 9,
-   "start": 37.146,
-   "end": 41.948,
+   "start": 36.448,
+   "end": 41.25,
    "text": "So you join them with two and a half million red-hot rivets. As they cool, they shrink and clamp tight.",
    "words": [
     {
      "w": "So",
-     "start": 37.256,
-     "end": 37.437
+     "start": 36.558,
+     "end": 36.757
     },
     {
      "w": "you",
-     "start": 37.437,
-     "end": 37.617
+     "start": 36.757,
+     "end": 36.955
     },
     {
      "w": "join",
-     "start": 37.617,
-     "end": 37.798
+     "start": 36.955,
+     "end": 37.154
     },
     {
      "w": "them",
-     "start": 37.798,
-     "end": 37.979
+     "start": 37.154,
+     "end": 37.352
     },
     {
      "w": "with",
-     "start": 37.979,
-     "end": 38.16
+     "start": 37.352,
+     "end": 37.551
     },
     {
      "w": "two",
-     "start": 38.16,
-     "end": 38.34
+     "start": 37.551,
+     "end": 37.749
     },
     {
      "w": "and",
-     "start": 38.34,
-     "end": 38.521
+     "start": 37.749,
+     "end": 37.948
     },
     {
      "w": "a",
-     "start": 38.521,
-     "end": 38.702
+     "start": 37.948,
+     "end": 38.147
     },
     {
      "w": "half",
-     "start": 38.702,
-     "end": 38.882
+     "start": 38.147,
+     "end": 38.345
     },
     {
      "w": "million",
-     "start": 38.882,
-     "end": 39.197
+     "start": 38.345,
+     "end": 38.691
     },
     {
      "w": "red-hot",
-     "start": 39.197,
-     "end": 39.511
+     "start": 38.691,
+     "end": 39.037
     },
     {
      "w": "rivets.",
-     "start": 39.511,
-     "end": 39.826
+     "start": 39.037,
+     "end": 39.382
     },
     {
      "w": "As",
-     "start": 39.966,
-     "end": 40.206
+     "start": 39.382,
+     "end": 39.581
     },
     {
      "w": "they",
-     "start": 40.206,
-     "end": 40.446
+     "start": 39.581,
+     "end": 39.779
     },
     {
      "w": "cool,",
-     "start": 40.446,
-     "end": 40.686
+     "start": 39.779,
+     "end": 39.978
     },
     {
      "w": "they",
-     "start": 40.846,
-     "end": 41.05
+     "start": 40.148,
+     "end": 40.354
     },
     {
      "w": "shrink",
-     "start": 41.05,
-     "end": 41.254
+     "start": 40.354,
+     "end": 40.56
     },
     {
      "w": "and",
-     "start": 41.254,
-     "end": 41.458
+     "start": 40.56,
+     "end": 40.766
     },
     {
      "w": "clamp",
-     "start": 41.458,
-     "end": 41.662
+     "start": 40.766,
+     "end": 40.972
     },
     {
      "w": "tight.",
-     "start": 41.662,
-     "end": 41.866
+     "start": 40.972,
+     "end": 41.178
     }
    ]
   },
   {
    "line": 10,
-   "start": 42.312,
-   "end": 46.312,
+   "start": 41.615,
+   "end": 45.615,
    "text": "But before you climb the stairs, follow, because next we're building the Suez Canal.",
    "words": [
     {
      "w": "But",
-     "start": 42.452,
-     "end": 42.657
+     "start": 41.755,
+     "end": 41.961
     },
     {
      "w": "before",
-     "start": 42.657,
-     "end": 43.013
+     "start": 41.961,
+     "end": 42.32
     },
     {
      "w": "you",
-     "start": 43.013,
-     "end": 43.218
+     "start": 42.32,
+     "end": 42.526
     },
     {
      "w": "climb",
-     "start": 43.218,
-     "end": 43.423
+     "start": 42.526,
+     "end": 42.733
     },
     {
      "w": "the",
-     "start": 43.423,
-     "end": 43.627
+     "start": 42.733,
+     "end": 42.939
     },
     {
      "w": "stairs,",
-     "start": 43.627,
-     "end": 43.832
+     "start": 42.939,
+     "end": 43.145
     },
     {
      "w": "follow,",
-     "start": 43.982,
-     "end": 44.292
+     "start": 43.275,
+     "end": 43.605
     },
     {
      "w": "because",
-     "start": 44.432,
-     "end": 44.776
+     "start": 43.735,
+     "end": 44.077
     },
     {
      "w": "next",
-     "start": 44.776,
-     "end": 44.973
+     "start": 44.077,
+     "end": 44.273
     },
     {
      "w": "we're",
-     "start": 44.973,
-     "end": 45.17
+     "start": 44.273,
+     "end": 44.469
     },
     {
      "w": "building",
-     "start": 45.17,
-     "end": 45.514
+     "start": 44.469,
+     "end": 44.811
     },
     {
      "w": "the",
-     "start": 45.514,
-     "end": 45.711
+     "start": 44.811,
+     "end": 45.007
     },
     {
      "w": "Suez",
-     "start": 45.711,
-     "end": 45.908
+     "start": 45.007,
+     "end": 45.203
     },
     {
      "w": "Canal.",
-     "start": 45.908,
-     "end": 46.252
+     "start": 45.203,
+     "end": 45.545
     }
    ]
   },
   {
    "line": 11,
-   "start": 46.677,
-   "end": 51.542,
+   "start": 45.979,
+   "end": 50.844,
    "text": "Now paint it by hand: sixty tonnes, three shades, lighter at the top so it looks even.",
    "words": [
     {
      "w": "Now",
-     "start": 46.777,
-     "end": 47.023
+     "start": 46.079,
+     "end": 46.325
     },
     {
      "w": "paint",
-     "start": 47.023,
-     "end": 47.269
+     "start": 46.325,
+     "end": 46.571
     },
     {
      "w": "it",
-     "start": 47.269,
-     "end": 47.515
+     "start": 46.571,
+     "end": 46.817
     },
     {
      "w": "by",
-     "start": 47.515,
-     "end": 47.761
+     "start": 46.817,
+     "end": 47.063
     },
     {
      "w": "hand:",
-     "start": 47.761,
-     "end": 48.007
+     "start": 47.063,
+     "end": 47.309
     },
     {
      "w": "sixty",
-     "start": 48.157,
-     "end": 48.525
+     "start": 47.459,
+     "end": 47.828
     },
     {
      "w": "tonnes,",
-     "start": 48.525,
-     "end": 48.893
+     "start": 47.828,
+     "end": 48.197
     },
     {
      "w": "three",
-     "start": 48.893,
-     "end": 49.104
+     "start": 48.197,
+     "end": 48.409
     },
     {
      "w": "shades,",
-     "start": 49.104,
-     "end": 49.472
+     "start": 48.409,
+     "end": 48.778
     },
     {
      "w": "lighter",
-     "start": 49.472,
-     "end": 49.84
+     "start": 48.778,
+     "end": 49.148
     },
     {
      "w": "at",
-     "start": 49.84,
-     "end": 50.052
+     "start": 49.148,
+     "end": 49.36
     },
     {
      "w": "the",
-     "start": 50.052,
-     "end": 50.263
+     "start": 49.36,
+     "end": 49.572
     },
     {
      "w": "top",
-     "start": 50.263,
-     "end": 50.475
+     "start": 49.572,
+     "end": 49.784
     },
     {
      "w": "so",
-     "start": 50.475,
-     "end": 50.686
+     "start": 49.784,
+     "end": 49.996
     },
     {
      "w": "it",
-     "start": 50.686,
-     "end": 50.898
+     "start": 49.996,
+     "end": 50.208
     },
     {
      "w": "looks",
-     "start": 50.898,
-     "end": 51.109
+     "start": 50.208,
+     "end": 50.42
     },
     {
      "w": "even.",
-     "start": 51.109,
-     "end": 51.477
+     "start": 50.42,
+     "end": 50.789
     }
    ]
   },
   {
    "line": 12,
-   "start": 51.906,
-   "end": 58.0,
-   "text": "Built to last twenty years, it grows up to fifteen centimeters in summer, and melted down it would be six centimeters thick.",
+   "start": 51.208,
+   "end": 57.156,
+   "text": "Built to last twenty years, it grows fifteen centimeters in summer, and melted down it would be six centimeters thick.",
    "words": [
     {
      "w": "Built",
-     "start": 52.006,
-     "end": 52.205
+     "start": 51.308,
+     "end": 51.545
     },
     {
      "w": "to",
-     "start": 52.205,
-     "end": 52.405
+     "start": 51.545,
+     "end": 51.782
     },
     {
      "w": "last",
-     "start": 52.405,
-     "end": 52.604
+     "start": 51.782,
+     "end": 52.019
     },
     {
      "w": "twenty",
-     "start": 52.604,
-     "end": 52.951
+     "start": 52.019,
+     "end": 52.431
     },
     {
      "w": "years,",
-     "start": 52.951,
-     "end": 53.15
+     "start": 52.431,
+     "end": 52.668
     },
     {
      "w": "it",
-     "start": 53.15,
-     "end": 53.349
+     "start": 52.798,
+     "end": 52.997
     },
     {
      "w": "grows",
-     "start": 53.349,
-     "end": 53.548
-    },
-    {
-     "w": "up",
-     "start": 53.548,
-     "end": 53.748
-    },
-    {
-     "w": "to",
-     "start": 53.748,
-     "end": 53.947
+     "start": 52.997,
+     "end": 53.196
     },
     {
      "w": "fifteen",
-     "start": 53.947,
-     "end": 54.294
+     "start": 53.196,
+     "end": 53.542
     },
     {
      "w": "centimeters",
-     "start": 54.294,
-     "end": 54.936
+     "start": 53.542,
+     "end": 54.183
     },
     {
      "w": "in",
-     "start": 54.936,
-     "end": 55.135
+     "start": 54.183,
+     "end": 54.382
     },
     {
      "w": "summer,",
-     "start": 55.135,
-     "end": 55.482
+     "start": 54.382,
+     "end": 54.728
     },
     {
      "w": "and",
-     "start": 55.482,
-     "end": 55.681
+     "start": 54.888,
+     "end": 55.065
     },
     {
      "w": "melted",
-     "start": 55.681,
-     "end": 56.028
+     "start": 55.065,
+     "end": 55.374
     },
     {
      "w": "down",
-     "start": 56.028,
-     "end": 56.228
+     "start": 55.374,
+     "end": 55.551
     },
     {
      "w": "it",
-     "start": 56.228,
-     "end": 56.427
+     "start": 55.551,
+     "end": 55.728
     },
     {
      "w": "would",
-     "start": 56.427,
-     "end": 56.626
+     "start": 55.728,
+     "end": 55.905
     },
     {
      "w": "be",
-     "start": 56.626,
-     "end": 56.825
+     "start": 55.905,
+     "end": 56.083
     },
     {
      "w": "six",
-     "start": 56.825,
-     "end": 57.025
+     "start": 56.083,
+     "end": 56.26
     },
     {
      "w": "centimeters",
-     "start": 57.025,
-     "end": 57.667
+     "start": 56.26,
+     "end": 56.831
     },
     {
      "w": "thick.",
-     "start": 57.667,
-     "end": 57.866
+     "start": 56.831,
+     "end": 57.008
     }
    ]
   },
   {
    "line": 13,
-   "start": 58.365,
-   "end": 61.115,
+   "start": 57.521,
+   "end": 60.271,
    "text": "And congrats, you just built the Eiffel Tower yourself.",
    "words": [
     {
      "w": "And",
-     "start": 58.475,
-     "end": 58.686
+     "start": 57.641,
+     "end": 57.85
     },
     {
      "w": "congrats,",
-     "start": 58.686,
-     "end": 59.052
+     "start": 57.85,
+     "end": 58.214
     },
     {
      "w": "you",
-     "start": 59.052,
-     "end": 59.263
+     "start": 58.214,
+     "end": 58.423
     },
     {
      "w": "just",
-     "start": 59.263,
-     "end": 59.474
+     "start": 58.423,
+     "end": 58.632
     },
     {
      "w": "built",
-     "start": 59.474,
-     "end": 59.684
+     "start": 58.632,
+     "end": 58.841
     },
     {
      "w": "the",
-     "start": 59.684,
-     "end": 59.895
+     "start": 58.841,
+     "end": 59.05
     },
     {
      "w": "Eiffel",
-     "start": 59.895,
-     "end": 60.262
+     "start": 59.05,
+     "end": 59.413
     },
     {
      "w": "Tower",
-     "start": 60.262,
-     "end": 60.628
+     "start": 59.413,
+     "end": 59.777
     },
     {
      "w": "yourself.",
-     "start": 60.628,
-     "end": 60.995
+     "start": 59.777,
+     "end": 60.141
     }
    ]
   },
   {
    "line": 14,
-   "start": 61.479,
-   "end": 67.198,
-   "text": "Top artists once called it a useless monster. Now everyone takes the same photo, pinching its tip between two fingers.",
+   "start": 60.635,
+   "end": 66.083,
+   "text": "Top artists called it a useless monster. Now everyone takes the same photo, pinching its tip between two fingers.",
    "words": [
     {
      "w": "Top",
-     "start": 61.629,
-     "end": 61.804
+     "start": 60.785,
+     "end": 60.954
     },
     {
      "w": "artists",
-     "start": 61.804,
-     "end": 62.109
-    },
-    {
-     "w": "once",
-     "start": 62.109,
-     "end": 62.284
+     "start": 60.954,
+     "end": 61.248
     },
     {
      "w": "called",
-     "start": 62.284,
-     "end": 62.589
+     "start": 61.248,
+     "end": 61.543
     },
     {
      "w": "it",
-     "start": 62.589,
-     "end": 62.764
+     "start": 61.543,
+     "end": 61.712
     },
     {
      "w": "a",
-     "start": 62.764,
-     "end": 62.939
+     "start": 61.712,
+     "end": 61.881
     },
     {
      "w": "useless",
-     "start": 62.939,
-     "end": 63.374
+     "start": 61.881,
+     "end": 62.301
     },
     {
      "w": "monster.",
-     "start": 63.374,
-     "end": 63.679
+     "start": 62.301,
+     "end": 62.595
     },
     {
      "w": "Now",
-     "start": 63.789,
-     "end": 63.956
+     "start": 62.705,
+     "end": 62.873
     },
     {
      "w": "everyone",
-     "start": 63.956,
-     "end": 64.372
+     "start": 62.873,
+     "end": 63.292
     },
     {
      "w": "takes",
-     "start": 64.372,
-     "end": 64.663
+     "start": 63.292,
+     "end": 63.585
     },
     {
      "w": "the",
-     "start": 64.663,
-     "end": 64.83
+     "start": 63.585,
+     "end": 63.753
     },
     {
      "w": "same",
-     "start": 64.83,
-     "end": 64.998
+     "start": 63.753,
+     "end": 63.922
     },
     {
      "w": "photo,",
-     "start": 64.998,
-     "end": 65.289
+     "start": 63.922,
+     "end": 64.215
     },
     {
      "w": "pinching",
-     "start": 65.479,
-     "end": 65.83
+     "start": 64.385,
+     "end": 64.726
     },
     {
      "w": "its",
-     "start": 65.83,
-     "end": 66.032
+     "start": 64.726,
+     "end": 64.922
     },
     {
      "w": "tip",
-     "start": 66.032,
-     "end": 66.234
+     "start": 64.922,
+     "end": 65.117
     },
     {
      "w": "between",
-     "start": 66.234,
-     "end": 66.586
+     "start": 65.117,
+     "end": 65.458
     },
     {
      "w": "two",
-     "start": 66.586,
-     "end": 66.788
+     "start": 65.458,
+     "end": 65.654
     },
     {
      "w": "fingers.",
-     "start": 66.788,
-     "end": 67.139
+     "start": 65.654,
+     "end": 65.995
     }
    ]
   }
