@@ -1,0 +1,1257 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 63.07,
+ "words": 227,
+ "words_per_sec": 3.6,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.365,
+   "text": "If you can grow a palm tree out of the sea, big enough to live on, congrats, you just built the Palm Jumeirah.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.301
+    },
+    {
+     "w": "you",
+     "start": 0.301,
+     "end": 0.472
+    },
+    {
+     "w": "can",
+     "start": 0.472,
+     "end": 0.643
+    },
+    {
+     "w": "grow",
+     "start": 0.643,
+     "end": 0.814
+    },
+    {
+     "w": "a",
+     "start": 0.814,
+     "end": 0.985
+    },
+    {
+     "w": "palm",
+     "start": 0.985,
+     "end": 1.155
+    },
+    {
+     "w": "tree",
+     "start": 1.155,
+     "end": 1.326
+    },
+    {
+     "w": "out",
+     "start": 1.326,
+     "end": 1.497
+    },
+    {
+     "w": "of",
+     "start": 1.497,
+     "end": 1.668
+    },
+    {
+     "w": "the",
+     "start": 1.668,
+     "end": 1.839
+    },
+    {
+     "w": "sea,",
+     "start": 1.839,
+     "end": 2.01
+    },
+    {
+     "w": "big",
+     "start": 2.15,
+     "end": 2.371
+    },
+    {
+     "w": "enough",
+     "start": 2.371,
+     "end": 2.754
+    },
+    {
+     "w": "to",
+     "start": 2.754,
+     "end": 2.975
+    },
+    {
+     "w": "live",
+     "start": 2.975,
+     "end": 3.196
+    },
+    {
+     "w": "on,",
+     "start": 3.196,
+     "end": 3.416
+    },
+    {
+     "w": "congrats,",
+     "start": 3.416,
+     "end": 3.8
+    },
+    {
+     "w": "you",
+     "start": 3.94,
+     "end": 4.122
+    },
+    {
+     "w": "just",
+     "start": 4.122,
+     "end": 4.304
+    },
+    {
+     "w": "built",
+     "start": 4.304,
+     "end": 4.485
+    },
+    {
+     "w": "the",
+     "start": 4.485,
+     "end": 4.667
+    },
+    {
+     "w": "Palm",
+     "start": 4.667,
+     "end": 4.849
+    },
+    {
+     "w": "Jumeirah.",
+     "start": 4.849,
+     "end": 5.3
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.729,
+   "end": 9.74,
+   "text": "But Dubai has only a short strip of beach, and every hotel wants a spot on it.",
+   "words": [
+    {
+     "w": "But",
+     "start": 5.869,
+     "end": 6.031
+    },
+    {
+     "w": "Dubai",
+     "start": 6.031,
+     "end": 6.314
+    },
+    {
+     "w": "has",
+     "start": 6.314,
+     "end": 6.476
+    },
+    {
+     "w": "only",
+     "start": 6.476,
+     "end": 6.758
+    },
+    {
+     "w": "a",
+     "start": 6.758,
+     "end": 6.92
+    },
+    {
+     "w": "short",
+     "start": 6.92,
+     "end": 7.082
+    },
+    {
+     "w": "strip",
+     "start": 7.082,
+     "end": 7.245
+    },
+    {
+     "w": "of",
+     "start": 7.245,
+     "end": 7.407
+    },
+    {
+     "w": "beach,",
+     "start": 7.407,
+     "end": 7.569
+    },
+    {
+     "w": "and",
+     "start": 7.639,
+     "end": 7.837
+    },
+    {
+     "w": "every",
+     "start": 7.837,
+     "end": 8.327
+    },
+    {
+     "w": "hotel",
+     "start": 8.327,
+     "end": 8.671
+    },
+    {
+     "w": "wants",
+     "start": 8.671,
+     "end": 8.869
+    },
+    {
+     "w": "a",
+     "start": 8.869,
+     "end": 9.066
+    },
+    {
+     "w": "spot",
+     "start": 9.066,
+     "end": 9.264
+    },
+    {
+     "w": "on",
+     "start": 9.264,
+     "end": 9.461
+    },
+    {
+     "w": "it.",
+     "start": 9.461,
+     "end": 9.659
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.104,
+   "end": 14.719,
+   "text": "So you shape new land like a palm: a trunk and sixteen fronds, each lined with beach.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.224,
+     "end": 10.436
+    },
+    {
+     "w": "you",
+     "start": 10.436,
+     "end": 10.649
+    },
+    {
+     "w": "shape",
+     "start": 10.649,
+     "end": 10.862
+    },
+    {
+     "w": "new",
+     "start": 10.862,
+     "end": 11.074
+    },
+    {
+     "w": "land",
+     "start": 11.074,
+     "end": 11.286
+    },
+    {
+     "w": "like",
+     "start": 11.286,
+     "end": 11.499
+    },
+    {
+     "w": "a",
+     "start": 11.499,
+     "end": 11.712
+    },
+    {
+     "w": "palm:",
+     "start": 11.712,
+     "end": 11.924
+    },
+    {
+     "w": "a",
+     "start": 12.084,
+     "end": 12.333
+    },
+    {
+     "w": "trunk",
+     "start": 12.333,
+     "end": 12.582
+    },
+    {
+     "w": "and",
+     "start": 12.582,
+     "end": 12.831
+    },
+    {
+     "w": "sixteen",
+     "start": 12.831,
+     "end": 13.265
+    },
+    {
+     "w": "fronds,",
+     "start": 13.265,
+     "end": 13.514
+    },
+    {
+     "w": "each",
+     "start": 13.654,
+     "end": 13.865
+    },
+    {
+     "w": "lined",
+     "start": 13.865,
+     "end": 14.232
+    },
+    {
+     "w": "with",
+     "start": 14.232,
+     "end": 14.443
+    },
+    {
+     "w": "beach.",
+     "start": 14.443,
+     "end": 14.654
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 15.083,
+   "end": 19.021,
+   "text": "But desert sand won't do. Its grains are so fine the sea would wash them away.",
+   "words": [
+    {
+     "w": "But",
+     "start": 15.213,
+     "end": 15.439
+    },
+    {
+     "w": "desert",
+     "start": 15.439,
+     "end": 15.834
+    },
+    {
+     "w": "sand",
+     "start": 15.834,
+     "end": 16.06
+    },
+    {
+     "w": "won't",
+     "start": 16.06,
+     "end": 16.287
+    },
+    {
+     "w": "do.",
+     "start": 16.287,
+     "end": 16.513
+    },
+    {
+     "w": "Its",
+     "start": 16.673,
+     "end": 16.867
+    },
+    {
+     "w": "grains",
+     "start": 16.867,
+     "end": 17.061
+    },
+    {
+     "w": "are",
+     "start": 17.061,
+     "end": 17.256
+    },
+    {
+     "w": "so",
+     "start": 17.256,
+     "end": 17.45
+    },
+    {
+     "w": "fine",
+     "start": 17.45,
+     "end": 17.644
+    },
+    {
+     "w": "the",
+     "start": 17.644,
+     "end": 17.838
+    },
+    {
+     "w": "sea",
+     "start": 17.838,
+     "end": 18.032
+    },
+    {
+     "w": "would",
+     "start": 18.032,
+     "end": 18.227
+    },
+    {
+     "w": "wash",
+     "start": 18.227,
+     "end": 18.421
+    },
+    {
+     "w": "them",
+     "start": 18.421,
+     "end": 18.615
+    },
+    {
+     "w": "away.",
+     "start": 18.615,
+     "end": 18.953
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.385,
+   "end": 24.125,
+   "text": "So ships suck sand off the seabed and spray it into place in huge arcs. Builders call it rainbowing.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.495,
+     "end": 19.697
+    },
+    {
+     "w": "ships",
+     "start": 19.697,
+     "end": 19.899
+    },
+    {
+     "w": "suck",
+     "start": 19.899,
+     "end": 20.101
+    },
+    {
+     "w": "sand",
+     "start": 20.101,
+     "end": 20.303
+    },
+    {
+     "w": "off",
+     "start": 20.303,
+     "end": 20.505
+    },
+    {
+     "w": "the",
+     "start": 20.505,
+     "end": 20.707
+    },
+    {
+     "w": "seabed",
+     "start": 20.707,
+     "end": 21.059
+    },
+    {
+     "w": "and",
+     "start": 21.059,
+     "end": 21.261
+    },
+    {
+     "w": "spray",
+     "start": 21.261,
+     "end": 21.463
+    },
+    {
+     "w": "it",
+     "start": 21.463,
+     "end": 21.665
+    },
+    {
+     "w": "into",
+     "start": 21.665,
+     "end": 22.017
+    },
+    {
+     "w": "place",
+     "start": 22.017,
+     "end": 22.219
+    },
+    {
+     "w": "in",
+     "start": 22.219,
+     "end": 22.421
+    },
+    {
+     "w": "huge",
+     "start": 22.421,
+     "end": 22.623
+    },
+    {
+     "w": "arcs.",
+     "start": 22.623,
+     "end": 22.825
+    },
+    {
+     "w": "Builders",
+     "start": 22.955,
+     "end": 23.263
+    },
+    {
+     "w": "call",
+     "start": 23.263,
+     "end": 23.44
+    },
+    {
+     "w": "it",
+     "start": 23.44,
+     "end": 23.616
+    },
+    {
+     "w": "rainbowing.",
+     "start": 23.616,
+     "end": 24.055
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.49,
+   "end": 26.75,
+   "text": "But one big storm would tear the fronds apart.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.62,
+     "end": 24.831
+    },
+    {
+     "w": "one",
+     "start": 24.831,
+     "end": 25.043
+    },
+    {
+     "w": "big",
+     "start": 25.043,
+     "end": 25.254
+    },
+    {
+     "w": "storm",
+     "start": 25.254,
+     "end": 25.466
+    },
+    {
+     "w": "would",
+     "start": 25.466,
+     "end": 25.677
+    },
+    {
+     "w": "tear",
+     "start": 25.677,
+     "end": 25.889
+    },
+    {
+     "w": "the",
+     "start": 25.889,
+     "end": 26.1
+    },
+    {
+     "w": "fronds",
+     "start": 26.1,
+     "end": 26.312
+    },
+    {
+     "w": "apart.",
+     "start": 26.312,
+     "end": 26.68
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.115,
+   "end": 31.573,
+   "text": "So you wrap it in a crescent of rock eleven kilometers long, every boulder placed by crane.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.225,
+     "end": 27.39
+    },
+    {
+     "w": "you",
+     "start": 27.39,
+     "end": 27.556
+    },
+    {
+     "w": "wrap",
+     "start": 27.556,
+     "end": 27.721
+    },
+    {
+     "w": "it",
+     "start": 27.721,
+     "end": 27.887
+    },
+    {
+     "w": "in",
+     "start": 27.887,
+     "end": 28.052
+    },
+    {
+     "w": "a",
+     "start": 28.052,
+     "end": 28.217
+    },
+    {
+     "w": "crescent",
+     "start": 28.217,
+     "end": 28.505
+    },
+    {
+     "w": "of",
+     "start": 28.505,
+     "end": 28.671
+    },
+    {
+     "w": "rock",
+     "start": 28.671,
+     "end": 28.836
+    },
+    {
+     "w": "eleven",
+     "start": 28.836,
+     "end": 29.247
+    },
+    {
+     "w": "kilometers",
+     "start": 29.247,
+     "end": 29.78
+    },
+    {
+     "w": "long,",
+     "start": 29.78,
+     "end": 29.945
+    },
+    {
+     "w": "every",
+     "start": 30.115,
+     "end": 30.551
+    },
+    {
+     "w": "boulder",
+     "start": 30.551,
+     "end": 30.857
+    },
+    {
+     "w": "placed",
+     "start": 30.857,
+     "end": 31.163
+    },
+    {
+     "w": "by",
+     "start": 31.163,
+     "end": 31.339
+    },
+    {
+     "w": "crane.",
+     "start": 31.339,
+     "end": 31.515
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.938,
+   "end": 34.823,
+   "text": "But in an earthquake, loose wet sand can turn to soup.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.068,
+     "end": 32.256
+    },
+    {
+     "w": "in",
+     "start": 32.256,
+     "end": 32.443
+    },
+    {
+     "w": "an",
+     "start": 32.443,
+     "end": 32.631
+    },
+    {
+     "w": "earthquake,",
+     "start": 32.631,
+     "end": 32.958
+    },
+    {
+     "w": "loose",
+     "start": 33.108,
+     "end": 33.335
+    },
+    {
+     "w": "wet",
+     "start": 33.335,
+     "end": 33.562
+    },
+    {
+     "w": "sand",
+     "start": 33.562,
+     "end": 33.789
+    },
+    {
+     "w": "can",
+     "start": 33.789,
+     "end": 34.017
+    },
+    {
+     "w": "turn",
+     "start": 34.017,
+     "end": 34.244
+    },
+    {
+     "w": "to",
+     "start": 34.244,
+     "end": 34.471
+    },
+    {
+     "w": "soup.",
+     "start": 34.471,
+     "end": 34.698
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.188,
+   "end": 38.99,
+   "text": "So you push giant vibrating probes into the island and shake the grains tight.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.308,
+     "end": 35.512
+    },
+    {
+     "w": "you",
+     "start": 35.512,
+     "end": 35.717
+    },
+    {
+     "w": "push",
+     "start": 35.717,
+     "end": 35.921
+    },
+    {
+     "w": "giant",
+     "start": 35.921,
+     "end": 36.126
+    },
+    {
+     "w": "vibrating",
+     "start": 36.126,
+     "end": 36.633
+    },
+    {
+     "w": "probes",
+     "start": 36.633,
+     "end": 36.989
+    },
+    {
+     "w": "into",
+     "start": 36.989,
+     "end": 37.345
+    },
+    {
+     "w": "the",
+     "start": 37.345,
+     "end": 37.55
+    },
+    {
+     "w": "island",
+     "start": 37.55,
+     "end": 37.906
+    },
+    {
+     "w": "and",
+     "start": 37.906,
+     "end": 38.11
+    },
+    {
+     "w": "shake",
+     "start": 38.11,
+     "end": 38.315
+    },
+    {
+     "w": "the",
+     "start": 38.315,
+     "end": 38.519
+    },
+    {
+     "w": "grains",
+     "start": 38.519,
+     "end": 38.724
+    },
+    {
+     "w": "tight.",
+     "start": 38.724,
+     "end": 38.928
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 39.354,
+   "end": 43.208,
+   "text": "But before you grab your towel, follow, because next we're building a refrigerator.",
+   "words": [
+    {
+     "w": "But",
+     "start": 39.504,
+     "end": 39.682
+    },
+    {
+     "w": "before",
+     "start": 39.682,
+     "end": 39.991
+    },
+    {
+     "w": "you",
+     "start": 39.991,
+     "end": 40.169
+    },
+    {
+     "w": "grab",
+     "start": 40.169,
+     "end": 40.347
+    },
+    {
+     "w": "your",
+     "start": 40.347,
+     "end": 40.525
+    },
+    {
+     "w": "towel,",
+     "start": 40.525,
+     "end": 40.834
+    },
+    {
+     "w": "follow,",
+     "start": 41.004,
+     "end": 41.334
+    },
+    {
+     "w": "because",
+     "start": 41.474,
+     "end": 41.751
+    },
+    {
+     "w": "next",
+     "start": 41.751,
+     "end": 41.91
+    },
+    {
+     "w": "we're",
+     "start": 41.91,
+     "end": 42.069
+    },
+    {
+     "w": "building",
+     "start": 42.069,
+     "end": 42.345
+    },
+    {
+     "w": "a",
+     "start": 42.345,
+     "end": 42.504
+    },
+    {
+     "w": "refrigerator.",
+     "start": 42.504,
+     "end": 43.134
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 43.573,
+   "end": 48.365,
+   "text": "Now cut two gaps in the crescent so the tide can flush the water, and fill the fronds with villas.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 43.693,
+     "end": 43.893
+    },
+    {
+     "w": "cut",
+     "start": 43.893,
+     "end": 44.093
+    },
+    {
+     "w": "two",
+     "start": 44.093,
+     "end": 44.294
+    },
+    {
+     "w": "gaps",
+     "start": 44.294,
+     "end": 44.494
+    },
+    {
+     "w": "in",
+     "start": 44.494,
+     "end": 44.694
+    },
+    {
+     "w": "the",
+     "start": 44.694,
+     "end": 44.894
+    },
+    {
+     "w": "crescent",
+     "start": 44.894,
+     "end": 45.243
+    },
+    {
+     "w": "so",
+     "start": 45.243,
+     "end": 45.443
+    },
+    {
+     "w": "the",
+     "start": 45.443,
+     "end": 45.643
+    },
+    {
+     "w": "tide",
+     "start": 45.643,
+     "end": 45.844
+    },
+    {
+     "w": "can",
+     "start": 45.844,
+     "end": 46.044
+    },
+    {
+     "w": "flush",
+     "start": 46.044,
+     "end": 46.244
+    },
+    {
+     "w": "the",
+     "start": 46.244,
+     "end": 46.444
+    },
+    {
+     "w": "water,",
+     "start": 46.444,
+     "end": 46.793
+    },
+    {
+     "w": "and",
+     "start": 46.953,
+     "end": 47.15
+    },
+    {
+     "w": "fill",
+     "start": 47.15,
+     "end": 47.348
+    },
+    {
+     "w": "the",
+     "start": 47.348,
+     "end": 47.545
+    },
+    {
+     "w": "fronds",
+     "start": 47.545,
+     "end": 47.742
+    },
+    {
+     "w": "with",
+     "start": 47.742,
+     "end": 47.94
+    },
+    {
+     "w": "villas.",
+     "start": 47.94,
+     "end": 48.283
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 48.729,
+   "end": 54.885,
+   "text": "Ninety-four million cubic meters of sand, seven million tonnes of rock, and no concrete or steel in the island itself.",
+   "words": [
+    {
+     "w": "Ninety-four",
+     "start": 48.809,
+     "end": 49.482
+    },
+    {
+     "w": "million",
+     "start": 49.482,
+     "end": 49.845
+    },
+    {
+     "w": "cubic",
+     "start": 49.845,
+     "end": 50.208
+    },
+    {
+     "w": "meters",
+     "start": 50.208,
+     "end": 50.572
+    },
+    {
+     "w": "of",
+     "start": 50.572,
+     "end": 50.78
+    },
+    {
+     "w": "sand,",
+     "start": 50.78,
+     "end": 50.989
+    },
+    {
+     "w": "seven",
+     "start": 51.139,
+     "end": 51.46
+    },
+    {
+     "w": "million",
+     "start": 51.46,
+     "end": 51.78
+    },
+    {
+     "w": "tonnes",
+     "start": 51.78,
+     "end": 52.101
+    },
+    {
+     "w": "of",
+     "start": 52.101,
+     "end": 52.285
+    },
+    {
+     "w": "rock,",
+     "start": 52.285,
+     "end": 52.469
+    },
+    {
+     "w": "and",
+     "start": 52.649,
+     "end": 52.84
+    },
+    {
+     "w": "no",
+     "start": 52.84,
+     "end": 53.03
+    },
+    {
+     "w": "concrete",
+     "start": 53.03,
+     "end": 53.362
+    },
+    {
+     "w": "or",
+     "start": 53.362,
+     "end": 53.553
+    },
+    {
+     "w": "steel",
+     "start": 53.553,
+     "end": 53.744
+    },
+    {
+     "w": "in",
+     "start": 53.744,
+     "end": 53.934
+    },
+    {
+     "w": "the",
+     "start": 53.934,
+     "end": 54.125
+    },
+    {
+     "w": "island",
+     "start": 54.125,
+     "end": 54.457
+    },
+    {
+     "w": "itself.",
+     "start": 54.457,
+     "end": 54.789
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.25,
+   "end": 58.135,
+   "text": "And congrats, you just built the Palm Jumeirah yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 55.37,
+     "end": 55.629
+    },
+    {
+     "w": "congrats,",
+     "start": 55.629,
+     "end": 56.08
+    },
+    {
+     "w": "you",
+     "start": 56.21,
+     "end": 56.402
+    },
+    {
+     "w": "just",
+     "start": 56.402,
+     "end": 56.594
+    },
+    {
+     "w": "built",
+     "start": 56.594,
+     "end": 56.786
+    },
+    {
+     "w": "the",
+     "start": 56.786,
+     "end": 56.978
+    },
+    {
+     "w": "Palm",
+     "start": 56.978,
+     "end": 57.17
+    },
+    {
+     "w": "Jumeirah",
+     "start": 57.17,
+     "end": 57.646
+    },
+    {
+     "w": "yourself.",
+     "start": 57.646,
+     "end": 57.98
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 58.5,
+   "end": 63.094,
+   "text": "They built a whole island out of sand, and you still can't eat one sandwich at the beach without sand in it.",
+   "words": [
+    {
+     "w": "They",
+     "start": 58.63,
+     "end": 58.812
+    },
+    {
+     "w": "built",
+     "start": 58.812,
+     "end": 58.993
+    },
+    {
+     "w": "a",
+     "start": 58.993,
+     "end": 59.175
+    },
+    {
+     "w": "whole",
+     "start": 59.175,
+     "end": 59.357
+    },
+    {
+     "w": "island",
+     "start": 59.357,
+     "end": 59.673
+    },
+    {
+     "w": "out",
+     "start": 59.673,
+     "end": 59.854
+    },
+    {
+     "w": "of",
+     "start": 59.854,
+     "end": 60.036
+    },
+    {
+     "w": "sand,",
+     "start": 60.036,
+     "end": 60.218
+    },
+    {
+     "w": "and",
+     "start": 60.218,
+     "end": 60.399
+    },
+    {
+     "w": "you",
+     "start": 60.399,
+     "end": 60.581
+    },
+    {
+     "w": "still",
+     "start": 60.581,
+     "end": 60.763
+    },
+    {
+     "w": "can't",
+     "start": 60.763,
+     "end": 60.944
+    },
+    {
+     "w": "eat",
+     "start": 60.944,
+     "end": 61.126
+    },
+    {
+     "w": "one",
+     "start": 61.126,
+     "end": 61.308
+    },
+    {
+     "w": "sandwich",
+     "start": 61.308,
+     "end": 61.624
+    },
+    {
+     "w": "at",
+     "start": 61.624,
+     "end": 61.806
+    },
+    {
+     "w": "the",
+     "start": 61.806,
+     "end": 61.987
+    },
+    {
+     "w": "beach",
+     "start": 61.987,
+     "end": 62.169
+    },
+    {
+     "w": "without",
+     "start": 62.169,
+     "end": 62.485
+    },
+    {
+     "w": "sand",
+     "start": 62.485,
+     "end": 62.667
+    },
+    {
+     "w": "in",
+     "start": 62.667,
+     "end": 62.848
+    },
+    {
+     "w": "it.",
+     "start": 62.848,
+     "end": 63.03
+    }
+   ]
+  }
+ ]
+}
