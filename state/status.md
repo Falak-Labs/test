@@ -1,4 +1,4 @@
-# Post status 2026-11-20T04:11:24+00:00
+# Post status 2026-11-20T04:24:05+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -292,3 +292,6 @@
 | ep49-hagiasophia | en.instagram | scheduled |  | 2026-11-20T21:30:00.000Z |
 | ep49-hagiasophia | en.tiktok | scheduled |  | 2026-11-20T21:30:00.000Z |
 | ep49-hagiasophia | en.youtube | scheduled |  | 2026-11-20T21:30:00.000Z |
+| ep50-ondol | ar.instagram | scheduled |  | 2026-11-20T20:00:00.000Z |
+| ep50-ondol | en.instagram | scheduled |  | 2026-11-21T00:00:00.000Z |
+| ep50-ondol | en.tiktok | scheduled |  | 2026-11-21T00:00:00.000Z |
