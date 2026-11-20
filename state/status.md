@@ -1,4 +1,4 @@
-# Post status 2026-11-20T02:42:47+00:00
+# Post status 2026-11-20T02:58:13+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -219,7 +219,7 @@
 | ep36-pyramid | en.tiktok | sent |  | 2026-11-18T05:30:46.755Z https://tiktok.com/@congratsengineer/video/7709379367360597262 |
 | ep36-pyramid | en.youtube | sent |  | 2026-11-18T05:30:08.839Z https://www.youtube.com/shorts/NBpVVXvwBd4 |
 | ep37-windtower | ar.instagram | sent |  | 2026-11-18T17:05:10.686Z https://www.instagram.com/reel/Df4_6ANwVci/ |
-| ep37-windtower | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-20T02:00:00.000Z |
+| ep37-windtower | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-22T01:30:00.000Z |
 | ep37-windtower | ar.youtube | sent |  | 2026-11-18T17:03:17.795Z https://www.youtube.com/shorts/f3nfx--F-Kk |
 | ep37-windtower | en.instagram | sent |  | 2026-11-18T14:03:06.680Z https://www.instagram.com/reel/Df4rClNxsXT/ |
 | ep37-windtower | en.tiktok | sent |  | 2026-11-18T14:05:41.977Z https://tiktok.com/@congratsengineer/video/7709511909875223822 |
@@ -267,7 +267,7 @@
 | ep44-falaj | en.tiktok | sent |  | 2026-11-19T05:41:53.378Z https://tiktok.com/@congratsengineer/video/7709753115062439182 |
 | ep44-falaj | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-20T00:00:00.000Z |
 | ep45-machupicchu | ar.instagram | sent |  | 2026-11-19T23:03:14.106Z https://www.instagram.com/reel/Df8Ns1YhtSj/ |
-| ep45-machupicchu | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-19T23:00:00.000Z |
+| ep45-machupicchu | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-22T04:30:00.000Z |
 | ep45-machupicchu | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T23:00:00.000Z |
 | ep45-machupicchu | en.instagram | sent |  | 2026-11-20T02:31:30.495Z https://www.instagram.com/reel/Df8liWLvOKJ/ |
 | ep45-machupicchu | en.tiktok | sent |  | 2026-11-19T05:41:59.472Z https://tiktok.com/@congratsengineer/video/7709753097454767374 |
