@@ -1,4 +1,4 @@
-# Post status 2026-11-20T20:45:42+00:00
+# Post status 2026-11-20T21:06:06+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -282,7 +282,7 @@
 | ep47-igloo | ar.tiktok | sent |  | 2026-11-20T11:02:37.369Z https://www.tiktok.com/@kef.tenbeni/video/7710207127872097549?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep47-igloo | en.instagram | sent |  | 2026-11-20T16:33:29.870Z https://www.instagram.com/reel/Df-FznpQFmi/ |
 | ep47-igloo | en.tiktok | sent |  | 2026-11-20T16:33:08.692Z https://www.tiktok.com/@congratsengineer/video/7710292308058443022?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
-| ep48-riad | ar.instagram | scheduled | It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications. | 2026-11-20T21:00:00.000Z |
+| ep48-riad | ar.instagram | sent |  | 2026-11-20T21:05:08.519Z https://www.instagram.com/reel/Df-k6Kro2ui/ |
 | ep48-riad | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T01:30:00.000Z |
 | ep48-riad | en.instagram | sent |  | 2026-11-20T19:05:12.557Z https://www.instagram.com/reel/Df-XNADPkRO/ |
 | ep48-riad | en.tiktok | sent |  | 2026-11-20T19:03:23.189Z https://tiktok.com/@congratsengineer/video/7710330949552147726 |
@@ -293,7 +293,7 @@
 | ep49-hagiasophia | en.tiktok | scheduled |  | 2026-11-20T21:30:00.000Z |
 | ep49-hagiasophia | en.youtube | scheduled |  | 2026-11-20T21:30:00.000Z |
 | ep50-ondol | ar.instagram | sent |  | 2026-11-20T20:03:49.297Z https://www.instagram.com/reel/Df-d6r8PTG_/ |
-| ep50-ondol | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-20T21:00:00.000Z |
+| ep50-ondol | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-20T21:00:00.000Z |
 | ep50-ondol | en.instagram | scheduled |  | 2026-11-21T00:00:00.000Z |
 | ep50-ondol | en.tiktok | scheduled |  | 2026-11-21T00:00:00.000Z |
 | ep51-burjalarab | ar.instagram | scheduled |  | 2026-11-20T23:00:00.000Z |
@@ -304,3 +304,12 @@
 | ep52-palmjumeirah | ar.tiktok | scheduled |  | 2026-11-21T08:00:00.000Z |
 | ep52-palmjumeirah | en.instagram | scheduled |  | 2026-11-21T14:00:00.000Z |
 | ep52-palmjumeirah | en.tiktok | scheduled |  | 2026-11-21T14:00:00.000Z |
+| ep53-fridge | ar.instagram | scheduled |  | 2026-11-21T11:00:00.000Z |
+| ep53-fridge | ar.tiktok | scheduled |  | 2026-11-21T11:00:00.000Z |
+| ep53-fridge | en.instagram | scheduled |  | 2026-11-21T16:30:00.000Z |
+| ep53-fridge | en.tiktok | scheduled |  | 2026-11-21T16:30:00.000Z |
+| ep54-eiffel | ar.instagram | scheduled |  | 2026-11-21T14:00:00.000Z |
+| ep54-eiffel | ar.youtube | scheduled |  | 2026-11-21T14:00:00.000Z |
+| ep54-eiffel | en.instagram | scheduled |  | 2026-11-21T19:00:00.000Z |
+| ep54-eiffel | en.tiktok | scheduled |  | 2026-11-21T19:00:00.000Z |
+| ep54-eiffel | en.youtube | scheduled |  | 2026-11-21T19:00:00.000Z |
