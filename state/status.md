@@ -1,4 +1,4 @@
-# Post status 2026-11-20T20:27:49+00:00
+# Post status 2026-11-20T20:45:42+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -293,10 +293,14 @@
 | ep49-hagiasophia | en.tiktok | scheduled |  | 2026-11-20T21:30:00.000Z |
 | ep49-hagiasophia | en.youtube | scheduled |  | 2026-11-20T21:30:00.000Z |
 | ep50-ondol | ar.instagram | sent |  | 2026-11-20T20:03:49.297Z https://www.instagram.com/reel/Df-d6r8PTG_/ |
-| ep50-ondol | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-20T20:00:00.000Z |
+| ep50-ondol | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-20T21:00:00.000Z |
 | ep50-ondol | en.instagram | scheduled |  | 2026-11-21T00:00:00.000Z |
 | ep50-ondol | en.tiktok | scheduled |  | 2026-11-21T00:00:00.000Z |
 | ep51-burjalarab | ar.instagram | scheduled |  | 2026-11-20T23:00:00.000Z |
 | ep51-burjalarab | ar.tiktok | scheduled |  | 2026-11-20T23:00:00.000Z |
 | ep51-burjalarab | en.instagram | scheduled |  | 2026-11-21T02:30:00.000Z |
 | ep51-burjalarab | en.tiktok | scheduled |  | 2026-11-21T02:30:00.000Z |
+| ep52-palmjumeirah | ar.instagram | scheduled |  | 2026-11-21T08:00:00.000Z |
+| ep52-palmjumeirah | ar.tiktok | scheduled |  | 2026-11-21T08:00:00.000Z |
+| ep52-palmjumeirah | en.instagram | scheduled |  | 2026-11-21T14:00:00.000Z |
+| ep52-palmjumeirah | en.tiktok | scheduled |  | 2026-11-21T14:00:00.000Z |
