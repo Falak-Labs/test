@@ -1,0 +1,134 @@
+{
+ "slug": "ep50-ondol",
+ "kit": "ondol",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "5/231",
+   "mix_lines_off": [
+    "L 2 2 diff  | But Korean winters can drop below -15 and firewood is precious.",
+    "L 3 1 diff  | So the kitchen fire does double duty. It's hot smoke runs under the floor before it leaves.",
+    "L 4 2 diff  | But smoke wants to rush straight to the chimney, heating one's drift and leaving the rest cold."
+   ],
+   "size_mb": 20.0,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو النار اللي بتطبخ عليها الرز بتدفّي البيت كله من الأرضية، مبروك، كده انت بنيت أرضية كورية دافية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الشتا في كوريا ممكن ينزل تحت سالب خمستاشر، والحطب غالي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فنار المطبخ تشتغل شغلانتين: دخانها السخن يعدّي تحت الأرضية قبل ما يطلع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الدخان عايز يجري على المدخنة على طول، ويسيب الباقي ساقع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتعمل قنوات حجر توزّعه تحت الأرضية كلها، وفوقها ألواح حجر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس النار بتطفي بعد كام ساعة، والليل طويل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتغطّي الحجر بطين تخين، يشرب السخونية زي البطارية، ويفضل دافي لحد الصبح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس الطين بيعمل تراب، والناس هنا بتقعد وتاكل وتنام على الأرض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتلزق فوقه ورق مدهون بزيت الصويا: ناعم، ولامع، ويتمسح بسهولة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تتمدد، تابعني، عشان اللي جاي هنبني فندق دبي اللي شكله شراع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "ودلوقتي ادّي لتيتة أدفى حتة، وخبّي طبق رز أبوك تحت البطانية عشان يفضل سخن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "لسه تحت كل بيت كوري تقريبًا، والمعماري فرانك لويد رايت نقلها لأمريكا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت أرضية كورية دافية بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "آلاف السنين بيناموا على أرض دافية، وانت حافي على البلاط في الشتا، وأمك: البس الشبشب، هتاخد برد!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 73.43,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.8,
+   "cover": true
+  }
+ }
+}

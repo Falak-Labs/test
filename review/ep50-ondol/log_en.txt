@@ -1,0 +1,13 @@
+ondol: 69.11s, 2073 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/ondol/cover.png: ['KOREAN', 'HEATED FLOOR'] (frame 0 of the video)
+video done in 509s
+audio done
+final out/ondol/ondol_final.mp4
+QA  duration 69.10s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2073
+QA sheet out/ondol/qa_sheet.png

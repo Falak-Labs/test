@@ -1,0 +1,7 @@
+ondol_ar_sa: 73.45s, 2203 frames
+cover out/ondol_ar_sa/cover.png: ['أرضية', 'كورية دافية'] (frame 0 of the video)
+video done in 534s
+audio done
+final out/ondol_ar_sa/ondol_ar_sa_final.mp4
+QA  duration 73.43s  loudness -14.0 LUFS  true peak -1.8 dBFS  1080x1920 @ 30/1  frames 2203
+QA sheet out/ondol_ar_sa/qa_sheet.png
