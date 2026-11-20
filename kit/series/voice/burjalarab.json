@@ -1,0 +1,1262 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 63.25,
+ "words": 228,
+ "words_per_sec": 3.6,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.156,
+   "text": "If you can put a hotel shaped like a sail in the sea, on an island you made yourself, congrats, you just built the Burj Al Arab.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.295
+    },
+    {
+     "w": "you",
+     "start": 0.295,
+     "end": 0.46
+    },
+    {
+     "w": "can",
+     "start": 0.46,
+     "end": 0.625
+    },
+    {
+     "w": "put",
+     "start": 0.625,
+     "end": 0.79
+    },
+    {
+     "w": "a",
+     "start": 0.79,
+     "end": 0.955
+    },
+    {
+     "w": "hotel",
+     "start": 0.955,
+     "end": 1.242
+    },
+    {
+     "w": "shaped",
+     "start": 1.242,
+     "end": 1.53
+    },
+    {
+     "w": "like",
+     "start": 1.53,
+     "end": 1.695
+    },
+    {
+     "w": "a",
+     "start": 1.695,
+     "end": 1.86
+    },
+    {
+     "w": "sail",
+     "start": 1.86,
+     "end": 2.025
+    },
+    {
+     "w": "in",
+     "start": 2.025,
+     "end": 2.19
+    },
+    {
+     "w": "the",
+     "start": 2.19,
+     "end": 2.355
+    },
+    {
+     "w": "sea,",
+     "start": 2.355,
+     "end": 2.52
+    },
+    {
+     "w": "on",
+     "start": 2.65,
+     "end": 2.809
+    },
+    {
+     "w": "an",
+     "start": 2.809,
+     "end": 2.968
+    },
+    {
+     "w": "island",
+     "start": 2.968,
+     "end": 3.245
+    },
+    {
+     "w": "you",
+     "start": 3.245,
+     "end": 3.404
+    },
+    {
+     "w": "made",
+     "start": 3.404,
+     "end": 3.563
+    },
+    {
+     "w": "yourself,",
+     "start": 3.563,
+     "end": 3.84
+    },
+    {
+     "w": "congrats,",
+     "start": 4.01,
+     "end": 4.386
+    },
+    {
+     "w": "you",
+     "start": 4.386,
+     "end": 4.603
+    },
+    {
+     "w": "just",
+     "start": 4.603,
+     "end": 4.819
+    },
+    {
+     "w": "built",
+     "start": 4.819,
+     "end": 5.035
+    },
+    {
+     "w": "the",
+     "start": 5.035,
+     "end": 5.251
+    },
+    {
+     "w": "Burj",
+     "start": 5.251,
+     "end": 5.467
+    },
+    {
+     "w": "Al",
+     "start": 5.467,
+     "end": 5.684
+    },
+    {
+     "w": "Arab.",
+     "start": 5.684,
+     "end": 6.06
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.521,
+   "end": 9.198,
+   "text": "But out there, there's no land, just open sea.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.651,
+     "end": 6.864
+    },
+    {
+     "w": "out",
+     "start": 6.864,
+     "end": 7.078
+    },
+    {
+     "w": "there,",
+     "start": 7.078,
+     "end": 7.291
+    },
+    {
+     "w": "there's",
+     "start": 7.461,
+     "end": 7.787
+    },
+    {
+     "w": "no",
+     "start": 7.787,
+     "end": 7.974
+    },
+    {
+     "w": "land,",
+     "start": 7.974,
+     "end": 8.161
+    },
+    {
+     "w": "just",
+     "start": 8.341,
+     "end": 8.541
+    },
+    {
+     "w": "open",
+     "start": 8.541,
+     "end": 8.891
+    },
+    {
+     "w": "sea.",
+     "start": 8.891,
+     "end": 9.091
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.562,
+   "end": 13.896,
+   "text": "So you make some: ring the spot with rocks, fill it with sand, and an island rises.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.672,
+     "end": 9.877
+    },
+    {
+     "w": "you",
+     "start": 9.877,
+     "end": 10.082
+    },
+    {
+     "w": "make",
+     "start": 10.082,
+     "end": 10.287
+    },
+    {
+     "w": "some:",
+     "start": 10.287,
+     "end": 10.492
+    },
+    {
+     "w": "ring",
+     "start": 10.632,
+     "end": 10.866
+    },
+    {
+     "w": "the",
+     "start": 10.866,
+     "end": 11.1
+    },
+    {
+     "w": "spot",
+     "start": 11.1,
+     "end": 11.334
+    },
+    {
+     "w": "with",
+     "start": 11.334,
+     "end": 11.568
+    },
+    {
+     "w": "rocks,",
+     "start": 11.568,
+     "end": 11.802
+    },
+    {
+     "w": "fill",
+     "start": 11.952,
+     "end": 12.137
+    },
+    {
+     "w": "it",
+     "start": 12.137,
+     "end": 12.322
+    },
+    {
+     "w": "with",
+     "start": 12.322,
+     "end": 12.507
+    },
+    {
+     "w": "sand,",
+     "start": 12.507,
+     "end": 12.692
+    },
+    {
+     "w": "and",
+     "start": 12.812,
+     "end": 12.996
+    },
+    {
+     "w": "an",
+     "start": 12.996,
+     "end": 13.181
+    },
+    {
+     "w": "island",
+     "start": 13.181,
+     "end": 13.501
+    },
+    {
+     "w": "rises.",
+     "start": 13.501,
+     "end": 13.822
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.26,
+   "end": 17.531,
+   "text": "But sand is soft, and there's no bedrock for a tower to stand on.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.4,
+     "end": 14.589
+    },
+    {
+     "w": "sand",
+     "start": 14.589,
+     "end": 14.778
+    },
+    {
+     "w": "is",
+     "start": 14.778,
+     "end": 14.968
+    },
+    {
+     "w": "soft,",
+     "start": 14.968,
+     "end": 15.157
+    },
+    {
+     "w": "and",
+     "start": 15.157,
+     "end": 15.346
+    },
+    {
+     "w": "there's",
+     "start": 15.346,
+     "end": 15.676
+    },
+    {
+     "w": "no",
+     "start": 15.676,
+     "end": 15.865
+    },
+    {
+     "w": "bedrock",
+     "start": 15.865,
+     "end": 16.194
+    },
+    {
+     "w": "for",
+     "start": 16.194,
+     "end": 16.384
+    },
+    {
+     "w": "a",
+     "start": 16.384,
+     "end": 16.573
+    },
+    {
+     "w": "tower",
+     "start": 16.573,
+     "end": 16.902
+    },
+    {
+     "w": "to",
+     "start": 16.902,
+     "end": 17.092
+    },
+    {
+     "w": "stand",
+     "start": 17.092,
+     "end": 17.281
+    },
+    {
+     "w": "on.",
+     "start": 17.281,
+     "end": 17.47
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.896,
+   "end": 23.875,
+   "text": "So you drive two hundred thirty concrete piles forty meters down. The sand grips their sides, and friction holds it all up.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.006,
+     "end": 18.21
+    },
+    {
+     "w": "you",
+     "start": 18.21,
+     "end": 18.414
+    },
+    {
+     "w": "drive",
+     "start": 18.414,
+     "end": 18.618
+    },
+    {
+     "w": "two",
+     "start": 18.618,
+     "end": 18.822
+    },
+    {
+     "w": "hundred",
+     "start": 18.822,
+     "end": 19.177
+    },
+    {
+     "w": "thirty",
+     "start": 19.177,
+     "end": 19.532
+    },
+    {
+     "w": "concrete",
+     "start": 19.532,
+     "end": 19.887
+    },
+    {
+     "w": "piles",
+     "start": 19.887,
+     "end": 20.242
+    },
+    {
+     "w": "forty",
+     "start": 20.242,
+     "end": 20.597
+    },
+    {
+     "w": "meters",
+     "start": 20.597,
+     "end": 20.952
+    },
+    {
+     "w": "down.",
+     "start": 20.952,
+     "end": 21.156
+    },
+    {
+     "w": "The",
+     "start": 21.296,
+     "end": 21.492
+    },
+    {
+     "w": "sand",
+     "start": 21.492,
+     "end": 21.689
+    },
+    {
+     "w": "grips",
+     "start": 21.689,
+     "end": 21.885
+    },
+    {
+     "w": "their",
+     "start": 21.885,
+     "end": 22.081
+    },
+    {
+     "w": "sides,",
+     "start": 22.081,
+     "end": 22.423
+    },
+    {
+     "w": "and",
+     "start": 22.423,
+     "end": 22.619
+    },
+    {
+     "w": "friction",
+     "start": 22.619,
+     "end": 22.961
+    },
+    {
+     "w": "holds",
+     "start": 22.961,
+     "end": 23.157
+    },
+    {
+     "w": "it",
+     "start": 23.157,
+     "end": 23.353
+    },
+    {
+     "w": "all",
+     "start": 23.353,
+     "end": 23.55
+    },
+    {
+     "w": "up.",
+     "start": 23.55,
+     "end": 23.746
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.24,
+   "end": 26.198,
+   "text": "But the waves would chew the island away.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.38,
+     "end": 24.552
+    },
+    {
+     "w": "the",
+     "start": 24.552,
+     "end": 24.724
+    },
+    {
+     "w": "waves",
+     "start": 24.724,
+     "end": 25.024
+    },
+    {
+     "w": "would",
+     "start": 25.024,
+     "end": 25.196
+    },
+    {
+     "w": "chew",
+     "start": 25.196,
+     "end": 25.368
+    },
+    {
+     "w": "the",
+     "start": 25.368,
+     "end": 25.541
+    },
+    {
+     "w": "island",
+     "start": 25.541,
+     "end": 25.84
+    },
+    {
+     "w": "away.",
+     "start": 25.84,
+     "end": 26.14
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 26.562,
+   "end": 32.417,
+   "text": "So you armor the shore with hollow concrete blocks in a honeycomb. Waves crash in, lose their power, and drain away.",
+   "words": [
+    {
+     "w": "So",
+     "start": 26.672,
+     "end": 26.859
+    },
+    {
+     "w": "you",
+     "start": 26.859,
+     "end": 27.046
+    },
+    {
+     "w": "armor",
+     "start": 27.046,
+     "end": 27.372
+    },
+    {
+     "w": "the",
+     "start": 27.372,
+     "end": 27.56
+    },
+    {
+     "w": "shore",
+     "start": 27.56,
+     "end": 27.747
+    },
+    {
+     "w": "with",
+     "start": 27.747,
+     "end": 27.934
+    },
+    {
+     "w": "hollow",
+     "start": 27.934,
+     "end": 28.26
+    },
+    {
+     "w": "concrete",
+     "start": 28.26,
+     "end": 28.586
+    },
+    {
+     "w": "blocks",
+     "start": 28.586,
+     "end": 28.773
+    },
+    {
+     "w": "in",
+     "start": 28.773,
+     "end": 28.96
+    },
+    {
+     "w": "a",
+     "start": 28.96,
+     "end": 29.147
+    },
+    {
+     "w": "honeycomb.",
+     "start": 29.147,
+     "end": 29.612
+    },
+    {
+     "w": "Waves",
+     "start": 29.742,
+     "end": 30.175
+    },
+    {
+     "w": "crash",
+     "start": 30.175,
+     "end": 30.423
+    },
+    {
+     "w": "in,",
+     "start": 30.423,
+     "end": 30.672
+    },
+    {
+     "w": "lose",
+     "start": 30.822,
+     "end": 31.017
+    },
+    {
+     "w": "their",
+     "start": 31.017,
+     "end": 31.212
+    },
+    {
+     "w": "power,",
+     "start": 31.212,
+     "end": 31.552
+    },
+    {
+     "w": "and",
+     "start": 31.722,
+     "end": 31.89
+    },
+    {
+     "w": "drain",
+     "start": 31.89,
+     "end": 32.059
+    },
+    {
+     "w": "away.",
+     "start": 32.059,
+     "end": 32.352
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.781,
+   "end": 35.969,
+   "text": "But the desert sun would turn its giant atrium into an oven.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.921,
+     "end": 33.12
+    },
+    {
+     "w": "the",
+     "start": 33.12,
+     "end": 33.319
+    },
+    {
+     "w": "desert",
+     "start": 33.319,
+     "end": 33.666
+    },
+    {
+     "w": "sun",
+     "start": 33.666,
+     "end": 33.865
+    },
+    {
+     "w": "would",
+     "start": 33.865,
+     "end": 34.064
+    },
+    {
+     "w": "turn",
+     "start": 34.064,
+     "end": 34.263
+    },
+    {
+     "w": "its",
+     "start": 34.263,
+     "end": 34.463
+    },
+    {
+     "w": "giant",
+     "start": 34.463,
+     "end": 34.662
+    },
+    {
+     "w": "atrium",
+     "start": 34.662,
+     "end": 35.008
+    },
+    {
+     "w": "into",
+     "start": 35.008,
+     "end": 35.355
+    },
+    {
+     "w": "an",
+     "start": 35.355,
+     "end": 35.554
+    },
+    {
+     "w": "oven.",
+     "start": 35.554,
+     "end": 35.901
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.333,
+   "end": 41.406,
+   "text": "So you stretch a sail of glass-fiber fabric across the front. It lets the light in and bounces the heat away.",
+   "words": [
+    {
+     "w": "So",
+     "start": 36.443,
+     "end": 36.628
+    },
+    {
+     "w": "you",
+     "start": 36.628,
+     "end": 36.813
+    },
+    {
+     "w": "stretch",
+     "start": 36.813,
+     "end": 36.997
+    },
+    {
+     "w": "a",
+     "start": 36.997,
+     "end": 37.182
+    },
+    {
+     "w": "sail",
+     "start": 37.182,
+     "end": 37.367
+    },
+    {
+     "w": "of",
+     "start": 37.367,
+     "end": 37.552
+    },
+    {
+     "w": "glass-fiber",
+     "start": 37.552,
+     "end": 38.01
+    },
+    {
+     "w": "fabric",
+     "start": 38.01,
+     "end": 38.332
+    },
+    {
+     "w": "across",
+     "start": 38.332,
+     "end": 38.653
+    },
+    {
+     "w": "the",
+     "start": 38.653,
+     "end": 38.838
+    },
+    {
+     "w": "front.",
+     "start": 38.838,
+     "end": 39.023
+    },
+    {
+     "w": "It",
+     "start": 39.113,
+     "end": 39.307
+    },
+    {
+     "w": "lets",
+     "start": 39.307,
+     "end": 39.501
+    },
+    {
+     "w": "the",
+     "start": 39.501,
+     "end": 39.696
+    },
+    {
+     "w": "light",
+     "start": 39.696,
+     "end": 39.89
+    },
+    {
+     "w": "in",
+     "start": 39.89,
+     "end": 40.084
+    },
+    {
+     "w": "and",
+     "start": 40.084,
+     "end": 40.278
+    },
+    {
+     "w": "bounces",
+     "start": 40.278,
+     "end": 40.616
+    },
+    {
+     "w": "the",
+     "start": 40.616,
+     "end": 40.811
+    },
+    {
+     "w": "heat",
+     "start": 40.811,
+     "end": 41.005
+    },
+    {
+     "w": "away.",
+     "start": 41.005,
+     "end": 41.343
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 41.771,
+   "end": 46.208,
+   "text": "But before you check in, follow, because next we're building an island shaped like a palm tree.",
+   "words": [
+    {
+     "w": "But",
+     "start": 41.921,
+     "end": 42.102
+    },
+    {
+     "w": "before",
+     "start": 42.102,
+     "end": 42.418
+    },
+    {
+     "w": "you",
+     "start": 42.418,
+     "end": 42.599
+    },
+    {
+     "w": "check",
+     "start": 42.599,
+     "end": 42.78
+    },
+    {
+     "w": "in,",
+     "start": 42.78,
+     "end": 42.961
+    },
+    {
+     "w": "follow,",
+     "start": 43.101,
+     "end": 43.421
+    },
+    {
+     "w": "because",
+     "start": 43.551,
+     "end": 43.873
+    },
+    {
+     "w": "next",
+     "start": 43.873,
+     "end": 44.057
+    },
+    {
+     "w": "we're",
+     "start": 44.057,
+     "end": 44.242
+    },
+    {
+     "w": "building",
+     "start": 44.242,
+     "end": 44.564
+    },
+    {
+     "w": "an",
+     "start": 44.564,
+     "end": 44.749
+    },
+    {
+     "w": "island",
+     "start": 44.749,
+     "end": 45.07
+    },
+    {
+     "w": "shaped",
+     "start": 45.07,
+     "end": 45.392
+    },
+    {
+     "w": "like",
+     "start": 45.392,
+     "end": 45.577
+    },
+    {
+     "w": "a",
+     "start": 45.577,
+     "end": 45.761
+    },
+    {
+     "w": "palm",
+     "start": 45.761,
+     "end": 45.946
+    },
+    {
+     "w": "tree.",
+     "start": 45.946,
+     "end": 46.131
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 46.573,
+   "end": 50.708,
+   "text": "Now add a helipad two hundred ten meters up. Two tennis legends once played on it.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 46.683,
+     "end": 46.859
+    },
+    {
+     "w": "add",
+     "start": 46.859,
+     "end": 47.034
+    },
+    {
+     "w": "a",
+     "start": 47.034,
+     "end": 47.21
+    },
+    {
+     "w": "helipad",
+     "start": 47.21,
+     "end": 47.645
+    },
+    {
+     "w": "two",
+     "start": 47.645,
+     "end": 47.821
+    },
+    {
+     "w": "hundred",
+     "start": 47.821,
+     "end": 48.126
+    },
+    {
+     "w": "ten",
+     "start": 48.126,
+     "end": 48.302
+    },
+    {
+     "w": "meters",
+     "start": 48.302,
+     "end": 48.607
+    },
+    {
+     "w": "up.",
+     "start": 48.607,
+     "end": 48.783
+    },
+    {
+     "w": "Two",
+     "start": 48.983,
+     "end": 49.18
+    },
+    {
+     "w": "tennis",
+     "start": 49.18,
+     "end": 49.523
+    },
+    {
+     "w": "legends",
+     "start": 49.523,
+     "end": 49.865
+    },
+    {
+     "w": "once",
+     "start": 49.865,
+     "end": 50.062
+    },
+    {
+     "w": "played",
+     "start": 50.062,
+     "end": 50.259
+    },
+    {
+     "w": "on",
+     "start": 50.259,
+     "end": 50.456
+    },
+    {
+     "w": "it.",
+     "start": 50.456,
+     "end": 50.653
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.073,
+   "end": 55.062,
+   "text": "Three hundred twenty-one meters tall, and the island took longer to build than the hotel.",
+   "words": [
+    {
+     "w": "Three",
+     "start": 51.193,
+     "end": 51.356
+    },
+    {
+     "w": "hundred",
+     "start": 51.356,
+     "end": 51.641
+    },
+    {
+     "w": "twenty-one",
+     "start": 51.641,
+     "end": 51.925
+    },
+    {
+     "w": "meters",
+     "start": 51.925,
+     "end": 52.21
+    },
+    {
+     "w": "tall,",
+     "start": 52.21,
+     "end": 52.373
+    },
+    {
+     "w": "and",
+     "start": 52.423,
+     "end": 52.632
+    },
+    {
+     "w": "the",
+     "start": 52.632,
+     "end": 52.842
+    },
+    {
+     "w": "island",
+     "start": 52.842,
+     "end": 53.207
+    },
+    {
+     "w": "took",
+     "start": 53.207,
+     "end": 53.416
+    },
+    {
+     "w": "longer",
+     "start": 53.416,
+     "end": 53.781
+    },
+    {
+     "w": "to",
+     "start": 53.781,
+     "end": 53.99
+    },
+    {
+     "w": "build",
+     "start": 53.99,
+     "end": 54.199
+    },
+    {
+     "w": "than",
+     "start": 54.199,
+     "end": 54.409
+    },
+    {
+     "w": "the",
+     "start": 54.409,
+     "end": 54.618
+    },
+    {
+     "w": "hotel.",
+     "start": 54.618,
+     "end": 54.983
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.427,
+   "end": 58.333,
+   "text": "And congrats, you just built the Burj Al Arab yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 55.547,
+     "end": 55.806
+    },
+    {
+     "w": "congrats,",
+     "start": 55.806,
+     "end": 56.257
+    },
+    {
+     "w": "you",
+     "start": 56.407,
+     "end": 56.599
+    },
+    {
+     "w": "just",
+     "start": 56.599,
+     "end": 56.791
+    },
+    {
+     "w": "built",
+     "start": 56.791,
+     "end": 56.983
+    },
+    {
+     "w": "the",
+     "start": 56.983,
+     "end": 57.175
+    },
+    {
+     "w": "Burj",
+     "start": 57.175,
+     "end": 57.367
+    },
+    {
+     "w": "Al",
+     "start": 57.367,
+     "end": 57.559
+    },
+    {
+     "w": "Arab",
+     "start": 57.559,
+     "end": 57.893
+    },
+    {
+     "w": "yourself.",
+     "start": 57.893,
+     "end": 58.227
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 58.698,
+   "end": 63.271,
+   "text": "Gold on the walls, a helipad on the roof, and you still go home with the tiny shampoo bottles.",
+   "words": [
+    {
+     "w": "Gold",
+     "start": 58.798,
+     "end": 58.987
+    },
+    {
+     "w": "on",
+     "start": 58.987,
+     "end": 59.176
+    },
+    {
+     "w": "the",
+     "start": 59.176,
+     "end": 59.365
+    },
+    {
+     "w": "walls,",
+     "start": 59.365,
+     "end": 59.554
+    },
+    {
+     "w": "a",
+     "start": 59.554,
+     "end": 59.743
+    },
+    {
+     "w": "helipad",
+     "start": 59.743,
+     "end": 60.211
+    },
+    {
+     "w": "on",
+     "start": 60.211,
+     "end": 60.4
+    },
+    {
+     "w": "the",
+     "start": 60.4,
+     "end": 60.589
+    },
+    {
+     "w": "roof,",
+     "start": 60.589,
+     "end": 60.778
+    },
+    {
+     "w": "and",
+     "start": 60.948,
+     "end": 61.132
+    },
+    {
+     "w": "you",
+     "start": 61.132,
+     "end": 61.316
+    },
+    {
+     "w": "still",
+     "start": 61.316,
+     "end": 61.5
+    },
+    {
+     "w": "go",
+     "start": 61.5,
+     "end": 61.684
+    },
+    {
+     "w": "home",
+     "start": 61.684,
+     "end": 61.868
+    },
+    {
+     "w": "with",
+     "start": 61.868,
+     "end": 62.053
+    },
+    {
+     "w": "the",
+     "start": 62.053,
+     "end": 62.237
+    },
+    {
+     "w": "tiny",
+     "start": 62.237,
+     "end": 62.557
+    },
+    {
+     "w": "shampoo",
+     "start": 62.557,
+     "end": 62.878
+    },
+    {
+     "w": "bottles.",
+     "start": 62.878,
+     "end": 63.198
+    }
+   ]
+  }
+ ]
+}
