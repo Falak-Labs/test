@@ -37,9 +37,9 @@ Rules:
 46. the Aswan High Dam (taken: midday run of 2026-11-19)
 47. an igloo (taken: midday run of 2026-11-19)
 48. a Moroccan riad with its courtyard (taken: midday run of 2026-11-19)
-49. the Hagia Sophia dome
-50. a Korean ondol heated floor
-51. the Burj Al Arab on its island
+49. the Hagia Sophia dome (taken: evening run of 2026-11-19)
+50. a Korean ondol heated floor (taken: evening run of 2026-11-19)
+51. the Burj Al Arab on its island (taken: evening run of 2026-11-19)
 52. idea: the Palm Jumeirah, an island shaped like a palm tree (Dubai)
 53. idea: a refrigerator
 54. idea: the Eiffel Tower
