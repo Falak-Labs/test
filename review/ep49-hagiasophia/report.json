@@ -1,0 +1,140 @@
+{
+ "slug": "ep49-hagiasophia",
+ "kit": "hagiasophia",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.63,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "15/231",
+   "mix_lines_off": [
+    "L 1 2 diff  | If you can float a brick dome over 30 meters wide on a ring of light, congrats, you just built the Haggia Sophia's dome.",
+    "L 2 1 diff  | But a dome needs round walls, and the Emperor wants a giant square hole.",
+    "L 6 1 diff  | But a solid dome would crush itself, and the hall below would be darkened.",
+    "L 7 2 diff  | So you build 40 thin ribs with 40 windows between them around the base.",
+    "L 8 2 diff  | But this is earthquake country, and 21 years later, the first dome came crashing down.",
+    "L 9 1 diff  | So they rebuilt it steeper, so it pushes out less, and mortar as thick as the bricks, so it bends instead of breaking.",
+    "L12 4 diff  | 55 meters high, built in under 6 years, 15 centuries ago.",
+    "L13 1 diff  | And congrats, you just built the Haggia Sophia's dome yourself.",
+    "L14 1 diff  | It has survived 15 centuries of earthquakes and your phone cracked falling off the couch."
+   ],
+   "size_mb": 17.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو خلّيت قبة طوب أعرض من ثلاثين متر تطير فوق حلقة نور، مبروك، كذا سويت لك قبة آيا صوفيا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس القبة تبي جدار مدوّر تحتها، والإمبراطور يبي قاعة مربعة ضخمة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فترفع أربع أقواس كبار، وتعبّي الزوايا بمثلثات طوب مقوّسة، لين يصير المربع دايرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس قبة بهالثقل تدف لبرا، والأقواس تبدا تتباعد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتسند عليها نص قبة من كل طرف، ودعامات ضخمة على الجوانب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس قبة مليانة طوب تنهار من ثقلها، والقاعة تحتها تصير ظلمة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتبنيها أربعين ضلع رفيع، وبين كل ضلعين شباك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس المنطقة زلازل، وبعد واحد وعشرين سنة، طاحت القبة الأولى.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فرجعوا بنوها أعلى عشان تدف أقل، والمونة سماكتها قد الطوبة، فتنثني بدل ما تنكسر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تطالع فوق، تابعني، لأن الجاي بنبني أرضية كورية تدفّي البيت كله.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين لبّسها ذهب، وخلّ الشمس تدخل: من تحت، تحس القبة معلّقة في السما.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "علوها خمسة وخمسين متر، بنوها في أقل من ست سنين، قبل خمستعشر قرن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك قبة آيا صوفيا بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "تحمّلت زلازل خمستعشر قرن، وجوالك ما تحمّل طيحة من الكنب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 75.67,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.1,
+   "cover": true
+  }
+ }
+}

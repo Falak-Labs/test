@@ -1,0 +1,7 @@
+hagiasophia_ar_sa: 75.67s, 2270 frames
+cover out/hagiasophia_ar_sa/cover.png: ['قبة آيا', 'صوفيا'] (frame 0 of the video)
+video done in 515s
+audio done
+final out/hagiasophia_ar_sa/hagiasophia_ar_sa_final.mp4
+QA  duration 75.67s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2270
+QA sheet out/hagiasophia_ar_sa/qa_sheet.png
