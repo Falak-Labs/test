@@ -908,11 +908,10 @@
   23:00Z slot (01:30Z / 04:30Z the next day), already used through Nov 23 UTC.
 - **English YouTube 46 (06:00 PT Nov 20) failed on the daily limit although Nov 20 PT had only 46 and 49 queued.**
   The English channel had 42 sent at 03:12Z and 40/41/44/45 failed at 04:59Z, all on Nov 20 UTC (19:12-20:59 PT Nov 19).
-  So Buffer's 2-a-day YouTube count is NOT the PT day: most likely the UTC day (or a rolling 24 h), failed posts
-  included. 49's English YouTube (21:30Z Nov 20) will probably fail the same way. Keep every YouTube post between
-  08:00Z and 23:59Z (00:00-15:59 PT), where the UTC day and the PT day agree: the evening run's English YouTube must be
-  its 13:30 PT build (21:30Z), never 16:00 / 18:30 PT (00:00Z / 02:30Z = the next UTC day, which the next midday run
-  also uses). This run's YouTube posts: EN 19:00Z, AR 14:00Z Nov 21.
+  So Buffer's 2-a-day YouTube count is NOT the PT day. 49's English YouTube (21:30Z Nov 20) will probably fail the same
+  way. [Corrected by the 23:30Z check-in at the end of this section: the count is 2 SENT posts in a rolling 24 h,
+  failed posts do not count, and the evening run's English YouTube must NOT be its 13:30 PT build.] This run's YouTube
+  posts: EN 19:00Z, AR 14:00Z Nov 21.
 - Pages: retired ep34-ep36 (all 18 sent): media/ 636 -> 549 MB before today's six videos (about 128 MB). Next: ep37-ep39
   (37's Arabic TikTok waits for 01:30Z Nov 22: retire 37 only after it is sent).
 - A/B test: 53 is odd -> `fridge` in voices.yml ar_alt.kits (Mansour, Saudi script); 52 and 54 Egyptian.
@@ -963,3 +962,24 @@
 - 21:06Z: 48's Arabic Instagram went out on its requeue (21:00Z); 50's Arabic TikTok was refused again at 21:00Z. Its
   requeue is left to the 23:20Z check-in, AFTER post.yml has added 54's Arabic TikTok: post.py counts scheduled future
   posts against the 10, so requeueing 50 first would keep 54 waiting. Free 2-hour gaps: 01:30Z / 04:30Z Nov 24.
+- 23:20Z check-in: post.yml (dispatch, state 23:25Z) put 54's Arabic TikTok on Buffer, "scheduled" for 14:00Z Nov 21
+  (06:00 PT Sat): all 14 targets of 52-54 are scheduled. 51's Arabic TikTok went out at 23:01Z on its first try. 50's
+  Arabic TikTok requeue (01:30Z Nov 24) was REFUSED by Buffer: "Scheduled posts limit reached. You have 10 scheduled
+  posts out of 10 allowed" (Buffer's own count: an errored post does not count, putting it back does). 50 stays "error"
+  and goes to the evening run: requeue it to 01:30Z Nov 24 (still free) only AFTER post.yml has put that run's own three
+  Arabic TikToks (17:00Z / 20:00Z / 23:00Z Nov 21) on Buffer. The queue empties as 42 (01:30Z), 43 (04:00Z), 44
+  (06:00Z), 52 (08:00Z), 53 (11:00Z) and 54 (14:00Z Nov 21) go out: at ~05:00Z there is room for two, so plan a
+  check-in for the third and for 50.
+- **YouTube limit, corrected: 2 SENT posts per channel in any rolling 24 h; failed posts do not count.** At about
+  21:43Z the failed English YouTube posts were retried in Buffer (not by our runs): 41 went out at 21:43:50Z, 13 minutes
+  after 43's send (21:30:56Z Nov 19) left its 24 h window, and 40, 44, 45, 46, 49 failed again (42 at 03:12Z and 41 in
+  the window). That fits every YouTube result since the limit appeared on Nov 19 (46 at 14:00Z and 49 at 21:30Z failed
+  with 43 + 42 in the window; Arabic 45 at 23:00Z Nov 19 with 39 at 23:02Z Nov 18 + 40); the UTC-day and PT-day ideas
+  do not. Rule: a YouTube post at T passes only if fewer than 2 posts of that channel were SENT in the 24 h before T
+  (sentAt in state/status.md, plus scheduled ones due before T); keep 15 min of margin, a post sends 0-4 min after its
+  slot. For the evening run of Nov 20 (55-57): English has 41 (21:43:50Z Nov 20) and 54 (19:00Z Nov 21), so 13:30 PT
+  (21:30Z) FAILS, 16:00 PT (00:00Z Nov 22) and 18:30 PT (02:30Z) pass; Arabic has 49 (17:02Z Nov 20) and 54 (14:00Z
+  Nov 21), so 09:00 PT (17:00Z) FAILS, 12:00 PT (20:00Z) and 15:00 PT (23:00Z) pass. Give YouTube to its 2nd or 3rd
+  build (put the strongest topic there) and hold it on the 1st. The same slot on the next day fails too (the earlier
+  post is still in the window by seconds), so every run checks the rule for each YouTube slot and holds YouTube for a
+  language when none of its slots passes (Sunday's midday slots all fail after 54 + the evening run's post).
