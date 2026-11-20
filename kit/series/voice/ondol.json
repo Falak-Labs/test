@@ -1,0 +1,1272 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.99,
+ "words": 230,
+ "words_per_sec": 3.49,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.052,
+   "text": "If the fire that cooks your rice also heats your whole house through the floor, congrats, you just built a Korean heated floor.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.343
+    },
+    {
+     "w": "the",
+     "start": 0.343,
+     "end": 0.557
+    },
+    {
+     "w": "fire",
+     "start": 0.557,
+     "end": 0.77
+    },
+    {
+     "w": "that",
+     "start": 0.77,
+     "end": 0.984
+    },
+    {
+     "w": "cooks",
+     "start": 0.984,
+     "end": 1.197
+    },
+    {
+     "w": "your",
+     "start": 1.197,
+     "end": 1.411
+    },
+    {
+     "w": "rice",
+     "start": 1.411,
+     "end": 1.624
+    },
+    {
+     "w": "also",
+     "start": 1.624,
+     "end": 1.996
+    },
+    {
+     "w": "heats",
+     "start": 1.996,
+     "end": 2.209
+    },
+    {
+     "w": "your",
+     "start": 2.209,
+     "end": 2.423
+    },
+    {
+     "w": "whole",
+     "start": 2.423,
+     "end": 2.636
+    },
+    {
+     "w": "house",
+     "start": 2.636,
+     "end": 2.85
+    },
+    {
+     "w": "through",
+     "start": 2.85,
+     "end": 3.063
+    },
+    {
+     "w": "the",
+     "start": 3.063,
+     "end": 3.277
+    },
+    {
+     "w": "floor,",
+     "start": 3.277,
+     "end": 3.49
+    },
+    {
+     "w": "congrats,",
+     "start": 3.62,
+     "end": 4.024
+    },
+    {
+     "w": "you",
+     "start": 4.024,
+     "end": 4.255
+    },
+    {
+     "w": "just",
+     "start": 4.255,
+     "end": 4.487
+    },
+    {
+     "w": "built",
+     "start": 4.487,
+     "end": 4.719
+    },
+    {
+     "w": "a",
+     "start": 4.719,
+     "end": 4.951
+    },
+    {
+     "w": "Korean",
+     "start": 4.951,
+     "end": 5.355
+    },
+    {
+     "w": "heated",
+     "start": 5.355,
+     "end": 5.758
+    },
+    {
+     "w": "floor.",
+     "start": 5.758,
+     "end": 5.99
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.417,
+   "end": 10.531,
+   "text": "But Korean winters can drop below minus fifteen, and firewood is precious.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.557,
+     "end": 6.777
+    },
+    {
+     "w": "Korean",
+     "start": 6.777,
+     "end": 7.159
+    },
+    {
+     "w": "winters",
+     "start": 7.159,
+     "end": 7.541
+    },
+    {
+     "w": "can",
+     "start": 7.541,
+     "end": 7.761
+    },
+    {
+     "w": "drop",
+     "start": 7.761,
+     "end": 7.98
+    },
+    {
+     "w": "below",
+     "start": 7.98,
+     "end": 8.363
+    },
+    {
+     "w": "minus",
+     "start": 8.363,
+     "end": 8.745
+    },
+    {
+     "w": "fifteen,",
+     "start": 8.745,
+     "end": 9.127
+    },
+    {
+     "w": "and",
+     "start": 9.267,
+     "end": 9.461
+    },
+    {
+     "w": "firewood",
+     "start": 9.461,
+     "end": 9.944
+    },
+    {
+     "w": "is",
+     "start": 9.944,
+     "end": 10.138
+    },
+    {
+     "w": "precious.",
+     "start": 10.138,
+     "end": 10.477
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.896,
+   "end": 15.448,
+   "text": "So the kitchen fire does double duty: its hot smoke runs under the floor before it leaves.",
+   "words": [
+    {
+     "w": "So",
+     "start": 11.006,
+     "end": 11.212
+    },
+    {
+     "w": "the",
+     "start": 11.212,
+     "end": 11.419
+    },
+    {
+     "w": "kitchen",
+     "start": 11.419,
+     "end": 11.778
+    },
+    {
+     "w": "fire",
+     "start": 11.778,
+     "end": 11.984
+    },
+    {
+     "w": "does",
+     "start": 11.984,
+     "end": 12.19
+    },
+    {
+     "w": "double",
+     "start": 12.19,
+     "end": 12.397
+    },
+    {
+     "w": "duty:",
+     "start": 12.397,
+     "end": 12.756
+    },
+    {
+     "w": "its",
+     "start": 12.946,
+     "end": 13.146
+    },
+    {
+     "w": "hot",
+     "start": 13.146,
+     "end": 13.345
+    },
+    {
+     "w": "smoke",
+     "start": 13.345,
+     "end": 13.545
+    },
+    {
+     "w": "runs",
+     "start": 13.545,
+     "end": 13.745
+    },
+    {
+     "w": "under",
+     "start": 13.745,
+     "end": 14.092
+    },
+    {
+     "w": "the",
+     "start": 14.092,
+     "end": 14.292
+    },
+    {
+     "w": "floor",
+     "start": 14.292,
+     "end": 14.491
+    },
+    {
+     "w": "before",
+     "start": 14.491,
+     "end": 14.839
+    },
+    {
+     "w": "it",
+     "start": 14.839,
+     "end": 15.038
+    },
+    {
+     "w": "leaves.",
+     "start": 15.038,
+     "end": 15.386
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 15.812,
+   "end": 19.76,
+   "text": "But smoke wants to rush straight to the chimney, heating one strip and leaving the rest cold.",
+   "words": [
+    {
+     "w": "But",
+     "start": 15.952,
+     "end": 16.139
+    },
+    {
+     "w": "smoke",
+     "start": 16.139,
+     "end": 16.326
+    },
+    {
+     "w": "wants",
+     "start": 16.326,
+     "end": 16.513
+    },
+    {
+     "w": "to",
+     "start": 16.513,
+     "end": 16.699
+    },
+    {
+     "w": "rush",
+     "start": 16.699,
+     "end": 16.886
+    },
+    {
+     "w": "straight",
+     "start": 16.886,
+     "end": 17.073
+    },
+    {
+     "w": "to",
+     "start": 17.073,
+     "end": 17.26
+    },
+    {
+     "w": "the",
+     "start": 17.26,
+     "end": 17.447
+    },
+    {
+     "w": "chimney,",
+     "start": 17.447,
+     "end": 17.772
+    },
+    {
+     "w": "heating",
+     "start": 17.902,
+     "end": 18.232
+    },
+    {
+     "w": "one",
+     "start": 18.232,
+     "end": 18.422
+    },
+    {
+     "w": "strip",
+     "start": 18.422,
+     "end": 18.612
+    },
+    {
+     "w": "and",
+     "start": 18.612,
+     "end": 18.802
+    },
+    {
+     "w": "leaving",
+     "start": 18.802,
+     "end": 19.132
+    },
+    {
+     "w": "the",
+     "start": 19.132,
+     "end": 19.322
+    },
+    {
+     "w": "rest",
+     "start": 19.322,
+     "end": 19.512
+    },
+    {
+     "w": "cold.",
+     "start": 19.512,
+     "end": 19.702
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 20.125,
+   "end": 24.927,
+   "text": "So you build rows of stone channels that spread it under the whole floor, and lay flat stones on top.",
+   "words": [
+    {
+     "w": "So",
+     "start": 20.225,
+     "end": 20.425
+    },
+    {
+     "w": "you",
+     "start": 20.425,
+     "end": 20.624
+    },
+    {
+     "w": "build",
+     "start": 20.624,
+     "end": 20.824
+    },
+    {
+     "w": "rows",
+     "start": 20.824,
+     "end": 21.023
+    },
+    {
+     "w": "of",
+     "start": 21.023,
+     "end": 21.223
+    },
+    {
+     "w": "stone",
+     "start": 21.223,
+     "end": 21.423
+    },
+    {
+     "w": "channels",
+     "start": 21.423,
+     "end": 21.77
+    },
+    {
+     "w": "that",
+     "start": 21.77,
+     "end": 21.97
+    },
+    {
+     "w": "spread",
+     "start": 21.97,
+     "end": 22.169
+    },
+    {
+     "w": "it",
+     "start": 22.169,
+     "end": 22.369
+    },
+    {
+     "w": "under",
+     "start": 22.369,
+     "end": 22.716
+    },
+    {
+     "w": "the",
+     "start": 22.716,
+     "end": 22.916
+    },
+    {
+     "w": "whole",
+     "start": 22.916,
+     "end": 23.115
+    },
+    {
+     "w": "floor,",
+     "start": 23.115,
+     "end": 23.315
+    },
+    {
+     "w": "and",
+     "start": 23.475,
+     "end": 23.669
+    },
+    {
+     "w": "lay",
+     "start": 23.669,
+     "end": 23.864
+    },
+    {
+     "w": "flat",
+     "start": 23.864,
+     "end": 24.058
+    },
+    {
+     "w": "stones",
+     "start": 24.058,
+     "end": 24.396
+    },
+    {
+     "w": "on",
+     "start": 24.396,
+     "end": 24.591
+    },
+    {
+     "w": "top.",
+     "start": 24.591,
+     "end": 24.785
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 25.292,
+   "end": 28.281,
+   "text": "But a fire burns out in a few hours, and the night is long.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.422,
+     "end": 25.625
+    },
+    {
+     "w": "a",
+     "start": 25.625,
+     "end": 25.829
+    },
+    {
+     "w": "fire",
+     "start": 25.829,
+     "end": 26.032
+    },
+    {
+     "w": "burns",
+     "start": 26.032,
+     "end": 26.235
+    },
+    {
+     "w": "out",
+     "start": 26.235,
+     "end": 26.439
+    },
+    {
+     "w": "in",
+     "start": 26.439,
+     "end": 26.642
+    },
+    {
+     "w": "a",
+     "start": 26.642,
+     "end": 26.845
+    },
+    {
+     "w": "few",
+     "start": 26.845,
+     "end": 27.049
+    },
+    {
+     "w": "hours,",
+     "start": 27.049,
+     "end": 27.252
+    },
+    {
+     "w": "and",
+     "start": 27.382,
+     "end": 27.548
+    },
+    {
+     "w": "the",
+     "start": 27.548,
+     "end": 27.714
+    },
+    {
+     "w": "night",
+     "start": 27.714,
+     "end": 27.88
+    },
+    {
+     "w": "is",
+     "start": 27.88,
+     "end": 28.046
+    },
+    {
+     "w": "long.",
+     "start": 28.046,
+     "end": 28.212
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 28.646,
+   "end": 33.698,
+   "text": "So you cover the stones in thick clay. It soaks up heat like a battery and stays warm until morning.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.756,
+     "end": 28.947
+    },
+    {
+     "w": "you",
+     "start": 28.947,
+     "end": 29.138
+    },
+    {
+     "w": "cover",
+     "start": 29.138,
+     "end": 29.47
+    },
+    {
+     "w": "the",
+     "start": 29.47,
+     "end": 29.661
+    },
+    {
+     "w": "stones",
+     "start": 29.661,
+     "end": 29.993
+    },
+    {
+     "w": "in",
+     "start": 29.993,
+     "end": 30.184
+    },
+    {
+     "w": "thick",
+     "start": 30.184,
+     "end": 30.375
+    },
+    {
+     "w": "clay.",
+     "start": 30.375,
+     "end": 30.566
+    },
+    {
+     "w": "It",
+     "start": 30.706,
+     "end": 30.901
+    },
+    {
+     "w": "soaks",
+     "start": 30.901,
+     "end": 31.096
+    },
+    {
+     "w": "up",
+     "start": 31.096,
+     "end": 31.291
+    },
+    {
+     "w": "heat",
+     "start": 31.291,
+     "end": 31.487
+    },
+    {
+     "w": "like",
+     "start": 31.487,
+     "end": 31.682
+    },
+    {
+     "w": "a",
+     "start": 31.682,
+     "end": 31.877
+    },
+    {
+     "w": "battery",
+     "start": 31.877,
+     "end": 32.361
+    },
+    {
+     "w": "and",
+     "start": 32.361,
+     "end": 32.556
+    },
+    {
+     "w": "stays",
+     "start": 32.556,
+     "end": 32.751
+    },
+    {
+     "w": "warm",
+     "start": 32.751,
+     "end": 32.947
+    },
+    {
+     "w": "until",
+     "start": 32.947,
+     "end": 33.286
+    },
+    {
+     "w": "morning.",
+     "start": 33.286,
+     "end": 33.626
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 34.063,
+   "end": 37.76,
+   "text": "But clay floors are dusty, and here people sit, eat and sleep on the floor.",
+   "words": [
+    {
+     "w": "But",
+     "start": 34.203,
+     "end": 34.435
+    },
+    {
+     "w": "clay",
+     "start": 34.435,
+     "end": 34.666
+    },
+    {
+     "w": "floors",
+     "start": 34.666,
+     "end": 34.898
+    },
+    {
+     "w": "are",
+     "start": 34.898,
+     "end": 35.13
+    },
+    {
+     "w": "dusty,",
+     "start": 35.13,
+     "end": 35.533
+    },
+    {
+     "w": "and",
+     "start": 35.653,
+     "end": 35.856
+    },
+    {
+     "w": "here",
+     "start": 35.856,
+     "end": 36.058
+    },
+    {
+     "w": "people",
+     "start": 36.058,
+     "end": 36.26
+    },
+    {
+     "w": "sit,",
+     "start": 36.26,
+     "end": 36.463
+    },
+    {
+     "w": "eat",
+     "start": 36.613,
+     "end": 36.791
+    },
+    {
+     "w": "and",
+     "start": 36.791,
+     "end": 36.97
+    },
+    {
+     "w": "sleep",
+     "start": 36.97,
+     "end": 37.148
+    },
+    {
+     "w": "on",
+     "start": 37.148,
+     "end": 37.326
+    },
+    {
+     "w": "the",
+     "start": 37.326,
+     "end": 37.505
+    },
+    {
+     "w": "floor.",
+     "start": 37.505,
+     "end": 37.683
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 38.125,
+   "end": 42.698,
+   "text": "So you glue down paper soaked in bean oil: smooth, shiny, and easy to wipe.",
+   "words": [
+    {
+     "w": "So",
+     "start": 38.235,
+     "end": 38.441
+    },
+    {
+     "w": "you",
+     "start": 38.441,
+     "end": 38.647
+    },
+    {
+     "w": "glue",
+     "start": 38.647,
+     "end": 38.853
+    },
+    {
+     "w": "down",
+     "start": 38.853,
+     "end": 39.059
+    },
+    {
+     "w": "paper",
+     "start": 39.059,
+     "end": 39.418
+    },
+    {
+     "w": "soaked",
+     "start": 39.418,
+     "end": 39.777
+    },
+    {
+     "w": "in",
+     "start": 39.777,
+     "end": 39.983
+    },
+    {
+     "w": "bean",
+     "start": 39.983,
+     "end": 40.189
+    },
+    {
+     "w": "oil:",
+     "start": 40.189,
+     "end": 40.395
+    },
+    {
+     "w": "smooth,",
+     "start": 40.565,
+     "end": 40.747
+    },
+    {
+     "w": "shiny,",
+     "start": 40.747,
+     "end": 41.065
+    },
+    {
+     "w": "and",
+     "start": 41.195,
+     "end": 41.478
+    },
+    {
+     "w": "easy",
+     "start": 41.478,
+     "end": 41.97
+    },
+    {
+     "w": "to",
+     "start": 41.97,
+     "end": 42.252
+    },
+    {
+     "w": "wipe.",
+     "start": 42.252,
+     "end": 42.535
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 43.063,
+   "end": 47.781,
+   "text": "But before you lie down, follow, because next we're building Dubai's sail-shaped hotel in the sea.",
+   "words": [
+    {
+     "w": "But",
+     "start": 43.203,
+     "end": 43.402
+    },
+    {
+     "w": "before",
+     "start": 43.402,
+     "end": 43.747
+    },
+    {
+     "w": "you",
+     "start": 43.747,
+     "end": 43.946
+    },
+    {
+     "w": "lie",
+     "start": 43.946,
+     "end": 44.144
+    },
+    {
+     "w": "down,",
+     "start": 44.144,
+     "end": 44.343
+    },
+    {
+     "w": "follow,",
+     "start": 44.493,
+     "end": 44.803
+    },
+    {
+     "w": "because",
+     "start": 44.943,
+     "end": 45.277
+    },
+    {
+     "w": "next",
+     "start": 45.277,
+     "end": 45.469
+    },
+    {
+     "w": "we're",
+     "start": 45.469,
+     "end": 45.66
+    },
+    {
+     "w": "building",
+     "start": 45.66,
+     "end": 45.994
+    },
+    {
+     "w": "Dubai's",
+     "start": 45.994,
+     "end": 46.328
+    },
+    {
+     "w": "sail-shaped",
+     "start": 46.328,
+     "end": 46.804
+    },
+    {
+     "w": "hotel",
+     "start": 46.804,
+     "end": 47.138
+    },
+    {
+     "w": "in",
+     "start": 47.138,
+     "end": 47.329
+    },
+    {
+     "w": "the",
+     "start": 47.329,
+     "end": 47.521
+    },
+    {
+     "w": "sea.",
+     "start": 47.521,
+     "end": 47.713
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 48.146,
+   "end": 52.594,
+   "text": "Now give grandma the warmest spot, and tuck dad's rice bowl under the blanket to keep it hot.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 48.266,
+     "end": 48.446
+    },
+    {
+     "w": "give",
+     "start": 48.446,
+     "end": 48.627
+    },
+    {
+     "w": "grandma",
+     "start": 48.627,
+     "end": 48.941
+    },
+    {
+     "w": "the",
+     "start": 48.941,
+     "end": 49.121
+    },
+    {
+     "w": "warmest",
+     "start": 49.121,
+     "end": 49.436
+    },
+    {
+     "w": "spot,",
+     "start": 49.436,
+     "end": 49.616
+    },
+    {
+     "w": "and",
+     "start": 49.686,
+     "end": 49.897
+    },
+    {
+     "w": "tuck",
+     "start": 49.897,
+     "end": 50.109
+    },
+    {
+     "w": "dad's",
+     "start": 50.109,
+     "end": 50.32
+    },
+    {
+     "w": "rice",
+     "start": 50.32,
+     "end": 50.532
+    },
+    {
+     "w": "bowl",
+     "start": 50.532,
+     "end": 50.743
+    },
+    {
+     "w": "under",
+     "start": 50.743,
+     "end": 51.111
+    },
+    {
+     "w": "the",
+     "start": 51.111,
+     "end": 51.322
+    },
+    {
+     "w": "blanket",
+     "start": 51.322,
+     "end": 51.69
+    },
+    {
+     "w": "to",
+     "start": 51.69,
+     "end": 51.902
+    },
+    {
+     "w": "keep",
+     "start": 51.902,
+     "end": 52.113
+    },
+    {
+     "w": "it",
+     "start": 52.113,
+     "end": 52.325
+    },
+    {
+     "w": "hot.",
+     "start": 52.325,
+     "end": 52.536
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 52.958,
+   "end": 57.719,
+   "text": "Still under almost every Korean home today, and Frank Lloyd Wright took the idea to America.",
+   "words": [
+    {
+     "w": "Still",
+     "start": 53.038,
+     "end": 53.225
+    },
+    {
+     "w": "under",
+     "start": 53.225,
+     "end": 53.55
+    },
+    {
+     "w": "almost",
+     "start": 53.55,
+     "end": 53.876
+    },
+    {
+     "w": "every",
+     "start": 53.876,
+     "end": 54.34
+    },
+    {
+     "w": "Korean",
+     "start": 54.34,
+     "end": 54.666
+    },
+    {
+     "w": "home",
+     "start": 54.666,
+     "end": 54.852
+    },
+    {
+     "w": "today,",
+     "start": 54.852,
+     "end": 55.178
+    },
+    {
+     "w": "and",
+     "start": 55.338,
+     "end": 55.53
+    },
+    {
+     "w": "Frank",
+     "start": 55.53,
+     "end": 55.723
+    },
+    {
+     "w": "Lloyd",
+     "start": 55.723,
+     "end": 55.915
+    },
+    {
+     "w": "Wright",
+     "start": 55.915,
+     "end": 56.107
+    },
+    {
+     "w": "took",
+     "start": 56.107,
+     "end": 56.299
+    },
+    {
+     "w": "the",
+     "start": 56.299,
+     "end": 56.492
+    },
+    {
+     "w": "idea",
+     "start": 56.492,
+     "end": 56.826
+    },
+    {
+     "w": "to",
+     "start": 56.826,
+     "end": 57.018
+    },
+    {
+     "w": "America.",
+     "start": 57.018,
+     "end": 57.638
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 58.083,
+   "end": 61.177,
+   "text": "And congrats, you just built a Korean heated floor yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.203,
+     "end": 58.424
+    },
+    {
+     "w": "congrats,",
+     "start": 58.424,
+     "end": 58.808
+    },
+    {
+     "w": "you",
+     "start": 58.808,
+     "end": 59.028
+    },
+    {
+     "w": "just",
+     "start": 59.028,
+     "end": 59.249
+    },
+    {
+     "w": "built",
+     "start": 59.249,
+     "end": 59.47
+    },
+    {
+     "w": "a",
+     "start": 59.47,
+     "end": 59.69
+    },
+    {
+     "w": "Korean",
+     "start": 59.69,
+     "end": 60.074
+    },
+    {
+     "w": "heated",
+     "start": 60.074,
+     "end": 60.458
+    },
+    {
+     "w": "floor",
+     "start": 60.458,
+     "end": 60.679
+    },
+    {
+     "w": "yourself.",
+     "start": 60.679,
+     "end": 61.063
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 61.542,
+   "end": 66.01,
+   "text": "Thousands of years of warm floors, and your dad still guards the thermostat like a bank vault.",
+   "words": [
+    {
+     "w": "Thousands",
+     "start": 61.662,
+     "end": 62.049
+    },
+    {
+     "w": "of",
+     "start": 62.049,
+     "end": 62.271
+    },
+    {
+     "w": "years",
+     "start": 62.271,
+     "end": 62.493
+    },
+    {
+     "w": "of",
+     "start": 62.493,
+     "end": 62.715
+    },
+    {
+     "w": "warm",
+     "start": 62.715,
+     "end": 62.937
+    },
+    {
+     "w": "floors,",
+     "start": 62.937,
+     "end": 63.159
+    },
+    {
+     "w": "and",
+     "start": 63.159,
+     "end": 63.382
+    },
+    {
+     "w": "your",
+     "start": 63.382,
+     "end": 63.604
+    },
+    {
+     "w": "dad",
+     "start": 63.604,
+     "end": 63.826
+    },
+    {
+     "w": "still",
+     "start": 63.826,
+     "end": 64.048
+    },
+    {
+     "w": "guards",
+     "start": 64.048,
+     "end": 64.27
+    },
+    {
+     "w": "the",
+     "start": 64.27,
+     "end": 64.492
+    },
+    {
+     "w": "thermostat",
+     "start": 64.492,
+     "end": 65.043
+    },
+    {
+     "w": "like",
+     "start": 65.043,
+     "end": 65.266
+    },
+    {
+     "w": "a",
+     "start": 65.266,
+     "end": 65.488
+    },
+    {
+     "w": "bank",
+     "start": 65.488,
+     "end": 65.71
+    },
+    {
+     "w": "vault.",
+     "start": 65.71,
+     "end": 65.932
+    }
+   ]
+  }
+ ]
+}
