@@ -36,9 +36,9 @@ episodes:
   - {slug: ep31-turbine, kit: turbine, look: 2, retired: true}
   - {slug: ep32-telescope, kit: telescope, look: 2, retired: true}
   - {slug: ep33-camel, kit: camel, look: 2, retired: true}
-  - {slug: ep34-evcar, kit: evcar, look: 2}
-  - {slug: ep35-phone, kit: phone, look: 2}
-  - {slug: ep36-pyramid, kit: pyramid, look: 2}
+  - {slug: ep34-evcar, kit: evcar, look: 2, retired: true}
+  - {slug: ep35-phone, kit: phone, look: 2, retired: true}
+  - {slug: ep36-pyramid, kit: pyramid, look: 2, retired: true}
   - {slug: ep37-windtower, kit: windtower, look: 2}
   - {slug: ep38-petra, kit: petra, look: 2}
   - {slug: ep39-pagoda, kit: pagoda, look: 2}
