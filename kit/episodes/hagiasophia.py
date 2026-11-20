@@ -659,7 +659,7 @@ class HagiaSophia(EpisodeV2):
                          "mortar": "MORTAR AS THICK AS THE BRICKS", "bends": "IT BENDS, NOT BREAKS", "gold": "GOLD",
                          "hang": "IT SEEMS TO HANG FROM THE SKY", "h": "55 m", "crack": "CRACK!"}},
             "ar_sa": {"follow": ("تابعني", "الجاي: أرضية كورية دافية"),
-                      "stat": [("55 m", "علوها"), ("<6", "سنين بناء"), ("15", "قرن")],
+                      "stat": [("55", "متر علو"), ("<6", "سنين بناء"), ("15", "قرن")],
                       "L": {"wide": "أعرض من ثلاثين متر", "ring": "حلقة نور", "name": "آيا صوفيا",
                             "round": "القبة تبي جدار مدوّر", "square": "يبي قاعة مربعة", "gap": "ما تركب!",
                             "arches": "أربع أقواس كبار", "pend": "مثلثات طوب مقوّسة", "circle": "المربع صار دايرة",
