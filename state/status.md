@@ -1,4 +1,4 @@
-# Post status 2026-11-20T04:24:05+00:00
+# Post status 2026-11-20T04:37:35+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -295,3 +295,6 @@
 | ep50-ondol | ar.instagram | scheduled |  | 2026-11-20T20:00:00.000Z |
 | ep50-ondol | en.instagram | scheduled |  | 2026-11-21T00:00:00.000Z |
 | ep50-ondol | en.tiktok | scheduled |  | 2026-11-21T00:00:00.000Z |
+| ep51-burjalarab | ar.instagram | scheduled |  | 2026-11-20T23:00:00.000Z |
+| ep51-burjalarab | en.instagram | scheduled |  | 2026-11-21T02:30:00.000Z |
+| ep51-burjalarab | en.tiktok | scheduled |  | 2026-11-21T02:30:00.000Z |
