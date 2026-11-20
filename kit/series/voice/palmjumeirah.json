@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 63.07,
+ "duration": 63.27,
  "words": 227,
- "words_per_sec": 3.6,
+ "words_per_sec": 3.59,
  "lines": [
   {
    "line": 1,
@@ -406,850 +406,850 @@
   {
    "line": 5,
    "start": 19.385,
-   "end": 24.125,
-   "text": "So ships suck sand off the seabed and spray it into place in huge arcs. Builders call it rainbowing.",
+   "end": 24.271,
+   "text": "So ships suck sand off the sea floor and spray it into place in huge arcs. Builders call it rainbowing.",
    "words": [
     {
      "w": "So",
      "start": 19.495,
-     "end": 19.697
+     "end": 19.703
     },
     {
      "w": "ships",
-     "start": 19.697,
-     "end": 19.899
+     "start": 19.703,
+     "end": 19.912
     },
     {
      "w": "suck",
-     "start": 19.899,
-     "end": 20.101
+     "start": 19.912,
+     "end": 20.12
     },
     {
      "w": "sand",
-     "start": 20.101,
-     "end": 20.303
+     "start": 20.12,
+     "end": 20.329
     },
     {
      "w": "off",
-     "start": 20.303,
-     "end": 20.505
+     "start": 20.329,
+     "end": 20.537
     },
     {
      "w": "the",
-     "start": 20.505,
-     "end": 20.707
+     "start": 20.537,
+     "end": 20.746
     },
     {
-     "w": "seabed",
-     "start": 20.707,
-     "end": 21.059
+     "w": "sea",
+     "start": 20.746,
+     "end": 20.954
+    },
+    {
+     "w": "floor",
+     "start": 20.954,
+     "end": 21.163
     },
     {
      "w": "and",
-     "start": 21.059,
-     "end": 21.261
+     "start": 21.163,
+     "end": 21.371
     },
     {
      "w": "spray",
-     "start": 21.261,
-     "end": 21.463
+     "start": 21.371,
+     "end": 21.58
     },
     {
      "w": "it",
-     "start": 21.463,
-     "end": 21.665
+     "start": 21.58,
+     "end": 21.788
     },
     {
      "w": "into",
-     "start": 21.665,
-     "end": 22.017
+     "start": 21.788,
+     "end": 22.151
     },
     {
      "w": "place",
-     "start": 22.017,
-     "end": 22.219
+     "start": 22.151,
+     "end": 22.36
     },
     {
      "w": "in",
-     "start": 22.219,
-     "end": 22.421
+     "start": 22.36,
+     "end": 22.568
     },
     {
      "w": "huge",
-     "start": 22.421,
-     "end": 22.623
+     "start": 22.568,
+     "end": 22.777
     },
     {
      "w": "arcs.",
-     "start": 22.623,
-     "end": 22.825
+     "start": 22.777,
+     "end": 22.985
     },
     {
      "w": "Builders",
-     "start": 22.955,
-     "end": 23.263
+     "start": 23.125,
+     "end": 23.43
     },
     {
      "w": "call",
-     "start": 23.263,
-     "end": 23.44
+     "start": 23.43,
+     "end": 23.605
     },
     {
      "w": "it",
-     "start": 23.44,
-     "end": 23.616
+     "start": 23.605,
+     "end": 23.78
     },
     {
      "w": "rainbowing.",
-     "start": 23.616,
-     "end": 24.055
+     "start": 23.78,
+     "end": 24.215
     }
    ]
   },
   {
    "line": 6,
-   "start": 24.49,
-   "end": 26.75,
+   "start": 24.635,
+   "end": 26.896,
    "text": "But one big storm would tear the fronds apart.",
    "words": [
     {
      "w": "But",
-     "start": 24.62,
-     "end": 24.831
+     "start": 24.765,
+     "end": 24.976
     },
     {
      "w": "one",
-     "start": 24.831,
-     "end": 25.043
+     "start": 24.976,
+     "end": 25.188
     },
     {
      "w": "big",
-     "start": 25.043,
-     "end": 25.254
+     "start": 25.188,
+     "end": 25.399
     },
     {
      "w": "storm",
-     "start": 25.254,
-     "end": 25.466
+     "start": 25.399,
+     "end": 25.611
     },
     {
      "w": "would",
-     "start": 25.466,
-     "end": 25.677
+     "start": 25.611,
+     "end": 25.822
     },
     {
      "w": "tear",
-     "start": 25.677,
-     "end": 25.889
+     "start": 25.822,
+     "end": 26.034
     },
     {
      "w": "the",
-     "start": 25.889,
-     "end": 26.1
+     "start": 26.034,
+     "end": 26.245
     },
     {
      "w": "fronds",
-     "start": 26.1,
-     "end": 26.312
+     "start": 26.245,
+     "end": 26.457
     },
     {
      "w": "apart.",
-     "start": 26.312,
-     "end": 26.68
+     "start": 26.457,
+     "end": 26.825
     }
    ]
   },
   {
    "line": 7,
-   "start": 27.115,
-   "end": 31.573,
+   "start": 27.26,
+   "end": 31.719,
    "text": "So you wrap it in a crescent of rock eleven kilometers long, every boulder placed by crane.",
    "words": [
     {
      "w": "So",
-     "start": 27.225,
-     "end": 27.39
+     "start": 27.37,
+     "end": 27.535
     },
     {
      "w": "you",
-     "start": 27.39,
-     "end": 27.556
+     "start": 27.535,
+     "end": 27.701
     },
     {
      "w": "wrap",
-     "start": 27.556,
-     "end": 27.721
+     "start": 27.701,
+     "end": 27.866
     },
     {
      "w": "it",
-     "start": 27.721,
-     "end": 27.887
+     "start": 27.866,
+     "end": 28.032
     },
     {
      "w": "in",
-     "start": 27.887,
-     "end": 28.052
+     "start": 28.032,
+     "end": 28.197
     },
     {
      "w": "a",
-     "start": 28.052,
-     "end": 28.217
+     "start": 28.197,
+     "end": 28.362
     },
     {
      "w": "crescent",
-     "start": 28.217,
-     "end": 28.505
+     "start": 28.362,
+     "end": 28.65
     },
     {
      "w": "of",
-     "start": 28.505,
-     "end": 28.671
+     "start": 28.65,
+     "end": 28.816
     },
     {
      "w": "rock",
-     "start": 28.671,
-     "end": 28.836
+     "start": 28.816,
+     "end": 28.981
     },
     {
      "w": "eleven",
-     "start": 28.836,
-     "end": 29.247
+     "start": 28.981,
+     "end": 29.392
     },
     {
      "w": "kilometers",
-     "start": 29.247,
-     "end": 29.78
+     "start": 29.392,
+     "end": 29.925
     },
     {
      "w": "long,",
-     "start": 29.78,
-     "end": 29.945
+     "start": 29.925,
+     "end": 30.09
     },
     {
      "w": "every",
-     "start": 30.115,
-     "end": 30.551
+     "start": 30.26,
+     "end": 30.699
     },
     {
      "w": "boulder",
-     "start": 30.551,
-     "end": 30.857
+     "start": 30.699,
+     "end": 31.008
     },
     {
      "w": "placed",
-     "start": 30.857,
-     "end": 31.163
+     "start": 31.008,
+     "end": 31.316
     },
     {
      "w": "by",
-     "start": 31.163,
-     "end": 31.339
+     "start": 31.316,
+     "end": 31.493
     },
     {
      "w": "crane.",
-     "start": 31.339,
-     "end": 31.515
+     "start": 31.493,
+     "end": 31.67
     }
    ]
   },
   {
    "line": 8,
-   "start": 31.938,
-   "end": 34.823,
+   "start": 32.083,
+   "end": 34.969,
    "text": "But in an earthquake, loose wet sand can turn to soup.",
    "words": [
     {
      "w": "But",
-     "start": 32.068,
-     "end": 32.256
+     "start": 32.213,
+     "end": 32.401
     },
     {
      "w": "in",
-     "start": 32.256,
-     "end": 32.443
+     "start": 32.401,
+     "end": 32.588
     },
     {
      "w": "an",
-     "start": 32.443,
-     "end": 32.631
+     "start": 32.588,
+     "end": 32.776
     },
     {
      "w": "earthquake,",
-     "start": 32.631,
-     "end": 32.958
+     "start": 32.776,
+     "end": 33.103
     },
     {
      "w": "loose",
-     "start": 33.108,
-     "end": 33.335
+     "start": 33.253,
+     "end": 33.48
     },
     {
      "w": "wet",
-     "start": 33.335,
-     "end": 33.562
+     "start": 33.48,
+     "end": 33.707
     },
     {
      "w": "sand",
-     "start": 33.562,
-     "end": 33.789
+     "start": 33.707,
+     "end": 33.934
     },
     {
      "w": "can",
-     "start": 33.789,
-     "end": 34.017
+     "start": 33.934,
+     "end": 34.162
     },
     {
      "w": "turn",
-     "start": 34.017,
-     "end": 34.244
+     "start": 34.162,
+     "end": 34.389
     },
     {
      "w": "to",
-     "start": 34.244,
-     "end": 34.471
+     "start": 34.389,
+     "end": 34.616
     },
     {
      "w": "soup.",
-     "start": 34.471,
-     "end": 34.698
+     "start": 34.616,
+     "end": 34.843
     }
    ]
   },
   {
    "line": 9,
-   "start": 35.188,
-   "end": 38.99,
+   "start": 35.333,
+   "end": 39.135,
    "text": "So you push giant vibrating probes into the island and shake the grains tight.",
    "words": [
     {
      "w": "So",
-     "start": 35.308,
-     "end": 35.512
+     "start": 35.453,
+     "end": 35.657
     },
     {
      "w": "you",
-     "start": 35.512,
-     "end": 35.717
+     "start": 35.657,
+     "end": 35.862
     },
     {
      "w": "push",
-     "start": 35.717,
-     "end": 35.921
+     "start": 35.862,
+     "end": 36.066
     },
     {
      "w": "giant",
-     "start": 35.921,
-     "end": 36.126
+     "start": 36.066,
+     "end": 36.271
     },
     {
      "w": "vibrating",
-     "start": 36.126,
-     "end": 36.633
+     "start": 36.271,
+     "end": 36.778
     },
     {
      "w": "probes",
-     "start": 36.633,
-     "end": 36.989
+     "start": 36.778,
+     "end": 37.134
     },
     {
      "w": "into",
-     "start": 36.989,
-     "end": 37.345
+     "start": 37.134,
+     "end": 37.49
     },
     {
      "w": "the",
-     "start": 37.345,
-     "end": 37.55
+     "start": 37.49,
+     "end": 37.695
     },
     {
      "w": "island",
-     "start": 37.55,
-     "end": 37.906
+     "start": 37.695,
+     "end": 38.051
     },
     {
      "w": "and",
-     "start": 37.906,
-     "end": 38.11
+     "start": 38.051,
+     "end": 38.255
     },
     {
      "w": "shake",
-     "start": 38.11,
-     "end": 38.315
+     "start": 38.255,
+     "end": 38.46
     },
     {
      "w": "the",
-     "start": 38.315,
-     "end": 38.519
+     "start": 38.46,
+     "end": 38.664
     },
     {
      "w": "grains",
-     "start": 38.519,
-     "end": 38.724
+     "start": 38.664,
+     "end": 38.869
     },
     {
      "w": "tight.",
-     "start": 38.724,
-     "end": 38.928
+     "start": 38.869,
+     "end": 39.073
     }
    ]
   },
   {
    "line": 10,
-   "start": 39.354,
-   "end": 43.208,
+   "start": 39.5,
+   "end": 43.354,
    "text": "But before you grab your towel, follow, because next we're building a refrigerator.",
    "words": [
     {
      "w": "But",
-     "start": 39.504,
-     "end": 39.682
+     "start": 39.64,
+     "end": 39.819
     },
     {
      "w": "before",
-     "start": 39.682,
-     "end": 39.991
+     "start": 39.819,
+     "end": 40.131
     },
     {
      "w": "you",
-     "start": 39.991,
-     "end": 40.169
+     "start": 40.131,
+     "end": 40.31
     },
     {
      "w": "grab",
-     "start": 40.169,
-     "end": 40.347
+     "start": 40.31,
+     "end": 40.489
     },
     {
      "w": "your",
-     "start": 40.347,
-     "end": 40.525
+     "start": 40.489,
+     "end": 40.668
     },
     {
      "w": "towel,",
-     "start": 40.525,
-     "end": 40.834
+     "start": 40.668,
+     "end": 40.98
     },
     {
      "w": "follow,",
-     "start": 41.004,
-     "end": 41.334
+     "start": 41.16,
+     "end": 41.48
     },
     {
      "w": "because",
-     "start": 41.474,
-     "end": 41.751
+     "start": 41.62,
+     "end": 41.897
     },
     {
      "w": "next",
-     "start": 41.751,
-     "end": 41.91
+     "start": 41.897,
+     "end": 42.056
     },
     {
      "w": "we're",
-     "start": 41.91,
-     "end": 42.069
+     "start": 42.056,
+     "end": 42.215
     },
     {
      "w": "building",
-     "start": 42.069,
-     "end": 42.345
+     "start": 42.215,
+     "end": 42.491
     },
     {
      "w": "a",
-     "start": 42.345,
-     "end": 42.504
+     "start": 42.491,
+     "end": 42.65
     },
     {
      "w": "refrigerator.",
-     "start": 42.504,
-     "end": 43.134
+     "start": 42.65,
+     "end": 43.28
     }
    ]
   },
   {
    "line": 11,
-   "start": 43.573,
-   "end": 48.365,
-   "text": "Now cut two gaps in the crescent so the tide can flush the water, and fill the fronds with villas.",
+   "start": 43.719,
+   "end": 48.562,
+   "text": "Now cut two gaps in the crescent so fresh sea water flows in, and fill the fronds with villas.",
    "words": [
     {
      "w": "Now",
-     "start": 43.693,
-     "end": 43.893
+     "start": 43.829,
+     "end": 44.047
     },
     {
      "w": "cut",
-     "start": 43.893,
-     "end": 44.093
+     "start": 44.047,
+     "end": 44.265
     },
     {
      "w": "two",
-     "start": 44.093,
-     "end": 44.294
+     "start": 44.265,
+     "end": 44.484
     },
     {
      "w": "gaps",
-     "start": 44.294,
-     "end": 44.494
+     "start": 44.484,
+     "end": 44.702
     },
     {
      "w": "in",
-     "start": 44.494,
-     "end": 44.694
+     "start": 44.702,
+     "end": 44.92
     },
     {
      "w": "the",
-     "start": 44.694,
-     "end": 44.894
+     "start": 44.92,
+     "end": 45.138
     },
     {
      "w": "crescent",
-     "start": 44.894,
-     "end": 45.243
+     "start": 45.138,
+     "end": 45.518
     },
     {
      "w": "so",
-     "start": 45.243,
-     "end": 45.443
+     "start": 45.518,
+     "end": 45.736
     },
     {
-     "w": "the",
-     "start": 45.443,
-     "end": 45.643
+     "w": "fresh",
+     "start": 45.736,
+     "end": 45.955
     },
     {
-     "w": "tide",
-     "start": 45.643,
-     "end": 45.844
+     "w": "sea",
+     "start": 45.955,
+     "end": 46.173
     },
     {
-     "w": "can",
-     "start": 45.844,
-     "end": 46.044
+     "w": "water",
+     "start": 46.173,
+     "end": 46.553
     },
     {
-     "w": "flush",
-     "start": 46.044,
-     "end": 46.244
+     "w": "flows",
+     "start": 46.553,
+     "end": 46.771
     },
     {
-     "w": "the",
-     "start": 46.244,
-     "end": 46.444
-    },
-    {
-     "w": "water,",
-     "start": 46.444,
-     "end": 46.793
+     "w": "in,",
+     "start": 46.771,
+     "end": 46.989
     },
     {
      "w": "and",
-     "start": 46.953,
-     "end": 47.15
+     "start": 47.139,
+     "end": 47.338
     },
     {
      "w": "fill",
-     "start": 47.15,
-     "end": 47.348
+     "start": 47.338,
+     "end": 47.537
     },
     {
      "w": "the",
-     "start": 47.348,
-     "end": 47.545
+     "start": 47.537,
+     "end": 47.735
     },
     {
      "w": "fronds",
-     "start": 47.545,
-     "end": 47.742
+     "start": 47.735,
+     "end": 47.934
     },
     {
      "w": "with",
-     "start": 47.742,
-     "end": 47.94
+     "start": 47.934,
+     "end": 48.133
     },
     {
      "w": "villas.",
-     "start": 47.94,
-     "end": 48.283
+     "start": 48.133,
+     "end": 48.479
     }
    ]
   },
   {
    "line": 12,
-   "start": 48.729,
-   "end": 54.885,
+   "start": 48.927,
+   "end": 55.083,
    "text": "Ninety-four million cubic meters of sand, seven million tonnes of rock, and no concrete or steel in the island itself.",
    "words": [
     {
      "w": "Ninety-four",
-     "start": 48.809,
-     "end": 49.482
+     "start": 49.007,
+     "end": 49.68
     },
     {
      "w": "million",
-     "start": 49.482,
-     "end": 49.845
+     "start": 49.68,
+     "end": 50.043
     },
     {
      "w": "cubic",
-     "start": 49.845,
-     "end": 50.208
+     "start": 50.043,
+     "end": 50.406
     },
     {
      "w": "meters",
-     "start": 50.208,
-     "end": 50.572
+     "start": 50.406,
+     "end": 50.77
     },
     {
      "w": "of",
-     "start": 50.572,
-     "end": 50.78
+     "start": 50.77,
+     "end": 50.978
     },
     {
      "w": "sand,",
-     "start": 50.78,
-     "end": 50.989
+     "start": 50.978,
+     "end": 51.187
     },
     {
      "w": "seven",
-     "start": 51.139,
-     "end": 51.46
+     "start": 51.347,
+     "end": 51.665
     },
     {
      "w": "million",
-     "start": 51.46,
-     "end": 51.78
+     "start": 51.665,
+     "end": 51.983
     },
     {
      "w": "tonnes",
-     "start": 51.78,
-     "end": 52.101
+     "start": 51.983,
+     "end": 52.301
     },
     {
      "w": "of",
-     "start": 52.101,
-     "end": 52.285
+     "start": 52.301,
+     "end": 52.484
     },
     {
      "w": "rock,",
-     "start": 52.285,
-     "end": 52.469
+     "start": 52.484,
+     "end": 52.667
     },
     {
      "w": "and",
-     "start": 52.649,
-     "end": 52.84
+     "start": 52.847,
+     "end": 53.038
     },
     {
      "w": "no",
-     "start": 52.84,
-     "end": 53.03
+     "start": 53.038,
+     "end": 53.228
     },
     {
      "w": "concrete",
-     "start": 53.03,
-     "end": 53.362
+     "start": 53.228,
+     "end": 53.56
     },
     {
      "w": "or",
-     "start": 53.362,
-     "end": 53.553
+     "start": 53.56,
+     "end": 53.751
     },
     {
      "w": "steel",
-     "start": 53.553,
-     "end": 53.744
+     "start": 53.751,
+     "end": 53.942
     },
     {
      "w": "in",
-     "start": 53.744,
-     "end": 53.934
+     "start": 53.942,
+     "end": 54.132
     },
     {
      "w": "the",
-     "start": 53.934,
-     "end": 54.125
+     "start": 54.132,
+     "end": 54.323
     },
     {
      "w": "island",
-     "start": 54.125,
-     "end": 54.457
+     "start": 54.323,
+     "end": 54.655
     },
     {
      "w": "itself.",
-     "start": 54.457,
-     "end": 54.789
+     "start": 54.655,
+     "end": 54.987
     }
    ]
   },
   {
    "line": 13,
-   "start": 55.25,
-   "end": 58.135,
+   "start": 55.448,
+   "end": 58.333,
    "text": "And congrats, you just built the Palm Jumeirah yourself.",
    "words": [
     {
      "w": "And",
-     "start": 55.37,
-     "end": 55.629
+     "start": 55.568,
+     "end": 55.787
     },
     {
      "w": "congrats,",
-     "start": 55.629,
-     "end": 56.08
+     "start": 55.787,
+     "end": 56.168
     },
     {
      "w": "you",
-     "start": 56.21,
-     "end": 56.402
+     "start": 56.168,
+     "end": 56.387
     },
     {
      "w": "just",
-     "start": 56.402,
-     "end": 56.594
+     "start": 56.387,
+     "end": 56.606
     },
     {
      "w": "built",
-     "start": 56.594,
-     "end": 56.786
+     "start": 56.606,
+     "end": 56.825
     },
     {
      "w": "the",
-     "start": 56.786,
-     "end": 56.978
+     "start": 56.825,
+     "end": 57.044
     },
     {
      "w": "Palm",
-     "start": 56.978,
-     "end": 57.17
+     "start": 57.044,
+     "end": 57.263
     },
     {
      "w": "Jumeirah",
-     "start": 57.17,
-     "end": 57.646
+     "start": 57.263,
+     "end": 57.807
     },
     {
      "w": "yourself.",
-     "start": 57.646,
-     "end": 57.98
+     "start": 57.807,
+     "end": 58.188
     }
    ]
   },
   {
    "line": 14,
-   "start": 58.5,
-   "end": 63.094,
+   "start": 58.698,
+   "end": 63.292,
    "text": "They built a whole island out of sand, and you still can't eat one sandwich at the beach without sand in it.",
    "words": [
     {
      "w": "They",
-     "start": 58.63,
-     "end": 58.812
+     "start": 58.818,
+     "end": 59.0
     },
     {
      "w": "built",
-     "start": 58.812,
-     "end": 58.993
+     "start": 59.0,
+     "end": 59.182
     },
     {
      "w": "a",
-     "start": 58.993,
-     "end": 59.175
+     "start": 59.182,
+     "end": 59.364
     },
     {
      "w": "whole",
-     "start": 59.175,
-     "end": 59.357
+     "start": 59.364,
+     "end": 59.546
     },
     {
      "w": "island",
-     "start": 59.357,
-     "end": 59.673
+     "start": 59.546,
+     "end": 59.863
     },
     {
      "w": "out",
-     "start": 59.673,
-     "end": 59.854
+     "start": 59.863,
+     "end": 60.045
     },
     {
      "w": "of",
-     "start": 59.854,
-     "end": 60.036
+     "start": 60.045,
+     "end": 60.227
     },
     {
      "w": "sand,",
-     "start": 60.036,
-     "end": 60.218
+     "start": 60.227,
+     "end": 60.409
     },
     {
      "w": "and",
-     "start": 60.218,
-     "end": 60.399
+     "start": 60.409,
+     "end": 60.591
     },
     {
      "w": "you",
-     "start": 60.399,
-     "end": 60.581
+     "start": 60.591,
+     "end": 60.774
     },
     {
      "w": "still",
-     "start": 60.581,
-     "end": 60.763
+     "start": 60.774,
+     "end": 60.956
     },
     {
      "w": "can't",
-     "start": 60.763,
-     "end": 60.944
+     "start": 60.956,
+     "end": 61.138
     },
     {
      "w": "eat",
-     "start": 60.944,
-     "end": 61.126
+     "start": 61.138,
+     "end": 61.32
     },
     {
      "w": "one",
-     "start": 61.126,
-     "end": 61.308
+     "start": 61.32,
+     "end": 61.502
     },
     {
      "w": "sandwich",
-     "start": 61.308,
-     "end": 61.624
+     "start": 61.502,
+     "end": 61.819
     },
     {
      "w": "at",
-     "start": 61.624,
-     "end": 61.806
+     "start": 61.819,
+     "end": 62.001
     },
     {
      "w": "the",
-     "start": 61.806,
-     "end": 61.987
+     "start": 62.001,
+     "end": 62.183
     },
     {
      "w": "beach",
-     "start": 61.987,
-     "end": 62.169
+     "start": 62.183,
+     "end": 62.365
     },
     {
      "w": "without",
-     "start": 62.169,
-     "end": 62.485
+     "start": 62.365,
+     "end": 62.682
     },
     {
      "w": "sand",
-     "start": 62.485,
-     "end": 62.667
+     "start": 62.682,
+     "end": 62.864
     },
     {
      "w": "in",
-     "start": 62.667,
-     "end": 62.848
+     "start": 62.864,
+     "end": 63.046
     },
     {
      "w": "it.",
-     "start": 62.848,
-     "end": 63.03
+     "start": 63.046,
+     "end": 63.228
     }
    ]
   }
