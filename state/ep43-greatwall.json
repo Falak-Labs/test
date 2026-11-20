@@ -4,19 +4,23 @@
    "id": "6afe7ae8b16549e9b823a0c7",
    "channel": "6af2b54962b70b94b0ddd768",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-19T21:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-19T04:28:23+00:00"
+   "created": "2026-11-19T04:28:23+00:00",
+   "link": "https://www.youtube.com/shorts/3bQQK3nzerY",
+   "sentAt": "2026-11-19T21:30:56.271Z"
   },
   "en.instagram": {
    "id": "6afe7ae8f6b6aa0cd49f6431",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-19T21:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-19T04:28:23+00:00"
+   "created": "2026-11-19T04:28:23+00:00",
+   "link": "https://www.instagram.com/reel/Df8DRusi6TT/",
+   "sentAt": "2026-11-19T21:32:01.915Z"
   },
   "en.tiktok": {
    "id": "6afe7ae9b16549e9b823a0fe",
