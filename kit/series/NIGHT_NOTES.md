@@ -960,3 +960,6 @@
   "waits" (queue 10). A check-in of this session at 23:20Z Nov 20 (send_later trig_011SuFGKr9sKkow9RpoeyDb4) dispatches
   post.yml once 51 (23:00Z) has left the queue; if that did not happen, the evening run's own post push adds it (its
   slot is 14:00Z Nov 21).
+- 21:06Z: 48's Arabic Instagram went out on its requeue (21:00Z); 50's Arabic TikTok was refused again at 21:00Z. Its
+  requeue is left to the 23:20Z check-in, AFTER post.yml has added 54's Arabic TikTok: post.py counts scheduled future
+  posts against the 10, so requeueing 50 first would keep 54 waiting. Free 2-hour gaps: 01:30Z / 04:30Z Nov 24.
