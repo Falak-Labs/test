@@ -1,0 +1,32 @@
+episode: 52
+date: 2026-11-21
+video:
+  en: media/ep52-palmjumeirah-en.mp4
+  ar: media/ep52-palmjumeirah-ar.mp4
+hold: [en.youtube, ar.youtube]    # Buffer takes only 2 YouTube posts a day per channel: this run's YouTube goes to 54
+en:
+  at: "2026-11-21T14:00:00Z"    # 06:00 PT Sat Nov 21
+  title: "Palm Jumeirah: An Island Shaped Like a Palm Tree 🌴"
+  text: |
+    They grew a palm tree out of the sea, and people live on it. 🌴
+    Sixteen fronds lined with beach, sand sucked off the sea floor and sprayed into place in huge arcs ("rainbowing"), an 11 km crescent of rock against the storms, and giant vibrating probes that shake the sand tight so it can't turn to soup in an earthquake.
+    Would you live on a frond? 👇
+  next: "a refrigerator 🧊"
+  seo: "How Dubai's Palm Jumeirah was built: Dubai had only a short natural coastline, so a new island was shaped like a palm tree, a trunk and sixteen fronds, to add as much beach as possible. Desert sand is too fine and would be washed away, so dredgers sucked about 94 million cubic meters of sand off the sea floor and sprayed it into place in high arcs, a technique called rainbowing, steered by satellite positioning. A crescent breakwater about 11 km long, made of about 7 million tonnes of rock with every boulder placed by crane, protects the fronds from storms and waves. Loose wet sand can liquefy in an earthquake, so the island was compacted with vibrating probes (vibro-compaction) that shake the grains tight. Two gaps in the crescent let fresh sea water flow in so the lagoon doesn't go stale. The island itself was built from sand and rock, with no concrete or steel, and astronauts photograph it from space. Building started in 2001."
+  tags:
+    tiktok: "#dubai #palmjumeirah #engineering #megastructures #learnontiktok"
+    instagram: "#dubai #palmjumeirah #engineering #architecture #megastructures"
+    youtube: "#dubai #palmjumeirah #engineering"
+ar:
+  at: "2026-11-21T08:00:00Z"    # 00:00 PT Sat Nov 21 = 10 am Cairo
+  title: "نخلة جميرا: جزيرة على شكل نخلة طالعة من البحر 🌴"
+  text: |
+    طلّعوا نخلة من وسط البحر، والناس عايشة عليها! 🌴
+    ستاشر سعفة حواليها بلاج، ورمل اتشفط من قاع البحر واترشّ في الهوا على شكل قوس، وهلال صخر طوله حداشر كيلو يصد العواصف، ومكن عملاق بيترج عشان الرمل ميسيحش لو حصل زلزال.
+    تسكن على سعفة؟ 👇
+  next: "تلاجة 🧊"
+  seo: "إزاي نخلة جميرا في دبي اتبنت: دبي شطها الطبيعي قصير، فعملوا جزيرة جديدة على شكل نخلة، جذع وستاشر سعفة، عشان يكسبوا أكبر طول بلاج. رمل الصحرا ناعم أوي والموج يشيله، فالمراكب شفطت حوالي أربعة وتسعين مليون متر مكعب رمل من قاع البحر ورشّته في الهوا على شكل قوس، وبيسمّوها قوس قزح، والمراكب ماشية بالأقمار الصناعية. وحواليها هلال صخر طوله حوالي حداشر كيلو، فيه حوالي سبعة مليون طن صخر، كل صخرة حطها ونش، يصد العواصف والموج. والرمل المبلول ممكن يسيح زي الشوربة لو حصل زلزال، فغرزوا فيه مكن عملاق بيترج يرصّ الحبايات في بعض. وفي الهلال فتحتين عشان مية البحر تدخل وتتجدد. والجزيرة نفسها معمولة من رمل وصخر بس، من غير حديد ولا خرسانة، والبناء بدأ سنة ألفين وواحد."
+  tags:
+    tiktok: "#دبي #نخلة_جميرا #هندسة #معلومات #تعلم_على_التيك_توك"
+    instagram: "#دبي #نخلة_جميرا #الإمارات #هندسة #معلومات"
+    youtube: "#دبي #نخلة_جميرا #هندسة"
