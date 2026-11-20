@@ -1,0 +1,1262 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 64.19,
+ "words": 228,
+ "words_per_sec": 3.55,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.469,
+   "text": "If you can keep milk cold in a heatwave without a single cube of ice, congrats, you just built a refrigerator.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.325
+    },
+    {
+     "w": "you",
+     "start": 0.325,
+     "end": 0.521
+    },
+    {
+     "w": "can",
+     "start": 0.521,
+     "end": 0.716
+    },
+    {
+     "w": "keep",
+     "start": 0.716,
+     "end": 0.911
+    },
+    {
+     "w": "milk",
+     "start": 0.911,
+     "end": 1.107
+    },
+    {
+     "w": "cold",
+     "start": 1.107,
+     "end": 1.302
+    },
+    {
+     "w": "in",
+     "start": 1.302,
+     "end": 1.498
+    },
+    {
+     "w": "a",
+     "start": 1.498,
+     "end": 1.693
+    },
+    {
+     "w": "heatwave",
+     "start": 1.693,
+     "end": 2.033
+    },
+    {
+     "w": "without",
+     "start": 2.033,
+     "end": 2.373
+    },
+    {
+     "w": "a",
+     "start": 2.373,
+     "end": 2.569
+    },
+    {
+     "w": "single",
+     "start": 2.569,
+     "end": 2.764
+    },
+    {
+     "w": "cube",
+     "start": 2.764,
+     "end": 2.959
+    },
+    {
+     "w": "of",
+     "start": 2.959,
+     "end": 3.155
+    },
+    {
+     "w": "ice,",
+     "start": 3.155,
+     "end": 3.35
+    },
+    {
+     "w": "congrats,",
+     "start": 3.5,
+     "end": 3.843
+    },
+    {
+     "w": "you",
+     "start": 3.843,
+     "end": 4.039
+    },
+    {
+     "w": "just",
+     "start": 4.039,
+     "end": 4.236
+    },
+    {
+     "w": "built",
+     "start": 4.236,
+     "end": 4.433
+    },
+    {
+     "w": "a",
+     "start": 4.433,
+     "end": 4.63
+    },
+    {
+     "w": "refrigerator.",
+     "start": 4.63,
+     "end": 5.41
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.833,
+   "end": 10.365,
+   "text": "But cold used to mean ice, sawn from frozen lakes and shipped as far as India in sawdust.",
+   "words": [
+    {
+     "w": "But",
+     "start": 5.973,
+     "end": 6.163
+    },
+    {
+     "w": "cold",
+     "start": 6.163,
+     "end": 6.353
+    },
+    {
+     "w": "used",
+     "start": 6.353,
+     "end": 6.683
+    },
+    {
+     "w": "to",
+     "start": 6.683,
+     "end": 6.873
+    },
+    {
+     "w": "mean",
+     "start": 6.873,
+     "end": 7.063
+    },
+    {
+     "w": "ice,",
+     "start": 7.063,
+     "end": 7.253
+    },
+    {
+     "w": "sawn",
+     "start": 7.383,
+     "end": 7.565
+    },
+    {
+     "w": "from",
+     "start": 7.565,
+     "end": 7.747
+    },
+    {
+     "w": "frozen",
+     "start": 7.747,
+     "end": 8.064
+    },
+    {
+     "w": "lakes",
+     "start": 8.064,
+     "end": 8.381
+    },
+    {
+     "w": "and",
+     "start": 8.381,
+     "end": 8.563
+    },
+    {
+     "w": "shipped",
+     "start": 8.563,
+     "end": 8.88
+    },
+    {
+     "w": "as",
+     "start": 8.88,
+     "end": 9.063
+    },
+    {
+     "w": "far",
+     "start": 9.063,
+     "end": 9.245
+    },
+    {
+     "w": "as",
+     "start": 9.245,
+     "end": 9.427
+    },
+    {
+     "w": "India",
+     "start": 9.427,
+     "end": 9.744
+    },
+    {
+     "w": "in",
+     "start": 9.744,
+     "end": 9.926
+    },
+    {
+     "w": "sawdust.",
+     "start": 9.926,
+     "end": 10.243
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.729,
+   "end": 15.833,
+   "text": "So you pipe in a liquid that boils far below freezing. As it boils, it soaks up the heat inside.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.839,
+     "end": 11.037
+    },
+    {
+     "w": "you",
+     "start": 11.037,
+     "end": 11.235
+    },
+    {
+     "w": "pipe",
+     "start": 11.235,
+     "end": 11.433
+    },
+    {
+     "w": "in",
+     "start": 11.433,
+     "end": 11.632
+    },
+    {
+     "w": "a",
+     "start": 11.632,
+     "end": 11.83
+    },
+    {
+     "w": "liquid",
+     "start": 11.83,
+     "end": 12.175
+    },
+    {
+     "w": "that",
+     "start": 12.175,
+     "end": 12.373
+    },
+    {
+     "w": "boils",
+     "start": 12.373,
+     "end": 12.571
+    },
+    {
+     "w": "far",
+     "start": 12.571,
+     "end": 12.769
+    },
+    {
+     "w": "below",
+     "start": 12.769,
+     "end": 13.114
+    },
+    {
+     "w": "freezing.",
+     "start": 13.114,
+     "end": 13.459
+    },
+    {
+     "w": "As",
+     "start": 13.569,
+     "end": 13.822
+    },
+    {
+     "w": "it",
+     "start": 13.822,
+     "end": 14.076
+    },
+    {
+     "w": "boils,",
+     "start": 14.076,
+     "end": 14.329
+    },
+    {
+     "w": "it",
+     "start": 14.429,
+     "end": 14.623
+    },
+    {
+     "w": "soaks",
+     "start": 14.623,
+     "end": 14.818
+    },
+    {
+     "w": "up",
+     "start": 14.818,
+     "end": 15.012
+    },
+    {
+     "w": "the",
+     "start": 15.012,
+     "end": 15.206
+    },
+    {
+     "w": "heat",
+     "start": 15.206,
+     "end": 15.401
+    },
+    {
+     "w": "inside.",
+     "start": 15.401,
+     "end": 15.739
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.198,
+   "end": 18.875,
+   "text": "But once it has all boiled into gas, it's used up.",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.338,
+     "end": 16.526
+    },
+    {
+     "w": "once",
+     "start": 16.526,
+     "end": 16.713
+    },
+    {
+     "w": "it",
+     "start": 16.713,
+     "end": 16.901
+    },
+    {
+     "w": "has",
+     "start": 16.901,
+     "end": 17.089
+    },
+    {
+     "w": "all",
+     "start": 17.089,
+     "end": 17.277
+    },
+    {
+     "w": "boiled",
+     "start": 17.277,
+     "end": 17.603
+    },
+    {
+     "w": "into",
+     "start": 17.603,
+     "end": 17.93
+    },
+    {
+     "w": "gas,",
+     "start": 17.93,
+     "end": 18.118
+    },
+    {
+     "w": "it's",
+     "start": 18.238,
+     "end": 18.385
+    },
+    {
+     "w": "used",
+     "start": 18.385,
+     "end": 18.641
+    },
+    {
+     "w": "up.",
+     "start": 18.641,
+     "end": 18.788
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.24,
+   "end": 23.469,
+   "text": "So a compressor squeezes the gas hard. Squeezed gas gets hot, like a bike pump.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.35,
+     "end": 19.579
+    },
+    {
+     "w": "a",
+     "start": 19.579,
+     "end": 19.808
+    },
+    {
+     "w": "compressor",
+     "start": 19.808,
+     "end": 20.375
+    },
+    {
+     "w": "squeezes",
+     "start": 20.375,
+     "end": 20.774
+    },
+    {
+     "w": "the",
+     "start": 20.774,
+     "end": 21.002
+    },
+    {
+     "w": "gas",
+     "start": 21.002,
+     "end": 21.231
+    },
+    {
+     "w": "hard.",
+     "start": 21.231,
+     "end": 21.46
+    },
+    {
+     "w": "Squeezed",
+     "start": 21.52,
+     "end": 21.887
+    },
+    {
+     "w": "gas",
+     "start": 21.887,
+     "end": 22.098
+    },
+    {
+     "w": "gets",
+     "start": 22.098,
+     "end": 22.309
+    },
+    {
+     "w": "hot,",
+     "start": 22.309,
+     "end": 22.52
+    },
+    {
+     "w": "like",
+     "start": 22.68,
+     "end": 22.847
+    },
+    {
+     "w": "a",
+     "start": 22.847,
+     "end": 23.015
+    },
+    {
+     "w": "bike",
+     "start": 23.015,
+     "end": 23.182
+    },
+    {
+     "w": "pump.",
+     "start": 23.182,
+     "end": 23.35
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.833,
+   "end": 26.771,
+   "text": "But now that gas holds all the heat from inside the box.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.973,
+     "end": 24.188
+    },
+    {
+     "w": "now",
+     "start": 24.188,
+     "end": 24.403
+    },
+    {
+     "w": "that",
+     "start": 24.403,
+     "end": 24.618
+    },
+    {
+     "w": "gas",
+     "start": 24.618,
+     "end": 24.833
+    },
+    {
+     "w": "holds",
+     "start": 24.833,
+     "end": 25.048
+    },
+    {
+     "w": "all",
+     "start": 25.048,
+     "end": 25.263
+    },
+    {
+     "w": "the",
+     "start": 25.263,
+     "end": 25.478
+    },
+    {
+     "w": "heat",
+     "start": 25.478,
+     "end": 25.693
+    },
+    {
+     "w": "from",
+     "start": 25.693,
+     "end": 25.909
+    },
+    {
+     "w": "inside",
+     "start": 25.909,
+     "end": 26.283
+    },
+    {
+     "w": "the",
+     "start": 26.283,
+     "end": 26.498
+    },
+    {
+     "w": "box.",
+     "start": 26.498,
+     "end": 26.713
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.135,
+   "end": 31.938,
+   "text": "So it runs through the coils on the back, the heat escapes into your kitchen, and it turns back to liquid.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.245,
+     "end": 27.425
+    },
+    {
+     "w": "it",
+     "start": 27.425,
+     "end": 27.605
+    },
+    {
+     "w": "runs",
+     "start": 27.605,
+     "end": 27.785
+    },
+    {
+     "w": "through",
+     "start": 27.785,
+     "end": 27.965
+    },
+    {
+     "w": "the",
+     "start": 27.965,
+     "end": 28.145
+    },
+    {
+     "w": "coils",
+     "start": 28.145,
+     "end": 28.325
+    },
+    {
+     "w": "on",
+     "start": 28.325,
+     "end": 28.505
+    },
+    {
+     "w": "the",
+     "start": 28.505,
+     "end": 28.685
+    },
+    {
+     "w": "back,",
+     "start": 28.685,
+     "end": 28.865
+    },
+    {
+     "w": "the",
+     "start": 29.025,
+     "end": 29.195
+    },
+    {
+     "w": "heat",
+     "start": 29.195,
+     "end": 29.364
+    },
+    {
+     "w": "escapes",
+     "start": 29.364,
+     "end": 29.785
+    },
+    {
+     "w": "into",
+     "start": 29.785,
+     "end": 30.08
+    },
+    {
+     "w": "your",
+     "start": 30.08,
+     "end": 30.25
+    },
+    {
+     "w": "kitchen,",
+     "start": 30.25,
+     "end": 30.545
+    },
+    {
+     "w": "and",
+     "start": 30.685,
+     "end": 30.859
+    },
+    {
+     "w": "it",
+     "start": 30.859,
+     "end": 31.032
+    },
+    {
+     "w": "turns",
+     "start": 31.032,
+     "end": 31.206
+    },
+    {
+     "w": "back",
+     "start": 31.206,
+     "end": 31.379
+    },
+    {
+     "w": "to",
+     "start": 31.379,
+     "end": 31.553
+    },
+    {
+     "w": "liquid.",
+     "start": 31.553,
+     "end": 31.855
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.302,
+   "end": 34.438,
+   "text": "But that liquid is still under high pressure.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.452,
+     "end": 32.64
+    },
+    {
+     "w": "that",
+     "start": 32.64,
+     "end": 32.828
+    },
+    {
+     "w": "liquid",
+     "start": 32.828,
+     "end": 33.155
+    },
+    {
+     "w": "is",
+     "start": 33.155,
+     "end": 33.342
+    },
+    {
+     "w": "still",
+     "start": 33.342,
+     "end": 33.53
+    },
+    {
+     "w": "under",
+     "start": 33.53,
+     "end": 33.857
+    },
+    {
+     "w": "high",
+     "start": 33.857,
+     "end": 34.045
+    },
+    {
+     "w": "pressure.",
+     "start": 34.045,
+     "end": 34.372
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 34.802,
+   "end": 40.656,
+   "text": "So you push it through a tube as thin as spaghetti. The pressure drops, it turns icy cold, and the loop starts over.",
+   "words": [
+    {
+     "w": "So",
+     "start": 34.922,
+     "end": 35.123
+    },
+    {
+     "w": "you",
+     "start": 35.123,
+     "end": 35.324
+    },
+    {
+     "w": "push",
+     "start": 35.324,
+     "end": 35.525
+    },
+    {
+     "w": "it",
+     "start": 35.525,
+     "end": 35.726
+    },
+    {
+     "w": "through",
+     "start": 35.726,
+     "end": 35.927
+    },
+    {
+     "w": "a",
+     "start": 35.927,
+     "end": 36.129
+    },
+    {
+     "w": "tube",
+     "start": 36.129,
+     "end": 36.33
+    },
+    {
+     "w": "as",
+     "start": 36.33,
+     "end": 36.531
+    },
+    {
+     "w": "thin",
+     "start": 36.531,
+     "end": 36.732
+    },
+    {
+     "w": "as",
+     "start": 36.732,
+     "end": 36.933
+    },
+    {
+     "w": "spaghetti.",
+     "start": 36.933,
+     "end": 37.432
+    },
+    {
+     "w": "The",
+     "start": 37.492,
+     "end": 37.679
+    },
+    {
+     "w": "pressure",
+     "start": 37.679,
+     "end": 38.005
+    },
+    {
+     "w": "drops,",
+     "start": 38.005,
+     "end": 38.192
+    },
+    {
+     "w": "it",
+     "start": 38.332,
+     "end": 38.57
+    },
+    {
+     "w": "turns",
+     "start": 38.57,
+     "end": 38.809
+    },
+    {
+     "w": "icy",
+     "start": 38.809,
+     "end": 39.224
+    },
+    {
+     "w": "cold,",
+     "start": 39.224,
+     "end": 39.462
+    },
+    {
+     "w": "and",
+     "start": 39.602,
+     "end": 39.773
+    },
+    {
+     "w": "the",
+     "start": 39.773,
+     "end": 39.943
+    },
+    {
+     "w": "loop",
+     "start": 39.943,
+     "end": 40.114
+    },
+    {
+     "w": "starts",
+     "start": 40.114,
+     "end": 40.285
+    },
+    {
+     "w": "over.",
+     "start": 40.285,
+     "end": 40.582
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 41.021,
+   "end": 44.823,
+   "text": "But before you grab a snack, follow, because next we're building the Eiffel Tower.",
+   "words": [
+    {
+     "w": "But",
+     "start": 41.161,
+     "end": 41.346
+    },
+    {
+     "w": "before",
+     "start": 41.346,
+     "end": 41.669
+    },
+    {
+     "w": "you",
+     "start": 41.669,
+     "end": 41.855
+    },
+    {
+     "w": "grab",
+     "start": 41.855,
+     "end": 42.04
+    },
+    {
+     "w": "a",
+     "start": 42.04,
+     "end": 42.226
+    },
+    {
+     "w": "snack,",
+     "start": 42.226,
+     "end": 42.411
+    },
+    {
+     "w": "follow,",
+     "start": 42.551,
+     "end": 42.881
+    },
+    {
+     "w": "because",
+     "start": 42.991,
+     "end": 43.299
+    },
+    {
+     "w": "next",
+     "start": 43.299,
+     "end": 43.475
+    },
+    {
+     "w": "we're",
+     "start": 43.475,
+     "end": 43.652
+    },
+    {
+     "w": "building",
+     "start": 43.652,
+     "end": 43.959
+    },
+    {
+     "w": "the",
+     "start": 43.959,
+     "end": 44.136
+    },
+    {
+     "w": "Eiffel",
+     "start": 44.136,
+     "end": 44.443
+    },
+    {
+     "w": "Tower.",
+     "start": 44.443,
+     "end": 44.751
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 45.188,
+   "end": 50.083,
+   "text": "Now add a thermostat that switches the compressor on and off, and a magnet hidden in the door's rubber seal.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 45.298,
+     "end": 45.476
+    },
+    {
+     "w": "add",
+     "start": 45.476,
+     "end": 45.653
+    },
+    {
+     "w": "a",
+     "start": 45.653,
+     "end": 45.831
+    },
+    {
+     "w": "thermostat",
+     "start": 45.831,
+     "end": 46.271
+    },
+    {
+     "w": "that",
+     "start": 46.271,
+     "end": 46.449
+    },
+    {
+     "w": "switches",
+     "start": 46.449,
+     "end": 46.757
+    },
+    {
+     "w": "the",
+     "start": 46.757,
+     "end": 46.935
+    },
+    {
+     "w": "compressor",
+     "start": 46.935,
+     "end": 47.375
+    },
+    {
+     "w": "on",
+     "start": 47.375,
+     "end": 47.553
+    },
+    {
+     "w": "and",
+     "start": 47.553,
+     "end": 47.73
+    },
+    {
+     "w": "off,",
+     "start": 47.73,
+     "end": 47.908
+    },
+    {
+     "w": "and",
+     "start": 48.078,
+     "end": 48.249
+    },
+    {
+     "w": "a",
+     "start": 48.249,
+     "end": 48.42
+    },
+    {
+     "w": "magnet",
+     "start": 48.42,
+     "end": 48.718
+    },
+    {
+     "w": "hidden",
+     "start": 48.718,
+     "end": 49.016
+    },
+    {
+     "w": "in",
+     "start": 49.016,
+     "end": 49.187
+    },
+    {
+     "w": "the",
+     "start": 49.187,
+     "end": 49.358
+    },
+    {
+     "w": "door's",
+     "start": 49.358,
+     "end": 49.529
+    },
+    {
+     "w": "rubber",
+     "start": 49.529,
+     "end": 49.827
+    },
+    {
+     "w": "seal.",
+     "start": 49.827,
+     "end": 49.998
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 50.448,
+   "end": 55.427,
+   "text": "Four degrees inside, minus eighteen in the freezer, and Albert Einstein once patented a fridge.",
+   "words": [
+    {
+     "w": "Four",
+     "start": 50.578,
+     "end": 50.81
+    },
+    {
+     "w": "degrees",
+     "start": 50.81,
+     "end": 51.214
+    },
+    {
+     "w": "inside,",
+     "start": 51.214,
+     "end": 51.618
+    },
+    {
+     "w": "minus",
+     "start": 51.748,
+     "end": 52.083
+    },
+    {
+     "w": "eighteen",
+     "start": 52.083,
+     "end": 52.418
+    },
+    {
+     "w": "in",
+     "start": 52.418,
+     "end": 52.611
+    },
+    {
+     "w": "the",
+     "start": 52.611,
+     "end": 52.803
+    },
+    {
+     "w": "freezer,",
+     "start": 52.803,
+     "end": 53.138
+    },
+    {
+     "w": "and",
+     "start": 53.298,
+     "end": 53.504
+    },
+    {
+     "w": "Albert",
+     "start": 53.504,
+     "end": 53.862
+    },
+    {
+     "w": "Einstein",
+     "start": 53.862,
+     "end": 54.22
+    },
+    {
+     "w": "once",
+     "start": 54.22,
+     "end": 54.426
+    },
+    {
+     "w": "patented",
+     "start": 54.426,
+     "end": 54.936
+    },
+    {
+     "w": "a",
+     "start": 54.936,
+     "end": 55.142
+    },
+    {
+     "w": "fridge.",
+     "start": 55.142,
+     "end": 55.348
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.792,
+   "end": 58.521,
+   "text": "And congrats, you just built a refrigerator yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 55.912,
+     "end": 56.112
+    },
+    {
+     "w": "congrats,",
+     "start": 56.112,
+     "end": 56.46
+    },
+    {
+     "w": "you",
+     "start": 56.46,
+     "end": 56.66
+    },
+    {
+     "w": "just",
+     "start": 56.66,
+     "end": 56.861
+    },
+    {
+     "w": "built",
+     "start": 56.861,
+     "end": 57.061
+    },
+    {
+     "w": "a",
+     "start": 57.061,
+     "end": 57.261
+    },
+    {
+     "w": "refrigerator",
+     "start": 57.261,
+     "end": 58.054
+    },
+    {
+     "w": "yourself.",
+     "start": 58.054,
+     "end": 58.402
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 58.885,
+   "end": 64.208,
+   "text": "It pumps heat out of that box all day, and you stand there, door wide open, waiting for new food to appear.",
+   "words": [
+    {
+     "w": "It",
+     "start": 59.025,
+     "end": 59.225
+    },
+    {
+     "w": "pumps",
+     "start": 59.225,
+     "end": 59.425
+    },
+    {
+     "w": "heat",
+     "start": 59.425,
+     "end": 59.625
+    },
+    {
+     "w": "out",
+     "start": 59.625,
+     "end": 59.825
+    },
+    {
+     "w": "of",
+     "start": 59.825,
+     "end": 60.025
+    },
+    {
+     "w": "that",
+     "start": 60.025,
+     "end": 60.225
+    },
+    {
+     "w": "box",
+     "start": 60.225,
+     "end": 60.425
+    },
+    {
+     "w": "all",
+     "start": 60.425,
+     "end": 60.625
+    },
+    {
+     "w": "day,",
+     "start": 60.625,
+     "end": 60.825
+    },
+    {
+     "w": "and",
+     "start": 60.955,
+     "end": 61.155
+    },
+    {
+     "w": "you",
+     "start": 61.155,
+     "end": 61.355
+    },
+    {
+     "w": "stand",
+     "start": 61.355,
+     "end": 61.555
+    },
+    {
+     "w": "there,",
+     "start": 61.555,
+     "end": 61.755
+    },
+    {
+     "w": "door",
+     "start": 61.895,
+     "end": 62.055
+    },
+    {
+     "w": "wide",
+     "start": 62.055,
+     "end": 62.216
+    },
+    {
+     "w": "open,",
+     "start": 62.216,
+     "end": 62.495
+    },
+    {
+     "w": "waiting",
+     "start": 62.545,
+     "end": 62.913
+    },
+    {
+     "w": "for",
+     "start": 62.913,
+     "end": 63.124
+    },
+    {
+     "w": "new",
+     "start": 63.124,
+     "end": 63.335
+    },
+    {
+     "w": "food",
+     "start": 63.335,
+     "end": 63.546
+    },
+    {
+     "w": "to",
+     "start": 63.546,
+     "end": 63.757
+    },
+    {
+     "w": "appear.",
+     "start": 63.757,
+     "end": 64.125
+    }
+   ]
+  }
+ ]
+}

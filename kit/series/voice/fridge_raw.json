@@ -1,0 +1,91 @@
+{
+ "voice": "Easton",
+ "duration": 61.64,
+ "words": 228,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.25,
+   "text": "If you can keep milk cold in a heatwave without a single cube of ice, congrats, you just built a refrigerator."
+  },
+  {
+   "line": 2,
+   "start": 5.6,
+   "end": 9.95,
+   "text": "But cold used to mean ice, sawn from frozen lakes and shipped as far as India in sawdust."
+  },
+  {
+   "line": 3,
+   "start": 10.3,
+   "end": 15.2,
+   "text": "So you pipe in a liquid that boils far below freezing. As it boils, it soaks up the heat inside."
+  },
+  {
+   "line": 4,
+   "start": 15.55,
+   "end": 18.12,
+   "text": "But once it has all boiled into gas, it's used up."
+  },
+  {
+   "line": 5,
+   "start": 18.47,
+   "end": 22.53,
+   "text": "So a compressor squeezes the gas hard. Squeezed gas gets hot, like a bike pump."
+  },
+  {
+   "line": 6,
+   "start": 22.88,
+   "end": 25.7,
+   "text": "But now that gas holds all the heat from inside the box."
+  },
+  {
+   "line": 7,
+   "start": 26.05,
+   "end": 30.66,
+   "text": "So it runs through the coils on the back, the heat escapes into your kitchen, and it turns back to liquid."
+  },
+  {
+   "line": 8,
+   "start": 31.01,
+   "end": 33.06,
+   "text": "But that liquid is still under high pressure."
+  },
+  {
+   "line": 9,
+   "start": 33.41,
+   "end": 39.03,
+   "text": "So you push it through a tube as thin as spaghetti. The pressure drops, it turns icy cold, and the loop starts over."
+  },
+  {
+   "line": 10,
+   "start": 39.38,
+   "end": 43.03,
+   "text": "But before you grab a snack, follow, because next we're building the Eiffel Tower."
+  },
+  {
+   "line": 11,
+   "start": 43.38,
+   "end": 48.08,
+   "text": "Now add a thermostat that switches the compressor on and off, and a magnet hidden in the door's rubber seal."
+  },
+  {
+   "line": 12,
+   "start": 48.43,
+   "end": 53.21,
+   "text": "Four degrees inside, minus eighteen in the freezer, and Albert Einstein once patented a fridge."
+  },
+  {
+   "line": 13,
+   "start": 53.56,
+   "end": 56.18,
+   "text": "And congrats, you just built a refrigerator yourself."
+  },
+  {
+   "line": 14,
+   "start": 56.53,
+   "end": 61.64,
+   "text": "It pumps heat out of that box all day, and you stand there, door wide open, waiting for new food to appear."
+  }
+ ]
+}
