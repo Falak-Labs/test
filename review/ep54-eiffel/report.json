@@ -1,0 +1,138 @@
+{
+ "slug": "ep54-eiffel",
+ "kit": "eiffel",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.17,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "14/226",
+   "mix_lines_off": [
+    "L 1 2 diff  | If you can raise 300 meters of iron over Paris in two years, congrats, you just built the Eiffel Tower.",
+    "L 6 2 diff  | But the legs lean in and all four must meet 57 meters up.",
+    "L 8 2 diff  | But 18,000 pieces must hold together up in the wind.",
+    "L 9 3 diff  | So you join them with 2.5 million red hot rivets as they cool they shrink and clamp tight.",
+    "L11 2 diff  | Now paint it by hand 60 tons, 3 shades, lighter at the top so it looks even.",
+    "L12 2 diff  | Built to last 20 years, it grows 15 centimeters in summer and melted down it would be 6 centimeters thick.",
+    "L14 1 diff  | Top artist called it a useless monster. Now everyone takes the same photo, pinching its tip between two fingers."
+   ],
+   "size_mb": 20.7,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو قدرت ترفع تلتميت متر حديد فوق باريس في سنتين، مبروك، كده انت بنيت برج إيفل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس فوق، الهوا جامد، والبرج المقفول هيمسكه زي الشراع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتعمله حديد مخرّم زي الدانتيلا، الهوا يعدّي منه، ورجليه المقوّسة توصّل زقّته للأرض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس رجلين من الأربعة جنب النهر، على أرض طرية ومبلولة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتنزّل صناديق حديد مليانة هوا مضغوط، والعمال يحفروا جواها ناشف لحد الأرض الجامدة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الرجول مايلة لجوه، ولازم الأربعة يتقابلوا بالظبط على سبعة وخمسين متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحط تحت كل رجل جاك هيدروليك يزقّها مللي مللي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس تمنتاشر ألف حتة لازم تفضل ماسكة في بعض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتربطهم بمليونين ونص مسمار برشام أحمر نار، ولما يبرد يتقلص ويقفل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تطلع السلم، تابعني، عشان اللي جاي هنبني قناة السويس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "ودلوقتي ادهنه بإيدك: ستين طن بوية، تفتّح لفوق عشان يبان لون واحد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "كان المفروض يتشال بعد عشرين سنة، وبيطول خمستاشر سانتي في الصيف، ولو سيّحته يبقى لوح ستة سانتي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت برج إيفل بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "فنانين كبار قالوا عليه وحش، ودلوقتي الدنيا كلها بتتصور معاه، إلا عمتك: برج القاهرة أحلى.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 73.67,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 21.7,
+   "cover": true
+  }
+ }
+}

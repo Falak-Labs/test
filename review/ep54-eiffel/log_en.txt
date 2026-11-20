@@ -1,0 +1,13 @@
+eiffel: 69.18s, 2075 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/eiffel/cover.png: ['THE EIFFEL', 'TOWER'] (frame 0 of the video)
+video done in 579s
+audio done
+final out/eiffel/eiffel_final.mp4
+QA  duration 69.17s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2075
+QA sheet out/eiffel/qa_sheet.png
