@@ -34,10 +34,10 @@
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
    "status": "scheduled",
-   "dueAt": "2026-11-20T21:05:00.000Z",
+   "dueAt": "2026-11-20T21:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-20T05:30:15+00:00",
-   "moved": "2026-11-20T20:30:57+00:00"
+   "moved": "2026-11-20T20:31:31+00:00"
   }
  }
 }
