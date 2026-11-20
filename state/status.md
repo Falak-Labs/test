@@ -1,4 +1,4 @@
-# Post status 2026-11-20T02:58:13+00:00
+# Post status 2026-11-20T04:11:24+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -253,7 +253,7 @@
 | ep42-venice | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T14:00:00.000Z |
 | ep42-venice | en.instagram | sent |  | 2026-11-19T05:41:00.776Z https://www.instagram.com/reel/Df6WdelprHI/ |
 | ep42-venice | en.tiktok | sent |  | 2026-11-19T19:04:33.374Z https://tiktok.com/@congratsengineer/video/7709960069793778957 |
-| ep42-venice | en.youtube | scheduled |  | 2026-11-20T03:12:00.000Z |
+| ep42-venice | en.youtube | sent |  | 2026-11-20T03:12:03.548Z https://www.youtube.com/shorts/V79FxnVT4EQ |
 | ep43-greatwall | ar.instagram | sent |  | 2026-11-19T17:05:28.690Z https://www.instagram.com/reel/Df7krF_OPIN/ |
 | ep43-greatwall | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T04:00:00.000Z |
 | ep43-greatwall | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T17:00:00.000Z |
@@ -286,3 +286,9 @@
 | ep48-riad | ar.tiktok | scheduled |  | 2026-11-20T14:00:00.000Z |
 | ep48-riad | en.instagram | scheduled |  | 2026-11-20T19:00:00.000Z |
 | ep48-riad | en.tiktok | scheduled |  | 2026-11-20T19:00:00.000Z |
+| ep49-hagiasophia | ar.instagram | scheduled |  | 2026-11-20T17:00:00.000Z |
+| ep49-hagiasophia | ar.tiktok | scheduled |  | 2026-11-20T17:00:00.000Z |
+| ep49-hagiasophia | ar.youtube | scheduled |  | 2026-11-20T17:00:00.000Z |
+| ep49-hagiasophia | en.instagram | scheduled |  | 2026-11-20T21:30:00.000Z |
+| ep49-hagiasophia | en.tiktok | scheduled |  | 2026-11-20T21:30:00.000Z |
+| ep49-hagiasophia | en.youtube | scheduled |  | 2026-11-20T21:30:00.000Z |
