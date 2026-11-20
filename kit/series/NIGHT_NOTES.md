@@ -952,3 +952,11 @@
   body #8E98A6). A stat-beat camera key `.key(s("closer"), ...)` overrides the closer's own key: end the stat drift
   before the closer. Captions over a low sun wash out: keep the sun above y ~700. The Arabic TikTok queue (10) is the
   bottleneck at six builds a day plus requeues: 54's Arabic TikTok "waits" until 51 (23:00Z) leaves the queue.
+- Produce: one slug per run as each scene was ready (52 at 20:05Z, 53 at 20:22Z, 54 at 20:29Z), 24-30 minutes each.
+  Final videos: palmjumeirah EN 66.4 s / AR 69.1 s, fridge EN 67.3 s / AR 69.1 s (Mansour), eiffel EN 69.2 s / AR 73.7 s;
+  all -14 LUFS, peaks -1.8 to -2.4 dBFS, covers in and inside the grid crop. Whisper small on the English mixes: number
+  formats, "Jumeirah", "so fresh" -> "soap fresh", "in sawdust" -> "and sawdust" (captions carry the words).
+- Posts (state 21:06Z): 52 and 53 four targets each "scheduled" (YouTube held), 54 five of six: its Arabic TikTok
+  "waits" (queue 10). A check-in of this session at 23:20Z Nov 20 (send_later trig_011SuFGKr9sKkow9RpoeyDb4) dispatches
+  post.yml once 51 (23:00Z) has left the queue; if that did not happen, the evening run's own post push adds it (its
+  slot is 14:00Z Nov 21).
