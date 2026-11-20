@@ -1,0 +1,32 @@
+episode: 51
+date: 2026-11-20
+video:
+  en: media/ep51-burjalarab-en.mp4
+  ar: media/ep51-burjalarab-ar.mp4
+hold: [en.youtube, ar.youtube]    # Buffer takes only 2 YouTube posts a day per channel (Nov 19): one per run
+en:
+  at: "2026-11-21T02:30:00Z"    # 18:30 PT Nov 20
+  title: "Burj Al Arab: A Hotel on an Island Built Just for It ⛵"
+  text: |
+    A hotel shaped like a sail, standing in the sea on an island built just for it. ⛵
+    A ring of rocks filled with sand, 230 concrete piles driven 40 m into the sand and held up by friction, hollow concrete blocks that take the waves' power, and a fabric sail that lets the light in and bounces the heat away. The island took longer to build than the hotel.
+    Would you stay a night? 👇
+  next: "an island shaped like a palm tree 🌴"
+  seo: "How the Burj Al Arab was built: the sail-shaped hotel in Dubai, opened in 1999, is about 321 m tall and stands on its own man-made island about 280 m off Jumeirah Beach, linked to the shore by a curving bridge. The island was made by ringing the spot with rocks and filling it with sand. There is no bedrock under the seabed there, so the foundations are 230 concrete piles about 40 m long driven into the sand; they are held up by the friction of the sand along their sides. The island's edges are armored with hollow concrete blocks laid in a honeycomb pattern, which break the waves and soak up their energy instead of letting them wash the sand away. The front of the building is a double layer of Teflon-coated glass-fiber fabric, the sail, which lets daylight into the giant atrium while reflecting much of the desert heat, and lights up in colors at night. A helipad sits about 210 m up, where Roger Federer and Andre Agassi once played tennis in 2005. Building the island took about three years, longer than building the hotel on top of it."
+  tags:
+    tiktok: "#dubai #burjalarab #engineering #architecture #learnontiktok"
+    instagram: "#dubai #burjalarab #architecture #engineering #travel"
+    youtube: "#dubai #burjalarab #engineering"
+ar:
+  at: "2026-11-20T23:00:00Z"    # 15:00 PT Nov 20 = 2 am Riyadh Nov 21
+  title: "برج العرب: فندق على جزيرة انبنت عشانه ⛵"
+  text: |
+    فندق على شكل شراع، واقف في البحر على جزيرة انبنت عشانه! ⛵
+    صخور حوالين المكان تعبّت رمل، وميتين وثلاثين عمود خرسانة دقّوها أربعين متر في الرمل والاحتكاك يشيلها، وخرسانة مفرّغة مثل خلية النحل تكسر الموج، وشراع من قماش يدخّل النور ويرد الحر. والجزيرة أخذت وقت أكثر من الفندق نفسه.
+    تبي تنام فيه ليلة؟ 👇
+  next: "جزيرة على شكل نخلة 🌴"
+  seo: "كيف انبنى برج العرب: الفندق اللي على شكل شراع في دبي، افتتح سنة ألف وتسعمية وتسعة وتسعين، علوه حوالي ثلاثمية وواحد وعشرين متر، وواقف على جزيرة صناعية خاصة فيه على بعد حوالي ميتين وثمانين متر من شاطئ جميرا، ويوصلها جسر منحني. الجزيرة انسوت بصخور حوالين المكان وانعبّت رمل. وما تحت قاع البحر هناك صخر، فالأساس ميتين وثلاثين عمود خرسانة طول الواحد حوالي أربعين متر مدقوقة في الرمل، والرمل يمسكها من جوانبها والاحتكاك يشيل المبنى. وأطراف الجزيرة متدرّعة بقطع خرسانة مفرّغة مرصوصة مثل خلية النحل، تكسر الموج وتشرب قوته بدل ما ياكل الرمل. وواجهة الفندق طبقتين من قماش ألياف زجاج مغطى بالتفلون، هو الشراع، يدخّل النور للبهو العملاق ويرد كثير من حر الصحرا، ويتلوّن بالليل. وفيه مهبط هليكوبتر على علو حوالي ميتين وعشرة متر، لعب عليه روجر فيدرر وأندريه أغاسي تنس سنة ألفين وخمسة. وبناء الجزيرة أخذ حوالي ثلاث سنين، أكثر من بناء الفندق نفسه."
+  tags:
+    tiktok: "#برج_العرب #دبي #هندسة #معلومات #السعودية"
+    instagram: "#برج_العرب #دبي #عمارة #هندسة #السعودية"
+    youtube: "#برج_العرب #دبي #هندسة"
