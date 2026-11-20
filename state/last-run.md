@@ -1,4 +1,4 @@
-# Last posting run 2026-11-20T21:05:50+00:00
+# Last posting run 2026-11-20T23:24:54+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -13,16 +13,7 @@
 - ep52-palmjumeirah en.youtube: on hold in posts/ep52-palmjumeirah.yml
 - ep52-palmjumeirah ar.youtube: on hold in posts/ep52-palmjumeirah.yml
 - ep53-fridge en.youtube: on hold in posts/ep53-fridge.yml
-- ep53-fridge en.instagram: scheduled (Sat 21 Nov 16:30 UTC) id 6b00b6319ffbc8503cd68368
-- ep53-fridge en.tiktok: scheduled (Sat 21 Nov 16:30 UTC) id 6b00b6319ffbc8503cd683ad
 - ep53-fridge ar.youtube: on hold in posts/ep53-fridge.yml
-- ep53-fridge ar.instagram: scheduled (Sat 21 Nov 11:00 UTC) id 6b00b6325102766245d22bce
-- ep53-fridge ar.tiktok: scheduled (Sat 21 Nov 11:00 UTC) id 6b00b633dd205ed779973b8e
-- ep54-eiffel en.youtube: scheduled (Sat 21 Nov 19:00 UTC) id 6b00b6349ffbc8503cd68452
-- ep54-eiffel en.instagram: scheduled (Sat 21 Nov 19:00 UTC) id 6b00b6355102766245d2333d
-- ep54-eiffel en.tiktok: scheduled (Sat 21 Nov 19:00 UTC) id 6b00b635d9cbb430a1f7e5e3
-- ep54-eiffel ar.youtube: scheduled (Sat 21 Nov 14:00 UTC) id 6b00b6375102766245d23aab
-- ep54-eiffel ar.instagram: scheduled (Sat 21 Nov 14:00 UTC) id 6b00b637dd205ed779975171
-- ep54-eiffel ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- en: 7 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=143; t=894, "24h"; r=469; t=20742, "30d"; r=1555; t=1675622; ratelimit-policy="15m"; q=1
-- ar: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=892, "24h"; r=433; t=20532, "30d"; r=1518; t=1681750; ratelimit-policy="15m"; q=1
+- ep54-eiffel ar.tiktok: scheduled (Sat 21 Nov 14:00 UTC) id 6b00d6ca5102766245deee42
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=459; t=12404, "30d"; r=1545; t=1667285; ratelimit-policy="15m"; q=1
+- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=147; t=899, "24h"; r=422; t=12195, "30d"; r=1507; t=1673413; ratelimit-policy="15m"; q=1
