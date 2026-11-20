@@ -24,6 +24,11 @@ Rules:
   numbers as spoken words, the same 13 lines and fact checks as the English. Write each line to be read aloud by one
   calm Saudi narrator at about 2.2 words a second; keep qaf natural. Check with tools/check_ar_voice.py and fix any
   line over 10% before producing.
+- YouTube (owner decided Nov 19 21:13 PT, option 1): Buffer sends only 2 YouTube posts a day per channel and counts failed
+  ones, so of each PT day's 6 builds only the 2 strongest get YouTube (English and Arabic of the same builds); the other
+  4 posts files carry `hold: [en.youtube, ar.youtube]`. Strongest = famous mega-structures and everyday things, the
+  kinds that do best on Instagram and TikTok (claude/build-it-performance.md). Never put a third YouTube post on a PT day,
+  and never requeue a failed YouTube post onto a day that already has two (cmd=limits). YouTube is the lowest priority.
 - Entries marked "idea" are proposals: check them with a web search before writing; replace one only if it is not
   promised yet and the facts do not hold up.
 

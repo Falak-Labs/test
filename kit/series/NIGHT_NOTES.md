@@ -847,3 +847,5 @@
   that run should dispatch post.yml first (before 20:00Z) and requeue whichever time has already passed. With
   refusals being requeued 1-2 days out, the Arabic TikTok queue will keep hitting 10: from now on, check
   state/last-run.md for "waits" after every post push.
+- Nov 19 21:13 PT: owner chose "option 1" for YouTube: 2 builds a day per channel get YouTube, the other 4 are held
+  (rule in LINEUP.md). Builds 46 and 49 already carry YouTube for Nov 20, 47/48/50/51 hold it; failed YouTube posts stay failed.
