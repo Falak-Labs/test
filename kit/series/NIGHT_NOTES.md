@@ -876,3 +876,19 @@
   - The config.yml push (05:28Z Nov 20) started post.yml, as any config.yml push does: it scheduled 50's waiting Arabic
     TikTok (20:00Z Nov 20) because the queue had one free place; 51's Arabic TikTok still waits (10 queued). Nothing
     else changed. The money plan is saved as the project doc claude/build-it-money-plan.md.
+- Nov 19 22:15 PT, the owner: "What the next strategy to post longer videos that entertaining on YouTube plus other
+  social media". PROPOSED (not started, waiting for his go; the daily runs change nothing):
+  - "One story, three sizes": the daily 65 s build stays; twice a week a vertical 3-minute "trilogy" (three builds that
+    beat one problem, one hook, no repeated intros or follow lines) for Instagram, TikTok and YouTube Shorts; once a
+    week a 9-10 minute HORIZONTAL YouTube episode (eight builds as one adventure, new hook + linking lines + a running
+    joke and counter, the vertical animation in the middle with a designed side panel).
+  - Why these lengths (checked Nov 19 2026): YouTube treats vertical/square up to 3:00 as a Short and Shorts time never
+    counts toward watch hours; 16:9 is a regular video at any length; mid-roll ads need 8:00+. Instagram allows 20-minute
+    Reels but recommends only up to 3 minutes to non-followers (Buffer study: 90 s to 3 min reach best). TikTok: 60 s+
+    gets more reach and is the floor for Creator Rewards; uploads up to 60 minutes. A plain stitch of Shorts adds
+    nothing under YouTube's reuse rule: the long video must be a new story.
+  - Buffer posts only Shorts to YouTube: a long video needs a YouTube Studio upload (the owner, or his Chrome).
+  - First samples offered, English, private until he has watched them: trilogy "3 ways people beat the desert with no
+    electricity" (37 wind tower, 44 falaj, 48 riad) and episode "No engines: build 8 wonders anyway" (36 pyramid, 38
+    Petra, 39 pagoda, 42 Venice, 43 Great Wall, 44 falaj, 45 Machu Picchu, 49 Hagia Sophia). All are in media/; older
+    builds are in git history (the clone is not shallow). The mixes have no music bed, so lines can be cut cleanly.
