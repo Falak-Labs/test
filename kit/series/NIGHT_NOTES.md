@@ -766,3 +766,84 @@
   peaks -1.8 to -2.4 dBFS, covers in. Whisper small on the English mixes: number formats, riad -> "riyade" / "re aid"
   (the respelling), zellige -> "zelage"; nothing else. Credits 863 + 825 + 918 characters. 46 posts to all six targets;
   47 and 48 hold YouTube (four targets each).
+
+## Nov 19 2026 (evening run, 18:37 PT): 49 Hagia Sophia's dome, 50 Korean heated floor, 51 Burj Al Arab (for Fri Nov 20)
+- TODAY Nov 19 PT, TOMORROW Fri Nov 20 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT before the
+  push). PST: Arabic 09:00 / 12:00 / 15:00 PT = 17:00Z / 20:00Z / 23:00Z Nov 20; English 13:30 / 16:00 / 18:30 PT =
+  21:30Z Nov 20 / 00:00Z / 02:30Z Nov 21.
+- Status 02:42Z (Nov 19 PT, the first six-a-day day): Arabic Instagram 40-45 all six live at their slots; Arabic TikTok
+  only 40 and 41 (42, 43, 44 wait for 01:30Z / 04:00Z / 06:00Z Nov 21; 45 refused at 23:00Z); Arabic YouTube only 40.
+  English Instagram + TikTok of all six live, but eight of those twelve went out at 21:40 PT Nov 18 (not our runs, most
+  likely "share now" in Buffer); English YouTube only 43 so far (40 and 45 "unknown error" at 23:25 PT Nov 18, 44 the
+  daily limit at 16:00 PT; 41 and 42 still queued for 20:58 / 19:12 PT Nov 19 and will probably fail).
+- **Buffer counts FAILED YouTube posts toward the day's 2**: Arabic 45's YouTube (15:00 PT) failed on the daily limit
+  with only 40 sent that day, after 41-44 had failed. So a failed YouTube post uses up its day's slot: never requeue a
+  YouTube post onto a PT day that already has two YouTube posts sent, scheduled OR failed (check with cmd=limits).
+- Requeued: Arabic TikTok 37 (third refusal, 02:00Z) and 45 (23:00Z) to 01:30Z and 04:30Z Nov 22 (17:30 / 20:30 PT
+  Nov 21): the 3-hour grid of Nov 20-21 UTC is full, these are the first gaps 2 h from every other Arabic TikTok. The
+  failed YouTube posts (EN 40, 44, 45; AR 41-45) stay failed: no PT day has room while each run keeps its YouTube slot.
+- Metrics 02:51Z: 157,183 views (+16,139). Arabic YouTube woke up (car 1,159, phone 1,029, wind tower 988, pyramid
+  536); the pagoda is the best Arabic Instagram post of Season 3 (1,588, 46% watched). Doc updated.
+- Pages: retired ep31-ep33 (all 18 sent): media/ 634 -> 527 MB before tonight's six videos. Next to retire: ep34-ep36.
+- A/B test: 49 and 51 are odd -> `hagiasophia` and `burjalarab` in voices.yml ar_alt.kits (Mansour, Saudi scripts);
+  50 ondol is Egyptian.
+- Voices (one take each): Easton hagiasophia 66.50 s (229 words), ondol 65.99 s (230), burjalarab 63.25 s (228).
+  ElevenLabs: Mansour hagiasophia 72.57 s (163 words, 872 characters), Egyptian ondol 70.35 s (168 words, 930),
+  Mansour burjalarab 66.03 s (155 words, 815); all three at the 1.12 speed-up cap. Mansour at 163 words is near the top:
+  keep Saudi scripts at 150-160 words. Whisper small on the English voices: number formats, its/it's, here/hear,
+  Easton's "shaped like" -> "shape like"; "Hagia Sophia's" and "Burj Al Arab" come out right. check_ar_voice: no weak
+  lines (max 29%, the digit line). The voice runs took 5-8 minutes each, the three in parallel.
+- ElevenLabs (MCP account_get_usage 04:15Z): still Creator, 69,490 of 127,949 used, reset Dec 12; at about 5,400 a
+  day it lasts until about Dec 1 (the Pro upgrade has not happened yet).
+- Scenes (all v2 look 2):
+  - hagiasophia.py (hall, pend, frame, city, tag): hall() = the building cut through its middle (section mass, aisle
+    arcades with green marble columns, the far tympanum with three rows of windows, gold spandrels, the window band
+    with win_x() for the far half's 20 windows, the dome's inner far half with ribs as projected meridians, gold that
+    spreads from the crown, cracks, `lift` to float it, sun beams with an additive paint Padd()). pend = a real 3D
+    pendentive diagram: p3() orthographic projection (yaw 32, pitch 24), pier3(), arch3() in the planes x = +-A3 /
+    z = +-A3, pend3(k) = the sphere patch between two arches filled from the corner up (the horizontal section at
+    height hk is an arc of radius sqrt(2A^2 - hk^2)), ring3(), dome3() (upper half circle + front half of the ring's
+    ellipse); a round drum morphs into a square box with red corners; emperor() with a crown. frame() = the dome on two
+    piers in section: piers that tip out (lean), half domes sliding in, buttresses hugging the piers, the first dome
+    breaking into falling chunks with dust, a dashed ghost of the old profile; bricks_mag() = a magnifier with mortar as
+    thick as the bricks swaying. exterior() = the south elevation (body, exedrae, half domes, tympanum, buttresses,
+    drum with windows, lead dome with ribs, four minarets) for the stat, closer and cover. Tag: phone() from phone.py
+    slides off a couch and cracks (crack_snd from humanoid.py).
+  - ondol.py (house, winter, plan, layers, room, city, tag): hanok() = the house in section (sunken kitchen, stove with
+    the rice pot and fire(), the room's layered floor: flues with stone supports, stones, clay, oiled paper, a warm
+    glow; the pit and chimney; a tiled roof with snow); smoke_dash() = moving dashes along a smoothed path (dash phase
+    from t); plan = the floor's underside from above with a heat-map grid (heat()), one channel vs rows of channels,
+    stone_slab() laid one by one; layers = section close-up with clock(), battery(), sleeper(); room = front view, the
+    oiled paper laid strip by strip with a shine sweep and a wipe; city = tower_block() cut open with red pipes, a pan
+    to an American house; tag EN: dad in sunglasses guarding a thermostat inside a vault door with lasers; AR: the
+    barefoot kid on cold tiles and mom (phone.mom) with a slipper, bubble "البس الشبشب!" (different visual per language).
+  - burjalarab.py (coast, island, piles, shore, sail, tag): burj() = the hotel from the side (the sail's curve is a
+    quadratic, the body with floors, the fabric band, a two-leg steel exoskeleton with X bracing, the restaurant pod, a
+    cantilevered helipad with two tennis players), island(), skyline() drawn far away (scaled 0.42, with the tallest
+    tower), sea_band(), wave(), hexagon() armour blocks, saudi_man() (thobe, red shemagh, agal), shampoo(). The section
+    sets work in screen space. Tag EN: tiny shampoo bottles filling a suitcase in a gold room; AR: the uncle at his door,
+    "فندق؟! وبيتي وش فيه؟" (the third "فندق" of the line, found with self.w(..., nth=2)).
+- Lessons: bik.draw.P() takes no blend mode: build the paint and call setBlendMode(PLUS). Arabic stat cards: the big
+  value stays digits only and the unit goes in the small Arabic label ("55" + "متر علو", not "55 m"; the first ep49
+  render was cancelled to fix it). Bright flat areas bloom (snow ground #B9C9DE, gold-leaf walls, white tiles in a
+  tag): keep them mid-tone (snow #8DA2C0..#4E6488). A frame-wide darkening belongs in screen space (a world rect shows
+  its edges when the camera moves). Where two shapes meet along a slope (sand and sea), build the second from the
+  first one's edge or the sky shows through the gap. A far skyline drawn at full scale looks like it stands next to the
+  subject: scale it down.
+- Produce: one slug per run as each scene was ready (49 at 03:33Z, after a 1-minute cancelled run; 50 at 03:51Z; 51 at
+  04:07Z), about 25 minutes each.
+- Final videos: hagiasophia EN 69.6 s / AR 75.7 s, ondol EN 69.1 s / AR 73.4 s, burjalarab EN 66.4 s / AR 69.1 s; all
+  -14 LUFS, peaks -1.8 to -2.6 dBFS, covers in and inside the grid crop. Whisper small on the English mixes: number
+  formats and homophones only (49 "in mortar" -> "and mortar", 51 "sail" -> "sale", "two tennis" -> "to tennis").
+  Local scratch tools for this (not in the repo): Whisper small line by line on a voice json + wav, and on the mp4's
+  16 kHz audio cut by Timeline(vo_json, LABELS, lead=0.5, pause=0.6, tail=2.0).s/e per line.
+- Posts: 49 all six targets "scheduled" (YouTube at EN 13:30 / AR 09:00 PT Nov 20, this run's slot); 50 and 51 hold
+  YouTube; their English Instagram + TikTok and Arabic Instagram are "scheduled" at 16:00 / 18:30 PT and 12:00 / 15:00
+  PT. **Their Arabic TikToks "wait": the Arabic TikTok channel already had 10 posts queued** (39 at 05:00Z, 46-49 on
+  Nov 20, the requeued 42-44 on Nov 21 and 37, 45 on Nov 22; config.yml queue_limit 10). post.py adds a waiting
+  target only when post.yml runs again (a push to posts/ or media/, or a dispatch), so a check-in of this session at
+  08:20Z Nov 20 (send_later, trig_01KpU6SFMYCu3dFe1NrAWrm1) dispatches post.yml once 39 and 46 have left the queue.
+  If state/ep50-ondol.json or state/ep51-burjalarab.json still has no ar.tiktok when the midday run of Nov 20 starts,
+  that run should dispatch post.yml first (before 20:00Z) and requeue whichever time has already passed. With
+  refusals being requeued 1-2 days out, the Arabic TikTok queue will keep hitting 10: from now on, check
+  state/last-run.md for "waits" after every post push.
