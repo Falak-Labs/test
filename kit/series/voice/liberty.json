@@ -1,0 +1,1272 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.96,
+ "words": 230,
+ "words_per_sec": 3.49,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.531,
+   "text": "If you can stand a copper giant in harbor storms with skin as thin as two coins, congrats, you just built the Statue of Liberty.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.347
+    },
+    {
+     "w": "you",
+     "start": 0.347,
+     "end": 0.564
+    },
+    {
+     "w": "can",
+     "start": 0.564,
+     "end": 0.781
+    },
+    {
+     "w": "stand",
+     "start": 0.781,
+     "end": 0.998
+    },
+    {
+     "w": "a",
+     "start": 0.998,
+     "end": 1.215
+    },
+    {
+     "w": "copper",
+     "start": 1.215,
+     "end": 1.593
+    },
+    {
+     "w": "giant",
+     "start": 1.593,
+     "end": 1.81
+    },
+    {
+     "w": "in",
+     "start": 1.81,
+     "end": 2.027
+    },
+    {
+     "w": "harbor",
+     "start": 2.027,
+     "end": 2.404
+    },
+    {
+     "w": "storms",
+     "start": 2.404,
+     "end": 2.621
+    },
+    {
+     "w": "with",
+     "start": 2.621,
+     "end": 2.838
+    },
+    {
+     "w": "skin",
+     "start": 2.838,
+     "end": 3.055
+    },
+    {
+     "w": "as",
+     "start": 3.055,
+     "end": 3.272
+    },
+    {
+     "w": "thin",
+     "start": 3.272,
+     "end": 3.489
+    },
+    {
+     "w": "as",
+     "start": 3.489,
+     "end": 3.706
+    },
+    {
+     "w": "two",
+     "start": 3.706,
+     "end": 3.923
+    },
+    {
+     "w": "coins,",
+     "start": 3.923,
+     "end": 4.14
+    },
+    {
+     "w": "congrats,",
+     "start": 4.26,
+     "end": 4.635
+    },
+    {
+     "w": "you",
+     "start": 4.635,
+     "end": 4.85
+    },
+    {
+     "w": "just",
+     "start": 4.85,
+     "end": 5.065
+    },
+    {
+     "w": "built",
+     "start": 5.065,
+     "end": 5.28
+    },
+    {
+     "w": "the",
+     "start": 5.28,
+     "end": 5.496
+    },
+    {
+     "w": "Statue",
+     "start": 5.496,
+     "end": 5.711
+    },
+    {
+     "w": "of",
+     "start": 5.711,
+     "end": 5.926
+    },
+    {
+     "w": "Liberty.",
+     "start": 5.926,
+     "end": 6.46
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.896,
+   "end": 10.188,
+   "text": "But copper that thin can't hold its shape. It would crumple like foil.",
+   "words": [
+    {
+     "w": "But",
+     "start": 7.036,
+     "end": 7.24
+    },
+    {
+     "w": "copper",
+     "start": 7.24,
+     "end": 7.594
+    },
+    {
+     "w": "that",
+     "start": 7.594,
+     "end": 7.798
+    },
+    {
+     "w": "thin",
+     "start": 7.798,
+     "end": 8.001
+    },
+    {
+     "w": "can't",
+     "start": 8.001,
+     "end": 8.205
+    },
+    {
+     "w": "hold",
+     "start": 8.205,
+     "end": 8.409
+    },
+    {
+     "w": "its",
+     "start": 8.409,
+     "end": 8.612
+    },
+    {
+     "w": "shape.",
+     "start": 8.612,
+     "end": 8.816
+    },
+    {
+     "w": "It",
+     "start": 9.006,
+     "end": 9.224
+    },
+    {
+     "w": "would",
+     "start": 9.224,
+     "end": 9.442
+    },
+    {
+     "w": "crumple",
+     "start": 9.442,
+     "end": 9.66
+    },
+    {
+     "w": "like",
+     "start": 9.66,
+     "end": 9.878
+    },
+    {
+     "w": "foil.",
+     "start": 9.878,
+     "end": 10.096
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.552,
+   "end": 14.688,
+   "text": "So Gustave Eiffel, yes, the tower guy, builds an iron tower inside her.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.662,
+     "end": 10.849
+    },
+    {
+     "w": "Gustave",
+     "start": 10.849,
+     "end": 11.176
+    },
+    {
+     "w": "Eiffel,",
+     "start": 11.176,
+     "end": 11.502
+    },
+    {
+     "w": "yes,",
+     "start": 11.572,
+     "end": 11.722
+    },
+    {
+     "w": "the",
+     "start": 11.892,
+     "end": 12.12
+    },
+    {
+     "w": "tower",
+     "start": 12.12,
+     "end": 12.517
+    },
+    {
+     "w": "guy,",
+     "start": 12.517,
+     "end": 12.746
+    },
+    {
+     "w": "builds",
+     "start": 12.746,
+     "end": 12.974
+    },
+    {
+     "w": "an",
+     "start": 12.974,
+     "end": 13.202
+    },
+    {
+     "w": "iron",
+     "start": 13.202,
+     "end": 13.599
+    },
+    {
+     "w": "tower",
+     "start": 13.599,
+     "end": 13.997
+    },
+    {
+     "w": "inside",
+     "start": 13.997,
+     "end": 14.394
+    },
+    {
+     "w": "her.",
+     "start": 14.394,
+     "end": 14.622
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 15.052,
+   "end": 18.198,
+   "text": "But bolt the skin on tight, and wind and summer heat would rip it.",
+   "words": [
+    {
+     "w": "But",
+     "start": 15.192,
+     "end": 15.394
+    },
+    {
+     "w": "bolt",
+     "start": 15.394,
+     "end": 15.595
+    },
+    {
+     "w": "the",
+     "start": 15.595,
+     "end": 15.797
+    },
+    {
+     "w": "skin",
+     "start": 15.797,
+     "end": 15.999
+    },
+    {
+     "w": "on",
+     "start": 15.999,
+     "end": 16.2
+    },
+    {
+     "w": "tight,",
+     "start": 16.2,
+     "end": 16.402
+    },
+    {
+     "w": "and",
+     "start": 16.552,
+     "end": 16.73
+    },
+    {
+     "w": "wind",
+     "start": 16.73,
+     "end": 16.909
+    },
+    {
+     "w": "and",
+     "start": 16.909,
+     "end": 17.087
+    },
+    {
+     "w": "summer",
+     "start": 17.087,
+     "end": 17.398
+    },
+    {
+     "w": "heat",
+     "start": 17.398,
+     "end": 17.577
+    },
+    {
+     "w": "would",
+     "start": 17.577,
+     "end": 17.755
+    },
+    {
+     "w": "rip",
+     "start": 17.755,
+     "end": 17.934
+    },
+    {
+     "w": "it.",
+     "start": 17.934,
+     "end": 18.112
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.562,
+   "end": 23.281,
+   "text": "So thin iron bars follow her shape, and the skin hangs on loose clips, free to slide and sway.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.672,
+     "end": 18.881
+    },
+    {
+     "w": "thin",
+     "start": 18.881,
+     "end": 19.089
+    },
+    {
+     "w": "iron",
+     "start": 19.089,
+     "end": 19.453
+    },
+    {
+     "w": "bars",
+     "start": 19.453,
+     "end": 19.661
+    },
+    {
+     "w": "follow",
+     "start": 19.661,
+     "end": 20.025
+    },
+    {
+     "w": "her",
+     "start": 20.025,
+     "end": 20.233
+    },
+    {
+     "w": "shape,",
+     "start": 20.233,
+     "end": 20.442
+    },
+    {
+     "w": "and",
+     "start": 20.622,
+     "end": 20.826
+    },
+    {
+     "w": "the",
+     "start": 20.826,
+     "end": 21.031
+    },
+    {
+     "w": "skin",
+     "start": 21.031,
+     "end": 21.235
+    },
+    {
+     "w": "hangs",
+     "start": 21.235,
+     "end": 21.439
+    },
+    {
+     "w": "on",
+     "start": 21.439,
+     "end": 21.643
+    },
+    {
+     "w": "loose",
+     "start": 21.643,
+     "end": 21.848
+    },
+    {
+     "w": "clips,",
+     "start": 21.848,
+     "end": 22.052
+    },
+    {
+     "w": "free",
+     "start": 22.222,
+     "end": 22.422
+    },
+    {
+     "w": "to",
+     "start": 22.422,
+     "end": 22.622
+    },
+    {
+     "w": "slide",
+     "start": 22.622,
+     "end": 22.822
+    },
+    {
+     "w": "and",
+     "start": 22.822,
+     "end": 23.022
+    },
+    {
+     "w": "sway.",
+     "start": 23.022,
+     "end": 23.222
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.646,
+   "end": 27.604,
+   "text": "But copper touching iron in salty air makes a battery, and the iron rusts away.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.786,
+     "end": 23.953
+    },
+    {
+     "w": "copper",
+     "start": 23.953,
+     "end": 24.244
+    },
+    {
+     "w": "touching",
+     "start": 24.244,
+     "end": 24.536
+    },
+    {
+     "w": "iron",
+     "start": 24.536,
+     "end": 24.827
+    },
+    {
+     "w": "in",
+     "start": 24.827,
+     "end": 24.994
+    },
+    {
+     "w": "salty",
+     "start": 24.994,
+     "end": 25.285
+    },
+    {
+     "w": "air",
+     "start": 25.285,
+     "end": 25.452
+    },
+    {
+     "w": "makes",
+     "start": 25.452,
+     "end": 25.744
+    },
+    {
+     "w": "a",
+     "start": 25.744,
+     "end": 25.911
+    },
+    {
+     "w": "battery,",
+     "start": 25.911,
+     "end": 26.326
+    },
+    {
+     "w": "and",
+     "start": 26.496,
+     "end": 26.653
+    },
+    {
+     "w": "the",
+     "start": 26.653,
+     "end": 26.811
+    },
+    {
+     "w": "iron",
+     "start": 26.811,
+     "end": 27.085
+    },
+    {
+     "w": "rusts",
+     "start": 27.085,
+     "end": 27.242
+    },
+    {
+     "w": "away.",
+     "start": 27.242,
+     "end": 27.516
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.969,
+   "end": 32.792,
+   "text": "So you keep them apart with shellac-soaked cloth. A century later, steel bars replaced the iron ones.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.079,
+     "end": 28.246
+    },
+    {
+     "w": "you",
+     "start": 28.246,
+     "end": 28.413
+    },
+    {
+     "w": "keep",
+     "start": 28.413,
+     "end": 28.58
+    },
+    {
+     "w": "them",
+     "start": 28.58,
+     "end": 28.747
+    },
+    {
+     "w": "apart",
+     "start": 28.747,
+     "end": 29.037
+    },
+    {
+     "w": "with",
+     "start": 29.037,
+     "end": 29.204
+    },
+    {
+     "w": "shellac-soaked",
+     "start": 29.204,
+     "end": 29.742
+    },
+    {
+     "w": "cloth.",
+     "start": 29.742,
+     "end": 29.909
+    },
+    {
+     "w": "A",
+     "start": 30.059,
+     "end": 30.222
+    },
+    {
+     "w": "century",
+     "start": 30.222,
+     "end": 30.626
+    },
+    {
+     "w": "later,",
+     "start": 30.626,
+     "end": 30.909
+    },
+    {
+     "w": "steel",
+     "start": 31.059,
+     "end": 31.244
+    },
+    {
+     "w": "bars",
+     "start": 31.244,
+     "end": 31.429
+    },
+    {
+     "w": "replaced",
+     "start": 31.429,
+     "end": 31.889
+    },
+    {
+     "w": "the",
+     "start": 31.889,
+     "end": 32.074
+    },
+    {
+     "w": "iron",
+     "start": 32.074,
+     "end": 32.397
+    },
+    {
+     "w": "ones.",
+     "start": 32.397,
+     "end": 32.719
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 33.156,
+   "end": 35.969,
+   "text": "But she's built in Paris, and she has to cross an ocean.",
+   "words": [
+    {
+     "w": "But",
+     "start": 33.306,
+     "end": 33.51
+    },
+    {
+     "w": "she's",
+     "start": 33.51,
+     "end": 33.714
+    },
+    {
+     "w": "built",
+     "start": 33.714,
+     "end": 33.917
+    },
+    {
+     "w": "in",
+     "start": 33.917,
+     "end": 34.121
+    },
+    {
+     "w": "Paris,",
+     "start": 34.121,
+     "end": 34.476
+    },
+    {
+     "w": "and",
+     "start": 34.616,
+     "end": 34.781
+    },
+    {
+     "w": "she",
+     "start": 34.781,
+     "end": 34.947
+    },
+    {
+     "w": "has",
+     "start": 34.947,
+     "end": 35.112
+    },
+    {
+     "w": "to",
+     "start": 35.112,
+     "end": 35.277
+    },
+    {
+     "w": "cross",
+     "start": 35.277,
+     "end": 35.443
+    },
+    {
+     "w": "an",
+     "start": 35.443,
+     "end": 35.608
+    },
+    {
+     "w": "ocean.",
+     "start": 35.608,
+     "end": 35.896
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.333,
+   "end": 41.333,
+   "text": "So you stand her up in Paris first, then take her apart, three hundred fifty pieces, and ship her over.",
+   "words": [
+    {
+     "w": "So",
+     "start": 36.443,
+     "end": 36.626
+    },
+    {
+     "w": "you",
+     "start": 36.626,
+     "end": 36.809
+    },
+    {
+     "w": "stand",
+     "start": 36.809,
+     "end": 36.992
+    },
+    {
+     "w": "her",
+     "start": 36.992,
+     "end": 37.175
+    },
+    {
+     "w": "up",
+     "start": 37.175,
+     "end": 37.358
+    },
+    {
+     "w": "in",
+     "start": 37.358,
+     "end": 37.541
+    },
+    {
+     "w": "Paris",
+     "start": 37.541,
+     "end": 37.86
+    },
+    {
+     "w": "first,",
+     "start": 37.86,
+     "end": 38.043
+    },
+    {
+     "w": "then",
+     "start": 38.213,
+     "end": 38.39
+    },
+    {
+     "w": "take",
+     "start": 38.39,
+     "end": 38.567
+    },
+    {
+     "w": "her",
+     "start": 38.567,
+     "end": 38.745
+    },
+    {
+     "w": "apart,",
+     "start": 38.745,
+     "end": 39.053
+    },
+    {
+     "w": "three",
+     "start": 39.223,
+     "end": 39.413
+    },
+    {
+     "w": "hundred",
+     "start": 39.413,
+     "end": 39.743
+    },
+    {
+     "w": "fifty",
+     "start": 39.743,
+     "end": 40.073
+    },
+    {
+     "w": "pieces,",
+     "start": 40.073,
+     "end": 40.403
+    },
+    {
+     "w": "and",
+     "start": 40.533,
+     "end": 40.687
+    },
+    {
+     "w": "ship",
+     "start": 40.687,
+     "end": 40.841
+    },
+    {
+     "w": "her",
+     "start": 40.841,
+     "end": 40.995
+    },
+    {
+     "w": "over.",
+     "start": 40.995,
+     "end": 41.263
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 41.698,
+   "end": 46.01,
+   "text": "But before you climb to the crown, follow, because next we're building a microwave oven.",
+   "words": [
+    {
+     "w": "But",
+     "start": 41.838,
+     "end": 42.025
+    },
+    {
+     "w": "before",
+     "start": 42.025,
+     "end": 42.351
+    },
+    {
+     "w": "you",
+     "start": 42.351,
+     "end": 42.539
+    },
+    {
+     "w": "climb",
+     "start": 42.539,
+     "end": 42.726
+    },
+    {
+     "w": "to",
+     "start": 42.726,
+     "end": 42.913
+    },
+    {
+     "w": "the",
+     "start": 42.913,
+     "end": 43.101
+    },
+    {
+     "w": "crown,",
+     "start": 43.101,
+     "end": 43.288
+    },
+    {
+     "w": "follow,",
+     "start": 43.438,
+     "end": 43.778
+    },
+    {
+     "w": "because",
+     "start": 43.928,
+     "end": 44.255
+    },
+    {
+     "w": "next",
+     "start": 44.255,
+     "end": 44.443
+    },
+    {
+     "w": "we're",
+     "start": 44.443,
+     "end": 44.63
+    },
+    {
+     "w": "building",
+     "start": 44.63,
+     "end": 44.957
+    },
+    {
+     "w": "a",
+     "start": 44.957,
+     "end": 45.145
+    },
+    {
+     "w": "microwave",
+     "start": 45.145,
+     "end": 45.611
+    },
+    {
+     "w": "oven.",
+     "start": 45.611,
+     "end": 45.938
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 46.375,
+   "end": 51.521,
+   "text": "Now let the sea air paint her: in about thirty years the brown copper turned green, and that green protects it.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 46.485,
+     "end": 46.672
+    },
+    {
+     "w": "let",
+     "start": 46.672,
+     "end": 46.859
+    },
+    {
+     "w": "the",
+     "start": 46.859,
+     "end": 47.046
+    },
+    {
+     "w": "sea",
+     "start": 47.046,
+     "end": 47.234
+    },
+    {
+     "w": "air",
+     "start": 47.234,
+     "end": 47.421
+    },
+    {
+     "w": "paint",
+     "start": 47.421,
+     "end": 47.608
+    },
+    {
+     "w": "her:",
+     "start": 47.608,
+     "end": 47.795
+    },
+    {
+     "w": "in",
+     "start": 47.975,
+     "end": 48.171
+    },
+    {
+     "w": "about",
+     "start": 48.171,
+     "end": 48.511
+    },
+    {
+     "w": "thirty",
+     "start": 48.511,
+     "end": 48.852
+    },
+    {
+     "w": "years",
+     "start": 48.852,
+     "end": 49.047
+    },
+    {
+     "w": "the",
+     "start": 49.047,
+     "end": 49.243
+    },
+    {
+     "w": "brown",
+     "start": 49.243,
+     "end": 49.438
+    },
+    {
+     "w": "copper",
+     "start": 49.438,
+     "end": 49.779
+    },
+    {
+     "w": "turned",
+     "start": 49.779,
+     "end": 50.119
+    },
+    {
+     "w": "green,",
+     "start": 50.119,
+     "end": 50.315
+    },
+    {
+     "w": "and",
+     "start": 50.465,
+     "end": 50.639
+    },
+    {
+     "w": "that",
+     "start": 50.639,
+     "end": 50.813
+    },
+    {
+     "w": "green",
+     "start": 50.813,
+     "end": 50.988
+    },
+    {
+     "w": "protects",
+     "start": 50.988,
+     "end": 51.291
+    },
+    {
+     "w": "it.",
+     "start": 51.291,
+     "end": 51.465
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.885,
+   "end": 57.365,
+   "text": "Forty-six meters tall, ninety-three with the pedestal, and in strong wind her torch sways thirteen centimeters.",
+   "words": [
+    {
+     "w": "Forty-six",
+     "start": 52.015,
+     "end": 52.557
+    },
+    {
+     "w": "meters",
+     "start": 52.557,
+     "end": 52.937
+    },
+    {
+     "w": "tall,",
+     "start": 52.937,
+     "end": 53.155
+    },
+    {
+     "w": "ninety-three",
+     "start": 53.325,
+     "end": 53.846
+    },
+    {
+     "w": "with",
+     "start": 53.846,
+     "end": 54.055
+    },
+    {
+     "w": "the",
+     "start": 54.055,
+     "end": 54.265
+    },
+    {
+     "w": "pedestal,",
+     "start": 54.265,
+     "end": 54.786
+    },
+    {
+     "w": "and",
+     "start": 54.786,
+     "end": 54.995
+    },
+    {
+     "w": "in",
+     "start": 54.995,
+     "end": 55.205
+    },
+    {
+     "w": "strong",
+     "start": 55.205,
+     "end": 55.415
+    },
+    {
+     "w": "wind",
+     "start": 55.415,
+     "end": 55.625
+    },
+    {
+     "w": "her",
+     "start": 55.625,
+     "end": 55.834
+    },
+    {
+     "w": "torch",
+     "start": 55.834,
+     "end": 56.044
+    },
+    {
+     "w": "sways",
+     "start": 56.044,
+     "end": 56.254
+    },
+    {
+     "w": "thirteen",
+     "start": 56.254,
+     "end": 56.619
+    },
+    {
+     "w": "centimeters.",
+     "start": 56.619,
+     "end": 57.295
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 57.729,
+   "end": 60.708,
+   "text": "And congrats, you just built the Statue of Liberty yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 57.849,
+     "end": 58.059
+    },
+    {
+     "w": "congrats,",
+     "start": 58.059,
+     "end": 58.424
+    },
+    {
+     "w": "you",
+     "start": 58.424,
+     "end": 58.634
+    },
+    {
+     "w": "just",
+     "start": 58.634,
+     "end": 58.844
+    },
+    {
+     "w": "built",
+     "start": 58.844,
+     "end": 59.054
+    },
+    {
+     "w": "the",
+     "start": 59.054,
+     "end": 59.263
+    },
+    {
+     "w": "Statue",
+     "start": 59.263,
+     "end": 59.473
+    },
+    {
+     "w": "of",
+     "start": 59.473,
+     "end": 59.683
+    },
+    {
+     "w": "Liberty",
+     "start": 59.683,
+     "end": 60.204
+    },
+    {
+     "w": "yourself.",
+     "start": 60.204,
+     "end": 60.569
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 61.073,
+   "end": 65.979,
+   "text": "Copper turned her green, and the world loves it. Your ring turns your finger green, and you want a refund.",
+   "words": [
+    {
+     "w": "Copper",
+     "start": 61.213,
+     "end": 61.572
+    },
+    {
+     "w": "turned",
+     "start": 61.572,
+     "end": 61.931
+    },
+    {
+     "w": "her",
+     "start": 61.931,
+     "end": 62.137
+    },
+    {
+     "w": "green,",
+     "start": 62.137,
+     "end": 62.343
+    },
+    {
+     "w": "and",
+     "start": 62.503,
+     "end": 62.694
+    },
+    {
+     "w": "the",
+     "start": 62.694,
+     "end": 62.886
+    },
+    {
+     "w": "world",
+     "start": 62.886,
+     "end": 63.077
+    },
+    {
+     "w": "loves",
+     "start": 63.077,
+     "end": 63.411
+    },
+    {
+     "w": "it.",
+     "start": 63.411,
+     "end": 63.602
+    },
+    {
+     "w": "Your",
+     "start": 63.602,
+     "end": 63.794
+    },
+    {
+     "w": "ring",
+     "start": 63.794,
+     "end": 63.985
+    },
+    {
+     "w": "turns",
+     "start": 63.985,
+     "end": 64.177
+    },
+    {
+     "w": "your",
+     "start": 64.177,
+     "end": 64.368
+    },
+    {
+     "w": "finger",
+     "start": 64.368,
+     "end": 64.702
+    },
+    {
+     "w": "green,",
+     "start": 64.702,
+     "end": 64.893
+    },
+    {
+     "w": "and",
+     "start": 65.023,
+     "end": 65.173
+    },
+    {
+     "w": "you",
+     "start": 65.173,
+     "end": 65.323
+    },
+    {
+     "w": "want",
+     "start": 65.323,
+     "end": 65.472
+    },
+    {
+     "w": "a",
+     "start": 65.472,
+     "end": 65.622
+    },
+    {
+     "w": "refund.",
+     "start": 65.622,
+     "end": 65.883
+    }
+   ]
+  }
+ ]
+}
