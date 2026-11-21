@@ -1,4 +1,4 @@
-# Last posting run 2026-11-21T18:13:06+00:00
+# Last posting run 2026-11-21T19:46:47+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -21,5 +21,5 @@
 - sm01-survival en.youtube: on hold in posts/sm01-survival.yml
 - sm01-survival en.instagram: on hold in posts/sm01-survival.yml
 - sm01-survival en.tiktok: on hold in posts/sm01-survival.yml
-- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=545; t=31399, "30d"; r=1466; t=1599593; ratelimit-policy="15m"; q=1
-- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=527; t=31399, "30d"; r=1401; t=1605722; ratelimit-policy="15m"; q=1
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=519; t=25778, "30d"; r=1440; t=1593972; ratelimit-policy="15m"; q=1
+- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=501; t=25778, "30d"; r=1375; t=1600102; ratelimit-policy="15m"; q=1
