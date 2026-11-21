@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 36.38,
- "words": 121,
- "words_per_sec": 3.33,
+ "duration": 36.69,
+ "words": 123,
+ "words_per_sec": 3.35,
  "lines": [
   {
    "line": 1,
@@ -467,8 +467,8 @@
   {
    "line": 7,
    "start": 24.969,
-   "end": 29.281,
-   "text": "Final level. The open sea. You want a new island, and one big storm can wash it away.",
+   "end": 29.583,
+   "text": "Final level. Dubai. You want a new island in the open sea, and one big storm can wash it away.",
    "words": [
     {
      "w": "Final",
@@ -481,197 +481,207 @@
      "end": 25.669
     },
     {
-     "w": "The",
-     "start": 25.829,
-     "end": 25.987
-    },
-    {
-     "w": "open",
-     "start": 25.987,
-     "end": 26.261
-    },
-    {
-     "w": "sea.",
-     "start": 26.261,
-     "end": 26.419
+     "w": "Dubai.",
+     "start": 25.809,
+     "end": 26.159
     },
     {
      "w": "You",
-     "start": 26.599,
-     "end": 26.758
+     "start": 26.299,
+     "end": 26.448
     },
     {
      "w": "want",
-     "start": 26.758,
-     "end": 26.916
+     "start": 26.448,
+     "end": 26.597
     },
     {
      "w": "a",
-     "start": 26.916,
-     "end": 27.075
+     "start": 26.597,
+     "end": 26.746
     },
     {
      "w": "new",
-     "start": 27.075,
-     "end": 27.233
+     "start": 26.746,
+     "end": 26.894
     },
     {
-     "w": "island,",
-     "start": 27.233,
-     "end": 27.509
+     "w": "island",
+     "start": 26.894,
+     "end": 27.153
+    },
+    {
+     "w": "in",
+     "start": 27.153,
+     "end": 27.302
+    },
+    {
+     "w": "the",
+     "start": 27.302,
+     "end": 27.451
+    },
+    {
+     "w": "open",
+     "start": 27.451,
+     "end": 27.71
+    },
+    {
+     "w": "sea,",
+     "start": 27.71,
+     "end": 27.859
     },
     {
      "w": "and",
-     "start": 27.639,
-     "end": 27.821
+     "start": 28.019,
+     "end": 28.192
     },
     {
      "w": "one",
-     "start": 27.821,
-     "end": 28.003
+     "start": 28.192,
+     "end": 28.365
     },
     {
      "w": "big",
-     "start": 28.003,
-     "end": 28.185
+     "start": 28.365,
+     "end": 28.537
     },
     {
      "w": "storm",
-     "start": 28.185,
-     "end": 28.367
+     "start": 28.537,
+     "end": 28.71
     },
     {
      "w": "can",
-     "start": 28.367,
-     "end": 28.549
+     "start": 28.71,
+     "end": 28.883
     },
     {
      "w": "wash",
-     "start": 28.549,
-     "end": 28.73
+     "start": 28.883,
+     "end": 29.056
     },
     {
      "w": "it",
-     "start": 28.73,
-     "end": 28.912
+     "start": 29.056,
+     "end": 29.228
     },
     {
      "w": "away.",
-     "start": 28.912,
-     "end": 29.229
+     "start": 29.228,
+     "end": 29.529
     }
    ]
   },
   {
    "line": 8,
-   "start": 29.646,
-   "end": 36.406,
+   "start": 29.948,
+   "end": 36.708,
    "text": "Four levels, and you never even got wet. You beat mountains, mud, floods and storms, with rain, wood, rock and sand.",
    "words": [
     {
      "w": "Four",
-     "start": 29.786,
-     "end": 29.998
+     "start": 30.088,
+     "end": 30.3
     },
     {
      "w": "levels,",
-     "start": 29.998,
-     "end": 30.366
+     "start": 30.3,
+     "end": 30.668
     },
     {
      "w": "and",
-     "start": 30.506,
-     "end": 30.773
+     "start": 30.808,
+     "end": 31.075
     },
     {
      "w": "you",
-     "start": 30.773,
-     "end": 31.041
+     "start": 31.075,
+     "end": 31.343
     },
     {
      "w": "never",
-     "start": 31.041,
-     "end": 31.506
+     "start": 31.343,
+     "end": 31.808
     },
     {
      "w": "even",
-     "start": 31.506,
-     "end": 31.971
+     "start": 31.808,
+     "end": 32.273
     },
     {
      "w": "got",
-     "start": 31.971,
-     "end": 32.239
+     "start": 32.273,
+     "end": 32.541
     },
     {
      "w": "wet.",
-     "start": 32.239,
-     "end": 32.506
+     "start": 32.541,
+     "end": 32.808
     },
     {
      "w": "You",
-     "start": 32.676,
-     "end": 33.011
+     "start": 32.978,
+     "end": 33.313
     },
     {
      "w": "beat",
-     "start": 33.011,
-     "end": 33.347
+     "start": 33.313,
+     "end": 33.649
     },
     {
      "w": "mountains,",
-     "start": 33.347,
-     "end": 33.931
+     "start": 33.649,
+     "end": 34.233
     },
     {
      "w": "mud,",
-     "start": 33.931,
-     "end": 34.266
+     "start": 34.233,
+     "end": 34.568
     },
     {
      "w": "floods",
-     "start": 34.396,
-     "end": 34.616
+     "start": 34.688,
+     "end": 34.911
     },
     {
      "w": "and",
-     "start": 34.616,
-     "end": 34.836
+     "start": 34.911,
+     "end": 35.135
     },
     {
      "w": "storms,",
-     "start": 34.836,
-     "end": 35.056
+     "start": 35.135,
+     "end": 35.358
     },
     {
      "w": "with",
-     "start": 35.106,
-     "end": 35.339
+     "start": 35.408,
+     "end": 35.641
     },
     {
      "w": "rain,",
-     "start": 35.339,
-     "end": 35.573
+     "start": 35.641,
+     "end": 35.875
     },
     {
      "w": "wood,",
-     "start": 35.573,
-     "end": 35.806
+     "start": 35.875,
+     "end": 36.108
     },
     {
      "w": "rock",
-     "start": 35.856,
-     "end": 36.016
+     "start": 36.158,
+     "end": 36.318
     },
     {
      "w": "and",
-     "start": 36.016,
-     "end": 36.176
+     "start": 36.318,
+     "end": 36.478
     },
     {
      "w": "sand.",
-     "start": 36.176,
-     "end": 36.336
+     "start": 36.478,
+     "end": 36.638
     }
    ]
   }
