@@ -53,9 +53,9 @@ episodes:
   - {slug: ep48-riad, kit: riad, look: 2}
   - {slug: ep49-hagiasophia, kit: hagiasophia, look: 2}
   - {slug: ep50-ondol, kit: ondol, look: 2}
-  - {slug: ep51-burjalarab, kit: burjalarab, look: 2}
-  - {slug: ep52-palmjumeirah, kit: palmjumeirah, look: 2}
-  - {slug: ep53-fridge, kit: fridge, look: 2}
+  - {slug: ep51-burjalarab, kit: burjalarab, look: 2, retired: true}
+  - {slug: ep52-palmjumeirah, kit: palmjumeirah, look: 2, retired: true}
+  - {slug: ep53-fridge, kit: fridge, look: 2, retired: true}
   - {slug: ep54-eiffel, kit: eiffel, look: 2}
   - {slug: ep55-suez, kit: suez, look: 2}
   - {slug: ep56-escalator, kit: escalator, look: 2}
