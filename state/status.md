@@ -1,4 +1,4 @@
-# Post status 2026-11-20T23:25:04+00:00
+# Post status 2026-11-21T02:43:47+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -249,7 +249,7 @@
 | ep41-barrier | en.tiktok | sent |  | 2026-11-19T16:32:51.366Z https://www.tiktok.com/@congratsengineer/video/7709921165006949645?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep41-barrier | en.youtube | sent |  | 2026-11-20T21:43:50.386Z https://www.youtube.com/shorts/0OK1ZrM8zE8 |
 | ep42-venice | ar.instagram | sent |  | 2026-11-19T14:03:34.551Z https://www.instagram.com/reel/Df7P7GIz0xp/ |
-| ep42-venice | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T01:30:00.000Z |
+| ep42-venice | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T01:30:00.000Z |
 | ep42-venice | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T14:00:00.000Z |
 | ep42-venice | en.instagram | sent |  | 2026-11-19T05:41:00.776Z https://www.instagram.com/reel/Df6WdelprHI/ |
 | ep42-venice | en.tiktok | sent |  | 2026-11-19T19:04:33.374Z https://www.tiktok.com/@congratsengineer/video/7709960069793778957?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
@@ -294,12 +294,12 @@
 | ep49-hagiasophia | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-20T21:44:43.574Z |
 | ep50-ondol | ar.instagram | sent |  | 2026-11-20T20:03:49.297Z https://www.instagram.com/reel/Df-d6r8PTG_/ |
 | ep50-ondol | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-20T21:00:00.000Z |
-| ep50-ondol | en.instagram | scheduled |  | 2026-11-21T00:00:00.000Z |
-| ep50-ondol | en.tiktok | scheduled |  | 2026-11-21T00:00:00.000Z |
+| ep50-ondol | en.instagram | sent |  | 2026-11-21T00:03:41.305Z https://www.instagram.com/reel/Df-5X9ysK8Q/ |
+| ep50-ondol | en.tiktok | sent |  | 2026-11-21T00:03:38.198Z https://tiktok.com/@congratsengineer/video/7710408284296973582 |
 | ep51-burjalarab | ar.instagram | sent |  | 2026-11-20T23:02:39.126Z https://www.instagram.com/reel/Df-yZ_JsqPF/ |
 | ep51-burjalarab | ar.tiktok | sent |  | 2026-11-20T23:01:46.354Z https://tiktok.com/@kef.tenbeni/video/7710392515391720718 |
-| ep51-burjalarab | en.instagram | scheduled |  | 2026-11-21T02:30:00.000Z |
-| ep51-burjalarab | en.tiktok | scheduled |  | 2026-11-21T02:30:00.000Z |
+| ep51-burjalarab | en.instagram | sent |  | 2026-11-21T02:31:39.926Z https://www.instagram.com/reel/Df_KYVCt9CP/ |
+| ep51-burjalarab | en.tiktok | sent |  | 2026-11-21T02:31:14.892Z https://tiktok.com/@congratsengineer/video/7710446506112732430 |
 | ep52-palmjumeirah | ar.instagram | scheduled |  | 2026-11-21T08:00:00.000Z |
 | ep52-palmjumeirah | ar.tiktok | scheduled |  | 2026-11-21T08:00:00.000Z |
 | ep52-palmjumeirah | en.instagram | scheduled |  | 2026-11-21T14:00:00.000Z |
