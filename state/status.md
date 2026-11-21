@@ -1,4 +1,4 @@
-# Post status 2026-11-21T22:13:51+00:00
+# Post status 2026-11-21T23:09:18+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -322,9 +322,9 @@
 | ep56-escalator | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T20:00:00.000Z |
 | ep56-escalator | en.instagram | scheduled |  | 2026-11-22T00:00:00.000Z |
 | ep56-escalator | en.tiktok | scheduled |  | 2026-11-22T00:00:00.000Z |
-| ep57-operahouse | ar.instagram | scheduled |  | 2026-11-21T23:00:00.000Z |
-| ep57-operahouse | ar.tiktok | scheduled |  | 2026-11-21T23:00:00.000Z |
-| ep57-operahouse | ar.youtube | scheduled |  | 2026-11-21T23:00:00.000Z |
+| ep57-operahouse | ar.instagram | sent |  | 2026-11-21T23:03:10.617Z https://www.instagram.com/reel/DgBXQuMoVmJ/ |
+| ep57-operahouse | ar.tiktok | sent |  | 2026-11-21T23:02:01.402Z https://tiktok.com/@kef.tenbeni/video/7710763503706967309 |
+| ep57-operahouse | ar.youtube | sent |  | 2026-11-21T23:00:32.850Z https://www.youtube.com/shorts/AAW1lzHCeXI |
 | ep57-operahouse | en.instagram | scheduled |  | 2026-11-22T02:30:00.000Z |
 | ep57-operahouse | en.tiktok | scheduled |  | 2026-11-22T02:30:00.000Z |
 | ep57-operahouse | en.youtube | scheduled |  | 2026-11-22T02:30:00.000Z |
@@ -342,5 +342,9 @@
 | ep60-microwave | ar.tiktok | scheduled |  | 2026-11-22T14:00:00.000Z |
 | ep60-microwave | en.instagram | scheduled |  | 2026-11-22T19:00:00.000Z |
 | ep60-microwave | en.tiktok | scheduled |  | 2026-11-22T19:00:00.000Z |
-| sm01-survival | en.instagram | scheduled |  | 2026-11-21T22:45:00.000Z |
-| sm01-survival | en.tiktok | scheduled |  | 2026-11-21T22:45:00.000Z |
+| sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
+| sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://tiktok.com/@congratsengineer/video/7710759443809553677 |
+| sm02 | ar.instagram | scheduled |  | 2026-11-22T18:30:00.000Z |
+| sm02 | ar.tiktok | scheduled |  | 2026-11-22T18:30:00.000Z |
+| sm02 | en.instagram | scheduled |  | 2026-11-22T20:15:00.000Z |
+| sm02 | en.tiktok | scheduled |  | 2026-11-22T20:15:00.000Z |
