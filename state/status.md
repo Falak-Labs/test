@@ -1,4 +1,4 @@
-# Post status 2026-11-21T11:29:19+00:00
+# Post status 2026-11-21T18:13:16+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -249,7 +249,7 @@
 | ep41-barrier | en.tiktok | sent |  | 2026-11-19T16:32:51.366Z https://www.tiktok.com/@congratsengineer/video/7709921165006949645?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep41-barrier | en.youtube | sent |  | 2026-11-20T21:43:50.386Z https://www.youtube.com/shorts/0OK1ZrM8zE8 |
 | ep42-venice | ar.instagram | sent |  | 2026-11-19T14:03:34.551Z https://www.instagram.com/reel/Df7P7GIz0xp/ |
-| ep42-venice | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T01:30:00.000Z |
+| ep42-venice | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T04:30:00.000Z |
 | ep42-venice | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T14:00:00.000Z |
 | ep42-venice | en.instagram | sent |  | 2026-11-19T05:41:00.776Z https://www.instagram.com/reel/Df6WdelprHI/ |
 | ep42-venice | en.tiktok | sent |  | 2026-11-19T19:04:33.374Z https://www.tiktok.com/@congratsengineer/video/7709960069793778957?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
@@ -271,13 +271,13 @@
 | ep45-machupicchu | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T23:00:00.000Z |
 | ep45-machupicchu | en.instagram | sent |  | 2026-11-20T02:31:30.495Z https://www.instagram.com/reel/Df8liWLvOKJ/ |
 | ep45-machupicchu | en.tiktok | sent |  | 2026-11-19T05:41:59.472Z https://www.tiktok.com/@congratsengineer/video/7709753097454767374?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
-| ep45-machupicchu | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-21T03:12:52.110Z |
+| ep45-machupicchu | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-21T17:27:33.980Z |
 | ep46-aswan | ar.instagram | sent |  | 2026-11-20T08:02:54.281Z https://www.instagram.com/reel/Df9LZ2lpIyV/ |
 | ep46-aswan | ar.tiktok | sent |  | 2026-11-20T08:01:20.825Z https://www.tiktok.com/@kef.tenbeni/video/7710160167266045198?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep46-aswan | ar.youtube | sent |  | 2026-11-20T08:00:43.207Z https://www.youtube.com/shorts/LEcWHPyyXvQ |
 | ep46-aswan | en.instagram | sent |  | 2026-11-20T14:04:17.474Z https://www.instagram.com/reel/Df90xixhymc/ |
 | ep46-aswan | en.tiktok | sent |  | 2026-11-20T14:05:22.596Z https://www.tiktok.com/@congratsengineer/video/7710254041640553742?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
-| ep46-aswan | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-20T21:44:30.574Z |
+| ep46-aswan | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-21T17:27:12.518Z |
 | ep47-igloo | ar.instagram | sent |  | 2026-11-20T11:02:58.654Z https://www.instagram.com/reel/Df9gEA6tidT/ |
 | ep47-igloo | ar.tiktok | sent |  | 2026-11-20T11:02:37.369Z https://www.tiktok.com/@kef.tenbeni/video/7710207127872097549?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep47-igloo | en.instagram | sent |  | 2026-11-20T16:33:29.870Z https://www.instagram.com/reel/Df-FznpQFmi/ |
@@ -291,9 +291,9 @@
 | ep49-hagiasophia | ar.youtube | sent |  | 2026-11-20T17:02:22.230Z https://www.youtube.com/shorts/CrimuU8-5fE |
 | ep49-hagiasophia | en.instagram | sent |  | 2026-11-20T21:31:35.800Z https://www.instagram.com/reel/Df-oB8wvpG0/ |
 | ep49-hagiasophia | en.tiktok | sent |  | 2026-11-20T21:32:13.490Z https://tiktok.com/@congratsengineer/video/7710369180746386702 |
-| ep49-hagiasophia | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-20T21:44:43.574Z |
+| ep49-hagiasophia | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-21T17:27:20.324Z |
 | ep50-ondol | ar.instagram | sent |  | 2026-11-20T20:03:49.297Z https://www.instagram.com/reel/Df-d6r8PTG_/ |
-| ep50-ondol | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-20T21:00:00.000Z |
+| ep50-ondol | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T01:30:00.000Z |
 | ep50-ondol | en.instagram | sent |  | 2026-11-21T00:03:41.305Z https://www.instagram.com/reel/Df-5X9ysK8Q/ |
 | ep50-ondol | en.tiktok | sent |  | 2026-11-21T00:03:38.198Z https://tiktok.com/@congratsengineer/video/7710408284296973582 |
 | ep51-burjalarab | ar.instagram | sent |  | 2026-11-20T23:02:39.126Z https://www.instagram.com/reel/Df-yZ_JsqPF/ |
@@ -302,20 +302,20 @@
 | ep51-burjalarab | en.tiktok | sent |  | 2026-11-21T02:31:14.892Z https://tiktok.com/@congratsengineer/video/7710446506112732430 |
 | ep52-palmjumeirah | ar.instagram | sent |  | 2026-11-21T08:02:43.145Z https://www.instagram.com/reel/Df_wOrQBPZx/ |
 | ep52-palmjumeirah | ar.tiktok | sent |  | 2026-11-21T08:02:06.096Z https://tiktok.com/@kef.tenbeni/video/7710531461509582094 |
-| ep52-palmjumeirah | en.instagram | scheduled |  | 2026-11-21T14:00:00.000Z |
-| ep52-palmjumeirah | en.tiktok | scheduled |  | 2026-11-21T14:00:00.000Z |
+| ep52-palmjumeirah | en.instagram | sent |  | 2026-11-21T14:02:51.185Z https://www.instagram.com/reel/DgAZbIsBQIb/ |
+| ep52-palmjumeirah | en.tiktok | sent |  | 2026-11-21T14:05:32.451Z https://tiktok.com/@congratsengineer/video/7710624726070201630 |
 | ep53-fridge | ar.instagram | sent |  | 2026-11-21T11:04:56.240Z https://www.instagram.com/reel/DgAE9Q9BvTp/ |
 | ep53-fridge | ar.tiktok | sent |  | 2026-11-21T11:03:09.684Z https://tiktok.com/@kef.tenbeni/video/7710578072587701517 |
-| ep53-fridge | en.instagram | scheduled |  | 2026-11-21T16:30:00.000Z |
-| ep53-fridge | en.tiktok | scheduled |  | 2026-11-21T16:30:00.000Z |
-| ep54-eiffel | ar.instagram | scheduled |  | 2026-11-21T14:00:00.000Z |
-| ep54-eiffel | ar.tiktok | scheduled |  | 2026-11-21T14:00:00.000Z |
-| ep54-eiffel | ar.youtube | scheduled |  | 2026-11-21T14:00:00.000Z |
+| ep53-fridge | en.instagram | sent |  | 2026-11-21T16:32:41.333Z https://www.instagram.com/reel/DgAqiLMPcQR/ |
+| ep53-fridge | en.tiktok | sent |  | 2026-11-21T16:32:36.207Z https://tiktok.com/@congratsengineer/video/7710663205067951373 |
+| ep54-eiffel | ar.instagram | sent |  | 2026-11-21T14:02:29.528Z https://www.instagram.com/reel/DgAZcRSJ70R/ |
+| ep54-eiffel | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T14:00:00.000Z |
+| ep54-eiffel | ar.youtube | sent |  | 2026-11-21T14:01:09.562Z https://www.youtube.com/shorts/fhkjfyrrCj0 |
 | ep54-eiffel | en.instagram | scheduled |  | 2026-11-21T19:00:00.000Z |
 | ep54-eiffel | en.tiktok | scheduled |  | 2026-11-21T19:00:00.000Z |
 | ep54-eiffel | en.youtube | scheduled |  | 2026-11-21T19:00:00.000Z |
-| ep55-suez | ar.instagram | scheduled |  | 2026-11-21T17:00:00.000Z |
-| ep55-suez | ar.tiktok | scheduled |  | 2026-11-21T17:00:00.000Z |
+| ep55-suez | ar.instagram | sent |  | 2026-11-21T17:03:40.033Z https://www.instagram.com/reel/DgAuLkmh13i/ |
+| ep55-suez | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T17:00:00.000Z |
 | ep55-suez | en.instagram | scheduled |  | 2026-11-21T21:30:00.000Z |
 | ep55-suez | en.tiktok | scheduled |  | 2026-11-21T21:30:00.000Z |
 | ep56-escalator | ar.instagram | scheduled |  | 2026-11-21T20:00:00.000Z |

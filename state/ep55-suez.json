@@ -22,16 +22,18 @@
    "id": "6b01195e9ffbc8503cf86676",
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-21T17:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-21T04:08:59+00:00"
+   "created": "2026-11-21T04:08:59+00:00",
+   "link": "https://www.instagram.com/reel/DgAuLkmh13i/",
+   "sentAt": "2026-11-21T17:03:40.033Z"
   },
   "ar.tiktok": {
    "id": "6b01195fd9cbb430a11a4ea7",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "error",
    "dueAt": "2026-11-21T17:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-21T04:08:59+00:00"
