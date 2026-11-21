@@ -1,0 +1,7 @@
+ferriswheel_ar_sa: 72.79s, 2184 frames
+cover out/ferriswheel_ar_sa/cover.png: ['عجلة ملاهي', 'عملاقة'] (frame 0 of the video)
+video done in 350s
+audio done
+final out/ferriswheel_ar_sa/ferriswheel_ar_sa_final.mp4
+QA  duration 72.80s  loudness -14.0 LUFS  true peak -1.7 dBFS  1080x1920 @ 30/1  frames 2184
+QA sheet out/ferriswheel_ar_sa/qa_sheet.png

@@ -1,0 +1,135 @@
+{
+ "slug": "ep58-ferriswheel",
+ "kit": "ferriswheel",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.53,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "13/232",
+   "mix_lines_off": [
+    "L 1 2 diff  | If you can lift 1,700 people over Dubai on a wheel hung from thin cables, congrats, you just built a giant ferris wheel.",
+    "L 7 1 diff  | So you push the rim instead, tire squeeze it and roll it. So slowly you step on while it moves.",
+    "L11 3 diff  | Now hang the cabins and let it turn. The first one, in Chicago in 1893, was built to beat the Eiffel Tower.",
+    "L12 7 diff  | 250 meters tall, 48 cabins, and one turn takes 38 minutes."
+   ],
+   "size_mb": 24.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو قدرت تطلّع ألف وسبعمية واحد فوق دبي، على عجلة متعلقة في كابلات رفيعة، مبروك، كده انت بنيت عجلة ملاهي عملاقة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس لو أسياخها تخينة، هتبقى تقيلة أوي، واللي تحت هتتني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتعملها زي عجلة البسكلتة: كابلات مشدودة من المحور شايلة الإطار، خفيفة وجامدة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس وهي بتلف، الكابينة المربوطة فيها هتقلب الناس على راسهم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فكل كابينة تلف على حلقة لوحدها، وموتور يخلّي أرضيتها مستوية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس تلف الحديد ده كله من المحور؟ عايز جيربوكس قد العمارة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتزق الإطار نفسه: كاوتشات بتمسكه وتلفّه براحة، لدرجة إنك تركب وهي ماشية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس عجلة بالطول ده ما تتبنيش واقفة، مفيش حاجة فوق تقف عليها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "ففي لندن بنوها نايمة فوق النهر، وبعدين رفعوها بالكابلات شوية شوية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تقف في الطابور، تابعني، عشان اللي جاي هنبني تمثال الحرية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "ودلوقتي علّق الكباين وسيبها تلف. وأول واحدة في التاريخ اتبنت في شيكاغو عشان تغلب برج إيفل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ميتين وخمسين متر، تمانية وأربعين كابينة، واللفة الواحدة تمانية وتلاتين دقيقة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت عجلة ملاهي عملاقة بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وأبوك يقولك: دي لعب عيال، ولما تطلعوا فوق، يبقى أول واحد يصرّخ.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 72.8,
+   "lufs": -14.0,
+   "peak": -1.7,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 25.7,
+   "cover": true
+  }
+ }
+}
