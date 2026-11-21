@@ -1,0 +1,33 @@
+episode: 59
+date: 2026-11-22
+video:
+  en: media/ep59-liberty-en.mp4
+  ar: media/ep59-liberty-ar.mp4
+en:
+  at: "2026-11-22T16:30:00Z"    # 08:30 PT Sun Nov 22 (Sunday's one English YouTube: only 57 sent or due in the 24 h before)
+  title: "Statue of Liberty: A Copper Skin as Thin as Two Coins 🗽"
+  text: |
+    A copper giant with a skin as thin as two coins, standing in harbor storms since 1886. 🗽
+    Gustave Eiffel built an iron tower inside her, thin iron bars follow her shape and loose clips let the skin slide and sway, and she stood in Paris first before crossing the ocean in 350 pieces. And the green? The sea air turned her copper, and that green coat protects it.
+    Did you know she used to be brown? 👇
+  next: "a microwave oven 🍿"
+  seo: "How the Statue of Liberty was built: her skin is copper only about 2.4 mm thick, about the thickness of two coins, hammered into shape by hand, far too thin to hold its own shape. Gustave Eiffel, the engineer of the Eiffel Tower, designed the iron tower inside her that carries the weight, and a web of thin iron bars that follows her shape. The skin hangs on that web with loose clips, so it can slide when it heats up in the sun and sway in the wind: in strong wind the statue sways about 7.6 cm and her torch about 13 cm. Copper touching iron in salty sea air makes a battery and the iron rusts, so the two metals were kept apart with a layer of varnished cloth; in the 1980s restoration the iron bars were replaced with stainless steel. The statue was built and first put up in Paris, then taken apart into 350 pieces, packed in 214 crates and shipped to New York in 1885, and she was dedicated in 1886. She was the brown of new copper at first and turned green in about thirty years; that green layer protects the copper underneath. She is about 46 m tall, and about 93 m from the ground to the torch with the pedestal."
+  tags:
+    tiktok: "#statueofliberty #newyork #engineering #history #learnontiktok"
+    instagram: "#statueofliberty #newyork #engineering #history #design"
+    youtube: "#statueofliberty #newyork #engineering"
+ar:
+  # Arabic TikTok + Instagram 03:00 PT = 2 pm Riyadh; Arabic YouTube at 06:20 PT, 19 minutes after 54's send of 14:01 UTC
+  # Nov 21 leaves its 24 h window (only 57 is left in it): Sunday's one Arabic YouTube.
+  at: {default: "2026-11-22T11:00:00Z", youtube: "2026-11-22T14:20:00Z"}
+  title: "تمثال الحرية: جلد نحاس رقيق مثل عملتين 🗽"
+  text: |
+    عملاقة نحاس جلدها رقيق مثل عملتين فوق بعض، وواقفة في عواصف البحر من أكثر من مية وثلاثين سنة! 🗽
+    غوستاف إيفل، صاحب البرج نفسه، بنى لها برج حديد من داخل، وأسياخ رفيعة على شكلها، والجلد معلّق بمشابك مرتخية يتحرك براحته، وانبنت في باريس أول وانشحنت ثلاثمية وخمسين قطعة. والأخضر؟ هوا البحر صبغ النحاس، وهالأخضر هو اللي يحميه.
+    كنت تدري إنها كانت بنية؟ 👇
+  next: "مايكرويف 🍿"
+  seo: "كيف انبنى تمثال الحرية: جلده نحاس سماكته حوالي ملّيين ونص بس، مثل عملتين فوق بعض، انطرق على شكله باليد، وهو أرق من إنه يشيل شكله بنفسه. غوستاف إيفل، مهندس برج إيفل نفسه، صمم البرج الحديد اللي داخله ويشيل الوزن، وشبكة أسياخ حديد رفيعة ماشية على شكلها. والجلد معلّق على هالشبكة بمشابك مرتخية، عشان يتحرك إذا سخن من الشمس ويتمايل مع الريح: في الريح القوية التمثال يتمايل حوالي سبعة سانتي والشعلة حوالي ثلاثطعش. والنحاس إذا لمس الحديد في هوا البحر المالح يصير بطارية والحديد يصدّي، فحطوا بينهم قماش مشرّب ورنيش، وفي الترميم في الثمانينات بدّلوا الأسياخ الحديد بستيل ما يصدّي. التمثال انبنى وانوقف أول في باريس، وبعدين فكّوه ثلاثمية وخمسين قطعة في مية وأربعطعش صندوق وشحنوه لنيويورك سنة ألف وثمنمية وخمسة وثمانين، وافتتحوه السنة اللي بعدها. كان لونه بني مثل النحاس الجديد، وصار أخضر خلال حوالي ثلاثين سنة، وهالطبقة الخضرا تحمي النحاس اللي تحتها. طوله حوالي ستة وأربعين متر، ومع القاعدة حوالي ثلاثة وتسعين متر من الأرض للشعلة."
+  tags:
+    tiktok: "#تمثال_الحرية #نيويورك #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#تمثال_الحرية #نيويورك #هندسة #السعودية #معلومات"
+    youtube: "#تمثال_الحرية #هندسة #معلومات"

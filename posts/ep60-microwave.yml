@@ -1,0 +1,32 @@
+episode: 60
+date: 2026-11-22
+video:
+  en: media/ep60-microwave-en.mp4
+  ar: media/ep60-microwave-ar.mp4
+hold: [en.youtube, ar.youtube]    # Buffer sends 2 YouTube posts per channel per rolling 24 h: Sunday's one YouTube slot goes to 59
+en:
+  at: "2026-11-22T19:00:00Z"    # 11:00 PT Sun Nov 22
+  title: "Microwave Oven: Boiling Water With No Fire 🍿"
+  text: |
+    No fire, no flame, and the water boils: the waves shake its molecules billions of times a second. 🍿
+    A magnetron borrowed from radar, a metal box that bounces the waves back, a door mesh with holes too small for them but not for light, a turntable that carries every bite through the hot spots, and switches that cut the power before the door opens. It all started when a radar engineer's chocolate bar melted in his pocket.
+    Do you stop it at 0:01 so it won't beep? 👇
+  next: "the Leaning Tower of Pisa 🇮🇹"
+  seo: "How a microwave oven works: a magnetron, the same kind of tube used in radar, makes microwaves at about 2.45 GHz, waves about 12 cm long. Water molecules have a positive and a negative end, and the waves twist them back and forth about 2.45 billion times a second, so the water in the food heats up from inside instead of from the outside in like a flame. The metal walls bounce the waves back so they stay in the box, and the door has a metal mesh whose holes are much smaller than the waves, so they cannot get out while light, with its tiny waves, passes through and you can see your food. Waves bouncing inside make hot spots and cold spots, so a turntable carries the food through them. Switches in the door latch cut the power before the door opens. The idea came in 1945, when radar engineer Percy Spencer noticed the chocolate bar in his pocket had melted next to a magnetron; the first microwave oven, sold in 1947, stood almost 2 m tall and weighed about 340 kg."
+  tags:
+    tiktok: "#microwave #howitworks #science #kitchen #learnontiktok"
+    instagram: "#microwave #howitworks #science #physics #kitchen"
+    youtube: "#microwave #howitworks #science"
+ar:
+  at: "2026-11-22T14:00:00Z"    # 06:00 PT Sun Nov 22 = 4 pm Cairo
+  title: "الميكروويف: بيغلي المية من غير نار 🍿"
+  text: |
+    لا نار ولا لهب، والمية بتغلي: الموجات بتهز جزيئاتها مليارات المرات في الثانية! 🍿
+    لمبة ماجنترون من الرادار، وصندوق معدن بيرجّع الموجات، وشبكة في الباب خرومها أصغر من الموجة بس النور بيعدي، وطبق بيلف يعدّي كل لقمة على الحتت السخنة، ومفاتيح بتفصل الكهربا قبل ما الباب يتفتح. وكله بدأ لما الشوكولاتة ساحت في جيب مهندس رادار.
+    أمك برضه بتقولك ابعد عن الميكروويف؟ 👇
+  next: "برج بيزا المايل 🇮🇹"
+  seo: "إزاي الميكروويف بيشتغل: جواه لمبة اسمها الماجنترون، نفس اللي في الرادار، بتطلع موجات طولها حوالي اتناشر سانتي. جزيء المية ليه طرف موجب وطرف سالب، والموجات بتلفه رايح جاي حوالي مليارين ونص مرة في الثانية، فالمية اللي في الأكل بتسخن من جوه، مش من برة لجوه زي النار. حيطان المعدن بترجّع الموجات جوه الصندوق، والباب فيه شبكة معدن خرومها أصغر بكتير من الموجة، فالموجات ماتعرفش تطلع، بس النور بموجاته الصغيرة بيعدي وانت تشوف الأكل. والموجات وهي بتخبط بتعمل حتت سخنة وحتت ساقعة، عشان كده الطبق بيلف ويعدّي الأكل عليهم. ومفاتيح في قفل الباب بتفصل الكهربا قبل ما الباب يتفتح. الفكرة جت سنة ألف تسعمية خمسة وأربعين، لما مهندس الرادار بيرسي سبنسر لقى الشوكولاتة اللي في جيبه سايحة جنب الماجنترون، وأول ميكروويف اتباع سنة ألف تسعمية سبعة وأربعين كان طوله حوالي متر وتمانين ووزنه حوالي تلتمية وأربعين كيلو."
+  tags:
+    tiktok: "#ميكروويف #معلومات #علوم #مطبخ #تعلم_على_التيك_توك"
+    instagram: "#ميكروويف #معلومات #علوم #فيزياء #مطبخ"
+    youtube: "#ميكروويف #معلومات #علوم"

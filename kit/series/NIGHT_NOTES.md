@@ -1157,3 +1157,74 @@
     and a workflow; the YouTube upload needs his computer on with Chrome open and his yes to publish; the Arabic version
     needs narration (ElevenLabs was almost empty on Nov 20). Idea to offer him: link the four builds' Shorts to the full
     video with the "Related video" field in Studio (a tappable link inside the Shorts player).
+
+## Nov 21 2026 (midday run, 11:23 PT): 58 giant Ferris wheel, 59 Statue of Liberty, 60 microwave oven (for Sun Nov 22)
+- TODAY Nov 21 PT, TOMORROW Sun Nov 22 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT with
+  `TZ=America/Los_Angeles date -d` before the push). PST: Arabic 00:00 / 03:00 / 06:00 PT = 08:00Z / 11:00Z / 14:00Z;
+  English 06:00 / 08:30 / 11:00 PT = 14:00Z / 16:30Z / 19:00Z Nov 22.
+- Status 19:31Z (Nov 21 PT, builds 52-57): 52 and 53 all four live; 54 Arabic Instagram + YouTube and English
+  Instagram + TikTok live, its Arabic TikTok refused ("potential spam", 14:00Z) and its English YouTube failed on the
+  limit at 19:00Z (as planned: 41 + 44 in its window); 55 Arabic Instagram live, its Arabic TikTok refused (17:00Z); the
+  rest of 55-57 scheduled ahead. A retry made in Buffer at 17:27Z Nov 21 (not ours) failed 45 / 46 / 49 English YouTube
+  again. Old YouTube failures (EN 40, 45, 46, 49, 54; AR 41-45) stay failed: no 24 h window has room for them.
+- NOT requeued by this run: 54 and 55's Arabic TikToks. The next free 2-hour gaps are 01:30Z / 04:30Z Nov 25, and the
+  Arabic TikTok queue (10) only had room for this run's own three (37, 42, 45, 48, 49, 50, 57 + 58, 59, 60 = 10 at the
+  push). The evening run of Nov 21 requeues them to 01:30Z / 04:30Z Nov 25 AFTER its own three Arabic TikToks are on
+  Buffer (57 leaves at 23:00Z, 37 at 01:30Z and 45 at 04:30Z Nov 22; Buffer refuses a requeue while 10 are pending).
+- Pages: retired ep51-ep53 (all posts sent): media/ 707 -> 591 MB before today's six videos, 719 MB after. Next to
+  retire: 37 once its Arabic TikTok (01:30Z Nov 22) is out, 56 and 57 once all their posts are sent.
+- A/B test: 59 is odd -> `liberty` in voices.yml ar_alt.kits (Mansour, Saudi script); 58 and 60 Egyptian.
+- YouTube (2 SENT posts per channel in any rolling 24 h): Sun Nov 22 PT has room for ONE English and ONE Arabic post,
+  because 57 (English 02:30Z, Arabic 23:00Z Nov 21) is in every Sunday window. Both went to 59, the strongest topic:
+  English at its own slot 16:30Z (08:30 PT; window: only 57), Arabic with a per-platform at: {default: 11:00Z, youtube:
+  14:20Z} (06:20 PT), 19 minutes after 54's send (14:01:09Z Nov 21) leaves the window, so only 57 is in it. 58 and 60
+  hold YouTube. **The evening run of Nov 21 must hold YouTube in both languages** (every Sunday slot has 57 + 59 in its
+  window). For the midday run of Nov 22 (Mon Nov 23): English 14:00Z passes (only 59 at 16:30Z Nov 22 in the window) and
+  19:00Z passes (59 has left, only 14:00Z in it), 16:30Z fails; Arabic 08:00Z passes (only 59 at 14:20Z Nov 22), 11:00Z
+  and 14:00Z fail, a youtube at: of 14:40Z or later passes. Check the status first: a retry made in Buffer can send an
+  old failed post at any time and fill a window.
+- Voices: Easton ferriswheel 64.42 s (229 words), liberty 65.96 s (230) -> three lines reworded after Whisper small
+  ("in salty air" heard "and salty air", "shellac-soaked" -> "shellax", "a refund" -> "to refund") and English remade
+  free: 66.73 s (231 words); microwave 65.51 s (229). ElevenLabs one take each: Egyptian ferriswheel 69.70 s (169
+  words), Mansour liberty 73.78 s (167 words: long for Mansour, keep Saudi scripts near 160), Egyptian microwave 69.14 s
+  (169). check_ar_voice: no weak lines (liberty line 12 30% and line 9 19% are digits and the Saudi "g" for qaf).
+  ElevenLabs (MCP account_get_usage, 19:30Z Nov 21): still Creator, 101,993 of 127,949 used (25,956 left, reset Dec 12):
+  only +144 since 03:40Z, so the other projects slowed down; about 2,700 more for these three.
+- Research: WebSearch still gives titles and links only (no agents); facts were checked against result titles (NPS
+  "Statue Statistics" and "Fun Facts", Smithsonian "The Statue of Liberty arrived in 350 pieces", Atlas Obscura "Well
+  traveled before she reached her final home", NIST / copper.org on the 1980s restoration and the galvanic corrosion,
+  Building "Millennium Wheel hoisted upright" and Mammoet's London Eye case, NPR / The National / Khaleej Times on Ain
+  Dubai, Post-Gazette "When a Pittsburgher went to Chicago to beat France" on Ferris 1893, APS / IEEE Spectrum /
+  Smithsonian on Percy Spencer, HyperPhysics and maketecheasier "flips an electric field 2.45 billion times a second")
+  plus well-documented figures. Ain Dubai has been closed and reopened (Dec 2024) more than once: the scripts say what
+  it is (250 m, 48 cabins, 38 minutes a turn), not that it is open today.
+- Scenes (all v2 look 2):
+  - ferriswheel.py (dubai, spokes, cabin, drive, lift, chicago, tag): wheel(c, t, rot, cabins, spokes, thick, buckle,
+    glow, lit, legs, cab_n, bolted, cx, cy) = front view: two leg pairs, 64 laced cables (glow = the tension highlight),
+    a rim of two rings with a zigzag truss, LEDs at night, 48 cabins outside the rim (cab_n hangs them one by one);
+    thick + buckle = wagon-wheel beams bending at the bottom; cabin() = glass capsule (detail=True draws real people,
+    ring= its own ring); island() with a boarding deck; bicycle(); gear(); tyre(); old_wheel() = Chicago 1893 with 36
+    cars next to eiffel.eiffel(). Hook: the camera rises from the boarding deck to the whole wheel by "Dubai" (the
+    "lift"). lift set: the wheel drawn with c.scale(1, sin(angle)) around its bottom edge = lying flat -> upright, cables
+    from a mast; LONDON grey palette because a white wheel on the golden horizon disappears.
+  - liberty.py (harbor, frame, skin, battery, paris, tag): statue(c, x, y, s, t, green, xray, crumple, sway, lit, steel,
+    glint) = front view 300 units tall (robe with folds, raised arm, torch, tablet, crown of seven rays), green 0..1 =
+    copper -> patina, xray shows Eiffel's pylon + the thin bars, crumple squashes the skin like foil; pedestal() = star
+    fort + granite pedestal; hook = her copper face in a storm (STORMP palette, rain(), lightning()) pulling back to the
+    whole statue, a two-coin inset; paris = 1884 over eiffel.rooftops, then pieces flying into crates on fridge.ship;
+    tag EN: the ring and the green finger, "REFUND!"; AR: saudi_man + "وش هالغش؟!".
+  - microwave.py (kitchen, fire, box, spots, door, lab, tag): oven(c, t, xray, door, light, running, waves, plate_ang,
+    food, heat, display) = front view 560 x 340 (cavity, turntable, mug/bowl, mesh door, panel with display text),
+    xray shows the magnetron + waveguide and bounce_path() rays drawn with wave_line() (a sine along a polyline);
+    molecule() = a water V; magnetron(); first_oven() = the 1947 Radarange; hook = x-ray mug boiling with a magnifier of
+    flipping molecules; spots = top view, hot/cold grid, burnt and frosted spots, then the turntable; door fix4 = two
+    hooks + switches and an ON/OFF lamp; tag EN: stop at 0:01; AR: phone.mom + "ابعد عن الميكروويف!".
+- Produce: one slug per run as each scene was ready (58 and 59 at 20:09Z, 60 at 20:11Z), about 20-26 minutes each.
+  Final videos: ferriswheel EN 67.5 s / AR 72.8 s, liberty EN 69.9 s / AR 76.9 s (Mansour), microwave EN 68.6 s / AR
+  72.2 s; all -14 LUFS, peaks -1.7 to -2.1 dBFS, covers in and inside the grid crop. Whisper small on the English
+  mixes: number formats, "tyres" -> "tire", "door's" -> "doors", "replaced" -> "replace" (captions carry the words; the
+  CI base.en also wrote "waits" -> "wakes", "melted" -> "knelt it", "bolt" -> "both", "wet" -> "what", which Whisper
+  small heard right).
+- Lessons: Camera.key(t, x, y, z, dur) starts moving AT t: to finish a pull-back on a word, start it early and let dur
+  end on the word. A white or pale subject on the golden horizon washes out (the lift set): use a grey or dusk palette
+  there. person(): the "point" hand is at (x + 40u*face, y - 150u) with u = h / 140 (put a held phone there).
