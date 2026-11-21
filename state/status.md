@@ -1,4 +1,4 @@
-# Post status 2026-11-21T19:46:54+00:00
+# Post status 2026-11-21T20:44:09+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -318,8 +318,8 @@
 | ep55-suez | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T17:00:00.000Z |
 | ep55-suez | en.instagram | scheduled |  | 2026-11-21T21:30:00.000Z |
 | ep55-suez | en.tiktok | scheduled |  | 2026-11-21T21:30:00.000Z |
-| ep56-escalator | ar.instagram | scheduled |  | 2026-11-21T20:00:00.000Z |
-| ep56-escalator | ar.tiktok | scheduled |  | 2026-11-21T20:00:00.000Z |
+| ep56-escalator | ar.instagram | sent |  | 2026-11-21T20:02:51.861Z https://www.instagram.com/reel/DgBCqCwIFHA/ |
+| ep56-escalator | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T20:00:00.000Z |
 | ep56-escalator | en.instagram | scheduled |  | 2026-11-22T00:00:00.000Z |
 | ep56-escalator | en.tiktok | scheduled |  | 2026-11-22T00:00:00.000Z |
 | ep57-operahouse | ar.instagram | scheduled |  | 2026-11-21T23:00:00.000Z |
@@ -328,3 +328,17 @@
 | ep57-operahouse | en.instagram | scheduled |  | 2026-11-22T02:30:00.000Z |
 | ep57-operahouse | en.tiktok | scheduled |  | 2026-11-22T02:30:00.000Z |
 | ep57-operahouse | en.youtube | scheduled |  | 2026-11-22T02:30:00.000Z |
+| ep58-ferriswheel | ar.instagram | scheduled |  | 2026-11-22T08:00:00.000Z |
+| ep58-ferriswheel | ar.tiktok | scheduled |  | 2026-11-22T08:00:00.000Z |
+| ep58-ferriswheel | en.instagram | scheduled |  | 2026-11-22T14:00:00.000Z |
+| ep58-ferriswheel | en.tiktok | scheduled |  | 2026-11-22T14:00:00.000Z |
+| ep59-liberty | ar.instagram | scheduled |  | 2026-11-22T11:00:00.000Z |
+| ep59-liberty | ar.tiktok | scheduled |  | 2026-11-22T11:00:00.000Z |
+| ep59-liberty | ar.youtube | scheduled |  | 2026-11-22T14:20:00.000Z |
+| ep59-liberty | en.instagram | scheduled |  | 2026-11-22T16:30:00.000Z |
+| ep59-liberty | en.tiktok | scheduled |  | 2026-11-22T16:30:00.000Z |
+| ep59-liberty | en.youtube | scheduled |  | 2026-11-22T16:30:00.000Z |
+| ep60-microwave | ar.instagram | scheduled |  | 2026-11-22T14:00:00.000Z |
+| ep60-microwave | ar.tiktok | scheduled |  | 2026-11-22T14:00:00.000Z |
+| ep60-microwave | en.instagram | scheduled |  | 2026-11-22T19:00:00.000Z |
+| ep60-microwave | en.tiktok | scheduled |  | 2026-11-22T19:00:00.000Z |

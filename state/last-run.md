@@ -1,4 +1,4 @@
-# Last posting run 2026-11-21T19:46:47+00:00
+# Last posting run 2026-11-21T20:43:56+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -18,8 +18,26 @@
 - ep55-suez ar.youtube: on hold in posts/ep55-suez.yml
 - ep56-escalator en.youtube: on hold in posts/ep56-escalator.yml
 - ep56-escalator ar.youtube: on hold in posts/ep56-escalator.yml
+- ep58-ferriswheel en.youtube: on hold in posts/ep58-ferriswheel.yml
+- ep58-ferriswheel en.instagram: scheduled (Sun 22 Nov 14:00 UTC) id 6b02028e846b0ee907383532
+- ep58-ferriswheel en.tiktok: scheduled (Sun 22 Nov 14:00 UTC) id 6b02028e0247969092fea2d2
+- ep58-ferriswheel ar.youtube: on hold in posts/ep58-ferriswheel.yml
+- ep58-ferriswheel ar.instagram: scheduled (Sun 22 Nov 08:00 UTC) id 6b02028fd864a01105737495
+- ep58-ferriswheel ar.tiktok: scheduled (Sun 22 Nov 08:00 UTC) id 6b020290c72676f5e9dd3810
+- ep59-liberty en.youtube: scheduled (Sun 22 Nov 16:30 UTC) id 6b020291d864a011057374cd
+- ep59-liberty en.instagram: scheduled (Sun 22 Nov 16:30 UTC) id 6b020291d864a0110573752a
+- ep59-liberty en.tiktok: scheduled (Sun 22 Nov 16:30 UTC) id 6b020291d5eabfb8cc5d04e1
+- ep59-liberty ar.youtube: scheduled (Sun 22 Nov 14:20 UTC) id 6b020292d5eabfb8cc5d0542
+- ep59-liberty ar.instagram: scheduled (Sun 22 Nov 11:00 UTC) id 6b020292846b0ee90738376c
+- ep59-liberty ar.tiktok: scheduled (Sun 22 Nov 11:00 UTC) id 6b020293cc364169c103f351
+- ep60-microwave en.youtube: on hold in posts/ep60-microwave.yml
+- ep60-microwave en.instagram: scheduled (Sun 22 Nov 19:00 UTC) id 6b020293c72676f5e9dd3c6a
+- ep60-microwave en.tiktok: scheduled (Sun 22 Nov 19:00 UTC) id 6b0202940247969092fea3eb
+- ep60-microwave ar.youtube: on hold in posts/ep60-microwave.yml
+- ep60-microwave ar.instagram: scheduled (Sun 22 Nov 14:00 UTC) id 6b020295cc364169c103f3ce
+- ep60-microwave ar.tiktok: scheduled (Sun 22 Nov 14:00 UTC) id 6b020295c72676f5e9dd3d01
 - sm01-survival en.youtube: on hold in posts/sm01-survival.yml
 - sm01-survival en.instagram: on hold in posts/sm01-survival.yml
 - sm01-survival en.tiktok: on hold in posts/sm01-survival.yml
-- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=519; t=25778, "30d"; r=1440; t=1593972; ratelimit-policy="15m"; q=1
-- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=501; t=25778, "30d"; r=1375; t=1600102; ratelimit-policy="15m"; q=1
+- en: 9 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=141; t=893, "24h"; r=502; t=22342, "30d"; r=1423; t=1590536; ratelimit-policy="15m"; q=1
+- ar: 9 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=141; t=892, "24h"; r=484; t=22341, "30d"; r=1358; t=1596664; ratelimit-policy="15m"; q=1
