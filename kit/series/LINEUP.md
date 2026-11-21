@@ -53,9 +53,9 @@ Rules:
 52. the Palm Jumeirah, an island shaped like a palm tree (Dubai) (promised by 51) (taken: midday run of 2026-11-20)
 53. idea: a refrigerator (taken: midday run of 2026-11-20)
 54. idea: the Eiffel Tower (taken: midday run of 2026-11-20)
-55. idea: the Suez Canal
-56. idea: an escalator
-57. idea: the Sydney Opera House shells
+55. idea: the Suez Canal (taken: evening run of 2026-11-20)
+56. idea: an escalator (taken: evening run of 2026-11-20)
+57. idea: the Sydney Opera House shells (taken: evening run of 2026-11-20)
 58. idea: a giant Ferris wheel (Ain Dubai / the London Eye)
 59. idea: the Statue of Liberty (a copper skin on an iron frame)
 60. idea: a microwave oven
