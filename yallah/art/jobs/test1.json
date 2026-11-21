@@ -1,0 +1,123 @@
+{
+ "model": "klein4b",
+ "items": [
+  {
+   "group": "a",
+   "name": "sticker_tajine",
+   "w": 768,
+   "h": 768,
+   "seed": 11,
+   "prompt": "A steaming Moroccan chicken tajine with green olives and preserved lemon in an open glazed clay tajine dish, its tall conical clay lid resting beside it, stylized 3D animated family film look, smooth rounded shapes, vivid warm colours, soft studio lighting, centered, isolated on a plain pure white background, no text"
+  },
+  {
+   "group": "a",
+   "name": "sticker_knafeh",
+   "w": 768,
+   "h": 768,
+   "seed": 12,
+   "prompt": "A round metal tray of golden orange Nabulsi knafeh topped with crushed green pistachios, one slice being lifted with stretchy white cheese, stylized 3D animated family film look, smooth rounded shapes, vivid warm colours, soft studio lighting, centered, isolated on a plain pure white background, no text"
+  },
+  {
+   "group": "a",
+   "name": "scene_match_ma",
+   "w": 1024,
+   "h": 640,
+   "seed": 13,
+   "prompt": "A Moroccan family in their living room jumping and cheering with joy in front of a television showing a football match, red scarves, glasses of mint tea and a silver teapot on a low round table, a long Moroccan sofa with patterned cushions, zellige mosaic tiles on the wall, warm evening light, stylized 3D animated family film look, smooth rounded shapes, big expressive eyes, soft skin shading, vivid warm colours, soft global illumination, wide shot, no text, no logos"
+  },
+  {
+   "group": "b",
+   "name": "teacher_ma",
+   "w": 768,
+   "h": 1024,
+   "seed": 21,
+   "prompt": "Upper body portrait of a kind Moroccan woman teacher about 30 years old, wearing a soft pink hijab and a royal blue Moroccan kaftan with gold embroidery trim, warm brown eyes, gentle smile, standing and facing the camera, arms relaxed at her sides, mouth closed, stylized 3D animated family film look, smooth rounded shapes, big expressive eyes, soft skin shading, vivid warm colours, soft global illumination, plain light grey studio background, even soft lighting, no text"
+  },
+  {
+   "group": "b",
+   "name": "teacher_ma_talk",
+   "w": 768,
+   "h": 1024,
+   "seed": 21,
+   "ref": [
+    "teacher_ma"
+   ],
+   "prompt": "Keep the same woman, the same clothes, the same pose, the same framing and the same background. Change only her mouth: it is open as if she is speaking."
+  },
+  {
+   "group": "b",
+   "name": "teacher_ma_point",
+   "w": 768,
+   "h": 1024,
+   "seed": 22,
+   "ref": [
+    "teacher_ma"
+   ],
+   "prompt": "The same woman in the same clothes and the same art style, same plain background. She now raises her right hand and points up to the side with her index finger, looking at the viewer with a happy open smile as if explaining something."
+  },
+  {
+   "group": "c",
+   "name": "adam",
+   "w": 768,
+   "h": 1024,
+   "seed": 31,
+   "prompt": "Upper body portrait of a cheerful 8 year old Moroccan boy with curly dark brown hair, big brown eyes, rosy cheeks, wearing a mustard yellow traditional collarless shirt with small buttons, sitting at a wooden school desk with an open notebook and a pencil in his hand, looking at the camera, mouth closed smile, stylized 3D animated family film look, smooth rounded shapes, big expressive eyes, soft skin shading, vivid warm colours, soft global illumination, plain light grey studio background, even soft lighting, no text"
+  },
+  {
+   "group": "c",
+   "name": "adam_think",
+   "w": 768,
+   "h": 1024,
+   "seed": 32,
+   "ref": [
+    "adam"
+   ],
+   "prompt": "The same boy in the same clothes at the same desk, same art style and same plain background. He now looks up thinking hard, one finger on his chin, mouth closed."
+  },
+  {
+   "group": "c",
+   "name": "adam_talk",
+   "w": 768,
+   "h": 1024,
+   "seed": 31,
+   "ref": [
+    "adam"
+   ],
+   "prompt": "Keep the same boy, the same clothes, the same pose, the same framing and the same background. Change only his mouth: it is open in a happy smile as if he is speaking."
+  },
+  {
+   "group": "d",
+   "name": "classroom_ma",
+   "w": 768,
+   "h": 1344,
+   "seed": 41,
+   "prompt": "Empty Moroccan primary school classroom interior with no people, seen from the pupils' seats looking at the front wall. A large blank dark green chalkboard in a carved cedar wood frame in the upper middle, colourful zellige mosaic tiles on the lower wall, an arched window with sunlight and a palm tree outside, wooden bookshelves with colourful books, a brass Moroccan lantern hanging from the ceiling, wooden school desks at the bottom, warm morning light, stylized 3D animated family film look, smooth rounded shapes, big expressive eyes, soft skin shading, vivid warm colours, soft global illumination, gentle depth of field, vertical composition, no text, nothing written on the board"
+  },
+  {
+   "group": "d",
+   "name": "classroom_pa",
+   "w": 768,
+   "h": 1344,
+   "seed": 42,
+   "prompt": "Empty Palestinian primary school classroom interior with no people, seen from the pupils' seats looking at the front wall. A large blank dark green chalkboard in a wooden frame in the upper middle, pale limestone walls, a stone arched window looking out on olive trees and terraced hills with old stone houses, a band of red and black cross-stitch tatreez embroidery pattern along the wall, wooden bookshelves with colourful books, a potted olive branch in a clay jar, wooden school desks at the bottom, warm morning light, stylized 3D animated family film look, smooth rounded shapes, big expressive eyes, soft skin shading, vivid warm colours, soft global illumination, gentle depth of field, vertical composition, no text, nothing written on the board"
+  },
+  {
+   "group": "h",
+   "route": "horde",
+   "name": "horde_tajine",
+   "w": 1024,
+   "h": 1024,
+   "seed": 11,
+   "prompt": "A steaming Moroccan chicken tajine with green olives and preserved lemon in an open glazed clay tajine dish, its tall conical clay lid resting beside it, stylized 3D animated family film look, smooth rounded shapes, vivid warm colours, soft studio lighting, centered, isolated on a plain pure white background, no text"
+  },
+  {
+   "group": "p",
+   "route": "pollinations",
+   "name": "pollinations_tajine",
+   "w": 768,
+   "h": 768,
+   "seed": 11,
+   "prompt": "A steaming Moroccan chicken tajine with green olives and preserved lemon in an open glazed clay tajine dish, its tall conical clay lid resting beside it, stylized 3D animated family film look, smooth rounded shapes, vivid warm colours, soft studio lighting, centered, isolated on a plain pure white background, no text"
+  }
+ ]
+}

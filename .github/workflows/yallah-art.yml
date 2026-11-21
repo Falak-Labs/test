@@ -1,0 +1,77 @@
+name: Yallah Say art lab
+# Pictures for the Yallah Say lessons, made for free on this runner's own CPU: stable-diffusion.cpp (from its GitHub
+# releases) runs the open model FLUX.2 klein 4B (Apache 2.0, downloaded from Hugging Face). No key and no paid service.
+# One parallel runner per group in yallah/art/jobs/<job>.json. The pictures, logs and timings are saved on the
+# yallah-lab branch under art/<job>/, so main stays small. The owner approved this on 21 Nov 2026.
+on:
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "job name, as in yallah/art/jobs/<job>.json"
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: yallah-art-${{ inputs.job }}
+  cancel-in-progress: false
+jobs:
+  plan:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    outputs:
+      groups: ${{ steps.p.outputs.groups }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: p
+        env:
+          JOB: ${{ inputs.job }}
+        run: |
+          set -euo pipefail
+          case "$JOB" in ""|*[!A-Za-z0-9_-]*) echo "bad job name"; exit 1;; esac
+          test -f "yallah/art/jobs/${JOB}.json" || { echo "yallah/art/jobs/${JOB}.json is missing"; exit 1; }
+          python3 -I yallah/art/plan.py "yallah/art/jobs/${JOB}.json" >> "$GITHUB_OUTPUT"
+  make:
+    needs: plan
+    runs-on: ubuntu-24.04
+    timeout-minutes: 170
+    strategy:
+      fail-fast: false
+      matrix:
+        group: ${{ fromJson(needs.plan.outputs.groups) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Make the pictures
+        env:
+          GH_TOKEN: ${{ github.token }}
+          JOB: ${{ inputs.job }}
+          GROUP: ${{ matrix.group }}
+        run: |
+          set -euo pipefail
+          pip install --quiet pillow
+          python -I -u yallah/art/gen.py "yallah/art/jobs/${JOB}.json" "$GROUP" "out/${JOB}"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: art-${{ inputs.job }}-${{ matrix.group }}
+          path: out/
+          retention-days: 2
+          if-no-files-found: ignore
+  save:
+    needs: make
+    if: always()
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: art-${{ inputs.job }}-*
+          path: got
+          merge-multiple: true
+      - name: Save to the yallah-lab branch
+        env:
+          JOB: ${{ inputs.job }}
+        run: bash yallah/art/save_lab.sh "$JOB"
