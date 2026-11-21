@@ -1,0 +1,53 @@
+# Survival Mode 2: You vs Water. Four builds that beat water, all four with the Egyptian narrator in Arabic.
+levels:
+  - kit: panama
+    music: oasis
+    color: "#5CC8FF"
+    en: {world: "PANAMA", boss: "THE MOUNTAINS", sub: "TWO OCEANS  ·  A WALL OF MOUNTAINS BETWEEN", unlocked: "PANAMA CANAL LOCKS",
+         stamp: "NO WAY THROUGH", chips: [["26 m", "UP THE STAIRS"], ["0", "PUMPS"], ["1M+", "SHIPS SINCE 1914"]]}
+    ar: {world: "بنما", boss: "الجبال", sub: "محيطين  ·  وبينهم سور من الجبال", unlocked: "هويس قناة بنما",
+         stamp: "الطريق مقفول", chips: [["26 m", "طلوع السلم"], ["0", "طلمبات"], ["1M+", "مركب من 1914"]]}
+  - kit: venice
+    music: arctic
+    color: "#7FE0C8"
+    en: {world: "THE LAGOON", boss: "THE MUD", sub: "SOFT MUD  ·  STONE SINKS LIKE A BOOT", unlocked: "VENICE",
+         stamp: "SINKING", chips: [["9", "PILES PER m²"], ["1,600", "YEARS OLD"], ["14,000", "UNDER ONE BRIDGE"]]}
+    ar: {world: "البحيرة", boss: "الطين", sub: "طين طري  ·  والحجر بيغرز فيه", unlocked: "فينيسيا",
+         stamp: "بتغرق", chips: [["9", "عواميد في المتر"], ["1,600", "سنة"], ["14,000", "تحت كوبري واحد"]]}
+  - kit: aswan
+    music: desert
+    color: "#FFB86B"
+    en: {world: "THE NILE", boss: "THE FLOOD", sub: "EVERY SUMMER  ·  TOO MUCH OR TOO LITTLE", unlocked: "ASWAN HIGH DAM",
+         stamp: "FLOOD", chips: [["111 m", "TALL"], ["~4 km", "LONG"], ["500 km", "LAKE BEHIND IT"]]}
+    ar: {world: "النيل", boss: "الفيضان", sub: "كل صيف  ·  يا يغرّق يا يعطّش", unlocked: "السد العالي",
+         stamp: "فيضان", chips: [["111 m", "ارتفاع"], ["~4 km", "طول"], ["500 km", "بحيرة وراه"]]}
+  - kit: palmjumeirah
+    music: ondol
+    color: "#4FD1E8"
+    en: {world: "THE OPEN SEA", boss: "THE STORM", sub: "NEW LAND  ·  ONE STORM WASHES IT AWAY", unlocked: "PALM JUMEIRAH",
+         stamp: "WASHED AWAY", chips: [["94M m³", "OF SAND"], ["11 km", "ROCK WALL"], ["0", "CONCRETE IN IT"]]}
+    ar: {world: "البحر المفتوح", boss: "العاصفة", sub: "أرض جديدة  ·  وعاصفة واحدة تمسحها", unlocked: "نخلة جميرا",
+         stamp: "اتمسحت", chips: [["94M m³", "رمل"], ["11 km", "هلال صخر"], ["0", "خرسانة فيها"]]}
+en:
+  chip: "SURVIVAL MODE  ·  YOU VS WATER"
+  ribbon: "YOU VS WATER"
+  ribbon_icon: drop
+  ribbon_crossed: false
+  no_icons: [boat, bridge, land]
+  result_label: "TIMES YOU GOT WET"
+  result_value: "0"
+  cues: {sub: tamed, stat: wet}
+  emph: [BOAT, BRIDGE, LAND, FOUR, WATER, WIN, CONGRATS, TAMED, PANAMA, OCEANS, MOUNTAINS, MUD, BOOT, NILE, FLOODS, DROWN, STARVE,
+         SEA, ISLAND, STORM, WET, RAIN, WOOD, ROCK, SAND, BOSSES, YOUTUBE, SUBSCRIBE, ENGINEER, FINAL, ONE, TWO, THREE, LEVELS,
+         WAITING, NEXT]
+ar:
+  chip: "طور البقاء  ·  انت ضد المية"
+  ribbon: "انت ضد المية"
+  ribbon_icon: drop
+  ribbon_crossed: false
+  no_icons: [boat, bridge, land]
+  result_label: "اتبلّيت كام مرة؟"
+  result_value: "0"
+  cues: {sub: "روّضت", stat: "ومتبل"}
+  emph: ["مركب", "كوبري", "ناشفة", "أربع", "المية", "مبروك", "بنما", "جبال", "طين", "الجزمة", "النيل", "بيفيض", "البحر", "جزيرة",
+         "عاصفة", "المطر", "الخشب", "الصخر", "الرمل", "يوتيوب", "اشترك", "الزعيم"]

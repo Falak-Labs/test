@@ -1,0 +1,44 @@
+# Survival Mode 1: Zero Electricity (the pilot; English only). Built first with build_survival.py; this spec rebuilds it
+# with build_show.py. Posted Nov 21 2026: https://youtu.be/Z-o9Kc-oCe4 (full), posts/sm01-survival.yml (short).
+voice: survival1
+levels:
+  - kit: windtower
+    music: desert
+    color: "#FFB86B"
+    shot: 8.55
+    still: 9.6
+    en: {world: "THE DESERT", boss: "HEAT", sub: "45°C  ·  NOT ONE PATCH OF SHADE", unlocked: "WIND TOWER", stamp: "45°C",
+         chips: [["-10°", "INSIDE"], ["0 W", "POWER USED"], ["3,000+", "YEARS OLD"]]}
+  - kit: falaj
+    music: oasis
+    color: "#5CC8FF"
+    shot: 8.6
+    still: 9.6
+    en: {world: "THE DRY LAND", boss: "THIRST", sub: "WATER: DEEP UNDER A MOUNTAIN", unlocked: "OMANI FALAJ", stamp: "NO WATER",
+         chips: [["60 m", "DEEP WELLS"], ["0 W", "NO PUMPS"], ["1,500", "YEARS FLOWING"]]}
+  - kit: igloo
+    music: arctic
+    color: "#B8C4FF"
+    shot: 6.85
+    still: 7.7
+    en: {world: "THE ARCTIC", boss: "COLD", sub: "-40°  ·  NO TREES, ONLY SNOW", unlocked: "IGLOO", stamp: "-40°",
+         chips: [["-40°", "OUTSIDE"], ["0°+", "INSIDE"], ["1 h", "TO BUILD"]]}
+  - kit: ondol
+    music: ondol
+    color: "#FFC98A"
+    shot: 8.0
+    still: 9.0
+    en: {world: "KOREAN WINTER", boss: "THE NIGHT", sub: "-15°  ·  THE FIRE DIES AT MIDNIGHT", unlocked: "HEATED FLOOR", stamp: "FIRE OUT",
+         chips: [["-15°", "OUTSIDE"], ["1 FIRE", "COOKS + HEATS"], ["ALL NIGHT", "WARM FLOOR"]]}
+en:
+  chip: "SURVIVAL MODE  ·  ZERO ELECTRICITY"
+  ribbon: "ZERO ELECTRICITY"
+  ribbon_icon: bolt
+  ribbon_crossed: true
+  no_icons: [bolt, flame, signal]
+  result_label: "POWER USED"
+  result_value: "0 W"
+  cues: {sub: survived, stat: zero}
+  emph: [ELECTRICITY, FUEL, HELP, FOUR, KILL, SUNRISE, CONGRATS, SURVIVED, PLANET, DESERT, FORTY-FIVE, SHADE, WATER, MOUNTAIN,
+         ARCTIC, MINUS, FORTY, SNOW, KOREAN, FIRE, MIDNIGHT, ZERO, WATTS, HEAT, THIRST, ICE, NIGHT, MUD, SMOKE, BOSS, ONE, TWO,
+         THREE, FINAL, BOSSES, YOUTUBE, LEVELS, SUBSCRIBE, ENGINEER, WAITING, NEXT]
