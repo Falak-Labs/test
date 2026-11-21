@@ -108,7 +108,8 @@
    "w": 1024,
    "h": 1024,
    "seed": 11,
-   "prompt": "A steaming Moroccan chicken tajine with green olives and preserved lemon in an open glazed clay tajine dish, its tall conical clay lid resting beside it, stylized 3D animated family film look, smooth rounded shapes, vivid warm colours, soft studio lighting, centered, isolated on a plain pure white background, no text"
+   "prompt": "A steaming Moroccan chicken tajine with green olives and preserved lemon in an open glazed clay tajine dish, its tall conical clay lid resting beside it, stylized 3D animated family film look, smooth rounded shapes, vivid warm colours, soft studio lighting, centered, isolated on a plain pure white background, no text",
+   "wait": 480
   },
   {
    "group": "p",

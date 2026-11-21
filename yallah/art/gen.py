@@ -19,13 +19,15 @@ HF = "https://huggingface.co"
 UA = "yallah-art-lab/0.1 (github.com/Falak-Labs/test)"
 QUANTS = ["Q4_K_M", "Q4_K_S", "Q4_K", "Q4_0", "Q5_K_M", "Q5_K_S", "Q5_0", "Q6_K", "Q8_0"]
 
+DQ = ["Q8_0", "Q6_K", "Q5_K_M", "Q5_0", "Q4_K_M", "Q4_K_S", "Q4_0"]   # the picture model keeps more detail at 8 bits
+
 def gguf(repo, quants=QUANTS, bad=r"(?i)base"):
     return (repo, [rf"(?i)[-_.]{q}\.gguf$" for q in quants], bad)
 
 MODELS = {
     # FLUX.2 [klein] 4B: Apache 2.0, 4 steps, makes pictures and edits them from reference pictures
     "klein4b": {
-        "diffusion": [gguf("leejet/FLUX.2-klein-4B-GGUF"), gguf("unsloth/FLUX.2-klein-4B-GGUF")],
+        "diffusion": [gguf("leejet/FLUX.2-klein-4B-GGUF", DQ), gguf("unsloth/FLUX.2-klein-4B-GGUF", DQ)],
         "llm": [gguf("unsloth/Qwen3-4B-GGUF", bad=r"(?i)instruct|mmproj")],
         "vae": [("Comfy-Org/flux2-klein-4B", [r"split_files/vae/.*\.safetensors$"], None),
                 ("Comfy-Org/flux2-dev", [r"split_files/vae/.*\.safetensors$"], None),
@@ -98,38 +100,27 @@ def hf_pick(cands, what, dest):
     raise SystemExit(f"no usable file for {what}")
 
 def get_sdcpp(dest):
-    tok = os.environ.get("GH_TOKEN", "")
-    hdr = {"Accept": "application/vnd.github+json"}
-    if tok:
-        hdr["Authorization"] = "Bearer " + tok
-    _, body, _ = http("https://api.github.com/repos/leejet/stable-diffusion.cpp/releases/latest", hdr)
-    rel = json.loads(body)
-    names = [a["name"] for a in rel["assets"]]
-    log("sd.cpp release", rel["tag_name"], "assets:", ", ".join(names))
-    cpu = [a for a in rel["assets"] if re.search(r"(?i)linux", a["name"]) and re.search(r"(?i)x86_64|x64|amd64", a["name"])
-           and not re.search(r"(?i)vulkan|cuda|rocm|sycl|opencl|musa|hip|metal|arm|aarch", a["name"])]
-    if not cpu:
-        raise SystemExit("no Linux x86_64 CPU build in the release")
-    # the runners are AVX2 machines (no AVX-512 on the AMD ones): take the AVX2 build, else the plain one
-    plain = [x for x in cpu if not re.search(r"(?i)avx512|noavx", x["name"])] or cpu
-    a = ([x for x in plain if re.search(r"(?i)avx2", x["name"])] or sorted(plain, key=lambda x: len(x["name"])))[0]
-    z = dest / a["name"]
-    r = sh(["curl", "-sL", "--fail", "--retry", "3", "-o", str(z), a["browser_download_url"]])
+    """Build stable-diffusion.cpp from source at a fixed release tag. The ready-made Linux build needs a newer
+    system library (GLIBC 2.43) than this runner has; a build on the spot also uses everything this CPU offers."""
+    tag = os.environ.get("SDCPP_REF", "master-1106-532d2c1")
+    src = dest / "sdcpp-src"
+    t = time.time()
+    r = sh(["git", "clone", "--quiet", "--depth", "1", "--branch", tag, "--recurse-submodules", "--shallow-submodules",
+            "https://github.com/leejet/stable-diffusion.cpp", str(src)])
     if r.returncode != 0:
-        raise SystemExit("sd.cpp download failed")
-    with zipfile.ZipFile(z) as zf:
-        zf.extractall(dest / "sdcpp")
-    exe = None
-    for p in sorted((dest / "sdcpp").rglob("*")):
-        if p.is_file() and p.name in ("sd-cli", "sd"):
-            exe = p
-            break
-    if not exe:
-        raise SystemExit("no sd-cli in " + a["name"] + ": " + ", ".join(str(p) for p in (dest / "sdcpp").rglob("*"))[:600])
-    exe.chmod(0o755)
-    env = dict(os.environ, LD_LIBRARY_PATH=str(exe.parent) + ":" + os.environ.get("LD_LIBRARY_PATH", ""))
-    log("sd.cpp:", a["name"], "->", exe)
-    return str(exe), env, rel["tag_name"]
+        raise SystemExit("sd.cpp clone failed: " + (r.stderr or "")[-400:])
+    r = sh(["cmake", "-S", str(src), "-B", str(src / "build"), "-DCMAKE_BUILD_TYPE=Release"])
+    if r.returncode != 0:
+        raise SystemExit("sd.cpp cmake failed: " + ((r.stdout or "") + (r.stderr or ""))[-600:])
+    jobs = str(os.cpu_count() or 4)
+    r = sh(["cmake", "--build", str(src / "build"), "--config", "Release", "-j", jobs, "--target", "sd-cli"])
+    if r.returncode != 0:
+        r = sh(["cmake", "--build", str(src / "build"), "--config", "Release", "-j", jobs])
+    exe = next((p for p in [src / "build/bin/sd-cli", src / "build/bin/sd"] if p.exists()), None)
+    if r.returncode != 0 or not exe:
+        raise SystemExit("sd.cpp build failed: " + ((r.stdout or "") + (r.stderr or ""))[-900:])
+    log(f"sd.cpp {tag} built in {time.time()-t:.0f} s -> {exe}")
+    return str(exe), dict(os.environ), tag
 
 def run_local(items, job, out, summary):
     work = Path(os.environ.get("RUNNER_TEMP", "/tmp")) / "art"
