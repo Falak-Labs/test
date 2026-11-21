@@ -17,10 +17,12 @@ Episodes so far: `specs/sm01.yml` Zero Electricity (windtower, falaj, igloo, ond
 
 ## 1. Pick four builds
 - One idea that makes them one fight: an enemy (heat, water, gravity, time, ...) or a place.
-- All four must have the SAME Arabic narrator, because the Arabic cut plays the builds' own voices: either four
-  Egyptian ones (builds 24-40 and the even ones from 42) or four Saudi ones (the odd ones from 41; `ar_alt.kits` in
-  voices.yml). A Saudi episode needs its own closing lines: copy `series/survivalpromo_lines_ar_sa.txt` to a new kit
-  written in Saudi dialect, add that kit to `ar_alt.kits`, and set `promo: <kit>` in the spec's `ar:` block.
+- All four must have the SAME Arabic narrator, because the Arabic cut plays the builds' own voices:
+  `python3 show/stock.py` lists the builds still free, by narrator (Egyptian: builds 24-40 and the even ones from 42;
+  Saudi Mansour: the odd ones from 41, `ar_alt.kits` in voices.yml; Saudi NAMAA: builds 6-20).
+  A Saudi episode needs Saudi lines read by Mansour: add the episode's kit to `ar_alt.kits`, and for the closing
+  lines copy `series/survivalpromo_lines_ar_sa.txt` to a new kit in Saudi dialect (also in `ar_alt.kits`), then set
+  `promo: <kit>` and `or_boss` / `next` in the spec's `ar:` block.
 - Level 1 is the whole short cut: put the build with the strongest picture first. The last level's music plays under
   the results card: give it the `ondol` bed.
 

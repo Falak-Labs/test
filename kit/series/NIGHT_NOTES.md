@@ -1232,3 +1232,50 @@
 - Lessons: Camera.key(t, x, y, z, dur) starts moving AT t: to finish a pull-back on a word, start it early and let dur
   end on the word. A white or pale subject on the golden horizon washes out (the lift set): use a grey or dusk palette
   there. person(): the "point" hand is at (x + 40u*face, y - 150u) with u = h / 140 (put a held phone there).
+
+## Nov 21 2026, afternoon (this chat): the 4-minute show goes daily, in English and Arabic
+- The owner answered "Publish now" (14:07 PT) and wrote at 14:08 PT: "Let's keep the shorts too / The one you post on ig
+  and tk post it on yt shorts too , and 4 min video. / We gonna do it daily. / So we gonna do daily 4 mins videos for yt
+  'ar & en' plus the min short".
+- Episode 1 (sm01, English only) is out: full video public 22:09Z https://youtu.be/Z-o9Kc-oCe4; short on YouTube Shorts
+  22:13Z https://youtube.com/shorts/5N4qtsV9x6s (269 views in its first 55 minutes; the channel's Shorts get 100-800 in
+  a day), on Instagram and TikTok 22:45Z (state/sm01-survival.json has the links).
+- New: kit/show/build_show.py builds any episode from kit/show/specs/<id>.yml in `en` or `ar` (the old
+  build_survival.py still builds the pilot). kit/show/README.md is the guide (pick, spec, lines, voices, build, post);
+  kit/show/stock.py lists the builds still free by Arabic narrator (10 episodes in stock on Nov 21). The layer now
+  draws Arabic (layout.text / fit / text_width route Arabic through bik.arabic with Tajawal; `side()` mirrors panels),
+  takes every word from a table (layout.T, filled from the spec), has an icon library (layout.ICON), and finds its
+  cues by word ("four", "congrats", ...) instead of fixed word numbers. sm01 through the new builder gives the same
+  7,945 / 2,360 frames as the published files.
+- Episode 2 (sm02) "You vs Water": panama, venice, aswan, palmjumeirah (all four Egyptian in Arabic). English full
+  4:28.9, short 1:20.7; Arabic full 4:52.1, short 1:32.8; all -14.0 LUFS, true peak about -2 dBFS; frames of the four
+  finished files checked. Voices: Easton 8 lines (one harmless diff, "tamed the" heard "tame the"; line 7 reworded
+  after "The open sea." was heard wrong), Egyptian ElevenLabs 8 lines (521 characters; check_ar_voice 3-9% a line) and
+  the three shared closing lines in Arabic (kit survivalpromo, 142 characters; line 1 scores 21% only because Whisper
+  splits "زعماء").
+- Posted for Sun Nov 22 PT. YouTube, uploaded in Studio and SCHEDULED there (they go public by themselves, the
+  owner's computer can be off): Arabic full https://youtu.be/ugHmQS08wiY 09:00 PT (20:00 Riyadh), English full
+  https://youtu.be/DUbMYDcOxaY 10:00 PT, Arabic Short https://youtube.com/shorts/jGhNKsbtOr4 10:30 PT, English Short
+  https://youtube.com/shorts/ijimsOUeC9A 12:15 PT. Buffer (posts/sm02.yml): Arabic Instagram + TikTok 18:30Z, English
+  Instagram + TikTok 20:15Z. post.py: `text:` may now be {default: ..., tiktok: ...} (the Arabic TikTok caption leaves
+  out the word YouTube).
+- YouTube Studio, more of the how-to (see the morning entry for the upload itself): channels Congrats Engineer
+  UCDkfxHa7q5Ea0OoiSSi8DHA, Kef Tenbeni UC8qDuZpMDQXRrowaNp29vow; switch with the Account button > "Switch account" >
+  the `ytd-account-item-renderer` whose text has the handle (the page reloads: read the result in a second call), and
+  switch back to the channel you found it on (Yallah Say MA on Nov 21). To schedule: on the Visibility step click
+  `#second-container-expand-button`, the date in `#datepicker-trigger` is already tomorrow (the browser is on Pacific
+  time), put the time into `ytcp-datetime-picker #time-of-day-container input` (focus, select, insertText "10:00 AM",
+  Enter, blur), wait until the progress label no longer says "Uploading", then `#done-button` (it reads "Schedule");
+  the dialog answers "Your video will be set to public on ...". After the Next clicks the Details radios are gone from
+  the DOM: read them before. A video over 3:00 lands under Videos, a shorter vertical one under Shorts
+  (/videos/short). The "Related video" link on a Short is refused: "Only channel owner can gain access" (the Chrome
+  login is a manager; the primary owner must finish YouTube's verification). Large files travel on the `uploads`
+  branch: force-push one orphan commit with the files, fetch them in the page from raw.githubusercontent.com, then
+  force-push an empty commit again (the proxy refuses to delete the branch).
+- The permission check of this chat refused "Public" until the owner said yes; after his "We gonna do it daily" the
+  four scheduled uploads went through. A run that is refused must leave the video private and tell him.
+- ElevenLabs at 22:15Z, before episode 2's Arabic: 24,701 characters left, reset Dec 12. Six Arabic builds a day use
+  2,500-5,400, the show about 520 more: the Arabic voice runs out in about a week, well before the reset. The owner
+  was told with the options (Pro is $99 a month for 600,000; Creator is $22 for 121,000).
+- For the build runs: see the new LINEUP rule (leave posts/sm*.yml and media/sm* alone; the show's Arabic TikTok and
+  Instagram posts sit in the same Buffer queues as the builds).

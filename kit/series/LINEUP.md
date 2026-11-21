@@ -34,13 +34,14 @@ Rules:
   "Follow us on YouTube ... @congratsengineer / @kef.tenbeni". It is added by post.py; do not write it into `text:`.
   Arabic TikTok is left out on purpose (spam refusals). Money plan and platform rules: project doc
   claude/build-it-money-plan.md (read it before changing pace or platforms).
-- The 4-minute show (owner, Nov 21 09:26 PT: "we can keep the tk and ig short and YouTube 4 mins", the short one ending
-  with "check out yt channel"): YouTube gets the full 4-minute video, TikTok + Instagram get a 1-2 minute cut that ends
-  by sending people to the YouTube channel. Episode 1 is posts/sm01-survival.yml + media/sm01-survival-en.mp4. Leave
-  both alone: do not retire that video until its TikTok and Instagram posts are sent, and never take its en.youtube off
-  hold (the full video is uploaded in YouTube Studio, not through Buffer, so it uses no Buffer YouTube slot). The daily
-  runs and the 2-a-day YouTube rule are unchanged. State and how-to: NIGHT_NOTES (Nov 21) and the project doc
-  claude/build-it-4-minute-show.md.
+- The 4-minute show, daily in both languages (owner, Nov 21: "we can keep the tk and ig short and YouTube 4 mins", then
+  14:08 PT: "daily 4 mins videos for yt 'ar & en' plus the min short", "the one you post on ig and tk post it on yt
+  shorts too"). It has its own daily task ("Build-It 4-minute show") and its own guide, kit/show/README.md; the two
+  build runs do not make it. What the build runs must know: its files are posts/sm*.yml + media/sm*-en.mp4 /
+  media/sm*-ar.mp4 (the 1-2 minute cuts for TikTok + Instagram). Leave them alone: retire a media/sm* file only when
+  its TikTok and Instagram posts are all sent, and never take a YouTube target of a posts/sm*.yml off hold (its full
+  video and its Short go up in YouTube Studio, not through Buffer, so the show uses none of Buffer's two YouTube posts
+  per 24 hours). Its TikTok and Instagram posts do count toward Buffer's 10 queued posts per channel.
 - Entries marked "idea" are proposals: check them with a web search before writing; replace one only if it is not
   promised yet and the facts do not hold up.
 
