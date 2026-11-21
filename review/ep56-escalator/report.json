@@ -1,0 +1,134 @@
+{
+ "slug": "ep56-escalator",
+ "kit": "escalator",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.17,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "9/233",
+   "mix_lines_off": [
+    "L 4 1 diff  | But nobody can hop onto stairs that are moving. You trip on the first edge.",
+    "L11 3 diff  | London's first, in 1898, scared shoppers so much that staff stood at the top with brandy and smelling salts.",
+    "L12 5 diff  | Half a meter a second, 126 meters long under Moscow and one in Japan with just five steps."
+   ],
+   "size_mb": 20.0,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو السلم بيطلّعك لوحده، ونص درجه راجع مقلوب تحت الأرض، مبروك، كده انت بنيت سلم كهربا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس السلم بيهدّ الحيل، والأسانسير بياخد كام واحد بس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتعمل الدرج حلقة على جنزير، وموتور فوق بيلفّها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس محدش يقدر ينط على سلم ماشي، هيتكعبل في أول درجة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فكل درجة ماشية على أربع عجل فوق قضيبين. وعند الطرفين القضيبين بيتساووا، والدرج يفرد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس فوق، الدرج بيدخل جوه الأرض، ورباط الجزمة ممكن يدخل معاه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتركّب مشط: سنان حديد داخلة في مجاري الدرجة، تشيل أي حاجة من عليها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس لو الدرابزين أبطأ من الدرج، هتتشد لورا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فنفس الموتور بيلفّ الدرابزين الكاوتش، وإيدك ماشية مع رجلك بالظبط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تنزل، تابعني، عشان اللي جاي هنبني أوبرا سيدني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "وأول واحد في لندن، سنة ألف وتمنمية تمانية وتسعين، خضّ الناس لدرجة إن الموظفين وقفوا فوق يفوّقوا اللي داخ.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "نص متر في الثانية، مية ستة وعشرين متر في موسكو، وواحد صغنن في اليابان خمس درجات بس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت سلم كهربا بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وتيتة لسه واقفة تحت من الصبح، مستنية الدرجة تقف عشان تطلع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.47,
+   "lufs": -14.0,
+   "peak": -1.9,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.8,
+   "cover": true
+  }
+ }
+}

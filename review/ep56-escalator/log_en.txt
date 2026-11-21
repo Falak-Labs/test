@@ -1,0 +1,13 @@
+escalator: 67.15s, 2015 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/escalator/cover.png: ['ESCALATOR'] (frame 0 of the video)
+video done in 439s
+audio done
+final out/escalator/escalator_final.mp4
+QA  duration 67.17s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2015
+QA sheet out/escalator/qa_sheet.png
