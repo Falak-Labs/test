@@ -1,4 +1,4 @@
-# Post status 2026-11-21T11:23:56+00:00
+# Post status 2026-11-21T11:29:19+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -323,6 +323,7 @@
 | ep56-escalator | en.instagram | scheduled |  | 2026-11-22T00:00:00.000Z |
 | ep56-escalator | en.tiktok | scheduled |  | 2026-11-22T00:00:00.000Z |
 | ep57-operahouse | ar.instagram | scheduled |  | 2026-11-21T23:00:00.000Z |
+| ep57-operahouse | ar.tiktok | scheduled |  | 2026-11-21T23:00:00.000Z |
 | ep57-operahouse | ar.youtube | scheduled |  | 2026-11-21T23:00:00.000Z |
 | ep57-operahouse | en.instagram | scheduled |  | 2026-11-22T02:30:00.000Z |
 | ep57-operahouse | en.tiktok | scheduled |  | 2026-11-22T02:30:00.000Z |

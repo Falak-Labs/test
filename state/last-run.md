@@ -1,4 +1,4 @@
-# Last posting run 2026-11-21T04:08:59+00:00
+# Last posting run 2026-11-21T11:29:12+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -15,22 +15,9 @@
 - ep53-fridge en.youtube: on hold in posts/ep53-fridge.yml
 - ep53-fridge ar.youtube: on hold in posts/ep53-fridge.yml
 - ep55-suez en.youtube: on hold in posts/ep55-suez.yml
-- ep55-suez en.instagram: scheduled (Sat 21 Nov 21:30 UTC) id 6b01195d20a2d09a0ad0db80
-- ep55-suez en.tiktok: scheduled (Sat 21 Nov 21:30 UTC) id 6b01195ddd205ed779b9c7fb
 - ep55-suez ar.youtube: on hold in posts/ep55-suez.yml
-- ep55-suez ar.instagram: scheduled (Sat 21 Nov 17:00 UTC) id 6b01195e9ffbc8503cf86676
-- ep55-suez ar.tiktok: scheduled (Sat 21 Nov 17:00 UTC) id 6b01195fd9cbb430a11a4ea7
 - ep56-escalator en.youtube: on hold in posts/ep56-escalator.yml
-- ep56-escalator en.instagram: scheduled (Sun 22 Nov 00:00 UTC) id 6b01196020a2d09a0ad0dd3a
-- ep56-escalator en.tiktok: scheduled (Sun 22 Nov 00:00 UTC) id 6b0119605102766245f52e11
 - ep56-escalator ar.youtube: on hold in posts/ep56-escalator.yml
-- ep56-escalator ar.instagram: scheduled (Sat 21 Nov 20:00 UTC) id 6b0119645e993799d84e97a9
-- ep56-escalator ar.tiktok: scheduled (Sat 21 Nov 20:00 UTC) id 6b01196420a2d09a0ad0de55
-- ep57-operahouse en.youtube: scheduled (Sun 22 Nov 02:30 UTC) id 6b011965d9cbb430a11a4f9e
-- ep57-operahouse en.instagram: scheduled (Sun 22 Nov 02:30 UTC) id 6b011965d9cbb430a11a4fc7
-- ep57-operahouse en.tiktok: scheduled (Sun 22 Nov 02:30 UTC) id 6b0119665102766245f52f07
-- ep57-operahouse ar.youtube: scheduled (Sat 21 Nov 23:00 UTC) id 6b011967d9cbb430a11a505e
-- ep57-operahouse ar.instagram: scheduled (Sat 21 Nov 23:00 UTC) id 6b01196720a2d09a0ad0dfb5
-- ep57-operahouse ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- en: 9 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=141; t=890, "24h"; r=581; t=82036, "30d"; r=1502; t=1650230; ratelimit-policy="15m"; q=1
-- ar: 8 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=142; t=889, "24h"; r=582; t=82035, "30d"; r=1456; t=1656358; ratelimit-policy="15m"; q=1
+- ep57-operahouse ar.tiktok: scheduled (Sat 21 Nov 23:00 UTC) id 6b0180890247969092c83be8
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=140; t=580, "24h"; r=555; t=55633, "30d"; r=1476; t=1623827; ratelimit-policy="15m"; q=1
+- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=139; t=582, "24h"; r=555; t=55633, "30d"; r=1429; t=1629956; ratelimit-policy="15m"; q=1
