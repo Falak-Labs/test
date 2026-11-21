@@ -1,4 +1,4 @@
-# Post status 2026-11-21T07:17:24+00:00
+# Post status 2026-11-21T11:23:56+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -300,12 +300,12 @@
 | ep51-burjalarab | ar.tiktok | sent |  | 2026-11-20T23:01:46.354Z https://tiktok.com/@kef.tenbeni/video/7710392515391720718 |
 | ep51-burjalarab | en.instagram | sent |  | 2026-11-21T02:31:39.926Z https://www.instagram.com/reel/Df_KYVCt9CP/ |
 | ep51-burjalarab | en.tiktok | sent |  | 2026-11-21T02:31:14.892Z https://tiktok.com/@congratsengineer/video/7710446506112732430 |
-| ep52-palmjumeirah | ar.instagram | scheduled |  | 2026-11-21T08:00:00.000Z |
-| ep52-palmjumeirah | ar.tiktok | scheduled |  | 2026-11-21T08:00:00.000Z |
+| ep52-palmjumeirah | ar.instagram | sent |  | 2026-11-21T08:02:43.145Z https://www.instagram.com/reel/Df_wOrQBPZx/ |
+| ep52-palmjumeirah | ar.tiktok | sent |  | 2026-11-21T08:02:06.096Z https://tiktok.com/@kef.tenbeni/video/7710531461509582094 |
 | ep52-palmjumeirah | en.instagram | scheduled |  | 2026-11-21T14:00:00.000Z |
 | ep52-palmjumeirah | en.tiktok | scheduled |  | 2026-11-21T14:00:00.000Z |
-| ep53-fridge | ar.instagram | scheduled |  | 2026-11-21T11:00:00.000Z |
-| ep53-fridge | ar.tiktok | scheduled |  | 2026-11-21T11:00:00.000Z |
+| ep53-fridge | ar.instagram | sent |  | 2026-11-21T11:04:56.240Z https://www.instagram.com/reel/DgAE9Q9BvTp/ |
+| ep53-fridge | ar.tiktok | sent |  | 2026-11-21T11:03:09.684Z https://tiktok.com/@kef.tenbeni/video/7710578072587701517 |
 | ep53-fridge | en.instagram | scheduled |  | 2026-11-21T16:30:00.000Z |
 | ep53-fridge | en.tiktok | scheduled |  | 2026-11-21T16:30:00.000Z |
 | ep54-eiffel | ar.instagram | scheduled |  | 2026-11-21T14:00:00.000Z |
