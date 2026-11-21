@@ -1,0 +1,137 @@
+{
+ "slug": "ep60-microwave",
+ "kit": "microwave",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.63,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "16/231",
+   "mix_lines_off": [
+    "L 1 1 diff  | If you can boil water with no fire by shaking at billions of times a second, congrats, you just built a microwave oven.",
+    "L 2 1 diff  | But fire heats food from the outside in, so the middle wakes.",
+    "L 3 1 diff  | So you borrow a radar tube, the magnetron, it's waves twist water molecules back and forth until they heat up.",
+    "L 5 1 diff  | So you trap them in a metal box. The doors mesh holes are too small for them, but not for light.",
+    "L11 5 diff  | Now the story, in 1945, radar engineer Percy Spencer found the chocolate bar in his pocket had knelt it.",
+    "L12 7 diff  | 2.5 billion flips a second, 12 centimeter waves, and the first oven weighed 340 kilos."
+   ],
+   "size_mb": 19.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو قدرت تغلي المية من غير نار، بس بإنك تهزّها مليارات المرات في الثانية، مبروك، كده انت بنيت ميكروويف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس النار بتسخّن الأكل من برة لجوه، والنص يفضل مستني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتجيب لمبة الرادار، الماجنترون، موجاتها بتلف جزيئات المية رايح جاي لحد ما تسخن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الموجات دي هتطلع برة وتسخّن المطبخ كله، وانت معاه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتقفل عليها صندوق معدن يرجّعها، وحتى شبكة الباب خرومها أصغر من الموجة، بس النور بيعدي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الموجات وهي بتخبط بتعمل حتت سخنة وحتت ساقعة، ونص البيتزا يتحرق ونصها تلج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحط طبق بيلف، يعدّي الأكل على الحتت السخنة، وكل لقمة تاخد دورها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس لو فتحت الباب وهو شغال، الموجات هتطلع عليك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتحط مفاتيح في الباب تفصل الكهربا قبل ما يتفتح ولا شعرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تدوس تشغيل، تابعني، عشان اللي جاي هنبني برج بيزا المايل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "ودلوقتي الحكاية: مهندس رادار اسمه بيرسي سبنسر، لقى الشوكولاتة اللي في جيبه سايحة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "مليارين ونص هزة في الثانية، موجة طولها اتناشر سانتي، وأول جهاز كان وزنه تلتمية وأربعين كيلو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت ميكروويف بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "وأمك لسه بتقولك: ابعد عن الميكروويف، هيجيلك إشعاع!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 72.23,
+   "lufs": -14.0,
+   "peak": -1.7,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.5,
+   "cover": true
+  }
+ }
+}

@@ -1,0 +1,7 @@
+microwave_ar_sa: 72.23s, 2167 frames
+cover out/microwave_ar_sa/cover.png: ['ميكروويف'] (frame 0 of the video)
+video done in 302s
+audio done
+final out/microwave_ar_sa/microwave_ar_sa_final.mp4
+QA  duration 72.23s  loudness -14.0 LUFS  true peak -1.7 dBFS  1080x1920 @ 30/1  frames 2167
+QA sheet out/microwave_ar_sa/qa_sheet.png
