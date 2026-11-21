@@ -1,0 +1,679 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 36.38,
+ "words": 121,
+ "words_per_sec": 3.33,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 2.333,
+   "text": "No boat. No bridge. No dry land.",
+   "words": [
+    {
+     "w": "No",
+     "start": 0.08,
+     "end": 0.32
+    },
+    {
+     "w": "boat.",
+     "start": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "No",
+     "start": 0.73,
+     "end": 1.02
+    },
+    {
+     "w": "bridge.",
+     "start": 1.02,
+     "end": 1.31
+    },
+    {
+     "w": "No",
+     "start": 1.45,
+     "end": 1.71
+    },
+    {
+     "w": "dry",
+     "start": 1.71,
+     "end": 1.97
+    },
+    {
+     "w": "land.",
+     "start": 1.97,
+     "end": 2.23
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 2.698,
+   "end": 6.198,
+   "text": "Just you, and four fights with water that you are not supposed to win.",
+   "words": [
+    {
+     "w": "Just",
+     "start": 2.798,
+     "end": 3.003
+    },
+    {
+     "w": "you,",
+     "start": 3.003,
+     "end": 3.209
+    },
+    {
+     "w": "and",
+     "start": 3.209,
+     "end": 3.414
+    },
+    {
+     "w": "four",
+     "start": 3.414,
+     "end": 3.619
+    },
+    {
+     "w": "fights",
+     "start": 3.619,
+     "end": 3.824
+    },
+    {
+     "w": "with",
+     "start": 3.824,
+     "end": 4.03
+    },
+    {
+     "w": "water",
+     "start": 4.03,
+     "end": 4.387
+    },
+    {
+     "w": "that",
+     "start": 4.387,
+     "end": 4.592
+    },
+    {
+     "w": "you",
+     "start": 4.592,
+     "end": 4.798
+    },
+    {
+     "w": "are",
+     "start": 4.798,
+     "end": 5.003
+    },
+    {
+     "w": "not",
+     "start": 5.003,
+     "end": 5.208
+    },
+    {
+     "w": "supposed",
+     "start": 5.208,
+     "end": 5.717
+    },
+    {
+     "w": "to",
+     "start": 5.717,
+     "end": 5.923
+    },
+    {
+     "w": "win.",
+     "start": 5.923,
+     "end": 6.128
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 6.562,
+   "end": 9.635,
+   "text": "Beat all four, and congrats, you just tamed the water.",
+   "words": [
+    {
+     "w": "Beat",
+     "start": 6.662,
+     "end": 6.819
+    },
+    {
+     "w": "all",
+     "start": 6.819,
+     "end": 6.975
+    },
+    {
+     "w": "four,",
+     "start": 6.975,
+     "end": 7.132
+    },
+    {
+     "w": "and",
+     "start": 7.222,
+     "end": 7.476
+    },
+    {
+     "w": "congrats,",
+     "start": 7.476,
+     "end": 7.917
+    },
+    {
+     "w": "you",
+     "start": 7.917,
+     "end": 8.171
+    },
+    {
+     "w": "just",
+     "start": 8.171,
+     "end": 8.425
+    },
+    {
+     "w": "tamed",
+     "start": 8.425,
+     "end": 8.867
+    },
+    {
+     "w": "the",
+     "start": 8.867,
+     "end": 9.12
+    },
+    {
+     "w": "water.",
+     "start": 9.12,
+     "end": 9.562
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 10.0,
+   "end": 13.719,
+   "text": "Level one. Panama. Two oceans, and a wall of mountains between them.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 10.09,
+     "end": 10.484
+    },
+    {
+     "w": "one.",
+     "start": 10.484,
+     "end": 10.71
+    },
+    {
+     "w": "Panama.",
+     "start": 10.88,
+     "end": 11.29
+    },
+    {
+     "w": "Two",
+     "start": 11.45,
+     "end": 11.676
+    },
+    {
+     "w": "oceans,",
+     "start": 11.676,
+     "end": 12.07
+    },
+    {
+     "w": "and",
+     "start": 12.18,
+     "end": 12.351
+    },
+    {
+     "w": "a",
+     "start": 12.351,
+     "end": 12.522
+    },
+    {
+     "w": "wall",
+     "start": 12.522,
+     "end": 12.693
+    },
+    {
+     "w": "of",
+     "start": 12.693,
+     "end": 12.864
+    },
+    {
+     "w": "mountains",
+     "start": 12.864,
+     "end": 13.161
+    },
+    {
+     "w": "between",
+     "start": 13.161,
+     "end": 13.459
+    },
+    {
+     "w": "them.",
+     "start": 13.459,
+     "end": 13.63
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 14.083,
+   "end": 19.01,
+   "text": "Level two. You're over the mountains, but now the ground is soft mud, and stone sinks like a boot.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 14.183,
+     "end": 14.602
+    },
+    {
+     "w": "two.",
+     "start": 14.602,
+     "end": 14.843
+    },
+    {
+     "w": "You're",
+     "start": 14.993,
+     "end": 15.157
+    },
+    {
+     "w": "over",
+     "start": 15.157,
+     "end": 15.443
+    },
+    {
+     "w": "the",
+     "start": 15.443,
+     "end": 15.607
+    },
+    {
+     "w": "mountains,",
+     "start": 15.607,
+     "end": 15.893
+    },
+    {
+     "w": "but",
+     "start": 16.023,
+     "end": 16.25
+    },
+    {
+     "w": "now",
+     "start": 16.25,
+     "end": 16.477
+    },
+    {
+     "w": "the",
+     "start": 16.477,
+     "end": 16.704
+    },
+    {
+     "w": "ground",
+     "start": 16.704,
+     "end": 16.932
+    },
+    {
+     "w": "is",
+     "start": 16.932,
+     "end": 17.159
+    },
+    {
+     "w": "soft",
+     "start": 17.159,
+     "end": 17.386
+    },
+    {
+     "w": "mud,",
+     "start": 17.386,
+     "end": 17.613
+    },
+    {
+     "w": "and",
+     "start": 17.743,
+     "end": 17.941
+    },
+    {
+     "w": "stone",
+     "start": 17.941,
+     "end": 18.14
+    },
+    {
+     "w": "sinks",
+     "start": 18.14,
+     "end": 18.338
+    },
+    {
+     "w": "like",
+     "start": 18.338,
+     "end": 18.536
+    },
+    {
+     "w": "a",
+     "start": 18.536,
+     "end": 18.735
+    },
+    {
+     "w": "boot.",
+     "start": 18.735,
+     "end": 18.933
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 19.375,
+   "end": 24.604,
+   "text": "Level three. The Nile. Every summer it floods, and nobody knows if it will drown the village or starve it.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 19.465,
+     "end": 19.897
+    },
+    {
+     "w": "three.",
+     "start": 19.897,
+     "end": 20.145
+    },
+    {
+     "w": "The",
+     "start": 20.265,
+     "end": 20.49
+    },
+    {
+     "w": "Nile.",
+     "start": 20.49,
+     "end": 20.715
+    },
+    {
+     "w": "Every",
+     "start": 20.855,
+     "end": 21.318
+    },
+    {
+     "w": "summer",
+     "start": 21.318,
+     "end": 21.642
+    },
+    {
+     "w": "it",
+     "start": 21.642,
+     "end": 21.829
+    },
+    {
+     "w": "floods,",
+     "start": 21.829,
+     "end": 22.015
+    },
+    {
+     "w": "and",
+     "start": 22.125,
+     "end": 22.295
+    },
+    {
+     "w": "nobody",
+     "start": 22.295,
+     "end": 22.717
+    },
+    {
+     "w": "knows",
+     "start": 22.717,
+     "end": 22.888
+    },
+    {
+     "w": "if",
+     "start": 22.888,
+     "end": 23.058
+    },
+    {
+     "w": "it",
+     "start": 23.058,
+     "end": 23.228
+    },
+    {
+     "w": "will",
+     "start": 23.228,
+     "end": 23.398
+    },
+    {
+     "w": "drown",
+     "start": 23.398,
+     "end": 23.568
+    },
+    {
+     "w": "the",
+     "start": 23.568,
+     "end": 23.738
+    },
+    {
+     "w": "village",
+     "start": 23.738,
+     "end": 24.035
+    },
+    {
+     "w": "or",
+     "start": 24.035,
+     "end": 24.205
+    },
+    {
+     "w": "starve",
+     "start": 24.205,
+     "end": 24.375
+    },
+    {
+     "w": "it.",
+     "start": 24.375,
+     "end": 24.545
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 24.969,
+   "end": 29.281,
+   "text": "Final level. The open sea. You want a new island, and one big storm can wash it away.",
+   "words": [
+    {
+     "w": "Final",
+     "start": 25.099,
+     "end": 25.384
+    },
+    {
+     "w": "level.",
+     "start": 25.384,
+     "end": 25.669
+    },
+    {
+     "w": "The",
+     "start": 25.829,
+     "end": 25.987
+    },
+    {
+     "w": "open",
+     "start": 25.987,
+     "end": 26.261
+    },
+    {
+     "w": "sea.",
+     "start": 26.261,
+     "end": 26.419
+    },
+    {
+     "w": "You",
+     "start": 26.599,
+     "end": 26.758
+    },
+    {
+     "w": "want",
+     "start": 26.758,
+     "end": 26.916
+    },
+    {
+     "w": "a",
+     "start": 26.916,
+     "end": 27.075
+    },
+    {
+     "w": "new",
+     "start": 27.075,
+     "end": 27.233
+    },
+    {
+     "w": "island,",
+     "start": 27.233,
+     "end": 27.509
+    },
+    {
+     "w": "and",
+     "start": 27.639,
+     "end": 27.821
+    },
+    {
+     "w": "one",
+     "start": 27.821,
+     "end": 28.003
+    },
+    {
+     "w": "big",
+     "start": 28.003,
+     "end": 28.185
+    },
+    {
+     "w": "storm",
+     "start": 28.185,
+     "end": 28.367
+    },
+    {
+     "w": "can",
+     "start": 28.367,
+     "end": 28.549
+    },
+    {
+     "w": "wash",
+     "start": 28.549,
+     "end": 28.73
+    },
+    {
+     "w": "it",
+     "start": 28.73,
+     "end": 28.912
+    },
+    {
+     "w": "away.",
+     "start": 28.912,
+     "end": 29.229
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 29.646,
+   "end": 36.406,
+   "text": "Four levels, and you never even got wet. You beat mountains, mud, floods and storms, with rain, wood, rock and sand.",
+   "words": [
+    {
+     "w": "Four",
+     "start": 29.786,
+     "end": 29.998
+    },
+    {
+     "w": "levels,",
+     "start": 29.998,
+     "end": 30.366
+    },
+    {
+     "w": "and",
+     "start": 30.506,
+     "end": 30.773
+    },
+    {
+     "w": "you",
+     "start": 30.773,
+     "end": 31.041
+    },
+    {
+     "w": "never",
+     "start": 31.041,
+     "end": 31.506
+    },
+    {
+     "w": "even",
+     "start": 31.506,
+     "end": 31.971
+    },
+    {
+     "w": "got",
+     "start": 31.971,
+     "end": 32.239
+    },
+    {
+     "w": "wet.",
+     "start": 32.239,
+     "end": 32.506
+    },
+    {
+     "w": "You",
+     "start": 32.676,
+     "end": 33.011
+    },
+    {
+     "w": "beat",
+     "start": 33.011,
+     "end": 33.347
+    },
+    {
+     "w": "mountains,",
+     "start": 33.347,
+     "end": 33.931
+    },
+    {
+     "w": "mud,",
+     "start": 33.931,
+     "end": 34.266
+    },
+    {
+     "w": "floods",
+     "start": 34.396,
+     "end": 34.616
+    },
+    {
+     "w": "and",
+     "start": 34.616,
+     "end": 34.836
+    },
+    {
+     "w": "storms,",
+     "start": 34.836,
+     "end": 35.056
+    },
+    {
+     "w": "with",
+     "start": 35.106,
+     "end": 35.339
+    },
+    {
+     "w": "rain,",
+     "start": 35.339,
+     "end": 35.573
+    },
+    {
+     "w": "wood,",
+     "start": 35.573,
+     "end": 35.806
+    },
+    {
+     "w": "rock",
+     "start": 35.856,
+     "end": 36.016
+    },
+    {
+     "w": "and",
+     "start": 36.016,
+     "end": 36.176
+    },
+    {
+     "w": "sand.",
+     "start": 36.176,
+     "end": 36.336
+    }
+   ]
+  }
+ ]
+}
