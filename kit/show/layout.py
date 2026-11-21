@@ -98,6 +98,8 @@ def flash(c, a, col="#FFFFFF"):
 
 def fit(c, s, x, y, size, color, font="Poppins-Black", max_w=960, **kw):
     k = min(1.0, max_w / max(1.0, text_width(s, size, font)))
+    if k < 1 and kw.get("stroke_w"):
+        kw["stroke_w"] = kw["stroke_w"] * max(k, 0.5)             # a shrunk word keeps a matching outline
     text(c, s, x, y, size * k, color, font, **kw)
     return size * k
 
