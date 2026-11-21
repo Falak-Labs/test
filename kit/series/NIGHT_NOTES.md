@@ -1073,3 +1073,34 @@
   falaj.basket() draws a 1200-unit rope (it hangs from a windlass): write your own head basket. panama.cargo_ship's
   white bridge blooms: tone it down with a grey overlay. English anchors: "HAND" also matches "HANDRAIL" (startswith):
   use self.w(..., nth=1) for English only.
+- Nov 20 20:44 PT, the owner: "Every day 4 mins videos / We need to upgrade our contents / Try new themes new sounds effects
+  new sounds / We need to be come a trend everywhere / Let's work on something that will attrac people to watch and get to
+  the moooon". Done the same evening (this chat): a PILOT of the 4-minute show, sent to him to watch. NOT POSTED, and the
+  daily runs are unchanged until he answers.
+  - "SURVIVAL MODE: ZERO ELECTRICITY", 264.6 s (4:24.6), 1080x1920, -14.0 LUFS, true peak -2.1 dBFS. One story from four
+    finished English builds as four game levels: 37 wind tower (boss HEAT), 44 falaj (THIRST), 47 igloo (COLD), 50 ondol
+    (THE NIGHT). No new animation. Each build is cut to hook..fix4 (the follow line and its pause dropped), the reveal, a
+    2.5 s level-clear panel (achievement + three stat cards + score), then the joke; stat line and closer dropped.
+  - New on top: a cold open (three "no" icons, four clean world shots drawn with draw_world, the title), a level card
+    before each build, a game bar that covers the kit's HUD pill (level, boss name, a health bar that each fix knocks
+    down by a quarter, score +250 per fix), "achievement unlocked", a results card ("WORLD CLEAR", power used 0 W, rank).
+    New narration: kit/series/survival1_lines.txt (9 lines; voice.yml kit=survival1 langs=en -> series/voice/survival1.*).
+    New sound, all synthesized in kit/show/sounds.py (no samples, no licences): a music bed per world that adds layers
+    with every fix (desert: D Phrygian dominant, maqsum drums, oud-like plucks; falaj: water drops; arctic: bells and
+    wind; ondol: G pentatonic in 12/8 with a janggu), and game jingles in each level's key (boss appears / attacks / hit
+    / down, achievement, level start, fanfare). Music sits about 13 dB under the voice and dips 6 dB while anyone talks.
+  - How to build it again: python3 kit/show/build_survival.py <dir with windtower.mp4 falaj.mp4 igloo.mp4 ondol.mp4> <out>
+    (steps prep audio stills video mux qa; here prep 90 s, audio 60 s, video 280 s on 2 CPUs). The builds' videos are
+    media/ep37-windtower-en.mp4, ep44-falaj-en.mp4, ep50-ondol-en.mp4 and `git show 7897b0a:media/ep47-igloo-en.mp4`
+    (retired from media/). The 124.8 MB master is NOT in the repo; the owner got a 43.6 MB copy.
+  - Checked: 28 frames across the finished file and every kind of cut (sheet), each sound piece against the final mix
+    (all within 4 ms of the plan), every music pattern against its scale. NOT checked: how it sounds. This session
+    cannot listen, and the owner was told his ears are the test.
+  - Platform rules for a vertical video over 3 minutes (checked Nov 19-20): YouTube treats it as a regular video (it
+    counts toward watch hours), but Buffer only posts Shorts to YouTube, so it needs a YouTube Studio upload (untested).
+    Instagram allows it (Buffer: Reels of 3 s to 15 min, under 300 MB) but does not recommend Reels over 3 minutes to
+    non-followers: post it there as two halves under 3 minutes. TikTok takes it (over 1 minute is also the pay floor).
+  - If he likes it: a daily episode from four builds (57 builds = 14 episodes in stock), the day's builds planned in sets
+    of four on one theme, two more themes to test against this one ("The King's Engineer", "Level Up"), an Arabic
+    version (about 700 ElevenLabs characters for the nine lines; the plan was almost empty on Nov 20), and a workflow so
+    the runs can build it on Actions. The spec is in the project doc claude/build-it-4-minute-show.md.
