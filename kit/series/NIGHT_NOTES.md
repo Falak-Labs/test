@@ -983,3 +983,93 @@
   build (put the strongest topic there) and hold it on the 1st. The same slot on the next day fails too (the earlier
   post is still in the window by seconds), so every run checks the rule for each YouTube slot and holds YouTube for a
   language when none of its slots passes (Sunday's midday slots all fail after 54 + the evening run's post).
+
+## Nov 20 2026 (evening run, 18:37 PT): 55 Suez Canal, 56 escalator, 57 Sydney Opera House (for Sat Nov 21)
+- TODAY Nov 20 PT, TOMORROW Sat Nov 21 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT before the
+  push). PST: Arabic 09:00 / 12:00 / 15:00 PT = 17:00Z / 20:00Z / 23:00Z Nov 21; English 13:30 / 16:00 / 18:30 PT =
+  21:30Z Nov 21 / 00:00Z / 02:30Z Nov 22.
+- Status 02:43Z (Nov 20 PT, builds 46-51): English Instagram + TikTok all six live at their slots; English YouTube 46
+  and 49 failed on the 2-in-24-h limit (41 went out at 21:43Z on a retry made in Buffer). Arabic Instagram all six live
+  (48 on its requeue); Arabic YouTube 46 and 49 live; Arabic TikTok 46, 47, 51 live, 48 / 49 refused and waiting for
+  01:30Z / 04:30Z Nov 23, 50 refused twice ("error"), and 42's requeue (01:30Z Nov 21) was refused again ("error").
+- Metrics 02:47Z: 168,374 views (+11,191). English YouTube numbers have not been refreshed by Buffer since Nov 20
+  02:25Z (+0, not real); English Instagram last refreshed 19:09Z. Arabic Instagram's best day of Season 3 (+4,340:
+  igloo 1,629 Mansour, Aswan 1,427, ondol 910). Six a day: English views per post less than half of the Season 3
+  median (EN Instagram 809 vs 1,980, EN TikTok 65 vs 328), Arabic per post unchanged. Doc updated.
+- Pages: retired ep38, ep39, ep47 (all posts sent; 37 still waits for its Arabic TikTok, 40-46 and 48-50 have failed
+  YouTube or waiting/errored Arabic TikToks): media/ 669 -> 570 MB before tonight's six videos. Next: the oldest builds
+  whose posts are all "sent" (51 is; 37 after 01:30Z Nov 22).
+- A/B test: 55 and 57 are odd -> `suez` and `operahouse` in voices.yml ar_alt.kits (Mansour, Saudi scripts); 56
+  escalator Egyptian.
+- YouTube (rolling 24 h rule, checked per slot): English 13:30 PT fails (41 at 21:43:50Z Nov 20 + 54), 16:00 / 18:30
+  pass; Arabic 09:00 PT fails (49 at 17:02Z Nov 20 + 54), 12:00 / 15:00 pass. YouTube went to 57 (EN 18:30, AR 15:00
+  PT); 55 and 56 hold it. For the midday run of Nov 21 (Sun Nov 22 PT): English 14:00Z / 16:30Z / 19:00Z Nov 22 all have
+  54 (19:00Z Nov 21, by seconds) or 57 (02:30Z Nov 22) in their window -> hold English YouTube; Arabic 08:00Z / 11:00Z /
+  14:00Z Nov 22 have 54 (14:00Z Nov 21, by seconds) + 57 (23:00Z Nov 21) -> hold Arabic YouTube too.
+- Voices: Easton suez 67.58 s at first (230 words) -> trimmed twice to 222 words, 66.47 s; escalator 64.04 s (231);
+  operahouse 66.49 s (229). ElevenLabs one take each: Mansour suez 67.77 s (161 words, 890 characters), Egyptian
+  escalator 66.37 s (165, 890), Mansour operahouse 67.70 s (159, 861); all at the 1.12 cap. check_ar_voice: no weak
+  lines (max 26%, the digit lines). Whisper small on the English voices: number formats, "fresh water" ->
+  "freshwater", "sails" -> "sales", "mould" written "mold" (the script now says mold); escalator line 11 "with" heard as
+  "of" (reworded: "staff stood at the top with brandy and smelling salts").
+- ElevenLabs (MCP account_get_usage, ~03:40Z Nov 21): still Creator, 101,849 of 127,949 used (26,100 left), reset Dec 12.
+  That is +32,359 since Nov 20 04:15Z, while this project's six Arabic voices of Nov 20 used about 5,400: the other
+  projects on the plan are burning about 27,000 a day. At that pace the plan runs out within about a day: the owner
+  was told (the Pro upgrade has not happened).
+- Research: WebSearch still gives titles and links only; facts were checked against result titles (NASA Earth
+  Observatory "The New Suez Canal", House Divided "130 mile fresh water canal ... completed", napoleon.org "Dredgers
+  specially built for the Suez Canal", The National on the Ever Given digger operator, The Vintage News on Harrods'
+  first escalator and the cognac, CNN on Hong Kong's escalator, sydneyoperahouse.com "The spherical solution", Guinness
+  "Largest proportional increase in cost for a building project", NSW Treasury "The House the Lotteries Built") plus
+  well-documented figures.
+- Scenes (all v2 look 2):
+  - suez.py (desert, map, cut, camp, dig, lakes, level, tag): desert = side view with the canal's water hidden behind
+    the near dune so the container ship (panama.cargo_ship, 760 long) seems to sail on sand; the Eiffel Tower
+    (eiffel.eiffel rotated 90, scale 0.7) lies on the containers for scale; on "congrats" the near bank drops to show
+    the water. map = geo(lon, lat) -> world (10.4 x 10.8 units a degree), polygons for Africa, Eurasia, the UK,
+    Madagascar, Black Sea and Caspian, the long route round the Cape and the short one through the canal drawn with
+    along(); cut = the isthmus from above (Mediterranean, Nile delta, Gulf of Suez, lake beds, the cut drawn top to
+    bottom, then both seas running in and meeting in the Bitter Lakes); camp (tents -> mudhouse city, a fresh water
+    canal with palms); dig (trench section, workers with head baskets, dredger() bucket chain + slide_sand());
+    lakes (one lane nose to nose; ship_on(pts, u) moves panama.ship_top along a polyline: southbound convoy anchors
+    in the lake, northbound passes; the lake bed flashes white salt); level (both seas level, a crossed-out ghost lock
+    staircase); tag EN: the stuck ship + excavator(), then laundry() vs you; AR: barrier.suv blocked by a second car
+    and burjalarab.saudi_man with a bubble "جواله مقفل!".
+  - escalator.py (mall, stairs, wheels, comb, rail, harrods, long, tag): ypass(x) = the passenger side (flat, 30 degree
+    incline, flat), steps_at(t) puts NSTEP steps on a loop (top run moving right, return run RET below moving left,
+    hidden turnarounds), step_top() draws tread + riser so the stairs form and flatten by themselves, step_ret() the
+    upside-down return, truss_path() the side panel (see-through in the x-ray of the hook and fix1, with the dashed
+    chain, sprockets and the motor). wheels = the lower transition at zoom 2.6 with the two tracks (yellow ypass+30,
+    cyan ypass(x + D - 16)+30) and two wheels per step; comb = top view of grooved plates sliding under the floor plate,
+    a sneaker with a red lace, then yellow comb teeth; rail = the camera follows one rider up the slope, the rider tips
+    back when the rail lags; harrods = 1898 moving ramp, dizzy shopper, staff with a tray (no glass in Arabic);
+    long = Moscow's long tunnel escalator + Japan's 5-step one; tag EN: up to the GYM, then a stair machine; AR:
+    grandma() in a headscarf at the bottom, waiting for a step to stop.
+  - operahouse.py (harbour, sketch, sphere, molds, cranes, tiles, tag): shell_path(bx, bw, h, d) = a sail-like shell
+    leaning toward d, SHELLS = the front and back rows, opera() = podium + shells (tile chevrons clipped to each shell,
+    dirt, glare, lit); bridge() = the harbour's arch bridge far away; sphere_ball() with a highlighted spherical
+    triangle, orange() peeling; molds (a different mold per shape and $$$, then identical rib_piece()s); cranes (a ghost
+    shell, rib pieces placed up its edge, crane() hook, steel cable glowing); tiles (dirty + glare flash, then tiles
+    and rain); harbour at dusk for the reveal (fireworks for 1973, the architect's boat sailing away), the 67 m ruler
+    for the stat, night for the closer; tag EN: the bill unrolling x14 and a calendar 1963 -> 1973; AR: the
+    contractor's bubble "أسبوعين وأسلمك!".
+- Produce: one slug per run as each scene was ready (55 at 03:29Z, 56 at 03:32Z, 57 at 03:35Z), about 25 minutes each.
+  Final videos: suez EN 69.6 s / AR 70.9 s (Mansour), escalator EN 67.2 / AR 69.5, operahouse EN 69.6 / AR 70.8
+  (Mansour); all -14 LUFS, peaks -1.9 to -2.6 dBFS, covers in and inside the grid crop. Whisper small on the English
+  mixes: number formats, "sails" -> "sales", "you'd" -> "you", "cover it in" -> "cover in" (captions carry the words).
+  media/ 681 MB with the six new videos.
+- Posts (state 04:09Z): 13 of 14 targets "scheduled" at their Sat Nov 21 PT slots (checked by turning every dueAt back
+  into PT); 55 and 56 hold YouTube; 57's Arabic TikTok "waits" (queue 10: 44, 52-56, 37, 45, 48, 49). 43's Arabic
+  TikTok went out at 04:01Z on its requeue. A check-in of this session at 11:20Z Nov 21 (send_later
+  trig_01JmXxJMDHQE1PryN529GJ48) dispatches post.yml for 57's Arabic TikTok (slot 23:00Z) and requeues 50 and 42 to
+  01:30Z / 04:30Z Nov 24. If state/ep57-operahouse.json still has no ar.tiktok when the midday run of Nov 21 starts,
+  that run does both first.
+- YouTube with fixed daily slots: a post sends 0-4 minutes after its slot, so the previous day's post in the SAME slot
+  is still inside the 24 h window (54 at 19:00Z Nov 21 blocks every 19:00Z-or-earlier slot of Nov 22). To get two a
+  day again, give each YouTube post its own at: (posts accept a per-platform map, e.g. at: {default: ..., youtube:
+  ...}) about 20 minutes after the matching YouTube post of the day before, or accept one a day on some days.
+- Lessons: a sweep or a save check runs about 2 minutes here; queue them with nohup + tools/slot.sh and write the next
+  scene meanwhile. A sand-coloured ground rect must reach the bottom of the frame (the sky shows a pale band below).
+  falaj.basket() draws a 1200-unit rope (it hangs from a windlass): write your own head basket. panama.cargo_ship's
+  white bridge blooms: tone it down with a grey overlay. English anchors: "HAND" also matches "HANDRAIL" (startswith):
+  use self.w(..., nth=1) for English only.
