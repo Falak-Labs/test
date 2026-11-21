@@ -75,3 +75,6 @@ Rules:
 67. idea: the Colosseum (its giant sun awning and the trapdoor lifts under the arena)
 68. idea: Taipei 101's giant swinging damper ball
 69. idea: a dishwasher
+70. idea: the Louvre Abu Dhabi's dome, a "rain of light" over a museum on the sea
+71. idea: a vacuum cleaner
+72. idea: the Petronas Twin Towers and the sky bridge that slides as they sway (Kuala Lumpur)
