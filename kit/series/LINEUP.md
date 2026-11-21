@@ -34,6 +34,13 @@ Rules:
   "Follow us on YouTube ... @congratsengineer / @kef.tenbeni". It is added by post.py; do not write it into `text:`.
   Arabic TikTok is left out on purpose (spam refusals). Money plan and platform rules: project doc
   claude/build-it-money-plan.md (read it before changing pace or platforms).
+- The 4-minute show (owner, Nov 21 09:26 PT: "we can keep the tk and ig short and YouTube 4 mins", the short one ending
+  with "check out yt channel"): YouTube gets the full 4-minute video, TikTok + Instagram get a 1-2 minute cut that ends
+  by sending people to the YouTube channel. Episode 1 is posts/sm01-survival.yml + media/sm01-survival-en.mp4. Leave
+  both alone: do not retire that video until its TikTok and Instagram posts are sent, and never take its en.youtube off
+  hold (the full video is uploaded in YouTube Studio, not through Buffer, so it uses no Buffer YouTube slot). The daily
+  runs and the 2-a-day YouTube rule are unchanged. State and how-to: NIGHT_NOTES (Nov 21) and the project doc
+  claude/build-it-4-minute-show.md.
 - Entries marked "idea" are proposals: check them with a web search before writing; replace one only if it is not
   promised yet and the facts do not hold up.
 

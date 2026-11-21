@@ -1113,3 +1113,47 @@
     of four on one theme, two more themes to test against this one ("The King's Engineer", "Level Up"), an Arabic
     version (about 700 ElevenLabs characters for the nine lines; the plan was almost empty on Nov 20), and a workflow so
     the runs can build it on Actions. The spec is in the project doc claude/build-it-4-minute-show.md.
+- Nov 21 09:26 PT, the owner: "Ok my plan is we start promoting the YT channel after we post on social media! Like now we
+  have 4 min video. We still can post one or two mins and at the end to check out yt channel has everything or something
+  idk. But we can keep the tk and ig short and YouTube 4 mins". Done the same morning (this chat):
+  - Two cuts from one builder: python3 kit/show/build_survival.py <src> <out> full|short [thumb prep audio stills video
+    mux qa] (files land in <out>/full and <out>/short; the cache is shared). FULL (YouTube) 264.83 s: the pilot with a
+    YouTube ending ("The next world is coming. Subscribe, or the boss wins.", NEXT WORLD COMING, a SUBSCRIBE pill). SHORT
+    (TikTok + Instagram) 78.67 s: cover, cold open, level 1 whole, three flashes of the other bosses ("Three more bosses
+    are waiting."), a card ALL 4 LEVELS / ON YOUTUBE / @congratsengineer ("Watch all four levels on our YouTube channel,
+    Congrats Engineer."), then "Subscribe, or the boss wins." (cut out of the third line at its real pause). Closing
+    lines: kit/series/survivalpromo_lines.txt (voice.yml kit=survivalpromo). Both -14.0 LUFS, true peak under -2 dBFS,
+    new lines within 4 ms of the plan, frames checked from the finished files. `thumb` draws a 1280x720 thumbnail.
+    The voice JSON's word times are estimates (0.2 s off at a sentence break): snap_pauses() moves them onto the real
+    silences for the closing lines.
+  - Buffer cannot publish a video over 3 minutes to YouTube (its help page: such videos "can't be published
+    automatically", they become phone notifications; no long-form support). Its YouTube limit is 2 posts per 24 hours
+    on the free plan. So the full video went up in YouTube Studio through the owner's own Chrome (Claude in Chrome; he is
+    signed in there; one Google login holds four channels: Yallah Say MA, Congrats Engineer, Yalla Say PS, Kef Tenbeni;
+    switch with the account menu, and switch back when done). How, since the browser tool's file upload stops at 3.8 MB:
+    push the file to a throwaway branch (`uploads`), open studio.youtube.com/channel/<id>/videos/upload?d=ud, and in the
+    page fetch https://raw.githubusercontent.com/Falak-Labs/test/uploads/<file> (CORS is open there; the Pages address
+    fails), wrap it in a File, set it on `ytcp-uploads-file-picker input[type=file]` with a DataTransfer and fire
+    `change`. Title and description: focus `#title-textarea #textbox` / `#description-textarea #textbox`, select all,
+    document.execCommand('insertText'). Thumbnail: the same File trick on `ytcp-thumbnail-uploader input#file-loader`.
+    Radios by name (VIDEO_MADE_FOR_KIDS_NOT_MFK, VIDEO_PAID_PRODUCT_PLACEMENT_NO, VIDEO_HAS_ALTERED_CONTENT_NO, PRIVATE /
+    PUBLIC), language under `#language-input`, then #next-button x3 and #done-button. Screenshots time out in that
+    browser: read the DOM instead, and never print a URL with a query string (the tool blocks the whole answer).
+  - Result: https://youtu.be/Z-o9Kc-oCe4 uploaded 18:00Z Nov 21 on Congrats Engineer, PRIVATE, 4:25, listed under Videos
+    (not Shorts), checks "No issues found". Title "Survival Mode: Beat 4 Deadly Places With Zero Electricity"; the
+    description has six chapters (0:00, 0:11, 1:09, 2:10, 3:11, 4:11); thumbnail set; not made for kids; no paid
+    promotion; the AI question answered No (it asks about realistic fakes of people, places or events and AI music as
+    the main focus; this is cartoon animation with background music); language English; category Education.
+  - Making it PUBLIC was stopped by this chat's permission check (publishing through his browser needs his own yes;
+    that is also what he agreed for browser posting: his OK before a batch goes public). He was asked. Until the video
+    is public the short stays on hold: posts/sm01-survival.yml holds en.youtube (for good), en.tiktok and en.instagram
+    (until the go; then set `at:` and drop those two from `hold`). media/sm01-survival-en.mp4 is 28 MB.
+  - Numbers read in YouTube Studio (the first real ones): Congrats Engineer 50 subscribers (+50 in 28 days), 18.9K views
+    and 124.7 watch hours in 28 days; latest Short (falaj) 813 views in 14.5 h, 73.1% average viewed. Its Earn page
+    (data of Nov 16): fan-funding step 50 of 500 subscribers + 3 uploads (done) + 3,000 watch hours or 3M qualified
+    Shorts views in 90 days (0 h, 8.3K views); ads step 50 of 1,000 subscribers + 4,000 hours or 10M (0 h, 8.3K). Shorts
+    add nothing to the hours: only videos over 3 minutes do. Kef Tenbeni: 10 subscribers.
+  - Open: a daily 4-minute episode still needs a builder that takes any four builds (levels, bosses, lines from a spec)
+    and a workflow; the YouTube upload needs his computer on with Chrome open and his yes to publish; the Arabic version
+    needs narration (ElevenLabs was almost empty on Nov 20). Idea to offer him: link the four builds' Shorts to the full
+    video with the "Related video" field in Studio (a tappable link inside the Shorts player).
