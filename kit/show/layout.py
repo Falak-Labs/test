@@ -478,7 +478,8 @@ def end_card(c, wall, t, rows, ev, caps=None, tg=0.0, next_text="NEW WORLD TOMOR
             c.restore()
     if nxt > 0:
         fit(c, next_text, W / 2, 1100, 66, INK, max_w=960, a=nxt, stroke_color=DEEP, stroke_w=12, shadow_a=0.5)
-        v2.follow_pill(c, W, pill[0], pill[1], prog(t, ev["next"] + 0.55, ev["next"] + 0.85), y=1196)
+        tp = ev.get("pill", ev["next"] + 0.55)
+        v2.follow_pill(c, W, pill[0], pill[1], prog(t, tp, tp + 0.3), y=1196)
     fx.confetti(c, W, H, t, 0.1, 2.6)
     if caps is not None:
         caps.draw(c, W, tg)
@@ -495,8 +496,8 @@ def play_badge(c, x, y, s, a=1.0):
     c.restore()
 
 
-def yt_card(c, wall, t, handle, p_top=1.0, p_yt=1.0, p_handle=1.0, p_hint=1.0):
-    """ALL 4 LEVELS / ON YOUTUBE / the channel's handle / how to find it."""
+def yt_card(c, wall, t, handle, p_top=1.0, p_yt=1.0, p_handle=1.0, p_pill=1.0):
+    """ALL 4 LEVELS / ON YOUTUBE / the channel's handle / SUBSCRIBE or the boss wins."""
     draw_img(c, wall, zoom=1.04 + 0.01 * t, dim=0.25)
     if p_top > 0:
         k = lerp(2.0, 1.0, e_out(clamp(p_top)))
@@ -527,6 +528,4 @@ def yt_card(c, wall, t, handle, p_top=1.0, p_yt=1.0, p_handle=1.0, p_hint=1.0):
         c.drawRRect(rr(-hw / 2 + 2, -68, hw - 4, 136, 68), P(HILITE, 0.9 * a, stroke=4))
         text(c, handle, 0, 25, 70, INK, "Poppins-Black", a=a)
         c.restore()
-    if p_hint > 0:
-        text(c, "THE FULL RUN IS THERE", W / 2, 1150, 42, "#C9D3E6", "Poppins-Bold", a=clamp(p_hint * 2), stroke_color=DEEP, stroke_w=9,
-             shadow_a=0.5)
+    v2.follow_pill(c, W, "SUBSCRIBE", "or the boss wins", p_pill, y=1180)

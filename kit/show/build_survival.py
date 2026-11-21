@@ -92,6 +92,46 @@ def chapter_cuts(ep):
 
 
 # ------------------------------------------------------------------ the plan: every segment in frames
+def snap_pauses(lines, wav_path):
+    """The voice file's word times are estimates. Where a word ends a sentence or a clause inside a line, move that
+    boundary onto the real pause in the recording (the nearest silence of 90 ms or more) and stretch the words on both
+    sides to fit, so captions, sounds and cuts land where the voice really is."""
+    a, sr = sf.read(wav_path, dtype="float32")
+    a = a if a.ndim == 1 else a.mean(axis=1)
+    hop = int(0.01 * sr)
+    env = np.sqrt(np.array([np.mean(a[i:i + hop] ** 2) for i in range(0, len(a) - hop, hop)]) + 1e-12)
+    quiet = env < 0.03 * env.max()
+
+    def pause_near(b):
+        best, j, stop = None, max(0, int((b - 0.45) * 100)), min(len(quiet), int((b + 0.45) * 100))
+        while j < stop:
+            if not quiet[j]:
+                j += 1
+                continue
+            k = j
+            while k < len(quiet) and quiet[k]:
+                k += 1
+            if k - j >= 9 and (best is None or abs((j + k) / 200 - b) < abs((best[0] + best[1]) / 2 - b)):
+                best = (j / 100, k / 100)
+            j = k
+        return best
+
+    for ln in lines:
+        ws = ln["words"]
+        cuts = [(i, pause_near(ws[i]["end"])) for i in range(len(ws) - 1) if re.search(r"[.,!?]$", ws[i]["w"])]
+        cuts = [(i, g) for i, g in cuts if g]
+        first, new_start = 0, ws[0]["start"]
+        for i, gap in cuts + [(len(ws) - 1, None)]:                # one stretch of speech at a time
+            old0, old1 = ws[first]["start"], ws[i]["end"]
+            new1 = gap[0] if gap else old1
+            if old1 > old0 and new1 > new_start:
+                f = (new1 - new_start) / (old1 - old0)
+                for w in ws[first:i + 1]:
+                    w["start"], w["end"] = new_start + (w["start"] - old0) * f, new_start + (w["end"] - old0) * f
+            if gap:
+                first, new_start = i + 1, gap[1]
+
+
 class Plan:
     """variant "full": cold open, four levels, results card (the YouTube video).
     variant "short": cold open, level 1, then a teaser of the other bosses and a card that sends people to the YouTube
@@ -102,6 +142,9 @@ class Plan:
         self.ch = json.load(open(info_path))
         self.vo = json.load(open(vo_json))["lines"]
         self.pv = json.load(open(promo_json))["lines"] if promo_json and os.path.exists(promo_json) else []
+        if self.pv:
+            snap_pauses(self.pv, promo_json[:-5] + ".wav")
+        self.extra = {}                                            # pieces cut out of a recorded line
         for ln in self.vo + self.pv:
             ln["dur"] = ln["end"] - ln["start"]
         self.levels = [0] if variant == "short" else list(range(len(LEVELS)))
@@ -132,13 +175,18 @@ class Plan:
             add("clear", round(CLEAR_S * FPS), lv=i)
             add("chapC", cuts["c"][1] - cuts["c"][0], lv=i, f0=cuts["c"][0], dissolve=5)
         if variant == "short":
-            p1, p2 = self.pv[0], self.pv[1]
+            p1, p2, p3 = self.pv[:3]
+            k = next(i for i, w in enumerate(p3["words"]) if word_key(display_word(w["w"])) == "SUBSCRIBE")
+            sub = dict(p3, start=p3["words"][k]["start"] - 0.05, words=p3["words"][k:])   # "Subscribe, or the boss wins."
+            sub["dur"] = sub["end"] - sub["start"]
+            self.extra["p3b"] = sub
             tp1 = 0.25
             t_card = tp1 + p1["dur"] + 0.30                       # three boss flashes fill tp1 .. t_card
             tp2 = t_card + TITLE_IN
-            add("outro", round((tp2 + p2["dur"] + 1.9) * FPS), tp1=tp1, t_card=t_card, tp2=tp2, dissolve=6)
+            tp3 = tp2 + p2["dur"] + 0.28
+            add("outro", round((tp3 + sub["dur"] + 1.1) * FPS), tp1=tp1, t_card=t_card, tp2=tp2, tp3=tp3, dissolve=6)
             o = self.segs[-1]["start"] / FPS
-            self.vo_at.update({"p1": o + tp1, "p2": o + tp2})
+            self.vo_at.update({"p1": o + tp1, "p2": o + tp2, "p3b": o + tp3})
         else:
             l8 = self.vo[7]
             l9 = self.pv[2] if self.pv else self.vo[8]             # YouTube ending: "... Subscribe, or the boss wins."
@@ -151,6 +199,8 @@ class Plan:
         self.duration = f / FPS
 
     def line(self, key):
+        if key in self.extra:
+            return self.extra[key]
         return self.pv[int(key[1:]) - 1] if isinstance(key, str) else self.vo[key - 1]
 
     def seg(self, kind, lv=None):
@@ -347,7 +397,7 @@ def audio(src_dir, out, plan):
         tc2 = to + o["t_card"]
         bed[int(tc2 * S.SR): int((tc2 + 1.0) * S.SR)] *= 0.5
         ev += [(tc2 - 1.0, S.riser(1.0), 0.3, 0.0), (tc2, S.slam(), 0.8, 0.0), (plan.word_t("p2", 6), S.coin(tonic), 0.32, 0.2),
-               (plan.vo_at["p2"] + plan.pv[1]["dur"] + 0.35, S.achievement(tonic, False), 0.45, 0.0)]
+               (plan.word_t("p3b", 0) - 0.05, S.press_start(), 0.5, 0.0)]
 
     for t, snd, g, pan in ev:
         S.place(fxb, snd, t, g, pan)
@@ -486,6 +536,8 @@ class Show:
             ev = dict(score0=seg["t8"] + 0.15, score1=seg["t8"] + 1.5, power=plan.word_t(8, 2) - seg["start"] / FPS,
                       rank=seg["t8"] + plan.vo[7]["dur"], next=seg["t9"])
             sub = "p3" in plan.vo_at                                   # YouTube ending
+            if sub:
+                ev["pill"] = plan.word_t("p3", 5) - seg["start"] / FPS - 0.05
             L.end_card(c, self.wall, t, rows, ev, self.caps, tg, next_text="NEXT WORLD COMING" if sub else "NEW WORLD TOMORROW",
                        pill=("SUBSCRIBE" if sub else "FOLLOW", "or the boss wins"))
         elif kind == "outro":
@@ -513,8 +565,9 @@ class Show:
         else:
             tt = t - seg["t_card"]
             wt = lambda idx: plan.word_t("p2", idx) - seg["start"] / FPS - seg["t_card"]
+            ws = plan.word_t("p3b", 0) - seg["start"] / FPS - seg["t_card"]
             L.yt_card(c, self.wall, tt, HANDLE, p_top=prog(tt, 0.0, 0.14), p_yt=prog(tt, wt(4), wt(4) + 0.2),
-                      p_handle=prog(tt, wt(8) - 0.1, wt(8) + 0.2), p_hint=prog(tt, wt(8) + 0.9, wt(8) + 1.2))
+                      p_handle=prog(tt, wt(8) - 0.1, wt(8) + 0.2), p_pill=prog(tt, ws - 0.05, ws + 0.25))
             L.flash(c, 0.8 * (1 - prog(tt, 0.0, 0.14)))
         self.caps.draw(c, W, tg)
 
