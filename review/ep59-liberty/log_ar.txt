@@ -1,0 +1,7 @@
+liberty_ar_sa: 76.88s, 2306 frames
+cover out/liberty_ar_sa/cover.png: ['تمثال الحرية'] (frame 0 of the video)
+video done in 566s
+audio done
+final out/liberty_ar_sa/liberty_ar_sa_final.mp4
+QA  duration 76.87s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2306
+QA sheet out/liberty_ar_sa/qa_sheet.png

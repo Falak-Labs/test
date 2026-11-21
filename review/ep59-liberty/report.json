@@ -1,0 +1,137 @@
+{
+ "slug": "ep59-liberty",
+ "kit": "liberty",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.87,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "12/233",
+   "mix_lines_off": [
+    "L 4 1 diff  | But both the skin on tight and wind and summer heat would rip it.",
+    "L 6 1 diff  | But what? Salty air turns copper touching iron into a battery and the iron rusts away.",
+    "L 7 1 diff  | So you keep them apart with varnished cloth. A century later, steel bars replace the iron ones.",
+    "L 9 3 diff  | So you stand her up in Paris first, then take her apart 350 pieces and ship her over.",
+    "L11 1 diff  | Now let the sea air paint her, in about 30 years the brown copper turned green, and that green protects it.",
+    "L12 5 diff  | 46 meters tall, 93 with the pedestal, and in strong wind her torch sways 13 centimeters."
+   ],
+   "size_mb": 20.9,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو قدرت توقّف عملاقة نحاس في عواصف البحر، وجلدها رقيق مثل عملتين فوق بعض، مبروك، كذا سويت لك تمثال الحرية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس نحاس بهالرقة ما يقدر يشيل شكله، بينطوي مثل ورق القصدير.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فغوستاف إيفل، صاحب البرج نفسه، يبني لها برج حديد من داخل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس لو ثبّت الجلد عليه بقوة، الريح وحر الصيف بيشقّونه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتسوي شبكة أسياخ رفيعة على شكلها، والجلد معلّق عليها بمشابك مرتخية، يتحرك براحته.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس النحاس إذا لمس الحديد في هوا البحر، يصير بطارية، والحديد يصدّي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحط بينهم قماش مشرّب ورنيش، وبعد مية سنة بدّلوا الحديد بأسياخ ستيل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس التمثال انصنع في باريس، ولازم يقطع المحيط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتوقّفه في باريس أول، وبعدين تفكّه ثلاثمية وخمسين قطعة، وتشحنه بالبحر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تطلع للتاج، تابعني، لأن الجاي بنبني مايكرويف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين خلّ هوا البحر يصبغها، وبعد ثلاثين سنة تقريبًا صار النحاس أخضر، وهالأخضر يحميه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ستة وأربعين متر، ثلاثة وتسعين مع القاعدة، وفي الريح القوية شعلتها تتمايل ثلاثطعش سانتي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك تمثال الحرية بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "النحاس صبغها أخضر وحبّها العالم، وأنت خاتمك صبغ صبعك أخضر، ورحت تهاوش صاحب المحل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 76.87,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 22.3,
+   "cover": true
+  }
+ }
+}
