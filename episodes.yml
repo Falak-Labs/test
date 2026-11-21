@@ -59,3 +59,4 @@ episodes:
   - {slug: ep54-eiffel, kit: eiffel, look: 2}
   - {slug: ep55-suez, kit: suez, look: 2}
   - {slug: ep56-escalator, kit: escalator, look: 2}
+  - {slug: ep57-operahouse, kit: operahouse, look: 2}
