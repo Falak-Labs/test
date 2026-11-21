@@ -1,0 +1,1267 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.51,
+ "words": 229,
+ "words_per_sec": 3.5,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.24,
+   "text": "If you can boil water with no fire, by shaking it billions of times a second, congrats, you just built a microwave oven.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.14,
+     "end": 0.341
+    },
+    {
+     "w": "you",
+     "start": 0.341,
+     "end": 0.543
+    },
+    {
+     "w": "can",
+     "start": 0.543,
+     "end": 0.744
+    },
+    {
+     "w": "boil",
+     "start": 0.744,
+     "end": 0.945
+    },
+    {
+     "w": "water",
+     "start": 0.945,
+     "end": 1.296
+    },
+    {
+     "w": "with",
+     "start": 1.296,
+     "end": 1.497
+    },
+    {
+     "w": "no",
+     "start": 1.497,
+     "end": 1.699
+    },
+    {
+     "w": "fire,",
+     "start": 1.699,
+     "end": 1.9
+    },
+    {
+     "w": "by",
+     "start": 2.03,
+     "end": 2.233
+    },
+    {
+     "w": "shaking",
+     "start": 2.233,
+     "end": 2.587
+    },
+    {
+     "w": "it",
+     "start": 2.587,
+     "end": 2.79
+    },
+    {
+     "w": "billions",
+     "start": 2.79,
+     "end": 3.143
+    },
+    {
+     "w": "of",
+     "start": 3.143,
+     "end": 3.346
+    },
+    {
+     "w": "times",
+     "start": 3.346,
+     "end": 3.7
+    },
+    {
+     "w": "a",
+     "start": 3.7,
+     "end": 3.903
+    },
+    {
+     "w": "second,",
+     "start": 3.903,
+     "end": 4.256
+    },
+    {
+     "w": "congrats,",
+     "start": 4.256,
+     "end": 4.61
+    },
+    {
+     "w": "you",
+     "start": 4.74,
+     "end": 4.914
+    },
+    {
+     "w": "just",
+     "start": 4.914,
+     "end": 5.088
+    },
+    {
+     "w": "built",
+     "start": 5.088,
+     "end": 5.262
+    },
+    {
+     "w": "a",
+     "start": 5.262,
+     "end": 5.436
+    },
+    {
+     "w": "microwave",
+     "start": 5.436,
+     "end": 5.867
+    },
+    {
+     "w": "oven.",
+     "start": 5.867,
+     "end": 6.17
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.604,
+   "end": 9.646,
+   "text": "But fire heats food from the outside in, so the middle waits.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.744,
+     "end": 6.96
+    },
+    {
+     "w": "fire",
+     "start": 6.96,
+     "end": 7.176
+    },
+    {
+     "w": "heats",
+     "start": 7.176,
+     "end": 7.393
+    },
+    {
+     "w": "food",
+     "start": 7.393,
+     "end": 7.609
+    },
+    {
+     "w": "from",
+     "start": 7.609,
+     "end": 7.825
+    },
+    {
+     "w": "the",
+     "start": 7.825,
+     "end": 8.041
+    },
+    {
+     "w": "outside",
+     "start": 8.041,
+     "end": 8.418
+    },
+    {
+     "w": "in,",
+     "start": 8.418,
+     "end": 8.634
+    },
+    {
+     "w": "so",
+     "start": 8.794,
+     "end": 8.989
+    },
+    {
+     "w": "the",
+     "start": 8.989,
+     "end": 9.184
+    },
+    {
+     "w": "middle",
+     "start": 9.184,
+     "end": 9.379
+    },
+    {
+     "w": "waits.",
+     "start": 9.379,
+     "end": 9.574
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.01,
+   "end": 15.698,
+   "text": "So you borrow a radar tube, the magnetron. Its waves twist water molecules back and forth until they heat up.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.12,
+     "end": 10.316
+    },
+    {
+     "w": "you",
+     "start": 10.316,
+     "end": 10.513
+    },
+    {
+     "w": "borrow",
+     "start": 10.513,
+     "end": 10.855
+    },
+    {
+     "w": "a",
+     "start": 10.855,
+     "end": 11.051
+    },
+    {
+     "w": "radar",
+     "start": 11.051,
+     "end": 11.394
+    },
+    {
+     "w": "tube,",
+     "start": 11.394,
+     "end": 11.59
+    },
+    {
+     "w": "the",
+     "start": 11.74,
+     "end": 11.947
+    },
+    {
+     "w": "magnetron.",
+     "start": 11.947,
+     "end": 12.46
+    },
+    {
+     "w": "Its",
+     "start": 12.58,
+     "end": 12.761
+    },
+    {
+     "w": "waves",
+     "start": 12.761,
+     "end": 13.077
+    },
+    {
+     "w": "twist",
+     "start": 13.077,
+     "end": 13.258
+    },
+    {
+     "w": "water",
+     "start": 13.258,
+     "end": 13.573
+    },
+    {
+     "w": "molecules",
+     "start": 13.573,
+     "end": 14.157
+    },
+    {
+     "w": "back",
+     "start": 14.157,
+     "end": 14.338
+    },
+    {
+     "w": "and",
+     "start": 14.338,
+     "end": 14.52
+    },
+    {
+     "w": "forth",
+     "start": 14.52,
+     "end": 14.701
+    },
+    {
+     "w": "until",
+     "start": 14.701,
+     "end": 15.016
+    },
+    {
+     "w": "they",
+     "start": 15.016,
+     "end": 15.198
+    },
+    {
+     "w": "heat",
+     "start": 15.198,
+     "end": 15.379
+    },
+    {
+     "w": "up.",
+     "start": 15.379,
+     "end": 15.56
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.062,
+   "end": 19.0,
+   "text": "But the waves would spill out and cook the kitchen, and you.",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.202,
+     "end": 16.387
+    },
+    {
+     "w": "the",
+     "start": 16.387,
+     "end": 16.571
+    },
+    {
+     "w": "waves",
+     "start": 16.571,
+     "end": 16.893
+    },
+    {
+     "w": "would",
+     "start": 16.893,
+     "end": 17.077
+    },
+    {
+     "w": "spill",
+     "start": 17.077,
+     "end": 17.262
+    },
+    {
+     "w": "out",
+     "start": 17.262,
+     "end": 17.447
+    },
+    {
+     "w": "and",
+     "start": 17.447,
+     "end": 17.631
+    },
+    {
+     "w": "cook",
+     "start": 17.631,
+     "end": 17.816
+    },
+    {
+     "w": "the",
+     "start": 17.816,
+     "end": 18.001
+    },
+    {
+     "w": "kitchen,",
+     "start": 18.001,
+     "end": 18.322
+    },
+    {
+     "w": "and",
+     "start": 18.512,
+     "end": 18.712
+    },
+    {
+     "w": "you.",
+     "start": 18.712,
+     "end": 18.912
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.365,
+   "end": 23.833,
+   "text": "So you trap them in a metal box. The door's mesh holes are too small for them, but not for light.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.485,
+     "end": 19.659
+    },
+    {
+     "w": "you",
+     "start": 19.659,
+     "end": 19.833
+    },
+    {
+     "w": "trap",
+     "start": 19.833,
+     "end": 20.007
+    },
+    {
+     "w": "them",
+     "start": 20.007,
+     "end": 20.181
+    },
+    {
+     "w": "in",
+     "start": 20.181,
+     "end": 20.354
+    },
+    {
+     "w": "a",
+     "start": 20.354,
+     "end": 20.528
+    },
+    {
+     "w": "metal",
+     "start": 20.528,
+     "end": 20.831
+    },
+    {
+     "w": "box.",
+     "start": 20.831,
+     "end": 21.005
+    },
+    {
+     "w": "The",
+     "start": 21.145,
+     "end": 21.302
+    },
+    {
+     "w": "door's",
+     "start": 21.302,
+     "end": 21.459
+    },
+    {
+     "w": "mesh",
+     "start": 21.459,
+     "end": 21.616
+    },
+    {
+     "w": "holes",
+     "start": 21.616,
+     "end": 21.89
+    },
+    {
+     "w": "are",
+     "start": 21.89,
+     "end": 22.047
+    },
+    {
+     "w": "too",
+     "start": 22.047,
+     "end": 22.204
+    },
+    {
+     "w": "small",
+     "start": 22.204,
+     "end": 22.361
+    },
+    {
+     "w": "for",
+     "start": 22.361,
+     "end": 22.518
+    },
+    {
+     "w": "them,",
+     "start": 22.518,
+     "end": 22.675
+    },
+    {
+     "w": "but",
+     "start": 22.725,
+     "end": 22.987
+    },
+    {
+     "w": "not",
+     "start": 22.987,
+     "end": 23.25
+    },
+    {
+     "w": "for",
+     "start": 23.25,
+     "end": 23.512
+    },
+    {
+     "w": "light.",
+     "start": 23.512,
+     "end": 23.775
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.198,
+   "end": 29.229,
+   "text": "But bouncing waves make hot spots and cold spots. Half your pizza burns, half stays frozen.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.338,
+     "end": 24.572
+    },
+    {
+     "w": "bouncing",
+     "start": 24.572,
+     "end": 24.979
+    },
+    {
+     "w": "waves",
+     "start": 24.979,
+     "end": 25.386
+    },
+    {
+     "w": "make",
+     "start": 25.386,
+     "end": 25.619
+    },
+    {
+     "w": "hot",
+     "start": 25.619,
+     "end": 25.853
+    },
+    {
+     "w": "spots",
+     "start": 25.853,
+     "end": 26.087
+    },
+    {
+     "w": "and",
+     "start": 26.087,
+     "end": 26.321
+    },
+    {
+     "w": "cold",
+     "start": 26.321,
+     "end": 26.554
+    },
+    {
+     "w": "spots.",
+     "start": 26.554,
+     "end": 26.788
+    },
+    {
+     "w": "Half",
+     "start": 26.838,
+     "end": 27.112
+    },
+    {
+     "w": "your",
+     "start": 27.112,
+     "end": 27.386
+    },
+    {
+     "w": "pizza",
+     "start": 27.386,
+     "end": 27.864
+    },
+    {
+     "w": "burns,",
+     "start": 27.864,
+     "end": 28.138
+    },
+    {
+     "w": "half",
+     "start": 28.298,
+     "end": 28.528
+    },
+    {
+     "w": "stays",
+     "start": 28.528,
+     "end": 28.758
+    },
+    {
+     "w": "frozen.",
+     "start": 28.758,
+     "end": 29.158
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 29.594,
+   "end": 33.521,
+   "text": "So a turntable carries the food through the hot spots, and every bite gets its turn.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.704,
+     "end": 29.916
+    },
+    {
+     "w": "a",
+     "start": 29.916,
+     "end": 30.127
+    },
+    {
+     "w": "turntable",
+     "start": 30.127,
+     "end": 30.496
+    },
+    {
+     "w": "carries",
+     "start": 30.496,
+     "end": 30.864
+    },
+    {
+     "w": "the",
+     "start": 30.864,
+     "end": 31.076
+    },
+    {
+     "w": "food",
+     "start": 31.076,
+     "end": 31.287
+    },
+    {
+     "w": "through",
+     "start": 31.287,
+     "end": 31.499
+    },
+    {
+     "w": "the",
+     "start": 31.499,
+     "end": 31.711
+    },
+    {
+     "w": "hot",
+     "start": 31.711,
+     "end": 31.922
+    },
+    {
+     "w": "spots,",
+     "start": 31.922,
+     "end": 32.134
+    },
+    {
+     "w": "and",
+     "start": 32.254,
+     "end": 32.414
+    },
+    {
+     "w": "every",
+     "start": 32.414,
+     "end": 32.812
+    },
+    {
+     "w": "bite",
+     "start": 32.812,
+     "end": 32.973
+    },
+    {
+     "w": "gets",
+     "start": 32.973,
+     "end": 33.133
+    },
+    {
+     "w": "its",
+     "start": 33.133,
+     "end": 33.294
+    },
+    {
+     "w": "turn.",
+     "start": 33.294,
+     "end": 33.454
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 33.885,
+   "end": 36.552,
+   "text": "But open the door while it runs, and the waves hit you.",
+   "words": [
+    {
+     "w": "But",
+     "start": 34.015,
+     "end": 34.204
+    },
+    {
+     "w": "open",
+     "start": 34.204,
+     "end": 34.532
+    },
+    {
+     "w": "the",
+     "start": 34.532,
+     "end": 34.721
+    },
+    {
+     "w": "door",
+     "start": 34.721,
+     "end": 34.909
+    },
+    {
+     "w": "while",
+     "start": 34.909,
+     "end": 35.098
+    },
+    {
+     "w": "it",
+     "start": 35.098,
+     "end": 35.286
+    },
+    {
+     "w": "runs,",
+     "start": 35.286,
+     "end": 35.475
+    },
+    {
+     "w": "and",
+     "start": 35.605,
+     "end": 35.757
+    },
+    {
+     "w": "the",
+     "start": 35.757,
+     "end": 35.908
+    },
+    {
+     "w": "waves",
+     "start": 35.908,
+     "end": 36.172
+    },
+    {
+     "w": "hit",
+     "start": 36.172,
+     "end": 36.323
+    },
+    {
+     "w": "you.",
+     "start": 36.323,
+     "end": 36.475
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.917,
+   "end": 39.979,
+   "text": "So switches in the door cut the power before it even opens a crack.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.017,
+     "end": 37.181
+    },
+    {
+     "w": "switches",
+     "start": 37.181,
+     "end": 37.466
+    },
+    {
+     "w": "in",
+     "start": 37.466,
+     "end": 37.63
+    },
+    {
+     "w": "the",
+     "start": 37.63,
+     "end": 37.794
+    },
+    {
+     "w": "door",
+     "start": 37.794,
+     "end": 37.957
+    },
+    {
+     "w": "cut",
+     "start": 37.957,
+     "end": 38.121
+    },
+    {
+     "w": "the",
+     "start": 38.121,
+     "end": 38.285
+    },
+    {
+     "w": "power",
+     "start": 38.285,
+     "end": 38.57
+    },
+    {
+     "w": "before",
+     "start": 38.57,
+     "end": 38.855
+    },
+    {
+     "w": "it",
+     "start": 38.855,
+     "end": 39.019
+    },
+    {
+     "w": "even",
+     "start": 39.019,
+     "end": 39.304
+    },
+    {
+     "w": "opens",
+     "start": 39.304,
+     "end": 39.589
+    },
+    {
+     "w": "a",
+     "start": 39.589,
+     "end": 39.753
+    },
+    {
+     "w": "crack.",
+     "start": 39.753,
+     "end": 39.917
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 40.344,
+   "end": 44.604,
+   "text": "But before you press start, follow, because next we're building the Leaning Tower of Pisa.",
+   "words": [
+    {
+     "w": "But",
+     "start": 40.484,
+     "end": 40.688
+    },
+    {
+     "w": "before",
+     "start": 40.688,
+     "end": 41.043
+    },
+    {
+     "w": "you",
+     "start": 41.043,
+     "end": 41.246
+    },
+    {
+     "w": "press",
+     "start": 41.246,
+     "end": 41.45
+    },
+    {
+     "w": "start,",
+     "start": 41.45,
+     "end": 41.654
+    },
+    {
+     "w": "follow,",
+     "start": 41.814,
+     "end": 42.144
+    },
+    {
+     "w": "because",
+     "start": 42.254,
+     "end": 42.566
+    },
+    {
+     "w": "next",
+     "start": 42.566,
+     "end": 42.746
+    },
+    {
+     "w": "we're",
+     "start": 42.746,
+     "end": 42.925
+    },
+    {
+     "w": "building",
+     "start": 42.925,
+     "end": 43.238
+    },
+    {
+     "w": "the",
+     "start": 43.238,
+     "end": 43.417
+    },
+    {
+     "w": "Leaning",
+     "start": 43.417,
+     "end": 43.73
+    },
+    {
+     "w": "Tower",
+     "start": 43.73,
+     "end": 44.042
+    },
+    {
+     "w": "of",
+     "start": 44.042,
+     "end": 44.222
+    },
+    {
+     "w": "Pisa.",
+     "start": 44.222,
+     "end": 44.534
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 44.969,
+   "end": 51.229,
+   "text": "Now the story: in nineteen forty-five, radar engineer Percy Spencer found the chocolate bar in his pocket had melted.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 45.079,
+     "end": 45.279
+    },
+    {
+     "w": "the",
+     "start": 45.279,
+     "end": 45.48
+    },
+    {
+     "w": "story:",
+     "start": 45.48,
+     "end": 45.829
+    },
+    {
+     "w": "in",
+     "start": 45.969,
+     "end": 46.17
+    },
+    {
+     "w": "nineteen",
+     "start": 46.17,
+     "end": 46.67
+    },
+    {
+     "w": "forty-five,",
+     "start": 46.67,
+     "end": 47.169
+    },
+    {
+     "w": "radar",
+     "start": 47.329,
+     "end": 47.667
+    },
+    {
+     "w": "engineer",
+     "start": 47.667,
+     "end": 48.149
+    },
+    {
+     "w": "Percy",
+     "start": 48.149,
+     "end": 48.487
+    },
+    {
+     "w": "Spencer",
+     "start": 48.487,
+     "end": 48.825
+    },
+    {
+     "w": "found",
+     "start": 48.825,
+     "end": 49.02
+    },
+    {
+     "w": "the",
+     "start": 49.02,
+     "end": 49.214
+    },
+    {
+     "w": "chocolate",
+     "start": 49.214,
+     "end": 49.696
+    },
+    {
+     "w": "bar",
+     "start": 49.696,
+     "end": 49.89
+    },
+    {
+     "w": "in",
+     "start": 49.89,
+     "end": 50.084
+    },
+    {
+     "w": "his",
+     "start": 50.084,
+     "end": 50.279
+    },
+    {
+     "w": "pocket",
+     "start": 50.279,
+     "end": 50.617
+    },
+    {
+     "w": "had",
+     "start": 50.617,
+     "end": 50.811
+    },
+    {
+     "w": "melted.",
+     "start": 50.811,
+     "end": 51.149
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.594,
+   "end": 57.135,
+   "text": "Two and a half billion flips a second, twelve-centimeter waves, and the first oven weighed three hundred forty kilos.",
+   "words": [
+    {
+     "w": "Two",
+     "start": 51.754,
+     "end": 51.929
+    },
+    {
+     "w": "and",
+     "start": 51.929,
+     "end": 52.104
+    },
+    {
+     "w": "a",
+     "start": 52.104,
+     "end": 52.279
+    },
+    {
+     "w": "half",
+     "start": 52.279,
+     "end": 52.454
+    },
+    {
+     "w": "billion",
+     "start": 52.454,
+     "end": 52.759
+    },
+    {
+     "w": "flips",
+     "start": 52.759,
+     "end": 52.934
+    },
+    {
+     "w": "a",
+     "start": 52.934,
+     "end": 53.109
+    },
+    {
+     "w": "second,",
+     "start": 53.109,
+     "end": 53.414
+    },
+    {
+     "w": "twelve-centimeter",
+     "start": 53.584,
+     "end": 54.438
+    },
+    {
+     "w": "waves,",
+     "start": 54.438,
+     "end": 54.754
+    },
+    {
+     "w": "and",
+     "start": 54.864,
+     "end": 55.036
+    },
+    {
+     "w": "the",
+     "start": 55.036,
+     "end": 55.209
+    },
+    {
+     "w": "first",
+     "start": 55.209,
+     "end": 55.381
+    },
+    {
+     "w": "oven",
+     "start": 55.381,
+     "end": 55.681
+    },
+    {
+     "w": "weighed",
+     "start": 55.681,
+     "end": 55.981
+    },
+    {
+     "w": "three",
+     "start": 55.981,
+     "end": 56.154
+    },
+    {
+     "w": "hundred",
+     "start": 56.154,
+     "end": 56.454
+    },
+    {
+     "w": "forty",
+     "start": 56.454,
+     "end": 56.754
+    },
+    {
+     "w": "kilos.",
+     "start": 56.754,
+     "end": 57.054
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 57.5,
+   "end": 60.417,
+   "text": "And congrats, you just built a microwave oven yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 57.62,
+     "end": 57.83
+    },
+    {
+     "w": "congrats,",
+     "start": 57.83,
+     "end": 58.196
+    },
+    {
+     "w": "you",
+     "start": 58.196,
+     "end": 58.406
+    },
+    {
+     "w": "just",
+     "start": 58.406,
+     "end": 58.616
+    },
+    {
+     "w": "built",
+     "start": 58.616,
+     "end": 58.827
+    },
+    {
+     "w": "a",
+     "start": 58.827,
+     "end": 59.037
+    },
+    {
+     "w": "microwave",
+     "start": 59.037,
+     "end": 59.558
+    },
+    {
+     "w": "oven",
+     "start": 59.558,
+     "end": 59.924
+    },
+    {
+     "w": "yourself.",
+     "start": 59.924,
+     "end": 60.29
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 60.781,
+   "end": 65.531,
+   "text": "It shakes water billions of times a second, and you still stop it at one second left so it won't beep.",
+   "words": [
+    {
+     "w": "It",
+     "start": 60.911,
+     "end": 61.083
+    },
+    {
+     "w": "shakes",
+     "start": 61.083,
+     "end": 61.382
+    },
+    {
+     "w": "water",
+     "start": 61.382,
+     "end": 61.681
+    },
+    {
+     "w": "billions",
+     "start": 61.681,
+     "end": 61.98
+    },
+    {
+     "w": "of",
+     "start": 61.98,
+     "end": 62.151
+    },
+    {
+     "w": "times",
+     "start": 62.151,
+     "end": 62.45
+    },
+    {
+     "w": "a",
+     "start": 62.45,
+     "end": 62.622
+    },
+    {
+     "w": "second,",
+     "start": 62.622,
+     "end": 62.921
+    },
+    {
+     "w": "and",
+     "start": 63.041,
+     "end": 63.212
+    },
+    {
+     "w": "you",
+     "start": 63.212,
+     "end": 63.383
+    },
+    {
+     "w": "still",
+     "start": 63.383,
+     "end": 63.554
+    },
+    {
+     "w": "stop",
+     "start": 63.554,
+     "end": 63.725
+    },
+    {
+     "w": "it",
+     "start": 63.725,
+     "end": 63.896
+    },
+    {
+     "w": "at",
+     "start": 63.896,
+     "end": 64.067
+    },
+    {
+     "w": "one",
+     "start": 64.067,
+     "end": 64.238
+    },
+    {
+     "w": "second",
+     "start": 64.238,
+     "end": 64.536
+    },
+    {
+     "w": "left",
+     "start": 64.536,
+     "end": 64.707
+    },
+    {
+     "w": "so",
+     "start": 64.707,
+     "end": 64.878
+    },
+    {
+     "w": "it",
+     "start": 64.878,
+     "end": 65.049
+    },
+    {
+     "w": "won't",
+     "start": 65.049,
+     "end": 65.22
+    },
+    {
+     "w": "beep.",
+     "start": 65.22,
+     "end": 65.391
+    }
+   ]
+  }
+ ]
+}
