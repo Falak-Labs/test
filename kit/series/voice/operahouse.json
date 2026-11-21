@@ -324,7 +324,7 @@
    "line": 4,
    "start": 15.24,
    "end": 18.292,
-   "text": "But a curved concrete roof needs a new mould for every shape.",
+   "text": "But a curved concrete roof needs a new mold for every shape.",
    "words": [
     {
      "w": "But",
@@ -334,57 +334,57 @@
     {
      "w": "a",
      "start": 15.566,
-     "end": 15.753
+     "end": 15.752
     },
     {
      "w": "curved",
-     "start": 15.753,
-     "end": 16.078
+     "start": 15.752,
+     "end": 16.075
     },
     {
      "w": "concrete",
-     "start": 16.078,
-     "end": 16.402
+     "start": 16.075,
+     "end": 16.398
     },
     {
      "w": "roof",
-     "start": 16.402,
-     "end": 16.589
+     "start": 16.398,
+     "end": 16.584
     },
     {
      "w": "needs",
-     "start": 16.589,
-     "end": 16.775
+     "start": 16.584,
+     "end": 16.77
     },
     {
      "w": "a",
-     "start": 16.775,
-     "end": 16.961
+     "start": 16.77,
+     "end": 16.956
     },
     {
      "w": "new",
-     "start": 16.961,
-     "end": 17.148
+     "start": 16.956,
+     "end": 17.142
     },
     {
-     "w": "mould",
-     "start": 17.148,
-     "end": 17.334
+     "w": "mold",
+     "start": 17.142,
+     "end": 17.327
     },
     {
      "w": "for",
-     "start": 17.334,
-     "end": 17.521
+     "start": 17.327,
+     "end": 17.513
     },
     {
      "w": "every",
-     "start": 17.521,
-     "end": 17.984
+     "start": 17.513,
+     "end": 17.974
     },
     {
      "w": "shape.",
-     "start": 17.984,
-     "end": 18.17
+     "start": 17.974,
+     "end": 18.16
     }
    ]
   },
@@ -392,62 +392,62 @@
    "line": 5,
    "start": 18.656,
    "end": 21.885,
-   "text": "So you cast it in pieces from the same few moulds, right on site.",
+   "text": "So you cast it in pieces from the same few molds, right on site.",
    "words": [
     {
      "w": "So",
      "start": 18.766,
-     "end": 18.964
+     "end": 18.966
     },
     {
      "w": "you",
-     "start": 18.964,
-     "end": 19.163
+     "start": 18.966,
+     "end": 19.166
     },
     {
      "w": "cast",
-     "start": 19.163,
-     "end": 19.361
+     "start": 19.166,
+     "end": 19.366
     },
     {
      "w": "it",
-     "start": 19.361,
-     "end": 19.56
+     "start": 19.366,
+     "end": 19.567
     },
     {
      "w": "in",
-     "start": 19.56,
-     "end": 19.758
+     "start": 19.567,
+     "end": 19.767
     },
     {
      "w": "pieces",
-     "start": 19.758,
-     "end": 20.104
+     "start": 19.767,
+     "end": 20.115
     },
     {
      "w": "from",
-     "start": 20.104,
-     "end": 20.302
+     "start": 20.115,
+     "end": 20.315
     },
     {
      "w": "the",
-     "start": 20.302,
-     "end": 20.501
+     "start": 20.315,
+     "end": 20.516
     },
     {
      "w": "same",
-     "start": 20.501,
-     "end": 20.699
+     "start": 20.516,
+     "end": 20.716
     },
     {
      "w": "few",
-     "start": 20.699,
-     "end": 20.898
+     "start": 20.716,
+     "end": 20.916
     },
     {
-     "w": "moulds,",
-     "start": 20.898,
-     "end": 21.096
+     "w": "molds,",
+     "start": 20.916,
+     "end": 21.116
     },
     {
      "w": "right",
