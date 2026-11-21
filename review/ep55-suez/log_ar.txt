@@ -1,0 +1,7 @@
+suez_ar_sa: 70.87s, 2126 frames
+cover out/suez_ar_sa/cover.png: ['قناة', 'السويس'] (frame 0 of the video)
+video done in 539s
+audio done
+final out/suez_ar_sa/suez_ar_sa_final.mp4
+QA  duration 70.87s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2126
+QA sheet out/suez_ar_sa/qa_sheet.png
