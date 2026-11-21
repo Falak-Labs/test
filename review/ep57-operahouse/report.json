@@ -1,0 +1,138 @@
+{
+ "slug": "ep57-operahouse",
+ "kit": "operahouse",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.6,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "26/233",
+   "mix_lines_off": [
+    "L 2 1 diff  | But the winning design is a sketch of sales and nobody knows how to build it.",
+    "L 6 2 diff  | But some pieces weigh 15 tons and they have to hang in a curve.",
+    "L 7 4 diff  | So cranes lift them one by one and 350 kilometers of steel cable pull them tight.",
+    "L 9 1 diff  | So you cover in a million Swedish tiles glossy and matte that the rain washes clean.",
+    "L11 3 diff  | It opened in 1973, but its architect had quit years before and never came back to see it.",
+    "L12 14 diff | 67 meters tall, 2,194 pieces and 1,056,006 tiles.",
+    "L14 1 diff  | It finished 10 years late and cost 14 times the first estimate. So basically, your quick kitchen makeover."
+   ],
+   "size_mb": 17.7,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تطلّع سقف كامل من شرايح كورة وحدة، مبروك، كذا سويت لك دار أوبرا سيدني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس التصميم اللي فاز رسمة أشرعة بيضا، ومحد يعرف كيف تنبني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتقص كل قشرة من نفس الكورة، مثل ما تقشر برتقالة، وكل الانحناءات تصير وحدة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس سقف منحني بهالحجم يبي قالب جديد لكل شكل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتصبّه قطع من كم قالب بس، في الموقع نفسه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس بعض القطع توصل خمسطعش طن، ولازم تتعلق على شكل قوس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فالرافعات ترفعها وحدة وحدة، وثلاثمية وخمسين كيلو كيابل حديد تشدها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس سقف أبيض جنب البحر يتوسخ، وفي الشمس يعمي عيونك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتلبّسه أكثر من مليون بلاطة سويدية، لامعة ومطفية، والمطر يغسلها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تنحني للجمهور، تابعني، لأن الجاي بنبني عجلة دوّارة عملاقة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "وانفتحت في ألف وتسعمية وثلاثة وسبعين، ومصممها تاركها من سنين، وما رجع يشوفها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "سبعة وستين متر طول، ألفين ومية وأربعة وتسعين قطعة، وأكثر من مليون بلاطة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك دار أوبرا سيدني بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "خلصت متأخرة عشر سنين، وكلّفت أربعطعش ضعف، مثل المقاول اللي قال لك: أسبوعين وأسلمك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 70.8,
+   "lufs": -14.0,
+   "peak": -2.6,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 17.7,
+   "cover": true
+  }
+ }
+}

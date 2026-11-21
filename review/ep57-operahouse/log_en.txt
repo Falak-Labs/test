@@ -1,0 +1,13 @@
+operahouse: 69.61s, 2088 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/operahouse/cover.png: ['THE SYDNEY', 'OPERA HOUSE'] (frame 0 of the video)
+video done in 519s
+audio done
+final out/operahouse/operahouse_final.mp4
+QA  duration 69.60s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2088
+QA sheet out/operahouse/qa_sheet.png

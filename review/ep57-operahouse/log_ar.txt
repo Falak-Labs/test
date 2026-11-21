@@ -1,0 +1,7 @@
+operahouse_ar_sa: 70.79s, 2124 frames
+cover out/operahouse_ar_sa/cover.png: ['دار أوبرا', 'سيدني'] (frame 0 of the video)
+video done in 520s
+audio done
+final out/operahouse_ar_sa/operahouse_ar_sa_final.mp4
+QA  duration 70.80s  loudness -14.0 LUFS  true peak -2.6 dBFS  1080x1920 @ 30/1  frames 2124
+QA sheet out/operahouse_ar_sa/qa_sheet.png
