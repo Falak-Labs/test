@@ -1,4 +1,4 @@
-# Post status 2026-11-21T04:09:17+00:00
+# Post status 2026-11-21T07:17:24+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -261,7 +261,7 @@
 | ep43-greatwall | en.tiktok | sent |  | 2026-11-19T05:40:49.636Z https://www.tiktok.com/@congratsengineer/video/7709753082191678733?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep43-greatwall | en.youtube | sent |  | 2026-11-19T21:30:56.271Z https://www.youtube.com/shorts/3bQQK3nzerY |
 | ep44-falaj | ar.instagram | sent |  | 2026-11-19T20:03:02.694Z https://www.instagram.com/reel/Df75HkTsTFJ/ |
-| ep44-falaj | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T06:00:00.000Z |
+| ep44-falaj | ar.tiktok | sent |  | 2026-11-21T06:01:23.431Z https://tiktok.com/@kef.tenbeni/video/7710500516630973710 |
 | ep44-falaj | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T20:00:00.000Z |
 | ep44-falaj | en.instagram | sent |  | 2026-11-19T05:43:10.144Z https://www.instagram.com/reel/Df6WiGRBsHh/ |
 | ep44-falaj | en.tiktok | sent |  | 2026-11-19T05:41:53.378Z https://www.tiktok.com/@congratsengineer/video/7709753115062439182?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
