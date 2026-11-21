@@ -1225,6 +1225,10 @@
   mixes: number formats, "tyres" -> "tire", "door's" -> "doors", "replaced" -> "replace" (captions carry the words; the
   CI base.en also wrote "waits" -> "wakes", "melted" -> "knelt it", "bolt" -> "both", "wet" -> "what", which Whisper
   small heard right).
+- Posts (post.yml on the push, state 20:44Z): all 14 targets of 58-60 "scheduled" at their Sun Nov 22 PT slots (every
+  dueAt turned back into PT): 58 and 60 four each (YouTube held), 59 all six (Arabic YouTube 14:20Z = 06:20 PT). No
+  Arabic TikTok had to wait. Pushed only after "pages build and deployment" for the last produce commit (2363b80)
+  ended in success.
 - Lessons: Camera.key(t, x, y, z, dur) starts moving AT t: to finish a pull-back on a word, start it early and let dur
   end on the word. A white or pale subject on the golden horizon washes out (the lift set): use a grey or dusk palette
   there. person(): the "point" hand is at (x + 40u*face, y - 150u) with u = h / 140 (put a held phone there).
