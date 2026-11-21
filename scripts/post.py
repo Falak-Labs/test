@@ -196,7 +196,10 @@ def caption_for(cfg, ep, lang, platform):
     if "caption" in d:                                    # old one-caption format
         c = d["caption"].strip()
         return c + "\n\n#Shorts" if platform == "youtube" else c
-    body = d["text"].strip()
+    body = d["text"]
+    if isinstance(body, dict):                            # text: {default: "...", tiktok: "..."} = one platform says it differently
+        body = body.get(platform) or body.get("default") or ""
+    body = body.strip()
     cta = (cfg.get("cta") or {}).get(lang) or {}
     line = cta.get(platform) or cta.get("default")
     if line and d.get("next"):

@@ -1,0 +1,40 @@
+episode: sm02                     # Survival Mode 2: You vs Water (the 4-minute show). This file posts its SHORT cuts to TikTok + Instagram.
+date: 2026-11-22
+video:
+  en: media/sm02-en.mp4
+  ar: media/sm02-ar.mp4
+# YouTube gets both the full video and this short through YouTube Studio (Buffer cannot post over 3 minutes, and its two
+# YouTube posts per 24 hours belong to the builds), so both YouTube targets stay on hold here for good.
+# Full videos, uploaded Nov 21 and scheduled in Studio: English https://youtu.be/DUbMYDcOxaY (public Sun Nov 22 10:00 PT),
+# Arabic https://youtu.be/ugHmQS08wiY (public Sun Nov 22 09:00 PT = 20:00 Riyadh).
+hold: [en.youtube, ar.youtube]
+en:
+  at: "2026-11-22T20:15:00Z"      # 12:15 PT Sun Nov 22; the full video goes public on YouTube at 10:00 PT
+  title: "Ships That Climb Mountains ⛰️ Survival Mode: You vs Water"
+  text: |
+    No boat. No bridge. No dry land. 🌊
+    Level 1: Panama. Two oceans and a wall of mountains between them, so you lift whole ships up a staircase using only rain.
+    Three more bosses are waiting. All 4 levels are on our YouTube channel: @congratsengineer
+    Which one would beat you first: the mountains, the mud, the flood or the storm? 👇
+  tags:
+    tiktok: "#survival #engineering #panamacanal #howitworks #learnontiktok"
+    instagram: "#survival #engineering #panamacanal #howitworks #water"
+    youtube: "#survival #engineering"
+ar:
+  at: "2026-11-22T18:30:00Z"      # 10:30 PT Sun Nov 22 = 21:30 Riyadh; the full video goes public on YouTube at 09:00 PT (20:00 Riyadh)
+  title: "مراكب بتطلع الجبل ⛰️ طور البقاء: انت ضد المية"
+  text:
+    default: |
+      من غير مركب. من غير كوبري. من غير أرض ناشفة. 🌊
+      المرحلة الأولى: بنما. محيطين وبينهم سور من الجبال، فتطلّع المراكب سلم كامل بمية المطر بس.
+      لسه قدامك تلات زعماء. الأربع مراحل كلها على قناتنا في يوتيوب: @kef.tenbeni
+      مين كان هيغلبك الأول: الجبال، الطين، الفيضان ولا العاصفة؟ 👇
+    tiktok: |
+      من غير مركب. من غير كوبري. من غير أرض ناشفة. 🌊
+      المرحلة الأولى: بنما. محيطين وبينهم سور من الجبال، فتطلّع المراكب سلم كامل بمية المطر بس.
+      لسه قدامك تلات زعماء في الحلقة الكاملة.
+      مين كان هيغلبك الأول: الجبال، الطين، الفيضان ولا العاصفة؟ 👇
+  tags:
+    tiktok: "#طور_البقاء #هندسة #قناة_بنما #السعودية #تعلم_على_التيك_توك"
+    instagram: "#طور_البقاء #هندسة #قناة_بنما #كيف_تنبني #معلومات"
+    youtube: "#طور_البقاء #هندسة"
