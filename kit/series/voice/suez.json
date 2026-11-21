@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 67.02,
- "words": 225,
- "words_per_sec": 3.36,
+ "duration": 66.47,
+ "words": 222,
+ "words_per_sec": 3.34,
  "lines": [
   {
    "line": 1,
@@ -190,1056 +190,1041 @@
   {
    "line": 3,
    "start": 9.281,
-   "end": 13.0,
-   "text": "So you cut a shortcut through the desert, from the Mediterranean straight to the Red Sea.",
+   "end": 12.75,
+   "text": "So you cut a shortcut through the desert, from the Mediterranean to the Red Sea.",
    "words": [
     {
      "w": "So",
      "start": 9.391,
-     "end": 9.56
+     "end": 9.561
     },
     {
      "w": "you",
-     "start": 9.56,
-     "end": 9.728
+     "start": 9.561,
+     "end": 9.731
     },
     {
      "w": "cut",
-     "start": 9.728,
-     "end": 9.897
+     "start": 9.731,
+     "end": 9.9
     },
     {
      "w": "a",
-     "start": 9.897,
-     "end": 10.066
+     "start": 9.9,
+     "end": 10.07
     },
     {
      "w": "shortcut",
-     "start": 10.066,
-     "end": 10.36
+     "start": 10.07,
+     "end": 10.366
     },
     {
      "w": "through",
-     "start": 10.36,
-     "end": 10.529
+     "start": 10.366,
+     "end": 10.536
     },
     {
      "w": "the",
-     "start": 10.529,
-     "end": 10.697
+     "start": 10.536,
+     "end": 10.705
     },
     {
      "w": "desert,",
-     "start": 10.697,
-     "end": 10.991
+     "start": 10.705,
+     "end": 11.001
     },
     {
      "w": "from",
-     "start": 11.151,
-     "end": 11.313
+     "start": 11.161,
+     "end": 11.316
     },
     {
      "w": "the",
-     "start": 11.313,
-     "end": 11.476
+     "start": 11.316,
+     "end": 11.47
     },
     {
      "w": "Mediterranean",
-     "start": 11.476,
-     "end": 12.119
-    },
-    {
-     "w": "straight",
-     "start": 12.119,
-     "end": 12.282
+     "start": 11.47,
+     "end": 12.083
     },
     {
      "w": "to",
-     "start": 12.282,
-     "end": 12.444
+     "start": 12.083,
+     "end": 12.237
     },
     {
      "w": "the",
-     "start": 12.444,
-     "end": 12.606
+     "start": 12.237,
+     "end": 12.392
     },
     {
      "w": "Red",
-     "start": 12.606,
-     "end": 12.769
+     "start": 12.392,
+     "end": 12.546
     },
     {
      "w": "Sea.",
-     "start": 12.769,
-     "end": 12.931
+     "start": 12.546,
+     "end": 12.701
     }
    ]
   },
   {
    "line": 4,
-   "start": 13.365,
-   "end": 16.562,
+   "start": 13.115,
+   "end": 16.312,
    "text": "But the desert has no drinking water for thousands of workers.",
    "words": [
     {
      "w": "But",
-     "start": 13.505,
-     "end": 13.709
+     "start": 13.265,
+     "end": 13.468
     },
     {
      "w": "the",
-     "start": 13.709,
-     "end": 13.913
+     "start": 13.468,
+     "end": 13.672
     },
     {
      "w": "desert",
-     "start": 13.913,
-     "end": 14.268
+     "start": 13.672,
+     "end": 14.026
     },
     {
      "w": "has",
-     "start": 14.268,
-     "end": 14.472
+     "start": 14.026,
+     "end": 14.229
     },
     {
      "w": "no",
-     "start": 14.472,
-     "end": 14.676
+     "start": 14.229,
+     "end": 14.432
     },
     {
      "w": "drinking",
-     "start": 14.676,
-     "end": 15.031
+     "start": 14.432,
+     "end": 14.786
     },
     {
      "w": "water",
-     "start": 15.031,
-     "end": 15.387
+     "start": 14.786,
+     "end": 15.14
     },
     {
      "w": "for",
-     "start": 15.387,
-     "end": 15.591
+     "start": 15.14,
+     "end": 15.344
     },
     {
      "w": "thousands",
-     "start": 15.591,
-     "end": 15.946
+     "start": 15.344,
+     "end": 15.698
     },
     {
      "w": "of",
-     "start": 15.946,
-     "end": 16.15
+     "start": 15.698,
+     "end": 15.901
     },
     {
      "w": "workers.",
-     "start": 16.15,
-     "end": 16.505
+     "start": 15.901,
+     "end": 16.255
     }
    ]
   },
   {
    "line": 5,
-   "start": 16.927,
-   "end": 21.573,
-   "text": "So first you dig a fresh water canal from the Nile, and the camp grows into a whole new city.",
+   "start": 16.677,
+   "end": 21.094,
+   "text": "So first you dig a fresh water canal from the Nile, and the camp grows into a new city.",
    "words": [
     {
      "w": "So",
-     "start": 17.037,
-     "end": 17.234
+     "start": 16.787,
+     "end": 16.984
     },
     {
      "w": "first",
-     "start": 17.234,
-     "end": 17.431
+     "start": 16.984,
+     "end": 17.181
     },
     {
      "w": "you",
-     "start": 17.431,
-     "end": 17.628
+     "start": 17.181,
+     "end": 17.378
     },
     {
      "w": "dig",
-     "start": 17.628,
-     "end": 17.825
+     "start": 17.378,
+     "end": 17.575
     },
     {
      "w": "a",
-     "start": 17.825,
-     "end": 18.022
+     "start": 17.575,
+     "end": 17.772
     },
     {
      "w": "fresh",
-     "start": 18.022,
-     "end": 18.22
+     "start": 17.772,
+     "end": 17.97
     },
     {
      "w": "water",
-     "start": 18.22,
-     "end": 18.563
+     "start": 17.97,
+     "end": 18.313
     },
     {
      "w": "canal",
-     "start": 18.563,
-     "end": 18.906
+     "start": 18.313,
+     "end": 18.656
     },
     {
      "w": "from",
-     "start": 18.906,
-     "end": 19.103
+     "start": 18.656,
+     "end": 18.853
     },
     {
      "w": "the",
-     "start": 19.103,
-     "end": 19.3
+     "start": 18.853,
+     "end": 19.05
     },
     {
      "w": "Nile,",
-     "start": 19.3,
-     "end": 19.497
+     "start": 19.05,
+     "end": 19.247
     },
     {
      "w": "and",
-     "start": 19.637,
-     "end": 19.816
+     "start": 19.387,
+     "end": 19.558
     },
     {
      "w": "the",
-     "start": 19.816,
-     "end": 19.996
+     "start": 19.558,
+     "end": 19.729
     },
     {
      "w": "camp",
-     "start": 19.996,
-     "end": 20.175
+     "start": 19.729,
+     "end": 19.9
     },
     {
      "w": "grows",
-     "start": 20.175,
-     "end": 20.354
+     "start": 19.9,
+     "end": 20.07
     },
     {
      "w": "into",
-     "start": 20.354,
-     "end": 20.667
+     "start": 20.07,
+     "end": 20.368
     },
     {
      "w": "a",
-     "start": 20.667,
-     "end": 20.846
-    },
-    {
-     "w": "whole",
-     "start": 20.846,
-     "end": 21.025
+     "start": 20.368,
+     "end": 20.539
     },
     {
      "w": "new",
-     "start": 21.025,
-     "end": 21.205
+     "start": 20.539,
+     "end": 20.71
     },
     {
      "w": "city.",
-     "start": 21.205,
-     "end": 21.517
+     "start": 20.71,
+     "end": 21.007
     }
    ]
   },
   {
    "line": 6,
-   "start": 21.938,
-   "end": 25.677,
+   "start": 21.458,
+   "end": 25.198,
    "text": "But carrying sand out by hand, basket after basket, takes forever.",
    "words": [
     {
      "w": "But",
-     "start": 22.078,
-     "end": 22.305
+     "start": 21.598,
+     "end": 21.826
     },
     {
      "w": "carrying",
-     "start": 22.305,
-     "end": 22.7
+     "start": 21.826,
+     "end": 22.224
     },
     {
      "w": "sand",
-     "start": 22.7,
-     "end": 22.927
+     "start": 22.224,
+     "end": 22.453
     },
     {
      "w": "out",
-     "start": 22.927,
-     "end": 23.154
+     "start": 22.453,
+     "end": 22.681
     },
     {
      "w": "by",
-     "start": 23.154,
-     "end": 23.381
+     "start": 22.681,
+     "end": 22.91
     },
     {
      "w": "hand,",
-     "start": 23.381,
-     "end": 23.608
+     "start": 22.91,
+     "end": 23.138
     },
     {
      "w": "basket",
-     "start": 23.758,
-     "end": 24.095
+     "start": 23.278,
+     "end": 23.611
     },
     {
      "w": "after",
-     "start": 24.095,
-     "end": 24.431
+     "start": 23.611,
+     "end": 23.945
     },
     {
      "w": "basket,",
-     "start": 24.431,
-     "end": 24.768
+     "start": 23.945,
+     "end": 24.278
     },
     {
      "w": "takes",
-     "start": 24.938,
-     "end": 25.206
+     "start": 24.448,
+     "end": 24.724
     },
     {
      "w": "forever.",
-     "start": 25.206,
-     "end": 25.588
+     "start": 24.724,
+     "end": 25.118
     }
    ]
   },
   {
    "line": 7,
-   "start": 26.042,
-   "end": 30.313,
+   "start": 25.562,
+   "end": 29.833,
    "text": "So steam dredgers chew up the bottom and pour the sand onto the banks down long slides.",
    "words": [
     {
      "w": "So",
-     "start": 26.152,
-     "end": 26.357
+     "start": 25.672,
+     "end": 25.877
     },
     {
      "w": "steam",
-     "start": 26.357,
-     "end": 26.562
+     "start": 25.877,
+     "end": 26.082
     },
     {
      "w": "dredgers",
-     "start": 26.562,
-     "end": 26.918
+     "start": 26.082,
+     "end": 26.438
     },
     {
      "w": "chew",
-     "start": 26.918,
-     "end": 27.123
+     "start": 26.438,
+     "end": 26.643
     },
     {
      "w": "up",
-     "start": 27.123,
-     "end": 27.328
+     "start": 26.643,
+     "end": 26.848
     },
     {
      "w": "the",
-     "start": 27.328,
-     "end": 27.533
+     "start": 26.848,
+     "end": 27.053
     },
     {
      "w": "bottom",
-     "start": 27.533,
-     "end": 27.89
+     "start": 27.053,
+     "end": 27.41
     },
     {
      "w": "and",
-     "start": 27.89,
-     "end": 28.095
+     "start": 27.41,
+     "end": 27.615
     },
     {
      "w": "pour",
-     "start": 28.095,
-     "end": 28.299
+     "start": 27.615,
+     "end": 27.819
     },
     {
      "w": "the",
-     "start": 28.299,
-     "end": 28.504
+     "start": 27.819,
+     "end": 28.024
     },
     {
      "w": "sand",
-     "start": 28.504,
-     "end": 28.709
+     "start": 28.024,
+     "end": 28.229
     },
     {
      "w": "onto",
-     "start": 28.709,
-     "end": 29.066
+     "start": 28.229,
+     "end": 28.586
     },
     {
      "w": "the",
-     "start": 29.066,
-     "end": 29.271
+     "start": 28.586,
+     "end": 28.791
     },
     {
      "w": "banks",
-     "start": 29.271,
-     "end": 29.476
+     "start": 28.791,
+     "end": 28.996
     },
     {
      "w": "down",
-     "start": 29.476,
-     "end": 29.68
+     "start": 28.996,
+     "end": 29.2
     },
     {
      "w": "long",
-     "start": 29.68,
-     "end": 29.885
+     "start": 29.2,
+     "end": 29.405
     },
     {
      "w": "slides.",
-     "start": 29.885,
-     "end": 30.242
+     "start": 29.405,
+     "end": 29.762
     }
    ]
   },
   {
    "line": 8,
-   "start": 30.677,
-   "end": 33.812,
+   "start": 30.198,
+   "end": 33.333,
    "text": "But it's only one lane wide, and ships come from both ends.",
    "words": [
     {
      "w": "But",
-     "start": 30.817,
-     "end": 31.031
+     "start": 30.338,
+     "end": 30.553
     },
     {
      "w": "it's",
-     "start": 31.031,
-     "end": 31.244
+     "start": 30.553,
+     "end": 30.768
     },
     {
      "w": "only",
-     "start": 31.244,
-     "end": 31.616
+     "start": 30.768,
+     "end": 31.143
     },
     {
      "w": "one",
-     "start": 31.616,
-     "end": 31.83
+     "start": 31.143,
+     "end": 31.358
     },
     {
      "w": "lane",
-     "start": 31.83,
-     "end": 32.043
+     "start": 31.358,
+     "end": 31.573
     },
     {
      "w": "wide,",
-     "start": 32.043,
-     "end": 32.257
+     "start": 31.573,
+     "end": 31.788
     },
     {
      "w": "and",
-     "start": 32.407,
-     "end": 32.63
+     "start": 31.928,
+     "end": 32.151
     },
     {
      "w": "ships",
-     "start": 32.63,
-     "end": 32.854
+     "start": 32.151,
+     "end": 32.375
     },
     {
      "w": "come",
-     "start": 32.854,
-     "end": 33.077
+     "start": 32.375,
+     "end": 32.598
     },
     {
      "w": "from",
-     "start": 33.077,
-     "end": 33.3
+     "start": 32.598,
+     "end": 32.821
     },
     {
      "w": "both",
-     "start": 33.3,
-     "end": 33.524
+     "start": 32.821,
+     "end": 33.045
     },
     {
      "w": "ends.",
-     "start": 33.524,
-     "end": 33.747
+     "start": 33.045,
+     "end": 33.268
     }
    ]
   },
   {
    "line": 9,
-   "start": 34.177,
-   "end": 39.083,
+   "start": 33.698,
+   "end": 38.604,
    "text": "So they sail in convoys and pass each other in the Bitter Lakes, a dry salt valley you just flooded.",
    "words": [
     {
      "w": "So",
-     "start": 34.287,
-     "end": 34.466
+     "start": 33.808,
+     "end": 33.987
     },
     {
      "w": "they",
-     "start": 34.466,
-     "end": 34.645
+     "start": 33.987,
+     "end": 34.166
     },
     {
      "w": "sail",
-     "start": 34.645,
-     "end": 34.824
+     "start": 34.166,
+     "end": 34.345
     },
     {
      "w": "in",
-     "start": 34.824,
-     "end": 35.004
+     "start": 34.345,
+     "end": 34.525
     },
     {
      "w": "convoys",
-     "start": 35.004,
-     "end": 35.316
+     "start": 34.525,
+     "end": 34.837
     },
     {
      "w": "and",
-     "start": 35.316,
-     "end": 35.495
+     "start": 34.837,
+     "end": 35.016
     },
     {
      "w": "pass",
-     "start": 35.495,
-     "end": 35.674
+     "start": 35.016,
+     "end": 35.195
     },
     {
      "w": "each",
-     "start": 35.674,
-     "end": 35.853
+     "start": 35.195,
+     "end": 35.374
     },
     {
      "w": "other",
-     "start": 35.853,
-     "end": 36.165
+     "start": 35.374,
+     "end": 35.686
     },
     {
      "w": "in",
-     "start": 36.165,
-     "end": 36.344
+     "start": 35.686,
+     "end": 35.865
     },
     {
      "w": "the",
-     "start": 36.344,
-     "end": 36.523
+     "start": 35.865,
+     "end": 36.044
     },
     {
      "w": "Bitter",
-     "start": 36.523,
-     "end": 36.835
+     "start": 36.044,
+     "end": 36.356
     },
     {
      "w": "Lakes,",
-     "start": 36.835,
-     "end": 37.147
+     "start": 36.356,
+     "end": 36.668
     },
     {
      "w": "a",
-     "start": 37.287,
-     "end": 37.489
+     "start": 36.818,
+     "end": 37.018
     },
     {
      "w": "dry",
-     "start": 37.489,
-     "end": 37.69
+     "start": 37.018,
+     "end": 37.219
     },
     {
      "w": "salt",
-     "start": 37.69,
-     "end": 37.892
+     "start": 37.219,
+     "end": 37.419
     },
     {
      "w": "valley",
-     "start": 37.892,
-     "end": 38.243
+     "start": 37.419,
+     "end": 37.768
     },
     {
      "w": "you",
-     "start": 38.243,
-     "end": 38.444
+     "start": 37.768,
+     "end": 37.969
     },
     {
      "w": "just",
-     "start": 38.444,
-     "end": 38.646
+     "start": 37.969,
+     "end": 38.169
     },
     {
      "w": "flooded.",
-     "start": 38.646,
-     "end": 38.997
+     "start": 38.169,
+     "end": 38.518
     }
    ]
   },
   {
    "line": 10,
-   "start": 39.448,
-   "end": 43.156,
+   "start": 38.969,
+   "end": 42.677,
    "text": "But before you drop anchor, follow, because next we're building an escalator.",
    "words": [
     {
      "w": "But",
-     "start": 39.588,
-     "end": 39.779
+     "start": 39.109,
+     "end": 39.3
     },
     {
      "w": "before",
-     "start": 39.779,
-     "end": 40.112
+     "start": 39.3,
+     "end": 39.633
     },
     {
      "w": "you",
-     "start": 40.112,
-     "end": 40.304
+     "start": 39.633,
+     "end": 39.825
     },
     {
      "w": "drop",
-     "start": 40.304,
-     "end": 40.495
+     "start": 39.825,
+     "end": 40.016
     },
     {
      "w": "anchor,",
-     "start": 40.495,
-     "end": 40.828
+     "start": 40.016,
+     "end": 40.349
     },
     {
      "w": "follow,",
-     "start": 40.958,
-     "end": 41.288
+     "start": 40.479,
+     "end": 40.799
     },
     {
      "w": "because",
-     "start": 41.398,
-     "end": 41.696
+     "start": 40.919,
+     "end": 41.219
     },
     {
      "w": "next",
-     "start": 41.696,
-     "end": 41.867
+     "start": 41.219,
+     "end": 41.391
     },
     {
      "w": "we're",
-     "start": 41.867,
-     "end": 42.038
+     "start": 41.391,
+     "end": 41.563
     },
     {
      "w": "building",
-     "start": 42.038,
-     "end": 42.336
+     "start": 41.563,
+     "end": 41.862
     },
     {
      "w": "an",
-     "start": 42.336,
-     "end": 42.507
+     "start": 41.862,
+     "end": 42.034
     },
     {
      "w": "escalator.",
-     "start": 42.507,
-     "end": 43.058
+     "start": 42.034,
+     "end": 42.589
     }
    ]
   },
   {
    "line": 11,
-   "start": 43.521,
-   "end": 49.333,
+   "start": 43.042,
+   "end": 48.854,
    "text": "In eighteen sixty-nine the two seas met, and the trip from London to India got almost nine thousand kilometers shorter.",
    "words": [
     {
      "w": "In",
-     "start": 43.641,
-     "end": 43.848
+     "start": 43.162,
+     "end": 43.37
     },
     {
      "w": "eighteen",
-     "start": 43.848,
-     "end": 44.209
+     "start": 43.37,
+     "end": 43.733
     },
     {
      "w": "sixty-nine",
-     "start": 44.209,
-     "end": 44.723
+     "start": 43.733,
+     "end": 44.249
     },
     {
      "w": "the",
-     "start": 44.723,
-     "end": 44.93
+     "start": 44.249,
+     "end": 44.457
     },
     {
      "w": "two",
-     "start": 44.93,
-     "end": 45.137
+     "start": 44.457,
+     "end": 44.666
     },
     {
      "w": "seas",
-     "start": 45.137,
-     "end": 45.344
+     "start": 44.666,
+     "end": 44.874
     },
     {
      "w": "met,",
-     "start": 45.344,
-     "end": 45.551
+     "start": 44.874,
+     "end": 45.082
     },
     {
      "w": "and",
-     "start": 45.691,
-     "end": 45.879
+     "start": 45.212,
+     "end": 45.4
     },
     {
      "w": "the",
-     "start": 45.879,
-     "end": 46.066
+     "start": 45.4,
+     "end": 45.587
     },
     {
      "w": "trip",
-     "start": 46.066,
-     "end": 46.254
+     "start": 45.587,
+     "end": 45.775
     },
     {
      "w": "from",
-     "start": 46.254,
-     "end": 46.441
+     "start": 45.775,
+     "end": 45.962
     },
     {
      "w": "London",
-     "start": 46.441,
-     "end": 46.768
+     "start": 45.962,
+     "end": 46.289
     },
     {
      "w": "to",
-     "start": 46.768,
-     "end": 46.955
+     "start": 46.289,
+     "end": 46.476
     },
     {
      "w": "India",
-     "start": 46.955,
-     "end": 47.282
+     "start": 46.476,
+     "end": 46.803
     },
     {
      "w": "got",
-     "start": 47.282,
-     "end": 47.469
+     "start": 46.803,
+     "end": 46.99
     },
     {
      "w": "almost",
-     "start": 47.469,
-     "end": 47.796
+     "start": 46.99,
+     "end": 47.317
     },
     {
      "w": "nine",
-     "start": 47.796,
-     "end": 47.984
+     "start": 47.317,
+     "end": 47.505
     },
     {
      "w": "thousand",
-     "start": 47.984,
-     "end": 48.31
+     "start": 47.505,
+     "end": 47.831
     },
     {
      "w": "kilometers",
-     "start": 48.31,
-     "end": 48.914
+     "start": 47.831,
+     "end": 48.435
     },
     {
      "w": "shorter.",
-     "start": 48.914,
-     "end": 49.241
+     "start": 48.435,
+     "end": 48.762
     }
    ]
   },
   {
    "line": 12,
-   "start": 49.698,
-   "end": 55.583,
-   "text": "A hundred and ninety-three kilometers, ten years of digging, and zero locks: the two seas sit almost level.",
+   "start": 49.219,
+   "end": 55.031,
+   "text": "A hundred and ninety-three kilometers, ten years of digging, and zero locks: both seas sit almost level.",
    "words": [
     {
      "w": "A",
-     "start": 49.818,
-     "end": 50.013
+     "start": 49.339,
+     "end": 49.534
     },
     {
      "w": "hundred",
-     "start": 50.013,
-     "end": 50.352
+     "start": 49.534,
+     "end": 49.873
     },
     {
      "w": "and",
-     "start": 50.352,
-     "end": 50.547
+     "start": 49.873,
+     "end": 50.068
     },
     {
      "w": "ninety-three",
-     "start": 50.547,
-     "end": 51.03
+     "start": 50.068,
+     "end": 50.551
     },
     {
      "w": "kilometers,",
-     "start": 51.03,
-     "end": 51.658
+     "start": 50.551,
+     "end": 51.179
     },
     {
      "w": "ten",
-     "start": 51.778,
-     "end": 51.997
+     "start": 51.299,
+     "end": 51.518
     },
     {
      "w": "years",
-     "start": 51.997,
-     "end": 52.217
+     "start": 51.518,
+     "end": 51.738
     },
     {
      "w": "of",
-     "start": 52.217,
-     "end": 52.436
+     "start": 51.738,
+     "end": 51.957
     },
     {
      "w": "digging,",
-     "start": 52.436,
-     "end": 52.818
+     "start": 51.957,
+     "end": 52.339
     },
     {
      "w": "and",
-     "start": 52.948,
-     "end": 53.191
+     "start": 52.509,
+     "end": 52.747
     },
     {
      "w": "zero",
-     "start": 53.191,
-     "end": 53.615
+     "start": 52.747,
+     "end": 53.161
     },
     {
      "w": "locks:",
-     "start": 53.615,
-     "end": 53.858
+     "start": 53.161,
+     "end": 53.399
     },
     {
-     "w": "the",
-     "start": 53.998,
-     "end": 54.198
-    },
-    {
-     "w": "two",
-     "start": 54.198,
-     "end": 54.399
+     "w": "both",
+     "start": 53.529,
+     "end": 53.75
     },
     {
      "w": "seas",
-     "start": 54.399,
-     "end": 54.599
+     "start": 53.75,
+     "end": 53.97
     },
     {
      "w": "sit",
-     "start": 54.599,
-     "end": 54.8
+     "start": 53.97,
+     "end": 54.191
     },
     {
      "w": "almost",
-     "start": 54.8,
-     "end": 55.149
+     "start": 54.191,
+     "end": 54.575
     },
     {
      "w": "level.",
-     "start": 55.149,
-     "end": 55.498
+     "start": 54.575,
+     "end": 54.959
     }
    ]
   },
   {
    "line": 13,
-   "start": 55.948,
-   "end": 58.844,
+   "start": 55.396,
+   "end": 58.292,
    "text": "And congrats, you just built the Suez Canal yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.068,
-     "end": 56.323
+     "start": 55.526,
+     "end": 55.774
     },
     {
      "w": "congrats,",
-     "start": 56.323,
-     "end": 56.768
+     "start": 55.774,
+     "end": 56.206
     },
     {
      "w": "you",
-     "start": 56.908,
-     "end": 57.121
+     "start": 56.346,
+     "end": 56.562
     },
     {
      "w": "just",
-     "start": 57.121,
-     "end": 57.335
+     "start": 56.562,
+     "end": 56.778
     },
     {
      "w": "built",
-     "start": 57.335,
-     "end": 57.548
+     "start": 56.778,
+     "end": 56.993
     },
     {
      "w": "the",
-     "start": 57.548,
-     "end": 57.762
+     "start": 56.993,
+     "end": 57.209
     },
     {
      "w": "Suez",
-     "start": 57.762,
-     "end": 57.975
+     "start": 57.209,
+     "end": 57.425
     },
     {
      "w": "Canal",
-     "start": 57.975,
-     "end": 58.347
+     "start": 57.425,
+     "end": 57.8
     },
     {
      "w": "yourself.",
-     "start": 58.347,
-     "end": 58.718
+     "start": 57.8,
+     "end": 58.176
     }
    ]
   },
   {
    "line": 14,
-   "start": 59.208,
-   "end": 67.031,
+   "start": 58.656,
+   "end": 66.479,
    "text": "In twenty twenty-one, one giant ship got stuck sideways for six days, and the world cheered for one tiny digger. That's you, against your laundry pile.",
    "words": [
     {
      "w": "In",
-     "start": 59.338,
-     "end": 59.561
+     "start": 58.786,
+     "end": 59.009
     },
     {
      "w": "twenty",
-     "start": 59.561,
-     "end": 59.95
+     "start": 59.009,
+     "end": 59.398
     },
     {
      "w": "twenty-one,",
-     "start": 59.95,
-     "end": 60.338
+     "start": 59.398,
+     "end": 59.786
     },
     {
      "w": "one",
-     "start": 60.498,
-     "end": 60.703
+     "start": 59.956,
+     "end": 60.16
     },
     {
      "w": "giant",
-     "start": 60.703,
-     "end": 60.908
+     "start": 60.16,
+     "end": 60.364
     },
     {
      "w": "ship",
-     "start": 60.908,
-     "end": 61.113
+     "start": 60.364,
+     "end": 60.569
     },
     {
      "w": "got",
-     "start": 61.113,
-     "end": 61.318
+     "start": 60.569,
+     "end": 60.773
     },
     {
      "w": "stuck",
-     "start": 61.318,
-     "end": 61.524
+     "start": 60.773,
+     "end": 60.977
     },
     {
      "w": "sideways",
-     "start": 61.524,
-     "end": 62.033
+     "start": 60.977,
+     "end": 61.483
     },
     {
      "w": "for",
-     "start": 62.033,
-     "end": 62.238
+     "start": 61.483,
+     "end": 61.688
     },
     {
      "w": "six",
-     "start": 62.238,
-     "end": 62.443
+     "start": 61.688,
+     "end": 61.892
     },
     {
      "w": "days,",
-     "start": 62.443,
-     "end": 62.648
+     "start": 61.892,
+     "end": 62.096
     },
     {
      "w": "and",
-     "start": 62.698,
-     "end": 62.938
+     "start": 62.146,
+     "end": 62.386
     },
     {
      "w": "the",
-     "start": 62.938,
-     "end": 63.177
+     "start": 62.386,
+     "end": 62.625
     },
     {
      "w": "world",
-     "start": 63.177,
-     "end": 63.417
+     "start": 62.625,
+     "end": 62.865
     },
     {
      "w": "cheered",
-     "start": 63.417,
-     "end": 63.834
+     "start": 62.865,
+     "end": 63.282
     },
     {
      "w": "for",
-     "start": 63.834,
-     "end": 64.074
+     "start": 63.282,
+     "end": 63.522
     },
     {
      "w": "one",
-     "start": 64.074,
-     "end": 64.314
+     "start": 63.522,
+     "end": 63.762
     },
     {
      "w": "tiny",
-     "start": 64.314,
-     "end": 64.731
+     "start": 63.762,
+     "end": 64.179
     },
     {
      "w": "digger.",
-     "start": 64.731,
-     "end": 65.149
+     "start": 64.179,
+     "end": 64.597
     },
     {
      "w": "That's",
-     "start": 65.149,
-     "end": 65.388
+     "start": 64.597,
+     "end": 64.836
     },
     {
      "w": "you,",
-     "start": 65.388,
-     "end": 65.628
+     "start": 64.836,
+     "end": 65.076
     },
     {
      "w": "against",
-     "start": 65.838,
-     "end": 66.19
+     "start": 65.286,
+     "end": 65.638
     },
     {
      "w": "your",
-     "start": 66.19,
-     "end": 66.393
+     "start": 65.638,
+     "end": 65.841
     },
     {
      "w": "laundry",
-     "start": 66.393,
-     "end": 66.746
+     "start": 65.841,
+     "end": 66.194
     },
     {
      "w": "pile.",
-     "start": 66.746,
-     "end": 66.948
+     "start": 66.194,
+     "end": 66.396
     }
    ]
   }
