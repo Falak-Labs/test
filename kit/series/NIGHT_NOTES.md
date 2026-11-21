@@ -1279,3 +1279,8 @@
   was told with the options (Pro is $99 a month for 600,000; Creator is $22 for 121,000).
 - For the build runs: see the new LINEUP rule (leave posts/sm*.yml and media/sm* alone; the show's Arabic TikTok and
   Instagram posts sit in the same Buffer queues as the builds).
+- Daily task: "Build-It 4-minute show", every day 13:17 PT (created Nov 21 from this chat; first run Sun Nov 22 makes
+  episode 3 for Mon Nov 23). It was created without a binding to the owner's computer ("runs in the cloud only"), so
+  whether its session gets the Claude in Chrome tools is only known after the first run. If it does not, the run stops
+  before YouTube, keeps the short cuts back and tells the owner; this chat looks at 15:40 PT on Nov 22 and can do the
+  Studio uploads itself (its browser tools worked all day on Nov 21).
