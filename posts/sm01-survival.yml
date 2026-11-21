@@ -1,0 +1,20 @@
+episode: sm01                     # Survival Mode 1 (the 4-minute show). This file posts its SHORT cut (1:19) to TikTok + Instagram.
+date: 2026-11-21
+video:
+  en: media/sm01-survival-en.mp4
+# The full 4:25 video is uploaded to YouTube (https://youtu.be/Z-o9Kc-oCe4, in YouTube Studio; Buffer cannot post videos over
+# 3 minutes) but still PRIVATE until the owner says go. This cut tells viewers to watch all 4 levels on YouTube, so TikTok and
+# Instagram stay on hold until that video is public. Then: set `at:` and leave only en.youtube in `hold`.
+hold: [en.youtube, en.tiktok, en.instagram]
+en:
+  at: "2026-11-21T22:45:00Z"      # 14:45 PT Sat Nov 21, between builds 55 (13:30) and 56 (16:00); move it if the go comes later
+  title: "Survival Mode: Level 1, The Desert ⚡"
+  text: |
+    No electricity. No fuel. No help. ⚡
+    Level 1: the desert. 45°C and not one patch of shade. Beat the heat with a build that is over 3,000 years old.
+    Three more bosses are waiting. All 4 levels are on our YouTube channel: @congratsengineer
+    Which boss would get you first: heat, thirst, cold or the night? 👇
+  tags:
+    tiktok: "#survival #engineering #desert #howitworks #learnontiktok"
+    instagram: "#survival #engineering #desert #howitworks #ancienttech"
+    youtube: "#survival #engineering"

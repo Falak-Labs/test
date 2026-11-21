@@ -21,8 +21,11 @@ def ours():
     """Buffer post id -> (slug, target) from state/."""
     out = {}
     for fn in sorted(os.listdir(os.path.join(ROOT, "state"))):
-        if fn.startswith("ep") and fn.endswith(".json"):
-            for tgt, rec in json.load(open(os.path.join(ROOT, "state", fn)))["targets"].items():
+        if not fn.endswith(".json"):
+            continue
+        d = json.load(open(os.path.join(ROOT, "state", fn)))
+        if isinstance(d, dict) and "targets" in d:               # every posts file's record (ep57-..., sm01-...), not the caches
+            for tgt, rec in d["targets"].items():
                 if rec.get("id"):
                     out[rec["id"]] = (fn[:-5], tgt)
     return out

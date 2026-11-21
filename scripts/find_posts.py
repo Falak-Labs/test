@@ -22,7 +22,7 @@ def main():
     print("Buffer post statuses:", values)
     ours = {}
     for fn in sorted(os.listdir(os.path.join(post.ROOT, "state"))):
-        if fn.startswith("ep") and fn.endswith(".json"):
+        if fn.endswith(".json") and "targets" in post.load_state(fn[:-5]):     # every posts file's record, not the caches
             for tgt, rec in post.load_state(fn[:-5])["targets"].items():
                 if tgt in targets and rec.get("id"):
                     ours[rec["id"]] = f"{fn[:-5]} {tgt}"
