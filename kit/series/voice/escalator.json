@@ -2,7 +2,7 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 64.02,
+ "duration": 64.04,
  "words": 231,
  "words_per_sec": 3.61,
  "lines": [
@@ -934,342 +934,342 @@
   {
    "line": 11,
    "start": 45.531,
-   "end": 51.375,
-   "text": "London's first, in eighteen ninety-eight, scared shoppers so much that staff waited at the top with smelling salts and brandy.",
+   "end": 51.396,
+   "text": "London's first, in eighteen ninety-eight, scared shoppers so much that staff stood at the top with brandy and smelling salts.",
    "words": [
     {
      "w": "London's",
      "start": 45.621,
-     "end": 46.097
+     "end": 46.104
     },
     {
      "w": "first,",
-     "start": 46.097,
-     "end": 46.371
+     "start": 46.104,
+     "end": 46.381
     },
     {
      "w": "in",
-     "start": 46.551,
-     "end": 46.741
+     "start": 46.561,
+     "end": 46.751
     },
     {
      "w": "eighteen",
-     "start": 46.741,
-     "end": 47.071
+     "start": 46.751,
+     "end": 47.081
     },
     {
      "w": "ninety-eight,",
-     "start": 47.071,
-     "end": 47.541
+     "start": 47.081,
+     "end": 47.551
     },
     {
      "w": "scared",
-     "start": 47.711,
-     "end": 48.046
+     "start": 47.721,
+     "end": 48.07
     },
     {
      "w": "shoppers",
-     "start": 48.046,
-     "end": 48.381
+     "start": 48.07,
+     "end": 48.419
     },
     {
      "w": "so",
-     "start": 48.381,
-     "end": 48.574
+     "start": 48.419,
+     "end": 48.619
     },
     {
      "w": "much",
-     "start": 48.574,
-     "end": 48.766
+     "start": 48.619,
+     "end": 48.82
     },
     {
      "w": "that",
-     "start": 48.766,
-     "end": 48.959
+     "start": 48.82,
+     "end": 49.02
     },
     {
      "w": "staff",
-     "start": 48.959,
-     "end": 49.151
+     "start": 49.02,
+     "end": 49.22
     },
     {
-     "w": "waited",
-     "start": 49.151,
-     "end": 49.486
+     "w": "stood",
+     "start": 49.22,
+     "end": 49.421
     },
     {
      "w": "at",
-     "start": 49.486,
-     "end": 49.679
+     "start": 49.421,
+     "end": 49.621
     },
     {
      "w": "the",
-     "start": 49.679,
-     "end": 49.871
+     "start": 49.621,
+     "end": 49.822
     },
     {
      "w": "top",
-     "start": 49.871,
-     "end": 50.063
+     "start": 49.822,
+     "end": 50.022
     },
     {
      "w": "with",
-     "start": 50.063,
-     "end": 50.256
+     "start": 50.022,
+     "end": 50.222
     },
     {
-     "w": "smelling",
-     "start": 50.256,
-     "end": 50.591
-    },
-    {
-     "w": "salts",
-     "start": 50.591,
-     "end": 50.783
+     "w": "brandy",
+     "start": 50.222,
+     "end": 50.571
     },
     {
      "w": "and",
-     "start": 50.783,
-     "end": 50.976
+     "start": 50.571,
+     "end": 50.772
     },
     {
-     "w": "brandy.",
-     "start": 50.976,
-     "end": 51.311
+     "w": "smelling",
+     "start": 50.772,
+     "end": 51.121
+    },
+    {
+     "w": "salts.",
+     "start": 51.121,
+     "end": 51.321
     }
    ]
   },
   {
    "line": 12,
-   "start": 51.74,
-   "end": 57.646,
+   "start": 51.76,
+   "end": 57.667,
    "text": "Half a meter a second, a hundred and twenty-six meters long under Moscow, and one in Japan with just five steps.",
    "words": [
     {
      "w": "Half",
-     "start": 51.88,
-     "end": 52.074
+     "start": 51.9,
+     "end": 52.094
     },
     {
      "w": "a",
-     "start": 52.074,
-     "end": 52.269
+     "start": 52.094,
+     "end": 52.289
     },
     {
      "w": "meter",
-     "start": 52.269,
-     "end": 52.607
+     "start": 52.289,
+     "end": 52.627
     },
     {
      "w": "a",
-     "start": 52.607,
-     "end": 52.802
+     "start": 52.627,
+     "end": 52.822
     },
     {
      "w": "second,",
-     "start": 52.802,
-     "end": 53.14
+     "start": 52.822,
+     "end": 53.16
     },
     {
      "w": "a",
-     "start": 53.14,
-     "end": 53.335
+     "start": 53.16,
+     "end": 53.355
     },
     {
      "w": "hundred",
-     "start": 53.335,
-     "end": 53.673
+     "start": 53.355,
+     "end": 53.693
     },
     {
      "w": "and",
-     "start": 53.673,
-     "end": 53.868
+     "start": 53.693,
+     "end": 53.888
     },
     {
      "w": "twenty-six",
-     "start": 53.868,
-     "end": 54.35
+     "start": 53.888,
+     "end": 54.37
     },
     {
      "w": "meters",
-     "start": 54.35,
-     "end": 54.689
+     "start": 54.37,
+     "end": 54.709
     },
     {
      "w": "long",
-     "start": 54.689,
-     "end": 54.883
+     "start": 54.709,
+     "end": 54.903
     },
     {
      "w": "under",
-     "start": 54.883,
-     "end": 55.222
+     "start": 54.903,
+     "end": 55.242
     },
     {
      "w": "Moscow,",
-     "start": 55.222,
-     "end": 55.56
+     "start": 55.242,
+     "end": 55.58
     },
     {
      "w": "and",
-     "start": 55.73,
-     "end": 55.941
+     "start": 55.75,
+     "end": 55.961
     },
     {
      "w": "one",
-     "start": 55.941,
-     "end": 56.151
+     "start": 55.961,
+     "end": 56.171
     },
     {
      "w": "in",
-     "start": 56.151,
-     "end": 56.362
+     "start": 56.171,
+     "end": 56.382
     },
     {
      "w": "Japan",
-     "start": 56.362,
-     "end": 56.728
+     "start": 56.382,
+     "end": 56.748
     },
     {
      "w": "with",
-     "start": 56.728,
-     "end": 56.938
+     "start": 56.748,
+     "end": 56.958
     },
     {
      "w": "just",
-     "start": 56.938,
-     "end": 57.149
+     "start": 56.958,
+     "end": 57.169
     },
     {
      "w": "five",
-     "start": 57.149,
-     "end": 57.359
+     "start": 57.169,
+     "end": 57.379
     },
     {
      "w": "steps.",
-     "start": 57.359,
-     "end": 57.57
+     "start": 57.379,
+     "end": 57.59
     }
    ]
   },
   {
    "line": 13,
-   "start": 58.01,
-   "end": 60.708,
+   "start": 58.031,
+   "end": 60.729,
    "text": "And congrats, you just built an escalator yourself.",
    "words": [
     {
      "w": "And",
-     "start": 58.13,
-     "end": 58.338
+     "start": 58.151,
+     "end": 58.359
     },
     {
      "w": "congrats,",
-     "start": 58.338,
-     "end": 58.701
+     "start": 58.359,
+     "end": 58.722
     },
     {
      "w": "you",
-     "start": 58.701,
-     "end": 58.91
+     "start": 58.722,
+     "end": 58.931
     },
     {
      "w": "just",
-     "start": 58.91,
-     "end": 59.118
+     "start": 58.931,
+     "end": 59.139
     },
     {
      "w": "built",
-     "start": 59.118,
-     "end": 59.327
+     "start": 59.139,
+     "end": 59.348
     },
     {
      "w": "an",
-     "start": 59.327,
-     "end": 59.535
+     "start": 59.348,
+     "end": 59.556
     },
     {
      "w": "escalator",
-     "start": 59.535,
-     "end": 60.207
+     "start": 59.556,
+     "end": 60.228
     },
     {
      "w": "yourself.",
-     "start": 60.207,
-     "end": 60.57
+     "start": 60.228,
+     "end": 60.591
     }
    ]
   },
   {
    "line": 14,
-   "start": 61.073,
-   "end": 64.031,
+   "start": 61.094,
+   "end": 64.052,
    "text": "Then people ride it up to the gym, to climb the stair machine.",
    "words": [
     {
      "w": "Then",
-     "start": 61.193,
-     "end": 61.38
+     "start": 61.214,
+     "end": 61.402
     },
     {
      "w": "people",
-     "start": 61.38,
-     "end": 61.568
+     "start": 61.402,
+     "end": 61.589
     },
     {
      "w": "ride",
-     "start": 61.568,
-     "end": 61.756
+     "start": 61.589,
+     "end": 61.776
     },
     {
      "w": "it",
-     "start": 61.756,
-     "end": 61.943
+     "start": 61.776,
+     "end": 61.964
     },
     {
      "w": "up",
-     "start": 61.943,
-     "end": 62.13
+     "start": 61.964,
+     "end": 62.152
     },
     {
      "w": "to",
-     "start": 62.13,
-     "end": 62.318
+     "start": 62.152,
+     "end": 62.339
     },
     {
      "w": "the",
-     "start": 62.318,
-     "end": 62.506
+     "start": 62.339,
+     "end": 62.526
     },
     {
      "w": "gym,",
-     "start": 62.506,
-     "end": 62.693
+     "start": 62.526,
+     "end": 62.714
     },
     {
      "w": "to",
-     "start": 62.863,
-     "end": 63.058
+     "start": 62.884,
+     "end": 63.079
     },
     {
      "w": "climb",
-     "start": 63.058,
-     "end": 63.253
+     "start": 63.079,
+     "end": 63.274
     },
     {
      "w": "the",
-     "start": 63.253,
-     "end": 63.448
+     "start": 63.274,
+     "end": 63.469
     },
     {
      "w": "stair",
-     "start": 63.448,
-     "end": 63.643
+     "start": 63.469,
+     "end": 63.664
     },
     {
      "w": "machine.",
-     "start": 63.643,
-     "end": 63.983
+     "start": 63.664,
+     "end": 64.004
     }
    ]
   }

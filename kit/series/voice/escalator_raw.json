@@ -1,6 +1,6 @@
 {
  "voice": "Easton",
- "duration": 61.47,
+ "duration": 61.49,
  "words": 231,
  "lines": [
   {
@@ -66,25 +66,25 @@
   {
    "line": 11,
    "start": 43.71,
-   "end": 49.32,
-   "text": "London's first, in eighteen ninety-eight, scared shoppers so much that staff waited at the top with smelling salts and brandy."
+   "end": 49.34,
+   "text": "London's first, in eighteen ninety-eight, scared shoppers so much that staff stood at the top with brandy and smelling salts."
   },
   {
    "line": 12,
-   "start": 49.67,
-   "end": 55.34,
+   "start": 49.69,
+   "end": 55.36,
    "text": "Half a meter a second, a hundred and twenty-six meters long under Moscow, and one in Japan with just five steps."
   },
   {
    "line": 13,
-   "start": 55.69,
-   "end": 58.28,
+   "start": 55.71,
+   "end": 58.3,
    "text": "And congrats, you just built an escalator yourself."
   },
   {
    "line": 14,
-   "start": 58.63,
-   "end": 61.47,
+   "start": 58.65,
+   "end": 61.49,
    "text": "Then people ride it up to the gym, to climb the stair machine."
   }
  ]
