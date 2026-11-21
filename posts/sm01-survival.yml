@@ -2,12 +2,13 @@ episode: sm01                     # Survival Mode 1 (the 4-minute show). This fi
 date: 2026-11-21
 video:
   en: media/sm01-survival-en.mp4
-# The full 4:25 video is uploaded to YouTube (https://youtu.be/Z-o9Kc-oCe4, in YouTube Studio; Buffer cannot post videos over
-# 3 minutes) but still PRIVATE until the owner says go. This cut tells viewers to watch all 4 levels on YouTube, so TikTok and
-# Instagram stay on hold until that video is public. Then: set `at:` and leave only en.youtube in `hold`.
-hold: [en.youtube, en.tiktok, en.instagram]
+# The full 4:25 video is PUBLIC on YouTube since 22:09Z Nov 21 (the owner: "Publish now"): https://youtu.be/Z-o9Kc-oCe4. It was
+# uploaded in YouTube Studio (Buffer cannot post videos over 3 minutes). This cut also goes to YouTube Shorts (the owner,
+# 14:08 PT: "post it on yt shorts too"), but through YouTube Studio as well, so it does not use one of Buffer's two
+# YouTube posts per 24 hours: en.youtube stays on hold here for good.
+hold: [en.youtube]
 en:
-  at: "2026-11-21T22:45:00Z"      # 14:45 PT Sat Nov 21, between builds 55 (13:30) and 56 (16:00); move it if the go comes later
+  at: "2026-11-21T22:45:00Z"      # 14:45 PT Sat Nov 21, between builds 55 (13:30) and 56 (16:00)
   title: "Survival Mode: Level 1, The Desert ⚡"
   text: |
     No electricity. No fuel. No help. ⚡
