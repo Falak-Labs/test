@@ -1,0 +1,632 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 36.85,
+ "words": 110,
+ "words_per_sec": 2.98,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 2.448,
+   "text": "No electricity. No fuel. No help.",
+   "words": [
+    {
+     "w": "No",
+     "start": 0.09,
+     "end": 0.269
+    },
+    {
+     "w": "electricity.",
+     "start": 0.269,
+     "end": 0.98
+    },
+    {
+     "w": "No",
+     "start": 1.15,
+     "end": 1.445
+    },
+    {
+     "w": "fuel.",
+     "start": 1.445,
+     "end": 1.74
+    },
+    {
+     "w": "No",
+     "start": 1.88,
+     "end": 2.085
+    },
+    {
+     "w": "help.",
+     "start": 2.085,
+     "end": 2.29
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 2.813,
+   "end": 6.625,
+   "text": "Just you, and four places on Earth that can kill you before sunrise.",
+   "words": [
+    {
+     "w": "Just",
+     "start": 2.913,
+     "end": 3.152
+    },
+    {
+     "w": "you,",
+     "start": 3.152,
+     "end": 3.391
+    },
+    {
+     "w": "and",
+     "start": 3.391,
+     "end": 3.63
+    },
+    {
+     "w": "four",
+     "start": 3.63,
+     "end": 3.869
+    },
+    {
+     "w": "places",
+     "start": 3.869,
+     "end": 4.286
+    },
+    {
+     "w": "on",
+     "start": 4.286,
+     "end": 4.525
+    },
+    {
+     "w": "Earth",
+     "start": 4.525,
+     "end": 4.764
+    },
+    {
+     "w": "that",
+     "start": 4.764,
+     "end": 5.003
+    },
+    {
+     "w": "can",
+     "start": 5.003,
+     "end": 5.242
+    },
+    {
+     "w": "kill",
+     "start": 5.242,
+     "end": 5.481
+    },
+    {
+     "w": "you",
+     "start": 5.481,
+     "end": 5.72
+    },
+    {
+     "w": "before",
+     "start": 5.72,
+     "end": 6.137
+    },
+    {
+     "w": "sunrise.",
+     "start": 6.137,
+     "end": 6.553
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 6.99,
+   "end": 10.104,
+   "text": "Beat all four, and congrats, you just survived the planet.",
+   "words": [
+    {
+     "w": "Beat",
+     "start": 7.09,
+     "end": 7.25
+    },
+    {
+     "w": "all",
+     "start": 7.25,
+     "end": 7.41
+    },
+    {
+     "w": "four,",
+     "start": 7.41,
+     "end": 7.57
+    },
+    {
+     "w": "and",
+     "start": 7.65,
+     "end": 7.889
+    },
+    {
+     "w": "congrats,",
+     "start": 7.889,
+     "end": 8.305
+    },
+    {
+     "w": "you",
+     "start": 8.305,
+     "end": 8.544
+    },
+    {
+     "w": "just",
+     "start": 8.544,
+     "end": 8.782
+    },
+    {
+     "w": "survived",
+     "start": 8.782,
+     "end": 9.375
+    },
+    {
+     "w": "the",
+     "start": 9.375,
+     "end": 9.614
+    },
+    {
+     "w": "planet.",
+     "start": 9.614,
+     "end": 10.03
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 10.469,
+   "end": 14.25,
+   "text": "Level one. The desert. Forty-five degrees, and not one patch of shade.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 10.559,
+     "end": 10.946
+    },
+    {
+     "w": "one.",
+     "start": 10.946,
+     "end": 11.169
+    },
+    {
+     "w": "The",
+     "start": 11.289,
+     "end": 11.435
+    },
+    {
+     "w": "desert.",
+     "start": 11.435,
+     "end": 11.689
+    },
+    {
+     "w": "Forty-five",
+     "start": 11.849,
+     "end": 12.425
+    },
+    {
+     "w": "degrees,",
+     "start": 12.425,
+     "end": 12.829
+    },
+    {
+     "w": "and",
+     "start": 12.959,
+     "end": 13.162
+    },
+    {
+     "w": "not",
+     "start": 13.162,
+     "end": 13.366
+    },
+    {
+     "w": "one",
+     "start": 13.366,
+     "end": 13.569
+    },
+    {
+     "w": "patch",
+     "start": 13.569,
+     "end": 13.772
+    },
+    {
+     "w": "of",
+     "start": 13.772,
+     "end": 13.976
+    },
+    {
+     "w": "shade.",
+     "start": 13.976,
+     "end": 14.179
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 14.615,
+   "end": 18.406,
+   "text": "Level two. You're cool now, but the nearest water is deep under a mountain.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 14.705,
+     "end": 15.131
+    },
+    {
+     "w": "two.",
+     "start": 15.131,
+     "end": 15.375
+    },
+    {
+     "w": "You're",
+     "start": 15.525,
+     "end": 15.712
+    },
+    {
+     "w": "cool",
+     "start": 15.712,
+     "end": 15.899
+    },
+    {
+     "w": "now,",
+     "start": 15.899,
+     "end": 16.086
+    },
+    {
+     "w": "but",
+     "start": 16.086,
+     "end": 16.274
+    },
+    {
+     "w": "the",
+     "start": 16.274,
+     "end": 16.461
+    },
+    {
+     "w": "nearest",
+     "start": 16.461,
+     "end": 16.786
+    },
+    {
+     "w": "water",
+     "start": 16.786,
+     "end": 17.112
+    },
+    {
+     "w": "is",
+     "start": 17.112,
+     "end": 17.299
+    },
+    {
+     "w": "deep",
+     "start": 17.299,
+     "end": 17.486
+    },
+    {
+     "w": "under",
+     "start": 17.486,
+     "end": 17.812
+    },
+    {
+     "w": "a",
+     "start": 17.812,
+     "end": 17.999
+    },
+    {
+     "w": "mountain.",
+     "start": 17.999,
+     "end": 18.325
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 18.771,
+   "end": 23.667,
+   "text": "Level three. The Arctic. Minus forty, no trees, and nothing to build with but snow.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 18.871,
+     "end": 19.29
+    },
+    {
+     "w": "three.",
+     "start": 19.29,
+     "end": 19.531
+    },
+    {
+     "w": "The",
+     "start": 19.671,
+     "end": 20.036
+    },
+    {
+     "w": "Arctic.",
+     "start": 20.036,
+     "end": 20.671
+    },
+    {
+     "w": "Minus",
+     "start": 20.751,
+     "end": 21.126
+    },
+    {
+     "w": "forty,",
+     "start": 21.126,
+     "end": 21.5
+    },
+    {
+     "w": "no",
+     "start": 21.5,
+     "end": 21.716
+    },
+    {
+     "w": "trees,",
+     "start": 21.716,
+     "end": 21.931
+    },
+    {
+     "w": "and",
+     "start": 22.061,
+     "end": 22.261
+    },
+    {
+     "w": "nothing",
+     "start": 22.261,
+     "end": 22.61
+    },
+    {
+     "w": "to",
+     "start": 22.61,
+     "end": 22.81
+    },
+    {
+     "w": "build",
+     "start": 22.81,
+     "end": 23.01
+    },
+    {
+     "w": "with",
+     "start": 23.01,
+     "end": 23.211
+    },
+    {
+     "w": "but",
+     "start": 23.211,
+     "end": 23.411
+    },
+    {
+     "w": "snow.",
+     "start": 23.411,
+     "end": 23.611
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 24.031,
+   "end": 27.625,
+   "text": "Final level. A Korean winter night, and your fire will be dead by midnight.",
+   "words": [
+    {
+     "w": "Final",
+     "start": 24.161,
+     "end": 24.451
+    },
+    {
+     "w": "level.",
+     "start": 24.451,
+     "end": 24.741
+    },
+    {
+     "w": "A",
+     "start": 24.871,
+     "end": 25.053
+    },
+    {
+     "w": "Korean",
+     "start": 25.053,
+     "end": 25.371
+    },
+    {
+     "w": "winter",
+     "start": 25.371,
+     "end": 25.689
+    },
+    {
+     "w": "night,",
+     "start": 25.689,
+     "end": 25.871
+    },
+    {
+     "w": "and",
+     "start": 26.011,
+     "end": 26.186
+    },
+    {
+     "w": "your",
+     "start": 26.186,
+     "end": 26.361
+    },
+    {
+     "w": "fire",
+     "start": 26.361,
+     "end": 26.536
+    },
+    {
+     "w": "will",
+     "start": 26.536,
+     "end": 26.711
+    },
+    {
+     "w": "be",
+     "start": 26.711,
+     "end": 26.886
+    },
+    {
+     "w": "dead",
+     "start": 26.886,
+     "end": 27.061
+    },
+    {
+     "w": "by",
+     "start": 27.061,
+     "end": 27.236
+    },
+    {
+     "w": "midnight.",
+     "start": 27.236,
+     "end": 27.541
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 27.99,
+   "end": 33.802,
+   "text": "Four levels, zero watts. You beat heat, thirst, ice and the longest night, with mud, snow and smoke.",
+   "words": [
+    {
+     "w": "Four",
+     "start": 28.14,
+     "end": 28.352
+    },
+    {
+     "w": "levels,",
+     "start": 28.352,
+     "end": 28.72
+    },
+    {
+     "w": "zero",
+     "start": 28.88,
+     "end": 29.248
+    },
+    {
+     "w": "watts.",
+     "start": 29.248,
+     "end": 29.46
+    },
+    {
+     "w": "You",
+     "start": 29.51,
+     "end": 29.787
+    },
+    {
+     "w": "beat",
+     "start": 29.787,
+     "end": 30.063
+    },
+    {
+     "w": "heat,",
+     "start": 30.063,
+     "end": 30.34
+    },
+    {
+     "w": "thirst,",
+     "start": 30.49,
+     "end": 30.79
+    },
+    {
+     "w": "ice",
+     "start": 30.97,
+     "end": 31.158
+    },
+    {
+     "w": "and",
+     "start": 31.158,
+     "end": 31.346
+    },
+    {
+     "w": "the",
+     "start": 31.346,
+     "end": 31.534
+    },
+    {
+     "w": "longest",
+     "start": 31.534,
+     "end": 31.862
+    },
+    {
+     "w": "night,",
+     "start": 31.862,
+     "end": 32.05
+    },
+    {
+     "w": "with",
+     "start": 32.19,
+     "end": 32.455
+    },
+    {
+     "w": "mud,",
+     "start": 32.455,
+     "end": 32.72
+    },
+    {
+     "w": "snow",
+     "start": 32.87,
+     "end": 33.157
+    },
+    {
+     "w": "and",
+     "start": 33.157,
+     "end": 33.443
+    },
+    {
+     "w": "smoke.",
+     "start": 33.443,
+     "end": 33.73
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 34.167,
+   "end": 36.875,
+   "text": "New world tomorrow. Follow, or the boss wins.",
+   "words": [
+    {
+     "w": "New",
+     "start": 34.257,
+     "end": 34.48
+    },
+    {
+     "w": "world",
+     "start": 34.48,
+     "end": 34.703
+    },
+    {
+     "w": "tomorrow.",
+     "start": 34.703,
+     "end": 35.257
+    },
+    {
+     "w": "Follow,",
+     "start": 35.397,
+     "end": 35.777
+    },
+    {
+     "w": "or",
+     "start": 35.987,
+     "end": 36.195
+    },
+    {
+     "w": "the",
+     "start": 36.195,
+     "end": 36.402
+    },
+    {
+     "w": "boss",
+     "start": 36.402,
+     "end": 36.61
+    },
+    {
+     "w": "wins.",
+     "start": 36.61,
+     "end": 36.817
+    }
+   ]
+  }
+ ]
+}

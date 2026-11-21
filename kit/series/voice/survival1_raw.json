@@ -1,0 +1,61 @@
+{
+ "voice": "Easton",
+ "duration": 35.4,
+ "words": 110,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 2.35,
+   "text": "No electricity. No fuel. No help."
+  },
+  {
+   "line": 2,
+   "start": 2.7,
+   "end": 6.36,
+   "text": "Just you, and four places on Earth that can kill you before sunrise."
+  },
+  {
+   "line": 3,
+   "start": 6.71,
+   "end": 9.7,
+   "text": "Beat all four, and congrats, you just survived the planet."
+  },
+  {
+   "line": 4,
+   "start": 10.05,
+   "end": 13.68,
+   "text": "Level one. The desert. Forty-five degrees, and not one patch of shade."
+  },
+  {
+   "line": 5,
+   "start": 14.03,
+   "end": 17.67,
+   "text": "Level two. You're cool now, but the nearest water is deep under a mountain."
+  },
+  {
+   "line": 6,
+   "start": 18.02,
+   "end": 22.72,
+   "text": "Level three. The Arctic. Minus forty, no trees, and nothing to build with but snow."
+  },
+  {
+   "line": 7,
+   "start": 23.07,
+   "end": 26.52,
+   "text": "Final level. A Korean winter night, and your fire will be dead by midnight."
+  },
+  {
+   "line": 8,
+   "start": 26.87,
+   "end": 32.45,
+   "text": "Four levels, zero watts. You beat heat, thirst, ice and the longest night, with mud, snow and smoke."
+  },
+  {
+   "line": 9,
+   "start": 32.8,
+   "end": 35.4,
+   "text": "New world tomorrow. Follow, or the boss wins."
+  }
+ ]
+}
