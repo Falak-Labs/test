@@ -1,4 +1,4 @@
-# Post status 2026-11-21T18:13:16+00:00
+# Post status 2026-11-21T19:22:47+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -311,9 +311,9 @@
 | ep54-eiffel | ar.instagram | sent |  | 2026-11-21T14:02:29.528Z https://www.instagram.com/reel/DgAZcRSJ70R/ |
 | ep54-eiffel | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T14:00:00.000Z |
 | ep54-eiffel | ar.youtube | sent |  | 2026-11-21T14:01:09.562Z https://www.youtube.com/shorts/fhkjfyrrCj0 |
-| ep54-eiffel | en.instagram | scheduled |  | 2026-11-21T19:00:00.000Z |
-| ep54-eiffel | en.tiktok | scheduled |  | 2026-11-21T19:00:00.000Z |
-| ep54-eiffel | en.youtube | scheduled |  | 2026-11-21T19:00:00.000Z |
+| ep54-eiffel | en.instagram | sent |  | 2026-11-21T19:03:25.040Z https://www.instagram.com/reel/DgA7yvUBPdI/ |
+| ep54-eiffel | en.tiktok | sent |  | 2026-11-21T19:03:39.426Z https://tiktok.com/@congratsengineer/video/7710702140372667662 |
+| ep54-eiffel | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-21T19:00:00.000Z |
 | ep55-suez | ar.instagram | sent |  | 2026-11-21T17:03:40.033Z https://www.instagram.com/reel/DgAuLkmh13i/ |
 | ep55-suez | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T17:00:00.000Z |
 | ep55-suez | en.instagram | scheduled |  | 2026-11-21T21:30:00.000Z |
