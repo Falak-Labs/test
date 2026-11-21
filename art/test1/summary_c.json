@@ -1,0 +1,59 @@
+[
+ {
+  "name": "adam",
+  "route": "local",
+  "model": "klein4b",
+  "w": 768,
+  "h": 1024,
+  "steps": 4,
+  "refs": 0,
+  "seconds": 0.0,
+  "ok": false,
+  "files": {
+   "diffusion": "leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q4_0.gguf",
+   "llm": "unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf",
+   "vae": "Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors"
+  },
+  "cpu": "Intel(R) Xeon(R) 6975P-C",
+  "threads": 4,
+  "sdcpp": "master-1106-532d2c1"
+ },
+ {
+  "name": "adam_think",
+  "route": "local",
+  "model": "klein4b",
+  "w": 768,
+  "h": 1024,
+  "steps": 4,
+  "refs": 1,
+  "seconds": 0.0,
+  "ok": false,
+  "files": {
+   "diffusion": "leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q4_0.gguf",
+   "llm": "unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf",
+   "vae": "Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors"
+  },
+  "cpu": "Intel(R) Xeon(R) 6975P-C",
+  "threads": 4,
+  "sdcpp": "master-1106-532d2c1"
+ },
+ {
+  "name": "adam_talk",
+  "route": "local",
+  "model": "klein4b",
+  "w": 768,
+  "h": 1024,
+  "steps": 4,
+  "refs": 1,
+  "seconds": 0.0,
+  "ok": false,
+  "files": {
+   "diffusion": "leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q4_0.gguf",
+   "llm": "unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf",
+   "vae": "Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors"
+  },
+  "cpu": "Intel(R) Xeon(R) 6975P-C",
+  "threads": 4,
+  "sdcpp": "master-1106-532d2c1"
+ }
+]

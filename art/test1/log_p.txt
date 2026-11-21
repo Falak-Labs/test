@@ -1,0 +1,2 @@
+pollinations_tajine: pollinations ok in 5 s 
+done: 1 ok, 0 failed []

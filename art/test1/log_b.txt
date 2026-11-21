@@ -1,0 +1,18 @@
+runner: AMD EPYC 7763 64-Core Processor, 4 threads, 15 GB RAM
+sd.cpp release master-1106-532d2c1 assets: cudart-sd-bin-win-cu12-x64.zip, sd-master-532d2c1-bin-Darwin-macOS-26.7.2-arm64.zip, sd-master-532d2c1-bin-Linux-Ubuntu-24.04-x86_64-rocm-10.1.0.zip, sd-master-532d2c1-bin-Linux-Ubuntu-26.04-x86_64-vulkan.zip, sd-master-532d2c1-bin-Linux-Ubuntu-26.04-x86_64.zip, sd-master-532d2c1-bin-win-cpu-x64.zip, sd-master-532d2c1-bin-win-cuda12-x64.zip, sd-master-532d2c1-bin-win-rocm-10.1.0-x64.zip, sd-master-532d2c1-bin-win-vulkan-x64.zip
+sd.cpp: sd-master-532d2c1-bin-Linux-Ubuntu-26.04-x86_64.zip -> /home/runner/work/_temp/art/sdcpp/sd-cli
+model klein4b:
+  klein4b_diffusion: leejet/FLUX.2-klein-4B-GGUF: 4 files: flux-2-klein-4b-Q4_0.gguf, flux-2-klein-4b-Q8_0.gguf
+  klein4b_diffusion: leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q4_0.gguf  2.46 GB in 42 s
+  klein4b_llm: unsloth/Qwen3-4B-GGUF: 32 files: Qwen3-4B-BF16.gguf, Qwen3-4B-IQ4_NL.gguf, Qwen3-4B-IQ4_XS.gguf, Qwen3-4B-Q2_K.gguf, Qwen3-4B-Q2_K_L.gguf, Qwen3-4B-Q3_K_M.gguf, Qwen3-4B-Q3_K_S.gguf, Qwen3-4B-Q4_0.gguf, Qwen3-4B-Q4_1.gguf, Qwen3-4B-Q4_K_M.gguf, Qwen3-4B-Q4_K_S.gguf, Qwen3-4B-Q5_K_M.gguf, Qwen3-4B-Q5_K_S.gguf, Qwen3-4B-Q6_K.gguf, Qwen3-4B-Q8_0.gguf, Qwen3-4B-UD-IQ1_M.gguf, Qwen3-4B-UD-IQ1_S.gguf, Qwen3-4B-UD-IQ2_M.gguf, Qwen3-4B-UD-IQ2_XXS.gguf, Qwen3-4B-UD-IQ3_XXS.gguf, Qwen3-4B-UD-Q2_K_XL.gguf, Qwen3-4B-UD-Q3_K_XL.gguf, Qwen3-4B-UD-Q4_K_XL.gguf, Qwen3-4B-UD-Q5_K_XL.gguf, Qwen3-4B-UD-Q6_K_XL.gguf, Qwen3-4B-UD-Q8_K_XL.gguf
+  klein4b_llm: unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf  2.50 GB in 54 s
+  klein4b_vae: Comfy-Org/flux2-klein-4B: 7 files: split_files/diffusion_models/flux-2-klein-4b.safetensors, split_files/diffusion_models/flux-2-klein-base-4b.safetensors, split_files/text_encoders/qwen_3_4b.safetensors, split_files/text_encoders/qwen_3_4b_fp4_flux2.safetensors, split_files/vae/flux2-vae.safetensors
+  klein4b_vae: Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors  0.34 GB in 8 s
+  weights ready in 104 s
+teacher_ma: FAILED 1 in 0 s  (768x1024, 4 steps, 0 refs)
+    tail: /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libstable-diffusion.so) | /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libggml-base.so.1)
+teacher_ma_talk: FAILED 1 in 0 s  (768x1024, 4 steps, 1 refs)
+    tail: /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libstable-diffusion.so) | /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libggml-base.so.1)
+teacher_ma_point: FAILED 1 in 0 s  (768x1024, 4 steps, 1 refs)
+    tail: /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libstable-diffusion.so) | /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libggml-base.so.1)
+done: 0 ok, 3 failed ['teacher_ma', 'teacher_ma_talk', 'teacher_ma_point']
