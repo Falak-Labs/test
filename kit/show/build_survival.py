@@ -53,11 +53,13 @@ LEVELS = [
 ]
 EMPH = ["ELECTRICITY", "FUEL", "HELP", "FOUR", "KILL", "SUNRISE", "CONGRATS", "SURVIVED", "PLANET", "DESERT", "FORTY-FIVE", "SHADE",
         "WATER", "MOUNTAIN", "ARCTIC", "MINUS", "FORTY", "SNOW", "KOREAN", "FIRE", "MIDNIGHT", "ZERO", "WATTS", "HEAT", "THIRST",
-        "ICE", "NIGHT", "MUD", "SMOKE", "TOMORROW", "FOLLOW", "BOSS", "ONE", "TWO", "THREE", "FINAL"]
+        "ICE", "NIGHT", "MUD", "SMOKE", "TOMORROW", "FOLLOW", "BOSS", "ONE", "TWO", "THREE", "FINAL", "BOSSES", "YOUTUBE", "LEVELS",
+        "SUBSCRIBE", "ENGINEER", "WAITING", "NEXT"]
 SHOT_N = 25                       # clean frames per world in the cold open
 CLEAR_S = 2.5                     # level-clear beat
 CARD_IN = 0.45                    # the level card's sting comes first, then the voice
 TITLE_IN = 0.40                   # the title slams in, then the voice
+HANDLE = "@congratsengineer"      # the YouTube channel the short cut points to
 LEAD = 4                          # frames of sound before the picture of the reveal and of the joke (the voice starts first)
 
 
@@ -91,11 +93,18 @@ def chapter_cuts(ep):
 
 # ------------------------------------------------------------------ the plan: every segment in frames
 class Plan:
-    def __init__(self, info_path, vo_json):
+    """variant "full": cold open, four levels, results card (the YouTube video).
+    variant "short": cold open, level 1, then a teaser of the other bosses and a card that sends people to the YouTube
+    channel for the full run (TikTok and Instagram)."""
+
+    def __init__(self, info_path, vo_json, promo_json=None, variant="full"):
+        self.variant = variant
         self.ch = json.load(open(info_path))
         self.vo = json.load(open(vo_json))["lines"]
-        for ln in self.vo:
+        self.pv = json.load(open(promo_json))["lines"] if promo_json and os.path.exists(promo_json) else []
+        for ln in self.vo + self.pv:
             ln["dur"] = ln["end"] - ln["start"]
+        self.levels = [0] if variant == "short" else list(range(len(LEVELS)))
         self.segs, self.vo_at = [], {}
         f = 0
 
@@ -112,7 +121,8 @@ class Plan:
         add("cold", round((t3 + TITLE_IN + l3["dur"] + 0.95) * FPS), t1=t1, t2=t2, t3=t3)
         cold = self.segs[-1]["start"] / FPS
         self.vo_at.update({1: cold + t1, 2: cold + t2, 3: cold + t3 + TITLE_IN})
-        for i, lv in enumerate(LEVELS):
+        for i in self.levels:
+            lv = LEVELS[i]
             ln = self.vo[lv["line"] - 1]
             cuts = self.ch[lv["kit"]]
             add("card", round((CARD_IN + ln["dur"] + 0.60) * FPS), lv=i)
@@ -121,31 +131,47 @@ class Plan:
             add("chapB", cuts["b"][1] - cuts["b"][0], lv=i, f0=cuts["b"][0], dissolve=4)
             add("clear", round(CLEAR_S * FPS), lv=i)
             add("chapC", cuts["c"][1] - cuts["c"][0], lv=i, f0=cuts["c"][0], dissolve=5)
-        l8, l9 = self.vo[7], self.vo[8]
-        e8 = 2.30                                              # after the fanfare
-        e9 = e8 + l8["dur"] + 0.30
-        add("end", round((e9 + l9["dur"] + 1.5) * FPS), t8=e8, t9=e9, dissolve=8)
-        end = self.segs[-1]["start"] / FPS
-        self.vo_at.update({8: end + e8, 9: end + e9})
+        if variant == "short":
+            p1, p2 = self.pv[0], self.pv[1]
+            tp1 = 0.25
+            t_card = tp1 + p1["dur"] + 0.30                       # three boss flashes fill tp1 .. t_card
+            tp2 = t_card + TITLE_IN
+            add("outro", round((tp2 + p2["dur"] + 1.9) * FPS), tp1=tp1, t_card=t_card, tp2=tp2, dissolve=6)
+            o = self.segs[-1]["start"] / FPS
+            self.vo_at.update({"p1": o + tp1, "p2": o + tp2})
+        else:
+            l8 = self.vo[7]
+            l9 = self.pv[2] if self.pv else self.vo[8]             # YouTube ending: "... Subscribe, or the boss wins."
+            e8 = 2.30                                              # after the fanfare
+            e9 = e8 + l8["dur"] + 0.30
+            add("end", round((e9 + l9["dur"] + 1.5) * FPS), t8=e8, t9=e9, dissolve=8)
+            end = self.segs[-1]["start"] / FPS
+            self.vo_at.update({8: end + e8, ("p3" if self.pv else 9): end + e9})
         self.frames = f
         self.duration = f / FPS
+
+    def line(self, key):
+        return self.pv[int(key[1:]) - 1] if isinstance(key, str) else self.vo[key - 1]
 
     def seg(self, kind, lv=None):
         return next(s for s in self.segs if s["kind"] == kind and (lv is None or s.get("lv") == lv))
 
-    def word_t(self, line, idx):
-        """Global time at which word idx of narration line `line` (1-based) starts."""
-        ln = self.vo[line - 1]
-        return self.vo_at[line] + ln["words"][idx]["start"] - ln["start"]
+    def has(self, kind):
+        return any(s["kind"] == kind for s in self.segs)
+
+    def word_t(self, key, idx):
+        """Global time at which word idx of a narration line (1..9, or "p1".."p3" for the closing lines) starts."""
+        ln = self.line(key)
+        return self.vo_at[key] + ln["words"][idx]["start"] - ln["start"]
 
     def caption_words(self):
         out = []
-        for n, t0 in sorted(self.vo_at.items()):
-            ln = self.vo[n - 1]
+        for key, t0 in sorted(self.vo_at.items(), key=lambda kv: kv[1]):
+            ln = self.line(key)
             for w in ln["words"]:
                 word = display_word(w["w"])
                 if word:
-                    out.append({"word": word, "key": word_key(word), "label": f"vo{n}", "start": t0 + w["start"] - ln["start"],
+                    out.append({"word": word, "key": word_key(word), "label": f"vo{key}", "start": t0 + w["start"] - ln["start"],
                                 "end": t0 + w["end"] - ln["start"], "brk": bool(re.search(r"[.,!?]$", w["w"]))})
         return out
 
@@ -221,20 +247,23 @@ def audio(src_dir, out, plan):
         buf[i:i + len(a)] += a[:max(0, len(buf) - i)]
 
     # narration: the new lines
-    vo = _load_mono(os.path.join(KIT, "series/voice/survival1.wav"))
+    voices = {False: _load_mono(os.path.join(KIT, "series/voice/survival1.wav"))}
+    if plan.pv:
+        voices[True] = _load_mono(os.path.join(KIT, "series/voice/survivalpromo.wav"))
     for num, t0 in plan.vo_at.items():
-        ln = plan.vo[num - 1]
+        ln = plan.line(num)
+        vo = voices[isinstance(num, str)]
         a = vo[int((ln["start"] - 0.02) * S.SR) if ln["start"] > 0.02 else 0: int((ln["end"] + 0.10) * S.SR)].copy()
         k = int(0.01 * S.SR)
         a[:k] *= np.linspace(0, 1, k)
         a[-k:] *= np.linspace(1, 0, k)
         i = int((t0 - min(0.02, ln["start"])) * S.SR)
         vob[i:i + len(a)] += a
-    tmp = os.path.join(out, "vo_raw.wav")
+    tmp = os.path.join(plan.dir, "vo_raw.wav")
     sf.write(tmp, vob, S.SR)
     from bik.mix import master
-    master(tmp, os.path.join(out, "vo_master.wav"))
-    vom, _ = sf.read(os.path.join(out, "vo_master.wav"), dtype="float32")
+    master(tmp, os.path.join(plan.dir, "vo_master.wav"))
+    vom, _ = sf.read(os.path.join(plan.dir, "vo_master.wav"), dtype="float32")
     vom = vom if vom.ndim == 1 else vom.mean(axis=1)
     vom = np.pad(vom, (0, max(0, n - len(vom))))[:n]
     vom *= 10 ** ((-14.3 - lufs(np.stack([vom, vom], 1))) / 20)      # the same level as the narration inside the builds
@@ -268,7 +297,8 @@ def audio(src_dir, out, plan):
            (t3 + TITLE_IN + plan.vo[2]["dur"] + 0.40, S.press_start(), 0.5, 0.0)]
 
     # levels
-    for i, lv in enumerate(LEVELS):
+    for i in plan.levels:
+        lv = LEVELS[i]
         cuts = plan.ch[lv["kit"]]
         card, A, B, K, Cc = (plan.seg(k, i) for k in ("card", "chapA", "chapB", "clear", "chapC"))
         src = chapter_audio(os.path.join(src_dir, lv["kit"] + ".mp4"))
@@ -288,7 +318,7 @@ def audio(src_dir, out, plan):
         ev += [(tk + 0.50 + 0.2 * j, S.coin(tonic), 0.26, (-0.5, 0.0, 0.5)[j]) for j in range(3)]
         ev += [(tk + 1.10 + 0.05 * j, S.score_tick(), 0.2, 0.0) for j in range(12)]
         # music: grows with the fixes; the last level's music carries on under the results card
-        end_f = plan.frames if i == len(LEVELS) - 1 else Cc["start"] + Cc["n"]
+        end_f = plan.frames if i == plan.levels[-1] else Cc["start"] + Cc["n"]
         mev = {"card": 0.0, "a0": ta - tc, "brk": [loc(tb) - tc for tb, _ in cuts["spans"]], "fix": [loc(tf) - tc for _, tf in cuts["spans"]],
                "b0": B["start"] / FPS - tc, "clear": tk - tc, "c0": Cc["start"] / FPS - tc, "end": end_f / FPS - tc}
         m = S.MUSIC[lv["music"]](mev["end"] + 0.1, mev)
@@ -296,15 +326,28 @@ def audio(src_dir, out, plan):
         S.place(bed, m, tc, 1.0)
         print(f"audio level {i + 1}: music {lv['music']} {mev['end']:.1f} s", flush=True)
 
-    # results card
-    end = plan.seg("end")
-    te = end["start"] / FPS
-    bed[int(te * S.SR): int((te + 3.2) * S.SR)] *= 0.35
-    ev += [(te + 0.05, S.victory(67), 0.5, 0.0)] + [(te + 0.5 + 0.22 * j, S.coin(79), 0.26, -0.3 + 0.2 * j) for j in range(4)]
-    s0 = end["t8"] + 0.15
-    ev += [(te + s0 + 0.06 * j, S.score_tick(), 0.18, 0.0) for j in range(22)]
-    ev += [(plan.word_t(8, 2), S.coin(79), 0.32, 0.3), (plan.vo_at[8] + plan.vo[7]["dur"] + 0.02, S.hit(70), 0.5, 0.0),
-           (plan.word_t(9, 3) - 0.05, S.press_start(), 0.5, 0.0)]
+    if plan.has("end"):                                        # results card
+        end = plan.seg("end")
+        te = end["start"] / FPS
+        last = "p3" if "p3" in plan.vo_at else 9
+        bed[int(te * S.SR): int((te + 3.2) * S.SR)] *= 0.35
+        ev += [(te + 0.05, S.victory(67), 0.5, 0.0)] + [(te + 0.5 + 0.22 * j, S.coin(79), 0.26, -0.3 + 0.2 * j) for j in range(4)]
+        s0 = end["t8"] + 0.15
+        ev += [(te + s0 + 0.06 * j, S.score_tick(), 0.18, 0.0) for j in range(22)]
+        ev += [(plan.word_t(8, 2), S.coin(79), 0.32, 0.3), (plan.vo_at[8] + plan.vo[7]["dur"] + 0.02, S.hit(70), 0.5, 0.0),
+               (plan.word_t(last, 5 if last == "p3" else 3) - 0.05, S.press_start(), 0.5, 0.0)]
+    if plan.has("outro"):                                      # three boss flashes, then the YouTube card
+        o = plan.seg("outro")
+        to = o["start"] / FPS
+        fd = (o["t_card"] - o["tp1"] + 0.1) / 3
+        tonic = LEVELS[plan.levels[-1]]["key"][0]
+        for j in range(3):
+            tk = to + o["tp1"] - 0.1 + j * fd
+            ev += [(tk - 0.06, S.whoosh(0.3, j % 2 == 0, 80 + j), 0.4, 0.4 if j % 2 else -0.4), (tk, S.hit(84 + j), 0.3, 0.0)]
+        tc2 = to + o["t_card"]
+        bed[int(tc2 * S.SR): int((tc2 + 1.0) * S.SR)] *= 0.5
+        ev += [(tc2 - 1.0, S.riser(1.0), 0.3, 0.0), (tc2, S.slam(), 0.8, 0.0), (plan.word_t("p2", 6), S.coin(tonic), 0.32, 0.2),
+               (plan.vo_at["p2"] + plan.pv[1]["dur"] + 0.35, S.achievement(tonic, False), 0.45, 0.0)]
 
     for t, snd, g, pan in ev:
         S.place(fxb, snd, t, g, pan)
@@ -321,9 +364,9 @@ def audio(src_dir, out, plan):
     mix = chap + bed + fxb
     mix[:, 0] += vom
     mix[:, 1] += vom
-    raw = os.path.join(out, "mix_raw.wav")
+    raw = os.path.join(plan.dir, "mix_raw.wav")
     sf.write(raw, np.tanh(mix * 0.9) / 0.9, S.SR)
-    js = finalize(raw, os.path.join(out, "mix.wav"))
+    js = finalize(raw, os.path.join(plan.dir, "mix.wav"))
     for name, x in (("builds", chap), ("narration", np.stack([vom, vom], 1)), ("music", bed), ("jingles", fxb)):
         print(f"  stem {name:9s} {lufs(x):6.1f} LUFS  peak {np.abs(x).max():.2f}")
     print(f"audio: {n / S.SR:.2f} s, in {js['input_i']} LUFS / TP {js['input_tp']} -> -14", flush=True)
@@ -442,7 +485,11 @@ class Show:
             rows = [("LV %d" % v["n"], v["unlocked"]) for v in LEVELS]
             ev = dict(score0=seg["t8"] + 0.15, score1=seg["t8"] + 1.5, power=plan.word_t(8, 2) - seg["start"] / FPS,
                       rank=seg["t8"] + plan.vo[7]["dur"], next=seg["t9"])
-            L.end_card(c, self.wall, t, rows, ev, self.caps, tg)
+            sub = "p3" in plan.vo_at                                   # YouTube ending
+            L.end_card(c, self.wall, t, rows, ev, self.caps, tg, next_text="NEXT WORLD COMING" if sub else "NEW WORLD TOMORROW",
+                       pill=("SUBSCRIBE" if sub else "FOLLOW", "or the boss wins"))
+        elif kind == "outro":
+            self.outro(c, seg, t, tg)
         d = seg.get("dissolve", 6 if kind == "card" else 0)
         if sequential and self.prev is not None and k < d:
             p = skia.Paint()
@@ -452,6 +499,24 @@ class Show:
         if sequential and k == seg["n"] - 1:
             self.prev = skia.Image.fromarray(self.arr.copy(), colorType=BGRA)
         return self.arr
+
+    def outro(self, c, seg, t, tg):
+        """Short cut only: the three bosses still waiting, then the card that points to the YouTube channel."""
+        plan = self.plan
+        if t < seg["t_card"]:
+            t0 = seg["tp1"] - 0.1
+            fd = (seg["t_card"] - t0) / 3
+            j = int(clamp((t - t0) / fd, 0, 2.999)) if t >= t0 else 0
+            tt = max(0.0, t - t0 - j * fd)
+            lv = LEVELS[j + 1]
+            L.world_flash(c, self.shot(j + 1, int(tt * FPS)), j + 1, lv["boss"], tt, fd, chip=f"LEVEL {lv['n']}")
+        else:
+            tt = t - seg["t_card"]
+            wt = lambda idx: plan.word_t("p2", idx) - seg["start"] / FPS - seg["t_card"]
+            L.yt_card(c, self.wall, tt, HANDLE, p_top=prog(tt, 0.0, 0.14), p_yt=prog(tt, wt(4), wt(4) + 0.2),
+                      p_handle=prog(tt, wt(8) - 0.1, wt(8) + 0.2), p_hint=prog(tt, wt(8) + 0.9, wt(8) + 1.2))
+            L.flash(c, 0.8 * (1 - prog(tt, 0.0, 0.14)))
+        self.caps.draw(c, W, tg)
 
     def cold(self, c, seg, t, tg):
         plan = self.plan
@@ -486,42 +551,69 @@ def stills(src_dir, out, plan, frames=None):
     from PIL import Image
     sh = Show(src_dir, out, plan)
     if frames is None:
-        frames = []
         cold = plan.seg("cold")
         T0 = cold["start"]
-        frames += [0, T0 + 14, T0 + 40, T0 + 66, T0 + round((cold["t2"] + 0.4) * FPS)]
-        four = round((plan.word_t(2, 3)) * FPS)
-        fd = (cold["start"] + cold["t3"] * FPS - four) / 4
-        frames += [int(four + fd * j + 12) for j in range(4)]
-        frames += [T0 + round((cold["t3"] + 0.5) * FPS), T0 + round((cold["t3"] + 2.2) * FPS), T0 + cold["n"] - 6]
-        for i, lv in enumerate(LEVELS):
-            cuts = plan.ch[lv["kit"]]
+        frames = [0, T0 + 14, T0 + 66, T0 + round((cold["t3"] + 2.2) * FPS)]
+        for i in plan.levels:
+            cuts = plan.ch[LEVELS[i]["kit"]]
             card, A, B, K, Cc = (plan.seg(k, i) for k in ("card", "chapA", "chapB", "clear", "chapC"))
             loc = lambda t: A["start"] + round(t * FPS) - cuts["a"][0]
-            frames += [card["start"] + 20, card["start"] + 75, A["start"] + 20, loc(cuts["spans"][0][0] + 0.25), loc(cuts["spans"][0][1] + 0.15),
-                       loc(cuts["spans"][2][1] + 0.6), loc(cuts["spans"][3][1] + 1.2), B["start"] + 40, K["start"] + 20, K["start"] + 62,
-                       Cc["start"] + 60]
-        end = plan.seg("end")
-        frames += [end["start"] + 30, end["start"] + 120, end["start"] + 215, end["start"] + round((end["t9"] + 1.6) * FPS), plan.frames - 3]
-    os.makedirs(os.path.join(out, "stills"), exist_ok=True)
+            frames += [card["start"] + 75, loc(cuts["spans"][0][0] + 0.25), loc(cuts["spans"][2][1] + 0.6), K["start"] + 62, Cc["start"] + 60]
+        last = plan.segs[-1]
+        frames += [last["start"] + round(x * last["n"]) for x in (0.06, 0.18, 0.3, 0.45, 0.6, 0.75, 0.9, 0.985)]
+    os.makedirs(os.path.join(plan.dir, "stills"), exist_ok=True)
     tiles = []
     for g in frames:
         a = sh.frame(g, sequential=False)
-        im = Image.fromarray(a[..., [2, 1, 0]]).resize((W // 4, H // 4))
-        tiles.append((g, im))
+        tiles.append(Image.fromarray(a[..., [2, 1, 0]]).resize((W // 4, H // 4)))
     cols = 8
     rows = (len(tiles) + cols - 1) // cols
     sheet = Image.new("RGB", (cols * W // 4, rows * H // 4), "black")
-    for n, (g, im) in enumerate(tiles):
+    for n, im in enumerate(tiles):
         sheet.paste(im, ((n % cols) * W // 4, (n // cols) * H // 4))
-    pth = os.path.join(out, "stills", "sheet.jpg")
+    pth = os.path.join(plan.dir, "stills", "sheet.jpg")
     sheet.save(pth, quality=88)
-    print("stills", pth, [g for g, _ in tiles])
+    print("stills", pth, frames)
+
+
+def thumbnail(out):
+    """1280 x 720 picture for the YouTube video: the four worlds side by side under the title."""
+    TW, TH = 1280, 720
+    s = skia.Surface(TW, TH)
+    c = s.getCanvas()
+    for i in range(4):
+        im = img(out, f"shot{i}_12.jpg")
+        c.save()
+        c.clipRect(skia.Rect.MakeXYWH(i * TW / 4, 0, TW / 4, TH))
+        c.drawImageRect(im, skia.Rect.MakeXYWH(180, 100, 720, 1620), skia.Rect.MakeXYWH(i * TW / 4, 0, TW / 4, TH),
+                        L.LIN, skia.Paint())
+        c.restore()
+        if i:
+            c.drawRect(skia.Rect.MakeXYWH(i * TW / 4 - 3, 0, 6, TH), L.P(L.DEEP, 0.95))
+    c.drawRect(skia.Rect.MakeWH(TW, TH), L.P(L.DEEP, 0.42))
+    c.drawRect(skia.Rect.MakeWH(TW, TH), L.rad_paint(TW / 2, TH / 2, TW * 0.62, [(L.DEEP, 0.0), (L.DEEP, 0.0), (L.DEEP, 0.7)], [0.0, 0.55, 1.0]))
+    L.add_glow(c, TW / 2, 300, 620, L.HILITE, 0.22)
+    L.text(c, "SURVIVAL MODE", TW / 2, 330, 150, L.HILITE, "Poppins-Black", stroke_color=L.DEEP, stroke_w=20, shadow_a=0.7)
+    c.save()
+    c.translate(TW / 2, 455)
+    c.rotate(-2.5)
+    c.drawRRect(L.rr(-470, -62, 940, 124, 26), L.lin_paint(-470, 0, 470, 0, ["#FF3B4E", "#FF6A3D"]))
+    c.drawRRect(L.rr(-468, -60, 936, 120, 26), L.P("#FFFFFF", 0.35, stroke=3))
+    L.icon_bolt(c, -392, 0, 96, "#FFFFFF")
+    c.drawLine(-434, 38, -350, -38, L.P("#FFFFFF", 1.0, stroke=11))
+    L.text(c, "ZERO ELECTRICITY", 44, 26, 76, "#FFFFFF", "Poppins-Black")
+    c.restore()
+    for i, lv in enumerate(LEVELS):
+        L.text(c, lv["stamp"], (i + 0.5) * TW / 4, 640, 62, "#FFFFFF", "Poppins-Black", stroke_color=L.WARN, stroke_w=16, shadow_a=0.6)
+        L.text(c, lv["stamp"], (i + 0.5) * TW / 4, 640, 62, "#FFFFFF", "Poppins-Black")
+    pth = os.path.join(out, "thumbnail.jpg")
+    s.makeImageSnapshot().save(pth, skia.kJPEG, 92)
+    print("thumbnail", pth, os.path.getsize(pth))
 
 
 def video(src_dir, out, plan):
     sh = Show(src_dir, out, plan)
-    tmp = os.path.join(out, "video.part.mp4")
+    tmp = os.path.join(plan.dir, "video.part.mp4")
     enc = subprocess.Popen(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-f", "rawvideo", "-pix_fmt", "bgra", "-s", f"{W}x{H}", "-r",
                             str(FPS), "-i", "-", "-c:v", "libx264", "-preset", os.environ.get("BIK_PRESET", "veryfast"), "-crf",
                             os.environ.get("BIK_CRF", "18"), "-pix_fmt", "yuv420p", "-threads", "2", tmp], stdin=subprocess.PIPE)
@@ -535,7 +627,7 @@ def video(src_dir, out, plan):
         raise SystemExit("encoder failed")
     for r in sh.readers.values():
         r.close()
-    os.replace(tmp, os.path.join(out, "video.mp4"))
+    os.replace(tmp, os.path.join(plan.dir, "video.mp4"))
     print(f"video done in {time.time() - t0:.0f} s", flush=True)
 
 
@@ -559,12 +651,21 @@ def qa(out, name, plan):
 
 def main():
     src_dir, out = sys.argv[1:3]
-    steps = sys.argv[3:] or ["prep", "audio", "stills", "video", "mux", "qa"]
+    args = sys.argv[3:]
+    variant = next((a for a in args if a in ("full", "short")), "full")
+    steps = [a for a in args if a not in ("full", "short")] or ["prep", "audio", "stills", "video", "mux", "qa"]
     os.makedirs(out, exist_ok=True)
     if "prep" in steps:
         prep(out)
-    plan = Plan(os.path.join(out, "chapters.json"), os.path.join(KIT, "series/voice/survival1.json"))
-    print(f"plan: {plan.frames} frames = {plan.duration:.1f} s; " + ", ".join(f"{s['kind']}{'' if s.get('lv') is None else s['lv'] + 1}:{s['n']}" for s in plan.segs))
+    if "thumb" in steps:
+        thumbnail(out)
+    plan = Plan(os.path.join(out, "chapters.json"), os.path.join(KIT, "series/voice/survival1.json"),
+                os.path.join(KIT, "series/voice/survivalpromo.json"), variant)
+    plan.dir = os.path.join(out, variant)                      # this cut's own files; the cache is shared
+    os.makedirs(plan.dir, exist_ok=True)
+    print(f"plan {variant}: {plan.frames} frames = {plan.duration:.1f} s; " + ", ".join(
+        f"{s['kind']}{'' if s.get('lv') is None else s['lv'] + 1}:{s['n']}" for s in plan.segs))
+    name = f"survival1-{variant}"
     if "audio" in steps:
         audio(src_dir, out, plan)
     if "stills" in steps:
@@ -572,9 +673,9 @@ def main():
     if "video" in steps:
         video(src_dir, out, plan)
     if "mux" in steps:
-        mux(out, "survival1")
+        mux(plan.dir, name)
     if "qa" in steps:
-        qa(out, "survival1", plan)
+        qa(plan.dir, name, plan)
 
 
 if __name__ == "__main__":

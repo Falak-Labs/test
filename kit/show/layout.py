@@ -367,7 +367,7 @@ def lone(c, t):
     icon_person(c, W / 2, 900, 330, INK, p)
 
 
-def world_flash(c, frame_img, k, label, t, dur):
+def world_flash(c, frame_img, k, label, t, dur, chip=None):
     """One of the four worlds in the cold open: the clean moving picture, a red stamp, a counter."""
     draw_img(c, frame_img, zoom=1.05 + 0.05 * t / dur, cy=0.42)
     c.drawRect(R(0, 0, W, H), rad_paint(W / 2, H / 2, H * 0.7, [(DEEP, 0.0), (DEEP, 0.0), (DEEP, 0.55)], [0.0, 0.55, 1.0]))
@@ -381,7 +381,7 @@ def world_flash(c, frame_img, k, label, t, dur):
         fit(c, label, 0, 0, 230, "#FFFFFF", max_w=900, a=clamp(p * 3), stroke_color=WARN, stroke_w=30, shadow_a=0.7)
         fit(c, label, 0, 0, 230, "#FFFFFF", max_w=900, a=clamp(p * 3))
         c.restore()
-    v2.chip(c, W / 2, 330, f"{k + 1} / 4", prog(t, 0.0, 0.12), size=40, accent=WARN)
+    v2.chip(c, W / 2, 330, chip or f"{k + 1} / 4", prog(t, 0.0, 0.12), size=40, accent=WARN)
     flash(c, 0.6 * (1 - prog(t, 0.0, 0.09)))
 
 
@@ -424,7 +424,7 @@ def title_art(c, wall, t, p_sur=1.0, p_mode=1.0, p_rib=1.0, p_sub=1.0, start=0.0
 
 
 # ------------------------------------------------------------------ results
-def end_card(c, wall, t, rows, ev, caps=None, tg=0.0):
+def end_card(c, wall, t, rows, ev, caps=None, tg=0.0, next_text="NEW WORLD TOMORROW", pill=("FOLLOW", "or the boss wins")):
     """rows: [(level label, name)], ev: dict(score0, score1, power, rank, next) in seconds from the card's start."""
     draw_img(c, wall, zoom=1.04 + 0.004 * t, dim=0.22)
     p = prog(t, 0.05, 0.3)
@@ -477,8 +477,56 @@ def end_card(c, wall, t, rows, ev, caps=None, tg=0.0):
             text(c, "RANK S", 0, 22, 62, GOOD, "Poppins-Black", a=clamp(pr * 3) * (1 - nxt))
             c.restore()
     if nxt > 0:
-        text(c, "NEW WORLD TOMORROW", W / 2, 1100, 66, INK, "Poppins-Black", a=nxt, stroke_color=DEEP, stroke_w=12, shadow_a=0.5)
-        v2.follow_pill(c, W, "FOLLOW", "or the boss wins", prog(t, ev["next"] + 0.55, ev["next"] + 0.85), y=1196)
+        fit(c, next_text, W / 2, 1100, 66, INK, max_w=960, a=nxt, stroke_color=DEEP, stroke_w=12, shadow_a=0.5)
+        v2.follow_pill(c, W, pill[0], pill[1], prog(t, ev["next"] + 0.55, ev["next"] + 0.85), y=1196)
     fx.confetti(c, W, H, t, 0.1, 2.6)
     if caps is not None:
         caps.draw(c, W, tg)
+
+
+# ------------------------------------------------------------------ the card that sends people to the YouTube channel
+def play_badge(c, x, y, s, a=1.0):
+    """A plain play button: yellow disc, dark triangle."""
+    add_glow(c, x, y, s * 1.6, HILITE, 0.35 * a)
+    c.drawCircle(x, y, s * 0.5, P(HILITE, a))
+    c.save()
+    c.translate(x, y)
+    c.drawPath(_path([(-0.13, -0.22), (0.24, 0.0), (-0.13, 0.22)], s), P(NAVY, a))
+    c.restore()
+
+
+def yt_card(c, wall, t, handle, p_top=1.0, p_yt=1.0, p_handle=1.0, p_hint=1.0):
+    """ALL 4 LEVELS / ON YOUTUBE / the channel's handle / how to find it."""
+    draw_img(c, wall, zoom=1.04 + 0.01 * t, dim=0.25)
+    if p_top > 0:
+        k = lerp(2.0, 1.0, e_out(clamp(p_top)))
+        c.save()
+        c.translate(W / 2, 640)
+        c.scale(k, k)
+        add_glow(c, 0, -60, 600, HILITE, 0.28 * clamp(p_top * 2))
+        fit(c, "ALL 4 LEVELS", 0, 0, 150, HILITE, max_w=980, a=clamp(p_top * 3), stroke_color=DEEP, stroke_w=20, shadow_a=0.7)
+        c.restore()
+    if p_yt > 0:
+        k = e_back(clamp(p_yt))
+        c.save()
+        c.translate(W / 2, 800)
+        c.scale(k, k)
+        wy = text_width("ON YOUTUBE", 118, "Poppins-Black")
+        play_badge(c, -wy / 2 - 30, -42, 118, clamp(p_yt * 3))
+        text(c, "ON YOUTUBE", 62, 0, 118, INK, "Poppins-Black", a=clamp(p_yt * 3), stroke_color=DEEP, stroke_w=18, shadow_a=0.7)
+        c.restore()
+    if p_handle > 0:
+        k = e_back(clamp(p_handle))
+        a = clamp(p_handle * 3)
+        c.save()
+        c.translate(W / 2, 1000)
+        c.scale(k, k)
+        hw = text_width(handle, 70, "Poppins-Black") + 96
+        c.drawRRect(rr(-hw / 2, -70 + 10, hw, 140, 70), P("#000000", 0.5 * a, blur=16))
+        c.drawRRect(rr(-hw / 2, -70, hw, 140, 70), lin_paint(0, -70, 0, 70, ["#1A2547", NAVY], None, a))
+        c.drawRRect(rr(-hw / 2 + 2, -68, hw - 4, 136, 68), P(HILITE, 0.9 * a, stroke=4))
+        text(c, handle, 0, 25, 70, INK, "Poppins-Black", a=a)
+        c.restore()
+    if p_hint > 0:
+        text(c, "THE FULL RUN IS THERE", W / 2, 1150, 42, "#C9D3E6", "Poppins-Bold", a=clamp(p_hint * 2), stroke_color=DEEP, stroke_w=9,
+             shadow_a=0.5)
