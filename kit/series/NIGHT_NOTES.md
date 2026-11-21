@@ -1068,6 +1068,15 @@
   is still inside the 24 h window (54 at 19:00Z Nov 21 blocks every 19:00Z-or-earlier slot of Nov 22). To get two a
   day again, give each YouTube post its own at: (posts accept a per-platform map, e.g. at: {default: ..., youtube:
   ...}) about 20 minutes after the matching YouTube post of the day before, or accept one a day on some days.
+- 11:20Z Nov 21 check-in (status 11:23Z): 44's Arabic TikTok (06:01Z, its requeue) and 52 / 53 in Arabic (08:02Z /
+  11:03Z) went out. post.yml (dispatch, state 11:29Z) put 57's Arabic TikTok on Buffer, "scheduled" 23:00Z Nov 21 (15:00
+  PT): all 14 targets of 55-57 are scheduled. Requeued 50 -> 01:30Z and 42 -> 04:30Z Nov 24 (17:30 / 20:30 PT Mon Nov
+  23); the Arabic TikTok queue is 10 of 10 (when the midday run starts at 19:23Z only 54 and 55 will have gone: room for
+  two of its three). English YouTube: a retry made in Buffer at 03:12Z Nov 21 sent 44 (45 failed again), so 54's English
+  YouTube (19:00Z Nov 21) will fail on the limit (41 at 21:43Z Nov 20 + 44 in its window); 57's (02:30Z Nov 22) still
+  passes. That changes the plan above for the midday run of Nov 21: with 54 failed, English 14:00Z Nov 22 has only 57 in
+  its window (one English YouTube can go there, 16:30Z / 19:00Z then fail); check the status first. Arabic: still hold
+  (54 + 57).
 - Lessons: a sweep or a save check runs about 2 minutes here; queue them with nohup + tools/slot.sh and write the next
   scene meanwhile. A sand-coloured ground rect must reach the bottom of the frame (the sky shows a pale band below).
   falaj.basket() draws a 1200-unit rope (it hangs from a windlass): write your own head basket. panama.cargo_ship's
