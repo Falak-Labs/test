@@ -1,0 +1,32 @@
+episode: 55
+date: 2026-11-21
+video:
+  en: media/ep55-suez-en.mp4
+  ar: media/ep55-suez-ar.mp4
+hold: [en.youtube, ar.youtube]    # Buffer sends 2 YouTube posts per channel per rolling 24 h: this run's YouTube goes to 57
+en:
+  at: "2026-11-21T21:30:00Z"    # 13:30 PT Sat Nov 21
+  title: "Suez Canal: A Ship Sailing Through the Desert 🚢"
+  text: |
+    A ship longer than the Eiffel Tower, sailing straight through the desert. 🚢
+    A fresh water canal from the Nile so the diggers could drink, steam dredgers pouring the sand onto the banks down long slides, convoys that pass each other in the Bitter Lakes, and not a single lock: the two seas sit almost level.
+    Team giant ship or team tiny digger? 👇
+  next: "an escalator ⬆️"
+  seo: "How the Suez Canal was built: dug between 1859 and 1869 across the Isthmus of Suez in Egypt, it joins the Mediterranean to the Red Sea, so ships from Europe no longer have to sail all the way around Africa: from London to India the trip is almost 9,000 km shorter. It is about 193 km long and about 24 m deep. The desert had no drinking water for the thousands of workers, so a fresh water canal was first dug from the Nile, and the workers' camp at Lake Timsah grew into the city of Ismailia. At first the sand was dug by hand and carried up the banks in baskets; later, steam dredgers with bucket chains and long chutes did most of the digging. The canal is mostly one lane, so ships travel in convoys and pass each other in the Great Bitter Lake, a dry salt valley that filled with seawater when the canal was flooded. There are no locks: the Mediterranean and the Red Sea are almost at the same level. It opened on 17 November 1869. In March 2021 the 400 m container ship Ever Given got stuck sideways and blocked it for six days."
+  tags:
+    tiktok: "#suezcanal #egypt #engineering #history #learnontiktok"
+    instagram: "#suezcanal #egypt #engineering #ships #history"
+    youtube: "#suezcanal #egypt #engineering"
+ar:
+  at: "2026-11-21T17:00:00Z"    # 09:00 PT Sat Nov 21 = 8 pm Riyadh
+  title: "قناة السويس: سفينة تمشي وسط الصحرا 🚢"
+  text: |
+    سفينة أطول من برج إيفل، تمشي وسط الصحرا! 🚢
+    قناة موية حلوة من النيل عشان العمال يشربون، وكراكات بخار تزحلق الرمل على الضفة، وسفن تمشي قوافل وتتلاقى في البحيرات المرة، وولا هويس واحد لأن البحرين بنفس المستوى تقريبًا.
+    وش أكثر شي يقهرك: اللي يصف ورا سيارتك ولا اللي يقفل جواله؟ 👇
+  next: "درج كهربائي ⬆️"
+  seo: "كيف انحفرت قناة السويس: انحفرت في مصر من سنة ألف وثمانمية وتسعة وخمسين لين سنة ألف وثمانمية وتسعة وستين، وتوصل البحر المتوسط بالبحر الأحمر، وقبلها كانت السفن اللي من أوروبا تلف حول أفريقيا كلها: من لندن للهند صار الطريق أقصر بحوالي تسعة آلاف كيلو. طولها حوالي مية وثلاثة وتسعين كيلو. الصحرا ما فيها موية للعمال، فانحفرت قبلها قناة موية حلوة من النيل، ومخيم العمال عند بحيرة التمساح صار مدينة الإسماعيلية. أول شي كان الحفر بالإيد والرمل ينشال بالزنابيل، وبعدين كراكات تشتغل على البخار سوت أغلب الحفر وزحلقت الرمل على الضفة. القناة أغلبها مسار واحد، فالسفن تمشي قوافل وتتلاقى في البحيرة المرة الكبرى، وكانت وادي ملح ناشف وتعبّت موية لما انفتحت القناة. وما فيها ولا هويس لأن البحر المتوسط والبحر الأحمر تقريبًا بنفس المستوى. وانفتحت في سبعطعش نوفمبر ألف وثمانمية وتسعة وستين. وفي مارس ألفين وواحد وعشرين سفينة طولها أربعمية متر وقفت بالعرض وسكّرت القناة ستة أيام."
+  tags:
+    tiktok: "#قناة_السويس #مصر #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#قناة_السويس #مصر #هندسة #السعودية #معلومات"
+    youtube: "#قناة_السويس #مصر #هندسة"

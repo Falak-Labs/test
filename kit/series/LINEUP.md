@@ -65,3 +65,6 @@ Rules:
 64. idea: Big Ben's clock (old pennies on the pendulum keep it on time)
 65. idea: Shibam in Yemen, the mud-brick skyscraper city
 66. idea: London's Tower Bridge that lifts its road
+67. idea: the Colosseum (its giant sun awning and the trapdoor lifts under the arena)
+68. idea: Taipei 101's giant swinging damper ball
+69. idea: a dishwasher

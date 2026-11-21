@@ -1,0 +1,32 @@
+episode: 56
+date: 2026-11-21
+video:
+  en: media/ep56-escalator-en.mp4
+  ar: media/ep56-escalator-ar.mp4
+hold: [en.youtube, ar.youtube]    # Buffer sends 2 YouTube posts per channel per rolling 24 h: this run's YouTube goes to 57
+en:
+  at: "2026-11-22T00:00:00Z"    # 16:00 PT Sat Nov 21
+  title: "Escalator: Half the Steps Ride Back Upside Down 🛍️"
+  text: |
+    Stairs that climb themselves, while half the steps ride back upside down under the floor. 🛍️
+    A loop of steps on a chain pulled by a motor at the top, two pairs of wheels on two tracks that run level at the ends so the steps flatten out, a steel comb that lifts your shoelace off, and a handrail driven by the same motor.
+    Do you walk up the escalator or just stand? 👇
+  next: "the Sydney Opera House 🎭"
+  seo: "How an escalator works: the steps are a loop on a chain, pulled around by an electric motor at the top, and under the floor the steps travel back upside down. Each step rides on two pairs of wheels running on two separate tracks: on the slope the tracks are apart and the steps form stairs, and at the top and bottom the tracks run level so the steps flatten into a moving floor you can step onto. At each end a comb plate with steel teeth sits in the grooves of the steps and lifts anything off before it can be pulled under. The rubber handrail is driven by the same motor, so it moves at the same speed as the steps. Jesse Reno built a moving inclined elevator at Coney Island in 1896, and the name escalator came with Charles Seeberger's design, shown by Otis at the 1900 Paris Exposition. London's first, at Harrods in 1898, worried shoppers so much that staff waited at the top with brandy and smelling salts. Escalators usually run at about half a meter a second; Moscow's Park Pobedy metro station has escalators about 126 m long, and a shopping center in Kawasaki, Japan has one with just five steps."
+  tags:
+    tiktok: "#escalator #howitworks #engineering #mall #learnontiktok"
+    instagram: "#escalator #howitworks #engineering #design #science"
+    youtube: "#escalator #howitworks #engineering"
+ar:
+  at: "2026-11-21T20:00:00Z"    # 12:00 PT Sat Nov 21 = 10 pm Cairo
+  title: "السلم الكهربا: نص درجه راجع مقلوب تحت الأرض 🛍️"
+  text: |
+    سلم بيطلّعك لوحده، ونص درجه راجع مقلوب تحت الأرض! 🛍️
+    حلقة درج على جنزير وموتور فوق بيلفّها، وكل درجة على أربع عجل فوق قضيبين بيتساووا عند الطرفين عشان الدرج يفرد، ومشط حديد بيشيل رباط الجزمة، ودرابزين بيلف مع الدرج بنفس السرعة.
+    انت بتطلع السلم الكهربا ماشي ولا واقف؟ 👇
+  next: "أوبرا سيدني 🎭"
+  seo: "إزاي السلم الكهربا بيشتغل: الدرج حلقة متركبة على جنزير، وموتور كهربا فوق بيلفّها، وتحت الأرض الدرج راجع مقلوب. كل درجة ماشية على أربع عجل فوق قضيبين منفصلين: على الطلعة القضيبين بيبعدوا عن بعض والدرج يبقى سلم، وعند الطرفين بيبقوا في مستوى واحد والدرج يفرد ويبقى أرض تعرف تطلع عليها. وعند كل طرف فيه مشط سنانه الحديد داخلة في مجاري الدرجة، يشيل أي حاجة قبل ما تدخل تحت. والدرابزين الكاوتش بيلفّه نفس الموتور، فبيمشي بنفس سرعة الدرج. أول سلم كهربا في لندن اتعمل في محل هارودز سنة ألف تمنمية تمانية وتسعين، والناس اتخضت لدرجة إن الموظفين كانوا واقفين فوق يفوّقوا اللي داخ. السلم الكهربا بيمشي حوالي نص متر في الثانية، وفي مترو موسكو سلم طوله حوالي مية ستة وعشرين متر، وفي اليابان واحد خمس درجات بس."
+  tags:
+    tiktok: "#سلم_كهربائي #معلومات #هندسة #تعلم_على_التيك_توك"
+    instagram: "#سلم_كهربائي #معلومات #هندسة #تصميم"
+    youtube: "#سلم_كهربائي #معلومات #هندسة"
