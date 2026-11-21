@@ -18,7 +18,7 @@ from burjalarab import path_of, saudi_man  # noqa: E402
 from panama import cargo_ship, ship_top, word  # noqa: E402
 from camel import camel  # noqa: E402
 from eiffel import eiffel  # noqa: E402
-from falaj import basket, mudhouse, jar, timer  # noqa: E402
+from falaj import mudhouse, jar, timer  # noqa: E402
 from pyramid import palm  # noqa: E402
 from phone import bubble  # noqa: E402
 from barrier import suv  # noqa: E402
@@ -132,6 +132,14 @@ def dunes(c, x0, x1, y, h, cols, seed=1, a=1.0, step=160):
     p.lineTo(x1, y + 600)
     p.close()
     c.drawPath(p, lin_paint(0, y - h, 0, y + 200, cols, a=a))
+
+
+def head_basket(c, x, y, s, a=1.0):
+    """A basket of sand carried on the head (its bottom at (x, y))."""
+    bp = path_of([(x - 30 * s, y - 34 * s), (x + 30 * s, y - 34 * s), (x + 22 * s, y), (x - 22 * s, y)], close=True)
+    c.drawPath(bp, P("#A16207", a))
+    for k in range(5):
+        c.drawCircle(x - 20 * s + k * 10 * s, y - 36 * s - (k % 2) * 5 * s, 9 * s, P(SAND[0], a))
 
 
 def tent(c, x, y, s, col="#E7D7B5", a=1.0):
@@ -353,10 +361,10 @@ class Suez(EpisodeV2):
         self.cut(s("closer") - 0.12, "desert", 1)
         self.cut(s("tag") - 0.2, "tag", -1)
         # ---- desert camera: the hook, then the closer
-        cm = Camera(-40, -170, 0.92)
-        cm.key(0.1, -20, -168, 0.94, max(1.0, T["congrats"] - 0.2))
-        cm.key(T["congrats"] - 0.1, 0, -150, 1.0, 0.6)
-        cm.key(s("closer") - 0.12, 0, -130, 1.0, 0.0).key(s("closer"), 0, -120, 1.08, max(1.0, e("closer") - s("closer")))
+        cm = Camera(-40, -62, 1.05)
+        cm.key(0.1, -20, -58, 1.08, max(1.0, T["congrats"] - 0.2))
+        cm.key(T["congrats"] - 0.1, 0, -50, 1.1, 0.6)
+        cm.key(s("closer") - 0.12, 0, -60, 1.1, 0.0).key(s("closer"), 0, -55, 1.16, max(1.0, e("closer") - s("closer")))
         self.cam = cm
         self.spans = [(T["africa1"], T["red1"] + 0.3), (T["thou1"], T["city1"] + 0.3), (T["forever1"], T["slides1"] + 0.3),
                       (T["both1"], T["flood1"] + 0.3)]
@@ -376,7 +384,7 @@ class Suez(EpisodeV2):
             v2.stars(c, W, H, t, 0.5)
             sun(c, 250 - cx * 0.04, gy - 230 * z, 48, heat=0.7)
         else:
-            sun(c, 820 - cx * 0.04, gy - 760 * z, 50, heat=1.0)
+            sun(c, 860 - cx * 0.04, gy - 560 * z, 50, heat=1.0)
         for i, (px, py, s_) in enumerate(((240, 900, 0.9), (830, 1130, 0.7))):
             v2.cloud(c, (px + t * (5 + i * 3)) % (W + 600) - 300, gy - py * z, s_,
                      body=mix("#8A7A9A", "#2A2050", dusk), rim=mix("#FFD3A0", "#FF8A6A", dusk), a=0.6, seed=i)
@@ -395,6 +403,8 @@ class Suez(EpisodeV2):
         else:
             sx = lerp(-80, 80, prog(t, s("closer") - 0.2, self.duration))
         cargo_ship(c, sx, YW, 760, t, face=1, lit=dusk)
+        kk = 760 / 260.0                                                                 # tone the white bridge down
+        c.drawRect(R(sx - 124 * kk, YW - 101 * kk, 50 * kk, 76 * kk), P(mix("#475569", "#1E1B3A", dusk), 0.45))
         if reveal > 0:                                                                   # the hull under water
             c.drawRect(R(-2400, YW + 3, 4800, 157), P(SEA_C, 0.5 * reveal))
         if dusk:
@@ -409,9 +419,9 @@ class Suez(EpisodeV2):
             ek = prog(t, T["longer"] - 0.15, T["longer"] + 0.25) * (1 - prog(t, T["desert"] + 0.2, T["congrats"]))
             if ek > 0:
                 c.save()
-                c.translate(sx - 330, YW - 480)
+                c.translate(sx - 228, YW - 300)
                 c.rotate(90)
-                eiffel(c, 0, 0, 0.84, t, a=ek, k3=0.0)
+                eiffel(c, 0, 0, 0.7, t, a=ek, k3=0.0)
                 c.restore()
         # the near bank: covers the canal in the hook, drops away on "congrats"
         top = lerp(-36, 190, reveal)
@@ -495,12 +505,12 @@ class Suez(EpisodeV2):
     def ui_map(self, c, t, tw):
         T, s = self.T, self.tl.s
         lk = self.span(s("break1") - 0.12, self.duration)
-        for key, lo, la, sz in (("europe", 18, 50.5, 40), ("africa", 20, 8, 46), ("asia", 66, 36, 44)):
+        for key, lo, la, sz in (("europe", 22, 47.5, 40), ("africa", 20, 8, 46), ("asia", 66, 36, 44)):
             x_, y_ = self.to_screen(MAPCAM, *geo(lo, la))
             word(c, self.L[key], x_, y_, sz, "#F8FAFC", 0.85 * lk)
         lx, ly = self.ui["ldn"]
         ix, iy = self.ui["ind"]
-        word(c, self.L["london"], lx + 90, ly - 22, 30, HILITE, lk)
+        word(c, self.L["london"], lx - 20, ly - 26, 30, HILITE, lk, align="right")
         word(c, self.L["india"], ix - 30, iy - 40, 32, HILITE, lk)
         if tw < s("fix1") - 0.12:
             self.chip(540, 1170, "around", T["around"] - 0.2, s("fix1") - 0.15, accent=WARN, size=38)
@@ -532,8 +542,8 @@ class Suez(EpisodeV2):
         gulf = skia.Path()                                                              # the Gulf of Suez, bottom
         gulf.moveTo(660, 1062)
         gulf.lineTo(686, 1062)
-        gulf.lineTo(900, H)
-        gulf.lineTo(560, H)
+        gulf.lineTo(820, H)
+        gulf.lineTo(610, H)
         gulf.close()
         c.drawPath(gulf, lin_paint(0, 1062, 0, H, [SEA_C, "#0E3460"]))
         for (lx, ly, rx, ry, rot) in ((566, 705, 46, 24, 0), (612, 885, 74, 46, 30), (650, 968, 30, 20, 30)):
@@ -589,42 +599,46 @@ class Suez(EpisodeV2):
     def draw_camp(self, c, t):
         T, s = self.T, self.tl.s
         fixed = t >= s("fix2") - 0.12
-        cam = (0, -200, 1.0)
+        cam = (0, -85, 1.9)
         gy = (0 - cam[1]) * cam[2] + H / 2
-        v2.sky(c, W, H, 0.0, pal=DESERT, horizon_y=gy - 60)
-        sun(c, 760, 380, 58, heat=1.0)
+        v2.sky(c, W, H, 0.0, pal=DESERT, horizon_y=gy - 80)
+        sun(c, 820, 420, 56, heat=1.0)
         self.view(c, cam)
-        dunes(c, -900, 900, -30, 50, [SAND[0], SAND[1]], seed=11, step=220)
-        c.drawRect(R(-900, 0, 1800, 700), lin_paint(0, 0, 0, 500, [SAND[0], SAND[2]]))
+        dunes(c, -600, 600, -24, 30, [SAND[0], SAND[1]], seed=11, step=150)
+        c.drawRect(R(-600, 0, 1200, 2000), lin_paint(0, 0, 0, 300, [SAND[0], SAND[2]]))
+        tex(c, R(-600, 0, 1200, 600), "sand", 0.6, 0.25)
         ck = prog(t, T["city"] - 0.5, T["city1"] + 0.3) if fixed else 0.0
         for k in range(7):                                                              # the city rising behind
-            hh = (90 + (k * 37) % 70) * e_out(clamp(ck * 1.3 - k * 0.06))
+            hh = (70 + (k * 37) % 60) * e_out(clamp(ck * 1.3 - k * 0.06))
             if hh > 2:
-                mudhouse(c, -420 + k * 140, -6, 110, hh, lit=0.6, seed=k)
-        for k, (tx, ts) in enumerate(((-300, 1.0), (-120, 1.2), (80, 1.0), (260, 1.1))):
-            tent(c, tx, 0, ts, a=1 - 0.8 * ck)
+                mudhouse(c, -270 + k * 90, -14, 80, hh, lit=0.6, seed=k)
+        for k, (tx, ts) in enumerate(((-230, 0.9), (-70, 1.1), (110, 0.95), (250, 0.85))):
+            tent(c, tx, -8, ts, a=1 - 0.85 * ck)
         wk = prog(t, T["fresh"] - 0.3, T["nile"] + 0.6) if fixed else 0.0
-        if wk > 0:                                                                      # the fresh water canal
-            x1 = lerp(-560, 560, wk)
-            c.drawRect(R(-560, 36, x1 + 560, 34), lin_paint(0, 36, 0, 70, ["#3B9AE1", "#1D5F99"]))
-            c.drawRect(R(-560, 36, x1 + 560, 4), P("#BFE6FF", 0.8))
-            for k in range(6):
-                px_ = -480 + k * 190
-                if px_ < x1 - 40:
-                    palm(c, px_, 30, 150 + (k % 2) * 30, sway=math.sin(t + k) * 0.3, a=clamp((x1 - px_) / 200))
-        for k, px in enumerate((-220, 0, 190)):                                         # the workers
+        if wk > 0:
+            x1 = lerp(-300, 300, wk)
+            for k in range(5):                                                          # palms along the water
+                px_ = -250 + k * 125
+                if px_ < x1 - 20:
+                    palm(c, px_, -6, 130 + (k % 2) * 24, sway=math.sin(t + k) * 0.3, a=clamp((x1 - px_) / 80))
+        for k, px in enumerate((-150, 20, 175)):                                        # the workers
+            shirt = ("#E7E5E4", "#D6D3D1", "#F5F5F4")[k]
             if not fixed:
-                person(c, px, 0, 120, ("#E7E5E4", "#D6D3D1", "#F5F5F4")[k], t + k, pose="shrug" if k == 1 else "stand",
-                       face=1 if px < 0 else -1, hat="none", skin="#B07A4F", hair="#1C1917")
+                person(c, px, -2, 120, shirt, t + k, pose="shrug" if k == 1 else "stand", face=1 if px < 0 else -1,
+                       hat="none", skin="#B07A4F", hair="#1C1917")
             else:
-                person(c, px, 0, 120, ("#E7E5E4", "#D6D3D1", "#F5F5F4")[k], t + k,
-                       pose="cheer" if t > T["nile"] + 0.3 else "stand", face=1, hat="none", skin="#B07A4F",
-                       hair="#1C1917", a=1 - ck)
-        jar(c, 380, 0, 1.4)
+                person(c, px, -2, 120, shirt, t + k, pose="cheer" if t > T["nile"] + 0.3 else "stand", face=1,
+                       hat="none", skin="#B07A4F", hair="#1C1917", a=1 - ck)
+        jar(c, 262, -2, 1.0)
+        if wk > 0:                                                                      # the fresh water canal, in front
+            c.drawRect(R(-300, 8, x1 + 300, 26), lin_paint(0, 8, 0, 34, ["#3B9AE1", "#1D5F99"]))
+            c.drawRect(R(-300, 8, x1 + 300, 3), P("#BFE6FF", 0.8))
+            add_glow(c, x1, 20, 30, "#BFE6FF", 0.6 * (1 - wk))
         if not fixed:
             dk = prog(t, T["water"] - 0.2, T["water"] + 0.3)
-            c.drawCircle(380, -126 - 30 * ((t * 0.6) % 1.0), 10, P("#7DD3FC", dk * (1 - (t * 0.6) % 1.0)))
-            heat_lines(c, -450, 450, -320, -40, t, a=0.6)
+            q = (t * 0.6) % 1.0
+            c.drawCircle(262, -92 - 20 * q, 7, P("#7DD3FC", dk * (1 - q)))
+            heat_lines(c, -280, 280, -200, -20, t, a=0.5)
         c.restore()
 
     def ui_camp(self, c, t, tw):
@@ -642,39 +656,40 @@ class Suez(EpisodeV2):
     def draw_dig(self, c, t):
         T, s = self.T, self.tl.s
         fixed = t >= s("fix3") - 0.12
-        cam = (0, 260, 1.0)
-        gy = (0 - cam[1]) + H / 2                                                       # ground line on screen: 700
-        v2.sky(c, W, H, 0.0, pal=DESERT, horizon_y=gy - 40)
+        cam = (0, 256, 1.15)
+        gy = (0 - cam[1]) * cam[2] + H / 2
+        v2.sky(c, W, H, 0.0, pal=DESERT, horizon_y=gy - 30)
         self.view(c, cam)
-        dunes(c, -900, 900, -20, 40, [SAND[0], SAND[1]], seed=5, step=240)
-        bank_h = 60 + (130 * prog(t, T["pour"] - 0.2, T["slides1"] + 1.0) if fixed else 25 * prog(t, T["basket"], T["forever1"]))
-        trench = path_of([(-900, 0), (-430, 0), (-250, 420), (250, 420), (430, 0), (900, 0), (900, 900), (-900, 900)], close=True)
-        c.drawPath(trench, lin_paint(0, 0, 0, 800, [SAND[1], SAND[2], "#5A4028"]))
+        dunes(c, -700, 700, -16, 30, [SAND[0], SAND[1]], seed=5, step=200)
+        bank_h = 50 + (110 * prog(t, T["pour"] - 0.2, T["slides1"] + 1.0) if fixed else 20 * prog(t, T["basket"], T["forever1"]))
+        trench = path_of([(-700, 0), (-300, 0), (-170, 380), (170, 380), (300, 0), (700, 0), (700, 2000), (-700, 2000)], close=True)
+        c.drawPath(trench, lin_paint(0, 0, 0, 700, [SAND[1], SAND[2], "#5A4028"]))
         tex(c, trench, "sand", 0.9, 0.3)
-        spoil = path_of([(-880, 0), (-760, -bank_h), (-560, -bank_h * 0.9), (-460, 0)], close=True)
+        spoil = path_of([(-520, 0), (-450, -bank_h), (-360, -bank_h * 0.85), (-310, 0)], close=True)
         c.drawPath(spoil, lin_paint(0, -bank_h, 0, 0, [SAND[0], SAND[1]]))
         if not fixed:
             for k in range(5):                                                         # workers with baskets on the slope
-                q = (t * 0.08 + k / 5.0) % 1.0
-                px = lerp(-260, -470, q)
-                py = lerp(410, 0, q)
+                q = (t * 0.07 + k / 5.0) % 1.0
+                px = lerp(-180, -305, q)
+                py = lerp(375, -2, q)
                 person(c, px, py, 120, "#F5F5F4", t * 0.6 + k, pose="carry", face=-1, hat="none", skin="#B07A4F",
                        hair="#1C1917")
-                basket(c, px - 4, py - 126, 0.9, full=1.0)
+                head_basket(c, px - 2, py - 122, 0.8)
             fk = prog(t, T["forever"] - 0.3, T["forever"] + 0.2)
             if fk > 0:
-                timer(c, 300, 140, 90, (t * 0.4) % 1.0, a=fk)
+                timer(c, 70, 190, 80, (t * 0.4) % 1.0, a=fk)
         else:
-            c.drawRect(R(-330, 230, 660, 190), lin_paint(0, 230, 0, 420, [SEA_C, SEA_D]))   # water in the cut
-            c.drawRect(R(-330, 230, 660, 4), P("#BFE6FF", 0.7))
+            c.drawPath(path_of([(-232, 200), (232, 200), (170, 380), (-170, 380)], close=True),
+                       lin_paint(0, 200, 0, 380, [SEA_C, SEA_D]))                     # water in the cut
+            c.drawRect(R(-232, 200, 464, 4), P("#BFE6FF", 0.7))
             dk = e_out(prog(t, T["dredgers"] - 0.4, T["dredgers"] + 0.2))
-            dx_ = lerp(200, 60, dk)
-            ex, ey = dredger(c, dx_, 230, 1.0, t, run=prog(t, T["bottom"] - 0.3, T["bottom"]), a=dk)
+            dx_ = lerp(150, 30, dk)
+            ex, ey = dredger(c, dx_, 200, 0.75, t, run=prog(t, T["bottom"] - 0.3, T["bottom"]), a=dk)
             if t > T["pour"] - 0.3:
-                v2.smoke(c, dx_ - 67, 230 - 198, t, T["steam"] - 0.2, rate=10, life=2.4,
-                         spread=(60, -40), rise=-60, size=(20, 70), col="#9CA3AF")
+                v2.smoke(c, dx_ - 50, 200 - 148, t, T["steam"] - 0.2, rate=10, life=2.4,
+                         spread=(50, -30), rise=-60, size=(16, 60), col="#9CA3AF")
                 sk = prog(t, T["pour"] - 0.3, T["pour"] + 0.2)
-                slide_sand(c, ex, ey, -640, -bank_h + 10, t, a=sk)
+                slide_sand(c, ex, ey, -400, -bank_h + 10, t, a=sk, w=20)
         c.restore()
 
     def ui_dig(self, c, t, tw):
@@ -727,7 +742,7 @@ class Suez(EpisodeV2):
             c.restore()
         ck = prog(t, T["convoys"] - 0.5, s("cta"))
         for k in range(3):                                                              # southbound: into the lake, anchor
-            pts = [(540, -300 - k * 340), (540, 380), (330 + k * 40, 470 + k * 150)]
+            pts = [(540, -300 - k * 340), (540, 380), (280 + k * 100, 560), (280 + k * 100, 770)]
             self.ship_on(c, pts, clamp(ck * 1.8 - k * 0.12), 66, 250)
         for k in range(3):                                                              # northbound: straight through
             pts = [(540, 2100 + k * 340), (540, 1000), (700, 880), (700, 520), (540, 400), (540, -700)]
@@ -759,7 +774,7 @@ class Suez(EpisodeV2):
         T, s = self.T, self.tl.s
         v2.sky(c, W, H, 0.0, pal=DESERT, horizon_y=700)
         wl = 760
-        c.drawRect(R(0, wl, W, 440), lin_paint(0, wl, 0, 1200, ["#8C683C", "#5A4028"]))   # ground under it all
+        c.drawRect(R(0, wl, W, H - wl), lin_paint(0, wl, 0, 1300, ["#8C683C", "#5A4028"]))   # ground under it all
         land = path_of([(170, wl), (210, 690), (330, 670), (520, 682), (700, 664), (860, 688), (910, wl)], close=True)
         c.drawPath(land, lin_paint(0, 660, 0, wl, [SAND[0], SAND[1]]))
         c.drawRect(R(0, wl, 190, 300), lin_paint(0, wl, 0, 1060, [SEA_C, SEA_D]))         # Mediterranean
