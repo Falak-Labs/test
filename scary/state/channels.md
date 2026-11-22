@@ -1,9 +1,11 @@
-# Yallah Say Buffer channels, checked 2026-11-22T15:44:04+00:00
+# Yallah Say Buffer channels, checked 2026-11-22T16:23:27+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
 - en.instagram: will post to thedarktoldme
 - en.tiktok: will post to thedarktoldme
+- ep01-en en.instagram: scheduled, due 2026-11-23T01:01:56.000Z
+- ep01-en en.tiktok: scheduled, due 2026-11-23T01:02:06.000Z
 - ep02-en en.instagram: scheduled, due 2026-11-22T22:40:49.000Z
 - ep02-en en.tiktok: scheduled, due 2026-11-22T22:40:36.000Z
 - ep03-en en.instagram: scheduled, due 2026-11-22T16:51:58.000Z
@@ -51,8 +53,8 @@
 - ep10-ar ar.tiktok: scheduled, due 2026-11-22T20:45:34.000Z
 - ep12-ar ar.instagram: sent, sent 2026-11-22T14:58:27.033Z, https://www.instagram.com/reel/DgDEa-EiW32/
 - ep12-ar ar.tiktok: sent, sent 2026-11-22T14:57:46.195Z, https://tiktok.com/@thedarktoldmear/video/7711009684114689294
-- ep15-ar ar.instagram: scheduled, due 2026-11-22T16:06:02.000Z
-- ep15-ar ar.tiktok: scheduled, due 2026-11-22T16:07:22.000Z
+- ep15-ar ar.instagram: sent, sent 2026-11-22T16:09:11.979Z, https://www.instagram.com/reel/DgDMkptDrVO/
+- ep15-ar ar.tiktok: sent, sent 2026-11-22T16:09:17.091Z, https://tiktok.com/@thedarktoldmear/video/7711028070060281118
 - ep16-ar ar.instagram: sent, sent 2026-11-22T12:39:12.532Z, https://www.instagram.com/reel/DgC0fP9gPtF/
 - ep16-ar ar.tiktok: sent, sent 2026-11-22T12:37:30.908Z, https://tiktok.com/@thedarktoldmear/video/7710973552073182478
 - ep17-ar ar.instagram: sent, sent 2026-11-22T11:30:11.672Z, https://www.instagram.com/reel/DgCslu4kfc4/
