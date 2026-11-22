@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-22T05:49:22+00:00
+# Yallah Say Buffer channels, checked 2026-11-22T05:54:01+00:00
 
 - ma: Buffer sees youtube (Yallah Say 🇲🇦), tiktok (yallah.say), instagram (yallahsayma)
 - ma.youtube: will post to Yallah Say 🇲🇦
