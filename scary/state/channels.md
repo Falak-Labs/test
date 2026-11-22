@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-22T11:44:17+00:00
+# Yallah Say Buffer channels, checked 2026-11-22T12:32:49+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -6,6 +6,8 @@
 - en.tiktok: will post to thedarktoldme
 - ep03-en en.instagram: scheduled, due 2026-11-22T16:51:58.000Z
 - ep03-en en.tiktok: scheduled, due 2026-11-22T16:51:45.000Z
+- ep05-en en.instagram: scheduled, due 2026-11-22T21:32:44.000Z
+- ep05-en en.tiktok: scheduled, due 2026-11-22T21:30:14.000Z
 - ep06-en en.instagram: scheduled, due 2026-11-22T15:40:41.000Z
 - ep06-en en.tiktok: scheduled, due 2026-11-22T15:42:04.000Z
 - ep07-en en.instagram: scheduled, due 2026-11-22T19:12:21.000Z
@@ -19,8 +21,8 @@
 - ep12-en en.youtube: scheduled, due 2026-11-22T18:02:23.000Z
 - ep15-en en.instagram: scheduled, due 2026-11-22T20:22:11.000Z
 - ep15-en en.tiktok: scheduled, due 2026-11-22T20:22:49.000Z
-- ep16-en en.instagram: scheduled, due 2026-11-22T12:10:51.000Z
-- ep16-en en.tiktok: scheduled, due 2026-11-22T12:10:45.000Z
+- ep16-en en.instagram: sent, sent 2026-11-22T12:13:59.300Z, https://www.instagram.com/reel/DgCxn70KL3Z/
+- ep16-en en.tiktok: sent, sent 2026-11-22T12:11:31.179Z, https://tiktok.com/@thedarktoldme/video/7710966807842098446
 - ep17-en en.instagram: sent, sent 2026-11-22T11:05:30.619Z, https://www.instagram.com/reel/DgCp9zhi913/
 - ep17-en en.tiktok: sent, sent 2026-11-22T11:04:55.655Z, https://tiktok.com/@thedarktoldme/video/7710949626613910798
 - ep18-en en.instagram: scheduled, due 2026-11-22T14:32:00.000Z
@@ -36,6 +38,8 @@
 - ep03-ar ar.youtube: scheduled, due 2026-11-22T17:16:09.000Z
 - ep04-ar ar.instagram: scheduled, due 2026-11-22T18:27:36.000Z
 - ep04-ar ar.tiktok: scheduled, due 2026-11-22T18:27:05.000Z
+- ep10-ar ar.instagram: scheduled, due 2026-11-22T20:47:07.000Z
+- ep10-ar ar.tiktok: scheduled, due 2026-11-22T20:45:34.000Z
 - ep12-ar ar.instagram: scheduled, due 2026-11-22T14:55:22.000Z
 - ep12-ar ar.tiktok: scheduled, due 2026-11-22T14:55:55.000Z
 - ep15-ar ar.instagram: scheduled, due 2026-11-22T16:06:02.000Z
