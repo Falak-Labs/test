@@ -42,13 +42,13 @@ episodes:
   - {slug: ep37-windtower, kit: windtower, look: 2}
   - {slug: ep38-petra, kit: petra, look: 2, retired: true}
   - {slug: ep39-pagoda, kit: pagoda, look: 2, retired: true}
-  - {slug: ep40-panama, kit: panama, look: 2}
-  - {slug: ep41-barrier, kit: barrier, look: 2}
+  - {slug: ep40-panama, kit: panama, look: 2, retired: true}
+  - {slug: ep41-barrier, kit: barrier, look: 2, retired: true}
   - {slug: ep42-venice, kit: venice, look: 2}
-  - {slug: ep43-greatwall, kit: greatwall, look: 2}
-  - {slug: ep44-falaj, kit: falaj, look: 2}
+  - {slug: ep43-greatwall, kit: greatwall, look: 2, retired: true}
+  - {slug: ep44-falaj, kit: falaj, look: 2, retired: true}
   - {slug: ep45-machupicchu, kit: machupicchu, look: 2}
-  - {slug: ep46-aswan, kit: aswan, look: 2}
+  - {slug: ep46-aswan, kit: aswan, look: 2, retired: true}
   - {slug: ep47-igloo, kit: igloo, look: 2, retired: true}
   - {slug: ep48-riad, kit: riad, look: 2}
   - {slug: ep49-hagiasophia, kit: hagiasophia, look: 2}
