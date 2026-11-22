@@ -31,6 +31,9 @@ NOW = dt.datetime.now(dt.timezone.utc)
 LOG = []
 
 
+OTHER = []          # (slug, target, why): posts Buffer did not get out, for yallah/state/other-route.md
+
+
 def log(msg):
     print(msg, flush=True)
     LOG.append(msg)
@@ -225,8 +228,12 @@ def channels():
         ids = {}
         for ep in queue():
             for tgt, t in load_state(ep["slug"])["targets"].items():
-                if t.get("id") and tgt.split(".")[0] == lang:
+                if tgt.split(".")[0] != lang:
+                    continue
+                if t.get("id"):
                     ids[t["id"]] = f"{ep['slug']} {tgt}"
+                elif t.get("tries", 0) >= 3:        # Buffer never took it: the next method has to post it
+                    OTHER.append((ep["slug"], tgt, "Buffer refused it three times: " + str(t.get("error", ""))[:160]))
         if ids:
             try:
                 seen = {}
@@ -243,11 +250,30 @@ def channels():
                     log(f"{name}: {post.get('status')}"
                         + (f", sent {post.get('sentAt')}" if post.get("sentAt") else f", due {post.get('dueAt')}")
                         + (f", {link}" if link else "") + (f", ERROR {str(err)[:240]}" if err else ""))
+                    slug, tgt = name.split(" ")
+                    st = load_state(slug)                    # keep the outcome with the post: where it went out, or why it did not
+                    st["targets"][tgt].update({k: v for k, v in (("status", post.get("status")), ("sentAt", post.get("sentAt")), ("link", link), ("error", str(err)[:300])) if v})
+                    save_state(slug, st)
+                    if post.get("status") == "error" or err:
+                        OTHER.append((slug, tgt, "Buffer could not publish it: " + str(err)[:160]))
             except (BufferError, requests.RequestException, RuntimeError, KeyError, TypeError) as e:
                 log(f"{lang}: could not read post status: {str(e)[:300]}")
     os.makedirs(os.path.join(HERE, "state"), exist_ok=True)
     with open(os.path.join(HERE, "state", "channels.md"), "w", encoding="utf-8") as f:
         f.write(f"# Yallah Say Buffer channels, checked {NOW.isoformat(timespec='seconds')}\n\n" + "\n".join(f"- {m}" for m in LOG) + "\n")
+    # the owner's rule: always try every method. What Buffer did not post is listed here with the method to try next.
+    rows = []
+    for slug, tgt, why in OTHER:
+        lang, platform = tgt.split(".")
+        routes = CFG["accounts"][lang].get("routes", {}).get(platform, ["buffer"])
+        routes = [routes] if isinstance(routes, str) else routes
+        nxt = [r for r in routes if r != "buffer"]
+        rows.append(f"- {slug} {tgt}: {why} Next: {nxt[0] if nxt else 'no other method is set up; tell the owner'}.")
+    with open(os.path.join(HERE, "state", "other-route.md"), "w", encoding="utf-8") as f:
+        f.write(f"# Yallah Say: posts that need another method, checked {NOW.isoformat(timespec='seconds')}\n\n"
+                "Buffer did not post these. studio = YouTube Studio in the owner's Chrome (/YOUTUBE_STUDIO_UPLOAD.md); browser = the\n"
+                "platform's own site in the owner's Chrome. When one of them goes out, note its link in state/youtube.md or here.\n\n"
+                + ("\n".join(rows) if rows else "Nothing: every post handed to Buffer went out or is still waiting for its time.") + "\n")
 
 
 if __name__ == "__main__":

@@ -17,8 +17,9 @@
   "long_goes_to": [
    "youtube"
   ],
-  "youtube_route": "YouTube Studio in the owner's Chrome (YOUTUBE_STUDIO_UPLOAD.md), scheduled a day ahead; Buffer keeps Instagram and TikTok",
-  "since": "2026-11-21"
+  "youtube_route": "Shorts: Buffer first (its free plan sends 2 YouTube posts per channel in any 24 hours), YouTube Studio in the owner's Chrome for the rest and as the other method. Long lessons: Studio only.",
+  "since": "2026-11-21",
+  "rule": "Always try every method (the owner, Nov 21 2026): when one method fails, the next one in accounts.<dialect>.routes posts it; report only when all have failed."
  },
  "accounts": {
   "ma": {
@@ -44,11 +45,23 @@
    },
    "long_slot": "17:00",
    "routes": {
-    "instagram": "buffer",
-    "tiktok": "buffer",
-    "youtube": "studio"
+    "youtube": [
+     "buffer",
+     "studio"
+    ],
+    "instagram": [
+     "buffer",
+     "browser"
+    ],
+    "tiktok": [
+     "buffer",
+     "browser"
+    ]
    },
-   "youtube_handle": "YallahSayMa"
+   "youtube_handle": "YallahSayMa",
+   "buffer_limits": {
+    "youtube": 2
+   }
   },
   "pa": {
    "secret": "BUFFER_KEY_PA",
@@ -79,9 +92,18 @@
    },
    "long_slot": "17:00",
    "routes": {
-    "instagram": "buffer",
-    "tiktok": "buffer",
-    "youtube": "buffer"
+    "youtube": [
+     "buffer",
+     "studio"
+    ],
+    "instagram": [
+     "buffer",
+     "browser"
+    ],
+    "tiktok": [
+     "buffer",
+     "browser"
+    ]
    },
    "buffer_limits": {
     "youtube": 2

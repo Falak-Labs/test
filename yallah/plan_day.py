@@ -14,9 +14,10 @@ For every dialect a queue file holds, this sets
               (Morocco is on GMT all year since 20 Sep 2026; Palestine is +02:00 in winter and +03:00 in summer)
   platforms   what Buffer posts (post_due.py hands these over just before `at`)
   studio      what goes up through YouTube Studio, scheduled for the same time (YOUTUBE_STUDIO_UPLOAD.md)
-The route of each platform is config.json's accounts.<dialect>.routes. Buffer's free plan sends 2 YouTube posts per
-channel in any 24 hours: with "buffer_limits": {"youtube": 2} only the first and the last Short of the day use Buffer
-for YouTube and the others wait for the Studio route."""
+A platform's methods are config.json's accounts.<dialect>.routes, in the order they are tried: the first one is planned
+here, the next ones are what to try when it fails (the owner's rule: always try every method). Buffer's free plan sends
+2 YouTube posts per channel in any 24 hours: with "buffer_limits": {"youtube": 2} only the first and the last Short of
+the day use Buffer for YouTube and the others go up through YouTube Studio."""
 import datetime as dt
 import json
 import os
@@ -96,11 +97,13 @@ for lang, ac in CFG["accounts"].items():
             continue
         buf, stu = [], []
         for p in PLATFORMS:
-            r = routes.get(p, "buffer")
+            order = routes.get(p, ["buffer"])
+            order = [order] if isinstance(order, str) else order        # the methods for this platform, in the order they are tried
+            r = order[0]
             if r == "buffer" and p in limits and limits[p] < len(todo):
                 # keep Buffer's daily allowance for the first and the last Short, as far apart as the day allows
                 keep = sorted({0, len(todo) - 1})[:limits[p]] if limits[p] >= 2 else [len(todo) - 1][:limits[p]]
-                r = "buffer" if k in keep else "studio"
+                r = "buffer" if k in keep else next((x for x in order if x != "buffer"), "studio")
             (buf if r == "buffer" else stu).append(p)
         stamp(slug, ep, lang, slots[k], buf, stu)
     if long_slug:

@@ -21,11 +21,21 @@ a quiz, the hard word (parts, whole word, a sentence close to home, its meaning,
   18:00, 21:00 and the long lesson 17:00. `plan_day.py <day> <short> <short> <short> --long <slug> --write` stamps the
   queue files with these times and their UTC offsets (Morocco is on GMT all year since 20 Sep 2026, so +00:00;
   Palestine is +02:00 in winter, +03:00 in summer) and with each platform's route from `config.json`.
-- Instagram and TikTok go through Buffer, handed over just before their time (`post_due.py`). YouTube goes up through
-  YouTube Studio in the owner's Chrome, scheduled a day ahead (`/YOUTUBE_STUDIO_UPLOAD.md`); what was uploaded and what
-  each channel allows is in `state/youtube.md`. Buffer's free plan sends 2 YouTube posts per channel in any 24 hours
-  and no long videos. Until the Palestinian channel accepts Studio uploads (the owner's verification), its route for
-  YouTube is Buffer, so only its first and last Short of the day reach YouTube.
+- The owner's rule (Nov 21 2026): ALWAYS TRY EVERY METHOD to post. Each platform has its methods in order in
+  `config.json` (`accounts.<dialect>.routes`); when one fails, post with the next, and report to the owner only when
+  all of them have failed. `post_due.py --channels` (workflow "Yallah Say posting", `inputs[channels]=true`) saves
+  every post's outcome and lists in `state/other-route.md` what Buffer did not get out and the method to try next.
+  When Studio refuses an upload, add `youtube` to that video's `platforms` in the queue so Buffer posts it.
+- The methods today. Both Buffer accounts hold all three channels since Nov 21 (YouTube, Instagram, TikTok).
+  Buffer (`post_due.py`, handed over just before the time): Instagram, TikTok, and YouTube Shorts, but its free plan
+  sends only 2 YouTube posts per channel in any 24 hours and no long videos. YouTube Studio in the owner's Chrome
+  (`/YOUTUBE_STUDIO_UPLOAD.md`, can schedule a day ahead): the third Short of the day, every long lesson, and
+  whatever Buffer failed; what each channel allows is in `state/youtube.md` (the Palestinian channel refused Studio
+  uploads on Nov 21 until the owner verifies it). `browser` in the routes means the platform's own site in the
+  owner's Chrome, the last resort for Instagram and TikTok; it has not been tried yet.
+- Known risk: the planner gives Buffer the first and the last Short of each day for YouTube. Buffer's limit counts
+  any 24 hours, so a post that goes out a little earlier in the day than yesterday's can be refused. Watch
+  `state/other-route.md` in the first days and, if it happens, alternate the days or hold those posts a minute longer.
 - Making a Short: `python3 yallah/make.py <lesson> <ma|pa> <out_dir>` does everything from the script to the checked
   MP4 with the voices already in `darija/voice/`. The workflow "Yallah Say production" runs it on the runner, one
   dialect per machine (`dest=lab` for a test copy on the yallah-lab branch, `dest=media` to publish for posting).
