@@ -1426,3 +1426,7 @@
   round sets its own next day. An older check-in of the main chat stays at Sun 15:40 PT with its old wording
   (trig_0116ag8a4Z6po2KjC929Z5CK; rewriting it was refused): when it fires, do the desk round as the guide says.
   The project docs claude/build-it-money-plan.md and claude/build-it-4-minute-show.md carry the same facts.
+- Wake-up test, Nov 21 21:58 PT (send_later into the main chat, trig_01LMFLZkL4dQJ4aG7c2A2JeE): the turn it started had the Claude in
+  Chrome tools; tabs_context_mcp answered (the tab group was gone, as left) and list_connected_browsers showed
+  "Browser 1" (Linux) connected and in use. No tab was opened. So the main chat's scheduled rounds can reach the
+  owner's Chrome while it is open; a full upload from a wake-up is first tried on Sun Nov 22 (15:40 / 16:45 PT).
