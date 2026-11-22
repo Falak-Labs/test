@@ -2,10 +2,8 @@
  "lesson": "03",
  "dialect": "pa",
  "file": "yallah-say-pa-ep03.mp4",
- "ok": false,
- "problems": [
-  "a voice take is not intact in the finished file: ['p01k', 'rc0_0']"
- ],
+ "ok": true,
+ "problems": [],
  "steps": {
   "script": {
    "seconds": 0.0,
@@ -20,28 +18,28 @@
    ]
   },
   "sound": {
-   "seconds": 3.7,
+   "seconds": 4.8,
    "says": [
     "duration 1:29.53 (2686 frames) | 13 shots, 50 beats | -14.0 LUFS, peak 0.656",
     "quiz 28.5 | hard word 41.2333 | end card 79.1 | word parts (s): {'T': [0.62, 0.57, 0.55, 0.5, 0.61], 'A': [0.54, 0.57, 0.57, 0.52, 0.58], 'L': [0.56, 0.63, 0.59, 0.54, 0.63]}"
    ]
   },
   "picture": {
-   "seconds": 113.6,
+   "seconds": 176.8,
    "pieces": 6,
    "at_once": 4,
-   "frames_per_second": 23.6
+   "frames_per_second": 15.2
   },
   "join": {
-   "seconds": 0.1,
+   "seconds": 0.2,
    "says": []
   },
   "mux": {
-   "seconds": 1.4,
+   "seconds": 2.7,
    "says": []
   },
   "takes": {
-   "seconds": 2.4,
+   "seconds": 4.1,
    "says": [
     "ok   o2      at   86.35s len 1.19s  match 0.945  (take offset +0.03s)",
     "ok   o3      at   87.79s len 0.62s  match 0.993  (take offset +0.01s)",
@@ -49,7 +47,7 @@
    ]
   },
   "frames": {
-   "seconds": 2.1,
+   "seconds": 3.4,
    "says": []
   }
  },
@@ -80,11 +78,11 @@
  "sha256": {
   "page/script.js": "06ccc6409b2d8836138e74cbf41ee81b7ae02f8646a1f4e9a584269ba6d852d8",
   "page/tl.js": "a950575a78a173be81f16d01bdc387a4fdcf6077b47db0e7e7ba381d58d4ac4e",
-  "final.wav": "b6cda8a30022e529becc75b560258e75c2aa42a061bdc1f9c0549699c97d62c7",
-  "yallah-say-pa-ep03.mp4": "c618456b6dd296629b1a43cc14dc659aacf33bf735764c1b98d3a39248a582a4"
+  "final.wav": "951a3b0178be18bb0a3b4f23901b6428232be9875d42910b404ff4517b038fa3",
+  "yallah-say-pa-ep03.mp4": "88bd560e563f3de3be46a5ae47a50f50dabfd1880168f3e1323aaf59e32394b3"
  },
  "video": {
-  "size": 18686583,
+  "size": 18680802,
   "frames": 2686,
   "width": 1080,
   "height": 1920,
@@ -93,6 +91,10 @@
   "audio_rate": "48000"
  },
  "takes_below_0.9": "['p01k', 'rc0_0']",
+ "takes_accepted": [
+  "p01k",
+  "rc0_0"
+ ],
  "sheet_times": [
   1.6,
   8.63,
@@ -114,5 +116,5 @@
   "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
   "playwright": "Version 1.63.0"
  },
- "seconds": 124.1
+ "seconds": 193.0
 }
