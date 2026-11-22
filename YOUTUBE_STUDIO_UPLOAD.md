@@ -19,7 +19,8 @@ scheduled). Any chat of the owner can follow it.
 - A call that makes the page reload dies. Start that click inside `setTimeout` and read the result in the next call.
 - One Google login holds four channels, and switching is shared by every chat that uses the browser:
   Yallah Say MA `@YallahSayMa` (UC_c7QhlukkSAR-qHKeSvkPA), Congrats Engineer `@congratsengineer`
-  (UCDkfxHa7q5Ea0OoiSSi8DHA), Kef Tenbeni `@kef.tenbeni` (UC8qDuZpMDQXRrowaNp29vow), Yalla Say PS `@YallaSayPa`.
+  (UCDkfxHa7q5Ea0OoiSSi8DHA), Kef Tenbeni `@kef.tenbeni` (UC8qDuZpMDQXRrowaNp29vow), Yallah Say PS `@YallahSay-Pa`
+  (UCXJLd8EVa_XOLnQwnfxtoxw; renamed by the owner on Nov 21 2026, before that Yalla Say `@YallaSayPa`).
   Check the channel name in the same call that loads the file, and again before the last click. The daily task
   "Build-It 4-minute show" uses the browser between about 1:15 and 3 pm PT: do not switch channels then.
 

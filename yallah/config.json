@@ -47,7 +47,8 @@
     "instagram": "buffer",
     "tiktok": "buffer",
     "youtube": "studio"
-   }
+   },
+   "youtube_handle": "YallahSayMa"
   },
   "pa": {
    "secret": "BUFFER_KEY_PA",
@@ -59,6 +60,7 @@
    ],
    "channels": {
     "youtube": [
+     "yallahsay-pa",
      "yallasaypa",
      "yallahsaypa",
      "yalla say ps",
@@ -83,7 +85,8 @@
    },
    "buffer_limits": {
     "youtube": 2
-   }
+   },
+   "youtube_handle": "YallahSay-Pa"
   }
  },
  "youtube": {

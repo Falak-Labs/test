@@ -1,6 +1,6 @@
 # Yallah Say
 
-Short English lessons for Arabic speakers, one channel per dialect (Moroccan Darija: @YallahSayMa, Palestinian: @YallahSayPa).
+Short English lessons for Arabic speakers, one channel per dialect (Moroccan Darija: @YallahSayMa; Palestinian: @YallahSayPa on Instagram and TikTok, @YallahSay-Pa on YouTube).
 
 - `kit/page/` the lesson engine (one HTML page that draws any frame of an episode), `kit/tools/` the scripts
   (`gen2.py` script and voice lines, `build2.py` sound track and timeline, `mkpage.py` page folder per dialect,

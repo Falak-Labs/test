@@ -1,8 +1,14 @@
 # Yallah Say on YouTube
 
 YouTube goes up through YouTube Studio in the owner's Chrome (YOUTUBE_STUDIO_UPLOAD.md), not through Buffer.
-Channels: Yallah Say MA @YallahSayMa (UC_c7QhlukkSAR-qHKeSvkPA), Yalla Say PS @YallaSayPa (UCXJLd8EVa_XOLnQwnfxtoxw).
-Note the spelling: the Palestinian YouTube handle is YallaSayPa; its Instagram and TikTok are yallahsaypa.
+Channels: Yallah Say MA @YallahSayMa (UC_c7QhlukkSAR-qHKeSvkPA), Yallah Say PS @YallahSay-Pa (UCXJLd8EVa_XOLnQwnfxtoxw).
+- The owner renamed the Palestinian channel on Nov 21 2026 (evening, Pacific): it was "Yalla Say" with the handle
+  @YallaSayPa. Its Instagram and TikTok are yallahsaypa, so YouTube now differs only by the hyphen.
+- In Studio the two channels are now both called "Yallah Say" and differ only by the flag: tell them apart by the
+  channel ID in the address or by the handle, never by the name alone.
+- In captions write the YouTube handle without "@" (YallahSay-Pa): on Instagram "@YallahSay-Pa" would link another
+  account. Episode 1's Palestinian captions on Instagram and TikTok went out with the old spelling, YallaSayPa.
+- YouTube's link preview (oembed) still showed the old name and handle 90 minutes after the change.
 
 ## Uploads
 - ep01 ma: public since 2026-11-22 02:42 UTC, https://youtube.com/shorts/N8ALrGF-4W0
@@ -15,5 +21,5 @@ Note the spelling: the Palestinian YouTube handle is YallaSayPa; its Instagram a
 
 ## Feature eligibility (Studio > Settings > Channel), read 2026-11-22
 - Yallah Say MA: Standard, Intermediate and Advanced are all Enabled.
-- Yalla Say PS: Standard Enabled; Intermediate and Advanced only "Eligible". Advanced is what gives "increased daily
+- Yallah Say PS: Standard Enabled; Intermediate and Advanced only "Eligible". Advanced is what gives "increased daily
   video uploads" and "eligibility to apply for monetization". Only the owner can do that verification.
