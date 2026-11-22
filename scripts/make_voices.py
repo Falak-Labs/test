@@ -26,6 +26,21 @@ def run(cmd):
     subprocess.run(cmd, cwd=KIT_DIR, check=True)
 
 
+def show_tempo(kit):
+    """Arabic lines of the 4-minute show (kit/show/specs/<kit>.yml, or its closing lines survivalpromo*): they sit between
+    four builds whose Arabic voice was sped up to fit 66 s (Mansour: x1.04 to x1.12), while the length window would slow
+    an 8-line script down to x0.92. So they get the mean tempo of the episode's builds; the closing lines get x1.12."""
+    spec = os.path.join(KIT_DIR, "show", "specs", kit + ".yml")
+    if os.path.exists(spec):
+        tempos = []
+        for lv in (yaml.safe_load(open(spec, encoding="utf-8")) or {}).get("levels") or []:
+            p = os.path.join(KIT_DIR, "series/voice", f"{lv['kit']}_ar_sa.json")
+            if os.path.exists(p):
+                tempos.append(float(json.load(open(p, encoding="utf-8")).get("tempo", 1.0)))
+        return sum(tempos) / len(tempos) if tempos else None
+    return 1.12 if kit.startswith("survivalpromo") else None
+
+
 for lang in langs:
     suffix = "_ar_sa" if lang == "ar" else ""
     vo, lines = f"series/voice/{kit}{suffix}", f"series/{kit}_lines{suffix}.txt"
@@ -57,6 +72,9 @@ for lang in langs:
         except Exception as e:  # noqa: BLE001
             print(f"== voice lookup failed: {type(e).__name__}", flush=True)
         fit = ["--min", "0", "--max", "9999"] if kit.startswith("sample") else []      # samples keep natural speed
+        pace = show_tempo(kit)                              # the 4-minute show: the pace of the builds around the lines
+        if pace:
+            fit = ["--tempo", f"{pace:.4f}"]
         run([sys.executable, "-I", "-u", "tools/make_vo_eleven.py", lines, vo, "--voice", str(eng["voice"]),
              "--model", eng.get("model", "eleven_multilingual_v2"), "--speed", str(eng.get("speed", 1.0)),
              "--pause", str(eng.get("pause", 0.22))] + fit)

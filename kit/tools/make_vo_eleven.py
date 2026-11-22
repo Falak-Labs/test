@@ -12,7 +12,7 @@ usage:
   --only 3,7 records lines 3 and 7 again and keeps the rest (credits are spent only on what is requested).
 - Pauses inside a line longer than --pause seconds are shortened (ElevenLabs pauses long at commas).
 - A voice longer than --max seconds is sped up (12% at most), one shorter than --min slowed down (8% at most), so the
-  video stays inside its length window.
+  video stays inside its length window. --tempo 1.12 sets the pace itself (the show's lines: scripts/make_voices.py).
 - The key is read from the environment and is never printed or written anywhere.
 """
 import argparse
@@ -40,6 +40,7 @@ ap.add_argument("--gap", type=float, default=0.35)
 ap.add_argument("--max", type=float, default=66.0)
 ap.add_argument("--min", type=float, default=59.0)
 ap.add_argument("--speed", type=float, default=1.0)
+ap.add_argument("--tempo", type=float, default=0.0, help="play the whole voice at exactly this tempo (0.92-1.12) instead of fitting --min/--max")
 ap.add_argument("--pause", type=float, default=0.22, help="longest pause kept inside a line, seconds")
 ap.add_argument("--stability", type=float, default=0.45)
 ap.add_argument("--similarity", type=float, default=0.8)
@@ -198,7 +199,9 @@ voice = np.concatenate(audio)
 dur = len(voice) / SR
 
 tempo = 1.0
-if dur > a.max:
+if a.tempo > 0:                                       # a fixed pace: the 4-minute show's own lines play at the pace of the builds
+    tempo = min(1.12, max(0.92, a.tempo))             # around them, whatever the length of the script
+elif dur > a.max:
     tempo = min(1.12, dur / a.max)
 elif dur < a.min:                                     # a fast reader: slow down a little so the video is long enough
     tempo = max(0.92, dur / a.min)

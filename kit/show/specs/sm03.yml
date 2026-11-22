@@ -1,0 +1,59 @@
+# Survival Mode 3: You vs Gravity. Four builds that should have fallen down, all four with the Saudi narrator (Mansour) in
+# Arabic: it tips (Pisa), it slides (Machu Picchu), it is too heavy (Sydney's roof), it crumples (the Statue of Liberty).
+# The first Saudi episode: the Arabic closing lines are kit survivalpromosa (Mansour), see `promo` below.
+levels:
+  - kit: pisa
+    music: desert
+    color: "#FFD08A"
+    en: {world: "PISA", boss: "THE SOFT CLAY", sub: "SOFT CLAY  ·  THE TOWER SINKS ON ONE SIDE", unlocked: "LEANING TOWER OF PISA",
+         stamp: "LEANING", chips: [["56 m", "TALL"], ["14,000+", "TONS"], ["~4°", "OF LEAN"]]}
+    ar: {world: "بيزا", boss: "الطين الليّن", sub: "طين ليّن  ·  والبرج يغوص من جهة", unlocked: "برج بيزا المايل",
+         stamp: "مايل", chips: [["56 m", "ارتفاع"], ["14,000+", "طن"], ["~4°", "ميلان"]]}
+  - kit: machupicchu
+    music: arctic
+    color: "#8FE3A0"
+    en: {world: "THE MOUNTAIN", boss: "THE MUDSLIDE", sub: "2 m OF RAIN A YEAR  ·  THE MUD SLIDES", unlocked: "MACHU PICCHU",
+         stamp: "SLIDING", chips: [["2,400 m", "UP"], ["60%", "UNDERGROUND"], ["500", "YEARS, NO SLIDE"]]}
+    ar: {world: "الجبل الحاد", boss: "الانزلاق", sub: "مترين مطر بالسنة  ·  والطين ينزلق", unlocked: "ماتشو بيتشو",
+         stamp: "ينزلق", chips: [["2,400 m", "ارتفاع"], ["60%", "تحت الأرض"], ["500", "سنة بدون انزلاق"]]}
+  - kit: operahouse
+    music: oasis
+    color: "#7FD4FF"
+    en: {world: "SYDNEY", boss: "THE WEIGHT", sub: "A SKETCH OF SAILS  ·  PIECES UP TO 15 TONNES", unlocked: "SYDNEY OPERA HOUSE",
+         stamp: "TOO HEAVY", chips: [["67 m", "TALL"], ["2,194", "ROOF PIECES"], ["1M+", "TILES"]]}
+    ar: {world: "سيدني", boss: "الثقل", sub: "رسمة أشرعة  ·  وقطع توصل خمسطعش طن", unlocked: "دار أوبرا سيدني",
+         stamp: "ثقيل مرة", chips: [["67 m", "ارتفاع"], ["2,194", "قطعة"], ["1M+", "بلاطة"]]}
+  - kit: liberty
+    music: ondol
+    color: "#6FE0C0"
+    en: {world: "THE HARBOR", boss: "THE WIND", sub: "SKIN AS THIN AS 2 COINS  ·  STORMS CRUMPLE IT", unlocked: "STATUE OF LIBERTY",
+         stamp: "CRUMPLING", chips: [["46 m", "TALL"], ["93 m", "WITH PEDESTAL"], ["13 cm", "TORCH SWAY"]]}
+    ar: {world: "الميناء", boss: "الريح", sub: "جلد رقيق مثل عملتين  ·  والعاصفة تطويه", unlocked: "تمثال الحرية",
+         stamp: "ينطوي", chips: [["46 m", "ارتفاع"], ["93 m", "مع القاعدة"], ["13 cm", "تمايل الشعلة"]]}
+en:
+  chip: "SURVIVAL MODE  ·  YOU VS GRAVITY"
+  ribbon: "YOU VS GRAVITY"
+  ribbon_icon: down
+  ribbon_crossed: false
+  no_icons: [rock, flat, brick]
+  result_label: "THINGS THAT FELL DOWN"
+  result_value: "0"
+  cues: {sub: beat, stat: fell}
+  emph: [GROUND, LAND, WALLS, FOUR, GRAVITY, WIN, CONGRATS, BEAT, PISA, CLAY, SINKING, MOUNTAIN, RAIN, MUD, SLIDES, SYDNEY, SAILS,
+         FIFTEEN, TONNES, HARBOR, COPPER, COINS, STORM, FOIL, FELL, LEANS, FAMOUS, WEIGHT, WIND, LEAD, GRAVEL, CABLE, IRON, BOSSES,
+         YOUTUBE, SUBSCRIBE, ENGINEER, FINAL, ONE, TWO, THREE, LEVELS, WAITING, NEXT]
+ar:
+  chip: "طور البقاء  ·  أنت ضد الجاذبية"
+  ribbon: "أنت ضد الجاذبية"
+  ribbon_icon: down
+  ribbon_crossed: false
+  no_icons: [rock, flat, brick]
+  result_label: "كم شي طاح؟"
+  result_value: "0"
+  promo: survivalpromosa              # the closing lines in Saudi dialect, read by Mansour (series/survivalpromosa_lines_ar_sa.txt)
+  or_boss: "ولا الزعيم يفوز"
+  next: "العالم الجاي قريب"
+  cues: {sub: "غلبت", stat: "طاح"}
+  emph: ["صلبة", "مستوية", "سميكة", "أربع", "الجاذبية", "ومبروك", "غلبت", "بيزا", "طين", "يغوص", "جبل", "مطر", "ينزلق", "سيدني",
+         "أشرعة", "خمسطعش", "الميناء", "نحاس", "عملتين", "والعاصفة", "القصدير", "طاح", "مايل", "والثقل", "والريح", "بالرصاص",
+         "والحصى", "والكيابل", "والحديد", "زعماء", "يوتيوب", "اشترك", "الزعيم"]

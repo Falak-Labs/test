@@ -309,6 +309,38 @@ def icon_bridge(c, x, y, s, col, a=1.0):
     c.restore()
 
 
+def icon_rock(c, x, y, s, col, a=1.0):
+    """A boulder: solid ground."""
+    c.save()
+    c.translate(x, y)
+    c.drawPath(_path([(-0.50, 0.40), (-0.42, -0.02), (-0.16, -0.40), (0.20, -0.44), (0.46, -0.10), (0.52, 0.40)], s), P(col, a))
+    c.drawPath(_path([(-0.16, -0.40), (0.20, -0.44), (0.06, -0.06), (-0.30, 0.04), (-0.42, -0.02)], s), P("#FFFFFF", 0.30 * a))
+    c.drawPath(_path([(0.06, -0.06), (0.16, 0.40)], s, close=False), P(NAVY, 0.35 * a, stroke=0.04 * s))
+    c.restore()
+
+
+def icon_flat(c, x, y, s, col, a=1.0):
+    """Flat land: a little house on level ground."""
+    c.save()
+    c.translate(x, y)
+    c.drawRRect(rr(-0.56 * s, 0.16 * s, 1.12 * s, 0.12 * s, 0.05 * s), P(col, a))
+    c.drawRRect(rr(-0.44 * s, 0.34 * s, 0.88 * s, 0.08 * s, 0.04 * s), P(col, 0.6 * a))
+    c.drawRect(skia.Rect.MakeXYWH(-0.38 * s, -0.12 * s, 0.44 * s, 0.28 * s), P(col, a))
+    c.drawPath(_path([(-0.46, -0.10), (-0.16, -0.38), (0.14, -0.10)], s), P(col, a))
+    c.drawRect(skia.Rect.MakeXYWH(-0.21 * s, 0.00 * s, 0.10 * s, 0.16 * s), P(NAVY, 0.55 * a))
+    c.drawRRect(rr(0.29 * s, -0.10 * s, 0.05 * s, 0.26 * s, 0.02 * s), P(col, a))
+    c.drawCircle(0.315 * s, -0.20 * s, 0.14 * s, P(col, a))
+    c.restore()
+
+
+def icon_down(c, x, y, s, col, a=1.0):
+    """A heavy arrow pointing down: gravity."""
+    c.save()
+    c.translate(x, y)
+    c.drawPath(_path([(-0.16, -0.52), (0.16, -0.52), (0.16, 0.02), (0.40, 0.02), (0.0, 0.54), (-0.40, 0.02), (-0.16, 0.02)], s), P(col, a))
+    c.restore()
+
+
 def no_sign(c, x, y, r, p, col=WARN):
     """Red ring with a slash, stamped on with a little overshoot."""
     if p <= 0:
@@ -508,7 +540,8 @@ def clear_panel(c, lv, bg, t, score0):
 ICONS = (icon_bolt, icon_flame, icon_signal)
 ICON = {"bolt": icon_bolt, "flame": icon_flame, "signal": icon_signal, "person": icon_person, "trophy": icon_trophy,
         "drop": icon_drop, "gear": icon_gear, "brick": icon_brick, "land": icon_land, "wave": icon_wave, "sun": icon_sun,
-        "snow": icon_snow, "clock": icon_clock, "coin": icon_coin, "boat": icon_boat, "bridge": icon_bridge}
+        "snow": icon_snow, "clock": icon_clock, "coin": icon_coin, "boat": icon_boat, "bridge": icon_bridge,
+        "rock": icon_rock, "flat": icon_flat, "down": icon_down}
 WARM_ICONS = ("flame", "sun", "coin")       # drawn orange in the cold open, the rest yellow
 
 
