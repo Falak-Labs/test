@@ -538,7 +538,7 @@ ${lan(2, 'ln3')}${lan(3, 'ln4')}
     timer(turn ? (b.b - t) / b.len : think ? (b.a - .08 - t) / Math.max(.2, b.a - .08 - sh.a) : null);
     if (think) {
       TQ.forEach((q, k) => { const ph = t * 5.2 - k * .9; q.setAttribute('transform', `translate(${430 + k * 110},${r2(1436 - 16 * Math.max(0, Math.sin(ph)))}) rotate(${r2((k - 1) * 8 + 5 * Math.sin(ph))})`); });
-    } else if (b.fast) { const T = b.sp === 'T', bs = [0, 1, 2, 3, 4].map(i => BI['f' + i + (T ? 't' : 'k')]); drawWords(H[T ? 'fT' : 'fK'], bs.map(x => x.a), bs.map(x => x.b), t); }
+    } else if (b.fast) { const T = b.sp === 'T', bs = WD.parts.map((_, i) => i).map(i => BI['f' + i + (T ? 't' : 'k')]); drawWords(H[T ? 'fT' : 'fK'], bs.map(x => x.a), bs.map(x => x.b), t); }
     else if (turn) { const lit = c.W.map(() => b.a - 1); drawWords(c.W, lit, lit, t); }
     else if (c.W) {
       drawWords(c.W, b.ws, b.we, t);
