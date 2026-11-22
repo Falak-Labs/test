@@ -1,0 +1,33 @@
+episode: 65
+date: 2026-11-23
+video:
+  en: media/ep65-shibam-en.mp4
+  ar: media/ep65-shibam-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-23T16:30:00Z"    # 08:30 PT Mon Nov 23
+  title: "Shibam: The Mud Skyscraper City 🏜️"
+  text: |
+    A whole city of skyscrapers made of mud, standing for about 500 years. 🏜️
+    Built on a raised mound so desert flash floods flow around it, about 500 tower houses of 5 to 11 floors packed wall to wall, walls thick at the bottom and thinner on every floor, white lime on the tops, and fresh mud after every rain. The bottom floors have no windows: grain and goats down there, the family up high.
+    Would you live on the 11th floor of a mud tower? 👇
+  next: "London's Tower Bridge 🇬🇧"
+  seo: "How Shibam's mud skyscrapers stand: Shibam, in Wadi Hadhramaut, is a walled city of about 500 tower houses built of sun-dried mud brick, most of them from the 16th century, which is why it is called the oldest skyscraper city in the world and the Manhattan of the desert. The city sits on a raised mound in the middle of the valley, so the rare but violent flash floods flow around it, and it is surrounded by a wall. With little space on the mound, the houses grew up instead of out: five to eleven storeys each, some over 30 m tall, among the tallest mud buildings in the world, packed wall to wall. Their walls are thickest at the bottom and get thinner on every floor, so each tower tapers as it rises and its weight does not crush the lowest walls. Mud washes away in the rain, so the tops are coated with white lime plaster and families keep patching their walls with fresh mud. The lower floors have no windows and were used for grain and animals, while the family lived in the upper floors. It is a UNESCO World Heritage site, listed in 1982."
+  tags:
+    tiktok: "#shibam #architecture #history #mudbrick #learnontiktok"
+    instagram: "#shibam #architecture #history #mudbrick #travel"
+    youtube: "#shibam #architecture #history"
+ar:
+  at: "2026-11-23T11:00:00Z"    # 03:00 PT Mon Nov 23 = 2 pm Riyadh
+  title: "شبام: ناطحات سحاب من طين 🏜️"
+  text: |
+    مدينة كاملة ناطحات سحاب من طين، وواقفة قرابة خمسمية سنة! 🏜️
+    مبنية على تلة مرتفعة عشان السيل يمشي من حولها، وقرابة خمسمية بيت برج من خمس لإحدعش دور لازقة في بعض، والجدار عريض تحت ويرق مع كل دور، والنورة البيضا فوق، وبعد كل مطرة يلبّسون الجدران طين جديد. والأدوار اللي تحت بدون شبابيك: الحب والغنم تحت، والعيلة فوق.
+    تسكن في الدور الحدعش؟ 👇
+  next: "جسر البرج في لندن 🇬🇧"
+  seo: "كيف ناطحات شبام الطين واقفة: شبام في وادي حضرموت مدينة مسوّرة فيها حوالي خمسمية بيت برج مبنية من طوب الطين المجفف بالشمس، وأغلبها من القرن السادس عشر، عشان كذا يسمونها أقدم مدينة ناطحات سحاب في العالم ومانهاتن الصحرا. المدينة مبنية على تلة مرتفعة وسط الوادي، فالسيل اللي ينزل نادر بس قوي يمشي من حولها، وحولها سور. والمكان فوق التلة ضيق، فالبيوت طلعت لفوق بدل ما تتمدد: من خمس لإحدعش دور، وبعضها أطول من ثلاثين متر، من أطول مباني الطين في العالم، ولازقة في بعض. الجدران أعرض شي تحت وترق مع كل دور، فالبرج يضيق وهو طالع وثقله ما يسحق الجدران اللي تحت. والطين يذوب مع المطر، فيصبغون الأدوار اللي فوق بالنورة البيضا، والأهل يلبّسون جدرانهم طين جديد كل شوي. والأدوار اللي تحت ما فيها شبابيك وكانت للحب والمواشي، والعيلة تسكن فوق. وشبام من مواقع التراث العالمي في اليونسكو من سنة ألف وتسعمية واثنين وثمانين."
+  tags:
+    tiktok: "#شبام #حضرموت #عمارة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#شبام #حضرموت #عمارة #السعودية #معلومات"
+    youtube: "#شبام #حضرموت #معلومات"
