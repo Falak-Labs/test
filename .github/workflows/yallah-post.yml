@@ -1,6 +1,6 @@
 name: Yallah Say posts
 # Hands each queued Yallah Say video to Buffer a few minutes before its time (the schedule lives in yallah/queue/).
-# Buffer keys: Actions secrets BUFFER_KEY_MA and BUFFER_KEY_PA. Nothing is sent while "enabled" is false in yallah/config.json.
+# Buffer keys: Actions secrets BUFFER_KEY_MA and BUFFER_KEY_PA (the owner's own names MAROC and PAL are read too). Nothing is sent while "enabled" is false in yallah/config.json.
 on:
   workflow_dispatch:
     inputs:
@@ -39,16 +39,16 @@ jobs:
       - name: List the channels each Buffer key sees
         if: inputs.channels == 'true'
         env:
-          BUFFER_KEY_MA: ${{ secrets.BUFFER_KEY_MA }}
-          BUFFER_KEY_PA: ${{ secrets.BUFFER_KEY_PA }}
+          BUFFER_KEY_MA: ${{ secrets.BUFFER_KEY_MA || secrets.MAROC }}
+          BUFFER_KEY_PA: ${{ secrets.BUFFER_KEY_PA || secrets.PAL }}
         run: |
           pip install --quiet requests pyyaml
           python yallah/post_due.py --channels
       - name: Send what is due to Buffer
         if: steps.due.outputs.due == 'true' && inputs.preview != 'true' && inputs.channels != 'true'
         env:
-          BUFFER_KEY_MA: ${{ secrets.BUFFER_KEY_MA }}
-          BUFFER_KEY_PA: ${{ secrets.BUFFER_KEY_PA }}
+          BUFFER_KEY_MA: ${{ secrets.BUFFER_KEY_MA || secrets.MAROC }}
+          BUFFER_KEY_PA: ${{ secrets.BUFFER_KEY_PA || secrets.PAL }}
         run: |
           pip install --quiet requests pyyaml
           python yallah/post_due.py
