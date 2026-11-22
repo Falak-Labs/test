@@ -1,6 +1,30 @@
-# Last Yallah Say posting run 2026-11-22T07:26:43+00:00
+# Last Yallah Say posting run 2026-11-22T07:42:00+00:00
 
+- en: Buffer channels: tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
+- ep06-en en.instagram: handed to Buffer, goes out Sun 22 Nov 07:40 (id 6b029ccac72676f5e90ffb70)
+- ep06-en en.tiktok: handed to Buffer, goes out Sun 22 Nov 07:42 (id 6b029ccbc72676f5e90ffbb4)
+- ep08-en en.instagram: handed to Buffer, goes out Sun 22 Nov 01:50 (id 6b029ccc02479690923168bc)
+- ep08-en en.tiktok: handed to Buffer, goes out Sun 22 Nov 01:52 (id 6b029ccdcc364169c1382746)
 - ar: Buffer channels: instagram (thedarktoldmear), youtube (The Dark Told Me AR), tiktok (thedarktoldmear)
-- ep21-ar ar.instagram: handed to Buffer, goes out Sat 21 Nov 23:30 (id 6b029935d5eabfb8cc8de16d)
-- ep21-ar ar.tiktok: handed to Buffer, goes out Sat 21 Nov 23:33 (id 6b029936d5eabfb8cc8de1b0)
-- ar: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=899, "24h"; r=588; t=84940, "30d"; r=2988; t=2590540; ratelimit-policy="15m"; q=1
+- ep12-ar ar.instagram: handed to Buffer, goes out Sun 22 Nov 06:55 (id 6b029ccfd5eabfb8cc8f32b3)
+- ep12-ar ar.tiktok: handed to Buffer, goes out Sun 22 Nov 06:55 (id 6b029cd0846b0ee9076b5d64)
+- ep15-ar ar.instagram: handed to Buffer, goes out Sun 22 Nov 08:06 (id 6b029cd1d5eabfb8cc8f3418)
+- ep15-ar ar.tiktok: handed to Buffer, goes out Sun 22 Nov 08:07 (id 6b029cd3c72676f5e90fffc0)
+- ep16-ar ar.instagram: handed to Buffer, goes out Sun 22 Nov 04:36 (id 6b029cd4c72676f5e9100052)
+- ep16-ar ar.tiktok: handed to Buffer, goes out Sun 22 Nov 04:36 (id 6b029cd5cc364169c13829e3)
+- ep16-en en.instagram: handed to Buffer, goes out Sun 22 Nov 04:10 (id 6b029cd7c72676f5e9100147)
+- ep16-en en.tiktok: handed to Buffer, goes out Sun 22 Nov 04:10 (id 6b029cd8c72676f5e9100289)
+- ep17-ar ar.instagram: handed to Buffer, goes out Sun 22 Nov 03:27 (id 6b029cda0247969092316bcd)
+- ep17-ar ar.tiktok: handed to Buffer, goes out Sun 22 Nov 03:26 (id 6b029cdb846b0ee9076b5fa9)
+- ep17-en en.instagram: handed to Buffer, goes out Sun 22 Nov 03:01 (id 6b029cdc846b0ee9076b5feb)
+- ep17-en en.tiktok: handed to Buffer, goes out Sun 22 Nov 03:01 (id 6b029cddc72676f5e9100392)
+- ep18-ar ar.instagram: handed to Buffer, goes out Sun 22 Nov 05:47 (id 6b029cdfcc364169c1382ba7)
+- ep18-ar ar.tiktok: handed to Buffer, goes out Sun 22 Nov 05:47 (id 6b029ce0d864a01105a6f3f5)
+- ep18-en en.instagram: handed to Buffer, goes out Sun 22 Nov 06:32 (id 6b029ce2d864a01105a6f42b)
+- ep18-en en.tiktok: handed to Buffer, goes out Sun 22 Nov 06:31 (id 6b029ce3d5eabfb8cc8f3914)
+- ep20-ar ar.instagram: handed to Buffer, goes out Sun 22 Nov 02:16 (id 6b029ce4d5eabfb8cc8f396e)
+- ep20-ar ar.tiktok: handed to Buffer, goes out Sun 22 Nov 02:15 (id 6b029ce6846b0ee9076b6175)
+- ep20-en en.instagram: handed to Buffer, goes out Sun 22 Nov 05:20 (id 6b029ce7d5eabfb8cc8f39f0)
+- ep20-en en.tiktok: handed to Buffer, goes out Sun 22 Nov 05:21 (id 6b029ce8846b0ee9076b624b)
+- en: 14 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=136; t=869, "24h"; r=566; t=83994, "30d"; r=2966; t=2589594; ratelimit-policy="15m"; q=1
+- ar: 14 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=136; t=877, "24h"; r=568; t=83997, "30d"; r=2968; t=2589597; ratelimit-policy="15m"; q=1
