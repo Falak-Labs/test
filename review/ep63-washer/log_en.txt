@@ -1,0 +1,13 @@
+washer: 67.78s, 2033 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/washer/cover.png: ['WASHING', 'MACHINE'] (frame 0 of the video)
+video done in 458s
+audio done
+final out/washer/washer_final.mp4
+QA  duration 67.77s  loudness -14.0 LUFS  true peak -1.8 dBFS  1080x1920 @ 30/1  frames 2033
+QA sheet out/washer/qa_sheet.png

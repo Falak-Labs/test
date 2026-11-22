@@ -1,0 +1,136 @@
+{
+ "slug": "ep63-washer",
+ "kit": "washer",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.77,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "12/227",
+   "mix_lines_off": [
+    "L 4 1 diff  | But water alone slides right off Greece.",
+    "L 7 2 diff  | So you spin the drum 1400 times a minute and the water flies out through the holes.",
+    "L11 2 diff  | Now the story, wash day was a whole day of boiling and scrubbing until electric washers arrived over a century ago.",
+    "L12 6 diff  | 1,400 turns a minute, 500 times gravity, and a 25 kilo block of concrete.",
+    "L14 1 diff  | They tame the shaking with concrete, and yours still walks across the bathroom until somebody sits on it."
+   ],
+   "size_mb": 23.2,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تغسل الملابس بدون ما تلمسها، وتعصرها أسرع من سيارة على الخط السريع، مبروك، كذا سويت لك غسالة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الملابس لو تنقعها في موية بس، الوسخ يظل لاصق في الخيوط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتقلّبها: حوض كله خروم يلف رايح جاي، وفيه زعانف ترفع الملابس وتطيّحها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الموية لحالها تتزحلق على الدهون.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتحط صابون، جزيئاته تمسك الدهن من طرف، والموية من طرف، وتسحب الوسخ.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الحين الملابس مبلولة وثقيلة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتلف الحوض ألف وأربعمية لفة في الدقيقة، والموية تطير من الخروم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس لو فوطة ثقيلة صارت على جهة، الغسالة كلها تبدأ تمشي في الحمام.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتثبّت على الحوض حجر خرسانة، وتعلّقه على سوست، وتحط تحته مساعدات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تشغّلها، تابعني، لأن الجاي بنبني ساعة بيغ بن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "الحين الحكاية: يوم الغسيل كان يوم كامل غلي وفرك، لين جت الغسالة الكهربا قبل مية سنة وزيادة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ألف وأربعمية لفة في الدقيقة، وقوة خمسمية مرة الجاذبية، وحجر خرسانة خمسة وعشرين كيلو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك غسالة بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "ضبطوا الرجّة بالخرسانة، وغسالتكم للحين تمشي في الحمام، وأمك تصيح: اقعد عليها!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 72.13,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 25.0,
+   "cover": true
+  }
+ }
+}

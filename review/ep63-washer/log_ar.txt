@@ -1,0 +1,7 @@
+washer_ar_sa: 72.14s, 2164 frames
+cover out/washer_ar_sa/cover.png: ['غسالة'] (frame 0 of the video)
+video done in 488s
+audio done
+final out/washer_ar_sa/washer_ar_sa_final.mp4
+QA  duration 72.13s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2164
+QA sheet out/washer_ar_sa/qa_sheet.png
