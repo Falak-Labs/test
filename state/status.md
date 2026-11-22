@@ -1,4 +1,4 @@
-# Post status 2026-11-22T19:46:02+00:00
+# Post status 2026-11-22T20:47:10+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -348,17 +348,25 @@
 | ep61-pisa | en.instagram | scheduled |  | 2026-11-22T21:30:00.000Z |
 | ep61-pisa | en.tiktok | scheduled |  | 2026-11-22T21:30:00.000Z |
 | ep61-pisa | en.youtube | scheduled |  | 2026-11-22T23:50:00.000Z |
-| ep62-tent | ar.instagram | scheduled |  | 2026-11-22T20:00:00.000Z |
-| ep62-tent | ar.tiktok | scheduled |  | 2026-11-22T20:30:00.000Z |
+| ep62-tent | ar.instagram | sent |  | 2026-11-22T20:02:45.846Z https://www.instagram.com/reel/DgDndaSzUqa/ |
+| ep62-tent | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-22T20:30:00.000Z |
 | ep62-tent | en.instagram | scheduled |  | 2026-11-23T00:00:00.000Z |
 | ep62-tent | en.tiktok | scheduled |  | 2026-11-23T00:00:00.000Z |
 | ep63-washer | ar.instagram | scheduled |  | 2026-11-22T23:00:00.000Z |
 | ep63-washer | ar.tiktok | scheduled |  | 2026-11-22T23:00:00.000Z |
 | ep63-washer | en.instagram | scheduled |  | 2026-11-23T02:30:00.000Z |
 | ep63-washer | en.tiktok | scheduled |  | 2026-11-23T02:30:00.000Z |
+| ep64-bigben | ar.instagram | scheduled |  | 2026-11-23T08:00:00.000Z |
+| ep64-bigben | ar.tiktok | scheduled |  | 2026-11-23T08:00:00.000Z |
+| ep64-bigben | en.instagram | scheduled |  | 2026-11-23T14:00:00.000Z |
+| ep64-bigben | en.tiktok | scheduled |  | 2026-11-23T14:00:00.000Z |
+| ep66-towerbridge | ar.instagram | scheduled |  | 2026-11-23T14:00:00.000Z |
+| ep66-towerbridge | ar.tiktok | scheduled |  | 2026-11-23T14:00:00.000Z |
+| ep66-towerbridge | en.instagram | scheduled |  | 2026-11-23T19:00:00.000Z |
+| ep66-towerbridge | en.tiktok | scheduled |  | 2026-11-23T19:00:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://tiktok.com/@congratsengineer/video/7710759443809553677 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
 | sm02 | ar.tiktok | sent |  | 2026-11-22T18:31:37.817Z https://tiktok.com/@kef.tenbeni/video/7711064986436521229 |
-| sm02 | en.instagram | scheduled |  | 2026-11-22T20:15:00.000Z |
-| sm02 | en.tiktok | scheduled |  | 2026-11-22T20:15:00.000Z |
+| sm02 | en.instagram | sent |  | 2026-11-22T20:16:16.547Z https://www.instagram.com/reel/DgDo_XSguAT/ |
+| sm02 | en.tiktok | sent |  | 2026-11-22T20:16:52.404Z https://tiktok.com/@congratsengineer/video/7711091895430024461 |

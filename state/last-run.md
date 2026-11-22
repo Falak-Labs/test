@@ -1,3 +1,45 @@
-# Requeue run 2026-11-22T19:31:12+00:00
+# Last posting run 2026-11-22T20:46:54+00:00
 
-- ep55-suez ar.tiktok: queued for 04:30 UTC (Buffer status now: scheduled)
+- en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
+- ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
+- ep47-igloo en.youtube: on hold in posts/ep47-igloo.yml
+- ep47-igloo ar.youtube: on hold in posts/ep47-igloo.yml
+- ep48-riad en.youtube: on hold in posts/ep48-riad.yml
+- ep48-riad ar.youtube: on hold in posts/ep48-riad.yml
+- ep50-ondol en.youtube: on hold in posts/ep50-ondol.yml
+- ep50-ondol ar.youtube: on hold in posts/ep50-ondol.yml
+- ep51-burjalarab en.youtube: on hold in posts/ep51-burjalarab.yml
+- ep51-burjalarab ar.youtube: on hold in posts/ep51-burjalarab.yml
+- ep52-palmjumeirah en.youtube: on hold in posts/ep52-palmjumeirah.yml
+- ep52-palmjumeirah ar.youtube: on hold in posts/ep52-palmjumeirah.yml
+- ep53-fridge en.youtube: on hold in posts/ep53-fridge.yml
+- ep53-fridge ar.youtube: on hold in posts/ep53-fridge.yml
+- ep55-suez en.youtube: on hold in posts/ep55-suez.yml
+- ep55-suez ar.youtube: on hold in posts/ep55-suez.yml
+- ep56-escalator en.youtube: on hold in posts/ep56-escalator.yml
+- ep56-escalator ar.youtube: on hold in posts/ep56-escalator.yml
+- ep58-ferriswheel en.youtube: on hold in posts/ep58-ferriswheel.yml
+- ep58-ferriswheel ar.youtube: on hold in posts/ep58-ferriswheel.yml
+- ep60-microwave en.youtube: on hold in posts/ep60-microwave.yml
+- ep60-microwave ar.youtube: on hold in posts/ep60-microwave.yml
+- ep62-tent en.youtube: on hold in posts/ep62-tent.yml
+- ep62-tent ar.youtube: on hold in posts/ep62-tent.yml
+- ep63-washer en.youtube: on hold in posts/ep63-washer.yml
+- ep63-washer ar.youtube: on hold in posts/ep63-washer.yml
+- ep64-bigben en.youtube: on hold in posts/ep64-bigben.yml
+- ep64-bigben en.instagram: scheduled (Mon 23 Nov 14:00 UTC) id 6b0354c0d864a01105f425db
+- ep64-bigben en.tiktok: scheduled (Mon 23 Nov 14:00 UTC) id 6b0354c0846b0ee907b80976
+- ep64-bigben ar.youtube: on hold in posts/ep64-bigben.yml
+- ep64-bigben ar.instagram: scheduled (Mon 23 Nov 08:00 UTC) id 6b0354c2cc364169c183e628
+- ep64-bigben ar.tiktok: scheduled (Mon 23 Nov 08:00 UTC) id 6b0354c2d5eabfb8ccdb1cb1
+- ep66-towerbridge en.youtube: on hold in posts/ep66-towerbridge.yml
+- ep66-towerbridge en.instagram: scheduled (Mon 23 Nov 19:00 UTC) id 6b0354c3bf5d5a73b6bec0eb
+- ep66-towerbridge en.tiktok: scheduled (Mon 23 Nov 19:00 UTC) id 6b0354c4c72676f5e95c0fb7
+- ep66-towerbridge ar.youtube: on hold in posts/ep66-towerbridge.yml
+- ep66-towerbridge ar.instagram: scheduled (Mon 23 Nov 14:00 UTC) id 6b0354c5bf5d5a73b6bec187
+- ep66-towerbridge ar.tiktok: scheduled (Mon 23 Nov 14:00 UTC) id 6b0354c6846b0ee907b80b2a
+- sm01-survival en.youtube: on hold in posts/sm01-survival.yml
+- sm02 en.youtube: on hold in posts/sm02.yml
+- sm02 ar.youtube: on hold in posts/sm02.yml
+- en: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=895, "24h"; r=518; t=27385, "30d"; r=1284; t=1503960; ratelimit-policy="15m"; q=1
+- ar: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=894, "24h"; r=499; t=27383, "30d"; r=1206; t=1510087; ratelimit-policy="15m"; q=1
