@@ -1,0 +1,136 @@
+{
+ "slug": "ep66-towerbridge",
+ "kit": "towerbridge",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.77,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "15/235",
+   "mix_lines_off": [
+    "L 3 1 diff  | So you cut the road in two. Each half is a giant seesaw on an axle. It's heavy end hidden in the tower.",
+    "L 6 3 diff  | But it's 1894 and the power has to be ready the moment a ship arrives.",
+    "L 9 2 diff  | So you add walkways between the towers, 42 meters up so they can cross over the top.",
+    "L11 3 diff  | Now the story, in 1952, it opened with a double-decker bus still on it and the driver floored it and jumped the gap.",
+    "L12 6 diff  | Over a thousand tons aside, around 800 lifts a year and everyone is free."
+   ],
+   "size_mb": 18.2,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو طريقك يوقف على حيله في نص لندن عشان تمر سفينة، وبعدين ينسدح، مبروك، كذا سويت لك جسر البرج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس أكبر ميناء في لندن ورا الجسر، والسفن الطويلة لازم تمر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتقسم الطريق نصين، كل نص يلف على محور مثل الميزان، وطرفه الثقيل داخل البرج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الواحد منهم يوزن أكثر من ألف طن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتوازنه بثقل يقابله، ودفّة صغيرة ترفع الطريق كله.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس إحنا في ألف وثمنمية وأربعة وتسعين، والقوة لازم تكون جاهزة على طول.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فمكاين بخار تضخ موية في خزانات تحت ضغط، وهالموية هي اللي ترفع الطريق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس والطريق مرفوع، اللي يمشون يوقفون ينتظرون.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتسوي ممرات بين البرجين على ارتفاع اثنين وأربعين متر، يعبرون من فوق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تعبر، تابعني، لأن الجاي بنبني الكولوسيوم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: قبل سبعين سنة وأكثر، الجسر انفتح وعليه باص دورين، والسوّاق دعس ونط الفتحة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "أكثر من ألف طن كل جهة، وقرابة ثمنمية فتحة في السنة، ببلاش.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك جسر البرج بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "باص لندن طار فوق الفتحة، وأنت أول ما تخضر الإشارة، اللي وراك يزمّر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 17.7,
+   "cover": true
+  }
+ }
+}
