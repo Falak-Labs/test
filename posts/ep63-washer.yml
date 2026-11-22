@@ -1,0 +1,32 @@
+episode: 63
+date: 2026-11-22
+video:
+  en: media/ep63-washer-en.mp4
+  ar: media/ep63-washer-ar.mp4
+hold: [en.youtube, ar.youtube]    # YouTube through Studio (out of reach for the scheduled run); Buffer's Sunday YouTube goes to 59 and 61
+en:
+  at: "2026-11-23T02:30:00Z"    # 18:30 PT Sun Nov 22
+  title: "Washing Machine: Its Drum Beats a Car on the Highway 🧺"
+  text: |
+    No hands, and the drum wall spins faster than a car on the highway. 🧺
+    A drum full of holes tumbles your clothes, detergent molecules grab grease with one end and water with the other, the spin throws the water out through the holes at 1,400 turns a minute, and a concrete block, springs and shock absorbers stop the whole thing from walking away.
+    Does yours walk across the bathroom too? 👇
+  next: "Big Ben's clock 🕰️"
+  seo: "How a washing machine works: the clothes go into a drum full of small holes that sits inside a sealed tub. The motor turns the drum back and forth, and paddles on its wall lift the clothes and drop them again, so the water and detergent are pushed through the fabric instead of just soaking it. Detergent molecules have one end that sticks to water and one end that sticks to grease, so they surround the grease, lift it off the threads and carry it away in the water. To dry the clothes, the drum spins fast, up to about 1,400 turns a minute in many front loaders: the clothes are pressed against the wall with hundreds of times the pull of gravity and the water is thrown out through the holes. At about 1,400 turns a minute the wall of a 48 cm drum moves at roughly 130 km/h. A heavy load on one side makes the drum wobble at that speed, so the tub is weighed down with blocks of concrete, often around 25 kg, hung on springs from the top and held by shock absorbers from below, and many machines check the balance before they spin. Before electric washers arrived more than a century ago, washday meant a whole day of boiling water and scrubbing clothes by hand."
+  tags:
+    tiktok: "#washingmachine #howitworks #engineering #science #learnontiktok"
+    instagram: "#washingmachine #howitworks #engineering #science #home"
+    youtube: "#washingmachine #howitworks #engineering"
+ar:
+  at: "2026-11-22T23:00:00Z"    # 15:00 PT Sun Nov 22 = 2 am Riyadh Nov 23
+  title: "الغسالة: حوضها أسرع من سيارة على الخط السريع 🧺"
+  text: |
+    بدون ما تلمس الملابس، وحوضها يلف أسرع من سيارة على الخط السريع! 🧺
+    حوض كله خروم يقلّب الملابس، والصابون جزيئاته تمسك الدهن من طرف والموية من طرف، والعصر يطيّر الموية من الخروم بألف وأربعمية لفة في الدقيقة، وحجر خرسانة وسوست ومساعدات تمنعها تمشي في الحمام.
+    غسالتكم للحين تمشي؟ 👇
+  next: "ساعة بيغ بن 🕰️"
+  seo: "كيف تشتغل الغسالة: الملابس تنحط في حوض كله خروم صغيرة، وهو داخل حوض ثاني مقفّل. الموتور يلف الحوض رايح جاي، وفيه زعانف على جداره ترفع الملابس وتطيّحها، عشان الموية والصابون يدخلون في القماش بدل ما ينقع بس. جزيئات الصابون لها طرف يمسك الموية وطرف يمسك الدهن، فتلف حول الدهن وتشيله من الخيوط وتاخذه مع الموية. ولما يجي وقت العصر، الحوض يلف بسرعة، لين ألف وأربعمية لفة في الدقيقة في غسالات كثيرة، والملابس تنضغط على الجدار بقوة مئات المرات الجاذبية والموية تطير من الخروم، وجدار الحوض يمشي حوالي مية وثلاثين كيلو في الساعة، أسرع من سيارة على الخط السريع. ولو الحمل على جهة وحدة، الحوض يرج بقوة على هالسرعة، فيثقّلونه بحجر خرسانة، غالبًا حوالي خمسة وعشرين كيلو، ويعلّقونه على سوست من فوق ومساعدات من تحت، وغسالات كثيرة تفحص التوازن قبل العصر. وقبل الغسالات الكهربا اللي جت قبل أكثر من مية سنة، يوم الغسيل كان يوم كامل غلي موية وفرك باليد."
+  tags:
+    tiktok: "#غسالة #معلومات #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#غسالة #معلومات #هندسة #السعودية #بيت"
+    youtube: "#غسالة #معلومات #هندسة"

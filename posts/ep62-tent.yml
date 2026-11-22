@@ -1,0 +1,33 @@
+episode: 62
+date: 2026-11-22
+video:
+  en: media/ep62-tent-en.mp4
+  ar: media/ep62-tent-ar.mp4
+hold: [en.youtube, ar.youtube]    # YouTube through Studio (out of reach for the scheduled run); Buffer's Sunday YouTube goes to 59 and 61
+en:
+  at: "2026-11-23T00:00:00Z"    # 16:00 PT Sun Nov 22
+  title: "Bedouin Tent: A House Woven From Goat Hair ⛺"
+  text: |
+    A house woven from goat hair that keeps out desert rain and still lets the breeze in. ⛺
+    The black cloth throws deep shade and lets hot air slip out through the weave, wet goat hair swells and closes the gaps so the rain runs off, the walls are panels you pin down on the windy side, and the whole house packs onto a camel. Every strip is woven by hand.
+    Have you ever slept in one? 👇
+  next: "a washing machine 🧺"
+  seo: "How a Bedouin black tent works: the bayt al-sha'ar, the house of hair, is woven from black goat hair by the women of the family on a loom laid out on the ground, in long narrow strips that are sewn together edge to edge to make the roof. The thick black cloth throws a deep shade in the desert sun, and the loose weave lets hot air rise and slip out. When it rains, the goat hair swells and closes the gaps in the weave, so the water runs off instead of dripping through. The side walls are separate woven panels pinned to the roof, so the family can close the side the wind and sand come from and open the other side to the breeze. The tent is held up by wooden poles and long ropes pegged into the sand, with no nails and no bricks, so it comes down quickly and packs onto a camel when the family moves with its herds. Inside, a woven curtain, often in red, white and black Sadu patterns, divides the tent into the guests' side, where the coffee is made, and the family's side. Al Sadu weaving is on UNESCO's list of intangible cultural heritage."
+  tags:
+    tiktok: "#bedouin #tent #desert #engineering #learnontiktok"
+    instagram: "#bedouin #tent #desert #engineering #culture"
+    youtube: "#bedouin #desert #engineering"
+ar:
+  # Instagram 12:00 PT = 10 pm Cairo; TikTok 12:30 PT, 2 h after the show's Arabic TikTok (10:30 PT)
+  at: {default: "2026-11-22T20:00:00Z", tiktok: "2026-11-22T20:30:00Z"}
+  title: "بيت الشعر: بيت منسوج من شعر المعيز ⛺"
+  text: |
+    بيت منسوج من شعر المعيز، بيصد مطر الصحرا وبرضه بيعدّي النسمة! ⛺
+    القماش الأسود بيعمل ضل تقيل والهوا السخن بيطلع من بين الخيوط، وشعر المعيز لما يتبل بينتفخ ويقفل الخروم والمطر يتزحلق، والحيطان ستاير بتنزّلها ناحية الهوا، والبيت كله بيتطوي ويركب على ضهر الجمل. وكل شريط فيه متنسوج بالإيد.
+    عمرك نمت في خيمة زي دي؟ 👇
+  next: "غسالة 🧺"
+  seo: "إزاي خيمة البدو بتشتغل: بيت الشعر بيتنسج من شعر المعيز الأسود، والستات في العيلة بينسجوه على نول ممدود على الأرض، شرايط طويلة ورفيعة بتتخيط جنب بعض وتعمل السقف. القماش الأسود التقيل بيعمل ضل تقيل في شمس الصحرا، والنسيج المفتوح بيخلي الهوا السخن يطلع من بين الخيوط. ولما المطر ينزل، شعر المعيز بينتفخ ويقفل الخروم اللي في النسيج، فالمية تتزحلق من عليه بدل ما تنقط جوه. والحيطان ستاير منسوجة لوحدها بتتشبك في السقف، فالعيلة تقفل الناحية اللي جاي منها الهوا والرملة وتفتح الناحية التانية للنسمة. والبيت واقف على عواميد خشب وحبال طويلة متثبتة في الرملة، من غير ولا مسمار ولا طوبة، فبيتفك بسرعة ويركب على ضهر الجمل لما العيلة تتنقل ورا الغنم. وجوه البيت ستارة منسوجة، غالبًا بنقوش السدو الحمرا والبيضا والسودا، بتقسمه ناحية للضيوف فيها القهوة وناحية للعيلة. ونسيج السدو متسجل في قايمة اليونسكو للتراث."
+  tags:
+    tiktok: "#بيت_الشعر #البدو #الصحراء #هندسة #تعلم_على_التيك_توك"
+    instagram: "#بيت_الشعر #البدو #الصحراء #هندسة #تراث"
+    youtube: "#بيت_الشعر #البدو #هندسة"
