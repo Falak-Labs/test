@@ -88,9 +88,9 @@ Rules:
 61. idea: the Leaning Tower of Pisa (why it leans and still stands) (taken: evening run of 2026-11-21)
 62. idea: a Bedouin goat-hair tent (bait al-sha'ar) that keeps out rain and sun (taken: evening run of 2026-11-21)
 63. idea: a washing machine (taken: evening run of 2026-11-21)
-64. idea: Big Ben's clock (old pennies on the pendulum keep it on time)
-65. idea: Shibam in Yemen, the mud-brick skyscraper city
-66. idea: London's Tower Bridge that lifts its road
+64. idea: Big Ben's clock (old pennies on the pendulum keep it on time) (taken: midday run of 2026-11-22)
+65. idea: Shibam in Yemen, the mud-brick skyscraper city (taken: midday run of 2026-11-22)
+66. idea: London's Tower Bridge that lifts its road (taken: midday run of 2026-11-22)
 67. idea: the Colosseum (its giant sun awning and the trapdoor lifts under the arena)
 68. idea: Taipei 101's giant swinging damper ball
 69. idea: a dishwasher
