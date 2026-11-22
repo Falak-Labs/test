@@ -1,4 +1,4 @@
-# Post status 2026-11-22T20:47:10+00:00
+# Post status 2026-11-22T20:54:09+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -360,6 +360,10 @@
 | ep64-bigben | ar.tiktok | scheduled |  | 2026-11-23T08:00:00.000Z |
 | ep64-bigben | en.instagram | scheduled |  | 2026-11-23T14:00:00.000Z |
 | ep64-bigben | en.tiktok | scheduled |  | 2026-11-23T14:00:00.000Z |
+| ep65-shibam | ar.instagram | scheduled |  | 2026-11-23T11:00:00.000Z |
+| ep65-shibam | ar.tiktok | scheduled |  | 2026-11-23T11:00:00.000Z |
+| ep65-shibam | en.instagram | scheduled |  | 2026-11-23T16:30:00.000Z |
+| ep65-shibam | en.tiktok | scheduled |  | 2026-11-23T16:30:00.000Z |
 | ep66-towerbridge | ar.instagram | scheduled |  | 2026-11-23T14:00:00.000Z |
 | ep66-towerbridge | ar.tiktok | scheduled |  | 2026-11-23T14:00:00.000Z |
 | ep66-towerbridge | en.instagram | scheduled |  | 2026-11-23T19:00:00.000Z |

@@ -1,4 +1,4 @@
-# Last posting run 2026-11-22T20:46:54+00:00
+# Last posting run 2026-11-22T20:53:57+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -27,19 +27,17 @@
 - ep63-washer en.youtube: on hold in posts/ep63-washer.yml
 - ep63-washer ar.youtube: on hold in posts/ep63-washer.yml
 - ep64-bigben en.youtube: on hold in posts/ep64-bigben.yml
-- ep64-bigben en.instagram: scheduled (Mon 23 Nov 14:00 UTC) id 6b0354c0d864a01105f425db
-- ep64-bigben en.tiktok: scheduled (Mon 23 Nov 14:00 UTC) id 6b0354c0846b0ee907b80976
 - ep64-bigben ar.youtube: on hold in posts/ep64-bigben.yml
-- ep64-bigben ar.instagram: scheduled (Mon 23 Nov 08:00 UTC) id 6b0354c2cc364169c183e628
-- ep64-bigben ar.tiktok: scheduled (Mon 23 Nov 08:00 UTC) id 6b0354c2d5eabfb8ccdb1cb1
+- ep65-shibam en.youtube: on hold in posts/ep65-shibam.yml
+- ep65-shibam en.instagram: scheduled (Mon 23 Nov 16:30 UTC) id 6b035667c72676f5e95ca7c2
+- ep65-shibam en.tiktok: scheduled (Mon 23 Nov 16:30 UTC) id 6b035668bf5d5a73b6bf4542
+- ep65-shibam ar.youtube: on hold in posts/ep65-shibam.yml
+- ep65-shibam ar.instagram: scheduled (Mon 23 Nov 11:00 UTC) id 6b035669d5eabfb8ccdbb48f
+- ep65-shibam ar.tiktok: scheduled (Mon 23 Nov 11:00 UTC) id 6b035669d864a01105f4babc
 - ep66-towerbridge en.youtube: on hold in posts/ep66-towerbridge.yml
-- ep66-towerbridge en.instagram: scheduled (Mon 23 Nov 19:00 UTC) id 6b0354c3bf5d5a73b6bec0eb
-- ep66-towerbridge en.tiktok: scheduled (Mon 23 Nov 19:00 UTC) id 6b0354c4c72676f5e95c0fb7
 - ep66-towerbridge ar.youtube: on hold in posts/ep66-towerbridge.yml
-- ep66-towerbridge ar.instagram: scheduled (Mon 23 Nov 14:00 UTC) id 6b0354c5bf5d5a73b6bec187
-- ep66-towerbridge ar.tiktok: scheduled (Mon 23 Nov 14:00 UTC) id 6b0354c6846b0ee907b80b2a
 - sm01-survival en.youtube: on hold in posts/sm01-survival.yml
 - sm02 en.youtube: on hold in posts/sm02.yml
 - sm02 ar.youtube: on hold in posts/sm02.yml
-- en: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=895, "24h"; r=518; t=27385, "30d"; r=1284; t=1503960; ratelimit-policy="15m"; q=1
-- ar: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=894, "24h"; r=499; t=27383, "30d"; r=1206; t=1510087; ratelimit-policy="15m"; q=1
+- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=131; t=475, "24h"; r=505; t=26965, "30d"; r=1271; t=1503540; ratelimit-policy="15m"; q=1
+- ar: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=131; t=474, "24h"; r=486; t=26964, "30d"; r=1193; t=1509668; ratelimit-policy="15m"; q=1
