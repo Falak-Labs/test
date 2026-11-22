@@ -1,0 +1,66 @@
+{
+ "lesson": "04",
+ "dialect": "ma",
+ "file": "yallah-say-ma-ep04.mp4",
+ "ok": false,
+ "problems": [
+  "picture piece 3: 0 of 520 frames; /work/test/test/out/ma04/page/main.js:541:145)\n    at window.renderFrame (file:///home/runner/work/test/test/out/ma04/page/main.js:558:17)\n    at eval (eval at evaluate (:311:30), <anonymous>:1:13)\n    at UtilityScript.evaluate (<anonymous>:318:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+ ],
+ "steps": {
+  "script": {
+   "seconds": 0.0,
+   "says": [
+    "44 beats, 14 voice lines, 235 characters"
+   ]
+  },
+  "page": {
+   "seconds": 0.1,
+   "says": [
+    "page /home/runner/work/test/test/out/ma04/page theme ma stickers boy girl man woman"
+   ]
+  },
+  "sound": {
+   "seconds": 3.8,
+   "says": [
+    "duration 1:30.20 (2706 frames) | 13 shots, 44 beats | -14.0 LUFS, peak 0.653",
+    "quiz 30.7 | hard word 44.8333 | end card 79.9333 | word parts (s): {'T': [0.78, 0.55, 0.77], 'A': [0.71, 0.55, 0.65], 'L': [0.75, 0.59, 0.69]}"
+   ]
+  },
+  "picture": {
+   "seconds": 118.3,
+   "pieces": 6,
+   "at_once": 4,
+   "frames_per_second": 22.9
+  }
+ },
+ "voice_lines": {
+  "own": {
+   "folder": "darija/voice/ma04",
+   "lines": 14,
+   "characters": 235
+  },
+  "kids": {
+   "folder": "darija/voice/kids04",
+   "lines": 13,
+   "characters": 145
+  },
+  "common": {
+   "folder": "darija/voice/macommon",
+   "lines": 7,
+   "characters": 168
+  },
+  "kidscommon": {
+   "folder": "darija/voice/kidscommon",
+   "lines": 2,
+   "characters": 22
+  }
+ },
+ "frames": 2706,
+ "duration": 90.2,
+ "sha256": {
+  "page/script.js": "235a86d6e0b85b37c271eac75ca3425d41bc5d8278c4c23ec5425fca880e4441",
+  "page/tl.js": "e2f5689e0e7e42d91d50161d10f230b3bb52042333170d92adf0e67938fa7f36",
+  "final.wav": "cea9e265ade02fabca343c8f28427e266d092089e840448d027bae94592395cc"
+ },
+ "seconds": 122.2
+}
