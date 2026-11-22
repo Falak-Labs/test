@@ -1,4 +1,4 @@
-# Post status 2026-11-22T11:23:59+00:00
+# Post status 2026-11-22T11:27:25+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -353,6 +353,7 @@
 | ep62-tent | en.instagram | scheduled |  | 2026-11-23T00:00:00.000Z |
 | ep62-tent | en.tiktok | scheduled |  | 2026-11-23T00:00:00.000Z |
 | ep63-washer | ar.instagram | scheduled |  | 2026-11-22T23:00:00.000Z |
+| ep63-washer | ar.tiktok | scheduled |  | 2026-11-22T23:00:00.000Z |
 | ep63-washer | en.instagram | scheduled |  | 2026-11-23T02:30:00.000Z |
 | ep63-washer | en.tiktok | scheduled |  | 2026-11-23T02:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
