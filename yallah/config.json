@@ -42,7 +42,12 @@
      "yallah.say"
     ]
    },
-   "long_slot": "17:00"
+   "long_slot": "17:00",
+   "routes": {
+    "instagram": "buffer",
+    "tiktok": "buffer",
+    "youtube": "studio"
+   }
   },
   "pa": {
    "secret": "BUFFER_KEY_PA",
@@ -70,7 +75,15 @@
      "yallasaypa"
     ]
    },
-   "long_slot": "17:00"
+   "long_slot": "17:00",
+   "routes": {
+    "instagram": "buffer",
+    "tiktok": "buffer",
+    "youtube": "buffer"
+   },
+   "buffer_limits": {
+    "youtube": 2
+   }
   }
  },
  "youtube": {

@@ -100,7 +100,9 @@ def items(all_of_them=False):
             at = dt.datetime.fromisoformat(d["at"])
             if at.tzinfo is None:
                 raise SystemExit(f"{ep['slug']} {lang}: 'at' needs a UTC offset, like 2026-11-21T13:00:00+01:00")
-            for platform in d.get("platforms") or PLATFORMS:
+            if ep.get("kind") == "long":
+                continue        # a long lesson goes up through YouTube Studio, never through Buffer
+            for platform in (d["platforms"] if "platforms" in d else PLATFORMS):      # an empty list means nothing through Buffer
                 tgt = f"{lang}.{platform}"
                 done = st["targets"].get(tgt, {})
                 if done.get("id") or done.get("tries", 0) >= 3:
