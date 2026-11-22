@@ -1,0 +1,189 @@
+{
+ "title": "Hi, how are you?",
+ "word": {
+  "full": "Congratulations",
+  "parts": [
+   "Con",
+   "grat",
+   "u",
+   "la",
+   "tions"
+  ],
+  "say": [
+   "kon",
+   "grat",
+   "yoo",
+   "LAY",
+   "shunz"
+  ],
+  "tts": [
+   "Con",
+   "Grat",
+   "You",
+   "Lay",
+   "Shuns"
+  ],
+  "mean": "مبروك!",
+  "ar": {
+   "ma": "كونڭراتشوليشنز",
+   "pa": "كونغراتشوليشنز"
+  }
+ },
+ "en": [
+  [
+   "Hi, how are you?",
+   "A",
+   "wave",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "I'm fine, thank you.",
+   "L",
+   "smile",
+   {}
+  ],
+  [
+   "What's your name?",
+   "A",
+   "name_q",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "My name is Lina.",
+   "L",
+   "name_lina",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Salam! Wach kat3ref tgoul «mabrouk» b-l-inglizia?",
+    "سلام! واش كتعرف تقول «مبروك» بالإنجليزية؟",
+    "Do you know how to say “mabrouk” in English?"
+   ],
+   [
+    "L-jawab f-l-akher. Yallah!",
+    "الجواب فالآخر. يالله!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "مبروك",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Salam, labas?",
+    "سلام، لاباس؟"
+   ],
+   [
+    "Labas, lhamdu lillah.",
+    "لاباس، الحمد لله."
+   ],
+   [
+    "Chno smitek?",
+    "شنو سميتك؟"
+   ],
+   [
+    "Smiti Lina.",
+    "سميتي لينا."
+   ],
+   [
+    "Ana mn l-Maghrib.",
+    "أنا من المغرب."
+   ]
+  ],
+  "ph5": [
+   "I'm from Morocco.",
+   "A",
+   "morocco",
+   {}
+  ],
+  "sent": {
+   "en": "Congratulations! Morocco won the match!",
+   "hot": [
+    0
+   ],
+   "dz": "Mabrouk! L-Maghrib rbeh l-match!",
+   "ar": "مبروك! المغرب ربح الماتش!"
+  },
+  "ah": [
+   "كون",
+   "ڭرات",
+   "يو",
+   "لي",
+   "شنز"
+  ],
+  "o1": "عجبك الدرس؟ كتب الكلمة فالتعليقات، وتابعنا!",
+  "sub": "باش تتعلم كل نهار"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Marhaba! Bti3raf kif tihki «mabrouk» bil-inglizi?",
+    "مرحبا! بتعرف كيف تحكي «مبروك» بالإنجليزي؟",
+    "Do you know how to say “mabrouk” in English?"
+   ],
+   [
+    "El-jawab bil-akher. Yalla!",
+    "الجواب بالآخر. يلا!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "مبروك",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Marhaba, kifak?",
+    "مرحبا، كيفك؟"
+   ],
+   [
+    "Mnih, el-hamdu lillah.",
+    "منيح، الحمد لله."
+   ],
+   [
+    "Shu ismak?",
+    "شو اسمك؟"
+   ],
+   [
+    "Ismi Lina.",
+    "اسمي لينا."
+   ],
+   [
+    "Ana min Falastin.",
+    "أنا من فلسطين."
+   ]
+  ],
+  "ph5": [
+   "I'm from Palestine.",
+   "A",
+   "palestine",
+   {}
+  ],
+  "sent": {
+   "en": "Congratulations! You passed the Tawjihi!",
+   "hot": [
+    0
+   ],
+   "dz": "Mabrouk! Njehet bit-Tawjihi!",
+   "ar": "مبروك! نجحت بالتوجيهي!",
+   "alt": "Congratulations! You passed the Taw-jee-hee!"
+  },
+  "ah": [
+   "كون",
+   "غرات",
+   "يو",
+   "لي",
+   "شنز"
+  ],
+  "o1": "عجبك الدرس؟ اكتب الكلمة بالتعليقات، وتابعنا!",
+  "sub": "عشان تتعلم كل يوم"
+ }
+}

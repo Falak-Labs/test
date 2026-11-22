@@ -1,32 +1,11 @@
 """Yallah Say, lesson script (v2 format, 75-95 s): hook, five phrases with time to think, quiz, hard word in a sentence, end.
-One episode in every dialect.   usage: python3 gen2.py <episode> <locale> <page_dir> <lines.txt>
+One lesson in every dialect.   usage: python3 gen2.py <lesson> <locale> <page_dir> <lines.txt>
+The lesson is yallah/lessons/<lesson>.json (YS_LESSONS points somewhere else): the hard word, the four English phrases
+both dialects share, and for each dialect the hook, the five phrases, the fifth English phrase and the home sentence.
 Writes <page_dir>/script.js (what the page draws) and the voice lines file (SPEAKER | id | text)."""
-import json, sys
+import json, os, sys
 
-EPISODES = {
-    "01": {
-        "word": {"full": "Congratulations", "parts": ["Con", "grat", "u", "la", "tions"], "say": ["kon", "grat", "yoo", "LAY", "shunz"], "tts": ["Con", "Grat", "You", "Lay", "Shuns"]},
-        "en": [("Hi, how are you?", "A", "wave", {"q": 1}), ("I'm fine, thank you.", "L", "smile", {}), ("What's your name?", "A", "name_q", {"q": 1}), ("My name is Lina.", "L", "name_lina", {})],
-        "ma": {
-            "hook": [("Salam! Wach kat3ref tgoul «mabrouk» b-l-inglizia?", "سلام! واش كتعرف تقول «مبروك» بالإنجليزية؟", "Do you know how to say “mabrouk” in English?"),
-                     ("L-jawab f-l-akher. Yallah!", "الجواب فالآخر. يالله!", "The answer is at the end. Let's go!")],
-            "board": ["مبروك", "= ? ? ?"],
-            "ph": [("Salam, labas?", "سلام، لاباس؟"), ("Labas, lhamdu lillah.", "لاباس، الحمد لله."), ("Chno smitek?", "شنو سميتك؟"), ("Smiti Lina.", "سميتي لينا."), ("Ana mn l-Maghrib.", "أنا من المغرب.")],
-            "ph5": ("I'm from Morocco.", "A", "morocco", {}),
-            "sent": {"en": "Congratulations! Morocco won the match!", "hot": [0], "dz": "Mabrouk! L-Maghrib rbeh l-match!", "ar": "مبروك! المغرب ربح الماتش!"},
-            "ah": ["كون", "ڭرات", "يو", "لي", "شنز"],
-        },
-        "pa": {
-            "hook": [("Marhaba! Bti3raf kif tihki «mabrouk» bil-inglizi?", "مرحبا! بتعرف كيف تحكي «مبروك» بالإنجليزي؟", "Do you know how to say “mabrouk” in English?"),
-                     ("El-jawab bil-akher. Yalla!", "الجواب بالآخر. يلا!", "The answer is at the end. Let's go!")],
-            "board": ["مبروك", "= ? ? ?"],
-            "ph": [("Marhaba, kifak?", "مرحبا، كيفك؟"), ("Mnih, el-hamdu lillah.", "منيح، الحمد لله."), ("Shu ismak?", "شو اسمك؟"), ("Ismi Lina.", "اسمي لينا."), ("Ana min Falastin.", "أنا من فلسطين.")],
-            "ph5": ("I'm from Palestine.", "A", "palestine", {}),
-            "sent": {"en": "Congratulations! You passed the Tawjihi!", "hot": [0], "dz": "Mabrouk! Njehet bit-Tawjihi!", "ar": "مبروك! نجحت بالتوجيهي!", "alt": "Congratulations! You passed the Taw-jee-hee!"},
-            "ah": ["كون", "غرات", "يو", "لي", "شنز"],
-        },
-    },
-}
+LESSONS = os.environ.get("YS_LESSONS") or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "lessons")
 # what never changes from one episode to the next, in each dialect
 LOCALES = {
     "ma": {
@@ -37,7 +16,7 @@ LOCALES = {
         "w0": ("Wdaba, lkelma s3iba dyal lyoum!", "ودابا، الكلمة الصعيبة ديال اليوم!", "And now, today's hard word!"),
         "w2": ("Chwiya b-chwiya.", "شوية بشوية.", "Little by little."), "w3": ("Daba b-zzerba!", "دابا بالزربة!", "Now faster!"),
         "w4": ("Daba kamla!", "دابا كاملة!", "Now the whole word!"), "v0": ("Wdaba f-jumla!", "ودابا فجملة!", "And now in a sentence!"),
-        "o1": "عجبك الدرس؟ كتب الكلمة فالتعليقات، وتابعنا!",
+        "o1": "عجبك الدرس؟ كتب الكلمة فالتعليقات! وباش تشوف فيديوهات كثر، تابعنا هنا وفاليوتيوب!",
     },
     "pa": {
         "L": {"lang": "Palestinian", "TAB": "PALESTINIAN", "think": "شو يعني بالإنجليزي؟", "quizAr": "تعالوا نعيد!", "quizSub": "Ta3alu n3id!  ·  Quick quiz", "hardAr": "كلمة اليوم الصعبة", "turnAr": "دورك! احكيها بصوت عالي",
@@ -47,17 +26,20 @@ LOCALES = {
         "w0": ("Hassa, kilmet el-yom es-sa3beh!", "هسا، كلمة اليوم الصعبة!", "And now, today's hard word!"),
         "w2": ("Shwayy shwayy.", "شوي شوي.", "Little by little."), "w3": ("Hassa b-sur3a!", "هسا بسرعة!", "Now faster!"),
         "w4": ("Hassa el-kilmeh kamleh!", "هسا الكلمة كاملة!", "Now the whole word!"), "v0": ("W-hassa b-jumleh!", "وهسا بجملة!", "And now in a sentence!"),
-        "o1": "عجبك الدرس؟ اكتب الكلمة بالتعليقات، وتابعنا!",
+        "o1": "عجبك الدرس؟ اكتب الكلمة بالتعليقات! ولفيديوهات أكثر، تابعنا هون وعلى اليوتيوب!",
         "tts": {"مبروك": "مَبْروك"},      # vowel marks where this voice was heard wrong (the page shows the plain spelling)
     },
 }
-MEAN = {"Congratulations": ("مبروك!", {"ma": "كونڭراتشوليشنز", "pa": "كونغراتشوليشنز"})}
 
 ep, loc, page, lines_path = sys.argv[1:5]
-EP, LC, X = EPISODES[ep], LOCALES[loc], EPISODES[ep][loc]
-WORD = dict(EP["word"], ah=X["ah"], sent={k: X["sent"][k] for k in ("en", "hot", "dz", "ar")})
-mean, tr = MEAN[WORD["full"]]
+EP = json.load(open(os.path.join(LESSONS, ep + ".json"), encoding="utf-8"))
+LC, X = LOCALES[loc], EP[loc]
+WORD = dict({k: EP["word"][k] for k in ("full", "parts", "say", "tts")}, ah=X["ah"], sent={k: X["sent"][k] for k in ("en", "hot", "dz", "ar")})
+mean, tr = EP["word"]["mean"], EP["word"]["ar"]          # what the word means, and how it sounds in Arabic letters
 L = dict(LC["L"], meanAr="المعنى: " + mean, endEq=tr[loc] + " = " + mean.rstrip("!"))
+if X.get("sub"):
+    L["sub"] = X["sub"]
+O1 = X.get("o1") or LC["o1"]
 PH = [(dz, ar, en, who, icon, fl) for (dz, ar), (en, who, icon, fl) in zip(X["ph"], EP["en"] + [X["ph5"]])]
 assert len(PH) == 5
 B, LINES = [], []
@@ -109,7 +91,7 @@ if S.get("alt"):
 add(id="v2", sp="T", shot="H", dz=S["dz"], ar=S["ar"], pre=0.45); line("T", "v2", S["ar"])
 add(id="v3", shot="H", sil=2.1, en=S["en"], hot=S["hot"], fx="ticks", pre=0.3)
 add(id="v4", clip="w5", cho="Lw", sp="AL", shot="H", en=WORD["full"] + "!", fx="tada0", pre=0.25, post=0.8); line("L", "Lw", WORD["full"] + "!")
-add(id="o1", sp="T", shot="C", ar=LC["o1"], pre=0.5, fx="whoosh"); line("T", "o1", LC["o1"])
+add(id="o1", sp="T", shot="C", ar=O1, pre=0.5, fx="whoosh"); line("T", "o1", O1)
 add(id="o2", sp="L", shot="C", en="See you next time!", pre=0.4); line("L", "o2", "See you next time!")
 add(id="o3", sp="A", shot="C", en="Bye!", pre=0.25, post=1.1); line("A", "o3", "Bye!")
 for sp in "TAL":                 # the five parts of the word, one take each, and one spare take with all five
