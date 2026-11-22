@@ -17,6 +17,24 @@
    "dueAt": "2026-11-22T02:03:09.000Z",
    "planned": "2026-11-22T02:01:18+00:00",
    "created": "2026-11-22T01:55:28+00:00"
+  },
+  "pa.instagram": {
+   "id": "6b02582dc72676f5e9fa9361",
+   "channel": "6b0255998541f09ecb5cf287",
+   "service": "instagram",
+   "status": "scheduled",
+   "dueAt": "2026-11-22T02:55:59.000Z",
+   "planned": "2026-11-22T02:50:00+00:00",
+   "created": "2026-11-22T02:49:16+00:00"
+  },
+  "pa.tiktok": {
+   "id": "6b02582e846b0ee907556b76",
+   "channel": "6b0256a78541f09ecb5cf94e",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-22T02:55:17.000Z",
+   "planned": "2026-11-22T02:50:00+00:00",
+   "created": "2026-11-22T02:49:16+00:00"
   }
  }
 }
