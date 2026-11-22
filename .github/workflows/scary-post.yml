@@ -1,5 +1,7 @@
 name: Scary posts
-# Hands each queued scary-stories video (The Dark Told Me, English and Arabic) to Buffer a few minutes before its time.
+# Hands each queued scary-stories video (The Dark Told Me, English and Arabic) to Buffer ahead of its time (up to
+# lead_minutes in scary/config.json); Buffer publishes it at its time. The timer below runs late or not at all in this
+# repo, so during the launch the workflow "Scary clock" starts this one every two hours as well.
 # The schedule lives in scary/queue/. It is the Yallah Say script (yallah/post_due.py) pointed at the scary/ folder.
 # Buffer keys: the owner's Actions secrets SCARY (English account) and SCARYAR (Arabic account). Nothing is sent while
 # "enabled" is false in scary/config.json. What happened is saved in scary/state/ (names and links only, never a key).

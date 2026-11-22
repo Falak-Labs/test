@@ -1,0 +1,57 @@
+name: Scary clock
+# Keeps "Scary posts" running during the launch. GitHub's own timer (the schedule in scary-post.yml) runs hours late or
+# not at all in this repo, so this run waits, starts "Scary posts", and starts itself again, until the time in
+# scary/config.json (clock.until). Start it once by hand. To stop it, cancel its run or set clock.until to the past.
+on:
+  workflow_dispatch:
+    inputs:
+      wait_minutes:
+        description: "Minutes to wait this one time (empty = clock.every_minutes in scary/config.json)"
+        default: ""
+permissions:
+  actions: write
+  contents: read
+concurrency:
+  group: scary-clock
+  cancel-in-progress: false
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+          sparse-checkout: |
+            scary/config.json
+          sparse-checkout-cone-mode: false
+      - name: How long to wait, and is the clock still wanted?
+        id: plan
+        env:
+          ONCE: ${{ inputs.wait_minutes }}
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import datetime as dt, json, os
+          cfg = json.load(open("scary/config.json", encoding="utf-8"))
+          clock = cfg.get("clock", {})
+          until = dt.datetime.fromisoformat(clock.get("until", "2000-01-01T00:00:00+00:00"))
+          once = os.environ.get("ONCE", "").strip()
+          minutes = int(once) if once.isdigit() else int(clock.get("every_minutes", 120))
+          minutes = max(1, min(180, minutes))
+          go = bool(cfg.get("enabled")) and dt.datetime.now(dt.timezone.utc) < until
+          print(f"go={'true' if go else 'false'}")
+          print(f"minutes={minutes}")
+          EOF
+          cat "$GITHUB_OUTPUT"
+      - name: Wait
+        if: steps.plan.outputs.go == 'true'
+        run: sleep "$(( ${{ steps.plan.outputs.minutes }} * 60 ))"
+      - name: Start the posting run, then this clock again
+        if: steps.plan.outputs.go == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api -X POST "repos/$GITHUB_REPOSITORY/actions/workflows/scary-post.yml/dispatches" -f ref=main
+          gh api -X POST "repos/$GITHUB_REPOSITORY/actions/workflows/scary-clock.yml/dispatches" -f ref=main
+          echo "started Scary posts and the next clock run"
