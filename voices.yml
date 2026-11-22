@@ -15,4 +15,4 @@ ar: {engine: eleven, voice: 5HAezIQAaoSgJypcI0NP, model: eleven_multilingual_v2,
 # A/B test from Nov 17 22:15 PT (owner picked Gulf voice 1, Mansour): the Arabic of every ODD-numbered build from 41 on
 # uses this voice with a Saudi-dialect script; even builds keep the Egyptian voice above. A run adds the kit name of
 # each odd build to `kits` when it picks it. Compare views per voice on Dec 1 (Instagram + TikTok Arabic).
-ar_alt: {engine: eleven, voice: 5HAezIQAaoSgJypcI0NP, model: eleven_multilingual_v2, dialect: saudi, kits: [barrier, greatwall, machupicchu, igloo, hagiasophia, burjalarab, fridge, suez, operahouse, liberty, pisa, washer, shibam]}
+ar_alt: {engine: eleven, voice: 5HAezIQAaoSgJypcI0NP, model: eleven_multilingual_v2, dialect: saudi, kits: [barrier, greatwall, machupicchu, igloo, hagiasophia, burjalarab, fridge, suez, operahouse, liberty, pisa, washer]}
