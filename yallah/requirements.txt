@@ -1,0 +1,7 @@
+# What yallah/make.py needs, at the versions the first episodes were made with.
+numpy==2.5.3
+scipy==1.18.1
+soundfile==0.14.0
+pyloudnorm==0.2.0
+pillow==12.3.0
+playwright==1.63.0

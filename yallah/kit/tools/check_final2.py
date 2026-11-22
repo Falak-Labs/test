@@ -2,7 +2,7 @@
 shows it, transcribe it with Whisper and compare with the script.   usage: check_final.py <final.mp4> <page_dir>"""
 import difflib, json, re, subprocess, sys, time
 import numpy as np, sherpa_onnx
-MP4, PAGE, M = sys.argv[1], sys.argv[2], '/home/claude/models/sherpa-onnx-whisper-turbo'
+MP4, PAGE, M = sys.argv[1], sys.argv[2], __import__('os').environ.get('YS_WHISPER', '/home/claude/models/sherpa-onnx-whisper-turbo')
 def js(name, var):
     return json.loads(open(f'{PAGE}/{name}', encoding='utf-8').read().split('=', 1)[1].rstrip().rstrip(';'))
 S, T = js('script.js', 'SCRIPT'), js('tl.js', 'TL')

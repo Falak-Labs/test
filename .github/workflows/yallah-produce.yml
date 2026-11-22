@@ -1,0 +1,119 @@
+name: Yallah Say production
+# Makes Yallah Say Shorts on this runner from what is in the repo: the lesson script (yallah/kit/tools/gen2.py), the
+# recorded voices (darija/voice/<dialect><lesson>/) and the drawing page (yallah/kit/page/). yallah/make.py does one
+# Short from start to finish and checks it. Spends nothing and needs no key. One parallel runner per dialect.
+#   dest=lab    a test copy, with its report and a sheet of frames, on the yallah-lab branch under produce/
+#   dest=media  the video goes to the yallah-media branch, where the posting links point (only if every check passed)
+on:
+  workflow_dispatch:
+    inputs:
+      lesson:
+        description: "lesson number, as yallah/kit/tools/gen2.py knows it"
+        required: true
+        default: "01"
+      dialects:
+        description: "ma, pa or ma,pa"
+        default: "ma,pa"
+      dest:
+        description: "lab (test copy) or media (publish for posting)"
+        default: "lab"
+permissions:
+  contents: write
+concurrency:
+  group: yallah-produce-${{ inputs.lesson }}-${{ inputs.dest }}
+  cancel-in-progress: false
+jobs:
+  make:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        dialect: [ma, pa]
+    env:
+      LESSON: ${{ inputs.lesson }}
+      DIALECTS: ${{ inputs.dialects }}
+      DEST: ${{ inputs.dest }}
+      DIALECT: ${{ matrix.dialect }}
+    steps:
+      - name: Is this dialect asked for?
+        id: g
+        run: |
+          set -euo pipefail
+          case "$LESSON" in ""|*[!A-Za-z0-9_-]*) echo "bad lesson name"; exit 1;; esac
+          case "$DEST" in lab|media) ;; *) echo "dest must be lab or media"; exit 1;; esac
+          case ",${DIALECTS// /}," in *",${DIALECT},"*) echo "go=true" >> "$GITHUB_OUTPUT";; *) echo "go=false" >> "$GITHUB_OUTPUT";; esac
+      - uses: actions/checkout@v4
+        if: steps.g.outputs.go == 'true'
+        with:
+          sparse-checkout: |
+            yallah
+            darija
+      - uses: actions/setup-python@v5
+        if: steps.g.outputs.go == 'true'
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: yallah/requirements.txt
+      - uses: actions/cache@v4
+        if: steps.g.outputs.go == 'true'
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ hashFiles('yallah/requirements.txt') }}
+      - name: Tools and fonts
+        if: steps.g.outputs.go == 'true'
+        run: |
+          set -euo pipefail
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends ffmpeg fontconfig
+          pip install --quiet -r yallah/requirements.txt
+          python -m playwright install --with-deps chromium
+          mkdir -p ~/.fonts && cp yallah/kit/fonts/*.ttf ~/.fonts/ && fc-cache -f
+          fc-list | grep -i noto | sort
+          ffmpeg -version | head -1
+          echo "CPUs: $(nproc)"
+      - name: Make the Short
+        if: steps.g.outputs.go == 'true'
+        run: python -u yallah/make.py "$LESSON" "$DIALECT" "out/${DIALECT}${LESSON}"
+      - name: Keep only what is needed afterwards
+        if: always() && steps.g.outputs.go == 'true'
+        run: rm -rf out/*/vid out/*/fr out/*/*.wav out/*/list.txt out/*/*.tmp.mp4 out/*/*.part.mp4
+      - uses: actions/upload-artifact@v4
+        if: always() && steps.g.outputs.go == 'true'
+        with:
+          name: yallah-${{ inputs.lesson }}-${{ matrix.dialect }}
+          path: out/
+          retention-days: 3
+          if-no-files-found: ignore
+  save:
+    needs: make
+    if: always()
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      LESSON: ${{ inputs.lesson }}
+      DEST: ${{ inputs.dest }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            yallah
+            scripts
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: yallah-${{ inputs.lesson }}-*
+          path: got
+          merge-multiple: true
+      - name: Save the videos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash yallah/save_videos.sh "$DEST"
+      - name: Record what was published
+        if: inputs.dest == 'media'
+        run: |
+          set -euo pipefail
+          for d in got/*/; do
+            s="$(basename "$d")"; mkdir -p "yallah/episodes/$s"
+            for f in "$d/report.json" "$d/page/script.js" "$d/page/tl.js"; do [ -e "$f" ] && cp "$f" "yallah/episodes/$s/"; done
+          done
+          bash scripts/save_state.sh "yallah produce ${LESSON} $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" yallah/episodes

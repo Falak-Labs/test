@@ -1,8 +1,11 @@
-"""Make the page folder of one episode in one dialect from the kit.   usage: python3 mkpage.py <ma|pa> <page_dir>"""
+"""Make the page folder of one episode in one dialect from the kit.   usage: python3 mkpage.py <ma|pa> <page_dir>
+The kit is ../page and the logos are ../brand, next to this file (YS_KIT and YS_BRAND point somewhere else)."""
 import os, shutil, sys
 from PIL import Image
 
-KIT = '/home/claude/video/kit2'
+HERE = os.path.dirname(os.path.abspath(__file__))
+KIT = os.environ.get('YS_KIT') or os.path.join(HERE, '..', 'page')
+BRAND = os.environ.get('YS_BRAND') or os.path.join(HERE, '..', 'brand')
 theme, page = sys.argv[1:3]
 os.makedirs(page, exist_ok=True)
 for f in ('main.js', 'art2.js', 'art3.js'):
@@ -16,5 +19,5 @@ if theme == 'pa':      # the Palestinian teacher: green dress with red embroider
 open(f'{page}/chars.js', 'w', encoding='utf-8').write(c)
 html = open(f'{KIT}/index.html', encoding='utf-8').read().replace('__BG__', {'ma': '#1B3A9C', 'pa': '#0E6A38'}[theme])
 open(f'{page}/index.html', 'w', encoding='utf-8').write(html)
-Image.open(f'/home/claude/brand/out/yallahsay-{theme}.png').convert('RGB').resize((288, 288), Image.LANCZOS).save(f'{page}/logo.png')
+Image.open(f'{BRAND}/yallahsay-{theme}.png').convert('RGB').resize((288, 288), Image.LANCZOS).save(f'{page}/logo.png')
 print('page', page, 'theme', theme)
