@@ -1,0 +1,13 @@
+shibam: 69.57s, 2087 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/shibam/cover.png: ['SHIBAM'] (frame 0 of the video)
+video done in 449s
+audio done
+final out/shibam/shibam_final.mp4
+QA  duration 69.57s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2087
+QA sheet out/shibam/qa_sheet.png

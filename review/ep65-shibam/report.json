@@ -1,0 +1,137 @@
+{
+ "slug": "ep65-shibam",
+ "kit": "shibam",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.57,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "14/231",
+   "mix_lines_off": [
+    "L 1 1 diff  | If you can raise a whole city of skyscrapers out of desert mud, centuries before New York, congrats, you just built Shibaam.",
+    "L 2 3 diff  | But she bomb sits in a desert valley and when the rain finally comes, a flash flood wars through.",
+    "L 5 4 diff  | So you build up about 500 towerhouses, 5 to 11 floors each, packed wall to wall.",
+    "L11 1 diff  | Now the story, the bottom floors have no windows. They hold grain and goats and the family lets high up, safe from raiders.",
+    "L12 3 diff  | 500 towers, up to 11 floors, and some over 30 meters of mud.",
+    "L13 2 diff  | And congrats, you just built she bomb yourself."
+   ],
+   "size_mb": 18.6,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو بنيت مدينة كاملة ناطحات سحاب من طين الصحرا، قبل نيويورك بقرون، مبروك، كذا سويت لك شبام.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس شبام في وادي وسط الصحرا، وإذا جا المطر، ينزل سيل يكتسح الوادي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتبنيها على تلة مرتفعة وسط الوادي، وتحاوطها بسور، والسيل يمشي من حولها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس التلة صغيرة، والبلد كلها لازم تنحشر فوقها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتبني لفوق: قرابة خمسمية بيت برج، من خمس لإحدعش دور، لازقة في بعض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الطين ثقيل، وإذا رصّيته لهالطول، الجدران اللي تحت تنسحق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتخلي الجدار عريض تحت، ويرق مع كل دور، والبرج يضيق وهو طالع.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس هذا طين، والطين يذوب مع المطر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتصبغ الأدوار اللي فوق بالنورة البيضا، وبعد كل مطرة، يلبّسون الجدران طين جديد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تطلع فوق، تابعني، لأن الجاي بنبني جسر البرج في لندن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: الأدوار اللي تحت بدون شبابيك، فيها الحب والغنم، والعيلة فوق، بعيد عن الغزاة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "خمسمية برج، لين إحدعش دور، وبعضها فوق الثلاثين متر من الطين.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك شبام بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "خمسمية سنة والمطر ما هزّها، ومجلسكم الجديد أول مطرة، خرّ السقف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 71.97,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.8,
+   "cover": true
+  }
+ }
+}
