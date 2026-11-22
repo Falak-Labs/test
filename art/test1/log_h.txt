@@ -1,4 +1,13 @@
-horde models (workers, queued, eta s): Deliberate (8, 0.0, 0); stable_diffusion (8, 0.0, 0); Z-Image-Turbo (8, 262696960.0, 69); ICBINP - I Can't Believe It's Not Photography (7, 6635520.0, 6); WAI-NSFW-illustrious-SDXL (7, 1820983296.0, 144); Juggernaut XL (5, 640614400.0, 92); AbsoluteReality (4, 165150720.0, 95); AlbedoBase XL (SDXL) (4, 1319174144.0, 338); CyberRealistic Pony (4, 213475328.0, 69); Flux.1-Schnell fp8 (Compact) (4, 325976064.0, 175); Nova Anime XL (4, 366346240.0, 84); WAI-ANI-NSFW-PONYXL (4, 6553600.0, 8); AlbedoBase XL 3.1 (3, 603709440.0, 210); AMPonyXL (3, 0.0, 0); Animagine XL (3, 0.0, 0); Anything Diffusion (3, 0.0, 0); Counterfeit (3, 0.0, 0); Deliberate 3.0 (3, 6029312.0, 11); Dreamshaper (3, 0.0, 0); Flat-2D Animerge (3, 0.0, 0); Hassaku XL (3, 29360128.0, 12); Hentai Diffusion (3, 0.0, 0); majicMIX realistic (3, 0.0, 0); Moss-Image-Base (3, 0.0, 0); MOSS-Image-SFT (3, 99090432.0, 47)
-horde_tajine: horde job 12fe4cbb-0c92-4f8f-a050-67a5c64521e8 on Flux.1-Schnell fp8 (Compact)
-    queue 467 wait 1118 s processing 0
-    queue 428 wait 1048 s processing 0
+horde models (workers, queued, eta s): stable_diffusion (9, 0.0, 0); Deliberate (8, 28835840.0, 7); ICBINP - I Can't Believe It's Not Photography (6, 7884800.0, 7); WAI-NSFW-illustrious-SDXL (6, 1821933568.0, 187); AbsoluteReality (5, 0.0, 0); Anything Diffusion (4, 0.0, 0); Counterfeit (4, 0.0, 0); Dreamshaper (4, 28835840.0, 6); Flat-2D Animerge (4, 0.0, 0); Flux.1-Schnell fp8 (Compact) (4, 277577728.0, 147); Hentai Diffusion (4, 0.0, 0); Juggernaut XL (4, 213499904.0, 38); majicMIX realistic (4, 0.0, 0); URPM (4, 0.0, 0); Abyss OrangeMix (3, 0.0, 0); AIO Pixel Art (3, 0.0, 0); AlbedoBase XL (SDXL) (3, 1155514368.0, 387); Analog Madness (3, 0.0, 0); Anything v5 (3, 0.0, 0); BB95 Furry Mix v14 (3, 0.0, 0); Comic-Diffusion (3, 33177600.0, 35); Deliberate 3.0 (3, 0.0, 0); Deliberate Inpainting (3, 0.0, 0); Edge Of Realism (3, 0.0, 0); Grapefruit Hentai (3, 0.0, 0)
+horde_tajine: horde job 237bed40-4ccd-4bb7-90f0-c0cd4eb37c18 on Flux.1-Schnell fp8 (Compact)
+    queue 481 wait 785 s processing 0
+    queue 441 wait 744 s processing 0
+    queue 388 wait 698 s processing 0
+    queue 350 wait 652 s processing 0
+    queue 318 wait 595 s processing 0
+    queue 280 wait 530 s processing 0
+    queue 247 wait 454 s processing 0
+    queue 221 wait 318 s processing 0
+    queue 183 wait 282 s processing 0
+horde_tajine: horde FAILED in 491 s {"done": false, "faulted": false, "is_possible": true, "queue_position": 183, "wait_time": 282}
+done: 0 ok, 1 failed ['horde_tajine']

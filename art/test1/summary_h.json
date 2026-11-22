@@ -1,0 +1,12 @@
+[
+ {
+  "name": "horde_tajine",
+  "route": "horde",
+  "model": "Flux.1-Schnell fp8 (Compact)",
+  "w": 1024,
+  "h": 1024,
+  "ok": false,
+  "note": "{\"done\": false, \"faulted\": false, \"is_possible\": true, \"queue_position\": 183, \"wait_time\": 282}",
+  "seconds": 490.8
+ }
+]

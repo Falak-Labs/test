@@ -1,2 +1,138 @@
-/home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libstable-diffusion.so)
-/home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libggml-base.so.1)
+[V] version: stable-diffusion.cpp version master-1106-532d2c1, commit 532d2c1 --- main.cpp:760
+[V] System Info: 
+   SSE3 = 1 |    SSSE3 = 1 |    AVX = 1 |    AVX_VNNI = 1 |    AVX2 = 1 |    F16C = 1 |    FMA = 1 |    BMI2 = 1 |    AVX512 = 1 |    AVX512_VBMI = 1 |    AVX512_VNNI = 1 |    AVX512_BF16 = 1 |    AMX_INT8 = 1 |    OPENMP = 1 |    REPACK = 1 |  --- main.cpp:761
+[V] using 4 threads for model loading --- model_loader.cpp:194
+[I] loading diffusion model from '/home/runner/work/_temp/art/klein4b_diffusion.gguf' --- diffusion_engine.cpp:697
+[I] load /home/runner/work/_temp/art/klein4b_diffusion.gguf using gguf format --- model_loader.cpp:220
+[V] init from '/home/runner/work/_temp/art/klein4b_diffusion.gguf' --- model_loader.cpp:266
+[V] GGUF v3, tensor_count=149, metadata_kv_count=0 --- gguf_reader_ext.h:224
+[I] loading llm from '/home/runner/work/_temp/art/klein4b_llm.gguf' --- diffusion_engine.cpp:754
+[I] load /home/runner/work/_temp/art/klein4b_llm.gguf using gguf format --- model_loader.cpp:220
+[V] init from '/home/runner/work/_temp/art/klein4b_llm.gguf' --- model_loader.cpp:266
+[V] GGUF v3, tensor_count=398, metadata_kv_count=32 --- gguf_reader_ext.h:224
+[I] loading vae from '/home/runner/work/_temp/art/klein4b_vae.safetensors' --- diffusion_engine.cpp:768
+[I] load /home/runner/work/_temp/art/klein4b_vae.safetensors using safetensors format --- model_loader.cpp:226
+[V] init from '/home/runner/work/_temp/art/klein4b_vae.safetensors', prefix = 'vae.' --- model_loader.cpp:294
+[I] Version: Flux.2 klein  --- diffusion_engine.cpp:982
+[W] auto-fit: no GPU devices; using the default backend --- backend_fit.cpp:456
+[V] Found 1 backend devices: --- ggml_extend_backend.cpp:719
+[V] #0: CPU --- ggml_extend_backend.cpp:722
+[V] Initializing backend: CPU --- ggml_extend_backend.cpp:421
+[V] Using CPU backend --- ggml_extend_backend.cpp:764
+[V] using 4 threads for model loading --- model_loader.cpp:194
+[I] Weight type stat:                      f32: 395  |    q8_0: 80   |    q4_K: 216  |    q6_K: 37   |     i32: 1    |    bf16: 69    --- diffusion_engine.cpp:1560
+[I] Conditioner weight type stat:          f32: 145  |    q4_K: 216  |    q6_K: 37    --- diffusion_engine.cpp:1561
+[I] Diffusion model weight type stat:     q8_0: 80   |    bf16: 69    --- diffusion_engine.cpp:1562
+[I] VAE weight type stat:                  f32: 250  |     i32: 1     --- diffusion_engine.cpp:1563
+[V] llm: num_layers = 36, vocab_size = 151936, hidden_size = 2560, intermediate_size = 9728 --- llm.hpp:460
+[V] flux: depth = 5, depth_single_blocks = 20, guidance_embed = false, context_in_dim = 7680, hidden_size = 3072, num_heads = 24 --- flux.hpp:186
+[I] using VAE for encoding / decoding --- model_builders.cpp:226
+[I] vae decoder: ch = 128 --- auto_encoder_kl.hpp:529
+[I] flash attention auto: CPU -> on (CPU) --- flash_attn.cpp:70
+[I] conv2d direct auto: CPU -> off (no implicit GEMM path) --- conv_direct.cpp:90
+[I] conv3d direct auto: CPU -> off (no implicit GEMM path) --- conv_direct.cpp:90
+[V] validating model metadata --- diffusion_engine.cpp:1314
+[V] model metadata validated; weights will be prepared lazily --- diffusion_engine.cpp:1384
+[I] total params memory size = 6637.75MB (VRAM 0.00MB, RAM 6637.75MB): text_encoders 2375.91MB(RAM), diffusion_model 4101.40MB(RAM), vae 160.43MB(RAM), controlnet 0.00MB(N/A), extensions 0.00MB(N/A) --- diffusion_engine.cpp:1430
+[I] running in Flux FLOW mode --- diffusion_engine.cpp:1490
+[I] preprocess ref[0]: 768x1024 crop=(0,0,768,1024) resize=768x1024 pad=(0,0) output=768x1024 filter=auto(0) antialias=false --- image_preprocess.cpp:302
+[I] generate_image 768x1024 --- image.cpp:954
+[V] using 4 threads for model loading --- model_loader.cpp:194
+[I] Using 'flux2' preset for reference images --- diffusion_engine.cpp:3172
+[I] get_sigmas with Flux2 scheduler --- denoiser.hpp:1189
+[V] Flux2 scheduler: image_seq_len=3072, steps=4, mu=2.204 --- denoiser.hpp:885
+[I] sampling using Euler method --- request.cpp:478
+[I] EDIT mode --- image.cpp:357
+[V] auto resize ref images --- image.cpp:387
+[V] resize vae ref image 0 from 1024x768 to 1024x768 --- image.cpp:419
+[I] vae build cached graph cut plan done (taking 0 ms) --- ggml_graph_cut.cpp:1032
+[V] loading 108/251 tensors from /home/runner/work/_temp/art/klein4b_vae.safetensors --- model_loader.cpp:1167
+
+  |###                                               |   6/108 -   0.00MB/s[K
+  |##################################################| 108/108 - 656.62MB/s[K
+[I] loading tensors completed, taking 0.20s (read: 0.01s, memcpy: 0.00s, convert: 0.03s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+[V] model manager prepared params backend buffers ( 65.72 MB, 108 tensors, 1 blocks, RAM) on CPU --- model_manager.cpp:504
+[V] vae compute buffer size: 2545.50 MB(RAM) on CPU (peak across 1 segment) --- execution_engine.cpp:727
+[V] computing vae encode graph completed, taking 47.00s --- vae.hpp:312
+[I] encode_first_stage completed, taking 47.01s --- image.cpp:509
+[V] parse '<|im_start|>user\nThe same woman in the same clothes and the same art style, same plain background. She now raises her right hand and points up to the side with her index finger, looking at the viewer with a happy open smile as if explaining something.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n' to [['<|im_start|>user\n', 1], ['The same woman in the same clothes and the same art style, same plain background. She now raises her right hand and points up to the side with her index finger, looking at the viewer with a happy open smile as if explaining something.', 1], ['<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n', 1], ] --- conditioner.hpp:2246
+[V] split prompt "<|im_start|>user\n" to 3 tokens ["<|im_start|>", "user", "Ċ", ] --- bpe_tokenizer.cpp:245
+[V] split prompt "The same woman in the same clothes and the same art style, same plain background. She now raises her right hand and points up to the side with her index finger, looking at the viewer with a happy open smile as if explaining something." to 48 tokens ["The", "Ġsame", "Ġwoman", "Ġin", "Ġthe", "Ġsame", "Ġclothes", "Ġand", "Ġthe", "Ġsame", "Ġart", "Ġstyle", ",", "Ġsame", "Ġplain", "Ġbackground", ".", "ĠShe", "Ġnow", "Ġraises", "Ġher", "Ġright", "Ġhand", "Ġand", "Ġpoints", "Ġup", "Ġto", "Ġthe", "Ġside", "Ġwith", "Ġher", "Ġindex", "Ġfinger", ",", "Ġlooking", "Ġat", "Ġthe", "Ġviewer", "Ġwith", "Ġa", "Ġhappy", "Ġopen", "Ġsmile", "Ġas", "Ġif", "Ġexplaining", "Ġsomething", ".", ] --- bpe_tokenizer.cpp:245
+[V] split prompt "<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n" to 9 tokens ["<|im_end|>", "Ċ", "<|im_start|>", "assistant", "Ċ", "<think>", "ĊĊ", "</think>", "ĊĊ", ] --- bpe_tokenizer.cpp:245
+[I] qwen3 build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+[V] loading 298/398 tensors from /home/runner/work/_temp/art/klein4b_llm.gguf --- model_loader.cpp:1167
+
+  |#                                                 |   1/298 -   0.00MB/s[K
+  |#####################                             | 122/298 -   2.90GB/s[K
+  |##########################                        | 149/298 -   1.79GB/s[K
+  |############################                      | 166/298 -   1.33GB/s[K
+  |###############################                   | 181/298 -   1.44GB/s[K
+  |#################################                 | 196/298 -   1.24GB/s[K
+  |#####################################             | 215/298 -   1.10GB/s[K
+  |########################################          | 233/298 -   1.02GB/s[K
+  |##########################################        | 248/298 - 952.12MB/s[K
+  |##############################################    | 269/298 - 906.81MB/s[K
+  |################################################  | 284/298 - 855.44MB/s[K
+  |##################################################| 298/298 - 836.09MB/s[K
+[I] loading tensors completed, taking 2.20s (read: 2.18s, memcpy: 0.00s, convert: 0.00s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+[V] model manager prepared params backend buffers (1841.08 MB, 298 tensors, 1 blocks, RAM) on CPU --- model_manager.cpp:504
+[V] qwen3 compute buffer size: 59.00 MB(RAM) on CPU (peak across 1 segment) --- execution_engine.cpp:727
+[V] computing condition graph completed, taking 7346 ms --- conditioner.hpp:3450
+[V] conditioning cache stored (1/4) --- conditioning_cache.h:118
+[I] get_learned_condition completed, taking 7.35s --- image.cpp:664
+[I] generating image: 1/1 - seed 22 --- image.cpp:1005
+[I] flux build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+[V] loading 149/149 tensors from /home/runner/work/_temp/art/klein4b_diffusion.gguf --- model_loader.cpp:1167
+
+  |##                                                |   3/149 -   0.00MB/s[K
+  |###########                                       |  30/149 -   2.18GB/s[K
+  |#############                                     |  36/149 -   1.40GB/s[K
+  |##############                                    |  40/149 -   1.07GB/s[K
+  |###############                                   |  42/149 - 870.41MB/s[K
+  |#################                                 |  48/149 - 820.74MB/s[K
+  |##################                                |  53/149 - 779.64MB/s[K
+  |####################                              |  58/149 - 736.63MB/s[K
+  |#####################                             |  60/149 - 668.54MB/s[K
+  |######################                            |  63/149 - 658.02MB/s[K
+  |#######################                           |  66/149 - 621.69MB/s[K
+  |#######################                           |  67/149 - 581.58MB/s[K
+  |########################                          |  70/149 - 549.08MB/s[K
+  |########################                          |  71/149 - 548.38MB/s[K
+  |##########################                        |  75/149 - 578.29MB/s[K
+  |###########################                       |  78/149 - 552.51MB/s[K
+  |############################                      |  82/149 - 556.82MB/s[K
+  |############################                      |  82/149 - 524.10MB/s[K
+  |#############################                     |  86/149 - 529.51MB/s[K
+  |###############################                   |  90/149 - 534.35MB/s[K
+  |###############################                   |  91/149 - 529.02MB/s[K
+  |################################                  |  94/149 - 512.95MB/s[K
+  |#################################                 |  98/149 - 517.88MB/s[K
+  |########################################          | 118/149 - 629.98MB/s[K
+  |##################################################| 149/149 - 853.21MB/s[K
+[I] loading tensors completed, taking 4.81s (read: 4.77s, memcpy: 0.00s, convert: 0.00s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+[V] model manager prepared params backend buffers (4101.40 MB, 149 tensors, 1 blocks, RAM) on CPU --- model_manager.cpp:504
+[V] flux compute buffer size: 1329.50 MB(RAM) on CPU (peak across 1 segment) --- execution_engine.cpp:727
+
+  |============>                                     | 1/4 - 441.69s/it - ETA 22:05[K[I] flux build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+
+  |=========================>                        | 2/4 - 431.72s/it - ETA 14:33[K
+  |=====================================>            | 3/4 - 426.76s/it - ETA 07:13[K
+  |==================================================| 4/4 - 432.79s/it[K
+[I] sampling completed, taking 1733.01s --- image.cpp:1038
+[I] generating 1 latent images completed, taking 1733.01s --- image.cpp:1050
+[I] decoding 1 latents --- image.cpp:689
+[I] vae build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+[V] loading 140/251 tensors from /home/runner/work/_temp/art/klein4b_vae.safetensors --- model_loader.cpp:1167
+
+  |####                                              |  10/140 -  22.96MB/s[K
+  |##################################################| 140/140 - 941.72MB/s[K
+[I] loading tensors completed, taking 0.20s (read: 0.01s, memcpy: 0.00s, convert: 0.04s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+[V] model manager prepared params backend buffers ( 94.72 MB, 140 tensors, 1 blocks, RAM) on CPU --- model_manager.cpp:504
+[V] vae compute buffer size: 4993.50 MB(RAM) on CPU (peak across 1 segment) --- execution_engine.cpp:727
+[V] computing vae decode graph completed, taking 103.60s --- vae.hpp:386
+[I] latent 1 decoded, taking 103.61s --- image.cpp:755
+[I] decode_first_stage completed, taking 103.61s --- image.cpp:759
+[I] generate_image completed in 1891.05s --- image.cpp:1227
+[V] model manager released params backend buffers (6102.91 MB, 695 tensors, 4 blocks, RAM) from CPU --- model_manager.cpp:1312
+[I] save result image 0 to 'out/test1/teacher_ma_point.png' (success) --- main.cpp:501
+[I] 1/1 images saved --- main.cpp:579

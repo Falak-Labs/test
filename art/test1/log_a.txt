@@ -1,18 +1,56 @@
 runner: Intel(R) Xeon(R) 6975P-C, 4 threads, 15 GB RAM
-sd.cpp release master-1106-532d2c1 assets: cudart-sd-bin-win-cu12-x64.zip, sd-master-532d2c1-bin-Darwin-macOS-26.7.2-arm64.zip, sd-master-532d2c1-bin-Linux-Ubuntu-24.04-x86_64-rocm-10.1.0.zip, sd-master-532d2c1-bin-Linux-Ubuntu-26.04-x86_64-vulkan.zip, sd-master-532d2c1-bin-Linux-Ubuntu-26.04-x86_64.zip, sd-master-532d2c1-bin-win-cpu-x64.zip, sd-master-532d2c1-bin-win-cuda12-x64.zip, sd-master-532d2c1-bin-win-rocm-10.1.0-x64.zip, sd-master-532d2c1-bin-win-vulkan-x64.zip
-sd.cpp: sd-master-532d2c1-bin-Linux-Ubuntu-26.04-x86_64.zip -> /home/runner/work/_temp/art/sdcpp/sd-cli
+sd.cpp master-1106-532d2c1 built in 310 s -> /home/runner/work/_temp/art/sdcpp-src/build/bin/sd-cli
 model klein4b:
   klein4b_diffusion: leejet/FLUX.2-klein-4B-GGUF: 4 files: flux-2-klein-4b-Q4_0.gguf, flux-2-klein-4b-Q8_0.gguf
-  klein4b_diffusion: leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q4_0.gguf  2.46 GB in 49 s
+  klein4b_diffusion: leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q8_0.gguf  4.30 GB in 74 s
   klein4b_llm: unsloth/Qwen3-4B-GGUF: 32 files: Qwen3-4B-BF16.gguf, Qwen3-4B-IQ4_NL.gguf, Qwen3-4B-IQ4_XS.gguf, Qwen3-4B-Q2_K.gguf, Qwen3-4B-Q2_K_L.gguf, Qwen3-4B-Q3_K_M.gguf, Qwen3-4B-Q3_K_S.gguf, Qwen3-4B-Q4_0.gguf, Qwen3-4B-Q4_1.gguf, Qwen3-4B-Q4_K_M.gguf, Qwen3-4B-Q4_K_S.gguf, Qwen3-4B-Q5_K_M.gguf, Qwen3-4B-Q5_K_S.gguf, Qwen3-4B-Q6_K.gguf, Qwen3-4B-Q8_0.gguf, Qwen3-4B-UD-IQ1_M.gguf, Qwen3-4B-UD-IQ1_S.gguf, Qwen3-4B-UD-IQ2_M.gguf, Qwen3-4B-UD-IQ2_XXS.gguf, Qwen3-4B-UD-IQ3_XXS.gguf, Qwen3-4B-UD-Q2_K_XL.gguf, Qwen3-4B-UD-Q3_K_XL.gguf, Qwen3-4B-UD-Q4_K_XL.gguf, Qwen3-4B-UD-Q5_K_XL.gguf, Qwen3-4B-UD-Q6_K_XL.gguf, Qwen3-4B-UD-Q8_K_XL.gguf
-  klein4b_llm: unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf  2.50 GB in 47 s
+  klein4b_llm: unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf  2.50 GB in 15 s
   klein4b_vae: Comfy-Org/flux2-klein-4B: 7 files: split_files/diffusion_models/flux-2-klein-4b.safetensors, split_files/diffusion_models/flux-2-klein-base-4b.safetensors, split_files/text_encoders/qwen_3_4b.safetensors, split_files/text_encoders/qwen_3_4b_fp4_flux2.safetensors, split_files/vae/flux2-vae.safetensors
-  klein4b_vae: Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors  0.34 GB in 6 s
-  weights ready in 102 s
-sticker_tajine: FAILED 1 in 0 s  (768x768, 4 steps, 0 refs)
-    tail: /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libstable-diffusion.so) | /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libggml-base.so.1)
-sticker_knafeh: FAILED 1 in 0 s  (768x768, 4 steps, 0 refs)
-    tail: /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libstable-diffusion.so) | /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libggml-base.so.1)
-scene_match_ma: FAILED 1 in 0 s  (1024x640, 4 steps, 0 refs)
-    tail: /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libstable-diffusion.so) | /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libggml-base.so.1)
-done: 0 ok, 3 failed ['sticker_tajine', 'sticker_knafeh', 'scene_match_ma']
+  klein4b_vae: Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors  0.34 GB in 2 s
+  weights ready in 91 s
+sticker_tajine: ok in 743 s  (768x768, 4 steps, 0 refs)
+    [I] flux build cached graph cut plan done (taking 2 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 0.81s (read: 0.71s, memcpy: 0.00s, convert: 0.00s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    |============>                                     | 1/4 - 166.56s/it - ETA 08:19[K[I] flux build cached graph cut plan done (taking 2 ms) --- ggml_graph_cut.cpp:1032
+    |=========================>                        | 2/4 - 165.30s/it - ETA 05:31[K
+    |=====================================>            | 3/4 - 162.68s/it - ETA 02:44[K
+    |==================================================| 4/4 - 165.19s/it[K
+    [I] sampling completed, taking 659.76s --- image.cpp:1038
+    [I] generating 1 latent images completed, taking 659.76s --- image.cpp:1050
+    [I] vae build cached graph cut plan done (taking 0 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 0.23s (read: 0.01s, memcpy: 0.00s, convert: 0.04s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    [V] computing vae decode graph completed, taking 76.53s --- vae.hpp:386
+    [I] latent 1 decoded, taking 76.53s --- image.cpp:755
+    [I] decode_first_stage completed, taking 76.53s --- image.cpp:759
+    [I] generate_image completed in 742.33s --- image.cpp:1227
+sticker_knafeh: ok in 752 s  (768x768, 4 steps, 0 refs)
+    [I] flux build cached graph cut plan done (taking 2 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 4.80s (read: 4.72s, memcpy: 0.00s, convert: 0.00s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    |============>                                     | 1/4 - 171.73s/it - ETA 08:35[K[I] flux build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+    |=========================>                        | 2/4 - 165.74s/it - ETA 05:37[K
+    |=====================================>            | 3/4 - 166.34s/it - ETA 02:47[K
+    |==================================================| 4/4 - 166.47s/it[K
+    [I] sampling completed, taking 670.31s --- image.cpp:1038
+    [I] generating 1 latent images completed, taking 670.31s --- image.cpp:1050
+    [I] vae build cached graph cut plan done (taking 0 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 0.20s (read: 0.01s, memcpy: 0.00s, convert: 0.04s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    [V] computing vae decode graph completed, taking 75.87s --- vae.hpp:386
+    [I] latent 1 decoded, taking 75.88s --- image.cpp:755
+    [I] decode_first_stage completed, taking 75.88s --- image.cpp:759
+    [I] generate_image completed in 751.73s --- image.cpp:1227
+scene_match_ma: ok in 819 s  (1024x640, 4 steps, 0 refs)
+    [I] flux build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 2.02s (read: 1.94s, memcpy: 0.00s, convert: 0.00s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    |============>                                     | 1/4 - 179.61s/it - ETA 08:58[K[I] flux build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+    |=========================>                        | 2/4 - 177.30s/it - ETA 05:56[K
+    |=====================================>            | 3/4 - 183.74s/it - ETA 03:00[K
+    |==================================================| 4/4 - 185.10s/it[K
+    [I] sampling completed, taking 725.77s --- image.cpp:1038
+    [I] generating 1 latent images completed, taking 725.77s --- image.cpp:1050
+    [I] vae build cached graph cut plan done (taking 0 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 0.20s (read: 0.01s, memcpy: 0.00s, convert: 0.05s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    [V] computing vae decode graph completed, taking 85.99s --- vae.hpp:386
+    [I] latent 1 decoded, taking 86.00s --- image.cpp:755
+    [I] decode_first_stage completed, taking 86.00s --- image.cpp:759
+    [I] generate_image completed in 818.69s --- image.cpp:1227
+done: 3 ok, 0 failed []

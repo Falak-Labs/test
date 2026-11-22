@@ -7,10 +7,10 @@
   "h": 768,
   "steps": 4,
   "refs": 0,
-  "seconds": 0.0,
-  "ok": false,
+  "seconds": 743.0,
+  "ok": true,
   "files": {
-   "diffusion": "leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q4_0.gguf",
+   "diffusion": "leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q8_0.gguf",
    "llm": "unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf",
    "vae": "Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors"
   },
@@ -26,10 +26,10 @@
   "h": 768,
   "steps": 4,
   "refs": 0,
-  "seconds": 0.0,
-  "ok": false,
+  "seconds": 752.4,
+  "ok": true,
   "files": {
-   "diffusion": "leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q4_0.gguf",
+   "diffusion": "leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q8_0.gguf",
    "llm": "unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf",
    "vae": "Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors"
   },
@@ -45,10 +45,10 @@
   "h": 640,
   "steps": 4,
   "refs": 0,
-  "seconds": 0.0,
-  "ok": false,
+  "seconds": 819.4,
+  "ok": true,
   "files": {
-   "diffusion": "leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q4_0.gguf",
+   "diffusion": "leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q8_0.gguf",
    "llm": "unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf",
    "vae": "Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors"
   },

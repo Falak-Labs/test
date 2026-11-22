@@ -1,16 +1,41 @@
-runner: Intel(R) Xeon(R) 6975P-C, 4 threads, 15 GB RAM
-sd.cpp release master-1106-532d2c1 assets: cudart-sd-bin-win-cu12-x64.zip, sd-master-532d2c1-bin-Darwin-macOS-26.7.2-arm64.zip, sd-master-532d2c1-bin-Linux-Ubuntu-24.04-x86_64-rocm-10.1.0.zip, sd-master-532d2c1-bin-Linux-Ubuntu-26.04-x86_64-vulkan.zip, sd-master-532d2c1-bin-Linux-Ubuntu-26.04-x86_64.zip, sd-master-532d2c1-bin-win-cpu-x64.zip, sd-master-532d2c1-bin-win-cuda12-x64.zip, sd-master-532d2c1-bin-win-rocm-10.1.0-x64.zip, sd-master-532d2c1-bin-win-vulkan-x64.zip
-sd.cpp: sd-master-532d2c1-bin-Linux-Ubuntu-26.04-x86_64.zip -> /home/runner/work/_temp/art/sdcpp/sd-cli
+runner: AMD EPYC 9V74 80-Core Processor, 4 threads, 15 GB RAM
+sd.cpp master-1106-532d2c1 built in 337 s -> /home/runner/work/_temp/art/sdcpp-src/build/bin/sd-cli
 model klein4b:
   klein4b_diffusion: leejet/FLUX.2-klein-4B-GGUF: 4 files: flux-2-klein-4b-Q4_0.gguf, flux-2-klein-4b-Q8_0.gguf
-  klein4b_diffusion: leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q4_0.gguf  2.46 GB in 23 s
+  klein4b_diffusion: leejet/FLUX.2-klein-4B-GGUF/flux-2-klein-4b-Q8_0.gguf  4.30 GB in 51 s
   klein4b_llm: unsloth/Qwen3-4B-GGUF: 32 files: Qwen3-4B-BF16.gguf, Qwen3-4B-IQ4_NL.gguf, Qwen3-4B-IQ4_XS.gguf, Qwen3-4B-Q2_K.gguf, Qwen3-4B-Q2_K_L.gguf, Qwen3-4B-Q3_K_M.gguf, Qwen3-4B-Q3_K_S.gguf, Qwen3-4B-Q4_0.gguf, Qwen3-4B-Q4_1.gguf, Qwen3-4B-Q4_K_M.gguf, Qwen3-4B-Q4_K_S.gguf, Qwen3-4B-Q5_K_M.gguf, Qwen3-4B-Q5_K_S.gguf, Qwen3-4B-Q6_K.gguf, Qwen3-4B-Q8_0.gguf, Qwen3-4B-UD-IQ1_M.gguf, Qwen3-4B-UD-IQ1_S.gguf, Qwen3-4B-UD-IQ2_M.gguf, Qwen3-4B-UD-IQ2_XXS.gguf, Qwen3-4B-UD-IQ3_XXS.gguf, Qwen3-4B-UD-Q2_K_XL.gguf, Qwen3-4B-UD-Q3_K_XL.gguf, Qwen3-4B-UD-Q4_K_XL.gguf, Qwen3-4B-UD-Q5_K_XL.gguf, Qwen3-4B-UD-Q6_K_XL.gguf, Qwen3-4B-UD-Q8_K_XL.gguf
-  klein4b_llm: unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf  2.50 GB in 52 s
+  klein4b_llm: unsloth/Qwen3-4B-GGUF/Qwen3-4B-Q4_K_M.gguf  2.50 GB in 56 s
   klein4b_vae: Comfy-Org/flux2-klein-4B: 7 files: split_files/diffusion_models/flux-2-klein-4b.safetensors, split_files/diffusion_models/flux-2-klein-base-4b.safetensors, split_files/text_encoders/qwen_3_4b.safetensors, split_files/text_encoders/qwen_3_4b_fp4_flux2.safetensors, split_files/vae/flux2-vae.safetensors
-  klein4b_vae: Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors  0.34 GB in 6 s
-  weights ready in 82 s
-classroom_ma: FAILED 1 in 0 s  (768x1344, 4 steps, 0 refs)
-    tail: /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libstable-diffusion.so) | /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libggml-base.so.1)
-classroom_pa: FAILED 1 in 0 s  (768x1344, 4 steps, 0 refs)
-    tail: /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libstable-diffusion.so) | /home/runner/work/_temp/art/sdcpp/sd-cli: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.43' not found (required by /home/runner/work/_temp/art/sdcpp/libggml-base.so.1)
-done: 0 ok, 2 failed ['classroom_ma', 'classroom_pa']
+  klein4b_vae: Comfy-Org/flux2-klein-4B/split_files/vae/flux2-vae.safetensors  0.34 GB in 1 s
+  weights ready in 109 s
+classroom_ma: ok in 1413 s  (768x1344, 4 steps, 0 refs)
+    [I] flux build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 0.88s (read: 0.75s, memcpy: 0.00s, convert: 0.00s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    |============>                                     | 1/4 - 315.23s/it - ETA 15:45[K[I] flux build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+    |=========================>                        | 2/4 - 312.74s/it - ETA 10:27[K
+    |=====================================>            | 3/4 - 313.11s/it - ETA 05:13[K
+    |==================================================| 4/4 - 311.44s/it[K
+    [I] sampling completed, taking 1252.60s --- image.cpp:1038
+    [I] generating 1 latent images completed, taking 1252.60s --- image.cpp:1050
+    [I] vae build cached graph cut plan done (taking 0 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 0.20s (read: 0.01s, memcpy: 0.00s, convert: 0.05s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    [V] computing vae decode graph completed, taking 153.62s --- vae.hpp:386
+    [I] latent 1 decoded, taking 153.62s --- image.cpp:755
+    [I] decode_first_stage completed, taking 153.62s --- image.cpp:759
+    [I] generate_image completed in 1412.39s --- image.cpp:1227
+classroom_pa: ok in 1438 s  (768x1344, 4 steps, 0 refs)
+    [I] flux build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 10.14s (read: 10.06s, memcpy: 0.00s, convert: 0.00s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    |============>                                     | 1/4 - 325.57s/it - ETA 16:16[K[I] flux build cached graph cut plan done (taking 1 ms) --- ggml_graph_cut.cpp:1032
+    |=========================>                        | 2/4 - 315.11s/it - ETA 10:40[K
+    |=====================================>            | 3/4 - 317.88s/it - ETA 05:19[K
+    |==================================================| 4/4 - 315.86s/it[K
+    [I] sampling completed, taking 1274.50s --- image.cpp:1038
+    [I] generating 1 latent images completed, taking 1274.50s --- image.cpp:1050
+    [I] vae build cached graph cut plan done (taking 0 ms) --- ggml_graph_cut.cpp:1032
+    [I] loading tensors completed, taking 0.20s (read: 0.01s, memcpy: 0.00s, convert: 0.05s, copy_to_backend: 0.00s) --- model_loader.cpp:1437
+    [V] computing vae decode graph completed, taking 153.65s --- vae.hpp:386
+    [I] latent 1 decoded, taking 153.65s --- image.cpp:755
+    [I] decode_first_stage completed, taking 153.65s --- image.cpp:759
+    [I] generate_image completed in 1436.77s --- image.cpp:1227
+done: 2 ok, 0 failed []

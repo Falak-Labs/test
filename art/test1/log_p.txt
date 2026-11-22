@@ -1,2 +1,2 @@
-pollinations_tajine: pollinations ok in 5 s 
+pollinations_tajine: pollinations ok in 1 s 
 done: 1 ok, 0 failed []
