@@ -1512,8 +1512,8 @@ Owner did the Advanced features verification on Congrats Engineer and Kef Tenben
   Lineup: four ideas appended (73 the Lighthouse of Alexandria, 74 Maraya in AlUla, 75 Chand Baori, 76 a pressure cooker).
 
 ## Nov 22 2026 (show run, 13:17 PT): Survival Mode 3 "You vs Gravity" (sm03) for Mon Nov 23
-- TODAY Sun Nov 22 PT, TOMORROW Mon Nov 23 PT. Finished 14:15 PT (the whole run took under an hour; the four cuts render
-  in about 18 minutes when the English and the Arabic chain run side by side on the 2 CPUs).
+- TODAY Sun Nov 22 PT, TOMORROW Mon Nov 23 PT. Hand-off done 14:08 PT (the whole run took under an hour; the four cuts
+  render in about 18 minutes when the English and the Arabic chain run side by side on the 2 CPUs).
 - Step 0: status 21:24Z: sm02's four TikTok + Instagram posts all sent (links in state/sm02.json), nothing to requeue.
   yt_desk check: nothing overdue (the `show` branch did not exist before this run: its hand-off is the first real push).
 - Pick: pisa, machupicchu, operahouse, liberty (all Mansour). Gravity's four moves: it tips (Pisa), slides (Machu Picchu),
@@ -1541,7 +1541,7 @@ Owner did the Advanced features verification on Congrats Engineer and Kef Tenben
   camera pulls back earlier in the Arabic build, so its shot is per language (en 2.6, ar 1.85).
 - Cuts (all -14.0 LUFS): English full 4:37.1 (true peak -2.3 dBFS, 86.8 MB, chapters 0:00 0:11 1:13 2:15 3:17 4:21),
   short 1:22.3 (-2.2, 39.5 MB); Arabic full 4:56.7 (-2.1, 88.6 MB, chapters 0:00 0:13 1:16 2:23 3:29 4:39), short 1:26.1
-  (-2.0, 40.7 MB). Stills sheets and 110 frames pulled from the four finished files looked at (words, Arabic right to
+  (-2.0, 40.7 MB). Stills sheets and 140 frames pulled from the four finished files looked at (words, Arabic right to
   left, the right boss on each level); Whisper small on the finished mixes hears every new line in its place.
 - Hand-off: media/sm03-en.mp4 + media/sm03-ar.mp4 and posts/sm03.yml on main with ALL six targets on hold (the Post
   workflow ran: state/sm03.json has no targets). kit/show/youtube/sm03.yml -> handoff.py pushed the two full cuts, the two
