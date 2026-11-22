@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       tool:
-        description: "find_voices.py (Levantine teachers) or find_kid_voices.py (little boy voices)"
+        description: "find_voices.py (Levantine teachers), find_kid_voices.py (little boy voices) or credits.py (credits left this month)"
         default: find_voices.py
 permissions:
   contents: write
@@ -29,7 +29,7 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           TOOL: ${{ inputs.tool }}
         run: |
-          case "$TOOL" in find_voices.py|find_kid_voices.py) ;; *) echo "unknown tool"; exit 1;; esac
+          case "$TOOL" in find_voices.py|find_kid_voices.py|credits.py) ;; *) echo "unknown tool"; exit 1;; esac
           python -I -u "darija/tools/$TOOL" darija/voice/_find
       - name: Save to the repo
         if: always()

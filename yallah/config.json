@@ -5,12 +5,26 @@
   4,
   7
  ],
+ "plan": {
+  "shorts_per_day": 3,
+  "shorts_go_to": [
+   "tiktok",
+   "youtube",
+   "instagram"
+  ],
+  "long_per_day": 1,
+  "long_minutes": 5,
+  "long_goes_to": [
+   "youtube"
+  ],
+  "youtube_route": "YouTube Studio in the owner's Chrome (YOUTUBE_STUDIO_UPLOAD.md), scheduled a day ahead; Buffer keeps Instagram and TikTok",
+  "since": "2026-11-21"
+ },
  "accounts": {
   "ma": {
    "secret": "BUFFER_KEY_MA",
    "zone": "Africa/Casablanca",
    "slots": [
-    "08:30",
     "13:00",
     "18:30",
     "21:30"
@@ -27,13 +41,13 @@
     "tiktok": [
      "yallah.say"
     ]
-   }
+   },
+   "long_slot": "17:00"
   },
   "pa": {
    "secret": "BUFFER_KEY_PA",
    "zone": "Asia/Hebron",
    "slots": [
-    "08:00",
     "13:30",
     "18:00",
     "21:00"
@@ -55,7 +69,8 @@
      "yallahsaypa",
      "yallasaypa"
     ]
-   }
+   },
+   "long_slot": "17:00"
   }
  },
  "youtube": {
