@@ -1,5 +1,5 @@
 {
- "enabled": false,
+ "enabled": true,
  "lead_minutes": 10,
  "delay_minutes": [
   4,

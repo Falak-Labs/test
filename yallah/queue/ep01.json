@@ -9,7 +9,12 @@
    "youtube": "#LearnEnglish #Darija #تعلم_الانجليزية",
    "instagram": "فيديوهات كثر على يوتيوب: @YallahSayMa\n#تعلم_الانجليزية #الدارجة #المغرب #LearnEnglish #Darija",
    "tiktok": "فيديوهات كثر على يوتيوب: @YallahSayMa\nالأصوات مصنوعة بالذكاء الاصطناعي\n#تعلم_الانجليزية #الدارجة #المغرب #LearnEnglish #Darija"
-  }
+  },
+  "at": "2026-11-22T02:01:18+00:00",
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ]
  },
  "pa": {
   "video": "https://raw.githubusercontent.com/Falak-Labs/test/yallah-media/yallah-say-pa-ep01.mp4",
