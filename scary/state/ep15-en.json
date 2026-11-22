@@ -1,0 +1,22 @@
+{
+ "targets": {
+  "en.instagram": {
+   "id": "6b02d58bc72676f5e924d9fc",
+   "channel": "6b0287c28541f09ecb5f9e1b",
+   "service": "instagram",
+   "status": "scheduled",
+   "dueAt": "2026-11-22T20:22:11.000Z",
+   "planned": "2026-11-22T12:20:00-08:00",
+   "created": "2026-11-22T11:44:07+00:00"
+  },
+  "en.tiktok": {
+   "id": "6b02d58cd5eabfb8cca3da48",
+   "channel": "6b02882f8541f09ecb5fa9fe",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-22T20:22:49.000Z",
+   "planned": "2026-11-22T12:20:00-08:00",
+   "created": "2026-11-22T11:44:07+00:00"
+  }
+ }
+}
