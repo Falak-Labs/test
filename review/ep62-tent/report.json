@@ -1,0 +1,134 @@
+{
+ "slug": "ep62-tent",
+ "kit": "tent",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.13,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "9/227",
+   "mix_lines_off": [
+    "L 1 3 diff  | If you can leave a house from goat hair that stops desert rain and still lets the breeze through, congrats, you just built a bedu intent.",
+    "L11 2 diff  | Now the story, women weave every strip by hand on a loom on the ground and a curtain splits the tent into the guest's side and the families.",
+    "L13 4 diff  | And congrats, you just built a better way to intent yourself."
+   ],
+   "size_mb": 21.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو قدرت تنسج بيت من شعر المعيز، يصد مطر الصحرا وبرضه يعدّي النسمة، مبروك، كده انت بنيت خيمة البدو، بيت الشعر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس شمس الصحرا نار، والخيمة الرقيقة تبقى فرن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتعملها سودا وتقيلة، تعمل ضل تقيل، والهوا السخن يطلع من بين الخيوط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس لو الهوا بيعدّي، يبقى المطر هيعدّي هو كمان.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتعتمد على المعيز، شعرها لما يتبل بينتفخ ويقفل الخروم، والمطر يتزحلق من عليه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس هوا الصحرا بيلف، ويرمي الرملة في وشك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فالحيطان ستاير بتتشبك وتتفك، تنزّلها ناحية الهوا، وتفتح الناحية التانية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس العيلة بتتنقل ورا الغنم، مرة ورا مرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فالبيت كله شرايط منسوجة، وعواميد وحبال، يتطوي ويركب على ضهر الجمل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل ما تلم الخيمة، تابعني، عشان اللي جاي هنبني غسالة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "ودلوقتي الحكاية: الستات بينسجوا كل شريط بإيديهم على نول في الأرض، وستارة بتقسم البيت، ناحية للضيوف وناحية للعيلة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "من غير ولا مسمار، ولا طوبة، وصامدة قدام عواصف الصحرا من آلاف السنين.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كده انت بنيت خيمة البدو بإيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "بيت من شعر المعيز بيصد عواصف الصحرا، وانت الشمسية بتاعتك بتتقلب مع أول نسمة هوا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 70.73,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 22.2,
+   "cover": true
+  }
+ }
+}

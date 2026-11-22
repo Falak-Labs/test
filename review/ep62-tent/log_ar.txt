@@ -1,0 +1,7 @@
+tent_ar_sa: 70.74s, 2122 frames
+cover out/tent_ar_sa/cover.png: ['خيمة البدو'] (frame 0 of the video)
+video done in 554s
+audio done
+final out/tent_ar_sa/tent_ar_sa_final.mp4
+QA  duration 70.73s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2122
+QA sheet out/tent_ar_sa/qa_sheet.png
