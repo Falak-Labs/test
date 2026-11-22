@@ -4,10 +4,12 @@
    "id": "6b029748d864a01105a50d09",
    "channel": "6b02347bece6dfde5f4e33e8",
    "service": "instagram",
-   "status": "sending",
+   "status": "sent",
    "dueAt": "2026-11-22T07:27:31.000Z",
    "planned": "2026-11-22T07:25:00+00:00",
-   "created": "2026-11-22T07:18:31+00:00"
+   "created": "2026-11-22T07:18:31+00:00",
+   "sentAt": "2026-11-22T07:30:54.948Z",
+   "link": "https://www.instagram.com/reel/DgCROzSjjch/"
   },
   "ma.tiktok": {
    "id": "6b029749846b0ee907698b74",
