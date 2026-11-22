@@ -36,7 +36,7 @@ MAX_PAUSE, KEEP_PAUSE = 0.16, 0.11
 
 
 # How Easton should say a word; the captions and the json keep the script's spelling (Nov 19: "riad" came out as "riot").
-SAY = {"riad": "ree-ahd", "riads": "ree-ahds"}
+SAY = {"riad": "ree-ahd", "riads": "ree-ahds", "bedouin": "bed-oo-in", "pisa": "peesa"}
 
 
 def say(line):
