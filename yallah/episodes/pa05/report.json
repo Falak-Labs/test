@@ -2,10 +2,8 @@
  "lesson": "05",
  "dialect": "pa",
  "file": "yallah-say-pa-ep05.mp4",
- "ok": false,
- "problems": [
-  "picture piece 3: 0 of 520 frames; /work/test/test/out/pa05/page/main.js:541:145)\n    at window.renderFrame (file:///home/runner/work/test/test/out/pa05/page/main.js:558:17)\n    at eval (eval at evaluate (:311:30), <anonymous>:1:13)\n    at UtilityScript.evaluate (<anonymous>:318:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
- ],
+ "ok": true,
+ "problems": [],
  "steps": {
   "script": {
    "seconds": 0.0,
@@ -20,17 +18,37 @@
    ]
   },
   "sound": {
-   "seconds": 4.2,
+   "seconds": 3.9,
    "says": [
     "duration 1:28.77 (2663 frames) | 13 shots, 47 beats | -14.0 LUFS, peak 0.664",
     "quiz 29.1 | hard word 42.0667 | end card 78.3333 | word parts (s): {'T': [0.68, 0.58, 0.63, 0.62], 'A': [0.64, 0.52, 0.48, 0.62], 'L': [0.74, 0.49, 0.37, 0.65]}"
    ]
   },
   "picture": {
-   "seconds": 106.7,
+   "seconds": 120.4,
    "pieces": 6,
    "at_once": 4,
-   "frames_per_second": 24.9
+   "frames_per_second": 22.1
+  },
+  "join": {
+   "seconds": 0.2,
+   "says": []
+  },
+  "mux": {
+   "seconds": 2.0,
+   "says": []
+  },
+  "takes": {
+   "seconds": 3.0,
+   "says": [
+    "ok   o2      at   85.60s len 1.19s  match 0.945  (take offset +0.03s)",
+    "ok   o3      at   87.04s len 0.62s  match 0.993  (take offset +0.01s)",
+    "below 0.9: none"
+   ]
+  },
+  "frames": {
+   "seconds": 2.3,
+   "says": []
   }
  },
  "voice_lines": {
@@ -60,7 +78,39 @@
  "sha256": {
   "page/script.js": "a538116b5bf44a8216a47bf0a594e6a589a7087fb33b51a9a55dda5576744b74",
   "page/tl.js": "47746893f426e7e87937ef6950844c937cd2e2ecd9a796db2bf942eddfaeeedd",
-  "final.wav": "3a1bd2ab98dd9c7eb84df9e0e2a3ff8f3dbce6bcf6e71d2ac62ef481ab6860c1"
+  "final.wav": "3a1bd2ab98dd9c7eb84df9e0e2a3ff8f3dbce6bcf6e71d2ac62ef481ab6860c1",
+  "yallah-say-pa-ep05.mp4": "780cbd1dac9e990de15084324c49f243432bbe790a87f64ee86cb212963dac9a"
  },
- "seconds": 111.0
+ "video": {
+  "size": 18546585,
+  "frames": 2663,
+  "width": 1080,
+  "height": 1920,
+  "rate": "30/1",
+  "audio_seconds": 88.766,
+  "audio_rate": "48000"
+ },
+ "takes_below_0.9": "none",
+ "sheet_times": [
+  1.6,
+  8.72,
+  10.31,
+  12.28,
+  14.41,
+  16.73,
+  19.98,
+  22.57,
+  25.77,
+  27.87,
+  30.7,
+  43.67,
+  79.93,
+  88.27
+ ],
+ "made_with": {
+  "python": "3.13.18",
+  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "playwright": "Version 1.63.0"
+ },
+ "seconds": 132.7
 }
