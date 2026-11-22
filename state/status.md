@@ -1,4 +1,4 @@
-# Post status 2026-11-22T23:43:43+00:00
+# Post status 2026-11-22T23:57:10+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -347,7 +347,7 @@
 | ep61-pisa | ar.youtube | sent |  | 2026-11-22T23:20:03.673Z https://www.youtube.com/shorts/-TsVabKrI9k |
 | ep61-pisa | en.instagram | sent |  | 2026-11-22T21:31:51.352Z https://www.instagram.com/reel/DgDxqEzByZ6/ |
 | ep61-pisa | en.tiktok | sent |  | 2026-11-22T21:31:13.030Z https://tiktok.com/@congratsengineer/video/7711111324666760462 |
-| ep61-pisa | en.youtube | scheduled |  | 2026-11-22T23:50:00.000Z |
+| ep61-pisa | en.youtube | sent |  | 2026-11-22T23:50:02.757Z https://www.youtube.com/shorts/QA33hM5A6gI |
 | ep62-tent | ar.instagram | sent |  | 2026-11-22T20:02:45.846Z https://www.instagram.com/reel/DgDndaSzUqa/ |
 | ep62-tent | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-22T20:30:00.000Z |
 | ep62-tent | en.instagram | scheduled |  | 2026-11-23T00:00:00.000Z |
@@ -374,3 +374,7 @@
 | sm02 | ar.tiktok | sent |  | 2026-11-22T18:31:37.817Z https://tiktok.com/@kef.tenbeni/video/7711064986436521229 |
 | sm02 | en.instagram | sent |  | 2026-11-22T20:16:16.547Z https://www.instagram.com/reel/DgDo_XSguAT/ |
 | sm02 | en.tiktok | sent |  | 2026-11-22T20:16:52.404Z https://tiktok.com/@congratsengineer/video/7711091895430024461 |
+| sm03 | ar.instagram | scheduled |  | 2026-11-23T18:30:00.000Z |
+| sm03 | ar.tiktok | scheduled |  | 2026-11-23T18:30:00.000Z |
+| sm03 | en.instagram | scheduled |  | 2026-11-23T20:15:00.000Z |
+| sm03 | en.tiktok | scheduled |  | 2026-11-23T20:15:00.000Z |
