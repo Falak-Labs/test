@@ -1420,3 +1420,9 @@
 - New call 2 in the guide stops by itself on a refusal (`.error-short` in the upload dialog); a thumbnail call for
   entries with `thumb`. Not yet run: the thumbnail call as a snippet, and handoff.py's push (its --no-push test with
   sm02's files passed).
+- Scheduled tasks after 21:55 PT Nov 21: the three daily ones were rewritten to this arrangement (midday 11:23,
+  show 13:17, evening 18:37 PT; none looks for a browser any more). The main chat's rounds: afternoon
+  trig_012mzGGsMXgjfgBJeBV4kwFM (Sun Nov 22 16:45 PT) and evening trig_01P7og3RBmFU4kwBMyfXFUFB (Sun 21:30 PT); each
+  round sets its own next day. An older check-in of the main chat stays at Sun 15:40 PT with its old wording
+  (trig_0116ag8a4Z6po2KjC929Z5CK; rewriting it was refused): when it fires, do the desk round as the guide says.
+  The project docs claude/build-it-money-plan.md and claude/build-it-4-minute-show.md carry the same facts.
