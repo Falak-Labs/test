@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-22T07:07:16+00:00
+# Yallah Say Buffer channels, checked 2026-11-22T07:30:46+00:00
 
 - ma: Buffer sees youtube (Yallah Say 🇲🇦), tiktok (yallah.say), instagram (yallahsayma)
 - ma.youtube: will post to Yallah Say 🇲🇦
@@ -9,6 +9,9 @@
 - ep02 ma.instagram: sent, sent 2026-11-22T07:01:39.127Z, https://www.instagram.com/reel/DgCNvCfmi1u/
 - ep02 ma.tiktok: sent, sent 2026-11-22T07:00:41.908Z, https://tiktok.com/@yallah.say/video/7710886883647065358
 - ep02 ma.youtube: sent, sent 2026-11-22T06:57:46.468Z, https://www.youtube.com/shorts/NRik6BrzJkQ
+- ep03 ma.instagram: sending, due 2026-11-22T07:27:31.000Z
+- ep03 ma.tiktok: sent, sent 2026-11-22T07:27:56.378Z, https://tiktok.com/@yallah.say/video/7710893842702060813
+- ep03 ma.youtube: sent, sent 2026-11-22T07:26:16.627Z, https://www.youtube.com/shorts/Qu5omoUzjFA
 - pa: Buffer sees youtube (Yalla Say 🇵🇸), tiktok (yallahsaypa), instagram (yallahsaypa)
 - pa.youtube: will post to Yalla Say 🇵🇸
 - pa.instagram: will post to yallahsaypa
@@ -19,3 +22,5 @@
 - ep02 pa.instagram: sent, sent 2026-11-22T07:02:39.153Z, https://www.instagram.com/reel/DgCOMJgMEhR/
 - ep02 pa.tiktok: sent, sent 2026-11-22T07:01:44.400Z, https://tiktok.com/@yallahsaypa/video/7710887184865266957
 - ep02 pa.youtube: sent, sent 2026-11-22T07:01:05.846Z, https://www.youtube.com/shorts/i-OiNOF_OeY
+- ep03 pa.instagram: sent, sent 2026-11-22T07:29:56.295Z, https://www.instagram.com/reel/DgCRT4nRUBj/
+- ep03 pa.tiktok: sent, sent 2026-11-22T07:29:11.475Z, https://tiktok.com/@yallahsaypa/video/7710894216800390413

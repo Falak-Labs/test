@@ -4,7 +4,7 @@
    "id": "6b029748d864a01105a50d09",
    "channel": "6b02347bece6dfde5f4e33e8",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sending",
    "dueAt": "2026-11-22T07:27:31.000Z",
    "planned": "2026-11-22T07:25:00+00:00",
    "created": "2026-11-22T07:18:31+00:00"
@@ -13,37 +13,45 @@
    "id": "6b029749846b0ee907698b74",
    "channel": "6b0259038541f09ecb5d0742",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T07:27:02.000Z",
    "planned": "2026-11-22T07:25:00+00:00",
-   "created": "2026-11-22T07:18:31+00:00"
+   "created": "2026-11-22T07:18:31+00:00",
+   "sentAt": "2026-11-22T07:27:56.378Z",
+   "link": "https://tiktok.com/@yallah.say/video/7710893842702060813"
   },
   "ma.youtube": {
    "id": "6b029749d864a01105a50d34",
    "channel": "6b0281668541f09ecb5f2b2c",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T07:26:06.000Z",
    "planned": "2026-11-22T07:25:00+00:00",
-   "created": "2026-11-22T07:18:31+00:00"
+   "created": "2026-11-22T07:18:31+00:00",
+   "sentAt": "2026-11-22T07:26:16.627Z",
+   "link": "https://www.youtube.com/shorts/Qu5omoUzjFA"
   },
   "pa.instagram": {
    "id": "6b02974acc364169c13665e4",
    "channel": "6b0255998541f09ecb5cf287",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T07:28:51.000Z",
    "planned": "2026-11-22T07:26:00+00:00",
-   "created": "2026-11-22T07:18:31+00:00"
+   "created": "2026-11-22T07:18:31+00:00",
+   "sentAt": "2026-11-22T07:29:56.295Z",
+   "link": "https://www.instagram.com/reel/DgCRT4nRUBj/"
   },
   "pa.tiktok": {
    "id": "6b02974ad864a01105a50d66",
    "channel": "6b0256a78541f09ecb5cf94e",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T07:28:22.000Z",
    "planned": "2026-11-22T07:26:00+00:00",
-   "created": "2026-11-22T07:18:31+00:00"
+   "created": "2026-11-22T07:18:31+00:00",
+   "sentAt": "2026-11-22T07:29:11.475Z",
+   "link": "https://tiktok.com/@yallahsaypa/video/7710894216800390413"
   },
   "pa.youtube": {
    "error": "You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.",
