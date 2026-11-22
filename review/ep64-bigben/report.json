@@ -1,0 +1,137 @@
+{
+ "slug": "ep64-bigben",
+ "kit": "bigben",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.17,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "14/233",
+   "mix_lines_off": [
+    "L 2 1 diff  | But the Astronomer Royal wants every hour struck right to the second, check twice a day.",
+    "L 7 2 diff  | So you make them from thin copper over 4 meters long on dial 7 meters wide.",
+    "L 8 2 diff  | But he and Cole still make it drift.",
+    "L 9 1 diff  | So you add old pennies to the pendulum. Each one makes it gain 4/10ths of a second a day.",
+    "L12 4 diff  | 7 meter dials, a bell of almost 14 tons and a 300 kilo pendulum.",
+    "L14 4 diff  | It's kept London on time for over 160 years and you still text on my way from bed."
+   ],
+   "size_mb": 15.8,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو كم قرش قديم يضبطون أشهر ساعة في العالم، مبروك، كذا سويت لك ساعة بيغ بن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الفلكي الملكي يبي كل ساعة تدق في ثانيتها بالضبط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتعلّق بندول طوله قرابة أربعة متر، يتك تكة كل ثانيتين.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس العقارب برا، وكل هبة ريح تدفّ التروس لين البندول.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتسوي ميزان بالجاذبية: ذراعين صغار يعطون البندول نفس الدفّة كل مرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس أول عقارب كانت حديد صب، ثقيلة والساعة ما قدرت تلفها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتسويها نحاس رقيق، أطول من أربعة متر، على وجه عرضه سبعة متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس الحر والبرد للحين يخلّونها تقدّم وتأخّر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتحط قروش قديمة على البندول، وكل قرش يسرّعها أقل من نص ثانية في اليوم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تضبط ساعتك، تابعني، لأن الجاي بنبني ناطحات سحاب من طين.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والمفاجأة: بيغ بن مو البرج، هو الجرس، انشق أول سنة، وللحين يدق مشقوق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "وجه الساعة سبعة متر، والجرس قرابة أربعطعش طن، والبندول ثلاثمية كيلو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك ساعة بيغ بن بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "ساعة مضبوطة من مية وستين سنة، وأنت إذا قلت: خمس دقايق وأكون عندك، يعني ساعة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 15.4,
+   "cover": true
+  }
+ }
+}

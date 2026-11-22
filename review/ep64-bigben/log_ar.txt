@@ -1,0 +1,7 @@
+bigben_ar_sa: 69.10s, 2073 frames
+cover out/bigben_ar_sa/cover.png: ['ساعة بيغ بن'] (frame 0 of the video)
+video done in 408s
+audio done
+final out/bigben_ar_sa/bigben_ar_sa_final.mp4
+QA  duration 69.10s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2073
+QA sheet out/bigben_ar_sa/qa_sheet.png
