@@ -1430,3 +1430,7 @@
   Chrome tools; tabs_context_mcp answered (the tab group was gone, as left) and list_connected_browsers showed
   "Browser 1" (Linux) connected and in use. No tab was opened. So the main chat's scheduled rounds can reach the
   owner's Chrome while it is open; a full upload from a wake-up is first tried on Sun Nov 22 (15:40 / 16:45 PT).
+- Check-in Sun Nov 22 03:20 PT (11:20Z, the evening run's trig_01HXvQXkoLfnQnSBb8xUQC2S): 58 and 59 Arabic Instagram +
+  TikTok sent (08:00Z, 11:00Z); every other 58-63 target scheduled for Sun PT (62/63 YouTube held), no failures.
+  post.yml added 63's Arabic TikTok (23:00Z); requeue put 54's Arabic TikTok at 01:30Z Nov 25. Arabic TikTok queue 10
+  of 10 until 60, 61 and sm02 go out (by 18:30Z), which leaves 3 for the midday run; 55, 37, 56 still in error.
