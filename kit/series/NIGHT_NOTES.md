@@ -1368,3 +1368,15 @@
 - Lessons: a wide, low subject (a tent) needs a tight camera that crops its sides; a white subject (the washer) vanished
   on light tiles, so the set went dark steel blue; run Whisper small on a closer whose name ends right before
   "yourself" (it blends) and test respellings with a throwaway English kit (free) before the real remake.
+- Produce: one slug per run, all three dispatched together at 03:50Z (renders landed 04:13-04:16Z). Final videos: pisa
+  EN 68.7 s / AR 69.7 s, tent EN 67.1 s / AR 70.7 s, washer EN 67.8 s / AR 72.1 s; all -14 LUFS, peaks -1.8 to -2.3
+  dBFS, covers in and inside the grid crop. Whisper small on the English mixes (tools: a 30-line script that builds
+  the episode's Timeline and cuts each beat from the mp4's audio): number formats and homophones, plus the tent hook's
+  "weave" heard as "leave"; the hook rain went from -14 to -23 dB and the English was rendered again (langs=en,
+  force=true, 04:36Z) but Whisper still writes "leave" (the caption carries it). CI's base.en mix check also writes
+  "Pisa" as "pizza" and "Bedouin tent" as "bedu intent": Whisper small hears both right on the voice and the mix.
+- Posts (state 04:46Z): 13 of 14 targets "scheduled" at their Sun Nov 22 PT slots (every dueAt turned back into PT):
+  61 all six (YouTube on Buffer EN 15:50, AR 15:20 PT), 62 and 63 four each minus 63's Arabic TikTok, which "waits"
+  (10 queued) until 58 has gone out: a send_later check-in at 11:20Z Nov 22 (trig_01HXvQXkoLfnQnSBb8xUQC2S) dispatches
+  post.yml and requeues 54's Arabic TikTok to 01:30Z Nov 25 if the queue has room. The midday run's own pushes also
+  add it. Pushed 61 after "pages build and deployment" for 199607d succeeded, 62 and 63 after the one for 6f6e540.
