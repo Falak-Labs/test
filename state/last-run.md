@@ -1,4 +1,4 @@
-# Last posting run 2026-11-22T04:23:24+00:00
+# Last posting run 2026-11-22T04:46:01+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -22,14 +22,20 @@
 - ep58-ferriswheel ar.youtube: on hold in posts/ep58-ferriswheel.yml
 - ep60-microwave en.youtube: on hold in posts/ep60-microwave.yml
 - ep60-microwave ar.youtube: on hold in posts/ep60-microwave.yml
-- ep61-pisa en.youtube: scheduled (Sun 22 Nov 23:50 UTC) id 6b026e3ec72676f5e90173e5
-- ep61-pisa en.instagram: scheduled (Sun 22 Nov 21:30 UTC) id 6b026e3ed864a01105978583
-- ep61-pisa en.tiktok: scheduled (Sun 22 Nov 21:30 UTC) id 6b026e3e846b0ee9075c38bd
-- ep61-pisa ar.youtube: scheduled (Sun 22 Nov 23:20 UTC) id 6b026e3fd864a011059785b4
-- ep61-pisa ar.instagram: scheduled (Sun 22 Nov 17:00 UTC) id 6b026e400247969092226f10
-- ep61-pisa ar.tiktok: scheduled (Sun 22 Nov 16:30 UTC) id 6b026e40cc364169c1288354
+- ep62-tent en.youtube: on hold in posts/ep62-tent.yml
+- ep62-tent en.instagram: scheduled (Mon 23 Nov 00:00 UTC) id 6b02738dcc364169c12a1815
+- ep62-tent en.tiktok: scheduled (Mon 23 Nov 00:00 UTC) id 6b02738d0247969092240883
+- ep62-tent ar.youtube: on hold in posts/ep62-tent.yml
+- ep62-tent ar.instagram: scheduled (Sun 22 Nov 20:00 UTC) id 6b02738fcc364169c12a1944
+- ep62-tent ar.tiktok: scheduled (Sun 22 Nov 20:30 UTC) id 6b02738fc72676f5e902de29
+- ep63-washer en.youtube: on hold in posts/ep63-washer.yml
+- ep63-washer en.instagram: scheduled (Mon 23 Nov 02:30 UTC) id 6b027391cc364169c12a1990
+- ep63-washer en.tiktok: scheduled (Mon 23 Nov 02:30 UTC) id 6b027392d5eabfb8cc81adc1
+- ep63-washer ar.youtube: on hold in posts/ep63-washer.yml
+- ep63-washer ar.instagram: scheduled (Sun 22 Nov 23:00 UTC) id 6b027393846b0ee9075dc265
+- ep63-washer ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - sm01-survival en.youtube: on hold in posts/sm01-survival.yml
 - sm02 en.youtube: on hold in posts/sm02.yml
 - sm02 ar.youtube: on hold in posts/sm02.yml
-- en: 5 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=145; t=898, "24h"; r=595; t=86398, "30d"; r=1361; t=1562973; ratelimit-policy="15m"; q=1
-- ar: 5 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=145; t=897, "24h"; r=595; t=86397, "30d"; r=1302; t=1569101; ratelimit-policy="15m"; q=1
+- en: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=892, "24h"; r=580; t=85035, "30d"; r=1346; t=1561610; ratelimit-policy="15m"; q=1
+- ar: 5 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=145; t=892, "24h"; r=582; t=85034, "30d"; r=1289; t=1567738; ratelimit-policy="15m"; q=1

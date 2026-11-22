@@ -1,4 +1,4 @@
-# Post status 2026-11-22T04:23:34+00:00
+# Post status 2026-11-22T04:46:19+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -267,7 +267,7 @@
 | ep44-falaj | en.tiktok | sent |  | 2026-11-19T05:41:53.378Z https://www.tiktok.com/@congratsengineer/video/7709753115062439182?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep44-falaj | en.youtube | sent |  | 2026-11-21T03:12:31.434Z https://www.youtube.com/shorts/GZxL7fZkwJg |
 | ep45-machupicchu | ar.instagram | sent |  | 2026-11-19T23:03:14.106Z https://www.instagram.com/reel/Df8Ns1YhtSj/ |
-| ep45-machupicchu | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-22T04:30:00.000Z |
+| ep45-machupicchu | ar.tiktok | sent |  | 2026-11-22T04:30:57.587Z https://tiktok.com/@kef.tenbeni/video/7710848450694286605 |
 | ep45-machupicchu | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T23:00:00.000Z |
 | ep45-machupicchu | en.instagram | sent |  | 2026-11-20T02:31:30.495Z https://www.instagram.com/reel/Df8liWLvOKJ/ |
 | ep45-machupicchu | en.tiktok | sent |  | 2026-11-19T05:41:59.472Z https://www.tiktok.com/@congratsengineer/video/7709753097454767374?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
@@ -348,6 +348,13 @@
 | ep61-pisa | en.instagram | scheduled |  | 2026-11-22T21:30:00.000Z |
 | ep61-pisa | en.tiktok | scheduled |  | 2026-11-22T21:30:00.000Z |
 | ep61-pisa | en.youtube | scheduled |  | 2026-11-22T23:50:00.000Z |
+| ep62-tent | ar.instagram | scheduled |  | 2026-11-22T20:00:00.000Z |
+| ep62-tent | ar.tiktok | scheduled |  | 2026-11-22T20:30:00.000Z |
+| ep62-tent | en.instagram | scheduled |  | 2026-11-23T00:00:00.000Z |
+| ep62-tent | en.tiktok | scheduled |  | 2026-11-23T00:00:00.000Z |
+| ep63-washer | ar.instagram | scheduled |  | 2026-11-22T23:00:00.000Z |
+| ep63-washer | en.instagram | scheduled |  | 2026-11-23T02:30:00.000Z |
+| ep63-washer | en.tiktok | scheduled |  | 2026-11-23T02:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://tiktok.com/@congratsengineer/video/7710759443809553677 |
 | sm02 | ar.instagram | scheduled |  | 2026-11-22T18:30:00.000Z |
