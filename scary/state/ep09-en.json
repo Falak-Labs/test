@@ -1,0 +1,13 @@
+{
+ "targets": {
+  "en.instagram": {
+   "id": "6b0323b5d864a01105df9978",
+   "channel": "6b0287c28541f09ecb5f9e1b",
+   "service": "instagram",
+   "status": "scheduled",
+   "dueAt": "2026-11-23T02:10:38.000Z",
+   "planned": "2026-11-22T18:10:00-08:00",
+   "created": "2026-11-22T17:17:39+00:00"
+  }
+ }
+}
