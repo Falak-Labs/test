@@ -23,3 +23,12 @@ Channels: Yallah Say MA @YallahSayMa (UC_c7QhlukkSAR-qHKeSvkPA), Yallah Say PS @
 - Yallah Say MA: Standard, Intermediate and Advanced are all Enabled.
 - Yallah Say PS: Standard Enabled; Intermediate and Advanced only "Eligible". Advanced is what gives "increased daily
   video uploads" and "eligibility to apply for monetization". Only the owner can do that verification.
+
+## Nov 22 2026 uploads (all public, through Studio; uploaded private first, then made public after YouTube's checks)
+- Shorts, lessons 4-6. ma: 8byi4cMX_e4 (ep04), U943H7A5JFE (ep05), ULaVuOqQkJA (ep06). pa: 8ieOrmdPHkc, X9VH1wgLALs, Od1RqWcZcvo.
+- Long videos (about 4:30, 16:9, the three Shorts of the day joined over a blurred background): "day 1" = lessons 1-3, "day 2" = lessons 4-6.
+  ma: ZDxMPceOSA0 is pa day 1; ma day 1 EhVkwfbWDjQ, ma day 2 -MKXTwc9m2k; pa day 1 ZDxMPceOSA0, pa day 2 6j380VBMtUs.
+- Day 3 long videos (lessons 7-9) are on the yallah-media branch as yallah-say-ma-long3.mp4 and yallah-say-pa-long3.mp4, not uploaded yet.
+- YouTube's checks take 5 to 10 minutes per video: publishing sooner gives a warning about limited visibility. Upload as private, switch to public later.
+- Studio's /video/<id>/edit page works for either channel while the login holds both.
+- post_due.py retries a YouTube target that failed on Buffer's 2-a-day limit: if the same Short was already uploaded through Studio, mark that target "sent" in yallah/state/<ep>.json first, or it is sent twice.
