@@ -10,8 +10,8 @@ on:
       channels:
         description: "true = only list the channels each Buffer key sees (nothing is posted)"
         default: "false"
-  # schedule:                     # switched on once the Buffer keys exist and the first videos are approved
-  #   - cron: "*/10 * * * *"
+  schedule:
+    - cron: "*/10 * * * *"
 permissions:
   contents: write
 concurrency:
