@@ -1,0 +1,178 @@
+{
+ "title": "At the restaurant",
+ "word": {
+  "full": "Restaurant",
+  "parts": [
+   "Res",
+   "tau",
+   "rant"
+  ],
+  "say": [
+   "RES",
+   "tuh",
+   "rahnt"
+  ],
+  "tts": [
+   "Res",
+   "Tuh",
+   "Rant"
+  ],
+  "mean": "المطعم",
+  "ar": {
+   "ma": "ريستورنت",
+   "pa": "ريستورنت"
+  }
+ },
+ "en": [
+  [
+   "A table for two, please.",
+   "A",
+   "table2",
+   {}
+  ],
+  [
+   "Can I see the menu?",
+   "L",
+   "menu",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "What do you recommend?",
+   "A",
+   "what",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "The bill, please.",
+   "L",
+   "bill",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Salam! Wach kat3ref tgoul «l-mat3am» b-l-inglizia?",
+    "سلام! واش كتعرف تقول «المطعم» بالإنجليزية؟",
+    "Do you know how to say “restaurant” in English?"
+   ],
+   [
+    "L-jawab f-l-akher. Yallah!",
+    "الجواب فالآخر. يالله!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "المطعم",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Tabla dial juj, 3afak.",
+    "طابلة ديال جوج، عافاك."
+   ],
+   [
+    "Momken nchouf l-menu?",
+    "ممكن نشوف المنيو؟"
+   ],
+   [
+    "Chnou kat-nasa7ni?",
+    "شنو كتنصحني؟"
+   ],
+   [
+    "L-7isab, 3afak.",
+    "الحساب، عافاك."
+   ],
+   [
+    "Fin kayn l-bit l-ma?",
+    "فين كاين بيت الما؟"
+   ]
+  ],
+  "sent": {
+   "en": "This restaurant makes the best tajine in Marrakech!",
+   "hot": [
+    1
+   ],
+   "dz": "Had l-mat3am kaydir ahsen tajine f-Marrakech!",
+   "ar": "هاد المطعم كيدير أحسن طاجين فمراكش!"
+  },
+  "ah": [
+   "ريس",
+   "تو",
+   "رانت"
+  ],
+  "ph5": [
+   "Where is the toilet?",
+   "A",
+   "wc",
+   {
+    "q": 1
+   }
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Marhaba! Bti3raf kif tihki «el-mat3am» bil-inglizi?",
+    "مرحبا! بتعرف كيف تحكي «المطعم» بالإنجليزي؟",
+    "Do you know how to say “restaurant” in English?"
+   ],
+   [
+    "El-jawab bil-akher. Yalla!",
+    "الجواب بالآخر. يلا!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "المطعم",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Tawle la-itnain, law samaht.",
+    "طاولة لإثنين، لو سمحت."
+   ],
+   [
+    "Mumkin ashuf el-menu?",
+    "ممكن أشوف المنيو؟"
+   ],
+   [
+    "Shu btansa7ni?",
+    "شو بتنصحني؟"
+   ],
+   [
+    "El-hisab, law samaht.",
+    "الحساب، لو سمحت."
+   ],
+   [
+    "Wein el-hammam?",
+    "وين الحمام؟"
+   ]
+  ],
+  "sent": {
+   "en": "This restaurant makes the best knafeh in Nablus!",
+   "hot": [
+    1
+   ],
+   "dz": "Hay el-mat3am bi3mal ahsan knafeh bi-Nablus!",
+   "ar": "هاي المطعم بيعمل أحسن كنافة بنابلس!"
+  },
+  "ah": [
+   "ريس",
+   "تو",
+   "رانت"
+  ],
+  "ph5": [
+   "Where is the toilet?",
+   "A",
+   "wc",
+   {
+    "q": 1
+   }
+  ]
+ }
+}

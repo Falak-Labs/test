@@ -1,0 +1,173 @@
+{
+ "title": "At the café",
+ "word": {
+  "full": "Breakfast",
+  "parts": [
+   "Break",
+   "fast"
+  ],
+  "say": [
+   "BREK",
+   "fust"
+  ],
+  "tts": [
+   "Brek",
+   "Fust"
+  ],
+  "mean": "الفطور",
+  "ar": {
+   "ma": "بريكفاست",
+   "pa": "بريكفاست"
+  }
+ },
+ "en": [
+  [
+   "One coffee, please.",
+   "A",
+   "coffee",
+   {}
+  ],
+  [
+   "With sugar?",
+   "L",
+   "what",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "No sugar, thanks.",
+   "A",
+   "cross",
+   {}
+  ],
+  [
+   "Can I pay by card?",
+   "L",
+   "coins",
+   {
+    "q": 1
+   }
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Salam! Wach kat3ref tgoul «l-ftour» b-l-inglizia?",
+    "سلام! واش كتعرف تقول «الفطور» بالإنجليزية؟",
+    "Do you know how to say “ftour” in English?"
+   ],
+   [
+    "L-jawab f-l-akher. Yallah!",
+    "الجواب فالآخر. يالله!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الفطور",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Qhwa wa7da, 3afak.",
+    "قهوة وحدة، عافاك."
+   ],
+   [
+    "B-sokkar?",
+    "بالسكر؟"
+   ],
+   [
+    "Bla sokkar, choukran.",
+    "بلا سكر، شكرا."
+   ],
+   [
+    "Momken nkhlless b-l-carta?",
+    "ممكن نخلص بالكارطا؟"
+   ],
+   [
+    "Chnou hiya kelmet s-sirr dial l-wifi?",
+    "شنو هي كلمة السر ديال الوايفاي؟"
+   ]
+  ],
+  "sent": {
+   "en": "Moroccan breakfast: msemen, honey and mint tea!",
+   "hot": [
+    1
+   ],
+   "dz": "Ftour mghribi: msemen, 3sel w atay!",
+   "ar": "فطور مغربي: مسمن، عسل و أتاي!"
+  },
+  "ah": [
+   "بريك",
+   "فاست"
+  ],
+  "ph5": [
+   "What's the wifi password?",
+   "A",
+   "wifi",
+   {
+    "q": 1
+   }
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Marhaba! Bti3raf kif tihki «el-futur» bil-inglizi?",
+    "مرحبا! بتعرف كيف تحكي «الفطور» بالإنجليزي؟",
+    "Do you know how to say “futur” in English?"
+   ],
+   [
+    "El-jawab bil-akher. Yalla!",
+    "الجواب بالآخر. يلا!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الفطور",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Finjan ahwe, law samaht.",
+    "فنجان قهوة، لو سمحت."
+   ],
+   [
+    "B-sukkar?",
+    "بسكر؟"
+   ],
+   [
+    "Bidoun sukkar, shukran.",
+    "بدون سكر، شكرا."
+   ],
+   [
+    "Mumkin adfa3 bil-karte?",
+    "ممكن أدفع بالكرت؟"
+   ],
+   [
+    "Shu kalimet es-sirr lil-wifi?",
+    "شو كلمة السر للوايفاي؟"
+   ]
+  ],
+  "sent": {
+   "en": "Palestinian breakfast: za'atar, olive oil and bread!",
+   "hot": [
+    1
+   ],
+   "dz": "Fatour filastini: za3tar, zeit w khubez!",
+   "ar": "فطور فلسطيني: زعتر، زيت و خبز!"
+  },
+  "ah": [
+   "بريك",
+   "فاست"
+  ],
+  "ph5": [
+   "What's the wifi password?",
+   "A",
+   "wifi",
+   {
+    "q": 1
+   }
+  ]
+ }
+}

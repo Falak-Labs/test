@@ -1,0 +1,170 @@
+{
+ "title": "I'm hungry",
+ "word": {
+  "full": "Vegetables",
+  "parts": [
+   "Veg",
+   "ta",
+   "bles"
+  ],
+  "say": [
+   "VEJ",
+   "tuh",
+   "bulz"
+  ],
+  "tts": [
+   "Vej",
+   "Tuh",
+   "Bulz"
+  ],
+  "mean": "الخضر",
+  "ar": {
+   "ma": "فيجتابلز",
+   "pa": "فيجتابلز"
+  }
+ },
+ "en": [
+  [
+   "I'm hungry.",
+   "A",
+   "yum",
+   {}
+  ],
+  [
+   "I'm thirsty.",
+   "L",
+   "water",
+   {}
+  ],
+  [
+   "I'd like chicken.",
+   "A",
+   "chicken",
+   {}
+  ],
+  [
+   "It's delicious!",
+   "L",
+   "heart",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Salam! Wach kat3ref tgoul «l-khodra» b-l-inglizia?",
+    "سلام! واش كتعرف تقول «الخضرة» بالإنجليزية؟",
+    "Do you know how to say “khodra” in English?"
+   ],
+   [
+    "L-jawab f-l-akher. Yallah!",
+    "الجواب فالآخر. يالله!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الخضر",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Ana jay3an.",
+    "أنا جيعان."
+   ],
+   [
+    "Ana 3tchan.",
+    "أنا عطشان."
+   ],
+   [
+    "Bghit djaj.",
+    "بغيت دجاج."
+   ],
+   [
+    "Bnina bzaf!",
+    "بنينة بزاف!"
+   ],
+   [
+    "L-ma, 3afak.",
+    "الما، عافاك."
+   ]
+  ],
+  "sent": {
+   "en": "Couscous with seven vegetables!",
+   "hot": [
+    3
+   ],
+   "dz": "Seksou b-seb3a khodra!",
+   "ar": "الكسكس بسبع خضر!"
+  },
+  "ah": [
+   "فيج",
+   "تا",
+   "بلز"
+  ],
+  "ph5": [
+   "Water, please.",
+   "A",
+   "water",
+   {}
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Marhaba! Bti3raf kif tihki «el-khudra» bil-inglizi?",
+    "مرحبا! بتعرف كيف تحكي «الخضرة» بالإنجليزي؟",
+    "Do you know how to say “khudra” in English?"
+   ],
+   [
+    "El-jawab bil-akher. Yalla!",
+    "الجواب بالآخر. يلا!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الخضر",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Ana jou3an.",
+    "أنا جوعان."
+   ],
+   [
+    "Ana 3atshan.",
+    "أنا عطشان."
+   ],
+   [
+    "Biddi djaj.",
+    "بدي دجاج."
+   ],
+   [
+    "Ktir zaki!",
+    "كتير زاكي!"
+   ],
+   [
+    "Mayy, law samaht.",
+    "مي، لو سمحت."
+   ]
+  ],
+  "sent": {
+   "en": "Maqluba: rice, chicken and vegetables!",
+   "hot": [
+    4
+   ],
+   "dz": "Maqlouba: ruzz, djaj w khudra!",
+   "ar": "مقلوبة: رز، دجاج و خضرة!"
+  },
+  "ah": [
+   "فيج",
+   "تا",
+   "بلز"
+  ],
+  "ph5": [
+   "Water, please.",
+   "A",
+   "water",
+   {}
+  ]
+ }
+}
