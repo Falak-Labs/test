@@ -75,9 +75,9 @@ Rules:
 58. idea: a giant Ferris wheel (Ain Dubai / the London Eye) (taken: midday run of 2026-11-21)
 59. idea: the Statue of Liberty (a copper skin on an iron frame) (taken: midday run of 2026-11-21)
 60. idea: a microwave oven (taken: midday run of 2026-11-21)
-61. idea: the Leaning Tower of Pisa (why it leans and still stands)
-62. idea: a Bedouin goat-hair tent (bait al-sha'ar) that keeps out rain and sun
-63. idea: a washing machine
+61. idea: the Leaning Tower of Pisa (why it leans and still stands) (taken: evening run of 2026-11-21)
+62. idea: a Bedouin goat-hair tent (bait al-sha'ar) that keeps out rain and sun (taken: evening run of 2026-11-21)
+63. idea: a washing machine (taken: evening run of 2026-11-21)
 64. idea: Big Ben's clock (old pennies on the pendulum keep it on time)
 65. idea: Shibam in Yemen, the mud-brick skyscraper city
 66. idea: London's Tower Bridge that lifts its road
