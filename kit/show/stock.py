@@ -22,7 +22,7 @@ for e in eps:
         continue
     if not os.path.exists(os.path.join(ROOT, "kit/series/voice", kit + "_ar_sa.json")):
         continue                                          # its Arabic is not made yet
-    g = ("Saudi, Mansour (ElevenLabs ar_alt)" if kit in alt else "Egyptian (ElevenLabs ar)" if n >= 24 else
+    g = ("Saudi, Mansour (ElevenLabs ar_alt)" if kit in alt or n >= 64 else "Egyptian (ElevenLabs ar)" if n >= 24 else
          "builds 21-23 (their own ElevenLabs voices: check before mixing)" if n >= 21 else
          "Saudi, NAMAA (builds 6-20; give the show's own lines to Mansour)")
     groups.setdefault(g, []).append(f"{n} {kit}")
