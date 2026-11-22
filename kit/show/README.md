@@ -63,12 +63,21 @@ chapter times for the YouTube description. The files to post are `<work>/<id>-<l
 `<work>/<lang>/thumbnail.jpg`.
 
 ## 5. Post
-- Shorts to TikTok + Instagram: copy to `media/<id>-<lang>.mp4`, write `posts/<id>.yml` like `posts/sm02.yml`
-  (`hold: [en.youtube, ar.youtube]` for good; a fixed `at:` after the full video's publish time; Arabic TikTok text
-  without the word YouTube).
-- YouTube (the full video and the short): Buffer cannot post a video over 3 minutes and its free plan sends 2
-  YouTube posts per 24 hours, which the builds use. Upload in YouTube Studio through the owner's Chrome (Claude in
-  Chrome). The steps and the selectors are in `series/NIGHT_NOTES.md` (Nov 21 2026). Switch the account to the right
-  channel first and back afterwards. Publishing needs the owner's yes in the chat unless he has given it for that day.
-- If his Chrome is not connected: leave the files ready, say so, and do not post the shorts (they promise the full
-  video).
+A scheduled run has no browser, so it cannot upload to YouTube. It hands the episode to the main chat, which uploads
+in YouTube Studio at about 16:45 PT (and again at 21:30 PT if needed): YOUTUBE_STUDIO_UPLOAD.md, "The desk".
+1. Shorts: copy them to `media/<id>-en.mp4` and `media/<id>-ar.mp4`. Write `posts/<id>.yml` like `posts/sm02.yml`
+   (a fixed `at:` after the full video's publish time; Arabic TikTok text without the word YouTube), but with ALL six
+   targets on hold: `hold: [en.youtube, ar.youtube, en.instagram, en.tiktok, ar.instagram, ar.tiktok]`. The shorts
+   promise the full video, so the main chat takes TikTok and Instagram off hold only after the YouTube uploads
+   (`scripts/yt_desk.py release <id>`). The two YouTube targets stay on hold for good.
+2. What YouTube shows: write `show/youtube/<id>.yml` (copy `show/youtube/sm02.yml`): the date (TOMORROW in Pacific
+   time), six chapter labels per language, and per language the full video's and the short's time, title and
+   description. Full: title under 75 characters, a description that opens with the hook, then `{chapters}` on its own
+   line (the script fills in the times), then two or three lines of real facts and "Subscribe, or the boss wins."
+   Short: a title, two lines that name the full episode, "#Shorts". Times: Arabic full 09:00, English full 10:00,
+   Arabic short 10:30, English short 12:15.
+3. Commit and push main (media, posts, spec, lines, the youtube file), then `python3 show/handoff.py <id> <work>`
+   from `kit/`. It checks the files and the texts, puts the two full cuts, the two thumbnails and the upload sheet on
+   the `show` branch, and prints the four videos with their times. `curl -sI` the link it prints: 200.
+4. Tell the owner what goes out when, and that YouTube waits for the main chat's upload round.
+The Studio steps themselves (for a chat that has the browser) are in the guide at the repo root.

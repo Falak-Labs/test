@@ -790,7 +790,10 @@ def qa(out, name, plan):
     print(f"QA  duration {d:.2f} s ({int(d // 60)}:{d % 60:04.1f})  loudness {i_lufs} LUFS  true peak {peak} dBFS  "
           f"size {os.path.getsize(final) / 1e6:.1f} MB  frames {plan.frames}")
     marks = [("cold", None)] + [("card", i) for i in plan.levels] + ([("end", None)] if plan.has("end") else [])
-    print("chapters: " + "  ".join(f"{int(plan.seg(k, i)['start'] / FPS // 60)}:{int(plan.seg(k, i)['start'] / FPS % 60):02d}" for k, i in marks))
+    chapters = [f"{int(plan.seg(k, i)['start'] / FPS // 60)}:{int(plan.seg(k, i)['start'] / FPS % 60):02d}" for k, i in marks]
+    print("chapters: " + "  ".join(chapters))
+    with open(os.path.join(out, "qa.json"), "w") as f:         # show/handoff.py reads the chapter times from here
+        json.dump({"duration": round(d, 2), "lufs": float(i_lufs), "peak": float(peak), "chapters": chapters}, f, indent=1)
 
 
 def copy(out, name, variant, work):

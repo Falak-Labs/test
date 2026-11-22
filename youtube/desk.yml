@@ -1,0 +1,19 @@
+# The YouTube desk: settings for scripts/yt_desk.py and for the daily runs.
+#
+# verified: false until the owner has done YouTube's one-time verification on BOTH Congrats Engineer and Kef Tenbeni
+# (Studio > Settings > Channel > Feature eligibility > Advanced features: a video selfie or an ID). Only the channel
+# owner can do it; no chat may click "Verify" or enter anything there. Set it to true when he says it is done and
+# Studio shows "Advanced features: Enabled" on both channels. Then the two limits below no longer apply, nothing goes
+# to YouTube through Buffer any more, and every build is uploaded in Studio.
+verified: false
+
+# While verified is false. Nov 21 2026: Studio answered "Daily upload limit reached. Upload more videos daily after a
+# one-time verification or wait 24 hours." on both channels after 10 uploads by the owner's login in under a day (6 on
+# Congrats Engineer, 4 on Kef Tenbeni). The same evening his other new channels were refused too, and his one verified
+# channel was not. So count on about 10 uploads per rolling 24 hours for ALL his unverified channels together.
+# per_day: Build-It's Studio uploads per Pacific day: the show's four (full + short, English + Arabic) and one build in
+#          both languages. That leaves 2 for his other channels and 2 spare, because the 24 hours roll.
+# rolling: never more than this many of our own uploads inside any 24 hours (a round that starts earlier than
+#          yesterday's waits a few minutes for yesterday's uploads to leave the 24 hours).
+per_day: 6
+rolling: 8

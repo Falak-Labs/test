@@ -24,20 +24,26 @@ Rules:
   numbers as spoken words, the same 13 lines and fact checks as the English. Write each line to be read aloud by one
   calm Saudi narrator at about 2.2 words a second; keep qaf natural. Check with tools/check_ar_voice.py and fix any
   line over 10% before producing.
-- YouTube (owner, Nov 21 16:10 PT, once uploads through YouTube Studio worked: "let's keep buffer then for IG and TK"):
-  Buffer posts ONLY Instagram and TikTok. EVERY build goes to YouTube Shorts in both languages through YouTube Studio in
-  the owner's Chrome, scheduled there for the build's own slot, so every posts file carries
-  `hold: [en.youtube, ar.youtube]`. How: YOUTUBE_STUDIO_UPLOAD.md at the repo root, section "Builds". After the produce
-  runs, when the videos are on main and the posts files are written: `python3 scripts/yt_meta.py <slug> <slug> <slug>
-  > sheet.json`, push the sheet to the `uploads` branch, then per language switch Studio to the channel and run the
-  guide's two calls per video. Each answer must say "Your video will be set to public on <TOMORROW> at <the slot>".
-  Switch Studio back to the channel you found, close your tab, empty the `uploads` branch. YouTube itself allowed
-  about 10 uploads per channel per 24 hours on Nov 10-12; six builds plus the show's two is 8.
-  FALLBACK, for that run only: if the browser cannot be reached (no Claude in Chrome tools in your session, no browser
-  connected, a refused call, a sign-in or verification page), post YouTube through Buffer the old way: the 2 strongest
-  builds of the PT day per channel (Buffer's free plan sends 2 YouTube posts per channel in any rolling 24 hours and
-  counts failed ones: check with cmd=limits, never a third), `hold` on the rest, and say in your message that Studio
-  was out of reach. Never type a password or a code.
+- YouTube (owner, Nov 21 16:10 PT: "let's keep buffer then for IG and TK"; rule rewritten Nov 21 21:45 PT after two
+  findings). (1) A scheduled run has NO browser, so a run never uploads to YouTube Studio: the main chat does it twice
+  a day, about 16:45 and 21:30 PT (YOUTUBE_STUDIO_UPLOAD.md, "The desk"). (2) YouTube limits uploads: about 10 per
+  rolling 24 hours for all the owner's unverified channels together, until HE does YouTube's one-time verification
+  (he was told on Nov 21). `youtube/desk.yml` says `verified: false` until that is done. While it is false, each run
+  ranks its three builds by how strong the topic is (famous places and everyday things first, see
+  claude/build-it-performance.md) and posts them like this:
+  - Build #1: YouTube through Buffer in both languages, as before Nov 21. Buffer's free plan sends 2 YouTube posts
+    per channel in any rolling 24 hours and counts failed ones, so ONE build per run: give it a per-platform
+    `at: {default: ..., youtube: ...}` that `tools.yml cmd=limits` and the state files show to be free (the notes of
+    the runs of Nov 21 show the arithmetic). Never a third post in a window.
+  - Build #2: `hold: [en.youtube, ar.youtube]` plus the top-level line `studio: 1` in its posts file. The main chat
+    uploads it in Studio, scheduled at the build's own slot.
+  - Build #3: the same hold plus `studio: 2`. It is uploaded only when the day's limit has room; otherwise it stays
+    off YouTube.
+  When `youtube/desk.yml` says `verified: true`: all three builds get the hold and `studio: 1`, and no YouTube post
+  goes through Buffer any more.
+  Step 0 of every run: `python3 scripts/yt_desk.py check`. OVERDUE lines mean the main chat's upload did not happen:
+  put them at the top of your message to the owner and do not try to repair it yourself.
+  Never type a password or a code, and never click "Verify" on a YouTube page.
 - Captions (owner, Nov 19 21:18 PT): config.yml cta now ends English Instagram + TikTok and Arabic Instagram captions with
   "Follow us on YouTube ... @congratsengineer / @kef.tenbeni". It is added by post.py; do not write it into `text:`.
   Arabic TikTok is left out on purpose (spam refusals). Money plan and platform rules: project doc
@@ -47,9 +53,11 @@ Rules:
   shorts too"). It has its own daily task ("Build-It 4-minute show") and its own guide, kit/show/README.md; the two
   build runs do not make it. What the build runs must know: its files are posts/sm*.yml + media/sm*-en.mp4 /
   media/sm*-ar.mp4 (the 1-2 minute cuts for TikTok + Instagram). Leave them alone: retire a media/sm* file only when
-  its TikTok and Instagram posts are all sent, and never take a YouTube target of a posts/sm*.yml off hold (its full
-  video and its Short go up in YouTube Studio, not through Buffer, so the show uses none of Buffer's two YouTube posts
-  per 24 hours). Its TikTok and Instagram posts do count toward Buffer's 10 queued posts per channel.
+  its TikTok and Instagram posts are all sent, and never take ANY target of a posts/sm*.yml off hold: its full
+  video and its Short go up in YouTube Studio through the main chat (so the show uses none of Buffer's two YouTube
+  posts per 24 hours), and its TikTok and Instagram targets start on hold too, until the main chat has uploaded the
+  full video and releases them (`scripts/yt_desk.py release`). Once released, its TikTok and Instagram posts count
+  toward Buffer's 10 queued posts per channel, so leave room for two of them in each Arabic and English queue.
 - Entries marked "idea" are proposals: check them with a web search before writing; replace one only if it is not
   promised yet and the facts do not hold up.
 

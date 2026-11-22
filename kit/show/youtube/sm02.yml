@@ -1,0 +1,49 @@
+# What YouTube shows for Survival Mode 2: You vs Water. show/handoff.py turns this into the upload sheet.
+# FORMAT EXAMPLE: episode 2 itself was uploaded by hand on Nov 21, before this file existed, so its words in Studio
+# differ a little. Copy the shape, write new words for every episode.
+date: 2026-11-22                 # the Pacific day it goes public = TOMORROW, seen from the run
+chapters:                        # one label per chapter mark: the intro, the four levels, the results
+  en: ["No boat. No bridge. No dry land.", "Level 1: Panama vs the mountains", "Level 2: Venice vs the mud",
+       "Level 3: the Nile vs the flood", "Final level: Dubai vs the storm", "Results"]
+  ar: ["من غير مركب ولا كوبري", "المرحلة الأولى: بنما والجبال", "المرحلة التانية: فينيسيا والطين",
+       "المرحلة التالتة: النيل والفيضان", "المرحلة الأخيرة: دبي والعاصفة", "النتيجة"]
+en:
+  full:
+    time: "10:00"                # Pacific
+    title: "Survival Mode: You vs Water 🌊 Lift Ships, Hold a City, Stop a Flood"      # under 75 characters
+    desc: |
+      No boat. No bridge. No dry land. Four levels, four bosses made of water, and you beat them with rain, wood, rock and sand.
+
+      {chapters}
+
+      Every level is a real build: the Panama Canal locks lift ships 26 m with no pumps, Venice stands on wooden piles in soft mud, the Aswan High Dam holds the Nile's flood, and Palm Jumeirah is 94 million cubic metres of sand behind an 11 km rock wall.
+
+      New episode every day. Subscribe, or the boss wins.
+      #engineering #survival #howitworks
+  short:
+    time: "12:15"
+    title: "Ships That Climb Mountains ⛰️ Survival Mode: You vs Water"
+    desc: |
+      Level 1 of 4: Panama. Two oceans and a wall of mountains between them, so you lift whole ships up a staircase using only rain.
+      The full episode with all four levels is on this channel: "Survival Mode: You vs Water".
+      #Shorts #engineering #survival
+ar:
+  full:
+    time: "09:00"                # 20:00 in Riyadh
+    title: "طور البقاء: انت ضد المية 🌊 أربع مراحل وأربع زعماء"
+    desc: |
+      من غير مركب. من غير كوبري. من غير أرض ناشفة. أربع مراحل وأربع زعماء من المية، وانت بتغلبهم بالمطر والخشب والصخر والرمل.
+
+      {chapters}
+
+      كل مرحلة بناء حقيقي: هويس قناة بنما بيرفع المراكب ستة وعشرين متر من غير طلمبات، وفينيسيا واقفة على عواميد خشب في الطين، والسد العالي ماسك فيضان النيل، ونخلة جميرا رمل ورا هلال صخر.
+
+      حلقة جديدة كل يوم. اشترك، ولا الزعيم يكسب.
+      #هندسة #طور_البقاء #كيف_تنبني
+  short:
+    time: "10:30"
+    title: "مراكب بتطلع الجبل ⛰️ طور البقاء: انت ضد المية"
+    desc: |
+      المرحلة الأولى من أربعة: بنما. محيطين وبينهم سور من الجبال، فتطلّع المراكب سلم كامل بمية المطر بس.
+      الحلقة الكاملة بالأربع مراحل على القناة: "طور البقاء: انت ضد المية".
+      #Shorts #هندسة #طور_البقاء

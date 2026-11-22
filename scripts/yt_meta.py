@@ -16,27 +16,35 @@ CHANNELS = {"en": ("Congrats Engineer", "UCDkfxHa7q5Ea0OoiSSi8DHA", "English"),
 PT = ZoneInfo("America/Los_Angeles")
 
 
+def entries(slug, cfg=None, langs=None):
+    """The sheet entries of one posts file, keyed "<slug>-<lang>"."""
+    cfg = cfg or post.load_yaml(os.path.join(post.ROOT, "config.yml"))
+    ep = post.load_yaml(os.path.join(post.ROOT, "posts", slug + ".yml"))
+    out = {}
+    for lang, (channel, cid, language) in CHANNELS.items():
+        if lang not in ep or not ep["video"].get(lang) or (langs and lang not in langs):
+            continue
+        when = post.fixed_time(ep, "youtube", lang)
+        if when is None:
+            raise SystemExit(f"{slug} {lang}: no at: time in the posts file")
+        t = when.astimezone(PT)
+        title = ep[lang]["title"][:100]
+        desc = post.caption_for(cfg, ep, lang, "youtube")
+        issues = post.check_post("youtube", title, desc)
+        if issues:
+            raise SystemExit(f"{slug} {lang}: {'; '.join(issues)}")
+        out[f"{slug}-{lang}"] = {
+            "url": cfg["raw_base"].rstrip("/") + "/" + ep["video"][lang], "channel": channel, "channel_id": cid,
+            "language": language, "kind": "build", "title": title, "desc": desc, "date": f"{t:%b} {t.day}, {t.year}",
+            "time": f"{t.hour % 12 or 12}:{t.minute:02d} {'AM' if t.hour < 12 else 'PM'}", "utc": when.strftime("%Y-%m-%dT%H:%MZ")}
+    return out
+
+
 def main():
     cfg = post.load_yaml(os.path.join(post.ROOT, "config.yml"))
     out = {}
     for slug in sys.argv[1:]:
-        ep = post.load_yaml(os.path.join(post.ROOT, "posts", slug + ".yml"))
-        for lang, (channel, cid, language) in CHANNELS.items():
-            if lang not in ep or not ep["video"].get(lang):
-                continue
-            when = post.fixed_time(ep, "youtube", lang)
-            if when is None:
-                raise SystemExit(f"{slug} {lang}: no at: time in the posts file")
-            t = when.astimezone(PT)
-            title = ep[lang]["title"][:100]
-            desc = post.caption_for(cfg, ep, lang, "youtube")
-            issues = post.check_post("youtube", title, desc)
-            if issues:
-                raise SystemExit(f"{slug} {lang}: {'; '.join(issues)}")
-            out[f"{slug}-{lang}"] = {
-                "url": cfg["raw_base"].rstrip("/") + "/" + ep["video"][lang], "channel": channel, "channel_id": cid,
-                "language": language, "title": title, "desc": desc, "date": f"{t:%b} {t.day}, {t.year}",
-                "time": f"{t.hour % 12 or 12}:{t.minute:02d} {'AM' if t.hour < 12 else 'PM'}", "utc": when.strftime("%Y-%m-%dT%H:%MZ")}
+        out.update(entries(slug, cfg))
     json.dump(out, sys.stdout, ensure_ascii=False, indent=1)
 
 

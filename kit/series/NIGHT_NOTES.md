@@ -1380,3 +1380,43 @@
   (10 queued) until 58 has gone out: a send_later check-in at 11:20Z Nov 22 (trig_01HXvQXkoLfnQnSBb8xUQC2S) dispatches
   post.yml and requeues 54's Arabic TikTok to 01:30Z Nov 25 if the queue has room. The midday run's own pushes also
   add it. Pushed 61 after "pages build and deployment" for 199607d succeeded, 62 and 63 after the one for 6f6e540.
+
+## Nov 21 2026, 21:20-22:00 PT (main chat): runs have no browser, YouTube's daily limit, the YouTube desk
+- The owner asked whether every scheduled run follows the new plan. Two findings changed the YouTube part of it.
+- (1) Scheduled runs get NO browser (the evening run above found no Claude in Chrome tools). Only the main chat (the
+  one the owner talks to; session_013LqBzNLVgZe7hUsTDVUKn7) reaches his Chrome. So no run uploads to YouTube Studio
+  any more; the main chat does it in two rounds a day, about 16:45 and 21:30 PT ("The desk" in
+  YOUTUBE_STUDIO_UPLOAD.md; `scripts/yt_desk.py plan | done | refused | release | check`; record of uploads
+  `youtube/ledger.json`; settings `youtube/desk.yml`).
+- (2) YouTube's daily limit. At 21:30 PT the main chat tried builds 62 and 63 in Studio: both channels answered "Daily
+  upload limit reached. Upload more videos daily after a one-time verification or wait 24 hours." The login had made
+  10 Studio uploads since about 13:40 PT (sm01 full + short, sm02 four, builds 58 and 60 in both languages: 6 English,
+  4 Arabic). The same evening the owner's other new channels were refused (The Dark Told Me 18:28 PT, Yalla Say PS
+  18:39 and 18:51 PT), while Yallah Say MA, whose Advanced features are enabled, uploaded at 18:42 PT. Uploads through
+  Buffer still worked (they are counted apart). Studio > Settings > Channel > Feature eligibility on Congrats
+  Engineer and on Kef Tenbeni: Standard and Intermediate "Enabled", Advanced "Eligible" (it lists "Upload more videos
+  daily" and "Eligible to apply for monetization"; requirements: video verification OR valid ID OR channel history;
+  "Only channel owners can complete the one-time verification"; this Chrome login gets no button). The owner was told
+  at 21:40 PT: the verification is his to do, and it is also needed before he can apply for monetization.
+- So until `youtube/desk.yml` says `verified: true`: about 10 Studio uploads per rolling 24 hours for ALL his
+  unverified channels. Build-It uploads 6 a Pacific day in Studio (`per_day`: the show's four + one build in both
+  languages), which leaves 2 for his other channels (a scary-stories retry is set for Sun Nov 22 18:50 PT) and 2 spare,
+  because the 24 hours roll. Each run: build #1 on Buffer's YouTube, build #2 held with `studio: 1`, build #3 held with
+  `studio: 2` (the YouTube rule in LINEUP.md). In a normal day that puts 3 of the 6 builds on YouTube in both
+  languages (2 through Buffer, 1 through Studio: the midday run's #2) plus the show; the evening run's #2 and both #3
+  go up only when the day has room (for example when the show did not come).
+- This replaces the Buffer advice in the evening note above only in one point: the midday run of Nov 22 still puts ONE
+  build on Buffer's YouTube per language (English 16:50Z Nov 23 or later, Arabic 14:40Z Nov 23 or later, as computed
+  there), and marks the other two `studio: 1` / `studio: 2`.
+- Builds 62 and 63 (Sun Nov 22) stay off YouTube: no room in Sunday's limit. They join the builds that never reached
+  YouTube (English 45, 46, 49, 52-57, 62, 63; Arabic 41-45, 52-56, 62, 63). The owner has not asked for that backlog;
+  once he is verified it can go up a few a day.
+- The show: the 13:17 run no longer needs a browser. It writes `kit/show/youtube/<id>.yml` (titles, descriptions,
+  chapter labels), pushes media + posts with ALL six targets on hold, and runs `kit/show/handoff.py` (full cuts,
+  thumbnails and sheet.json on the `show` branch; build_show.py's qa step now writes qa.json with the chapter times).
+  The main chat uploads the four videos at 16:45 PT and then releases the TikTok and Instagram posts.
+- Studio was found on The Dark Told Me (another chat had switched it) and was left there. The login now shows six
+  channels (list in the guide). Congrats Engineer showed 56 subscribers at 21:30 PT (50 that morning).
+- New call 2 in the guide stops by itself on a refusal (`.error-short` in the upload dialog); a thumbnail call for
+  entries with `thumb`. Not yet run: the thumbnail call as a snippet, and handoff.py's push (its --no-push test with
+  sm02's files passed).

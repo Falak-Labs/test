@@ -1,0 +1,19 @@
+{
+ "note": "Uploads made in YouTube Studio by the main chat (scripts/yt_desk.py done). Times are UTC. The ten entries of Nov 21-22 were written afterwards: their times are close, not exact.",
+ "uploads": [
+  {"key": "sm01-en-full", "id": "Z-o9Kc-oCe4", "channel": "Congrats Engineer", "at": "2026-11-21T21:40Z"},
+  {"key": "sm01-en-short", "id": "5N4qtsV9x6s", "channel": "Congrats Engineer", "at": "2026-11-21T22:12Z"},
+  {"key": "sm02-ar-full", "id": "ugHmQS08wiY", "channel": "Kef Tenbeni", "at": "2026-11-21T23:05Z"},
+  {"key": "sm02-en-full", "id": "DUbMYDcOxaY", "channel": "Congrats Engineer", "at": "2026-11-21T23:15Z"},
+  {"key": "sm02-ar-short", "id": "jGhNKsbtOr4", "channel": "Kef Tenbeni", "at": "2026-11-21T23:25Z"},
+  {"key": "sm02-en-short", "id": "ijimsOUeC9A", "channel": "Congrats Engineer", "at": "2026-11-21T23:35Z"},
+  {"key": "ep58-ferriswheel-en", "id": "FWkyE8zhGCc", "channel": "Congrats Engineer", "at": "2026-11-22T00:20Z"},
+  {"key": "ep60-microwave-en", "id": "RScSVg5TLFU", "channel": "Congrats Engineer", "at": "2026-11-22T00:25Z"},
+  {"key": "ep58-ferriswheel-ar", "id": "Xp63m__gDB8", "channel": "Kef Tenbeni", "at": "2026-11-22T00:32Z"},
+  {"key": "ep60-microwave-ar", "id": "DDg7NsgvBJw", "channel": "Kef Tenbeni", "at": "2026-11-22T00:38Z"}
+ ],
+ "refused": [
+  {"at": "2026-11-22T05:32Z", "channel": "Congrats Engineer"},
+  {"at": "2026-11-22T05:38Z", "channel": "Kef Tenbeni"}
+ ]
+}
