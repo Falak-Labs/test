@@ -1,0 +1,91 @@
+{
+ "voice": "Easton",
+ "duration": 63.41,
+ "words": 230,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.49,
+   "text": "If a stack of old pennies keeps the world's most famous clock on time, congrats, you just built Big Ben's clock."
+  },
+  {
+   "line": 2,
+   "start": 5.84,
+   "end": 9.96,
+   "text": "But the Astronomer Royal wants every hour struck right to the second, checked twice a day."
+  },
+  {
+   "line": 3,
+   "start": 10.31,
+   "end": 14.2,
+   "text": "So you hang a pendulum almost four meters long that ticks once every two seconds."
+  },
+  {
+   "line": 4,
+   "start": 14.55,
+   "end": 18.79,
+   "text": "But the hands are outside, and every gust of wind pushes back through the gears to the pendulum."
+  },
+  {
+   "line": 5,
+   "start": 19.14,
+   "end": 24.91,
+   "text": "So you build a gravity escapement: two small arms give the pendulum the same push every swing, whatever the wind does."
+  },
+  {
+   "line": 6,
+   "start": 25.26,
+   "end": 28.83,
+   "text": "But the first minute hands are cast iron, so heavy the clock can't turn them."
+  },
+  {
+   "line": 7,
+   "start": 29.18,
+   "end": 33.69,
+   "text": "So you make them from thin copper, over four meters long, on dials seven meters wide."
+  },
+  {
+   "line": 8,
+   "start": 34.04,
+   "end": 35.91,
+   "text": "But heat and cold still make it drift."
+  },
+  {
+   "line": 9,
+   "start": 36.26,
+   "end": 40.59,
+   "text": "So you add old pennies to the pendulum. Each one makes it gain four tenths of a second a day."
+  },
+  {
+   "line": 10,
+   "start": 40.94,
+   "end": 45.23,
+   "text": "But before you set your watch, follow, because next we're building a city of mud skyscrapers."
+  },
+  {
+   "line": 11,
+   "start": 45.58,
+   "end": 50.7,
+   "text": "Now the twist: Big Ben is the bell, not the tower. It cracked in its first year, and still rings cracked today."
+  },
+  {
+   "line": 12,
+   "start": 51.05,
+   "end": 55.48,
+   "text": "Seven-meter dials, a bell of almost fourteen tons, and a three-hundred-kilo pendulum."
+  },
+  {
+   "line": 13,
+   "start": 55.83,
+   "end": 58.52,
+   "text": "And congrats, you just built Big Ben's clock yourself."
+  },
+  {
+   "line": 14,
+   "start": 58.87,
+   "end": 63.41,
+   "text": "It's kept London on time for over a hundred and sixty years, and you still text \"on my way\" from bed."
+  }
+ ]
+}
