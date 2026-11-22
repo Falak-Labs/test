@@ -1,0 +1,94 @@
+{
+ "lesson": "01",
+ "dialect": "pa",
+ "file": "yallah-say-pa-ep01.mp4",
+ "ok": true,
+ "problems": [],
+ "steps": {
+  "script": {
+   "seconds": 0.0,
+   "says": [
+    "50 beats, 46 voice lines, 843 characters"
+   ]
+  },
+  "page": {
+   "seconds": 0.1,
+   "says": [
+    "page /home/runner/work/test/test/out/pa01/page theme pa"
+   ]
+  },
+  "sound": {
+   "seconds": 4.1,
+   "says": [
+    "duration 1:30.73 (2722 frames) | 13 shots, 50 beats | -14.0 LUFS, peak 0.663",
+    "quiz 29.9 | hard word 43.3 | end card 83.1333 | word parts (s): {'T': [0.57, 0.66, 0.55, 0.52, 0.76], 'A': [0.6, 0.66, 0.56, 0.57, 0.75], 'L': [0.63, 0.7, 0.56, 0.59, 0.71]}"
+   ]
+  },
+  "picture": {
+   "seconds": 123.5,
+   "pieces": 6,
+   "at_once": 4,
+   "frames_per_second": 22.0
+  },
+  "join": {
+   "seconds": 0.2,
+   "says": []
+  },
+  "mux": {
+   "seconds": 2.1,
+   "says": []
+  },
+  "takes": {
+   "seconds": 3.0,
+   "says": [
+    "ok   o2      at   87.60s len 1.12s  match 0.959  (take offset +0.04s)",
+    "ok   o3      at   88.97s len 0.64s  match 0.993  (take offset +0.01s)",
+    "below 0.9: none"
+   ]
+  },
+  "frames": {
+   "seconds": 2.2,
+   "says": []
+  }
+ },
+ "frames": 2722,
+ "duration": 90.7333,
+ "sha256": {
+  "page/script.js": "7d9b965bf057d1f57ec81493dd98807d0e49c975e26582e0c75bea9350a95842",
+  "page/tl.js": "53ae106643b1ae0dc47e21c8793aafa1c04581f68a9ac81fedf8edcdd6f9c5ed",
+  "final.wav": "f5fc1016d005fe17090f2c1bafd763c4d5f8a45103e36ca765be506cdf1944d5",
+  "yallah-say-pa-ep01.mp4": "54492f23cf9036d997fd6e0b2f8b5810c80667fba3f709af6a733d3573b82833"
+ },
+ "video": {
+  "size": 19262707,
+  "frames": 2722,
+  "width": 1080,
+  "height": 1920,
+  "rate": "30/1",
+  "audio_seconds": 90.733,
+  "audio_rate": "48000"
+ },
+ "takes_below_0.9": "none",
+ "sheet_times": [
+  1.6,
+  9.77,
+  12.66,
+  15.03,
+  17.58,
+  19.63,
+  21.58,
+  23.7,
+  26.34,
+  28.57,
+  31.5,
+  44.9,
+  84.73,
+  90.23
+ ],
+ "made_with": {
+  "python": "3.13.18",
+  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "playwright": "Version 1.63.0"
+ },
+ "seconds": 135.9
+}
