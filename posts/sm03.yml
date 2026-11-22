@@ -7,7 +7,7 @@ video:
 # (kit/show/handoff.py) at about 16:45 PT on Sun Nov 22, so both YouTube targets stay on hold here for good. The TikTok and
 # Instagram targets start on hold too, because these shorts promise the full video: the main chat takes them off hold after
 # the YouTube uploads (scripts/yt_desk.py release sm03). No build run may take any target of this file off hold.
-hold: [en.youtube, ar.youtube, en.instagram, en.tiktok, ar.instagram, ar.tiktok]
+hold: [en.youtube, ar.youtube]    # the TikTok and Instagram posts were released after the YouTube uploads
 en:
   at: "2026-11-23T20:15:00Z"      # 12:15 PT Mon Nov 23; the full video goes public on YouTube at 10:00 PT
   title: "The Tower That Refuses to Fall 📐 Survival Mode: You vs Gravity"
