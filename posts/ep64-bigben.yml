@@ -1,0 +1,33 @@
+episode: 64
+date: 2026-11-23
+video:
+  en: media/ep64-bigben-en.mp4
+  ar: media/ep64-bigben-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-23T14:00:00Z"    # 06:00 PT Mon Nov 23
+  title: "Big Ben's Clock: Kept on Time With Old Pennies 🕰️"
+  text: |
+    The most famous clock in the world is fine-tuned with a stack of old pennies. 🕰️
+    A pendulum almost 4 meters long that ticks every 2 seconds, a gravity escapement so the wind on the hands never reaches it, copper minute hands over 4 meters long on 7-meter dials, and pennies on the pendulum: each one makes it gain 0.4 seconds a day. The twist: Big Ben is the bell, not the tower, and it has rung cracked since its first year.
+    Are you always "on my way"? 👇
+  next: "Shibam, the mud skyscraper city 🏜️"
+  seo: "How Big Ben's clock keeps time: the Great Clock of Westminster in London's Elizabeth Tower was started in 1859. The Astronomer Royal, George Airy, asked for the first stroke of every hour to be right to within a second, checked twice a day by telegraph with the Royal Observatory in Greenwich. Its pendulum is about 3.9 m long, weighs about 300 kg and beats once every two seconds. Edmund Beckett Denison designed a double three-legged gravity escapement: two small gravity arms give the pendulum the same small push on every swing, so the wind, snow or birds pushing on the huge hands outside cannot disturb its beat. The first cast-iron minute hands were too heavy for the clock to turn, so they were replaced with lighter copper ones, about 4.2 m long, sweeping dials 7 m wide made of 312 pieces of glass. To adjust the time, keepers add or remove old pre-decimal pennies on a small shelf on the pendulum: each penny raises its centre of mass a little and makes the clock gain about 0.4 seconds a day. Big Ben is really the name of the 13.7-tonne Great Bell, not the clock or the tower; it cracked in 1859, months after it first rang, was turned so the hammer strikes a new spot, and still rings with its crack today."
+  tags:
+    tiktok: "#bigben #london #clock #engineering #learnontiktok"
+    instagram: "#bigben #london #clock #engineering #history"
+    youtube: "#bigben #london #engineering"
+ar:
+  at: "2026-11-23T08:00:00Z"    # 00:00 PT Mon Nov 23 = 11 am Riyadh
+  title: "ساعة بيغ بن: تنضبط بقروش قديمة 🕰️"
+  text: |
+    أشهر ساعة في العالم يضبطونها بكم قرش قديم فوق البندول! 🕰️
+    بندول طوله قرابة أربعة متر يتك كل ثانيتين، وميزان بالجاذبية عشان هوا العقارب ما يوصل له، وعقارب نحاس أطول من أربعة متر على وجه عرضه سبعة متر، وكل قرش يسرّعها أقل من نص ثانية في اليوم. والمفاجأة: بيغ بن هو الجرس مو البرج، وانشق من أول سنة وللحين يدق.
+    وأنت، خمس دقايقك كم ساعة؟ 👇
+  next: "شبام، ناطحات سحاب من طين 🏜️"
+  seo: "كيف ساعة بيغ بن مضبوطة: الساعة الكبيرة في برج إليزابيث في لندن بدأت تشتغل سنة ألف وثمنمية وتسعة وخمسين. الفلكي الملكي جورج إيري طلب إن أول دقة في كل ساعة تكون مضبوطة لحد الثانية، وتنفحص مرتين في اليوم بالتلغراف مع مرصد غرينتش. البندول طوله حوالي ثلاثة متر وتسعين سانتي، ووزنه حوالي ثلاثمية كيلو، ويتك مرة كل ثانيتين. وإدموند دينيسون صمم ميزان بالجاذبية: ذراعين صغار يعطون البندول نفس الدفّة الصغيرة كل مرة، عشان الهوا والثلج والطيور اللي تدف العقارب الكبيرة برا ما يلخبطون نبضه. أول عقارب كانت حديد صب وثقيلة لدرجة إن الساعة ما قدرت تلفها، فبدلوها بعقارب نحاس أخف، طولها حوالي أربعة متر وعشرين سانتي، على وجه عرضه سبعة متر من ثلاثمية واثنعش قطعة زجاج. ولضبط الوقت يحطون قروش إنجليزية قديمة على رف صغير فوق البندول أو يشيلونها: كل قرش يرفع مركز الثقل شوي ويخلي الساعة تسرّع حوالي أربعة أعشار الثانية في اليوم. وبيغ بن في الأصل اسم الجرس الكبير اللي وزنه حوالي أربعطعش طن، مو الساعة ولا البرج، وانشق سنة ألف وثمنمية وتسعة وخمسين بعد أشهر من أول دقة، ولفّوه عشان المطرقة تضرب مكان ثاني، وللحين يدق وهو مشقوق."
+  tags:
+    tiktok: "#بيغ_بن #لندن #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#بيغ_بن #لندن #هندسة #السعودية #معلومات"
+    youtube: "#بيغ_بن #هندسة #معلومات"

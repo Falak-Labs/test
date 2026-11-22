@@ -1,0 +1,33 @@
+episode: 66
+date: 2026-11-23
+video:
+  en: media/ep66-towerbridge-en.mp4
+  ar: media/ep66-towerbridge-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-23T19:00:00Z"    # 11:00 PT Mon Nov 23
+  title: "Tower Bridge: The Road That Stands Up 🇬🇧"
+  text: |
+    A road in the middle of London that stands straight up to let a ship through. 🇬🇧
+    Each half is a giant seesaw of over a thousand tons, balanced by a counterweight hidden in the tower, so a small push lifts it. In 1894 steam engines pumped water into tanks under pressure, ready the moment a ship arrived, and walkways 42 m up let people cross while the road was up. In 1952 it opened with a bus still on it, and the driver jumped the gap.
+    Would you have floored it? 👇
+  next: "the Colosseum 🏛️"
+  seo: "How Tower Bridge lifts its road: London's Tower Bridge, built from 1886 to 1894 by Horace Jones and John Wolfe Barry, is a bascule and suspension bridge. London's busiest docks, the Pool of London, were upstream, so tall ships had to get past, and a fixed bridge low enough for carts would have blocked them. The road between the two towers is split into two bascules, each like a giant seesaw turning on an axle, weighing over 1,000 tonnes and balanced by a counterweight inside its pier, so only a small force is needed to raise it. The original machinery used steam engines to pump water into hydraulic accumulators, which stored it under pressure so the bridge could open as soon as a ship arrived; electro-hydraulic drives replaced them in the 1970s. The high walkways, 42 m above the river, let people on foot cross while the road was up. In December 1952 the bridge began to open while a number 78 double-decker bus was on it, and driver Albert Gunter accelerated and jumped the gap to the other half. The bridge still opens around 800 times a year, free of charge, for ships that book ahead."
+  tags:
+    tiktok: "#towerbridge #london #engineering #bridge #learnontiktok"
+    instagram: "#towerbridge #london #engineering #bridge #history"
+    youtube: "#towerbridge #london #engineering"
+ar:
+  at: "2026-11-23T14:00:00Z"    # 06:00 PT Mon Nov 23 = 5 pm Riyadh
+  title: "جسر البرج: الطريق اللي يوقف على حيله 🇬🇧"
+  text: |
+    طريق في نص لندن يوقف على حيله عشان تمر سفينة! 🇬🇧
+    كل نص مثل الميزان، يوزن أكثر من ألف طن، وطرفه الثقيل داخل البرج، ودفّة صغيرة ترفعه. وفي ألف وثمنمية وأربعة وتسعين كانت مكاين البخار تضخ موية في خزانات تحت ضغط جاهزة على طول، والممرات فوق على ارتفاع اثنين وأربعين متر للناس اللي يمشون. وقبل أكثر من سبعين سنة، الجسر انفتح وعليه باص، والسوّاق دعس ونط الفتحة!
+    لو مكانه، تدعس ولا توقف؟ 👇
+  next: "الكولوسيوم 🏛️"
+  seo: "كيف جسر البرج في لندن يرفع الطريق: جسر البرج انبنى من ألف وثمنمية وستة وثمانين لين ألف وثمنمية وأربعة وتسعين، وهو جسر متحرك ومعلّق. أكبر ميناء في لندن كان ورا الجسر، والسفن الطويلة لازم تمر، والجسر الثابت الواطي كان بيسكّر عليها. الطريق بين البرجين مقسوم نصين، كل نص مثل الميزان يلف على محور، ويوزن أكثر من ألف طن، ويقابله ثقل داخل قاعدة البرج، فيحتاج قوة صغيرة بس عشان يرتفع. المكاين الأصلية كانت مكاين بخار تضخ موية في خزانات تخزنها تحت ضغط، عشان الجسر ينفتح أول ما توصل السفينة، وفي السبعينات بدلوها بنظام كهربائي هيدروليكي. والممرات اللي فوق، على ارتفاع اثنين وأربعين متر عن النهر، كانت للناس اللي يمشون عشان يعبرون والطريق مرفوع. وفي ديسمبر سنة ألف وتسعمية واثنين وخمسين بدأ الجسر ينفتح وعليه باص دورين، والسوّاق ألبرت غنتر دعس ونط الفتحة للنص الثاني. وللحين الجسر ينفتح حوالي ثمنمية مرة في السنة ببلاش، للسفن اللي تحجز قبل."
+  tags:
+    tiktok: "#جسر_البرج #لندن #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#جسر_البرج #لندن #هندسة #السعودية #معلومات"
+    youtube: "#جسر_البرج #هندسة #معلومات"
