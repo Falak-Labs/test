@@ -2,1249 +2,1254 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 64.76,
- "words": 226,
- "words_per_sec": 3.49,
+ "duration": 65.19,
+ "words": 227,
+ "words_per_sec": 3.48,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 6.542,
+   "end": 6.573,
    "text": "If your tower leans almost four meters and still stands after eight centuries, congrats, you just built the Leaning Tower of Pisa.",
    "words": [
     {
      "w": "If",
-     "start": 0.14,
-     "end": 0.352
+     "start": 0.13,
+     "end": 0.343
     },
     {
      "w": "your",
-     "start": 0.352,
-     "end": 0.564
+     "start": 0.343,
+     "end": 0.556
     },
     {
      "w": "tower",
-     "start": 0.564,
-     "end": 0.933
+     "start": 0.556,
+     "end": 0.928
     },
     {
      "w": "leans",
-     "start": 0.933,
-     "end": 1.146
+     "start": 0.928,
+     "end": 1.141
     },
     {
      "w": "almost",
-     "start": 1.146,
-     "end": 1.515
+     "start": 1.141,
+     "end": 1.512
     },
     {
      "w": "four",
-     "start": 1.515,
-     "end": 1.727
+     "start": 1.512,
+     "end": 1.725
     },
     {
      "w": "meters",
-     "start": 1.727,
-     "end": 2.096
+     "start": 1.725,
+     "end": 2.097
     },
     {
      "w": "and",
-     "start": 2.096,
-     "end": 2.308
+     "start": 2.097,
+     "end": 2.31
     },
     {
      "w": "still",
-     "start": 2.308,
-     "end": 2.52
+     "start": 2.31,
+     "end": 2.523
     },
     {
      "w": "stands",
-     "start": 2.52,
-     "end": 2.732
+     "start": 2.523,
+     "end": 2.736
     },
     {
      "w": "after",
-     "start": 2.732,
-     "end": 3.102
+     "start": 2.736,
+     "end": 3.108
     },
     {
      "w": "eight",
-     "start": 3.102,
-     "end": 3.314
+     "start": 3.108,
+     "end": 3.321
     },
     {
      "w": "centuries,",
-     "start": 3.314,
-     "end": 3.84
+     "start": 3.321,
+     "end": 3.85
     },
     {
      "w": "congrats,",
      "start": 3.97,
-     "end": 4.337
+     "end": 4.338
     },
     {
      "w": "you",
-     "start": 4.337,
-     "end": 4.547
+     "start": 4.338,
+     "end": 4.55
     },
     {
      "w": "just",
-     "start": 4.547,
-     "end": 4.758
+     "start": 4.55,
+     "end": 4.761
     },
     {
      "w": "built",
-     "start": 4.758,
-     "end": 4.969
+     "start": 4.761,
+     "end": 4.973
     },
     {
      "w": "the",
-     "start": 4.969,
-     "end": 5.179
+     "start": 4.973,
+     "end": 5.184
     },
     {
      "w": "Leaning",
-     "start": 5.179,
-     "end": 5.546
+     "start": 5.184,
+     "end": 5.552
     },
     {
      "w": "Tower",
-     "start": 5.546,
-     "end": 5.913
+     "start": 5.552,
+     "end": 5.92
     },
     {
      "w": "of",
-     "start": 5.913,
-     "end": 6.123
+     "start": 5.92,
+     "end": 6.132
     },
     {
      "w": "Pisa.",
-     "start": 6.123,
-     "end": 6.49
+     "start": 6.132,
+     "end": 6.5
     }
    ]
   },
   {
    "line": 2,
-   "start": 6.906,
-   "end": 11.115,
+   "start": 6.938,
+   "end": 11.208,
    "text": "But Pisa sits on soft clay, and five years in, it starts sinking on one side.",
    "words": [
     {
      "w": "But",
-     "start": 7.056,
-     "end": 7.28
+     "start": 7.088,
+     "end": 7.311
     },
     {
      "w": "Pisa",
-     "start": 7.28,
-     "end": 7.67
+     "start": 7.311,
+     "end": 7.698
     },
     {
      "w": "sits",
-     "start": 7.67,
-     "end": 7.894
+     "start": 7.698,
+     "end": 7.92
     },
     {
      "w": "on",
-     "start": 7.894,
-     "end": 8.118
+     "start": 7.92,
+     "end": 8.143
     },
     {
      "w": "soft",
-     "start": 8.118,
-     "end": 8.342
+     "start": 8.143,
+     "end": 8.365
     },
     {
      "w": "clay,",
-     "start": 8.342,
-     "end": 8.566
+     "start": 8.365,
+     "end": 8.588
     },
     {
      "w": "and",
-     "start": 8.696,
-     "end": 8.916
+     "start": 8.758,
+     "end": 8.978
     },
     {
      "w": "five",
-     "start": 8.916,
-     "end": 9.136
+     "start": 8.978,
+     "end": 9.198
     },
     {
      "w": "years",
-     "start": 9.136,
-     "end": 9.356
+     "start": 9.198,
+     "end": 9.418
     },
     {
      "w": "in,",
-     "start": 9.356,
-     "end": 9.576
+     "start": 9.418,
+     "end": 9.638
     },
     {
      "w": "it",
-     "start": 9.726,
-     "end": 9.92
+     "start": 9.798,
+     "end": 9.995
     },
     {
      "w": "starts",
-     "start": 9.92,
-     "end": 10.115
+     "start": 9.995,
+     "end": 10.193
     },
     {
      "w": "sinking",
-     "start": 10.115,
-     "end": 10.453
+     "start": 10.193,
+     "end": 10.536
     },
     {
      "w": "on",
-     "start": 10.453,
-     "end": 10.647
+     "start": 10.536,
+     "end": 10.733
     },
     {
      "w": "one",
-     "start": 10.647,
-     "end": 10.842
+     "start": 10.733,
+     "end": 10.931
     },
     {
      "w": "side.",
-     "start": 10.842,
-     "end": 11.036
+     "start": 10.931,
+     "end": 11.128
     }
    ]
   },
   {
    "line": 3,
-   "start": 11.479,
-   "end": 15.531,
+   "start": 11.573,
+   "end": 15.625,
    "text": "So you take a break. Wars keep you away for almost a century, and the clay firms up.",
    "words": [
     {
      "w": "So",
-     "start": 11.589,
-     "end": 11.741
+     "start": 11.683,
+     "end": 11.835
     },
     {
      "w": "you",
-     "start": 11.741,
-     "end": 11.893
+     "start": 11.835,
+     "end": 11.987
     },
     {
      "w": "take",
-     "start": 11.893,
-     "end": 12.045
+     "start": 11.987,
+     "end": 12.139
     },
     {
      "w": "a",
-     "start": 12.045,
-     "end": 12.197
+     "start": 12.139,
+     "end": 12.291
     },
     {
      "w": "break.",
-     "start": 12.197,
-     "end": 12.349
+     "start": 12.291,
+     "end": 12.443
     },
     {
      "w": "Wars",
-     "start": 12.539,
-     "end": 12.71
+     "start": 12.623,
+     "end": 12.795
     },
     {
      "w": "keep",
-     "start": 12.71,
-     "end": 12.882
+     "start": 12.795,
+     "end": 12.968
     },
     {
      "w": "you",
-     "start": 12.882,
-     "end": 13.053
+     "start": 12.968,
+     "end": 13.14
     },
     {
      "w": "away",
-     "start": 13.053,
-     "end": 13.352
+     "start": 13.14,
+     "end": 13.44
     },
     {
      "w": "for",
-     "start": 13.352,
-     "end": 13.523
+     "start": 13.44,
+     "end": 13.613
     },
     {
      "w": "almost",
-     "start": 13.523,
-     "end": 13.822
+     "start": 13.613,
+     "end": 13.913
     },
     {
      "w": "a",
-     "start": 13.822,
-     "end": 13.993
+     "start": 13.913,
+     "end": 14.085
     },
     {
      "w": "century,",
-     "start": 13.993,
-     "end": 14.419
+     "start": 14.085,
+     "end": 14.513
     },
     {
      "w": "and",
-     "start": 14.539,
-     "end": 14.711
+     "start": 14.633,
+     "end": 14.803
     },
     {
      "w": "the",
-     "start": 14.711,
-     "end": 14.883
+     "start": 14.803,
+     "end": 14.973
     },
     {
      "w": "clay",
-     "start": 14.883,
-     "end": 15.055
+     "start": 14.973,
+     "end": 15.143
     },
     {
      "w": "firms",
-     "start": 15.055,
-     "end": 15.227
+     "start": 15.143,
+     "end": 15.313
     },
     {
      "w": "up.",
-     "start": 15.227,
-     "end": 15.399
+     "start": 15.313,
+     "end": 15.483
     }
    ]
   },
   {
    "line": 4,
-   "start": 15.896,
-   "end": 18.573,
+   "start": 15.99,
+   "end": 18.667,
    "text": "But build again, and every new floor leans too.",
    "words": [
     {
      "w": "But",
-     "start": 16.036,
-     "end": 16.25
+     "start": 16.13,
+     "end": 16.341
     },
     {
      "w": "build",
-     "start": 16.25,
-     "end": 16.464
+     "start": 16.341,
+     "end": 16.552
     },
     {
      "w": "again,",
-     "start": 16.464,
-     "end": 16.836
+     "start": 16.552,
+     "end": 16.92
     },
     {
      "w": "and",
-     "start": 16.976,
-     "end": 17.179
+     "start": 17.07,
+     "end": 17.273
     },
     {
      "w": "every",
-     "start": 17.179,
-     "end": 17.683
+     "start": 17.273,
+     "end": 17.777
     },
     {
      "w": "new",
-     "start": 17.683,
-     "end": 17.886
+     "start": 17.777,
+     "end": 17.98
     },
     {
      "w": "floor",
-     "start": 17.886,
-     "end": 18.09
+     "start": 17.98,
+     "end": 18.184
     },
     {
      "w": "leans",
-     "start": 18.09,
-     "end": 18.293
+     "start": 18.184,
+     "end": 18.387
     },
     {
      "w": "too.",
-     "start": 18.293,
-     "end": 18.496
+     "start": 18.387,
+     "end": 18.59
     }
    ]
   },
   {
    "line": 5,
-   "start": 18.938,
-   "end": 23.281,
+   "start": 19.031,
+   "end": 23.375,
    "text": "So you build the upper floors taller on the low side, and it curves back, like a banana.",
    "words": [
     {
      "w": "So",
-     "start": 19.048,
-     "end": 19.226
+     "start": 19.141,
+     "end": 19.319
     },
     {
      "w": "you",
-     "start": 19.226,
-     "end": 19.405
+     "start": 19.319,
+     "end": 19.498
     },
     {
      "w": "build",
-     "start": 19.405,
-     "end": 19.583
+     "start": 19.498,
+     "end": 19.676
     },
     {
      "w": "the",
-     "start": 19.583,
-     "end": 19.761
+     "start": 19.676,
+     "end": 19.854
     },
     {
      "w": "upper",
-     "start": 19.761,
-     "end": 20.071
+     "start": 19.854,
+     "end": 20.164
     },
     {
      "w": "floors",
-     "start": 20.071,
-     "end": 20.25
+     "start": 20.164,
+     "end": 20.343
     },
     {
      "w": "taller",
-     "start": 20.25,
-     "end": 20.56
+     "start": 20.343,
+     "end": 20.653
     },
     {
      "w": "on",
-     "start": 20.56,
-     "end": 20.738
+     "start": 20.653,
+     "end": 20.831
     },
     {
      "w": "the",
-     "start": 20.738,
-     "end": 20.916
+     "start": 20.831,
+     "end": 21.009
     },
     {
      "w": "low",
-     "start": 20.916,
-     "end": 21.095
+     "start": 21.009,
+     "end": 21.188
     },
     {
      "w": "side,",
-     "start": 21.095,
-     "end": 21.273
+     "start": 21.188,
+     "end": 21.366
     },
     {
      "w": "and",
-     "start": 21.273,
-     "end": 21.451
+     "start": 21.366,
+     "end": 21.544
     },
     {
      "w": "it",
-     "start": 21.451,
-     "end": 21.629
+     "start": 21.544,
+     "end": 21.722
     },
     {
      "w": "curves",
-     "start": 21.629,
-     "end": 21.94
+     "start": 21.722,
+     "end": 22.033
     },
     {
      "w": "back,",
-     "start": 21.94,
-     "end": 22.118
+     "start": 22.033,
+     "end": 22.211
     },
     {
      "w": "like",
-     "start": 22.178,
-     "end": 22.406
+     "start": 22.271,
+     "end": 22.499
     },
     {
      "w": "a",
-     "start": 22.406,
-     "end": 22.633
+     "start": 22.499,
+     "end": 22.726
     },
     {
      "w": "banana.",
-     "start": 22.633,
-     "end": 23.198
+     "start": 22.726,
+     "end": 23.291
     }
    ]
   },
   {
    "line": 6,
-   "start": 23.646,
-   "end": 27.854,
+   "start": 23.74,
+   "end": 27.948,
    "text": "But by nineteen ninety, the top hangs four and a half meters out, and it's closed.",
    "words": [
     {
      "w": "But",
-     "start": 23.786,
-     "end": 23.96
+     "start": 23.88,
+     "end": 24.054
     },
     {
      "w": "by",
-     "start": 23.96,
-     "end": 24.134
+     "start": 24.054,
+     "end": 24.228
     },
     {
      "w": "nineteen",
-     "start": 24.134,
-     "end": 24.565
+     "start": 24.228,
+     "end": 24.659
     },
     {
      "w": "ninety,",
-     "start": 24.565,
-     "end": 24.996
+     "start": 24.659,
+     "end": 25.09
     },
     {
      "w": "the",
-     "start": 25.156,
-     "end": 25.341
+     "start": 25.25,
+     "end": 25.435
     },
     {
      "w": "top",
-     "start": 25.341,
-     "end": 25.526
+     "start": 25.435,
+     "end": 25.62
     },
     {
      "w": "hangs",
-     "start": 25.526,
-     "end": 25.71
+     "start": 25.62,
+     "end": 25.804
     },
     {
      "w": "four",
-     "start": 25.71,
-     "end": 25.895
+     "start": 25.804,
+     "end": 25.989
     },
     {
      "w": "and",
-     "start": 25.895,
-     "end": 26.08
+     "start": 25.989,
+     "end": 26.174
     },
     {
      "w": "a",
-     "start": 26.08,
-     "end": 26.265
+     "start": 26.174,
+     "end": 26.359
     },
     {
      "w": "half",
-     "start": 26.265,
-     "end": 26.45
+     "start": 26.359,
+     "end": 26.544
     },
     {
      "w": "meters",
-     "start": 26.45,
-     "end": 26.771
+     "start": 26.544,
+     "end": 26.865
     },
     {
      "w": "out,",
-     "start": 26.771,
-     "end": 26.956
+     "start": 26.865,
+     "end": 27.05
     },
     {
      "w": "and",
-     "start": 27.126,
-     "end": 27.305
+     "start": 27.21,
+     "end": 27.392
     },
     {
      "w": "it's",
-     "start": 27.305,
-     "end": 27.484
+     "start": 27.392,
+     "end": 27.574
     },
     {
      "w": "closed.",
-     "start": 27.484,
-     "end": 27.796
+     "start": 27.574,
+     "end": 27.89
     }
    ]
   },
   {
    "line": 7,
-   "start": 28.219,
-   "end": 33.115,
+   "start": 28.312,
+   "end": 33.208,
    "text": "So you stack six hundred tons of lead on the high side, with steel cables around it, just in case.",
    "words": [
     {
      "w": "So",
-     "start": 28.329,
-     "end": 28.526
+     "start": 28.422,
+     "end": 28.619
     },
     {
      "w": "you",
-     "start": 28.526,
-     "end": 28.723
+     "start": 28.619,
+     "end": 28.816
     },
     {
      "w": "stack",
-     "start": 28.723,
-     "end": 28.92
+     "start": 28.816,
+     "end": 29.013
     },
     {
      "w": "six",
-     "start": 28.92,
-     "end": 29.117
+     "start": 29.013,
+     "end": 29.21
     },
     {
      "w": "hundred",
-     "start": 29.117,
-     "end": 29.46
+     "start": 29.21,
+     "end": 29.553
     },
     {
      "w": "tons",
-     "start": 29.46,
-     "end": 29.657
+     "start": 29.553,
+     "end": 29.75
     },
     {
      "w": "of",
-     "start": 29.657,
-     "end": 29.854
+     "start": 29.75,
+     "end": 29.947
     },
     {
      "w": "lead",
-     "start": 29.854,
-     "end": 30.051
+     "start": 29.947,
+     "end": 30.144
     },
     {
      "w": "on",
-     "start": 30.051,
-     "end": 30.248
+     "start": 30.144,
+     "end": 30.341
     },
     {
      "w": "the",
-     "start": 30.248,
-     "end": 30.445
+     "start": 30.341,
+     "end": 30.538
     },
     {
      "w": "high",
-     "start": 30.445,
-     "end": 30.642
+     "start": 30.538,
+     "end": 30.735
     },
     {
      "w": "side,",
-     "start": 30.642,
-     "end": 30.839
+     "start": 30.735,
+     "end": 30.932
     },
     {
      "w": "with",
-     "start": 30.999,
-     "end": 31.183
+     "start": 31.092,
+     "end": 31.276
     },
     {
      "w": "steel",
-     "start": 31.183,
-     "end": 31.366
+     "start": 31.276,
+     "end": 31.459
     },
     {
      "w": "cables",
-     "start": 31.366,
-     "end": 31.686
+     "start": 31.459,
+     "end": 31.779
     },
     {
      "w": "around",
-     "start": 31.686,
-     "end": 32.005
+     "start": 31.779,
+     "end": 32.098
     },
     {
      "w": "it,",
-     "start": 32.005,
-     "end": 32.189
+     "start": 32.098,
+     "end": 32.282
     },
     {
      "w": "just",
-     "start": 32.409,
-     "end": 32.622
+     "start": 32.512,
+     "end": 32.715
     },
     {
      "w": "in",
-     "start": 32.622,
-     "end": 32.836
+     "start": 32.715,
+     "end": 32.919
     },
     {
      "w": "case.",
-     "start": 32.836,
-     "end": 33.049
+     "start": 32.919,
+     "end": 33.122
     }
    ]
   },
   {
    "line": 8,
-   "start": 33.479,
-   "end": 36.771,
+   "start": 33.573,
+   "end": 36.865,
    "text": "But weights only hold it. To make it lean less, the ground has to move.",
    "words": [
     {
      "w": "But",
-     "start": 33.609,
-     "end": 33.773
+     "start": 33.703,
+     "end": 33.867
     },
     {
      "w": "weights",
-     "start": 33.773,
-     "end": 33.936
+     "start": 33.867,
+     "end": 34.03
     },
     {
      "w": "only",
-     "start": 33.936,
-     "end": 34.222
+     "start": 34.03,
+     "end": 34.316
     },
     {
      "w": "hold",
-     "start": 34.222,
-     "end": 34.385
+     "start": 34.316,
+     "end": 34.479
     },
     {
      "w": "it.",
-     "start": 34.385,
-     "end": 34.549
+     "start": 34.479,
+     "end": 34.643
     },
     {
      "w": "To",
-     "start": 34.689,
-     "end": 34.877
+     "start": 34.773,
+     "end": 34.965
     },
     {
      "w": "make",
-     "start": 34.877,
-     "end": 35.065
+     "start": 34.965,
+     "end": 35.157
     },
     {
      "w": "it",
-     "start": 35.065,
-     "end": 35.253
+     "start": 35.157,
+     "end": 35.349
     },
     {
      "w": "lean",
-     "start": 35.253,
-     "end": 35.441
+     "start": 35.349,
+     "end": 35.541
     },
     {
      "w": "less,",
-     "start": 35.441,
-     "end": 35.629
+     "start": 35.541,
+     "end": 35.733
     },
     {
      "w": "the",
-     "start": 35.769,
-     "end": 35.949
+     "start": 35.863,
+     "end": 36.043
     },
     {
      "w": "ground",
-     "start": 35.949,
-     "end": 36.129
+     "start": 36.043,
+     "end": 36.223
     },
     {
      "w": "has",
-     "start": 36.129,
-     "end": 36.309
+     "start": 36.223,
+     "end": 36.403
     },
     {
      "w": "to",
-     "start": 36.309,
-     "end": 36.489
+     "start": 36.403,
+     "end": 36.583
     },
     {
      "w": "move.",
-     "start": 36.489,
-     "end": 36.669
+     "start": 36.583,
+     "end": 36.763
     }
    ]
   },
   {
    "line": 9,
-   "start": 37.135,
-   "end": 42.0,
+   "start": 37.229,
+   "end": 42.094,
    "text": "So you drill soil from under the high side, bit by bit, and it settles back forty-five centimeters.",
    "words": [
     {
      "w": "So",
-     "start": 37.245,
-     "end": 37.447
+     "start": 37.339,
+     "end": 37.54
     },
     {
      "w": "you",
-     "start": 37.447,
-     "end": 37.649
+     "start": 37.54,
+     "end": 37.741
     },
     {
      "w": "drill",
-     "start": 37.649,
-     "end": 37.852
+     "start": 37.741,
+     "end": 37.943
     },
     {
      "w": "soil",
-     "start": 37.852,
-     "end": 38.054
+     "start": 37.943,
+     "end": 38.144
     },
     {
      "w": "from",
-     "start": 38.054,
-     "end": 38.256
+     "start": 38.144,
+     "end": 38.345
     },
     {
      "w": "under",
-     "start": 38.256,
-     "end": 38.608
+     "start": 38.345,
+     "end": 38.695
     },
     {
      "w": "the",
-     "start": 38.608,
-     "end": 38.811
+     "start": 38.695,
+     "end": 38.897
     },
     {
      "w": "high",
-     "start": 38.811,
-     "end": 39.013
+     "start": 38.897,
+     "end": 39.098
     },
     {
      "w": "side,",
-     "start": 39.013,
-     "end": 39.215
+     "start": 39.098,
+     "end": 39.299
     },
     {
      "w": "bit",
-     "start": 39.365,
-     "end": 39.555
+     "start": 39.459,
+     "end": 39.649
     },
     {
      "w": "by",
-     "start": 39.555,
-     "end": 39.745
+     "start": 39.649,
+     "end": 39.839
     },
     {
      "w": "bit,",
-     "start": 39.745,
-     "end": 39.935
+     "start": 39.839,
+     "end": 40.029
     },
     {
      "w": "and",
-     "start": 40.105,
-     "end": 40.28
+     "start": 40.189,
+     "end": 40.365
     },
     {
      "w": "it",
-     "start": 40.28,
-     "end": 40.455
+     "start": 40.365,
+     "end": 40.541
     },
     {
      "w": "settles",
-     "start": 40.455,
-     "end": 40.76
+     "start": 40.541,
+     "end": 40.848
     },
     {
      "w": "back",
-     "start": 40.76,
-     "end": 40.936
+     "start": 40.848,
+     "end": 41.024
     },
     {
      "w": "forty-five",
-     "start": 40.936,
-     "end": 41.37
+     "start": 41.024,
+     "end": 41.461
     },
     {
      "w": "centimeters.",
-     "start": 41.37,
-     "end": 41.935
+     "start": 41.461,
+     "end": 42.029
     }
    ]
   },
   {
    "line": 10,
-   "start": 42.365,
-   "end": 45.906,
+   "start": 42.458,
+   "end": 46.188,
    "text": "But before you climb it, follow, because next we're building a Bedouin tent.",
    "words": [
     {
      "w": "But",
-     "start": 42.505,
-     "end": 42.677
+     "start": 42.608,
+     "end": 42.779
     },
     {
      "w": "before",
-     "start": 42.677,
-     "end": 42.978
+     "start": 42.779,
+     "end": 43.076
     },
     {
      "w": "you",
-     "start": 42.978,
-     "end": 43.15
+     "start": 43.076,
+     "end": 43.247
     },
     {
      "w": "climb",
-     "start": 43.15,
-     "end": 43.323
+     "start": 43.247,
+     "end": 43.417
     },
     {
      "w": "it,",
-     "start": 43.323,
-     "end": 43.495
+     "start": 43.417,
+     "end": 43.588
     },
     {
      "w": "follow,",
-     "start": 43.635,
-     "end": 43.975
+     "start": 43.758,
+     "end": 44.088
     },
     {
      "w": "because",
-     "start": 44.105,
-     "end": 44.422
+     "start": 44.228,
+     "end": 44.583
     },
     {
      "w": "next",
-     "start": 44.422,
-     "end": 44.604
+     "start": 44.583,
+     "end": 44.787
     },
     {
      "w": "we're",
-     "start": 44.604,
-     "end": 44.786
+     "start": 44.787,
+     "end": 44.991
     },
     {
      "w": "building",
-     "start": 44.786,
-     "end": 45.104
+     "start": 44.991,
+     "end": 45.345
     },
     {
      "w": "a",
-     "start": 45.104,
-     "end": 45.286
+     "start": 45.345,
+     "end": 45.549
     },
     {
      "w": "Bedouin",
-     "start": 45.286,
-     "end": 45.603
+     "start": 45.549,
+     "end": 45.904
     },
     {
      "w": "tent.",
-     "start": 45.603,
-     "end": 45.785
+     "start": 45.904,
+     "end": 46.108
     }
    ]
   },
   {
    "line": 11,
-   "start": 46.271,
-   "end": 51.708,
-   "text": "Now the twist: the soft clay that tilts it also saves it, soaking up four big earthquakes since twelve eighty.",
+   "start": 46.552,
+   "end": 52.135,
+   "text": "Now the twist: the soft clay that makes it lean also saves it, soaking up four big earthquakes since twelve eighty.",
    "words": [
     {
      "w": "Now",
-     "start": 46.381,
-     "end": 46.601
+     "start": 46.662,
+     "end": 46.879
     },
     {
      "w": "the",
-     "start": 46.601,
-     "end": 46.821
+     "start": 46.879,
+     "end": 47.095
     },
     {
      "w": "twist:",
-     "start": 46.821,
-     "end": 47.041
+     "start": 47.095,
+     "end": 47.312
     },
     {
      "w": "the",
-     "start": 47.231,
-     "end": 47.408
+     "start": 47.502,
+     "end": 47.699
     },
     {
      "w": "soft",
-     "start": 47.408,
-     "end": 47.586
+     "start": 47.699,
+     "end": 47.895
     },
     {
      "w": "clay",
-     "start": 47.586,
-     "end": 47.763
+     "start": 47.895,
+     "end": 48.092
     },
     {
      "w": "that",
-     "start": 47.763,
-     "end": 47.941
+     "start": 48.092,
+     "end": 48.289
     },
     {
-     "w": "tilts",
-     "start": 47.941,
-     "end": 48.118
+     "w": "makes",
+     "start": 48.289,
+     "end": 48.631
     },
     {
      "w": "it",
-     "start": 48.118,
-     "end": 48.296
+     "start": 48.631,
+     "end": 48.828
+    },
+    {
+     "w": "lean",
+     "start": 48.828,
+     "end": 49.024
     },
     {
      "w": "also",
-     "start": 48.296,
-     "end": 48.605
+     "start": 49.024,
+     "end": 49.367
     },
     {
      "w": "saves",
-     "start": 48.605,
-     "end": 48.914
+     "start": 49.367,
+     "end": 49.709
     },
     {
      "w": "it,",
-     "start": 48.914,
-     "end": 49.091
+     "start": 49.709,
+     "end": 49.906
     },
     {
      "w": "soaking",
-     "start": 49.241,
-     "end": 49.62
+     "start": 49.906,
+     "end": 50.248
     },
     {
      "w": "up",
-     "start": 49.62,
-     "end": 49.838
+     "start": 50.248,
+     "end": 50.445
     },
     {
      "w": "four",
-     "start": 49.838,
-     "end": 50.057
+     "start": 50.445,
+     "end": 50.642
     },
     {
      "w": "big",
-     "start": 50.057,
-     "end": 50.275
+     "start": 50.642,
+     "end": 50.838
     },
     {
      "w": "earthquakes",
-     "start": 50.275,
-     "end": 50.815
+     "start": 50.838,
+     "end": 51.326
     },
     {
      "w": "since",
-     "start": 50.815,
-     "end": 51.034
+     "start": 51.326,
+     "end": 51.523
     },
     {
      "w": "twelve",
-     "start": 51.034,
-     "end": 51.252
+     "start": 51.523,
+     "end": 51.72
     },
     {
      "w": "eighty.",
-     "start": 51.252,
-     "end": 51.631
+     "start": 51.72,
+     "end": 52.062
     }
    ]
   },
   {
    "line": 12,
-   "start": 52.073,
-   "end": 56.833,
+   "start": 52.5,
+   "end": 57.26,
    "text": "Fifty-six meters tall, over fourteen thousand tons, and almost four degrees of lean.",
    "words": [
     {
      "w": "Fifty-six",
-     "start": 52.193,
-     "end": 52.787
+     "start": 52.62,
+     "end": 53.209
     },
     {
      "w": "meters",
-     "start": 52.787,
-     "end": 53.204
+     "start": 53.209,
+     "end": 53.623
     },
     {
      "w": "tall,",
-     "start": 53.204,
-     "end": 53.443
+     "start": 53.623,
+     "end": 53.86
     },
     {
      "w": "over",
-     "start": 53.593,
-     "end": 54.018
+     "start": 54.02,
+     "end": 54.445
     },
     {
      "w": "fourteen",
-     "start": 54.018,
-     "end": 54.443
+     "start": 54.445,
+     "end": 54.87
     },
     {
      "w": "thousand",
-     "start": 54.443,
-     "end": 54.869
+     "start": 54.87,
+     "end": 55.296
     },
     {
      "w": "tons,",
-     "start": 54.869,
-     "end": 55.113
+     "start": 55.296,
+     "end": 55.54
     },
     {
      "w": "and",
-     "start": 55.253,
-     "end": 55.458
+     "start": 55.68,
+     "end": 55.883
     },
     {
      "w": "almost",
-     "start": 55.458,
-     "end": 55.813
+     "start": 55.883,
+     "end": 56.237
     },
     {
      "w": "four",
-     "start": 55.813,
-     "end": 56.018
+     "start": 56.237,
+     "end": 56.44
     },
     {
      "w": "degrees",
-     "start": 56.018,
-     "end": 56.374
+     "start": 56.44,
+     "end": 56.794
     },
     {
      "w": "of",
-     "start": 56.374,
-     "end": 56.578
+     "start": 56.794,
+     "end": 56.997
     },
     {
      "w": "lean.",
-     "start": 56.578,
-     "end": 56.783
+     "start": 56.997,
+     "end": 57.2
     }
    ]
   },
   {
    "line": 13,
-   "start": 57.198,
-   "end": 60.438,
+   "start": 57.625,
+   "end": 60.865,
    "text": "And congrats, you just built the Leaning Tower of Pisa yourself.",
    "words": [
     {
      "w": "And",
-     "start": 57.318,
-     "end": 57.521
+     "start": 57.745,
+     "end": 57.949
     },
     {
      "w": "congrats,",
-     "start": 57.521,
-     "end": 57.875
+     "start": 57.949,
+     "end": 58.304
     },
     {
      "w": "you",
-     "start": 57.875,
-     "end": 58.079
+     "start": 58.304,
+     "end": 58.508
     },
     {
      "w": "just",
-     "start": 58.079,
-     "end": 58.282
+     "start": 58.508,
+     "end": 58.712
     },
     {
      "w": "built",
-     "start": 58.282,
-     "end": 58.485
+     "start": 58.712,
+     "end": 58.916
     },
     {
      "w": "the",
-     "start": 58.485,
-     "end": 58.689
+     "start": 58.916,
+     "end": 59.12
     },
     {
      "w": "Leaning",
-     "start": 58.689,
-     "end": 59.043
+     "start": 59.12,
+     "end": 59.475
     },
     {
      "w": "Tower",
-     "start": 59.043,
-     "end": 59.397
+     "start": 59.475,
+     "end": 59.831
     },
     {
      "w": "of",
-     "start": 59.397,
-     "end": 59.6
+     "start": 59.831,
+     "end": 60.035
     },
     {
      "w": "Pisa",
-     "start": 59.6,
-     "end": 59.954
+     "start": 60.035,
+     "end": 60.39
     },
     {
      "w": "yourself.",
-     "start": 59.954,
-     "end": 60.308
+     "start": 60.39,
+     "end": 60.745
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.802,
-   "end": 64.781,
+   "start": 61.229,
+   "end": 65.208,
    "text": "It's stood on its own for eight centuries, and every tourist still thinks it needs a hand.",
    "words": [
     {
      "w": "It's",
-     "start": 60.932,
-     "end": 61.114
+     "start": 61.359,
+     "end": 61.541
     },
     {
      "w": "stood",
-     "start": 61.114,
-     "end": 61.297
+     "start": 61.541,
+     "end": 61.724
     },
     {
      "w": "on",
-     "start": 61.297,
-     "end": 61.479
+     "start": 61.724,
+     "end": 61.906
     },
     {
      "w": "its",
-     "start": 61.479,
-     "end": 61.662
+     "start": 61.906,
+     "end": 62.089
     },
     {
      "w": "own",
-     "start": 61.662,
-     "end": 61.844
+     "start": 62.089,
+     "end": 62.271
     },
     {
      "w": "for",
-     "start": 61.844,
-     "end": 62.027
+     "start": 62.271,
+     "end": 62.454
     },
     {
      "w": "eight",
-     "start": 62.027,
-     "end": 62.209
+     "start": 62.454,
+     "end": 62.636
     },
     {
      "w": "centuries,",
-     "start": 62.209,
-     "end": 62.662
+     "start": 62.636,
+     "end": 63.089
     },
     {
      "w": "and",
-     "start": 62.802,
-     "end": 62.971
+     "start": 63.229,
+     "end": 63.398
     },
     {
      "w": "every",
-     "start": 62.971,
-     "end": 63.391
+     "start": 63.398,
+     "end": 63.818
     },
     {
      "w": "tourist",
-     "start": 63.391,
-     "end": 63.686
+     "start": 63.818,
+     "end": 64.113
     },
     {
      "w": "still",
-     "start": 63.686,
-     "end": 63.855
+     "start": 64.113,
+     "end": 64.282
     },
     {
      "w": "thinks",
-     "start": 63.855,
-     "end": 64.025
+     "start": 64.282,
+     "end": 64.452
     },
     {
      "w": "it",
-     "start": 64.025,
-     "end": 64.194
+     "start": 64.452,
+     "end": 64.621
     },
     {
      "w": "needs",
-     "start": 64.194,
-     "end": 64.363
+     "start": 64.621,
+     "end": 64.79
     },
     {
      "w": "a",
-     "start": 64.363,
-     "end": 64.533
+     "start": 64.79,
+     "end": 64.96
     },
     {
      "w": "hand.",
-     "start": 64.533,
-     "end": 64.702
+     "start": 64.96,
+     "end": 65.129
     }
    ]
   }
