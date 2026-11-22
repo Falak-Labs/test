@@ -29,6 +29,17 @@ a quiz, the hard word (parts, whole word, a sentence close to home, its meaning,
 - Making a Short: `python3 yallah/make.py <lesson> <ma|pa> <out_dir>` does everything from the script to the checked
   MP4 with the voices already in `darija/voice/`. The workflow "Yallah Say production" runs it on the runner, one
   dialect per machine (`dest=lab` for a test copy on the yallah-lab branch, `dest=media` to publish for posting).
+  Tested twice on Nov 22 (UTC) by rebuilding lesson 01 in both dialects: script.js and tl.js came out identical to the
+  published build every time; final.wav was identical on three of four machines and differed only by rounding on the
+  fourth (another CPU; the two sound tracks correlate at 0.9999). The picture matches the chat sandbox's render at a
+  mean similarity (SSIM) of 0.993: only the edge smoothing of shapes and letters differs. A machine draws 15 to 22
+  frames a second, so a Short takes 2 to 3 minutes to make and the whole run 4 to 5 minutes.
+- A lesson is data: `lessons/<NN>.json` (the hard word, the English phrases both dialects share, and each dialect's
+  hook, phrases and home sentence). `lessons/WEEK1.md` is the plan for the first 21 Shorts and 7 long lessons, the
+  outline of the 5-minute lesson and what the voices cost. Lesson 01 keeps the closing line it was recorded with;
+  new lessons get the default one in `kit/tools/gen2.py`, which sends viewers to YouTube too.
+- Still to build before a new lesson is recorded: fixed lines recorded once per dialect and shared by every lesson,
+  spare takes only on demand, pictures for any phrase from Fluent Emoji, then the 16:9 long lesson.
 - Voices: one Short is about 825 characters (ma01 806, pa01 843). The plan needs about 10,000 ElevenLabs credits a day.
   `darija/tools/credits.py` (workflow "Darija voice find", tool credits.py) writes what is left to
   `darija/voice/_find/credits.json`: check it before every batch and stop, telling the owner, when it would run out.
