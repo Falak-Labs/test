@@ -1,0 +1,40 @@
+episode: sm03                     # Survival Mode 3: You vs Gravity (the 4-minute show). This file posts its SHORT cuts to TikTok + Instagram.
+date: 2026-11-23
+video:
+  en: media/sm03-en.mp4
+  ar: media/sm03-ar.mp4
+# YouTube gets both the full video and this short through YouTube Studio: the main chat uploads them from the `show` branch
+# (kit/show/handoff.py) at about 16:45 PT on Sun Nov 22, so both YouTube targets stay on hold here for good. The TikTok and
+# Instagram targets start on hold too, because these shorts promise the full video: the main chat takes them off hold after
+# the YouTube uploads (scripts/yt_desk.py release sm03). No build run may take any target of this file off hold.
+hold: [en.youtube, ar.youtube, en.instagram, en.tiktok, ar.instagram, ar.tiktok]
+en:
+  at: "2026-11-23T20:15:00Z"      # 12:15 PT Mon Nov 23; the full video goes public on YouTube at 10:00 PT
+  title: "The Tower That Refuses to Fall 📐 Survival Mode: You vs Gravity"
+  text: |
+    No solid ground. No flat land. No thick walls. 🍎
+    Level 1: Pisa. The ground is soft clay and your tower starts sinking on one side, so you fight back with 600 tons of lead and a drill.
+    Three more bosses are waiting. All 4 levels are on our YouTube channel: @congratsengineer
+    Which one would beat you first: the clay, the mudslide, the weight or the wind? 👇
+  tags:
+    tiktok: "#survival #engineering #leaningtowerofpisa #howitworks #learnontiktok"
+    instagram: "#survival #engineering #pisa #howitworks #gravity"
+    youtube: "#survival #engineering"
+ar:
+  at: "2026-11-23T18:30:00Z"      # 10:30 PT Mon Nov 23 = 21:30 Riyadh; the full video goes public on YouTube at 09:00 PT (20:00 Riyadh)
+  title: "البرج اللي رافض يطيح 📐 طور البقاء: أنت ضد الجاذبية"
+  text:
+    default: |
+      بدون أرض صلبة. بدون أرض مستوية. بدون جدران سميكة. 🍎
+      المرحلة الأولى: بيزا. الأرض طين ليّن وبرجك بدأ يغوص من جهة، فتثبّته بستمية طن رصاص وتسحب التراب من تحته شوي شوي.
+      باقي قدامك ثلاثة زعماء. المراحل الأربع كلها على قناتنا في يوتيوب: @kef.tenbeni
+      مين كان بيغلبك أول: الطين، الانزلاق، الثقل ولا الريح؟ 👇
+    tiktok: |
+      بدون أرض صلبة. بدون أرض مستوية. بدون جدران سميكة. 🍎
+      المرحلة الأولى: بيزا. الأرض طين ليّن وبرجك بدأ يغوص من جهة، فتثبّته بستمية طن رصاص وتسحب التراب من تحته شوي شوي.
+      باقي قدامك ثلاثة زعماء في الحلقة الكاملة.
+      مين كان بيغلبك أول: الطين، الانزلاق، الثقل ولا الريح؟ 👇
+  tags:
+    tiktok: "#طور_البقاء #هندسة #برج_بيزا #السعودية #تعلم_على_التيك_توك"
+    instagram: "#طور_البقاء #هندسة #برج_بيزا #كيف_تنبني #معلومات"
+    youtube: "#طور_البقاء #هندسة"

@@ -1,0 +1,47 @@
+# What YouTube shows for Survival Mode 3: You vs Gravity. show/handoff.py turns this into the upload sheet.
+date: 2026-11-23                 # the Pacific day it goes public = TOMORROW, seen from the run (Sun Nov 22)
+chapters:                        # one label per chapter mark: the intro, the four levels, the results
+  en: ["No solid ground. No flat land. No thick walls.", "Level 1: Pisa vs the soft clay", "Level 2: Machu Picchu vs the mudslide",
+       "Level 3: Sydney vs the weight", "Final level: Liberty vs the wind", "Results"]
+  ar: ["بدون أرض صلبة ولا جدران سميكة", "المرحلة الأولى: بيزا والطين الليّن", "المرحلة الثانية: ماتشو بيتشو والانزلاق",
+       "المرحلة الثالثة: سيدني والثقل", "المرحلة الأخيرة: تمثال الحرية والريح", "النتيجة"]
+en:
+  full:
+    time: "10:00"                # Pacific
+    title: "Survival Mode: You vs Gravity 🍎 Save a Leaning Tower, Stop a Mudslide"      # under 75 characters
+    desc: |
+      No solid ground. No flat land. No thick walls. Four levels, four bosses that want everything to fall down, and you beat them with lead, gravel, steel cable and iron.
+
+      {chapters}
+
+      Every level is a real build: the Leaning Tower of Pisa settled back 45 cm after soil was drilled out from under its high side, Machu Picchu has gone five centuries without a slide in two metres of rain a year, the Sydney Opera House roof is 2,194 pieces pulled tight by 350 km of steel cable, and the Statue of Liberty's copper skin, as thin as two coins, hangs on an iron tower built by Gustave Eiffel.
+
+      New episode every day. Subscribe, or the boss wins.
+      #engineering #survival #howitworks
+  short:
+    time: "12:15"
+    title: "The Tower That Refuses to Fall 📐 Survival Mode: You vs Gravity"
+    desc: |
+      Level 1 of 4: Pisa. The ground is soft clay and the tower starts sinking on one side, so you hold it with 600 tons of lead and drill the soil out from under it.
+      The full episode with all four levels is on this channel: "Survival Mode: You vs Gravity".
+      #Shorts #engineering #survival
+ar:
+  full:
+    time: "09:00"                # 20:00 in Riyadh
+    title: "طور البقاء: أنت ضد الجاذبية 🍎 أربع مراحل وأربعة زعماء"
+    desc: |
+      بدون أرض صلبة. بدون أرض مستوية. بدون جدران سميكة. أربع مراحل وأربعة زعماء يبون كل شي يطيح، وأنت تغلبهم بالرصاص والحصى والكيابل والحديد.
+
+      {chapters}
+
+      كل مرحلة بناء حقيقي: برج بيزا المايل رجع خمسة وأربعين سانتي بعد ما سحبوا التراب من تحت جهته العالية، وماتشو بيتشو صامدة خمس قرون بدون انزلاق في مترين مطر بالسنة، وسقف دار أوبرا سيدني ألفين ومية وأربعة وتسعين قطعة تشدها ثلاثمية وخمسين كيلو كيابل حديد، وتمثال الحرية جلده نحاس رقيق مثل عملتين، معلّق على برج حديد بناه غوستاف إيفل.
+
+      حلقة جديدة كل يوم. اشترك، ولا الزعيم يفوز.
+      #هندسة #طور_البقاء #كيف_تنبني
+  short:
+    time: "10:30"
+    title: "البرج اللي رافض يطيح 📐 طور البقاء: أنت ضد الجاذبية"
+    desc: |
+      المرحلة الأولى من أربع: بيزا. الأرض طين ليّن والبرج بدأ يغوص من جهة، فتثبّته بستمية طن رصاص وتسحب التراب من تحته.
+      الحلقة الكاملة بالمراحل الأربع على القناة: "طور البقاء: أنت ضد الجاذبية".
+      #Shorts #هندسة #طور_البقاء

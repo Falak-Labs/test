@@ -13,16 +13,22 @@ final videos and draws the game layer (level cards, a boss health bar that each 
 unlocked", a results card), adds new narration, music and jingles.
 
 Episodes so far: `specs/sm01.yml` Zero Electricity (windtower, falaj, igloo, ondol; English only),
-`specs/sm02.yml` You vs Water (panama, venice, aswan, palmjumeirah). Never reuse a build.
+`specs/sm02.yml` You vs Water (panama, venice, aswan, palmjumeirah; Egyptian narrator), `specs/sm03.yml` You vs Gravity
+(pisa, machupicchu, operahouse, liberty; the first Saudi episode: copy its `ar:` block). Never reuse a build.
 
 ## 1. Pick four builds
 - One idea that makes them one fight: an enemy (heat, water, gravity, time, ...) or a place.
 - All four must have the SAME Arabic narrator, because the Arabic cut plays the builds' own voices:
   `python3 show/stock.py` lists the builds still free, by narrator (Egyptian: builds 24-40 and the even ones from 42;
   Saudi Mansour: the odd ones from 41, `ar_alt.kits` in voices.yml; Saudi NAMAA: builds 6-20).
-  A Saudi episode needs Saudi lines read by Mansour: add the episode's kit to `ar_alt.kits`, and for the closing
-  lines copy `series/survivalpromo_lines_ar_sa.txt` to a new kit in Saudi dialect (also in `ar_alt.kits`), then set
-  `promo: <kit>` and `or_boss` / `next` in the spec's `ar:` block.
+  From Nov 22 2026 every new Arabic voice is Saudi Mansour (the owner; voices.yml `ar`), so take the four builds from
+  the Mansour group and write the 8 Arabic lines in Saudi dialect. The closing lines in Saudi dialect are recorded:
+  kit `survivalpromosa`. Copy the `ar:` block of `specs/sm03.yml` (`promo: survivalpromosa`, `or_boss`, `next`);
+  voices.yml needs no change. The show's Arabic lines are made at the mean tempo of the episode's four builds
+  (`show_tempo` in scripts/make_voices.py; Mansour's builds play at x1.04 to x1.12), so the narrator keeps one pace.
+- The builds' final videos come from `media/` or, once retired, from git history. A shallow clone only reaches builds
+  retired in its last commits (on Nov 22: not barrier, greatwall, burjalarab, fridge): `git fetch --deepen=300 origin
+  main` first when `fetch` says a video was never deleted in git history.
 - Level 1 is the whole short cut: put the build with the strongest picture first. The last level's music plays under
   the results card: give it the `ondol` bed.
 
@@ -31,8 +37,14 @@ Copy `specs/sm02.yml`. Per level: `kit`, `music` (desert | oasis | arctic | ondo
 language `world`, `boss`, `sub`, `unlocked`, `stamp` (one or two words: it is stamped in the cold open and on the
 thumbnail) and three `chips` (a number, then a label; numbers and units in Latin letters in both languages, because
 the big number is drawn with the Latin font). Every number must come from the build's own checked script.
-Per language: `chip`, `ribbon`, `ribbon_icon` (see `layout.ICON`), `no_icons` (three), `result_label` /
-`result_value` (the joke row on the results card), `emph` (caption words to light up) and `cues` (below).
+Per language: `chip`, `ribbon`, `ribbon_icon` (see `layout.ICON`; draw a new icon there when the idea needs one, as
+`rock`, `flat` and `down` were for sm03), `no_icons` (three), `result_label` / `result_value` (the joke row on the
+results card), `emph` (caption words to light up, written exactly as in the line: "والريح", not "الريح") and `cues`.
+`shot` / `still` (seconds into the build; optional, per level or inside `en:` / `ar:` when the two hooks differ): the
+cold open, the thumbnail and the short's boss flashes show each world from `shot`, the level card's backdrop is
+`still`. The default is the end of the hook, which is often a bare start (two floors of a tower, a blueprint): run
+`build_show.py <id> <lang> <work> full fetch prep thumb` (it needs no voice; it stops at the plan), look at
+`<work>/<lang>/thumbnail.jpg`, and set `shot` to the hook's big picture (first 2 to 6 seconds of the build).
 
 Narration, 8 lines in `series/<id>_lines.txt` and `series/<id>_lines_ar_sa.txt`:
 1. Three short sentences ("No boat. No bridge. No dry land."): one icon slams in per sentence.

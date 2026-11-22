@@ -5,6 +5,8 @@ levels:
   - kit: pisa
     music: desert
     color: "#FFD08A"
+    shot: 4.4                         # the hook's picture (the whole tower leaning at sunset), not the first two floors
+    still: 5.2
     en: {world: "PISA", boss: "THE SOFT CLAY", sub: "SOFT CLAY  ·  THE TOWER SINKS ON ONE SIDE", unlocked: "LEANING TOWER OF PISA",
          stamp: "LEANING", chips: [["56 m", "TALL"], ["14,000+", "TONS"], ["~4°", "OF LEAN"]]}
     ar: {world: "بيزا", boss: "الطين الليّن", sub: "طين ليّن  ·  والبرج يغوص من جهة", unlocked: "برج بيزا المايل",
@@ -12,6 +14,8 @@ levels:
   - kit: machupicchu
     music: arctic
     color: "#8FE3A0"
+    shot: 3.6                         # the city on its terraces in the rain, not the bare slope
+    still: 4.4
     en: {world: "THE MOUNTAIN", boss: "THE MUDSLIDE", sub: "2 m OF RAIN A YEAR  ·  THE MUD SLIDES", unlocked: "MACHU PICCHU",
          stamp: "SLIDING", chips: [["2,400 m", "UP"], ["60%", "UNDERGROUND"], ["500", "YEARS, NO SLIDE"]]}
     ar: {world: "الجبل الحاد", boss: "الانزلاق", sub: "مترين مطر بالسنة  ·  والطين ينزلق", unlocked: "ماتشو بيتشو",
@@ -19,6 +23,8 @@ levels:
   - kit: operahouse
     music: oasis
     color: "#7FD4FF"
+    shot: 4.8                         # the finished shells at sunset, not the blueprint board
+    still: 5.4
     en: {world: "SYDNEY", boss: "THE WEIGHT", sub: "A SKETCH OF SAILS  ·  PIECES UP TO 15 TONNES", unlocked: "SYDNEY OPERA HOUSE",
          stamp: "TOO HEAVY", chips: [["67 m", "TALL"], ["2,194", "ROOF PIECES"], ["1M+", "TILES"]]}
     ar: {world: "سيدني", boss: "الثقل", sub: "رسمة أشرعة  ·  وقطع توصل خمسطعش طن", unlocked: "دار أوبرا سيدني",
@@ -27,9 +33,11 @@ levels:
     music: ondol
     color: "#6FE0C0"
     en: {world: "THE HARBOR", boss: "THE WIND", sub: "SKIN AS THIN AS 2 COINS  ·  STORMS CRUMPLE IT", unlocked: "STATUE OF LIBERTY",
-         stamp: "CRUMPLING", chips: [["46 m", "TALL"], ["93 m", "WITH PEDESTAL"], ["13 cm", "TORCH SWAY"]]}
+         stamp: "CRUMPLING", chips: [["46 m", "TALL"], ["93 m", "WITH PEDESTAL"], ["13 cm", "TORCH SWAY"]],
+         shot: 2.6, still: 3.4}       # the camera pulls back to the harbor in the storm (the Arabic hook does it earlier)
     ar: {world: "الميناء", boss: "الريح", sub: "جلد رقيق مثل عملتين  ·  والعاصفة تطويه", unlocked: "تمثال الحرية",
-         stamp: "ينطوي", chips: [["46 m", "ارتفاع"], ["93 m", "مع القاعدة"], ["13 cm", "تمايل الشعلة"]]}
+         stamp: "ينطوي", chips: [["46 m", "ارتفاع"], ["93 m", "مع القاعدة"], ["13 cm", "تمايل الشعلة"]],
+         shot: 1.85, still: 2.7}
 en:
   chip: "SURVIVAL MODE  ·  YOU VS GRAVITY"
   ribbon: "YOU VS GRAVITY"
