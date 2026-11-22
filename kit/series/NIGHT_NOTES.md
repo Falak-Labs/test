@@ -1551,3 +1551,6 @@ Owner did the Advanced features verification on Congrats Engineer and Kef Tenben
   `yt_desk.py release sm03`.
 - For the build runs: media/sm01-survival-en.mp4 and media/sm02-*.mp4 may be retired (all their posts are sent, their
   YouTube uploads are in the ledger); media/sm03-* stays until its four posts are out.
+
+## Nov 22 16:00 PT: desk round done early (check-in 15:40)
+Verified: true worked: all 10 Studio uploads for Nov 23 went through with no daily-limit refusal (sm03 full+short and builds 64-66, both channels). Ledger updated, sm03 released, state/sm03.json has all four TikTok/Instagram targets scheduled (AR 18:30Z, EN 20:15Z). Episode 2 (sm02) is public everywhere. Studio showed "We are still checking your content" after Schedule: click "Got it" (the call 2 script now does it).
