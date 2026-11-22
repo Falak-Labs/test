@@ -1,0 +1,154 @@
+{
+ "episode": "ma09",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 265,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v1",
+  "v2",
+  "T_brek",
+  "T_fust"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "سلام! واش كتعرف تقول الفطور بالإنجليزية؟",
+   "characters": 40,
+   "model": "eleven_v4",
+   "seconds": 3.92
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "الجواب فالآخر. يالله!",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "قهوة وحدة، عافاك.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "بالسكر؟",
+   "characters": 7,
+   "model": "eleven_v4",
+   "seconds": 1.2
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "بلا سكر، شكرا.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "ممكن نخلص بالكارطا؟",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "شنو هي كلمة السر ديال الوايفاي؟",
+   "characters": 31,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Breakfast.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Good job! Breakfast!",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Moroccan breakfast: msemen, honey and mint tea!",
+   "characters": 47,
+   "model": "eleven_v4",
+   "seconds": 4.4
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "فطور مغربي: مسمن، عسل و أتاي!",
+   "characters": 29,
+   "model": "eleven_v4",
+   "seconds": 3.84
+  },
+  {
+   "id": "T_brek",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Brek.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_fust",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Fust.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  }
+ ]
+}

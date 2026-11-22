@@ -1,0 +1,164 @@
+{
+ "episode": "pa07",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 217,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v1",
+  "v2",
+  "T_vej",
+  "T_tuh",
+  "T_bulz"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مرحبا! بتعرف كيف تحكي الخضرة بالإنجليزي؟",
+   "characters": 40,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الجواب بالآخر. يلا!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "أنا جوعان.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "أنا عطشان.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بدي دجاج.",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "كتير زاكي!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مي، لو سمحت.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Vegetables.",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Vegetables!",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 2.24
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Maqluba: rice, chicken and vegetables!",
+   "characters": 38,
+   "model": "eleven_v4",
+   "seconds": 3.84
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مقلوبة: رز، دجاج و خضرة!",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 3.28
+  },
+  {
+   "id": "T_vej",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Vej.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_tuh",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Tuh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_bulz",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Bulz.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  }
+ ]
+}

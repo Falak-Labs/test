@@ -1,0 +1,134 @@
+{
+ "episode": "kids09",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 130,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "Lw",
+  "A_brek",
+  "A_fust",
+  "L_brek",
+  "L_fust"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "One coffee, please.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "With sugar?",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "No sugar, thanks.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Can I pay by card?",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "What's the wifi password?",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Breakfast!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Breakfast!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "A_brek",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Brek.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "A_fust",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Fust.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "L_brek",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Brek.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "L_fust",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Fust.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  }
+ ]
+}

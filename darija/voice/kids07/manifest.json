@@ -1,0 +1,154 @@
+{
+ "episode": "kids07",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 117,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "Lw",
+  "A_vej",
+  "A_tuh",
+  "A_bulz",
+  "L_vej",
+  "L_tuh",
+  "L_bulz"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I'm hungry.",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "I'm thirsty.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I'd like chicken.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "It's delicious!",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Water, please.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Vegetables!",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Vegetables!",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "A_vej",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Vej.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "A_tuh",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Tuh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.72
+  },
+  {
+   "id": "A_bulz",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Bulz.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "L_vej",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Vej.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "L_tuh",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Tuh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.64
+  },
+  {
+   "id": "L_bulz",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Bulz.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  }
+ ]
+}

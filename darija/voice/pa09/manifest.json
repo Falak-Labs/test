@@ -1,0 +1,154 @@
+{
+ "episode": "pa09",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 260,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v1",
+  "v2",
+  "T_brek",
+  "T_fust"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مرحبا! بتعرف كيف تحكي الفطور بالإنجليزي؟",
+   "characters": 40,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الجواب بالآخر. يلا!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "فنجان قهوة، لو سمحت.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بسكر؟",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بدون سكر، شكرا.",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "ممكن أدفع بالكرت؟",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "شو كلمة السر للوايفاي؟",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Breakfast.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Breakfast!",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Palestinian breakfast: za'atar, olive oil and bread!",
+   "characters": 52,
+   "model": "eleven_v4",
+   "seconds": 4.56
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "فطور فلسطيني: زعتر، زيت و خبز!",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 3.92
+  },
+  {
+   "id": "T_brek",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Brek.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "T_fust",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Fust.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  }
+ ]
+}
