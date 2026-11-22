@@ -1284,3 +1284,16 @@
   whether its session gets the Claude in Chrome tools is only known after the first run. If it does not, the run stops
   before YouTube, keeps the short cuts back and tells the owner; this chat looks at 15:40 PT on Nov 22 and can do the
   Studio uploads itself (its browser tools worked all day on Nov 21).
+- 16:10 PT, the owner, asked whether all six builds should go to YouTube Shorts through Studio or only the best two:
+  "Ok let's keep buffer then for IG and TK / You got it boss". So YouTube leaves Buffer: see the new YouTube rule in
+  LINEUP.md (every build to Shorts through Studio, Buffer as the fallback when the browser is out of reach). Done
+  right away for the two builds of Sun Nov 22 that were on hold: 58 Ferris wheel (English 06:00 PT
+  https://youtube.com/shorts/FWkyE8zhGCc, Arabic 00:00 PT https://youtube.com/shorts/Xp63m__gDB8) and 60 microwave
+  (English 11:00 PT https://youtube.com/shorts/RScSVg5TLFU, Arabic 06:00 PT https://youtube.com/shorts/DDg7NsgvBJw),
+  each scheduled in Studio from an upload sheet (scripts/yt_meta.py + the two calls in YOUTUBE_STUDIO_UPLOAD.md,
+  section "Builds"; one browser_batch per video, about a minute each). 59 Statue of Liberty stays on Buffer's YouTube
+  (already scheduled there), like 57 tonight. Builds 61-63 (the evening run of Nov 21) are the first to follow the
+  new rule. Older builds that never reached YouTube (English 40, 45, 46, 49, 52-56; Arabic 41-45, 52-56) are NOT
+  uploaded: the owner has not asked for the backlog.
+- YOUTUBE_STUDIO_UPLOAD.md (repo root) is the guide for any chat; the owner pasted a short prompt pointing to it into
+  another chat of his on Nov 21 (that chat posts long videos to its own channels, so check the channel name every time).

@@ -82,6 +82,72 @@ scheduled). Any chat of the owner can follow it.
    empty commit (force-push; the branch cannot be deleted from a chat).
 9. **Report** in a few lines: the link, the channel, public or scheduled for when, and anything you could not do.
 
+## Builds: every build's Short from an upload sheet (used Nov 21 for builds 58 and 60, both languages)
+The owner, Nov 21 2026: Buffer keeps Instagram and TikTok; YouTube goes up here.
+1. `python3 scripts/yt_meta.py <slug> [<slug> ...] > sheet_<date>.json` (slug = a posts file). One entry per
+   language, keyed `<slug>-en` / `<slug>-ar`: the video's raw link on main, the channel, the title and description
+   post.py would have sent, the language, and the slot as Studio wants it (`date` "Nov 22, 2026", `time` "6:00 AM",
+   Pacific time).
+2. Push that one file to the `uploads` branch (step 2 above). Give it a new name each time: raw links are cached for
+   a few minutes.
+3. Per channel: switch Studio to it, then for each video one `browser_batch`: navigate to
+   `https://studio.youtube.com/channel/<CHANNEL ID>/videos/upload?d=ud`, wait 5 s, and run these two calls (set KEY
+   and META in both). They stop by themselves when the channel, the date, the title or the time is not what the
+   sheet says.
+   ```js
+   // call 1: load the file
+   const KEY='ep58-ferriswheel-en'; const META='https://raw.githubusercontent.com/Falak-Labs/test/uploads/sheet.json';
+   const m=(await (await fetch(META)).json())[KEY];
+   const chan=Array.from(document.querySelectorAll('ytcp-navigation-drawer #entity-name')).map(e=>e.textContent.trim())[0];
+   const inp=document.querySelector('ytcp-uploads-file-picker input[type=file]'); let res;
+   if(!inp || chan!==m.channel){ res={error:'wrong channel or no upload box', chan}; }
+   else { const r=await fetch(m.url); const b=await r.blob(); const f=new File([b], KEY+'.mp4', {type:'video/mp4'});
+     const dt=new DataTransfer(); dt.items.add(f); inp.files=dt.files; inp.dispatchEvent(new Event('change',{bubbles:true}));
+     res={chan, status:r.status, size:b.size}; }
+   JSON.stringify(res)
+   ```
+   ```js
+   // call 2: fill, schedule, report
+   const KEY='ep58-ferriswheel-en'; const META='https://raw.githubusercontent.com/Falak-Labs/test/uploads/sheet.json';
+   const sleep=ms=>new Promise(r=>setTimeout(r,ms)); const norm=s=>s.replace(/\s+/g,' ').trim(); await sleep(3500);
+   const m=(await (await fetch(META)).json())[KEY]; const d=document.querySelector('ytcp-uploads-dialog');
+   const setBox=(sel,txt)=>{ const el=d.querySelector(sel); el.focus(); const s=getSelection(); const r=document.createRange();
+     r.selectNodeContents(el); s.removeAllRanges(); s.addRange(r); document.execCommand('insertText', false, txt); return el.innerText; };
+   const title=setBox('#title-textarea #textbox', m.title); const desc=setBox('#description-textarea #textbox', m.desc);
+   d.querySelector('tp-yt-paper-radio-button[name=VIDEO_MADE_FOR_KIDS_NOT_MFK]').click();
+   const more=d.querySelector('#toggle-button'); if(more && /more/i.test(more.innerText)) more.click(); await sleep(1500);
+   const q=n=>d.querySelector('tp-yt-paper-radio-button[name='+n+']');
+   q('VIDEO_PAID_PRODUCT_PLACEMENT_NO').click(); await sleep(300); q('VIDEO_HAS_ALTERED_CONTENT_NO').click(); await sleep(400);
+   d.querySelector('#language-input ytcp-dropdown-trigger, #language-input ytcp-text-dropdown-trigger').click(); await sleep(1500);
+   const it=Array.from(document.querySelectorAll('ytcp-text-menu tp-yt-paper-item, tp-yt-paper-listbox tp-yt-paper-item'))
+     .filter(e=>e.offsetParent!==null).find(e=>e.innerText.trim()===m.language); if(it) it.click(); await sleep(2000);
+   const st=n=>q(n).getAttribute('aria-checked');
+   const out={title, titleOk: title.trim()===m.title, descLen: desc.length, wantLen: m.desc.length, kidsNo:st('VIDEO_MADE_FOR_KIDS_NOT_MFK'),
+     paidNo:st('VIDEO_PAID_PRODUCT_PLACEMENT_NO'), alteredNo:st('VIDEO_HAS_ALTERED_CONTENT_NO'), lang:norm(d.querySelector('#language-input').innerText)};
+   for(let i=0;i<3;i++){ d.querySelector('#next-button').click(); await sleep(1800); }
+   d.querySelector('#second-container-expand-button').click(); await sleep(1500);
+   const dp=d.querySelector('ytcp-datetime-picker'); out.date=norm(dp.querySelector('#datepicker-trigger').innerText);
+   out.chan=Array.from(document.querySelectorAll('ytcp-navigation-drawer #entity-name')).map(e=>e.textContent.trim())[0];
+   if(out.date!==m.date || out.chan!==m.channel || out.kidsNo!=='true' || !out.titleOk){ out.error='stopped before scheduling'; }
+   else { const inp=dp.querySelector('#time-of-day-container input'); inp.focus(); inp.select();
+     document.execCommand('insertText', false, m.time); inp.dispatchEvent(new Event('input',{bubbles:true})); await sleep(600);
+     inp.dispatchEvent(new KeyboardEvent('keydown',{key:'Enter',code:'Enter',keyCode:13,which:13,bubbles:true}));
+     inp.dispatchEvent(new KeyboardEvent('keyup',{key:'Enter',code:'Enter',keyCode:13,which:13,bubbles:true}));
+     inp.dispatchEvent(new Event('change',{bubbles:true})); inp.blur(); await sleep(1000); out.time=norm(inp.value);
+     for(let i=0;i<30;i++){ out.prog=(d.querySelector('.progress-label')||{innerText:''}).innerText; if(!/Uploading/i.test(out.prog)) break; await sleep(2000); }
+     out.link=[...new Set(Array.from(d.querySelectorAll('a')).map(a=>a.href).filter(h=>/youtu\.be|youtube\.com\/(watch|shorts)/.test(h)).map(h=>h.split('?')[0]))];
+     const btn=d.querySelector('#done-button'); out.button=norm(btn.innerText);
+     if(out.time!==m.time || out.button!=='Schedule'){ out.error='stopped: time or button is not as planned'; }
+     else { btn.click(); await sleep(6000);
+       out.answer=Array.from(document.querySelectorAll('ytcp-dialog, ytcp-video-share-dialog')).filter(e=>e.offsetParent!==null)
+         .map(e=>norm(e.innerText).replace(/https?:\/\/\S+/g,x=>x.split('?')[0]).slice(0,170)).filter(s=>s.length>16)[0]; } }
+   JSON.stringify(out)
+   ```
+   A good answer ends with `"answer":"Video processing Your video will be set to public on November 22, 2026 at 6:00 AM ..."`.
+   The time field holds a narrow no-break space ("6:00 AM"): compare it only after `norm()`.
+   This sheet schedules for TOMORROW only (the date Studio offers by default); the calls refuse any other date.
+4. Switch back to the channel you found, close the tab, empty the `uploads` branch.
+
 ## Known limits
 - The tappable "Related video" link on a Short is refused for this login ("Only channel owner can gain access").
 - End screens and cards were not tried.

@@ -24,12 +24,20 @@ Rules:
   numbers as spoken words, the same 13 lines and fact checks as the English. Write each line to be read aloud by one
   calm Saudi narrator at about 2.2 words a second; keep qaf natural. Check with tools/check_ar_voice.py and fix any
   line over 10% before producing.
-- YouTube (owner decided Nov 19 21:13 PT, option 1): Buffer's FREE plan sends only 2 YouTube posts a day per channel (its
-  help page: free 2, paid plans 100; Essentials is $6 a channel a month and also lifts the 10-post queue) and counts failed
-  ones, so of each PT day's 6 builds only the 2 strongest get YouTube (English and Arabic of the same builds); the other
-  4 posts files carry `hold: [en.youtube, ar.youtube]`. Strongest = famous mega-structures and everyday things, the
-  kinds that do best on Instagram and TikTok (claude/build-it-performance.md). Never put a third YouTube post on a PT day,
-  and never requeue a failed YouTube post onto a day that already has two (cmd=limits). YouTube is the lowest priority.
+- YouTube (owner, Nov 21 16:10 PT, once uploads through YouTube Studio worked: "let's keep buffer then for IG and TK"):
+  Buffer posts ONLY Instagram and TikTok. EVERY build goes to YouTube Shorts in both languages through YouTube Studio in
+  the owner's Chrome, scheduled there for the build's own slot, so every posts file carries
+  `hold: [en.youtube, ar.youtube]`. How: YOUTUBE_STUDIO_UPLOAD.md at the repo root, section "Builds". After the produce
+  runs, when the videos are on main and the posts files are written: `python3 scripts/yt_meta.py <slug> <slug> <slug>
+  > sheet.json`, push the sheet to the `uploads` branch, then per language switch Studio to the channel and run the
+  guide's two calls per video. Each answer must say "Your video will be set to public on <TOMORROW> at <the slot>".
+  Switch Studio back to the channel you found, close your tab, empty the `uploads` branch. YouTube itself allowed
+  about 10 uploads per channel per 24 hours on Nov 10-12; six builds plus the show's two is 8.
+  FALLBACK, for that run only: if the browser cannot be reached (no Claude in Chrome tools in your session, no browser
+  connected, a refused call, a sign-in or verification page), post YouTube through Buffer the old way: the 2 strongest
+  builds of the PT day per channel (Buffer's free plan sends 2 YouTube posts per channel in any rolling 24 hours and
+  counts failed ones: check with cmd=limits, never a third), `hold` on the rest, and say in your message that Studio
+  was out of reach. Never type a password or a code.
 - Captions (owner, Nov 19 21:18 PT): config.yml cta now ends English Instagram + TikTok and Arabic Instagram captions with
   "Follow us on YouTube ... @congratsengineer / @kef.tenbeni". It is added by post.py; do not write it into `text:`.
   Arabic TikTok is left out on purpose (spam refusals). Money plan and platform rules: project doc
