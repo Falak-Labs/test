@@ -4,28 +4,34 @@
    "id": "6b02d58e02479690924642ea",
    "channel": "6b028f958541f09ecb5fe973",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T19:36:47.000Z",
    "planned": "2026-11-22T11:35:00-08:00",
-   "created": "2026-11-22T11:44:07+00:00"
+   "created": "2026-11-22T11:44:07+00:00",
+   "sentAt": "2026-11-22T19:39:57.658Z",
+   "link": "https://www.instagram.com/reel/DgDko-fDRjb/"
   },
   "ar.tiktok": {
    "id": "6b02d58f846b0ee9078019bc",
    "channel": "6b028c3b8541f09ecb5fd4ae",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T19:35:01.000Z",
    "planned": "2026-11-22T11:35:00-08:00",
-   "created": "2026-11-22T11:44:07+00:00"
+   "created": "2026-11-22T11:44:07+00:00",
+   "sentAt": "2026-11-22T19:37:01.136Z",
+   "link": "https://tiktok.com/@thedarktoldmear/video/7711081626897288462"
   },
   "ar.youtube": {
    "id": "6b02d590d5eabfb8cca3db93",
    "channel": "6b028e5d8541f09ecb5fe26b",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T19:35:25.000Z",
    "planned": "2026-11-22T11:35:00-08:00",
-   "created": "2026-11-22T11:44:07+00:00"
+   "created": "2026-11-22T11:44:07+00:00",
+   "sentAt": "2026-11-22T19:35:32.067Z",
+   "link": "https://www.youtube.com/shorts/dU2bedryDWs"
   }
  }
 }

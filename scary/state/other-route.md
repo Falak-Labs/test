@@ -1,6 +1,6 @@
-# Yallah Say: posts that need another method, checked 2026-11-22T17:44:12+00:00
+# Yallah Say: posts that need another method, checked 2026-11-22T19:43:18+00:00
 
 Buffer did not post these. studio = YouTube Studio in the owner's Chrome (/YOUTUBE_STUDIO_UPLOAD.md); browser = the
 platform's own site in the owner's Chrome. When one of them goes out, note its link in state/youtube.md or here.
 
-Nothing: every post handed to Buffer went out or is still waiting for its time.
+- ep04-ar ar.instagram: Buffer could not publish it: {'message': 'It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.', 'rawError': 'Fa Next: browser.
