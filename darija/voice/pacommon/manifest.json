@@ -1,0 +1,94 @@
+{
+ "episode": "pacommon",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 159,
+ "recorded_this_run": [
+  "r0",
+  "w0",
+  "w2",
+  "w3",
+  "w4",
+  "v0",
+  "o1"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "r0",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "تعالوا نعيد!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "w0",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "هسا، كلمة اليوم الصعبة!",
+   "characters": 23,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "w2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "شوي شوي.",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "w3",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "هسا بسرعة!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "w4",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "هسا الكلمة كاملة!",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "v0",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "وهسا بجملة!",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "o1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "عجبك الدرس؟ اكتب الكلمة بالتعليقات! ولفيديوهات أكثر، تابعنا هون وعلى اليوتيوب!",
+   "characters": 78,
+   "model": "eleven_v4",
+   "seconds": 6.8
+  }
+ ]
+}

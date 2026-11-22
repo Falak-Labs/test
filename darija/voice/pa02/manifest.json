@@ -1,0 +1,194 @@
+{
+ "episode": "pa02",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 259,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "p05k",
+  "tw",
+  "w6",
+  "v1",
+  "v2",
+  "T_hoss",
+  "T_pih",
+  "T_tal",
+  "T_ih",
+  "T_tee"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مرحبا! بتعرف كيف تحكي الضيافة بالإنجليزي؟",
+   "characters": 41,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الجواب بالآخر. يلا!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "تشرفنا.",
+   "characters": 7,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "قديش عمرك؟",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "عمري عشر سنين.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "وين ساكن؟",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "ساكن بنابلس.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I live in Nablus.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Hospitality.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Hospitality!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Palestinian hospitality starts with coffee!",
+   "characters": 43,
+   "model": "eleven_v4",
+   "seconds": 3.28
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الضيافة الفلسطينية بتبدا بالقهوة!",
+   "characters": 33,
+   "model": "eleven_v4",
+   "seconds": 2.96
+  },
+  {
+   "id": "T_hoss",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Hoss.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_pih",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Pih.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_tal",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Tal.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_ih",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Ih.",
+   "characters": 3,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "T_tee",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Tee.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  }
+ ]
+}

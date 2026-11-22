@@ -1,0 +1,184 @@
+{
+ "episode": "kids02",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 133,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "w5",
+  "Lw",
+  "A_hoss",
+  "A_pih",
+  "A_tal",
+  "A_ih",
+  "A_tee",
+  "L_hoss",
+  "L_pih",
+  "L_tal",
+  "L_ih",
+  "L_tee"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Nice to meet you.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "How old are you?",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I'm ten years old.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Where do you live?",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Hospitality!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Hospitality!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "A_hoss",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Hoss.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "A_pih",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Pih.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.72
+  },
+  {
+   "id": "A_tal",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Tal.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "A_ih",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Ih.",
+   "characters": 3,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "A_tee",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Tee.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.72
+  },
+  {
+   "id": "L_hoss",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Hoss.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "L_pih",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Pih.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.72
+  },
+  {
+   "id": "L_tal",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Tal.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_ih",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Ih.",
+   "characters": 3,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_tee",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Tee.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  }
+ ]
+}

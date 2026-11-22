@@ -1,0 +1,174 @@
+{
+ "episode": "ma03",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 188,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "T_pruh",
+  "T_nun",
+  "T_see",
+  "T_ay",
+  "T_shun"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "سلام! واش كتعرف تقول النطق بالإنجليزية؟",
+   "characters": 39,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "الجواب فالآخر. يالله!",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "سمح ليا.",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "ما فهمتش.",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "عاود، عافاك؟",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "شكرا بزاف.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "بسلامة!",
+   "characters": 7,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Pronunciation.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Good job! Pronunciation!",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "النطق ديالك مزيان بزاف!",
+   "characters": 23,
+   "model": "eleven_v4",
+   "seconds": 2.48
+  },
+  {
+   "id": "T_pruh",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Pruh.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_nun",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Nun.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_see",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "See.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.72
+  },
+  {
+   "id": "T_ay",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Ay.",
+   "characters": 3,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_shun",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Shun.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  }
+ ]
+}

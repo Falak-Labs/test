@@ -1,0 +1,44 @@
+{
+ "episode": "kidscommon",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 22,
+ "recorded_this_run": [
+  "o2",
+  "o3"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "o2",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "See you next time!",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "o3",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Bye!",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  }
+ ]
+}

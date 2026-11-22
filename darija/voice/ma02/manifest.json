@@ -1,0 +1,194 @@
+{
+ "episode": "ma02",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 261,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "p05k",
+  "tw",
+  "w6",
+  "v1",
+  "v2",
+  "T_hoss",
+  "T_pih",
+  "T_tal",
+  "T_ih",
+  "T_tee"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "سلام! واش كتعرف تقول الضيافة بالإنجليزية؟",
+   "characters": 41,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "الجواب فالآخر. يالله!",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 2.24
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "متشرفين.",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "شحال فعمرك؟",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "عندي عشر سنين.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "فين ساكن؟",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.2
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "ساكن فكازا.",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I live in Casablanca.",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Hospitality.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Good job! Hospitality!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Moroccan hospitality starts with mint tea!",
+   "characters": 42,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "الضيافة المغربية كتبدا بأتاي!",
+   "characters": 29,
+   "model": "eleven_v4",
+   "seconds": 2.88
+  },
+  {
+   "id": "T_hoss",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Hoss.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_pih",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Pih.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_tal",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Tal.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.72
+  },
+  {
+   "id": "T_ih",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Ih.",
+   "characters": 3,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_tee",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Tee.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  }
+ ]
+}
