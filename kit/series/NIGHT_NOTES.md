@@ -1510,3 +1510,44 @@ Owner did the Advanced features verification on Congrats Engineer and Kef Tenben
   their Arabic TikTok requeues, 42, 48-50, 54-56 after theirs.
 - Posts: pushed 64 + 66 after "pages build and deployment" for 1d2d79b succeeded, 65 after the one for eee6a87.
   Lineup: four ideas appended (73 the Lighthouse of Alexandria, 74 Maraya in AlUla, 75 Chand Baori, 76 a pressure cooker).
+
+## Nov 22 2026 (show run, 13:17 PT): Survival Mode 3 "You vs Gravity" (sm03) for Mon Nov 23
+- TODAY Sun Nov 22 PT, TOMORROW Mon Nov 23 PT. Finished 14:15 PT (the whole run took under an hour; the four cuts render
+  in about 18 minutes when the English and the Arabic chain run side by side on the 2 CPUs).
+- Step 0: status 21:24Z: sm02's four TikTok + Instagram posts all sent (links in state/sm02.json), nothing to requeue.
+  yt_desk check: nothing overdue (the `show` branch did not exist before this run: its hand-off is the first real push).
+- Pick: pisa, machupicchu, operahouse, liberty (all Mansour). Gravity's four moves: it tips (Pisa), slides (Machu Picchu),
+  is too heavy (Sydney's 15-tonne pieces), crumples (Liberty's skin as thin as two coins). Left out on purpose: 64-66 (they
+  post as builds on the same day), hagiasophia (a religious building: the show rule), burjalarab (too close to sm02's Palm
+  Jumeirah). Stock left in the Mansour group: barrier, greatwall, hagiasophia, burjalarab, fridge, suez, washer, bigben,
+  shibam, towerbridge = two episodes (ideas: You vs the Sea = barrier, burjalarab, suez, towerbridge; You vs Time = bigben,
+  shibam, greatwall + one more; a home-appliances world once 69 and 71 exist).
+- The local clone is shallow (51 commits): fetch found machupicchu, operahouse, liberty in git history only because they
+  were retired today. barrier, greatwall, burjalarab, fridge need `git fetch --deepen` first (README).
+- First Saudi episode. Arabic closing lines in Saudi dialect: new kit survivalpromosa ("باقي قدامك ثلاثة زعماء." / "شوف
+  المراحل الأربع كلها على قناتنا في يوتيوب، كيف تنبني." / "العالم الجاي قريب. اشترك، ولا الزعيم يفوز."), spec `ar:` block
+  `promo: survivalpromosa`, `or_boss`, `next`. voices.yml untouched (its `ar` is Mansour already).
+- New, tempo: the length window of make_vo_eleven.py slowed the show's 8-line Arabic script to x0.92 (sm02), while the
+  builds around it play Mansour at x1.04 to x1.12. Now make_vo_eleven.py takes `--tempo` and scripts/make_voices.py
+  (`show_tempo`) gives a show kit the mean tempo of its four builds (sm03: x1.12) and survivalpromo* kits x1.12. Builds
+  are not touched by it.
+- Voices: balance read first (19,234 of 613,234, 3%). Easton 42.76 s, 140 words: CI Whisper base.en and local Whisper
+  small both differ only on homophones ("mud slides" -> "mudslides", "sails" -> "sales", "tonnes" -> "tons"); nothing
+  reworded. Mansour: 8 lines, 611 characters, 49.98 s at x1.12, check_ar_voice 0-9% a line; closing lines 121 characters,
+  2-5%. Whisper writes his qaf as g ("جدامك", "جريب"): the Saudi sound. 732 characters asked for in all; the account's
+  counter read 19,588 afterwards.
+- New in the layer: icons `rock`, `flat`, `down` (layout.ICON); spec keys `shot` / `still` now set for every level,
+  because the default (the end of the hook) was two floors of the tower, a bare slope, a blueprint board. Liberty's
+  camera pulls back earlier in the Arabic build, so its shot is per language (en 2.6, ar 1.85).
+- Cuts (all -14.0 LUFS): English full 4:37.1 (true peak -2.3 dBFS, 86.8 MB, chapters 0:00 0:11 1:13 2:15 3:17 4:21),
+  short 1:22.3 (-2.2, 39.5 MB); Arabic full 4:56.7 (-2.1, 88.6 MB, chapters 0:00 0:13 1:16 2:23 3:29 4:39), short 1:26.1
+  (-2.0, 40.7 MB). Stills sheets and 110 frames pulled from the four finished files looked at (words, Arabic right to
+  left, the right boss on each level); Whisper small on the finished mixes hears every new line in its place.
+- Hand-off: media/sm03-en.mp4 + media/sm03-ar.mp4 and posts/sm03.yml on main with ALL six targets on hold (the Post
+  workflow ran: state/sm03.json has no targets). kit/show/youtube/sm03.yml -> handoff.py pushed the two full cuts, the two
+  thumbnails and sheet.json to the `show` branch (28c1b1f); every raw link answers 200 and `yt_desk.py plan` lists the
+  four videos first. For Mon Nov 23 PT: Arabic full 09:00, English full 10:00, Arabic Short 10:30, English Short 12:15
+  (YouTube, the main chat's 16:45 PT round); TikTok + Instagram Arabic 10:30 (18:30Z), English 12:15 (20:15Z) after
+  `yt_desk.py release sm03`.
+- For the build runs: media/sm01-survival-en.mp4 and media/sm02-*.mp4 may be retired (all their posts are sent, their
+  YouTube uploads are in the ledger); media/sm03-* stays until its four posts are out.
