@@ -15,10 +15,13 @@
    "id": "6b024b91c72676f5e9f671ae",
    "channel": "6b02356fece6dfde5f4e4d41",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T02:03:09.000Z",
    "planned": "2026-11-22T02:01:18+00:00",
-   "created": "2026-11-22T01:55:28+00:00"
+   "created": "2026-11-22T01:55:28+00:00",
+   "sentAt": "2026-11-22T02:04:58Z",
+   "link": "https://tiktok.com/@yallah.say/video/7710810571477650702",
+   "note": "as Buffer reported it at 02:09 UTC; the channel was reconnected later, so Buffer no longer lists this post"
   },
   "pa.instagram": {
    "id": "6b02582dc72676f5e9fa9361",
