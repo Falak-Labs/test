@@ -40,19 +40,23 @@
    "id": "6b026e400247969092226f10",
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T17:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-22T04:23:24+00:00"
+   "created": "2026-11-22T04:23:24+00:00",
+   "link": "https://www.instagram.com/reel/DgDS0-MzSnZ/",
+   "sentAt": "2026-11-22T17:03:50.257Z"
   },
   "ar.tiktok": {
    "id": "6b026e40cc364169c1288354",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T16:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-22T04:23:24+00:00"
+   "created": "2026-11-22T04:23:24+00:00",
+   "link": "https://tiktok.com/@kef.tenbeni/video/7711033924297706765",
+   "sentAt": "2026-11-22T16:31:24.339Z"
   }
  }
 }

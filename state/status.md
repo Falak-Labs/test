@@ -1,4 +1,4 @@
-# Post status 2026-11-22T11:27:25+00:00
+# Post status 2026-11-22T19:28:28+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -309,7 +309,7 @@
 | ep53-fridge | en.instagram | sent |  | 2026-11-21T16:32:41.333Z https://www.instagram.com/reel/DgAqiLMPcQR/ |
 | ep53-fridge | en.tiktok | sent |  | 2026-11-21T16:32:36.207Z https://tiktok.com/@congratsengineer/video/7710663205067951373 |
 | ep54-eiffel | ar.instagram | sent |  | 2026-11-21T14:02:29.528Z https://www.instagram.com/reel/DgAZcRSJ70R/ |
-| ep54-eiffel | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-21T14:00:00.000Z |
+| ep54-eiffel | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T01:30:00.000Z |
 | ep54-eiffel | ar.youtube | sent |  | 2026-11-21T14:01:09.562Z https://www.youtube.com/shorts/fhkjfyrrCj0 |
 | ep54-eiffel | en.instagram | sent |  | 2026-11-21T19:03:25.040Z https://www.instagram.com/reel/DgA7yvUBPdI/ |
 | ep54-eiffel | en.tiktok | sent |  | 2026-11-21T19:03:39.426Z https://tiktok.com/@congratsengineer/video/7710702140372667662 |
@@ -330,20 +330,20 @@
 | ep57-operahouse | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-22T02:30:00.000Z |
 | ep58-ferriswheel | ar.instagram | sent |  | 2026-11-22T08:01:48.333Z https://www.instagram.com/reel/DgCU9T9hrw2/ |
 | ep58-ferriswheel | ar.tiktok | sent |  | 2026-11-22T08:01:52.724Z https://tiktok.com/@kef.tenbeni/video/7710902532343647501 |
-| ep58-ferriswheel | en.instagram | scheduled |  | 2026-11-22T14:00:00.000Z |
-| ep58-ferriswheel | en.tiktok | scheduled |  | 2026-11-22T14:00:00.000Z |
+| ep58-ferriswheel | en.instagram | sent |  | 2026-11-22T14:04:46.931Z https://www.instagram.com/reel/DgC-V8ah0F8/ |
+| ep58-ferriswheel | en.tiktok | sent |  | 2026-11-22T14:04:27.832Z https://tiktok.com/@congratsengineer/video/7710995593325251854 |
 | ep59-liberty | ar.instagram | sent |  | 2026-11-22T11:01:44.919Z https://www.instagram.com/reel/DgCpi7BigHP/ |
 | ep59-liberty | ar.tiktok | sent |  | 2026-11-22T11:02:04.145Z https://tiktok.com/@kef.tenbeni/video/7710948684510334222 |
-| ep59-liberty | ar.youtube | scheduled |  | 2026-11-22T14:20:00.000Z |
-| ep59-liberty | en.instagram | scheduled |  | 2026-11-22T16:30:00.000Z |
-| ep59-liberty | en.tiktok | scheduled |  | 2026-11-22T16:30:00.000Z |
-| ep59-liberty | en.youtube | scheduled |  | 2026-11-22T16:30:00.000Z |
-| ep60-microwave | ar.instagram | scheduled |  | 2026-11-22T14:00:00.000Z |
-| ep60-microwave | ar.tiktok | scheduled |  | 2026-11-22T14:00:00.000Z |
-| ep60-microwave | en.instagram | scheduled |  | 2026-11-22T19:00:00.000Z |
-| ep60-microwave | en.tiktok | scheduled |  | 2026-11-22T19:00:00.000Z |
-| ep61-pisa | ar.instagram | scheduled |  | 2026-11-22T17:00:00.000Z |
-| ep61-pisa | ar.tiktok | scheduled |  | 2026-11-22T16:30:00.000Z |
+| ep59-liberty | ar.youtube | sent |  | 2026-11-22T14:20:07.457Z https://www.youtube.com/shorts/bfpbJQ24EdM |
+| ep59-liberty | en.instagram | sent |  | 2026-11-22T16:31:26.746Z https://www.instagram.com/reel/DgDPSQQFZLf/ |
+| ep59-liberty | en.tiktok | sent |  | 2026-11-22T16:31:31.341Z https://tiktok.com/@congratsengineer/video/7711034015494540557 |
+| ep59-liberty | en.youtube | sent |  | 2026-11-22T16:30:26.613Z https://www.youtube.com/shorts/TMGgQJwx7fs |
+| ep60-microwave | ar.instagram | sent |  | 2026-11-22T14:02:37.149Z https://www.instagram.com/reel/DgC-LL6hV-N/ |
+| ep60-microwave | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-22T14:00:00.000Z |
+| ep60-microwave | en.instagram | sent |  | 2026-11-22T19:03:37.028Z https://www.instagram.com/reel/DgDgsC5Bn0v/ |
+| ep60-microwave | en.tiktok | sent |  | 2026-11-22T19:02:29.506Z https://tiktok.com/@congratsengineer/video/7711072976526953741 |
+| ep61-pisa | ar.instagram | sent |  | 2026-11-22T17:03:50.257Z https://www.instagram.com/reel/DgDS0-MzSnZ/ |
+| ep61-pisa | ar.tiktok | sent |  | 2026-11-22T16:31:24.339Z https://tiktok.com/@kef.tenbeni/video/7711033924297706765 |
 | ep61-pisa | ar.youtube | scheduled |  | 2026-11-22T23:20:00.000Z |
 | ep61-pisa | en.instagram | scheduled |  | 2026-11-22T21:30:00.000Z |
 | ep61-pisa | en.tiktok | scheduled |  | 2026-11-22T21:30:00.000Z |
@@ -358,7 +358,7 @@
 | ep63-washer | en.tiktok | scheduled |  | 2026-11-23T02:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://tiktok.com/@congratsengineer/video/7710759443809553677 |
-| sm02 | ar.instagram | scheduled |  | 2026-11-22T18:30:00.000Z |
-| sm02 | ar.tiktok | scheduled |  | 2026-11-22T18:30:00.000Z |
+| sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
+| sm02 | ar.tiktok | sent |  | 2026-11-22T18:31:37.817Z https://tiktok.com/@kef.tenbeni/video/7711064986436521229 |
 | sm02 | en.instagram | scheduled |  | 2026-11-22T20:15:00.000Z |
 | sm02 | en.tiktok | scheduled |  | 2026-11-22T20:15:00.000Z |
