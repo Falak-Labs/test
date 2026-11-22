@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-22T05:54:01+00:00
+# Yallah Say Buffer channels, checked 2026-11-22T06:55:42+00:00
 
 - ma: Buffer sees youtube (Yallah Say 🇲🇦), tiktok (yallah.say), instagram (yallahsayma)
 - ma.youtube: will post to Yallah Say 🇲🇦
@@ -6,6 +6,9 @@
 - ma.tiktok: will post to yallah.say
 - ep01 ma.instagram: sent, sent 2026-11-22T02:05:26.066Z, https://www.instagram.com/reel/DgBsLNXD8J0/
 - ep01 ma.tiktok: not in Buffer's lists (id 6b024b91c72676f5e9f671ae)
+- ep02 ma.instagram: scheduled, due 2026-11-22T06:57:35.000Z
+- ep02 ma.tiktok: scheduled, due 2026-11-22T06:59:41.000Z
+- ep02 ma.youtube: scheduled, due 2026-11-22T06:57:35.000Z
 - pa: Buffer sees youtube (Yalla Say 🇵🇸), tiktok (yallahsaypa), instagram (yallahsaypa)
 - pa.youtube: will post to Yalla Say 🇵🇸
 - pa.instagram: will post to yallahsaypa
@@ -13,3 +16,6 @@
 - ep01 pa.instagram: sent, sent 2026-11-22T02:58:59.073Z, https://www.instagram.com/reel/DgByHtKhEog/
 - ep01 pa.tiktok: sent, sent 2026-11-22T02:57:11.918Z, https://tiktok.com/@yallahsaypa/video/7710823964628618509
 - ep01 pa.youtube: sent, sent 2026-11-22T03:05:05.810Z, https://www.youtube.com/shorts/gwbWb56Hdfo
+- ep02 pa.instagram: scheduled, due 2026-11-22T07:00:03.000Z
+- ep02 pa.tiktok: scheduled, due 2026-11-22T07:00:44.000Z
+- ep02 pa.youtube: scheduled, due 2026-11-22T07:00:49.000Z
