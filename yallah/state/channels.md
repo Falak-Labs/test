@@ -1,7 +1,7 @@
-# Yallah Say Buffer channels, checked 2026-11-22T03:07:31+00:00
+# Yallah Say Buffer channels, checked 2026-11-22T05:49:22+00:00
 
-- ma: Buffer sees tiktok (yallah.say), instagram (yallahsayma)
-- ma.youtube: NOT READY: youtube is not connected in the ma Buffer account
+- ma: Buffer sees youtube (Yallah Say 🇲🇦), tiktok (yallah.say), instagram (yallahsayma)
+- ma.youtube: will post to Yallah Say 🇲🇦
 - ma.instagram: will post to yallahsayma
 - ma.tiktok: will post to yallah.say
 - ep01 ma.instagram: sent, sent 2026-11-22T02:05:26.066Z, https://www.instagram.com/reel/DgBsLNXD8J0/
