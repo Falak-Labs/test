@@ -18,17 +18,17 @@
    ]
   },
   "sound": {
-   "seconds": 4.0,
+   "seconds": 4.2,
    "says": [
     "duration 1:30.73 (2722 frames) | 13 shots, 50 beats | -14.0 LUFS, peak 0.663",
     "quiz 29.9 | hard word 43.3 | end card 83.1333 | word parts (s): {'T': [0.57, 0.66, 0.55, 0.52, 0.76], 'A': [0.6, 0.66, 0.56, 0.57, 0.75], 'L': [0.63, 0.7, 0.56, 0.59, 0.71]}"
    ]
   },
   "picture": {
-   "seconds": 124.1,
+   "seconds": 146.2,
    "pieces": 6,
    "at_once": 4,
-   "frames_per_second": 21.9
+   "frames_per_second": 18.6
   },
   "join": {
    "seconds": 0.2,
@@ -39,7 +39,7 @@
    "says": []
   },
   "takes": {
-   "seconds": 3.1,
+   "seconds": 3.5,
    "says": [
     "ok   o2      at   87.60s len 1.12s  match 0.959  (take offset +0.04s)",
     "ok   o3      at   88.97s len 0.64s  match 0.993  (take offset +0.01s)",
@@ -47,8 +47,15 @@
    ]
   },
   "frames": {
-   "seconds": 2.2,
+   "seconds": 2.8,
    "says": []
+  }
+ },
+ "voice_lines": {
+  "own": {
+   "folder": "darija/voice/pa01",
+   "lines": 46,
+   "characters": 843
   }
  },
  "frames": 2722,
@@ -57,10 +64,10 @@
   "page/script.js": "7d9b965bf057d1f57ec81493dd98807d0e49c975e26582e0c75bea9350a95842",
   "page/tl.js": "53ae106643b1ae0dc47e21c8793aafa1c04581f68a9ac81fedf8edcdd6f9c5ed",
   "final.wav": "f5fc1016d005fe17090f2c1bafd763c4d5f8a45103e36ca765be506cdf1944d5",
-  "yallah-say-pa-ep01.mp4": "bba49b7dc98cc5ff541578e4812fe9db3dad6a517969a0dc0f36867ee3797889"
+  "yallah-say-pa-ep01.mp4": "88647777b71ebc70c09e54c33dee3b130ae2514d7c9662ce80a3a8dd5dc81f10"
  },
  "video": {
-  "size": 19262512,
+  "size": 19262615,
   "frames": 2722,
   "width": 1080,
   "height": 1920,
@@ -90,5 +97,5 @@
   "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
   "playwright": "Version 1.63.0"
  },
- "seconds": 136.6
+ "seconds": 160.1
 }
