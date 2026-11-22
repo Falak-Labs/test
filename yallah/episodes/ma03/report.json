@@ -1,0 +1,118 @@
+{
+ "lesson": "03",
+ "dialect": "ma",
+ "file": "yallah-say-ma-ep03.mp4",
+ "ok": false,
+ "problems": [
+  "a voice take is not intact in the finished file: ['p01k', 'rc0_0']"
+ ],
+ "steps": {
+  "script": {
+   "seconds": 0.0,
+   "says": [
+    "50 beats, 15 voice lines, 188 characters"
+   ]
+  },
+  "page": {
+   "seconds": 0.1,
+   "says": [
+    "page /home/runner/work/test/test/out/ma03/page theme ma stickers confused raised_hand"
+   ]
+  },
+  "sound": {
+   "seconds": 3.8,
+   "says": [
+    "duration 1:30.73 (2722 frames) | 13 shots, 50 beats | -14.0 LUFS, peak 0.645",
+    "quiz 28.4 | hard word 41.0333 | end card 80.5 | word parts (s): {'T': [0.62, 0.72, 0.59, 0.56, 0.69], 'A': [0.54, 0.57, 0.57, 0.52, 0.58], 'L': [0.56, 0.63, 0.59, 0.54, 0.63]}"
+   ]
+  },
+  "picture": {
+   "seconds": 123.1,
+   "pieces": 6,
+   "at_once": 4,
+   "frames_per_second": 22.1
+  },
+  "join": {
+   "seconds": 0.2,
+   "says": []
+  },
+  "mux": {
+   "seconds": 1.9,
+   "says": []
+  },
+  "takes": {
+   "seconds": 3.0,
+   "says": [
+    "ok   o2      at   87.55s len 1.19s  match 0.944  (take offset +0.03s)",
+    "ok   o3      at   88.99s len 0.62s  match 0.993  (take offset +0.01s)",
+    "below 0.9: ['p01k', 'rc0_0']"
+   ]
+  },
+  "frames": {
+   "seconds": 2.4,
+   "says": []
+  }
+ },
+ "voice_lines": {
+  "own": {
+   "folder": "darija/voice/ma03",
+   "lines": 15,
+   "characters": 188
+  },
+  "kids": {
+   "folder": "darija/voice/kids03",
+   "lines": 18,
+   "characters": 182
+  },
+  "common": {
+   "folder": "darija/voice/macommon",
+   "lines": 7,
+   "characters": 168
+  },
+  "kidscommon": {
+   "folder": "darija/voice/kidscommon",
+   "lines": 2,
+   "characters": 22
+  }
+ },
+ "frames": 2722,
+ "duration": 90.7333,
+ "sha256": {
+  "page/script.js": "5e5cb377a98f6ee42813eda0a110af060f995cb7215d04ee6b78691d28ae2f92",
+  "page/tl.js": "ec5b96b6794d7ccc82eeabfb3410c60077d6aa474ed7d8717919dcee0e10fa43",
+  "final.wav": "295c0d8e989a87ee3118ea22e4ac33f505e5fb8e8b98e62975c902aebfde97c0",
+  "yallah-say-ma-ep03.mp4": "884271a5b2108f713baa6515939b334a981be6649e989121d0f8571d9fc42ff7"
+ },
+ "video": {
+  "size": 19499508,
+  "frames": 2722,
+  "width": 1080,
+  "height": 1920,
+  "rate": "30/1",
+  "audio_seconds": 90.733,
+  "audio_rate": "48000"
+ },
+ "takes_below_0.9": "['p01k', 'rc0_0']",
+ "sheet_times": [
+  1.6,
+  8.97,
+  10.97,
+  13.1,
+  15.96,
+  18.27,
+  20.86,
+  23.1,
+  25.56,
+  27.44,
+  30.0,
+  42.63,
+  82.1,
+  90.23
+ ],
+ "made_with": {
+  "python": "3.13.18",
+  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "playwright": "Version 1.63.0"
+ },
+ "seconds": 135.3
+}
