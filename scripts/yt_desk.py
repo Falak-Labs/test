@@ -4,7 +4,7 @@
                                                      calls (--last: the day's last round also takes `studio: 2` builds)
     python3 scripts/yt_desk.py done <key> <video id> record one upload in youtube/ledger.json (right after each video)
     python3 scripts/yt_desk.py refused <en|ar>       record a "Daily upload limit reached" answer
-    python3 scripts/yt_desk.py release <show id>     once its four uploads are recorded: take the show's TikTok and
+    python3 scripts/yt_desk.py release <show id>     once its full videos are recorded: take the show's TikTok and
                                                      Instagram targets off hold in posts/<id>.yml (then commit and push)
     python3 scripts/yt_desk.py check                 for the scheduled runs: is a show upload overdue?
 
@@ -188,12 +188,12 @@ def cmd_refused(args):
 def cmd_release(args):
     sid = args[0]
     done = {u["key"] for u in load_ledger()["uploads"]}
-    want = [f"{sid}-{lang}-{kind}" for lang in CHANNEL for kind in ("full", "short")]
-    missing = [k for k in want if k not in done]
-    if missing and "--force" not in args:
-        raise SystemExit(f"not released: {', '.join(missing)} not uploaded yet (the shorts promise the full video)")
     p = os.path.join(ROOT, "posts", sid + ".yml")
     s = open(p, encoding="utf-8").read()
+    langs = [lang for lang in CHANNEL if lang in post.load_yaml(p)]        # an English-only episode has no ar block
+    missing = [f"{sid}-{lang}-full" for lang in langs if f"{sid}-{lang}-full" not in done]
+    if missing and "--force" not in args:
+        raise SystemExit(f"not released: {', '.join(missing)} not uploaded yet (the shorts promise the full video)")
     new, n = re.subn(r"(?m)^hold:.*$", "hold: [en.youtube, ar.youtube]    # the TikTok and Instagram posts were released "
                      "after the YouTube uploads", s, count=1)
     if not n or new == s:

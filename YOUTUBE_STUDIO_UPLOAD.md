@@ -206,8 +206,8 @@ talks to about Build-It; it has his Chrome) does the uploads:
    - "Daily upload limit reached": close the box, `python3 scripts/yt_desk.py refused en|ar`, stop the whole round
      (the other channel is refused too) and tell the owner in one line what stayed off YouTube.
    - Any other stop: read the page, fix what the answer names, or leave that video and go on.
-4. When the show's four videos are recorded: `python3 scripts/yt_desk.py release <show id>` takes its TikTok and
-   Instagram posts off hold. Commit `youtube/ledger.json` (and the posts file) with `[skip ci]` left OUT when a posts
+4. When the show's full videos are recorded (both languages): `python3 scripts/yt_desk.py release <show id>` takes
+   its TikTok and Instagram posts off hold. Commit `youtube/ledger.json` (and the posts file) with `[skip ci]` left OUT when a posts
    file changed (post.yml must run), pull --rebase, push.
 5. Switch Studio back to the channel you found, close the tab, empty the `uploads` branch.
 6. Browser out of reach (no connected browser, the computer asleep): try once more 45 minutes later. If the evening
