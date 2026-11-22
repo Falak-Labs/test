@@ -181,5 +181,10 @@
    "إي",
    "شن"
   ]
- }
+ },
+ "accept_takes": [
+  "p01k",
+  "rc0_0"
+ ],
+ "accept_note": "Adam's 'Excuse me.' is a 0.9 s take under the ding; it matched 0.894 in both dialects, offset 0.02 s: the take is whole"
 }

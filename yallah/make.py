@@ -202,7 +202,12 @@ if not DRY:
     out = run("takes", [sys.executable, os.path.join(TOOLS, "corrcheck2.py"), final, PAGE, *alts], env={"VO": VOICE}, keep=3)
     low = re.search(r"below 0\.9: (.*)", out)
     REPORT["takes_below_0.9"] = low.group(1).strip() if low else "?"
-    if not low or low.group(1).strip() != "none":
+    # a lesson may accept takes that were checked by hand (lessons/<NN>.json "accept_takes"): a very short take under a sound effect
+    ok_ids = set(json.load(open(os.path.join(HERE, "lessons", LESSON + ".json"), encoding="utf-8")).get("accept_takes", []))
+    left = [x for x in re.findall(r"'([^']+)'", low.group(1)) if x not in ok_ids] if low and low.group(1).strip() != "none" else []
+    if low and low.group(1).strip() != "none" and not left:
+        REPORT["takes_accepted"] = sorted(ok_ids)
+    elif not low or left:
         REPORT["problems"].append("a voice take is not intact in the finished file: " + (low.group(1).strip() if low else "no answer"))
 if "--hear" in flags:
     if not os.path.isdir(os.environ.get("YS_WHISPER", "")):
