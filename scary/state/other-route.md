@@ -1,4 +1,4 @@
-# Yallah Say: posts that need another method, checked 2026-11-22T07:02:24+00:00
+# Yallah Say: posts that need another method, checked 2026-11-22T07:08:08+00:00
 
 Buffer did not post these. studio = YouTube Studio in the owner's Chrome (/YOUTUBE_STUDIO_UPLOAD.md); browser = the
 platform's own site in the owner's Chrome. When one of them goes out, note its link in state/youtube.md or here.
