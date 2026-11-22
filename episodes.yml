@@ -47,7 +47,7 @@ episodes:
   - {slug: ep42-venice, kit: venice, look: 2}
   - {slug: ep43-greatwall, kit: greatwall, look: 2, retired: true}
   - {slug: ep44-falaj, kit: falaj, look: 2, retired: true}
-  - {slug: ep45-machupicchu, kit: machupicchu, look: 2}
+  - {slug: ep45-machupicchu, kit: machupicchu, look: 2, retired: true}
   - {slug: ep46-aswan, kit: aswan, look: 2, retired: true}
   - {slug: ep47-igloo, kit: igloo, look: 2, retired: true}
   - {slug: ep48-riad, kit: riad, look: 2}
@@ -59,10 +59,12 @@ episodes:
   - {slug: ep54-eiffel, kit: eiffel, look: 2}
   - {slug: ep55-suez, kit: suez, look: 2}
   - {slug: ep56-escalator, kit: escalator, look: 2}
-  - {slug: ep57-operahouse, kit: operahouse, look: 2}
-  - {slug: ep58-ferriswheel, kit: ferriswheel, look: 2}
-  - {slug: ep59-liberty, kit: liberty, look: 2}
+  - {slug: ep57-operahouse, kit: operahouse, look: 2, retired: true}
+  - {slug: ep58-ferriswheel, kit: ferriswheel, look: 2, retired: true}
+  - {slug: ep59-liberty, kit: liberty, look: 2, retired: true}
   - {slug: ep60-microwave, kit: microwave, look: 2}
   - {slug: ep61-pisa, kit: pisa, look: 2}
   - {slug: ep62-tent, kit: tent, look: 2}
   - {slug: ep63-washer, kit: washer, look: 2}
+  - {slug: ep64-bigben, kit: bigben, look: 2}
+  - {slug: ep66-towerbridge, kit: towerbridge, look: 2}
