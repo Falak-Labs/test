@@ -694,7 +694,7 @@ class Tent(EpisodeV2):
     # ------------------------------------------------------------------ sound
     def sfx_events(self):
         T, s, e = self.T, self.tl.s, self.tl.e
-        ev = [(0.05, rain_snd(max(1.5, T["breeze"] + 0.3), 61), -14), (T["goat"], sfx.pop(62), -10),
+        ev = [(0.05, rain_snd(max(1.5, T["breeze"] + 0.3), 61), -23), (T["goat"], sfx.pop(62), -10),
               (T["breeze"], sfx.whoosh(0.8, True, 63), -10),
               (T["congrats"] - 0.05, sfx.whoosh(0.5, True, 64), -10), (T["congrats"] + 0.1, sfx.sparkle(0.9, 12, 65), -8),
               (T["bedouin"], sfx.chime(), -9)]
