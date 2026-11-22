@@ -1,4 +1,4 @@
-# Post status 2026-11-22T06:57:20+00:00
+# Post status 2026-11-22T11:23:59+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -328,12 +328,12 @@
 | ep57-operahouse | en.instagram | sent |  | 2026-11-22T02:33:40.746Z https://www.instagram.com/reel/DgBvPQrukTp/ |
 | ep57-operahouse | en.tiktok | sent |  | 2026-11-22T02:32:04.401Z https://tiktok.com/@congratsengineer/video/7710817547301457165 |
 | ep57-operahouse | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-22T02:30:00.000Z |
-| ep58-ferriswheel | ar.instagram | scheduled |  | 2026-11-22T08:00:00.000Z |
-| ep58-ferriswheel | ar.tiktok | scheduled |  | 2026-11-22T08:00:00.000Z |
+| ep58-ferriswheel | ar.instagram | sent |  | 2026-11-22T08:01:48.333Z https://www.instagram.com/reel/DgCU9T9hrw2/ |
+| ep58-ferriswheel | ar.tiktok | sent |  | 2026-11-22T08:01:52.724Z https://tiktok.com/@kef.tenbeni/video/7710902532343647501 |
 | ep58-ferriswheel | en.instagram | scheduled |  | 2026-11-22T14:00:00.000Z |
 | ep58-ferriswheel | en.tiktok | scheduled |  | 2026-11-22T14:00:00.000Z |
-| ep59-liberty | ar.instagram | scheduled |  | 2026-11-22T11:00:00.000Z |
-| ep59-liberty | ar.tiktok | scheduled |  | 2026-11-22T11:00:00.000Z |
+| ep59-liberty | ar.instagram | sent |  | 2026-11-22T11:01:44.919Z https://www.instagram.com/reel/DgCpi7BigHP/ |
+| ep59-liberty | ar.tiktok | sent |  | 2026-11-22T11:02:04.145Z https://tiktok.com/@kef.tenbeni/video/7710948684510334222 |
 | ep59-liberty | ar.youtube | scheduled |  | 2026-11-22T14:20:00.000Z |
 | ep59-liberty | en.instagram | scheduled |  | 2026-11-22T16:30:00.000Z |
 | ep59-liberty | en.tiktok | scheduled |  | 2026-11-22T16:30:00.000Z |
