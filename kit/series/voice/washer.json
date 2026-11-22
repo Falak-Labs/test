@@ -1,0 +1,1252 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 64.66,
+ "words": 226,
+ "words_per_sec": 3.5,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.25,
+   "text": "If you can wash clothes with no hands, then spin them faster than a car on the highway, congrats, you just built a washing machine.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.14,
+     "end": 0.338
+    },
+    {
+     "w": "you",
+     "start": 0.338,
+     "end": 0.536
+    },
+    {
+     "w": "can",
+     "start": 0.536,
+     "end": 0.734
+    },
+    {
+     "w": "wash",
+     "start": 0.734,
+     "end": 0.932
+    },
+    {
+     "w": "clothes",
+     "start": 0.932,
+     "end": 1.276
+    },
+    {
+     "w": "with",
+     "start": 1.276,
+     "end": 1.474
+    },
+    {
+     "w": "no",
+     "start": 1.474,
+     "end": 1.672
+    },
+    {
+     "w": "hands,",
+     "start": 1.672,
+     "end": 1.87
+    },
+    {
+     "w": "then",
+     "start": 1.99,
+     "end": 2.197
+    },
+    {
+     "w": "spin",
+     "start": 2.197,
+     "end": 2.404
+    },
+    {
+     "w": "them",
+     "start": 2.404,
+     "end": 2.612
+    },
+    {
+     "w": "faster",
+     "start": 2.612,
+     "end": 2.972
+    },
+    {
+     "w": "than",
+     "start": 2.972,
+     "end": 3.18
+    },
+    {
+     "w": "a",
+     "start": 3.18,
+     "end": 3.387
+    },
+    {
+     "w": "car",
+     "start": 3.387,
+     "end": 3.594
+    },
+    {
+     "w": "on",
+     "start": 3.594,
+     "end": 3.801
+    },
+    {
+     "w": "the",
+     "start": 3.801,
+     "end": 4.009
+    },
+    {
+     "w": "highway,",
+     "start": 4.009,
+     "end": 4.369
+    },
+    {
+     "w": "congrats,",
+     "start": 4.369,
+     "end": 4.73
+    },
+    {
+     "w": "you",
+     "start": 4.89,
+     "end": 5.062
+    },
+    {
+     "w": "just",
+     "start": 5.062,
+     "end": 5.235
+    },
+    {
+     "w": "built",
+     "start": 5.235,
+     "end": 5.407
+    },
+    {
+     "w": "a",
+     "start": 5.407,
+     "end": 5.58
+    },
+    {
+     "w": "washing",
+     "start": 5.58,
+     "end": 5.88
+    },
+    {
+     "w": "machine.",
+     "start": 5.88,
+     "end": 6.18
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.615,
+   "end": 10.354,
+   "text": "But clothes soaking in water stay dirty. The dirt hides deep in the threads.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.755,
+     "end": 6.946
+    },
+    {
+     "w": "clothes",
+     "start": 6.946,
+     "end": 7.278
+    },
+    {
+     "w": "soaking",
+     "start": 7.278,
+     "end": 7.61
+    },
+    {
+     "w": "in",
+     "start": 7.61,
+     "end": 7.8
+    },
+    {
+     "w": "water",
+     "start": 7.8,
+     "end": 8.132
+    },
+    {
+     "w": "stay",
+     "start": 8.132,
+     "end": 8.323
+    },
+    {
+     "w": "dirty.",
+     "start": 8.323,
+     "end": 8.655
+    },
+    {
+     "w": "The",
+     "start": 8.825,
+     "end": 9.014
+    },
+    {
+     "w": "dirt",
+     "start": 9.014,
+     "end": 9.202
+    },
+    {
+     "w": "hides",
+     "start": 9.202,
+     "end": 9.531
+    },
+    {
+     "w": "deep",
+     "start": 9.531,
+     "end": 9.719
+    },
+    {
+     "w": "in",
+     "start": 9.719,
+     "end": 9.908
+    },
+    {
+     "w": "the",
+     "start": 9.908,
+     "end": 10.096
+    },
+    {
+     "w": "threads.",
+     "start": 10.096,
+     "end": 10.285
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.719,
+   "end": 15.771,
+   "text": "So you tumble them: a drum full of holes turns back and forth, and paddles lift the clothes and drop them.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.839,
+     "end": 11.054
+    },
+    {
+     "w": "you",
+     "start": 11.054,
+     "end": 11.269
+    },
+    {
+     "w": "tumble",
+     "start": 11.269,
+     "end": 11.484
+    },
+    {
+     "w": "them:",
+     "start": 11.484,
+     "end": 11.699
+    },
+    {
+     "w": "a",
+     "start": 11.819,
+     "end": 12.022
+    },
+    {
+     "w": "drum",
+     "start": 12.022,
+     "end": 12.226
+    },
+    {
+     "w": "full",
+     "start": 12.226,
+     "end": 12.429
+    },
+    {
+     "w": "of",
+     "start": 12.429,
+     "end": 12.632
+    },
+    {
+     "w": "holes",
+     "start": 12.632,
+     "end": 12.986
+    },
+    {
+     "w": "turns",
+     "start": 12.986,
+     "end": 13.189
+    },
+    {
+     "w": "back",
+     "start": 13.189,
+     "end": 13.392
+    },
+    {
+     "w": "and",
+     "start": 13.392,
+     "end": 13.596
+    },
+    {
+     "w": "forth,",
+     "start": 13.596,
+     "end": 13.799
+    },
+    {
+     "w": "and",
+     "start": 13.929,
+     "end": 14.117
+    },
+    {
+     "w": "paddles",
+     "start": 14.117,
+     "end": 14.444
+    },
+    {
+     "w": "lift",
+     "start": 14.444,
+     "end": 14.631
+    },
+    {
+     "w": "the",
+     "start": 14.631,
+     "end": 14.819
+    },
+    {
+     "w": "clothes",
+     "start": 14.819,
+     "end": 15.146
+    },
+    {
+     "w": "and",
+     "start": 15.146,
+     "end": 15.334
+    },
+    {
+     "w": "drop",
+     "start": 15.334,
+     "end": 15.521
+    },
+    {
+     "w": "them.",
+     "start": 15.521,
+     "end": 15.709
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.135,
+   "end": 18.25,
+   "text": "But water alone slides right off grease.",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.275,
+     "end": 16.482
+    },
+    {
+     "w": "water",
+     "start": 16.482,
+     "end": 16.843
+    },
+    {
+     "w": "alone",
+     "start": 16.843,
+     "end": 17.203
+    },
+    {
+     "w": "slides",
+     "start": 17.203,
+     "end": 17.564
+    },
+    {
+     "w": "right",
+     "start": 17.564,
+     "end": 17.771
+    },
+    {
+     "w": "off",
+     "start": 17.771,
+     "end": 17.978
+    },
+    {
+     "w": "grease.",
+     "start": 17.978,
+     "end": 18.185
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.615,
+   "end": 24.271,
+   "text": "So you add detergent. Its molecules grab grease with one end, water with the other, and drag the dirt away.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.725,
+     "end": 18.904
+    },
+    {
+     "w": "you",
+     "start": 18.904,
+     "end": 19.083
+    },
+    {
+     "w": "add",
+     "start": 19.083,
+     "end": 19.261
+    },
+    {
+     "w": "detergent.",
+     "start": 19.261,
+     "end": 19.705
+    },
+    {
+     "w": "Its",
+     "start": 19.885,
+     "end": 20.095
+    },
+    {
+     "w": "molecules",
+     "start": 20.095,
+     "end": 20.772
+    },
+    {
+     "w": "grab",
+     "start": 20.772,
+     "end": 20.982
+    },
+    {
+     "w": "grease",
+     "start": 20.982,
+     "end": 21.193
+    },
+    {
+     "w": "with",
+     "start": 21.193,
+     "end": 21.403
+    },
+    {
+     "w": "one",
+     "start": 21.403,
+     "end": 21.613
+    },
+    {
+     "w": "end,",
+     "start": 21.613,
+     "end": 21.823
+    },
+    {
+     "w": "water",
+     "start": 21.823,
+     "end": 22.189
+    },
+    {
+     "w": "with",
+     "start": 22.189,
+     "end": 22.399
+    },
+    {
+     "w": "the",
+     "start": 22.399,
+     "end": 22.609
+    },
+    {
+     "w": "other,",
+     "start": 22.609,
+     "end": 22.975
+    },
+    {
+     "w": "and",
+     "start": 23.125,
+     "end": 23.311
+    },
+    {
+     "w": "drag",
+     "start": 23.311,
+     "end": 23.498
+    },
+    {
+     "w": "the",
+     "start": 23.498,
+     "end": 23.684
+    },
+    {
+     "w": "dirt",
+     "start": 23.684,
+     "end": 23.871
+    },
+    {
+     "w": "away.",
+     "start": 23.871,
+     "end": 24.195
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.635,
+   "end": 26.719,
+   "text": "But now the clothes are dripping and heavy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.775,
+     "end": 24.958
+    },
+    {
+     "w": "now",
+     "start": 24.958,
+     "end": 25.141
+    },
+    {
+     "w": "the",
+     "start": 25.141,
+     "end": 25.324
+    },
+    {
+     "w": "clothes",
+     "start": 25.324,
+     "end": 25.642
+    },
+    {
+     "w": "are",
+     "start": 25.642,
+     "end": 25.825
+    },
+    {
+     "w": "dripping",
+     "start": 25.825,
+     "end": 26.144
+    },
+    {
+     "w": "and",
+     "start": 26.144,
+     "end": 26.327
+    },
+    {
+     "w": "heavy.",
+     "start": 26.327,
+     "end": 26.645
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.083,
+   "end": 31.323,
+   "text": "So you spin the drum fourteen hundred times a minute, and the water flies out through the holes.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.193,
+     "end": 27.367
+    },
+    {
+     "w": "you",
+     "start": 27.367,
+     "end": 27.542
+    },
+    {
+     "w": "spin",
+     "start": 27.542,
+     "end": 27.716
+    },
+    {
+     "w": "the",
+     "start": 27.716,
+     "end": 27.89
+    },
+    {
+     "w": "drum",
+     "start": 27.89,
+     "end": 28.065
+    },
+    {
+     "w": "fourteen",
+     "start": 28.065,
+     "end": 28.368
+    },
+    {
+     "w": "hundred",
+     "start": 28.368,
+     "end": 28.672
+    },
+    {
+     "w": "times",
+     "start": 28.672,
+     "end": 28.975
+    },
+    {
+     "w": "a",
+     "start": 28.975,
+     "end": 29.15
+    },
+    {
+     "w": "minute,",
+     "start": 29.15,
+     "end": 29.453
+    },
+    {
+     "w": "and",
+     "start": 29.593,
+     "end": 29.768
+    },
+    {
+     "w": "the",
+     "start": 29.768,
+     "end": 29.943
+    },
+    {
+     "w": "water",
+     "start": 29.943,
+     "end": 30.248
+    },
+    {
+     "w": "flies",
+     "start": 30.248,
+     "end": 30.423
+    },
+    {
+     "w": "out",
+     "start": 30.423,
+     "end": 30.598
+    },
+    {
+     "w": "through",
+     "start": 30.598,
+     "end": 30.773
+    },
+    {
+     "w": "the",
+     "start": 30.773,
+     "end": 30.948
+    },
+    {
+     "w": "holes.",
+     "start": 30.948,
+     "end": 31.253
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.688,
+   "end": 35.76,
+   "text": "But one heavy towel on one side, and at that speed the machine walks across the floor.",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.828,
+     "end": 32.021
+    },
+    {
+     "w": "one",
+     "start": 32.021,
+     "end": 32.215
+    },
+    {
+     "w": "heavy",
+     "start": 32.215,
+     "end": 32.551
+    },
+    {
+     "w": "towel",
+     "start": 32.551,
+     "end": 32.888
+    },
+    {
+     "w": "on",
+     "start": 32.888,
+     "end": 33.081
+    },
+    {
+     "w": "one",
+     "start": 33.081,
+     "end": 33.275
+    },
+    {
+     "w": "side,",
+     "start": 33.275,
+     "end": 33.468
+    },
+    {
+     "w": "and",
+     "start": 33.608,
+     "end": 33.792
+    },
+    {
+     "w": "at",
+     "start": 33.792,
+     "end": 33.976
+    },
+    {
+     "w": "that",
+     "start": 33.976,
+     "end": 34.159
+    },
+    {
+     "w": "speed",
+     "start": 34.159,
+     "end": 34.343
+    },
+    {
+     "w": "the",
+     "start": 34.343,
+     "end": 34.527
+    },
+    {
+     "w": "machine",
+     "start": 34.527,
+     "end": 34.847
+    },
+    {
+     "w": "walks",
+     "start": 34.847,
+     "end": 35.031
+    },
+    {
+     "w": "across",
+     "start": 35.031,
+     "end": 35.35
+    },
+    {
+     "w": "the",
+     "start": 35.35,
+     "end": 35.534
+    },
+    {
+     "w": "floor.",
+     "start": 35.534,
+     "end": 35.718
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.125,
+   "end": 40.875,
+   "text": "So you bolt a block of concrete to the tub, hang it on springs, and put shock absorbers under it.",
+   "words": [
+    {
+     "w": "So",
+     "start": 36.235,
+     "end": 36.436
+    },
+    {
+     "w": "you",
+     "start": 36.436,
+     "end": 36.637
+    },
+    {
+     "w": "bolt",
+     "start": 36.637,
+     "end": 36.838
+    },
+    {
+     "w": "a",
+     "start": 36.838,
+     "end": 37.039
+    },
+    {
+     "w": "block",
+     "start": 37.039,
+     "end": 37.241
+    },
+    {
+     "w": "of",
+     "start": 37.241,
+     "end": 37.442
+    },
+    {
+     "w": "concrete",
+     "start": 37.442,
+     "end": 37.792
+    },
+    {
+     "w": "to",
+     "start": 37.792,
+     "end": 37.993
+    },
+    {
+     "w": "the",
+     "start": 37.993,
+     "end": 38.194
+    },
+    {
+     "w": "tub,",
+     "start": 38.194,
+     "end": 38.395
+    },
+    {
+     "w": "hang",
+     "start": 38.535,
+     "end": 38.74
+    },
+    {
+     "w": "it",
+     "start": 38.74,
+     "end": 38.945
+    },
+    {
+     "w": "on",
+     "start": 38.945,
+     "end": 39.15
+    },
+    {
+     "w": "springs,",
+     "start": 39.15,
+     "end": 39.355
+    },
+    {
+     "w": "and",
+     "start": 39.485,
+     "end": 39.646
+    },
+    {
+     "w": "put",
+     "start": 39.646,
+     "end": 39.806
+    },
+    {
+     "w": "shock",
+     "start": 39.806,
+     "end": 39.967
+    },
+    {
+     "w": "absorbers",
+     "start": 39.967,
+     "end": 40.365
+    },
+    {
+     "w": "under",
+     "start": 40.365,
+     "end": 40.644
+    },
+    {
+     "w": "it.",
+     "start": 40.644,
+     "end": 40.805
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 41.24,
+   "end": 44.917,
+   "text": "But before you load it, follow, because next we're building Big Ben's clock.",
+   "words": [
+    {
+     "w": "But",
+     "start": 41.38,
+     "end": 41.54
+    },
+    {
+     "w": "before",
+     "start": 41.54,
+     "end": 41.819
+    },
+    {
+     "w": "you",
+     "start": 41.819,
+     "end": 41.979
+    },
+    {
+     "w": "load",
+     "start": 41.979,
+     "end": 42.14
+    },
+    {
+     "w": "it,",
+     "start": 42.14,
+     "end": 42.3
+    },
+    {
+     "w": "follow,",
+     "start": 42.49,
+     "end": 42.82
+    },
+    {
+     "w": "because",
+     "start": 42.95,
+     "end": 43.342
+    },
+    {
+     "w": "next",
+     "start": 43.342,
+     "end": 43.567
+    },
+    {
+     "w": "we're",
+     "start": 43.567,
+     "end": 43.792
+    },
+    {
+     "w": "building",
+     "start": 43.792,
+     "end": 44.184
+    },
+    {
+     "w": "Big",
+     "start": 44.184,
+     "end": 44.41
+    },
+    {
+     "w": "Ben's",
+     "start": 44.41,
+     "end": 44.635
+    },
+    {
+     "w": "clock.",
+     "start": 44.635,
+     "end": 44.86
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 45.281,
+   "end": 51.219,
+   "text": "Now the story: washday was a whole day of boiling and scrubbing, until electric washers arrived over a century ago.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 45.391,
+     "end": 45.591
+    },
+    {
+     "w": "the",
+     "start": 45.591,
+     "end": 45.792
+    },
+    {
+     "w": "story:",
+     "start": 45.792,
+     "end": 46.141
+    },
+    {
+     "w": "washday",
+     "start": 46.291,
+     "end": 46.587
+    },
+    {
+     "w": "was",
+     "start": 46.587,
+     "end": 46.757
+    },
+    {
+     "w": "a",
+     "start": 46.757,
+     "end": 46.928
+    },
+    {
+     "w": "whole",
+     "start": 46.928,
+     "end": 47.098
+    },
+    {
+     "w": "day",
+     "start": 47.098,
+     "end": 47.268
+    },
+    {
+     "w": "of",
+     "start": 47.268,
+     "end": 47.438
+    },
+    {
+     "w": "boiling",
+     "start": 47.438,
+     "end": 47.735
+    },
+    {
+     "w": "and",
+     "start": 47.735,
+     "end": 47.905
+    },
+    {
+     "w": "scrubbing,",
+     "start": 47.905,
+     "end": 48.201
+    },
+    {
+     "w": "until",
+     "start": 48.251,
+     "end": 48.58
+    },
+    {
+     "w": "electric",
+     "start": 48.58,
+     "end": 49.048
+    },
+    {
+     "w": "washers",
+     "start": 49.048,
+     "end": 49.377
+    },
+    {
+     "w": "arrived",
+     "start": 49.377,
+     "end": 49.846
+    },
+    {
+     "w": "over",
+     "start": 49.846,
+     "end": 50.175
+    },
+    {
+     "w": "a",
+     "start": 50.175,
+     "end": 50.364
+    },
+    {
+     "w": "century",
+     "start": 50.364,
+     "end": 50.832
+    },
+    {
+     "w": "ago.",
+     "start": 50.832,
+     "end": 51.161
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.583,
+   "end": 56.385,
+   "text": "Fourteen hundred turns a minute, five hundred times gravity, and a twenty-five kilo block of concrete.",
+   "words": [
+    {
+     "w": "Fourteen",
+     "start": 51.713,
+     "end": 52.012
+    },
+    {
+     "w": "hundred",
+     "start": 52.012,
+     "end": 52.311
+    },
+    {
+     "w": "turns",
+     "start": 52.311,
+     "end": 52.482
+    },
+    {
+     "w": "a",
+     "start": 52.482,
+     "end": 52.654
+    },
+    {
+     "w": "minute,",
+     "start": 52.654,
+     "end": 52.953
+    },
+    {
+     "w": "five",
+     "start": 53.123,
+     "end": 53.303
+    },
+    {
+     "w": "hundred",
+     "start": 53.303,
+     "end": 53.615
+    },
+    {
+     "w": "times",
+     "start": 53.615,
+     "end": 53.928
+    },
+    {
+     "w": "gravity,",
+     "start": 53.928,
+     "end": 54.373
+    },
+    {
+     "w": "and",
+     "start": 54.523,
+     "end": 54.702
+    },
+    {
+     "w": "a",
+     "start": 54.702,
+     "end": 54.88
+    },
+    {
+     "w": "twenty-five",
+     "start": 54.88,
+     "end": 55.324
+    },
+    {
+     "w": "kilo",
+     "start": 55.324,
+     "end": 55.635
+    },
+    {
+     "w": "block",
+     "start": 55.635,
+     "end": 55.813
+    },
+    {
+     "w": "of",
+     "start": 55.813,
+     "end": 55.992
+    },
+    {
+     "w": "concrete.",
+     "start": 55.992,
+     "end": 56.303
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.75,
+   "end": 59.49,
+   "text": "And congrats, you just built a washing machine yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.87,
+     "end": 57.077
+    },
+    {
+     "w": "congrats,",
+     "start": 57.077,
+     "end": 57.438
+    },
+    {
+     "w": "you",
+     "start": 57.438,
+     "end": 57.645
+    },
+    {
+     "w": "just",
+     "start": 57.645,
+     "end": 57.853
+    },
+    {
+     "w": "built",
+     "start": 57.853,
+     "end": 58.06
+    },
+    {
+     "w": "a",
+     "start": 58.06,
+     "end": 58.267
+    },
+    {
+     "w": "washing",
+     "start": 58.267,
+     "end": 58.628
+    },
+    {
+     "w": "machine",
+     "start": 58.628,
+     "end": 58.989
+    },
+    {
+     "w": "yourself.",
+     "start": 58.989,
+     "end": 59.35
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.854,
+   "end": 64.677,
+   "text": "They tamed the shaking with concrete, and yours still walks across the bathroom until somebody sits on it.",
+   "words": [
+    {
+     "w": "They",
+     "start": 59.984,
+     "end": 60.179
+    },
+    {
+     "w": "tamed",
+     "start": 60.179,
+     "end": 60.517
+    },
+    {
+     "w": "the",
+     "start": 60.517,
+     "end": 60.712
+    },
+    {
+     "w": "shaking",
+     "start": 60.712,
+     "end": 61.051
+    },
+    {
+     "w": "with",
+     "start": 61.051,
+     "end": 61.245
+    },
+    {
+     "w": "concrete,",
+     "start": 61.245,
+     "end": 61.584
+    },
+    {
+     "w": "and",
+     "start": 61.724,
+     "end": 61.899
+    },
+    {
+     "w": "yours",
+     "start": 61.899,
+     "end": 62.073
+    },
+    {
+     "w": "still",
+     "start": 62.073,
+     "end": 62.248
+    },
+    {
+     "w": "walks",
+     "start": 62.248,
+     "end": 62.422
+    },
+    {
+     "w": "across",
+     "start": 62.422,
+     "end": 62.726
+    },
+    {
+     "w": "the",
+     "start": 62.726,
+     "end": 62.9
+    },
+    {
+     "w": "bathroom",
+     "start": 62.9,
+     "end": 63.204
+    },
+    {
+     "w": "until",
+     "start": 63.204,
+     "end": 63.508
+    },
+    {
+     "w": "somebody",
+     "start": 63.508,
+     "end": 64.07
+    },
+    {
+     "w": "sits",
+     "start": 64.07,
+     "end": 64.245
+    },
+    {
+     "w": "on",
+     "start": 64.245,
+     "end": 64.419
+    },
+    {
+     "w": "it.",
+     "start": 64.419,
+     "end": 64.594
+    }
+   ]
+  }
+ ]
+}
