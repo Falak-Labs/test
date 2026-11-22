@@ -18,28 +18,28 @@
    ]
   },
   "sound": {
-   "seconds": 4.0,
+   "seconds": 5.4,
    "says": [
     "duration 1:33.43 (2803 frames) | 13 shots, 50 beats | -14.0 LUFS, peak 0.651",
     "quiz 31.1 | hard word 44.3667 | end card 85.8667 | word parts (s): {'T': [0.59, 0.71, 0.62, 0.65, 0.77], 'A': [0.6, 0.66, 0.56, 0.57, 0.75], 'L': [0.63, 0.7, 0.56, 0.59, 0.71]}"
    ]
   },
   "picture": {
-   "seconds": 126.0,
+   "seconds": 182.1,
    "pieces": 6,
    "at_once": 4,
-   "frames_per_second": 22.2
+   "frames_per_second": 15.4
   },
   "join": {
    "seconds": 0.2,
    "says": []
   },
   "mux": {
-   "seconds": 2.0,
+   "seconds": 2.6,
    "says": []
   },
   "takes": {
-   "seconds": 3.1,
+   "seconds": 4.0,
    "says": [
     "ok   o2      at   90.30s len 1.12s  match 0.959  (take offset +0.04s)",
     "ok   o3      at   91.67s len 0.64s  match 0.993  (take offset +0.01s)",
@@ -47,7 +47,7 @@
    ]
   },
   "frames": {
-   "seconds": 2.3,
+   "seconds": 3.2,
    "says": []
   }
  },
@@ -56,11 +56,11 @@
  "sha256": {
   "page/script.js": "99036e218f6a03cdbc4fbfa163d78725ff4d7f19793c1550d88a5a36b39a14df",
   "page/tl.js": "91d0357be77a3c7b39bf8afa3df07e840bc6bce147f06cee3e19c3e6f0c2e864",
-  "final.wav": "a625cc199a63e49ebb8c9dfef006b15c9a11043b43c9e0cfc37965d49825b461",
-  "yallah-say-ma-ep01.mp4": "ce97dd527bd1735f90bc8523f37a4bb39dfc13097f55aa8b1d7860d8bce945b8"
+  "final.wav": "e5539c1b5055bc06db2e790a0a2a392b5e30930b33ac8ab13fb563f47b1968a5",
+  "yallah-say-ma-ep01.mp4": "48666f660868752942b12c734de397cb97b5617d2ab448ac591d5cc86b848f38"
  },
  "video": {
-  "size": 20342009,
+  "size": 20344520,
   "frames": 2803,
   "width": 1080,
   "height": 1920,
@@ -90,5 +90,5 @@
   "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
   "playwright": "Version 1.63.0"
  },
- "seconds": 138.4
+ "seconds": 198.6
 }
