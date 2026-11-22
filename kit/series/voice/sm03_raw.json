@@ -1,0 +1,55 @@
+{
+ "voice": "Easton",
+ "duration": 41.06,
+ "words": 140,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 2.9,
+   "text": "No solid ground. No flat land. No thick walls."
+  },
+  {
+   "line": 2,
+   "start": 3.25,
+   "end": 6.7,
+   "text": "Just you, and four fights with gravity that you are not supposed to win."
+  },
+  {
+   "line": 3,
+   "start": 7.05,
+   "end": 9.74,
+   "text": "Win all four, and congrats, you just beat gravity."
+  },
+  {
+   "line": 4,
+   "start": 10.09,
+   "end": 14.54,
+   "text": "Level one. Pisa. The ground is soft clay, and your tower starts sinking on one side."
+  },
+  {
+   "line": 5,
+   "start": 14.89,
+   "end": 19.9,
+   "text": "Level two. A knife-edge mountain. Two meters of rain a year turn the soil to mud, and mud slides."
+  },
+  {
+   "line": 6,
+   "start": 20.25,
+   "end": 26.0,
+   "text": "Level three. Sydney. The roof is a sketch of sails, nobody knows how to build it, and some pieces weigh fifteen tonnes."
+  },
+  {
+   "line": 7,
+   "start": 26.35,
+   "end": 32.12,
+   "text": "Final level. The harbor. A copper giant with skin as thin as two coins, and the storm wants to crumple her like foil."
+  },
+  {
+   "line": 8,
+   "start": 32.47,
+   "end": 41.06,
+   "text": "Four levels, and nothing fell down. One tower still leans, but that's the famous part. You beat clay, mud, weight and wind, with lead, gravel, cable and iron."
+  }
+ ]
+}

@@ -1,0 +1,774 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 42.76,
+ "words": 140,
+ "words_per_sec": 3.27,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.021,
+   "text": "No solid ground. No flat land. No thick walls.",
+   "words": [
+    {
+     "w": "No",
+     "start": 0.08,
+     "end": 0.342
+    },
+    {
+     "w": "solid",
+     "start": 0.342,
+     "end": 0.798
+    },
+    {
+     "w": "ground.",
+     "start": 0.798,
+     "end": 1.06
+    },
+    {
+     "w": "No",
+     "start": 1.21,
+     "end": 1.473
+    },
+    {
+     "w": "flat",
+     "start": 1.473,
+     "end": 1.737
+    },
+    {
+     "w": "land.",
+     "start": 1.737,
+     "end": 2.0
+    },
+    {
+     "w": "No",
+     "start": 2.14,
+     "end": 2.41
+    },
+    {
+     "w": "thick",
+     "start": 2.41,
+     "end": 2.68
+    },
+    {
+     "w": "walls.",
+     "start": 2.68,
+     "end": 2.95
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 3.385,
+   "end": 6.979,
+   "text": "Just you, and four fights with gravity that you are not supposed to win.",
+   "words": [
+    {
+     "w": "Just",
+     "start": 3.495,
+     "end": 3.695
+    },
+    {
+     "w": "you,",
+     "start": 3.695,
+     "end": 3.896
+    },
+    {
+     "w": "and",
+     "start": 3.896,
+     "end": 4.096
+    },
+    {
+     "w": "four",
+     "start": 4.096,
+     "end": 4.297
+    },
+    {
+     "w": "fights",
+     "start": 4.297,
+     "end": 4.497
+    },
+    {
+     "w": "with",
+     "start": 4.497,
+     "end": 4.698
+    },
+    {
+     "w": "gravity",
+     "start": 4.698,
+     "end": 5.195
+    },
+    {
+     "w": "that",
+     "start": 5.195,
+     "end": 5.395
+    },
+    {
+     "w": "you",
+     "start": 5.395,
+     "end": 5.596
+    },
+    {
+     "w": "are",
+     "start": 5.596,
+     "end": 5.796
+    },
+    {
+     "w": "not",
+     "start": 5.796,
+     "end": 5.997
+    },
+    {
+     "w": "supposed",
+     "start": 5.997,
+     "end": 6.494
+    },
+    {
+     "w": "to",
+     "start": 6.494,
+     "end": 6.695
+    },
+    {
+     "w": "win.",
+     "start": 6.695,
+     "end": 6.895
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 7.344,
+   "end": 10.146,
+   "text": "Win all four, and congrats, you just beat gravity.",
+   "words": [
+    {
+     "w": "Win",
+     "start": 7.464,
+     "end": 7.707
+    },
+    {
+     "w": "all",
+     "start": 7.707,
+     "end": 7.951
+    },
+    {
+     "w": "four,",
+     "start": 7.951,
+     "end": 8.194
+    },
+    {
+     "w": "and",
+     "start": 8.384,
+     "end": 8.628
+    },
+    {
+     "w": "congrats,",
+     "start": 8.628,
+     "end": 9.054
+    },
+    {
+     "w": "you",
+     "start": 9.174,
+     "end": 9.342
+    },
+    {
+     "w": "just",
+     "start": 9.342,
+     "end": 9.51
+    },
+    {
+     "w": "beat",
+     "start": 9.51,
+     "end": 9.678
+    },
+    {
+     "w": "gravity.",
+     "start": 9.678,
+     "end": 10.094
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 10.51,
+   "end": 15.146,
+   "text": "Level one. Pisa. The ground is soft clay, and your tower starts sinking on one side.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 10.6,
+     "end": 10.987
+    },
+    {
+     "w": "one.",
+     "start": 10.987,
+     "end": 11.21
+    },
+    {
+     "w": "Pisa.",
+     "start": 11.33,
+     "end": 11.72
+    },
+    {
+     "w": "The",
+     "start": 11.86,
+     "end": 12.096
+    },
+    {
+     "w": "ground",
+     "start": 12.096,
+     "end": 12.332
+    },
+    {
+     "w": "is",
+     "start": 12.332,
+     "end": 12.568
+    },
+    {
+     "w": "soft",
+     "start": 12.568,
+     "end": 12.804
+    },
+    {
+     "w": "clay,",
+     "start": 12.804,
+     "end": 13.04
+    },
+    {
+     "w": "and",
+     "start": 13.21,
+     "end": 13.405
+    },
+    {
+     "w": "your",
+     "start": 13.405,
+     "end": 13.6
+    },
+    {
+     "w": "tower",
+     "start": 13.6,
+     "end": 13.94
+    },
+    {
+     "w": "starts",
+     "start": 13.94,
+     "end": 14.135
+    },
+    {
+     "w": "sinking",
+     "start": 14.135,
+     "end": 14.475
+    },
+    {
+     "w": "on",
+     "start": 14.475,
+     "end": 14.67
+    },
+    {
+     "w": "one",
+     "start": 14.67,
+     "end": 14.865
+    },
+    {
+     "w": "side.",
+     "start": 14.865,
+     "end": 15.06
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 15.51,
+   "end": 20.729,
+   "text": "Level two. A knife-edge mountain. Two meters of rain a year turn the soil to mud, and mud slides.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 15.6,
+     "end": 16.032
+    },
+    {
+     "w": "two.",
+     "start": 16.032,
+     "end": 16.28
+    },
+    {
+     "w": "A",
+     "start": 16.43,
+     "end": 16.624
+    },
+    {
+     "w": "knife-edge",
+     "start": 16.624,
+     "end": 16.962
+    },
+    {
+     "w": "mountain.",
+     "start": 16.962,
+     "end": 17.3
+    },
+    {
+     "w": "Two",
+     "start": 17.47,
+     "end": 17.661
+    },
+    {
+     "w": "meters",
+     "start": 17.661,
+     "end": 17.993
+    },
+    {
+     "w": "of",
+     "start": 17.993,
+     "end": 18.184
+    },
+    {
+     "w": "rain",
+     "start": 18.184,
+     "end": 18.374
+    },
+    {
+     "w": "a",
+     "start": 18.374,
+     "end": 18.565
+    },
+    {
+     "w": "year",
+     "start": 18.565,
+     "end": 18.756
+    },
+    {
+     "w": "turn",
+     "start": 18.756,
+     "end": 18.947
+    },
+    {
+     "w": "the",
+     "start": 18.947,
+     "end": 19.138
+    },
+    {
+     "w": "soil",
+     "start": 19.138,
+     "end": 19.328
+    },
+    {
+     "w": "to",
+     "start": 19.328,
+     "end": 19.519
+    },
+    {
+     "w": "mud,",
+     "start": 19.519,
+     "end": 19.71
+    },
+    {
+     "w": "and",
+     "start": 19.83,
+     "end": 20.049
+    },
+    {
+     "w": "mud",
+     "start": 20.049,
+     "end": 20.268
+    },
+    {
+     "w": "slides.",
+     "start": 20.268,
+     "end": 20.65
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 21.094,
+   "end": 27.083,
+   "text": "Level three. Sydney. The roof is a sketch of sails, nobody knows how to build it, and some pieces weigh fifteen tonnes.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 21.184,
+     "end": 21.616
+    },
+    {
+     "w": "three.",
+     "start": 21.616,
+     "end": 21.864
+    },
+    {
+     "w": "Sydney.",
+     "start": 22.014,
+     "end": 22.414
+    },
+    {
+     "w": "The",
+     "start": 22.524,
+     "end": 22.707
+    },
+    {
+     "w": "roof",
+     "start": 22.707,
+     "end": 22.89
+    },
+    {
+     "w": "is",
+     "start": 22.89,
+     "end": 23.073
+    },
+    {
+     "w": "a",
+     "start": 23.073,
+     "end": 23.255
+    },
+    {
+     "w": "sketch",
+     "start": 23.255,
+     "end": 23.438
+    },
+    {
+     "w": "of",
+     "start": 23.438,
+     "end": 23.621
+    },
+    {
+     "w": "sails,",
+     "start": 23.621,
+     "end": 23.804
+    },
+    {
+     "w": "nobody",
+     "start": 23.934,
+     "end": 24.325
+    },
+    {
+     "w": "knows",
+     "start": 24.325,
+     "end": 24.483
+    },
+    {
+     "w": "how",
+     "start": 24.483,
+     "end": 24.641
+    },
+    {
+     "w": "to",
+     "start": 24.641,
+     "end": 24.799
+    },
+    {
+     "w": "build",
+     "start": 24.799,
+     "end": 24.956
+    },
+    {
+     "w": "it,",
+     "start": 24.956,
+     "end": 25.114
+    },
+    {
+     "w": "and",
+     "start": 25.274,
+     "end": 25.487
+    },
+    {
+     "w": "some",
+     "start": 25.487,
+     "end": 25.7
+    },
+    {
+     "w": "pieces",
+     "start": 25.7,
+     "end": 26.07
+    },
+    {
+     "w": "weigh",
+     "start": 26.07,
+     "end": 26.283
+    },
+    {
+     "w": "fifteen",
+     "start": 26.283,
+     "end": 26.654
+    },
+    {
+     "w": "tonnes.",
+     "start": 26.654,
+     "end": 27.024
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.448,
+   "end": 33.458,
+   "text": "Final level. The harbor. A copper giant with skin as thin as two coins, and the storm wants to crumple her like foil.",
+   "words": [
+    {
+     "w": "Final",
+     "start": 27.578,
+     "end": 27.858
+    },
+    {
+     "w": "level.",
+     "start": 27.858,
+     "end": 28.138
+    },
+    {
+     "w": "The",
+     "start": 28.298,
+     "end": 28.535
+    },
+    {
+     "w": "harbor.",
+     "start": 28.535,
+     "end": 28.948
+    },
+    {
+     "w": "A",
+     "start": 29.008,
+     "end": 29.231
+    },
+    {
+     "w": "copper",
+     "start": 29.231,
+     "end": 29.62
+    },
+    {
+     "w": "giant",
+     "start": 29.62,
+     "end": 29.844
+    },
+    {
+     "w": "with",
+     "start": 29.844,
+     "end": 30.067
+    },
+    {
+     "w": "skin",
+     "start": 30.067,
+     "end": 30.291
+    },
+    {
+     "w": "as",
+     "start": 30.291,
+     "end": 30.514
+    },
+    {
+     "w": "thin",
+     "start": 30.514,
+     "end": 30.738
+    },
+    {
+     "w": "as",
+     "start": 30.738,
+     "end": 30.961
+    },
+    {
+     "w": "two",
+     "start": 30.961,
+     "end": 31.185
+    },
+    {
+     "w": "coins,",
+     "start": 31.185,
+     "end": 31.408
+    },
+    {
+     "w": "and",
+     "start": 31.538,
+     "end": 31.74
+    },
+    {
+     "w": "the",
+     "start": 31.74,
+     "end": 31.942
+    },
+    {
+     "w": "storm",
+     "start": 31.942,
+     "end": 32.145
+    },
+    {
+     "w": "wants",
+     "start": 32.145,
+     "end": 32.347
+    },
+    {
+     "w": "to",
+     "start": 32.347,
+     "end": 32.549
+    },
+    {
+     "w": "crumple",
+     "start": 32.549,
+     "end": 32.751
+    },
+    {
+     "w": "her",
+     "start": 32.751,
+     "end": 32.954
+    },
+    {
+     "w": "like",
+     "start": 32.954,
+     "end": 33.156
+    },
+    {
+     "w": "foil.",
+     "start": 33.156,
+     "end": 33.358
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 33.823,
+   "end": 42.771,
+   "text": "Four levels, and nothing fell down. One tower still leans, but that's the famous part. You beat clay, mud, weight and wind, with lead, gravel, cable and iron.",
+   "words": [
+    {
+     "w": "Four",
+     "start": 33.963,
+     "end": 34.175
+    },
+    {
+     "w": "levels,",
+     "start": 34.175,
+     "end": 34.543
+    },
+    {
+     "w": "and",
+     "start": 34.663,
+     "end": 34.851
+    },
+    {
+     "w": "nothing",
+     "start": 34.851,
+     "end": 35.178
+    },
+    {
+     "w": "fell",
+     "start": 35.178,
+     "end": 35.365
+    },
+    {
+     "w": "down.",
+     "start": 35.365,
+     "end": 35.553
+    },
+    {
+     "w": "One",
+     "start": 35.673,
+     "end": 35.924
+    },
+    {
+     "w": "tower",
+     "start": 35.924,
+     "end": 36.361
+    },
+    {
+     "w": "still",
+     "start": 36.361,
+     "end": 36.612
+    },
+    {
+     "w": "leans,",
+     "start": 36.612,
+     "end": 36.863
+    },
+    {
+     "w": "but",
+     "start": 36.993,
+     "end": 37.258
+    },
+    {
+     "w": "that's",
+     "start": 37.258,
+     "end": 37.523
+    },
+    {
+     "w": "the",
+     "start": 37.523,
+     "end": 37.787
+    },
+    {
+     "w": "famous",
+     "start": 37.787,
+     "end": 38.248
+    },
+    {
+     "w": "part.",
+     "start": 38.248,
+     "end": 38.513
+    },
+    {
+     "w": "You",
+     "start": 38.563,
+     "end": 38.813
+    },
+    {
+     "w": "beat",
+     "start": 38.813,
+     "end": 39.063
+    },
+    {
+     "w": "clay,",
+     "start": 39.063,
+     "end": 39.313
+    },
+    {
+     "w": "mud,",
+     "start": 39.313,
+     "end": 39.563
+    },
+    {
+     "w": "weight",
+     "start": 39.683,
+     "end": 39.936
+    },
+    {
+     "w": "and",
+     "start": 39.936,
+     "end": 40.19
+    },
+    {
+     "w": "wind,",
+     "start": 40.19,
+     "end": 40.443
+    },
+    {
+     "w": "with",
+     "start": 40.593,
+     "end": 40.863
+    },
+    {
+     "w": "lead,",
+     "start": 40.863,
+     "end": 41.133
+    },
+    {
+     "w": "gravel,",
+     "start": 41.293,
+     "end": 41.723
+    },
+    {
+     "w": "cable",
+     "start": 41.893,
+     "end": 42.112
+    },
+    {
+     "w": "and",
+     "start": 42.112,
+     "end": 42.331
+    },
+    {
+     "w": "iron.",
+     "start": 42.331,
+     "end": 42.713
+    }
+   ]
+  }
+ ]
+}
