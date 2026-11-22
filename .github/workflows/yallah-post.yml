@@ -7,6 +7,9 @@ on:
       preview:
         description: "true = only list what is queued (Buffer is not touched)"
         default: "true"
+      channels:
+        description: "true = only list the channels each Buffer key sees (nothing is posted)"
+        default: "false"
   # schedule:                     # switched on once the Buffer keys exist and the first videos are approved
   #   - cron: "*/10 * * * *"
 permissions:
@@ -27,14 +30,22 @@ jobs:
         id: due
         run: python3 yallah/post_due.py --check
       - name: Preview
-        if: inputs.preview == 'true'
+        if: inputs.preview == 'true' && inputs.channels != 'true'
         run: python3 yallah/post_due.py --preview
       - uses: actions/setup-python@v5
-        if: steps.due.outputs.due == 'true' && inputs.preview != 'true'
+        if: (steps.due.outputs.due == 'true' && inputs.preview != 'true') || inputs.channels == 'true'
         with:
           python-version: "3.12"
+      - name: List the channels each Buffer key sees
+        if: inputs.channels == 'true'
+        env:
+          BUFFER_KEY_MA: ${{ secrets.BUFFER_KEY_MA }}
+          BUFFER_KEY_PA: ${{ secrets.BUFFER_KEY_PA }}
+        run: |
+          pip install --quiet requests pyyaml
+          python yallah/post_due.py --channels
       - name: Send what is due to Buffer
-        if: steps.due.outputs.due == 'true' && inputs.preview != 'true'
+        if: steps.due.outputs.due == 'true' && inputs.preview != 'true' && inputs.channels != 'true'
         env:
           BUFFER_KEY_MA: ${{ secrets.BUFFER_KEY_MA }}
           BUFFER_KEY_PA: ${{ secrets.BUFFER_KEY_PA }}
@@ -42,5 +53,5 @@ jobs:
           pip install --quiet requests pyyaml
           python yallah/post_due.py
       - name: Save state
-        if: steps.due.outputs.due == 'true' && inputs.preview != 'true'
+        if: (steps.due.outputs.due == 'true' && inputs.preview != 'true') || inputs.channels == 'true'
         run: bash scripts/save_state.sh "yallah posts $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" yallah/state state/buffer-schema.json

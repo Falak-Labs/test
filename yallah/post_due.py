@@ -197,5 +197,32 @@ def send():
             f.write(f"# Last Yallah Say posting run {NOW.isoformat(timespec='seconds')}\n\n" + "\n".join(f"- {m}" for m in LOG) + "\n")
 
 
+def channels():
+    """Which channels each Buffer key sees and which one every platform would post to. Posts nothing; works while
+    posting is switched off. The answer is saved in yallah/state/channels.md (names only, never a key)."""
+    sys.path.insert(0, os.path.join(ROOT, "scripts"))
+    import requests
+    from buffer import BufferError
+    from post import Account
+    for lang, ac in CFG["accounts"].items():
+        key = os.environ.get(ac["secret"], "").strip()
+        if not key:
+            log(f"{lang}: secret {ac['secret']} is not set yet")
+            continue
+        try:
+            acc = Account(key, lang)
+        except (BufferError, requests.RequestException, RuntimeError) as e:
+            log(f"{lang}: Buffer error: {str(e)[:300]}")
+            continue
+        seen = ", ".join(f"{c['service']} ({c.get('displayName') or c.get('name')})" for c in acc.all_channels)
+        log(f"{lang}: Buffer sees {seen or 'no channels'}")
+        for platform in PLATFORMS:
+            ch, problem = acc.pick({"channels": {lang: ac["channels"]}}, lang, platform)
+            log(f"{lang}.{platform}: " + (f"will post to {ch.get('displayName') or ch.get('name')}" if ch else f"NOT READY: {problem}"))
+    os.makedirs(os.path.join(HERE, "state"), exist_ok=True)
+    with open(os.path.join(HERE, "state", "channels.md"), "w", encoding="utf-8") as f:
+        f.write(f"# Yallah Say Buffer channels, checked {NOW.isoformat(timespec='seconds')}\n\n" + "\n".join(f"- {m}" for m in LOG) + "\n")
+
+
 if __name__ == "__main__":
-    check() if "--check" in sys.argv else preview() if "--preview" in sys.argv else send()
+    check() if "--check" in sys.argv else preview() if "--preview" in sys.argv else channels() if "--channels" in sys.argv else send()
