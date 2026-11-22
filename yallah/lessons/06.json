@@ -1,0 +1,175 @@
+{
+ "title": "Happy birthday",
+ "word": {
+  "full": "Celebration",
+  "parts": [
+   "Ce",
+   "le",
+   "bra",
+   "tion"
+  ],
+  "say": [
+   "seh",
+   "luh",
+   "BRAY",
+   "shun"
+  ],
+  "tts": [
+   "Seh",
+   "Luh",
+   "Bray",
+   "Shun"
+  ],
+  "mean": "الاحتفال",
+  "ar": {
+   "ma": "سيليبريشن",
+   "pa": "سيليبريشن"
+  }
+ },
+ "en": [
+  [
+   "Happy birthday!",
+   "A",
+   "fe:cake",
+   {}
+  ],
+  [
+   "This is for you.",
+   "L",
+   "fe:gift",
+   {}
+  ],
+  [
+   "Thank you so much!",
+   "A",
+   "heart",
+   {}
+  ],
+  [
+   "Let's eat cake!",
+   "L",
+   "yum",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Salam! Wach kat3ref tgoul «l-i7tifal» b-l-inglizia?",
+    "سلام! واش كتعرف تقول «الاحتفال» بالإنجليزية؟",
+    "Do you know how to say “i7tifal” in English?"
+   ],
+   [
+    "L-jawab f-l-akher. Yallah!",
+    "الجواب فالآخر. يالله!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الاحتفال",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Mbrouk 3id milad!",
+    "مبروك عيد ميلاد!"
+   ],
+   [
+    "Hadi lik.",
+    "هادي ليك."
+   ],
+   [
+    "Choukran bzaf bzaf!",
+    "شكرا بزاف بزاف!"
+   ],
+   [
+    "Yallah nakelou l-gato!",
+    "يالله ناكلو الڭاطو!"
+   ],
+   [
+    "Tmenna chi haja!",
+    "تمنى شي حاجة!"
+   ]
+  ],
+  "ph5": [
+   "Make a wish!",
+   "A",
+   "fe:party",
+   {}
+  ],
+  "sent": {
+   "en": "Eid is a big celebration for the family!",
+   "hot": [
+    4
+   ],
+   "dz": "L-3id 7efla kbira l-3a2ila!",
+   "ar": "العيد حفلة كبيرة للعائلة!"
+  },
+  "ah": [
+   "سي",
+   "لي",
+   "بري",
+   "شن"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Marhaba! Bti3raf kif tihki «el-i7tifal» bil-inglizi?",
+    "مرحبا! بتعرف كيف تحكي «الاحتفال» بالإنجليزي؟",
+    "Do you know how to say “i7tifal” in English?"
+   ],
+   [
+    "El-jawab bil-akher. Yalla!",
+    "الجواب بالآخر. يلا!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الاحتفال",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Kul 3am w-inte b-kheir!",
+    "كل عام وإنت بخير!"
+   ],
+   [
+    "Hay ilak.",
+    "هاي إلك."
+   ],
+   [
+    "Shukran ktir ktir!",
+    "شكرا كتير كتير!"
+   ],
+   [
+    "Yalla nokol el-kake!",
+    "يلا ناكل الكيكة!"
+   ],
+   [
+    "Itmanna umniye!",
+    "اتمنى أمنية!"
+   ]
+  ],
+  "ph5": [
+   "Make a wish!",
+   "A",
+   "fe:party",
+   {}
+  ],
+  "sent": {
+   "en": "Eid is a big celebration for the family!",
+   "hot": [
+    4
+   ],
+   "dz": "El-3id farha kbire lal-3ele!",
+   "ar": "العيد فرحة كبيرة للعيلة!"
+  },
+  "ah": [
+   "سي",
+   "لي",
+   "بري",
+   "شن"
+  ]
+ }
+}

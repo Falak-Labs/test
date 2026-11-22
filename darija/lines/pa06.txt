@@ -1,0 +1,16 @@
+# Yallah Say, episode 06 (pa): five phrases, quiz, hard word (Celebration) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | مرحبا! بتعرف كيف تحكي الاحتفال بالإنجليزي؟
+T | h2 | الجواب بالآخر. يلا!
+T | p01t | كل عام وإنت بخير!
+T | p02t | هاي إلك.
+T | p03t | شكرا كتير كتير!
+T | p04t | يلا ناكل الكيكة!
+T | p05t | اتمنى أمنية!
+T | tw | Celebration.
+T | w6 | Good job! Celebration!
+T | v2 | العيد فرحة كبيرة للعيلة!
+T | T_seh | Seh.
+T | T_luh | Luh.
+T | T_bray | Bray.
+T | T_shun | Shun.

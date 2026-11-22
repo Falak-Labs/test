@@ -1,0 +1,16 @@
+# Yallah Say, episode 04 (pa): five phrases, quiz, hard word (Grandmother) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | مرحبا! بتعرف كيف تحكي الستّ بالإنجليزي؟
+T | h2 | الجواب بالآخر. يلا!
+T | p01t | هاي إمي.
+T | p02t | هاد أبوي.
+T | p03t | عندي إخوة تنين.
+T | p04t | عندي أخت وحدة.
+T | p05t | بحب عيلتي.
+T | tw | Grandmother.
+T | w6 | Good job! Grandmother!
+L | v1 | My grandmother makes the best maqluba!
+T | v2 | ستي بتعمل أحلى مقلوبة!
+T | T_grand | Grand.
+T | T_muh | Muh.
+T | T_thur | Thur.

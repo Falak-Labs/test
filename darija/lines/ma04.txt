@@ -1,0 +1,16 @@
+# Yallah Say, episode 04 (ma): five phrases, quiz, hard word (Grandmother) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | سلام! واش كتعرف تقول الجدة بالإنجليزية؟
+T | h2 | الجواب فالآخر. يالله!
+T | p01t | هادي مّي.
+T | p02t | هادا بّا.
+T | p03t | عندي جوج خوت.
+T | p04t | عندي ختي وحدة.
+T | p05t | كنبغي العائلة ديالي.
+T | tw | Grandmother.
+T | w6 | Good job! Grandmother!
+L | v1 | My grandmother makes the best couscous!
+T | v2 | جدتي كتدير أحسن كسكسو!
+T | T_grand | Grand.
+T | T_muh | Muh.
+T | T_thur | Thur.

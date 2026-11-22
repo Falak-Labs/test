@@ -1,0 +1,17 @@
+# Yallah Say, episode 05 (ma): five phrases, quiz, hard word (Comfortable) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | سلام! واش كتعرف تقول مرتاح بالإنجليزية؟
+T | h2 | الجواب فالآخر. يالله!
+T | p01t | مرحبا بيك!
+T | p02t | دخل!
+T | p03t | ڭلس، عافاك.
+T | p04t | شكرا، نتا ظريف.
+T | p05t | بغيتي أتاي؟
+A | p05k | Do you want tea?
+T | tw | Comfortable.
+T | w6 | Good job! Comfortable!
+T | v2 | رتاح، داري هي دارك!
+T | T_kum | Kum.
+T | T_fur | Fur.
+T | T_tuh | Tuh.
+T | T_bull | Bull.

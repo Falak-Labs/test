@@ -1,0 +1,179 @@
+{
+ "title": "Welcome to my home",
+ "word": {
+  "full": "Comfortable",
+  "parts": [
+   "Com",
+   "for",
+   "ta",
+   "ble"
+  ],
+  "say": [
+   "KUM",
+   "fer",
+   "tuh",
+   "bul"
+  ],
+  "tts": [
+   "Kum",
+   "Fur",
+   "Tuh",
+   "Bull"
+  ],
+  "mean": "مرتاح",
+  "ar": {
+   "ma": "كمفرتابل",
+   "pa": "كمفرتابل"
+  }
+ },
+ "en": [
+  [
+   "Welcome!",
+   "A",
+   "wave",
+   {}
+  ],
+  [
+   "Come in!",
+   "L",
+   "fe:door",
+   {}
+  ],
+  [
+   "Sit down, please.",
+   "A",
+   "fe:chair",
+   {}
+  ],
+  [
+   "Thank you, you're very kind.",
+   "L",
+   "flower",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Salam! Wach kat3ref tgoul «mertah» b-l-inglizia?",
+    "سلام! واش كتعرف تقول «مرتاح» بالإنجليزية؟",
+    "Do you know how to say “mertah” in English?"
+   ],
+   [
+    "L-jawab f-l-akher. Yallah!",
+    "الجواب فالآخر. يالله!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "مرتاح",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Mrehba bik!",
+    "مرحبا بيك!"
+   ],
+   [
+    "Dkhol!",
+    "دخل!"
+   ],
+   [
+    "Gles, 3afak.",
+    "ڭلس، عافاك."
+   ],
+   [
+    "Choukran, nta driyef.",
+    "شكرا، نتا ظريف."
+   ],
+   [
+    "Bghiti atay?",
+    "بغيتي أتاي؟"
+   ]
+  ],
+  "ph5": [
+   "Do you want tea?",
+   "A",
+   "fe:tea",
+   {
+    "q": 1
+   }
+  ],
+  "sent": {
+   "en": "Make yourself comfortable, my home is your home!",
+   "hot": [
+    2
+   ],
+   "dz": "Rtah, dari hiya darek!",
+   "ar": "رتاح، داري هي دارك!"
+  },
+  "ah": [
+   "كم",
+   "فر",
+   "تا",
+   "بل"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Marhaba! Bti3raf kif tihki «mirtah» bil-inglizi?",
+    "مرحبا! بتعرف كيف تحكي «مرتاح» بالإنجليزي؟",
+    "Do you know how to say “mirtah” in English?"
+   ],
+   [
+    "El-jawab bil-akher. Yalla!",
+    "الجواب بالآخر. يلا!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "مرتاح",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Ahlan w-sahlan!",
+    "أهلا وسهلا!"
+   ],
+   [
+    "Tfaddal!",
+    "تفضل!"
+   ],
+   [
+    "Ou3od, law samaht.",
+    "اقعد، لو سمحت."
+   ],
+   [
+    "Shukran, inte ktir latif.",
+    "شكرا، إنت كتير لطيف."
+   ],
+   [
+    "Bitishrab ahwe?",
+    "بتشرب قهوة؟"
+   ]
+  ],
+  "ph5": [
+   "Do you want coffee?",
+   "A",
+   "fe:coffee",
+   {
+    "q": 1
+   }
+  ],
+  "sent": {
+   "en": "Make yourself comfortable, my home is your home!",
+   "hot": [
+    2
+   ],
+   "dz": "Khod rahtak, beti betak!",
+   "ar": "خد راحتك، بيتي بيتك!"
+  },
+  "ah": [
+   "كم",
+   "فر",
+   "تا",
+   "بل"
+  ]
+ }
+}

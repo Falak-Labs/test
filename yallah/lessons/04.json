@@ -1,0 +1,171 @@
+{
+ "title": "My family",
+ "word": {
+  "full": "Grandmother",
+  "parts": [
+   "Grand",
+   "moth",
+   "er"
+  ],
+  "say": [
+   "GRAND",
+   "muh",
+   "ther"
+  ],
+  "tts": [
+   "Grand",
+   "Muh",
+   "Thur"
+  ],
+  "mean": "الجدة",
+  "ar": {
+   "ma": "ڭراندمذر",
+   "pa": "غراندمذر"
+  }
+ },
+ "en": [
+  [
+   "This is my mother.",
+   "A",
+   "fe:woman",
+   {}
+  ],
+  [
+   "This is my father.",
+   "L",
+   "fe:man",
+   {}
+  ],
+  [
+   "I have two brothers.",
+   "A",
+   "fe:boy",
+   {}
+  ],
+  [
+   "I have one sister.",
+   "L",
+   "fe:girl",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Salam! Wach kat3ref tgoul «l-jedda» b-l-inglizia?",
+    "سلام! واش كتعرف تقول «الجدة» بالإنجليزية؟",
+    "Do you know how to say “jedda” in English?"
+   ],
+   [
+    "L-jawab f-l-akher. Yallah!",
+    "الجواب فالآخر. يالله!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الجدة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Hadi mmi.",
+    "هادي مّي."
+   ],
+   [
+    "Hada bba.",
+    "هادا بّا."
+   ],
+   [
+    "3ndi joj khout.",
+    "عندي جوج خوت."
+   ],
+   [
+    "3ndi khti wahda.",
+    "عندي ختي وحدة."
+   ],
+   [
+    "Kanbghi l-3a2ila dyali.",
+    "كنبغي العائلة ديالي."
+   ]
+  ],
+  "ph5": [
+   "I love my family.",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "My grandmother makes the best couscous!",
+   "hot": [
+    1
+   ],
+   "dz": "Jeddati katdir a7sen kesksou!",
+   "ar": "جدتي كتدير أحسن كسكسو!"
+  },
+  "ah": [
+   "ڭراند",
+   "مذ",
+   "ر"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Marhaba! Bti3raf kif tihki «es-sitt» bil-inglizi?",
+    "مرحبا! بتعرف كيف تحكي «الستّ» بالإنجليزي؟",
+    "Do you know how to say “sitt” in English?"
+   ],
+   [
+    "El-jawab bil-akher. Yalla!",
+    "الجواب بالآخر. يلا!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الستّ",
+   "= ? ? ?"
+  ],
+  "mean": "الستّ (الجدة)",
+  "ph": [
+   [
+    "Hay immi.",
+    "هاي إمي."
+   ],
+   [
+    "Hada abuy.",
+    "هاد أبوي."
+   ],
+   [
+    "3indi ikhwe tnen.",
+    "عندي إخوة تنين."
+   ],
+   [
+    "3indi ukht wahde.",
+    "عندي أخت وحدة."
+   ],
+   [
+    "Bhibb 3eelti.",
+    "بحب عيلتي."
+   ]
+  ],
+  "ph5": [
+   "I love my family.",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "My grandmother makes the best maqluba!",
+   "hot": [
+    1
+   ],
+   "dz": "Sitti bt3mal a7la maqlube!",
+   "ar": "ستي بتعمل أحلى مقلوبة!"
+  },
+  "ah": [
+   "غراند",
+   "مذ",
+   "ر"
+  ]
+ }
+}

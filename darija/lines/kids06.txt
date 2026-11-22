@@ -1,0 +1,18 @@
+# Yallah Say, episode 06: the pupils' English lines that both dialects share (hard word: Celebration).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | Happy birthday!
+L | p02k | This is for you.
+A | p03k | Thank you so much!
+L | p04k | Let's eat cake!
+A | p05k | Make a wish!
+A | w5 | Celebration!
+L | v1 | Eid is a big celebration for the family!
+L | Lw | Celebration!
+A | A_seh | Seh.
+A | A_luh | Luh.
+A | A_bray | Bray.
+A | A_shun | Shun.
+L | L_seh | Seh.
+L | L_luh | Luh.
+L | L_bray | Bray.
+L | L_shun | Shun.

@@ -1,0 +1,15 @@
+# Yallah Say, episode 04: the pupils' English lines that both dialects share (hard word: Grandmother).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | This is my mother.
+L | p02k | This is my father.
+A | p03k | I have two brothers.
+L | p04k | I have one sister.
+A | p05k | I love my family.
+A | w5 | Grandmother!
+L | Lw | Grandmother!
+A | A_grand | Grand.
+A | A_muh | Muh.
+A | A_thur | Thur.
+L | L_grand | Grand.
+L | L_muh | Muh.
+L | L_thur | Thur.
