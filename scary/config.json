@@ -1,7 +1,10 @@
 {
- "enabled": false,
+ "enabled": true,
  "lead_minutes": 10,
- "delay_minutes": [4, 7],
+ "delay_minutes": [
+  4,
+  7
+ ],
  "plan": {
   "what": "The Dark Told Me: scary stories, one channel per language. English @TheDarkToldMe, Arabic @TheDarkToldMeAR.",
   "launch": "The owner, Nov 21 2026 (22:52 Pacific): post the 19 ready videos of each language within the next 24 hours, then move to the new format.",
@@ -12,22 +15,76 @@
   "en": {
    "secret": "BUFFER_KEY_SCARY_EN",
    "zone": "America/New_York",
-   "channels": {"youtube": [], "instagram": [], "tiktok": []},
-   "routes": {"youtube": ["buffer", "studio"], "instagram": ["buffer", "browser"], "tiktok": ["buffer", "browser"]},
+   "channels": {
+    "youtube": [
+     "the dark told me"
+    ],
+    "instagram": [
+     "thedarktoldme"
+    ],
+    "tiktok": [
+     "thedarktoldme"
+    ]
+   },
+   "routes": {
+    "youtube": [
+     "buffer",
+     "studio"
+    ],
+    "instagram": [
+     "buffer",
+     "browser"
+    ],
+    "tiktok": [
+     "buffer",
+     "browser"
+    ]
+   },
    "youtube_handle": "TheDarkToldMe",
    "youtube_channel_id": "UCXm0SVD8jw0hv7dhL2KsjXA",
-   "buffer_limits": {"youtube": 2}
+   "buffer_limits": {
+    "youtube": 2
+   }
   },
   "ar": {
    "secret": "BUFFER_KEY_SCARY_AR",
    "zone": "Africa/Cairo",
-   "channels": {"youtube": [], "instagram": [], "tiktok": []},
-   "routes": {"youtube": ["buffer", "studio"], "instagram": ["buffer", "browser"], "tiktok": ["buffer", "browser"]},
+   "channels": {
+    "youtube": [
+     "the dark told me ar",
+     "thedarktoldmear"
+    ],
+    "instagram": [
+     "thedarktoldmear"
+    ],
+    "tiktok": [
+     "thedarktoldmear"
+    ]
+   },
+   "routes": {
+    "youtube": [
+     "buffer",
+     "studio"
+    ],
+    "instagram": [
+     "buffer",
+     "browser"
+    ],
+    "tiktok": [
+     "buffer",
+     "browser"
+    ]
+   },
    "youtube_handle": "TheDarkToldMeAR",
    "youtube_channel_id": "UCzwjwEz-9pso6UiPg9-6QSA",
-   "buffer_limits": {"youtube": 2}
+   "buffer_limits": {
+    "youtube": 2
+   }
   }
  },
- "youtube": {"categoryId": "24", "madeForKids": false},
+ "youtube": {
+  "categoryId": "24",
+  "madeForKids": false
+ },
  "raw_base": "https://d2ol7oe51mr4n9.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM"
 }

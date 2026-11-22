@@ -13,7 +13,7 @@ on:
       - ".github/workflows/scary-post.yml"
   schedule:
     - cron: "3-59/10 * * * *"     # is a post due?
-    - cron: "28 * * * *"          # also once an hour: where every post stands (sent, link, error)
+    - cron: "28 */3 * * *"        # also every 3 hours: where every post stands (sent, link, error)
 permissions:
   contents: write
 concurrency:
@@ -38,7 +38,7 @@ jobs:
       - name: Should the status be read too?
         id: status
         run: |
-          if [ "${{ github.event_name }}" != "schedule" ] || [ "${{ github.event.schedule }}" = "28 * * * *" ]; then echo "read=true" >> "$GITHUB_OUTPUT"; else echo "read=false" >> "$GITHUB_OUTPUT"; fi
+          if [ "${{ github.event_name }}" != "schedule" ] || [ "${{ github.event.schedule }}" = "28 */3 * * *" ]; then echo "read=true" >> "$GITHUB_OUTPUT"; else echo "read=false" >> "$GITHUB_OUTPUT"; fi
       - uses: actions/setup-python@v5
         if: steps.due.outputs.due == 'true' || steps.status.outputs.read == 'true'
         with:
