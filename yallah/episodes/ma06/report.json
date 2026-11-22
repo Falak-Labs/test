@@ -1,0 +1,66 @@
+{
+ "lesson": "06",
+ "dialect": "ma",
+ "file": "yallah-say-ma-ep06.mp4",
+ "ok": false,
+ "problems": [
+  "picture piece 3: 0 of 520 frames; /work/test/test/out/ma06/page/main.js:541:145)\n    at window.renderFrame (file:///home/runner/work/test/test/out/ma06/page/main.js:558:17)\n    at eval (eval at evaluate (:311:30), <anonymous>:1:13)\n    at UtilityScript.evaluate (<anonymous>:318:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+ ],
+ "steps": {
+  "script": {
+   "seconds": 0.0,
+   "says": [
+    "47 beats, 14 voice lines, 212 characters"
+   ]
+  },
+  "page": {
+   "seconds": 0.1,
+   "says": [
+    "page /home/runner/work/test/test/out/ma06/page theme ma stickers cake gift party"
+   ]
+  },
+  "sound": {
+   "seconds": 4.0,
+   "says": [
+    "duration 1:32.23 (2767 frames) | 13 shots, 47 beats | -14.0 LUFS, peak 0.646",
+    "quiz 30.7333 | hard word 43.6667 | end card 82.0 | word parts (s): {'T': [0.66, 0.56, 0.7, 0.68], 'A': [0.54, 0.41, 0.64, 0.61], 'L': [0.62, 0.52, 0.65, 0.63]}"
+   ]
+  },
+  "picture": {
+   "seconds": 121.3,
+   "pieces": 6,
+   "at_once": 4,
+   "frames_per_second": 22.8
+  }
+ },
+ "voice_lines": {
+  "own": {
+   "folder": "darija/voice/ma06",
+   "lines": 14,
+   "characters": 212
+  },
+  "kids": {
+   "folder": "darija/voice/kids06",
+   "lines": 16,
+   "characters": 176
+  },
+  "common": {
+   "folder": "darija/voice/macommon",
+   "lines": 7,
+   "characters": 168
+  },
+  "kidscommon": {
+   "folder": "darija/voice/kidscommon",
+   "lines": 2,
+   "characters": 22
+  }
+ },
+ "frames": 2767,
+ "duration": 92.2333,
+ "sha256": {
+  "page/script.js": "c54915e0dea49f2596178908db96eed149f2a7d8a42d27328739cfd17bf91214",
+  "page/tl.js": "cd0d7efd28d7a58f5bf18b0af8f395a1a73114789761ed8ebc1c16b7ef652e67",
+  "final.wav": "7983e52dabc85dcff4f39cbe4ac1f6b185dc512a6e87eb13439325b3a4b7f927"
+ },
+ "seconds": 125.4
+}
