@@ -38,8 +38,15 @@ a quiz, the hard word (parts, whole word, a sentence close to home, its meaning,
   hook, phrases and home sentence). `lessons/WEEK1.md` is the plan for the first 21 Shorts and 7 long lessons, the
   outline of the 5-minute lesson and what the voices cost. Lesson 01 keeps the closing line it was recorded with;
   new lessons get the default one in `kit/tools/gen2.py`, which sends viewers to YouTube too.
-- Still to build before a new lesson is recorded: fixed lines recorded once per dialect and shared by every lesson,
-  spare takes only on demand, pictures for any phrase from Fluent Emoji, then the 16:9 long lesson.
+- Voices are recorded once: `python3 yallah/lines.py <lesson> --write` writes the scripts to record (the lesson in
+  each dialect, the pupils' lines both dialects share, and once only the fixed lines) and prints the characters each
+  will cost; record each script with the workflow "Darija lesson voice" (`inputs[episode]=ma02`, `pa02`, `kids02`,
+  and once `macommon`, `pacommon`, `kidscommon`). Lessons 02 and 03 are written and drawn but NOT recorded: the owner
+  has not said to spend credits.
+- Before the voices exist: `python3 yallah/make.py <lesson> <ma|pa> <out_dir> --dry --sheet` draws the lesson with
+  soft tones in place of the voices and makes a sheet of frames to look at.
+- A phrase's picture is a kit sticker by name or any Fluent Emoji as `"icon": "fe:<slug>"` (see `lessons/WEEK1.md`).
+- Still to build: the 16:9 long lesson, the sheet for the daily YouTube Studio upload, the timers and scheduled tasks.
 - Voices: one Short is about 825 characters (ma01 806, pa01 843). The plan needs about 10,000 ElevenLabs credits a day.
   `darija/tools/credits.py` (workflow "Darija voice find", tool credits.py) writes what is left to
   `darija/voice/_find/credits.json`: check it before every batch and stop, telling the owner, when it would run out.

@@ -1,0 +1,184 @@
+{
+ "title": "Nice to meet you",
+ "word": {
+  "full": "Hospitality",
+  "parts": [
+   "Hos",
+   "pi",
+   "tal",
+   "i",
+   "ty"
+  ],
+  "say": [
+   "hos",
+   "pi",
+   "TAL",
+   "i",
+   "tee"
+  ],
+  "tts": [
+   "Hoss",
+   "Pih",
+   "Tal",
+   "Ih",
+   "Tee"
+  ],
+  "mean": "الضيافة",
+  "ar": {
+   "ma": "هوسپيطاليتي",
+   "pa": "هوسبيتاليتي"
+  }
+ },
+ "en": [
+  [
+   "Nice to meet you.",
+   "A",
+   "handshake",
+   {}
+  ],
+  [
+   "How old are you?",
+   "L",
+   "age_q",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "I'm ten years old.",
+   "A",
+   "years",
+   {}
+  ],
+  [
+   "Where do you live?",
+   "L",
+   "fe:house",
+   {
+    "q": 1
+   }
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Salam! Wach kat3ref tgoul «d-diyafa» b-l-inglizia?",
+    "سلام! واش كتعرف تقول «الضيافة» بالإنجليزية؟",
+    "Do you know how to say “diyafa” in English?"
+   ],
+   [
+    "L-jawab f-l-akher. Yallah!",
+    "الجواب فالآخر. يالله!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الضيافة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Metcharfin.",
+    "متشرفين."
+   ],
+   [
+    "Chhal f-3mrek?",
+    "شحال فعمرك؟"
+   ],
+   [
+    "3ndi 3chr snin.",
+    "عندي عشر سنين."
+   ],
+   [
+    "Fin saken?",
+    "فين ساكن؟"
+   ],
+   [
+    "Saken f-Casa.",
+    "ساكن فكازا."
+   ]
+  ],
+  "ph5": [
+   "I live in Casablanca.",
+   "A",
+   "morocco",
+   {}
+  ],
+  "sent": {
+   "en": "Moroccan hospitality starts with mint tea!",
+   "hot": [
+    1
+   ],
+   "dz": "D-diyafa l-maghribia katbda b-atay!",
+   "ar": "الضيافة المغربية كتبدا بأتاي!"
+  },
+  "ah": [
+   "هوس",
+   "پي",
+   "طال",
+   "إ",
+   "تي"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Marhaba! Bti3raf kif tihki «ed-dyafeh» bil-inglizi?",
+    "مرحبا! بتعرف كيف تحكي «الضيافة» بالإنجليزي؟",
+    "Do you know how to say “dyafeh” in English?"
+   ],
+   [
+    "El-jawab bil-akher. Yalla!",
+    "الجواب بالآخر. يلا!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "الضيافة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Tsharrafna.",
+    "تشرفنا."
+   ],
+   [
+    "Addesh 3umrak?",
+    "قديش عمرك؟"
+   ],
+   [
+    "3umri 3ashr snin.",
+    "عمري عشر سنين."
+   ],
+   [
+    "Wen saken?",
+    "وين ساكن؟"
+   ],
+   [
+    "Saken b-Nablus.",
+    "ساكن بنابلس."
+   ]
+  ],
+  "ph5": [
+   "I live in Nablus.",
+   "A",
+   "palestine",
+   {}
+  ],
+  "sent": {
+   "en": "Palestinian hospitality starts with coffee!",
+   "hot": [
+    1
+   ],
+   "dz": "Ed-dyafeh el-falastiniyyeh btibda bil-ahweh!",
+   "ar": "الضيافة الفلسطينية بتبدا بالقهوة!"
+  },
+  "ah": [
+   "هوس",
+   "بي",
+   "تال",
+   "إ",
+   "تي"
+  ]
+ }
+}

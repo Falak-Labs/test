@@ -23,8 +23,8 @@ be added before that lesson can be drawn. The fifth phrase and the home sentence
 | # | Short | The five phrases (picture) | Hard word | Sentence close to home |
 |---|---|---|---|---|
 | 01 | Hi, how are you? (made, posted Nov 21) | Hi, how are you? `wave` · I'm fine, thank you. `smile` · What's your name? `name_q` · My name is Lina. `name_lina` · I'm from Morocco / Palestine. `morocco` `palestine` | Congratulations | Morocco won the match! / You passed the Tawjihi! |
-| 02 | Nice to meet you | Nice to meet you. `handshake` · Where do you live? `road` · I live in Casablanca / Ramallah. `morocco` `palestine` · How old are you? `age_q` · I'm ten years old. `years` | Hospitality | Moroccan hospitality starts with mint tea! / Palestinian hospitality starts with coffee! |
-| 03 | I don't understand | Excuse me. `wave` · I don't understand. `what` · Can you repeat, please? `again` · Thank you very much. `flower` · Goodbye! `bye` | Pronunciation | Your pronunciation is very good! |
+| 02 | Nice to meet you (written: `02.json`) | Nice to meet you. `handshake` · How old are you? `age_q` · I'm ten years old. `years` · Where do you live? `fe:house` · I live in Casablanca / Nablus. `morocco` `palestine` | Hospitality | Moroccan hospitality starts with mint tea! / Palestinian hospitality starts with coffee! |
+| 03 | I don't understand (written: `03.json`) | Excuse me. `fe:raised_hand` · I don't understand. `fe:confused` · Can you repeat, please? `again` · Thank you very much. `flower` · Goodbye! `bye` | Pronunciation | Your pronunciation is very good! |
 
 ### Day 2: family and home
 | # | Short | The five phrases (picture) | Hard word | Sentence close to home |
@@ -68,8 +68,10 @@ be added before that lesson can be drawn. The fifth phrase and the home sentence
 | 20 | Football | Let's play football! (new) · Pass the ball! (new) · Goal! (new) · We won! (new) · Good game. `handshake` | Champion | My brother is the champion of the neighbourhood! |
 | 21 | From the heart | I'm sorry. `sorry` · It's okay. `smile` · I love you. `heart` · I miss you. `phone` · Call me! `phone` | Unforgettable | Eid with the family is unforgettable! |
 
-About 30 of the 105 phrases need a picture that the kit does not have. The plan for those: let a phrase use any
-Fluent Emoji picture (Microsoft, MIT licence, 1,595 pictures, already studied), drawn inside the same white ring.
+About 30 of the 105 phrases need a picture that the kit does not have. Those use a Fluent Emoji picture (Microsoft,
+MIT licence) drawn inside the same white ring: `"icon": "fe:<slug>"` in the lesson, and
+`python3 yallah/kit/tools/sticker.py <slug> "<path in the emoji repo>"` brings a new picture into `yallah/kit/stickers/`.
+Lessons 02 and 03 already use three (house, raised_hand, confused).
 
 ## The long lesson (about 5:00, 16:9, YouTube only)
 | Time | Part | What happens |
@@ -92,6 +94,10 @@ One Short as recorded today is about 825 characters (ma01 806, pa01 843). Of tho
 - about 205 are the pupils' English lines, said by the same two voices in both dialects;
 - about 210 are the teacher's lines for that lesson.
 
-So: record the fixed lines once per dialect, record spare takes only when a take comes out wrong, and let both
-dialects share the pupils' English lines. A day (6 Shorts and 2 long lessons) then needs about 4,000 credits instead
-of about 10,000, which is about 120,000 a month instead of about 310,000.
+So the tools now record the fixed lines once per dialect, record spare takes only when a lesson asks, and let both
+dialects share the pupils' English lines (`python3 yallah/lines.py <lesson>` shows the split and the cost).
+Measured on the scripts of lessons 02 and 03: one lesson in both dialects is 653 and 558 characters, against 1,649
+for lesson 01 as it was recorded. The fixed lines cost 349 characters, once. A day's six Shorts are therefore about
+1,800 to 2,000 credits. The two long lessons reuse the Shorts' takes and add their own linking lines, not written
+yet; with a guess of 500 to 1,000 each, a day is about 3,000 to 4,000 credits, about 100,000 to 120,000 a month,
+instead of about 310,000.

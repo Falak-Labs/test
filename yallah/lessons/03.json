@@ -1,0 +1,185 @@
+{
+ "title": "I don't understand",
+ "word": {
+  "full": "Pronunciation",
+  "parts": [
+   "Pro",
+   "nun",
+   "ci",
+   "a",
+   "tion"
+  ],
+  "say": [
+   "pruh",
+   "nun",
+   "see",
+   "AY",
+   "shun"
+  ],
+  "tts": [
+   "Pruh",
+   "Nun",
+   "See",
+   "Ay",
+   "Shun"
+  ],
+  "mean": "النطق",
+  "ar": {
+   "ma": "پرونانسييشن",
+   "pa": "برونانسييشن"
+  }
+ },
+ "en": [
+  [
+   "Excuse me.",
+   "A",
+   "fe:raised_hand",
+   {}
+  ],
+  [
+   "I don't understand.",
+   "L",
+   "fe:confused",
+   {
+    "worry": 1
+   }
+  ],
+  [
+   "Can you repeat, please?",
+   "A",
+   "again",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "Thank you very much.",
+   "L",
+   "flower",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Salam! Wach kat3ref tgoul «n-notq» b-l-inglizia?",
+    "سلام! واش كتعرف تقول «النطق» بالإنجليزية؟",
+    "Do you know how to say “notq” in English?"
+   ],
+   [
+    "L-jawab f-l-akher. Yallah!",
+    "الجواب فالآخر. يالله!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "النطق",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Smeh lia.",
+    "سمح ليا."
+   ],
+   [
+    "Ma fhemtch.",
+    "ما فهمتش."
+   ],
+   [
+    "3awed, 3afak?",
+    "عاود، عافاك؟"
+   ],
+   [
+    "Choukran bzaf.",
+    "شكرا بزاف."
+   ],
+   [
+    "Bslama!",
+    "بسلامة!"
+   ]
+  ],
+  "ph5": [
+   "Goodbye!",
+   "A",
+   "bye",
+   {}
+  ],
+  "sent": {
+   "en": "Your pronunciation is very good!",
+   "hot": [
+    1
+   ],
+   "dz": "N-notq dyalek mezyan bzaf!",
+   "ar": "النطق ديالك مزيان بزاف!"
+  },
+  "ah": [
+   "پرو",
+   "نن",
+   "سي",
+   "إي",
+   "شن"
+  ]
+ },
+ "pa": {
+  "mean": "اللفظ",
+  "hook": [
+   [
+    "Marhaba! Bti3raf kif tihki «el-lafz» bil-inglizi?",
+    "مرحبا! بتعرف كيف تحكي «اللفظ» بالإنجليزي؟",
+    "Do you know how to say “lafz” in English?"
+   ],
+   [
+    "El-jawab bil-akher. Yalla!",
+    "الجواب بالآخر. يلا!",
+    "The answer is at the end. Let's go!"
+   ]
+  ],
+  "board": [
+   "اللفظ",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Law samaht.",
+    "لو سمحت."
+   ],
+   [
+    "Mish fahem.",
+    "مش فاهم."
+   ],
+   [
+    "Mumken t3id, law samaht?",
+    "ممكن تعيد، لو سمحت؟"
+   ],
+   [
+    "Shukran ktir.",
+    "شكرا كتير."
+   ],
+   [
+    "Ma3 es-salameh!",
+    "مع السلامة!"
+   ]
+  ],
+  "ph5": [
+   "Goodbye!",
+   "A",
+   "bye",
+   {}
+  ],
+  "sent": {
+   "en": "Your pronunciation is very good!",
+   "hot": [
+    1
+   ],
+   "dz": "Lafzak ktir mnih!",
+   "ar": "لفظك كتير منيح!"
+  },
+  "ah": [
+   "برو",
+   "نن",
+   "سي",
+   "إي",
+   "شن"
+  ]
+ }
+}

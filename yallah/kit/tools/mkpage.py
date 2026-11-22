@@ -20,4 +20,15 @@ open(f'{page}/chars.js', 'w', encoding='utf-8').write(c)
 html = open(f'{KIT}/index.html', encoding='utf-8').read().replace('__BG__', {'ma': '#1B3A9C', 'pa': '#0E6A38'}[theme])
 open(f'{page}/index.html', 'w', encoding='utf-8').write(html)
 Image.open(f'{BRAND}/yallahsay-{theme}.png').convert('RGB').resize((288, 288), Image.LANCZOS).save(f'{page}/logo.png')
-print('page', page, 'theme', theme)
+# the Fluent Emoji stickers this lesson's phrases use ("icon": "fe:<slug>" in script.js, written before this runs)
+script = f'{page}/script.js'
+used = sorted(set(__import__('re').findall(r'"icon":"fe:([a-z0-9_]+)"', open(script, encoding='utf-8').read()))) if os.path.exists(script) else []
+if os.path.isdir(f'{page}/stk'):
+    shutil.rmtree(f'{page}/stk')
+for slug in used:
+    src = os.path.join(HERE, '..', 'stickers', slug + '.png')
+    if not os.path.exists(src):
+        sys.exit(f'sticker fe:{slug} is not in the kit: add it with kit/tools/sticker.py')
+    os.makedirs(f'{page}/stk', exist_ok=True)
+    shutil.copy(src, f'{page}/stk/{slug}.png')
+print('page', page, 'theme', theme, *(['stickers', ' '.join(used)] if used else []))

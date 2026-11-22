@@ -583,6 +583,9 @@ ${lan(2, 'ln3')}${lan(3, 'ln4')}
       raster(A.bgKid(W, HH, true), W, HH, 14), raster(A.bgEnd(W, HH), W, HH, 0)]);
     await Promise.all([setImg('pT', pl[0]), setImg('pKb', pl[1]), setImg('pKg', pl[2]), setImg('pH', pl[3]), setImg('pC', pl[4]), setImg('lg', 'logo.png')]);
     build();
+    await Promise.all(Array.from(document.querySelectorAll('image[data-stk]')).map(e => new Promise(res => {      // emoji stickers
+      e.addEventListener('load', res, { once: true }); e.addEventListener('error', () => { console.error('sticker missing: ' + e.getAttribute('data-stk')); res(); }, { once: true });
+      e.setAttribute('href', e.getAttribute('data-stk')); })));
     window.renderFrame(0);
     window.READY_OK = true;
   })();

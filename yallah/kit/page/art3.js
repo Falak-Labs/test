@@ -110,5 +110,8 @@
 <g clip-path="url(#cpPsF)"><rect x="-70" y="-80" width="140" height="50" fill="#111"/><rect x="-70" y="-30" width="140" height="30" fill="#fff"/><rect x="-70" y="0" width="140" height="50" fill="#0B8A3C"/>
 <path d="M-67 -80L-14 -16L-67 46Z" fill="#CE1126"/></g>
 <path d="M-67 -62Q-34 -76 0 -62T66 -62V28Q33 42 0 28T-67 28Z" fill="none" stroke="#2A2A2A" stroke-opacity=".55" stroke-width="3"/>`;
-  A.stk3 = n => K[n] || (A.STK && A.STK.indexOf(n) >= 0 ? A.stk(n) : A.icon(n));
+  // any Fluent Emoji picture as a sticker: "fe:<slug>" draws stk/<slug>.png in the same white ring (main.js loads it before the first frame)
+  const TINT = ['#FFF3D6', '#E3F6E8', '#E6EDFF', '#FFE9E6', '#DDF4F1', '#F3E8FF'];
+  A.emoji = s => { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) % 997; return ring(TINT[h % TINT.length]) + `<image data-stk="stk/${s}.png" x="-80" y="-80" width="160" height="160"/>`; };
+  A.stk3 = n => /^fe:/.test(n) ? A.emoji(n.slice(3)) : K[n] || (A.STK && A.STK.indexOf(n) >= 0 ? A.stk(n) : A.icon(n));
 })();
