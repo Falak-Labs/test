@@ -1,0 +1,33 @@
+{
+ "enabled": false,
+ "lead_minutes": 10,
+ "delay_minutes": [4, 7],
+ "plan": {
+  "what": "The Dark Told Me: scary stories, one channel per language. English @TheDarkToldMe, Arabic @TheDarkToldMeAR.",
+  "launch": "The owner, Nov 21 2026 (22:52 Pacific): post the 19 ready videos of each language within the next 24 hours, then move to the new format.",
+  "youtube_route": "Buffer first (its free plan sends 2 YouTube posts per channel in any 24 hours). YouTube Studio in the owner's Chrome for the rest, once he has verified the two new channels (Studio answers 'Daily upload limit reached' until then).",
+  "rule": "Always try every method (the owner, Nov 2026): when one method fails, the next one in accounts.<lang>.routes posts it; report only when all have failed."
+ },
+ "accounts": {
+  "en": {
+   "secret": "BUFFER_KEY_SCARY_EN",
+   "zone": "America/New_York",
+   "channels": {"youtube": [], "instagram": [], "tiktok": []},
+   "routes": {"youtube": ["buffer", "studio"], "instagram": ["buffer", "browser"], "tiktok": ["buffer", "browser"]},
+   "youtube_handle": "TheDarkToldMe",
+   "youtube_channel_id": "UCXm0SVD8jw0hv7dhL2KsjXA",
+   "buffer_limits": {"youtube": 2}
+  },
+  "ar": {
+   "secret": "BUFFER_KEY_SCARY_AR",
+   "zone": "Africa/Cairo",
+   "channels": {"youtube": [], "instagram": [], "tiktok": []},
+   "routes": {"youtube": ["buffer", "studio"], "instagram": ["buffer", "browser"], "tiktok": ["buffer", "browser"]},
+   "youtube_handle": "TheDarkToldMeAR",
+   "youtube_channel_id": "UCzwjwEz-9pso6UiPg9-6QSA",
+   "buffer_limits": {"youtube": 2}
+  }
+ },
+ "youtube": {"categoryId": "24", "madeForKids": false},
+ "raw_base": "https://d2ol7oe51mr4n9.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM"
+}

@@ -1,0 +1,57 @@
+name: Scary posts
+# Hands each queued scary-stories video (The Dark Told Me, English and Arabic) to Buffer a few minutes before its time.
+# The schedule lives in scary/queue/. It is the Yallah Say script (yallah/post_due.py) pointed at the scary/ folder.
+# Buffer keys: the owner's Actions secrets SCARY (English account) and SCARYAR (Arabic account). Nothing is sent while
+# "enabled" is false in scary/config.json. What happened is saved in scary/state/ (names and links only, never a key).
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scary/config.json"
+      - "scary/queue/**"
+      - ".github/workflows/scary-post.yml"
+  schedule:
+    - cron: "3-59/10 * * * *"     # is a post due?
+    - cron: "28 * * * *"          # also once an hour: where every post stands (sent, link, error)
+permissions:
+  contents: write
+concurrency:
+  group: scary-posting
+  cancel-in-progress: false
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      YALLAH_DIR: ${{ github.workspace }}/scary
+      BUFFER_KEY_SCARY_EN: ${{ secrets.BUFFER_KEY_SCARY_EN || secrets.SCARY || secrets.SCARY_EN || secrets.SCARYEN }}
+      BUFFER_KEY_SCARY_AR: ${{ secrets.BUFFER_KEY_SCARY_AR || secrets.SCARYAR || secrets.SCARY_AR }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Is anything due?
+        id: due
+        run: python3 yallah/post_due.py --check
+      - name: Should the status be read too?
+        id: status
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ] || [ "${{ github.event.schedule }}" = "28 * * * *" ]; then echo "read=true" >> "$GITHUB_OUTPUT"; else echo "read=false" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/setup-python@v5
+        if: steps.due.outputs.due == 'true' || steps.status.outputs.read == 'true'
+        with:
+          python-version: "3.12"
+      - name: Libraries
+        if: steps.due.outputs.due == 'true' || steps.status.outputs.read == 'true'
+        run: pip install --quiet requests pyyaml
+      - name: Send what is due to Buffer
+        if: steps.due.outputs.due == 'true'
+        run: python yallah/post_due.py
+      - name: Channels each key sees, and where every post stands
+        if: steps.status.outputs.read == 'true'
+        run: python yallah/post_due.py --channels
+      - name: Save state
+        if: always() && (steps.due.outputs.due == 'true' || steps.status.outputs.read == 'true')
+        run: bash scripts/save_state.sh "scary posts $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" scary/state state/buffer-schema.json
