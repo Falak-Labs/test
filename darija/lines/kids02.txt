@@ -1,0 +1,18 @@
+# Yallah Say, episode 02: the pupils' English lines that both dialects share (hard word: Hospitality).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | Nice to meet you.
+L | p02k | How old are you?
+A | p03k | I'm ten years old.
+L | p04k | Where do you live?
+A | w5 | Hospitality!
+L | Lw | Hospitality!
+A | A_hoss | Hoss.
+A | A_pih | Pih.
+A | A_tal | Tal.
+A | A_ih | Ih.
+A | A_tee | Tee.
+L | L_hoss | Hoss.
+L | L_pih | Pih.
+L | L_tal | Tal.
+L | L_ih | Ih.
+L | L_tee | Tee.

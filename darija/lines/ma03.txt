@@ -1,0 +1,17 @@
+# Yallah Say, episode 03 (ma): five phrases, quiz, hard word (Pronunciation) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | سلام! واش كتعرف تقول النطق بالإنجليزية؟
+T | h2 | الجواب فالآخر. يالله!
+T | p01t | سمح ليا.
+T | p02t | ما فهمتش.
+T | p03t | عاود، عافاك؟
+T | p04t | شكرا بزاف.
+T | p05t | بسلامة!
+T | tw | Pronunciation.
+T | w6 | Good job! Pronunciation!
+T | v2 | النطق ديالك مزيان بزاف!
+T | T_pruh | Pruh.
+T | T_nun | Nun.
+T | T_see | See.
+T | T_ay | Ay.
+T | T_shun | Shun.

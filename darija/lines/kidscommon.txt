@@ -1,0 +1,4 @@
+# Yallah Say: the pupils' goodbye. Recorded once, used by every lesson in both dialects.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+L | o2 | See you next time!
+A | o3 | Bye!

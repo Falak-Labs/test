@@ -1,0 +1,9 @@
+# Yallah Say (ma): the teacher's lines that never change. Recorded once, used by every lesson.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | r0 | نعاودو!
+T | w0 | ودابا، الكلمة الصعيبة ديال اليوم!
+T | w2 | شوية بشوية.
+T | w3 | دابا بالزربة!
+T | w4 | دابا كاملة!
+T | v0 | ودابا فجملة!
+T | o1 | عجبك الدرس؟ كتب الكلمة فالتعليقات! وباش تشوف فيديوهات كثر، تابعنا هنا وفاليوتيوب!

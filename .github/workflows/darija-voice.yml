@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       episode:
-        description: "script name, as in darija/lines/<episode>.txt (empty = the last one by name)"
+        description: "script name, as in darija/lines/<episode>.txt (empty = the last one by name); several: ma02,pa02,kids02"
         required: false
         default: ""
       force:
@@ -43,6 +43,7 @@ jobs:
           if [ -z "$EPISODE" ]; then
             EPISODE="$(ls darija/lines/*.txt | sort | tail -n 1 | xargs -n 1 basename | sed 's/\.txt$//')"
           fi
+          for EPISODE in ${EPISODE//,/ }; do
           case "$EPISODE" in ""|*[!A-Za-z0-9_-]*) echo "bad episode name"; exit 1;; esac
           test -f "darija/lines/${EPISODE}.txt" || { echo "darija/lines/${EPISODE}.txt is missing"; exit 1; }
           echo "episode: ${EPISODE}"
@@ -55,6 +56,7 @@ jobs:
           elif [ -f "darija/voices_${EPISODE:0:4}.json" ]; then args+=(--voices "darija/voices_${EPISODE:0:4}.json")
           elif [ -f "darija/voices_${EPISODE:0:2}.json" ]; then args+=(--voices "darija/voices_${EPISODE:0:2}.json"); fi
           python -I -u darija/tools/make_vo_lesson.py "darija/lines/${EPISODE}.txt" "darija/voice/${EPISODE}" "${args[@]}"
+          done
       - name: Save to the repo
         if: always()
         run: |

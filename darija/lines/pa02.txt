@@ -1,0 +1,19 @@
+# Yallah Say, episode 02 (pa): five phrases, quiz, hard word (Hospitality) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | مرحبا! بتعرف كيف تحكي الضيافة بالإنجليزي؟
+T | h2 | الجواب بالآخر. يلا!
+T | p01t | تشرفنا.
+T | p02t | قديش عمرك؟
+T | p03t | عمري عشر سنين.
+T | p04t | وين ساكن؟
+T | p05t | ساكن بنابلس.
+A | p05k | I live in Nablus.
+T | tw | Hospitality.
+T | w6 | Good job! Hospitality!
+L | v1 | Palestinian hospitality starts with coffee!
+T | v2 | الضيافة الفلسطينية بتبدا بالقهوة!
+T | T_hoss | Hoss.
+T | T_pih | Pih.
+T | T_tal | Tal.
+T | T_ih | Ih.
+T | T_tee | Tee.

@@ -1,0 +1,9 @@
+# Yallah Say (pa): the teacher's lines that never change. Recorded once, used by every lesson.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | r0 | تعالوا نعيد!
+T | w0 | هسا، كلمة اليوم الصعبة!
+T | w2 | شوي شوي.
+T | w3 | هسا بسرعة!
+T | w4 | هسا الكلمة كاملة!
+T | v0 | وهسا بجملة!
+T | o1 | عجبك الدرس؟ اكتب الكلمة بالتعليقات! ولفيديوهات أكثر، تابعنا هون وعلى اليوتيوب!

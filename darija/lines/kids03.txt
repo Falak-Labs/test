@@ -1,0 +1,20 @@
+# Yallah Say, episode 03: the pupils' English lines that both dialects share (hard word: Pronunciation).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | Excuse me.
+L | p02k | I don't understand.
+A | p03k | Can you repeat, please?
+L | p04k | Thank you very much.
+A | p05k | Goodbye!
+A | w5 | Pronunciation!
+L | v1 | Your pronunciation is very good!
+L | Lw | Pronunciation!
+A | A_pruh | Pruh.
+A | A_nun | Nun.
+A | A_see | See.
+A | A_ay | Ay.
+A | A_shun | Shun.
+L | L_pruh | Pruh.
+L | L_nun | Nun.
+L | L_see | See.
+L | L_ay | Ay.
+L | L_shun | Shun.
