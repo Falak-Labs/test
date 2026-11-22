@@ -1,4 +1,4 @@
-# Post status 2026-11-22T02:43:07+00:00
+# Post status 2026-11-22T04:23:34+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -342,6 +342,12 @@
 | ep60-microwave | ar.tiktok | scheduled |  | 2026-11-22T14:00:00.000Z |
 | ep60-microwave | en.instagram | scheduled |  | 2026-11-22T19:00:00.000Z |
 | ep60-microwave | en.tiktok | scheduled |  | 2026-11-22T19:00:00.000Z |
+| ep61-pisa | ar.instagram | scheduled |  | 2026-11-22T17:00:00.000Z |
+| ep61-pisa | ar.tiktok | scheduled |  | 2026-11-22T16:30:00.000Z |
+| ep61-pisa | ar.youtube | scheduled |  | 2026-11-22T23:20:00.000Z |
+| ep61-pisa | en.instagram | scheduled |  | 2026-11-22T21:30:00.000Z |
+| ep61-pisa | en.tiktok | scheduled |  | 2026-11-22T21:30:00.000Z |
+| ep61-pisa | en.youtube | scheduled |  | 2026-11-22T23:50:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://tiktok.com/@congratsengineer/video/7710759443809553677 |
 | sm02 | ar.instagram | scheduled |  | 2026-11-22T18:30:00.000Z |
