@@ -1,0 +1,174 @@
+{
+ "episode": "pa05",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 209,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "p05k",
+  "tw",
+  "w6",
+  "v2",
+  "T_kum",
+  "T_fur",
+  "T_tuh",
+  "T_bull"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مرحبا! بتعرف كيف تحكي مرتاح بالإنجليزي؟",
+   "characters": 39,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الجواب بالآخر. يلا!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "أهلا وسهلا!",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "تفضل!",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "اقعد، لو سمحت.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "شكرا، إنت كتير لطيف.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بتشرب قهوة؟",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Do you want coffee?",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Comfortable.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Comfortable!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "خد راحتك، بيتي بيتك!",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "T_kum",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Kum.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "T_fur",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Fur.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_tuh",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Tuh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_bull",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Bull.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  }
+ ]
+}

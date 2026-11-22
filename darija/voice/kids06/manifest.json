@@ -1,0 +1,184 @@
+{
+ "episode": "kids06",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 176,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "v1",
+  "Lw",
+  "A_seh",
+  "A_luh",
+  "A_bray",
+  "A_shun",
+  "L_seh",
+  "L_luh",
+  "L_bray",
+  "L_shun"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Happy birthday!",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "This is for you.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Thank you so much!",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Let's eat cake!",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Make a wish!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Celebration!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Eid is a big celebration for the family!",
+   "characters": 40,
+   "model": "eleven_v4",
+   "seconds": 3.2
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Celebration!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "A_seh",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Seh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "A_luh",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Luh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "A_bray",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Bray.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "A_shun",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Shun.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_seh",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Seh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_luh",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Luh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "L_bray",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Bray.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "L_shun",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Shun.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  }
+ ]
+}

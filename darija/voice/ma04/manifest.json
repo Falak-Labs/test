@@ -1,0 +1,164 @@
+{
+ "episode": "ma04",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 235,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v1",
+  "v2",
+  "T_grand",
+  "T_muh",
+  "T_thur"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "سلام! واش كتعرف تقول الجدة بالإنجليزية؟",
+   "characters": 39,
+   "model": "eleven_v4",
+   "seconds": 3.92
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "الجواب فالآخر. يالله!",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "هادي مّي.",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "هادا بّا.",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "عندي جوج خوت.",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "عندي ختي وحدة.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "كنبغي العائلة ديالي.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Grandmother.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Good job! Grandmother!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "My grandmother makes the best couscous!",
+   "characters": 39,
+   "model": "eleven_v4",
+   "seconds": 3.28
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "جدتي كتدير أحسن كسكسو!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "T_grand",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Grand.",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "T_muh",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Muh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_thur",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Thur.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  }
+ ]
+}

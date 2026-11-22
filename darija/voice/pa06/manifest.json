@@ -1,0 +1,164 @@
+{
+ "episode": "pa06",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 205,
+ "recorded_this_run": [
+  "h1",
+  "h2",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "T_seh",
+  "T_luh",
+  "T_bray",
+  "T_shun"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مرحبا! بتعرف كيف تحكي الاحتفال بالإنجليزي؟",
+   "characters": 42,
+   "model": "eleven_v4",
+   "seconds": 3.68
+  },
+  {
+   "id": "h2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الجواب بالآخر. يلا!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "كل عام وإنت بخير!",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "هاي إلك.",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "شكرا كتير كتير!",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "يلا ناكل الكيكة!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "اتمنى أمنية!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Celebration.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Celebration!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "العيد فرحة كبيرة للعيلة!",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "T_seh",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Seh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_luh",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Luh.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_bray",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Bray.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_shun",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Shun.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  }
+ ]
+}
