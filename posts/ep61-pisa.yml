@@ -1,0 +1,35 @@
+episode: 61
+date: 2026-11-22
+video:
+  en: media/ep61-pisa-en.mp4
+  ar: media/ep61-pisa-ar.mp4
+en:
+  # 13:30 PT Sun Nov 22. YouTube (Buffer fallback: Studio out of reach for the scheduled run) at 15:50 PT, 21 minutes
+  # after 40's retry send of 23:28 UTC Nov 21 leaves its 24 h window (only 59 is left in it).
+  at: {default: "2026-11-22T21:30:00Z", youtube: "2026-11-22T23:50:00Z"}
+  title: "Leaning Tower of Pisa: Why It Leans and Never Falls 🇮🇹"
+  text: |
+    It leans almost 4 meters, and it has stood for more than 800 years. 🇮🇹
+    It started sinking into soft clay just five years into building, a century-long break for wars let the clay firm up, the upper floors were built taller on the low side so it curves like a banana, 600 tons of lead held it in the 1990s, and drilling soil out from under the high side pulled it back 45 cm. The twist: the same soft clay protects it from earthquakes.
+    Would you climb it? 👇
+  next: "a Bedouin tent ⛺"
+  seo: "How the Leaning Tower of Pisa stays up: the bell tower was started in 1173 on soft river clay and sand with a foundation only about 3 m deep, and by 1178, five years in, it had started to sink on its south side. Wars between Pisa and its neighbours stopped the building for almost a century, and in that time the clay under it squeezed out water and grew firmer, which very likely saved it from falling. When building started again, the masons made the upper floors taller on the low side to correct the lean, so the tower is slightly curved, like a banana. By 1990 it leaned about 5.5 degrees with its top about 4.5 m out of line and it was closed to visitors. Engineers stacked about 600 tonnes of lead on the north side, tied steel cables around the third floor, then drilled out small amounts of soil from under the high side, about 38 cubic metres in all, and the tower settled back about 45 cm by 2001. Today it is about 56 m tall, weighs about 14,500 tonnes and leans almost 4 degrees. A 2018 study found that the soft soil that makes it lean also protects it: it changes how the tower shakes, so it does not resonate with earthquakes, and at least four strong ones have hit the area since 1280."
+  tags:
+    tiktok: "#pisa #leaningtowerofpisa #engineering #italy #learnontiktok"
+    instagram: "#pisa #leaningtowerofpisa #engineering #italy #architecture"
+    youtube: "#pisa #engineering #italy"
+ar:
+  # Instagram 09:00 PT = 8 pm Riyadh; TikTok 08:30 PT (2 h before the show's Arabic TikTok at 10:30 PT); YouTube 15:20 PT,
+  # 19 minutes after 57's send of 23:00 UTC Nov 21 leaves its 24 h window (only 59 is left in it).
+  at: {default: "2026-11-22T17:00:00Z", tiktok: "2026-11-22T16:30:00Z", youtube: "2026-11-22T23:20:00Z"}
+  title: "برج بيزا المايل: ليش مايل وما يطيح؟ 🇮🇹"
+  text: |
+    مايل قرابة أربعة متر، وواقف من أكثر من ثمانمية سنة! 🇮🇹
+    بدأ يغوص في الطين بعد خمس سنين بس من البناء، والحروب وقّفت البناء قرابة مية سنة والطين قسى، وبنوا الأدوار اللي فوق أطول من الجهة النازلة فصار منحني مثل الموزة، وفي التسعينات حطوا ستمية طن رصاص وسحبوا التراب من تحت الجهة العالية ورجع خمسة وأربعين سانتي. والمفاجأة: نفس الطين يحميه من الزلازل.
+    تطلع فوقه ولا لا؟ 👇
+  next: "بيت الشعر ⛺"
+  seo: "كيف برج بيزا المايل ما طاح: البرج بدأ بناه سنة ألف ومية وثلاثة وسبعين على طين ورمل ليّن، وأساسه عمقه حوالي ثلاثة متر بس، وبعد خمس سنين بدأ يغوص من الجهة الجنوبية. الحروب بين بيزا وجيرانها وقّفت البناء قرابة مية سنة، وفي هالوقت الطين طلّع الموية اللي فيه وقسى، وهذا غالبًا اللي أنقذه من الطيحة. ولما رجعوا يبنون، طوّلوا الأدوار اللي فوق من الجهة النازلة عشان يعدلون الميلان، فصار البرج منحني شوي مثل الموزة. وفي سنة ألف وتسعمية وتسعين كان مايل حوالي خمس درجات ونص وراسه طالع حوالي أربعة متر ونص، وسكّروه عن الزوار. المهندسين حطوا حوالي ستمية طن رصاص على الجهة الشمالية، ولفّوا كيابل حديد حول الدور الثالث، وبعدين سحبوا التراب شوي شوي من تحت الجهة العالية، حوالي ثمانية وثلاثين متر مكعب، ورجع البرج حوالي خمسة وأربعين سانتي لين سنة ألفين وواحد. طوله اليوم حوالي ستة وخمسين متر، ووزنه حوالي أربعطعش ألف وخمسمية طن، وميلانه قرابة أربع درجات. ودراسة سنة ألفين وثمنطعش لقت إن نفس الطين اللي ميّله يحميه من الزلازل، لأنه يغيّر طريقة اهتزاز البرج، وعدّت عليه أربعة زلازل قوية على الأقل من سنة ألف ومتين وثمانين."
+  tags:
+    tiktok: "#برج_بيزا #ايطاليا #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#برج_بيزا #ايطاليا #هندسة #السعودية #معلومات"
+    youtube: "#برج_بيزا #هندسة #معلومات"

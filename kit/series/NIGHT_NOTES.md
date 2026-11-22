@@ -1297,3 +1297,74 @@
   uploaded: the owner has not asked for the backlog.
 - YOUTUBE_STUDIO_UPLOAD.md (repo root) is the guide for any chat; the owner pasted a short prompt pointing to it into
   another chat of his on Nov 21 (that chat posts long videos to its own channels, so check the channel name every time).
+
+## Nov 21 2026 (evening run, 18:37 PT): 61 Leaning Tower of Pisa, 62 Bedouin tent, 63 washing machine (for Sun Nov 22)
+- TODAY Nov 21 PT, TOMORROW Sun Nov 22 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT with
+  `TZ=America/Los_Angeles date -d` before the push). PST: Arabic 09:00 / 12:00 / 15:00 PT = 17:00Z / 20:00Z / 23:00Z
+  Nov 22; English 13:30 / 16:00 / 18:30 PT = 21:30Z Nov 22, 00:00Z / 02:30Z Nov 23.
+- Status 02:43Z (Nov 21 PT, builds 52-57): six builds out in both languages (Instagram all twelve, English TikTok all
+  six). English YouTube 57 FAILED at 02:30Z Nov 22 on the 2-in-24-h limit: a retry made in Buffer (not ours) sent the
+  old failed 40 at 23:28:44Z Nov 21 (45, 46, 49 failed again at 23:29Z) and filled 57's window. Arabic TikTok 54, 55,
+  56 refused ("potential spam"), 37's fourth try refused at 01:30Z Nov 22; 45 waits for 04:30Z Nov 22.
+- YouTube: YouTube Studio was OUT OF REACH for this scheduled run (no Claude in Chrome / browser tools in the session,
+  no desktop bridge), so the LINEUP fallback applied: Buffer for 2 builds per channel per PT day. Sunday has 59 (EN
+  16:30Z, AR 14:20Z) and now 61 Pisa with per-platform at: EN youtube 23:50Z Nov 22 (15:50 PT; 40's send of 23:28:44Z
+  Nov 21 has left the window, only 59 in it), AR youtube 23:20Z Nov 22 (15:20 PT; 57's send of 23:00:32Z Nov 21 has
+  left, only 59 in it). 62 and 63 hold YouTube (and so stay off YouTube unless a chat with the browser uploads them).
+  cmd=limits before the push: Sunday PT EN youtube scheduled 1, AR 1 (limit 2).
+- For the midday run of Nov 22 (Mon Nov 23), if Studio is out of reach again: English 14:00Z and 16:30Z Nov 23 FAIL
+  (59 at 16:30Z Nov 22 + 61 at 23:50Z Nov 22 in the window); a youtube at: of 16:50Z or later passes (only 61), e.g.
+  its own 19:00Z slot: ONE English YouTube. Arabic 08:00Z, 11:00Z and 14:00Z Nov 23 FAIL (59 at 14:20Z + 61 at 23:20Z
+  Nov 22); a youtube at: of 14:40Z Nov 23 (06:40 PT) or later passes: ONE Arabic YouTube. Check the status first:
+  retries made in Buffer send old failed posts at any time and fill a window.
+- Arabic TikTok: the show's sm02 sits at 18:30Z Nov 22, so 61's TikTok moved to 16:30Z (08:30 PT) and 62's to 20:30Z
+  (12:30 PT), 2 h from it; 63 at 23:00Z. post.py counts the queue from state/: 61 and 62 go on at the push, 63 waits
+  for the 08:20Z check-in (post.yml) once 58 has gone out.
+- Requeues: the Arabic TikTok queue is full every night (the six builds + the show + the long-dated 48, 49 at 01:30Z /
+  04:30Z Nov 23 and 50, 42 at 01:30Z / 04:30Z Nov 24), so one requeue a day at most fits without starving the next
+  run's three. The 11:20Z check-in requeues 54 to 01:30Z Nov 25 (the first free 2-hour gap) if 59 has left room. Still
+  in error for later runs: 55 (-> 04:30Z Nov 25), 37 and 56 (-> 01:30Z / 04:30Z Nov 26). Refusals (2-3 a day) arrive
+  faster than the queue takes retries.
+- Pages: retired ep40 (all sent) and ep41, ep43, ep44, ep46, whose only unsent targets were YouTube posts that failed
+  on Buffer's limit and stay failed (no run requeues them; the owner has not asked for the YouTube backlog): media/
+  774 -> 586 MB before tonight's six videos. Next to retire: 57 (only its failed EN YouTube is left), 45 after 04:30Z
+  Nov 22, then 48-50 and 42 after their Arabic TikToks, 37 and 54-56 after their requeues.
+- A/B test: 61 and 63 are odd -> `pisa`, `washer` in voices.yml ar_alt.kits (Mansour, Saudi scripts); 62 Egyptian.
+- Voices: Easton pisa 65.55 s (226 words) after three free remakes: Whisper small heard "Bedouin tent" as "Badoo
+  intent", "Pisa yourself" as "peace of yourself", "tilts it" as "tilted", "Pisa sits" as "pieces sits", "But build"
+  as "Mabild". kit/tools/make_vo.py SAY now respells "bedouin" -> "bed-oo-in" and "pisa" -> "peesa" for Easton only
+  (tested first with a throwaway 12-line kit, vtest61, langs=en, removed afterwards); three lines reworded. tent 64.0 s
+  (227 words), washer 64.66 s (226). ElevenLabs one take each: Mansour pisa 66.56 s (162 words; line 2 remade after
+  check_ar_voice heard "على طين" as "عالقين"), Egyptian tent 67.65 s (164), Mansour washer 69.06 s (160);
+  check_ar_voice: only the digit stat lines over 30%. ElevenLabs (MCP account_get_usage, 03:58Z Nov 22): Creator,
+  104,745 of 127,949 used (23,204 left, reset Dec 12): about four days of six Arabic voices.
+- Research (WebSearch gives titles only; no agents): Pisa (ICE "Stabilising the Leaning Tower of Pisa", Ingenia,
+  Britannica, History.com, Bristol 2018 "500-year-old Leaning Tower of Pisa mystery unveiled"): 1173, sinking by
+  1178, almost a century's pause for wars, upper floors taller on the low side (curved), 5.5 deg and closed in 1990,
+  600 t of lead in 1993, cables round the 3rd floor, about 38 m3 of soil drilled out 1999-2001 and 45 cm back, 56 m,
+  14,500 t, 3.97 deg, at least four strong earthquakes since 1280 (dynamic soil-structure interaction). Bedouin tent
+  (AramcoWorld "The Black Tent", Smithsonian Folklife, PBS, Saudipedia, UNESCO Al Sadu 2011 / 2020): goat hair woven
+  by women in strips on a ground loom and sewn together, swells when wet, loose weave breathes, wall panels pinned,
+  a curtain splits guests and family, packs onto camels; no figures I could check, so the stat is 0 nails, 0 bricks,
+  1000s of years. Washing machine (HowStuffWorks, Whitegoods Help on concrete weights, The Henry Ford's Thor "circa
+  1907"): drum with holes and paddles, surfactants, 1,400 rpm, about 500 g and about 130 km/h at the wall of a 48 cm
+  drum (computed), about 25 kg of concrete, springs and shock absorbers, electric washers over a century ago.
+- Scenes (all v2 look 2):
+  - pisa.py (piazza, ground, floors, lead, drill, quake, tag): tower(c, x, y, s, t, lean, bend, built, lit, wedge) =
+    eight floors (blind-arcade base, six galleries of columns and arches, the bell chamber); floor_frames() chains a
+    numpy affine per floor, each upper floor tilted back about its bottom-LEFT corner (BEND) with the gap filled by a
+    wedge (yellow with wedge=1) = built taller on the low side; tower_top() = the top centre. ghost() = dashed outline
+    of the straight tower: the hook tips the tower from it to 3.97 deg (e_back) and stops. soil() = cut-open silt, soft
+    clay (firm, wob = earthquake jelly) and sand; foundation(), ingots(), drill(), wedge_diagram() (two floors close
+    up), wardrobe() (AR tag, cardboard under the lifted foot), viewfinder() (EN tag, a tourist "holding it up").
+  - tent.py (camp, sun, weave, wind, move, loom, tag): tent(c, t, ...) = black goat-hair tent 900 wide, front view:
+    roof_pts() with three pole peaks and sagging cloth, eave_pts(), strips and hairy texture clipped to the roof, rug,
+    cushions, sadu_band() curtain, fire + dallah, people (duck=True in the sand), wall panels, thin=1 = a white tent;
+    goat(), umbrella(flip), weave(swell) close-up. Camera zoom about 1.6 with the ground near y 1200.
+  - washer.py (laundry, soak, soap, spin, walk, old, tag): machine(c, t, x, xray, ang, spin, water, towel, parts, rot,
+    fly, foam) = front loader 420 x 540, porthole, drum holes, paddles, tumble_pos() (garments ride up and drop),
+    spin = a blurred colour ring; xray shows the tub, springs, shock absorbers, concrete block, motor. rpm_gauge() (a
+    rev counter: bullettrain.gauge always prints km/h). soap_mol() = water-loving head + grease-loving tail.
+- Lessons: a wide, low subject (a tent) needs a tight camera that crops its sides; a white subject (the washer) vanished
+  on light tiles, so the set went dark steel blue; run Whisper small on a closer whose name ends right before
+  "yourself" (it blends) and test respellings with a throwaway English kit (free) before the real remake.
