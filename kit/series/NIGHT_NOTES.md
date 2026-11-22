@@ -1452,3 +1452,61 @@ Owner did the Advanced features verification on Congrats Engineer and Kef Tenben
 - English: free Phonon Easton for every English video, builds and show. No ElevenLabs English.
 - Arabic: ElevenLabs only, and from build 64 on EVERY new Arabic voice is Saudi Mansour (voices.yml ar = 5HAezIQAaoSgJypcI0NP, dialect saudi). Never the Egyptian voice for anything new. Scripts in the Saudi dialect: hook "لو ...، مبروك، كذا سويت لك ...", line 10 "بس قبل لا ...، تابعني، لأن الجاي بنبني ...", closer "ومبروك، كذا سويت لك ... بيدك"; Saudi everyday words (وش، كذا، زين، مرة، الحين، يبي، ما يسوى), humour from Saudi daily life; 150-160 words (Mansour reads slower). Old Egyptian builds stay as they are (already posted; nothing is remade).
 - The 4-minute show: its Arabic cut plays the builds' own voices, so pick all four levels from the Mansour group (stock.py now counts every build from 64 as Mansour); the show's own Arabic lines are read by Mansour too. Until four free Mansour builds share an idea, take them from the odd builds 41-63.
+
+## Nov 22 2026 (midday run, 11:23 PT): 64 Big Ben's clock, 65 Shibam, 66 Tower Bridge (for Mon Nov 23)
+- TODAY Nov 22 PT, TOMORROW Mon Nov 23 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT with
+  `TZ=America/Los_Angeles date -d` before the push). PST: Arabic 00:00 / 03:00 / 06:00 PT = 08:00Z / 11:00Z / 14:00Z;
+  English 06:00 / 08:30 / 11:00 PT = 14:00Z / 16:30Z / 19:00Z Nov 23.
+- Status 19:28Z (builds 58-63): 58 and 59 all out, 60 all but its Arabic TikTok ("potential spam" 14:00Z), 61 Arabic
+  Instagram + TikTok out, 61-63 rest scheduled for the afternoon, sm02 Arabic out. Requeued 55's Arabic TikTok to
+  04:30Z Nov 25 (the evening run's plan). Still in error: 37, 56, 60 (Arabic TikTok; one requeue a day fits the
+  10-post queue: next free 2-hour gaps 01:30Z / 04:30Z Nov 26, then Nov 27). yt_desk check: nothing overdue.
+- YouTube: desk.yml says verified: true (owner, Nov 22 11:00 PT), so all three builds carry `hold: [en.youtube,
+  ar.youtube]` + `studio: 1` and nothing goes to YouTube through Buffer.
+- Voices: the owner's call of 11:35 PT came in while this run was writing (another session changed voices.yml):
+  every new Arabic voice is Saudi Mansour. 64 and 66 had been written in Egyptian: both were rewritten in Saudi
+  dialect BEFORE any voice was made (no credits lost). Mansour, one take each: bigben 66.00 s (161 words, x1.11),
+  shibam 68.86 s (160 words, hit the x1.12 cap), towerbridge 66.01 s (160 words); towerbridge line 4 "بس كل نص وزنه"
+  was heard as "كلنا الصوزنا" by check_ar_voice (26%) and became "بس الواحد منهم يوزن أكثر من ألف طن" (one line remade,
+  36 characters). Other lines: only the digit stat lines over 20%. Credits: about 2,600 characters for the three
+  (ElevenLabs Pro: 19,234 of 613,234 used at 20:55Z, reset Dec 22). Easton: bigben 66.05 s (230 words), shibam 66.45 s
+  (230), towerbridge 64.66 s (231). kit/tools/make_vo.py SAY now respells "shibam" -> "shee-bahm" for Easton; Whisper
+  small writes it "She-Bomb", which is how "shi-BAAM" sounds in American English (the caption carries SHIBAM).
+- Research (WebSearch titles only, no agents): parliament.uk "Great Clock facts" / "Great Clock adjustments",
+  Britannica, Seiko museum "The escapement of Big Ben", scienceblog on the 1859 crack; Wikipedia / National Geographic /
+  Atlas Obscura / UNESCO on Shibam (about 500 tower houses, 5-11 storeys, some over 30 m, mostly 16th century, re-mudded,
+  lime tops); towerbridge.org.uk "How does Tower Bridge work?" and "The day a bus jumped over Tower Bridge" (Albert
+  Gunter, Dec 1952), Wikipedia on the bascules (over 1,000 t each, counterweights, hydraulic accumulators, 42 m walkways,
+  about 800 lifts a year, free).
+- Scenes (all v2 look 2):
+  - bigben.py (pend, tower, airy, escape, hands, bell, tag): elizabeth(c, t, lit, dusk, hour, minute) = the clock tower
+    front view 960 units (dial at y -585, r 36), palace(), london_eye(); dial(c, x, y, r, hour, minute, lit, hand_kind
+    blue|iron|copper, detail, min_ang) at any size (Roman numerals over r 60); pendulum(c, px, py, L, t, ang, pennies,
+    heat, cold, stretch) = rod, penny shelf (fractional pennies drop in), bob; hand_drop(); escape_wheel() (double
+    three-legged), gear(), observatory(), great_bell(crack, ring, hammer), bed_scene(rtl, spin). Hook: the giant dial
+    lit from BEHIND (mirrored numerals) over the swinging pendulum while a hand drops a penny, then a cut on "famous"
+    to the dial and out to the whole tower over the Palace at dusk.
+  - shibam.py (wadi, flood, plan, wall, rain, inside, tag): CITY = three rows of tower houses from a fixed seed;
+    tower_house(c, x, y, w, floors, t, built, lime, seed, dark, melt, lit, taper) (3 m floors, lime only on the top
+    floor: more white blooms the frame out), mound(), city_wall(), cliffs() (screen parallax), flood_water(level, front),
+    section() (a cut tower: crush / taper), ny_ghost() (dashed 1930s skyline). break2 is a TOP view of the mound with
+    houses spilling off it. Lesson: towers that start below the city wall's height are hidden behind it, so the hook's
+    first frame was empty until they started at half height, centre first.
+  - towerbridge.py (river, map, pier, engine, walk, bus, tag): side view, 1 m = 10 units, road y 0, river 90; tower()
+    (cut + stairs), pier(cut), leaf(side, ang, tail, cw) = a bascule turning about (+-300, 14) with rotate(side*ang),
+    leaf_tip()/on_leaf(), walkways(people), chains(), front_water() (draw AFTER the piers so they stand in the water),
+    ship_bow() (a tall ship bow-on, behind the bridge while scale < 1, in front after), bus() (a red double-decker),
+    thames_map(), engine_room(on, fill, release) + leaf_inset(). The raised leaves stand just inside the towers' inner
+    faces: draw them AFTER the towers or they vanish; the bus crossing on the road is clipped out where it passes
+    through the towers. A pale stone bridge on the golden horizon washed out: the hook uses a dusk palette (DUSKP).
+- Produce: one slug per run (64 and 66 at 20:17Z, 65 at 20:24Z), 20-22 minutes each. Final videos: bigben EN 69.2 s /
+  AR 69.1 s, shibam EN 69.6 s / AR 72.0 s, towerbridge EN 67.8 s / AR 69.1 s; all -14 LUFS, peaks -2.0 to -2.2 dBFS,
+  covers in and inside the grid crop. Whisper small on the English mixes: number formats, "checked twice" -> "check
+  twice", "cracked today" -> "crack today", Shibam -> "She-Bomb", Tower Bridge's "heavy end" -> "heavy and" (caption
+  carries it). CI base.en also wrote "heat and cold" -> "he and Cole", "roars" -> "wars", "lives" -> "lets": Whisper
+  small hears those right on the mix.
+- Pages: retired ep45 and ep57 (only failed Buffer YouTube posts left) and ep58, ep59 (all sent): media/ 711 -> 547 MB
+  before today's six videos (about 650 MB after). Next to retire: 61-63 once all their posts are out, 60 and 37 after
+  their Arabic TikTok requeues, 42, 48-50, 54-56 after theirs.
+- Posts: pushed 64 + 66 after "pages build and deployment" for 1d2d79b succeeded, 65 after the one for eee6a87.
+  Lineup: four ideas appended (73 the Lighthouse of Alexandria, 74 Maraya in AlUla, 75 Chand Baori, 76 a pressure cooker).
