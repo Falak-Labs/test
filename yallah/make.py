@@ -1,18 +1,20 @@
 #!/usr/bin/env python3
 """Yallah Say: make one Short for one dialect, start to finish, from what is in the repo.
 
-usage: python3 yallah/make.py <lesson> <ma|pa> <out_dir> [--workers N] [--hear] [clip=take ...]
+usage: python3 yallah/make.py <lesson> <ma|pa> <out_dir> [--workers N] [--hear] [--dry] [--sheet] [clip=take ...]
 
-  lesson      the lesson number as kit/tools/gen2.py knows it ("01")
+  lesson      the lesson number: yallah/lessons/<lesson>.json ("01")
   out_dir     everything lands here: page/ (what was drawn), vid/ (picture pieces), final.wav, the MP4,
               sheet.jpg (frames to look at) and report.json
   --workers   how many pieces of picture are rendered at the same time (default: one per CPU)
   --hear      also transcribe every line of the finished file with Whisper (YS_WHISPER = the model folder)
+  --dry       the voices do not exist yet: soft tones stand in for them, to look at the picture and the timing
+  --sheet     stop after the sound track and the sheet of frames (no video)
   clip=take   use another take for a clip, as in build2.py (v1=v1b)
 
-Steps: script (gen2.py) -> its lines must be the ones the voices were recorded from -> page folder (mkpage.py) ->
+Steps: script (gen2.py) -> every line must have its take, recorded from the same words -> page folder (mkpage.py) ->
 sound track and timeline (build2.py) -> picture in pieces (shoot.py) -> join -> add the sound -> checks.
-It spends nothing: the voices are the takes already in darija/voice/<dialect><lesson>/.
+It spends nothing: the voices are the takes already in darija/voice/ (the lesson's folder and the shared ones).
 The exit code is 0 only when every check passed; report.json says what was made and what failed."""
 import concurrent.futures as cf
 import hashlib
@@ -42,8 +44,11 @@ LESSON, LOC, OUT = pos[0], pos[1], os.path.abspath(pos[2])
 SLUG = f"{LOC}{LESSON}"
 PAGE, VID = os.path.join(OUT, "page"), os.path.join(OUT, "vid")
 VOICE = os.path.join(ROOT, "darija", "voice", SLUG)
-NAME = f"yallah-say-{LOC}-ep{LESSON}.mp4"
+DRY, SHEET = "--dry" in flags, "--sheet" in flags
+NAME = f"yallah-say-{LOC}-ep{LESSON}{'-dry' if DRY else ''}.mp4"
 REPORT = {"lesson": LESSON, "dialect": LOC, "file": NAME, "ok": False, "problems": [], "steps": {}}
+if DRY:
+    REPORT["dry"] = True
 T0 = time.monotonic()
 
 
@@ -84,29 +89,61 @@ def version(cmd):
 os.makedirs(PAGE, exist_ok=True)
 os.makedirs(VID, exist_ok=True)
 
-# 1. the script, and the lines the voices must have been recorded from
+# 1. the script; then every voice line must have its take, recorded from the same words, in the folder it belongs to
 run("script", [sys.executable, os.path.join(TOOLS, "gen2.py"), LESSON, LOC, PAGE, os.path.join(OUT, "lines.txt")])
-body = lambda p: [l.strip() for l in open(p, encoding="utf-8") if l.strip() and not l.startswith("#")]
-recorded = os.path.join(ROOT, "darija", "lines", SLUG + ".txt")
-if not os.path.exists(recorded):
-    REPORT["problems"].append(f"no recorded script darija/lines/{SLUG}.txt: record the voices first")
-    finish(1)
-if body(recorded) != body(os.path.join(OUT, "lines.txt")):
-    REPORT["problems"].append(f"the script changed after darija/lines/{SLUG}.txt was recorded: record the changed lines first")
-    finish(1)
-missing = [l.split("|")[1].strip() for l in body(recorded) if not os.path.exists(os.path.join(VOICE, l.split("|")[1].strip() + ".mp3"))]
-if missing:
-    REPORT["problems"].append(f"{len(missing)} voice takes are missing in darija/voice/{SLUG}: " + ", ".join(missing[:8]))
-    finish(1)
+GROUPS = json.loads(subprocess.run([sys.executable, os.path.join(TOOLS, "gen2.py"), "--groups", LESSON, LOC], capture_output=True, text=True, check=True).stdout)
+WHERE = {"own": SLUG, "kids": "kids" + LESSON, "common": LOC + "common", "kidscommon": "kidscommon"}
+REPORT["voice_lines"] = {g: {"folder": "darija/voice/" + WHERE[g], "lines": len(rows), "characters": sum(len(r[2]) for r in rows)} for g, rows in GROUPS.items() if rows}
+if not DRY:
+    missing, changed = [], []
+    for g, rows in GROUPS.items():
+        for sp, tid, text in rows:
+            base = os.path.join(ROOT, "darija", "voice", WHERE[g], tid)
+            if not (os.path.exists(base + ".mp3") and os.path.exists(base + ".json")):
+                missing.append(f"{WHERE[g]}/{tid}")
+            elif json.load(open(base + ".json", encoding="utf-8")).get("text") != text:
+                changed.append(f"{WHERE[g]}/{tid}")
+    if missing:
+        REPORT["problems"].append(f"{len(missing)} voice takes are missing: " + ", ".join(missing[:8]) + (" ..." if len(missing) > 8 else ""))
+    if changed:
+        REPORT["problems"].append(f"{len(changed)} lines changed after they were recorded: " + ", ".join(changed[:8]) + (" ..." if len(changed) > 8 else ""))
+    if missing or changed:
+        finish(1)
 
 # 2. the page folder, 3. the sound track and the timeline
 run("page", [sys.executable, os.path.join(TOOLS, "mkpage.py"), LOC, PAGE])
-run("sound", [sys.executable, os.path.join(TOOLS, "build2.py"), VOICE, PAGE, OUT, *alts])
+run("sound", [sys.executable, os.path.join(TOOLS, "build2.py"), VOICE, PAGE, OUT, *(["--dry"] if DRY else []), *alts])
 tl = open(os.path.join(PAGE, "tl.js"), encoding="utf-8").read()
 NF, DUR = int(re.search(r'"nf":(\d+)', tl).group(1)), float(re.search(r'"dur":([0-9.]+)', tl).group(1))
 REPORT.update(frames=NF, duration=DUR, sha256={})
 for f in ("page/script.js", "page/tl.js", "final.wav"):
     REPORT["sha256"][f] = hashlib.sha256(open(os.path.join(OUT, f), "rb").read()).hexdigest()
+
+def sheet():
+    """Frames to look at: one from every shot, a little after it starts, and the last second."""
+    try:
+        from PIL import Image
+        shots = json.loads(re.search(r'"shots":(\[.*?\]),\s*\n', tl, re.S).group(1))
+        times = sorted({round(min(DUR - 0.2, s["a"] + min(1.6, (s["b"] - s["a"]) * 0.6)), 2) for s in shots} | {round(DUR - 0.5, 2)})[:16]
+        run("frames", [sys.executable, os.path.join(TOOLS, "shoot.py"), "stills", PAGE, os.path.join(OUT, "fr"), *[str(x) for x in times]])
+        ims = [Image.open(os.path.join(OUT, "fr", f)).convert("RGB") for f in sorted(os.listdir(os.path.join(OUT, "fr")))]
+        cols, cw = 8, 270
+        ch, rows = round(cw * 1920 / 1080), (len(ims) + 7) // 8
+        img = Image.new("RGB", (cols * cw + (cols + 1) * 6, rows * ch + (rows + 1) * 6), (20, 20, 24))
+        for i, im in enumerate(ims):
+            img.paste(im.resize((cw, ch), Image.LANCZOS), (6 + (i % cols) * (cw + 6), 6 + (i // cols) * (ch + 6)))
+        img.save(os.path.join(OUT, "sheet.jpg"), quality=86)
+        REPORT["sheet_times"] = times
+        return True
+    except Exception as e:      # the sheet is for looking; the video does not depend on it
+        REPORT["steps"]["frames"] = {"says": [f"no sheet: {type(e).__name__}: {str(e)[:120]}"]}
+        return False
+
+
+if SHEET:
+    if not sheet():
+        REPORT["problems"].append("the sheet of frames could not be made")
+    finish(0)
 
 # 4. the picture, in pieces, several at a time (a piece is only kept when ffmpeg ended well and every frame is there)
 pieces = [(i, a, min(PER, NF - a)) for i, a in enumerate(range(0, NF, PER))]
@@ -161,11 +198,12 @@ if not a or abs(float(a.get("duration", 0)) - DUR) > 0.08:
     REPORT["problems"].append(f"sound is {a.get('duration')} s, the lesson is {DUR} s")
 if not 60 <= DUR <= 175:
     REPORT["problems"].append(f"{DUR:.0f} s: a Short that can earn runs over 1 minute and stays under 3")
-out = run("takes", [sys.executable, os.path.join(TOOLS, "corrcheck2.py"), final, PAGE, *alts], env={"VO": VOICE}, keep=3)
-low = re.search(r"below 0\.9: (.*)", out)
-REPORT["takes_below_0.9"] = low.group(1).strip() if low else "?"
-if not low or low.group(1).strip() != "none":
-    REPORT["problems"].append("a voice take is not intact in the finished file: " + (low.group(1).strip() if low else "no answer"))
+if not DRY:
+    out = run("takes", [sys.executable, os.path.join(TOOLS, "corrcheck2.py"), final, PAGE, *alts], env={"VO": VOICE}, keep=3)
+    low = re.search(r"below 0\.9: (.*)", out)
+    REPORT["takes_below_0.9"] = low.group(1).strip() if low else "?"
+    if not low or low.group(1).strip() != "none":
+        REPORT["problems"].append("a voice take is not intact in the finished file: " + (low.group(1).strip() if low else "no answer"))
 if "--hear" in flags:
     if not os.path.isdir(os.environ.get("YS_WHISPER", "")):
         REPORT["problems"].append("--hear needs YS_WHISPER, the Whisper model folder")
@@ -176,23 +214,7 @@ if "--hear" in flags:
         if look:
             REPORT["problems"].append(f"{len(look)} lines were not heard as written: " + "; ".join(l[:90] for l in look[:4]))
 
-# 8. frames to look at: one from every shot, a little after it starts, and the last second
-try:
-    from PIL import Image
-    shots = json.loads(re.search(r'"shots":(\[.*?\]),\s*\n', tl, re.S).group(1))
-    times = sorted({round(min(DUR - 0.2, s["a"] + min(1.6, (s["b"] - s["a"]) * 0.6)), 2) for s in shots} | {round(DUR - 0.5, 2)})[:16]
-    run("frames", [sys.executable, os.path.join(TOOLS, "shoot.py"), "stills", PAGE, os.path.join(OUT, "fr"), *[str(x) for x in times]])
-    ims = [Image.open(os.path.join(OUT, "fr", f)).convert("RGB") for f in sorted(os.listdir(os.path.join(OUT, "fr")))]
-    cols, cw = 8, 270
-    ch, rows = round(cw * 1920 / 1080), (len(ims) + 7) // 8
-    sheet = Image.new("RGB", (cols * cw + (cols + 1) * 6, rows * ch + (rows + 1) * 6), (20, 20, 24))
-    for i, im in enumerate(ims):
-        sheet.paste(im.resize((cw, ch), Image.LANCZOS), (6 + (i % cols) * (cw + 6), 6 + (i // cols) * (ch + 6)))
-    sheet.save(os.path.join(OUT, "sheet.jpg"), quality=86)
-    REPORT["sheet_times"] = times
-except Exception as e:      # the sheet is for looking; the video does not depend on it
-    REPORT["steps"]["frames"] = {"says": [f"no sheet: {type(e).__name__}: {str(e)[:120]}"]}
-
+sheet()
 REPORT["made_with"] = {"python": sys.version.split()[0], "ffmpeg": version(["ffmpeg", "-version"]),
                        "playwright": version([sys.executable, "-m", "playwright", "--version"])}
 finish(0)

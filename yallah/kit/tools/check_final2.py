@@ -28,7 +28,8 @@ for b in B:
     flag = 'ok ' if score >= (0.8 if lang == 'en' else 0.6) else 'LOOK'; bad += flag == 'LOOK'
     print(f"{flag} {score:.2f} {b['a']:7.2f} {b['id']:7s} {b['sp']:2s} | {want} | {heard}", flush=True)
 # the syllable rounds, each heard as one stretch
-for name, ids in (('slow', [f's{i}{k}' for i in range(5) for k in 'ta']), ('fast teacher', [f'f{i}t' for i in range(5)]), ('fast pupils', [f'f{i}k' for i in range(5)])):
+NP = len(S['word']['parts'])
+for name, ids in (('slow', [f's{i}{k}' for i in range(NP) for k in 'ta']), ('fast teacher', [f'f{i}t' for i in range(NP)]), ('fast pupils', [f'f{i}k' for i in range(NP)])):
     bs = [b for b in B if b['id'] in ids]
     if not bs: continue
     print(f"--  {name:13s} {bs[0]['a']:7.2f}-{bs[-1]['b']:7.2f} | {hear(bs[0]['a'], bs[-1]['b'], 'en')}", flush=True)

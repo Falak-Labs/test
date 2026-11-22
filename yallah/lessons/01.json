@@ -1,5 +1,6 @@
 {
  "title": "Hi, how are you?",
+ "own_lines": true,
  "word": {
   "full": "Congratulations",
   "parts": [

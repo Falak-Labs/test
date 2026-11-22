@@ -48,9 +48,11 @@ jobs:
           echo "episode: ${EPISODE}"
           args=()
           if [ "$FORCE" = "true" ]; then args+=(--force); fi
-          # an episode can have its own voices: darija/voices_<episode>.json. Otherwise a Yallah Say lesson takes its
-          # dialect's voices from its first two letters: darija/voices_ma.json (ma02, ma03...) or darija/voices_pa.json
+          # an episode can have its own voices: darija/voices_<episode>.json. Otherwise a Yallah Say script takes its
+          # voices from the start of its name: darija/voices_kids.json (kids02, kidscommon: the pupils, shared by both
+          # dialects), darija/voices_ma.json (ma02, macommon) or darija/voices_pa.json (pa02, pacommon)
           if [ -f "darija/voices_${EPISODE}.json" ]; then args+=(--voices "darija/voices_${EPISODE}.json")
+          elif [ -f "darija/voices_${EPISODE:0:4}.json" ]; then args+=(--voices "darija/voices_${EPISODE:0:4}.json")
           elif [ -f "darija/voices_${EPISODE:0:2}.json" ]; then args+=(--voices "darija/voices_${EPISODE:0:2}.json"); fi
           python -I -u darija/tools/make_vo_lesson.py "darija/lines/${EPISODE}.txt" "darija/voice/${EPISODE}" "${args[@]}"
       - name: Save to the repo

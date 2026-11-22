@@ -3,6 +3,8 @@
 usage: python3 build2.py <voice_dir> <page_dir> <out_dir> [--dry] [clip=take ...]
   clip=take   use another take for a clip (A_con=A_con2, v1=v1b)
   --dry       a take that is missing becomes a soft tone of a likely length (to check the picture before the voices exist)
+A take is looked for in <voice_dir> (the lesson in this dialect), then beside it in kids<lesson> (the pupils' lines both
+dialects share), <dialect>common (the teacher's lines that never change) and kidscommon (the pupils' goodbye).
 writes <out_dir>/final.wav (48 kHz, -14 LUFS) and <page_dir>/tl.js (shots, beats, exact word times, mouth levels)."""
 import json, os, re, subprocess, sys
 import numpy as np, soundfile as sf, pyloudnorm as pyln
@@ -15,6 +17,8 @@ ALT = dict(a.split('=') for a in sys.argv[4:] if '=' in a)
 os.makedirs(OUT, exist_ok=True)
 S = json.loads(open(f'{PAGE}/script.js', encoding='utf-8').read()[len('window.SCRIPT='):].rstrip().rstrip(';'))
 B, WD = S['beats'], S['word']
+VROOT = os.path.dirname(os.path.abspath(VO))
+FOLDERS = [VO, f"{VROOT}/kids{S['ep']}", f"{VROOT}/{S['theme']}common", f"{VROOT}/kidscommon"]
 SYL = [s.lower() for s in WD['tts']]
 TEXT = {}
 for b in B:
@@ -58,9 +62,10 @@ TAKES, MISSING = {}, []
 
 def take(tid):
     if tid not in TAKES:
+        d = next((d for d in FOLDERS if os.path.exists(f'{d}/{tid}.mp3')), None)
         p = f'{VO}/{tid}.mp3'
-        if os.path.exists(p):
-            TAKES[tid] = (decode(p), json.load(open(f'{VO}/{tid}.json', encoding='utf-8')))
+        if d:
+            TAKES[tid] = (decode(f'{d}/{tid}.mp3'), json.load(open(f'{d}/{tid}.json', encoding='utf-8')))
         elif DRY:
             MISSING.append(tid)
             txt = TEXT.get(tid) or 'x' * 6

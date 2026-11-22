@@ -1,0 +1,15 @@
+{
+ "model": "eleven_v4",
+ "output_format": "mp3_44100_128",
+ "speakers": {
+  "A": {
+   "name": "Adam, the boy (Ryan Quin, gentle)",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "owner": "b5373c4878a2f83618999d6b84063960545c52f4ac5743deca70f1b062bf7552"
+  },
+  "L": {
+   "name": "Lina, the girl (Candy)",
+   "voice": "Nggzl2QAXh3OijoXD116"
+  }
+ }
+}

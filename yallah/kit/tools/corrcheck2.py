@@ -8,6 +8,9 @@ MP4, PAGE = sys.argv[1], sys.argv[2]
 ALT = dict(x.split('=') for x in sys.argv[3:] if '=' in x)
 js = lambda n: json.loads(open(f'{PAGE}/{n}', encoding='utf-8').read().split('=', 1)[1].rstrip().rstrip(';'))
 S, T = js('script.js'), js('tl.js')
+_root = __import__('os').path.dirname(__import__('os').path.abspath(VO))
+FOLDERS = [VO, f"{_root}/kids{S['ep']}", f"{_root}/{S['theme']}common", f"{_root}/kidscommon"]      # as build2.py looks
+where = lambda tid: next((d for d in FOLDERS if __import__('os').path.exists(f"{d}/{tid}.mp3")), VO)
 def decode(p):
     raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', p, '-vn', '-ac', '1', '-ar', str(SR), '-f', 'f32le', '-'], capture_output=True, check=True).stdout
     return np.frombuffer(raw, dtype=np.float32).astype(np.float64)
@@ -16,7 +19,7 @@ for i, b in enumerate(S['beats']):
     if b.get('syl') is not None or b.get('sil') or b.get('cho'): continue      # word parts, pauses and two-voice lines are checked by ear below
     a, e = T['beats'][i]['a'], T['beats'][i]['b']
     tid = b.get('clip', b['id']); tid = ALT.get(tid, tid)
-    seg = Y[int(a * SR):int(e * SR)]; y = decode(f"{VO}/{tid}.mp3")
+    seg = Y[int(a * SR):int(e * SR)]; y = decode(f"{where(tid)}/{tid}.mp3")
     y = np.concatenate([np.zeros(SR // 4), y, np.zeros(SR // 4)])
     c = np.correlate(y, seg, 'valid'); n = len(seg)
     cs = np.concatenate([[0], np.cumsum(y ** 2)]); en = np.sqrt((cs[n:] - cs[:-n]) * (seg ** 2).sum()) + 1e-9

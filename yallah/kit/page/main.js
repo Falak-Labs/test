@@ -432,7 +432,7 @@ ${lan(2, 'ln3')}${lan(3, 'ln4')}
   function drawH(t, sh, b) {
     const u = (t - sh.a) / (sh.b - sh.a), tw = BI.tw, w1 = BI.w1, w2 = BI.w2, w3 = BI.w3, w4 = BI.w4, w6 = BI.w6, v0 = BI.v0, v1 = BI.v1, v2 = BI.v2, v3 = BI.v3;
     tf('sH', zoom(1 + .02 * u + .03 * (1 - eo((t - sh.a) / .3)), 540, 640));
-    const sp = eo((t - w2.a - .15) / .7) * (1 - eo((t - w4.a - .1) / .55)), wr = clamp((t - tw.a + .05) / (tw.len * .8)) * 5, slow = t < w3.a - .1, sn = eo((t - v0.a - .1) / .55);
+    const sp = eo((t - w2.a - .15) / .7) * (1 - eo((t - w4.a - .1) / .55)), wr = clamp((t - tw.a + .05) / (tw.len * .8)) * SY.length, slow = t < w3.a - .1, sn = eo((t - v0.a - .1) / .55);
     op(H.hd, (t - sh.a - .15) / .3);
     op(H.qq, clamp((t - sh.a - .3) / .3) * (1 - clamp((t - tw.a + .15) / .15))); tf(H.qq, zoom(1 + .05 * Math.sin(t * 6), 540, 650));
     tf(H.wd, zoom(lerp(1.22, 1, sp) + (t >= WIN ? .12 * Math.exp(-(t - WIN) / .25) : 0), 540, 618));
