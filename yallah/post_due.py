@@ -219,6 +219,30 @@ def channels():
         for platform in PLATFORMS:
             ch, problem = acc.pick({"channels": {lang: ac["channels"]}}, lang, platform)
             log(f"{lang}.{platform}: " + (f"will post to {ch.get('displayName') or ch.get('name')}" if ch else f"NOT READY: {problem}"))
+        # where every post already handed to this account stands now: scheduled, sent (with its link) or failed
+        ids = {}
+        for ep in queue():
+            for tgt, t in load_state(ep["slug"])["targets"].items():
+                if t.get("id") and tgt.split(".")[0] == lang:
+                    ids[t["id"]] = f"{ep['slug']} {tgt}"
+        if ids:
+            try:
+                seen = {}
+                for org in sorted({c["organizationId"] for c in acc.all_channels}):
+                    for post in acc.buf.posts(org, ["sent", "error", "scheduled", "sending", "draft"]):
+                        seen[post.get("id")] = post
+                for pid, name in ids.items():
+                    post = seen.get(pid)
+                    if not post:
+                        log(f"{name}: not in Buffer's lists (id {pid})")
+                        continue
+                    link = str(post.get("externalLink") or post.get("serviceLink") or "").split("?")[0]
+                    err = post.get("errorMessage") or post.get("error") or ""
+                    log(f"{name}: {post.get('status')}"
+                        + (f", sent {post.get('sentAt')}" if post.get("sentAt") else f", due {post.get('dueAt')}")
+                        + (f", {link}" if link else "") + (f", ERROR {str(err)[:240]}" if err else ""))
+            except (BufferError, requests.RequestException, RuntimeError, KeyError, TypeError) as e:
+                log(f"{lang}: could not read post status: {str(e)[:300]}")
     os.makedirs(os.path.join(HERE, "state"), exist_ok=True)
     with open(os.path.join(HERE, "state", "channels.md"), "w", encoding="utf-8") as f:
         f.write(f"# Yallah Say Buffer channels, checked {NOW.isoformat(timespec='seconds')}\n\n" + "\n".join(f"- {m}" for m in LOG) + "\n")
