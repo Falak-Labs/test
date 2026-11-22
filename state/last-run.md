@@ -1,4 +1,4 @@
-# Last posting run 2026-11-22T20:53:57+00:00
+# Last posting run 2026-11-22T22:08:46+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -29,15 +29,17 @@
 - ep64-bigben en.youtube: on hold in posts/ep64-bigben.yml
 - ep64-bigben ar.youtube: on hold in posts/ep64-bigben.yml
 - ep65-shibam en.youtube: on hold in posts/ep65-shibam.yml
-- ep65-shibam en.instagram: scheduled (Mon 23 Nov 16:30 UTC) id 6b035667c72676f5e95ca7c2
-- ep65-shibam en.tiktok: scheduled (Mon 23 Nov 16:30 UTC) id 6b035668bf5d5a73b6bf4542
 - ep65-shibam ar.youtube: on hold in posts/ep65-shibam.yml
-- ep65-shibam ar.instagram: scheduled (Mon 23 Nov 11:00 UTC) id 6b035669d5eabfb8ccdbb48f
-- ep65-shibam ar.tiktok: scheduled (Mon 23 Nov 11:00 UTC) id 6b035669d864a01105f4babc
 - ep66-towerbridge en.youtube: on hold in posts/ep66-towerbridge.yml
 - ep66-towerbridge ar.youtube: on hold in posts/ep66-towerbridge.yml
 - sm01-survival en.youtube: on hold in posts/sm01-survival.yml
 - sm02 en.youtube: on hold in posts/sm02.yml
 - sm02 ar.youtube: on hold in posts/sm02.yml
-- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=131; t=475, "24h"; r=505; t=26965, "30d"; r=1271; t=1503540; ratelimit-policy="15m"; q=1
-- ar: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=131; t=474, "24h"; r=486; t=26964, "30d"; r=1193; t=1509668; ratelimit-policy="15m"; q=1
+- sm03 en.youtube: on hold in posts/sm03.yml
+- sm03 en.instagram: on hold in posts/sm03.yml
+- sm03 en.tiktok: on hold in posts/sm03.yml
+- sm03 ar.youtube: on hold in posts/sm03.yml
+- sm03 ar.instagram: on hold in posts/sm03.yml
+- sm03 ar.tiktok: on hold in posts/sm03.yml
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=485; t=22478, "30d"; r=1251; t=1499053; ratelimit-policy="15m"; q=1
+- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=466; t=22478, "30d"; r=1173; t=1505182; ratelimit-policy="15m"; q=1
