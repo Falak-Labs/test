@@ -1,0 +1,141 @@
+{
+ "slug": "ep61-pisa",
+ "kit": "pisa",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.67,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "23/231",
+   "mix_lines_off": [
+    "L 1 2 diff  | If your tower leans almost 4 meters and still stands after 8 centuries, congrats, you just built the leaning tower of pizza.",
+    "L 6 5 diff  | But by 1990, the top hangs 4.5 meters out and it's closed.",
+    "L 7 2 diff  | So you stack 600 tons of lead on the high side with steel cables around it just in case.",
+    "L 8 2 diff  | But wait to only hold it, to make it lean less, the ground has to move.",
+    "L 9 2 diff  | So you drill soil from under the high side, bit by bit, and it settles back 45 centimeters.",
+    "L10 2 diff  | But before you climb it, follow, because next we're building a better intent.",
+    "L11 2 diff  | Now the twist, the soft clay that makes it lean also saves it, soaking up 4 big earthquakes since 1280.",
+    "L12 4 diff  | 56 meters tall, over 14,000 tons and almost 4 degrees of lean.",
+    "L13 1 diff  | And congrats, you just built the leaning tower of pizza yourself.",
+    "L14 1 diff  | It stood on its own for eight centuries, and every tourist still thinks it needs a hand."
+   ],
+   "size_mb": 19.6,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو بنيت برج مايل قرابة أربعة متر، وواقف من ثمانمية سنة، مبروك، كذا سويت لك برج بيزا المايل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس بيزا أرضها طين ليّن، وبعد خمس سنين بس، بدأ البرج يغوص من جهة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتاخذ استراحة، الحروب توقّفك قرابة مية سنة، والطين يقسى.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس أول ما ترجع تبني، الأدوار الجديدة تميل معه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتطوّل الأدوار اللي فوق من الجهة النازلة، وينحني البرج مثل الموزة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس في التسعينات، صار راسه طالع أربعة متر ونص، وسكّروه عن الناس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحط ستمية طن رصاص على الجهة العالية، وتلفّه بكيابل حديد، احتياط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس الثقل يمسكه بس، وعشان يعتدل لازم الأرض تتحرك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتسحب التراب من تحت الجهة العالية شوي شوي، ويرجع خمسة وأربعين سانتي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تطلع فوق، تابعني، لأن الجاي بنبني بيت الشعر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والمفاجأة: نفس الطين اللي ميّله يحميه من الزلازل، وعدّت عليه أربعة زلازل قوية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ستة وخمسين متر، وأكثر من أربعطعش ألف طن، وميلانه قرابة أربع درجات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك برج بيزا المايل بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "ثمانمية سنة مايل وما طاح، ودولابك مال من أول أسبوع، وحطيت تحته كرتونة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.67,
+   "lufs": -14.0,
+   "peak": -2.3,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 19.5,
+   "cover": true
+  }
+ }
+}

@@ -1,0 +1,13 @@
+pisa: 68.66s, 2060 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/pisa/cover.png: ['THE LEANING', 'TOWER OF PISA'] (frame 0 of the video)
+video done in 432s
+audio done
+final out/pisa/pisa_final.mp4
+QA  duration 68.67s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2060
+QA sheet out/pisa/qa_sheet.png
