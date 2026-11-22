@@ -1,0 +1,16 @@
+# Yallah Say, episode 07 (pa): five phrases, quiz, hard word (Vegetables) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | مرحبا! بتعرف كيف تحكي الخضرة بالإنجليزي؟
+T | h2 | الجواب بالآخر. يلا!
+T | p01t | أنا جوعان.
+T | p02t | أنا عطشان.
+T | p03t | بدي دجاج.
+T | p04t | كتير زاكي!
+T | p05t | مي، لو سمحت.
+T | tw | Vegetables.
+T | w6 | Good job! Vegetables!
+L | v1 | Maqluba: rice, chicken and vegetables!
+T | v2 | مقلوبة: رز، دجاج و خضرة!
+T | T_vej | Vej.
+T | T_tuh | Tuh.
+T | T_bulz | Bulz.

@@ -1,0 +1,15 @@
+# Yallah Say, episode 09 (ma): five phrases, quiz, hard word (Breakfast) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | سلام! واش كتعرف تقول الفطور بالإنجليزية؟
+T | h2 | الجواب فالآخر. يالله!
+T | p01t | قهوة وحدة، عافاك.
+T | p02t | بالسكر؟
+T | p03t | بلا سكر، شكرا.
+T | p04t | ممكن نخلص بالكارطا؟
+T | p05t | شنو هي كلمة السر ديال الوايفاي؟
+T | tw | Breakfast.
+T | w6 | Good job! Breakfast!
+L | v1 | Moroccan breakfast: msemen, honey and mint tea!
+T | v2 | فطور مغربي: مسمن، عسل و أتاي!
+T | T_brek | Brek.
+T | T_fust | Fust.

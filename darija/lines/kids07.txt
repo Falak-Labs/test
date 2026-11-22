@@ -1,0 +1,15 @@
+# Yallah Say, episode 07: the pupils' English lines that both dialects share (hard word: Vegetables).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | I'm hungry.
+L | p02k | I'm thirsty.
+A | p03k | I'd like chicken.
+L | p04k | It's delicious!
+A | p05k | Water, please.
+A | w5 | Vegetables!
+L | Lw | Vegetables!
+A | A_vej | Vej.
+A | A_tuh | Tuh.
+A | A_bulz | Bulz.
+L | L_vej | Vej.
+L | L_tuh | Tuh.
+L | L_bulz | Bulz.

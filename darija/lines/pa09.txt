@@ -1,0 +1,15 @@
+# Yallah Say, episode 09 (pa): five phrases, quiz, hard word (Breakfast) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | مرحبا! بتعرف كيف تحكي الفطور بالإنجليزي؟
+T | h2 | الجواب بالآخر. يلا!
+T | p01t | فنجان قهوة، لو سمحت.
+T | p02t | بسكر؟
+T | p03t | بدون سكر، شكرا.
+T | p04t | ممكن أدفع بالكرت؟
+T | p05t | شو كلمة السر للوايفاي؟
+T | tw | Breakfast.
+T | w6 | Good job! Breakfast!
+L | v1 | Palestinian breakfast: za'atar, olive oil and bread!
+T | v2 | فطور فلسطيني: زعتر، زيت و خبز!
+T | T_brek | Brek.
+T | T_fust | Fust.

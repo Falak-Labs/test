@@ -1,0 +1,15 @@
+# Yallah Say, episode 08: the pupils' English lines that both dialects share (hard word: Restaurant).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | A table for two, please.
+L | p02k | Can I see the menu?
+A | p03k | What do you recommend?
+L | p04k | The bill, please.
+A | p05k | Where is the toilet?
+A | w5 | Restaurant!
+L | Lw | Restaurant!
+A | A_res | Res.
+A | A_tuh | Tuh.
+A | A_rant | Rant.
+L | L_res | Res.
+L | L_tuh | Tuh.
+L | L_rant | Rant.

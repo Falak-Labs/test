@@ -1,0 +1,16 @@
+# Yallah Say, episode 08 (pa): five phrases, quiz, hard word (Restaurant) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | مرحبا! بتعرف كيف تحكي المطعم بالإنجليزي؟
+T | h2 | الجواب بالآخر. يلا!
+T | p01t | طاولة لإثنين، لو سمحت.
+T | p02t | ممكن أشوف المنيو؟
+T | p03t | شو بتنصحني؟
+T | p04t | الحساب، لو سمحت.
+T | p05t | وين الحمام؟
+T | tw | Restaurant.
+T | w6 | Good job! Restaurant!
+L | v1 | This restaurant makes the best knafeh in Nablus!
+T | v2 | هاي المطعم بيعمل أحسن كنافة بنابلس!
+T | T_res | Res.
+T | T_tuh | Tuh.
+T | T_rant | Rant.

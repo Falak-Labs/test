@@ -1,0 +1,13 @@
+# Yallah Say, episode 09: the pupils' English lines that both dialects share (hard word: Breakfast).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | One coffee, please.
+L | p02k | With sugar?
+A | p03k | No sugar, thanks.
+L | p04k | Can I pay by card?
+A | p05k | What's the wifi password?
+A | w5 | Breakfast!
+L | Lw | Breakfast!
+A | A_brek | Brek.
+A | A_fust | Fust.
+L | L_brek | Brek.
+L | L_fust | Fust.

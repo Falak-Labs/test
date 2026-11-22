@@ -1,0 +1,16 @@
+# Yallah Say, episode 08 (ma): five phrases, quiz, hard word (Restaurant) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | سلام! واش كتعرف تقول المطعم بالإنجليزية؟
+T | h2 | الجواب فالآخر. يالله!
+T | p01t | طابلة ديال جوج، عافاك.
+T | p02t | ممكن نشوف المنيو؟
+T | p03t | شنو كتنصحني؟
+T | p04t | الحساب، عافاك.
+T | p05t | فين كاين بيت الما؟
+T | tw | Restaurant.
+T | w6 | Good job! Restaurant!
+L | v1 | This restaurant makes the best tajine in Marrakech!
+T | v2 | هاد المطعم كيدير أحسن طاجين فمراكش!
+T | T_res | Res.
+T | T_tuh | Tuh.
+T | T_rant | Rant.
