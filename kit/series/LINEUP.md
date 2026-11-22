@@ -36,9 +36,11 @@ Rules:
     `at: {default: ..., youtube: ...}` that `tools.yml cmd=limits` and the state files show to be free (the notes of
     the runs of Nov 21 show the arithmetic). Never a third post in a window.
   - Build #2: `hold: [en.youtube, ar.youtube]` plus the top-level line `studio: 1` in its posts file. The main chat
-    uploads it in Studio, scheduled at the build's own slot.
-  - Build #3: the same hold plus `studio: 2`. It is uploaded only when the day's limit has room; otherwise it stays
-    off YouTube.
+    uploads it in Studio, scheduled at the build's own slot, when the day's limit has room: 6 Studio uploads a day,
+    of which the show takes 4, so the midday run's #2 normally fits and the evening run's #2 only on a day the show
+    did not come.
+  - Build #3: the same hold plus `studio: 2`. It is uploaded only when room is left after that; otherwise it stays
+    off YouTube. Do not promise the owner a YouTube upload for a held build: say it waits for room.
   When `youtube/desk.yml` says `verified: true`: all three builds get the hold and `studio: 1`, and no YouTube post
   goes through Buffer any more.
   Step 0 of every run: `python3 scripts/yt_desk.py check`. OVERDUE lines mean the main chat's upload did not happen:
