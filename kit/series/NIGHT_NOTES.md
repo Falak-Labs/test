@@ -1434,3 +1434,6 @@
   TikTok sent (08:00Z, 11:00Z); every other 58-63 target scheduled for Sun PT (62/63 YouTube held), no failures.
   post.yml added 63's Arabic TikTok (23:00Z); requeue put 54's Arabic TikTok at 01:30Z Nov 25. Arabic TikTok queue 10
   of 10 until 60, 61 and sm02 go out (by 18:30Z), which leaves 3 for the midday run; 55, 37, 56 still in error.
+
+## Nov 22 11:00 PT: both channels verified
+Owner did the Advanced features verification on Congrats Engineer and Kef Tenbeni; Studio shows Advanced features: Enabled on both. youtube/desk.yml now says verified: true (the daily upload cap should be lifted; if Studio still answers "Daily upload limit reached", run yt_desk.py refused en|ar and set verified back to false).

@@ -5,7 +5,7 @@
 # owner can do it; no chat may click "Verify" or enter anything there. Set it to true when he says it is done and
 # Studio shows "Advanced features: Enabled" on both channels. Then the two limits below no longer apply, nothing goes
 # to YouTube through Buffer any more, and every build is uploaded in Studio.
-verified: false
+verified: true
 
 # While verified is false. Nov 21 2026: Studio answered "Daily upload limit reached. Upload more videos daily after a
 # one-time verification or wait 24 hours." on both channels after 10 uploads by the owner's login in under a day (6 on
