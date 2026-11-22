@@ -4,10 +4,12 @@
    "id": "6b02b941d864a01105b129f2",
    "channel": "6b028f958541f09ecb5fe973",
    "service": "instagram",
-   "status": "sending",
+   "status": "sent",
    "dueAt": "2026-11-22T17:16:54.000Z",
    "planned": "2026-11-22T09:15:00-08:00",
-   "created": "2026-11-22T09:43:28+00:00"
+   "created": "2026-11-22T09:43:28+00:00",
+   "sentAt": "2026-11-22T17:19:57.765Z",
+   "link": "https://www.instagram.com/reel/DgDUtySDENH/"
   },
   "ar.tiktok": {
    "id": "6b02b942846b0ee907756698",
@@ -29,7 +31,7 @@
    "planned": "2026-11-22T09:15:00-08:00",
    "created": "2026-11-22T09:43:28+00:00",
    "sentAt": "2026-11-22T17:16:17.315Z",
-   "link": "https://www.youtube.com/watch"
+   "link": "https://www.youtube.com/shorts/lBG2Z9r0vmA"
   }
  }
 }
