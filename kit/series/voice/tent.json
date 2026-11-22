@@ -1,0 +1,1252 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 63.38,
+ "words": 226,
+ "words_per_sec": 3.57,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.427,
+   "text": "If you can weave a house from goat hair that stops desert rain and still lets the breeze through, congrats, you just built a Bedouin tent.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.34
+    },
+    {
+     "w": "you",
+     "start": 0.34,
+     "end": 0.549
+    },
+    {
+     "w": "can",
+     "start": 0.549,
+     "end": 0.759
+    },
+    {
+     "w": "weave",
+     "start": 0.759,
+     "end": 0.969
+    },
+    {
+     "w": "a",
+     "start": 0.969,
+     "end": 1.179
+    },
+    {
+     "w": "house",
+     "start": 1.179,
+     "end": 1.388
+    },
+    {
+     "w": "from",
+     "start": 1.388,
+     "end": 1.598
+    },
+    {
+     "w": "goat",
+     "start": 1.598,
+     "end": 1.808
+    },
+    {
+     "w": "hair",
+     "start": 1.808,
+     "end": 2.017
+    },
+    {
+     "w": "that",
+     "start": 2.017,
+     "end": 2.227
+    },
+    {
+     "w": "stops",
+     "start": 2.227,
+     "end": 2.437
+    },
+    {
+     "w": "desert",
+     "start": 2.437,
+     "end": 2.802
+    },
+    {
+     "w": "rain",
+     "start": 2.802,
+     "end": 3.012
+    },
+    {
+     "w": "and",
+     "start": 3.012,
+     "end": 3.221
+    },
+    {
+     "w": "still",
+     "start": 3.221,
+     "end": 3.431
+    },
+    {
+     "w": "lets",
+     "start": 3.431,
+     "end": 3.641
+    },
+    {
+     "w": "the",
+     "start": 3.641,
+     "end": 3.851
+    },
+    {
+     "w": "breeze",
+     "start": 3.851,
+     "end": 4.06
+    },
+    {
+     "w": "through,",
+     "start": 4.06,
+     "end": 4.27
+    },
+    {
+     "w": "congrats,",
+     "start": 4.41,
+     "end": 4.802
+    },
+    {
+     "w": "you",
+     "start": 4.802,
+     "end": 5.027
+    },
+    {
+     "w": "just",
+     "start": 5.027,
+     "end": 5.252
+    },
+    {
+     "w": "built",
+     "start": 5.252,
+     "end": 5.478
+    },
+    {
+     "w": "a",
+     "start": 5.478,
+     "end": 5.703
+    },
+    {
+     "w": "Bedouin",
+     "start": 5.703,
+     "end": 6.095
+    },
+    {
+     "w": "tent.",
+     "start": 6.095,
+     "end": 6.32
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.792,
+   "end": 10.344,
+   "text": "But the desert sun is brutal, and a thin tent turns into an oven.",
+   "words": [
+    {
+     "w": "But",
+     "start": 6.932,
+     "end": 7.127
+    },
+    {
+     "w": "the",
+     "start": 7.127,
+     "end": 7.322
+    },
+    {
+     "w": "desert",
+     "start": 7.322,
+     "end": 7.662
+    },
+    {
+     "w": "sun",
+     "start": 7.662,
+     "end": 7.857
+    },
+    {
+     "w": "is",
+     "start": 7.857,
+     "end": 8.052
+    },
+    {
+     "w": "brutal,",
+     "start": 8.052,
+     "end": 8.392
+    },
+    {
+     "w": "and",
+     "start": 8.532,
+     "end": 8.714
+    },
+    {
+     "w": "a",
+     "start": 8.714,
+     "end": 8.897
+    },
+    {
+     "w": "thin",
+     "start": 8.897,
+     "end": 9.079
+    },
+    {
+     "w": "tent",
+     "start": 9.079,
+     "end": 9.262
+    },
+    {
+     "w": "turns",
+     "start": 9.262,
+     "end": 9.444
+    },
+    {
+     "w": "into",
+     "start": 9.444,
+     "end": 9.762
+    },
+    {
+     "w": "an",
+     "start": 9.762,
+     "end": 9.944
+    },
+    {
+     "w": "oven.",
+     "start": 9.944,
+     "end": 10.262
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.708,
+   "end": 15.177,
+   "text": "So you make it black and thick. It throws deep shade, and the hot air slips out through the weave.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.818,
+     "end": 11.034
+    },
+    {
+     "w": "you",
+     "start": 11.034,
+     "end": 11.249
+    },
+    {
+     "w": "make",
+     "start": 11.249,
+     "end": 11.465
+    },
+    {
+     "w": "it",
+     "start": 11.465,
+     "end": 11.681
+    },
+    {
+     "w": "black",
+     "start": 11.681,
+     "end": 11.897
+    },
+    {
+     "w": "and",
+     "start": 11.897,
+     "end": 12.112
+    },
+    {
+     "w": "thick.",
+     "start": 12.112,
+     "end": 12.328
+    },
+    {
+     "w": "It",
+     "start": 12.388,
+     "end": 12.62
+    },
+    {
+     "w": "throws",
+     "start": 12.62,
+     "end": 12.853
+    },
+    {
+     "w": "deep",
+     "start": 12.853,
+     "end": 13.086
+    },
+    {
+     "w": "shade,",
+     "start": 13.086,
+     "end": 13.318
+    },
+    {
+     "w": "and",
+     "start": 13.478,
+     "end": 13.656
+    },
+    {
+     "w": "the",
+     "start": 13.656,
+     "end": 13.834
+    },
+    {
+     "w": "hot",
+     "start": 13.834,
+     "end": 14.011
+    },
+    {
+     "w": "air",
+     "start": 14.011,
+     "end": 14.189
+    },
+    {
+     "w": "slips",
+     "start": 14.189,
+     "end": 14.367
+    },
+    {
+     "w": "out",
+     "start": 14.367,
+     "end": 14.545
+    },
+    {
+     "w": "through",
+     "start": 14.545,
+     "end": 14.722
+    },
+    {
+     "w": "the",
+     "start": 14.722,
+     "end": 14.9
+    },
+    {
+     "w": "weave.",
+     "start": 14.9,
+     "end": 15.078
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 15.542,
+   "end": 17.646,
+   "text": "But if air gets through, so does the rain.",
+   "words": [
+    {
+     "w": "But",
+     "start": 15.672,
+     "end": 15.878
+    },
+    {
+     "w": "if",
+     "start": 15.878,
+     "end": 16.084
+    },
+    {
+     "w": "air",
+     "start": 16.084,
+     "end": 16.29
+    },
+    {
+     "w": "gets",
+     "start": 16.29,
+     "end": 16.496
+    },
+    {
+     "w": "through,",
+     "start": 16.496,
+     "end": 16.702
+    },
+    {
+     "w": "so",
+     "start": 16.882,
+     "end": 17.057
+    },
+    {
+     "w": "does",
+     "start": 17.057,
+     "end": 17.232
+    },
+    {
+     "w": "the",
+     "start": 17.232,
+     "end": 17.407
+    },
+    {
+     "w": "rain.",
+     "start": 17.407,
+     "end": 17.582
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.01,
+   "end": 23.115,
+   "text": "So you trust the goats. When their hair gets wet, it swells and closes the gaps, and the rain runs off.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.12,
+     "end": 18.33
+    },
+    {
+     "w": "you",
+     "start": 18.33,
+     "end": 18.54
+    },
+    {
+     "w": "trust",
+     "start": 18.54,
+     "end": 18.75
+    },
+    {
+     "w": "the",
+     "start": 18.75,
+     "end": 18.96
+    },
+    {
+     "w": "goats.",
+     "start": 18.96,
+     "end": 19.17
+    },
+    {
+     "w": "When",
+     "start": 19.3,
+     "end": 19.492
+    },
+    {
+     "w": "their",
+     "start": 19.492,
+     "end": 19.684
+    },
+    {
+     "w": "hair",
+     "start": 19.684,
+     "end": 19.876
+    },
+    {
+     "w": "gets",
+     "start": 19.876,
+     "end": 20.068
+    },
+    {
+     "w": "wet,",
+     "start": 20.068,
+     "end": 20.26
+    },
+    {
+     "w": "it",
+     "start": 20.44,
+     "end": 20.658
+    },
+    {
+     "w": "swells",
+     "start": 20.658,
+     "end": 20.876
+    },
+    {
+     "w": "and",
+     "start": 20.876,
+     "end": 21.094
+    },
+    {
+     "w": "closes",
+     "start": 21.094,
+     "end": 21.474
+    },
+    {
+     "w": "the",
+     "start": 21.474,
+     "end": 21.692
+    },
+    {
+     "w": "gaps,",
+     "start": 21.692,
+     "end": 21.91
+    },
+    {
+     "w": "and",
+     "start": 21.91,
+     "end": 22.128
+    },
+    {
+     "w": "the",
+     "start": 22.128,
+     "end": 22.346
+    },
+    {
+     "w": "rain",
+     "start": 22.346,
+     "end": 22.564
+    },
+    {
+     "w": "runs",
+     "start": 22.564,
+     "end": 22.782
+    },
+    {
+     "w": "off.",
+     "start": 22.782,
+     "end": 23.0
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.479,
+   "end": 27.031,
+   "text": "But desert wind keeps changing direction and throws sand in your face.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.619,
+     "end": 23.842
+    },
+    {
+     "w": "desert",
+     "start": 23.842,
+     "end": 24.231
+    },
+    {
+     "w": "wind",
+     "start": 24.231,
+     "end": 24.454
+    },
+    {
+     "w": "keeps",
+     "start": 24.454,
+     "end": 24.677
+    },
+    {
+     "w": "changing",
+     "start": 24.677,
+     "end": 25.066
+    },
+    {
+     "w": "direction",
+     "start": 25.066,
+     "end": 25.62
+    },
+    {
+     "w": "and",
+     "start": 25.62,
+     "end": 25.843
+    },
+    {
+     "w": "throws",
+     "start": 25.843,
+     "end": 26.066
+    },
+    {
+     "w": "sand",
+     "start": 26.066,
+     "end": 26.289
+    },
+    {
+     "w": "in",
+     "start": 26.289,
+     "end": 26.513
+    },
+    {
+     "w": "your",
+     "start": 26.513,
+     "end": 26.736
+    },
+    {
+     "w": "face.",
+     "start": 26.736,
+     "end": 26.959
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.396,
+   "end": 31.688,
+   "text": "So the walls are loose panels on pins. Drop them on the windy side, and open the other.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.506,
+     "end": 27.702
+    },
+    {
+     "w": "the",
+     "start": 27.702,
+     "end": 27.897
+    },
+    {
+     "w": "walls",
+     "start": 27.897,
+     "end": 28.093
+    },
+    {
+     "w": "are",
+     "start": 28.093,
+     "end": 28.288
+    },
+    {
+     "w": "loose",
+     "start": 28.288,
+     "end": 28.484
+    },
+    {
+     "w": "panels",
+     "start": 28.484,
+     "end": 28.824
+    },
+    {
+     "w": "on",
+     "start": 28.824,
+     "end": 29.02
+    },
+    {
+     "w": "pins.",
+     "start": 29.02,
+     "end": 29.216
+    },
+    {
+     "w": "Drop",
+     "start": 29.216,
+     "end": 29.411
+    },
+    {
+     "w": "them",
+     "start": 29.411,
+     "end": 29.607
+    },
+    {
+     "w": "on",
+     "start": 29.607,
+     "end": 29.802
+    },
+    {
+     "w": "the",
+     "start": 29.802,
+     "end": 29.998
+    },
+    {
+     "w": "windy",
+     "start": 29.998,
+     "end": 30.338
+    },
+    {
+     "w": "side,",
+     "start": 30.338,
+     "end": 30.534
+    },
+    {
+     "w": "and",
+     "start": 30.534,
+     "end": 30.729
+    },
+    {
+     "w": "open",
+     "start": 30.729,
+     "end": 31.07
+    },
+    {
+     "w": "the",
+     "start": 31.07,
+     "end": 31.266
+    },
+    {
+     "w": "other.",
+     "start": 31.266,
+     "end": 31.606
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.052,
+   "end": 34.823,
+   "text": "But the family moves with its herds, again and again.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.192,
+     "end": 32.374
+    },
+    {
+     "w": "the",
+     "start": 32.374,
+     "end": 32.556
+    },
+    {
+     "w": "family",
+     "start": 32.556,
+     "end": 33.008
+    },
+    {
+     "w": "moves",
+     "start": 33.008,
+     "end": 33.325
+    },
+    {
+     "w": "with",
+     "start": 33.325,
+     "end": 33.508
+    },
+    {
+     "w": "its",
+     "start": 33.508,
+     "end": 33.69
+    },
+    {
+     "w": "herds,",
+     "start": 33.69,
+     "end": 33.872
+    },
+    {
+     "w": "again",
+     "start": 34.002,
+     "end": 34.286
+    },
+    {
+     "w": "and",
+     "start": 34.286,
+     "end": 34.448
+    },
+    {
+     "w": "again.",
+     "start": 34.448,
+     "end": 34.732
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.188,
+   "end": 39.344,
+   "text": "So the whole house is just woven strips, poles and ropes, and it packs onto a camel.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.298,
+     "end": 35.491
+    },
+    {
+     "w": "the",
+     "start": 35.491,
+     "end": 35.683
+    },
+    {
+     "w": "whole",
+     "start": 35.683,
+     "end": 35.876
+    },
+    {
+     "w": "house",
+     "start": 35.876,
+     "end": 36.069
+    },
+    {
+     "w": "is",
+     "start": 36.069,
+     "end": 36.262
+    },
+    {
+     "w": "just",
+     "start": 36.262,
+     "end": 36.454
+    },
+    {
+     "w": "woven",
+     "start": 36.454,
+     "end": 36.79
+    },
+    {
+     "w": "strips,",
+     "start": 36.79,
+     "end": 36.983
+    },
+    {
+     "w": "poles",
+     "start": 36.983,
+     "end": 37.318
+    },
+    {
+     "w": "and",
+     "start": 37.318,
+     "end": 37.511
+    },
+    {
+     "w": "ropes,",
+     "start": 37.511,
+     "end": 37.846
+    },
+    {
+     "w": "and",
+     "start": 37.846,
+     "end": 38.039
+    },
+    {
+     "w": "it",
+     "start": 38.039,
+     "end": 38.232
+    },
+    {
+     "w": "packs",
+     "start": 38.232,
+     "end": 38.424
+    },
+    {
+     "w": "onto",
+     "start": 38.424,
+     "end": 38.76
+    },
+    {
+     "w": "a",
+     "start": 38.76,
+     "end": 38.953
+    },
+    {
+     "w": "camel.",
+     "start": 38.953,
+     "end": 39.288
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 39.708,
+   "end": 43.396,
+   "text": "But before you pack up, follow, because next we're building a washing machine.",
+   "words": [
+    {
+     "w": "But",
+     "start": 39.848,
+     "end": 40.022
+    },
+    {
+     "w": "before",
+     "start": 40.022,
+     "end": 40.325
+    },
+    {
+     "w": "you",
+     "start": 40.325,
+     "end": 40.5
+    },
+    {
+     "w": "pack",
+     "start": 40.5,
+     "end": 40.674
+    },
+    {
+     "w": "up,",
+     "start": 40.674,
+     "end": 40.848
+    },
+    {
+     "w": "follow,",
+     "start": 41.018,
+     "end": 41.358
+    },
+    {
+     "w": "because",
+     "start": 41.488,
+     "end": 41.806
+    },
+    {
+     "w": "next",
+     "start": 41.806,
+     "end": 41.989
+    },
+    {
+     "w": "we're",
+     "start": 41.989,
+     "end": 42.171
+    },
+    {
+     "w": "building",
+     "start": 42.171,
+     "end": 42.489
+    },
+    {
+     "w": "a",
+     "start": 42.489,
+     "end": 42.672
+    },
+    {
+     "w": "washing",
+     "start": 42.672,
+     "end": 42.99
+    },
+    {
+     "w": "machine.",
+     "start": 42.99,
+     "end": 43.308
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 43.76,
+   "end": 50.615,
+   "text": "Now the story: women weave every strip by hand on a loom on the ground, and a curtain splits the tent into the guests' side and the family's.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 43.86,
+     "end": 44.066
+    },
+    {
+     "w": "the",
+     "start": 44.066,
+     "end": 44.272
+    },
+    {
+     "w": "story:",
+     "start": 44.272,
+     "end": 44.63
+    },
+    {
+     "w": "women",
+     "start": 44.81,
+     "end": 45.138
+    },
+    {
+     "w": "weave",
+     "start": 45.138,
+     "end": 45.326
+    },
+    {
+     "w": "every",
+     "start": 45.326,
+     "end": 45.794
+    },
+    {
+     "w": "strip",
+     "start": 45.794,
+     "end": 45.982
+    },
+    {
+     "w": "by",
+     "start": 45.982,
+     "end": 46.171
+    },
+    {
+     "w": "hand",
+     "start": 46.171,
+     "end": 46.359
+    },
+    {
+     "w": "on",
+     "start": 46.359,
+     "end": 46.548
+    },
+    {
+     "w": "a",
+     "start": 46.548,
+     "end": 46.736
+    },
+    {
+     "w": "loom",
+     "start": 46.736,
+     "end": 46.925
+    },
+    {
+     "w": "on",
+     "start": 46.925,
+     "end": 47.113
+    },
+    {
+     "w": "the",
+     "start": 47.113,
+     "end": 47.302
+    },
+    {
+     "w": "ground,",
+     "start": 47.302,
+     "end": 47.49
+    },
+    {
+     "w": "and",
+     "start": 47.62,
+     "end": 47.804
+    },
+    {
+     "w": "a",
+     "start": 47.804,
+     "end": 47.987
+    },
+    {
+     "w": "curtain",
+     "start": 47.987,
+     "end": 48.307
+    },
+    {
+     "w": "splits",
+     "start": 48.307,
+     "end": 48.49
+    },
+    {
+     "w": "the",
+     "start": 48.49,
+     "end": 48.674
+    },
+    {
+     "w": "tent",
+     "start": 48.674,
+     "end": 48.857
+    },
+    {
+     "w": "into",
+     "start": 48.857,
+     "end": 49.177
+    },
+    {
+     "w": "the",
+     "start": 49.177,
+     "end": 49.36
+    },
+    {
+     "w": "guests'",
+     "start": 49.36,
+     "end": 49.544
+    },
+    {
+     "w": "side",
+     "start": 49.544,
+     "end": 49.727
+    },
+    {
+     "w": "and",
+     "start": 49.727,
+     "end": 49.911
+    },
+    {
+     "w": "the",
+     "start": 49.911,
+     "end": 50.095
+    },
+    {
+     "w": "family's.",
+     "start": 50.095,
+     "end": 50.55
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 50.979,
+   "end": 55.021,
+   "text": "Zero nails, zero bricks, and thousands of years of desert storms.",
+   "words": [
+    {
+     "w": "Zero",
+     "start": 51.069,
+     "end": 51.596
+    },
+    {
+     "w": "nails,",
+     "start": 51.596,
+     "end": 51.899
+    },
+    {
+     "w": "zero",
+     "start": 52.039,
+     "end": 52.541
+    },
+    {
+     "w": "bricks,",
+     "start": 52.541,
+     "end": 52.829
+    },
+    {
+     "w": "and",
+     "start": 52.989,
+     "end": 53.221
+    },
+    {
+     "w": "thousands",
+     "start": 53.221,
+     "end": 53.626
+    },
+    {
+     "w": "of",
+     "start": 53.626,
+     "end": 53.858
+    },
+    {
+     "w": "years",
+     "start": 53.858,
+     "end": 54.09
+    },
+    {
+     "w": "of",
+     "start": 54.09,
+     "end": 54.322
+    },
+    {
+     "w": "desert",
+     "start": 54.322,
+     "end": 54.727
+    },
+    {
+     "w": "storms.",
+     "start": 54.727,
+     "end": 54.959
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.385,
+   "end": 58.115,
+   "text": "And congrats, you just built a Bedouin tent yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 55.505,
+     "end": 55.764
+    },
+    {
+     "w": "congrats,",
+     "start": 55.764,
+     "end": 56.215
+    },
+    {
+     "w": "you",
+     "start": 56.355,
+     "end": 56.548
+    },
+    {
+     "w": "just",
+     "start": 56.548,
+     "end": 56.742
+    },
+    {
+     "w": "built",
+     "start": 56.742,
+     "end": 56.935
+    },
+    {
+     "w": "a",
+     "start": 56.935,
+     "end": 57.128
+    },
+    {
+     "w": "Bedouin",
+     "start": 57.128,
+     "end": 57.465
+    },
+    {
+     "w": "tent",
+     "start": 57.465,
+     "end": 57.658
+    },
+    {
+     "w": "yourself.",
+     "start": 57.658,
+     "end": 57.995
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 58.479,
+   "end": 63.396,
+   "text": "It keeps out desert storms with goat hair, and your umbrella flips inside out at the first breeze.",
+   "words": [
+    {
+     "w": "It",
+     "start": 58.619,
+     "end": 58.843
+    },
+    {
+     "w": "keeps",
+     "start": 58.843,
+     "end": 59.066
+    },
+    {
+     "w": "out",
+     "start": 59.066,
+     "end": 59.29
+    },
+    {
+     "w": "desert",
+     "start": 59.29,
+     "end": 59.68
+    },
+    {
+     "w": "storms",
+     "start": 59.68,
+     "end": 59.903
+    },
+    {
+     "w": "with",
+     "start": 59.903,
+     "end": 60.127
+    },
+    {
+     "w": "goat",
+     "start": 60.127,
+     "end": 60.351
+    },
+    {
+     "w": "hair,",
+     "start": 60.351,
+     "end": 60.575
+    },
+    {
+     "w": "and",
+     "start": 60.575,
+     "end": 60.798
+    },
+    {
+     "w": "your",
+     "start": 60.798,
+     "end": 61.022
+    },
+    {
+     "w": "umbrella",
+     "start": 61.022,
+     "end": 61.577
+    },
+    {
+     "w": "flips",
+     "start": 61.577,
+     "end": 61.801
+    },
+    {
+     "w": "inside",
+     "start": 61.801,
+     "end": 62.19
+    },
+    {
+     "w": "out",
+     "start": 62.19,
+     "end": 62.414
+    },
+    {
+     "w": "at",
+     "start": 62.414,
+     "end": 62.638
+    },
+    {
+     "w": "the",
+     "start": 62.638,
+     "end": 62.862
+    },
+    {
+     "w": "first",
+     "start": 62.862,
+     "end": 63.085
+    },
+    {
+     "w": "breeze.",
+     "start": 63.085,
+     "end": 63.309
+    }
+   ]
+  }
+ ]
+}
