@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-22T07:35:11+00:00
+# Yallah Say Buffer channels, checked 2026-11-23T21:35:39+00:00
 
 - ma: Buffer sees youtube (Yallah Say 🇲🇦), tiktok (yallah.say), instagram (yallahsayma)
 - ma.youtube: will post to Yallah Say 🇲🇦
@@ -12,6 +12,20 @@
 - ep03 ma.instagram: sent, sent 2026-11-22T07:30:54.948Z, https://www.instagram.com/reel/DgCROzSjjch/
 - ep03 ma.tiktok: sent, sent 2026-11-22T07:27:56.378Z, https://tiktok.com/@yallah.say/video/7710893842702060813
 - ep03 ma.youtube: sent, sent 2026-11-22T07:26:16.627Z, https://www.youtube.com/shorts/Qu5omoUzjFA
+- ep04 ma.instagram: sent, sent 2026-11-22T20:09:15.764Z, https://www.instagram.com/reel/DgDoM6qlK9X/
+- ep04 ma.tiktok: sent, sent 2026-11-22T20:11:11.524Z, https://tiktok.com/@yallah.say/video/7711090421543324942
+- ep05 ma.instagram: sent, sent 2026-11-22T20:26:14.234Z, https://www.instagram.com/reel/DgDqJW1GQRJ/
+- ep05 ma.tiktok: sent, sent 2026-11-22T20:29:11.473Z, https://tiktok.com/@yallah.say/video/7711095081670888735
+- ep06 ma.instagram: sent, sent 2026-11-22T20:48:42.685Z, https://www.instagram.com/reel/DgDsuCxFebd/
+- ep06 ma.tiktok: sent, sent 2026-11-22T20:47:56.711Z, https://tiktok.com/@yallah.say/video/7711099954361601294
+- ep07 ma.youtube: sent, sent 2026-11-23T14:36:08.126Z, https://www.youtube.com/shorts/zDsbUPxflAg
+- ep07 ma.instagram: sent, sent 2026-11-23T14:37:12.543Z, https://www.instagram.com/reel/DgFm17_Eevh/
+- ep07 ma.tiktok: sent, sent 2026-11-23T14:34:12.750Z, https://tiktok.com/@yallah.say/video/7711374902502165774
+- ep08 ma.instagram: scheduled, due 2026-11-23T21:38:39.000Z
+- ep08 ma.tiktok: scheduled, due 2026-11-23T21:37:56.000Z
+- ep09 ma.youtube: scheduled, due 2026-11-23T22:21:37.000Z
+- ep09 ma.instagram: scheduled, due 2026-11-23T22:21:33.000Z
+- ep09 ma.tiktok: scheduled, due 2026-11-23T22:22:42.000Z
 - pa: Buffer sees youtube (Yalla Say 🇵🇸), tiktok (yallahsaypa), instagram (yallahsaypa)
 - pa.youtube: will post to Yalla Say 🇵🇸
 - pa.instagram: will post to yallahsaypa
@@ -24,3 +38,18 @@
 - ep02 pa.youtube: sent, sent 2026-11-22T07:01:05.846Z, https://www.youtube.com/shorts/i-OiNOF_OeY
 - ep03 pa.instagram: sent, sent 2026-11-22T07:29:56.295Z, https://www.instagram.com/reel/DgCRT4nRUBj/
 - ep03 pa.tiktok: sent, sent 2026-11-22T07:29:11.475Z, https://tiktok.com/@yallahsaypa/video/7710894216800390413
+- ep03 pa.youtube: error, due 2026-11-22T20:07:48.000Z, ERROR {'message': 'The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later.', 'rawError': "Looks like you've hit the limit of 2 posts per 24 hours.", 'support
+- ep04 pa.instagram: sent, sent 2026-11-22T20:09:42.541Z, https://www.instagram.com/reel/DgDoQmAzNm9/
+- ep04 pa.tiktok: sent, sent 2026-11-22T20:11:11.581Z, https://tiktok.com/@yallahsaypa/video/7711090433471892749
+- ep05 pa.instagram: sent, sent 2026-11-22T20:26:26.116Z, https://www.instagram.com/reel/DgDqLKeN4wB/
+- ep05 pa.tiktok: sent, sent 2026-11-22T20:28:26.449Z, https://tiktok.com/@yallahsaypa/video/7711094933020544269
+- ep06 pa.instagram: sent, sent 2026-11-22T20:49:13.798Z, https://www.instagram.com/reel/DgDsp9gsJB_/
+- ep06 pa.tiktok: sent, sent 2026-11-22T20:47:42.887Z, https://tiktok.com/@yallahsaypa/video/7711099885348572429
+- ep07 pa.youtube: sent, sent 2026-11-23T14:34:17.201Z, https://www.youtube.com/shorts/T7WN8whdSNM
+- ep07 pa.instagram: sent, sent 2026-11-23T14:35:26.019Z, https://www.instagram.com/reel/DgFmzXSBvEc/
+- ep07 pa.tiktok: sent, sent 2026-11-23T14:34:57.177Z, https://tiktok.com/@yallahsaypa/video/7711375034702449933
+- ep08 pa.instagram: scheduled, due 2026-11-23T21:37:19.000Z
+- ep08 pa.tiktok: scheduled, due 2026-11-23T21:36:43.000Z
+- ep09 pa.youtube: scheduled, due 2026-11-23T22:22:25.000Z
+- ep09 pa.instagram: scheduled, due 2026-11-23T22:22:34.000Z
+- ep09 pa.tiktok: scheduled, due 2026-11-23T22:20:51.000Z
