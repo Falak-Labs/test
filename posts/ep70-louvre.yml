@@ -1,0 +1,33 @@
+episode: 70
+date: 2026-11-24
+video:
+  en: media/ep70-louvre-en.mp4
+  ar: media/ep70-louvre-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-24T14:00:00Z"    # 06:00 PT Tue Nov 24
+  title: "Louvre Abu Dhabi: The Dome That Rains Light 🇦🇪"
+  text: |
+    A steel dome as heavy as the Eiffel Tower, floating over a museum on the sea. ☀️
+    It is 180 m wide and made of 7,850 metal stars in eight layers, so the sun falls through in little spots, like light through palm leaves: a "rain of light". It rests on just four legs hidden inside the buildings, and the basements sit below the sea, sealed like a giant bathtub. Architect Jean Nouvel laid the 55 white buildings out like an old Arab town.
+    Would you go for the dome or for the art? 👇
+  next: "a vacuum cleaner 🌪️"
+  seo: "How the Louvre Abu Dhabi's dome works: the museum on Saadiyat Island in Abu Dhabi, designed by the French architect Jean Nouvel and opened in November 2017, sits under a dome 180 m wide that weighs about 7,500 tonnes, about as much as the Eiffel Tower. The dome is built of eight layers, four outer layers of stainless steel and four inner layers of aluminium, made of 7,850 star-shaped pieces in a geometric pattern. Sunlight passes through the layers in small spots that drift across the floor through the day, an effect called the 'rain of light', inspired by the sun falling through the woven palm leaves once used for roofs in the region. The dome rests on only four supports hidden inside the museum's buildings, so it seems to float, and its shade and the sea breeze make the plaza under it much cooler than the open sun. Below it, 55 white buildings, 23 of them galleries, are laid out like a medina, an old Arab town with narrow lanes and water channels. The museum sits on the sea: it was built on a dry site below sea level, its basements were sealed with waterproofing like a giant tub, and in 2016 the sea was let in around it."
+  tags:
+    tiktok: "#louvreabudhabi #abudhabi #architecture #engineering #learnontiktok"
+    instagram: "#louvreabudhabi #abudhabi #architecture #engineering #jeannouvel"
+    youtube: "#louvreabudhabi #abudhabi #engineering"
+ar:
+  at: "2026-11-24T08:00:00Z"    # 00:00 PT Tue Nov 24 = 11 am Riyadh
+  title: "متحف اللوفر أبوظبي: قبة تمطر نور 🇦🇪"
+  text: |
+    قبة حديد بوزن برج إيفل، طايرة فوق متحف على البحر! ☀️
+    عرضها مية وثمانين متر، ومسوية من سبعة آلاف وثمنمية وخمسين نجمة حديد في ثمان طبقات، والشمس تنزل منها نقط نور مثل الشمس بين سعف النخل. قاعدة على أربع رجول بس مخبّاة داخل المباني، والقبو تحت مستوى البحر معزول مثل بانيو عملاق. والمعماري جان نوفيل رتّب المعارض مثل حارة عربية قديمة.
+    رحت له قبل؟ ولا تبي تروح؟ 👇
+  next: "مكنسة كهربا 🌪️"
+  seo: "كيف قبة متحف اللوفر أبوظبي تشتغل: المتحف في جزيرة السعديات في أبوظبي، صممه المعماري الفرنسي جان نوفيل، وانفتح في نوفمبر سنة ألفين وسبعطعش. فوقه قبة عرضها مية وثمانين متر، ووزنها حوالي سبعة آلاف وخمسمية طن، تقريبا وزن برج إيفل. القبة مبنية من ثمان طبقات، أربع برا من حديد ما يصدي وأربع داخل من ألمنيوم، وفيها سبعة آلاف وثمنمية وخمسين قطعة على شكل نجمة. والشمس تعدي من الطبقات وتنزل نقط نور تتحرك على الأرض طول اليوم، وهذا اللي يسمونه مطر النور، والفكرة مأخوذة من الشمس اللي تنزل من بين سعف النخل اللي كانوا يسقفون فيه بيوتهم زمان. والقبة قاعدة على أربع رجول بس مخبّاة داخل مباني المتحف، عشان تبين كأنها طايرة، وظلها مع هوا البحر يخلي الساحة تحتها أبرد بكثير من الشمس برا. وتحتها خمسة وخمسين مبنى أبيض، منها ثلاثة وعشرين صالة عرض، مرتبة مثل حارة عربية قديمة بسكيك ضيقة ومجاري موية. والمتحف على البحر: انبنى في أرض ناشفة تحت مستوى البحر، والقبو انعزل بطبقات عزل مثل بانيو عملاق، وفي ألفين وستطعش دخّلوا البحر حوله."
+  tags:
+    tiktok: "#اللوفر_أبوظبي #أبوظبي #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#اللوفر_أبوظبي #أبوظبي #هندسة #السعودية #معلومات"
+    youtube: "#اللوفر_أبوظبي #هندسة #معلومات"
