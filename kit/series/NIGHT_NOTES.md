@@ -1607,3 +1607,7 @@ Verified: true worked: all 10 Studio uploads for Nov 23 went through with no dai
   Arabic TikToks of 68 and 69 (queue full): 68's added at 04:34Z by a post.yml dispatch after 49 left at 04:30Z (12:30 PT
   slot), 69's by the
   11:20Z check-in (send_later trig_014RdivAr2wbjiU92Wt1axfA, which also requeues 60's Arabic TikTok to 01:30Z Nov 26).
+- Check-in Mon Nov 23 03:20 PT (11:20Z): status 11:22Z: 49's Arabic TikTok went out at 04:31Z (its requeue), 64-65
+  Arabic all out; all 12 Instagram + TikTok targets of 67-69 scheduled on Mon Nov 23 PT after post.yml added 69's Arabic
+  TikTok (15:00 PT); 60's Arabic TikTok requeued to 01:30Z Nov 26 (17:30 PT Wed Nov 25): queue 10 of 10 again. Still in
+  error: 37, 48, 56, 62 (next free 2-hour gaps 04:30Z Nov 26, then 01:30Z / 04:30Z Nov 27).
