@@ -4,10 +4,12 @@
    "id": "6b0358a8d864a01105f5fe60",
    "channel": "6b0287c28541f09ecb5f9e1b",
    "service": "instagram",
-   "status": "sending",
+   "status": "sent",
    "dueAt": "2026-11-23T05:42:57.000Z",
    "planned": "2026-11-22T21:40:00-08:00",
-   "created": "2026-11-22T21:03:32+00:00"
+   "created": "2026-11-22T21:03:32+00:00",
+   "sentAt": "2026-11-23T05:45:57.463Z",
+   "link": "https://www.instagram.com/reel/DgEp_UQxkYU/"
   }
  }
 }
