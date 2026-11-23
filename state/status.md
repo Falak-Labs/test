@@ -1,4 +1,4 @@
-# Post status 2026-11-22T23:57:10+00:00
+# Post status 2026-11-23T02:49:40+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -283,7 +283,7 @@
 | ep47-igloo | en.instagram | sent |  | 2026-11-20T16:33:29.870Z https://www.instagram.com/reel/Df-FznpQFmi/ |
 | ep47-igloo | en.tiktok | sent |  | 2026-11-20T16:33:08.692Z https://www.tiktok.com/@congratsengineer/video/7710292308058443022?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep48-riad | ar.instagram | sent |  | 2026-11-20T21:05:08.519Z https://www.instagram.com/reel/Df-k6Kro2ui/ |
-| ep48-riad | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T01:30:00.000Z |
+| ep48-riad | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T01:30:00.000Z |
 | ep48-riad | en.instagram | sent |  | 2026-11-20T19:05:12.557Z https://www.instagram.com/reel/Df-XNADPkRO/ |
 | ep48-riad | en.tiktok | sent |  | 2026-11-20T19:03:23.189Z https://tiktok.com/@congratsengineer/video/7710330949552147726 |
 | ep49-hagiasophia | ar.instagram | sent |  | 2026-11-20T17:05:53.535Z https://www.instagram.com/reel/Df-JiqchH_O/ |
@@ -350,12 +350,12 @@
 | ep61-pisa | en.youtube | sent |  | 2026-11-22T23:50:02.757Z https://www.youtube.com/shorts/QA33hM5A6gI |
 | ep62-tent | ar.instagram | sent |  | 2026-11-22T20:02:45.846Z https://www.instagram.com/reel/DgDndaSzUqa/ |
 | ep62-tent | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-22T20:30:00.000Z |
-| ep62-tent | en.instagram | scheduled |  | 2026-11-23T00:00:00.000Z |
-| ep62-tent | en.tiktok | scheduled |  | 2026-11-23T00:00:00.000Z |
+| ep62-tent | en.instagram | sent |  | 2026-11-23T00:02:11.061Z https://www.instagram.com/reel/DgEC1yVteyj/ |
+| ep62-tent | en.tiktok | sent |  | 2026-11-23T00:02:13.077Z https://tiktok.com/@congratsengineer/video/7711150220087676190 |
 | ep63-washer | ar.instagram | sent |  | 2026-11-22T23:02:13.267Z https://www.instagram.com/reel/DgD78NwykZf/ |
 | ep63-washer | ar.tiktok | sent |  | 2026-11-22T23:01:57.184Z https://tiktok.com/@kef.tenbeni/video/7711134589942598926 |
-| ep63-washer | en.instagram | scheduled |  | 2026-11-23T02:30:00.000Z |
-| ep63-washer | en.tiktok | scheduled |  | 2026-11-23T02:30:00.000Z |
+| ep63-washer | en.instagram | sent |  | 2026-11-23T02:31:32.683Z https://www.instagram.com/reel/DgET6ySSLrX/ |
+| ep63-washer | en.tiktok | sent |  | 2026-11-23T02:32:04.373Z https://tiktok.com/@congratsengineer/video/7711188652017126670 |
 | ep64-bigben | ar.instagram | scheduled |  | 2026-11-23T08:00:00.000Z |
 | ep64-bigben | ar.tiktok | scheduled |  | 2026-11-23T08:00:00.000Z |
 | ep64-bigben | en.instagram | scheduled |  | 2026-11-23T14:00:00.000Z |
