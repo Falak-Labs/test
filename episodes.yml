@@ -69,3 +69,6 @@ episodes:
   - {slug: ep64-bigben, kit: bigben, look: 2}
   - {slug: ep65-shibam, kit: shibam, look: 2}
   - {slug: ep66-towerbridge, kit: towerbridge, look: 2}
+  - {slug: ep67-colosseum, kit: colosseum, look: 2}
+  - {slug: ep68-taipei, kit: taipei, look: 2}
+  - {slug: ep69-dishwasher, kit: dishwasher, look: 2}
