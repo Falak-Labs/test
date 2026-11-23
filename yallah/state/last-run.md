@@ -1,16 +1,22 @@
-# Last Yallah Say posting run 2026-11-23T21:32:04+00:00
+# Last Yallah Say posting run 2026-11-23T22:22:19+00:00
 
 - ma: Buffer channels: youtube (Yallah Say 🇲🇦), tiktok (yallah.say), instagram (yallahsayma)
-- ep08 ma.instagram: handed to Buffer, goes out Mon 23 Nov 21:38 (id 6b04b0d5c0a1a00006e33aab)
-- ep08 ma.tiktok: handed to Buffer, goes out Mon 23 Nov 21:37 (id 6b04b0d6f72f10e188347a6f)
+- ep10 ma.youtube: handed to Buffer, goes out Tue 24 Nov 13:02 (id 6b04bc9c07fee37ee60827c4)
+- ep10 ma.instagram: handed to Buffer, goes out Tue 24 Nov 13:02 (id 6b04bc9cc0a1a00006e80ace)
+- ep10 ma.tiktok: handed to Buffer, goes out Tue 24 Nov 13:00 (id 6b04bc9d18db0405bdaba8e3)
 - pa: Buffer channels: youtube (Yalla Say 🇵🇸), tiktok (yallahsaypa), instagram (yallahsaypa)
-- ep08 pa.instagram: handed to Buffer, goes out Mon 23 Nov 23:37 (id 6b04b0d7c0a1a00006e33bbc)
-- ep08 pa.tiktok: handed to Buffer, goes out Mon 23 Nov 23:36 (id 6b04b0d758d65b8ef8cdb6d9)
-- ep09 ma.youtube: handed to Buffer, goes out Mon 23 Nov 22:21 (id 6b04b0d8c0a1a00006e33c17)
-- ep09 ma.instagram: handed to Buffer, goes out Mon 23 Nov 22:21 (id 6b04b0d858d65b8ef8cdb72f)
-- ep09 ma.tiktok: handed to Buffer, goes out Mon 23 Nov 22:22 (id 6b04b0d98165ce395b9aeb8f)
-- ep09 pa.youtube: handed to Buffer, goes out Mon 23 Nov 22:22 (id 6b04b0da8165ce395b9aec05)
-- ep09 pa.instagram: handed to Buffer, goes out Mon 23 Nov 22:22 (id 6b04b0da18db0405bda6dc3a)
-- ep09 pa.tiktok: handed to Buffer, goes out Mon 23 Nov 22:20 (id 6b04b0da07fee37ee60344fc)
-- ma: 7 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=143; t=897, "24h"; r=588; t=61027, "30d"; r=2927; t=2431055; ratelimit-policy="15m"; q=1
-- pa: 7 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=143; t=896, "24h"; r=588; t=61028, "30d"; r=2926; t=2431054; ratelimit-policy="15m"; q=1
+- ep10 pa.youtube: handed to Buffer, goes out Tue 24 Nov 13:32 (id 6b04bc9e58d65b8ef8d26b26)
+- ep10 pa.instagram: handed to Buffer, goes out Tue 24 Nov 13:30 (id 6b04bc9ef72f10e188399d10)
+- ep10 pa.tiktok: handed to Buffer, goes out Tue 24 Nov 13:31 (id 6b04bc9f07fee37ee6082a5e)
+- ep11 ma.instagram: handed to Buffer, goes out Tue 24 Nov 18:31 (id 6b04bc9ff72f10e188399d71)
+- ep11 ma.tiktok: handed to Buffer, goes out Tue 24 Nov 18:31 (id 6b04bca018db0405bdabaad6)
+- ep11 pa.instagram: handed to Buffer, goes out Tue 24 Nov 18:01 (id 6b04bca0f72f10e188399def)
+- ep11 pa.tiktok: handed to Buffer, goes out Tue 24 Nov 18:02 (id 6b04bca118db0405bdabab30)
+- ep12 ma.youtube: handed to Buffer, goes out Tue 24 Nov 21:30 (id 6b04bca258d65b8ef8d26bab)
+- ep12 ma.instagram: handed to Buffer, goes out Tue 24 Nov 21:32 (id 6b04bca2c0a1a00006e80f5e)
+- ep12 ma.tiktok: handed to Buffer, goes out Tue 24 Nov 21:31 (id 6b04bca258d65b8ef8d26be7)
+- ep12 pa.youtube: handed to Buffer, goes out Tue 24 Nov 21:00 (id 6b04bca3f72f10e188399ea4)
+- ep12 pa.instagram: handed to Buffer, goes out Tue 24 Nov 21:02 (id 6b04bca307fee37ee6082b7e)
+- ep12 pa.tiktok: handed to Buffer, goes out Tue 24 Nov 21:01 (id 6b04bca407fee37ee6082ba9)
+- ma: 10 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=140; t=893, "24h"; r=574; t=58010, "30d"; r=2913; t=2428037; ratelimit-policy="15m"; q=1
+- pa: 10 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=140; t=894, "24h"; r=574; t=58010, "30d"; r=2912; t=2428036; ratelimit-policy="15m"; q=1
