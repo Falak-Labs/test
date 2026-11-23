@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-23T16:32:34+00:00
+# Yallah Say Buffer channels, checked 2026-11-23T16:35:57+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -7,21 +7,25 @@
 - ep01-en-yt en.youtube: scheduled, due 2026-11-24T00:10:55.000Z
 - ep01-en en.instagram: sent, sent 2026-11-23T01:04:41.839Z, https://www.instagram.com/reel/DgEKAIUpN1I/
 - ep01-en en.tiktok: sent, sent 2026-11-23T01:04:25.012Z, https://tiktok.com/@thedarktoldme/video/7711166052100492558
+- ep02-en-yt en.youtube: scheduled, due 2026-11-25T19:02:42.000Z
 - ep02-en en.instagram: sent, sent 2026-11-22T22:44:00.496Z, https://www.instagram.com/reel/DgD5su3sm1H/
 - ep02-en en.tiktok: sent, sent 2026-11-22T22:42:30.756Z, https://tiktok.com/@thedarktoldme/video/7711129451064577293
 - ep03-en en.instagram: sent, sent 2026-11-22T16:54:57.289Z, https://www.instagram.com/reel/DgDRwoQB-nv/
 - ep03-en en.tiktok: sent, sent 2026-11-22T16:53:30.939Z, https://tiktok.com/@thedarktoldme/video/7711039488847383822
 - ep04-en-tt en.tiktok: sent, sent 2026-11-23T11:28:15.861Z, https://tiktok.com/@thedarktoldme/video/7711326541375917325
 - ep04-en en.instagram: sent, sent 2026-11-23T04:35:27.227Z, https://www.instagram.com/reel/DgEh-VEhTMZ/
+- ep05-en-yt en.youtube: scheduled, due 2026-11-24T18:42:23.000Z
 - ep05-en en.instagram: sent, sent 2026-11-22T21:35:39.475Z, https://www.instagram.com/reel/DgDx8qYKKqL/
 - ep05-en en.tiktok: sent, sent 2026-11-22T21:32:20.638Z, https://tiktok.com/@thedarktoldme/video/7711111354370870541
 - ep06-en en.instagram: sent, sent 2026-11-22T15:43:43.359Z, https://www.instagram.com/reel/DgDJmfIB0cM/
 - ep06-en en.tiktok: sent, sent 2026-11-22T15:44:00.919Z, https://tiktok.com/@thedarktoldme/video/7711021566192143630
+- ep07-en-yt en.youtube: scheduled, due 2026-11-26T00:51:47.000Z
 - ep07-en en.instagram: sent, sent 2026-11-22T19:13:27.620Z, https://www.instagram.com/reel/DgDh1chhXnm/
 - ep07-en en.tiktok: sent, sent 2026-11-22T19:14:08.239Z, https://tiktok.com/@thedarktoldme/video/7711075826048961805
 - ep08-en en.instagram: sent, sent 2026-11-22T09:53:11.729Z, https://www.instagram.com/reel/DgChfnfB_N7/
 - ep08-en en.tiktok: sent, sent 2026-11-22T09:54:15.380Z, https://tiktok.com/@thedarktoldme/video/7710931250768252173
 - ep09-en-tt en.tiktok: sent, sent 2026-11-23T07:47:46.684Z, https://tiktok.com/@thedarktoldme/video/7711269798449040671
+- ep09-en-yt en.youtube: scheduled, due 2026-11-25T00:30:51.000Z
 - ep09-en en.instagram: sent, sent 2026-11-23T02:13:41.832Z, https://www.instagram.com/reel/DgERsyVNKnR/
 - ep10-en en.instagram: sent, sent 2026-11-22T07:22:56.953Z, https://www.instagram.com/reel/DgCQhYXvdZq/
 - ep10-en en.tiktok: sent, sent 2026-11-22T07:22:15.515Z, https://tiktok.com/@thedarktoldme/video/7710892351392091423
@@ -35,9 +39,11 @@
 - ep16-en en.tiktok: sent, sent 2026-11-22T12:11:31.179Z, https://tiktok.com/@thedarktoldme/video/7710966807842098446
 - ep17-en en.instagram: sent, sent 2026-11-22T11:05:30.619Z, https://www.instagram.com/reel/DgCp9zhi913/
 - ep17-en en.tiktok: sent, sent 2026-11-22T11:04:55.655Z, https://tiktok.com/@thedarktoldme/video/7710949626613910798
+- ep18-en-yt en.youtube: scheduled, due 2026-11-27T01:11:08.000Z
 - ep18-en en.instagram: sent, sent 2026-11-22T14:34:55.031Z, https://www.instagram.com/reel/DgDBvEkhJA5/
 - ep18-en en.tiktok: sent, sent 2026-11-22T14:33:47.494Z, https://tiktok.com/@thedarktoldme/video/7711003458450607373
 - ep19-en-tt en.tiktok: sent, sent 2026-11-23T12:37:00.853Z, https://tiktok.com/@thedarktoldme/video/7711344370250697997
+- ep19-en-yt en.youtube: scheduled, due 2026-11-26T19:21:02.000Z
 - ep19-en en.instagram: sent, sent 2026-11-23T05:45:57.463Z, https://www.instagram.com/reel/DgEp_UQxkYU/
 - ep20-en en.instagram: sent, sent 2026-11-22T13:23:13.839Z, https://www.instagram.com/reel/DgC5hQVta80/
 - ep20-en en.tiktok: sent, sent 2026-11-22T13:23:25.560Z, https://tiktok.com/@thedarktoldme/video/7710985230219365645
@@ -50,6 +56,7 @@
 - ar.youtube: will post to The Dark Told Me AR
 - ar.instagram: will post to thedarktoldmear
 - ar.tiktok: will post to thedarktoldmear
+- ep01-ar-yt ar.youtube: scheduled, due 2026-11-24T17:55:02.000Z
 - ep01-ar ar.instagram: sent, sent 2026-11-22T21:59:12.457Z, https://www.instagram.com/reel/DgD0me7Emz8/
 - ep01-ar ar.tiktok: sent, sent 2026-11-22T21:59:31.078Z, https://tiktok.com/@thedarktoldmear/video/7711118376202013966
 - ep02-ar-tt ar.tiktok: sent, sent 2026-11-23T08:04:18.563Z, https://tiktok.com/@thedarktoldmear/video/7711274318868532493
@@ -61,6 +68,7 @@
 - ep04-ar-yt ar.youtube: scheduled, due 2026-11-23T17:35:31.000Z
 - ep04-ar ar.instagram: error, due 2026-11-22T18:27:36.000Z, ERROR {'message': 'It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.', 'rawError': 'Failed to create media container for instagram: Unable to get media container stat
 - ep04-ar ar.tiktok: sent, sent 2026-11-22T18:29:01.268Z, https://tiktok.com/@thedarktoldmear/video/7711064127862607118
+- ep05-ar-yt ar.youtube: scheduled, due 2026-11-26T20:56:18.000Z
 - ep05-ar ar.instagram: sent, sent 2026-11-23T00:20:10.984Z, https://www.instagram.com/reel/DgEExDuDJ4j/
 - ep05-ar ar.tiktok: sent, sent 2026-11-23T00:17:15.576Z, https://tiktok.com/@thedarktoldmear/video/7711153865902607630
 - ep06-ar-tt ar.tiktok: sent, sent 2026-11-23T10:44:30.244Z, https://tiktok.com/@thedarktoldmear/video/7711315188099616013
@@ -69,13 +77,16 @@
 - ep07-ar ar.instagram: sent, sent 2026-11-23T04:57:40.564Z, https://www.instagram.com/reel/DgEksZMDSe-/
 - ep08-ar-tt ar.tiktok: sent, sent 2026-11-23T13:07:06.880Z, https://tiktok.com/@thedarktoldmear/video/7711352283274988813
 - ep08-ar ar.instagram: sent, sent 2026-11-23T06:07:42.098Z, https://www.instagram.com/reel/DgEstcogkwe/
+- ep09-ar-yt ar.youtube: scheduled, due 2026-11-26T18:36:43.000Z
 - ep09-ar ar.instagram: sent, sent 2026-11-23T01:29:13.933Z, https://www.instagram.com/reel/DgEMpKdCTg_/
 - ep09-ar ar.tiktok: sent, sent 2026-11-23T01:29:15.776Z, https://tiktok.com/@thedarktoldmear/video/7711172423797853454
 - ep10-ar-yt ar.youtube: scheduled, due 2026-11-23T19:57:21.000Z
 - ep10-ar ar.instagram: sent, sent 2026-11-22T20:50:11.450Z, https://www.instagram.com/reel/DgDswgmE0TJ/
 - ep10-ar ar.tiktok: sent, sent 2026-11-22T20:47:30.457Z, https://tiktok.com/@thedarktoldmear/video/7711099811134475533
+- ep12-ar-yt ar.youtube: scheduled, due 2026-11-25T20:37:56.000Z
 - ep12-ar ar.instagram: sent, sent 2026-11-22T14:58:27.033Z, https://www.instagram.com/reel/DgDEa-EiW32/
 - ep12-ar ar.tiktok: sent, sent 2026-11-22T14:57:46.195Z, https://tiktok.com/@thedarktoldmear/video/7711009684114689294
+- ep15-ar-yt ar.youtube: scheduled, due 2026-11-24T20:16:30.000Z
 - ep15-ar ar.instagram: sent, sent 2026-11-22T16:09:11.979Z, https://www.instagram.com/reel/DgDMkptDrVO/
 - ep15-ar ar.tiktok: sent, sent 2026-11-22T16:09:17.091Z, https://tiktok.com/@thedarktoldmear/video/7711028070060281118
 - ep16-ar ar.instagram: sent, sent 2026-11-22T12:39:12.532Z, https://www.instagram.com/reel/DgC0fP9gPtF/
@@ -89,6 +100,7 @@
 - ep19-ar ar.youtube: sent, sent 2026-11-22T19:35:32.067Z, https://www.youtube.com/shorts/dU2bedryDWs
 - ep20-ar ar.instagram: sent, sent 2026-11-22T10:17:42.032Z, https://www.instagram.com/reel/DgCkhV4E7qc/
 - ep20-ar ar.tiktok: sent, sent 2026-11-22T10:17:15.510Z, https://tiktok.com/@thedarktoldmear/video/7710937430831975694
+- ep21-ar-yt ar.youtube: scheduled, due 2026-11-25T18:17:58.000Z
 - ep21-ar ar.instagram: sent, sent 2026-11-22T07:31:58.731Z, https://www.instagram.com/reel/DgCRjZyIJg1/
 - ep21-ar ar.tiktok: sent, sent 2026-11-22T07:35:16.083Z, https://tiktok.com/@thedarktoldmear/video/7710895582579019022
 - sp01-ar ar.instagram: sent, sent 2026-11-22T23:07:58.643Z, https://www.instagram.com/reel/DgD8qnonC4r/
