@@ -1,0 +1,1252 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 64.23,
+ "words": 226,
+ "words_per_sec": 3.52,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.719,
+   "text": "If you hang a dome as heavy as the Eiffel Tower over the sea and let light rain through it, congrats, you just built the Louvre Abu Dhabi.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.309
+    },
+    {
+     "w": "you",
+     "start": 0.309,
+     "end": 0.489
+    },
+    {
+     "w": "hang",
+     "start": 0.489,
+     "end": 0.668
+    },
+    {
+     "w": "a",
+     "start": 0.668,
+     "end": 0.848
+    },
+    {
+     "w": "dome",
+     "start": 0.848,
+     "end": 1.027
+    },
+    {
+     "w": "as",
+     "start": 1.027,
+     "end": 1.207
+    },
+    {
+     "w": "heavy",
+     "start": 1.207,
+     "end": 1.519
+    },
+    {
+     "w": "as",
+     "start": 1.519,
+     "end": 1.698
+    },
+    {
+     "w": "the",
+     "start": 1.698,
+     "end": 1.878
+    },
+    {
+     "w": "Eiffel",
+     "start": 1.878,
+     "end": 2.19
+    },
+    {
+     "w": "Tower",
+     "start": 2.19,
+     "end": 2.502
+    },
+    {
+     "w": "over",
+     "start": 2.502,
+     "end": 2.815
+    },
+    {
+     "w": "the",
+     "start": 2.815,
+     "end": 2.994
+    },
+    {
+     "w": "sea",
+     "start": 2.994,
+     "end": 3.173
+    },
+    {
+     "w": "and",
+     "start": 3.173,
+     "end": 3.353
+    },
+    {
+     "w": "let",
+     "start": 3.353,
+     "end": 3.532
+    },
+    {
+     "w": "light",
+     "start": 3.532,
+     "end": 3.712
+    },
+    {
+     "w": "rain",
+     "start": 3.712,
+     "end": 3.891
+    },
+    {
+     "w": "through",
+     "start": 3.891,
+     "end": 4.071
+    },
+    {
+     "w": "it,",
+     "start": 4.071,
+     "end": 4.25
+    },
+    {
+     "w": "congrats,",
+     "start": 4.45,
+     "end": 4.85
+    },
+    {
+     "w": "you",
+     "start": 4.9,
+     "end": 5.108
+    },
+    {
+     "w": "just",
+     "start": 5.108,
+     "end": 5.315
+    },
+    {
+     "w": "built",
+     "start": 5.315,
+     "end": 5.523
+    },
+    {
+     "w": "the",
+     "start": 5.523,
+     "end": 5.73
+    },
+    {
+     "w": "Louvre",
+     "start": 5.73,
+     "end": 5.938
+    },
+    {
+     "w": "Abu",
+     "start": 5.938,
+     "end": 6.299
+    },
+    {
+     "w": "Dhabi.",
+     "start": 6.299,
+     "end": 6.66
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.083,
+   "end": 10.854,
+   "text": "But the Abu Dhabi sun turns a seaside plaza into a frying pan.",
+   "words": [
+    {
+     "w": "But",
+     "start": 7.223,
+     "end": 7.436
+    },
+    {
+     "w": "the",
+     "start": 7.436,
+     "end": 7.648
+    },
+    {
+     "w": "Abu",
+     "start": 7.648,
+     "end": 8.018
+    },
+    {
+     "w": "Dhabi",
+     "start": 8.018,
+     "end": 8.388
+    },
+    {
+     "w": "sun",
+     "start": 8.388,
+     "end": 8.6
+    },
+    {
+     "w": "turns",
+     "start": 8.6,
+     "end": 8.813
+    },
+    {
+     "w": "a",
+     "start": 8.813,
+     "end": 9.026
+    },
+    {
+     "w": "seaside",
+     "start": 9.026,
+     "end": 9.396
+    },
+    {
+     "w": "plaza",
+     "start": 9.396,
+     "end": 9.765
+    },
+    {
+     "w": "into",
+     "start": 9.765,
+     "end": 10.135
+    },
+    {
+     "w": "a",
+     "start": 10.135,
+     "end": 10.348
+    },
+    {
+     "w": "frying",
+     "start": 10.348,
+     "end": 10.56
+    },
+    {
+     "w": "pan.",
+     "start": 10.56,
+     "end": 10.773
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 11.219,
+   "end": 14.479,
+   "text": "So you shade it with one dome, a hundred and eighty meters wide.",
+   "words": [
+    {
+     "w": "So",
+     "start": 11.329,
+     "end": 11.523
+    },
+    {
+     "w": "you",
+     "start": 11.523,
+     "end": 11.718
+    },
+    {
+     "w": "shade",
+     "start": 11.718,
+     "end": 11.912
+    },
+    {
+     "w": "it",
+     "start": 11.912,
+     "end": 12.106
+    },
+    {
+     "w": "with",
+     "start": 12.106,
+     "end": 12.3
+    },
+    {
+     "w": "one",
+     "start": 12.3,
+     "end": 12.495
+    },
+    {
+     "w": "dome,",
+     "start": 12.495,
+     "end": 12.689
+    },
+    {
+     "w": "a",
+     "start": 12.839,
+     "end": 13.025
+    },
+    {
+     "w": "hundred",
+     "start": 13.025,
+     "end": 13.349
+    },
+    {
+     "w": "and",
+     "start": 13.349,
+     "end": 13.535
+    },
+    {
+     "w": "eighty",
+     "start": 13.535,
+     "end": 13.859
+    },
+    {
+     "w": "meters",
+     "start": 13.859,
+     "end": 14.183
+    },
+    {
+     "w": "wide.",
+     "start": 14.183,
+     "end": 14.369
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.844,
+   "end": 17.302,
+   "text": "But a solid roof that big makes a dark cave.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.974,
+     "end": 15.166
+    },
+    {
+     "w": "a",
+     "start": 15.166,
+     "end": 15.357
+    },
+    {
+     "w": "solid",
+     "start": 15.357,
+     "end": 15.691
+    },
+    {
+     "w": "roof",
+     "start": 15.691,
+     "end": 15.882
+    },
+    {
+     "w": "that",
+     "start": 15.882,
+     "end": 16.074
+    },
+    {
+     "w": "big",
+     "start": 16.074,
+     "end": 16.266
+    },
+    {
+     "w": "makes",
+     "start": 16.266,
+     "end": 16.599
+    },
+    {
+     "w": "a",
+     "start": 16.599,
+     "end": 16.791
+    },
+    {
+     "w": "dark",
+     "start": 16.791,
+     "end": 16.982
+    },
+    {
+     "w": "cave.",
+     "start": 16.982,
+     "end": 17.174
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.667,
+   "end": 23.563,
+   "text": "So you weave it from seven thousand eight hundred and fifty metal stars, and light falls through like sun through palm leaves.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.777,
+     "end": 17.975
+    },
+    {
+     "w": "you",
+     "start": 17.975,
+     "end": 18.172
+    },
+    {
+     "w": "weave",
+     "start": 18.172,
+     "end": 18.37
+    },
+    {
+     "w": "it",
+     "start": 18.37,
+     "end": 18.567
+    },
+    {
+     "w": "from",
+     "start": 18.567,
+     "end": 18.765
+    },
+    {
+     "w": "seven",
+     "start": 18.765,
+     "end": 19.109
+    },
+    {
+     "w": "thousand",
+     "start": 19.109,
+     "end": 19.453
+    },
+    {
+     "w": "eight",
+     "start": 19.453,
+     "end": 19.65
+    },
+    {
+     "w": "hundred",
+     "start": 19.65,
+     "end": 19.994
+    },
+    {
+     "w": "and",
+     "start": 19.994,
+     "end": 20.192
+    },
+    {
+     "w": "fifty",
+     "start": 20.192,
+     "end": 20.536
+    },
+    {
+     "w": "metal",
+     "start": 20.536,
+     "end": 20.879
+    },
+    {
+     "w": "stars,",
+     "start": 20.879,
+     "end": 21.077
+    },
+    {
+     "w": "and",
+     "start": 21.197,
+     "end": 21.433
+    },
+    {
+     "w": "light",
+     "start": 21.433,
+     "end": 21.669
+    },
+    {
+     "w": "falls",
+     "start": 21.669,
+     "end": 21.905
+    },
+    {
+     "w": "through",
+     "start": 21.905,
+     "end": 22.141
+    },
+    {
+     "w": "like",
+     "start": 22.141,
+     "end": 22.378
+    },
+    {
+     "w": "sun",
+     "start": 22.378,
+     "end": 22.614
+    },
+    {
+     "w": "through",
+     "start": 22.614,
+     "end": 22.85
+    },
+    {
+     "w": "palm",
+     "start": 22.85,
+     "end": 23.086
+    },
+    {
+     "w": "leaves.",
+     "start": 23.086,
+     "end": 23.497
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.927,
+   "end": 26.542,
+   "text": "But a dome that wide needs a forest of columns.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.067,
+     "end": 24.277
+    },
+    {
+     "w": "a",
+     "start": 24.277,
+     "end": 24.487
+    },
+    {
+     "w": "dome",
+     "start": 24.487,
+     "end": 24.697
+    },
+    {
+     "w": "that",
+     "start": 24.697,
+     "end": 24.907
+    },
+    {
+     "w": "wide",
+     "start": 24.907,
+     "end": 25.117
+    },
+    {
+     "w": "needs",
+     "start": 25.117,
+     "end": 25.326
+    },
+    {
+     "w": "a",
+     "start": 25.326,
+     "end": 25.536
+    },
+    {
+     "w": "forest",
+     "start": 25.536,
+     "end": 25.902
+    },
+    {
+     "w": "of",
+     "start": 25.902,
+     "end": 26.112
+    },
+    {
+     "w": "columns.",
+     "start": 26.112,
+     "end": 26.477
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 26.906,
+   "end": 30.625,
+   "text": "So you rest it on just four legs hidden inside the buildings, and it seems to float.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.016,
+     "end": 27.202
+    },
+    {
+     "w": "you",
+     "start": 27.202,
+     "end": 27.389
+    },
+    {
+     "w": "rest",
+     "start": 27.389,
+     "end": 27.575
+    },
+    {
+     "w": "it",
+     "start": 27.575,
+     "end": 27.761
+    },
+    {
+     "w": "on",
+     "start": 27.761,
+     "end": 27.948
+    },
+    {
+     "w": "just",
+     "start": 27.948,
+     "end": 28.134
+    },
+    {
+     "w": "four",
+     "start": 28.134,
+     "end": 28.32
+    },
+    {
+     "w": "legs",
+     "start": 28.32,
+     "end": 28.507
+    },
+    {
+     "w": "hidden",
+     "start": 28.507,
+     "end": 28.831
+    },
+    {
+     "w": "inside",
+     "start": 28.831,
+     "end": 29.155
+    },
+    {
+     "w": "the",
+     "start": 29.155,
+     "end": 29.342
+    },
+    {
+     "w": "buildings,",
+     "start": 29.342,
+     "end": 29.666
+    },
+    {
+     "w": "and",
+     "start": 29.796,
+     "end": 29.948
+    },
+    {
+     "w": "it",
+     "start": 29.948,
+     "end": 30.1
+    },
+    {
+     "w": "seems",
+     "start": 30.1,
+     "end": 30.252
+    },
+    {
+     "w": "to",
+     "start": 30.252,
+     "end": 30.404
+    },
+    {
+     "w": "float.",
+     "start": 30.404,
+     "end": 30.556
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 30.99,
+   "end": 34.167,
+   "text": "But the museum sits on the sea, its basements below the water.",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.13,
+     "end": 31.319
+    },
+    {
+     "w": "the",
+     "start": 31.319,
+     "end": 31.508
+    },
+    {
+     "w": "museum",
+     "start": 31.508,
+     "end": 31.837
+    },
+    {
+     "w": "sits",
+     "start": 31.837,
+     "end": 32.027
+    },
+    {
+     "w": "on",
+     "start": 32.027,
+     "end": 32.216
+    },
+    {
+     "w": "the",
+     "start": 32.216,
+     "end": 32.405
+    },
+    {
+     "w": "sea,",
+     "start": 32.405,
+     "end": 32.594
+    },
+    {
+     "w": "its",
+     "start": 32.594,
+     "end": 32.783
+    },
+    {
+     "w": "basements",
+     "start": 32.783,
+     "end": 33.252
+    },
+    {
+     "w": "below",
+     "start": 33.252,
+     "end": 33.582
+    },
+    {
+     "w": "the",
+     "start": 33.582,
+     "end": 33.771
+    },
+    {
+     "w": "water.",
+     "start": 33.771,
+     "end": 34.1
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 34.531,
+   "end": 39.208,
+   "text": "So you build it in a dry pit, seal the basements like a giant bathtub, and let the sea in.",
+   "words": [
+    {
+     "w": "So",
+     "start": 34.651,
+     "end": 34.828
+    },
+    {
+     "w": "you",
+     "start": 34.828,
+     "end": 35.006
+    },
+    {
+     "w": "build",
+     "start": 35.006,
+     "end": 35.184
+    },
+    {
+     "w": "it",
+     "start": 35.184,
+     "end": 35.361
+    },
+    {
+     "w": "in",
+     "start": 35.361,
+     "end": 35.538
+    },
+    {
+     "w": "a",
+     "start": 35.538,
+     "end": 35.716
+    },
+    {
+     "w": "dry",
+     "start": 35.716,
+     "end": 35.893
+    },
+    {
+     "w": "pit,",
+     "start": 35.893,
+     "end": 36.071
+    },
+    {
+     "w": "seal",
+     "start": 36.261,
+     "end": 36.441
+    },
+    {
+     "w": "the",
+     "start": 36.441,
+     "end": 36.621
+    },
+    {
+     "w": "basements",
+     "start": 36.621,
+     "end": 37.068
+    },
+    {
+     "w": "like",
+     "start": 37.068,
+     "end": 37.248
+    },
+    {
+     "w": "a",
+     "start": 37.248,
+     "end": 37.428
+    },
+    {
+     "w": "giant",
+     "start": 37.428,
+     "end": 37.608
+    },
+    {
+     "w": "bathtub,",
+     "start": 37.608,
+     "end": 37.921
+    },
+    {
+     "w": "and",
+     "start": 37.991,
+     "end": 38.219
+    },
+    {
+     "w": "let",
+     "start": 38.219,
+     "end": 38.447
+    },
+    {
+     "w": "the",
+     "start": 38.447,
+     "end": 38.675
+    },
+    {
+     "w": "sea",
+     "start": 38.675,
+     "end": 38.903
+    },
+    {
+     "w": "in.",
+     "start": 38.903,
+     "end": 39.131
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 39.573,
+   "end": 43.635,
+   "text": "But before you touch the paintings, follow, because next we're building a vacuum cleaner.",
+   "words": [
+    {
+     "w": "But",
+     "start": 39.713,
+     "end": 39.908
+    },
+    {
+     "w": "before",
+     "start": 39.908,
+     "end": 40.248
+    },
+    {
+     "w": "you",
+     "start": 40.248,
+     "end": 40.443
+    },
+    {
+     "w": "touch",
+     "start": 40.443,
+     "end": 40.638
+    },
+    {
+     "w": "the",
+     "start": 40.638,
+     "end": 40.833
+    },
+    {
+     "w": "paintings,",
+     "start": 40.833,
+     "end": 41.173
+    },
+    {
+     "w": "follow,",
+     "start": 41.293,
+     "end": 41.603
+    },
+    {
+     "w": "because",
+     "start": 41.733,
+     "end": 42.054
+    },
+    {
+     "w": "next",
+     "start": 42.054,
+     "end": 42.239
+    },
+    {
+     "w": "we're",
+     "start": 42.239,
+     "end": 42.424
+    },
+    {
+     "w": "building",
+     "start": 42.424,
+     "end": 42.745
+    },
+    {
+     "w": "a",
+     "start": 42.745,
+     "end": 42.93
+    },
+    {
+     "w": "vacuum",
+     "start": 42.93,
+     "end": 43.252
+    },
+    {
+     "w": "cleaner.",
+     "start": 43.252,
+     "end": 43.573
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 44.0,
+   "end": 50.073,
+   "text": "Now the story: architect Jean Nouvel copied the shade of a palm grove, and laid the galleries out like an old Arab town.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 44.11,
+     "end": 44.313
+    },
+    {
+     "w": "the",
+     "start": 44.313,
+     "end": 44.516
+    },
+    {
+     "w": "story:",
+     "start": 44.516,
+     "end": 44.87
+    },
+    {
+     "w": "architect",
+     "start": 45.04,
+     "end": 45.542
+    },
+    {
+     "w": "Jean",
+     "start": 45.542,
+     "end": 45.744
+    },
+    {
+     "w": "Nouvel",
+     "start": 45.744,
+     "end": 46.095
+    },
+    {
+     "w": "copied",
+     "start": 46.095,
+     "end": 46.447
+    },
+    {
+     "w": "the",
+     "start": 46.447,
+     "end": 46.649
+    },
+    {
+     "w": "shade",
+     "start": 46.649,
+     "end": 46.852
+    },
+    {
+     "w": "of",
+     "start": 46.852,
+     "end": 47.054
+    },
+    {
+     "w": "a",
+     "start": 47.054,
+     "end": 47.256
+    },
+    {
+     "w": "palm",
+     "start": 47.256,
+     "end": 47.458
+    },
+    {
+     "w": "grove,",
+     "start": 47.458,
+     "end": 47.66
+    },
+    {
+     "w": "and",
+     "start": 47.81,
+     "end": 47.989
+    },
+    {
+     "w": "laid",
+     "start": 47.989,
+     "end": 48.168
+    },
+    {
+     "w": "the",
+     "start": 48.168,
+     "end": 48.348
+    },
+    {
+     "w": "galleries",
+     "start": 48.348,
+     "end": 48.792
+    },
+    {
+     "w": "out",
+     "start": 48.792,
+     "end": 48.971
+    },
+    {
+     "w": "like",
+     "start": 48.971,
+     "end": 49.151
+    },
+    {
+     "w": "an",
+     "start": 49.151,
+     "end": 49.33
+    },
+    {
+     "w": "old",
+     "start": 49.33,
+     "end": 49.509
+    },
+    {
+     "w": "Arab",
+     "start": 49.509,
+     "end": 49.821
+    },
+    {
+     "w": "town.",
+     "start": 49.821,
+     "end": 50.0
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 50.438,
+   "end": 55.052,
+   "text": "Seven thousand five hundred tonnes, eight layers, and fifty-five buildings under one dome.",
+   "words": [
+    {
+     "w": "Seven",
+     "start": 50.518,
+     "end": 50.907
+    },
+    {
+     "w": "thousand",
+     "start": 50.907,
+     "end": 51.296
+    },
+    {
+     "w": "five",
+     "start": 51.296,
+     "end": 51.52
+    },
+    {
+     "w": "hundred",
+     "start": 51.52,
+     "end": 51.909
+    },
+    {
+     "w": "tonnes,",
+     "start": 51.909,
+     "end": 52.298
+    },
+    {
+     "w": "eight",
+     "start": 52.428,
+     "end": 52.66
+    },
+    {
+     "w": "layers,",
+     "start": 52.66,
+     "end": 52.891
+    },
+    {
+     "w": "and",
+     "start": 52.891,
+     "end": 53.123
+    },
+    {
+     "w": "fifty-five",
+     "start": 53.123,
+     "end": 53.698
+    },
+    {
+     "w": "buildings",
+     "start": 53.698,
+     "end": 54.101
+    },
+    {
+     "w": "under",
+     "start": 54.101,
+     "end": 54.505
+    },
+    {
+     "w": "one",
+     "start": 54.505,
+     "end": 54.736
+    },
+    {
+     "w": "dome.",
+     "start": 54.736,
+     "end": 54.968
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.417,
+   "end": 58.5,
+   "text": "And congrats, you just built the Louvre Abu Dhabi yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 55.537,
+     "end": 55.789
+    },
+    {
+     "w": "congrats,",
+     "start": 55.789,
+     "end": 56.227
+    },
+    {
+     "w": "you",
+     "start": 56.377,
+     "end": 56.572
+    },
+    {
+     "w": "just",
+     "start": 56.572,
+     "end": 56.766
+    },
+    {
+     "w": "built",
+     "start": 56.766,
+     "end": 56.961
+    },
+    {
+     "w": "the",
+     "start": 56.961,
+     "end": 57.156
+    },
+    {
+     "w": "Louvre",
+     "start": 57.156,
+     "end": 57.35
+    },
+    {
+     "w": "Abu",
+     "start": 57.35,
+     "end": 57.689
+    },
+    {
+     "w": "Dhabi",
+     "start": 57.689,
+     "end": 58.028
+    },
+    {
+     "w": "yourself.",
+     "start": 58.028,
+     "end": 58.367
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 58.865,
+   "end": 64.24,
+   "text": "Shade for a whole museum, and at the beach your dad still drags one umbrella around all day chasing the shade.",
+   "words": [
+    {
+     "w": "Shade",
+     "start": 58.965,
+     "end": 59.191
+    },
+    {
+     "w": "for",
+     "start": 59.191,
+     "end": 59.418
+    },
+    {
+     "w": "a",
+     "start": 59.418,
+     "end": 59.644
+    },
+    {
+     "w": "whole",
+     "start": 59.644,
+     "end": 59.871
+    },
+    {
+     "w": "museum,",
+     "start": 59.871,
+     "end": 60.265
+    },
+    {
+     "w": "and",
+     "start": 60.405,
+     "end": 60.603
+    },
+    {
+     "w": "at",
+     "start": 60.603,
+     "end": 60.802
+    },
+    {
+     "w": "the",
+     "start": 60.802,
+     "end": 61.0
+    },
+    {
+     "w": "beach",
+     "start": 61.0,
+     "end": 61.198
+    },
+    {
+     "w": "your",
+     "start": 61.198,
+     "end": 61.396
+    },
+    {
+     "w": "dad",
+     "start": 61.396,
+     "end": 61.595
+    },
+    {
+     "w": "still",
+     "start": 61.595,
+     "end": 61.793
+    },
+    {
+     "w": "drags",
+     "start": 61.793,
+     "end": 61.991
+    },
+    {
+     "w": "one",
+     "start": 61.991,
+     "end": 62.19
+    },
+    {
+     "w": "umbrella",
+     "start": 62.19,
+     "end": 62.682
+    },
+    {
+     "w": "around",
+     "start": 62.682,
+     "end": 63.027
+    },
+    {
+     "w": "all",
+     "start": 63.027,
+     "end": 63.225
+    },
+    {
+     "w": "day",
+     "start": 63.225,
+     "end": 63.423
+    },
+    {
+     "w": "chasing",
+     "start": 63.423,
+     "end": 63.768
+    },
+    {
+     "w": "the",
+     "start": 63.768,
+     "end": 63.967
+    },
+    {
+     "w": "shade.",
+     "start": 63.967,
+     "end": 64.165
+    }
+   ]
+  }
+ ]
+}
