@@ -341,6 +341,37 @@ def icon_down(c, x, y, s, col, a=1.0):
     c.restore()
 
 
+def icon_pause(c, x, y, s, col, a=1.0):
+    """Two bars: the pause button."""
+    c.save()
+    c.translate(x, y)
+    for bx in (-0.34, 0.10):
+        c.drawRRect(rr(bx * s, -0.44 * s, 0.24 * s, 0.88 * s, 0.06 * s), P(col, a))
+    c.restore()
+
+
+def icon_rewind(c, x, y, s, col, a=1.0):
+    """Two triangles pointing back: rewind."""
+    c.save()
+    c.translate(x, y)
+    for dx in (-0.02, 0.50):
+        c.drawPath(_path([(dx, -0.42), (dx, 0.42), (dx - 0.50, 0.0)], s), P(col, a))
+    c.restore()
+
+
+def icon_hourglass(c, x, y, s, col, a=1.0):
+    """An hourglass with most of its sand already down: time running out."""
+    c.save()
+    c.translate(x, y)
+    for by in (-0.54, 0.44):
+        c.drawRRect(rr(-0.38 * s, by * s, 0.76 * s, 0.10 * s, 0.04 * s), P(col, a))
+    c.drawPath(_path([(-0.30, -0.44), (0.30, -0.44), (0.05, 0.0), (0.30, 0.44), (-0.30, 0.44), (-0.05, 0.0)], s), P(col, a))
+    c.drawPath(_path([(-0.21, -0.37), (0.21, -0.37), (0.12, -0.21), (-0.12, -0.21)], s), P(NAVY, 0.55 * a))      # the empty top
+    c.drawPath(_path([(-0.02, 0.06), (0.02, 0.06), (0.17, 0.30), (-0.17, 0.30)], s), P(NAVY, 0.55 * a))          # air over the pile
+    c.drawRRect(rr(-0.012 * s, -0.02 * s, 0.024 * s, 0.34 * s, 0.01 * s), P(col, a))                              # the falling sand
+    c.restore()
+
+
 def no_sign(c, x, y, r, p, col=WARN):
     """Red ring with a slash, stamped on with a little overshoot."""
     if p <= 0:
@@ -541,7 +572,8 @@ ICONS = (icon_bolt, icon_flame, icon_signal)
 ICON = {"bolt": icon_bolt, "flame": icon_flame, "signal": icon_signal, "person": icon_person, "trophy": icon_trophy,
         "drop": icon_drop, "gear": icon_gear, "brick": icon_brick, "land": icon_land, "wave": icon_wave, "sun": icon_sun,
         "snow": icon_snow, "clock": icon_clock, "coin": icon_coin, "boat": icon_boat, "bridge": icon_bridge,
-        "rock": icon_rock, "flat": icon_flat, "down": icon_down}
+        "rock": icon_rock, "flat": icon_flat, "down": icon_down, "pause": icon_pause, "rewind": icon_rewind,
+        "hourglass": icon_hourglass}
 WARM_ICONS = ("flame", "sun", "coin")       # drawn orange in the cold open, the rest yellow
 
 

@@ -1,0 +1,66 @@
+# Survival Mode 4: You vs Time. Four builds that had to beat the clock, all four with the Saudi narrator (Mansour) in Arabic,
+# on a ladder of time: one second (Big Ben), one wait (Tower Bridge), five centuries (Shibam), two thousand years (the Great Wall).
+levels:
+  - kit: bigben
+    music: arctic                     # its sting in the cold open is two bells
+    color: "#FFD166"
+    en: {world: "LONDON", boss: "THE LOST SECOND", sub: "TO THE SECOND  ·  WIND, HEAT AND COLD", unlocked: "BIG BEN'S CLOCK",
+         stamp: "LATE", chips: [["7 m", "EACH DIAL"], ["13.7 t", "THE BELL"], ["300 kg", "THE PENDULUM"]],
+         shot: 4.2, still: 5.0}       # the whole tower at sunset, not the pendulum close-up the hook starts on
+    ar: {world: "لندن", boss: "الثانية الضايعة", sub: "في ثانيتها بالضبط  ·  والريح والحر والبرد", unlocked: "ساعة بيغ بن",
+         stamp: "متأخرة", chips: [["7 m", "كل وجه"], ["13.7 t", "الجرس"], ["300 kg", "البندول"]],
+         shot: 4.2, still: 5.0}
+  - kit: towerbridge
+    music: oasis
+    color: "#7FC8FF"
+    en: {world: "STILL LONDON", boss: "THE LONG WAIT", sub: "A TALL SHIP  ·  YOUR ROAD IS IN ITS WAY", unlocked: "TOWER BRIDGE",
+         stamp: "STUCK", chips: [["1,000+ t", "EACH HALF"], ["~800", "LIFTS A YEAR"], ["£0", "TO OPEN IT"]],
+         shot: 2.4, still: 3.0}       # the road standing up with the ship in the gap
+    ar: {world: "للحين في لندن", boss: "الانتظار", sub: "سفينة طويلة  ·  وطريقك في وجهها", unlocked: "جسر البرج",
+         stamp: "زحمة", chips: [["1,000+", "طن كل جهة"], ["~800", "فتحة في السنة"], ["0", "ريال، ببلاش"]],
+         shot: 2.4, still: 3.0}
+  - kit: shibam
+    music: desert
+    color: "#F2B880"
+    en: {world: "THE DESERT VALLEY", boss: "THE RAIN", sub: "TOWERS OF MUD  ·  MUD MELTS IN THE RAIN", unlocked: "SHIBAM",
+         stamp: "MELTING", chips: [["~500", "TOWER HOUSES"], ["11", "FLOORS, AT MOST"], ["30+ m", "OF MUD"]],
+         shot: 1.6, still: 2.6}
+    ar: {world: "وادي وسط الصحرا", boss: "المطر", sub: "أبراج من طين  ·  والطين يذوب مع المطر", unlocked: "شبام",
+         stamp: "يذوب", chips: [["~500", "بيت برج"], ["11", "دور"], ["30+ m", "من الطين"]],
+         shot: 1.6, still: 2.6}
+  - kit: greatwall
+    music: ondol
+    color: "#9BE08A"
+    en: {world: "CHINA", boss: "2,000 YEARS", sub: "RAIDERS  ·  RAIN  ·  CRUMBLING MORTAR", unlocked: "THE GREAT WALL",
+         stamp: "CRUMBLING", chips: [["21,196", "KM OF WALL"], ["2,000+", "YEARS OF BUILDING"], ["0", "SEEN FROM THE MOON"]],
+         shot: 1.1, still: 1.8}
+    ar: {world: "الصين", boss: "ألفين سنة", sub: "غزاة على خيل  ·  وجير يتفتت مع المطر", unlocked: "سور الصين العظيم",
+         stamp: "يتفتت", chips: [["21,196", "كيلو سور"], ["2,000+", "سنة بناء"], ["0", "من القمر"]],
+         shot: 1.1, still: 1.8}
+en:
+  chip: "SURVIVAL MODE  ·  YOU VS TIME"
+  ribbon: "YOU VS TIME"
+  ribbon_icon: clock
+  ribbon_crossed: false
+  no_icons: [pause, rewind, hourglass]
+  result_label: "TIMES YOU WERE LATE"
+  result_value: "0"
+  cues: {sub: beat, stat: late}
+  emph: [PAUSE, REWIND, TIME, FOUR, WIN, CONGRATS, CLOCK, LONDON, SECOND, WIND, HEAT, COLD, DRIFT, SHIP, ROAD, WAIT, VALLEY, MUD, RAIN,
+         CENTURIES, CHINA, RAIDERS, MORTAR, THOUSAND, LATE, ONCE, PENNIES, WATER, RICE, BOSSES, YOUTUBE, SUBSCRIBE, ENGINEER,
+         FINAL, ONE, TWO, THREE, LEVELS, WAITING, NEXT]
+ar:
+  chip: "طور البقاء  ·  أنت ضد الوقت"
+  ribbon: "أنت ضد الوقت"
+  ribbon_icon: clock
+  ribbon_crossed: false
+  no_icons: [pause, rewind, hourglass]
+  result_label: "كم مرة تأخرت؟"
+  result_value: "0"
+  promo: survivalpromosa              # the closing lines in Saudi dialect, read by Mansour (series/survivalpromosa_lines_ar_sa.txt)
+  or_boss: "ولا الزعيم يفوز"
+  next: "العالم الجاي قريب"
+  cues: {sub: "غلبت", stat: "تأخرت"}
+  emph: ["إيقاف", "إعادة", "إضافي", "أربع", "الوقت", "ومبروك", "غلبت", "لندن", "ثانيتها", "والريح", "والحر", "والبرد", "سفينة",
+         "وطريقك", "ينتظر", "وادي", "طين", "المطر", "خمسمية", "الصين", "غزاة", "وجير", "ألفين", "تأخرت", "بالقروش", "والموية",
+         "والطين", "والرز", "الضايعة", "والانتظار", "زعماء", "يوتيوب", "اشترك", "الزعيم"]
