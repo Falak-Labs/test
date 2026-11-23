@@ -1,4 +1,4 @@
-# Last posting run 2026-11-23T04:10:53+00:00
+# Last posting run 2026-11-23T04:34:24+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -35,11 +35,8 @@
 - ep67-colosseum en.youtube: on hold in posts/ep67-colosseum.yml
 - ep67-colosseum ar.youtube: on hold in posts/ep67-colosseum.yml
 - ep68-taipei en.youtube: on hold in posts/ep68-taipei.yml
-- ep68-taipei en.instagram: scheduled (Tue 24 Nov 00:00 UTC) id 6b03bccfd5eabfb8cc04298e
-- ep68-taipei en.tiktok: scheduled (Tue 24 Nov 00:00 UTC) id 6b03bcd0846b0ee907e0e12a
 - ep68-taipei ar.youtube: on hold in posts/ep68-taipei.yml
-- ep68-taipei ar.instagram: scheduled (Mon 23 Nov 20:00 UTC) id 6b03bcd1d5eabfb8cc0429f7
-- ep68-taipei ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep68-taipei ar.tiktok: scheduled (Mon 23 Nov 20:30 UTC) id 6b03c252cc364169c1ae43ce
 - ep69-dishwasher en.youtube: on hold in posts/ep69-dishwasher.yml
 - ep69-dishwasher ar.youtube: on hold in posts/ep69-dishwasher.yml
 - ep69-dishwasher ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
@@ -48,5 +45,5 @@
 - sm02 ar.youtube: on hold in posts/sm02.yml
 - sm03 en.youtube: on hold in posts/sm03.yml
 - sm03 ar.youtube: on hold in posts/sm03.yml
-- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=130; t=500, "24h"; r=404; t=749, "30d"; r=1170; t=1477324; ratelimit-policy="15m"; q=150
-- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=133; t=500, "24h"; r=389; t=748, "30d"; r=1096; t=1483452; ratelimit-policy="15m"; q=150
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=598; t=86400, "30d"; r=1158; t=1475915; ratelimit-policy="15m"; q=1
+- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=147; t=899, "24h"; r=597; t=86399, "30d"; r=1084; t=1482043; ratelimit-policy="15m"; q=1

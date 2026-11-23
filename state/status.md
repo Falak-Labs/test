@@ -1,4 +1,4 @@
-# Post status 2026-11-23T04:11:05+00:00
+# Post status 2026-11-23T04:34:33+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -287,7 +287,7 @@
 | ep48-riad | en.instagram | sent |  | 2026-11-20T19:05:12.557Z https://www.instagram.com/reel/Df-XNADPkRO/ |
 | ep48-riad | en.tiktok | sent |  | 2026-11-20T19:03:23.189Z https://tiktok.com/@congratsengineer/video/7710330949552147726 |
 | ep49-hagiasophia | ar.instagram | sent |  | 2026-11-20T17:05:53.535Z https://www.instagram.com/reel/Df-JiqchH_O/ |
-| ep49-hagiasophia | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T04:30:00.000Z |
+| ep49-hagiasophia | ar.tiktok | sent |  | 2026-11-23T04:31:55.807Z https://tiktok.com/@kef.tenbeni/video/7711219456437013774 |
 | ep49-hagiasophia | ar.youtube | sent |  | 2026-11-20T17:02:22.230Z https://www.youtube.com/shorts/CrimuU8-5fE |
 | ep49-hagiasophia | en.instagram | sent |  | 2026-11-20T21:31:35.800Z https://www.instagram.com/reel/Df-oB8wvpG0/ |
 | ep49-hagiasophia | en.tiktok | sent |  | 2026-11-20T21:32:13.490Z https://tiktok.com/@congratsengineer/video/7710369180746386702 |
@@ -373,6 +373,7 @@
 | ep67-colosseum | en.instagram | scheduled |  | 2026-11-23T21:30:00.000Z |
 | ep67-colosseum | en.tiktok | scheduled |  | 2026-11-23T21:30:00.000Z |
 | ep68-taipei | ar.instagram | scheduled |  | 2026-11-23T20:00:00.000Z |
+| ep68-taipei | ar.tiktok | scheduled |  | 2026-11-23T20:30:00.000Z |
 | ep68-taipei | en.instagram | scheduled |  | 2026-11-24T00:00:00.000Z |
 | ep68-taipei | en.tiktok | scheduled |  | 2026-11-24T00:00:00.000Z |
 | ep69-dishwasher | ar.instagram | scheduled |  | 2026-11-23T23:00:00.000Z |
