@@ -1,6 +1,6 @@
 {
  "enabled": true,
- "lead_minutes": 10,
+ "lead_minutes": 1440,
  "delay_minutes": [
   4,
   7
@@ -115,5 +115,6 @@
   "categoryId": "27",
   "madeForKids": false
  },
- "raw_base": "https://raw.githubusercontent.com/Falak-Labs/test/yallah-media"
+ "raw_base": "https://raw.githubusercontent.com/Falak-Labs/test/yallah-media",
+ "lead_note": "Posts are handed to Buffer up to a day ahead with their exact time (Buffer holds them), because GitHub's 10-minute timer only fires a few times a day on this repo (Nov 23 2026)."
 }

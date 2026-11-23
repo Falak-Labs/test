@@ -1,5 +1,5 @@
 name: Yallah Say posts
-# Hands each queued Yallah Say video to Buffer a few minutes before its time (the schedule lives in yallah/queue/).
+# Hands each queued Yallah Say video to Buffer up to a day before its time, with that exact time; Buffer publishes it (the schedule lives in yallah/queue/, the lead in yallah/config.json).
 # Buffer keys: Actions secrets BUFFER_KEY_MA and BUFFER_KEY_PA (the owner's own names MAROC and PAL are read too). Nothing is sent while "enabled" is false in yallah/config.json.
 on:
   workflow_dispatch:
