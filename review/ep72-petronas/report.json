@@ -1,0 +1,136 @@
+{
+ "slug": "ep72-petronas",
+ "kit": "petronas",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.93,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "20/234",
+   "mix_lines_off": [
+    "L 5 6 diff  | So you shift the tower 60 meters onto softer rock and dig piles up to 114 meters deep.",
+    "L 6 1 diff  | But in a fire, the 40th floor is a very long walk down.",
+    "L 7 4 diff  | So a two-floor bridge joins them 170 meters up and people can escape to the other tower.",
+    "L11 1 diff  | Now the story, Japan built one tower in Korea the other, as a race, and the Koreans started a month late but reached the top first.",
+    "L12 8 diff  | 452 meters, 88 floors, and 6 years as the world's tallest."
+   ],
+   "size_mb": 20.3,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تعلّق جسر في السما بين برجين، وتخليه سايب ينزلق إذا تمايلوا، مبروك، كذا سويت لك أبراج بتروناس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الحديد لازم ينجاب من برا، وسعره نار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتبنيها من خرسانة قوية مرة، تقاوم التمايل ضعف الحديد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الخرسانة تضاعف الوزن، ونص الأرض صخر جيري مليان فراغات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتزحزح الأبراج ستين متر على صخر ألين، وتنزّل أعمدة لين مية وأربعطعش متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس لو صار حريق، الدور الأربعين قدامه مشوار طويل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فجسر بدورين يربطهم على ارتفاع مية وسبعين متر، وتهرب للبرج الثاني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس في العاصفة كل برج يتمايل على كيفه، والجسر المربوط ينكسر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فالجسر ما هو مربوط أبد: قاعد على محامل، ويدخل ويطلع من كل برج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تطالع تحت، تابعني، لأن الجاي بنبني منارة الإسكندرية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: برج بنته شركة يابانية، والثاني كورية، وصارت مسابقة، والكوريين بدوا متأخرين شهر ووصلوا فوق قبل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "أربعمية واثنين وخمسين متر، وثمانية وثمانين دور، وست سنين أطول مباني بالعالم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك أبراج بتروناس بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "برجين متصلين في السما، وأنت للحين ما تقدر تتصل بواي فاي الكوفي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 72.1,
+   "lufs": -14.0,
+   "peak": -1.9,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.4,
+   "cover": true
+  }
+ }
+}
