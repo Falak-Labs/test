@@ -1611,3 +1611,60 @@ Verified: true worked: all 10 Studio uploads for Nov 23 went through with no dai
   Arabic all out; all 12 Instagram + TikTok targets of 67-69 scheduled on Mon Nov 23 PT after post.yml added 69's Arabic
   TikTok (15:00 PT); 60's Arabic TikTok requeued to 01:30Z Nov 26 (17:30 PT Wed Nov 25): queue 10 of 10 again. Still in
   error: 37, 48, 56, 62 (next free 2-hour gaps 04:30Z Nov 26, then 01:30Z / 04:30Z Nov 27).
+
+## Nov 23 2026 (midday run, 11:23 PT): 70 the Louvre Abu Dhabi, 71 a vacuum cleaner, 72 the Petronas Twin Towers (for Tue Nov 24)
+- TODAY Mon Nov 23 PT, TOMORROW Tue Nov 24 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT with
+  `TZ=America/Los_Angeles date -d` before the push). PST: Arabic 00:00 / 03:00 / 06:00 PT = 08:00Z / 11:00Z / 14:00Z;
+  English 06:00 / 08:30 / 11:00 PT = 14:00Z / 16:30Z / 19:00Z Nov 24. YouTube: desk.yml verified: true, so all three
+  carry `hold: [en.youtube, ar.youtube]` + `studio: 1`.
+- Status 19:28Z (builds 64-69 + sm03): 64 and 65 all out; 66 all but its Arabic TikTok ("potential spam" 14:00Z); 67
+  Arabic Instagram out, Arabic TikTok refused (16:30Z), English 21:30Z; 68-69 scheduled for the afternoon; sm03 Arabic
+  TikTok refused (18:30Z; the show run's job). Requeued 37's Arabic TikTok (fifth try) to 04:30Z Nov 26 (20:30 PT Wed).
+  Still in error: Arabic TikTok 48, 56, 62, 66, 67 (+ sm03). Next free 2-hour gaps: 01:30Z / 04:30Z Nov 27, then Nov 28.
+  Old failed Buffer YouTube posts (41-46, 49, 54, 57) left alone. yt_desk check: nothing overdue.
+- ElevenLabs Pro: 20,859 of 613,234 used before the voices (3%). Mansour: louvre 879 characters + one remade line (L12
+  "تحتها" was heard as "احتى" -> "تحت القبة"), vacuum 881, petronas 896, about 2,700 asked; the counter read 22,179 at 21:14Z.
+- Voices: Easton louvre 64.29 s (226 words), vacuum 64.40 s (229), petronas 66.82 s (229; video 69.9 s, close to the
+  70.5 s gate: keep Petronas-length scripts with four long numbers near 225 words). Mansour louvre 70.75 s, vacuum 71.41 s
+  (x1.12 cap), petronas 69.00 s; check_ar_voice: only the digit stat lines flagged. Whisper small on the English voices:
+  louvre L7 "rest it" -> "rested" (now "give it just four legs"), vacuum L9 "traps specks ... than a" (now "catches dust");
+  English remade free. SAY now maps "nouvel" -> "noo-vel" (Whisper writes "Nouveau"); "Petronas" is written
+  "Patronas"/"Patronus" (the right sound; the caption carries it).
+- Research (WebSearch titles only, no agents): Louvre Abu Dhabi (louvreabudhabi.ae architecture, ArchDaily "engineering
+  behind the dome", The National "final position for Louvre's 7000-tonne dome", "waterproofing work starts", "sea
+  integration begins" / "museum on the sea" June 2016): 180 m, about 7,500 t, 7,850 stars in 8 layers (4 steel, 4
+  aluminium), four hidden supports, the rain of light from palm-leaf roofs, 55 buildings like a medina, opened Nov 2017.
+  Vacuum (Wikipedia / History.com / Smithsonian on Booth, Dyson's pages): Booth 1901, handkerchief on a dusty chair,
+  'Puffing Billy' with hoses through windows; Dyson 5,127 prototypes, motors up to 125,000 rpm; HEPA 99.97% at 0.3 um.
+  Petronas (Wikipedia, "Race to sky: How Japan, Korea built Malaysia's Twin Towers", FMT "5 fascinating facts", Otis):
+  452 m, 88 floors, tallest 1998-2004, bridge on 41-42 at 170 m not bolted (slides), legs to floor 29, high-strength
+  concrete (steel imports dear; twice the sway damping, twice the weight), site moved 60 m off cavernous limestone, 104
+  piles up to 114 m, Hazama vs Samsung C&T / Kukdong.
+- Scenes (all v2 look 2):
+  - louvre.py (sea, plan, pit, beach): elevation 1 m = 4 units, sea level 0; dome lens d_top()/d_bot() (RX 360) with
+    twinkling star holes, beams() = shafts + spots + falling specks (PLUS) through the holes, galleries() (BLD list,
+    warm-lit at night), legs() x-ray, columns() forest, water() with the dome mirrored + sparkles; plan set =
+    star_layers() (up to 8 lattices of eight-point stars on a sun disc), palm_top(), town_plan(); pit = a section with
+    sheet piles, a pump, the yellow tub drawn with PathMeasure, the sea let back in; beach tag (umbrella from tent.py, dad
+    = saudi_man in Arabic). Lessons: white galleries vanish on a pale noon sky (NOONP is deep blue now); Arabic labels need
+    ASCII digits: Arabic-Indic digits come out reversed ("٤٥" was drawn "٥٤").
+  - vacuum.py (room, can, carpet, bin, filter, street, tag): stick_vac() leaning ANG 28° (x-ray brush roll, crumbs up the
+    wand, clear bin with a tornado and the dust level, motor fan, filter cap), rug(), room_bg(), broom() + dust_cloud(), a
+    sealed can with air molecules + gauge(), fibres() + brush_roll(), a clogging bag vs a cyclone cone, the outlet +
+    hair_mag(), Booth leaning onto the chair (person rotated 38°), booth_wagon() + horse(), robot_vac() + couch(). The stat
+    camera zooms out (0.8) so the cards do not cover the vacuum.
+  - petronas.py (city, ship, ground, bridge, race, tag): tower() in elevation (SECTIONS setbacks + pinnacle rings, sway
+    grows with height squared, x-ray core + columns, the bridge slot), sky_bridge() (the deck keeps its length so its ends
+    slide; legs to floor 29; bolts / bearings / snap), kl_city() with the KL Tower, ship() + price_tag(), a ground section
+    at 2.2 px/m (limestone caves, the 60 m shift, 114 m piles), the race with crane() + flag() (jp / simplified kr), wifi().
+    Lesson: lit silver towers blew out to white bars under the bloom: mid-grey SILVER, no add_glow on the towers.
+- Produce: one slug per run (70 at 20:09Z, 71 at 20:23Z, 72 at 20:39Z): Louvre EN 67.4 s / AR 73.9 s, vacuum EN 67.5 /
+  AR 74.5 s, Petronas EN 69.9 / AR 72.1 s; all -14 LUFS, peaks -1.9 to -2.8 dBFS, covers in and inside the grid crop.
+  Whisper small on the mixes (`check_en_voice.py series/voice/<kit> mix.wav lead=0.5 pause=0.6`): number formats,
+  a/the, Nouvel -> "Nouveau", Petronas -> "Patronas".
+- Pages: retired ep49, ep64, ep65 (all posts sent; 64-65 in the Studio ledger): media/ 750 -> 651 MB before the six new
+  videos (about 770 MB after). Next: 66-69 once their Arabic TikToks are out; 42, 50, 54, 55, 60, 37 after their requeues.
+- Lineup: 80 Jeddah's giant sea fountain, 81 a zipper, 82 the Hong Kong-Zhuhai-Macau Bridge appended (checked by title).
+- Arabic TikTok queue after 72: 10 of 10 (69, 50, 42, 54, 55, 60, 37, 70, 71, 72). Room comes back as 69 (23:00Z), 50
+  (01:30Z), 42 (04:30Z) and 70 (08:00Z Nov 24) go out: the show's sm04 and the evening run's third Arabic TikTok may wait
+  for a post.yml dispatch after one of those times.

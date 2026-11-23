@@ -1,0 +1,33 @@
+episode: 72
+date: 2026-11-24
+video:
+  en: media/ep72-petronas-en.mp4
+  ar: media/ep72-petronas-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-24T19:00:00Z"    # 11:00 PT Tue Nov 24
+  title: "Petronas Twin Towers: The Bridge That Slides 🇲🇾"
+  text: |
+    A bridge 170 m up that isn't bolted to either tower. 🌉
+    The Petronas Twin Towers sway in the wind, each its own way, so the two-floor sky bridge rests on bearings and slides in and out of both towers. They are built of super-strong concrete because steel would have been shipped in at a huge price, the whole site was moved 60 m off limestone full of holes onto piles up to 114 m deep, and the bridge doubles as an escape route. Japan built one tower and Korea the other, in a race.
+    Would you walk across it? 👇
+  next: "the Lighthouse of Alexandria ⛵"
+  seo: "How the Petronas Twin Towers' sky bridge works: the Petronas Towers in Kuala Lumpur, designed by César Pelli and finished in 1998, are 452 m tall with 88 floors, and they were the tallest buildings in the world until 2004. A two-storey sky bridge links them on the 41st and 42nd floors, 170 m above the street. The bridge, 58.4 m long and about 750 tonnes, is not bolted to the towers: it rests on bearings and slides in and out of each tower, because the two towers sway separately in strong wind and a rigid connection would break. It is held up by a two-hinged arch whose legs rest on bearings on the 29th floor of each tower, and it is also an escape route: if one tower has to be evacuated, people can cross to the other. Because imported steel was expensive, the towers were built of super high-strength reinforced concrete, which damps sway about twice as well as steel but makes the building about twice as heavy. Soil tests found the original site straddling limestone full of cavities and softer rock, so the towers were moved about 60 m to stand entirely on the softer rock, on 104 bored concrete piles up to about 114 m deep under a concrete raft 4.5 m thick. The floor plan is an eight-pointed star of two overlapping squares. Tower 1 was built by a consortium led by Japan's Hazama Corporation and Tower 2 by Korea's Samsung C&T and Kukdong, and the two teams raced each other to the top."
+  tags:
+    tiktok: "#petronastowers #kualalumpur #malaysia #engineering #learnontiktok"
+    instagram: "#petronastowers #kualalumpur #malaysia #engineering #skyscraper"
+    youtube: "#petronastowers #kualalumpur #engineering"
+ar:
+  at: "2026-11-24T14:00:00Z"    # 06:00 PT Tue Nov 24 = 5 pm Riyadh
+  title: "أبراج بتروناس: الجسر اللي ينزلق 🇲🇾"
+  text: |
+    جسر على ارتفاع مية وسبعين متر، ولا هو مربوط في ولا برج! 🌉
+    أبراج بتروناس تتمايل مع الهوا، كل برج على كيفه، فالجسر اللي بدورين قاعد على محامل، ويدخل ويطلع من البرجين. وانبنت من خرسانة قوية مرة لأن الحديد بينجاب من برا وسعره نار، وزحزحوا المكان ستين متر عن صخر جيري مليان فراغات، على أعمدة لين مية وأربعطعش متر تحت الأرض، والجسر طريق هروب بعد. واليابان بنت برج وكوريا الثاني، وصارت مسابقة!
+    تمشي عليه ولا لا؟ 👇
+  next: "منارة الإسكندرية ⛵"
+  seo: "كيف جسر أبراج بتروناس يشتغل: أبراج بتروناس في كوالالمبور، صممها المعماري سيزار بيلي وخلصت سنة ألف وتسعمية وثمانية وتسعين، طولها أربعمية واثنين وخمسين متر وفيها ثمانية وثمانين دور، وكانت أطول مباني في العالم لين ألفين وأربعة. ويربطها جسر بدورين على الدور الواحد والأربعين والثاني والأربعين، على ارتفاع مية وسبعين متر عن الشارع. الجسر طوله حوالي ثمانية وخمسين متر ووزنه حوالي سبعمية وخمسين طن، وما هو مربوط في البرجين: قاعد على محامل ويدخل ويطلع من كل برج، لأن البرجين يتمايلون كل واحد على كيفه في الهوا القوي، والربط الثابت ينكسر. ويشيله قوس له رجلين قاعدة على محامل في الدور التاسع والعشرين من كل برج، وهو بعد طريق هروب: لو احتاجوا يطلّعون الناس من برج، يعبرون للبرج الثاني. ولأن الحديد المستورد كان غالي، انبنت الأبراج من خرسانة قوية مرة، تقاوم التمايل حوالي ضعف الحديد، بس تخلي المبنى أثقل بحوالي الضعف. وفحوصات الأرض لقت إن المكان الأول نصه صخر جيري مليان فراغات ونصه صخر ألين، فزحزحوا الأبراج حوالي ستين متر عشان توقف كلها على الصخر الألين، فوق مية وأربعة أعمدة خرسانة لين حوالي مية وأربعطعش متر تحت الأرض، وفوقها قاعدة خرسانة سماكتها أربعة متر ونص. وبرج بنته شركات يابانية تقودها هازاما، والثاني شركات كورية منها سامسونج، والفريقين تسابقوا لين فوق."
+  tags:
+    tiktok: "#أبراج_بتروناس #ماليزيا #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#أبراج_بتروناس #ماليزيا #هندسة #السعودية #معلومات"
+    youtube: "#أبراج_بتروناس #هندسة #معلومات"
