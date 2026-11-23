@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-23T11:44:39+00:00
+# Yallah Say Buffer channels, checked 2026-11-23T13:44:47+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -36,7 +36,7 @@
 - ep17-en en.tiktok: sent, sent 2026-11-22T11:04:55.655Z, https://tiktok.com/@thedarktoldme/video/7710949626613910798
 - ep18-en en.instagram: sent, sent 2026-11-22T14:34:55.031Z, https://www.instagram.com/reel/DgDBvEkhJA5/
 - ep18-en en.tiktok: sent, sent 2026-11-22T14:33:47.494Z, https://tiktok.com/@thedarktoldme/video/7711003458450607373
-- ep19-en-tt en.tiktok: scheduled, due 2026-11-23T12:35:01.000Z
+- ep19-en-tt en.tiktok: sent, sent 2026-11-23T12:37:00.853Z, https://tiktok.com/@thedarktoldme/video/7711344370250697997
 - ep19-en en.instagram: sent, sent 2026-11-23T05:45:57.463Z, https://www.instagram.com/reel/DgEp_UQxkYU/
 - ep20-en en.instagram: sent, sent 2026-11-22T13:23:13.839Z, https://www.instagram.com/reel/DgC5hQVta80/
 - ep20-en en.tiktok: sent, sent 2026-11-22T13:23:25.560Z, https://tiktok.com/@thedarktoldme/video/7710985230219365645
@@ -64,9 +64,9 @@
 - ep05-ar ar.tiktok: sent, sent 2026-11-23T00:17:15.576Z, https://tiktok.com/@thedarktoldmear/video/7711153865902607630
 - ep06-ar-tt ar.tiktok: sent, sent 2026-11-23T10:44:30.244Z, https://tiktok.com/@thedarktoldmear/video/7711315188099616013
 - ep06-ar ar.instagram: sent, sent 2026-11-23T03:49:58.073Z, https://www.instagram.com/reel/DgEcx0JDGgd/
-- ep07-ar-tt ar.tiktok: scheduled, due 2026-11-23T11:50:12.000Z
+- ep07-ar-tt ar.tiktok: sent, sent 2026-11-23T11:52:00.927Z, https://tiktok.com/@thedarktoldmear/video/7711332763667795213
 - ep07-ar ar.instagram: sent, sent 2026-11-23T04:57:40.564Z, https://www.instagram.com/reel/DgEksZMDSe-/
-- ep08-ar-tt ar.tiktok: scheduled, due 2026-11-23T13:01:38.000Z
+- ep08-ar-tt ar.tiktok: sent, sent 2026-11-23T13:07:06.880Z, https://tiktok.com/@thedarktoldmear/video/7711352283274988813
 - ep08-ar ar.instagram: sent, sent 2026-11-23T06:07:42.098Z, https://www.instagram.com/reel/DgEstcogkwe/
 - ep09-ar ar.instagram: sent, sent 2026-11-23T01:29:13.933Z, https://www.instagram.com/reel/DgEMpKdCTg_/
 - ep09-ar ar.tiktok: sent, sent 2026-11-23T01:29:15.776Z, https://tiktok.com/@thedarktoldmear/video/7711172423797853454

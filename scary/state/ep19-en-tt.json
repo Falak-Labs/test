@@ -4,10 +4,12 @@
    "id": "6b03b6cda6de38de9eb75f6b",
    "channel": "6b02882f8541f09ecb5fa9fe",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-23T12:35:01.000Z",
    "planned": "2026-11-23T04:35:00-08:00",
-   "created": "2026-11-23T03:45:13+00:00"
+   "created": "2026-11-23T03:45:13+00:00",
+   "sentAt": "2026-11-23T12:37:00.853Z",
+   "link": "https://tiktok.com/@thedarktoldme/video/7711344370250697997"
   }
  }
 }
