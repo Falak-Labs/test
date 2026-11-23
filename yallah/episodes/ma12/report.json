@@ -1,0 +1,116 @@
+{
+ "lesson": "12",
+ "dialect": "ma",
+ "file": "yallah-say-ma-ep12.mp4",
+ "ok": true,
+ "problems": [],
+ "steps": {
+  "script": {
+   "seconds": 0.0,
+   "says": [
+    "46 beats, 14 voice lines, 237 characters"
+   ]
+  },
+  "page": {
+   "seconds": 0.1,
+   "says": [
+    "page /home/runner/work/test/test/out/ma12/page theme ma stickers alarm house moon school"
+   ]
+  },
+  "sound": {
+   "seconds": 4.0,
+   "says": [
+    "duration 1:26.80 (2604 frames) | 13 shots, 46 beats | -14.0 LUFS, peak 0.643",
+    "quiz 27.5 | hard word 39.7 | end card 76.5667 | word parts (s): {'T': [0.7, 0.89, 0.57, 0.64], 'A': [0.55, 0.73, 0.62, 0.52], 'L': [0.66, 0.81, 0.58, 0.57]}"
+   ]
+  },
+  "picture": {
+   "seconds": 115.7,
+   "pieces": 6,
+   "at_once": 4,
+   "frames_per_second": 22.5
+  },
+  "join": {
+   "seconds": 0.1,
+   "says": []
+  },
+  "mux": {
+   "seconds": 1.9,
+   "says": []
+  },
+  "takes": {
+   "seconds": 2.8,
+   "says": [
+    "ok   o2      at   83.62s len 1.19s  match 0.945  (take offset +0.03s)",
+    "ok   o3      at   85.06s len 0.62s  match 0.993  (take offset +0.01s)",
+    "below 0.9: none"
+   ]
+  },
+  "frames": {
+   "seconds": 2.3,
+   "says": []
+  }
+ },
+ "voice_lines": {
+  "own": {
+   "folder": "darija/voice/ma12",
+   "lines": 14,
+   "characters": 237
+  },
+  "kids": {
+   "folder": "darija/voice/kids12",
+   "lines": 15,
+   "characters": 125
+  },
+  "common": {
+   "folder": "darija/voice/macommon",
+   "lines": 7,
+   "characters": 168
+  },
+  "kidscommon": {
+   "folder": "darija/voice/kidscommon",
+   "lines": 2,
+   "characters": 22
+  }
+ },
+ "frames": 2604,
+ "duration": 86.8,
+ "sha256": {
+  "page/script.js": "2dbb3b56ca10132753d029a70c46bd2273998cb159cdad9b6fd86983305f8fc8",
+  "page/tl.js": "60e171643c46ea569f3eff8b68cb3be59ba485700be0afd941eff8cff838752f",
+  "final.wav": "69d5474a8ddc1d925690bf9fea1644efb17b31c0d8f343f9f6bf1650c7b3f85f",
+  "yallah-say-ma-ep12.mp4": "34bdb435badedcabde6c39e31a1d8871a6034a1a38db8c74ad546a637098c98d"
+ },
+ "video": {
+  "size": 18695400,
+  "frames": 2604,
+  "width": 1080,
+  "height": 1920,
+  "rate": "30/1",
+  "audio_seconds": 86.8,
+  "audio_rate": "48000"
+ },
+ "takes_below_0.9": "none",
+ "sheet_times": [
+  1.6,
+  7.8,
+  10.24,
+  12.47,
+  14.66,
+  16.83,
+  19.3,
+  21.7,
+  24.42,
+  26.51,
+  29.1,
+  41.3,
+  78.17,
+  86.3
+ ],
+ "made_with": {
+  "python": "3.13.18",
+  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "playwright": "Version 1.63.0"
+ },
+ "seconds": 127.7
+}
