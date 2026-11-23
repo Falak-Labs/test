@@ -1,7 +1,7 @@
 {
  "voice": "Easton",
- "duration": 64.93,
- "words": 226,
+ "duration": 63.6,
+ "words": 221,
  "lines": [
   {
    "line": 1,
@@ -18,74 +18,74 @@
   {
    "line": 3,
    "start": 11.17,
-   "end": 16.48,
-   "text": "So you build it like bamboo: eight sections of eight floors, around giant steel columns filled with concrete."
+   "end": 16.27,
+   "text": "So you build it like bamboo: eight sections of eight floors, around steel columns filled with concrete."
   },
   {
    "line": 4,
-   "start": 16.83,
-   "end": 20.62,
+   "start": 16.62,
+   "end": 20.41,
    "text": "But a tall, flexible tower sways, and people at the top feel seasick."
   },
   {
    "line": 5,
-   "start": 20.97,
-   "end": 25.17,
+   "start": 20.76,
+   "end": 24.96,
    "text": "So near the top you hang a steel ball as heavy as five hundred cars, on thick cables."
   },
   {
    "line": 6,
-   "start": 25.52,
-   "end": 28.65,
+   "start": 25.31,
+   "end": 28.44,
    "text": "But if it swings at the wrong rhythm, it shakes the tower even more."
   },
   {
    "line": 7,
-   "start": 29.0,
-   "end": 33.63,
-   "text": "So you tune the cables to the tower's own rhythm: when the tower leans one way, the ball swings the other."
+   "start": 28.79,
+   "end": 32.99,
+   "text": "So you tune the cables to the tower's rhythm: when it leans one way, the ball swings the other."
   },
   {
    "line": 8,
-   "start": 33.98,
-   "end": 36.15,
+   "start": 33.34,
+   "end": 35.51,
    "text": "But now the ball itself won't stop swinging."
   },
   {
    "line": 9,
-   "start": 36.5,
-   "end": 40.76,
+   "start": 35.86,
+   "end": 40.12,
    "text": "So you put eight giant pistons under it, like shock absorbers, and they turn the swing into heat."
   },
   {
    "line": 10,
-   "start": 41.11,
-   "end": 44.49,
+   "start": 40.47,
+   "end": 43.85,
    "text": "But before you ride up, follow, because next we're building a dishwasher."
   },
   {
    "line": 11,
-   "start": 44.84,
-   "end": 51.14,
+   "start": 44.2,
+   "end": 50.5,
    "text": "Now the story: in twenty fifteen, a typhoon swung the ball a full meter, its biggest swing ever, and the tower stood calm."
   },
   {
    "line": 12,
-   "start": 51.49,
-   "end": 55.86,
+   "start": 50.85,
+   "end": 55.22,
    "text": "Six hundred sixty tons, five and a half meters wide, and up to forty percent less sway."
   },
   {
    "line": 13,
-   "start": 56.21,
-   "end": 59.06,
+   "start": 55.57,
+   "end": 58.42,
    "text": "And congrats, you just built Taipei 101 yourself."
   },
   {
    "line": 14,
-   "start": 59.41,
-   "end": 64.93,
-   "text": "A giant steel ball keeps a whole skyscraper steady in a typhoon, and one speed bump puts your coffee in your lap."
+   "start": 58.77,
+   "end": 63.6,
+   "text": "A steel ball keeps a skyscraper steady in a typhoon, and one speed bump puts your coffee in your lap."
   }
  ]
 }
