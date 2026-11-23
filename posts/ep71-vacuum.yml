@@ -1,0 +1,33 @@
+episode: 71
+date: 2026-11-24
+video:
+  en: media/ep71-vacuum-en.mp4
+  ar: media/ep71-vacuum-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-24T16:30:00Z"    # 08:30 PT Tue Nov 24
+  title: "Vacuum Cleaner: A Tornado in a Box 🌪️"
+  text: |
+    Your vacuum doesn't really suck: the air in the room shoves the dirt in. 🌪️
+    A fan spinning over 100,000 times a minute throws air out of a sealed can, the pressure inside drops, and the room's air rushes in through the nozzle with the dirt. A spinning brush beats the dirt out of the carpet, a little tornado flings the dust out of the air into the bin, and a filter catches specks hundreds of times thinner than a hair. In 1901 Hubert Booth tested the idea by sucking a dusty chair through a handkerchief.
+    Does your robot vacuum get stuck too? 👇
+  next: "the Petronas Twin Towers and their sky bridge 🌉"
+  seo: "How a vacuum cleaner works: a fan (the impeller) driven by the motor throws air out of the machine's sealed body, so the pressure inside drops below the air pressure in the room, and the room's air pushes in through the nozzle, carrying dust and crumbs with it. A rotating brush roll in the floor head beats the carpet and lifts dirt out of the pile into the airflow. In a bag vacuum the air passes through a porous bag that traps the dirt, but as the pores fill up the airflow and the suction drop. A cyclone vacuum spins the air fast inside a cone, so the heavier dust is flung against the wall and falls into a bin; James Dyson, inspired by the cyclone that separated sawdust at a sawmill, built 5,127 prototypes before his first bagless vacuum. The finest dust is caught by filters such as HEPA filters, rated to trap 99.97% of particles 0.3 microns across, hundreds of times thinner than a human hair. Modern cordless motors spin at up to about 125,000 revolutions a minute. History: in 1901 the British engineer Hubert Cecil Booth tested the idea of suction by putting a handkerchief on a dusty restaurant chair and sucking through it, then built a horse-drawn, engine-powered machine nicknamed 'Puffing Billy' that parked in the street and ran long hoses in through the windows. In 1907 James Spangler, a janitor in Ohio, built a portable electric vacuum and sold his patent to William Hoover."
+  tags:
+    tiktok: "#vacuum #cleaning #engineering #howitworks #learnontiktok"
+    instagram: "#vacuum #vacuumcleaner #engineering #howitworks #cleaning"
+    youtube: "#vacuum #engineering #howitworks"
+ar:
+  at: "2026-11-24T11:00:00Z"    # 03:00 PT Tue Nov 24 = 2 pm Riyadh
+  title: "المكنسة الكهربا: إعصار داخل علبة 🌪️"
+  text: |
+    المكنسة ما تشفط فعليا: هوا الغرفة نفسه يدف الوساخة داخلها! 🌪️
+    مروحة تلف أكثر من مية ألف لفة بالدقيقة تطلّع الهوا من علبة مقفلة، والضغط داخلها يطيح، وهوا الغرفة يندفع من الفتحة ومعه الوساخة. وفرشاة تلف تضرب الزولية وتطيّر الوساخة، وإعصار صغير داخلها يرمي الغبار في العلبة، وفلتر يمسك ذرات أنعم من الشعرة بميتين مرة. وفي ألف وتسعمية وواحد، هيوبرت بوث جرّب الفكرة وشفط كرسي بفمه من ورا منديل!
+    روبوت المكنسة حقكم يعلق بعد؟ 👇
+  next: "أبراج بتروناس والجسر اللي بينها 🌉"
+  seo: "كيف تشتغل المكنسة الكهربا: الموتور يلف مروحة تطلّع الهوا من جسم المكنسة المقفل، فيصير الضغط داخلها أقل من ضغط الهوا في الغرفة، وهوا الغرفة يدف نفسه داخل من الفتحة ومعه الغبار والفتات. وفي راس المكنسة فرشاة تلف تضرب الزولية وتطلّع الوساخة من بين الشعر للهوا. في مكنسة الكيس، الهوا يعدي من كيس فيه مسام صغيرة يمسك الوساخة، بس كل ما تنسد المسام يضعف الهوا ويضعف الشفط. وفي مكنسة الإعصار، الهوا يلف بسرعة داخل مخروط، والغبار الثقيل ينرمي على الجدار ويطيح في العلبة، وجيمس دايسون سوى خمسة آلاف ومية وسبعة وعشرين نموذج قبل أول مكنسة بدون كيس، والفكرة جته من إعصار ينشّف نشارة الخشب في منشرة. وأنعم غبار يمسكه فلتر مثل فلتر الهيبا اللي يمسك تسعة وتسعين بالمية من الذرات اللي حجمها ثلاثة من عشرة من الميكرون، يعني أنعم من الشعرة بمئات المرات. والمواتير الحديثة تلف لين مية وخمسة وعشرين ألف لفة بالدقيقة. والسالفة: في ألف وتسعمية وواحد، المهندس البريطاني هيوبرت سيسل بوث جرّب فكرة الشفط وحط منديل على كرسي مغبّر في مطعم وشفط بفمه، وبعدها سوى مكينة يجرها حصان، توقف في الشارع وخراطيمها تدخل البيوت من الشبابيك."
+  tags:
+    tiktok: "#مكنسة_كهربائية #تنظيف #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#مكنسة_كهربائية #تنظيف #هندسة #السعودية #معلومات"
+    youtube: "#مكنسة_كهربائية #هندسة #معلومات"
