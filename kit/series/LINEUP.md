@@ -104,3 +104,6 @@ Rules:
 77. idea: the Golden Gate Bridge (its "International Orange" was only the primer, and it was built into the fog and the tides)
 78. idea: an air fryer (a small oven that "fries" with a whirlwind of hot air)
 79. idea: the Kuwait Towers, water towers on the Gulf with a revolving deck on top
+80. idea: Jeddah's giant sea fountain (King Fahd's Fountain, the tallest fountain in the world: sea water shot higher than most skyscrapers)
+81. idea: a zipper (two rows of teeth that a small wedge locks and unlocks; Gideon Sundback, 1913)
+82. idea: the Hong Kong-Zhuhai-Macau Bridge (55 km over the sea, diving into an undersea tunnel between two man-made islands)
