@@ -1,7 +1,7 @@
 {
  "voice": "Easton",
- "duration": 63.25,
- "words": 231,
+ "duration": 62.19,
+ "words": 228,
  "lines": [
   {
    "line": 1,
@@ -60,31 +60,31 @@
   {
    "line": 10,
    "start": 38.71,
-   "end": 44.02,
-   "text": "But before you open it mid-cycle, follow, because next we're building a dome in Abu Dhabi that rains light."
+   "end": 42.96,
+   "text": "But before you open it mid-cycle, follow, because next we're building a dome that rains light."
   },
   {
    "line": 11,
-   "start": 44.37,
-   "end": 51.18,
+   "start": 43.31,
+   "end": 50.12,
    "text": "Now the story: in eighteen eighty-six, Josephine Cochrane, tired of servants chipping her china, built her own, and hotels bought it first."
   },
   {
    "line": 12,
-   "start": 51.53,
-   "end": 55.37,
+   "start": 50.47,
+   "end": 54.31,
    "text": "About twelve liters a load, sixty degrees hot, and up to a hundred by hand."
   },
   {
    "line": 13,
-   "start": 55.72,
-   "end": 58.32,
+   "start": 54.66,
+   "end": 57.26,
    "text": "And congrats, you just built a dishwasher yourself."
   },
   {
    "line": 14,
-   "start": 58.67,
-   "end": 63.25,
+   "start": 57.61,
+   "end": 62.19,
    "text": "Over a century of engineering, and your mom still washes every plate by hand before it goes in."
   }
  ]

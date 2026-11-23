@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 65.88,
- "words": 231,
- "words_per_sec": 3.51,
+ "duration": 64.76,
+ "words": 228,
+ "words_per_sec": 3.52,
  "lines": [
   {
    "line": 1,
@@ -826,8 +826,8 @@
   {
    "line": 10,
    "start": 40.323,
-   "end": 45.854,
-   "text": "But before you open it mid-cycle, follow, because next we're building a dome in Abu Dhabi that rains light.",
+   "end": 44.75,
+   "text": "But before you open it mid-cycle, follow, because next we're building a dome that rains light.",
    "words": [
     {
      "w": "But",
@@ -862,414 +862,399 @@
     {
      "w": "follow,",
      "start": 42.183,
-     "end": 42.503
+     "end": 42.513
     },
     {
      "w": "because",
-     "start": 42.623,
-     "end": 42.993
+     "start": 42.643,
+     "end": 42.982
     },
     {
      "w": "next",
-     "start": 42.993,
-     "end": 43.205
+     "start": 42.982,
+     "end": 43.176
     },
     {
      "w": "we're",
-     "start": 43.205,
-     "end": 43.418
+     "start": 43.176,
+     "end": 43.371
     },
     {
      "w": "building",
-     "start": 43.418,
-     "end": 43.788
+     "start": 43.371,
+     "end": 43.71
     },
     {
      "w": "a",
-     "start": 43.788,
-     "end": 44.0
+     "start": 43.71,
+     "end": 43.904
     },
     {
      "w": "dome",
-     "start": 44.0,
-     "end": 44.213
-    },
-    {
-     "w": "in",
-     "start": 44.213,
-     "end": 44.426
-    },
-    {
-     "w": "Abu",
-     "start": 44.426,
-     "end": 44.795
-    },
-    {
-     "w": "Dhabi",
-     "start": 44.795,
-     "end": 45.165
+     "start": 43.904,
+     "end": 44.099
     },
     {
      "w": "that",
-     "start": 45.165,
-     "end": 45.378
+     "start": 44.099,
+     "end": 44.294
     },
     {
      "w": "rains",
-     "start": 45.378,
-     "end": 45.59
+     "start": 44.294,
+     "end": 44.488
     },
     {
      "w": "light.",
-     "start": 45.59,
-     "end": 45.803
+     "start": 44.488,
+     "end": 44.683
     }
    ]
   },
   {
    "line": 11,
-   "start": 46.219,
-   "end": 53.312,
+   "start": 45.115,
+   "end": 52.208,
    "text": "Now the story: in eighteen eighty-six, Josephine Cochrane, tired of servants chipping her china, built her own, and hotels bought it first.",
    "words": [
     {
      "w": "Now",
-     "start": 46.329,
-     "end": 46.529
+     "start": 45.225,
+     "end": 45.425
     },
     {
      "w": "the",
-     "start": 46.529,
-     "end": 46.73
+     "start": 45.425,
+     "end": 45.626
     },
     {
      "w": "story:",
-     "start": 46.73,
-     "end": 47.079
+     "start": 45.626,
+     "end": 45.975
     },
     {
      "w": "in",
-     "start": 47.229,
-     "end": 47.438
+     "start": 46.125,
+     "end": 46.334
     },
     {
      "w": "eighteen",
-     "start": 47.438,
-     "end": 47.801
+     "start": 46.334,
+     "end": 46.697
     },
     {
      "w": "eighty-six,",
-     "start": 47.801,
-     "end": 48.319
+     "start": 46.697,
+     "end": 47.215
     },
     {
      "w": "Josephine",
-     "start": 48.449,
-     "end": 49.013
+     "start": 47.355,
+     "end": 47.913
     },
     {
      "w": "Cochrane,",
-     "start": 49.013,
-     "end": 49.409
+     "start": 47.913,
+     "end": 48.305
     },
     {
      "w": "tired",
-     "start": 49.579,
-     "end": 49.89
+     "start": 48.465,
+     "end": 48.778
     },
     {
      "w": "of",
-     "start": 49.89,
-     "end": 50.068
+     "start": 48.778,
+     "end": 48.957
     },
     {
      "w": "servants",
-     "start": 50.068,
-     "end": 50.379
+     "start": 48.957,
+     "end": 49.27
     },
     {
      "w": "chipping",
-     "start": 50.379,
-     "end": 50.69
+     "start": 49.27,
+     "end": 49.583
     },
     {
      "w": "her",
-     "start": 50.69,
-     "end": 50.868
+     "start": 49.583,
+     "end": 49.762
     },
     {
      "w": "china,",
-     "start": 50.868,
-     "end": 51.179
+     "start": 49.762,
+     "end": 50.075
     },
     {
      "w": "built",
-     "start": 51.329,
-     "end": 51.532
+     "start": 50.225,
+     "end": 50.432
     },
     {
      "w": "her",
-     "start": 51.532,
-     "end": 51.736
+     "start": 50.432,
+     "end": 50.638
     },
     {
      "w": "own,",
-     "start": 51.736,
-     "end": 51.939
+     "start": 50.638,
+     "end": 50.845
     },
     {
      "w": "and",
-     "start": 52.089,
-     "end": 52.291
+     "start": 50.985,
+     "end": 51.187
     },
     {
      "w": "hotels",
-     "start": 52.291,
-     "end": 52.643
+     "start": 51.187,
+     "end": 51.539
     },
     {
      "w": "bought",
-     "start": 52.643,
-     "end": 52.845
+     "start": 51.539,
+     "end": 51.741
     },
     {
      "w": "it",
-     "start": 52.845,
-     "end": 53.047
+     "start": 51.741,
+     "end": 51.943
     },
     {
      "w": "first.",
-     "start": 53.047,
-     "end": 53.249
+     "start": 51.943,
+     "end": 52.145
     }
    ]
   },
   {
    "line": 12,
-   "start": 53.677,
-   "end": 57.677,
+   "start": 52.573,
+   "end": 56.573,
    "text": "About twelve liters a load, sixty degrees hot, and up to a hundred by hand.",
    "words": [
     {
      "w": "About",
-     "start": 53.797,
-     "end": 54.16
+     "start": 52.693,
+     "end": 53.056
     },
     {
      "w": "twelve",
-     "start": 54.16,
-     "end": 54.368
+     "start": 53.056,
+     "end": 53.264
     },
     {
      "w": "liters",
-     "start": 54.368,
-     "end": 54.73
+     "start": 53.264,
+     "end": 53.626
     },
     {
      "w": "a",
-     "start": 54.73,
-     "end": 54.939
+     "start": 53.626,
+     "end": 53.835
     },
     {
      "w": "load,",
-     "start": 54.939,
-     "end": 55.147
+     "start": 53.835,
+     "end": 54.043
     },
     {
      "w": "sixty",
-     "start": 55.327,
-     "end": 55.696
+     "start": 54.223,
+     "end": 54.548
     },
     {
      "w": "degrees",
-     "start": 55.696,
-     "end": 56.065
+     "start": 54.548,
+     "end": 54.872
     },
     {
      "w": "hot,",
-     "start": 56.065,
-     "end": 56.277
+     "start": 54.872,
+     "end": 55.059
     },
     {
      "w": "and",
-     "start": 56.427,
-     "end": 56.581
+     "start": 55.059,
+     "end": 55.246
     },
     {
      "w": "up",
-     "start": 56.581,
-     "end": 56.734
+     "start": 55.246,
+     "end": 55.432
     },
     {
      "w": "to",
-     "start": 56.734,
-     "end": 56.888
+     "start": 55.432,
+     "end": 55.619
     },
     {
      "w": "a",
-     "start": 56.888,
-     "end": 57.042
+     "start": 55.619,
+     "end": 55.805
     },
     {
      "w": "hundred",
-     "start": 57.042,
-     "end": 57.31
+     "start": 55.805,
+     "end": 56.13
     },
     {
      "w": "by",
-     "start": 57.31,
-     "end": 57.463
+     "start": 56.13,
+     "end": 56.316
     },
     {
      "w": "hand.",
-     "start": 57.463,
-     "end": 57.617
+     "start": 56.316,
+     "end": 56.503
     }
    ]
   },
   {
    "line": 13,
-   "start": 58.042,
-   "end": 60.75,
+   "start": 56.938,
+   "end": 59.646,
    "text": "And congrats, you just built a dishwasher yourself.",
    "words": [
     {
      "w": "And",
-     "start": 58.172,
-     "end": 58.431
+     "start": 57.058,
+     "end": 57.317
     },
     {
      "w": "congrats,",
-     "start": 58.431,
-     "end": 58.882
+     "start": 57.317,
+     "end": 57.768
     },
     {
      "w": "you",
-     "start": 59.012,
-     "end": 59.207
+     "start": 57.908,
+     "end": 58.104
     },
     {
      "w": "just",
-     "start": 59.207,
-     "end": 59.401
+     "start": 58.104,
+     "end": 58.3
     },
     {
      "w": "built",
-     "start": 59.401,
-     "end": 59.596
+     "start": 58.3,
+     "end": 58.495
     },
     {
      "w": "a",
-     "start": 59.596,
-     "end": 59.79
+     "start": 58.495,
+     "end": 58.691
     },
     {
      "w": "dishwasher",
-     "start": 59.79,
-     "end": 60.273
+     "start": 58.691,
+     "end": 59.177
     },
     {
      "w": "yourself.",
-     "start": 60.273,
-     "end": 60.612
+     "start": 59.177,
+     "end": 59.518
     }
    ]
   },
   {
    "line": 14,
-   "start": 61.115,
-   "end": 65.885,
+   "start": 60.01,
+   "end": 64.781,
    "text": "Over a century of engineering, and your mom still washes every plate by hand before it goes in.",
    "words": [
     {
      "w": "Over",
-     "start": 61.205,
-     "end": 61.478
+     "start": 60.11,
+     "end": 60.381
     },
     {
      "w": "a",
-     "start": 61.478,
-     "end": 61.634
+     "start": 60.381,
+     "end": 60.537
     },
     {
      "w": "century",
-     "start": 61.634,
-     "end": 62.023
+     "start": 60.537,
+     "end": 60.923
     },
     {
      "w": "of",
-     "start": 62.023,
-     "end": 62.18
+     "start": 60.923,
+     "end": 61.078
     },
     {
      "w": "engineering,",
-     "start": 62.18,
-     "end": 62.685
+     "start": 61.078,
+     "end": 61.58
     },
     {
      "w": "and",
-     "start": 62.845,
-     "end": 63.031
+     "start": 61.74,
+     "end": 61.926
     },
     {
      "w": "your",
-     "start": 63.031,
-     "end": 63.217
+     "start": 61.926,
+     "end": 62.112
     },
     {
      "w": "mom",
-     "start": 63.217,
-     "end": 63.403
+     "start": 62.112,
+     "end": 62.298
     },
     {
      "w": "still",
-     "start": 63.403,
-     "end": 63.589
+     "start": 62.298,
+     "end": 62.484
     },
     {
      "w": "washes",
-     "start": 63.589,
-     "end": 63.913
+     "start": 62.484,
+     "end": 62.808
     },
     {
      "w": "every",
-     "start": 63.913,
-     "end": 64.375
+     "start": 62.808,
+     "end": 63.27
     },
     {
      "w": "plate",
-     "start": 64.375,
-     "end": 64.561
+     "start": 63.27,
+     "end": 63.456
     },
     {
      "w": "by",
-     "start": 64.561,
-     "end": 64.747
+     "start": 63.456,
+     "end": 63.642
     },
     {
      "w": "hand",
-     "start": 64.747,
-     "end": 64.933
+     "start": 63.642,
+     "end": 63.828
     },
     {
      "w": "before",
-     "start": 64.933,
-     "end": 65.257
+     "start": 63.828,
+     "end": 64.152
     },
     {
      "w": "it",
-     "start": 65.257,
-     "end": 65.443
+     "start": 64.152,
+     "end": 64.338
     },
     {
      "w": "goes",
-     "start": 65.443,
-     "end": 65.629
+     "start": 64.338,
+     "end": 64.524
     },
     {
      "w": "in.",
-     "start": 65.629,
-     "end": 65.815
+     "start": 64.524,
+     "end": 64.71
     }
    ]
   }
