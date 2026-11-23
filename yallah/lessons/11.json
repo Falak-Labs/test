@@ -1,0 +1,157 @@
+{
+ "title": "The days",
+ "word": {
+  "full": "Thursday",
+  "parts": [
+   "Thurs",
+   "day"
+  ],
+  "say": [
+   "THURZ",
+   "day"
+  ],
+  "tts": [
+   "Thurz",
+   "Day"
+  ],
+  "mean": "الخميس",
+  "ar": {
+   "ma": "ثيرزداي",
+   "pa": "ثيرزداي"
+  }
+ },
+ "en": [
+  [
+   "What day is it today?",
+   "A",
+   "fe:calendar",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "Today is Friday.",
+   "L",
+   "fe:house",
+   {}
+  ],
+  [
+   "Tomorrow is Saturday.",
+   "A",
+   "tomorrow",
+   {}
+  ],
+  [
+   "I'm free on Sunday.",
+   "L",
+   "smile",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Lina katgoul «Tursday» b-t-ta. Wach 3ndha l-7eq?",
+    "لينا كتقول «تيرزداي» بالتاء. واش عندها الحق؟",
+    "Lina says “Tursday” with a T. Is she right?"
+   ]
+  ],
+  "board": [
+   "الخميس",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Ach men nhar lyoum?",
+    "آش من نهار اليوم؟"
+   ],
+   [
+    "Lyoum j-jem3a.",
+    "اليوم الجمعة."
+   ],
+   [
+    "Ghedda s-sebt.",
+    "غدا السبت."
+   ],
+   [
+    "Ana msali nhar l-7ed.",
+    "أنا مسالي نهار الحد."
+   ],
+   [
+    "Ntla9aw s-simana j-jaya!",
+    "نتلاقاو السيمانة الجاية!"
+   ]
+  ],
+  "ph5": [
+   "See you next week!",
+   "A",
+   "bye",
+   {}
+  ],
+  "sent": {
+   "en": "The wedding is on Thursday!",
+   "hot": [
+    4
+   ],
+   "dz": "L-3ers nhar l-khmis!",
+   "ar": "العرس نهار الخميس!"
+  },
+  "ah": [
+   "ثيرز",
+   "داي"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Lina bt2ul «Tursday» bit-ta. Ma3ha 7a2?",
+    "لينا بتقول «تيرزداي» بالتاء. معها حق؟",
+    "Lina says “Tursday” with a T. Is she right?"
+   ]
+  ],
+  "board": [
+   "الخميس",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Shu el-yom?",
+    "شو اليوم؟"
+   ],
+   [
+    "El-yom el-jum3a.",
+    "اليوم الجمعة."
+   ],
+   [
+    "Bukra es-sabt.",
+    "بكرة السبت."
+   ],
+   [
+    "Ana fadi yom el-ahad.",
+    "أنا فاضي يوم الأحد."
+   ],
+   [
+    "Bnshufak el-usbu3 ej-jay!",
+    "بنشوفك الأسبوع الجاي!"
+   ]
+  ],
+  "ph5": [
+   "See you next week!",
+   "A",
+   "bye",
+   {}
+  ],
+  "sent": {
+   "en": "The wedding is on Thursday!",
+   "hot": [
+    4
+   ],
+   "dz": "El-3irs yom el-khamis!",
+   "ar": "العرس يوم الخميس!"
+  },
+  "ah": [
+   "ثيرز",
+   "داي"
+  ]
+ }
+}

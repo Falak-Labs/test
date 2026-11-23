@@ -1,0 +1,166 @@
+{
+ "title": "My day",
+ "word": {
+  "full": "Usually",
+  "parts": [
+   "U",
+   "su",
+   "al",
+   "ly"
+  ],
+  "say": [
+   "YOO",
+   "zhoo",
+   "uh",
+   "lee"
+  ],
+  "tts": [
+   "Yoo",
+   "Zhoo",
+   "Uh",
+   "Lee"
+  ],
+  "mean": "عادةً",
+  "ar": {
+   "ma": "يوجوالي",
+   "pa": "يوجوالي"
+  }
+ },
+ "en": [
+  [
+   "I wake up at seven.",
+   "A",
+   "fe:alarm",
+   {}
+  ],
+  [
+   "I go to school.",
+   "L",
+   "fe:school",
+   {}
+  ],
+  [
+   "I go to work.",
+   "A",
+   "road",
+   {}
+  ],
+  [
+   "I come home at six.",
+   "L",
+   "fe:house",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "«Ghaliban» b-l-inglizia fiha 4 d l-mqate3. Tqder tgoulha?",
+    "«غالبا» بالإنجليزية فيها ربعة ديال المقاطع. تقدر تقولها؟",
+    "“Ghaliban” in English has 4 parts. Can you say it?"
+   ]
+  ],
+  "board": [
+   "غالبا",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Kanfiq m3a sb3a.",
+    "كنفيق مع سبعة."
+   ],
+   [
+    "Kanmchi l-mdrasa.",
+    "كنمشي للمدرسة."
+   ],
+   [
+    "Kanmchi l-khedma.",
+    "كنمشي للخدمة."
+   ],
+   [
+    "Kanrje3 l-dar m3a setta.",
+    "كنرجع للدار مع ستة."
+   ],
+   [
+    "Tesb7 3la khir!",
+    "تصبح على خير!"
+   ]
+  ],
+  "ph5": [
+   "Good night!",
+   "A",
+   "fe:moon",
+   {}
+  ],
+  "sent": {
+   "en": "I usually drink mint tea after dinner.",
+   "hot": [
+    1
+   ],
+   "dz": "Ghaliban kanchreb atay men b3d l-3cha.",
+   "ar": "غالبا كنشرب أتاي من بعد العشا."
+  },
+  "ah": [
+   "يو",
+   "جو",
+   "أ",
+   "لي"
+  ],
+  "mean": "غالبا"
+ },
+ "pa": {
+  "hook": [
+   [
+    "«3adatan» bil-inglizi fiha 4 maqate3. Bti2dar tihkiha?",
+    "«عادةً» بالإنجليزي فيها أربع مقاطع. بتقدر تحكيها؟",
+    "“3adatan” in English has 4 parts. Can you say it?"
+   ]
+  ],
+  "board": [
+   "عادةً",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Bas7a es-sa3a sab3a.",
+    "بصحى الساعة سبعة."
+   ],
+   [
+    "Brou7 3al-madraseh.",
+    "بروح عالمدرسة."
+   ],
+   [
+    "Brou7 3ash-shughul.",
+    "بروح عالشغل."
+   ],
+   [
+    "Barja3 3al-beit es-sa3a sitteh.",
+    "برجع عالبيت الساعة ستة."
+   ],
+   [
+    "Tisba7 3ala kheir!",
+    "تصبح على خير!"
+   ]
+  ],
+  "ph5": [
+   "Good night!",
+   "A",
+   "fe:moon",
+   {}
+  ],
+  "sent": {
+   "en": "I usually drink coffee in the morning.",
+   "hot": [
+    1
+   ],
+   "dz": "3adatan bashrab ahweh es-subu7.",
+   "ar": "عادةً بشرب قهوة الصبح."
+  },
+  "ah": [
+   "يو",
+   "جو",
+   "أ",
+   "لي"
+  ]
+ }
+}

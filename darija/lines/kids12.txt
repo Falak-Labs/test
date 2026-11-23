@@ -1,0 +1,17 @@
+# Yallah Say, episode 12: the pupils' English lines that both dialects share (hard word: Usually).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | I wake up at seven.
+L | p02k | I go to school.
+A | p03k | I go to work.
+L | p04k | I come home at six.
+A | p05k | Good night!
+A | w5 | Usually!
+L | Lw | Usually!
+A | A_yoo | Yoo.
+A | A_zhoo | Zhoo.
+A | A_uh | Uh.
+A | A_lee | Lee.
+L | L_yoo | Yoo.
+L | L_zhoo | Zhoo.
+L | L_uh | Uh.
+L | L_lee | Lee.

@@ -1,0 +1,14 @@
+# Yallah Say, episode 10: the pupils' English lines that both dialects share (hard word: Wednesday).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | What time is it?
+L | p02k | It's five o'clock.
+A | p03k | I'm late!
+L | p04k | Wait a minute.
+A | p05k | See you tomorrow.
+A | w5 | Wednesday!
+L | v1 | The big match is on Wednesday!
+L | Lw | Wednesday!
+A | A_wenz | Wenz.
+A | A_day | Day.
+L | L_wenz | Wenz.
+L | L_day | Day.

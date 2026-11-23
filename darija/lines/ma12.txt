@@ -1,0 +1,16 @@
+# Yallah Say, episode 12 (ma): five phrases, quiz, hard word (Usually) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | غالبا بالإنجليزية فيها ربعة ديال المقاطع. تقدر تقولها؟
+T | p01t | كنفيق مع سبعة.
+T | p02t | كنمشي للمدرسة.
+T | p03t | كنمشي للخدمة.
+T | p04t | كنرجع للدار مع ستة.
+T | p05t | تصبح على خير!
+T | tw | Usually.
+T | w6 | Good job! Usually!
+L | v1 | I usually drink mint tea after dinner.
+T | v2 | غالبا كنشرب أتاي من بعد العشا.
+T | T_yoo | Yoo.
+T | T_zhoo | Zhoo.
+T | T_uh | Uh.
+T | T_lee | Lee.

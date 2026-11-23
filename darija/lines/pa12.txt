@@ -1,0 +1,16 @@
+# Yallah Say, episode 12 (pa): five phrases, quiz, hard word (Usually) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | عادةً بالإنجليزي فيها أربع مقاطع. بتقدر تحكيها؟
+T | p01t | بصحى الساعة سبعة.
+T | p02t | بروح عالمدرسة.
+T | p03t | بروح عالشغل.
+T | p04t | برجع عالبيت الساعة ستة.
+T | p05t | تصبح على خير!
+T | tw | Usually.
+T | w6 | Good job! Usually!
+L | v1 | I usually drink coffee in the morning.
+T | v2 | عادةً بشرب قهوة الصبح.
+T | T_yoo | Yoo.
+T | T_zhoo | Zhoo.
+T | T_uh | Uh.
+T | T_lee | Lee.

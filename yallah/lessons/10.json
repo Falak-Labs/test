@@ -1,0 +1,157 @@
+{
+ "title": "What time is it?",
+ "word": {
+  "full": "Wednesday",
+  "parts": [
+   "Wednes",
+   "day"
+  ],
+  "say": [
+   "WENZ",
+   "day"
+  ],
+  "tts": [
+   "Wenz",
+   "Day"
+  ],
+  "mean": "الأربعاء",
+  "ar": {
+   "ma": "وينزداي",
+   "pa": "وينزداي"
+  }
+ },
+ "en": [
+  [
+   "What time is it?",
+   "A",
+   "clock",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "It's five o'clock.",
+   "L",
+   "fe:alarm",
+   {}
+  ],
+  [
+   "I'm late!",
+   "A",
+   "fe:running",
+   {}
+  ],
+  [
+   "Wait a minute.",
+   "L",
+   "fe:hourglass",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "«L-arb3a» b-l-inglizia fiha 7ref ma kaytqrach. Chkoun huwa?",
+    "«الأربعاء» بالإنجليزية فيها حرف ما كيتقراش. شكون هو؟",
+    "“L-arb3a” in English has a letter nobody says. Which one?"
+   ]
+  ],
+  "board": [
+   "الأربعاء",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Ch7al f-s-sa3a?",
+    "شحال فالساعة؟"
+   ],
+   [
+    "Hadi l-khamsa.",
+    "هادي الخمسة."
+   ],
+   [
+    "Ana m3ettel!",
+    "أنا معطل!"
+   ],
+   [
+    "Tsenna chwiya.",
+    "تسنا شوية."
+   ],
+   [
+    "Ntla9aw ghedda.",
+    "نتلاقاو غدا."
+   ]
+  ],
+  "ph5": [
+   "See you tomorrow.",
+   "A",
+   "tomorrow",
+   {}
+  ],
+  "sent": {
+   "en": "The big match is on Wednesday!",
+   "hot": [
+    5
+   ],
+   "dz": "L-match l-kbir nhar l-arb3a!",
+   "ar": "الماتش الكبير نهار الأربعاء!"
+  },
+  "ah": [
+   "وينز",
+   "داي"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "«El-arba3a» bil-inglizi fiha 7arf ma bnilfazo. Shu huwe?",
+    "«الأربعاء» بالإنجليزي فيها حرف ما بنلفظه. شو هو؟",
+    "“El-arba3a” in English has a letter nobody says. Which one?"
+   ]
+  ],
+  "board": [
+   "الأربعاء",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Addeish es-sa3a?",
+    "قديش الساعة؟"
+   ],
+   [
+    "Es-sa3a khamseh.",
+    "الساعة خمسة."
+   ],
+   [
+    "Ana mit2akhir!",
+    "أنا متأخر!"
+   ],
+   [
+    "Istanna shwayy.",
+    "استنى شوي."
+   ],
+   [
+    "Bnshufak bukra.",
+    "بنشوفك بكرة."
+   ]
+  ],
+  "ph5": [
+   "See you tomorrow.",
+   "A",
+   "tomorrow",
+   {}
+  ],
+  "sent": {
+   "en": "The big match is on Wednesday!",
+   "hot": [
+    5
+   ],
+   "dz": "El-match el-kbir yom el-arba3a!",
+   "ar": "الماتش الكبير يوم الأربعاء!"
+  },
+  "ah": [
+   "وينز",
+   "داي"
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+# Yallah Say, episode 10 (ma): five phrases, quiz, hard word (Wednesday) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | الأربعاء بالإنجليزية فيها حرف ما كيتقراش. شكون هو؟
+T | p01t | شحال فالساعة؟
+T | p02t | هادي الخمسة.
+T | p03t | أنا معطل!
+T | p04t | تسنا شوية.
+T | p05t | نتلاقاو غدا.
+T | tw | Wednesday.
+T | w6 | Good job! Wednesday!
+T | v2 | الماتش الكبير نهار الأربعاء!
+T | T_wenz | Wenz.
+T | T_day | Day.

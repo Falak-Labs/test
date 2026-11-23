@@ -1,0 +1,14 @@
+# Yallah Say, episode 11: the pupils' English lines that both dialects share (hard word: Thursday).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | What day is it today?
+L | p02k | Today is Friday.
+A | p03k | Tomorrow is Saturday.
+L | p04k | I'm free on Sunday.
+A | p05k | See you next week!
+A | w5 | Thursday!
+L | v1 | The wedding is on Thursday!
+L | Lw | Thursday!
+A | A_thurz | Thurz.
+A | A_day | Day.
+L | L_thurz | Thurz.
+L | L_day | Day.

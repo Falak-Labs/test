@@ -1,0 +1,13 @@
+# Yallah Say, episode 11 (pa): five phrases, quiz, hard word (Thursday) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | لينا بتقول تيرزداي بالتاء. معها حق؟
+T | p01t | شو اليوم؟
+T | p02t | اليوم الجمعة.
+T | p03t | بكرة السبت.
+T | p04t | أنا فاضي يوم الأحد.
+T | p05t | بنشوفك الأسبوع الجاي!
+T | tw | Thursday.
+T | w6 | Good job! Thursday!
+T | v2 | العرس يوم الخميس!
+T | T_thurz | Thurz.
+T | T_day | Day.
