@@ -1668,3 +1668,6 @@ Verified: true worked: all 10 Studio uploads for Nov 23 went through with no dai
 - Arabic TikTok queue after 72: 10 of 10 (69, 50, 42, 54, 55, 60, 37, 70, 71, 72). Room comes back as 69 (23:00Z), 50
   (01:30Z), 42 (04:30Z) and 70 (08:00Z Nov 24) go out: the show's sm04 and the evening run's third Arabic TikTok may wait
   for a post.yml dispatch after one of those times.
+- Status 21:22Z: 68's Arabic TikTok was refused too ("potential spam" at 20:30Z), 68's Arabic Instagram out at 20:03Z,
+  66's English out at 19:05Z. Not requeued (the Arabic TikTok queue is 10 of 10). Arabic TikTok in error now: 48, 56,
+  62, 66, 67, 68 (+ sm03). Free 2-hour gaps for them start at 01:30Z / 04:30Z Nov 27.
