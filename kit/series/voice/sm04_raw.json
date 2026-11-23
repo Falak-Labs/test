@@ -1,0 +1,55 @@
+{
+ "voice": "Easton",
+ "duration": 41.59,
+ "words": 148,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 2.62,
+   "text": "No pause. No rewind. No extra time."
+  },
+  {
+   "line": 2,
+   "start": 2.97,
+   "end": 6.26,
+   "text": "Just you, and four fights with time that you are not supposed to win."
+  },
+  {
+   "line": 3,
+   "start": 6.61,
+   "end": 9.26,
+   "text": "Win all four, and congrats, you just beat the clock."
+  },
+  {
+   "line": 4,
+   "start": 9.61,
+   "end": 14.99,
+   "text": "Level one. London. Your clock has to strike right to the second, and wind, heat and cold all make it drift."
+  },
+  {
+   "line": 5,
+   "start": 15.34,
+   "end": 20.4,
+   "text": "Level two. Still London. A tall ship is coming, your road is in its way, and nobody wants to wait."
+  },
+  {
+   "line": 6,
+   "start": 20.75,
+   "end": 27.05,
+   "text": "Level three. A desert valley. Your skyscrapers are made of mud, mud melts in the rain, and they have to stand for five centuries."
+  },
+  {
+   "line": 7,
+   "start": 27.4,
+   "end": 33.56,
+   "text": "Final level. China. Raiders on fast horses, mortar that crumbles in the rain, and a wall that has to last two thousand years."
+  },
+  {
+   "line": 8,
+   "start": 33.91,
+   "end": 41.59,
+   "text": "Four levels, and you were never late. For once. You beat a lost second, a long wait, the rain and two thousand years, with pennies, water, mud and rice."
+  }
+ ]
+}

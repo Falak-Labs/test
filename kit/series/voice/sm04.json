@@ -1,0 +1,814 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 43.3,
+ "words": 148,
+ "words_per_sec": 3.42,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 2.729,
+   "text": "No pause. No rewind. No extra time.",
+   "words": [
+    {
+     "w": "No",
+     "start": 0.08,
+     "end": 0.44
+    },
+    {
+     "w": "pause.",
+     "start": 0.44,
+     "end": 0.8
+    },
+    {
+     "w": "No",
+     "start": 0.93,
+     "end": 1.2
+    },
+    {
+     "w": "rewind.",
+     "start": 1.2,
+     "end": 1.67
+    },
+    {
+     "w": "No",
+     "start": 1.83,
+     "end": 2.047
+    },
+    {
+     "w": "extra",
+     "start": 2.047,
+     "end": 2.423
+    },
+    {
+     "w": "time.",
+     "start": 2.423,
+     "end": 2.64
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 3.094,
+   "end": 6.521,
+   "text": "Just you, and four fights with time that you are not supposed to win.",
+   "words": [
+    {
+     "w": "Just",
+     "start": 3.194,
+     "end": 3.403
+    },
+    {
+     "w": "you,",
+     "start": 3.403,
+     "end": 3.613
+    },
+    {
+     "w": "and",
+     "start": 3.613,
+     "end": 3.822
+    },
+    {
+     "w": "four",
+     "start": 3.822,
+     "end": 4.031
+    },
+    {
+     "w": "fights",
+     "start": 4.031,
+     "end": 4.24
+    },
+    {
+     "w": "with",
+     "start": 4.24,
+     "end": 4.45
+    },
+    {
+     "w": "time",
+     "start": 4.45,
+     "end": 4.659
+    },
+    {
+     "w": "that",
+     "start": 4.659,
+     "end": 4.868
+    },
+    {
+     "w": "you",
+     "start": 4.868,
+     "end": 5.078
+    },
+    {
+     "w": "are",
+     "start": 5.078,
+     "end": 5.287
+    },
+    {
+     "w": "not",
+     "start": 5.287,
+     "end": 5.496
+    },
+    {
+     "w": "supposed",
+     "start": 5.496,
+     "end": 6.015
+    },
+    {
+     "w": "to",
+     "start": 6.015,
+     "end": 6.225
+    },
+    {
+     "w": "win.",
+     "start": 6.225,
+     "end": 6.434
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 6.885,
+   "end": 9.646,
+   "text": "Win all four, and congrats, you just beat the clock.",
+   "words": [
+    {
+     "w": "Win",
+     "start": 6.995,
+     "end": 7.245
+    },
+    {
+     "w": "all",
+     "start": 7.245,
+     "end": 7.495
+    },
+    {
+     "w": "four,",
+     "start": 7.495,
+     "end": 7.745
+    },
+    {
+     "w": "and",
+     "start": 7.925,
+     "end": 8.127
+    },
+    {
+     "w": "congrats,",
+     "start": 8.127,
+     "end": 8.477
+    },
+    {
+     "w": "you",
+     "start": 8.477,
+     "end": 8.679
+    },
+    {
+     "w": "just",
+     "start": 8.679,
+     "end": 8.88
+    },
+    {
+     "w": "beat",
+     "start": 8.88,
+     "end": 9.082
+    },
+    {
+     "w": "the",
+     "start": 9.082,
+     "end": 9.283
+    },
+    {
+     "w": "clock.",
+     "start": 9.283,
+     "end": 9.485
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 10.01,
+   "end": 15.615,
+   "text": "Level one. London. Your clock has to strike right to the second, and wind, heat and cold all make it drift.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 10.09,
+     "end": 10.496
+    },
+    {
+     "w": "one.",
+     "start": 10.496,
+     "end": 10.73
+    },
+    {
+     "w": "London.",
+     "start": 10.88,
+     "end": 11.29
+    },
+    {
+     "w": "Your",
+     "start": 11.47,
+     "end": 11.657
+    },
+    {
+     "w": "clock",
+     "start": 11.657,
+     "end": 11.844
+    },
+    {
+     "w": "has",
+     "start": 11.844,
+     "end": 12.031
+    },
+    {
+     "w": "to",
+     "start": 12.031,
+     "end": 12.217
+    },
+    {
+     "w": "strike",
+     "start": 12.217,
+     "end": 12.404
+    },
+    {
+     "w": "right",
+     "start": 12.404,
+     "end": 12.591
+    },
+    {
+     "w": "to",
+     "start": 12.591,
+     "end": 12.778
+    },
+    {
+     "w": "the",
+     "start": 12.778,
+     "end": 12.965
+    },
+    {
+     "w": "second,",
+     "start": 12.965,
+     "end": 13.29
+    },
+    {
+     "w": "and",
+     "start": 13.43,
+     "end": 13.675
+    },
+    {
+     "w": "wind,",
+     "start": 13.675,
+     "end": 13.92
+    },
+    {
+     "w": "heat",
+     "start": 14.05,
+     "end": 14.264
+    },
+    {
+     "w": "and",
+     "start": 14.264,
+     "end": 14.479
+    },
+    {
+     "w": "cold",
+     "start": 14.479,
+     "end": 14.693
+    },
+    {
+     "w": "all",
+     "start": 14.693,
+     "end": 14.907
+    },
+    {
+     "w": "make",
+     "start": 14.907,
+     "end": 15.121
+    },
+    {
+     "w": "it",
+     "start": 15.121,
+     "end": 15.336
+    },
+    {
+     "w": "drift.",
+     "start": 15.336,
+     "end": 15.55
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 15.979,
+   "end": 21.25,
+   "text": "Level two. Still London. A tall ship is coming, your road is in its way, and nobody wants to wait.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 16.069,
+     "end": 16.495
+    },
+    {
+     "w": "two.",
+     "start": 16.495,
+     "end": 16.739
+    },
+    {
+     "w": "Still",
+     "start": 16.909,
+     "end": 17.164
+    },
+    {
+     "w": "London.",
+     "start": 17.164,
+     "end": 17.609
+    },
+    {
+     "w": "A",
+     "start": 17.749,
+     "end": 17.937
+    },
+    {
+     "w": "tall",
+     "start": 17.937,
+     "end": 18.125
+    },
+    {
+     "w": "ship",
+     "start": 18.125,
+     "end": 18.313
+    },
+    {
+     "w": "is",
+     "start": 18.313,
+     "end": 18.502
+    },
+    {
+     "w": "coming,",
+     "start": 18.502,
+     "end": 18.829
+    },
+    {
+     "w": "your",
+     "start": 18.989,
+     "end": 19.171
+    },
+    {
+     "w": "road",
+     "start": 19.171,
+     "end": 19.352
+    },
+    {
+     "w": "is",
+     "start": 19.352,
+     "end": 19.534
+    },
+    {
+     "w": "in",
+     "start": 19.534,
+     "end": 19.716
+    },
+    {
+     "w": "its",
+     "start": 19.716,
+     "end": 19.897
+    },
+    {
+     "w": "way,",
+     "start": 19.897,
+     "end": 20.079
+    },
+    {
+     "w": "and",
+     "start": 20.239,
+     "end": 20.389
+    },
+    {
+     "w": "nobody",
+     "start": 20.389,
+     "end": 20.76
+    },
+    {
+     "w": "wants",
+     "start": 20.76,
+     "end": 20.91
+    },
+    {
+     "w": "to",
+     "start": 20.91,
+     "end": 21.059
+    },
+    {
+     "w": "wait.",
+     "start": 21.059,
+     "end": 21.209
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 21.615,
+   "end": 28.177,
+   "text": "Level three. A desert valley. Your skyscrapers are made of mud, mud melts in the rain, and they have to stand for five centuries.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 21.705,
+     "end": 22.137
+    },
+    {
+     "w": "three.",
+     "start": 22.137,
+     "end": 22.385
+    },
+    {
+     "w": "A",
+     "start": 22.505,
+     "end": 22.675
+    },
+    {
+     "w": "desert",
+     "start": 22.675,
+     "end": 22.97
+    },
+    {
+     "w": "valley.",
+     "start": 22.97,
+     "end": 23.265
+    },
+    {
+     "w": "Your",
+     "start": 23.385,
+     "end": 23.602
+    },
+    {
+     "w": "skyscrapers",
+     "start": 23.602,
+     "end": 24.139
+    },
+    {
+     "w": "are",
+     "start": 24.139,
+     "end": 24.355
+    },
+    {
+     "w": "made",
+     "start": 24.355,
+     "end": 24.572
+    },
+    {
+     "w": "of",
+     "start": 24.572,
+     "end": 24.788
+    },
+    {
+     "w": "mud,",
+     "start": 24.788,
+     "end": 25.005
+    },
+    {
+     "w": "mud",
+     "start": 25.155,
+     "end": 25.371
+    },
+    {
+     "w": "melts",
+     "start": 25.371,
+     "end": 25.587
+    },
+    {
+     "w": "in",
+     "start": 25.587,
+     "end": 25.803
+    },
+    {
+     "w": "the",
+     "start": 25.803,
+     "end": 26.019
+    },
+    {
+     "w": "rain,",
+     "start": 26.019,
+     "end": 26.235
+    },
+    {
+     "w": "and",
+     "start": 26.365,
+     "end": 26.551
+    },
+    {
+     "w": "they",
+     "start": 26.551,
+     "end": 26.736
+    },
+    {
+     "w": "have",
+     "start": 26.736,
+     "end": 26.922
+    },
+    {
+     "w": "to",
+     "start": 26.922,
+     "end": 27.107
+    },
+    {
+     "w": "stand",
+     "start": 27.107,
+     "end": 27.293
+    },
+    {
+     "w": "for",
+     "start": 27.293,
+     "end": 27.479
+    },
+    {
+     "w": "five",
+     "start": 27.479,
+     "end": 27.664
+    },
+    {
+     "w": "centuries.",
+     "start": 27.664,
+     "end": 28.125
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 28.542,
+   "end": 34.958,
+   "text": "Final level. China. Raiders on fast horses, mortar that crumbles in the rain, and a wall that has to last two thousand years.",
+   "words": [
+    {
+     "w": "Final",
+     "start": 28.672,
+     "end": 28.952
+    },
+    {
+     "w": "level.",
+     "start": 28.952,
+     "end": 29.232
+    },
+    {
+     "w": "China.",
+     "start": 29.392,
+     "end": 29.772
+    },
+    {
+     "w": "Raiders",
+     "start": 29.912,
+     "end": 30.309
+    },
+    {
+     "w": "on",
+     "start": 30.309,
+     "end": 30.537
+    },
+    {
+     "w": "fast",
+     "start": 30.537,
+     "end": 30.765
+    },
+    {
+     "w": "horses,",
+     "start": 30.765,
+     "end": 31.162
+    },
+    {
+     "w": "mortar",
+     "start": 31.292,
+     "end": 31.613
+    },
+    {
+     "w": "that",
+     "start": 31.613,
+     "end": 31.798
+    },
+    {
+     "w": "crumbles",
+     "start": 31.798,
+     "end": 32.119
+    },
+    {
+     "w": "in",
+     "start": 32.119,
+     "end": 32.303
+    },
+    {
+     "w": "the",
+     "start": 32.303,
+     "end": 32.488
+    },
+    {
+     "w": "rain,",
+     "start": 32.488,
+     "end": 32.672
+    },
+    {
+     "w": "and",
+     "start": 32.832,
+     "end": 33.024
+    },
+    {
+     "w": "a",
+     "start": 33.024,
+     "end": 33.216
+    },
+    {
+     "w": "wall",
+     "start": 33.216,
+     "end": 33.407
+    },
+    {
+     "w": "that",
+     "start": 33.407,
+     "end": 33.599
+    },
+    {
+     "w": "has",
+     "start": 33.599,
+     "end": 33.791
+    },
+    {
+     "w": "to",
+     "start": 33.791,
+     "end": 33.983
+    },
+    {
+     "w": "last",
+     "start": 33.983,
+     "end": 34.175
+    },
+    {
+     "w": "two",
+     "start": 34.175,
+     "end": 34.366
+    },
+    {
+     "w": "thousand",
+     "start": 34.366,
+     "end": 34.7
+    },
+    {
+     "w": "years.",
+     "start": 34.7,
+     "end": 34.892
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 35.323,
+   "end": 43.323,
+   "text": "Four levels, and you were never late. For once. You beat a lost second, a long wait, the rain and two thousand years, with pennies, water, mud and rice.",
+   "words": [
+    {
+     "w": "Four",
+     "start": 35.463,
+     "end": 35.678
+    },
+    {
+     "w": "levels,",
+     "start": 35.678,
+     "end": 36.053
+    },
+    {
+     "w": "and",
+     "start": 36.163,
+     "end": 36.389
+    },
+    {
+     "w": "you",
+     "start": 36.389,
+     "end": 36.616
+    },
+    {
+     "w": "were",
+     "start": 36.616,
+     "end": 36.842
+    },
+    {
+     "w": "never",
+     "start": 36.842,
+     "end": 37.237
+    },
+    {
+     "w": "late.",
+     "start": 37.237,
+     "end": 37.463
+    },
+    {
+     "w": "For",
+     "start": 37.603,
+     "end": 37.823
+    },
+    {
+     "w": "once.",
+     "start": 37.823,
+     "end": 38.042
+    },
+    {
+     "w": "You",
+     "start": 38.042,
+     "end": 38.262
+    },
+    {
+     "w": "beat",
+     "start": 38.262,
+     "end": 38.481
+    },
+    {
+     "w": "a",
+     "start": 38.481,
+     "end": 38.701
+    },
+    {
+     "w": "lost",
+     "start": 38.701,
+     "end": 38.921
+    },
+    {
+     "w": "second,",
+     "start": 38.921,
+     "end": 39.303
+    },
+    {
+     "w": "a",
+     "start": 39.443,
+     "end": 39.669
+    },
+    {
+     "w": "long",
+     "start": 39.669,
+     "end": 39.895
+    },
+    {
+     "w": "wait,",
+     "start": 39.895,
+     "end": 40.121
+    },
+    {
+     "w": "the",
+     "start": 40.121,
+     "end": 40.346
+    },
+    {
+     "w": "rain",
+     "start": 40.346,
+     "end": 40.572
+    },
+    {
+     "w": "and",
+     "start": 40.572,
+     "end": 40.798
+    },
+    {
+     "w": "two",
+     "start": 40.798,
+     "end": 41.024
+    },
+    {
+     "w": "thousand",
+     "start": 41.024,
+     "end": 41.417
+    },
+    {
+     "w": "years,",
+     "start": 41.417,
+     "end": 41.643
+    },
+    {
+     "w": "with",
+     "start": 41.773,
+     "end": 41.937
+    },
+    {
+     "w": "pennies,",
+     "start": 41.937,
+     "end": 42.223
+    },
+    {
+     "w": "water,",
+     "start": 42.343,
+     "end": 42.673
+    },
+    {
+     "w": "mud",
+     "start": 42.673,
+     "end": 42.863
+    },
+    {
+     "w": "and",
+     "start": 42.863,
+     "end": 43.053
+    },
+    {
+     "w": "rice.",
+     "start": 43.053,
+     "end": 43.243
+    }
+   ]
+  }
+ ]
+}
