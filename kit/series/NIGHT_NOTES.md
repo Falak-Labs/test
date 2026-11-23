@@ -1671,3 +1671,45 @@ Verified: true worked: all 10 Studio uploads for Nov 23 went through with no dai
 - Status 21:22Z: 68's Arabic TikTok was refused too ("potential spam" at 20:30Z), 68's Arabic Instagram out at 20:03Z,
   66's English out at 19:05Z. Not requeued (the Arabic TikTok queue is 10 of 10). Arabic TikTok in error now: 48, 56,
   62, 66, 67, 68 (+ sm03). Free 2-hour gaps for them start at 01:30Z / 04:30Z Nov 27.
+
+## Nov 23 2026, 13:55 PT: the hook rules (from build 73 on, both languages, both runs)
+The owner brought a checklist ("I got this advice so let's check them out ... I don't want to stay stuck at 1,000 views,
+so check if: specific clear hook, 3rd grade vocab, use names/numbers in hook, relatable topic, hook is NOT boring, cut
+fluff, open loop"). The main chat checked builds 1-72 against it with state/metrics.json of Nov 23 02:54Z. Full study:
+project doc claude/build-it-hook-checklist.md.
+- What it found. Line 1 has drifted: builds 1-20 said it in 17 words and 4.2 s (Arabic 12 words, about 4 s), builds
+  64-72 need 25 words and 6.6 s (Arabic 18 words, 6.8 s), two or three facts chained with commas, a 9th-grade sentence
+  (builds 1-20: 5th grade). The first problem is now told by 10.6 s (was 8.4 s); the average TikTok viewer is gone by
+  15 s in English and 11.6 s in Arabic. Same pace era (builds 1-39), short hook against long hook: English Instagram
+  42% watched against 37% (29 s against 26 s) and 2,099 against 1,834 views; Arabic Instagram 32% against 29% and 286
+  against 176 views; TikTok shows no difference. Small samples (15 to 24 posts a side), so this is a lean, not proof;
+  the topic still decides more (turbine, wind tower, electric car and falaj were hits with long hooks). A number in the
+  hook did not lift views by itself. The whole script's reading level (median grade 4.7) shows no link to watch time;
+  the hook's does.
+- THE RULES (write them into every new script; nothing already made is redone):
+  1. Line 1: the series' frame stays ("If you ..., congrats, you just built X." / "لو ...، مبروك، كذا سويت لك ..."),
+     but with ONE picture, no comma before "congrats" / "مبروك": at most 18 English words and 5.0 s spoken, at most 13
+     Arabic words and 5.5 s. Words a nine-year-old uses. Models: "If you put a hotel on a boat, congrats, you just
+     built a cruise ship." "If you build a train with a bird's beak for a nose, congrats, you just built a bullet train."
+  2. The second fact you cut from line 1 (the number, the "then ...") opens line 2. The first problem must be fully
+     told by 9.5 s in English and 10.0 s in Arabic.
+  3. One name or one number in the hook is welcome when it fits in those words (the build's name is already on the
+     cover frame); never both a number and a second clause.
+  4. Open loop: line 2 tells the first danger AND raises one real question that only the reveal (line 11) answers; line
+     11 answers it in its first sentence. A real fact, never an empty "wait for it". Example for Taipei 101: line 2
+     "But typhoons hit this city every year. So why is it still standing?", line 11 "In twenty fifteen a typhoon
+     swung the ball a full meter, and the tower stood calm."
+  5. Plain words everywhere: aim for a reading grade of 4.5 or lower for the English script (the tool lists the long
+     sentences and the 3-syllable words to swap; the build's own name and real part names may stay). Arabic: everyday
+     Saudi words, one idea a sentence.
+  6. Cut fluff: one fact a line, no stacked adjectives ("giant golden", "whole"), no line over 22 words.
+  7. Relatable: the first number gets a comparison a child knows (cars, buses, a football field), and the topic rules
+     of claude/build-it-performance.md stay (famous places with a story, everyday things).
+- THE CHECK: from the kit folder, `python3 -I tools/check_hook.py <kit>` after writing the scripts, and again after
+  the voice job (it then reads the spoken seconds). It must print no FAIL before you animate (the scene's word anchors
+  depend on line 1). Two rewrite passes at most; if a FAIL remains, ship and say why in these notes. "aim for" lines
+  are advice, not failures.
+- THE TEST: the evening run's numbers study compares builds 73 and later with builds 64-72 at the same age (English
+  and Arabic Instagram: average time watched / length, and views; TikTok after 3 days) and writes the result into
+  claude/build-it-performance.md. Tell the owner the result in the evening message of Nov 28.
+- Not changed: the 4-minute show's opening lines (already short), covers, closer, tag joke, line 10.

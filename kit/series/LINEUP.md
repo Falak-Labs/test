@@ -15,10 +15,11 @@ Rules:
   (claude/build-it-performance.md): famous mega-structures and places with a real story, and everyday things people
   use. Mix countries and cultures (the Arab world, Asia, Africa, Europe, the Americas). Avoid religious rituals,
   politics, anything that mocks a culture, gadgets-in-a-lab openers and far-away space pictures.
-- Arabic voice A/B test (owner picked the Gulf voice Mansour, Nov 17 22:15 PT): for every ODD-numbered build from 41
-  on, write the Arabic script in Saudi dialect (frames: "لو ...، مبروك، كذا سويت لك ..." / "بس قبل لا ...، تابعني،
-  لأن الجاي بنبني ..." / "ومبروك، كذا سويت لك ... بيدك"; see kit/series/sample_gulf_a_lines_ar_sa.txt) and add the
-  kit name to `ar_alt.kits` in voices.yml; even builds stay Egyptian. Run tools/check_ar_voice.py as usual.
+- Arabic voice (owner, Nov 22 11:35 PT: "only ElevenLabs for Arabic, not the Egyptian one"; the A/B test of Nov 17 is
+  over): for EVERY build from 64 on, write the Arabic script in Saudi dialect (frames: "لو ...، مبروك، كذا سويت لك ..." / "بس قبل لا ...، تابعني،
+  لأن الجاي بنبني ..." / "ومبروك، كذا سويت لك ... بيدك"; see kit/series/sample_gulf_a_lines_ar_sa.txt); voices.yml
+  `ar` is Mansour already, so add nothing to `ar_alt.kits`. No Egyptian voice or script for anything new. Run
+  tools/check_ar_voice.py as usual.
   Saudi script style: real everyday Najdi/Hejazi-leaning white dialect, never Egyptian or formal Arabic words (use
   "وش، ليش، كذا، الحين، مرة، يبي، ما عاد، طيب"; not "إيه، ده، دلوقتي"). Short spoken sentences, no stiff written forms,
   numbers as spoken words, the same 13 lines and fact checks as the English. Write each line to be read aloud by one
@@ -60,6 +61,11 @@ Rules:
   posts per 24 hours), and its TikTok and Instagram targets start on hold too, until the main chat has uploaded the
   full video and releases them (`scripts/yt_desk.py release`). Once released, its TikTok and Instagram posts count
   toward Buffer's 10 queued posts per channel, so leave room for two of them in each Arabic and English queue.
+- Hook rules (owner's checklist, Nov 23 2026; study in claude/build-it-hook-checklist.md, rules in NIGHT_NOTES "Nov 23
+  2026, 13:55 PT"): line 1 keeps the frame but shows ONE picture in at most 18 English words / 13 Arabic words (no comma
+  before "congrats" / "مبروك"), the cut fact opens line 2, the first problem is told by 9.5 s (Arabic 10.0 s), line 2
+  raises a question only the reveal (line 11) answers, plain words, one fact a line. From the kit folder run
+  `python3 -I tools/check_hook.py <kit>` after writing the scripts and again after the voices: no FAIL before you animate.
 - Entries marked "idea" are proposals: check them with a web search before writing; replace one only if it is not
   promised yet and the facts do not hold up.
 
