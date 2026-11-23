@@ -1554,3 +1554,48 @@ Owner did the Advanced features verification on Congrats Engineer and Kef Tenben
 
 ## Nov 22 16:00 PT: desk round done early (check-in 15:40)
 Verified: true worked: all 10 Studio uploads for Nov 23 went through with no daily-limit refusal (sm03 full+short and builds 64-66, both channels). Ledger updated, sm03 released, state/sm03.json has all four TikTok/Instagram targets scheduled (AR 18:30Z, EN 20:15Z). Episode 2 (sm02) is public everywhere. Studio showed "We are still checking your content" after Schedule: click "Got it" (the call 2 script now does it).
+
+## Nov 22 2026 (evening run, 18:37 PT): 67 the Colosseum, 68 Taipei 101, 69 a dishwasher (for Mon Nov 23)
+- TODAY Sun Nov 22 PT, TOMORROW Mon Nov 23 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT
+  before the push). PST: Arabic Instagram 09:00 / 12:00 / 15:00 PT = 17:00Z / 20:00Z / 23:00Z Nov 23, Arabic TikTok
+  08:30 / 12:30 / 15:00 PT (2 h either side of the show's Arabic TikTok at 10:30 PT); English 13:30 / 16:00 / 18:30 PT =
+  21:30Z Nov 23, 00:00Z / 02:30Z Nov 24. YouTube: desk.yml verified: true, so all three hold YouTube with `studio: 1`.
+- Status 02:49Z (Nov 22 PT, builds 58-63): six builds out. English Instagram + TikTok all twelve, Arabic Instagram all
+  six, Arabic TikTok four (60 and 62 "potential spam"; 48's requeue refused again at 01:30Z Nov 23). YouTube: 59 and 61
+  through Buffer, 58 and 60 in Studio, 62 and 63 none (as planned). yt_desk check: nothing overdue.
+- Arabic TikTok in error: 37, 48, 56, 60, 62. The queue held 9 of 10 (49 at 04:30Z Nov 23, 64-66, sm03, 50 and 42 on
+  Nov 24, 54 and 55 on Nov 25), so nothing was requeued at once: the check-in at 11:20Z Nov 23 (03:20 PT) dispatches
+  post.yml for this run's waiting Arabic TikToks and requeues ONE error (60 -> 01:30Z Nov 26); the rest one a day
+  (04:30Z Nov 26, then 01:30Z / 04:30Z Nov 27 ...). Old failed Buffer YouTube posts are left alone (verified channels:
+  YouTube is Studio's job now).
+- Metrics 02:54Z: 198,833 views (+14,176). English TikTok nearly stopped showing new posts since Nov 21 (52-59 median 6
+  views; only the Eiffel Tower broke out, 944). English Instagram pushed only 2 of Nov 21's six. Arabic Instagram builds
+  52-57 median 1,162. Entry in claude/build-it-performance.md.
+- ElevenLabs Pro: 19,588 of 613,234 used before the voices (3%); three Mansour voices 882 + 879 + 860 characters.
+- New tool: kit/tools/check_en_voice.py (Whisper small, line by line, the Nov 15 method; also takes a mix: `... <kit>
+  mix.wav lead=0.5`). It caught "masts" -> "masks" (now "poles"), "want out" -> "went out" (now "try to leave") and "Abu
+  Dhabi" -> "Abu Dhabi Dhabi" (line 10 of 69 now "a dome that rains light"). SAY now maps "101" -> "one-oh-one", so the
+  script, the captions and the cover keep "TAIPEI 101" while Easton says it right.
+- Anchor lesson: English keys match by START of word, so "SHADE" found "shaded" first; colosseum.py takes the second
+  match for English (`self.w("tag", "SHADE", 0.95, nth=1)`). Check that no key is the start of an earlier word in its line.
+- Scenes (all v2 look 2):
+  - colosseum.py (section, ring, gates, ruin, tag): section() = the amphitheatre cut across its short axis (STEPS seat
+    profile, crowd_on_steps, the outer wall with corridors, masts + sailcloth that slides out from them, wind that fills
+    it, ropes down to stone posts, the hypogeum with shafts, cages, capstans and men, a lion on the lift); ring() = the
+    whole ellipse from outside and above, 40 bays a side on three tiers + attic, half columns, cornices, the bowl and
+    crowd, the awning (only the back panels, so the bowl stays visible), gate numerals, crowd jam / flow, holes, and
+    `broken` for the ring today. Hook: sails pulled over the crowd, a lion rising through a trapdoor, then a whip to the
+    ring at "congrats". Tag: a parking lot from above, one tree, a car circling (AR: "تدوّر موقف بظل").
+  - taipei.py (city, room, ball, tag): tower() in elevation (1 m = 2 units) bending with `sway` (offset grows with height
+    squared), eight flared sections, a cut window with the ball (drawn larger than life); bamboo(); seismo(); fireworks
+    for the closer (and the cover); draw_ball_room() = the damper floors in screen space: ball on four cables, four
+    pistons, visitors, storm windows, `frame` tilts the floors (in step = growing, against = dying). Tag: a car hits a
+    speed bump and the cup in the inset empties (AR: a tea glass on a white thobe).
+  - dishwasher.py (kitchen, sink, box, arms, enzyme, old, tag): machine() front view with xray / door: two racks, plates
+    (mid-tone colours: light plates bloom into white discs in the finishing pass), two spray arms foreshortened with jets,
+    the sump puddle, scraps pulled into the filter, pump, heater, pipe with dash_line flow; sink() with a litre counter;
+    arm_top() + sprinkler(); chain() + enzyme(); old_machine() + lady() + maid() for 1886. Tag: mom at the sink, the open
+    machine as her drying rack (AR "نشّافة!").
+- Pages: retired ep61 and ep63 (all posts sent): media/ 723 -> 640 MB before the six new videos (about 760 MB after).
+  Every other build still has an Arabic TikTok to requeue (37, 48, 56, 60, 62) or scheduled (42, 49, 50, 54, 55), and
+  64-66 carry `studio:` with slots on Nov 23. media/sm* untouched (the build runs never retire the show's files).
