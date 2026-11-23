@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-23T06:33:30+00:00
+# Yallah Say Buffer channels, checked 2026-11-23T07:44:56+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -55,7 +55,7 @@
 - ep03-ar ar.instagram: sent, sent 2026-11-22T17:19:57.765Z, https://www.instagram.com/reel/DgDUtySDENH/
 - ep03-ar ar.tiktok: sent, sent 2026-11-22T17:17:16.231Z, https://tiktok.com/@thedarktoldmear/video/7711045638451973389
 - ep03-ar ar.youtube: sent, sent 2026-11-22T17:16:17.315Z, https://www.youtube.com/shorts/lBG2Z9r0vmA
-- ep04-ar-ig2 ar.instagram: scheduled, due 2026-11-23T07:21:02.000Z
+- ep04-ar-ig2 ar.instagram: sent, sent 2026-11-23T07:24:12.581Z, https://www.instagram.com/reel/DgE1PCOCqBB/
 - ep04-ar ar.instagram: error, due 2026-11-22T18:27:36.000Z, ERROR {'message': 'It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.', 'rawError': 'Failed to create media container for instagram: Unable to get media container stat
 - ep04-ar ar.tiktok: sent, sent 2026-11-22T18:29:01.268Z, https://tiktok.com/@thedarktoldmear/video/7711064127862607118
 - ep05-ar ar.instagram: sent, sent 2026-11-23T00:20:10.984Z, https://www.instagram.com/reel/DgEExDuDJ4j/
