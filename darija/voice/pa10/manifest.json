@@ -1,0 +1,134 @@
+{
+ "episode": "pa10",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 168,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "T_wenz",
+  "T_day"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الأربعاء بالإنجليزي فيها حرف ما بنلفظه. شو هو؟",
+   "characters": 46,
+   "model": "eleven_v4",
+   "seconds": 4.48
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "قديش الساعة؟",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الساعة خمسة.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "أنا متأخر!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "استنى شوي.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بنشوفك بكرة.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Wednesday.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Wednesday!",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الماتش الكبير يوم الأربعاء!",
+   "characters": 27,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "T_wenz",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Wenz.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "T_day",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Day.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  }
+ ]
+}

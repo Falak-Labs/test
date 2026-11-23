@@ -1,0 +1,144 @@
+{
+ "episode": "kids11",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 160,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "v1",
+  "Lw",
+  "A_thurz",
+  "A_day",
+  "L_thurz",
+  "L_day"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "What day is it today?",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Today is Friday.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Tomorrow is Saturday.",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "I'm free on Sunday.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "See you next week!",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Thursday!",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "The wedding is on Thursday!",
+   "characters": 27,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Thursday!",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "A_thurz",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Thurz.",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "A_day",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Day.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "L_thurz",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Thurz.",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "L_day",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Day.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  }
+ ]
+}

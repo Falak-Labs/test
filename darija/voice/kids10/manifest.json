@@ -1,0 +1,144 @@
+{
+ "episode": "kids10",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 142,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "v1",
+  "Lw",
+  "A_wenz",
+  "A_day",
+  "L_wenz",
+  "L_day"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "What time is it?",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "It's five o'clock.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I'm late!",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Wait a minute.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "See you tomorrow.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Wednesday!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "The big match is on Wednesday!",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 2.48
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Wednesday!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "A_wenz",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Wenz.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "A_day",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Day.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "L_wenz",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Wenz.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "L_day",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Day.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  }
+ ]
+}

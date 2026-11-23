@@ -1,0 +1,134 @@
+{
+ "episode": "ma11",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 182,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "T_thurz",
+  "T_day"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "لينا كتقول تيرزداي بالتاء. واش عندها الحق؟",
+   "characters": 42,
+   "model": "eleven_v4",
+   "seconds": 3.92
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "آش من نهار اليوم؟",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "اليوم الجمعة.",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "غدا السبت.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "أنا مسالي نهار الحد.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "نتلاقاو السيمانة الجاية!",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Thursday.",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Good job! Thursday!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "العرس نهار الخميس!",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "T_thurz",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Thurz.",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "T_day",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Day.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  }
+ ]
+}

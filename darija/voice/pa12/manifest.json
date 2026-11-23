@@ -1,0 +1,164 @@
+{
+ "episode": "pa12",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 228,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v1",
+  "v2",
+  "T_yoo",
+  "T_zhoo",
+  "T_uh",
+  "T_lee"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "عادةً بالإنجليزي فيها أربع مقاطع. بتقدر تحكيها؟",
+   "characters": 47,
+   "model": "eleven_v4",
+   "seconds": 4.4
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بصحى الساعة سبعة.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بروح عالمدرسة.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بروح عالشغل.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "برجع عالبيت الساعة ستة.",
+   "characters": 23,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "تصبح على خير!",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Usually.",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Usually!",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "I usually drink coffee in the morning.",
+   "characters": 38,
+   "model": "eleven_v4",
+   "seconds": 2.48
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "عادةً بشرب قهوة الصبح.",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "T_yoo",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Yoo.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "T_zhoo",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Zhoo.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "T_uh",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Uh.",
+   "characters": 3,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "T_lee",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Lee.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  }
+ ]
+}
