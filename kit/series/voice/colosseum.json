@@ -2,9 +2,9 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 65.44,
- "words": 230,
- "words_per_sec": 3.51,
+ "duration": 65.66,
+ "words": 231,
+ "words_per_sec": 3.52,
  "lines": [
   {
    "line": 1,
@@ -221,106 +221,106 @@
    "line": 3,
    "start": 10.365,
    "end": 15.417,
-   "text": "So you ring the top of the wall with two hundred and forty wooden masts, and stretch sailcloth between them.",
+   "text": "So you ring the top of the wall with two hundred and forty wooden poles, and stretch sailcloth between them.",
    "words": [
     {
      "w": "So",
      "start": 10.475,
-     "end": 10.658
+     "end": 10.674
     },
     {
      "w": "you",
-     "start": 10.658,
-     "end": 10.842
+     "start": 10.674,
+     "end": 10.873
     },
     {
      "w": "ring",
-     "start": 10.842,
-     "end": 11.025
+     "start": 10.873,
+     "end": 11.071
     },
     {
      "w": "the",
-     "start": 11.025,
-     "end": 11.209
+     "start": 11.071,
+     "end": 11.27
     },
     {
      "w": "top",
-     "start": 11.209,
-     "end": 11.392
+     "start": 11.27,
+     "end": 11.469
     },
     {
      "w": "of",
-     "start": 11.392,
-     "end": 11.576
+     "start": 11.469,
+     "end": 11.668
     },
     {
      "w": "the",
-     "start": 11.576,
-     "end": 11.759
+     "start": 11.668,
+     "end": 11.867
     },
     {
      "w": "wall",
-     "start": 11.759,
-     "end": 11.943
+     "start": 11.867,
+     "end": 12.066
     },
     {
      "w": "with",
-     "start": 11.943,
-     "end": 12.126
+     "start": 12.066,
+     "end": 12.264
     },
     {
      "w": "two",
-     "start": 12.126,
-     "end": 12.31
+     "start": 12.264,
+     "end": 12.463
     },
     {
      "w": "hundred",
-     "start": 12.31,
-     "end": 12.629
+     "start": 12.463,
+     "end": 12.809
     },
     {
      "w": "and",
-     "start": 12.629,
-     "end": 12.813
+     "start": 12.809,
+     "end": 13.008
     },
     {
      "w": "forty",
-     "start": 12.813,
-     "end": 13.132
+     "start": 13.008,
+     "end": 13.354
     },
     {
      "w": "wooden",
-     "start": 13.132,
-     "end": 13.452
+     "start": 13.354,
+     "end": 13.7
     },
     {
-     "w": "masts,",
-     "start": 13.452,
-     "end": 13.635
+     "w": "poles,",
+     "start": 13.7,
+     "end": 14.046
     },
     {
      "w": "and",
-     "start": 13.765,
-     "end": 14.007
+     "start": 14.046,
+     "end": 14.245
     },
     {
      "w": "stretch",
-     "start": 14.007,
-     "end": 14.249
+     "start": 14.245,
+     "end": 14.444
     },
     {
      "w": "sailcloth",
-     "start": 14.249,
-     "end": 14.671
+     "start": 14.444,
+     "end": 14.79
     },
     {
      "w": "between",
-     "start": 14.671,
-     "end": 15.093
+     "start": 14.79,
+     "end": 15.136
     },
     {
      "w": "them.",
-     "start": 15.093,
+     "start": 15.136,
      "end": 15.335
     }
    ]
@@ -489,782 +489,787 @@
   {
    "line": 6,
    "start": 23.667,
-   "end": 27.062,
-   "text": "But fifty thousand people arrive at once, and they all want out at once.",
+   "end": 27.188,
+   "text": "But fifty thousand people arrive at once, and they all try to leave at once.",
    "words": [
     {
      "w": "But",
      "start": 23.807,
-     "end": 24.016
+     "end": 23.998
     },
     {
      "w": "fifty",
-     "start": 24.016,
-     "end": 24.381
+     "start": 23.998,
+     "end": 24.331
     },
     {
      "w": "thousand",
-     "start": 24.381,
-     "end": 24.745
+     "start": 24.331,
+     "end": 24.663
     },
     {
      "w": "people",
-     "start": 24.745,
-     "end": 24.954
+     "start": 24.663,
+     "end": 24.854
     },
     {
      "w": "arrive",
-     "start": 24.954,
-     "end": 25.318
+     "start": 24.854,
+     "end": 25.187
     },
     {
      "w": "at",
-     "start": 25.318,
-     "end": 25.528
+     "start": 25.187,
+     "end": 25.378
     },
     {
      "w": "once,",
-     "start": 25.528,
-     "end": 25.737
+     "start": 25.378,
+     "end": 25.569
     },
     {
      "w": "and",
-     "start": 25.867,
-     "end": 26.026
+     "start": 25.569,
+     "end": 25.76
     },
     {
      "w": "they",
-     "start": 26.026,
-     "end": 26.184
+     "start": 25.76,
+     "end": 25.951
     },
     {
      "w": "all",
-     "start": 26.184,
-     "end": 26.343
+     "start": 25.951,
+     "end": 26.142
     },
     {
-     "w": "want",
-     "start": 26.343,
-     "end": 26.501
+     "w": "try",
+     "start": 26.142,
+     "end": 26.333
     },
     {
-     "w": "out",
-     "start": 26.501,
-     "end": 26.66
+     "w": "to",
+     "start": 26.333,
+     "end": 26.524
+    },
+    {
+     "w": "leave",
+     "start": 26.524,
+     "end": 26.715
     },
     {
      "w": "at",
-     "start": 26.66,
-     "end": 26.818
+     "start": 26.715,
+     "end": 26.906
     },
     {
      "w": "once.",
-     "start": 26.818,
-     "end": 26.977
+     "start": 26.906,
+     "end": 27.097
     }
    ]
   },
   {
    "line": 7,
-   "start": 27.427,
-   "end": 31.354,
+   "start": 27.552,
+   "end": 31.479,
    "text": "So you build eighty arches, number every gate, and mark the gate on every ticket.",
    "words": [
     {
      "w": "So",
-     "start": 27.537,
-     "end": 27.716
+     "start": 27.662,
+     "end": 27.841
     },
     {
      "w": "you",
-     "start": 27.716,
-     "end": 27.894
+     "start": 27.841,
+     "end": 28.019
     },
     {
      "w": "build",
-     "start": 27.894,
-     "end": 28.073
+     "start": 28.019,
+     "end": 28.198
     },
     {
      "w": "eighty",
-     "start": 28.073,
-     "end": 28.384
+     "start": 28.198,
+     "end": 28.509
     },
     {
      "w": "arches,",
-     "start": 28.384,
-     "end": 28.695
+     "start": 28.509,
+     "end": 28.82
     },
     {
      "w": "number",
-     "start": 28.695,
-     "end": 29.007
+     "start": 28.82,
+     "end": 29.132
     },
     {
      "w": "every",
-     "start": 29.007,
-     "end": 29.45
+     "start": 29.132,
+     "end": 29.575
     },
     {
      "w": "gate,",
-     "start": 29.45,
-     "end": 29.629
+     "start": 29.575,
+     "end": 29.754
     },
     {
      "w": "and",
-     "start": 29.629,
-     "end": 29.807
+     "start": 29.754,
+     "end": 29.932
     },
     {
      "w": "mark",
-     "start": 29.807,
-     "end": 29.986
+     "start": 29.932,
+     "end": 30.111
     },
     {
      "w": "the",
-     "start": 29.986,
-     "end": 30.165
+     "start": 30.111,
+     "end": 30.29
     },
     {
      "w": "gate",
-     "start": 30.165,
-     "end": 30.344
+     "start": 30.29,
+     "end": 30.469
     },
     {
      "w": "on",
-     "start": 30.344,
-     "end": 30.522
+     "start": 30.469,
+     "end": 30.647
     },
     {
      "w": "every",
-     "start": 30.522,
-     "end": 30.966
+     "start": 30.647,
+     "end": 31.091
     },
     {
      "w": "ticket.",
-     "start": 30.966,
-     "end": 31.277
+     "start": 31.091,
+     "end": 31.402
     }
    ]
   },
   {
    "line": 8,
-   "start": 31.719,
-   "end": 35.74,
+   "start": 31.844,
+   "end": 35.865,
    "text": "But the crowd wants surprises, and a lion can't just stroll in through the front door.",
    "words": [
     {
      "w": "But",
-     "start": 31.859,
-     "end": 32.086
+     "start": 31.984,
+     "end": 32.211
     },
     {
      "w": "the",
-     "start": 32.086,
-     "end": 32.313
+     "start": 32.211,
+     "end": 32.438
     },
     {
      "w": "crowd",
-     "start": 32.313,
-     "end": 32.539
+     "start": 32.438,
+     "end": 32.664
     },
     {
      "w": "wants",
-     "start": 32.539,
-     "end": 32.766
+     "start": 32.664,
+     "end": 32.891
     },
     {
      "w": "surprises,",
-     "start": 32.766,
-     "end": 33.329
+     "start": 32.891,
+     "end": 33.454
     },
     {
      "w": "and",
-     "start": 33.449,
-     "end": 33.651
+     "start": 33.584,
+     "end": 33.785
     },
     {
      "w": "a",
-     "start": 33.651,
-     "end": 33.853
+     "start": 33.785,
+     "end": 33.986
     },
     {
      "w": "lion",
-     "start": 33.853,
-     "end": 34.054
+     "start": 33.986,
+     "end": 34.187
     },
     {
      "w": "can't",
-     "start": 34.054,
-     "end": 34.256
+     "start": 34.187,
+     "end": 34.388
     },
     {
      "w": "just",
-     "start": 34.256,
-     "end": 34.458
+     "start": 34.388,
+     "end": 34.589
     },
     {
      "w": "stroll",
-     "start": 34.458,
-     "end": 34.66
+     "start": 34.589,
+     "end": 34.789
     },
     {
      "w": "in",
-     "start": 34.66,
-     "end": 34.862
+     "start": 34.789,
+     "end": 34.99
     },
     {
      "w": "through",
-     "start": 34.862,
-     "end": 35.064
+     "start": 34.99,
+     "end": 35.191
     },
     {
      "w": "the",
-     "start": 35.064,
-     "end": 35.265
+     "start": 35.191,
+     "end": 35.392
     },
     {
      "w": "front",
-     "start": 35.265,
-     "end": 35.467
+     "start": 35.392,
+     "end": 35.593
     },
     {
      "w": "door.",
-     "start": 35.467,
-     "end": 35.669
+     "start": 35.593,
+     "end": 35.794
     }
    ]
   },
   {
    "line": 9,
-   "start": 36.104,
-   "end": 41.458,
+   "start": 36.229,
+   "end": 41.583,
    "text": "So you dig two floors of tunnels under the sand, where men push giant winches that lift cages up to trapdoors.",
    "words": [
     {
      "w": "So",
-     "start": 36.214,
-     "end": 36.405
+     "start": 36.339,
+     "end": 36.53
     },
     {
      "w": "you",
-     "start": 36.405,
-     "end": 36.595
+     "start": 36.53,
+     "end": 36.72
     },
     {
      "w": "dig",
-     "start": 36.595,
-     "end": 36.786
+     "start": 36.72,
+     "end": 36.911
     },
     {
      "w": "two",
-     "start": 36.786,
-     "end": 36.977
+     "start": 36.911,
+     "end": 37.102
     },
     {
      "w": "floors",
-     "start": 36.977,
-     "end": 37.168
+     "start": 37.102,
+     "end": 37.293
     },
     {
      "w": "of",
-     "start": 37.168,
-     "end": 37.358
+     "start": 37.293,
+     "end": 37.483
     },
     {
      "w": "tunnels",
-     "start": 37.358,
-     "end": 37.69
+     "start": 37.483,
+     "end": 37.815
     },
     {
      "w": "under",
-     "start": 37.69,
-     "end": 38.023
+     "start": 37.815,
+     "end": 38.148
     },
     {
      "w": "the",
-     "start": 38.023,
-     "end": 38.213
+     "start": 38.148,
+     "end": 38.338
     },
     {
      "w": "sand,",
-     "start": 38.213,
-     "end": 38.404
+     "start": 38.338,
+     "end": 38.529
     },
     {
      "w": "where",
-     "start": 38.564,
-     "end": 38.778
+     "start": 38.689,
+     "end": 38.902
     },
     {
      "w": "men",
-     "start": 38.778,
-     "end": 38.992
+     "start": 38.902,
+     "end": 39.116
     },
     {
      "w": "push",
-     "start": 38.992,
-     "end": 39.206
+     "start": 39.116,
+     "end": 39.329
     },
     {
      "w": "giant",
-     "start": 39.206,
-     "end": 39.42
+     "start": 39.329,
+     "end": 39.542
     },
     {
      "w": "winches",
-     "start": 39.42,
-     "end": 39.793
+     "start": 39.542,
+     "end": 39.913
     },
     {
      "w": "that",
-     "start": 39.793,
-     "end": 40.007
+     "start": 39.913,
+     "end": 40.127
     },
     {
      "w": "lift",
-     "start": 40.007,
-     "end": 40.221
+     "start": 40.127,
+     "end": 40.34
     },
     {
      "w": "cages",
-     "start": 40.221,
-     "end": 40.593
+     "start": 40.34,
+     "end": 40.711
     },
     {
      "w": "up",
-     "start": 40.593,
-     "end": 40.807
+     "start": 40.711,
+     "end": 40.924
     },
     {
      "w": "to",
-     "start": 40.807,
-     "end": 41.021
+     "start": 40.924,
+     "end": 41.138
     },
     {
      "w": "trapdoors.",
-     "start": 41.021,
-     "end": 41.394
+     "start": 41.138,
+     "end": 41.509
     }
    ]
   },
   {
    "line": 10,
-   "start": 41.823,
-   "end": 46.823,
+   "start": 41.948,
+   "end": 46.948,
    "text": "But before you take your seat, follow, because next we're building Taipei 101's giant swinging ball.",
    "words": [
     {
      "w": "But",
-     "start": 41.963,
-     "end": 42.214
+     "start": 42.098,
+     "end": 42.347
     },
     {
      "w": "before",
-     "start": 42.214,
-     "end": 42.65
+     "start": 42.347,
+     "end": 42.781
     },
     {
      "w": "you",
-     "start": 42.65,
-     "end": 42.901
+     "start": 42.781,
+     "end": 43.03
     },
     {
      "w": "take",
-     "start": 42.901,
-     "end": 43.152
+     "start": 43.03,
+     "end": 43.28
     },
     {
      "w": "your",
-     "start": 43.152,
-     "end": 43.402
+     "start": 43.28,
+     "end": 43.529
     },
     {
      "w": "seat,",
-     "start": 43.402,
-     "end": 43.653
+     "start": 43.529,
+     "end": 43.778
     },
     {
      "w": "follow,",
-     "start": 43.793,
-     "end": 44.313
+     "start": 43.918,
+     "end": 44.438
     },
     {
      "w": "because",
-     "start": 44.363,
-     "end": 44.712
+     "start": 44.488,
+     "end": 44.837
     },
     {
      "w": "next",
-     "start": 44.712,
-     "end": 44.913
+     "start": 44.837,
+     "end": 45.038
     },
     {
      "w": "we're",
-     "start": 44.913,
-     "end": 45.113
+     "start": 45.038,
+     "end": 45.238
     },
     {
      "w": "building",
-     "start": 45.113,
-     "end": 45.463
+     "start": 45.238,
+     "end": 45.588
     },
     {
      "w": "Taipei",
-     "start": 45.463,
-     "end": 45.812
+     "start": 45.588,
+     "end": 45.937
     },
     {
      "w": "101's",
-     "start": 45.812,
-     "end": 46.013
+     "start": 45.937,
+     "end": 46.138
     },
     {
      "w": "giant",
-     "start": 46.013,
-     "end": 46.213
+     "start": 46.138,
+     "end": 46.338
     },
     {
      "w": "swinging",
-     "start": 46.213,
-     "end": 46.562
+     "start": 46.338,
+     "end": 46.687
     },
     {
      "w": "ball.",
-     "start": 46.562,
-     "end": 46.763
+     "start": 46.687,
+     "end": 46.888
     }
    ]
   },
   {
    "line": 11,
-   "start": 47.188,
-   "end": 53.25,
+   "start": 47.312,
+   "end": 53.375,
    "text": "Now the story: see all those holes in its walls? Centuries later, people dug out the iron clamps that held its stones.",
    "words": [
     {
      "w": "Now",
-     "start": 47.288,
-     "end": 47.488
+     "start": 47.422,
+     "end": 47.62
     },
     {
      "w": "the",
-     "start": 47.488,
-     "end": 47.689
+     "start": 47.62,
+     "end": 47.818
     },
     {
      "w": "story:",
-     "start": 47.689,
-     "end": 48.038
+     "start": 47.818,
+     "end": 48.162
     },
     {
      "w": "see",
-     "start": 48.218,
-     "end": 48.41
+     "start": 48.342,
+     "end": 48.534
     },
     {
      "w": "all",
-     "start": 48.41,
-     "end": 48.603
+     "start": 48.534,
+     "end": 48.727
     },
     {
      "w": "those",
-     "start": 48.603,
-     "end": 48.795
+     "start": 48.727,
+     "end": 48.919
     },
     {
      "w": "holes",
-     "start": 48.795,
-     "end": 49.131
+     "start": 48.919,
+     "end": 49.255
     },
     {
      "w": "in",
-     "start": 49.131,
-     "end": 49.323
+     "start": 49.255,
+     "end": 49.447
     },
     {
      "w": "its",
-     "start": 49.323,
-     "end": 49.516
+     "start": 49.447,
+     "end": 49.64
     },
     {
      "w": "walls?",
-     "start": 49.516,
-     "end": 49.708
+     "start": 49.64,
+     "end": 49.832
     },
     {
      "w": "Centuries",
-     "start": 49.858,
-     "end": 50.346
+     "start": 49.992,
+     "end": 50.474
     },
     {
      "w": "later,",
-     "start": 50.346,
-     "end": 50.688
+     "start": 50.474,
+     "end": 50.812
     },
     {
      "w": "people",
-     "start": 50.858,
-     "end": 51.061
+     "start": 50.972,
+     "end": 51.176
     },
     {
      "w": "dug",
-     "start": 51.061,
-     "end": 51.264
+     "start": 51.176,
+     "end": 51.38
     },
     {
      "w": "out",
-     "start": 51.264,
-     "end": 51.467
+     "start": 51.38,
+     "end": 51.583
     },
     {
      "w": "the",
-     "start": 51.467,
-     "end": 51.67
+     "start": 51.583,
+     "end": 51.787
     },
     {
      "w": "iron",
-     "start": 51.67,
-     "end": 52.023
+     "start": 51.787,
+     "end": 52.142
     },
     {
      "w": "clamps",
-     "start": 52.023,
-     "end": 52.226
+     "start": 52.142,
+     "end": 52.346
     },
     {
      "w": "that",
-     "start": 52.226,
-     "end": 52.429
+     "start": 52.346,
+     "end": 52.55
     },
     {
      "w": "held",
-     "start": 52.429,
-     "end": 52.632
+     "start": 52.55,
+     "end": 52.753
     },
     {
      "w": "its",
-     "start": 52.632,
-     "end": 52.835
+     "start": 52.753,
+     "end": 52.957
     },
     {
      "w": "stones.",
-     "start": 52.835,
-     "end": 53.188
+     "start": 52.957,
+     "end": 53.312
     }
    ]
   },
   {
    "line": 12,
-   "start": 53.615,
-   "end": 57.198,
-   "text": "Fifty thousand seats, eighty gates, and two hundred and forty masts.",
+   "start": 53.74,
+   "end": 57.26,
+   "text": "Fifty thousand seats, eighty gates, and two hundred and forty poles.",
    "words": [
     {
      "w": "Fifty",
-     "start": 53.745,
-     "end": 54.149
+     "start": 53.86,
+     "end": 54.217
     },
     {
      "w": "thousand",
-     "start": 54.149,
-     "end": 54.553
+     "start": 54.217,
+     "end": 54.575
     },
     {
      "w": "seats,",
-     "start": 54.553,
-     "end": 54.785
+     "start": 54.575,
+     "end": 54.78
     },
     {
      "w": "eighty",
-     "start": 54.935,
-     "end": 55.25
+     "start": 54.83,
+     "end": 55.255
     },
     {
      "w": "gates,",
-     "start": 55.25,
-     "end": 55.565
+     "start": 55.255,
+     "end": 55.68
     },
     {
      "w": "and",
-     "start": 55.695,
-     "end": 55.886
+     "start": 55.82,
+     "end": 55.987
     },
     {
      "w": "two",
-     "start": 55.886,
-     "end": 56.077
+     "start": 55.987,
+     "end": 56.153
     },
     {
      "w": "hundred",
-     "start": 56.077,
-     "end": 56.41
+     "start": 56.153,
+     "end": 56.443
     },
     {
      "w": "and",
-     "start": 56.41,
-     "end": 56.601
+     "start": 56.443,
+     "end": 56.61
     },
     {
      "w": "forty",
-     "start": 56.601,
-     "end": 56.934
+     "start": 56.61,
+     "end": 56.9
     },
     {
-     "w": "masts.",
-     "start": 56.934,
-     "end": 57.125
+     "w": "poles.",
+     "start": 56.9,
+     "end": 57.19
     }
    ]
   },
   {
    "line": 13,
-   "start": 57.562,
-   "end": 60.271,
+   "start": 57.625,
+   "end": 60.333,
    "text": "And congrats, you just built the Colosseum yourself.",
    "words": [
     {
      "w": "And",
-     "start": 57.682,
-     "end": 57.941
+     "start": 57.745,
+     "end": 58.004
     },
     {
      "w": "congrats,",
-     "start": 57.941,
-     "end": 58.392
+     "start": 58.004,
+     "end": 58.455
     },
     {
      "w": "you",
-     "start": 58.532,
-     "end": 58.725
+     "start": 58.595,
+     "end": 58.788
     },
     {
      "w": "just",
-     "start": 58.725,
-     "end": 58.919
+     "start": 58.788,
+     "end": 58.982
     },
     {
      "w": "built",
-     "start": 58.919,
-     "end": 59.112
+     "start": 58.982,
+     "end": 59.175
     },
     {
      "w": "the",
-     "start": 59.112,
-     "end": 59.306
+     "start": 59.175,
+     "end": 59.369
     },
     {
      "w": "Colosseum",
-     "start": 59.306,
-     "end": 59.785
+     "start": 59.369,
+     "end": 59.848
     },
     {
      "w": "yourself.",
-     "start": 59.785,
-     "end": 60.122
+     "start": 59.848,
+     "end": 60.185
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.635,
-   "end": 65.448,
-   "text": "They shaded fifty thousand Romans, and you still circle the parking lot looking for one spot in the shade.",
+   "start": 60.698,
+   "end": 65.677,
+   "text": "They shaded fifty thousand Romans, and you still drive in circles looking for one parking spot in the shade.",
    "words": [
     {
      "w": "They",
-     "start": 60.765,
-     "end": 60.976
+     "start": 60.838,
+     "end": 61.046
     },
     {
      "w": "shaded",
-     "start": 60.976,
-     "end": 61.343
+     "start": 61.046,
+     "end": 61.409
     },
     {
      "w": "fifty",
-     "start": 61.343,
-     "end": 61.71
+     "start": 61.409,
+     "end": 61.772
     },
     {
      "w": "thousand",
-     "start": 61.71,
-     "end": 62.078
+     "start": 61.772,
+     "end": 62.135
     },
     {
      "w": "Romans,",
-     "start": 62.078,
-     "end": 62.445
+     "start": 62.135,
+     "end": 62.498
     },
     {
      "w": "and",
-     "start": 62.565,
-     "end": 62.747
+     "start": 62.618,
+     "end": 62.802
     },
     {
      "w": "you",
-     "start": 62.747,
-     "end": 62.928
+     "start": 62.802,
+     "end": 62.987
     },
     {
      "w": "still",
-     "start": 62.928,
-     "end": 63.11
+     "start": 62.987,
+     "end": 63.171
     },
     {
-     "w": "circle",
-     "start": 63.11,
-     "end": 63.291
-    },
-    {
-     "w": "the",
-     "start": 63.291,
-     "end": 63.473
-    },
-    {
-     "w": "parking",
-     "start": 63.473,
-     "end": 63.788
-    },
-    {
-     "w": "lot",
-     "start": 63.788,
-     "end": 63.97
-    },
-    {
-     "w": "looking",
-     "start": 63.97,
-     "end": 64.286
-    },
-    {
-     "w": "for",
-     "start": 64.286,
-     "end": 64.467
-    },
-    {
-     "w": "one",
-     "start": 64.467,
-     "end": 64.649
-    },
-    {
-     "w": "spot",
-     "start": 64.649,
-     "end": 64.83
+     "w": "drive",
+     "start": 63.171,
+     "end": 63.355
     },
     {
      "w": "in",
-     "start": 64.83,
-     "end": 65.012
+     "start": 63.355,
+     "end": 63.54
+    },
+    {
+     "w": "circles",
+     "start": 63.54,
+     "end": 63.86
+    },
+    {
+     "w": "looking",
+     "start": 63.86,
+     "end": 64.181
+    },
+    {
+     "w": "for",
+     "start": 64.181,
+     "end": 64.366
+    },
+    {
+     "w": "one",
+     "start": 64.366,
+     "end": 64.55
+    },
+    {
+     "w": "parking",
+     "start": 64.55,
+     "end": 64.871
+    },
+    {
+     "w": "spot",
+     "start": 64.871,
+     "end": 65.055
+    },
+    {
+     "w": "in",
+     "start": 65.055,
+     "end": 65.239
     },
     {
      "w": "the",
-     "start": 65.012,
-     "end": 65.193
+     "start": 65.239,
+     "end": 65.424
     },
     {
      "w": "shade.",
-     "start": 65.193,
-     "end": 65.375
+     "start": 65.424,
+     "end": 65.608
     }
    ]
   }
