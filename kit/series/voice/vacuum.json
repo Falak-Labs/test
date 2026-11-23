@@ -2,7 +2,7 @@
  "voice": "Easton",
  "tempo": 0.96,
  "gap": 0.35,
- "duration": 64.34,
+ "duration": 64.38,
  "words": 229,
  "words_per_sec": 3.56,
  "lines": [
@@ -688,578 +688,578 @@
   {
    "line": 9,
    "start": 32.448,
-   "end": 35.479,
-   "text": "So a filter traps specks hundreds of times thinner than a hair.",
+   "end": 35.531,
+   "text": "So a filter catches dust hundreds of times thinner than a hair.",
    "words": [
     {
      "w": "So",
      "start": 32.558,
-     "end": 32.75
+     "end": 32.743
     },
     {
      "w": "a",
-     "start": 32.75,
-     "end": 32.942
+     "start": 32.743,
+     "end": 32.929
     },
     {
      "w": "filter",
-     "start": 32.942,
-     "end": 33.276
+     "start": 32.929,
+     "end": 33.251
     },
     {
-     "w": "traps",
-     "start": 33.276,
-     "end": 33.467
+     "w": "catches",
+     "start": 33.251,
+     "end": 33.574
     },
     {
-     "w": "specks",
-     "start": 33.467,
-     "end": 33.659
+     "w": "dust",
+     "start": 33.574,
+     "end": 33.759
     },
     {
      "w": "hundreds",
-     "start": 33.659,
-     "end": 33.993
+     "start": 33.759,
+     "end": 34.082
     },
     {
      "w": "of",
-     "start": 33.993,
-     "end": 34.185
+     "start": 34.082,
+     "end": 34.267
     },
     {
      "w": "times",
-     "start": 34.185,
-     "end": 34.519
+     "start": 34.267,
+     "end": 34.59
     },
     {
      "w": "thinner",
-     "start": 34.519,
-     "end": 34.853
+     "start": 34.59,
+     "end": 34.912
     },
     {
      "w": "than",
-     "start": 34.853,
-     "end": 35.044
+     "start": 34.912,
+     "end": 35.097
     },
     {
      "w": "a",
-     "start": 35.044,
-     "end": 35.236
+     "start": 35.097,
+     "end": 35.283
     },
     {
      "w": "hair.",
-     "start": 35.236,
-     "end": 35.428
+     "start": 35.283,
+     "end": 35.468
     }
    ]
   },
   {
    "line": 10,
-   "start": 35.844,
-   "end": 41.177,
+   "start": 35.896,
+   "end": 41.229,
    "text": "But before you vacuum up your earbuds, follow, because next we're building two towers with a bridge in the sky.",
    "words": [
     {
      "w": "But",
-     "start": 35.994,
-     "end": 36.184
+     "start": 36.036,
+     "end": 36.227
     },
     {
      "w": "before",
-     "start": 36.184,
-     "end": 36.514
+     "start": 36.227,
+     "end": 36.559
     },
     {
      "w": "you",
-     "start": 36.514,
-     "end": 36.704
+     "start": 36.559,
+     "end": 36.75
     },
     {
      "w": "vacuum",
-     "start": 36.704,
-     "end": 37.034
+     "start": 36.75,
+     "end": 37.082
     },
     {
      "w": "up",
-     "start": 37.034,
-     "end": 37.224
+     "start": 37.082,
+     "end": 37.273
     },
     {
      "w": "your",
-     "start": 37.224,
-     "end": 37.414
+     "start": 37.273,
+     "end": 37.464
     },
     {
      "w": "earbuds,",
-     "start": 37.414,
-     "end": 37.744
+     "start": 37.464,
+     "end": 37.796
     },
     {
      "w": "follow,",
-     "start": 37.894,
-     "end": 38.204
+     "start": 37.946,
+     "end": 38.256
     },
     {
      "w": "because",
-     "start": 38.344,
-     "end": 38.682
+     "start": 38.406,
+     "end": 38.743
     },
     {
      "w": "next",
-     "start": 38.682,
-     "end": 38.876
+     "start": 38.743,
+     "end": 38.936
     },
     {
      "w": "we're",
-     "start": 38.876,
-     "end": 39.07
+     "start": 38.936,
+     "end": 39.129
     },
     {
      "w": "building",
-     "start": 39.07,
-     "end": 39.408
+     "start": 39.129,
+     "end": 39.466
     },
     {
      "w": "two",
-     "start": 39.408,
-     "end": 39.602
+     "start": 39.466,
+     "end": 39.659
     },
     {
      "w": "towers",
-     "start": 39.602,
-     "end": 39.94
+     "start": 39.659,
+     "end": 39.996
     },
     {
      "w": "with",
-     "start": 39.94,
-     "end": 40.134
+     "start": 39.996,
+     "end": 40.189
     },
     {
      "w": "a",
-     "start": 40.134,
-     "end": 40.328
+     "start": 40.189,
+     "end": 40.383
     },
     {
      "w": "bridge",
-     "start": 40.328,
-     "end": 40.522
+     "start": 40.383,
+     "end": 40.576
     },
     {
      "w": "in",
-     "start": 40.522,
-     "end": 40.716
+     "start": 40.576,
+     "end": 40.769
     },
     {
      "w": "the",
-     "start": 40.716,
-     "end": 40.91
+     "start": 40.769,
+     "end": 40.963
     },
     {
      "w": "sky.",
-     "start": 40.91,
-     "end": 41.104
+     "start": 40.963,
+     "end": 41.156
     }
    ]
   },
   {
    "line": 11,
-   "start": 41.542,
-   "end": 49.5,
+   "start": 41.594,
+   "end": 49.552,
    "text": "Now the story: in nineteen-oh-one, Hubert Booth sucked a dusty chair through a handkerchief to test it, then built a horse-drawn machine with hoses through the windows.",
    "words": [
     {
      "w": "Now",
-     "start": 41.652,
-     "end": 41.852
+     "start": 41.704,
+     "end": 41.904
     },
     {
      "w": "the",
-     "start": 41.852,
-     "end": 42.053
+     "start": 41.904,
+     "end": 42.105
     },
     {
      "w": "story:",
-     "start": 42.053,
-     "end": 42.402
+     "start": 42.105,
+     "end": 42.454
     },
     {
      "w": "in",
-     "start": 42.542,
-     "end": 42.735
+     "start": 42.594,
+     "end": 42.787
     },
     {
      "w": "nineteen-oh-one,",
-     "start": 42.735,
-     "end": 43.502
+     "start": 42.787,
+     "end": 43.554
     },
     {
      "w": "Hubert",
-     "start": 43.682,
-     "end": 44.009
+     "start": 43.734,
+     "end": 44.061
     },
     {
      "w": "Booth",
-     "start": 44.009,
-     "end": 44.197
+     "start": 44.061,
+     "end": 44.249
     },
     {
      "w": "sucked",
-     "start": 44.197,
-     "end": 44.524
+     "start": 44.249,
+     "end": 44.576
     },
     {
      "w": "a",
-     "start": 44.524,
-     "end": 44.712
+     "start": 44.576,
+     "end": 44.764
     },
     {
      "w": "dusty",
-     "start": 44.712,
-     "end": 45.039
+     "start": 44.764,
+     "end": 45.091
     },
     {
      "w": "chair",
-     "start": 45.039,
-     "end": 45.227
+     "start": 45.091,
+     "end": 45.279
     },
     {
      "w": "through",
-     "start": 45.227,
-     "end": 45.414
+     "start": 45.279,
+     "end": 45.466
     },
     {
      "w": "a",
-     "start": 45.414,
-     "end": 45.602
+     "start": 45.466,
+     "end": 45.654
     },
     {
      "w": "handkerchief",
-     "start": 45.602,
-     "end": 46.068
+     "start": 45.654,
+     "end": 46.12
     },
     {
      "w": "to",
-     "start": 46.068,
-     "end": 46.256
+     "start": 46.12,
+     "end": 46.308
     },
     {
      "w": "test",
-     "start": 46.256,
-     "end": 46.444
+     "start": 46.308,
+     "end": 46.496
     },
     {
      "w": "it,",
-     "start": 46.444,
-     "end": 46.632
+     "start": 46.496,
+     "end": 46.684
     },
     {
      "w": "then",
-     "start": 46.762,
-     "end": 46.957
+     "start": 46.814,
+     "end": 47.009
     },
     {
      "w": "built",
-     "start": 46.957,
-     "end": 47.152
+     "start": 47.009,
+     "end": 47.204
     },
     {
      "w": "a",
-     "start": 47.152,
-     "end": 47.347
+     "start": 47.204,
+     "end": 47.399
     },
     {
      "w": "horse-drawn",
-     "start": 47.347,
-     "end": 47.83
+     "start": 47.399,
+     "end": 47.882
     },
     {
      "w": "machine",
-     "start": 47.83,
-     "end": 48.169
+     "start": 47.882,
+     "end": 48.221
     },
     {
      "w": "with",
-     "start": 48.169,
-     "end": 48.364
+     "start": 48.221,
+     "end": 48.416
     },
     {
      "w": "hoses",
-     "start": 48.364,
-     "end": 48.703
+     "start": 48.416,
+     "end": 48.755
     },
     {
      "w": "through",
-     "start": 48.703,
-     "end": 48.898
+     "start": 48.755,
+     "end": 48.95
     },
     {
      "w": "the",
-     "start": 48.898,
-     "end": 49.093
+     "start": 48.95,
+     "end": 49.145
     },
     {
      "w": "windows.",
-     "start": 49.093,
-     "end": 49.432
+     "start": 49.145,
+     "end": 49.484
     }
    ]
   },
   {
    "line": 12,
-   "start": 49.865,
-   "end": 55.417,
+   "start": 49.917,
+   "end": 55.469,
    "text": "A hundred and twenty-five thousand turns a minute, ninety-nine point nine seven percent caught, and zero bags.",
    "words": [
     {
      "w": "A",
-     "start": 49.985,
-     "end": 50.169
+     "start": 50.027,
+     "end": 50.233
     },
     {
      "w": "hundred",
-     "start": 50.169,
-     "end": 50.488
+     "start": 50.233,
+     "end": 50.59
     },
     {
      "w": "and",
-     "start": 50.488,
-     "end": 50.672
+     "start": 50.59,
+     "end": 50.796
     },
     {
      "w": "twenty-five",
-     "start": 50.672,
-     "end": 51.128
+     "start": 50.796,
+     "end": 51.306
     },
     {
      "w": "thousand",
-     "start": 51.128,
-     "end": 51.448
+     "start": 51.306,
+     "end": 51.664
     },
     {
      "w": "turns",
-     "start": 51.448,
-     "end": 51.632
+     "start": 51.664,
+     "end": 51.869
     },
     {
      "w": "a",
-     "start": 51.632,
-     "end": 51.815
+     "start": 51.869,
+     "end": 52.075
     },
     {
      "w": "minute,",
-     "start": 51.815,
-     "end": 52.135
+     "start": 52.075,
+     "end": 52.433
     },
     {
      "w": "ninety-nine",
-     "start": 52.285,
-     "end": 52.976
+     "start": 52.433,
+     "end": 53.095
     },
     {
      "w": "point",
-     "start": 52.976,
-     "end": 53.19
+     "start": 53.095,
+     "end": 53.3
     },
     {
      "w": "nine",
-     "start": 53.19,
-     "end": 53.404
+     "start": 53.3,
+     "end": 53.506
     },
     {
      "w": "seven",
-     "start": 53.404,
-     "end": 53.778
+     "start": 53.506,
+     "end": 53.864
     },
     {
      "w": "percent",
-     "start": 53.778,
-     "end": 54.151
+     "start": 53.864,
+     "end": 54.221
     },
     {
      "w": "caught,",
-     "start": 54.151,
-     "end": 54.365
+     "start": 54.221,
+     "end": 54.427
     },
     {
      "w": "and",
-     "start": 54.495,
-     "end": 54.722
+     "start": 54.547,
+     "end": 54.777
     },
     {
      "w": "zero",
-     "start": 54.722,
-     "end": 55.118
+     "start": 54.777,
+     "end": 55.177
     },
     {
      "w": "bags.",
-     "start": 55.118,
-     "end": 55.345
+     "start": 55.177,
+     "end": 55.407
     }
    ]
   },
   {
    "line": 13,
-   "start": 55.781,
-   "end": 58.594,
+   "start": 55.833,
+   "end": 58.646,
    "text": "And congrats, you just built a vacuum cleaner yourself.",
    "words": [
     {
      "w": "And",
-     "start": 55.901,
-     "end": 56.118
+     "start": 55.953,
+     "end": 56.17
     },
     {
      "w": "congrats,",
-     "start": 56.118,
-     "end": 56.494
+     "start": 56.17,
+     "end": 56.546
     },
     {
      "w": "you",
-     "start": 56.494,
-     "end": 56.711
+     "start": 56.546,
+     "end": 56.763
     },
     {
      "w": "just",
-     "start": 56.711,
-     "end": 56.927
+     "start": 56.763,
+     "end": 56.979
     },
     {
      "w": "built",
-     "start": 56.927,
-     "end": 57.144
+     "start": 56.979,
+     "end": 57.196
     },
     {
      "w": "a",
-     "start": 57.144,
-     "end": 57.36
+     "start": 57.196,
+     "end": 57.412
     },
     {
      "w": "vacuum",
-     "start": 57.36,
-     "end": 57.737
+     "start": 57.412,
+     "end": 57.789
     },
     {
      "w": "cleaner",
-     "start": 57.737,
-     "end": 58.114
+     "start": 57.789,
+     "end": 58.166
     },
     {
      "w": "yourself.",
-     "start": 58.114,
-     "end": 58.491
+     "start": 58.166,
+     "end": 58.543
     }
    ]
   },
   {
    "line": 14,
-   "start": 58.958,
-   "end": 64.344,
+   "start": 59.01,
+   "end": 64.396,
    "text": "A motor faster than a race car engine, and your robot vacuum still gets stuck under the same couch every day.",
    "words": [
     {
      "w": "A",
-     "start": 59.078,
-     "end": 59.27
+     "start": 59.13,
+     "end": 59.322
     },
     {
      "w": "motor",
-     "start": 59.27,
-     "end": 59.604
+     "start": 59.322,
+     "end": 59.656
     },
     {
      "w": "faster",
-     "start": 59.604,
-     "end": 59.937
+     "start": 59.656,
+     "end": 59.989
     },
     {
      "w": "than",
-     "start": 59.937,
-     "end": 60.129
+     "start": 59.989,
+     "end": 60.181
     },
     {
      "w": "a",
-     "start": 60.129,
-     "end": 60.321
+     "start": 60.181,
+     "end": 60.373
     },
     {
      "w": "race",
-     "start": 60.321,
-     "end": 60.512
+     "start": 60.373,
+     "end": 60.564
     },
     {
      "w": "car",
-     "start": 60.512,
-     "end": 60.704
+     "start": 60.564,
+     "end": 60.756
     },
     {
      "w": "engine,",
-     "start": 60.704,
-     "end": 61.038
+     "start": 60.756,
+     "end": 61.09
     },
     {
      "w": "and",
-     "start": 61.158,
-     "end": 61.345
+     "start": 61.2,
+     "end": 61.387
     },
     {
      "w": "your",
-     "start": 61.345,
-     "end": 61.533
+     "start": 61.387,
+     "end": 61.575
     },
     {
      "w": "robot",
-     "start": 61.533,
-     "end": 61.859
+     "start": 61.575,
+     "end": 61.901
     },
     {
      "w": "vacuum",
-     "start": 61.859,
-     "end": 62.185
+     "start": 61.901,
+     "end": 62.227
     },
     {
      "w": "still",
-     "start": 62.185,
-     "end": 62.373
+     "start": 62.227,
+     "end": 62.415
     },
     {
      "w": "gets",
-     "start": 62.373,
-     "end": 62.56
+     "start": 62.415,
+     "end": 62.602
     },
     {
      "w": "stuck",
-     "start": 62.56,
-     "end": 62.747
+     "start": 62.602,
+     "end": 62.789
     },
     {
      "w": "under",
-     "start": 62.747,
-     "end": 63.073
+     "start": 62.789,
+     "end": 63.115
     },
     {
      "w": "the",
-     "start": 63.073,
-     "end": 63.261
+     "start": 63.115,
+     "end": 63.303
     },
     {
      "w": "same",
-     "start": 63.261,
-     "end": 63.448
+     "start": 63.303,
+     "end": 63.49
     },
     {
      "w": "couch",
-     "start": 63.448,
-     "end": 63.636
+     "start": 63.49,
+     "end": 63.678
     },
     {
      "w": "every",
-     "start": 63.636,
-     "end": 64.101
+     "start": 63.678,
+     "end": 64.143
     },
     {
      "w": "day.",
-     "start": 64.101,
-     "end": 64.288
+     "start": 64.143,
+     "end": 64.33
     }
    ]
   }

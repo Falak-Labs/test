@@ -1,6 +1,6 @@
 {
  "voice": "Easton",
- "duration": 61.77,
+ "duration": 61.82,
  "words": 229,
  "lines": [
   {
@@ -54,37 +54,37 @@
   {
    "line": 9,
    "start": 31.15,
-   "end": 34.06,
-   "text": "So a filter traps specks hundreds of times thinner than a hair."
+   "end": 34.11,
+   "text": "So a filter catches dust hundreds of times thinner than a hair."
   },
   {
    "line": 10,
-   "start": 34.41,
-   "end": 39.53,
+   "start": 34.46,
+   "end": 39.58,
    "text": "But before you vacuum up your earbuds, follow, because next we're building two towers with a bridge in the sky."
   },
   {
    "line": 11,
-   "start": 39.88,
-   "end": 47.52,
+   "start": 39.93,
+   "end": 47.57,
    "text": "Now the story: in nineteen-oh-one, Hubert Booth sucked a dusty chair through a handkerchief to test it, then built a horse-drawn machine with hoses through the windows."
   },
   {
    "line": 12,
-   "start": 47.87,
-   "end": 53.2,
+   "start": 47.92,
+   "end": 53.25,
    "text": "A hundred and twenty-five thousand turns a minute, ninety-nine point nine seven percent caught, and zero bags."
   },
   {
    "line": 13,
-   "start": 53.55,
-   "end": 56.25,
+   "start": 53.6,
+   "end": 56.3,
    "text": "And congrats, you just built a vacuum cleaner yourself."
   },
   {
    "line": 14,
-   "start": 56.6,
-   "end": 61.77,
+   "start": 56.65,
+   "end": 61.82,
    "text": "A motor faster than a race car engine, and your robot vacuum still gets stuck under the same couch every day."
   }
  ]
