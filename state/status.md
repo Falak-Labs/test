@@ -1,4 +1,4 @@
-# Post status 2026-11-23T11:25:52+00:00
+# Post status 2026-11-23T19:28:50+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -339,7 +339,7 @@
 | ep59-liberty | en.tiktok | sent |  | 2026-11-22T16:31:31.341Z https://tiktok.com/@congratsengineer/video/7711034015494540557 |
 | ep59-liberty | en.youtube | sent |  | 2026-11-22T16:30:26.613Z https://www.youtube.com/shorts/TMGgQJwx7fs |
 | ep60-microwave | ar.instagram | sent |  | 2026-11-22T14:02:37.149Z https://www.instagram.com/reel/DgC-LL6hV-N/ |
-| ep60-microwave | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-22T14:00:00.000Z |
+| ep60-microwave | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T01:30:00.000Z |
 | ep60-microwave | en.instagram | sent |  | 2026-11-22T19:03:37.028Z https://www.instagram.com/reel/DgDgsC5Bn0v/ |
 | ep60-microwave | en.tiktok | sent |  | 2026-11-22T19:02:29.506Z https://tiktok.com/@congratsengineer/video/7711072976526953741 |
 | ep61-pisa | ar.instagram | sent |  | 2026-11-22T17:03:50.257Z https://www.instagram.com/reel/DgDS0-MzSnZ/ |
@@ -358,18 +358,18 @@
 | ep63-washer | en.tiktok | sent |  | 2026-11-23T02:32:04.373Z https://tiktok.com/@congratsengineer/video/7711188652017126670 |
 | ep64-bigben | ar.instagram | sent |  | 2026-11-23T08:02:14.874Z https://www.instagram.com/reel/DgE5xu_ogOV/ |
 | ep64-bigben | ar.tiktok | sent |  | 2026-11-23T08:01:55.803Z https://tiktok.com/@kef.tenbeni/video/7711273717090782478 |
-| ep64-bigben | en.instagram | scheduled |  | 2026-11-23T14:00:00.000Z |
-| ep64-bigben | en.tiktok | scheduled |  | 2026-11-23T14:00:00.000Z |
+| ep64-bigben | en.instagram | sent |  | 2026-11-23T14:03:09.526Z https://www.instagram.com/reel/DgFjF3YoV15/ |
+| ep64-bigben | en.tiktok | sent |  | 2026-11-23T14:08:52.221Z https://tiktok.com/@congratsengineer/video/7711367850526641422 |
 | ep65-shibam | ar.instagram | sent |  | 2026-11-23T11:02:47.913Z https://www.instagram.com/reel/DgFOa0vTVMj/ |
 | ep65-shibam | ar.tiktok | sent |  | 2026-11-23T11:02:04.500Z https://tiktok.com/@kef.tenbeni/video/7711320060291337486 |
-| ep65-shibam | en.instagram | scheduled |  | 2026-11-23T16:30:00.000Z |
-| ep65-shibam | en.tiktok | scheduled |  | 2026-11-23T16:30:00.000Z |
-| ep66-towerbridge | ar.instagram | scheduled |  | 2026-11-23T14:00:00.000Z |
-| ep66-towerbridge | ar.tiktok | scheduled |  | 2026-11-23T14:00:00.000Z |
-| ep66-towerbridge | en.instagram | scheduled |  | 2026-11-23T19:00:00.000Z |
-| ep66-towerbridge | en.tiktok | scheduled |  | 2026-11-23T19:00:00.000Z |
-| ep67-colosseum | ar.instagram | scheduled |  | 2026-11-23T17:00:00.000Z |
-| ep67-colosseum | ar.tiktok | scheduled |  | 2026-11-23T16:30:00.000Z |
+| ep65-shibam | en.instagram | sent |  | 2026-11-23T16:33:40.343Z https://www.instagram.com/reel/DgF0RKRM1Hb/ |
+| ep65-shibam | en.tiktok | sent |  | 2026-11-23T16:32:29.705Z https://tiktok.com/@congratsengineer/video/7711405361512582414 |
+| ep66-towerbridge | ar.instagram | sent |  | 2026-11-23T14:04:15.937Z https://www.instagram.com/reel/DgFjKxUNtkr/ |
+| ep66-towerbridge | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T14:00:00.000Z |
+| ep66-towerbridge | en.instagram | sent |  | 2026-11-23T19:05:27.446Z https://www.instagram.com/reel/DgGFgTQh8Os/ |
+| ep66-towerbridge | en.tiktok | sent |  | 2026-11-23T19:05:18.089Z https://tiktok.com/@congratsengineer/video/7711444510085090574 |
+| ep67-colosseum | ar.instagram | sent |  | 2026-11-23T17:06:07.135Z https://www.instagram.com/reel/DgF4BhhvMRN/ |
+| ep67-colosseum | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T16:30:00.000Z |
 | ep67-colosseum | en.instagram | scheduled |  | 2026-11-23T21:30:00.000Z |
 | ep67-colosseum | en.tiktok | scheduled |  | 2026-11-23T21:30:00.000Z |
 | ep68-taipei | ar.instagram | scheduled |  | 2026-11-23T20:00:00.000Z |
@@ -386,7 +386,7 @@
 | sm02 | ar.tiktok | sent |  | 2026-11-22T18:31:37.817Z https://tiktok.com/@kef.tenbeni/video/7711064986436521229 |
 | sm02 | en.instagram | sent |  | 2026-11-22T20:16:16.547Z https://www.instagram.com/reel/DgDo_XSguAT/ |
 | sm02 | en.tiktok | sent |  | 2026-11-22T20:16:52.404Z https://tiktok.com/@congratsengineer/video/7711091895430024461 |
-| sm03 | ar.instagram | scheduled |  | 2026-11-23T18:30:00.000Z |
-| sm03 | ar.tiktok | scheduled |  | 2026-11-23T18:30:00.000Z |
+| sm03 | ar.instagram | sent |  | 2026-11-23T18:32:33.518Z https://www.instagram.com/reel/DgGB6F5B1lE/ |
+| sm03 | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T18:30:00.000Z |
 | sm03 | en.instagram | scheduled |  | 2026-11-23T20:15:00.000Z |
 | sm03 | en.tiktok | scheduled |  | 2026-11-23T20:15:00.000Z |
