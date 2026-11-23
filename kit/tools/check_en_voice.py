@@ -1,7 +1,8 @@
 """Check an English voice line by line with Whisper small (the local check of NIGHT_NOTES Nov 15).
     python3 -I tools/check_en_voice.py series/voice/<kit>            (a narration: <kit>.json + <kit>.wav)
-    python3 -I tools/check_en_voice.py series/voice/<kit> mix.wav    (the same line times on a finished mix; the video
-                                                                      starts 0.5 s before the voice: pass lead=0.5)
+    python3 -I tools/check_en_voice.py series/voice/<kit> mix.wav lead=0.5 pause=0.6
+                                     (a finished mix: the video starts 0.5 s before the voice and holds a 0.6 s fake
+                                      pause before line 10, the cta)
 Each line's span is padded 0.5 s before and 2 s after, the words are compared with difflib; number formats show up
 as differences ("1400" for "fourteen hundred"), so read the lines it prints rather than the percentage alone.
 """
@@ -18,10 +19,12 @@ from scipy.signal import resample_poly
 wd = "/home/claude/tts/asr/sherpa-onnx-whisper-small"
 vo = sys.argv[1]
 wav = vo + ".wav"
-lead = 0.0
+lead = pause = 0.0
 for a in sys.argv[2:]:
     if a.startswith("lead="):
         lead = float(a[5:])
+    elif a.startswith("pause="):
+        pause = float(a[6:])
     else:
         wav = a
 d = json.load(open(vo + ".json"))
@@ -38,8 +41,9 @@ def words(s):
 
 tot = bad = 0
 for i, ln in enumerate(d["lines"]):
-    a = max(0.0, ln["start"] + lead - 0.5)
-    b = ln["end"] + lead + (0.3 if i + 1 < len(d["lines"]) else 2.0)
+    off = lead + (pause if i >= 9 else 0.0)
+    a = max(0.0, ln["start"] + off - 0.5)
+    b = ln["end"] + off + (0.3 if i + 1 < len(d["lines"]) else 2.0)
     seg = y[int(a * sr):int(b * sr)]
     seg16 = np.concatenate([resample_poly(seg, 16000, sr), np.zeros(32000)]).astype(np.float32)
     st = R.create_stream()
