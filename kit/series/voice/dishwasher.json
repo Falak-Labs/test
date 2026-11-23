@@ -1,0 +1,1277 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 65.88,
+ "words": 231,
+ "words_per_sec": 3.51,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.688,
+   "text": "If you blast your dishes with water too hot for your hands, from arms that spin with no motor, congrats, you just built a dishwasher.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.33
+    },
+    {
+     "w": "you",
+     "start": 0.33,
+     "end": 0.531
+    },
+    {
+     "w": "blast",
+     "start": 0.531,
+     "end": 0.731
+    },
+    {
+     "w": "your",
+     "start": 0.731,
+     "end": 0.931
+    },
+    {
+     "w": "dishes",
+     "start": 0.931,
+     "end": 1.28
+    },
+    {
+     "w": "with",
+     "start": 1.28,
+     "end": 1.48
+    },
+    {
+     "w": "water",
+     "start": 1.48,
+     "end": 1.829
+    },
+    {
+     "w": "too",
+     "start": 1.829,
+     "end": 2.029
+    },
+    {
+     "w": "hot",
+     "start": 2.029,
+     "end": 2.229
+    },
+    {
+     "w": "for",
+     "start": 2.229,
+     "end": 2.429
+    },
+    {
+     "w": "your",
+     "start": 2.429,
+     "end": 2.63
+    },
+    {
+     "w": "hands,",
+     "start": 2.63,
+     "end": 2.83
+    },
+    {
+     "w": "from",
+     "start": 2.95,
+     "end": 3.157
+    },
+    {
+     "w": "arms",
+     "start": 3.157,
+     "end": 3.363
+    },
+    {
+     "w": "that",
+     "start": 3.363,
+     "end": 3.57
+    },
+    {
+     "w": "spin",
+     "start": 3.57,
+     "end": 3.777
+    },
+    {
+     "w": "with",
+     "start": 3.777,
+     "end": 3.983
+    },
+    {
+     "w": "no",
+     "start": 3.983,
+     "end": 4.19
+    },
+    {
+     "w": "motor,",
+     "start": 4.19,
+     "end": 4.55
+    },
+    {
+     "w": "congrats,",
+     "start": 4.7,
+     "end": 5.104
+    },
+    {
+     "w": "you",
+     "start": 5.104,
+     "end": 5.337
+    },
+    {
+     "w": "just",
+     "start": 5.337,
+     "end": 5.569
+    },
+    {
+     "w": "built",
+     "start": 5.569,
+     "end": 5.801
+    },
+    {
+     "w": "a",
+     "start": 5.801,
+     "end": 6.034
+    },
+    {
+     "w": "dishwasher.",
+     "start": 6.034,
+     "end": 6.61
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.052,
+   "end": 10.802,
+   "text": "But washing a big dinner by hand can send up to a hundred liters down the drain.",
+   "words": [
+    {
+     "w": "But",
+     "start": 7.192,
+     "end": 7.369
+    },
+    {
+     "w": "washing",
+     "start": 7.369,
+     "end": 7.678
+    },
+    {
+     "w": "a",
+     "start": 7.678,
+     "end": 7.855
+    },
+    {
+     "w": "big",
+     "start": 7.855,
+     "end": 8.033
+    },
+    {
+     "w": "dinner",
+     "start": 8.033,
+     "end": 8.341
+    },
+    {
+     "w": "by",
+     "start": 8.341,
+     "end": 8.519
+    },
+    {
+     "w": "hand",
+     "start": 8.519,
+     "end": 8.696
+    },
+    {
+     "w": "can",
+     "start": 8.696,
+     "end": 8.873
+    },
+    {
+     "w": "send",
+     "start": 8.873,
+     "end": 9.051
+    },
+    {
+     "w": "up",
+     "start": 9.051,
+     "end": 9.228
+    },
+    {
+     "w": "to",
+     "start": 9.228,
+     "end": 9.405
+    },
+    {
+     "w": "a",
+     "start": 9.405,
+     "end": 9.583
+    },
+    {
+     "w": "hundred",
+     "start": 9.583,
+     "end": 9.891
+    },
+    {
+     "w": "liters",
+     "start": 9.891,
+     "end": 10.2
+    },
+    {
+     "w": "down",
+     "start": 10.2,
+     "end": 10.377
+    },
+    {
+     "w": "the",
+     "start": 10.377,
+     "end": 10.555
+    },
+    {
+     "w": "drain.",
+     "start": 10.555,
+     "end": 10.732
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 11.167,
+   "end": 16.083,
+   "text": "So you close it in a box: a few liters sit in the bottom, and a pump throws them around again and again.",
+   "words": [
+    {
+     "w": "So",
+     "start": 11.277,
+     "end": 11.457
+    },
+    {
+     "w": "you",
+     "start": 11.457,
+     "end": 11.637
+    },
+    {
+     "w": "close",
+     "start": 11.637,
+     "end": 11.817
+    },
+    {
+     "w": "it",
+     "start": 11.817,
+     "end": 11.997
+    },
+    {
+     "w": "in",
+     "start": 11.997,
+     "end": 12.177
+    },
+    {
+     "w": "a",
+     "start": 12.177,
+     "end": 12.357
+    },
+    {
+     "w": "box:",
+     "start": 12.357,
+     "end": 12.537
+    },
+    {
+     "w": "a",
+     "start": 12.677,
+     "end": 12.834
+    },
+    {
+     "w": "few",
+     "start": 12.834,
+     "end": 12.991
+    },
+    {
+     "w": "liters",
+     "start": 12.991,
+     "end": 13.264
+    },
+    {
+     "w": "sit",
+     "start": 13.264,
+     "end": 13.42
+    },
+    {
+     "w": "in",
+     "start": 13.42,
+     "end": 13.577
+    },
+    {
+     "w": "the",
+     "start": 13.577,
+     "end": 13.734
+    },
+    {
+     "w": "bottom,",
+     "start": 13.734,
+     "end": 14.007
+    },
+    {
+     "w": "and",
+     "start": 14.127,
+     "end": 14.295
+    },
+    {
+     "w": "a",
+     "start": 14.295,
+     "end": 14.464
+    },
+    {
+     "w": "pump",
+     "start": 14.464,
+     "end": 14.632
+    },
+    {
+     "w": "throws",
+     "start": 14.632,
+     "end": 14.801
+    },
+    {
+     "w": "them",
+     "start": 14.801,
+     "end": 14.969
+    },
+    {
+     "w": "around",
+     "start": 14.969,
+     "end": 15.262
+    },
+    {
+     "w": "again",
+     "start": 15.262,
+     "end": 15.555
+    },
+    {
+     "w": "and",
+     "start": 15.555,
+     "end": 15.724
+    },
+    {
+     "w": "again.",
+     "start": 15.724,
+     "end": 16.017
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 16.448,
+   "end": 18.958,
+   "text": "But that water fills up with food scraps fast.",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.588,
+     "end": 16.818
+    },
+    {
+     "w": "that",
+     "start": 16.818,
+     "end": 17.048
+    },
+    {
+     "w": "water",
+     "start": 17.048,
+     "end": 17.448
+    },
+    {
+     "w": "fills",
+     "start": 17.448,
+     "end": 17.678
+    },
+    {
+     "w": "up",
+     "start": 17.678,
+     "end": 17.908
+    },
+    {
+     "w": "with",
+     "start": 17.908,
+     "end": 18.138
+    },
+    {
+     "w": "food",
+     "start": 18.138,
+     "end": 18.368
+    },
+    {
+     "w": "scraps",
+     "start": 18.368,
+     "end": 18.598
+    },
+    {
+     "w": "fast.",
+     "start": 18.598,
+     "end": 18.828
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.323,
+   "end": 22.719,
+   "text": "So a filter catches the scraps, and only clean water goes back up.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.433,
+     "end": 19.642
+    },
+    {
+     "w": "a",
+     "start": 19.642,
+     "end": 19.85
+    },
+    {
+     "w": "filter",
+     "start": 19.85,
+     "end": 20.213
+    },
+    {
+     "w": "catches",
+     "start": 20.213,
+     "end": 20.576
+    },
+    {
+     "w": "the",
+     "start": 20.576,
+     "end": 20.784
+    },
+    {
+     "w": "scraps,",
+     "start": 20.784,
+     "end": 20.993
+    },
+    {
+     "w": "and",
+     "start": 21.103,
+     "end": 21.277
+    },
+    {
+     "w": "only",
+     "start": 21.277,
+     "end": 21.581
+    },
+    {
+     "w": "clean",
+     "start": 21.581,
+     "end": 21.756
+    },
+    {
+     "w": "water",
+     "start": 21.756,
+     "end": 22.06
+    },
+    {
+     "w": "goes",
+     "start": 22.06,
+     "end": 22.234
+    },
+    {
+     "w": "back",
+     "start": 22.234,
+     "end": 22.409
+    },
+    {
+     "w": "up.",
+     "start": 22.409,
+     "end": 22.583
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.083,
+   "end": 25.823,
+   "text": "But a jet from one fixed nozzle only hits one spot.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.213,
+     "end": 23.417
+    },
+    {
+     "w": "a",
+     "start": 23.417,
+     "end": 23.62
+    },
+    {
+     "w": "jet",
+     "start": 23.62,
+     "end": 23.824
+    },
+    {
+     "w": "from",
+     "start": 23.824,
+     "end": 24.027
+    },
+    {
+     "w": "one",
+     "start": 24.027,
+     "end": 24.231
+    },
+    {
+     "w": "fixed",
+     "start": 24.231,
+     "end": 24.585
+    },
+    {
+     "w": "nozzle",
+     "start": 24.585,
+     "end": 24.788
+    },
+    {
+     "w": "only",
+     "start": 24.788,
+     "end": 25.142
+    },
+    {
+     "w": "hits",
+     "start": 25.142,
+     "end": 25.346
+    },
+    {
+     "w": "one",
+     "start": 25.346,
+     "end": 25.549
+    },
+    {
+     "w": "spot.",
+     "start": 25.549,
+     "end": 25.753
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 26.188,
+   "end": 31.49,
+   "text": "So the water shoots out of arms with angled holes, and the push of the jets spins them, like a garden sprinkler.",
+   "words": [
+    {
+     "w": "So",
+     "start": 26.298,
+     "end": 26.485
+    },
+    {
+     "w": "the",
+     "start": 26.485,
+     "end": 26.673
+    },
+    {
+     "w": "water",
+     "start": 26.673,
+     "end": 26.999
+    },
+    {
+     "w": "shoots",
+     "start": 26.999,
+     "end": 27.186
+    },
+    {
+     "w": "out",
+     "start": 27.186,
+     "end": 27.374
+    },
+    {
+     "w": "of",
+     "start": 27.374,
+     "end": 27.561
+    },
+    {
+     "w": "arms",
+     "start": 27.561,
+     "end": 27.748
+    },
+    {
+     "w": "with",
+     "start": 27.748,
+     "end": 27.936
+    },
+    {
+     "w": "angled",
+     "start": 27.936,
+     "end": 28.262
+    },
+    {
+     "w": "holes,",
+     "start": 28.262,
+     "end": 28.588
+    },
+    {
+     "w": "and",
+     "start": 28.708,
+     "end": 28.906
+    },
+    {
+     "w": "the",
+     "start": 28.906,
+     "end": 29.103
+    },
+    {
+     "w": "push",
+     "start": 29.103,
+     "end": 29.3
+    },
+    {
+     "w": "of",
+     "start": 29.3,
+     "end": 29.498
+    },
+    {
+     "w": "the",
+     "start": 29.498,
+     "end": 29.696
+    },
+    {
+     "w": "jets",
+     "start": 29.696,
+     "end": 29.893
+    },
+    {
+     "w": "spins",
+     "start": 29.893,
+     "end": 30.09
+    },
+    {
+     "w": "them,",
+     "start": 30.09,
+     "end": 30.288
+    },
+    {
+     "w": "like",
+     "start": 30.408,
+     "end": 30.592
+    },
+    {
+     "w": "a",
+     "start": 30.592,
+     "end": 30.777
+    },
+    {
+     "w": "garden",
+     "start": 30.777,
+     "end": 31.097
+    },
+    {
+     "w": "sprinkler.",
+     "start": 31.097,
+     "end": 31.418
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.854,
+   "end": 34.74,
+   "text": "But dried egg and baked-on cheese laugh at plain water.",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.984,
+     "end": 32.203
+    },
+    {
+     "w": "dried",
+     "start": 32.203,
+     "end": 32.423
+    },
+    {
+     "w": "egg",
+     "start": 32.423,
+     "end": 32.642
+    },
+    {
+     "w": "and",
+     "start": 32.642,
+     "end": 32.861
+    },
+    {
+     "w": "baked-on",
+     "start": 32.861,
+     "end": 33.405
+    },
+    {
+     "w": "cheese",
+     "start": 33.405,
+     "end": 33.624
+    },
+    {
+     "w": "laugh",
+     "start": 33.624,
+     "end": 33.844
+    },
+    {
+     "w": "at",
+     "start": 33.844,
+     "end": 34.063
+    },
+    {
+     "w": "plain",
+     "start": 34.063,
+     "end": 34.282
+    },
+    {
+     "w": "water.",
+     "start": 34.282,
+     "end": 34.664
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.104,
+   "end": 39.958,
+   "text": "So you add enzymes that chop up egg and starch, the same kind your body uses to digest food.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.214,
+     "end": 35.423
+    },
+    {
+     "w": "you",
+     "start": 35.423,
+     "end": 35.632
+    },
+    {
+     "w": "add",
+     "start": 35.632,
+     "end": 35.841
+    },
+    {
+     "w": "enzymes",
+     "start": 35.841,
+     "end": 36.36
+    },
+    {
+     "w": "that",
+     "start": 36.36,
+     "end": 36.569
+    },
+    {
+     "w": "chop",
+     "start": 36.569,
+     "end": 36.778
+    },
+    {
+     "w": "up",
+     "start": 36.778,
+     "end": 36.987
+    },
+    {
+     "w": "egg",
+     "start": 36.987,
+     "end": 37.196
+    },
+    {
+     "w": "and",
+     "start": 37.196,
+     "end": 37.405
+    },
+    {
+     "w": "starch,",
+     "start": 37.405,
+     "end": 37.614
+    },
+    {
+     "w": "the",
+     "start": 37.734,
+     "end": 37.925
+    },
+    {
+     "w": "same",
+     "start": 37.925,
+     "end": 38.115
+    },
+    {
+     "w": "kind",
+     "start": 38.115,
+     "end": 38.306
+    },
+    {
+     "w": "your",
+     "start": 38.306,
+     "end": 38.497
+    },
+    {
+     "w": "body",
+     "start": 38.497,
+     "end": 38.829
+    },
+    {
+     "w": "uses",
+     "start": 38.829,
+     "end": 39.161
+    },
+    {
+     "w": "to",
+     "start": 39.161,
+     "end": 39.351
+    },
+    {
+     "w": "digest",
+     "start": 39.351,
+     "end": 39.683
+    },
+    {
+     "w": "food.",
+     "start": 39.683,
+     "end": 39.874
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 40.323,
+   "end": 45.854,
+   "text": "But before you open it mid-cycle, follow, because next we're building a dome in Abu Dhabi that rains light.",
+   "words": [
+    {
+     "w": "But",
+     "start": 40.473,
+     "end": 40.663
+    },
+    {
+     "w": "before",
+     "start": 40.663,
+     "end": 40.993
+    },
+    {
+     "w": "you",
+     "start": 40.993,
+     "end": 41.183
+    },
+    {
+     "w": "open",
+     "start": 41.183,
+     "end": 41.513
+    },
+    {
+     "w": "it",
+     "start": 41.513,
+     "end": 41.703
+    },
+    {
+     "w": "mid-cycle,",
+     "start": 41.703,
+     "end": 42.033
+    },
+    {
+     "w": "follow,",
+     "start": 42.183,
+     "end": 42.503
+    },
+    {
+     "w": "because",
+     "start": 42.623,
+     "end": 42.993
+    },
+    {
+     "w": "next",
+     "start": 42.993,
+     "end": 43.205
+    },
+    {
+     "w": "we're",
+     "start": 43.205,
+     "end": 43.418
+    },
+    {
+     "w": "building",
+     "start": 43.418,
+     "end": 43.788
+    },
+    {
+     "w": "a",
+     "start": 43.788,
+     "end": 44.0
+    },
+    {
+     "w": "dome",
+     "start": 44.0,
+     "end": 44.213
+    },
+    {
+     "w": "in",
+     "start": 44.213,
+     "end": 44.426
+    },
+    {
+     "w": "Abu",
+     "start": 44.426,
+     "end": 44.795
+    },
+    {
+     "w": "Dhabi",
+     "start": 44.795,
+     "end": 45.165
+    },
+    {
+     "w": "that",
+     "start": 45.165,
+     "end": 45.378
+    },
+    {
+     "w": "rains",
+     "start": 45.378,
+     "end": 45.59
+    },
+    {
+     "w": "light.",
+     "start": 45.59,
+     "end": 45.803
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 46.219,
+   "end": 53.312,
+   "text": "Now the story: in eighteen eighty-six, Josephine Cochrane, tired of servants chipping her china, built her own, and hotels bought it first.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 46.329,
+     "end": 46.529
+    },
+    {
+     "w": "the",
+     "start": 46.529,
+     "end": 46.73
+    },
+    {
+     "w": "story:",
+     "start": 46.73,
+     "end": 47.079
+    },
+    {
+     "w": "in",
+     "start": 47.229,
+     "end": 47.438
+    },
+    {
+     "w": "eighteen",
+     "start": 47.438,
+     "end": 47.801
+    },
+    {
+     "w": "eighty-six,",
+     "start": 47.801,
+     "end": 48.319
+    },
+    {
+     "w": "Josephine",
+     "start": 48.449,
+     "end": 49.013
+    },
+    {
+     "w": "Cochrane,",
+     "start": 49.013,
+     "end": 49.409
+    },
+    {
+     "w": "tired",
+     "start": 49.579,
+     "end": 49.89
+    },
+    {
+     "w": "of",
+     "start": 49.89,
+     "end": 50.068
+    },
+    {
+     "w": "servants",
+     "start": 50.068,
+     "end": 50.379
+    },
+    {
+     "w": "chipping",
+     "start": 50.379,
+     "end": 50.69
+    },
+    {
+     "w": "her",
+     "start": 50.69,
+     "end": 50.868
+    },
+    {
+     "w": "china,",
+     "start": 50.868,
+     "end": 51.179
+    },
+    {
+     "w": "built",
+     "start": 51.329,
+     "end": 51.532
+    },
+    {
+     "w": "her",
+     "start": 51.532,
+     "end": 51.736
+    },
+    {
+     "w": "own,",
+     "start": 51.736,
+     "end": 51.939
+    },
+    {
+     "w": "and",
+     "start": 52.089,
+     "end": 52.291
+    },
+    {
+     "w": "hotels",
+     "start": 52.291,
+     "end": 52.643
+    },
+    {
+     "w": "bought",
+     "start": 52.643,
+     "end": 52.845
+    },
+    {
+     "w": "it",
+     "start": 52.845,
+     "end": 53.047
+    },
+    {
+     "w": "first.",
+     "start": 53.047,
+     "end": 53.249
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 53.677,
+   "end": 57.677,
+   "text": "About twelve liters a load, sixty degrees hot, and up to a hundred by hand.",
+   "words": [
+    {
+     "w": "About",
+     "start": 53.797,
+     "end": 54.16
+    },
+    {
+     "w": "twelve",
+     "start": 54.16,
+     "end": 54.368
+    },
+    {
+     "w": "liters",
+     "start": 54.368,
+     "end": 54.73
+    },
+    {
+     "w": "a",
+     "start": 54.73,
+     "end": 54.939
+    },
+    {
+     "w": "load,",
+     "start": 54.939,
+     "end": 55.147
+    },
+    {
+     "w": "sixty",
+     "start": 55.327,
+     "end": 55.696
+    },
+    {
+     "w": "degrees",
+     "start": 55.696,
+     "end": 56.065
+    },
+    {
+     "w": "hot,",
+     "start": 56.065,
+     "end": 56.277
+    },
+    {
+     "w": "and",
+     "start": 56.427,
+     "end": 56.581
+    },
+    {
+     "w": "up",
+     "start": 56.581,
+     "end": 56.734
+    },
+    {
+     "w": "to",
+     "start": 56.734,
+     "end": 56.888
+    },
+    {
+     "w": "a",
+     "start": 56.888,
+     "end": 57.042
+    },
+    {
+     "w": "hundred",
+     "start": 57.042,
+     "end": 57.31
+    },
+    {
+     "w": "by",
+     "start": 57.31,
+     "end": 57.463
+    },
+    {
+     "w": "hand.",
+     "start": 57.463,
+     "end": 57.617
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 58.042,
+   "end": 60.75,
+   "text": "And congrats, you just built a dishwasher yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.172,
+     "end": 58.431
+    },
+    {
+     "w": "congrats,",
+     "start": 58.431,
+     "end": 58.882
+    },
+    {
+     "w": "you",
+     "start": 59.012,
+     "end": 59.207
+    },
+    {
+     "w": "just",
+     "start": 59.207,
+     "end": 59.401
+    },
+    {
+     "w": "built",
+     "start": 59.401,
+     "end": 59.596
+    },
+    {
+     "w": "a",
+     "start": 59.596,
+     "end": 59.79
+    },
+    {
+     "w": "dishwasher",
+     "start": 59.79,
+     "end": 60.273
+    },
+    {
+     "w": "yourself.",
+     "start": 60.273,
+     "end": 60.612
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 61.115,
+   "end": 65.885,
+   "text": "Over a century of engineering, and your mom still washes every plate by hand before it goes in.",
+   "words": [
+    {
+     "w": "Over",
+     "start": 61.205,
+     "end": 61.478
+    },
+    {
+     "w": "a",
+     "start": 61.478,
+     "end": 61.634
+    },
+    {
+     "w": "century",
+     "start": 61.634,
+     "end": 62.023
+    },
+    {
+     "w": "of",
+     "start": 62.023,
+     "end": 62.18
+    },
+    {
+     "w": "engineering,",
+     "start": 62.18,
+     "end": 62.685
+    },
+    {
+     "w": "and",
+     "start": 62.845,
+     "end": 63.031
+    },
+    {
+     "w": "your",
+     "start": 63.031,
+     "end": 63.217
+    },
+    {
+     "w": "mom",
+     "start": 63.217,
+     "end": 63.403
+    },
+    {
+     "w": "still",
+     "start": 63.403,
+     "end": 63.589
+    },
+    {
+     "w": "washes",
+     "start": 63.589,
+     "end": 63.913
+    },
+    {
+     "w": "every",
+     "start": 63.913,
+     "end": 64.375
+    },
+    {
+     "w": "plate",
+     "start": 64.375,
+     "end": 64.561
+    },
+    {
+     "w": "by",
+     "start": 64.561,
+     "end": 64.747
+    },
+    {
+     "w": "hand",
+     "start": 64.747,
+     "end": 64.933
+    },
+    {
+     "w": "before",
+     "start": 64.933,
+     "end": 65.257
+    },
+    {
+     "w": "it",
+     "start": 65.257,
+     "end": 65.443
+    },
+    {
+     "w": "goes",
+     "start": 65.443,
+     "end": 65.629
+    },
+    {
+     "w": "in.",
+     "start": 65.629,
+     "end": 65.815
+    }
+   ]
+  }
+ ]
+}
