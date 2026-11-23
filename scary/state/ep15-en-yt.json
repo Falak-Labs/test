@@ -4,10 +4,12 @@
    "id": "6b040aaa00ec56c26ff339b8",
    "channel": "6b0287e98541f09ecb5f9fae",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-23T18:21:29.000Z",
    "planned": "2026-11-23T10:20:00-08:00",
-   "created": "2026-11-23T09:43:04+00:00"
+   "created": "2026-11-23T09:43:04+00:00",
+   "sentAt": "2026-11-23T18:21:34.687Z",
+   "link": "https://www.youtube.com/shorts/NQoQWF-nzAs"
   }
  }
 }

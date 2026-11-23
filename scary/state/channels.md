@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-23T17:45:22+00:00
+# Yallah Say Buffer channels, checked 2026-11-23T21:37:18+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -32,7 +32,7 @@
 - ep12-en en.instagram: sent, sent 2026-11-22T18:07:11.103Z, https://www.instagram.com/reel/DgDaOM8BAJp/
 - ep12-en en.tiktok: sent, sent 2026-11-22T18:07:37.483Z, https://tiktok.com/@thedarktoldme/video/7711058755953216781
 - ep12-en en.youtube: sent, sent 2026-11-22T18:04:42.800Z, https://www.youtube.com/shorts/okgf9C0aroM
-- ep15-en-yt en.youtube: scheduled, due 2026-11-23T18:21:29.000Z
+- ep15-en-yt en.youtube: sent, sent 2026-11-23T18:21:34.687Z, https://www.youtube.com/shorts/NQoQWF-nzAs
 - ep15-en en.instagram: sent, sent 2026-11-22T20:25:11.999Z, https://www.instagram.com/reel/DgDp0L8p33-/
 - ep15-en en.tiktok: sent, sent 2026-11-22T20:24:46.153Z, https://tiktok.com/@thedarktoldme/video/7711093944565730574
 - ep16-en en.instagram: sent, sent 2026-11-22T12:13:59.300Z, https://www.instagram.com/reel/DgCxn70KL3Z/
@@ -45,6 +45,7 @@
 - ep19-en-tt en.tiktok: sent, sent 2026-11-23T12:37:00.853Z, https://tiktok.com/@thedarktoldme/video/7711344370250697997
 - ep19-en-yt en.youtube: scheduled, due 2026-11-26T19:21:02.000Z
 - ep19-en en.instagram: sent, sent 2026-11-23T05:45:57.463Z, https://www.instagram.com/reel/DgEp_UQxkYU/
+- ep20-en-yt en.youtube: scheduled, due 2026-11-27T19:42:52.000Z
 - ep20-en en.instagram: sent, sent 2026-11-22T13:23:13.839Z, https://www.instagram.com/reel/DgC5hQVta80/
 - ep20-en en.tiktok: sent, sent 2026-11-22T13:23:25.560Z, https://tiktok.com/@thedarktoldme/video/7710985230219365645
 - ep21-en en.instagram: sent, sent 2026-11-22T23:53:13.558Z, https://www.instagram.com/reel/DgEBnrIKpzC/
@@ -60,6 +61,7 @@
 - ep01-ar ar.instagram: sent, sent 2026-11-22T21:59:12.457Z, https://www.instagram.com/reel/DgD0me7Emz8/
 - ep01-ar ar.tiktok: sent, sent 2026-11-22T21:59:31.078Z, https://tiktok.com/@thedarktoldmear/video/7711118376202013966
 - ep02-ar-tt ar.tiktok: sent, sent 2026-11-23T08:04:18.563Z, https://tiktok.com/@thedarktoldmear/video/7711274318868532493
+- ep02-ar-yt ar.youtube: scheduled, due 2026-11-27T18:56:44.000Z
 - ep02-ar ar.instagram: sent, sent 2026-11-23T02:38:56.962Z, https://www.instagram.com/reel/DgEUlrvDztf/
 - ep03-ar ar.instagram: sent, sent 2026-11-22T17:19:57.765Z, https://www.instagram.com/reel/DgDUtySDENH/
 - ep03-ar ar.tiktok: sent, sent 2026-11-22T17:17:16.231Z, https://tiktok.com/@thedarktoldmear/video/7711045638451973389
@@ -80,7 +82,7 @@
 - ep09-ar-yt ar.youtube: scheduled, due 2026-11-26T18:36:43.000Z
 - ep09-ar ar.instagram: sent, sent 2026-11-23T01:29:13.933Z, https://www.instagram.com/reel/DgEMpKdCTg_/
 - ep09-ar ar.tiktok: sent, sent 2026-11-23T01:29:15.776Z, https://tiktok.com/@thedarktoldmear/video/7711172423797853454
-- ep10-ar-yt ar.youtube: scheduled, due 2026-11-23T19:57:21.000Z
+- ep10-ar-yt ar.youtube: sent, sent 2026-11-23T19:57:34.987Z, https://www.youtube.com/shorts/SfdKWB_gfjI
 - ep10-ar ar.instagram: sent, sent 2026-11-22T20:50:11.450Z, https://www.instagram.com/reel/DgDswgmE0TJ/
 - ep10-ar ar.tiktok: sent, sent 2026-11-22T20:47:30.457Z, https://tiktok.com/@thedarktoldmear/video/7711099811134475533
 - ep12-ar-yt ar.youtube: scheduled, due 2026-11-25T20:37:56.000Z
@@ -98,6 +100,7 @@
 - ep19-ar ar.instagram: sent, sent 2026-11-22T19:39:57.658Z, https://www.instagram.com/reel/DgDko-fDRjb/
 - ep19-ar ar.tiktok: sent, sent 2026-11-22T19:37:01.136Z, https://tiktok.com/@thedarktoldmear/video/7711081626897288462
 - ep19-ar ar.youtube: sent, sent 2026-11-22T19:35:32.067Z, https://www.youtube.com/shorts/dU2bedryDWs
+- ep20-ar-yt ar.youtube: scheduled, due 2026-11-27T21:15:03.000Z
 - ep20-ar ar.instagram: sent, sent 2026-11-22T10:17:42.032Z, https://www.instagram.com/reel/DgCkhV4E7qc/
 - ep20-ar ar.tiktok: sent, sent 2026-11-22T10:17:15.510Z, https://tiktok.com/@thedarktoldmear/video/7710937430831975694
 - ep21-ar-yt ar.youtube: scheduled, due 2026-11-25T18:17:58.000Z
