@@ -101,3 +101,6 @@ Rules:
 74. idea: Maraya in AlUla, the world's largest mirrored building (it disappears into the Saudi desert)
 75. idea: India's Chand Baori stepwell (about 3,500 steps down to cool water)
 76. idea: a pressure cooker
+77. idea: the Golden Gate Bridge (its "International Orange" was only the primer, and it was built into the fog and the tides)
+78. idea: an air fryer (a small oven that "fries" with a whirlwind of hot air)
+79. idea: the Kuwait Towers, water towers on the Gulf with a revolving deck on top
