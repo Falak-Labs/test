@@ -1,4 +1,4 @@
-# Post status 2026-11-23T21:22:46+00:00
+# Post status 2026-11-23T23:59:16+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -370,14 +370,14 @@
 | ep66-towerbridge | en.tiktok | sent |  | 2026-11-23T19:05:18.089Z https://tiktok.com/@congratsengineer/video/7711444510085090574 |
 | ep67-colosseum | ar.instagram | sent |  | 2026-11-23T17:06:07.135Z https://www.instagram.com/reel/DgF4BhhvMRN/ |
 | ep67-colosseum | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T16:30:00.000Z |
-| ep67-colosseum | en.instagram | scheduled |  | 2026-11-23T21:30:00.000Z |
-| ep67-colosseum | en.tiktok | scheduled |  | 2026-11-23T21:30:00.000Z |
+| ep67-colosseum | en.instagram | sent |  | 2026-11-23T21:31:47.570Z https://www.instagram.com/reel/DgGWa94ybJV/ |
+| ep67-colosseum | en.tiktok | sent |  | 2026-11-23T21:31:17.587Z https://tiktok.com/@congratsengineer/video/7711482410654797070 |
 | ep68-taipei | ar.instagram | sent |  | 2026-11-23T20:03:19.316Z https://www.instagram.com/reel/DgGMS_Vhhor/ |
 | ep68-taipei | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T20:30:00.000Z |
 | ep68-taipei | en.instagram | scheduled |  | 2026-11-24T00:00:00.000Z |
 | ep68-taipei | en.tiktok | scheduled |  | 2026-11-24T00:00:00.000Z |
-| ep69-dishwasher | ar.instagram | scheduled |  | 2026-11-23T23:00:00.000Z |
-| ep69-dishwasher | ar.tiktok | scheduled |  | 2026-11-23T23:00:00.000Z |
+| ep69-dishwasher | ar.instagram | sent |  | 2026-11-23T23:03:52.667Z https://www.instagram.com/reel/DgGg70zBkLI/ |
+| ep69-dishwasher | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T23:00:00.000Z |
 | ep69-dishwasher | en.instagram | scheduled |  | 2026-11-24T02:30:00.000Z |
 | ep69-dishwasher | en.tiktok | scheduled |  | 2026-11-24T02:30:00.000Z |
 | ep70-louvre | ar.instagram | scheduled |  | 2026-11-24T08:00:00.000Z |
