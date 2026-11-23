@@ -1,6 +1,6 @@
 {
  "enabled": true,
- "lead_minutes": 540,
+ "lead_minutes": 5760,
  "delay_minutes": [
   4,
   7
