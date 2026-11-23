@@ -94,9 +94,9 @@ Rules:
 67. idea: the Colosseum (its giant sun awning and the trapdoor lifts under the arena) (taken: evening run of 2026-11-22)
 68. idea: Taipei 101's giant swinging damper ball (taken: evening run of 2026-11-22)
 69. idea: a dishwasher (taken: evening run of 2026-11-22)
-70. idea: the Louvre Abu Dhabi's dome, a "rain of light" over a museum on the sea
-71. idea: a vacuum cleaner
-72. idea: the Petronas Twin Towers and the sky bridge that slides as they sway (Kuala Lumpur)
+70. idea: the Louvre Abu Dhabi's dome, a "rain of light" over a museum on the sea (taken: midday run of 2026-11-23)
+71. idea: a vacuum cleaner (taken: midday run of 2026-11-23)
+72. idea: the Petronas Twin Towers and the sky bridge that slides as they sway (Kuala Lumpur) (taken: midday run of 2026-11-23)
 73. idea: the Lighthouse of Alexandria, the Pharos (a fire seen far out at sea; its stones now lie in the harbour and in Qaitbay's fort)
 74. idea: Maraya in AlUla, the world's largest mirrored building (it disappears into the Saudi desert)
 75. idea: India's Chand Baori stepwell (about 3,500 steps down to cool water)
