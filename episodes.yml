@@ -51,7 +51,7 @@ episodes:
   - {slug: ep46-aswan, kit: aswan, look: 2, retired: true}
   - {slug: ep47-igloo, kit: igloo, look: 2, retired: true}
   - {slug: ep48-riad, kit: riad, look: 2}
-  - {slug: ep49-hagiasophia, kit: hagiasophia, look: 2}
+  - {slug: ep49-hagiasophia, kit: hagiasophia, look: 2, retired: true}
   - {slug: ep50-ondol, kit: ondol, look: 2}
   - {slug: ep51-burjalarab, kit: burjalarab, look: 2, retired: true}
   - {slug: ep52-palmjumeirah, kit: palmjumeirah, look: 2, retired: true}
@@ -66,8 +66,8 @@ episodes:
   - {slug: ep61-pisa, kit: pisa, look: 2, retired: true}
   - {slug: ep62-tent, kit: tent, look: 2}
   - {slug: ep63-washer, kit: washer, look: 2, retired: true}
-  - {slug: ep64-bigben, kit: bigben, look: 2}
-  - {slug: ep65-shibam, kit: shibam, look: 2}
+  - {slug: ep64-bigben, kit: bigben, look: 2, retired: true}
+  - {slug: ep65-shibam, kit: shibam, look: 2, retired: true}
   - {slug: ep66-towerbridge, kit: towerbridge, look: 2}
   - {slug: ep67-colosseum, kit: colosseum, look: 2}
   - {slug: ep68-taipei, kit: taipei, look: 2}
