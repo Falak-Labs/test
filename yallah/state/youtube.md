@@ -32,3 +32,7 @@ Channels: Yallah Say MA @YallahSayMa (UC_c7QhlukkSAR-qHKeSvkPA), Yallah Say PS @
 - YouTube's checks take 5 to 10 minutes per video: publishing sooner gives a warning about limited visibility. Upload as private, switch to public later.
 - Studio's /video/<id>/edit page works for either channel while the login holds both.
 - post_due.py retries a YouTube target that failed on Buffer's 2-a-day limit: if the same Short was already uploaded through Studio, mark that target "sent" in yallah/state/<ep>.json first, or it is sent twice.
+
+## Nov 23 2026 Studio uploads (public)
+- Lesson 8 Shorts: ma OYWA0c4VJIE, pa Gooo8hf08RE. Day 3 long videos (lessons 7-9): ma uoOwQWs9dOs, pa hINsQYS3Sno.
+- Views at 3:30 pm PT: ma Shorts 0-9 each (lesson 1 9, lesson 2 8), pa Shorts 0-7 (lesson 1 7); long videos 0-5. Too few to compare hooks yet.
