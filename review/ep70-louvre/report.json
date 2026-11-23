@@ -1,0 +1,135 @@
+{
+ "slug": "ep70-louvre",
+ "kit": "louvre",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.4,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "20/226",
+   "mix_lines_off": [
+    "L 3 4 diff  | So you shade it with one dome, 180 meters wide.",
+    "L 5 6 diff  | So you weave it from 7,850 metal stars and light falls through like sun through palm leaves.",
+    "L11 2 diff  | Now the story, architect Gene Nuvil copied the shade of a palm grove and laid the galleries out like an old Arab town.",
+    "L12 8 diff  | 7,500 tons, 8 layers, and 55 buildings under one dome."
+   ],
+   "size_mb": 19.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تعلّق فوق البحر قبة بوزن برج إيفل، وتخلي الشمس تمطر من خلالها، مبروك، كذا سويت لك متحف اللوفر أبوظبي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس شمس أبوظبي في الصيف، تخلي الساحة اللي على البحر فرن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتظلّل المتحف كله بقبة وحدة، عرضها مية وثمانين متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس سقف بهالكبر بدون فتحات، يخلي المتحف كهف مظلم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتسويها من سبعة آلاف وثمنمية وخمسين نجمة حديد، والنور ينزل مثل الشمس من بين سعف النخل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس قبة بهالعرض، تبي غابة أعمدة تشيلها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتركّبها على أربع رجول بس، مخبّاة داخل المباني، وتبين كأنها طايرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس المتحف على البحر، والقبو حقه تحت مستوى الموية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتبنيه في حفرة ناشفة، وتعزل القبو مثل بانيو عملاق، وبعدها تدخّل البحر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تلمس اللوحات، تابعني، لأن الجاي بنبني مكنسة كهربا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: المعماري جان نوفيل قلّد ظل النخل، وحط المعارض تحتها مثل حارة عربية قديمة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "سبعة آلاف وخمسمية طن، وثمان طبقات، وخمسة وخمسين مبنى تحت القبة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك متحف اللوفر أبوظبي بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "ظل بحجم ملعبين، وأبوك على البحر طول اليوم يشيل الشمسية ويلحق الظل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 73.87,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.9,
+   "cover": true
+  }
+ }
+}

@@ -1,0 +1,7 @@
+louvre_ar_sa: 73.85s, 2216 frames
+cover out/louvre_ar_sa/cover.png: ['متحف اللوفر', 'أبوظبي'] (frame 0 of the video)
+video done in 549s
+audio done
+final out/louvre_ar_sa/louvre_ar_sa_final.mp4
+QA  duration 73.87s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2216
+QA sheet out/louvre_ar_sa/qa_sheet.png

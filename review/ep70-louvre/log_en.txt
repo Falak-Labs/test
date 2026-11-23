@@ -1,0 +1,13 @@
+louvre: 67.39s, 2022 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/louvre/cover.png: ['THE LOUVRE', 'ABU DHABI'] (frame 0 of the video)
+video done in 511s
+audio done
+final out/louvre/louvre_final.mp4
+QA  duration 67.40s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2022
+QA sheet out/louvre/qa_sheet.png
