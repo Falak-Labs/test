@@ -4,28 +4,34 @@
    "id": "6b030685cc364169c1631625",
    "channel": "6b0287c28541f09ecb5f9e1b",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T23:50:11.000Z",
    "planned": "2026-11-22T15:50:00-08:00",
-   "created": "2026-11-22T15:13:07+00:00"
+   "created": "2026-11-22T15:13:07+00:00",
+   "sentAt": "2026-11-22T23:53:13.558Z",
+   "link": "https://www.instagram.com/reel/DgEBnrIKpzC/"
   },
   "en.tiktok": {
    "id": "6b030686d5eabfb8ccb9aec0",
    "channel": "6b02882f8541f09ecb5fa9fe",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T23:50:16.000Z",
    "planned": "2026-11-22T15:50:00-08:00",
-   "created": "2026-11-22T15:13:07+00:00"
+   "created": "2026-11-22T15:13:07+00:00",
+   "sentAt": "2026-11-22T23:52:16.027Z",
+   "link": "https://tiktok.com/@thedarktoldme/video/7711147446415461645"
   },
   "en.youtube": {
    "id": "6b030687d5eabfb8ccb9af24",
    "channel": "6b0287e98541f09ecb5f9fae",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-22T23:51:37.000Z",
    "planned": "2026-11-22T15:50:00-08:00",
-   "created": "2026-11-22T15:13:07+00:00"
+   "created": "2026-11-22T15:13:07+00:00",
+   "sentAt": "2026-11-22T23:51:47.111Z",
+   "link": "https://www.youtube.com/shorts/Fqd0r7H_0O4"
   }
  }
 }
