@@ -1,0 +1,139 @@
+{
+ "slug": "ep67-colosseum",
+ "kit": "colosseum",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 68.77,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "22/231",
+   "mix_lines_off": [
+    "L 1 3 diff  | If you pull a roof of sales over 50,000 people, then raise a lion out of the floor. Congrats, you just built the Colosseum.",
+    "L 3 4 diff  | So you ring the top of the wall with 240 wooden poles and stretch sailcloth between them.",
+    "L 4 1 diff  | But a sale that big catches the wind like a kite.",
+    "L 6 2 diff  | But 50,000 people arrive at once, and they all try to leave at once.",
+    "L 7 1 diff  | So you build 80 arches, number every gate, and mark the gate on every ticket.",
+    "L 9 2 diff  | So you dig two floors of tunnels under the sand, where men push giant winches that lift cages up to trap doors.",
+    "L12 7 diff  | 50,000 seats, 80 gates, and 240 poles.",
+    "L14 2 diff  | They shaded 50,000 Romans, and you still drive in circles looking for one parking spot in the shade."
+   ],
+   "size_mb": 18.0,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تسحب سقف أشرعة فوق خمسين ألف واحد، وتطلّع أسد من تحت الأرض، مبروك، كذا سويت لك الكولوسيوم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس صيف روما حر، والجمهور في الشمس طول اليوم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتركّب فوق السور ميتين وأربعين صاري خشب، وتشد بينها قماش أشرعة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس شراع بهالكبر، أول هبة ريح يطير مثل الطيارة الورق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتجيب بحّارة من الأسطول يشدّونه، بحبال مربوطة في أعمدة حجر برا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس خمسين ألف واحد يدخلون سوا، ويطلعون سوا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتسوي ثمانين بوابة، كل بوابة لها رقم، وتذكرتك مكتوب فيها بوابتك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس الجمهور يبي مفاجآت، والأسد ما يدخل من الباب قدام الكل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتحفر دورين أنفاق تحت الرمل، ورجال يدفّون رافعات خشب، تطلّع الأقفاص لين فتحات في الأرض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تاخذ مكانك، تابعني، لأن الجاي بنبني الكورة اللي تتمرجح في برج تايبيه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: تشوف الخروم اللي في جدرانه؟ بعد قرون، الناس قلعوا مشابك الحديد اللي تمسك حجارته.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "خمسين ألف مقعد، وثمانين بوابة، وميتين وأربعين صاري.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك الكولوسيوم بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "ظلّلوا خمسين ألف واحد، وأنت للحين تلف نص ساعة تدوّر موقف بظل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 70.17,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.0,
+   "cover": true
+  }
+ }
+}

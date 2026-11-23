@@ -1,0 +1,13 @@
+colosseum: 68.78s, 2063 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/colosseum/cover.png: ['THE', 'COLOSSEUM'] (frame 0 of the video)
+video done in 317s
+audio done
+final out/colosseum/colosseum_final.mp4
+QA  duration 68.77s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2063
+QA sheet out/colosseum/qa_sheet.png
