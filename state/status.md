@@ -1,4 +1,4 @@
-# Post status 2026-11-23T07:45:53+00:00
+# Post status 2026-11-23T11:22:50+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -356,12 +356,12 @@
 | ep63-washer | ar.tiktok | sent |  | 2026-11-22T23:01:57.184Z https://tiktok.com/@kef.tenbeni/video/7711134589942598926 |
 | ep63-washer | en.instagram | sent |  | 2026-11-23T02:31:32.683Z https://www.instagram.com/reel/DgET6ySSLrX/ |
 | ep63-washer | en.tiktok | sent |  | 2026-11-23T02:32:04.373Z https://tiktok.com/@congratsengineer/video/7711188652017126670 |
-| ep64-bigben | ar.instagram | scheduled |  | 2026-11-23T08:00:00.000Z |
-| ep64-bigben | ar.tiktok | scheduled |  | 2026-11-23T08:00:00.000Z |
+| ep64-bigben | ar.instagram | sent |  | 2026-11-23T08:02:14.874Z https://www.instagram.com/reel/DgE5xu_ogOV/ |
+| ep64-bigben | ar.tiktok | sent |  | 2026-11-23T08:01:55.803Z https://tiktok.com/@kef.tenbeni/video/7711273717090782478 |
 | ep64-bigben | en.instagram | scheduled |  | 2026-11-23T14:00:00.000Z |
 | ep64-bigben | en.tiktok | scheduled |  | 2026-11-23T14:00:00.000Z |
-| ep65-shibam | ar.instagram | scheduled |  | 2026-11-23T11:00:00.000Z |
-| ep65-shibam | ar.tiktok | scheduled |  | 2026-11-23T11:00:00.000Z |
+| ep65-shibam | ar.instagram | sent |  | 2026-11-23T11:02:47.913Z https://www.instagram.com/reel/DgFOa0vTVMj/ |
+| ep65-shibam | ar.tiktok | sent |  | 2026-11-23T11:02:04.500Z https://tiktok.com/@kef.tenbeni/video/7711320060291337486 |
 | ep65-shibam | en.instagram | scheduled |  | 2026-11-23T16:30:00.000Z |
 | ep65-shibam | en.tiktok | scheduled |  | 2026-11-23T16:30:00.000Z |
 | ep66-towerbridge | ar.instagram | scheduled |  | 2026-11-23T14:00:00.000Z |
