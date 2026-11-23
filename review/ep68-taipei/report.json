@@ -1,0 +1,135 @@
+{
+ "slug": "ep68-taipei",
+ "kit": "taipei",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 69.33,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "13/221",
+   "mix_lines_off": [
+    "L 5 2 diff  | So near the top you hang a steel ball as heavy as 500 cars on thick cables.",
+    "L10 1 diff  | But before you write up, follow, because next we're building a dishwasher.",
+    "L11 2 diff  | Now the story, in 2015, a typhoon swung the ball a full meter, its biggest swing ever, and the tower stood calm.",
+    "L12 8 diff  | 660 tons, 5.5 meters wide, and up to 40% less sway."
+   ],
+   "size_mb": 19.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو كورة ذهبية تتمرجح داخل برجك، وتثبّته وسط الإعصار، مبروك، كذا سويت لك برج تايبيه مية وواحد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس تايبيه تجيها أعاصير كل سنة، وزلازل تهز الأرض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتبنيه مثل الخيزران: ثمان قطع، كل قطعة ثمان أدوار، حول أعمدة حديد مليانة خرسانة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس البرج الطويل المرن يتمايل، واللي فوق يدوخون.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتعلّق قريب من فوق كورة حديد بوزن خمسمية سيارة، على حبال غليظة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس لو تمرجحت على غير إيقاعه، تهز البرج زيادة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتضبط الحبال على إيقاع البرج نفسه: إذا مال البرج يمين، الكورة تروح يسار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس الحين الكورة نفسها ما تبي توقف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتحط تحتها ثمان مكابس ضخمة مثل المساعدات، تحوّل المرجحة لحرارة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تطلع فوق، تابعني، لأن الجاي بنبني غسالة الصحون.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: في ألفين وخمسطعش، إعصار مرجح الكورة متر كامل، أكبر مرجحة في تاريخها، والبرج ثابت.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ستمية وستين طن، وعرضها خمسة متر ونص، والتمايل يقل لين أربعين بالمية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك برج تايبيه مية وواحد بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "كورة حديد تثبّت برج كامل في الإعصار، وأنت أول مطب، انكب الشاهي على ثوبك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 73.03,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 19.6,
+   "cover": true
+  }
+ }
+}
