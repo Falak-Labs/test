@@ -1,0 +1,7 @@
+dishwasher_ar_sa: 71.57s, 2147 frames
+cover out/dishwasher_ar_sa/cover.png: ['غسالة', 'صحون'] (frame 0 of the video)
+video done in 303s
+audio done
+final out/dishwasher_ar_sa/dishwasher_ar_sa_final.mp4
+QA  duration 71.57s  loudness -14.0 LUFS  true peak -2.4 dBFS  1080x1920 @ 30/1  frames 2147
+QA sheet out/dishwasher_ar_sa/qa_sheet.png

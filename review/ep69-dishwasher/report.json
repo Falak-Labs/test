@@ -1,0 +1,135 @@
+{
+ "slug": "ep69-dishwasher",
+ "kit": "dishwasher",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.87,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "11/231",
+   "mix_lines_off": [
+    "L 2 2 diff  | But washing a big dinner by hand can send up to 100 liters down the drain.",
+    "L 7 1 diff  | So the water shoots out of arms with angled holes and the push of the jet spins them like a garden sprinkler.",
+    "L11 4 diff  | Now the story, in 1886, Josephine Cochran, tired of servants chipping her china, built her own, and hotels bought it first.",
+    "L12 4 diff  | About 12 liters a load, 60 degrees hot and up to 100 by hand."
+   ],
+   "size_mb": 19.9,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تغسل الصحون بموية حارة ما تتحملها يدك، من أذرع تلف بدون موتور، مبروك، كذا سويت لك غسالة صحون.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس غسيل عزيمة كبيرة باليد، يصرف لين مية لتر موية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتقفل عليها صندوق: كم لتر بس تحت، ومضخة ترشها مرة ورا مرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الموية تمتلي بقايا أكل بسرعة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "ففلتر يمسك البقايا، وبس الموية النظيفة ترجع فوق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس رشاش واحد ثابت يضرب مكان واحد بس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فالموية تطلع من أذرع فيها خروم مايلة، ودفّة الموية نفسها تلفها، مثل رشاش الحديقة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس البيض الناشف والجبن المحروق ما يهمهم الموية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتحط إنزيمات تقطّع البيض والنشا، مثل اللي في جسمك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تفتحها وهي شغالة، تابعني، لأن الجاي بنبني قبة في أبوظبي تمطر نور.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: في ألف وثمنمية وستة وثمانين، جوزفين كوكرين زهقت من الخدم يكسرون صحونها، فسوت غسالة بنفسها، واشترتها الفنادق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "قرابة اثنعش لتر للغسلة، وموية على ستين درجة، ولين مية لتر باليد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك غسالة صحون بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "أكثر من مية سنة هندسة، وأمك للحين مستخدمتها نشّافة، وتغسل كل شي بيدها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 71.57,
+   "lufs": -14.0,
+   "peak": -2.4,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.6,
+   "cover": true
+  }
+ }
+}
