@@ -1,0 +1,34 @@
+episode: 68
+date: 2026-11-23
+video:
+  en: media/ep68-taipei-en.mp4
+  ar: media/ep68-taipei-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-24T00:00:00Z"    # 16:00 PT Mon Nov 23
+  title: "Taipei 101: The Giant Ball That Steadies a Skyscraper 🇹🇼"
+  text: |
+    A golden steel ball as heavy as 500 cars swings inside the top of Taipei 101. 🇹🇼
+    Taipei gets typhoons almost every year and earthquakes too, so the tower was built like bamboo, eight sections of eight floors around steel columns filled with concrete. Near the top a 660-ton ball hangs on thick cables tuned to the tower's own rhythm: when the tower leans one way, the ball swings the other, and eight pistons under it turn the swing into heat. In 2015 a typhoon swung it a full meter, its biggest swing ever.
+    Would you go up in a typhoon? 👇
+  next: "a dishwasher 🍽️"
+  seo: "How Taipei 101 stays steady: Taipei 101, 508 m tall with 101 floors, was the world's tallest building from 2004 to 2010. Taiwan gets typhoons almost every year and many earthquakes, and a tower that tall and flexible sways in strong wind, which can make people on the top floors feel sick. Its shape echoes bamboo, with eight sections of eight floors (eight is a lucky number in Chinese culture), and its frame uses huge steel columns filled with high-strength concrete. Between the 87th and 92nd floors hangs a tuned mass damper: a steel sphere 5.5 m across, built from 41 steel plates and weighing about 660 tonnes, the largest damper sphere in the world on public view. It hangs on steel cables whose length tunes its swing to the building's own sway, so when the tower leans one way the heavy ball pulls the other way, and eight hydraulic pistons under it act like shock absorbers, turning the motion into heat. It can cut the sway by up to about 40%. During Typhoon Soudelor in August 2015 the ball swung about 1 m, its largest movement on record, and visitors can watch it from the observatory, reached by one of the world's fastest elevators."
+  tags:
+    tiktok: "#taipei101 #taiwan #engineering #skyscraper #learnontiktok"
+    instagram: "#taipei101 #taiwan #engineering #skyscraper #architecture"
+    youtube: "#taipei101 #engineering #skyscraper"
+ar:
+  # Instagram 12:00 PT = 11 pm Riyadh; TikTok 12:30 PT (2 h after the show's Arabic TikTok at 10:30 PT)
+  at: {default: "2026-11-23T20:00:00Z", tiktok: "2026-11-23T20:30:00Z"}
+  title: "برج تايبيه 101: كورة ذهبية تثبّت ناطحة سحاب 🇹🇼"
+  text: |
+    كورة حديد ذهبية بوزن خمسمية سيارة تتمرجح داخل راس برج تايبيه! 🇹🇼
+    تايبيه تجيها أعاصير كل سنة وزلازل بعد، فبنوا البرج مثل الخيزران: ثمان قطع، كل قطعة ثمان أدوار، حول أعمدة حديد مليانة خرسانة. وقريب من فوق كورة ستمية وستين طن معلّقة بحبال غليظة مضبوطة على إيقاع البرج: إذا مال البرج يمين، الكورة تروح يسار، وتحتها ثمان مكابس تحوّل المرجحة لحرارة. وفي ألفين وخمسطعش إعصار مرجحها متر كامل، أكبر مرجحة في تاريخها.
+    تطلع فوق وقت الإعصار؟ 👇
+  next: "غسالة الصحون 🍽️"
+  seo: "كيف برج تايبيه مية وواحد يظل ثابت: البرج طوله خمسمية وثمانية متر وفيه مية وواحد دور، وكان أطول مبنى في العالم من ألفين وأربعة لين ألفين وعشرة. تايوان تجيها أعاصير كل سنة تقريبا وزلازل كثيرة، والبرج الطويل المرن يتمايل مع الريح القوية، واللي في الأدوار العالية ممكن يدوخون. شكله مثل الخيزران، ثمان قطع كل قطعة ثمان أدوار، والثمانية رقم حظ في الثقافة الصينية، وهيكله فيه أعمدة حديد ضخمة مليانة خرسانة قوية. وبين الدور السابع والثمانين والدور الثاني والتسعين معلّقة كورة حديد عرضها خمسة متر ونص، مصنوعة من واحد وأربعين لوح حديد، ووزنها حوالي ستمية وستين طن، وهي أكبر كورة من نوعها في العالم يقدر الناس يشوفونها. معلّقة بحبال حديد طولها مضبوط على إيقاع تمايل البرج نفسه، فإذا مال البرج جهة، الكورة الثقيلة تسحب الجهة الثانية، وتحتها ثمان مكابس هيدروليك مثل المساعدات تحوّل الحركة لحرارة. وتقلل التمايل لين حوالي أربعين بالمية. وفي إعصار سوديلور في أغسطس ألفين وخمسطعش تمرجحت الكورة حوالي متر، أكبر حركة سجلوها لها، والزوار يشوفونها من الدور اللي فوق، ويطلعون له بواحد من أسرع المصاعد في العالم."
+  tags:
+    tiktok: "#تايبيه #تايوان #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#تايبيه #تايوان #هندسة #السعودية #ناطحات_سحاب"
+    youtube: "#تايبيه #هندسة #معلومات"
