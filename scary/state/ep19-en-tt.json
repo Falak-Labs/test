@@ -1,0 +1,13 @@
+{
+ "targets": {
+  "en.tiktok": {
+   "id": "6b03b6cda6de38de9eb75f6b",
+   "channel": "6b02882f8541f09ecb5fa9fe",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-23T12:35:01.000Z",
+   "planned": "2026-11-23T04:35:00-08:00",
+   "created": "2026-11-23T03:45:13+00:00"
+  }
+ }
+}
