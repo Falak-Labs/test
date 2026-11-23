@@ -1,4 +1,4 @@
-# Post status 2026-11-23T04:04:25+00:00
+# Post status 2026-11-23T04:11:05+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -372,6 +372,9 @@
 | ep67-colosseum | ar.tiktok | scheduled |  | 2026-11-23T16:30:00.000Z |
 | ep67-colosseum | en.instagram | scheduled |  | 2026-11-23T21:30:00.000Z |
 | ep67-colosseum | en.tiktok | scheduled |  | 2026-11-23T21:30:00.000Z |
+| ep68-taipei | ar.instagram | scheduled |  | 2026-11-23T20:00:00.000Z |
+| ep68-taipei | en.instagram | scheduled |  | 2026-11-24T00:00:00.000Z |
+| ep68-taipei | en.tiktok | scheduled |  | 2026-11-24T00:00:00.000Z |
 | ep69-dishwasher | ar.instagram | scheduled |  | 2026-11-23T23:00:00.000Z |
 | ep69-dishwasher | en.instagram | scheduled |  | 2026-11-24T02:30:00.000Z |
 | ep69-dishwasher | en.tiktok | scheduled |  | 2026-11-24T02:30:00.000Z |
