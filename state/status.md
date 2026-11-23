@@ -1,4 +1,4 @@
-# Post status 2026-11-23T20:42:59+00:00
+# Post status 2026-11-23T20:53:27+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -384,6 +384,10 @@
 | ep70-louvre | ar.tiktok | scheduled |  | 2026-11-24T08:00:00.000Z |
 | ep70-louvre | en.instagram | scheduled |  | 2026-11-24T14:00:00.000Z |
 | ep70-louvre | en.tiktok | scheduled |  | 2026-11-24T14:00:00.000Z |
+| ep71-vacuum | ar.instagram | scheduled |  | 2026-11-24T11:00:00.000Z |
+| ep71-vacuum | ar.tiktok | scheduled |  | 2026-11-24T11:00:00.000Z |
+| ep71-vacuum | en.instagram | scheduled |  | 2026-11-24T16:30:00.000Z |
+| ep71-vacuum | en.tiktok | scheduled |  | 2026-11-24T16:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://tiktok.com/@congratsengineer/video/7710759443809553677 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
