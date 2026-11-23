@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-23T07:58:30+00:00
+# Yallah Say Buffer channels, checked 2026-11-23T09:44:26+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -27,6 +27,7 @@
 - ep12-en en.instagram: sent, sent 2026-11-22T18:07:11.103Z, https://www.instagram.com/reel/DgDaOM8BAJp/
 - ep12-en en.tiktok: sent, sent 2026-11-22T18:07:37.483Z, https://tiktok.com/@thedarktoldme/video/7711058755953216781
 - ep12-en en.youtube: sent, sent 2026-11-22T18:04:42.800Z, https://www.youtube.com/shorts/okgf9C0aroM
+- ep15-en-yt en.youtube: scheduled, due 2026-11-23T18:21:29.000Z
 - ep15-en en.instagram: sent, sent 2026-11-22T20:25:11.999Z, https://www.instagram.com/reel/DgDp0L8p33-/
 - ep15-en en.tiktok: sent, sent 2026-11-22T20:24:46.153Z, https://tiktok.com/@thedarktoldme/video/7711093944565730574
 - ep16-en en.instagram: sent, sent 2026-11-22T12:13:59.300Z, https://www.instagram.com/reel/DgCxn70KL3Z/
@@ -50,12 +51,13 @@
 - ar.tiktok: will post to thedarktoldmear
 - ep01-ar ar.instagram: sent, sent 2026-11-22T21:59:12.457Z, https://www.instagram.com/reel/DgD0me7Emz8/
 - ep01-ar ar.tiktok: sent, sent 2026-11-22T21:59:31.078Z, https://tiktok.com/@thedarktoldmear/video/7711118376202013966
-- ep02-ar-tt ar.tiktok: scheduled, due 2026-11-23T08:01:20.000Z
+- ep02-ar-tt ar.tiktok: sent, sent 2026-11-23T08:04:18.563Z, https://tiktok.com/@thedarktoldmear/video/7711274318868532493
 - ep02-ar ar.instagram: sent, sent 2026-11-23T02:38:56.962Z, https://www.instagram.com/reel/DgEUlrvDztf/
 - ep03-ar ar.instagram: sent, sent 2026-11-22T17:19:57.765Z, https://www.instagram.com/reel/DgDUtySDENH/
 - ep03-ar ar.tiktok: sent, sent 2026-11-22T17:17:16.231Z, https://tiktok.com/@thedarktoldmear/video/7711045638451973389
 - ep03-ar ar.youtube: sent, sent 2026-11-22T17:16:17.315Z, https://www.youtube.com/shorts/lBG2Z9r0vmA
 - ep04-ar-ig2 ar.instagram: sent, sent 2026-11-23T07:24:12.581Z, https://www.instagram.com/reel/DgE1PCOCqBB/
+- ep04-ar-yt ar.youtube: scheduled, due 2026-11-23T17:35:31.000Z
 - ep04-ar ar.instagram: error, due 2026-11-22T18:27:36.000Z, ERROR {'message': 'It looks like there was an issue with the media attached to this post. Please check to ensure the media meets all specifications.', 'rawError': 'Failed to create media container for instagram: Unable to get media container stat
 - ep04-ar ar.tiktok: sent, sent 2026-11-22T18:29:01.268Z, https://tiktok.com/@thedarktoldmear/video/7711064127862607118
 - ep05-ar ar.instagram: sent, sent 2026-11-23T00:20:10.984Z, https://www.instagram.com/reel/DgEExDuDJ4j/
