@@ -1599,3 +1599,11 @@ Verified: true worked: all 10 Studio uploads for Nov 23 went through with no dai
 - Pages: retired ep61 and ep63 (all posts sent): media/ 723 -> 640 MB before the six new videos (about 760 MB after).
   Every other build still has an Arabic TikTok to requeue (37, 48, 56, 60, 62) or scheduled (42, 49, 50, 54, 55), and
   64-66 carry `studio:` with slots on Nov 23. media/sm* untouched (the build runs never retire the show's files).
+- Produce (one slug per run, 17-26 minutes each): Colosseum EN 68.8 s / AR 70.2 s, Taipei EN 69.3 s / AR 73.0 s,
+  dishwasher EN 67.9 s / AR 71.6 s; all -14 LUFS, peaks -2.0 to -2.4 dBFS, covers in and inside the grid crop.
+  Whisper small on the mixes (`check_en_voice.py series/voice/<kit> mix.wav lead=0.5 pause=0.6`): number formats and
+  homophones only ("sails" -> "sales"). Posts: 67 + 69 pushed after "pages build and deployment" for d4b10bf succeeded,
+  68 after the one for e43b8f9. State 04:11Z: every Instagram + TikTok target scheduled on Mon Nov 23 PT except the
+  Arabic TikToks of 68 and 69 (queue full): 68's added at 04:34Z by a post.yml dispatch after 49 left at 04:30Z (12:30 PT
+  slot), 69's by the
+  11:20Z check-in (send_later trig_014RdivAr2wbjiU92Wt1axfA, which also requeues 60's Arabic TikTok to 01:30Z Nov 26).
