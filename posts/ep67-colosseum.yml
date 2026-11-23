@@ -1,0 +1,34 @@
+episode: 67
+date: 2026-11-23
+video:
+  en: media/ep67-colosseum-en.mp4
+  ar: media/ep67-colosseum-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-23T21:30:00Z"    # 13:30 PT Mon Nov 23
+  title: "Colosseum: A Roof of Sails and Lions From the Floor 🏛️"
+  text: |
+    A roof of sails over 50,000 people, and lions that rise out of the floor. 🏛️
+    Sailors from the Roman navy rigged a giant awning on 240 wooden poles, 80 numbered arches let the crowd in and out (your ticket told you which gate), and under the sand two floors of tunnels hid cages that men lifted up to trapdoors with wooden winches. All those holes in its walls? People dug out the iron clamps that held the stones.
+    Would you sit in the sun or the shade? 👇
+  next: "Taipei 101's giant swinging ball ⚖️"
+  seo: "How the Colosseum worked: the Flavian Amphitheatre in Rome was opened in 80 AD by the emperor Titus with 100 days of games and held about 50,000 spectators. On hot days a huge awning, the velarium, was stretched over the seats from about 240 wooden poles set in the top of the outer wall, where the stone brackets that held them can still be seen. It was rigged by sailors of the Roman fleet based at Misenum, who knew how to handle ropes and canvas, and its ropes are thought to have been tied down to stone posts around the building. Eighty arches at ground level let the crowd in and out; most were numbered, and a spectator's token showed which entrance, section and row to use, so the building could fill and empty quickly. Under the wooden arena floor, covered with sand (harena in Latin, which gave us the word arena), the emperor Domitian added the hypogeum: two levels of tunnels and cages where animals, fighters and scenery waited, and lifts worked by men turning capstans raised them to trapdoors in the floor, so a lion could appear in the middle of the arena. A working replica of one of these lifts was built and tested in 2015. The travertine blocks of the outer wall were held together with iron clamps; in the Middle Ages people dug the metal out, which left the holes that cover the walls today, and earthquakes brought down part of the outer ring."
+  tags:
+    tiktok: "#colosseum #rome #engineering #history #learnontiktok"
+    instagram: "#colosseum #rome #engineering #history #architecture"
+    youtube: "#colosseum #rome #engineering"
+ar:
+  # Instagram 09:00 PT = 8 pm Riyadh; TikTok 08:30 PT (2 h before the show's Arabic TikTok at 10:30 PT)
+  at: {default: "2026-11-23T17:00:00Z", tiktok: "2026-11-23T16:30:00Z"}
+  title: "الكولوسيوم: سقف أشرعة وأسد يطلع من الأرض 🏛️"
+  text: |
+    سقف أشرعة فوق خمسين ألف واحد، وأسد يطلع من تحت الأرض! 🏛️
+    بحّارة من الأسطول الروماني يشدّون مظلة ضخمة على ميتين وأربعين صاري، وثمانين بوابة كلها بأرقام وتذكرتك مكتوب فيها بوابتك، وتحت الرمل دورين أنفاق فيها أقفاص يرفعها رجال برافعات خشب لين فتحات في الأرض. والخروم اللي في جدرانه؟ الناس قلعوا مشابك الحديد اللي تمسك حجارته.
+    تقعد في الشمس ولا في الظل؟ 👇
+  next: "كورة برج تايبيه ⚖️"
+  seo: "كيف اشتغل الكولوسيوم: مدرج روما الكبير انفتح سنة ثمانين ميلادية أيام الإمبراطور تيتوس بألعاب استمرت مية يوم، ويوسع حوالي خمسين ألف متفرج. وفي الأيام الحارة كانوا يشدّون فوق المقاعد مظلة ضخمة اسمها الفيلاريوم، على حوالي ميتين وأربعين صاري خشب مركّبة فوق السور الخارجي، وللحين تشوف الحجارة اللي كانت تمسكها. واللي يشدّونها بحّارة من الأسطول الروماني اللي في ميزينوم، لأنهم يعرفون الحبال والأشرعة، والحبال يقولون إنها كانت مربوطة في أعمدة حجر حول المبنى. وفي الدور الأرضي ثمانين بوابة يدخل منها الجمهور ويطلع، أغلبها عليها أرقام، والتذكرة فيها البوابة والقسم والصف، عشان المكان يمتلي ويفضى بسرعة. وتحت أرضية الساحة الخشب المغطاة بالرمل، والرمل بالّلاتيني هارينا ومنه جات كلمة أرينا، الإمبراطور دوميتيان زاد الهيبوجيوم: دورين أنفاق وأقفاص تنتظر فيها الحيوانات والمقاتلين والديكورات، ورافعات يدفّها رجال ترفعها لين فتحات في الأرضية، فيطلع الأسد فجأة في نص الساحة. وفي ألفين وخمسطعش سوّوا نسخة شغالة من وحدة من هالرافعات وجرّبوها. وحجارة السور الخارجي كانت ماسكتها مشابك حديد، وفي العصور الوسطى الناس قلعوا الحديد، وهذي الخروم اللي تشوفها في جدرانه اليوم، والزلازل طيّحت جزء من السور الخارجي."
+  tags:
+    tiktok: "#الكولوسيوم #روما #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#الكولوسيوم #روما #هندسة #السعودية #تاريخ"
+    youtube: "#الكولوسيوم #هندسة #معلومات"
