@@ -1,0 +1,135 @@
+{
+ "slug": "ep71-vacuum",
+ "kit": "vacuum",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 67.5,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "20/234",
+   "mix_lines_off": [
+    "L 1 4 diff  | If you spin a fan over 100,000 times a minute, so the air shoves dirt into a tube, congrash, you just built a vacuum cleaner.",
+    "L 9 1 diff  | So a filter catches dust hundreds of times thinner than hair.",
+    "L11 3 diff  | Now the story, in 1901, Hubert Booth sucked a dusty chair through a handkerchief to test it, then built a horse-drawn machine with hoses through t",
+    "L12 12 diff | 125,000 turns a minute, 99.97% caught, and zero bags."
+   ],
+   "size_mb": 19.6,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تلف مروحة أكثر من مية ألف لفة بالدقيقة، والهوا يدف الوساخة في أنبوب، مبروك، كذا سويت لك مكنسة كهربا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس المقشة تطيّر الغبار، ويرجع ينزل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فمروحة تطلّع الهوا من علبة مقفلة، والضغط يطيح، وهوا الغرفة يندفع داخل ومعه الوساخة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس الوساخة اللي داخل الزولية ما يهمها الهوا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "ففرشاة تلف في راس المكنسة، تضرب الزولية وتطيّر الوساخة للهوا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الكيس إذا تعبّى، ينسد والشفط يموت.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتلف الهوا مثل الإعصار، والغبار ينرمي على الجدار ويطيح في العلبة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس أنعم غبار يفلت، ويطلع من ورا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "ففلتر يمسك ذرات أنعم من الشعرة بميتين مرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تشفط سماعاتك، تابعني، لأن الجاي بنبني برجين بينهم جسر في السما.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: في ألف وتسعمية وواحد، هيوبرت بوث شفط كرسي بفمه من ورا منديل، وسوى مكينة يجرها حصان، تشفط البيوت من الشبابيك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "مية وخمسة وعشرين ألف لفة بالدقيقة، وتسعة وتسعين بالمية من الغبار، وصفر أكياس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك مكنسة كهربا بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "موتور أسرع من سيارة سباق، ومكنسة الروبوت حقتكم كل يوم تعلق تحت نفس الكنبة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 74.5,
+   "lufs": -14.0,
+   "peak": -2.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.8,
+   "cover": true
+  }
+ }
+}

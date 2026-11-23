@@ -1,0 +1,7 @@
+vacuum_ar_sa: 74.50s, 2235 frames
+cover out/vacuum_ar_sa/cover.png: ['مكنسة', 'كهربا'] (frame 0 of the video)
+video done in 472s
+audio done
+final out/vacuum_ar_sa/vacuum_ar_sa_final.mp4
+QA  duration 74.50s  loudness -14.0 LUFS  true peak -2.8 dBFS  1080x1920 @ 30/1  frames 2235
+QA sheet out/vacuum_ar_sa/qa_sheet.png
