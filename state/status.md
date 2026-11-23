@@ -1,4 +1,4 @@
-# Post status 2026-11-23T11:22:50+00:00
+# Post status 2026-11-23T11:25:52+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -377,6 +377,7 @@
 | ep68-taipei | en.instagram | scheduled |  | 2026-11-24T00:00:00.000Z |
 | ep68-taipei | en.tiktok | scheduled |  | 2026-11-24T00:00:00.000Z |
 | ep69-dishwasher | ar.instagram | scheduled |  | 2026-11-23T23:00:00.000Z |
+| ep69-dishwasher | ar.tiktok | scheduled |  | 2026-11-23T23:00:00.000Z |
 | ep69-dishwasher | en.instagram | scheduled |  | 2026-11-24T02:30:00.000Z |
 | ep69-dishwasher | en.tiktok | scheduled |  | 2026-11-24T02:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
