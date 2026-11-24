@@ -1,0 +1,26 @@
+# lab: whole word said slowly in one take, to be cut at the pauses (test, Nov 23)
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | a04a | Grand... moth... er.
+L | l04a | Grand... moth... er.
+A | a04b | grand... muh... ther.
+L | l04b | grand... muh... ther.
+A | a05a | Com... for... ta... ble.
+L | l05a | Com... for... ta... ble.
+A | a05b | kum... fer... tuh... bul.
+L | l05b | kum... fer... tuh... bul.
+A | a06a | Ce... le... bra... tion.
+L | l06a | Ce... le... bra... tion.
+A | a06b | seh... luh... bray... shun.
+L | l06b | seh... luh... bray... shun.
+A | a07a | Veg... ta... bles.
+L | l07a | Veg... ta... bles.
+A | a07b | vej... tuh... bulz.
+L | l07b | vej... tuh... bulz.
+A | a12a | U... su... al... ly.
+L | l12a | U... su... al... ly.
+A | a12b | yoo... zhoo... uh... lee.
+L | l12b | yoo... zhoo... uh... lee.
+A | a03a | Pro... nun... ci... a... tion.
+L | l03a | Pro... nun... ci... a... tion.
+A | a03b | pruh... nun... see... ay... shun.
+L | l03b | pruh... nun... see... ay... shun.
