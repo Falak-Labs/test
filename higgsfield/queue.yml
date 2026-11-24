@@ -112,7 +112,7 @@ jobs:
     build: 79
     kit: kuwaittowers
     # Nov 24 00:55 PT: the 00:45 job (History 6edb2c27) came back NSFW, no clip. Shot 4 reworded without "shooting".
-    status: "generating (restarted: Nov 24 01:03 PT, reworded shots typed manually)"
+    status: done
     file: buildit-kuwait-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): the top sphere, a round glass observation deck slowly rotating, visitors watching the sea. Shot 2
@@ -126,7 +126,7 @@ jobs:
     build: 80
     kit: jeddahfountain
     # Nov 24 00:55 PT: shot 1 reworded before its turn (no "shooting", see kuwait-B).
-    status: todo
+    status: "generating (started: Nov 24 01:21 PT; shot 2 reworded, no tourists)"
     file: buildit-fountain-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): Jeddah's giant sea fountain at night, a tall white column of sea water rising higher than the
