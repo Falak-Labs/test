@@ -522,3 +522,53 @@ New content
   [NIST](https://www.nist.gov/how-do-you-measure-it/how-do-smoke-detectors-work),
   [Wikipedia](https://en.wikipedia.org/wiki/Smoke_detector),
   [Kidde](https://www.kidde.com/support/smoke-alarms/nighttime-alarm-chirps)
+
+## 2026-11-24 09:05 PT (hourly runner, cloud run)
+Trends
+- Two Reels formats that run on original audio (no licensed song): "Appointment timestamps", a clip "from walking in
+  to walking out" told in time stamps (Later, Nov 13 entry), and "The process", "the tools, materials, and steps
+  behind" a product (Sep 18). Build-It use: a 20 s extra cut of a finished build told in dated stamps, e.g. Huajiang
+  (93): January 2022 work starts, Nov 4 2024 the first deck section, Jan 17 2025 the last, Aug 25 2025 the truck test,
+  Sep 28 2025 open. Later's Nov 20 edition also warns that "original audio" sounds "are not technically royalty-free"
+  for sponsored posts. [Later, upd. Nov 20 2026](https://www.later.com/blog/instagram-reels-trends)
+- Rising Reels instrumentals this week: "November — Past Day" (142K Reels) and "The Blue Danube Waltz — Royal Symphony
+  Orchestra" (50K); "Eight of this week's 11 sounds are major-label releases", and SocialPilot could not confirm any of
+  its instrumentals from a business account: check in the app before laying one low under a voice.
+  [SocialPilot, Nov 17-25 2026](https://www.socialpilot.co/blog/instagram-trends)
+
+Free footage and pictures
+- Smoke alarm (94) real footage, free: the U.S. Fire Administration (FEMA) gallery has smoke-alarm B-roll "in
+  high-definition 1080p MP4 format" (installing, testing, replacing batteries, alarms for people with hearing loss; the
+  testing page alone has 10 clips) and stock photos, e.g. a hand reaching up to test an alarm (3000x2000 and 1200x1807).
+  The photo pages say "These images are copyright-free and don't require permission for use" and "Images are
+  copyright-free and no permission is required"; the B-roll pages invite media to "download broadcast quality images"
+  but state no licence. Real families appear in most clips: use the hand and close-up shots, crop out faces, and never
+  suggest USFA endorses the channel. [USFA B-roll](https://www.usfa.fema.gov/gallery/smoke-alarms/b-roll/),
+  [USFA testing photos](https://www.usfa.fema.gov/gallery/smoke-alarms/test.html), [USFA gallery](https://www.usfa.fema.gov/gallery/)
+- NIST's fire video collection lists "Smoke Alarm vs. Bacon" (the cooking false alarm, made for 94's B6) and "The Sound
+  of Soot". This cloud run could not open the video pages or NIST's "Copyright & Disclaimers" page: read both before
+  use (work by NIST staff normally has no U.S. copyright, 17 U.S.C. 105, as with NHTSA at 08:10).
+  [NIST fire videos](https://www.nist.gov/video-category/fire)
+- Grok Imagine is no video source after Nov 28: xAI's plan table (captured Sep 10 2026) shows video "dashed" under Free
+  and ticked from the $30 tier up; free images are unclear (ticked under Free there, while LatestLY reported on Mar 24
+  2026 that free access ended), and neither page covers watermarks or commercial use.
+  [Alarcon, Sep 10 2026, corr. Nov 13](https://christopheralarcon.com/blog/is-grok-imagine-free/),
+  [LatestLY, Mar 24 2026](https://www.latestly.com/socially/technology/xai-restricts-grok-imagine-image-and-video-generation-to-supergrok-subscribers-ends-free-access-7365341.html)
+
+New content
+- Huajiang (93), more for its pair: the load test, "A fleet of 96 trucks weighing a whopping total of 3,360 metric
+  tons", "18, 48 and 96 trucks, with each weighing 35 tons" in turn, and "all measured indicators responded normally"
+  (China Daily, Aug 25 2025; ENR: "The five-day testing completed on Aug. 25"). A ready B5 shot: rows of loaded trucks
+  parked along the deck above the gorge. The deck "is 8 meters high, 30.5 meters wide"; "91 pairs of 'hangers'"
+  "spaced 15.4 meters apart"; each main cable a "clothesline" "2,378 meters long and nearly 1 meter thick" (China
+  Daily's picture, not a spec). "the world's largest span cable hoisting system" set the "93 segments, weighing a total
+  of 22,000 tons" (a second source after Tribune India), first and last girder "about 215 tonnes"; the bridge "is
+  reported to have cost $280 million" (Interesting Engineering, Jan 22 2025, citing Newsweek; gov.cn, Nov 5 2024).
+  Visitors go "bungee jumping, paragliding and rope swinging from the bridge structure" (China Daily). Check before
+  use: the Anlong tower "touches 204 meters" (China Daily) against 205 m (Wikipedia); ENR's deck "2,083 ft above a
+  river" (about 635 m) against 625 m everywhere else; the old crossing ("two hours", China Daily; "nearly an hour",
+  IE; "70 minutes", Wikipedia). Still not found: where the segments were lifted from, the anchorages, the cable wire
+  count, wind-tunnel tests. [China Daily, Aug 25 2025](https://www.chinadaily.com.cn/a/202508/25/WS68ac873aa310851ffdb500cf.html),
+  [ENR, Aug 30 2025](https://www.enr.com/articles/61269-load-test-for-worlds-highest-bridge-is-complete-in-guizhou-china),
+  [Interesting Engineering, Jan 22 2025](https://interestingengineering.com/culture/world-tallest-bridge-in-China),
+  [gov.cn, Nov 5 2024](https://english.www.gov.cn/news/202411/05/content_WS6729673bc6d0868f4e8ec978.html)
