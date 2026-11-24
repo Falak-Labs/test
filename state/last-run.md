@@ -1,4 +1,4 @@
-# Last posting run 2026-11-24T01:29:15+00:00
+# Last posting run 2026-11-24T01:35:31+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -50,10 +50,10 @@
 - sm03 en.youtube: on hold in posts/sm03.yml
 - sm03 ar.youtube: on hold in posts/sm03.yml
 - sm04 en.youtube: on hold in posts/sm04.yml
-- sm04 en.instagram: on hold in posts/sm04.yml
-- sm04 en.tiktok: on hold in posts/sm04.yml
+- sm04 en.instagram: scheduled (Tue 24 Nov 20:15 UTC) id 6b04e9e7c43c1f2f5c7aaca0
+- sm04 en.tiktok: scheduled (Tue 24 Nov 20:15 UTC) id 6b04e9e79a4bd32ca3e43060
 - sm04 ar.youtube: on hold in posts/sm04.yml
-- sm04 ar.instagram: on hold in posts/sm04.yml
-- sm04 ar.tiktok: on hold in posts/sm04.yml
-- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=470; t=11110, "30d"; r=1030; t=1400624; ratelimit-policy="15m"; q=1
-- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=440; t=11110, "30d"; r=927; t=1406754; ratelimit-policy="15m"; q=15
+- sm04 ar.instagram: scheduled (Tue 24 Nov 18:30 UTC) id 6b04e9e99a4bd32ca3e430bd
+- sm04 ar.tiktok: scheduled (Tue 24 Nov 18:30 UTC) id 6b04e9e9db52b449cf15cb13
+- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=134; t=521, "24h"; r=456; t=10730, "30d"; r=1016; t=1400244; ratelimit-policy="15m"; q=1
+- ar: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=134; t=519, "24h"; r=426; t=10728, "30d"; r=913; t=1406372; ratelimit-policy="15m"; q=15

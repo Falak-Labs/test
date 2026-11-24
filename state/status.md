@@ -1,4 +1,4 @@
-# Post status 2026-11-24T01:29:21+00:00
+# Post status 2026-11-24T01:35:45+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -293,7 +293,7 @@
 | ep49-hagiasophia | en.tiktok | sent |  | 2026-11-20T21:32:13.490Z https://tiktok.com/@congratsengineer/video/7710369180746386702 |
 | ep49-hagiasophia | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-21T23:29:28.671Z |
 | ep50-ondol | ar.instagram | sent |  | 2026-11-20T20:03:49.297Z https://www.instagram.com/reel/Df-d6r8PTG_/ |
-| ep50-ondol | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T01:30:00.000Z |
+| ep50-ondol | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T01:30:00.000Z |
 | ep50-ondol | en.instagram | sent |  | 2026-11-21T00:03:41.305Z https://www.instagram.com/reel/Df-5X9ysK8Q/ |
 | ep50-ondol | en.tiktok | sent |  | 2026-11-21T00:03:38.198Z https://tiktok.com/@congratsengineer/video/7710408284296973582 |
 | ep51-burjalarab | ar.instagram | sent |  | 2026-11-20T23:02:39.126Z https://www.instagram.com/reel/Df-yZ_JsqPF/ |
@@ -402,3 +402,7 @@
 | sm03 | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T02:00:00.000Z |
 | sm03 | en.instagram | sent |  | 2026-11-23T20:16:15.952Z https://www.instagram.com/reel/DgGNynth79K/ |
 | sm03 | en.tiktok | sent |  | 2026-11-23T20:16:55.822Z https://tiktok.com/@congratsengineer/video/7711462975671897357 |
+| sm04 | ar.instagram | scheduled |  | 2026-11-24T18:30:00.000Z |
+| sm04 | ar.tiktok | scheduled |  | 2026-11-24T18:30:00.000Z |
+| sm04 | en.instagram | scheduled |  | 2026-11-24T20:15:00.000Z |
+| sm04 | en.tiktok | scheduled |  | 2026-11-24T20:15:00.000Z |
