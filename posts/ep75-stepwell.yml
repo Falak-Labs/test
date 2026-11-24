@@ -1,0 +1,33 @@
+episode: 75
+date: 2026-11-24
+video:
+  en: media/ep75-stepwell-en.mp4
+  ar: media/ep75-stepwell-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-25T02:30:00Z"    # 18:30 PT Tue Nov 24
+  title: "Chand Baori: 3,500 Steps Down to Water 🪜"
+  text: |
+    An upside-down pyramid of 3,500 steps, dug all the way down to water. 🪜
+    Chand Baori in Abhaneri, Rajasthan, is about 1,200 years old. In a land where it barely rains outside the monsoon, the square pit catches the rain and reaches the water underground. Steps line three walls so you can always walk down to the water as it sinks, the walls lean back in 13 stone floors so they don't cave in, and the stairs zigzag in pairs so lots of people can climb at once. The bottom is about 5°C cooler than the top.
+    Would you climb all the way down? 👇
+  next: "a pressure cooker 🍲"
+  seo: "How the Chand Baori stepwell works: Chand Baori is a stepwell in the village of Abhaneri in Rajasthan, India, built around the 8th to 9th century and traditionally linked to King Chanda of the Nikumbha dynasty. It is one of the deepest and largest stepwells in India: about 30 m deep, with some 3,500 narrow steps arranged in double flights on three sides over 13 levels, while the fourth side has pavilions and galleries. In a dry region where most of the year's rain falls in a few monsoon weeks, a stepwell stores rainwater and reaches the groundwater, and the steps let people walk down to the water whatever its level. The deep, shaded pit loses less water to evaporation, and the air at the bottom is about 5-6 °C cooler than at the surface, so the stepwell was also a cool place for people to gather in the summer heat."
+  tags:
+    tiktok: "#chandbaori #stepwell #rajasthan #india #learnontiktok"
+    instagram: "#chandbaori #stepwell #rajasthan #india #architecture"
+    youtube: "#chandbaori #stepwell #india"
+ar:
+  at: "2026-11-24T23:00:00Z"    # 15:00 PT Tue Nov 24 = 2 am Riyadh Nov 25
+  title: "بير تشاند باوري: هرم مقلوب من الدرج 🪜"
+  text: |
+    هرم مقلوب من الدرج، تنزل فيه لين توصل الموية! 🪜
+    بير تشاند باوري في الهند عمره تقريبا ألف ومتين سنة. المطر هناك يجي كم أسبوع بالسنة بس، فالحفرة تتعبى من مطر الموسم والموية اللي تحت الأرض. والدرج على ثلاث جدران عشان توصل للموية لو نزلت، والجدران ترجع لورا ثلطعش دور عشان ما تطيح، والدرج متعرّج أزواج عشان الناس يطلعون وينزلون مع بعض. وتحت أبرد بخمس درجات تقريبا.
+    تقدر تنزل كل هالدرج؟ 👇
+  next: "قدر الضغط 🍲"
+  seo: "كيف يشتغل بير تشاند باوري: تشاند باوري بير بدرج في قرية أبهانيري في راجستان بالهند، انبنى تقريبا بين القرن الثامن والتاسع، وينسبونه للملك تشاندا. وهو من أعمق وأكبر آبار الدرج في الهند: عمقه حوالي ثلاثين متر، وفيه تقريبا ثلاثة آلاف وخمسمية درجة ضيقة مرتبة أزواج على ثلاث جهات في ثلطعش دور، والجهة الرابعة فيها أجنحة وممرات. وفي منطقة ناشفة أغلب مطرها يجي في كم أسبوع وقت الموسم، البير يخزن موية المطر ويوصل للموية اللي تحت الأرض، والدرج يخلي الناس ينزلون للموية مهما كان مستواها. والحفرة العميقة المظللة يتبخر منها موية أقل، والهوا تحت أبرد من فوق بحوالي خمس لين ست درجات، فكان البير بعد مكان بارد يتجمع فيه الناس وقت حر الصيف."
+  tags:
+    tiktok: "#تشاند_باوري #الهند #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#تشاند_باوري #الهند #هندسة #السعودية #معلومات"
+    youtube: "#تشاند_باوري #الهند #هندسة"
