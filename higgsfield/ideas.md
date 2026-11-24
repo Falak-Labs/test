@@ -809,3 +809,51 @@ New content
   [ASCE, Jan 3 2023](https://asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/issues/magazine-issue/article/2023/01/museum-of-the-future-sets-standard-for-whats-to-come-in-digital-design),
   [Gulf News, upd. Feb 16 2022](https://gulfnews.com/uae/revealed-how-dubais-architecturally-unique-museum-of-the-future-was-built-1.85767249),
   [Buro Happold, Feb 21 2022](https://www.burohappold.com/articles/designing-the-diagrid-using-a-bespoke-growth-algorithm-to-deliver-museum-of-the-future/)
+
+## 2026-11-24 14:02 PT (hourly runner, cloud run)
+
+Trends
+- How long a Short gets watched: Metricool's 2026 study (799,718 videos from 71,177 accounts, 2025 against 2026;
+  published Jul 29 2026) finds Shorts views "jumped more than 127%" while average view duration fell "about 67%, down
+  to roughly 16 seconds per Short", and "More than 61% of all organic views in the sample came from the Shorts feed".
+  Posting: "Each Short performs best per post at 2 to 4 uploads a week," but "there's no real ceiling on the monthly
+  total". Build-It use: the average viewer stays about 16 s, so A1's wow, the first sourced number and the first "But"
+  must all land in lines 1-3. A vendor's own data, no method given beyond the sample.
+  [Metricool, Jul 29 2026](https://metricool.com/youtube-trends/)
+
+Free footage and pictures
+- A free licence is not enough for photos of new buildings: the country also needs freedom of panorama. Commons' table
+  (read from a mirror; the UAE and Saudi lines came from a summary: check on Commons itself) lists the UAE as "Not OK"
+  ("There is no usable FoP provision in the copyright law of the UAE") and Saudi Arabia as "Not OK", but Singapore as
+  OK for buildings and permanent sculptures (Copyright Act 2021, section 265) and China as "In general, OK , with
+  attribution" for architecture. Build-It use: for Dubai and Saudi builds (Museum of the Future 97, the Jeddah Tower
+  candidate for 100) the proof shot stays Seedance or a picture model, not a Commons photo; the Rain Vortex (98) can use
+  one (Commons has a "The Rain Vortex" category with 2024 and night photos; their licences are not read here, the
+  Commons pages would not open in this run).
+  [Commons FoP/Asia, mirror](https://download.osmand.net/wiki/Commons:Freedom_of_panorama/Asia/en),
+  [Category:The Rain Vortex](https://commons.wikimedia.org/wiki/Category:The_Rain_Vortex)
+
+New content
+- Rain Vortex (LINEUP 98), the checks its entry asks for: "The 40-metre-tall Rain Vortex", "designed to funnel
+  rainwater at a rate of 10,000 gallons per minute", pours "down seven storeys from an oculus in the glass domed roof",
+  and "the captured water will be re-used in the building"; Buro Happold engineered the "bagel-shaped roof, which spans
+  more than 200 metres at its widest point" (Dezeen, Mar 12 2019; Changi Airport: "the 40-metre HSBC Rain Vortex";
+  Siemens: "10,000 gallons of harvested rainwater plummet every minute"). A break and fix for its pair (Siemens
+  Engineer Innovation 13, on Atelier Ten's design): "moisture from the waterfall would add to the humidity of the air in
+  the occupied space", and "Early simulations showed air being dragged by the waterfall from the occupied areas into
+  the pit"; the fix, "a one-meter-high solid glass balustrade that deflects the air upwards instead of sideways", came
+  from a CFD model of "a single meter-wide slice at high resolution". At night, "a 360-degree light and sound show"
+  (Dezeen). Check before use: who engineered the water itself (Dezeen: "engineered by design firm WET"). Ready shots:
+  tropical rain sliding down a glass doughnut roof into its hole; smoke tracers dragged down into the pit by the
+  falling water; a low glass wall turning the air upward.
+  [Dezeen, Mar 12 2019](https://www.dezeen.com/2019/03/12/moshe-safdie-worlds-tallest-indoor-waterfall-changi-airport/),
+  [Siemens](https://ebooks.sw.siemens.com/engineer-innovation-issue-13/trains-planes-and-waterfalls),
+  [Changi Airport](https://www.changiairport.com/corporate/media-centre/changijourneys/the-airport-never-sleeps/behind-the-rain-vortex.html)
+- Falkirk Wheel (95): its pair is queued (falkirk-A/B) with new sourced facts in the comments: ICE on the bolts ("more
+  than 15,000 bolts, matched to 45,000 bolt holes. Each bolt was tightened by hand", to avoid fatigue), Practical
+  Engineering on the balance, the level-keeping gears, "about one-and-a-half kilowatt-hours" a half turn and the gate
+  seal, and Canmore on the Roughcastle tunnel under the Antonine Wall and the main railway. Practical Engineering already
+  told the gears story (Nov 17 2025), so the tunnel under the Roman wall (B2-B3) can be our own beat.
+  [Practical Engineering, Nov 17 2025](https://practical.engineering/blog/2025/11/17/the-hidden-engineering-behind-the-falkirk-wheel),
+  [ICE](https://ice.org.uk/what-is-civil-engineering/infrastructure-projects/falkirk-wheel),
+  [Canmore](https://canmore.org.uk/site/279405/union-canal-roughcastle-tunnel?u=)
