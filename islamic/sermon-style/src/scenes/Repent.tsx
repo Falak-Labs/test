@@ -322,7 +322,7 @@ export const Mother: React.FC<SceneProps> = ({f, a, b, cue}) => {
   const found = cueAt(cue, 'found', f, 24);
   const mercy = cueAt(cue, 'mercy', f, 70);
   const kids = [[300, G], [420, G], [690, G], [820, G], [560, G]];
-  const seek = ((f - a) / 110) % 4;
+  const seek = (Math.max(0, f - a) / 110) % 4;
   const k0 = kids[Math.floor(seek)], k1 = kids[Math.floor(seek) + 1];
   const tt = seek - Math.floor(seek);
   const mx = found > 0 ? lerp(lerp(k0[0], k1[0], tt), 560, found) : lerp(k0[0], k1[0], tt);
