@@ -1,0 +1,27 @@
+{
+ "slug": "fountain-b80",
+ "kit": "jeddahfountain",
+ "style": "seedance",
+ "en": {
+  "duration": 72.4,
+  "lufs": -14.9,
+  "peak": -1.1,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 22.1,
+  "cover": true,
+  "ok": true
+ },
+ "ar": {
+  "duration": 69.2,
+  "lufs": -15.0,
+  "peak": -1.4,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 21.5,
+  "cover": true,
+  "ok": true
+ }
+}

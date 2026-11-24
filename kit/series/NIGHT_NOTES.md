@@ -1836,3 +1836,4 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   check, post, he removes what he dislikes). Builds 76 (cooker) and 77 (Golden Gate) are also ready as footage.
   Build 79 (Kuwait Towers): clip A fetched, B generating (kuwait-A/B in higgsfield/queue.yml).
 - Build 79 Kuwait Towers made (VOICE_SPEED=1.08 on seedance_publish): media/kuwaittowers-b79-en.mp4 74 s, -ar.mp4 76 s, covers in review/kuwaittowers-b79/. Must be posted.
+- Build 80 King Fahd's Fountain made (VOICE_SPEED=1.04): media/fountain-b80-en.mp4 72 s, -ar.mp4 69 s, covers review/fountain-b80/. Must be posted. Build 81 zipper: zipper-A fetched, zipper-B generating (02:18 PT).
