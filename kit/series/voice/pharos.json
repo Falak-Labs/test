@@ -1,0 +1,1182 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 61.72,
+ "words": 212,
+ "words_per_sec": 3.44,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.635,
+   "text": "If you top a giant tower with fire, congrats, you just built the Lighthouse of Alexandria.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.13,
+     "end": 0.337
+    },
+    {
+     "w": "you",
+     "start": 0.337,
+     "end": 0.544
+    },
+    {
+     "w": "top",
+     "start": 0.544,
+     "end": 0.751
+    },
+    {
+     "w": "a",
+     "start": 0.751,
+     "end": 0.958
+    },
+    {
+     "w": "giant",
+     "start": 0.958,
+     "end": 1.165
+    },
+    {
+     "w": "tower",
+     "start": 1.165,
+     "end": 1.526
+    },
+    {
+     "w": "with",
+     "start": 1.526,
+     "end": 1.733
+    },
+    {
+     "w": "fire,",
+     "start": 1.733,
+     "end": 1.94
+    },
+    {
+     "w": "congrats,",
+     "start": 2.08,
+     "end": 2.45
+    },
+    {
+     "w": "you",
+     "start": 2.45,
+     "end": 2.663
+    },
+    {
+     "w": "just",
+     "start": 2.663,
+     "end": 2.876
+    },
+    {
+     "w": "built",
+     "start": 2.876,
+     "end": 3.089
+    },
+    {
+     "w": "the",
+     "start": 3.089,
+     "end": 3.301
+    },
+    {
+     "w": "Lighthouse",
+     "start": 3.301,
+     "end": 3.672
+    },
+    {
+     "w": "of",
+     "start": 3.672,
+     "end": 3.884
+    },
+    {
+     "w": "Alexandria.",
+     "start": 3.884,
+     "end": 4.57
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.0,
+   "end": 9.115,
+   "text": "But ships keep sinking on hidden rocks here. So how far out could sailors see your fire?",
+   "words": [
+    {
+     "w": "But",
+     "start": 5.14,
+     "end": 5.337
+    },
+    {
+     "w": "ships",
+     "start": 5.337,
+     "end": 5.534
+    },
+    {
+     "w": "keep",
+     "start": 5.534,
+     "end": 5.732
+    },
+    {
+     "w": "sinking",
+     "start": 5.732,
+     "end": 6.075
+    },
+    {
+     "w": "on",
+     "start": 6.075,
+     "end": 6.272
+    },
+    {
+     "w": "hidden",
+     "start": 6.272,
+     "end": 6.616
+    },
+    {
+     "w": "rocks",
+     "start": 6.616,
+     "end": 6.813
+    },
+    {
+     "w": "here.",
+     "start": 6.813,
+     "end": 7.01
+    },
+    {
+     "w": "So",
+     "start": 7.17,
+     "end": 7.361
+    },
+    {
+     "w": "how",
+     "start": 7.361,
+     "end": 7.552
+    },
+    {
+     "w": "far",
+     "start": 7.552,
+     "end": 7.743
+    },
+    {
+     "w": "out",
+     "start": 7.743,
+     "end": 7.934
+    },
+    {
+     "w": "could",
+     "start": 7.934,
+     "end": 8.125
+    },
+    {
+     "w": "sailors",
+     "start": 8.125,
+     "end": 8.457
+    },
+    {
+     "w": "see",
+     "start": 8.457,
+     "end": 8.648
+    },
+    {
+     "w": "your",
+     "start": 8.648,
+     "end": 8.839
+    },
+    {
+     "w": "fire?",
+     "start": 8.839,
+     "end": 9.03
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.479,
+   "end": 14.0,
+   "text": "So you stack the stone tower about a hundred meters tall, as high as a thirty-floor building.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.589,
+     "end": 9.783
+    },
+    {
+     "w": "you",
+     "start": 9.783,
+     "end": 9.977
+    },
+    {
+     "w": "stack",
+     "start": 9.977,
+     "end": 10.171
+    },
+    {
+     "w": "the",
+     "start": 10.171,
+     "end": 10.365
+    },
+    {
+     "w": "stone",
+     "start": 10.365,
+     "end": 10.559
+    },
+    {
+     "w": "tower",
+     "start": 10.559,
+     "end": 10.897
+    },
+    {
+     "w": "about",
+     "start": 10.897,
+     "end": 11.235
+    },
+    {
+     "w": "a",
+     "start": 11.235,
+     "end": 11.429
+    },
+    {
+     "w": "hundred",
+     "start": 11.429,
+     "end": 11.767
+    },
+    {
+     "w": "meters",
+     "start": 11.767,
+     "end": 12.105
+    },
+    {
+     "w": "tall,",
+     "start": 12.105,
+     "end": 12.299
+    },
+    {
+     "w": "as",
+     "start": 12.439,
+     "end": 12.62
+    },
+    {
+     "w": "high",
+     "start": 12.62,
+     "end": 12.801
+    },
+    {
+     "w": "as",
+     "start": 12.801,
+     "end": 12.983
+    },
+    {
+     "w": "a",
+     "start": 12.983,
+     "end": 13.164
+    },
+    {
+     "w": "thirty-floor",
+     "start": 13.164,
+     "end": 13.614
+    },
+    {
+     "w": "building.",
+     "start": 13.614,
+     "end": 13.929
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.365,
+   "end": 17.135,
+   "text": "But at night, nobody can see a tower made of stone.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.495,
+     "end": 14.688
+    },
+    {
+     "w": "at",
+     "start": 14.688,
+     "end": 14.882
+    },
+    {
+     "w": "night,",
+     "start": 14.882,
+     "end": 15.075
+    },
+    {
+     "w": "nobody",
+     "start": 15.245,
+     "end": 15.687
+    },
+    {
+     "w": "can",
+     "start": 15.687,
+     "end": 15.865
+    },
+    {
+     "w": "see",
+     "start": 15.865,
+     "end": 16.043
+    },
+    {
+     "w": "a",
+     "start": 16.043,
+     "end": 16.221
+    },
+    {
+     "w": "tower",
+     "start": 16.221,
+     "end": 16.531
+    },
+    {
+     "w": "made",
+     "start": 16.531,
+     "end": 16.709
+    },
+    {
+     "w": "of",
+     "start": 16.709,
+     "end": 16.887
+    },
+    {
+     "w": "stone.",
+     "start": 16.887,
+     "end": 17.065
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.5,
+   "end": 20.76,
+   "text": "So you keep a big fire burning on top, all night, every night.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.61,
+     "end": 17.801
+    },
+    {
+     "w": "you",
+     "start": 17.801,
+     "end": 17.992
+    },
+    {
+     "w": "keep",
+     "start": 17.992,
+     "end": 18.183
+    },
+    {
+     "w": "a",
+     "start": 18.183,
+     "end": 18.374
+    },
+    {
+     "w": "big",
+     "start": 18.374,
+     "end": 18.565
+    },
+    {
+     "w": "fire",
+     "start": 18.565,
+     "end": 18.756
+    },
+    {
+     "w": "burning",
+     "start": 18.756,
+     "end": 19.088
+    },
+    {
+     "w": "on",
+     "start": 19.088,
+     "end": 19.279
+    },
+    {
+     "w": "top,",
+     "start": 19.279,
+     "end": 19.47
+    },
+    {
+     "w": "all",
+     "start": 19.65,
+     "end": 19.87
+    },
+    {
+     "w": "night,",
+     "start": 19.87,
+     "end": 20.09
+    },
+    {
+     "w": "every",
+     "start": 20.23,
+     "end": 20.558
+    },
+    {
+     "w": "night.",
+     "start": 20.558,
+     "end": 20.69
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 21.125,
+   "end": 24.229,
+   "text": "But far out at sea, one fire looks like a tiny spark.",
+   "words": [
+    {
+     "w": "But",
+     "start": 21.265,
+     "end": 21.479
+    },
+    {
+     "w": "far",
+     "start": 21.479,
+     "end": 21.693
+    },
+    {
+     "w": "out",
+     "start": 21.693,
+     "end": 21.907
+    },
+    {
+     "w": "at",
+     "start": 21.907,
+     "end": 22.121
+    },
+    {
+     "w": "sea,",
+     "start": 22.121,
+     "end": 22.335
+    },
+    {
+     "w": "one",
+     "start": 22.485,
+     "end": 22.701
+    },
+    {
+     "w": "fire",
+     "start": 22.701,
+     "end": 22.916
+    },
+    {
+     "w": "looks",
+     "start": 22.916,
+     "end": 23.132
+    },
+    {
+     "w": "like",
+     "start": 23.132,
+     "end": 23.348
+    },
+    {
+     "w": "a",
+     "start": 23.348,
+     "end": 23.564
+    },
+    {
+     "w": "tiny",
+     "start": 23.564,
+     "end": 23.939
+    },
+    {
+     "w": "spark.",
+     "start": 23.939,
+     "end": 24.155
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 24.594,
+   "end": 28.219,
+   "text": "So a giant mirror of polished bronze throws its light out over the waves.",
+   "words": [
+    {
+     "w": "So",
+     "start": 24.704,
+     "end": 24.898
+    },
+    {
+     "w": "a",
+     "start": 24.898,
+     "end": 25.093
+    },
+    {
+     "w": "giant",
+     "start": 25.093,
+     "end": 25.287
+    },
+    {
+     "w": "mirror",
+     "start": 25.287,
+     "end": 25.625
+    },
+    {
+     "w": "of",
+     "start": 25.625,
+     "end": 25.819
+    },
+    {
+     "w": "polished",
+     "start": 25.819,
+     "end": 26.302
+    },
+    {
+     "w": "bronze",
+     "start": 26.302,
+     "end": 26.496
+    },
+    {
+     "w": "throws",
+     "start": 26.496,
+     "end": 26.69
+    },
+    {
+     "w": "its",
+     "start": 26.69,
+     "end": 26.885
+    },
+    {
+     "w": "light",
+     "start": 26.885,
+     "end": 27.079
+    },
+    {
+     "w": "out",
+     "start": 27.079,
+     "end": 27.273
+    },
+    {
+     "w": "over",
+     "start": 27.273,
+     "end": 27.611
+    },
+    {
+     "w": "the",
+     "start": 27.611,
+     "end": 27.806
+    },
+    {
+     "w": "waves.",
+     "start": 27.806,
+     "end": 28.144
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 28.583,
+   "end": 32.302,
+   "text": "But that fire eats loads of wood every night, and the top is a hundred meters up.",
+   "words": [
+    {
+     "w": "But",
+     "start": 28.723,
+     "end": 28.897
+    },
+    {
+     "w": "that",
+     "start": 28.897,
+     "end": 29.072
+    },
+    {
+     "w": "fire",
+     "start": 29.072,
+     "end": 29.246
+    },
+    {
+     "w": "eats",
+     "start": 29.246,
+     "end": 29.42
+    },
+    {
+     "w": "loads",
+     "start": 29.42,
+     "end": 29.595
+    },
+    {
+     "w": "of",
+     "start": 29.595,
+     "end": 29.769
+    },
+    {
+     "w": "wood",
+     "start": 29.769,
+     "end": 29.943
+    },
+    {
+     "w": "every",
+     "start": 29.943,
+     "end": 30.376
+    },
+    {
+     "w": "night,",
+     "start": 30.376,
+     "end": 30.55
+    },
+    {
+     "w": "and",
+     "start": 30.55,
+     "end": 30.724
+    },
+    {
+     "w": "the",
+     "start": 30.724,
+     "end": 30.899
+    },
+    {
+     "w": "top",
+     "start": 30.899,
+     "end": 31.073
+    },
+    {
+     "w": "is",
+     "start": 31.073,
+     "end": 31.247
+    },
+    {
+     "w": "a",
+     "start": 31.247,
+     "end": 31.422
+    },
+    {
+     "w": "hundred",
+     "start": 31.422,
+     "end": 31.725
+    },
+    {
+     "w": "meters",
+     "start": 31.725,
+     "end": 32.029
+    },
+    {
+     "w": "up.",
+     "start": 32.029,
+     "end": 32.203
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 32.667,
+   "end": 36.417,
+   "text": "So a ramp winds up inside the tower, and animals haul the wood to the top.",
+   "words": [
+    {
+     "w": "So",
+     "start": 32.767,
+     "end": 32.959
+    },
+    {
+     "w": "a",
+     "start": 32.959,
+     "end": 33.151
+    },
+    {
+     "w": "ramp",
+     "start": 33.151,
+     "end": 33.343
+    },
+    {
+     "w": "winds",
+     "start": 33.343,
+     "end": 33.535
+    },
+    {
+     "w": "up",
+     "start": 33.535,
+     "end": 33.727
+    },
+    {
+     "w": "inside",
+     "start": 33.727,
+     "end": 34.061
+    },
+    {
+     "w": "the",
+     "start": 34.061,
+     "end": 34.253
+    },
+    {
+     "w": "tower,",
+     "start": 34.253,
+     "end": 34.587
+    },
+    {
+     "w": "and",
+     "start": 34.767,
+     "end": 34.928
+    },
+    {
+     "w": "animals",
+     "start": 34.928,
+     "end": 35.329
+    },
+    {
+     "w": "haul",
+     "start": 35.329,
+     "end": 35.49
+    },
+    {
+     "w": "the",
+     "start": 35.49,
+     "end": 35.652
+    },
+    {
+     "w": "wood",
+     "start": 35.652,
+     "end": 35.813
+    },
+    {
+     "w": "to",
+     "start": 35.813,
+     "end": 35.974
+    },
+    {
+     "w": "the",
+     "start": 35.974,
+     "end": 36.136
+    },
+    {
+     "w": "top.",
+     "start": 36.136,
+     "end": 36.297
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 36.781,
+   "end": 41.573,
+   "text": "But before you set sail, follow, because next we're building a concert hall that vanishes in the desert.",
+   "words": [
+    {
+     "w": "But",
+     "start": 36.921,
+     "end": 37.127
+    },
+    {
+     "w": "before",
+     "start": 37.127,
+     "end": 37.484
+    },
+    {
+     "w": "you",
+     "start": 37.484,
+     "end": 37.69
+    },
+    {
+     "w": "set",
+     "start": 37.69,
+     "end": 37.895
+    },
+    {
+     "w": "sail,",
+     "start": 37.895,
+     "end": 38.101
+    },
+    {
+     "w": "follow,",
+     "start": 38.251,
+     "end": 38.571
+    },
+    {
+     "w": "because",
+     "start": 38.701,
+     "end": 39.0
+    },
+    {
+     "w": "next",
+     "start": 39.0,
+     "end": 39.171
+    },
+    {
+     "w": "we're",
+     "start": 39.171,
+     "end": 39.342
+    },
+    {
+     "w": "building",
+     "start": 39.342,
+     "end": 39.641
+    },
+    {
+     "w": "a",
+     "start": 39.641,
+     "end": 39.812
+    },
+    {
+     "w": "concert",
+     "start": 39.812,
+     "end": 40.111
+    },
+    {
+     "w": "hall",
+     "start": 40.111,
+     "end": 40.282
+    },
+    {
+     "w": "that",
+     "start": 40.282,
+     "end": 40.454
+    },
+    {
+     "w": "vanishes",
+     "start": 40.454,
+     "end": 40.88
+    },
+    {
+     "w": "in",
+     "start": 40.88,
+     "end": 41.051
+    },
+    {
+     "w": "the",
+     "start": 41.051,
+     "end": 41.222
+    },
+    {
+     "w": "desert.",
+     "start": 41.222,
+     "end": 41.521
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 41.938,
+   "end": 47.573,
+   "text": "Now the story: sailors saw its fire fifty kilometers out at sea, until earthquakes threw it into the harbor.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 42.048,
+     "end": 42.248
+    },
+    {
+     "w": "the",
+     "start": 42.248,
+     "end": 42.449
+    },
+    {
+     "w": "story:",
+     "start": 42.449,
+     "end": 42.798
+    },
+    {
+     "w": "sailors",
+     "start": 42.988,
+     "end": 43.324
+    },
+    {
+     "w": "saw",
+     "start": 43.324,
+     "end": 43.517
+    },
+    {
+     "w": "its",
+     "start": 43.517,
+     "end": 43.71
+    },
+    {
+     "w": "fire",
+     "start": 43.71,
+     "end": 43.903
+    },
+    {
+     "w": "fifty",
+     "start": 43.903,
+     "end": 44.24
+    },
+    {
+     "w": "kilometers",
+     "start": 44.24,
+     "end": 44.862
+    },
+    {
+     "w": "out",
+     "start": 44.862,
+     "end": 45.055
+    },
+    {
+     "w": "at",
+     "start": 45.055,
+     "end": 45.248
+    },
+    {
+     "w": "sea,",
+     "start": 45.248,
+     "end": 45.441
+    },
+    {
+     "w": "until",
+     "start": 45.441,
+     "end": 45.777
+    },
+    {
+     "w": "earthquakes",
+     "start": 45.777,
+     "end": 46.256
+    },
+    {
+     "w": "threw",
+     "start": 46.256,
+     "end": 46.45
+    },
+    {
+     "w": "it",
+     "start": 46.45,
+     "end": 46.643
+    },
+    {
+     "w": "into",
+     "start": 46.643,
+     "end": 46.979
+    },
+    {
+     "w": "the",
+     "start": 46.979,
+     "end": 47.172
+    },
+    {
+     "w": "harbor.",
+     "start": 47.172,
+     "end": 47.508
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 47.938,
+   "end": 53.25,
+   "text": "A hundred meters, sixteen hundred years, and twenty-two giant stones lifted from the sea last year.",
+   "words": [
+    {
+     "w": "A",
+     "start": 48.048,
+     "end": 48.258
+    },
+    {
+     "w": "hundred",
+     "start": 48.258,
+     "end": 48.623
+    },
+    {
+     "w": "meters,",
+     "start": 48.623,
+     "end": 48.988
+    },
+    {
+     "w": "sixteen",
+     "start": 49.148,
+     "end": 49.591
+    },
+    {
+     "w": "hundred",
+     "start": 49.591,
+     "end": 50.034
+    },
+    {
+     "w": "years,",
+     "start": 50.034,
+     "end": 50.288
+    },
+    {
+     "w": "and",
+     "start": 50.418,
+     "end": 50.632
+    },
+    {
+     "w": "twenty-two",
+     "start": 50.632,
+     "end": 51.162
+    },
+    {
+     "w": "giant",
+     "start": 51.162,
+     "end": 51.376
+    },
+    {
+     "w": "stones",
+     "start": 51.376,
+     "end": 51.748
+    },
+    {
+     "w": "lifted",
+     "start": 51.748,
+     "end": 52.12
+    },
+    {
+     "w": "from",
+     "start": 52.12,
+     "end": 52.333
+    },
+    {
+     "w": "the",
+     "start": 52.333,
+     "end": 52.547
+    },
+    {
+     "w": "sea",
+     "start": 52.547,
+     "end": 52.761
+    },
+    {
+     "w": "last",
+     "start": 52.761,
+     "end": 52.974
+    },
+    {
+     "w": "year.",
+     "start": 52.974,
+     "end": 53.188
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 53.615,
+   "end": 56.979,
+   "text": "And congrats, you just built the Lighthouse of Alexandria yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 53.735,
+     "end": 53.994
+    },
+    {
+     "w": "congrats,",
+     "start": 53.994,
+     "end": 54.445
+    },
+    {
+     "w": "you",
+     "start": 54.585,
+     "end": 54.778
+    },
+    {
+     "w": "just",
+     "start": 54.778,
+     "end": 54.971
+    },
+    {
+     "w": "built",
+     "start": 54.971,
+     "end": 55.164
+    },
+    {
+     "w": "the",
+     "start": 55.164,
+     "end": 55.357
+    },
+    {
+     "w": "Lighthouse",
+     "start": 55.357,
+     "end": 55.694
+    },
+    {
+     "w": "of",
+     "start": 55.694,
+     "end": 55.887
+    },
+    {
+     "w": "Alexandria",
+     "start": 55.887,
+     "end": 56.509
+    },
+    {
+     "w": "yourself.",
+     "start": 56.509,
+     "end": 56.845
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 57.344,
+   "end": 61.74,
+   "text": "It guided ships home for sixteen centuries, and the delivery guy still can't find your house.",
+   "words": [
+    {
+     "w": "It",
+     "start": 57.474,
+     "end": 57.672
+    },
+    {
+     "w": "guided",
+     "start": 57.672,
+     "end": 58.016
+    },
+    {
+     "w": "ships",
+     "start": 58.016,
+     "end": 58.214
+    },
+    {
+     "w": "home",
+     "start": 58.214,
+     "end": 58.412
+    },
+    {
+     "w": "for",
+     "start": 58.412,
+     "end": 58.609
+    },
+    {
+     "w": "sixteen",
+     "start": 58.609,
+     "end": 58.954
+    },
+    {
+     "w": "centuries,",
+     "start": 58.954,
+     "end": 59.444
+    },
+    {
+     "w": "and",
+     "start": 59.444,
+     "end": 59.642
+    },
+    {
+     "w": "the",
+     "start": 59.642,
+     "end": 59.84
+    },
+    {
+     "w": "delivery",
+     "start": 59.84,
+     "end": 60.477
+    },
+    {
+     "w": "guy",
+     "start": 60.477,
+     "end": 60.675
+    },
+    {
+     "w": "still",
+     "start": 60.675,
+     "end": 60.873
+    },
+    {
+     "w": "can't",
+     "start": 60.873,
+     "end": 61.071
+    },
+    {
+     "w": "find",
+     "start": 61.071,
+     "end": 61.268
+    },
+    {
+     "w": "your",
+     "start": 61.268,
+     "end": 61.466
+    },
+    {
+     "w": "house.",
+     "start": 61.466,
+     "end": 61.664
+    }
+   ]
+  }
+ ]
+}
