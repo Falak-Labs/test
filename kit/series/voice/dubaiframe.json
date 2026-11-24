@@ -1,0 +1,1218 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 79.957,
+ "words": 219,
+ "words_per_sec": 2.74,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.939,
+   "text": "Y'all, a golden picture frame taller than a fifty story building stands in a park. Yes, a picture frame.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.75
+    },
+    {
+     "w": "a",
+     "start": 0.929,
+     "end": 1.071
+    },
+    {
+     "w": "golden",
+     "start": 1.214,
+     "end": 1.571
+    },
+    {
+     "w": "picture",
+     "start": 1.643,
+     "end": 1.929
+    },
+    {
+     "w": "frame",
+     "start": 2.0,
+     "end": 2.214
+    },
+    {
+     "w": "taller",
+     "start": 2.286,
+     "end": 2.571
+    },
+    {
+     "w": "than",
+     "start": 2.643,
+     "end": 2.714
+    },
+    {
+     "w": "a",
+     "start": 2.786,
+     "end": 2.929
+    },
+    {
+     "w": "fifty",
+     "start": 3.0,
+     "end": 3.286
+    },
+    {
+     "w": "story",
+     "start": 3.357,
+     "end": 3.643
+    },
+    {
+     "w": "building",
+     "start": 3.786,
+     "end": 4.143
+    },
+    {
+     "w": "stands",
+     "start": 4.214,
+     "end": 4.5
+    },
+    {
+     "w": "in",
+     "start": 4.536,
+     "end": 4.571
+    },
+    {
+     "w": "a",
+     "start": 4.643,
+     "end": 4.714
+    },
+    {
+     "w": "park.",
+     "start": 4.893,
+     "end": 5.089
+    },
+    {
+     "w": "Yes,",
+     "start": 5.232,
+     "end": 5.741
+    },
+    {
+     "w": "a",
+     "start": 5.821,
+     "end": 5.964
+    },
+    {
+     "w": "picture",
+     "start": 6.036,
+     "end": 6.393
+    },
+    {
+     "w": "frame.",
+     "start": 6.464,
+     "end": 7.036
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.252,
+   "end": 13.542,
+   "text": "First problem. Old Dubai sits on one side, and the new skyline on the other. So what goes in the middle?",
+   "words": [
+    {
+     "w": "First",
+     "start": 7.328,
+     "end": 7.542
+    },
+    {
+     "w": "problem.",
+     "start": 7.613,
+     "end": 8.189
+    },
+    {
+     "w": "Old",
+     "start": 8.229,
+     "end": 8.444
+    },
+    {
+     "w": "Dubai",
+     "start": 8.515,
+     "end": 8.872
+    },
+    {
+     "w": "sits",
+     "start": 8.944,
+     "end": 9.158
+    },
+    {
+     "w": "on",
+     "start": 9.229,
+     "end": 9.372
+    },
+    {
+     "w": "one",
+     "start": 9.444,
+     "end": 9.587
+    },
+    {
+     "w": "side,",
+     "start": 9.658,
+     "end": 10.122
+    },
+    {
+     "w": "and",
+     "start": 10.158,
+     "end": 10.301
+    },
+    {
+     "w": "the",
+     "start": 10.337,
+     "end": 10.372
+    },
+    {
+     "w": "new",
+     "start": 10.515,
+     "end": 10.658
+    },
+    {
+     "w": "skyline",
+     "start": 10.729,
+     "end": 11.229
+    },
+    {
+     "w": "on",
+     "start": 11.301,
+     "end": 11.372
+    },
+    {
+     "w": "the",
+     "start": 11.408,
+     "end": 11.444
+    },
+    {
+     "w": "other.",
+     "start": 11.515,
+     "end": 11.877
+    },
+    {
+     "w": "So",
+     "start": 12.042,
+     "end": 12.328
+    },
+    {
+     "w": "what",
+     "start": 12.542,
+     "end": 12.685
+    },
+    {
+     "w": "goes",
+     "start": 12.756,
+     "end": 12.899
+    },
+    {
+     "w": "in",
+     "start": 12.971,
+     "end": 13.042
+    },
+    {
+     "w": "the",
+     "start": 13.078,
+     "end": 13.113
+    },
+    {
+     "w": "middle?",
+     "start": 13.185,
+     "end": 13.685
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 13.854,
+   "end": 20.049,
+   "text": "So you raise two tall concrete towers, ninety three meters apart, with lifts running up inside them.",
+   "words": [
+    {
+     "w": "So",
+     "start": 14.13,
+     "end": 14.273
+    },
+    {
+     "w": "you",
+     "start": 14.345,
+     "end": 14.487
+    },
+    {
+     "w": "raise",
+     "start": 14.666,
+     "end": 14.845
+    },
+    {
+     "w": "two",
+     "start": 14.916,
+     "end": 15.13
+    },
+    {
+     "w": "tall",
+     "start": 15.273,
+     "end": 15.487
+    },
+    {
+     "w": "concrete",
+     "start": 15.63,
+     "end": 16.059
+    },
+    {
+     "w": "towers,",
+     "start": 16.13,
+     "end": 16.773
+    },
+    {
+     "w": "ninety",
+     "start": 16.916,
+     "end": 17.202
+    },
+    {
+     "w": "three",
+     "start": 17.273,
+     "end": 17.416
+    },
+    {
+     "w": "meters",
+     "start": 17.487,
+     "end": 17.773
+    },
+    {
+     "w": "apart,",
+     "start": 17.88,
+     "end": 18.371
+    },
+    {
+     "w": "with",
+     "start": 18.443,
+     "end": 18.514
+    },
+    {
+     "w": "lifts",
+     "start": 18.657,
+     "end": 18.943
+    },
+    {
+     "w": "running",
+     "start": 19.05,
+     "end": 19.157
+    },
+    {
+     "w": "up",
+     "start": 19.229,
+     "end": 19.3
+    },
+    {
+     "w": "inside",
+     "start": 19.371,
+     "end": 19.729
+    },
+    {
+     "w": "them.",
+     "start": 19.836,
+     "end": 20.157
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 20.362,
+   "end": 26.454,
+   "text": "But a small crane on top struggles with heavy beams, swinging in the wind. Hold on tight.",
+   "words": [
+    {
+     "w": "But",
+     "start": 20.96,
+     "end": 21.031
+    },
+    {
+     "w": "a",
+     "start": 21.103,
+     "end": 21.174
+    },
+    {
+     "w": "small",
+     "start": 21.246,
+     "end": 21.531
+    },
+    {
+     "w": "crane",
+     "start": 21.603,
+     "end": 21.888
+    },
+    {
+     "w": "on",
+     "start": 21.96,
+     "end": 22.031
+    },
+    {
+     "w": "top",
+     "start": 22.174,
+     "end": 22.46
+    },
+    {
+     "w": "struggles",
+     "start": 22.603,
+     "end": 23.103
+    },
+    {
+     "w": "with",
+     "start": 23.174,
+     "end": 23.246
+    },
+    {
+     "w": "heavy",
+     "start": 23.388,
+     "end": 23.603
+    },
+    {
+     "w": "beams,",
+     "start": 23.674,
+     "end": 24.362
+    },
+    {
+     "w": "swinging",
+     "start": 24.433,
+     "end": 24.862
+    },
+    {
+     "w": "in",
+     "start": 24.897,
+     "end": 24.933
+    },
+    {
+     "w": "the",
+     "start": 25.004,
+     "end": 25.076
+    },
+    {
+     "w": "wind.",
+     "start": 25.147,
+     "end": 25.603
+    },
+    {
+     "w": "Hold",
+     "start": 25.71,
+     "end": 25.817
+    },
+    {
+     "w": "on",
+     "start": 25.888,
+     "end": 25.96
+    },
+    {
+     "w": "tight.",
+     "start": 26.031,
+     "end": 26.746
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 26.766,
+   "end": 32.347,
+   "text": "So you build the bridge on the ground, then lift it to the top with four steel jacks. Slowly.",
+   "words": [
+    {
+     "w": "So",
+     "start": 26.974,
+     "end": 27.117
+    },
+    {
+     "w": "you",
+     "start": 27.188,
+     "end": 27.403
+    },
+    {
+     "w": "build",
+     "start": 27.51,
+     "end": 27.617
+    },
+    {
+     "w": "the",
+     "start": 27.653,
+     "end": 27.688
+    },
+    {
+     "w": "bridge",
+     "start": 27.76,
+     "end": 27.974
+    },
+    {
+     "w": "on",
+     "start": 28.01,
+     "end": 28.046
+    },
+    {
+     "w": "the",
+     "start": 28.117,
+     "end": 28.188
+    },
+    {
+     "w": "ground,",
+     "start": 28.26,
+     "end": 28.903
+    },
+    {
+     "w": "then",
+     "start": 28.974,
+     "end": 29.188
+    },
+    {
+     "w": "lift",
+     "start": 29.26,
+     "end": 29.403
+    },
+    {
+     "w": "it",
+     "start": 29.474,
+     "end": 29.546
+    },
+    {
+     "w": "to",
+     "start": 29.581,
+     "end": 29.617
+    },
+    {
+     "w": "the",
+     "start": 29.688,
+     "end": 29.76
+    },
+    {
+     "w": "top",
+     "start": 29.831,
+     "end": 30.046
+    },
+    {
+     "w": "with",
+     "start": 30.153,
+     "end": 30.26
+    },
+    {
+     "w": "four",
+     "start": 30.331,
+     "end": 30.546
+    },
+    {
+     "w": "steel",
+     "start": 30.617,
+     "end": 30.903
+    },
+    {
+     "w": "jacks.",
+     "start": 30.974,
+     "end": 31.679
+    },
+    {
+     "w": "Slowly.",
+     "start": 31.715,
+     "end": 32.501
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 32.66,
+   "end": 38.081,
+   "text": "But then comes a desert sandstorm, and the flat walls catch all that wind. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.713,
+     "end": 32.856
+    },
+    {
+     "w": "then",
+     "start": 32.928,
+     "end": 33.142
+    },
+    {
+     "w": "comes",
+     "start": 33.213,
+     "end": 33.428
+    },
+    {
+     "w": "a",
+     "start": 33.499,
+     "end": 33.571
+    },
+    {
+     "w": "desert",
+     "start": 33.642,
+     "end": 33.928
+    },
+    {
+     "w": "sandstorm,",
+     "start": 33.999,
+     "end": 34.749
+    },
+    {
+     "w": "and",
+     "start": 34.856,
+     "end": 34.928
+    },
+    {
+     "w": "the",
+     "start": 34.999,
+     "end": 35.071
+    },
+    {
+     "w": "flat",
+     "start": 35.142,
+     "end": 35.356
+    },
+    {
+     "w": "walls",
+     "start": 35.428,
+     "end": 35.713
+    },
+    {
+     "w": "catch",
+     "start": 35.785,
+     "end": 36.071
+    },
+    {
+     "w": "all",
+     "start": 36.213,
+     "end": 36.428
+    },
+    {
+     "w": "that",
+     "start": 36.499,
+     "end": 36.713
+    },
+    {
+     "w": "wind.",
+     "start": 36.892,
+     "end": 37.213
+    },
+    {
+     "w": "Oh",
+     "start": 37.338,
+     "end": 37.553
+    },
+    {
+     "w": "boy.",
+     "start": 37.696,
+     "end": 38.267
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 38.394,
+   "end": 43.938,
+   "text": "So you cover the frame in golden panels full of small holes, and the wind slips right through.",
+   "words": [
+    {
+     "w": "So",
+     "start": 38.608,
+     "end": 38.751
+    },
+    {
+     "w": "you",
+     "start": 38.894,
+     "end": 39.037
+    },
+    {
+     "w": "cover",
+     "start": 39.179,
+     "end": 39.322
+    },
+    {
+     "w": "the",
+     "start": 39.394,
+     "end": 39.465
+    },
+    {
+     "w": "frame",
+     "start": 39.537,
+     "end": 39.751
+    },
+    {
+     "w": "in",
+     "start": 39.822,
+     "end": 39.965
+    },
+    {
+     "w": "golden",
+     "start": 40.144,
+     "end": 40.322
+    },
+    {
+     "w": "panels",
+     "start": 40.394,
+     "end": 40.751
+    },
+    {
+     "w": "full",
+     "start": 41.028,
+     "end": 41.242
+    },
+    {
+     "w": "of",
+     "start": 41.313,
+     "end": 41.385
+    },
+    {
+     "w": "small",
+     "start": 41.528,
+     "end": 41.671
+    },
+    {
+     "w": "holes,",
+     "start": 41.742,
+     "end": 42.242
+    },
+    {
+     "w": "and",
+     "start": 42.322,
+     "end": 42.394
+    },
+    {
+     "w": "the",
+     "start": 42.465,
+     "end": 42.537
+    },
+    {
+     "w": "wind",
+     "start": 42.608,
+     "end": 42.822
+    },
+    {
+     "w": "slips",
+     "start": 42.858,
+     "end": 43.179
+    },
+    {
+     "w": "right",
+     "start": 43.322,
+     "end": 43.537
+    },
+    {
+     "w": "through.",
+     "start": 43.679,
+     "end": 44.037
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 44.25,
+   "end": 49.845,
+   "text": "But now the bridge floor is glass, and everyone stops at the edge. Brave feet, please.",
+   "words": [
+    {
+     "w": "But",
+     "start": 44.696,
+     "end": 44.839
+    },
+    {
+     "w": "now",
+     "start": 44.982,
+     "end": 45.196
+    },
+    {
+     "w": "the",
+     "start": 45.268,
+     "end": 45.339
+    },
+    {
+     "w": "bridge",
+     "start": 45.411,
+     "end": 45.625
+    },
+    {
+     "w": "floor",
+     "start": 45.696,
+     "end": 45.911
+    },
+    {
+     "w": "is",
+     "start": 45.982,
+     "end": 46.054
+    },
+    {
+     "w": "glass,",
+     "start": 46.125,
+     "end": 46.83
+    },
+    {
+     "w": "and",
+     "start": 46.937,
+     "end": 47.045
+    },
+    {
+     "w": "everyone",
+     "start": 47.116,
+     "end": 47.545
+    },
+    {
+     "w": "stops",
+     "start": 47.616,
+     "end": 47.902
+    },
+    {
+     "w": "at",
+     "start": 47.937,
+     "end": 47.973
+    },
+    {
+     "w": "the",
+     "start": 48.045,
+     "end": 48.116
+    },
+    {
+     "w": "edge.",
+     "start": 48.187,
+     "end": 48.643
+    },
+    {
+     "w": "Brave",
+     "start": 48.786,
+     "end": 49.0
+    },
+    {
+     "w": "feet,",
+     "start": 49.071,
+     "end": 49.286
+    },
+    {
+     "w": "please.",
+     "start": 49.5,
+     "end": 50.0
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 50.157,
+   "end": 55.02,
+   "text": "So the glass starts out frosted, and turns clear when you step on it. Surprise.",
+   "words": [
+    {
+     "w": "So",
+     "start": 50.371,
+     "end": 50.514
+    },
+    {
+     "w": "the",
+     "start": 50.586,
+     "end": 50.657
+    },
+    {
+     "w": "glass",
+     "start": 50.836,
+     "end": 51.014
+    },
+    {
+     "w": "starts",
+     "start": 51.157,
+     "end": 51.3
+    },
+    {
+     "w": "out",
+     "start": 51.407,
+     "end": 51.514
+    },
+    {
+     "w": "frosted,",
+     "start": 51.55,
+     "end": 52.347
+    },
+    {
+     "w": "and",
+     "start": 52.396,
+     "end": 52.443
+    },
+    {
+     "w": "turns",
+     "start": 52.514,
+     "end": 52.8
+    },
+    {
+     "w": "clear",
+     "start": 52.871,
+     "end": 53.157
+    },
+    {
+     "w": "when",
+     "start": 53.229,
+     "end": 53.3
+    },
+    {
+     "w": "you",
+     "start": 53.371,
+     "end": 53.443
+    },
+    {
+     "w": "step",
+     "start": 53.514,
+     "end": 53.729
+    },
+    {
+     "w": "on",
+     "start": 53.8,
+     "end": 53.871
+    },
+    {
+     "w": "it.",
+     "start": 54.086,
+     "end": 54.246
+    },
+    {
+     "w": "Surprise.",
+     "start": 54.318,
+     "end": 55.104
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 55.332,
+   "end": 60.617,
+   "text": "Hit follow, 'cause next we're building an electric kettle. Yes... a kettle.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 55.404,
+     "end": 55.546
+    },
+    {
+     "w": "follow,",
+     "start": 55.689,
+     "end": 56.225
+    },
+    {
+     "w": "'cause",
+     "start": 56.332,
+     "end": 56.546
+    },
+    {
+     "w": "next",
+     "start": 56.618,
+     "end": 56.904
+    },
+    {
+     "w": "we're",
+     "start": 56.975,
+     "end": 57.189
+    },
+    {
+     "w": "building",
+     "start": 57.332,
+     "end": 57.475
+    },
+    {
+     "w": "an",
+     "start": 57.511,
+     "end": 57.546
+    },
+    {
+     "w": "electric",
+     "start": 57.618,
+     "end": 58.046
+    },
+    {
+     "w": "kettle.",
+     "start": 58.118,
+     "end": 58.511
+    },
+    {
+     "w": "Yes...",
+     "start": 59.261,
+     "end": 59.832
+    },
+    {
+     "w": "a",
+     "start": 59.939,
+     "end": 60.046
+    },
+    {
+     "w": "kettle.",
+     "start": 60.118,
+     "end": 60.832
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 60.929,
+   "end": 66.519,
+   "text": "Today, you walk through the frame at sunrise, and nobody thinks about the jacks. That's the point.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 61.144,
+     "end": 61.929
+    },
+    {
+     "w": "you",
+     "start": 62.001,
+     "end": 62.144
+    },
+    {
+     "w": "walk",
+     "start": 62.251,
+     "end": 62.358
+    },
+    {
+     "w": "through",
+     "start": 62.429,
+     "end": 62.501
+    },
+    {
+     "w": "the",
+     "start": 62.572,
+     "end": 62.644
+    },
+    {
+     "w": "frame",
+     "start": 62.751,
+     "end": 62.858
+    },
+    {
+     "w": "at",
+     "start": 62.965,
+     "end": 63.072
+    },
+    {
+     "w": "sunrise,",
+     "start": 63.179,
+     "end": 63.787
+    },
+    {
+     "w": "and",
+     "start": 63.894,
+     "end": 64.001
+    },
+    {
+     "w": "nobody",
+     "start": 64.072,
+     "end": 64.501
+    },
+    {
+     "w": "thinks",
+     "start": 64.537,
+     "end": 64.715
+    },
+    {
+     "w": "about",
+     "start": 64.787,
+     "end": 64.929
+    },
+    {
+     "w": "the",
+     "start": 65.001,
+     "end": 65.072
+    },
+    {
+     "w": "jacks.",
+     "start": 65.144,
+     "end": 65.715
+    },
+    {
+     "w": "That's",
+     "start": 65.787,
+     "end": 65.929
+    },
+    {
+     "w": "the",
+     "start": 66.001,
+     "end": 66.072
+    },
+    {
+     "w": "point.",
+     "start": 66.144,
+     "end": 66.715
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 66.831,
+   "end": 70.778,
+   "text": "Two towers, one bridge, and a city framed like a painting.",
+   "words": [
+    {
+     "w": "Two",
+     "start": 66.901,
+     "end": 67.044
+    },
+    {
+     "w": "towers,",
+     "start": 67.115,
+     "end": 67.758
+    },
+    {
+     "w": "one",
+     "start": 67.901,
+     "end": 68.044
+    },
+    {
+     "w": "bridge,",
+     "start": 68.115,
+     "end": 68.651
+    },
+    {
+     "w": "and",
+     "start": 68.758,
+     "end": 68.829
+    },
+    {
+     "w": "a",
+     "start": 68.901,
+     "end": 69.044
+    },
+    {
+     "w": "city",
+     "start": 69.115,
+     "end": 69.401
+    },
+    {
+     "w": "framed",
+     "start": 69.472,
+     "end": 69.829
+    },
+    {
+     "w": "like",
+     "start": 69.901,
+     "end": 70.044
+    },
+    {
+     "w": "a",
+     "start": 70.115,
+     "end": 70.187
+    },
+    {
+     "w": "painting.",
+     "start": 70.329,
+     "end": 70.901
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 71.09,
+   "end": 74.438,
+   "text": "And congrats, you just built the Dubai Frame yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 71.212,
+     "end": 71.233
+    },
+    {
+     "w": "congrats,",
+     "start": 71.304,
+     "end": 72.197
+    },
+    {
+     "w": "you",
+     "start": 72.358,
+     "end": 72.501
+    },
+    {
+     "w": "just",
+     "start": 72.608,
+     "end": 72.715
+    },
+    {
+     "w": "built",
+     "start": 72.822,
+     "end": 72.929
+    },
+    {
+     "w": "the",
+     "start": 72.965,
+     "end": 73.001
+    },
+    {
+     "w": "Dubai",
+     "start": 73.072,
+     "end": 73.358
+    },
+    {
+     "w": "Frame",
+     "start": 73.501,
+     "end": 73.715
+    },
+    {
+     "w": "yourself.",
+     "start": 73.787,
+     "end": 74.572
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 74.751,
+   "end": 79.946,
+   "text": "Hang a picture on the wall... and it's crooked again by morning.",
+   "words": [
+    {
+     "w": "Hang",
+     "start": 75.14,
+     "end": 75.551
+    },
+    {
+     "w": "a",
+     "start": 75.587,
+     "end": 75.694
+    },
+    {
+     "w": "picture",
+     "start": 75.729,
+     "end": 76.015
+    },
+    {
+     "w": "on",
+     "start": 76.087,
+     "end": 76.158
+    },
+    {
+     "w": "the",
+     "start": 76.194,
+     "end": 76.229
+    },
+    {
+     "w": "wall...",
+     "start": 76.301,
+     "end": 76.944
+    },
+    {
+     "w": "and",
+     "start": 78.087,
+     "end": 78.158
+    },
+    {
+     "w": "it's",
+     "start": 78.229,
+     "end": 78.444
+    },
+    {
+     "w": "crooked",
+     "start": 78.515,
+     "end": 78.729
+    },
+    {
+     "w": "again",
+     "start": 78.801,
+     "end": 79.158
+    },
+    {
+     "w": "by",
+     "start": 79.229,
+     "end": 79.301
+    },
+    {
+     "w": "morning.",
+     "start": 79.372,
+     "end": 80.087
+    }
+   ]
+  }
+ ]
+}
