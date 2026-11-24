@@ -857,3 +857,25 @@ New content
   [Practical Engineering, Nov 17 2025](https://practical.engineering/blog/2025/11/17/the-hidden-engineering-behind-the-falkirk-wheel),
   [ICE](https://ice.org.uk/what-is-civil-engineering/infrastructure-projects/falkirk-wheel),
   [Canmore](https://canmore.org.uk/site/279405/union-canal-roughcastle-tunnel?u=)
+- Hand warmer (LINEUP 96), the checks its entry asks for. The first throwaway one: "In 1978, the company became the
+  first in Japan to launch iron-filled, portable heating pads it named Hokaron" (Lotte), found by accident in the
+  mid-1970s: "By accident, water got mixed into the iron — and, lo and behold, it got warm"; "a total of 1.4 billion
+  kairo pads were sold during what they call the 2008 season" (Japan Times, Feb 21 2010, citing the kairo makers'
+  association). The 1923 one was a different kind: Hakkin's founder Niichi Matoba "obtained a patent for application of
+  the principle of an oxidation reaction that produces heat by means of catalysis of an element of the platinum group"
+  (Hakkin history; its fuel is benzine, per its 1998 entry). How the iron pad works: "Fe+3/4O2+3/2H2O → Fe(OH)3"
+  (rust), salt "serves as a catalyst and speeds up the heating process", activated carbon "can absorb oxygen",
+  vermiculite is "excellent at holding water", and it starts "the moment the outside plastic wrapping is opened and air
+  gets in"; the pads "warm up to 50 or 60 C and continue exuding their heat for up to 20 hours" (Japan Times; this
+  page's 20 hours against HowStuffWorks' 8-10: say "hours"). The reusable pouch: sodium acetate "supercooled below its
+  freezing point of 54°C" stays liquid until crystals get a start ("a scratch, an impurity, a dust speck"); flexing "a
+  tiny metal disk" exposes "rough surfaces on the disk" "that allow crystals to grow", and the pad "warms to a toasty
+  54°C" (Frostburg State, rev. Feb 23 2018); reset: "Put the packs in very hot or boiling water for a few minutes" (SFU
+  Physics demos). A break/fix chain for its pair: rust gives heat, but a rusty nail is never warm (too slow), so powder
+  (a huge surface) and salt speed it up; it would burn out in the box, so the wrapper keeps the air out until you tear
+  it; and the reusable pouch works by staying liquid far below its 54 C freezing point. Ready shots: water spilled
+  on iron powder in a 1970s lab, a wisp of warmth rising; a rusty nail beside a glowing pile of iron dust; the white
+  crystal front racing out from the clicked disc. [Japan Times, Feb 21 2010](https://www.japantimes.co.jp/life/2010/02/21/general/feeling-the-heat),
+  [Hakkin](https://hakkin.co.jp/history.html),
+  [Frostburg State](https://antoine.frostburg.edu/chem/senese/101/consumer/faq/how-do-handwarmers-work.shtml),
+  [SFU](https://www.sfu.ca/physics/demos/demos-experiments/heatpackburnaby.html)
