@@ -506,7 +506,7 @@ jobs:
     # and 1747" (engineer Henri Pitot); UNESCO 1985; "With 1,000,000 visitors, it is now France's most visited ancient
     # monument" (pontdugard.fr/en/discover/history; no year given). B4 teases build 89, Noor Ouarzazate (LINEUP).
     # B6: a limescale-crusted tap (the channel's limescale, and the kettle's in build 86).
-    status: todo
+    status: "generating (started: Nov 24 06:55 PT; shots 3,5,6 reworded)"
     file: buildit-pontdugard-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): looking down from high above, brown floodwater rushes straight through the widest arch in the
