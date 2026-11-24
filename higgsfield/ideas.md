@@ -297,3 +297,41 @@ New content
   "1 in 3,000" (Wikipedia) against "25 cm per kilometre" (pontdugard.fr): check before a line uses it. Calcium
   carbonate "up to 50cm (20in) thick on each wall" slowly choked it (the kettle's limescale again, a ready line-10
   link). [Wikipedia](https://en.wikipedia.org/wiki/Pont_du_Gard), [pontdugard.fr](https://pontdugard.fr/en/discover/monument)
+
+## 2026-11-24 06:05 PT (hourly runner, cloud run)
+Trends
+- How the biggest creators open a Short (Shortform Kit, measured Nov 17 2026: 167 videos from 21 large creators in
+  entertainment, food, sports, tech and education; CSV, CC BY 4.0): median first cut 2.6 s, median shot 2.3 s,
+  25.2 cuts a minute (TikTok 16.9, Reels 25.5, Shorts 25.4), sound from the first frame in 95%, speech within 2 s in
+  84% of the spoken ones, text on the first frame in 58%; only 14% cut inside the first second ("the common advice
+  'cut in the first second' is not what the biggest creators do"). Its own limit: it "shows what they do, not what
+  makes a video perform". Build-It use: our Seedance shots are 5 s against a 2.3 s median, so where a line runs past
+  about 3 s, split its shot into the wide and a tighter crop of the same clip (no new footage); keep the voice in by
+  2 s and the cover text on frame 0. [GitHub, Shortform Kit](https://github.com/shortformkit/short-form-video-hook-study-2026)
+
+Free footage and pictures
+- Pont du Gard (88) real proof still, free: the Met's "Pont du Gard" by Edouard Baldus (ca. 1861, albumen silver
+  print, 2005.100.364.32) is marked "Public Domain" with a "Download Image" button, and the Met's note says its
+  public domain images are for unrestricted commercial and noncommercial use without permission or fee. A
+  160-year-old photo of the same arches makes a then-and-now pair with B5 (the Nov 23 then-and-now trend). Same
+  photographer, same terms: "Avignon, Pont St. Bénezet" (ca. 1864). [Met 287339](https://www.metmuseum.org/art/collection/search/287339),
+  [Met 287332](https://www.metmuseum.org/art/collection/search/287332)
+
+New content
+- 88 Pont du Gard queued (pontdugard-A/B, facts in the queue comments): 49 m, 6/11/47 arches, about 50 AD in
+  "just 5 years" by "Nearly a thousand men", 30,000 to 40,000 m3 a day over 50 km at 25 cm per km, blocks "almost
+  6 tons" lifted with "a man-powered treadmill", numbered blocks, no mortar, limescale scraped off, abandoned in the
+  6th century, a road bridge built beside it in 1743-47 (Henri Pitot). Flood heights disagree (1958 "submerged
+  entire first level" against "reached the bridge's second tier"): check before a line gives one.
+  [pontdugard.fr monument](https://pontdugard.fr/en/discover/monument), [history](https://www.pontdugard.fr/en/discover/history),
+  [UNRV](https://www.unrv.com/articles/pont-du-gard.php), [Smarthistory](https://smarthistory.org/?p=63414),
+  [historyofbridges](https://www.historyofbridges.com/famous-bridges/pont-du-gard), [NSSL](https://inside.nssl.noaa.gov/nsslnews/tag/pont-du-gard/)
+- LINEUP 89 is now Noor Ouarzazate (Morocco; Africa's first build since 73), so the Pont du Gard's B4 has a build to
+  tease. NREL lists Noor III at "Nominal Capacity: 150 MW", "Tower Height (m) 247", "Storage Capacity (Hours) 7",
+  "Cooling Type Dry", start year 2018; worldsteel: the receiver "super heats molten salts to more than 500°C" ("a
+  mixture of potassium and sodium nitrate"), "seven hours after dark", tanks of "19400m³" in UR 347 stainless steel
+  because the salt is "highly corrosive", and Noor I "features 537,000 parabolic mirrors"; WEF (2018): "about seven
+  thousand flat mirrors" for Noor 3, Noor 1 "switched on in 2016". Dust on the mirrors and how they are cleaned: no
+  source read yet. [NREL SolarPACES](https://solarpaces.nrel.gov/project/noor-iii),
+  [worldsteel, Oct 2021](https://worldsteel.org/steel-stories/infrastructure/worlds-largest-solar-power-plant-delivers-24-hour-energy/),
+  [WEF, May 2018](https://www.weforum.org/stories/energy-transition/morocco-is-building-a-solar-farm-as-big-as-paris-in-the-sahara-desert/)

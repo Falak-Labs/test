@@ -391,7 +391,9 @@ jobs:
     build: 86
     kit: kettle
     # Same facts as kettle-A. B4 teases build 87, the hot air balloon (LINEUP).
+    # Done by 05:50 PT (History b345f2a2, started 05:17, no style line: check the look before use).
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_131755_b345f2a2-986b-46b5-b7ca-b29fae98e457.mp4
     file: buildit-kettle-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): a kettle sitting on a round cordless power base, small metal pins on the base meet the kettle
@@ -416,7 +418,10 @@ jobs:
     # "120°C (250°F)" inside for one adult in a balloon "about 4m (13ft) in radius". The throat is "reinforced with
     # a skirt made from a fireproof material such as Nomex"; propane cylinders hold "about 70–90 liters" each
     # (explainthatstuff.com/how-hot-air-balloons-work.html). No people's faces: animals, hands, crowds far below.
-    status: "generating (started: Nov 24 05:50 PT; shot 4 reworded)"
+    # Done by 06:05 PT (History 85d6872f, started 05:50 with the style line; shot 4 ran as "sparks fly and fade"),
+    # fetched by the hourly runner.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_135047_85d6872f-dc0a-42d2-8e1f-5ccb3997322a.mp4
     file: buildit-balloon-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): 1783, a giant blue and gold balloon of paper and cloth rises from a palace courtyard with a
@@ -452,3 +457,61 @@ jobs:
       with mountains behind, crowds far below on the launch field, wide aerial. Shot 6 (25-30 s): funny slow motion,
       a hair dryer blows hot air into a thin plastic bin bag held upside down on a kitchen table, the bag swells,
       floats up out of a hand to the ceiling, and a cat watches it go with wide eyes.
+
+  - id: pontdugard-A
+    build: 88
+    kit: pontdugard
+    # Facts: "At 49 metres, it is the highest Roman bridge-aqueduct in the world" (stats box "48,77 meters"), "Built
+    # around 50 AD, under the reigns of Claudius or Nero", "took just 5 years", "Nearly a thousand men"; "6 arches on
+    # the first level, 11 arches on the second level and 47 arches originally"; the aqueduct "carried 30,000 to
+    # 40,000 m3 of running water per day" "over a distance of 50 kilometres to Nîmes" at "an average gradient of 25 cm
+    # per kilometre" (pontdugard.fr/en/discover/monument); on the bridge it "descends 2.5cm ... in 456m" (Wikipedia,
+    # ideas.md Nov 24 05:10). Blocks "almost 6 tons each"; "Hoisting the large stones used for the lower level
+    # required a man-powered treadmill"; "Each arch was assembled around a wooden frame"; "Each building block
+    # featured a serial number"; built "without using clamps or mortar" (unrv.com/articles/pont-du-gard.php;
+    # smarthistory.org/?p=63414: "wooden cranes", "no mortar was required between the stones"). Floods: 1958
+    # "submerged entire first level" (historyofbridges.com) against "reached the bridge's second tier" (UNRV); Sep 2002
+    # "A catastrophic flood event threatened" it (NSSL): check before a line gives a height. No faces: stone, water,
+    # ropes, cranes, hands.
+    status: todo
+    file: buildit-pontdugard-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): the Pont du Gard, a Roman aqueduct bridge of honey-colored stone, three rows of arches stacked
+      49 meters high across a green river valley, a stream of clear water flowing along a stone channel on its very
+      top high above the river, slow aerial push-in at sunrise. Shot 2 (5-10 s): wide aerial in Roman times, a town
+      of stone houses on a hot dry plain with empty fountains, far away a spring in green hills, and a deep river
+      gorge cutting across the land between them, heat haze. Shot 3 (10-15 s): three rows of stone arches rise one on
+      top of the other across the gorge, six big arches at the bottom, eleven in the middle and a long row of small
+      arches on top carrying the water channel straight across, wide side view. Shot 4 (15-20 s): a giant block of
+      limestone as heavy as a truck hangs from thick ropes on a wooden frame, the ropes stretch and creak, the frame
+      bends, dust falling, close-up. Shot 5 (20-25 s): a tall Roman wooden crane with a giant treadwheel turning at
+      its foot lifts a huge numbered stone block on ropes up to the top of the arches, wooden scaffolding along the
+      stone face, wide view at golden hour. Shot 6 (25-30 s): an autumn flood, the river below swells brown and
+      violent, the water climbs up the lower arches and whole uprooted trees crash into the stone piers, spray flying.
+  - id: pontdugard-B
+    build: 88
+    kit: pontdugard
+    # Facts: the widest arch spans the river, "allowing the freest flow of water to minimize wear and tear from the
+    # current" (UNRV). Workers scraped "calcium carbonate deposits that would appear on the stone walls within the
+    # channel" (smarthistory), up to 50 cm thick on each wall (Wikipedia); debris was "choking off the water supply by
+    # the sixth century AD" (UNRV), then "its structures came to be used as quarries" and about the 12th century "The
+    # first twelve arches of the third level were taken"; in the 14th century "the piers on the second level were
+    # further indented" for a road and it "could have collapsed"; the road bridge beside it was built "Between 1743
+    # and 1747" (engineer Henri Pitot); UNESCO 1985; "With 1,000,000 visitors, it is now France's most visited ancient
+    # monument" (pontdugard.fr/en/discover/history; no year given). B4 teases build 89, Noor Ouarzazate (LINEUP).
+    # B6: a limescale-crusted tap (the channel's limescale, and the kettle's in build 86).
+    status: todo
+    file: buildit-pontdugard-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): looking down from high above, brown floodwater rushes straight through the widest arch in the
+      middle of the stone bridge, right over the river's deepest channel, the piers standing firm as the water races
+      past, aerial. Shot 2 (5-10 s): cutaway of the stone water channel on top of the bridge, a thick white crust of
+      limescale slowly grows on both walls, time-lapse, until the clear water squeezes into a thin trickle. Shot 3
+      (10-15 s): close-up of hands with iron scrapers chipping the thick white limescale crust off the stone channel
+      walls, white chunks falling into the water, then clear water flowing freely again. Shot 4 (15-20 s): a giant
+      field of thousands of mirrors in the Moroccan desert at sunset, all aimed at one tall tower whose top glows
+      white-hot like a second sun, slow aerial push-in. Shot 5 (20-25 s): the Pont du Gard today on a bright summer
+      day, its old arches over the green river, kayaks gliding under the huge arches and tiny figures of visitors
+      walking across the road bridge built beside it, slow aerial orbit. Shot 6 (25-30 s): funny slow motion, a man
+      turns on a kitchen tap crusted with white limescale and the water sprays sideways in every direction across
+      the counter and onto the window, he freezes holding an empty glass.
