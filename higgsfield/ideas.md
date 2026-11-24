@@ -420,3 +420,8 @@ New content
   [DPMA](https://www.dpma.de/en/explore/milestones/inventions-that-made-history/three-point-safety-belt),
   [Volvo Cars](https://www.volvocars.com/intl/media/press-releases/B9D7CD66A06448F7/),
   [Wikipedia, Nils Bohlin](https://en.wikipedia.org/wiki/Nils_Bohlin)
+- Checked Nov 24 07:10 PT: nothing in Higgsfield's Black Friday 2026 offers extends the owner's Seedance window
+  without buying. Unlimited Seedance 2.5 for 30 days shows only on the Scale annual plan "after business
+  verification"; Plus/Ultra cards show "Unlimited models for 7 days" with no model named, for new purchases (Vidfare,
+  data checked Nov 22; the sale's end date disagrees between pages). So Nov 28 stands: queue the best video ideas
+  first. [Vidfare](https://vidfare.com/guides/higgsfield-black-friday/), [Kripesh Adwani, upd. Nov 23 2026](https://kripeshadwani.com/higgsfield-black-friday-deal/)
