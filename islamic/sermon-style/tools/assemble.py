@@ -24,6 +24,7 @@ ap.add_argument("--tail", type=float, default=2.5, help="seconds after the last 
 ap.add_argument("--bed", default="")
 ap.add_argument("--bed-under", type=float, default=15.5)
 ap.add_argument("--duck", type=float, default=5.0)
+ap.add_argument("--keep", type=int, default=0, help="use only the first N lines of the take; the rest is cut off")
 a = ap.parse_args()
 os.makedirs(a.out, exist_ok=True)
 SR = 44100
@@ -31,6 +32,10 @@ y, sr = sf.read(a.wav)
 assert sr == SR
 meta = json.load(open(a.json, encoding="utf-8"))
 lines = meta["lines"]
+dropped_next = None
+if a.keep and a.keep < len(lines):
+    dropped_next = lines[a.keep]   # first line left out: the take is cut in the pause before it
+    lines = lines[:a.keep]
 want = {int(k): float(v) for k, v in (p.split(":") for p in a.gaps.split(",") if p.strip())}
 
 # --- cut points between lines (middle of the silence), then rebuild with longer pauses
@@ -76,6 +81,8 @@ for (c, extra) in cuts:
     out.append(np.zeros(int(extra * SR)))
     seg_from = c
 end_t = min(len(y) / SR, lines[-1]["end"] + 0.35)
+if dropped_next is not None:
+    end_t = min(end_t, quiet_cut(lines[-1]["end"], dropped_next["start"])[0])
 out.append(y[int(seg_from * SR):int(end_t * SR)])
 offsets.append((seg_from, end_t, offset))
 out.append(np.zeros(int(a.tail * SR)))

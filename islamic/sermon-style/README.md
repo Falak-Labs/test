@@ -6,7 +6,8 @@ for any topic, as a 9:16 short (TikTok, Reels, Shorts) and a 16:9 YouTube cut.
 
 First episode: **يتبع الميت ثلاثة** (Sahih al-Bukhari 6514, Sahih Muslim 2960), about 61 seconds, first in Egyptian
 Arabic (Haz), then remade on 23 Nov 2026 as the channel format: **16:9, Saudi narrator Mansour** (`5HAezIQAaoSgJypcI0NP`,
-eleven_v4), hook-first opening, share line at the end, 66.5 s (`episodes/three_follow_sa.yml`). Thumbnails: compositions
+eleven_v4, approved by Ahmad), hook-first opening, ends on line 15 with no "send it to someone" line, 63.3 s
+(`episodes/three_follow_sa.yml`; sound: `assemble.py ... --keep 15`). Thumbnails: compositions
 `ThumbA/B/C` (1280x720) for YouTube's A/B test. Growth rules: the Project doc `claude/hooks-and-growth-playbook.md`.
 
 ## How a video is made

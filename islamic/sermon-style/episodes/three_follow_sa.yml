@@ -1,5 +1,6 @@
 # Episode: "Three follow the dead" (Sahih al-Bukhari 6514, Sahih Muslim 2960), Saudi dialect, Mansour voice
 # hook first (three lights, two turn back, one goes in), then the hadith reveals who they are
+# ends on line 15 (no "send it to someone" line: Ahmad, 23 Nov 2026); build the sound with assemble.py --keep 15
 palette: slate
 beats:
   - line: 1
@@ -46,9 +47,6 @@ beats:
   - line: 15
     head: [["ابدأ اليوم", g], [".. مو بكرة", w, [15, "مو"]]]
     sub: "عملك للحين بيدك"
-  - line: 16
-    head: [["أرسلها", g], ["لأحد تحبه", w]]
-    sub: "يمكن يبدأ معك"
 scenes:
   - id: ThreeLights
     lines: [1, 2, 3]
@@ -73,7 +71,7 @@ scenes:
   - id: Checklist
     lines: [13, 14]
     cues: {gold: [14, "هي"]}
-  - {id: Tree, lines: [15, 16]}
+  - {id: Tree, lines: [15]}
 card:
   lines:
     - "يَتْبَعُ المَيِّتَ ثَلَاثَةٌ، فَيَرْجِعُ اثْنَانِ وَيَبْقَى مَعَهُ وَاحِدٌ"
