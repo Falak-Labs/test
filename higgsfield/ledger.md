@@ -11,3 +11,5 @@
 - Nov 23 20:13 PT · GPT Image 2.6 Sunburst unlimited 9:16 · Taipei 101 blue hour → kit/out/aishots/buildit-taipei-bluehour-gpt.png · accurate tower
 - Nov 23 20:19 PT · Seedance 2.5 unlimited 30 s · Taipei clip B (6 shots: tuned, swinging, pistons, dishwasher, deck, coffee)
 - Note: image models with UNLIMITED badge (Nano Banana Pro/Nano Banana, GPT Image 2.6 Sunburst/Flare, GPT Image 2.5, Seedream 5.0 lite/Pro/4.5, FLUX.2 Pro, Kling O1, Auto) run in parallel with the Seedance video job. Unlimited needs batch 1/4 (4 images turns Unlimited off and costs credits). Only Seedance 2.5 is unlimited for video.
+2026-11-23 20:11 | scary | GPT Image 2.6 Sunburst 16:9 2K (unlimited) | scary-baron-thumb-en.png | Baron's Palace thumbnail with text LOCKED SINCE 1950s / WHO LIT THE FIRE? | long video 1 thumbnail (EN)
+2026-11-23 20:13 | scary | GPT Image 2.6 Sunburst 16:9 2K (unlimited) | scary-baron-thumb-bg.png | same palace, no text, left side clear | long video 1 thumbnail (AR, Arabic text added in code)
