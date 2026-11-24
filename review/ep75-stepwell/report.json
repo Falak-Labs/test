@@ -1,0 +1,138 @@
+{
+ "slug": "ep75-stepwell",
+ "kit": "stepwell",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 64.13,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "20/213",
+   "mix_lines_off": [
+    "L 1 3 diff  | If you dig an upside down pyramid of stairs, congrats, you just built Chan-bo-ri.",
+    "L 5 3 diff  | So you line three walls with steps, 3,500 of them all the way down to the water.",
+    "L 7 1 diff  | So the walls lean back as they go up in 13 stone floors like an upside down pyramid.",
+    "L 9 2 diff  | So the stairs zigzag and little pears across the walls so lots of people can climb at once.",
+    "L12 6 diff  | 3500 steps, 13 floors, and about 1200 years old.",
+    "L13 2 diff  | And congrats, you just built Chonboe yourself.",
+    "L14 3 diff  | 3500 steps down to water and you take the elevator to go up one floor."
+   ],
+   "size_mb": 19.7,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تحفر هرم مقلوب من الدرج، مبروك، كذا سويت لك تشاند باوري.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس هنا حر، والمطر قليل مرة. طيب، كم أبرد تحت؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتحفر حفرة مربعة كبيرة، تتعبى من مطر الموسم والموية اللي تحت الأرض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس كل ما مر شهر بدون مطر، الموية تنزل أكثر وأكثر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتسوي درج على ثلاث جدران، ثلاثة آلاف وخمسمية درجة، لين توصل للموية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس جدران تراب بهالعمق بتطيح وتدفن الموية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فالجدران ترجع لورا كل ما طلعت، ثلطعش دور من الحجر، مثل هرم مقلوب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس لو الدرج واحد وضيق، بيزحم بالناس وجرار الموية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فالدرج يتعرّج أزواج على الجدران، عشان ناس كثير يطلعون وينزلون مع بعض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تبدأ تنزل، تابعني، لأن الجاي بنبني قدر الضغط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: تحت أبرد بخمس درجات تقريبا، وفي الصيف الأهالي ينزلون يرتاحون جنب الموية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "ثلاثة آلاف وخمسمية درجة، وثلطعش دور، وعمرها تقريبا ألف ومتين سنة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك بير تشاند باوري بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "ثلاثة آلاف وخمسمية درجة لين الموية، وأنت تاخذ المصعد عشان تطلع دور واحد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -1.7,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 21.0,
+   "cover": true
+  }
+ }
+}

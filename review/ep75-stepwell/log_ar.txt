@@ -1,0 +1,7 @@
+stepwell_ar_sa: 69.10s, 2073 frames
+cover out/stepwell_ar_sa/cover.png: ['بير تشاند', 'باوري'] (frame 0 of the video)
+video done in 320s
+audio done
+final out/stepwell_ar_sa/stepwell_ar_sa_final.mp4
+QA  duration 69.10s  loudness -14.0 LUFS  true peak -1.7 dBFS  1080x1920 @ 30/1  frames 2073
+QA sheet out/stepwell_ar_sa/qa_sheet.png
