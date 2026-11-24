@@ -22,6 +22,13 @@ def main():
     dst = os.path.join(ROOT, "review", slug)
     os.makedirs(dst, exist_ok=True)
     report, failed = {"slug": slug, "kit": kit, "style": "seedance"}, False
+    old = os.path.join(dst, "report.json")
+    if os.path.exists(old):                            # one language made again: keep the other language's entry
+        try:
+            prev = json.load(open(old, encoding="utf-8"))
+            report.update({k: v for k, v in prev.items() if k in ("en", "ar") and k not in langs})
+        except ValueError:
+            pass
     for lang in langs:
         vo = os.path.join(KIT, "series", "voice", kit + ("_ar_sa" if lang == "ar" else ""))
         out = os.path.join(KIT, "out", f"{kit}_sd_{lang}")

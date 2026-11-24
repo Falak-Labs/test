@@ -123,8 +123,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 parts = []
                 for j, x in enumerate(g):
                     word = x["w"].rstrip(",.:؟،") if ar else x["w"].upper().rstrip(",.:")
-                    if ar:      # one colour run per word: libass places runs left to right, see below
-                        parts.append("{\\c" + (GOLD if j == k else "&H00FFFFFF&") + "}" + word)
+                    if ar:      # one colour run per word: libass places runs left to right, see below. Two words of the
+                        # same colour side by side merge into ONE run, and libass then reverses them inside it (the
+                        # words swapped places whenever the first or last word of a 3-word chunk was gold; found Nov
+                        # 24 in builds 76 and 89): the white words alternate two whites so every word is its own run.
+                        white = "&H00FFFFFF&" if j % 2 == 0 else "&H00FEFEFE&"
+                        parts.append("{\\c" + (GOLD if j == k else white) + "}" + word)
                     else:
                         parts.append(("{\\c" + GOLD + "}" + word + "{\\c&H00FFFFFF&}") if j == k else word)
                 pop = "\\fscx86\\fscy86\\t(0,110,\\fscx100\\fscy100)" if k == 0 else ""

@@ -266,6 +266,18 @@ def preview(cfg, files):
                 print(text + "\n")
 
 
+def first_due(fn):
+    """Sort key for the posting pass: a posts file's earliest fixed time, so the targets that wait for room in Buffer's
+    10-post queue get it in posting order, not in file-name order (Nov 24 2026: builds 76-77 post after 78-89).
+    Files without fixed times keep their name order, after the others."""
+    try:
+        ep = load_yaml(os.path.join(ROOT, "posts", fn))
+        times = [t for t in (fixed_time(ep, p, l) for l in ("en", "ar") if isinstance(ep.get(l), dict) for p in PLATFORMS) if t]
+    except Exception:  # noqa: BLE001 - a broken file is reported by the pass itself
+        times = []
+    return (0, min(times).isoformat(), fn) if times else (1, "", fn)
+
+
 def main():
     cfg = load_yaml(os.path.join(ROOT, "config.yml"))
     files = sorted(f for f in os.listdir(os.path.join(ROOT, "posts")) if f.endswith(".yml"))
@@ -288,7 +300,7 @@ def main():
                                                         for s, c in accounts[lang].channels.items()))
         except BufferError as e:
             log(f"{lang}: Buffer error: {e}")
-    for fn in files:
+    for fn in sorted(files, key=first_due):
         ep = load_yaml(os.path.join(ROOT, "posts", fn))
         slug = fn[:-4]
         st = load_state(slug)

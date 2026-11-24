@@ -1,0 +1,27 @@
+{
+ "slug": "ep76-cooker",
+ "kit": "cooker",
+ "style": "seedance",
+ "en": {
+  "duration": 69.9,
+  "lufs": -14.7,
+  "peak": -1.2,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 20.9,
+  "cover": true,
+  "ok": true
+ },
+ "ar": {
+  "duration": 69.1,
+  "lufs": -14.9,
+  "peak": -1.2,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 20.9,
+  "cover": true,
+  "ok": true
+ }
+}

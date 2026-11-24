@@ -78,3 +78,18 @@ episodes:
   - {slug: ep73-pharos, kit: pharos, look: 2}
   - {slug: ep74-maraya, kit: maraya, look: 2}
   - {slug: ep75-stepwell, kit: stepwell, look: 2}
+  - {slug: ep76-cooker, kit: cooker, look: sd}
+  - {slug: ep77-goldengate, kit: goldengate, look: sd}
+  - {slug: airfryer-b78, kit: airfryer, look: sd}
+  - {slug: kuwaittowers-b79, kit: kuwaittowers, look: sd}
+  - {slug: fountain-b80, kit: jeddahfountain, look: sd}
+  - {slug: zipper-b81, kit: zipper, look: sd}
+  - {slug: hzmb-b82, kit: hzmb, look: sd}
+  - {slug: thermos-b83, kit: thermos, look: sd}
+  - {slug: hooverdam-b84, kit: hooverdam, look: sd}
+  - {slug: dubaiframe-b85, kit: dubaiframe, look: sd}
+  - {slug: kettle-b86, kit: kettle, look: sd}
+  - {slug: balloon-b87, kit: balloon, look: sd}
+  - {slug: pontdugard-b88, kit: pontdugard, look: sd}
+  - {slug: noor-b89, kit: noor, look: sd}
+  - {slug: pen-b90, kit: pen, look: sd}
