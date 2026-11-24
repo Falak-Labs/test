@@ -1,0 +1,64 @@
+{
+ "episode": "pa91",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 63,
+ "recorded_this_run": [
+  "s12c",
+  "s12d",
+  "s12e",
+  "s12f"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "s12c",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Yoo... zhuh... lee.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.72
+  },
+  {
+   "id": "s12d",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "U... sual... ly.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "s12e",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Usu... ally.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "s12f",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "U... su... ally.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  }
+ ]
+}

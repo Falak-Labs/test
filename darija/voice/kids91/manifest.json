@@ -1,0 +1,104 @@
+{
+ "episode": "kids91",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 126,
+ "recorded_this_run": [
+  "a12c",
+  "l12c",
+  "a12d",
+  "l12d",
+  "a12e",
+  "l12e",
+  "a12f",
+  "l12f"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "a12c",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Yoo... zhuh... lee.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.64
+  },
+  {
+   "id": "l12c",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Yoo... zhuh... lee.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.88
+  },
+  {
+   "id": "a12d",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "U... sual... ly.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 2.64
+  },
+  {
+   "id": "l12d",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "U... sual... ly.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 2.72
+  },
+  {
+   "id": "a12e",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Usu... ally.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "l12e",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Usu... ally.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "a12f",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "U... su... ally.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 2.64
+  },
+  {
+   "id": "l12f",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "U... su... ally.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 2.64
+  }
+ ]
+}
