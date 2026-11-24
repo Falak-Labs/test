@@ -1,0 +1,1078 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 73.78,
+ "words": 191,
+ "words_per_sec": 2.59,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.796,
+   "text": "Y'all, this fountain throws sea water higher than the Eiffel Tower. Yes, a fountain.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.139,
+     "end": 0.746
+    },
+    {
+     "w": "this",
+     "start": 0.925,
+     "end": 1.139
+    },
+    {
+     "w": "fountain",
+     "start": 1.211,
+     "end": 1.496
+    },
+    {
+     "w": "throws",
+     "start": 1.568,
+     "end": 1.854
+    },
+    {
+     "w": "sea",
+     "start": 1.961,
+     "end": 2.068
+    },
+    {
+     "w": "water",
+     "start": 2.139,
+     "end": 2.354
+    },
+    {
+     "w": "higher",
+     "start": 2.496,
+     "end": 2.711
+    },
+    {
+     "w": "than",
+     "start": 2.782,
+     "end": 2.925
+    },
+    {
+     "w": "the",
+     "start": 2.961,
+     "end": 2.996
+    },
+    {
+     "w": "Eiffel",
+     "start": 3.139,
+     "end": 3.425
+    },
+    {
+     "w": "Tower.",
+     "start": 3.568,
+     "end": 4.143
+    },
+    {
+     "w": "Yes,",
+     "start": 4.273,
+     "end": 4.773
+    },
+    {
+     "w": "a",
+     "start": 4.871,
+     "end": 4.943
+    },
+    {
+     "w": "fountain.",
+     "start": 5.157,
+     "end": 5.943
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.109,
+   "end": 12.909,
+   "text": "Now listen. The Red Sea is flat, calm, and a little boring. So how do you make water fly?",
+   "words": [
+    {
+     "w": "Now",
+     "start": 6.191,
+     "end": 6.334
+    },
+    {
+     "w": "listen.",
+     "start": 6.477,
+     "end": 7.084
+    },
+    {
+     "w": "The",
+     "start": 7.262,
+     "end": 7.334
+    },
+    {
+     "w": "Red",
+     "start": 7.405,
+     "end": 7.62
+    },
+    {
+     "w": "Sea",
+     "start": 7.762,
+     "end": 7.977
+    },
+    {
+     "w": "is",
+     "start": 8.048,
+     "end": 8.191
+    },
+    {
+     "w": "flat,",
+     "start": 8.262,
+     "end": 8.834
+    },
+    {
+     "w": "calm,",
+     "start": 8.977,
+     "end": 9.512
+    },
+    {
+     "w": "and",
+     "start": 9.62,
+     "end": 9.834
+    },
+    {
+     "w": "a",
+     "start": 9.905,
+     "end": 9.977
+    },
+    {
+     "w": "little",
+     "start": 10.048,
+     "end": 10.191
+    },
+    {
+     "w": "boring.",
+     "start": 10.262,
+     "end": 10.85
+    },
+    {
+     "w": "So",
+     "start": 10.986,
+     "end": 11.129
+    },
+    {
+     "w": "how",
+     "start": 11.343,
+     "end": 11.414
+    },
+    {
+     "w": "do",
+     "start": 11.486,
+     "end": 11.557
+    },
+    {
+     "w": "you",
+     "start": 11.629,
+     "end": 11.7
+    },
+    {
+     "w": "make",
+     "start": 11.807,
+     "end": 11.914
+    },
+    {
+     "w": "water",
+     "start": 11.986,
+     "end": 12.271
+    },
+    {
+     "w": "fly?",
+     "start": 12.414,
+     "end": 13.057
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 13.221,
+   "end": 18.451,
+   "text": "You hide giant pumps under the sea, and you suck the sea water in. Easy.",
+   "words": [
+    {
+     "w": "You",
+     "start": 13.436,
+     "end": 13.65
+    },
+    {
+     "w": "hide",
+     "start": 13.721,
+     "end": 13.936
+    },
+    {
+     "w": "giant",
+     "start": 14.079,
+     "end": 14.436
+    },
+    {
+     "w": "pumps",
+     "start": 14.507,
+     "end": 14.721
+    },
+    {
+     "w": "under",
+     "start": 14.793,
+     "end": 14.936
+    },
+    {
+     "w": "the",
+     "start": 15.007,
+     "end": 15.15
+    },
+    {
+     "w": "sea,",
+     "start": 15.221,
+     "end": 15.579
+    },
+    {
+     "w": "and",
+     "start": 15.721,
+     "end": 15.864
+    },
+    {
+     "w": "you",
+     "start": 15.936,
+     "end": 16.079
+    },
+    {
+     "w": "suck",
+     "start": 16.15,
+     "end": 16.293
+    },
+    {
+     "w": "the",
+     "start": 16.364,
+     "end": 16.436
+    },
+    {
+     "w": "sea",
+     "start": 16.507,
+     "end": 16.579
+    },
+    {
+     "w": "water",
+     "start": 16.65,
+     "end": 16.936
+    },
+    {
+     "w": "in.",
+     "start": 17.007,
+     "end": 17.257
+    },
+    {
+     "w": "Easy.",
+     "start": 17.936,
+     "end": 18.579
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 18.763,
+   "end": 23.817,
+   "text": "But then the jet sputters, and the wind sprays the road and soaks the cars.",
+   "words": [
+    {
+     "w": "But",
+     "start": 19.386,
+     "end": 19.529
+    },
+    {
+     "w": "then",
+     "start": 19.6,
+     "end": 19.743
+    },
+    {
+     "w": "the",
+     "start": 19.779,
+     "end": 19.814
+    },
+    {
+     "w": "jet",
+     "start": 19.957,
+     "end": 20.171
+    },
+    {
+     "w": "sputters,",
+     "start": 20.243,
+     "end": 21.029
+    },
+    {
+     "w": "and",
+     "start": 21.1,
+     "end": 21.171
+    },
+    {
+     "w": "the",
+     "start": 21.207,
+     "end": 21.243
+    },
+    {
+     "w": "wind",
+     "start": 21.314,
+     "end": 21.529
+    },
+    {
+     "w": "sprays",
+     "start": 21.6,
+     "end": 22.029
+    },
+    {
+     "w": "the",
+     "start": 22.064,
+     "end": 22.1
+    },
+    {
+     "w": "road",
+     "start": 22.171,
+     "end": 22.457
+    },
+    {
+     "w": "and",
+     "start": 22.529,
+     "end": 22.671
+    },
+    {
+     "w": "soaks",
+     "start": 22.814,
+     "end": 23.029
+    },
+    {
+     "w": "the",
+     "start": 23.1,
+     "end": 23.171
+    },
+    {
+     "w": "cars.",
+     "start": 23.243,
+     "end": 23.957
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 24.129,
+   "end": 29.035,
+   "text": "So you squeeze the water through a narrow nozzle, and it shoots out faster than a race car.",
+   "words": [
+    {
+     "w": "So",
+     "start": 24.272,
+     "end": 24.415
+    },
+    {
+     "w": "you",
+     "start": 24.487,
+     "end": 24.629
+    },
+    {
+     "w": "squeeze",
+     "start": 24.701,
+     "end": 25.058
+    },
+    {
+     "w": "the",
+     "start": 25.094,
+     "end": 25.129
+    },
+    {
+     "w": "water",
+     "start": 25.201,
+     "end": 25.415
+    },
+    {
+     "w": "through",
+     "start": 25.487,
+     "end": 25.629
+    },
+    {
+     "w": "a",
+     "start": 25.701,
+     "end": 25.772
+    },
+    {
+     "w": "narrow",
+     "start": 25.844,
+     "end": 26.129
+    },
+    {
+     "w": "nozzle,",
+     "start": 26.201,
+     "end": 26.701
+    },
+    {
+     "w": "and",
+     "start": 26.844,
+     "end": 26.915
+    },
+    {
+     "w": "it",
+     "start": 26.987,
+     "end": 27.058
+    },
+    {
+     "w": "shoots",
+     "start": 27.129,
+     "end": 27.379
+    },
+    {
+     "w": "out",
+     "start": 27.415,
+     "end": 27.629
+    },
+    {
+     "w": "faster",
+     "start": 27.701,
+     "end": 27.987
+    },
+    {
+     "w": "than",
+     "start": 28.058,
+     "end": 28.129
+    },
+    {
+     "w": "a",
+     "start": 28.201,
+     "end": 28.272
+    },
+    {
+     "w": "race",
+     "start": 28.344,
+     "end": 28.558
+    },
+    {
+     "w": "car.",
+     "start": 28.629,
+     "end": 29.129
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 29.347,
+   "end": 34.226,
+   "text": "But sea water is salty, and salt eats steel for breakfast. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 29.456,
+     "end": 29.599
+    },
+    {
+     "w": "sea",
+     "start": 29.742,
+     "end": 29.885
+    },
+    {
+     "w": "water",
+     "start": 29.956,
+     "end": 30.242
+    },
+    {
+     "w": "is",
+     "start": 30.349,
+     "end": 30.456
+    },
+    {
+     "w": "salty,",
+     "start": 30.492,
+     "end": 31.099
+    },
+    {
+     "w": "and",
+     "start": 31.242,
+     "end": 31.385
+    },
+    {
+     "w": "salt",
+     "start": 31.528,
+     "end": 31.813
+    },
+    {
+     "w": "eats",
+     "start": 31.849,
+     "end": 32.028
+    },
+    {
+     "w": "steel",
+     "start": 32.099,
+     "end": 32.385
+    },
+    {
+     "w": "for",
+     "start": 32.456,
+     "end": 32.599
+    },
+    {
+     "w": "breakfast.",
+     "start": 32.742,
+     "end": 33.338
+    },
+    {
+     "w": "Oh",
+     "start": 33.447,
+     "end": 33.662
+    },
+    {
+     "w": "boy.",
+     "start": 33.804,
+     "end": 34.376
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 34.538,
+   "end": 37.665,
+   "text": "So you use special pipes that salt can't bite.",
+   "words": [
+    {
+     "w": "So",
+     "start": 34.753,
+     "end": 34.967
+    },
+    {
+     "w": "you",
+     "start": 35.038,
+     "end": 35.181
+    },
+    {
+     "w": "use",
+     "start": 35.253,
+     "end": 35.396
+    },
+    {
+     "w": "special",
+     "start": 35.467,
+     "end": 35.824
+    },
+    {
+     "w": "pipes",
+     "start": 35.967,
+     "end": 36.253
+    },
+    {
+     "w": "that",
+     "start": 36.324,
+     "end": 36.467
+    },
+    {
+     "w": "salt",
+     "start": 36.538,
+     "end": 36.753
+    },
+    {
+     "w": "can't",
+     "start": 36.824,
+     "end": 37.11
+    },
+    {
+     "w": "bite.",
+     "start": 37.181,
+     "end": 37.824
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 37.978,
+   "end": 43.373,
+   "text": "But at night the jet disappears. A giant fountain that nobody can see.",
+   "words": [
+    {
+     "w": "But",
+     "start": 38.704,
+     "end": 38.775
+    },
+    {
+     "w": "at",
+     "start": 38.846,
+     "end": 38.989
+    },
+    {
+     "w": "night",
+     "start": 39.061,
+     "end": 39.346
+    },
+    {
+     "w": "the",
+     "start": 39.552,
+     "end": 39.623
+    },
+    {
+     "w": "jet",
+     "start": 39.695,
+     "end": 39.909
+    },
+    {
+     "w": "disappears.",
+     "start": 39.98,
+     "end": 40.835
+    },
+    {
+     "w": "A",
+     "start": 40.954,
+     "end": 41.061
+    },
+    {
+     "w": "giant",
+     "start": 41.168,
+     "end": 41.454
+    },
+    {
+     "w": "fountain",
+     "start": 41.596,
+     "end": 41.954
+    },
+    {
+     "w": "that",
+     "start": 42.061,
+     "end": 42.168
+    },
+    {
+     "w": "nobody",
+     "start": 42.311,
+     "end": 42.739
+    },
+    {
+     "w": "can",
+     "start": 42.811,
+     "end": 42.954
+    },
+    {
+     "w": "see.",
+     "start": 43.025,
+     "end": 43.525
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 43.686,
+   "end": 48.598,
+   "text": "So you add about five hundred lights, and the water glows like a column of light.",
+   "words": [
+    {
+     "w": "So",
+     "start": 43.9,
+     "end": 44.043
+    },
+    {
+     "w": "you",
+     "start": 44.114,
+     "end": 44.257
+    },
+    {
+     "w": "add",
+     "start": 44.329,
+     "end": 44.4
+    },
+    {
+     "w": "about",
+     "start": 44.471,
+     "end": 44.686
+    },
+    {
+     "w": "five",
+     "start": 44.829,
+     "end": 45.043
+    },
+    {
+     "w": "hundred",
+     "start": 45.114,
+     "end": 45.329
+    },
+    {
+     "w": "lights,",
+     "start": 45.4,
+     "end": 45.9
+    },
+    {
+     "w": "and",
+     "start": 46.043,
+     "end": 46.114
+    },
+    {
+     "w": "the",
+     "start": 46.186,
+     "end": 46.257
+    },
+    {
+     "w": "water",
+     "start": 46.329,
+     "end": 46.543
+    },
+    {
+     "w": "glows",
+     "start": 46.686,
+     "end": 47.114
+    },
+    {
+     "w": "like",
+     "start": 47.186,
+     "end": 47.257
+    },
+    {
+     "w": "a",
+     "start": 47.329,
+     "end": 47.471
+    },
+    {
+     "w": "column",
+     "start": 47.543,
+     "end": 47.829
+    },
+    {
+     "w": "of",
+     "start": 47.9,
+     "end": 47.971
+    },
+    {
+     "w": "light.",
+     "start": 48.114,
+     "end": 48.686
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 48.911,
+   "end": 54.071,
+   "text": "Hit follow, 'cause next we're building a zipper. Yes... a zipper.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 49.054,
+     "end": 49.196
+    },
+    {
+     "w": "follow,",
+     "start": 49.339,
+     "end": 49.875
+    },
+    {
+     "w": "'cause",
+     "start": 49.982,
+     "end": 50.196
+    },
+    {
+     "w": "next",
+     "start": 50.268,
+     "end": 50.554
+    },
+    {
+     "w": "we're",
+     "start": 50.696,
+     "end": 50.911
+    },
+    {
+     "w": "building",
+     "start": 51.054,
+     "end": 51.196
+    },
+    {
+     "w": "a",
+     "start": 51.232,
+     "end": 51.268
+    },
+    {
+     "w": "zipper.",
+     "start": 51.339,
+     "end": 51.839
+    },
+    {
+     "w": "Yes...",
+     "start": 52.509,
+     "end": 53.116
+    },
+    {
+     "w": "a",
+     "start": 53.187,
+     "end": 53.259
+    },
+    {
+     "w": "zipper.",
+     "start": 53.402,
+     "end": 54.071
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 54.384,
+   "end": 59.769,
+   "text": "Today, families watch from the seafront, and nobody thinks about pumps. That's the point.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 54.527,
+     "end": 55.17
+    },
+    {
+     "w": "families",
+     "start": 55.384,
+     "end": 55.741
+    },
+    {
+     "w": "watch",
+     "start": 55.812,
+     "end": 56.027
+    },
+    {
+     "w": "from",
+     "start": 56.098,
+     "end": 56.17
+    },
+    {
+     "w": "the",
+     "start": 56.241,
+     "end": 56.312
+    },
+    {
+     "w": "seafront,",
+     "start": 56.384,
+     "end": 56.92
+    },
+    {
+     "w": "and",
+     "start": 57.027,
+     "end": 57.241
+    },
+    {
+     "w": "nobody",
+     "start": 57.312,
+     "end": 57.741
+    },
+    {
+     "w": "thinks",
+     "start": 57.777,
+     "end": 57.884
+    },
+    {
+     "w": "about",
+     "start": 57.955,
+     "end": 58.241
+    },
+    {
+     "w": "pumps.",
+     "start": 58.277,
+     "end": 58.893
+    },
+    {
+     "w": "That's",
+     "start": 58.929,
+     "end": 59.214
+    },
+    {
+     "w": "the",
+     "start": 59.286,
+     "end": 59.357
+    },
+    {
+     "w": "point.",
+     "start": 59.536,
+     "end": 59.929
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 60.081,
+   "end": 64.046,
+   "text": "One fountain, three hundred twelve meters, five hundred lights.",
+   "words": [
+    {
+     "w": "One",
+     "start": 60.224,
+     "end": 60.367
+    },
+    {
+     "w": "fountain,",
+     "start": 60.51,
+     "end": 61.072
+    },
+    {
+     "w": "three",
+     "start": 61.171,
+     "end": 61.313
+    },
+    {
+     "w": "hundred",
+     "start": 61.385,
+     "end": 61.599
+    },
+    {
+     "w": "twelve",
+     "start": 61.742,
+     "end": 61.956
+    },
+    {
+     "w": "meters,",
+     "start": 62.028,
+     "end": 62.581
+    },
+    {
+     "w": "five",
+     "start": 62.688,
+     "end": 62.903
+    },
+    {
+     "w": "hundred",
+     "start": 63.046,
+     "end": 63.403
+    },
+    {
+     "w": "lights.",
+     "start": 63.474,
+     "end": 64.117
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 64.358,
+   "end": 67.787,
+   "text": "And congrats, you just built King Fahd's Fountain yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 64.48,
+     "end": 64.501
+    },
+    {
+     "w": "congrats,",
+     "start": 64.572,
+     "end": 65.429
+    },
+    {
+     "w": "you",
+     "start": 65.572,
+     "end": 65.715
+    },
+    {
+     "w": "just",
+     "start": 65.822,
+     "end": 65.929
+    },
+    {
+     "w": "built",
+     "start": 66.037,
+     "end": 66.144
+    },
+    {
+     "w": "King",
+     "start": 66.215,
+     "end": 66.358
+    },
+    {
+     "w": "Fahd's",
+     "start": 66.429,
+     "end": 66.787
+    },
+    {
+     "w": "Fountain",
+     "start": 66.858,
+     "end": 67.144
+    },
+    {
+     "w": "yourself.",
+     "start": 67.251,
+     "end": 68.001
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 68.099,
+   "end": 73.774,
+   "text": "Stand too close on a windy night... and you walk home in a soaking wet robe.",
+   "words": [
+    {
+     "w": "Stand",
+     "start": 68.769,
+     "end": 69.054
+    },
+    {
+     "w": "too",
+     "start": 69.126,
+     "end": 69.269
+    },
+    {
+     "w": "close",
+     "start": 69.34,
+     "end": 69.554
+    },
+    {
+     "w": "on",
+     "start": 69.626,
+     "end": 69.697
+    },
+    {
+     "w": "a",
+     "start": 69.769,
+     "end": 69.804
+    },
+    {
+     "w": "windy",
+     "start": 69.84,
+     "end": 70.09
+    },
+    {
+     "w": "night...",
+     "start": 70.126,
+     "end": 70.697
+    },
+    {
+     "w": "and",
+     "start": 71.383,
+     "end": 71.412
+    },
+    {
+     "w": "you",
+     "start": 71.483,
+     "end": 71.554
+    },
+    {
+     "w": "walk",
+     "start": 71.626,
+     "end": 71.84
+    },
+    {
+     "w": "home",
+     "start": 71.912,
+     "end": 72.126
+    },
+    {
+     "w": "in",
+     "start": 72.162,
+     "end": 72.197
+    },
+    {
+     "w": "a",
+     "start": 72.269,
+     "end": 72.412
+    },
+    {
+     "w": "soaking",
+     "start": 72.554,
+     "end": 72.912
+    },
+    {
+     "w": "wet",
+     "start": 72.983,
+     "end": 73.197
+    },
+    {
+     "w": "robe.",
+     "start": 73.269,
+     "end": 73.983
+    }
+   ]
+  }
+ ]
+}
