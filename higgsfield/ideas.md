@@ -759,3 +759,37 @@ New content
   [Gulf News, upd. Oct 6 2026](https://gulfnews.com/business/property/jeddah-tower-crosses-116-floors-completion-timeline-moves-1.500699924),
   [New Atlas, Jun 4 2026](https://newatlas.com/architecture/jec-tower-june-2026-update/),
   [Wikipedia](https://en.wikipedia.org/wiki/Jeddah_Tower)
+
+## 2026-11-24 13:05 PT (hourly runner, cloud run)
+
+Trends
+- Nothing new for science or "how it works" on this week's trend pages, and nothing dated after Nov 20: Postdom (upd.
+  Nov 24) lists "Tell me you're X without telling me you're X" and "Reaction" as new this week beside the peaking POV,
+  Day 1 vs later, Unpopular opinion and Expectation vs reality formats; Virlo (upd. Nov 24) has counted "2 of 7 days"
+  of the week, and its top sounds are songs and comedy dialogue, none a bed for a voice. Build-It use: "Expectation vs
+  reality" is a break shot told as a format (the plan, then what really happened: the Arch's last section that would
+  not fit in the sun, 91); skip "Why would I deceive you?" (Epidemic Sound, Nov 13), a real person's trailer.
+  [Postdom, upd. Nov 24 2026](https://postdom.com/blog/tiktok-trends), [Virlo, upd. Nov 24 2026](https://virlo.ai/trends),
+  [Epidemic Sound, Nov 13 2026](https://www.epidemicsound.com/blog/latest-tiktok-trends/)
+
+Free footage and pictures
+- Checked, none current, so Nov 28 stands: the "free Seedance and Seedream" Black Friday toolkit from Pixazo and
+  BytePlus is last year's (AB Newswire, Nov 19 2025: "available only until Cyber Monday"); Higgsfield's own 24-hour
+  trial ("No credits deducted for 24 hours") ended "July 23" (blog, Jul 22 2026); DIY AI's Black Friday list (upd. Nov
+  19 2026) is paid ("Pay today. No free trial."). BytePlus's free-offers page needs JavaScript and could not be read
+  here: a browser run can check whether its ModelArk gives new accounts free Seedance or Seedream use.
+  [AB Newswire via FinancialContent](https://markets.financialcontent.com/statesmanexaminer/article/abnewswire-2025-11-19-pixazo-and-byteplus-unveil-black-friday-cyber-monday-creative-toolkit-with-free-image-and-video-generation-powered-by-seedance-and-seedream-models),
+  [Higgsfield blog](https://higgsfield.ai/blog/free-unlimited-ai-video-generation-2026),
+  [DIY AI](https://diyai.io/ai-tools/video-generation/black-friday-ai-video-generator-deals/),
+  [BytePlus](https://www.byteplus.com/activity/free)
+
+New content
+- Smoke alarm (94), a line-2 fact that fits the hook checklist: your nose sleeps when you do. In a small 2004 Brown
+  study (six sleepers) a strong smell "did not wake any participants in the deepest stage of sleep", while "A
+  moderately loud auditory tone produced arousal from sleep virtually every time the scents did not": the reason an
+  alarm beeps instead of smelling for you, and the question line 11 answers. The pair's other facts (NRC on the
+  americium chamber, NFPA on missing and dead batteries, NIST on cooking alarms, IEEE on Pearsall's SmokeGard 700,
+  First Alert's sealed 10-year battery) are in the queue comments; the seatbelt's load limiter and pretensioner
+  (HowStuffWorks) are under seatbelt-B. [ScienceDaily, May 18 2004](https://www.sciencedaily.com/releases/2004/05/040518075747.htm),
+  [NRC](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/smoke-detectors),
+  [IEEE Spectrum](https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-brk-first-alert-smoke-alarm)

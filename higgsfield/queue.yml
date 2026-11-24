@@ -692,7 +692,11 @@ jobs:
     # 50th). Trams: "tracks for the passenger-train conveyor system" (NPS). The "1/64 inch" fit and "no deaths"
     # claims are not confirmed. B4 teases build 92, a car seatbelt (LINEUP). B6: hot water loosens a stuck jar lid,
     # the same heat growth as the sunny leg.
+    # Done by 12:40 PT (History 6bc87e51, created 12:21:40 PT by the main chat with the style line), in ai-media since
+    # 12:40 (8.1 MB). As run: shots 1-4 word for word; shot 5 says "the green park below" (no crowds of visitors);
+    # shot 6 has no man and no dog ("a stuck jar lid is run under hot water ... while the jar wobbles").
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_202140_6bc87e51-d8d1-45c1-ae44-94a20bf35eb1.mp4
     file: buildit-arch-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): a long steel truss is lifted up and bolted between the two leaning steel legs high above the
@@ -710,18 +714,191 @@ jobs:
   - id: seatbelt-A
     build: 92
     kit: seatbelt
-    # Facts: three-point belt by Volvo engineer Nils Bohlin, 1958 patent application, 1959 in Volvo cars; one-handed to
-    # buckle; two-point lap belts could hurt the body (liver injuries); Volvo gave the patent away free; credited with
-    # saving at least a million lives (Volvo Group). Retractor: spool + pendulum/webbing sensor + ratchet lock; pretensioner
-    # and load limiter are general engineering facts. Tease in clip B = Huajiang Grand Canyon Bridge (build 93).
+    # Facts: before Bohlin "the most prevalent design used a single strap with a buckle over the stomach. This design
+    # risked injury to body organs in high-speed crashes"; his belt has "one strap that would go across the chest and
+    # one that would go across the hips, with a joint for these two straps located just next to the driver's hip"; "In
+    # 1959, Volvo became the first automaker to introduce Bohlin's three-point safety belt design" (Lemelson-MIT,
+    # lemelson.mit.edu/resources/nils-bohlin). The first car (the PV 544 per DPMA; Amazon and PV 544 per Volvo) and when
+    # the design went free ("by 1963" per Lemelson, "immediately" per Volvo, 1968 per Wikipedia) disagree: check before
+    # a line uses one. A6 (a belt worn slack) has no source yet: its script line needs its own fact. No injured people:
+    # crash test dummies, sleds, hands.
+    # As run, the slack belt is shot 4. The main chat's notes for its own pair (queued 12:41 PT): Bohlin's 1958 patent
+    # application, one hand to buckle, lap belts could cause liver injuries, Volvo gave the patent away free, "at
+    # least a million lives" (Volvo Group): check before a line uses them.
+    # Done by 12:51 PT (History 0e5241d0, created 12:42:00 PT by the main chat with the style line), fetched by the
+    # hourly runner (Fetch media kept buildit-seatbelt-sdA.mp4). Its prompt was the main chat's own seatbelt-A (queued
+    # at the end of the queue at 12:41 PT, merged here at 13:05 PT), not the runner's earlier shots for A (sled test,
+    # 1950s wall crash, lap-belt buckle, lap-belt fold, 1959 three-point belt, slack-belt test), which were not run.
+    # The shots below are the prompt as run.
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_204200_0e5241d0-fc1a-473c-b726-2979c9770bf6.mp4
     file: buildit-seatbelt-sdA.mp4
     shots: >-
-      Shot 1 (0-5 s): macro of a car seatbelt buckle clicking into its latch in slow motion, then the strap pulls snug across a leather car seat, warm light. Shot 2 (5-10 s): a 1950s test laboratory, a plain lap belt lies across a car seat, a crash-test dummy lurches forward in slow motion and folds over the belt, no people. Shot 3 (10-15 s): cutaway of a V-shaped three-point belt, one strap crossing the chest diagonally and one across the hips, both meeting at a buckle low beside the seat, a crash-test dummy is held back in a slow motion crash. Shot 4 (15-20 s): a seatbelt strap hangs loose and sagging from its pillar slot, a slack coil of webbing on the seat, close-up, soft light. Shot 5 (20-25 s): macro cutaway of a seatbelt retractor, a spring-loaded spool winding the strap back in, then a tiny weighted pendulum swings as the car brakes and a toothed ratchet wheel locks the spool. Shot 6 (25-30 s): slow motion hard braking in a test lab, a crash-test dummy lurches forward and the belt locks and holds it, loose test objects fly forward past it.
+      Shot 1 (0-5 s): macro of a car seatbelt buckle clicking into its latch in slow motion, then the strap pulls snug
+      across a leather car seat, warm light. Shot 2 (5-10 s): a 1950s test laboratory, a plain lap belt lies across a
+      car seat, a crash-test dummy lurches forward in slow motion and folds over the belt, no people. Shot 3 (10-15
+      s): cutaway of a V-shaped three-point belt, one strap crossing the chest diagonally and one across the hips,
+      both meeting at a buckle low beside the seat, a crash-test dummy is held back in a slow motion crash. Shot 4
+      (15-20 s): a seatbelt strap hangs loose and sagging from its pillar slot, a slack coil of webbing on the seat,
+      close-up, soft light. Shot 5 (20-25 s): macro cutaway of a seatbelt retractor, a spring-loaded spool winding the
+      strap back in, then a tiny weighted pendulum swings as the car brakes and a toothed ratchet wheel locks the
+      spool. Shot 6 (25-30 s): slow motion hard braking in a test lab, a crash-test dummy lurches forward and the belt
+      locks and holds it, loose test objects fly forward past it.
   - id: seatbelt-B
     build: 92
     kit: seatbelt
+    # Facts: the retractor (clip A shot 5): "A spiraled spring rotates the spool to keep the seatbelt webbing taut";
+    # "When the car comes to a sudden stop, the inertia causes the pendulum to swing forward. The pawl on the other
+    # end of the pendulum catches hold of a toothed ratchet gear attached to the spool"; a fast yank locks it through
+    # "a centrifugal clutch— a weighted pivoting lever mounted to the rotating spool" (HowStuffWorks,
+    # auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/seatbelt3.htm). B1, the load limiter: it
+    # releases "a little more excess belt webbing when a great deal of force is applied to the belt": "the torsion bar
+    # will twist slightly. This allows the webbing to extend a little bit farther", "to minimize belt-inflicted
+    # injury" (seatbelt5.htm). B2, the pretensioner: "When the processor detects a collision, it immediately applies
+    # an electrical current across the electrodes"; the burning gas drives a piston "upward at high speed" whose rack
+    # turns the spool and winds up the slack, and pretensioners "normally work together with conventional locking
+    # mechanisms, not in place of them" (seatbelt4.htm). B3: "In 1959, Volvo became the first automaker to introduce
+    # Bohlin's three-point safety belt design" (Lemelson-MIT), but as run the 1959 factory has "robot arms", and the
+    # first Unimate robot only went to work in 1961, at GM's plant in Ewing Township, New Jersey (Wikipedia
+    # "Unimation"): keep "1959" out of the line over that shot, or cut it. B4 as run is a generic high bridge over a
+    # misty gorge, not the Huajiang bridge's own look; it stands for build 93, the Huajiang Grand Canyon Bridge
+    # (LINEUP; deck "625 metres" above the bottom of the gorge, Wikipedia). B6: a belted pizza box. A real NHTSA
+    # crash-test film for line 11 is in ideas.md (Nov 24 08:10).
+    # Started 13:03:42 PT (History a1ecad30) by the main chat with the style line, its prompt word for word as below
+    # (its "13:57 PT" is the main chat's clock). The runner's earlier B (spiral spring, free-spinning spool, pendulum
+    # pawl, crash test, phone lunge) went out in the main chat's 13:04 PT dedupe: clip A already shows the pendulum
+    # lock.
     status: "generating (started: Nov 24 13:57 PT; verified Generating=1)"
     file: buildit-seatbelt-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro cutaway of a steel torsion bar twisting inside a seatbelt retractor as the strap pays out slowly under load, slow motion. Shot 2 (5-10 s): macro of a seatbelt pretensioner at the buckle, a small charge fires, a steel cable yanks the buckle down and the slack disappears in a flash, slow motion. Shot 3 (10-15 s): a 1959 Swedish car factory, a V-shaped three-point belt is bolted into a car body shell by robot arms and machines only, warm industrial light. Shot 4 (15-20 s): wide aerial of a very high suspension bridge spanning a deep misty green gorge, its deck far above the river at the bottom, a small car crossing slowly. Shot 5 (20-25 s): a highway at dusk with a long line of glowing car lights, then the dashboard seatbelt warning light goes dark as a buckle clicks, warm light. Shot 6 (25-30 s): funny slow motion, a pizza box belted into a car passenger seat, the car brakes hard, a takeout bag and napkins fly forward and the belted pizza box does not move an inch.
+
+  - id: huajiang-A
+    build: 93
+    kit: huajiang
+    # Facts: "625 metres (2,051 ft) from the bridge deck to the bottom of the gorge", main span 1,420 m, built 18 Jan
+    # 2022 to 28 Sep 2025 (Wikipedia, "Huajiang Grand Canyon Bridge"); the crossing went from "about two hours to
+    # roughly two minutes" (China Daily, Sep 28 2025; Wikipedia: "70 minutes" to "just over one minute": check). "A
+    # single main cable consists of 217 compacted strand bundles, which in turn contain 91 high-strength, 5.7 mm steel
+    # wires" (China Daily, Apr 26 2025). Canyon winds "sometimes exceeded force 12 on the Beaufort scale", so the welders
+    # used "windproof welding technology" (China Daily, May 1 2025). "the world's largest cable crane system" (China
+    # Daily, Nov 7 2024), positioned by Beidou, set "93 segments totaling approximately 22,000 tons", up to "215 tons"
+    # each, with "100 percent accuracy in aligning bolts with their designated holes" (China Daily, Jan 18 2025). The
+    # fire risk: "an oil tanker catching fire on the bridge deck" (China Daily, Apr 26 2025). Towers 262 m and 205 m in
+    # Wikipedia's infobox: check. No faces (workers from behind), no flags, signs or writing.
+    status: todo
+    file: buildit-huajiang-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a thin road bridge hangs 625 meters above the bottom of a deep green canyon in the karst
+      mountains of south-west China, small cars crossing the deck while white clouds drift slowly below it, slow
+      aerial push-in at sunrise. Shot 2 (5-10 s): wide aerial of a deep, narrow canyon with steep green cliffs and a
+      river far below, a single narrow road zigzags down one wall in tight hairpins and climbs up the other, one small
+      car crawling around the bends, misty morning. Shot 3 (10-15 s): two tall towers stand on the two cliff edges and
+      a thick main cable runs between their tops across the canyon, the camera dives into a cutaway of the cable,
+      packed with hundreds of hexagonal bundles of thin shining steel wires, close-up. Shot 4 (15-20 s): high above
+      the canyon, workers in orange suits seen from behind lean into a howling wind on a narrow steel catwalk, their
+      safety lines pulled tight, the sparks of a welding torch blown sideways, wide view. Shot 5 (20-25 s): a giant
+      cable crane strung between the two towers lowers a huge steel truss section, as big as a building, over the
+      625 meter drop, it inches into place beside the last one and the bolts slide straight into their holes, wide
+      view then close-up. Shot 6 (25-30 s): a fuel tanker truck stopped on the finished bridge deck is on fire, orange
+      flames and black smoke climbing up a steel hanger toward the main cable above, the canyon far below, wide view.
+  - id: huajiang-B
+    build: 93
+    kit: huajiang
+    # Facts: the main cables got "up to five layers of fire-resistant material" (under one centimetre in all) that
+    # "withstand temperatures of up to 1,100 C for a full hour"; the wires carry a zinc-aluminium-magnesium coating and
+    # the cables fiber grating sensors tracking "temperature, humidity, and stress levels" (China Daily, Apr 26 2025).
+    # B2 (damp canyon air rusting wires inside the cable) is the usual reason for that coating, but the source does not
+    # say so: its line needs a source of its own. Load test: "A fleet of 96 trucks weighing a whopping total of 3,360
+    # metric tons", in steps of "18, 48 and 96 trucks, with each weighing 35 tons" (China Daily, Aug 25 2025; ENR: "The
+    # five-day testing completed on Aug. 25"). B4 teases build 94, the smoke alarm (LINEUP). B6: China Daily pictured
+    # each main cable as a "clothesline"; a gust turns a backyard clothesline into a sail. No faces, flags or writing.
+    status: todo
+    file: buildit-huajiang-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): macro cutaway of the main cable wrapped in thin layers of grey fireproof armor, a blowtorch
+      flame blasts its surface and the armor glows, but the shining steel wires packed inside stay bright and cool.
+      Shot 2 (5-10 s): cold mist and drizzle roll through the canyon over the bridge, the camera dives inside the main
+      cable where tiny water droplets creep between the steel wires and small orange rust spots start to spread,
+      macro. Shot 3 (10-15 s): macro cutaway of steel wires coated in a dull silver metal layer, water beading and
+      rolling off them, thin glowing glass fiber threads running between the bundles, then a screen in a small control
+      room showing calm moving graphs, warm light. Shot 4 (15-20 s): macro of a white smoke alarm on a kitchen
+      ceiling, a thin curl of smoke from a burnt piece of toast drifting up into its vents, its small red light
+      blinking, warm light. Shot 5 (20-25 s): rows of 96 heavy trucks loaded with gravel parked bumper to bumper across
+      the bridge deck high above the canyon, the deck holding steady, engineers seen from behind watching gauges on
+      laptops at the end of the bridge, slow aerial. Shot 6 (25-30 s): funny slow motion, in a windy backyard a man
+      pins a big wet bedsheet on a clothesline, a gust fills it like a sail and the whole line of laundry swings up and
+      wraps around him, a cat on the fence watching.
+
+  - id: smokealarm-A
+    build: 94
+    kit: smokealarm
+    # Facts: "Ionization chamber smoke detectors rely on radiation to “ionize” the air inside the chamber"; "Two
+    # electrodes, or charged plates, attract the ions, creating a small but steady current"; "Any smoke entering the
+    # chamber would interrupt the current and trigger the alarm"; "Most units sold today use one microcurie or less of
+    # americium-241", two units giving "less than 0.002 millirems of radiation dose each year" (NRC, "Backgrounder on
+    # Smoke Detectors", upd. Aug 27 2026; NIST: "about 37 kBq", the same microcurie). Sleep: in a small 2004 study
+    # (six sleepers; Herz and Carskadon, Brown, in the journal Sleep) pyridine "did not wake any participants in the
+    # deepest stage of sleep", while "A moderately loud auditory tone produced arousal from sleep virtually every time
+    # the scents did not" (ScienceDaily, May 18 2004). Cooking: "Ionization-type smoke alarms are more sensitive to
+    # cooking smoke and gases than the photoelectric type" (Chatham County NC Fire Marshal FAQ); "Alarms that rely on
+    # sensitive ionization chambers ... experience more nuisance alarm activations across all cooking activities and
+    # locations" (NIST TN 1784, 2013). Of the alarms present but silent in 2007-2011 home fire deaths, "almost half
+    # (47 percent) of the smoke alarms had missing or disconnected batteries" and "one-quarter (24 percent) had dead
+    # batteries" (NFPA via CT.gov; old data: find a newer NFPA edition before a line uses a number). Photoelectric:
+    # "The sensing chamber is designed so that the light beam does not strike the sensor, but smoke particles entering
+    # the chamber deflect the light onto the sensor"; "Flaming fires produce more small smoke particles and smoldering
+    # fires produce more large particles"; within 20 feet of cooking an alarm "should either be photoelectric or have
+    # a silencing button" (Chatham County, citing NFPA 72: not checked in NFPA 72 itself).
+    # History: Walter Jaeger saw the effect "in the late 1930s" (Wikipedia "Duane D. Pearsall"); the home alarm grew
+    # from a day "a chain-smoking Statitrol technician exhaled cigarette smoke toward an ion generator" (IEEE
+    # Spectrum; the year, 1963, to check), and Pearsall's SmokeGard 700, mass-produced from 1975, is "widely regarded
+    # as the first practical battery-operated ionization-type smoke detector"; "a little under 10 percent of all U.S.
+    # homes" had one by the end of 1975, "roughly 90 percent" by 1990 (IEEE Spectrum, Consumer Electronics Hall of
+    # Fame). The poison-gas-sensor story (ideas.md Nov 24 08:10) is in neither page: check. No faces: ceilings, hands,
+    # smoke, a dog; the towel man in B6 is the one person.
+    status: todo
+    file: buildit-smokealarm-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a white smoke alarm on a dark ceiling at night, the camera dives through its vents into a tiny
+      metal chamber where a speck of radioactive metal sits on a gold-colored button between two metal plates, slow
+      push-in. Shot 2 (5-10 s): cutaway of a dark two-storey house at night, thin grey smoke curling up from a
+      smouldering armchair in the living room and creeping up the stairs to the closed doors upstairs, wide view. Shot
+      3 (10-15 s): macro cutaway of the chamber, a faint blue haze of charged air flowing steadily between the two
+      plates like a tiny current, then grey smoke drifts in, the haze breaks up and a red light starts flashing. Shot
+      4 (15-20 s): bacon sizzling in a frying pan sends smoke up to the kitchen ceiling, the smoke alarm flashes red,
+      a hand twists the alarm off its base, pulls out the battery and drops it into a drawer, close-up. Shot 5 (20-25
+      s): macro cutaway of a dark chamber with black maze-like walls, a thin LED beam shines straight across, missing
+      a light sensor to one side, then smoke drifts in and scatters the light onto the sensor, a red light flashes.
+      Shot 6 (25-30 s): a smoke alarm on a hallway ceiling at night, its green light slowly fading out as its battery
+      dies, then smoke drifts past its vents and nothing happens, the hallway stays dark and silent, close-up.
+  - id: smokealarm-B
+    build: 94
+    kit: smokealarm
+    # Facts: the chirp is the low-battery warning, and it comes at night because a dying battery's internal resistance
+    # rises as the house cools: "Most homes are the coolest between 2 a.m. and 6 a.m." (Kidde, ideas.md Nov 24 08:10).
+    # "Ten-year sealed battery smoke alarms are powered by sealed lithium batteries that have a life span of ten
+    # years"; "the batteries can’t be removed from your smoke alarm or tampered with"; "At the end of ten years, the
+    # smoke detectors will give an end-of-life warning letting you know to replace the alarm"; the maker promises to
+    # "Eliminate late night, low-battery chirps" and says "many states like California and New York" require them
+    # (First Alert, "What is a 10-Year Smoke Alarm?"; no years given: check). Proof: a working alarm "cuts your risk
+    # of dying in a fire by 55%" (NIST, citing NFPA); "The death rate was twice as high in homes that did not have any
+    # working smoke alarms" (NFPA 2007-2011, via CT.gov). Free real footage for line 11: USFA (FEMA) smoke-alarm
+    # B-roll and NIST's "Smoke Alarm vs. Bacon" (ideas.md Nov 24 09:05). B4 teases build 95, the Falkirk Wheel (a 24 m
+    # lift, ideas.md Nov 24 10:05). B6: a dish towel waved at the alarm over burnt toast (reword to hands only if the
+    # filter flags the man).
+    status: todo
+    file: buildit-smokealarm-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): close-up of a smoke alarm on a ceiling at dusk, its red light flashing once with a low-battery
+      chirp, a hand opens its lid and clicks in a fresh battery, the green light glows again. Shot 2 (5-10 s): 2 a.m.
+      in a cold dark hallway, frost creeping across the window, the smoke alarm gives one lonely flash with each
+      chirp, a sleepy dog on the rug lifts its head and tilts it, wide view. Shot 3 (10-15 s): macro cutaway of a
+      smoke alarm with a slim lithium battery sealed inside and no lid to open, a hand tries to pry it open and
+      cannot, then seasons pass in the window behind as its green light keeps glowing. Shot 4 (15-20 s): the Falkirk
+      Wheel in Scotland, a giant rotating boat lift with two curved arms and a water-filled gondola carrying a boat at
+      each end, turning between a canal basin and an aqueduct 24 meters above, slow aerial orbit at sunrise. Shot 5
+      (20-25 s): a full-size living room inside a fire test lab, an armchair smoulders, smoke rolls across the ceiling
+      and within seconds the alarm flashes red, engineers seen from behind watching screens through a glass wall, wide
+      view. Shot 6 (25-30 s): funny slow motion, in a smoky kitchen a man on tiptoe swings a dish towel wildly under a
+      flashing smoke alarm while toast smokes black in the toaster behind him and a cat watches calmly.
