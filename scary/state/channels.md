@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-24T22:05:38+00:00
+# Yallah Say Buffer channels, checked 2026-11-24T22:10:55+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -58,6 +58,10 @@
 - ep21-en en.instagram: sent, sent 2026-11-22T23:53:13.558Z, https://www.instagram.com/reel/DgEBnrIKpzC/
 - ep21-en en.tiktok: sent, sent 2026-11-22T23:52:16.027Z, https://tiktok.com/@thedarktoldme/video/7711147446415461645
 - ep21-en en.youtube: sent, sent 2026-11-22T23:51:47.111Z, https://www.youtube.com/shorts/Fqd0r7H_0O4
+- naddaha-p1-en en.instagram: scheduled, due 2026-11-26T17:02:54.000Z
+- naddaha-p1-en en.tiktok: scheduled, due 2026-11-26T17:01:52.000Z
+- naddaha-p2-en en.instagram: scheduled, due 2026-11-26T21:01:20.000Z
+- naddaha-p2-en en.tiktok: scheduled, due 2026-11-26T21:02:57.000Z
 - roushdy-p1-en en.instagram: scheduled, due 2026-11-25T17:01:28.000Z
 - roushdy-p1-en en.tiktok: scheduled, due 2026-11-25T17:00:36.000Z
 - roushdy-p2-en en.instagram: scheduled, due 2026-11-25T21:01:00.000Z
@@ -125,6 +129,12 @@
 - ep21-ar-yt ar.youtube: scheduled, due 2026-11-25T18:17:58.000Z
 - ep21-ar ar.instagram: sent, sent 2026-11-22T07:31:58.731Z, https://www.instagram.com/reel/DgCRjZyIJg1/
 - ep21-ar ar.tiktok: sent, sent 2026-11-22T07:35:16.083Z, https://tiktok.com/@thedarktoldmear/video/7710895582579019022
+- naddaha-p1-ar ar.instagram: scheduled, due 2026-11-26T15:01:36.000Z
+- naddaha-p1-ar ar.tiktok: scheduled, due 2026-11-26T15:01:42.000Z
+- naddaha-p2-ar ar.instagram: scheduled, due 2026-11-26T17:32:18.000Z
+- naddaha-p2-ar ar.tiktok: scheduled, due 2026-11-26T17:30:23.000Z
+- naddaha-p3-ar ar.instagram: scheduled, due 2026-11-26T20:01:01.000Z
+- naddaha-p3-ar ar.tiktok: scheduled, due 2026-11-26T20:02:38.000Z
 - roushdy-p1-ar ar.instagram: scheduled, due 2026-11-25T15:00:21.000Z
 - roushdy-p1-ar ar.tiktok: scheduled, due 2026-11-25T15:02:12.000Z
 - roushdy-p2-ar ar.instagram: scheduled, due 2026-11-25T17:32:00.000Z
