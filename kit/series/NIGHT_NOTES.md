@@ -1713,3 +1713,6 @@ project doc claude/build-it-hook-checklist.md.
   and Arabic Instagram: average time watched / length, and views; TikTok after 3 days) and writes the result into
   claude/build-it-performance.md. Tell the owner the result in the evening message of Nov 28.
 - Not changed: the 4-minute show's opening lines (already short), covers, closer, tag joke, line 10.
+
+## Nov 23 2026, ~18:30 PT: Survival Mode 4 finished by the main chat
+The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_FAILURE_REASON_USAGE_LIMIT_REACHED), after its spec and voices were pushed. The main chat built the four cuts (EN full 4:40, short 1:23; AR full 4:54, short 1:28; all -14.0 LUFS, peaks -2.0 to -2.3 dBFS; stills sheets looked at), wrote posts/sm04.yml and kit/show/youtube/sm04.yml from sm03, ran handoff.py, uploaded the four videos in Studio for Tue Nov 24 (AR full 09:00, EN full 10:00, AR Short 10:30, EN Short 12:15 PT) and released the TikTok + Instagram posts. Builds 70-72 also uploaded (6 videos). sm03 Arabic TikTok failed at 10:30 PT Nov 23: requeued to 02:00Z Nov 25 (18:00 PT Nov 24). The afternoon round prompt now says to finish a failed show run the same way.

@@ -7,7 +7,7 @@ video:
 # YouTube gets both the full video and this short through YouTube Studio (the main chat, `show` branch), so both YouTube
 # targets stay on hold for good. TikTok and Instagram start on hold too and are released by scripts/yt_desk.py release sm04
 # after the YouTube uploads. No build run may take any target of this file off hold.
-hold: [en.youtube, ar.youtube, en.instagram, en.tiktok, ar.instagram, ar.tiktok]
+hold: [en.youtube, ar.youtube]    # the TikTok and Instagram posts were released after the YouTube uploads
 en:
   at: "2026-11-24T20:15:00Z"      # 12:15 PT Tue Nov 24; the full video goes public on YouTube at 10:00 PT
   title: "The Clock That Can't Be Late ⏱️ Survival Mode: You vs Time"
