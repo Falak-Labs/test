@@ -72,3 +72,4 @@
 - Note Nov 24 06:09 PT (hourly runner): with pontdugard added the queue still had fewer than 4 todo jobs, so noor-A and noor-B were added for build 89, Noor Ouarzazate (facts and sources in the queue comments; B4 teases 90, the ballpoint pen, added to LINEUP as an idea): 5 jobs todo (balloon-B, pontdugard-A/B, noor-A/B).
 - Nov 24 06:21 PT balloon-A done (fetched, hf_20261124_135047); balloon-B started (unlimited, no credits, style line prefixed).
 - Nov 24 06:37 PT balloon-B done (fetched, hf_20261124_142101); pontdugard-A started (unlimited, no credits, style line prefixed).
+- Nov 24 06:54 PT (hourly runner, cloud) pontdugard-A done (History 5947773d, started 06:37 with the style line, prompt as queued), fetched buildit-pontdugard-sdA.mp4 here; balloon-B's link (5ea18e40) added to the queue. Nothing generating at 06:51: the slot is free for pontdugard-B (todo), which this cloud run cannot start.

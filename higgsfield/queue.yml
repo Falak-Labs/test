@@ -443,7 +443,10 @@ jobs:
     # Albuquerque International Balloon Fiesta: "About 584 balloons were registered to fly, including 114 Special
     # Shapes", "an estimated 901,720 people visited the park" (Albuquerque Journal, Oct 21 2026; it gives 584 pilots
     # too: check). B4 teases build 88, the Pont du Gard (LINEUP). B6: the bin-bag-and-hair-dryer trick.
+    # Done by 06:37 PT (History 5ea18e40, started 06:21 with the style line; shot 5 ran without "crowds far below on
+    # the launch field", shot 6 without "out of a hand").
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_142101_5ea18e40-4ab8-4ff2-9fc5-19eb88e69add.mp4
     file: buildit-balloon-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): two hot air balloons over a misty valley at sunrise, the lower one drifts left and the higher
@@ -473,7 +476,10 @@ jobs:
     # "submerged entire first level" (historyofbridges.com) against "reached the bridge's second tier" (UNRV); Sep 2002
     # "A catastrophic flood event threatened" it (NSSL): check before a line gives a height. No faces: stone, water,
     # ropes, cranes, hands.
-    status: "generating (started: Nov 24 06:37 PT)"
+    # Done by 06:51 PT (History 5947773d, started 06:37 with the style line, prompt exactly as below), fetched by the
+    # hourly runner.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_143737_5947773d-543c-4e7f-832f-dc4eb0231c11.mp4
     file: buildit-pontdugard-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): the Pont du Gard, a Roman aqueduct bridge of honey-colored stone, three rows of arches stacked
