@@ -126,7 +126,7 @@ jobs:
     build: 80
     kit: jeddahfountain
     # Nov 24 00:55 PT: shot 1 reworded before its turn (no "shooting", see kuwait-B).
-    status: "generating (started: Nov 24 01:21 PT; shot 2 reworded, no tourists)"
+    status: done
     file: buildit-fountain-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): Jeddah's giant sea fountain at night, a tall white column of sea water rising higher than the
@@ -138,7 +138,7 @@ jobs:
   - id: fountain-B
     build: 80
     kit: jeddahfountain
-    status: todo
+    status: "generating (started: Nov 24 01:38 PT; shots 5-6 reworded)"
     file: buildit-fountain-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): new pipes made of special steel that resists salt, shiny. Shot 2 (5-10 s): at night the jet is
