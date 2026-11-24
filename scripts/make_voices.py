@@ -77,7 +77,8 @@ for lang in langs:
             fit = ["--tempo", f"{pace:.4f}"]
         run([sys.executable, "-I", "-u", "tools/make_vo_eleven.py", lines, vo, "--voice", str(eng["voice"]),
              "--model", eng.get("model", "eleven_multilingual_v2"), "--speed", str(eng.get("speed", 1.0)),
-             "--pause", str(eng.get("pause", 0.22))] + fit)
+             "--pause", str(eng.get("pause", 0.22))] + fit
+            + (["--stability", str(eng["stability"])] if "stability" in eng else []))
     elif eng.get("engine") == "phonon":
         run([sys.executable, "-I", "-u", "tools/make_vo.py", lines, vo, "--verify", "--voice", str(eng.get("voice", "Easton"))])
         run([sys.executable, "-I", "-u", "tools/align_words.py", vo])

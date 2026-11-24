@@ -19,6 +19,7 @@ import argparse
 import base64
 import json
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -64,10 +65,22 @@ def decode(path):
     return np.frombuffer(r.stdout, dtype=np.float32).copy()
 
 
+TAGGED = a.model.startswith("eleven_v3") or a.model.startswith("eleven_v4")   # models that act on [audio tags]
+
+
+def strip_tags(t):
+    """The script without its [audio tags] (what is actually said, for captions and checks)."""
+    return re.sub(r"\s{2,}", " ", re.sub(r"\[[^\]]*\]", "", t)).strip()
+
+
 def request(i):
-    body = {"text": lines[i], "model_id": a.model,
-            "voice_settings": {"stability": a.stability, "similarity_boost": a.similarity, "style": a.style,
-                               "use_speaker_boost": True, "speed": a.speed}}
+    if TAGGED:   # v3/v4: no speed/style/speaker boost; stability is 0.0 (creative), 0.5 (natural) or 1.0 (robust)
+        stab = min((0.0, 0.5, 1.0), key=lambda v: abs(v - a.stability))
+        settings = {"stability": stab, "similarity_boost": a.similarity}
+    else:
+        settings = {"stability": a.stability, "similarity_boost": a.similarity, "style": a.style,
+                    "use_speaker_boost": True, "speed": a.speed}
+    body = {"text": lines[i], "model_id": a.model, "voice_settings": settings}
     if a.model.startswith("eleven_multilingual") or a.model.startswith("eleven_turbo") or a.model.startswith("eleven_flash"):
         if i > 0:
             body["previous_text"] = lines[i - 1]
@@ -120,7 +133,17 @@ def words_of(chars, starts, ends):
         e0 = e
     if cur:
         out.append({"w": cur, "start": s0, "end": e0})
-    return out
+    keep, inside = [], False                    # drop [audio tags]: they are performed, not said
+    for w in out:
+        t = w["w"]
+        if t.startswith("[") or inside:
+            inside = not t.endswith("]")
+            rest = t.split("]", 1)[1] if "]" in t else ""
+            if rest:
+                keep.append(dict(w, w=rest))
+            continue
+        keep.append(w)
+    return keep
 
 
 def fade(y, ms=6):
@@ -192,7 +215,7 @@ for i in range(len(lines)):
         audio.append(gap)
         t += a.gap
         ws = [dict(w, start=round(w["start"] + a.gap, 3), end=round(w["end"] + a.gap, 3)) for w in ws]
-    out_lines.append({"line": i + 1, "start": round(t, 3), "end": round(t + len(y) / SR, 3), "text": lines[i], "words": ws})
+    out_lines.append({"line": i + 1, "start": round(t, 3), "end": round(t + len(y) / SR, 3), "text": strip_tags(lines[i]), "words": ws})
     audio.append(y)
     t += len(y) / SR
 voice = np.concatenate(audio)

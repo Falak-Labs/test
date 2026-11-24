@@ -39,6 +39,7 @@ def ass_time(t):
 
 def chunks(words, numbers):
     """Merge spoken number words into numerals, then group into 1-3 word chunks."""
+    words = [w for w in words if not (w["w"].startswith("[") or w["w"].endswith("]"))]   # never caption [audio tags]
     toks = []
     i = 0
     low = [re.sub(r"[^a-z0-9']", "", w["w"].lower()) for w in words]

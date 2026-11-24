@@ -9,7 +9,9 @@
 # Egyptian voice he accepted for builds 21-25 stays.
 # Nov 23 21:59 PT, owner picked J. Ballen (Southern storyteller, comic timing) after rejecting Easton ("annoying") and
 # 15 other samples: "Baller for sure, let's try it". English now costs ElevenLabs credits (~1,000 per build).
-en: {engine: eleven, voice: 2LxhCRvenFtT95JOekmF, model: eleven_multilingual_v2}
+# Nov 23 22:04 PT, owner: "make his role kinda funny, like he is almost gonna laugh while talking, and add some humor
+# words like he is talking to the viewers" -> eleven_v4 (acts on [audio tags] like [amused] [chuckles] [laughs softly]).
+en: {engine: eleven, voice: 2LxhCRvenFtT95JOekmF, model: eleven_v4, stability: 0.5}
 # previous: en: {engine: phonon, voice: Easton}
 # Nov 22 11:35 PT, owner: "only ElevenLabs for Arabic, not the Egyptian one". From build 64 every NEW Arabic voice is Saudi
 # Mansour (below). Egyptian voice IES4nrmZdUBHByLBde0P stays only for the old builds that already have it.
