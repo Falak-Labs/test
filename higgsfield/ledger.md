@@ -6,3 +6,8 @@
 2026-11-23 20:10 | buildit | Seedance 2.5 720p 9:16 15s 3 shots (unlimited) | buildit-taipei-reveal.mp4 | 0-5 giant gold sphere swinging, 5-10 pistons, 10-15 tower at dawn | Taipei 101 sample, reveal + stat
 2026-11-23 20:00 | buildit | Seedance 2.5 720p 9:16 15s 3 shots (unlimited) | buildit-goldengate-3shots.mp4 | 0-5 towers out of fog, 5-10 1930s workers on catwalk, 10-15 main cable close-up | stock for build 77 Golden Gate
 2026-11-23 19:56 | scary | Seedance 2.5 720p 9:16 30s, 6 shots (unlimited) | scary-baron-palace-6shots.mp4 | Baron's Palace Cairo night: tower window glow, locked gate, watchman, smoke, tower fire, fire fades | Baron's Palace sample Short (EN+AR); shots reusable: palace exterior, gate, watchman, smoke crowd
+- Nov 23 20:05 PT · Seedance 2.5 unlimited 30 s 9:16 720p · Taipei full-Seedance clip A (6 shots) → ai-media/buildit-taipei-sdA.mp4 · great, all 6 shots usable
+- Nov 23 20:09 PT · Nano Banana Pro unlimited 9:16 1K · Taipei storm cover → ai-media/buildit-taipei-cover-nbp.png · good cover, tower not exact
+- Nov 23 20:13 PT · GPT Image 2.6 Sunburst unlimited 9:16 · Taipei 101 blue hour → kit/out/aishots/buildit-taipei-bluehour-gpt.png · accurate tower
+- Nov 23 20:19 PT · Seedance 2.5 unlimited 30 s · Taipei clip B (6 shots: tuned, swinging, pistons, dishwasher, deck, coffee)
+- Note: image models with UNLIMITED badge (Nano Banana Pro/Nano Banana, GPT Image 2.6 Sunburst/Flare, GPT Image 2.5, Seedream 5.0 lite/Pro/4.5, FLUX.2 Pro, Kling O1, Auto) run in parallel with the Seedance video job. Unlimited needs batch 1/4 (4 images turns Unlimited off and costs credits). Only Seedance 2.5 is unlimited for video.

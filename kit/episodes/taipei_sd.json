@@ -1,0 +1,19 @@
+{"name": "taipei_sd", "title": "TAIPEI 101", "kicker": "508 M · TYPHOON-PROOF",
+ "numbers": [["five hundred", "500"], ["six hundred sixty tons", "660 TONS"], ["five and a half meters", "5.5 M"],
+             ["forty percent", "−40%"], ["twenty fifteen", "2015"]],
+ "shots": [
+  {"line": 1, "src": "out/aishots/buildit-taipei-sdA.mp4", "at": 0.0},
+  {"line": 2, "src": "out/aishots/buildit-taipei-sdA.mp4", "at": 5.2},
+  {"line": 3, "src": "out/aishots/buildit-taipei-sdA.mp4", "at": 10.0},
+  {"line": 4, "src": "out/aishots/buildit-taipei-sdA.mp4", "at": 15.3},
+  {"line": 5, "src": "out/aishots/buildit-taipei-sdA.mp4", "at": 19.95},
+  {"line": 6, "src": "out/aishots/buildit-taipei-sdA.mp4", "at": 25.15},
+  {"line": 7, "src": "out/aishots/buildit-taipei-sdB.mp4", "at": 0.0},
+  {"line": 8, "src": "out/aishots/buildit-taipei-sdB.mp4", "at": 5.1},
+  {"line": 9, "src": "out/aishots/buildit-taipei-sdB.mp4", "at": 10.1},
+  {"line": 10, "src": "out/aishots/buildit-taipei-sdB.mp4", "at": 15.1},
+  {"line": 11, "src": "out/aishots/buildit-taipei-sdB.mp4", "at": 20.1},
+  {"line": 12, "src": "out/aishots/buildit-taipei-storm.mp4", "at": 0.0},
+  {"line": 13, "src": "out/aishots/buildit-taipei-bluehour-gpt.png", "push": 0.12},
+  {"line": 14, "src": "out/aishots/buildit-taipei-sdB.mp4", "at": 25.1}
+ ]}
