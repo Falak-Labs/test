@@ -75,7 +75,7 @@ def build(ep, loc):
     """Everything one lesson needs in one dialect: what the page draws and every voice line, in order."""
     EP = lesson(ep)
     LC, X = LOCALES[loc], EP[loc]
-    WORD = dict({k: EP["word"][k] for k in ("full", "parts", "say", "tts")}, ah=X["ah"], sent={k: X["sent"][k] for k in ("en", "hot", "dz", "ar")})
+    WORD = dict({k: EP["word"][k] for k in ("full", "parts", "say", "tts", "slow") if k in EP["word"]}, ah=X["ah"], sent={k: X["sent"][k] for k in ("en", "hot", "dz", "ar")})
     mean, tr = X.get("mean") or EP["word"]["mean"], EP["word"]["ar"]          # what the word means (a dialect may have its own word for it), and how it sounds in Arabic letters
     L = dict(LC["L"], meanAr="المعنى: " + mean, endEq=tr[loc] + " = " + mean.rstrip("!"))
     if X.get("sub"):

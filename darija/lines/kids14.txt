@@ -8,5 +8,5 @@ A | p05k | Try again.
 A | w5 | Education!
 L | v1 | Education is the key to the future!
 L | Lw | Education!
-A | Asl | Ed... u... ca... tion.
-L | Lsl | Ed... u... ca... tion.
+A | Asl | Ed... you... kay... shun.
+L | Lsl | Ed... you... kay... shun.
