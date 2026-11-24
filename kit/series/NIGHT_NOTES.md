@@ -1716,3 +1716,66 @@ project doc claude/build-it-hook-checklist.md.
 
 ## Nov 23 2026, ~18:30 PT: Survival Mode 4 finished by the main chat
 The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_FAILURE_REASON_USAGE_LIMIT_REACHED), after its spec and voices were pushed. The main chat built the four cuts (EN full 4:40, short 1:23; AR full 4:54, short 1:28; all -14.0 LUFS, peaks -2.0 to -2.3 dBFS; stills sheets looked at), wrote posts/sm04.yml and kit/show/youtube/sm04.yml from sm03, ran handoff.py, uploaded the four videos in Studio for Tue Nov 24 (AR full 09:00, EN full 10:00, AR Short 10:30, EN Short 12:15 PT) and released the TikTok + Instagram posts. Builds 70-72 also uploaded (6 videos). sm03 Arabic TikTok failed at 10:30 PT Nov 23: requeued to 02:00Z Nov 25 (18:00 PT Nov 24). The afternoon round prompt now says to finish a failed show run the same way.
+
+## Nov 23 2026 (evening run, 18:37 PT): 73 the Lighthouse of Alexandria, 74 Maraya, 75 Chand Baori (for Tue Nov 24)
+- TODAY Mon Nov 23 PT, TOMORROW Tue Nov 24 PT (`TZ=America/Los_Angeles date` first; every at: turned back into PT
+  before the push). PST: Arabic Instagram 09:00 / 12:00 / 15:00 PT = 17:00Z / 20:00Z / 23:00Z Nov 24, Arabic TikTok
+  08:30 / 12:30 / 15:00 PT (2 h either side of the show's Arabic TikTok at 10:30 PT); English 13:30 / 16:00 / 18:30 PT =
+  21:30Z Nov 24, 00:00Z / 02:30Z Nov 25. YouTube: desk.yml verified: true, so all three hold YouTube with `studio: 1`.
+- Status 02:45Z (Nov 23 PT, builds 64-69): six builds out. English Instagram + TikTok all twelve, Arabic Instagram all
+  six, Arabic TikTok only 64 and 65 (66-69 "potential spam"; 50's requeue refused again at 01:30Z Nov 24). YouTube: all
+  six in Studio (ledger), sm03 too. yt_desk check: nothing overdue. Arabic TikTok in error: 48, 50, 56, 62, 66, 67, 68,
+  69; the queue is 10 of 10 (37, 42, 54, 55, 60, 70-72, sm03, sm04), so nothing was requeued.
+- Metrics 02:49Z: 215,479 views (+16,646). Pisa's Arabic TikTok 1,247 (the best Arabic TikTok since Nov 16); English
+  TikTok near zero for a third day (58-64: 1-12 views); Arabic Instagram 58-63 median 1,505. Entry in
+  claude/build-it-performance.md.
+- First builds written to the hook rules (check_hook.py: all pass). English hooks 15-16 words, spoken 4.5-4.8 s, first
+  problem by 8.5-9.2 s; Arabic hooks 12 words, 4.1-4.6 s, problem by 7.8-9.5 s. Lesson: check_hook's reading grade
+  counts long names, so "the Lighthouse of Alexandria" left room for only one plain picture ("If you top a giant tower
+  with fire"; "a fire on top of a skyscraper" failed at grade 7.8).
+- Voices: ElevenLabs Pro 23,928 of 613,234 used before (4%), 30,241 after (other projects ran at the same time; ours
+  about 2,500 characters: 810 + 821 + 822 + one remade closer line). Easton pharos 61.9 s (215 words), maraya 61.3 s
+  (216), stepwell 61.0 s (213): short of 62 s but the videos are 64-65 s, inside the gate. Mansour 66.0 s each (tempo
+  1.00-1.12). Whisper small on the English voices: "thirty-floor" -> "34" (now "a building with thirty floors"), "It
+  guided ships" lost "It" (now "This tower guided ships"), "in mirrors" -> "and mirrors" (now "with mirrors"); English
+  remade free. SAY now respells maraya -> "mah-rah-yah" (Whisper writes "Mariah" / "Mara Ya"), chand -> "chahnd", baori ->
+  "bow-ree" (Whisper writes "Chanbo-ri"); the captions carry the names. check_ar_voice: only the digit lines over 10%
+  except stepwell's closer, where the bare name "تشاند باوري" was heard "جنبا ور" (15%): the closer became "بير تشاند
+  باوري" (one line remade, 11%), which also puts "بير" on the Arabic cover.
+- Research (WebSearch titles only, no agents): Lighthouse of Alexandria (Wikipedia, World History, AramcoWorld on Ibn
+  al-Shaykh, Archaeology magazine July 2025 "Submerged blocks lifted from seafloor": 22 blocks, Qaitbay citadel on its
+  site); Maraya (Guinness 2020 "largest mirrored building", 9,740 m2, Giò Forma, Guardian Glass); Chand Baori
+  (Wikipedia, Incredible India, India Water Portal: 3,500 steps, 13 levels, about 30 m, 5-6 °C cooler at the bottom,
+  8th-9th century). Maraya's panel gaps and coating are said as general façade practice, not as Maraya specifics.
+- Scenes (all v2 look 2):
+  - pharos.py (harbor, far, ramp, street): tower() in elevation (1 m = 6 units, sea level 0): square tier, octagon tier
+    with angled faces, cylinder, lantern with a bronze dish beside the flames (rays flame -> dish -> sea), a statue;
+    `built` reveals it bottom-up, `dark` makes it a black shape, `fall` drops the tiers into the sea; galley() (an old
+    ship with a striped square sail, tilt/sink/lamp), rocks_under() (x-ray reefs), water() with the beam's sparkles,
+    seabed() with 22 blocks and one lifted on a crane cable; the ramp set is the tower cut open with a zigzag ramp and
+    donkey_side() walking it (PathMeasure); tag: a delivery scooter circling identical houses while you wave a phone
+    torch from a balcony. Light stone on a pale sky bloomed: day scenes use a deep blue DAYP.
+  - maraya.py (valley, panel, home): landscape() = rounded sandstone outcrops (cliff_shape with quad bulges) on both
+    sides of the hall, a far mesa, acacias; hall() is a box whose mirror shows the landscape flipped (saveLayer + clip,
+    sky drawn in screen space), panel seams that fade as it "vanishes", a sheen; panel set: 2 x 3 panels that grow and
+    shrink day/night and crack, then gaps, a sandstorm that dulls them and a coating that sends the sand back. Lesson:
+    cliffs placed beyond the camera's width left a flat orange frame: put their inner edges just behind the hall.
+  - stepwell.py (well, lobby): well() in section: back wall of zigzag double flights per floor (zig_stairs), side walls
+    that go from straight (lean 0) to 13 stepped floors (lean 1), a green pool with a level, rain, caving chunks, one
+    narrow stair for break4; `dug` 0 fills the frame with earth (otherwise the sky showed under the ground).
+- Pages: media/ was 817 MB with no build fully sent. Retired ep48, ep50 and ep56 (their only unsent posts are Arabic
+  TikToks in error that keep failing): 817 -> 699 MB before the six new videos (about 800 MB after). If a later run
+  wants to requeue one of those three, restore its media from git history first (Buffer may fetch it again).
+- Lineup: 83 a Thermos flask, 84 the Hoover Dam, 85 the Dubai Frame appended (checked by title: usbr.gov "one solid pour
+  would take 125 years", Gulf News Dubai Frame sky walk at 150 m, Royal Institution / Britannica on Dewar's flask).
+- Produce reports: pharos EN 65.0 s / AR 69.1 s, maraya EN 64.4 / AR 69.1, stepwell EN 64.1 / AR 69.1 (all -14 LUFS,
+  covers true). Whisper small on the three English mixes: only numbers as digits and the names Maraya / Chand Baori
+  (CI's smaller model wrote "with 34s" for pharos line 3; small hears "with 30 floors", so it was left).
+- Posts: 73 + 74 pushed 04:13Z (after the Pages deploy of f783904 succeeded), 75 at 04:27Z (after 33b3a3c's deploy;
+  Pages runs were cancelled by other projects' pushes for 15 minutes in between). State 04:16Z: 73 and 74 English
+  Instagram + TikTok and Arabic Instagram scheduled at their Tue Nov 24 PT times; state 04:30Z: 75's the same, and
+  73's Arabic TikTok got in at 16:30Z (42 had gone out at 04:30Z). The Arabic TikToks of 74 (20:30Z) and 75 (23:00Z)
+  wait for queue room (10 of 10): check-in of this session at 11:20Z Nov 24 (send_later trig_01EoaDvsSa6p8qmJqLjJAEsA)
+  dispatches post.yml once 70 (08:00Z) and 71 (11:00Z) have gone out. Errors 48, 50, 56, 62, 66-69 were not requeued
+  (no room; free 2-hour gaps start 01:30Z / 04:30Z Nov 27). Watch: 54's requeue (01:30Z Nov 25) and sm03's (02:00Z
+  Nov 25) are only 30 minutes apart, so one may be refused as spam; left alone (sm03 is the show's).
