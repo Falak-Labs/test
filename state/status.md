@@ -1,4 +1,4 @@
-# Post status 2026-11-24T19:52:20+00:00
+# Post status 2026-11-24T20:10:46+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -396,7 +396,7 @@
 | ep73-pharos | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T16:30:00.000Z |
 | ep73-pharos | en.instagram | scheduled |  | 2026-11-24T21:30:00.000Z |
 | ep73-pharos | en.tiktok | scheduled |  | 2026-11-24T21:30:00.000Z |
-| ep74-maraya | ar.instagram | scheduled |  | 2026-11-24T20:00:00.000Z |
+| ep74-maraya | ar.instagram | sent |  | 2026-11-24T20:02:44.964Z https://www.instagram.com/reel/DgIxEvvgZNL/ |
 | ep74-maraya | ar.tiktok | scheduled |  | 2026-11-24T20:30:00.000Z |
 | ep74-maraya | en.instagram | scheduled |  | 2026-11-25T00:00:00.000Z |
 | ep74-maraya | en.tiktok | scheduled |  | 2026-11-25T00:00:00.000Z |
@@ -427,6 +427,7 @@
 | ep83-thermos | en.tiktok | scheduled |  | 2026-11-25T17:30:00.000Z |
 | ep84-hooverdam | ar.instagram | scheduled |  | 2026-11-25T23:00:00.000Z |
 | ep85-dubaiframe | ar.instagram | scheduled |  | 2026-11-26T01:30:00.000Z |
+| ep86-kettle | ar.instagram | scheduled |  | 2026-11-26T04:00:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://www.tiktok.com/@congratsengineer/video/7710759443809553677?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
