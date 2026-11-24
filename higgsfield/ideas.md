@@ -401,7 +401,7 @@ New content
   to apply pressure against the two legs"; a builder: "they had the St. Louis Fire Department run cold water on the
   back side of the south leg to keep the steel from expanding". It sways "up to 1 inch in a 20mph wind" and can sway
   "18 inches in 150 mph winds"; foundations "60 feet deep, with 30 feet embedded in bedrock". The "1/64 inch" fit
-  and "no deaths" claims are not on these pages: check before a line uses them. Its Seedance pair is not queued yet.
+  and "no deaths" claims are not on these pages: check before a line uses them. Its Seedance pair is queued (arch-A/B, 07:27).
   [NPS, architecture](https://www.nps.gov/jeff/planyourvisit/assembly-and-erection.htm),
   [NPS, 50th year](https://www.nps.gov/jeff/learn/historyculture/the-gateway-arch-celebrates-50th-year-of-completion.htm),
   [St. Louis Public Radio, Oct 27 2015](https://www.stlpr.org/arts/2015-10-27/builders-of-the-gateway-arch-say-it-was-a-monumental-task-and-an-honor)

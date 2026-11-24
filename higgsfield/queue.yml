@@ -537,7 +537,10 @@ jobs:
     # receiver "super heats molten salts to more than 500°C" ("a mixture of potassium and sodium nitrate") for power
     # "seven hours after dark". Dust: "A thin coating of dust on the surface of a solar panel or mirror can severely
     # block sunlight" (OpenWeather blog, Aug 7 2025). No faces: mirrors, pipes, tanks, trucks, town lights.
-    status: "generating (started: Nov 24 07:13 PT)"
+    # Done by 07:24 PT (History 06271b58, started 07:13 with the style line, prompt as below), fetched by the hourly
+    # runner.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_151353_06271b58-873f-4cf4-814a-e5ec766f4f56.mp4
     file: buildit-noor-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a solar power tower 247 meters tall in the Moroccan desert at sunset, its top glowing white-hot
@@ -630,3 +633,56 @@ jobs:
       pens, wide view. Shot 6 (25-30 s): funny slow motion, at an office desk a man scribbles furious circles on a
       scrap of paper to wake up a pen that will not write, shakes it hard, and a blob of blue ink flies out onto his
       white shirt, he freezes.
+
+  - id: arch-A
+    build: 91
+    kit: gatewayarch
+    # Facts: "the 630 foot stainless steel monument"; "Construction on the Arch began in 1963"; "The last section of
+    # the Arch was slipped into place completing the monument on October 28, 1965" (NPS, "The Gateway Arch Celebrates
+    # 50th Year of Completion"). "The outside wall is made of polished stainless steel", the inside "a strong A-7
+    # carbon steel that is 3/8 inches thick", and "the concrete in the walls of the Arch was pre-stressed up to a
+    # height of 300 feet"; "Specially designed creeper cranes then climbed the Arch legs to lift the completed
+    # section", "These derricks could pull themselves up the curved legs of the Arch"; foundations "extend 60 feet
+    # deep, with 30 feet embedded in bedrock" (NPS, "Gateway Arch Architecture"). 630 ft = 192 m. No faces: steel,
+    # cranes, workers seen from afar.
+    status: todo
+    file: buildit-arch-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): 1965, two giant curved legs of shining stainless steel rise from a riverside park toward each
+      other, a gap of open sky between their tips 192 meters up, a small crane sitting on top of each leg, slow
+      aerial push-in at golden hour. Shot 2 (5-10 s): wide aerial of a 1960s riverfront beside a wide brown river, a
+      cleared park with two small triangular steel stubs set far apart in the grass, the city skyline behind and
+      nothing tall enough to reach the sky above them. Shot 3 (10-15 s): a giant hollow triangular section of
+      polished stainless steel is lowered onto the top of a leg, workers bolt it on and concrete pours into the gap
+      between its double steel walls, the leg grows one section taller, close-up. Shot 4 (15-20 s): a tall tower
+      crane at the foot of the steel leg stretches its boom up as far as it can and stops far below the top of the
+      leg, the next steel section dangling uselessly in the air, wide view. Shot 5 (20-25 s): a crane on rails crawls
+      up the curved back of the steel leg, pulling itself higher, then lifts the next steel section up from the
+      ground far below, wide side view. Shot 6 (25-30 s): high above the park the two curved legs lean toward each
+      other with nothing between them, their tips swaying in the wind, workers on top holding the rails as the
+      steel creaks.
+  - id: arch-B
+    build: 91
+    kit: gatewayarch
+    # Facts: "the designers decided to use a stabilizing strut or truss instead at the 530-foot level", 255 ft long;
+    # it "connected the tops of the two legs and braced them against each other"; "A jacking frame was used to apply
+    # pressure against the two legs, allowing this last section to be set into position" (NPS architecture). A
+    # builder: "they had the St. Louis Fire Department run cold water on the back side of the south leg to keep the
+    # steel from expanding" (St. Louis Public Radio, Oct 27 2015). It "will sway up to 1 inch in a 20mph wind" (NPS
+    # 50th). Trams: "tracks for the passenger-train conveyor system" (NPS). The "1/64 inch" fit and "no deaths"
+    # claims are not confirmed. B4 teases build 92, a car seatbelt (LINEUP). B6: hot water loosens a stuck jar lid,
+    # the same heat growth as the sunny leg.
+    status: todo
+    file: buildit-arch-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): a long steel truss is lifted up and bolted between the two leaning steel legs high above the
+      park, bracing them against each other, the swaying stops, wide view. Shot 2 (5-10 s): close-up at the top,
+      the morning sun shining on one leg, the steel warms and the gap between the two legs narrows, the last
+      triangular section hanging on cables bumps the edges and will not slide in. Shot 3 (10-15 s): fire hoses spray
+      cold water down the shining side of the sunny steel leg, mist rising, then a big jacking frame at the top
+      presses the two legs apart and the last section slides down into place, 1965. Shot 4 (15-20 s): macro of a car
+      seatbelt buckle clicking into its lock in slow motion, then the strap pulls snug across the seat, warm light.
+      Shot 5 (20-25 s): the finished arch today on a bright autumn day, crowds of visitors in the green park below,
+      a cutaway shows small round tram pods climbing inside one curved leg to the top, slow aerial orbit. Shot 6
+      (25-30 s): funny slow motion, in a kitchen a man fights a stuck jar lid, runs it under hot water, and the lid
+      suddenly spins free and pickles fly across the counter while his dog watches.
