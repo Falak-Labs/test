@@ -1,0 +1,10 @@
+# lab: whole word said slowly in one take, to be cut at the pauses (test, Nov 23)
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | a12c | Yoo... zhuh... lee.
+L | l12c | Yoo... zhuh... lee.
+A | a12d | U... sual... ly.
+L | l12d | U... sual... ly.
+A | a12e | Usu... ally.
+L | l12e | Usu... ally.
+A | a12f | U... su... ally.
+L | l12f | U... su... ally.
