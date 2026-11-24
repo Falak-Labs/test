@@ -54,3 +54,4 @@
 - Nov 24 02:05 PT fountain-B confirmed done (fetched); zipper-A started, Seedance 2.5 unlimited 9:16 30s 720p (slot check chain, this chat)
 - Nov 24 02:18 PT zipper-A done (fetched buildit-zipper-sdA.mp4, hf_20261124_095922); zipper-B started, Seedance 2.5 unlimited 9:16 30s 720p. Computer runner trig_016h... ran 03:08-03:11 PT-equivalent (10:08Z) SUCCEEDED (2 min).
 - Nov 24 (slot check) zipper-B done (fetched buildit-zipper-sdB.mp4, hf_20261124_101537); hzmb-A started, Seedance 2.5 unlimited 9:16 30s 720p
+- Nov 24 02:48 PT hzmb-A done (fetched, hf_20261124_103140); hzmb-B started (shots 2,5,6 reworded), Seedance 2.5 unlimited 9:16 30s 720p

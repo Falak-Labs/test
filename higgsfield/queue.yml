@@ -177,7 +177,7 @@ jobs:
   - id: hzmb-A
     build: 82
     kit: hzmb
-    status: "generating (started: Nov 24 02:31 PT)"
+    status: done
     file: buildit-hzmb-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a six-lane highway bridge far out on the open sea runs onto a small man-made island and dives
@@ -192,7 +192,7 @@ jobs:
   - id: hzmb-B
     build: 82
     kit: hzmb
-    status: todo
+    status: "generating (started: Nov 24 02:48 PT; shots 2,5,6 reworded)"
     file: buildit-hzmb-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): deep underwater, a machine smooths a perfectly flat bed of gravel and rock in a trench on the
