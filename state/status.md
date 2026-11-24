@@ -1,4 +1,4 @@
-# Post status 2026-11-24T21:07:08+00:00
+# Post status 2026-11-24T21:58:39+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -394,8 +394,8 @@
 | ep72-petronas | en.tiktok | sent |  | 2026-11-24T19:04:13.990Z https://tiktok.com/@congratsengineer/video/7711815486765354254 |
 | ep73-pharos | ar.instagram | sent |  | 2026-11-24T17:05:43.032Z https://www.instagram.com/reel/DgIcovHB5Ht/ |
 | ep73-pharos | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T16:30:00.000Z |
-| ep73-pharos | en.instagram | scheduled |  | 2026-11-24T21:30:00.000Z |
-| ep73-pharos | en.tiktok | scheduled |  | 2026-11-24T21:30:00.000Z |
+| ep73-pharos | en.instagram | sent |  | 2026-11-24T21:31:32.588Z https://www.instagram.com/reel/DgI7NkKh7TW/ |
+| ep73-pharos | en.tiktok | sent |  | 2026-11-24T21:31:12.771Z https://tiktok.com/@congratsengineer/video/7711853488795389197 |
 | ep74-maraya | ar.instagram | sent |  | 2026-11-24T20:02:44.964Z https://www.instagram.com/reel/DgIxEvvgZNL/ |
 | ep74-maraya | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T20:30:00.000Z |
 | ep74-maraya | en.instagram | scheduled |  | 2026-11-25T00:00:00.000Z |
@@ -430,6 +430,8 @@
 | ep84-hooverdam | en.instagram | scheduled |  | 2026-11-25T20:00:00.000Z |
 | ep84-hooverdam | en.tiktok | scheduled |  | 2026-11-25T20:00:00.000Z |
 | ep85-dubaiframe | ar.instagram | scheduled |  | 2026-11-26T01:30:00.000Z |
+| ep85-dubaiframe | en.instagram | scheduled |  | 2026-11-25T22:30:00.000Z |
+| ep85-dubaiframe | en.tiktok | scheduled |  | 2026-11-25T22:30:00.000Z |
 | ep86-kettle | ar.instagram | scheduled |  | 2026-11-26T04:00:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://www.tiktok.com/@congratsengineer/video/7710759443809553677?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
