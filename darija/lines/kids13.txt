@@ -1,0 +1,12 @@
+# Yallah Say, episode 13: the pupils' English lines that both dialects share (hard word: Knowledge).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | I have a question.
+L | p02k | How do you say this in English?
+A | p03k | What does this mean?
+L | p04k | Can you help me?
+A | p05k | I understand now!
+A | w5 | Knowledge!
+L | v1 | Knowledge is light!
+L | Lw | Knowledge!
+A | Asl | Know... ledge.
+L | Lsl | Know... ledge.

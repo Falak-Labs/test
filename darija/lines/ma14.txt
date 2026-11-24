@@ -1,0 +1,12 @@
+# Yallah Say, episode 14 (ma): five phrases, quiz, hard word (Education) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | التعليم بالإنجليزية: ربعة مقاطع، واحد كيتقال بجهد. شمن واحد؟
+T | p01t | حل الكتاب ديالك.
+T | p02t | سمع و عاود.
+T | p03t | كتب سميتك.
+T | p04t | مزيان بزاف!
+T | p05t | عاود جرب.
+T | tw | Education.
+T | w6 | Good job! Education!
+T | v2 | التعليم هو ساروت المستقبل!
+T | Tsl | Ed... u... ca... tion.

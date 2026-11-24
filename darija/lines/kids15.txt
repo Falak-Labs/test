@@ -1,0 +1,12 @@
+# Yallah Say, episode 15: the pupils' English lines that both dialects share (hard word: Language).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | I'm learning English.
+L | p02k | I speak Arabic.
+A | p03k | A little.
+L | p04k | Slowly, please.
+A | p05k | I want to learn more!
+A | w5 | Language!
+L | v1 | Arabic is a beautiful language!
+L | Lw | Language!
+A | Asl | Lan... guage.
+L | Lsl | Lan... guage.

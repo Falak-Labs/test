@@ -1,0 +1,163 @@
+{
+ "title": "I have a question",
+ "slow_take": true,
+ "word": {
+  "full": "Knowledge",
+  "parts": [
+   "Know",
+   "ledge"
+  ],
+  "say": [
+   "NOL",
+   "ij"
+  ],
+  "tts": [
+   "Know",
+   "Ledge"
+  ],
+  "slow": "Know... ledge.",
+  "mean": "المعرفة",
+  "ar": {
+   "ma": "نوليج",
+   "pa": "نوليج"
+  }
+ },
+ "en": [
+  [
+   "I have a question.",
+   "A",
+   "fe:raise",
+   {}
+  ],
+  [
+   "How do you say this in English?",
+   "L",
+   "fe:speech",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "What does this mean?",
+   "A",
+   "what",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "Can you help me?",
+   "L",
+   "handshake",
+   {
+    "q": 1
+   }
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Adam kteb «Nolij» f-l-imti7an. Fin ghlat?",
+    "آدم كتب «نوليج» فالامتحان. فين غلط؟",
+    "Adam wrote “Nolij” in his exam. What did he get wrong?"
+   ]
+  ],
+  "board": [
+   "المعرفة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "3ndi so2al.",
+    "عندي سؤال."
+   ],
+   [
+    "Kifach katgoul hadi b-l-inglizia?",
+    "كيفاش كتقول هادي بالإنجليزية؟"
+   ],
+   [
+    "Chnou kat3ni hadi?",
+    "شنو كتعني هادي؟"
+   ],
+   [
+    "Momken t3awni?",
+    "ممكن تعاوني؟"
+   ],
+   [
+    "Daba fhemt!",
+    "دابا فهمت!"
+   ]
+  ],
+  "ph5": [
+   "I understand now!",
+   "A",
+   "fe:bulb",
+   {}
+  ],
+  "sent": {
+   "en": "Knowledge is light!",
+   "hot": [
+    0
+   ],
+   "dz": "L-3ilm nour!",
+   "ar": "العلم نور!"
+  },
+  "ah": [
+   "نو",
+   "لِدج"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Adam katab «Nolij» bil-imti7an. Wein ghilit?",
+    "آدم كتب «نوليج» بالامتحان. وين غلط؟",
+    "Adam wrote “Nolij” in his exam. What did he get wrong?"
+   ]
+  ],
+  "board": [
+   "المعرفة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "3indi su2al.",
+    "عندي سؤال."
+   ],
+   [
+    "Kif bt2ul hay bil-inglizi?",
+    "كيف بتقول هاي بالإنجليزي؟"
+   ],
+   [
+    "Shu ya3ni hay?",
+    "شو يعني هاي؟"
+   ],
+   [
+    "Mumkin tsa3dni?",
+    "ممكن تساعدني؟"
+   ],
+   [
+    "Halla2 fhimt!",
+    "هلأ فهمت!"
+   ]
+  ],
+  "ph5": [
+   "I understand now!",
+   "A",
+   "fe:bulb",
+   {}
+  ],
+  "sent": {
+   "en": "Knowledge is light!",
+   "hot": [
+    0
+   ],
+   "dz": "El-3ilm nur!",
+   "ar": "العلم نور!"
+  },
+  "ah": [
+   "نو",
+   "لِدج"
+  ]
+ }
+}

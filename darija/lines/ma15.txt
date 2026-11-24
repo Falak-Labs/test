@@ -1,0 +1,12 @@
+# Yallah Say, episode 15 (ma): five phrases, quiz, hard word (Language) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | آدم كيقول لان-غو-اج. واش صحيح؟
+T | p01t | كنتعلم الإنجليزية.
+T | p02t | كنهضر العربية.
+T | p03t | شوية.
+T | p04t | بشوية، عافاك.
+T | p05t | بغيت نتعلم كثر!
+T | tw | Language.
+T | w6 | Good job! Language!
+T | v2 | العربية لغة زوينة!
+T | Tsl | Lan... guage.

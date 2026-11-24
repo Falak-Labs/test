@@ -1,0 +1,12 @@
+# Yallah Say, episode 13 (pa): five phrases, quiz, hard word (Knowledge) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | آدم كتب نوليج بالامتحان. وين غلط؟
+T | p01t | عندي سؤال.
+T | p02t | كيف بتقول هاي بالإنجليزي؟
+T | p03t | شو يعني هاي؟
+T | p04t | ممكن تساعدني؟
+T | p05t | هلأ فهمت!
+T | tw | Knowledge.
+T | w6 | Good job! Knowledge!
+T | v2 | العلم نور!
+T | Tsl | Know... ledge.

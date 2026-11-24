@@ -1,0 +1,157 @@
+{
+ "title": "I'm learning English",
+ "slow_take": true,
+ "word": {
+  "full": "Language",
+  "parts": [
+   "Lan",
+   "guage"
+  ],
+  "say": [
+   "LANG",
+   "gwij"
+  ],
+  "tts": [
+   "Lang",
+   "Gwij"
+  ],
+  "slow": "Lan... guage.",
+  "mean": "اللغة",
+  "ar": {
+   "ma": "لانغويج",
+   "pa": "لانغويج"
+  }
+ },
+ "en": [
+  [
+   "I'm learning English.",
+   "A",
+   "fe:book",
+   {}
+  ],
+  [
+   "I speak Arabic.",
+   "L",
+   "globe",
+   {}
+  ],
+  [
+   "A little.",
+   "A",
+   "fe:pinch",
+   {}
+  ],
+  [
+   "Slowly, please.",
+   "L",
+   "fe:turtle",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Adam kaygoul «Lan-goo-aj». Wach s7i7?",
+    "آدم كيقول «لان-غو-اج». واش صحيح؟",
+    "Adam says “Lan-goo-aj”. Is he right?"
+   ]
+  ],
+  "board": [
+   "اللغة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Kanet3allem l-inglizia.",
+    "كنتعلم الإنجليزية."
+   ],
+   [
+    "Kanhder l-3arbia.",
+    "كنهضر العربية."
+   ],
+   [
+    "Chwiya.",
+    "شوية."
+   ],
+   [
+    "B-chwiya, 3afak.",
+    "بشوية، عافاك."
+   ],
+   [
+    "Bghit nt3allem ktar!",
+    "بغيت نتعلم كثر!"
+   ]
+  ],
+  "ph5": [
+   "I want to learn more!",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "Arabic is a beautiful language!",
+   "hot": [
+    4
+   ],
+   "dz": "L-3arbia logha zwina!",
+   "ar": "العربية لغة زوينة!"
+  },
+  "ah": [
+   "لانغ",
+   "ويج"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Adam bi2ul «Lan-goo-aj». Sa7?",
+    "آدم بقول «لان-غو-اج». صح؟",
+    "Adam says “Lan-goo-aj”. Is he right?"
+   ]
+  ],
+  "board": [
+   "اللغة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Bat3allam inglizi.",
+    "بتعلم إنجليزي."
+   ],
+   [
+    "Bahki 3arabi.",
+    "بحكي عربي."
+   ],
+   [
+    "Shwayy.",
+    "شوي."
+   ],
+   [
+    "Shwayy shwayy, law samaht.",
+    "شوي شوي، لو سمحت."
+   ],
+   [
+    "Biddi at3allam aktar!",
+    "بدي أتعلم أكثر!"
+   ]
+  ],
+  "ph5": [
+   "I want to learn more!",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "Arabic is a beautiful language!",
+   "hot": [
+    4
+   ],
+   "dz": "El-3arabi lugha 7ilwe!",
+   "ar": "العربي لغة حلوة!"
+  },
+  "ah": [
+   "لانغ",
+   "ويج"
+  ]
+ }
+}

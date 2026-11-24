@@ -1,0 +1,167 @@
+{
+ "title": "In class",
+ "slow_take": true,
+ "word": {
+  "full": "Education",
+  "parts": [
+   "Ed",
+   "u",
+   "ca",
+   "tion"
+  ],
+  "say": [
+   "ej",
+   "oo",
+   "KAY",
+   "shun"
+  ],
+  "tts": [
+   "Ed",
+   "U",
+   "Ca",
+   "Tion"
+  ],
+  "slow": "Ed... u... ca... tion.",
+  "mean": "التعليم",
+  "ar": {
+   "ma": "إيديوكيشن",
+   "pa": "إيديوكيشن"
+  }
+ },
+ "en": [
+  [
+   "Open your book.",
+   "A",
+   "fe:book",
+   {}
+  ],
+  [
+   "Listen and repeat.",
+   "L",
+   "again",
+   {}
+  ],
+  [
+   "Write your name.",
+   "A",
+   "fe:pencil",
+   {}
+  ],
+  [
+   "Very good!",
+   "L",
+   "fe:star",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "«T-ta3lim» b-l-inglizia: 4 mqate3, wa7d kaytgal b-jhed. Chmen wa7d?",
+    "«التعليم» بالإنجليزية: ربعة مقاطع، واحد كيتقال بجهد. شمن واحد؟",
+    "“T-ta3lim” in English: 4 parts, one is said louder. Which one?"
+   ]
+  ],
+  "board": [
+   "التعليم",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "7ell lktab dyalek.",
+    "حل الكتاب ديالك."
+   ],
+   [
+    "Sme3 w 3awed.",
+    "سمع و عاود."
+   ],
+   [
+    "Kteb smiytek.",
+    "كتب سميتك."
+   ],
+   [
+    "Mzyan bzaf!",
+    "مزيان بزاف!"
+   ],
+   [
+    "3awed jereb.",
+    "عاود جرب."
+   ]
+  ],
+  "ph5": [
+   "Try again.",
+   "A",
+   "again",
+   {}
+  ],
+  "sent": {
+   "en": "Education is the key to the future!",
+   "hot": [
+    0
+   ],
+   "dz": "T-ta3lim howa sarout l-mostaqbal!",
+   "ar": "التعليم هو ساروت المستقبل!"
+  },
+  "ah": [
+   "إيد",
+   "يو",
+   "كاي",
+   "شن"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "«Et-ta3lim» bil-inglizi: 4 maqate3, wa7ad bin2al a2wa. Ayya wa7ad?",
+    "«التعليم» بالإنجليزي: أربع مقاطع، واحد بنقال أقوى. أي واحد؟",
+    "“Et-ta3lim” in English: 4 parts, one is said louder. Which one?"
+   ]
+  ],
+  "board": [
+   "التعليم",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Iftah ktabak.",
+    "افتح كتابك."
+   ],
+   [
+    "Isma3 w 3id.",
+    "اسمع و عيد."
+   ],
+   [
+    "Ktub ismak.",
+    "اكتب اسمك."
+   ],
+   [
+    "Mumtaz!",
+    "ممتاز!"
+   ],
+   [
+    "Jarrib kaman marra.",
+    "جرب كمان مرة."
+   ]
+  ],
+  "ph5": [
+   "Try again.",
+   "A",
+   "again",
+   {}
+  ],
+  "sent": {
+   "en": "Education is the key to the future!",
+   "hot": [
+    0
+   ],
+   "dz": "Et-ta3lim huwe miftah el-mustaqbal!",
+   "ar": "التعليم هو مفتاح المستقبل!"
+  },
+  "ah": [
+   "إيد",
+   "يو",
+   "كاي",
+   "شن"
+  ]
+ }
+}
