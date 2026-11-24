@@ -2,7 +2,7 @@
 # takes the first job with status: todo, generates it on higgsfield.ai (unlimited mode only), and when it is done
 # fetches it into the ai-media release as `file` and sets status: done + url. Other chats share the account:
 # never start a job while History shows "Generating".
-# status: todo | generating (started: <PT time>) | done | failed (why)
+# status: todo | "generating (started: <PT time>)" | done | "failed (why)"  (keep the quotes: a bare ": " breaks the YAML)
 style: >-
   Cinematic photoreal 3D, documentary style, one consistent look, volumetric light, shallow depth of field,
   no text, no logos, no subtitles. Six shots with hard cuts, 5 seconds each.
