@@ -288,7 +288,10 @@ jobs:
     # 300 psi. Concrete came in 4 and 8 cu yd buckets on nine overhead cableways. The spillways (four 100 x 16 ft
     # drum gates each) were used only twice: a 1941 test and the 1983 flood (usbr.gov concrete.html, spillways.html;
     # NPS; ASCE). B4 teases build 85, the Dubai Frame (LINEUP). B6: the middle of a big dish stays hot longest.
-    status: "generating (started: Nov 24 03:52 PT; shots 3,5,6 reworded)"
+    # Nov 24 04:12 PT: History 3f2f130b ran without the style line (its prompt starts at "Shot 1"): check the look
+    # and the five cuts before use.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_115235_3f2f130b-8ac2-48aa-b81a-7e30f6391c74.mp4
     file: buildit-hoover-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): cutaway of one square concrete block of the dam, thin steel pipes looping back and forth inside
