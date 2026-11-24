@@ -1,6 +1,6 @@
 {
  "enabled": true,
- "lead_minutes": 5760,
+ "lead_minutes": 2880,
  "delay_minutes": [
   4,
   7
@@ -15,7 +15,8 @@
   "youtube_route": "Buffer first (its free plan sends 2 YouTube posts per channel in any 24 hours; the -yt queue files keep 24 h 20 min between a channel's posts). YouTube Studio in the owner's Chrome for the rest, once he has verified the two new channels (Studio answers 'Daily upload limit reached' until then).",
   "rule": "Always try every method (the owner, Nov 2026): when one method fails, the next one in accounts.<lang>.routes posts it; report only when all have failed.",
   "tiktok": "TikTok takes 15 posts through the API per account in any 24 hours (kit/series/NIGHT_NOTES.md, Nov 11 2026), so stories 16-19 of the launch go to TikTok once stories 1-4 are 24 hours old: the queue files ending in -tt. A TikTok post refused as 'potential spam' is refused on the request, not on the video: queue it again a few hours later.",
-  "timing": "GitHub's own timer runs hours late or not at all in this repo, so posts are handed to Buffer up to lead_minutes ahead (9 hours: at most 8 waiting per channel, Buffer's free plan holds 10) and the workflow 'Scary clock' starts 'Scary posts' every clock.every_minutes until clock.until."
+  "timing": "GitHub's own timer runs hours late or not at all in this repo, so posts are handed to Buffer up to lead_minutes ahead (9 hours: at most 8 waiting per channel, Buffer's free plan holds 10) and the workflow 'Scary clock' starts 'Scary posts' every clock.every_minutes until clock.until.",
+  "daily": "From Nov 24 2026 (owner, Nov 23 23:50 PT): one story a day = 3 Shorts per language (Part 1/2/3, instagram + tiktok through Buffer) + the full story as a long YouTube video. lead_minutes 2880 keeps at most 6 waiting per channel (Buffer free holds 10). Queue files are pushed the day before, which starts 'Scary posts'."
  },
  "accounts": {
   "en": {
