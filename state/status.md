@@ -1,4 +1,4 @@
-# Post status 2026-11-24T03:29:47+00:00
+# Post status 2026-11-24T04:16:12+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -392,6 +392,12 @@
 | ep72-petronas | ar.tiktok | scheduled |  | 2026-11-24T14:00:00.000Z |
 | ep72-petronas | en.instagram | scheduled |  | 2026-11-24T19:00:00.000Z |
 | ep72-petronas | en.tiktok | scheduled |  | 2026-11-24T19:00:00.000Z |
+| ep73-pharos | ar.instagram | scheduled |  | 2026-11-24T17:00:00.000Z |
+| ep73-pharos | en.instagram | scheduled |  | 2026-11-24T21:30:00.000Z |
+| ep73-pharos | en.tiktok | scheduled |  | 2026-11-24T21:30:00.000Z |
+| ep74-maraya | ar.instagram | scheduled |  | 2026-11-24T20:00:00.000Z |
+| ep74-maraya | en.instagram | scheduled |  | 2026-11-25T00:00:00.000Z |
+| ep74-maraya | en.tiktok | scheduled |  | 2026-11-25T00:00:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://tiktok.com/@congratsengineer/video/7710759443809553677 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
