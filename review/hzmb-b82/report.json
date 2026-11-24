@@ -1,0 +1,28 @@
+{
+ "slug": "hzmb-b82",
+ "kit": "hzmb",
+ "style": "seedance",
+ "en": {
+  "duration": 70.7,
+  "lufs": -15.1,
+  "peak": -1.4,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [
+   "loudness -15.1"
+  ],
+  "size_mb": 27.4,
+  "cover": true
+ },
+ "ar": {
+  "duration": 67.4,
+  "lufs": -15.0,
+  "peak": -1.3,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 26.4,
+  "cover": true,
+  "ok": true
+ }
+}
