@@ -219,6 +219,8 @@ def refresh(slug, tag):
         acc = Account(key, lang); d = ep[lang]
         for platform in PLATFORMS:
             tgt = f"{lang}.{platform}"; old = st["targets"].get(tgt) or {}
+            if old.get("video_tag") == tag:
+                log(f"{slug} {tgt}: already has video {tag}"); continue
             if not old.get("id") or old.get("status") not in ("scheduled", "buffer", "draft", None):
                 log(f"{slug} {tgt}: nothing scheduled to refresh ({old.get('status')})"); continue
             inp = {"channelId": old["channel"], "text": caption(d, platform), "schedulingType": "automatic", "mode": "customScheduled",
@@ -244,6 +246,16 @@ def refresh(slug, tag):
                 except (BufferError, requests.RequestException, RuntimeError) as e2:
                     log(f"{slug} {tgt}: FAILED to replace: {str(e2)[:300]}")
     save_state(slug, st)
+    for lang in ("ma", "pa"):          # what Buffer now holds for the day of these posts: each target once
+        key = os.environ.get(CFG["accounts"][lang]["secret"], "").strip()
+        if not key:
+            continue
+        acc = Account(key, lang); org = acc.buf.organizations()[0]["id"]
+        mine = {v["id"] for k, v in st["targets"].items() if k.startswith(lang + ".")}
+        days = {v.get("dueAt", "")[:10] for k, v in st["targets"].items() if k.startswith(lang + ".")}
+        for p in acc.buf.posts(org, ["scheduled", "buffer", "draft", "needs_approval"]):
+            if (p.get("dueAt") or "")[:10] in days:
+                log(f"{lang} scheduled: {p.get('dueAt')} {p.get('channelService')} {p.get('id')} {'(ep ' + slug + ')' if p.get('id') in mine else '(other)'} {(p.get('text') or '')[:30]}")
     with open(os.path.join(HERE, "state", "last-run.md"), "w", encoding="utf-8") as f:
         f.write(f"# Yallah Say refresh of {slug} {NOW.isoformat(timespec='seconds')}\n\n" + "\n".join(f"- {m}" for m in LOG) + "\n")
 
