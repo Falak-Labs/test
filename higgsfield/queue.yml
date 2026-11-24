@@ -13,7 +13,8 @@ jobs:
   - id: cooker-A
     build: 76
     kit: cooker
-    status: generating (started: Nov 23 20:59 PT)
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_045937_078dee7d-f3a5-434e-a0ea-2d97fdc2c76c.mp4
     file: buildit-cooker-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): extreme close-up of a steel pressure cooker on a gas flame, the whistle on the lid shrieks and
@@ -26,7 +27,7 @@ jobs:
   - id: cooker-B
     build: 76
     kit: cooker
-    status: todo
+    status: generating (started: Nov 23 21:19 PT)
     file: buildit-cooker-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): cutaway of the lid showing a small metal safety plug that melts and vents the steam sideways,

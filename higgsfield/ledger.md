@@ -20,3 +20,4 @@
 2026-11-23 20:36 | scary | GPT Image 2.6 Sunburst 16:9 2K (unlimited) | scary-roushdy-thumb-en.png | EMPTY FOR 60 YEARS / WHO TURNS ON THE LIGHT? | Roushdy long video thumbnail (EN)
 2026-11-23 20:31 | scary | Seedance 2.5 720p 9:16 30s, 6 shots (unlimited) | scary-roushdy-6shots.mp4 | unfinished concrete block Alexandria night: flickering window, bricked entrance, flashlight stairwell, empty apartment with shape, passersby, top window light on/off | Roushdy Short (EN+AR); reusable for any abandoned-building story
 - Nov 23 20:59 PT · Seedance 2.5 unlimited 30 s 9:16 · Build-It 76 pressure cooker job A (queue cooker-A) → buildit-cooker-sdA.mp4
+- Nov 23 21:19 PT · Seedance 2.5 unlimited 30 s 9:16 · Build-It 76 pressure cooker job B (queue cooker-B) → buildit-cooker-sdB.mp4
