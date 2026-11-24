@@ -56,6 +56,7 @@ scenes:
   - id: WealthSplit
     lines: [8]
     cues: {split: [8, "هتتقسم"], gone: [8, "موجود"]}
+    labels: [شقة, عربية, أرض, رصيد]
   - id: OneThing
     lines: [9, 10]
     cues: {one: [9, "واحدة"], deed: [10, "عملك"]}

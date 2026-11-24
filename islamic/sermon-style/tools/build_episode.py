@@ -71,7 +71,10 @@ for i, s in enumerate(sl):
     else:
         end = total
     cues = {k: fr(word_t(*v)) for k, v in (s.get("cues") or {}).items()}
-    scenes.append({"id": s["id"], "from": fr(max(0, start)), "to": fr(end), "cue": cues})
+    span = {"id": s["id"], "from": fr(max(0, start)), "to": fr(end), "cue": cues}
+    if s.get("labels"):
+        span["labels"] = list(s["labels"])  # on-screen words that depend on the dialect
+    scenes.append(span)
 
 ep = {"fps": FPS, "durationInFrames": dur_frames, "palette": sp.get("palette", "slate"), "beats": beats, "scenes": scenes}
 if card:

@@ -16,7 +16,7 @@ loadFont({family: FONT.naskh, url: staticFile('fonts/Amiri-Regular.ttf'), weight
 loadFont({family: FONT.naskh, url: staticFile('fonts/Amiri-Bold.ttf'), weight: '700'});
 
 export type Beat = {from: number; to: number; head?: Seg[]; sub?: string; subFrom?: number; subColor?: 'w' | 'r' | 'g'; echo?: number};
-export type SceneSpan = {id: string; from: number; to: number; cue: Record<string, number>};
+export type SceneSpan = {id: string; from: number; to: number; cue: Record<string, number>; labels?: string[]};
 export type Episode = {
   fps: number; durationInFrames: number; palette?: string;
   beats: Beat[]; scenes: SceneSpan[];
@@ -57,7 +57,7 @@ export const Sermon: React.FC<{episode: Episode; layout: Layout}> = ({episode, l
           {episode.scenes.map((s, i) => {
             if (f < s.from - 2 || f > s.to + 2) return null;
             const S = SCENES[s.id];
-            return S ? <S key={i} f={f} a={s.from} b={s.to} cue={s.cue} /> : null;
+            return S ? <S key={i} f={f} a={s.from} b={s.to} cue={s.cue} labels={s.labels} /> : null;
           })}
         </g>
       </svg>

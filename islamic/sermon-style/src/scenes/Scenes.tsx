@@ -4,7 +4,7 @@ import {draw, lerp, life, pulse, ramp, rnd} from '../anim';
 import {Figure, Ground, Label, Orb, Pool} from './Primitives';
 
 // Every scene is drawn on a 1080 x 1920 stage: centre x 540, illustration around y 640, ground at y 860.
-export type SceneProps = {f: number; a: number; b: number; cue: Record<string, number>};
+export type SceneProps = {f: number; a: number; b: number; cue: Record<string, number>; labels?: string[]};
 const G = 860;
 const gate = (x: number, o = 1) => (
   <g opacity={o}>
@@ -229,13 +229,13 @@ export const FamilyHome: React.FC<SceneProps> = ({f, a, b, cue}) => {
 };
 
 // 6. your wealth is divided while you are gone
-export const WealthSplit: React.FC<SceneProps> = ({f, a, b, cue}) => {
+export const WealthSplit: React.FC<SceneProps> = ({f, a, b, cue, labels}) => {
   const o = life(f, a, b, 10, 12);
   const split = cue.split !== undefined ? ramp(f, cue.split, cue.split + 26) : 0;
   const gone = cue.gone !== undefined ? ramp(f, cue.gone, cue.gone + 24) : 0;
   const bars = [
-    {x: 360, h: 170, l: 'شقة'}, {x: 455, h: 250, l: 'عربية'}, {x: 550, h: 205, l: 'أرض'}, {x: 645, h: 290, l: 'رصيد'},
-  ];
+    {x: 360, h: 170, l: 'شقة'}, {x: 455, h: 250, l: 'سيارة'}, {x: 550, h: 205, l: 'أرض'}, {x: 645, h: 290, l: 'رصيد'},
+  ].map((br, i) => ({...br, l: labels?.[i] ?? br.l})); // labels follow the episode's dialect
   const w = 66;
   return (
     <g opacity={o}>
