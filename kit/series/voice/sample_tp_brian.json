@@ -1,0 +1,1128 @@
+{
+ "voice": "elevenlabs:nPczCjzI2devNBz1zQrb",
+ "model": "eleven_multilingual_v2",
+ "tempo": 1.0,
+ "gap": 0.35,
+ "duration": 63.347,
+ "words": 201,
+ "words_per_sec": 3.17,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.181,
+   "text": "This gold ball is the only thing keeping this tower up in a typhoon.",
+   "words": [
+    {
+     "w": "This",
+     "start": 0.0,
+     "end": 0.175
+    },
+    {
+     "w": "gold",
+     "start": 0.244,
+     "end": 0.5
+    },
+    {
+     "w": "ball",
+     "start": 0.534,
+     "end": 0.755
+    },
+    {
+     "w": "is",
+     "start": 0.802,
+     "end": 0.848
+    },
+    {
+     "w": "the",
+     "start": 0.883,
+     "end": 0.952
+    },
+    {
+     "w": "only",
+     "start": 1.011,
+     "end": 1.185
+    },
+    {
+     "w": "thing",
+     "start": 1.231,
+     "end": 1.394
+    },
+    {
+     "w": "keeping",
+     "start": 1.452,
+     "end": 1.73
+    },
+    {
+     "w": "this",
+     "start": 1.765,
+     "end": 1.893
+    },
+    {
+     "w": "tower",
+     "start": 1.951,
+     "end": 2.241
+    },
+    {
+     "w": "up",
+     "start": 2.299,
+     "end": 2.369
+    },
+    {
+     "w": "in",
+     "start": 2.427,
+     "end": 2.473
+    },
+    {
+     "w": "a",
+     "start": 2.52,
+     "end": 2.543
+    },
+    {
+     "w": "typhoon.",
+     "start": 2.589,
+     "end": 3.623
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 3.531,
+   "end": 8.188,
+   "text": "Taipei gets typhoons every year, and earthquakes shake the ground. So how does it stay up?",
+   "words": [
+    {
+     "w": "Taipei",
+     "start": 3.531,
+     "end": 3.95
+    },
+    {
+     "w": "gets",
+     "start": 4.008,
+     "end": 4.17
+    },
+    {
+     "w": "typhoons",
+     "start": 4.217,
+     "end": 4.67
+    },
+    {
+     "w": "every",
+     "start": 4.728,
+     "end": 4.913
+    },
+    {
+     "w": "year,",
+     "start": 4.96,
+     "end": 5.355
+    },
+    {
+     "w": "and",
+     "start": 5.449,
+     "end": 5.611
+    },
+    {
+     "w": "earthquakes",
+     "start": 5.669,
+     "end": 6.169
+    },
+    {
+     "w": "shake",
+     "start": 6.203,
+     "end": 6.436
+    },
+    {
+     "w": "the",
+     "start": 6.47,
+     "end": 6.54
+    },
+    {
+     "w": "ground.",
+     "start": 6.575,
+     "end": 6.993
+    },
+    {
+     "w": "So",
+     "start": 7.114,
+     "end": 7.241
+    },
+    {
+     "w": "how",
+     "start": 7.299,
+     "end": 7.381
+    },
+    {
+     "w": "does",
+     "start": 7.427,
+     "end": 7.543
+    },
+    {
+     "w": "it",
+     "start": 7.59,
+     "end": 7.648
+    },
+    {
+     "w": "stay",
+     "start": 7.683,
+     "end": 7.903
+    },
+    {
+     "w": "up?",
+     "start": 7.973,
+     "end": 8.878
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.538,
+   "end": 14.297,
+   "text": "First, you build it like bamboo: eight sections of eight floors, on steel columns filled with concrete.",
+   "words": [
+    {
+     "w": "First,",
+     "start": 8.538,
+     "end": 8.886
+    },
+    {
+     "w": "you",
+     "start": 8.91,
+     "end": 8.991
+    },
+    {
+     "w": "build",
+     "start": 9.06,
+     "end": 9.223
+    },
+    {
+     "w": "it",
+     "start": 9.269,
+     "end": 9.316
+    },
+    {
+     "w": "like",
+     "start": 9.351,
+     "end": 9.502
+    },
+    {
+     "w": "bamboo:",
+     "start": 9.548,
+     "end": 10.221
+    },
+    {
+     "w": "eight",
+     "start": 10.36,
+     "end": 10.569
+    },
+    {
+     "w": "sections",
+     "start": 10.627,
+     "end": 11.033
+    },
+    {
+     "w": "of",
+     "start": 11.068,
+     "end": 11.126
+    },
+    {
+     "w": "eight",
+     "start": 11.173,
+     "end": 11.324
+    },
+    {
+     "w": "floors,",
+     "start": 11.359,
+     "end": 11.958
+    },
+    {
+     "w": "on",
+     "start": 12.041,
+     "end": 12.192
+    },
+    {
+     "w": "steel",
+     "start": 12.285,
+     "end": 12.599
+    },
+    {
+     "w": "columns",
+     "start": 12.68,
+     "end": 13.075
+    },
+    {
+     "w": "filled",
+     "start": 13.121,
+     "end": 13.33
+    },
+    {
+     "w": "with",
+     "start": 13.353,
+     "end": 13.458
+    },
+    {
+     "w": "concrete.",
+     "start": 13.504,
+     "end": 14.297
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.647,
+   "end": 18.047,
+   "text": "But a tall tower sways, and people at the top get seasick.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.647,
+     "end": 14.782
+    },
+    {
+     "w": "a",
+     "start": 14.817,
+     "end": 14.852
+    },
+    {
+     "w": "tall",
+     "start": 14.91,
+     "end": 15.188
+    },
+    {
+     "w": "tower",
+     "start": 15.258,
+     "end": 15.583
+    },
+    {
+     "w": "sways,",
+     "start": 15.664,
+     "end": 16.175
+    },
+    {
+     "w": "and",
+     "start": 16.21,
+     "end": 16.314
+    },
+    {
+     "w": "people",
+     "start": 16.373,
+     "end": 16.616
+    },
+    {
+     "w": "at",
+     "start": 16.651,
+     "end": 16.709
+    },
+    {
+     "w": "the",
+     "start": 16.744,
+     "end": 16.814
+    },
+    {
+     "w": "top",
+     "start": 16.849,
+     "end": 17.069
+    },
+    {
+     "w": "get",
+     "start": 17.127,
+     "end": 17.255
+    },
+    {
+     "w": "seasick.",
+     "start": 17.313,
+     "end": 18.048
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.397,
+   "end": 23.379,
+   "text": "So near the top, you hang a steel ball as heavy as five hundred cars, on thick cables.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.397,
+     "end": 18.571
+    },
+    {
+     "w": "near",
+     "start": 18.641,
+     "end": 18.78
+    },
+    {
+     "w": "the",
+     "start": 18.838,
+     "end": 18.908
+    },
+    {
+     "w": "top,",
+     "start": 18.954,
+     "end": 19.303
+    },
+    {
+     "w": "you",
+     "start": 19.337,
+     "end": 19.43
+    },
+    {
+     "w": "hang",
+     "start": 19.5,
+     "end": 19.639
+    },
+    {
+     "w": "a",
+     "start": 19.686,
+     "end": 19.709
+    },
+    {
+     "w": "steel",
+     "start": 19.767,
+     "end": 20.046
+    },
+    {
+     "w": "ball",
+     "start": 20.115,
+     "end": 20.406
+    },
+    {
+     "w": "as",
+     "start": 20.475,
+     "end": 20.556
+    },
+    {
+     "w": "heavy",
+     "start": 20.615,
+     "end": 20.812
+    },
+    {
+     "w": "as",
+     "start": 20.858,
+     "end": 20.928
+    },
+    {
+     "w": "five",
+     "start": 20.986,
+     "end": 21.23
+    },
+    {
+     "w": "hundred",
+     "start": 21.265,
+     "end": 21.497
+    },
+    {
+     "w": "cars,",
+     "start": 21.532,
+     "end": 22.019
+    },
+    {
+     "w": "on",
+     "start": 22.13,
+     "end": 22.293
+    },
+    {
+     "w": "thick",
+     "start": 22.362,
+     "end": 22.548
+    },
+    {
+     "w": "cables.",
+     "start": 22.606,
+     "end": 23.378
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.729,
+   "end": 27.512,
+   "text": "But if it swings at the wrong rhythm, it shakes the tower even more.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.729,
+     "end": 23.868
+    },
+    {
+     "w": "if",
+     "start": 23.903,
+     "end": 23.973
+    },
+    {
+     "w": "it",
+     "start": 24.031,
+     "end": 24.1
+    },
+    {
+     "w": "swings",
+     "start": 24.158,
+     "end": 24.518
+    },
+    {
+     "w": "at",
+     "start": 24.553,
+     "end": 24.623
+    },
+    {
+     "w": "the",
+     "start": 24.658,
+     "end": 24.727
+    },
+    {
+     "w": "wrong",
+     "start": 24.774,
+     "end": 25.006
+    },
+    {
+     "w": "rhythm,",
+     "start": 25.076,
+     "end": 25.563
+    },
+    {
+     "w": "it",
+     "start": 25.727,
+     "end": 25.843
+    },
+    {
+     "w": "shakes",
+     "start": 25.925,
+     "end": 26.261
+    },
+    {
+     "w": "the",
+     "start": 26.308,
+     "end": 26.378
+    },
+    {
+     "w": "tower",
+     "start": 26.436,
+     "end": 26.761
+    },
+    {
+     "w": "even",
+     "start": 26.842,
+     "end": 27.051
+    },
+    {
+     "w": "more.",
+     "start": 27.109,
+     "end": 28.003
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.862,
+   "end": 32.547,
+   "text": "So you tune it to the tower's rhythm: when the tower leans one way, the ball swings the other.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.862,
+     "end": 28.025
+    },
+    {
+     "w": "you",
+     "start": 28.083,
+     "end": 28.164
+    },
+    {
+     "w": "tune",
+     "start": 28.222,
+     "end": 28.419
+    },
+    {
+     "w": "it",
+     "start": 28.442,
+     "end": 28.512
+    },
+    {
+     "w": "to",
+     "start": 28.547,
+     "end": 28.593
+    },
+    {
+     "w": "the",
+     "start": 28.663,
+     "end": 28.733
+    },
+    {
+     "w": "tower's",
+     "start": 28.768,
+     "end": 29.116
+    },
+    {
+     "w": "rhythm:",
+     "start": 29.162,
+     "end": 29.58
+    },
+    {
+     "w": "when",
+     "start": 29.653,
+     "end": 29.816
+    },
+    {
+     "w": "the",
+     "start": 29.851,
+     "end": 29.92
+    },
+    {
+     "w": "tower",
+     "start": 29.967,
+     "end": 30.246
+    },
+    {
+     "w": "leans",
+     "start": 30.315,
+     "end": 30.547
+    },
+    {
+     "w": "one",
+     "start": 30.629,
+     "end": 30.814
+    },
+    {
+     "w": "way,",
+     "start": 30.849,
+     "end": 31.256
+    },
+    {
+     "w": "the",
+     "start": 31.372,
+     "end": 31.465
+    },
+    {
+     "w": "ball",
+     "start": 31.523,
+     "end": 31.708
+    },
+    {
+     "w": "swings",
+     "start": 31.755,
+     "end": 32.045
+    },
+    {
+     "w": "the",
+     "start": 32.08,
+     "end": 32.15
+    },
+    {
+     "w": "other.",
+     "start": 32.208,
+     "end": 33.032
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.897,
+   "end": 34.751,
+   "text": "But now the ball won't stop swinging.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.897,
+     "end": 33.04
+    },
+    {
+     "w": "now",
+     "start": 33.098,
+     "end": 33.249
+    },
+    {
+     "w": "the",
+     "start": 33.307,
+     "end": 33.388
+    },
+    {
+     "w": "ball",
+     "start": 33.435,
+     "end": 33.609
+    },
+    {
+     "w": "won't",
+     "start": 33.644,
+     "end": 33.829
+    },
+    {
+     "w": "stop",
+     "start": 33.864,
+     "end": 34.085
+    },
+    {
+     "w": "swinging.",
+     "start": 34.143,
+     "end": 34.751
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 35.101,
+   "end": 40.269,
+   "text": "So you put eight giant pistons under it, like shock absorbers, and they turn the swing into heat.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.101,
+     "end": 35.264
+    },
+    {
+     "w": "you",
+     "start": 35.31,
+     "end": 35.38
+    },
+    {
+     "w": "put",
+     "start": 35.449,
+     "end": 35.612
+    },
+    {
+     "w": "eight",
+     "start": 35.693,
+     "end": 35.902
+    },
+    {
+     "w": "giant",
+     "start": 35.96,
+     "end": 36.274
+    },
+    {
+     "w": "pistons",
+     "start": 36.332,
+     "end": 36.819
+    },
+    {
+     "w": "under",
+     "start": 36.889,
+     "end": 37.075
+    },
+    {
+     "w": "it,",
+     "start": 37.144,
+     "end": 37.341
+    },
+    {
+     "w": "like",
+     "start": 37.443,
+     "end": 37.617
+    },
+    {
+     "w": "shock",
+     "start": 37.652,
+     "end": 37.942
+    },
+    {
+     "w": "absorbers,",
+     "start": 38.001,
+     "end": 38.639
+    },
+    {
+     "w": "and",
+     "start": 38.722,
+     "end": 38.873
+    },
+    {
+     "w": "they",
+     "start": 38.92,
+     "end": 39.036
+    },
+    {
+     "w": "turn",
+     "start": 39.094,
+     "end": 39.326
+    },
+    {
+     "w": "the",
+     "start": 39.384,
+     "end": 39.454
+    },
+    {
+     "w": "swing",
+     "start": 39.488,
+     "end": 39.721
+    },
+    {
+     "w": "into",
+     "start": 39.767,
+     "end": 39.906
+    },
+    {
+     "w": "heat.",
+     "start": 39.976,
+     "end": 40.847
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 40.619,
+   "end": 42.933,
+   "text": "Follow, because next we're building a dishwasher.",
+   "words": [
+    {
+     "w": "Follow,",
+     "start": 40.619,
+     "end": 41.049
+    },
+    {
+     "w": "because",
+     "start": 41.083,
+     "end": 41.374
+    },
+    {
+     "w": "next",
+     "start": 41.443,
+     "end": 41.687
+    },
+    {
+     "w": "we're",
+     "start": 41.722,
+     "end": 41.85
+    },
+    {
+     "w": "building",
+     "start": 41.873,
+     "end": 42.117
+    },
+    {
+     "w": "a",
+     "start": 42.152,
+     "end": 42.175
+    },
+    {
+     "w": "dishwasher.",
+     "start": 42.233,
+     "end": 43.498
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 43.283,
+   "end": 49.438,
+   "text": "In twenty fifteen, the biggest typhoon yet swung that ball a full meter, and the tower stood calm.",
+   "words": [
+    {
+     "w": "In",
+     "start": 43.283,
+     "end": 43.449
+    },
+    {
+     "w": "twenty",
+     "start": 43.496,
+     "end": 43.774
+    },
+    {
+     "w": "fifteen,",
+     "start": 43.832,
+     "end": 44.506
+    },
+    {
+     "w": "the",
+     "start": 44.62,
+     "end": 44.736
+    },
+    {
+     "w": "biggest",
+     "start": 44.806,
+     "end": 45.142
+    },
+    {
+     "w": "typhoon",
+     "start": 45.177,
+     "end": 45.711
+    },
+    {
+     "w": "yet",
+     "start": 45.781,
+     "end": 46.013
+    },
+    {
+     "w": "swung",
+     "start": 46.129,
+     "end": 46.408
+    },
+    {
+     "w": "that",
+     "start": 46.466,
+     "end": 46.594
+    },
+    {
+     "w": "ball",
+     "start": 46.663,
+     "end": 46.919
+    },
+    {
+     "w": "a",
+     "start": 46.977,
+     "end": 47.0
+    },
+    {
+     "w": "full",
+     "start": 47.07,
+     "end": 47.302
+    },
+    {
+     "w": "meter,",
+     "start": 47.36,
+     "end": 47.823
+    },
+    {
+     "w": "and",
+     "start": 47.869,
+     "end": 48.02
+    },
+    {
+     "w": "the",
+     "start": 48.067,
+     "end": 48.136
+    },
+    {
+     "w": "tower",
+     "start": 48.183,
+     "end": 48.45
+    },
+    {
+     "w": "stood",
+     "start": 48.508,
+     "end": 48.717
+    },
+    {
+     "w": "calm.",
+     "start": 48.763,
+     "end": 49.439
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 49.788,
+   "end": 55.299,
+   "text": "Six hundred sixty tons, five and a half meters wide, and forty percent less sway.",
+   "words": [
+    {
+     "w": "Six",
+     "start": 49.788,
+     "end": 50.148
+    },
+    {
+     "w": "hundred",
+     "start": 50.206,
+     "end": 50.531
+    },
+    {
+     "w": "sixty",
+     "start": 50.682,
+     "end": 51.135
+    },
+    {
+     "w": "tons,",
+     "start": 51.193,
+     "end": 51.768
+    },
+    {
+     "w": "five",
+     "start": 51.882,
+     "end": 52.173
+    },
+    {
+     "w": "and",
+     "start": 52.207,
+     "end": 52.277
+    },
+    {
+     "w": "a",
+     "start": 52.312,
+     "end": 52.335
+    },
+    {
+     "w": "half",
+     "start": 52.393,
+     "end": 52.567
+    },
+    {
+     "w": "meters",
+     "start": 52.637,
+     "end": 52.904
+    },
+    {
+     "w": "wide,",
+     "start": 52.974,
+     "end": 53.45
+    },
+    {
+     "w": "and",
+     "start": 53.554,
+     "end": 53.716
+    },
+    {
+     "w": "forty",
+     "start": 53.832,
+     "end": 54.088
+    },
+    {
+     "w": "percent",
+     "start": 54.146,
+     "end": 54.459
+    },
+    {
+     "w": "less",
+     "start": 54.517,
+     "end": 54.738
+    },
+    {
+     "w": "sway.",
+     "start": 54.773,
+     "end": 55.887
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.649,
+   "end": 58.636,
+   "text": "And congrats, you just built Taipei 101 yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 55.649,
+     "end": 55.798
+    },
+    {
+     "w": "congrats,",
+     "start": 55.856,
+     "end": 56.448
+    },
+    {
+     "w": "you",
+     "start": 56.494,
+     "end": 56.587
+    },
+    {
+     "w": "just",
+     "start": 56.68,
+     "end": 56.842
+    },
+    {
+     "w": "built",
+     "start": 56.889,
+     "end": 57.086
+    },
+    {
+     "w": "Taipei",
+     "start": 57.121,
+     "end": 57.481
+    },
+    {
+     "w": "101",
+     "start": 57.574,
+     "end": 58.015
+    },
+    {
+     "w": "yourself.",
+     "start": 58.096,
+     "end": 58.932
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 58.986,
+   "end": 63.347,
+   "text": "A steel ball can calm a typhoon, but one speed bump still puts your coffee in your lap.",
+   "words": [
+    {
+     "w": "A",
+     "start": 58.986,
+     "end": 59.066
+    },
+    {
+     "w": "steel",
+     "start": 59.136,
+     "end": 59.368
+    },
+    {
+     "w": "ball",
+     "start": 59.426,
+     "end": 59.623
+    },
+    {
+     "w": "can",
+     "start": 59.67,
+     "end": 59.774
+    },
+    {
+     "w": "calm",
+     "start": 59.832,
+     "end": 60.018
+    },
+    {
+     "w": "a",
+     "start": 60.065,
+     "end": 60.088
+    },
+    {
+     "w": "typhoon,",
+     "start": 60.134,
+     "end": 60.761
+    },
+    {
+     "w": "but",
+     "start": 60.859,
+     "end": 61.021
+    },
+    {
+     "w": "one",
+     "start": 61.091,
+     "end": 61.288
+    },
+    {
+     "w": "speed",
+     "start": 61.323,
+     "end": 61.614
+    },
+    {
+     "w": "bump",
+     "start": 61.672,
+     "end": 61.869
+    },
+    {
+     "w": "still",
+     "start": 61.927,
+     "end": 62.136
+    },
+    {
+     "w": "puts",
+     "start": 62.182,
+     "end": 62.345
+    },
+    {
+     "w": "your",
+     "start": 62.38,
+     "end": 62.484
+    },
+    {
+     "w": "coffee",
+     "start": 62.531,
+     "end": 62.809
+    },
+    {
+     "w": "in",
+     "start": 62.833,
+     "end": 62.891
+    },
+    {
+     "w": "your",
+     "start": 62.925,
+     "end": 63.018
+    },
+    {
+     "w": "lap.",
+     "start": 63.065,
+     "end": 63.657
+    }
+   ]
+  }
+ ]
+}
