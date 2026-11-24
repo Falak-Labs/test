@@ -1830,3 +1830,8 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   refuses (busy slot: another chat runs scheduled jobs on the same account), schedule a retry (send_later 12 min) and keep
   retrying until the target is reached. A Cloudflare "Verify you are human" box is NOT a refusal to retry past: never click it,
   tell the owner. Higgsfield shorts stay 9:16.
+- Nov 24 01:00 PT: build 78 (air fryer) is ALREADY MADE and checked, EN + AR: media/airfryer-b78-en.mp4 (73 s) and
+  media/airfryer-b78-ar.mp4 (77 s), covers in review/airfryer-b78/cover_{en,ar}.jpg, spec kit/episodes/airfryer_sd.json.
+  Owner saw both and said "everything looks great". Do NOT remake it: post it in the next free slots (standing approval:
+  check, post, he removes what he dislikes). Builds 76 (cooker) and 77 (Golden Gate) are also ready as footage.
+  Build 79 (Kuwait Towers): clip A fetched, B generating (kuwait-A/B in higgsfield/queue.yml).
