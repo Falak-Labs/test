@@ -1,0 +1,27 @@
+{
+ "slug": "thermos-b83",
+ "kit": "thermos",
+ "style": "seedance",
+ "en": {
+  "duration": 70.9,
+  "lufs": -15.0,
+  "peak": -1.2,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 23.3,
+  "cover": true,
+  "ok": true
+ },
+ "ar": {
+  "duration": 66.9,
+  "lufs": -15.0,
+  "peak": -1.2,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 22.4,
+  "cover": true,
+  "ok": true
+ }
+}
