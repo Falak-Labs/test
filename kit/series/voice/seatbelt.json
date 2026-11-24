@@ -1,0 +1,1253 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 79.813,
+ "words": 226,
+ "words_per_sec": 2.83,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.0,
+   "text": "Y'all, the belt across your chest does one trick: it locks when you need it. Yes, one trick.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.75
+    },
+    {
+     "w": "the",
+     "start": 0.929,
+     "end": 1.071
+    },
+    {
+     "w": "belt",
+     "start": 1.179,
+     "end": 1.286
+    },
+    {
+     "w": "across",
+     "start": 1.357,
+     "end": 1.643
+    },
+    {
+     "w": "your",
+     "start": 1.714,
+     "end": 1.857
+    },
+    {
+     "w": "chest",
+     "start": 2.0,
+     "end": 2.143
+    },
+    {
+     "w": "does",
+     "start": 2.286,
+     "end": 2.429
+    },
+    {
+     "w": "one",
+     "start": 2.571,
+     "end": 2.714
+    },
+    {
+     "w": "trick:",
+     "start": 2.786,
+     "end": 3.17
+    },
+    {
+     "w": "it",
+     "start": 3.277,
+     "end": 3.384
+    },
+    {
+     "w": "locks",
+     "start": 3.455,
+     "end": 3.741
+    },
+    {
+     "w": "when",
+     "start": 3.812,
+     "end": 3.884
+    },
+    {
+     "w": "you",
+     "start": 3.955,
+     "end": 4.027
+    },
+    {
+     "w": "need",
+     "start": 4.098,
+     "end": 4.241
+    },
+    {
+     "w": "it.",
+     "start": 4.312,
+     "end": 4.589
+    },
+    {
+     "w": "Yes,",
+     "start": 4.768,
+     "end": 5.232
+    },
+    {
+     "w": "one",
+     "start": 5.375,
+     "end": 5.518
+    },
+    {
+     "w": "trick.",
+     "start": 5.589,
+     "end": 6.089
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.312,
+   "end": 12.585,
+   "text": "First problem. A plain lap belt only holds your hips, so your whole upper body folds forward. Ouch.",
+   "words": [
+    {
+     "w": "First",
+     "start": 6.358,
+     "end": 6.572
+    },
+    {
+     "w": "problem.",
+     "start": 6.644,
+     "end": 7.161
+    },
+    {
+     "w": "A",
+     "start": 7.188,
+     "end": 7.331
+    },
+    {
+     "w": "plain",
+     "start": 7.403,
+     "end": 7.617
+    },
+    {
+     "w": "lap",
+     "start": 7.688,
+     "end": 7.903
+    },
+    {
+     "w": "belt",
+     "start": 7.974,
+     "end": 8.188
+    },
+    {
+     "w": "only",
+     "start": 8.26,
+     "end": 8.474
+    },
+    {
+     "w": "holds",
+     "start": 8.546,
+     "end": 8.76
+    },
+    {
+     "w": "your",
+     "start": 8.831,
+     "end": 8.974
+    },
+    {
+     "w": "hips,",
+     "start": 9.153,
+     "end": 9.546
+    },
+    {
+     "w": "so",
+     "start": 9.617,
+     "end": 9.688
+    },
+    {
+     "w": "your",
+     "start": 9.796,
+     "end": 9.903
+    },
+    {
+     "w": "whole",
+     "start": 9.974,
+     "end": 10.188
+    },
+    {
+     "w": "upper",
+     "start": 10.26,
+     "end": 10.474
+    },
+    {
+     "w": "body",
+     "start": 10.546,
+     "end": 10.831
+    },
+    {
+     "w": "folds",
+     "start": 10.903,
+     "end": 11.188
+    },
+    {
+     "w": "forward.",
+     "start": 11.26,
+     "end": 11.921
+    },
+    {
+     "w": "Ouch.",
+     "start": 11.992,
+     "end": 12.706
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.897,
+   "end": 24.932,
+   "text": "So in nineteen fifty nine, a Volvo engineer named Nils Bohlin adds a strap across the chest. A V, that holds hips and shoulders, and buckles with one hand. And Volvo gave the patent away.",
+   "words": [
+    {
+     "w": "So",
+     "start": 13.04,
+     "end": 13.183
+    },
+    {
+     "w": "in",
+     "start": 13.254,
+     "end": 13.397
+    },
+    {
+     "w": "nineteen",
+     "start": 13.469,
+     "end": 13.754
+    },
+    {
+     "w": "fifty",
+     "start": 13.897,
+     "end": 14.112
+    },
+    {
+     "w": "nine,",
+     "start": 14.254,
+     "end": 14.826
+    },
+    {
+     "w": "a",
+     "start": 14.897,
+     "end": 14.969
+    },
+    {
+     "w": "Volvo",
+     "start": 15.04,
+     "end": 15.397
+    },
+    {
+     "w": "engineer",
+     "start": 15.469,
+     "end": 15.897
+    },
+    {
+     "w": "named",
+     "start": 15.969,
+     "end": 16.183
+    },
+    {
+     "w": "Nils",
+     "start": 16.254,
+     "end": 16.54
+    },
+    {
+     "w": "Bohlin",
+     "start": 16.612,
+     "end": 17.04
+    },
+    {
+     "w": "adds",
+     "start": 17.112,
+     "end": 17.326
+    },
+    {
+     "w": "a",
+     "start": 17.397,
+     "end": 17.469
+    },
+    {
+     "w": "strap",
+     "start": 17.647,
+     "end": 17.826
+    },
+    {
+     "w": "across",
+     "start": 17.897,
+     "end": 18.183
+    },
+    {
+     "w": "the",
+     "start": 18.254,
+     "end": 18.326
+    },
+    {
+     "w": "chest.",
+     "start": 18.504,
+     "end": 18.906
+    },
+    {
+     "w": "A",
+     "start": 18.978,
+     "end": 19.049
+    },
+    {
+     "w": "V,",
+     "start": 19.121,
+     "end": 19.54
+    },
+    {
+     "w": "that",
+     "start": 19.612,
+     "end": 19.683
+    },
+    {
+     "w": "holds",
+     "start": 19.754,
+     "end": 19.969
+    },
+    {
+     "w": "hips",
+     "start": 20.04,
+     "end": 20.254
+    },
+    {
+     "w": "and",
+     "start": 20.326,
+     "end": 20.397
+    },
+    {
+     "w": "shoulders,",
+     "start": 20.469,
+     "end": 21.112
+    },
+    {
+     "w": "and",
+     "start": 21.183,
+     "end": 21.254
+    },
+    {
+     "w": "buckles",
+     "start": 21.373,
+     "end": 21.612
+    },
+    {
+     "w": "with",
+     "start": 21.719,
+     "end": 21.826
+    },
+    {
+     "w": "one",
+     "start": 21.897,
+     "end": 22.04
+    },
+    {
+     "w": "hand.",
+     "start": 22.219,
+     "end": 22.576
+    },
+    {
+     "w": "And",
+     "start": 23.147,
+     "end": 23.219
+    },
+    {
+     "w": "Volvo",
+     "start": 23.362,
+     "end": 23.719
+    },
+    {
+     "w": "gave",
+     "start": 23.79,
+     "end": 24.004
+    },
+    {
+     "w": "the",
+     "start": 24.04,
+     "end": 24.076
+    },
+    {
+     "w": "patent",
+     "start": 24.147,
+     "end": 24.433
+    },
+    {
+     "w": "away.",
+     "start": 24.647,
+     "end": 25.076
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 25.245,
+   "end": 29.305,
+   "text": "But a belt tight enough to hold you is too tight to wear. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.369,
+     "end": 25.512
+    },
+    {
+     "w": "a",
+     "start": 25.547,
+     "end": 25.583
+    },
+    {
+     "w": "belt",
+     "start": 25.654,
+     "end": 25.869
+    },
+    {
+     "w": "tight",
+     "start": 25.94,
+     "end": 26.083
+    },
+    {
+     "w": "enough",
+     "start": 26.154,
+     "end": 26.369
+    },
+    {
+     "w": "to",
+     "start": 26.44,
+     "end": 26.512
+    },
+    {
+     "w": "hold",
+     "start": 26.654,
+     "end": 26.797
+    },
+    {
+     "w": "you",
+     "start": 26.869,
+     "end": 27.012
+    },
+    {
+     "w": "is",
+     "start": 27.083,
+     "end": 27.297
+    },
+    {
+     "w": "too",
+     "start": 27.404,
+     "end": 27.512
+    },
+    {
+     "w": "tight",
+     "start": 27.583,
+     "end": 27.797
+    },
+    {
+     "w": "to",
+     "start": 27.869,
+     "end": 27.94
+    },
+    {
+     "w": "wear.",
+     "start": 28.119,
+     "end": 28.468
+    },
+    {
+     "w": "Oh",
+     "start": 28.556,
+     "end": 28.771
+    },
+    {
+     "w": "boy.",
+     "start": 28.913,
+     "end": 29.413
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 29.618,
+   "end": 34.125,
+   "text": "So you wind it onto a spring-loaded spool, that stays loose until you need it.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.761,
+     "end": 29.904
+    },
+    {
+     "w": "you",
+     "start": 29.975,
+     "end": 30.189
+    },
+    {
+     "w": "wind",
+     "start": 30.332,
+     "end": 30.475
+    },
+    {
+     "w": "it",
+     "start": 30.511,
+     "end": 30.546
+    },
+    {
+     "w": "onto",
+     "start": 30.618,
+     "end": 30.832
+    },
+    {
+     "w": "a",
+     "start": 30.904,
+     "end": 30.975
+    },
+    {
+     "w": "spring-loaded",
+     "start": 31.118,
+     "end": 31.618
+    },
+    {
+     "w": "spool,",
+     "start": 31.689,
+     "end": 32.225
+    },
+    {
+     "w": "that",
+     "start": 32.404,
+     "end": 32.618
+    },
+    {
+     "w": "stays",
+     "start": 32.654,
+     "end": 32.904
+    },
+    {
+     "w": "loose",
+     "start": 32.975,
+     "end": 33.261
+    },
+    {
+     "w": "until",
+     "start": 33.332,
+     "end": 33.546
+    },
+    {
+     "w": "you",
+     "start": 33.618,
+     "end": 33.689
+    },
+    {
+     "w": "need",
+     "start": 33.761,
+     "end": 33.904
+    },
+    {
+     "w": "it.",
+     "start": 33.975,
+     "end": 34.332
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 34.438,
+   "end": 37.904,
+   "text": "But how does the spool know a crash is happening?",
+   "words": [
+    {
+     "w": "But",
+     "start": 34.974,
+     "end": 35.188
+    },
+    {
+     "w": "how",
+     "start": 35.403,
+     "end": 35.546
+    },
+    {
+     "w": "does",
+     "start": 35.617,
+     "end": 35.76
+    },
+    {
+     "w": "the",
+     "start": 35.796,
+     "end": 35.831
+    },
+    {
+     "w": "spool",
+     "start": 35.974,
+     "end": 36.331
+    },
+    {
+     "w": "know",
+     "start": 36.474,
+     "end": 36.688
+    },
+    {
+     "w": "a",
+     "start": 36.76,
+     "end": 36.831
+    },
+    {
+     "w": "crash",
+     "start": 36.903,
+     "end": 37.188
+    },
+    {
+     "w": "is",
+     "start": 37.26,
+     "end": 37.331
+    },
+    {
+     "w": "happening?",
+     "start": 37.403,
+     "end": 38.046
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 38.216,
+   "end": 43.965,
+   "text": "So a tiny weighted pendulum swings forward in a hard stop, and a metal catch locks the spool.",
+   "words": [
+    {
+     "w": "So",
+     "start": 38.415,
+     "end": 38.558
+    },
+    {
+     "w": "a",
+     "start": 38.629,
+     "end": 38.772
+    },
+    {
+     "w": "tiny",
+     "start": 38.951,
+     "end": 39.129
+    },
+    {
+     "w": "weighted",
+     "start": 39.272,
+     "end": 39.558
+    },
+    {
+     "w": "pendulum",
+     "start": 39.629,
+     "end": 40.129
+    },
+    {
+     "w": "swings",
+     "start": 40.201,
+     "end": 40.487
+    },
+    {
+     "w": "forward",
+     "start": 40.558,
+     "end": 40.844
+    },
+    {
+     "w": "in",
+     "start": 40.915,
+     "end": 40.987
+    },
+    {
+     "w": "a",
+     "start": 41.129,
+     "end": 41.165
+    },
+    {
+     "w": "hard",
+     "start": 41.201,
+     "end": 41.415
+    },
+    {
+     "w": "stop,",
+     "start": 41.558,
+     "end": 42.105
+    },
+    {
+     "w": "and",
+     "start": 42.154,
+     "end": 42.201
+    },
+    {
+     "w": "a",
+     "start": 42.272,
+     "end": 42.344
+    },
+    {
+     "w": "metal",
+     "start": 42.487,
+     "end": 42.629
+    },
+    {
+     "w": "catch",
+     "start": 42.808,
+     "end": 42.987
+    },
+    {
+     "w": "locks",
+     "start": 43.058,
+     "end": 43.272
+    },
+    {
+     "w": "the",
+     "start": 43.344,
+     "end": 43.415
+    },
+    {
+     "w": "spool.",
+     "start": 43.522,
+     "end": 44.058
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 44.278,
+   "end": 49.26,
+   "text": "But even locked, a little slack stays, and in a crash, a little is a lot.",
+   "words": [
+    {
+     "w": "But",
+     "start": 44.421,
+     "end": 44.563
+    },
+    {
+     "w": "even",
+     "start": 44.635,
+     "end": 44.849
+    },
+    {
+     "w": "locked,",
+     "start": 44.921,
+     "end": 45.385
+    },
+    {
+     "w": "a",
+     "start": 45.492,
+     "end": 45.563
+    },
+    {
+     "w": "little",
+     "start": 45.635,
+     "end": 45.849
+    },
+    {
+     "w": "slack",
+     "start": 45.921,
+     "end": 46.206
+    },
+    {
+     "w": "stays,",
+     "start": 46.278,
+     "end": 46.885
+    },
+    {
+     "w": "and",
+     "start": 46.992,
+     "end": 47.063
+    },
+    {
+     "w": "in",
+     "start": 47.135,
+     "end": 47.206
+    },
+    {
+     "w": "a",
+     "start": 47.242,
+     "end": 47.278
+    },
+    {
+     "w": "crash,",
+     "start": 47.349,
+     "end": 47.849
+    },
+    {
+     "w": "a",
+     "start": 47.992,
+     "end": 48.063
+    },
+    {
+     "w": "little",
+     "start": 48.206,
+     "end": 48.492
+    },
+    {
+     "w": "is",
+     "start": 48.563,
+     "end": 48.635
+    },
+    {
+     "w": "a",
+     "start": 48.706,
+     "end": 48.778
+    },
+    {
+     "w": "lot.",
+     "start": 48.849,
+     "end": 49.421
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 49.572,
+   "end": 55.07,
+   "text": "So a tiny charge fires in the buckle, pulls it down, and eats the slack in a flash.",
+   "words": [
+    {
+     "w": "So",
+     "start": 49.787,
+     "end": 49.929
+    },
+    {
+     "w": "a",
+     "start": 50.001,
+     "end": 50.144
+    },
+    {
+     "w": "tiny",
+     "start": 50.215,
+     "end": 50.501
+    },
+    {
+     "w": "charge",
+     "start": 50.572,
+     "end": 50.929
+    },
+    {
+     "w": "fires",
+     "start": 51.072,
+     "end": 51.358
+    },
+    {
+     "w": "in",
+     "start": 51.429,
+     "end": 51.501
+    },
+    {
+     "w": "the",
+     "start": 51.537,
+     "end": 51.572
+    },
+    {
+     "w": "buckle,",
+     "start": 51.644,
+     "end": 52.153
+    },
+    {
+     "w": "pulls",
+     "start": 52.224,
+     "end": 52.474
+    },
+    {
+     "w": "it",
+     "start": 52.51,
+     "end": 52.581
+    },
+    {
+     "w": "down,",
+     "start": 52.653,
+     "end": 53.081
+    },
+    {
+     "w": "and",
+     "start": 53.188,
+     "end": 53.296
+    },
+    {
+     "w": "eats",
+     "start": 53.367,
+     "end": 53.581
+    },
+    {
+     "w": "the",
+     "start": 53.653,
+     "end": 53.724
+    },
+    {
+     "w": "slack",
+     "start": 53.903,
+     "end": 54.081
+    },
+    {
+     "w": "in",
+     "start": 54.153,
+     "end": 54.224
+    },
+    {
+     "w": "a",
+     "start": 54.296,
+     "end": 54.367
+    },
+    {
+     "w": "flash.",
+     "start": 54.438,
+     "end": 55.153
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 55.382,
+   "end": 62.084,
+   "text": "Hit follow, 'cause next we're building a bridge, six hundred meters above a canyon. Yes... a bridge.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 55.454,
+     "end": 55.596
+    },
+    {
+     "w": "follow,",
+     "start": 55.739,
+     "end": 56.239
+    },
+    {
+     "w": "'cause",
+     "start": 56.525,
+     "end": 56.739
+    },
+    {
+     "w": "next",
+     "start": 56.882,
+     "end": 57.025
+    },
+    {
+     "w": "we're",
+     "start": 57.168,
+     "end": 57.311
+    },
+    {
+     "w": "building",
+     "start": 57.454,
+     "end": 57.596
+    },
+    {
+     "w": "a",
+     "start": 57.668,
+     "end": 57.739
+    },
+    {
+     "w": "bridge,",
+     "start": 57.811,
+     "end": 58.454
+    },
+    {
+     "w": "six",
+     "start": 58.525,
+     "end": 58.668
+    },
+    {
+     "w": "hundred",
+     "start": 58.739,
+     "end": 58.882
+    },
+    {
+     "w": "meters",
+     "start": 59.025,
+     "end": 59.239
+    },
+    {
+     "w": "above",
+     "start": 59.311,
+     "end": 59.525
+    },
+    {
+     "w": "a",
+     "start": 59.596,
+     "end": 59.668
+    },
+    {
+     "w": "canyon.",
+     "start": 59.704,
+     "end": 60.239
+    },
+    {
+     "w": "Yes...",
+     "start": 60.704,
+     "end": 61.275
+    },
+    {
+     "w": "a",
+     "start": 61.346,
+     "end": 61.418
+    },
+    {
+     "w": "bridge.",
+     "start": 61.668,
+     "end": 62.204
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 62.396,
+   "end": 66.568,
+   "text": "Today, you click it without thinking, and the little warning light goes dark.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 62.468,
+     "end": 63.075
+    },
+    {
+     "w": "you",
+     "start": 63.254,
+     "end": 63.396
+    },
+    {
+     "w": "click",
+     "start": 63.468,
+     "end": 63.611
+    },
+    {
+     "w": "it",
+     "start": 63.682,
+     "end": 63.754
+    },
+    {
+     "w": "without",
+     "start": 63.896,
+     "end": 64.039
+    },
+    {
+     "w": "thinking,",
+     "start": 64.111,
+     "end": 64.646
+    },
+    {
+     "w": "and",
+     "start": 64.754,
+     "end": 64.825
+    },
+    {
+     "w": "the",
+     "start": 64.896,
+     "end": 64.968
+    },
+    {
+     "w": "little",
+     "start": 65.039,
+     "end": 65.182
+    },
+    {
+     "w": "warning",
+     "start": 65.254,
+     "end": 65.539
+    },
+    {
+     "w": "light",
+     "start": 65.611,
+     "end": 65.754
+    },
+    {
+     "w": "goes",
+     "start": 65.825,
+     "end": 65.968
+    },
+    {
+     "w": "dark.",
+     "start": 66.111,
+     "end": 66.682
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 66.88,
+   "end": 70.367,
+   "text": "One strap, one spool, one tiny pendulum.",
+   "words": [
+    {
+     "w": "One",
+     "start": 67.023,
+     "end": 67.166
+    },
+    {
+     "w": "strap,",
+     "start": 67.237,
+     "end": 67.8
+    },
+    {
+     "w": "one",
+     "start": 67.943,
+     "end": 68.086
+    },
+    {
+     "w": "spool,",
+     "start": 68.157,
+     "end": 68.764
+    },
+    {
+     "w": "one",
+     "start": 68.943,
+     "end": 69.086
+    },
+    {
+     "w": "tiny",
+     "start": 69.3,
+     "end": 69.657
+    },
+    {
+     "w": "pendulum.",
+     "start": 69.729,
+     "end": 70.514
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 70.679,
+   "end": 73.499,
+   "text": "And congrats, you just built a seatbelt yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 70.8,
+     "end": 70.821
+    },
+    {
+     "w": "congrats,",
+     "start": 70.892,
+     "end": 71.678
+    },
+    {
+     "w": "you",
+     "start": 71.821,
+     "end": 71.963
+    },
+    {
+     "w": "just",
+     "start": 72.071,
+     "end": 72.178
+    },
+    {
+     "w": "built",
+     "start": 72.249,
+     "end": 72.321
+    },
+    {
+     "w": "a",
+     "start": 72.392,
+     "end": 72.463
+    },
+    {
+     "w": "seatbelt",
+     "start": 72.535,
+     "end": 72.892
+    },
+    {
+     "w": "yourself.",
+     "start": 72.999,
+     "end": 73.678
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 73.812,
+   "end": 79.797,
+   "text": "Brake hard with a pizza on the seat... and the pizza is the only one wearing a seatbelt.",
+   "words": [
+    {
+     "w": "Brake",
+     "start": 74.169,
+     "end": 74.883
+    },
+    {
+     "w": "hard",
+     "start": 74.954,
+     "end": 75.169
+    },
+    {
+     "w": "with",
+     "start": 75.24,
+     "end": 75.312
+    },
+    {
+     "w": "a",
+     "start": 75.383,
+     "end": 75.454
+    },
+    {
+     "w": "pizza",
+     "start": 75.633,
+     "end": 75.812
+    },
+    {
+     "w": "on",
+     "start": 75.883,
+     "end": 75.954
+    },
+    {
+     "w": "the",
+     "start": 76.026,
+     "end": 76.097
+    },
+    {
+     "w": "seat...",
+     "start": 76.276,
+     "end": 76.669
+    },
+    {
+     "w": "and",
+     "start": 77.283,
+     "end": 77.312
+    },
+    {
+     "w": "the",
+     "start": 77.383,
+     "end": 77.454
+    },
+    {
+     "w": "pizza",
+     "start": 77.526,
+     "end": 77.883
+    },
+    {
+     "w": "is",
+     "start": 77.954,
+     "end": 78.026
+    },
+    {
+     "w": "the",
+     "start": 78.097,
+     "end": 78.24
+    },
+    {
+     "w": "only",
+     "start": 78.312,
+     "end": 78.526
+    },
+    {
+     "w": "one",
+     "start": 78.669,
+     "end": 78.74
+    },
+    {
+     "w": "wearing",
+     "start": 78.812,
+     "end": 79.026
+    },
+    {
+     "w": "a",
+     "start": 79.097,
+     "end": 79.169
+    },
+    {
+     "w": "seatbelt.",
+     "start": 79.24,
+     "end": 79.954
+    }
+   ]
+  }
+ ]
+}
