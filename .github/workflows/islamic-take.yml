@@ -1,0 +1,59 @@
+name: Islamic voice take
+# One continuous ElevenLabs take of a whole script for each voice listed (eleven_v4 by default, audio tags allowed),
+# with character timings for captions and animation. Results land in islamic/takes/<name>/ (committed back to main).
+# Reads the ELEVENLABS_API_KEY Actions secret; the key is never printed or written. Voices whose take already exists
+# for the same text and model are skipped, so credits are spent only on new takes (force=true records them again).
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "script name, as in islamic/lines/<name>.txt"
+        required: true
+      voices:
+        description: "comma-separated ElevenLabs voice IDs"
+        required: true
+      model:
+        description: "ElevenLabs model"
+        default: "eleven_v4"
+      stability:
+        description: "voice stability (0.5 = natural)"
+        default: "0.5"
+      force:
+        description: "record again even if a take exists"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: islamic-take-${{ inputs.name }}
+  cancel-in-progress: false
+jobs:
+  take:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Python packages
+        run: pip install --quiet requests
+      - name: Record
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          NAME: ${{ inputs.name }}
+          VOICES: ${{ inputs.voices }}
+          MODEL: ${{ inputs.model }}
+          STAB: ${{ inputs.stability }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          set -euo pipefail
+          test -f "islamic/lines/${NAME}.txt" || { echo "islamic/lines/${NAME}.txt is missing"; exit 1; }
+          extra=""; [ "$FORCE" = "true" ] && extra="--force"
+          python -I -u islamic/tools/vo_take.py "islamic/lines/${NAME}.txt" "islamic/takes/${NAME}" \
+            --voices "$VOICES" --model "$MODEL" --stability "$STAB" $extra
+      - name: Save to the repo
+        run: |
+          bash scripts/save_state.sh "islamic take ${{ inputs.name }} $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" islamic/takes
