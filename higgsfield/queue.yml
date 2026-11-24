@@ -177,7 +177,7 @@ jobs:
   - id: hzmb-A
     build: 82
     kit: hzmb
-    status: "generating (started: Nov 24 03:31 PT)"
+    status: "generating (started: Nov 24 02:31 PT)"
     file: buildit-hzmb-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a six-lane highway bridge far out on the open sea runs onto a small man-made island and dives
