@@ -42,7 +42,8 @@ jobs:
   - id: goldengate-A
     build: 77
     kit: goldengate
-    status: generating (started: Nov 23 21:41 PT)
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_054023_19de88e4-9a4e-470a-ac76-de653bdb58d2.mp4
     file: buildit-goldengate-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): the Golden Gate Bridge's two orange towers rising out of a thick sea of fog at sunrise, slow
