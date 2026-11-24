@@ -871,8 +871,8 @@ jobs:
     # confirmed by the one-at-a-time toast)", but History (MCP show_generations, all states) at 14:03, 14:05 and 14:06
     # has no smoke-alarm card: the only job running is f63aa12b (created 14:02:45 PT, 16:9, huajiang-B's leftover text
     # mixed with another chat's pearl-village prompt). The "only 1 unlimited at a time" toast means the press was
-    # refused. Back to todo: start it (shots as below, with the main chat's rewording of shot 4) once f63aa12b is done,
-    # about 14:15 PT, and do not fetch f63aa12b as this file.
+    # refused. Back to todo: start it (shots as below, with the main chat's rewording: no hand in shot 4, no word
+    # "radioactive") once f63aa12b is done, about 14:15 PT, and do not fetch f63aa12b as this file.
     status: todo
     file: buildit-smokealarm-sdA.mp4
     shots: >-
