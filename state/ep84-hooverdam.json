@@ -8,6 +8,24 @@
    "dueAt": "2026-11-25T23:00:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-24T19:51:53+00:00"
+  },
+  "en.instagram": {
+   "id": "6b05f564bbd94e83696b5bd5",
+   "channel": "6af2b48e62b70b94b0ddc2f3",
+   "service": "instagram",
+   "status": "scheduled",
+   "dueAt": "2026-11-25T20:00:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-24T20:36:47+00:00"
+  },
+  "en.tiktok": {
+   "id": "6b05f564e57cd4af41f16d39",
+   "channel": "6af2d49862b70b94b0df5758",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-25T20:00:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-24T20:36:47+00:00"
   }
  }
 }

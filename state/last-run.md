@@ -1,4 +1,4 @@
-# Last posting run 2026-11-24T20:10:32+00:00
+# Last posting run 2026-11-24T20:36:47+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -18,10 +18,13 @@
 - ep55-suez ar.youtube: on hold in posts/ep55-suez.yml
 - ep56-escalator en.youtube: on hold in posts/ep56-escalator.yml
 - ep56-escalator ar.youtube: on hold in posts/ep56-escalator.yml
+- sm01-survival en.youtube: on hold in posts/sm01-survival.yml
 - ep58-ferriswheel en.youtube: on hold in posts/ep58-ferriswheel.yml
 - ep58-ferriswheel ar.youtube: on hold in posts/ep58-ferriswheel.yml
 - ep60-microwave en.youtube: on hold in posts/ep60-microwave.yml
 - ep60-microwave ar.youtube: on hold in posts/ep60-microwave.yml
+- sm02 en.youtube: on hold in posts/sm02.yml
+- sm02 ar.youtube: on hold in posts/sm02.yml
 - ep62-tent en.youtube: on hold in posts/ep62-tent.yml
 - ep62-tent ar.youtube: on hold in posts/ep62-tent.yml
 - ep63-washer en.youtube: on hold in posts/ep63-washer.yml
@@ -34,6 +37,8 @@
 - ep66-towerbridge ar.youtube: on hold in posts/ep66-towerbridge.yml
 - ep67-colosseum en.youtube: on hold in posts/ep67-colosseum.yml
 - ep67-colosseum ar.youtube: on hold in posts/ep67-colosseum.yml
+- sm03 en.youtube: on hold in posts/sm03.yml
+- sm03 ar.youtube: on hold in posts/sm03.yml
 - ep68-taipei en.youtube: on hold in posts/ep68-taipei.yml
 - ep68-taipei ar.youtube: on hold in posts/ep68-taipei.yml
 - ep69-dishwasher en.youtube: on hold in posts/ep69-dishwasher.yml
@@ -46,6 +51,8 @@
 - ep72-petronas ar.youtube: on hold in posts/ep72-petronas.yml
 - ep73-pharos en.youtube: on hold in posts/ep73-pharos.yml
 - ep73-pharos ar.youtube: on hold in posts/ep73-pharos.yml
+- sm04 en.youtube: on hold in posts/sm04.yml
+- sm04 ar.youtube: on hold in posts/sm04.yml
 - ep74-maraya en.youtube: on hold in posts/ep74-maraya.yml
 - ep74-maraya ar.youtube: on hold in posts/ep74-maraya.yml
 - ep75-stepwell en.youtube: on hold in posts/ep75-stepwell.yml
@@ -58,7 +65,7 @@
 - ep80-fountain ar.youtube: on hold in posts/ep80-fountain.yml
 - ep81-zipper en.youtube: on hold in posts/ep81-zipper.yml
 - ep81-zipper ar.youtube: on hold in posts/ep81-zipper.yml
-- ep81-zipper ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep81-zipper ar.tiktok: scheduled (Wed 25 Nov 15:30 UTC) id 6b05f562f86f2594b8816e8a
 - ep82-hzmb en.youtube: on hold in posts/ep82-hzmb.yml
 - ep82-hzmb ar.youtube: on hold in posts/ep82-hzmb.yml
 - ep82-hzmb ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
@@ -66,8 +73,8 @@
 - ep83-thermos ar.youtube: on hold in posts/ep83-thermos.yml
 - ep83-thermos ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep84-hooverdam en.youtube: on hold in posts/ep84-hooverdam.yml
-- ep84-hooverdam en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- ep84-hooverdam en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep84-hooverdam en.instagram: scheduled (Wed 25 Nov 20:00 UTC) id 6b05f564bbd94e83696b5bd5
+- ep84-hooverdam en.tiktok: scheduled (Wed 25 Nov 20:00 UTC) id 6b05f564e57cd4af41f16d39
 - ep84-hooverdam ar.youtube: on hold in posts/ep84-hooverdam.yml
 - ep84-hooverdam ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep85-dubaiframe en.youtube: on hold in posts/ep85-dubaiframe.yml
@@ -79,7 +86,6 @@
 - ep86-kettle en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep86-kettle en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep86-kettle ar.youtube: on hold in posts/ep86-kettle.yml
-- ep86-kettle ar.instagram: scheduled (Thu 26 Nov 04:00 UTC) id 6b05ef3df86f2594b87e8ced
 - ep86-kettle ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep87-balloon en.youtube: on hold in posts/ep87-balloon.yml
 - ep87-balloon en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
@@ -105,12 +111,5 @@
 - ep90-pen ar.youtube: on hold in posts/ep90-pen.yml
 - ep90-pen ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep90-pen ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- sm01-survival en.youtube: on hold in posts/sm01-survival.yml
-- sm02 en.youtube: on hold in posts/sm02.yml
-- sm02 ar.youtube: on hold in posts/sm02.yml
-- sm03 en.youtube: on hold in posts/sm03.yml
-- sm03 ar.youtube: on hold in posts/sm03.yml
-- sm04 en.youtube: on hold in posts/sm04.yml
-- sm04 ar.youtube: on hold in posts/sm04.yml
-- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=369; t=42367, "30d"; r=711; t=1333346; ratelimit-policy="15m"; q=15
-- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=147; t=898, "24h"; r=381; t=42364, "30d"; r=624; t=1339473; ratelimit-policy="15m"; q=15
+- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=896, "24h"; r=354; t=40788, "30d"; r=696; t=1331767; ratelimit-policy="15m"; q=15
+- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=147; t=899, "24h"; r=367; t=40790, "30d"; r=610; t=1337899; ratelimit-policy="15m"; q=15

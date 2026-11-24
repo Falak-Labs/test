@@ -1,4 +1,4 @@
-# Post status 2026-11-24T20:10:46+00:00
+# Post status 2026-11-24T20:37:01+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -397,7 +397,7 @@
 | ep73-pharos | en.instagram | scheduled |  | 2026-11-24T21:30:00.000Z |
 | ep73-pharos | en.tiktok | scheduled |  | 2026-11-24T21:30:00.000Z |
 | ep74-maraya | ar.instagram | sent |  | 2026-11-24T20:02:44.964Z https://www.instagram.com/reel/DgIxEvvgZNL/ |
-| ep74-maraya | ar.tiktok | scheduled |  | 2026-11-24T20:30:00.000Z |
+| ep74-maraya | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T20:30:00.000Z |
 | ep74-maraya | en.instagram | scheduled |  | 2026-11-25T00:00:00.000Z |
 | ep74-maraya | en.tiktok | scheduled |  | 2026-11-25T00:00:00.000Z |
 | ep75-stepwell | ar.instagram | scheduled |  | 2026-11-24T23:00:00.000Z |
@@ -417,6 +417,7 @@
 | ep80-fountain | en.instagram | scheduled |  | 2026-11-25T10:00:00.000Z |
 | ep80-fountain | en.tiktok | scheduled |  | 2026-11-25T10:00:00.000Z |
 | ep81-zipper | ar.instagram | scheduled |  | 2026-11-25T15:30:00.000Z |
+| ep81-zipper | ar.tiktok | scheduled |  | 2026-11-25T15:30:00.000Z |
 | ep81-zipper | en.instagram | scheduled |  | 2026-11-25T12:30:00.000Z |
 | ep81-zipper | en.tiktok | scheduled |  | 2026-11-25T12:30:00.000Z |
 | ep82-hzmb | ar.instagram | scheduled |  | 2026-11-25T18:00:00.000Z |
@@ -426,6 +427,8 @@
 | ep83-thermos | en.instagram | scheduled |  | 2026-11-25T17:30:00.000Z |
 | ep83-thermos | en.tiktok | scheduled |  | 2026-11-25T17:30:00.000Z |
 | ep84-hooverdam | ar.instagram | scheduled |  | 2026-11-25T23:00:00.000Z |
+| ep84-hooverdam | en.instagram | scheduled |  | 2026-11-25T20:00:00.000Z |
+| ep84-hooverdam | en.tiktok | scheduled |  | 2026-11-25T20:00:00.000Z |
 | ep85-dubaiframe | ar.instagram | scheduled |  | 2026-11-26T01:30:00.000Z |
 | ep86-kettle | ar.instagram | scheduled |  | 2026-11-26T04:00:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
@@ -440,5 +443,5 @@
 | sm03 | en.tiktok | sent |  | 2026-11-23T20:16:55.822Z https://www.tiktok.com/@congratsengineer/video/7711462975671897357?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm04 | ar.instagram | sent |  | 2026-11-24T18:33:23.397Z https://www.instagram.com/reel/DgImuO-hc6f/ |
 | sm04 | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T18:30:00.000Z |
-| sm04 | en.instagram | scheduled |  | 2026-11-24T20:15:00.000Z |
-| sm04 | en.tiktok | scheduled |  | 2026-11-24T20:15:00.000Z |
+| sm04 | en.instagram | sent |  | 2026-11-24T20:16:43.883Z https://www.instagram.com/reel/DgIynESSfO4/ |
+| sm04 | en.tiktok | sent |  | 2026-11-24T20:17:11.465Z https://tiktok.com/@congratsengineer/video/7711834144270994702 |
