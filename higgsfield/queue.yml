@@ -1,0 +1,164 @@
+# Seedance job queue for the Build-It series (kit/series/SEEDANCE_STYLE.md). The hourly "Higgsfield runner" task
+# takes the first job with status: todo, generates it on higgsfield.ai (unlimited mode only), and when it is done
+# fetches it into the ai-media release as `file` and sets status: done + url. Other chats share the account:
+# never start a job while History shows "Generating".
+# status: todo | generating (started: <PT time>) | done | failed (why)
+style: >-
+  Cinematic photoreal 3D, documentary style, one consistent look, volumetric light, shallow depth of field,
+  no text, no logos, no subtitles. Six shots with hard cuts, 5 seconds each.
+jobs:
+  - {id: taipei-A, build: 83, kit: taipei, status: done, file: buildit-taipei-sdA.mp4}
+  - {id: taipei-B, build: 83, kit: taipei, status: done, file: buildit-taipei-sdB.mp4}
+
+  - id: cooker-A
+    build: 76
+    kit: cooker
+    status: todo
+    file: buildit-cooker-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): extreme close-up of a steel pressure cooker on a gas flame, the whistle on the lid shrieks and
+      shoots a jet of steam to the ceiling, slow push-in. Shot 2 (5-10 s): a mountain village kitchen high in the
+      Andes, a pot of beans boiling for hours and still hard, a tired cook pokes them. Shot 3 (10-15 s): a heavy lid
+      with a rubber ring is locked onto the pot with a twist, close-up of the seal closing tight. Shot 4 (15-20 s):
+      the lid bulges and the pot rattles violently on the stove, the family steps back from the kitchen. Shot 5
+      (20-25 s): close-up of a small weighted valve on the lid lifting and hissing, letting out a thin jet of steam.
+      Shot 6 (25-30 s): the valve gets clogged with a bean skin, the pressure gauge needle climbs into the red.
+  - id: cooker-B
+    build: 76
+    kit: cooker
+    status: todo
+    file: buildit-cooker-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): cutaway of the lid showing a small metal safety plug that melts and vents the steam sideways,
+      calm. Shot 2 (5-10 s): a cook tries to twist the lid open while it is still full of pressure, the lid will not
+      budge. Shot 3 (10-15 s): close-up of a little locking pin that pops up and holds the lid shut until the steam
+      is gone, then drops. Shot 4 (15-20 s): a giant steel suspension bridge at sunrise rising out of thick fog, orange
+      towers, slow drone push. Shot 5 (20-25 s): a busy Indian family kitchen, four pressure cookers whistling at
+      once on one stove, grandma smiling calmly. Shot 6 (25-30 s): funny slow motion, a man opens a pressure cooker
+      too early and a cloud of soup splashes onto the ceiling and his face, shocked expression.
+
+  - id: goldengate-A
+    build: 77
+    kit: goldengate
+    status: todo
+    file: buildit-goldengate-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): the Golden Gate Bridge's two orange towers rising out of a thick sea of fog at sunrise, slow
+      drone push between the main cables. Shot 2 (5-10 s): 1930s San Francisco Bay, wild tides and strong currents
+      ripping through a narrow strait, ferries tossing in the waves. Shot 3 (10-15 s): 1930s workers pour concrete
+      into a huge wall built in the sea around a tower base, divers in brass helmets. Shot 4 (15-20 s): a rusty steel
+      tower in grey fog, ships passing close below, a ship captain squints and can barely see it. Shot 5 (20-25 s):
+      painters on ropes high on the tower brush on bright orange paint, fog swirling. Shot 6 (25-30 s): powerful wind
+      makes the long bridge deck sway and ripple, cars slow down, cables humming.
+  - id: goldengate-B
+    build: 77
+    kit: goldengate
+    status: todo
+    file: buildit-goldengate-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): workers spin the main cable from thousands of thin steel wires, a wheel running back and forth
+      between the towers. Shot 2 (5-10 s): a worker slips from the deck in the 1930s, gasps. Shot 3 (10-15 s): a huge
+      safety net stretched under the whole bridge deck catches a worker who bounces and laughs. Shot 4 (15-20 s): a
+      bright modern kitchen, a compact air fryer basket slides out with golden crispy fries and steam. Shot 5
+      (20-25 s): the bridge today in sunshine, tourists on the walkway take selfies, fog rolling under the deck.
+      Shot 6 (25-30 s): funny slow motion, a tourist on the windy bridge, his hat and sunglasses fly off, the wind
+      flips his umbrella inside out.
+
+  - id: airfryer-A
+    build: 78
+    kit: airfryer
+    status: todo
+    file: buildit-airfryer-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): inside an air fryer, a roaring whirlwind of hot air spins around golden fries, glowing orange
+      heating coil above, macro shot. Shot 2 (5-10 s): a pot of deep-frying oil spits and splatters on a stove, a cook
+      jumps back, oil stains everywhere. Shot 3 (10-15 s): a glowing red heating coil switches on inside a small
+      black box, heat shimmer. Shot 4 (15-20 s): fries lying flat in a pan, the top side pale and raw while only the
+      bottom browns. Shot 5 (20-25 s): a fast fan spins above the coil and blasts hot air down in a swirl, the fries
+      tumble. Shot 6 (25-30 s): fries piled in a tight heap, the middle ones soggy and pale, steam trapped.
+  - id: airfryer-B
+    build: 78
+    kit: airfryer
+    status: todo
+    file: buildit-airfryer-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): a basket with holes, hot air rushing up through the holes and around every fry. Shot 2
+      (5-10 s): the air fryer overheats, the outside gets too hot, smoke curls. Shot 3 (10-15 s): a thermostat clicks
+      and the coil dims, the temperature dial steady, calm golden fries. Shot 4 (15-20 s): two white towers on the
+      Gulf coast with giant blue-green spheres, Kuwait City at dusk. Shot 5 (20-25 s): a family kitchen, a kid pulls
+      out a basket of crispy chicken wings, everyone grabs one. Shot 6 (25-30 s): funny slow motion, a man shakes
+      the basket too hard and fries fly all over the kitchen and land on the cat.
+
+  - id: kuwait-A
+    build: 79
+    kit: kuwaittowers
+    status: todo
+    file: buildit-kuwait-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): the Kuwait Towers at sunset on the Gulf shore, giant spheres covered in shining blue, green and
+      silver discs, slow orbit. Shot 2 (5-10 s): a hot desert city in the 1970s, dry heat haze, people carrying water
+      cans, no fresh water. Shot 3 (10-15 s): a tall concrete needle with a huge sphere that is a water tank, water
+      filling it inside, cutaway. Shot 4 (15-20 s): heavy sand storm hitting the towers, dust everywhere. Shot 5
+      (20-25 s): thousands of steel discs in blue and green enamel being fixed onto the sphere by workers on ropes.
+      Shot 6 (25-30 s): a summer heat wave at 50 degrees, the metal discs expand and rattle loose, one falls and spins.
+  - id: kuwait-B
+    build: 79
+    kit: kuwaittowers
+    status: todo
+    file: buildit-kuwait-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): the top sphere, a round glass observation deck slowly rotating, visitors watching the sea. Shot 2
+      (5-10 s): the deck stops rotating, a mechanic looks at big gears. Shot 3 (10-15 s): close-up of huge gears and
+      wheels turning smoothly under the rotating deck. Shot 4 (15-20 s): a giant fountain in the Red Sea at Jeddah
+      shooting water hundreds of meters high at night, lights. Shot 5 (20-25 s): the restored towers at night lit up,
+      families on the Corniche taking photos. Shot 6 (25-30 s): funny slow motion, a man in a revolving restaurant puts
+      his tea on the window ledge and the room turns away from it, he chases it.
+
+  - id: fountain-A
+    build: 80
+    kit: jeddahfountain
+    status: todo
+    file: buildit-fountain-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): King Fahd's Fountain in Jeddah at night, a white jet of sea water shooting up higher than the
+      skyscrapers, lit by spotlights. Shot 2 (5-10 s): the Red Sea coast of Jeddah, flat sea, tourists see nothing
+      special. Shot 3 (10-15 s): huge pumps in a machine room under the sea pulling in sea water, pipes. Shot 4
+      (15-20 s): the jet sputters and falls, wind blows the spray over the road, cars wet. Shot 5 (20-25 s): a narrow
+      nozzle squeezing the water into a fast thin jet, close-up, water at enormous speed. Shot 6 (25-30 s): salt
+      crystals and rust eating away pipes and pumps, corrosion.
+  - id: fountain-B
+    build: 80
+    kit: jeddahfountain
+    status: todo
+    file: buildit-fountain-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): new pipes made of special steel that resists salt, shiny. Shot 2 (5-10 s): at night the jet is
+      invisible in the dark sky. Shot 3 (10-15 s): hundreds of powerful lights around the fountain base switch on and
+      light the jet like a glowing column. Shot 4 (15-20 s): macro shot of a zipper closing, metal teeth locking
+      together, slow motion. Shot 5 (20-25 s): families on the Jeddah Corniche watching the fountain, kids pointing.
+      Shot 6 (25-30 s): funny slow motion, a man stands too close and the wind blows the fountain mist onto him, his
+      white thobe soaked.
+
+  - id: zipper-A
+    build: 81
+    kit: zipper
+    status: todo
+    file: buildit-zipper-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): macro shot of a zipper slider racing up and two rows of metal teeth snapping together, slow
+      motion. Shot 2 (5-10 s): 1900s, a man struggling with dozens of tiny boot hooks and laces, frustrated. Shot 3
+      (10-15 s): two rows of small metal teeth with a hook and a hollow on each, macro. Shot 4 (15-20 s): the teeth
+      pull apart under force, a jacket bursts open. Shot 5 (20-25 s): a small wedge-shaped slider presses the teeth
+      together one by one, cutaway view. Shot 6 (25-30 s): the slider gets stuck on fabric, someone pulls hard.
+  - id: zipper-B
+    build: 81
+    kit: zipper
+    status: todo
+    file: buildit-zipper-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): a stiff strip of tape sewn along the teeth keeps fabric away. Shot 2 (5-10 s): the slider slides
+      down by itself, the zipper opens slowly. Shot 3 (10-15 s): a small locking pull tab clicks flat and the slider
+      stays put. Shot 4 (15-20 s): a long bridge across the sea that dives into an undersea tunnel at an artificial
+      island, aerial. Shot 5 (20-25 s): a factory making millions of zippers, machines and spools, 1913 inventor
+      Gideon Sundback at his desk. Shot 6 (25-30 s): funny slow motion, a man at a wedding notices his trouser zipper
+      is open, his face.

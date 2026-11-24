@@ -30,6 +30,10 @@ Not unlimited: Kling 3.0 / 4.0, Veo, Seedance at 1080p or 4K, sound, music. Thos
    chats share it. Before you press Generate, open History on the video page: if any card says "Generating", wait
    (check every minute) and do not press Generate twice: a second press while one is running is ignored. A 720p clip
    took about 13 minutes on Nov 23 (unlimited jobs wait in a slower queue). Pictures are faster.
+   PICTURES RUN IN PARALLEL (tested Nov 23 20:10 PT): an unlimited image job ran while the Seedance video job was
+   generating. Image models with the UNLIMITED badge: Nano Banana Pro, Nano Banana, GPT Image 2.6 Sunburst / Flare,
+   GPT Image 2.5, Seedream 5.0 lite / Pro / 4.5, FLUX.2 Pro, Kling O1, Auto. Keep the batch at 1/4 (raising it turns
+   Unlimited off and the button shows credits). Only Seedance 2.5 is unlimited for video.
 4. **Type your prompt only when you are ready to press Generate** (owner, Nov 23 19:54 PT): set the settings, check
    History is free, then type the prompt and press Generate right away, and clear the prompt box straight after, so
    another chat can type its own prompt and generate. Never leave a prompt waiting in the box.
@@ -48,6 +52,14 @@ Not unlimited: Kling 3.0 / 4.0, Veo, Seedance at 1080p or 4K, sound, music. Thos
    words, used where). Read it first: reuse a shot another project already made before you make a new one.
 8. **Stay in your lane:** each project's AI shots follow that project's own style rules and topics. Nothing sexual,
    no real people's faces in made-up scenes, no copyrighted characters or logos.
+
+## Build-It: the hourly runner (owner, Nov 23 20:32 PT: "use Higgsfield in the browser 24/7, you have to wait
+## because the other chat will be using it too")
+The scheduled task "Higgsfield runner" (hourly, on the owner's computer, Claude in Chrome) works through
+higgsfield/queue.yml (kit/series/SEEDANCE_STYLE.md explains the shots). Each run: fetch finished jobs, start the next
+todo job when History is free, make pictures in parallel, and while it waits it studies trends and free sources and
+writes what it finds in higgsfield/ideas.md. Other chats keep their turn: the runner never starts a job while
+History shows "Generating", and after its own job finishes it leaves the slot free for 5 minutes before the next one.
 
 ## The plan to get the most out of it
 **Nov 23-28: Seedance video days (the free video ends Nov 28).** Video is the scarce part, so every chat makes its

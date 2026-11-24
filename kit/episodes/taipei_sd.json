@@ -1,7 +1,13 @@
 {
  "name": "taipei_sd",
- "title": "TAIPEI 101",
- "kicker": "508 M · TYPHOON-PROOF",
+ "title": {
+  "en": "TAIPEI 101",
+  "ar": "تايبيه ١٠١"
+ },
+ "kicker": {
+  "en": "508 M · TYPHOON-PROOF",
+  "ar": "٥٠٨ متر ضد الأعاصير"
+ },
  "numbers": [
   [
    "five hundred",
@@ -95,5 +101,10 @@
    "src": "out/aishots/buildit-taipei-sdB.mp4",
    "at": 24.9
   }
- ]
+ ],
+ "build_no": 83,
+ "cover_name": {
+  "en": "TAIPEI 101",
+  "ar": "تايبيه ١٠١"
+ }
 }

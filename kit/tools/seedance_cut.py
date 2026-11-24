@@ -59,7 +59,7 @@ def chunks(words, numbers):
     out, cur = [], []
     for t in toks:
         cur.append(t)
-        end_punct = re.search(r"[.,:?!]$", t["w"])
+        end_punct = re.search(r"[.,:?!،؟]$", t["w"])
         if t.get("big") or len(cur) == 3 or end_punct or len("".join(x["w"] for x in cur)) > 14:
             out.append(cur)
             cur = []
@@ -68,7 +68,14 @@ def chunks(words, numbers):
     return out
 
 
-def build_ass(lines, numbers, title, kicker, total, path):
+def pick(v, lang):
+    return v.get(lang, v.get("en", "")) if isinstance(v, dict) else v
+
+
+def build_ass(lines, numbers, title, kicker, total, path, lang="en", cover=None):
+    ar = lang != "en"
+    capfont, bigfont, tfont, kfont = (("Tajawal Black",) * 2 + ("Tajawal ExtraBold",) * 2) if ar else \
+        ("Poppins Black", "Poppins Black", "Poppins Bold", "Poppins SemiBold")
     head = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -77,15 +84,23 @@ WrapStyle: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Cap,Poppins Black,104,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,6,5,60,60,0,1
-Style: Big,Poppins Black,190,{GOLD},&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,8,5,60,60,0,1
-Style: Title,Poppins Bold,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,14,0,1,0,3,8,60,60,150,1
-Style: Kick,Poppins SemiBold,34,{GOLD},&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,6,0,1,0,3,8,60,60,214,1
+Style: Cap,{capfont},{126 if ar else 104},&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,6,5,60,60,0,1
+Style: Big,{bigfont},190,{GOLD},&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,8,5,60,60,0,1
+Style: Title,{tfont},{54 if ar else 46},&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,{0 if ar else 14},0,1,0,3,8,60,60,150,1
+Style: Kick,{kfont},{38 if ar else 34},{GOLD},&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,{0 if ar else 6},0,1,0,3,8,60,60,214,1
+Style: CovS,{tfont},{64 if ar else 58},&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,4,6,5,60,60,0,1
+Style: CovB,{bigfont},{150 if ar else 140},{GOLD},&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,8,5,60,60,0,1
+Style: Badge,{kfont},44,&H00111111,&H00FFFFFF,&H003CC9FF,&H003CC9FF,0,0,0,0,100,100,{0 if ar else 4},0,3,14,0,5,60,60,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
     ev = []
+    if cover:
+        e0 = ass_time(0.0); e1 = ass_time(0.12)
+        ev.append(f"Dialogue: 3,{e0},{e1},Badge,,0,0,0,,{{\\pos({W // 2},{int(H * 0.16)})}}{cover['badge']}")
+        ev.append(f"Dialogue: 3,{e0},{e1},CovS,,0,0,0,,{{\\pos({W // 2},{int(H * 0.66)})}}{cover['top']}")
+        ev.append(f"Dialogue: 3,{e0},{e1},CovB,,0,0,0,,{{\\pos({W // 2},{int(H * 0.74)})\\q0}}{cover['name']}")
     # title: in for the hook, back for the closer
     for a, b in [(0.1, 3.6), (lines[-2]["start"] - 0.1, lines[-2]["end"] + 0.2)]:
         ev.append(f"Dialogue: 0,{ass_time(a)},{ass_time(b)},Title,,0,0,0,,{{\\fad(250,250)}}{title}")
@@ -94,7 +109,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     for li, ln in enumerate(lines):
         groups = chunks(ln["words"], numbers)
         for gi, g in enumerate(groups):
-            g_start = g[0]["start"]
+            g_start = max(g[0]["start"], 0.13 if cover else 0)
             nxt = groups[gi + 1][0]["start"] if gi + 1 < len(groups) else ln["end"] + 0.25
             if g[0].get("big"):
                 txt = g[0]["w"]
@@ -102,13 +117,15 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                           f"{{\\pos({W // 2},{cy - 40})\\fscx70\\fscy70\\t(0,140,\\fscx100\\fscy100)}}{txt}")
                 continue
             for k, w in enumerate(g):
-                a = w["start"]
+                a = max(w["start"], 0.13 if cover else 0)
                 b = g[k + 1]["start"] if k + 1 < len(g) else nxt
                 parts = []
                 for j, x in enumerate(g):
-                    word = x["w"].upper().rstrip(",.:")
+                    word = x["w"].rstrip(",.:؟،") if ar else x["w"].upper().rstrip(",.:")
                     parts.append(("{\\c" + GOLD + "}" + word + "{\\c&H00FFFFFF&}") if j == k else word)
                 pop = "\\fscx86\\fscy86\\t(0,110,\\fscx100\\fscy100)" if k == 0 else ""
+                if ar:          # libass lays colour-split runs left to right: put the words in visual order
+                    parts = parts[::-1]
                 ev.append(f"Dialogue: 1,{ass_time(a)},{ass_time(b)},Cap,,0,0,0,,"
                           f"{{\\pos({W // 2},{cy}){pop}}}" + " ".join(parts))
     open(path, "w").write(head + "\n".join(ev) + "\n")
@@ -160,6 +177,7 @@ def place(buf, clip, t, gain_db, sr):
 
 def main():
     spec_p, vbase, outd = sys.argv[1:4]
+    lang = sys.argv[4] if len(sys.argv) > 4 else "en"
     spec = json.load(open(spec_p))
     vj = json.load(open(vbase + ".json"))
     lines = vj["lines"]
@@ -205,9 +223,15 @@ def main():
     sf.write(mix, buf[: int(total * sr)], sr)
 
     ass = os.path.join(outd, "caps.ass")
-    build_ass(lines, spec.get("numbers", []), spec["title"], spec["kicker"], total, ass)
+    cov = None
+    if spec.get("build_no"):
+        cov = {"badge": ("  البناء رقم " + str(spec['build_no']).translate(str.maketrans("0123456789", "٠١٢٣٤٥٦٧٨٩")) + "  " if lang != "en" else f"  BUILD #{spec['build_no']}  "),
+               "top": ("مبروك، كذا بنيت" if lang != "en" else "CONGRATS, YOU JUST BUILT"),
+               "name": pick(spec.get("cover_name", spec["title"]), lang)}
+    build_ass(lines, spec.get("numbers", []) if lang == "en" else spec.get("numbers_ar", []), pick(spec["title"], lang),
+              pick(spec["kicker"], lang), total, ass, lang, cov)
     fonts = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "fonts"))
-    final = os.path.join(outd, spec.get("name", "episode") + ".mp4")
+    final = os.path.join(outd, spec.get("name", "episode") + f"_{lang}_final.mp4")
     tmp = final + ".part.mp4"
     fc = (f"[0:v]ass={ass}:fontsdir={fonts}[c];"
           f"color=c=0xFFC93C:s={W}x10:r={FPS}[bar];"
@@ -217,6 +241,25 @@ def main():
          "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
          "-ar", "48000", "-t", f"{total:.3f}", "-movflags", "+faststart", tmp])
     os.replace(tmp, final)
+    run(["ffmpeg", "-y", "-v", "error", "-i", final, "-frames:v", "1", os.path.join(outd, "cover.png")])
+    ts = [0.6] + [l["start"] + 0.8 for l in lines[1:]]
+    for i, t in enumerate(ts):
+        run(["ffmpeg", "-y", "-v", "error", "-ss", f"{t:.2f}", "-i", final, "-frames:v", "1", "-vf", "scale=270:-1",
+             os.path.join(outd, f"_q{i:02d}.png")])
+    qs = [os.path.join(outd, f"_q{i:02d}.png") for i in range(len(ts))]
+    rows = [qs[i:i + 7] for i in range(0, len(qs), 7)]
+    rows[-1] += [qs[-1]] * (7 - len(rows[-1]))
+    ins = sum((["-i", q] for r in rows for q in r), [])
+    fc2 = ";".join(f"{''.join(f'[{r * 7 + c}]' for c in range(7))}hstack=7[r{r}]" for r in range(len(rows)))
+    fc2 += ";" + "".join(f"[r{r}]" for r in range(len(rows))) + f"vstack={len(rows)}" if len(rows) > 1 else ""
+    run(["ffmpeg", "-y", "-v", "error", *ins, "-filter_complex", fc2, os.path.join(outd, "qa_sheet.png")])
+    for q in qs:
+        os.remove(q)
+    r = subprocess.run(["ffmpeg", "-hide_banner", "-i", final, "-af", "ebur128=peak=true", "-f", "null", "-"],
+                       capture_output=True, text=True).stderr
+    lufs = float(re.findall(r"I:\s+(-?[\d.]+) LUFS", r)[-1]); peak = float(re.findall(r"Peak:\s+(-?[\d.]+) dBFS", r)[-1])
+    d = probe_dur(final)
+    print(f"QA  duration {d:.1f}s  loudness {lufs} LUFS  true peak {peak} dBFS  {W}x{H} @ {FPS}")
     print("done", final, round(total, 2))
 
 

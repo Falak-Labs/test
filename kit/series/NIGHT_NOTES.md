@@ -1779,3 +1779,16 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   dispatches post.yml once 70 (08:00Z) and 71 (11:00Z) have gone out. Errors 48, 50, 56, 62, 66-69 were not requeued
   (no room; free 2-hour gaps start 01:30Z / 04:30Z Nov 27). Watch: 54's requeue (01:30Z Nov 25) and sm03's (02:00Z
   Nov 25) are only 30 minutes apart, so one may be refused as spam; left alone (sm03 is the show's).
+
+
+## Nov 23 20:45 PT: NEW STYLE for every build: Seedance (owner approved)
+- Owner after the Taipei 101 sample (Seedance footage only, cinema captions): "We can start making all our next
+  videos like that? Change the plans to the new one." Recipe: series/SEEDANCE_STYLE.md (two 6-shot Seedance jobs per
+  build, tools/seedance_cut.py, tools/seedance_publish.py writes media/ + review/ like produce.yml). This is the look
+  the STYLE paragraph of the production prompts waits for: follow it from the Nov 24 runs on.
+- Footage queue: higgsfield/queue.yml (76 cooker, 77 Golden Gate, 78 air fryer, 79 Kuwait Towers, 80 Jeddah
+  fountain, 81 zipper queued). The hourly task "Higgsfield runner" makes them on the owner's Chrome.
+- Free Seedance video ends Nov 28: bank footage until then. After that the same on-screen style runs on free
+  unlimited pictures (GPT Image 2.6 / Nano Banana Pro / Seedream) with slow zoom; the cutter takes .png shots.
+- Owner: the Easton voice is "annoying". Four ElevenLabs samples sent (Dan XA3P1cj7XJexe6Zq0ATX, Larry
+  fIGaHjfrR8KmMy0vGEVJ, Liam VCgLBmBjldJmfphyB8sZ, Brian nPczCjzI2devNBz1zQrb); voices.yml en changes when he picks.

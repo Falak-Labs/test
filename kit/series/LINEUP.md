@@ -5,6 +5,8 @@ Two runs a day make three builds each (Nov 17 2026, the owner: "Let's start post
 - **Build-It daily production** (18:37 PT) makes TOMORROW's last three builds.
 
 Rules:
+- STYLE (owner, Nov 23 20:32 PT): every new build is a Seedance build, see series/SEEDANCE_STYLE.md. Take the
+  lowest-numbered builds whose footage is done in higgsfield/queue.yml; v2 cartoon only when none is ready.
 - Each run takes the three lowest-numbered entries below that are not in episodes.yml yet and not taken, in this order.
   As soon as you pick them, add "(taken: midday|evening run of <TODAY in PT>)" to their lines and push this file, so
   the other run skips them. A mark older than a day whose build is still not in episodes.yml is free again.
