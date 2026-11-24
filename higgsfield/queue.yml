@@ -391,7 +391,7 @@ jobs:
     build: 86
     kit: kettle
     # Same facts as kettle-A. B4 teases build 87, the hot air balloon (LINEUP).
-    status: todo
+    status: "generating (started: Nov 24 05:18 PT)"
     file: buildit-kettle-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): a kettle sitting on a round cordless power base, small metal pins on the base meet the kettle

@@ -1844,3 +1844,4 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
 - Build 83 Thermos flask made (VOICE_SPEED=1.07, both passed gates): media/thermos-b83-en.mp4 71 s, -ar.mp4 67 s. Must be posted. Tease = Hoover Dam (build 84): hoover-A generating since ~03:38 PT, hoover-B todo. Minor: line 8 picture shows a steel flask falling (glass shot is B2 in the clip).
 - Build 84 Hoover Dam: both clips fetched (hoover-A hf_113552, hoover-B hf_115235); episode next. Build 85 Dubai Frame: dubaiframe-A generating, B todo.
 - Build 84 Hoover Dam made (VOICE_SPEED=1.06, both passed): media/hooverdam-b84-en.mp4 73 s, -ar.mp4 71 s. Must be posted. Tease = Dubai Frame (build 85): dubaiframe-A done, B generating. Note: hoover-B had no style line; look is fine.
+- Build 85 Dubai Frame made (VOICE_SPEED=1.10, both passed): media/dubaiframe-b85-en.mp4 74 s, -ar.mp4 72 s. Must be posted. Tease = kettle (build 86): kettle-A done, kettle-B generating.
