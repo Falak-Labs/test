@@ -32,6 +32,8 @@ ap.add_argument("--model", default="eleven_v4")
 ap.add_argument("--stability", type=float, default=0.5)
 ap.add_argument("--similarity", type=float, default=0.75)
 ap.add_argument("--force", action="store_true")
+ap.add_argument("--lines-only", default="", help="e.g. 4 or 4,9: record just these lines (1-based), once per seed, as patches")
+ap.add_argument("--seeds", default="1,2,3", help="seeds for --lines-only variants")
 a = ap.parse_args()
 
 key = os.environ.get("ELEVENLABS_API_KEY", "").strip()
@@ -44,10 +46,12 @@ os.makedirs(a.out, exist_ok=True)
 TAG = re.compile(r"\[[^\]]*\]")
 
 
-def post(voice, fmt):
+def post(voice, fmt, say=None, seed=None):
     url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice}/with-timestamps?output_format={fmt}"
-    body = {"text": text, "model_id": a.model,
+    body = {"text": say if say is not None else text, "model_id": a.model,
             "voice_settings": {"stability": a.stability, "similarity_boost": a.similarity}}
+    if seed is not None:
+        body["seed"] = int(seed)
     for attempt in range(5):
         r = requests.post(url, headers={"xi-api-key": key, "Content-Type": "application/json"}, json=body, timeout=300)
         if r.status_code == 200:
@@ -96,6 +100,25 @@ def words_and_lines(chars, starts, ends):
 
 
 report = []
+if a.lines_only:
+    # patch mode: single lines, one take per seed, so a misread word can be replaced without a new full take
+    for voice in [v.strip() for v in a.voices.split(",") if v.strip()]:
+        for n in [int(x) for x in a.lines_only.split(",") if x.strip()]:
+            say = lines[n - 1]
+            for seed in [x.strip() for x in a.seeds.split(",") if x.strip()]:
+                base = os.path.join(a.out, f"{voice}_L{n:02d}_s{seed}")
+                d, err = post(voice, "pcm_44100", say=say, seed=seed)
+                if d is None:
+                    print(f"{voice} L{n} seed {seed}: FAILED {err}"); continue
+                raw = base64.b64decode(d["audio_base64"])
+                with wave.open(base + ".wav", "wb") as w:
+                    w.setnchannels(1); w.setsampwidth(2); w.setframerate(44100); w.writeframes(raw)
+                al = d.get("alignment") or {}
+                json.dump({"voice": voice, "model": a.model, "line": n, "seed": seed, "text": say,
+                           "chars": al.get("characters", []), "starts": al.get("character_start_times_seconds", []),
+                           "ends": al.get("character_end_times_seconds", [])}, open(base + ".json", "w", encoding="utf-8"), ensure_ascii=False)
+                print(f"{voice} L{n} seed {seed}: {len(raw) / 2 / 44100:.1f} s, {len(say)} characters")
+    sys.exit(0)
 for voice in [v.strip() for v in a.voices.split(",") if v.strip()]:
     wav, js = os.path.join(a.out, f"{voice}.wav"), os.path.join(a.out, f"{voice}.json")
     if not a.force and os.path.exists(wav) and os.path.exists(js):

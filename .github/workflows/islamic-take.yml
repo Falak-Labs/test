@@ -22,6 +22,12 @@ on:
         description: "record again even if a take exists"
         type: boolean
         default: false
+      lines_only:
+        description: "patch mode: record only these lines (e.g. 4 or 4,9), once per seed"
+        default: ""
+      seeds:
+        description: "seeds for patch mode"
+        default: "1,2,3"
 permissions:
   contents: write
 concurrency:
@@ -48,10 +54,13 @@ jobs:
           MODEL: ${{ inputs.model }}
           STAB: ${{ inputs.stability }}
           FORCE: ${{ inputs.force }}
+          LINES_ONLY: ${{ inputs.lines_only }}
+          SEEDS: ${{ inputs.seeds }}
         run: |
           set -euo pipefail
           test -f "islamic/lines/${NAME}.txt" || { echo "islamic/lines/${NAME}.txt is missing"; exit 1; }
           extra=""; [ "$FORCE" = "true" ] && extra="--force"
+          [ -n "$LINES_ONLY" ] && extra="$extra --lines-only $LINES_ONLY --seeds $SEEDS"
           python -I -u islamic/tools/vo_take.py "islamic/lines/${NAME}.txt" "islamic/takes/${NAME}" \
             --voices "$VOICES" --model "$MODEL" --stability "$STAB" $extra
       - name: Save to the repo
