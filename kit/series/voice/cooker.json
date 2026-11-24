@@ -3,8 +3,8 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 67.487,
- "words": 178,
+ "duration": 68.516,
+ "words": 181,
  "words_per_sec": 2.64,
  "lines": [
   {
@@ -146,8 +146,8 @@
   {
    "line": 3,
    "start": 10.76,
-   "end": 16.493,
-   "text": "So you lock the lid with a rubber ring. Trapped steam squeezes the water, so it gets hotter.",
+   "end": 16.471,
+   "text": "So you lock the lid with a rubber seal. The trapped steam squeezes the water, so it gets hotter.",
    "words": [
     {
      "w": "So",
@@ -156,856 +156,871 @@
     },
     {
      "w": "you",
-     "start": 11.188,
-     "end": 11.331
+     "start": 11.26,
+     "end": 11.403
     },
     {
      "w": "lock",
-     "start": 11.403,
-     "end": 11.617
+     "start": 11.546,
+     "end": 11.688
     },
     {
      "w": "the",
-     "start": 11.688,
-     "end": 11.76
+     "start": 11.76,
+     "end": 11.831
     },
     {
      "w": "lid",
-     "start": 11.831,
-     "end": 12.046
+     "start": 11.903,
+     "end": 12.117
     },
     {
      "w": "with",
-     "start": 12.117,
-     "end": 12.188
+     "start": 12.188,
+     "end": 12.26
     },
     {
      "w": "a",
-     "start": 12.26,
+     "start": 12.331,
      "end": 12.403
     },
     {
      "w": "rubber",
      "start": 12.474,
-     "end": 12.688
+     "end": 12.76
     },
     {
-     "w": "ring.",
+     "w": "seal.",
      "start": 12.831,
-     "end": 13.322
+     "end": 13.546
     },
     {
-     "w": "Trapped",
-     "start": 13.572,
-     "end": 13.858
+     "w": "The",
+     "start": 13.617,
+     "end": 13.688
+    },
+    {
+     "w": "trapped",
+     "start": 13.724,
+     "end": 13.974
     },
     {
      "w": "steam",
-     "start": 13.929,
-     "end": 14.215
+     "start": 14.046,
+     "end": 14.331
     },
     {
      "w": "squeezes",
-     "start": 14.287,
-     "end": 14.858
+     "start": 14.403,
+     "end": 14.903
     },
     {
      "w": "the",
-     "start": 14.929,
-     "end": 15.001
+     "start": 14.974,
+     "end": 15.046
     },
     {
      "w": "water,",
-     "start": 15.072,
-     "end": 15.572
+     "start": 15.224,
+     "end": 15.546
     },
     {
      "w": "so",
-     "start": 15.644,
-     "end": 15.715
+     "start": 15.617,
+     "end": 15.688
     },
     {
      "w": "it",
-     "start": 15.751,
-     "end": 15.787
+     "start": 15.724,
+     "end": 15.76
     },
     {
      "w": "gets",
-     "start": 15.858,
-     "end": 16.001
+     "start": 15.831,
+     "end": 15.974
     },
     {
      "w": "hotter.",
-     "start": 16.072,
-     "end": 16.644
+     "start": 16.046,
+     "end": 16.688
     }
    ]
   },
   {
    "line": 4,
-   "start": 16.805,
-   "end": 20.637,
+   "start": 16.783,
+   "end": 20.614,
    "text": "But the steam keeps building, and the pot starts to rattle.",
    "words": [
     {
      "w": "But",
-     "start": 17.296,
-     "end": 17.368
+     "start": 17.274,
+     "end": 17.346
     },
     {
      "w": "the",
-     "start": 17.439,
-     "end": 17.511
+     "start": 17.417,
+     "end": 17.488
     },
     {
      "w": "steam",
-     "start": 17.582,
-     "end": 17.939
+     "start": 17.56,
+     "end": 17.917
     },
     {
      "w": "keeps",
-     "start": 18.011,
-     "end": 18.225
+     "start": 17.988,
+     "end": 18.203
     },
     {
      "w": "building,",
-     "start": 18.368,
-     "end": 18.984
+     "start": 18.346,
+     "end": 18.962
     },
     {
      "w": "and",
-     "start": 19.02,
-     "end": 19.055
+     "start": 18.997,
+     "end": 19.033
     },
     {
      "w": "the",
-     "start": 19.127,
-     "end": 19.198
+     "start": 19.104,
+     "end": 19.176
     },
     {
      "w": "pot",
-     "start": 19.27,
-     "end": 19.555
+     "start": 19.247,
+     "end": 19.533
     },
     {
      "w": "starts",
-     "start": 19.627,
-     "end": 19.912
+     "start": 19.604,
+     "end": 19.89
     },
     {
      "w": "to",
-     "start": 19.948,
-     "end": 19.984
+     "start": 19.926,
+     "end": 19.962
     },
     {
      "w": "rattle.",
-     "start": 20.127,
-     "end": 20.77
+     "start": 20.104,
+     "end": 20.747
     }
    ]
   },
   {
    "line": 5,
-   "start": 20.949,
-   "end": 25.921,
+   "start": 20.927,
+   "end": 25.899,
    "text": "So a little weight sits on a hole in the lid. Extra steam lifts it, and whistles.",
    "words": [
     {
      "w": "So",
-     "start": 21.154,
-     "end": 21.296
+     "start": 21.131,
+     "end": 21.274
     },
     {
      "w": "a",
-     "start": 21.368,
-     "end": 21.439
+     "start": 21.346,
+     "end": 21.417
     },
     {
      "w": "little",
-     "start": 21.511,
-     "end": 21.725
+     "start": 21.488,
+     "end": 21.703
     },
     {
      "w": "weight",
-     "start": 21.796,
-     "end": 22.082
+     "start": 21.774,
+     "end": 22.06
     },
     {
      "w": "sits",
-     "start": 22.154,
-     "end": 22.368
+     "start": 22.131,
+     "end": 22.346
     },
     {
      "w": "on",
-     "start": 22.404,
-     "end": 22.439
+     "start": 22.381,
+     "end": 22.417
     },
     {
      "w": "a",
-     "start": 22.511,
-     "end": 22.582
+     "start": 22.488,
+     "end": 22.56
     },
     {
      "w": "hole",
-     "start": 22.654,
-     "end": 22.868
+     "start": 22.631,
+     "end": 22.846
     },
     {
      "w": "in",
-     "start": 22.939,
-     "end": 23.011
+     "start": 22.917,
+     "end": 22.988
     },
     {
      "w": "the",
-     "start": 23.046,
-     "end": 23.082
+     "start": 23.024,
+     "end": 23.06
     },
     {
      "w": "lid.",
-     "start": 23.154,
-     "end": 23.574
+     "start": 23.131,
+     "end": 23.552
     },
     {
      "w": "Extra",
-     "start": 23.752,
-     "end": 24.037
+     "start": 23.729,
+     "end": 24.015
     },
     {
      "w": "steam",
-     "start": 24.109,
-     "end": 24.395
+     "start": 24.087,
+     "end": 24.372
     },
     {
      "w": "lifts",
-     "start": 24.466,
-     "end": 24.716
+     "start": 24.444,
+     "end": 24.694
     },
     {
      "w": "it,",
-     "start": 24.752,
-     "end": 25.064
+     "start": 24.729,
+     "end": 25.042
     },
     {
      "w": "and",
-     "start": 25.136,
-     "end": 25.207
+     "start": 25.113,
+     "end": 25.185
     },
     {
      "w": "whistles.",
-     "start": 25.279,
-     "end": 26.064
+     "start": 25.256,
+     "end": 26.042
     }
    ]
   },
   {
    "line": 6,
-   "start": 26.234,
-   "end": 29.535,
+   "start": 26.212,
+   "end": 29.512,
    "text": "But one bean skin can plug that hole. Oh boy.",
    "words": [
     {
      "w": "But",
-     "start": 26.364,
-     "end": 26.579
+     "start": 26.342,
+     "end": 26.556
     },
     {
      "w": "one",
-     "start": 26.721,
-     "end": 26.936
+     "start": 26.699,
+     "end": 26.913
     },
     {
      "w": "bean",
-     "start": 27.007,
-     "end": 27.221
+     "start": 26.985,
+     "end": 27.199
     },
     {
      "w": "skin",
-     "start": 27.293,
-     "end": 27.507
+     "start": 27.271,
+     "end": 27.485
     },
     {
      "w": "can",
-     "start": 27.579,
-     "end": 27.721
+     "start": 27.556,
+     "end": 27.699
     },
     {
      "w": "plug",
-     "start": 27.793,
-     "end": 28.007
+     "start": 27.771,
+     "end": 27.985
     },
     {
      "w": "that",
-     "start": 28.114,
-     "end": 28.221
+     "start": 28.092,
+     "end": 28.199
     },
     {
      "w": "hole.",
-     "start": 28.4,
-     "end": 28.716
+     "start": 28.378,
+     "end": 28.694
     },
     {
      "w": "Oh",
-     "start": 28.811,
-     "end": 29.025
+     "start": 28.788,
+     "end": 29.003
     },
     {
      "w": "boy.",
-     "start": 29.168,
-     "end": 29.739
+     "start": 29.146,
+     "end": 29.717
     }
    ]
   },
   {
    "line": 7,
-   "start": 29.847,
-   "end": 34.521,
+   "start": 29.825,
+   "end": 34.497,
    "text": "So you add a backup plug. It melts, and the steam escapes sideways.",
    "words": [
     {
      "w": "So",
-     "start": 30.062,
-     "end": 30.204
+     "start": 30.039,
+     "end": 30.182
     },
     {
      "w": "you",
-     "start": 30.347,
-     "end": 30.49
+     "start": 30.325,
+     "end": 30.468
     },
     {
      "w": "add",
-     "start": 30.562,
-     "end": 30.633
+     "start": 30.539,
+     "end": 30.611
     },
     {
      "w": "a",
-     "start": 30.704,
-     "end": 30.776
+     "start": 30.682,
+     "end": 30.754
     },
     {
      "w": "backup",
-     "start": 30.847,
-     "end": 31.204
+     "start": 30.825,
+     "end": 31.182
     },
     {
      "w": "plug.",
-     "start": 31.276,
-     "end": 31.633
+     "start": 31.254,
+     "end": 31.611
     },
     {
      "w": "It",
-     "start": 31.919,
-     "end": 32.062
+     "start": 31.896,
+     "end": 32.039
     },
     {
      "w": "melts,",
-     "start": 32.204,
-     "end": 32.633
+     "start": 32.182,
+     "end": 32.611
     },
     {
      "w": "and",
-     "start": 32.704,
-     "end": 32.776
+     "start": 32.682,
+     "end": 32.754
     },
     {
      "w": "the",
-     "start": 32.812,
-     "end": 32.847
+     "start": 32.789,
+     "end": 32.825
     },
     {
      "w": "steam",
-     "start": 32.919,
-     "end": 33.204
+     "start": 32.896,
+     "end": 33.182
     },
     {
      "w": "escapes",
-     "start": 33.312,
-     "end": 33.633
+     "start": 33.289,
+     "end": 33.611
     },
     {
      "w": "sideways.",
-     "start": 33.704,
-     "end": 34.633
+     "start": 33.682,
+     "end": 34.611
     }
    ]
   },
   {
    "line": 8,
-   "start": 34.833,
-   "end": 39.139,
+   "start": 34.81,
+   "end": 39.116,
    "text": "But somebody always gets hungry and tries to open it early.",
    "words": [
     {
      "w": "But",
-     "start": 35.687,
-     "end": 35.83
+     "start": 35.665,
+     "end": 35.808
     },
     {
      "w": "somebody",
-     "start": 35.973,
-     "end": 36.473
+     "start": 35.951,
+     "end": 36.451
     },
     {
      "w": "always",
-     "start": 36.545,
-     "end": 36.973
+     "start": 36.522,
+     "end": 36.951
     },
     {
      "w": "gets",
-     "start": 37.045,
-     "end": 37.187
+     "start": 37.022,
+     "end": 37.165
     },
     {
      "w": "hungry",
-     "start": 37.259,
-     "end": 37.616
+     "start": 37.237,
+     "end": 37.594
     },
     {
      "w": "and",
-     "start": 37.688,
-     "end": 37.759
+     "start": 37.665,
+     "end": 37.737
     },
     {
      "w": "tries",
-     "start": 37.902,
-     "end": 38.045
+     "start": 37.879,
+     "end": 38.022
     },
     {
      "w": "to",
-     "start": 38.116,
-     "end": 38.188
+     "start": 38.094,
+     "end": 38.165
     },
     {
      "w": "open",
-     "start": 38.259,
-     "end": 38.473
+     "start": 38.237,
+     "end": 38.451
     },
     {
      "w": "it",
-     "start": 38.545,
-     "end": 38.616
+     "start": 38.522,
+     "end": 38.594
     },
     {
      "w": "early.",
-     "start": 38.687,
-     "end": 39.33
+     "start": 38.665,
+     "end": 39.308
     }
    ]
   },
   {
    "line": 9,
-   "start": 39.452,
-   "end": 42.879,
+   "start": 39.429,
+   "end": 42.856,
    "text": "So a little pin locks the lid until the pressure is gone.",
    "words": [
     {
      "w": "So",
-     "start": 39.652,
-     "end": 39.795
+     "start": 39.629,
+     "end": 39.772
     },
     {
      "w": "a",
-     "start": 39.866,
-     "end": 39.937
+     "start": 39.844,
+     "end": 39.915
     },
     {
      "w": "little",
-     "start": 40.009,
-     "end": 40.223
+     "start": 39.987,
+     "end": 40.201
     },
     {
      "w": "pin",
-     "start": 40.366,
-     "end": 40.652
+     "start": 40.344,
+     "end": 40.629
     },
     {
      "w": "locks",
-     "start": 40.723,
-     "end": 41.009
+     "start": 40.701,
+     "end": 40.987
     },
     {
      "w": "the",
-     "start": 41.08,
-     "end": 41.152
+     "start": 41.058,
+     "end": 41.129
     },
     {
      "w": "lid",
-     "start": 41.223,
-     "end": 41.437
+     "start": 41.201,
+     "end": 41.415
     },
     {
      "w": "until",
-     "start": 41.509,
-     "end": 41.723
+     "start": 41.487,
+     "end": 41.701
     },
     {
      "w": "the",
-     "start": 41.795,
-     "end": 41.866
+     "start": 41.772,
+     "end": 41.844
     },
     {
      "w": "pressure",
-     "start": 42.045,
-     "end": 42.223
+     "start": 42.022,
+     "end": 42.201
     },
     {
      "w": "is",
-     "start": 42.295,
-     "end": 42.438
+     "start": 42.272,
+     "end": 42.415
     },
     {
      "w": "gone.",
-     "start": 42.616,
-     "end": 43.009
+     "start": 42.594,
+     "end": 42.987
     }
    ]
   },
   {
    "line": 10,
-   "start": 43.191,
-   "end": 48.546,
-   "text": "Hit follow, 'cause next we're building the Golden Gate Bridge. Yes... the orange one.",
+   "start": 43.169,
+   "end": 49.477,
+   "text": "Hit follow, 'cause next we're building San Francisco's Golden Gate Bridge. Yes... the orange one.",
    "words": [
     {
      "w": "Hit",
-     "start": 43.258,
-     "end": 43.401
+     "start": 43.308,
+     "end": 43.451
     },
     {
      "w": "follow,",
-     "start": 43.472,
-     "end": 44.008
+     "start": 43.594,
+     "end": 44.165
     },
     {
      "w": "'cause",
-     "start": 44.115,
-     "end": 44.329
+     "start": 44.308,
+     "end": 44.594
     },
     {
      "w": "next",
-     "start": 44.401,
-     "end": 44.687
+     "start": 44.665,
+     "end": 44.879
     },
     {
      "w": "we're",
-     "start": 44.758,
-     "end": 44.901
+     "start": 44.951,
+     "end": 45.165
     },
     {
      "w": "building",
-     "start": 45.044,
-     "end": 45.187
+     "start": 45.308,
+     "end": 45.451
     },
     {
-     "w": "the",
-     "start": 45.258,
-     "end": 45.329
+     "w": "San",
+     "start": 45.522,
+     "end": 45.665
+    },
+    {
+     "w": "Francisco's",
+     "start": 45.737,
+     "end": 46.308
     },
     {
      "w": "Golden",
-     "start": 45.472,
-     "end": 45.615
+     "start": 46.379,
+     "end": 46.594
     },
     {
      "w": "Gate",
-     "start": 45.687,
-     "end": 45.829
+     "start": 46.665,
+     "end": 46.879
     },
     {
      "w": "Bridge.",
-     "start": 45.901,
-     "end": 46.437
+     "start": 46.951,
+     "end": 47.487
     },
     {
      "w": "Yes...",
-     "start": 47.115,
-     "end": 47.687
+     "start": 48.237,
+     "end": 48.638
     },
     {
      "w": "the",
-     "start": 47.722,
-     "end": 47.758
+     "start": 48.71,
+     "end": 48.781
     },
     {
      "w": "orange",
-     "start": 47.901,
-     "end": 48.187
+     "start": 48.853,
+     "end": 49.138
     },
     {
      "w": "one.",
-     "start": 48.258,
-     "end": 48.758
+     "start": 49.21,
+     "end": 49.638
     }
    ]
   },
   {
    "line": 11,
-   "start": 48.858,
-   "end": 54.908,
-   "text": "Today in India, nobody sets a timer. They count whistles. Three whistles, and the lentils are done.",
+   "start": 49.789,
+   "end": 55.923,
+   "text": "And today in India, nobody sets a timer. They count whistles. Three whistles, and the lentils are done.",
    "words": [
     {
-     "w": "Today",
-     "start": 49.072,
-     "end": 49.429
+     "w": "And",
+     "start": 49.932,
+     "end": 50.075
+    },
+    {
+     "w": "today",
+     "start": 50.146,
+     "end": 50.504
     },
     {
      "w": "in",
-     "start": 49.501,
-     "end": 49.572
+     "start": 50.575,
+     "end": 50.646
     },
     {
      "w": "India,",
-     "start": 49.644,
-     "end": 50.358
+     "start": 50.718,
+     "end": 51.254
     },
     {
      "w": "nobody",
-     "start": 50.501,
-     "end": 50.929
+     "start": 51.468,
+     "end": 51.896
     },
     {
      "w": "sets",
-     "start": 51.037,
-     "end": 51.144
+     "start": 51.968,
+     "end": 52.111
     },
     {
      "w": "a",
-     "start": 51.179,
-     "end": 51.215
+     "start": 52.182,
+     "end": 52.254
     },
     {
      "w": "timer.",
-     "start": 51.287,
-     "end": 51.831
+     "start": 52.468,
+     "end": 52.78
     },
     {
      "w": "They",
-     "start": 51.903,
-     "end": 51.974
+     "start": 52.896,
+     "end": 52.968
     },
     {
      "w": "count",
-     "start": 52.117,
-     "end": 52.26
+     "start": 53.111,
+     "end": 53.254
     },
     {
      "w": "whistles.",
-     "start": 52.331,
-     "end": 53.001
+     "start": 53.325,
+     "end": 53.923
     },
     {
      "w": "Three",
-     "start": 53.072,
-     "end": 53.144
+     "start": 54.03,
+     "end": 54.173
     },
     {
      "w": "whistles,",
-     "start": 53.215,
-     "end": 53.787
+     "start": 54.245,
+     "end": 54.745
     },
     {
      "w": "and",
-     "start": 53.858,
-     "end": 53.929
+     "start": 54.816,
+     "end": 54.887
     },
     {
      "w": "the",
-     "start": 53.977,
-     "end": 54.025
+     "start": 54.923,
+     "end": 54.959
     },
     {
      "w": "lentils",
-     "start": 54.072,
-     "end": 54.358
+     "start": 55.03,
+     "end": 55.387
     },
     {
      "w": "are",
-     "start": 54.429,
-     "end": 54.501
+     "start": 55.459,
+     "end": 55.53
     },
     {
      "w": "done.",
-     "start": 54.644,
-     "end": 55.072
+     "start": 55.673,
+     "end": 56.03
     }
    ]
   },
   {
    "line": 12,
-   "start": 55.221,
-   "end": 59.565,
+   "start": 56.236,
+   "end": 60.579,
    "text": "One lid, one little weight, and water at about a hundred twenty degrees.",
    "words": [
     {
      "w": "One",
-     "start": 55.363,
-     "end": 55.506
+     "start": 56.379,
+     "end": 56.521
     },
     {
      "w": "lid,",
-     "start": 55.578,
-     "end": 56.042
+     "start": 56.593,
+     "end": 57.057
     },
     {
      "w": "one",
-     "start": 56.221,
-     "end": 56.363
+     "start": 57.236,
+     "end": 57.379
     },
     {
      "w": "little",
-     "start": 56.435,
-     "end": 56.578
+     "start": 57.45,
+     "end": 57.593
     },
     {
      "w": "weight,",
-     "start": 56.649,
-     "end": 57.042
+     "start": 57.664,
+     "end": 58.057
     },
     {
      "w": "and",
-     "start": 57.149,
-     "end": 57.292
+     "start": 58.164,
+     "end": 58.307
     },
     {
      "w": "water",
-     "start": 57.435,
-     "end": 57.649
+     "start": 58.45,
+     "end": 58.664
     },
     {
      "w": "at",
-     "start": 57.721,
-     "end": 57.792
+     "start": 58.736,
+     "end": 58.807
     },
     {
      "w": "about",
-     "start": 57.863,
-     "end": 58.078
+     "start": 58.879,
+     "end": 59.093
     },
     {
      "w": "a",
-     "start": 58.149,
-     "end": 58.221
+     "start": 59.164,
+     "end": 59.236
     },
     {
      "w": "hundred",
-     "start": 58.292,
-     "end": 58.506
+     "start": 59.307,
+     "end": 59.521
     },
     {
      "w": "twenty",
-     "start": 58.649,
-     "end": 58.792
+     "start": 59.664,
+     "end": 59.807
     },
     {
      "w": "degrees.",
-     "start": 58.863,
-     "end": 59.721
+     "start": 59.879,
+     "end": 60.736
     }
    ]
   },
   {
    "line": 13,
-   "start": 59.878,
-   "end": 63.102,
+   "start": 60.892,
+   "end": 64.117,
    "text": "And congrats, you just built a pressure cooker yourself.",
    "words": [
     {
      "w": "And",
-     "start": 60.0,
-     "end": 60.021
+     "start": 61.014,
+     "end": 61.035
     },
     {
      "w": "congrats,",
-     "start": 60.092,
-     "end": 60.985
+     "start": 61.106,
+     "end": 61.999
     },
     {
      "w": "you",
-     "start": 61.163,
-     "end": 61.306
+     "start": 62.178,
+     "end": 62.321
     },
     {
      "w": "just",
-     "start": 61.413,
-     "end": 61.521
+     "start": 62.428,
+     "end": 62.535
     },
     {
      "w": "built",
-     "start": 61.628,
-     "end": 61.735
+     "start": 62.642,
+     "end": 62.749
     },
     {
      "w": "a",
-     "start": 61.771,
-     "end": 61.806
+     "start": 62.785,
+     "end": 62.821
     },
     {
      "w": "pressure",
-     "start": 61.878,
-     "end": 62.163
+     "start": 62.892,
+     "end": 63.178
     },
     {
      "w": "cooker",
-     "start": 62.235,
-     "end": 62.449
+     "start": 63.249,
+     "end": 63.463
     },
     {
      "w": "yourself.",
-     "start": 62.521,
-     "end": 63.306
+     "start": 63.535,
+     "end": 64.321
     }
    ]
   },
   {
    "line": 14,
-   "start": 63.414,
-   "end": 67.485,
+   "start": 64.429,
+   "end": 68.499,
    "text": "Open it too early... and you're wearing the soup.",
    "words": [
     {
      "w": "Open",
-     "start": 63.977,
-     "end": 64.263
+     "start": 64.992,
+     "end": 65.278
     },
     {
      "w": "it",
-     "start": 64.334,
-     "end": 64.405
+     "start": 65.349,
+     "end": 65.421
     },
     {
      "w": "too",
-     "start": 64.477,
-     "end": 64.62
+     "start": 65.492,
+     "end": 65.635
     },
     {
      "w": "early...",
-     "start": 64.691,
-     "end": 65.405
+     "start": 65.706,
+     "end": 66.421
     },
     {
      "w": "and",
-     "start": 66.162,
-     "end": 66.191
+     "start": 67.178,
+     "end": 67.206
     },
     {
      "w": "you're",
-     "start": 66.262,
-     "end": 66.477
+     "start": 67.278,
+     "end": 67.492
     },
     {
      "w": "wearing",
-     "start": 66.512,
-     "end": 66.834
+     "start": 67.528,
+     "end": 67.849
     },
     {
      "w": "the",
-     "start": 66.905,
-     "end": 66.977
+     "start": 67.921,
+     "end": 67.992
     },
     {
      "w": "soup.",
-     "start": 67.048,
-     "end": 67.62
+     "start": 68.063,
+     "end": 68.635
     }
    ]
   }
