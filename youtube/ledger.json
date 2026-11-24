@@ -26,7 +26,13 @@
   {"key": "ep69-dishwasher-en", "id": "SQiFHlLDdZQ", "channel": "Congrats Engineer", "at": "2026-11-23T05:34Z"},
   {"key": "ep67-colosseum-ar", "id": "KrkJuFZKMjE", "channel": "Kef Tenbeni", "at": "2026-11-23T05:35Z"},
   {"key": "ep68-taipei-ar", "id": "eHjiljWmH4o", "channel": "Kef Tenbeni", "at": "2026-11-23T05:36Z"},
-  {"key": "ep69-dishwasher-ar", "id": "_sVquSHwUzg", "channel": "Kef Tenbeni", "at": "2026-11-23T05:37Z"}
+  {"key": "ep69-dishwasher-ar", "id": "_sVquSHwUzg", "channel": "Kef Tenbeni", "at": "2026-11-23T05:37Z"},
+  {"key": "ep70-louvre-en", "id": "wXMv3U2nGwo", "channel": "Congrats Engineer", "at": "2026-11-24T00:48Z"},
+  {"key": "ep71-vacuum-en", "id": "RKmLbXV-mJ0", "channel": "Congrats Engineer", "at": "2026-11-24T00:49Z"},
+  {"key": "ep72-petronas-en", "id": "u7Ib04ecHl4", "channel": "Congrats Engineer", "at": "2026-11-24T00:50Z"},
+  {"key": "ep70-louvre-ar", "id": "7vUfTtlK8gw", "channel": "Kef Tenbeni", "at": "2026-11-24T00:51Z"},
+  {"key": "ep71-vacuum-ar", "id": "BJ2xqUNv1rI", "channel": "Kef Tenbeni", "at": "2026-11-24T00:52Z"},
+  {"key": "ep72-petronas-ar", "id": "kA5jpbgOGuU", "channel": "Kef Tenbeni", "at": "2026-11-24T00:53Z"}
  ],
  "refused": [
   {"at": "2026-11-22T05:32Z", "channel": "Congrats Engineer"},
