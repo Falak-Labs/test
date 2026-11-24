@@ -1,0 +1,15 @@
+{"name":"seatbelt_sd","title":{"en":"SEATBELT","ar":"حزام الأمان"},"kicker":{"en":"1 STRAP · 1 SPOOL · 1 PENDULUM","ar":"حزام · بكرة · بندول"},"build_no":92,"cover_name":{"en":"A SEATBELT","ar":"حزام الأمان"},"numbers":[["nineteen fifty nine","1959"]],"shots":[
+{"line":1,"src":"out/aishots/buildit-seatbelt-sdA.mp4","at":0},
+{"line":2,"src":"out/aishots/buildit-seatbelt-sdA.mp4","at":5.1},
+{"line":3,"src":"out/aishots/buildit-seatbelt-sdA.mp4","at":10.0},
+{"line":4,"src":"out/aishots/buildit-seatbelt-sdA.mp4","at":15.1},
+{"line":5,"src":"out/aishots/buildit-seatbelt-sdA.mp4","at":20.0},
+{"line":6,"src":"out/aishots/buildit-seatbelt-sdA.mp4","at":25.1},
+{"line":7,"src":"out/aishots/buildit-seatbelt-sdB.mp4","at":0.0},
+{"line":8,"src":"out/aishots/buildit-seatbelt-sdA.mp4","at":7.5},
+{"line":9,"src":"out/aishots/buildit-seatbelt-sdB.mp4","at":5.0},
+{"line":10,"src":"out/aishots/buildit-seatbelt-sdB.mp4","at":15.0},
+{"line":11,"src":"out/aishots/buildit-seatbelt-sdB.mp4","at":20.0},
+{"line":12,"src":"out/aishots/buildit-seatbelt-sdA.mp4","at":0.5},
+{"line":13,"src":"out/aishots/buildit-seatbelt-sdB.mp4","at":10.0},
+{"line":14,"src":"out/aishots/buildit-seatbelt-sdB.mp4","at":25.0}]}
