@@ -1,0 +1,136 @@
+{
+ "slug": "ep73-pharos",
+ "kit": "pharos",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 65.03,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "15/215",
+   "mix_lines_off": [
+    "L 3 4 diff  | So you stack a stone tower about 100 meters high, like a building with 34s.",
+    "L 8 2 diff  | But that fire eats loads of wood every night, and the top is 100 meters up.",
+    "L11 1 diff  | Now the story, sailors saw its fire 50 kilometers out at sea until earthquakes threw it into the harbor.",
+    "L12 6 diff  | 100 meters, 1600 years, and 22 giant stones lifted from the sea last year.",
+    "L14 2 diff  | This tower guided ships home for 1600 years, and the delivery guy still can't find your house."
+   ],
+   "size_mb": 15.4,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تشب نار فوق برج عملاق، مبروك، كذا سويت لك منارة الإسكندرية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس الصخور المخفية تغرّق السفن. طيب، من كم كيلو يشوفون نارك؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتبني برج حجر طوله تقريبا مية متر، يعني مثل عمارة ثلاثين دور.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس في الليل، محد يشوف برج من حجر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فتشب نار كبيرة فوقه، تولّع كل ليلة لين الصبح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس من بعيد في البحر، النار تبان مثل شرارة صغيرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فتحط مراية برونز كبيرة، ترمي نورها بعيد فوق الموج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس النار تاكل حطب كثير كل ليلة، والسطح فوق مية متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتسوي طريق يلف داخل البرج، والحيوانات تشيل الحطب لين فوق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تبحر، تابعني، لأن الجاي بنبني مبنى يختفي في الصحرا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: البحارة كانوا يشوفون نارها من خمسين كيلو، لين ما طيّحتها الزلازل في البحر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "مية متر، وألف وستمية سنة، واثنين وعشرين حجر عملاق طلّعوها من البحر السنة اللي فاتت.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك منارة الإسكندرية بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "منارة دلّت السفن ألف وستمية سنة، ومندوب التوصيل للحين يتصل: وين بيتكم بالضبط؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 16.1,
+   "cover": true
+  }
+ }
+}

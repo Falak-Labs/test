@@ -1,0 +1,13 @@
+pharos: 65.02s, 1951 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/pharos/cover.png: ['THE LIGHTHOUSE', 'OF ALEXANDRIA'] (frame 0 of the video)
+video done in 402s
+audio done
+final out/pharos/pharos_final.mp4
+QA  duration 65.03s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 1951
+QA sheet out/pharos/qa_sheet.png
