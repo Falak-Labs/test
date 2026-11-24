@@ -1,0 +1,270 @@
+{
+ "voice": "elevenlabs:FGY2WhTYpPnrIDTdsKH5",
+ "model": "eleven_multilingual_v2",
+ "tempo": 1.0,
+ "gap": 0.35,
+ "duration": 14.255,
+ "words": 47,
+ "words_per_sec": 3.3,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.35,
+   "text": "This gold ball is the only thing keeping this tower up in a typhoon.",
+   "words": [
+    {
+     "w": "This",
+     "start": 0.0,
+     "end": 0.17
+    },
+    {
+     "w": "gold",
+     "start": 0.24,
+     "end": 0.449
+    },
+    {
+     "w": "ball",
+     "start": 0.495,
+     "end": 0.716
+    },
+    {
+     "w": "is",
+     "start": 0.774,
+     "end": 0.844
+    },
+    {
+     "w": "the",
+     "start": 0.902,
+     "end": 0.971
+    },
+    {
+     "w": "only",
+     "start": 1.029,
+     "end": 1.192
+    },
+    {
+     "w": "thing",
+     "start": 1.238,
+     "end": 1.401
+    },
+    {
+     "w": "keeping",
+     "start": 1.459,
+     "end": 1.749
+    },
+    {
+     "w": "this",
+     "start": 1.796,
+     "end": 1.912
+    },
+    {
+     "w": "tower",
+     "start": 1.981,
+     "end": 2.318
+    },
+    {
+     "w": "up",
+     "start": 2.388,
+     "end": 2.492
+    },
+    {
+     "w": "in",
+     "start": 2.55,
+     "end": 2.608
+    },
+    {
+     "w": "a",
+     "start": 2.655,
+     "end": 2.678
+    },
+    {
+     "w": "typhoon.",
+     "start": 2.724,
+     "end": 3.514
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 3.7,
+   "end": 8.456,
+   "text": "Taipei gets typhoons every year, and earthquakes shake the ground. So how does it stay up?",
+   "words": [
+    {
+     "w": "Taipei",
+     "start": 3.7,
+     "end": 4.103
+    },
+    {
+     "w": "gets",
+     "start": 4.149,
+     "end": 4.323
+    },
+    {
+     "w": "typhoons",
+     "start": 4.37,
+     "end": 4.846
+    },
+    {
+     "w": "every",
+     "start": 4.892,
+     "end": 5.101
+    },
+    {
+     "w": "year,",
+     "start": 5.148,
+     "end": 5.508
+    },
+    {
+     "w": "and",
+     "start": 5.554,
+     "end": 5.705
+    },
+    {
+     "w": "earthquakes",
+     "start": 5.786,
+     "end": 6.378
+    },
+    {
+     "w": "shake",
+     "start": 6.425,
+     "end": 6.657
+    },
+    {
+     "w": "the",
+     "start": 6.692,
+     "end": 6.761
+    },
+    {
+     "w": "ground.",
+     "start": 6.796,
+     "end": 7.3
+    },
+    {
+     "w": "So",
+     "start": 7.405,
+     "end": 7.556
+    },
+    {
+     "w": "how",
+     "start": 7.614,
+     "end": 7.707
+    },
+    {
+     "w": "does",
+     "start": 7.742,
+     "end": 7.858
+    },
+    {
+     "w": "it",
+     "start": 7.893,
+     "end": 7.963
+    },
+    {
+     "w": "stay",
+     "start": 7.998,
+     "end": 8.183
+    },
+    {
+     "w": "up?",
+     "start": 8.253,
+     "end": 8.694
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.806,
+   "end": 14.255,
+   "text": "First, you build it like bamboo: eight sections of eight floors, on steel columns filled with concrete.",
+   "words": [
+    {
+     "w": "First,",
+     "start": 8.806,
+     "end": 9.154
+    },
+    {
+     "w": "you",
+     "start": 9.178,
+     "end": 9.259
+    },
+    {
+     "w": "build",
+     "start": 9.328,
+     "end": 9.526
+    },
+    {
+     "w": "it",
+     "start": 9.584,
+     "end": 9.642
+    },
+    {
+     "w": "like",
+     "start": 9.677,
+     "end": 9.828
+    },
+    {
+     "w": "bamboo:",
+     "start": 9.863,
+     "end": 10.466
+    },
+    {
+     "w": "eight",
+     "start": 10.6,
+     "end": 10.809
+    },
+    {
+     "w": "sections",
+     "start": 10.856,
+     "end": 11.285
+    },
+    {
+     "w": "of",
+     "start": 11.332,
+     "end": 11.39
+    },
+    {
+     "w": "eight",
+     "start": 11.436,
+     "end": 11.587
+    },
+    {
+     "w": "floors,",
+     "start": 11.622,
+     "end": 12.052
+    },
+    {
+     "w": "on",
+     "start": 12.098,
+     "end": 12.237
+    },
+    {
+     "w": "steel",
+     "start": 12.307,
+     "end": 12.562
+    },
+    {
+     "w": "columns",
+     "start": 12.644,
+     "end": 13.062
+    },
+    {
+     "w": "filled",
+     "start": 13.12,
+     "end": 13.387
+    },
+    {
+     "w": "with",
+     "start": 13.422,
+     "end": 13.549
+    },
+    {
+     "w": "concrete.",
+     "start": 13.607,
+     "end": 14.525
+    }
+   ]
+  }
+ ]
+}
