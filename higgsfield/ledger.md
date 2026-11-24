@@ -13,3 +13,8 @@
 - Note: image models with UNLIMITED badge (Nano Banana Pro/Nano Banana, GPT Image 2.6 Sunburst/Flare, GPT Image 2.5, Seedream 5.0 lite/Pro/4.5, FLUX.2 Pro, Kling O1, Auto) run in parallel with the Seedance video job. Unlimited needs batch 1/4 (4 images turns Unlimited off and costs credits). Only Seedance 2.5 is unlimited for video.
 2026-11-23 20:11 | scary | GPT Image 2.6 Sunburst 16:9 2K (unlimited) | scary-baron-thumb-en.png | Baron's Palace thumbnail with text LOCKED SINCE 1950s / WHO LIT THE FIRE? | long video 1 thumbnail (EN)
 2026-11-23 20:13 | scary | GPT Image 2.6 Sunburst 16:9 2K (unlimited) | scary-baron-thumb-bg.png | same palace, no text, left side clear | long video 1 thumbnail (AR, Arabic text added in code)
+2026-11-23 20:32 | scary | Nano Banana Pro 9:16 2K (unlimited) | scary-roushdy-street.png | busy Alexandria street at night, dark unfinished 11-storey block | Roushdy Short, context
+2026-11-23 20:32 | scary | Nano Banana Pro 9:16 2K (unlimited) | scary-roushdy-stairs-flashlights.png | three silhouettes climbing a concrete stairwell with flashlights | Roushdy Short, 2012 climbers
+2026-11-23 20:33 | scary | Nano Banana Pro 9:16 2K (unlimited) | scary-roushdy-owner-desk.png | 1960s desk, bank papers, brass keys, oil lamp | Roushdy Short, owner theory (reusable: any 'old papers' beat)
+2026-11-23 20:33 | scary | Nano Banana Pro 9:16 2K (unlimited) | scary-roushdy-top-window.png | low angle up a dark concrete block, one top window lit | Roushdy Short, doubter + closing
+2026-11-23 20:36 | scary | GPT Image 2.6 Sunburst 16:9 2K (unlimited) | scary-roushdy-thumb-en.png | EMPTY FOR 60 YEARS / WHO TURNS ON THE LIGHT? | Roushdy long video thumbnail (EN)
