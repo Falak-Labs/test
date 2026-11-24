@@ -350,3 +350,58 @@ New content
   [Hackaday](https://hackaday.com/2020/12/17/tech-hidden-in-plain-sight-the-ballpoint-pen),
   [HowStuffWorks](https://home.howstuffworks.com/pen.htm/printable),
   [New Atlas, Nov 27 2021](https://newatlas.com/technology/biro-pen-changed-writing-game/)
+
+## 2026-11-24 07:05 PT (hourly runner, cloud run)
+Trends
+- "Day 1 vs later" is peaking on TikTok this week (Postdom scan of Nov 23, page updated Nov 24 2026): the same job
+  shown at stages from "Day 1" to "1 Year", most-viewed 18.5M, median 4.7M, typical length 23 s, and "You don't need
+  the sound to use the format". Build-It use: a 20-25 s extra cut from footage we already have, one build growing
+  in stage captions (Hoover's blocks rising, the Gateway Arch's two legs closing the gap, 1963 to Oct 28 1965).
+  NewEngen (Nov 20) adds the month-by-month "A Random Day In..." recap (no numbers). [Postdom](https://postdom.com/blog/tiktok-trends),
+  [NewEngen](https://newengen.com/insights/tiktok-trends/)
+- Instagram added a "Content protection" feature for creators (SocialBee, November 2026; TechCrunch's Nov 17 headline:
+  a tool that "targets unauthorized reposts and AI-modified videos", article not readable from here). Our reels are
+  easy to re-upload: worth a look in both accounts' settings next time the main chat is in Instagram. YouTube is
+  "testing a $20 payment threshold (instead of $100)" for some creators in the USA, India and Indonesia (SocialBee).
+  [SocialBee, Instagram](https://socialbee.com/blog/instagram-updates-news-features/),
+  [SocialBee, YouTube](https://socialbee.com/blog/youtube-updates-news-features/),
+  [TechCrunch, Nov 17 2026](https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/)
+
+Free footage and pictures
+- After Nov 28, recurring free video beyond Google Flow and PixVerse: Adobe Firefly "free daily generations across
+  image, video and audio" (amount not stated; Adobe sells its own models as safe for commercial use: read the free
+  plan's terms first), Google Vids "make up to three 15-second videos a month". Not for us: Vidu (free clips carry
+  "a visible watermark in the lower-right corner", no commercial use), ImagineArt and Magic Hour (free plans are
+  personal, non-commercial). Hailuo, Runway and Kling give one-time trials only. [ImagineArt, Nov 16 2026](https://www.imagine.art/insights/best-free-ai-video-generators),
+  [Vuela, upd. Nov 10 2026](https://vuela.ai/blog/best-free-ai-video-generators-2026),
+  [Wireflow, upd. Nov 20 2026](https://www.wireflow.ai/blog/best-free-ai-video-generator-onlines-in-2026)
+- Gateway Arch (91) real proof stills: NPGallery (NPS) holds JNEM construction records whose Constraints line reads
+  "Public domain" ("To the best of our knowledge we believe this image to by copyright free and in the public
+  domain"), e.g. "Phase of construction with brace supporting legs" (only 272x380; the record does not name the
+  Arch). The park's Visual Image Collection ("over 20,000 slides and 8,000 photographs") sells copies "subject to
+  copyright regulation", so read each record's constraints line before use and prefer full-size files.
+  [NPGallery 903d82c8](https://npgallery.nps.gov/JEFF/AssetDetail/903d82c8-6280-430d-8561-95ec96fe296c),
+  [NPGallery 41071878](https://npgallery.nps.gov/AssetDetail/41071878-a414-4ecc-80e6-c53866f35b7b),
+  [NPS](https://www.nps.gov/jeff/learn/historyculture/visual-image-collection.htm)
+
+New content
+- 90 ballpoint pen queued (pen-A/B, facts in the queue comments): Loud's 1888 "rolling-ball mechanism for marking
+  leather"; Bíró's newspaper-ink idea; the barrel hole ("If no air flows in, sooner or later, the ink won't come
+  out"); skipping when "the ink is not lubricating the ball completely"; New York, Oct 29 1945: "an estimated 5,000
+  shoppers stormed Gimbels" for a pen that "sold for $12.50", and "The thin ink made the pens prone to leakage".
+  [nowiknow](https://nowiknow.com/the-hole-truth-about-ballpoint-pens/), [Wikipedia, Milton Reynolds](https://en.wikipedia.org/wiki/Milton_Reynolds),
+  [Wikipedia, Reynolds International Pen Company](https://en.wikipedia.org/wiki/Reynolds_International_Pen_Company),
+  [Mental Floss](https://www.mentalfloss.com/history/origin-story-ballpoint-pen),
+  [IIT](https://www.iit.edu/news/wetting-ball-improving-ballpoint-performance),
+  [Endless Pens](https://endlesspens.com/blogs/endless-journal/why-is-my-ballpoint-pen-skipping)
+- LINEUP 91 is now the Gateway Arch (the Americas' first build since 84; it opens on an impossible picture, two steel
+  legs closing a gap in the sky): "the 630 foot stainless steel monument", begun 1963, "The last section of the Arch
+  was slipped into place completing the monument on October 28, 1965"; "These derricks could pull themselves up the
+  curved legs"; a 255 ft truss at "the 530-foot level" "braced them against each other"; "A jacking frame was used
+  to apply pressure against the two legs"; a builder: "they had the St. Louis Fire Department run cold water on the
+  back side of the south leg to keep the steel from expanding". It sways "up to 1 inch in a 20mph wind" and can sway
+  "18 inches in 150 mph winds"; foundations "60 feet deep, with 30 feet embedded in bedrock". The "1/64 inch" fit
+  and "no deaths" claims are not on these pages: check before a line uses them. Its Seedance pair is not queued yet.
+  [NPS, architecture](https://www.nps.gov/jeff/planyourvisit/assembly-and-erection.htm),
+  [NPS, 50th year](https://www.nps.gov/jeff/learn/historyculture/the-gateway-arch-celebrates-50th-year-of-completion.htm),
+  [St. Louis Public Radio, Oct 27 2015](https://www.stlpr.org/arts/2015-10-27/builders-of-the-gateway-arch-say-it-was-a-monumental-task-and-an-honor)

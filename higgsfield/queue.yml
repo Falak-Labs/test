@@ -506,7 +506,11 @@ jobs:
     # and 1747" (engineer Henri Pitot); UNESCO 1985; "With 1,000,000 visitors, it is now France's most visited ancient
     # monument" (pontdugard.fr/en/discover/history; no year given). B4 teases build 89, Noor Ouarzazate (LINEUP).
     # B6: a limescale-crusted tap (the channel's limescale, and the kettle's in build 86).
-    status: "generating (started: Nov 24 06:55 PT; shots 3,5,6 reworded)"
+    # Done by 07:03 PT (History c4828db9, started 06:55 with the style line), fetched by the hourly runner. As run:
+    # shot 3 "iron scrapers" with no hands, shot 5 without the road bridge and visitors, shot 6 a tap spraying with an
+    # empty glass beside it and no man.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_145457_c4828db9-96c9-4d19-a64e-a02d65c0c55d.mp4
     file: buildit-pontdugard-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): looking down from high above, brown floodwater rushes straight through the widest arch in the
@@ -571,3 +575,58 @@ jobs:
       long lines of pylons carrying electricity to a bright town in the valley, slow aerial. Shot 6 (25-30 s): funny
       slow motion, on a sunny balcony a man holds a magnifying glass over a marshmallow on a fork, the tiny bright
       dot of light melts it and it drips onto his sandal, he jumps.
+
+  - id: pen-A
+    build: 90
+    kit: ballpoint
+    # Facts: John Loud's 1888 patent was "a rolling-ball mechanism for marking leather" (Wikipedia "Milton Reynolds"),
+    # too "rough for paper" (Hackaday, Dec 17 2020). Bíró "theorized that by using newspaper ink in pens he could
+    # eliminate the characteristic smudging of fountain pens", an ink "too thick to flow readily" in a fountain pen
+    # (Mental Floss, "The Origin Story of the Ballpoint Pen"). Patent year and country disagree (Britain 1938 per
+    # Hackaday; Argentina, June 10 1943 per Mental Floss; Wikipedia: a 1938 patent "for marking printers' galleys"):
+    # check before a line uses one. The ball is "brass, steel or tungsten carbide"; the ink is "thick so that it
+    # doesn't spill out of the reservoir, but thin enough that it responds to gravity" (HowStuffWorks; Wikipedia says
+    # Bíró's pen fed by "capillary action", Reynolds' by gravity: check). The body is "pretty close to air-tight": "If
+    # no air flows in, sooner or later, the ink won't come out" (nowiknow.com, "The Hole Truth About Ballpoint Pens").
+    # The first US pens: "The thin ink made the pens prone to leakage" (Wikipedia "Milton Reynolds"). No faces: hands,
+    # paper, presses, tubes.
+    status: todo
+    file: buildit-pen-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): extreme macro of a ballpoint pen writing on white paper, the camera dives into a cutaway of its
+      tip, a tiny steel ball spinning in a brass socket, thick blue ink coating its back and rolling out onto the
+      paper as a smooth line, slow motion. Shot 2 (5-10 s): a busy 1930s newspaper office, a fountain pen leaves a wet
+      blot of ink that smears under the writer's hand, while behind a glass wall a roaring printing press turns out
+      pages that come off already dry, hands and machines only. Shot 3 (10-15 s): cutaway of a thin metal tube full
+      of ink with a small steel ball set into its tip, the ball rolls along the paper, picking up ink inside the tube
+      and laying it down outside, close-up. Shot 4 (15-20 s): close-up of a white shirt pocket with a 1940s pen
+      inside, a dark blue ink stain slowly spreading through the cotton, a hand pulls out the dripping pen. Shot 5
+      (20-25 s): macro inside a clear ink tube, thick sticky ink like printing ink sliding slowly down onto the back
+      of the ball, the line it writes dries at once and does not smear when a fingertip swipes across it. Shot 6
+      (25-30 s): a pen writes a line that fades and stops halfway across the page, inside its clear tube the ink
+      column hangs still and will not move, a hand shakes the pen and nothing comes out.
+  - id: pen-B
+    build: 90
+    kit: ballpoint
+    # Facts: a pen skips when "the ink is not lubricating the ball completely" (IIT, "Wetting the Ball"), from dried
+    # ink, cold, or when "air gets trapped inside the ink cartridge" (Endless Pens). New York, Oct 29 1945: "an
+    # estimated 5,000 shoppers stormed Gimbels, and approximately 50 NYPD officers had to be dispatched"; "The pen
+    # sold for $12.50" (Wikipedia "Milton Reynolds"); "$100,000 worth of pens on the first day" (Wikipedia "Reynolds
+    # International Pen Company"). One model "had racked up sales of 100 billion by 2006" (New Atlas, Nov 27 2021).
+    # B4 teases build 91, the Gateway Arch (LINEUP). B6: scribbling circles to wake up a dead pen. No store or brand
+    # names in the prompt; the 1945 crowd stays wide.
+    status: todo
+    file: buildit-pen-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): macro of a tiny hole in the side of a clear plastic pen barrel, air flowing in through it as the
+      ink column slides smoothly down the tube, and the line on the paper flows on again. Shot 2 (5-10 s): a cheap
+      pen skips across a page, leaving gaps and fat blobs of ink in the line, under magnification the ball wobbles
+      loose in a worn socket, macro. Shot 3 (10-15 s): a precision machine presses a tiny, perfectly round tungsten
+      carbide ball into the brass tip of a pen and closes the metal around it, then thousands of finished tips tumble
+      into a steel tray, macro. Shot 4 (15-20 s): a giant shining stainless steel arch 192 meters tall over a
+      riverfront city at sunset, its two curved legs rising from a green park and meeting high in the sky, a
+      riverboat passing below, slow aerial push-in. Shot 5 (20-25 s): 1945, a crowd of thousands of shoppers packs a
+      big New York department store, police at the doors, hands reaching over glass counters for the first ballpoint
+      pens, wide view. Shot 6 (25-30 s): funny slow motion, at an office desk a man scribbles furious circles on a
+      scrap of paper to wake up a pen that will not write, shakes it hard, and a blob of blue ink flies out onto his
+      white shirt, he freezes.
