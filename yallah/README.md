@@ -60,3 +60,13 @@ a quiz, the hard word (parts, whole word, a sentence close to home, its meaning,
 - Voices: one Short is about 825 characters (ma01 806, pa01 843). The plan needs about 10,000 ElevenLabs credits a day.
   `darija/tools/credits.py` (workflow "Darija voice find", tool credits.py) writes what is left to
   `darija/voice/_find/credits.json`: check it before every batch and stop, telling the owner, when it would run out.
+
+## Checking the words before a lesson is built (the owner, Nov 23 2026: "check always the words and how it says")
+1. New lessons set `"slow_take": true`: each voice says the hard word slowly in one take ("Grand... moth... er.", or the
+   lesson's own `word.slow`), and make.py cuts it at its pauses into the parts. Parts recorded one by one came out wrong
+   (the teacher read "Thur" as "Thursday" and "Kum" as "Kumari" in lessons 4 and 5).
+2. After the voices are recorded and before the build, run
+   `python3 -I yallah/kit/tools/saycheck.py <NN ...>` (Whisper small.en). Every voice's parts, joined, must be heard as the
+   word; anything under "listen to:" gets another slow text (`word.slow`, e.g. "Usu... ally.") and is recorded again.
+3. Read every script line once more for sense: the hook asks something the video answers, Darija/Palestinian and Arabic
+   lines say the same thing, the English is what a beginner would say.
