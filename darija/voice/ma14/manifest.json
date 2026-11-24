@@ -15,8 +15,10 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 0,
- "recorded_this_run": [],
+ "requested_characters": 25,
+ "recorded_this_run": [
+  "Tsl"
+ ],
  "notes": [],
  "lines": [
   {
@@ -104,10 +106,10 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "Ed... u... ca... tion.",
-   "characters": 22,
+   "text": "Ed... you... kay... shun.",
+   "characters": 25,
    "model": "eleven_v4",
-   "seconds": 3.04
+   "seconds": 3.12
   }
  ]
 }
