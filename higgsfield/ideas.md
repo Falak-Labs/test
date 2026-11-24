@@ -884,14 +884,19 @@ New content
 
 Trends
 - No Shorts or TikTok change since Nov 14 in this week's creator roundups (unil.ink Nov 23, SocialBee's Instagram list
-  of Nov 23, Giovanni Perilli Nov 24). One Instagram point to check in the app: Perilli (secondhand, AI-assisted) lists
-  links in reels made in Edits, "Only to another reel or to an Instagram profile, never to an outside website", while
-  the Nov 24 01:58 entry has Reels linking dropped from Oct 28, and SocialBee says Instagram is building "a “Series“
-  feature that will let creators group Reels around specific topics" (not launched). Build-It use: if a reel can link
-  to a reel, line 10's tease could carry a tap to that build; a manual step in Edits, Buffer cannot add it.
+  of Nov 23, Giovanni Perilli Nov 24). Reel-to-reel links on Instagram: Perilli's Nov 24 table (AI-assisted) still
+  lists links in reels made in Edits, "Only to another reel or to an Instagram profile, never to an outside website",
+  but that is January's feature (Social Samosa, Jan 16 2026: links "can direct viewers to other Instagram Reels or
+  creator accounts"), and Social Media Today (Oct 15 2026, secondhand, not Instagram's own words) says "Instagram is
+  removing the option to link Reels in order to simplify the Reels experience. The change goes into effect beginning
+  Oct. 28." So the Nov 24 01:58 entry stands: no tap from line 10's tease to the next build (Buffer could not add one
+  anyway). SocialBee says Instagram is building "a “Series“ feature that will let creators group Reels around specific
+  topics" (not launched).
   [unil.ink, Nov 23 2026](https://unil.ink/blog/creator-economy-news-2026-11-23),
   [SocialBee](https://socialbee.com/blog/instagram-updates/),
-  [Giovanni Perilli, Nov 24 2026](https://giovanniperilli.com/en/blog/new-instagram-features-november-2026/)
+  [Giovanni Perilli, Nov 24 2026](https://giovanniperilli.com/en/blog/new-instagram-features-november-2026/),
+  [Social Samosa, Jan 16 2026](https://www.socialsamosa.com/news-2/edits-app-internal-linking-new-effects-storyboard-tools-11005674),
+  [Social Media Today, Oct 15 2026](https://socialmediatoday.com/news/meta-adds-audio-links-and-reference-reels-to-edits/833192)
 - "Tiny factory" is now a ready template in AI video apps: "miniature construction sites where tiny workers build, cut,
   assemble, and operate" on giant everyday objects, with Seedance among the models listed (Medeo; no date and no view
   counts, so a template page, not proof of a trend; the satisfying "how things are made" clips behind it are old,
