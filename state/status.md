@@ -1,4 +1,4 @@
-# Post status 2026-11-24T10:50:32+00:00
+# Post status 2026-11-24T11:08:39+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -384,8 +384,8 @@
 | ep70-louvre | ar.tiktok | sent |  | 2026-11-24T08:01:25.630Z https://www.tiktok.com/@kef.tenbeni/video/7711644596975045902?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep70-louvre | en.instagram | scheduled |  | 2026-11-24T14:00:00.000Z |
 | ep70-louvre | en.tiktok | scheduled |  | 2026-11-24T14:00:00.000Z |
-| ep71-vacuum | ar.instagram | scheduled |  | 2026-11-24T11:00:00.000Z |
-| ep71-vacuum | ar.tiktok | scheduled |  | 2026-11-24T11:00:00.000Z |
+| ep71-vacuum | ar.instagram | sent |  | 2026-11-24T11:02:45.725Z https://www.instagram.com/reel/DgHzPqKBGjD/ |
+| ep71-vacuum | ar.tiktok | sent |  | 2026-11-24T11:03:17.772Z https://tiktok.com/@kef.tenbeni/video/7711691349459864845 |
 | ep71-vacuum | en.instagram | scheduled |  | 2026-11-24T16:30:00.000Z |
 | ep71-vacuum | en.tiktok | scheduled |  | 2026-11-24T16:30:00.000Z |
 | ep72-petronas | ar.instagram | scheduled |  | 2026-11-24T14:00:00.000Z |
@@ -401,6 +401,7 @@
 | ep74-maraya | en.instagram | scheduled |  | 2026-11-25T00:00:00.000Z |
 | ep74-maraya | en.tiktok | scheduled |  | 2026-11-25T00:00:00.000Z |
 | ep75-stepwell | ar.instagram | scheduled |  | 2026-11-24T23:00:00.000Z |
+| ep75-stepwell | ar.tiktok | scheduled |  | 2026-11-24T23:00:00.000Z |
 | ep75-stepwell | en.instagram | scheduled |  | 2026-11-25T02:30:00.000Z |
 | ep75-stepwell | en.tiktok | scheduled |  | 2026-11-25T02:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
