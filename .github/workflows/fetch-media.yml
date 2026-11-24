@@ -1,0 +1,53 @@
+name: Fetch media
+# Downloads finished Higgsfield files (made on higgsfield.ai with the owner's unlimited models) on GitHub's runner and
+# keeps them as assets of the release "ai-media", so every project can use them without putting videos in git history.
+# Owner's OK, Nov 23 2026: "Exactly!" / "I want you to use all of it" (download from Higgsfield's file host).
+# How to use it: HIGGSFIELD.md at the repo root.
+on:
+  workflow_dispatch:
+    inputs:
+      items:
+        description: "name=url pairs, separated by spaces or new lines (name: letters, digits, . _ - ; ends in .mp4 .png .jpg .jpeg .webp)"
+        required: true
+      release:
+        description: "release tag to keep them in"
+        required: false
+        default: "ai-media"
+permissions:
+  contents: write
+concurrency:
+  group: fetch-media
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Download and keep
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ITEMS: ${{ inputs.items }}
+          REL: ${{ inputs.release }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          mkdir -p dl && cd dl
+          [[ "$REL" =~ ^[A-Za-z0-9._-]+$ ]] || { echo "bad release name"; exit 1; }
+          names=()
+          for pair in $ITEMS; do
+            name="${pair%%=*}"; url="${pair#*=}"
+            [[ "$name" =~ ^[A-Za-z0-9._-]+\.(mp4|png|jpg|jpeg|webp)$ ]] || { echo "bad name: $name"; exit 1; }
+            host=$(printf '%s' "$url" | sed -E 's#^https://([^/]+)/.*#\1#')
+            [[ "$url" == https://* ]] && [[ "$host" =~ (^|\.)(cloudfront\.net|higgsfield\.ai|higgs\.ai)$ ]] \
+              || { echo "host not allowed: $host"; exit 1; }
+            curl -fsSL --retry 3 --max-filesize 314572800 -o "$name" "$url"
+            kind=$(file -b --mime-type "$name")
+            [[ "$kind" == video/* || "$kind" == image/* ]] || { echo "$name is $kind, not a video or picture"; exit 1; }
+            echo "$name  $(stat -c %s "$name") bytes  $kind" | tee -a "$GITHUB_STEP_SUMMARY"
+            names+=("$name")
+          done
+          gh release view "$REL" -R "$REPO" >/dev/null 2>&1 || \
+            gh release create "$REL" -R "$REPO" --title "AI media (Higgsfield)" --prerelease \
+              --notes "Clips and pictures made on higgsfield.ai for the owner's projects. See HIGGSFIELD.md."
+          gh release upload "$REL" -R "$REPO" --clobber "${names[@]}"
+          echo "kept in release $REL: ${names[*]}" | tee -a "$GITHUB_STEP_SUMMARY"
