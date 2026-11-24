@@ -564,7 +564,7 @@ jobs:
     # (the truck-with-a-robot-arm picture is Shams 1 in Abu Dhabi, five trucks clean it "every three days", IEEE
     # Spectrum Mar 18 2013). The salt is "highly corrosive", so each of the "19400m³ tanks" is UR 347 stainless steel
     # (worldsteel). B4 teases build 90, the ballpoint pen (LINEUP). B6: focused sunlight in one hand.
-    status: "generating (started: Nov 24 07:33 PT; shot 6 reworded)"
+    status: done
     file: buildit-noor-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): at night a truck with a long robotic arm drives slowly along a row of curved mirrors, spinning
@@ -593,7 +593,7 @@ jobs:
     # no air flows in, sooner or later, the ink won't come out" (nowiknow.com, "The Hole Truth About Ballpoint Pens").
     # The first US pens: "The thin ink made the pens prone to leakage" (Wikipedia "Milton Reynolds"). No faces: hands,
     # paper, presses, tubes.
-    status: todo
+    status: "generating (started: Nov 24 07:52 PT; shots 2,4,6 reworded)"
     file: buildit-pen-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): extreme macro of a ballpoint pen writing on white paper, the camera dives into a cutaway of its
