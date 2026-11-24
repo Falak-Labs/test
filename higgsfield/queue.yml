@@ -71,7 +71,8 @@ jobs:
   - id: airfryer-A
     build: 78
     kit: airfryer
-    status: generating (started: Nov 23 23:00 PT)
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_065437_63cf9fe8-9517-4b15-9e35-70754b44b2e9.mp4
     file: buildit-airfryer-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): inside an air fryer, a roaring whirlwind of hot air spins around golden fries, glowing orange
