@@ -7,6 +7,9 @@ on:
       preview:
         description: "true = only list what is queued (Buffer is not touched)"
         default: "true"
+      refresh:
+        description: "<slug> <tag>: give the still-scheduled Buffer posts of <slug> the remade video (e.g. ep12 v2)"
+        default: ""
       channels:
         description: "true = only list the channels each Buffer key sees (nothing is posted)"
         default: "false"
@@ -33,7 +36,7 @@ jobs:
         if: inputs.preview == 'true' && inputs.channels != 'true'
         run: python3 yallah/post_due.py --preview
       - uses: actions/setup-python@v5
-        if: (steps.due.outputs.due == 'true' && inputs.preview != 'true') || inputs.channels == 'true'
+        if: (steps.due.outputs.due == 'true' && inputs.preview != 'true') || inputs.channels == 'true' || inputs.refresh != ''
         with:
           python-version: "3.12"
       - name: List the channels each Buffer key sees
@@ -52,6 +55,16 @@ jobs:
         run: |
           pip install --quiet requests pyyaml
           python yallah/post_due.py
+      - name: Give scheduled posts a remade video
+        if: inputs.refresh != ''
+        env:
+          BUFFER_KEY_MA: ${{ secrets.BUFFER_KEY_MA || secrets.MAROC }}
+          BUFFER_KEY_PA: ${{ secrets.BUFFER_KEY_PA || secrets.PAL }}
+          REFRESH: ${{ inputs.refresh }}
+        run: |
+          case "$REFRESH" in *[!A-Za-z0-9_\ -]*) echo "bad refresh input"; exit 1;; esac
+          pip install --quiet requests pyyaml
+          python yallah/post_due.py --refresh $REFRESH
       - name: Save state
-        if: (steps.due.outputs.due == 'true' && inputs.preview != 'true') || inputs.channels == 'true'
+        if: (steps.due.outputs.due == 'true' && inputs.preview != 'true') || inputs.channels == 'true' || inputs.refresh != ''
         run: bash scripts/save_state.sh "yallah posts $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" yallah/state state/buffer-schema.json

@@ -202,6 +202,52 @@ def send():
             f.write(f"# Last Yallah Say posting run {NOW.isoformat(timespec='seconds')}\n\n" + "\n".join(f"- {m}" for m in LOG) + "\n")
 
 
+def refresh(slug, tag):
+    """A video was made again after its posts were handed to Buffer: give each still-scheduled post of <slug> the new
+    file (same time, caption and channel). editPost first; if Buffer refuses, the post is deleted and made again
+    (the owner said yes to that for ep12, Nov 23 2026). The url gets ?v=<tag> so Buffer fetches the new file."""
+    sys.path.insert(0, os.path.join(ROOT, "scripts"))
+    import requests
+    from buffer import BufferError
+    from post import Account
+    ep = json.load(open(os.path.join(HERE, "queue", slug + ".json"), encoding="utf-8"))
+    st = load_state(slug)
+    for lang in ("ma", "pa"):
+        ac = CFG["accounts"][lang]; key = os.environ.get(ac["secret"], "").strip()
+        if not key:
+            log(f"{lang}: no Buffer key"); continue
+        acc = Account(key, lang); d = ep[lang]
+        for platform in PLATFORMS:
+            tgt = f"{lang}.{platform}"; old = st["targets"].get(tgt) or {}
+            if not old.get("id") or old.get("status") not in ("scheduled", "buffer", "draft", None):
+                log(f"{slug} {tgt}: nothing scheduled to refresh ({old.get('status')})"); continue
+            inp = {"channelId": old["channel"], "text": caption(d, platform), "schedulingType": "automatic", "mode": "customScheduled",
+                   "dueAt": old["dueAt"], "assets": acc.video_assets(video_url(d["video"]) + "?v=" + tag, platform, ep.get("cover_ms", 0))}
+            if platform == "youtube":
+                inp["metadata"] = {"youtube": {"title": d["title"][:100], "categoryId": str(CFG["youtube"]["categoryId"]),
+                                               "madeForKids": bool(CFG["youtube"].get("madeForKids", False)), "notifySubscribers": True}}
+            elif platform == "instagram":
+                inp["metadata"] = {"instagram": {"type": acc.reel(), "shouldShareToFeed": True}}
+            try:
+                post = acc.buf.edit_post(dict(inp, id=old["id"]))
+                old.update(status=post.get("status") or old.get("status"), refreshed=NOW.isoformat(timespec="seconds"), video_tag=tag)
+                log(f"{slug} {tgt}: new video given to the scheduled post (editPost, id {old['id']})")
+            except (BufferError, requests.RequestException, RuntimeError) as e:
+                log(f"{slug} {tgt}: editPost refused ({str(e)[:160]}); deleting and making it again")
+                try:
+                    acc.buf.q("mutation($input: DeletePostInput!) { deletePost(input: $input) { __typename } }", {"input": {"id": old["id"]}})
+                    post = acc.buf.create_post(inp)
+                    st["targets"][tgt] = {"id": post.get("id"), "channel": old["channel"], "service": platform, "status": post.get("status"),
+                                          "dueAt": post.get("dueAt") or inp["dueAt"], "planned": old.get("planned"), "created": NOW.isoformat(timespec="seconds"),
+                                          "replaced": old["id"], "video_tag": tag}
+                    log(f"{slug} {tgt}: made again with the new video (id {post.get('id')}, replaces {old['id']})")
+                except (BufferError, requests.RequestException, RuntimeError) as e2:
+                    log(f"{slug} {tgt}: FAILED to replace: {str(e2)[:300]}")
+    save_state(slug, st)
+    with open(os.path.join(HERE, "state", "last-run.md"), "w", encoding="utf-8") as f:
+        f.write(f"# Yallah Say refresh of {slug} {NOW.isoformat(timespec='seconds')}\n\n" + "\n".join(f"- {m}" for m in LOG) + "\n")
+
+
 def channels():
     """Which channels each Buffer key sees and which one every platform would post to. Posts nothing; works while
     posting is switched off. The answer is saved in yallah/state/channels.md (names only, never a key)."""
@@ -277,4 +323,6 @@ def channels():
 
 
 if __name__ == "__main__":
+    if "--refresh" in sys.argv:
+        refresh(sys.argv[sys.argv.index("--refresh") + 1], sys.argv[sys.argv.index("--refresh") + 2]); sys.exit(0)
     check() if "--check" in sys.argv else preview() if "--preview" in sys.argv else channels() if "--channels" in sys.argv else send()
