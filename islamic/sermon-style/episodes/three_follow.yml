@@ -1,0 +1,75 @@
+# Episode: "Three follow the dead" (Sahih al-Bukhari 6514, Sahih Muslim 2960)
+# head segments: [text, style]  w = white sans, g = gold Ruqaa, r = red Ruqaa, q = white Ruqaa (quote), m = muted
+# a cue is [line, word]: the moment that word is spoken
+palette: slate
+beats:
+  - line: 1
+    head: [["آخر يوم", g], ["ليك في الدنيا", w]]
+    sub: "تخيّل.."
+  - line: 2
+    head: [["لحد", w], ["باب القبر", g]]
+    sub: "الناس كلها ماشية وراك"
+  - line: 3
+    head: [["قال", w], ["رسول الله ﷺ", g]]
+  - line: 4
+    head: [["يتبع الميت", q], ["ثلاثة", g]]
+    sub: "فيرجع اثنان.. ويبقى معه واحد"
+    sub_at: [4, "فيرجع"]
+  - line: 5
+    head: [["أهله..", q, [5, "أهله"]], ["وماله..", q, [5, "ومال"]], ["وعمله", g, [5, "وعمل"]]]
+  - line: 6
+    head: [["ويبقى", q], ["عمله", g]]
+    sub: "فيرجع أهله وماله"
+  - line: 7
+    head: [["أهلك", g], ["هيرجعوا البيت", w]]
+    sub: "اللي سهرت عشانهم.."
+  - line: 8
+    head: [["هتتقسم", r, [8, "هتتقسم"]], [".. وانت مش موجود", w, [8, "وانت"]]]
+    sub: "فلوسك اللي تعبت فيها عمرك كله"
+    echo: [8, "هتتقسم"]
+  - line: 9
+    head: [["حاجة", w], ["واحدة", g], ["بس", w]]
+    sub: "ويفضل معاك.."
+  - line: 10
+    head: [["عملك", g]]
+  - line: 11
+    head: [["نور؟", g, [11, "نور"]], ["ولا", w, [11, "ولا"]], ["ضلمة؟", r, [11, "ضلمة"]]]
+    sub: "لو اتقفل عليك القبر النهارده"
+  - line: 12
+    head: [["اللي", w], ["بتأجلها", r]]
+    sub: "الصلاة.. والصدقة.. بعدين"
+  - line: 13
+    head: [["هي دي اللي", w], ["هتفضل معاك", g]]
+  - line: 14
+    head: [["ابدأ النهارده", g], [".. مش بكرة", w, [14, "مش"]]]
+    sub: "لسه عملك في إيدك"
+scenes:
+  - {id: Sunset, lines: [1]}
+  - {id: Procession, lines: [2]}
+  - {id: Book, lines: [3]}
+  - id: ThreeFollow
+    lines: [4, 5, 6]
+    cues: {family: [5, "أهله"], wealth: [5, "ومال"], deed: [5, "وعمل"], ret: [6, "فيرجع"], stay: [6, "ويبقى"]}
+  - id: FamilyHome
+    lines: [7]
+    cues: {turn: [7, "وبعدين"], home: [7, "البيت"]}
+  - id: WealthSplit
+    lines: [8]
+    cues: {split: [8, "هتتقسم"], gone: [8, "موجود"]}
+  - id: OneThing
+    lines: [9, 10]
+    cues: {one: [9, "واحدة"], deed: [10, "عملك"]}
+  - id: Grave
+    lines: [11]
+    cues: {close: [11, "اتقفل"], light: [11, "نور"], dark: [11, "ضلمة"]}
+  - id: Checklist
+    lines: [12, 13]
+    cues: {gold: [13, "هي"]}
+  - {id: Tree, lines: [14]}
+card:
+  lines:
+    - "يَتْبَعُ المَيِّتَ ثَلَاثَةٌ، فَيَرْجِعُ اثْنَانِ وَيَبْقَى مَعَهُ وَاحِدٌ"
+    - "يَتْبَعُهُ أَهْلُهُ وَمَالُهُ وَعَمَلُهُ"
+    - "فَيَرْجِعُ أَهْلُهُ وَمَالُهُ، وَيَبْقَى عَمَلُهُ"
+  ref: "متفق عليه · صحيح البخاري ٦٥١٤ · صحيح مسلم ٢٩٦٠"
+  hold: 4.0

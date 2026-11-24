@@ -1,0 +1,22 @@
+{
+ "duration_s": 69.13,
+ "integrated_lufs": -13.66,
+ "true_peak_dbfs_approx": -0.06,
+ "stereo_correlation": 0.965,
+ "side_to_mid_db": -17.5,
+ "short_term_lufs_p10_p50_p90": [
+  -28.5,
+  -14.9,
+  -11.4
+ ],
+ "rms_db_p90": -12.7,
+ "quiet_threshold_db": -37.7,
+ "quiet_gaps_over_250ms": [
+  [
+   64.56,
+   65.1
+  ]
+ ],
+ "n_gaps": 1,
+ "floor_db_in_gaps_median": -180.0
+}

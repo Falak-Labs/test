@@ -1,0 +1,77 @@
+{
+ "music_lufs": -28.9,
+ "voice_lufs": -13.5,
+ "music_below_voice_lu": 15.4,
+ "music_db_when_voice_active": -40.6,
+ "music_db_when_voice_idle": -34.0,
+ "ducking_db_estimate": 6.6,
+ "tempo_bpm_estimate": 114.8,
+ "onset_strength_mean": 0.833,
+ "harmonic_share_pct": 52.2,
+ "key_candidates": [
+  [
+   "C minor",
+   0.663
+  ],
+  [
+   "C major",
+   0.644
+  ],
+  [
+   "G major",
+   0.574
+  ]
+ ],
+ "chroma_profile": {
+  "C": 0.714,
+  "C#": 0.425,
+  "D": 0.371,
+  "D#": 0.264,
+  "E": 0.221,
+  "F": 0.268,
+  "F#": 0.269,
+  "G": 0.731,
+  "G#": 0.445,
+  "A": 0.269,
+  "A#": 0.242,
+  "B": 0.311
+ },
+ "top_pitch_classes_per_4s": [
+  "   0s C-G-G#",
+  "   4s C-G-C#",
+  "   8s G-D-C",
+  "  12s G-C-G#",
+  "  16s G-G#-C",
+  "  20s G-C-G#",
+  "  24s C-C#-G",
+  "  28s C-G-C#",
+  "  32s G-C-D",
+  "  36s G-D-G#",
+  "  40s G-C-G#",
+  "  44s C-G-C#",
+  "  48s C-C#-G",
+  "  52s G-C-D",
+  "  56s G-D-C",
+  "  60s C-C#-G",
+  "  64s C-C#-G#"
+ ],
+ "energy_by_band_pct": {
+  "20-80Hz": 21.3,
+  "80-250Hz": 29.3,
+  "250-1000Hz": 45.6,
+  "1000-4000Hz": 2.9,
+  "4000-12000Hz": 0.4,
+  "12000-20000Hz": 0.1
+ },
+ "spectral_centroid_hz": 2458.0,
+ "music_stereo_correlation": 0.844,
+ "music_side_vs_mid_db": -10.7,
+ "music_db_by_10s": [
+  -34.2,
+  -40.5,
+  -37.2,
+  -36.3,
+  -34.5,
+  -37.2
+ ]
+}
