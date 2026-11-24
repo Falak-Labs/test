@@ -20,12 +20,16 @@ def get(url, ref=None):
 
 for pair in sys.argv[2:]:
     name, page = pair.split("=", 1)
-    try:
-        html = get(page).decode("utf-8", "replace")
-    except Exception as e:
-        print(f"{name}: page failed: {e}"); continue
-    urls = re.findall(r'https://cdn\.pixabay\.com/(?:download/)?audio/[^"\'\s<>]+?\.mp3', html.replace("\\/", "/"))
-    title = (re.search(r"<title>([^<]+)</title>", html) or [None, ""])[1].strip()
+    if page.startswith("https://cdn.pixabay.com/"):   # direct file link (read from the track page in a browser)
+        html, urls, title = "", [page], page.rsplit("filename=", 1)[-1]
+        page = page
+    else:
+        try:
+            html = get(page).decode("utf-8", "replace")
+        except Exception as e:
+            print(f"{name}: page failed: {e}"); continue
+        urls = re.findall(r'https://cdn\.pixabay\.com/(?:download/)?audio/[^"\'\s<>]+?\.mp3', html.replace("\\/", "/"))
+        title = (re.search(r"<title>([^<]+)</title>", html) or [None, ""])[1].strip()
     if not urls:
         print(f"{name}: no audio link in page ({len(html)} bytes, title {title!r})"); continue
     src = urls[0]
