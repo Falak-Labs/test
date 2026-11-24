@@ -1,4 +1,4 @@
-# Post status 2026-11-24T01:35:45+00:00
+# Post status 2026-11-24T02:45:14+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -378,8 +378,8 @@
 | ep68-taipei | en.tiktok | sent |  | 2026-11-24T00:03:34.251Z https://tiktok.com/@congratsengineer/video/7711521604181724430 |
 | ep69-dishwasher | ar.instagram | sent |  | 2026-11-23T23:03:52.667Z https://www.instagram.com/reel/DgGg70zBkLI/ |
 | ep69-dishwasher | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T23:00:00.000Z |
-| ep69-dishwasher | en.instagram | scheduled |  | 2026-11-24T02:30:00.000Z |
-| ep69-dishwasher | en.tiktok | scheduled |  | 2026-11-24T02:30:00.000Z |
+| ep69-dishwasher | en.instagram | sent |  | 2026-11-24T02:33:24.357Z https://www.instagram.com/reel/DgG4zDXqNxv/ |
+| ep69-dishwasher | en.tiktok | sent |  | 2026-11-24T02:31:56.987Z https://tiktok.com/@congratsengineer/video/7711559637815823629 |
 | ep70-louvre | ar.instagram | scheduled |  | 2026-11-24T08:00:00.000Z |
 | ep70-louvre | ar.tiktok | scheduled |  | 2026-11-24T08:00:00.000Z |
 | ep70-louvre | en.instagram | scheduled |  | 2026-11-24T14:00:00.000Z |
