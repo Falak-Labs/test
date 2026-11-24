@@ -787,22 +787,24 @@ jobs:
     # each, with "100 percent accuracy in aligning bolts with their designated holes" (China Daily, Jan 18 2025). The
     # fire risk: "an oil tanker catching fire on the bridge deck" (China Daily, Apr 26 2025). Towers 262 m and 205 m in
     # Wikipedia's infobox: check. No faces (workers from behind), no flags, signs or writing.
+    # Started 13:22:46 PT (History 4f99846c; the main chat logged "14:25") with the style line and the main chat's own
+    # six shots, below word for word as run. The runner's version (welders in the wind, the cable crane's bolts, the
+    # tanker fire) is in commit 860bb52. The clip has no fire, so B1's blowtorch shot carries the fire line. Done by
+    # 13:40 PT (fetched by the main chat).
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_212246_4f99846c-6b5d-4d77-81d8-fd71567c0e33.mp4
     file: buildit-huajiang-sdA.mp4
     shots: >-
-      Shot 1 (0-5 s): a thin road bridge hangs 625 meters above the bottom of a deep green canyon in the karst
-      mountains of south-west China, small cars crossing the deck while white clouds drift slowly below it, slow
-      aerial push-in at sunrise. Shot 2 (5-10 s): wide aerial of a deep, narrow canyon with steep green cliffs and a
-      river far below, a single narrow road zigzags down one wall in tight hairpins and climbs up the other, one small
-      car crawling around the bends, misty morning. Shot 3 (10-15 s): two tall towers stand on the two cliff edges and
-      a thick main cable runs between their tops across the canyon, the camera dives into a cutaway of the cable,
-      packed with hundreds of hexagonal bundles of thin shining steel wires, close-up. Shot 4 (15-20 s): high above
-      the canyon, workers in orange suits seen from behind lean into a howling wind on a narrow steel catwalk, their
-      safety lines pulled tight, the sparks of a welding torch blown sideways, wide view. Shot 5 (20-25 s): a giant
-      cable crane strung between the two towers lowers a huge steel truss section, as big as a building, over the
-      625 meter drop, it inches into place beside the last one and the bolts slide straight into their holes, wide
-      view then close-up. Shot 6 (25-30 s): a fuel tanker truck stopped on the finished bridge deck is on fire, orange
-      flames and black smoke climbing up a steel hanger toward the main cable above, the canyon far below, wide view.
+      Shot 1 (0-5 s): wide aerial at sunrise of a deep green gorge in south-west China wrapped in mist, a thin road
+      deck far below the clouds' edge on two tall towers, slow push-in. Shot 2 (5-10 s): a narrow road winds down into
+      the gorge and across a small old bridge at the bottom beside a muddy river, far below steep cliffs, the old way
+      across, wide aerial. Shot 3 (10-15 s): a giant steel cable is pulled across the gorge between two cliff-top
+      towers and anchored, a thin pilot cable drifting high in the mist, wide view. Shot 4 (15-20 s): macro of a bundle
+      of thousands of thin steel wires being spun into one thick main cable, then a close-up of the cable clamp on a
+      tower saddle. Shot 5 (20-25 s): sections of a steel box deck are lifted from the cable line and hung from
+      vertical hangers one after another, a crawler crane moving along the cables, high above the gorge. Shot 6 (25-30
+      s): the finished bridge on a calm clear morning, the deck hanging 625 meters above the river between two towers,
+      cars crossing and the mist below, slow aerial orbit.
   - id: huajiang-B
     build: 93
     kit: huajiang
@@ -814,7 +816,14 @@ jobs:
     # metric tons", in steps of "18, 48 and 96 trucks, with each weighing 35 tons" (China Daily, Aug 25 2025; ENR: "The
     # five-day testing completed on Aug. 25"). B4 teases build 94, the smoke alarm (LINEUP). B6: China Daily pictured
     # each main cable as a "clothesline"; a gust turns a backyard clothesline into a sail. No faces, flags or writing.
-    status: "generating (started: Nov 24 13:45 PT by the main chat; shots 5-6 reworded, no people; verified Generating=1)"
+    # Started 13:41:42 PT (History 5a6f9e85; the main chat logged "13:45") with the style line; shots 1-4 word for
+    # word as below, shots 5-6 reworded without people (as run: Shot 5 "rows of 96 heavy trucks loaded with gravel
+    # parked bumper to bumper across the bridge deck high above the canyon, the deck holding steady, slow aerial";
+    # Shot 6 "funny slow motion, in a windy backyard a big wet bedsheet is pinned on a clothesline, a gust fills it like
+    # a sail and the whole line of laundry swings up and wraps around the pole"). Done by 13:51 PT, fetched by the
+    # hourly runner (Fetch media run 45495575591).
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_214142_5a6f9e85-368b-412f-99c6-4bf27eba600b.mp4
     file: buildit-huajiang-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro cutaway of the main cable wrapped in thin layers of grey fireproof armor, a blowtorch
@@ -903,3 +912,63 @@ jobs:
       and within seconds the alarm flashes red, engineers seen from behind watching screens through a glass wall, wide
       view. Shot 6 (25-30 s): funny slow motion, in a smoky kitchen a man on tiptoe swings a dish towel wildly under a
       flashing smoke alarm while toast smokes black in the toaster behind him and a cat watches calmly.
+
+  - id: falkirk-A
+    build: 95
+    kit: falkirk
+    # Facts: the old link was "a staircase of 11 locks which took nearly a day to pass through. The locks were
+    # dismantled in 1933"; the wheel lifts boats "by 24m" (ICE). Balance: "a floating vessel always displaces its own
+    # weight in water": "When a boat floats in, its weight in water flows out, maintaining a balance between the two
+    # sides", so a half turn takes "about one-and-a-half kilowatt-hours" (Practical Engineering, Nov 17 2025). Level
+    # gondolas: "Idler pinions mesh between two identical ring gears: one fixed and centered on the shaft; the other
+    # surrounding each gondola" (Practical Engineering; "three 8-meter gears", Hackaday, Feb 13 2026). Fatigue: "To
+    # avoid fatigue – weakening caused by repeatedly applied loads – engineers bolted sections together instead of
+    # welding them" (ICE; the fix is B1). Check before use: the time of one lift ("about five minutes", Practical
+    # Engineering; "about 10 minutes", ICE), the water per gondola (500,000 litres ICE, 250,000 Wikipedia) and the
+    # steel (1,200 t ICE, 1,500 t ASME). More in ideas.md (Nov 24 10:05 and 12:05). No faces, flags, signs or writing.
+    status: todo
+    file: buildit-falkirk-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a narrowboat floating in a long steel tub brimful of water rises through the sky on a giant
+      curved steel arm of the Falkirk Wheel in Scotland, 24 meters above a canal basin, the water calm as glass, slow
+      aerial push-in at sunrise. Shot 2 (5-10 s): an old staircase of eleven stone canal locks climbs a green Scottish
+      hillside, a wooden narrowboat works up one lock at a time as a time-lapse sun crosses the sky, the gates
+      swinging, wide view. Shot 3 (10-15 s): two identical steel tubs
+      brimful of water hang from the two ends of a giant balance beam, a narrowboat floats into one tub and exactly its
+      own weight of water spills over the rim, the beam stays perfectly level, wide view. Shot 4 (15-20 s): a long
+      steel tub full of water hangs from the end of a turning steel arm, as the arm swings up the tub tips, water pours
+      over its edge and a small boat slides toward the side, wide view. Shot 5 (20-25 s): macro cutaway of giant gears
+      at the hub of a rotating boat lift, small gears turning between a fixed ring gear on the central shaft and a ring
+      gear around a water-filled tub, as the arm swings the tub stays perfectly level, its water flat as a mirror.
+      Shot 6 (25-30 s): macro of a welded seam on a giant steel arm, with every turn of the arm a hairline crack creeps
+      along the weld and opens a little wider, the steel creaking, close-up.
+  - id: falkirk-B
+    build: 95
+    kit: falkirk
+    # Facts: "The wheel has more than 15,000 bolts, matched to 45,000 bolt holes. Each bolt was tightened by hand"
+    # (ICE). The top: "the Union Canal is 11m higher than the aqueduct" (ICE); the Roughcastle tunnel carries the canal
+    # "beneath the Antonine Wall", "the Edinburgh-Glasgow (main) railway line, and Bonnyhill Road" (Canmore), needed
+    # "because the canal had to pass underneath the route of the Antonine Wall without disturbing its archaeological
+    # remains" (Wikipedia, 2008 copy), and "From the aqueduct at the top of the Wheel, two new locks raise boats the
+    # remaining distance" (Practical Engineering, Nov 17 2025). Check before use: the tunnel's length ("175-m",
+    # Scottish Places; "150 metre", Wikipedia 2008 copy) and the total rise (24 + 11 = 35 m in ICE; "about 115 feet or
+    # 38 meters", Practical Engineering). B4 teases build 96, the hand warmer (LINEUP; facts in ideas.md Nov 24 11:00).
+    # B5: free CC BY-SA Geograph photos of the real wheel can carry line 11 (ideas.md Nov 24 12:05). B6: the Archimedes
+    # bath joke (ideas.md Nov 24 10:05) with a dog, no faces. Spare lines: the gate seal ("A U-shaped seal extends to
+    # bridge the gap between the two structures", Practical Engineering) and the vandals who "forced open the Wheel's
+    # gates", delaying the opening by a month (Wikipedia, 2008 copy). Visitors only small and from behind.
+    status: todo
+    file: buildit-falkirk-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): gloved hands tighten big steel bolts one at a time with a long wrench, joining the curved steel
+      plates of a giant arm, rows of thousands of bolt heads and no welds, close-up, then a wide view of the bolted
+      arm. Shot 2 (5-10 s): at the top of a giant boat lift a short canal aqueduct ends at a grassy ridge where the bank
+      and ditch of an ancient Roman wall and a railway line run across the hill, the upper canal still 11 meters
+      higher beyond them, wide aerial. Shot 3 (10-15 s): a narrowboat glides through a round concrete tunnel under the
+      ancient grassy wall and the railway, comes out into a small basin and rises through two new locks to the upper
+      canal, wide view. Shot 4 (15-20 s): macro of a clear pouch of liquid held in cold hands outdoors in winter, a
+      small metal disc inside is clicked and a front of white crystals races through the pouch, warm light, breath
+      steaming in the air. Shot 5 (20-25 s): the real Falkirk Wheel turning on a bright day, its two gondolas each
+      carrying a boat pass each other halfway, the water steady, small visitors seen from behind on the basin path
+      watching, slow aerial orbit. Shot 6 (25-30 s): funny slow motion, a big shaggy dog leaps into a brimful bathtub,
+      a wave of water sheets over the rim and floods the bathroom floor, a rubber duck surfing out across the tiles.
