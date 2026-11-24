@@ -2,10 +2,8 @@
  "lesson": "12",
  "dialect": "ma",
  "file": "yallah-say-ma-ep12.mp4",
- "ok": false,
- "problems": [
-  "sound failed:     TAKES[tid] = (decode(f'{d}/{tid}.mp3'), json.load(open(f'{d}/{tid}.json', encoding='utf-8'))) |                                                       ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ | FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/test/test/darija/voice/ma12/T_usu.json'"
- ],
+ "ok": true,
+ "problems": [],
  "steps": {
   "script": {
    "seconds": 0.0,
@@ -20,13 +18,13 @@
    ]
   },
   "slow A": {
-   "seconds": 0.2,
+   "seconds": 0.3,
    "says": [
     "/home/runner/work/test/test/darija/voice/kids12/Asl.mp3 → 0.73s 0.54s"
    ]
   },
   "slow L": {
-   "seconds": 0.2,
+   "seconds": 0.3,
    "says": [
     "/home/runner/work/test/test/darija/voice/kids12/Lsl.mp3 → 0.75s 0.58s"
    ]
@@ -38,15 +36,37 @@
    ]
   },
   "sound": {
-   "seconds": 1.7,
+   "seconds": 3.7,
    "says": [
-    "    y, t = take(tid)",
-    "           ~~~~^^^^^",
-    "  File \"/home/runner/work/test/test/yallah/kit/tools/build2.py\", line 68, in take",
-    "    TAKES[tid] = (decode(f'{d}/{tid}.mp3'), json.load(open(f'{d}/{tid}.json', encoding='utf-8')))",
-    "                                                      ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
-    "FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/test/test/darija/voice/ma12/T_usu.json'"
+    "duration 1:21.70 (2451 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.643",
+    "quiz 27.5 | hard word 39.7 | end card 71.4333 | word parts (s): {'T': [0.73, 0.6], 'A': [0.73, 0.54], 'L': [0.75, 0.58]}"
    ]
+  },
+  "picture": {
+   "seconds": 151.0,
+   "pieces": 5,
+   "at_once": 4,
+   "frames_per_second": 16.2
+  },
+  "join": {
+   "seconds": 0.2,
+   "says": []
+  },
+  "mux": {
+   "seconds": 2.4,
+   "says": []
+  },
+  "takes": {
+   "seconds": 3.8,
+   "says": [
+    "ok   o2      at   78.51s len 1.19s  match 0.944  (take offset +0.03s)",
+    "ok   o3      at   79.95s len 0.62s  match 0.993  (take offset +0.01s)",
+    "below 0.9: none"
+   ]
+  },
+  "frames": {
+   "seconds": 3.1,
+   "says": []
   }
  },
  "voice_lines": {
@@ -71,5 +91,44 @@
    "characters": 22
   }
  },
- "seconds": 2.9
+ "frames": 2451,
+ "duration": 81.7,
+ "sha256": {
+  "page/script.js": "0c4dc1b296c0458549d2913730396622dd1d316a9e460c493f1c3db6a2faaa6a",
+  "page/tl.js": "a50b29cac5feb34cac40c81129335d64085e7407ab84aee8941b5e06d19569c1",
+  "final.wav": "1024288a9667ba2106ad1e2fdecbeb7c34ef4d7f89ebf33210222fe3f44fc994",
+  "yallah-say-ma-ep12.mp4": "f7b0c1a8b03758b23a60cb0e6095bc1f8d3dc48a124f577a52059f1e4473aff2"
+ },
+ "video": {
+  "size": 17875191,
+  "frames": 2451,
+  "width": 1080,
+  "height": 1920,
+  "rate": "30/1",
+  "audio_seconds": 81.7,
+  "audio_rate": "48000"
+ },
+ "takes_below_0.9": "none",
+ "sheet_times": [
+  1.6,
+  7.8,
+  10.24,
+  12.47,
+  14.66,
+  16.83,
+  19.3,
+  21.7,
+  24.42,
+  26.51,
+  29.1,
+  41.3,
+  73.03,
+  81.2
+ ],
+ "made_with": {
+  "python": "3.13.18",
+  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "playwright": "Version 1.63.0"
+ },
+ "seconds": 166.8
 }
