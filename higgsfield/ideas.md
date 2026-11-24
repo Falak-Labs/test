@@ -879,3 +879,80 @@ New content
   [Hakkin](https://hakkin.co.jp/history.html),
   [Frostburg State](https://antoine.frostburg.edu/chem/senese/101/consumer/faq/how-do-handwarmers-work.shtml),
   [SFU](https://www.sfu.ca/physics/demos/demos-experiments/heatpackburnaby.html)
+
+## 2026-11-24 15:05 PT (hourly runner, cloud run)
+
+Trends
+- No Shorts or TikTok change since Nov 14 in this week's creator roundups (unil.ink Nov 23, SocialBee's Instagram list
+  of Nov 23, Giovanni Perilli Nov 24). One Instagram point to check in the app: Perilli (secondhand, AI-assisted) lists
+  links in reels made in Edits, "Only to another reel or to an Instagram profile, never to an outside website", while
+  the Nov 24 01:58 entry has Reels linking dropped from Oct 28, and SocialBee says Instagram is building "a “Series“
+  feature that will let creators group Reels around specific topics" (not launched). Build-It use: if a reel can link
+  to a reel, line 10's tease could carry a tap to that build; a manual step in Edits, Buffer cannot add it.
+  [unil.ink, Nov 23 2026](https://unil.ink/blog/creator-economy-news-2026-11-23),
+  [SocialBee](https://socialbee.com/blog/instagram-updates/),
+  [Giovanni Perilli, Nov 24 2026](https://giovanniperilli.com/en/blog/new-instagram-features-november-2026/)
+- "Tiny factory" is now a ready template in AI video apps: "miniature construction sites where tiny workers build, cut,
+  assemble, and operate" on giant everyday objects, with Seedance among the models listed (Medeo; no date and no view
+  counts, so a template page, not proof of a trend; the satisfying "how things are made" clips behind it are old,
+  Upworthy 2022). Build-It use: a B6 tag or line-13 closer with our own build (tiny workers lowering a giant battery
+  into a smoke alarm, or bolting a toy-sized Falkirk Wheel), the workers small and from behind.
+  [Medeo](https://www.medeo.app/video-templates/tiny-factory),
+  [Upworthy, Aug 8 2022](https://www.upworthy.com/video-everyday-things-made-in-30-seconds)
+
+Free footage and pictures
+- Our own satellite pictures, free for commercial use: the Copernicus Sentinel data licence (rev. 1) grants
+  "reproduction; distribution; communication to the public; d. adaptation, modification and combination with other
+  data and information", asks for the credit "Contains modified Copernicus Sentinel data [Year]" and has no
+  share-alike. Not the same as reusing ESA's own pictures (CC BY-SA 3.0 IGO, the Nov 24 08:10 entry) or the portal's
+  "other contents", which "are intended for non-commercial use" (Data Space terms). The Copernicus Browser makes
+  time-lapses (date range, cloud filter, frames picked one by one) and exports them as GIF or MP4; it needs a free
+  account (docs page, read in part: check in the Browser). Build-It use: a browser run with the owner signed in can
+  make a then-and-now or a growing-build time-lapse for line 11 or 12 of the big builds: the Huajiang bridge from 2022
+  (93), Noor's mirror fields (89), the HZMB islands (82); Sentinel-2's 10 m pixels are too coarse for the 77 m Museum
+  of the Future (97). The credit goes in the description.
+  [Copernicus Sentinel data licence](https://ads.atmosphere.copernicus.eu/licences/ec-sentinel),
+  [Data Space terms](https://dataspace.copernicus.eu/node/10),
+  [Copernicus Browser docs](https://documentation.dataspace.copernicus.eu/Applications/Browser.html)
+- Still no free clean AI video for after Nov 28: in Stork's Nov 3 check, ZSky AI's free tier has "unlimited image and
+  video generation with no daily caps" but its clips are 5 s, watermarked and deleted after 7 days; "PixVerse gives 30
+  free credits a day" (one 6 s 720p clip cost 60, watermarked); Magic Hour's free exports are "for personal,
+  non-commercial use only", and Kling's free credits are non-commercial too. Aliteq's Black Friday list (upd. Nov 21-24)
+  has discounts only, no free or unlimited promos. Build-It use: fill the Seedance slot through Nov 28; after that our
+  unlimited stills (to Jan 13) with our own moves, the free real footage in this file, and Copernicus time-lapses.
+  [Stork, Nov 3 2026](https://www.stork.ai/blog/best-free-ai-video-generators-2026),
+  [Aliteq, upd. Nov 21 2026](https://aliteq.com/ai-black-friday-deals)
+
+New content
+- Fire sprinkler, a candidate build (not in LINEUP; it follows the smoke alarm, 94, and the movie myth is its hook):
+  "only the sprinkler heads directly in the area of the fire will operate" (FPA, Jun 12 2024); "most fires usually
+  require only one or two sprinklers" (HowStuffWorks). In US fires of 2015-2019 where sprinklers operated, one head
+  did it in 77% and five or fewer in 97%; the death rate per fire was 89% lower; they operated in 92% of fires big
+  enough and were effective in 96% of those, and the main failure was a system "shut off at some point before the
+  fire" (NFPA Journal, Spring 2022). How: a glass bulb "filled with a heat sensitive liquid, which is commonly
+  glycerin-based" that breaks at "usually 68°C", or "a fusible link made of a low-melting alloy" (FPA); "the liquid
+  expands and breaks the glass bulb" (NFSA, Apr 17 2023), coloured by rating: orange and red "from 135 to 170°F
+  (57-77°C)", yellow "174°F (79°C)", green "225°F (107°C)", blue "250°F (121°C)" (NFSA, citing NFPA). A head uses
+  "about six times less water than a fire hose" (HowStuffWorks). History: Henry Parmelee, "in 1874, to protect his
+  piano factory", is "credited with the first automated sprinkler head" (Wikipedia). Check before use: 68 C (FPA)
+  against 165 F, 74 C (CDC NIOSH, Oct 11 2022), and when the glass bulb came (not in these pages). Ready shots: A1 macro
+  of the liquid swelling until the bulb shatters and water bursts out; A4 the movie version, a whole office drenched;
+  A5 the real one, one head over a burning wastebasket; B6 a cake with ninety candles carried under a sprinkler,
+  everyone freezes and looks up, nothing happens.
+  [FPA, Jun 12 2024](https://www.thefpa.co.uk/advice-and-guidance/advice-and-guidance-articles/how-do-fire-sprinklers-work-),
+  [NFPA Journal, Spring 2022](https://nxtbook.com/nxtbooks/nfpa/journal_2022spring/index.php?startid=70),
+  [NFSA, Apr 17 2023](https://nfsa.org/2023/04/17/what-do-fire-sprinkler-colors-mean/),
+  [HowStuffWorks](https://home.howstuffworks.com/home-improvement/household-safety/fire-sprinker-system.htm),
+  [Wikipedia](https://en.wikipedia.org/wiki/Henry_S._Parmelee),
+  [CDC NIOSH](https://archive.cdc.gov/www_cdc_gov/niosh/newsroom/feature/fire-sprinkler-systems.html)
+- The pop-up turkey timer is the same trick, for the sprinkler build's B6 or line 14 (Thanksgiving is this Thursday,
+  too soon for a build of its own, and a weak fit for the Arabic channel): a rod on "a spring that is placed underneath
+  the rod", held down by a pin of "thermoplastic substance" ("could be a metal or wax"), "patented in 1961" by a turkey
+  farmer who took the idea from fire sprinklers (AIP Inside Science, Nov 22 2017); a "Piece of soft metal similar to
+  solder" melting "at about 165 degrees Fahrenheit (73 degrees Celsius)" (HowStuffWorks). Check before use: ThermoWorks
+  (a thermometer seller, Oct 30 2025) says the timer "is set to 180°F (82°C)" and cites a Consumer Reports test where
+  one popped at 139 F. Ready shot: B6 slow motion, a family seen from behind stares at the oven window until the red
+  stick pops.
+  [AIP, Nov 22 2017](https://www.aip.org/inside-science/brief-how-pop-up-turkey-timers-work),
+  [HowStuffWorks](https://home.howstuffworks.com/pop-up-timer.htm),
+  [ThermoWorks, Oct 30 2025](https://blog.thermoworks.com/the-pop-up-timer-is-bad/)
