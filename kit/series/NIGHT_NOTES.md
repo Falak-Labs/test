@@ -1908,3 +1908,4 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   queue room (every channel 10 of 10; 82-90 go first); the 4 YouTube targets hold for Studio. Post files pushed 20:53Z
   after the Pages deploy of 5165d15 succeeded. Check-in of this session at 12:50Z Nov 26 (trig_01GDbqqo7WNFquMfMEy6P1V4)
   dispatches post.yml if any still waits. The main chat was making 91 (arch, line 10 -> seatbelt) at 12:45 PT.
+- Build 91 Gateway Arch made (VOICE_SPEED=1.13): media/arch-b91-en.mp4 74 s, -ar.mp4 72 s, post file posts/ep91-arch.yml. Tease = car seatbelt (build 92): seatbelt-A generating since ~12:45 PT, seatbelt-B todo; Huajiang (93) is teased by seatbelt-B.

@@ -1,0 +1,27 @@
+{
+ "slug": "arch-b91",
+ "kit": "arch",
+ "style": "seedance",
+ "en": {
+  "duration": 73.6,
+  "lufs": -14.8,
+  "peak": -1.2,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 23.9,
+  "cover": true,
+  "ok": true
+ },
+ "ar": {
+  "duration": 71.7,
+  "lufs": -14.9,
+  "peak": -1.3,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 23.8,
+  "cover": true,
+  "ok": true
+ }
+}
