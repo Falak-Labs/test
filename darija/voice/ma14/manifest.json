@@ -15,8 +15,9 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 25,
+ "requested_characters": 80,
  "recorded_this_run": [
+  "h1",
   "Tsl"
  ],
  "notes": [],
@@ -25,8 +26,8 @@
    "id": "h1",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "التعليم بالإنجليزية: ربعة مقاطع، واحد كيتقال بجهد. شمن واحد؟",
-   "characters": 60,
+   "text": "التعليم بالإنجليزية: جوج ديال المقاطع، واحد كيتقال بجهد. شمن واحد؟",
+   "characters": 66,
    "model": "eleven_v4",
    "seconds": 6.48
   },
@@ -106,10 +107,10 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "Ed... you... kay... shun.",
-   "characters": 25,
+   "text": "Edu... cation.",
+   "characters": 14,
    "model": "eleven_v4",
-   "seconds": 3.12
+   "seconds": 1.68
   }
  ]
 }

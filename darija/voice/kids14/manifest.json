@@ -15,7 +15,7 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 50,
+ "requested_characters": 28,
  "recorded_this_run": [
   "Asl",
   "Lsl"
@@ -98,19 +98,19 @@
    "id": "Asl",
    "speaker": "A",
    "voice": "tJHJUEHzOkMoPmJJ5jo2",
-   "text": "Ed... you... kay... shun.",
-   "characters": 25,
+   "text": "Edu... cation.",
+   "characters": 14,
    "model": "eleven_v4",
-   "seconds": 3.36
+   "seconds": 2.0
   },
   {
    "id": "Lsl",
    "speaker": "L",
    "voice": "Nggzl2QAXh3OijoXD116",
-   "text": "Ed... you... kay... shun.",
-   "characters": 25,
+   "text": "Edu... cation.",
+   "characters": 14,
    "model": "eleven_v4",
-   "seconds": 3.92
+   "seconds": 2.0
   }
  ]
 }
