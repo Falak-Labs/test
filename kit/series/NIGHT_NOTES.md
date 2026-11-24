@@ -1825,3 +1825,8 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   words, voice <= ~80 s (gate 55-85 s); speed no more than 1.1x.
 - Same message: owner asked about 16:9. Answer: Shorts/Reels/TikTok need 9:16, so SHORTS STAY 9:16 (Higgsfield stays
   9:16). 16:9 only for long YouTube videos (the 4-minute show). Never leave Higgsfield on 16:9 for a short build.
+- Nov 23 23:53 PT, owner, STANDING TARGET: every day 6 shorts + 2 long videos, each in Arabic AND English, posted on all
+  social media (shorts: YouTube Shorts, TikTok, Instagram; long videos: YouTube, 16:9 allowed for long). If Higgsfield
+  refuses (busy slot: another chat runs scheduled jobs on the same account), schedule a retry (send_later 12 min) and keep
+  retrying until the target is reached. A Cloudflare "Verify you are human" box is NOT a refusal to retry past: never click it,
+  tell the owner. Higgsfield shorts stay 9:16.
