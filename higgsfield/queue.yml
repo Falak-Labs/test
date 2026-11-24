@@ -564,7 +564,11 @@ jobs:
     # (the truck-with-a-robot-arm picture is Shams 1 in Abu Dhabi, five trucks clean it "every three days", IEEE
     # Spectrum Mar 18 2013). The salt is "highly corrosive", so each of the "19400m³ tanks" is UR 347 stainless steel
     # (worldsteel). B4 teases build 90, the ballpoint pen (LINEUP). B6: focused sunlight in one hand.
+    # Done by 07:51 PT (History 6bfea3de, started 07:33 with the style line), in ai-media since 07:51 (Fetch media run
+    # 45430295782). As run: shot 6 has no man, a marshmallow on a fork on a balcony table, the magnifying glass's dot
+    # melts it and it drips onto a sandal beside the table.
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_153301_6bfea3de-8b55-4d43-816f-7721109f3bf4.mp4
     file: buildit-noor-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): at night a truck with a long robotic arm drives slowly along a row of curved mirrors, spinning
@@ -686,3 +690,57 @@ jobs:
       a cutaway shows small round tram pods climbing inside one curved leg to the top, slow aerial orbit. Shot 6
       (25-30 s): funny slow motion, in a kitchen a man fights a stuck jar lid, runs it under hot water, and the lid
       suddenly spins free and pickles fly across the counter while his dog watches.
+
+  - id: seatbelt-A
+    build: 92
+    kit: seatbelt
+    # Facts: before Bohlin "the most prevalent design used a single strap with a buckle over the stomach. This design
+    # risked injury to body organs in high-speed crashes"; his belt has "one strap that would go across the chest and
+    # one that would go across the hips, with a joint for these two straps located just next to the driver's hip"; "In
+    # 1959, Volvo became the first automaker to introduce Bohlin's three-point safety belt design" (Lemelson-MIT,
+    # lemelson.mit.edu/resources/nils-bohlin). The first car (the PV 544 per DPMA; Amazon and PV 544 per Volvo) and when
+    # the design went free ("by 1963" per Lemelson, "immediately" per Volvo, 1968 per Wikipedia) disagree: check before
+    # a line uses one. A6 (a belt worn slack) has no source yet: its script line needs its own fact. No injured people:
+    # crash test dummies, sleds, hands.
+    status: todo
+    file: buildit-seatbelt-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): extreme slow motion in a bright crash test lab, a car seat on a test sled stops dead and a crash
+      test dummy is thrown forward, the seatbelt across its chest and hips stretches and catches it a hand's width from
+      the dashboard, side view. Shot 2 (5-10 s): a 1950s test track, an old rounded car with no seatbelts rolls into a
+      concrete wall, inside two crash test dummies keep moving forward and fly into the dashboard and the windscreen,
+      slow motion, wide view. Shot 3 (10-15 s): close-up in a 1950s car, a simple lap belt with a flat metal buckle is
+      clipped across the hips of a crash test dummy and pulled tight, the buckle sitting in the middle of its waist,
+      warm light. Shot 4 (15-20 s): slow motion crash test, a dummy wearing only a lap belt folds forward over the
+      strap, its chest and head swinging down onto the steering wheel while only its hips stay held, side view. Shot 5
+      (20-25 s): 1959, close-up of a three-point seatbelt, one strap running diagonally across a dummy's chest and one
+      across its hips, the two joining at a buckle just beside the hip, a hand clicks it shut, warm light. Shot 6
+      (25-30 s): a seatbelt worn loose with a big loop of slack, in a slow motion test the dummy slides far forward
+      before the strap finally pulls tight, the belt catching it too late, side view.
+  - id: seatbelt-B
+    build: 92
+    kit: seatbelt
+    # Facts: "A spiraled spring rotates the spool to keep the seatbelt webbing taut"; "When the car comes to a sudden
+    # stop, the inertia causes the pendulum to swing forward. The pawl on the other end of the pendulum catches hold of
+    # a toothed ratchet gear attached to the spool"; a fast yank locks it through "a centrifugal clutch— a weighted
+    # pivoting lever mounted to the rotating spool"; "In some newer seat belt systems, a pretensioner also works to
+    # tighten the belt webbing" (HowStuffWorks, auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/
+    # seatbelt3.htm). B4 teases build 93, the Huajiang Grand Canyon Bridge (LINEUP; deck "625 metres" above the bottom
+    # of the gorge, Wikipedia). B6: lunging for a phone yanks the belt and the clutch locks it. A real NHTSA crash-test
+    # film for line 11 is in ideas.md (Nov 24 08:10).
+    status: todo
+    file: buildit-seatbelt-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): cutaway inside a car's door pillar, the seatbelt strap wound on a spool with a flat spiral spring
+      beside it, a hand pulls the belt out slowly and the spool turns, and when the hand lets go the spring reels the
+      slack back in, macro. Shot 2 (5-10 s): slow motion test, the car brakes hard and the spool keeps spinning freely,
+      the strap runs out of the pillar and the dummy lurches forward with the belt following it, nothing holding it
+      back, side view. Shot 3 (10-15 s): macro cutaway beside the spool, the car brakes hard, a small weighted pendulum
+      swings forward and tips a metal pawl into the teeth of a gear on the spool, the spool stops dead and the strap
+      pulls tight, slow motion. Shot 4 (15-20 s): a road bridge hanging 625 meters above a deep misty canyon in the
+      green mountains of south-west China, a thin deck stretched between two tall towers, clouds drifting below the
+      cars, slow aerial push-in at sunrise. Shot 5 (20-25 s): a modern crash test in a bright lab, a car rolls into a
+      barrier in slow motion and its front crumples, inside the belted dummy stays firmly in its seat as the airbag
+      opens, engineers watching on screens behind glass, wide view. Shot 6 (25-30 s): funny slow motion, in a parked
+      car a driver lunges for a phone sliding off the passenger seat, the seatbelt locks with a jolt and holds him back
+      just short, the phone drops into the footwell and his hand freezes in mid-air.

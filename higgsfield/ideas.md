@@ -425,3 +425,62 @@ New content
   verification"; Plus/Ultra cards show "Unlimited models for 7 days" with no model named, for new purchases (Vidfare,
   data checked Nov 22; the sale's end date disagrees between pages). So Nov 28 stands: queue the best video ideas
   first. [Vidfare](https://vidfare.com/guides/higgsfield-black-friday/), [Kripesh Adwani, upd. Nov 23 2026](https://kripeshadwani.com/higgsfield-black-friday-deal/)
+
+## 2026-11-24 08:10 PT (hourly runner, cloud run)
+Trends
+- TikTok's STEM feed is a free extra shelf for the English builds: tag "#STEMTok" for "a chance to be featured on the
+  STEM Feed" (TikTok, Nov 7 2025: "1 in 3 teens visit the STEM Feed each week" in the US, over 10 million STEM videos).
+  Every candidate is checked twice: Common Sense Networks for "appropriate", Poynter for "the reliability of the
+  information", and a video that fails "both checkpoints" is "not eligible" (TechCrunch, Mar 14 2023). Since Oct 2024
+  it is on by default for all users in the US, UK and Ireland (TechCrunch, Oct 23 2024); newsroom headlines add
+  Europe, Canada, Australia, Singapore and sub-Saharan Africa, no Gulf launch found. Build-It use: add #STEMTok to
+  @congratsengineer's TikTok captions, keep every spoken number sourced, keep the AI label (03:01). No page says
+  whether AI footage is excluded: watch which builds get in.
+  [TikTok newsroom](https://newsroom.tiktok.com/bringing-stemtok-to-life-on-national-stem-day?lang=en),
+  [TechCrunch 2023](https://techcrunch.com/2023/03/14/tiktok-is-adding-a-dedicated-feed-for-stem-content),
+  [TechCrunch 2024](https://techcrunch.com/2024/10/23/tiktok-will-now-show-its-stem-feed-to-adults-not-just-teens)
+- Nothing new on the trend pages: SocialPilot is still its Nov 17 edition, and Virlo's November page (updated Nov
+  24) dates none of its top 10 after Nov 8. [SocialPilot](https://www.socialpilot.co/blog/tiktok-trends),
+  [Virlo](https://virlo.ai/trends/2026-11)
+
+Platform rules
+- YouTube auto dubbing is "now available to everyone" in "27 languages" (YouTube blog, Feb 4 2026); creators can
+  "provide your own dubs or turn them off completely", and viewers pick "a different audio track" in the player (May
+  15 2026); "over 6 million viewers" a day watched 10+ minutes of dubbed video (Dec 2025). Neither page says whether
+  Arabic is one of the 27 or whether Shorts get dubs. Worth a look in Studio: an AI Arabic dub of the English builds
+  would compete with @kef.tenbeni's own Saudi-voice versions, while other languages are free reach. YouTube's
+  Creator updates page has nothing after May 2026, so it is no place to watch for new features.
+  [YouTube blog, Feb 4 2026](https://blog.youtube/news-and-events/youtube-auto-dubbing-expressive-speech/),
+  [YouTube blog, May 15 2026](https://blog.youtube/creator-and-artist-stories/youtube-auto-dubbing-explained/),
+  [Creator updates](https://support.google.com/youtube/answer/9072033)
+
+Free footage and pictures
+- Seatbelt (92) real crash-test film: NHTSA's crash tests of the late 1970s and 1980s, "thousands of films" in "the
+  public archives of The Department of Transportation" (Jon Keegan's six-minute compilation on Beautiful Public
+  Data); data.gov lists NHTSA's Vehicle Crash Test Database with rights "public" and no licence field. A federal work
+  has no U.S. copyright (17 U.S.C. 105), but tests run by contractors may differ: read the film's own record first.
+  A belted dummy in a real 1980s test against B5's modern Seedance test makes a then-and-now pair. Browse a test:
+  https://www.nhtsa.gov/research-data/research-testing-databases#/vehicle/395 .
+  [Beautiful Public Data](https://beautifulpublicdata.com/vehicle-crash-test-films-from-the-1980s),
+  [data.gov](https://catalog.data.gov/dataset/vehicle-crash-test-database)
+
+New content
+- 92 seatbelt queued (seatbelt-A/B, facts in the queue comments): the old lap belt had "a buckle over the stomach"
+  that "risked injury to body organs"; Bohlin's belt, "one strap that would go across the chest and one that would go
+  across the hips"; "In 1959, Volvo became the first automaker" to fit it; "A spiraled spring rotates the spool"; in
+  a sudden stop "the pendulum" swings and its pawl "catches hold of a toothed ratchet gear"; a yank locks "a
+  centrifugal clutch". A6's slack-belt problem has no source yet.
+  [Lemelson-MIT](https://lemelson.mit.edu/resources/nils-bohlin),
+  [HowStuffWorks](https://auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/seatbelt3.htm)
+- LINEUP 93 is now the Huajiang Grand Canyon Bridge (Guizhou, China; Asia's first build since 82; seatbelt-B's B4
+  teases it): "Design: Suspension", "625 metres (2,051 ft) from the bridge deck to the bottom of the gorge", main
+  span 1,420 m, total 2,890 m, built 18 Jan 2022 to 28 Sep 2025, "a glass sightseeing walkway", "a glass-enclosed
+  elevator and staircase beside one of the bridge towers", a coffeehouse on a tower top, and a water curtain state
+  media call "the world's highest artificial waterfall" (Wikipedia). Crossing time disagrees: "about two hours to
+  roughly two minutes" (China Daily, Sep 28 2025) against "70 minutes" to "just over one minute" (Wikipedia).
+  Tribune India alone: "93 steel truss sections weighing a total of approximately 22,000 tonnes". Towers: 262 m and
+  205 m in the infobox, "two main 262-metre-tall" towers in the text: check. How the deck went up and any wind fix:
+  not found yet (the pair's run should look).
+  [Wikipedia](https://en.wikipedia.org/wiki/Huajiang_Grand_Canyon_Bridge),
+  [China Daily](https://www.chinadaily.com.cn/a/202509/28/WS68d8a0daa3108622abca3551.html),
+  [Tribune India, Sep 30 2025](https://www.tribuneindia.com/news/trending/no-tall-claim-worlds-highest-bridge-in-china-cuts-travel-time-from-2-hours-to-2-minutes)
