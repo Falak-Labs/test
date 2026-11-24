@@ -1,9 +1,15 @@
-# Yallah Say Buffer channels, checked 2026-11-24T07:56:06+00:00
+# Yallah Say Buffer channels, checked 2026-11-24T08:13:27+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
 - en.instagram: will post to thedarktoldme
 - en.tiktok: will post to thedarktoldme
+- baron-p1-en en.instagram: scheduled, due 2026-11-24T17:01:27.000Z
+- baron-p1-en en.tiktok: scheduled, due 2026-11-24T17:01:31.000Z
+- baron-p2-en en.instagram: scheduled, due 2026-11-24T21:00:22.000Z
+- baron-p2-en en.tiktok: scheduled, due 2026-11-24T21:00:39.000Z
+- baron-p3-en en.instagram: scheduled, due 2026-11-25T00:01:26.000Z
+- baron-p3-en en.tiktok: scheduled, due 2026-11-25T00:01:38.000Z
 - ep01-en-yt en.youtube: sent, sent 2026-11-24T00:11:03.841Z, https://www.youtube.com/shorts/wM39ojvsH_c
 - ep01-en en.instagram: sent, sent 2026-11-23T01:04:41.839Z, https://www.instagram.com/reel/DgEKAIUpN1I/
 - ep01-en en.tiktok: sent, sent 2026-11-23T01:04:25.012Z, https://tiktok.com/@thedarktoldme/video/7711166052100492558
