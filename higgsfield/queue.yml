@@ -661,7 +661,11 @@ jobs:
     # section", "These derricks could pull themselves up the curved legs of the Arch"; foundations "extend 60 feet
     # deep, with 30 feet embedded in bedrock" (NPS, "Gateway Arch Architecture"). 630 ft = 192 m. No faces: steel,
     # cranes, workers seen from afar.
-    status: "generating (started: Nov 24 12:05 PT; verified Generating=1)"
+    # Done by 12:14 PT (History 83a6f4d6, created 12:02:36 PT by the main chat with the style line), fetched by the
+    # hourly runner. As run, shot 3 says "bolts tighten" (no workers) and shot 6 ends "the steel creaks" (no workers on
+    # top); the other shots are word for word as below.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_200236_83a6f4d6-0970-4642-883e-0aa4f16b6535.mp4
     file: buildit-arch-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): 1965, two giant curved legs of shining stainless steel rise from a riverside park toward each
@@ -756,3 +760,60 @@ jobs:
       opens, engineers watching on screens behind glass, wide view. Shot 6 (25-30 s): funny slow motion, in a parked
       car a driver lunges for a phone sliding off the passenger seat, the seatbelt locks with a jolt and holds him back
       just short, the phone drops into the footwell and his hand freezes in mid-air.
+
+  - id: huajiang-A
+    build: 93
+    kit: huajiang
+    # Facts: "625 metres (2,051 ft) from the bridge deck to the bottom of the gorge", main span 1,420 m, built 18 Jan
+    # 2022 to 28 Sep 2025 (Wikipedia, "Huajiang Grand Canyon Bridge"); the crossing went from "about two hours to
+    # roughly two minutes" (China Daily, Sep 28 2025; Wikipedia: "70 minutes" to "just over one minute": check). "A
+    # single main cable consists of 217 compacted strand bundles, which in turn contain 91 high-strength, 5.7 mm steel
+    # wires" (China Daily, Apr 26 2025). Canyon winds "sometimes exceeded force 12 on the Beaufort scale", so the welders
+    # used "windproof welding technology" (China Daily, May 1 2025). "the world's largest cable crane system" (China
+    # Daily, Nov 7 2024), positioned by Beidou, set "93 segments totaling approximately 22,000 tons", up to "215 tons"
+    # each, with "100 percent accuracy in aligning bolts with their designated holes" (China Daily, Jan 18 2025). The
+    # fire risk: "an oil tanker catching fire on the bridge deck" (China Daily, Apr 26 2025). Towers 262 m and 205 m in
+    # Wikipedia's infobox: check. No faces (workers from behind), no flags, signs or writing.
+    status: todo
+    file: buildit-huajiang-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a thin road bridge hangs 625 meters above the bottom of a deep green canyon in the karst
+      mountains of south-west China, small cars crossing the deck while white clouds drift slowly below it, slow
+      aerial push-in at sunrise. Shot 2 (5-10 s): wide aerial of a deep, narrow canyon with steep green cliffs and a
+      river far below, a single narrow road zigzags down one wall in tight hairpins and climbs up the other, one small
+      car crawling around the bends, misty morning. Shot 3 (10-15 s): two tall towers stand on the two cliff edges and
+      a thick main cable runs between their tops across the canyon, the camera dives into a cutaway of the cable,
+      packed with hundreds of hexagonal bundles of thin shining steel wires, close-up. Shot 4 (15-20 s): high above
+      the canyon, workers in orange suits seen from behind lean into a howling wind on a narrow steel catwalk, their
+      safety lines pulled tight, the sparks of a welding torch blown sideways, wide view. Shot 5 (20-25 s): a giant
+      cable crane strung between the two towers lowers a huge steel truss section, as big as a building, over the
+      625 meter drop, it inches into place beside the last one and the bolts slide straight into their holes, wide
+      view then close-up. Shot 6 (25-30 s): a fuel tanker truck stopped on the finished bridge deck is on fire, orange
+      flames and black smoke climbing up a steel hanger toward the main cable above, the canyon far below, wide view.
+  - id: huajiang-B
+    build: 93
+    kit: huajiang
+    # Facts: the main cables got "up to five layers of fire-resistant material" (under one centimetre in all) that
+    # "withstand temperatures of up to 1,100 C for a full hour"; the wires carry a zinc-aluminium-magnesium coating and
+    # the cables fiber grating sensors tracking "temperature, humidity, and stress levels" (China Daily, Apr 26 2025).
+    # B2 (damp canyon air rusting wires inside the cable) is the usual reason for that coating, but the source does not
+    # say so: its line needs a source of its own. Load test: "A fleet of 96 trucks weighing a whopping total of 3,360
+    # metric tons", in steps of "18, 48 and 96 trucks, with each weighing 35 tons" (China Daily, Aug 25 2025; ENR: "The
+    # five-day testing completed on Aug. 25"). B4 teases build 94, the smoke alarm (LINEUP). B6: China Daily pictured
+    # each main cable as a "clothesline"; a gust turns a backyard clothesline into a sail. No faces, flags or writing.
+    status: todo
+    file: buildit-huajiang-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): macro cutaway of the main cable wrapped in thin layers of grey fireproof armor, a blowtorch
+      flame blasts its surface and the armor glows, but the shining steel wires packed inside stay bright and cool.
+      Shot 2 (5-10 s): cold mist and drizzle roll through the canyon over the bridge, the camera dives inside the main
+      cable where tiny water droplets creep between the steel wires and small orange rust spots start to spread,
+      macro. Shot 3 (10-15 s): macro cutaway of steel wires coated in a dull silver metal layer, water beading and
+      rolling off them, thin glowing glass fiber threads running between the bundles, then a screen in a small control
+      room showing calm moving graphs, warm light. Shot 4 (15-20 s): macro of a white smoke alarm on a kitchen
+      ceiling, a thin curl of smoke from a burnt piece of toast drifting up into its vents, its small red light
+      blinking, warm light. Shot 5 (20-25 s): rows of 96 heavy trucks loaded with gravel parked bumper to bumper across
+      the bridge deck high above the canyon, the deck holding steady, engineers seen from behind watching gauges on
+      laptops at the end of the bridge, slow aerial. Shot 6 (25-30 s): funny slow motion, in a windy backyard a man
+      pins a big wet bedsheet on a clothesline, a gust fills it like a sail and the whole line of laundry swings up and
+      wraps around him, a cat on the fence watching.
