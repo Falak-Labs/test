@@ -273,6 +273,12 @@ Free footage and pictures
 - Checked again: mydealz's Higgsfield "1 Tag echtes UNLIMITED (8 Modelle) + 72h Unlimited über MCP" deal is marked
   "abgelaufen" (expired). No MCP-unlimited window is open, so the rule stays: website + Unlimited switch only.
   [mydealz](https://www.mydealz.de/deals/higgsfield-1-tag-echtes-unlimited-8-modelle-72h-unlimited-uber-mcp-in-claudechatgpt-0-eur-bei-kundigung-fable-52-release-2870583)
+- Balloon (87) real proof shot, free: the Library of Congress Tissandier Collection, "approximately 975 items" from
+  "1773 to 1910" (balloons, ascensions, cartoons), includes the Versailles etching of the animals' flight,
+  "Exp[é]rience a[ë]rostatique faite Versailles le 19 sept. 1783" (LC-DIG-ppmsca-02472). A sample item reads "No
+  known restrictions on publication" with a 24 MB TIFF download: read the etching's own rights line before use.
+  [LoC collection](https://www.loc.gov/collections/tissandier/about-this-collection/),
+  [sample item](https://www.loc.gov/pictures/item/2002735698/)
 
 New content
 - Kettle (86) extras for the script (the runner's own kettle pair was dropped: the main chat had queued its own):
