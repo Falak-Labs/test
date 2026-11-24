@@ -1,0 +1,7 @@
+maraya_ar_sa: 69.10s, 2073 frames
+cover out/maraya_ar_sa/cover.png: ['مرايا العلا'] (frame 0 of the video)
+video done in 516s
+audio done
+final out/maraya_ar_sa/maraya_ar_sa_final.mp4
+QA  duration 69.10s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2073
+QA sheet out/maraya_ar_sa/qa_sheet.png

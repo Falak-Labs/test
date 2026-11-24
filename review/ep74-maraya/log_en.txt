@@ -1,0 +1,13 @@
+maraya: 64.42s, 1933 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/maraya/cover.png: ['MARAYA'] (frame 0 of the video)
+video done in 482s
+audio done
+final out/maraya/maraya_final.mp4
+QA  duration 64.43s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 1933
+QA sheet out/maraya/qa_sheet.png

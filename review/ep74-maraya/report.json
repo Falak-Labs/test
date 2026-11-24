@@ -1,0 +1,137 @@
+{
+ "slug": "ep74-maraya",
+ "kit": "maraya",
+ "langs": {
+  "en": {
+   "ok": true,
+   "duration": 64.43,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "14/216",
+   "mix_lines_off": [
+    "L 1 1 diff  | If you wrap a concert hall with mirrors so it vanishes, congrats, you just built Mariah.",
+    "L 5 3 diff  | So the mirror is bounced most of the sunlight and its heat, straight back to the sky.",
+    "L10 3 diff  | But before you fix your hair in it, follow, because next we're building a well with 3500 steps.",
+    "L11 1 diff  | Now the story, almost 10,000 square meters of it, the most mirror on any building on Earth.",
+    "L12 4 diff  | 500 seats, 4 walls of mirror, and 1 Guiness World record for the largest mirror building.",
+    "L13 2 diff  | And congrats, you just built Ma Raya yourself."
+   ],
+   "size_mb": 19.1,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "لو تلبّس مبنى مرايا لين يختفي، مبروك، كذا سويت لك مرايا العلا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "بس مبنى كبير بيخرّب الوادي. طيب، كم مراية تحتاج؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "فتغطي الجدران الأربعة بالمرايا، وتبين الجبال والسما بدال المبنى.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "بس شمس الصحرا هنا بتطبخ أي صندوق كبير مثل الفرن.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "فالمرايا ترد أغلب ضو الشمس وحرارتها، وترجعها للسما.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "بس الصحرا حر بالنهار وبرد بالليل، والقزاز يكبر وينكمش ويمكن ينكسر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "فكل لوح معلّق وحوله فراغ صغير، عشان يتحرك بدون ما ينكسر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "بس العواصف الرملية تخدش المرايا وتطفي لمعتها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "فتحط على الألواح طبقة قوية، مصنوعة تتحمل الحر والرمل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "بس قبل لا تعدّل شعرك فيها، تابعني، لأن الجاي بنبني بير فيه ثلاثة آلاف وخمسمية درجة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "والسالفة: تقريبا عشرة آلاف متر مربع مرايا، أكبر مبنى مرايا بالعالم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "خمسمية كرسي، وأربع جدران مرايا، ورقم قياسي واحد في موسوعة غينيس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "ومبروك، كذا سويت لك مرايا العلا بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "مبنى كامل يختفي في الصحرا، وأنت ما تقدر تختفي لما أمك تدوّر أحد يروح البقالة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 19.4,
+   "cover": true
+  }
+ }
+}
