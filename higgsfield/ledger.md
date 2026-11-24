@@ -37,3 +37,4 @@
 - Nov 23 23:14 PT airfryer-A done (fetched buildit-airfryer-sdA.mp4, 720x1280 30s); airfryer-B started, Seedance 2.5 unlimited 9:16 30s 720p
 2026-11-23 23:02 | scary | Seedance 2.5 720p 9:16 30s, 6 shots (unlimited) | scary-nadaha-6shots.mp4 | moonlit canal, farmer with lantern, farmer turns, woman in white in the corn (face hidden), lantern + footprints, cornfield push-in | Naddaha Short (EN+AR)
 2026-11-23 23:15-23:22 | scary | GPT Image 2.6 Sunburst 2K 9:16 (unlimited) | scary-nadaha-waiting.png, scary-nadaha-lantern.png, scary-nadaha-thumb-en.png, scary-nadaha-thumb-bg.png | farmer awake at doorway, lantern on bank at dawn, cover with text "DON'T ANSWER / IF SHE CALLS YOUR NAME", same cover without text | Naddaha Short + covers
+- Nov 23 23:29 PT airfryer-B done (fetched buildit-airfryer-sdB.mp4); kuwait-A blocked by 'one unlimited at a time' notice (other chat), retry in 8 min

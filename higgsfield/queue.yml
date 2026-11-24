@@ -84,7 +84,7 @@ jobs:
   - id: airfryer-B
     build: 78
     kit: airfryer
-    status: "generating (started: Nov 23 23:14 PT)"
+    status: done
     file: buildit-airfryer-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): a basket with holes, hot air rushing up through the holes and around every fry. Shot 2
