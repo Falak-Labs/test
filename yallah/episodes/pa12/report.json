@@ -2,13 +2,33 @@
  "lesson": "12",
  "dialect": "pa",
  "file": "yallah-say-pa-ep12.mp4",
- "ok": true,
- "problems": [],
+ "ok": false,
+ "problems": [
+  "sound failed:     TAKES[tid] = (decode(f'{d}/{tid}.mp3'), json.load(open(f'{d}/{tid}.json', encoding='utf-8'))) |                                                       ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ | FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/test/test/darija/voice/pa12/T_usu.json'"
+ ],
  "steps": {
   "script": {
    "seconds": 0.0,
    "says": [
-    "46 beats, 14 voice lines, 228 characters"
+    "40 beats, 11 voice lines, 224 characters"
+   ]
+  },
+  "slow T": {
+   "seconds": 0.3,
+   "says": [
+    "/home/runner/work/test/test/darija/voice/pa12/Tsl.mp3 → 0.63s 0.49s"
+   ]
+  },
+  "slow A": {
+   "seconds": 0.3,
+   "says": [
+    "/home/runner/work/test/test/darija/voice/kids12/Asl.mp3 → 0.73s 0.54s"
+   ]
+  },
+  "slow L": {
+   "seconds": 0.3,
+   "says": [
+    "/home/runner/work/test/test/darija/voice/kids12/Lsl.mp3 → 0.75s 0.58s"
    ]
   },
   "page": {
@@ -18,49 +38,27 @@
    ]
   },
   "sound": {
-   "seconds": 4.0,
+   "seconds": 2.2,
    "says": [
-    "duration 1:25.53 (2566 frames) | 13 shots, 46 beats | -14.0 LUFS, peak 0.660",
-    "quiz 27.5 | hard word 39.8 | end card 75.1 | word parts (s): {'T': [0.6, 0.72, 0.6, 0.53], 'A': [0.55, 0.73, 0.62, 0.52], 'L': [0.66, 0.81, 0.58, 0.57]}"
+    "    y, t = take(tid)",
+    "           ~~~~^^^^^",
+    "  File \"/home/runner/work/test/test/yallah/kit/tools/build2.py\", line 68, in take",
+    "    TAKES[tid] = (decode(f'{d}/{tid}.mp3'), json.load(open(f'{d}/{tid}.json', encoding='utf-8')))",
+    "                                                      ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/test/test/darija/voice/pa12/T_usu.json'"
    ]
-  },
-  "picture": {
-   "seconds": 115.4,
-   "pieces": 5,
-   "at_once": 4,
-   "frames_per_second": 22.2
-  },
-  "join": {
-   "seconds": 0.1,
-   "says": []
-  },
-  "mux": {
-   "seconds": 2.0,
-   "says": []
-  },
-  "takes": {
-   "seconds": 2.9,
-   "says": [
-    "ok   o2      at   82.36s len 1.19s  match 0.945  (take offset +0.03s)",
-    "ok   o3      at   83.80s len 0.62s  match 0.993  (take offset +0.01s)",
-    "below 0.9: none"
-   ]
-  },
-  "frames": {
-   "seconds": 2.4,
-   "says": []
   }
  },
  "voice_lines": {
   "own": {
    "folder": "darija/voice/pa12",
-   "lines": 14,
-   "characters": 228
+   "lines": 11,
+   "characters": 224
   },
   "kids": {
    "folder": "darija/voice/kids12",
-   "lines": 15,
-   "characters": 125
+   "lines": 9,
+   "characters": 117
   },
   "common": {
    "folder": "darija/voice/pacommon",
@@ -73,44 +71,5 @@
    "characters": 22
   }
  },
- "frames": 2566,
- "duration": 85.5333,
- "sha256": {
-  "page/script.js": "d2b6a1ac19dbc62740c5d333018f07b85f85185adecb12895dda96f68f6314a2",
-  "page/tl.js": "1f01cbbf325cf234c37a81ebb33603f8d4d47172a20238d7485536ff88b9686b",
-  "final.wav": "e7fa78fcbd9bd4d8de8c65ad03571acb3261282fbfad0d42d2a45de1a842e494",
-  "yallah-say-pa-ep12.mp4": "969cd4facac0f458ef0b5a568e3c8e72aaf866ccb755323556c89b7a49d3ec65"
- },
- "video": {
-  "size": 17663817,
-  "frames": 2566,
-  "width": 1080,
-  "height": 1920,
-  "rate": "30/1",
-  "audio_seconds": 85.533,
-  "audio_rate": "48000"
- },
- "takes_below_0.9": "none",
- "sheet_times": [
-  1.6,
-  7.77,
-  10.17,
-  12.4,
-  14.58,
-  16.77,
-  19.33,
-  21.8,
-  24.46,
-  26.51,
-  29.1,
-  41.4,
-  76.7,
-  85.03
- ],
- "made_with": {
-  "python": "3.13.18",
-  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
-  "playwright": "Version 1.63.0"
- },
- "seconds": 127.8
+ "seconds": 3.7
 }
