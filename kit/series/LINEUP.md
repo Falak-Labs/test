@@ -120,3 +120,4 @@ Rules:
 85. idea: the Dubai Frame (a 150 m picture frame between old and new Dubai, with a glass-floor bridge across the top)
 86. idea: an electric kettle that switches itself off (steam runs down a little tube to a two-metal disc that snaps when the water boils and trips the switch: the click) (added by the Higgsfield runner so the Dubai Frame's Seedance clip B can tease it)
 87. idea: a hot air balloon (a flame heats the air inside a huge fabric bag, hot air is lighter than cold air, so the whole basket floats up) (added by the Higgsfield runner so the kettle clip B can tease it)
+88. idea: the Pont du Gard, the Roman aqueduct bridge in southern France (three tiers of stone arches about 49 m high, laid largely without mortar, carrying spring water across a valley in a channel that drops only 2.5 cm over the bridge; limescale up to 50 cm thick slowly choked it) (added by the Higgsfield runner so the hot air balloon's Seedance clip B can tease it)

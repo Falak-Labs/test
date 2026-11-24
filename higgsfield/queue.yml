@@ -319,7 +319,10 @@ jobs:
     # at each corner", "in a 13-hour operation" (vsl.com/projects/dubai-frame; Gulf News: four 300 t jacks, 3.5 mm a
     # second, "over two days"). Wind: "porous cladding and a building damper" (Gulf News, "Get ready for a dizzying
     # sky walk at 150m height").
+    # The clip (History 1d2f3095) was made from another prompt, not the shots below: no style line, and its shot 6
+    # is a CARTOON camel on the glass floor (not photoreal). Map lines from the clip itself.
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_121156_1d2f3095-f8ca-4d57-899c-a5dbdd0f96e2.mp4
     file: buildit-dubaiframe-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): seen straight on from the park at sunset, a giant golden picture frame 150 meters tall stands
@@ -343,7 +346,10 @@ jobs:
     # turns "from translucent to transparent as visitors walk over them" (Gulf News); open to the public since Jan 1
     # 2018 (The National). B4 teases build 86, the electric kettle (LINEUP). B6: a frame at home that will not hang
     # straight. People kept to crowds, shoes and hands (see the NSFW notes in the ledger).
+    # The clip (History 6fd3c9c5) went in without the style line; its shot 3 and the A clip's glass floor both turn
+    # from frosted to clear: use one of them.
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_122831_6fd3c9c5-7ec2-45b8-8980-410349c16308.mp4
     file: buildit-dubaiframe-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): close-up of the tower's gold stainless steel skin, panels cut into a pattern of rings full of
@@ -366,7 +372,9 @@ jobs:
     # stainless steel (Wikipedia says 1955; other sources say 1959: say "the nineteen fifties"). Before this, kettles
     # boiled on and sometimes set off hotel smoke alarms (Ingenia). Little steam forms before boiling, so the disc is
     # set a little under 100 C (Wikipedia). Dry-boil limiter protects the element (patent text).
-    status: "generating (started: Nov 24 04:56 PT)"
+    # Done by 05:07 PT (History eeedc6d0, started 04:56, no style line), fetched by the hourly runner.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_125624_eeedc6d0-719c-4b6b-b602-c024bfb638b9.mp4
     file: buildit-kettle-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a shiny electric kettle on a kitchen counter at dawn, water roaring to a boil, steam rising from
@@ -395,3 +403,52 @@ jobs:
       two mugs on a kitchen table at sunrise, steam curling from the spout, warm light, slow push-in. Shot 6 (25-30
       s): funny slow motion, a toaster and a kettle side by side on a counter, the toaster pops two slices high into the
       air and the kettle clicks off at the same moment, steam puffs.
+
+  - id: balloon-A
+    build: 87
+    kit: balloon
+    # Facts: Versailles, 19 Sep 1783: "a sheep, duck and cockerel entered the round wicker basket", the balloon
+    # "soared 600 metres", came down eight minutes later "travelling 3.5 km"; it was "cotton canvas with paper glued
+    # onto both sides" over "a fire of wool and damp straw" (chateauversailles.fr; explainthatstuff says linen lined
+    # with paper and wood and straw: check before a line uses it). First people aloft 21 Nov 1783. Lift is weak:
+    # heating air "by 100 degrees F" cuts its weight "about 7 grams" per cubic foot, so "to lift 1,000 pounds, you
+    # need about 65,000 cubic feet of hot air" (Albuquerque balloon museum, "How a Hot Air Balloon Works"); about
+    # "120°C (250°F)" inside for one adult in a balloon "about 4m (13ft) in radius". The throat is "reinforced with
+    # a skirt made from a fireproof material such as Nomex"; propane cylinders hold "about 70–90 liters" each
+    # (explainthatstuff.com/how-hot-air-balloons-work.html). No people's faces: animals, hands, crowds far below.
+    status: todo
+    file: buildit-balloon-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): 1783, a giant blue and gold balloon of paper and cloth rises from a palace courtyard with a
+      sheep, a duck and a rooster standing in a round wicker basket hanging below it, the animals look down at the
+      rooftops shrinking, slow upward tilt. Shot 2 (5-10 s): a small cloth balloon over a fire on a field at dawn
+      strains to lift a basket of stones, it hops a little and sinks back onto the grass. Shot 3 (10-15 s): an
+      envelope as big as a house slowly swells on a field at dawn as a big fan blows air into its mouth, then it
+      rises upright above the basket. Shot 4 (15-20 s): flames lick the bottom edge of an old cloth balloon, the
+      fabric scorches and smokes, a gloved hand beats out the sparks. Shot 5 (20-25 s): close-up of a roaring
+      propane burner firing a tall blue and yellow flame straight up into the mouth of the balloon, the ring of
+      fireproof cloth around it glowing but not burning. Shot 6 (25-30 s): a balloon drifts helplessly on the wind
+      toward a line of tall trees and power lines, the basket swinging, no way to steer.
+  - id: balloon-B
+    build: 87
+    kit: balloon
+    # Facts: steering: "climb or descend to an altitude where the wind is blowing in the direction you want to go"
+    # (Albuquerque balloon museum); the top "parachute vent (or parachute valve)" "can be opened by pulling on a
+    # cord"; wicker "helps to absorb some of the impact if the balloon lands too quickly" (explainthatstuff). 2026
+    # Albuquerque International Balloon Fiesta: "About 584 balloons were registered to fly, including 114 Special
+    # Shapes", "an estimated 901,720 people visited the park" (Albuquerque Journal, Oct 21 2026; it gives 584 pilots
+    # too: check). B4 teases build 88, the Pont du Gard (LINEUP). B6: the bin-bag-and-hair-dryer trick.
+    status: todo
+    file: buildit-balloon-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): two hot air balloons over a misty valley at sunrise, the lower one drifts left and the higher
+      one drifts right, wisps of cloud showing the two winds blowing different ways, slow aerial. Shot 2 (5-10 s): a
+      balloon comes down too fast over a field, the basket slams into the grass, bounces and tips onto its side.
+      Shot 3 (10-15 s): close-up of a woven wicker basket hitting the ground, the wicker squashes and springs back
+      without breaking, then the round vent at the top of the balloon opens on its cord and hot air puffs out. Shot 4
+      (15-20 s): a giant three-level Roman bridge of honey-colored stone arches crossing a green river valley in
+      southern France at sunrise, a stream of clear water flowing in a stone channel along its very top, slow aerial
+      push-in. Shot 5 (20-25 s): hundreds of colorful hot air balloons rise together at sunrise over a desert city
+      with mountains behind, crowds far below on the launch field, wide aerial. Shot 6 (25-30 s): funny slow motion,
+      a hair dryer blows hot air into a thin plastic bin bag held upside down on a kitchen table, the bag swells,
+      floats up out of a hand to the ceiling, and a cat watches it go with wide eyes.

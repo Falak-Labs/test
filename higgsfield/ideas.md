@@ -252,3 +252,42 @@ New content
   [Ingenia](https://www.ingenia.org.uk/articles/how-do-kettles-know-when-to-switch-off),
   [Explain that Stuff](https://explainthatstuff.com/how-electric-kettles-work.html),
   [Morphy Richards, Dec 22 2025](https://www.morphyrichards.co.uk/blogs/kettle-guides/how-does-a-kettle-work)
+
+## 2026-11-24 05:10 PT (hourly runner, cloud run)
+Trends
+- Shorts distribution, vendor claims with no sources (a hint only): "a swipe-through rate under roughly 30 percent
+  stops a Short from being distributed further"; "around 65 percent average view duration for Shorts under 30
+  seconds and around 50 percent for Shorts in the 30 to 60 second range"; "Explainer content skews toward the upper
+  end at 35 to 45 seconds". With the 04:00 Metricool line (about 16 s per view) it points to the "Shorter cut (about
+  40-50 s)" test already listed in claude/build-it-performance.md. [fastlane, Aug 14 2026](https://www.fastlane.ai/blog/youtube-shorts-algorithm-2026) (vendor)
+- A science TikTok past 1M views credits a hook on something "everyone has" lived ("everyone has either been stung
+  by a bee"), the picture first, and "a question that naturally leads to another question"; "you can easily lose
+  thousands of viewers if the first few seconds of the video aren't compelling enough". For everyday builds, open on
+  the moment everyone knows (86: the click). [labxnas, Nov 5 2026](https://labxnas.substack.com/p/when-is-science-good-for-tiktok)
+
+Free footage and pictures
+- Coverr's "Archive" category is not old film: "a curated mix of authentic human-shot video... alongside imaginative
+  AI-generated stock clips" on modern subjects; free, "No attribution is required", monetized YouTube allowed, but
+  its thumbnails link to Shutterstock, so check each clip's own licence. Old film stays Prelinger (04:00).
+  [Coverr](https://coverr.co/stock-video-footage/archive)
+- Checked again: mydealz's Higgsfield "1 Tag echtes UNLIMITED (8 Modelle) + 72h Unlimited über MCP" deal is marked
+  "abgelaufen" (expired). No MCP-unlimited window is open, so the rule stays: website + Unlimited switch only.
+  [mydealz](https://www.mydealz.de/deals/higgsfield-1-tag-echtes-unlimited-8-modelle-72h-unlimited-uber-mcp-in-claudechatgpt-0-eur-bei-kundigung-fable-52-release-2870583)
+
+New content
+- Kettle (86) extras for the script (the runner's own kettle pair was dropped: the main chat had queued its own):
+  "In 1922, Leslie Large, an engineer working at Bulpitt & Sons of Birmingham, designed an element of wire wound
+  around a core and sheathed in a metal tube" (Wikipedia "Kettle"); lid open: "Steam may escape through the lid
+  rather than reaching the shut-off mechanism" (Morphy Richards); "when closed, steam is diverted down a pipe to a
+  thermostat that senses boiling" (Consumer NZ). A line-11/12 fact: "The largest ever pickup occurred on 4 July
+  1990" (2,800 MW after the World Cup semi-final penalties), "caused by the switching on of millions of electric
+  kettles". [Wikipedia "Kettle"](https://en.wikipedia.org/wiki/Kettle),
+  [Morphy Richards](https://support.morphyrichards.co.uk/hc/en-gb/articles/26157753805980),
+  [Consumer NZ](https://consumer.org.nz/home-and-living/kitchen/jugs-and-kettles/faulty-kettles-what-can-you-do),
+  [Wikipedia "TV pickup"](https://en.wikipedia.org/wiki/TV_pickup)
+- 87 hot air balloon queued (balloon-A/B, facts in the queue), and LINEUP 88 is the Pont du Gard (an idea; Europe's
+  first build since 67): 48.8 m high (49 m on the site's page), "constructed largely without the use of mortar or
+  clamps", blocks "up to 6 tons", about 50 km of channel, the bridge "descends 2.5cm ... in 456m"; average gradient
+  "1 in 3,000" (Wikipedia) against "25 cm per kilometre" (pontdugard.fr): check before a line uses it. Calcium
+  carbonate "up to 50cm (20in) thick on each wall" slowly choked it (the kettle's limescale again, a ready line-10
+  link). [Wikipedia](https://en.wikipedia.org/wiki/Pont_du_Gard), [pontdugard.fr](https://pontdugard.fr/en/discover/monument)
