@@ -787,7 +787,7 @@ jobs:
     # each, with "100 percent accuracy in aligning bolts with their designated holes" (China Daily, Jan 18 2025). The
     # fire risk: "an oil tanker catching fire on the bridge deck" (China Daily, Apr 26 2025). Towers 262 m and 205 m in
     # Wikipedia's infobox: check. No faces (workers from behind), no flags, signs or writing.
-    status: "generating (started: Nov 24 14:25 PT by the main chat with its own shots text; verified Generating=1)"
+    status: done
     file: buildit-huajiang-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a thin road bridge hangs 625 meters above the bottom of a deep green canyon in the karst
@@ -814,7 +814,7 @@ jobs:
     # metric tons", in steps of "18, 48 and 96 trucks, with each weighing 35 tons" (China Daily, Aug 25 2025; ENR: "The
     # five-day testing completed on Aug. 25"). B4 teases build 94, the smoke alarm (LINEUP). B6: China Daily pictured
     # each main cable as a "clothesline"; a gust turns a backyard clothesline into a sail. No faces, flags or writing.
-    status: todo
+    status: "generating (started: Nov 24 13:45 PT by the main chat; shots 5-6 reworded, no people; verified Generating=1)"
     file: buildit-huajiang-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro cutaway of the main cable wrapped in thin layers of grey fireproof armor, a blowtorch
