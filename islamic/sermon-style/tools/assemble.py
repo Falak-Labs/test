@@ -138,6 +138,8 @@ if a.bed:
     gain_db = -a.duck * np.repeat(gb, blk)
     gain_db = np.concatenate([gain_db, np.full(len(v) - len(gain_db), gain_db[-1] if len(gain_db) else 0)])
     b = b * (10 ** (gain_db / 20))[:, None]
+    fo = min(len(b), int(3.0 * SR))   # let the bed breathe out at the very end
+    b[-fo:] *= (np.linspace(1, 0, fo) ** 1.6)[:, None]
     mix = mix + b
 with tempfile.TemporaryDirectory() as td:
     raw = os.path.join(td, "raw.wav")

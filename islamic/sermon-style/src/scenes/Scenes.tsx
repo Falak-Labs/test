@@ -208,16 +208,17 @@ export const WealthSplit: React.FC<SceneProps> = ({f, a, b, cue}) => {
           <g key={i}>
             {parts.map((k) => {
               const ph = h / 3;
-              const y = G - ph * (k + 1);
-              const dx = split * (k - 1) * (26 + i * 4);
-              const dy = -split * k * 10;
+              const pw = w / 3 - 5;
+              const x = lerp(br.x - w / 2, br.x - w / 2 + k * (w / 3) + 2.5, split);
+              const y = lerp(G - ph * (k + 1), G - ph, split);
+              const ww = lerp(w, pw, split);
               return (
-                <rect key={k} x={br.x - w / 2 + dx} y={y + dy} width={w} height={Math.max(0, ph - (split > 0 ? 6 * split : 0))} rx={8}
+                <rect key={k} x={x} y={y + (split > 0 ? 0 : 0)} width={ww} height={Math.max(0, ph - 3)} rx={lerp(8, 4, split)}
                   stroke={col} strokeWidth={2.8} fill={split > 0.5 ? 'rgba(140,150,163,0.05)' : 'rgba(240,199,94,0.08)'}
-                  opacity={1 - 0.55 * split} filter={split < 0.5 && grow > 0.95 ? 'url(#glowSoft)' : undefined} />
+                  opacity={1 - 0.45 * split} filter={split < 0.5 && grow > 0.95 ? 'url(#glowSoft)' : undefined} />
               );
             })}
-            <circle cx={br.x} cy={G - h - 20 - split * 70} r={6} stroke={col} strokeWidth={2.4} fill="none" opacity={grow * (1 - 0.6 * split)} />
+            <circle cx={br.x} cy={G - h - 20 + split * (h * 2 / 3)} r={6} stroke={col} strokeWidth={2.4} fill="none" opacity={grow * (1 - 0.8 * split)} />
             <Label x={br.x} y={G + 44} t={br.l} size={28} color={C.gold} o={grow * (1 - 0.6 * split)} />
           </g>
         );
@@ -256,7 +257,7 @@ export const Grave: React.FC<SceneProps> = ({f, a, b, cue}) => {
   const light = cue.light !== undefined ? ramp(f, cue.light, cue.light + 14) : 0;
   const dark = cue.dark !== undefined ? ramp(f, cue.dark, cue.dark + 16) : 0;
   const glow = light * (1 - dark);
-  const top = G - 10;
+  const top = G - 66;
   const flick = 0.75 + 0.25 * Math.sin((f - a) / 2.3) * Math.sin((f - a) / 5.1);
   return (
     <g opacity={o}>
@@ -293,8 +294,9 @@ export const Checklist: React.FC<SceneProps> = ({f, a, b, cue}) => {
         const y = y0 + 70 + i * 62;
         return (
           <g key={i} opacity={ap}>
-            <Label x={x0 + w - 70} y={y + 10} t={r} size={30} color={g > 0.5 ? C.gold : C.sub} weight={700} />
-            <path d={`M ${x0 + w - 135} ${y} L ${x0 + 62} ${y}`} stroke={C.lineDim} strokeWidth={2.4} strokeLinecap="round" />
+            <text x={x0 + w - 26} y={y + 10} textAnchor="end" fontFamily="Cairo" fontWeight={700} fontSize={30}
+              fill={g > 0.5 ? C.gold : C.sub}>{r}</text>
+            <path d={`M ${x0 + 140} ${y} L ${x0 + 62} ${y}`} stroke={C.lineDim} strokeWidth={2.4} strokeLinecap="round" />
             <circle cx={x0 + 38} cy={y} r={7 * (1 - g) + 0.01} fill={C.red} filter="url(#glowRed)" opacity={1 - g} />
             <path d={`M ${x0 + 27} ${y} L ${x0 + 36} ${y + 9} L ${x0 + 52} ${y - 10}`} stroke={C.gold} strokeWidth={3.4} fill="none"
               strokeLinecap="round" strokeLinejoin="round" {...draw(g)} filter={g > 0 ? 'url(#glowGold)' : undefined} />

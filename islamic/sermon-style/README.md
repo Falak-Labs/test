@@ -50,7 +50,7 @@ ffmpeg -i out/short_silent.mp4 -i work/final/mix.wav -map 0:v -map 1:a -c:v copy
   about 16 semitones of range), short phrases (median 1.6 s), breaths of about 0.55 s and long stops of 1.1 to 1.6 s
   after key lines, rhetorical questions that rise at the end.
 - Chosen: **Haz voice - Energetic & Passionate** (`mXovlg4TtTSUsS5BeRYF`), eleven_v4, stability 0.5, similarity 0.75:
-  the closest of ten Egyptian voices measured (median pitch 149 Hz, 21 semitones of range, pitch spread 5.3 semitones vs 5.0).
+  the closest of eight Egyptian voices measured (median pitch 149 Hz, 21 semitones of range, pitch spread 5.3 semitones vs 5.0).
   Calmer alternative: Momen (`x6fvBLXv9YxzoVJQ0wp6`). Fusha channel voice: Suhail (`vRVc2UEclSTO2Z2n6vY5`).
 - With eleven_v4, fully vowelled Fusha can be misread (this voice said ويتبقى for وَيَبْقَى); the same line without
   vowel marks read correctly. Write hadith with light or no tashkeel and always run the read-back check.
