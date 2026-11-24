@@ -1,0 +1,35 @@
+name: Islamic music find
+# Searches open-licence audio (Openverse) on the runner and keeps CC0 / public-domain / CC BY files as background-bed
+# candidates in islamic/music/candidates with their source and licence (index.json).
+on:
+  workflow_dispatch:
+    inputs:
+      queries:
+        description: "search phrases separated by |"
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: islamic-music
+  cancel-in-progress: false
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            islamic/tools
+            islamic/music
+            scripts
+      - name: ffmpeg
+        run: sudo apt-get -qq update && sudo apt-get -qq install -y ffmpeg >/dev/null
+      - name: Find and download
+        env:
+          QUERIES: ${{ inputs.queries }}
+        run: |
+          IFS='|' read -ra Q <<< "$QUERIES"
+          python3 -I -u islamic/tools/music_find.py islamic/music/candidates "${Q[@]}"
+      - name: Save to the repo
+        run: bash scripts/save_state.sh "islamic music candidates $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" islamic/music
