@@ -637,3 +637,48 @@ New content
   tanker fire on the deck with flames licking the cable, and a macro cutaway of one cable packed with bundles of wires.
   [China Daily, Apr 26 2025](https://mobile.chinadaily.com.cn/cn/html5/2025-04/26/content_002_680c0be5ed50ccabe15111e5.htm),
   [People's Daily via Alwihda, Feb 26 2026](https://www.alwihdainfo.com/nearly-40000-steel-wires-hold-up-world-s-tallest-bridge-a148378/)
+
+## 2026-11-24 11:00 PT (hourly runner, cloud run)
+Platform rules
+- AI channels get judged as networks: Fstoppers (Jul 19 2026) reports a Google research paper on a "Scalable Cluster
+  Termination System" that ended 50,000 clusters (130,000 channels) in six months, reading signals across accounts:
+  "the same AI-generated template", templated scripts, machine-like posting frequency, a shared origin script or API,
+  synced upload schedules and shared infrastructure; under 1% of terminations were overturned. Fstoppers warns it is
+  published research, not confirmed YouTube infrastructure. Earlier, YouTube "removed or heavily restricted channels
+  responsible for more than 4.7 billion total views", at least 16 of Kapwing's top 100 AI slop channels (Geo News, Jan
+  30 2026). Build-It use: our two channels are one bilingual series, but they share one pipeline, so keep the EN and
+  AR posts hours apart (posts/ep89-noor.yml: 08:30Z and 11:30Z), each build's own script and opening (10:05 note), and
+  a real proof shot (archive photo or film) in every build.
+  [Fstoppers, Jul 19 2026](https://fstoppers.com/artificial-intelligence/how-google-machine-terminated-130000-ai-slop-youtube-channels-six-months-903645),
+  [Geo News, Jan 30 2026](https://www.geo.tv/latest/648023-in-fresh-crackdown-on-ai-brainrot-content-youtube-discards-over-47-billion-views)
+- TikTok viewers can turn AI down: a slider (Settings > Content Preferences > Manage Topics > AI-generated content)
+  tailors the feed "rather than removing or replacing content in feeds entirely" (TechCrunch, Nov 18 2025); TikTok's
+  Mar 10 2026 page still calls it a test, says labels have marked "over 1.3 billion videos", and labels now show whether
+  they came from AI detection, the creator or TikTok's own tools. Anti-AI is a trend of its own: Later's November
+  roundup (Nov 13 2026) lists "Building something AI can never replace", and Lightreel cites "Zero AI" as a positioning
+  hook. Build-It use: keep the label on (03:01 note); what an AI-wary viewer gets here and not from slop is the sourced
+  number and the real proof shot, so say the number early.
+  [TechCrunch](https://techcrunch.com/2025/11/18/tiktok-now-lets-you-choose-how-much-ai-generated-content-you-want-to-see/),
+  [TikTok newsroom, Mar 10 2026](https://newsroom.tiktok.com/tiktok-ssa-shares-more-ways-to-spot-shape-and-understand-ai-generated-content?lang=en-ZA),
+  [Later, Nov 13 2026](https://later.com/blog/tiktok-trends/)
+
+Trends
+- "I was today years old when..." (Lightreel, Nov 14-21 2026): "The revelation must be demonstrated immediately;
+  explanation alone weakens it." An opening to rotate in for everyday builds (seatbelt 92, smoke alarm 94), with A1
+  showing the mechanism on the same words. Nothing newer on the trend pages: Lightreel last updated Nov 21,
+  SocialPilot's edition covers Nov 17-25, Later's is Nov 13 ("Every other week"), and Virlo's top 10 (upd. Nov 24) has
+  nothing first seen after Nov 8. [Lightreel](https://www.lightreel.ai/blogs/whats-trending-on-tiktok)
+
+Free footage and sound
+- Gateway Arch (91), a real film of the last day, checked: none free. Charles Guggenheim's "Monument to the Dream"
+  (1967, 28 min) "chronicles the construction of the St. Louis Gateway Arch from conception to its completion on
+  October 28, 1965" and "was recently restored by the National Park Service and Guggenheim Productions, Inc." (NARA,
+  Aug 19 2015): no rights stated, so it needs permission. Universal Newsreel (1929-1967) is out of copyright
+  ("MCA/Universal deeded the copyright to this collection to the US Government"; some reels hold third-party material),
+  but "Very few are available for download from the catalog". The NPGallery stills (07:05 note) stay its proof shot.
+  [NARA, Aug 19 2015](https://www.archives.gov/press/press-releases/2015/nr15-107.html),
+  [NARA newsreels](https://www.archives.gov/research/motion-pictures/newsreels)
+- Real recorded sound, free: the Sonniss GDC 2026 bundle, "more than 347 files (7.47 GB)" of WAVs, "royalty-free and
+  commercially usable" (download at gdc.sonniss.com). Mostly game sounds (motorcycles, a quadcopter, foley), no wind or
+  whoosh sets named, and kit/bik/sfx.py already synthesizes ours, so it only helps with real foley under a tag joke
+  (Seedance clips come silent: sound costs credits). [Bedroom Producers Blog, Mar 16 2026](https://bedroomproducersblog.com/2026/03/16/sonniss-gdc-2026-bundle/)
