@@ -33,7 +33,9 @@ Not unlimited: Kling 3.0 / 4.0, Veo, Seedance at 1080p or 4K, sound, music. Thos
    PICTURES RUN IN PARALLEL (tested Nov 23 20:10 PT): an unlimited image job ran while the Seedance video job was
    generating. Image models with the UNLIMITED badge: Nano Banana Pro, Nano Banana, GPT Image 2.6 Sunburst / Flare,
    GPT Image 2.5, Seedream 5.0 lite / Pro / 4.5, FLUX.2 Pro, Kling O1, Auto. Keep the batch at 1/4 (raising it turns
-   Unlimited off and the button shows credits). Only Seedance 2.5 is unlimited for video.
+   Unlimited off and the button shows credits). Only Seedance 2.5 is unlimited for video. Picture jobs queue one at a
+   time among themselves (a second one shows "Queued", tested Nov 23 22:30 PT), about 40-60 s each. The safety filter
+   can flag a harmless prompt ("a jet of white steam shooting from the whistle" came back NSFW): reword and retry.
 4. **Type your prompt only when you are ready to press Generate** (owner, Nov 23 19:54 PT): set the settings, check
    History is free, then type the prompt and press Generate right away, and clear the prompt box straight after, so
    another chat can type its own prompt and generate. Never leave a prompt waiting in the box.
