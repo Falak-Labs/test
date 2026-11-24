@@ -1,0 +1,1197 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 61.14,
+ "words": 215,
+ "words_per_sec": 3.52,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.823,
+   "text": "If you wrap a concert hall in mirrors so it vanishes, congrats, you just built Maraya.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.14,
+     "end": 0.374
+    },
+    {
+     "w": "you",
+     "start": 0.374,
+     "end": 0.608
+    },
+    {
+     "w": "wrap",
+     "start": 0.608,
+     "end": 0.843
+    },
+    {
+     "w": "a",
+     "start": 0.843,
+     "end": 1.077
+    },
+    {
+     "w": "concert",
+     "start": 1.077,
+     "end": 1.484
+    },
+    {
+     "w": "hall",
+     "start": 1.484,
+     "end": 1.719
+    },
+    {
+     "w": "in",
+     "start": 1.719,
+     "end": 1.953
+    },
+    {
+     "w": "mirrors",
+     "start": 1.953,
+     "end": 2.36
+    },
+    {
+     "w": "so",
+     "start": 2.36,
+     "end": 2.595
+    },
+    {
+     "w": "it",
+     "start": 2.595,
+     "end": 2.829
+    },
+    {
+     "w": "vanishes,",
+     "start": 2.829,
+     "end": 3.41
+    },
+    {
+     "w": "congrats,",
+     "start": 3.54,
+     "end": 3.82
+    },
+    {
+     "w": "you",
+     "start": 3.89,
+     "end": 4.069
+    },
+    {
+     "w": "just",
+     "start": 4.069,
+     "end": 4.249
+    },
+    {
+     "w": "built",
+     "start": 4.249,
+     "end": 4.428
+    },
+    {
+     "w": "Maraya.",
+     "start": 4.428,
+     "end": 4.74
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.188,
+   "end": 9.198,
+   "text": "But a giant box would spoil this desert valley. So how much mirror would you need?",
+   "words": [
+    {
+     "w": "But",
+     "start": 5.318,
+     "end": 5.527
+    },
+    {
+     "w": "a",
+     "start": 5.527,
+     "end": 5.735
+    },
+    {
+     "w": "giant",
+     "start": 5.735,
+     "end": 5.944
+    },
+    {
+     "w": "box",
+     "start": 5.944,
+     "end": 6.152
+    },
+    {
+     "w": "would",
+     "start": 6.152,
+     "end": 6.361
+    },
+    {
+     "w": "spoil",
+     "start": 6.361,
+     "end": 6.569
+    },
+    {
+     "w": "this",
+     "start": 6.569,
+     "end": 6.778
+    },
+    {
+     "w": "desert",
+     "start": 6.778,
+     "end": 7.141
+    },
+    {
+     "w": "valley.",
+     "start": 7.141,
+     "end": 7.504
+    },
+    {
+     "w": "So",
+     "start": 7.504,
+     "end": 7.712
+    },
+    {
+     "w": "how",
+     "start": 7.712,
+     "end": 7.921
+    },
+    {
+     "w": "much",
+     "start": 7.921,
+     "end": 8.129
+    },
+    {
+     "w": "mirror",
+     "start": 8.129,
+     "end": 8.492
+    },
+    {
+     "w": "would",
+     "start": 8.492,
+     "end": 8.701
+    },
+    {
+     "w": "you",
+     "start": 8.701,
+     "end": 8.909
+    },
+    {
+     "w": "need?",
+     "start": 8.909,
+     "end": 9.118
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.562,
+   "end": 13.927,
+   "text": "So you cover all four walls in mirrors, and they show the rocks and sky instead of the building.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.672,
+     "end": 9.873
+    },
+    {
+     "w": "you",
+     "start": 9.873,
+     "end": 10.075
+    },
+    {
+     "w": "cover",
+     "start": 10.075,
+     "end": 10.426
+    },
+    {
+     "w": "all",
+     "start": 10.426,
+     "end": 10.627
+    },
+    {
+     "w": "four",
+     "start": 10.627,
+     "end": 10.828
+    },
+    {
+     "w": "walls",
+     "start": 10.828,
+     "end": 11.03
+    },
+    {
+     "w": "in",
+     "start": 11.03,
+     "end": 11.231
+    },
+    {
+     "w": "mirrors,",
+     "start": 11.231,
+     "end": 11.582
+    },
+    {
+     "w": "and",
+     "start": 11.692,
+     "end": 11.867
+    },
+    {
+     "w": "they",
+     "start": 11.867,
+     "end": 12.043
+    },
+    {
+     "w": "show",
+     "start": 12.043,
+     "end": 12.218
+    },
+    {
+     "w": "the",
+     "start": 12.218,
+     "end": 12.394
+    },
+    {
+     "w": "rocks",
+     "start": 12.394,
+     "end": 12.569
+    },
+    {
+     "w": "and",
+     "start": 12.569,
+     "end": 12.745
+    },
+    {
+     "w": "sky",
+     "start": 12.745,
+     "end": 12.92
+    },
+    {
+     "w": "instead",
+     "start": 12.92,
+     "end": 13.226
+    },
+    {
+     "w": "of",
+     "start": 13.226,
+     "end": 13.401
+    },
+    {
+     "w": "the",
+     "start": 13.401,
+     "end": 13.577
+    },
+    {
+     "w": "building.",
+     "start": 13.577,
+     "end": 13.882
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.292,
+   "end": 17.26,
+   "text": "But the desert sun here would bake a big box like an oven.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.432,
+     "end": 14.621
+    },
+    {
+     "w": "the",
+     "start": 14.621,
+     "end": 14.81
+    },
+    {
+     "w": "desert",
+     "start": 14.81,
+     "end": 15.14
+    },
+    {
+     "w": "sun",
+     "start": 15.14,
+     "end": 15.329
+    },
+    {
+     "w": "here",
+     "start": 15.329,
+     "end": 15.518
+    },
+    {
+     "w": "would",
+     "start": 15.518,
+     "end": 15.707
+    },
+    {
+     "w": "bake",
+     "start": 15.707,
+     "end": 15.897
+    },
+    {
+     "w": "a",
+     "start": 15.897,
+     "end": 16.086
+    },
+    {
+     "w": "big",
+     "start": 16.086,
+     "end": 16.275
+    },
+    {
+     "w": "box",
+     "start": 16.275,
+     "end": 16.464
+    },
+    {
+     "w": "like",
+     "start": 16.464,
+     "end": 16.653
+    },
+    {
+     "w": "an",
+     "start": 16.653,
+     "end": 16.843
+    },
+    {
+     "w": "oven.",
+     "start": 16.843,
+     "end": 17.172
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.625,
+   "end": 21.469,
+   "text": "So the mirrors bounce most of the sunlight, and its heat, straight back to the sky.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.735,
+     "end": 17.931
+    },
+    {
+     "w": "the",
+     "start": 17.931,
+     "end": 18.127
+    },
+    {
+     "w": "mirrors",
+     "start": 18.127,
+     "end": 18.469
+    },
+    {
+     "w": "bounce",
+     "start": 18.469,
+     "end": 18.665
+    },
+    {
+     "w": "most",
+     "start": 18.665,
+     "end": 18.861
+    },
+    {
+     "w": "of",
+     "start": 18.861,
+     "end": 19.057
+    },
+    {
+     "w": "the",
+     "start": 19.057,
+     "end": 19.254
+    },
+    {
+     "w": "sunlight,",
+     "start": 19.254,
+     "end": 19.595
+    },
+    {
+     "w": "and",
+     "start": 19.715,
+     "end": 19.872
+    },
+    {
+     "w": "its",
+     "start": 19.872,
+     "end": 20.028
+    },
+    {
+     "w": "heat,",
+     "start": 20.028,
+     "end": 20.185
+    },
+    {
+     "w": "straight",
+     "start": 20.375,
+     "end": 20.583
+    },
+    {
+     "w": "back",
+     "start": 20.583,
+     "end": 20.791
+    },
+    {
+     "w": "to",
+     "start": 20.791,
+     "end": 20.999
+    },
+    {
+     "w": "the",
+     "start": 20.999,
+     "end": 21.207
+    },
+    {
+     "w": "sky.",
+     "start": 21.207,
+     "end": 21.415
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 21.833,
+   "end": 26.604,
+   "text": "But the desert is hot by day and cold at night, and glass that grows and shrinks can crack.",
+   "words": [
+    {
+     "w": "But",
+     "start": 21.973,
+     "end": 22.201
+    },
+    {
+     "w": "the",
+     "start": 22.201,
+     "end": 22.43
+    },
+    {
+     "w": "desert",
+     "start": 22.43,
+     "end": 22.828
+    },
+    {
+     "w": "is",
+     "start": 22.828,
+     "end": 23.056
+    },
+    {
+     "w": "hot",
+     "start": 23.056,
+     "end": 23.285
+    },
+    {
+     "w": "by",
+     "start": 23.285,
+     "end": 23.513
+    },
+    {
+     "w": "day",
+     "start": 23.513,
+     "end": 23.741
+    },
+    {
+     "w": "and",
+     "start": 23.741,
+     "end": 23.97
+    },
+    {
+     "w": "cold",
+     "start": 23.97,
+     "end": 24.198
+    },
+    {
+     "w": "at",
+     "start": 24.198,
+     "end": 24.427
+    },
+    {
+     "w": "night,",
+     "start": 24.427,
+     "end": 24.655
+    },
+    {
+     "w": "and",
+     "start": 24.655,
+     "end": 24.884
+    },
+    {
+     "w": "glass",
+     "start": 24.884,
+     "end": 25.112
+    },
+    {
+     "w": "that",
+     "start": 25.112,
+     "end": 25.341
+    },
+    {
+     "w": "grows",
+     "start": 25.341,
+     "end": 25.569
+    },
+    {
+     "w": "and",
+     "start": 25.569,
+     "end": 25.798
+    },
+    {
+     "w": "shrinks",
+     "start": 25.798,
+     "end": 26.026
+    },
+    {
+     "w": "can",
+     "start": 26.026,
+     "end": 26.255
+    },
+    {
+     "w": "crack.",
+     "start": 26.255,
+     "end": 26.483
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 26.969,
+   "end": 30.76,
+   "text": "So every panel hangs with a tiny gap around it, so it can move without breaking.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.079,
+     "end": 27.245
+    },
+    {
+     "w": "every",
+     "start": 27.245,
+     "end": 27.658
+    },
+    {
+     "w": "panel",
+     "start": 27.658,
+     "end": 27.948
+    },
+    {
+     "w": "hangs",
+     "start": 27.948,
+     "end": 28.114
+    },
+    {
+     "w": "with",
+     "start": 28.114,
+     "end": 28.281
+    },
+    {
+     "w": "a",
+     "start": 28.281,
+     "end": 28.447
+    },
+    {
+     "w": "tiny",
+     "start": 28.447,
+     "end": 28.737
+    },
+    {
+     "w": "gap",
+     "start": 28.737,
+     "end": 28.903
+    },
+    {
+     "w": "around",
+     "start": 28.903,
+     "end": 29.193
+    },
+    {
+     "w": "it,",
+     "start": 29.193,
+     "end": 29.359
+    },
+    {
+     "w": "so",
+     "start": 29.519,
+     "end": 29.678
+    },
+    {
+     "w": "it",
+     "start": 29.678,
+     "end": 29.837
+    },
+    {
+     "w": "can",
+     "start": 29.837,
+     "end": 29.996
+    },
+    {
+     "w": "move",
+     "start": 29.996,
+     "end": 30.155
+    },
+    {
+     "w": "without",
+     "start": 30.155,
+     "end": 30.432
+    },
+    {
+     "w": "breaking.",
+     "start": 30.432,
+     "end": 30.709
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.125,
+   "end": 34.312,
+   "text": "But sandstorms here can sandblast glass until it turns dull.",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.255,
+     "end": 31.498
+    },
+    {
+     "w": "sandstorms",
+     "start": 31.498,
+     "end": 31.921
+    },
+    {
+     "w": "here",
+     "start": 31.921,
+     "end": 32.164
+    },
+    {
+     "w": "can",
+     "start": 32.164,
+     "end": 32.407
+    },
+    {
+     "w": "sandblast",
+     "start": 32.407,
+     "end": 32.83
+    },
+    {
+     "w": "glass",
+     "start": 32.83,
+     "end": 33.073
+    },
+    {
+     "w": "until",
+     "start": 33.073,
+     "end": 33.496
+    },
+    {
+     "w": "it",
+     "start": 33.496,
+     "end": 33.739
+    },
+    {
+     "w": "turns",
+     "start": 33.739,
+     "end": 33.982
+    },
+    {
+     "w": "dull.",
+     "start": 33.982,
+     "end": 34.225
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 34.677,
+   "end": 37.781,
+   "text": "So the panels get a tough coating, made for heat and sand.",
+   "words": [
+    {
+     "w": "So",
+     "start": 34.787,
+     "end": 35.023
+    },
+    {
+     "w": "the",
+     "start": 35.023,
+     "end": 35.259
+    },
+    {
+     "w": "panels",
+     "start": 35.259,
+     "end": 35.669
+    },
+    {
+     "w": "get",
+     "start": 35.669,
+     "end": 35.905
+    },
+    {
+     "w": "a",
+     "start": 35.905,
+     "end": 36.141
+    },
+    {
+     "w": "tough",
+     "start": 36.141,
+     "end": 36.377
+    },
+    {
+     "w": "coating,",
+     "start": 36.377,
+     "end": 36.787
+    },
+    {
+     "w": "made",
+     "start": 36.837,
+     "end": 37.007
+    },
+    {
+     "w": "for",
+     "start": 37.007,
+     "end": 37.177
+    },
+    {
+     "w": "heat",
+     "start": 37.177,
+     "end": 37.347
+    },
+    {
+     "w": "and",
+     "start": 37.347,
+     "end": 37.517
+    },
+    {
+     "w": "sand.",
+     "start": 37.517,
+     "end": 37.687
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 38.146,
+   "end": 43.292,
+   "text": "But before you fix your hair in it, follow, because next we're building a well with thirty-five hundred steps.",
+   "words": [
+    {
+     "w": "But",
+     "start": 38.296,
+     "end": 38.516
+    },
+    {
+     "w": "before",
+     "start": 38.516,
+     "end": 38.898
+    },
+    {
+     "w": "you",
+     "start": 38.898,
+     "end": 39.118
+    },
+    {
+     "w": "fix",
+     "start": 39.118,
+     "end": 39.337
+    },
+    {
+     "w": "your",
+     "start": 39.337,
+     "end": 39.557
+    },
+    {
+     "w": "hair",
+     "start": 39.557,
+     "end": 39.777
+    },
+    {
+     "w": "in",
+     "start": 39.777,
+     "end": 39.996
+    },
+    {
+     "w": "it,",
+     "start": 39.996,
+     "end": 40.216
+    },
+    {
+     "w": "follow,",
+     "start": 40.356,
+     "end": 40.678
+    },
+    {
+     "w": "because",
+     "start": 40.678,
+     "end": 41.001
+    },
+    {
+     "w": "next",
+     "start": 41.001,
+     "end": 41.186
+    },
+    {
+     "w": "we're",
+     "start": 41.186,
+     "end": 41.371
+    },
+    {
+     "w": "building",
+     "start": 41.371,
+     "end": 41.693
+    },
+    {
+     "w": "a",
+     "start": 41.693,
+     "end": 41.879
+    },
+    {
+     "w": "well",
+     "start": 41.879,
+     "end": 42.064
+    },
+    {
+     "w": "with",
+     "start": 42.064,
+     "end": 42.249
+    },
+    {
+     "w": "thirty-five",
+     "start": 42.249,
+     "end": 42.708
+    },
+    {
+     "w": "hundred",
+     "start": 42.708,
+     "end": 43.031
+    },
+    {
+     "w": "steps.",
+     "start": 43.031,
+     "end": 43.216
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 43.656,
+   "end": 48.396,
+   "text": "Now the story: almost ten thousand square meters of it, the most mirror on any building on Earth.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 43.766,
+     "end": 43.966
+    },
+    {
+     "w": "the",
+     "start": 43.966,
+     "end": 44.167
+    },
+    {
+     "w": "story:",
+     "start": 44.167,
+     "end": 44.516
+    },
+    {
+     "w": "almost",
+     "start": 44.656,
+     "end": 45.005
+    },
+    {
+     "w": "ten",
+     "start": 45.005,
+     "end": 45.206
+    },
+    {
+     "w": "thousand",
+     "start": 45.206,
+     "end": 45.555
+    },
+    {
+     "w": "square",
+     "start": 45.555,
+     "end": 45.756
+    },
+    {
+     "w": "meters",
+     "start": 45.756,
+     "end": 46.105
+    },
+    {
+     "w": "of",
+     "start": 46.105,
+     "end": 46.305
+    },
+    {
+     "w": "it,",
+     "start": 46.305,
+     "end": 46.506
+    },
+    {
+     "w": "the",
+     "start": 46.656,
+     "end": 46.817
+    },
+    {
+     "w": "most",
+     "start": 46.817,
+     "end": 46.979
+    },
+    {
+     "w": "mirror",
+     "start": 46.979,
+     "end": 47.26
+    },
+    {
+     "w": "on",
+     "start": 47.26,
+     "end": 47.421
+    },
+    {
+     "w": "any",
+     "start": 47.421,
+     "end": 47.702
+    },
+    {
+     "w": "building",
+     "start": 47.702,
+     "end": 47.983
+    },
+    {
+     "w": "on",
+     "start": 47.983,
+     "end": 48.145
+    },
+    {
+     "w": "Earth.",
+     "start": 48.145,
+     "end": 48.306
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 48.76,
+   "end": 53.677,
+   "text": "Five hundred seats, four walls of mirror, and one Guinness world record for the largest mirrored building.",
+   "words": [
+    {
+     "w": "Five",
+     "start": 48.89,
+     "end": 49.128
+    },
+    {
+     "w": "hundred",
+     "start": 49.128,
+     "end": 49.542
+    },
+    {
+     "w": "seats,",
+     "start": 49.542,
+     "end": 49.78
+    },
+    {
+     "w": "four",
+     "start": 49.93,
+     "end": 50.132
+    },
+    {
+     "w": "walls",
+     "start": 50.132,
+     "end": 50.335
+    },
+    {
+     "w": "of",
+     "start": 50.335,
+     "end": 50.537
+    },
+    {
+     "w": "mirror,",
+     "start": 50.537,
+     "end": 50.89
+    },
+    {
+     "w": "and",
+     "start": 51.05,
+     "end": 51.227
+    },
+    {
+     "w": "one",
+     "start": 51.227,
+     "end": 51.404
+    },
+    {
+     "w": "Guinness",
+     "start": 51.404,
+     "end": 51.713
+    },
+    {
+     "w": "world",
+     "start": 51.713,
+     "end": 51.89
+    },
+    {
+     "w": "record",
+     "start": 51.89,
+     "end": 52.199
+    },
+    {
+     "w": "for",
+     "start": 52.199,
+     "end": 52.376
+    },
+    {
+     "w": "the",
+     "start": 52.376,
+     "end": 52.553
+    },
+    {
+     "w": "largest",
+     "start": 52.553,
+     "end": 52.862
+    },
+    {
+     "w": "mirrored",
+     "start": 52.862,
+     "end": 53.301
+    },
+    {
+     "w": "building.",
+     "start": 53.301,
+     "end": 53.61
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 54.042,
+   "end": 56.792,
+   "text": "And congrats, you just built Maraya yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 54.162,
+     "end": 54.414
+    },
+    {
+     "w": "congrats,",
+     "start": 54.414,
+     "end": 54.852
+    },
+    {
+     "w": "you",
+     "start": 55.002,
+     "end": 55.258
+    },
+    {
+     "w": "just",
+     "start": 55.258,
+     "end": 55.514
+    },
+    {
+     "w": "built",
+     "start": 55.514,
+     "end": 55.77
+    },
+    {
+     "w": "Maraya",
+     "start": 55.77,
+     "end": 56.216
+    },
+    {
+     "w": "yourself.",
+     "start": 56.216,
+     "end": 56.662
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 57.156,
+   "end": 61.146,
+   "text": "A whole building can vanish, but you can't vanish when it's your turn to do the dishes.",
+   "words": [
+    {
+     "w": "A",
+     "start": 57.286,
+     "end": 57.494
+    },
+    {
+     "w": "whole",
+     "start": 57.494,
+     "end": 57.703
+    },
+    {
+     "w": "building",
+     "start": 57.703,
+     "end": 58.065
+    },
+    {
+     "w": "can",
+     "start": 58.065,
+     "end": 58.273
+    },
+    {
+     "w": "vanish,",
+     "start": 58.273,
+     "end": 58.636
+    },
+    {
+     "w": "but",
+     "start": 58.766,
+     "end": 58.937
+    },
+    {
+     "w": "you",
+     "start": 58.937,
+     "end": 59.109
+    },
+    {
+     "w": "can't",
+     "start": 59.109,
+     "end": 59.28
+    },
+    {
+     "w": "vanish",
+     "start": 59.28,
+     "end": 59.578
+    },
+    {
+     "w": "when",
+     "start": 59.578,
+     "end": 59.75
+    },
+    {
+     "w": "it's",
+     "start": 59.75,
+     "end": 59.921
+    },
+    {
+     "w": "your",
+     "start": 59.921,
+     "end": 60.092
+    },
+    {
+     "w": "turn",
+     "start": 60.092,
+     "end": 60.264
+    },
+    {
+     "w": "to",
+     "start": 60.264,
+     "end": 60.435
+    },
+    {
+     "w": "do",
+     "start": 60.435,
+     "end": 60.606
+    },
+    {
+     "w": "the",
+     "start": 60.606,
+     "end": 60.778
+    },
+    {
+     "w": "dishes.",
+     "start": 60.778,
+     "end": 61.076
+    }
+   ]
+  }
+ ]
+}
