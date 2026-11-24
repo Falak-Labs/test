@@ -1,0 +1,264 @@
+{
+ "episode": "kids90",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 572,
+ "recorded_this_run": [
+  "a04a",
+  "l04a",
+  "a04b",
+  "l04b",
+  "a05a",
+  "l05a",
+  "a05b",
+  "l05b",
+  "a06a",
+  "l06a",
+  "a06b",
+  "l06b",
+  "a07a",
+  "l07a",
+  "a07b",
+  "l07b",
+  "a12a",
+  "l12a",
+  "a12b",
+  "l12b",
+  "a03a",
+  "l03a",
+  "a03b",
+  "l03b"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "a04a",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Grand... moth... er.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.96
+  },
+  {
+   "id": "l04a",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Grand... moth... er.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.88
+  },
+  {
+   "id": "a04b",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "grand... muh... ther.",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 2.96
+  },
+  {
+   "id": "l04b",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "grand... muh... ther.",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 3.28
+  },
+  {
+   "id": "a05a",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Com... for... ta... ble.",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 3.2
+  },
+  {
+   "id": "l05a",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Com... for... ta... ble.",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 3.52
+  },
+  {
+   "id": "a05b",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "kum... fer... tuh... bul.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 3.2
+  },
+  {
+   "id": "l05b",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "kum... fer... tuh... bul.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 3.28
+  },
+  {
+   "id": "a06a",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Ce... le... bra... tion.",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "l06a",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Ce... le... bra... tion.",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 3.6
+  },
+  {
+   "id": "a06b",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "seh... luh... bray... shun.",
+   "characters": 27,
+   "model": "eleven_v4",
+   "seconds": 3.12
+  },
+  {
+   "id": "l06b",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "seh... luh... bray... shun.",
+   "characters": 27,
+   "model": "eleven_v4",
+   "seconds": 3.68
+  },
+  {
+   "id": "a07a",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Veg... ta... bles.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "l07a",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Veg... ta... bles.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.88
+  },
+  {
+   "id": "a07b",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "vej... tuh... bulz.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.72
+  },
+  {
+   "id": "l07b",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "vej... tuh... bulz.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.72
+  },
+  {
+   "id": "a12a",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "U... su... al... ly.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "l12a",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "U... su... al... ly.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 3.52
+  },
+  {
+   "id": "a12b",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "yoo... zhoo... uh... lee.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 3.2
+  },
+  {
+   "id": "l12b",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "yoo... zhoo... uh... lee.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 4.08
+  },
+  {
+   "id": "a03a",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Pro... nun... ci... a... tion.",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 4.24
+  },
+  {
+   "id": "l03a",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Pro... nun... ci... a... tion.",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 4.8
+  },
+  {
+   "id": "a03b",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "pruh... nun... see... ay... shun.",
+   "characters": 33,
+   "model": "eleven_v4",
+   "seconds": 4.4
+  },
+  {
+   "id": "l03b",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "pruh... nun... see... ay... shun.",
+   "characters": 33,
+   "model": "eleven_v4",
+   "seconds": 4.88
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "episode": "pa90",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 286,
+ "recorded_this_run": [
+  "s04a",
+  "s04b",
+  "s05a",
+  "s05b",
+  "s06a",
+  "s06b",
+  "s07a",
+  "s07b",
+  "s12a",
+  "s12b",
+  "s03a",
+  "s03b"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "s04a",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Grand... moth... er.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.64
+  },
+  {
+   "id": "s04b",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "grand... muh... ther.",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 2.72
+  },
+  {
+   "id": "s05a",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Com... for... ta... ble.",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 3.2
+  },
+  {
+   "id": "s05b",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "kum... fer... tuh... bul.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 3.52
+  },
+  {
+   "id": "s06a",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Ce... le... bra... tion.",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 3.28
+  },
+  {
+   "id": "s06b",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "seh... luh... bray... shun.",
+   "characters": 27,
+   "model": "eleven_v4",
+   "seconds": 3.52
+  },
+  {
+   "id": "s07a",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Veg... ta... bles.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.8
+  },
+  {
+   "id": "s07b",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "vej... tuh... bulz.",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.72
+  },
+  {
+   "id": "s12a",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "U... su... al... ly.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 3.12
+  },
+  {
+   "id": "s12b",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "yoo... zhoo... uh... lee.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "s03a",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Pro... nun... ci... a... tion.",
+   "characters": 30,
+   "model": "eleven_v4",
+   "seconds": 4.24
+  },
+  {
+   "id": "s03b",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "pruh... nun... see... ay... shun.",
+   "characters": 33,
+   "model": "eleven_v4",
+   "seconds": 4.48
+  }
+ ]
+}
