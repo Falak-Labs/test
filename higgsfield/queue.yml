@@ -867,7 +867,7 @@ jobs:
     # homes" had one by the end of 1975, "roughly 90 percent" by 1990 (IEEE Spectrum, Consumer Electronics Hall of
     # Fame). The poison-gas-sensor story (ideas.md Nov 24 08:10) is in neither page: check. No faces: ceilings, hands,
     # smoke, a dog; the towel man in B6 is the one person.
-    status: todo
+    status: "generating (started: Nov 24 14:06 PT by the main chat; shot 4 hand wording removed, radioactive word removed; confirmed by the one-at-a-time toast)"
     file: buildit-smokealarm-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a white smoke alarm on a dark ceiling at night, the camera dives through its vents into a tiny
