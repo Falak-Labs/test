@@ -537,7 +537,7 @@ jobs:
     # receiver "super heats molten salts to more than 500°C" ("a mixture of potassium and sodium nitrate") for power
     # "seven hours after dark". Dust: "A thin coating of dust on the surface of a solar panel or mirror can severely
     # block sunlight" (OpenWeather blog, Aug 7 2025). No faces: mirrors, pipes, tanks, trucks, town lights.
-    status: todo
+    status: "generating (started: Nov 24 07:13 PT)"
     file: buildit-noor-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a solar power tower 247 meters tall in the Moroccan desert at sunset, its top glowing white-hot
