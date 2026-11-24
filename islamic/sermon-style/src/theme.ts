@@ -44,6 +44,6 @@ export const VERTICAL: Layout = {
 
 // 16:9 long-form YouTube: same drawing, scaled, headline on top, subtitle near the bottom
 export const HORIZONTAL: Layout = {
-  w: 1920, h: 1080, headY: 128, headSize: 58, subY: 955, subSize: 38,
-  stageX: 960, stageY: 585, groundY: 677, scale: 1.15,
+  w: 1920, h: 1080, headY: 150, headSize: 70, subY: 950, subSize: 42,
+  stageX: 960, stageY: 610, groundY: 702, scale: 1.15,
 };

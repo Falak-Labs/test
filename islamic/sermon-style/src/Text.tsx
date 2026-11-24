@@ -34,9 +34,10 @@ export const Headline: React.FC<{segs: Seg[]; from: number; to: number; layout: 
   segs, from, to, layout, echo,
 }) => {
   const f = useCurrentFrame();
-  const o = life(f, from, to, 9, 8);
+  const instant = from <= 3; // the opening headline is already there on frame 0
+  const o = instant ? 1 - ramp(f, to - 8, to) : life(f, from, to, 9, 8);
   if (o <= 0) return null;
-  const inP = ramp(f, from, from + 12);
+  const inP = instant ? 1 : ramp(f, from, from + 12);
   const blur = (1 - inP) * 10 + ramp(f, to - 8, to) * 8;
   return (
     <div

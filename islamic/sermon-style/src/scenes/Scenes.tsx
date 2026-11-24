@@ -85,6 +85,47 @@ export const Book: React.FC<SceneProps> = ({f, a, b}) => {
   );
 };
 
+
+// 0. hook: three lights follow you; two turn back, one goes in with you (who they are comes later)
+export const ThreeLights: React.FC<SceneProps> = ({f, a, b, cue}) => {
+  // first scene of the video: on screen from frame 0 (the first frame is what people see before they decide)
+  const o = a <= 3 ? 1 - ramp(f, b - 12, b) : life(f, a, b, 6, 12);
+  const enter = a <= 3 ? 0.75 + 0.25 * ramp(f, a, a + 20) : ramp(f, a, a + 30);
+  const ret = cue.ret !== undefined ? ramp(f, cue.ret, cue.ret + 40) : 0;
+  const goin = cue.enter !== undefined ? ramp(f, cue.enter, cue.enter + 34) : 0;
+  const gold = cue.gold !== undefined ? ramp(f, cue.gold, cue.gold + 14) : 0;
+  const base = [500, 630, 760];
+  return (
+    <g opacity={o}>
+      <Ground y={G} x0={220} x1={880} />
+      <Pool x={300} y={G - 70} r={180} o={0.9 * goin} />
+      {gate(300)}
+      <path d={`M 880 ${G - 96} L 380 ${G - 96}`} stroke={C.lineDim} strokeWidth={2} strokeDasharray="4 12" opacity={0.5 * enter * (1 - goin)} />
+      {base.map((bx, i) => {
+        const isOne = i === 2;
+        let x = bx + (1 - enter) * (380 + i * 40);
+        let oi = Math.min(1, enter * 1.15);
+        if (!isOne) {
+          x += ret * (170 + i * 60);
+          oi *= 1 - 0.8 * ret;
+        } else {
+          x = lerp(x, 300, goin);
+          oi *= 1 - 0.55 * ramp(goin, 0.85, 1, (t) => t);
+        }
+        const y = G - 96 + Math.sin((f - a) / 13 + i * 1.3) * 4;
+        const golden = isOne ? gold : 0;
+        return (
+          <g key={i} opacity={oi}>
+            <Pool x={x} y={y} r={110} o={0.5} kind={golden > 0.5 ? 'gold' : 'cool'} />
+            <circle cx={x} cy={y} r={18} fill={golden > 0.5 ? C.gold : '#e8edf3'} filter={golden > 0.5 ? 'url(#glowGold)' : 'url(#glowSoft)'} />
+            <circle cx={x} cy={y} r={34} stroke={golden > 0.5 ? C.gold : C.lineDim} strokeWidth={2} fill="none" opacity={0.6} />
+          </g>
+        );
+      })}
+    </g>
+  );
+};
+
 // small icons drawn inside the three companions
 const IconFamily: React.FC<{x: number; y: number; c: string}> = ({x, y, c}) => (
   <g stroke={c} strokeWidth={2.4} fill="none" strokeLinecap="round">
@@ -344,5 +385,5 @@ export const Tree: React.FC<SceneProps> = ({f, a, b}) => {
 };
 
 export const SCENES: Record<string, React.FC<SceneProps>> = {
-  Sunset, Procession, Book, ThreeFollow, FamilyHome, WealthSplit, OneThing, Grave, Checklist, Tree,
+  ThreeLights, Sunset, Procession, Book, ThreeFollow, FamilyHome, WealthSplit, OneThing, Grave, Checklist, Tree,
 };

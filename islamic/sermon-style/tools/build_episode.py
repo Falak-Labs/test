@@ -43,7 +43,7 @@ bl = sp["beats"]
 for i, b in enumerate(bl):
     start = L[b["line"]]["start"] - a.head_lead
     nxt = L[bl[i + 1]["line"]]["start"] - a.head_lead if i + 1 < len(bl) else last_end + 0.45
-    item = {"from": fr(max(0, start)), "to": fr(nxt)}
+    item = {"from": 0 if i == 0 else fr(max(0, start)), "to": fr(nxt)}
     segs = []
     for s in b.get("head", []):
         seg = {"t": s[0], "s": s[1]}
@@ -65,7 +65,7 @@ for i, b in enumerate(bl):
 scenes = []
 sl = sp["scenes"]
 for i, s in enumerate(sl):
-    start = L[s["lines"][0]]["start"] - a.head_lead - 0.15
+    start = -1 if i == 0 else L[s["lines"][0]]["start"] - a.head_lead - 0.15
     if i + 1 < len(sl):
         end = L[sl[i + 1]["lines"][0]]["start"] - a.head_lead + 0.1
     else:
