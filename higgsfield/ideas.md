@@ -464,6 +464,17 @@ Free footage and pictures
   [Beautiful Public Data](https://beautifulpublicdata.com/vehicle-crash-test-films-from-the-1980s),
   [data.gov](https://catalog.data.gov/dataset/vehicle-crash-test-database)
 
+- Free stills for two builds this cloud run could not draw: Noor (89): NASA Earth Observatory's "Sunny Days in
+  Morocco's Ouarzazate Basin" (Mar 23 2023) pairs Landsat 8 views of Dec 14 2015 and Dec 17 2022, the whole plant
+  growing from Noor I's troughs to Noor III's "7,400 Sun-tracking mirrors" around "a tall power tower": a real
+  then-and-now for line 12. Credit "NASA Earth Observatory images by Allison Nussbaum, using Landsat data from the
+  U.S. Geological Survey"; the page states no rights, NASA and USGS imagery is normally free to reuse with that
+  credit (check NASA's usage guidelines; no NASA logo). Skip ESA's Sentinel-2 view of Feb 20 2026: "CC BY-SA 3.0
+  IGO", share-alike. Pen (90): John J. Loud's US patent 392,046, "PEN.", granted Oct 30 1888, with four drawings
+  and no copyright notice on Google Patents (the USPTO rule of Nov 23 applies).
+  [NASA EO](https://earthobservatory.nasa.gov/images/151119/sunny-days-in-moroccos-ouarzazate-basin),
+  [ESA](https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Ouarzazate_Morocco),
+  [Google Patents](https://patents.google.com/patent/US392046)
 New content
 - 92 seatbelt queued (seatbelt-A/B, facts in the queue comments): the old lap belt had "a buckle over the stomach"
   that "risked injury to body organs"; Bohlin's belt, "one strap that would go across the chest and one that would go
