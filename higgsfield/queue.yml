@@ -626,7 +626,11 @@ jobs:
     # International Pen Company"). One model "had racked up sales of 100 billion by 2006" (New Atlas, Nov 27 2021).
     # B4 teases build 91, the Gateway Arch (LINEUP). B6: scribbling circles to wake up a dead pen. No store or brand
     # names in the prompt; the 1945 crowd stays wide.
-    status: "generating (started: Nov 24 08:20 PT; shots 5,6 reworded)"
+    # Done by 08:22 PT (History 96a8b0a7, created 08:13:51 PT with the style line), fetched by the hourly runner.
+    # History holds no other pen-B job: its prompt is the shots below word for word, shots 5 and 6 included (the
+    # queue said "08:20, shots 5,6 reworded"): check the crowd shot and the man in shot 6 before use.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_161351_96a8b0a7-129d-401d-a4cf-110c3e5ed656.mp4
     file: buildit-pen-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro of a tiny hole in the side of a clear plastic pen barrel, air flowing in through it as the
