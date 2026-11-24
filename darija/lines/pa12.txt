@@ -10,7 +10,4 @@ T | tw | Usually.
 T | w6 | Good job! Usually!
 L | v1 | I usually drink coffee in the morning.
 T | v2 | عادةً بشرب قهوة الصبح.
-T | T_yoo | Yoo.
-T | T_zhoo | Zhoo.
-T | T_uh | Uh.
-T | T_lee | Lee.
+T | Tsl | Usu... ally.

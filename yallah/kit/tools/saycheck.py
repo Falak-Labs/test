@@ -30,7 +30,18 @@ def hear(y):
 
 
 letters = lambda t: re.sub(r"[^a-z]", "", t.lower())
-like = lambda a, b: difflib.SequenceMatcher(None, letters(a), letters(b)).ratio()
+def skel(t):
+    """The consonants as they sound, roughly: Whisper spells a part said right in odd ways ("Yuzu Ali" for u-su-al-ly)."""
+    t = re.sub(r"c(?=[eiy])", "s", letters(t))
+    for a, b in (("tion", "shn"), ("ph", "f"), ("ck", "k"), ("c", "k"), ("q", "k"), ("zh", "s"), ("z", "s"), ("j", "s"), ("x", "ks"), ("th", "t"), ("d", "t")):
+        t = t.replace(a, b)
+    t = re.sub(r"[aeiouyhw]", "", t)
+    return re.sub(r"(.)\1+", r"\1", t)
+
+
+ratio = lambda a, b: difflib.SequenceMatcher(None, a, b).ratio()
+# heard right: close in spelling, or the same consonants in the same order (Whisper spells slow parts oddly)
+like = lambda a, b: max(ratio(letters(a), letters(b)), 1.0 if ratio(skel(a), skel(b)) >= 0.95 else 0.0)
 
 
 def find(folders, tid):
@@ -49,6 +60,13 @@ for n in sys.argv[1:]:
         if sp == "T" and json.load(open(f"{LESSONS}/{n}.json")).get("own_lines") and not os.path.exists(folders[0]):
             continue
         parts = [find(folders, f"{sp}_{k}") for k in keys]
+        slow = find(folders, f"{sp}sl")
+        if slow and json.load(open(f"{LESSONS}/{n}.json")).get("slow_take"):      # one slow take: cut it the way make.py does
+            tmp = f"/tmp/saycheck_{n}_{sp}_{len(look)}_"
+            r = subprocess.run([sys.executable, "-I", os.path.join(os.path.dirname(os.path.abspath(__file__)), "split_slow.py"), slow, str(len(keys)), tmp], capture_output=True, text=True)
+            if r.returncode:
+                look.append(f"{n} {who}: the slow take does not cut into {len(keys)} parts ({r.stdout.strip()})"); continue
+            parts = [f"{tmp}{i}.wav" for i in range(len(keys))]
         if not all(parts):
             continue
         gap = np.zeros(int(SR * 0.08), np.float32)

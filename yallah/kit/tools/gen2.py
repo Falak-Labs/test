@@ -132,16 +132,25 @@ def build(ep, loc):
     add(id="o1", sp="T", shot="C", ar=O1, pre=0.5, fx="whoosh"); line("T", "o1", O1)
     add(id="o2", sp="L", shot="C", en="See you next time!", pre=0.4); line("L", "o2", "See you next time!")
     add(id="o3", sp="A", shot="C", en="Bye!", pre=0.25, post=1.1); line("A", "o3", "Bye!")
-    for sp in "TAL":                 # the parts of the word, one take each, and one spare take with all of them
-        for s, w in zip(SY, WORD["tts"]):
-            line(sp, f"{sp}_{s}", w + ".")
-        line(sp, f"s{sp}", " [long pause] ".join(w + "." for w in WORD["tts"]))
+    if EP.get("slow_take"):          # each voice says the word slowly in one take; make.py cuts it at the pauses into the parts
+        for sp in "TAL":             # (parts recorded one by one came out wrong: "Thur" was read as "Thursday", Nov 23)
+            line(sp, f"{sp}sl", slow_text(WORD))
+    else:
+        for sp in "TAL":                 # the parts of the word, one take each, and one spare take with all of them
+            for s, w in zip(SY, WORD["tts"]):
+                line(sp, f"{sp}_{s}", w + ".")
+            line(sp, f"s{sp}", " [long pause] ".join(w + "." for w in WORD["tts"]))
     for b in B:
         if b.get("dz"):
             assert len(b["dz"].split(" ")) == len(b["ar"].split(" ")), b["id"]
     ids = [l[1] for l in LINES]; assert len(ids) == len(set(ids)), ids
     kids = [{"name": n, "look": k} for n, k in LC["kids"]]
     return {"EP": EP, "X": X, "L": L, "WORD": WORD, "PH": PH, "B": B, "LINES": LINES, "kids": kids}
+
+
+def slow_text(word):
+    """The word said slowly, its parts apart: the lesson's own "slow" text, else the parts as spelled ("Grand... moth... er.")."""
+    return word.get("slow") or "... ".join(word["parts"]) + "."
 
 
 def groups(ep, loc):

@@ -10,7 +10,4 @@ T | tw | Usually.
 T | w6 | Good job! Usually!
 L | v1 | I usually drink mint tea after dinner.
 T | v2 | غالبا كنشرب أتاي من بعد العشا.
-T | T_yoo | Yoo.
-T | T_zhoo | Zhoo.
-T | T_uh | Uh.
-T | T_lee | Lee.
+T | Tsl | Usu... ally.

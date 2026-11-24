@@ -110,6 +110,24 @@ if not DRY:
     if missing or changed:
         finish(1)
 
+# 1b. a lesson whose voices said the hard word slowly in one take ("Grand... moth... er."): cut each take at its pauses
+#     into the parts the page plays (T_grand.mp3, A_grand.mp3 ...), next to the take, in this working copy only
+LJ = json.load(open(os.path.join(ROOT, "yallah", "lessons", LESSON + ".json"), encoding="utf-8"))
+if LJ.get("slow_take") and not DRY:
+    keys = []
+    for t in LJ["word"]["tts"]:
+        k = t.lower(); keys.append(k + str(len(keys)) if k in keys else k)
+    assert len(keys) == len(LJ["word"]["parts"]), "tts and parts must have the same number of parts"
+    for g, rows in GROUPS.items():
+        for sp, tid, text in rows:
+            if tid != sp + "sl":
+                continue
+            d = os.path.join(ROOT, "darija", "voice", WHERE[g])
+            tmp = os.path.join(OUT, "slow_" + sp + "_")
+            run("slow " + sp, [sys.executable, "-I", os.path.join(TOOLS, "split_slow.py"), os.path.join(d, tid + ".mp3"), str(len(keys)), tmp])
+            for i, k in enumerate(keys):
+                subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", f"{tmp}{i}.wav", "-c:a", "libmp3lame", "-b:a", "128k", os.path.join(d, f"{sp}_{k}.mp3")], check=True)
+
 # 2. the page folder, 3. the sound track and the timeline
 run("page", [sys.executable, os.path.join(TOOLS, "mkpage.py"), LOC, PAGE])
 run("sound", [sys.executable, os.path.join(TOOLS, "build2.py"), VOICE, PAGE, OUT, *(["--dry"] if DRY else []), *alts])

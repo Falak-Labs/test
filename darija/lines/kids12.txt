@@ -7,11 +7,5 @@ L | p04k | I come home at six.
 A | p05k | Good night!
 A | w5 | Usually!
 L | Lw | Usually!
-A | A_yoo | Yoo.
-A | A_zhoo | Zhoo.
-A | A_uh | Uh.
-A | A_lee | Lee.
-L | L_yoo | Yoo.
-L | L_zhoo | Zhoo.
-L | L_uh | Uh.
-L | L_lee | Lee.
+A | Asl | Usu... ally.
+L | Lsl | Usu... ally.
