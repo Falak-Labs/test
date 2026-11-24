@@ -1,0 +1,27 @@
+{
+ "slug": "kettle-b86",
+ "kit": "kettle",
+ "style": "seedance",
+ "en": {
+  "duration": 72.8,
+  "lufs": -14.9,
+  "peak": -1.1,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 22.2,
+  "cover": true,
+  "ok": true
+ },
+ "ar": {
+  "duration": 70.6,
+  "lufs": -14.9,
+  "peak": -1.4,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 22.0,
+  "cover": true,
+  "ok": true
+ }
+}
