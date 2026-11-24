@@ -1848,3 +1848,4 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
 - Build 86 Electric kettle made (VOICE_SPEED=1.06, both passed): media/kettle-b86-en.mp4 73 s, -ar.mp4 71 s. Must be posted. Tease = hot air balloon (build 87): balloon-A generating since 05:50 PT, balloon-B todo.
 - Build 87 Hot air balloon made (VOICE_SPEED=1.05, both passed): media/balloon-b87-en.mp4 72 s, -ar.mp4 69 s. Must be posted. Tease = Pont du Gard (build 88): pontdugard-A generating since 06:37 PT, B todo; noor-A/B (build 89) todo.
 - Build 88 Pont du Gard made (VOICE_SPEED=1.11, both passed): media/pontdugard-b88-en.mp4 74 s, -ar.mp4 70 s. Must be posted. Tease = Noor Ouarzazate (build 89): noor-A generating since 07:13 PT, noor-B todo.
+- Build 89 Noor Ouarzazate made (VOICE_SPEED=1.09, both passed): media/noor-b89-en.mp4 74 s, -ar.mp4 73 s. Must be posted. Tease = ballpoint pen (build 90): pen-A generating since 07:52 PT, pen-B todo; arch-A/B (build 91) todo.
