@@ -597,7 +597,11 @@ jobs:
     # no air flows in, sooner or later, the ink won't come out" (nowiknow.com, "The Hole Truth About Ballpoint Pens").
     # The first US pens: "The thin ink made the pens prone to leakage" (Wikipedia "Milton Reynolds"). No faces: hands,
     # paper, presses, tubes.
-    status: "generating (started: Nov 24 07:52 PT; shots 2,4,6 reworded)"
+    # Done by 08:01 PT (History 73d543be, started 07:52 with the style line), fetched by the hourly runner. As run:
+    # shot 2 has no writer's hand and no "hands and machines only", shot 4 ends "the pen drips" (no hand), shot 6
+    # "the pen is shaken" (no hand).
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_155204_73d543be-e36f-42a7-9e6e-d19a480afab1.mp4
     file: buildit-pen-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): extreme macro of a ballpoint pen writing on white paper, the camera dives into a cutaway of its

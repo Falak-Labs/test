@@ -484,3 +484,15 @@ New content
   [Wikipedia](https://en.wikipedia.org/wiki/Huajiang_Grand_Canyon_Bridge),
   [China Daily](https://www.chinadaily.com.cn/a/202509/28/WS68d8a0daa3108622abca3551.html),
   [Tribune India, Sep 30 2025](https://www.tribuneindia.com/news/trending/no-tall-claim-worlds-highest-bridge-in-china-cuts-travel-time-from-2-hours-to-2-minutes)
+- Huajiang (93) construction, for its pair later: "the world's largest cable crane system" (China Daily, Nov 7 2024),
+  a "smart cable crane system" positioned by Beidou (Jan 18 2025), set the deck as "93 segments totaling
+  approximately 22,000 tons" ("more than 21,000 tons" on Nov 7: check), up to "215 tons" each; the first went up on
+  Nov 4 2024 and the last on Jan 17 2025, which "marks the closure of the main structure", with "100 percent
+  accuracy in aligning bolts with their designated holes". Canyon winds "sometimes exceeded force 12 on the Beaufort
+  scale", so the welders used "windproof welding technology" (China Daily, May 1 2025). Not found yet: whether the
+  sections rose from below or ran along the cables, the anchorages, the load test. A ready A shot: a 215-tonne steel
+  truss section hanging from the cable crane over the 625 m drop.
+  [China Daily, Nov 7 2024](https://www.chinadaily.com.cn/a/202411/07/WS672c7e27a310f1265a1cc174.html),
+  [China Daily, Jan 18 2025](https://www.chinadaily.com.cn/a/202501/18/WS678aec52a310f1265a1dba32.html),
+  [China Daily, May 1 2025](https://www.chinadaily.com.cn/a/202505/01/WS6812cdd0a310a04af22bd2cc_4.html),
+  [People's Daily, Nov 5 2024](https://en.people.cn/n3/2024/1105/c90000-20237423.html)
