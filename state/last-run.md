@@ -1,4 +1,4 @@
-# Last posting run 2026-11-24T20:36:47+00:00
+# Last posting run 2026-11-24T20:56:42+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -65,7 +65,6 @@
 - ep80-fountain ar.youtube: on hold in posts/ep80-fountain.yml
 - ep81-zipper en.youtube: on hold in posts/ep81-zipper.yml
 - ep81-zipper ar.youtube: on hold in posts/ep81-zipper.yml
-- ep81-zipper ar.tiktok: scheduled (Wed 25 Nov 15:30 UTC) id 6b05f562f86f2594b8816e8a
 - ep82-hzmb en.youtube: on hold in posts/ep82-hzmb.yml
 - ep82-hzmb ar.youtube: on hold in posts/ep82-hzmb.yml
 - ep82-hzmb ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
@@ -73,8 +72,6 @@
 - ep83-thermos ar.youtube: on hold in posts/ep83-thermos.yml
 - ep83-thermos ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep84-hooverdam en.youtube: on hold in posts/ep84-hooverdam.yml
-- ep84-hooverdam en.instagram: scheduled (Wed 25 Nov 20:00 UTC) id 6b05f564bbd94e83696b5bd5
-- ep84-hooverdam en.tiktok: scheduled (Wed 25 Nov 20:00 UTC) id 6b05f564e57cd4af41f16d39
 - ep84-hooverdam ar.youtube: on hold in posts/ep84-hooverdam.yml
 - ep84-hooverdam ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep85-dubaiframe en.youtube: on hold in posts/ep85-dubaiframe.yml
@@ -111,5 +108,17 @@
 - ep90-pen ar.youtube: on hold in posts/ep90-pen.yml
 - ep90-pen ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep90-pen ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=896, "24h"; r=354; t=40788, "30d"; r=696; t=1331767; ratelimit-policy="15m"; q=15
-- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=147; t=899, "24h"; r=367; t=40790, "30d"; r=610; t=1337899; ratelimit-policy="15m"; q=15
+- ep76-cooker en.youtube: on hold in posts/ep76-cooker.yml
+- ep76-cooker en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep76-cooker en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep76-cooker ar.youtube: on hold in posts/ep76-cooker.yml
+- ep76-cooker ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep76-cooker ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep77-goldengate en.youtube: on hold in posts/ep77-goldengate.yml
+- ep77-goldengate en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep77-goldengate en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep77-goldengate ar.youtube: on hold in posts/ep77-goldengate.yml
+- ep77-goldengate ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep77-goldengate ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=341; t=39597, "30d"; r=683; t=1330577; ratelimit-policy="15m"; q=15
+- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=354; t=39597, "30d"; r=597; t=1336706; ratelimit-policy="15m"; q=15
