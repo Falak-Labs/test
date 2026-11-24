@@ -1,0 +1,124 @@
+{
+ "episode": "kids15",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 156,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "v1",
+  "Lw",
+  "Asl",
+  "Lsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I'm learning English.",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "I speak Arabic.",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "A little.",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Slowly, please.",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I want to learn more!",
+   "characters": 21,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Language!",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Arabic is a beautiful language!",
+   "characters": 31,
+   "model": "eleven_v4",
+   "seconds": 2.8
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Language!",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "Asl",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Lan... guage.",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 2.48
+  },
+  {
+   "id": "Lsl",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Lan... guage.",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 2.48
+  }
+ ]
+}
