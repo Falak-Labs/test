@@ -184,8 +184,20 @@ def main():
     lang = sys.argv[4] if len(sys.argv) > 4 else "en"
     spec = json.load(open(spec_p))
     vj = json.load(open(vbase + ".json"))
-    lines = vj["lines"]
     os.makedirs(outd, exist_ok=True)
+    wavpath = vbase + ".wav"
+    spd = float(os.environ.get("VOICE_SPEED", "1") or 1)
+    if spd != 1.0:  # speed the narration up (pitch kept): scale every time and the audio
+        def _sc(o):
+            if isinstance(o, dict):
+                return {k: (round(x / spd, 3) if k in ("start", "end") else _sc(x)) for k, x in o.items()}
+            if isinstance(o, list):
+                return [_sc(x) for x in o]
+            return o
+        vj = _sc(vj)
+        wavpath = os.path.join(outd, "voice_fast.wav")
+        run(["ffmpeg", "-y", "-v", "error", "-i", vbase + ".wav", "-filter:a", f"atempo={spd}", wavpath])
+    lines = vj["lines"]
     total = lines[-1]["end"] + TAIL
     shots = {s["line"]: s for s in spec["shots"]}
     seg_files = []
@@ -207,7 +219,7 @@ def main():
 
     # audio: voice + bed + cut sounds
     sr = 48000
-    v, vsr = sf.read(vbase + ".wav", dtype="float32")
+    v, vsr = sf.read(wavpath, dtype="float32")
     if v.ndim > 1:
         v = v.mean(axis=1)
     if vsr != sr:
