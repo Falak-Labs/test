@@ -1835,3 +1835,4 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   Owner saw both and said "everything looks great". Do NOT remake it: post it in the next free slots (standing approval:
   check, post, he removes what he dislikes). Builds 76 (cooker) and 77 (Golden Gate) are also ready as footage.
   Build 79 (Kuwait Towers): clip A fetched, B generating (kuwait-A/B in higgsfield/queue.yml).
+- Build 79 Kuwait Towers made (VOICE_SPEED=1.08 on seedance_publish): media/kuwaittowers-b79-en.mp4 74 s, -ar.mp4 76 s, covers in review/kuwaittowers-b79/. Must be posted.
