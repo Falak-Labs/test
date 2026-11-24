@@ -1,0 +1,119 @@
+{
+"name": "goldengate_sd",
+"title": {
+"en": "GOLDEN GATE BRIDGE",
+"ar": "جسر البوابة الذهبية"
+},
+"kicker": {
+"en": "FOG · TIDES · 27,572 WIRES",
+"ar": "ضباب · تيارات · شبكة أمان"
+},
+"build_no": 77,
+"cover_name": {
+"en": "THE GOLDEN GATE BRIDGE",
+"ar": "جسر البوابة الذهبية"
+},
+"numbers": [
+[
+"twentyseven thousand",
+"27,000"
+],
+[
+"nineteen thirtyseven",
+"1937"
+],
+[
+"two hundred thousand",
+"200,000"
+],
+[
+"nineteen men",
+"19 MEN"
+]
+],
+"shots": [
+{
+"line": 1,
+"src": "out/aishots/buildit-goldengate-sdA.mp4",
+"at": 0.05,
+"len": 4.9
+},
+{
+"line": 2,
+"src": "out/aishots/buildit-goldengate-sdA.mp4",
+"at": 5.08,
+"len": 4.85
+},
+{
+"line": 3,
+"src": "out/aishots/buildit-goldengate-sdA.mp4",
+"at": 10.08,
+"len": 5.3
+},
+{
+"line": 4,
+"src": "out/aishots/buildit-goldengate-sdA.mp4",
+"at": 15.53,
+"len": 4.7
+},
+{
+"line": 5,
+"src": "out/aishots/buildit-goldengate-sdA.mp4",
+"at": 20.37,
+"len": 4.7
+},
+{
+"line": 6,
+"src": "out/aishots/buildit-goldengate-sdA.mp4",
+"at": 25.2,
+"len": 4.8
+},
+{
+"line": 7,
+"src": "out/aishots/buildit-goldengate-sdB.mp4",
+"at": 0.05,
+"len": 5.0
+},
+{
+"line": 8,
+"src": "out/aishots/buildit-goldengate-sdB.mp4",
+"at": 5.2,
+"len": 4.8
+},
+{
+"line": 9,
+"src": "out/aishots/buildit-goldengate-sdB.mp4",
+"at": 10.16,
+"len": 5.25
+},
+{
+"line": 10,
+"src": "out/aishots/buildit-pen-sdB.mp4",
+"at": 15.04,
+"len": 5.15
+},
+{
+"line": 11,
+"src": "out/aishots/buildit-goldengate-sdB.mp4",
+"at": 19.79,
+"len": 5.2
+},
+{
+"line": 12,
+"src": "out/aishots/buildit-goldengate-still.png",
+"at": 0
+},
+{
+"line": 13,
+"src": "out/aishots/buildit-goldengate-sdA.mp4",
+"at": 0.3,
+"len": 4.6
+},
+{
+"line": 14,
+"src": "out/aishots/buildit-goldengate-sdB.mp4",
+"at": 25.12,
+"len": 4.85
+}
+]
+}
