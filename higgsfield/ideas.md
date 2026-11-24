@@ -113,3 +113,30 @@ Free footage and pictures
   (17 U.S.C. 105), but check each photo's credit first. Good for a real line 11/12 proof shot.
   [usbr.gov gallery](https://www.usbr.gov/lc/hooverdam/gallery/historicviews.html),
   [collection](https://www.usbr.gov/lc/hooverdam/collection.html)
+
+## 2026-11-24 00:58 PT (hourly runner, cloud run)
+Trends
+- Show the finished thing first: Lightreel's list for Nov 14-21 names "finished-result or character-first openings"
+  (the visual destination in the first seconds, no build-up) and the "tactile demonstration" (one close-up, no pitch,
+  "the texture is the hook"). A1 already is the strangest true picture; for everyday builds (81 zipper, 83 Thermos)
+  make A1 a macro of the mechanism moving, never a wide room. [Lightreel, upd. Nov 21 2026](https://www.lightreel.ai/blogs/whats-trending-on-tiktok)
+- Say the full name out loud: TikTok "can index spoken words", and 49% of consumers use TikTok as a search engine
+  (Adobe 2026, quoted by Hootsuite). Keep the build's full searchable name in spoken line 1 or 2 ("the Hong
+  Kong-Zhuhai-Macau Bridge", not "this bridge") and first in the caption. [Hootsuite, upd. Oct 14 2026](https://blog.hootsuite.com/tiktok-trends/)
+- Nothing new to chase this week: Virlo's Nov 23 list (76 trends) has only comedy, couples and beauty rising, its one
+  physical-demo trend (water beading on a jacket) is archived, and SocialPilot has not changed since Nov 17. No sound
+  on these pages is marked business-safe. [Virlo, upd. Nov 23 2026](https://virlo.ai/trends/2026-11),
+  [SocialPilot](https://www.socialpilot.co/blog/tiktok-trends)
+
+Free footage and pictures
+- Smithsonian Open Access: "more than 5.1 million 2D and 3D digital items" to "download, share, and reuse ... without
+  asking". Use only items marked CC0 (public domain: commercial use, no credit needed); there is an API and a GitHub
+  repository. Technology items include the 1903 Wright Flyer, the Apollo 11 command module, a Bell X-1 3D model and
+  patent models: search it for invention builds (zipper, Thermos) before making an AI still.
+  [Smithsonian](https://www.si.edu/openaccess),
+  [Creative Commons, Feb 27 2020](https://creativecommons.org/2020/02/27/smithsonian-releases-2-8-million-images-data-into-the-public-domain-using-cc0/)
+- After Nov 28, one more daily free video source to check: Kling AI's free tier, "66 free credits daily, resetting
+  every 24 hours", about 10 credits per standard 5 s clip (about 6 clips a day), "no watermark, up to 720p", per a
+  competitor's article; commercial terms for free output not stated: read Kling's own terms first. Same article:
+  Runway's free tier is a one-time 125 credits with a watermark and no commercial licence, and Jimeng's free Seedance
+  2.0 restricts commercial use outside China: skip both. [dev.to/Genra, upd. Nov 21 2026](https://dev.to/genra_ai/free-ai-video-generator-whats-really-free-in-2026-4a20)

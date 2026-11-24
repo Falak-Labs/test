@@ -99,6 +99,7 @@ jobs:
     build: 79
     kit: kuwaittowers
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_082713_82eda178-205b-45ba-a281-3d4b83b5c8f7.mp4
     file: buildit-kuwait-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): the Kuwait Towers at sunset on the Gulf shore, giant spheres covered in shining blue, green and
@@ -110,23 +111,25 @@ jobs:
   - id: kuwait-B
     build: 79
     kit: kuwaittowers
-    status: "generating (started: Nov 24 00:45 PT)"
+    # Nov 24 00:55 PT: the 00:45 job (History 6edb2c27) came back NSFW, no clip. Shot 4 reworded without "shooting".
+    status: todo
     file: buildit-kuwait-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): the top sphere, a round glass observation deck slowly rotating, visitors watching the sea. Shot 2
       (5-10 s): the deck stops rotating, a mechanic looks at big gears. Shot 3 (10-15 s): close-up of huge gears and
-      wheels turning smoothly under the rotating deck. Shot 4 (15-20 s): a giant fountain in the Red Sea at Jeddah
-      shooting water hundreds of meters high at night, lights. Shot 5 (20-25 s): the restored towers at night lit up,
-      families on the Corniche taking photos. Shot 6 (25-30 s): funny slow motion, a man in a revolving restaurant puts
-      his tea on the window ledge and the room turns away from it, he chases it.
+      wheels turning smoothly under the rotating deck. Shot 4 (15-20 s): a giant sea fountain on the Jeddah coast at
+      night, a tall white column of water rising hundreds of meters into the sky, lit by spotlights. Shot 5 (20-25 s):
+      the restored towers at night lit up, families on the Corniche taking photos. Shot 6 (25-30 s): funny slow motion,
+      a man in a revolving restaurant puts his tea on the window ledge and the room turns away from it, he chases it.
 
   - id: fountain-A
     build: 80
     kit: jeddahfountain
+    # Nov 24 00:55 PT: shot 1 reworded before its turn (no "shooting", see kuwait-B).
     status: todo
     file: buildit-fountain-sdA.mp4
     shots: >-
-      Shot 1 (0-5 s): King Fahd's Fountain in Jeddah at night, a white jet of sea water shooting up higher than the
+      Shot 1 (0-5 s): Jeddah's giant sea fountain at night, a tall white column of sea water rising higher than the
       skyscrapers, lit by spotlights. Shot 2 (5-10 s): the Red Sea coast of Jeddah, flat sea, tourists see nothing
       special. Shot 3 (10-15 s): huge pumps in a machine room under the sea pulling in sea water, pipes. Shot 4
       (15-20 s): the jet sputters and falls, wind blows the spray over the road, cars wet. Shot 5 (20-25 s): a narrow
@@ -168,3 +171,35 @@ jobs:
       island, aerial. Shot 5 (20-25 s): a busy factory making millions of zippers, machines and spools, then close
       on a 1913 workbench with brass zipper prototypes and drawings under a lamp, nobody in frame. Shot 6 (25-30 s):
       funny slow motion, a man at a wedding notices his trouser zipper is open, his face.
+
+  - id: hzmb-A
+    build: 82
+    kit: hzmb
+    status: todo
+    file: buildit-hzmb-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a six-lane highway bridge far out on the open sea runs onto a small man-made island and dives
+      under the water into a tunnel mouth, cars disappearing, aerial at sunrise. Shot 2 (5-10 s): a wide hazy sea
+      estuary crowded with giant oil tankers and container ships, a passenger jet flying low overhead toward an airport
+      on an island. Shot 3 (10-15 s): a giant concrete tunnel section as long as a ship, sealed at both ends, towed out
+      to sea by a ring of tugboats. Shot 4 (15-20 s): rare pink-white dolphins swim in the muddy sea while noisy dredger
+      ships dump sand around them, the water clouds over. Shot 5 (20-25 s): a crane ship vibrates a giant steel
+      cylinder, as tall as a 15-storey building, into the seabed, a ring of identical cylinders forming the wall of a
+      new island. Shot 6 (25-30 s): on soft grey mud on the seabed, a huge concrete tunnel section sinks unevenly, a
+      crack opens at its joint and water sprays in.
+  - id: hzmb-B
+    build: 82
+    kit: hzmb
+    status: todo
+    file: buildit-hzmb-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): deep underwater, a machine smooths a perfectly flat bed of gravel and rock in a trench on the
+      seabed, then a giant tunnel section is lowered gently onto it. Shot 2 (5-10 s): deep in murky water, the last gap
+      between two giant tunnel sections, divers' lights shining into it, the final piece hanging above on steel cables.
+      Shot 3 (10-15 s): close-up underwater, the end of the final piece slides outward like a drawer and presses tight
+      against the next section, sealing the gap, the bubbles stop. Shot 4 (15-20 s): a steel vacuum flask pouring
+      steaming Arabic coffee into a small cup by a campfire on a cold desert night. Shot 5 (20-25 s): a powerful
+      typhoon, huge waves crash against the piers of a long sea bridge with tall cable-stayed towers, the bridge stands
+      still while people watch from a window. Shot 6 (25-30 s): funny slow motion, a man on a tour bus takes a selfie
+      with the sea behind him just as the bus dives into the tunnel, the window goes dark, his surprised face lit
+      orange by the tunnel lights.
