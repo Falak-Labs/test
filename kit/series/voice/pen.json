@@ -1,0 +1,1228 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 80.032,
+ "words": 221,
+ "words_per_sec": 2.76,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.123,
+   "text": "Y'all, the pen in your pocket writes with a tiny ball. Yes, a ball.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.139,
+     "end": 0.746
+    },
+    {
+     "w": "the",
+     "start": 0.925,
+     "end": 1.068
+    },
+    {
+     "w": "pen",
+     "start": 1.139,
+     "end": 1.354
+    },
+    {
+     "w": "in",
+     "start": 1.389,
+     "end": 1.425
+    },
+    {
+     "w": "your",
+     "start": 1.496,
+     "end": 1.639
+    },
+    {
+     "w": "pocket",
+     "start": 1.675,
+     "end": 1.996
+    },
+    {
+     "w": "writes",
+     "start": 2.068,
+     "end": 2.282
+    },
+    {
+     "w": "with",
+     "start": 2.354,
+     "end": 2.425
+    },
+    {
+     "w": "a",
+     "start": 2.496,
+     "end": 2.568
+    },
+    {
+     "w": "tiny",
+     "start": 2.639,
+     "end": 2.996
+    },
+    {
+     "w": "ball.",
+     "start": 3.139,
+     "end": 3.643
+    },
+    {
+     "w": "Yes,",
+     "start": 3.782,
+     "end": 4.282
+    },
+    {
+     "w": "a",
+     "start": 4.354,
+     "end": 4.425
+    },
+    {
+     "w": "ball.",
+     "start": 4.568,
+     "end": 5.282
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.436,
+   "end": 11.993,
+   "text": "First problem. Fountain pens use thin ink, and thin ink smears the moment your hand touches it. Messy.",
+   "words": [
+    {
+     "w": "First",
+     "start": 5.482,
+     "end": 5.696
+    },
+    {
+     "w": "problem.",
+     "start": 5.768,
+     "end": 6.337
+    },
+    {
+     "w": "Fountain",
+     "start": 6.411,
+     "end": 6.696
+    },
+    {
+     "w": "pens",
+     "start": 6.768,
+     "end": 7.054
+    },
+    {
+     "w": "use",
+     "start": 7.125,
+     "end": 7.339
+    },
+    {
+     "w": "thin",
+     "start": 7.482,
+     "end": 7.696
+    },
+    {
+     "w": "ink,",
+     "start": 7.839,
+     "end": 8.196
+    },
+    {
+     "w": "and",
+     "start": 8.339,
+     "end": 8.482
+    },
+    {
+     "w": "thin",
+     "start": 8.554,
+     "end": 8.696
+    },
+    {
+     "w": "ink",
+     "start": 8.839,
+     "end": 8.982
+    },
+    {
+     "w": "smears",
+     "start": 9.125,
+     "end": 9.696
+    },
+    {
+     "w": "the",
+     "start": 9.804,
+     "end": 9.911
+    },
+    {
+     "w": "moment",
+     "start": 9.982,
+     "end": 10.268
+    },
+    {
+     "w": "your",
+     "start": 10.339,
+     "end": 10.411
+    },
+    {
+     "w": "hand",
+     "start": 10.518,
+     "end": 10.625
+    },
+    {
+     "w": "touches",
+     "start": 10.696,
+     "end": 10.982
+    },
+    {
+     "w": "it.",
+     "start": 11.054,
+     "end": 11.295
+    },
+    {
+     "w": "Messy.",
+     "start": 11.509,
+     "end": 12.152
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.305,
+   "end": 19.61,
+   "text": "So you set a tiny steel ball into the tip, that rolls along the paper and lays the ink down. A ball on a mission.",
+   "words": [
+    {
+     "w": "So",
+     "start": 12.448,
+     "end": 12.591
+    },
+    {
+     "w": "you",
+     "start": 12.734,
+     "end": 12.877
+    },
+    {
+     "w": "set",
+     "start": 12.984,
+     "end": 13.091
+    },
+    {
+     "w": "a",
+     "start": 13.162,
+     "end": 13.234
+    },
+    {
+     "w": "tiny",
+     "start": 13.412,
+     "end": 13.591
+    },
+    {
+     "w": "steel",
+     "start": 13.734,
+     "end": 13.948
+    },
+    {
+     "w": "ball",
+     "start": 14.02,
+     "end": 14.234
+    },
+    {
+     "w": "into",
+     "start": 14.341,
+     "end": 14.448
+    },
+    {
+     "w": "the",
+     "start": 14.52,
+     "end": 14.662
+    },
+    {
+     "w": "tip,",
+     "start": 14.805,
+     "end": 15.234
+    },
+    {
+     "w": "that",
+     "start": 15.305,
+     "end": 15.377
+    },
+    {
+     "w": "rolls",
+     "start": 15.448,
+     "end": 15.662
+    },
+    {
+     "w": "along",
+     "start": 15.734,
+     "end": 15.948
+    },
+    {
+     "w": "the",
+     "start": 16.02,
+     "end": 16.091
+    },
+    {
+     "w": "paper",
+     "start": 16.27,
+     "end": 16.448
+    },
+    {
+     "w": "and",
+     "start": 16.555,
+     "end": 16.662
+    },
+    {
+     "w": "lays",
+     "start": 16.805,
+     "end": 16.948
+    },
+    {
+     "w": "the",
+     "start": 17.02,
+     "end": 17.091
+    },
+    {
+     "w": "ink",
+     "start": 17.162,
+     "end": 17.305
+    },
+    {
+     "w": "down.",
+     "start": 17.484,
+     "end": 17.77
+    },
+    {
+     "w": "A",
+     "start": 18.356,
+     "end": 18.404
+    },
+    {
+     "w": "ball",
+     "start": 18.546,
+     "end": 18.761
+    },
+    {
+     "w": "on",
+     "start": 18.832,
+     "end": 18.904
+    },
+    {
+     "w": "a",
+     "start": 18.975,
+     "end": 19.046
+    },
+    {
+     "w": "mission.",
+     "start": 19.118,
+     "end": 19.761
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 19.922,
+   "end": 25.084,
+   "text": "But a pen in a pocket leaks, and one blue stain ruins a white shirt. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 20.037,
+     "end": 20.18
+    },
+    {
+     "w": "a",
+     "start": 20.216,
+     "end": 20.252
+    },
+    {
+     "w": "pen",
+     "start": 20.323,
+     "end": 20.537
+    },
+    {
+     "w": "in",
+     "start": 20.573,
+     "end": 20.609
+    },
+    {
+     "w": "a",
+     "start": 20.68,
+     "end": 20.752
+    },
+    {
+     "w": "pocket",
+     "start": 20.787,
+     "end": 21.037
+    },
+    {
+     "w": "leaks,",
+     "start": 21.109,
+     "end": 21.609
+    },
+    {
+     "w": "and",
+     "start": 21.68,
+     "end": 21.895
+    },
+    {
+     "w": "one",
+     "start": 22.037,
+     "end": 22.18
+    },
+    {
+     "w": "blue",
+     "start": 22.252,
+     "end": 22.395
+    },
+    {
+     "w": "stain",
+     "start": 22.466,
+     "end": 22.823
+    },
+    {
+     "w": "ruins",
+     "start": 22.895,
+     "end": 23.18
+    },
+    {
+     "w": "a",
+     "start": 23.252,
+     "end": 23.323
+    },
+    {
+     "w": "white",
+     "start": 23.395,
+     "end": 23.609
+    },
+    {
+     "w": "shirt.",
+     "start": 23.68,
+     "end": 24.18
+    },
+    {
+     "w": "Oh",
+     "start": 24.323,
+     "end": 24.537
+    },
+    {
+     "w": "boy.",
+     "start": 24.68,
+     "end": 25.252
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 25.396,
+   "end": 31.193,
+   "text": "So you use a thick ink, like newspaper ink, that dries almost the moment it touches the page.",
+   "words": [
+    {
+     "w": "So",
+     "start": 25.588,
+     "end": 25.73
+    },
+    {
+     "w": "you",
+     "start": 25.873,
+     "end": 25.945
+    },
+    {
+     "w": "use",
+     "start": 26.016,
+     "end": 26.159
+    },
+    {
+     "w": "a",
+     "start": 26.23,
+     "end": 26.373
+    },
+    {
+     "w": "thick",
+     "start": 26.516,
+     "end": 26.73
+    },
+    {
+     "w": "ink,",
+     "start": 26.802,
+     "end": 27.123
+    },
+    {
+     "w": "like",
+     "start": 27.23,
+     "end": 27.445
+    },
+    {
+     "w": "newspaper",
+     "start": 27.516,
+     "end": 28.016
+    },
+    {
+     "w": "ink,",
+     "start": 28.159,
+     "end": 28.445
+    },
+    {
+     "w": "that",
+     "start": 28.588,
+     "end": 28.73
+    },
+    {
+     "w": "dries",
+     "start": 28.766,
+     "end": 29.088
+    },
+    {
+     "w": "almost",
+     "start": 29.159,
+     "end": 29.445
+    },
+    {
+     "w": "the",
+     "start": 29.552,
+     "end": 29.659
+    },
+    {
+     "w": "moment",
+     "start": 29.73,
+     "end": 30.016
+    },
+    {
+     "w": "it",
+     "start": 30.088,
+     "end": 30.159
+    },
+    {
+     "w": "touches",
+     "start": 30.23,
+     "end": 30.516
+    },
+    {
+     "w": "the",
+     "start": 30.552,
+     "end": 30.588
+    },
+    {
+     "w": "page.",
+     "start": 30.659,
+     "end": 31.302
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 31.505,
+   "end": 36.99,
+   "text": "But as the ink runs out, the tube makes a vacuum, and the pen stops writing.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.175,
+     "end": 32.389
+    },
+    {
+     "w": "as",
+     "start": 32.604,
+     "end": 32.746
+    },
+    {
+     "w": "the",
+     "start": 32.818,
+     "end": 32.889
+    },
+    {
+     "w": "ink",
+     "start": 32.961,
+     "end": 33.175
+    },
+    {
+     "w": "runs",
+     "start": 33.318,
+     "end": 33.461
+    },
+    {
+     "w": "out,",
+     "start": 33.532,
+     "end": 33.996
+    },
+    {
+     "w": "the",
+     "start": 34.032,
+     "end": 34.068
+    },
+    {
+     "w": "tube",
+     "start": 34.211,
+     "end": 34.425
+    },
+    {
+     "w": "makes",
+     "start": 34.496,
+     "end": 34.639
+    },
+    {
+     "w": "a",
+     "start": 34.711,
+     "end": 34.782
+    },
+    {
+     "w": "vacuum,",
+     "start": 34.854,
+     "end": 35.568
+    },
+    {
+     "w": "and",
+     "start": 35.604,
+     "end": 35.639
+    },
+    {
+     "w": "the",
+     "start": 35.711,
+     "end": 35.782
+    },
+    {
+     "w": "pen",
+     "start": 35.854,
+     "end": 36.068
+    },
+    {
+     "w": "stops",
+     "start": 36.139,
+     "end": 36.425
+    },
+    {
+     "w": "writing.",
+     "start": 36.496,
+     "end": 37.211
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 37.303,
+   "end": 42.217,
+   "text": "So you drill a tiny hole in the barrel, that lets air in and keeps the ink flowing.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.588,
+     "end": 37.731
+    },
+    {
+     "w": "you",
+     "start": 37.803,
+     "end": 37.946
+    },
+    {
+     "w": "drill",
+     "start": 38.017,
+     "end": 38.231
+    },
+    {
+     "w": "a",
+     "start": 38.303,
+     "end": 38.374
+    },
+    {
+     "w": "tiny",
+     "start": 38.446,
+     "end": 38.731
+    },
+    {
+     "w": "hole",
+     "start": 38.874,
+     "end": 39.017
+    },
+    {
+     "w": "in",
+     "start": 39.088,
+     "end": 39.16
+    },
+    {
+     "w": "the",
+     "start": 39.231,
+     "end": 39.303
+    },
+    {
+     "w": "barrel,",
+     "start": 39.41,
+     "end": 39.838
+    },
+    {
+     "w": "that",
+     "start": 40.017,
+     "end": 40.16
+    },
+    {
+     "w": "lets",
+     "start": 40.231,
+     "end": 40.446
+    },
+    {
+     "w": "air",
+     "start": 40.517,
+     "end": 40.731
+    },
+    {
+     "w": "in",
+     "start": 40.803,
+     "end": 40.946
+    },
+    {
+     "w": "and",
+     "start": 41.017,
+     "end": 41.16
+    },
+    {
+     "w": "keeps",
+     "start": 41.196,
+     "end": 41.374
+    },
+    {
+     "w": "the",
+     "start": 41.446,
+     "end": 41.517
+    },
+    {
+     "w": "ink",
+     "start": 41.588,
+     "end": 41.731
+    },
+    {
+     "w": "flowing.",
+     "start": 41.838,
+     "end": 42.303
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 42.529,
+   "end": 47.239,
+   "text": "And cheap tips wobble, skip, and drop fat blobs on the page. Yikes.",
+   "words": [
+    {
+     "w": "And",
+     "start": 42.713,
+     "end": 42.744
+    },
+    {
+     "w": "cheap",
+     "start": 42.887,
+     "end": 43.101
+    },
+    {
+     "w": "tips",
+     "start": 43.172,
+     "end": 43.387
+    },
+    {
+     "w": "wobble,",
+     "start": 43.529,
+     "end": 43.958
+    },
+    {
+     "w": "skip,",
+     "start": 44.029,
+     "end": 44.351
+    },
+    {
+     "w": "and",
+     "start": 44.387,
+     "end": 44.529
+    },
+    {
+     "w": "drop",
+     "start": 44.672,
+     "end": 44.815
+    },
+    {
+     "w": "fat",
+     "start": 45.029,
+     "end": 45.244
+    },
+    {
+     "w": "blobs",
+     "start": 45.315,
+     "end": 45.601
+    },
+    {
+     "w": "on",
+     "start": 45.672,
+     "end": 45.744
+    },
+    {
+     "w": "the",
+     "start": 45.779,
+     "end": 45.815
+    },
+    {
+     "w": "page.",
+     "start": 45.887,
+     "end": 46.422
+    },
+    {
+     "w": "Yikes.",
+     "start": 46.601,
+     "end": 47.244
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 47.552,
+   "end": 55.138,
+   "text": "So a machine presses a perfect little ball, steel or tungsten carbide, into a brass tip. Thousands, all identical.",
+   "words": [
+    {
+     "w": "So",
+     "start": 47.76,
+     "end": 47.903
+    },
+    {
+     "w": "a",
+     "start": 47.974,
+     "end": 48.046
+    },
+    {
+     "w": "machine",
+     "start": 48.117,
+     "end": 48.617
+    },
+    {
+     "w": "presses",
+     "start": 48.724,
+     "end": 48.974
+    },
+    {
+     "w": "a",
+     "start": 49.081,
+     "end": 49.188
+    },
+    {
+     "w": "perfect",
+     "start": 49.367,
+     "end": 49.546
+    },
+    {
+     "w": "little",
+     "start": 49.617,
+     "end": 49.831
+    },
+    {
+     "w": "ball,",
+     "start": 49.974,
+     "end": 50.329
+    },
+    {
+     "w": "steel",
+     "start": 50.51,
+     "end": 50.796
+    },
+    {
+     "w": "or",
+     "start": 50.867,
+     "end": 50.938
+    },
+    {
+     "w": "tungsten",
+     "start": 51.01,
+     "end": 51.367
+    },
+    {
+     "w": "carbide,",
+     "start": 51.474,
+     "end": 52.028
+    },
+    {
+     "w": "into",
+     "start": 52.171,
+     "end": 52.313
+    },
+    {
+     "w": "a",
+     "start": 52.385,
+     "end": 52.456
+    },
+    {
+     "w": "brass",
+     "start": 52.528,
+     "end": 52.813
+    },
+    {
+     "w": "tip.",
+     "start": 52.885,
+     "end": 53.358
+    },
+    {
+     "w": "Thousands,",
+     "start": 53.644,
+     "end": 54.162
+    },
+    {
+     "w": "all",
+     "start": 54.233,
+     "end": 54.376
+    },
+    {
+     "w": "identical.",
+     "start": 54.447,
+     "end": 55.233
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 55.451,
+   "end": 60.978,
+   "text": "Hit follow, 'cause next we're building the Gateway Arch. Yes... an arch.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 55.522,
+     "end": 55.665
+    },
+    {
+     "w": "follow,",
+     "start": 55.808,
+     "end": 56.308
+    },
+    {
+     "w": "'cause",
+     "start": 56.522,
+     "end": 56.737
+    },
+    {
+     "w": "next",
+     "start": 56.808,
+     "end": 57.094
+    },
+    {
+     "w": "we're",
+     "start": 57.165,
+     "end": 57.379
+    },
+    {
+     "w": "building",
+     "start": 57.522,
+     "end": 57.665
+    },
+    {
+     "w": "the",
+     "start": 57.701,
+     "end": 57.737
+    },
+    {
+     "w": "Gateway",
+     "start": 57.879,
+     "end": 58.237
+    },
+    {
+     "w": "Arch.",
+     "start": 58.308,
+     "end": 58.772
+    },
+    {
+     "w": "Yes...",
+     "start": 59.406,
+     "end": 60.085
+    },
+    {
+     "w": "an",
+     "start": 60.192,
+     "end": 60.299
+    },
+    {
+     "w": "arch.",
+     "start": 60.371,
+     "end": 61.156
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 61.29,
+   "end": 67.087,
+   "text": "Back in nineteen forty five, shoppers lined up to buy the first ones, and nobody mentioned the ball.",
+   "words": [
+    {
+     "w": "Back",
+     "start": 61.504,
+     "end": 61.719
+    },
+    {
+     "w": "in",
+     "start": 61.79,
+     "end": 61.933
+    },
+    {
+     "w": "nineteen",
+     "start": 62.004,
+     "end": 62.362
+    },
+    {
+     "w": "forty",
+     "start": 62.433,
+     "end": 62.683
+    },
+    {
+     "w": "five,",
+     "start": 62.79,
+     "end": 63.362
+    },
+    {
+     "w": "shoppers",
+     "start": 63.433,
+     "end": 63.79
+    },
+    {
+     "w": "lined",
+     "start": 63.862,
+     "end": 64.076
+    },
+    {
+     "w": "up",
+     "start": 64.112,
+     "end": 64.147
+    },
+    {
+     "w": "to",
+     "start": 64.219,
+     "end": 64.29
+    },
+    {
+     "w": "buy",
+     "start": 64.362,
+     "end": 64.433
+    },
+    {
+     "w": "the",
+     "start": 64.504,
+     "end": 64.647
+    },
+    {
+     "w": "first",
+     "start": 64.719,
+     "end": 65.004
+    },
+    {
+     "w": "ones,",
+     "start": 65.076,
+     "end": 65.496
+    },
+    {
+     "w": "and",
+     "start": 65.603,
+     "end": 65.71
+    },
+    {
+     "w": "nobody",
+     "start": 65.781,
+     "end": 66.21
+    },
+    {
+     "w": "mentioned",
+     "start": 66.353,
+     "end": 66.496
+    },
+    {
+     "w": "the",
+     "start": 66.531,
+     "end": 66.567
+    },
+    {
+     "w": "ball.",
+     "start": 66.638,
+     "end": 67.281
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 67.4,
+   "end": 70.577,
+   "text": "A tiny ball, thick ink, and one little hole.",
+   "words": [
+    {
+     "w": "A",
+     "start": 67.522,
+     "end": 67.543
+    },
+    {
+     "w": "tiny",
+     "start": 67.686,
+     "end": 67.829
+    },
+    {
+     "w": "ball,",
+     "start": 67.9,
+     "end": 68.4
+    },
+    {
+     "w": "thick",
+     "start": 68.498,
+     "end": 68.712
+    },
+    {
+     "w": "ink,",
+     "start": 68.784,
+     "end": 69.177
+    },
+    {
+     "w": "and",
+     "start": 69.284,
+     "end": 69.427
+    },
+    {
+     "w": "one",
+     "start": 69.641,
+     "end": 69.784
+    },
+    {
+     "w": "little",
+     "start": 69.855,
+     "end": 70.07
+    },
+    {
+     "w": "hole.",
+     "start": 70.141,
+     "end": 70.712
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 70.889,
+   "end": 74.145,
+   "text": "And congrats, you just built a ballpoint pen yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 71.012,
+     "end": 71.032
+    },
+    {
+     "w": "congrats,",
+     "start": 71.104,
+     "end": 71.961
+    },
+    {
+     "w": "you",
+     "start": 72.104,
+     "end": 72.246
+    },
+    {
+     "w": "just",
+     "start": 72.318,
+     "end": 72.461
+    },
+    {
+     "w": "built",
+     "start": 72.568,
+     "end": 72.675
+    },
+    {
+     "w": "a",
+     "start": 72.746,
+     "end": 72.818
+    },
+    {
+     "w": "ballpoint",
+     "start": 72.961,
+     "end": 73.318
+    },
+    {
+     "w": "pen",
+     "start": 73.425,
+     "end": 73.532
+    },
+    {
+     "w": "yourself.",
+     "start": 73.639,
+     "end": 74.318
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 74.457,
+   "end": 80.024,
+   "text": "Shake a dead pen to wake it up... and your white shirt becomes the notebook.",
+   "words": [
+    {
+     "w": "Shake",
+     "start": 75.198,
+     "end": 75.412
+    },
+    {
+     "w": "a",
+     "start": 75.484,
+     "end": 75.555
+    },
+    {
+     "w": "dead",
+     "start": 75.627,
+     "end": 75.841
+    },
+    {
+     "w": "pen",
+     "start": 75.912,
+     "end": 76.127
+    },
+    {
+     "w": "to",
+     "start": 76.198,
+     "end": 76.27
+    },
+    {
+     "w": "wake",
+     "start": 76.341,
+     "end": 76.484
+    },
+    {
+     "w": "it",
+     "start": 76.555,
+     "end": 76.627
+    },
+    {
+     "w": "up...",
+     "start": 76.698,
+     "end": 77.127
+    },
+    {
+     "w": "and",
+     "start": 77.955,
+     "end": 77.984
+    },
+    {
+     "w": "your",
+     "start": 78.055,
+     "end": 78.127
+    },
+    {
+     "w": "white",
+     "start": 78.198,
+     "end": 78.412
+    },
+    {
+     "w": "shirt",
+     "start": 78.555,
+     "end": 78.77
+    },
+    {
+     "w": "becomes",
+     "start": 78.841,
+     "end": 79.198
+    },
+    {
+     "w": "the",
+     "start": 79.27,
+     "end": 79.341
+    },
+    {
+     "w": "notebook.",
+     "start": 79.412,
+     "end": 80.198
+    }
+   ]
+  }
+ ]
+}
