@@ -1796,3 +1796,11 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   timing), owner's pick. voices.yml en switched. English costs about 1,000 ElevenLabs characters a build now, so the
   Build-It daily cap goes from 8,000 to 12,000 (6 builds x EN+AR ~ 11,400; the month still fits the 613k plan).
   Write the jokes for his timing.
+- Nov 23 22:04 PT, owner on the English voice: "make his role kinda funny, like he is almost gonna laugh while
+  talking, and add some humor words like he is talking to the viewers". English is J. Ballen on eleven_v4 with
+  audio tags (voices.yml). HOW TO WRITE EVERY ENGLISH SCRIPT NOW (sample: series/sample_tpf_lines.txt, video
+  sent 22:15 PT): start most lines with a tag ([amused], [playful], [chuckles], [laughs softly], [warmly], [proudly];
+  [laughs] / [laughs harder] on the tag joke), talk to the viewer ("Y'all", "Now listen", "I'm serious", "oh boy",
+  "Yes... a dishwasher"), keep the facts. Tags never reach the captions (make_vo_eleven strips them).
+  LENGTH: he is slow and the laughs take time: 217 words = 93 s. Write about 160-170 words (14 lines) to land near
+  70 s, and keep the hook line under 15 words. v4 has no speed setting; do not speed him up more than 1.1x.
