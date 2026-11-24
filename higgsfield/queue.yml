@@ -343,7 +343,7 @@ jobs:
     # turns "from translucent to transparent as visitors walk over them" (Gulf News); open to the public since Jan 1
     # 2018 (The National). B4 teases build 86, the electric kettle (LINEUP). B6: a frame at home that will not hang
     # straight. People kept to crowds, shoes and hands (see the NSFW notes in the ledger).
-    status: "generating (started: Nov 24 05:29 PT; people words removed from shots 2,5,6)"
+    status: "generating (started: Nov 24 04:28 PT; people words removed from shots 2,5,6)"
     file: buildit-dubaiframe-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): close-up of the tower's gold stainless steel skin, panels cut into a pattern of rings full of
