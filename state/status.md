@@ -1,4 +1,4 @@
-# Post status 2026-11-24T19:37:24+00:00
+# Post status 2026-11-24T19:52:20+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -409,16 +409,24 @@
 | ep78-airfryer | en.instagram | scheduled |  | 2026-11-25T05:00:00.000Z |
 | ep78-airfryer | en.tiktok | scheduled |  | 2026-11-25T05:00:00.000Z |
 | ep79-kuwaittowers | ar.instagram | scheduled |  | 2026-11-25T10:30:00.000Z |
+| ep79-kuwaittowers | ar.tiktok | scheduled |  | 2026-11-25T10:30:00.000Z |
 | ep79-kuwaittowers | en.instagram | scheduled |  | 2026-11-25T07:30:00.000Z |
 | ep79-kuwaittowers | en.tiktok | scheduled |  | 2026-11-25T07:30:00.000Z |
 | ep80-fountain | ar.instagram | scheduled |  | 2026-11-25T13:00:00.000Z |
+| ep80-fountain | ar.tiktok | scheduled |  | 2026-11-25T13:00:00.000Z |
 | ep80-fountain | en.instagram | scheduled |  | 2026-11-25T10:00:00.000Z |
 | ep80-fountain | en.tiktok | scheduled |  | 2026-11-25T10:00:00.000Z |
 | ep81-zipper | ar.instagram | scheduled |  | 2026-11-25T15:30:00.000Z |
 | ep81-zipper | en.instagram | scheduled |  | 2026-11-25T12:30:00.000Z |
 | ep81-zipper | en.tiktok | scheduled |  | 2026-11-25T12:30:00.000Z |
 | ep82-hzmb | ar.instagram | scheduled |  | 2026-11-25T18:00:00.000Z |
+| ep82-hzmb | en.instagram | scheduled |  | 2026-11-25T15:00:00.000Z |
+| ep82-hzmb | en.tiktok | scheduled |  | 2026-11-25T15:00:00.000Z |
 | ep83-thermos | ar.instagram | scheduled |  | 2026-11-25T20:30:00.000Z |
+| ep83-thermos | en.instagram | scheduled |  | 2026-11-25T17:30:00.000Z |
+| ep83-thermos | en.tiktok | scheduled |  | 2026-11-25T17:30:00.000Z |
+| ep84-hooverdam | ar.instagram | scheduled |  | 2026-11-25T23:00:00.000Z |
+| ep85-dubaiframe | ar.instagram | scheduled |  | 2026-11-26T01:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://www.tiktok.com/@congratsengineer/video/7710759443809553677?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
