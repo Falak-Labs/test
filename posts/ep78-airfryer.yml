@@ -1,0 +1,33 @@
+episode: 78
+date: 2026-11-25
+video:
+  en: media/airfryer-b78-en.mp4
+  ar: media/airfryer-b78-ar.mp4
+hold: [en.youtube, ar.youtube]
+studio: 1
+en:
+  at: "2026-11-25T05:00:00Z"
+  title: "Air Fryer: Frying With a Tornado 🌪️"
+  text: |
+    A small box that fries food with a tornado of hot air and almost no oil. 🌪️
+    A red-hot coil heats the air and a fan whirls it around the food, so the outside crisps while the inside stays juicy.
+    Would you swap the oil for a tornado? 👇
+  next: "the Kuwait Towers 🗼"
+  seo: "How it works: an air fryer cooks with a heating coil and a fan that circulates very hot air around the food"
+  tags:
+    tiktok: "#airfryer #cooking #howitworks #learnontiktok"
+    instagram: "#airfryer #cooking #howitworks #engineering"
+    youtube: "#airfryer #cooking #howitworks"
+ar:
+  at: "2026-11-25T08:00:00Z"
+  title: "القلاية الهوائية: قلي بدون زيت 🌪️"
+  text: |
+    صندوق صغير يقلي الأكل بإعصار من الهواء الحار! 🌪️
+    سخان حار ومروحة تلف الهواء حول الأكل، فيطلع مقرمش من برا وطري من جوا وبدون زيت تقريبا.
+    تبدل الزيت بإعصار؟ 👇
+  next: "أبراج الكويت 🗼"
+  seo: "كيف يشتغل: القلاية الهوائية تطبخ بسخان ومروحة تدور الهواء الحار حول الأكل"
+  tags:
+    tiktok: "#القلاية_الهوائية #طبخ #كيف_يشتغل #السعودية #تعلم_على_التيك_توك"
+    instagram: "#القلاية_الهوائية #طبخ #كيف_يشتغل #السعودية #معلومات"
+    youtube: "#القلاية_الهوائية #طبخ #كيف_يشتغل"

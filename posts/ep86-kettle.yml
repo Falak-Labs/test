@@ -1,0 +1,33 @@
+episode: 86
+date: 2026-11-26
+video:
+  en: media/kettle-b86-en.mp4
+  ar: media/kettle-b86-ar.mp4
+hold: [en.youtube, ar.youtube]
+studio: 1
+en:
+  at: "2026-11-26T01:00:00Z"
+  title: "Electric Kettle: How It Switches Itself Off ♨️"
+  text: |
+    How does a kettle know the water has boiled? ♨️
+    Steam runs down a small tube to a two-metal disc that snaps when it gets hot and trips the switch. That's the click.
+    Do you listen for the click? 👇
+  next: "a hot air balloon 🎈"
+  seo: "How it works: an electric kettle switches off when steam reaches a bimetal disc that snaps and trips the switch"
+  tags:
+    tiktok: "#kettle #howitworks #science #learnontiktok"
+    instagram: "#kettle #howitworks #science #engineering"
+    youtube: "#kettle #howitworks #science"
+ar:
+  at: "2026-11-26T04:00:00Z"
+  title: "غلاية الماء: كيف تطفي نفسها ♨️"
+  text: |
+    كيف تعرف الغلاية إن الماي غلى؟ ♨️
+    البخار ينزل في أنبوب صغير لقرص من معدنين ينثني بالحرارة ويفصل الكهرباء. هذا هو الكليك.
+    تنتظر الكليك؟ 👇
+  next: "منطاد الهواء الساخن 🎈"
+  seo: "كيف يشتغل: الغلاية الكهربائية تفصل لما يوصل البخار لقرص من معدنين فينثني ويفصل الكهرباء"
+  tags:
+    tiktok: "#غلاية #كيف_يشتغل #علوم #السعودية #تعلم_على_التيك_توك"
+    instagram: "#غلاية #كيف_يشتغل #علوم #السعودية #معلومات"
+    youtube: "#غلاية #كيف_يشتغل #علوم"

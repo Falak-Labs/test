@@ -1,0 +1,33 @@
+episode: 84
+date: 2026-11-25
+video:
+  en: media/hooverdam-b84-en.mp4
+  ar: media/hooverdam-b84-ar.mp4
+hold: [en.youtube, ar.youtube]
+studio: 1
+en:
+  at: "2026-11-25T20:00:00Z"
+  title: "Hoover Dam: The Concrete That Would Take 125 Years to Cool 🌊"
+  text: |
+    If it had been poured in one piece, this concrete would still be cooling. 🌊
+    The Hoover Dam was cast in blocks, with cold-water pipes inside, because one solid pour would have taken about 125 years to cool.
+    Would you walk across the top? 👇
+  next: "the Dubai Frame 🖼️"
+  seo: "How it works: the Hoover Dam was cast in blocks with cooling pipes because one solid pour would have taken about 125 years to cool"
+  tags:
+    tiktok: "#hooverdam #engineering #concrete #learnontiktok"
+    instagram: "#hooverdam #engineering #concrete #engineering"
+    youtube: "#hooverdam #engineering #concrete"
+ar:
+  at: "2026-11-25T23:00:00Z"
+  title: "سد هوفر: خرسانة تحتاج ١٢٥ سنة تبرد 🌊"
+  text: |
+    لو انصب السد قطعة وحدة كان بقي يبرد لين اليوم! 🌊
+    بنوا سد هوفر بكتل مع أنابيب ماي بارد داخلها، لأن الصبة الوحدة كانت تحتاج حوالي ١٢٥ سنة عشان تبرد.
+    تمشي فوقه؟ 👇
+  next: "إطار دبي 🖼️"
+  seo: "كيف يشتغل: سد هوفر انصب في كتل مع أنابيب تبريد لأن الصبة الواحدة كانت تحتاج حوالي ١٢٥ سنة لتبرد"
+  tags:
+    tiktok: "#سد_هوفر #هندسة #خرسانة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#سد_هوفر #هندسة #خرسانة #السعودية #معلومات"
+    youtube: "#سد_هوفر #هندسة #خرسانة"
