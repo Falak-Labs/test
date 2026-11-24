@@ -627,8 +627,12 @@ jobs:
     # B4 teases build 91, the Gateway Arch (LINEUP). B6: scribbling circles to wake up a dead pen. No store or brand
     # names in the prompt; the 1945 crowd stays wide.
     # Done by 08:22 PT (History 96a8b0a7, created 08:13:51 PT with the style line), fetched by the hourly runner.
-    # History holds no other pen-B job: its prompt is the shots below word for word, shots 5 and 6 included (the
-    # queue said "08:20, shots 5,6 reworded"): check the crowd shot and the man in shot 6 before use.
+    # Its prompt is the shots below word for word, shots 5 and 6 included (the queue said "08:20, shots 5,6
+    # reworded"): check the crowd shot and the man in shot 6 before use. A spare take (History 50305502, started
+    # 11:36 PT by the main chat by mistake) has shots 5 and 6 reworded to keep faces out (5: a 1945 store counter piled
+    # with pen boxes, flashbulbs, a line of coats and hats pressed against the glass; 6: a pen scribbling circles and
+    # splatting ink onto a folded white shirt); kept as buildit-pen-sdB-alt.mp4 (hourly runner, 12:00 PT) as a spare
+    # (build 90 was made from pen-A + pen-B; find the spare's cut points with scdet before reusing a shot).
     status: done
     url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_161351_96a8b0a7-129d-401d-a4cf-110c3e5ed656.mp4
     file: buildit-pen-sdB.mp4

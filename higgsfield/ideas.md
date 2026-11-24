@@ -700,3 +700,62 @@ New content
   [BBC Science Focus](https://www.sciencefocus.com/science/how-do-re-usable-hand-warmers-work/),
   [HowStuffWorks](https://science.howstuffworks.com/disposable-hand-warmers.htm),
   [Wikipedia](https://en.wikipedia.org/wiki/Hand_warmer)
+
+## 2026-11-24 12:05 PT (hourly runner, cloud run)
+
+Trends
+- YouTube cuts the Shorts reach of re-uploads: TeamYouTube said on Oct 1 2026 it will "further prioritize original
+  content and reduce the reach of content re-uploaded from other creators", and channels "primarily aggregating or
+  re-uploading other creators' videos without significant changes" will "likely see less distribution within the
+  Shorts feed" (PPC Land, Oct 2 2026; it says nothing about reusing one's own clips). Build-It use: free archive or
+  stock film (DVIDS, USFA, Prelinger, NARA) stays one proof shot inside our own Seedance footage, never the bulk.
+  [PPC Land, Oct 2 2026](https://ppc.land/re-uploaded-shorts-lose-reach-as-youtube-favours-original-clips/)
+- Explainers are crowded: "there's an explainer video for every topic you can imagine" and "Almost all of it,
+  however, follows a similar format" (Dazed, Sep 10 2026). What works for STEM on YouTube, per TheWrap (Sep 11 2026):
+  "Mark shows the wow and then explains the how", and Cleo Abram's bar, "It has to be rigorous science journalism",
+  which she keeps for a 60-second video as for a long one. Build-It use: A1 is the wow; the sourced numbers in the
+  queue comments are the rigour, so keep them in the lines. Nothing newer on the trend pages: SocialPilot's Nov 17-25
+  edition dates no format or sound after Nov 20.
+  [Dazed, Sep 10 2026](https://www.dazeddigital.com/life-culture/article/70929/1/thoughtfluencers-hot-takes-tiny-mics-explainer-epidemic-instagram-tiktok),
+  [TheWrap, Sep 11 2026](https://www.thewrap.com/culture-lifestyle/social-trends/stem-content-youtube-why-popular-mark-rober-cleo-abram/),
+  [SocialPilot](https://www.socialpilot.co/blog/tiktok-trends)
+
+Free footage and pictures
+- Falkirk Wheel (95) proof shots, free with credit: three Geograph pages say "licensed for reuse under this Creative
+  Commons Licence" (CC BY-SA 2.0: commercial use allowed; credit the photographer and the licence): the wheel from the
+  lower basin with the boat Archimedes (David Dixon, 5 Mar 2020, photo 6408903), the lower caisson in its docking pit
+  (Dixon, same day, 6408898) and a close view (Gerald England, 6 Sep 2005, 6747825). The build years are not free:
+  Canmore's aerial of the construction (27 Aug 2001) is "© Crown Copyright: HES" with "No Commercial Use or Sale", and
+  Falkirk Council's April 2001 scaffolding photo (Carol A Sneddon) states no licence (ask first). None shows the wheel
+  turning: the motion stays Seedance, a Geograph photo can carry B5.
+  [Geograph 6408903](https://www.geograph.org.uk/photo/6408903), [6408898](https://www.geograph.org.uk/photo/6408898),
+  [6747825](https://www.geograph.org.uk/photo/6747825), [Canmore](https://canmore.org.uk/collection/1669667),
+  [Falkirk Collections](https://collections.falkirk.gov.uk/objects/105943/construction-of-the-falkirk-wheel)
+- One search box for photos like these: Openverse (the WordPress project's successor to CC Search) "searches content
+  from over 45 different media sources, including" Wikimedia Commons, Europeana and Flickr ("over 700 million items as
+  of 2023"). Check each result's licence on its source page. [Wikipedia](https://en.wikipedia.org/wiki/Openverse)
+- Checked: the other "free unlimited Seedance" offers in search results are for paying subscribers or over, so Nov 28
+  stands: InVideo's needs "any paid plan" and ran "November 27th to December 1st, 2025"; Picsart's is for "active
+  Picsart paid subscribers" (Seedance 2.5 for 7 days "with a qualifying Ultra annual plan"); Melius's ran 7 days and
+  "ends on September 7". [InVideo](https://invideo.io/offers),
+  [Picsart](https://picsart.com/ai-models/seedance-2-0/unlimited/), [Melius](https://www.melius.com/promo/seedance-2-5)
+
+New content
+- A candidate for LINEUP 100 (Build #100), in the news this week: the Jeddah Tower in Saudi Arabia, the first
+  building planned past 1 km (the Arabic channel's home ground; the Burj Khalifa build "tower" is the callback).
+  Status: "We've reached 484 meters", the 121st floor, with the halfway mark of 125 floors expected "around
+  Thanksgiving" (Newsweek, Oct 30 2026, upd. Nov 5); 116 floors in September (Gulf News, upd. Oct 6); done "late 2028"
+  (Gulf News) or August 2028 (Wikipedia). Engineering: "a 5-meter [16.4-ft]-thick raft foundation supported on 270
+  bored piles", 1.8 m across, "that go to depths up to 105 meters" (New Atlas, Jun 4 2026, quoting Thornton
+  Tomasetti); a triangular core whose three tapering wings "buttress the core and provide lateral stiffness under wind
+  loading", and a tuned mass damper in the spire; KONE's carbon-fibre UltraRope, because steel ropes reached "practical
+  limits" at about 500 m "due to rope self-weight"; a sky terrace at 630 m (Wikipedia). Wind: "three miles an hour at
+  the base, but it could be 30 miles an hour up at height", and work must stop above a set wind speed (Newsweek). Check
+  before use: floors (157 in Gulf News and New Atlas, 167 in Wikipedia's infobox), lifts (59 New Atlas, 57 KONE units
+  Wikipedia), the final height ("at least 1,008 m"). Leave the 2018 pause out. Ready shots: 270 piles bored 105 m into
+  the ground under one raft; a steel rope sagging under its own weight beside a thin black carbon rope; cranes at the
+  top stopped in the wind while flags hang still at the base.
+  [Newsweek, Oct 30 2026](https://newsweek.com/future-worlds-tallest-building-hit-major-construction-milestone-jeddah-tower-12643303),
+  [Gulf News, upd. Oct 6 2026](https://gulfnews.com/business/property/jeddah-tower-crosses-116-floors-completion-timeline-moves-1.500699924),
+  [New Atlas, Jun 4 2026](https://newatlas.com/architecture/jec-tower-june-2026-update/),
+  [Wikipedia](https://en.wikipedia.org/wiki/Jeddah_Tower)
