@@ -496,3 +496,18 @@ New content
   [China Daily, Jan 18 2025](https://www.chinadaily.com.cn/a/202501/18/WS678aec52a310f1265a1dba32.html),
   [China Daily, May 1 2025](https://www.chinadaily.com.cn/a/202505/01/WS6812cdd0a310a04af22bd2cc_4.html),
   [People's Daily, Nov 5 2024](https://en.people.cn/n3/2024/1105/c90000-20237423.html)
+- LINEUP 94 is now a smoke alarm (an everyday thing after the Huajiang bridge, for its pair's B4): an ionization
+  alarm holds "a small bit of safely shielded radioactive material" that ionizes the air "between two metal plates",
+  and smoke particles "attract the ions and carry them away, reducing the current"; a photoelectric one sees "light
+  reflected off particles from a light beam inside the sensing chamber" (NIST). Ionization alarms "tend to detect
+  small black soot particles from flaming fires more quickly", photoelectric ones the larger, light-coloured
+  particles of smouldering fires; alarms "near kitchens can detect the particles coming off your food as it cooks";
+  a working alarm "cuts your risk of dying in a fire by 55%" (NIST, citing NFPA; Wikipedia says "cut in half"). The
+  source is "about 37 kBq ... about 0.3 μg" of americium-241; Walter Jaeger found the effect in the late 1930s when a
+  failed poison-gas sensor reacted to his cigarette smoke; Duane Pearsall and Stanley Peterson made "the first
+  low-cost smoke detector for domestic use" in 1965 (Wikipedia; its smouldering-fire timings disagree with the NIST
+  study it cites: check). The night chirp: a dying battery's internal resistance rises in the cold, and "Most homes
+  are the coolest between 2 a.m. and 6 a.m." (Kidde, a maker). B6 writes itself: the 2 a.m. chirp, a broom, a chair.
+  [NIST](https://www.nist.gov/how-do-you-measure-it/how-do-smoke-detectors-work),
+  [Wikipedia](https://en.wikipedia.org/wiki/Smoke_detector),
+  [Kidde](https://www.kidde.com/support/smoke-alarms/nighttime-alarm-chirps)
