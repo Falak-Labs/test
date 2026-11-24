@@ -111,8 +111,12 @@ jobs:
   - id: kuwait-B
     build: 79
     kit: kuwaittowers
+<<<<<<< HEAD
     # Nov 24 00:55 PT: the 00:45 job (History 6edb2c27) came back NSFW, no clip. Shot 4 reworded without "shooting".
     status: todo
+=======
+    status: "generating (restarted: Nov 24 01:03 PT, first try false NSFW flag, reworded)"
+>>>>>>> 9cd45d6 (kuwait-B restarted after NSFW false flag)
     file: buildit-kuwait-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): the top sphere, a round glass observation deck slowly rotating, visitors watching the sea. Shot 2
