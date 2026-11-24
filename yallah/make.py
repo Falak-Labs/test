@@ -127,6 +127,10 @@ if LJ.get("slow_take") and not DRY:
             run("slow " + sp, [sys.executable, "-I", os.path.join(TOOLS, "split_slow.py"), os.path.join(d, tid + ".mp3"), str(len(keys)), tmp])
             for i, k in enumerate(keys):
                 subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", f"{tmp}{i}.wav", "-c:a", "libmp3lame", "-b:a", "128k", os.path.join(d, f"{sp}_{k}.mp3")], check=True)
+                piece_s = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", f"{tmp}{i}.wav"], capture_output=True, text=True).stdout or 0.5)
+                txt = LJ["word"]["parts"][i]; n = len(txt)       # the part's letters spread over its length, as build2 does for a made-up take
+                json.dump({"id": f"{sp}_{k}", "text": txt, "cut_from": tid, "chars": list(txt), "starts": [0.03 + (piece_s - 0.06) * j / n for j in range(n)],
+                           "ends": [0.03 + (piece_s - 0.06) * (j + 1) / n for j in range(n)]}, open(os.path.join(d, f"{sp}_{k}.json"), "w", encoding="utf-8"))
 
 # 2. the page folder, 3. the sound track and the timeline
 run("page", [sys.executable, os.path.join(TOOLS, "mkpage.py"), LOC, PAGE])
