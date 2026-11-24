@@ -1,0 +1,47 @@
+# What YouTube shows for Survival Mode 4: You vs Time. show/handoff.py turns this into the upload sheet.
+date: 2026-11-24                 # the Pacific day it goes public
+chapters:
+  en: ["No pause. No rewind. No extra time.", "Level 1: Big Ben vs the lost second", "Level 2: Tower Bridge vs the long wait",
+       "Level 3: Shibam vs the rain", "Final level: the Great Wall vs 2,000 years", "Results"]
+  ar: ["بدون إيقاف ولا إعادة", "المرحلة الأولى: بيغ بن والثانية الضايعة", "المرحلة الثانية: جسر البرج والانتظار",
+       "المرحلة الثالثة: شبام والمطر", "المرحلة الأخيرة: سور الصين وألفين سنة", "النتيجة"]
+en:
+  full:
+    time: "10:00"
+    title: "Survival Mode: You vs Time ⏱️ Big Ben, Tower Bridge, Shibam, Great Wall"
+    desc: |
+      No pause. No rewind. No extra time. Four levels, four bosses made of time, and you beat them with pennies, water, mud and rice.
+
+      {chapters}
+
+      Every level is a real build: Big Ben's pendulum is almost four meters long and ticks once every two seconds, each half of Tower Bridge weighs over a thousand tons and lifts about eight hundred times a year for free, Shibam has about five hundred mud tower houses up to eleven floors high, and the Great Wall runs twenty-one thousand kilometers, built over two thousand years.
+
+      New episode every day. Subscribe, or the boss wins.
+      #engineering #survival #howitworks
+  short:
+    time: "12:15"
+    title: "The Clock That Can't Be Late ⏱️ Survival Mode: You vs Time"
+    desc: |
+      Level 1 of 4: London. Big Ben's clock has to strike right to the second while wind, heat and cold push it off.
+      The full episode with all four levels is on this channel: "Survival Mode: You vs Time".
+      #Shorts #engineering #survival
+ar:
+  full:
+    time: "09:00"
+    title: "طور البقاء: أنت ضد الوقت ⏱️ أربع مراحل وأربعة زعماء"
+    desc: |
+      بدون إيقاف. بدون إعادة. بدون وقت إضافي. أربع مراحل وأربعة زعماء من الوقت، وأنت تغلبهم بالقروش والموية والطين والرز.
+
+      {chapters}
+
+      كل مرحلة بناء حقيقي: بندول بيغ بن طوله قرابة أربعة متر ويتك كل ثانيتين، وكل جهة من جسر البرج فوق ألف طن وتنفتح قرابة ثمانمية مرة بالسنة ببلاش، وشبام فيها قرابة خمسمية بيت برج من طين لين إحدعش دور، وسور الصين واحد وعشرين ألف كيلو، انبنى على مدى ألفين سنة.
+
+      حلقة جديدة كل يوم. اشترك، ولا الزعيم يفوز.
+      #هندسة #طور_البقاء #كيف_تنبني
+  short:
+    time: "10:30"
+    title: "الساعة اللي ما تتأخر ⏱️ طور البقاء: أنت ضد الوقت"
+    desc: |
+      المرحلة الأولى من أربع: لندن. ساعة بيغ بن لازم تدق في ثانيتها بالضبط، والريح والحر والبرد يخربونها.
+      الحلقة الكاملة بالمراحل الأربع على القناة: "طور البقاء: أنت ضد الوقت".
+      #Shorts #هندسة #طور_البقاء

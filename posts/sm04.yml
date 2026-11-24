@@ -1,0 +1,40 @@
+episode: sm04                     # Survival Mode 4: You vs Time (the 4-minute show). This file posts its SHORT cuts to TikTok + Instagram.
+date: 2026-11-24
+video:
+  en: media/sm04-en.mp4
+  ar: media/sm04-ar.mp4
+# The show run of Nov 23 stopped after the voices (usage limit); the main chat built the cuts and wrote this file.
+# YouTube gets both the full video and this short through YouTube Studio (the main chat, `show` branch), so both YouTube
+# targets stay on hold for good. TikTok and Instagram start on hold too and are released by scripts/yt_desk.py release sm04
+# after the YouTube uploads. No build run may take any target of this file off hold.
+hold: [en.youtube, ar.youtube, en.instagram, en.tiktok, ar.instagram, ar.tiktok]
+en:
+  at: "2026-11-24T20:15:00Z"      # 12:15 PT Tue Nov 24; the full video goes public on YouTube at 10:00 PT
+  title: "The Clock That Can't Be Late ⏱️ Survival Mode: You vs Time"
+  text: |
+    No pause. No rewind. No extra time. ⏱️
+    Level 1: London. Big Ben's clock has to strike right to the second while wind, heat and cold push it off, so you fight back with a pendulum almost 4 m long and a stack of old pennies.
+    Three more bosses are waiting. All 4 levels are on our YouTube channel: @congratsengineer
+    Which one would beat you first: the lost second, the long wait, the rain or 2,000 years? 👇
+  tags:
+    tiktok: "#survival #engineering #bigben #howitworks #learnontiktok"
+    instagram: "#survival #engineering #bigben #howitworks #london"
+    youtube: "#survival #engineering"
+ar:
+  at: "2026-11-24T18:30:00Z"      # 10:30 PT Tue Nov 24 = 21:30 Riyadh; the full video goes public on YouTube at 09:00 PT
+  title: "الساعة اللي ما تتأخر ⏱️ طور البقاء: أنت ضد الوقت"
+  text:
+    default: |
+      بدون إيقاف. بدون إعادة. بدون وقت إضافي. ⏱️
+      المرحلة الأولى: لندن. ساعة بيغ بن لازم تدق في ثانيتها بالضبط، والريح والحر والبرد يخربونها، فتغلبهم ببندول طوله قرابة أربعة متر وكم قرش قديم.
+      باقي قدامك ثلاثة زعماء. المراحل الأربع كلها على قناتنا في يوتيوب: @kef.tenbeni
+      مين كان بيغلبك أول: الثانية الضايعة، الانتظار، المطر ولا ألفين سنة؟ 👇
+    tiktok: |
+      بدون إيقاف. بدون إعادة. بدون وقت إضافي. ⏱️
+      المرحلة الأولى: لندن. ساعة بيغ بن لازم تدق في ثانيتها بالضبط، والريح والحر والبرد يخربونها، فتغلبهم ببندول طوله قرابة أربعة متر وكم قرش قديم.
+      باقي قدامك ثلاثة زعماء في الحلقة الكاملة.
+      مين كان بيغلبك أول: الثانية الضايعة، الانتظار، المطر ولا ألفين سنة؟ 👇
+  tags:
+    tiktok: "#طور_البقاء #هندسة #بيغ_بن #السعودية #تعلم_على_التيك_توك"
+    instagram: "#طور_البقاء #هندسة #بيغ_بن #كيف_تنبني #معلومات"
+    youtube: "#طور_البقاء #هندسة"
