@@ -767,8 +767,9 @@ jobs:
     # Started 13:03:42 PT (History a1ecad30) by the main chat with the style line, its prompt word for word as below
     # (its "13:57 PT" is the main chat's clock). The runner's earlier B (spiral spring, free-spinning spool, pendulum
     # pawl, crash test, phone lunge) went out in the main chat's 13:04 PT dedupe: clip A already shows the pendulum
-    # lock.
-    status: "generating (started: Nov 24 13:57 PT; verified Generating=1)"
+    # lock. Done by 13:16 PT, fetched by the hourly runner.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_210342_a1ecad30-c286-4464-a0ea-980ac76ca0f5.mp4
     file: buildit-seatbelt-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro cutaway of a steel torsion bar twisting inside a seatbelt retractor as the strap pays out slowly under load, slow motion. Shot 2 (5-10 s): macro of a seatbelt pretensioner at the buckle, a small charge fires, a steel cable yanks the buckle down and the slack disappears in a flash, slow motion. Shot 3 (10-15 s): a 1959 Swedish car factory, a V-shaped three-point belt is bolted into a car body shell by robot arms and machines only, warm industrial light. Shot 4 (15-20 s): wide aerial of a very high suspension bridge spanning a deep misty green gorge, its deck far above the river at the bottom, a small car crossing slowly. Shot 5 (20-25 s): a highway at dusk with a long line of glowing car lights, then the dashboard seatbelt warning light goes dark as a buckle clicks, warm light. Shot 6 (25-30 s): funny slow motion, a pizza box belted into a car passenger seat, the car brakes hard, a takeout bag and napkins fly forward and the belted pizza box does not move an inch.

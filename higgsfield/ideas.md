@@ -793,3 +793,19 @@ New content
   (HowStuffWorks) are under seatbelt-B. [ScienceDaily, May 18 2004](https://www.sciencedaily.com/releases/2004/05/040518075747.htm),
   [NRC](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/smoke-detectors),
   [IEEE Spectrum](https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-brk-first-alert-smoke-alarm)
+- Museum of the Future (LINEUP 97), the checks its entry asks for: "At 77 m high, the museum building has seven floors"
+  (ASCE Civil Engineering, Jan 3 2023, by Buro Happold's Tobias Bauly; Gulf News: "Standing 77m tall"), clad in "1,024
+  stainless steel-clad glass fiber reinforced plastic panels" (ASCE; Buro Happold agrees), a number Gulf News ties to
+  "a kilobyte". For its pair: a torus around an "elliptical void" with column-free floors, carried by a steel diagrid
+  shaped by "a bespoke growth algorithm" that "generated thousands of theoretical geometries before converging", with
+  "a single element diameter" and every piece "restricted by size to only what could be transported on inner-city
+  roadways" (ASCE). Each panel "is made up of four layers and was created following a complex 16-step process",
+  "produced using automated robotic arms", and "only several could be produced per day"; the facade took "around 18
+  months" to install (Gulf News); "more than 10,000 bespoke pieces of glass" were cut "using water jets" (ASCE), and
+  the calligraphy is "3D-mapped onto the building’s curved body" (Gulf News). Opened 22 Feb 2022 (Buro Happold). Check
+  before use: the start year (2015 in ASCE; Buro Happold dates the digital prototype to 2016). Ready shots: thousands
+  of trial meshes settling into one steel ring; a robot arm milling one panel mould of 1,024; a truck squeezing a
+  diagrid piece through narrow city streets.
+  [ASCE, Jan 3 2023](https://asce.org/publications-and-news/civil-engineering-source/civil-engineering-magazine/issues/magazine-issue/article/2023/01/museum-of-the-future-sets-standard-for-whats-to-come-in-digital-design),
+  [Gulf News, upd. Feb 16 2022](https://gulfnews.com/uae/revealed-how-dubais-architecturally-unique-museum-of-the-future-was-built-1.85767249),
+  [Buro Happold, Feb 21 2022](https://www.burohappold.com/articles/designing-the-diagrid-using-a-bespoke-growth-algorithm-to-deliver-museum-of-the-future/)
