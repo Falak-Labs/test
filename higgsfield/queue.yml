@@ -319,7 +319,7 @@ jobs:
     # at each corner", "in a 13-hour operation" (vsl.com/projects/dubai-frame; Gulf News: four 300 t jacks, 3.5 mm a
     # second, "over two days"). Wind: "porous cladding and a building damper" (Gulf News, "Get ready for a dizzying
     # sky walk at 150m height").
-    status: todo
+    status: "generating (started: Nov 24 04:14 PT; own shorter prompt used, no style line)"
     file: buildit-dubaiframe-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): seen straight on from the park at sunset, a giant golden picture frame 150 meters tall stands
