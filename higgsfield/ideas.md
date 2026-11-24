@@ -140,3 +140,35 @@ Free footage and pictures
   competitor's article; commercial terms for free output not stated: read Kling's own terms first. Same article:
   Runway's free tier is a one-time 125 credits with a watermark and no commercial licence, and Jimeng's free Seedance
   2.0 restricts commercial use outside China: skip both. [dev.to/Genra, upd. Nov 21 2026](https://dev.to/genra_ai/free-ai-video-generator-whats-really-free-in-2026-4a20)
+
+## 2026-11-24 01:58 PT (hourly runner, cloud run)
+Trends
+- Snow globes are this week's AI-video trend: "Pixar Snow Globe" (70 creators in the week), a 3D figure inside "a
+  glass Christmas snow globe" while the camera "slowly pushes in", made with Seedance and Kling. December use: the
+  line-13 closer still as the build in miniature inside a glass snow globe (no studio name or characters in the
+  prompt). [remakethetrend, upd. Nov 23 2026](https://remakethetrend.com/ai-video-trends/)
+- Tech posts that beat their own usual reach 2x or more (312 posts, 145 accounts): "a small animated UI or diagram
+  for each item instead of showing a plain screen" (5 accounts, median 32x). Our fix shots (A3, A5, B1, B3) already
+  work that way: keep one diagram-like cutaway per fix, never one wide shot for two fixes.
+  [Volume, measured Nov 23 2026](https://tryvolume.app/working/tech-and-ai)
+- Instagram length, secondhand (Instagram's own guide page came back empty): iPhone in Canada quotes its 2026
+  creator guide, "15 to 60 seconds: Considered the primary sweet spot for step-by-step tutorials". Our builds run
+  65-70 s, so a 60 s Instagram cut of one build is a cheap test. Instagram also dropped Reels linking (series) from
+  Oct 28: YouTube's Shorts series stays the only built-in series. [iPhone in Canada, Sep 28 2026](https://www.iphoneincanada.ca/2026/09/28/instagram-shares-ultimate-blueprint-for-viral-reels-in-2026/),
+  [Social Media Today, Oct 15 2026](https://socialmediatoday.com/news/meta-adds-audio-links-and-reference-reels-to-edits/833192)
+
+Free footage and pictures
+- Correction to the 00:58 Kling line: two comparison pages updated Nov 16 2026 say Kling "no longer advertises daily
+  credits" (monthly free credits on login, amount unpublished) and that free clips carry a watermark ("removal is
+  paid") with commercial use "No". PixVerse: 30 credits a day (+60 at sign-up), watermark-free on paid plans only;
+  Vidu's free clips "can't be used commercially". Both pages are vendors, but no free cloud video tier now shows
+  clear commercial rights for the channel after Nov 28. [WaveSpeed](https://wavespeed.ai/blog/posts/best-free-ai-video-generators-2026/),
+  [ImagineArt](https://www.imagine.art/insights/best-free-ai-video-generators)
+- Free with clear rights only on one's own GPU: Wan 2.2 (Apache 2.0, "No credits and no watermark", about 24 GB of
+  GPU memory for the 5B model) and LTX Desktop ("commercial use at no cost for entities under $10M in annual
+  revenue", 24 GB+ NVIDIA). These sessions have no GPU, so after Nov 28 the plan stays: this week's Seedance stock,
+  unlimited pictures (to Jan 13) with our own motion, free stock and archives.
+  [WaveSpeed](https://wavespeed.ai/blog/posts/best-free-ai-video-generators-2026/), [aicomparison, Oct 24 2026](https://aicomparison.ai/free-ai-video-generators/)
+- Thermos (83) proof shot: US patent 872,795 (1907), "Double-walled vessel with a space for a vacuum between the
+  walls", is on Google Patents; its drawing fits the USPTO rule noted on Nov 23 (check it carries no copyright
+  notice). [Google Patents](https://patents.google.com/patent/US872795)

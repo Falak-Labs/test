@@ -138,7 +138,9 @@ jobs:
   - id: fountain-B
     build: 80
     kit: jeddahfountain
-    status: "generating (started: Nov 24 01:38 PT; shots 5-6 reworded)"
+    # Nov 24 01:38 PT: started with shots 5-6 reworded (promenade crowd, umbrella visitor), see History b887a73f.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_093700_b887a73f-62b1-44e6-9645-7f636bf65125.mp4
     file: buildit-fountain-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): new pipes made of special steel that resists salt, shiny. Shot 2 (5-10 s): at night the jet is
@@ -203,3 +205,41 @@ jobs:
       still while people watch from a window. Shot 6 (25-30 s): funny slow motion, a man on a tour bus takes a selfie
       with the sea behind him just as the bus dives into the tunnel, the window goes dark, his surprised face lit
       orange by the tunnel lights.
+
+  - id: thermos-A
+    build: 83
+    kit: thermos
+    # Facts: James Dewar, 1892, to hold liquefied gases; vacuum cuts conduction and convection, silvering cuts
+    # radiation; two vessels joined only at the neck; most leftover heat leaks at the neck and stopper (Wikipedia
+    # "Vacuum flask", Royal Institution rigb.org/node/3131, explainthatstuff.com/vacuumflasks.html).
+    status: todo
+    file: buildit-thermos-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): extreme close-up of a steel vacuum flask standing in deep snow at night, frost crystals on its
+      outside, the cap twists off and thick steam rises from the hot coffee inside, slow push-in. Shot 2 (5-10 s): a
+      winter camp in the desert at night, cold wind blowing sand, a small cup of coffee by the fire loses its steam in
+      minutes, a man in a heavy coat frowns at the cold cup. Shot 3 (10-15 s): cutaway of a glass bottle set inside a
+      bigger glass bottle, the two joined only at the neck, a thin gap of air between the two walls. Shot 4 (15-20 s):
+      heat ripples swirl through the air in the gap and warm the outer glass, a hand wraps around the outside and
+      feels it warm. Shot 5 (20-25 s): in an 1890s laboratory a pump draws the air out of the gap between the two
+      glass walls, then gloved hands seal the bottle's small glass tip with a little flame, nobody's face in frame.
+      Shot 6 (25-30 s): infrared thermal camera view of the double glass bottle glowing orange and yellow, the heat
+      still glowing out through the empty gap.
+  - id: thermos-B
+    build: 83
+    kit: thermos
+    # Facts: glass flasks break when dropped; William Stanley Jr. made the first all-steel vacuum bottle in 1913
+    # (Wikipedia "Stanley (drinkware company)"). B4 teases build 84, the Hoover Dam (LINEUP).
+    status: todo
+    file: buildit-thermos-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): the two glass walls get a thin shiny silver coating like a mirror, the orange heat glow bounces
+      back inside, the bottle now shines like a mirror. Shot 2 (5-10 s): a mirrored glass flask slips from a worker's
+      hand onto a stone floor and breaks into shiny silver pieces, hot tea splashing, slow motion. Shot 3 (10-15 s):
+      cutaway of a modern stainless steel flask, two thin steel walls joined at a narrow neck with empty space between
+      them, a thick stopper screws in, the drink inside steaming. Shot 4 (15-20 s): a giant curved concrete dam wedged
+      in a narrow desert canyon, four tall intake towers standing in the blue lake behind it, aerial at golden hour.
+      Shot 5 (20-25 s): sunrise on a snowy mountain top, climbers in thick jackets pour steaming tea from a steel
+      flask into cups and share it in the freezing wind, everyone smiling. Shot 6 (25-30 s): funny slow motion, a man
+      at his office desk opens a flask of hot soup and the steam fogs up his glasses completely, he freezes with the
+      spoon in the air.
