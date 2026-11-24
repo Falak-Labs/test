@@ -108,8 +108,8 @@ Rules:
 73. idea: the Lighthouse of Alexandria, the Pharos (a fire seen far out at sea; its stones now lie in the harbour and in Qaitbay's fort) (taken: evening run of 2026-11-23)
 74. idea: Maraya in AlUla, the world's largest mirrored building (it disappears into the Saudi desert) (taken: evening run of 2026-11-23)
 75. idea: India's Chand Baori stepwell (about 3,500 steps down to cool water) (taken: evening run of 2026-11-23)
-76. idea: a pressure cooker
-77. idea: the Golden Gate Bridge (its "International Orange" was only the primer, and it was built into the fog and the tides)
+76. idea: a pressure cooker (taken: midday run of 2026-11-24)
+77. idea: the Golden Gate Bridge (its "International Orange" was only the primer, and it was built into the fog and the tides) (taken: midday run of 2026-11-24)
 78. idea: an air fryer (a small oven that "fries" with a whirlwind of hot air)
 79. idea: the Kuwait Towers, water towers on the Gulf with a revolving deck on top
 80. idea: Jeddah's giant sea fountain (King Fahd's Fountain, the tallest fountain in the world: sea water shot higher than most skyscrapers)
