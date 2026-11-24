@@ -239,7 +239,8 @@ def main():
           f"[c][bar]overlay=x='-w+w*t/{total:.3f}':y=0:shortest=1[v];"
           f"[1:a]loudnorm=I=-13.2:TP=-1.5:LRA=11[a]")
     run(["ffmpeg", "-y", "-v", "error", "-i", joined, "-i", mix, "-filter_complex", fc, "-map", "[v]", "-map", "[a]",
-         "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
+         "-c:v", "libx264", "-preset", "medium", "-crf", "23", "-maxrate", "3M", "-bufsize", "6M", "-pix_fmt", "yuv420p",
+         "-c:a", "aac", "-b:a", "192k",
          "-ar", "48000", "-t", f"{total:.3f}", "-movflags", "+faststart", tmp])
     os.replace(tmp, final)
     run(["ffmpeg", "-y", "-v", "error", "-i", final, "-frames:v", "1", os.path.join(outd, "cover.png")])
