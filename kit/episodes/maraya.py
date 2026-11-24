@@ -23,46 +23,66 @@ SUNSETP = {"top": "#1A1440", "upper": "#3B2A6A", "mid": "#8A4A7A", "low": "#E07A
            "space_top": "#010208", "space_mid": "#040817", "space_low": "#0A1232"}
 NIGHTP2 = {"top": "#030616", "upper": "#0A1238", "mid": "#1A2458", "low": "#2E3570", "horizon": "#4A4A8A",
            "space_top": "#010208", "space_mid": "#040817", "space_low": "#0A1232"}
-ROCK = ("#C0623A", "#8E3F28", "#5A2418")         # sandstone: lit, mid, shade
-SAND = ("#D9A066", "#A86B3A")
+ROCK = ("#D07848", "#9A4A2E", "#5E2A1C")         # sandstone: lit, mid, shade
+SAND = ("#C98E58", "#8E5A30")
 BW, BH = 200.0, 230.0                            # the hall: half width, height (world units)
 CONCRETE = ("#B9B2A6", "#8E877C")
 
 
-def cliff_shape(side, seed, x0, x1, top):
-    """A sandstone cliff (world): side -1 left, 1 right; a jagged top around y = top."""
+def cliff_shape(side, seed, inner, outer, top):
+    """A rounded sandstone outcrop (world): side -1 = on the left (inner edge on its right), 1 = on the right."""
     rng = random.Random(seed)
-    pts = [(x0, 40)]
-    n = 14
-    for i in range(n + 1):
-        x = lerp(x0, x1, i / n)
-        y = top + rng.uniform(-60, 60) + (abs(x) - abs(x1 if side < 0 else x0)) * 0.0
-        pts.append((x, y))
-    pts.append((x1, 40))
-    return path_of(pts, close=True)
+    p = skia.Path()
+    p.moveTo(inner, 40)
+    y = 0.0
+    x = inner
+    while y > top + 90:                                                     # the inner wall, bulging
+        ny = y - rng.uniform(70, 120)
+        nx = inner - side * rng.uniform(-10, 34)
+        p.quadTo(x - side * rng.uniform(10, 40), (y + ny) / 2, nx, ny)
+        x, y = nx, ny
+    n = 6
+    for i in range(1, n + 1):                                               # the rounded top
+        nx = lerp(inner, outer, i / n)
+        ny = top + rng.uniform(-50, 50) + abs(i - 2) * 10
+        p.quadTo((x + nx) / 2, min(y, ny) - rng.uniform(30, 70), nx, ny)
+        x, y = nx, ny
+    p.lineTo(outer, 40)
+    p.close()
+    return p
+
+
+def acacia(c, x, y, s, tone=0.0, a=1.0):
+    c.drawLine(x, y, x - 4 * s, y - 40 * s, P(mix("#5A3A22", "#1A1428", tone), a, stroke=5 * s))
+    c.drawOval(R(x - 46 * s, y - 62 * s, 92 * s, 26 * s), P(mix("#5E7A3A", "#1E2A2A", tone), a))
 
 
 def landscape(c, t, tone=0.0, flip=False, pal_k=0.0):
-    """The valley: two cliffs, a far mesa, the sand floor (world). tone 0 day .. 1 night."""
-    sc = 1.0
+    """The valley: rounded sandstone cliffs on both sides, a far mesa, the sand floor (world). tone 0 day .. 1 night."""
     if flip:
         c.save()
         c.scale(-1, 1)
     rng = random.Random(3)
-    far = path_of([(-1800, 0), (-1500, -260), (-1100, -300), (-900, -220), (-600, -240), (-300, -190), (100, -230),
-                   (500, -210), (900, -280), (1300, -250), (1800, -320), (1800, 0)], close=True)
+    far = path_of([(-1800, 0), (-1500, -260), (-1100, -300), (-900, -220), (-600, -240), (-300, -170), (100, -210),
+                   (500, -190), (900, -280), (1300, -250), (1800, -320), (1800, 0)], close=True)
     c.drawPath(far, P(mix("#9A5E4A", "#2A2550", tone), 0.9))
-    for side, seed, x0, x1, top in ((-1, 5, -1900, -330, -560), (1, 7, 330, 1900, -600)):
-        p = cliff_shape(side, seed, x0, x1, top)
-        c.drawPath(p, lin_paint(x0, 0, x1, 0, [mix(ROCK[0], "#3A2A50", tone), mix(ROCK[1], "#2A1E40", tone),
-                                                mix(ROCK[2], "#1A1430", tone)] if side < 0 else
-                                [mix(ROCK[2], "#1A1430", tone), mix(ROCK[1], "#2A1E40", tone), mix(ROCK[0], "#3A2A50", tone)]))
-        for k in range(9):                                                  # layers in the rock
-            yy = top + 80 + k * 70
-            c.drawLine(x0, yy + rng.uniform(-6, 6), x1, yy + rng.uniform(-6, 6), P(mix("#7A3426", "#140F24", tone), 0.35, stroke=3))
-        for k in range(6):                                                  # vertical cracks
-            xx = rng.uniform(x0 + 60, x1 - 60)
-            c.drawLine(xx, top + 40, xx + rng.uniform(-30, 30), 0, P(mix("#6A2A1E", "#120D20", tone), 0.4, stroke=4))
+    for side, seed, inner, outer, top in ((-1, 5, -175, -1200, -520), (1, 7, 175, 1200, -560)):
+        p = cliff_shape(side, seed, inner, outer, top)
+        c.drawPath(p, lin_paint(0, top - 60, 0, 0, [mix(ROCK[0], "#3A2A50", tone), mix(ROCK[1], "#2A1E40", tone),
+                                                     mix(ROCK[2], "#1A1430", tone)]))
+        c.save()
+        c.clipPath(p, skia.ClipOp.kIntersect, True)
+        for k in range(10):                                                 # layers in the rock
+            yy = top + 40 + k * 56
+            c.drawLine(inner - 400, yy + rng.uniform(-8, 8), inner + 400 * -side + side * 0, yy + rng.uniform(-8, 8),
+                       P(mix("#4A1E14", "#140F24", tone), 0.30, stroke=4))
+            c.drawLine(inner - 1200, yy, inner + 1200, yy + 6, P(mix("#4A1E14", "#140F24", tone), 0.25, stroke=3))
+        for k in range(7):                                                  # vertical cracks
+            xx = inner + side * rng.uniform(30, 600)
+            c.drawLine(xx, top - 40, xx + rng.uniform(-30, 30), 0, P(mix("#3A140C", "#120D20", tone), 0.4, stroke=5))
+        c.drawRect(R(inner - (40 if side > 0 else -10), top - 100, 50 * -side if side < 0 else 50, -top + 100),
+                   P(mix("#F2A070", "#3A2A60", tone), 0.18))                # sunlit inner edge
+        c.restore()
     c.drawRect(R(-2400, 0, 4800, 1600), lin_paint(0, 0, 0, 700, [mix(SAND[0], "#2A2448", tone), mix(SAND[1], "#141026", tone)]))
     for k in range(5):
         yy = 30 + k * 60
@@ -72,7 +92,12 @@ def landscape(c, t, tone=0.0, flip=False, pal_k=0.0):
         while xx < 2400:
             xx += 120
             p.lineTo(xx, yy + math.sin(xx * 0.004 + k) * 12)
-        c.drawPath(p, P(mix("#F5D2A6", "#3A3460", tone), 0.35, stroke=3))
+        c.drawPath(p, P(mix("#E8B98A", "#3A3460", tone), 0.3, stroke=3))
+    for x, sc in ((-280, 0.9), (250, 1.1), (-420, 0.7), (380, 0.8)):
+        acacia(c, x, 4, sc, tone)
+    for k in range(10):
+        rx = rng.uniform(-600, 600)
+        c.drawOval(R(rx, 30 + rng.uniform(0, 160), rng.uniform(12, 30), rng.uniform(6, 12)), P(mix("#7A4A2A", "#1A1428", tone), 0.8))
     if flip:
         c.restore()
 
