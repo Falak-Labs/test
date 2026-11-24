@@ -23,3 +23,4 @@
 - Nov 23 21:19 PT · Seedance 2.5 unlimited 30 s 9:16 · Build-It 76 pressure cooker job B (queue cooker-B) → buildit-cooker-sdB.mp4
 - Nov 23 21:41 PT · Seedance 2.5 unlimited 30 s 9:16 · Build-It 77 Golden Gate job A (queue goldengate-A) → buildit-goldengate-sdA.mp4
 - Note Nov 23 21:55 PT (hourly runner): this task runs in the cloud, without the owner's Chrome, so its runs cannot press Generate or make stills. They can still read History with no Chrome and no credits: Higgsfield MCP show_generations (type video, only_completed false) gives each job's status, full prompt and results.rawUrl (the clip link for ai_media.py fetch). goldengate-A was fetched that way. The main chat's own slot check keeps starting jobs meanwhile.
+- Nov 23 21:58 PT · Seedance 2.5 unlimited 30 s 9:16 · Build-It 77 Golden Gate job B (queue goldengate-B) → buildit-goldengate-sdB.mp4

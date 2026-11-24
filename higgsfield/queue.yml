@@ -56,7 +56,7 @@ jobs:
   - id: goldengate-B
     build: 77
     kit: goldengate
-    status: todo
+    status: generating (started: Nov 23 21:58 PT)
     file: buildit-goldengate-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): workers spin the main cable from thousands of thin steel wires, a wheel running back and forth
