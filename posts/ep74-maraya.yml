@@ -1,0 +1,33 @@
+episode: 74
+date: 2026-11-24
+video:
+  en: media/ep74-maraya-en.mp4
+  ar: media/ep74-maraya-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-25T00:00:00Z"    # 16:00 PT Tue Nov 24
+  title: "Maraya: The Building That Vanishes in the Desert 🪞"
+  text: |
+    A concert hall so covered in mirrors it vanishes into the desert. 🪞
+    Maraya in AlUla, Saudi Arabia, wears almost 10,000 m² of mirror on its four walls, so you see the rocks and the sky instead of the building. The mirrors bounce the desert sun back to the sky, every panel hangs with a small gap so the glass can grow in the heat and shrink at night without cracking, and a tough coating fights the sand. Guinness lists it as the largest mirrored building in the world.
+    Would you go to a concert inside? 👇
+  next: "a well with 3,500 steps 🪜"
+  seo: "Maraya, the mirrored concert hall in AlUla: Maraya (Arabic for mirrors) is a concert hall in the Ashar Valley of AlUla in north-west Saudi Arabia, a desert valley of sandstone cliffs not far from the Nabataean tombs of Hegra, Saudi Arabia's first UNESCO World Heritage Site. Designed by the Italian studio Giò Forma, it is a simple box whose four walls are clad in about 9,740 m² of mirrored glass, so it reflects the cliffs, the sand and the sky and seems to disappear into the landscape. In 2020 Guinness World Records named it the largest mirrored building in the world. Inside is a hall with about 500 seats for concerts and events. A mirrored skin reflects much of the desert sun instead of soaking it up, glass panels on a façade are hung with small gaps and flexible joints so they can expand and contract between hot days and cold nights, and protective coatings help glass stand up to heat and blowing sand."
+  tags:
+    tiktok: "#maraya #alula #saudiarabia #architecture #learnontiktok"
+    instagram: "#maraya #alula #saudiarabia #architecture #engineering"
+    youtube: "#maraya #alula #architecture"
+ar:
+  at: {default: "2026-11-24T20:00:00Z", tiktok: "2026-11-24T20:30:00Z"}    # 12:00 PT (TikTok 12:30 PT) Tue Nov 24 = 11 pm Riyadh
+  title: "مرايا العلا: المبنى اللي يختفي في الصحرا 🪞"
+  text: |
+    مبنى كامل ملبّس مرايا لين يختفي في الصحرا! 🪞
+    مرايا العلا جدرانها الأربعة مغطاة بقريب عشرة آلاف متر مربع مرايا، فتشوف الجبال والسما بداله. والمرايا ترد شمس الصحرا للسما، وكل لوح معلّق وحوله فراغ صغير عشان القزاز يكبر بالحر وينكمش بالبرد بدون ما ينكسر، وعليه طبقة قوية تتحمل الرمل. وموسوعة غينيس تقول إنه أكبر مبنى مرايا بالعالم.
+    رحت له قبل؟ 👇
+  next: "بير فيه ثلاثة آلاف وخمسمية درجة 🪜"
+  seo: "مرايا العلا، قاعة الحفلات اللي كلها مرايا: مرايا قاعة حفلات في وادي عشار في العلا شمال غرب السعودية، وادي صحراوي بين جبال من الحجر الرملي، مو بعيد عن مقابر الأنباط في الحجر، أول موقع سعودي في قائمة التراث العالمي لليونسكو. صممها استوديو جيو فورما الإيطالي، وهي صندوق بسيط جدرانه الأربعة مغطاة بحوالي تسعة آلاف وسبعمية وأربعين متر مربع من القزاز العاكس، فتعكس الجبال والرمل والسما وكأنها تختفي في المكان. وفي ألفين وعشرين سجلتها موسوعة غينيس للأرقام القياسية كأكبر مبنى مغطى بالمرايا في العالم. وداخلها قاعة فيها تقريبا خمسمية كرسي للحفلات والفعاليات. والواجهة العاكسة ترد كثير من شمس الصحرا بدال ما تمتصها، وألواح القزاز في الواجهات تتعلق وحولها فراغات صغيرة وفواصل مرنة عشان تكبر وتنكمش بين حر النهار وبرد الليل، والطبقات الواقية تساعد القزاز يتحمل الحر والرمل."
+  tags:
+    tiktok: "#مرايا #العلا #السعودية #هندسة #تعلم_على_التيك_توك"
+    instagram: "#مرايا #العلا #السعودية #هندسة #عمارة"
+    youtube: "#مرايا_العلا #العلا #هندسة"
