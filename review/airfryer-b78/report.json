@@ -1,0 +1,16 @@
+{
+ "slug": "airfryer-b78",
+ "kit": "airfryer",
+ "style": "seedance",
+ "en": {
+  "duration": 73.4,
+  "lufs": -15.0,
+  "peak": -1.2,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 25.8,
+  "cover": true,
+  "ok": true
+ }
+}
