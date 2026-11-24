@@ -1,0 +1,27 @@
+{
+ "slug": "pen-b90",
+ "kit": "pen",
+ "style": "seedance",
+ "en": {
+  "duration": 74.1,
+  "lufs": -14.9,
+  "peak": -1.2,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 24.7,
+  "cover": true,
+  "ok": true
+ },
+ "ar": {
+  "duration": 73.5,
+  "lufs": -15.0,
+  "peak": -1.2,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 25.0,
+  "cover": true,
+  "ok": true
+ }
+}

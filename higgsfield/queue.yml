@@ -657,7 +657,7 @@ jobs:
     # section", "These derricks could pull themselves up the curved legs of the Arch"; foundations "extend 60 feet
     # deep, with 30 feet embedded in bedrock" (NPS, "Gateway Arch Architecture"). 630 ft = 192 m. No faces: steel,
     # cranes, workers seen from afar.
-    status: todo
+    status: "generating (started: Nov 24 12:05 PT; verified Generating=1)"
     file: buildit-arch-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): 1965, two giant curved legs of shining stainless steel rise from a riverside park toward each
