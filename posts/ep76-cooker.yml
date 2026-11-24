@@ -1,0 +1,35 @@
+episode: 76
+date: 2026-11-26
+video:
+  en: media/ep76-cooker-en.mp4
+  ar: media/ep76-cooker-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-26T13:30:00Z"    # 05:30 PT Thu Nov 26: the slot after 90 (11:00Z) in the 2.5 h grid of builds 78-90
+  title: "Pressure Cooker: Water Hotter Than Boiling 🍲"
+  text: |
+    A pot that gets water hotter than boiling, and cooks beans in minutes. 🍲
+    Lock the lid and the trapped steam raises the pressure, so the water boils at about 120°C instead of 100°C. A little weight lets the extra steam out (that's the whistle), a backup plug melts if the vent clogs, and a pin keeps the lid locked until the pressure is gone.
+    How many whistles for your lentils? 👇
+  next: "the Golden Gate Bridge 🌉"
+  seo: "How a pressure cooker works: the sealed lid traps steam, the pressure rises, and water boils at about 120 °C instead of 100 °C, so food cooks much faster, even high in the mountains where water boils cooler. A weighted valve lets extra steam out (the whistle), a safety plug melts if the vent clogs, and a locking pin keeps the lid shut until the pressure is gone."
+  tags:
+    tiktok: "#pressurecooker #cooking #howitworks #learnontiktok"
+    instagram: "#pressurecooker #cooking #howitworks #engineering"
+    youtube: "#pressurecooker #cooking #howitworks"
+ar:
+  at:
+    default: "2026-11-26T16:30:00Z"    # Instagram 08:30 PT Thu Nov 26 = 19:30 Riyadh (the slot after 90's 14:00Z)
+    tiktok: "2026-11-26T20:30:00Z"     # 12:30 PT: 2 h after the show's Arabic TikTok (10:30 PT), 6.5 h after 90's
+  title: "قدر الضغط: ماي أحر من الغليان 🍲"
+  text: |
+    قدر يخلي الماي أحر من الغليان، ويطبخ الفاصوليا في دقايق! 🍲
+    تقفل الغطا والبخار ينحبس فيزيد الضغط، والماي يغلي على حوالي ١٢٠ درجة بدل ١٠٠. الصفارة تطلع البخار الزايد، وسدادة الأمان تذوب لو انسدت الفتحة، والمسمار يقفل الغطا لين يروح الضغط.
+    كم صفارة يبي لحم الكبسة عندكم؟ 👇
+  next: "جسر البوابة الذهبية 🌉"
+  seo: "كيف يشتغل قدر الضغط: الغطا المقفول يحبس البخار فيزيد الضغط ويغلي الماي على حوالي ١٢٠ درجة بدل ١٠٠، فينطبخ الأكل أسرع بكثير حتى فوق في الجبال اللي يغلي فيها الماي على حرارة أقل. الصفارة تطلع البخار الزايد، وسدادة الأمان تذوب لو انسدت الفتحة، ومسمار القفل يمسك الغطا لين يروح الضغط."
+  tags:
+    tiktok: "#قدر_الضغط #طبخ #كيف_يشتغل #السعودية #تعلم_على_التيك_توك"
+    instagram: "#قدر_الضغط #طبخ #كيف_يشتغل #السعودية #معلومات"
+    youtube: "#قدر_الضغط #طبخ #كيف_يشتغل"

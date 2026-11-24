@@ -1,0 +1,35 @@
+episode: 77
+date: 2026-11-26
+video:
+  en: media/ep77-goldengate-en.mp4
+  ar: media/ep77-goldengate-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-26T16:00:00Z"    # 08:00 PT Thu Nov 26 (2.5 h after 76)
+  title: "Golden Gate Bridge: Its Orange Was the Undercoat 🌉"
+  text: |
+    The Golden Gate's famous orange started out as the undercoat. 🌉
+    The steel arrived in a reddish primer, and architect Irving Morrow kept the color because it stands out in the fog (the Navy wanted black and yellow stripes). The south tower was built inside a concrete tub in the open sea, each main cable is spun from 27,572 wires, and a safety net under the deck saved 19 workers.
+    Have you walked across it? 👇
+  next: "the Gateway Arch 🌈"
+  seo: "How the Golden Gate Bridge was built: opened in 1937 across a strait with strong tides, ocean swells and fog, its south tower stands in the open sea, built inside a concrete fender that was pumped dry. Its International Orange came from the red primer on the steel and stays visible in fog. Two main cables of 27,572 wires each carry the deck, and a safety net under it saved 19 workers, the Halfway to Hell Club. About 200,000 people walked across on opening day."
+  tags:
+    tiktok: "#goldengatebridge #sanfrancisco #engineering #learnontiktok"
+    instagram: "#goldengatebridge #sanfrancisco #engineering #architecture"
+    youtube: "#goldengatebridge #sanfrancisco #engineering"
+ar:
+  at:
+    default: "2026-11-26T20:00:00Z"    # Instagram 12:00 PT Thu Nov 26 = 23:00 Riyadh (1.5 h after the show's Arabic posts at 10:30 PT)
+    tiktok: "2026-11-26T23:30:00Z"     # 15:30 PT: 3 h after 76's Arabic TikTok, 5 h after the show's
+  title: "جسر البوابة الذهبية: البرتقالي كان طبقة أساس 🌉"
+  text: |
+    لون جسر البوابة الذهبية البرتقالي المشهور كان مجرد طبقة أساس! 🌉
+    الحديد وصل مدهون بطبقة حمرا، والمهندس خلاها لأنها تبان في الضباب، والبحرية كانت تبيه مخطط أسود وأصفر. البرج الجنوبي انبنى داخل حوض خرسانة وسط البحر، وكل كيبل فيه ٢٧٥٧٢ سلك، وشبكة تحت الجسر أنقذت ١٩ عامل.
+    تمشي عليه؟ 👇
+  next: "قوس البوابة 🌈"
+  seo: "كيف انبنى جسر البوابة الذهبية: افتتح سنة ١٩٣٧ فوق مضيق فيه تيارات قوية وموج وضباب، وبرجه الجنوبي واقف في البحر المفتوح وانبنى داخل حوض خرسانة شفطوا منه الماي. لونه البرتقالي جا من طبقة الأساس الحمرا على الحديد ويبان في الضباب. كيبلين كل واحد فيه ٢٧٥٧٢ سلك شايلين الجسر، وشبكة تحته أنقذت ١٩ عامل. ويوم الافتتاح مشى عليه حوالي ٢٠٠ ألف شخص."
+  tags:
+    tiktok: "#جسر_البوابة_الذهبية #سان_فرانسيسكو #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#جسر_البوابة_الذهبية #سان_فرانسيسكو #هندسة #السعودية #معلومات"
+    youtube: "#جسر_البوابة_الذهبية #سان_فرانسيسكو #هندسة"

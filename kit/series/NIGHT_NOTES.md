@@ -1850,3 +1850,57 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
 - Build 88 Pont du Gard made (VOICE_SPEED=1.11, both passed): media/pontdugard-b88-en.mp4 74 s, -ar.mp4 70 s. Must be posted. Tease = Noor Ouarzazate (build 89): noor-A generating since 07:13 PT, noor-B todo.
 - Build 89 Noor Ouarzazate made (VOICE_SPEED=1.09, both passed): media/noor-b89-en.mp4 74 s, -ar.mp4 73 s. Must be posted. Tease = ballpoint pen (build 90): pen-A generating since 07:52 PT, pen-B todo; arch-A/B (build 91) todo.
 - Build 90 ballpoint pen made (VOICE_SPEED=1.10 after 1.07 gave EN 76 s): media/pen-b90-en.mp4 74 s, -ar.mp4 73 s, post file posts/ep90-pen.yml. Tease = Gateway Arch (build 91): arch-A generating since 12:05 PT, arch-B todo. Builds 78-89 post files were missing; created Nov 24, queued on Buffer.
+
+## Nov 24 2026 (midday run, 11:23 PT): 76 a pressure cooker, 77 the Golden Gate Bridge (Seedance; post Thu Nov 26)
+- TODAY Tue Nov 24 PT, TOMORROW Wed Nov 25 PT, but TOMORROW was already full: the main chat posted builds 78-90 every
+  2.5 h (EN 21:00 PT Nov 24 -> 03:00 PT Nov 26, AR 00:00 PT Nov 25 -> 06:00 PT Nov 26), about 9-10 builds per language
+  on Nov 25 PT, and all four Buffer queues were 10 of 10 (25 targets waiting). So this run's builds take the next two
+  slots of that 2.5 h grid after 90, on Thu Nov 26 PT: 76 EN 05:30 PT (13:30Z), AR Instagram 08:30 PT (16:30Z), AR
+  TikTok 12:30 PT (20:30Z); 77 EN 08:00 PT (16:00Z), AR Instagram 12:00 PT (20:00Z), AR TikTok 15:30 PT (23:30Z) (Arabic
+  TikToks 3 h apart and 2 h from the show's 10:30 PT; Arabic Instagram clear of the show's 10:30). FOR THE MAIN CHAT AND
+  THE EVENING RUN: schedule 91 after 77 (EN from 18:30Z, AR from 21:30Z Nov 26), because 77's line 10 promises the
+  Gateway Arch. Posting order 89 -> 90 -> 76 -> 77 -> 91: 90's own promise of the arch arrives two posts late.
+- Only two builds: 90 (pen) was being made by the main chat (scripts 11:39 PT, posted 12:02 PT) and no other footage was
+  done (arch-A/B, seatbelt-A/B todo at 11:45 PT). No v2 build: the v2 fallback is for days with empty slots, and the
+  queues were overfull. 76-77 were the footage-ready LINEUP entries nobody had made.
+- 78-90 were not in episodes.yml, so the LINEUP rule would have let a run pick them again: episodes.yml now lists them
+  (look: sd, media slugs <kit>-bNN) and LINEUP 78-90 say "made by the main chat".
+- FIXED, seedance_cut.py Arabic captions: two white words side by side merged into one libass run, and libass reversed
+  them inside it, so in every 3-word chunk the words swapped places whenever the first or the last word was gold (the
+  word order jumped as the highlight moved: "الألواح العادية الشمسية" in noor-b89-ar at 7.9 s). Now each word alternates
+  two whites (&H00FFFFFF / &H00FEFEFE). EVERY Seedance Arabic video made before 12:30 PT Nov 24 (78-90) has the bug;
+  they are already queued in Buffer, so a re-cut needs a new file name and an edit of the Buffer post (the main
+  chat's call; the owner was told).
+- New: a shot may carry "len" (seconds of footage to use); the cutter slows that shot to fill its line, so a long line
+  no longer runs into the next Seedance shot. 76-77 use one detected shot per line (ffmpeg scdet threshold 4; cuts
+  near 5/10/15/20/25 s, some shots have a second cut inside). 77's line 10 uses pen-B4 (the Gateway Arch at sunset):
+  goldengate-B4 is an air fryer (78), already posted.
+- post.py now fills free Buffer queue places in posting order (earliest fixed time first), not in file-name order:
+  ep76/ep77 sorted before ep78-89 and would have jumped the queue ahead of posts due a day earlier.
+- seedance_publish.py keeps the other language in report.json when one language is made again.
+- Scripts (Ballen / Mansour v4 tags, 178-181 EN words, 133-138 AR words): cooker hook "this pot gets water hotter
+  than boiling", the Andes kitchen, lid + rubber seal, rattling pot, weight that whistles, a bean skin plugs it, the
+  melting backup plug, the lid lock pin, India counts whistles; Golden Gate hook "its famous orange started out as the
+  undercoat", tides/waves/fog, the concrete tub pumped dry, a gray tower lost in fog, Morrow kept the orange (the Navy
+  wanted bumblebee stripes), 27,572 wires a cable, the net and the Halfway to Hell Club (19 men), 200,000 walkers on
+  opening day. Arabic tags: "وبتلبس المرقة", "امش عليه بشماغك الجديد... والهوا ياخذه ذكرى". Research: WebSearch titles
+  only (Wikipedia pressure cooking / steam digester / high-altitude cooking, TTK Prestige and Wonderchef whistle guides,
+  Presto manuals; NPR "accidental color", goldengate.org "a bathtub for the south tower", "cross section of a main
+  cable", Wikipedia Half Way to Hell Club, History.com "6 things", May 27 1937 opening).
+- check_hook.py: "Y'all," / "يا جماعة،" reads as a second picture (the old frame's comma test) in the Seedance style;
+  timings after one rewrite pass: cooker EN hook 5.0 s, problem by 10.4 s; AR 4.7 / 10.2 s; Golden Gate EN 5.3 / 9.7 s,
+  AR 5.4 / 10.1 s (better than 78-90, which tell the problem at about 12.7 s). Shipped.
+- Whisper small on Ballen: "rubber ring" -> "rain" (now "rubber seal"), "Golden Gate" -> "Golden Day" (now "San
+  Francisco's Golden Gate Bridge"), "in fog" -> "and fog" (reworded twice), "Hell Club" -> "Hill Club" (caption carries
+  it). Mansour: "تسعطعش" heard "ساطع" (now "تسعة عشر"); "قدر الضغط" is heard "قدرة وغضب" but "اضغط" is heard right (left).
+- Voices (tempo 1.12 both, no VOICE_SPEED): cooker EN 68.5 s / AR 67.7 s; Golden Gate EN 72.8 s / AR 71.2 s.
+  ElevenLabs: about 5,100 characters with the remakes (EN 1,130 + 1,170, AR 920 + 974, remakes 335 + 243 + 239 + 119).
+- Videos (seedance_publish, gates ok): ep76-cooker EN 69.9 s -14.7 LUFS / AR 69.1 s -14.9; ep77-goldengate EN 74.2 s
+  -14.9 / AR 72.6 s -15.0 (EN close to the 75 s gate). Whisper small on both English mixes: number formats only.
+- Pages: retired ep42, ep62, ep66-ep72 (sent, or only refused Arabic TikToks left; 66-72 in the Studio ledger):
+  media/ 1.4 GB -> 1.06 GB, about 1.15 GB with 76-77. 78-90 alone are about 640 MB: retire them as their posts go out.
+- Status 19:37Z: Nov 24 PT 70, 71 all out; 72 all but its Arabic TikTok (spam, 14:00Z); 73 Arabic Instagram out, its
+  Arabic TikTok refused (16:30Z); sm04's Arabic TikTok refused (18:30Z). Arabic TikTok in error: 48, 50, 56, 62, 66-69,
+  72, 73 (+ sm04). Not requeued: every queue is 10 of 10 with 25 new targets waiting, and a requeue takes a place
+  from them. yt_desk check: nothing overdue.
+- LINEUP: 96 a hand warmer, 97 the Museum of the Future, 98 Jewel Changi's Rain Vortex, 99 instant noodles appended.
