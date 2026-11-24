@@ -135,10 +135,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     open(path, "w").write(head + "\n".join(ev) + "\n")
 
 
-def cut_shot(src, at, dur, out, push=0.07, shake=False):
+def cut_shot(src, at, dur, out, push=0.07, shake=False, span=None):
     still = src.lower().endswith((".png", ".jpg", ".jpeg", ".webp"))
     sd = dur + 1 if still else probe_dur(src)
     avail = max(0.5, sd - at)
+    if span and not still:   # optional "len" in the spec: use only this much footage (one Seedance shot), slowed to fit
+        avail = max(0.5, min(avail, float(span)))
     k = max(1.0, dur / avail * 1.01)  # slow a little if the shot is short
     n = int(round(dur * FPS))
     z = f"1+{push}*on/{n}"
@@ -209,7 +211,7 @@ def main():
         f = os.path.join(outd, f"seg{i + 1:02d}.mp4")
         if not os.path.exists(f) or os.environ.get("REDO"):
             cut_shot(s["src"], s.get("at", 0.0), dur, f, push=s.get("push", 0.07),
-                     shake=ln["text"].startswith("But"))
+                     shake=ln["text"].startswith("But"), span=s.get("len"))
         seg_files.append(f)
         print("seg", i + 1, round(dur, 2), s["src"].split("/")[-1], s.get("at", 0))
     lst = os.path.join(outd, "list.txt")
