@@ -1,0 +1,1162 @@
+{
+ "voice": "Easton",
+ "tempo": 0.96,
+ "gap": 0.35,
+ "duration": 61.03,
+ "words": 208,
+ "words_per_sec": 3.41,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.5,
+   "text": "If you dig an upside-down pyramid of stairs, congrats, you just built Chand Baori.",
+   "words": [
+    {
+     "w": "If",
+     "start": 0.14,
+     "end": 0.354
+    },
+    {
+     "w": "you",
+     "start": 0.354,
+     "end": 0.568
+    },
+    {
+     "w": "dig",
+     "start": 0.568,
+     "end": 0.783
+    },
+    {
+     "w": "an",
+     "start": 0.783,
+     "end": 0.997
+    },
+    {
+     "w": "upside-down",
+     "start": 0.997,
+     "end": 1.687
+    },
+    {
+     "w": "pyramid",
+     "start": 1.687,
+     "end": 2.219
+    },
+    {
+     "w": "of",
+     "start": 2.219,
+     "end": 2.433
+    },
+    {
+     "w": "stairs,",
+     "start": 2.433,
+     "end": 2.647
+    },
+    {
+     "w": "congrats,",
+     "start": 2.647,
+     "end": 3.02
+    },
+    {
+     "w": "you",
+     "start": 3.15,
+     "end": 3.369
+    },
+    {
+     "w": "just",
+     "start": 3.369,
+     "end": 3.589
+    },
+    {
+     "w": "built",
+     "start": 3.589,
+     "end": 3.808
+    },
+    {
+     "w": "Chand",
+     "start": 3.808,
+     "end": 4.028
+    },
+    {
+     "w": "Baori.",
+     "start": 4.028,
+     "end": 4.41
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.865,
+   "end": 8.521,
+   "text": "But it hardly rains in this hot desert. So how much cooler is it at the bottom?",
+   "words": [
+    {
+     "w": "But",
+     "start": 4.995,
+     "end": 5.175
+    },
+    {
+     "w": "it",
+     "start": 5.175,
+     "end": 5.356
+    },
+    {
+     "w": "hardly",
+     "start": 5.356,
+     "end": 5.67
+    },
+    {
+     "w": "rains",
+     "start": 5.67,
+     "end": 5.85
+    },
+    {
+     "w": "in",
+     "start": 5.85,
+     "end": 6.03
+    },
+    {
+     "w": "this",
+     "start": 6.03,
+     "end": 6.211
+    },
+    {
+     "w": "hot",
+     "start": 6.211,
+     "end": 6.391
+    },
+    {
+     "w": "desert.",
+     "start": 6.391,
+     "end": 6.705
+    },
+    {
+     "w": "So",
+     "start": 6.845,
+     "end": 6.997
+    },
+    {
+     "w": "how",
+     "start": 6.997,
+     "end": 7.148
+    },
+    {
+     "w": "much",
+     "start": 7.148,
+     "end": 7.3
+    },
+    {
+     "w": "cooler",
+     "start": 7.3,
+     "end": 7.564
+    },
+    {
+     "w": "is",
+     "start": 7.564,
+     "end": 7.716
+    },
+    {
+     "w": "it",
+     "start": 7.716,
+     "end": 7.868
+    },
+    {
+     "w": "at",
+     "start": 7.868,
+     "end": 8.019
+    },
+    {
+     "w": "the",
+     "start": 8.019,
+     "end": 8.171
+    },
+    {
+     "w": "bottom?",
+     "start": 8.171,
+     "end": 8.435
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.885,
+   "end": 13.24,
+   "text": "So you dig a giant square pit that fills up with monsoon rain and the water underground.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.995,
+     "end": 9.203
+    },
+    {
+     "w": "you",
+     "start": 9.203,
+     "end": 9.411
+    },
+    {
+     "w": "dig",
+     "start": 9.411,
+     "end": 9.619
+    },
+    {
+     "w": "a",
+     "start": 9.619,
+     "end": 9.827
+    },
+    {
+     "w": "giant",
+     "start": 9.827,
+     "end": 10.034
+    },
+    {
+     "w": "square",
+     "start": 10.034,
+     "end": 10.242
+    },
+    {
+     "w": "pit",
+     "start": 10.242,
+     "end": 10.45
+    },
+    {
+     "w": "that",
+     "start": 10.45,
+     "end": 10.658
+    },
+    {
+     "w": "fills",
+     "start": 10.658,
+     "end": 10.866
+    },
+    {
+     "w": "up",
+     "start": 10.866,
+     "end": 11.074
+    },
+    {
+     "w": "with",
+     "start": 11.074,
+     "end": 11.282
+    },
+    {
+     "w": "monsoon",
+     "start": 11.282,
+     "end": 11.644
+    },
+    {
+     "w": "rain",
+     "start": 11.644,
+     "end": 11.851
+    },
+    {
+     "w": "and",
+     "start": 11.851,
+     "end": 12.059
+    },
+    {
+     "w": "the",
+     "start": 12.059,
+     "end": 12.267
+    },
+    {
+     "w": "water",
+     "start": 12.267,
+     "end": 12.629
+    },
+    {
+     "w": "underground.",
+     "start": 12.629,
+     "end": 13.145
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 13.604,
+   "end": 16.906,
+   "text": "But every dry month, the water sinks lower and lower down the pit.",
+   "words": [
+    {
+     "w": "But",
+     "start": 13.744,
+     "end": 13.919
+    },
+    {
+     "w": "every",
+     "start": 13.919,
+     "end": 14.354
+    },
+    {
+     "w": "dry",
+     "start": 14.354,
+     "end": 14.529
+    },
+    {
+     "w": "month,",
+     "start": 14.529,
+     "end": 14.704
+    },
+    {
+     "w": "the",
+     "start": 14.884,
+     "end": 15.057
+    },
+    {
+     "w": "water",
+     "start": 15.057,
+     "end": 15.358
+    },
+    {
+     "w": "sinks",
+     "start": 15.358,
+     "end": 15.531
+    },
+    {
+     "w": "lower",
+     "start": 15.531,
+     "end": 15.832
+    },
+    {
+     "w": "and",
+     "start": 15.832,
+     "end": 16.004
+    },
+    {
+     "w": "lower",
+     "start": 16.004,
+     "end": 16.305
+    },
+    {
+     "w": "down",
+     "start": 16.305,
+     "end": 16.478
+    },
+    {
+     "w": "the",
+     "start": 16.478,
+     "end": 16.651
+    },
+    {
+     "w": "pit.",
+     "start": 16.651,
+     "end": 16.824
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.271,
+   "end": 21.698,
+   "text": "So you line three walls with steps, thirty-five hundred of them, all the way down to the water.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.381,
+     "end": 17.584
+    },
+    {
+     "w": "you",
+     "start": 17.584,
+     "end": 17.786
+    },
+    {
+     "w": "line",
+     "start": 17.786,
+     "end": 17.989
+    },
+    {
+     "w": "three",
+     "start": 17.989,
+     "end": 18.192
+    },
+    {
+     "w": "walls",
+     "start": 18.192,
+     "end": 18.395
+    },
+    {
+     "w": "with",
+     "start": 18.395,
+     "end": 18.597
+    },
+    {
+     "w": "steps,",
+     "start": 18.597,
+     "end": 18.8
+    },
+    {
+     "w": "thirty-five",
+     "start": 18.8,
+     "end": 19.303
+    },
+    {
+     "w": "hundred",
+     "start": 19.303,
+     "end": 19.656
+    },
+    {
+     "w": "of",
+     "start": 19.656,
+     "end": 19.859
+    },
+    {
+     "w": "them,",
+     "start": 19.859,
+     "end": 20.062
+    },
+    {
+     "w": "all",
+     "start": 20.062,
+     "end": 20.264
+    },
+    {
+     "w": "the",
+     "start": 20.264,
+     "end": 20.467
+    },
+    {
+     "w": "way",
+     "start": 20.467,
+     "end": 20.67
+    },
+    {
+     "w": "down",
+     "start": 20.67,
+     "end": 20.873
+    },
+    {
+     "w": "to",
+     "start": 20.873,
+     "end": 21.075
+    },
+    {
+     "w": "the",
+     "start": 21.075,
+     "end": 21.278
+    },
+    {
+     "w": "water.",
+     "start": 21.278,
+     "end": 21.631
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 22.062,
+   "end": 25.0,
+   "text": "But walls of earth that deep would cave in and bury the water.",
+   "words": [
+    {
+     "w": "But",
+     "start": 22.192,
+     "end": 22.38
+    },
+    {
+     "w": "walls",
+     "start": 22.38,
+     "end": 22.568
+    },
+    {
+     "w": "of",
+     "start": 22.568,
+     "end": 22.755
+    },
+    {
+     "w": "earth",
+     "start": 22.755,
+     "end": 22.943
+    },
+    {
+     "w": "that",
+     "start": 22.943,
+     "end": 23.131
+    },
+    {
+     "w": "deep",
+     "start": 23.131,
+     "end": 23.319
+    },
+    {
+     "w": "would",
+     "start": 23.319,
+     "end": 23.507
+    },
+    {
+     "w": "cave",
+     "start": 23.507,
+     "end": 23.695
+    },
+    {
+     "w": "in",
+     "start": 23.695,
+     "end": 23.882
+    },
+    {
+     "w": "and",
+     "start": 23.882,
+     "end": 24.07
+    },
+    {
+     "w": "bury",
+     "start": 24.07,
+     "end": 24.397
+    },
+    {
+     "w": "the",
+     "start": 24.397,
+     "end": 24.585
+    },
+    {
+     "w": "water.",
+     "start": 24.585,
+     "end": 24.912
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 25.365,
+   "end": 30.229,
+   "text": "So the walls lean back as they go up, in thirteen stone floors, like an upside-down pyramid.",
+   "words": [
+    {
+     "w": "So",
+     "start": 25.475,
+     "end": 25.701
+    },
+    {
+     "w": "the",
+     "start": 25.701,
+     "end": 25.926
+    },
+    {
+     "w": "walls",
+     "start": 25.926,
+     "end": 26.152
+    },
+    {
+     "w": "lean",
+     "start": 26.152,
+     "end": 26.377
+    },
+    {
+     "w": "back",
+     "start": 26.377,
+     "end": 26.603
+    },
+    {
+     "w": "as",
+     "start": 26.603,
+     "end": 26.828
+    },
+    {
+     "w": "they",
+     "start": 26.828,
+     "end": 27.054
+    },
+    {
+     "w": "go",
+     "start": 27.054,
+     "end": 27.279
+    },
+    {
+     "w": "up,",
+     "start": 27.279,
+     "end": 27.505
+    },
+    {
+     "w": "in",
+     "start": 27.555,
+     "end": 27.789
+    },
+    {
+     "w": "thirteen",
+     "start": 27.789,
+     "end": 28.197
+    },
+    {
+     "w": "stone",
+     "start": 28.197,
+     "end": 28.431
+    },
+    {
+     "w": "floors,",
+     "start": 28.431,
+     "end": 28.665
+    },
+    {
+     "w": "like",
+     "start": 28.795,
+     "end": 28.969
+    },
+    {
+     "w": "an",
+     "start": 28.969,
+     "end": 29.143
+    },
+    {
+     "w": "upside-down",
+     "start": 29.143,
+     "end": 29.703
+    },
+    {
+     "w": "pyramid.",
+     "start": 29.703,
+     "end": 30.135
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 30.594,
+   "end": 34.333,
+   "text": "But one narrow staircase would jam with people carrying heavy water pots.",
+   "words": [
+    {
+     "w": "But",
+     "start": 30.724,
+     "end": 30.949
+    },
+    {
+     "w": "one",
+     "start": 30.949,
+     "end": 31.174
+    },
+    {
+     "w": "narrow",
+     "start": 31.174,
+     "end": 31.565
+    },
+    {
+     "w": "staircase",
+     "start": 31.565,
+     "end": 31.956
+    },
+    {
+     "w": "would",
+     "start": 31.956,
+     "end": 32.181
+    },
+    {
+     "w": "jam",
+     "start": 32.181,
+     "end": 32.406
+    },
+    {
+     "w": "with",
+     "start": 32.406,
+     "end": 32.631
+    },
+    {
+     "w": "people",
+     "start": 32.631,
+     "end": 32.855
+    },
+    {
+     "w": "carrying",
+     "start": 32.855,
+     "end": 33.247
+    },
+    {
+     "w": "heavy",
+     "start": 33.247,
+     "end": 33.638
+    },
+    {
+     "w": "water",
+     "start": 33.638,
+     "end": 34.029
+    },
+    {
+     "w": "pots.",
+     "start": 34.029,
+     "end": 34.254
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 34.698,
+   "end": 39.375,
+   "text": "So the stairs zigzag in little pairs across the walls, so lots of people can climb at once.",
+   "words": [
+    {
+     "w": "So",
+     "start": 34.808,
+     "end": 35.041
+    },
+    {
+     "w": "the",
+     "start": 35.041,
+     "end": 35.273
+    },
+    {
+     "w": "stairs",
+     "start": 35.273,
+     "end": 35.506
+    },
+    {
+     "w": "zigzag",
+     "start": 35.506,
+     "end": 35.91
+    },
+    {
+     "w": "in",
+     "start": 35.91,
+     "end": 36.143
+    },
+    {
+     "w": "little",
+     "start": 36.143,
+     "end": 36.376
+    },
+    {
+     "w": "pairs",
+     "start": 36.376,
+     "end": 36.608
+    },
+    {
+     "w": "across",
+     "start": 36.608,
+     "end": 37.013
+    },
+    {
+     "w": "the",
+     "start": 37.013,
+     "end": 37.245
+    },
+    {
+     "w": "walls,",
+     "start": 37.245,
+     "end": 37.478
+    },
+    {
+     "w": "so",
+     "start": 37.618,
+     "end": 37.829
+    },
+    {
+     "w": "lots",
+     "start": 37.829,
+     "end": 38.04
+    },
+    {
+     "w": "of",
+     "start": 38.04,
+     "end": 38.252
+    },
+    {
+     "w": "people",
+     "start": 38.252,
+     "end": 38.463
+    },
+    {
+     "w": "can",
+     "start": 38.463,
+     "end": 38.674
+    },
+    {
+     "w": "climb",
+     "start": 38.674,
+     "end": 38.886
+    },
+    {
+     "w": "at",
+     "start": 38.886,
+     "end": 39.097
+    },
+    {
+     "w": "once.",
+     "start": 39.097,
+     "end": 39.308
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 39.74,
+   "end": 43.531,
+   "text": "But before you start climbing, follow, because next we're building a pressure cooker.",
+   "words": [
+    {
+     "w": "But",
+     "start": 39.88,
+     "end": 40.073
+    },
+    {
+     "w": "before",
+     "start": 40.073,
+     "end": 40.409
+    },
+    {
+     "w": "you",
+     "start": 40.409,
+     "end": 40.601
+    },
+    {
+     "w": "start",
+     "start": 40.601,
+     "end": 40.794
+    },
+    {
+     "w": "climbing,",
+     "start": 40.794,
+     "end": 41.13
+    },
+    {
+     "w": "follow,",
+     "start": 41.31,
+     "end": 41.62
+    },
+    {
+     "w": "because",
+     "start": 41.77,
+     "end": 42.067
+    },
+    {
+     "w": "next",
+     "start": 42.067,
+     "end": 42.238
+    },
+    {
+     "w": "we're",
+     "start": 42.238,
+     "end": 42.408
+    },
+    {
+     "w": "building",
+     "start": 42.408,
+     "end": 42.705
+    },
+    {
+     "w": "a",
+     "start": 42.705,
+     "end": 42.876
+    },
+    {
+     "w": "pressure",
+     "start": 42.876,
+     "end": 43.173
+    },
+    {
+     "w": "cooker.",
+     "start": 43.173,
+     "end": 43.47
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 43.896,
+   "end": 49.26,
+   "text": "Now the story: the bottom is about five degrees cooler, so in summer, people came down to rest by the water.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 44.006,
+     "end": 44.209
+    },
+    {
+     "w": "the",
+     "start": 44.209,
+     "end": 44.412
+    },
+    {
+     "w": "story:",
+     "start": 44.412,
+     "end": 44.766
+    },
+    {
+     "w": "the",
+     "start": 44.936,
+     "end": 45.108
+    },
+    {
+     "w": "bottom",
+     "start": 45.108,
+     "end": 45.406
+    },
+    {
+     "w": "is",
+     "start": 45.406,
+     "end": 45.578
+    },
+    {
+     "w": "about",
+     "start": 45.578,
+     "end": 45.877
+    },
+    {
+     "w": "five",
+     "start": 45.877,
+     "end": 46.048
+    },
+    {
+     "w": "degrees",
+     "start": 46.048,
+     "end": 46.347
+    },
+    {
+     "w": "cooler,",
+     "start": 46.347,
+     "end": 46.646
+    },
+    {
+     "w": "so",
+     "start": 46.786,
+     "end": 46.97
+    },
+    {
+     "w": "in",
+     "start": 46.97,
+     "end": 47.155
+    },
+    {
+     "w": "summer,",
+     "start": 47.155,
+     "end": 47.476
+    },
+    {
+     "w": "people",
+     "start": 47.646,
+     "end": 47.823
+    },
+    {
+     "w": "came",
+     "start": 47.823,
+     "end": 48.001
+    },
+    {
+     "w": "down",
+     "start": 48.001,
+     "end": 48.178
+    },
+    {
+     "w": "to",
+     "start": 48.178,
+     "end": 48.355
+    },
+    {
+     "w": "rest",
+     "start": 48.355,
+     "end": 48.533
+    },
+    {
+     "w": "by",
+     "start": 48.533,
+     "end": 48.71
+    },
+    {
+     "w": "the",
+     "start": 48.71,
+     "end": 48.887
+    },
+    {
+     "w": "water.",
+     "start": 48.887,
+     "end": 49.196
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 49.625,
+   "end": 53.469,
+   "text": "Thirty-five hundred steps, thirteen floors, and about twelve hundred years old.",
+   "words": [
+    {
+     "w": "Thirty-five",
+     "start": 49.745,
+     "end": 50.32
+    },
+    {
+     "w": "hundred",
+     "start": 50.32,
+     "end": 50.723
+    },
+    {
+     "w": "steps,",
+     "start": 50.723,
+     "end": 50.955
+    },
+    {
+     "w": "thirteen",
+     "start": 51.075,
+     "end": 51.329
+    },
+    {
+     "w": "floors,",
+     "start": 51.329,
+     "end": 51.475
+    },
+    {
+     "w": "and",
+     "start": 51.555,
+     "end": 51.798
+    },
+    {
+     "w": "about",
+     "start": 51.798,
+     "end": 52.222
+    },
+    {
+     "w": "twelve",
+     "start": 52.222,
+     "end": 52.465
+    },
+    {
+     "w": "hundred",
+     "start": 52.465,
+     "end": 52.888
+    },
+    {
+     "w": "years",
+     "start": 52.888,
+     "end": 53.132
+    },
+    {
+     "w": "old.",
+     "start": 53.132,
+     "end": 53.375
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 53.833,
+   "end": 56.573,
+   "text": "And congrats, you just built Chand Baori yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 53.953,
+     "end": 54.216
+    },
+    {
+     "w": "congrats,",
+     "start": 54.216,
+     "end": 54.673
+    },
+    {
+     "w": "you",
+     "start": 54.793,
+     "end": 55.011
+    },
+    {
+     "w": "just",
+     "start": 55.011,
+     "end": 55.229
+    },
+    {
+     "w": "built",
+     "start": 55.229,
+     "end": 55.447
+    },
+    {
+     "w": "Chand",
+     "start": 55.447,
+     "end": 55.664
+    },
+    {
+     "w": "Baori",
+     "start": 55.664,
+     "end": 56.044
+    },
+    {
+     "w": "yourself.",
+     "start": 56.044,
+     "end": 56.423
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 56.938,
+   "end": 61.042,
+   "text": "Thirty-five hundred steps down to water, and you take the elevator to go up one floor.",
+   "words": [
+    {
+     "w": "Thirty-five",
+     "start": 57.048,
+     "end": 57.508
+    },
+    {
+     "w": "hundred",
+     "start": 57.508,
+     "end": 57.831
+    },
+    {
+     "w": "steps",
+     "start": 57.831,
+     "end": 58.017
+    },
+    {
+     "w": "down",
+     "start": 58.017,
+     "end": 58.202
+    },
+    {
+     "w": "to",
+     "start": 58.202,
+     "end": 58.388
+    },
+    {
+     "w": "water,",
+     "start": 58.388,
+     "end": 58.711
+    },
+    {
+     "w": "and",
+     "start": 58.711,
+     "end": 58.896
+    },
+    {
+     "w": "you",
+     "start": 58.896,
+     "end": 59.082
+    },
+    {
+     "w": "take",
+     "start": 59.082,
+     "end": 59.267
+    },
+    {
+     "w": "the",
+     "start": 59.267,
+     "end": 59.453
+    },
+    {
+     "w": "elevator",
+     "start": 59.453,
+     "end": 60.05
+    },
+    {
+     "w": "to",
+     "start": 60.05,
+     "end": 60.236
+    },
+    {
+     "w": "go",
+     "start": 60.236,
+     "end": 60.421
+    },
+    {
+     "w": "up",
+     "start": 60.421,
+     "end": 60.607
+    },
+    {
+     "w": "one",
+     "start": 60.607,
+     "end": 60.792
+    },
+    {
+     "w": "floor.",
+     "start": 60.792,
+     "end": 60.978
+    }
+   ]
+  }
+ ]
+}
