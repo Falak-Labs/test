@@ -1,0 +1,1153 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 77.174,
+ "words": 206,
+ "words_per_sec": 2.67,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.513,
+   "text": "Y'all, your jacket is held shut by a tiny piece of metal. Yes, a tiny one.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.141,
+     "end": 0.677
+    },
+    {
+     "w": "your",
+     "start": 0.855,
+     "end": 1.07
+    },
+    {
+     "w": "jacket",
+     "start": 1.141,
+     "end": 1.427
+    },
+    {
+     "w": "is",
+     "start": 1.498,
+     "end": 1.57
+    },
+    {
+     "w": "held",
+     "start": 1.641,
+     "end": 1.855
+    },
+    {
+     "w": "shut",
+     "start": 1.927,
+     "end": 2.141
+    },
+    {
+     "w": "by",
+     "start": 2.212,
+     "end": 2.284
+    },
+    {
+     "w": "a",
+     "start": 2.391,
+     "end": 2.498
+    },
+    {
+     "w": "tiny",
+     "start": 2.677,
+     "end": 2.855
+    },
+    {
+     "w": "piece",
+     "start": 2.927,
+     "end": 3.07
+    },
+    {
+     "w": "of",
+     "start": 3.141,
+     "end": 3.284
+    },
+    {
+     "w": "metal.",
+     "start": 3.355,
+     "end": 3.9
+    },
+    {
+     "w": "Yes,",
+     "start": 3.971,
+     "end": 4.579
+    },
+    {
+     "w": "a",
+     "start": 4.686,
+     "end": 4.721
+    },
+    {
+     "w": "tiny",
+     "start": 4.757,
+     "end": 5.114
+    },
+    {
+     "w": "one.",
+     "start": 5.186,
+     "end": 5.614
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.825,
+   "end": 12.388,
+   "text": "Now listen. In the nineteen hundreds, boots had dozens of tiny hooks, and getting dressed took forever.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 5.929,
+     "end": 6.072
+    },
+    {
+     "w": "listen.",
+     "start": 6.215,
+     "end": 6.822
+    },
+    {
+     "w": "In",
+     "start": 7.001,
+     "end": 7.072
+    },
+    {
+     "w": "the",
+     "start": 7.144,
+     "end": 7.215
+    },
+    {
+     "w": "nineteen",
+     "start": 7.287,
+     "end": 7.715
+    },
+    {
+     "w": "hundreds,",
+     "start": 7.751,
+     "end": 8.322
+    },
+    {
+     "w": "boots",
+     "start": 8.429,
+     "end": 8.715
+    },
+    {
+     "w": "had",
+     "start": 8.858,
+     "end": 9.001
+    },
+    {
+     "w": "dozens",
+     "start": 9.072,
+     "end": 9.501
+    },
+    {
+     "w": "of",
+     "start": 9.572,
+     "end": 9.644
+    },
+    {
+     "w": "tiny",
+     "start": 9.787,
+     "end": 9.929
+    },
+    {
+     "w": "hooks,",
+     "start": 10.001,
+     "end": 10.429
+    },
+    {
+     "w": "and",
+     "start": 10.563,
+     "end": 10.706
+    },
+    {
+     "w": "getting",
+     "start": 10.849,
+     "end": 10.992
+    },
+    {
+     "w": "dressed",
+     "start": 11.028,
+     "end": 11.349
+    },
+    {
+     "w": "took",
+     "start": 11.456,
+     "end": 11.563
+    },
+    {
+     "w": "forever.",
+     "start": 11.778,
+     "end": 12.492
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.701,
+   "end": 18.509,
+   "text": "So you make two rows of little teeth, each with a hook and a hollow. Snap, snap, snap.",
+   "words": [
+    {
+     "w": "So",
+     "start": 12.915,
+     "end": 13.058
+    },
+    {
+     "w": "you",
+     "start": 13.129,
+     "end": 13.272
+    },
+    {
+     "w": "make",
+     "start": 13.415,
+     "end": 13.558
+    },
+    {
+     "w": "two",
+     "start": 13.665,
+     "end": 13.772
+    },
+    {
+     "w": "rows",
+     "start": 13.844,
+     "end": 14.058
+    },
+    {
+     "w": "of",
+     "start": 14.129,
+     "end": 14.201
+    },
+    {
+     "w": "little",
+     "start": 14.272,
+     "end": 14.344
+    },
+    {
+     "w": "teeth,",
+     "start": 14.487,
+     "end": 15.058
+    },
+    {
+     "w": "each",
+     "start": 15.129,
+     "end": 15.344
+    },
+    {
+     "w": "with",
+     "start": 15.415,
+     "end": 15.487
+    },
+    {
+     "w": "a",
+     "start": 15.558,
+     "end": 15.629
+    },
+    {
+     "w": "hook",
+     "start": 15.737,
+     "end": 15.844
+    },
+    {
+     "w": "and",
+     "start": 15.879,
+     "end": 15.915
+    },
+    {
+     "w": "a",
+     "start": 15.987,
+     "end": 16.022
+    },
+    {
+     "w": "hollow.",
+     "start": 16.058,
+     "end": 16.558
+    },
+    {
+     "w": "Snap,",
+     "start": 17.308,
+     "end": 17.558
+    },
+    {
+     "w": "snap,",
+     "start": 17.737,
+     "end": 17.987
+    },
+    {
+     "w": "snap.",
+     "start": 18.201,
+     "end": 18.629
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 18.821,
+   "end": 23.759,
+   "text": "But then you pull, and the teeth come apart, and your jacket bursts open.",
+   "words": [
+    {
+     "w": "But",
+     "start": 19.536,
+     "end": 19.679
+    },
+    {
+     "w": "then",
+     "start": 19.75,
+     "end": 19.893
+    },
+    {
+     "w": "you",
+     "start": 19.964,
+     "end": 20.107
+    },
+    {
+     "w": "pull,",
+     "start": 20.179,
+     "end": 20.768
+    },
+    {
+     "w": "and",
+     "start": 20.804,
+     "end": 20.839
+    },
+    {
+     "w": "the",
+     "start": 20.911,
+     "end": 20.982
+    },
+    {
+     "w": "teeth",
+     "start": 21.054,
+     "end": 21.268
+    },
+    {
+     "w": "come",
+     "start": 21.339,
+     "end": 21.411
+    },
+    {
+     "w": "apart,",
+     "start": 21.482,
+     "end": 21.982
+    },
+    {
+     "w": "and",
+     "start": 22.018,
+     "end": 22.054
+    },
+    {
+     "w": "your",
+     "start": 22.125,
+     "end": 22.268
+    },
+    {
+     "w": "jacket",
+     "start": 22.411,
+     "end": 22.696
+    },
+    {
+     "w": "bursts",
+     "start": 22.911,
+     "end": 23.268
+    },
+    {
+     "w": "open.",
+     "start": 23.339,
+     "end": 23.911
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 24.071,
+   "end": 29.335,
+   "text": "So you add a slider, a tiny wedge that presses the teeth together, one by one.",
+   "words": [
+    {
+     "w": "So",
+     "start": 24.286,
+     "end": 24.429
+    },
+    {
+     "w": "you",
+     "start": 24.571,
+     "end": 24.714
+    },
+    {
+     "w": "add",
+     "start": 24.786,
+     "end": 24.857
+    },
+    {
+     "w": "a",
+     "start": 24.929,
+     "end": 25.0
+    },
+    {
+     "w": "slider,",
+     "start": 25.071,
+     "end": 25.929
+    },
+    {
+     "w": "a",
+     "start": 26.0,
+     "end": 26.071
+    },
+    {
+     "w": "tiny",
+     "start": 26.143,
+     "end": 26.429
+    },
+    {
+     "w": "wedge",
+     "start": 26.5,
+     "end": 26.786
+    },
+    {
+     "w": "that",
+     "start": 26.893,
+     "end": 27.0
+    },
+    {
+     "w": "presses",
+     "start": 27.107,
+     "end": 27.357
+    },
+    {
+     "w": "the",
+     "start": 27.429,
+     "end": 27.5
+    },
+    {
+     "w": "teeth",
+     "start": 27.536,
+     "end": 27.714
+    },
+    {
+     "w": "together,",
+     "start": 27.786,
+     "end": 28.429
+    },
+    {
+     "w": "one",
+     "start": 28.5,
+     "end": 28.643
+    },
+    {
+     "w": "by",
+     "start": 28.714,
+     "end": 28.929
+    },
+    {
+     "w": "one.",
+     "start": 29.0,
+     "end": 29.5
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 29.647,
+   "end": 34.754,
+   "text": "But the slider snags on the fabric, and someone pulls way too hard. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 29.778,
+     "end": 29.921
+    },
+    {
+     "w": "the",
+     "start": 29.992,
+     "end": 30.063
+    },
+    {
+     "w": "slider",
+     "start": 30.135,
+     "end": 30.492
+    },
+    {
+     "w": "snags",
+     "start": 30.635,
+     "end": 30.992
+    },
+    {
+     "w": "on",
+     "start": 31.063,
+     "end": 31.135
+    },
+    {
+     "w": "the",
+     "start": 31.206,
+     "end": 31.278
+    },
+    {
+     "w": "fabric,",
+     "start": 31.492,
+     "end": 31.813
+    },
+    {
+     "w": "and",
+     "start": 31.921,
+     "end": 32.063
+    },
+    {
+     "w": "someone",
+     "start": 32.135,
+     "end": 32.421
+    },
+    {
+     "w": "pulls",
+     "start": 32.492,
+     "end": 32.849
+    },
+    {
+     "w": "way",
+     "start": 32.921,
+     "end": 33.206
+    },
+    {
+     "w": "too",
+     "start": 33.278,
+     "end": 33.349
+    },
+    {
+     "w": "hard.",
+     "start": 33.421,
+     "end": 33.885
+    },
+    {
+     "w": "Oh",
+     "start": 33.983,
+     "end": 34.197
+    },
+    {
+     "w": "boy.",
+     "start": 34.34,
+     "end": 34.912
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 35.066,
+   "end": 39.047,
+   "text": "So you sew a stiff tape along the teeth, to keep the fabric away.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.28,
+     "end": 35.423
+    },
+    {
+     "w": "you",
+     "start": 35.495,
+     "end": 35.637
+    },
+    {
+     "w": "sew",
+     "start": 35.709,
+     "end": 35.852
+    },
+    {
+     "w": "a",
+     "start": 35.923,
+     "end": 35.995
+    },
+    {
+     "w": "stiff",
+     "start": 36.066,
+     "end": 36.352
+    },
+    {
+     "w": "tape",
+     "start": 36.423,
+     "end": 36.637
+    },
+    {
+     "w": "along",
+     "start": 36.709,
+     "end": 36.923
+    },
+    {
+     "w": "the",
+     "start": 36.995,
+     "end": 37.137
+    },
+    {
+     "w": "teeth,",
+     "start": 37.209,
+     "end": 37.638
+    },
+    {
+     "w": "to",
+     "start": 37.78,
+     "end": 37.852
+    },
+    {
+     "w": "keep",
+     "start": 37.923,
+     "end": 38.066
+    },
+    {
+     "w": "the",
+     "start": 38.137,
+     "end": 38.209
+    },
+    {
+     "w": "fabric",
+     "start": 38.387,
+     "end": 38.566
+    },
+    {
+     "w": "away.",
+     "start": 38.637,
+     "end": 39.137
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 39.36,
+   "end": 44.581,
+   "text": "But now the slider slides down by itself, and your zipper opens. Slowly.",
+   "words": [
+    {
+     "w": "But",
+     "start": 39.869,
+     "end": 40.012
+    },
+    {
+     "w": "now",
+     "start": 40.083,
+     "end": 40.297
+    },
+    {
+     "w": "the",
+     "start": 40.369,
+     "end": 40.44
+    },
+    {
+     "w": "slider",
+     "start": 40.619,
+     "end": 40.797
+    },
+    {
+     "w": "slides",
+     "start": 40.869,
+     "end": 41.154
+    },
+    {
+     "w": "down",
+     "start": 41.226,
+     "end": 41.369
+    },
+    {
+     "w": "by",
+     "start": 41.44,
+     "end": 41.512
+    },
+    {
+     "w": "itself,",
+     "start": 41.583,
+     "end": 42.333
+    },
+    {
+     "w": "and",
+     "start": 42.404,
+     "end": 42.476
+    },
+    {
+     "w": "your",
+     "start": 42.547,
+     "end": 42.619
+    },
+    {
+     "w": "zipper",
+     "start": 42.762,
+     "end": 43.047
+    },
+    {
+     "w": "opens.",
+     "start": 43.119,
+     "end": 43.699
+    },
+    {
+     "w": "Slowly.",
+     "start": 43.94,
+     "end": 44.726
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 44.894,
+   "end": 49.602,
+   "text": "So you add a tiny locking tab, it clicks flat, and the slider stays put.",
+   "words": [
+    {
+     "w": "So",
+     "start": 45.108,
+     "end": 45.251
+    },
+    {
+     "w": "you",
+     "start": 45.394,
+     "end": 45.537
+    },
+    {
+     "w": "add",
+     "start": 45.608,
+     "end": 45.679
+    },
+    {
+     "w": "a",
+     "start": 45.751,
+     "end": 45.822
+    },
+    {
+     "w": "tiny",
+     "start": 45.894,
+     "end": 46.179
+    },
+    {
+     "w": "locking",
+     "start": 46.322,
+     "end": 46.679
+    },
+    {
+     "w": "tab,",
+     "start": 46.822,
+     "end": 47.251
+    },
+    {
+     "w": "it",
+     "start": 47.322,
+     "end": 47.394
+    },
+    {
+     "w": "clicks",
+     "start": 47.501,
+     "end": 47.679
+    },
+    {
+     "w": "flat,",
+     "start": 47.751,
+     "end": 48.206
+    },
+    {
+     "w": "and",
+     "start": 48.278,
+     "end": 48.349
+    },
+    {
+     "w": "the",
+     "start": 48.396,
+     "end": 48.445
+    },
+    {
+     "w": "slider",
+     "start": 48.492,
+     "end": 48.849
+    },
+    {
+     "w": "stays",
+     "start": 48.921,
+     "end": 49.206
+    },
+    {
+     "w": "put.",
+     "start": 49.278,
+     "end": 49.778
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 49.914,
+   "end": 57.451,
+   "text": "Hit follow, 'cause next we're building the Hong Kong Zhuhai Macau Bridge. Yes... a bridge that dives underwater.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 49.986,
+     "end": 50.129
+    },
+    {
+     "w": "follow,",
+     "start": 50.271,
+     "end": 50.771
+    },
+    {
+     "w": "'cause",
+     "start": 50.986,
+     "end": 51.2
+    },
+    {
+     "w": "next",
+     "start": 51.271,
+     "end": 51.557
+    },
+    {
+     "w": "we're",
+     "start": 51.7,
+     "end": 51.843
+    },
+    {
+     "w": "building",
+     "start": 51.986,
+     "end": 52.129
+    },
+    {
+     "w": "the",
+     "start": 52.164,
+     "end": 52.2
+    },
+    {
+     "w": "Hong",
+     "start": 52.271,
+     "end": 52.557
+    },
+    {
+     "w": "Kong",
+     "start": 52.593,
+     "end": 52.771
+    },
+    {
+     "w": "Zhuhai",
+     "start": 52.843,
+     "end": 53.2
+    },
+    {
+     "w": "Macau",
+     "start": 53.271,
+     "end": 53.629
+    },
+    {
+     "w": "Bridge.",
+     "start": 53.7,
+     "end": 54.129
+    },
+    {
+     "w": "Yes...",
+     "start": 54.557,
+     "end": 55.343
+    },
+    {
+     "w": "a",
+     "start": 55.414,
+     "end": 55.486
+    },
+    {
+     "w": "bridge",
+     "start": 55.557,
+     "end": 55.843
+    },
+    {
+     "w": "that",
+     "start": 55.914,
+     "end": 56.057
+    },
+    {
+     "w": "dives",
+     "start": 56.2,
+     "end": 56.486
+    },
+    {
+     "w": "underwater.",
+     "start": 56.629,
+     "end": 57.629
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 57.763,
+   "end": 63.346,
+   "text": "Today, factories make millions of zippers, and nobody thinks about teeth. That's the point.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 57.835,
+     "end": 58.478
+    },
+    {
+     "w": "factories",
+     "start": 58.692,
+     "end": 59.121
+    },
+    {
+     "w": "make",
+     "start": 59.192,
+     "end": 59.406
+    },
+    {
+     "w": "millions",
+     "start": 59.549,
+     "end": 59.978
+    },
+    {
+     "w": "of",
+     "start": 60.049,
+     "end": 60.121
+    },
+    {
+     "w": "zippers,",
+     "start": 60.192,
+     "end": 60.656
+    },
+    {
+     "w": "and",
+     "start": 60.763,
+     "end": 60.906
+    },
+    {
+     "w": "nobody",
+     "start": 60.978,
+     "end": 61.335
+    },
+    {
+     "w": "thinks",
+     "start": 61.406,
+     "end": 61.549
+    },
+    {
+     "w": "about",
+     "start": 61.621,
+     "end": 61.835
+    },
+    {
+     "w": "teeth.",
+     "start": 61.906,
+     "end": 62.254
+    },
+    {
+     "w": "That's",
+     "start": 62.406,
+     "end": 62.621
+    },
+    {
+     "w": "the",
+     "start": 62.692,
+     "end": 62.763
+    },
+    {
+     "w": "point.",
+     "start": 62.835,
+     "end": 63.478
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 63.659,
+   "end": 68.321,
+   "text": "One slider, two rows of teeth, and a Swedish engineer in nineteen thirteen.",
+   "words": [
+    {
+     "w": "One",
+     "start": 63.802,
+     "end": 63.945
+    },
+    {
+     "w": "slider,",
+     "start": 64.016,
+     "end": 64.587
+    },
+    {
+     "w": "two",
+     "start": 64.73,
+     "end": 64.873
+    },
+    {
+     "w": "rows",
+     "start": 64.945,
+     "end": 65.159
+    },
+    {
+     "w": "of",
+     "start": 65.23,
+     "end": 65.302
+    },
+    {
+     "w": "teeth,",
+     "start": 65.373,
+     "end": 65.695
+    },
+    {
+     "w": "and",
+     "start": 65.73,
+     "end": 65.802
+    },
+    {
+     "w": "a",
+     "start": 65.873,
+     "end": 66.016
+    },
+    {
+     "w": "Swedish",
+     "start": 66.087,
+     "end": 66.373
+    },
+    {
+     "w": "engineer",
+     "start": 66.445,
+     "end": 66.873
+    },
+    {
+     "w": "in",
+     "start": 66.945,
+     "end": 67.159
+    },
+    {
+     "w": "nineteen",
+     "start": 67.23,
+     "end": 67.659
+    },
+    {
+     "w": "thirteen.",
+     "start": 67.695,
+     "end": 68.373
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 68.633,
+   "end": 71.696,
+   "text": "And congrats, you just built a zipper yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 68.704,
+     "end": 68.847
+    },
+    {
+     "w": "congrats,",
+     "start": 68.919,
+     "end": 69.812
+    },
+    {
+     "w": "you",
+     "start": 69.954,
+     "end": 70.097
+    },
+    {
+     "w": "just",
+     "start": 70.204,
+     "end": 70.312
+    },
+    {
+     "w": "built",
+     "start": 70.419,
+     "end": 70.526
+    },
+    {
+     "w": "a",
+     "start": 70.597,
+     "end": 70.669
+    },
+    {
+     "w": "zipper",
+     "start": 70.74,
+     "end": 70.954
+    },
+    {
+     "w": "yourself.",
+     "start": 71.026,
+     "end": 71.812
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 72.009,
+   "end": 77.167,
+   "text": "Forget to check it before a wedding... and the whole room checks it for you.",
+   "words": [
+    {
+     "w": "Forget",
+     "start": 72.393,
+     "end": 72.75
+    },
+    {
+     "w": "to",
+     "start": 72.821,
+     "end": 72.893
+    },
+    {
+     "w": "check",
+     "start": 72.964,
+     "end": 73.107
+    },
+    {
+     "w": "it",
+     "start": 73.179,
+     "end": 73.25
+    },
+    {
+     "w": "before",
+     "start": 73.393,
+     "end": 73.536
+    },
+    {
+     "w": "a",
+     "start": 73.607,
+     "end": 73.679
+    },
+    {
+     "w": "wedding...",
+     "start": 73.75,
+     "end": 74.321
+    },
+    {
+     "w": "and",
+     "start": 75.079,
+     "end": 75.107
+    },
+    {
+     "w": "the",
+     "start": 75.214,
+     "end": 75.321
+    },
+    {
+     "w": "whole",
+     "start": 75.393,
+     "end": 75.679
+    },
+    {
+     "w": "room",
+     "start": 75.821,
+     "end": 76.107
+    },
+    {
+     "w": "checks",
+     "start": 76.179,
+     "end": 76.393
+    },
+    {
+     "w": "it",
+     "start": 76.464,
+     "end": 76.607
+    },
+    {
+     "w": "for",
+     "start": 76.714,
+     "end": 76.821
+    },
+    {
+     "w": "you.",
+     "start": 76.893,
+     "end": 77.321
+    }
+   ]
+  }
+ ]
+}
