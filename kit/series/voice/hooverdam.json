@@ -1,0 +1,1148 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 75.524,
+ "words": 205,
+ "words_per_sec": 2.71,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.944,
+   "text": "Y'all, a wall of concrete taller than a skyscraper holds back a whole river. Yes, a river.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.75
+    },
+    {
+     "w": "a",
+     "start": 0.929,
+     "end": 1.0
+    },
+    {
+     "w": "wall",
+     "start": 1.143,
+     "end": 1.357
+    },
+    {
+     "w": "of",
+     "start": 1.429,
+     "end": 1.5
+    },
+    {
+     "w": "concrete",
+     "start": 1.571,
+     "end": 2.071
+    },
+    {
+     "w": "taller",
+     "start": 2.143,
+     "end": 2.429
+    },
+    {
+     "w": "than",
+     "start": 2.5,
+     "end": 2.571
+    },
+    {
+     "w": "a",
+     "start": 2.643,
+     "end": 2.714
+    },
+    {
+     "w": "skyscraper",
+     "start": 2.786,
+     "end": 3.5
+    },
+    {
+     "w": "holds",
+     "start": 3.571,
+     "end": 3.857
+    },
+    {
+     "w": "back",
+     "start": 3.964,
+     "end": 4.071
+    },
+    {
+     "w": "a",
+     "start": 4.143,
+     "end": 4.286
+    },
+    {
+     "w": "whole",
+     "start": 4.357,
+     "end": 4.714
+    },
+    {
+     "w": "river.",
+     "start": 4.857,
+     "end": 5.42
+    },
+    {
+     "w": "Yes,",
+     "start": 5.491,
+     "end": 6.134
+    },
+    {
+     "w": "a",
+     "start": 6.205,
+     "end": 6.348
+    },
+    {
+     "w": "river.",
+     "start": 6.42,
+     "end": 7.062
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 7.256,
+   "end": 12.268,
+   "text": "First problem. You can't build in a river. The water just says nope and rushes through.",
+   "words": [
+    {
+     "w": "First",
+     "start": 7.307,
+     "end": 7.521
+    },
+    {
+     "w": "problem.",
+     "start": 7.593,
+     "end": 8.149
+    },
+    {
+     "w": "You",
+     "start": 8.262,
+     "end": 8.334
+    },
+    {
+     "w": "can't",
+     "start": 8.405,
+     "end": 8.691
+    },
+    {
+     "w": "build",
+     "start": 8.762,
+     "end": 8.977
+    },
+    {
+     "w": "in",
+     "start": 9.048,
+     "end": 9.12
+    },
+    {
+     "w": "a",
+     "start": 9.191,
+     "end": 9.262
+    },
+    {
+     "w": "river.",
+     "start": 9.441,
+     "end": 9.852
+    },
+    {
+     "w": "The",
+     "start": 9.888,
+     "end": 9.923
+    },
+    {
+     "w": "water",
+     "start": 9.995,
+     "end": 10.209
+    },
+    {
+     "w": "just",
+     "start": 10.28,
+     "end": 10.423
+    },
+    {
+     "w": "says",
+     "start": 10.53,
+     "end": 10.638
+    },
+    {
+     "w": "nope",
+     "start": 10.78,
+     "end": 11.138
+    },
+    {
+     "w": "and",
+     "start": 11.209,
+     "end": 11.423
+    },
+    {
+     "w": "rushes",
+     "start": 11.495,
+     "end": 11.852
+    },
+    {
+     "w": "through.",
+     "start": 11.995,
+     "end": 12.423
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.58,
+   "end": 17.921,
+   "text": "So you drill four giant tunnels through the canyon rock, and send the river around the site.",
+   "words": [
+    {
+     "w": "So",
+     "start": 12.795,
+     "end": 12.937
+    },
+    {
+     "w": "you",
+     "start": 13.009,
+     "end": 13.152
+    },
+    {
+     "w": "drill",
+     "start": 13.223,
+     "end": 13.509
+    },
+    {
+     "w": "four",
+     "start": 13.652,
+     "end": 13.866
+    },
+    {
+     "w": "giant",
+     "start": 14.08,
+     "end": 14.438
+    },
+    {
+     "w": "tunnels",
+     "start": 14.509,
+     "end": 14.795
+    },
+    {
+     "w": "through",
+     "start": 14.866,
+     "end": 14.937
+    },
+    {
+     "w": "the",
+     "start": 15.009,
+     "end": 15.08
+    },
+    {
+     "w": "canyon",
+     "start": 15.152,
+     "end": 15.509
+    },
+    {
+     "w": "rock,",
+     "start": 15.58,
+     "end": 15.938
+    },
+    {
+     "w": "and",
+     "start": 16.08,
+     "end": 16.223
+    },
+    {
+     "w": "send",
+     "start": 16.295,
+     "end": 16.438
+    },
+    {
+     "w": "the",
+     "start": 16.509,
+     "end": 16.58
+    },
+    {
+     "w": "river",
+     "start": 16.652,
+     "end": 16.937
+    },
+    {
+     "w": "around",
+     "start": 17.009,
+     "end": 17.295
+    },
+    {
+     "w": "the",
+     "start": 17.366,
+     "end": 17.438
+    },
+    {
+     "w": "site.",
+     "start": 17.616,
+     "end": 18.009
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 18.233,
+   "end": 23.273,
+   "text": "But now loose rocks keep falling off the cliff walls. Hard hats everywhere.",
+   "words": [
+    {
+     "w": "But",
+     "start": 18.756,
+     "end": 18.899
+    },
+    {
+     "w": "now",
+     "start": 18.971,
+     "end": 19.185
+    },
+    {
+     "w": "loose",
+     "start": 19.328,
+     "end": 19.542
+    },
+    {
+     "w": "rocks",
+     "start": 19.613,
+     "end": 19.899
+    },
+    {
+     "w": "keep",
+     "start": 19.971,
+     "end": 20.113
+    },
+    {
+     "w": "falling",
+     "start": 20.256,
+     "end": 20.542
+    },
+    {
+     "w": "off",
+     "start": 20.613,
+     "end": 20.685
+    },
+    {
+     "w": "the",
+     "start": 20.756,
+     "end": 20.828
+    },
+    {
+     "w": "cliff",
+     "start": 20.899,
+     "end": 21.113
+    },
+    {
+     "w": "walls.",
+     "start": 21.185,
+     "end": 21.671
+    },
+    {
+     "w": "Hard",
+     "start": 21.801,
+     "end": 22.015
+    },
+    {
+     "w": "hats",
+     "start": 22.087,
+     "end": 22.444
+    },
+    {
+     "w": "everywhere.",
+     "start": 22.587,
+     "end": 23.444
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 23.586,
+   "end": 29.588,
+   "text": "So you hire climbers on ropes, to knock the loose rock off with steel bars. Brave folks.",
+   "words": [
+    {
+     "w": "So",
+     "start": 23.8,
+     "end": 23.943
+    },
+    {
+     "w": "you",
+     "start": 24.014,
+     "end": 24.157
+    },
+    {
+     "w": "hire",
+     "start": 24.229,
+     "end": 24.443
+    },
+    {
+     "w": "climbers",
+     "start": 24.586,
+     "end": 25.014
+    },
+    {
+     "w": "on",
+     "start": 25.086,
+     "end": 25.157
+    },
+    {
+     "w": "ropes,",
+     "start": 25.3,
+     "end": 25.871
+    },
+    {
+     "w": "to",
+     "start": 26.014,
+     "end": 26.086
+    },
+    {
+     "w": "knock",
+     "start": 26.157,
+     "end": 26.3
+    },
+    {
+     "w": "the",
+     "start": 26.371,
+     "end": 26.443
+    },
+    {
+     "w": "loose",
+     "start": 26.514,
+     "end": 26.657
+    },
+    {
+     "w": "rock",
+     "start": 26.8,
+     "end": 27.014
+    },
+    {
+     "w": "off",
+     "start": 27.086,
+     "end": 27.229
+    },
+    {
+     "w": "with",
+     "start": 27.3,
+     "end": 27.371
+    },
+    {
+     "w": "steel",
+     "start": 27.443,
+     "end": 27.657
+    },
+    {
+     "w": "bars.",
+     "start": 27.8,
+     "end": 28.389
+    },
+    {
+     "w": "Brave",
+     "start": 28.621,
+     "end": 28.979
+    },
+    {
+     "w": "folks.",
+     "start": 29.05,
+     "end": 29.693
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 29.901,
+   "end": 35.356,
+   "text": "But a dam this big needs so much concrete that it heats up and cracks. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 30.027,
+     "end": 30.17
+    },
+    {
+     "w": "a",
+     "start": 30.205,
+     "end": 30.241
+    },
+    {
+     "w": "dam",
+     "start": 30.312,
+     "end": 30.598
+    },
+    {
+     "w": "this",
+     "start": 30.741,
+     "end": 30.955
+    },
+    {
+     "w": "big",
+     "start": 31.027,
+     "end": 31.312
+    },
+    {
+     "w": "needs",
+     "start": 31.384,
+     "end": 31.67
+    },
+    {
+     "w": "so",
+     "start": 31.741,
+     "end": 31.884
+    },
+    {
+     "w": "much",
+     "start": 31.955,
+     "end": 32.17
+    },
+    {
+     "w": "concrete",
+     "start": 32.241,
+     "end": 32.67
+    },
+    {
+     "w": "that",
+     "start": 32.884,
+     "end": 32.955
+    },
+    {
+     "w": "it",
+     "start": 33.027,
+     "end": 33.098
+    },
+    {
+     "w": "heats",
+     "start": 33.17,
+     "end": 33.384
+    },
+    {
+     "w": "up",
+     "start": 33.455,
+     "end": 33.527
+    },
+    {
+     "w": "and",
+     "start": 33.598,
+     "end": 33.741
+    },
+    {
+     "w": "cracks.",
+     "start": 33.812,
+     "end": 34.455
+    },
+    {
+     "w": "Oh",
+     "start": 34.571,
+     "end": 34.786
+    },
+    {
+     "w": "boy.",
+     "start": 34.929,
+     "end": 35.5
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 35.669,
+   "end": 40.674,
+   "text": "So you bury cold water pipes inside every block, and the heat flows away with the water.",
+   "words": [
+    {
+     "w": "So",
+     "start": 35.883,
+     "end": 36.026
+    },
+    {
+     "w": "you",
+     "start": 36.097,
+     "end": 36.312
+    },
+    {
+     "w": "bury",
+     "start": 36.454,
+     "end": 36.597
+    },
+    {
+     "w": "cold",
+     "start": 36.669,
+     "end": 36.954
+    },
+    {
+     "w": "water",
+     "start": 37.026,
+     "end": 37.24
+    },
+    {
+     "w": "pipes",
+     "start": 37.312,
+     "end": 37.526
+    },
+    {
+     "w": "inside",
+     "start": 37.74,
+     "end": 37.954
+    },
+    {
+     "w": "every",
+     "start": 38.026,
+     "end": 38.312
+    },
+    {
+     "w": "block,",
+     "start": 38.597,
+     "end": 38.85
+    },
+    {
+     "w": "and",
+     "start": 38.898,
+     "end": 38.946
+    },
+    {
+     "w": "the",
+     "start": 39.017,
+     "end": 39.088
+    },
+    {
+     "w": "heat",
+     "start": 39.196,
+     "end": 39.303
+    },
+    {
+     "w": "flows",
+     "start": 39.374,
+     "end": 39.588
+    },
+    {
+     "w": "away",
+     "start": 39.731,
+     "end": 39.946
+    },
+    {
+     "w": "with",
+     "start": 40.017,
+     "end": 40.088
+    },
+    {
+     "w": "the",
+     "start": 40.124,
+     "end": 40.16
+    },
+    {
+     "w": "water.",
+     "start": 40.231,
+     "end": 40.803
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 40.987,
+   "end": 45.234,
+   "text": "But the cooled blocks shrink, and thin gaps open between them.",
+   "words": [
+    {
+     "w": "But",
+     "start": 41.487,
+     "end": 41.629
+    },
+    {
+     "w": "the",
+     "start": 41.701,
+     "end": 41.772
+    },
+    {
+     "w": "cooled",
+     "start": 41.844,
+     "end": 42.058
+    },
+    {
+     "w": "blocks",
+     "start": 42.129,
+     "end": 42.558
+    },
+    {
+     "w": "shrink,",
+     "start": 42.701,
+     "end": 43.272
+    },
+    {
+     "w": "and",
+     "start": 43.344,
+     "end": 43.415
+    },
+    {
+     "w": "thin",
+     "start": 43.558,
+     "end": 43.772
+    },
+    {
+     "w": "gaps",
+     "start": 43.844,
+     "end": 44.129
+    },
+    {
+     "w": "open",
+     "start": 44.201,
+     "end": 44.487
+    },
+    {
+     "w": "between",
+     "start": 44.558,
+     "end": 44.844
+    },
+    {
+     "w": "them.",
+     "start": 44.915,
+     "end": 45.344
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 45.546,
+   "end": 50.492,
+   "text": "So you pump cement paste into the gaps, and the blocks lock into one solid wall.",
+   "words": [
+    {
+     "w": "So",
+     "start": 45.761,
+     "end": 45.904
+    },
+    {
+     "w": "you",
+     "start": 45.975,
+     "end": 46.189
+    },
+    {
+     "w": "pump",
+     "start": 46.225,
+     "end": 46.404
+    },
+    {
+     "w": "cement",
+     "start": 46.475,
+     "end": 46.832
+    },
+    {
+     "w": "paste",
+     "start": 46.904,
+     "end": 47.189
+    },
+    {
+     "w": "into",
+     "start": 47.296,
+     "end": 47.404
+    },
+    {
+     "w": "the",
+     "start": 47.475,
+     "end": 47.546
+    },
+    {
+     "w": "gaps,",
+     "start": 47.582,
+     "end": 48.046
+    },
+    {
+     "w": "and",
+     "start": 48.189,
+     "end": 48.261
+    },
+    {
+     "w": "the",
+     "start": 48.332,
+     "end": 48.404
+    },
+    {
+     "w": "blocks",
+     "start": 48.582,
+     "end": 48.761
+    },
+    {
+     "w": "lock",
+     "start": 48.832,
+     "end": 48.975
+    },
+    {
+     "w": "into",
+     "start": 49.046,
+     "end": 49.332
+    },
+    {
+     "w": "one",
+     "start": 49.404,
+     "end": 49.618
+    },
+    {
+     "w": "solid",
+     "start": 49.689,
+     "end": 49.975
+    },
+    {
+     "w": "wall.",
+     "start": 50.046,
+     "end": 50.618
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 50.804,
+   "end": 56.505,
+   "text": "Hit follow, 'cause next we're building the Dubai Frame. Yes... a picture frame.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 50.947,
+     "end": 51.09
+    },
+    {
+     "w": "follow,",
+     "start": 51.233,
+     "end": 51.804
+    },
+    {
+     "w": "'cause",
+     "start": 51.947,
+     "end": 52.233
+    },
+    {
+     "w": "next",
+     "start": 52.304,
+     "end": 52.519
+    },
+    {
+     "w": "we're",
+     "start": 52.662,
+     "end": 52.804
+    },
+    {
+     "w": "building",
+     "start": 52.947,
+     "end": 53.09
+    },
+    {
+     "w": "the",
+     "start": 53.126,
+     "end": 53.162
+    },
+    {
+     "w": "Dubai",
+     "start": 53.233,
+     "end": 53.662
+    },
+    {
+     "w": "Frame.",
+     "start": 53.804,
+     "end": 54.34
+    },
+    {
+     "w": "Yes...",
+     "start": 55.09,
+     "end": 55.483
+    },
+    {
+     "w": "a",
+     "start": 55.519,
+     "end": 55.662
+    },
+    {
+     "w": "picture",
+     "start": 55.804,
+     "end": 55.947
+    },
+    {
+     "w": "frame.",
+     "start": 56.09,
+     "end": 56.662
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 56.818,
+   "end": 62.499,
+   "text": "Today, the lake sits calm behind the dam, and nobody thinks about the pipes. That's the point.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 57.032,
+     "end": 57.818
+    },
+    {
+     "w": "the",
+     "start": 57.889,
+     "end": 57.961
+    },
+    {
+     "w": "lake",
+     "start": 58.068,
+     "end": 58.175
+    },
+    {
+     "w": "sits",
+     "start": 58.246,
+     "end": 58.461
+    },
+    {
+     "w": "calm",
+     "start": 58.532,
+     "end": 58.818
+    },
+    {
+     "w": "behind",
+     "start": 58.889,
+     "end": 59.175
+    },
+    {
+     "w": "the",
+     "start": 59.211,
+     "end": 59.246
+    },
+    {
+     "w": "dam,",
+     "start": 59.318,
+     "end": 59.818
+    },
+    {
+     "w": "and",
+     "start": 59.925,
+     "end": 60.032
+    },
+    {
+     "w": "nobody",
+     "start": 60.104,
+     "end": 60.532
+    },
+    {
+     "w": "thinks",
+     "start": 60.568,
+     "end": 60.746
+    },
+    {
+     "w": "about",
+     "start": 60.818,
+     "end": 60.961
+    },
+    {
+     "w": "the",
+     "start": 61.032,
+     "end": 61.104
+    },
+    {
+     "w": "pipes.",
+     "start": 61.175,
+     "end": 61.729
+    },
+    {
+     "w": "That's",
+     "start": 61.8,
+     "end": 61.943
+    },
+    {
+     "w": "the",
+     "start": 62.014,
+     "end": 62.086
+    },
+    {
+     "w": "point.",
+     "start": 62.264,
+     "end": 62.729
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 62.812,
+   "end": 66.057,
+   "text": "Blocks, cold pipes, and a river told where to go.",
+   "words": [
+    {
+     "w": "Blocks,",
+     "start": 63.281,
+     "end": 63.488
+    },
+    {
+     "w": "cold",
+     "start": 63.596,
+     "end": 63.881
+    },
+    {
+     "w": "pipes,",
+     "start": 63.953,
+     "end": 64.417
+    },
+    {
+     "w": "and",
+     "start": 64.524,
+     "end": 64.596
+    },
+    {
+     "w": "a",
+     "start": 64.667,
+     "end": 64.738
+    },
+    {
+     "w": "river",
+     "start": 64.81,
+     "end": 65.096
+    },
+    {
+     "w": "told",
+     "start": 65.131,
+     "end": 65.381
+    },
+    {
+     "w": "where",
+     "start": 65.453,
+     "end": 65.524
+    },
+    {
+     "w": "to",
+     "start": 65.596,
+     "end": 65.667
+    },
+    {
+     "w": "go.",
+     "start": 65.81,
+     "end": 66.238
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 66.37,
+   "end": 69.596,
+   "text": "And congrats, you just built the Hoover Dam yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 66.492,
+     "end": 66.512
+    },
+    {
+     "w": "congrats,",
+     "start": 66.584,
+     "end": 67.477
+    },
+    {
+     "w": "you",
+     "start": 67.655,
+     "end": 67.798
+    },
+    {
+     "w": "just",
+     "start": 67.905,
+     "end": 68.013
+    },
+    {
+     "w": "built",
+     "start": 68.12,
+     "end": 68.227
+    },
+    {
+     "w": "the",
+     "start": 68.262,
+     "end": 68.298
+    },
+    {
+     "w": "Hoover",
+     "start": 68.37,
+     "end": 68.584
+    },
+    {
+     "w": "Dam",
+     "start": 68.655,
+     "end": 68.87
+    },
+    {
+     "w": "yourself.",
+     "start": 68.941,
+     "end": 69.727
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 69.908,
+   "end": 75.507,
+   "text": "Bite into the middle of a hot lasagna... and meet the Hoover Dam of heat.",
+   "words": [
+    {
+     "w": "Bite",
+     "start": 70.54,
+     "end": 70.754
+    },
+    {
+     "w": "into",
+     "start": 70.826,
+     "end": 71.04
+    },
+    {
+     "w": "the",
+     "start": 71.076,
+     "end": 71.112
+    },
+    {
+     "w": "middle",
+     "start": 71.254,
+     "end": 71.469
+    },
+    {
+     "w": "of",
+     "start": 71.54,
+     "end": 71.612
+    },
+    {
+     "w": "a",
+     "start": 71.647,
+     "end": 71.683
+    },
+    {
+     "w": "hot",
+     "start": 71.826,
+     "end": 72.04
+    },
+    {
+     "w": "lasagna...",
+     "start": 72.147,
+     "end": 72.799
+    },
+    {
+     "w": "and",
+     "start": 73.556,
+     "end": 73.585
+    },
+    {
+     "w": "meet",
+     "start": 73.656,
+     "end": 73.799
+    },
+    {
+     "w": "the",
+     "start": 73.871,
+     "end": 73.942
+    },
+    {
+     "w": "Hoover",
+     "start": 74.085,
+     "end": 74.371
+    },
+    {
+     "w": "Dam",
+     "start": 74.513,
+     "end": 74.799
+    },
+    {
+     "w": "of",
+     "start": 74.871,
+     "end": 74.942
+    },
+    {
+     "w": "heat.",
+     "start": 75.013,
+     "end": 75.585
+    }
+   ]
+  }
+ ]
+}
