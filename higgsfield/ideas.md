@@ -405,3 +405,18 @@ New content
   [NPS, architecture](https://www.nps.gov/jeff/planyourvisit/assembly-and-erection.htm),
   [NPS, 50th year](https://www.nps.gov/jeff/learn/historyculture/the-gateway-arch-celebrates-50th-year-of-completion.htm),
   [St. Louis Public Radio, Oct 27 2015](https://www.stlpr.org/arts/2015-10-27/builders-of-the-gateway-arch-say-it-was-a-monumental-task-and-an-honor)
+- LINEUP 92 is now a car seatbelt (an everyday thing after the Arch; the Arch's B4 can tease it): "The central
+  operating element in this mechanism is a weighted pendulum", whose pawl "catches hold of a toothed ratchet gear
+  attached to the spool"; for a fast pull "The central operating element in this design is a centrifugal clutch";
+  "a spring applies a rotation force, or torque, to the spool" (HowStuffWorks). The old lap belt's buckle "damaged the
+  body's soft organs instead of protecting them" (DPMA); "In 1959, Volvo became the first automaker to introduce
+  Bohlin's three-point safety belt design" (Lemelson). When the patent went free disagrees ("immediately", Volvo;
+  by 1963, Lemelson; 1968, Wikipedia), and so does the first car (Amazon and PV 544 in 1959, Volvo; a 1958 PV 544,
+  DPMA summary): check before a line uses one. "Bohlin's belt has saved many hundreds of thousands of lives"
+  (Volvo); NHTSA: about 15,000 lives a year in the US (Wikipedia). Tag-joke idea: the belt locks when you lean
+  for the phone on the dashboard. Crash shots: test dummies and sleds, no injured people.
+  [HowStuffWorks](https://auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/seatbelt3.htm),
+  [Lemelson-MIT](https://lemelson.mit.edu/resources/nils-bohlin),
+  [DPMA](https://www.dpma.de/en/explore/milestones/inventions-that-made-history/three-point-safety-belt),
+  [Volvo Cars](https://www.volvocars.com/intl/media/press-releases/B9D7CD66A06448F7/),
+  [Wikipedia, Nils Bohlin](https://en.wikipedia.org/wiki/Nils_Bohlin)
