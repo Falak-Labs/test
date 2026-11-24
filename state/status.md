@@ -1,4 +1,4 @@
-# Post status 2026-11-24T13:39:12+00:00
+# Post status 2026-11-24T14:11:10+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -382,14 +382,14 @@
 | ep69-dishwasher | en.tiktok | sent |  | 2026-11-24T02:31:56.987Z https://www.tiktok.com/@congratsengineer/video/7711559637815823629?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep70-louvre | ar.instagram | sent |  | 2026-11-24T08:01:40.814Z https://www.instagram.com/reel/DgHeix1hQNg/ |
 | ep70-louvre | ar.tiktok | sent |  | 2026-11-24T08:01:25.630Z https://www.tiktok.com/@kef.tenbeni/video/7711644596975045902?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
-| ep70-louvre | en.instagram | scheduled |  | 2026-11-24T14:00:00.000Z |
-| ep70-louvre | en.tiktok | scheduled |  | 2026-11-24T14:00:00.000Z |
+| ep70-louvre | en.instagram | sent |  | 2026-11-24T14:03:39.735Z https://www.instagram.com/reel/DgIH7m4MGNv/ |
+| ep70-louvre | en.tiktok | sent |  | 2026-11-24T14:05:06.538Z https://tiktok.com/@congratsengineer/video/7711738341183474975 |
 | ep71-vacuum | ar.instagram | sent |  | 2026-11-24T11:02:45.725Z https://www.instagram.com/reel/DgHzPqKBGjD/ |
 | ep71-vacuum | ar.tiktok | sent |  | 2026-11-24T11:03:17.772Z https://tiktok.com/@kef.tenbeni/video/7711691349459864845 |
 | ep71-vacuum | en.instagram | scheduled |  | 2026-11-24T16:30:00.000Z |
 | ep71-vacuum | en.tiktok | scheduled |  | 2026-11-24T16:30:00.000Z |
-| ep72-petronas | ar.instagram | scheduled |  | 2026-11-24T14:00:00.000Z |
-| ep72-petronas | ar.tiktok | scheduled |  | 2026-11-24T14:00:00.000Z |
+| ep72-petronas | ar.instagram | sent |  | 2026-11-24T14:03:38.712Z https://www.instagram.com/reel/DgIH7o3hQNn/ |
+| ep72-petronas | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T14:00:00.000Z |
 | ep72-petronas | en.instagram | scheduled |  | 2026-11-24T19:00:00.000Z |
 | ep72-petronas | en.tiktok | scheduled |  | 2026-11-24T19:00:00.000Z |
 | ep73-pharos | ar.instagram | scheduled |  | 2026-11-24T17:00:00.000Z |
