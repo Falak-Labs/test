@@ -27,7 +27,8 @@ jobs:
   - id: cooker-B
     build: 76
     kit: cooker
-    status: generating (started: Nov 23 21:19 PT)
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_051727_0a2c6fc9-40d1-48d6-8858-751ef3feed34.mp4
     file: buildit-cooker-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): cutaway of the lid showing a small metal safety plug that melts and vents the steam sideways,
@@ -41,7 +42,7 @@ jobs:
   - id: goldengate-A
     build: 77
     kit: goldengate
-    status: todo
+    status: generating (started: Nov 23 21:41 PT)
     file: buildit-goldengate-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): the Golden Gate Bridge's two orange towers rising out of a thick sea of fog at sunrise, slow
