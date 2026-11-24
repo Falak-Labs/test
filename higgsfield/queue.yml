@@ -391,7 +391,7 @@ jobs:
     build: 86
     kit: kettle
     # Same facts as kettle-A. B4 teases build 87, the hot air balloon (LINEUP).
-    status: "generating (started: Nov 24 05:18 PT)"
+    status: done
     file: buildit-kettle-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): a kettle sitting on a round cordless power base, small metal pins on the base meet the kettle
@@ -416,7 +416,7 @@ jobs:
     # "120°C (250°F)" inside for one adult in a balloon "about 4m (13ft) in radius". The throat is "reinforced with
     # a skirt made from a fireproof material such as Nomex"; propane cylinders hold "about 70–90 liters" each
     # (explainthatstuff.com/how-hot-air-balloons-work.html). No people's faces: animals, hands, crowds far below.
-    status: todo
+    status: "generating (started: Nov 24 05:50 PT; shot 4 reworded)"
     file: buildit-balloon-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): 1783, a giant blue and gold balloon of paper and cloth rises from a palace courtyard with a
