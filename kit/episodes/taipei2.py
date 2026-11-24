@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from taipei import Taipei, W, H  # noqa: E402
 from v2_base import HILITE, WARN  # noqa: E402
 
-EN_KEYS = {("hook", "SWINGING"): "BALL", ("hook", "SKYSCRAPER"): "TOWER", ("hook", "STEADY"): "KEEPING",
+EN_KEYS = {("hook", "GOLDEN"): "GOLD", ("hook", "SWINGING"): "BALL", ("hook", "SKYSCRAPER"): "TOWER", ("hook", "STEADY"): "KEEPING",
            ("hook", "CONGRATS"): "TYPHOON", ("hook", "TAIPEI"): "TYPHOON", ("break1", "YEAR"): "YEAR",
            ("fix2", "TOP"): "TOP", ("reveal", "TWENTY"): "TWENTY", ("tag", "BUMP"): "BUMP"}
 
