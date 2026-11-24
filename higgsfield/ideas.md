@@ -210,3 +210,45 @@ New content
   because the boiling point falls "approximately 0.5°C" per 150 m of height. A1 as a macro of the disc snapping fits
   the tactile-hook note of 00:58. Not made before (episodes.yml has no kettle). [Ingenia](https://www.ingenia.org.uk/articles/how-do-kettles-know-when-to-switch-off),
   [Explain that Stuff](https://www.explainthatstuff.com/how-electric-kettles-work.html)
+
+## 2026-11-24 04:00 PT (hourly runner, cloud run)
+Trends
+- Front-load harder on YouTube: Metricool's study of 799,718 videos says Shorts' average view duration "fell about
+  67%, down to roughly 16 seconds per Short", and "More than 61% of all organic views in the sample came from the
+  Shorts feed". Our builds run 65-70 s against an average view of about 16 s: the finished build on screen in the
+  first 2-3 s (A1) and the cut fact by line 2 matter more than anything later. [Metricool, Jul 29 2026, upd. Aug 4](https://metricool.com/youtube-trends/) (vendor)
+- Instagram length, the other side: Buffer's Reels-length study says "Reels between 90 seconds and three minutes
+  reached 4–7% more people than each account's own average" (seen as a teaser card dated Nov 12 2026; the article
+  was not read), against the "15 to 60 seconds" line of 01:58. Test before changing anything: one build cut to
+  60 s and one to 90 s, Instagram only. [Buffer](https://buffer.com/resources/trending-audio-instagram/),
+  [article](https://buffer.com/resources/instagram-reels-length/)
+- A trending sound now lifts photo posts too: it "makes carousels and photos eligible to appear on the reels feed,
+  too". A cheap extra post per build while pictures are unlimited (to Jan 13): a carousel of the hero still and two
+  cutaway frames with a business-safe sound. [Buffer, Nov 3 2026](https://buffer.com/resources/trending-audio-instagram/) (vendor)
+
+Free footage and pictures
+- Prelinger Archives on the Internet Archive: "more than 6600 films" (advertising, educational, industrial and
+  amateur films, mostly 1930s-60s). Reuse is "warmly encouraged ... in whole or in part", "Any derivative works
+  that you produce using these films are yours", credit appreciated "but do not require it"; read each film's own
+  page for its licence ("Those titles that either are copyrighted or whose status is in question have not been
+  made available"). Standard definition only (most 480 x 480 or 368 x 480): a short real-archive insert (old
+  kitchens and appliances for the everyday builds, factories), not a full-screen hero.
+  [Internet Archive help](https://help.archive.org/help/prelinger-archive/),
+  [Open Culture, May 3 2016](https://openculture.com/2016/05/download-6600-free-films-from-the-prelinger-archives-and-use-them-however-you-like.html)
+- Free-tier re-check (Scrimba, upd. Nov 24 2026): Sora is gone (web and app closed Apr 26 2026, API Sep 24 2026).
+  "Runway, Canva and Adobe Express allow commercial use of free output but ration it hard" (Canva: silent 4 s
+  clips; Adobe Express: an unpublished number of 5 s clips a day): inserts at most. This contradicts the 00:58 line
+  (Runway free = no commercial licence): read Runway's own terms before any use. CapCut calls its generator
+  "completely free", but its Materials License works per asset, so one non-commercial template or sound limits the
+  whole video. [Scrimba](https://scrimba.com/articles/free-ai-video-generators-2026/) (vendor)
+
+New content
+- 85 Dubai Frame queued (dubaiframe-A/B; facts and sources in the queue comments), and LINEUP 86 is now the
+  kettle proposed at 03:01. More facts for 86's jobs: the steam tube is "typically inside the handle"; the disc
+  flips "a bit like an umbrella turning inside out in the wind" and "you may hear the disk flipping back" as it
+  cools; 2400 W boils a litre in "about 160 seconds"; Otter and Strix made "more than a billion thermostats of this
+  kind"; before switch-off "many a hotel was evacuated when a left kettle boiled and boiled". Only Morphy Richards (a
+  maker's blog, uncorroborated) names the first self-switching kettle: the 1955 Russell Hobbs K1.
+  [Ingenia](https://www.ingenia.org.uk/articles/how-do-kettles-know-when-to-switch-off),
+  [Explain that Stuff](https://explainthatstuff.com/how-electric-kettles-work.html),
+  [Morphy Richards, Dec 22 2025](https://www.morphyrichards.co.uk/blogs/kettle-guides/how-does-a-kettle-work)

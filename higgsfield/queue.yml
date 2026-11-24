@@ -219,6 +219,7 @@ jobs:
     # radiation; two vessels joined only at the neck; most leftover heat leaks at the neck and stopper (Wikipedia
     # "Vacuum flask", Royal Institution rigb.org/node/3131, explainthatstuff.com/vacuumflasks.html).
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_105605_b27bb71b-1def-4602-a241-207616f7fc56.mp4
     file: buildit-thermos-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): extreme close-up of a steel vacuum flask standing in deep snow at night, frost crystals on its
@@ -237,6 +238,7 @@ jobs:
     # Facts: glass flasks break when dropped; William Stanley Jr. made the first all-steel vacuum bottle in 1913
     # (Wikipedia "Stanley (drinkware company)"). B4 teases build 84, the Hoover Dam (LINEUP).
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_111928_5ab87d2a-8ba1-45e4-9596-200a8927b7b9.mp4
     file: buildit-thermos-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): the two glass walls get a thin shiny silver coating like a mirror, the orange heat glow bounces
@@ -263,6 +265,7 @@ jobs:
     # and tunnels.html; nps.gov/articles/nevada-and-arizona-hoover-dam.htm; ASCE landmark page; PBS American
     # Experience "The Men Who Built the Dam").
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_113552_041377db-1f75-4148-9368-8cc10f2d8c0a.mp4
     file: buildit-hoover-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a giant curved concrete dam half built in a narrow desert canyon in the 1930s, made of hundreds
@@ -299,3 +302,56 @@ jobs:
       tunnel, crowds on the road above watching. Shot 6 (25-30 s): funny slow motion, at a dinner table a man takes a
       big bite from the middle of a huge lasagna, it is still burning hot inside, steam puffs from his mouth and his
       eyes water while his friends eat calmly from the cool edges.
+
+  - id: dubaiframe-A
+    build: 85
+    kit: dubaiframe
+    # Facts: 150 m tall, 93 m wide, in Zabeel Park, "Old Dubai" to the north and "New Dubai" to the south
+    # (dm.gov.ae/projects/dubai-frame). Two slender rhomboidal reinforced-concrete towers (iStructE Structural
+    # Awards 2018; "two 150m-high concrete cores", VSL), 9,900 m3 of concrete and 2,000 t of steel, lifts that climb
+    # "48 floors in 75 seconds" (Guardian Glass project page). Gulf News: "Two giant cranes atop each tower ... 12
+    # tonnes each" (weight or capacity not clear: check before a line uses it). The steel sky bridge (750 t per VSL,
+    # about 800 t per iStructE; 75 m clear span, 93 m deck) was built on the roof of the low base between the legs
+    # (iStructE), then "lifted by 132m into its final position using four strand jacking units, with one positioned
+    # at each corner", "in a 13-hour operation" (vsl.com/projects/dubai-frame; Gulf News: four 300 t jacks, 3.5 mm a
+    # second, "over two days"). Wind: "porous cladding and a building damper" (Gulf News, "Get ready for a dizzying
+    # sky walk at 150m height").
+    status: todo
+    file: buildit-dubaiframe-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): seen straight on from the park at sunset, a giant golden picture frame 150 meters tall stands
+      alone on the grass, the skyscraper skyline sitting perfectly inside it like a painting, slow push-in toward its
+      empty middle. Shot 2 (5-10 s): wide aerial of Dubai in midday heat haze, low sand-colored old houses with wind
+      towers along a creek with wooden boats on one side, glass skyscrapers on the other, a green park between them.
+      Shot 3 (10-15 s): two thin hollow concrete towers rise side by side in the park, 93 meters apart, steel forms
+      climbing their tops, a cutaway of one tower shows a glass lift gliding up its hollow core. Shot 4 (15-20 s):
+      on top of one of the two tall thin towers, a small crane strains to lift one heavy steel beam that swings in
+      the wind, the other tower across an empty gap, the city 150 meters below. Shot 5 (20-25 s): a giant steel
+      bridge as long as a football field rises slowly from the low base between the two towers, hanging from thick
+      bundles of steel cables pulled by hydraulic jacks at its four corners, golden hour. Shot 6 (25-30 s): a desert
+      sandstorm sweeps across the park, wind and sand slam into the tall flat walls of the two-tower frame, dust
+      swirling around its corners, the steel bridge across its top trembling.
+  - id: dubaiframe-B
+    build: 85
+    kit: dubaiframe
+    # Facts: "porous cladding and a building damper, to reduce the wind impact" (Gulf News); more than 15,000 m2 of
+    # gold-coloured stainless steel with "a ring design" (Guardian Glass); the opening slipped for the "replacement
+    # of the exterior cladding" (Khaleej Times, Mar 2017). The bridge floor has 116 m2 of switchable smart glass that
+    # turns "from translucent to transparent as visitors walk over them" (Gulf News); open to the public since Jan 1
+    # 2018 (The National). B4 teases build 86, the electric kettle (LINEUP). B6: a frame at home that will not hang
+    # straight. People kept to crowds, shoes and hands (see the NSFW notes in the ledger).
+    status: todo
+    file: buildit-dubaiframe-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): close-up of the tower's gold stainless steel skin, panels cut into a pattern of rings full of
+      small holes, wind and sand blowing straight through the holes, the tower behind standing calm. Shot 2
+      (5-10 s): 150 meters up on a bridge, the edge of a fully see-through glass floor with the park tiny far below,
+      a pair of shoes stops right at the edge and steps back. Shot 3 (10-15 s): close-up from above, milky frosted
+      glass floor panels on the high bridge turn clear one by one as shoes step onto them, revealing the green park
+      150 meters below. Shot 4 (15-20 s): an electric kettle on a kitchen counter at dawn, the water inside rolling
+      to a boil, steam rising from the spout, then the small switch on its handle clicks off by itself, macro.
+      Shot 5 (20-25 s): the finished golden frame on a bright winter morning, crowds of visitors at its foot, glass
+      lifts gliding up its legs, people walking across the glass bridge at the top between the old city and the
+      skyscrapers. Shot 6 (25-30 s): funny slow motion, in a living room a big golden picture
+      frame hangs on a nail on the wall, it slowly tips crooked, a hand straightens it, and it tips crooked again
+      the other way.
