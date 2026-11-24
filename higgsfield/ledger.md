@@ -64,3 +64,4 @@
 - Nov 24 04:12 PT (hourly runner) hoover-B done (History 3f2f130b, started 03:52, finished by 04:07), fetched buildit-hoover-sdB.mp4 here; its prompt went in WITHOUT the queue's style line (it starts at "Shot 1"), so check its look and cuts before use. Nothing generating at 04:12: the slot is free for dubaiframe-A (todo), which this cloud run cannot start.
 - Nov 24 04:14 PT dubaiframe-A started (unlimited, no credits); hoover-B fetched (hf_20261124_115235).
 - Nov 24 ~04:28 PT dubaiframe-A done (fetched, hf_20261124_121156); dubaiframe-B started (unlimited, no credits).
+- Nov 24 04:56 PT dubaiframe-B done (fetched, hf_20261124_122831); kettle-A started (unlimited, no credits).

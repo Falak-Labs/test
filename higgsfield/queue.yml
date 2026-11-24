@@ -358,3 +358,40 @@ jobs:
       skyscrapers. Shot 6 (25-30 s): funny slow motion, in a living room a big golden picture
       frame hangs on a nail on the wall, it slowly tips crooked, a hand straightens it, and it tips crooked again
       the other way.
+  - id: kettle-A
+    build: 86
+    kit: kettle
+    # Facts: steam from the boiling water travels through a channel/tube to a bimetallic disc (two metals) that snaps
+    # and cuts the power (Morphy Richards kettle guide; Ingenia/Strix). First fully automatic kettle: Russell Hobbs K1,
+    # stainless steel (Wikipedia says 1955; other sources say 1959: say "the nineteen fifties"). Before this, kettles
+    # boiled on and sometimes set off hotel smoke alarms (Ingenia). Little steam forms before boiling, so the disc is
+    # set a little under 100 C (Wikipedia). Dry-boil limiter protects the element (patent text).
+    status: "generating (started: Nov 24 04:56 PT)"
+    file: buildit-kettle-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a shiny electric kettle on a kitchen counter at dawn, water roaring to a boil, steam rising from
+      the spout, then the small switch on its handle clicks off by itself, macro, slow push-in. Shot 2 (5-10 s): an old
+      kettle in a small hotel room keeps boiling and boiling, thick steam fills the room and a ceiling smoke alarm
+      starts flashing red, wide view. Shot 3 (10-15 s): cutaway of a kettle handle, white steam rushing up a thin tube
+      from under the lid toward a small round metal disc at the top of the handle. Shot 4 (15-20 s): extreme close-up
+      of a small shiny metal disc made of two bonded metal layers, it heats up, bends and snaps with a click and a
+      tiny switch flips off. Shot 5 (20-25 s): a kettle with its lid left open, steam drifting up into the air
+      instead of down the tube, the water keeps rolling and the red element glows inside the glass, macro. Shot 6
+      (25-30 s): cutaway under a kettle, the glowing red heating plate and a second small metal disc pressed against
+      it, the disc snaps and the glow fades away.
+  - id: kettle-B
+    build: 86
+    kit: kettle
+    # Same facts as kettle-A. B4 teases build 87, the hot air balloon (LINEUP).
+    status: todo
+    file: buildit-kettle-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): a kettle sitting on a round cordless power base, small metal pins on the base meet the kettle
+      bottom, the kettle lifts off and settles back with a soft click, macro. Shot 2 (5-10 s): a kettle with no water
+      inside sits switched on, its element glows red then the switch snaps off and it cools, close-up. Shot 3 (10-15
+      s): a glass kettle full of water, tiny bubbles climb and the water slowly rolls into a full boil, blue light
+      glowing, macro. Shot 4 (15-20 s): a giant colorful hot air balloon rises over a green valley at sunrise, a
+      bright flame roaring up into its fabric dome, slow aerial orbit. Shot 5 (20-25 s): a stainless steel kettle and
+      two mugs on a kitchen table at sunrise, steam curling from the spout, warm light, slow push-in. Shot 6 (25-30
+      s): funny slow motion, a toaster and a kettle side by side on a counter, the toaster pops two slices high into the
+      air and the kettle clicks off at the same moment, steam puffs.

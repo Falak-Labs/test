@@ -119,3 +119,4 @@ Rules:
 84. idea: the Hoover Dam (poured in one piece its concrete would have taken about 125 years to cool, so it was cast in blocks with cold-water pipes inside)
 85. idea: the Dubai Frame (a 150 m picture frame between old and new Dubai, with a glass-floor bridge across the top)
 86. idea: an electric kettle that switches itself off (steam runs down a little tube to a two-metal disc that snaps when the water boils and trips the switch: the click) (added by the Higgsfield runner so the Dubai Frame's Seedance clip B can tease it)
+87. idea: a hot air balloon (a flame heats the air inside a huge fabric bag, hot air is lighter than cold air, so the whole basket floats up) (added by the Higgsfield runner so the kettle clip B can tease it)
