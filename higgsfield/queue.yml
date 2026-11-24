@@ -113,6 +113,7 @@ jobs:
     kit: kuwaittowers
     # Nov 24 00:55 PT: the 00:45 job (History 6edb2c27) came back NSFW, no clip. Shot 4 reworded without "shooting".
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_090159_f6daca14-5a4e-4593-9562-60dd3792b83d.mp4
     file: buildit-kuwait-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): the top sphere, a round glass observation deck slowly rotating, visitors watching the sea. Shot 2
@@ -127,6 +128,7 @@ jobs:
     kit: jeddahfountain
     # Nov 24 00:55 PT: shot 1 reworded before its turn (no "shooting", see kuwait-B).
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_091921_f8d0f7a9-afaa-41b0-ac5a-a954d7d89ede.mp4
     file: buildit-fountain-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): Jeddah's giant sea fountain at night, a tall white column of sea water rising higher than the
@@ -154,6 +156,7 @@ jobs:
     build: 81
     kit: zipper
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_095922_80429893-b3f6-45a7-b1ae-dce4543613b0.mp4
     file: buildit-zipper-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): macro shot of a zipper slider racing up and two rows of metal teeth snapping together, slow
@@ -165,6 +168,7 @@ jobs:
     build: 81
     kit: zipper
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_101537_76dfa660-260f-4326-9d82-264a6aa4ee8f.mp4
     file: buildit-zipper-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): a stiff strip of tape sewn along the teeth keeps fabric away. Shot 2 (5-10 s): the slider slides
@@ -178,6 +182,7 @@ jobs:
     build: 82
     kit: hzmb
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_103140_8b0c852e-eb3b-49ae-a06d-ba9015f27da8.mp4
     file: buildit-hzmb-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a six-lane highway bridge far out on the open sea runs onto a small man-made island and dives
@@ -193,6 +198,7 @@ jobs:
     build: 82
     kit: hzmb
     status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261124_104828_a9f4f120-5a37-4cfa-95c8-461da2424a8b.mp4
     file: buildit-hzmb-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): deep underwater, a machine smooths a perfectly flat bed of gravel and rock in a trench on the
@@ -243,3 +249,53 @@ jobs:
       flask into cups and share it in the freezing wind, everyone smiling. Shot 6 (25-30 s): funny slow motion, a man
       at his office desk opens a flask of hot soup and the steam fogs up his glasses completely, he freezes with the
       spoon in the air.
+
+  - id: hoover-A
+    build: 84
+    kit: hooverdam
+    # Facts: 726 ft high, 660 ft thick at the base, 45 ft at the crest; an arch-gravity dam: the water's push
+    # "travel[s] along the dam's great wall into the cliffs on both sides" (NPS, ASCE). The river went around the
+    # site through four 56 ft tunnels (nearly 16,000 ft, 3 ft concrete lining, drilled by eight "jumbos" built on
+    # 10-ton trucks; river turned into them Nov 1932). High scalers, lowered over the rim in safety belts or bosun
+    # chairs, knocked loose rock off the walls with steel bars and drilled blast holes with 44 lb jackhammers;
+    # summer days of 115-120 F.
+    # One pour would take "125 years for the concrete to cool" (usbr.gov/lc/hooverdam/History/essays/concrete.html
+    # and tunnels.html; nps.gov/articles/nevada-and-arizona-hoover-dam.htm; ASCE landmark page; PBS American
+    # Experience "The Men Who Built the Dam").
+    status: todo
+    file: buildit-hoover-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a giant curved concrete dam half built in a narrow desert canyon in the 1930s, made of hundreds
+      of separate square blocks at different heights like a staircase, steam rising from the fresh concrete, a huge
+      bucket gliding overhead on a cable, slow aerial push-in at golden hour. Shot 2 (5-10 s): the wild Colorado River
+      rushing brown and fast through a narrow canyon of dark volcanic rock, desert heat haze, low drone flight just
+      above the water. Shot 3 (10-15 s): 1930s workers on a truck carrying a tall steel tower of rock drills bore a
+      giant round tunnel into the dark canyon rock, dust glowing in the lamp beams. Shot 4 (15-20 s): loose rocks
+      break off high on the canyon wall and tumble down the cliff, 1930s workers in the dry riverbed below scatter and
+      look up, a cloud of dust. Shot 5 (20-25 s): workers in harnesses hanging on ropes swing across the sheer canyon
+      cliff, knocking loose rock off the wall with steel bars and drilling with jackhammers, stones falling far below,
+      wide side view. Shot 6 (25-30 s): thermal camera view of a giant solid block of fresh concrete glowing orange and white
+      inside, long cracks spreading across its surface as the outside cools faster than the hot core.
+  - id: hoover-B
+    build: 84
+    kit: hooverdam
+    # Facts: cast instead as about 215 trapezoidal columns rising in 5 ft lifts, with 1-inch steel pipe inside (590
+    # miles per NPS, "over 650 miles" per ASCE): river water first, then chilled water from a refrigeration plant on
+    # the lower cofferdam; afterwards "grout was forced into these joints" and the pipes were pressure grouted at
+    # 300 psi. Concrete came in 4 and 8 cu yd buckets on nine overhead cableways. The spillways (four 100 x 16 ft
+    # drum gates each) were used only twice: a 1941 test and the 1983 flood (usbr.gov concrete.html, spillways.html;
+    # NPS; ASCE). B4 teases build 85, the Dubai Frame (LINEUP). B6: the middle of a big dish stays hot longest.
+    status: todo
+    file: buildit-hoover-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): cutaway of one square concrete block of the dam, thin steel pipes looping back and forth inside
+      it, ice-cold water flowing through them, the orange heat fading to cool blue. Shot 2 (5-10 s): close-up of two
+      giant concrete blocks side by side, as they cool they shrink and a thin dark gap opens between them, water starts
+      seeping through the gap. Shot 3 (10-15 s): workers pump thick grey cement paste through a hose into the gap
+      between the giant blocks, the gap fills and the blocks join into one solid wall, close-up. Shot 4 (15-20 s): a
+      giant golden picture frame 150 meters tall in a park in Dubai at sunset, a glass bridge across its top, old low
+      houses on one side and skyscrapers on the other, slow aerial orbit. Shot 5 (20-25 s): 1983, the lake behind the
+      finished dam is so full that water pours over the long steel gates of a huge spillway beside it and roars into a
+      tunnel, crowds on the road above watching. Shot 6 (25-30 s): funny slow motion, at a dinner table a man takes a
+      big bite from the middle of a huge lasagna, it is still burning hot inside, steam puffs from his mouth and his
+      eyes water while his friends eat calmly from the cool edges.

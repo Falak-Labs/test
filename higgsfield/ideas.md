@@ -172,3 +172,41 @@ Free footage and pictures
 - Thermos (83) proof shot: US patent 872,795 (1907), "Double-walled vessel with a space for a vacuum between the
   walls", is on Google Patents; its drawing fits the USPTO rule noted on Nov 23 (check it carries no copyright
   notice). [Google Patents](https://patents.google.com/patent/US872795)
+
+## 2026-11-24 03:01 PT (hourly runner, cloud run)
+Platform rules
+- TikTok wants a label on every Seedance build: "We also require creators to label all AI-generated content that
+  contains realistic images, audio, and video" (examples: "Entirely AI-generated videos or images of real or
+  fictional people, places, and events"), and "We may remove content that violates our Community Guidelines
+  policies by depicting misleading information or unlabeled AI-generated content". The label "won't affect the
+  distribution of your video". Auto labels come only from C2PA Content Credentials, which our ffmpeg cut does not
+  carry over, so the label has to come from us. [TikTok support](https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content),
+  [TikTok newsroom, Mar 10 2026](https://newsroom.tiktok.com/tiktok-ssa-shares-more-ways-to-spot-shape-and-understand-ai-generated-content?lang=en-ZA)
+- Buffer can set it for us: its "AI-Generated" flag covers TikTok ("video posts only", shows "Contains AI-generated
+  media"), YouTube Shorts ("ⓘ AI"), Instagram (posts, reels, carousels, stories) and X; the network "applies its own
+  native AI-content label", and it can be sent "If you use the Buffer API or the MCP server" (field name not given;
+  an unsupported post gets a validation error). TikTok's own API field is post_info.is_aigc ("Set to true if the
+  video is AI generated content", optional; shows "Creator labeled as AI-generated"). Today scripts/post.py sends
+  TikTok posts with no metadata at all and YouTube/Instagram metadata without any AI flag, so before the first
+  Seedance build (78 on: media made, none in posts/ yet) is posted, find the flag's field with scripts/inspect_api.py
+  (needs the Buffer key, so in CI) and have post.py set it for `look: sd` builds. This also settles the 23:55 question
+  about Buffer's YouTube posts. [Buffer help](https://support.buffer.com/articles/flagging-posts-as-ai-generated-in-buffer-V7jAnzYJ5n),
+  [TikTok API, upd. Aug 24 2026](https://developers.tiktok.com/docs/en/content-posting-api-reference-direct-post)
+
+Free footage and pictures
+- Hoover Dam (84) real 1930s film: the University of Utah's Marriott Library has "Boulder Dam: The Pictorial Record
+  of Man's Conquest of the Colorado River" (1937, creator "United States. Bureau of Reclamation", a 5:22 mp4
+  segment, "A segment from a public service announcement produced by the U.S. Bureau of Reclamation"). Its Rights
+  field is blank: a federal film has no U.S. copyright (17 U.S.C. 105), but ask the library (or its finding aid)
+  before using it as a line 11 proof shot. Skip the Bancroft Library's 1930s Six Companies reels on Calisphere:
+  "Copyrighted. Rights are owned by UC Regents". [Utah](https://collections.lib.utah.edu/ark:/87278/s62sehm8),
+  [Calisphere](https://calisphere.org/item/ddcbdfe24a3f3088f352f820ee17aedc/)
+
+New content
+- A candidate for LINEUP 86 (LINEUP ends at 85, and the Dubai Frame's job B needs build 86 for its B4 tease; an
+  everyday thing fits after three big structures): the electric kettle that switches itself off. A "steam channel"
+  "carries steam from the top of the boiling interior down to the thermostat", a bimetallic disc that "snaps
+  suddenly at a certain temperature" trips the switch (the click), and a plain thermostat in the water would fail
+  because the boiling point falls "approximately 0.5°C" per 150 m of height. A1 as a macro of the disc snapping fits
+  the tactile-hook note of 00:58. Not made before (episodes.yml has no kettle). [Ingenia](https://www.ingenia.org.uk/articles/how-do-kettles-know-when-to-switch-off),
+  [Explain that Stuff](https://www.explainthatstuff.com/how-electric-kettles-work.html)
