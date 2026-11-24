@@ -1804,3 +1804,15 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   "Yes... a dishwasher"), keep the facts. Tags never reach the captions (make_vo_eleven strips them).
   LENGTH: he is slow and the laughs take time: 217 words = 93 s. Write about 160-170 words (14 lines) to land near
   70 s, and keep the hook line under 15 words. v4 has no speed setting; do not speed him up more than 1.1x.
+- OVERRIDES for the two production prompts (midday 11:23 and evening 18:37), from Nov 24 on. Where a prompt says
+  otherwise, these win:
+  1. Look: Seedance builds (series/SEEDANCE_STYLE.md). Skip step 5 (v2 scene) and produce.yml; make the build with
+     tools/seedance_publish.py, episodes.yml line `look: sd`. Take the LINEUP builds in order, but only ones whose
+     two clips are `status: done` in higgsfield/queue.yml (ai_media.py get them); a slot with no ready footage gets
+     the next ready build, and v2 only if none is ready. Never generate on Higgsfield in a scheduled run.
+  2. English script: about 160-170 words (not 210-230), Ballen's funny delivery with [audio tags]; English voice up
+     to about 74 s is fine (not 67); gates are seedance_publish's (EN 55-75 s, AR 55-85 s, -15..-13 LUFS).
+  3. Each line must fit its shot: watch the clips (one frame per shot) before writing, and match line N to shot N
+     (shot plan table in SEEDANCE_STYLE.md). Lines 12-13 use the still or the best A shot.
+  4. ElevenLabs: Pro plan since Nov 22 (613,234 characters a month, resets Dec 22); the Build-It share is about
+     12,000 characters a day. The "Creator, 23,000 left" line in the prompts is out of date.
