@@ -164,7 +164,7 @@ jobs:
   - id: zipper-B
     build: 81
     kit: zipper
-    status: "generating (started: Nov 24 02:18 PT)"
+    status: done
     file: buildit-zipper-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): a stiff strip of tape sewn along the teeth keeps fabric away. Shot 2 (5-10 s): the slider slides
@@ -177,7 +177,7 @@ jobs:
   - id: hzmb-A
     build: 82
     kit: hzmb
-    status: todo
+    status: "generating (started: Nov 24 03:31 PT)"
     file: buildit-hzmb-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a six-lane highway bridge far out on the open sea runs onto a small man-made island and dives
