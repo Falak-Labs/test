@@ -626,6 +626,14 @@ New content
   [ASME](https://www.asme.org/engineering-topics/articles/transportation/symbol-of-the-millennium-the-falkirk-wheel),
   [Hackaday, Feb 13 2026](https://hackaday.com/2026/02/13/the-engineering-of-the-falkirk-wheel),
   [Wikipedia](https://en.wikipedia.org/wiki/Falkirk_Wheel)
-- A lead for the Huajiang (93) cable-wire gap: a People's Daily story headlined "Nearly 40,000 steel wires hold up
-  world's tallest bridge". Only a disabled repost came up in search (its page reads "PAGE HAS BEEN DISABLED"), so find
-  the original before a line uses the number.
+- Huajiang (93), the cable-wire gap filled: "A single main cable consists of 217 compacted strand bundles, which in turn
+  contain 91 high-strength, 5.7 mm steel wires" (China Daily, Apr 26 2025): about 19,700 wires a cable, about 39,500 in
+  the two, so People's Daily's "Each cable is formed by nearly 40,000 individual steel wires" (repost, Feb 26 2026)
+  fits only as the total; it adds "tensile strength of up to 2,000 megapascals", that the wires' "combined length would
+  circle the Earth's equator twice", fiber grating sensors inside the cables tracking "temperature, humidity, and stress
+  levels", and a zinc-aluminium-magnesium coating. A new break and fix for its pair: the danger of "an oil tanker
+  catching fire on the bridge deck", so the main cables got "up to five layers of fire-resistant material" (under one
+  centimetre in all) that "withstand temperatures of up to 1,100 C for a full hour" (China Daily). Ready shots: a
+  tanker fire on the deck with flames licking the cable, and a macro cutaway of one cable packed with bundles of wires.
+  [China Daily, Apr 26 2025](https://mobile.chinadaily.com.cn/cn/html5/2025-04/26/content_002_680c0be5ed50ccabe15111e5.htm),
+  [People's Daily via Alwihda, Feb 26 2026](https://www.alwihdainfo.com/nearly-40000-steel-wires-hold-up-world-s-tallest-bridge-a148378/)
