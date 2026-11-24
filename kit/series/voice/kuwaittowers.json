@@ -3,1229 +3,1109 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 84.044,
- "words": 222,
- "words_per_sec": 2.64,
+ "duration": 78.402,
+ "words": 198,
+ "words_per_sec": 2.53,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 6.263,
-   "text": "Y'all, these two giant glittering balls are actually water tanks. Yes, water tanks.",
+   "end": 5.729,
+   "text": "Y'all, these two glittering balls are actually water tanks. Yes, water tanks.",
    "words": [
     {
      "w": "Y'all,",
-     "start": 0.117,
-     "end": 0.724
+     "start": 0.143,
+     "end": 0.821
     },
     {
      "w": "these",
-     "start": 0.903,
-     "end": 1.117
+     "start": 1.0,
+     "end": 1.214
     },
     {
      "w": "two",
-     "start": 1.188,
-     "end": 1.403
-    },
-    {
-     "w": "giant",
-     "start": 1.617,
-     "end": 1.974
+     "start": 1.286,
+     "end": 1.429
     },
     {
      "w": "glittering",
-     "start": 2.046,
-     "end": 2.403
+     "start": 1.5,
+     "end": 1.857
     },
     {
      "w": "balls",
-     "start": 2.474,
-     "end": 2.76
+     "start": 1.929,
+     "end": 2.214
     },
     {
      "w": "are",
-     "start": 2.867,
-     "end": 2.974
+     "start": 2.321,
+     "end": 2.429
     },
     {
      "w": "actually",
-     "start": 3.046,
-     "end": 3.403
+     "start": 2.5,
+     "end": 2.857
     },
     {
      "w": "water",
-     "start": 3.546,
-     "end": 3.831
+     "start": 3.0,
+     "end": 3.286
     },
     {
      "w": "tanks.",
-     "start": 3.903,
-     "end": 4.473
+     "start": 3.357,
+     "end": 3.929
     },
     {
      "w": "Yes,",
-     "start": 4.608,
-     "end": 5.134
+     "start": 4.071,
+     "end": 4.571
     },
     {
      "w": "water",
-     "start": 5.34,
-     "end": 5.626
+     "start": 4.741,
+     "end": 5.027
     },
     {
      "w": "tanks.",
-     "start": 5.697,
-     "end": 6.34
+     "start": 5.098,
+     "end": 5.812
     }
    ]
   },
   {
    "line": 2,
-   "start": 6.576,
-   "end": 14.342,
-   "text": "Now listen. Kuwait in the nineteen seventies was hot, dry, and very thirsty. So how do you store water in the desert?",
+   "start": 6.041,
+   "end": 12.258,
+   "text": "Kuwait in the nineteen seventies was hot, dry, and thirsty. So how do you store water in a desert?",
    "words": [
     {
-     "w": "Now",
-     "start": 6.661,
-     "end": 6.804
-    },
-    {
-     "w": "listen.",
-     "start": 6.946,
-     "end": 7.58
-    },
-    {
      "w": "Kuwait",
-     "start": 7.795,
-     "end": 8.223
+     "start": 6.103,
+     "end": 6.47
     },
     {
      "w": "in",
-     "start": 8.259,
-     "end": 8.295
+     "start": 6.541,
+     "end": 6.612
     },
     {
      "w": "the",
-     "start": 8.366,
-     "end": 8.437
+     "start": 6.648,
+     "end": 6.684
     },
     {
      "w": "nineteen",
-     "start": 8.509,
-     "end": 8.866
+     "start": 6.755,
+     "end": 7.148
     },
     {
      "w": "seventies",
-     "start": 8.937,
-     "end": 9.438
+     "start": 7.255,
+     "end": 7.755
     },
     {
      "w": "was",
-     "start": 9.545,
-     "end": 9.652
+     "start": 7.862,
+     "end": 7.97
     },
     {
      "w": "hot,",
-     "start": 9.795,
-     "end": 10.295
+     "start": 8.041,
+     "end": 8.434
     },
     {
      "w": "dry,",
-     "start": 10.509,
-     "end": 10.795
+     "start": 8.541,
+     "end": 8.97
     },
     {
      "w": "and",
-     "start": 10.902,
-     "end": 11.009
-    },
-    {
-     "w": "very",
-     "start": 11.223,
-     "end": 11.509
+     "start": 9.041,
+     "end": 9.255
     },
     {
      "w": "thirsty.",
-     "start": 11.58,
-     "end": 12.25
+     "start": 9.461,
+     "end": 10.086
     },
     {
      "w": "So",
-     "start": 12.357,
-     "end": 12.464
+     "start": 10.211,
+     "end": 10.354
     },
     {
      "w": "how",
-     "start": 12.679,
-     "end": 12.75
+     "start": 10.568,
+     "end": 10.711
     },
     {
      "w": "do",
-     "start": 12.821,
-     "end": 12.893
+     "start": 10.746,
+     "end": 10.782
     },
     {
      "w": "you",
-     "start": 12.964,
-     "end": 13.036
+     "start": 10.854,
+     "end": 10.925
     },
     {
      "w": "store",
-     "start": 13.179,
-     "end": 13.321
+     "start": 11.068,
+     "end": 11.211
     },
     {
      "w": "water",
-     "start": 13.393,
-     "end": 13.679
+     "start": 11.282,
+     "end": 11.568
     },
     {
      "w": "in",
-     "start": 13.714,
-     "end": 13.75
+     "start": 11.604,
+     "end": 11.639
     },
     {
-     "w": "the",
-     "start": 13.821,
-     "end": 13.857
+     "w": "a",
+     "start": 11.711,
+     "end": 11.782
     },
     {
      "w": "desert?",
-     "start": 13.893,
-     "end": 14.536
+     "start": 11.889,
+     "end": 12.496
     }
    ]
   },
   {
    "line": 3,
-   "start": 14.654,
-   "end": 22.096,
-   "text": "First, you pour a tall concrete needle, put a huge tank on top, and pump the water up. Gravity does the rest.",
+   "start": 12.571,
+   "end": 19.44,
+   "text": "You pour a tall concrete needle, put a huge tank on top, and pump water up. Gravity does the rest.",
    "words": [
     {
-     "w": "First,",
-     "start": 14.795,
-     "end": 15.509
-    },
-    {
-     "w": "you",
-     "start": 15.58,
-     "end": 15.723
+     "w": "You",
+     "start": 12.781,
+     "end": 12.924
     },
     {
      "w": "pour",
-     "start": 15.83,
-     "end": 15.938
+     "start": 12.996,
+     "end": 13.21
     },
     {
      "w": "a",
-     "start": 15.973,
-     "end": 16.009
+     "start": 13.281,
+     "end": 13.353
     },
     {
      "w": "tall",
-     "start": 16.08,
-     "end": 16.366
+     "start": 13.424,
+     "end": 13.71
     },
     {
      "w": "concrete",
-     "start": 16.509,
-     "end": 16.937
+     "start": 13.781,
+     "end": 14.21
     },
     {
      "w": "needle,",
-     "start": 17.009,
-     "end": 17.5
+     "start": 14.281,
+     "end": 14.746
     },
     {
      "w": "put",
-     "start": 17.571,
-     "end": 17.643
+     "start": 14.924,
+     "end": 14.996
     },
     {
      "w": "a",
-     "start": 17.714,
-     "end": 17.786
+     "start": 15.067,
+     "end": 15.138
     },
     {
      "w": "huge",
-     "start": 17.857,
-     "end": 18.143
+     "start": 15.21,
+     "end": 15.567
     },
     {
      "w": "tank",
-     "start": 18.214,
-     "end": 18.429
+     "start": 15.674,
+     "end": 15.781
     },
     {
      "w": "on",
-     "start": 18.5,
-     "end": 18.571
+     "start": 15.853,
+     "end": 15.996
     },
     {
      "w": "top,",
-     "start": 18.643,
-     "end": 19.071
+     "start": 16.138,
+     "end": 16.388
     },
     {
      "w": "and",
-     "start": 19.179,
-     "end": 19.286
+     "start": 16.496,
+     "end": 16.638
     },
     {
      "w": "pump",
-     "start": 19.321,
-     "end": 19.5
-    },
-    {
-     "w": "the",
-     "start": 19.571,
-     "end": 19.643
+     "start": 16.71,
+     "end": 16.924
     },
     {
      "w": "water",
-     "start": 19.714,
-     "end": 19.929
+     "start": 16.996,
+     "end": 17.281
     },
     {
      "w": "up.",
-     "start": 20.0,
-     "end": 20.286
+     "start": 17.353,
+     "end": 17.603
     },
     {
      "w": "Gravity",
-     "start": 21.071,
-     "end": 21.286
+     "start": 18.415,
+     "end": 18.629
     },
     {
      "w": "does",
-     "start": 21.393,
-     "end": 21.5
+     "start": 18.737,
+     "end": 18.844
     },
     {
      "w": "the",
-     "start": 21.536,
-     "end": 21.571
+     "start": 18.879,
+     "end": 18.915
     },
     {
      "w": "rest.",
-     "start": 21.643,
-     "end": 22.286
+     "start": 18.987,
+     "end": 19.487
     }
    ]
   },
   {
    "line": 4,
-   "start": 22.409,
-   "end": 28.7,
-   "text": "But then a sandstorm rolls in, and a plain concrete ball gets sandblasted like a bad haircut.",
+   "start": 19.753,
+   "end": 25.407,
+   "text": "But then a sandstorm rolls in, and bare concrete gets sandblasted like a bad haircut.",
    "words": [
     {
      "w": "But",
-     "start": 23.087,
-     "end": 23.23
+     "start": 20.253,
+     "end": 20.396
     },
     {
      "w": "then",
-     "start": 23.302,
-     "end": 23.445
+     "start": 20.467,
+     "end": 20.61
     },
     {
      "w": "a",
-     "start": 23.516,
-     "end": 23.587
+     "start": 20.681,
+     "end": 20.753
     },
     {
      "w": "sandstorm",
-     "start": 23.659,
-     "end": 24.23
+     "start": 20.824,
+     "end": 21.396
     },
     {
      "w": "rolls",
-     "start": 24.373,
-     "end": 24.516
+     "start": 21.467,
+     "end": 21.681
     },
     {
      "w": "in,",
-     "start": 24.587,
-     "end": 24.945
+     "start": 21.753,
+     "end": 22.146
     },
     {
      "w": "and",
-     "start": 25.016,
-     "end": 25.087
+     "start": 22.217,
+     "end": 22.288
     },
     {
-     "w": "a",
-     "start": 25.159,
-     "end": 25.23
-    },
-    {
-     "w": "plain",
-     "start": 25.302,
-     "end": 25.587
+     "w": "bare",
+     "start": 22.431,
+     "end": 22.646
     },
     {
      "w": "concrete",
-     "start": 25.659,
-     "end": 26.087
-    },
-    {
-     "w": "ball",
-     "start": 26.23,
-     "end": 26.445
+     "start": 22.717,
+     "end": 23.217
     },
     {
      "w": "gets",
-     "start": 26.516,
-     "end": 26.73
+     "start": 23.324,
+     "end": 23.431
     },
     {
      "w": "sandblasted",
-     "start": 26.802,
-     "end": 27.516
+     "start": 23.503,
+     "end": 24.217
     },
     {
      "w": "like",
-     "start": 27.587,
-     "end": 27.659
+     "start": 24.288,
+     "end": 24.36
     },
     {
      "w": "a",
-     "start": 27.695,
-     "end": 27.73
+     "start": 24.396,
+     "end": 24.431
     },
     {
      "w": "bad",
-     "start": 27.873,
-     "end": 28.087
+     "start": 24.574,
+     "end": 24.788
     },
     {
      "w": "haircut.",
-     "start": 28.159,
-     "end": 28.873
+     "start": 24.86,
+     "end": 25.574
     }
    ]
   },
   {
    "line": 5,
-   "start": 29.012,
-   "end": 34.283,
+   "start": 25.72,
+   "end": 30.989,
    "text": "So you cover the ball with about forty one thousand shiny discs, bolted on by hand.",
    "words": [
     {
      "w": "So",
-     "start": 29.155,
-     "end": 29.298
+     "start": 25.862,
+     "end": 26.005
     },
     {
      "w": "you",
-     "start": 29.441,
-     "end": 29.584
+     "start": 26.148,
+     "end": 26.291
     },
     {
      "w": "cover",
-     "start": 29.727,
-     "end": 29.87
+     "start": 26.434,
+     "end": 26.577
     },
     {
      "w": "the",
-     "start": 29.941,
-     "end": 30.012
+     "start": 26.648,
+     "end": 26.72
     },
     {
      "w": "ball",
-     "start": 30.12,
-     "end": 30.227
+     "start": 26.827,
+     "end": 26.934
     },
     {
      "w": "with",
-     "start": 30.298,
-     "end": 30.37
+     "start": 27.005,
+     "end": 27.077
     },
     {
      "w": "about",
-     "start": 30.512,
-     "end": 30.655
+     "start": 27.22,
+     "end": 27.362
     },
     {
      "w": "forty",
-     "start": 30.798,
-     "end": 31.084
+     "start": 27.505,
+     "end": 27.791
     },
     {
      "w": "one",
-     "start": 31.155,
-     "end": 31.37
+     "start": 27.862,
+     "end": 28.077
     },
     {
      "w": "thousand",
-     "start": 31.441,
-     "end": 31.87
+     "start": 28.148,
+     "end": 28.577
     },
     {
      "w": "shiny",
-     "start": 32.012,
-     "end": 32.298
+     "start": 28.72,
+     "end": 29.005
     },
     {
      "w": "discs,",
-     "start": 32.37,
-     "end": 32.941
+     "start": 29.077,
+     "end": 29.648
     },
     {
      "w": "bolted",
-     "start": 33.012,
-     "end": 33.298
+     "start": 29.72,
+     "end": 30.005
     },
     {
      "w": "on",
-     "start": 33.37,
-     "end": 33.512
+     "start": 30.077,
+     "end": 30.22
     },
     {
      "w": "by",
-     "start": 33.584,
-     "end": 33.798
+     "start": 30.291,
+     "end": 30.505
     },
     {
      "w": "hand.",
-     "start": 34.012,
-     "end": 34.441
+     "start": 30.72,
+     "end": 31.148
     }
    ]
   },
   {
    "line": 6,
-   "start": 34.596,
-   "end": 39.772,
+   "start": 31.302,
+   "end": 36.479,
    "text": "But at fifty degrees, steel grows, and the discs start to rattle. Oh boy.",
    "words": [
     {
      "w": "But",
-     "start": 34.724,
-     "end": 34.867
+     "start": 31.431,
+     "end": 31.574
     },
     {
      "w": "at",
-     "start": 34.974,
-     "end": 35.081
+     "start": 31.681,
+     "end": 31.788
     },
     {
      "w": "fifty",
-     "start": 35.117,
-     "end": 35.367
+     "start": 31.824,
+     "end": 32.074
     },
     {
      "w": "degrees,",
-     "start": 35.438,
-     "end": 36.081
+     "start": 32.146,
+     "end": 32.788
     },
     {
      "w": "steel",
-     "start": 36.224,
-     "end": 36.51
+     "start": 32.931,
+     "end": 33.217
     },
     {
      "w": "grows,",
-     "start": 36.581,
-     "end": 37.153
+     "start": 33.288,
+     "end": 33.86
     },
     {
      "w": "and",
-     "start": 37.224,
-     "end": 37.296
+     "start": 33.931,
+     "end": 34.003
     },
     {
      "w": "the",
-     "start": 37.367,
-     "end": 37.51
+     "start": 34.074,
+     "end": 34.217
     },
     {
      "w": "discs",
-     "start": 37.653,
-     "end": 37.867
+     "start": 34.36,
+     "end": 34.574
     },
     {
      "w": "start",
-     "start": 37.938,
-     "end": 38.153
+     "start": 34.646,
+     "end": 34.86
     },
     {
      "w": "to",
-     "start": 38.224,
-     "end": 38.296
+     "start": 34.931,
+     "end": 35.003
     },
     {
      "w": "rattle.",
-     "start": 38.438,
-     "end": 38.953
+     "start": 35.146,
+     "end": 35.659
     },
     {
      "w": "Oh",
-     "start": 39.001,
-     "end": 39.215
+     "start": 35.708,
+     "end": 35.922
     },
     {
      "w": "boy.",
-     "start": 39.358,
-     "end": 39.929
+     "start": 36.065,
+     "end": 36.637
     }
    ]
   },
   {
    "line": 7,
-   "start": 40.085,
-   "end": 45.131,
-   "text": "So you leave each disc room to breathe, and since you're up there, add a deck that spins.",
+   "start": 36.792,
+   "end": 41.162,
+   "text": "So you give each disc room to breathe, and add a deck that spins.",
    "words": [
     {
      "w": "So",
-     "start": 40.299,
-     "end": 40.442
+     "start": 37.002,
+     "end": 37.145
     },
     {
      "w": "you",
-     "start": 40.513,
-     "end": 40.656
+     "start": 37.216,
+     "end": 37.359
     },
     {
-     "w": "leave",
-     "start": 40.799,
-     "end": 40.942
+     "w": "give",
+     "start": 37.466,
+     "end": 37.573
     },
     {
      "w": "each",
-     "start": 41.013,
-     "end": 41.156
+     "start": 37.645,
+     "end": 37.859
     },
     {
      "w": "disc",
-     "start": 41.228,
-     "end": 41.442
+     "start": 37.966,
+     "end": 38.073
     },
     {
      "w": "room",
-     "start": 41.513,
-     "end": 41.656
+     "start": 38.145,
+     "end": 38.359
     },
     {
      "w": "to",
-     "start": 41.763,
-     "end": 41.871
+     "start": 38.43,
+     "end": 38.502
     },
     {
      "w": "breathe,",
-     "start": 41.906,
-     "end": 42.478
+     "start": 38.573,
+     "end": 39.14
     },
     {
      "w": "and",
-     "start": 42.656,
-     "end": 42.799
-    },
-    {
-     "w": "since",
-     "start": 42.871,
-     "end": 42.942
-    },
-    {
-     "w": "you're",
-     "start": 43.013,
-     "end": 43.085
-    },
-    {
-     "w": "up",
-     "start": 43.156,
-     "end": 43.299
-    },
-    {
-     "w": "there,",
-     "start": 43.406,
-     "end": 43.692
+     "start": 39.234,
+     "end": 39.448
     },
     {
      "w": "add",
-     "start": 43.871,
-     "end": 43.942
+     "start": 39.591,
+     "end": 39.734
     },
     {
      "w": "a",
-     "start": 44.085,
-     "end": 44.156
+     "start": 39.805,
+     "end": 39.877
     },
     {
      "w": "deck",
-     "start": 44.228,
-     "end": 44.299
+     "start": 39.948,
+     "end": 40.162
     },
     {
      "w": "that",
-     "start": 44.371,
-     "end": 44.442
+     "start": 40.27,
+     "end": 40.377
     },
     {
      "w": "spins.",
-     "start": 44.513,
-     "end": 45.228
+     "start": 40.484,
+     "end": 41.234
     }
    ]
   },
   {
    "line": 8,
-   "start": 45.444,
-   "end": 51.013,
-   "text": "But now the deck just stops, and a very serious mechanic is very confused.",
+   "start": 41.475,
+   "end": 47.118,
+   "text": "But now the deck stops, and a very serious mechanic is very confused.",
    "words": [
     {
      "w": "But",
-     "start": 46.005,
-     "end": 46.148
+     "start": 42.27,
+     "end": 42.413
     },
     {
      "w": "now",
-     "start": 46.22,
-     "end": 46.434
+     "start": 42.484,
+     "end": 42.698
     },
     {
      "w": "the",
-     "start": 46.505,
-     "end": 46.577
+     "start": 42.77,
+     "end": 42.841
     },
     {
      "w": "deck",
-     "start": 46.72,
-     "end": 46.934
-    },
-    {
-     "w": "just",
-     "start": 47.005,
-     "end": 47.148
+     "start": 42.912,
+     "end": 43.127
     },
     {
      "w": "stops,",
-     "start": 47.22,
-     "end": 47.935
+     "start": 43.198,
+     "end": 43.957
     },
     {
      "w": "and",
-     "start": 48.005,
-     "end": 48.077
+     "start": 44.029,
+     "end": 44.1
     },
     {
      "w": "a",
-     "start": 48.148,
-     "end": 48.22
+     "start": 44.171,
+     "end": 44.243
     },
     {
      "w": "very",
-     "start": 48.362,
-     "end": 48.648
+     "start": 44.386,
+     "end": 44.671
     },
     {
      "w": "serious",
-     "start": 48.791,
-     "end": 49.077
+     "start": 44.814,
+     "end": 45.1
     },
     {
      "w": "mechanic",
-     "start": 49.148,
-     "end": 49.577
+     "start": 45.171,
+     "end": 45.671
     },
     {
      "w": "is",
-     "start": 49.648,
-     "end": 49.791
+     "start": 45.743,
+     "end": 45.957
     },
     {
      "w": "very",
-     "start": 50.005,
-     "end": 50.22
+     "start": 46.1,
+     "end": 46.314
     },
     {
      "w": "confused.",
-     "start": 50.291,
-     "end": 51.148
+     "start": 46.386,
+     "end": 47.243
     }
    ]
   },
   {
    "line": 9,
-   "start": 51.326,
-   "end": 56.304,
-   "text": "So you hide big steel gears under the floor, and the whole deck turns smoothly again.",
+   "start": 47.43,
+   "end": 51.84,
+   "text": "So you hide steel gears under the floor, and it turns smoothly again.",
    "words": [
     {
      "w": "So",
-     "start": 51.54,
-     "end": 51.683
+     "start": 47.645,
+     "end": 47.787
     },
     {
      "w": "you",
-     "start": 51.754,
-     "end": 51.897
+     "start": 47.93,
+     "end": 48.073
     },
     {
      "w": "hide",
-     "start": 51.969,
-     "end": 52.183
-    },
-    {
-     "w": "big",
-     "start": 52.326,
-     "end": 52.54
+     "start": 48.216,
+     "end": 48.359
     },
     {
      "w": "steel",
-     "start": 52.612,
-     "end": 52.826
+     "start": 48.43,
+     "end": 48.788
     },
     {
      "w": "gears",
-     "start": 52.969,
-     "end": 53.183
+     "start": 48.93,
+     "end": 49.287
     },
     {
      "w": "under",
-     "start": 53.254,
-     "end": 53.397
+     "start": 49.395,
+     "end": 49.502
     },
     {
      "w": "the",
-     "start": 53.469,
-     "end": 53.54
+     "start": 49.573,
+     "end": 49.645
     },
     {
      "w": "floor,",
-     "start": 53.683,
-     "end": 54.183
+     "start": 49.823,
+     "end": 50.18
     },
     {
      "w": "and",
-     "start": 54.254,
-     "end": 54.326
+     "start": 50.35,
+     "end": 50.421
     },
     {
-     "w": "the",
-     "start": 54.397,
-     "end": 54.469
-    },
-    {
-     "w": "whole",
-     "start": 54.54,
-     "end": 54.754
-    },
-    {
-     "w": "deck",
-     "start": 54.897,
-     "end": 55.112
+     "w": "it",
+     "start": 50.493,
+     "end": 50.564
     },
     {
      "w": "turns",
-     "start": 55.219,
-     "end": 55.397
+     "start": 50.636,
+     "end": 50.921
     },
     {
      "w": "smoothly",
-     "start": 55.576,
-     "end": 55.826
+     "start": 51.1,
+     "end": 51.35
     },
     {
      "w": "again.",
-     "start": 56.004,
-     "end": 56.469
+     "start": 51.421,
+     "end": 51.993
     }
    ]
   },
   {
    "line": 10,
-   "start": 56.617,
-   "end": 62.943,
+   "start": 52.153,
+   "end": 58.479,
    "text": "Hit follow, 'cause next we're building the tallest fountain in the world. Yes... a fountain.",
    "words": [
     {
      "w": "Hit",
-     "start": 56.688,
-     "end": 56.831
+     "start": 52.224,
+     "end": 52.367
     },
     {
      "w": "follow,",
-     "start": 56.974,
-     "end": 57.546
+     "start": 52.51,
+     "end": 53.081
     },
     {
      "w": "'cause",
-     "start": 57.688,
-     "end": 57.903
+     "start": 53.224,
+     "end": 53.438
     },
     {
      "w": "next",
-     "start": 57.974,
-     "end": 58.26
+     "start": 53.51,
+     "end": 53.796
     },
     {
      "w": "we're",
-     "start": 58.403,
-     "end": 58.546
+     "start": 53.938,
+     "end": 54.081
     },
     {
      "w": "building",
-     "start": 58.688,
-     "end": 58.831
+     "start": 54.224,
+     "end": 54.367
     },
     {
      "w": "the",
-     "start": 58.938,
-     "end": 59.046
+     "start": 54.474,
+     "end": 54.581
     },
     {
      "w": "tallest",
-     "start": 59.081,
-     "end": 59.474
+     "start": 54.617,
+     "end": 55.01
     },
     {
      "w": "fountain",
-     "start": 59.546,
-     "end": 59.831
+     "start": 55.081,
+     "end": 55.367
     },
     {
      "w": "in",
-     "start": 59.903,
-     "end": 59.974
+     "start": 55.438,
+     "end": 55.51
     },
     {
      "w": "the",
-     "start": 60.046,
-     "end": 60.117
+     "start": 55.581,
+     "end": 55.653
     },
     {
      "w": "world.",
-     "start": 60.26,
-     "end": 60.76
+     "start": 55.796,
+     "end": 56.296
     },
     {
      "w": "Yes...",
-     "start": 61.188,
-     "end": 61.831
+     "start": 56.724,
+     "end": 57.367
     },
     {
      "w": "a",
-     "start": 62.046,
-     "end": 62.26
+     "start": 57.581,
+     "end": 57.796
     },
     {
      "w": "fountain.",
-     "start": 62.331,
-     "end": 63.046
+     "start": 57.867,
+     "end": 58.581
     }
    ]
   },
   {
    "line": 11,
-   "start": 63.255,
-   "end": 69.113,
-   "text": "Today, people stroll the seafront under the towers, and nobody thinks about water. That's the point.",
+   "start": 58.791,
+   "end": 63.597,
+   "text": "Today, people stroll the seafront, and nobody thinks about water. That's the point.",
    "words": [
     {
      "w": "Today,",
-     "start": 63.47,
-     "end": 64.255
+     "start": 58.934,
+     "end": 59.505
     },
     {
      "w": "people",
-     "start": 64.327,
-     "end": 64.541
+     "start": 59.648,
+     "end": 59.934
     },
     {
      "w": "stroll",
-     "start": 64.612,
-     "end": 64.898
+     "start": 60.005,
+     "end": 60.22
     },
     {
      "w": "the",
-     "start": 64.97,
-     "end": 65.041
+     "start": 60.291,
+     "end": 60.362
     },
     {
-     "w": "seafront",
-     "start": 65.112,
-     "end": 65.541
-    },
-    {
-     "w": "under",
-     "start": 65.648,
-     "end": 65.755
-    },
-    {
-     "w": "the",
-     "start": 65.827,
-     "end": 65.898
-    },
-    {
-     "w": "towers,",
-     "start": 65.97,
-     "end": 66.541
+     "w": "seafront,",
+     "start": 60.434,
+     "end": 60.97
     },
     {
      "w": "and",
-     "start": 66.648,
-     "end": 66.755
+     "start": 61.077,
+     "end": 61.22
     },
     {
      "w": "nobody",
-     "start": 66.827,
-     "end": 67.184
+     "start": 61.291,
+     "end": 61.72
     },
     {
      "w": "thinks",
-     "start": 67.255,
-     "end": 67.398
+     "start": 61.791,
+     "end": 61.934
     },
     {
      "w": "about",
-     "start": 67.47,
-     "end": 67.684
+     "start": 62.005,
+     "end": 62.22
     },
     {
      "w": "water.",
-     "start": 67.755,
-     "end": 68.237
+     "start": 62.291,
+     "end": 62.693
     },
     {
      "w": "That's",
-     "start": 68.309,
-     "end": 68.452
+     "start": 62.818,
+     "end": 63.032
     },
     {
      "w": "the",
-     "start": 68.523,
-     "end": 68.595
+     "start": 63.104,
+     "end": 63.175
     },
     {
      "w": "point.",
-     "start": 68.666,
-     "end": 69.309
+     "start": 63.354,
+     "end": 63.746
     }
    ]
   },
   {
    "line": 12,
-   "start": 69.426,
-   "end": 74.083,
+   "start": 63.91,
+   "end": 68.567,
    "text": "One tower, one hundred eighty seven meters, forty one thousand discs.",
    "words": [
     {
      "w": "One",
-     "start": 69.555,
-     "end": 69.698
+     "start": 64.039,
+     "end": 64.182
     },
     {
      "w": "tower,",
-     "start": 69.77,
-     "end": 70.404
+     "start": 64.254,
+     "end": 64.888
     },
     {
      "w": "one",
-     "start": 70.475,
-     "end": 70.618
+     "start": 64.959,
+     "end": 65.102
     },
     {
      "w": "hundred",
-     "start": 70.689,
-     "end": 70.904
+     "start": 65.173,
+     "end": 65.387
     },
     {
      "w": "eighty",
-     "start": 71.046,
-     "end": 71.332
+     "start": 65.53,
+     "end": 65.816
     },
     {
      "w": "seven",
-     "start": 71.356,
-     "end": 71.475
+     "start": 65.84,
+     "end": 65.959
     },
     {
      "w": "meters,",
-     "start": 71.546,
-     "end": 72.189
+     "start": 66.03,
+     "end": 66.673
     },
     {
      "w": "forty",
-     "start": 72.296,
-     "end": 72.546
+     "start": 66.78,
+     "end": 67.03
     },
     {
      "w": "one",
-     "start": 72.582,
-     "end": 72.689
+     "start": 67.066,
+     "end": 67.173
     },
     {
      "w": "thousand",
-     "start": 72.904,
-     "end": 73.332
+     "start": 67.388,
+     "end": 67.816
     },
     {
      "w": "discs.",
-     "start": 73.475,
-     "end": 74.189
+     "start": 67.959,
+     "end": 68.673
     }
    ]
   },
   {
    "line": 13,
-   "start": 74.396,
-   "end": 77.576,
+   "start": 68.879,
+   "end": 72.061,
    "text": "And congrats, you just built the Kuwait Towers yourself.",
    "words": [
     {
      "w": "And",
-     "start": 74.454,
-     "end": 74.596
+     "start": 68.937,
+     "end": 69.08
     },
     {
      "w": "congrats,",
-     "start": 74.704,
-     "end": 75.454
+     "start": 69.187,
+     "end": 69.937
     },
     {
      "w": "you",
-     "start": 75.596,
-     "end": 75.739
+     "start": 70.08,
+     "end": 70.223
     },
     {
      "w": "just",
-     "start": 75.811,
-     "end": 75.954
+     "start": 70.295,
+     "end": 70.438
     },
     {
      "w": "built",
-     "start": 76.061,
-     "end": 76.168
+     "start": 70.545,
+     "end": 70.652
     },
     {
      "w": "the",
-     "start": 76.204,
-     "end": 76.239
+     "start": 70.688,
+     "end": 70.723
     },
     {
      "w": "Kuwait",
-     "start": 76.275,
-     "end": 76.596
+     "start": 70.759,
+     "end": 71.08
     },
     {
      "w": "Towers",
-     "start": 76.632,
-     "end": 76.954
+     "start": 71.116,
+     "end": 71.438
     },
     {
      "w": "yourself.",
-     "start": 77.061,
-     "end": 77.739
+     "start": 71.545,
+     "end": 72.223
     }
    ]
   },
   {
    "line": 14,
-   "start": 77.888,
-   "end": 84.034,
-   "text": "Put your tea on the window ledge of that spinning restaurant... and the room just walks away from it.",
+   "start": 72.373,
+   "end": 78.397,
+   "text": "Leave your tea on the spinning restaurant's windowsill... and the room just walks away.",
    "words": [
     {
-     "w": "Put",
-     "start": 78.215,
-     "end": 78.596
+     "w": "Leave",
+     "start": 73.128,
+     "end": 73.342
     },
     {
      "w": "your",
-     "start": 78.644,
-     "end": 78.858
+     "start": 73.413,
+     "end": 73.556
     },
     {
      "w": "tea",
-     "start": 78.929,
-     "end": 79.072
+     "start": 73.663,
+     "end": 73.771
     },
     {
      "w": "on",
-     "start": 79.144,
-     "end": 79.215
+     "start": 73.842,
+     "end": 73.913
     },
     {
      "w": "the",
-     "start": 79.251,
-     "end": 79.287
-    },
-    {
-     "w": "window",
-     "start": 79.358,
-     "end": 79.644
-    },
-    {
-     "w": "ledge",
-     "start": 79.715,
-     "end": 79.929
-    },
-    {
-     "w": "of",
-     "start": 79.965,
-     "end": 80.001
-    },
-    {
-     "w": "that",
-     "start": 80.072,
-     "end": 80.215
+     "start": 73.949,
+     "end": 73.985
     },
     {
      "w": "spinning",
-     "start": 80.287,
-     "end": 80.644
+     "start": 74.056,
+     "end": 74.413
     },
     {
-     "w": "restaurant...",
-     "start": 80.715,
-     "end": 81.429
+     "w": "restaurant's",
+     "start": 74.485,
+     "end": 74.913
+    },
+    {
+     "w": "windowsill...",
+     "start": 74.985,
+     "end": 75.913
     },
     {
      "w": "and",
-     "start": 82.044,
-     "end": 82.072
+     "start": 76.671,
+     "end": 76.699
     },
     {
      "w": "the",
-     "start": 82.144,
-     "end": 82.215
+     "start": 76.771,
+     "end": 76.842
     },
     {
      "w": "room",
-     "start": 82.287,
-     "end": 82.501
+     "start": 76.913,
+     "end": 77.128
     },
     {
      "w": "just",
-     "start": 82.572,
-     "end": 82.715
+     "start": 77.199,
+     "end": 77.413
     },
     {
      "w": "walks",
-     "start": 82.929,
-     "end": 83.179
+     "start": 77.485,
+     "end": 77.771
     },
     {
-     "w": "away",
-     "start": 83.215,
-     "end": 83.501
-    },
-    {
-     "w": "from",
-     "start": 83.572,
-     "end": 83.787
-    },
-    {
-     "w": "it.",
-     "start": 83.858,
-     "end": 84.215
+     "w": "away.",
+     "start": 77.842,
+     "end": 78.628
     }
    ]
   }
