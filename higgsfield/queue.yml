@@ -515,3 +515,53 @@ jobs:
       walking across the road bridge built beside it, slow aerial orbit. Shot 6 (25-30 s): funny slow motion, a man
       turns on a kitchen tap crusted with white limescale and the water sprays sideways in every direction across
       the counter and onto the window, he freezes holding an empty glass.
+
+  - id: noor-A
+    build: 89
+    kit: noor
+    # Facts: NREL SolarPACES lists Noor III at "Nominal Capacity: 150 MW", "Tower Height (m) 247", "Storage Capacity
+    # (Hours) 7", "Cooling Type Dry", start year 2018 (solarpaces.nrel.gov/project/noor-iii). WEF (May 2018): "about
+    # seven thousand flat mirrors" for Noor 3; Noor 1 "provides 160 MW" and "switched on in 2016"; the complex
+    # "expected to generate 580 megawatts (MW)". worldsteel (Oct 2021): "a sprawling, 2,500-hectare solar power plant";
+    # "The Noor I site alone features 537,000 parabolic mirrors", its oil at "around 390°C" (WEF: "350°C"); the tower's
+    # receiver "super heats molten salts to more than 500°C" ("a mixture of potassium and sodium nitrate") for power
+    # "seven hours after dark". Dust: "A thin coating of dust on the surface of a solar panel or mirror can severely
+    # block sunlight" (OpenWeather blog, Aug 7 2025). No faces: mirrors, pipes, tanks, trucks, town lights.
+    status: todo
+    file: buildit-noor-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a solar power tower 247 meters tall in the Moroccan desert at sunset, its top glowing white-hot
+      like a second sun, thousands of flat mirrors in huge rings around it all aimed at the top, slow aerial push-in.
+      Shot 2 (5-10 s): wide aerial at dusk over a desert town at the edge of the Sahara, the sun sinking behind bare
+      mountains, a field of flat solar panels beside it going dark while the town's lights come on. Shot 3 (10-15
+      s): close-up of a long curved mirror trough slowly tilting to follow the sun, focusing a bright line of sunlight
+      onto a black steel pipe running along it, the pipe glowing with heat, endless rows behind it. Shot 4 (15-20 s):
+      the sun sets behind the mountains, the bright lines on the mirror pipes fade out row by row, the whole mirror
+      field goes dark and the lights of a town in the distance flicker. Shot 5 (20-25 s): cutaway of a giant round
+      steel tank full of glowing orange molten salt at night, a pump sends the hot liquid salt through pipes into a
+      steam generator, steam rushing on to a turbine that spins. Shot 6 (25-30 s): a sandstorm sweeps over the mirror
+      field, a thin layer of dust settles on the shiny mirrors and the reflected light grows dim and brown, wind
+      blowing sand across the rows.
+  - id: noor-B
+    build: 89
+    kit: noor
+    # Facts: "the operator uses more than 36.5 million litres of demineralized water per year to wash mirrors, without
+    # recovery" (Reuters Events, Heba Hashem, reutersevents.com/renewables/node/60643, undated); "a fleet of automated,
+    # robotic cleaning systems," "many of which use waterless techniques" (OpenWeather). Trucks at Noor: not stated
+    # (the truck-with-a-robot-arm picture is Shams 1 in Abu Dhabi, five trucks clean it "every three days", IEEE
+    # Spectrum Mar 18 2013). The salt is "highly corrosive", so each of the "19400m³ tanks" is UR 347 stainless steel
+    # (worldsteel). B4 teases build 90, the ballpoint pen (LINEUP). B6: focused sunlight in one hand.
+    status: todo
+    file: buildit-noor-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): at night a truck with a long robotic arm drives slowly along a row of curved mirrors, spinning
+      brushes and a fine spray of water wash the dust away and the mirror shines again in the headlights. Shot 2
+      (5-10 s): close-up of a steel pipe carrying hot liquid salt, rust and small pits spreading across its surface,
+      a thin drip of salt leaking out and hardening into white crystals. Shot 3 (10-15 s): a giant round tank of
+      shiny stainless steel being welded together from curved plates in the desert, bright welding sparks, a crane
+      lifting the last plate into place, wide view. Shot 4 (15-20 s): extreme macro of a ballpoint pen tip writing on
+      paper, the tiny steel ball rolling and leaving a smooth line of blue ink, slow motion. Shot 5 (20-25 s): night
+      over the desert, the tall tower and the field of mirrors under the stars, the power plant lit up and humming,
+      long lines of pylons carrying electricity to a bright town in the valley, slow aerial. Shot 6 (25-30 s): funny
+      slow motion, on a sunny balcony a man holds a magnifying glass over a marshmallow on a fork, the tiny bright
+      dot of light melts it and it drips onto his sandal, he jumps.

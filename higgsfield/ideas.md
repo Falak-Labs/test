@@ -331,7 +331,22 @@ New content
   "Cooling Type Dry", start year 2018; worldsteel: the receiver "super heats molten salts to more than 500°C" ("a
   mixture of potassium and sodium nitrate"), "seven hours after dark", tanks of "19400m³" in UR 347 stainless steel
   because the salt is "highly corrosive", and Noor I "features 537,000 parabolic mirrors"; WEF (2018): "about seven
-  thousand flat mirrors" for Noor 3, Noor 1 "switched on in 2016". Dust on the mirrors and how they are cleaned: no
-  source read yet. [NREL SolarPACES](https://solarpaces.nrel.gov/project/noor-iii),
+  thousand flat mirrors" for Noor 3, Noor 1 "switched on in 2016". Cleaning: "the operator uses more than 36.5
+  million litres of demineralized water per year to wash mirrors, without recovery" (Reuters Events, undated);
+  "a fleet of automated, robotic cleaning systems," "many of which use waterless techniques" (OpenWeather, Aug 7
+  2025). noor-A/B are queued from these. [Reuters Events](https://www.reutersevents.com/renewables/node/60643),
+  [OpenWeather](https://openweather.co.uk/blog/post/desert-sun-and-dusty-skies-moroccos-solution-solar-power-sahara),
+  [NREL SolarPACES](https://solarpaces.nrel.gov/project/noor-iii),
   [worldsteel, Oct 2021](https://worldsteel.org/steel-stories/infrastructure/worlds-largest-solar-power-plant-delivers-24-hour-energy/),
   [WEF, May 2018](https://www.weforum.org/stories/energy-transition/morocco-is-building-a-solar-farm-as-big-as-paris-in-the-sahara-desert/)
+- LINEUP 90 is now the ballpoint pen (an everyday thing after two big structures; noor-B's B4 teases it). "a lawyer
+  named John Loud, who patented a rolling ball pen in 1888", too "rough for paper"; "Bíró patented the pen in
+  Britain in 1938" and "developed a more viscous ink" that dried fast "like newspaper ink"; a little hole
+  "to equalize pressure inside the pen so it won't leak" (Hackaday, Dec 17 2020). The ball is "brass, steel or
+  tungsten carbide"; the ink is "thick so that it doesn't spill out of the reservoir, but thin enough that it
+  responds to gravity" (HowStuffWorks). Gravity or capillary feed and the patent year disagree between the pages
+  (HowStuffWorks: a 1943 patent; New Atlas: after the war the ink flowed "by capillary action rather than
+  gravity"): check before a line uses either. One model "had racked up sales of 100 billion by 2006" (New Atlas).
+  [Hackaday](https://hackaday.com/2020/12/17/tech-hidden-in-plain-sight-the-ballpoint-pen),
+  [HowStuffWorks](https://home.howstuffworks.com/pen.htm/printable),
+  [New Atlas, Nov 27 2021](https://newatlas.com/technology/biro-pen-changed-writing-game/)
