@@ -192,7 +192,7 @@ jobs:
   - id: hzmb-B
     build: 82
     kit: hzmb
-    status: "generating (started: Nov 24 02:48 PT; shots 2,5,6 reworded)"
+    status: done
     file: buildit-hzmb-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): deep underwater, a machine smooths a perfectly flat bed of gravel and rock in a trench on the
@@ -212,7 +212,7 @@ jobs:
     # Facts: James Dewar, 1892, to hold liquefied gases; vacuum cuts conduction and convection, silvering cuts
     # radiation; two vessels joined only at the neck; most leftover heat leaks at the neck and stopper (Wikipedia
     # "Vacuum flask", Royal Institution rigb.org/node/3131, explainthatstuff.com/vacuumflasks.html).
-    status: todo
+    status: "generating (started: Nov 24 02:56 PT; shots 2,4 reworded)"
     file: buildit-thermos-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): extreme close-up of a steel vacuum flask standing in deep snow at night, frost crystals on its
