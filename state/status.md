@@ -1,4 +1,4 @@
-# Post status 2026-11-24T07:56:46+00:00
+# Post status 2026-11-24T08:40:24+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -380,8 +380,8 @@
 | ep69-dishwasher | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T23:00:00.000Z |
 | ep69-dishwasher | en.instagram | sent |  | 2026-11-24T02:33:24.357Z https://www.instagram.com/reel/DgG4zDXqNxv/ |
 | ep69-dishwasher | en.tiktok | sent |  | 2026-11-24T02:31:56.987Z https://tiktok.com/@congratsengineer/video/7711559637815823629 |
-| ep70-louvre | ar.instagram | scheduled |  | 2026-11-24T08:00:00.000Z |
-| ep70-louvre | ar.tiktok | scheduled |  | 2026-11-24T08:00:00.000Z |
+| ep70-louvre | ar.instagram | sent |  | 2026-11-24T08:01:40.814Z https://www.instagram.com/reel/DgHeix1hQNg/ |
+| ep70-louvre | ar.tiktok | sent |  | 2026-11-24T08:01:25.630Z https://tiktok.com/@kef.tenbeni/video/7711644596975045902 |
 | ep70-louvre | en.instagram | scheduled |  | 2026-11-24T14:00:00.000Z |
 | ep70-louvre | en.tiktok | scheduled |  | 2026-11-24T14:00:00.000Z |
 | ep71-vacuum | ar.instagram | scheduled |  | 2026-11-24T11:00:00.000Z |
@@ -397,6 +397,7 @@
 | ep73-pharos | en.instagram | scheduled |  | 2026-11-24T21:30:00.000Z |
 | ep73-pharos | en.tiktok | scheduled |  | 2026-11-24T21:30:00.000Z |
 | ep74-maraya | ar.instagram | scheduled |  | 2026-11-24T20:00:00.000Z |
+| ep74-maraya | ar.tiktok | scheduled |  | 2026-11-24T20:30:00.000Z |
 | ep74-maraya | en.instagram | scheduled |  | 2026-11-25T00:00:00.000Z |
 | ep74-maraya | en.tiktok | scheduled |  | 2026-11-25T00:00:00.000Z |
 | ep75-stepwell | ar.instagram | scheduled |  | 2026-11-24T23:00:00.000Z |
