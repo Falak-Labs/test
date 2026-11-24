@@ -262,7 +262,7 @@ jobs:
     # One pour would take "125 years for the concrete to cool" (usbr.gov/lc/hooverdam/History/essays/concrete.html
     # and tunnels.html; nps.gov/articles/nevada-and-arizona-hoover-dam.htm; ASCE landmark page; PBS American
     # Experience "The Men Who Built the Dam").
-    status: "generating (started: Nov 24 03:36 PT; shots 3,5 reworded)"
+    status: done
     file: buildit-hoover-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a giant curved concrete dam half built in a narrow desert canyon in the 1930s, made of hundreds
@@ -285,7 +285,7 @@ jobs:
     # 300 psi. Concrete came in 4 and 8 cu yd buckets on nine overhead cableways. The spillways (four 100 x 16 ft
     # drum gates each) were used only twice: a 1941 test and the 1983 flood (usbr.gov concrete.html, spillways.html;
     # NPS; ASCE). B4 teases build 85, the Dubai Frame (LINEUP). B6: the middle of a big dish stays hot longest.
-    status: todo
+    status: "generating (started: Nov 24 03:52 PT; shots 3,5,6 reworded)"
     file: buildit-hoover-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): cutaway of one square concrete block of the dam, thin steel pipes looping back and forth inside
