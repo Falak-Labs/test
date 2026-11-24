@@ -1779,6 +1779,8 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   dispatches post.yml once 70 (08:00Z) and 71 (11:00Z) have gone out. Errors 48, 50, 56, 62, 66-69 were not requeued
   (no room; free 2-hour gaps start 01:30Z / 04:30Z Nov 27). Watch: 54's requeue (01:30Z Nov 25) and sm03's (02:00Z
   Nov 25) are only 30 minutes apart, so one may be refused as spam; left alone (sm03 is the show's).
+- Check-in 11:20Z Nov 24: nothing to dispatch. Other pushes' post.yml runs had already added the waiting Arabic
+  TikToks (74 at 08:40Z, 75 at 11:08Z), so 73-75 are all scheduled: 08:30 / 12:30 / 15:00 PT Tue Nov 24 (queue 10 of 10).
 
 
 ## Nov 23 20:45 PT: NEW STYLE for every build: Seedance (owner approved)
