@@ -443,7 +443,7 @@ jobs:
     # Albuquerque International Balloon Fiesta: "About 584 balloons were registered to fly, including 114 Special
     # Shapes", "an estimated 901,720 people visited the park" (Albuquerque Journal, Oct 21 2026; it gives 584 pilots
     # too: check). B4 teases build 88, the Pont du Gard (LINEUP). B6: the bin-bag-and-hair-dryer trick.
-    status: todo
+    status: "generating (started: Nov 24 06:21 PT; shot 5 reworded)"
     file: buildit-balloon-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): two hot air balloons over a misty valley at sunrise, the lower one drifts left and the higher
