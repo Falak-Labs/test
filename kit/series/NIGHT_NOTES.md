@@ -1816,3 +1816,7 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
      (shot plan table in SEEDANCE_STYLE.md). Lines 12-13 use the still or the best A shot.
   4. ElevenLabs: Pro plan since Nov 22 (613,234 characters a month, resets Dec 22); the Build-It share is about
      12,000 characters a day. The "Creator, 23,000 left" line in the prompts is out of date.
+- Nov 23 22:36 PT, owner: "I approve the new English voice with the sense of humor." Ballen + v4 tags is FINAL for
+  English. He asked to try the same in Arabic: sample sent 22:55 PT (Mansour on eleven_v4 with the same tags, Saudi
+  lines that talk to the viewer: series/sample_tpf_lines_ar_sa.txt; 156 words = 87 s, so Arabic needs ~125-135 words).
+  Until he answers, Arabic builds stay on eleven_multilingual_v2 (voices.yml ar unchanged).
