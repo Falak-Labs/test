@@ -113,3 +113,6 @@ Rules:
 80. idea: Jeddah's giant sea fountain (King Fahd's Fountain, the tallest fountain in the world: sea water shot higher than most skyscrapers)
 81. idea: a zipper (two rows of teeth that a small wedge locks and unlocks; Gideon Sundback, 1913)
 82. idea: the Hong Kong-Zhuhai-Macau Bridge (55 km over the sea, diving into an undersea tunnel between two man-made islands)
+83. idea: a Thermos flask (tea or Arabic coffee still hot hours later: two walls with a vacuum between them, silvered glass; James Dewar, 1892)
+84. idea: the Hoover Dam (poured in one piece its concrete would have taken about 125 years to cool, so it was cast in blocks with cold-water pipes inside)
+85. idea: the Dubai Frame (a 150 m picture frame between old and new Dubai, with a glass-floor bridge across the top)
