@@ -72,3 +72,44 @@ Free footage and pictures
   [Dreamina, Oct 27 2026](https://dreamina.capcut.com/seedance/seedance-2-5-pricing-2026),
   [Dreamina, Nov 6 2026](https://dreamina.capcut.com/ai-video/free-ai-video-tools-compared),
   [Krea](https://www.krea.ai/blog/best-free-ai-video-generators-in-2026)
+
+## 2026-11-23 23:55 PT (hourly runner, cloud run)
+Trends
+- Best hook type in Virlo's week of Nov 16: "POV" setup hooks, 32.9% of 50,583 TikToks reached its virality score of
+  18+, against 22.1% for the most used type, the bold claim (281,715 videos). Our line 1 ("If you ..., congrats, you
+  just built ...") is already a second-person setup: keep the "you", never swap it for a bare claim. The week's top
+  formats are comedy skits: no fit. [Virlo, upd. Nov 22 2026](https://virlo.ai/trending-on-tiktok-this-week/2026-11-16)
+
+Platform rules
+- YouTube AI labels (May 27 2026): if the creator does not answer, YouTube now labels "significant photorealistic AI
+  use" itself; on Shorts the label is "an overlay on the video itself". Disclosure is required when a video
+  "Generates a realistic scene that didn't actually occur" or alters "footage of a real event or place" (example: "AI
+  generated extra footage of a real place"). Repeat non-disclosers "may be subject to manual application of a label,
+  or penalties", up to "suspension from the YouTube Partner Program"; the blog says a label itself does not change
+  recommendations or monetization. So every Seedance build (76 on) answers Studio's AI question YES. The ready-made
+  snippet in YOUTUBE_STUDIO_UPLOAD.md step 5 clicks VIDEO_HAS_ALTERED_CONTENT_NO (the text above it says answer
+  truthfully), and nobody has checked whether Buffer's YouTube posts set it at all.
+  [YouTube blog, May 27 2026](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/?pubDate=20260527),
+  [help page](https://support.google.com/youtube/answer/14328491?hl=en),
+  [MBW, May 27 2026](https://www.musicbusinessworldwide.com/youtube-will-now-automatically-detect-and-label-ai-videos-even-when-creators-dont-disclose-it/)
+
+Free footage and pictures
+- Checked: no Higgsfield offer extends free Seedance past Nov 28. "33 days unlimited Seedance 2.5" was for accounts
+  that activated it "before August 9" (annual Plus: 20 s clips); the July Seedance 2.0 Fast promo ended July 17;
+  aimojo's "Black Friday" page is from Nov 2025 and covers pictures only. Nov 24-28 stay the last video days.
+  [Higgsfield, upd. Oct 1 2026](https://higgsfield.ai/blog/33-days-unlimited-seedance-2-5),
+  [Higgsfield, Jul 2 2026](https://geo.higgsfield.ai/blog/higgsfield-seedance-unlimited-plan-changes),
+  [aimojo](https://aimojo.io/higgsfield-black-friday-deal/)
+- YouTube's own generators are free but stay inside YouTube: Veo 3 in Shorts makes clips "up to eight seconds" with
+  sound and needs no Gemini subscription (Sep 2025); Gemini Omni (May 2026) came free to Shorts and YouTube Create,
+  every clip "watermarked with SynthID" and labelled AI. No source gives daily limits, download or commercial terms:
+  at most a YouTube-only extra, not footage for the cross-posted builds.
+  [TechRadar, Sep 18 2025](https://www.techradar.com/ai-platforms-assistants/youtube-shorts-now-lets-you-turn-text-into-8-second-videos-using-veo-3s-ai-magic),
+  [9to5Google, May 19 2026](https://9to5google.com/2026/05/19/gemini-omni-create-anything-model-video/)
+- Hoover Dam (84) real photos: Reclamation's "Historic Views" gallery has about 15 construction photos (high scalers
+  in 1932, the "Jumbo Rig" that drilled the diversion tunnels, the tunnel lining, cofferdams, the powerhouse; no
+  block-pour or cooling-pipe picture), and its Hoover Dam collection lists "approximately 20,000 photographs" (search
+  PDFs, staff contact on the page). Neither page states a licence: U.S. government work has no copyright
+  (17 U.S.C. 105), but check each photo's credit first. Good for a real line 11/12 proof shot.
+  [usbr.gov gallery](https://www.usbr.gov/lc/hooverdam/gallery/historicviews.html),
+  [collection](https://www.usbr.gov/lc/hooverdam/collection.html)
