@@ -682,3 +682,21 @@ Free footage and sound
   commercially usable" (download at gdc.sonniss.com). Mostly game sounds (motorcycles, a quadcopter, foley), no wind or
   whoosh sets named, and kit/bik/sfx.py already synthesizes ours, so it only helps with real foley under a tag joke
   (Seedance clips come silent: sound costs credits). [Bedroom Producers Blog, Mar 16 2026](https://bedroomproducersblog.com/2026/03/16/sonniss-gdc-2026-bundle/)
+
+New content
+- A candidate for LINEUP 96 (the Falkirk Wheel pair will need a build to tease; 95 is a structure, so an everyday
+  thing; it would post in early December, the first cold weeks, and winter desert camping for the Arabic channel): a
+  hand warmer. The reusable one is a pouch of clear liquid: "When the internal metal strip is bent, tiny bits of metal
+  are released, which offer 'nucleation sites' for crystals to form", "heating the hand warmer up to 54°C", reset by
+  "boiling it in a pan of water to liquefy the crystals" (BBC Science Focus); Wikipedia: flexing the disk "generates
+  nucleation centers that initiate crystallisation". The disposable one is iron powder rusting in air, with water,
+  salt, activated charcoal and vermiculite (HowStuffWorks; Wikipedia lists cellulose instead of water): vermiculite
+  "absorbs water", the charcoal "helps disperse the heat evenly" and "controls the pace of the reaction", and it lasts
+  "about eight to 10 hours, on average" (HowStuffWorks); it "reaches its maximum temperature in about 20 minutes" and
+  "can reach 74 °C (165 °F)" (Wikipedia). Check before use: the first one (HowStuffWorks: Japan "in 1923"; Wikipedia
+  ties 1923 to a platinum-catalysed warmer and lists an unbuilt 1891 US patent), and the top temperature (37-82 C in
+  HowStuffWorks). Ready shots: the click and a white crystal front racing through the clear pouch, a slow-motion cutaway
+  of rust spreading over iron grains, a B6 of someone clicking one by mistake in a pocket on a hot day.
+  [BBC Science Focus](https://www.sciencefocus.com/science/how-do-re-usable-hand-warmers-work/),
+  [HowStuffWorks](https://science.howstuffworks.com/disposable-hand-warmers.htm),
+  [Wikipedia](https://en.wikipedia.org/wiki/Hand_warmer)
