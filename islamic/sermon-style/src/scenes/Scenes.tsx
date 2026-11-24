@@ -387,5 +387,7 @@ export const Tree: React.FC<SceneProps> = ({f, a, b}) => {
 export const SCENES: Record<string, React.FC<SceneProps>> = {
   ThreeLights, Sunset, Procession, Book, ThreeFollow, FamilyHome, WealthSplit, OneThing, Grave, Checklist, Tree,
   ShadeCrowd, SevenIcons, Unseen, EighthPlace,
+  Hook99, Sleepless, MonkCell, Despair, ScholarDoor, YourLand, Rights, Road, Measure, OneLight, Mother, StepsClose,
 };
 import {EighthPlace, SevenIcons, ShadeCrowd, Unseen} from './Seven';
+import {Despair, Hook99, Measure, MonkCell, Mother, OneLight, Rights, Road, ScholarDoor, Sleepless, StepsClose, YourLand} from './Repent';
