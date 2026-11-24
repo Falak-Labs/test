@@ -1,4 +1,4 @@
-# Post status 2026-11-24T04:30:36+00:00
+# Post status 2026-11-24T07:56:46+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -249,7 +249,7 @@
 | ep41-barrier | en.tiktok | sent |  | 2026-11-19T16:32:51.366Z https://www.tiktok.com/@congratsengineer/video/7709921165006949645?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep41-barrier | en.youtube | sent |  | 2026-11-20T21:43:50.386Z https://www.youtube.com/shorts/0OK1ZrM8zE8 |
 | ep42-venice | ar.instagram | sent |  | 2026-11-19T14:03:34.551Z https://www.instagram.com/reel/Df7P7GIz0xp/ |
-| ep42-venice | ar.tiktok | sending | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T04:30:00.000Z |
+| ep42-venice | ar.tiktok | sent |  | 2026-11-24T04:32:16.169Z https://tiktok.com/@kef.tenbeni/video/7711590626713685261 |
 | ep42-venice | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T14:00:00.000Z |
 | ep42-venice | en.instagram | sent |  | 2026-11-19T05:41:00.776Z https://www.instagram.com/reel/Df6WdelprHI/ |
 | ep42-venice | en.tiktok | sent |  | 2026-11-19T19:04:33.374Z https://www.tiktok.com/@congratsengineer/video/7709960069793778957?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
