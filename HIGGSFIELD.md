@@ -21,7 +21,8 @@ Not unlimited: Kling 3.0 / 4.0, Veo, Seedance at 1080p or 4K, sound, music. Thos
 2. **Video settings that make Seedance free:** higgsfield.ai/ai/video, model Seedance 2.5, Quality **720p** (or 480p),
    Bitrate **Standard**, sound **Off** (the speaker toggle under the prompt), Aspect Ratio as you need (9:16 for Shorts,
    TikTok, Reels; 16:9 for long YouTube), Duration up to **30 s** (still free), then scroll the left panel to
-   **Unlimited mode** and switch it ON. The button must read "Generate Unlimited".
+   **Unlimited mode** and switch it ON. The button must read "Generate Unlimited". The settings are shared by every
+   chat: before each Generate, read Duration, Aspect Ratio and Quality again (another chat may have left 16:9).
    SMART: one unlimited job takes about 10-15 minutes whatever you ask, so ask for 15-30 s clips written as several
    shots ("three shots with hard cuts. Shot 1 (0-5 s): ... Shot 2 (5-10 s): ... Shot 3 (10-15 s): ...") and cut them
    apart afterwards: 3-6 usable shots per job instead of one. The prompt box is a contenteditable: click it, Ctrl+A,

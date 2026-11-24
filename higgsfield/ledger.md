@@ -29,3 +29,4 @@
 - Nov 23 22:30 PT · Nano Banana Pro unlimited 9:16 · Build-It 78 air fryer hero still → buildit-airfryer-still.png
 - Nov 23 22:31 PT · Nano Banana Pro unlimited 9:16 · Build-It 76 pressure cooker hero still (first wording flagged NSFW by mistake) → buildit-cooker-still.png
 2026-11-23 22:14 | scary | Seedance 2.5 720p 16:9 30s, 6 shots (unlimited) | scary-roushdy-long-6shots.mp4 | abandoned block aerial, empty floor with plastic sheet, hard hat on stairs, dripping tap, curtain hand, flashlight stairwell | Roushdy long (EN+AR); reusable abandoned-building B-roll
+- Nov 23 23:00 PT · Seedance 2.5 unlimited 30 s 9:16 · Build-It 78 air fryer job A (queue airfryer-A) → buildit-airfryer-sdA.mp4 (the slot had been left on 16:9 by another chat: always check the ratio)
