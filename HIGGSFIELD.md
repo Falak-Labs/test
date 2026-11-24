@@ -20,11 +20,16 @@ Not unlimited: Kling 3.0 / 4.0, Veo, Seedance at 1080p or 4K, sound, music. Thos
    MCP generate tools for these models (they bill credits). If a button shows a number, stop and fix the settings.
 2. **Video settings that make Seedance free:** higgsfield.ai/ai/video, model Seedance 2.5, Quality **720p** (or 480p),
    Bitrate **Standard**, sound **Off** (the speaker toggle under the prompt), Aspect Ratio as you need (9:16 for Shorts,
-   TikTok, Reels; 16:9 for long YouTube), Duration 5s (4-30 s allowed; longer clips take longer), then scroll the left
-   panel to **Unlimited mode** and switch it ON. The button must read "Generate Unlimited".
+   TikTok, Reels; 16:9 for long YouTube), Duration up to **30 s** (still free), then scroll the left panel to
+   **Unlimited mode** and switch it ON. The button must read "Generate Unlimited".
+   SMART: one unlimited job takes about 10-15 minutes whatever you ask, so ask for 15-30 s clips written as several
+   shots ("three shots with hard cuts. Shot 1 (0-5 s): ... Shot 2 (5-10 s): ... Shot 3 (10-15 s): ...") and cut them
+   apart afterwards: 3-6 usable shots per job instead of one. The prompt box is a contenteditable: click it, Ctrl+A,
+   then type.
 3. **One video at a time for the whole account.** The site runs one unlimited video job at a time and all the owner's
    chats share it. Before you press Generate, open History on the video page: if any card says "Generating", wait
-   (check every minute) and do not press Generate twice. A 720p 5 s clip takes a few minutes. Pictures are faster.
+   (check every minute) and do not press Generate twice: a second press while one is running is ignored. A 720p clip
+   took about 13 minutes on Nov 23 (unlimited jobs wait in a slower queue). Pictures are faster.
 4. **Your own Chrome tab.** Work in a tab you opened (Claude in Chrome tools), never in the owner's tabs or another
    chat's tab, and close it when you are done. Never type passwords or codes; if the site asks to sign in, tell the owner.
 5. **Get the file out:** when a clip is done, read its link from the page (the <video> element of the finished card;
@@ -50,7 +55,8 @@ stock of clips now, best ideas first, and keeps them in ai-media for the weeks a
 - Yallah Say: short scene shots of the lesson situations (kitchen, market, taxi, cafe).
 - Any other active project the owner names.
 A rough share of the one video slot: Build-It and scary stories first (they post daily), then the others.
-About 12-20 clips an hour fit through the one slot; keep it busy day and night while the window lasts.
+Only about 4-5 jobs an hour fit through the one slot (about 100 a day if it never idles), so: always 15-30 s multi-shot
+jobs, never leave the slot idle while the window lasts, and queue your next prompt as soon as yours finishes.
 
 **Nov 23 - Jan 13: picture days (GPT Image 2.6, Nano Banana Pro, Seedream 5.0 Pro, 2K).** Pictures are fast:
 thumbnails for every long YouTube video, covers, scene art and backgrounds that our engines animate (slow zoom,
