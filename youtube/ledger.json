@@ -36,7 +36,13 @@
   {"key": "sm04-en-full", "id": "gamiKCKyicc", "channel": "Congrats Engineer", "at": "2026-11-24T01:29Z"},
   {"key": "sm04-en-short", "id": "860xx0bx64s", "channel": "Congrats Engineer", "at": "2026-11-24T01:30Z"},
   {"key": "sm04-ar-full", "id": "DYC6rC-EYJo", "channel": "Kef Tenbeni", "at": "2026-11-24T01:32Z"},
-  {"key": "sm04-ar-short", "id": "Hh2jOgZtKiM", "channel": "Kef Tenbeni", "at": "2026-11-24T01:33Z"}
+  {"key": "sm04-ar-short", "id": "Hh2jOgZtKiM", "channel": "Kef Tenbeni", "at": "2026-11-24T01:33Z"},
+  {"key": "ep73-pharos-en", "id": "x9JbQAPyEd0", "channel": "Congrats Engineer", "at": "2026-11-24T05:32Z"},
+  {"key": "ep74-maraya-en", "id": "uX-NLlcqRpc", "channel": "Congrats Engineer", "at": "2026-11-24T05:33Z"},
+  {"key": "ep75-stepwell-en", "id": "Bq_e1A900u4", "channel": "Congrats Engineer", "at": "2026-11-24T05:34Z"},
+  {"key": "ep73-pharos-ar", "id": "S2Q0C5IQL20", "channel": "Kef Tenbeni", "at": "2026-11-24T05:36Z"},
+  {"key": "ep74-maraya-ar", "id": "47Sw7w4K_MU", "channel": "Kef Tenbeni", "at": "2026-11-24T05:37Z"},
+  {"key": "ep75-stepwell-ar", "id": "NoC0Rt6ozGQ", "channel": "Kef Tenbeni", "at": "2026-11-24T05:38Z"}
  ],
  "refused": [
   {"at": "2026-11-22T05:32Z", "channel": "Congrats Engineer"},
