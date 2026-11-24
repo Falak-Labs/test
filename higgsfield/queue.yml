@@ -236,7 +236,7 @@ jobs:
     kit: thermos
     # Facts: glass flasks break when dropped; William Stanley Jr. made the first all-steel vacuum bottle in 1913
     # (Wikipedia "Stanley (drinkware company)"). B4 teases build 84, the Hoover Dam (LINEUP).
-    status: "generating (started: Nov 24 03:19 PT; shots 2,5,6 reworded)"
+    status: done
     file: buildit-thermos-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): the two glass walls get a thin shiny silver coating like a mirror, the orange heat glow bounces
@@ -262,7 +262,7 @@ jobs:
     # One pour would take "125 years for the concrete to cool" (usbr.gov/lc/hooverdam/History/essays/concrete.html
     # and tunnels.html; nps.gov/articles/nevada-and-arizona-hoover-dam.htm; ASCE landmark page; PBS American
     # Experience "The Men Who Built the Dam").
-    status: todo
+    status: "generating (started: Nov 24 03:36 PT; shots 3,5 reworded)"
     file: buildit-hoover-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a giant curved concrete dam half built in a narrow desert canyon in the 1930s, made of hundreds
