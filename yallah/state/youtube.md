@@ -36,3 +36,10 @@ Channels: Yallah Say MA @YallahSayMa (UC_c7QhlukkSAR-qHKeSvkPA), Yallah Say PS @
 ## Nov 23 2026 Studio uploads (public)
 - Lesson 8 Shorts: ma OYWA0c4VJIE, pa Gooo8hf08RE. Day 3 long videos (lessons 7-9): ma uoOwQWs9dOs, pa hINsQYS3Sno.
 - Views at 3:30 pm PT: ma Shorts 0-9 each (lesson 1 9, lesson 2 8), pa Shorts 0-7 (lesson 1 7); long videos 0-5. Too few to compare hooks yet.
+
+## Scheduled in Studio on Nov 24 2026 (after midnight PT), all public at the time shown (Pacific)
+- ma: lesson 11 Xb2Ew_9TTXY (Nov 24 10:30), Day 4 long p_2xLuhKQ-U (Nov 24 9:00), lesson 14 1BMdIM75PPM (Nov 25 10:30), Day 5 long SlgszQC2q7A (Nov 25 9:00)
+- pa: lesson 11 OEIbGzEoxxs (Nov 24 8:00), Day 4 long ii59C4ub3yA (Nov 24 7:00), lesson 14 APHo-HcQ8iw (Nov 25 8:00), Day 5 long H5U64SJvQGY (Nov 25 7:00)
+- Long videos from Day 4 on: the day's three Shorts, then a review round (the three quizzes), about 4:45, 16:9.
+- How to schedule in Studio: Visibility step, expand "Schedule", set the date (date picker input, Enter, Escape) BEFORE the time
+  (setting the date resets the time), wait for "Checks complete", then press Schedule; it may need a second press. Times are Pacific.
