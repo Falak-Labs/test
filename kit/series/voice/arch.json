@@ -1,0 +1,1253 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 81.614,
+ "words": 226,
+ "words_per_sec": 2.77,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.717,
+   "text": "Y'all, a giant arch is just two towers that lean toward each other. Yes, leaning.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.124,
+     "end": 0.731
+    },
+    {
+     "w": "a",
+     "start": 0.91,
+     "end": 1.053
+    },
+    {
+     "w": "giant",
+     "start": 1.124,
+     "end": 1.481
+    },
+    {
+     "w": "arch",
+     "start": 1.553,
+     "end": 1.767
+    },
+    {
+     "w": "is",
+     "start": 1.838,
+     "end": 1.91
+    },
+    {
+     "w": "just",
+     "start": 1.981,
+     "end": 2.196
+    },
+    {
+     "w": "two",
+     "start": 2.303,
+     "end": 2.41
+    },
+    {
+     "w": "towers",
+     "start": 2.481,
+     "end": 2.838
+    },
+    {
+     "w": "that",
+     "start": 2.91,
+     "end": 3.053
+    },
+    {
+     "w": "lean",
+     "start": 3.124,
+     "end": 3.338
+    },
+    {
+     "w": "toward",
+     "start": 3.374,
+     "end": 3.624
+    },
+    {
+     "w": "each",
+     "start": 3.696,
+     "end": 3.767
+    },
+    {
+     "w": "other.",
+     "start": 3.838,
+     "end": 4.329
+    },
+    {
+     "w": "Yes,",
+     "start": 4.401,
+     "end": 4.99
+    },
+    {
+     "w": "leaning.",
+     "start": 5.133,
+     "end": 5.847
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.029,
+   "end": 12.563,
+   "text": "First problem. Steel this tall has to be strong, but a plain hollow steel shell would fold. Not great.",
+   "words": [
+    {
+     "w": "First",
+     "start": 6.032,
+     "end": 6.246
+    },
+    {
+     "w": "problem.",
+     "start": 6.318,
+     "end": 6.887
+    },
+    {
+     "w": "Steel",
+     "start": 7.059,
+     "end": 7.345
+    },
+    {
+     "w": "this",
+     "start": 7.416,
+     "end": 7.63
+    },
+    {
+     "w": "tall",
+     "start": 7.702,
+     "end": 7.987
+    },
+    {
+     "w": "has",
+     "start": 8.13,
+     "end": 8.345
+    },
+    {
+     "w": "to",
+     "start": 8.416,
+     "end": 8.487
+    },
+    {
+     "w": "be",
+     "start": 8.559,
+     "end": 8.63
+    },
+    {
+     "w": "strong,",
+     "start": 8.702,
+     "end": 9.279
+    },
+    {
+     "w": "but",
+     "start": 9.434,
+     "end": 9.505
+    },
+    {
+     "w": "a",
+     "start": 9.541,
+     "end": 9.577
+    },
+    {
+     "w": "plain",
+     "start": 9.648,
+     "end": 9.934
+    },
+    {
+     "w": "hollow",
+     "start": 10.005,
+     "end": 10.291
+    },
+    {
+     "w": "steel",
+     "start": 10.362,
+     "end": 10.648
+    },
+    {
+     "w": "shell",
+     "start": 10.72,
+     "end": 11.005
+    },
+    {
+     "w": "would",
+     "start": 11.112,
+     "end": 11.22
+    },
+    {
+     "w": "fold.",
+     "start": 11.434,
+     "end": 11.735
+    },
+    {
+     "w": "Not",
+     "start": 11.845,
+     "end": 12.059
+    },
+    {
+     "w": "great.",
+     "start": 12.13,
+     "end": 12.702
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.876,
+   "end": 21.757,
+   "text": "So you build each leg from hollow triangular steel sections, double walled, with concrete poured between the walls. Steel with a backbone.",
+   "words": [
+    {
+     "w": "So",
+     "start": 13.084,
+     "end": 13.227
+    },
+    {
+     "w": "you",
+     "start": 13.298,
+     "end": 13.441
+    },
+    {
+     "w": "build",
+     "start": 13.584,
+     "end": 13.727
+    },
+    {
+     "w": "each",
+     "start": 13.798,
+     "end": 14.012
+    },
+    {
+     "w": "leg",
+     "start": 14.084,
+     "end": 14.298
+    },
+    {
+     "w": "from",
+     "start": 14.37,
+     "end": 14.512
+    },
+    {
+     "w": "hollow",
+     "start": 14.584,
+     "end": 14.941
+    },
+    {
+     "w": "triangular",
+     "start": 15.012,
+     "end": 15.584
+    },
+    {
+     "w": "steel",
+     "start": 15.655,
+     "end": 15.87
+    },
+    {
+     "w": "sections,",
+     "start": 16.012,
+     "end": 16.629
+    },
+    {
+     "w": "double",
+     "start": 16.7,
+     "end": 16.914
+    },
+    {
+     "w": "walled,",
+     "start": 16.986,
+     "end": 17.539
+    },
+    {
+     "w": "with",
+     "start": 17.611,
+     "end": 17.682
+    },
+    {
+     "w": "concrete",
+     "start": 17.754,
+     "end": 18.182
+    },
+    {
+     "w": "poured",
+     "start": 18.254,
+     "end": 18.468
+    },
+    {
+     "w": "between",
+     "start": 18.539,
+     "end": 18.825
+    },
+    {
+     "w": "the",
+     "start": 18.861,
+     "end": 18.896
+    },
+    {
+     "w": "walls.",
+     "start": 18.968,
+     "end": 19.468
+    },
+    {
+     "w": "Steel",
+     "start": 20.432,
+     "end": 20.611
+    },
+    {
+     "w": "with",
+     "start": 20.682,
+     "end": 20.825
+    },
+    {
+     "w": "a",
+     "start": 20.861,
+     "end": 20.896
+    },
+    {
+     "w": "backbone.",
+     "start": 21.039,
+     "end": 21.968
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 22.07,
+   "end": 27.067,
+   "text": "But your crane can't reach that high, and the next piece just hangs in the air. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 22.209,
+     "end": 22.352
+    },
+    {
+     "w": "your",
+     "start": 22.423,
+     "end": 22.566
+    },
+    {
+     "w": "crane",
+     "start": 22.637,
+     "end": 22.852
+    },
+    {
+     "w": "can't",
+     "start": 22.923,
+     "end": 23.138
+    },
+    {
+     "w": "reach",
+     "start": 23.245,
+     "end": 23.352
+    },
+    {
+     "w": "that",
+     "start": 23.423,
+     "end": 23.566
+    },
+    {
+     "w": "high,",
+     "start": 23.638,
+     "end": 24.03
+    },
+    {
+     "w": "and",
+     "start": 24.209,
+     "end": 24.28
+    },
+    {
+     "w": "the",
+     "start": 24.352,
+     "end": 24.423
+    },
+    {
+     "w": "next",
+     "start": 24.495,
+     "end": 24.638
+    },
+    {
+     "w": "piece",
+     "start": 24.709,
+     "end": 24.923
+    },
+    {
+     "w": "just",
+     "start": 24.995,
+     "end": 25.209
+    },
+    {
+     "w": "hangs",
+     "start": 25.352,
+     "end": 25.566
+    },
+    {
+     "w": "in",
+     "start": 25.602,
+     "end": 25.637
+    },
+    {
+     "w": "the",
+     "start": 25.709,
+     "end": 25.78
+    },
+    {
+     "w": "air.",
+     "start": 25.852,
+     "end": 26.275
+    },
+    {
+     "w": "Oh",
+     "start": 26.343,
+     "end": 26.557
+    },
+    {
+     "w": "boy.",
+     "start": 26.7,
+     "end": 27.2
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 27.379,
+   "end": 32.451,
+   "text": "So you put a crane on rails up the back of the leg, that climbs as the leg grows.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.594,
+     "end": 27.737
+    },
+    {
+     "w": "you",
+     "start": 27.808,
+     "end": 27.951
+    },
+    {
+     "w": "put",
+     "start": 28.022,
+     "end": 28.094
+    },
+    {
+     "w": "a",
+     "start": 28.165,
+     "end": 28.237
+    },
+    {
+     "w": "crane",
+     "start": 28.308,
+     "end": 28.594
+    },
+    {
+     "w": "on",
+     "start": 28.665,
+     "end": 28.808
+    },
+    {
+     "w": "rails",
+     "start": 28.951,
+     "end": 29.308
+    },
+    {
+     "w": "up",
+     "start": 29.379,
+     "end": 29.451
+    },
+    {
+     "w": "the",
+     "start": 29.487,
+     "end": 29.522
+    },
+    {
+     "w": "back",
+     "start": 29.594,
+     "end": 29.737
+    },
+    {
+     "w": "of",
+     "start": 29.772,
+     "end": 29.808
+    },
+    {
+     "w": "the",
+     "start": 29.879,
+     "end": 29.951
+    },
+    {
+     "w": "leg,",
+     "start": 30.094,
+     "end": 30.522
+    },
+    {
+     "w": "that",
+     "start": 30.629,
+     "end": 30.737
+    },
+    {
+     "w": "climbs",
+     "start": 30.808,
+     "end": 31.308
+    },
+    {
+     "w": "as",
+     "start": 31.379,
+     "end": 31.451
+    },
+    {
+     "w": "the",
+     "start": 31.487,
+     "end": 31.522
+    },
+    {
+     "w": "leg",
+     "start": 31.594,
+     "end": 31.808
+    },
+    {
+     "w": "grows.",
+     "start": 31.844,
+     "end": 32.522
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 32.763,
+   "end": 38.287,
+   "text": "But the two legs lean toward each other with nothing between them, and they sway in the wind.",
+   "words": [
+    {
+     "w": "But",
+     "start": 33.263,
+     "end": 33.406
+    },
+    {
+     "w": "the",
+     "start": 33.478,
+     "end": 33.549
+    },
+    {
+     "w": "two",
+     "start": 33.621,
+     "end": 33.763
+    },
+    {
+     "w": "legs",
+     "start": 33.835,
+     "end": 34.121
+    },
+    {
+     "w": "lean",
+     "start": 34.192,
+     "end": 34.406
+    },
+    {
+     "w": "toward",
+     "start": 34.478,
+     "end": 34.763
+    },
+    {
+     "w": "each",
+     "start": 34.871,
+     "end": 34.978
+    },
+    {
+     "w": "other",
+     "start": 35.085,
+     "end": 35.192
+    },
+    {
+     "w": "with",
+     "start": 35.263,
+     "end": 35.478
+    },
+    {
+     "w": "nothing",
+     "start": 35.621,
+     "end": 35.906
+    },
+    {
+     "w": "between",
+     "start": 35.978,
+     "end": 36.335
+    },
+    {
+     "w": "them,",
+     "start": 36.406,
+     "end": 36.754
+    },
+    {
+     "w": "and",
+     "start": 36.826,
+     "end": 36.897
+    },
+    {
+     "w": "they",
+     "start": 37.004,
+     "end": 37.112
+    },
+    {
+     "w": "sway",
+     "start": 37.183,
+     "end": 37.54
+    },
+    {
+     "w": "in",
+     "start": 37.612,
+     "end": 37.683
+    },
+    {
+     "w": "the",
+     "start": 37.719,
+     "end": 37.754
+    },
+    {
+     "w": "wind.",
+     "start": 37.826,
+     "end": 38.397
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 38.6,
+   "end": 42.966,
+   "text": "So you bolt a steel truss between them, bracing each leg against the other.",
+   "words": [
+    {
+     "w": "So",
+     "start": 38.809,
+     "end": 38.952
+    },
+    {
+     "w": "you",
+     "start": 39.023,
+     "end": 39.166
+    },
+    {
+     "w": "bolt",
+     "start": 39.238,
+     "end": 39.452
+    },
+    {
+     "w": "a",
+     "start": 39.523,
+     "end": 39.595
+    },
+    {
+     "w": "steel",
+     "start": 39.666,
+     "end": 39.952
+    },
+    {
+     "w": "truss",
+     "start": 40.095,
+     "end": 40.38
+    },
+    {
+     "w": "between",
+     "start": 40.559,
+     "end": 40.738
+    },
+    {
+     "w": "them,",
+     "start": 40.809,
+     "end": 41.238
+    },
+    {
+     "w": "bracing",
+     "start": 41.273,
+     "end": 41.595
+    },
+    {
+     "w": "each",
+     "start": 41.666,
+     "end": 41.88
+    },
+    {
+     "w": "leg",
+     "start": 41.952,
+     "end": 42.095
+    },
+    {
+     "w": "against",
+     "start": 42.166,
+     "end": 42.38
+    },
+    {
+     "w": "the",
+     "start": 42.452,
+     "end": 42.523
+    },
+    {
+     "w": "other.",
+     "start": 42.595,
+     "end": 43.166
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 43.279,
+   "end": 49.223,
+   "text": "Then on the last morning, the sun heats one leg, the steel grows, and the last piece won't fit.",
+   "words": [
+    {
+     "w": "Then",
+     "start": 43.416,
+     "end": 43.559
+    },
+    {
+     "w": "on",
+     "start": 43.63,
+     "end": 43.702
+    },
+    {
+     "w": "the",
+     "start": 43.773,
+     "end": 43.845
+    },
+    {
+     "w": "last",
+     "start": 43.916,
+     "end": 44.202
+    },
+    {
+     "w": "morning,",
+     "start": 44.273,
+     "end": 44.738
+    },
+    {
+     "w": "the",
+     "start": 44.845,
+     "end": 44.988
+    },
+    {
+     "w": "sun",
+     "start": 45.059,
+     "end": 45.273
+    },
+    {
+     "w": "heats",
+     "start": 45.345,
+     "end": 45.63
+    },
+    {
+     "w": "one",
+     "start": 45.702,
+     "end": 45.845
+    },
+    {
+     "w": "leg,",
+     "start": 45.916,
+     "end": 46.345
+    },
+    {
+     "w": "the",
+     "start": 46.488,
+     "end": 46.559
+    },
+    {
+     "w": "steel",
+     "start": 46.63,
+     "end": 46.916
+    },
+    {
+     "w": "grows,",
+     "start": 46.987,
+     "end": 47.559
+    },
+    {
+     "w": "and",
+     "start": 47.693,
+     "end": 47.764
+    },
+    {
+     "w": "the",
+     "start": 47.836,
+     "end": 47.907
+    },
+    {
+     "w": "last",
+     "start": 47.979,
+     "end": 48.264
+    },
+    {
+     "w": "piece",
+     "start": 48.336,
+     "end": 48.55
+    },
+    {
+     "w": "won't",
+     "start": 48.621,
+     "end": 48.836
+    },
+    {
+     "w": "fit.",
+     "start": 48.907,
+     "end": 49.407
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 49.536,
+   "end": 55.481,
+   "text": "So you spray the sunny leg with cold water, jack the legs apart, and the final piece slides in.",
+   "words": [
+    {
+     "w": "So",
+     "start": 49.75,
+     "end": 49.893
+    },
+    {
+     "w": "you",
+     "start": 49.964,
+     "end": 50.107
+    },
+    {
+     "w": "spray",
+     "start": 50.179,
+     "end": 50.393
+    },
+    {
+     "w": "the",
+     "start": 50.464,
+     "end": 50.607
+    },
+    {
+     "w": "sunny",
+     "start": 50.679,
+     "end": 50.893
+    },
+    {
+     "w": "leg",
+     "start": 50.964,
+     "end": 51.179
+    },
+    {
+     "w": "with",
+     "start": 51.25,
+     "end": 51.321
+    },
+    {
+     "w": "cold",
+     "start": 51.393,
+     "end": 51.679
+    },
+    {
+     "w": "water,",
+     "start": 51.75,
+     "end": 52.268
+    },
+    {
+     "w": "jack",
+     "start": 52.518,
+     "end": 52.732
+    },
+    {
+     "w": "the",
+     "start": 52.768,
+     "end": 52.804
+    },
+    {
+     "w": "legs",
+     "start": 52.875,
+     "end": 53.089
+    },
+    {
+     "w": "apart,",
+     "start": 53.196,
+     "end": 53.625
+    },
+    {
+     "w": "and",
+     "start": 53.688,
+     "end": 53.759
+    },
+    {
+     "w": "the",
+     "start": 53.83,
+     "end": 53.973
+    },
+    {
+     "w": "final",
+     "start": 54.045,
+     "end": 54.259
+    },
+    {
+     "w": "piece",
+     "start": 54.402,
+     "end": 54.616
+    },
+    {
+     "w": "slides",
+     "start": 54.687,
+     "end": 55.116
+    },
+    {
+     "w": "in.",
+     "start": 55.188,
+     "end": 55.616
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 55.794,
+   "end": 61.405,
+   "text": "Hit follow, 'cause next we're building a car seatbelt. Yes... a seatbelt.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 55.937,
+     "end": 56.079
+    },
+    {
+     "w": "follow,",
+     "start": 56.222,
+     "end": 56.758
+    },
+    {
+     "w": "'cause",
+     "start": 56.865,
+     "end": 57.079
+    },
+    {
+     "w": "next",
+     "start": 57.151,
+     "end": 57.437
+    },
+    {
+     "w": "we're",
+     "start": 57.508,
+     "end": 57.722
+    },
+    {
+     "w": "building",
+     "start": 57.829,
+     "end": 57.937
+    },
+    {
+     "w": "a",
+     "start": 58.008,
+     "end": 58.151
+    },
+    {
+     "w": "car",
+     "start": 58.258,
+     "end": 58.365
+    },
+    {
+     "w": "seatbelt.",
+     "start": 58.508,
+     "end": 59.115
+    },
+    {
+     "w": "Yes...",
+     "start": 59.794,
+     "end": 60.365
+    },
+    {
+     "w": "a",
+     "start": 60.472,
+     "end": 60.579
+    },
+    {
+     "w": "seatbelt.",
+     "start": 60.651,
+     "end": 61.579
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 61.718,
+   "end": 66.776,
+   "text": "Today, visitors ride little pods up inside it, and nobody thinks about the sunburn.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 61.789,
+     "end": 62.575
+    },
+    {
+     "w": "visitors",
+     "start": 62.646,
+     "end": 63.075
+    },
+    {
+     "w": "ride",
+     "start": 63.182,
+     "end": 63.289
+    },
+    {
+     "w": "little",
+     "start": 63.361,
+     "end": 63.575
+    },
+    {
+     "w": "pods",
+     "start": 63.646,
+     "end": 63.932
+    },
+    {
+     "w": "up",
+     "start": 64.004,
+     "end": 64.075
+    },
+    {
+     "w": "inside",
+     "start": 64.146,
+     "end": 64.504
+    },
+    {
+     "w": "it,",
+     "start": 64.575,
+     "end": 64.861
+    },
+    {
+     "w": "and",
+     "start": 64.968,
+     "end": 65.075
+    },
+    {
+     "w": "nobody",
+     "start": 65.146,
+     "end": 65.575
+    },
+    {
+     "w": "thinks",
+     "start": 65.611,
+     "end": 65.789
+    },
+    {
+     "w": "about",
+     "start": 65.861,
+     "end": 66.004
+    },
+    {
+     "w": "the",
+     "start": 66.075,
+     "end": 66.146
+    },
+    {
+     "w": "sunburn.",
+     "start": 66.254,
+     "end": 66.932
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 67.088,
+   "end": 72.007,
+   "text": "One hundred ninety two meters, two legs, and one very careful last piece.",
+   "words": [
+    {
+     "w": "One",
+     "start": 67.293,
+     "end": 67.364
+    },
+    {
+     "w": "hundred",
+     "start": 67.436,
+     "end": 67.65
+    },
+    {
+     "w": "ninety",
+     "start": 67.793,
+     "end": 68.079
+    },
+    {
+     "w": "two",
+     "start": 68.15,
+     "end": 68.221
+    },
+    {
+     "w": "meters,",
+     "start": 68.293,
+     "end": 68.971
+    },
+    {
+     "w": "two",
+     "start": 69.007,
+     "end": 69.15
+    },
+    {
+     "w": "legs,",
+     "start": 69.221,
+     "end": 69.721
+    },
+    {
+     "w": "and",
+     "start": 69.793,
+     "end": 69.864
+    },
+    {
+     "w": "one",
+     "start": 69.936,
+     "end": 70.221
+    },
+    {
+     "w": "very",
+     "start": 70.293,
+     "end": 70.65
+    },
+    {
+     "w": "careful",
+     "start": 70.721,
+     "end": 71.15
+    },
+    {
+     "w": "last",
+     "start": 71.293,
+     "end": 71.436
+    },
+    {
+     "w": "piece.",
+     "start": 71.507,
+     "end": 72.079
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 72.32,
+   "end": 75.556,
+   "text": "And congrats, you just built the Gateway Arch yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 72.378,
+     "end": 72.521
+    },
+    {
+     "w": "congrats,",
+     "start": 72.592,
+     "end": 73.413
+    },
+    {
+     "w": "you",
+     "start": 73.592,
+     "end": 73.735
+    },
+    {
+     "w": "just",
+     "start": 73.842,
+     "end": 73.949
+    },
+    {
+     "w": "built",
+     "start": 74.056,
+     "end": 74.163
+    },
+    {
+     "w": "the",
+     "start": 74.235,
+     "end": 74.306
+    },
+    {
+     "w": "Gateway",
+     "start": 74.485,
+     "end": 74.663
+    },
+    {
+     "w": "Arch",
+     "start": 74.735,
+     "end": 74.949
+    },
+    {
+     "w": "yourself.",
+     "start": 75.056,
+     "end": 75.735
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 75.869,
+   "end": 81.595,
+   "text": "Run a stuck jar lid under hot water... and the pickles take the day off.",
+   "words": [
+    {
+     "w": "Run",
+     "start": 76.556,
+     "end": 76.699
+    },
+    {
+     "w": "a",
+     "start": 76.771,
+     "end": 76.842
+    },
+    {
+     "w": "stuck",
+     "start": 76.913,
+     "end": 77.128
+    },
+    {
+     "w": "jar",
+     "start": 77.199,
+     "end": 77.413
+    },
+    {
+     "w": "lid",
+     "start": 77.485,
+     "end": 77.699
+    },
+    {
+     "w": "under",
+     "start": 77.771,
+     "end": 77.985
+    },
+    {
+     "w": "hot",
+     "start": 78.056,
+     "end": 78.271
+    },
+    {
+     "w": "water...",
+     "start": 78.342,
+     "end": 78.878
+    },
+    {
+     "w": "and",
+     "start": 79.806,
+     "end": 79.878
+    },
+    {
+     "w": "the",
+     "start": 79.949,
+     "end": 80.021
+    },
+    {
+     "w": "pickles",
+     "start": 80.092,
+     "end": 80.449
+    },
+    {
+     "w": "take",
+     "start": 80.556,
+     "end": 80.663
+    },
+    {
+     "w": "the",
+     "start": 80.699,
+     "end": 80.735
+    },
+    {
+     "w": "day",
+     "start": 80.878,
+     "end": 81.092
+    },
+    {
+     "w": "off.",
+     "start": 81.163,
+     "end": 81.735
+    }
+   ]
+  }
+ ]
+}
