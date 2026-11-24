@@ -1,0 +1,32 @@
+[
+ {
+  "voice": "oOge1k8044i7H9hCreX6",
+  "format": "pcm_44100",
+  "seconds": 49.6,
+  "characters": 679
+ },
+ {
+  "voice": "x6fvBLXv9YxzoVJQ0wp6",
+  "format": "pcm_44100",
+  "seconds": 50.48,
+  "characters": 679
+ },
+ {
+  "voice": "K8FOFikqnvN14gWsgd9R",
+  "format": "pcm_44100",
+  "seconds": 52.08,
+  "characters": 679
+ },
+ {
+  "voice": "IES4nrmZdUBHByLBde0P",
+  "format": "pcm_44100",
+  "seconds": 57.28,
+  "characters": 679
+ },
+ {
+  "voice": "CuZXdPGwSRgu5SWDxvSx",
+  "format": "pcm_44100",
+  "seconds": 51.52,
+  "characters": 679
+ }
+]
