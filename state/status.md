@@ -1,4 +1,4 @@
-# Post status 2026-11-23T23:59:16+00:00
+# Post status 2026-11-24T01:29:21+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -374,8 +374,8 @@
 | ep67-colosseum | en.tiktok | sent |  | 2026-11-23T21:31:17.587Z https://tiktok.com/@congratsengineer/video/7711482410654797070 |
 | ep68-taipei | ar.instagram | sent |  | 2026-11-23T20:03:19.316Z https://www.instagram.com/reel/DgGMS_Vhhor/ |
 | ep68-taipei | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T20:30:00.000Z |
-| ep68-taipei | en.instagram | scheduled |  | 2026-11-24T00:00:00.000Z |
-| ep68-taipei | en.tiktok | scheduled |  | 2026-11-24T00:00:00.000Z |
+| ep68-taipei | en.instagram | sent |  | 2026-11-24T00:03:44.796Z https://www.instagram.com/reel/DgGnx_rBbuD/ |
+| ep68-taipei | en.tiktok | sent |  | 2026-11-24T00:03:34.251Z https://tiktok.com/@congratsengineer/video/7711521604181724430 |
 | ep69-dishwasher | ar.instagram | sent |  | 2026-11-23T23:03:52.667Z https://www.instagram.com/reel/DgGg70zBkLI/ |
 | ep69-dishwasher | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T23:00:00.000Z |
 | ep69-dishwasher | en.instagram | scheduled |  | 2026-11-24T02:30:00.000Z |
@@ -399,6 +399,6 @@
 | sm02 | en.instagram | sent |  | 2026-11-22T20:16:16.547Z https://www.instagram.com/reel/DgDo_XSguAT/ |
 | sm02 | en.tiktok | sent |  | 2026-11-22T20:16:52.404Z https://tiktok.com/@congratsengineer/video/7711091895430024461 |
 | sm03 | ar.instagram | sent |  | 2026-11-23T18:32:33.518Z https://www.instagram.com/reel/DgGB6F5B1lE/ |
-| sm03 | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-23T18:30:00.000Z |
+| sm03 | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T02:00:00.000Z |
 | sm03 | en.instagram | sent |  | 2026-11-23T20:16:15.952Z https://www.instagram.com/reel/DgGNynth79K/ |
 | sm03 | en.tiktok | sent |  | 2026-11-23T20:16:55.822Z https://tiktok.com/@congratsengineer/video/7711462975671897357 |
