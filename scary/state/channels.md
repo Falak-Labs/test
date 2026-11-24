@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-24T08:28:00+00:00
+# Yallah Say Buffer channels, checked 2026-11-24T10:14:43+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
