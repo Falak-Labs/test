@@ -30,9 +30,11 @@ Not unlimited: Kling 3.0 / 4.0, Veo, Seedance at 1080p or 4K, sound, music. Thos
 5. **Get the file out:** when a clip is done, read its link from the page (the <video> element of the finished card;
    pictures: the <img> of the result) and run the workflow **Fetch media** (.github/workflows/fetch-media.yml):
    `gh api -X POST repos/Falak-Labs/test/actions/workflows/fetch-media.yml/dispatches -f ref=main -f 'inputs[items]=<name>.mp4=<link> <name2>.png=<link2>'`
-   It downloads them on GitHub's runner (this workspace cannot reach Higgsfield's file host) and keeps them as assets
-   of the release **ai-media**. Get one back with
-   `gh release download ai-media -R Falak-Labs/test -p '<name>.mp4' -D <folder>`.
+   or simply `python3 scripts/ai_media.py fetch <name>.mp4=<link> <name2>.png=<link2>` (it starts the workflow, waits and
+   confirms). The runner downloads them (this workspace cannot reach Higgsfield's file host) and keeps them as assets
+   of the release **ai-media** (not in git history). Get one back: `python3 scripts/ai_media.py get <name>.mp4 <folder>`;
+   see what is there: `python3 scripts/ai_media.py list [filter]`. (`gh release download` does not work in these
+   sessions: it needs GraphQL.) Finished clips live at https://d8j0ntlcm91z4.cloudfront.net/user_.../hf_<date>_<job>.mp4.
    Name files `<project>-<topic>-<shot>.mp4`, e.g. `buildit-taipei-hook.mp4`, `scary-ep07-door.mp4`, `yallah-kitchen-bg.png`.
 6. **Log every generation** in higgsfield/ledger.md (one line: date PT, project, model, file name, the prompt in a few
    words, used where). Read it first: reuse a shot another project already made before you make a new one.
