@@ -572,3 +572,60 @@ New content
   [ENR, Aug 30 2025](https://www.enr.com/articles/61269-load-test-for-worlds-highest-bridge-is-complete-in-guizhou-china),
   [Interesting Engineering, Jan 22 2025](https://interestingengineering.com/culture/world-tallest-bridge-in-China),
   [gov.cn, Nov 5 2024](https://english.www.gov.cn/news/202411/05/content_WS6729673bc6d0868f4e8ec978.html)
+
+## 2026-11-24 10:05 PT (hourly runner, cloud run)
+Platform rules
+- YouTube does not monetize a channel that feels made from one template. Its "Generic or Repetitive Content" rule
+  ("inauthentic content" since July 2025) covers "content that looks like it's made with a template, or that may feel
+  repetitive to viewers after watching several videos in a row from the same channel", including "AI-generated content
+  made with generic or unoriginal templates giving the impression of mass production". It is judged per channel
+  ("channels where content feels interchangeable from video to video are not allowed to monetize") and counts Shorts.
+  Allowed: the "Same intro and outro for your videos, but the bulk of your content is different", "each video has a
+  distinct storyline, focus, or concept", and "using AI to edit your video scripts or generate a unique background
+  visual"; the page says nothing about AI voices. TechCrunch: the July 2026 clarification "rolled out on July 16" for
+  "all YouTube Partner Program members". Build-It use: six same-shaped Seedance builds a day sit near that line, so keep
+  each build's own story and vary the opening format (POV, then-and-now, Day 1 vs later, loading bar: see above), not
+  only the topic. [YouTube Help](https://support.google.com/youtube/answer/1311392?hl=en),
+  [TechCrunch, Jul 20 2026](https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/),
+  [Tubefilter, Jul 13 2026](https://www.tubefilter.com/2026/07/13/youtube-inauthentic-content-monetization-policy-update/)
+
+Trends
+- Viewers drop robot voices: in the CHI '26 PaperTok study (University of Washington; 18 researchers, a survey of 100
+  viewers) "artificial-sounding narration triggered instant rejection"; its design rules (from interviews with 8 science
+  communicators) keep hooks to 15 words or fewer, framed as a question. A perception study, not view data, but a point
+  for the Nov 23 move of English to J. Ballen: listen for flat takes before publishing.
+  [PaperTok, CHI '26](https://arxiv.org/html/2601.18218v1)
+- Coming to YouTube Studio, no dates given (Made on YouTube, Sep 2026): "up to three thumbnails per video" and "video
+  A/B testing to try out different edits and variations". When it appears, test two hooks of one build against each
+  other. [Social Media Today](https://socialmediatoday.com/news/youtube-presents-new-ai-and-engagement-features-at-made-on-2026/831216)
+
+Free footage and pictures
+- DVIDS carries U.S. Army Corps of Engineers civil-works B-roll marked "PUBLIC DOMAIN": an aerial of McAlpine Locks and
+  Dam (Louisville District, 1:59, posted Apr 15 2026), Markland's "dewatered lock chamber" in 4K (Aug 2025), and a
+  24-hour time-lapse of Lock 15's chamber being drained (Rock Island District, 48 s). Real proof shots for any lock, dam
+  or river build (and the Falkirk Wheel's old flight of locks, below). Not confirmed: whether a download needs a login
+  (the pages show a login form). DVIDS is the U.S. military's media hub: take civil-works clips only (no wars).
+  [McAlpine](https://www.dvidshub.net/video/1002691/mcalpine-locks-and-dam-aerial-view),
+  [Markland](https://www.dvidshub.net/video/973776/markland-locks-and-dam-b-roll-4k-30p),
+  [Lock 15](https://www.dvidshub.net/video/844608/lock-15-dewatering-time-lapse-b-roll)
+
+New content
+- LINEUP 95 is now the Falkirk Wheel (Scotland; Europe's first build since 88), so the smoke alarm pair's B4 has a build
+  to tease. It lifts boats 24 m between two canals (ICE, Wikipedia, Hackaday; ASME says 18 m) where a flight of 11 locks
+  took "nearly a day" (ICE; ASME "half-day") until they were dismantled in 1933; two more locks climb the last 11 m to
+  the Union Canal. Its two water-filled gondolas balance each other: floating boats "displace their own weight in
+  water" (Wikipedia), so a gondola weighs the same with or without boats, and ten hydraulic motors (22.5 kW) turn the
+  35 m wheel on 1.5 kWh per half-turn, "roughly the same as boiling eight kettles" (Wikipedia; a callback to 86). A fixed
+  central gear, two idler gears and three 8 m ring gears keep the gondolas level as the arms turn (Wikipedia; Hackaday:
+  "three 8-meter gears"). Built at Butterley in Derbyshire, moved in 35 lorry loads and bolted, not welded, against
+  fatigue ("more than 15,000" bolts and "Each bolt was tightened by hand", ICE; "over 14,000", Wikipedia, Hackaday).
+  Vandals forced its gates open before the 24 May 2002 opening and delayed it a month (Wikipedia). Check before use:
+  water per gondola (250,000 litres in Wikipedia, Hackaday and ASME, 500,000 in ICE), steel (1,200 t ICE, 1,500 t
+  ASME), a half-turn (about 4 min Hackaday, 5.5 min ASME). A B6 idea: a man lowers himself into a brimful bath and the
+  water floods the floor (Archimedes). [ICE](https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/falkirk-wheel),
+  [ASME](https://www.asme.org/engineering-topics/articles/transportation/symbol-of-the-millennium-the-falkirk-wheel),
+  [Hackaday, Feb 13 2026](https://hackaday.com/2026/02/13/the-engineering-of-the-falkirk-wheel),
+  [Wikipedia](https://en.wikipedia.org/wiki/Falkirk_Wheel)
+- A lead for the Huajiang (93) cable-wire gap: a People's Daily story headlined "Nearly 40,000 steel wires hold up
+  world's tallest bridge". Only a disabled repost came up in search (its page reads "PAGE HAS BEEN DISABLED"), so find
+  the original before a line uses the number.
