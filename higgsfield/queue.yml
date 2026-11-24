@@ -867,7 +867,13 @@ jobs:
     # homes" had one by the end of 1975, "roughly 90 percent" by 1990 (IEEE Spectrum, Consumer Electronics Hall of
     # Fame). The poison-gas-sensor story (ideas.md Nov 24 08:10) is in neither page: check. No faces: ceilings, hands,
     # smoke, a dog; the towel man in B6 is the one person.
-    status: "generating (started: Nov 24 14:06 PT by the main chat; shot 4 hand wording removed, radioactive word removed; confirmed by the one-at-a-time toast)"
+    # NOT STARTED (hourly runner, 14:06 PT): the main chat marked it "generating (started: Nov 24 14:06 PT ...;
+    # confirmed by the one-at-a-time toast)", but History (MCP show_generations, all states) at 14:03, 14:05 and 14:06
+    # has no smoke-alarm card: the only job running is f63aa12b (created 14:02:45 PT, 16:9, huajiang-B's leftover text
+    # mixed with another chat's pearl-village prompt). The "only 1 unlimited at a time" toast means the press was
+    # refused. Back to todo: start it (shots as below, with the main chat's rewording of shot 4) once f63aa12b is done,
+    # about 14:15 PT, and do not fetch f63aa12b as this file.
+    status: todo
     file: buildit-smokealarm-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a white smoke alarm on a dark ceiling at night, the camera dives through its vents into a tiny
