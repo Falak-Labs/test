@@ -1837,3 +1837,4 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   Build 79 (Kuwait Towers): clip A fetched, B generating (kuwait-A/B in higgsfield/queue.yml).
 - Build 79 Kuwait Towers made (VOICE_SPEED=1.08 on seedance_publish): media/kuwaittowers-b79-en.mp4 74 s, -ar.mp4 76 s, covers in review/kuwaittowers-b79/. Must be posted.
 - Build 80 King Fahd's Fountain made (VOICE_SPEED=1.04): media/fountain-b80-en.mp4 72 s, -ar.mp4 69 s, covers review/fountain-b80/. Must be posted. Build 81 zipper: zipper-A fetched, zipper-B generating (02:18 PT).
+- Build 81 zipper made (VOICE_SPEED=1.08): media/zipper-b81-en.mp4 73 s, -ar.mp4 70 s (AR audio re-normalised with ffmpeg loudnorm two-pass to -14.3 LUFS / -1.0 dBFS after the first cut measured -15.2). Must be posted. Tease shot in B4 looks like Golden Gate, not HZMB. hzmb-A generating since 02:31 PT.

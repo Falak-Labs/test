@@ -1,0 +1,28 @@
+{
+ "slug": "zipper-b81",
+ "kit": "zipper",
+ "style": "seedance",
+ "en": {
+  "duration": 72.9,
+  "lufs": -14.9,
+  "peak": -1.0,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 27.4,
+  "cover": true,
+  "ok": true
+ },
+ "ar": {
+  "duration": 70.4,
+  "lufs": -15.2,
+  "peak": -1.3,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [
+   "loudness -15.2"
+  ],
+  "size_mb": 26.8,
+  "cover": true
+ }
+}
