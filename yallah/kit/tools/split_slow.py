@@ -21,9 +21,13 @@ def pieces(y, n):
             runs.append([i, j]); i = j
         else:
             i += 1
-    while len(runs) > n:            # join across the shortest gap until n remain
+    if len(runs) > n:               # cut at the n-1 longest pauses (the "..." ones); shorter gaps are inside a part
         g = [runs[k + 1][0] - runs[k][1] for k in range(len(runs) - 1)]
-        k = int(np.argmin(g)); runs[k][1] = runs[k + 1][1]; del runs[k + 1]
+        cuts = sorted(sorted(range(len(g)), key=lambda k: -g[k])[:n - 1])
+        bounds, start = [], 0
+        for c in cuts + [len(runs) - 1]:
+            bounds.append([runs[start][0], runs[c][1]]); start = c + 1
+        runs = bounds
     return [(max(0, a * f - SR * 3 // 100), min(len(y), b * f + SR * 6 // 100)) for a, b in runs]
 
 

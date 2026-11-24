@@ -4,24 +4,18 @@
  "word": {
   "full": "Education",
   "parts": [
-   "Ed",
-   "u",
-   "ca",
-   "tion"
+   "Edu",
+   "cation"
   ],
   "say": [
-   "ej",
-   "oo",
-   "KAY",
-   "shun"
+   "ej-oo",
+   "KAY-shun"
   ],
   "tts": [
-   "Ed",
-   "U",
-   "Ca",
-   "Tion"
+   "Edu",
+   "Cation"
   ],
-  "slow": "Ed... you... kay... shun.",
+  "slow": "Edu... cation.",
   "mean": "التعليم",
   "ar": {
    "ma": "إيديوكيشن",
@@ -57,9 +51,9 @@
  "ma": {
   "hook": [
    [
-    "«T-ta3lim» b-l-inglizia: 4 mqate3, wa7d kaytgal b-jhed. Chmen wa7d?",
-    "«التعليم» بالإنجليزية: ربعة مقاطع، واحد كيتقال بجهد. شمن واحد؟",
-    "“T-ta3lim” in English: 4 parts, one is said louder. Which one?"
+    "«T-ta3lim» b-l-inglizia: 2 d l-mqate3, wa7d kaytgal b-jhed. Chmen wa7d?",
+    "«التعليم» بالإنجليزية: جوج ديال المقاطع، واحد كيتقال بجهد. شمن واحد؟",
+    "“T-ta3lim” in English: 2 parts, one is said louder. Which one?"
    ]
   ],
   "board": [
@@ -103,18 +97,16 @@
    "ar": "التعليم هو ساروت المستقبل!"
   },
   "ah": [
-   "إيد",
-   "يو",
-   "كاي",
-   "شن"
+   "إيديو",
+   "كيشن"
   ]
  },
  "pa": {
   "hook": [
    [
-    "«Et-ta3lim» bil-inglizi: 4 maqate3, wa7ad bin2al a2wa. Ayya wa7ad?",
-    "«التعليم» بالإنجليزي: أربع مقاطع، واحد بنقال أقوى. أي واحد؟",
-    "“Et-ta3lim” in English: 4 parts, one is said louder. Which one?"
+    "«Et-ta3lim» bil-inglizi: maq6a3ein, wa7ad bin2al a2wa. Ayya wa7ad?",
+    "«التعليم» بالإنجليزي: مقطعين، واحد بنقال أقوى. أي واحد؟",
+    "“Et-ta3lim” in English: 2 parts, one is said louder. Which one?"
    ]
   ],
   "board": [
@@ -158,10 +150,8 @@
    "ar": "التعليم هو مفتاح المستقبل!"
   },
   "ah": [
-   "إيد",
-   "يو",
-   "كاي",
-   "شن"
+   "إيديو",
+   "كيشن"
   ]
  }
 }
