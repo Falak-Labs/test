@@ -1,4 +1,4 @@
-# Post status 2026-11-24T16:21:50+00:00
+# Post status 2026-11-24T19:37:24+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -386,14 +386,14 @@
 | ep70-louvre | en.tiktok | sent |  | 2026-11-24T14:05:06.538Z https://tiktok.com/@congratsengineer/video/7711738341183474975 |
 | ep71-vacuum | ar.instagram | sent |  | 2026-11-24T11:02:45.725Z https://www.instagram.com/reel/DgHzPqKBGjD/ |
 | ep71-vacuum | ar.tiktok | sent |  | 2026-11-24T11:03:17.772Z https://tiktok.com/@kef.tenbeni/video/7711691349459864845 |
-| ep71-vacuum | en.instagram | scheduled |  | 2026-11-24T16:30:00.000Z |
-| ep71-vacuum | en.tiktok | scheduled |  | 2026-11-24T16:30:00.000Z |
+| ep71-vacuum | en.instagram | sent |  | 2026-11-24T16:32:37.500Z https://www.instagram.com/reel/DgIZAhWsWcl/ |
+| ep71-vacuum | en.tiktok | sent |  | 2026-11-24T16:32:15.783Z https://tiktok.com/@congratsengineer/video/7711776427976232206 |
 | ep72-petronas | ar.instagram | sent |  | 2026-11-24T14:03:38.712Z https://www.instagram.com/reel/DgIH7o3hQNn/ |
 | ep72-petronas | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T14:00:00.000Z |
-| ep72-petronas | en.instagram | scheduled |  | 2026-11-24T19:00:00.000Z |
-| ep72-petronas | en.tiktok | scheduled |  | 2026-11-24T19:00:00.000Z |
-| ep73-pharos | ar.instagram | scheduled |  | 2026-11-24T17:00:00.000Z |
-| ep73-pharos | ar.tiktok | scheduled |  | 2026-11-24T16:30:00.000Z |
+| ep72-petronas | en.instagram | sent |  | 2026-11-24T19:04:13.501Z https://www.instagram.com/reel/DgIqYX1hFmA/ |
+| ep72-petronas | en.tiktok | sent |  | 2026-11-24T19:04:13.990Z https://tiktok.com/@congratsengineer/video/7711815486765354254 |
+| ep73-pharos | ar.instagram | sent |  | 2026-11-24T17:05:43.032Z https://www.instagram.com/reel/DgIcovHB5Ht/ |
+| ep73-pharos | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T16:30:00.000Z |
 | ep73-pharos | en.instagram | scheduled |  | 2026-11-24T21:30:00.000Z |
 | ep73-pharos | en.tiktok | scheduled |  | 2026-11-24T21:30:00.000Z |
 | ep74-maraya | ar.instagram | scheduled |  | 2026-11-24T20:00:00.000Z |
@@ -429,7 +429,7 @@
 | sm03 | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T02:00:00.000Z |
 | sm03 | en.instagram | sent |  | 2026-11-23T20:16:15.952Z https://www.instagram.com/reel/DgGNynth79K/ |
 | sm03 | en.tiktok | sent |  | 2026-11-23T20:16:55.822Z https://www.tiktok.com/@congratsengineer/video/7711462975671897357?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
-| sm04 | ar.instagram | scheduled |  | 2026-11-24T18:30:00.000Z |
-| sm04 | ar.tiktok | scheduled |  | 2026-11-24T18:30:00.000Z |
+| sm04 | ar.instagram | sent |  | 2026-11-24T18:33:23.397Z https://www.instagram.com/reel/DgImuO-hc6f/ |
+| sm04 | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T18:30:00.000Z |
 | sm04 | en.instagram | scheduled |  | 2026-11-24T20:15:00.000Z |
 | sm04 | en.tiktok | scheduled |  | 2026-11-24T20:15:00.000Z |
