@@ -5,8 +5,13 @@ on:
   workflow_dispatch:
     inputs:
       queries:
-        description: "search phrases separated by |"
-        required: true
+        description: "Openverse search phrases separated by |"
+        required: false
+        default: ""
+      pages:
+        description: "name=pixabay-track-page-url pairs separated by spaces"
+        required: false
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -28,8 +33,10 @@ jobs:
       - name: Find and download
         env:
           QUERIES: ${{ inputs.queries }}
+          PAGES: ${{ inputs.pages }}
         run: |
-          IFS='|' read -ra Q <<< "$QUERIES"
-          python3 -I -u islamic/tools/music_find.py islamic/music/candidates "${Q[@]}"
+          if [ -n "$QUERIES" ]; then IFS='|' read -ra Q <<< "$QUERIES"; timeout 1200 python3 -I -u islamic/tools/music_find.py islamic/music/candidates "${Q[@]}" || true; fi
+          if [ -n "$PAGES" ]; then python3 -I -u islamic/tools/music_pages.py islamic/music/candidates $PAGES || true; fi
       - name: Save to the repo
+        if: always()
         run: bash scripts/save_state.sh "islamic music candidates $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" islamic/music
