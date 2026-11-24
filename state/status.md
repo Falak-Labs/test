@@ -1,4 +1,4 @@
-# Post status 2026-11-24T04:16:12+00:00
+# Post status 2026-11-24T04:30:36+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -249,7 +249,7 @@
 | ep41-barrier | en.tiktok | sent |  | 2026-11-19T16:32:51.366Z https://www.tiktok.com/@congratsengineer/video/7709921165006949645?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep41-barrier | en.youtube | sent |  | 2026-11-20T21:43:50.386Z https://www.youtube.com/shorts/0OK1ZrM8zE8 |
 | ep42-venice | ar.instagram | sent |  | 2026-11-19T14:03:34.551Z https://www.instagram.com/reel/Df7P7GIz0xp/ |
-| ep42-venice | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T04:30:00.000Z |
+| ep42-venice | ar.tiktok | sending | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T04:30:00.000Z |
 | ep42-venice | ar.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-19T14:00:00.000Z |
 | ep42-venice | en.instagram | sent |  | 2026-11-19T05:41:00.776Z https://www.instagram.com/reel/Df6WdelprHI/ |
 | ep42-venice | en.tiktok | sent |  | 2026-11-19T19:04:33.374Z https://www.tiktok.com/@congratsengineer/video/7709960069793778957?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
@@ -393,11 +393,15 @@
 | ep72-petronas | en.instagram | scheduled |  | 2026-11-24T19:00:00.000Z |
 | ep72-petronas | en.tiktok | scheduled |  | 2026-11-24T19:00:00.000Z |
 | ep73-pharos | ar.instagram | scheduled |  | 2026-11-24T17:00:00.000Z |
+| ep73-pharos | ar.tiktok | scheduled |  | 2026-11-24T16:30:00.000Z |
 | ep73-pharos | en.instagram | scheduled |  | 2026-11-24T21:30:00.000Z |
 | ep73-pharos | en.tiktok | scheduled |  | 2026-11-24T21:30:00.000Z |
 | ep74-maraya | ar.instagram | scheduled |  | 2026-11-24T20:00:00.000Z |
 | ep74-maraya | en.instagram | scheduled |  | 2026-11-25T00:00:00.000Z |
 | ep74-maraya | en.tiktok | scheduled |  | 2026-11-25T00:00:00.000Z |
+| ep75-stepwell | ar.instagram | scheduled |  | 2026-11-24T23:00:00.000Z |
+| ep75-stepwell | en.instagram | scheduled |  | 2026-11-25T02:30:00.000Z |
+| ep75-stepwell | en.tiktok | scheduled |  | 2026-11-25T02:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://tiktok.com/@congratsengineer/video/7710759443809553677 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
