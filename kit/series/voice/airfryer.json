@@ -1,0 +1,1203 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 81.58,
+ "words": 216,
+ "words_per_sec": 2.65,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.472,
+   "text": "Y'all, this little box fries your food with a tornado. Yes, a tornado.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.186,
+     "end": 0.714
+    },
+    {
+     "w": "this",
+     "start": 0.929,
+     "end": 1.071
+    },
+    {
+     "w": "little",
+     "start": 1.179,
+     "end": 1.286
+    },
+    {
+     "w": "box",
+     "start": 1.429,
+     "end": 1.714
+    },
+    {
+     "w": "fries",
+     "start": 1.786,
+     "end": 2.0
+    },
+    {
+     "w": "your",
+     "start": 2.071,
+     "end": 2.214
+    },
+    {
+     "w": "food",
+     "start": 2.321,
+     "end": 2.429
+    },
+    {
+     "w": "with",
+     "start": 2.5,
+     "end": 2.571
+    },
+    {
+     "w": "a",
+     "start": 2.643,
+     "end": 2.714
+    },
+    {
+     "w": "tornado.",
+     "start": 2.786,
+     "end": 3.625
+    },
+    {
+     "w": "Yes,",
+     "start": 3.857,
+     "end": 4.357
+    },
+    {
+     "w": "a",
+     "start": 4.429,
+     "end": 4.5
+    },
+    {
+     "w": "tornado.",
+     "start": 4.571,
+     "end": 5.571
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.785,
+   "end": 13.796,
+   "text": "Now listen. Frying means a pot of boiling oil, and oil spits at you like an angry cat. So how do we fry with no oil?",
+   "words": [
+    {
+     "w": "Now",
+     "start": 5.867,
+     "end": 6.01
+    },
+    {
+     "w": "listen.",
+     "start": 6.153,
+     "end": 6.704
+    },
+    {
+     "w": "Frying",
+     "start": 6.822,
+     "end": 7.251
+    },
+    {
+     "w": "means",
+     "start": 7.322,
+     "end": 7.537
+    },
+    {
+     "w": "a",
+     "start": 7.608,
+     "end": 7.679
+    },
+    {
+     "w": "pot",
+     "start": 7.751,
+     "end": 7.965
+    },
+    {
+     "w": "of",
+     "start": 8.037,
+     "end": 8.179
+    },
+    {
+     "w": "boiling",
+     "start": 8.251,
+     "end": 8.679
+    },
+    {
+     "w": "oil,",
+     "start": 8.822,
+     "end": 9.251
+    },
+    {
+     "w": "and",
+     "start": 9.394,
+     "end": 9.537
+    },
+    {
+     "w": "oil",
+     "start": 9.679,
+     "end": 9.894
+    },
+    {
+     "w": "spits",
+     "start": 10.108,
+     "end": 10.394
+    },
+    {
+     "w": "at",
+     "start": 10.465,
+     "end": 10.608
+    },
+    {
+     "w": "you",
+     "start": 10.644,
+     "end": 10.679
+    },
+    {
+     "w": "like",
+     "start": 10.751,
+     "end": 10.894
+    },
+    {
+     "w": "an",
+     "start": 10.965,
+     "end": 11.037
+    },
+    {
+     "w": "angry",
+     "start": 11.108,
+     "end": 11.394
+    },
+    {
+     "w": "cat.",
+     "start": 11.465,
+     "end": 11.794
+    },
+    {
+     "w": "So",
+     "start": 11.938,
+     "end": 12.081
+    },
+    {
+     "w": "how",
+     "start": 12.296,
+     "end": 12.367
+    },
+    {
+     "w": "do",
+     "start": 12.438,
+     "end": 12.51
+    },
+    {
+     "w": "we",
+     "start": 12.581,
+     "end": 12.653
+    },
+    {
+     "w": "fry",
+     "start": 12.724,
+     "end": 12.938
+    },
+    {
+     "w": "with",
+     "start": 13.01,
+     "end": 13.081
+    },
+    {
+     "w": "no",
+     "start": 13.153,
+     "end": 13.296
+    },
+    {
+     "w": "oil?",
+     "start": 13.367,
+     "end": 13.867
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 14.108,
+   "end": 19.224,
+   "text": "First, you hide a red-hot heating coil inside a small box. Cozy.",
+   "words": [
+    {
+     "w": "First,",
+     "start": 14.308,
+     "end": 15.022
+    },
+    {
+     "w": "you",
+     "start": 15.094,
+     "end": 15.165
+    },
+    {
+     "w": "hide",
+     "start": 15.237,
+     "end": 15.379
+    },
+    {
+     "w": "a",
+     "start": 15.451,
+     "end": 15.522
+    },
+    {
+     "w": "red-hot",
+     "start": 15.594,
+     "end": 16.022
+    },
+    {
+     "w": "heating",
+     "start": 16.094,
+     "end": 16.379
+    },
+    {
+     "w": "coil",
+     "start": 16.451,
+     "end": 16.665
+    },
+    {
+     "w": "inside",
+     "start": 16.737,
+     "end": 17.022
+    },
+    {
+     "w": "a",
+     "start": 17.094,
+     "end": 17.165
+    },
+    {
+     "w": "small",
+     "start": 17.308,
+     "end": 17.451
+    },
+    {
+     "w": "box.",
+     "start": 17.522,
+     "end": 18.058
+    },
+    {
+     "w": "Cozy.",
+     "start": 18.754,
+     "end": 19.433
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 19.537,
+   "end": 24.487,
+   "text": "But heat alone just browns the top, and the bottom stays pale and sad.",
+   "words": [
+    {
+     "w": "But",
+     "start": 20.09,
+     "end": 20.304
+    },
+    {
+     "w": "heat",
+     "start": 20.447,
+     "end": 20.59
+    },
+    {
+     "w": "alone",
+     "start": 20.662,
+     "end": 21.019
+    },
+    {
+     "w": "just",
+     "start": 21.09,
+     "end": 21.233
+    },
+    {
+     "w": "browns",
+     "start": 21.304,
+     "end": 21.662
+    },
+    {
+     "w": "the",
+     "start": 21.733,
+     "end": 21.804
+    },
+    {
+     "w": "top,",
+     "start": 21.983,
+     "end": 22.349
+    },
+    {
+     "w": "and",
+     "start": 22.421,
+     "end": 22.492
+    },
+    {
+     "w": "the",
+     "start": 22.528,
+     "end": 22.563
+    },
+    {
+     "w": "bottom",
+     "start": 22.635,
+     "end": 22.921
+    },
+    {
+     "w": "stays",
+     "start": 22.992,
+     "end": 23.278
+    },
+    {
+     "w": "pale",
+     "start": 23.349,
+     "end": 23.706
+    },
+    {
+     "w": "and",
+     "start": 23.813,
+     "end": 23.921
+    },
+    {
+     "w": "sad.",
+     "start": 23.992,
+     "end": 24.635
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 24.799,
+   "end": 30.684,
+   "text": "So you add a fan right above the coil, and it blasts hot air down like a hurricane in your kitchen.",
+   "words": [
+    {
+     "w": "So",
+     "start": 25.061,
+     "end": 25.204
+    },
+    {
+     "w": "you",
+     "start": 25.346,
+     "end": 25.489
+    },
+    {
+     "w": "add",
+     "start": 25.561,
+     "end": 25.632
+    },
+    {
+     "w": "a",
+     "start": 25.704,
+     "end": 25.775
+    },
+    {
+     "w": "fan",
+     "start": 25.846,
+     "end": 26.132
+    },
+    {
+     "w": "right",
+     "start": 26.275,
+     "end": 26.418
+    },
+    {
+     "w": "above",
+     "start": 26.489,
+     "end": 26.704
+    },
+    {
+     "w": "the",
+     "start": 26.775,
+     "end": 26.846
+    },
+    {
+     "w": "coil,",
+     "start": 27.025,
+     "end": 27.382
+    },
+    {
+     "w": "and",
+     "start": 27.561,
+     "end": 27.632
+    },
+    {
+     "w": "it",
+     "start": 27.704,
+     "end": 27.775
+    },
+    {
+     "w": "blasts",
+     "start": 27.846,
+     "end": 28.204
+    },
+    {
+     "w": "hot",
+     "start": 28.275,
+     "end": 28.489
+    },
+    {
+     "w": "air",
+     "start": 28.561,
+     "end": 28.775
+    },
+    {
+     "w": "down",
+     "start": 28.882,
+     "end": 28.989
+    },
+    {
+     "w": "like",
+     "start": 29.061,
+     "end": 29.132
+    },
+    {
+     "w": "a",
+     "start": 29.275,
+     "end": 29.311
+    },
+    {
+     "w": "hurricane",
+     "start": 29.346,
+     "end": 29.846
+    },
+    {
+     "w": "in",
+     "start": 29.918,
+     "end": 29.989
+    },
+    {
+     "w": "your",
+     "start": 30.061,
+     "end": 30.132
+    },
+    {
+     "w": "kitchen.",
+     "start": 30.204,
+     "end": 30.775
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 30.996,
+   "end": 36.664,
+   "text": "But pile the fries in a heap, and the middle goes soggy. Steam gets trapped. Nobody wants that.",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.096,
+     "end": 31.239
+    },
+    {
+     "w": "pile",
+     "start": 31.311,
+     "end": 31.596
+    },
+    {
+     "w": "the",
+     "start": 31.668,
+     "end": 31.739
+    },
+    {
+     "w": "fries",
+     "start": 31.775,
+     "end": 32.025
+    },
+    {
+     "w": "in",
+     "start": 32.096,
+     "end": 32.168
+    },
+    {
+     "w": "a",
+     "start": 32.204,
+     "end": 32.239
+    },
+    {
+     "w": "heap,",
+     "start": 32.311,
+     "end": 32.704
+    },
+    {
+     "w": "and",
+     "start": 32.811,
+     "end": 32.882
+    },
+    {
+     "w": "the",
+     "start": 32.954,
+     "end": 33.025
+    },
+    {
+     "w": "middle",
+     "start": 33.096,
+     "end": 33.311
+    },
+    {
+     "w": "goes",
+     "start": 33.382,
+     "end": 33.596
+    },
+    {
+     "w": "soggy.",
+     "start": 33.668,
+     "end": 34.229
+    },
+    {
+     "w": "Steam",
+     "start": 34.364,
+     "end": 34.65
+    },
+    {
+     "w": "gets",
+     "start": 34.757,
+     "end": 34.864
+    },
+    {
+     "w": "trapped.",
+     "start": 34.936,
+     "end": 35.507
+    },
+    {
+     "w": "Nobody",
+     "start": 35.65,
+     "end": 35.936
+    },
+    {
+     "w": "wants",
+     "start": 36.007,
+     "end": 36.221
+    },
+    {
+     "w": "that.",
+     "start": 36.293,
+     "end": 36.793
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 36.977,
+   "end": 42.086,
+   "text": "So you build a basket full of holes, and the hot air rushes through every single one.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.184,
+     "end": 37.327
+    },
+    {
+     "w": "you",
+     "start": 37.398,
+     "end": 37.541
+    },
+    {
+     "w": "build",
+     "start": 37.612,
+     "end": 37.755
+    },
+    {
+     "w": "a",
+     "start": 37.827,
+     "end": 37.898
+    },
+    {
+     "w": "basket",
+     "start": 37.97,
+     "end": 38.327
+    },
+    {
+     "w": "full",
+     "start": 38.47,
+     "end": 38.612
+    },
+    {
+     "w": "of",
+     "start": 38.684,
+     "end": 38.755
+    },
+    {
+     "w": "holes,",
+     "start": 38.97,
+     "end": 39.327
+    },
+    {
+     "w": "and",
+     "start": 39.47,
+     "end": 39.541
+    },
+    {
+     "w": "the",
+     "start": 39.612,
+     "end": 39.684
+    },
+    {
+     "w": "hot",
+     "start": 39.755,
+     "end": 39.898
+    },
+    {
+     "w": "air",
+     "start": 39.97,
+     "end": 40.184
+    },
+    {
+     "w": "rushes",
+     "start": 40.291,
+     "end": 40.541
+    },
+    {
+     "w": "through",
+     "start": 40.684,
+     "end": 40.827
+    },
+    {
+     "w": "every",
+     "start": 40.898,
+     "end": 41.184
+    },
+    {
+     "w": "single",
+     "start": 41.255,
+     "end": 41.541
+    },
+    {
+     "w": "one.",
+     "start": 41.684,
+     "end": 42.086
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 42.398,
+   "end": 47.477,
+   "text": "But now the box keeps getting hotter and hotter, and it starts to smoke.",
+   "words": [
+    {
+     "w": "But",
+     "start": 43.434,
+     "end": 43.577
+    },
+    {
+     "w": "now",
+     "start": 43.648,
+     "end": 43.791
+    },
+    {
+     "w": "the",
+     "start": 43.862,
+     "end": 44.005
+    },
+    {
+     "w": "box",
+     "start": 44.148,
+     "end": 44.291
+    },
+    {
+     "w": "keeps",
+     "start": 44.362,
+     "end": 44.505
+    },
+    {
+     "w": "getting",
+     "start": 44.577,
+     "end": 44.791
+    },
+    {
+     "w": "hotter",
+     "start": 44.934,
+     "end": 45.291
+    },
+    {
+     "w": "and",
+     "start": 45.434,
+     "end": 45.505
+    },
+    {
+     "w": "hotter,",
+     "start": 45.648,
+     "end": 46.229
+    },
+    {
+     "w": "and",
+     "start": 46.264,
+     "end": 46.3
+    },
+    {
+     "w": "it",
+     "start": 46.371,
+     "end": 46.443
+    },
+    {
+     "w": "starts",
+     "start": 46.586,
+     "end": 46.729
+    },
+    {
+     "w": "to",
+     "start": 46.8,
+     "end": 46.943
+    },
+    {
+     "w": "smoke.",
+     "start": 47.05,
+     "end": 47.586
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 47.789,
+   "end": 53.7,
+   "text": "So you add a thermostat. It clicks, the coil dims, and the fries stay perfectly golden.",
+   "words": [
+    {
+     "w": "So",
+     "start": 48.004,
+     "end": 48.146
+    },
+    {
+     "w": "you",
+     "start": 48.289,
+     "end": 48.432
+    },
+    {
+     "w": "add",
+     "start": 48.504,
+     "end": 48.575
+    },
+    {
+     "w": "a",
+     "start": 48.646,
+     "end": 48.718
+    },
+    {
+     "w": "thermostat.",
+     "start": 48.789,
+     "end": 49.504
+    },
+    {
+     "w": "It",
+     "start": 49.646,
+     "end": 49.718
+    },
+    {
+     "w": "clicks,",
+     "start": 49.789,
+     "end": 50.432
+    },
+    {
+     "w": "the",
+     "start": 50.504,
+     "end": 50.575
+    },
+    {
+     "w": "coil",
+     "start": 50.718,
+     "end": 50.861
+    },
+    {
+     "w": "dims,",
+     "start": 50.932,
+     "end": 51.504
+    },
+    {
+     "w": "and",
+     "start": 51.575,
+     "end": 51.646
+    },
+    {
+     "w": "the",
+     "start": 51.682,
+     "end": 51.718
+    },
+    {
+     "w": "fries",
+     "start": 51.789,
+     "end": 52.146
+    },
+    {
+     "w": "stay",
+     "start": 52.218,
+     "end": 52.432
+    },
+    {
+     "w": "perfectly",
+     "start": 52.646,
+     "end": 53.075
+    },
+    {
+     "w": "golden.",
+     "start": 53.218,
+     "end": 53.861
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 54.012,
+   "end": 59.671,
+   "text": "Hit follow, 'cause next we're building the Kuwait Towers. Yes... water towers.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 54.08,
+     "end": 54.223
+    },
+    {
+     "w": "follow,",
+     "start": 54.366,
+     "end": 54.937
+    },
+    {
+     "w": "'cause",
+     "start": 55.08,
+     "end": 55.295
+    },
+    {
+     "w": "next",
+     "start": 55.366,
+     "end": 55.58
+    },
+    {
+     "w": "we're",
+     "start": 55.723,
+     "end": 55.866
+    },
+    {
+     "w": "building",
+     "start": 56.009,
+     "end": 56.152
+    },
+    {
+     "w": "the",
+     "start": 56.223,
+     "end": 56.295
+    },
+    {
+     "w": "Kuwait",
+     "start": 56.33,
+     "end": 56.652
+    },
+    {
+     "w": "Towers.",
+     "start": 56.723,
+     "end": 57.295
+    },
+    {
+     "w": "Yes...",
+     "start": 58.152,
+     "end": 58.477
+    },
+    {
+     "w": "water",
+     "start": 58.723,
+     "end": 59.009
+    },
+    {
+     "w": "towers.",
+     "start": 59.08,
+     "end": 59.795
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 59.983,
+   "end": 66.091,
+   "text": "Today, a kid grabs a basket of crispy wings, and the whole family dives in. Hot air did that.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 60.126,
+     "end": 60.733
+    },
+    {
+     "w": "a",
+     "start": 60.912,
+     "end": 60.983
+    },
+    {
+     "w": "kid",
+     "start": 61.054,
+     "end": 61.269
+    },
+    {
+     "w": "grabs",
+     "start": 61.34,
+     "end": 61.554
+    },
+    {
+     "w": "a",
+     "start": 61.626,
+     "end": 61.697
+    },
+    {
+     "w": "basket",
+     "start": 61.876,
+     "end": 62.054
+    },
+    {
+     "w": "of",
+     "start": 62.126,
+     "end": 62.197
+    },
+    {
+     "w": "crispy",
+     "start": 62.269,
+     "end": 62.626
+    },
+    {
+     "w": "wings,",
+     "start": 62.697,
+     "end": 63.09
+    },
+    {
+     "w": "and",
+     "start": 63.197,
+     "end": 63.34
+    },
+    {
+     "w": "the",
+     "start": 63.447,
+     "end": 63.554
+    },
+    {
+     "w": "whole",
+     "start": 63.626,
+     "end": 63.912
+    },
+    {
+     "w": "family",
+     "start": 63.983,
+     "end": 64.34
+    },
+    {
+     "w": "dives",
+     "start": 64.412,
+     "end": 64.697
+    },
+    {
+     "w": "in.",
+     "start": 64.769,
+     "end": 65.081
+    },
+    {
+     "w": "Hot",
+     "start": 65.188,
+     "end": 65.296
+    },
+    {
+     "w": "air",
+     "start": 65.367,
+     "end": 65.581
+    },
+    {
+     "w": "did",
+     "start": 65.653,
+     "end": 65.724
+    },
+    {
+     "w": "that.",
+     "start": 65.796,
+     "end": 66.296
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 66.404,
+   "end": 70.558,
+   "text": "One coil, one fan, one basket, and zero oil.",
+   "words": [
+    {
+     "w": "One",
+     "start": 66.546,
+     "end": 66.689
+    },
+    {
+     "w": "coil,",
+     "start": 66.761,
+     "end": 67.332
+    },
+    {
+     "w": "one",
+     "start": 67.475,
+     "end": 67.618
+    },
+    {
+     "w": "fan,",
+     "start": 67.761,
+     "end": 68.261
+    },
+    {
+     "w": "one",
+     "start": 68.404,
+     "end": 68.546
+    },
+    {
+     "w": "basket,",
+     "start": 68.618,
+     "end": 69.189
+    },
+    {
+     "w": "and",
+     "start": 69.261,
+     "end": 69.404
+    },
+    {
+     "w": "zero",
+     "start": 69.618,
+     "end": 69.975
+    },
+    {
+     "w": "oil.",
+     "start": 70.118,
+     "end": 70.689
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 70.871,
+   "end": 73.996,
+   "text": "And congrats, you just built an air fryer yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 70.924,
+     "end": 71.067
+    },
+    {
+     "w": "congrats,",
+     "start": 71.138,
+     "end": 71.924
+    },
+    {
+     "w": "you",
+     "start": 72.067,
+     "end": 72.21
+    },
+    {
+     "w": "just",
+     "start": 72.317,
+     "end": 72.424
+    },
+    {
+     "w": "built",
+     "start": 72.531,
+     "end": 72.638
+    },
+    {
+     "w": "an",
+     "start": 72.71,
+     "end": 72.781
+    },
+    {
+     "w": "air",
+     "start": 72.853,
+     "end": 72.924
+    },
+    {
+     "w": "fryer",
+     "start": 73.067,
+     "end": 73.353
+    },
+    {
+     "w": "yourself.",
+     "start": 73.46,
+     "end": 74.138
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 74.308,
+   "end": 81.567,
+   "text": "Shake the basket too hard, and the fries go flying... and the cat is not happy.",
+   "words": [
+    {
+     "w": "Shake",
+     "start": 74.951,
+     "end": 75.379
+    },
+    {
+     "w": "the",
+     "start": 75.415,
+     "end": 75.451
+    },
+    {
+     "w": "basket",
+     "start": 75.522,
+     "end": 75.879
+    },
+    {
+     "w": "too",
+     "start": 75.951,
+     "end": 76.094
+    },
+    {
+     "w": "hard,",
+     "start": 76.165,
+     "end": 76.558
+    },
+    {
+     "w": "and",
+     "start": 76.594,
+     "end": 76.665
+    },
+    {
+     "w": "the",
+     "start": 76.737,
+     "end": 76.808
+    },
+    {
+     "w": "fries",
+     "start": 76.879,
+     "end": 77.165
+    },
+    {
+     "w": "go",
+     "start": 77.237,
+     "end": 77.379
+    },
+    {
+     "w": "flying...",
+     "start": 77.522,
+     "end": 78.308
+    },
+    {
+     "w": "and",
+     "start": 79.799,
+     "end": 79.871
+    },
+    {
+     "w": "the",
+     "start": 79.942,
+     "end": 80.013
+    },
+    {
+     "w": "cat",
+     "start": 80.156,
+     "end": 80.371
+    },
+    {
+     "w": "is",
+     "start": 80.442,
+     "end": 80.656
+    },
+    {
+     "w": "not",
+     "start": 80.799,
+     "end": 81.013
+    },
+    {
+     "w": "happy.",
+     "start": 81.085,
+     "end": 81.728
+    }
+   ]
+  }
+ ]
+}
