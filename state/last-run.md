@@ -1,4 +1,4 @@
-# Last posting run 2026-11-24T11:08:27+00:00
+# Last posting run 2026-11-24T11:53:07+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -50,7 +50,6 @@
 - ep74-maraya ar.youtube: on hold in posts/ep74-maraya.yml
 - ep75-stepwell en.youtube: on hold in posts/ep75-stepwell.yml
 - ep75-stepwell ar.youtube: on hold in posts/ep75-stepwell.yml
-- ep75-stepwell ar.tiktok: scheduled (Tue 24 Nov 23:00 UTC) id 6b05702ee15b3c5bdef12379
 - sm01-survival en.youtube: on hold in posts/sm01-survival.yml
 - sm02 en.youtube: on hold in posts/sm02.yml
 - sm02 ar.youtube: on hold in posts/sm02.yml
@@ -58,5 +57,5 @@
 - sm03 ar.youtube: on hold in posts/sm03.yml
 - sm04 en.youtube: on hold in posts/sm04.yml
 - sm04 ar.youtube: on hold in posts/sm04.yml
-- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=522; t=74892, "30d"; r=864; t=1365872; ratelimit-policy="15m"; q=15
-- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=147; t=899, "24h"; r=526; t=74891, "30d"; r=769; t=1372000; ratelimit-policy="15m"; q=15
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=509; t=72212, "30d"; r=851; t=1363192; ratelimit-policy="15m"; q=15
+- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=514; t=72212, "30d"; r=757; t=1369321; ratelimit-policy="15m"; q=15
