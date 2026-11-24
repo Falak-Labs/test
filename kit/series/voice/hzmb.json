@@ -1,0 +1,998 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 69.307,
+ "words": 175,
+ "words_per_sec": 2.53,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.38,
+   "text": "Y'all, this road drives you under the sea. Yes, under it.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.75
+    },
+    {
+     "w": "this",
+     "start": 0.929,
+     "end": 1.143
+    },
+    {
+     "w": "road",
+     "start": 1.214,
+     "end": 1.429
+    },
+    {
+     "w": "drives",
+     "start": 1.5,
+     "end": 1.786
+    },
+    {
+     "w": "you",
+     "start": 1.893,
+     "end": 2.0
+    },
+    {
+     "w": "under",
+     "start": 2.071,
+     "end": 2.357
+    },
+    {
+     "w": "the",
+     "start": 2.429,
+     "end": 2.5
+    },
+    {
+     "w": "sea.",
+     "start": 2.571,
+     "end": 3.018
+    },
+    {
+     "w": "Yes,",
+     "start": 3.196,
+     "end": 3.696
+    },
+    {
+     "w": "under",
+     "start": 3.839,
+     "end": 4.125
+    },
+    {
+     "w": "it.",
+     "start": 4.196,
+     "end": 4.554
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.693,
+   "end": 10.513,
+   "text": "Now listen. The sea is packed with giant ships, so a bridge the whole way is impossible.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 4.81,
+     "end": 4.953
+    },
+    {
+     "w": "listen.",
+     "start": 5.024,
+     "end": 5.631
+    },
+    {
+     "w": "The",
+     "start": 5.81,
+     "end": 5.881
+    },
+    {
+     "w": "sea",
+     "start": 6.024,
+     "end": 6.238
+    },
+    {
+     "w": "is",
+     "start": 6.31,
+     "end": 6.524
+    },
+    {
+     "w": "packed",
+     "start": 6.596,
+     "end": 6.953
+    },
+    {
+     "w": "with",
+     "start": 7.06,
+     "end": 7.167
+    },
+    {
+     "w": "giant",
+     "start": 7.238,
+     "end": 7.596
+    },
+    {
+     "w": "ships,",
+     "start": 7.667,
+     "end": 8.167
+    },
+    {
+     "w": "so",
+     "start": 8.31,
+     "end": 8.381
+    },
+    {
+     "w": "a",
+     "start": 8.453,
+     "end": 8.524
+    },
+    {
+     "w": "bridge",
+     "start": 8.667,
+     "end": 8.81
+    },
+    {
+     "w": "the",
+     "start": 8.881,
+     "end": 8.953
+    },
+    {
+     "w": "whole",
+     "start": 9.06,
+     "end": 9.167
+    },
+    {
+     "w": "way",
+     "start": 9.31,
+     "end": 9.453
+    },
+    {
+     "w": "is",
+     "start": 9.524,
+     "end": 9.596
+    },
+    {
+     "w": "impossible.",
+     "start": 9.667,
+     "end": 10.667
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.826,
+   "end": 16.988,
+   "text": "So you tow giant concrete tunnel pieces out to sea, one by one. Floating giants.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.969,
+     "end": 11.112
+    },
+    {
+     "w": "you",
+     "start": 11.254,
+     "end": 11.397
+    },
+    {
+     "w": "tow",
+     "start": 11.469,
+     "end": 11.683
+    },
+    {
+     "w": "giant",
+     "start": 11.897,
+     "end": 12.254
+    },
+    {
+     "w": "concrete",
+     "start": 12.362,
+     "end": 12.683
+    },
+    {
+     "w": "tunnel",
+     "start": 12.754,
+     "end": 12.969
+    },
+    {
+     "w": "pieces",
+     "start": 13.04,
+     "end": 13.326
+    },
+    {
+     "w": "out",
+     "start": 13.397,
+     "end": 13.54
+    },
+    {
+     "w": "to",
+     "start": 13.612,
+     "end": 13.683
+    },
+    {
+     "w": "sea,",
+     "start": 13.754,
+     "end": 14.156
+    },
+    {
+     "w": "one",
+     "start": 14.299,
+     "end": 14.513
+    },
+    {
+     "w": "by",
+     "start": 14.585,
+     "end": 14.871
+    },
+    {
+     "w": "one.",
+     "start": 14.942,
+     "end": 15.308
+    },
+    {
+     "w": "Floating",
+     "start": 15.933,
+     "end": 16.147
+    },
+    {
+     "w": "giants.",
+     "start": 16.29,
+     "end": 17.076
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 17.301,
+   "end": 21.441,
+   "text": "But then the digging scares the rare pink dolphins. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 17.81,
+     "end": 17.953
+    },
+    {
+     "w": "then",
+     "start": 18.024,
+     "end": 18.167
+    },
+    {
+     "w": "the",
+     "start": 18.238,
+     "end": 18.31
+    },
+    {
+     "w": "digging",
+     "start": 18.453,
+     "end": 18.81
+    },
+    {
+     "w": "scares",
+     "start": 18.881,
+     "end": 19.31
+    },
+    {
+     "w": "the",
+     "start": 19.346,
+     "end": 19.381
+    },
+    {
+     "w": "rare",
+     "start": 19.453,
+     "end": 19.667
+    },
+    {
+     "w": "pink",
+     "start": 19.738,
+     "end": 19.881
+    },
+    {
+     "w": "dolphins.",
+     "start": 19.953,
+     "end": 20.667
+    },
+    {
+     "w": "Oh",
+     "start": 20.703,
+     "end": 20.917
+    },
+    {
+     "w": "boy.",
+     "start": 21.06,
+     "end": 21.631
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 21.754,
+   "end": 26.314,
+   "text": "So you sink one hundred twenty steel cylinders, and build two islands.",
+   "words": [
+    {
+     "w": "So",
+     "start": 21.968,
+     "end": 22.111
+    },
+    {
+     "w": "you",
+     "start": 22.254,
+     "end": 22.396
+    },
+    {
+     "w": "sink",
+     "start": 22.539,
+     "end": 22.682
+    },
+    {
+     "w": "one",
+     "start": 22.825,
+     "end": 22.968
+    },
+    {
+     "w": "hundred",
+     "start": 23.039,
+     "end": 23.254
+    },
+    {
+     "w": "twenty",
+     "start": 23.325,
+     "end": 23.539
+    },
+    {
+     "w": "steel",
+     "start": 23.682,
+     "end": 23.968
+    },
+    {
+     "w": "cylinders,",
+     "start": 24.111,
+     "end": 24.682
+    },
+    {
+     "w": "and",
+     "start": 24.825,
+     "end": 24.968
+    },
+    {
+     "w": "build",
+     "start": 25.039,
+     "end": 25.325
+    },
+    {
+     "w": "two",
+     "start": 25.468,
+     "end": 25.611
+    },
+    {
+     "w": "islands.",
+     "start": 25.682,
+     "end": 26.396
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 26.627,
+   "end": 30.946,
+   "text": "But the seabed is soft mud, and a heavy tunnel piece sinks crooked.",
+   "words": [
+    {
+     "w": "But",
+     "start": 26.743,
+     "end": 26.886
+    },
+    {
+     "w": "the",
+     "start": 26.957,
+     "end": 27.1
+    },
+    {
+     "w": "seabed",
+     "start": 27.171,
+     "end": 27.529
+    },
+    {
+     "w": "is",
+     "start": 27.6,
+     "end": 27.743
+    },
+    {
+     "w": "soft",
+     "start": 27.814,
+     "end": 28.1
+    },
+    {
+     "w": "mud,",
+     "start": 28.243,
+     "end": 28.671
+    },
+    {
+     "w": "and",
+     "start": 28.814,
+     "end": 28.886
+    },
+    {
+     "w": "a",
+     "start": 28.957,
+     "end": 29.029
+    },
+    {
+     "w": "heavy",
+     "start": 29.1,
+     "end": 29.314
+    },
+    {
+     "w": "tunnel",
+     "start": 29.386,
+     "end": 29.671
+    },
+    {
+     "w": "piece",
+     "start": 29.743,
+     "end": 30.029
+    },
+    {
+     "w": "sinks",
+     "start": 30.1,
+     "end": 30.386
+    },
+    {
+     "w": "crooked.",
+     "start": 30.457,
+     "end": 31.1
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 31.258,
+   "end": 35.746,
+   "text": "So you lay a flat bed of gravel first, and lower each piece gently.",
+   "words": [
+    {
+     "w": "So",
+     "start": 31.472,
+     "end": 31.615
+    },
+    {
+     "w": "you",
+     "start": 31.687,
+     "end": 31.829
+    },
+    {
+     "w": "lay",
+     "start": 31.901,
+     "end": 31.972
+    },
+    {
+     "w": "a",
+     "start": 32.044,
+     "end": 32.187
+    },
+    {
+     "w": "flat",
+     "start": 32.258,
+     "end": 32.472
+    },
+    {
+     "w": "bed",
+     "start": 32.544,
+     "end": 32.687
+    },
+    {
+     "w": "of",
+     "start": 32.758,
+     "end": 32.829
+    },
+    {
+     "w": "gravel",
+     "start": 32.865,
+     "end": 33.187
+    },
+    {
+     "w": "first,",
+     "start": 33.258,
+     "end": 33.901
+    },
+    {
+     "w": "and",
+     "start": 33.972,
+     "end": 34.044
+    },
+    {
+     "w": "lower",
+     "start": 34.115,
+     "end": 34.401
+    },
+    {
+     "w": "each",
+     "start": 34.472,
+     "end": 34.687
+    },
+    {
+     "w": "piece",
+     "start": 34.758,
+     "end": 35.044
+    },
+    {
+     "w": "gently.",
+     "start": 35.187,
+     "end": 35.901
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 36.059,
+   "end": 39.95,
+   "text": "But the very last piece doesn't fit. There's a gap.",
+   "words": [
+    {
+     "w": "But",
+     "start": 36.767,
+     "end": 36.91
+    },
+    {
+     "w": "the",
+     "start": 36.981,
+     "end": 37.124
+    },
+    {
+     "w": "very",
+     "start": 37.196,
+     "end": 37.41
+    },
+    {
+     "w": "last",
+     "start": 37.481,
+     "end": 37.767
+    },
+    {
+     "w": "piece",
+     "start": 37.838,
+     "end": 38.124
+    },
+    {
+     "w": "doesn't",
+     "start": 38.196,
+     "end": 38.553
+    },
+    {
+     "w": "fit.",
+     "start": 38.696,
+     "end": 39.124
+    },
+    {
+     "w": "There's",
+     "start": 39.196,
+     "end": 39.338
+    },
+    {
+     "w": "a",
+     "start": 39.41,
+     "end": 39.481
+    },
+    {
+     "w": "gap.",
+     "start": 39.66,
+     "end": 40.053
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 40.262,
+   "end": 43.757,
+   "text": "So it slides out like a drawer, and seals tight.",
+   "words": [
+    {
+     "w": "So",
+     "start": 40.477,
+     "end": 40.62
+    },
+    {
+     "w": "it",
+     "start": 40.691,
+     "end": 40.834
+    },
+    {
+     "w": "slides",
+     "start": 40.905,
+     "end": 41.262
+    },
+    {
+     "w": "out",
+     "start": 41.334,
+     "end": 41.405
+    },
+    {
+     "w": "like",
+     "start": 41.477,
+     "end": 41.548
+    },
+    {
+     "w": "a",
+     "start": 41.62,
+     "end": 41.691
+    },
+    {
+     "w": "drawer,",
+     "start": 41.762,
+     "end": 42.298
+    },
+    {
+     "w": "and",
+     "start": 42.477,
+     "end": 42.691
+    },
+    {
+     "w": "seals",
+     "start": 42.834,
+     "end": 43.191
+    },
+    {
+     "w": "tight.",
+     "start": 43.262,
+     "end": 43.905
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 44.07,
+   "end": 49.647,
+   "text": "Hit follow, 'cause next we're building a Thermos flask. Yes... a flask.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 44.137,
+     "end": 44.279
+    },
+    {
+     "w": "follow,",
+     "start": 44.422,
+     "end": 44.994
+    },
+    {
+     "w": "'cause",
+     "start": 45.137,
+     "end": 45.351
+    },
+    {
+     "w": "next",
+     "start": 45.422,
+     "end": 45.708
+    },
+    {
+     "w": "we're",
+     "start": 45.779,
+     "end": 45.994
+    },
+    {
+     "w": "building",
+     "start": 46.137,
+     "end": 46.279
+    },
+    {
+     "w": "a",
+     "start": 46.351,
+     "end": 46.422
+    },
+    {
+     "w": "Thermos",
+     "start": 46.494,
+     "end": 46.851
+    },
+    {
+     "w": "flask.",
+     "start": 46.922,
+     "end": 47.422
+    },
+    {
+     "w": "Yes...",
+     "start": 48.137,
+     "end": 48.637
+    },
+    {
+     "w": "a",
+     "start": 48.708,
+     "end": 48.851
+    },
+    {
+     "w": "flask.",
+     "start": 48.922,
+     "end": 49.779
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 49.96,
+   "end": 54.942,
+   "text": "Today, a typhoon hits the bridge, and it just stands there. That's the point.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 50.031,
+     "end": 50.71
+    },
+    {
+     "w": "a",
+     "start": 50.888,
+     "end": 50.96
+    },
+    {
+     "w": "typhoon",
+     "start": 51.031,
+     "end": 51.603
+    },
+    {
+     "w": "hits",
+     "start": 51.674,
+     "end": 51.817
+    },
+    {
+     "w": "the",
+     "start": 51.888,
+     "end": 51.96
+    },
+    {
+     "w": "bridge,",
+     "start": 52.031,
+     "end": 52.46
+    },
+    {
+     "w": "and",
+     "start": 52.603,
+     "end": 52.674
+    },
+    {
+     "w": "it",
+     "start": 52.746,
+     "end": 52.817
+    },
+    {
+     "w": "just",
+     "start": 52.888,
+     "end": 53.031
+    },
+    {
+     "w": "stands",
+     "start": 53.103,
+     "end": 53.46
+    },
+    {
+     "w": "there.",
+     "start": 53.603,
+     "end": 53.853
+    },
+    {
+     "w": "That's",
+     "start": 54.013,
+     "end": 54.299
+    },
+    {
+     "w": "the",
+     "start": 54.371,
+     "end": 54.442
+    },
+    {
+     "w": "point.",
+     "start": 54.621,
+     "end": 55.013
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 55.254,
+   "end": 59.262,
+   "text": "Fifty five kilometers, two islands, one tunnel under the sea.",
+   "words": [
+    {
+     "w": "Fifty",
+     "start": 55.335,
+     "end": 55.549
+    },
+    {
+     "w": "five",
+     "start": 55.621,
+     "end": 55.835
+    },
+    {
+     "w": "kilometers,",
+     "start": 55.906,
+     "end": 56.656
+    },
+    {
+     "w": "two",
+     "start": 56.763,
+     "end": 56.906
+    },
+    {
+     "w": "islands,",
+     "start": 57.049,
+     "end": 57.621
+    },
+    {
+     "w": "one",
+     "start": 57.763,
+     "end": 57.906
+    },
+    {
+     "w": "tunnel",
+     "start": 57.978,
+     "end": 58.335
+    },
+    {
+     "w": "under",
+     "start": 58.478,
+     "end": 58.621
+    },
+    {
+     "w": "the",
+     "start": 58.692,
+     "end": 58.763
+    },
+    {
+     "w": "sea.",
+     "start": 58.835,
+     "end": 59.406
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 59.574,
+   "end": 63.687,
+   "text": "And congrats, you just built the Hong Kong Zhuhai Macau Bridge yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 59.696,
+     "end": 59.717
+    },
+    {
+     "w": "congrats,",
+     "start": 59.788,
+     "end": 60.672
+    },
+    {
+     "w": "you",
+     "start": 60.797,
+     "end": 60.94
+    },
+    {
+     "w": "just",
+     "start": 61.047,
+     "end": 61.154
+    },
+    {
+     "w": "built",
+     "start": 61.262,
+     "end": 61.369
+    },
+    {
+     "w": "the",
+     "start": 61.404,
+     "end": 61.44
+    },
+    {
+     "w": "Hong",
+     "start": 61.512,
+     "end": 61.726
+    },
+    {
+     "w": "Kong",
+     "start": 61.762,
+     "end": 61.94
+    },
+    {
+     "w": "Zhuhai",
+     "start": 62.012,
+     "end": 62.369
+    },
+    {
+     "w": "Macau",
+     "start": 62.476,
+     "end": 62.726
+    },
+    {
+     "w": "Bridge",
+     "start": 62.797,
+     "end": 63.012
+    },
+    {
+     "w": "yourself.",
+     "start": 63.119,
+     "end": 63.869
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 64.0,
+   "end": 69.298,
+   "text": "Take a selfie on the tour bus... and the tunnel switches off the lights.",
+   "words": [
+    {
+     "w": "Take",
+     "start": 64.643,
+     "end": 64.857
+    },
+    {
+     "w": "a",
+     "start": 64.893,
+     "end": 64.929
+    },
+    {
+     "w": "selfie",
+     "start": 65.0,
+     "end": 65.357
+    },
+    {
+     "w": "on",
+     "start": 65.393,
+     "end": 65.429
+    },
+    {
+     "w": "the",
+     "start": 65.5,
+     "end": 65.536
+    },
+    {
+     "w": "tour",
+     "start": 65.571,
+     "end": 65.857
+    },
+    {
+     "w": "bus...",
+     "start": 66.036,
+     "end": 66.429
+    },
+    {
+     "w": "and",
+     "start": 67.357,
+     "end": 67.429
+    },
+    {
+     "w": "the",
+     "start": 67.5,
+     "end": 67.571
+    },
+    {
+     "w": "tunnel",
+     "start": 67.643,
+     "end": 67.929
+    },
+    {
+     "w": "switches",
+     "start": 68.0,
+     "end": 68.286
+    },
+    {
+     "w": "off",
+     "start": 68.357,
+     "end": 68.5
+    },
+    {
+     "w": "the",
+     "start": 68.536,
+     "end": 68.571
+    },
+    {
+     "w": "lights.",
+     "start": 68.643,
+     "end": 69.429
+    }
+   ]
+  }
+ ]
+}
