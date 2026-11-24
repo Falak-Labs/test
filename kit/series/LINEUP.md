@@ -103,9 +103,9 @@ Rules:
 70. idea: the Louvre Abu Dhabi's dome, a "rain of light" over a museum on the sea (taken: midday run of 2026-11-23)
 71. idea: a vacuum cleaner (taken: midday run of 2026-11-23)
 72. idea: the Petronas Twin Towers and the sky bridge that slides as they sway (Kuala Lumpur) (taken: midday run of 2026-11-23)
-73. idea: the Lighthouse of Alexandria, the Pharos (a fire seen far out at sea; its stones now lie in the harbour and in Qaitbay's fort)
-74. idea: Maraya in AlUla, the world's largest mirrored building (it disappears into the Saudi desert)
-75. idea: India's Chand Baori stepwell (about 3,500 steps down to cool water)
+73. idea: the Lighthouse of Alexandria, the Pharos (a fire seen far out at sea; its stones now lie in the harbour and in Qaitbay's fort) (taken: evening run of 2026-11-23)
+74. idea: Maraya in AlUla, the world's largest mirrored building (it disappears into the Saudi desert) (taken: evening run of 2026-11-23)
+75. idea: India's Chand Baori stepwell (about 3,500 steps down to cool water) (taken: evening run of 2026-11-23)
 76. idea: a pressure cooker
 77. idea: the Golden Gate Bridge (its "International Orange" was only the primer, and it was built into the fog and the tides)
 78. idea: an air fryer (a small oven that "fries" with a whirlwind of hot air)
