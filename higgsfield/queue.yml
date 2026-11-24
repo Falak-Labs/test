@@ -692,7 +692,7 @@ jobs:
     # 50th). Trams: "tracks for the passenger-train conveyor system" (NPS). The "1/64 inch" fit and "no deaths"
     # claims are not confirmed. B4 teases build 92, a car seatbelt (LINEUP). B6: hot water loosens a stuck jar lid,
     # the same heat growth as the sunny leg.
-    status: "generating (started: Nov 24 13:25 PT; verified Generating=1; shots 1-6 reworded, no people)"
+    status: done
     file: buildit-arch-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): a long steel truss is lifted up and bolted between the two leaning steel legs high above the
@@ -718,7 +718,7 @@ jobs:
     # the design went free ("by 1963" per Lemelson, "immediately" per Volvo, 1968 per Wikipedia) disagree: check before
     # a line uses one. A6 (a belt worn slack) has no source yet: its script line needs its own fact. No injured people:
     # crash test dummies, sleds, hands.
-    status: todo
+    status: "generating (started: Nov 24 13:50 PT; verified Generating=1)"
     file: buildit-seatbelt-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): extreme slow motion in a bright crash test lab, a car seat on a test sled stops dead and a crash
