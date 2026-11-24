@@ -22,9 +22,9 @@ export const Thumb: React.FC<{segs: Seg[]}> = ({segs}) => (
       <div style={{whiteSpace: 'nowrap', lineHeight: 1.5}}>
         {segs.map((s, i) => (
           <span key={i} style={s.s === 'g'
-            ? {fontFamily: FONT.ruqaa, fontWeight: 700, fontSize: 132, color: C.gold, marginInline: '0.14em',
+            ? {fontFamily: FONT.ruqaa, fontWeight: 700, fontSize: 132, color: C.gold, marginInline: '0.3em', // Ruqaa strokes reach into the gap
               textShadow: `0 0 26px ${C.goldGlow}, 0 4px 0 rgba(0,0,0,0.5)`}
-            : {fontFamily: FONT.sans, fontWeight: 900, fontSize: 112, color: '#ffffff', marginInline: '0.14em',
+            : {fontFamily: FONT.sans, fontWeight: 900, fontSize: 112, color: '#ffffff', marginInline: '0.12em',
               textShadow: '0 4px 0 rgba(0,0,0,0.55), 0 0 22px rgba(0,0,0,0.6)'}}>{s.t}</span>
         ))}
       </div>
