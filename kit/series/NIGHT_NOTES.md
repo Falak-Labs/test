@@ -1820,3 +1820,8 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   English. He asked to try the same in Arabic: sample sent 22:55 PT (Mansour on eleven_v4 with the same tags, Saudi
   lines that talk to the viewer: series/sample_tpf_lines_ar_sa.txt; 156 words = 87 s, so Arabic needs ~125-135 words).
   Until he answers, Arabic builds stay on eleven_multilingual_v2 (voices.yml ar unchanged).
+- Nov 23 23:01 PT, owner: "Love it we gonna use those voices and style for our next future videos." Arabic Mansour on
+  eleven_v4 with funny tags is FINAL (voices.yml ar switched). Arabic scripts: talk to the viewer in Saudi, ~125-135
+  words, voice <= ~80 s (gate 55-85 s); speed no more than 1.1x.
+- Same message: owner asked about 16:9. Answer: Shorts/Reels/TikTok need 9:16, so SHORTS STAY 9:16 (Higgsfield stays
+  9:16). 16:9 only for long YouTube videos (the 4-minute show). Never leave Higgsfield on 16:9 for a short build.

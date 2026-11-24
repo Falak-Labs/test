@@ -15,7 +15,7 @@ en: {engine: eleven, voice: 2LxhCRvenFtT95JOekmF, model: eleven_v4, stability: 0
 # previous: en: {engine: phonon, voice: Easton}
 # Nov 22 11:35 PT, owner: "only ElevenLabs for Arabic, not the Egyptian one". From build 64 every NEW Arabic voice is Saudi
 # Mansour (below). Egyptian voice IES4nrmZdUBHByLBde0P stays only for the old builds that already have it.
-ar: {engine: eleven, voice: 5HAezIQAaoSgJypcI0NP, model: eleven_multilingual_v2, dialect: saudi}
+ar: {engine: eleven, voice: 5HAezIQAaoSgJypcI0NP, model: eleven_v4, stability: 0.5, dialect: saudi}  # funny style approved Nov 23 23:01 PT
 # (A/B test over: Mansour won. ar_alt.kits stays as the list of builds already made with him.)
 # A/B test from Nov 17 22:15 PT (owner picked Gulf voice 1, Mansour): the Arabic of every ODD-numbered build from 41 on
 # uses this voice with a Saudi-dialect script; even builds keep the Egyptian voice above. A run adds the kit name of
