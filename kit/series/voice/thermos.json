@@ -1,0 +1,1113 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 74.36,
+ "words": 198,
+ "words_per_sec": 2.66,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 6.33,
+   "text": "Y'all, your coffee stays hot for hours thanks to a bottle inside a bottle. Yes, two bottles.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.75
+    },
+    {
+     "w": "your",
+     "start": 0.929,
+     "end": 1.071
+    },
+    {
+     "w": "coffee",
+     "start": 1.143,
+     "end": 1.429
+    },
+    {
+     "w": "stays",
+     "start": 1.5,
+     "end": 1.714
+    },
+    {
+     "w": "hot",
+     "start": 1.786,
+     "end": 1.929
+    },
+    {
+     "w": "for",
+     "start": 2.0,
+     "end": 2.214
+    },
+    {
+     "w": "hours",
+     "start": 2.357,
+     "end": 2.786
+    },
+    {
+     "w": "thanks",
+     "start": 2.857,
+     "end": 3.071
+    },
+    {
+     "w": "to",
+     "start": 3.107,
+     "end": 3.143
+    },
+    {
+     "w": "a",
+     "start": 3.214,
+     "end": 3.357
+    },
+    {
+     "w": "bottle",
+     "start": 3.393,
+     "end": 3.714
+    },
+    {
+     "w": "inside",
+     "start": 3.786,
+     "end": 4.214
+    },
+    {
+     "w": "a",
+     "start": 4.25,
+     "end": 4.286
+    },
+    {
+     "w": "bottle.",
+     "start": 4.357,
+     "end": 4.786
+    },
+    {
+     "w": "Yes,",
+     "start": 4.929,
+     "end": 5.446
+    },
+    {
+     "w": "two",
+     "start": 5.518,
+     "end": 5.661
+    },
+    {
+     "w": "bottles.",
+     "start": 5.732,
+     "end": 6.446
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.643,
+   "end": 12.343,
+   "text": "Now listen. A hot drink on a cold night loses its heat in minutes. Sad coffee.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 6.76,
+     "end": 6.903
+    },
+    {
+     "w": "listen.",
+     "start": 7.046,
+     "end": 7.653
+    },
+    {
+     "w": "A",
+     "start": 7.831,
+     "end": 7.974
+    },
+    {
+     "w": "hot",
+     "start": 8.081,
+     "end": 8.188
+    },
+    {
+     "w": "drink",
+     "start": 8.26,
+     "end": 8.474
+    },
+    {
+     "w": "on",
+     "start": 8.546,
+     "end": 8.617
+    },
+    {
+     "w": "a",
+     "start": 8.688,
+     "end": 8.76
+    },
+    {
+     "w": "cold",
+     "start": 8.831,
+     "end": 9.117
+    },
+    {
+     "w": "night",
+     "start": 9.188,
+     "end": 9.474
+    },
+    {
+     "w": "loses",
+     "start": 9.546,
+     "end": 9.831
+    },
+    {
+     "w": "its",
+     "start": 9.903,
+     "end": 10.046
+    },
+    {
+     "w": "heat",
+     "start": 10.117,
+     "end": 10.331
+    },
+    {
+     "w": "in",
+     "start": 10.438,
+     "end": 10.546
+    },
+    {
+     "w": "minutes.",
+     "start": 10.688,
+     "end": 11.259
+    },
+    {
+     "w": "Sad",
+     "start": 11.447,
+     "end": 11.733
+    },
+    {
+     "w": "coffee.",
+     "start": 11.804,
+     "end": 12.519
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.655,
+   "end": 18.822,
+   "text": "So you put one glass bottle inside another, with a gap of air between them. A bottle hug.",
+   "words": [
+    {
+     "w": "So",
+     "start": 12.844,
+     "end": 12.987
+    },
+    {
+     "w": "you",
+     "start": 13.058,
+     "end": 13.201
+    },
+    {
+     "w": "put",
+     "start": 13.308,
+     "end": 13.415
+    },
+    {
+     "w": "one",
+     "start": 13.558,
+     "end": 13.629
+    },
+    {
+     "w": "glass",
+     "start": 13.701,
+     "end": 13.987
+    },
+    {
+     "w": "bottle",
+     "start": 14.058,
+     "end": 14.344
+    },
+    {
+     "w": "inside",
+     "start": 14.522,
+     "end": 14.701
+    },
+    {
+     "w": "another,",
+     "start": 14.915,
+     "end": 15.415
+    },
+    {
+     "w": "with",
+     "start": 15.487,
+     "end": 15.558
+    },
+    {
+     "w": "a",
+     "start": 15.629,
+     "end": 15.701
+    },
+    {
+     "w": "gap",
+     "start": 15.808,
+     "end": 15.915
+    },
+    {
+     "w": "of",
+     "start": 15.987,
+     "end": 16.129
+    },
+    {
+     "w": "air",
+     "start": 16.237,
+     "end": 16.344
+    },
+    {
+     "w": "between",
+     "start": 16.558,
+     "end": 16.772
+    },
+    {
+     "w": "them.",
+     "start": 16.844,
+     "end": 16.987
+    },
+    {
+     "w": "A",
+     "start": 17.853,
+     "end": 17.888
+    },
+    {
+     "w": "bottle",
+     "start": 18.031,
+     "end": 18.317
+    },
+    {
+     "w": "hug.",
+     "start": 18.388,
+     "end": 18.96
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 19.135,
+   "end": 23.432,
+   "text": "But heat still sneaks across the air and warms the outer glass.",
+   "words": [
+    {
+     "w": "But",
+     "start": 19.769,
+     "end": 19.912
+    },
+    {
+     "w": "heat",
+     "start": 19.983,
+     "end": 20.197
+    },
+    {
+     "w": "still",
+     "start": 20.269,
+     "end": 20.554
+    },
+    {
+     "w": "sneaks",
+     "start": 20.626,
+     "end": 20.912
+    },
+    {
+     "w": "across",
+     "start": 20.983,
+     "end": 21.269
+    },
+    {
+     "w": "the",
+     "start": 21.34,
+     "end": 21.412
+    },
+    {
+     "w": "air",
+     "start": 21.483,
+     "end": 21.769
+    },
+    {
+     "w": "and",
+     "start": 21.84,
+     "end": 21.983
+    },
+    {
+     "w": "warms",
+     "start": 22.054,
+     "end": 22.412
+    },
+    {
+     "w": "the",
+     "start": 22.447,
+     "end": 22.483
+    },
+    {
+     "w": "outer",
+     "start": 22.554,
+     "end": 22.769
+    },
+    {
+     "w": "glass.",
+     "start": 22.84,
+     "end": 23.554
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 23.745,
+   "end": 28.846,
+   "text": "So you pump the air out of the gap, and seal it shut. Almost nothing left to carry heat.",
+   "words": [
+    {
+     "w": "So",
+     "start": 23.959,
+     "end": 24.102
+    },
+    {
+     "w": "you",
+     "start": 24.173,
+     "end": 24.388
+    },
+    {
+     "w": "pump",
+     "start": 24.423,
+     "end": 24.602
+    },
+    {
+     "w": "the",
+     "start": 24.673,
+     "end": 24.745
+    },
+    {
+     "w": "air",
+     "start": 24.816,
+     "end": 24.959
+    },
+    {
+     "w": "out",
+     "start": 25.03,
+     "end": 25.102
+    },
+    {
+     "w": "of",
+     "start": 25.138,
+     "end": 25.173
+    },
+    {
+     "w": "the",
+     "start": 25.245,
+     "end": 25.316
+    },
+    {
+     "w": "gap,",
+     "start": 25.388,
+     "end": 25.887
+    },
+    {
+     "w": "and",
+     "start": 25.995,
+     "end": 26.102
+    },
+    {
+     "w": "seal",
+     "start": 26.173,
+     "end": 26.316
+    },
+    {
+     "w": "it",
+     "start": 26.387,
+     "end": 26.53
+    },
+    {
+     "w": "shut.",
+     "start": 26.566,
+     "end": 26.977
+    },
+    {
+     "w": "Almost",
+     "start": 27.191,
+     "end": 27.405
+    },
+    {
+     "w": "nothing",
+     "start": 27.477,
+     "end": 27.762
+    },
+    {
+     "w": "left",
+     "start": 27.834,
+     "end": 27.977
+    },
+    {
+     "w": "to",
+     "start": 28.012,
+     "end": 28.048
+    },
+    {
+     "w": "carry",
+     "start": 28.12,
+     "end": 28.334
+    },
+    {
+     "w": "heat.",
+     "start": 28.405,
+     "end": 28.977
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 29.158,
+   "end": 33.346,
+   "text": "But heat still glows across the gap as invisible light. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 29.239,
+     "end": 29.382
+    },
+    {
+     "w": "heat",
+     "start": 29.525,
+     "end": 29.739
+    },
+    {
+     "w": "still",
+     "start": 29.811,
+     "end": 30.025
+    },
+    {
+     "w": "glows",
+     "start": 30.096,
+     "end": 30.382
+    },
+    {
+     "w": "across",
+     "start": 30.454,
+     "end": 30.739
+    },
+    {
+     "w": "the",
+     "start": 30.811,
+     "end": 30.882
+    },
+    {
+     "w": "gap",
+     "start": 31.025,
+     "end": 31.168
+    },
+    {
+     "w": "as",
+     "start": 31.239,
+     "end": 31.311
+    },
+    {
+     "w": "invisible",
+     "start": 31.561,
+     "end": 31.811
+    },
+    {
+     "w": "light.",
+     "start": 31.954,
+     "end": 32.489
+    },
+    {
+     "w": "Oh",
+     "start": 32.515,
+     "end": 32.712
+    },
+    {
+     "w": "boy.",
+     "start": 32.855,
+     "end": 33.498
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 33.658,
+   "end": 38.744,
+   "text": "So you coat the glass walls with silver, like a mirror, and the heat bounces back inside.",
+   "words": [
+    {
+     "w": "So",
+     "start": 33.865,
+     "end": 34.008
+    },
+    {
+     "w": "you",
+     "start": 34.079,
+     "end": 34.222
+    },
+    {
+     "w": "coat",
+     "start": 34.294,
+     "end": 34.508
+    },
+    {
+     "w": "the",
+     "start": 34.544,
+     "end": 34.579
+    },
+    {
+     "w": "glass",
+     "start": 34.651,
+     "end": 34.937
+    },
+    {
+     "w": "walls",
+     "start": 35.008,
+     "end": 35.222
+    },
+    {
+     "w": "with",
+     "start": 35.329,
+     "end": 35.437
+    },
+    {
+     "w": "silver,",
+     "start": 35.508,
+     "end": 35.972
+    },
+    {
+     "w": "like",
+     "start": 36.079,
+     "end": 36.222
+    },
+    {
+     "w": "a",
+     "start": 36.258,
+     "end": 36.294
+    },
+    {
+     "w": "mirror,",
+     "start": 36.365,
+     "end": 36.829
+    },
+    {
+     "w": "and",
+     "start": 37.008,
+     "end": 37.079
+    },
+    {
+     "w": "the",
+     "start": 37.151,
+     "end": 37.222
+    },
+    {
+     "w": "heat",
+     "start": 37.294,
+     "end": 37.508
+    },
+    {
+     "w": "bounces",
+     "start": 37.544,
+     "end": 37.865
+    },
+    {
+     "w": "back",
+     "start": 37.937,
+     "end": 38.079
+    },
+    {
+     "w": "inside.",
+     "start": 38.365,
+     "end": 38.865
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 39.056,
+   "end": 43.832,
+   "text": "But glass is fragile, and one drop turns it into silver confetti.",
+   "words": [
+    {
+     "w": "But",
+     "start": 39.684,
+     "end": 39.827
+    },
+    {
+     "w": "glass",
+     "start": 39.97,
+     "end": 40.327
+    },
+    {
+     "w": "is",
+     "start": 40.398,
+     "end": 40.47
+    },
+    {
+     "w": "fragile,",
+     "start": 40.541,
+     "end": 41.193
+    },
+    {
+     "w": "and",
+     "start": 41.264,
+     "end": 41.336
+    },
+    {
+     "w": "one",
+     "start": 41.479,
+     "end": 41.621
+    },
+    {
+     "w": "drop",
+     "start": 41.693,
+     "end": 41.979
+    },
+    {
+     "w": "turns",
+     "start": 42.193,
+     "end": 42.443
+    },
+    {
+     "w": "it",
+     "start": 42.479,
+     "end": 42.55
+    },
+    {
+     "w": "into",
+     "start": 42.657,
+     "end": 42.764
+    },
+    {
+     "w": "silver",
+     "start": 42.907,
+     "end": 43.193
+    },
+    {
+     "w": "confetti.",
+     "start": 43.264,
+     "end": 43.979
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 44.145,
+   "end": 48.109,
+   "text": "So you build the whole thing from stainless steel, with a tight stopper.",
+   "words": [
+    {
+     "w": "So",
+     "start": 44.359,
+     "end": 44.502
+    },
+    {
+     "w": "you",
+     "start": 44.573,
+     "end": 44.716
+    },
+    {
+     "w": "build",
+     "start": 44.823,
+     "end": 44.93
+    },
+    {
+     "w": "the",
+     "start": 45.037,
+     "end": 45.145
+    },
+    {
+     "w": "whole",
+     "start": 45.287,
+     "end": 45.43
+    },
+    {
+     "w": "thing",
+     "start": 45.502,
+     "end": 45.716
+    },
+    {
+     "w": "from",
+     "start": 45.823,
+     "end": 45.93
+    },
+    {
+     "w": "stainless",
+     "start": 45.966,
+     "end": 46.287
+    },
+    {
+     "w": "steel,",
+     "start": 46.359,
+     "end": 46.957
+    },
+    {
+     "w": "with",
+     "start": 46.993,
+     "end": 47.136
+    },
+    {
+     "w": "a",
+     "start": 47.279,
+     "end": 47.35
+    },
+    {
+     "w": "tight",
+     "start": 47.421,
+     "end": 47.493
+    },
+    {
+     "w": "stopper.",
+     "start": 47.564,
+     "end": 48.207
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 48.421,
+   "end": 53.723,
+   "text": "Hit follow, 'cause next we're building the Hoover Dam. Yes... a dam.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 48.493,
+     "end": 48.636
+    },
+    {
+     "w": "follow,",
+     "start": 48.779,
+     "end": 49.314
+    },
+    {
+     "w": "'cause",
+     "start": 49.421,
+     "end": 49.636
+    },
+    {
+     "w": "next",
+     "start": 49.707,
+     "end": 49.993
+    },
+    {
+     "w": "we're",
+     "start": 50.064,
+     "end": 50.279
+    },
+    {
+     "w": "building",
+     "start": 50.421,
+     "end": 50.564
+    },
+    {
+     "w": "the",
+     "start": 50.6,
+     "end": 50.636
+    },
+    {
+     "w": "Hoover",
+     "start": 50.707,
+     "end": 50.993
+    },
+    {
+     "w": "Dam.",
+     "start": 51.064,
+     "end": 51.6
+    },
+    {
+     "w": "Yes...",
+     "start": 52.073,
+     "end": 52.859
+    },
+    {
+     "w": "a",
+     "start": 52.966,
+     "end": 53.073
+    },
+    {
+     "w": "dam.",
+     "start": 53.145,
+     "end": 53.93
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 54.036,
+   "end": 60.145,
+   "text": "Today, tea stays hot on a snowy mountaintop, and nobody thinks about vacuums. That's the point.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 54.179,
+     "end": 54.786
+    },
+    {
+     "w": "tea",
+     "start": 54.964,
+     "end": 55.179
+    },
+    {
+     "w": "stays",
+     "start": 55.25,
+     "end": 55.536
+    },
+    {
+     "w": "hot",
+     "start": 55.607,
+     "end": 55.821
+    },
+    {
+     "w": "on",
+     "start": 55.893,
+     "end": 55.964
+    },
+    {
+     "w": "a",
+     "start": 56.036,
+     "end": 56.107
+    },
+    {
+     "w": "snowy",
+     "start": 56.179,
+     "end": 56.464
+    },
+    {
+     "w": "mountaintop,",
+     "start": 56.536,
+     "end": 57.179
+    },
+    {
+     "w": "and",
+     "start": 57.321,
+     "end": 57.464
+    },
+    {
+     "w": "nobody",
+     "start": 57.536,
+     "end": 57.964
+    },
+    {
+     "w": "thinks",
+     "start": 58.012,
+     "end": 58.107
+    },
+    {
+     "w": "about",
+     "start": 58.179,
+     "end": 58.393
+    },
+    {
+     "w": "vacuums.",
+     "start": 58.464,
+     "end": 59.223
+    },
+    {
+     "w": "That's",
+     "start": 59.295,
+     "end": 59.437
+    },
+    {
+     "w": "the",
+     "start": 59.509,
+     "end": 59.58
+    },
+    {
+     "w": "point.",
+     "start": 59.652,
+     "end": 60.223
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 60.457,
+   "end": 65.05,
+   "text": "Two walls, one vacuum, and a Scottish scientist in eighteen ninety two.",
+   "words": [
+    {
+     "w": "Two",
+     "start": 60.529,
+     "end": 60.671
+    },
+    {
+     "w": "walls,",
+     "start": 60.743,
+     "end": 61.314
+    },
+    {
+     "w": "one",
+     "start": 61.457,
+     "end": 61.6
+    },
+    {
+     "w": "vacuum,",
+     "start": 61.671,
+     "end": 62.207
+    },
+    {
+     "w": "and",
+     "start": 62.243,
+     "end": 62.314
+    },
+    {
+     "w": "a",
+     "start": 62.386,
+     "end": 62.457
+    },
+    {
+     "w": "Scottish",
+     "start": 62.529,
+     "end": 62.957
+    },
+    {
+     "w": "scientist",
+     "start": 63.029,
+     "end": 63.6
+    },
+    {
+     "w": "in",
+     "start": 63.707,
+     "end": 63.814
+    },
+    {
+     "w": "eighteen",
+     "start": 63.886,
+     "end": 64.314
+    },
+    {
+     "w": "ninety",
+     "start": 64.35,
+     "end": 64.671
+    },
+    {
+     "w": "two.",
+     "start": 64.814,
+     "end": 65.171
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 65.362,
+   "end": 68.615,
+   "text": "And congrats, you just built a Thermos flask yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 65.485,
+     "end": 65.505
+    },
+    {
+     "w": "congrats,",
+     "start": 65.577,
+     "end": 66.47
+    },
+    {
+     "w": "you",
+     "start": 66.648,
+     "end": 66.791
+    },
+    {
+     "w": "just",
+     "start": 66.898,
+     "end": 67.005
+    },
+    {
+     "w": "built",
+     "start": 67.112,
+     "end": 67.22
+    },
+    {
+     "w": "a",
+     "start": 67.291,
+     "end": 67.362
+    },
+    {
+     "w": "Thermos",
+     "start": 67.398,
+     "end": 67.648
+    },
+    {
+     "w": "flask",
+     "start": 67.72,
+     "end": 68.005
+    },
+    {
+     "w": "yourself.",
+     "start": 68.112,
+     "end": 68.791
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 68.928,
+   "end": 74.354,
+   "text": "Open hot soup at your desk... and your glasses vanish in the steam.",
+   "words": [
+    {
+     "w": "Open",
+     "start": 69.285,
+     "end": 69.999
+    },
+    {
+     "w": "hot",
+     "start": 70.142,
+     "end": 70.356
+    },
+    {
+     "w": "soup",
+     "start": 70.428,
+     "end": 70.642
+    },
+    {
+     "w": "at",
+     "start": 70.713,
+     "end": 70.785
+    },
+    {
+     "w": "your",
+     "start": 70.856,
+     "end": 70.999
+    },
+    {
+     "w": "desk...",
+     "start": 71.213,
+     "end": 71.785
+    },
+    {
+     "w": "and",
+     "start": 72.256,
+     "end": 72.285
+    },
+    {
+     "w": "your",
+     "start": 72.356,
+     "end": 72.428
+    },
+    {
+     "w": "glasses",
+     "start": 72.499,
+     "end": 72.999
+    },
+    {
+     "w": "vanish",
+     "start": 73.142,
+     "end": 73.499
+    },
+    {
+     "w": "in",
+     "start": 73.535,
+     "end": 73.571
+    },
+    {
+     "w": "the",
+     "start": 73.642,
+     "end": 73.713
+    },
+    {
+     "w": "steam.",
+     "start": 73.785,
+     "end": 74.499
+    }
+   ]
+  }
+ ]
+}
