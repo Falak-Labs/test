@@ -1,0 +1,1148 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 74.245,
+ "words": 205,
+ "words_per_sec": 2.76,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.912,
+   "text": "Y'all, a giant bag of hot air carries you into the sky. Yes, just hot air.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.187,
+     "end": 0.794
+    },
+    {
+     "w": "a",
+     "start": 0.972,
+     "end": 1.044
+    },
+    {
+     "w": "giant",
+     "start": 1.258,
+     "end": 1.615
+    },
+    {
+     "w": "bag",
+     "start": 1.687,
+     "end": 1.901
+    },
+    {
+     "w": "of",
+     "start": 1.972,
+     "end": 2.044
+    },
+    {
+     "w": "hot",
+     "start": 2.115,
+     "end": 2.329
+    },
+    {
+     "w": "air",
+     "start": 2.472,
+     "end": 2.687
+    },
+    {
+     "w": "carries",
+     "start": 2.758,
+     "end": 3.115
+    },
+    {
+     "w": "you",
+     "start": 3.151,
+     "end": 3.187
+    },
+    {
+     "w": "into",
+     "start": 3.258,
+     "end": 3.472
+    },
+    {
+     "w": "the",
+     "start": 3.544,
+     "end": 3.615
+    },
+    {
+     "w": "sky.",
+     "start": 4.008,
+     "end": 4.267
+    },
+    {
+     "w": "Yes,",
+     "start": 4.338,
+     "end": 4.919
+    },
+    {
+     "w": "just",
+     "start": 5.062,
+     "end": 5.276
+    },
+    {
+     "w": "hot",
+     "start": 5.383,
+     "end": 5.49
+    },
+    {
+     "w": "air.",
+     "start": 5.562,
+     "end": 6.062
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 6.224,
+   "end": 12.368,
+   "text": "First problem. Hot air is lighter than cold air, but a small bag can barely lift a basket of stones.",
+   "words": [
+    {
+     "w": "First",
+     "start": 6.269,
+     "end": 6.483
+    },
+    {
+     "w": "problem.",
+     "start": 6.554,
+     "end": 7.126
+    },
+    {
+     "w": "Hot",
+     "start": 7.197,
+     "end": 7.412
+    },
+    {
+     "w": "air",
+     "start": 7.554,
+     "end": 7.769
+    },
+    {
+     "w": "is",
+     "start": 7.912,
+     "end": 7.983
+    },
+    {
+     "w": "lighter",
+     "start": 8.126,
+     "end": 8.34
+    },
+    {
+     "w": "than",
+     "start": 8.412,
+     "end": 8.554
+    },
+    {
+     "w": "cold",
+     "start": 8.626,
+     "end": 8.84
+    },
+    {
+     "w": "air,",
+     "start": 8.912,
+     "end": 9.26
+    },
+    {
+     "w": "but",
+     "start": 9.412,
+     "end": 9.483
+    },
+    {
+     "w": "a",
+     "start": 9.554,
+     "end": 9.626
+    },
+    {
+     "w": "small",
+     "start": 9.769,
+     "end": 9.912
+    },
+    {
+     "w": "bag",
+     "start": 10.054,
+     "end": 10.269
+    },
+    {
+     "w": "can",
+     "start": 10.34,
+     "end": 10.554
+    },
+    {
+     "w": "barely",
+     "start": 10.626,
+     "end": 10.983
+    },
+    {
+     "w": "lift",
+     "start": 11.054,
+     "end": 11.197
+    },
+    {
+     "w": "a",
+     "start": 11.233,
+     "end": 11.269
+    },
+    {
+     "w": "basket",
+     "start": 11.34,
+     "end": 11.626
+    },
+    {
+     "w": "of",
+     "start": 11.697,
+     "end": 11.769
+    },
+    {
+     "w": "stones.",
+     "start": 12.019,
+     "end": 12.483
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 12.68,
+   "end": 17.328,
+   "text": "So you make the bag huge, as big as a house, and fill it with hot air.",
+   "words": [
+    {
+     "w": "So",
+     "start": 12.895,
+     "end": 13.037
+    },
+    {
+     "w": "you",
+     "start": 13.109,
+     "end": 13.252
+    },
+    {
+     "w": "make",
+     "start": 13.359,
+     "end": 13.466
+    },
+    {
+     "w": "the",
+     "start": 13.502,
+     "end": 13.537
+    },
+    {
+     "w": "bag",
+     "start": 13.609,
+     "end": 13.895
+    },
+    {
+     "w": "huge,",
+     "start": 14.037,
+     "end": 14.68
+    },
+    {
+     "w": "as",
+     "start": 14.787,
+     "end": 14.895
+    },
+    {
+     "w": "big",
+     "start": 14.966,
+     "end": 15.037
+    },
+    {
+     "w": "as",
+     "start": 15.109,
+     "end": 15.18
+    },
+    {
+     "w": "a",
+     "start": 15.216,
+     "end": 15.252
+    },
+    {
+     "w": "house,",
+     "start": 15.323,
+     "end": 15.895
+    },
+    {
+     "w": "and",
+     "start": 16.002,
+     "end": 16.109
+    },
+    {
+     "w": "fill",
+     "start": 16.18,
+     "end": 16.323
+    },
+    {
+     "w": "it",
+     "start": 16.359,
+     "end": 16.395
+    },
+    {
+     "w": "with",
+     "start": 16.466,
+     "end": 16.609
+    },
+    {
+     "w": "hot",
+     "start": 16.716,
+     "end": 16.823
+    },
+    {
+     "w": "air.",
+     "start": 16.895,
+     "end": 17.395
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 17.64,
+   "end": 23.045,
+   "text": "But a fire right under a cloth bag? Smoke, sparks, and burnt fabric.",
+   "words": [
+    {
+     "w": "But",
+     "start": 18.206,
+     "end": 18.349
+    },
+    {
+     "w": "a",
+     "start": 18.421,
+     "end": 18.492
+    },
+    {
+     "w": "fire",
+     "start": 18.635,
+     "end": 18.992
+    },
+    {
+     "w": "right",
+     "start": 19.135,
+     "end": 19.349
+    },
+    {
+     "w": "under",
+     "start": 19.421,
+     "end": 19.635
+    },
+    {
+     "w": "a",
+     "start": 19.671,
+     "end": 19.706
+    },
+    {
+     "w": "cloth",
+     "start": 19.778,
+     "end": 20.063
+    },
+    {
+     "w": "bag?",
+     "start": 20.135,
+     "end": 20.492
+    },
+    {
+     "w": "Smoke,",
+     "start": 20.688,
+     "end": 21.304
+    },
+    {
+     "w": "sparks,",
+     "start": 21.376,
+     "end": 21.947
+    },
+    {
+     "w": "and",
+     "start": 22.019,
+     "end": 22.09
+    },
+    {
+     "w": "burnt",
+     "start": 22.162,
+     "end": 22.447
+    },
+    {
+     "w": "fabric.",
+     "start": 22.519,
+     "end": 23.233
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 23.357,
+   "end": 28.347,
+   "text": "So you add a propane burner, that shoots the flame up into a ring of fireproof cloth.",
+   "words": [
+    {
+     "w": "So",
+     "start": 23.5,
+     "end": 23.643
+    },
+    {
+     "w": "you",
+     "start": 23.786,
+     "end": 23.929
+    },
+    {
+     "w": "add",
+     "start": 24.0,
+     "end": 24.071
+    },
+    {
+     "w": "a",
+     "start": 24.143,
+     "end": 24.214
+    },
+    {
+     "w": "propane",
+     "start": 24.286,
+     "end": 24.714
+    },
+    {
+     "w": "burner,",
+     "start": 24.786,
+     "end": 25.357
+    },
+    {
+     "w": "that",
+     "start": 25.464,
+     "end": 25.571
+    },
+    {
+     "w": "shoots",
+     "start": 25.679,
+     "end": 25.821
+    },
+    {
+     "w": "the",
+     "start": 25.857,
+     "end": 25.929
+    },
+    {
+     "w": "flame",
+     "start": 25.964,
+     "end": 26.214
+    },
+    {
+     "w": "up",
+     "start": 26.286,
+     "end": 26.357
+    },
+    {
+     "w": "into",
+     "start": 26.464,
+     "end": 26.571
+    },
+    {
+     "w": "a",
+     "start": 26.643,
+     "end": 26.786
+    },
+    {
+     "w": "ring",
+     "start": 26.857,
+     "end": 27.071
+    },
+    {
+     "w": "of",
+     "start": 27.179,
+     "end": 27.286
+    },
+    {
+     "w": "fireproof",
+     "start": 27.464,
+     "end": 27.857
+    },
+    {
+     "w": "cloth.",
+     "start": 27.929,
+     "end": 28.571
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 28.66,
+   "end": 32.77,
+   "text": "But now you drift toward the trees, and you can't steer. Oh boy.",
+   "words": [
+    {
+     "w": "But",
+     "start": 28.789,
+     "end": 28.932
+    },
+    {
+     "w": "now",
+     "start": 29.004,
+     "end": 29.218
+    },
+    {
+     "w": "you",
+     "start": 29.289,
+     "end": 29.361
+    },
+    {
+     "w": "drift",
+     "start": 29.432,
+     "end": 29.646
+    },
+    {
+     "w": "toward",
+     "start": 29.682,
+     "end": 29.861
+    },
+    {
+     "w": "the",
+     "start": 29.896,
+     "end": 29.932
+    },
+    {
+     "w": "trees,",
+     "start": 30.075,
+     "end": 30.575
+    },
+    {
+     "w": "and",
+     "start": 30.646,
+     "end": 30.789
+    },
+    {
+     "w": "you",
+     "start": 30.861,
+     "end": 31.004
+    },
+    {
+     "w": "can't",
+     "start": 31.075,
+     "end": 31.289
+    },
+    {
+     "w": "steer.",
+     "start": 31.396,
+     "end": 31.892
+    },
+    {
+     "w": "Oh",
+     "start": 32.03,
+     "end": 32.173
+    },
+    {
+     "w": "boy.",
+     "start": 32.316,
+     "end": 32.959
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 33.082,
+   "end": 38.301,
+   "text": "So you rise and sink, to find a different wind at every height. That's your steering wheel.",
+   "words": [
+    {
+     "w": "So",
+     "start": 33.296,
+     "end": 33.439
+    },
+    {
+     "w": "you",
+     "start": 33.582,
+     "end": 33.725
+    },
+    {
+     "w": "rise",
+     "start": 33.796,
+     "end": 34.154
+    },
+    {
+     "w": "and",
+     "start": 34.225,
+     "end": 34.368
+    },
+    {
+     "w": "sink,",
+     "start": 34.439,
+     "end": 34.868
+    },
+    {
+     "w": "to",
+     "start": 35.011,
+     "end": 35.082
+    },
+    {
+     "w": "find",
+     "start": 35.154,
+     "end": 35.296
+    },
+    {
+     "w": "a",
+     "start": 35.368,
+     "end": 35.511
+    },
+    {
+     "w": "different",
+     "start": 35.654,
+     "end": 35.796
+    },
+    {
+     "w": "wind",
+     "start": 35.868,
+     "end": 36.082
+    },
+    {
+     "w": "at",
+     "start": 36.188,
+     "end": 36.296
+    },
+    {
+     "w": "every",
+     "start": 36.368,
+     "end": 36.582
+    },
+    {
+     "w": "height.",
+     "start": 36.654,
+     "end": 37.1
+    },
+    {
+     "w": "That's",
+     "start": 37.171,
+     "end": 37.314
+    },
+    {
+     "w": "your",
+     "start": 37.386,
+     "end": 37.528
+    },
+    {
+     "w": "steering",
+     "start": 37.6,
+     "end": 37.886
+    },
+    {
+     "w": "wheel.",
+     "start": 37.957,
+     "end": 38.457
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 38.613,
+   "end": 42.104,
+   "text": "But coming down fast means a bumpy landing.",
+   "words": [
+    {
+     "w": "But",
+     "start": 39.399,
+     "end": 39.542
+    },
+    {
+     "w": "coming",
+     "start": 39.685,
+     "end": 39.828
+    },
+    {
+     "w": "down",
+     "start": 39.899,
+     "end": 40.042
+    },
+    {
+     "w": "fast",
+     "start": 40.185,
+     "end": 40.613
+    },
+    {
+     "w": "means",
+     "start": 40.685,
+     "end": 40.899
+    },
+    {
+     "w": "a",
+     "start": 40.971,
+     "end": 41.042
+    },
+    {
+     "w": "bumpy",
+     "start": 41.185,
+     "end": 41.471
+    },
+    {
+     "w": "landing.",
+     "start": 41.542,
+     "end": 42.256
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 42.416,
+   "end": 47.679,
+   "text": "So you weave the basket from springy wicker, and add a vent at the top, to let hot air out.",
+   "words": [
+    {
+     "w": "So",
+     "start": 42.63,
+     "end": 42.773
+    },
+    {
+     "w": "you",
+     "start": 42.916,
+     "end": 43.059
+    },
+    {
+     "w": "weave",
+     "start": 43.13,
+     "end": 43.345
+    },
+    {
+     "w": "the",
+     "start": 43.416,
+     "end": 43.487
+    },
+    {
+     "w": "basket",
+     "start": 43.559,
+     "end": 43.916
+    },
+    {
+     "w": "from",
+     "start": 43.987,
+     "end": 44.13
+    },
+    {
+     "w": "springy",
+     "start": 44.202,
+     "end": 44.595
+    },
+    {
+     "w": "wicker,",
+     "start": 44.63,
+     "end": 45.13
+    },
+    {
+     "w": "and",
+     "start": 45.273,
+     "end": 45.416
+    },
+    {
+     "w": "add",
+     "start": 45.487,
+     "end": 45.559
+    },
+    {
+     "w": "a",
+     "start": 45.595,
+     "end": 45.63
+    },
+    {
+     "w": "vent",
+     "start": 45.702,
+     "end": 45.916
+    },
+    {
+     "w": "at",
+     "start": 45.987,
+     "end": 46.059
+    },
+    {
+     "w": "the",
+     "start": 46.13,
+     "end": 46.202
+    },
+    {
+     "w": "top,",
+     "start": 46.345,
+     "end": 46.559
+    },
+    {
+     "w": "to",
+     "start": 46.63,
+     "end": 46.702
+    },
+    {
+     "w": "let",
+     "start": 46.773,
+     "end": 46.916
+    },
+    {
+     "w": "hot",
+     "start": 47.023,
+     "end": 47.13
+    },
+    {
+     "w": "air",
+     "start": 47.237,
+     "end": 47.345
+    },
+    {
+     "w": "out.",
+     "start": 47.416,
+     "end": 47.845
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 47.992,
+   "end": 53.615,
+   "text": "Hit follow, 'cause next we're building the Pont du Gard. Yes... a Roman bridge.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 48.063,
+     "end": 48.206
+    },
+    {
+     "w": "follow,",
+     "start": 48.349,
+     "end": 48.921
+    },
+    {
+     "w": "'cause",
+     "start": 49.063,
+     "end": 49.278
+    },
+    {
+     "w": "next",
+     "start": 49.349,
+     "end": 49.563
+    },
+    {
+     "w": "we're",
+     "start": 49.635,
+     "end": 49.849
+    },
+    {
+     "w": "building",
+     "start": 49.992,
+     "end": 50.135
+    },
+    {
+     "w": "the",
+     "start": 50.171,
+     "end": 50.206
+    },
+    {
+     "w": "Pont",
+     "start": 50.349,
+     "end": 50.563
+    },
+    {
+     "w": "du",
+     "start": 50.635,
+     "end": 50.706
+    },
+    {
+     "w": "Gard.",
+     "start": 50.742,
+     "end": 51.242
+    },
+    {
+     "w": "Yes...",
+     "start": 51.679,
+     "end": 52.465
+    },
+    {
+     "w": "a",
+     "start": 52.537,
+     "end": 52.608
+    },
+    {
+     "w": "Roman",
+     "start": 52.679,
+     "end": 52.965
+    },
+    {
+     "w": "bridge.",
+     "start": 53.037,
+     "end": 53.822
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 53.928,
+   "end": 60.412,
+   "text": "Today, hundreds of balloons rise together at sunrise, and nobody thinks about the wind. That's the point.",
+   "words": [
+    {
+     "w": "Today,",
+     "start": 54.071,
+     "end": 54.785
+    },
+    {
+     "w": "hundreds",
+     "start": 54.999,
+     "end": 55.356
+    },
+    {
+     "w": "of",
+     "start": 55.428,
+     "end": 55.499
+    },
+    {
+     "w": "balloons",
+     "start": 55.571,
+     "end": 55.928
+    },
+    {
+     "w": "rise",
+     "start": 56.071,
+     "end": 56.356
+    },
+    {
+     "w": "together",
+     "start": 56.428,
+     "end": 56.713
+    },
+    {
+     "w": "at",
+     "start": 56.785,
+     "end": 56.856
+    },
+    {
+     "w": "sunrise,",
+     "start": 56.928,
+     "end": 57.562
+    },
+    {
+     "w": "and",
+     "start": 57.669,
+     "end": 57.883
+    },
+    {
+     "w": "nobody",
+     "start": 57.954,
+     "end": 58.312
+    },
+    {
+     "w": "thinks",
+     "start": 58.383,
+     "end": 58.526
+    },
+    {
+     "w": "about",
+     "start": 58.597,
+     "end": 58.812
+    },
+    {
+     "w": "the",
+     "start": 58.847,
+     "end": 58.883
+    },
+    {
+     "w": "wind.",
+     "start": 58.954,
+     "end": 59.365
+    },
+    {
+     "w": "That's",
+     "start": 59.508,
+     "end": 59.722
+    },
+    {
+     "w": "the",
+     "start": 59.794,
+     "end": 59.865
+    },
+    {
+     "w": "point.",
+     "start": 59.937,
+     "end": 60.508
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 60.724,
+   "end": 63.985,
+   "text": "Hot air, one flame, and a lot of patience.",
+   "words": [
+    {
+     "w": "Hot",
+     "start": 60.791,
+     "end": 61.005
+    },
+    {
+     "w": "air,",
+     "start": 61.077,
+     "end": 61.505
+    },
+    {
+     "w": "one",
+     "start": 61.648,
+     "end": 61.791
+    },
+    {
+     "w": "flame,",
+     "start": 61.934,
+     "end": 62.398
+    },
+    {
+     "w": "and",
+     "start": 62.505,
+     "end": 62.577
+    },
+    {
+     "w": "a",
+     "start": 62.648,
+     "end": 62.72
+    },
+    {
+     "w": "lot",
+     "start": 62.934,
+     "end": 63.148
+    },
+    {
+     "w": "of",
+     "start": 63.184,
+     "end": 63.22
+    },
+    {
+     "w": "patience.",
+     "start": 63.291,
+     "end": 64.077
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 64.297,
+   "end": 67.536,
+   "text": "And congrats, you just built a hot air balloon yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 64.411,
+     "end": 64.431
+    },
+    {
+     "w": "congrats,",
+     "start": 64.503,
+     "end": 65.36
+    },
+    {
+     "w": "you",
+     "start": 65.503,
+     "end": 65.646
+    },
+    {
+     "w": "just",
+     "start": 65.717,
+     "end": 65.86
+    },
+    {
+     "w": "built",
+     "start": 65.967,
+     "end": 66.074
+    },
+    {
+     "w": "a",
+     "start": 66.146,
+     "end": 66.217
+    },
+    {
+     "w": "hot",
+     "start": 66.288,
+     "end": 66.36
+    },
+    {
+     "w": "air",
+     "start": 66.431,
+     "end": 66.574
+    },
+    {
+     "w": "balloon",
+     "start": 66.646,
+     "end": 66.86
+    },
+    {
+     "w": "yourself.",
+     "start": 66.967,
+     "end": 67.717
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 67.848,
+   "end": 74.227,
+   "text": "Blow a hair dryer into a plastic bag... and the cat is not impressed.",
+   "words": [
+    {
+     "w": "Blow",
+     "start": 68.536,
+     "end": 68.75
+    },
+    {
+     "w": "a",
+     "start": 68.821,
+     "end": 68.893
+    },
+    {
+     "w": "hair",
+     "start": 68.964,
+     "end": 69.179
+    },
+    {
+     "w": "dryer",
+     "start": 69.25,
+     "end": 69.607
+    },
+    {
+     "w": "into",
+     "start": 69.714,
+     "end": 69.821
+    },
+    {
+     "w": "a",
+     "start": 69.893,
+     "end": 69.964
+    },
+    {
+     "w": "plastic",
+     "start": 70.0,
+     "end": 70.393
+    },
+    {
+     "w": "bag...",
+     "start": 70.464,
+     "end": 71.071
+    },
+    {
+     "w": "and",
+     "start": 72.143,
+     "end": 72.214
+    },
+    {
+     "w": "the",
+     "start": 72.286,
+     "end": 72.429
+    },
+    {
+     "w": "cat",
+     "start": 72.5,
+     "end": 72.714
+    },
+    {
+     "w": "is",
+     "start": 72.857,
+     "end": 73.071
+    },
+    {
+     "w": "not",
+     "start": 73.214,
+     "end": 73.429
+    },
+    {
+     "w": "impressed.",
+     "start": 73.5,
+     "end": 74.357
+    }
+   ]
+  }
+ ]
+}
