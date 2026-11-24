@@ -28,3 +28,4 @@
 - Nov 23 22:28 PT · GPT Image 2.6 Sunburst unlimited 9:16 · Build-It 77 Golden Gate hero still (golden hour, fog) → buildit-goldengate-still.png
 - Nov 23 22:30 PT · Nano Banana Pro unlimited 9:16 · Build-It 78 air fryer hero still → buildit-airfryer-still.png
 - Nov 23 22:31 PT · Nano Banana Pro unlimited 9:16 · Build-It 76 pressure cooker hero still (first wording flagged NSFW by mistake) → buildit-cooker-still.png
+2026-11-23 22:14 | scary | Seedance 2.5 720p 16:9 30s, 6 shots (unlimited) | scary-roushdy-long-6shots.mp4 | abandoned block aerial, empty floor with plastic sheet, hard hat on stairs, dripping tap, curtain hand, flashlight stairwell | Roushdy long (EN+AR); reusable abandoned-building B-roll
