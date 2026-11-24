@@ -710,129 +710,18 @@ jobs:
   - id: seatbelt-A
     build: 92
     kit: seatbelt
-    # Facts: before Bohlin "the most prevalent design used a single strap with a buckle over the stomach. This design
-    # risked injury to body organs in high-speed crashes"; his belt has "one strap that would go across the chest and
-    # one that would go across the hips, with a joint for these two straps located just next to the driver's hip"; "In
-    # 1959, Volvo became the first automaker to introduce Bohlin's three-point safety belt design" (Lemelson-MIT,
-    # lemelson.mit.edu/resources/nils-bohlin). The first car (the PV 544 per DPMA; Amazon and PV 544 per Volvo) and when
-    # the design went free ("by 1963" per Lemelson, "immediately" per Volvo, 1968 per Wikipedia) disagree: check before
-    # a line uses one. A6 (a belt worn slack) has no source yet: its script line needs its own fact. No injured people:
-    # crash test dummies, sleds, hands.
-    status: "generating (started: Nov 24 13:50 PT; verified Generating=1)"
-    file: buildit-seatbelt-sdA.mp4
-    shots: >-
-      Shot 1 (0-5 s): extreme slow motion in a bright crash test lab, a car seat on a test sled stops dead and a crash
-      test dummy is thrown forward, the seatbelt across its chest and hips stretches and catches it a hand's width from
-      the dashboard, side view. Shot 2 (5-10 s): a 1950s test track, an old rounded car with no seatbelts rolls into a
-      concrete wall, inside two crash test dummies keep moving forward and fly into the dashboard and the windscreen,
-      slow motion, wide view. Shot 3 (10-15 s): close-up in a 1950s car, a simple lap belt with a flat metal buckle is
-      clipped across the hips of a crash test dummy and pulled tight, the buckle sitting in the middle of its waist,
-      warm light. Shot 4 (15-20 s): slow motion crash test, a dummy wearing only a lap belt folds forward over the
-      strap, its chest and head swinging down onto the steering wheel while only its hips stay held, side view. Shot 5
-      (20-25 s): 1959, close-up of a three-point seatbelt, one strap running diagonally across a dummy's chest and one
-      across its hips, the two joining at a buckle just beside the hip, a hand clicks it shut, warm light. Shot 6
-      (25-30 s): a seatbelt worn loose with a big loop of slack, in a slow motion test the dummy slides far forward
-      before the strap finally pulls tight, the belt catching it too late, side view.
-  - id: seatbelt-B
-    build: 92
-    kit: seatbelt
-    # Facts: "A spiraled spring rotates the spool to keep the seatbelt webbing taut"; "When the car comes to a sudden
-    # stop, the inertia causes the pendulum to swing forward. The pawl on the other end of the pendulum catches hold of
-    # a toothed ratchet gear attached to the spool"; a fast yank locks it through "a centrifugal clutch— a weighted
-    # pivoting lever mounted to the rotating spool"; "In some newer seat belt systems, a pretensioner also works to
-    # tighten the belt webbing" (HowStuffWorks, auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/
-    # seatbelt3.htm). B4 teases build 93, the Huajiang Grand Canyon Bridge (LINEUP; deck "625 metres" above the bottom
-    # of the gorge, Wikipedia). B6: lunging for a phone yanks the belt and the clutch locks it. A real NHTSA crash-test
-    # film for line 11 is in ideas.md (Nov 24 08:10).
-    status: todo
-    file: buildit-seatbelt-sdB.mp4
-    shots: >-
-      Shot 1 (0-5 s): cutaway inside a car's door pillar, the seatbelt strap wound on a spool with a flat spiral spring
-      beside it, a hand pulls the belt out slowly and the spool turns, and when the hand lets go the spring reels the
-      slack back in, macro. Shot 2 (5-10 s): slow motion test, the car brakes hard and the spool keeps spinning freely,
-      the strap runs out of the pillar and the dummy lurches forward with the belt following it, nothing holding it
-      back, side view. Shot 3 (10-15 s): macro cutaway beside the spool, the car brakes hard, a small weighted pendulum
-      swings forward and tips a metal pawl into the teeth of a gear on the spool, the spool stops dead and the strap
-      pulls tight, slow motion. Shot 4 (15-20 s): a road bridge hanging 625 meters above a deep misty canyon in the
-      green mountains of south-west China, a thin deck stretched between two tall towers, clouds drifting below the
-      cars, slow aerial push-in at sunrise. Shot 5 (20-25 s): a modern crash test in a bright lab, a car rolls into a
-      barrier in slow motion and its front crumples, inside the belted dummy stays firmly in its seat as the airbag
-      opens, engineers watching on screens behind glass, wide view. Shot 6 (25-30 s): funny slow motion, in a parked
-      car a driver lunges for a phone sliding off the passenger seat, the seatbelt locks with a jolt and holds him back
-      just short, the phone drops into the footwell and his hand freezes in mid-air.
-
-  - id: huajiang-A
-    build: 93
-    kit: huajiang
-    # Facts: "625 metres (2,051 ft) from the bridge deck to the bottom of the gorge", main span 1,420 m, built 18 Jan
-    # 2022 to 28 Sep 2025 (Wikipedia, "Huajiang Grand Canyon Bridge"); the crossing went from "about two hours to
-    # roughly two minutes" (China Daily, Sep 28 2025; Wikipedia: "70 minutes" to "just over one minute": check). "A
-    # single main cable consists of 217 compacted strand bundles, which in turn contain 91 high-strength, 5.7 mm steel
-    # wires" (China Daily, Apr 26 2025). Canyon winds "sometimes exceeded force 12 on the Beaufort scale", so the welders
-    # used "windproof welding technology" (China Daily, May 1 2025). "the world's largest cable crane system" (China
-    # Daily, Nov 7 2024), positioned by Beidou, set "93 segments totaling approximately 22,000 tons", up to "215 tons"
-    # each, with "100 percent accuracy in aligning bolts with their designated holes" (China Daily, Jan 18 2025). The
-    # fire risk: "an oil tanker catching fire on the bridge deck" (China Daily, Apr 26 2025). Towers 262 m and 205 m in
-    # Wikipedia's infobox: check. No faces (workers from behind), no flags, signs or writing.
-    status: todo
-    file: buildit-huajiang-sdA.mp4
-    shots: >-
-      Shot 1 (0-5 s): a thin road bridge hangs 625 meters above the bottom of a deep green canyon in the karst
-      mountains of south-west China, small cars crossing the deck while white clouds drift slowly below it, slow
-      aerial push-in at sunrise. Shot 2 (5-10 s): wide aerial of a deep, narrow canyon with steep green cliffs and a
-      river far below, a single narrow road zigzags down one wall in tight hairpins and climbs up the other, one small
-      car crawling around the bends, misty morning. Shot 3 (10-15 s): two tall towers stand on the two cliff edges and
-      a thick main cable runs between their tops across the canyon, the camera dives into a cutaway of the cable,
-      packed with hundreds of hexagonal bundles of thin shining steel wires, close-up. Shot 4 (15-20 s): high above
-      the canyon, workers in orange suits seen from behind lean into a howling wind on a narrow steel catwalk, their
-      safety lines pulled tight, the sparks of a welding torch blown sideways, wide view. Shot 5 (20-25 s): a giant
-      cable crane strung between the two towers lowers a huge steel truss section, as big as a building, over the
-      625 meter drop, it inches into place beside the last one and the bolts slide straight into their holes, wide
-      view then close-up. Shot 6 (25-30 s): a fuel tanker truck stopped on the finished bridge deck is on fire, orange
-      flames and black smoke climbing up a steel hanger toward the main cable above, the canyon far below, wide view.
-  - id: huajiang-B
-    build: 93
-    kit: huajiang
-    # Facts: the main cables got "up to five layers of fire-resistant material" (under one centimetre in all) that
-    # "withstand temperatures of up to 1,100 C for a full hour"; the wires carry a zinc-aluminium-magnesium coating and
-    # the cables fiber grating sensors tracking "temperature, humidity, and stress levels" (China Daily, Apr 26 2025).
-    # B2 (damp canyon air rusting wires inside the cable) is the usual reason for that coating, but the source does not
-    # say so: its line needs a source of its own. Load test: "A fleet of 96 trucks weighing a whopping total of 3,360
-    # metric tons", in steps of "18, 48 and 96 trucks, with each weighing 35 tons" (China Daily, Aug 25 2025; ENR: "The
-    # five-day testing completed on Aug. 25"). B4 teases build 94, the smoke alarm (LINEUP). B6: China Daily pictured
-    # each main cable as a "clothesline"; a gust turns a backyard clothesline into a sail. No faces, flags or writing.
-    status: todo
-    file: buildit-huajiang-sdB.mp4
-    shots: >-
-      Shot 1 (0-5 s): macro cutaway of the main cable wrapped in thin layers of grey fireproof armor, a blowtorch
-      flame blasts its surface and the armor glows, but the shining steel wires packed inside stay bright and cool.
-      Shot 2 (5-10 s): cold mist and drizzle roll through the canyon over the bridge, the camera dives inside the main
-      cable where tiny water droplets creep between the steel wires and small orange rust spots start to spread,
-      macro. Shot 3 (10-15 s): macro cutaway of steel wires coated in a dull silver metal layer, water beading and
-      rolling off them, thin glowing glass fiber threads running between the bundles, then a screen in a small control
-      room showing calm moving graphs, warm light. Shot 4 (15-20 s): macro of a white smoke alarm on a kitchen
-      ceiling, a thin curl of smoke from a burnt piece of toast drifting up into its vents, its small red light
-      blinking, warm light. Shot 5 (20-25 s): rows of 96 heavy trucks loaded with gravel parked bumper to bumper across
-      the bridge deck high above the canyon, the deck holding steady, engineers seen from behind watching gauges on
-      laptops at the end of the bridge, slow aerial. Shot 6 (25-30 s): funny slow motion, in a windy backyard a man
-      pins a big wet bedsheet on a clothesline, a gust fills it like a sail and the whole line of laundry swings up and
-      wraps around him, a cat on the fence watching.
-
-  - id: seatbelt-A
-    build: 92
-    kit: seatbelt
     # Facts: three-point belt by Volvo engineer Nils Bohlin, 1958 patent application, 1959 in Volvo cars; one-handed to
     # buckle; two-point lap belts could hurt the body (liver injuries); Volvo gave the patent away free; credited with
     # saving at least a million lives (Volvo Group). Retractor: spool + pendulum/webbing sensor + ratchet lock; pretensioner
     # and load limiter are general engineering facts. Tease in clip B = Huajiang Grand Canyon Bridge (build 93).
-    status: todo
+    status: done
     file: buildit-seatbelt-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): macro of a car seatbelt buckle clicking into its latch in slow motion, then the strap pulls snug across a leather car seat, warm light. Shot 2 (5-10 s): a 1950s test laboratory, a plain lap belt lies across a car seat, a crash-test dummy lurches forward in slow motion and folds over the belt, no people. Shot 3 (10-15 s): cutaway of a V-shaped three-point belt, one strap crossing the chest diagonally and one across the hips, both meeting at a buckle low beside the seat, a crash-test dummy is held back in a slow motion crash. Shot 4 (15-20 s): a seatbelt strap hangs loose and sagging from its pillar slot, a slack coil of webbing on the seat, close-up, soft light. Shot 5 (20-25 s): macro cutaway of a seatbelt retractor, a spring-loaded spool winding the strap back in, then a tiny weighted pendulum swings as the car brakes and a toothed ratchet wheel locks the spool. Shot 6 (25-30 s): slow motion hard braking in a test lab, a crash-test dummy lurches forward and the belt locks and holds it, loose test objects fly forward past it.
   - id: seatbelt-B
     build: 92
     kit: seatbelt
-    status: todo
+    status: "generating (started: Nov 24 13:57 PT; verified Generating=1)"
     file: buildit-seatbelt-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro cutaway of a steel torsion bar twisting inside a seatbelt retractor as the strap pays out slowly under load, slow motion. Shot 2 (5-10 s): macro of a seatbelt pretensioner at the buckle, a small charge fires, a steel cable yanks the buckle down and the slack disappears in a flash, slow motion. Shot 3 (10-15 s): a 1959 Swedish car factory, a V-shaped three-point belt is bolted into a car body shell by robot arms and machines only, warm industrial light. Shot 4 (15-20 s): wide aerial of a very high suspension bridge spanning a deep misty green gorge, its deck far above the river at the bottom, a small car crossing slowly. Shot 5 (20-25 s): a highway at dusk with a long line of glowing car lights, then the dashboard seatbelt warning light goes dark as a buckle clicks, warm light. Shot 6 (25-30 s): funny slow motion, a pizza box belted into a car passenger seat, the car brakes hard, a takeout bag and napkins fly forward and the belted pizza box does not move an inch.
