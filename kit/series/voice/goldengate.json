@@ -3,9 +3,9 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 73.233,
- "words": 176,
- "words_per_sec": 2.4,
+ "duration": 72.819,
+ "words": 173,
+ "words_per_sec": 2.38,
  "lines": [
   {
    "line": 1,
@@ -73,929 +73,914 @@
   {
    "line": 2,
    "start": 5.659,
-   "end": 10.668,
-   "text": "Now listen. This spot has wild tides, ocean waves, and thick fog.",
+   "end": 9.709,
+   "text": "This spot has wild tides, ocean waves, and thick fog.",
    "words": [
     {
-     "w": "Now",
-     "start": 5.76,
-     "end": 5.903
-    },
-    {
-     "w": "listen.",
-     "start": 6.046,
-     "end": 6.653
-    },
-    {
      "w": "This",
-     "start": 6.831,
-     "end": 6.974
+     "start": 5.73,
+     "end": 5.873
     },
     {
      "w": "spot",
-     "start": 7.117,
-     "end": 7.26
+     "start": 6.016,
+     "end": 6.159
     },
     {
      "w": "has",
-     "start": 7.331,
-     "end": 7.546
+     "start": 6.23,
+     "end": 6.445
     },
     {
      "w": "wild",
-     "start": 7.688,
-     "end": 7.974
+     "start": 6.587,
+     "end": 6.945
     },
     {
      "w": "tides,",
-     "start": 8.046,
-     "end": 8.653
+     "start": 7.016,
+     "end": 7.623
     },
     {
      "w": "ocean",
-     "start": 8.76,
-     "end": 9.046
+     "start": 7.73,
+     "end": 8.016
     },
     {
      "w": "waves,",
-     "start": 9.117,
-     "end": 9.51
+     "start": 8.087,
+     "end": 8.552
     },
     {
      "w": "and",
-     "start": 9.546,
-     "end": 9.688
+     "start": 8.588,
+     "end": 8.73
     },
     {
      "w": "thick",
-     "start": 9.867,
-     "end": 10.081
+     "start": 8.945,
+     "end": 9.159
     },
     {
      "w": "fog.",
-     "start": 10.224,
-     "end": 10.867
+     "start": 9.23,
+     "end": 9.945
     }
    ]
   },
   {
    "line": 3,
-   "start": 10.98,
-   "end": 15.949,
+   "start": 10.021,
+   "end": 14.991,
    "text": "So divers help build a giant concrete tub in the sea, then pump it dry.",
    "words": [
     {
      "w": "So",
-     "start": 11.195,
-     "end": 11.409
+     "start": 10.236,
+     "end": 10.45
     },
     {
      "w": "divers",
-     "start": 11.552,
-     "end": 11.98
+     "start": 10.593,
+     "end": 11.021
     },
     {
      "w": "help",
-     "start": 12.052,
-     "end": 12.195
+     "start": 11.093,
+     "end": 11.236
     },
     {
      "w": "build",
-     "start": 12.266,
-     "end": 12.409
+     "start": 11.307,
+     "end": 11.45
     },
     {
      "w": "a",
-     "start": 12.48,
-     "end": 12.623
+     "start": 11.521,
+     "end": 11.664
     },
     {
      "w": "giant",
-     "start": 12.766,
-     "end": 13.123
+     "start": 11.807,
+     "end": 12.164
     },
     {
      "w": "concrete",
-     "start": 13.23,
-     "end": 13.552
+     "start": 12.271,
+     "end": 12.593
     },
     {
      "w": "tub",
-     "start": 13.623,
-     "end": 13.837
+     "start": 12.664,
+     "end": 12.879
     },
     {
      "w": "in",
-     "start": 13.873,
-     "end": 13.909
+     "start": 12.914,
+     "end": 12.95
     },
     {
      "w": "the",
-     "start": 13.98,
-     "end": 14.123
+     "start": 13.021,
+     "end": 13.164
     },
     {
      "w": "sea,",
-     "start": 14.23,
-     "end": 14.695
+     "start": 13.271,
+     "end": 13.736
     },
     {
      "w": "then",
-     "start": 14.837,
-     "end": 14.98
+     "start": 13.879,
+     "end": 14.021
     },
     {
      "w": "pump",
-     "start": 15.052,
-     "end": 15.266
+     "start": 14.093,
+     "end": 14.307
     },
     {
      "w": "it",
-     "start": 15.337,
-     "end": 15.409
+     "start": 14.379,
+     "end": 14.45
     },
     {
      "w": "dry.",
-     "start": 15.623,
-     "end": 16.123
+     "start": 14.664,
+     "end": 15.164
     }
    ]
   },
   {
    "line": 4,
-   "start": 16.262,
-   "end": 20.215,
-   "text": "But a gray tower in thick fog? Ships can barely see it.",
+   "start": 15.304,
+   "end": 19.486,
+   "text": "But fog swallows a gray tower. Ships can barely see it.",
    "words": [
     {
      "w": "But",
-     "start": 16.727,
-     "end": 16.87
+     "start": 15.767,
+     "end": 15.91
+    },
+    {
+     "w": "fog",
+     "start": 16.053,
+     "end": 16.338
+    },
+    {
+     "w": "swallows",
+     "start": 16.481,
+     "end": 16.91
     },
     {
      "w": "a",
-     "start": 16.905,
-     "end": 16.941
+     "start": 16.946,
+     "end": 16.981
     },
     {
      "w": "gray",
-     "start": 17.084,
-     "end": 17.298
+     "start": 17.053,
+     "end": 17.267
     },
     {
-     "w": "tower",
-     "start": 17.37,
-     "end": 17.727
-    },
-    {
-     "w": "in",
-     "start": 17.798,
-     "end": 17.87
-    },
-    {
-     "w": "thick",
-     "start": 18.012,
-     "end": 18.227
-    },
-    {
-     "w": "fog?",
-     "start": 18.298,
-     "end": 18.727
+     "w": "tower.",
+     "start": 17.338,
+     "end": 17.838
     },
     {
      "w": "Ships",
-     "start": 18.932,
-     "end": 19.146
+     "start": 18.097,
+     "end": 18.383
     },
     {
      "w": "can",
-     "start": 19.218,
-     "end": 19.361
+     "start": 18.454,
+     "end": 18.526
     },
     {
      "w": "barely",
-     "start": 19.468,
-     "end": 19.646
+     "start": 18.669,
+     "end": 18.954
     },
     {
      "w": "see",
-     "start": 19.789,
-     "end": 19.932
+     "start": 19.097,
+     "end": 19.24
     },
     {
      "w": "it.",
-     "start": 20.004,
-     "end": 20.432
+     "start": 19.347,
+     "end": 19.669
     }
    ]
   },
   {
    "line": 5,
-   "start": 20.528,
-   "end": 26.611,
-   "text": "So the architect kept the orange. It pops in fog. The Navy wanted bumblebee stripes.",
+   "start": 19.798,
+   "end": 26.189,
+   "text": "So the architect kept the orange. It glows through fog. The Navy wanted bumblebee stripes.",
    "words": [
     {
      "w": "So",
-     "start": 20.742,
-     "end": 20.885
+     "start": 19.988,
+     "end": 20.131
     },
     {
      "w": "the",
-     "start": 20.956,
-     "end": 21.028
+     "start": 20.203,
+     "end": 20.346
     },
     {
      "w": "architect",
-     "start": 21.099,
-     "end": 21.599
+     "start": 20.417,
+     "end": 20.917
     },
     {
      "w": "kept",
-     "start": 21.671,
-     "end": 21.813
+     "start": 20.988,
+     "end": 21.131
     },
     {
      "w": "the",
-     "start": 21.885,
-     "end": 21.956
+     "start": 21.203,
+     "end": 21.274
     },
     {
      "w": "orange.",
-     "start": 22.028,
-     "end": 22.572
+     "start": 21.346,
+     "end": 21.887
     },
     {
      "w": "It",
-     "start": 22.751,
-     "end": 22.894
+     "start": 22.051,
+     "end": 22.194
     },
     {
-     "w": "pops",
-     "start": 22.965,
-     "end": 23.251
+     "w": "glows",
+     "start": 22.265,
+     "end": 22.622
     },
     {
-     "w": "in",
-     "start": 23.322,
-     "end": 23.394
+     "w": "through",
+     "start": 22.694,
+     "end": 22.908
     },
     {
      "w": "fog.",
-     "start": 23.537,
-     "end": 24.054
+     "start": 22.979,
+     "end": 23.495
     },
     {
      "w": "The",
-     "start": 24.769,
-     "end": 24.804
+     "start": 24.256,
+     "end": 24.292
     },
     {
      "w": "Navy",
-     "start": 24.876,
-     "end": 25.162
+     "start": 24.363,
+     "end": 24.649
     },
     {
      "w": "wanted",
-     "start": 25.233,
-     "end": 25.447
+     "start": 24.721,
+     "end": 24.935
     },
     {
      "w": "bumblebee",
-     "start": 25.519,
-     "end": 25.947
+     "start": 25.078,
+     "end": 25.506
     },
     {
      "w": "stripes.",
-     "start": 26.019,
-     "end": 26.733
+     "start": 25.578,
+     "end": 26.292
     }
    ]
   },
   {
    "line": 6,
-   "start": 26.923,
-   "end": 30.674,
+   "start": 26.502,
+   "end": 30.253,
    "text": "But strong winds push the long deck sideways. Yikes.",
    "words": [
     {
      "w": "But",
-     "start": 26.965,
-     "end": 27.108
+     "start": 26.544,
+     "end": 26.687
     },
     {
      "w": "strong",
-     "start": 27.322,
-     "end": 27.537
+     "start": 26.901,
+     "end": 27.115
     },
     {
      "w": "winds",
-     "start": 27.608,
-     "end": 27.894
+     "start": 27.187,
+     "end": 27.472
     },
     {
      "w": "push",
-     "start": 27.965,
-     "end": 28.108
+     "start": 27.544,
+     "end": 27.687
     },
     {
      "w": "the",
-     "start": 28.179,
-     "end": 28.322
+     "start": 27.758,
+     "end": 27.901
     },
     {
      "w": "long",
-     "start": 28.394,
-     "end": 28.608
+     "start": 27.972,
+     "end": 28.187
     },
     {
      "w": "deck",
-     "start": 28.679,
-     "end": 28.894
+     "start": 28.258,
+     "end": 28.472
     },
     {
      "w": "sideways.",
-     "start": 29.037,
-     "end": 29.894
+     "start": 28.615,
+     "end": 29.472
     },
     {
      "w": "Yikes.",
-     "start": 30.037,
-     "end": 30.751
+     "start": 29.615,
+     "end": 30.329
     }
    ]
   },
   {
    "line": 7,
-   "start": 30.987,
-   "end": 36.807,
+   "start": 30.565,
+   "end": 36.386,
    "text": "So two giant cables hold it up, each spun from over twenty-seven thousand wires.",
    "words": [
     {
      "w": "So",
-     "start": 31.196,
-     "end": 31.41
+     "start": 30.774,
+     "end": 30.988
     },
     {
      "w": "two",
-     "start": 31.553,
-     "end": 31.767
+     "start": 31.131,
+     "end": 31.346
     },
     {
      "w": "giant",
-     "start": 31.981,
-     "end": 32.338
+     "start": 31.56,
+     "end": 31.917
     },
     {
      "w": "cables",
-     "start": 32.41,
-     "end": 32.767
+     "start": 31.988,
+     "end": 32.346
     },
     {
      "w": "hold",
-     "start": 32.838,
-     "end": 33.053
+     "start": 32.417,
+     "end": 32.631
     },
     {
      "w": "it",
-     "start": 33.088,
-     "end": 33.124
+     "start": 32.667,
+     "end": 32.703
     },
     {
      "w": "up,",
-     "start": 33.196,
-     "end": 33.696
+     "start": 32.774,
+     "end": 33.274
     },
     {
      "w": "each",
-     "start": 33.767,
-     "end": 33.981
+     "start": 33.346,
+     "end": 33.56
     },
     {
      "w": "spun",
-     "start": 34.053,
-     "end": 34.267
+     "start": 33.631,
+     "end": 33.846
     },
     {
      "w": "from",
-     "start": 34.338,
-     "end": 34.481
+     "start": 33.917,
+     "end": 34.06
     },
     {
      "w": "over",
-     "start": 34.553,
-     "end": 34.767
+     "start": 34.131,
+     "end": 34.346
     },
     {
      "w": "twenty-seven",
-     "start": 34.838,
-     "end": 35.481
+     "start": 34.417,
+     "end": 35.06
     },
     {
      "w": "thousand",
-     "start": 35.696,
-     "end": 36.053
+     "start": 35.274,
+     "end": 35.631
     },
     {
      "w": "wires.",
-     "start": 36.196,
-     "end": 36.91
+     "start": 35.774,
+     "end": 36.488
     }
    ]
   },
   {
    "line": 8,
-   "start": 37.12,
-   "end": 41.233,
+   "start": 36.698,
+   "end": 40.812,
    "text": "But up this high, one slip... and you fall toward the sea.",
    "words": [
     {
      "w": "But",
-     "start": 37.597,
-     "end": 37.741
+     "start": 37.177,
+     "end": 37.32
     },
     {
      "w": "up",
-     "start": 37.812,
-     "end": 37.883
+     "start": 37.391,
+     "end": 37.462
     },
     {
      "w": "this",
-     "start": 37.955,
-     "end": 38.098
+     "start": 37.534,
+     "end": 37.677
     },
     {
      "w": "high,",
-     "start": 38.169,
-     "end": 38.759
+     "start": 37.748,
+     "end": 38.338
     },
     {
      "w": "one",
-     "start": 38.83,
-     "end": 39.045
+     "start": 38.409,
+     "end": 38.623
     },
     {
      "w": "slip...",
-     "start": 39.116,
-     "end": 39.661
+     "start": 38.695,
+     "end": 39.239
     },
     {
      "w": "and",
-     "start": 39.731,
-     "end": 39.804
+     "start": 39.311,
+     "end": 39.382
     },
     {
      "w": "you",
-     "start": 39.911,
-     "end": 40.018
+     "start": 39.489,
+     "end": 39.596
     },
     {
      "w": "fall",
-     "start": 40.161,
-     "end": 40.304
+     "start": 39.739,
+     "end": 39.882
     },
     {
      "w": "toward",
-     "start": 40.375,
-     "end": 40.66
+     "start": 39.954,
+     "end": 40.239
     },
     {
      "w": "the",
-     "start": 40.696,
-     "end": 40.732
+     "start": 40.275,
+     "end": 40.311
     },
     {
      "w": "sea.",
-     "start": 40.875,
-     "end": 41.446
+     "start": 40.454,
+     "end": 41.025
     }
    ]
   },
   {
    "line": 9,
-   "start": 41.546,
-   "end": 46.898,
+   "start": 41.124,
+   "end": 46.477,
    "text": "So you hang a net under the deck. It caught nineteen men: the Halfway to Hell Club.",
    "words": [
     {
      "w": "So",
-     "start": 41.76,
-     "end": 41.903
+     "start": 41.338,
+     "end": 41.481
     },
     {
      "w": "you",
-     "start": 42.046,
-     "end": 42.188
+     "start": 41.624,
+     "end": 41.767
     },
     {
      "w": "hang",
-     "start": 42.26,
-     "end": 42.403
+     "start": 41.838,
+     "end": 41.981
     },
     {
      "w": "a",
-     "start": 42.438,
-     "end": 42.474
+     "start": 42.017,
+     "end": 42.053
     },
     {
      "w": "net",
-     "start": 42.617,
-     "end": 42.831
+     "start": 42.196,
+     "end": 42.41
     },
     {
      "w": "under",
-     "start": 42.903,
-     "end": 43.117
+     "start": 42.481,
+     "end": 42.696
     },
     {
      "w": "the",
-     "start": 43.153,
-     "end": 43.188
+     "start": 42.731,
+     "end": 42.767
     },
     {
      "w": "deck.",
-     "start": 43.331,
-     "end": 43.885
+     "start": 42.91,
+     "end": 43.463
     },
     {
      "w": "It",
-     "start": 43.956,
-     "end": 44.028
+     "start": 43.535,
+     "end": 43.606
     },
     {
      "w": "caught",
-     "start": 44.171,
-     "end": 44.313
+     "start": 43.749,
+     "end": 43.892
     },
     {
      "w": "nineteen",
-     "start": 44.385,
-     "end": 44.885
+     "start": 43.963,
+     "end": 44.463
     },
     {
      "w": "men:",
-     "start": 44.956,
-     "end": 45.51
+     "start": 44.535,
+     "end": 45.088
     },
     {
      "w": "the",
-     "start": 45.581,
-     "end": 45.653
+     "start": 45.16,
+     "end": 45.231
     },
     {
      "w": "Halfway",
-     "start": 45.796,
-     "end": 46.01
+     "start": 45.374,
+     "end": 45.588
     },
     {
      "w": "to",
-     "start": 46.081,
-     "end": 46.153
+     "start": 45.66,
+     "end": 45.731
     },
     {
      "w": "Hell",
-     "start": 46.26,
-     "end": 46.367
+     "start": 45.838,
+     "end": 45.946
     },
     {
      "w": "Club.",
-     "start": 46.438,
-     "end": 47.01
+     "start": 46.017,
+     "end": 46.588
     }
    ]
   },
   {
    "line": 10,
-   "start": 47.211,
-   "end": 53.69,
+   "start": 46.789,
+   "end": 53.269,
    "text": "Hit follow, 'cause next we're building the Gateway Arch. Yes... a giant steel rainbow.",
    "words": [
     {
      "w": "Hit",
-     "start": 47.28,
-     "end": 47.423
+     "start": 46.859,
+     "end": 47.002
     },
     {
      "w": "follow,",
-     "start": 47.566,
-     "end": 48.137
+     "start": 47.145,
+     "end": 47.716
     },
     {
      "w": "'cause",
-     "start": 48.28,
-     "end": 48.495
+     "start": 47.859,
+     "end": 48.073
     },
     {
      "w": "next",
-     "start": 48.566,
-     "end": 48.852
+     "start": 48.145,
+     "end": 48.43
     },
     {
      "w": "we're",
-     "start": 48.995,
-     "end": 49.137
+     "start": 48.573,
+     "end": 48.716
     },
     {
      "w": "building",
-     "start": 49.209,
-     "end": 49.495
+     "start": 48.788,
+     "end": 49.073
     },
     {
      "w": "the",
-     "start": 49.53,
-     "end": 49.566
+     "start": 49.109,
+     "end": 49.145
     },
     {
      "w": "Gateway",
-     "start": 49.709,
-     "end": 50.066
+     "start": 49.287,
+     "end": 49.645
     },
     {
      "w": "Arch.",
-     "start": 50.137,
-     "end": 50.566
+     "start": 49.716,
+     "end": 50.145
     },
     {
      "w": "Yes...",
-     "start": 51.209,
-     "end": 51.78
+     "start": 50.787,
+     "end": 51.359
     },
     {
      "w": "a",
-     "start": 51.887,
-     "end": 51.995
+     "start": 51.466,
+     "end": 51.573
     },
     {
      "w": "giant",
-     "start": 52.066,
-     "end": 52.423
+     "start": 51.645,
+     "end": 52.002
     },
     {
      "w": "steel",
-     "start": 52.566,
-     "end": 52.923
+     "start": 52.145,
+     "end": 52.502
     },
     {
      "w": "rainbow.",
-     "start": 53.066,
-     "end": 53.78
+     "start": 52.645,
+     "end": 53.359
     }
    ]
   },
   {
    "line": 11,
-   "start": 54.003,
-   "end": 59.427,
+   "start": 53.581,
+   "end": 59.005,
    "text": "On opening day in nineteen thirty-seven, about two hundred thousand people walked across.",
    "words": [
     {
      "w": "On",
-     "start": 54.146,
-     "end": 54.288
+     "start": 53.724,
+     "end": 53.867
     },
     {
      "w": "opening",
-     "start": 54.431,
-     "end": 54.788
+     "start": 54.01,
+     "end": 54.367
     },
     {
      "w": "day",
-     "start": 54.86,
-     "end": 55.003
+     "start": 54.438,
+     "end": 54.581
     },
     {
      "w": "in",
-     "start": 55.074,
-     "end": 55.217
+     "start": 54.653,
+     "end": 54.796
     },
     {
      "w": "nineteen",
-     "start": 55.288,
-     "end": 55.646
+     "start": 54.867,
+     "end": 55.224
     },
     {
      "w": "thirty-seven,",
-     "start": 55.717,
-     "end": 56.574
+     "start": 55.296,
+     "end": 56.153
     },
     {
      "w": "about",
-     "start": 56.753,
-     "end": 56.931
+     "start": 56.331,
+     "end": 56.51
     },
     {
      "w": "two",
-     "start": 57.003,
-     "end": 57.217
+     "start": 56.581,
+     "end": 56.796
     },
     {
      "w": "hundred",
-     "start": 57.288,
-     "end": 57.503
+     "start": 56.867,
+     "end": 57.081
     },
     {
      "w": "thousand",
-     "start": 57.717,
-     "end": 58.074
+     "start": 57.296,
+     "end": 57.653
     },
     {
      "w": "people",
-     "start": 58.217,
-     "end": 58.503
+     "start": 57.796,
+     "end": 58.081
     },
     {
      "w": "walked",
-     "start": 58.574,
-     "end": 58.788
+     "start": 58.153,
+     "end": 58.367
     },
     {
      "w": "across.",
-     "start": 58.86,
-     "end": 59.503
+     "start": 58.438,
+     "end": 59.081
     }
    ]
   },
   {
    "line": 12,
-   "start": 59.739,
-   "end": 64.214,
+   "start": 59.318,
+   "end": 63.793,
    "text": "Two towers, two cables, one net, and zero bumblebee stripes.",
    "words": [
     {
      "w": "Two",
-     "start": 59.806,
-     "end": 59.878
+     "start": 59.385,
+     "end": 59.456
     },
     {
      "w": "towers,",
-     "start": 60.021,
-     "end": 60.628
+     "start": 59.599,
+     "end": 60.206
     },
     {
      "w": "two",
-     "start": 60.735,
-     "end": 60.806
+     "start": 60.313,
+     "end": 60.385
     },
     {
      "w": "cables,",
-     "start": 60.949,
-     "end": 61.521
+     "start": 60.528,
+     "end": 61.099
     },
     {
      "w": "one",
-     "start": 61.663,
-     "end": 61.806
+     "start": 61.242,
+     "end": 61.385
     },
     {
      "w": "net,",
-     "start": 61.878,
-     "end": 62.199
+     "start": 61.456,
+     "end": 61.778
     },
     {
      "w": "and",
-     "start": 62.306,
-     "end": 62.449
+     "start": 61.885,
+     "end": 62.028
     },
     {
      "w": "zero",
-     "start": 62.663,
-     "end": 62.949
+     "start": 62.242,
+     "end": 62.528
     },
     {
      "w": "bumblebee",
-     "start": 63.092,
-     "end": 63.521
+     "start": 62.671,
+     "end": 63.099
     },
     {
      "w": "stripes.",
-     "start": 63.592,
-     "end": 64.306
+     "start": 63.171,
+     "end": 63.885
     }
    ]
   },
   {
    "line": 13,
-   "start": 64.527,
-   "end": 67.906,
+   "start": 64.105,
+   "end": 67.485,
    "text": "And congrats, you just built the Golden Gate Bridge yourself.",
    "words": [
     {
      "w": "And",
-     "start": 64.585,
-     "end": 64.728
+     "start": 64.163,
+     "end": 64.306
     },
     {
      "w": "congrats,",
-     "start": 64.835,
-     "end": 65.585
+     "start": 64.413,
+     "end": 65.163
     },
     {
      "w": "you",
-     "start": 65.728,
-     "end": 65.871
+     "start": 65.306,
+     "end": 65.449
     },
     {
      "w": "just",
-     "start": 65.978,
-     "end": 66.085
+     "start": 65.556,
+     "end": 65.663
     },
     {
      "w": "built",
-     "start": 66.192,
-     "end": 66.299
+     "start": 65.771,
+     "end": 65.878
     },
     {
      "w": "the",
-     "start": 66.371,
-     "end": 66.442
+     "start": 65.949,
+     "end": 66.021
     },
     {
      "w": "Golden",
-     "start": 66.513,
-     "end": 66.728
+     "start": 66.092,
+     "end": 66.306
     },
     {
      "w": "Gate",
-     "start": 66.799,
-     "end": 67.013
+     "start": 66.378,
+     "end": 66.592
     },
     {
      "w": "Bridge",
-     "start": 67.121,
-     "end": 67.228
+     "start": 66.699,
+     "end": 66.806
     },
     {
      "w": "yourself.",
-     "start": 67.299,
-     "end": 68.085
+     "start": 66.878,
+     "end": 67.663
     }
    ]
   },
   {
    "line": 14,
-   "start": 68.219,
-   "end": 73.227,
+   "start": 67.797,
+   "end": 72.805,
    "text": "Bring your best hat to this bridge... and the wind keeps it.",
    "words": [
     {
      "w": "Bring",
-     "start": 69.004,
-     "end": 69.219
+     "start": 68.583,
+     "end": 68.797
     },
     {
      "w": "your",
-     "start": 69.29,
-     "end": 69.504
+     "start": 68.869,
+     "end": 69.083
     },
     {
      "w": "best",
-     "start": 69.576,
-     "end": 69.79
+     "start": 69.154,
+     "end": 69.369
     },
     {
      "w": "hat",
-     "start": 69.862,
-     "end": 70.076
+     "start": 69.44,
+     "end": 69.654
     },
     {
      "w": "to",
-     "start": 70.112,
-     "end": 70.147
+     "start": 69.69,
+     "end": 69.726
     },
     {
      "w": "this",
-     "start": 70.219,
-     "end": 70.362
+     "start": 69.797,
+     "end": 69.94
     },
     {
      "w": "bridge...",
-     "start": 70.433,
-     "end": 71.04
+     "start": 70.012,
+     "end": 70.619
     },
     {
      "w": "and",
-     "start": 71.797,
-     "end": 71.826
+     "start": 71.376,
+     "end": 71.404
     },
     {
      "w": "the",
-     "start": 71.897,
-     "end": 71.969
+     "start": 71.476,
+     "end": 71.547
     },
     {
      "w": "wind",
-     "start": 72.112,
-     "end": 72.397
+     "start": 71.69,
+     "end": 71.976
     },
     {
      "w": "keeps",
-     "start": 72.54,
-     "end": 72.897
+     "start": 72.119,
+     "end": 72.476
     },
     {
      "w": "it.",
-     "start": 72.969,
-     "end": 73.469
+     "start": 72.547,
+     "end": 73.047
     }
    ]
   }
