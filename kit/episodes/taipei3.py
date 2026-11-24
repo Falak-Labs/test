@@ -16,17 +16,19 @@ FADE = 0.25
 
 
 class Taipei3(Taipei2):
-    SHOTS = {"hook": "buildit-taipei-hook.mp4", "break1": "buildit-taipei-storm.mp4", "reveal": "buildit-taipei-reveal.mp4"}
+    SHOTS = {"hook": ("buildit-taipei-hook.mp4", 0, None), "break1": ("buildit-taipei-storm.mp4", 0, None),
+             "fix4": ("buildit-taipei-reveal.mp4", 5.1, 9.9),       # shot 2 of the 15 s clip: the pistons
+             "reveal": ("buildit-taipei-hook.mp4", 0, None)}        # the ball again: the answer to the hook
 
     def _tracks(self):
         super()._tracks()
         s, e = self.tl.s, self.tl.e
         span = {"hook": (0.0, s("break1") - 0.05), "break1": (s("break1") - 0.05, s("fix1") - 0.14),
-                "reveal": (s("reveal") - 0.1, s("stat") - 0.14)}
+                "fix4": (s("fix4") - 0.05, s("reveal") - 0.35), "reveal": (s("reveal") - 0.1, s("stat") - 0.14)}
         self.ai = []
-        for lab, name in self.SHOTS.items():
+        for lab, (name, a, b) in self.SHOTS.items():
             try:
-                self.ai.append((span[lab][0], span[lab][1], Shot(name)))
+                self.ai.append((span[lab][0], span[lab][1], Shot(name, start=a, end=b)))
             except Exception as ex:                           # a missing shot leaves our own animation in place
                 print(f"AI shot {name} not used: {ex}")
 

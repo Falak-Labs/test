@@ -30,9 +30,12 @@ Not unlimited: Kling 3.0 / 4.0, Veo, Seedance at 1080p or 4K, sound, music. Thos
    chats share it. Before you press Generate, open History on the video page: if any card says "Generating", wait
    (check every minute) and do not press Generate twice: a second press while one is running is ignored. A 720p clip
    took about 13 minutes on Nov 23 (unlimited jobs wait in a slower queue). Pictures are faster.
-4. **Your own Chrome tab.** Work in a tab you opened (Claude in Chrome tools), never in the owner's tabs or another
+4. **Type your prompt only when you are ready to press Generate** (owner, Nov 23 19:54 PT): set the settings, check
+   History is free, then type the prompt and press Generate right away, and clear the prompt box straight after, so
+   another chat can type its own prompt and generate. Never leave a prompt waiting in the box.
+5. **Your own Chrome tab.** Work in a tab you opened (Claude in Chrome tools), never in the owner's tabs or another
    chat's tab, and close it when you are done. Never type passwords or codes; if the site asks to sign in, tell the owner.
-5. **Get the file out:** when a clip is done, read its link from the page (the <video> element of the finished card;
+6. **Get the file out:** when a clip is done, read its link from the page (the <video> element of the finished card;
    pictures: the <img> of the result) and run the workflow **Fetch media** (.github/workflows/fetch-media.yml):
    `gh api -X POST repos/Falak-Labs/test/actions/workflows/fetch-media.yml/dispatches -f ref=main -f 'inputs[items]=<name>.mp4=<link> <name2>.png=<link2>'`
    or simply `python3 scripts/ai_media.py fetch <name>.mp4=<link> <name2>.png=<link2>` (it starts the workflow, waits and
@@ -41,9 +44,9 @@ Not unlimited: Kling 3.0 / 4.0, Veo, Seedance at 1080p or 4K, sound, music. Thos
    see what is there: `python3 scripts/ai_media.py list [filter]`. (`gh release download` does not work in these
    sessions: it needs GraphQL.) Finished clips live at https://d8j0ntlcm91z4.cloudfront.net/user_.../hf_<date>_<job>.mp4.
    Name files `<project>-<topic>-<shot>.mp4`, e.g. `buildit-taipei-hook.mp4`, `scary-ep07-door.mp4`, `yallah-kitchen-bg.png`.
-6. **Log every generation** in higgsfield/ledger.md (one line: date PT, project, model, file name, the prompt in a few
+7. **Log every generation** in higgsfield/ledger.md (one line: date PT, project, model, file name, the prompt in a few
    words, used where). Read it first: reuse a shot another project already made before you make a new one.
-7. **Stay in your lane:** each project's AI shots follow that project's own style rules and topics. Nothing sexual,
+8. **Stay in your lane:** each project's AI shots follow that project's own style rules and topics. Nothing sexual,
    no real people's faces in made-up scenes, no copyrighted characters or logos.
 
 ## The plan to get the most out of it

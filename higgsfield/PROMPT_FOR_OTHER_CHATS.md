@@ -6,7 +6,8 @@ Nano Banana Pro and Seedream 5.0 Pro pictures (2K) until Jan 13; Nano Banana, Kl
 
 1. git pull the repo Falak-Labs/test and read HIGGSFIELD.md at its root. Follow it exactly: work on higgsfield.ai in
    your own Chrome tab (Claude in Chrome), set 720p + Standard bitrate + sound Off + Unlimited mode ON, and press
-   Generate ONLY when the button says "Generate Unlimited". One video job at a time for my whole account: check History
+   Generate ONLY when the button says "Generate Unlimited". Type your prompt only right before you press Generate and
+   clear the box right after, so other chats can use it too. One video job at a time for my whole account: check History
    for "Generating" first. Ask for 15-30 s clips written as several shots and cut them apart. Get files out with
    python3 scripts/ai_media.py fetch <name>=<link>, and log every file in higgsfield/ledger.md.
 2. Never spend Higgsfield credits and never use the Higgsfield connector's generate tools.

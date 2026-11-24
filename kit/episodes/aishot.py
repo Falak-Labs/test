@@ -29,7 +29,8 @@ def fetch(name, folder=None):
 
 
 class Shot:
-    def __init__(self, name, folder=None):
+    def __init__(self, name, folder=None, start=0.0, end=None):
+        """start / end: the part of the clip to use, in seconds (a multi-shot clip gives several Shots)."""
         src = fetch(name, folder)
         self.dir = os.path.join(os.path.dirname(src), os.path.splitext(name)[0] + "_frames")
         if not os.path.isdir(self.dir) or not os.listdir(self.dir):
@@ -37,7 +38,10 @@ class Shot:
             subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", src, "-vf",
                             f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS}",
                             "-q:v", "2", os.path.join(self.dir, "%04d.jpg")], check=True)
-        self.n = len([f for f in os.listdir(self.dir) if f.endswith(".jpg")])
+        total = len([f for f in os.listdir(self.dir) if f.endswith(".jpg")])
+        self.first = min(total - 1, int(start * FPS))
+        last = total if end is None else min(total, int(end * FPS))
+        self.n = max(1, last - self.first)
         self.duration = self.n / FPS
         self._i, self._img = -1, None
 
@@ -45,7 +49,7 @@ class Shot:
         k = self.duration / length if length and length > self.duration else 1.0
         i = max(0, min(self.n - 1, int(t_local * k * FPS)))
         if i != self._i:
-            self._img = skia.Image.open(os.path.join(self.dir, f"{i + 1:04d}.jpg"))
+            self._img = skia.Image.open(os.path.join(self.dir, f"{self.first + i + 1:04d}.jpg"))
             self._i = i
         return self._img
 
