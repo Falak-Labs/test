@@ -13,7 +13,7 @@ jobs:
   - id: cooker-A
     build: 76
     kit: cooker
-    status: todo
+    status: generating (started: Nov 23 20:59 PT)
     file: buildit-cooker-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): extreme close-up of a steel pressure cooker on a gas flame, the whistle on the lid shrieks and
