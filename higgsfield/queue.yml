@@ -98,7 +98,7 @@ jobs:
   - id: kuwait-A
     build: 79
     kit: kuwaittowers
-    status: todo
+    status: "generating (started: Nov 24 00:28 PT)"
     file: buildit-kuwait-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): the Kuwait Towers at sunset on the Gulf shore, giant spheres covered in shining blue, green and
