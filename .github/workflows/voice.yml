@@ -17,6 +17,9 @@ on:
       voice:
         description: "optional: another ElevenLabs voice ID for the Arabic (to try a voice; voices.yml stays)"
         default: ""
+      model:
+        description: "optional: another ElevenLabs model for this run, e.g. eleven_v4 (Arabic, or any sample kit)"
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -54,6 +57,7 @@ jobs:
           LANGS: ${{ inputs.langs }}
           FORCE: ${{ inputs.force }}
           VOICE_OVERRIDE: ${{ inputs.voice }}
+          MODEL_OVERRIDE: ${{ inputs.model }}
         run: python scripts/make_voices.py
       - name: Save to the repo
         run: |

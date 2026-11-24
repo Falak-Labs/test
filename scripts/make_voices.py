@@ -56,6 +56,9 @@ for lang in langs:
     override = os.environ.get("VOICE_OVERRIDE", "").strip()
     if override and (lang == "ar" or kit.startswith("sample")):       # try another ElevenLabs voice (samples);
         eng.update(engine="eleven", voice=override)                    # English only for sample kits
+    mo = os.environ.get("MODEL_OVERRIDE", "").strip()              # try another model (v4 audio tags) the same way
+    if mo and (lang == "ar" or kit.startswith("sample")):
+        eng.update(model=mo)
     if eng.get("engine") == "eleven":
         if not os.environ.get("ELEVENLABS_API_KEY"):
             sys.exit("voices.yml asks for ElevenLabs but the ELEVENLABS_API_KEY secret is not set")
