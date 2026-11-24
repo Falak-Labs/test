@@ -1,0 +1,85 @@
+# Episode: "Three follow the dead" (Sahih al-Bukhari 6514, Sahih Muslim 2960), Saudi dialect, Mansour voice
+# hook first (three lights, two turn back, one goes in), then the hadith reveals who they are
+# 23 Nov rebuild: a question after the hadith (line 8, recorded alone and inserted with insert_line.py) keeps a loop open
+# through the family and money part; ends on line 16 (no "send it to someone" line: Ahmad, 23 Nov 2026); build the sound with assemble.py --keep 16
+palette: slate
+beats:
+  - line: 1
+    head: [["ثلاثة", g], ["يمشون وراك", w]]
+    sub: "يوم تموت.."
+    sub_at: [1, "يوم"]
+  - line: 2
+    head: [["اثنين يرجعون..", w], ["وواحد بس", g, [2, "وواحد"]]]
+    sub: "يدخل معك القبر"
+    sub_at: [2, "يدخل"]
+  - line: 3
+    head: [["تدري", w], ["مين هم؟", g]]
+  - line: 4
+    head: [["قال", w], ["رسول الله ﷺ", g]]
+  - line: 5
+    head: [["يتبع الميت", q], ["ثلاثة", g]]
+    sub: "فيرجع اثنان.. ويبقى معه واحد"
+    sub_at: [5, "فيرجع"]
+  - line: 6
+    head: [["أهله..", q, [6, "أهله"]], ["وماله..", q, [6, "ومال"]], ["وعمله", g, [6, "وعمل"]]]
+  - line: 7
+    head: [["ويبقى", q, [7, "ويبقى"]], ["عمله", g, [7, "عمل"]]]
+    sub: "فيرجع أهله وماله"
+  - line: 8
+    head: [["تدري وش يصير", w], ["أول ما يدفنونك؟", g, [8, "أول"]]]
+  - line: 9
+    head: [["أهلك", g], ["يرجعون البيت", w]]
+    sub: "اللي سهرت عشانهم.."
+  - line: 10
+    head: [["تنقسم", r, [10, "تنقسم"]], [".. وانت مو موجود", w, [10, "وانت"]]]
+    sub: "فلوسك اللي تعبت عليها عمرك كله"
+    echo: [10, "تنقسم"]
+  - line: 11
+    head: [["شي", w], ["واحد", g], ["بس", w]]
+    sub: "ويبقى معك.."
+  - line: 12
+    head: [["عملك", g]]
+  - line: 13
+    head: [["نور؟", g, [13, "نور"]], ["ولا", w, [13, "ولا"]], ["ظلمة؟", r, [13, "ظلمة"]]]
+    sub: "لو انقفل عليك قبرك اليوم"
+  - line: 14
+    head: [["اللي", w], ["تأجلها", r]]
+    sub: "الصلاة.. والصدقة.. بعدين"
+  - line: 15
+    head: [["هي هذي اللي", w], ["بتبقى معك", g]]
+  - line: 16
+    head: [["ابدأ اليوم", g], [".. مو بكرة", w, [16, "مو"]]]
+    sub: "عملك للحين بيدك"
+scenes:
+  - id: ThreeLights
+    lines: [1, 2, 3]
+    cues: {gold: [2, "وواحد"], ret: [2, "يرجعون"], enter: [2, "يدخل"]}
+  - {id: Book, lines: [4]}
+  - id: ThreeFollow
+    lines: [5, 6, 7]
+    cues: {family: [6, "أهله"], wealth: [6, "ومال"], deed: [6, "وعمل"], ret: [7, "فيرجع"], stay: [7, "ويبقى"]}
+  - {id: Procession, lines: [8]}
+  - id: FamilyHome
+    lines: [9]
+    cues: {turn: [9, "وبعدين"], home: [9, "البيت"]}
+  - id: WealthSplit
+    lines: [10]
+    cues: {split: [10, "تنقسم"], gone: [10, "موجود"]}
+    labels: [شقة, سيارة, أرض, رصيد]
+  - id: OneThing
+    lines: [11, 12]
+    cues: {one: [11, "واحد"], deed: [12, "عملك"]}
+  - id: Grave
+    lines: [13]
+    cues: {close: [13, "انقفل"], light: [13, "نور"], dark: [13, "ظلمة"]}
+  - id: Checklist
+    lines: [14, 15]
+    cues: {gold: [15, "هي"]}
+  - {id: Tree, lines: [16]}
+card:
+  lines:
+    - "يَتْبَعُ المَيِّتَ ثَلَاثَةٌ، فَيَرْجِعُ اثْنَانِ وَيَبْقَى مَعَهُ وَاحِدٌ"
+    - "يَتْبَعُهُ أَهْلُهُ وَمَالُهُ وَعَمَلُهُ"
+    - "فَيَرْجِعُ أَهْلُهُ وَمَالُهُ، وَيَبْقَى عَمَلُهُ"
+  ref: "متفق عليه · صحيح البخاري ٦٥١٤ · صحيح مسلم ٢٩٦٠"
+  hold: 4.0
