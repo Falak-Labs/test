@@ -123,9 +123,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 parts = []
                 for j, x in enumerate(g):
                     word = x["w"].rstrip(",.:؟،") if ar else x["w"].upper().rstrip(",.:")
-                    parts.append(("{\\c" + GOLD + "}" + word + "{\\c&H00FFFFFF&}") if j == k else word)
+                    if ar:      # one colour run per word: libass places runs left to right, see below
+                        parts.append("{\\c" + (GOLD if j == k else "&H00FFFFFF&") + "}" + word)
+                    else:
+                        parts.append(("{\\c" + GOLD + "}" + word + "{\\c&H00FFFFFF&}") if j == k else word)
                 pop = "\\fscx86\\fscy86\\t(0,110,\\fscx100\\fscy100)" if k == 0 else ""
-                if ar:          # libass lays colour-split runs left to right: put the words in visual order
+                if ar:          # libass lays colour runs left to right (measured Nov 23): reverse to read right to left
                     parts = parts[::-1]
                 ev.append(f"Dialogue: 1,{ass_time(a)},{ass_time(b)},Cap,,0,0,0,,"
                           f"{{\\pos({W // 2},{cy}){pop}}}" + " ".join(parts))
