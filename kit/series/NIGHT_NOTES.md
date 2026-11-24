@@ -1792,3 +1792,6 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   unlimited pictures (GPT Image 2.6 / Nano Banana Pro / Seedream) with slow zoom; the cutter takes .png shots.
 - Owner: the Easton voice is "annoying". Four ElevenLabs samples sent (Dan XA3P1cj7XJexe6Zq0ATX, Larry
   fIGaHjfrR8KmMy0vGEVJ, Liam VCgLBmBjldJmfphyB8sZ, Brian nPczCjzI2devNBz1zQrb); voices.yml en changes when he picks.
+- Nov 23 21:59 PT: English voice is now J. Ballen (ElevenLabs 2LxhCRvenFtT95JOekmF, Southern storyteller with comic
+  timing), owner's pick. voices.yml en switched. English costs about 1,000 ElevenLabs characters a build now; keep
+  the daily cap (8,000) and write the jokes for his timing.

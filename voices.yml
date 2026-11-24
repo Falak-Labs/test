@@ -7,7 +7,10 @@
 # ar.dialect = the dialect the Arabic scripts are written in (egyptian or jordanian). Nov 12 21:12 PT: he rejected
 # UZbXudn9g5q7bjznYXcC and is trying kU20U5bOr9ND3yqlsdwV with a Jordanian script; until he approves it, the
 # Egyptian voice he accepted for builds 21-25 stays.
-en: {engine: phonon, voice: Easton}
+# Nov 23 21:59 PT, owner picked J. Ballen (Southern storyteller, comic timing) after rejecting Easton ("annoying") and
+# 15 other samples: "Baller for sure, let's try it". English now costs ElevenLabs credits (~1,000 per build).
+en: {engine: eleven, voice: 2LxhCRvenFtT95JOekmF, model: eleven_multilingual_v2}
+# previous: en: {engine: phonon, voice: Easton}
 # Nov 22 11:35 PT, owner: "only ElevenLabs for Arabic, not the Egyptian one". From build 64 every NEW Arabic voice is Saudi
 # Mansour (below). Egyptian voice IES4nrmZdUBHByLBde0P stays only for the old builds that already have it.
 ar: {engine: eleven, voice: 5HAezIQAaoSgJypcI0NP, model: eleven_multilingual_v2, dialect: saudi}
