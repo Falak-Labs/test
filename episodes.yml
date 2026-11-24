@@ -50,15 +50,15 @@ episodes:
   - {slug: ep45-machupicchu, kit: machupicchu, look: 2, retired: true}
   - {slug: ep46-aswan, kit: aswan, look: 2, retired: true}
   - {slug: ep47-igloo, kit: igloo, look: 2, retired: true}
-  - {slug: ep48-riad, kit: riad, look: 2}
+  - {slug: ep48-riad, kit: riad, look: 2, retired: true}
   - {slug: ep49-hagiasophia, kit: hagiasophia, look: 2, retired: true}
-  - {slug: ep50-ondol, kit: ondol, look: 2}
+  - {slug: ep50-ondol, kit: ondol, look: 2, retired: true}
   - {slug: ep51-burjalarab, kit: burjalarab, look: 2, retired: true}
   - {slug: ep52-palmjumeirah, kit: palmjumeirah, look: 2, retired: true}
   - {slug: ep53-fridge, kit: fridge, look: 2, retired: true}
   - {slug: ep54-eiffel, kit: eiffel, look: 2}
   - {slug: ep55-suez, kit: suez, look: 2}
-  - {slug: ep56-escalator, kit: escalator, look: 2}
+  - {slug: ep56-escalator, kit: escalator, look: 2, retired: true}
   - {slug: ep57-operahouse, kit: operahouse, look: 2, retired: true}
   - {slug: ep58-ferriswheel, kit: ferriswheel, look: 2, retired: true}
   - {slug: ep59-liberty, kit: liberty, look: 2, retired: true}
@@ -75,3 +75,4 @@ episodes:
   - {slug: ep70-louvre, kit: louvre, look: 2}
   - {slug: ep71-vacuum, kit: vacuum, look: 2}
   - {slug: ep72-petronas, kit: petronas, look: 2}
+  - {slug: ep73-pharos, kit: pharos, look: 2}
