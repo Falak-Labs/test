@@ -8,5 +8,5 @@ A | p05k | Good game.
 A | w5 | Champion!
 L | v1 | My brother is the champion of the neighbourhood!
 L | Lw | Champion!
-A | Asl | Cham... pion.
-L | Lsl | Cham... pion.
+A | Asl | Champ... pee-un.
+L | Lsl | Champ... pee-un.
