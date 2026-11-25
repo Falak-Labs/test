@@ -7,30 +7,38 @@ levels:
     music: desert
     color: "#FFD166"
     en: {world: "ROME", boss: "THE ROMAN SUMMER", sub: "50,000 PEOPLE  ·  IN THE SUN ALL DAY", unlocked: "THE COLOSSEUM",
-         stamp: "BAKING", chips: [["50,000", "SEATS"], ["240", "POLES FOR THE SAILS"], ["80", "GATES"]]}
+         stamp: "BAKING", chips: [["50,000", "SEATS"], ["240", "POLES FOR THE SAILS"], ["80", "GATES"]],
+         shot: 5.5, still: 6.2}       # the whole Colosseum under its sails (the hook ends on a bare piece of wall)
     ar: {world: "روما", boss: "صيف روما", sub: "خمسين ألف واحد  ·  في الشمس طول اليوم", unlocked: "الكولوسيوم",
-         stamp: "حر مرة", chips: [["50,000", "مقعد"], ["240", "صاري للأشرعة"], ["80", "بوابة"]]}
+         stamp: "حر مرة", chips: [["50,000", "مقعد"], ["240", "صاري للأشرعة"], ["80", "بوابة"]],
+         shot: 4.8, still: 5.4}       # the Arabic hook reaches that picture earlier
   - kit: stepwell
     music: oasis
     color: "#7FC8FF"
     en: {world: "INDIA", boss: "THE DRY SEASON", sub: "HARDLY ANY RAIN  ·  THE WATER SINKS", unlocked: "CHAND BAORI",
-         stamp: "DRY", chips: [["3,500", "STEPS"], ["13", "FLOORS"], ["~5°", "COOLER AT THE BOTTOM"]]}
+         stamp: "DRY", chips: [["3,500", "STEPS"], ["13", "FLOORS"], ["~5°", "COOLER AT THE BOTTOM"]],
+         shot: 3.6, still: 4.3}       # the whole upside-down pyramid with its water
     ar: {world: "الهند", boss: "الجفاف", sub: "المطر قليل مرة  ·  والموية تنزل أكثر وأكثر", unlocked: "بير تشاند باوري",
-         stamp: "ناشف", chips: [["3,500", "درجة"], ["13", "دور"], ["~5°", "أبرد تحت"]]}
+         stamp: "ناشف", chips: [["3,500", "درجة"], ["13", "دور"], ["~5°", "أبرد تحت"]],
+         shot: 3.0, still: 3.6}
   - kit: louvre
     music: arctic
     color: "#9BE08A"
     en: {world: "ABU DHABI", boss: "THE FRYING PAN", sub: "A SEASIDE PLAZA  ·  HOT AS A FRYING PAN", unlocked: "THE LOUVRE ABU DHABI",
-         stamp: "FRYING", chips: [["180 m", "ONE DOME"], ["7,850", "METAL STARS"], ["7,500 t", "OF DOME"]]}
+         stamp: "FRYING", chips: [["180 m", "ONE DOME"], ["7,850", "METAL STARS"], ["7,500 t", "OF DOME"]],
+         shot: 2.0, still: 3.0}       # the dome close up, light raining through it
     ar: {world: "أبوظبي", boss: "شمس أبوظبي", sub: "ساحة على البحر  ·  والشمس مخليتها فرن", unlocked: "اللوفر أبوظبي",
-         stamp: "فرن", chips: [["180 m", "عرض القبة"], ["7,850", "نجمة حديد"], ["7,500 t", "وزن القبة"]]}
+         stamp: "فرن", chips: [["180 m", "عرض القبة"], ["7,850", "نجمة حديد"], ["7,500 t", "وزن القبة"]],
+         shot: 2.0, still: 3.0}
   - kit: maraya
     music: ondol
     color: "#F2B880"
     en: {world: "THE SAUDI DESERT", boss: "THE OVEN", sub: "A BIG BOX  ·  BAKED LIKE AN OVEN", unlocked: "MARAYA",
-         stamp: "ROASTING", chips: [["~10,000", "SQ M OF MIRROR"], ["4", "WALLS OF MIRROR"], ["1", "GUINNESS RECORD"]]}
+         stamp: "ROASTING", chips: [["~10,000", "SQ M OF MIRROR"], ["4", "WALLS OF MIRROR"], ["1", "GUINNESS RECORD"]],
+         shot: 3.9, still: 4.3}       # the valley with the sun flashing off the mirror wall
     ar: {world: "العلا", boss: "شمس الصحرا", sub: "صندوق كبير في الصحرا  ·  ينطبخ مثل الفرن", unlocked: "مرايا العلا",
-         stamp: "ينطبخ", chips: [["~10,000", "متر مربع مرايا"], ["4", "جدران مرايا"], ["1", "رقم قياسي بغينيس"]]}
+         stamp: "ينطبخ", chips: [["~10,000", "متر مربع مرايا"], ["4", "جدران مرايا"], ["1", "رقم قياسي بغينيس"]],
+         shot: 3.3, still: 3.8}
 en:
   chip: "SURVIVAL MODE  ·  YOU VS THE SUN"
   ribbon: "YOU VS THE SUN"
