@@ -1,5 +1,5 @@
 """Episode 96 - a hand warmer.  v2 look: a clear pouch of liquid with a little metal disc, held in two mittens on a
-snowy night (world: the pouch centred at (0, 0), 600 x 380 units; the disc at (-190, 30)).
+snowy night (world: the pouch centred at (0, 0), 600 x 380 units; the disc at (-100, -50)).
 
 Sets: pouch (hook: close on the disc, a fingertip clicks it, a front of white crystals races through the pouch and it
 glows; break1: bare frozen hands in the snow, a pocket with a campfire crossed out; fix1: the pouch fills with salty
@@ -15,7 +15,7 @@ from bigben import thermometer  # noqa: E402
 from ondol import clock  # noqa: E402
 
 PW, PH = 600.0, 380.0                     # the pouch (world units)
-DISC = (-190.0, 30.0)
+DISC = (-100.0, -50.0)
 DISC_R = 46.0
 LIQ = ("#8FD3FF", "#4C9BE0")
 CRY = ("#F6F1E7", "#E2D6C2")
@@ -182,6 +182,22 @@ def fingertip(c, x, y, s=1.0, press=0.0, a=1.0):
     c.restore()
 
 
+def fist(c, x, y, s=1.0, a=1.0):
+    """A fist seen from the side, knuckles down at (x, y) (world): it knocks on the solid pouch."""
+    if a <= 0:
+        return
+    c.save()
+    c.translate(x, y)
+    c.scale(s, s)
+    c.drawRRect(rr(-30, -330, 120, 230, 50), lin_paint(-30, 0, 90, 0, ["#334155", "#1E293B"], a=a))          # sleeve
+    c.drawRRect(rr(-70, -130, 150, 120, 46), lin_paint(-70, 0, 80, 0, [SKIN, shade(SKIN, -0.14)], a=a))    # back of the hand
+    for k in range(4):                                                                                     # curled fingers
+        c.drawRRect(rr(-66 + k * 36, -40, 34, 58, 16), P(shade(SKIN, -0.04 * k), a))
+        c.drawLine(-60 + k * 36, -6, -40 + k * 36, -6, P(shade(SKIN, -0.25), 0.7 * a, stroke=3))
+    c.drawRRect(rr(56, -110, 44, 90, 22), P(shade(SKIN, 0.05), a))                                         # thumb
+    c.restore()
+
+
 def lens(c, x, y, r, t, mode="wander", k=0.0, a=1.0, heat=0.0):
     """A round close-up of the liquid (screen). mode "wander": molecules drift about; "lock": a crystal grows from the
     centre, k 0..1 of the way out, every molecule inside it snapped onto the grid; heat > 0 adds sparks of heat leaving
@@ -278,15 +294,25 @@ def pocket_fire(c, x, y, s, t, cross=0.0, a=1.0):
     """A jeans pocket with a little campfire over it, crossed out (screen)."""
     if a <= 0:
         return
-    c.drawRRect(rr(x - 110 * s, y - 40 * s, 220 * s, 190 * s, 30 * s), lin_paint(0, y - 40 * s, 0, y + 150 * s, ["#3B6EA8", "#244E80"], a=a))
-    c.drawRRect(rr(x - 96 * s, y - 26 * s, 192 * s, 162 * s, 24 * s), P("#F59E0B", 0.8 * a, stroke=3 * s))   # stitching
-    for k in range(3):                                                    # logs and a flame
-        c.drawRRect(rr(x - 70 * s + k * 18 * s, y - 70 * s, 110 * s, 18 * s, 9 * s), P("#7C4A2D", a))
-    v2.flame(c, x, y - 70 * s, 60 * s, 110 * s, t, 1.0, seed=3, ang=-90)
+    c.drawRect(R(x - 190 * s, y - 60 * s, 380 * s, 300 * s), lin_paint(0, y - 60 * s, 0, y + 240 * s, ["#3B6EA8", "#1E3F6E"], a=a))   # jeans
+    pk = skia.Path()                                                      # the back pocket
+    pk.moveTo(x - 120 * s, y - 30 * s)
+    pk.lineTo(x + 120 * s, y - 30 * s)
+    pk.lineTo(x + 110 * s, y + 130 * s)
+    pk.lineTo(x, y + 180 * s)
+    pk.lineTo(x - 110 * s, y + 130 * s)
+    pk.close()
+    c.drawPath(pk, lin_paint(0, y - 30 * s, 0, y + 180 * s, ["#4A82C0", "#2C5A94"], a=a))
+    c.drawPath(pk, P("#F59E0B", 0.85 * a, stroke=4 * s))                  # stitching
+    for dx in (-112, 112):                                                # rivets
+        c.drawCircle(x + dx * s, y - 26 * s, 8 * s, P("#D4A64A", a))
+    for k in range(3):                                                    # a little campfire in the pocket
+        c.drawRRect(rr(x - 62 * s + k * 14 * s, y + 70 * s - k * 10 * s, 110 * s, 18 * s, 9 * s), P("#7C4A2D", a))
+    v2.flame(c, x, y + 66 * s, 70 * s, 150 * s, t, 1.0, seed=3, ang=-90)
     if cross > 0:
         k = e_out(clamp(cross))
-        c.drawLine(x - 120 * s, y - 190 * s, lerp(x - 120 * s, x + 120 * s, k), lerp(y - 190 * s, y + 140 * s, k), P(WARN, a, stroke=16 * s))
-        c.drawLine(x + 120 * s, y - 190 * s, lerp(x + 120 * s, x - 120 * s, k), lerp(y - 190 * s, y + 140 * s, k), P(WARN, a, stroke=16 * s))
+        c.drawLine(x - 150 * s, y - 110 * s, lerp(x - 150 * s, x + 150 * s, k), lerp(y - 110 * s, y + 210 * s, k), P(WARN, a, stroke=18 * s))
+        c.drawLine(x + 150 * s, y - 110 * s, lerp(x + 150 * s, x - 150 * s, k), lerp(y - 110 * s, y + 210 * s, k), P(WARN, a, stroke=18 * s))
 
 
 def packet(c, x, y, s, t, open_k=0.0, rust=0.0, air=0.0, xray=0.0, a=1.0):
@@ -408,7 +434,7 @@ def slope_scene(c, t, hours=0.0, fade_k=0.0):
     path.lineTo(W, H)
     path.lineTo(0, H)
     path.close()
-    c.drawPath(path, lin_paint(0, 760, 0, 1300, ["#FFFFFF", "#DBEAFE"]))
+    c.drawPath(path, lin_paint(0, 760, 0, H, ["#FFFFFF", "#C7D7EE", "#5B6F94"], [0.0, 0.35, 1.0]))
     u = (t * 0.12) % 1.0                                                  # a skier going down
     sx, sy = lerp(180, 900, u), lerp(800, 1030, u)
     c.save()
@@ -419,9 +445,10 @@ def slope_scene(c, t, hours=0.0, fade_k=0.0):
     person(c, 0, 0, 120, "#2563EB", t, pose="duck", face=1, hat="beanie")
     c.restore()
     clock(c, 850, 620, 95, 9.0 + hours, a=1.0)
-    c.save()                                                              # the pouch, going cold
-    c.translate(300, 1010)
-    c.scale(0.5, 0.5)
+    v2.glass(c, 70, 470, 420, 300, r=36, a=1.0, tint="#0B1226")              # the pouch, going cold, on a dark card
+    c.save()
+    c.translate(280, 620)
+    c.scale(0.55, 0.55)
     pouch(c, t, fill=1.0, cryst=1.0, heat=0.9 * (1 - fade_k), cold=fade_k * 0.6)
     c.restore()
 
@@ -486,7 +513,7 @@ class HandWarmer(EpisodeV2):
                    "L": {"name": "A HAND WARMER", "click": "CLICK!", "frozen": "FROZEN FINGERS", "where": "WHERE'S THE HEAT?",
                          "fill": "SALTY LIQUID", "chips": "SAME SALT AS SALT & VINEGAR CHIPS",
                          "cools": "COOLS DOWN...", "still": "STILL LIQUID", "push": "WAITING FOR A PUSH",
-                         "seed": "ONE TINY CRYSTAL", "domino": "THE REST FOLLOW", "brick": "HARD AS A BRICK",
+                         "seed": "ONE CRYSTAL STARTS", "domino": "THE REST FOLLOW", "brick": "HARD AS A BRICK",
                          "done": "USED UP?", "boil": "BOIL A FEW MINUTES", "melt": "CRYSTALS MELT BACK",
                          "hour": "COLD WITHIN AN HOUR", "ski": "SKI DAY: ALL DAY", "iron": "IRON + AIR = RUST + HEAT",
                          "hours": "WARM FOR HOURS", "trick": "IT GETS HOT BY FREEZING!", "out": "SOLID = HEAT OUT",
@@ -540,8 +567,8 @@ class HandWarmer(EpisodeV2):
         # ---- camera (pouch set)
         FULL = (0, 70, 1.0)
         LENS = (0, 150, 0.82)
-        cm = Camera(DISC[0] + 40, DISC[1] - 20, 2.5)
-        cm.key(0.05, DISC[0] + 30, DISC[1] - 10, 2.6, max(0.3, T["click"] - 0.05))
+        cm = Camera(DISC[0] + 80, DISC[1] + 10, 2.3)
+        cm.key(0.05, DISC[0] + 70, DISC[1] + 20, 2.45, max(0.3, T["click"] - 0.05))
         cm.key(max(0.6, T["click"] + 0.35), *FULL, max(0.6, T["crystals"] - T["click"] + 0.2))
         cm.key(s("break1") - 0.12, 0, 120, 1.05, 0.0)
         cm.key(s("fix1") - 0.12, *FULL, 0.0)
@@ -609,15 +636,16 @@ class HandWarmer(EpisodeV2):
             for k in range(18):
                 fx_ = rng.choice((-1, 1)) * rng.uniform(170, 330)
                 c.drawCircle(fx_, rng.uniform(20, 120), rng.uniform(3, 7), P("#E0F2FE", 0.5 + 0.4 * math.sin(t * 3 + k)))
-        if ph == "hook":
+        if ph == "hook":                                                  # the finger comes in and clicks
             k = 1 - prog(t, T["click"] + 0.5, T["click"] + 0.9)
-            fingertip(c, DISC[0] + 8, DISC[1] - 20, 1.0, press=press, a=k)
+            far = 1 - e_out(prog(t, 0.0, T["click"] - 0.05))
+            fingertip(c, DISC[0] + 8 + 90 * far, DISC[1] - 20 - 170 * far, 1.0, press=press, a=k)
         if ph == "fix2":
             k = prog(t, s("fix2"), s("fix2") + 0.3) * (1 - prog(t, T["click2"] + 0.5, T["click2"] + 0.9))
             fingertip(c, DISC[0] + 8, DISC[1] - 20, 1.0, press=press, a=k)
         if ph == "break3":                                                # a knuckle knocks on the solid pouch
-            kn = bump(t, T["hard"] - 0.1, T["hard"] + 0.3)
-            c.drawRRect(rr(120 - 10 * kn, -300 + 40 * kn, 120, 150, 50), P(SKIN, prog(t, s("break3"), s("break3") + 0.3)))
+            kn = bump(t, T["hard"] - 0.1, T["hard"] + 0.12) + bump(t, T["hard"] + 0.18, T["hard"] + 0.4)
+            fist(c, 150, -250 + 55 * kn, 1.0, a=prog(t, s("break3"), s("break3") + 0.3))
         c.restore()
         self.ui["cam"] = cam
 
@@ -651,7 +679,7 @@ class HandWarmer(EpisodeV2):
             self.chip(540, 300, "cools", T["cools"] - 0.2, T["stays"] - 0.2, accent="#7DD3FC", size=46)
             self.chip(540, 300, "still", T["stays"] - 0.2, T["push"] - 0.2, accent=WARN, size=46)
             self.chip(540, 300, "push", T["push"] - 0.2, s("fix2") - 0.15, accent=HILITE, size=46)
-            lens(c, 540, 560, 165, tw, "wander", a=self.span(T["stays"] - 0.4, s("fix2") - 0.12))
+            lens(c, 540, 510, 160, tw, "wander", a=self.span(T["stays"] - 0.4, s("fix2") - 0.12))
             thermometer(c, 960, 960, 1.15, lerp(0.75, 0.3, prog(tw, T["cools"], T["stays"])), hot=tw < T["stays"],
                         a=self.span(s("break2"), s("fix2") - 0.15))
             self.badge("alert", T["stays1"], s("fix2") - 0.2, x=920, y=440)
@@ -662,7 +690,7 @@ class HandWarmer(EpisodeV2):
             self.chip(540, 300, "seed", T["seed"] - 0.2, T["domino"] - 0.2, accent="#E0F2FE", size=46)
             self.chip(540, 300, "domino", T["domino"] - 0.2, s("break3") - 0.15, accent=GOOD, size=46)
             kl = self.span(T["seed"] - 0.3, T["domino"] - 0.1)
-            lens(c, 540, 560, 165, tw, "lock", k=prog(tw, T["seed"], T["domino"]), a=kl)
+            lens(c, 540, 510, 160, tw, "lock", k=prog(tw, T["seed"], T["domino"]), a=kl)
             dominoes(c, 230, 850, 640, tw, T["domino"] - 0.1, a=self.span(T["domino"] - 0.2, s("break3") - 0.15))
             self.badge("check", T["seed1"], s("break3") - 0.15, x=920, y=440)
             return
@@ -677,7 +705,7 @@ class HandWarmer(EpisodeV2):
         if ph == "reveal":
             self.chip(540, 300, "trick", T["freezing"] - 0.25, T["solid"] - 0.15, accent=HILITE, size=48)
             self.chip(540, 300, "out", T["solid"] - 0.15, s("stat") - 0.15, accent=WARMC, size=48)
-            lens(c, 540, 560, 165, tw, "lock", k=prog(tw, T["freezing"] - 0.2, T["boiled"] + 0.2), heat=1.0,
+            lens(c, 540, 510, 160, tw, "lock", k=prog(tw, T["freezing"] - 0.2, T["boiled"] + 0.2), heat=1.0,
                  a=self.span(T["freezing"] - 0.3, s("stat") - 0.12))
             return
 

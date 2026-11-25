@@ -98,3 +98,4 @@ episodes:
   - {slug: ep94-smokealarm, kit: smokealarm, look: sd}
   - {slug: ep95-falkirk, kit: falkirk, look: sd}
   - {slug: ep93-huajiang, kit: huajiang, look: sd}
+  - {slug: ep96-handwarmer, kit: handwarmer, look: 2}
