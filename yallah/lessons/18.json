@@ -1,0 +1,161 @@
+{
+ "title": "Clothes",
+ "slow_take": true,
+ "word": {
+  "full": "Traditional",
+  "parts": [
+   "Tradi",
+   "tional"
+  ],
+  "say": [
+   "truh-DIH",
+   "shuh-nul"
+  ],
+  "tts": [
+   "Tradi",
+   "Tional"
+  ],
+  "slow": "Tradi... tional.",
+  "mean": "تقليدي",
+  "ar": {
+   "ma": "تراديشنال",
+   "pa": "تراديشنال"
+  }
+ },
+ "en": [
+  [
+   "I'm looking for a jacket.",
+   "A",
+   "fe:coat",
+   {}
+  ],
+  [
+   "What size?",
+   "L",
+   "tag",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "Can I try it on?",
+   "A",
+   "fe:mirror",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "It's too big.",
+   "L",
+   "fe:shirt",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "«Taqlidi» b-l-inglizia fiha T kat-tqra «sh». Fin?",
+    "«تقليدي» بالإنجليزية فيها تي كتتقرا «ش». فين؟",
+    "“Taqlidi” in English has a T that sounds like “sh”. Where?"
+   ]
+  ],
+  "board": [
+   "تقليدي",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Kanqelleb 3la jakita.",
+    "كنقلب على جاكيطة."
+   ],
+   [
+    "Chmen qias?",
+    "شمن قياس؟"
+   ],
+   [
+    "Momken njerrebha?",
+    "ممكن نجربها؟"
+   ],
+   [
+    "Kbira bzaf.",
+    "كبيرة بزاف."
+   ],
+   [
+    "Hadi zwina bzaf!",
+    "هادي زوينة بزاف!"
+   ]
+  ],
+  "ph5": [
+   "It's perfect!",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "The djellaba is traditional Moroccan clothing.",
+   "hot": [
+    3
+   ],
+   "dz": "J-jellaba hiya l-lbas t-taqlidi l-maghribi.",
+   "ar": "الجلابة هي اللباس التقليدي المغربي."
+  },
+  "ah": [
+   "ترادي",
+   "شنال"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "«Taqlidi» bil-inglizi fiha T bit2ra «sh». Wein?",
+    "«تقليدي» بالإنجليزي فيها تي بتنقرا «ش». وين؟",
+    "“Taqlidi” in English has a T that sounds like “sh”. Where?"
+   ]
+  ],
+  "board": [
+   "تقليدي",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Badawwer 3ala jakeit.",
+    "بدور على جاكيت."
+   ],
+   [
+    "Ayya qiyas?",
+    "أي قياس؟"
+   ],
+   [
+    "Mumkin ajarrbo?",
+    "ممكن أجربه؟"
+   ],
+   [
+    "Kbir 3alayy.",
+    "كبير علي."
+   ],
+   [
+    "Mumtaz!",
+    "ممتاز!"
+   ]
+  ],
+  "ph5": [
+   "It's perfect!",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "The embroidered thobe is traditional Palestinian clothing.",
+   "hot": [
+    4
+   ],
+   "dz": "Et-thob el-mtarraz huwe el-libas et-taqlidi el-filastini.",
+   "ar": "الثوب المطرز هو اللباس التقليدي الفلسطيني."
+  },
+  "ah": [
+   "ترادي",
+   "شنال"
+  ]
+ }
+}

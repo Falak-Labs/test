@@ -1,0 +1,13 @@
+# Yallah Say, episode 18 (ma): five phrases, quiz, hard word (Traditional) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | تقليدي بالإنجليزية فيها تي كتتقرا ش. فين؟
+T | p01t | كنقلب على جاكيطة.
+T | p02t | شمن قياس؟
+T | p03t | ممكن نجربها؟
+T | p04t | كبيرة بزاف.
+T | p05t | هادي زوينة بزاف!
+T | tw | Traditional.
+T | w6 | Good job! Traditional!
+L | v1 | The djellaba is traditional Moroccan clothing.
+T | v2 | الجلابة هي اللباس التقليدي المغربي.
+T | Tsl | Tradi... tional.

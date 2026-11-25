@@ -1,0 +1,13 @@
+# Yallah Say, episode 18 (pa): five phrases, quiz, hard word (Traditional) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | تقليدي بالإنجليزي فيها تي بتنقرا ش. وين؟
+T | p01t | بدور على جاكيت.
+T | p02t | أي قياس؟
+T | p03t | ممكن أجربه؟
+T | p04t | كبير علي.
+T | p05t | ممتاز!
+T | tw | Traditional.
+T | w6 | Good job! Traditional!
+L | v1 | The embroidered thobe is traditional Palestinian clothing.
+T | v2 | الثوب المطرز هو اللباس التقليدي الفلسطيني.
+T | Tsl | Tradi... tional.

@@ -1,0 +1,12 @@
+# Yallah Say, episode 16 (ma): five phrases, quiz, hard word (Negotiate) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | آدم خلص ميتين درهم فصاك ديال مية. شنو نسى؟
+T | p01t | بشحال هادا؟
+T | p02t | غالي بزاف!
+T | p03t | ممكن تنقص شوية؟
+T | p04t | واخا، غادي ناخدو.
+T | p05t | عندك الصرف؟
+T | tw | Negotiate.
+T | w6 | Good job! Negotiate!
+T | v2 | فالسوق، خاصك تساوم!
+T | Tsl | Nego... tiate.

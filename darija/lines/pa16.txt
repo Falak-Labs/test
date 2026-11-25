@@ -1,0 +1,12 @@
+# Yallah Say, episode 16 (pa): five phrases, quiz, hard word (Negotiate) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | آدم دفع ميتين شيكل على شنطة بمية. شو نسي؟
+T | p01t | قديش هاد؟
+T | p02t | غالي كتير!
+T | p03t | ممكن تنزل شوي؟
+T | p04t | ماشي، باخدو.
+T | p05t | معك فراطة؟
+T | tw | Negotiate.
+T | w6 | Good job! Negotiate!
+T | v2 | بالسوق، لازم تفاصل!
+T | Tsl | Nego... tiate.

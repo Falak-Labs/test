@@ -1,0 +1,12 @@
+# Yallah Say, episode 16: the pupils' English lines that both dialects share (hard word: Negotiate).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | How much is this?
+L | p02k | It's too expensive!
+A | p03k | Can you lower the price?
+L | p04k | OK, I'll take it.
+A | p05k | Do you have change?
+A | w5 | Negotiate!
+L | v1 | In the souk, you have to negotiate!
+L | Lw | Negotiate!
+A | Asl | Nego... tiate.
+L | Lsl | Nego... tiate.

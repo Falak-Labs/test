@@ -1,0 +1,12 @@
+# Yallah Say, episode 17: the pupils' English lines that both dialects share (hard word: Receipt).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | A kilo of onions, please.
+L | p02k | Half a kilo of tomatoes.
+A | p03k | Is it fresh?
+L | p04k | Anything else?
+A | p05k | That's all, thank you.
+A | w5 | Receipt!
+L | v1 | Can I have the receipt, please?
+L | Lw | Receipt!
+A | Asl | Re... ceipt.
+L | Lsl | Re... ceipt.

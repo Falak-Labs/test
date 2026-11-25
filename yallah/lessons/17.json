@@ -1,0 +1,161 @@
+{
+ "title": "Fruit and vegetables",
+ "slow_take": true,
+ "word": {
+  "full": "Receipt",
+  "parts": [
+   "Re",
+   "ceipt"
+  ],
+  "say": [
+   "ri",
+   "SEET"
+  ],
+  "tts": [
+   "Ri",
+   "Seet"
+  ],
+  "slow": "Re... ceipt.",
+  "mean": "الفاتورة",
+  "ar": {
+   "ma": "ريسيت",
+   "pa": "ريسيت"
+  }
+ },
+ "en": [
+  [
+   "A kilo of onions, please.",
+   "A",
+   "onion",
+   {}
+  ],
+  [
+   "Half a kilo of tomatoes.",
+   "L",
+   "fe:tomato",
+   {}
+  ],
+  [
+   "Is it fresh?",
+   "A",
+   "fe:leafy",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "Anything else?",
+   "L",
+   "what",
+   {
+    "q": 1
+   }
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Lina qrat «Re-sipt» b-l-P. Wach s7i7?",
+    "لينا قرات «ري-سيبت» بالبي. واش صحيح؟",
+    "Lina said “Re-sipt” with the P. Is she right?"
+   ]
+  ],
+  "board": [
+   "الفاتورة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Kilo d l-bsla, 3afak.",
+    "كيلو د البصلة، عافاك."
+   ],
+   [
+    "Ness kilo d maticha.",
+    "نص كيلو د ماطيشا."
+   ],
+   [
+    "Wach tri?",
+    "واش طري؟"
+   ],
+   [
+    "Chi 7aja khra?",
+    "شي حاجة خرى؟"
+   ],
+   [
+    "Safi, choukran.",
+    "صافي، شكرا."
+   ]
+  ],
+  "ph5": [
+   "That's all, thank you.",
+   "A",
+   "flower",
+   {}
+  ],
+  "sent": {
+   "en": "Can I have the receipt, please?",
+   "hot": [
+    4
+   ],
+   "dz": "Momken l-fatura, 3afak?",
+   "ar": "ممكن الفاتورة، عافاك؟"
+  },
+  "ah": [
+   "ري",
+   "سيت"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Lina 2arat «Re-sipt» bil-P. Sa7?",
+    "لينا قرأت «ري-سيبت» بالبي. صح؟",
+    "Lina said “Re-sipt” with the P. Is she right?"
+   ]
+  ],
+  "board": [
+   "الفاتورة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Kilo basal, law samaht.",
+    "كيلو بصل، لو سمحت."
+   ],
+   [
+    "Nuss kilo bandora.",
+    "نص كيلو بندورة."
+   ],
+   [
+    "Tazaj?",
+    "طازج؟"
+   ],
+   [
+    "Ishi tani?",
+    "إشي تاني؟"
+   ],
+   [
+    "Bas, shukran.",
+    "بس، شكرا."
+   ]
+  ],
+  "ph5": [
+   "That's all, thank you.",
+   "A",
+   "flower",
+   {}
+  ],
+  "sent": {
+   "en": "Can I have the receipt, please?",
+   "hot": [
+    4
+   ],
+   "dz": "Mumkin el-fatura, law samaht?",
+   "ar": "ممكن الفاتورة، لو سمحت؟"
+  },
+  "ah": [
+   "ري",
+   "سيت"
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+# Yallah Say, episode 18: the pupils' English lines that both dialects share (hard word: Traditional).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | I'm looking for a jacket.
+L | p02k | What size?
+A | p03k | Can I try it on?
+L | p04k | It's too big.
+A | p05k | It's perfect!
+A | w5 | Traditional!
+L | Lw | Traditional!
+A | Asl | Tradi... tional.
+L | Lsl | Tradi... tional.

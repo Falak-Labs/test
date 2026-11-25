@@ -1,0 +1,166 @@
+{
+ "title": "How much is this?",
+ "slow_take": true,
+ "word": {
+  "full": "Negotiate",
+  "parts": [
+   "Nego",
+   "tiate"
+  ],
+  "say": [
+   "ni-GO",
+   "shee-ayt"
+  ],
+  "tts": [
+   "Nego",
+   "Tiate"
+  ],
+  "slow": "Nego... tiate.",
+  "mean": "تساوم",
+  "ar": {
+   "ma": "نيغوشييت",
+   "pa": "نيغوشييت"
+  }
+ },
+ "en": [
+  [
+   "How much is this?",
+   "A",
+   "tag",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "It's too expensive!",
+   "L",
+   "pricey",
+   {}
+  ],
+  [
+   "Can you lower the price?",
+   "A",
+   "down",
+   {
+    "q": 1
+   }
+  ],
+  [
+   "OK, I'll take it.",
+   "L",
+   "bag",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Adam khelles 200 dirham f-sak dyal 100. Chnou nsa?",
+    "آدم خلص ميتين درهم فصاك ديال مية. شنو نسى؟",
+    "Adam paid 200 dirhams for a 100-dirham bag. What did he forget?"
+   ]
+  ],
+  "board": [
+   "تساوم",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Bch7al hada?",
+    "بشحال هادا؟"
+   ],
+   [
+    "Ghali bzaf!",
+    "غالي بزاف!"
+   ],
+   [
+    "Momken tnqes chwiya?",
+    "ممكن تنقص شوية؟"
+   ],
+   [
+    "Wakha, ghadi nakhdo.",
+    "واخا، غادي ناخدو."
+   ],
+   [
+    "3ndek s-sarf?",
+    "عندك الصرف؟"
+   ]
+  ],
+  "ph5": [
+   "Do you have change?",
+   "A",
+   "coins",
+   {
+    "q": 1
+   }
+  ],
+  "sent": {
+   "en": "In the souk, you have to negotiate!",
+   "hot": [
+    6
+   ],
+   "dz": "F-s-souq, khassek tsawem!",
+   "ar": "فالسوق، خاصك تساوم!"
+  },
+  "ah": [
+   "نيغو",
+   "شييت"
+  ]
+ },
+ "pa": {
+  "hook": [
+   [
+    "Adam dafa3 200 shekel 3ala shanta b-100. Shu nisi?",
+    "آدم دفع ميتين شيكل على شنطة بمية. شو نسي؟",
+    "Adam paid 200 shekels for a 100-shekel bag. What did he forget?"
+   ]
+  ],
+  "board": [
+   "تفاصل",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Addeish hada?",
+    "قديش هاد؟"
+   ],
+   [
+    "Ghali ktir!",
+    "غالي كتير!"
+   ],
+   [
+    "Mumkin tnazzel shwayy?",
+    "ممكن تنزل شوي؟"
+   ],
+   [
+    "Mashi, bakhdo.",
+    "ماشي، باخدو."
+   ],
+   [
+    "Ma3ak fraata?",
+    "معك فراطة؟"
+   ]
+  ],
+  "ph5": [
+   "Do you have change?",
+   "A",
+   "coins",
+   {
+    "q": 1
+   }
+  ],
+  "sent": {
+   "en": "In the souk, you have to negotiate!",
+   "hot": [
+    6
+   ],
+   "dz": "Bis-souq, lazem tfasel!",
+   "ar": "بالسوق، لازم تفاصل!"
+  },
+  "ah": [
+   "نيغو",
+   "شييت"
+  ],
+  "mean": "تفاصل"
+ }
+}

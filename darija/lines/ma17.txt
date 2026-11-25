@@ -1,0 +1,12 @@
+# Yallah Say, episode 17 (ma): five phrases, quiz, hard word (Receipt) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | لينا قرات ري-سيبت بالبي. واش صحيح؟
+T | p01t | كيلو د البصلة، عافاك.
+T | p02t | نص كيلو د ماطيشا.
+T | p03t | واش طري؟
+T | p04t | شي حاجة خرى؟
+T | p05t | صافي، شكرا.
+T | tw | Receipt.
+T | w6 | Good job! Receipt!
+T | v2 | ممكن الفاتورة، عافاك؟
+T | Tsl | Re... ceipt.
