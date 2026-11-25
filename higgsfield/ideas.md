@@ -1177,6 +1177,7 @@ New content
   [Carrier history](https://www.carrier.com/us/en/history/invention-of-air-conditioning/),
   [Quartz](https://qz.com/1284239/70-of-saudi-arabias-electricity-is-used-for-air-conditioning),
   [IEA](https://www.iea.org/news/electricity-demand-is-surging-across-the-middle-east-and-north-africa-driven-by-cooling-and-desalination-needs)
+<<<<<<< HEAD
 
 ## 2026-11-24 18:00 PT (hourly runner, cloud run)
 
@@ -1252,3 +1253,5 @@ New content
   cost $3), with clips of 2-30 s and 9:16 among the ratios; fal says outputs "can be used in commercial projects".
   Wan 3 itself is new to these notes: if its weights come out under an open licence, the ZeroGPU route above may carry
   it too. [fal.ai, Wan 3](https://fal.ai/wan-video-free)
+=======
+>>>>>>> 80658bf (Higgsfield: falkirk-A done, falkirk-B started)
