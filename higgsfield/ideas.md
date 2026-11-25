@@ -961,3 +961,102 @@ New content
   [AIP, Nov 22 2017](https://www.aip.org/inside-science/brief-how-pop-up-turkey-timers-work),
   [HowStuffWorks](https://home.howstuffworks.com/pop-up-timer.htm),
   [ThermoWorks, Oct 30 2025](https://blog.thermoworks.com/the-pop-up-timer-is-bad/)
+
+## 2026-11-24 15:59 PT (hourly runner, cloud run)
+
+Trends
+- Still nothing new for science or "how it works": Virlo's November page says "Updated November 24, 2026" but none of
+  its trends was first seen after Nov 20 (its top 10 from Aug 27 to Nov 8), SocialPilot is still its Nov 17 edition,
+  and Stack Influence's creator-news roundup (Nov 17) has nothing after the week of Nov 12. Nothing to change.
+  [Virlo](https://virlo.ai/trends/2026-11), [SocialPilot](https://www.socialpilot.co/blog/tiktok-trends),
+  [Stack Influence, Nov 17 2026](https://stackinfluence.com/blog/november-2026-social-media-news-and-updates-for-creators)
+
+Rights and free footage
+- Our Higgsfield clips and stills are ours to monetize: Higgsfield's help page (Aug 2 2026) says "You own your
+  outputs" (Terms 4.4: it "does not claim ownership of your inputs ... or your outputs"), "The Terms of Use do not
+  restrict commercial use of outputs", naming "YouTube monetization", commercial use is not restricted to paid plans,
+  and "Paid plans include watermark-free downloads". Limits: no training AI models on them, and third-party copyright,
+  trademark and likeness stay our job (one more reason for no logos and no real faces). It says nothing about the
+  model makers' own terms (ByteDance for Seedance). Build-It use: post them on both channels' monetized accounts as we
+  do, with the AI label.
+  [Higgsfield help, Aug 2 2026](https://higgsfield.ai/creator-hub/help-center/account/who-owns-my-generations-and-can-i-use-them-commercially)
+- NASA pictures and film for monetized posts (NASA Brand Center, "Images and media"): NASA content "generally are not
+  subject to copyright in the United States"; for commercial use "it must not explicitly or implicitly convey NASA's
+  endorsement of commercial goods or services"; "NASA should be acknowledged as the source of the material"; the
+  "Insignia, Logotype and NASA identifiers" are "protected by law"; current astronauts and employees "cannot have their
+  names, likenesses or other personality traits displayed"; third-party pictures on NASA's sites are marked "copyright
+  protected" and need the holder's permission. Where: the NASA Image and Video Library, JPL Photojournal. Build-It
+  use: LINEUP avoids far-away space pictures, so use it on the ground (test-stand, wind-tunnel and drop-test film for a
+  fix line) or look there for an astronaut photo of Earth that shows a giant build from orbit for line 11. Credit
+  "NASA" in the description; no logos, no faces.
+  [NASA Brand Center](https://nasa.gov/nasa-brand-center/images-and-media)
+- Pixabay, one more no-credit library (the Nov 23 21:55 list had Coverr, Mixkit, Pexels): its licence summary covers
+  "high quality stock images, videos and music": "Use Content for free", "without having to attribute the author",
+  "Modify or adapt Content into new works"; not allowed: selling or distributing it "on a Standalone basis" (no creative
+  effort applied), or recognisable trademarks and logos "for commercial purposes in relation to goods and services".
+  The summary adds that "only the full Content License is legally binding" (that page did not load here) and says
+  nothing about Content ID, so try any Pixabay music on one upload first. Build-It use: real B-roll for the everyday builds where
+  Seedance struggles (hands, kitchens, car interiors).
+  [Pixabay licence summary](https://pixabay.com/service/license-summary/)
+- Meta AI's Vibes is no clean video source after Nov 28: free "For now, yes. But that's likely to change", each prompt
+  gives "4 video variations you can download" (Metricool, Feb 11 2026, upd. May 25), but Meta "does not publish a
+  universal quota" or "a universal video duration or resolution" and sells Core ($7.99 a month) and Premium ($19.99)
+  bundles (Magic Hour, a rival, checked Sep 13 2026); neither page nor Meta's own help page states rights for
+  commercial use. Build-It use: none until Meta's AI terms say so; the Nov 28 plan stands.
+  [Metricool](https://metricool.com/meta-vibes/), [Magic Hour](https://magichour.ai/blog/meta-ais-vibes-feed),
+  [Meta help](https://www.meta.com/help/artificial-intelligence/1337455336906126/)
+- Checked, not useful yet: the Library of Congress National Screening Room ("nearly 1,300 works", WTOP, Mar 2026)
+  holds films "both copyrighted and in the public domain"; only its U.S.-government films are stated free "even for
+  commercial purposes" (LOC Labs' Citizen DJ page, which hands out audio samples, not video). Read each film's own
+  rights line before using one.
+  [WTOP, Mar 2026](https://wtop.com/matt-about-town/2026/03/exploring-the-library-of-congress-national-screening-room-a-vast-collection-of-free-online-films),
+  [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-national-screening-room/use/)
+
+New content
+- Instant noodles (LINEUP 99), the checks its entry asks for. History.com: Ando "develops Chicken Ramen, the
+  first-ever instant noodles, on August 25, 1958" "After a year of tinkering in his garden shed"; the idea came "while
+  watching his wife make tempura": "the hot frying oil was drawing the moisture out of the flour coating"; the noodles
+  "take two minutes to cook"; it "was sold as a luxury item. Costing about six times more than fresh noodles" (the
+  tempura and the two minutes are in History.com only: check). How (Nippon.com, 2013): "deep-frying the noodles in oil
+  for two minutes at 160°C"; "As the water boils away, it leaves lots of small holes", and "those holes are quickly
+  filled by the permeating water"; kept "for up to six months without being refrigerated" (CSM, 2015: it "boils away
+  the water inside the noodles so quickly that it leaves lots of tiny holes"). Cup Noodles, 1971: "Middle Suspension":
+  "the noodles are less likely to break" and "since there is a space at the bottom of the cup, hot water can circulate
+  thoroughly from below" (Consumerist 2010, quoting the Osaka ramen museum); Nissin HK: "Noodles will not be crushed
+  easily during delivery" and "can be rehydrated evenly"; foam cups "insulate heat well" (Wikipedia). Line 12:
+  "Worldwide consumption reached 124.21 billion servings in 2025, up about 0.7 percent from 123.31 billion a year
+  earlier"; China and Hong Kong 43.27 billion, Indonesia 14.54, India 9.60 (The Standard, Aug 24 2026, WINA figures).
+  Not found yet: an Arab country's figure (WINA's ranking page was down for maintenance; the Saudi results are paid
+  market reports) and the story of Ando seeing noodles broken into a cup in the US. Ready shots (Ando only from
+  behind): A1 macro of a noodle brick dropped into 160 C oil, steam bursting out of every strand; a macro cutaway of a
+  fried strand full of tiny holes, hot water rushing in and the strand going soft; a noodle brick wedged mid-cup,
+  boiling water swirling underneath it; B6 funny slow motion, a cup lid peeled back too early and one noodle springs
+  out and sticks to the ceiling, hands only.
+  [History.com](https://www.history.com/this-day-in-history/first-instant-ramen-invented-momofuku-ando-1958),
+  [Nippon.com, 2013](https://www.nippon.com/en/articles/-/13212),
+  [CSM, Mar 5 2015](https://csmonitor.com/Science/Science-Notebook/2015/0305/Momofuku-Ando-s-secret-to-instant-ramen-tiny-holes-in-the-noodles),
+  [Consumerist, Aug 2 2010](https://consumerist.com/2010/08/02/mystery-of-the-hidden-space-in-every-box-of-ramen-noodles-revealed),
+  [Nissin HK](https://nissinfoods.com.hk/eng/about-nissin/our-founder/1971),
+  [Wikipedia](https://en.wikipedia.org/wiki/Cup_Noodles),
+  [The Standard, Aug 24 2026](https://www.thestandard.com.hk/news/article/340748/Global-instant-noodle-demand-tops-124-billion-servings-China-and-Hong-Kong-lead)
+- Checks for the next two builds in the queue (a short note is in each job's comments too). Smoke alarm (94): a newer
+  NFPA edition than the 2007-2011 one in the queue (Marty Ahrens, "Smoke Alarms in U.S. Home Fires", January 2019,
+  2012-2016 data): "Almost three out of five home fire deaths in 2012-2016 were caused by fires in properties with no
+  smoke alarms (40%) or smoke alarms that failed to operate (17%)"; of the alarms that failed, about 43% had missing or
+  disconnected batteries and 25% dead or discharged ones (read off its Figure 6A; battery-only alarms 51% and 32%);
+  "The risk of dying in reported home structure fires is 54% lower in homes with working smoke alarms than in homes
+  with no alarms or none that worked". NFPA may have a newer edition still: look on nfpa.org before a line uses a
+  number. Statitrol "was founded in 1963", and "a technician, smoking in the laboratory, could destroy the output of
+  the neutralizer", measured "by a battery powered ion meter" (WPI's Pearsall archive; no year for that day).
+  Falkirk Wheel (95), from Scottish Canals, which runs it: "a half-turn that takes only five minutes!", "just 1.5kWh for
+  each rotation", "the vast, 1800 tonne boat lift", "opened in 2002", and the 11 locks it "replaced" took "a day's
+  heavy work opening and closing 44 lock gates"; the skipper's guide speaks of "the 15-minute rotation" (the whole
+  passage). ASME (Oct 31 2011): each gondola "contains at least 250,000L of water and can carry up to eight boats at a
+  time", "five and one-half minutes" for 180 degrees, "15 minutes to move boats from one level to the next", "just 22.5
+  kW to power the electric motors", "The 35-m-high, 1,500-tonne structure". For the script: five minutes a turn, a
+  quarter of a million litres a gondola, 44 gates, and no tonnage (the sources disagree).
+  [NFPA via Maine FMO, Jan 2019](https://www1.maine.gov/dps/fmo/sites/maine.gov.dps.fmo/files/inline-files/nfpa_smoke_alarms_in_u.s._home_fires.pdf),
+  [WPI archives](https://wpiarchives.omeka.net/exhibits/show/duanepearsall/venturecapitalism/statitrolcorp),
+  [Scottish Canals](https://www.scottishcanals.co.uk/falkirk-wheel/),
+  [Scottish Canals skipper's guide](https://www.scottishcanals.co.uk/boating/canal-travel/union-canal-skippers-guide/maps/voyaging-through-the-falkirk-wheel),
+  [ASME, Oct 31 2011](https://www.asme.org/topics-resources/content/symbol-of-the-millennium-the-falkirk-wheel)

@@ -867,6 +867,11 @@ jobs:
     # homes" had one by the end of 1975, "roughly 90 percent" by 1990 (IEEE Spectrum, Consumer Electronics Hall of
     # Fame). The poison-gas-sensor story (ideas.md Nov 24 08:10) is in neither page: check. No faces: ceilings, hands,
     # smoke, a dog; the towel man in B6 is the one person.
+    # Checked (hourly runner, Nov 24 16:05 PT; sources in ideas.md Nov 24 15:59): a newer NFPA edition (Jan 2019,
+    # 2012-2016 data): "Almost three out of five home fire deaths" came from fires with "no smoke alarms (40%) or smoke
+    # alarms that failed to operate (17%)"; of those that failed, about 43% had missing or disconnected batteries and
+    # 25% dead ones (read off its Figure 6A); "The risk of dying ... is 54% lower in homes with working smoke alarms".
+    # Statitrol "was founded in 1963" (WPI's Pearsall archive, which tells the smoking-technician story with no year).
     # NOT STARTED (hourly runner, 14:06 PT): the main chat marked it "generating (started: Nov 24 14:06 PT ...;
     # confirmed by the one-at-a-time toast)", but History (MCP show_generations, all states) at 14:03, 14:05 and 14:06
     # has no smoke-alarm card: the only job running is f63aa12b (created 14:02:45 PT, 16:9, huajiang-B's leftover text
@@ -932,6 +937,12 @@ jobs:
     # welding them" (ICE; the fix is B1). Check before use: the time of one lift ("about five minutes", Practical
     # Engineering; "about 10 minutes", ICE), the water per gondola (500,000 litres ICE, 250,000 Wikipedia) and the
     # steel (1,200 t ICE, 1,500 t ASME). More in ideas.md (Nov 24 10:05 and 12:05). No faces, flags, signs or writing.
+    # Checked (hourly runner, Nov 24 16:05 PT; sources in ideas.md Nov 24 15:59): Scottish Canals, which runs it: "a
+    # half-turn that takes only five minutes!", "just 1.5kWh for each rotation", the 11 locks were "a day's heavy work
+    # opening and closing 44 lock gates"; ASME (Oct 31 2011): each gondola "contains at least 250,000L of water", "five
+    # and one-half minutes" for 180 degrees and "15 minutes to move boats from one level to the next" (the whole
+    # passage). So say five minutes and a quarter of a million litres; the weight differs again ("1800 tonne" Scottish
+    # Canals, "1,500-tonne" ASME): leave it out.
     status: todo
     file: buildit-falkirk-sdA.mp4
     shots: >-
