@@ -1,4 +1,4 @@
-# Post status 2026-11-25T08:43:20+00:00
+# Post status 2026-11-25T19:30:40+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -408,26 +408,26 @@
 | ep78-airfryer | ar.tiktok | sent |  | 2026-11-25T08:02:17.777Z https://tiktok.com/@kef.tenbeni/video/7712015940736601357 |
 | ep78-airfryer | en.instagram | sent |  | 2026-11-25T05:01:26.824Z https://www.instagram.com/reel/DgJutLuTBXS/ |
 | ep78-airfryer | en.tiktok | sent |  | 2026-11-25T05:01:27.659Z https://tiktok.com/@congratsengineer/video/7711969467135282445 |
-| ep79-kuwaittowers | ar.instagram | scheduled |  | 2026-11-25T10:30:00.000Z |
-| ep79-kuwaittowers | ar.tiktok | scheduled |  | 2026-11-25T10:30:00.000Z |
+| ep79-kuwaittowers | ar.instagram | sent |  | 2026-11-25T10:32:09.581Z https://www.instagram.com/reel/DgKUj97h1N1/ |
+| ep79-kuwaittowers | ar.tiktok | sent |  | 2026-11-25T10:31:16.834Z https://tiktok.com/@kef.tenbeni/video/7712054536130546957 |
 | ep79-kuwaittowers | en.instagram | sent |  | 2026-11-25T07:31:47.220Z https://www.instagram.com/reel/DgJ_6OPMtRL/ |
 | ep79-kuwaittowers | en.tiktok | sent |  | 2026-11-25T07:30:58.738Z https://tiktok.com/@congratsengineer/video/7712007914365406478 |
-| ep80-fountain | ar.instagram | scheduled |  | 2026-11-25T13:00:00.000Z |
-| ep80-fountain | ar.tiktok | scheduled |  | 2026-11-25T13:00:00.000Z |
-| ep80-fountain | en.instagram | scheduled |  | 2026-11-25T10:00:00.000Z |
-| ep80-fountain | en.tiktok | scheduled |  | 2026-11-25T10:00:00.000Z |
-| ep81-zipper | ar.instagram | scheduled |  | 2026-11-25T15:30:00.000Z |
-| ep81-zipper | ar.tiktok | scheduled |  | 2026-11-25T15:30:00.000Z |
-| ep81-zipper | en.instagram | scheduled |  | 2026-11-25T12:30:00.000Z |
-| ep81-zipper | en.tiktok | scheduled |  | 2026-11-25T12:30:00.000Z |
-| ep82-hzmb | ar.instagram | scheduled |  | 2026-11-25T18:00:00.000Z |
-| ep82-hzmb | ar.tiktok | scheduled |  | 2026-11-25T18:00:00.000Z |
-| ep82-hzmb | en.instagram | scheduled |  | 2026-11-25T15:00:00.000Z |
-| ep82-hzmb | en.tiktok | scheduled |  | 2026-11-25T15:00:00.000Z |
+| ep80-fountain | ar.instagram | sent |  | 2026-11-25T13:04:11.424Z https://www.instagram.com/reel/DgKl7nZSB1N/ |
+| ep80-fountain | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T13:00:00.000Z |
+| ep80-fountain | en.instagram | sent |  | 2026-11-25T10:02:07.169Z https://www.instagram.com/reel/DgKRGonORKO/ |
+| ep80-fountain | en.tiktok | sent |  | 2026-11-25T10:02:32.773Z https://tiktok.com/@congratsengineer/video/7712047017408744718 |
+| ep81-zipper | ar.instagram | sent |  | 2026-11-25T15:33:06.588Z https://www.instagram.com/reel/DgK27KAhyXL/ |
+| ep81-zipper | ar.tiktok | sent |  | 2026-11-25T15:32:04.049Z https://tiktok.com/@kef.tenbeni/video/7712132020247268621 |
+| ep81-zipper | en.instagram | sent |  | 2026-11-25T12:32:11.967Z https://www.instagram.com/reel/DgKiStjsTCI/ |
+| ep81-zipper | en.tiktok | sent |  | 2026-11-25T12:31:20.557Z https://tiktok.com/@congratsengineer/video/7712085483958013197 |
+| ep82-hzmb | ar.instagram | sent |  | 2026-11-25T18:05:27.346Z https://www.instagram.com/reel/DgLIY04OcDI/ |
+| ep82-hzmb | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T18:00:00.000Z |
+| ep82-hzmb | en.instagram | sent |  | 2026-11-25T15:04:22.302Z https://www.instagram.com/reel/DgKztGXMQHm/ |
+| ep82-hzmb | en.tiktok | sent |  | 2026-11-25T15:05:25.655Z https://tiktok.com/@congratsengineer/video/7712124938336914718 |
 | ep83-thermos | ar.instagram | scheduled |  | 2026-11-25T20:30:00.000Z |
 | ep83-thermos | ar.tiktok | scheduled |  | 2026-11-25T20:30:00.000Z |
-| ep83-thermos | en.instagram | scheduled |  | 2026-11-25T17:30:00.000Z |
-| ep83-thermos | en.tiktok | scheduled |  | 2026-11-25T17:30:00.000Z |
+| ep83-thermos | en.instagram | sent |  | 2026-11-25T17:33:46.501Z https://www.instagram.com/reel/DgLEtoVKwPM/ |
+| ep83-thermos | en.tiktok | sent |  | 2026-11-25T17:33:00.153Z https://tiktok.com/@congratsengineer/video/7712163099251576077 |
 | ep84-hooverdam | ar.instagram | scheduled |  | 2026-11-25T23:00:00.000Z |
 | ep84-hooverdam | ar.tiktok | scheduled |  | 2026-11-25T23:00:00.000Z |
 | ep84-hooverdam | en.instagram | scheduled |  | 2026-11-25T20:00:00.000Z |
