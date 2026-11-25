@@ -1883,3 +1883,63 @@ New content
   [CERN, Oct 16 2008](https://home.cern/cern-releases-analysis-of-lhc-incident),
   [Physics World, Oct 17 2008](https://physicsworld.com/a/lhc-report-confirms-electrical-fault/),
   [Physics Today, Oct 1 2009](https://physicstoday.aip.org/news/mostly-recovered-the-lhc-readies-for-restart)
+
+## 2026-11-25 03:00 PT (hourly runner, cloud run)
+
+Trends
+- YouTube is testing a viewer question, "Does this feel like AI slop?" (new to these notes): a rating pop-up beside
+  like and dislike, answers "from 'Not at all' to 'Extremely'", and "it appears the new strategy is in a limited
+  testing phase" (Notebookcheck, Mar 18 2026, upd. Oct 5 2026, going by a vidIQ post: YouTube is not quoted, no effect
+  on reach is reported and Shorts are not named). YouTube's own word on its AI labels (May 2026, quoted by Futurism)
+  is that they "won't 'change how a video is recommended or whether it's eligible to earn money'"; on Shorts the label
+  is an overlay at the bottom of the video. Build-It use: all our footage is AI, so what can earn a "Not at all" is a
+  real build with sourced numbers in clean frames: at QA, cut any shot with AI tells (bent or made-up lettering,
+  melting hands or faces) rather than cover it with a caption (the queue's no-hands, no-faces, no-writing rules
+  already remove most). Still open since the Nov 23 23:55 entry: the desk's upload code (YOUTUBE_STUDIO_UPLOAD.md,
+  step 5) clicks VIDEO_HAS_ALTERED_CONTENT_NO on every video, though its text says to answer the AI question
+  truthfully, and youtube/ledger.json lists 19 desk uploads of Seedance builds 78-88 (EN 80-88, AR 78-87) between
+  16:49 and 17:07 PT Nov 24 without the answer given (Studio shows it). YouTube's help page in that entry asks for
+  disclosure of realistic AI scenes of real places and events, which is what these builds show: a question for the
+  main chat and the owner, not for this runner.
+  [Notebookcheck, Mar 18 2026](https://www.notebookcheck.net/YouTube-now-asks-viewers-to-detect-generative-AI-slop-when-rating-videos.1253227.0.html),
+  [Futurism, May 28 2026](https://futurism.com/artificial-intelligence/youtube-scanning-labeling-ai-slop)
+- Checked, nothing for our formats: Stack Influence's November roundup (Nov 17 2026, "updated every week") has TikTok
+  Shop Plus, TikTok's Must Eat restaurant guide ("launched October 28"), YouTube's AI "Replace song" instrumentals for
+  claimed songs ("expanded on November 3 to most countries outside the European Economic Area"; we use no library
+  music) and Meta's Facebook creator assistant; nothing on Shorts or Reels lengths, thumbnails or the reach of AI video.
+  [Stack Influence, Nov 17 2026](https://stackinfluence.com/blog/november-2026-social-media-news-and-updates-for-creators)
+
+Free footage and pictures
+- Modal's free $30 a month, a bigger GPU budget than ZeroGPU for open video models after Nov 28 (new to these notes):
+  the Starter plan is "$0 + compute / month" with "$30 / month free credits", GPUs billed by the second: L4
+  "$0.000222 / sec" (about $0.80 an hour), A100 80 GB "$0.000694 / sec" (about $2.50), H100 "$0.001097 / sec" (about
+  $3.95) (Modal's pricing page, read Nov 25 2026; it states no card rule; costbench, verified Nov 21 2026, contradicts
+  itself on the credit, so go by Modal's page). Rough arithmetic, untested: $30 is about 12 hours of A100 80 GB, and a
+  FastWan2.2-TI2V-5B call took 60-90 s of GPU on ZeroGPU (Nov 24 18:00 entry), so even if Modal's cards run slower and
+  loading the model adds minutes, that is a few hundred 5-8 s clips a month against ZeroGPU's "5 minutes" a day.
+  Modal runs code, not a notebook: a GitHub Actions workflow could send it one image-to-video job (Wan 2.2 or LTX-2.5,
+  licence in the 00:57 entry) from our unlimited 2K stills and keep the clip in ai-media as Fetch media does, with the
+  owner's own Modal token saved as a repo secret (we never type codes). Kaggle is free too, "12 hours execution time"
+  a session on "T4 and P100 class" cards and about 30 hours a week by users' reports (the weekly figure is not in
+  Kaggle's docs), but those 16 GB cards sit right at LTX-2.5's stated 16 GB minimum, so Modal's 24-80 GB cards (L4 up
+  to H100) are the likelier home. Gone: Amazon SageMaker Studio Lab, "no longer open to new customers" (gpuperhour,
+  Sep 21 2026). Not tried; needs the owner's accounts and his OK.
+  [Modal pricing](https://modal.com/pricing),
+  [gpuperhour, Sep 21 2026](https://gpuperhour.com/blog/free-cloud-gpus-and-credits),
+  [costbench, Nov 21 2026](https://www.costbench.com/software/ai-gpu-cloud/modal/free-plan/)
+- The Brooklyn Bridge (105), real pictures that are free (new to these notes; its facts and shots are in the 00:57
+  entry): the Center for Brooklyn History's "Brooklyn Bridge" (BRID_0109, "[188-?]", Brooklyn Daily Eagle photographs,
+  "3 photographic prints : black & white, gelatin silver", men at work on the bridge; the record ties in BRID 0111 and
+  0041, a man riding a seat hung from a cable) says "This work is in the Public Domain. The Center for Brooklyn History
+  at Brooklyn Public Library can provide a copy of this work free of charge" (no download size on the page: the copy
+  is asked for). The National Archives' photo of the Manhattan tower (NARA ID 169144223, Bureau of Public Roads
+  records, "Photograph from the Library of Congress"; caption "Greatest span 1595 1/2 feet. Bridge opened May 24,
+  1883.", the span AISC gives and a third source for May 24) is marked "Public Domain, Free of Known Copyright
+  Restrictions" on DocsTeach, with a download button (size not stated; DocsTeach's own CC BY-NC-SA covers only its own
+  text). Not free: RPI's Roebling Collection ("All rights reserved. Permission of the Institute Archives and Special
+  Collections required for use and reproduction"); the Library of Congress item pages would not open here. Build-It
+  use: one framed black-and-white insert with a slow zoom for line 12 or 13 of 105 (the cable rider would make a
+  strong closer: read 0041's own record first), faces small and far, no portraits.
+  [Center for Brooklyn History, BRID_0109](https://www.bklynlibrary.org/digitalcollections/item/8659df83-4c89-4ec3-9f73-58d1ff16b6a9),
+  [DocsTeach, NARA 169144223](https://www.docsteach.org/documents/document/brooklyn-bridge),
+  [RPI, Roebling Collection](https://digitalassets.archives.rpi.edu/node/337)
