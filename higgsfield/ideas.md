@@ -1810,3 +1810,76 @@ New content
   [AISC Modern Steel, June 2011](https://www.aisc.org/globalassets/modern-steel/archives/2011/06/2011v06_brooklyn_bridge.pdf),
   [STRUCTURE, Nov 2016](https://www.structuremag.org/article/brooklyn-bridge-part-2/),
   [Linda Hall, May 26 2023](https://www.lindahall.org/about/news/scientist-of-the-day/washington-a-roebling/)
+
+## 2026-11-25 02:05 PT (hourly runner, cloud run)
+
+Trends
+- Process videos hold TikTok viewers longest (new to these notes): Dash Social's KPI data for eMarketer (TikTok only,
+  Q3 2026; retention is "the average percentage of a TikTok video that a viewer watched") has travel at "34.6%, up
+  from 29% in Q3 2025", food and beverage at "32.3%" (23% a year earlier) and home at "29.8%" (21%), and reads the
+  food and home rise as "content that shows a process or transformation, such as recipes and DIY projects" (undated,
+  after Q3 2026; categories, not formats, and no sample size). A Build-It is that kind of process (problem, fixes,
+  finished build), so every line should move the build on. The same piece quotes Billion Dollar Boy (secondhand):
+  opening on a logo or product pitch "can reduce view rates by 44%", one more reason frame 0 shows the build, never
+  the channel. Metricool's 2026 short-video study (6,177,375 videos from 375,462 accounts; Aug 26 2026, a teaser, the
+  full report sits behind an email form): TikTok "generates up to 42% more views than Instagram Reels, and over 6
+  times more than YouTube Shorts", and "Instagram Reels lead in shares across every account size".
+  [eMarketer](https://www.emarketer.com/content/exclusive-data--tiktok-retention-improves-practical--experience-driven-videos-hold-attention),
+  [Metricool, Aug 26 2026](https://metricool.com/short-video-report-2026)
+- Instagram "Features", "a new long-form, horizontal video format", checked and not for us yet (new to these notes):
+  a closed test with some creators in Brazil and "a small test" in the US, lengths tried "including videos up to 90
+  minutes", no eligibility published and no revenue share (Online Tech Tips, Oct 26 2026, citing Variety and THR).
+  The 4-minute show is built at 1080 x 1920 (kit/show/build_show.py), so nothing of ours fits a horizontal slot.
+  [Online Tech Tips, Oct 26 2026](https://www.online-tech-tips.com/instagram-features-longform-horizontal-video/)
+
+Free footage and pictures
+- The 1940 Tacoma Narrows Bridge film is not free to use (new to these notes; checked as a real break shot for a
+  bridge build): the University of Washington's collection says "Creator's copyrights transferred to the University
+  of Washington Libraries Special Collections" (Archives West), and the Center for Home Movies says "Original footage
+  held by the Elliott and Monroe Families", that "Elliott and Monroe sold their film to Paramount Studios" and that
+  "Castle Films subsequently bought distribution rights" (National Film Registry, 1998). The archive.org copy marked
+  "Public Domain" (CEP176) is a different two-minute film credited to the "Stillman Fires Collection; Tacoma Fire
+  Department", and the mark is the uploader's own; the Library of Congress's set of public-domain Registry films (19
+  titles) does not include it. A twisting, galloping deck stays a Seedance shot.
+  [Archives West](https://archiveswest.orbiscascade.org/ark:80444/xv212280),
+  [Center for Home Movies](https://www.centerforhomemovies.org/other-histories/essays/tacoma-narrows-bridge-collapse-hannah-palin/),
+  [archive.org, CEP176](https://archive.org/details/CEP176),
+  [Library of Congress, Free to Use and Reuse](https://www.loc.gov/free-to-use/public-domain-films-from-the-national-film-registry)
+- CERN's photos and B-roll are not ours to use freely (new to these notes): "CERN provides the image free of charge
+  for educational and informational use", "CERN retains copyright in the image" and it "may not be used ... in
+  advertising or promotion" (Terms of Use for CERN Audiovisual Media, read Nov 25 2026); the press room's downloads
+  (4K accelerator footage, LHC magnet animations) "can be used on the condition that it is properly credited to CERN
+  and that you agree to our terms of use", and CERN's one Creative Commons photo collection is "CC-BY-SA"
+  (share-alike, which these notes keep out). So the LHC below would be Seedance footage and our own unlimited stills.
+  [CERN terms of use](https://copyright.web.cern.ch/), [CERN press resources](https://home.cern/press/resources/),
+  [CERN, CC photos](https://home.cern/news/news/cern/cern-releases-photos-under-creative-commons-licence)
+
+New content
+- The Large Hadron Collider near Geneva, a candidate build (new to these notes; not in LINEUP; Europe): "approximately
+  27km in circumference" in "a tunnel 100 metres underground", "1232 dipole magnets, 15 metres in length, which bend
+  the beams", chilling the magnets "to -271.3°C – a temperature colder than outer space" (1.9 K); "It first started up
+  on 10 September 2008" (CERN, facts and figures). "Just nine days after it was first turned on" (Physics Today, Oct 1
+  2009), "a faulty electrical connection between two of the accelerator's magnets" let "an electrical arc" develop,
+  "puncturing the helium enclosure" (CERN, Oct 16 2008), with "the loss of some six tonnes of liquid helium" (Physics
+  World, Oct 17 2008). The repair: "53 magnets had to be removed" ("40 million Swiss francs"), the team "tested some
+  20 000 splices" and "added pressure relief valves", and in a quench "the energy will be removed quickly" (Physics
+  Today); first collisions 23 November 2009 (CERN). Check before use: "at most 5 quadrupoles and 24 dipoles" (CERN,
+  Oct 2008) counts the damaged magnets, 53 the ones taken out; B5's date (the July 2012 Higgs announcement) is not on
+  the pages read here; and CERN's page says the LHC runs "until the Long Shut Down 3, starting in July 2026", so it
+  may be stopped now (no "today" line). Chain (A2, A4, B2 and B3 are our reading): to see inside a proton you smash
+  protons head-on at nearly the speed of light, and a straight track would run off across the countryside (A2) →
+  bend the beams round a 27 km ring with 1,232 magnets (A3) → magnets that strong in plain copper would overheat (A4)
+  → superconducting magnets bathed in liquid helium colder than outer space (A5) → nine days in, one bad joint between
+  two magnets arcs and six tonnes of helium burst out (A6) → 53 magnets out, 20,000 joints tested, relief valves and
+  faster quench protection (B1) → B2 and B3 still open (the beams' own energy and the dump that swallows them: not on
+  the pages read) → B4 teases whatever follows it in LINEUP → B5 the discovery announcement, an auditorium of
+  scientists seen from behind on their feet applauding. Ready shots (no faces, no logos, no writing): A1 at dawn the
+  camera dives from green fields and villages below snowy mountains down a deep round shaft into a curved blue tunnel
+  lined with giant steel cylinders that runs out of sight both ways, slow push-in; A6 inside the tunnel a blinding
+  electric arc flashes between two giant magnets and white clouds of helium blast out and fill the tunnel, warning
+  lights spinning, wide view; B6 funny slow motion, a fridge magnet slowly slides down a fridge door under a thick
+  stack of papers and drops them across the kitchen floor, a cat watching.
+  [CERN, LHC facts and figures](https://home.cern/resources/faqs/facts-and-figures-about-lhc),
+  [CERN, Oct 16 2008](https://home.cern/cern-releases-analysis-of-lhc-incident),
+  [Physics World, Oct 17 2008](https://physicsworld.com/a/lhc-report-confirms-electrical-fault/),
+  [Physics Today, Oct 1 2009](https://physicstoday.aip.org/news/mostly-recovered-the-lhc-readies-for-restart)
