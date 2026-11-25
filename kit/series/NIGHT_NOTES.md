@@ -2032,3 +2032,58 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   and 79 once their English Studio uploads are done (still due in the desk plan); 37 and 60 after their requeued
   Arabic TikToks; 80 after Fri 16:30Z; 84-87 as they go out.
 - LINEUP: 106 the Riyadh Metro, 107 a detachable chairlift, 108 an ice resurfacer appended (12 entries ahead of 96).
+
+## Nov 25 2026 (show run, 13:17 PT): Survival Mode 5 "You vs the Sun" (sm05) for Thu Nov 26
+- TODAY Wed Nov 25 PT, TOMORROW Thu Nov 26 PT. Hand-off done 14:17 PT (the run took an hour; no episode went out today,
+  because the Nov 24 run died on the usage limit).
+- Step 0: status 21:25Z: sm04's English TikTok + Instagram and Arabic Instagram are sent; its Arabic TikTok was blocked
+  by TikTok ("potential spam", 18:30Z Nov 24), and sm03's was blocked again on its requeue (02:00Z Nov 25). sm04 was
+  NOT requeued: the Arabic TikTok queue is 10 of 10 with nine targets waiting (76, 77, 91-96, then sm05), the grid has
+  no 2-hour gap before Fri 20:30Z, and a requeue made before sm05 is released would take the place sm05's own Arabic
+  TikTok needs at the 16:45 PT round (LINEUP: leave room for the show's posts). First free slot: Sat Nov 28 16:30Z
+  (19:30 Riyadh, 2 h before the show's 18:30Z). Whoever has a free queue place after sm05 is on Buffer:
+  `tools.yml cmd=requeue args="ar tiktok sm04=2026-11-28T16:30:00Z"`. yt_desk check: nothing overdue.
+- Pick: colosseum, stepwell, louvre, maraya (all Mansour, all v2). The sun is the enemy in each script: the crowd bakes
+  (Colosseum's roof of sails), it hardly rains (Chand Baori's 3,500 steps), a plaza like a frying pan (the Louvre Abu
+  Dhabi's dome), a box baked like an oven (Maraya's mirrors). Left out: hagiasophia (show rule) and every build that
+  posts tomorrow (88-93, 76, 77; they are Seedance builds anyway, see the last point).
+- VOICES CHANGED since sm04. voices.yml `en` is J. Ballen (eleven_v4), and make_voices.py gives a show kit whatever
+  voices.yml says, so the show's 8 English lines are Ballen now, one audio tag at the start of each line, at x1.10
+  (`show_tempo` applies to English too now that it is an ElevenLabs voice: the mean Arabic tempo of the four builds).
+  The four v2 builds inside still play Easton, so the English cut has two voices until the show can use Ballen builds.
+  New kit `survivalpromob`: the three English closing lines by Ballen (spec `en: promo: survivalpromob`, x1.12).
+  Arabic: voice.yml was dispatched with `model=eleven_multilingual_v2`, so Mansour's 8 lines match the v2 builds and
+  `survivalpromosa` (voices.yml `ar` is eleven_v4 now; the input only changes the Arabic). kit/show/README.md says all this.
+- Checks with Whisper small (downloaded again from the sherpa-onnx GitHub release, 639 MB in seconds). English take 1
+  was heard as "a fine pan" (frying), "the sun makes" (bakes) and "you'd be a Roman summer" (you beat): lines 6-8
+  reworded ("one big frying pan", "is baking", "you just beat"). Take 2 was heard as "the salty desert" (Saudi): line 7
+  now says "Saudi Arabia" (the level card too). Take 3: only number formats differ. Ballen's closing lines 0 of 25.
+  Arabic 0-5% a line, no weak lines. On the four finished files Whisper hears every new line in its place.
+- ElevenLabs: about 2,300 characters (English 1,480 with the retakes, closing lines 176, Arabic 634). The account read
+  155,162 before and 168,683 after (27% of 613,234; most of that hour's use was other projects).
+- New in the layer: icon `umbrella` (layout.ICON, "No shade"). stock.py reads the main chat's slugs (airfryer-b78
+  crashed it) and lists v2 builds only. Arabic level card: a boss name that ends in a deep tail (the ي of "شمس أبوظبي")
+  runs into a long sub line under it, so keep that sub short ("ساحة على البحر · صارت فرن").
+- Shallow clone: `git config remote.origin.promisor true; git config remote.origin.partialclonefilter blob:none;
+  git fetch --filter=blob:none --deepen=400 origin main` reached every retired build in under a minute, and `fetch`
+  then pulled only the eight videos (colosseum and louvre were retired in 0bc48b0, maraya and stepwell in 8d6fd17).
+- Cuts (all -14.0 LUFS): English full 4:45.6 (true peak -2.1 dBFS, 85.7 MB at crf 24, chapters 0:00 0:13 1:18 2:19 3:23
+  4:24), short 1:28.1 (-1.9, 39.0 MB); Arabic full 4:55.3 (-2.1, 87.3 MB at crf 24, chapters 0:00 0:13 1:17 2:22 3:30
+  4:36), short 1:26.7 (-2.0, 39.0 MB). Stills sheets and 144 frames pulled from the four finished files looked at
+  (words, Arabic right to left, the right boss on each level). Render: Arabic chain 13:44-14:02, English 13:55-14:13.
+- Hand-off: media/sm05-en.mp4 + media/sm05-ar.mp4 and posts/sm05.yml on main with ALL six targets on hold (the Post
+  workflow ran: state/sm05.json has no targets). kit/show/youtube/sm05.yml -> handoff.py pushed the two full cuts, the
+  two thumbnails and sheet.json to the `show` branch; every raw link answers 200 and `yt_desk.py plan` lists the four
+  videos first on each channel. For Thu Nov 26 PT: Arabic full 09:00, English full 10:00, Arabic Short 10:30, English
+  Short 12:15 (YouTube, the main chat's 16:45 PT round); TikTok + Instagram Arabic 10:30 (18:30Z), English 12:15
+  (20:15Z) after `yt_desk.py release sm05`.
+- THE SHOW RUNS OUT OF BUILDS. build_show.py cuts a build with its scene file kit/episodes/<kit>.py (chapter_cuts:
+  tl.pause_start, the reveal and tag chunks, ep.spans; prep: ep.draw_world for the cold-open shots, the card backdrops
+  and the thumbnail). Seedance builds (look: sd, all from 76 on except 96) have none. Left in the Mansour group: barrier,
+  burjalarab, fridge, suez, washer, taipei, dishwasher, vacuum, petronas, pharos, handwarmer (v4 voices) + hagiasophia
+  (excluded) = about three episodes (ideas: the sea = barrier, burjalarab, suez, pharos; the house = fridge, washer,
+  dishwasher, vacuum; then taipei, petronas, handwarmer + one). For the adapter: an sd build has the same 14 lines
+  (2-9 the four breaks and fixes, 10 follow, 11 reveal, 12 stat, 13 closer, 14 tag), series/voice/<kit>.json gives
+  every line's start and end, kit/episodes/<kit>_sd.json gives each line's shot; what is missing is the build's own
+  time offset (tools/seedance_cut.py) and clean pictures (frames of the source clips instead of draw_world). The owner
+  was told in the run's message.
