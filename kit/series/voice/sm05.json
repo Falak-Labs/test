@@ -3,9 +3,9 @@
  "model": "eleven_v4",
  "tempo": 1.1,
  "gap": 0.35,
- "duration": 56.987,
- "words": 147,
- "words_per_sec": 2.58,
+ "duration": 57.836,
+ "words": 150,
+ "words_per_sec": 2.59,
  "lines": [
   {
    "line": 1,
@@ -390,419 +390,434 @@
   {
    "line": 6,
    "start": 27.104,
-   "end": 35.302,
-   "text": "Level three. Abu Dhabi. The sun turns your seaside plaza into a frying pan, and a solid roof would make it a dark cave.",
+   "end": 35.543,
+   "text": "Level three. Abu Dhabi. The sun turns your seaside plaza into one big frying pan, and a solid roof would make it a dark cave.",
    "words": [
     {
      "w": "Level",
-     "start": 27.29,
-     "end": 27.581
+     "start": 27.257,
+     "end": 27.548
     },
     {
      "w": "three.",
-     "start": 27.726,
-     "end": 28.381
+     "start": 27.694,
+     "end": 28.304
     },
     {
      "w": "Abu",
-     "start": 28.599,
-     "end": 28.817
+     "start": 28.43,
+     "end": 28.648
     },
     {
      "w": "Dhabi.",
-     "start": 28.89,
-     "end": 29.495
+     "start": 28.721,
+     "end": 29.267
     },
     {
      "w": "The",
-     "start": 29.617,
-     "end": 29.69
+     "start": 29.412,
+     "end": 29.485
     },
     {
      "w": "sun",
-     "start": 29.763,
-     "end": 29.981
+     "start": 29.557,
+     "end": 29.775
     },
     {
      "w": "turns",
-     "start": 30.054,
-     "end": 30.308
+     "start": 29.848,
+     "end": 30.103
     },
     {
      "w": "your",
-     "start": 30.345,
-     "end": 30.49
+     "start": 30.139,
+     "end": 30.285
     },
     {
      "w": "seaside",
-     "start": 30.563,
-     "end": 30.999
+     "start": 30.357,
+     "end": 30.794
     },
     {
      "w": "plaza",
-     "start": 31.072,
-     "end": 31.435
+     "start": 30.866,
+     "end": 31.23
     },
     {
      "w": "into",
-     "start": 31.508,
-     "end": 31.726
+     "start": 31.303,
+     "end": 31.666
     },
     {
-     "w": "a",
-     "start": 31.799,
-     "end": 31.945
+     "w": "one",
+     "start": 31.739,
+     "end": 31.957
+    },
+    {
+     "w": "big",
+     "start": 32.03,
+     "end": 32.248
     },
     {
      "w": "frying",
-     "start": 31.981,
-     "end": 32.308
+     "start": 32.394,
+     "end": 32.757
     },
     {
      "w": "pan,",
-     "start": 32.381,
-     "end": 32.938
+     "start": 32.83,
+     "end": 33.336
     },
     {
      "w": "and",
-     "start": 32.987,
-     "end": 33.035
+     "start": 33.36,
+     "end": 33.385
     },
     {
      "w": "a",
-     "start": 33.108,
-     "end": 33.181
+     "start": 33.53,
+     "end": 33.651
     },
     {
      "w": "solid",
-     "start": 33.363,
-     "end": 33.545
+     "start": 33.773,
+     "end": 33.894
     },
     {
      "w": "roof",
-     "start": 33.617,
-     "end": 33.835
+     "start": 33.966,
+     "end": 34.185
     },
     {
      "w": "would",
-     "start": 33.908,
-     "end": 33.981
+     "start": 34.257,
+     "end": 34.33
     },
     {
      "w": "make",
-     "start": 34.054,
-     "end": 34.199
+     "start": 34.403,
+     "end": 34.475
     },
     {
      "w": "it",
-     "start": 34.235,
-     "end": 34.272
+     "start": 34.548,
+     "end": 34.657
     },
     {
      "w": "a",
-     "start": 34.345,
-     "end": 34.417
+     "start": 34.766,
+     "end": 34.864
     },
     {
      "w": "dark",
-     "start": 34.49,
-     "end": 34.708
+     "start": 34.96,
+     "end": 35.057
     },
     {
      "w": "cave.",
-     "start": 34.781,
-     "end": 35.435
+     "start": 35.203,
+     "end": 35.712
     }
    ]
   },
   {
    "line": 7,
-   "start": 35.62,
-   "end": 44.103,
-   "text": "Final level. The Saudi desert. The sun bakes your big box like an oven, and sandstorms can sandblast the glass until it turns dull.",
+   "start": 35.861,
+   "end": 44.564,
+   "text": "Final level. The Saudi desert. The sun is baking your big box like an oven, and sandstorms can sandblast the glass until it turns dull.",
    "words": [
     {
      "w": "Final",
-     "start": 35.805,
-     "end": 36.241
+     "start": 36.069,
+     "end": 36.505
     },
     {
      "w": "level.",
-     "start": 36.386,
-     "end": 36.92
+     "start": 36.651,
+     "end": 37.152
     },
     {
      "w": "The",
-     "start": 36.986,
-     "end": 37.059
+     "start": 37.26,
+     "end": 37.333
     },
     {
      "w": "Saudi",
-     "start": 37.277,
-     "end": 37.641
+     "start": 37.478,
+     "end": 37.842
     },
     {
      "w": "desert.",
-     "start": 37.714,
-     "end": 38.211
+     "start": 37.915,
+     "end": 38.397
     },
     {
      "w": "The",
-     "start": 38.295,
-     "end": 38.368
+     "start": 38.496,
+     "end": 38.569
     },
     {
      "w": "sun",
-     "start": 38.441,
-     "end": 38.659
+     "start": 38.642,
+     "end": 38.86
     },
     {
-     "w": "bakes",
-     "start": 38.732,
-     "end": 38.95
+     "w": "is",
+     "start": 38.969,
+     "end": 39.078
+    },
+    {
+     "w": "baking",
+     "start": 39.115,
+     "end": 39.442
     },
     {
      "w": "your",
-     "start": 39.059,
-     "end": 39.168
+     "start": 39.551,
+     "end": 39.66
     },
     {
      "w": "big",
-     "start": 39.277,
-     "end": 39.386
+     "start": 39.769,
+     "end": 39.878
     },
     {
      "w": "box",
-     "start": 39.459,
-     "end": 39.677
+     "start": 39.951,
+     "end": 40.169
     },
     {
      "w": "like",
-     "start": 39.75,
-     "end": 39.895
+     "start": 40.242,
+     "end": 40.387
     },
     {
      "w": "an",
-     "start": 40.005,
-     "end": 40.114
+     "start": 40.496,
+     "end": 40.605
     },
     {
      "w": "oven,",
-     "start": 40.186,
-     "end": 40.695
+     "start": 40.678,
+     "end": 41.187
     },
     {
      "w": "and",
-     "start": 40.805,
-     "end": 40.914
+     "start": 41.296,
+     "end": 41.405
     },
     {
      "w": "sandstorms",
-     "start": 41.059,
-     "end": 41.568
+     "start": 41.551,
+     "end": 42.06
     },
     {
      "w": "can",
-     "start": 41.677,
-     "end": 41.786
+     "start": 42.169,
+     "end": 42.278
     },
     {
      "w": "sandblast",
-     "start": 41.932,
-     "end": 42.295
+     "start": 42.424,
+     "end": 42.86
     },
     {
      "w": "the",
-     "start": 42.368,
-     "end": 42.441
+     "start": 42.896,
+     "end": 42.933
     },
     {
      "w": "glass",
-     "start": 42.623,
-     "end": 42.805
+     "start": 43.005,
+     "end": 43.369
     },
     {
      "w": "until",
-     "start": 42.877,
-     "end": 43.095
+     "start": 43.478,
+     "end": 43.587
     },
     {
      "w": "it",
-     "start": 43.168,
-     "end": 43.241
+     "start": 43.66,
+     "end": 43.733
     },
     {
      "w": "turns",
-     "start": 43.35,
-     "end": 43.605
+     "start": 43.878,
+     "end": 44.096
     },
     {
      "w": "dull.",
-     "start": 43.677,
-     "end": 44.259
+     "start": 44.133,
+     "end": 44.678
     }
    ]
   },
   {
    "line": 8,
-   "start": 44.421,
-   "end": 56.98,
-   "text": "Four levels, and not one sunburn. Your nose says thank you. You beat a Roman summer, a dry season, a frying pan and an oven, with sails, stairs, stars and mirrors.",
+   "start": 44.882,
+   "end": 57.821,
+   "text": "Four levels, and not one sunburn. Your nose says thank you. You just beat a Roman summer, a dry season, a frying pan and an oven, with sails, stairs, stars and mirrors.",
    "words": [
     {
      "w": "Four",
-     "start": 45.105,
-     "end": 45.395
+     "start": 45.645,
+     "end": 45.936
     },
     {
      "w": "levels,",
-     "start": 45.468,
-     "end": 46.095
+     "start": 46.009,
+     "end": 46.664
     },
     {
      "w": "and",
-     "start": 46.168,
-     "end": 46.241
+     "start": 46.736,
+     "end": 46.809
     },
     {
      "w": "not",
-     "start": 46.314,
-     "end": 46.532
+     "start": 46.882,
+     "end": 47.1
     },
     {
      "w": "one",
-     "start": 46.75,
-     "end": 46.968
+     "start": 47.318,
+     "end": 47.464
     },
     {
      "w": "sunburn.",
-     "start": 47.041,
-     "end": 47.805
+     "start": 47.609,
+     "end": 48.264
     },
     {
      "w": "Your",
-     "start": 47.877,
-     "end": 47.95
+     "start": 48.427,
+     "end": 48.573
     },
     {
      "w": "nose",
-     "start": 48.023,
-     "end": 48.314
+     "start": 48.645,
+     "end": 48.864
     },
     {
      "w": "says",
-     "start": 48.423,
-     "end": 48.532
+     "start": 48.936,
+     "end": 49.155
     },
     {
      "w": "thank",
-     "start": 48.677,
-     "end": 48.895
+     "start": 49.3,
+     "end": 49.518
     },
     {
      "w": "you.",
-     "start": 48.968,
-     "end": 49.186
+     "start": 49.591,
+     "end": 49.809
     },
     {
      "w": "You",
-     "start": 49.516,
-     "end": 49.541
+     "start": 50.148,
+     "end": 50.173
+    },
+    {
+     "w": "just",
+     "start": 50.245,
+     "end": 50.391
     },
     {
      "w": "beat",
-     "start": 49.614,
-     "end": 49.759
+     "start": 50.464,
+     "end": 50.609
     },
     {
      "w": "a",
-     "start": 49.795,
-     "end": 49.832
+     "start": 50.645,
+     "end": 50.682
     },
     {
      "w": "Roman",
-     "start": 49.977,
-     "end": 50.341
+     "start": 50.827,
+     "end": 51.118
     },
     {
      "w": "summer,",
-     "start": 50.414,
-     "end": 50.923
+     "start": 51.264,
+     "end": 51.773
     },
     {
      "w": "a",
-     "start": 50.959,
-     "end": 50.995
+     "start": 51.809,
+     "end": 51.845
     },
     {
      "w": "dry",
-     "start": 51.141,
-     "end": 51.432
+     "start": 51.991,
+     "end": 52.209
     },
     {
      "w": "season,",
-     "start": 51.505,
-     "end": 52.086
+     "start": 52.355,
+     "end": 52.864
     },
     {
      "w": "a",
-     "start": 52.123,
-     "end": 52.159
+     "start": 52.936,
+     "end": 53.009
     },
     {
      "w": "frying",
-     "start": 52.305,
-     "end": 52.595
+     "start": 53.082,
+     "end": 53.373
     },
     {
      "w": "pan",
-     "start": 52.668,
-     "end": 52.886
+     "start": 53.445,
+     "end": 53.736
     },
     {
      "w": "and",
-     "start": 53.105,
-     "end": 53.25
+     "start": 53.809,
+     "end": 54.027
     },
     {
      "w": "an",
-     "start": 53.323,
-     "end": 53.395
+     "start": 54.1,
+     "end": 54.173
     },
     {
      "w": "oven,",
-     "start": 53.468,
-     "end": 53.895
+     "start": 54.245,
+     "end": 54.755
     },
     {
      "w": "with",
-     "start": 54.005,
-     "end": 54.114
+     "start": 54.827,
+     "end": 54.9
     },
     {
      "w": "sails,",
-     "start": 54.186,
-     "end": 54.841
+     "start": 55.045,
+     "end": 55.627
     },
     {
      "w": "stairs,",
-     "start": 55.095,
-     "end": 55.495
+     "start": 55.882,
+     "end": 56.282
     },
     {
      "w": "stars",
-     "start": 55.714,
-     "end": 55.932
+     "start": 56.5,
+     "end": 56.718
     },
     {
      "w": "and",
-     "start": 56.077,
-     "end": 56.295
+     "start": 56.864,
+     "end": 57.082
     },
     {
      "w": "mirrors.",
-     "start": 56.368,
-     "end": 57.095
+     "start": 57.227,
+     "end": 57.955
     }
    ]
   }
