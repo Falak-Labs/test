@@ -2170,3 +2170,75 @@ New content
   [GS1, Jun 26 2014](https://www.gs1.org/articles/marsh-holds-place-honor-history-gs1-barcode),
   [GS1 statement, 2024](https://gs1.org/sites/gs1/files/2024-06/global-industry-endorsement-statement-qr-codes-with-gs1-standards.pdf),
   [Packaging Dive, Oct 27 2026](https://www.packagingdive.com/news/gs1-sunrise-2027-adoption-pack-expo/872821/)
+
+## 2026-11-25 08:05 PT (hourly runner, cloud run)
+
+Trends
+- Recap week is next week (new to these notes): Spotify "has not yet announced an official release date for Spotify
+  Wrapped 2026"; Official Charts' "very plausible date" is Wednesday December 2, "our prediction rather than a date
+  confirmed by Spotify" (Nov 22 2026; Techloy's AI-written brief of Nov 10 also says Dec 2). Build-It use: a recap
+  Short that week (the year's most-watched builds in a fast montage of footage already in ai-media) joins the
+  year-in-review wave; keep Spotify's name, colours and card look out. Dec 2 is also the UAE's National Day (Nov 24
+  21:05 entry), so on Kef Tenbeni the UAE build keeps that day.
+  [Official Charts, Nov 22 2026](https://www.officialcharts.com/chart-news/spotify-wrapped-2026-release-date/),
+  [Techloy, Nov 10 2026](https://www.techloy.com/brief/spotify-wrapped-2026-launch-date-revealed-12njgtp/)
+
+Free footage and pictures
+- Real photos of the Harbin ice city (for the candidate below): goodfreephotos has two by Jimmy Rivera, "Original Time
+  Taken: 02/02/2016" (inside an ice castle; the ice city), each "under the CC0 / Public Domain License" (credit "not
+  required"; its terms say identifiable people and logos need releases). The site re-posts Flickr photos, so check
+  the Flickr originals' licence before use. Commons has "Snow and Ice World festival in Harbin, China" (Rincewind42,
+  cc-by-2.0, 3,072 x 2,304, January 2009 by its EXIF; credit needed), read through a mirror. China's freedom of
+  panorama is "In general, OK, with attribution" for architecture (Nov 24 14:02 entry). All show older editions: fine
+  for a "real thing" line, not for this winter's numbers.
+  [goodfreephotos, ice castle](https://www.goodfreephotos.com/china/heilongjiang/harbin/inside-the-ice-castle-harbin.jpg.php),
+  [goodfreephotos, ice city](https://www.goodfreephotos.com/china/heilongjiang/harbin/ice-sculpture-city-in-harbin.jpg.php),
+  [goodfreephotos terms](https://www.goodfreephotos.com/pages/creative-commons-license-terms/),
+  [Commons file, mirror](https://download.osmand.net/wiki/File:Snow_and_Ice_World_festival_in_Harbin,_China_(3237677647).jpg)
+
+New content
+- Harbin's Ice and Snow World, a candidate build for December (new to these notes; not in LINEUP): a city of ice palaces
+  built every winter from blocks cut out of the frozen Songhua River, gone every spring. This winter's is being made now:
+  "The artificial snow-making work of the 28th Harbin Ice-Snow World officially started" on Wed Nov 18 (Xinhua, Nov 19
+  2026); the park grows to "1.25 million square meters" with "400,000 cubic meters of ice and snow" (Xinhua, Oct 13
+  2026) and is "likely to open around December 20, 2026" (China Highlights, an estimate). Last winter's opened Wed Dec 17
+  2025 and "closed on Saturday as rising temperature led to melting" (Feb 21 2026). A chain from checked facts (breaks
+  marked "ours" are ours): A1, the whole city of ice palaces glowing at night. A2, the frozen river at about "minus 20
+  degrees Celsius" by day (Malay Mail, Dec 23 2024): its only building stone is water. A3, the river cut into bricks:
+  ice "at least 30 centimeters" thick, shaped "using mallets and chisels" and then "chainsaws" into blocks "1.6 meters
+  long and 0.8 meters wide" (People's Daily, Dec 9 2024) of about "400-kilo" (Euronews 2019), dragged out "hooking it
+  with iron poles" (China Daily, Dec 7 2025), "about 10,000 cubic meters" a day from "nearly 1,000 workers" (CGTN, Dec 10
+  2025). A4, machine-made ice "often contains air bubbles and lacks the strength needed for carving" (China Daily, Nov 27
+  2025; "isn't strong enough to stand in the wind", Malay Mail, Dec 23 2020): a cloudy block cracks under the chisel. A5,
+  river ice is "prized for their uniform density and clear texture" (China Daily, Dec 7 2025) and laid up like bricks:
+  last winter's main tower alone "costs 39,000 cubic meters of ice" (Xinhua, Dec 11 2025). A6, a warm autumn: ice
+  normally "57 or 58 centimetres" was "about 44 or 45" and the freeze came late (Malay Mail, Dec 23 2024), yet the park
+  opens in mid-December. B1, keep last winter's ice: "200,000 cubic meters" stored "for more than 10 months" by "low
+  temperature, light avoidance, insulation and sealing", unmelted "even when temperatures exceeded 30 C" (China Daily,
+  Nov 27 2025), so "About 10,000 workers" start in late November (Xinhua, Nov 25 2025). B2 (ours), a tall thin tower of
+  plain ice snaps in the wind; B3, ice with "Natural fibers, such as wood" blended in, sprayed "25 cm" thick onto an
+  inflated balloon that is then removed, made the 31 m Flamenco Ice Tower in Harbin in 2018 (ArchDaily, Jan 15 2018;
+  TU/e with the Harbin Institute of Technology; not the park's own method, say so). B5, opening night, crowds from
+  behind, the 521 m ice slide (People's Daily, Dec 18 2025) and "more than 120,000 visitors in a single day" (Xinhua, Oct
+  13 2026). Line 12: "400,000 CUBIC METERS". Line 13: the city melts every spring, but part of each winter's river ice
+  is kept to build the next one (B1). B6: hot water thrown into the freezing air bursts into a cloud of snow, the man
+  seen from behind, funny slow motion. Check before a line uses it: how the blocks are bonded (not in any page read) and
+  how they are lit (Smithsonian's 2019 piece says "multi-colored incandescent lights"; newer pages say only "lights").
+  Free video ends Nov 28, so if the main chat wants this build, its pair has to run by then; no faces (workers from
+  behind, gloves, crowds far off).
+  [Xinhua, Nov 19 2026](https://en.people.cn/n3/2026/1119/c90000-20520985.html),
+  [Xinhua, Oct 13 2026](https://en.people.cn/n3/2026/1013/c90000-20507752.html),
+  [China Highlights](https://www.chinahighlights.com/harbin/attraction/harbin-international-ice-and-snow-festival.htm),
+  [People's Daily, Dec 18 2025](https://en.people.cn/n3/2025/1218/c90000-20404248.html),
+  [People's Daily, Feb 22 2026](https://en.people.cn/n3/2026/0222/c90000-20427284.html),
+  [People's Daily, Dec 9 2024](https://en.people.cn/n3/2024/1209/c90000-20251303.html),
+  [Euronews, Dec 18 2019](https://www.euronews.com/2019/12/18/the-workers-behind-china-s-frozen-festival),
+  [China Daily, Dec 7 2025](https://www.chinadaily.com.cn/a/202512/07/WS693563e7a310d6866eb2d4ab.html),
+  [CGTN, Dec 10 2025](https://news.cgtn.com/news/2025-12-10/Harbin-ramps-up-ice-harvesting-on-Songhua-River-1IZih7oMzdK/p.html),
+  [China Daily, Nov 27 2025](https://govt.chinadaily.com.cn/s/202511/27/WS6937fb5e498e368550338a73/harbins-winter-wonderland-takes-shape-with-record-use-of-ice-and-snow.html),
+  [Malay Mail, Dec 23 2020](https://www.malaymail.com/news/life/2020/12/23/china-mines-ice-from-river-to-build-frozen-castles-pagoda/1934285),
+  [Malay Mail, Dec 23 2024](https://malaymail.com/news/life/2024/12/23/harbins-ice-harvesters-feel-the-heat-of-climate-change/160823),
+  [Xinhua, Dec 11 2025](https://en.people.cn/n3/2025/1211/c90000-20400989.html),
+  [Xinhua, Nov 25 2025](https://ydyl.gansu.gov.cn/enggsydyl/news/topnews/202511/t20251126_31950.html),
+  [ArchDaily, Jan 15 2018](https://www.archdaily.com/886916/the-record-breaking-31-meter-tall-flamenco-ice-tower-opens-in-harbin-China),
+  [Smithsonian Magazine, 2019](https://www.smithsonianmag.com/travel/harbin-ice-snow-festival-2019-180971227/)
