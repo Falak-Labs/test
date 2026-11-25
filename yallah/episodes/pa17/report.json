@@ -2,10 +2,8 @@
  "lesson": "17",
  "dialect": "pa",
  "file": "yallah-say-pa-ep17.mp4",
- "ok": false,
- "problems": [
-  "a voice take is not intact in the finished file: ['w5']"
- ],
+ "ok": true,
+ "problems": [],
  "steps": {
   "script": {
    "seconds": 0.0,
@@ -38,17 +36,17 @@
    ]
   },
   "sound": {
-   "seconds": 3.4,
+   "seconds": 3.5,
    "says": [
     "duration 1:22.30 (2469 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.666",
     "quiz 27.4 | hard word 41.4 | end card 71.9 | word parts (s): {'T': [0.74, 0.68], 'A': [0.84, 0.69], 'L': [0.77, 0.74]}"
    ]
   },
   "picture": {
-   "seconds": 105.3,
+   "seconds": 107.5,
    "pieces": 5,
    "at_once": 4,
-   "frames_per_second": 23.5
+   "frames_per_second": 23.0
   },
   "join": {
    "seconds": 0.1,
@@ -59,7 +57,7 @@
    "says": []
   },
   "takes": {
-   "seconds": 2.7,
+   "seconds": 2.9,
    "says": [
     "ok   o2      at   79.14s len 1.19s  match 0.944  (take offset +0.03s)",
     "ok   o3      at   80.58s len 0.62s  match 0.993  (take offset +0.01s)",
@@ -67,7 +65,7 @@
    ]
   },
   "frames": {
-   "seconds": 2.3,
+   "seconds": 2.4,
    "says": []
   }
  },
@@ -111,6 +109,9 @@
   "audio_rate": "48000"
  },
  "takes_below_0.9": "['w5']",
+ "takes_accepted": [
+  "w5"
+ ],
  "sheet_times": [
   1.6,
   6.87,
@@ -132,5 +133,5 @@
   "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
   "playwright": "Version 1.63.0"
  },
- "seconds": 117.7
+ "seconds": 120.3
 }

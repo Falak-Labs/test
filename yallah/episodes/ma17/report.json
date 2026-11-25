@@ -2,10 +2,8 @@
  "lesson": "17",
  "dialect": "ma",
  "file": "yallah-say-ma-ep17.mp4",
- "ok": false,
- "problems": [
-  "a voice take is not intact in the finished file: ['w5']"
- ],
+ "ok": true,
+ "problems": [],
  "steps": {
   "script": {
    "seconds": 0.0,
@@ -38,28 +36,28 @@
    ]
   },
   "sound": {
-   "seconds": 3.6,
+   "seconds": 3.8,
    "says": [
     "duration 1:22.37 (2471 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.655",
     "quiz 27.7333 | hard word 41.6 | end card 72.1333 | word parts (s): {'T': [0.61, 0.7], 'A': [0.84, 0.69], 'L': [0.77, 0.74]}"
    ]
   },
   "picture": {
-   "seconds": 106.6,
+   "seconds": 114.7,
    "pieces": 5,
    "at_once": 4,
-   "frames_per_second": 23.2
+   "frames_per_second": 21.5
   },
   "join": {
-   "seconds": 0.1,
+   "seconds": 0.2,
    "says": []
   },
   "mux": {
-   "seconds": 1.8,
+   "seconds": 1.6,
    "says": []
   },
   "takes": {
-   "seconds": 2.8,
+   "seconds": 2.9,
    "says": [
     "ok   o2      at   79.20s len 1.19s  match 0.944  (take offset +0.03s)",
     "ok   o3      at   80.64s len 0.62s  match 0.993  (take offset +0.01s)",
@@ -67,7 +65,7 @@
    ]
   },
   "frames": {
-   "seconds": 2.3,
+   "seconds": 2.4,
    "says": []
   }
  },
@@ -99,10 +97,10 @@
   "page/script.js": "d37f28d3622d331ca3d0a929dce3fa4e77f929ce7b108be9e671b3000cf328d5",
   "page/tl.js": "dadd6b8ef9711f25e3901f6b7206f93ef3ee78968eb9ab792e8c6fde87723a62",
   "final.wav": "464f0e6e175a220ebc49f6be12131ba5770cd5ce8bef95914d979b17b2ed50a6",
-  "yallah-say-ma-ep17.mp4": "5aade27c8e71ead69cb543892fb13d143eb6474ac13a814e19dab58256020c25"
+  "yallah-say-ma-ep17.mp4": "ecf69a5db6331e5b57d16e70ba8faeace580bb31a87a686a439940eb28b8320f"
  },
  "video": {
-  "size": 17845316,
+  "size": 17845139,
   "frames": 2471,
   "width": 1080,
   "height": 1920,
@@ -111,6 +109,9 @@
   "audio_rate": "48000"
  },
  "takes_below_0.9": "['w5']",
+ "takes_accepted": [
+  "w5"
+ ],
  "sheet_times": [
   1.6,
   6.97,
@@ -132,5 +133,5 @@
   "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
   "playwright": "Version 1.63.0"
  },
- "seconds": 119.1
+ "seconds": 127.6
 }
