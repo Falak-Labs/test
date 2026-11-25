@@ -12,9 +12,11 @@
   },
   "at": "2026-11-26T13:00:00+00:00",
   "platforms": [
-   "youtube",
    "instagram",
    "tiktok"
+  ],
+  "studio": [
+   "youtube"
   ]
  },
  "pa": {
@@ -28,9 +30,11 @@
   },
   "at": "2026-11-26T13:30:00+02:00",
   "platforms": [
-   "youtube",
    "instagram",
    "tiktok"
+  ],
+  "studio": [
+   "youtube"
   ]
  }
 }
