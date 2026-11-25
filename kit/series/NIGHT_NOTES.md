@@ -1972,4 +1972,10 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   104 Tokyo's G-Cans flood tunnel, 105 the Brooklyn Bridge appended (checked by search titles).
 - Posts pushed 03:45Z after the Pages deploy of 606b4aa (after the videos' d6e1aa4) succeeded. All 8 Instagram +
   TikTok targets of 94-95 wait for queue places (every channel 10 of 10; 88-92, 76-77 and 93 come first in due-time
-  order); later post.yml runs add them.
+  order); later post.yml runs add them. Check-ins of this session: 15:10Z Nov 25 (trig_01Qc6n2WEvBG6xJgWjKDL78E,
+  dispatches post.yml once if targets wait and places have freed) and 05:00Z Nov 27 (trig_0181nf4XBeMQf4pkL6iqGME5,
+  makes sure 94-95 are on Buffer before their slots).
+- Watch (not changed): Arabic TikTok on Wed evening PT is crowded: 60 (requeue) and 85 both at 01:30Z Nov 26, then 86
+  04:00Z, 37 (requeue) 04:30Z, 87 06:30Z. 85-87 are not on Buffer yet, so a run may give 85 its own tiktok: time.
+- The 4-minute show: its run of Nov 24 (13:17 PT) stopped on Claude's usage limit and no fallback made sm05, so Wed
+  Nov 25 has no show episode (no long videos, no show short). The owner was told.
