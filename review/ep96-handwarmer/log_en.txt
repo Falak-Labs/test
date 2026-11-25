@@ -1,0 +1,13 @@
+handwarmer: 69.58s, 2087 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/handwarmer/cover.png: ['HAND', 'WARMER'] (frame 0 of the video)
+video done in 507s
+audio done
+final out/handwarmer/handwarmer_final.mp4
+QA  duration 69.57s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2087
+QA sheet out/handwarmer/qa_sheet.png

@@ -1,0 +1,235 @@
+{
+ "slug": "ep96-handwarmer",
+ "kit": "handwarmer",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, click this disc... and cold liquid turns into hot crystals.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Frozen fingers. No fire in your pocket. So where's this heat from?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So you fill a pouch with a salty liquid. Same salt as salt and vinegar chips!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But it cools way down... and stays liquid. It's waiting for a push.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So you click the disc. One crystal starts, and the rest follow like dominoes.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But now it's a hard brick. Done.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So you boil it a few minutes. The crystals melt back.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But it cools off within an hour. Ski days are longer.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So the throwaway kind rusts iron powder on purpose: warm for hours.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building a silver ring... that's a museum. [chuckles]",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The trick? It gets hot by freezing! [chuckles] Turning solid lets out the heat you boiled in.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] One click, fifty four degrees, and the throwaway kind: up to ten hours.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built a hand warmer yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] Forget one in your back pocket, sit down... click. [laughs harder] Heated seats!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.57,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "9/168",
+   "mix_lines_off": [
+    "L 1 1 diff  | Yo, click this disc and cold liquid turns into hot crystals.",
+    "L 9 1 diff  | So the throwaway kind rusts iron powder on purpose, one for hours.",
+    "L12 2 diff  | One click, 54 degrees, and the throwaway kind up to 10 hours.",
+    "L14 5 diff  | Forget wanting a back pocket sit down. Click. He did seats."
+   ],
+   "size_mb": 15.6,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، تطق هالقرص الصغير... والسائل البارد يقلب كريستال حار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] أصابعك متجمدة، والنار ما تدخل جيبك. طيب الحرارة من وين؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فتعبي كيس بسائل مالح. نفس الملح اللي على شيبس الملح والخل!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس يبرد بواجد... ويظل سائل. كأنه ينتظر أحد يدزه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فتطق القرص. تبدأ حبة كريستال وحدة، والباقي يلحقها مثل الدومينو.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس الحين صار حجر قاسي. خلاص.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فتغليه كم دقيقة، والكريستال يذوب ويرجع سائل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس يبرد خلال ساعة، والكشتة أطول.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فاللي ينرمى يخلي برادة الحديد تصدّي بقصد: دفا لساعات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني خاتم فضي عملاق... طلع متحف. [chuckles]",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] السر؟ يسخن لأنه يتجمد! [chuckles] لما يصير صلب، يطلع الحرارة اللي دخلت فيه وأنت تغليه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] ضغطة وحدة، أربعة وخمسين درجة، واللي ينرمى يدفي لين عشر ساعات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا بنيت دفاية يد بنفسك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] تنساها في جيبك الورا وتجلس... تك! [laughs harder] وصار كرسيك مدفّى، مثل سيارة عمك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 71.77,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 15.7,
+   "cover": true
+  }
+ }
+}
