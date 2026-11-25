@@ -1,0 +1,52 @@
+{
+ "sm05-en-full": {
+  "url": "https://raw.githubusercontent.com/Falak-Labs/test/show/sm05-en-full.mp4",
+  "channel": "Congrats Engineer",
+  "channel_id": "UCDkfxHa7q5Ea0OoiSSi8DHA",
+  "language": "English",
+  "kind": "full",
+  "title": "Survival Mode: You vs the Sun ☀️ Colosseum, Chand Baori, Louvre, Maraya",
+  "desc": "No shade. No rain. No air conditioning. Four levels, four bosses made of sunshine, and you beat them with sails, stairs, stars and mirrors.\n\n0:00 No shade. No rain. No air conditioning.\n0:13 Level 1: the Colosseum vs the Roman summer\n1:18 Level 2: Chand Baori vs the dry season\n2:19 Level 3: the Louvre Abu Dhabi vs the frying pan\n3:23 Final level: Maraya vs the oven\n4:24 Results\n\nEvery level is a real build: the Colosseum pulled a roof of sails over fifty thousand people on two hundred and forty wooden poles, Chand Baori takes thirty-five hundred steps down to water where it is about five degrees cooler, the Louvre Abu Dhabi's dome is a hundred and eighty meters wide and woven from seven thousand eight hundred and fifty metal stars, and Maraya wears almost ten thousand square meters of mirror that bounce most of the desert sun back to the sky.\n\nNew episode every day. Subscribe, or the boss wins.\n#engineering #survival #howitworks",
+  "date": "Nov 26, 2026",
+  "time": "10:00 AM",
+  "utc": "2026-11-26T18:00Z",
+  "thumb": "https://raw.githubusercontent.com/Falak-Labs/test/show/sm05-en-thumb.jpg"
+ },
+ "sm05-en-short": {
+  "url": "https://raw.githubusercontent.com/Falak-Labs/test/main/media/sm05-en.mp4",
+  "channel": "Congrats Engineer",
+  "channel_id": "UCDkfxHa7q5Ea0OoiSSi8DHA",
+  "language": "English",
+  "kind": "short",
+  "title": "A Roof of Sails Over 50,000 People ☀️ Survival Mode: You vs the Sun",
+  "desc": "Level 1 of 4: Rome. It's summer, fifty thousand people are baking in the sun all day, and you have to pull a roof of sails over the whole Colosseum.\nThe full episode with all four levels is on this channel: \"Survival Mode: You vs the Sun\".\n#Shorts #engineering #survival",
+  "date": "Nov 26, 2026",
+  "time": "12:15 PM",
+  "utc": "2026-11-26T20:15Z"
+ },
+ "sm05-ar-full": {
+  "url": "https://raw.githubusercontent.com/Falak-Labs/test/show/sm05-ar-full.mp4",
+  "channel": "Kef Tenbeni",
+  "channel_id": "UC8qDuZpMDQXRrowaNp29vow",
+  "language": "Arabic",
+  "kind": "full",
+  "title": "طور البقاء: أنت ضد الشمس ☀️ أربع مراحل وأربعة زعماء",
+  "desc": "بدون ظل. بدون مطر. بدون مكيّف. أربع مراحل وأربعة زعماء من الشمس، وأنت تغلبهم بالأشرعة والدرج والنجوم والمرايا.\n\n0:00 بدون ظل ولا مطر ولا مكيّف\n0:13 المرحلة الأولى: الكولوسيوم وصيف روما\n1:17 المرحلة الثانية: تشاند باوري والجفاف\n2:22 المرحلة الثالثة: اللوفر أبوظبي وشمس أبوظبي\n3:30 المرحلة الأخيرة: مرايا العلا وشمس الصحرا\n4:36 النتيجة\n\nكل مرحلة بناء حقيقي: الكولوسيوم انسحب فوقه سقف أشرعة على ميتين وأربعين صاري خشب يظلّل خمسين ألف واحد، وبير تشاند باوري فيه ثلاثة آلاف وخمسمية درجة لين الموية وتحت أبرد بخمس درجات تقريبا، وقبة اللوفر أبوظبي عرضها مية وثمانين متر من سبعة آلاف وثمنمية وخمسين نجمة حديد، ومرايا العلا عليها تقريبا عشرة آلاف متر مربع مرايا ترد أغلب شمس الصحرا للسما.\n\nحلقة جديدة كل يوم. اشترك، ولا الزعيم يفوز.\n#هندسة #طور_البقاء #كيف_تنبني",
+  "date": "Nov 26, 2026",
+  "time": "9:00 AM",
+  "utc": "2026-11-26T17:00Z",
+  "thumb": "https://raw.githubusercontent.com/Falak-Labs/test/show/sm05-ar-thumb.jpg"
+ },
+ "sm05-ar-short": {
+  "url": "https://raw.githubusercontent.com/Falak-Labs/test/main/media/sm05-ar.mp4",
+  "channel": "Kef Tenbeni",
+  "channel_id": "UC8qDuZpMDQXRrowaNp29vow",
+  "language": "Arabic",
+  "kind": "short",
+  "title": "سقف أشرعة فوق خمسين ألف واحد ☀️ طور البقاء: أنت ضد الشمس",
+  "desc": "المرحلة الأولى من أربع: روما. الصيف حر، وخمسين ألف واحد قاعدين في الشمس طول اليوم، ولازم تسحب سقف أشرعة فوق الكولوسيوم كله.\nالحلقة الكاملة بالمراحل الأربع على القناة: \"طور البقاء: أنت ضد الشمس\".\n#Shorts #هندسة #طور_البقاء",
+  "date": "Nov 26, 2026",
+  "time": "10:30 AM",
+  "utc": "2026-11-26T18:30Z"
+ }
+}
