@@ -1999,3 +1999,55 @@ Free footage and pictures
   [usagepricing, Sep 21 2026](https://www.usagepricing.com/blueprint/activity/lightning-ai-2026-09-21-gpu-rate-card-reprice),
   [Lightning billing FAQ](https://lightning.ai/docs/platform/overview/faq/billing.md),
   [aicreditmart, Feb 2026](https://aicreditmart.com/ai-credits-providers/lightning-ai-free-plan-22-gpu-hours-month-guide-2026/)
+
+## 2026-11-25 05:05 PT (hourly runner, cloud run)
+
+Trends
+- Thanksgiving Day is the 100th Macy's Thanksgiving Day Parade (new to these notes): Thu Nov 26, "the start time is
+  8:30 a.m. ET. The parade ends at noon" (AFAR, Nov 9 2026, upd. Nov 19), on NBC (NBC Palm Springs, Nov 8 2026); the
+  count of new balloons differs (AFAR: "nine new balloons"; NBC Palm Springs: seven test-flown at Balloonfest). Our
+  pressure cooker (76) goes out that morning, English at 13:30Z = 8:30 a.m. ET, the minute the parade starts, while
+  US kitchens are busy. Its posts are not in Buffer yet (state/ep76-cooker.json has no targets at 05:00 PT), so a
+  Thanksgiving first line or a #thanksgiving tag can still go into posts/ep76-cooker.yml before post.yml queues it:
+  the main chat's call, not this runner's. A candidate build for later (not in LINEUP): the giant helium parade
+  balloon, the other way to float beside the hot air balloon (87). The one rule found: balloons are grounded "if
+  sustained winds exceed 23 mph (37 kph) and gusts exceed 34 mph (54.7 kph)", under "city rules implemented after
+  wind blew a 'Cat in the Hat' balloon into a lamp post" (AP, Nov 21 2018, via WSVN; whether it still stands is not
+  said); helium volume and handler counts were on none of these pages. The balloons are copyrighted characters, so
+  its shots would be generic shapes only.
+  [AFAR, upd. Nov 19 2026](https://www.afar.com/magazine/macys-thanksgiving-day-parade-2026-how-to-watch-in-person),
+  [NBC Palm Springs, Nov 8 2026](https://www.nbcpalmsprings.com/ca-us-and-world/2026/11/08/macys-prepares-for-100th-thanksgiving-day-parade-with-seven-new-balloons),
+  [WSVN (AP), Nov 21 2018](https://wsvn.com/news/us-world/winds-threaten-to-wreak-havoc-on-nycs-thanksgiving-parade/)
+- Checked, nothing for our formats: PR Daily's Nov 17 roundup has Instagram's Edits app to "soon be available for
+  desktop use" (keyframes, waveforms, multi-track) and Stories effects made from plain prompts; no Shorts, Reels
+  reach, TikTok or AI-label item (we cut in our own code).
+  [PR Daily, Nov 17 2026](https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-66/)
+
+Free footage and pictures
+- Real photos of G-Cans (104) that are free to use (new to these notes; its checked figures are in the Nov 24 21:05
+  entry): four Unsplash photos by C Cai (@asabasai), all published Oct 18 2025 and tagged "Japan, Saitama, Kasukabe,
+  上金崎720 首都圏外郭放水路": cD59OrZ_w10 (an underground concrete hall with water reflections), g8wWtU0ZfCM (a large
+  concrete cylinder with a ladder, likely a shaft), -vf5J94tEac (concrete pillars receding into the dark, likely the
+  tank) and GTgqHSZRnsg (pillars in a dim corridor), each "Unsplash 라이선스하에서 무료로 사용 가능" (free to use under
+  the Unsplash License; read on Unsplash's Korean pages), none Unsplash+ (the licence terms are in the 04:05 entry).
+  The pages were read as text only: look at each frame for people before use. Japan's law allows it: under its
+  Article 46 "architectural works, can be used in any way" except building a copy, and "architectural works do not
+  have the limitation of being 'installed outdoors'", so interiors count (Monolith Law Office; it adds that photos
+  centred on one building and sold as postcards or posters need consent, and that facility rules are a separate
+  matter). Not free: the Flickr photo by Peter Miller ("All rights reserved"), and the Edogawa River Office's own
+  pictures. Its site defaults to the Public Data License 1.0 (commercial use and editing allowed with a credit,
+  stated to be compatible with CC BY 4.0), but its Q&A says the G-Cans photos were taken by Nishizawa Jo for its
+  website and "著作権上使用に際して制約があります" (copyright limits their use: ask the office), and its photo supply
+  runs on a request form for the facility's publicity, with individuals' requests refused. Build-It use: the real
+  pillared tank (its 59 pillars) for line 12 or 13 of 104 with a slow zoom, beside the Seedance shots; "Photo: C Cai /
+  Unsplash" in the description is not required but costs nothing.
+  [Unsplash, cD59OrZ_w10](https://unsplash.com/photos/cD59OrZ_w10),
+  [Unsplash, g8wWtU0ZfCM](https://unsplash.com/photos/g8wWtU0ZfCM),
+  [Unsplash, -vf5J94tEac](https://unsplash.com/photos/-vf5J94tEac),
+  [Unsplash, GTgqHSZRnsg](https://unsplash.com/photos/GTgqHSZRnsg),
+  [Monolith Law Office](https://monolith.law/en/general-corporate/building-image-use-illegal),
+  [Flickr, Peter Miller](https://flic.kr/photos/64210496@N02/49195262527),
+  [Edogawa River Office, Q&A](https://www.ktr.mlit.go.jp/edogawa/edogawa00179.html),
+  [Edogawa River Office, filming and photos](https://www.ktr.mlit.go.jp/edogawa/edogawa00158.html),
+  [Kanto Regional Development Bureau, copyright](https://www.ktr.mlit.go.jp/guide/copyright.html),
+  [Digital Agency, PDL 1.0](https://www.digital.go.jp/resources/open_data/public_data_license_v1.0)
