@@ -4,55 +4,65 @@
    "id": "6b04bc9c07fee37ee60827c4",
    "channel": "6b0281668541f09ecb5f2b2c",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "error",
    "dueAt": "2026-11-24T13:02:41.000Z",
    "planned": "2026-11-24T13:00:00+00:00",
-   "created": "2026-11-23T22:22:19+00:00"
+   "created": "2026-11-23T22:22:19+00:00",
+   "error": "{'message': 'The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later.', 'rawError': \"Looks like you've hit the limit of 2 posts per 24 hours.\", 'supportUrl': 'https://support.buffer.com/articles/daily-posting-lim"
   },
   "ma.instagram": {
    "id": "6b04bc9cc0a1a00006e80ace",
    "channel": "6b02347bece6dfde5f4e33e8",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-24T13:02:46.000Z",
    "planned": "2026-11-24T13:00:00+00:00",
-   "created": "2026-11-23T22:22:19+00:00"
+   "created": "2026-11-23T22:22:19+00:00",
+   "sentAt": "2026-11-24T13:07:54.610Z",
+   "link": "https://www.instagram.com/reel/DgIBlnYkrUo/"
   },
   "ma.tiktok": {
    "id": "6b04bc9d18db0405bdaba8e3",
    "channel": "6b0259038541f09ecb5d0742",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-24T13:00:48.000Z",
    "planned": "2026-11-24T13:00:00+00:00",
-   "created": "2026-11-23T22:22:19+00:00"
+   "created": "2026-11-23T22:22:19+00:00",
+   "sentAt": "2026-11-24T13:07:43.013Z",
+   "link": "https://tiktok.com/@yallah.say/video/7711723432685112590"
   },
   "pa.youtube": {
    "id": "6b04bc9e58d65b8ef8d26b26",
    "channel": "6b0258628541f09ecb5d03b8",
    "service": "youtube",
-   "status": "scheduled",
+   "status": "error",
    "dueAt": "2026-11-24T11:32:25.000Z",
    "planned": "2026-11-24T13:30:00+02:00",
-   "created": "2026-11-23T22:22:19+00:00"
+   "created": "2026-11-23T22:22:19+00:00",
+   "error": "{'message': 'The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later.', 'rawError': \"Looks like you've hit the limit of 2 posts per 24 hours.\", 'supportUrl': 'https://support.buffer.com/articles/daily-posting-lim"
   },
   "pa.instagram": {
    "id": "6b04bc9ef72f10e188399d10",
    "channel": "6b0255998541f09ecb5cf287",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-24T11:30:52.000Z",
    "planned": "2026-11-24T13:30:00+02:00",
-   "created": "2026-11-23T22:22:19+00:00"
+   "created": "2026-11-23T22:22:19+00:00",
+   "sentAt": "2026-11-24T11:33:00.709Z",
+   "link": "https://www.instagram.com/reel/DgH2t4gy_fv/"
   },
   "pa.tiktok": {
    "id": "6b04bc9f07fee37ee6082a5e",
    "channel": "6b0256a78541f09ecb5cf94e",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-24T11:31:37.000Z",
    "planned": "2026-11-24T13:30:00+02:00",
-   "created": "2026-11-23T22:22:19+00:00"
+   "created": "2026-11-23T22:22:19+00:00",
+   "sentAt": "2026-11-24T11:32:26.777Z",
+   "link": "https://tiktok.com/@yallahsaypa/video/7711699065133616397"
   }
  }
 }
