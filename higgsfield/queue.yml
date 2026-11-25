@@ -989,3 +989,61 @@ jobs:
       carrying a boat pass each other halfway, the water steady, small visitors seen from behind on the basin path
       watching, slow aerial orbit. Shot 6 (25-30 s): funny slow motion, a big shaggy dog leaps into a brimful bathtub,
       a wave of water sheets over the rim and floods the bathroom floor, a rubber duck surfing out across the tiles.
+  - id: handwarmer-A
+    build: 96
+    kit: handwarmer
+    # Facts: the throwaway pad is iron powder rusting: "Fe+3/4O2+3/2H2O → Fe(OH)3"; salt "serves as a catalyst and
+    # speeds up the heating process", activated carbon "can absorb oxygen", vermiculite is "excellent at holding water",
+    # and it starts "the moment the outside plastic wrapping is opened and air gets in"; the pads "warm up to 50 or 60 C"
+    # (Japan Times, Feb 21 2010). Found by accident in 1970s Japan: "By accident, water got mixed into the iron — and,
+    # lo and behold, it got warm"; Lotte's Hokaron of 1978 was "the first in Japan" (Japan Times; Lotte). Charcoal
+    # "helps disperse the heat evenly" and "controls the pace of the reaction"; it lasts "about eight to 10 hours, on
+    # average" (HowStuffWorks; Japan Times says up to 20: say "hours"). The chain of breaks is ours (ideas.md Nov 24
+    # 14:02): rust gives heat, but a rusty nail is never warm (too slow: A4), so powder (a huge surface) and salt speed
+    # it up (A5); then it would burn out in the box (A6), so the airtight wrapper keeps the air out until you tear it
+    # (B1). A1 is the thermal-camera look (ideas.md Nov 24 15:59), since falkirk-B shot 4 already shows the pouch click.
+    # Check before use: the 1923 warmer was a different kind (platinum catalyst and benzine, Hakkin). No faces: hands,
+    # gloves, a camp seen wide.
+    status: todo
+    file: buildit-handwarmer-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): thermal camera view at night, a torn-open hand warmer packet of dark iron powder lies in a cold
+      open palm, the palm deep blue and purple, and the packet slowly blooms from blue to glowing orange and yellow,
+      slow push-in. Shot 2 (5-10 s): a freezing winter night at a desert camp, tents under a sky full of stars, a thin
+      frost on the sand, gloved hands rubbing together over a dying fire, breath steaming, wide view. Shot 3 (10-15 s):
+      macro of shiny grains of iron slowly turning orange-brown with rust under tiny water droplets, then in a thermal
+      camera view the rusting grains glow faintly warmer than the cold air around them. Shot 4 (15-20 s): a bare cold
+      hand closes around an old rusty nail sticking out of a frosty wooden fence post, frost on the knuckles, the nail
+      ice cold, close-up. Shot 5 (20-25 s): macro of a heap of fine grey iron powder mixed with white salt grains, black
+      charcoal and golden flakes of vermiculite, a drop of water darkens it, then in a thermal camera view the whole heap
+      blooms from blue to bright orange in seconds. Shot 6 (25-30 s): time-lapse on a dark shop shelf, an open box of
+      loose unwrapped warmer packets glows hot orange in a thermal camera view through the night, then fades back to
+      cold blue by morning, every packet spent before anyone buys it.
+  - id: handwarmer-B
+    build: 96
+    kit: handwarmer
+    # Facts: the reusable pouch is sodium acetate "supercooled below its freezing point of 54°C", liquid until crystals
+    # get a start ("a scratch, an impurity, a dust speck"); flexing "a tiny metal disk" exposes "rough surfaces on the
+    # disk" "that allow crystals to grow", and it "warms to a toasty 54°C" (Frostburg State, rev. Feb 23 2018); reset:
+    # "Put the packs in very hot or boiling water for a few minutes" (SFU Physics demos). B5's number: "a total of 1.4
+    # billion kairo pads were sold during what they call the 2008 season" (Japan Times, Feb 21 2010, citing the kairo
+    # makers' association: old, look for a newer figure). B3 shows the reset (boiled clear, then liquid when cold)
+    # because falkirk-B shot 4 already shows the click and the crystal front. B4 teases build 97, the Museum of the
+    # Future in Dubai (LINEUP; 77 m, 1,024 steel-clad panels, no columns inside: ideas.md Nov 24 13:05), shown without
+    # its calligraphy so Seedance draws no false Arabic. B6: the pocket click on a hot day (ideas.md Nov 24 11:00), the
+    # man only from behind. No faces: hands, gloves, crowds from behind.
+    status: todo
+    file: buildit-handwarmer-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): macro of a hand warmer packet sealed in a shiny airtight plastic wrapper, gloved hands tear it
+      open, air rushes in through the tiny holes of the cloth pouch inside, and in a thermal camera view the pouch
+      begins to glow warm orange. Shot 2 (5-10 s): a trash can at the bottom of a snowy ski slope overflowing with used,
+      hard, rust-brown hand warmer packets, a gloved hand drops one more on top, close-up. Shot 3 (10-15 s): macro of a
+      clear pouch packed with white crystals and a small metal disc, boiled in a pan of bubbling water until the
+      crystals melt into clear liquid, then it cools on a kitchen counter and stays perfectly clear and liquid. Shot 4
+      (15-20 s): a gleaming stainless-steel ring-shaped building with a huge oval hole through its middle stands on a
+      green hill beside a highway in Dubai at dusk, its silver skin glowing with lines of light, slow aerial push-in.
+      Shot 5 (20-25 s): a snowy winter street at night under warm street lights, a big crowd seen from behind, many
+      gloved hands holding small white warmer pads, breath steaming in the cold air, wide view. Shot 6 (25-30 s): funny
+      slow motion, on a hot sunny beach a man seen from behind sits down on his towel, the reusable warmer pouch
+      forgotten in his back pocket clicks, white crystals race through it and he leaps up in surprise, sand flying.
