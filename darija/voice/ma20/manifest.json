@@ -15,10 +15,8 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 53,
+ "requested_characters": 17,
  "recorded_this_run": [
-  "tw",
-  "w6",
   "Tsl"
  ],
  "notes": [],
@@ -108,10 +106,10 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "Tchamp... pee-un.",
+   "text": "Tchaam... pee-un.",
    "characters": 17,
    "model": "eleven_v4",
-   "seconds": 1.84
+   "seconds": 1.92
   }
  ]
 }
