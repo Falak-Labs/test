@@ -1,0 +1,35 @@
+episode: 95
+date: 2026-11-27
+video:
+  en: media/ep95-falkirk-en.mp4
+  ar: media/ep95-falkirk-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-27T16:30:00Z"    # 08:30 PT Fri Nov 27, after 94 (94's line 10 promises it)
+  title: "Falkirk Wheel: A Ferris Wheel for Boats 🎡"
+  text: |
+    Scotland built a Ferris wheel… for boats. 🎡
+    Two tubs of water balance on one wheel: a floating boat pushes out its own weight in water, so both sides always weigh the same. Giant gears keep the tubs level, about 15,000 bolts hold it together, and a half turn lifts boats 24 m on about the power of boiling eight kettles.
+    Would you ride it? 👇
+  next: "a hand warmer that starts with one click 🧤"
+  seo: "How the Falkirk Wheel works: the world's only rotating boat lift (Falkirk, Scotland, opened 2002) lifts boats 24 m between the Forth and Clyde Canal and the Union Canal. Its two water-filled gondolas balance because a floating boat displaces its own weight of water, so little power is needed: about 1.5 kWh per half turn, roughly boiling eight kettles. Gears keep the gondolas level as the arms turn, it is bolted rather than welded, and it replaced a flight of 11 locks that took nearly a day. Boats then pass through a tunnel under the Roman Antonine Wall and two locks to the Union Canal."
+  tags:
+    tiktok: "#falkirkwheel #scotland #engineering #howitworks #learnontiktok"
+    instagram: "#falkirkwheel #scotland #engineering #canal #howitworks"
+    youtube: "#falkirkwheel #scotland #engineering"
+ar:
+  at:
+    default: "2026-11-27T11:00:00Z"    # Instagram 03:00 PT Fri Nov 27 = 14:00 Riyadh, after 94 (00:00 PT)
+    tiktok: "2026-11-27T14:30:00Z"     # 06:30 PT: 3 h after 94's Arabic TikTok, 4 h before the show's 10:30 PT
+  title: "عجلة فالكيرك: عجلة ملاهي للقوارب 🎡"
+  text: |
+    اسكتلندا سوت عجلة ملاهي... للقوارب! 🎡
+    حوضين موية يتوازنون على عجلة وحدة: القارب اللي يطفو يطرد من الموية قد وزنه، فالجهتين دايم نفس الوزن. تروس ضخمة تخلي الحوض مستوي، وحوالي ١٥ ألف برغي ماسكينها، ونص لفة ترفع القوارب ٢٤ متر بكهربا قد غلي ثمان غلايات.
+    تركبها؟ 👇
+  next: "دفاية يد تشتغل بضغطة وحدة 🧤"
+  seo: "كيف تشتغل عجلة فالكيرك: الرافعة الدوارة الوحيدة للقوارب في العالم (فالكيرك، اسكتلندا، افتتحت سنة ٢٠٠٢) ترفع القوارب ٢٤ متر بين قناتين. الحوضين المليانين موية يتوازنون لأن القارب اللي يطفو يطرد من الموية قد وزنه، فتحتاج كهربا قليلة: حوالي ١٫٥ كيلوواط ساعة لنص اللفة، تقريباً مثل غلي ثمان غلايات. التروس تخلي الأحواض مستوية، والعجلة مركبة بالبراغي بدل اللحام، وكانت بدالها إحدى عشر بوابة تاخذ يوم كامل تقريباً."
+  tags:
+    tiktok: "#عجلة_فالكيرك #اسكتلندا #هندسة #السعودية #تعلم_على_التيك_توك"
+    instagram: "#عجلة_فالكيرك #اسكتلندا #هندسة #كيف_يشتغل #معلومات"
+    youtube: "#عجلة_فالكيرك #اسكتلندا #هندسة"

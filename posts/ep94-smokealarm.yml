@@ -1,0 +1,35 @@
+episode: 94
+date: 2026-11-27
+video:
+  en: media/ep94-smokealarm-en.mp4
+  ar: media/ep94-smokealarm-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-27T14:00:00Z"    # 06:00 PT Fri Nov 27: Wed and Thu PT are full (78-93), and 94 must follow 93 (93's line 10 promises it)
+  title: "Smoke Alarm: The Radioactive Speck on Your Ceiling 🚨"
+  text: |
+    Lots of smoke alarms have a tiny speck of radioactive metal inside. 🚨 (Sealed and safe.)
+    It charges the air between two plates so a tiny current flows, and smoke breaks that current. Other alarms see smoke bounce a light beam onto a sensor. And the 2 a.m. chirp? A weak battery sags as the house cools down at night.
+    Has yours ever chirped at 2 a.m.? 👇
+  next: "a Ferris wheel for boats 🎡"
+  seo: "How a smoke alarm works: an ionization smoke alarm holds a tiny sealed amount of americium-241 that charges the air between two metal plates, so a small current flows; smoke particles break the current and the alarm sounds. A photoelectric alarm sees smoke scatter a light beam onto a sensor. Low-battery chirps often come at night because a weak battery's voltage sags as the house cools. Sealed 10-year batteries end the chirping. Sleeping people can't smell smoke, and in fire tests a room of modern furniture burst into flames in under four minutes."
+  tags:
+    tiktok: "#smokealarm #firesafety #howitworks #engineering #learnontiktok"
+    instagram: "#smokealarm #firesafety #howitworks #engineering #science"
+    youtube: "#smokealarm #firesafety #howitworks"
+ar:
+  at:
+    default: "2026-11-27T08:00:00Z"    # Instagram 00:00 PT Fri Nov 27 = 11:00 Riyadh (after 93's slot on Thu)
+    tiktok: "2026-11-27T11:30:00Z"     # 03:30 PT: 3 h after 93's Arabic TikTok (00:30 PT), 7 h before the show's 10:30 PT
+  title: "جهاز إنذار الدخان: حبة مشعة فوق راسك 🚨"
+  text: |
+    كثير من أجهزة الدخان فيها حبة صغيرة من معدن مشع! 🚨 (مقفولة وآمنة.)
+    الحبة تشحن الهوا بين لوحين فيمشي تيار صغير، والدخان يقطعه فيصيح الجهاز. والنوع الثاني يشوف الدخان لما يرد الضو على الحساس. وصفرة الساعة ثنتين بالليل؟ البطارية الضعيفة تتعب لما يبرد البيت.
+    جهازكم صفّر عليكم الساعة ثنتين؟ 👇
+  next: "عجلة ملاهي للقوارب 🎡"
+  seo: "كيف يشتغل جهاز إنذار الدخان: جهاز التأين فيه كمية صغيرة مقفولة من الأمريسيوم تشحن الهوا بين لوحين معدن فيمشي تيار صغير، والدخان يقطع التيار فيصيح الجهاز. والجهاز الضوئي يشوف الدخان لما يشتت شعاع ضو على الحساس. صفرة البطارية تجي غالباً بالليل لأن البطارية الضعيفة تتعب لما يبرد البيت، والبطاريات المقفولة اللي تعيش عشر سنين تنهي الصفير. وأنت نايم ما تشم الدخان، وفي تجارب الحرايق غرفة بأثاث اليوم ولّعت في أقل من أربع دقايق."
+  tags:
+    tiktok: "#جهاز_الدخان #السلامة #كيف_يشتغل #السعودية #تعلم_على_التيك_توك"
+    instagram: "#جهاز_الدخان #السلامة #كيف_يشتغل #السعودية #معلومات"
+    youtube: "#جهاز_الدخان #السلامة #كيف_يشتغل"
