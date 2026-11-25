@@ -15,7 +15,7 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 17,
+ "requested_characters": 16,
  "recorded_this_run": [
   "Tsl"
  ],
@@ -106,8 +106,8 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Tchaam... pee-un.",
-   "characters": 17,
+   "text": "Champ... pee-un.",
+   "characters": 16,
    "model": "eleven_v4",
    "seconds": 2.0
   }
