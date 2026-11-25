@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-25T08:58:21+00:00
+# Yallah Say Buffer channels, checked 2026-11-25T19:31:03+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -13,7 +13,7 @@
 - ep01-en-yt en.youtube: sent, sent 2026-11-24T00:11:03.841Z, https://www.youtube.com/shorts/wM39ojvsH_c
 - ep01-en en.instagram: sent, sent 2026-11-23T01:04:41.839Z, https://www.instagram.com/reel/DgEKAIUpN1I/
 - ep01-en en.tiktok: sent, sent 2026-11-23T01:04:25.012Z, https://tiktok.com/@thedarktoldme/video/7711166052100492558
-- ep02-en-yt en.youtube: scheduled, due 2026-11-25T19:02:42.000Z
+- ep02-en-yt en.youtube: sent, sent 2026-11-25T19:06:16.046Z, https://www.youtube.com/shorts/BvzugHW0eQo
 - ep02-en en.instagram: sent, sent 2026-11-22T22:44:00.496Z, https://www.instagram.com/reel/DgD5su3sm1H/
 - ep02-en en.tiktok: sent, sent 2026-11-22T22:42:30.756Z, https://tiktok.com/@thedarktoldme/video/7711129451064577293
 - ep03-en en.instagram: sent, sent 2026-11-22T16:54:57.289Z, https://www.instagram.com/reel/DgDRwoQB-nv/
@@ -58,14 +58,16 @@
 - ep21-en en.instagram: sent, sent 2026-11-22T23:53:13.558Z, https://www.instagram.com/reel/DgEBnrIKpzC/
 - ep21-en en.tiktok: sent, sent 2026-11-22T23:52:16.027Z, https://tiktok.com/@thedarktoldme/video/7711147446415461645
 - ep21-en en.youtube: sent, sent 2026-11-22T23:51:47.111Z, https://www.youtube.com/shorts/Fqd0r7H_0O4
+- jazirah-p1-en en.instagram: scheduled, due 2026-11-27T17:01:26.000Z
+- jazirah-p1-en en.tiktok: scheduled, due 2026-11-27T17:00:15.000Z
 - naddaha-p1-en en.instagram: scheduled, due 2026-11-26T17:02:54.000Z
 - naddaha-p1-en en.tiktok: scheduled, due 2026-11-26T17:01:52.000Z
 - naddaha-p2-en en.instagram: scheduled, due 2026-11-26T21:01:20.000Z
 - naddaha-p2-en en.tiktok: scheduled, due 2026-11-26T21:02:57.000Z
 - naddaha-p3-en en.instagram: scheduled, due 2026-11-27T00:01:54.000Z
 - naddaha-p3-en en.tiktok: scheduled, due 2026-11-27T00:00:40.000Z
-- roushdy-p1-en en.instagram: scheduled, due 2026-11-25T17:01:28.000Z
-- roushdy-p1-en en.tiktok: scheduled, due 2026-11-25T17:00:36.000Z
+- roushdy-p1-en en.instagram: sent, sent 2026-11-25T17:14:20.418Z, https://www.instagram.com/reel/DgLCiVqpL72/
+- roushdy-p1-en en.tiktok: sent, sent 2026-11-25T17:14:45.582Z, https://tiktok.com/@thedarktoldme/video/7712158428541537550
 - roushdy-p2-en en.instagram: scheduled, due 2026-11-25T21:01:00.000Z
 - roushdy-p2-en en.tiktok: scheduled, due 2026-11-25T21:01:01.000Z
 - roushdy-p3-en en.instagram: scheduled, due 2026-11-26T00:00:50.000Z
@@ -128,19 +130,23 @@
 - ep20-ar-yt ar.youtube: scheduled, due 2026-11-27T21:15:03.000Z
 - ep20-ar ar.instagram: sent, sent 2026-11-22T10:17:42.032Z, https://www.instagram.com/reel/DgCkhV4E7qc/
 - ep20-ar ar.tiktok: sent, sent 2026-11-22T10:17:15.510Z, https://tiktok.com/@thedarktoldmear/video/7710937430831975694
-- ep21-ar-yt ar.youtube: scheduled, due 2026-11-25T18:17:58.000Z
+- ep21-ar-yt ar.youtube: sent, sent 2026-11-25T18:18:08.417Z, https://www.youtube.com/shorts/HH9QYhZQ9Oo
 - ep21-ar ar.instagram: sent, sent 2026-11-22T07:31:58.731Z, https://www.instagram.com/reel/DgCRjZyIJg1/
 - ep21-ar ar.tiktok: sent, sent 2026-11-22T07:35:16.083Z, https://tiktok.com/@thedarktoldmear/video/7710895582579019022
+- jazirah-p1-ar ar.instagram: scheduled, due 2026-11-27T15:01:21.000Z
+- jazirah-p1-ar ar.tiktok: scheduled, due 2026-11-27T15:00:02.000Z
+- jazirah-p2-ar ar.instagram: scheduled, due 2026-11-27T17:32:54.000Z
+- jazirah-p2-ar ar.tiktok: scheduled, due 2026-11-27T17:31:46.000Z
 - naddaha-p1-ar ar.instagram: scheduled, due 2026-11-26T15:01:36.000Z
 - naddaha-p1-ar ar.tiktok: scheduled, due 2026-11-26T15:01:42.000Z
 - naddaha-p2-ar ar.instagram: scheduled, due 2026-11-26T17:32:18.000Z
 - naddaha-p2-ar ar.tiktok: scheduled, due 2026-11-26T17:30:23.000Z
 - naddaha-p3-ar ar.instagram: scheduled, due 2026-11-26T20:01:01.000Z
 - naddaha-p3-ar ar.tiktok: scheduled, due 2026-11-26T20:02:38.000Z
-- roushdy-p1-ar ar.instagram: scheduled, due 2026-11-25T15:00:21.000Z
-- roushdy-p1-ar ar.tiktok: scheduled, due 2026-11-25T15:02:12.000Z
-- roushdy-p2-ar ar.instagram: scheduled, due 2026-11-25T17:32:00.000Z
-- roushdy-p2-ar ar.tiktok: scheduled, due 2026-11-25T17:31:41.000Z
+- roushdy-p1-ar ar.instagram: sent, sent 2026-11-25T15:11:27.495Z, https://www.instagram.com/reel/DgK0Xv_z4ZH/
+- roushdy-p1-ar ar.tiktok: sent, sent 2026-11-25T15:09:07.660Z, https://tiktok.com/@thedarktoldmear/video/7712126148901211406
+- roushdy-p2-ar ar.instagram: sent, sent 2026-11-25T17:35:07.322Z, https://www.instagram.com/reel/DgLE6coB29D/
+- roushdy-p2-ar ar.tiktok: sent, sent 2026-11-25T17:34:19.144Z, https://tiktok.com/@thedarktoldmear/video/7712163481935514911
 - roushdy-p3-ar ar.instagram: scheduled, due 2026-11-25T20:02:12.000Z
 - roushdy-p3-ar ar.tiktok: scheduled, due 2026-11-25T20:01:57.000Z
 - sp01-ar ar.instagram: sent, sent 2026-11-22T23:07:58.643Z, https://www.instagram.com/reel/DgD8qnonC4r/
