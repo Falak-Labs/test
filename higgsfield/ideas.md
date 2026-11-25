@@ -1943,3 +1943,59 @@ Free footage and pictures
   [Center for Brooklyn History, BRID_0109](https://www.bklynlibrary.org/digitalcollections/item/8659df83-4c89-4ec3-9f73-58d1ff16b6a9),
   [DocsTeach, NARA 169144223](https://www.docsteach.org/documents/document/brooklyn-bridge),
   [RPI, Roebling Collection](https://digitalassets.archives.rpi.edu/node/337)
+
+## 2026-11-25 04:05 PT (hourly runner, cloud run)
+
+Trends
+- Checked, nothing new since the 00:57 entry: Virlo's November page ("Updated November 25, 2026") lists no trend first
+  seen after Nov 13 and its newest newsletter is from Nov 20, and SocialPilot's weekly page still covers "November 17 –
+  25, 2026" (Thanksgiving prep, TikTok Shop's Black Friday deals, the Mariah Carey song). Neither lists a science,
+  engineering or process trend this week; Virlo's only process-like items (a "0 to 100 percent loading transformation"
+  and a brand's water-beading clip) are marked Fading. Virlo's next week starts Nov 30.
+  [Virlo, Nov 2026](https://virlo.ai/trends/2026-11), [SocialPilot](https://www.socialpilot.co/blog/tiktok-trends)
+
+Free footage and pictures
+- Real photos of the Rain Vortex (98) that are free to use (new to these notes; Commons would not open at 14:02 or 19:00,
+  Unsplash's pages do): "HSBC Rain Vortex at Jewel Changi Airport, Singapore" (photo S2IT77ubhuM, by @ja_heic, Dec 21
+  2021) and two wider Jewel views (a91HIsbKBqE, "Changi Jewel sky bridge next to the waterfall", Mar 24 2022;
+  4QdgotG6hQU, "Jewel of Singapore", Dec 25 2019) each say "Free to use under the Unsplash License" (none is Unsplash+).
+  The licence lets anyone "copy, modify, distribute, perform, and use images ... including for commercial purposes,
+  without permission from or attributing the photographer"; the one limit it states is no compiling images "to
+  replicate a similar or competing service" (unsplash.com/license, undated). The building stays our responsibility:
+  "You are responsible for ensuring that your use of images does not infringe on any trademarks or copyrighted
+  material, such as the shape or design of particular buildings" (Unsplash help, Aug 8 2025), and private or ticketed
+  places "often have image policies" (Jewel's own rules not read). Singapore's freedom of panorama covers buildings
+  (14:02 entry), so 98 can close on a real photo (line 12 or 13, slow zoom), which the UAE builds cannot; pick a frame
+  with people small or from behind and keep the sponsor's name off screen. Download sizes are not shown on the pages.
+  [Unsplash, S2IT77ubhuM](https://unsplash.com/photos/S2IT77ubhuM),
+  [Unsplash, a91HIsbKBqE](https://unsplash.com/photos/a-view-of-the-inside-of-a-building-with-a-waterfall-a91HIsbKBqE),
+  [Unsplash License](https://unsplash.com/license),
+  [Unsplash help, landmarks](https://help.unsplash.com/en/articles/2612326-can-i-use-images-of-landmarks-and-notable-buildings),
+  [Unsplash help, releases](https://help.unsplash.com/articles/2612329-releases-and-trademarks)
+- A real clip of the Rain Vortex, a lead only (new to these notes): Uppbeat's stock video "Person Views Jewel Changi
+  Rain Vortex" ("A person views the majestic Rain Vortex, an indoor waterfall cascading from a central skylight", by
+  Adam Sadilek). A free account gets "3 free downloads for individual use on your own channels" (no period stated),
+  under the Basic License: a "Solo Creator" using it "only in material published by yourself", open platforms yes,
+  "Paid Advertising" no, cropping allowed, no redistribution, no AI training; a credit is required for its music and
+  comes "on Content download" (no credit rule for stock video found; all pages undated). The clip's length, resolution
+  and Free or Premium mark did not show in the page text, so check it in Chrome before counting on it: if it is free
+  and the person is small or seen from behind, it is a real-footage B5 for 98 beside the Seedance one.
+  [Uppbeat clip](https://uppbeat.io/stock-video/asset/person-views-jewel-changi-rain-vortex-24156),
+  [Uppbeat pricing](https://uppbeat.io/pricing), [Uppbeat Basic License](https://uppbeat.io/uppbeat-basic-license)
+- FLUX 3 is no free video route yet (new to these notes): Black Forest Labs announced it Jul 23 2026 (video up to 20 s
+  with audio, image-to-video), but it "is not launching with downloadable weights", an open "FLUX 3 Dev" is promised
+  "later this year", video sits in a gated "Early Access" program and pricing is "Not announced" (VentureBeat, Jul 23
+  2026); MindStudio (Aug 8 2026) says Flux 3 Video is "now live in Runway and Leonardo" (paid; not checked). If FLUX 3
+  Dev ships, read its licence and whether it makes 9:16 before it joins LTX-2.5 (00:57 entry) on the after-Nov-28 list.
+  [VentureBeat, Jul 23 2026](https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start),
+  [MindStudio, Aug 8 2026](https://www.mindstudio.ai/blog/flux-3-video-open-weight-model)
+- Lightning AI is no second Modal (new to these notes): its free credits are now "a one-time grant of up to 30 credits
+  (5 on registration, 25 for adding a card)" that lapse after 12 months, and its GPU prices rose on Sep 21 2026 (an
+  hour: T4 $0.19 to $0.55, L4 $0.48 to $0.79, A100 40 GB $1.29 to $2.19, H100 $1.99 to $4.50), per usagepricing (Sep
+  21 2026, a third-party tracker of Lightning's pricing page); the "15 monthly Lightning credits (about 22 GPU
+  hours/month on an NVIDIA T4)" of older guides (aicreditmart, Feb 2026) is gone by that account. Lightning's own
+  billing FAQ (undated) says only "Users get 1 free 4-CPU Studio" and that free credits "are promotional" and may
+  change "at any time". Modal's $30 a month (03:00 entry) stays the free GPU to try first after Nov 28.
+  [usagepricing, Sep 21 2026](https://www.usagepricing.com/blueprint/activity/lightning-ai-2026-09-21-gpu-rate-card-reprice),
+  [Lightning billing FAQ](https://lightning.ai/docs/platform/overview/faq/billing.md),
+  [aicreditmart, Feb 2026](https://aicreditmart.com/ai-credits-providers/lightning-ai-free-plan-22-gpu-hours-month-guide-2026/)
