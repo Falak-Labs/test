@@ -2119,3 +2119,54 @@ Free footage and pictures
   [NIST living room](https://www.nist.gov/property-fieldsection/video-residential-fire-sprinklers),
   [NIST dormitories](https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/video-impact-sprinklers-fire-hazard),
   [NIST testimony, Jun 20 2007](https://www.nist.gov/speech-testimony/sprinkler-research)
+
+## 2026-11-25 07:00 PT (hourly runner, cloud run)
+
+Trends
+- Checked, nothing to build from it (a source later runs can skip): Exploding Topics' science and technology lists
+  (open without sign-in, 25 entries each, "Updated 12 November 2026" and "Updated 16 November 2026", growth over the
+  past two years) are skincare, software, companies and gadgets; the nearest to us are "Drag" (246,000 searches a
+  month, +17%) and the smart power strip (+489%, an older window).
+  [Exploding Topics, science](https://explodingtopics.com/science-topics),
+  [Exploding Topics, technology](https://explodingtopics.com/technology-topics)
+
+Free footage and pictures
+- The depth-parallax route of the Nov 24 17:00 entry, a setup check for whichever chat builds it: from a cloud
+  workspace huggingface.co does not answer (no response at 06:56 PT), and Fetch media takes only Higgsfield/CloudFront
+  links that are videos or pictures, so the Depth Anything V2 Small weights have to come another way (the owner's
+  computer, or a workflow that fetches them on GitHub's runner, with his OK). onnxruntime 1.29, OpenCV 5.0, numpy and
+  ffmpeg are already installed here, so an ONNX copy of the model would need no installs. Nothing rendered.
+
+New content
+- The barcode, a candidate build for the shopping season (new to these notes; not in LINEUP): Black Friday is Fri
+  Nov 27, every checkout beeps, and the stripes are about to share the pack. GS1 wants QR codes with GS1 standards
+  "widely adopted" "by the end of 2027", with retailers "around the world having the ability to scan these barcodes
+  at Point of Sale" (GS1 statement, 2024; the push is called Sunrise 2027), and brands keep "both the 1D and 2D
+  barcode on for a time period"; "Some 2,000 retailers and 1,900 brands have been involved in national pilots or
+  implementations to 2D" (Packaging Dive, Oct 27 2026). A chain from checked facts (the breaks are ours): A1, lines
+  drawn in beach sand become a barcode under a red beam: in "January 1949", "sitting on Miami Beach", Woodland "poked
+  my four fingers into the sand" and pulled "four lines": "wide lines and narrow lines, instead of dots and dashes"
+  (Smithsonian Magazine). A2, cashiers "manually entering the price of each on a cash register" (Smithsonian Magazine,
+  scanner article). A3, the lines swept into a bull's-eye that "could be read accurately from any angle" (patent
+  "filed" in 1949, "granted in 1952"). A4, nothing could read it yet: "a powerful 500-watt incandescent bulb" in the
+  home prototype, and no "minicomputer" or "very bright light" (Smithsonian). A5, the laser: "a helium-neon laser
+  projected a beam onto a rotating mirror and thence up through a glass plate", read by "a photo-diode" (the
+  Smithsonian's Spectra-Physics Model A of 1974). A6, the bull's-eye was "prone to smearing when printed" (IBM); its
+  store test ran at the Kroger Kenwood Plaza store in Cincinnati from "July 3, 1972" (Smithsonian). B1, Laurer's
+  rectangular code, the winner on March 30, 1973: "30 black and 29 blank vertical lines that wouldn't smudge" (IBM).
+  B2, a pack slid across sideways that will not beep (ours); B3, the beam off the rotating mirror reads the code
+  "omnidirectionally" (IBM). B5, "just after 8 a.m. on June 26, 1974" at Troy's Marsh Supermarket in Ohio, "a 10-pack
+  of Wrigley's Juicy Fruit gum that cost 67 cents" (GS1; the Smithsonian says "Legend has it"), drawn as a plain pack
+  with no brand. Line 12: "some 6 billion swipes of a barcode happen every day around the globe" (IBM, Nov 10 2025):
+  "6 BILLION". Line 13, the twist: the square code can also carry the "expiry date, lot number, serial number" (GS1).
+  B6: a cat hops onto the self-checkout's bagging scale, funny slow motion. Not free: the Smithsonian's photo of the
+  scanner ("There are restrictions for re-using this image"; only its text is CC0), and the gum pack "never came to
+  the Smithsonian" (it stayed with Marsh's Clyde Dawson), so B5 stays Seedance. No faces (sand, hands, a cashier from
+  behind), no store or brand names on screen.
+  [Smithsonian Magazine](https://www.smithsonianmag.com/innovation/history-bar-code-180956704/),
+  [Smithsonian Magazine, scanner](https://www.smithsonianmag.com/smithsonian-institution/supermarket-scanner-changed-way-we-buy-groceries-forever-180984293/),
+  [Smithsonian NMAH, Model A scanner](https://si.edu/object/supermarket-scanner:nmah_892778),
+  [IBM, Nov 10 2025](https://www.ibm.com/history/upc),
+  [GS1, Jun 26 2014](https://www.gs1.org/articles/marsh-holds-place-honor-history-gs1-barcode),
+  [GS1 statement, 2024](https://gs1.org/sites/gs1/files/2024-06/global-industry-endorsement-statement-qr-codes-with-gs1-standards.pdf),
+  [Packaging Dive, Oct 27 2026](https://www.packagingdive.com/news/gs1-sunrise-2027-adoption-pack-expo/872821/)
