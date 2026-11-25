@@ -1979,3 +1979,56 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   04:00Z, 37 (requeue) 04:30Z, 87 06:30Z. 85-87 are not on Buffer yet, so a run may give 85 its own tiktok: time.
 - The 4-minute show: its run of Nov 24 (13:17 PT) stopped on Claude's usage limit and no fallback made sm05, so Wed
   Nov 25 has no show episode (no long videos, no show short). The owner was told.
+
+## Nov 25 2026 (midday run, 11:23 PT): 93 the Huajiang bridge (Seedance), 96 a hand warmer (v2) (post Thu Nov 26 / Fri Nov 27)
+- TODAY Wed Nov 25 PT, TOMORROW Thu Nov 26 PT. Thursday was full (88-90, 76, 77, 91, 92) except the slot kept for 93,
+  so 93 takes it (EN 15:30 PT Thu = 23:30Z, AR Instagram 19:30 PT Thu = 03:30Z Nov 27, AR TikTok 00:30 PT Fri = 08:30Z:
+  3 h from 92 and from 94), and 96 takes Friday's third morning slot after 94-95 (EN 11:00 PT = 19:00Z, AR Instagram
+  06:00 PT = 14:00Z, AR TikTok 12:30 PT = 20:30Z Nov 27). Every at: turned back into PT before the push. YouTube held,
+  `studio: 1`. Only two builds: 97 (museum) is the next Seedance build and its footage was todo (see the picks below).
+- Status 19:30Z: the main chat's 78-82 all out except the Arabic TikToks of 80 (13:00Z) and 82 (18:00Z), "potential
+  spam"; 83 English out; 84-87 scheduled. 88-92, 76-77, 94-95 were waiting for Buffer places and post.yml had not run
+  since 03:45Z (the 15:10Z check-in did not dispatch it): this run's pushes let it add them; every channel is 10 of 10
+  again (20:26Z). yt_desk check: nothing overdue (its plan lists 78 and 79 English as already due, not uploaded).
+- Requeues. The Arabic TikTok grid runs every 2.5-3 h through Friday; the only 2-hour gaps left were 16:00Z Nov 26 and
+  16:30Z Nov 27 (both 2 h clear of the show's 18:30Z). 85's Arabic TikTok (not on Buffer yet, same minute as 60's
+  requeue at 01:30Z) got its own `tiktok:` time, 16:00Z Nov 26 (08:00 PT Thu, 19:00 Riyadh); 80's (Jeddah's fountain)
+  was requeued to 16:30Z Nov 27 (08:30 PT Fri, 19:30 Riyadh). Still in error, no gap and no queue place before Saturday:
+  48, 50, 54, 56, 62, 66-69, 72-74, 82 (+ sm03, sm04). 37 (04:30Z Nov 26) sits 30 minutes after 86 (04:00Z): left, it
+  was scheduled ahead.
+- Picks. 93 had the main chat's footage, scripts, voices and spec since Nov 24 14:04 PT but no video: its English voice
+  was 79.8 s (over the 75 s Seedance gate) and the hooks failed the rules (problem told at 13.9 s EN / 12.9 s AR). 96 had
+  no footage at 11:40 PT, so it was made in the v2 look (SEEDANCE_STYLE.md fallback) and handwarmer-A/B were marked
+  skipped; in fact the runner on the owner's computer had made handwarmer-A at 11:12 PT (its note came at 12:00 PT): it
+  stays a spare in ai-media. 97 stays for Seedance: museum-A/B are next in the queue, then rainvortex-A/B (98).
+- 93 fixes (one Seedance shot per line, with `len`; both fire lines on the burning-cable shot B1; reveal on A1, stat on
+  A6): English 225 -> 187 words. Hook "Y'all, China hung a road over a canyon called... the Earth's crack." + line 2
+  "Cars used to crawl down and back up: two hours! Now? Guess.", answered by line 11 "About two minutes." Unverified
+  figures dropped: 96 trucks / 3,000 t -> "almost a hundred loaded trucks"; "1,100 degrees for a whole hour" -> "made to
+  take eleven hundred degrees". Arabic lines 1, 2, 7, 9, 11, 12, 13 remade (closer "جسر هواجيانغ الكانيون الكبير" ->
+  "جسر هواجيانغ"). Voices: EN 72.4 s (hook 4.8 s, problem by 9.6 s: 0.1 s over after two passes, shipped), AR 70.8 s
+  (4.6 / 9.9 s). Whisper small: "old road" -> "whole road" and "in a gust" -> "Auguste" were reworded; on the mix only
+  number formats, "Huajian" and sail/sale. Videos: EN 73.8 s / AR 72.2 s, -14.2 LUFS, peaks -1.6 / -1.7 dBFS.
+- 96 (kit/episodes/handwarmer.py, v2): pouch(c, t, fill, cryst, heat, press, flash, melt, cold) = the clear pouch with
+  its disc (world 600 x 380, disc at (-100, -50)); the crystal front is a circle from the disc clipped to the pouch,
+  `melt` shrinks a rounded core (the boil); mitten() in two passes (behind / front) with `bare` cold hands; fingertip()
+  clicks the disc; lens() = molecules wandering or snapping into a hex grid with sparks of heat; dominoes();
+  chips_bag(); pocket_fire() (jeans pocket with a campfire, crossed out); packet() = a throwaway warmer whose wrapper
+  tears, air streams in and an x-ray window shows iron grains rusting with salt, charcoal and vermiculite;
+  pot_scene(), slope_scene() (a light pouch on white snow vanished: it sits in a dark glass card), bench_scene().
+- Ballen v4 on a v2 build: v2's gate is 61-70.5 s and the video is the voice + 3.1 s, so keep the English to about 165
+  spoken words (171 words = 68.0 s of voice at tempo 1.12 failed; 168 words = 66.5 s -> a 69.6 s video). Mansour v4
+  131 words = 68.7 s -> 71.8 s. Videos: EN 69.6 s / AR 71.8 s, -14.0 LUFS, peaks -2.2 / -2.1 dBFS; Whisper small on the
+  mix: disc/disk, "kind" -> "con", number formats (CI's base.en heard "heated seats" as "he did seats"; small hears it).
+- Research (WebSearch titles only): Huajiang (China Daily "World's tallest bridge gets 1,100 C fireproof armor", People's
+  Daily "Nearly 40,000 steel wires", Free Press Journal "around 100 heavy trucks", Tribune / Outlook "2 hours to 2
+  minutes", VnExpress "across 'Earth's crack'", inkl "I can touch the clouds"); hand warmer (Frostburg "How do dry
+  chemical heatpacks work", SFU heat pack demo, Science Focus, Wikipedia on sodium acetate as the salt and vinegar chip
+  seasoning, HowStuffWorks disposable warmers, HotHands "up to 10 hours").
+- Credits: ElevenLabs Pro 153,251 of 613,234 used at 19:40Z, 155,162 at 21:00Z (25% on day 3 of the period: the
+  other projects use about 40,000 a day).
+- Pages: retired ep55 (all sent), zipper-b81 (all sent, both Studio uploads done) and hzmb-b82 (only a refused Arabic
+  TikTok left, Studio done): media/ 1.3 -> 1.2 GB with 93 and 96. Next: 83 after its Arabic posts (20:30Z Nov 25); 78
+  and 79 once their English Studio uploads are done (still due in the desk plan); 37 and 60 after their requeued
+  Arabic TikToks; 80 after Fri 16:30Z; 84-87 as they go out.
+- LINEUP: 106 the Riyadh Metro, 107 a detachable chairlift, 108 an ice resurfacer appended (12 entries ahead of 96).
