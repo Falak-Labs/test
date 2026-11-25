@@ -878,7 +878,7 @@ jobs:
     # mixed with another chat's pearl-village prompt). The "only 1 unlimited at a time" toast means the press was
     # refused. Back to todo: start it (shots as below, with the main chat's rewording: no hand in shot 4, no word
     # "radioactive") once f63aa12b is done, about 14:15 PT, and do not fetch f63aa12b as this file.
-    status: todo
+    status: "generating (started: Nov 24 17:09 PT, main chat; Generating card confirmed; reworded: no hand, no radioactive)"
     file: buildit-smokealarm-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a white smoke alarm on a dark ceiling at night, the camera dives through its vents into a tiny
