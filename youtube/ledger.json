@@ -42,7 +42,16 @@
   {"key": "ep75-stepwell-en", "id": "Bq_e1A900u4", "channel": "Congrats Engineer", "at": "2026-11-24T05:34Z"},
   {"key": "ep73-pharos-ar", "id": "S2Q0C5IQL20", "channel": "Kef Tenbeni", "at": "2026-11-24T05:36Z"},
   {"key": "ep74-maraya-ar", "id": "47Sw7w4K_MU", "channel": "Kef Tenbeni", "at": "2026-11-24T05:37Z"},
-  {"key": "ep75-stepwell-ar", "id": "NoC0Rt6ozGQ", "channel": "Kef Tenbeni", "at": "2026-11-24T05:38Z"}
+  {"key": "ep75-stepwell-ar", "id": "NoC0Rt6ozGQ", "channel": "Kef Tenbeni", "at": "2026-11-24T05:38Z"},
+  {"key": "ep80-fountain-en", "id": "uJWSQZey5YM", "channel": "Congrats Engineer", "at": "2026-11-25T00:49Z"},
+  {"key": "ep81-zipper-en", "id": "r3-BXxlzjM8", "channel": "Congrats Engineer", "at": "2026-11-25T00:50Z"},
+  {"key": "ep82-hzmb-en", "id": "JRQ0Ew4VgYA", "channel": "Congrats Engineer", "at": "2026-11-25T00:51Z"},
+  {"key": "ep83-thermos-en", "id": "Hbu4tM3U0lU", "channel": "Congrats Engineer", "at": "2026-11-25T00:52Z"},
+  {"key": "ep84-hooverdam-en", "id": "O4KXX0-pf68", "channel": "Congrats Engineer", "at": "2026-11-25T00:53Z"},
+  {"key": "ep85-dubaiframe-en", "id": "jj7n-WwcU8A", "channel": "Congrats Engineer", "at": "2026-11-25T00:54Z"},
+  {"key": "ep86-kettle-en", "id": "SyKa53piiBY", "channel": "Congrats Engineer", "at": "2026-11-25T00:55Z"},
+  {"key": "ep87-balloon-en", "id": "nz-ZYsz0TlU", "channel": "Congrats Engineer", "at": "2026-11-25T00:56Z"},
+  {"key": "ep88-pontdugard-en", "id": "zB5_fmIQ0QM", "channel": "Congrats Engineer", "at": "2026-11-25T00:57Z"}
  ],
  "refused": [
   {"at": "2026-11-22T05:32Z", "channel": "Congrats Engineer"},
