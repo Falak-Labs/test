@@ -1,0 +1,124 @@
+{
+ "episode": "pa21",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 164,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "Tsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "كلمة فيها تلات كلمات: un، forget، able. شو يعني؟",
+   "characters": 48,
+   "model": "eleven_v4",
+   "seconds": 5.44
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "آسف.",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مش مشكلة.",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بحبك.",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "اشتقتلك.",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "اتصل فيي!",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Unforgettable.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Unforgettable!",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "العيد مع العيلة ما بنتسى!",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "Tsl",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Unfor... gettable.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  }
+ ]
+}

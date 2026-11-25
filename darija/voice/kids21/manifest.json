@@ -1,0 +1,124 @@
+{
+ "episode": "kids21",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 151,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "v1",
+  "Lw",
+  "Asl",
+  "Lsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I'm sorry.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "It's okay.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I love you.",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "I miss you.",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Call me!",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Unforgettable!",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Eid with the family is unforgettable!",
+   "characters": 37,
+   "model": "eleven_v4",
+   "seconds": 3.2
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Unforgettable!",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "Asl",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Unfor... gettable.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "Lsl",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Unfor... gettable.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  }
+ ]
+}

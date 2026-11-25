@@ -1,0 +1,124 @@
+{
+ "episode": "ma21",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 179,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "Tsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "كلمة فيها ثلاثة د الكلمات: un، forget، able. شنو كتعني؟",
+   "characters": 55,
+   "model": "eleven_v4",
+   "seconds": 5.84
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "سمح ليا.",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "ماشي مشكل.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "كنبغيك.",
+   "characters": 7,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "توحشتك.",
+   "characters": 7,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "عيط ليا!",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Unforgettable.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Good job! Unforgettable!",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "العيد مع العائلة ما كيتنساش!",
+   "characters": 28,
+   "model": "eleven_v4",
+   "seconds": 2.72
+  },
+  {
+   "id": "Tsl",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Unfor... gettable.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  }
+ ]
+}

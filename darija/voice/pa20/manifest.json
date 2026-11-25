@@ -1,0 +1,124 @@
+{
+ "episode": "pa20",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 146,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "Tsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "لينا جابت تلات أهداف. شو بسموها؟",
+   "characters": 32,
+   "model": "eleven_v4",
+   "seconds": 3.36
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "يلا نلعب فوتبول!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "مرر الطابة!",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "جول!",
+   "characters": 4,
+   "model": "eleven_v4",
+   "seconds": 0.8
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "ربحنا!",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 0.88
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "كانت حلوة اللعبة.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Champion.",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Champion!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "أخوي هو بطل الحارة!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "Tsl",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Cham... pion.",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  }
+ ]
+}
