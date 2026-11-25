@@ -1060,3 +1060,21 @@ New content
   [Scottish Canals](https://www.scottishcanals.co.uk/falkirk-wheel/),
   [Scottish Canals skipper's guide](https://www.scottishcanals.co.uk/boating/canal-travel/union-canal-skippers-guide/maps/voyaging-through-the-falkirk-wheel),
   [ASME, Oct 31 2011](https://www.asme.org/topics-resources/content/symbol-of-the-millennium-the-falkirk-wheel)
+- Jeddah Tower (the Build #100 candidate of Nov 24 12:05), still short of halfway on Nov 19: "Kingdom Holding reported
+  on November 2 that the tower had reached 120 floors, at about 482 meters", then the 121st "at about 484 metres"; the
+  team "expects to reach the 500-meter halfway point around Thanksgiving", climbing "about one floor a week", "on track
+  for the 2028 completion date", its "three-legged structure tapers as it rises" against the wind (Construction Review,
+  Nov 19 2026). TradeArabia (Nov 3) has it "expected to exceed 500m in height by the end of this year", with more than
+  322,000 cubic metres of concrete poured (72% of the total) and over 3,900 facade panels (from its summary; the
+  workforce differs: 6,400 against Construction Review's "around 5,200", so leave it out). Build-It use: if the 500 m
+  mark is announced this week, Build #100 gets a fresh line 1 ("halfway to a kilometre"); check the news first.
+  [Construction Review, Nov 19 2026](https://constructionreviewonline.com/jeddah-tower-halfway-mark-worlds-tallest-nears-500m/),
+  [TradeArabia, Nov 3 2026](https://tradearabia.com/News/489125/Saudi-Arabia%E2%80%99s-landmark-Jeddah-Tower-approaches-500m-mark)
+- Hand warmer (96), a shot idea for its pair: show the heat in thermal colours. FLIR's support page has "a video of the
+  crystallisation process taking place in a hand warmer" filmed on a thermal camera, its colours "linearly locked to the
+  span (23–65°C)" (FLIR's own film, not free to reuse). Our own version for A1, since falkirk-B's shot 4 already shows
+  the pouch click: "thermal camera view, a throwaway iron hand warmer packet torn open in a cold hand slowly turns from
+  deep blue to glowing orange". Checked, not usable: MIT OpenCourseWare's sodium acetate demo video (it links a CC
+  BY-NC-SA 4.0 licence: non-commercial).
+  [FLIR](https://www.flir.com/de-de/support/instruments2/is-it-possible-to-see-the-thermal-changes-in-a-hand-warmer-with-a-thermal-camera/),
+  [MIT OCW](https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/resources/mit3_020s21_demo_02_1080p_mp4)
