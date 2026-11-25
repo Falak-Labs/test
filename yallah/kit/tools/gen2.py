@@ -134,7 +134,7 @@ def build(ep, loc):
     add(id="o3", sp="A", shot="C", en="Bye!", pre=0.25, post=1.1); line("A", "o3", "Bye!")
     if EP.get("slow_take"):          # each voice says the word slowly in one take; make.py cuts it at the pauses into the parts
         for sp in "TAL":             # (parts recorded one by one came out wrong: "Thur" was read as "Thursday", Nov 23)
-            line(sp, f"{sp}sl", WORD["teacher_slow"] if sp == "T" and WORD.get("teacher_slow") else slow_text(WORD))
+            line(sp, f"{sp}sl", X["teacher_slow"] if sp == "T" and X.get("teacher_slow") else slow_text(WORD))
     else:
         for sp in "TAL":                 # the parts of the word, one take each, and one spare take with all of them
             for s, w in zip(SY, WORD["tts"]):

@@ -9,4 +9,4 @@ T | p05t | كانت حلوة اللعبة.
 T | tw | Tcham-pee-un.
 T | w6 | Good job! Tcham-pee-un!
 T | v2 | أخوي هو بطل الحارة!
-T | Tsl | Tchaam... pee-un.
+T | Tsl | Champ... pee-un.

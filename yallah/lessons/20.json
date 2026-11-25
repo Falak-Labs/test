@@ -21,8 +21,7 @@
    "ma": "تشامبيون",
    "pa": "تشامبيون"
   },
-  "teacher_says": "Tcham-pee-un",
-  "teacher_slow": "Tchaam... pee-un."
+  "teacher_says": "Tcham-pee-un"
  },
  "en": [
   [
@@ -102,7 +101,8 @@
    "تشام",
    "بيون"
   ],
-  "mean": "البطل"
+  "mean": "البطل",
+  "teacher_slow": "Tchaam... pee-un."
  },
  "pa": {
   "hook": [
