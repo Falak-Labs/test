@@ -1,0 +1,134 @@
+{
+ "lesson": "18",
+ "dialect": "pa",
+ "file": "yallah-say-pa-ep18.mp4",
+ "ok": true,
+ "problems": [],
+ "steps": {
+  "script": {
+   "seconds": 0.0,
+   "says": [
+    "40 beats, 11 voice lines, 239 characters"
+   ]
+  },
+  "slow T": {
+   "seconds": 0.2,
+   "says": [
+    "/home/runner/work/test/test/darija/voice/pa18/Tsl.mp3 → 0.78s 0.65s"
+   ]
+  },
+  "slow A": {
+   "seconds": 0.2,
+   "says": [
+    "/home/runner/work/test/test/darija/voice/kids18/Asl.mp3 → 0.64s 0.57s"
+   ]
+  },
+  "slow L": {
+   "seconds": 0.2,
+   "says": [
+    "/home/runner/work/test/test/darija/voice/kids18/Lsl.mp3 → 1.04s 0.82s"
+   ]
+  },
+  "page": {
+   "seconds": 0.1,
+   "says": [
+    "page /home/runner/work/test/test/out/pa18/page theme pa stickers coat mirror shirt"
+   ]
+  },
+  "sound": {
+   "seconds": 3.2,
+   "says": [
+    "duration 1:25.60 (2568 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.657",
+    "quiz 27.5 | hard word 40.5333 | end card 75.1667 | word parts (s): {'T': [0.78, 0.65], 'A': [0.64, 0.57], 'L': [1.04, 0.82]}"
+   ]
+  },
+  "picture": {
+   "seconds": 118.4,
+   "pieces": 5,
+   "at_once": 4,
+   "frames_per_second": 21.7
+  },
+  "join": {
+   "seconds": 0.1,
+   "says": []
+  },
+  "mux": {
+   "seconds": 1.6,
+   "says": []
+  },
+  "takes": {
+   "seconds": 2.9,
+   "says": [
+    "ok   o2      at   82.41s len 1.19s  match 0.944  (take offset +0.03s)",
+    "ok   o3      at   83.85s len 0.62s  match 0.993  (take offset +0.01s)",
+    "below 0.9: none"
+   ]
+  },
+  "frames": {
+   "seconds": 2.3,
+   "says": []
+  }
+ },
+ "voice_lines": {
+  "own": {
+   "folder": "darija/voice/pa18",
+   "lines": 11,
+   "characters": 239
+  },
+  "kids": {
+   "folder": "darija/voice/kids18",
+   "lines": 9,
+   "characters": 133
+  },
+  "common": {
+   "folder": "darija/voice/pacommon",
+   "lines": 7,
+   "characters": 159
+  },
+  "kidscommon": {
+   "folder": "darija/voice/kidscommon",
+   "lines": 2,
+   "characters": 22
+  }
+ },
+ "frames": 2568,
+ "duration": 85.6,
+ "sha256": {
+  "page/script.js": "e2919ca748392af7d8177affb7bfca3a7172868a349f77470f941c8cc2e3fd1a",
+  "page/tl.js": "5eb2353f591b9e645738711ce474dfc2d4c93391d1fc09a3933941e05f5f2a46",
+  "final.wav": "4e9033833d926854e754b8b5f18e20429ce06d58c8ede08c8ad4126d38c6dd8b",
+  "yallah-say-pa-ep18.mp4": "2edfd45fe7bd0207a414f7ee728f662285520448ba0227d034ea6cfbe8db7470"
+ },
+ "video": {
+  "size": 17605986,
+  "frames": 2568,
+  "width": 1080,
+  "height": 1920,
+  "rate": "30/1",
+  "audio_seconds": 85.6,
+  "audio_rate": "48000"
+ },
+ "takes_below_0.9": "none",
+ "sheet_times": [
+  1.6,
+  8.37,
+  10.88,
+  13.0,
+  15.1,
+  17.23,
+  19.45,
+  21.6,
+  24.08,
+  26.2,
+  29.1,
+  42.13,
+  76.77,
+  85.1
+ ],
+ "made_with": {
+  "python": "3.13.18",
+  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "playwright": "Version 1.63.0"
+ },
+ "seconds": 130.7
+}
