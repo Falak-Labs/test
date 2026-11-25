@@ -1731,3 +1731,82 @@ New content
   [Parametric Architecture, May 28 2026](https://parametric-architecture.com/taiwan-opens-danjiang-bridge/),
   [Wikipedia](https://en.wikipedia.org/wiki/Danjiang_Bridge),
   [TVBS, May 9 2026](https://t.media/3199057)
+
+## 2026-11-25 00:57 PT (hourly runner, cloud run)
+
+Trends
+- Virlo's week of Nov 23 (snapshot Nov 25, 1,278,330 TikToks; the Nov 16 week is in the Nov 23 23:55 entry): "POV"
+  setup hooks still lead, 33% reaching its virality score of 18+, then curiosity/mystery hooks at 32.1% (only 2,175
+  videos, median 29,096 views; 31.8% a week earlier), question hooks 26.2% (177,490) and story teases 25% (142,989).
+  The week's formats and its one named sound (the GTA VI score) are comedy, dance and lifestyle, and the holiday items
+  (Thanksgiving prep, Nov 21-25; Mariah Carey's Christmas song, "back on top for the season", SocialPilot) are food,
+  gift and beauty fits: nothing for us to join. Build-It use: keep line 1's "you" setup and let it leave one question
+  open that the reveal (line 11) answers.
+  [Virlo, upd. Nov 25 2026](https://virlo.ai/trending-on-tiktok-this-week),
+  [SocialPilot, Nov 17 2026](https://www.socialpilot.co/blog/tiktok-trends)
+
+Free footage and pictures
+- LTX-2.5 (Lightricks), the best-licensed open video model found so far for clips after Nov 28 (new to these notes;
+  the Nov 24 01:58 entry had only LTX Desktop): released Aug 11 2026 (VentureBeat), weights on Hugging Face behind a
+  click-through gate ("You need to agree to share your Hugging Face information"). Its card: "Commercial and
+  production use at no cost under the LTX-2.x Community License" for "Under $10M annual revenue", measured "across
+  the whole entity"; the card excludes no territory, and VentureBeat says "Lightricks claims no rights in generated
+  output" while the licence asks users to disclose machine-generated content and not to remove watermarks or
+  provenance (we keep the AI label anyway: Nov 23 23:55 entry). It makes "synchronized, high-fidelity video and audio"
+  (drop the audio: our bed is made in code) with "Native multishot generation — generate connected scenes in a single
+  pass" (no shot count given; our six-shot prompts are the same idea). Sizes must be "divisible by 32" and frames
+  "num_frames % 8 == 1" (121 frames is about 5 s at 24 fps), so the nearest vertical sizes are 704 x 1280 or 1088 x
+  1920, scaled or cropped to 720 x 1280 afterwards. VentureBeat: "a minimum of 16GB of VRAM"; a distilled 8-step
+  variant exists. Lightricks lists a free Space, "LTX-2.5 distilled two-stage", "Running on Zero" (the collection
+  page; the Space itself not opened here), so the ZeroGPU route (Nov 24 18:00 entry: about three calls a day on a free
+  account) can try it beside FastWan2.2, image-to-video from our unlimited 2K stills. Needs the owner's own HF account
+  (we never type codes) and his OK on the licence; not tried.
+  [LTX-2.5 card](https://huggingface.co/Lightricks/LTX-2.5),
+  [LTX-2.5 collection](https://huggingface.co/collections/Lightricks/ltx-25),
+  [VentureBeat, Aug 11 2026](https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights),
+  [RITS, Aug 12 2026](https://rits.shanghai.nyu.edu/ai/ltx-2-5-adds-native-multi-shot-video-and-a-diffusion-decoder/)
+- MiniMax H3, checked and out for us (new to these notes): the strongest open video model on the rankings (Artificial
+  Analysis "ranks H3 first in Video Editing, second in Text-to-Video", The Decoder, Aug 3 2026), weights on Hugging
+  Face since Aug 3 2026, 4-15 s clips at 768p (2K through an upscaler) with stereo sound. But its licence covers the
+  world "excluding the European Union, the United Kingdom, the Republic of Korea, and the United States of America"
+  (RITS, Aug 3 2026; The Batch, Aug 14 2026: users there must apply for a licence on MiniMax's platform), commercial
+  users must "prominently display the model name", and the smallest variant is "42.5 GB" of weights. If the owner
+  works from the US, it needs MiniMax's own licence first: leave it out.
+  [The Decoder, Aug 3 2026](https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/),
+  [RITS, Aug 3 2026](https://rits.shanghai.nyu.edu/ai/minimax-ships-h3-weights-with-the-us-and-eu-excluded/),
+  [The Batch, Aug 14 2026](https://www.deeplearning.ai/the-batch/minimaxs-state-of-the-art-video-model-is-only-minimally-open)
+
+New content
+- Checked facts and a shot chain for LINEUP 105, the Brooklyn Bridge (new to these notes). B5 is the real proof: "On
+  the evening of May 17, 1884, just shy of the anniversary of the panic, Barnum led a procession of 21 elephants and
+  17 camels across the bridge, with Jumbo bringing up the rear"; the directors "felt they could convince the public
+  the bridge was safe if the largest animal in the world walked across it" (History.com, upd. Aug 17 2026). The
+  towers stand on caissons, "large (very large) boxes that were placed open-side-down on the river bottom and then
+  pressurized" (Linda Hall, May 26 2023); "compressed air was pumped into the chamber, expelling the water"
+  (STRUCTURE, Nov 2016). Brooklyn's stopped at "44½ feet"; Manhattan's "at a depth of 78 feet 6 inches, Roebling
+  decided the dense sand and gravel would support his tower", with rock at "106 feet" (STRUCTURE; AISC: "stopped the
+  work before completely reaching bedrock"). The men got "caisson disease, the Bends" (STRUCTURE), and Washington
+  Roebling, "struck down with the bends", "worked entirely from home" (Linda Hall), Emily Roebling serving "as a
+  communication liaison with the engineers on site" (AISC, June 2011). The wire: "the Haigh firm was sometimes
+  delivering rejected wire rather than the good wire passed by inspectors", so "Roebling required 150 more good steel
+  wires per cable than originally planned" (AISC; STRUCTURE: free of charge). Against wind (suspension bridges "known
+  to collapse under their own weight, heavy traffic or strong winds", History.com) the elder Roebling "believed that a
+  heavy, stiff deck was the key", "an 85-ft wide stiff steel truss", plus "400 diagonal stays" (AISC). Span "1,595.5
+  ft", towers "276.5 ft above mean high water" (AISC). Leave out or check: the wires per cable (5,434 in AISC, 5,282
+  planned in STRUCTURE), the safety factor (six planned in AISC, five after the fraud in STRUCTURE and Linda Hall),
+  the opening day (May 24 in AISC and Linda Hall, May 23 in STRUCTURE: say "May 1883"), the caisson deaths (three in
+  AISC, about five in STRUCTURE) and the May 30 1883 crush. Chain (A2 and B2 are our reading): a river too wide and
+  busy for anything but one huge span (A2) → granite towers on pressurized timber boxes sunk into the riverbed (A3) →
+  the men coming up from the compressed air fall sick with the bends (A4) → stop on firm sand and gravel short of the
+  rock, the orders carried from a sickroom (A5) → a crooked contractor swaps in rejected wire overnight (A6) → 150
+  extra good wires in every cable (B1) → the wind that tore earlier suspension bridges apart (B2) → a stiff steel truss
+  deck and diagonal stays (B3) → the elephants (B5). B4 teases whatever is added as 106. Ready shots (the Roeblings,
+  Haigh and Barnum never shown, people only from behind): A1 cutaway of a giant timber box sunk upside down on a
+  riverbed, the water held out by compressed air, men seen from behind digging by lamplight inside it, a stone
+  tower standing on its roof; B5 at dusk a line of elephants walks across a great stone-towered suspension bridge under
+  gas lamps, crowds seen from behind watching, slow drone push; B6 funny slow motion, a man seen from behind sends his
+  dog across a wobbly plank over a muddy puddle first, the plank holds the dog and he still falls in.
+  [History.com, upd. Aug 17 2026](https://www.history.com/articles/brooklyn-bridge-elephant-procession-p-t-barnum-jumbo-1884),
+  [AISC Modern Steel, June 2011](https://www.aisc.org/globalassets/modern-steel/archives/2011/06/2011v06_brooklyn_bridge.pdf),
+  [STRUCTURE, Nov 2016](https://www.structuremag.org/article/brooklyn-bridge-part-2/),
+  [Linda Hall, May 26 2023](https://www.lindahall.org/about/news/scientist-of-the-day/washington-a-roebling/)
