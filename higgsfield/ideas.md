@@ -2602,3 +2602,75 @@ New content
   [GAO RCED-95-35BR, Oct 14 1994](https://www.govinfo.gov/content/pkg/GAOREPORTS-RCED-95-35BR/html/GAOREPORTS-RCED-95-35BR.htm),
   [NBC News](https://www.nbcnews.com/news/amp/wbna8975649),
   [Slashdot, Aug 27 2005](https://developers.slashdot.org/story/05/08/27/1634255/denver-airport-automated-baggage-system-abandoned)
+
+## 2026-11-25 13:55 PT (hourly runner, cloud run)
+
+Trends
+- A benchmark of three big engineering channels (new to these notes), vidIQ stats "As of 2026-11-25" (lifetime
+  views, so the newest uploads have had less time): none had a hit in the last 30 days. Engineering and architecture
+  (1.1M subscribers, Shorts of 9-31 s) got 1,522 and 2,106 views for its two October Shorts ("If the load moves out,
+  where does the counterweight go?", "Why Is the Hook on a Tape Measure Loose?") against 319,645 for "How Ratchets
+  Work" (2023): a big subscriber count did not carry those Shorts. Engineering World (597,000) has not posted since
+  Feb 28; its best are factory process films ("How Cement Is Made In Factories?", 1,043,828). The Engineers Post
+  (709,000; car-mechanics explainers of 10-29 min, one every 1-3 months) is the one still growing: "Which is The Best
+  Transmission For You? The Only Video You Need (2026)" 205,717 since Oct 30, "How CVT, e-CVT and RatioZero
+  Transmission Actually Work?" 368,417 since Apr 26; its titles name one system and promise the whole answer
+  ("Explained", "Which is the best...", "The Problem With These..."). For us: that title shape fits the 4-minute
+  show's full YouTube videos; a Short lives on its own hook, not on the channel.
+  [vidIQ, Engineering and architecture](https://vidiq.com/youtube-stats/channel/@engineeringandarchitecture/videos/index.md),
+  [vidIQ, Engineering World](https://vidiq.com/youtube-stats/channel/@engineeringworld./videos/index.md),
+  [vidIQ, The Engineers Post](https://vidiq.com/youtube-stats/channel/@theengineerspost/videos/index.md)
+- Dubai opened the Al Khaleej Street Tunnel on Sun Nov 8 (new to these notes): 1,650 m, three lanes each way, "a
+  combined capacity of 12,000 vehicles per hour" (Gulf News), from "the end of the Infinity Bridge ramp" in Deira;
+  about 522,000 m3 dug out and about 77% of it reused, "2,200 engineers, technicians and workers", "nearly 11 million
+  work hours without any reported injuries", and a wall mosaic of "36 million mosaic pieces" (Khaleej Times); part of
+  the 13 km Al Shindagha Corridor (1 h 44 min to 16 min "by 2030" for the whole corridor). How it was dug and how deep
+  were on neither page, so it is a peg, not a build: a fresh Dubai fact for Kef Tenbeni's UAE posts around National
+  Day (Wed Dec 2), the main chat's call.
+  [Khaleej Times, Nov 8 2026](https://www.khaleejtimes.com/uae/transport/rta-dubai-al-khaleej-street-tunnel-infinity-bridge-deira-reduce-traffic),
+  [Gulf News, Nov 8 2026](https://gulfnews.com/uae/transport/dubai-opens-new-tunnel-to-ease-deira-traffic-jams-1.500740117)
+
+Free footage and pictures
+- ESO, ESA/Hubble and ESA/Webb give real space and telescope footage under CC BY 4.0, commercial use included (new
+  to these notes: the Nov 24 08:10 entry has ESA's own share-alike licence, which these three sites do not use). ESO:
+  "the images, videos, and music distributed on the public ESO website ... are licensed under a Creative Commons
+  Attribution 4.0 International License" and "may on a non-exclusive basis be reproduced without fee provided the
+  credit is clear and visible"; ESA/Hubble and ESA/Webb: "images, videos and web texts are released under the Creative
+  Commons Attribution 4.0 International license". The rules that matter for us: the credit ("ESO", "ESA/Hubble",
+  "ESA/Webb", or the item's own credit line) "with the wording unaltered"; for video a credit in the description is
+  not enough: it goes "burned in" or overlaid, or "clearly visible as a credit at the end"; ESO adds "you must clearly
+  indicate if you have used AI to modify our content"; no logos, no implied endorsement, no identifiable people in
+  commercial use, and music is out (ESO's Music Archive aside). Files are big: ESO's "An update on the world's biggest
+  eye on the sky" (Jul 20 2026, 1 min 58 s) comes as "4K Ultra HD Preview H.264" (426.8 MB) or "Full HD Preview
+  1080p" (248.8 MB). Fetch media takes only cloudfront.net and higgsfield.ai links up to 300 MB, so using these needs
+  ESO's download host added to .github/workflows/fetch-media.yml (the 1080p file fits the size cap; the main chat's
+  call) or a download in Chrome.
+  [ESO, usage of images and videos](https://elt.eso.org/public/copyright/),
+  [ESA/Hubble, usage](https://esahubble.org/copyright/), [ESA/Webb, copyright](https://esawebb.org/copyright),
+  [ESO video potw2629a, Jul 20 2026](https://eso.org/public/videos/potw2629a/)
+
+New content
+- The Extremely Large Telescope, a candidate build whose B5 can be ESO's own footage after Nov 28 (new to these notes;
+  no telescope in LINEUP or among the made builds). Checked: the main mirror will be "39 metres in diameter and
+  consist of 798 segments"; M4 is "the largest adaptive mirror ever built, with a diameter of 2.4 metres"; the site is
+  Cerro Armazones "at an altitude of 3060 metres"; first test observations "in 2029", science "expected to be
+  delivered in December 2030" (ESO timeline; the 2023 midpoint report still had 2028); "the dome reached its highest
+  point of 80 meters" in April 2025, the main structure is "currently weighing around 3500 tonnes" and has "recently
+  rotated around its vertical axis" for the first time, and "The entire project is more than 75% complete" (ESO video,
+  Jul 20 2026); the dome's upper section "will rotate on the concrete 'pier' below", with shock absorbers at its base
+  against earthquakes (Space.com, Feb 16 2026). A chain (breaks marked "ours" are ours): A1, night on a bare desert
+  mountain, a giant metal dome opens and a mirror of hundreds of hexagons catches the Milky Way, slow push-in; A2, a
+  star in a small telescope shimmers and smears; A3, hexagons set edge to edge into a 39 m honeycomb; A4 (ours), the
+  cold night and the wind tilt a few segments and the star smears into copies; A5, sensors and small pistons nudge
+  them back into line (check before use); A6, an earthquake shakes the mountain; B1, the dome rides it out on its
+  shock absorbers; B2, the air itself makes the star twinkle; B3, a thin 2.4 m mirror flexes to undo the twinkle and
+  the star snaps sharp; B4, a tease of whichever build follows; B5, ESO's real dome and structure (its clips, credited
+  at the end); B6, funny slow motion, someone zooms a phone at the full moon and gets a white blob. Line 12: "798" or
+  "39 M". Check before use: the segment size, M4's thickness, actuators and how often it corrects, the laser guide
+  stars, the dome's width and mass and the cost (the timeline gives only a 2006 study budget) were on none of these
+  pages. Free Seedance ends Nov 28: if the main chat wants this build later, ESO's CC BY clips and pictures can carry
+  B5 and lines 12-13.
+  [ESO, ELT timeline](https://elt.eso.org/about/timeline/),
+  [ESO video potw2629a](https://eso.org/public/videos/potw2629a/),
+  [Space.com, Feb 16 2026](https://space.com/astronomy/this-giant-metal-dome-will-hide-a-truly-colossal-telescope-mirror-space-photo-of-the-day-for-feb-16-2026),
+  [Physics World, Jul 12 2023](https://physicsworld.com/a/officials-mark-midway-point-towards-completion-of-the-extremely-large-telescope/)
