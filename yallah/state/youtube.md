@@ -51,3 +51,9 @@ Channels: Yallah Say MA @YallahSayMa (UC_c7QhlukkSAR-qHKeSvkPA), Yallah Say PS @
 - Scheduled for Nov 26: ma lesson 16 2fEgU6ZJKWY (5:00), 17 iA73cD7OqeI (10:30), 18 8jwfWuYlbpA (13:30), Day 6 long NqrdCmu1h3Q (9:00);
   pa lesson 16 ZDXLm0lbKWc (3:30), 17 7ZvMiqecuhA (8:00), 18 r2nvZojjI7M (11:00), Day 6 long NHjjokhxXI8 (7:00). Pacific times.
 - Lessons 13 and 15 YouTube are still with Buffer (Nov 25); if they fail, upload them through Studio.
+
+## Nov 25-26 2026 (night PT run): scheduled for Nov 27 in Studio (Pacific times)
+- ma: lesson 19 co1yE2CXTLY (5:00), 20 TvjmxJv0ZSw (10:30), 21 Lpi-RYzudYM (13:30), Day 7 long DOmpvlih_EE (9:00)
+- pa: lesson 19 Xh7cWEub-rs (3:30), 20 uzNLFwiglfY (8:00), 21 mRzfOgP9I6c (11:00), Day 7 long 47V5ZPDiwv0 (7:00)
+- Lessons 13 and 15 went public through Buffer on both channels (checked in Studio), so no Studio re-upload was needed.
+- Studio was left on The Dark Told Me AR.
