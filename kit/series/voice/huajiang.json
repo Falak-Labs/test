@@ -3,1244 +3,1084 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 79.841,
- "words": 225,
- "words_per_sec": 2.82,
+ "duration": 73.864,
+ "words": 193,
+ "words_per_sec": 2.61,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 5.238,
-   "text": "Y'all, you can cross a canyon by hanging a road from a rope. Yes, a rope.",
+   "end": 4.768,
+   "text": "Y'all, China hung a road over a canyon called... the Earth's crack.",
    "words": [
     {
      "w": "Y'all,",
-     "start": 0.143,
-     "end": 0.75
+     "start": 0.125,
+     "end": 0.768
     },
     {
-     "w": "you",
-     "start": 0.929,
-     "end": 1.0
+     "w": "China",
+     "start": 0.982,
+     "end": 1.339
     },
     {
-     "w": "can",
-     "start": 1.107,
-     "end": 1.214
-    },
-    {
-     "w": "cross",
-     "start": 1.321,
-     "end": 1.429
+     "w": "hung",
+     "start": 1.411,
+     "end": 1.554
     },
     {
      "w": "a",
-     "start": 1.5,
-     "end": 1.571
-    },
-    {
-     "w": "canyon",
-     "start": 1.643,
-     "end": 2.143
-    },
-    {
-     "w": "by",
-     "start": 2.214,
-     "end": 2.286
-    },
-    {
-     "w": "hanging",
-     "start": 2.357,
-     "end": 2.571
-    },
-    {
-     "w": "a",
-     "start": 2.643,
-     "end": 2.714
+     "start": 1.625,
+     "end": 1.696
     },
     {
      "w": "road",
-     "start": 2.786,
-     "end": 3.071
+     "start": 1.768,
+     "end": 2.054
     },
     {
-     "w": "from",
-     "start": 3.143,
-     "end": 3.214
-    },
-    {
-     "w": "a",
-     "start": 3.286,
-     "end": 3.357
-    },
-    {
-     "w": "rope.",
-     "start": 3.429,
-     "end": 3.893
-    },
-    {
-     "w": "Yes,",
-     "start": 3.964,
-     "end": 4.536
+     "w": "over",
+     "start": 2.125,
+     "end": 2.339
     },
     {
      "w": "a",
-     "start": 4.571,
-     "end": 4.786
+     "start": 2.411,
+     "end": 2.482
     },
     {
-     "w": "rope.",
-     "start": 4.857,
-     "end": 5.357
+     "w": "canyon",
+     "start": 2.554,
+     "end": 2.911
+    },
+    {
+     "w": "called...",
+     "start": 2.982,
+     "end": 3.518
+    },
+    {
+     "w": "the",
+     "start": 3.554,
+     "end": 3.696
+    },
+    {
+     "w": "Earth's",
+     "start": 3.768,
+     "end": 4.125
+    },
+    {
+     "w": "crack.",
+     "start": 4.196,
+     "end": 4.839
     }
    ]
   },
   {
    "line": 2,
-   "start": 5.551,
-   "end": 13.921,
-   "text": "First problem. The canyon floor is six hundred twenty five meters down, so no pillars, and the old road just winds all the way down and back up.",
+   "start": 5.08,
+   "end": 10.361,
+   "text": "The old road crawls down to the river and back up. Two hours! Now? Guess.",
    "words": [
     {
-     "w": "First",
-     "start": 5.566,
-     "end": 5.78
-    },
-    {
-     "w": "problem.",
-     "start": 5.852,
-     "end": 6.417
-    },
-    {
      "w": "The",
-     "start": 6.486,
-     "end": 6.557
-    },
-    {
-     "w": "canyon",
-     "start": 6.629,
-     "end": 6.914
-    },
-    {
-     "w": "floor",
-     "start": 6.986,
-     "end": 7.271
-    },
-    {
-     "w": "is",
-     "start": 7.343,
-     "end": 7.557
-    },
-    {
-     "w": "six",
-     "start": 7.664,
-     "end": 7.771
-    },
-    {
-     "w": "hundred",
-     "start": 7.807,
-     "end": 7.986
-    },
-    {
-     "w": "twenty",
-     "start": 8.129,
-     "end": 8.271
-    },
-    {
-     "w": "five",
-     "start": 8.414,
-     "end": 8.557
-    },
-    {
-     "w": "meters",
-     "start": 8.7,
-     "end": 8.986
-    },
-    {
-     "w": "down,",
-     "start": 9.057,
-     "end": 9.486
-    },
-    {
-     "w": "so",
-     "start": 9.557,
-     "end": 9.771
-    },
-    {
-     "w": "no",
-     "start": 9.986,
-     "end": 10.129
-    },
-    {
-     "w": "pillars,",
-     "start": 10.2,
-     "end": 10.843
-    },
-    {
-     "w": "and",
-     "start": 10.879,
-     "end": 10.914
-    },
-    {
-     "w": "the",
-     "start": 10.986,
-     "end": 11.057
+     "start": 5.152,
+     "end": 5.223
     },
     {
      "w": "old",
-     "start": 11.129,
-     "end": 11.343
+     "start": 5.295,
+     "end": 5.509
     },
     {
      "w": "road",
-     "start": 11.414,
-     "end": 11.629
+     "start": 5.58,
+     "end": 5.795
     },
     {
-     "w": "just",
-     "start": 11.7,
-     "end": 11.843
-    },
-    {
-     "w": "winds",
-     "start": 11.914,
-     "end": 12.271
-    },
-    {
-     "w": "all",
-     "start": 12.379,
-     "end": 12.486
-    },
-    {
-     "w": "the",
-     "start": 12.557,
-     "end": 12.629
-    },
-    {
-     "w": "way",
-     "start": 12.7,
-     "end": 12.771
+     "w": "crawls",
+     "start": 5.866,
+     "end": 6.223
     },
     {
      "w": "down",
-     "start": 12.843,
-     "end": 13.129
+     "start": 6.295,
+     "end": 6.509
+    },
+    {
+     "w": "to",
+     "start": 6.58,
+     "end": 6.652
+    },
+    {
+     "w": "the",
+     "start": 6.687,
+     "end": 6.723
+    },
+    {
+     "w": "river",
+     "start": 6.795,
+     "end": 7.009
     },
     {
      "w": "and",
-     "start": 13.2,
-     "end": 13.343
+     "start": 7.152,
+     "end": 7.366
     },
     {
      "w": "back",
-     "start": 13.45,
-     "end": 13.557
+     "start": 7.509,
+     "end": 7.652
     },
     {
      "w": "up.",
-     "start": 13.629,
-     "end": 14.057
+     "start": 7.723,
+     "end": 8.0
+    },
+    {
+     "w": "Two",
+     "start": 8.134,
+     "end": 8.348
+    },
+    {
+     "w": "hours!",
+     "start": 8.491,
+     "end": 9.161
+    },
+    {
+     "w": "Now?",
+     "start": 9.339,
+     "end": 9.723
+    },
+    {
+     "w": "Guess.",
+     "start": 9.893,
+     "end": 10.464
     }
    ]
   },
   {
    "line": 3,
-   "start": 14.233,
-   "end": 19.565,
-   "text": "So you build two towers on the cliff tops, and hang the whole road from cables between them.",
+   "start": 10.673,
+   "end": 15.501,
+   "text": "So you stand two towers on the cliffs, and hang the road from cables between them.",
    "words": [
     {
      "w": "So",
-     "start": 14.447,
-     "end": 14.59
+     "start": 10.812,
+     "end": 10.954
     },
     {
      "w": "you",
-     "start": 14.733,
-     "end": 14.876
+     "start": 11.097,
+     "end": 11.24
     },
     {
-     "w": "build",
-     "start": 15.019,
-     "end": 15.162
+     "w": "stand",
+     "start": 11.312,
+     "end": 11.597
     },
     {
      "w": "two",
-     "start": 15.269,
-     "end": 15.376
+     "start": 11.669,
+     "end": 11.812
     },
     {
      "w": "towers",
-     "start": 15.447,
-     "end": 15.804
+     "start": 11.954,
+     "end": 12.312
     },
     {
      "w": "on",
-     "start": 15.876,
-     "end": 15.947
+     "start": 12.383,
+     "end": 12.454
     },
     {
      "w": "the",
-     "start": 15.983,
-     "end": 16.019
+     "start": 12.49,
+     "end": 12.526
     },
     {
-     "w": "cliff",
-     "start": 16.09,
-     "end": 16.304
-    },
-    {
-     "w": "tops,",
-     "start": 16.376,
-     "end": 16.923
+     "w": "cliffs,",
+     "start": 12.597,
+     "end": 13.097
     },
     {
      "w": "and",
-     "start": 16.971,
-     "end": 17.019
+     "start": 13.24,
+     "end": 13.312
     },
     {
      "w": "hang",
-     "start": 17.09,
-     "end": 17.233
+     "start": 13.454,
+     "end": 13.669
     },
     {
      "w": "the",
-     "start": 17.304,
-     "end": 17.447
-    },
-    {
-     "w": "whole",
-     "start": 17.519,
-     "end": 17.804
+     "start": 13.704,
+     "end": 13.74
     },
     {
      "w": "road",
-     "start": 17.876,
-     "end": 18.162
+     "start": 13.812,
+     "end": 14.026
     },
     {
      "w": "from",
-     "start": 18.269,
-     "end": 18.376
+     "start": 14.097,
+     "end": 14.24
     },
     {
      "w": "cables",
-     "start": 18.412,
-     "end": 18.804
+     "start": 14.312,
+     "end": 14.669
     },
     {
      "w": "between",
-     "start": 18.876,
-     "end": 19.233
+     "start": 14.74,
+     "end": 15.097
     },
     {
      "w": "them.",
-     "start": 19.304,
-     "end": 19.662
+     "start": 15.169,
+     "end": 15.597
     }
    ]
   },
   {
    "line": 4,
-   "start": 19.878,
-   "end": 24.6,
-   "text": "But a cable that heavy can't be pulled across a canyon in one go. Oh boy.",
+   "start": 15.813,
+   "end": 21.019,
+   "text": "But a cable that heavy? You can't just drag it across a canyon. Oh boy.",
    "words": [
     {
      "w": "But",
-     "start": 20.004,
-     "end": 20.147
+     "start": 16.58,
+     "end": 16.652
     },
     {
      "w": "a",
-     "start": 20.219,
-     "end": 20.29
+     "start": 16.723,
+     "end": 16.795
     },
     {
      "w": "cable",
-     "start": 20.362,
-     "end": 20.647
+     "start": 16.866,
+     "end": 17.223
     },
     {
      "w": "that",
-     "start": 20.79,
-     "end": 21.004
+     "start": 17.366,
+     "end": 17.58
     },
     {
-     "w": "heavy",
-     "start": 21.076,
-     "end": 21.29
+     "w": "heavy?",
+     "start": 17.652,
+     "end": 18.009
+    },
+    {
+     "w": "You",
+     "start": 18.205,
+     "end": 18.277
     },
     {
      "w": "can't",
-     "start": 21.433,
-     "end": 21.719
+     "start": 18.348,
+     "end": 18.491
     },
     {
-     "w": "be",
-     "start": 21.79,
-     "end": 21.862
+     "w": "just",
+     "start": 18.562,
+     "end": 18.705
     },
     {
-     "w": "pulled",
-     "start": 21.933,
-     "end": 22.076
+     "w": "drag",
+     "start": 18.777,
+     "end": 19.062
+    },
+    {
+     "w": "it",
+     "start": 19.098,
+     "end": 19.134
     },
     {
      "w": "across",
-     "start": 22.147,
-     "end": 22.433
+     "start": 19.205,
+     "end": 19.42
     },
     {
      "w": "a",
-     "start": 22.469,
-     "end": 22.504
+     "start": 19.491,
+     "end": 19.562
     },
     {
-     "w": "canyon",
-     "start": 22.576,
-     "end": 22.862
-    },
-    {
-     "w": "in",
-     "start": 22.933,
-     "end": 23.004
-    },
-    {
-     "w": "one",
-     "start": 23.076,
-     "end": 23.219
-    },
-    {
-     "w": "go.",
-     "start": 23.29,
-     "end": 23.735
+     "w": "canyon.",
+     "start": 19.634,
+     "end": 20.134
     },
     {
      "w": "Oh",
-     "start": 23.808,
-     "end": 24.022
+     "start": 20.295,
+     "end": 20.509
     },
     {
      "w": "boy.",
-     "start": 24.165,
-     "end": 24.808
+     "start": 20.652,
+     "end": 21.223
     }
    ]
   },
   {
    "line": 5,
-   "start": 24.912,
-   "end": 31.321,
-   "text": "So you pull a thin line across first, then spin almost twenty thousand steel wires into each main cable.",
+   "start": 21.331,
+   "end": 27.753,
+   "text": "So you pull a thin line over first, then add wire after wire: almost twenty thousand per cable.",
    "words": [
     {
      "w": "So",
-     "start": 25.055,
-     "end": 25.198
+     "start": 21.546,
+     "end": 21.688
     },
     {
      "w": "you",
-     "start": 25.27,
-     "end": 25.412
+     "start": 21.76,
+     "end": 21.903
     },
     {
      "w": "pull",
-     "start": 25.484,
-     "end": 25.627
+     "start": 21.974,
+     "end": 22.117
     },
     {
      "w": "a",
-     "start": 25.698,
-     "end": 25.841
+     "start": 22.188,
+     "end": 22.26
     },
     {
      "w": "thin",
-     "start": 25.912,
-     "end": 26.127
+     "start": 22.331,
+     "end": 22.546
     },
     {
      "w": "line",
-     "start": 26.198,
-     "end": 26.341
+     "start": 22.617,
+     "end": 22.831
     },
     {
-     "w": "across",
-     "start": 26.412,
-     "end": 26.77
+     "w": "over",
+     "start": 22.903,
+     "end": 22.974
     },
     {
      "w": "first,",
-     "start": 26.841,
-     "end": 27.341
+     "start": 23.117,
+     "end": 23.688
     },
     {
      "w": "then",
-     "start": 27.484,
-     "end": 27.627
+     "start": 23.796,
+     "end": 23.903
     },
     {
-     "w": "spin",
-     "start": 27.698,
-     "end": 27.984
+     "w": "add",
+     "start": 24.01,
+     "end": 24.117
+    },
+    {
+     "w": "wire",
+     "start": 24.26,
+     "end": 24.617
+    },
+    {
+     "w": "after",
+     "start": 24.688,
+     "end": 24.974
+    },
+    {
+     "w": "wire:",
+     "start": 25.046,
+     "end": 25.635
     },
     {
      "w": "almost",
-     "start": 28.055,
-     "end": 28.341
+     "start": 25.813,
+     "end": 25.992
     },
     {
      "w": "twenty",
-     "start": 28.412,
-     "end": 28.698
+     "start": 26.063,
+     "end": 26.349
     },
     {
      "w": "thousand",
-     "start": 28.912,
-     "end": 29.27
+     "start": 26.563,
+     "end": 26.921
     },
     {
-     "w": "steel",
-     "start": 29.341,
-     "end": 29.555
-    },
-    {
-     "w": "wires",
-     "start": 29.627,
-     "end": 29.984
-    },
-    {
-     "w": "into",
-     "start": 30.127,
-     "end": 30.27
-    },
-    {
-     "w": "each",
-     "start": 30.341,
-     "end": 30.555
-    },
-    {
-     "w": "main",
-     "start": 30.662,
-     "end": 30.77
+     "w": "per",
+     "start": 26.992,
+     "end": 27.135
     },
     {
      "w": "cable.",
-     "start": 30.841,
-     "end": 31.412
+     "start": 27.206,
+     "end": 27.921
     }
    ]
   },
   {
    "line": 6,
-   "start": 31.634,
-   "end": 36.844,
-   "text": "But cars cross it every day, and a fuel fire on the deck could cook those cables.",
+   "start": 28.065,
+   "end": 32.932,
+   "text": "But fuel trucks cross every day, and one fire could cook those cables.",
    "words": [
     {
      "w": "But",
-     "start": 32.08,
-     "end": 32.223
-    },
-    {
-     "w": "cars",
-     "start": 32.295,
-     "end": 32.58
-    },
-    {
-     "w": "cross",
-     "start": 32.652,
-     "end": 32.866
-    },
-    {
-     "w": "it",
-     "start": 32.973,
-     "end": 33.08
-    },
-    {
-     "w": "every",
-     "start": 33.152,
-     "end": 33.438
-    },
-    {
-     "w": "day,",
-     "start": 33.509,
-     "end": 33.955
-    },
-    {
-     "w": "and",
-     "start": 33.991,
-     "end": 34.027
-    },
-    {
-     "w": "a",
-     "start": 34.098,
-     "end": 34.17
+     "start": 28.512,
+     "end": 28.655
     },
     {
      "w": "fuel",
-     "start": 34.241,
-     "end": 34.455
+     "start": 28.727,
+     "end": 28.941
+    },
+    {
+     "w": "trucks",
+     "start": 29.012,
+     "end": 29.298
+    },
+    {
+     "w": "cross",
+     "start": 29.37,
+     "end": 29.655
+    },
+    {
+     "w": "every",
+     "start": 29.798,
+     "end": 30.084
+    },
+    {
+     "w": "day,",
+     "start": 30.155,
+     "end": 30.646
+    },
+    {
+     "w": "and",
+     "start": 30.718,
+     "end": 30.789
+    },
+    {
+     "w": "one",
+     "start": 30.861,
+     "end": 31.004
     },
     {
      "w": "fire",
-     "start": 34.527,
-     "end": 34.812
-    },
-    {
-     "w": "on",
-     "start": 34.848,
-     "end": 34.884
-    },
-    {
-     "w": "the",
-     "start": 34.955,
-     "end": 35.027
-    },
-    {
-     "w": "deck",
-     "start": 35.098,
-     "end": 35.312
+     "start": 31.146,
+     "end": 31.432
     },
     {
      "w": "could",
-     "start": 35.455,
-     "end": 35.67
+     "start": 31.504,
+     "end": 31.718
     },
     {
      "w": "cook",
-     "start": 35.741,
-     "end": 35.955
+     "start": 31.789,
+     "end": 31.932
     },
     {
      "w": "those",
-     "start": 36.062,
-     "end": 36.17
+     "start": 32.004,
+     "end": 32.218
     },
     {
      "w": "cables.",
-     "start": 36.241,
-     "end": 36.955
+     "start": 32.289,
+     "end": 33.004
     }
    ]
   },
   {
    "line": 7,
-   "start": 37.156,
-   "end": 43.177,
-   "text": "So you wrap each cable in fireproof armor, that survives eleven hundred degrees for a whole hour.",
+   "start": 33.245,
+   "end": 38.173,
+   "text": "So each cable wears fireproof armor, made to take eleven hundred degrees.",
    "words": [
     {
      "w": "So",
-     "start": 37.371,
-     "end": 37.513
-    },
-    {
-     "w": "you",
-     "start": 37.585,
-     "end": 37.728
-    },
-    {
-     "w": "wrap",
-     "start": 37.871,
-     "end": 38.013
+     "start": 33.53,
+     "end": 33.673
     },
     {
      "w": "each",
-     "start": 38.085,
-     "end": 38.299
+     "start": 33.816,
+     "end": 34.03
     },
     {
      "w": "cable",
-     "start": 38.371,
-     "end": 38.656
+     "start": 34.066,
+     "end": 34.388
     },
     {
-     "w": "in",
-     "start": 38.728,
-     "end": 38.871
+     "w": "wears",
+     "start": 34.459,
+     "end": 34.745
     },
     {
      "w": "fireproof",
-     "start": 38.942,
-     "end": 39.442
+     "start": 34.816,
+     "end": 35.316
     },
     {
      "w": "armor,",
-     "start": 39.585,
-     "end": 40.085
+     "start": 35.387,
+     "end": 35.959
     },
     {
-     "w": "that",
-     "start": 40.156,
-     "end": 40.228
+     "w": "made",
+     "start": 36.03,
+     "end": 36.173
     },
     {
-     "w": "survives",
-     "start": 40.299,
-     "end": 40.656
+     "w": "to",
+     "start": 36.245,
+     "end": 36.316
+    },
+    {
+     "w": "take",
+     "start": 36.387,
+     "end": 36.53
     },
     {
      "w": "eleven",
-     "start": 40.799,
-     "end": 41.085
+     "start": 36.602,
+     "end": 37.03
     },
     {
      "w": "hundred",
-     "start": 41.156,
-     "end": 41.371
+     "start": 37.173,
+     "end": 37.387
     },
     {
-     "w": "degrees",
-     "start": 41.442,
-     "end": 41.871
-    },
-    {
-     "w": "for",
-     "start": 41.942,
-     "end": 42.085
-    },
-    {
-     "w": "a",
-     "start": 42.156,
-     "end": 42.228
-    },
-    {
-     "w": "whole",
-     "start": 42.299,
-     "end": 42.585
-    },
-    {
-     "w": "hour.",
-     "start": 42.656,
-     "end": 43.299
+     "w": "degrees.",
+     "start": 37.459,
+     "end": 38.245
     }
    ]
   },
   {
    "line": 8,
-   "start": 43.489,
-   "end": 46.994,
-   "text": "But how do you know a road hanging in the air will actually hold?",
+   "start": 38.486,
+   "end": 41.478,
+   "text": "But how do you know a road hanging in the air will hold?",
    "words": [
     {
      "w": "But",
-     "start": 43.518,
-     "end": 43.661
+     "start": 38.579,
+     "end": 38.721
     },
     {
      "w": "how",
-     "start": 43.732,
-     "end": 43.875
+     "start": 38.793,
+     "end": 38.936
     },
     {
      "w": "do",
-     "start": 43.946,
-     "end": 44.018
+     "start": 39.007,
+     "end": 39.079
     },
     {
      "w": "you",
-     "start": 44.089,
-     "end": 44.161
+     "start": 39.15,
+     "end": 39.221
     },
     {
      "w": "know",
-     "start": 44.232,
-     "end": 44.304
+     "start": 39.293,
+     "end": 39.364
     },
     {
      "w": "a",
-     "start": 44.375,
-     "end": 44.446
+     "start": 39.436,
+     "end": 39.507
     },
     {
      "w": "road",
-     "start": 44.518,
-     "end": 44.804
+     "start": 39.579,
+     "end": 39.864
     },
     {
      "w": "hanging",
-     "start": 44.875,
-     "end": 45.161
+     "start": 39.936,
+     "end": 40.15
     },
     {
      "w": "in",
-     "start": 45.196,
-     "end": 45.232
+     "start": 40.221,
+     "end": 40.293
     },
     {
      "w": "the",
-     "start": 45.304,
-     "end": 45.446
+     "start": 40.364,
+     "end": 40.436
     },
     {
      "w": "air",
-     "start": 45.518,
-     "end": 45.732
+     "start": 40.507,
+     "end": 40.721
     },
     {
      "w": "will",
-     "start": 45.804,
-     "end": 46.018
-    },
-    {
-     "w": "actually",
-     "start": 46.089,
-     "end": 46.446
+     "start": 40.793,
+     "end": 40.936
     },
     {
      "w": "hold?",
-     "start": 46.518,
-     "end": 47.089
+     "start": 41.007,
+     "end": 41.65
     }
    ]
   },
   {
    "line": 9,
-   "start": 47.306,
-   "end": 52.865,
-   "text": "So you park ninety six loaded trucks across it, over three thousand tons, and watch.",
+   "start": 41.79,
+   "end": 46.813,
+   "text": "So you roll on almost a hundred loaded trucks, nose to tail, and watch.",
    "words": [
     {
      "w": "So",
-     "start": 47.521,
-     "end": 47.663
+     "start": 41.985,
+     "end": 42.128
     },
     {
      "w": "you",
-     "start": 47.735,
-     "end": 47.878
+     "start": 42.271,
+     "end": 42.413
     },
     {
-     "w": "park",
-     "start": 48.021,
-     "end": 48.163
+     "w": "roll",
+     "start": 42.521,
+     "end": 42.628
     },
     {
-     "w": "ninety",
-     "start": 48.235,
-     "end": 48.521
+     "w": "on",
+     "start": 42.699,
+     "end": 42.842
     },
     {
-     "w": "six",
-     "start": 48.592,
-     "end": 48.806
+     "w": "almost",
+     "start": 42.913,
+     "end": 43.199
+    },
+    {
+     "w": "a",
+     "start": 43.271,
+     "end": 43.413
+    },
+    {
+     "w": "hundred",
+     "start": 43.485,
+     "end": 43.842
     },
     {
      "w": "loaded",
-     "start": 48.949,
-     "end": 49.235
+     "start": 43.913,
+     "end": 44.199
     },
     {
-     "w": "trucks",
-     "start": 49.306,
-     "end": 49.521
+     "w": "trucks,",
+     "start": 44.271,
+     "end": 44.771
     },
     {
-     "w": "across",
-     "start": 49.592,
-     "end": 49.949
+     "w": "nose",
+     "start": 44.842,
+     "end": 45.128
     },
     {
-     "w": "it,",
-     "start": 50.021,
-     "end": 50.342
+     "w": "to",
+     "start": 45.199,
+     "end": 45.271
     },
     {
-     "w": "over",
-     "start": 50.485,
-     "end": 50.628
-    },
-    {
-     "w": "three",
-     "start": 50.699,
-     "end": 50.842
-    },
-    {
-     "w": "thousand",
-     "start": 50.985,
-     "end": 51.271
-    },
-    {
-     "w": "tons,",
-     "start": 51.413,
-     "end": 52.021
+     "w": "tail,",
+     "start": 45.342,
+     "end": 45.913
     },
     {
      "w": "and",
-     "start": 52.128,
-     "end": 52.235
+     "start": 46.021,
+     "end": 46.128
     },
     {
      "w": "watch.",
-     "start": 52.306,
-     "end": 52.949
+     "start": 46.271,
+     "end": 46.913
     }
    ]
   },
   {
    "line": 10,
-   "start": 53.178,
-   "end": 58.707,
+   "start": 47.126,
+   "end": 52.655,
    "text": "Hit follow, 'cause next we're building a smoke alarm. Yes... a smoke alarm.",
    "words": [
     {
      "w": "Hit",
-     "start": 53.248,
-     "end": 53.391
+     "start": 47.196,
+     "end": 47.338
     },
     {
      "w": "follow,",
-     "start": 53.534,
-     "end": 54.105
+     "start": 47.481,
+     "end": 48.053
     },
     {
      "w": "'cause",
-     "start": 54.248,
-     "end": 54.462
+     "start": 48.196,
+     "end": 48.41
     },
     {
      "w": "next",
-     "start": 54.534,
-     "end": 54.82
+     "start": 48.481,
+     "end": 48.767
     },
     {
      "w": "we're",
-     "start": 54.962,
-     "end": 55.105
+     "start": 48.91,
+     "end": 49.053
     },
     {
      "w": "building",
-     "start": 55.248,
-     "end": 55.391
+     "start": 49.196,
+     "end": 49.338
     },
     {
      "w": "a",
-     "start": 55.462,
-     "end": 55.534
+     "start": 49.41,
+     "end": 49.481
     },
     {
      "w": "smoke",
-     "start": 55.641,
-     "end": 55.82
+     "start": 49.588,
+     "end": 49.767
     },
     {
      "w": "alarm.",
-     "start": 55.891,
-     "end": 56.427
+     "start": 49.838,
+     "end": 50.374
     },
     {
      "w": "Yes...",
-     "start": 57.204,
-     "end": 57.668
+     "start": 51.151,
+     "end": 51.615
     },
     {
      "w": "a",
-     "start": 57.739,
-     "end": 57.811
+     "start": 51.687,
+     "end": 51.758
     },
     {
      "w": "smoke",
-     "start": 57.918,
-     "end": 58.168
+     "start": 51.865,
+     "end": 52.115
     },
     {
      "w": "alarm.",
-     "start": 58.382,
-     "end": 58.811
+     "start": 52.329,
+     "end": 52.758
     }
    ]
   },
   {
    "line": 11,
-   "start": 59.02,
-   "end": 65.039,
-   "text": "Today, tiny sensors in the cables watch temperature, humidity and stress, all day long.",
+   "start": 52.968,
+   "end": 58.182,
+   "text": "About two minutes. Two hours down and up... now two minutes across.",
    "words": [
     {
-     "w": "Today,",
-     "start": 59.091,
-     "end": 59.734
+     "w": "About",
+     "start": 53.111,
+     "end": 53.468
     },
     {
-     "w": "tiny",
-     "start": 59.948,
-     "end": 60.305
+     "w": "two",
+     "start": 53.611,
+     "end": 53.825
     },
     {
-     "w": "sensors",
-     "start": 60.377,
-     "end": 60.734
+     "w": "minutes.",
+     "start": 53.896,
+     "end": 54.432
     },
     {
-     "w": "in",
-     "start": 60.77,
-     "end": 60.805
+     "w": "Two",
+     "start": 55.182,
+     "end": 55.254
     },
     {
-     "w": "the",
-     "start": 60.841,
-     "end": 60.877
+     "w": "hours",
+     "start": 55.325,
+     "end": 55.611
     },
     {
-     "w": "cables",
-     "start": 60.948,
-     "end": 61.377
-    },
-    {
-     "w": "watch",
-     "start": 61.448,
-     "end": 61.662
-    },
-    {
-     "w": "temperature,",
-     "start": 61.734,
-     "end": 62.341
-    },
-    {
-     "w": "humidity",
-     "start": 62.448,
-     "end": 62.948
+     "w": "down",
+     "start": 55.682,
+     "end": 55.896
     },
     {
      "w": "and",
-     "start": 63.091,
-     "end": 63.305
+     "start": 55.968,
+     "end": 56.039
     },
     {
-     "w": "stress,",
-     "start": 63.377,
-     "end": 63.948
+     "w": "up...",
+     "start": 56.111,
+     "end": 56.611
     },
     {
-     "w": "all",
-     "start": 64.091,
-     "end": 64.305
+     "w": "now",
+     "start": 56.682,
+     "end": 56.896
     },
     {
-     "w": "day",
-     "start": 64.377,
-     "end": 64.52
+     "w": "two",
+     "start": 57.039,
+     "end": 57.182
     },
     {
-     "w": "long.",
-     "start": 64.591,
-     "end": 65.162
+     "w": "minutes",
+     "start": 57.254,
+     "end": 57.468
+    },
+    {
+     "w": "across.",
+     "start": 57.539,
+     "end": 58.254
     }
    ]
   },
   {
    "line": 12,
-   "start": 65.352,
-   "end": 68.997,
-   "text": "A road over six hundred meters up, hanging from two cables.",
+   "start": 58.495,
+   "end": 63.018,
+   "text": "It hangs six hundred twenty five meters up. That's almost two Eiffel Towers.",
    "words": [
     {
-     "w": "A",
-     "start": 65.474,
-     "end": 65.495
+     "w": "It",
+     "start": 58.566,
+     "end": 58.638
     },
     {
-     "w": "road",
-     "start": 65.637,
-     "end": 65.78
-    },
-    {
-     "w": "over",
-     "start": 65.852,
-     "end": 66.137
+     "w": "hangs",
+     "start": 58.709,
+     "end": 59.066
     },
     {
      "w": "six",
-     "start": 66.209,
-     "end": 66.423
+     "start": 59.137,
+     "end": 59.28
     },
     {
      "w": "hundred",
-     "start": 66.495,
-     "end": 66.709
+     "start": 59.352,
+     "end": 59.566
+    },
+    {
+     "w": "twenty",
+     "start": 59.709,
+     "end": 59.923
+    },
+    {
+     "w": "five",
+     "start": 59.995,
+     "end": 60.137
     },
     {
      "w": "meters",
-     "start": 66.78,
-     "end": 67.066
+     "start": 60.28,
+     "end": 60.566
     },
     {
-     "w": "up,",
-     "start": 67.209,
-     "end": 67.414
+     "w": "up.",
+     "start": 60.637,
+     "end": 60.923
     },
     {
-     "w": "hanging",
-     "start": 67.521,
-     "end": 67.807
+     "w": "That's",
+     "start": 61.03,
+     "end": 61.173
     },
     {
-     "w": "from",
-     "start": 67.879,
-     "end": 68.093
+     "w": "almost",
+     "start": 61.245,
+     "end": 61.602
     },
     {
      "w": "two",
-     "start": 68.2,
-     "end": 68.307
+     "start": 61.673,
+     "end": 61.887
     },
     {
-     "w": "cables.",
-     "start": 68.379,
-     "end": 69.093
+     "w": "Eiffel",
+     "start": 61.959,
+     "end": 62.245
+    },
+    {
+     "w": "Towers.",
+     "start": 62.316,
+     "end": 63.03
     }
    ]
   },
   {
    "line": 13,
-   "start": 69.31,
-   "end": 73.463,
+   "start": 63.33,
+   "end": 67.484,
    "text": "And congrats, you just built the Huajiang Grand Canyon Bridge yourself.",
    "words": [
     {
      "w": "And",
-     "start": 69.355,
-     "end": 69.498
+     "start": 63.376,
+     "end": 63.519
     },
     {
      "w": "congrats,",
-     "start": 69.57,
-     "end": 70.462
+     "start": 63.59,
+     "end": 64.483
     },
     {
      "w": "you",
-     "start": 70.641,
-     "end": 70.784
+     "start": 64.662,
+     "end": 64.804
     },
     {
      "w": "just",
-     "start": 70.855,
-     "end": 70.998
+     "start": 64.876,
+     "end": 65.019
     },
     {
      "w": "built",
-     "start": 71.105,
-     "end": 71.212
+     "start": 65.126,
+     "end": 65.233
     },
     {
      "w": "the",
-     "start": 71.248,
-     "end": 71.284
+     "start": 65.269,
+     "end": 65.304
     },
     {
      "w": "Huajiang",
-     "start": 71.355,
-     "end": 71.855
+     "start": 65.376,
+     "end": 65.876
     },
     {
      "w": "Grand",
-     "start": 71.927,
-     "end": 72.141
+     "start": 65.947,
+     "end": 66.162
     },
     {
      "w": "Canyon",
-     "start": 72.212,
-     "end": 72.498
+     "start": 66.233,
+     "end": 66.519
     },
     {
      "w": "Bridge",
-     "start": 72.57,
-     "end": 72.784
+     "start": 66.59,
+     "end": 66.804
     },
     {
      "w": "yourself.",
-     "start": 72.855,
-     "end": 73.641
+     "start": 66.876,
+     "end": 67.662
     }
    ]
   },
   {
    "line": 14,
-   "start": 73.776,
-   "end": 79.829,
+   "start": 67.796,
+   "end": 73.849,
    "text": "Hang a wet sheet on a clothesline in a gust... and your laundry becomes a sail.",
    "words": [
     {
      "w": "Hang",
-     "start": 74.553,
-     "end": 74.767
+     "start": 68.573,
+     "end": 68.787
     },
     {
      "w": "a",
-     "start": 74.803,
-     "end": 74.838
+     "start": 68.823,
+     "end": 68.859
     },
     {
      "w": "wet",
-     "start": 74.981,
-     "end": 75.124
+     "start": 69.002,
+     "end": 69.145
     },
     {
      "w": "sheet",
-     "start": 75.267,
-     "end": 75.481
+     "start": 69.287,
+     "end": 69.502
     },
     {
      "w": "on",
-     "start": 75.517,
-     "end": 75.553
+     "start": 69.537,
+     "end": 69.573
     },
     {
      "w": "a",
-     "start": 75.624,
-     "end": 75.696
+     "start": 69.645,
+     "end": 69.716
     },
     {
      "w": "clothesline",
-     "start": 75.767,
-     "end": 76.338
+     "start": 69.787,
+     "end": 70.359
     },
     {
      "w": "in",
-     "start": 76.374,
-     "end": 76.41
+     "start": 70.395,
+     "end": 70.43
     },
     {
      "w": "a",
-     "start": 76.481,
-     "end": 76.553
+     "start": 70.502,
+     "end": 70.573
     },
     {
      "w": "gust...",
-     "start": 76.624,
-     "end": 77.267
+     "start": 70.645,
+     "end": 71.287
     },
     {
      "w": "and",
-     "start": 78.024,
-     "end": 78.053
+     "start": 72.045,
+     "end": 72.073
     },
     {
      "w": "your",
-     "start": 78.124,
-     "end": 78.196
+     "start": 72.145,
+     "end": 72.216
     },
     {
      "w": "laundry",
-     "start": 78.267,
-     "end": 78.696
+     "start": 72.287,
+     "end": 72.716
     },
     {
      "w": "becomes",
-     "start": 78.803,
-     "end": 79.053
+     "start": 72.823,
+     "end": 73.073
     },
     {
      "w": "a",
-     "start": 79.124,
-     "end": 79.196
+     "start": 73.145,
+     "end": 73.216
     },
     {
      "w": "sail.",
-     "start": 79.267,
-     "end": 80.053
+     "start": 73.287,
+     "end": 74.073
     }
    ]
   }
