@@ -2674,3 +2674,82 @@ New content
   [ESO video potw2629a](https://eso.org/public/videos/potw2629a/),
   [Space.com, Feb 16 2026](https://space.com/astronomy/this-giant-metal-dome-will-hide-a-truly-colossal-telescope-mirror-space-photo-of-the-day-for-feb-16-2026),
   [Physics World, Jul 12 2023](https://physicsworld.com/a/officials-mark-midway-point-towards-completion-of-the-extremely-large-telescope/)
+
+## 2026-11-25 14:50 PT (hourly runner, cloud run)
+
+Trends
+- Instagram's "Features" test (new to these notes): horizontal videos "of as long as 90 minutes", a beta for "tens of
+  thousands of creators in the US", on "both mobile and TV"; Reels can "link directly to the full videos" and Explore
+  will recommend them; no standard ad-revenue share yet, only creator deals and sponsorships. The same Bloomberg report
+  says Reels over three minutes "are not recommended to new audiences". For us: the show's full cut (about 4:30, drawn
+  at 1080x1920 in kit/show/layout.py) stays off Instagram as a Reel, as now; being vertical, it would also need a 16:9
+  version before it could go up as a Feature (only if the account gets the beta; the main chat's call).
+  [Deccan Chronicle (Bloomberg), Oct 27 2026](https://www.deccanchronicle.com/amp/technology/instagram-tests-90-minute-horizontal-videos-to-compete-with-youtube-1999242),
+  [Android Authority, Oct 27 2026](https://androidauthority.com/instagram-90-minute-long-form-videos-youtube-rival-3728320)
+- Thanksgiving tomorrow, with this year's numbers (turkey fryers are new to these notes): CPSC, Nov 19 2026: "the
+  number of cooking fires on Thanksgiving Day is more than three times the daily average of 400 cooking fires", and
+  "Forty-two percent of annual residential fires are cooking-related" (last year's release said "an average of 1,400"
+  and 45 percent, so quote this year's). The fryer fire is build 76's own physics: water from a frozen bird sinks under
+  the hot oil, turns to steam and "the volume expands by 1,700 times" (chemist Kristine Nolin, quoted by NPR), and the
+  oil that splashes over the rim "ignites into a sheet of flame from the gas burner below". 76's English post goes out
+  Thanksgiving morning (13:30Z, 8:30 a.m. ET), so one caption line or a pinned comment is possible ("A frozen turkey in
+  hot oil: its water turns to steam 1,700 times bigger. Same steam, no valve."); posts are the main chat's call.
+  [CPSC, Nov 19 2026](https://www.cpsc.gov/Newsroom/News-Releases/2027/CPSC-Shares-Tips-for-a-Safer-Holiday-Feast),
+  [CPSC, Nov 19 2025](https://cpsc.gov/Newsroom/News-Releases/2026/Put-Safety-on-the-Menu-Consumer-Product-Safety-Commission-Offers-Safe-Cooking-Tips-for-a-Joyful-Holiday-Season),
+  [NPR, Nov 22 2023](https://www.npr.org/2023/11/22/1214667773/frying-turkey-safely-thanksgiving)
+- Checked, nothing new: Virlo and SocialPilot (Virlo's next week starts Nov 30); MiniMax H3 and LTX-2.5 are already in
+  the 00:57 entry.
+
+Free footage and pictures
+- JAXA, checked and out for the builds (new to these notes): the JAXA Digital Archives list "Use in a movie or
+  commercial" and "Use in sales of commodities" under "payment required" (the same page says the paid procedure is
+  "suspended", while JAXA's April 2026 PDF still describes paid licences, NHK co-owned footage licensed by NHK); the
+  site policy says use "for business or commercial purposes without the prior permission of the copyright holder
+  (JAXA) is strictly prohibited" and "No modification is allowed to any of the Materials"; the archive bans
+  "Alterations that change the meaning or intent" (its examples: changing length and width or colours, "inserting it
+  into other material"); astronauts and other people need JAXA's permission; ISAS allows commercial use only "with the
+  prior consent of the copyright holder". Channels meant to earn, with captions and zooms on every frame, fail both
+  tests: no JAXA pictures or clips unless JAXA agrees in writing (info-IP at jaxa.jp).
+  [JAXA Digital Archives](https://jda.jaxa.jp/service.php?lang=e),
+  [JAXA site policy, upd. Mar 29 2022](https://global.jaxa.jp/policy.html),
+  [JAXA, paid use of images and video, Apr 2026 (Japanese PDF)](https://www.jaxa.jp/about/ip_policy/data/gazoeizo_202604.pdf),
+  [ISAS image policy](https://www.isas.jaxa.jp/en/imagepolicy/)
+
+New content
+- SLIM, JAXA's "Moon Sniper", as a candidate build (new to these notes; no moon lander in LINEUP or among the made
+  builds). Its hook picture is real and strange: a lander standing on its nose on the Moon, photographed by a
+  baseball-sized rover. Checked: launched 7 Sep 2023 on an H-IIA with XRISM; the goal was "within 100 m of the target
+  site"; it touched down on Jan 19 2024 (Jan 20 in Japan) "about 55 m east of the original landing site", "under 10 m
+  of the landing site chosen by the craft's real-time navigation system" (Physics World; JAXA's Sakai: "possibly
+  within 3 to 4 meters", Space.com); one of its two main engines lost thrust "about 50 meters" up (PBS) and a camera
+  "had captured an engine nozzle lying on the lunar surface" (Space.com); it ended "rotated at 90 degrees, effectively
+  landing on the tip of its nose", its solar panels facing west, so no power, and it "powered down on the surface, as
+  planned, to avoid over-discharge" (Space.com, PBS, TechCrunch); the landing was "vision-based", with "an onboard
+  laser-range finder, a camera and a radar"; LEV-1 ("2.1 kg") hops; LEV-2, the "baseball-sized" SORA-Q built by JAXA
+  with Sony, toymaker Tomy and Doshisha University, took the upside-down photo and sent it home through LEV-1 (Physics
+  World; PBS: "275 images" between the two); Japan became "only the fifth country to make a soft landing on the moon".
+  Its nights, checked too: it "briefly powered back on nine days later, when the direction of incoming sunlight
+  changed enough to power SLIM's solar cells" (Live Science); a lunar night is "the roughly 14-day period" without
+  sunlight (Live Science), with temperatures "as low as minus 274 degrees Fahrenheit (minus 170 degrees Celsius)"
+  (Space.com); it "wasn't designed to withstand even one" such night, yet it answered on Feb 25, again in mid-March and
+  on Apr 23 2024 (JAXA: "SLIM has maintained its primary functions even after three overnight stays, which was not
+  anticipated in its design"; Space.com, Apr 24 2024).
+  A chain (breaks marked "ours" are ours): A1, a box-shaped lander stands on its nose on a grey crater slope, a tiny
+  ball rover rolls up and looks at it, slow push-in; A2 (ours), landers that come down anywhere in a wide zone, far
+  from the rock they came for; A3, the lander's camera compares the ground below with its map (check before use) and
+  steers to one exact spot; A4, 50 m up one engine nozzle breaks off and tumbles away; A5, the other engine still sets
+  it down within 10 m of its pick; A6, it rolls onto its nose, panels facing away from the sun, its lights die; B1, it
+  sleeps to save its battery, and days later the sunlight comes round onto its panels and it wakes; B2, the lunar night
+  falls and the lander sits alone in total darkness under the stars for two weeks, time-lapse; B3, sunrise creeps back
+  across the crater and the lander's antenna sends a faint signal toward the blue Earth; B4, a tease of whichever build
+  follows; B5, a baseball-sized ball splits open on the dust and photographs the upside-down lander, then a control room
+  watches that picture arrive, people from behind (JAXA's own photo is out, see above); B6, funny slow motion, a slice
+  of buttered toast slides off a plate and lands butter side down. Line 12: "55 M" or "3 NIGHTS". Check before use:
+  the matching method, how SORA-Q moves, SLIM's size and mass, when contact ended, and the landing zones of earlier
+  missions (none on these pages). No real faces.
+  [Space.com](https://www.space.com/japan-slim-moon-precise-landing),
+  [Space.com, Apr 24 2024](https://www.space.com/japan-slim-moon-lander-survives-3rd-lunar-night),
+  [Live Science](https://www.livescience.com/space/the-moon/slim-lives-japans-upside-down-moon-lander-survives-freezing-lunar-night-defying-all-expectations),
+  [Physics World](https://physicsworld.com/a/japans-lunar-lander-falls-head-over-heels-for-the-moon/),
+  [PBS NewsHour](https://www.pbs.org/newshour/science/japans-1st-moon-lander-has-hit-its-target-but-it-appears-to-be-upside-down),
+  [TechCrunch, Jan 25 2024](https://techcrunch.com/2024/01/25/japans-slim-spacecraft-sticks-moon-landing-upside-down/)
