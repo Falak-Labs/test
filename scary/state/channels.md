@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-24T22:50:25+00:00
+# Yallah Say Buffer channels, checked 2026-11-25T08:58:21+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -8,8 +8,8 @@
 - baron-p1-en en.tiktok: sent, sent 2026-11-24T17:11:31.291Z, https://tiktok.com/@thedarktoldme/video/7711786370397736205
 - baron-p2-en en.instagram: sent, sent 2026-11-24T21:05:16.371Z, https://www.instagram.com/reel/DgI4KS7BxL5/
 - baron-p2-en en.tiktok: sent, sent 2026-11-24T21:04:52.818Z, https://tiktok.com/@thedarktoldme/video/7711846623759977741
-- baron-p3-en en.instagram: scheduled, due 2026-11-25T00:01:26.000Z
-- baron-p3-en en.tiktok: scheduled, due 2026-11-25T00:01:38.000Z
+- baron-p3-en en.instagram: sent, sent 2026-11-25T00:06:59.685Z, https://www.instagram.com/reel/DgJM_1JKUDX/
+- baron-p3-en en.tiktok: sent, sent 2026-11-25T00:06:30.857Z, https://tiktok.com/@thedarktoldme/video/7711893229284740382
 - ep01-en-yt en.youtube: sent, sent 2026-11-24T00:11:03.841Z, https://www.youtube.com/shorts/wM39ojvsH_c
 - ep01-en en.instagram: sent, sent 2026-11-23T01:04:41.839Z, https://www.instagram.com/reel/DgEKAIUpN1I/
 - ep01-en en.tiktok: sent, sent 2026-11-23T01:04:25.012Z, https://tiktok.com/@thedarktoldme/video/7711166052100492558
@@ -31,7 +31,7 @@
 - ep08-en en.instagram: sent, sent 2026-11-22T09:53:11.729Z, https://www.instagram.com/reel/DgChfnfB_N7/
 - ep08-en en.tiktok: sent, sent 2026-11-22T09:54:15.380Z, https://tiktok.com/@thedarktoldme/video/7710931250768252173
 - ep09-en-tt en.tiktok: sent, sent 2026-11-23T07:47:46.684Z, https://tiktok.com/@thedarktoldme/video/7711269798449040671
-- ep09-en-yt en.youtube: scheduled, due 2026-11-25T00:30:51.000Z
+- ep09-en-yt en.youtube: sent, sent 2026-11-25T00:31:07.421Z, https://www.youtube.com/shorts/lzTR7z2YG3c
 - ep09-en en.instagram: sent, sent 2026-11-23T02:13:41.832Z, https://www.instagram.com/reel/DgERsyVNKnR/
 - ep10-en en.instagram: sent, sent 2026-11-22T07:22:56.953Z, https://www.instagram.com/reel/DgCQhYXvdZq/
 - ep10-en en.tiktok: sent, sent 2026-11-22T07:22:15.515Z, https://tiktok.com/@thedarktoldme/video/7710892351392091423
@@ -62,6 +62,8 @@
 - naddaha-p1-en en.tiktok: scheduled, due 2026-11-26T17:01:52.000Z
 - naddaha-p2-en en.instagram: scheduled, due 2026-11-26T21:01:20.000Z
 - naddaha-p2-en en.tiktok: scheduled, due 2026-11-26T21:02:57.000Z
+- naddaha-p3-en en.instagram: scheduled, due 2026-11-27T00:01:54.000Z
+- naddaha-p3-en en.tiktok: scheduled, due 2026-11-27T00:00:40.000Z
 - roushdy-p1-en en.instagram: scheduled, due 2026-11-25T17:01:28.000Z
 - roushdy-p1-en en.tiktok: scheduled, due 2026-11-25T17:00:36.000Z
 - roushdy-p2-en en.instagram: scheduled, due 2026-11-25T21:01:00.000Z
