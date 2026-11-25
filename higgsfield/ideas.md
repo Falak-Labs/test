@@ -1159,3 +1159,21 @@ New content
   [Global Railway Review](https://www.globalrailwayreview.com/building-a-railway-from-the-desert-up-why-the-uaes-national-network-matters/2136172.article),
   [Etihad Rail, Jul 29 2021](https://corporate.etihadrail.ae/en/newsroom/press/etihad-rail-completes-excavation-of-the-gccs-longest-rail-tunnel-as-part-of-development-of-uae-national-rail-network),
   [IMechE, Oct 24 2014](https://imeche.org/news/news-article/lines-in-the-sand)
+- The air conditioner, a candidate everyday build (not in LINEUP; strong for the Arabic channel): it was made for
+  paper, not people. "Humid air made the paper swell between passes, so the colors came out misaligned" at the Sackett
+  & Wilhelms printing plant in Brooklyn; "On July 17, 1902, Willis Haviland Carrier designed the first modern
+  air-conditioning system"; his patent, an "Apparatus for Treating Air", No. 808897, was issued January 2, 1906; the
+  "Rational Psychrometric Formulae" followed in December 1911, the first home unit in May 1926 and the first
+  window-sill units sold in March 1930 (Carrier's history page; its "chilled coils" held the plant at 55 percent
+  humidity, cooled with artesian well water, from a summary of the page's last part: check). The Gulf line: "Saudi
+  Arabia uses more than 70% of its electricity on air conditioning and cooling", and in summer "electricity use for
+  air conditioning roughly doubles compared to winter use" (Quartz, undated, citing one paywalled 2017 paper: check);
+  "The average efficiency rating of air conditioners in the region is currently less than half the average level in
+  Japan" (IEA, Middle East and North Africa report release, undated). Ready shots (no faces, no brand names): A1 a 1902
+  press spitting out smeared, misaligned colour prints on a steaming summer day; air blown over icy coils, water
+  beading and dripping off them; a macro cutaway of the refrigerant boiling inside the indoor coil and the outdoor fan
+  blasting the heat away; a traditional Gulf wind tower pulling a breeze down into a courtyard house, the old way; B6
+  funny slow motion, the window unit drips one cold drop onto a sleeping cat on the balcony below.
+  [Carrier history](https://www.carrier.com/us/en/history/invention-of-air-conditioning/),
+  [Quartz](https://qz.com/1284239/70-of-saudi-arabias-electricity-is-used-for-air-conditioning),
+  [IEA](https://www.iea.org/news/electricity-demand-is-surging-across-the-middle-east-and-north-africa-driven-by-cooling-and-desalination-needs)
