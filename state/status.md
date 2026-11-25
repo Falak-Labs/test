@@ -1,4 +1,4 @@
-# Post status 2026-11-24T22:34:37+00:00
+# Post status 2026-11-25T02:48:40+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -309,7 +309,7 @@
 | ep53-fridge | en.instagram | sent |  | 2026-11-21T16:32:41.333Z https://www.instagram.com/reel/DgAqiLMPcQR/ |
 | ep53-fridge | en.tiktok | sent |  | 2026-11-21T16:32:36.207Z https://www.tiktok.com/@congratsengineer/video/7710663205067951373?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep54-eiffel | ar.instagram | sent |  | 2026-11-21T14:02:29.528Z https://www.instagram.com/reel/DgAZcRSJ70R/ |
-| ep54-eiffel | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T01:30:00.000Z |
+| ep54-eiffel | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T01:30:00.000Z |
 | ep54-eiffel | ar.youtube | sent |  | 2026-11-21T14:01:09.562Z https://www.youtube.com/shorts/fhkjfyrrCj0 |
 | ep54-eiffel | en.instagram | sent |  | 2026-11-21T19:03:25.040Z https://www.instagram.com/reel/DgA7yvUBPdI/ |
 | ep54-eiffel | en.tiktok | sent |  | 2026-11-21T19:03:39.426Z https://www.tiktok.com/@congratsengineer/video/7710702140372667662?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
@@ -398,12 +398,12 @@
 | ep73-pharos | en.tiktok | sent |  | 2026-11-24T21:31:12.771Z https://tiktok.com/@congratsengineer/video/7711853488795389197 |
 | ep74-maraya | ar.instagram | sent |  | 2026-11-24T20:02:44.964Z https://www.instagram.com/reel/DgIxEvvgZNL/ |
 | ep74-maraya | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T20:30:00.000Z |
-| ep74-maraya | en.instagram | scheduled |  | 2026-11-25T00:00:00.000Z |
-| ep74-maraya | en.tiktok | scheduled |  | 2026-11-25T00:00:00.000Z |
-| ep75-stepwell | ar.instagram | scheduled |  | 2026-11-24T23:00:00.000Z |
-| ep75-stepwell | ar.tiktok | scheduled |  | 2026-11-24T23:00:00.000Z |
-| ep75-stepwell | en.instagram | scheduled |  | 2026-11-25T02:30:00.000Z |
-| ep75-stepwell | en.tiktok | scheduled |  | 2026-11-25T02:30:00.000Z |
+| ep74-maraya | en.instagram | sent |  | 2026-11-25T00:03:52.694Z https://www.instagram.com/reel/DgJMmUmuUSY/ |
+| ep74-maraya | en.tiktok | sent |  | 2026-11-25T00:03:15.796Z https://tiktok.com/@congratsengineer/video/7711892595084905742 |
+| ep75-stepwell | ar.instagram | sent |  | 2026-11-24T23:03:55.212Z https://www.instagram.com/reel/DgJFsuRBFXV/ |
+| ep75-stepwell | ar.tiktok | sent |  | 2026-11-24T23:01:43.988Z https://tiktok.com/@kef.tenbeni/video/7711876786996497677 |
+| ep75-stepwell | en.instagram | sent |  | 2026-11-25T02:31:25.854Z https://www.instagram.com/reel/DgJdgFfzoxm/ |
+| ep75-stepwell | en.tiktok | sent |  | 2026-11-25T02:31:54.536Z https://tiktok.com/@congratsengineer/video/7711930731504635150 |
 | ep78-airfryer | ar.instagram | scheduled |  | 2026-11-25T08:00:00.000Z |
 | ep78-airfryer | ar.tiktok | scheduled |  | 2026-11-25T08:00:00.000Z |
 | ep78-airfryer | en.instagram | scheduled |  | 2026-11-25T05:00:00.000Z |
@@ -440,7 +440,7 @@
 | sm02 | en.instagram | sent |  | 2026-11-22T20:16:16.547Z https://www.instagram.com/reel/DgDo_XSguAT/ |
 | sm02 | en.tiktok | sent |  | 2026-11-22T20:16:52.404Z https://www.tiktok.com/@congratsengineer/video/7711091895430024461?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm03 | ar.instagram | sent |  | 2026-11-23T18:32:33.518Z https://www.instagram.com/reel/DgGB6F5B1lE/ |
-| sm03 | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T02:00:00.000Z |
+| sm03 | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T02:00:00.000Z |
 | sm03 | en.instagram | sent |  | 2026-11-23T20:16:15.952Z https://www.instagram.com/reel/DgGNynth79K/ |
 | sm03 | en.tiktok | sent |  | 2026-11-23T20:16:55.822Z https://www.tiktok.com/@congratsengineer/video/7711462975671897357?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm04 | ar.instagram | sent |  | 2026-11-24T18:33:23.397Z https://www.instagram.com/reel/DgImuO-hc6f/ |
