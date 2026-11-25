@@ -1247,3 +1247,8 @@ New content
   triangular panes onto a terraced forest.
   [ENR, Jun 20 2019](https://www.enr.com/articles/47117-singapores-jewel-mall-project-was-no-walk-in-the-park),
   [Arup](https://www.arup.com/projects/jewel-changi-airport/)
+- Checked, not free: a search result titled "Five free Wan 3 videos a day" (fal.ai/wan-video-free) is just fal's Wan 3
+  page, which prices it per second, "$0.05/s at 480p, $0.10/s at 720p, and $0.20/s at 1080p" (so a 30 s 720p job would
+  cost $3), with clips of 2-30 s and 9:16 among the ratios; fal says outputs "can be used in commercial projects".
+  Wan 3 itself is new to these notes: if its weights come out under an open licence, the ZeroGPU route above may carry
+  it too. [fal.ai, Wan 3](https://fal.ai/wan-video-free)
