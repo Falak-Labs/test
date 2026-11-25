@@ -1023,7 +1023,7 @@ jobs:
     # (B1). A1 is the thermal-camera look (ideas.md Nov 24 15:59), since falkirk-B shot 4 already shows the pouch click.
     # Check before use: the 1923 warmer was a different kind (platinum catalyst and benzine, Hakkin). No faces: hands,
     # gloves, a camp seen wide.
-    status: todo
+    status: "skipped (build 96 is made in the v2 look by the Build-It midday run of Nov 25 PT: no footage was ready; generate museum-A/B next)"
     file: buildit-handwarmer-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): thermal camera view at night, a torn-open hand warmer packet of dark iron powder lies in a cold
@@ -1051,7 +1051,7 @@ jobs:
     # Future in Dubai (LINEUP; 77 m, 1,024 steel-clad panels, no columns inside: ideas.md Nov 24 13:05), shown without
     # its calligraphy so Seedance draws no false Arabic. B6: the pocket click on a hot day (ideas.md Nov 24 11:00), the
     # man only from behind. No faces: hands, gloves, crowds from behind.
-    status: todo
+    status: "skipped (build 96 is made in the v2 look by the Build-It midday run of Nov 25 PT: no footage was ready; generate museum-A/B next)"
     file: buildit-handwarmer-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro of a hand warmer packet sealed in a shiny airtight plastic wrapper, gloved hands tear it
