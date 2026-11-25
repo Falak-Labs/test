@@ -1492,3 +1492,87 @@ New content
   [nippon.com, Apr 4 2017](https://www.nippon.com/en/views/b06302/underground-temple-safeguards-greater-tokyo-from-floods.html),
   [nippon.com, page 2](https://www.nippon.com/articles/-/12645?page=2),
   [Tokyo Updates, Aug 28 2024](https://www.tokyoupdates.metro.tokyo.lg.jp/en/post-1361/)
+
+## 2026-11-24 21:50 PT (hourly runner, cloud run)
+
+Platform rules
+- YouTube counts a Shorts view on every start and replay (new to these notes): since Mar 31 2025 "Shorts views will
+  now count the number of times a creator's Short starts to play or replay" (TechCrunch, Mar 26 2025), "with no
+  minimum watch time requirement" (Search Engine Journal, Mar 26 2025). The old count, "now called 'engaged views'",
+  is "available in YouTube Analytics' Advanced Mode only", and YPP eligibility and earnings stay "based on 'engaged
+  views'" (SEJ; TechCrunch: the change "won't impact creators' earnings"). Instagram counts Reels the same way ("the
+  number of times your reel starts to play or replay", its help text quoted by Tubefilter, Mar 26 2025); TikTok has
+  not said how it counts (Tubefilter). Build-It use: a YouTube "view" includes every swipe-past, so the numbers study
+  (claude/build-it-performance.md) should compare YouTube by engaged views and average time watched, and read YPP
+  progress on engaged views. None of the pages says loops or replays are rewarded; no later change found.
+  [TechCrunch, Mar 26 2025](https://techcrunch.com/2025/03/26/youtube-is-changing-how-youtube-shorts-views-are-counted),
+  [SEJ, Mar 26 2025](https://www.searchenginejournal.com/youtube-changes-shorts-view-counts-no-change-to-monetization/543005/),
+  [Tubefilter, Mar 26 2025](https://www.tubefilter.com/2025/03/26/youtube-shorts-views-counting-stats/)
+
+Free footage and pictures
+- Pond5's Public Domain Project is still up (new to these notes): the page (undated, "© 2026 Pond5 Inc.") says
+  "Completely free" and "All content here is provided by Pond5, free of charge for unlimited use", calls the media
+  "copyright-free", and asks for a free account ("Create your free account on Pond5, browse and download it"). It
+  lists 1,000 footage files and 63,824 images; the 2015 launch had "10,000 video clips", among them "NASA rocket
+  launches" and "the World Wars" (ProVideo Coalition, Jan 22 2015), with "5,000 video clips that were digitized from
+  the National Archives" (TechCrunch, Jan 20 2015). Caveats: "media available in the public domain in the U.S. isn't
+  necessarily categorized as public in other countries" (TechCrunch), and the page says nothing about trademarks,
+  people or watermarks. Build-It use: like FedFlix (20:00 entry), one archive proof shot at most inside our own
+  footage, nothing with faces or logos, each item's own page read first (in Chrome or a production run; not tried
+  here).
+  [Pond5 Public Domain](https://www.pond5.com/public-domain),
+  [TechCrunch, Jan 20 2015](https://techcrunch.com/2015/01/20/pond5-issues-80000-free-media-assets-with-the-launch-of-its-public-domain-project),
+  [ProVideo Coalition, Jan 22 2015](https://www.provideocoalition.com/pond5-launches-the-public-domain-project-with-80000-free-media-clips/)
+
+New content
+- Bahrain World Trade Center, Manama, a candidate Arab-world build (not in LINEUP, new to these notes), with Bahrain's
+  National Day on Wed Dec 16 (holiday Dec 16-17, Office Holidays) as a date for Kef Tenbeni: "a 240-metre-high (787
+  ft), 50-floor, twin tower complex" whose "sail-shaped buildings on either side are designed to funnel wind through
+  the gap" into three turbines on sky bridges, "aligned north, which is the direction from which air from the
+  Persian Gulf blows in" (Wikipedia); the "elliptical shaped towers act as aerofoils, funneling and accelerating the
+  wind velocity between them" (Gulf News, Apr 8 2008). Three 29 m rotors (six pages agree), meant for "11% to 15% of
+  the towers' total power consumption", "approximately 1.1 to 1.3 GWh a year" (Wikipedia; Gulf News and FMLink also
+  say 11-15%); they "turned on for the first time on 8 April 2008" (Wikipedia). Breaks and fixes on the pages (ENR,
+  Jan 7 2009): "Among the most serious was vibration, cured by inserting rubber bearings at the bridges' ends", and
+  the towers taper with height, which eases the funnel effect higher up so the three turbines see about the same wind
+  (paraphrased). The twist for line 12: a TU/e wind-tunnel and simulation study (Bert Blocken, Apr 23 2014) says the
+  towers "would actually produce 14 percent more wind energy if they were positioned the other way round" (it does
+  not say what that means: script only "a later study says turned around they would make more"). Leave out the kW
+  (225 in Wikipedia, FMLink and BuildingGreen; "275-kW" in ENR), ENR's "15% to 25%" and SKF's "15 percent". No page
+  gives measured output after 2008, a wind speed-up figure, or whether the turbines turn with the wind: script none.
+  Atkins designed it (architect Shaun Killa), Norwin made the turbines, Rambøll engineered the bridge and turbine
+  assemblies with Norwin (ENR). Chain (A4 and B2 are our reading): a hot island city on the Gulf (A2) → let the sea
+  breeze make power (A3) → a roof turbine gets weak, gusty wind (A4) → two sail-shaped towers funnel the breeze (A5)
+  → the spinning blades shake the bridges (A6) → rubber bearings at the bridge ends (B1) → wind is stronger higher
+  up, so the top turbine would race (B2) → the towers narrow as they rise (B3). Ready shots (the building only, no
+  flags or writing): A1 at sunrise three giant turbines spinning on bridges between two sail-shaped towers over the
+  Gulf; B6 funny slow motion, a man seen from behind walks between two tall buildings and the wind turns his umbrella
+  inside out.
+  [Wikipedia](https://en.wikipedia.org/wiki/Bahrain_World_Trade_Center),
+  [Gulf News, Apr 8 2008](https://gulfnews.com/business/property/worlds-first-integrated-wind-turbines-inaugurated-in-bahrain-1.96973),
+  [ENR, Jan 7 2009](https://enr.com/articles/7181-sailing-background-leads-to-two-towers-with-turbines),
+  [TU/e, Apr 23 2014](https://www.tue.nl/en/news/news-overview/bahrain-world-trade-center-is-exactly-the-wrong-way-round/),
+  [FMLink, Apr 28 2008](https://www.fmlink.com/large-building-integrated-wind-turbines-spin-on-bahrain-world-trade-center/),
+  [Office Holidays, Bahrain](https://www.officeholidays.com/countries/bahrain/national_day.php)
+- Stadium 974, Doha, a candidate build (new to these notes; not Build 30's cooled stadium), with Qatar's National Day
+  on Fri Dec 18 (Office Holidays): it "incorporates 974 recycled shipping containers" (Wikipedia; New Atlas, Dec 2
+  2021: "almost 1,000"), used "to host seats, concession stands, toilets, and other areas" on "a steel framework with
+  a partial roof up top" (New Atlas). It "has natural ventilation, which avoids the need for cooling technology" (New
+  Atlas), "ventilation using the land and sea breeze", "the only one of eight World Cup arenas in Qatar without air
+  conditioning" (Reuters via ThePrint, Dec 10 2022), "so it only hosted evening matches" (ArchDaily, Dec 15 2022).
+  The name is the container count (Reuters, Construction Dive) and "the international dialing code for Qatar (+974)"
+  (Wikipedia). Built to come apart: "authorities have begun dismantling Stadium 974" (ArchDaily, Dec 2022), but Wikipedia (as of December 2025)
+  says that "has not happened and the stadium currently sits in its original site", with matches there in 2024 and
+  2025: the true ending is "built to disappear, still standing" (check again before scripting). Leave out the seats
+  (44,089 in Wikipedia, ArchDaily and Reuters; 40,000 in New Atlas and Construction Dive: "about forty thousand"),
+  the water saving (a second-hand "40%") and the carbon claims (ArchDaily cites Carbon Market Watch: a footprint "60%
+  higher than that of the permanent structures"). Architects Fenwick Iribarren, engineers Schlaich Bergermann Partner
+  (Wikipedia). The engineering only: no tournament logos, mascots, players or faces. Ready shots: A1 at night a
+  stadium of bright shipping containers stacked in a steel frame by the sea, a crane lifting one away; B6 funny slow
+  motion, a cat leaps onto a tower of cardboard boxes and it tips over. Like Ski Dubai (20:00 entry), either pair
+  would have to run by Nov 28 to get Seedance footage; after that, stills.
+  [Wikipedia](https://en.wikipedia.org/wiki/Stadium_974),
+  [New Atlas, Dec 2 2021](https://newatlas.com/architecture/974-stadium-fenwick-iribarren),
+  [ThePrint (Reuters), Dec 10 2022](https://theprint.in/sport/soccer-what-next-for-stadium-974-the-world-cups-first-fully-demountable-arena/1259244),
+  [ArchDaily, Dec 15 2022](https://www.archdaily.com/993811/workers-begin-dismantling-qatars-stadium-974-the-first-temporary-world-cup-stadium),
+  [Office Holidays, Qatar](https://www.officeholidays.com/countries/qatar/national_day.php)
