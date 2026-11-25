@@ -8,5 +8,5 @@ A | p05k | That's all, thank you.
 A | w5 | Receipt!
 L | v1 | Can I have the receipt, please?
 L | Lw | Receipt!
-A | Asl | Re... ceipt.
-L | Lsl | Re... ceipt.
+A | Asl | Ri... seet.
+L | Lsl | Ri... seet.

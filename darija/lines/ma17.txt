@@ -9,4 +9,4 @@ T | p05t | صافي، شكرا.
 T | tw | Receipt.
 T | w6 | Good job! Receipt!
 T | v2 | ممكن الفاتورة، عافاك؟
-T | Tsl | Re... ceipt.
+T | Tsl | Ri... seet.
