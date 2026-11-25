@@ -2,10 +2,8 @@
  "lesson": "21",
  "dialect": "pa",
  "file": "yallah-say-pa-ep21.mp4",
- "ok": false,
- "problems": [
-  "a voice take is not intact in the finished file: ['p01k', 'rc0_0']"
- ],
+ "ok": true,
+ "problems": [],
  "steps": {
   "script": {
    "seconds": 0.0,
@@ -38,17 +36,17 @@
    ]
   },
   "sound": {
-   "seconds": 4.0,
+   "seconds": 3.7,
    "says": [
     "duration 1:21.10 (2433 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.661",
     "quiz 25.2667 | hard word 36.3667 | end card 70.6667 | word parts (s): {'T': [1.01, 0.67], 'A': [0.96, 0.7], 'L': [0.89, 0.95]}"
    ]
   },
   "picture": {
-   "seconds": 105.8,
+   "seconds": 101.4,
    "pieces": 5,
    "at_once": 4,
-   "frames_per_second": 23.0
+   "frames_per_second": 24.0
   },
   "join": {
    "seconds": 0.1,
@@ -59,7 +57,7 @@
    "says": []
   },
   "takes": {
-   "seconds": 2.9,
+   "seconds": 2.8,
    "says": [
     "ok   o2      at   77.91s len 1.19s  match 0.945  (take offset +0.03s)",
     "ok   o3      at   79.35s len 0.62s  match 0.993  (take offset +0.01s)",
@@ -99,10 +97,10 @@
   "page/script.js": "62a48ff480e71c40912e3806d77e6e84407d020fe724530a6f4f7e47bc608372",
   "page/tl.js": "2bcf313c78b419285adc8aa49e63e9311f3f867520086153c04be8f0a03bf731",
   "final.wav": "4514eac9d0957b47f1256c4e0785dd07df83b21d8db8ae85fc62f632712afa34",
-  "yallah-say-pa-ep21.mp4": "c9d9c27caebd55ea989079f0ab4876a2ccff25b09fd463e9815c8247087ef8bd"
+  "yallah-say-pa-ep21.mp4": "dba75e7001a7642cae81ada4ed5dcf564b453cb05615bdd26b4d2f7b4ddfc3d0"
  },
  "video": {
-  "size": 17159194,
+  "size": 17159329,
   "frames": 2433,
   "width": 1080,
   "height": 1920,
@@ -111,6 +109,10 @@
   "audio_rate": "48000"
  },
  "takes_below_0.9": "['p01k', 'rc0_0']",
+ "takes_accepted": [
+  "p01k",
+  "rc0_0"
+ ],
  "sheet_times": [
   1.6,
   8.3,
@@ -132,5 +134,5 @@
   "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
   "playwright": "Version 1.63.0"
  },
- "seconds": 119.1
+ "seconds": 114.0
 }
