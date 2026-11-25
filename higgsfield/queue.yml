@@ -912,7 +912,7 @@ jobs:
     # B-roll and NIST's "Smoke Alarm vs. Bacon" (ideas.md Nov 24 09:05). B4 teases build 95, the Falkirk Wheel (a 24 m
     # lift, ideas.md Nov 24 10:05). B6: a dish towel waved at the alarm over burnt toast (reword to hands only if the
     # filter flags the man).
-    status: todo
+    status: "generating (started: Nov 24 17:37 PT, main chat; Generating card confirmed; reworded: no hands/engineers)"
     file: buildit-smokealarm-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): close-up of a smoke alarm on a ceiling at dusk, its red light flashing once with a low-battery
