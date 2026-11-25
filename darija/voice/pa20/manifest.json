@@ -15,10 +15,11 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 36,
+ "requested_characters": 53,
  "recorded_this_run": [
   "tw",
-  "w6"
+  "w6",
+  "Tsl"
  ],
  "notes": [],
  "lines": [
@@ -80,7 +81,7 @@
    "id": "tw",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Chaam-pee-un.",
+   "text": "Tcham-pee-un.",
    "characters": 13,
    "model": "eleven_v4",
    "seconds": 1.12
@@ -89,10 +90,10 @@
    "id": "w6",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Good job! Chaam-pee-un!",
+   "text": "Good job! Tcham-pee-un!",
    "characters": 23,
    "model": "eleven_v4",
-   "seconds": 2.48
+   "seconds": 2.4
   },
   {
    "id": "v2",
@@ -107,10 +108,10 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Champ... pee-un.",
-   "characters": 16,
+   "text": "Tchamp... pee-un.",
+   "characters": 17,
    "model": "eleven_v4",
-   "seconds": 2.0
+   "seconds": 1.84
   }
  ]
 }
