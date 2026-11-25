@@ -1,0 +1,35 @@
+episode: 93
+date: 2026-11-26
+video:
+  en: media/ep93-huajiang-en.mp4
+  ar: media/ep93-huajiang-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-26T23:30:00Z"    # 15:30 PT Thu Nov 26: the slot kept for 93, after 92 (92's line 10 promises it)
+  title: "Huajiang Bridge: A Road Hung Over the Earth's Crack 🌉"
+  text: |
+    China hung a road over a canyon called the Earth's crack. 🌉
+    The deck hangs 625 m above the river, almost two Eiffel Towers. Two towers stand on the cliffs, each main cable is spun from almost 20,000 steel wires, fireproof armor guards them up to 1,100 °C, and about a hundred loaded trucks tested it. The old drive down and back up took about two hours. Now? About two minutes.
+    Would you drive across? 👇
+  next: "a smoke alarm 🚨"
+  seo: "How the Huajiang Grand Canyon Bridge works: the world's highest bridge (Guizhou, China, opened September 2025) is a suspension bridge with a 1,420 m main span whose deck hangs 625 m above the river. Its two main cables are made of nearly 40,000 steel wires, the cables wear fireproof armor rated for 1,100 °C, and it passed its load test with about a hundred heavy trucks. It cut a two-hour drive down and around the canyon to about two minutes."
+  tags:
+    tiktok: "#huajiangbridge #china #bridge #engineering #learnontiktok"
+    instagram: "#huajiangbridge #worldshighestbridge #china #engineering #bridge"
+    youtube: "#huajiangbridge #china #engineering"
+ar:
+  at:
+    default: "2026-11-27T03:30:00Z"    # Instagram 19:30 PT Thu Nov 26 = 06:30 Riyadh, after 92 (17:00 PT)
+    tiktok: "2026-11-27T08:30:00Z"     # 00:30 PT Fri: 3 h after 92's Arabic TikTok, 3 h before 94's
+  title: "جسر هواجيانغ: طريق معلق فوق شق الأرض 🌉"
+  text: |
+    الصين علقت طريق فوق وادي يسمونه شق الأرض! 🌉
+    الجسر معلق ٦٢٥ متر فوق النهر، يعني تقريباً برجين إيفل فوق بعض. برجين على الجرف، وكل كابل فيه قريب ٢٠ ألف سلك فولاذ، ودرع ضد النار يتحمل ١١٠٠ درجة، واختبروه بقريب مية شاحنة محملة. الطريق القديم كان ياخذ ساعتين، والحين تقريباً دقيقتين.
+    تعبره بالسيارة؟ 👇
+  next: "جهاز إنذار الدخان 🚨"
+  seo: "كيف يشتغل جسر هواجيانغ: أعلى جسر في العالم (مقاطعة قويتشو، الصين، افتتح سبتمبر ٢٠٢٥) جسر معلق بفتحة رئيسية ١٤٢٠ متر، والطريق معلق ٦٢٥ متر فوق النهر. الكابلين الرئيسيين فيهم قريب ٤٠ ألف سلك فولاذ، وعليهم درع ضد النار يتحمل ١١٠٠ درجة، واختبروه بقريب مية شاحنة ثقيلة. اختصر طريق ساعتين لتقريباً دقيقتين."
+  tags:
+    tiktok: "#جسر_هواجيانغ #الصين #جسور #هندسة #تعلم_على_التيك_توك"
+    instagram: "#جسر_هواجيانغ #أعلى_جسر_في_العالم #الصين #هندسة #معلومات"
+    youtube: "#جسر_هواجيانغ #الصين #هندسة"
