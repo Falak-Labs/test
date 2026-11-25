@@ -98,16 +98,16 @@
    "id": "Asl",
    "speaker": "A",
    "voice": "tJHJUEHzOkMoPmJJ5jo2",
-   "text": "Ri... seet.",
+   "text": "Ri... seat.",
    "characters": 11,
    "model": "eleven_v4",
-   "seconds": 2.08
+   "seconds": 2.0
   },
   {
    "id": "Lsl",
    "speaker": "L",
    "voice": "Nggzl2QAXh3OijoXD116",
-   "text": "Ri... seet.",
+   "text": "Ri... seat.",
    "characters": 11,
    "model": "eleven_v4",
    "seconds": 2.08
