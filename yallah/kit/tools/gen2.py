@@ -75,7 +75,7 @@ def build(ep, loc):
     """Everything one lesson needs in one dialect: what the page draws and every voice line, in order."""
     EP = lesson(ep)
     LC, X = LOCALES[loc], EP[loc]
-    WORD = dict({k: EP["word"][k] for k in ("full", "parts", "say", "tts", "slow") if k in EP["word"]}, ah=X["ah"], sent={k: X["sent"][k] for k in ("en", "hot", "dz", "ar")})
+    WORD = dict({k: EP["word"][k] for k in ("full", "parts", "say", "tts", "slow", "teacher_says") if k in EP["word"]}, ah=X["ah"], sent={k: X["sent"][k] for k in ("en", "hot", "dz", "ar")})
     mean, tr = X.get("mean") or EP["word"]["mean"], EP["word"]["ar"]          # what the word means (a dialect may have its own word for it), and how it sounds in Arabic letters
     L = dict(LC["L"], meanAr="المعنى: " + mean, endEq=tr[loc] + " = " + mean.rstrip("!"))
     if X.get("sub"):
@@ -109,7 +109,7 @@ def build(ep, loc):
     T3 = lambda key: dict(dz=LC[key][0], ar=LC[key][1], gl=LC[key][2])
     add(id="hb", shot="H", sil=0.7, fx="drum", pre=0.2)
     add(id="w0", sp="T", shot="H", pre=0.1, **T3("w0")); line("T", "w0", LC["w0"][1])
-    add(id="tw", sp="T", shot="H", en=WORD["full"] + ".", pre=0.4); line("T", "tw", WORD["full"] + ".")
+    add(id="tw", sp="T", shot="H", en=WORD["full"] + ".", pre=0.4); line("T", "tw", WORD.get("teacher_says", WORD["full"]) + ".")
     add(id="w2", sp="T", shot="H", pre=0.4, **T3("w2")); line("T", "w2", LC["w2"][1])
     for i, s in enumerate(SY):       # slowly: the teacher, then the class
         add(id=f"s{i}t", clip=f"T_{s}", sp="T", shot="H", syl=i, pre=0.32)
@@ -119,7 +119,7 @@ def build(ep, loc):
         add(id=f"f{i}k", clip=f"A_{s}", cho=f"L_{s}", sp="AL", shot="H", syl=i, fast=1, pre=0.34 if i == 0 else 0.03)
     add(id="w4", sp="T", shot="H", pre=0.42, **T3("w4")); line("T", "w4", LC["w4"][1])
     add(id="w5", sp="A", shot="H", en=WORD["full"] + "!", st="ok", pre=0.4, fx="ding"); line("A", "w5", WORD["full"] + "!")
-    add(id="w6", sp="T", shot="H", en="Good job! " + WORD["full"] + "!", pre=0.5, post=0.2); line("T", "w6", "Good job! " + WORD["full"] + "!")
+    add(id="w6", sp="T", shot="H", en="Good job! " + WORD["full"] + "!", pre=0.5, post=0.2); line("T", "w6", "Good job! " + WORD.get("teacher_says", WORD["full"]) + "!")
     # the word in a sentence close to home, what it means, then the viewer's turn
     S = X["sent"]
     add(id="v0", sp="T", shot="H", pre=0.4, **T3("v0")); line("T", "v0", LC["v0"][1])

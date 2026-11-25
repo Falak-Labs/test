@@ -6,7 +6,7 @@ T | p02t | مرر الطابة!
 T | p03t | جول!
 T | p04t | ربحنا!
 T | p05t | كانت حلوة اللعبة.
-T | tw | Champion.
-T | w6 | Good job! Champion!
+T | tw | Chaam-pee-un.
+T | w6 | Good job! Chaam-pee-un!
 T | v2 | أخوي هو بطل الحارة!
 T | Tsl | Champ... pee-un.

@@ -6,7 +6,7 @@ T | p02t | دوز الكورة!
 T | p03t | بوت!
 T | p04t | ربحنا!
 T | p05t | ماتش زوين.
-T | tw | Champion.
-T | w6 | Good job! Champion!
+T | tw | Chaam-pee-un.
+T | w6 | Good job! Chaam-pee-un!
 T | v2 | خويا هو البطل د الحومة!
 T | Tsl | Champ... pee-un.
