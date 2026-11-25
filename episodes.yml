@@ -57,7 +57,7 @@ episodes:
   - {slug: ep52-palmjumeirah, kit: palmjumeirah, look: 2, retired: true}
   - {slug: ep53-fridge, kit: fridge, look: 2, retired: true}
   - {slug: ep54-eiffel, kit: eiffel, look: 2, retired: true}
-  - {slug: ep55-suez, kit: suez, look: 2}
+  - {slug: ep55-suez, kit: suez, look: 2, retired: true}
   - {slug: ep56-escalator, kit: escalator, look: 2, retired: true}
   - {slug: ep57-operahouse, kit: operahouse, look: 2, retired: true}
   - {slug: ep58-ferriswheel, kit: ferriswheel, look: 2, retired: true}
@@ -83,8 +83,8 @@ episodes:
   - {slug: airfryer-b78, kit: airfryer, look: sd}
   - {slug: kuwaittowers-b79, kit: kuwaittowers, look: sd}
   - {slug: fountain-b80, kit: jeddahfountain, look: sd}
-  - {slug: zipper-b81, kit: zipper, look: sd}
-  - {slug: hzmb-b82, kit: hzmb, look: sd}
+  - {slug: zipper-b81, kit: zipper, look: sd, retired: true}
+  - {slug: hzmb-b82, kit: hzmb, look: sd, retired: true}
   - {slug: thermos-b83, kit: thermos, look: sd}
   - {slug: hooverdam-b84, kit: hooverdam, look: sd}
   - {slug: dubaiframe-b85, kit: dubaiframe, look: sd}
@@ -97,3 +97,4 @@ episodes:
   - {slug: seatbelt-b92, kit: seatbelt, look: sd}
   - {slug: ep94-smokealarm, kit: smokealarm, look: sd}
   - {slug: ep95-falkirk, kit: falkirk, look: sd}
+  - {slug: ep93-huajiang, kit: huajiang, look: sd}

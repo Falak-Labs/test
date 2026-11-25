@@ -1,0 +1,27 @@
+{
+ "slug": "ep93-huajiang",
+ "kit": "huajiang",
+ "style": "seedance",
+ "en": {
+  "duration": 73.8,
+  "lufs": -14.2,
+  "peak": -1.6,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 23.5,
+  "cover": true,
+  "ok": true
+ },
+ "ar": {
+  "duration": 72.2,
+  "lufs": -14.2,
+  "peak": -1.7,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 23.5,
+  "cover": true,
+  "ok": true
+ }
+}

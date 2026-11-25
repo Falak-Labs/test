@@ -455,7 +455,7 @@ class HandWarmer(EpisodeV2):
     FIRST_SET = "pouch"
     CLEAR = "#050B1E"
     TITLE = {"en": "HAND WARMER", "ar_sa": "دفاية يد"}
-    EMPH = {"en": ["CLICK", "DISC", "COLD", "HOT", "CRYSTALS", "FROZEN", "CAMPFIRE", "POCKET", "HEAT", "HIDING", "SALTY",
+    EMPH = {"en": ["CLICK", "DISC", "COLD", "HOT", "CRYSTALS", "FROZEN", "FIRE", "POCKET", "HEAT", "HIDING", "SALTY",
                    "SALT", "VINEGAR", "CHIPS", "COOLS", "LIQUID", "PUSH", "CRYSTAL", "DOMINOES", "HARD", "BRICK", "DONE",
                    "BOIL", "MELT", "HOUR", "SKI", "LONGER", "THROWAWAY", "RUSTS", "IRON", "WARM", "HOURS", "FOLLOW",
                    "MUSEUM", "FREEZING", "SOLID", "BOILED", "ONE", "FIFTY", "FOUR", "DEGREES", "TEN", "CONGRATS",
@@ -467,7 +467,7 @@ class HandWarmer(EpisodeV2):
     KEYS = {"ar_sa": {
         ("hook", "CLICK"): "تطق", ("hook", "DISC"): "هالقرص", ("hook", "COLD"): "البارد", ("hook", "CRYSTALS"): "كريستال",
         ("hook", "HOT"): "حار",
-        ("break1", "FROZEN"): "متجمدة", ("break1", "CAMPFIRE"): "النار", ("break1", "POCKET"): "جيبك",
+        ("break1", "FROZEN"): "متجمدة", ("break1", "FIRE"): "النار", ("break1", "POCKET"): "جيبك",
         ("break1", "HEAT"): "الحرارة",
         ("fix1", "FILL"): "فتعبي", ("fix1", "SALTY"): "مالح", ("fix1", "CHIPS"): "شيبس",
         ("break2", "COOLS"): "يبرد", ("break2", "STAYS"): "ويظل", ("break2", "PUSH"): "يدزه",
@@ -507,7 +507,7 @@ class HandWarmer(EpisodeV2):
         s, e, T = self.tl.s, self.tl.e, self.T
         self.anchors({
             "click": ("hook", "CLICK", 0.15), "cold": ("hook", "COLD", 0.55), "crystals": ("hook", "CRYSTALS", 0.85),
-            "frozen": ("break1", "FROZEN", 0.1), "campfire": ("break1", "CAMPFIRE", 0.3), "pocket": ("break1", "POCKET", 0.5),
+            "frozen": ("break1", "FROZEN", 0.1), "campfire": ("break1", "FIRE", 0.3), "pocket": ("break1", "POCKET", 0.5),
             "heat": ("break1", "HEAT", 0.8),
             "fill": ("fix1", "FILL", 0.15), "salty": ("fix1", "SALTY", 0.35), "chips": ("fix1", "CHIPS", 0.85),
             "cools": ("break2", "COOLS", 0.15), "stays": ("break2", "STAYS", 0.5), "push": ("break2", "PUSH", 0.9),
