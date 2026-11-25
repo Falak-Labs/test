@@ -15,17 +15,8 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 156,
+ "requested_characters": 16,
  "recorded_this_run": [
-  "h1",
-  "p01t",
-  "p02t",
-  "p03t",
-  "p04t",
-  "p05t",
-  "tw",
-  "w6",
-  "v2",
   "Tsl"
  ],
  "notes": [],
@@ -115,10 +106,10 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "Cham... pion.",
-   "characters": 13,
+   "text": "Champ... pee-un.",
+   "characters": 16,
    "model": "eleven_v4",
-   "seconds": 2.0
+   "seconds": 1.92
   }
  ]
 }
