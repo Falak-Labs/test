@@ -1386,3 +1386,109 @@ New content
   balcony goes dark. Same Nov 28 point as Ski Dubai.
   [HowStuffWorks, How Christmas Lights Work](https://people.howstuffworks.com/culture-traditions/holidays-christmas/christmas-lights1.htm),
   [DOE, Dec 16 2015](https://www.energy.gov/node/997476)
+
+## 2026-11-24 21:05 PT (hourly runner, cloud run)
+
+Trends
+- A date for the Arabic channel: the UAE's 55th National Day (Eid Al Etihad) is Wednesday Dec 2. The private sector has
+  "Wednesday and Thursday, December 2 and 3, off to mark Eid Al Etihad", the public sector "from Wednesday to Friday,
+  December 2 to 4", back "Monday, December 7" (The National, Nov 13 2026, upd. Nov 17; Khaleej Times gives the same
+  dates and "the 55th anniversary of its founding in 1971"); this year it falls in "the UAE's Year of Family" (The
+  National). Build-It use: a UAE build on Kef Tenbeni on Dec 2 rides the holiday's searches: 97 (Museum of the Future,
+  its pair museum-A/B is in the queue) or 102 (Al Bahar Towers, facts below). The building only: no flags, emblems,
+  leaders or slogans in the shots or captions (no politics); the post day stays the production run's call.
+  [The National, Nov 13 2026 (private sector)](https://www.thenationalnews.com/news/uae/2026/11/13/uae-confirms-national-day-holidays-for-private-sector-employees/),
+  [The National, Nov 13 2026 (public sector)](https://www.thenationalnews.com/news/uae/2026/11/13/uae-national-day-holidays-2026-public-sector/),
+  [Khaleej Times, Nov 13 2026](https://www.khaleejtimes.com/uae/uae-national-day-2026-eid-al-etihad-holiday-public-sector)
+
+Free footage and pictures
+- Two more open video models for the ZeroGPU route after Nov 28 (18:00 entry: FastWan2.2), neither tried here.
+  Kandinsky 5.0 Video Lite (2B): its card says "License: mit", open since "2025/09/29"; "5s checkpoints are capable of
+  generating videos up to 5 seconds long" (10 s checkpoints are separate); the example call is "width=768, height=512"
+  (landscape) and 9:16 is not mentioned; a 16-step distilled 5 s checkpoint takes "35 s" against "139 s", "measured on
+  an NVIDIA H100 GPU with 80 GB of memory"; a community Space, rahul7star/Kandinsky, runs it (no ZeroGPU noted). The
+  cleanest licence of the open models found so far. HunyuanVideo 1.5 (Tencent, weights "Nov 20, 2025"): text and
+  image to video at "480p or 720p" (1080p through its super-resolution model), 121 frames by default (about 5 s at
+  24 fps), aspect ratio a setting (default 16:9, 9:16 not stated), "Minimum GPU Memory: 14 GB (with model offloading
+  enabled)", and a step-distilled 480p image-to-video model ("8 or 12 steps") that "a single RTX 4090 can generate
+  videos within 75 seconds". Its licence is "tencent-hunyuan-community" and the card is gated with
+  "extra_gated_eu_disallowed: true"; the licence text (commercial terms) was not read: read it before using a clip.
+  Build-It use, if the owner opens the free HF account: Kandinsky first for the licence, HunyuanVideo image-to-video on
+  our 2K stills for quality, both asked for a 9:16 size.
+  [Kandinsky 5.0 T2V Lite card](https://huggingface.co/kandinskylab/Kandinsky-5.0-T2V-Lite-sft-5s),
+  [Kandinsky 5.0 Video Lite collection](https://huggingface.co/collections/kandinskylab/kandinsky-50-video-lite),
+  [HunyuanVideo-1.5 card](https://huggingface.co/tencent/HunyuanVideo-1.5),
+  [HunyuanVideo-1.5 README](https://huggingface.co/tencent/HunyuanVideo-1.5/blob/main/README.md)
+
+New content
+- Al Bahar Towers, Abu Dhabi (LINEUP 102), the checks its line asks for. Shades: "The 2,098 dynamic units" are
+  "dynamic screens used across two towers" (AHR's project page, no date) and e-architect has "the 1000 moving elements
+  on each tower" (Jun 25 2012 section), but New Atlas says "2,000 umbrella-like modules per tower" (Feb 7 2013): say
+  "about two thousand" for the pair. Heat: "50% reduction in solar gain" (AHR), "reducing solar gain by up to 50%"
+  (designboom, Feb 13 2014), "around 50 percent" (New Atlas); e-architect's Nov 21 2013 section says "an 80% reduction
+  in solar gain": say "about half". AHR adds "1,750 tonne reduction in CO2 per annum" and "40% savings in carbon
+  emissions". How: "each shading device is driven by a linear actuator" (designboom), "controlled by the building
+  management system" (New Atlas), software that simulates "the operation of the 'mashrabiya' on a daily solar cycle",
+  "shielding the building's eastern side in the morning and moving round westwards with the sun throughout the day"
+  (e-architect). So the glass could be "lightly tinted glazing" (e-architect), avoiding "heavily treated glass" (AHR)
+  and the "dark tinted glass which inevitably restricts all incoming light" (New Atlas); it also cuts glare (AHR). The
+  mashrabiya is "a traditional Islamic lattice shading device" (ArchDaily, Sep 5 2012), and "whereas traditional
+  mashrabiyas are passive, Aedas' modern interpretation adapts according to the sun's position" (New Atlas). 25
+  storeys each (designboom, AHR, e-architect); Aedas architect, Arup structure and MEP, Yuanda facade (designboom);
+  CTBUH "2012 Tall Building Innovation Award" (e-architect). Conflicts, leave out: the height (145 m New Atlas, 150 m
+  e-architect), the year (ArchDaily "Completed in June 2012", AHR 2013) and the floor area. Not on any page: the shade
+  fabric, and what happens in wind or sand. Chain (A4 and B2 are our reading): desert sun on glass towers (A2) → dark
+  tinted glass (A3) → dark offices (A4) → a lattice screen like the mashrabiya (A5) → a fixed screen blocks the view
+  even when the sun is round the other side (A6) → umbrellas that fold open only where the sun is (B1) → two thousand
+  shades to move all day (B2) → one program that follows the sun (B3). Ready shots (the building only, no writing):
+  A1 time-lapse at sunrise, the east face of a honeycomb-skinned tower blooms as hundreds of triangular umbrellas
+  unfold while its west face stays bare glass; a wave of folding shades travelling round the tower with the sun; B6
+  funny slow motion, a cat drags its blanket across the floor to stay in the moving patch of sunlight. The UAE has no
+  freedom of panorama (Nov 24 14:02 entry), so its proof shot stays Seedance.
+  [AHR](https://www.ahr.co.uk/projects/al-bahr-towers),
+  [e-architect](https://www.e-architect.com/dubai/al-bahar-towers-abu-dhabi),
+  [New Atlas, Feb 7 2013](https://newatlas.com/al-bahar-towers/26139/),
+  [designboom, Feb 13 2014](https://www.designboom.com/architecture/aedas-clads-al-bahr-towers-with-dynamic-shading-device-02-13-2014/),
+  [ArchDaily, Sep 5 2012](https://www.archdaily.com/270592/al-bahar-towers-responsive-facade-aedas)
+- Bubble wrap (LINEUP 103), the years checked: "invented in 1957 by engineers Alfred Fielding and Marc Chavannes in
+  Hawthorne, New Jersey" (Wikipedia), who were "trying to create a textured wallpaper" and "put two pieces of plastic
+  shower curtain through a heat-sealing machine" (Smithsonian; Mental Floss says "glued": use heat-sealed). Next it was
+  sold as greenhouse insulation, where "it proved ineffective" (Smithsonian). They "founded Sealed Air Corp. in 1960"
+  (Smithsonian, Wikipedia; Mental Floss "By 1959": use 1960); "IBM had recently introduced the 1401 unit" and "needed
+  a way of protecting the delicate device during transit" (Smithsonian), in 1961 (Wikipedia: "a year later (1961)").
+  Patent "July 28, 1964 U.S. Pat. No. 3,142,599" (Smithsonian caption). Before it, shippers used "balled up
+  newsprint", and "The bubbles were a lot bigger then, so they made a loud noise" (Smithsonian). Since 2015 Sealed Air
+  also sells iBubble Wrap, which "ships flat and uninflated so it takes up less space in warehouses" and "doesn't make
+  any satisfying noise when popped" (Mental Floss, Jan 28 2019). Leave out the bubble sizes and the sales figures.
+  Bubble Wrap is Sealed Air's brand name: the script says "bubble wrap", and no logo or IBM name shows (a 1960s
+  computer cabinet). Chain (B2 is our reading): a textured wallpaper (A3) → nobody wanted it (A4) → greenhouse
+  insulation (A5) → it did not work (A6) → packing a new computer for shipping (B1) → rolls of air are bulky to ship
+  (B2) → it ships flat and is filled with air where it is used (B3). Ready shots: A1 a 1950s living room whose walls
+  are covered in shiny plastic bubbles; B6 funny slow motion, a cat steps onto a sheet of bubble wrap and leaps at the
+  first pop.
+  [Smithsonian](https://www.smithsonianmag.com/innovation/accidental-invention-bubble-wrap-180971325/),
+  [Mental Floss, Jan 28 2019](https://www.mentalfloss.com/history/7-snappy-facts-about-bubble-wrap),
+  [Wikipedia](https://en.wikipedia.org/wiki/Bubble_Wrap_(brand))
+- Tokyo's G-Cans flood tunnel (LINEUP 104), the figures checked: "The tunnel stretches for 6.3 km", "dug about 50
+  meters below ground", "about 10 meters in diameter", with "five gigantic vertical shafts" "about 70 meters tall" and
+  "about 30 meters in diameter" (Web Japan, Mar 2013; nippon.com, Apr 4 2017, the same). The tank: "177 meters long,
+  78 meters wide, and 18 meters high", "59 concrete columns, each weighing 500 tons" (nippon.com), "lying about 22
+  meters below ground", there for "adjusting water pressure that could change sharply if a water pump breaks down"
+  (Web Japan). Pumps: "Four powerful pumps", "modified versions of the gas turbines used in jetliners", "200 cubic
+  meters of water per second", into "the Edo River" (nippon.com; Tokyo Updates, Aug 28 2024, and Web Japan also say
+  200). Why: "The area is like the bottom of a bowl, where rainwater accumulates easily" (nippon.com); Tokyo Updates
+  puts urban land at 5% of the basin in 1955 and 53% by 2015 (read from a summary: check). Built from "March 1993" to
+  "June 2006" for "¥230 billion" (nippon.com); "used an average of seven times per year" and cut flood damage "by
+  approximately 148.4 billion yen during its first 18 years" (Tokyo Updates); its record storm, Aug 2008, brought
+  "about 12 million cubic meters of water" (Web Japan). Limit: "It can't completely prevent water damage" (nippon.com).
+  What the pillars do is not on these pages: script no uplift claim. Leave out SoraNews24's figures (6.4 km, "5
+  meters", 200 tons a second "each pillar"), which disagree with the rest. Chain: a basin like the bottom of a bowl
+  floods (A2) → five giant shafts swallow the overflowing rivers (A3) → if a pump stops, the water surges back (A4) →
+  the giant tank evens out the pressure (A5) → the water must go back up 50 m fast (A6) → four pumps on jetliner
+  turbines, 200 cubic metres a second (B1); B2-B3 open (nippon.com pictures the tank floor "covered with sediment"; no fix
+  given). Ready shots (no people): A1 a vast dark hall of giant concrete pillars as a waterfall pours in from a shaft
+  above; B6 funny slow motion, a garden hose left on the lawn jumps to full pressure and soaks a sunbathing dog.
+  [Web Japan, Mar 2013](https://web-japan.org/trends/11_tech-life/tec130312.html),
+  [nippon.com, Apr 4 2017](https://www.nippon.com/en/views/b06302/underground-temple-safeguards-greater-tokyo-from-floods.html),
+  [nippon.com, page 2](https://www.nippon.com/articles/-/12645?page=2),
+  [Tokyo Updates, Aug 28 2024](https://www.tokyoupdates.metro.tokyo.lg.jp/en/post-1361/)
