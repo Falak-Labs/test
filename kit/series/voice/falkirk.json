@@ -3,1049 +3,1024 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 70.361,
- "words": 186,
- "words_per_sec": 2.64,
+ "duration": 69.533,
+ "words": 181,
+ "words_per_sec": 2.6,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 5.116,
-   "text": "Y'all, Scotland built a Ferris wheel... for boats. I'm serious.",
+   "end": 4.986,
+   "text": "Y'all, Scotland built a Ferris wheel... for boats. Yep.",
    "words": [
     {
      "w": "Y'all,",
-     "start": 0.143,
-     "end": 0.75
+     "start": 0.114,
+     "end": 0.757
     },
     {
      "w": "Scotland",
-     "start": 0.929,
-     "end": 1.429
+     "start": 0.971,
+     "end": 1.4
     },
     {
      "w": "built",
-     "start": 1.536,
-     "end": 1.643
+     "start": 1.471,
+     "end": 1.614
     },
     {
      "w": "a",
-     "start": 1.714,
-     "end": 1.786
+     "start": 1.686,
+     "end": 1.829
     },
     {
      "w": "Ferris",
-     "start": 1.857,
-     "end": 2.214
+     "start": 1.901,
+     "end": 2.257
     },
     {
      "w": "wheel...",
-     "start": 2.286,
-     "end": 2.75
+     "start": 2.329,
+     "end": 2.9
     },
     {
      "w": "for",
-     "start": 2.786,
-     "end": 2.929
+     "start": 2.971,
+     "end": 3.043
     },
     {
      "w": "boats.",
-     "start": 3.071,
-     "end": 3.679
+     "start": 3.186,
+     "end": 3.793
     },
     {
-     "w": "I'm",
-     "start": 4.119,
-     "end": 4.286
-    },
-    {
-     "w": "serious.",
-     "start": 4.429,
-     "end": 5.214
+     "w": "Yep.",
+     "start": 4.731,
+     "end": 5.123
     }
    ]
   },
   {
    "line": 2,
-   "start": 5.429,
-   "end": 10.499,
-   "text": "Eleven old locks took boats all day to climb here. So how much power does this burn?",
+   "start": 5.298,
+   "end": 9.663,
+   "text": "Eleven old locks took all day. So how much power does this burn?",
    "words": [
     {
      "w": "Eleven",
-     "start": 5.573,
-     "end": 5.93
+     "start": 5.46,
+     "end": 5.817
     },
     {
      "w": "old",
-     "start": 6.002,
-     "end": 6.145
+     "start": 5.888,
+     "end": 6.031
     },
     {
      "w": "locks",
-     "start": 6.216,
-     "end": 6.502
+     "start": 6.103,
+     "end": 6.388
     },
     {
      "w": "took",
-     "start": 6.609,
-     "end": 6.716
-    },
-    {
-     "w": "boats",
-     "start": 6.895,
-     "end": 7.073
+     "start": 6.46,
+     "end": 6.674
     },
     {
      "w": "all",
-     "start": 7.145,
-     "end": 7.43
+     "start": 6.817,
+     "end": 7.031
     },
     {
-     "w": "day",
-     "start": 7.502,
-     "end": 7.716
-    },
-    {
-     "w": "to",
-     "start": 7.787,
-     "end": 7.859
-    },
-    {
-     "w": "climb",
-     "start": 7.895,
-     "end": 8.145
-    },
-    {
-     "w": "here.",
-     "start": 8.43,
-     "end": 8.618
+     "w": "day.",
+     "start": 7.174,
+     "end": 7.664
     },
     {
      "w": "So",
-     "start": 8.654,
-     "end": 9.011
+     "start": 7.799,
+     "end": 8.013
     },
     {
      "w": "how",
-     "start": 9.082,
-     "end": 9.154
+     "start": 8.228,
+     "end": 8.299
     },
     {
      "w": "much",
-     "start": 9.225,
-     "end": 9.368
+     "start": 8.371,
+     "end": 8.513
     },
     {
      "w": "power",
-     "start": 9.439,
-     "end": 9.654
+     "start": 8.585,
+     "end": 8.799
     },
     {
      "w": "does",
-     "start": 9.761,
-     "end": 9.868
+     "start": 8.871,
+     "end": 9.013
     },
     {
      "w": "this",
-     "start": 9.975,
-     "end": 10.082
+     "start": 9.085,
+     "end": 9.156
     },
     {
      "w": "burn?",
-     "start": 10.225,
-     "end": 10.582
+     "start": 9.228,
+     "end": 9.728
     }
    ]
   },
   {
    "line": 3,
-   "start": 10.812,
-   "end": 16.044,
+   "start": 9.976,
+   "end": 15.208,
    "text": "So two water tubs balance like a seesaw. A boat pushes out its own weight in water.",
    "words": [
     {
      "w": "So",
-     "start": 11.021,
-     "end": 11.236
+     "start": 10.186,
+     "end": 10.4
     },
     {
      "w": "two",
-     "start": 11.379,
-     "end": 11.521
+     "start": 10.543,
+     "end": 10.686
     },
     {
      "w": "water",
-     "start": 11.664,
-     "end": 11.879
+     "start": 10.829,
+     "end": 11.043
     },
     {
      "w": "tubs",
-     "start": 11.95,
-     "end": 12.236
+     "start": 11.114,
+     "end": 11.4
     },
     {
      "w": "balance",
-     "start": 12.307,
-     "end": 12.593
+     "start": 11.471,
+     "end": 11.757
     },
     {
      "w": "like",
-     "start": 12.664,
-     "end": 12.736
+     "start": 11.829,
+     "end": 11.9
     },
     {
      "w": "a",
-     "start": 12.807,
-     "end": 12.95
+     "start": 11.971,
+     "end": 12.114
     },
     {
      "w": "seesaw.",
-     "start": 13.021,
-     "end": 13.651
+     "start": 12.186,
+     "end": 12.815
     },
     {
      "w": "A",
-     "start": 13.754,
-     "end": 13.825
+     "start": 12.918,
+     "end": 12.989
     },
     {
      "w": "boat",
-     "start": 13.896,
-     "end": 14.111
+     "start": 13.061,
+     "end": 13.275
     },
     {
      "w": "pushes",
-     "start": 14.182,
-     "end": 14.468
+     "start": 13.346,
+     "end": 13.632
     },
     {
      "w": "out",
-     "start": 14.539,
-     "end": 14.611
+     "start": 13.704,
+     "end": 13.775
     },
     {
      "w": "its",
-     "start": 14.718,
-     "end": 14.825
+     "start": 13.882,
+     "end": 13.989
     },
     {
      "w": "own",
-     "start": 14.896,
-     "end": 15.111
+     "start": 14.061,
+     "end": 14.275
     },
     {
      "w": "weight",
-     "start": 15.182,
-     "end": 15.396
+     "start": 14.346,
+     "end": 14.561
     },
     {
      "w": "in",
-     "start": 15.468,
-     "end": 15.539
+     "start": 14.632,
+     "end": 14.704
     },
     {
      "w": "water.",
-     "start": 15.611,
-     "end": 16.182
+     "start": 14.775,
+     "end": 15.346
     }
    ]
   },
   {
    "line": 4,
-   "start": 16.356,
-   "end": 20.844,
+   "start": 15.521,
+   "end": 20.009,
    "text": "But as the arm swings, a tub would tip, and out slides the boat.",
    "words": [
     {
      "w": "But",
-     "start": 16.882,
-     "end": 16.954
+     "start": 16.047,
+     "end": 16.119
     },
     {
      "w": "as",
-     "start": 17.025,
-     "end": 17.168
+     "start": 16.19,
+     "end": 16.333
     },
     {
      "w": "the",
-     "start": 17.204,
-     "end": 17.239
+     "start": 16.369,
+     "end": 16.404
     },
     {
      "w": "arm",
-     "start": 17.382,
-     "end": 17.596
+     "start": 16.547,
+     "end": 16.762
     },
     {
      "w": "swings,",
-     "start": 17.668,
-     "end": 18.382
+     "start": 16.833,
+     "end": 17.547
     },
     {
      "w": "a",
-     "start": 18.418,
-     "end": 18.454
+     "start": 17.583,
+     "end": 17.619
     },
     {
      "w": "tub",
-     "start": 18.596,
-     "end": 18.811
+     "start": 17.762,
+     "end": 17.976
     },
     {
      "w": "would",
-     "start": 18.918,
-     "end": 19.025
+     "start": 18.083,
+     "end": 18.19
     },
     {
      "w": "tip,",
-     "start": 19.168,
-     "end": 19.525
+     "start": 18.333,
+     "end": 18.69
     },
     {
      "w": "and",
-     "start": 19.632,
-     "end": 19.739
+     "start": 18.797,
+     "end": 18.904
     },
     {
      "w": "out",
-     "start": 19.811,
-     "end": 19.954
+     "start": 18.976,
+     "end": 19.119
     },
     {
      "w": "slides",
-     "start": 20.025,
-     "end": 20.382
+     "start": 19.19,
+     "end": 19.547
     },
     {
      "w": "the",
-     "start": 20.418,
-     "end": 20.454
+     "start": 19.583,
+     "end": 19.619
     },
     {
      "w": "boat.",
-     "start": 20.525,
-     "end": 21.096
+     "start": 19.69,
+     "end": 20.262
     }
    ]
   },
   {
    "line": 5,
-   "start": 21.156,
-   "end": 25.313,
+   "start": 20.321,
+   "end": 24.479,
    "text": "So giant gears turn each tub back, and the water stays flat.",
    "words": [
     {
      "w": "So",
-     "start": 21.367,
-     "end": 21.581
+     "start": 20.531,
+     "end": 20.746
     },
     {
      "w": "giant",
-     "start": 21.724,
-     "end": 22.08
+     "start": 20.888,
+     "end": 21.246
     },
     {
      "w": "gears",
-     "start": 22.153,
-     "end": 22.509
+     "start": 21.317,
+     "end": 21.674
     },
     {
      "w": "turn",
-     "start": 22.581,
-     "end": 22.796
+     "start": 21.746,
+     "end": 21.96
     },
     {
      "w": "each",
-     "start": 22.867,
-     "end": 23.081
+     "start": 22.031,
+     "end": 22.246
     },
     {
      "w": "tub",
-     "start": 23.153,
-     "end": 23.367
+     "start": 22.317,
+     "end": 22.531
     },
     {
      "w": "back,",
-     "start": 23.437,
-     "end": 23.921
+     "start": 22.603,
+     "end": 23.085
     },
     {
      "w": "and",
-     "start": 23.992,
-     "end": 24.063
+     "start": 23.156,
+     "end": 23.228
     },
     {
      "w": "the",
-     "start": 24.099,
-     "end": 24.135
+     "start": 23.263,
+     "end": 23.299
     },
     {
      "w": "water",
-     "start": 24.206,
-     "end": 24.491
+     "start": 23.371,
+     "end": 23.656
     },
     {
      "w": "stays",
-     "start": 24.563,
-     "end": 24.849
+     "start": 23.728,
+     "end": 24.013
     },
     {
      "w": "flat.",
-     "start": 24.921,
-     "end": 25.492
+     "start": 24.085,
+     "end": 24.656
     }
    ]
   },
   {
    "line": 6,
-   "start": 25.626,
-   "end": 29.065,
+   "start": 24.791,
+   "end": 28.23,
    "text": "But every turn flexes the steel, and welds can crack.",
    "words": [
     {
      "w": "But",
-     "start": 25.751,
-     "end": 25.894
+     "start": 24.916,
+     "end": 25.059
     },
     {
      "w": "every",
-     "start": 25.965,
-     "end": 26.179
+     "start": 25.13,
+     "end": 25.345
     },
     {
      "w": "turn",
-     "start": 26.251,
-     "end": 26.537
+     "start": 25.416,
+     "end": 25.702
     },
     {
      "w": "flexes",
-     "start": 26.608,
-     "end": 26.965
+     "start": 25.773,
+     "end": 26.13
     },
     {
      "w": "the",
-     "start": 27.037,
-     "end": 27.108
+     "start": 26.202,
+     "end": 26.273
     },
     {
      "w": "steel,",
-     "start": 27.322,
-     "end": 27.644
+     "start": 26.487,
+     "end": 26.809
     },
     {
      "w": "and",
-     "start": 27.751,
-     "end": 27.894
+     "start": 26.916,
+     "end": 27.059
     },
     {
      "w": "welds",
-     "start": 27.965,
-     "end": 28.322
+     "start": 27.13,
+     "end": 27.487
     },
     {
      "w": "can",
-     "start": 28.429,
-     "end": 28.537
+     "start": 27.595,
+     "end": 27.702
     },
     {
      "w": "crack.",
-     "start": 28.608,
-     "end": 29.179
+     "start": 27.773,
+     "end": 28.345
     }
    ]
   },
   {
    "line": 7,
-   "start": 29.378,
-   "end": 34.538,
+   "start": 28.543,
+   "end": 33.702,
    "text": "So they bolted it: about fifteen thousand bolts, each tightened by hand.",
    "words": [
     {
      "w": "So",
-     "start": 29.514,
-     "end": 29.729
+     "start": 28.679,
+     "end": 28.893
     },
     {
      "w": "they",
-     "start": 29.8,
-     "end": 30.014
+     "start": 28.964,
+     "end": 29.179
     },
     {
      "w": "bolted",
-     "start": 30.157,
-     "end": 30.586
+     "start": 29.321,
+     "end": 29.75
     },
     {
      "w": "it:",
-     "start": 30.657,
-     "end": 30.818
+     "start": 29.821,
+     "end": 29.982
     },
     {
      "w": "about",
-     "start": 30.996,
-     "end": 31.282
+     "start": 30.161,
+     "end": 30.446
     },
     {
      "w": "fifteen",
-     "start": 31.425,
-     "end": 31.782
+     "start": 30.589,
+     "end": 30.946
     },
     {
      "w": "thousand",
-     "start": 31.996,
-     "end": 32.354
+     "start": 31.161,
+     "end": 31.518
     },
     {
      "w": "bolts,",
-     "start": 32.496,
-     "end": 32.996
+     "start": 31.661,
+     "end": 32.161
     },
     {
      "w": "each",
-     "start": 33.139,
-     "end": 33.354
+     "start": 32.304,
+     "end": 32.518
     },
     {
      "w": "tightened",
-     "start": 33.425,
-     "end": 33.782
+     "start": 32.589,
+     "end": 32.946
     },
     {
      "w": "by",
-     "start": 33.889,
-     "end": 33.996
+     "start": 33.054,
+     "end": 33.161
     },
     {
      "w": "hand.",
-     "start": 34.211,
-     "end": 34.639
+     "start": 33.375,
+     "end": 33.804
     }
    ]
   },
   {
    "line": 8,
-   "start": 34.85,
-   "end": 40.4,
+   "start": 34.014,
+   "end": 39.564,
    "text": "But the top canal is still eleven meters higher, behind an old Roman wall.",
    "words": [
     {
      "w": "But",
-     "start": 35.609,
-     "end": 35.68
+     "start": 34.773,
+     "end": 34.845
     },
     {
      "w": "the",
-     "start": 35.752,
-     "end": 35.823
+     "start": 34.916,
+     "end": 34.987
     },
     {
      "w": "top",
-     "start": 35.895,
-     "end": 36.109
+     "start": 35.059,
+     "end": 35.273
     },
     {
      "w": "canal",
-     "start": 36.18,
-     "end": 36.537
+     "start": 35.345,
+     "end": 35.702
     },
     {
      "w": "is",
-     "start": 36.68,
-     "end": 36.752
+     "start": 35.845,
+     "end": 35.916
     },
     {
      "w": "still",
-     "start": 36.823,
-     "end": 37.037
+     "start": 35.987,
+     "end": 36.202
     },
     {
      "w": "eleven",
-     "start": 37.18,
-     "end": 37.537
+     "start": 36.345,
+     "end": 36.702
     },
     {
      "w": "meters",
-     "start": 37.68,
-     "end": 37.966
+     "start": 36.845,
+     "end": 37.13
     },
     {
      "w": "higher,",
-     "start": 38.037,
-     "end": 38.546
+     "start": 37.202,
+     "end": 37.711
     },
     {
      "w": "behind",
-     "start": 38.698,
-     "end": 38.984
+     "start": 37.862,
+     "end": 38.148
     },
     {
      "w": "an",
-     "start": 39.091,
-     "end": 39.198
+     "start": 38.255,
+     "end": 38.362
     },
     {
      "w": "old",
-     "start": 39.27,
-     "end": 39.484
+     "start": 38.434,
+     "end": 38.648
     },
     {
      "w": "Roman",
-     "start": 39.555,
-     "end": 39.841
+     "start": 38.72,
+     "end": 39.005
     },
     {
      "w": "wall.",
-     "start": 39.912,
-     "end": 40.555
+     "start": 39.077,
+     "end": 39.72
     }
    ]
   },
   {
    "line": 9,
-   "start": 40.712,
-   "end": 44.687,
+   "start": 39.877,
+   "end": 43.852,
    "text": "So boats take a tunnel under the wall, then two last locks.",
    "words": [
     {
      "w": "So",
-     "start": 40.927,
-     "end": 41.07
+     "start": 40.091,
+     "end": 40.234
     },
     {
      "w": "boats",
-     "start": 41.212,
-     "end": 41.498
+     "start": 40.377,
+     "end": 40.662
     },
     {
      "w": "take",
-     "start": 41.57,
-     "end": 41.712
+     "start": 40.734,
+     "end": 40.877
     },
     {
      "w": "a",
-     "start": 41.784,
-     "end": 41.855
+     "start": 40.948,
+     "end": 41.02
     },
     {
      "w": "tunnel",
-     "start": 41.891,
-     "end": 42.141
+     "start": 41.055,
+     "end": 41.305
     },
     {
      "w": "under",
-     "start": 42.212,
-     "end": 42.427
+     "start": 41.377,
+     "end": 41.591
     },
     {
      "w": "the",
-     "start": 42.462,
-     "end": 42.498
+     "start": 41.627,
+     "end": 41.662
     },
     {
      "w": "wall,",
-     "start": 42.57,
-     "end": 43.141
+     "start": 41.734,
+     "end": 42.305
     },
     {
      "w": "then",
-     "start": 43.284,
-     "end": 43.427
+     "start": 42.448,
+     "end": 42.591
     },
     {
      "w": "two",
-     "start": 43.533,
-     "end": 43.641
+     "start": 42.698,
+     "end": 42.805
     },
     {
      "w": "last",
-     "start": 43.784,
-     "end": 44.07
+     "start": 42.948,
+     "end": 43.234
     },
     {
      "w": "locks.",
-     "start": 44.141,
-     "end": 44.784
+     "start": 43.305,
+     "end": 43.948
     }
    ]
   },
   {
    "line": 10,
-   "start": 44.999,
-   "end": 50.621,
+   "start": 44.164,
+   "end": 49.785,
    "text": "Hit follow, 'cause next we're building a hand warmer that starts with one click. Click.",
    "words": [
     {
      "w": "Hit",
-     "start": 45.071,
-     "end": 45.213
+     "start": 44.236,
+     "end": 44.379
     },
     {
      "w": "follow,",
-     "start": 45.356,
-     "end": 45.928
+     "start": 44.521,
+     "end": 45.093
     },
     {
      "w": "'cause",
-     "start": 46.071,
-     "end": 46.285
+     "start": 45.236,
+     "end": 45.45
     },
     {
      "w": "next",
-     "start": 46.428,
-     "end": 46.713
+     "start": 45.593,
+     "end": 45.879
     },
     {
      "w": "we're",
-     "start": 46.856,
-     "end": 46.999
+     "start": 46.021,
+     "end": 46.164
     },
     {
      "w": "building",
-     "start": 47.142,
-     "end": 47.285
+     "start": 46.307,
+     "end": 46.45
     },
     {
      "w": "a",
-     "start": 47.356,
-     "end": 47.428
+     "start": 46.521,
+     "end": 46.593
     },
     {
      "w": "hand",
-     "start": 47.499,
-     "end": 47.713
+     "start": 46.664,
+     "end": 46.879
     },
     {
      "w": "warmer",
-     "start": 47.785,
-     "end": 48.071
+     "start": 46.95,
+     "end": 47.236
     },
     {
      "w": "that",
-     "start": 48.142,
-     "end": 48.213
+     "start": 47.307,
+     "end": 47.379
     },
     {
      "w": "starts",
-     "start": 48.285,
-     "end": 48.571
+     "start": 47.45,
+     "end": 47.736
     },
     {
      "w": "with",
-     "start": 48.678,
-     "end": 48.785
+     "start": 47.843,
+     "end": 47.95
     },
     {
      "w": "one",
-     "start": 48.856,
-     "end": 48.999
+     "start": 48.021,
+     "end": 48.164
     },
     {
      "w": "click.",
-     "start": 49.142,
-     "end": 49.499
+     "start": 48.307,
+     "end": 48.664
     },
     {
      "w": "Click.",
-     "start": 50.267,
-     "end": 50.767
+     "start": 49.432,
+     "end": 49.932
     }
    ]
   },
   {
    "line": 11,
-   "start": 50.933,
-   "end": 56.287,
+   "start": 50.097,
+   "end": 55.451,
    "text": "Each half turn lifts boats twenty four meters, on about the power of boiling eight kettles.",
    "words": [
     {
      "w": "Each",
-     "start": 51.147,
-     "end": 51.362
+     "start": 50.312,
+     "end": 50.526
     },
     {
      "w": "half",
-     "start": 51.433,
-     "end": 51.647
+     "start": 50.597,
+     "end": 50.812
     },
     {
      "w": "turn",
-     "start": 51.79,
-     "end": 52.004
+     "start": 50.954,
+     "end": 51.169
     },
     {
      "w": "lifts",
-     "start": 52.076,
-     "end": 52.29
+     "start": 51.24,
+     "end": 51.454
     },
     {
      "w": "boats",
-     "start": 52.433,
-     "end": 52.576
+     "start": 51.597,
+     "end": 51.74
     },
     {
      "w": "twenty",
-     "start": 52.647,
-     "end": 53.004
+     "start": 51.812,
+     "end": 52.169
     },
     {
      "w": "four",
-     "start": 53.062,
-     "end": 53.29
+     "start": 52.226,
+     "end": 52.454
     },
     {
      "w": "meters,",
-     "start": 53.326,
-     "end": 53.969
+     "start": 52.49,
+     "end": 53.133
     },
     {
      "w": "on",
-     "start": 54.004,
-     "end": 54.076
+     "start": 53.169,
+     "end": 53.24
     },
     {
      "w": "about",
-     "start": 54.147,
-     "end": 54.29
+     "start": 53.312,
+     "end": 53.454
     },
     {
      "w": "the",
-     "start": 54.362,
-     "end": 54.433
+     "start": 53.526,
+     "end": 53.597
     },
     {
      "w": "power",
-     "start": 54.504,
-     "end": 54.719
+     "start": 53.669,
+     "end": 53.883
     },
     {
      "w": "of",
-     "start": 54.79,
-     "end": 54.933
+     "start": 53.954,
+     "end": 54.097
     },
     {
      "w": "boiling",
-     "start": 54.969,
-     "end": 55.362
+     "start": 54.133,
+     "end": 54.526
     },
     {
      "w": "eight",
-     "start": 55.433,
-     "end": 55.647
+     "start": 54.597,
+     "end": 54.812
     },
     {
      "w": "kettles.",
-     "start": 55.683,
-     "end": 56.362
+     "start": 54.847,
+     "end": 55.526
     }
    ]
   },
   {
    "line": 12,
-   "start": 56.599,
-   "end": 60.567,
+   "start": 55.763,
+   "end": 59.731,
    "text": "Opened in two thousand two: the only turning boat lift on Earth.",
    "words": [
     {
      "w": "Opened",
-     "start": 56.671,
-     "end": 56.885
+     "start": 55.835,
+     "end": 56.049
     },
     {
      "w": "in",
-     "start": 56.956,
-     "end": 57.099
+     "start": 56.121,
+     "end": 56.263
     },
     {
      "w": "two",
-     "start": 57.171,
-     "end": 57.242
+     "start": 56.335,
+     "end": 56.406
     },
     {
      "w": "thousand",
-     "start": 57.385,
-     "end": 57.742
+     "start": 56.549,
+     "end": 56.906
     },
     {
      "w": "two:",
-     "start": 57.813,
-     "end": 58.287
+     "start": 56.978,
+     "end": 57.451
     },
     {
      "w": "the",
-     "start": 58.358,
-     "end": 58.572
+     "start": 57.522,
+     "end": 57.737
     },
     {
      "w": "only",
-     "start": 58.644,
-     "end": 58.929
+     "start": 57.808,
+     "end": 58.094
     },
     {
      "w": "turning",
-     "start": 59.001,
-     "end": 59.287
+     "start": 58.165,
+     "end": 58.451
     },
     {
      "w": "boat",
-     "start": 59.358,
-     "end": 59.501
+     "start": 58.522,
+     "end": 58.665
     },
     {
      "w": "lift",
-     "start": 59.572,
-     "end": 59.787
+     "start": 58.737,
+     "end": 58.951
     },
     {
      "w": "on",
-     "start": 59.858,
-     "end": 60.072
+     "start": 59.022,
+     "end": 59.237
     },
     {
      "w": "Earth.",
-     "start": 60.144,
-     "end": 60.644
+     "start": 59.308,
+     "end": 59.808
     }
    ]
   },
   {
    "line": 13,
-   "start": 60.879,
-   "end": 64.103,
+   "start": 60.044,
+   "end": 63.267,
    "text": "And congrats, you just built the Falkirk Wheel yourself.",
    "words": [
     {
      "w": "And",
-     "start": 61.002,
-     "end": 61.022
+     "start": 60.166,
+     "end": 60.187
     },
     {
      "w": "congrats,",
-     "start": 61.094,
-     "end": 61.879
+     "start": 60.258,
+     "end": 61.044
     },
     {
      "w": "you",
-     "start": 62.022,
-     "end": 62.165
+     "start": 61.187,
+     "end": 61.329
     },
     {
      "w": "just",
-     "start": 62.237,
-     "end": 62.379
+     "start": 61.401,
+     "end": 61.544
     },
     {
      "w": "built",
-     "start": 62.487,
-     "end": 62.594
+     "start": 61.651,
+     "end": 61.758
     },
     {
      "w": "the",
-     "start": 62.665,
-     "end": 62.737
+     "start": 61.829,
+     "end": 61.901
     },
     {
      "w": "Falkirk",
-     "start": 62.772,
-     "end": 63.165
+     "start": 61.937,
+     "end": 62.329
     },
     {
      "w": "Wheel",
-     "start": 63.237,
-     "end": 63.379
+     "start": 62.401,
+     "end": 62.544
     },
     {
      "w": "yourself.",
-     "start": 63.451,
-     "end": 64.237
+     "start": 62.615,
+     "end": 63.401
     }
    ]
   },
   {
    "line": 14,
-   "start": 64.415,
-   "end": 70.353,
+   "start": 63.579,
+   "end": 69.517,
    "text": "Your dog does this too... one jump, and his weight in water is on the floor.",
    "words": [
     {
      "w": "Your",
-     "start": 65.058,
-     "end": 65.272
+     "start": 64.222,
+     "end": 64.437
     },
     {
      "w": "dog",
-     "start": 65.344,
-     "end": 65.629
+     "start": 64.508,
+     "end": 64.794
     },
     {
      "w": "does",
-     "start": 65.737,
-     "end": 65.844
+     "start": 64.901,
+     "end": 65.008
     },
     {
      "w": "this",
-     "start": 65.915,
-     "end": 66.058
+     "start": 65.079,
+     "end": 65.222
     },
     {
      "w": "too...",
-     "start": 66.129,
-     "end": 66.549
+     "start": 65.294,
+     "end": 65.713
     },
     {
      "w": "one",
-     "start": 67.46,
-     "end": 67.603
+     "start": 66.624,
+     "end": 66.767
     },
     {
      "w": "jump,",
-     "start": 67.674,
-     "end": 68.174
+     "start": 66.838,
+     "end": 67.338
     },
     {
      "w": "and",
-     "start": 68.21,
-     "end": 68.246
+     "start": 67.374,
+     "end": 67.41
     },
     {
      "w": "his",
-     "start": 68.317,
-     "end": 68.46
+     "start": 67.481,
+     "end": 67.624
     },
     {
      "w": "weight",
-     "start": 68.603,
-     "end": 68.746
+     "start": 67.767,
+     "end": 67.91
     },
     {
      "w": "in",
-     "start": 68.817,
-     "end": 68.888
+     "start": 67.981,
+     "end": 68.053
     },
     {
      "w": "water",
-     "start": 68.96,
-     "end": 69.246
+     "start": 68.124,
+     "end": 68.41
     },
     {
      "w": "is",
-     "start": 69.317,
-     "end": 69.531
+     "start": 68.481,
+     "end": 68.696
     },
     {
      "w": "on",
-     "start": 69.603,
-     "end": 69.674
+     "start": 68.767,
+     "end": 68.838
     },
     {
      "w": "the",
-     "start": 69.746,
-     "end": 69.817
+     "start": 68.91,
+     "end": 68.981
     },
     {
      "w": "floor.",
-     "start": 69.888,
-     "end": 70.531
+     "start": 69.053,
+     "end": 69.696
     }
    ]
   }
