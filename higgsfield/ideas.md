@@ -2547,3 +2547,58 @@ New content
   description when read ("the 40-metre HSBC Rain Vortex pours from the dome above", "this seven-storey marvel").
   [HSBC Singapore, Apr 9 2019](https://www.about.hsbc.com.sg/news-and-media/the-hsbc-rain-vortex-is-ready-to-dazzle-visitors-at-jewel),
   [Changi Airport](https://changiairport.com/corporate/media-centre/changijourneys/the-airport-never-sleeps/behind-the-rain-vortex.html)
+
+## 2026-11-25 12:55 PT (hourly runner, cloud run)
+
+Trends
+- Thanksgiving flying this week, with this year's numbers (new to these notes: earlier entries have the holiday, not
+  the air-travel figures): TSA is "expecting to screen nearly 17.6 million passengers nationwide from Tuesday, Nov.
+  24, to Monday, Nov. 30", and "More than 3 million travelers are expected on Sunday, Nov. 29"; Airlines for America
+  "projects nearly 29 million people will travel over the Thanksgiving holiday this year" (GMA, Nov 23 2026; the same
+  story on ABC30). Neither page names a one-day record to beat. For us: an airport build posted Sat Nov 28 to Mon
+  Nov 30 lands on the busiest flying days (the candidate below).
+  [GMA, Nov 23 2026](https://goodmorningamerica.com/travel/story/record-number-travelers-expected-fly-trains-thanksgiving-138006590),
+  [ABC30, Nov 23 2026](https://abc30.com/story/thanksgiving-travel-record-number-travelers-expected-fly-take-trains-drive-holiday/20032744/)
+- Checked, nothing new: Virlo's week of Nov 23 is in the 00:57 entry (its next week starts Nov 30); ESA's pictures
+  are in the Nov 24 08:10 entry (share-alike; its licence page confirms "Adaptation/translation/derivatives must be
+  distributed under the same licence terms", so NASA stays first for space builds); real baggage-hall clips turned
+  up only on paid stock sites (Adobe, Getty, Storyblocks) besides Coverr's conveyor page, so the build below is
+  Seedance or pictures.
+
+New content
+- The airport baggage system, a candidate build for the Thanksgiving flying peak (new to these notes; not in LINEUP,
+  and no airport-systems build among the made ones: 98's Rain Vortex is an airport waterfall): how a suitcase finds
+  its plane. Checked: each bag gets "a unique ten-digit barcode", is sorted "usually by means of Automatic Tag Readers
+  (ATR)" and goes through "Explosive Detection System (EDS) machines" (Wikipedia); a flagged bag is "diverted to
+  manual screening stations where security officers physically examine the contents", tilt trays run "at up to 30
+  km/h", and Delta's RFID tags of 2016 ("$50 million") took tracking "from approximately 90% to 99.9%" (AirportFYI, a
+  guide site, © 2026: check before a line uses it; its "3.89 per 1,000 in 2023" contradicts SITA and is out). SITA
+  (Jun 12 2025, 2024 data): "The mishandling rate dropped to 6.3 bags per 1,000 passengers in 2024, down from 6.9 the
+  previous year", "33.4 million" bags, about "$5 billion", transfers "the biggest contributor at 41%", and IATA
+  Resolution 753 "mandates baggage tracking at four key stages". The famous break, Denver (GAO, Oct 14 1994): "over
+  17 miles of track; 5.5 miles of conveyors; 4,000 telecarts", "up to 70 bags per minute" at "speeds of up to 24 miles
+  per hour"; in tests "bags were misloaded, were misrouted, or fell out of telecarts, causing the system to jam" and it
+  "loaded bags into telecarts that were already full"; the airport, due "in October 1993", lost "between $18 million
+  and $19 million each month" (about "$360 million" by an opening at the end of February 1995) on a $193 million
+  baggage contract. Its end (NBC, undated page; Slashdot has the story on Aug 27 2005): it "launched, chewed up, and
+  spit out bags so often" that the airline would "go back to old reliable tugs and carts". A chain (breaks marked
+  "ours" are ours): A1, a lone suitcase rides a small cart on a twisting track through a dark tunnel under an airport,
+  fast, slow push-in; A2, a holiday check-in hall seen from behind, suitcases sliding off the counter belt into a dark
+  opening, wide; A3, a bar-code tag printed and looped round a handle, the bag drops onto a belt; A4 (ours), a
+  crumpled wet tag passes a scanner and the bag circles the loop again and again; A5, a ring of scanners reads the tag
+  from every side, then a gate reads a chip tag straight through the bag; A6, Denver: a speeding cart flings a
+  suitcase off the track and carts jam behind it in a basement; B1, a long tilt-tray sorter tips each bag down its own
+  chute; B2 (ours), a transfer bag still on a belt as its connecting plane pushes back; B3, a CT scanner turns the bag
+  into a slowly spinning 3D picture, then racks park early bags until their flight; B4, a tease of whichever build
+  follows; B5, a hub's sorting hall at night, thousands of bags on belts in every direction, workers seen from behind;
+  B6, funny slow motion, an overstuffed suitcase on the arrivals carousel bursts its zip and socks and a rubber duck
+  fly out. Line 12: "17 MILES" (Denver's track) or "6.3" (bags mishandled per 1,000 passengers). Check before use:
+  Denver's opening day (Feb 28 1995 is the usual date; on neither page), the ten digits (Wikipedia only), AirportFYI's
+  figures. No airline or maker names on screen and no real people's faces. Free video ends Nov 28: if the main chat
+  wants this build for the Sunday peak, its pair has to run by then, ahead of or instead of rainvortex-A/B.
+  [Wikipedia, Baggage handling system](https://en.wikipedia.org/wiki/Baggage_handling_system),
+  [AirportFYI](https://airportfyi.com/guides/aviation-101/baggage-handling-systems/),
+  [SITA, Jun 12 2025](https://www.sita.aero/pressroom/news-releases/more-air-passengers-than-ever-with-one-of-the-lowest-rates-of-mishandled-baggage-thanks-to-tech-investments/),
+  [GAO RCED-95-35BR, Oct 14 1994](https://www.govinfo.gov/content/pkg/GAOREPORTS-RCED-95-35BR/html/GAOREPORTS-RCED-95-35BR.htm),
+  [NBC News](https://www.nbcnews.com/news/amp/wbna8975649),
+  [Slashdot, Aug 27 2005](https://developers.slashdot.org/story/05/08/27/1634255/denver-airport-automated-baggage-system-abandoned)
