@@ -4,37 +4,45 @@
    "id": "6b05b98284a6c936472c17fe",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-25T05:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-24T16:21:20+00:00"
+   "created": "2026-11-24T16:21:20+00:00",
+   "link": "https://www.instagram.com/reel/DgJutLuTBXS/",
+   "sentAt": "2026-11-25T05:01:26.824Z"
   },
   "en.tiktok": {
    "id": "6b05b98284a6c936472c1864",
    "channel": "6af2d49862b70b94b0df5758",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-25T05:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-24T16:21:20+00:00"
+   "created": "2026-11-24T16:21:20+00:00",
+   "link": "https://tiktok.com/@congratsengineer/video/7711969467135282445",
+   "sentAt": "2026-11-25T05:01:27.659Z"
   },
   "ar.instagram": {
    "id": "6b05b986f031340fefc23e5c",
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-25T08:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-24T16:21:20+00:00"
+   "created": "2026-11-24T16:21:20+00:00",
+   "link": "https://www.instagram.com/reel/DgKDgR0hfJR/",
+   "sentAt": "2026-11-25T08:03:46.932Z"
   },
   "ar.tiktok": {
    "id": "6b05b987c6e17c232fbffcb0",
    "channel": "6af2ce9262b70b94b0dedc45",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-25T08:00:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-24T16:21:20+00:00"
+   "created": "2026-11-24T16:21:20+00:00",
+   "link": "https://tiktok.com/@kef.tenbeni/video/7712015940736601357",
+   "sentAt": "2026-11-25T08:02:17.777Z"
   }
  }
 }

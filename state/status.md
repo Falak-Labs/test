@@ -1,4 +1,4 @@
-# Post status 2026-11-25T03:47:04+00:00
+# Post status 2026-11-25T08:43:20+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -315,7 +315,7 @@
 | ep54-eiffel | en.tiktok | sent |  | 2026-11-21T19:03:39.426Z https://www.tiktok.com/@congratsengineer/video/7710702140372667662?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep54-eiffel | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-21T19:00:00.000Z |
 | ep55-suez | ar.instagram | sent |  | 2026-11-21T17:03:40.033Z https://www.instagram.com/reel/DgAuLkmh13i/ |
-| ep55-suez | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T04:30:00.000Z |
+| ep55-suez | ar.tiktok | sent |  | 2026-11-25T04:32:06.641Z https://tiktok.com/@kef.tenbeni/video/7711961772466408718 |
 | ep55-suez | en.instagram | sent |  | 2026-11-21T21:33:51.385Z https://www.instagram.com/reel/DgBM3p6iAYV/ |
 | ep55-suez | en.tiktok | sent |  | 2026-11-21T21:31:58.874Z https://www.tiktok.com/@congratsengineer/video/7710740185788517646?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep56-escalator | ar.instagram | sent |  | 2026-11-21T20:02:51.861Z https://www.instagram.com/reel/DgBCqCwIFHA/ |
@@ -404,14 +404,14 @@
 | ep75-stepwell | ar.tiktok | sent |  | 2026-11-24T23:01:43.988Z https://tiktok.com/@kef.tenbeni/video/7711876786996497677 |
 | ep75-stepwell | en.instagram | sent |  | 2026-11-25T02:31:25.854Z https://www.instagram.com/reel/DgJdgFfzoxm/ |
 | ep75-stepwell | en.tiktok | sent |  | 2026-11-25T02:31:54.536Z https://tiktok.com/@congratsengineer/video/7711930731504635150 |
-| ep78-airfryer | ar.instagram | scheduled |  | 2026-11-25T08:00:00.000Z |
-| ep78-airfryer | ar.tiktok | scheduled |  | 2026-11-25T08:00:00.000Z |
-| ep78-airfryer | en.instagram | scheduled |  | 2026-11-25T05:00:00.000Z |
-| ep78-airfryer | en.tiktok | scheduled |  | 2026-11-25T05:00:00.000Z |
+| ep78-airfryer | ar.instagram | sent |  | 2026-11-25T08:03:46.932Z https://www.instagram.com/reel/DgKDgR0hfJR/ |
+| ep78-airfryer | ar.tiktok | sent |  | 2026-11-25T08:02:17.777Z https://tiktok.com/@kef.tenbeni/video/7712015940736601357 |
+| ep78-airfryer | en.instagram | sent |  | 2026-11-25T05:01:26.824Z https://www.instagram.com/reel/DgJutLuTBXS/ |
+| ep78-airfryer | en.tiktok | sent |  | 2026-11-25T05:01:27.659Z https://tiktok.com/@congratsengineer/video/7711969467135282445 |
 | ep79-kuwaittowers | ar.instagram | scheduled |  | 2026-11-25T10:30:00.000Z |
 | ep79-kuwaittowers | ar.tiktok | scheduled |  | 2026-11-25T10:30:00.000Z |
-| ep79-kuwaittowers | en.instagram | scheduled |  | 2026-11-25T07:30:00.000Z |
-| ep79-kuwaittowers | en.tiktok | scheduled |  | 2026-11-25T07:30:00.000Z |
+| ep79-kuwaittowers | en.instagram | sent |  | 2026-11-25T07:31:47.220Z https://www.instagram.com/reel/DgJ_6OPMtRL/ |
+| ep79-kuwaittowers | en.tiktok | sent |  | 2026-11-25T07:30:58.738Z https://tiktok.com/@congratsengineer/video/7712007914365406478 |
 | ep80-fountain | ar.instagram | scheduled |  | 2026-11-25T13:00:00.000Z |
 | ep80-fountain | ar.tiktok | scheduled |  | 2026-11-25T13:00:00.000Z |
 | ep80-fountain | en.instagram | scheduled |  | 2026-11-25T10:00:00.000Z |
