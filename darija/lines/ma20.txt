@@ -9,4 +9,4 @@ T | p05t | ماتش زوين.
 T | tw | Tcham-pee-un.
 T | w6 | Good job! Tcham-pee-un!
 T | v2 | خويا هو البطل د الحومة!
-T | Tsl | Tchamp... pee-un.
+T | Tsl | Tchaam... pee-un.
