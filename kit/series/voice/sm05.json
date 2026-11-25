@@ -1,0 +1,810 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.1,
+ "gap": 0.35,
+ "duration": 56.987,
+ "words": 147,
+ "words_per_sec": 2.58,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.622,
+   "text": "No shade. No rain. No air conditioning.",
+   "words": [
+    {
+     "w": "No",
+     "start": 0.14,
+     "end": 0.285
+    },
+    {
+     "w": "shade.",
+     "start": 0.358,
+     "end": 1.049
+    },
+    {
+     "w": "No",
+     "start": 1.231,
+     "end": 1.376
+    },
+    {
+     "w": "rain.",
+     "start": 1.449,
+     "end": 2.067
+    },
+    {
+     "w": "No",
+     "start": 2.249,
+     "end": 2.467
+    },
+    {
+     "w": "air",
+     "start": 2.685,
+     "end": 2.831
+    },
+    {
+     "w": "conditioning.",
+     "start": 2.904,
+     "end": 3.776
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 3.94,
+   "end": 8.464,
+   "text": "Just you, and four fights with the sun that you are not supposed to win.",
+   "words": [
+    {
+     "w": "Just",
+     "start": 4.231,
+     "end": 4.522
+    },
+    {
+     "w": "you,",
+     "start": 4.667,
+     "end": 5.067
+    },
+    {
+     "w": "and",
+     "start": 5.249,
+     "end": 5.395
+    },
+    {
+     "w": "four",
+     "start": 5.54,
+     "end": 5.685
+    },
+    {
+     "w": "fights",
+     "start": 5.831,
+     "end": 6.049
+    },
+    {
+     "w": "with",
+     "start": 6.122,
+     "end": 6.195
+    },
+    {
+     "w": "the",
+     "start": 6.267,
+     "end": 6.34
+    },
+    {
+     "w": "sun",
+     "start": 6.413,
+     "end": 6.631
+    },
+    {
+     "w": "that",
+     "start": 6.704,
+     "end": 6.776
+    },
+    {
+     "w": "you",
+     "start": 6.849,
+     "end": 6.922
+    },
+    {
+     "w": "are",
+     "start": 7.031,
+     "end": 7.14
+    },
+    {
+     "w": "not",
+     "start": 7.213,
+     "end": 7.431
+    },
+    {
+     "w": "supposed",
+     "start": 7.504,
+     "end": 7.867
+    },
+    {
+     "w": "to",
+     "start": 7.94,
+     "end": 8.013
+    },
+    {
+     "w": "win.",
+     "start": 8.085,
+     "end": 8.595
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.782,
+   "end": 12.265,
+   "text": "Win all four, and congrats, you just beat the sun.",
+   "words": [
+    {
+     "w": "Win",
+     "start": 9.029,
+     "end": 9.073
+    },
+    {
+     "w": "all",
+     "start": 9.182,
+     "end": 9.291
+    },
+    {
+     "w": "four,",
+     "start": 9.364,
+     "end": 9.764
+    },
+    {
+     "w": "and",
+     "start": 9.873,
+     "end": 10.018
+    },
+    {
+     "w": "congrats,",
+     "start": 10.091,
+     "end": 10.855
+    },
+    {
+     "w": "you",
+     "start": 11.036,
+     "end": 11.182
+    },
+    {
+     "w": "just",
+     "start": 11.255,
+     "end": 11.4
+    },
+    {
+     "w": "beat",
+     "start": 11.473,
+     "end": 11.545
+    },
+    {
+     "w": "the",
+     "start": 11.618,
+     "end": 11.764
+    },
+    {
+     "w": "sun.",
+     "start": 11.945,
+     "end": 12.418
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 12.584,
+   "end": 19.007,
+   "text": "Level one. Rome. It's summer, and fifty thousand people are baking in the sun all day.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 12.726,
+     "end": 12.945
+    },
+    {
+     "w": "one.",
+     "start": 13.09,
+     "end": 13.556
+    },
+    {
+     "w": "Rome.",
+     "start": 13.726,
+     "end": 14.235
+    },
+    {
+     "w": "It's",
+     "start": 14.399,
+     "end": 14.617
+    },
+    {
+     "w": "summer,",
+     "start": 14.799,
+     "end": 15.199
+    },
+    {
+     "w": "and",
+     "start": 15.308,
+     "end": 15.417
+    },
+    {
+     "w": "fifty",
+     "start": 15.563,
+     "end": 15.854
+    },
+    {
+     "w": "thousand",
+     "start": 16.072,
+     "end": 16.435
+    },
+    {
+     "w": "people",
+     "start": 16.508,
+     "end": 16.799
+    },
+    {
+     "w": "are",
+     "start": 16.872,
+     "end": 17.09
+    },
+    {
+     "w": "baking",
+     "start": 17.163,
+     "end": 17.526
+    },
+    {
+     "w": "in",
+     "start": 17.563,
+     "end": 17.599
+    },
+    {
+     "w": "the",
+     "start": 17.672,
+     "end": 17.745
+    },
+    {
+     "w": "sun",
+     "start": 17.817,
+     "end": 18.108
+    },
+    {
+     "w": "all",
+     "start": 18.181,
+     "end": 18.472
+    },
+    {
+     "w": "day.",
+     "start": 18.617,
+     "end": 19.199
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.325,
+   "end": 26.785,
+   "text": "Level two. India. It hardly rains in this hot desert, and every dry month the water sinks lower and lower.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 19.544,
+     "end": 19.835
+    },
+    {
+     "w": "two.",
+     "start": 19.98,
+     "end": 20.453
+    },
+    {
+     "w": "India.",
+     "start": 20.535,
+     "end": 21.162
+    },
+    {
+     "w": "It",
+     "start": 21.28,
+     "end": 21.353
+    },
+    {
+     "w": "hardly",
+     "start": 21.425,
+     "end": 21.789
+    },
+    {
+     "w": "rains",
+     "start": 21.862,
+     "end": 22.225
+    },
+    {
+     "w": "in",
+     "start": 22.262,
+     "end": 22.298
+    },
+    {
+     "w": "this",
+     "start": 22.371,
+     "end": 22.516
+    },
+    {
+     "w": "hot",
+     "start": 22.589,
+     "end": 22.807
+    },
+    {
+     "w": "desert,",
+     "start": 22.88,
+     "end": 23.389
+    },
+    {
+     "w": "and",
+     "start": 23.498,
+     "end": 23.607
+    },
+    {
+     "w": "every",
+     "start": 23.68,
+     "end": 23.971
+    },
+    {
+     "w": "dry",
+     "start": 24.044,
+     "end": 24.262
+    },
+    {
+     "w": "month",
+     "start": 24.335,
+     "end": 24.553
+    },
+    {
+     "w": "the",
+     "start": 24.698,
+     "end": 24.771
+    },
+    {
+     "w": "water",
+     "start": 24.844,
+     "end": 25.062
+    },
+    {
+     "w": "sinks",
+     "start": 25.135,
+     "end": 25.425
+    },
+    {
+     "w": "lower",
+     "start": 25.571,
+     "end": 25.935
+    },
+    {
+     "w": "and",
+     "start": 26.007,
+     "end": 26.153
+    },
+    {
+     "w": "lower.",
+     "start": 26.298,
+     "end": 26.88
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 27.104,
+   "end": 35.302,
+   "text": "Level three. Abu Dhabi. The sun turns your seaside plaza into a frying pan, and a solid roof would make it a dark cave.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 27.29,
+     "end": 27.581
+    },
+    {
+     "w": "three.",
+     "start": 27.726,
+     "end": 28.381
+    },
+    {
+     "w": "Abu",
+     "start": 28.599,
+     "end": 28.817
+    },
+    {
+     "w": "Dhabi.",
+     "start": 28.89,
+     "end": 29.495
+    },
+    {
+     "w": "The",
+     "start": 29.617,
+     "end": 29.69
+    },
+    {
+     "w": "sun",
+     "start": 29.763,
+     "end": 29.981
+    },
+    {
+     "w": "turns",
+     "start": 30.054,
+     "end": 30.308
+    },
+    {
+     "w": "your",
+     "start": 30.345,
+     "end": 30.49
+    },
+    {
+     "w": "seaside",
+     "start": 30.563,
+     "end": 30.999
+    },
+    {
+     "w": "plaza",
+     "start": 31.072,
+     "end": 31.435
+    },
+    {
+     "w": "into",
+     "start": 31.508,
+     "end": 31.726
+    },
+    {
+     "w": "a",
+     "start": 31.799,
+     "end": 31.945
+    },
+    {
+     "w": "frying",
+     "start": 31.981,
+     "end": 32.308
+    },
+    {
+     "w": "pan,",
+     "start": 32.381,
+     "end": 32.938
+    },
+    {
+     "w": "and",
+     "start": 32.987,
+     "end": 33.035
+    },
+    {
+     "w": "a",
+     "start": 33.108,
+     "end": 33.181
+    },
+    {
+     "w": "solid",
+     "start": 33.363,
+     "end": 33.545
+    },
+    {
+     "w": "roof",
+     "start": 33.617,
+     "end": 33.835
+    },
+    {
+     "w": "would",
+     "start": 33.908,
+     "end": 33.981
+    },
+    {
+     "w": "make",
+     "start": 34.054,
+     "end": 34.199
+    },
+    {
+     "w": "it",
+     "start": 34.235,
+     "end": 34.272
+    },
+    {
+     "w": "a",
+     "start": 34.345,
+     "end": 34.417
+    },
+    {
+     "w": "dark",
+     "start": 34.49,
+     "end": 34.708
+    },
+    {
+     "w": "cave.",
+     "start": 34.781,
+     "end": 35.435
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 35.62,
+   "end": 44.103,
+   "text": "Final level. The Saudi desert. The sun bakes your big box like an oven, and sandstorms can sandblast the glass until it turns dull.",
+   "words": [
+    {
+     "w": "Final",
+     "start": 35.805,
+     "end": 36.241
+    },
+    {
+     "w": "level.",
+     "start": 36.386,
+     "end": 36.92
+    },
+    {
+     "w": "The",
+     "start": 36.986,
+     "end": 37.059
+    },
+    {
+     "w": "Saudi",
+     "start": 37.277,
+     "end": 37.641
+    },
+    {
+     "w": "desert.",
+     "start": 37.714,
+     "end": 38.211
+    },
+    {
+     "w": "The",
+     "start": 38.295,
+     "end": 38.368
+    },
+    {
+     "w": "sun",
+     "start": 38.441,
+     "end": 38.659
+    },
+    {
+     "w": "bakes",
+     "start": 38.732,
+     "end": 38.95
+    },
+    {
+     "w": "your",
+     "start": 39.059,
+     "end": 39.168
+    },
+    {
+     "w": "big",
+     "start": 39.277,
+     "end": 39.386
+    },
+    {
+     "w": "box",
+     "start": 39.459,
+     "end": 39.677
+    },
+    {
+     "w": "like",
+     "start": 39.75,
+     "end": 39.895
+    },
+    {
+     "w": "an",
+     "start": 40.005,
+     "end": 40.114
+    },
+    {
+     "w": "oven,",
+     "start": 40.186,
+     "end": 40.695
+    },
+    {
+     "w": "and",
+     "start": 40.805,
+     "end": 40.914
+    },
+    {
+     "w": "sandstorms",
+     "start": 41.059,
+     "end": 41.568
+    },
+    {
+     "w": "can",
+     "start": 41.677,
+     "end": 41.786
+    },
+    {
+     "w": "sandblast",
+     "start": 41.932,
+     "end": 42.295
+    },
+    {
+     "w": "the",
+     "start": 42.368,
+     "end": 42.441
+    },
+    {
+     "w": "glass",
+     "start": 42.623,
+     "end": 42.805
+    },
+    {
+     "w": "until",
+     "start": 42.877,
+     "end": 43.095
+    },
+    {
+     "w": "it",
+     "start": 43.168,
+     "end": 43.241
+    },
+    {
+     "w": "turns",
+     "start": 43.35,
+     "end": 43.605
+    },
+    {
+     "w": "dull.",
+     "start": 43.677,
+     "end": 44.259
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 44.421,
+   "end": 56.98,
+   "text": "Four levels, and not one sunburn. Your nose says thank you. You beat a Roman summer, a dry season, a frying pan and an oven, with sails, stairs, stars and mirrors.",
+   "words": [
+    {
+     "w": "Four",
+     "start": 45.105,
+     "end": 45.395
+    },
+    {
+     "w": "levels,",
+     "start": 45.468,
+     "end": 46.095
+    },
+    {
+     "w": "and",
+     "start": 46.168,
+     "end": 46.241
+    },
+    {
+     "w": "not",
+     "start": 46.314,
+     "end": 46.532
+    },
+    {
+     "w": "one",
+     "start": 46.75,
+     "end": 46.968
+    },
+    {
+     "w": "sunburn.",
+     "start": 47.041,
+     "end": 47.805
+    },
+    {
+     "w": "Your",
+     "start": 47.877,
+     "end": 47.95
+    },
+    {
+     "w": "nose",
+     "start": 48.023,
+     "end": 48.314
+    },
+    {
+     "w": "says",
+     "start": 48.423,
+     "end": 48.532
+    },
+    {
+     "w": "thank",
+     "start": 48.677,
+     "end": 48.895
+    },
+    {
+     "w": "you.",
+     "start": 48.968,
+     "end": 49.186
+    },
+    {
+     "w": "You",
+     "start": 49.516,
+     "end": 49.541
+    },
+    {
+     "w": "beat",
+     "start": 49.614,
+     "end": 49.759
+    },
+    {
+     "w": "a",
+     "start": 49.795,
+     "end": 49.832
+    },
+    {
+     "w": "Roman",
+     "start": 49.977,
+     "end": 50.341
+    },
+    {
+     "w": "summer,",
+     "start": 50.414,
+     "end": 50.923
+    },
+    {
+     "w": "a",
+     "start": 50.959,
+     "end": 50.995
+    },
+    {
+     "w": "dry",
+     "start": 51.141,
+     "end": 51.432
+    },
+    {
+     "w": "season,",
+     "start": 51.505,
+     "end": 52.086
+    },
+    {
+     "w": "a",
+     "start": 52.123,
+     "end": 52.159
+    },
+    {
+     "w": "frying",
+     "start": 52.305,
+     "end": 52.595
+    },
+    {
+     "w": "pan",
+     "start": 52.668,
+     "end": 52.886
+    },
+    {
+     "w": "and",
+     "start": 53.105,
+     "end": 53.25
+    },
+    {
+     "w": "an",
+     "start": 53.323,
+     "end": 53.395
+    },
+    {
+     "w": "oven,",
+     "start": 53.468,
+     "end": 53.895
+    },
+    {
+     "w": "with",
+     "start": 54.005,
+     "end": 54.114
+    },
+    {
+     "w": "sails,",
+     "start": 54.186,
+     "end": 54.841
+    },
+    {
+     "w": "stairs,",
+     "start": 55.095,
+     "end": 55.495
+    },
+    {
+     "w": "stars",
+     "start": 55.714,
+     "end": 55.932
+    },
+    {
+     "w": "and",
+     "start": 56.077,
+     "end": 56.295
+    },
+    {
+     "w": "mirrors.",
+     "start": 56.368,
+     "end": 57.095
+    }
+   ]
+  }
+ ]
+}
