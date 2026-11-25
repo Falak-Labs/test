@@ -912,7 +912,13 @@ jobs:
     # B-roll and NIST's "Smoke Alarm vs. Bacon" (ideas.md Nov 24 09:05). B4 teases build 95, the Falkirk Wheel (a 24 m
     # lift, ideas.md Nov 24 10:05). B6: a dish towel waved at the alarm over burnt toast (reword to hands only if the
     # filter flags the man).
-    status: "generating (started: Nov 24 17:37 PT, main chat; Generating card confirmed; reworded: no hands/engineers)"
+    # Run: History f6b36089, created 17:36:45 PT by the main chat with the style line, done by 17:51. As run (no hands,
+    # no engineers): shot 1 "its lid flips open and a fresh battery clicks into place"; shot 2 ends "lifts its head"
+    # (no tilt); shot 3 "a thin screwdriver tries to pry it open and cannot"; shot 5 "monitors glow behind a glass
+    # wall"; shot 6 "a dish towel swings wildly, held by an apron-clad cook seen from behind"; the rest word for word as
+    # below. Fetched by the hourly runner at 17:53 PT (5.9 MB).
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261125_013645_f6b36089-f52e-41fc-a8ce-3710eb6d6862.mp4
     file: buildit-smokealarm-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): close-up of a smoke alarm on a ceiling at dusk, its red light flashing once with a low-battery
