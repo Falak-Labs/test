@@ -1,0 +1,136 @@
+{
+ "lesson": "21",
+ "dialect": "ma",
+ "file": "yallah-say-ma-ep21.mp4",
+ "ok": false,
+ "problems": [
+  "a voice take is not intact in the finished file: ['p01k', 'rc0_0']"
+ ],
+ "steps": {
+  "script": {
+   "seconds": 0.0,
+   "says": [
+    "40 beats, 10 voice lines, 179 characters"
+   ]
+  },
+  "slow T": {
+   "seconds": 0.2,
+   "says": [
+    "/home/runner/work/test/test/darija/voice/ma21/Tsl.mp3 → 0.93s 0.78s"
+   ]
+  },
+  "slow A": {
+   "seconds": 0.2,
+   "says": [
+    "/home/runner/work/test/test/darija/voice/kids21/Asl.mp3 → 0.96s 0.70s"
+   ]
+  },
+  "slow L": {
+   "seconds": 0.2,
+   "says": [
+    "/home/runner/work/test/test/darija/voice/kids21/Lsl.mp3 → 0.89s 0.95s"
+   ]
+  },
+  "page": {
+   "seconds": 0.1,
+   "says": [
+    "page /home/runner/work/test/test/out/ma21/page theme ma"
+   ]
+  },
+  "sound": {
+   "seconds": 3.9,
+   "says": [
+    "duration 1:22.53 (2476 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.647",
+    "quiz 26.1 | hard word 37.1 | end card 72.3 | word parts (s): {'T': [0.93, 0.78], 'A': [0.96, 0.7], 'L': [0.89, 0.95]}"
+   ]
+  },
+  "picture": {
+   "seconds": 105.9,
+   "pieces": 5,
+   "at_once": 4,
+   "frames_per_second": 23.4
+  },
+  "join": {
+   "seconds": 0.1,
+   "says": []
+  },
+  "mux": {
+   "seconds": 1.7,
+   "says": []
+  },
+  "takes": {
+   "seconds": 2.8,
+   "says": [
+    "ok   o2      at   79.35s len 1.19s  match 0.945  (take offset +0.03s)",
+    "ok   o3      at   80.79s len 0.62s  match 0.993  (take offset +0.01s)",
+    "below 0.9: ['p01k', 'rc0_0']"
+   ]
+  },
+  "frames": {
+   "seconds": 2.2,
+   "says": []
+  }
+ },
+ "voice_lines": {
+  "own": {
+   "folder": "darija/voice/ma21",
+   "lines": 10,
+   "characters": 179
+  },
+  "kids": {
+   "folder": "darija/voice/kids21",
+   "lines": 10,
+   "characters": 151
+  },
+  "common": {
+   "folder": "darija/voice/macommon",
+   "lines": 7,
+   "characters": 168
+  },
+  "kidscommon": {
+   "folder": "darija/voice/kidscommon",
+   "lines": 2,
+   "characters": 22
+  }
+ },
+ "frames": 2476,
+ "duration": 82.5333,
+ "sha256": {
+  "page/script.js": "2e5e128ffb59f04326c93752dac7fee0ac49c3f053b87e7d5dae21b2070432cc",
+  "page/tl.js": "085b625947a410942a701f679eebcaabf78b17578751c7711e287a5b8d7a1c8b",
+  "final.wav": "37d82c9b76d9204941177637256f77a77a001bef3f93d91c05e58987afad96cb",
+  "yallah-say-ma-ep21.mp4": "a94cf34f882c613c347cd7494efb0910f62fab50e3ac7bfe45650534d5f41a26"
+ },
+ "video": {
+  "size": 18223197,
+  "frames": 2476,
+  "width": 1080,
+  "height": 1920,
+  "rate": "30/1",
+  "audio_seconds": 82.533,
+  "audio_rate": "48000"
+ },
+ "takes_below_0.9": "['p01k', 'rc0_0']",
+ "sheet_times": [
+  1.6,
+  8.97,
+  10.92,
+  13.07,
+  14.91,
+  17.0,
+  18.92,
+  21.07,
+  23.21,
+  25.15,
+  27.7,
+  38.7,
+  73.9,
+  82.03
+ ],
+ "made_with": {
+  "python": "3.13.18",
+  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "playwright": "Version 1.63.0"
+ },
+ "seconds": 118.6
+}
