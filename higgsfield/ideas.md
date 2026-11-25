@@ -1252,3 +1252,61 @@ New content
   cost $3), with clips of 2-30 s and 9:16 among the ratios; fal says outputs "can be used in commercial projects".
   Wan 3 itself is new to these notes: if its weights come out under an open licence, the ZeroGPU route above may carry
   it too. [fal.ai, Wan 3](https://fal.ai/wan-video-free)
+
+## 2026-11-24 19:05 PT (hourly runner, cloud run)
+
+Trends
+- Instagram ranks by shares in DMs more than by watch time: "One of the most important signals we use in ranking is
+  sends per reach", that is "out of all the people who saw your video or photo, how many of them sent it to a friend
+  in a DM?", and "don't force it as a creator" (Mosseri in a reel, via Search Engine Journal, Jul 3 2024). He still
+  says it: Uppbeat (Nov 3 2026), on his latest talk with Colin and Samir, says it "was a signal he flagged in their 2024
+  chat", quotes "If you're a new creator, that's probably one of the most important metrics you could follow" (about
+  reaching non-followers, as read from a summary: check), says original creators get more reach than accounts that
+  repost others' work (paraphrase), and that Instagram "leans on watch time less than its competitors do". Build-It
+  use: on Instagram the share is the score, so line 14's tag (B6) should be the everyday moment people DM to a friend
+  (the dog in the bath, the dish towel under the alarm), with no "send this to" line (he says not to force it); post
+  only our own cuts, never reposts.
+  [Search Engine Journal, Jul 3 2024](https://www.searchenginejournal.com/instagram-algorithm-shift-why-sends-matter-more-than-ever/521389/),
+  [Uppbeat, Nov 3 2026](https://uppbeat.io/blog/creator-news/whats-working-on-instagram-right-now-carousels-and-sends-says-adam-mosseri)
+
+Free footage and pictures
+- Checked, not free: Wan 3.0 keeps its weights closed. "Notably, the weights are closed" (TNW, Aug 24 2026); "Wan 3.0
+  shipped as an API-only beta in August 2026: no Hugging Face weights, no GitHub repo, no ComfyUI node", and on open
+  weights "Nobody at Alibaba has promised it" (Atlas Cloud, a Wan reseller, Aug 26 2026). It makes "clips of up to 30
+  seconds in a single pass" at "resolutions up to 1080p", through "Model Studio and Qwen Cloud on an application
+  basis" (TNW); neither page has a free tier. So the 18:00 hope that ZeroGPU could carry Wan 3 is off; FastWan2.2
+  (Apache 2.0) stays the open model for that route.
+  [TNW, Aug 24 2026](https://thenextweb.com/news/alibaba-wan3-video-model-after-share-sale),
+  [Atlas Cloud, Aug 26 2026](https://www.atlascloud.ai/blog/tips/is-wan-3.0-open-source)
+- Checked, not usable: Bing Video Creator (Microsoft, free) gives "10 fast video generations for free" and then
+  "unlimited slow creations", but "Bing Video Creator will include a visual watermark in all generated videos" (Neowin,
+  on its move to Sora 2, about Mar 5 2026); clips were "around 5 seconds", and "the current Bing generation tools rely
+  solely on the use of OpenAI's Sora models" (Windows Central, Mar 24 2026), whose app closed Apr 26 and API Sep 24 2026
+  (04:00 entry). Watermarked either way, so no B-roll source; its status after Sora was not found.
+  [Neowin](https://www.neowin.net/news/bing-video-creator-is-now-powered-by-openais-sora-2/),
+  [Windows Central, Mar 24 2026](https://www.windowscentral.com/gaming/openai-shutting-down-ai-video-app-sora-bing-video-generation-at-risk)
+- Commons is still unreadable from these sessions: the Rain Vortex category came back "url_not_found" at 19:00 PT (as
+  at 14:02), so the licence of a real photo for build 98's line 11 is unchecked; read the file pages in Chrome (or in
+  the production run) before using one.
+
+New content
+- Zayed National Museum, Abu Dhabi, a candidate Arab-world mega-build (not in LINEUP), on Saadiyat Island like the
+  Louvre Abu Dhabi (Build 70): "five soaring steel towers" (Architectural Record, Jan 5 2026), "five lightweight steel
+  wings" (designboom, Dec 3 2025), "between 83 and 123 metres" tall (Wikipedia), that work as solar chimneys: glass at
+  the top lets them "superheat the air up top", air is drawn "through vents in the mound below" and "Forced down into
+  underground concrete ducts" (AR), and the system "draws cool air up from ducts buried deep underground and exhales
+  hot air through the towers" (designboom). Both have the hot air leaving at the top; the path in was read from
+  summaries, so read AR once more before scripting. Structure: the galleries are "suspended within the solar chimneys"
+  and "attach to the drum walls at just three points via cantilevering steel connectors"; the local sand could not be
+  used "due to its impurities" (AR). It "opened to the public on 3 December 2025" (Wikipedia; designboom: "opens today,
+  on December 3rd, 2025"). Engineers (AR): structure AKT II and WSP, climate Transsolar, wind RWDI, steel Eversendai.
+  No figures for energy saved, steel weight or wind loads on these pages, and the areas disagree (AR
+  "610,170-square-foot", designboom 56,687 m² gross): leave them out. The UAE has no freedom of panorama (14:02), so
+  its proof shot stays Seedance. The building only: no portraits, no exhibits, no writing on it. Ready shots: A1 heat
+  shimmer pouring out of the tops of five giant steel feathers over a desert-island mound at noon; a cutaway of air
+  sliding through cool concrete ducts under the mound and rising up a glass-topped steel chimney; a heavy gallery
+  hanging inside a steel drum held at only three points; B6 funny slow motion, a cat lies on a warm floor vent and
+  its fur puffs up like a balloon.
+  [Architectural Record, Jan 5 2026](https://www.architecturalrecord.com/articles/17943-foster-partners-zayed-national-museum-in-abu-dhabi-meets-the-sky-with-a-series-of-splayed-solar-chimneys),
+  [designboom, Dec 3 2025](https://www.designboom.com/architecture/zayed-national-museum-fosterandpartners-steel-wings-abu-dhabi-12-03-2025/),
+  [Wikipedia](https://en.wikipedia.org/wiki/Zayed_National_Museum)
