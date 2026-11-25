@@ -1023,7 +1023,11 @@ jobs:
     # (B1). A1 is the thermal-camera look (ideas.md Nov 24 15:59), since falkirk-B shot 4 already shows the pouch click.
     # Check before use: the 1923 warmer was a different kind (platinum catalyst and benzine, Hakkin). No faces: hands,
     # gloves, a camp seen wide.
+    # Made anyway: the runner on the owner's computer started this A job at 11:12 PT Nov 25 (History c308298a, its
+    # text word for word), before the midday run skipped the pair at 11:41; done when read at 11:51, fetched by the
+    # 12:00 cloud run (Fetch media kept it). Spare footage for a Seedance remake of 96 or the 4-minute show; B not made.
     status: "skipped (build 96 is made in the v2 look by the Build-It midday run of Nov 25 PT: no footage was ready; generate museum-A/B next)"
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261125_191212_c308298a-52fc-4994-a018-2751244c0a19.mp4
     file: buildit-handwarmer-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): thermal camera view at night, a torn-open hand warmer packet of dark iron powder lies in a cold
@@ -1127,3 +1131,68 @@ jobs:
       walking up the path, cars streaming along the highway beside it, slow aerial orbit. Shot 6 (25-30 s):
       funny slow motion, a glazed ring doughnut falls from above into a full cup of coffee on a cafe table, a
       crown of coffee splashes high, then the doughnut bobs up and floats in the cup like a tiny lifebuoy.
+  - id: rainvortex-A
+    build: 98
+    kit: rainvortex
+    # Facts: "The 40-metre-tall Rain Vortex", "designed to funnel rainwater at a rate of 10,000 gallons per minute",
+    # pours "down seven storeys from an oculus in the glass domed roof" (Dezeen, Mar 12 2019); "the world's tallest
+    # indoor waterfall", opened 17 Apr 2019 (HSBC press release, Apr 9 2019). The roof (A3): "more than 9,304
+    # triangular glass roof panels" on "more than 6,000 solid steel nodes" (ENR, Jun 20 2019), a "bagel-shaped roof"
+    # spanning "more than 200 metres" (Dezeen), and the vortex is "fed by rain collected over 7,500 sq m of roof area"
+    # (ENR). A4 is the spray told as people getting wet (our break); the fix (A5): the water falls "in a continuous
+    # parabolic arch, rather than in a straight line" from an "11-m-dia" oculus set "slightly off center" into "a
+    # 14.5-m-tall circular acrylic wall, separating the water and spray from visitors" (ENR; HSBC: "a two-storey
+    # circular acrylic water-wall"). A6: "Early simulations showed air being dragged by the waterfall from the occupied
+    # areas into the pit", and its moisture "would add to the humidity of the air in the occupied space" (Siemens
+    # Engineer Innovation 13, on Atelier Ten's design). A2 is Jewel's plot between the terminals in a storm (Terminal
+    # 1's old open-air car park per Wikipedia: check before a line says so). The roof's weight differs (ENR 6,000 t,
+    # Arup 3,500 t): leave it out. More in ideas.md (Nov 24 14:02 and 18:00). No faces: travellers small and from
+    # behind; no signs.
+    status: todo
+    file: buildit-rainvortex-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): at night inside a giant glass dome at an airport, a 40-meter column of water roars down from a
+      round hole in the roof through a terraced indoor forest, lightning flashing through the glass, small travellers
+      seen from behind walking past, slow push-in. Shot 2 (5-10 s): wide aerial of a tropical airport beside the sea
+      under a black thunderstorm, sheets of rain pounding the terminals and a wide flat empty plot between them,
+      lightning over the sea. Shot 3 (10-15 s): a giant doughnut-shaped roof of thousands of triangular glass panes on
+      a steel grid, rain sheeting down the curved glass into the round hole in its middle and pouring through as one
+      thick waterfall, wide aerial. Shot 4 (15-20 s): in a bright shopping hall a tall waterfall crashes onto a hard
+      stone floor, clouds of mist and splashing water soak travellers seen from behind and their suitcases, people
+      backing away, wide view. Shot 5 (20-25 s): a waterfall bends in a smooth arch from an off-centre round hole in a
+      glass roof into a tall clear acrylic drum two storeys high, the mist staying inside, dry visitors seen from
+      behind on the terraces, slow push-in. Shot 6 (25-30 s): close-up at the rim of a deep pit beside a roaring
+      indoor waterfall, thin wisps of white smoke over a forest terrace are dragged sideways and down into the pit by
+      the falling water, leaves and a paper napkin swept in with them.
+  - id: rainvortex-B
+    build: 98
+    kit: rainvortex
+    # Facts: the fix for A6, "a one-meter-high solid glass balustrade that deflects the air upwards instead of
+    # sideways", found with a CFD model of "a single meter-wide slice at high resolution" (Siemens: B1). B2 is our own
+    # break (a dry spell); its fix (B3): "Water lands in a pool in the B2 level, with holding tanks on B3", "Captured
+    # water is used to run the feature by filtering and treating it, then recirculating it to the roof" through "more
+    # than 3.6 km of piping", and "If the level is low, the tanks are topped off using new water" (ENR, Jun 20 2019).
+    # B4 teases build 99, instant noodles (LINEUP: Momofuku Ando, 1958; flash-frying dries the noodles full of tiny
+    # holes, so hot water cooks them in minutes), with no brand or print on the cup. B5: the night show, "a 360-degree
+    # light and sound show" (Dezeen) with "music and mist effects" (HSBC), and the airport train that runs through the
+    # dome ("The active train, which connects terminals 2 and 3, was cocooned in a shed" while Jewel was built, ENR).
+    # Lines 12-13: a free Unsplash photo of the vortex (ideas.md Nov 25 04:05; Singapore's freedom of panorama covers
+    # buildings) or a GPT Image 2.6 still. B6 (ours): a spoon in the sink, the kitchen's own spray problem. No faces:
+    # visitors small and from behind; no signs.
+    status: todo
+    file: buildit-rainvortex-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): close-up at the rim of a deep pit beside an indoor waterfall, a low solid glass wall one meter
+      high runs around the edge, wisps of white smoke drifting toward the water hit the glass and curl upward instead
+      of being dragged down. Shot 2 (5-10 s): time-lapse of hot cloudless days and starry nights over a giant glass
+      doughnut-shaped roof with no rain, inside the dome the tall waterfall thins to a trickle and stops, the clear
+      drum below empty. Shot 3 (10-15 s): cutaway under an indoor waterfall, the water lands in a pool, drains into
+      huge tanks two floors underground, passes through big filters and is pumped up long pipes to the rim of the hole
+      in the roof, where it pours again, wide view. Shot 4 (15-20 s): macro of a tangle of fresh wavy noodles lowered
+      into hot oil, thousands of tiny bubbles streaming out, then the dry golden block lifts out full of tiny holes and
+      hot water poured over it in a plain paper cup softens it in seconds. Shot 5 (20-25 s): the real Rain Vortex at
+      Jewel Changi Airport in Singapore at night, a light show turning the falling water into glowing colors, crowds
+      seen from behind on the forest terraces, a small airport train gliding through the dome behind it, slow aerial
+      orbit. Shot 6 (25-30 s): funny slow motion, in a home kitchen a person seen from behind turns the tap on full
+      over a spoon in the sink, a wide fan of splashes soaks their shirt, the window and a cat on the counter, who
+      glares.

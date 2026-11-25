@@ -2482,3 +2482,68 @@ New content
   [Wikipedia, Detachable chairlift](https://en.wikipedia.org/wiki/Detachable_chairlift),
   [Wikipedia, Chairlift](https://en.wikipedia.org/wiki/Chairlift),
   [Colorado Ski History](https://coloradoskihistory.com/chairlift/hsq2.html)
+
+## 2026-11-25 12:00 PT (hourly runner, cloud run)
+
+Trends
+- The world's largest wildlife crossing opens on Wed Dec 2, a news peg and a candidate build (new to these notes; not
+  in LINEUP, and no animal bridge among the made builds): the Wallis Annenberg Wildlife Crossing over the US 101 at
+  Liberty Canyon, Agoura Hills, near Los Angeles, with "the official Dec. 2 opening ceremony" (AP via ADN, Nov 18
+  2026). It is "strictly for animal use", with "a public viewing platform" (Fox LA, Apr 25 2026), and "a lone coyote
+  believed to be the first mammal to make the trek safely across" has already used it (ADN). Checked facts: it
+  "stretches 1,250 feet in two sections over the roadways" (ADN), "Spanning 10 lanes of the 101 Freeway" (Fox LA);
+  the freeway span is "210-ft-long, 174-ft-wide", built from "82 precast box girders weighing 60 tons each", trucked in
+  "three to four of the units each night, requiring only half of the freeway to be closed at a time", over "43
+  consecutive nights of alternating nightly closures" with a "500-ton crane" (ENR, Aug 19 2025); on top, "up to 4 ft
+  of soil and 5,000 plants native to the Santa Monica Mountains", "6,000 cu yd of soil" designed "from the molecular
+  level on up" (ENR), from "over 1.1 million hyper-local seeds" collected by hand (Fox LA); "10-foot sound-dampening
+  walls that line the span" and "Fencing along the freeway funnels animals to the crossing" (ADN); lighting "chosen to
+  minimize impact to wildlife" and concrete pigmented against "sky glow" (ENR). Why: lions boxed in by freeways "risk
+  inbreeding themselves into extinction", and "at least 780 mountain lions — or 18% of the state's population — are
+  killed by vehicles each year" (ADN). Work "began on Earth Day 2022" (Fox LA). Cost: "$114 million total budget",
+  up from "an initial $92 million" (ADN; ENR's "$92-million" is the older figure). A chain (breaks marked "ours" are
+  ours): A1, at dusk a mountain lion walks calmly through tall grass on a green bridge while ten lanes of headlights
+  stream underneath; A2, wide aerial of the freeway cutting the mountains in two, a lion stopping at the edge of the
+  roaring road; A3, at night a giant crane lowers precast girders across half the freeway while traffic runs on the
+  other half; A4 (ours), on the bare concrete deck a deer sniffs and turns back; A5, feet of soil spread and native
+  shrubs and oaks planted, seeds sown (hands only); A6 (ours), headlight glare and roaring traffic noise wash over
+  the young plants and a coyote flinches back; B1, the 10-foot walls rise along both edges and the bridge goes dark
+  and quiet; B2 (ours), a bobcat ignores the bridge and slips down to the open road a mile away; B3, a long fence
+  along the freeway leads it to the crossing; B4, a tease of whichever build follows; B5, the real crossing on a
+  night trail camera, a coyote trotting across (as in ADN); B6, funny slow motion, a squirrel leaps for a bird feeder
+  and swings round it. Line 12: "10 LANES" or "780" (lions killed on California roads a year). Check before use: the
+  height over the road and the opening-day program were on none of these pages; the donor's name in words only, no
+  real people's faces; P-22, the lion "euthanized in 2022 after likely being hit by a car" (ADN), at most one gentle
+  line. Free video ends Nov 28, so if the main chat wants this build its pair has to run by then.
+  [AP via ADN, Nov 18 2026](https://www.adn.com/alaska-news/wildlife/2026/11/18/over-a-freeway-near-la-animals-can-roam-safely-thanks-to-the-worlds-largest-wildlife-crossing/),
+  [Fox LA, Apr 25 2026](https://www.foxla.com/news/wallis-annenberg-wildlife-crossing-opening-date-december),
+  [ENR, Aug 19 2025](https://www.enr.com/articles/61224-southern-californias-wildlife-crossing-prepares-for-its-debut),
+  [LA Mag](https://lamag.com/animals/worlds-largest-wildlife-crossing-sets-dec-2-opening/)
+- Checked, nothing new: searches for this week's Shorts and Reels features return the Made on YouTube items of Sep 23
+  (Shorts series and the rest, already in these notes) and older Reels camera news; Virlo and SocialPilot are covered
+  above.
+
+Free footage and pictures
+- Vecteezy (new to these notes; its sister site Videezy already is: "Videezy free clips need a credit line"): "Anyone
+  can download the free resources and use them for personal or commercial projects with attribution" (Vecteezy blog,
+  Dec 18 2020); the Free license "requires the user to provide attribution", while "Pro customers can download and use
+  both Free and Pro resources without attribution" (Free vs Pro, upd. Sep 19 2025); files labelled "Editorial Use
+  Only" may not be used "for commercial or promotional products", a label that comes from "a copyright-protected logo
+  or other branding" or "a recognizable person or property" without a release (Licensing 101, upd. Sep 19 2025),
+  which also lists a legal guarantee of "Free License – up to $500". These are contributor blog pages, not the licence
+  itself: the credit wording, download limits and how AI-made clips are marked were not on them. For us: real B-roll
+  for the everyday builds after Nov 28 on the same terms as Magnific (a credit in the caption), skipping Editorial
+  clips; read the licence page before the first use.
+  [Vecteezy, free videos](https://www.vecteezy.com/blog/company/free-videos-now-available),
+  [Vecteezy, Free vs Pro](https://www.vecteezy.com/blog/contributor/free-vs-pro),
+  [Vecteezy, Licensing 101](https://www.vecteezy.com/blog/contributor/licensing-101)
+
+New content
+- Rain Vortex (98), the pair is queued (rainvortex-A/B; B4 teases 99, instant noodles). New check: HSBC's press
+  release (Apr 9 2019) has "The majestic 40-metre feat of engineering is the world's tallest indoor waterfall", water
+  flowing "down a two-storey circular acrylic water-wall" from "the pool at Level 1 of the Forest Valley", a "cascading
+  bead curtain" made by "carefully controlled flow of water from the edge of the oculus", "music and mist effects" at
+  night, and "Jewel is scheduled to open on 17 April 2019". Changi's "behind the Rain Vortex" page gave only its
+  description when read ("the 40-metre HSBC Rain Vortex pours from the dome above", "this seven-storey marvel").
+  [HSBC Singapore, Apr 9 2019](https://www.about.hsbc.com.sg/news-and-media/the-hsbc-rain-vortex-is-ready-to-dazzle-visitors-at-jewel),
+  [Changi Airport](https://changiairport.com/corporate/media-centre/changijourneys/the-airport-never-sleeps/behind-the-rain-vortex.html)
