@@ -1576,3 +1576,82 @@ New content
   [ThePrint (Reuters), Dec 10 2022](https://theprint.in/sport/soccer-what-next-for-stadium-974-the-world-cups-first-fully-demountable-arena/1259244),
   [ArchDaily, Dec 15 2022](https://www.archdaily.com/993811/workers-begin-dismantling-qatars-stadium-974-the-first-temporary-world-cup-stadium),
   [Office Holidays, Qatar](https://www.officeholidays.com/countries/qatar/national_day.php)
+
+## 2026-11-24 23:00 PT (hourly runner, cloud run)
+
+Platform rules
+- Instagram trial reels can be posted through Buffer (new to these notes): Meta's developer blog says "We are
+  enhancing the Instagram media Content Publishing API to support the creation of Trial Reels" (Dec 3 2025), and
+  Buffer's help page (undated) lists Trial Reel for Reels with three settings, Off, Auto and Manual. "A trial reel is
+  shown to people who don't follow you first"; on Auto, "If it performs well, Instagram shows it to your followers
+  after 72 hours"; on Manual, "You share it with your followers when you're ready" (Buffer). Limits: a professional
+  account; Instagram can refuse a trial that "does not meet its follower requirement" (no number given); Buffer
+  "can't show whether your trial reel moved on to your followers". Planoly (upd. Oct 23 2026) names the API setting
+  trial_params (MANUAL or SS_PERFORMANCE); Publer's Feb 5 2026 line that Buffer only sends reminders is older than
+  Buffer's page. Build-It use: a hook A/B test on Instagram now (YouTube's three-cut test comes "from 2027", Nov 23
+  22:56 entry): post a build's second cut with another hook as a trial reel on Auto and compare it with the main
+  post. scripts/post.py sends Instagram `{type: reel, shouldShareToFeed: true}`; whether Buffer's API takes a trial
+  setting is unchecked (scripts/inspect_api.py, run in Actions, prints the input types). The production chat decides.
+  [Meta for Developers, Dec 3 2025](https://developers.facebook.com/blog/post/2025/12/03/instragram-api-updates/),
+  [Buffer help](https://support.buffer.com/articles/scheduling-instagram-posts-reels-stories-and-notifications-3XA98S9Q5p),
+  [Planoly, upd. Oct 23 2026](https://www.planoly.com/blog/can-you-schedule-trial-reels),
+  [Publer, Feb 5 2026](https://publer.com/blog/en/best-tools-to-schedule-instagram-trial-reels/)
+
+Free footage and pictures
+- Open Images (openbeelden.nl, the Netherlands Institute for Sound & Vision) has public-domain newsreels of a real
+  mega-build (new to these notes): "more than 7000 videos", "Polygoon newsreels and some other films from the 20th
+  century", released "under a Creative Commons licence, or is already in the Public Domain" (its data page, which
+  also names an OAI-PMH API). Each item page names its own licence and offers MP4, OGV and MPG files (43009's MP4 is
+  320x240; 1231330 has an hd MP4). "Public Domain Mark" (copy and use, even commercially, without permission):
+  "Demping blinde geul" (19 Jul 1931, 2:58: draglines and a grab closing a gap in the Afsluitdijk), 43009, the
+  Zuiderzee's last opening closed (29 May 1932, 4:05: the last gap, a bucket closing it, aerial views of the dike, a
+  minister's speech), and 44859, the dike opened to traffic (24 Sep 1933, 2:25). "Creative Commons –
+  Attribution-Share Alike": 43913 (the dike at 25, 1957) and the Delta Works films "De Pluimpot is dicht" (15 Oct
+  1957) and "Zes jaar na de stormvloed" (21 Jan 1959): share-alike could bind our whole video, so leave those out.
+  Build-It use: Public Domain Mark items only, one archive proof shot (B5) inside our own footage, shots without
+  faces (not the speech), black and white 4:3 and small, so a framed insert; read the item's page again before use.
+  [Sound & Vision data page](https://data.beeldengeluid.nl/datasets/open-beelden),
+  [Open Images 1231330](https://openbeelden.nl/media/1231330/Demping_blinde_geul),
+  [Open Images 43009](https://openbeelden.nl/media/43009),
+  [Open Images 44859](https://www.openbeelden.nl/media/44859),
+  [Open Images 43913](https://openbeelden.nl/media/43913),
+  [Open Images 651200](https://www.openbeelden.nl/media/651200/De_Pluimpot_is_dicht),
+  [Open Images 26368](https://www.openbeelden.nl/media/26368/Zes_jaar_na_de_stormvloed)
+- Checked, nothing new for the Nov 28 end: Higgsfield's "All Unlimited explained" (Jul 22 2026) says "Access runs at
+  1 concurrent generation per format, shared across all models" (the one video plus one picture at a time seen here)
+  and, after a window, "You return to your regular plan: your credits, priority queue"; its "unlimited plan change"
+  page (upd. Jul 7 2026) and "seedance-unlimited-14-days" (an ended Seedance 2.0 Fast promo) add nothing for
+  existing subscribers, and none of the three mentions Black Friday 2026.
+  [Higgsfield, Jul 22 2026](https://higgsfield.ai/blog/higgsfield-all-unlimited-explained),
+  [Higgsfield, upd. Jul 7 2026](https://geo.higgsfield.ai/blog/higgsfield-unlimited-plan-change),
+  [Higgsfield, undated](https://higgsfield.ai/blog/seedance-unlimited-14-days)
+
+New content
+- The Afsluitdijk (Netherlands), a candidate build (not in LINEUP; Build 41 was the Maeslantkering) whose B5 can be
+  the real closing of May 1932 from the Public Domain Mark newsreel above. "32 km long and 90 meters wide" (Wikipedia,
+  Zuiderzee Works; Wikiwand and the IET blog the same), built 1927-1932; the last gap, the Vlieter, closed on 28 May
+  1932 (Wikiwand, IET, Rijkswaterstaat; Wikipedia's table says 23 May: say "May 1932"); "after the flood of 1916 and
+  the famine of 1918, opinions were ready for this mega project" (Wikiwand). Build: a sand core, "the seaward side
+  is boulder clay with brushwood mattresses above, weighed down by basalt boulders and old concrete", and "boulder
+  clay was superior to just sand or clay" (Wikiwand). The hard part: as the gaps narrowed the tidal currents got
+  "much stronger" (Wikiwand, Wikipedia); Lorentz "calculated the force of the tide as the smaller gap made it
+  stronger"; work ran from four points, two of them building islands (Kornwerderzand, Breezanddijk); the Vlieter
+  was closed "by a final bucket of till" (Wikiwand; the 1932 newsreel shows the bucket). Water out: 25 sluices,
+  "three series of five" at Den Oever beside the Stevin lock and "two series of five" at Kornwerderzand beside the
+  Lorentz locks (Wikiwand, Wikipedia), letting water out only when the Wadden Sea is lower than the lake ("Ik kan
+  eigenlijk alleen spuien als het water in Waddenzee lager is dan in het IJsselmeer", Rijkswaterstaat). Then "The
+  IJsselmeer was born, even though it was still salty at the time" (Wikiwand). Rijkswaterstaat's page (modified Jul 9
+  2026) has work on the dike "Van 2019 tot 2023" and "een Vismigratierivier" at Kornwerderzand (check whether it is
+  finished). Leave out or check: the 1916 death toll (IET 53, a Rijkswaterstaat podcast 19), Rijkswaterstaat's 1920
+  start, the opening date, the height, the pump figure and the new block names. Chain (A4 and B2 are our reading):
+  an inland sea floods the land around it (A2) → one long dike across its mouth (A3) → every gap closed makes the
+  tide race faster through the others (A4) → boulder clay the current cannot wash away (A5) → the last gap, the
+  Vlieter, is the fiercest (A6) → closed with a final bucket of clay (B1) → the rivers keep pouring in and the lake
+  would rise (B2) → 25 sluices that open at low tide (B3). Ready shots (no people): A1 aerial at sunrise, a
+  dead-straight dike and road running across open sea to the horizon, waves on one side, a calm lake on the other;
+  B6 funny slow motion, a dog digs through a sandcastle wall on the beach and the sea floods the moat. Like Ski Dubai
+  (20:00 entry), a Seedance pair would have to run by Nov 28; after that, stills and the newsreel.
+  [Wikiwand, Afsluitdijk](https://www.wikiwand.com/en/articles/Afsluitdijk),
+  [Wikipedia, Zuiderzee Works](https://en.wikipedia.org/wiki/Zuiderzeeworks),
+  [IET EngX](https://engx.theiet.org/b/blogs/posts/amsterdammed),
+  [Rijkswaterstaat](https://www.rijkswaterstaat.nl/water/waterbeheer/bescherming-tegen-het-water/waterkeringen/dijken/afsluitdijk)
