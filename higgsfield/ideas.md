@@ -2343,3 +2343,62 @@ New content
   [Bechtel](https://www.bechtel.com/projects/riyadh-metro/),
   [New Atlas](https://newatlas.com/architecture/saudi-arabia-riyadh-metro/),
   [ST Engineering](https://www.stengg.com/en/smart-city/urban-solutions/smart-mobility-rail/smart-metro-systems/platform-screen-door/transforming-urban-transit-for-riyadh-metro/)
+
+## 2026-11-25 10:00 PT (hourly runner, cloud run)
+
+Trends
+- Thanksgiving week brings the season's first travel snow, the news peg for the winter build below (new to these
+  notes): "snow in the mountains across western Washington and Oregon" on Wed Nov 25 and "a zone of accumulating snow
+  likely in portions of Illinois, Missouri and Indiana at midweek" (AccuWeather, Nov 20, upd. Nov 24 2026);
+  "Accumulating snow is forecast from around St. Louis to Champaign, Illinois, and the Quad Cities area" from Wed
+  evening to Thanksgiving Day, while the storm is "likely to be too warm for snow in most places in the East"
+  (AccuWeather, Nov 22, upd. Nov 24 2026). The top results for "Thanksgiving week storm" are older years' pages
+  (FreightWaves 2019; AccuWeather, GMA and ABC7 2025): check the year before citing one.
+  [AccuWeather, Nov 20 2026](https://www.accuweather.com/en/travel/storms-could-slow-us-thanksgiving-travel-on-both-coasts-with-rain-east-rain-and-snow-west/1962057),
+  [AccuWeather, Nov 22 2026](https://www.accuweather.com/en/weather-forecasts/powerful-thanksgiving-storm-to-snarl-travel-as-powerful-winds-heavy-rain-sweep-eastern-central-us/1962508)
+
+Free footage and pictures
+- Luma and Pika are no free video source for the channels after Nov 28 (new to these notes; later runs can skip):
+  Luma's free output "includes a watermark that cannot be removed" and is "for personal use only", a limit kept "even
+  if you later upgrade your subscription" (licensing page, upd. May 28 2025), and Free is "Limited to creating images
+  with Photon and Ray3.14 video draft resolution" (upd. Jan 25 2026). Pika's Free has monthly credits "0 · credit packs
+  only" and lists "Not included: Commercial license" (pricing page, "Last updated: October 28, 2026"; Starter is the
+  first plan with one). Luma's own Pika comparison (Sep 15 2026) still claims free credits and commercial use: outdated.
+  [Luma licensing](https://lumalabs.ai/learning-hub/licensing),
+  [Luma subscriptions](https://lumalabs.ai/learning-hub/payments-subscriptions),
+  [Pika pricing](https://pika.art/pricing)
+
+New content
+- Road salt, "the road that won't freeze", a candidate winter build (new to these notes; not in LINEUP, and no de-icing
+  build among the made ones). Checked facts: "As salt is added, the freezing point drops" and "As salt dissolves in
+  water, it breaks down into two ions" (PBS NewsHour, Jan 18 2011). Crews' brine is "a 23% concentration of rock salt to
+  water" (Peel Region); at "23.3 percent" it stays liquid down to "-6°F" (about -21 C), and its "peak performance is
+  obtained above 15°F. However, at temperatures below 20°F, most agencies will consider blending other products or
+  brine additives" (Maine DOT, "Understanding Salt", June 2022). Laid before a storm, brine "works immediately as a
+  barrier so that the precipitation doesn't stick to the road" and "can stay active on the road for several days";
+  pre-wetted rock salt "clings to the road instead of bouncing off or being swept off by traffic", so "less salt being
+  spread, saving money" (Peel). Colder days: "magnesium chloride or calcium chloride, both of which dissociate into
+  three ions, lowering the solution's freezing point even further" (PBS). The cost: "Electrolytes increase the rate at
+  which metals will rust, leading to rusty cars" and "Salt can leach into groundwater and contaminate rivers and lakes"
+  (PBS). Scale: "Highway deicing accounted for about 37% of total salt consumed" in the U.S. (USGS Mineral Commodity
+  Summaries 2026, data for 2025; leave out PBS's 2011 tonnage, it does not fit USGS). A chain (breaks marked "ours" are
+  ours): A1, top-down drone at dusk, a truck lays neat wet stripes of brine on a dry highway as the first flakes fall.
+  A2, black ice at dawn, cars creeping and sliding slowly on a glazed road, wide, no crash, no faces. A3, macro, grains
+  of rock salt sink into ice and a ring of brine spreads, the ice turning to slush. A4 (ours, from Peel's line), dry
+  salt from a spinner bounces off the frozen road and passing tyres sweep it into the ditch. A5, brine sprayed onto the
+  salt as it leaves the spinner, the wet grains staying where they land. A6 (ours), snow falls on a bare road and packs
+  into a crust that a plow blade skates over. B1, snow lands on the brine stripes and never bonds, the plow peels it off
+  clean. B2, a bitter night far below 15 F, salt grains lying on the ice doing nothing. B3, a liquid chloride additive
+  poured into the brine tank, and the ice gives way again. B4, a tease of whichever build follows. B5, a convoy of plows
+  side by side on a night highway, then a wet black road at sunrise. Line 12: "23.3%" (or "37%", the roads' share of
+  U.S. salt). Line 13: below about minus 21 C even the strongest brine freezes, so on the coldest nights salt alone
+  stops working. B6: funny slow motion, a man seen from behind shakes a tiny salt shaker over a whole frozen driveway.
+  Check before a line uses it: Peel says the dissolving salt releases "heat that melts the ice"; leave that out until a
+  chemistry source is read (rock salt dissolving is usually described as taking in a little heat, calcium chloride as
+  giving it off). The share of dry salt that bounces off (UConn's brine fact sheet refuses fetches) and beet-juice
+  additives were not read. No brand names on trucks, no faces. Free video ends Nov 28, so if the main chat wants this
+  build, its pair has to run by then.
+  [PBS NewsHour, Jan 18 2011](https://www.pbs.org/newshour/science/why-does-salt-melt-road-ice),
+  [Peel Region](https://peelregion.ca/transportation/road-maintenance/winter-operations/anti-icing-pre-wetting),
+  [Maine DOT, June 2022](https://www1.maine.gov/mdot/mlrc/docs/technical/2023/UnderstandingSalt.pdf),
+  [USGS MCS 2026, salt](https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-salt.pdf)
