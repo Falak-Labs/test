@@ -2051,3 +2051,71 @@ Free footage and pictures
   [Edogawa River Office, filming and photos](https://www.ktr.mlit.go.jp/edogawa/edogawa00158.html),
   [Kanto Regional Development Bureau, copyright](https://www.ktr.mlit.go.jp/guide/copyright.html),
   [Digital Agency, PDL 1.0](https://www.digital.go.jp/resources/open_data/public_data_license_v1.0)
+
+## 2026-11-25 06:00 PT (hourly runner, cloud run)
+
+Trends
+- Checked, nothing for our formats this week: Ramdam's TikTok page ("24 Nov 2026", weeks of Nov 3-24) has only
+  lip-sync and text-overlay memes ("The sun is the same", "Go go go go") with no science, process, AI-video or holiday
+  item and no numbers; NapoleonCat's Reels page (Nov 1 2026) comes closest with June's "You're so creative" meme over
+  process footage. TikTok's new AI detection tool (MediaPost, Nov 24 2026 per its title; shown at its Safety and
+  Innovation Forum) lets anyone, even "without a TikTok account", check whether a picture or clip "was human-made or
+  made with the platform's AI creation features" by "checking an image or video for digital watermarking", and lets
+  creators "opt-in to find and flag AI-generated content" that uses their likeness. No change to AI labels or reach
+  is stated, so the AI label on every Seedance build stays as it is (Nov 24 03:01 entry).
+  [Ramdam, Nov 24 2026](https://www.ramd.am/blog/trends-tiktok),
+  [NapoleonCat, Nov 1 2026](https://napoleoncat.com/blog/instagram-reels-trends/),
+  [MediaPost, Nov 24 2026](https://www.mediapost.com/publications/article/419636/tiktok-updates-teen-safety-ai-detection-tools.html)
+
+Free footage and pictures
+- Higgsfield checked again, Nov 28 stands: DemandSage (Nov 25 2026) and AI Funnel Insider (upd. Nov 18) show Black
+  Friday as discounts only (annual Plus "45% off" in one, 50% in the other's table). The only unlimited video either
+  names is the 11.11 perk the owner already has ("Unlimited usage of Seedance 2.5 for 14 days", 60 days for the image
+  models; Nov 23 22:56 entry), and Higgsfield's own "Where to Get Unlimited Seedance 2.5" (Jul 30 2026) is about
+  July's ended "Enhanced Seedance 2.0 Fast" add-on.
+  [DemandSage, Nov 25 2026](https://www.demandsage.com/higgsfield-black-friday/),
+  [AI Funnel Insider, upd. Nov 18 2026](https://aifunnelinsider.com/higgsfield-black-friday/),
+  [Higgsfield, Jul 30 2026](https://higgsfield.ai/blog/seedance-unlimited)
+- Kandinsky 6.0 Video, the new first pick for open video after Nov 28 (new to these notes; the Nov 24 21:05 entry had
+  5.0): Kandinsky Lab "open-sourced Kandinsky 6.0" on "2026/10/06" under the MIT License (the repo's LICENSE; the
+  weights' own card not read): Lite (3B) and Pro (29B), "5-second video clips with synchronized 44 kHz audio" (we mute
+  it) from text or from an image, and since "2026/10/25" also "from a first and last frame", so two of our 2K stills
+  can become one moving shot; a plug-in super-resolution model gives Full HD. The pipeline takes `--height`/`--width`
+  overrides, but 9:16 is not mentioned and the base clip is "480×864" (orientation not stated): try one portrait clip
+  first. Per 5 s clip, with "Weight loading and MP4 encoding are excluded": Lite Distill SD 78.6 s and Pro Distill SD
+  236.0 s on an A100 80 GB (68.0 s and 235.0 s on an RTX 4090). Rough arithmetic, untested: the ~12 A100 hours that
+  Modal's free $30 a month buys (Nov 25 03:00 entry) make about 550 Lite or 180 Pro clips a month, about three Lite
+  shots or one Pro shot per build at six builds a day, the rest stills. A Hugging Face demo Space runs the Pro Distill
+  (its quota not read). Two roundups (vdf.ai, Nov 4 2026; ScriptByAI, upd. Nov 12 2026) also list LongCat-Video
+  (Meituan, MIT, 720p at 30 fps; not checked at its source) and MAGI-2-preview (eight Hopper GPUs: out of reach).
+  [Kandinsky 6.0 README](https://github.com/kandinskylab/kandinsky-6),
+  [Kandinsky 6.0 LICENSE](https://github.com/kandinskylab/kandinsky-6/blob/main/LICENSE),
+  [HF Space](https://huggingface.co/spaces/kandinskylab/Kandinsky-6.0-Pro-distill-5s),
+  [vdf.ai, Nov 4 2026](https://vdf.ai/blog/best-local-video-generation-models/),
+  [ScriptByAI, upd. Nov 12 2026](https://www.scriptbyai.com/best-open-ai-video-generation-models/)
+- HunyuanVideo 1.5's licence, read (the open item of the Nov 24 21:05 entry): it grants rights only in a Territory of
+  "the worldwide territory, excluding the territory of the European Union, United Kingdom and South Korea", and "You
+  must not use, reproduce, modify, distribute, or display the Tencent Hunyuan Works, Output or results of the Tencent
+  Hunyuan Works outside the Territory". A public Short can be watched in the UK and the EU, so its clips carry a risk
+  that Kandinsky 6.0 (MIT) and LTX-2.5 do not. The rest would be workable: "Tencent claims no rights in Outputs You
+  generate", the licence request starts above "100 million monthly active users", and its use policy bars placing
+  content in public "without expressly and conspicuously identifying that the information and/or content is machine
+  generated" (our AI label). It stays behind Kandinsky 6.0 and LTX-2.5.
+  [HunyuanVideo-1.5 LICENSE, release Nov 21 2025](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5/blob/main/LICENSE)
+- NIST's fire videos are free to use with a credit (settles the "Smoke Alarm vs. Bacon" question of the Nov 24 09:05
+  entry): its Copyright & Disclaimers page (upd. Jun 2 2026) says "With the exception of material marked as
+  copyrighted, information presented on NIST sites are considered public information and may be distributed or
+  copied", and "Use of appropriate byline/photo/image credits is requested" ("Video: NIST" in the description); it
+  says nothing about rights outside the US. For the fire sprinkler (LINEUP 101), real numbers and a real B5: in NIST's
+  living-room pair (stills every 30 s, no video; page upd. Sep 9 2025) both smoke alarms went off within 40 s, the
+  sprinkler in Room B opened at 85 s, and Room A, without one, flashed over at 195 s at over 600 °C (1100 °F). Its
+  dormitory sleeping-room tests are five silent videos, among them Room 2 (door closed, sprinkler at 105 s, flames out
+  by 125 s, 5:25 long) and Room 4 (door open, no sprinkler, burning until a fire hose at 465 s, 10:26 long); the
+  files' host did not show in the page text, so find them in Chrome (or on NIST's YouTube) before counting on them.
+  NIST's 2007 testimony gives the trigger as a "temperature sensitive link", "typically 165 ºF" (74 °C), the CDC NIOSH
+  figure of the Nov 24 15:05 entry, so "about 70 degrees" fits both it and the 68 C red bulb. Build-It use: line 12's
+  stat "85 seconds" against "195", and B5 as the real Room 2 beside Room 4 instead of a Seedance shot.
+  [NIST copyright](https://www.nist.gov/copyrights-disclaimers),
+  [NIST living room](https://www.nist.gov/property-fieldsection/video-residential-fire-sprinklers),
+  [NIST dormitories](https://www.nist.gov/el/fire-research-division-73300/firegov-fire-service/video-impact-sprinklers-fire-hazard),
+  [NIST testimony, Jun 20 2007](https://www.nist.gov/speech-testimony/sprinkler-research)
