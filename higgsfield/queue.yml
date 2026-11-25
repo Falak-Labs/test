@@ -987,7 +987,13 @@ jobs:
     # bath joke (ideas.md Nov 24 10:05) with a dog, no faces. Spare lines: the gate seal ("A U-shaped seal extends to
     # bridge the gap between the two structures", Practical Engineering) and the vandals who "forced open the Wheel's
     # gates", delaying the opening by a month (Wikipedia, 2008 copy). Visitors only small and from behind.
-    status: "generating (started: Nov 24 18:31 PT, main chat; Generating card confirmed; reworded: no hands/visitors)"
+    # Run: History 4d454cd1, created 18:31:44 PT by the main chat with the style line, done by 18:50. As run (no hands,
+    # no visitors): shot 1 "big steel bolts are tightened one at a time by a long wrench, joining..."; shot 4 "a clear
+    # pouch of liquid resting on a frosty winter windowsill" and ends "steam rising from a mug beside it"; shot 5 ends
+    # "the water steady, slow aerial orbit" (no visitors); shots 2, 3 and 6 word for word as below. Fetched by the
+    # hourly runner at 18:53 PT (11.9 MB).
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261125_023144_4d454cd1-ea93-4a32-a24f-8b9a2e8b9fa0.mp4
     file: buildit-falkirk-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): gloved hands tighten big steel bolts one at a time with a long wrench, joining the curved steel
