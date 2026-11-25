@@ -1,0 +1,61 @@
+# Survival Mode 5: You vs the Sun. Four builds that had to beat the heat, all four with the Saudi narrator (Mansour) in Arabic:
+# shade for a crowd (the Colosseum), water in a dry land (Chand Baori), light without the heat (the Louvre Abu Dhabi) and a
+# building that sends the sun back to the sky (Maraya). The English lines are read by J. Ballen (voices.yml `en` since Nov 23),
+# so the English closing lines are his too (`promo: survivalpromob`); the four builds inside still play their Easton narration.
+levels:
+  - kit: colosseum
+    music: desert
+    color: "#FFD166"
+    en: {world: "ROME", boss: "THE ROMAN SUMMER", sub: "50,000 PEOPLE  ·  IN THE SUN ALL DAY", unlocked: "THE COLOSSEUM",
+         stamp: "BAKING", chips: [["50,000", "SEATS"], ["240", "POLES FOR THE SAILS"], ["80", "GATES"]]}
+    ar: {world: "روما", boss: "صيف روما", sub: "خمسين ألف واحد  ·  في الشمس طول اليوم", unlocked: "الكولوسيوم",
+         stamp: "حر مرة", chips: [["50,000", "مقعد"], ["240", "صاري للأشرعة"], ["80", "بوابة"]]}
+  - kit: stepwell
+    music: oasis
+    color: "#7FC8FF"
+    en: {world: "INDIA", boss: "THE DRY SEASON", sub: "HARDLY ANY RAIN  ·  THE WATER SINKS", unlocked: "CHAND BAORI",
+         stamp: "DRY", chips: [["3,500", "STEPS"], ["13", "FLOORS"], ["~5°", "COOLER AT THE BOTTOM"]]}
+    ar: {world: "الهند", boss: "الجفاف", sub: "المطر قليل مرة  ·  والموية تنزل أكثر وأكثر", unlocked: "بير تشاند باوري",
+         stamp: "ناشف", chips: [["3,500", "درجة"], ["13", "دور"], ["~5°", "أبرد تحت"]]}
+  - kit: louvre
+    music: arctic
+    color: "#9BE08A"
+    en: {world: "ABU DHABI", boss: "THE FRYING PAN", sub: "A SEASIDE PLAZA  ·  HOT AS A FRYING PAN", unlocked: "THE LOUVRE ABU DHABI",
+         stamp: "FRYING", chips: [["180 m", "ONE DOME"], ["7,850", "METAL STARS"], ["7,500 t", "OF DOME"]]}
+    ar: {world: "أبوظبي", boss: "شمس أبوظبي", sub: "ساحة على البحر  ·  والشمس مخليتها فرن", unlocked: "اللوفر أبوظبي",
+         stamp: "فرن", chips: [["180 m", "عرض القبة"], ["7,850", "نجمة حديد"], ["7,500 t", "وزن القبة"]]}
+  - kit: maraya
+    music: ondol
+    color: "#F2B880"
+    en: {world: "THE SAUDI DESERT", boss: "THE OVEN", sub: "A BIG BOX  ·  BAKED LIKE AN OVEN", unlocked: "MARAYA",
+         stamp: "ROASTING", chips: [["~10,000", "SQ M OF MIRROR"], ["4", "WALLS OF MIRROR"], ["1", "GUINNESS RECORD"]]}
+    ar: {world: "العلا", boss: "شمس الصحرا", sub: "صندوق كبير في الصحرا  ·  ينطبخ مثل الفرن", unlocked: "مرايا العلا",
+         stamp: "ينطبخ", chips: [["~10,000", "متر مربع مرايا"], ["4", "جدران مرايا"], ["1", "رقم قياسي بغينيس"]]}
+en:
+  chip: "SURVIVAL MODE  ·  YOU VS THE SUN"
+  ribbon: "YOU VS THE SUN"
+  ribbon_icon: sun
+  ribbon_crossed: false
+  no_icons: [umbrella, drop, snow]
+  result_label: "SUNBURNS"
+  result_value: "0"
+  promo: survivalpromob               # the closing lines read by J. Ballen (series/survivalpromob_lines.txt)
+  cues: {sub: beat, stat: sunburn}
+  emph: [SHADE, RAIN, CONDITIONING, SUN, FOUR, WIN, CONGRATS, ROME, SUMMER, FIFTY, THOUSAND, BAKING, INDIA, DESERT, WATER, DHABI,
+         FRYING, PAN, CAVE, SAUDI, OVEN, SANDSTORMS, GLASS, SUNBURN, NOSE, SAILS, STAIRS, STARS, MIRRORS, BOSSES, YOUTUBE,
+         SUBSCRIBE, ENGINEER, FINAL, ONE, TWO, THREE, LEVELS, WAITING, NEXT]
+ar:
+  chip: "طور البقاء  ·  أنت ضد الشمس"
+  ribbon: "أنت ضد الشمس"
+  ribbon_icon: sun
+  ribbon_crossed: false
+  no_icons: [umbrella, drop, snow]
+  result_label: "كم مرة حرقتك الشمس؟"
+  result_value: "0"
+  promo: survivalpromosa              # the closing lines in Saudi dialect, read by Mansour (series/survivalpromosa_lines_ar_sa.txt)
+  or_boss: "ولا الزعيم يفوز"
+  next: "العالم الجاي قريب"
+  cues: {sub: "غلبت", stat: "حرقتك"}
+  emph: ["ظل", "مطر", "مكيّف", "أربع", "الشمس", "ومبروك", "غلبت", "روما", "خمسين", "ألف", "الهند", "حر", "الموية", "أبوظبي",
+         "فرن", "كهف", "العلا", "الفرن", "الرملية", "المرايا", "حرقتك", "خشمك", "والجفاف", "بالأشرعة", "والدرج", "والنجوم",
+         "والمرايا", "زعماء", "يوتيوب", "اشترك", "الزعيم"]

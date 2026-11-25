@@ -372,6 +372,26 @@ def icon_hourglass(c, x, y, s, col, a=1.0):
     c.restore()
 
 
+def icon_umbrella(c, x, y, s, col, a=1.0):
+    """A sun umbrella with a scalloped edge: shade (sm05, "No shade")."""
+    c.save()
+    c.translate(x, y)
+    r, y0 = 0.52, -0.06
+    top = [(r * math.cos(math.radians(d)), y0 + r * math.sin(math.radians(d))) for d in range(180, 361, 10)]
+    bot = []
+    for k in range(3):                                           # three scallops along the lower edge, right to left
+        cx = r - (2 * k + 1) * r / 3
+        bot += [(cx + (r / 3) * math.cos(math.radians(d)), y0 - 0.10 * math.sin(math.radians(d))) for d in range(0, 181, 20)]
+    c.drawPath(_path(top + bot, s), P(col, a))
+    c.drawRRect(rr(-0.035 * s, -0.63 * s, 0.07 * s, 0.12 * s, 0.03 * s), P(col, a))          # the tip
+    c.drawRRect(rr(-0.03 * s, -0.12 * s, 0.06 * s, 0.54 * s, 0.03 * s), P(col, a))           # the pole
+    hook = skia.Path()
+    hook.moveTo(0, 0.40 * s)
+    hook.arcTo(skia.Rect.MakeLTRB(-0.20 * s, 0.30 * s, 0.0, 0.52 * s), 0, 180, False)
+    c.drawPath(hook, P(col, a, stroke=0.06 * s))                                             # the handle
+    c.restore()
+
+
 def no_sign(c, x, y, r, p, col=WARN):
     """Red ring with a slash, stamped on with a little overshoot."""
     if p <= 0:
@@ -573,7 +593,7 @@ ICON = {"bolt": icon_bolt, "flame": icon_flame, "signal": icon_signal, "person":
         "drop": icon_drop, "gear": icon_gear, "brick": icon_brick, "land": icon_land, "wave": icon_wave, "sun": icon_sun,
         "snow": icon_snow, "clock": icon_clock, "coin": icon_coin, "boat": icon_boat, "bridge": icon_bridge,
         "rock": icon_rock, "flat": icon_flat, "down": icon_down, "pause": icon_pause, "rewind": icon_rewind,
-        "hourglass": icon_hourglass}
+        "hourglass": icon_hourglass, "umbrella": icon_umbrella}
 WARM_ICONS = ("flame", "sun", "coin")       # drawn orange in the cold open, the rest yellow
 
 
