@@ -1177,3 +1177,55 @@ New content
   [Carrier history](https://www.carrier.com/us/en/history/invention-of-air-conditioning/),
   [Quartz](https://qz.com/1284239/70-of-saudi-arabias-electricity-is-used-for-air-conditioning),
   [IEA](https://www.iea.org/news/electricity-demand-is-surging-across-the-middle-east-and-north-africa-driven-by-cooling-and-desalination-needs)
+
+## 2026-11-24 18:00 PT (hourly runner, cloud run)
+
+Trends
+- Over a minute is TikTok's best-reach band in Buffer's data: TikToks "longer than one minute tend to get: 43.2% more
+  reach than videos in the 30 - 60 second range" and "63.8% more watch time than videos in the 30-60 second range"
+  (median unique views and median watch time over "1.1 million" TikToks; published Mar 17 2025, no account sizes or
+  dates given). Its own caveat: "video length is unlikely to be a make-or-break factor". Build-It use: keep the 65-70 s
+  cut on TikTok rather than trimming it under a minute; on YouTube the Metricool 16 s average view (14:02 entry) still
+  means the wow, the first number and the first "But" land in lines 1-3. A 2025 correlation, not proof.
+  [Buffer, Mar 17 2025](https://buffer.com/resources/longer-tiktoks-get-more-views-data/)
+- Checked and not worth a re-read: the November 2026 trend roundups found (startups.co.uk, Nov 2; mean.ceo, Nov 6) give
+  no counts or samples, only audio memes ("The audio sounds like it's coming through a muffled mic") and generic length
+  advice ("Keep most videos between 15 and 60 seconds", which our own data above and YouTube's 3-minute Shorts make moot).
+  [startups.co.uk, Nov 2 2026](https://startups.co.uk/news/social-media-trends-november-2026/),
+  [mean.ceo, Nov 6 2026](https://blog.mean.ceo/short-form-video-marketing-trends-november-2026/)
+
+Free footage and pictures
+- A few free open-model clips a day after Nov 28, on Hugging Face's ZeroGPU: a free account gets "5 minutes" of GPU a
+  day (signed out "2 minutes"; PRO, $9 a month, "40 minutes (extensible)") on a "Half NVIDIA RTX Pro 6000 Blackwell"
+  with "48GB", "the default 60-second of GPU runtime" a call, and the quota "resets exactly 24 hours after your first GPU
+  usage"; a free account may also host "Maximum of 2 ZeroGPU Spaces" (verified email, account over 30 days old) (Hub
+  docs, no date). A staff reply (Apr 13 2026, not in the docs) adds "The current request-based limit is three times per
+  day". A working Space, KingNish/wan2-2-fast, runs FastVideo/FastWan2.2-TI2V-5B (text or image to video, 24 fps, up
+  to 193 frames, so 8 s, max area 720 x 1024, 4 steps) at 60-90 s of GPU a call; zerogpu-aoti's Wan2.2 T2V A14B Space
+  (832 x 480, 5 s) showed "Runtime error". Build-It use: about three 8 s clips a day with no watermark, best as
+  image-to-video from our unlimited 2K stills (a moving shot instead of a depth-map pan, 17:00 entry). Needs the owner's
+  own free HF account and token (we never type codes) and a GitHub Actions job (huggingface.co may be blocked from these
+  sessions). The model card: "License: apache-2.0", "built upon Wan-AI/Wan2.2-TI2V-5B-Diffusers", "trained on
+  121×704×1280 resolution", so a 9:16 clip at 704 x 1280 is its own size. Not tried.
+  [HF Hub docs, ZeroGPU](https://huggingface.co/docs/hub/spaces-zerogpu),
+  [FastWan2.2-TI2V-5B card](https://huggingface.co/FastVideo/FastWan2.2-TI2V-5B-FullAttn-Diffusers),
+  [HF forum, Apr 13 2026](https://discuss.huggingface.co/t/free-account-zerogpu-quota-issue/175180/9),
+  [KingNish/wan2-2-fast app.py](https://huggingface.co/spaces/KingNish/wan2-2-fast/blob/main/app.py),
+  [zerogpu-aoti/wan2-2-fp8da-aoti](https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti)
+
+New content
+- Museum of the Future (97), more for its pair (the 13:05 entry has ASCE, Gulf News and Buro Happold): "The framework is
+  a diagrid made up of 2,400 diagonally intersecting steel beams", "all the steel tubes were able to be designed at
+  exactly the same diameter", and "Once the reinforced concrete ring beam and tower which support the diagrid were built,
+  the steel work was completed in a mere 14 months"; "14km of LED lighting" lights the calligraphy at night (worldsteel,
+  Jun 2020, upd. May 9 2022). The panels: moulds of CNC-cut polyurethane foam, glass fibre and epoxy laid on, cured in
+  an oven, then the stainless finish; the script doubles as the recessed glass windows (Trimble, Jun 29 2022, read as a
+  summary). Conflicts: worldsteel's pre-opening "890" panels and "78m-tall" (ArchDaily, Jun 23 2022: "Standing at 78
+  meters tall") against ASCE's 1,024 and 77 m; floors "six column-free" (worldsteel) or "seven column-free" (Trimble).
+  Say 1,024 panels and 77 m (ASCE, written by Buro Happold's engineer). No page found on heat, sun or water-tightness.
+  [worldsteel, upd. May 9 2022](https://worldsteel.org/media/steel-stories/construction-building/museum-of-the-future-aesthetic-design-torus-poetry/),
+  [Trimble, Jun 29 2022](https://www.trimble.com/en/blog/construction/article/how-the-new-museum-of-the-future-in-dubai-was-built),
+  [ArchDaily, Jun 23 2022](https://www.archdaily.com/983458/overcoming-design-challenges-with-technology-museum-of-the-future-in-dubai)
+- Correction to the 17:00 entry: the air conditioner is no new build. It was Build 14 (episodes.yml: ep14-aircon, look
+  2, retired: true, i.e. already posted). Its Carrier and Gulf facts would only serve a Seedance remake, which is the
+  owner's call, not the runner's.
