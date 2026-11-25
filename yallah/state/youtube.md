@@ -43,3 +43,11 @@ Channels: Yallah Say MA @YallahSayMa (UC_c7QhlukkSAR-qHKeSvkPA), Yallah Say PS @
 - Long videos from Day 4 on: the day's three Shorts, then a review round (the three quizzes), about 4:45, 16:9.
 - How to schedule in Studio: Visibility step, expand "Schedule", set the date (date picker input, Enter, Escape) BEFORE the time
   (setting the date resets the time), wait for "Checks complete", then press Schedule; it may need a second press. Times are Pacific.
+
+## Nov 25 2026 (evening PT run)
+- Buffer's YouTube posts for lesson 10 failed on both channels ("daily posting limit for this channel"): the Studio uploads made the
+  night before counted toward YouTube's daily upload limit. Lesson 10 went up through Studio instead: ma Z5EjxPUwuyU, pa 2-12dPCn48E.
+- From lesson 16 on, every YouTube Short and long video is scheduled in Studio; Buffer does Instagram and TikTok only.
+- Scheduled for Nov 26: ma lesson 16 2fEgU6ZJKWY (5:00), 17 iA73cD7OqeI (10:30), 18 8jwfWuYlbpA (13:30), Day 6 long NqrdCmu1h3Q (9:00);
+  pa lesson 16 ZDXLm0lbKWc (3:30), 17 7ZvMiqecuhA (8:00), 18 r2nvZojjI7M (11:00), Day 6 long NHjjokhxXI8 (7:00). Pacific times.
+- Lessons 13 and 15 YouTube are still with Buffer (Nov 25); if they fail, upload them through Studio.
