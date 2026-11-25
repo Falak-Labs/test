@@ -1655,3 +1655,79 @@ New content
   [Wikipedia, Zuiderzee Works](https://en.wikipedia.org/wiki/Zuiderzeeworks),
   [IET EngX](https://engx.theiet.org/b/blogs/posts/amsterdammed),
   [Rijkswaterstaat](https://www.rijkswaterstaat.nl/water/waterbeheer/bescherming-tegen-het-water/waterkeringen/dijken/afsluitdijk)
+
+## 2026-11-24 23:58 PT (hourly runner, cloud run)
+
+Platform rules
+- Custom Shorts thumbnails are open to every creator (new to these notes): YouTube "finally allowed all creators to
+  assign customized thumbnails to their Shorts" (Tubefilter, Nov 25 2026); "All users can now add custom thumbnails"
+  (Social Media Today, Nov 24 2026). Neal Mohan, quoted by Tubefilter: "Tap the pencil icon on any Short in @YouTube
+  Studio to upload yours", on "desktop and mobile"; SMT (citing Rene Ritchie) says it can be set at upload and changed
+  "after publishing". Until now only YouTube Partner Program channels had it (since June per SMT, July per Tubefilter
+  and RouteNote, Jul 27 2026), and "custom thumbnails require your account to be verified" (RouteNote). None of the
+  three pages gives a size or aspect ratio, says where the picture shows (the swiping feed, the channel's Shorts tab,
+  search) or whether the Data API or a scheduler can set it, and none has view or click data (SMT recalls YouTube
+  saying in 2024 that Shorts thumbnails "were not as important"). Build-It use: both channels are verified
+  (youtube/desk.yml), so the YouTube desk can put each build's own cover (review/<slug>/cover_<lang>.jpg, the
+  1080x1920 BUILD #N frame) on its Short in Studio, with the thumbnail call it already makes for the show's full
+  videos or with the pencil icon in Content afterwards. Buffer still cannot (kit/series/NIGHT_NOTES.md:
+  thumbnailOffset stays null on YouTube, thumbnailUrl untested). Try one Short first and see what size Studio takes;
+  the main chat decides.
+  [Tubefilter, Nov 25 2026](https://www.tubefilter.com/2026/11/25/youtube-shorts-thumbnails-all-creators/),
+  [Social Media Today, Nov 24 2026](https://www.socialmediatoday.com/news/youtube-enables-custom-shorts-thumbnails/875687/),
+  [RouteNote, Jul 27 2026](https://routenote.com/blog/youtube-shorts-custom-thumbnails/)
+
+Free footage and pictures
+- NOAA's Photo Library (new to these notes): its images "are in the public domain and cannot be copyrighted" and
+  "There is no fee for downloading any images" (its About page); noaa.gov: "you may use it without express
+  permission" unless the credit or caption says otherwise. It asks: "please credit NOAA and photographer, if noted, as
+  well as their affiliated organization". Limits: commercial use must not "explicitly or implicitly convey NOAA's
+  endorsement"; the NOAA emblem "may not be used by persons who are not NOAA employees"; for an identifiable person
+  "permission should be obtained from the person"; noaa.gov leaves videos out because "they often use third-party
+  copyrighted footage"; pictures used by permission are "marked copyright" (OMAO). About 80,000 images (About page;
+  noaa.gov says about 70,000): weather and space, shores and coastal seas, the Coast & Geodetic Survey, the National
+  Weather Service, a heritage collection. No page is dated or gives sizes. Build-It use: a real storm, surge or flood
+  still for a proof line (11-12) of the flood builds (Maeslantkering 41, G-Cans 104, the Afsluitdijk candidate),
+  without people or the emblem, with NOAA and the photographer named in the description; read each caption first.
+  [NOAA Photo Library, About](https://photolib.noaa.gov/About),
+  [NOAA, Photo Library](https://www.noaa.gov/noaa-collections/photo-library),
+  [NOAA OMAO](https://www.omao.noaa.gov/image-licensing-usage-info)
+- TikTok's Symphony Creative Studio, a possible TikTok-only video source after Nov 28 (new to these notes; a lead,
+  not tried): TikTok's help page (upd. September 2026) says "Symphony Creative Studio is free to use for all
+  advertisers", with a "plan-based weekly allocation" of credits that comes from "Linking your TikTok Ads Manager
+  account to Symphony" or "Spending certain amounts on ads", renews every Monday 00:00 UTC without rollover, and costs
+  "one credit per second" of video; it gives no weekly number and names no model. MediaPost (Nov 11 2026 per its
+  listing) says the studio now runs "Dreamina Seedance 2.5", with AI video ads up to 30 s (was 15). Two ad-tool
+  sellers (Novoads, Nov 9 2026; Kompozy, checked Nov 10 2026) say exports carry an AI-generated label and invisible
+  watermarks and that TikTok calls it a tool to "create TikTok-fit content for publishing on TikTok"; the GenAI terms
+  for use off TikTok were not read. Build-It use: at most some TikTok-only shots, and only if the owner wants a
+  TikTok Ads Manager account; not for the cross-posted builds unless those terms allow it.
+  [TikTok Ads help, upd. Sep 2026](https://ads.tiktok.com/resources/help/article/about-symphony-credits),
+  [MediaPost, Nov 11 2026](https://www.mediapost.com/publications/article/419351/tiktok-updates-its-gen-ai-video-ad-creation-capabi.html),
+  [Novoads, Nov 9 2026](https://novoads.ai/en/blog/tiktok-ai-ads),
+  [Kompozy, Nov 10 2026](https://kompozy.io/reviews/tiktok-symphony)
+
+New content
+- The Danjiang Bridge (New Taipei), a candidate build (not in LINEUP; new to these notes) and a sequel to Taipei 101
+  (83): "the world's longest single-tower, asymmetric cable-stayed bridge" (Zaha Hadid Architects, Oct 22 2025;
+  Parametric Architecture, May 28 2026, and TVBS say the same), across the mouth of the Tamsui River, "officially
+  opening to traffic on May 12, 2026" (Parametric; Wikipedia's infobox the same). One "200-metre concrete mast" holds
+  a "450-metre central span" (ZHA; Wikipedia and Parametric agree), about 920 m long in all (Wikipedia, Parametric).
+  Why: to take traffic off "the existing Guandu Bridge 5km upriver" (ZHA), "nearly 15 kilometers" less driving and
+  about 25 minutes off a commute (Parametric). The mast's place came from "detailed 3D modelling and mapping" of the
+  estuary, for the ships and "without impairing views of the setting sun" (ZHA); the deck carries cars, buses,
+  scooters, bicycles and people on foot, with a light rail line planned (Parametric, ZHA). It won its competition in
+  2015, "one of Hadid's final major works before her death in 2016" (TVBS). The engineering is thin so far: the
+  pages name only "frequent earthquakes, strong coastal winds, typhoon exposure", "Advanced anti-earthquake technology
+  and carefully engineered steel deck systems" (Parametric) and crews who "adjust cable forces" (ZHA); nothing on the
+  foundations, the back span, dampers or wind tunnels, so a production run needs a deeper source before scripting.
+  Leave out the deck width (71 m in Wikipedia only), the start of work (October 2014 in Wikipedia and TVBS, 2019 in
+  Parametric), the cost (no page gives one) and the opening speeches. Ready shots (no people, flags or writing): A1 at
+  sunset one slender white mast rising from a river mouth, cables fanning down to a long deck, the sun sinking into
+  the sea behind it, slow drone orbit; B6 funny slow motion, a waiter seen from behind balances a long tray of
+  teacups on one raised hand, it tips and the cups slide off one by one. Like the Afsluitdijk (23:00 entry), a
+  Seedance pair would have to run by Nov 28; after that, stills.
+  [ZHA, Oct 22 2025](https://www.zha.com/media-hub/news/2025-10-22-danjiang-bridge-to-open-12-may-2026),
+  [Parametric Architecture, May 28 2026](https://parametric-architecture.com/taiwan-opens-danjiang-bridge/),
+  [Wikipedia](https://en.wikipedia.org/wiki/Danjiang_Bridge),
+  [TVBS, May 9 2026](https://t.media/3199057)
