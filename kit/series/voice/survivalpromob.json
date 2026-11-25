@@ -1,0 +1,160 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 10.143,
+ "words": 25,
+ "words_per_sec": 2.46,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 1.837,
+   "text": "Three more bosses are waiting.",
+   "words": [
+    {
+     "w": "Three",
+     "start": 0.088,
+     "end": 0.303
+    },
+    {
+     "w": "more",
+     "start": 0.374,
+     "end": 0.588
+    },
+    {
+     "w": "bosses",
+     "start": 0.66,
+     "end": 1.017
+    },
+    {
+     "w": "are",
+     "start": 1.088,
+     "end": 1.16
+    },
+    {
+     "w": "waiting.",
+     "start": 1.231,
+     "end": 1.946
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 2.149,
+   "end": 5.95,
+   "text": "Watch all four levels on our YouTube channel, Congrats Engineer.",
+   "words": [
+    {
+     "w": "Watch",
+     "start": 2.221,
+     "end": 2.435
+    },
+    {
+     "w": "all",
+     "start": 2.578,
+     "end": 2.792
+    },
+    {
+     "w": "four",
+     "start": 2.935,
+     "end": 3.149
+    },
+    {
+     "w": "levels",
+     "start": 3.221,
+     "end": 3.578
+    },
+    {
+     "w": "on",
+     "start": 3.613,
+     "end": 3.649
+    },
+    {
+     "w": "our",
+     "start": 3.721,
+     "end": 3.863
+    },
+    {
+     "w": "YouTube",
+     "start": 4.042,
+     "end": 4.221
+    },
+    {
+     "w": "channel,",
+     "start": 4.292,
+     "end": 4.721
+    },
+    {
+     "w": "Congrats",
+     "start": 4.792,
+     "end": 5.292
+    },
+    {
+     "w": "Engineer.",
+     "start": 5.363,
+     "end": 6.149
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 6.262,
+   "end": 10.137,
+   "text": "The next world is coming. Subscribe, or the boss wins.",
+   "words": [
+    {
+     "w": "The",
+     "start": 6.477,
+     "end": 6.62
+    },
+    {
+     "w": "next",
+     "start": 6.762,
+     "end": 6.977
+    },
+    {
+     "w": "world",
+     "start": 7.048,
+     "end": 7.262
+    },
+    {
+     "w": "is",
+     "start": 7.334,
+     "end": 7.477
+    },
+    {
+     "w": "coming.",
+     "start": 7.655,
+     "end": 8.004
+    },
+    {
+     "w": "Subscribe,",
+     "start": 8.137,
+     "end": 8.914
+    },
+    {
+     "w": "or",
+     "start": 8.986,
+     "end": 9.057
+    },
+    {
+     "w": "the",
+     "start": 9.129,
+     "end": 9.2
+    },
+    {
+     "w": "boss",
+     "start": 9.343,
+     "end": 9.486
+    },
+    {
+     "w": "wins.",
+     "start": 9.557,
+     "end": 10.271
+    }
+   ]
+  }
+ ]
+}
