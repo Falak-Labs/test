@@ -1078,3 +1078,84 @@ New content
   BY-NC-SA 4.0 licence: non-commercial).
   [FLIR](https://www.flir.com/de-de/support/instruments2/is-it-possible-to-see-the-thermal-changes-in-a-hand-warmer-with-a-thermal-camera/),
   [MIT OCW](https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/resources/mit3_020s21_demo_02_1080p_mp4)
+
+## 2026-11-24 17:00 PT (hourly runner, cloud run)
+
+Sounds and rights
+- Our Shorts are over a minute, and YouTube blocks every such Short that carries a claim: "Any Short that is over one
+  minute in duration with an active copyright claim of any type, including manual claims, will be blocked globally on
+  YouTube"; it is "not playable or recommended" and earns nothing, with "no penalties to your channel", and "Once the
+  claim is resolved, your Short will be viewable and eligible for monetization"; under a minute nothing changed
+  (YouTube Help, three-minute Shorts). Build-It Shorts run 65-70 s and the show's short cut about 1:20, so one claimed
+  sound takes a whole post off YouTube. Our risk is nil today: kit/tools/seedance_cut.py makes the wind bed from noise
+  and a 55 Hz drone, and kit/bik/sfx.py makes the thud and the whoosh in code. Build-It use: keep every sound
+  generated, and keep "free" library music (Pixabay, the 15:59 entry) out of anything over a minute: "Even if you find
+  music online that's labeled "free," Content ID might still flag it", and "Music that's safe to use in a Short that's
+  less than 60 seconds may not be safe to use in a longer video" (YouTube Help, safe music tips).
+  [YouTube Help, three-minute Shorts](https://support.google.com/youtube/answer/15424877?hl=en),
+  [YouTube Help, safe music tips](https://support.google.com/youtube/answer/15577610?hl=en)
+- The one claim-proof library is YouTube's own: "Copyright-safe music and sound effects downloaded from the Audio
+  Library won't be claimed by a rights holder through the Content ID system"; Partner Program channels can monetize
+  with it; Creative Commons tracks need the artist credited in the description (the filter "Attribution not required"
+  leaves them out). Off YouTube, Google gives no rule ("YouTube can't give legal guidance, including guidance on issues
+  with music that can occur off the platform"); Thematic, a music seller (upd. Oct 5 2026): "Many tracks can be used
+  on other platforms, but coverage varies by track and is not guaranteed". Creator Music is YouTube-only: "if you
+  license a track from Creator Music, you can only use the track in videos uploaded to YouTube". Build-It use: one file
+  goes to YouTube, Instagram and TikTok, so our own sound stays; an Audio Library track or sound effect fits only a
+  YouTube-only cut, like the show's full video.
+  [YouTube Help, Audio Library](https://support.google.com/youtube/answer/3376882?hl=en),
+  [YouTube Help, Creator Music FAQ](https://support.google.com/youtube/answer/11610609?hl=en-AU),
+  [Thematic, upd. Oct 5 2026](https://hellothematic.com/youtube-audio-library/)
+
+Free footage and pictures
+- Real camera moves from our free stills after Nov 28, with an open depth model: "Depth-Anything-V2-Small model is
+  under the Apache-2.0 license" (24.8M parameters), but "Depth-Anything-V2-Base/Large/Giant models are under the
+  CC-BY-NC-4.0 license" (GitHub). Depth Anything 3 (models from Nov 14 and Dec 11 2025): PyPI's table lists DA3-SMALL
+  (0.08B) and DA3-BASE (0.12B) as Apache 2.0 and the Large and Giant ones as CC BY-NC 4.0 (DA3-LARGE-1.1's own card
+  says Apache 2.0, a conflict: use only Small or Base). The GitHub page runs it as pipeline(task="depth-estimation",
+  model="depth-anything/Depth-Anything-V2-Small-hf") (that -hf copy's licence not read). Build-It use: from Nov 29, make
+  a depth map of each unlimited 2K still and move a virtual camera a little sideways or forward, so near things slide
+  past far ones (2.5D parallax): a 4-6 s shot that looks filmed, not a flat zoom. Keep moves small (big ones tear
+  holes behind near edges); a 25M-parameter model should run on a CPU, in the runner or here (not tried yet).
+  [Depth Anything V2, GitHub](https://github.com/DepthAnything/Depth-Anything-V2),
+  [Depth-Anything-V2-Small card](https://huggingface.co/depth-anything/Depth-Anything-V2-Small/blob/main/README.md),
+  [depth-anything-3 on PyPI](https://pypi.org/project/depth-anything-3/)
+
+New content
+- Etihad Rail, a candidate build (not in LINEUP) with a date this week: the UAE's passenger line reaches the edge of
+  the Empty Quarter when its Madinat Zayed and Liwa stations open, "brought forward to 30 November 2026" (Etihad Rail,
+  Jul 22 2026; still the date in Gulf News's station list, upd. Oct 1 2026). Status: passenger trains since June 30
+  2026 (Abu Dhabi to Fujairah in "1 hour and 45 minutes"), Dubai-Abu Dhabi and Al Dhaid from Sep 30, three more Al
+  Dhafra stations Dec 30, Sharjah's University City Mar 30 2027; "11 cities across nearly 900km of track", "speeds of
+  up to 200km/h" (Gulf News, Jun 23, Jul 24 and Oct 1 2026). Build-It use: a finished Arab-world mega-build, so a
+  candidate for Build #100 if it can post by Nov 30 (the Jeddah Tower is unfinished: a search at 16:50 PT found no
+  500 m news, the newest figure still 484 m, Newsweek Oct 30, upd. Nov 5).
+  [Etihad Rail, Jul 22 2026](https://corporate.etihadrail.ae/en/newsroom/press/hamdan-bin-zayed-receives-etihad-rail-delegation-and-directs-the-launch-of-madinat-zayed-and-liwa-passenger-stations-on-30-november),
+  [Gulf News, upd. Oct 1 2026](https://gulfnews.com/living-in-uae/etihad-rail-uae-stations-locations-opening-dates-2026-2027-1.500694596),
+  [Gulf News, Jun 23 2026](https://gulfnews.com/uae/transport/etihad-rail-to-begin-introductory-phase-of-passenger-train-services-on-june-30-1.500583696),
+  [Gulf News, Jul 24 2026](https://gulfnews.com/amp/story/uae%2Ftransport%2Fetihad-rail-expansion-when-will-the-remaining-passenger-stations-open-1.500619139),
+  [Newsweek, Oct 30 2026](https://newsweek.com/future-worlds-tallest-building-hit-major-construction-milestone-jeddah-tower-12643303)
+- Etihad Rail's engineering, for the breaks and fixes. Sand: "the impermanence of the shifting dunes that gives them
+  the strength to halt a train moving at 200kph"; the worst stretch runs from Madinat Zayed south toward the Empty
+  Quarter; the first defence is "the choice of the alignment", then ploughs "in sandstorm season, usually March to
+  July" (The National, Nov 27 2011). The 2013 plan: "berms (raised banks)", wind stations and "specialist on-track
+  plant with sand vacuums and monitored by ground penetrating radar" (Rail Engineer, Apr 3 2013); now "continuous
+  monitoring of sand accumulation" and "Blue Panicum planting" against drifting sand (Global Railway Review, no date).
+  Animals: "10 camel, 22 gazelle and 78 reptile underpasses" on phase one (Rail Engineer, a 2013 plan: check what was
+  built). Mountains: a 1.8 km tunnel on the stretch through the Hajar mountains, "the longest tunnel in the Gulf
+  Region", one of nine (6.9 km in all) with 54 bridges on those 145 km, "over half a million tonnes of stone" dug out
+  (Etihad Rail, Jul 29 2021). Freight: "Each freight train can carry the equivalent of up to 300 heavy trucks" (Global
+  Railway Review); locomotives "22.6 metres long, five metres high and weigh 187 tonnes" (The National, 2011). Heat is
+  not checked yet (Global Railway Review only says "ballast and track design adapted to high-temperature tolerance";
+  IMechE, Oct 24 2014, on the Saudi lines: "temperatures of over 50˚C for over half the year", and a line "can
+  completely disappear in less than an hour during a severe sandstorm", held back by "Fences, walls and dykes"). Ready
+  shots (no faces, no names on screen): A1 a train racing across golden dunes at sunrise as a ribbon of sand snakes
+  over the rails ahead; a dune creeping over the track overnight; a long sand bank and rows of green grass planted
+  beside the line; a machine vacuuming sand off the rails; a train bursting out of a tunnel in bare brown mountains; B6
+  funny slow motion, a camel strolls through its own concrete underpass and stops to look up as the train thunders
+  overhead.
+  [The National, Nov 27 2011](https://www.thenationalnews.com/uae/etihad-railway-plans-for-shifting-sands-1.452257),
+  [Rail Engineer, Apr 3 2013](https://www.railengineer.co.uk/new-rails-in-the-desert/),
+  [Global Railway Review](https://www.globalrailwayreview.com/building-a-railway-from-the-desert-up-why-the-uaes-national-network-matters/2136172.article),
+  [Etihad Rail, Jul 29 2021](https://corporate.etihadrail.ae/en/newsroom/press/etihad-rail-completes-excavation-of-the-gccs-longest-rail-tunnel-as-part-of-development-of-uae-national-rail-network),
+  [IMechE, Oct 24 2014](https://imeche.org/news/news-article/lines-in-the-sand)
