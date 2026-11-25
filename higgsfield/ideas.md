@@ -1310,3 +1310,79 @@ New content
   [Architectural Record, Jan 5 2026](https://www.architecturalrecord.com/articles/17943-foster-partners-zayed-national-museum-in-abu-dhabi-meets-the-sky-with-a-series-of-splayed-solar-chimneys),
   [designboom, Dec 3 2025](https://www.designboom.com/architecture/zayed-national-museum-fosterandpartners-steel-wings-abu-dhabi-12-03-2025/),
   [Wikipedia](https://en.wikipedia.org/wiki/Zayed_National_Museum)
+
+## 2026-11-24 20:00 PT (hourly runner, cloud run)
+
+Trends
+- The biggest faceless explainer channel in our lane, Zack D. Films, as a benchmark (new to these notes): "Zack D.
+  Films has 27.8 million subscribers" (Daniel Rusnok, Jul 25 2026, upd. Nov 13); OutlierKit (upd. Oct 27 2026, its own
+  AI estimates) has "29.4M subscribers", "81.4B total views", "Videos 4.1K"; the 31 s short Rusnok takes apart has
+  "253 million views". The format: "The first second is a contract", "He states the question immediately, and the
+  video ends the moment it answers it"; titles carry "exactly one emoji, every time", descriptions "Zero keywords,
+  zero hashtags, zero links"; his job listings "pay $1,000 flat per video and hand out about 40 projects a week".
+  Rusnok's lessons: "Packaging beats metadata", "One question per video. Ending where curiosity ends." Build-It use:
+  line 1 asks the one question the chain answers, and lines 12-14 after the reveal stay short so the video ends near
+  where curiosity ends (keep the tag: it is what people send, 19:05 entry). A commentator's read and AI estimates,
+  not YouTube data. [Substack, Jul 25 2026](https://danielrusnok.substack.com/p/how-a-faceless-channel-engineered),
+  [OutlierKit, upd. Oct 27 2026](https://outlierkit.com/channel/zackdfilms)
+
+Free footage and pictures
+- FedFlix, US government films on the Internet Archive (new to these notes): the Public Domain Review lists it with
+  "Digital Rights": "CC0 license" and links the collection usgovfilms (page undated; its one listed film is "It
+  Started with Muybridge (1964)"). Build-It use: as with DVIDS, USFA, Prelinger and NARA (12:05 entry), one proof
+  shot at most inside our own footage; read each film's own item page in Chrome first (music or non-federal footage
+  inside a film can carry other rights). Its WikiProject page was unreadable here.
+  [Public Domain Review, FedFlix](https://publicdomainreview.org/collections/source/fedflix/),
+  [Internet Archive, usgovfilms](https://archive.org/details/usgovfilms)
+
+New content
+- Ski Dubai, a candidate Arab-world build (not in LINEUP): real snow inside a desert mall. "Ski Dubai contains 6,000
+  tonnes of snow", "The longest run is 400 metres with a fall of over 60 metres" (Alfa Laval, Dec 30 2025); "The ski
+  slope's peak is about 85 metres high", while "It may be 50 or so degrees outside" (Gulf News, Nov 1 2018). It is
+  "basically a large cold-store lifted up at one end" (Building, undated); ammonia cools "the glycol in the pipe system
+  to -16 or -17°C" (Alfa Laval) through "more than 70 km of small-bore polyethylene pipes" in the concrete (Building).
+  Snow: "Snow-guns don't actually make snow, they simply atomise water and spray the fine droplets into the air",
+  "10-50 microns", "one snow-gun for every 1000 m2" (Building), at "-7 to -8°C" by night (Alfa Laval; Building and
+  IIF-IIR say -6). Breaks and fixes on the pages (all Building): humid air gives "a hard layer of blue ice" instead
+  of snow (fix: smaller droplets); over-cladding was "essential in preventing the insulation panels bowing under the
+  extreme desert heat"; the wall void was closed against "fine talcum-powder like sand"; walls "sealed on the warm
+  side of the insulation to prevent condensation". Melted snow is reused for the mall's cooling and irrigation (Alfa
+  Laval, Pumps & Systems); "our energy costs are less than 10% of operating costs" (Alfa Laval). Opened "in December
+  2005" (Alfa Laval), designed by Acer Snowmec (Building, IIF-IIR). Conflicts, leave out: fresh snow a night ("30–40
+  tonnes" Alfa Laval, "30 tons" Pumps & Systems, "between 5 and 25 tonnes, depending on the footfall" Gulf News) and
+  the open-hours air (-1 to -2 C in three pages, "always minus eight" in Grundfos's 2005 note). Snowmaking outdoors
+  works only "When the wet-bulb temperature is below 28 degrees Fahrenheit or -2 degrees Celsius" (Park City
+  Mountain, Nov 22 2022). A chain: 50 C outside → a giant cold box (A3) → its panels bow in the sun (A4) → an outer
+  skin (A5) → humid air makes blue ice (A6) → a fine mist from ceiling guns at night (B1) → the day's crowds wear the
+  snow down (B2, our reading of "depending on the footfall") → fresh snow every night, the melt reused (B3). Ready
+  shots (no faces, no logos, skiers small and from behind): A1 snow falling from ceiling guns over an empty slope at
+  night while through the glass end wall the desert city shimmers in heat; a cutaway of glycol pipes in the concrete
+  under the snow; B6 funny slow motion, an ice cream carried out of the snow hall melts in three steps across a
+  sunny car park. Seedance is free only until Nov 28, so its pair would have to run this week (the owner's or the
+  main chat's call; LINEUP 98-105 have no pairs yet either).
+  [Alfa Laval, Dec 30 2025](https://www.alfalaval.com/media/stories/cooling/skiing-in-the-desert/),
+  [Building](https://building.co.uk/sun-sea-and-snow/3054370.article),
+  [Gulf News, Nov 1 2018](https://gulfnews.com/uae/environment/why-ski-dubai-is-the-coolest-place-in-town-these-days-1.2051177),
+  [IIF-IIR, Oct 26 2005](https://iifiir.org/en/news/out-of-ordinary-skiing-under-a-hot-desert-sun),
+  [Pumps & Systems](https://pumpsandsystems.com/pumps-outsmart-nature-create-fresh-snow-desert),
+  [Grundfos, Oct 21 2005](https://www.grundfos.com/media/latest-news/the-coolest-thing-todoindubai),
+  [Park City Mountain, Nov 22 2022](https://www.parkcitymountain.com/blog/science-of-snowmaking.aspx)
+- String lights (fairy lights), a candidate everyday build for the winter-lights season (not in LINEUP; shown on
+  balconies, streets and palm trees, not as a religious holiday): "A mini-light is a small, 2.5-volt incandescent
+  bulb" and "If you multiply 2.5 volts by 48, you get 120 volts", so the bulbs sit in series and "When a filament in
+  one bulb blows out, it creates an open circuit in the wiring"; without a shunt "any bulb burning out would darken
+  the entire strand". The fix is "a shunt wire wrapped around the two posts inside the bulb", whose coating "gives it
+  fairly high resistance until the filament fails", then "heat caused by current flowing through the shunt burns off
+  the coating" (HowStuffWorks, undated; DOE: "the high temperature from the burnout will cause the substance coating
+  the shunt to melt off"). But "Unless there is a shunt in the socket, a loose bulb will cause the whole 50-bulb strand
+  to fail", which is why long strands are two or three 50-bulb strands in parallel (HowStuffWorks). LEDs: "An LED bulb
+  may last 50,000-200,000 hours while the incandescent bulb will burn for 3,000 hours" (HowStuffWorks); a 6-foot tree
+  lit 12 hours a day for 40 days costs "$0.27" against "$10" (DOE, Dec 16 2015: line 12). Energy saved "70 percent"
+  (DOE) or "80 percent" (HowStuffWorks): leave the percentage out. The 120 V sum is the US one: check a 230 V
+  string before scripting for the Gulf. Chain: tiny cheap bulbs → in series (A3) → one dead filament darkens all (A4)
+  → the shunt (A5) → a loose bulb still does (A6) → strands in parallel (B1) → the power bill (B2) → LEDs (B3). Ready
+  shots: A1 macro inside a glowing mini bulb as its filament snaps and a whole lit balcony goes dark; a macro of the
+  shunt's coating burning away and the light coming back; B6 funny slow motion, a cat bats one bulb loose and the
+  balcony goes dark. Same Nov 28 point as Ski Dubai.
+  [HowStuffWorks, How Christmas Lights Work](https://people.howstuffworks.com/culture-traditions/holidays-christmas/christmas-lights1.htm),
+  [DOE, Dec 16 2015](https://www.energy.gov/node/997476)
