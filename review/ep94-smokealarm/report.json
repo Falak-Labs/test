@@ -1,0 +1,27 @@
+{
+ "slug": "ep94-smokealarm",
+ "kit": "smokealarm",
+ "style": "seedance",
+ "ar": {
+  "duration": 76.7,
+  "lufs": -14.1,
+  "peak": -1.4,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 21.9,
+  "cover": true,
+  "ok": true
+ },
+ "en": {
+  "duration": 72.8,
+  "lufs": -14.2,
+  "peak": -1.8,
+  "frame": "1080x1920",
+  "fps": "30",
+  "issues": [],
+  "size_mb": 20.8,
+  "cover": true,
+  "ok": true
+ }
+}

@@ -211,6 +211,8 @@ def main():
     ends = starts[1:] + [total]
     for i, ln in enumerate(lines):
         s = shots[ln["line"]]
+        if lang != "en" and isinstance(s.get(lang), dict):   # a per-language shot, e.g. "ar": {"src": ..., "at": ..., "len": ...}
+            s = {**s, **s[lang]}                            # (Nov 24: the Arabic cut of 94 skips a frying-bacon shot)
         dur = ends[i] - starts[i]
         f = os.path.join(outd, f"seg{i + 1:02d}.mp4")
         if not os.path.exists(f) or os.environ.get("REDO"):
@@ -243,6 +245,23 @@ def main():
             place(buf, sfx.whoosh(), ln["start"] - 0.25, -9, sr)
     mix = os.path.join(outd, "mix.wav")
     sf.write(mix, buf[: int(total * sr)], sr)
+    # Loudness on the mix: raise it to -14 LUFS and catch the peaks with a limiter, measured again until it lands.
+    # The old single loudnorm pass in the final encode (and a two-pass loudnorm) left the Mansour mixes at -15.1 to
+    # -15.2 LUFS, under the -15..-13 gate: his takes peak about 20 dB over their loudness, so loudnorm gives up gain to
+    # keep its true-peak ceiling (82-ar and 94-ar on Nov 24).
+    def lufs(p):
+        e = subprocess.run(["ffmpeg", "-hide_banner", "-i", p, "-af", "ebur128", "-f", "null", "-"],
+                           capture_output=True, text=True).stderr
+        return float(re.findall(r"I:\s+(-?[\d.]+) LUFS", e)[-1])
+    mixn = os.path.join(outd, "mix_norm.wav")
+    gain = -14.0 - lufs(mix)
+    for _ in range(6):
+        run(["ffmpeg", "-y", "-v", "error", "-i", mix, "-af",
+             f"volume={gain:.2f}dB,alimiter=limit=0.79:attack=3:release=60:level=false", "-ar", str(sr), mixn])
+        off = -14.0 - lufs(mixn)
+        if abs(off) < 0.3:
+            break
+        gain += off * 1.6                               # the limiter eats part of every step
 
     ass = os.path.join(outd, "caps.ass")
     cov = None
@@ -258,8 +277,8 @@ def main():
     fc = (f"[0:v]ass={ass}:fontsdir={fonts}[c];"
           f"color=c=0xFFC93C:s={W}x10:r={FPS}[bar];"
           f"[c][bar]overlay=x='-w+w*t/{total:.3f}':y=0:shortest=1[v];"
-          f"[1:a]loudnorm=I=-12.7:TP=-1.5:LRA=11[a]")
-    run(["ffmpeg", "-y", "-v", "error", "-i", joined, "-i", mix, "-filter_complex", fc, "-map", "[v]", "-map", "[a]",
+          f"[1:a]anull[a]")                                 # the mix is already at -14 LUFS (above)
+    run(["ffmpeg", "-y", "-v", "error", "-i", joined, "-i", mixn, "-filter_complex", fc, "-map", "[v]", "-map", "[a]",
          "-c:v", "libx264", "-preset", "medium", "-crf", "23", "-maxrate", "3M", "-bufsize", "6M", "-pix_fmt", "yuv420p",
          "-c:a", "aac", "-b:a", "192k",
          "-ar", "48000", "-t", f"{total:.3f}", "-movflags", "+faststart", tmp])

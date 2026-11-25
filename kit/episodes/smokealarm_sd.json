@@ -1,0 +1,15 @@
+{"name":"smokealarm_sd", "title":{"en": "SMOKE ALARM", "ar": "جهاز إنذار الدخان"}, "kicker":{"en": "1 SPECK · 1 LIGHT · 1 CHIRP", "ar": "حبة · ضو · صفرة"}, "build_no":94, "cover_name":{"en": "A SMOKE ALARM", "ar": "جهاز إنذار الدخان"}, "numbers":[["two am", "2 A.M."], ["tenyear", "10-YEAR"], ["four minutes", "4 MIN"], ["half an hour", "30 MIN"]],"shots":[
+{"line": 1, "src": "out/aishots/buildit-smokealarm-sdA.mp4", "at": 0.0, "len": 4.9},
+{"line": 2, "src": "out/aishots/buildit-smokealarm-sdA.mp4", "at": 5.0, "len": 5.4},
+{"line": 3, "src": "out/aishots/buildit-smokealarm-sdA.mp4", "at": 10.5, "len": 4.9},
+{"line": 4, "src": "out/aishots/buildit-smokealarm-sdA.mp4", "at": 15.5, "len": 4.9, "ar": {"src": "out/aishots/buildit-smokealarm-sdA-kitchentop.mp4", "at": 0.0, "len": 4.95}},
+{"line": 5, "src": "out/aishots/buildit-smokealarm-sdA.mp4", "at": 20.45, "len": 4.9},
+{"line": 6, "src": "out/aishots/buildit-smokealarm-sdA.mp4", "at": 25.45, "len": 4.55},
+{"line": 7, "src": "out/aishots/buildit-smokealarm-sdB.mp4", "at": 0.0, "len": 5.15},
+{"line": 8, "src": "out/aishots/buildit-smokealarm-sdB.mp4", "at": 5.25, "len": 4.9},
+{"line": 9, "src": "out/aishots/buildit-smokealarm-sdB.mp4", "at": 10.25, "len": 4.9},
+{"line": 10, "src": "out/aishots/buildit-falkirk-sdA.mp4", "at": 0.0, "len": 5.15},
+{"line": 11, "src": "out/aishots/buildit-smokealarm-sdB.mp4", "at": 20.3, "len": 4.4},
+{"line": 12, "src": "out/aishots/buildit-smokealarm-sdA.mp4", "at": 12.6, "len": 2.8},
+{"line": 13, "src": "out/aishots/buildit-smokealarm-sdB.mp4", "at": 0.0, "len": 2.2},
+{"line": 14, "src": "out/aishots/buildit-smokealarm-sdB.mp4", "at": 24.8, "len": 5.2}]}
