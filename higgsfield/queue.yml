@@ -1057,3 +1057,64 @@ jobs:
       gloved hands holding small white warmer pads, breath steaming in the cold air, wide view. Shot 6 (25-30 s): funny
       slow motion, on a hot sunny beach a man seen from behind sits down on his towel, the reusable warmer pouch
       forgotten in his back pocket clicks, white crystals race through it and he leaps up in surprise, sand flying.
+  - id: museum-A
+    build: 97
+    kit: museum
+    # Facts: a ring (torus) around an "elliptical void"; "At 77 m high, the museum building has seven floors" (ASCE
+    # Civil Engineering, Jan 3 2023, written by Buro Happold's Tobias Bauly; ArchDaily and worldsteel say 78 m: say 77).
+    # No columns inside: a steel diagrid carries it, "The framework is a diagrid made up of 2,400 diagonally intersecting
+    # steel beams" (worldsteel, upd. May 9 2022), found by "a bespoke growth algorithm" that "generated thousands of
+    # theoretical geometries before converging" (ASCE: the fix in A3). Every piece was "restricted by size to only what
+    # could be transported on inner-city roadways", with "a single element diameter" (ASCE; "all the steel tubes were
+    # able to be designed at exactly the same diameter", worldsteel): A4 is that break told as a traffic jam, A5 the fix.
+    # The steelwork was "completed in a mere 14 months" once the concrete ring beam and tower were built (worldsteel).
+    # The skin: "1,024 stainless steel-clad glass fiber reinforced plastic panels" (ASCE, Buro Happold, Trimble; the 890
+    # in worldsteel's 2020 text is pre-opening), so A6 shows why a flat steel sheet will not take the doubly curved
+    # shape (our own break; B1 is the fix). Opened 22 Feb 2022 (Buro Happold). More in ideas.md (Nov 24 13:05 and 18:00).
+    # No faces, no hands, no writing on the building (Seedance would draw false Arabic for the calligraphy windows).
+    status: todo
+    file: buildit-museum-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): the camera flies through the huge oval hole of a seamless stainless-steel ring-shaped
+      building on a green hill in Dubai at sunrise, city towers framed inside the hole, slow push-in. Shot 2
+      (5-10 s): wide aerial over a desert city at noon, heat haze over a twelve-lane highway lined with glass
+      towers that are all straight-sided boxes, and beside the road an empty green hill waiting for something
+      round. Shot 3 (10-15 s): a glowing blue wireframe of a ring-shaped building flickers through thousands of
+      different steel grids, settles into one pattern of diagonal triangles and turns into real steel tubes, all
+      the same thickness, wide view. Shot 4 (15-20 s): at night a flatbed truck carrying one giant curved steel
+      beam is stuck on a tight corner of a narrow city street, the beam scraping a lamp post, a long line of
+      honking cars behind it, wide view. Shot 5 (20-25 s): at dawn ordinary trucks roll easily through city
+      streets with neat stacks of short straight steel tubes, then a tower crane lifts one tube into a growing
+      diagonal steel frame shaped like a giant ring, wide view. Shot 6 (25-30 s): close-up of a flat sheet of
+      shiny stainless steel pressed down over a curved doughnut-shaped mould, it buckles into ugly wrinkles and
+      splits at one edge, the steel groaning.
+  - id: museum-B
+    build: 97
+    kit: museum
+    # Facts: the panels: moulds of CNC-cut polyurethane foam, glass fibre and epoxy laid on, cured in an oven, then the
+    # stainless finish, the script doubling as recessed glass windows (Trimble, Jun 29 2022: B1); each "made up of four
+    # layers" through "a complex 16-step process", "produced using automated robotic arms", "only several could be
+    # produced per day", and the facade took "around 18 months" to install (Gulf News, upd. Feb 16 2022). The windows
+    # are the calligraphy, "3D-mapped onto the building's curved body" (Gulf News), so no window is a standard shape:
+    # B2's square pane is our own break; "more than 10,000 bespoke pieces of glass" were cut "using water jets" (ASCE: B3),
+    # and "14km of LED lighting" lights the calligraphy at night (worldsteel: B5). B4 teases build 98, the Rain Vortex at
+    # Jewel Changi (LINEUP; "The 40-metre-tall Rain Vortex", "down seven storeys from an oculus in the glass domed roof",
+    # Dezeen, Mar 12 2019; ideas.md Nov 24 14:02), drawn without signs. B5 stays Seedance or a picture model: the UAE has
+    # no freedom of panorama, so no Commons photo (ideas.md Nov 24 14:02). B6: a ring doughnut in coffee (the building is
+    # a ring around a hole). No faces: visitors small and from behind; no hands; no writing on the building.
+    status: todo
+    file: buildit-museum-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): a robot arm carves a smooth curved mould out of a block of pale foam, then glass fibre
+      cloth laid over it is baked into a light curved panel with a mirror-like stainless steel face, close-up.
+      Shot 2 (5-10 s): a flat rectangular glass pane hangs from a crane in front of a curved silver wall with a
+      long flowing window opening, the pane swings in and its square corners stick out, it cannot fit, wide
+      view. Shot 3 (10-15 s): macro of a water jet cutter slicing a sheet of glass along a flowing curved line
+      in a fine spray, the cut piece lifting out in a perfect curved shape, then racks of thousands of different
+      curved glass pieces. Shot 4 (15-20 s): inside a giant doughnut-shaped glass dome at an airport in
+      Singapore, a 40-meter waterfall pours from a round hole in the roof into a pit ringed by terraces of lush
+      indoor forest, slow aerial push-in. Shot 5 (20-25 s): the finished stainless-steel ring building at night
+      on its green hill in Dubai, its long window lines glowing soft white, small visitors seen from behind
+      walking up the path, cars streaming along the highway beside it, slow aerial orbit. Shot 6 (25-30 s):
+      funny slow motion, a glazed ring doughnut falls from above into a full cup of coffee on a cafe table, a
+      crown of coffee splashes high, then the doughnut bobs up and floats in the cup like a tiny lifebuoy.

@@ -1229,3 +1229,21 @@ New content
 - Correction to the 17:00 entry: the air conditioner is no new build. It was Build 14 (episodes.yml: ep14-aircon, look
   2, retired: true, i.e. already posted). Its Carrier and Gulf facts would only serve a Seedance remake, which is the
   owner's call, not the runner's.
+- Rain Vortex (98), engineering for its pair beyond the 14:02 entry (ENR, Jun 20 2019): the water falls "in a
+  continuous parabolic arch, rather than in a straight line" from an "11-m-dia" oculus set "slightly off center", into
+  "a 14.5-m-tall circular acrylic wall, separating the water and spray from visitors"; it is "fed by rain collected over
+  7,500 sq m of roof area, with flows of up to 10,000 gallons/minute during the heaviest storms"; "Water lands in a pool
+  in the B2 level, with holding tanks on B3", and "Captured water is used to run the feature by filtering and treating
+  it, then recirculating it to the roof" through "more than 3.6 km of piping" ("If the level is low, the tanks are
+  topped off using new water"). Roof: "more than 9,304 triangular glass roof panels" on "more than 6,000 solid steel
+  nodes and 15,000 members" and "an inner ring of 14 tubular-steel 'tree' columns", the glass "coated to transmit light
+  for plant growth" since "too much solar penetration would interfere with human comfort" (24 C, 60% humidity). Forest:
+  "more than 2,000 trees and palms, as tall as 13 m, and over 100,000 shrubs". Site: "The active train, which connects
+  terminals 2 and 3, was cocooned in a shed to protect it throughout construction". Conflict: the roof's weight ("6,000
+  tons" ENR, "3,500 tonnes" Arup): leave it out. A chain for the pair: spray → the acrylic drum; air dragged into the pit
+  (14:02) → the glass balustrade; a dry spell → tanks on B3 and recirculation; tropical sun → coated glass; a working
+  airport train in the site → the shed. Ready shots: water bending in a smooth arch through a round hole into a tall
+  clear drum; a train gliding through a protective tunnel shed while a steel roof grid rises around it; sun through
+  triangular panes onto a terraced forest.
+  [ENR, Jun 20 2019](https://www.enr.com/articles/47117-singapores-jewel-mall-project-was-no-walk-in-the-park),
+  [Arup](https://www.arup.com/projects/jewel-changi-airport/)
