@@ -14,7 +14,14 @@ unlocked", a results card), adds new narration, music and jingles.
 
 Episodes so far: `specs/sm01.yml` Zero Electricity (windtower, falaj, igloo, ondol; English only),
 `specs/sm02.yml` You vs Water (panama, venice, aswan, palmjumeirah; Egyptian narrator), `specs/sm03.yml` You vs Gravity
-(pisa, machupicchu, operahouse, liberty; the first Saudi episode: copy its `ar:` block). Never reuse a build.
+(pisa, machupicchu, operahouse, liberty; the first Saudi episode), `specs/sm04.yml` You vs Time (bigben, towerbridge,
+shibam, greatwall), `specs/sm05.yml` You vs the Sun (colosseum, stepwell, louvre, maraya; the first with the English
+lines read by J. Ballen: copy its `en:` and `ar:` blocks). Never reuse a build.
+
+Only v2 builds (`look: 2` in episodes.yml) fit: `build_show.py` cuts a build with its scene file `kit/episodes/<kit>.py`
+(the times of its four breaks and fixes, clean pictures for the cold open and the cards). The Seedance builds
+(`look: sd`, every build from 76 on except 96) have no scene file, so the show cannot use them until the builder
+learns to read `kit/episodes/<kit>_sd.json` + the voice file. After sm05 the Mansour group holds 12 v2 builds.
 
 ## 1. Pick four builds
 - One idea that makes them one fight: an enemy (heat, water, gravity, time, ...) or a place.
@@ -27,8 +34,10 @@ Episodes so far: `specs/sm01.yml` Zero Electricity (windtower, falaj, igloo, ond
   voices.yml needs no change. The show's Arabic lines are made at the mean tempo of the episode's four builds
   (`show_tempo` in scripts/make_voices.py; Mansour's builds play at x1.04 to x1.12), so the narrator keeps one pace.
 - The builds' final videos come from `media/` or, once retired, from git history. A shallow clone only reaches builds
-  retired in its last commits (on Nov 22: not barrier, greatwall, burjalarab, fridge): `git fetch --deepen=300 origin
-  main` first when `fetch` says a video was never deleted in git history.
+  retired in its last commits. When `fetch` says a video was never deleted in git history, deepen the history WITHOUT
+  the files (seconds, not gigabytes) and let git fetch the eight videos alone when `fetch` asks for them:
+  `git config remote.origin.promisor true; git config remote.origin.partialclonefilter blob:none;
+  git fetch --filter=blob:none --deepen=400 origin main` (Nov 25: 450 commits reached every build back to 41).
 - Level 1 is the whole short cut: put the build with the strongest picture first. The last level's music plays under
   the results card: give it the `ondol` bed.
 
@@ -57,9 +66,19 @@ kit `survivalpromo`, already recorded in both languages.
 A cue is the start of a word in the line; if it is not found the builder says so and uses a fixed point in the line.
 
 ## 3. Voices
-Dispatch `voice.yml` with kit `<id>`, langs `en,ar` (English is free; Arabic costs about 520 ElevenLabs characters).
-English: the log must show 0 word errors apart from harmless ones ("tamed the" heard "tame the"); reword and run
-again with `langs=en force=true` otherwise. Arabic: `python3 -I tools/check_ar_voice.py series/voice/<id>_ar_sa`.
+Dispatch `voice.yml` with kit `<id>`, langs `en,ar` and `model=eleven_multilingual_v2`. Both languages are ElevenLabs
+now (voices.yml, Nov 23): English is J. Ballen on eleven_v4 (about 850 characters; start each line with one audio tag
+such as `[playful]`, `[amused]`, `[proudly]`, `[chuckles]`: they are performed, never shown), Arabic is Mansour (about
+600 characters). The `model` input only changes the Arabic: it keeps Mansour on eleven_multilingual_v2, the model of
+the v2 builds inside the episode and of the closing lines `survivalpromosa`, so the narrator sounds the same all
+through (drop it once the episode's builds are eleven_v4 ones). The English closing lines in Ballen's voice are kit
+`survivalpromob` (`promo: survivalpromob` in the spec's `en:` block); inside the levels the v2 builds still play Easton.
+Check both with Whisper small (`/home/claude/tts/asr/sherpa-onnx-whisper-small`; if missing, download
+`sherpa-onnx-whisper-small.tar.bz2` from the k2-fsa/sherpa-onnx GitHub release `asr-models`, 639 MB, and unpack it there):
+`python3 -I tools/check_en_voice.py series/voice/<id>` (only number formats may differ: "one" -> "1") and
+`python3 -I tools/check_ar_voice.py series/voice/<id>_ar_sa` (no weak lines). A misread word: reword that line and
+dispatch again with `langs=en force=true` (or `langs=ar force=true model=eleven_multilingual_v2`); only the changed
+lines are recorded again.
 
 ## 4. Build (about 25 minutes for the four cuts on 2 CPUs)
 ```

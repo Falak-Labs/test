@@ -1,0 +1,47 @@
+# What YouTube shows for Survival Mode 5: You vs the Sun. show/handoff.py turns this into the upload sheet.
+date: 2026-11-26                 # the Pacific day it goes public
+chapters:
+  en: ["No shade. No rain. No air conditioning.", "Level 1: the Colosseum vs the Roman summer", "Level 2: Chand Baori vs the dry season",
+       "Level 3: the Louvre Abu Dhabi vs the frying pan", "Final level: Maraya vs the oven", "Results"]
+  ar: ["بدون ظل ولا مطر ولا مكيّف", "المرحلة الأولى: الكولوسيوم وصيف روما", "المرحلة الثانية: تشاند باوري والجفاف",
+       "المرحلة الثالثة: اللوفر أبوظبي وشمس أبوظبي", "المرحلة الأخيرة: مرايا العلا وشمس الصحرا", "النتيجة"]
+en:
+  full:
+    time: "10:00"
+    title: "Survival Mode: You vs the Sun ☀️ Colosseum, Chand Baori, Louvre, Maraya"
+    desc: |
+      No shade. No rain. No air conditioning. Four levels, four bosses made of sunshine, and you beat them with sails, stairs, stars and mirrors.
+
+      {chapters}
+
+      Every level is a real build: the Colosseum pulled a roof of sails over fifty thousand people on two hundred and forty wooden poles, Chand Baori takes thirty-five hundred steps down to water where it is about five degrees cooler, the Louvre Abu Dhabi's dome is a hundred and eighty meters wide and woven from seven thousand eight hundred and fifty metal stars, and Maraya wears almost ten thousand square meters of mirror that bounce most of the desert sun back to the sky.
+
+      New episode every day. Subscribe, or the boss wins.
+      #engineering #survival #howitworks
+  short:
+    time: "12:15"
+    title: "A Roof of Sails Over 50,000 People ☀️ Survival Mode: You vs the Sun"
+    desc: |
+      Level 1 of 4: Rome. It's summer, fifty thousand people are baking in the sun all day, and you have to pull a roof of sails over the whole Colosseum.
+      The full episode with all four levels is on this channel: "Survival Mode: You vs the Sun".
+      #Shorts #engineering #survival
+ar:
+  full:
+    time: "09:00"
+    title: "طور البقاء: أنت ضد الشمس ☀️ أربع مراحل وأربعة زعماء"
+    desc: |
+      بدون ظل. بدون مطر. بدون مكيّف. أربع مراحل وأربعة زعماء من الشمس، وأنت تغلبهم بالأشرعة والدرج والنجوم والمرايا.
+
+      {chapters}
+
+      كل مرحلة بناء حقيقي: الكولوسيوم انسحب فوقه سقف أشرعة على ميتين وأربعين صاري خشب يظلّل خمسين ألف واحد، وبير تشاند باوري فيه ثلاثة آلاف وخمسمية درجة لين الموية وتحت أبرد بخمس درجات تقريبا، وقبة اللوفر أبوظبي عرضها مية وثمانين متر من سبعة آلاف وثمنمية وخمسين نجمة حديد، ومرايا العلا عليها تقريبا عشرة آلاف متر مربع مرايا ترد أغلب شمس الصحرا للسما.
+
+      حلقة جديدة كل يوم. اشترك، ولا الزعيم يفوز.
+      #هندسة #طور_البقاء #كيف_تنبني
+  short:
+    time: "10:30"
+    title: "سقف أشرعة فوق خمسين ألف واحد ☀️ طور البقاء: أنت ضد الشمس"
+    desc: |
+      المرحلة الأولى من أربع: روما. الصيف حر، وخمسين ألف واحد قاعدين في الشمس طول اليوم، ولازم تسحب سقف أشرعة فوق الكولوسيوم كله.
+      الحلقة الكاملة بالمراحل الأربع على القناة: "طور البقاء: أنت ضد الشمس".
+      #Shorts #هندسة #طور_البقاء

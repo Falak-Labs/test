@@ -1,0 +1,39 @@
+episode: sm05                     # Survival Mode 5: You vs the Sun (the 4-minute show). This file posts its SHORT cuts to TikTok + Instagram.
+date: 2026-11-26
+video:
+  en: media/sm05-en.mp4
+  ar: media/sm05-ar.mp4
+# YouTube gets both the full video and this short through YouTube Studio (the main chat, `show` branch), so both YouTube
+# targets stay on hold for good. TikTok and Instagram start on hold too: the main chat releases them with
+# scripts/yt_desk.py release sm05 after the YouTube uploads. No build run may take any target of this file off hold.
+hold: [en.youtube, ar.youtube, en.instagram, en.tiktok, ar.instagram, ar.tiktok]
+en:
+  at: "2026-11-26T20:15:00Z"      # 12:15 PT Thu Nov 26; the full video goes public on YouTube at 10:00 PT
+  title: "A Roof of Sails Over 50,000 People ☀️ Survival Mode: You vs the Sun"
+  text: |
+    No shade. No rain. No air conditioning. ☀️
+    Level 1: Rome. It's summer, and fifty thousand people are baking in the sun all day, so you pull a roof of sails over the whole Colosseum, on 240 wooden poles, rigged by sailors from the navy.
+    Three more bosses are waiting. All 4 levels are on our YouTube channel: @congratsengineer
+    Which one would beat you first: the Roman summer, the dry season, the frying pan or the oven? 👇
+  tags:
+    tiktok: "#survival #engineering #colosseum #howitworks #learnontiktok"
+    instagram: "#survival #engineering #colosseum #howitworks #rome"
+    youtube: "#survival #engineering"
+ar:
+  at: "2026-11-26T18:30:00Z"      # 10:30 PT Thu Nov 26 = 21:30 Riyadh; the full video goes public on YouTube at 09:00 PT (20:00 Riyadh)
+  title: "سقف أشرعة فوق خمسين ألف واحد ☀️ طور البقاء: أنت ضد الشمس"
+  text:
+    default: |
+      بدون ظل. بدون مطر. بدون مكيّف. ☀️
+      المرحلة الأولى: روما. الصيف حر، وخمسين ألف واحد قاعدين في الشمس طول اليوم، فتسحب فوق الكولوسيوم سقف أشرعة على ميتين وأربعين صاري خشب، ويشدّه بحّارة من الأسطول.
+      باقي قدامك ثلاثة زعماء. المراحل الأربع كلها على قناتنا في يوتيوب: @kef.tenbeni
+      مين كان بيغلبك أول: صيف روما، الجفاف، شمس أبوظبي ولا شمس الصحرا؟ 👇
+    tiktok: |
+      بدون ظل. بدون مطر. بدون مكيّف. ☀️
+      المرحلة الأولى: روما. الصيف حر، وخمسين ألف واحد قاعدين في الشمس طول اليوم، فتسحب فوق الكولوسيوم سقف أشرعة على ميتين وأربعين صاري خشب، ويشدّه بحّارة من الأسطول.
+      باقي قدامك ثلاثة زعماء في الحلقة الكاملة.
+      مين كان بيغلبك أول: صيف روما، الجفاف، شمس أبوظبي ولا شمس الصحرا؟ 👇
+  tags:
+    tiktok: "#طور_البقاء #هندسة #الكولوسيوم #السعودية #تعلم_على_التيك_توك"
+    instagram: "#طور_البقاء #هندسة #الكولوسيوم #كيف_تنبني #معلومات"
+    youtube: "#طور_البقاء #هندسة"
