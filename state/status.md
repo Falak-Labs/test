@@ -1,4 +1,4 @@
-# Post status 2026-11-25T19:43:41+00:00
+# Post status 2026-11-25T20:11:49+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -436,8 +436,8 @@
 | ep83-thermos | en.tiktok | sent |  | 2026-11-25T17:33:00.153Z https://tiktok.com/@congratsengineer/video/7712163099251576077 |
 | ep84-hooverdam | ar.instagram | scheduled |  | 2026-11-25T23:00:00.000Z |
 | ep84-hooverdam | ar.tiktok | scheduled |  | 2026-11-25T23:00:00.000Z |
-| ep84-hooverdam | en.instagram | scheduled |  | 2026-11-25T20:00:00.000Z |
-| ep84-hooverdam | en.tiktok | scheduled |  | 2026-11-25T20:00:00.000Z |
+| ep84-hooverdam | en.instagram | sent |  | 2026-11-25T20:03:47.614Z https://www.instagram.com/reel/DgLV5REp7bV/ |
+| ep84-hooverdam | en.tiktok | sent |  | 2026-11-25T20:03:14.041Z https://tiktok.com/@congratsengineer/video/7712201930176548109 |
 | ep85-dubaiframe | ar.instagram | scheduled |  | 2026-11-26T01:30:00.000Z |
 | ep85-dubaiframe | ar.tiktok | scheduled |  | 2026-11-26T16:00:00.000Z |
 | ep85-dubaiframe | en.instagram | scheduled |  | 2026-11-25T22:30:00.000Z |
@@ -463,6 +463,8 @@
 | ep90-pen | en.tiktok | scheduled |  | 2026-11-26T11:00:00.000Z |
 | ep91-arch | en.instagram | scheduled |  | 2026-11-26T18:30:00.000Z |
 | ep91-arch | en.tiktok | scheduled |  | 2026-11-26T18:30:00.000Z |
+| ep92-seatbelt | en.instagram | scheduled |  | 2026-11-26T21:00:00.000Z |
+| ep92-seatbelt | en.tiktok | scheduled |  | 2026-11-26T21:00:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://www.tiktok.com/@congratsengineer/video/7710759443809553677?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
