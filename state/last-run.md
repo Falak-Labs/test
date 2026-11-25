@@ -1,4 +1,4 @@
-# Last posting run 2026-11-25T20:11:37+00:00
+# Last posting run 2026-11-25T20:26:32+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -95,11 +95,15 @@
 - ep91-arch ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep91-arch ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep92-seatbelt en.youtube: on hold in posts/ep92-seatbelt.yml
-- ep92-seatbelt en.instagram: scheduled (Thu 26 Nov 21:00 UTC) id 6b0740fc37bb564f67671f59
-- ep92-seatbelt en.tiktok: scheduled (Thu 26 Nov 21:00 UTC) id 6b0740fc1dafb30359212628
 - ep92-seatbelt ar.youtube: on hold in posts/ep92-seatbelt.yml
 - ep92-seatbelt ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep92-seatbelt ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep93-huajiang en.youtube: on hold in posts/ep93-huajiang.yml
+- ep93-huajiang en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep93-huajiang en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep93-huajiang ar.youtube: on hold in posts/ep93-huajiang.yml
+- ep93-huajiang ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep93-huajiang ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep94-smokealarm en.youtube: on hold in posts/ep94-smokealarm.yml
 - ep94-smokealarm en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep94-smokealarm en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
@@ -112,5 +116,5 @@
 - ep95-falkirk ar.youtube: on hold in posts/ep95-falkirk.yml
 - ep95-falkirk ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep95-falkirk ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=898, "24h"; r=546; t=45090, "30d"; r=509; t=1246879; ratelimit-policy="15m"; q=15
-- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=540; t=45098, "30d"; r=424; t=1253011; ratelimit-policy="15m"; q=15
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=132; t=6, "24h"; r=532; t=44197, "30d"; r=495; t=1245987; ratelimit-policy="15m"; q=150;
+- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=134; t=5, "24h"; r=526; t=44203, "30d"; r=410; t=1252116; ratelimit-policy="15m"; q=150;
