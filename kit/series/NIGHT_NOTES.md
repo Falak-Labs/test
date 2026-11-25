@@ -1910,3 +1910,66 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   dispatches post.yml if any still waits. The main chat was making 91 (arch, line 10 -> seatbelt) at 12:45 PT.
 - Build 91 Gateway Arch made (VOICE_SPEED=1.13): media/arch-b91-en.mp4 74 s, -ar.mp4 72 s, post file posts/ep91-arch.yml. Tease = car seatbelt (build 92): seatbelt-A generating since ~12:45 PT, seatbelt-B todo; Huajiang (93) is teased by seatbelt-B.
 - Build 92 seatbelt made (VOICE_SPEED=1.13): media/seatbelt-b92-en.mp4 72 s, -ar.mp4 72 s, post file posts/ep92-seatbelt.yml. Tease = Huajiang Grand Canyon Bridge (93): huajiang-A done, huajiang-B generating since 13:45 PT; then smoke alarm (94).
+
+## Nov 24 2026 (evening run, 18:37 PT): 94 a smoke alarm, 95 the Falkirk Wheel (Seedance; post Fri Nov 27)
+- TODAY Tue Nov 24 PT, TOMORROW Wed Nov 25 PT, but Wednesday was already full (the main chat's 78-87 English and
+  78-87 Arabic, every 2.5 h) and Thursday held 88-90, 76, 77, 91, 92. So 94 and 95 post on Fri Nov 27 PT, right after
+  the slot kept free for 93 (93's line 10 promises 94): 94 EN 06:00 PT (14:00Z), AR Instagram 00:00 PT (08:00Z), AR
+  TikTok 03:30 PT (11:30Z); 95 EN 08:30 PT (16:30Z), AR Instagram 03:00 PT (11:00Z), AR TikTok 06:30 PT (14:30Z).
+  Every at: turned back into PT before the push. YouTube: verified, so both hold it with `studio: 1`.
+  NEXT FREE SLOTS AFTER 95 (for the runs of Nov 25; 96 goes first, 95's line 10 promises it): Fri Nov 27 English from
+  11:00 PT, Arabic Instagram from 06:00 PT, Arabic TikTok from 12:30 PT (3 h after 95's 06:30 PT would be 09:30 PT, but
+  that is within 2 h of the show's Arabic TikTok at 10:30 PT).
+- 91 and 92 (main chat) were written at the same times as 76 and 77 (EN 13:30Z / 16:00Z Thu): moved after 77, as the
+  midday run asked: 91 EN 10:30 PT, AR Instagram 14:30 PT, AR TikTok 18:30 PT; 92 EN 13:00 PT, AR Instagram 17:00 PT,
+  AR TikTok 21:30 PT (Thu Nov 26). Nothing of them was on Buffer yet. 93's slot (kept free, LINEUP 93): EN 15:30 PT
+  Thu, AR Instagram 19:30 PT Thu, AR TikTok 00:30 PT Fri.
+- Builds picked: 93 (Huajiang) has scripts, voices and a spec from the main chat (14:04 PT) but no video: left to it.
+  94 and 95 were the footage-ready LINEUP entries nobody had made (falkirk-B was fetched at 18:52 PT); 96 (hand warmer)
+  had no footage (handwarmer-A not started at 19:26 PT), so two builds, no v2 (queues overfull, slots full for days).
+  episodes.yml now lists the main chat's 91-92; LINEUP 91-92 say "made by the main chat".
+- Status 02:48Z: Nov 24 PT six builds out (70-75): EN Instagram + TikTok all twelve, AR Instagram all six, AR TikTok
+  70, 71, 75 (72-74 and sm04 refused). Arabic TikTok in error: 48, 50, 54, 56, 62, 66-69, 72-74, sm03, sm04; not
+  requeued (every queue 10 of 10 with 25 new targets waiting). yt_desk check: nothing overdue.
+- Metrics 02:56Z: 220,177 views (+4,698; Arabic Instagram +1,034 against +5,805 the day before). Arabic Instagram now
+  stalls every other reel like English (64-69 median 175 views against 1,507 for 58-63). Entry in
+  claude/build-it-performance.md; the owner is told ~6 a day per language looks like what the numbers support.
+- Pages: retired ep54 (only a refused AR TikTok left) and ep73-75 (sent; Studio done): media/ 1.3 -> 1.15 GB before
+  94-95 (+92 MB). 78-92 are about 750 MB: retire them as their posts go out (each keeps its media until its Studio slot).
+- Research (WebSearch titles only, no agents): smoke alarm (NRC and EPA on americium ionization detectors; Kidde and
+  First Alert "why smoke alarms chirp in the middle of the night"; Brown University 2004 / ScienceDaily "smell is not
+  a wake-up call"; UL / NIST modern vs legacy furnishings: flashover in about 3:40 against about 29:30; First Alert and
+  Illinois' 10-year sealed battery law; UW 2008 / CPSC on photoelectric alarms and cooking); Falkirk Wheel (ICE, ASME,
+  Hackaday Feb 2026, Guinness "largest rotating boatlift", Wikipedia: 24 m, 1.5 kWh per half turn = about eight kettles,
+  about 15,000 hand-tightened bolts, three 8 m gears, the 11 locks dismantled in 1933, the tunnel under the Antonine Wall
+  and two locks up 11 m to the Union Canal, opened 2002). Higgsfield runner's facts in higgsfield/ideas.md were checked
+  against these titles.
+- Scripts: Ballen v4 tags, 189 and 186 English words; Mansour v4, 146 and 147 Arabic words. Hook pass twice (check_hook):
+  94 EN hook 4.5 s, problem by 9.0 s; AR 5.2 / 9.9 s; 95 EN 4.1 / 8.8 s; AR 5.4 / 10.1 s (0.1 s over, shipped). The
+  remaining "one picture" FAILs are the known "Y'all," / "يا جماعة،" comma false positive of the Seedance style.
+- Whisper small on Ballen: "hide a speck" -> "high the speck" (now "have a speck ... inside"), "the house is coldest
+  then" -> "cold as then" (now "cools down at night"), "seesaw" -> "sea salt" (now "like kids on a seesaw"), "Scotland
+  built" -> "got" (left; the caption carries it). "Y'all" -> "Yo" and "So" -> "No/When" stay (whole series).
+  check_ar_voice: no weak lines (max 20%, the digit lines and "اسكتلندا").
+- Voices (tempo 1.12, no VOICE_SPEED): 94 EN 71.4 s / AR 75.3 s; 95 EN 69.4 s / AR 73.8 s. ElevenLabs about 5,000
+  characters with the remakes (four EN passes on short lines).
+- NEW in tools/seedance_cut.py (both for every later build):
+  1. Loudness: the mix is raised to -14 LUFS by gain + limiter (alimiter 0.79), measured again until within 0.3 LU.
+     Mansour's v4 takes peak about 20 dB over their loudness, so the old single loudnorm pass (and a two-pass loudnorm,
+     tried) left 94-ar at -15.2 / -15.1 LUFS, under the gate (the main chat had the same on 82-ar). Now -14.1 to -14.2.
+  2. A shot may carry a per-language override: {"line": 4, "src": A, "at": 15.5, "len": 4.9, "ar": {"src": ..., "at":
+     0, "len": 4.95}}. 94's line 4 shows bacon frying in English; the Arabic cut uses a crop of the same shot without
+     the pan (alarm, smoke, battery dropping out): out/aishots/buildit-smokealarm-sdA-kitchentop.mp4, made with
+     `ffmpeg -ss 15.46 -t 4.96 -i buildit-smokealarm-sdA.mp4 -vf "crop=428:760:146:0,scale=720:1280:flags=lanczos,setsar=1"
+     -c:v libx264 -crf 14 -an` (not in ai-media; remake it the same way). Watch the footage for pork, alcohol and
+     similar before an Arabic cut.
+  3. 94's line 10 uses falkirk-A shot 1 (smokealarm-B4 came out as canal locks, not the wheel); 95's reveal uses
+     falkirk-A shot 1 again (falkirk-B5 came out as a round pool of boats, not the wheel).
+- Videos (seedance_publish, gates ok, covers true): ep94-smokealarm EN 72.8 s -14.2 LUFS / AR 76.7 s -14.1; ep95-falkirk
+  EN 70.8 s -14.2 / AR 75.2 s -14.2. QA sheets looked at (right shot under every line, Arabic words in reading order);
+  Whisper small on both English mixes: number formats and the words above.
+- LINEUP: 100 the Jeddah Tower (Build #100), 101 a fire sprinkler, 102 Abu Dhabi's Al Bahar Towers, 103 bubble wrap,
+  104 Tokyo's G-Cans flood tunnel, 105 the Brooklyn Bridge appended (checked by search titles).
+- Posts pushed 03:45Z after the Pages deploy of 606b4aa (after the videos' d6e1aa4) succeeded. All 8 Instagram +
+  TikTok targets of 94-95 wait for queue places (every channel 10 of 10; 88-92, 76-77 and 93 come first in due-time
+  order); later post.yml runs add them.
