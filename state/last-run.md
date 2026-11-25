@@ -1,4 +1,4 @@
-# Last posting run 2026-11-25T03:07:09+00:00
+# Last posting run 2026-11-25T03:39:29+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -67,26 +67,18 @@
 - ep81-zipper ar.youtube: on hold in posts/ep81-zipper.yml
 - ep82-hzmb en.youtube: on hold in posts/ep82-hzmb.yml
 - ep82-hzmb ar.youtube: on hold in posts/ep82-hzmb.yml
-- ep82-hzmb ar.tiktok: scheduled (Wed 25 Nov 18:00 UTC) id 6b0650e05d949f6c2a6ab5d5
 - ep83-thermos en.youtube: on hold in posts/ep83-thermos.yml
 - ep83-thermos ar.youtube: on hold in posts/ep83-thermos.yml
-- ep83-thermos ar.tiktok: scheduled (Wed 25 Nov 20:30 UTC) id 6b0650e15d949f6c2a6ab637
 - ep84-hooverdam en.youtube: on hold in posts/ep84-hooverdam.yml
 - ep84-hooverdam ar.youtube: on hold in posts/ep84-hooverdam.yml
-- ep84-hooverdam ar.tiktok: scheduled (Wed 25 Nov 23:00 UTC) id 6b0650e39cddd8483aa33de0
 - ep85-dubaiframe en.youtube: on hold in posts/ep85-dubaiframe.yml
 - ep85-dubaiframe ar.youtube: on hold in posts/ep85-dubaiframe.yml
 - ep85-dubaiframe ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep86-kettle en.youtube: on hold in posts/ep86-kettle.yml
-- ep86-kettle en.instagram: scheduled (Thu 26 Nov 01:00 UTC) id 6b0650e540e1d58d12f22039
-- ep86-kettle en.tiktok: scheduled (Thu 26 Nov 01:00 UTC) id 6b0650e5608549ccf258b90d
 - ep86-kettle ar.youtube: on hold in posts/ep86-kettle.yml
 - ep86-kettle ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep87-balloon en.youtube: on hold in posts/ep87-balloon.yml
-- ep87-balloon en.instagram: scheduled (Thu 26 Nov 03:30 UTC) id 6b0650e740e1d58d12f2209d
-- ep87-balloon en.tiktok: scheduled (Thu 26 Nov 03:30 UTC) id 6b0650e722dfb7833a7599c4
 - ep87-balloon ar.youtube: on hold in posts/ep87-balloon.yml
-- ep87-balloon ar.instagram: scheduled (Thu 26 Nov 06:30 UTC) id 6b0650eb9cddd8483aa34336
 - ep87-balloon ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep88-pontdugard en.youtube: on hold in posts/ep88-pontdugard.yml
 - ep88-pontdugard en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
@@ -130,5 +122,5 @@
 - ep92-seatbelt ar.youtube: on hold in posts/ep92-seatbelt.yml
 - ep92-seatbelt ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep92-seatbelt ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- en: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=890, "24h"; r=261; t=17361, "30d"; r=603; t=1308340; ratelimit-policy="15m"; q=15
-- ar: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=887, "24h"; r=278; t=17358, "30d"; r=521; t=1314467; ratelimit-policy="15m"; q=15
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=247; t=15430, "30d"; r=589; t=1306409; ratelimit-policy="15m"; q=15
+- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=265; t=15430, "30d"; r=508; t=1312539; ratelimit-policy="15m"; q=15
