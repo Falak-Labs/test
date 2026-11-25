@@ -1,3 +1,138 @@
-# Requeue run 2026-11-25T19:40:01+00:00
+# Last posting run 2026-11-25T19:43:09+00:00
 
-- ep80-fountain ar.tiktok: queued for 16:30 UTC (Buffer status now: scheduled)
+- en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
+- ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
+- ep47-igloo en.youtube: on hold in posts/ep47-igloo.yml
+- ep47-igloo ar.youtube: on hold in posts/ep47-igloo.yml
+- ep48-riad en.youtube: on hold in posts/ep48-riad.yml
+- ep48-riad ar.youtube: on hold in posts/ep48-riad.yml
+- ep50-ondol en.youtube: on hold in posts/ep50-ondol.yml
+- ep50-ondol ar.youtube: on hold in posts/ep50-ondol.yml
+- ep51-burjalarab en.youtube: on hold in posts/ep51-burjalarab.yml
+- ep51-burjalarab ar.youtube: on hold in posts/ep51-burjalarab.yml
+- ep52-palmjumeirah en.youtube: on hold in posts/ep52-palmjumeirah.yml
+- ep52-palmjumeirah ar.youtube: on hold in posts/ep52-palmjumeirah.yml
+- ep53-fridge en.youtube: on hold in posts/ep53-fridge.yml
+- ep53-fridge ar.youtube: on hold in posts/ep53-fridge.yml
+- ep55-suez en.youtube: on hold in posts/ep55-suez.yml
+- ep55-suez ar.youtube: on hold in posts/ep55-suez.yml
+- ep56-escalator en.youtube: on hold in posts/ep56-escalator.yml
+- ep56-escalator ar.youtube: on hold in posts/ep56-escalator.yml
+- sm01-survival en.youtube: on hold in posts/sm01-survival.yml
+- ep58-ferriswheel en.youtube: on hold in posts/ep58-ferriswheel.yml
+- ep58-ferriswheel ar.youtube: on hold in posts/ep58-ferriswheel.yml
+- ep60-microwave en.youtube: on hold in posts/ep60-microwave.yml
+- ep60-microwave ar.youtube: on hold in posts/ep60-microwave.yml
+- sm02 en.youtube: on hold in posts/sm02.yml
+- sm02 ar.youtube: on hold in posts/sm02.yml
+- ep62-tent en.youtube: on hold in posts/ep62-tent.yml
+- ep62-tent ar.youtube: on hold in posts/ep62-tent.yml
+- ep63-washer en.youtube: on hold in posts/ep63-washer.yml
+- ep63-washer ar.youtube: on hold in posts/ep63-washer.yml
+- ep64-bigben en.youtube: on hold in posts/ep64-bigben.yml
+- ep64-bigben ar.youtube: on hold in posts/ep64-bigben.yml
+- ep65-shibam en.youtube: on hold in posts/ep65-shibam.yml
+- ep65-shibam ar.youtube: on hold in posts/ep65-shibam.yml
+- ep66-towerbridge en.youtube: on hold in posts/ep66-towerbridge.yml
+- ep66-towerbridge ar.youtube: on hold in posts/ep66-towerbridge.yml
+- ep67-colosseum en.youtube: on hold in posts/ep67-colosseum.yml
+- ep67-colosseum ar.youtube: on hold in posts/ep67-colosseum.yml
+- sm03 en.youtube: on hold in posts/sm03.yml
+- sm03 ar.youtube: on hold in posts/sm03.yml
+- ep68-taipei en.youtube: on hold in posts/ep68-taipei.yml
+- ep68-taipei ar.youtube: on hold in posts/ep68-taipei.yml
+- ep69-dishwasher en.youtube: on hold in posts/ep69-dishwasher.yml
+- ep69-dishwasher ar.youtube: on hold in posts/ep69-dishwasher.yml
+- ep70-louvre en.youtube: on hold in posts/ep70-louvre.yml
+- ep70-louvre ar.youtube: on hold in posts/ep70-louvre.yml
+- ep71-vacuum en.youtube: on hold in posts/ep71-vacuum.yml
+- ep71-vacuum ar.youtube: on hold in posts/ep71-vacuum.yml
+- ep72-petronas en.youtube: on hold in posts/ep72-petronas.yml
+- ep72-petronas ar.youtube: on hold in posts/ep72-petronas.yml
+- ep73-pharos en.youtube: on hold in posts/ep73-pharos.yml
+- ep73-pharos ar.youtube: on hold in posts/ep73-pharos.yml
+- sm04 en.youtube: on hold in posts/sm04.yml
+- sm04 ar.youtube: on hold in posts/sm04.yml
+- ep74-maraya en.youtube: on hold in posts/ep74-maraya.yml
+- ep74-maraya ar.youtube: on hold in posts/ep74-maraya.yml
+- ep75-stepwell en.youtube: on hold in posts/ep75-stepwell.yml
+- ep75-stepwell ar.youtube: on hold in posts/ep75-stepwell.yml
+- ep78-airfryer en.youtube: on hold in posts/ep78-airfryer.yml
+- ep78-airfryer ar.youtube: on hold in posts/ep78-airfryer.yml
+- ep79-kuwaittowers en.youtube: on hold in posts/ep79-kuwaittowers.yml
+- ep79-kuwaittowers ar.youtube: on hold in posts/ep79-kuwaittowers.yml
+- ep80-fountain en.youtube: on hold in posts/ep80-fountain.yml
+- ep80-fountain ar.youtube: on hold in posts/ep80-fountain.yml
+- ep81-zipper en.youtube: on hold in posts/ep81-zipper.yml
+- ep81-zipper ar.youtube: on hold in posts/ep81-zipper.yml
+- ep82-hzmb en.youtube: on hold in posts/ep82-hzmb.yml
+- ep82-hzmb ar.youtube: on hold in posts/ep82-hzmb.yml
+- ep83-thermos en.youtube: on hold in posts/ep83-thermos.yml
+- ep83-thermos ar.youtube: on hold in posts/ep83-thermos.yml
+- ep84-hooverdam en.youtube: on hold in posts/ep84-hooverdam.yml
+- ep84-hooverdam ar.youtube: on hold in posts/ep84-hooverdam.yml
+- ep85-dubaiframe en.youtube: on hold in posts/ep85-dubaiframe.yml
+- ep85-dubaiframe ar.youtube: on hold in posts/ep85-dubaiframe.yml
+- ep85-dubaiframe ar.tiktok: scheduled (Thu 26 Nov 16:00 UTC) id 6b073a4f4fd9b17a8c9ed338
+- ep86-kettle en.youtube: on hold in posts/ep86-kettle.yml
+- ep86-kettle ar.youtube: on hold in posts/ep86-kettle.yml
+- ep86-kettle ar.tiktok: scheduled (Thu 26 Nov 04:00 UTC) id 6b073a50d1defc729c8b4897
+- ep87-balloon en.youtube: on hold in posts/ep87-balloon.yml
+- ep87-balloon ar.youtube: on hold in posts/ep87-balloon.yml
+- ep87-balloon ar.tiktok: scheduled (Thu 26 Nov 06:30 UTC) id 6b073a52d54ca56e4765a8c8
+- ep88-pontdugard en.youtube: on hold in posts/ep88-pontdugard.yml
+- ep88-pontdugard en.instagram: scheduled (Thu 26 Nov 06:00 UTC) id 6b073a534fd9b17a8c9ed5c1
+- ep88-pontdugard en.tiktok: scheduled (Thu 26 Nov 06:00 UTC) id 6b073a544fd9b17a8c9ed64e
+- ep88-pontdugard ar.youtube: on hold in posts/ep88-pontdugard.yml
+- ep88-pontdugard ar.instagram: scheduled (Thu 26 Nov 09:00 UTC) id 6b073a56d1defc729c8b4f16
+- ep88-pontdugard ar.tiktok: scheduled (Thu 26 Nov 09:00 UTC) id 6b073a56d1defc729c8b4f86
+- ep89-noor en.youtube: on hold in posts/ep89-noor.yml
+- ep89-noor en.instagram: scheduled (Thu 26 Nov 08:30 UTC) id 6b073a59ebbe940776adb911
+- ep89-noor en.tiktok: scheduled (Thu 26 Nov 08:30 UTC) id 6b073a59ebbe940776adb957
+- ep89-noor ar.youtube: on hold in posts/ep89-noor.yml
+- ep89-noor ar.instagram: scheduled (Thu 26 Nov 11:30 UTC) id 6b073a5ad54ca56e4765ad9c
+- ep89-noor ar.tiktok: scheduled (Thu 26 Nov 11:30 UTC) id 6b073a5b4fd9b17a8c9ed8b6
+- ep90-pen en.youtube: on hold in posts/ep90-pen.yml
+- ep90-pen en.instagram: scheduled (Thu 26 Nov 11:00 UTC) id 6b073a5de6fe52f29f967c1c
+- ep90-pen en.tiktok: scheduled (Thu 26 Nov 11:00 UTC) id 6b073a5debbe940776adbc95
+- ep90-pen ar.youtube: on hold in posts/ep90-pen.yml
+- ep90-pen ar.instagram: scheduled (Thu 26 Nov 14:00 UTC) id 6b073a5eebbe940776adbddf
+- ep90-pen ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep76-cooker en.youtube: on hold in posts/ep76-cooker.yml
+- ep76-cooker en.instagram: scheduled (Thu 26 Nov 13:30 UTC) id 6b073a60d54ca56e4765b513
+- ep76-cooker en.tiktok: scheduled (Thu 26 Nov 13:30 UTC) id 6b073a604fd9b17a8c9eda17
+- ep76-cooker ar.youtube: on hold in posts/ep76-cooker.yml
+- ep76-cooker ar.instagram: scheduled (Thu 26 Nov 16:30 UTC) id 6b073a61d54ca56e4765b55f
+- ep76-cooker ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep77-goldengate en.youtube: on hold in posts/ep77-goldengate.yml
+- ep77-goldengate en.instagram: scheduled (Thu 26 Nov 16:00 UTC) id 6b073a62e6fe52f29f967dba
+- ep77-goldengate en.tiktok: scheduled (Thu 26 Nov 16:00 UTC) id 6b073a62d1defc729c8b5534
+- ep77-goldengate ar.youtube: on hold in posts/ep77-goldengate.yml
+- ep77-goldengate ar.instagram: scheduled (Thu 26 Nov 20:00 UTC) id 6b073a63d54ca56e4765b838
+- ep77-goldengate ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep91-arch en.youtube: on hold in posts/ep91-arch.yml
+- ep91-arch en.instagram: scheduled (Thu 26 Nov 18:30 UTC) id 6b073a64e6fe52f29f967e88
+- ep91-arch en.tiktok: scheduled (Thu 26 Nov 18:30 UTC) id 6b073a65d54ca56e4765b8ad
+- ep91-arch ar.youtube: on hold in posts/ep91-arch.yml
+- ep91-arch ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep91-arch ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep92-seatbelt en.youtube: on hold in posts/ep92-seatbelt.yml
+- ep92-seatbelt en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep92-seatbelt en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep92-seatbelt ar.youtube: on hold in posts/ep92-seatbelt.yml
+- ep92-seatbelt ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep92-seatbelt ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep94-smokealarm en.youtube: on hold in posts/ep94-smokealarm.yml
+- ep94-smokealarm en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep94-smokealarm en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep94-smokealarm ar.youtube: on hold in posts/ep94-smokealarm.yml
+- ep94-smokealarm ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep94-smokealarm ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep95-falkirk en.youtube: on hold in posts/ep95-falkirk.yml
+- ep95-falkirk en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep95-falkirk en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep95-falkirk ar.youtube: on hold in posts/ep95-falkirk.yml
+- ep95-falkirk ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep95-falkirk ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- en: 14 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=124; t=119, "24h"; r=562; t=46777, "30d"; r=525; t=1248567; ratelimit-policy="15m"; q=15
+- ar: 12 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=115; t=126, "24h"; r=554; t=46785, "30d"; r=438; t=1254698; ratelimit-policy="15m"; q=15
