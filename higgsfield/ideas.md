@@ -1190,7 +1190,7 @@ Trends
   [Buffer, Mar 17 2025](https://buffer.com/resources/longer-tiktoks-get-more-views-data/)
 - Checked and not worth a re-read: the November 2026 trend roundups found (startups.co.uk, Nov 2; mean.ceo, Nov 6) give
   no counts or samples, only audio memes ("The audio sounds like it's coming through a muffled mic") and generic length
-  advice ("Keep most videos between 15 and 60 seconds", which our own data above and YouTube's 3-minute Shorts make moot).
+  advice ("Keep most videos between 15 and 60 seconds", which Buffer's data above and YouTube's 3-minute Shorts make moot).
   [startups.co.uk, Nov 2 2026](https://startups.co.uk/news/social-media-trends-november-2026/),
   [mean.ceo, Nov 6 2026](https://blog.mean.ceo/short-form-video-marketing-trends-november-2026/)
 
