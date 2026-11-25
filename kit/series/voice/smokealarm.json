@@ -3,15 +3,15 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 71.001,
- "words": 187,
+ "duration": 71.363,
+ "words": 188,
  "words_per_sec": 2.63,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 4.134,
-   "text": "Y'all, lots of smoke alarms hide a speck of radioactive metal.",
+   "end": 4.5,
+   "text": "Y'all, lots of smoke alarms have a speck of radioactive metal inside.",
    "words": [
     {
      "w": "Y'all,",
@@ -21,1036 +21,1041 @@
     {
      "w": "lots",
      "start": 1.071,
-     "end": 1.357
+     "end": 1.286
     },
     {
      "w": "of",
-     "start": 1.393,
+     "start": 1.357,
      "end": 1.429
     },
     {
      "w": "smoke",
      "start": 1.5,
-     "end": 1.786
+     "end": 1.714
     },
     {
      "w": "alarms",
-     "start": 1.893,
-     "end": 2.143
+     "start": 1.786,
+     "end": 2.071
     },
     {
-     "w": "hide",
-     "start": 2.214,
-     "end": 2.357
+     "w": "have",
+     "start": 2.143,
+     "end": 2.214
     },
     {
      "w": "a",
-     "start": 2.429,
-     "end": 2.5
+     "start": 2.286,
+     "end": 2.429
     },
     {
      "w": "speck",
-     "start": 2.607,
-     "end": 2.786
+     "start": 2.536,
+     "end": 2.714
     },
     {
      "w": "of",
-     "start": 2.857,
-     "end": 2.929
+     "start": 2.786,
+     "end": 2.857
     },
     {
      "w": "radioactive",
-     "start": 3.0,
-     "end": 3.643
+     "start": 2.929,
+     "end": 3.571
     },
     {
-     "w": "metal.",
-     "start": 3.714,
-     "end": 4.286
+     "w": "metal",
+     "start": 3.643,
+     "end": 3.857
+    },
+    {
+     "w": "inside.",
+     "start": 3.929,
+     "end": 4.643
     }
    ]
   },
   {
    "line": 2,
-   "start": 4.446,
-   "end": 8.659,
+   "start": 4.812,
+   "end": 9.025,
    "text": "Fires love the night, and your nose sleeps too. So how long do you get?",
    "words": [
     {
      "w": "Fires",
-     "start": 4.524,
-     "end": 4.881
+     "start": 4.89,
+     "end": 5.247
     },
     {
      "w": "love",
-     "start": 5.096,
-     "end": 5.381
+     "start": 5.462,
+     "end": 5.747
     },
     {
      "w": "the",
-     "start": 5.453,
-     "end": 5.524
+     "start": 5.819,
+     "end": 5.89
     },
     {
      "w": "night,",
-     "start": 5.596,
-     "end": 6.024
+     "start": 5.962,
+     "end": 6.39
     },
     {
      "w": "and",
-     "start": 6.167,
-     "end": 6.238
+     "start": 6.533,
+     "end": 6.604
     },
     {
      "w": "your",
-     "start": 6.31,
-     "end": 6.453
+     "start": 6.676,
+     "end": 6.819
     },
     {
      "w": "nose",
-     "start": 6.488,
-     "end": 6.738
+     "start": 6.854,
+     "end": 7.104
     },
     {
      "w": "sleeps",
-     "start": 6.81,
-     "end": 7.096
+     "start": 7.176,
+     "end": 7.462
     },
     {
      "w": "too.",
-     "start": 7.238,
-     "end": 7.536
+     "start": 7.604,
+     "end": 7.902
     },
     {
      "w": "So",
-     "start": 7.658,
-     "end": 7.729
+     "start": 8.024,
+     "end": 8.096
     },
     {
      "w": "how",
-     "start": 7.801,
-     "end": 7.872
+     "start": 8.167,
+     "end": 8.238
     },
     {
      "w": "long",
-     "start": 7.944,
-     "end": 8.087
+     "start": 8.31,
+     "end": 8.453
     },
     {
      "w": "do",
-     "start": 8.122,
-     "end": 8.158
+     "start": 8.488,
+     "end": 8.524
     },
     {
      "w": "you",
-     "start": 8.229,
-     "end": 8.301
+     "start": 8.596,
+     "end": 8.667
     },
     {
      "w": "get?",
-     "start": 8.372,
-     "end": 8.872
+     "start": 8.738,
+     "end": 9.238
     }
    ]
   },
   {
    "line": 3,
-   "start": 8.971,
-   "end": 14.824,
+   "start": 9.337,
+   "end": 15.19,
    "text": "So the speck charges the air between two plates. Smoke breaks that current, and it screams.",
    "words": [
     {
      "w": "So",
-     "start": 9.181,
-     "end": 9.324
+     "start": 9.547,
+     "end": 9.69
     },
     {
      "w": "the",
-     "start": 9.396,
-     "end": 9.538
+     "start": 9.762,
+     "end": 9.904
     },
     {
      "w": "speck",
-     "start": 9.61,
-     "end": 9.967
+     "start": 9.976,
+     "end": 10.333
     },
     {
      "w": "charges",
-     "start": 10.038,
-     "end": 10.396
+     "start": 10.404,
+     "end": 10.762
     },
     {
      "w": "the",
-     "start": 10.467,
-     "end": 10.538
+     "start": 10.833,
+     "end": 10.904
     },
     {
      "w": "air",
-     "start": 10.646,
-     "end": 10.753
+     "start": 11.012,
+     "end": 11.119
     },
     {
      "w": "between",
-     "start": 10.931,
-     "end": 11.11
+     "start": 11.297,
+     "end": 11.476
     },
     {
      "w": "two",
-     "start": 11.181,
-     "end": 11.324
+     "start": 11.547,
+     "end": 11.69
     },
     {
      "w": "plates.",
-     "start": 11.396,
-     "end": 12.038
+     "start": 11.762,
+     "end": 12.404
     },
     {
      "w": "Smoke",
-     "start": 12.11,
-     "end": 12.396
+     "start": 12.476,
+     "end": 12.762
     },
     {
      "w": "breaks",
-     "start": 12.538,
-     "end": 12.824
+     "start": 12.904,
+     "end": 13.19
     },
     {
      "w": "that",
-     "start": 12.931,
-     "end": 13.038
+     "start": 13.297,
+     "end": 13.404
     },
     {
      "w": "current,",
-     "start": 13.217,
-     "end": 13.538
+     "start": 13.583,
+     "end": 13.904
     },
     {
      "w": "and",
-     "start": 13.574,
-     "end": 13.61
+     "start": 13.94,
+     "end": 13.976
     },
     {
      "w": "it",
-     "start": 13.681,
-     "end": 13.824
+     "start": 14.047,
+     "end": 14.19
     },
     {
      "w": "screams.",
-     "start": 13.896,
-     "end": 14.896
+     "start": 14.262,
+     "end": 15.262
     }
    ]
   },
   {
    "line": 4,
-   "start": 15.137,
-   "end": 20.227,
+   "start": 15.503,
+   "end": 20.593,
    "text": "But it screams at your bacon too, so folks yank the battery. Oh boy.",
    "words": [
     {
      "w": "But",
-     "start": 15.907,
-     "end": 15.979
+     "start": 16.272,
+     "end": 16.344
     },
     {
      "w": "it",
-     "start": 16.05,
-     "end": 16.121
+     "start": 16.415,
+     "end": 16.487
     },
     {
      "w": "screams",
-     "start": 16.157,
-     "end": 16.479
+     "start": 16.522,
+     "end": 16.844
     },
     {
      "w": "at",
-     "start": 16.55,
-     "end": 16.621
+     "start": 16.915,
+     "end": 16.987
     },
     {
      "w": "your",
-     "start": 16.693,
-     "end": 16.764
+     "start": 17.058,
+     "end": 17.129
     },
     {
      "w": "bacon",
-     "start": 16.836,
-     "end": 17.121
+     "start": 17.201,
+     "end": 17.487
     },
     {
      "w": "too,",
-     "start": 17.193,
-     "end": 17.675
+     "start": 17.558,
+     "end": 18.04
     },
     {
      "w": "so",
-     "start": 17.746,
-     "end": 17.889
+     "start": 18.112,
+     "end": 18.254
     },
     {
      "w": "folks",
-     "start": 17.961,
-     "end": 18.246
+     "start": 18.326,
+     "end": 18.612
     },
     {
      "w": "yank",
-     "start": 18.532,
-     "end": 18.746
+     "start": 18.897,
+     "end": 19.112
     },
     {
      "w": "the",
-     "start": 18.818,
-     "end": 18.889
+     "start": 19.183,
+     "end": 19.254
     },
     {
      "w": "battery.",
-     "start": 19.104,
-     "end": 19.389
+     "start": 19.469,
+     "end": 19.754
     },
     {
      "w": "Oh",
-     "start": 19.496,
-     "end": 19.711
+     "start": 19.862,
+     "end": 20.076
     },
     {
      "w": "boy.",
-     "start": 19.854,
-     "end": 20.425
+     "start": 20.219,
+     "end": 20.79
     }
    ]
   },
   {
    "line": 5,
-   "start": 20.539,
-   "end": 25.423,
+   "start": 20.905,
+   "end": 25.789,
    "text": "So other alarms shine a light past a sensor. Smoke bounces the light into it.",
    "words": [
     {
      "w": "So",
-     "start": 20.754,
-     "end": 20.968
+     "start": 21.12,
+     "end": 21.334
     },
     {
      "w": "other",
-     "start": 21.111,
-     "end": 21.325
+     "start": 21.477,
+     "end": 21.691
     },
     {
      "w": "alarms",
-     "start": 21.396,
-     "end": 21.825
+     "start": 21.762,
+     "end": 22.191
     },
     {
      "w": "shine",
-     "start": 21.932,
-     "end": 22.039
+     "start": 22.298,
+     "end": 22.405
     },
     {
      "w": "a",
-     "start": 22.075,
-     "end": 22.111
+     "start": 22.441,
+     "end": 22.477
     },
     {
      "w": "light",
-     "start": 22.182,
-     "end": 22.396
+     "start": 22.548,
+     "end": 22.762
     },
     {
      "w": "past",
-     "start": 22.539,
-     "end": 22.682
+     "start": 22.905,
+     "end": 23.048
     },
     {
      "w": "a",
-     "start": 22.754,
-     "end": 22.825
+     "start": 23.12,
+     "end": 23.191
     },
     {
      "w": "sensor.",
-     "start": 23.039,
-     "end": 23.495
+     "start": 23.405,
+     "end": 23.861
     },
     {
      "w": "Smoke",
-     "start": 23.566,
-     "end": 23.852
+     "start": 23.932,
+     "end": 24.218
     },
     {
      "w": "bounces",
-     "start": 23.995,
-     "end": 24.352
+     "start": 24.361,
+     "end": 24.718
     },
     {
      "w": "the",
-     "start": 24.423,
-     "end": 24.495
+     "start": 24.789,
+     "end": 24.861
     },
     {
      "w": "light",
-     "start": 24.602,
-     "end": 24.709
+     "start": 24.968,
+     "end": 25.075
     },
     {
      "w": "into",
-     "start": 24.78,
-     "end": 25.066
+     "start": 25.146,
+     "end": 25.432
     },
     {
      "w": "it.",
-     "start": 25.173,
-     "end": 25.495
+     "start": 25.539,
+     "end": 25.861
     }
    ]
   },
   {
    "line": 6,
-   "start": 25.736,
-   "end": 29.886,
+   "start": 26.102,
+   "end": 30.252,
    "text": "But a dead battery means a dead alarm. Smoke drifts right past.",
    "words": [
     {
      "w": "But",
-     "start": 25.859,
-     "end": 26.002
+     "start": 26.225,
+     "end": 26.368
     },
     {
      "w": "a",
-     "start": 26.037,
-     "end": 26.073
+     "start": 26.404,
+     "end": 26.439
     },
     {
      "w": "dead",
-     "start": 26.145,
-     "end": 26.359
+     "start": 26.511,
+     "end": 26.725
     },
     {
      "w": "battery",
-     "start": 26.43,
-     "end": 26.787
+     "start": 26.796,
+     "end": 27.154
     },
     {
      "w": "means",
-     "start": 26.859,
-     "end": 27.073
+     "start": 27.225,
+     "end": 27.439
     },
     {
      "w": "a",
-     "start": 27.145,
-     "end": 27.216
+     "start": 27.511,
+     "end": 27.582
     },
     {
      "w": "dead",
-     "start": 27.287,
-     "end": 27.43
+     "start": 27.654,
+     "end": 27.796
     },
     {
      "w": "alarm.",
-     "start": 27.502,
-     "end": 28.12
+     "start": 27.868,
+     "end": 28.486
     },
     {
      "w": "Smoke",
-     "start": 28.279,
-     "end": 28.564
+     "start": 28.645,
+     "end": 28.93
     },
     {
      "w": "drifts",
-     "start": 28.636,
-     "end": 28.993
+     "start": 29.002,
+     "end": 29.359
     },
     {
      "w": "right",
-     "start": 29.064,
-     "end": 29.279
+     "start": 29.43,
+     "end": 29.645
     },
     {
      "w": "past.",
-     "start": 29.529,
-     "end": 29.993
+     "start": 29.895,
+     "end": 30.359
     }
    ]
   },
   {
    "line": 7,
-   "start": 30.198,
-   "end": 34.057,
+   "start": 30.564,
+   "end": 34.422,
    "text": "So a weak battery makes it chirp. That chirp means: feed me.",
    "words": [
     {
      "w": "So",
-     "start": 30.341,
-     "end": 30.484
+     "start": 30.707,
+     "end": 30.85
     },
     {
      "w": "a",
-     "start": 30.555,
-     "end": 30.627
+     "start": 30.921,
+     "end": 30.993
     },
     {
      "w": "weak",
-     "start": 30.77,
-     "end": 30.984
+     "start": 31.136,
+     "end": 31.35
     },
     {
      "w": "battery",
-     "start": 31.055,
-     "end": 31.412
+     "start": 31.421,
+     "end": 31.779
     },
     {
      "w": "makes",
-     "start": 31.484,
-     "end": 31.627
+     "start": 31.85,
+     "end": 31.993
     },
     {
      "w": "it",
-     "start": 31.698,
-     "end": 31.841
+     "start": 32.064,
+     "end": 32.207
     },
     {
      "w": "chirp.",
-     "start": 31.912,
-     "end": 32.296
+     "start": 32.279,
+     "end": 32.662
     },
     {
      "w": "That",
-     "start": 32.404,
-     "end": 32.546
+     "start": 32.77,
+     "end": 32.913
     },
     {
      "w": "chirp",
-     "start": 32.618,
-     "end": 32.904
+     "start": 32.984,
+     "end": 33.27
     },
     {
      "w": "means:",
-     "start": 33.082,
-     "end": 33.404
+     "start": 33.448,
+     "end": 33.77
     },
     {
      "w": "feed",
-     "start": 33.466,
-     "end": 33.68
+     "start": 33.832,
+     "end": 34.046
     },
     {
      "w": "me.",
-     "start": 33.752,
-     "end": 34.18
+     "start": 34.118,
+     "end": 34.546
     }
    ]
   },
   {
    "line": 8,
-   "start": 34.37,
-   "end": 40.613,
+   "start": 34.735,
+   "end": 40.979,
    "text": "But why always at two a.m.? The house cools down at night, and weak batteries hate the cold.",
    "words": [
     {
      "w": "But",
-     "start": 35.117,
-     "end": 35.26
+     "start": 35.482,
+     "end": 35.625
     },
     {
      "w": "why",
-     "start": 35.331,
-     "end": 35.546
+     "start": 35.696,
+     "end": 35.911
     },
     {
      "w": "always",
-     "start": 35.617,
-     "end": 35.903
+     "start": 35.982,
+     "end": 36.268
     },
     {
      "w": "at",
-     "start": 36.01,
-     "end": 36.117
+     "start": 36.375,
+     "end": 36.482
     },
     {
      "w": "two",
-     "start": 36.188,
-     "end": 36.26
+     "start": 36.554,
+     "end": 36.625
     },
     {
      "w": "a.m.?",
-     "start": 36.331,
-     "end": 36.905
+     "start": 36.696,
+     "end": 37.271
     },
     {
      "w": "The",
-     "start": 37.001,
-     "end": 37.072
+     "start": 37.366,
+     "end": 37.437
     },
     {
      "w": "house",
-     "start": 37.215,
-     "end": 37.358
+     "start": 37.58,
+     "end": 37.723
     },
     {
      "w": "cools",
-     "start": 37.429,
-     "end": 37.644
+     "start": 37.795,
+     "end": 38.009
     },
     {
      "w": "down",
-     "start": 37.715,
-     "end": 37.929
+     "start": 38.08,
+     "end": 38.295
     },
     {
      "w": "at",
-     "start": 38.001,
-     "end": 38.072
+     "start": 38.366,
+     "end": 38.437
     },
     {
      "w": "night,",
-     "start": 38.144,
-     "end": 38.626
+     "start": 38.509,
+     "end": 38.991
     },
     {
      "w": "and",
-     "start": 38.697,
-     "end": 38.769
+     "start": 39.062,
+     "end": 39.134
     },
     {
      "w": "weak",
-     "start": 38.84,
-     "end": 39.054
+     "start": 39.205,
+     "end": 39.42
     },
     {
      "w": "batteries",
-     "start": 39.09,
-     "end": 39.554
+     "start": 39.455,
+     "end": 39.92
     },
     {
      "w": "hate",
-     "start": 39.697,
-     "end": 39.983
+     "start": 40.062,
+     "end": 40.348
     },
     {
      "w": "the",
-     "start": 40.019,
-     "end": 40.054
+     "start": 40.384,
+     "end": 40.42
     },
     {
      "w": "cold.",
-     "start": 40.126,
-     "end": 40.769
+     "start": 40.491,
+     "end": 41.134
     }
    ]
   },
   {
    "line": 9,
-   "start": 40.926,
-   "end": 45.508,
+   "start": 41.292,
+   "end": 45.874,
    "text": "So newer alarms seal in a ten-year battery. No lid, no chirps.",
    "words": [
     {
      "w": "So",
-     "start": 41.14,
-     "end": 41.283
+     "start": 41.506,
+     "end": 41.649
     },
     {
      "w": "newer",
-     "start": 41.426,
-     "end": 41.712
+     "start": 41.792,
+     "end": 42.078
     },
     {
      "w": "alarms",
-     "start": 41.854,
-     "end": 42.14
+     "start": 42.221,
+     "end": 42.506
     },
     {
      "w": "seal",
-     "start": 42.176,
-     "end": 42.354
+     "start": 42.542,
+     "end": 42.721
     },
     {
      "w": "in",
-     "start": 42.39,
-     "end": 42.426
+     "start": 42.756,
+     "end": 42.792
     },
     {
      "w": "a",
-     "start": 42.497,
-     "end": 42.64
+     "start": 42.863,
+     "end": 43.006
     },
     {
      "w": "ten-year",
-     "start": 42.783,
-     "end": 43.14
+     "start": 43.149,
+     "end": 43.506
     },
     {
      "w": "battery.",
-     "start": 43.212,
-     "end": 43.872
+     "start": 43.578,
+     "end": 44.238
     },
     {
      "w": "No",
-     "start": 43.944,
-     "end": 44.087
+     "start": 44.31,
+     "end": 44.453
     },
     {
      "w": "lid,",
-     "start": 44.158,
-     "end": 44.658
+     "start": 44.524,
+     "end": 45.024
     },
     {
      "w": "no",
-     "start": 44.729,
-     "end": 44.801
+     "start": 45.096,
+     "end": 45.167
     },
     {
      "w": "chirps.",
-     "start": 44.944,
-     "end": 45.515
+     "start": 45.31,
+     "end": 45.881
     }
    ]
   },
   {
    "line": 10,
-   "start": 45.821,
-   "end": 51.648,
+   "start": 46.187,
+   "end": 52.014,
    "text": "Hit follow, 'cause next we're building a Ferris wheel for boats. Yes... boats.",
    "words": [
     {
      "w": "Hit",
-     "start": 45.952,
-     "end": 46.095
+     "start": 46.317,
+     "end": 46.46
     },
     {
      "w": "follow,",
-     "start": 46.238,
-     "end": 46.809
+     "start": 46.603,
+     "end": 47.174
     },
     {
      "w": "'cause",
-     "start": 46.952,
-     "end": 47.166
+     "start": 47.317,
+     "end": 47.531
     },
     {
      "w": "next",
-     "start": 47.238,
-     "end": 47.452
+     "start": 47.603,
+     "end": 47.817
     },
     {
      "w": "we're",
-     "start": 47.523,
-     "end": 47.738
+     "start": 47.888,
+     "end": 48.103
     },
     {
      "w": "building",
-     "start": 47.88,
-     "end": 48.023
+     "start": 48.246,
+     "end": 48.388
     },
     {
      "w": "a",
-     "start": 48.095,
-     "end": 48.166
+     "start": 48.46,
+     "end": 48.531
     },
     {
      "w": "Ferris",
-     "start": 48.238,
-     "end": 48.523
+     "start": 48.603,
+     "end": 48.888
     },
     {
      "w": "wheel",
-     "start": 48.595,
-     "end": 48.738
+     "start": 48.96,
+     "end": 49.103
     },
     {
      "w": "for",
-     "start": 48.809,
-     "end": 49.023
+     "start": 49.174,
+     "end": 49.388
     },
     {
      "w": "boats.",
-     "start": 49.238,
-     "end": 49.559
+     "start": 49.603,
+     "end": 49.924
     },
     {
      "w": "Yes...",
-     "start": 50.452,
-     "end": 50.952
+     "start": 50.817,
+     "end": 51.317
     },
     {
      "w": "boats.",
-     "start": 51.023,
-     "end": 51.737
+     "start": 51.388,
+     "end": 52.103
     }
    ]
   },
   {
    "line": 11,
-   "start": 51.961,
-   "end": 58.579,
+   "start": 52.327,
+   "end": 58.946,
    "text": "In a fire lab, a room of today's furniture went up in under four minutes. Old furniture took half an hour.",
    "words": [
     {
      "w": "In",
-     "start": 52.104,
-     "end": 52.246
+     "start": 52.47,
+     "end": 52.612
     },
     {
      "w": "a",
-     "start": 52.318,
-     "end": 52.389
+     "start": 52.684,
+     "end": 52.755
     },
     {
      "w": "fire",
-     "start": 52.532,
-     "end": 52.818
+     "start": 52.898,
+     "end": 53.184
     },
     {
      "w": "lab,",
-     "start": 52.961,
-     "end": 53.541
+     "start": 53.327,
+     "end": 53.907
     },
     {
      "w": "a",
-     "start": 53.612,
-     "end": 53.684
+     "start": 53.979,
+     "end": 54.05
     },
     {
      "w": "room",
-     "start": 53.755,
-     "end": 53.898
+     "start": 54.121,
+     "end": 54.264
     },
     {
      "w": "of",
-     "start": 53.97,
-     "end": 54.041
+     "start": 54.336,
+     "end": 54.407
     },
     {
      "w": "today's",
-     "start": 54.112,
-     "end": 54.541
+     "start": 54.479,
+     "end": 54.907
     },
     {
      "w": "furniture",
-     "start": 54.612,
-     "end": 54.97
+     "start": 54.979,
+     "end": 55.336
     },
     {
      "w": "went",
-     "start": 55.041,
-     "end": 55.184
+     "start": 55.407,
+     "end": 55.55
     },
     {
      "w": "up",
-     "start": 55.255,
-     "end": 55.327
+     "start": 55.621,
+     "end": 55.693
     },
     {
      "w": "in",
-     "start": 55.398,
-     "end": 55.47
+     "start": 55.764,
+     "end": 55.836
     },
     {
      "w": "under",
-     "start": 55.648,
-     "end": 55.827
+     "start": 56.014,
+     "end": 56.193
     },
     {
      "w": "four",
-     "start": 55.898,
-     "end": 56.112
+     "start": 56.264,
+     "end": 56.479
     },
     {
      "w": "minutes.",
-     "start": 56.255,
-     "end": 56.88
+     "start": 56.621,
+     "end": 57.246
     },
     {
      "w": "Old",
-     "start": 56.987,
-     "end": 57.095
+     "start": 57.354,
+     "end": 57.461
     },
     {
      "w": "furniture",
-     "start": 57.166,
-     "end": 57.595
+     "start": 57.532,
+     "end": 57.961
     },
     {
      "w": "took",
-     "start": 57.666,
-     "end": 57.737
+     "start": 58.032,
+     "end": 58.104
     },
     {
      "w": "half",
-     "start": 57.809,
-     "end": 58.023
+     "start": 58.175,
+     "end": 58.389
     },
     {
      "w": "an",
-     "start": 58.059,
-     "end": 58.095
+     "start": 58.425,
+     "end": 58.461
     },
     {
      "w": "hour.",
-     "start": 58.166,
-     "end": 58.737
+     "start": 58.532,
+     "end": 59.104
     }
    ]
   },
   {
    "line": 12,
-   "start": 58.892,
-   "end": 61.778,
+   "start": 59.258,
+   "end": 62.143,
    "text": "One speck, one light, one chirp.",
    "words": [
     {
      "w": "One",
-     "start": 59.029,
-     "end": 59.172
+     "start": 59.395,
+     "end": 59.537
     },
     {
      "w": "speck,",
-     "start": 59.315,
-     "end": 59.851
+     "start": 59.68,
+     "end": 60.216
     },
     {
      "w": "one",
-     "start": 60.029,
-     "end": 60.172
+     "start": 60.395,
+     "end": 60.538
     },
     {
      "w": "light,",
-     "start": 60.315,
-     "end": 60.779
+     "start": 60.68,
+     "end": 61.145
     },
     {
      "w": "one",
-     "start": 60.958,
-     "end": 61.172
+     "start": 61.323,
+     "end": 61.537
     },
     {
      "w": "chirp.",
-     "start": 61.315,
-     "end": 61.887
+     "start": 61.68,
+     "end": 62.252
     }
    ]
   },
   {
    "line": 13,
-   "start": 62.09,
-   "end": 65.109,
+   "start": 62.455,
+   "end": 65.475,
    "text": "And congrats, you just built a smoke alarm yourself.",
    "words": [
     {
      "w": "And",
-     "start": 62.149,
-     "end": 62.292
+     "start": 62.514,
+     "end": 62.657
     },
     {
      "w": "congrats,",
-     "start": 62.363,
-     "end": 63.149
+     "start": 62.729,
+     "end": 63.514
     },
     {
      "w": "you",
-     "start": 63.292,
-     "end": 63.435
+     "start": 63.657,
+     "end": 63.8
     },
     {
      "w": "just",
-     "start": 63.542,
-     "end": 63.649
+     "start": 63.907,
+     "end": 64.014
     },
     {
      "w": "built",
-     "start": 63.721,
-     "end": 63.792
+     "start": 64.086,
+     "end": 64.157
     },
     {
      "w": "a",
-     "start": 63.863,
-     "end": 63.935
+     "start": 64.229,
+     "end": 64.3
     },
     {
      "w": "smoke",
-     "start": 64.006,
-     "end": 64.149
+     "start": 64.371,
+     "end": 64.514
     },
     {
      "w": "alarm",
-     "start": 64.221,
-     "end": 64.435
+     "start": 64.586,
+     "end": 64.8
     },
     {
      "w": "yourself.",
-     "start": 64.506,
-     "end": 65.292
+     "start": 64.871,
+     "end": 65.657
     }
    ]
   },
   {
    "line": 14,
-   "start": 65.421,
-   "end": 70.999,
+   "start": 65.787,
+   "end": 71.365,
    "text": "Burn one piece of toast... and somebody's waving a towel at the ceiling.",
    "words": [
     {
      "w": "Burn",
-     "start": 66.136,
-     "end": 66.421
+     "start": 66.502,
+     "end": 66.787
     },
     {
      "w": "one",
-     "start": 66.564,
-     "end": 66.707
+     "start": 66.93,
+     "end": 67.073
     },
     {
      "w": "piece",
-     "start": 66.779,
-     "end": 66.921
+     "start": 67.145,
+     "end": 67.287
     },
     {
      "w": "of",
-     "start": 66.993,
-     "end": 67.064
+     "start": 67.359,
+     "end": 67.43
     },
     {
      "w": "toast...",
-     "start": 67.136,
-     "end": 67.779
+     "start": 67.502,
+     "end": 68.145
     },
     {
      "w": "and",
-     "start": 68.636,
-     "end": 68.779
+     "start": 69.002,
+     "end": 69.145
     },
     {
      "w": "somebody's",
-     "start": 68.85,
-     "end": 69.35
+     "start": 69.216,
+     "end": 69.716
     },
     {
      "w": "waving",
-     "start": 69.386,
-     "end": 69.636
+     "start": 69.752,
+     "end": 70.002
     },
     {
      "w": "a",
-     "start": 69.707,
-     "end": 69.779
+     "start": 70.073,
+     "end": 70.145
     },
     {
      "w": "towel",
-     "start": 69.85,
-     "end": 70.136
+     "start": 70.216,
+     "end": 70.502
     },
     {
      "w": "at",
-     "start": 70.207,
-     "end": 70.279
+     "start": 70.573,
+     "end": 70.645
     },
     {
      "w": "the",
-     "start": 70.35,
-     "end": 70.421
+     "start": 70.716,
+     "end": 70.787
     },
     {
      "w": "ceiling.",
-     "start": 70.493,
-     "end": 71.136
+     "start": 70.859,
+     "end": 71.502
     }
    ]
   }
