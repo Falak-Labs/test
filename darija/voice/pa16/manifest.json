@@ -1,0 +1,124 @@
+{
+ "episode": "pa16",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 159,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "Tsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "آدم دفع ميتين شيكل على شنطة بمية. شو نسي؟",
+   "characters": 41,
+   "model": "eleven_v4",
+   "seconds": 4.08
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "قديش هاد؟",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "غالي كتير!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "ممكن تنزل شوي؟",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "ماشي، باخدو.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "معك فراطة؟",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Negotiate.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Negotiate!",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بالسوق، لازم تفاصل!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "Tsl",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Nego... tiate.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  }
+ ]
+}

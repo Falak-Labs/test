@@ -1,0 +1,124 @@
+{
+ "episode": "pa17",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 145,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "Tsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "لينا قرأت ري-سيبت بالبي. صح؟",
+   "characters": 28,
+   "model": "eleven_v4",
+   "seconds": 3.04
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "كيلو بصل، لو سمحت.",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "نص كيلو بندورة.",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "طازج؟",
+   "characters": 5,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "إشي تاني؟",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بس، شكرا.",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Receipt.",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Receipt!",
+   "characters": 18,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "ممكن الفاتورة، لو سمحت؟",
+   "characters": 23,
+   "model": "eleven_v4",
+   "seconds": 2.64
+  },
+  {
+   "id": "Tsl",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Re... ceipt.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "episode": "kids18",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 133,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "Lw",
+  "Asl",
+  "Lsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I'm looking for a jacket.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "What size?",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Can I try it on?",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "It's too big.",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "It's perfect!",
+   "characters": 13,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Traditional!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Traditional!",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "Asl",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Tradi... tional.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "Lsl",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Tradi... tional.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  }
+ ]
+}

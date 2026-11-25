@@ -1,0 +1,134 @@
+{
+ "episode": "ma18",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 237,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v1",
+  "v2",
+  "Tsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "تقليدي بالإنجليزية فيها تي كتتقرا ش. فين؟",
+   "characters": 41,
+   "model": "eleven_v4",
+   "seconds": 5.04
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "كنقلب على جاكيطة.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "شمن قياس؟",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "ممكن نجربها؟",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "كبيرة بزاف.",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "هادي زوينة بزاف!",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Traditional.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Good job! Traditional!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "The djellaba is traditional Moroccan clothing.",
+   "characters": 46,
+   "model": "eleven_v4",
+   "seconds": 3.2
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "الجلابة هي اللباس التقليدي المغربي.",
+   "characters": 35,
+   "model": "eleven_v4",
+   "seconds": 3.2
+  },
+  {
+   "id": "Tsl",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Tradi... tional.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.76
+  }
+ ]
+}

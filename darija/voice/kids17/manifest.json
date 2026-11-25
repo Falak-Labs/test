@@ -1,0 +1,124 @@
+{
+ "episode": "kids17",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 168,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "v1",
+  "Lw",
+  "Asl",
+  "Lsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "A kilo of onions, please.",
+   "characters": 25,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Half a kilo of tomatoes.",
+   "characters": 24,
+   "model": "eleven_v4",
+   "seconds": 2.08
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Is it fresh?",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Anything else?",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "That's all, thank you.",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Receipt!",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Can I have the receipt, please?",
+   "characters": 31,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Receipt!",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 0.96
+  },
+  {
+   "id": "Asl",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Re... ceipt.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "Lsl",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Re... ceipt.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  }
+ ]
+}

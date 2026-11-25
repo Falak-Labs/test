@@ -1,0 +1,124 @@
+{
+ "episode": "ma16",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 169,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "Tsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "آدم خلص ميتين درهم فصاك ديال مية. شنو نسى؟",
+   "characters": 42,
+   "model": "eleven_v4",
+   "seconds": 4.32
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "بشحال هادا؟",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "غالي بزاف!",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.52
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "ممكن تنقص شوية؟",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.92
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "واخا، غادي ناخدو.",
+   "characters": 17,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "عندك الصرف؟",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Negotiate.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.28
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Good job! Negotiate!",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "فالسوق، خاصك تساوم!",
+   "characters": 19,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  },
+  {
+   "id": "Tsl",
+   "speaker": "T",
+   "voice": "OfGMGmhShO8iL9jCkXy8",
+   "text": "Nego... tiate.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  }
+ ]
+}
