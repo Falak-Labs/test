@@ -19,7 +19,7 @@ en:
     instagram: "#dubaiframe #dubai #architecture #engineering"
     youtube: "#dubaiframe #dubai #architecture"
 ar:
-  at: "2026-11-26T01:30:00Z"
+  at: {default: "2026-11-26T01:30:00Z", tiktok: "2026-11-26T16:00:00Z"}   # TikTok moved by the midday run of Nov 25: 60's requeue holds 01:30Z
   title: "إطار دبي: برواز ارتفاعه ١٥٠ متر 🖼️"
   text: |
     برواز عملاق بين دبي القديمة والجديدة! 🖼️
