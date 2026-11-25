@@ -7,7 +7,7 @@ levels:
     music: desert
     color: "#FFD166"
     en: {world: "ROME", boss: "THE ROMAN SUMMER", sub: "50,000 PEOPLE  ·  IN THE SUN ALL DAY", unlocked: "THE COLOSSEUM",
-         stamp: "BAKING", chips: [["50,000", "SEATS"], ["240", "POLES FOR THE SAILS"], ["80", "GATES"]],
+         stamp: "BAKING", chips: [["50,000", "SEATS"], ["240", "SAIL POLES"], ["80", "GATES"]],
          shot: 5.5, still: 6.2}       # the whole Colosseum under its sails (the hook ends on a bare piece of wall)
     ar: {world: "روما", boss: "صيف روما", sub: "خمسين ألف واحد  ·  في الشمس طول اليوم", unlocked: "الكولوسيوم",
          stamp: "حر مرة", chips: [["50,000", "مقعد"], ["240", "صاري للأشرعة"], ["80", "بوابة"]],
@@ -16,7 +16,7 @@ levels:
     music: oasis
     color: "#7FC8FF"
     en: {world: "INDIA", boss: "THE DRY SEASON", sub: "HARDLY ANY RAIN  ·  THE WATER SINKS", unlocked: "CHAND BAORI",
-         stamp: "DRY", chips: [["3,500", "STEPS"], ["13", "FLOORS"], ["~5°", "COOLER AT THE BOTTOM"]],
+         stamp: "DRY", chips: [["3,500", "STEPS"], ["13", "FLOORS"], ["~5°", "COOLER BELOW"]],
          shot: 3.6, still: 4.3}       # the whole upside-down pyramid with its water
     ar: {world: "الهند", boss: "الجفاف", sub: "المطر قليل مرة  ·  والموية تنزل أكثر وأكثر", unlocked: "بير تشاند باوري",
          stamp: "ناشف", chips: [["3,500", "درجة"], ["13", "دور"], ["~5°", "أبرد تحت"]],
