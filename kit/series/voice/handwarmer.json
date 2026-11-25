@@ -3,974 +3,959 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 67.993,
- "words": 171,
- "words_per_sec": 2.51,
+ "duration": 66.492,
+ "words": 168,
+ "words_per_sec": 2.53,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 5.203,
-   "text": "Y'all, click this tiny disc... and cold liquid turns into hot crystals.",
+   "end": 4.732,
+   "text": "Y'all, click this disc... and cold liquid turns into hot crystals.",
    "words": [
     {
      "w": "Y'all,",
      "start": 0.143,
-     "end": 0.714
+     "end": 0.75
     },
     {
      "w": "click",
-     "start": 0.857,
-     "end": 1.071
+     "start": 0.929,
+     "end": 1.143
     },
     {
      "w": "this",
-     "start": 1.143,
+     "start": 1.25,
      "end": 1.357
     },
     {
-     "w": "tiny",
-     "start": 1.536,
-     "end": 1.714
-    },
-    {
      "w": "disc...",
-     "start": 1.857,
-     "end": 2.357
+     "start": 1.429,
+     "end": 1.937
     },
     {
      "w": "and",
-     "start": 2.5,
-     "end": 2.643
+     "start": 2.089,
+     "end": 2.232
     },
     {
      "w": "cold",
-     "start": 2.714,
-     "end": 3.0
+     "start": 2.304,
+     "end": 2.589
     },
     {
      "w": "liquid",
-     "start": 3.071,
-     "end": 3.429
+     "start": 2.661,
+     "end": 3.018
     },
     {
      "w": "turns",
-     "start": 3.5,
-     "end": 3.786
+     "start": 3.089,
+     "end": 3.339
     },
     {
      "w": "into",
-     "start": 3.893,
-     "end": 4.0
+     "start": 3.375,
+     "end": 3.589
     },
     {
      "w": "hot",
-     "start": 4.143,
-     "end": 4.357
+     "start": 3.732,
+     "end": 3.946
     },
     {
      "w": "crystals.",
-     "start": 4.5,
-     "end": 5.286
+     "start": 4.018,
+     "end": 4.804
     }
    ]
   },
   {
    "line": 2,
-   "start": 5.515,
-   "end": 10.247,
-   "text": "Frozen fingers, no campfire in your pocket. So where's this heat hiding?",
+   "start": 5.045,
+   "end": 9.73,
+   "text": "Frozen fingers. No fire in your pocket. So where's this heat from?",
    "words": [
     {
      "w": "Frozen",
-     "start": 5.618,
-     "end": 5.975
+     "start": 5.158,
+     "end": 5.587
     },
     {
-     "w": "fingers,",
-     "start": 6.118,
-     "end": 6.796
+     "w": "fingers.",
+     "start": 5.729,
+     "end": 6.515
     },
     {
-     "w": "no",
-     "start": 6.904,
-     "end": 7.046
+     "w": "No",
+     "start": 6.658,
+     "end": 6.801
     },
     {
-     "w": "campfire",
-     "start": 7.189,
-     "end": 7.618
+     "w": "fire",
+     "start": 6.944,
+     "end": 7.158
     },
     {
      "w": "in",
-     "start": 7.689,
-     "end": 7.761
+     "start": 7.229,
+     "end": 7.301
     },
     {
      "w": "your",
-     "start": 7.832,
-     "end": 7.904
+     "start": 7.408,
+     "end": 7.515
     },
     {
      "w": "pocket.",
-     "start": 7.975,
-     "end": 8.511
+     "start": 7.551,
+     "end": 8.122
     },
     {
      "w": "So",
-     "start": 8.689,
-     "end": 8.832
+     "start": 8.292,
+     "end": 8.435
     },
     {
      "w": "where's",
-     "start": 9.046,
-     "end": 9.261
+     "start": 8.649,
+     "end": 8.863
     },
     {
      "w": "this",
-     "start": 9.332,
-     "end": 9.475
+     "start": 8.935,
+     "end": 9.078
     },
     {
      "w": "heat",
-     "start": 9.546,
-     "end": 9.689
+     "start": 9.185,
+     "end": 9.292
     },
     {
-     "w": "hiding?",
-     "start": 9.761,
-     "end": 10.332
+     "w": "from?",
+     "start": 9.363,
+     "end": 9.863
     }
    ]
   },
   {
    "line": 3,
-   "start": 10.56,
-   "end": 15.113,
+   "start": 10.043,
+   "end": 14.596,
    "text": "So you fill a pouch with a salty liquid. Same salt as salt and vinegar chips!",
    "words": [
     {
      "w": "So",
-     "start": 10.774,
-     "end": 10.917
+     "start": 10.257,
+     "end": 10.4
     },
     {
      "w": "you",
-     "start": 10.988,
-     "end": 11.203
+     "start": 10.471,
+     "end": 10.686
     },
     {
      "w": "fill",
-     "start": 11.274,
-     "end": 11.346
+     "start": 10.757,
+     "end": 10.829
     },
     {
      "w": "a",
-     "start": 11.417,
-     "end": 11.488
+     "start": 10.9,
+     "end": 10.971
     },
     {
      "w": "pouch",
-     "start": 11.56,
-     "end": 11.846
+     "start": 11.043,
+     "end": 11.329
     },
     {
      "w": "with",
-     "start": 11.917,
-     "end": 11.988
+     "start": 11.4,
+     "end": 11.471
     },
     {
      "w": "a",
-     "start": 12.06,
-     "end": 12.131
+     "start": 11.543,
+     "end": 11.614
     },
     {
      "w": "salty",
-     "start": 12.203,
-     "end": 12.56
+     "start": 11.686,
+     "end": 12.043
     },
     {
      "w": "liquid.",
-     "start": 12.631,
-     "end": 13.06
+     "start": 12.114,
+     "end": 12.543
     },
     {
      "w": "Same",
-     "start": 13.274,
-     "end": 13.488
+     "start": 12.757,
+     "end": 12.971
     },
     {
      "w": "salt",
-     "start": 13.56,
-     "end": 13.774
+     "start": 13.043,
+     "end": 13.257
     },
     {
      "w": "as",
-     "start": 13.846,
-     "end": 13.917
+     "start": 13.329,
+     "end": 13.4
     },
     {
      "w": "salt",
-     "start": 14.024,
-     "end": 14.131
+     "start": 13.507,
+     "end": 13.614
     },
     {
      "w": "and",
-     "start": 14.167,
-     "end": 14.203
+     "start": 13.65,
+     "end": 13.686
     },
     {
      "w": "vinegar",
-     "start": 14.274,
-     "end": 14.56
+     "start": 13.757,
+     "end": 14.043
     },
     {
      "w": "chips!",
-     "start": 14.631,
-     "end": 15.203
+     "start": 14.114,
+     "end": 14.686
     }
    ]
   },
   {
    "line": 4,
-   "start": 15.426,
-   "end": 20.348,
+   "start": 14.909,
+   "end": 19.831,
    "text": "But it cools way down... and stays liquid. It's waiting for a push.",
    "words": [
     {
      "w": "But",
-     "start": 16.047,
-     "end": 16.119
+     "start": 15.529,
+     "end": 15.601
     },
     {
      "w": "it",
-     "start": 16.19,
-     "end": 16.262
+     "start": 15.673,
+     "end": 15.744
     },
     {
      "w": "cools",
-     "start": 16.333,
-     "end": 16.69
+     "start": 15.816,
+     "end": 16.172
     },
     {
      "w": "way",
-     "start": 16.833,
-     "end": 17.119
+     "start": 16.315,
+     "end": 16.601
     },
     {
      "w": "down...",
-     "start": 17.19,
-     "end": 17.708
+     "start": 16.673,
+     "end": 17.19
     },
     {
      "w": "and",
-     "start": 17.779,
-     "end": 17.851
+     "start": 17.262,
+     "end": 17.333
     },
     {
      "w": "stays",
-     "start": 17.922,
-     "end": 18.279
+     "start": 17.404,
+     "end": 17.762
     },
     {
      "w": "liquid.",
-     "start": 18.422,
-     "end": 18.881
+     "start": 17.905,
+     "end": 18.364
     },
     {
      "w": "It's",
-     "start": 18.994,
-     "end": 19.137
+     "start": 18.477,
+     "end": 18.62
     },
     {
      "w": "waiting",
-     "start": 19.208,
-     "end": 19.494
+     "start": 18.69,
+     "end": 18.976
     },
     {
      "w": "for",
-     "start": 19.565,
-     "end": 19.637
+     "start": 19.048,
+     "end": 19.119
     },
     {
      "w": "a",
-     "start": 19.708,
-     "end": 19.779
+     "start": 19.19,
+     "end": 19.262
     },
     {
      "w": "push.",
-     "start": 19.851,
-     "end": 20.494
+     "start": 19.334,
+     "end": 19.977
     }
    ]
   },
   {
    "line": 5,
-   "start": 20.661,
-   "end": 26.249,
-   "text": "So you click the disc. One tiny crystal starts, and the rest follow like dominoes.",
+   "start": 20.144,
+   "end": 25.098,
+   "text": "So you click the disc. One crystal starts, and the rest follow like dominoes.",
    "words": [
     {
      "w": "So",
-     "start": 20.875,
-     "end": 21.018
+     "start": 20.358,
+     "end": 20.501
     },
     {
      "w": "you",
-     "start": 21.089,
-     "end": 21.232
+     "start": 20.572,
+     "end": 20.715
     },
     {
      "w": "click",
-     "start": 21.304,
-     "end": 21.518
+     "start": 20.787,
+     "end": 21.001
     },
     {
      "w": "the",
-     "start": 21.589,
-     "end": 21.661
+     "start": 21.072,
+     "end": 21.144
     },
     {
      "w": "disc.",
-     "start": 21.732,
-     "end": 22.277
+     "start": 21.215,
+     "end": 21.751
     },
     {
      "w": "One",
-     "start": 22.42,
-     "end": 22.634
-    },
-    {
-     "w": "tiny",
-     "start": 22.705,
-     "end": 23.062
+     "start": 21.903,
+     "end": 22.046
     },
     {
      "w": "crystal",
-     "start": 23.134,
-     "end": 23.491
+     "start": 22.117,
+     "end": 22.474
     },
     {
      "w": "starts,",
-     "start": 23.562,
-     "end": 24.205
+     "start": 22.546,
+     "end": 23.01
     },
     {
      "w": "and",
-     "start": 24.277,
-     "end": 24.348
+     "start": 23.117,
+     "end": 23.188
     },
     {
      "w": "the",
-     "start": 24.384,
-     "end": 24.42
+     "start": 23.26,
+     "end": 23.331
     },
     {
      "w": "rest",
-     "start": 24.491,
-     "end": 24.777
+     "start": 23.403,
+     "end": 23.617
     },
     {
      "w": "follow",
-     "start": 24.848,
-     "end": 25.134
+     "start": 23.688,
+     "end": 23.974
     },
     {
      "w": "like",
-     "start": 25.205,
-     "end": 25.42
+     "start": 24.046,
+     "end": 24.26
     },
     {
      "w": "dominoes.",
-     "start": 25.527,
-     "end": 26.348
+     "start": 24.331,
+     "end": 25.188
     }
    ]
   },
   {
    "line": 6,
-   "start": 26.562,
-   "end": 29.028,
+   "start": 25.411,
+   "end": 27.876,
    "text": "But now it's a hard brick. Done.",
    "words": [
     {
      "w": "But",
-     "start": 26.679,
-     "end": 26.821
+     "start": 25.528,
+     "end": 25.671
     },
     {
      "w": "now",
-     "start": 26.893,
-     "end": 27.107
+     "start": 25.742,
+     "end": 25.956
     },
     {
      "w": "it's",
-     "start": 27.179,
-     "end": 27.321
+     "start": 26.028,
+     "end": 26.171
     },
     {
      "w": "a",
-     "start": 27.393,
-     "end": 27.464
+     "start": 26.242,
+     "end": 26.313
     },
     {
      "w": "hard",
-     "start": 27.536,
-     "end": 27.821
+     "start": 26.385,
+     "end": 26.671
     },
     {
      "w": "brick.",
-     "start": 27.893,
-     "end": 28.375
+     "start": 26.742,
+     "end": 27.224
     },
     {
      "w": "Done.",
-     "start": 28.554,
-     "end": 29.196
+     "start": 27.403,
+     "end": 28.046
     }
    ]
   },
   {
    "line": 7,
-   "start": 29.34,
-   "end": 32.64,
+   "start": 28.188,
+   "end": 31.488,
    "text": "So you boil it a few minutes. The crystals melt back.",
    "words": [
     {
      "w": "So",
-     "start": 29.548,
-     "end": 29.691
+     "start": 28.397,
+     "end": 28.54
     },
     {
      "w": "you",
-     "start": 29.762,
-     "end": 29.977
+     "start": 28.612,
+     "end": 28.826
     },
     {
      "w": "boil",
-     "start": 30.048,
-     "end": 30.334
+     "start": 28.897,
+     "end": 29.183
     },
     {
      "w": "it",
-     "start": 30.37,
-     "end": 30.405
+     "start": 29.219,
+     "end": 29.254
     },
     {
      "w": "a",
-     "start": 30.477,
-     "end": 30.548
+     "start": 29.326,
+     "end": 29.397
     },
     {
      "w": "few",
-     "start": 30.62,
-     "end": 30.691
+     "start": 29.469,
+     "end": 29.54
     },
     {
      "w": "minutes.",
-     "start": 30.762,
-     "end": 31.26
+     "start": 29.612,
+     "end": 30.108
     },
     {
      "w": "The",
-     "start": 31.414,
-     "end": 31.486
+     "start": 30.263,
+     "end": 30.335
     },
     {
      "w": "crystals",
-     "start": 31.557,
-     "end": 31.914
+     "start": 30.406,
+     "end": 30.763
     },
     {
      "w": "melt",
-     "start": 31.986,
-     "end": 32.2
+     "start": 30.835,
+     "end": 31.049
     },
     {
      "w": "back.",
-     "start": 32.379,
-     "end": 32.771
+     "start": 31.228,
+     "end": 31.621
     }
    ]
   },
   {
    "line": 8,
-   "start": 32.953,
-   "end": 36.59,
+   "start": 31.801,
+   "end": 35.439,
    "text": "But it cools off within an hour. Ski days are longer.",
    "words": [
     {
      "w": "But",
-     "start": 33.448,
-     "end": 33.52
+     "start": 32.297,
+     "end": 32.369
     },
     {
      "w": "it",
-     "start": 33.591,
-     "end": 33.662
+     "start": 32.44,
+     "end": 32.512
     },
     {
      "w": "cools",
-     "start": 33.734,
-     "end": 34.02
+     "start": 32.583,
+     "end": 32.869
     },
     {
      "w": "off",
-     "start": 34.091,
-     "end": 34.234
+     "start": 32.94,
+     "end": 33.083
     },
     {
      "w": "within",
-     "start": 34.377,
-     "end": 34.52
+     "start": 33.226,
+     "end": 33.369
     },
     {
      "w": "an",
-     "start": 34.591,
-     "end": 34.662
+     "start": 33.44,
+     "end": 33.512
     },
     {
      "w": "hour.",
-     "start": 34.841,
-     "end": 35.091
+     "start": 33.69,
+     "end": 33.94
     },
     {
      "w": "Ski",
-     "start": 35.314,
-     "end": 35.529
+     "start": 34.163,
+     "end": 34.378
     },
     {
      "w": "days",
-     "start": 35.6,
-     "end": 35.814
+     "start": 34.449,
+     "end": 34.663
     },
     {
      "w": "are",
-     "start": 35.886,
-     "end": 35.957
+     "start": 34.735,
+     "end": 34.806
     },
     {
      "w": "longer.",
-     "start": 36.029,
-     "end": 36.743
+     "start": 34.878,
+     "end": 35.592
     }
    ]
   },
   {
    "line": 9,
-   "start": 36.903,
-   "end": 41.776,
+   "start": 35.752,
+   "end": 40.624,
    "text": "So the throwaway kind rusts iron powder on purpose: warm for hours.",
    "words": [
     {
      "w": "So",
-     "start": 37.112,
-     "end": 37.255
+     "start": 35.962,
+     "end": 36.104
     },
     {
      "w": "the",
-     "start": 37.327,
-     "end": 37.398
+     "start": 36.176,
+     "end": 36.247
     },
     {
      "w": "throwaway",
-     "start": 37.541,
-     "end": 37.97
+     "start": 36.39,
+     "end": 36.819
     },
     {
      "w": "kind",
-     "start": 38.041,
-     "end": 38.255
+     "start": 36.89,
+     "end": 37.104
     },
     {
      "w": "rusts",
-     "start": 38.327,
-     "end": 38.648
+     "start": 37.176,
+     "end": 37.497
     },
     {
      "w": "iron",
-     "start": 38.684,
-     "end": 38.898
+     "start": 37.533,
+     "end": 37.747
     },
     {
      "w": "powder",
-     "start": 38.97,
-     "end": 39.255
+     "start": 37.819,
+     "end": 38.104
     },
     {
      "w": "on",
-     "start": 39.327,
-     "end": 39.398
+     "start": 38.176,
+     "end": 38.247
     },
     {
      "w": "purpose:",
-     "start": 39.541,
-     "end": 40.362
+     "start": 38.39,
+     "end": 39.212
     },
     {
      "w": "warm",
-     "start": 40.434,
-     "end": 40.72
+     "start": 39.283,
+     "end": 39.569
     },
     {
      "w": "for",
-     "start": 40.791,
-     "end": 41.005
+     "start": 39.64,
+     "end": 39.854
     },
     {
      "w": "hours.",
-     "start": 41.077,
-     "end": 41.862
+     "start": 39.926,
+     "end": 40.712
     }
    ]
   },
   {
    "line": 10,
-   "start": 42.088,
-   "end": 47.392,
-   "text": "Hit follow, 'cause next we're building a giant silver ring... that's a museum.",
+   "start": 40.937,
+   "end": 45.892,
+   "text": "Hit follow, 'cause next we're building a silver ring... that's a museum.",
    "words": [
     {
      "w": "Hit",
-     "start": 42.231,
-     "end": 42.374
+     "start": 41.008,
+     "end": 41.151
     },
     {
      "w": "follow,",
-     "start": 42.517,
-     "end": 43.088
+     "start": 41.294,
+     "end": 41.794
     },
     {
      "w": "'cause",
-     "start": 43.231,
-     "end": 43.446
+     "start": 42.008,
+     "end": 42.222
     },
     {
      "w": "next",
-     "start": 43.517,
-     "end": 43.803
+     "start": 42.365,
+     "end": 42.651
     },
     {
      "w": "we're",
-     "start": 43.874,
-     "end": 44.017
+     "start": 42.722,
+     "end": 42.865
     },
     {
      "w": "building",
-     "start": 44.16,
-     "end": 44.303
+     "start": 43.008,
+     "end": 43.151
     },
     {
      "w": "a",
-     "start": 44.41,
-     "end": 44.517
-    },
-    {
-     "w": "giant",
-     "start": 44.588,
-     "end": 45.017
+     "start": 43.222,
+     "end": 43.294
     },
     {
      "w": "silver",
-     "start": 45.088,
-     "end": 45.374
+     "start": 43.437,
+     "end": 43.579
     },
     {
      "w": "ring...",
-     "start": 45.446,
-     "end": 45.883
+     "start": 43.651,
+     "end": 44.204
     },
     {
      "w": "that's",
-     "start": 46.026,
-     "end": 46.24
+     "start": 44.276,
+     "end": 44.49
     },
     {
      "w": "a",
-     "start": 46.276,
-     "end": 46.312
+     "start": 44.562,
+     "end": 44.633
     },
     {
      "w": "museum.",
-     "start": 46.383,
-     "end": 46.954
+     "start": 44.669,
+     "end": 45.347
     }
    ]
   },
   {
    "line": 11,
-   "start": 47.704,
-   "end": 53.487,
+   "start": 46.204,
+   "end": 51.987,
    "text": "The trick? It gets hot by freezing! Turning solid lets out the heat you boiled in.",
    "words": [
     {
      "w": "The",
-     "start": 47.99,
-     "end": 48.133
+     "start": 46.49,
+     "end": 46.633
     },
     {
      "w": "trick?",
-     "start": 48.204,
-     "end": 48.847
+     "start": 46.704,
+     "end": 47.347
     },
     {
      "w": "It",
-     "start": 48.919,
-     "end": 48.99
+     "start": 47.419,
+     "end": 47.49
     },
     {
      "w": "gets",
-     "start": 49.062,
-     "end": 49.276
+     "start": 47.562,
+     "end": 47.776
     },
     {
      "w": "hot",
-     "start": 49.383,
-     "end": 49.49
+     "start": 47.883,
+     "end": 47.99
     },
     {
      "w": "by",
-     "start": 49.597,
-     "end": 49.704
+     "start": 48.097,
+     "end": 48.204
     },
     {
      "w": "freezing!",
-     "start": 49.847,
-     "end": 50.383
+     "start": 48.347,
+     "end": 48.883
     },
     {
      "w": "Turning",
-     "start": 51.18,
-     "end": 51.276
+     "start": 49.68,
+     "end": 49.776
     },
     {
      "w": "solid",
-     "start": 51.419,
-     "end": 51.776
+     "start": 49.919,
+     "end": 50.276
     },
     {
      "w": "lets",
-     "start": 51.847,
-     "end": 51.99
+     "start": 50.347,
+     "end": 50.49
     },
     {
      "w": "out",
-     "start": 52.062,
-     "end": 52.133
+     "start": 50.562,
+     "end": 50.633
     },
     {
      "w": "the",
-     "start": 52.204,
-     "end": 52.347
+     "start": 50.704,
+     "end": 50.847
     },
     {
      "w": "heat",
-     "start": 52.454,
-     "end": 52.562
+     "start": 50.954,
+     "end": 51.062
     },
     {
      "w": "you",
-     "start": 52.633,
-     "end": 52.776
+     "start": 51.133,
+     "end": 51.276
     },
     {
      "w": "boiled",
-     "start": 52.847,
-     "end": 53.133
+     "start": 51.347,
+     "end": 51.633
     },
     {
      "w": "in.",
-     "start": 53.204,
-     "end": 53.633
+     "start": 51.704,
+     "end": 52.133
     }
    ]
   },
   {
    "line": 12,
-   "start": 53.799,
-   "end": 58.536,
+   "start": 52.299,
+   "end": 57.037,
    "text": "One click, fifty four degrees, and the throwaway kind: up to ten hours.",
    "words": [
     {
      "w": "One",
-     "start": 53.942,
-     "end": 54.013
+     "start": 52.442,
+     "end": 52.513
     },
     {
      "w": "click,",
-     "start": 54.156,
-     "end": 54.585
+     "start": 52.656,
+     "end": 53.085
     },
     {
      "w": "fifty",
-     "start": 54.665,
-     "end": 54.879
+     "start": 53.165,
+     "end": 53.379
     },
     {
      "w": "four",
-     "start": 55.022,
-     "end": 55.094
+     "start": 53.522,
+     "end": 53.594
     },
     {
      "w": "degrees,",
-     "start": 55.165,
-     "end": 55.772
+     "start": 53.665,
+     "end": 54.272
     },
     {
      "w": "and",
-     "start": 55.879,
-     "end": 55.951
+     "start": 54.379,
+     "end": 54.451
     },
     {
      "w": "the",
-     "start": 56.022,
-     "end": 56.094
+     "start": 54.522,
+     "end": 54.594
     },
     {
      "w": "throwaway",
-     "start": 56.165,
-     "end": 56.594
+     "start": 54.665,
+     "end": 55.094
     },
     {
      "w": "kind:",
-     "start": 56.665,
-     "end": 57.094
+     "start": 55.165,
+     "end": 55.594
     },
     {
      "w": "up",
-     "start": 57.183,
-     "end": 57.326
+     "start": 55.683,
+     "end": 55.826
     },
     {
      "w": "to",
-     "start": 57.433,
-     "end": 57.54
+     "start": 55.933,
+     "end": 56.04
     },
     {
      "w": "ten",
-     "start": 57.683,
-     "end": 57.826
+     "start": 56.183,
+     "end": 56.326
     },
     {
      "w": "hours.",
-     "start": 57.969,
-     "end": 58.612
+     "start": 56.469,
+     "end": 57.112
     }
    ]
   },
   {
    "line": 13,
-   "start": 58.848,
-   "end": 61.955,
+   "start": 57.349,
+   "end": 60.456,
    "text": "And congrats, you just built a hand warmer yourself.",
    "words": [
     {
      "w": "And",
-     "start": 58.971,
-     "end": 58.991
+     "start": 57.471,
+     "end": 57.492
     },
     {
      "w": "congrats,",
-     "start": 59.062,
-     "end": 59.92
+     "start": 57.563,
+     "end": 58.421
     },
     {
      "w": "you",
-     "start": 60.062,
-     "end": 60.205
+     "start": 58.563,
+     "end": 58.706
     },
     {
      "w": "just",
-     "start": 60.312,
-     "end": 60.42
+     "start": 58.813,
+     "end": 58.921
     },
     {
      "w": "built",
-     "start": 60.527,
-     "end": 60.634
+     "start": 59.028,
+     "end": 59.135
     },
     {
      "w": "a",
-     "start": 60.67,
-     "end": 60.705
+     "start": 59.171,
+     "end": 59.206
     },
     {
      "w": "hand",
-     "start": 60.777,
-     "end": 60.991
+     "start": 59.278,
+     "end": 59.492
     },
     {
      "w": "warmer",
-     "start": 61.062,
-     "end": 61.277
+     "start": 59.563,
+     "end": 59.778
     },
     {
      "w": "yourself.",
-     "start": 61.348,
-     "end": 62.134
+     "start": 59.849,
+     "end": 60.635
     }
    ]
   },
   {
    "line": 14,
-   "start": 62.268,
-   "end": 67.978,
+   "start": 60.769,
+   "end": 66.478,
    "text": "Forget one in your back pocket, sit down... click. Heated seats!",
    "words": [
     {
      "w": "Forget",
-     "start": 62.839,
-     "end": 63.196
+     "start": 61.34,
+     "end": 61.697
     },
     {
      "w": "one",
-     "start": 63.268,
-     "end": 63.411
+     "start": 61.769,
+     "end": 61.912
     },
     {
      "w": "in",
-     "start": 63.446,
-     "end": 63.482
+     "start": 61.947,
+     "end": 61.983
     },
     {
      "w": "your",
-     "start": 63.554,
-     "end": 63.625
+     "start": 62.054,
+     "end": 62.126
     },
     {
      "w": "back",
-     "start": 63.696,
-     "end": 63.839
+     "start": 62.197,
+     "end": 62.34
     },
     {
      "w": "pocket,",
-     "start": 63.911,
-     "end": 64.491
+     "start": 62.412,
+     "end": 62.992
     },
     {
      "w": "sit",
-     "start": 64.562,
-     "end": 64.705
+     "start": 63.063,
+     "end": 63.206
     },
     {
      "w": "down...",
-     "start": 64.884,
-     "end": 65.214
+     "start": 63.385,
+     "end": 63.715
     },
     {
      "w": "click.",
-     "start": 65.357,
-     "end": 65.589
+     "start": 63.858,
+     "end": 64.09
     },
     {
      "w": "Heated",
-     "start": 66.839,
-     "end": 67.161
+     "start": 65.34,
+     "end": 65.662
     },
     {
      "w": "seats!",
-     "start": 67.304,
-     "end": 68.089
+     "start": 65.804,
+     "end": 66.59
     }
    ]
   }
