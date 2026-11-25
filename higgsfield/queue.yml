@@ -953,7 +953,10 @@ jobs:
     # and one-half minutes" for 180 degrees and "15 minutes to move boats from one level to the next" (the whole
     # passage). So say five minutes and a quarter of a million litres; the weight differs again ("1800 tonne" Scottish
     # Canals, "1,500-tonne" ASME): leave it out.
-    status: "generating (started: Nov 24 18:04 PT, main chat; Generating card confirmed)"
+    # Run: History 4314560b, created 18:04:33 PT by the main chat with the style line, the text below word for word,
+    # done by 18:13. Fetched by the hourly runner at 18:14 PT (8.2 MB).
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261125_020433_4314560b-0785-4bb7-88ce-2625d7f7a3bb.mp4
     file: buildit-falkirk-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a narrowboat floating in a long steel tub brimful of water rises through the sky on a giant
