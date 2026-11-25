@@ -1,4 +1,4 @@
-# Post status 2026-11-25T20:26:42+00:00
+# Post status 2026-11-25T21:05:13+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -430,8 +430,8 @@
 | ep82-hzmb | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T18:00:00.000Z |
 | ep82-hzmb | en.instagram | sent |  | 2026-11-25T15:04:22.302Z https://www.instagram.com/reel/DgKztGXMQHm/ |
 | ep82-hzmb | en.tiktok | sent |  | 2026-11-25T15:05:25.655Z https://tiktok.com/@congratsengineer/video/7712124938336914718 |
-| ep83-thermos | ar.instagram | scheduled |  | 2026-11-25T20:30:00.000Z |
-| ep83-thermos | ar.tiktok | scheduled |  | 2026-11-25T20:30:00.000Z |
+| ep83-thermos | ar.instagram | sent |  | 2026-11-25T20:32:20.574Z https://www.instagram.com/reel/DgLZMkMiRWE/ |
+| ep83-thermos | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T20:30:00.000Z |
 | ep83-thermos | en.instagram | sent |  | 2026-11-25T17:33:46.501Z https://www.instagram.com/reel/DgLEtoVKwPM/ |
 | ep83-thermos | en.tiktok | sent |  | 2026-11-25T17:33:00.153Z https://tiktok.com/@congratsengineer/video/7712163099251576077 |
 | ep84-hooverdam | ar.instagram | scheduled |  | 2026-11-25T23:00:00.000Z |
@@ -459,8 +459,10 @@
 | ep89-noor | en.instagram | scheduled |  | 2026-11-26T08:30:00.000Z |
 | ep89-noor | en.tiktok | scheduled |  | 2026-11-26T08:30:00.000Z |
 | ep90-pen | ar.instagram | scheduled |  | 2026-11-26T14:00:00.000Z |
+| ep90-pen | ar.tiktok | scheduled |  | 2026-11-26T14:00:00.000Z |
 | ep90-pen | en.instagram | scheduled |  | 2026-11-26T11:00:00.000Z |
 | ep90-pen | en.tiktok | scheduled |  | 2026-11-26T11:00:00.000Z |
+| ep91-arch | ar.instagram | scheduled |  | 2026-11-26T22:30:00.000Z |
 | ep91-arch | en.instagram | scheduled |  | 2026-11-26T18:30:00.000Z |
 | ep91-arch | en.tiktok | scheduled |  | 2026-11-26T18:30:00.000Z |
 | ep92-seatbelt | en.instagram | scheduled |  | 2026-11-26T21:00:00.000Z |

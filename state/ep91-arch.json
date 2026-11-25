@@ -17,6 +17,15 @@
    "dueAt": "2026-11-26T18:30:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-25T19:43:09+00:00"
+  },
+  "ar.instagram": {
+   "id": "6b074d77b39ac731b6fe8a02",
+   "channel": "6af2cd1062b70b94b0ded3ff",
+   "service": "instagram",
+   "status": "scheduled",
+   "dueAt": "2026-11-26T22:30:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-25T21:04:50+00:00"
   }
  }
 }
