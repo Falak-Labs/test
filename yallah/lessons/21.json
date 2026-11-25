@@ -1,0 +1,159 @@
+{
+ "title": "From the heart",
+ "slow_take": true,
+ "word": {
+  "full": "Unforgettable",
+  "parts": [
+   "Unfor",
+   "gettable"
+  ],
+  "say": [
+   "un-fer",
+   "GET-uh-bul"
+  ],
+  "tts": [
+   "Unfor",
+   "Gettable"
+  ],
+  "slow": "Unfor... gettable.",
+  "mean": "ما يتنساش",
+  "ar": {
+   "ma": "أنفورغيتابل",
+   "pa": "أنفورغيتابل"
+  }
+ },
+ "en": [
+  [
+   "I'm sorry.",
+   "A",
+   "sorry",
+   {}
+  ],
+  [
+   "It's okay.",
+   "L",
+   "smile",
+   {}
+  ],
+  [
+   "I love you.",
+   "A",
+   "heart",
+   {}
+  ],
+  [
+   "I miss you.",
+   "L",
+   "phone",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Kelma fiha 3 d l-kelmat: un, forget, able. Chnou kat3ni?",
+    "كلمة فيها ثلاثة د الكلمات: un، forget، able. شنو كتعني؟",
+    "One word made of 3: un, forget, able. What does it mean?"
+   ]
+  ],
+  "board": [
+   "ما يتنساش",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Sme7 lia.",
+    "سمح ليا."
+   ],
+   [
+    "Machi mouchkil.",
+    "ماشي مشكل."
+   ],
+   [
+    "Kanbghik.",
+    "كنبغيك."
+   ],
+   [
+    "Twe77echtek.",
+    "توحشتك."
+   ],
+   [
+    "3iyet lia!",
+    "عيط ليا!"
+   ]
+  ],
+  "ph5": [
+   "Call me!",
+   "A",
+   "phone",
+   {}
+  ],
+  "sent": {
+   "en": "Eid with the family is unforgettable!",
+   "hot": [
+    5
+   ],
+   "dz": "L-3id m3a l-3a2ila ma kaytnsach!",
+   "ar": "العيد مع العائلة ما كيتنساش!"
+  },
+  "ah": [
+   "أنفور",
+   "غيتابل"
+  ],
+  "mean": "ما يتنساش"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Kilme fiha 3 kalimat: un, forget, able. Shu ya3ni?",
+    "كلمة فيها تلات كلمات: un، forget، able. شو يعني؟",
+    "One word made of 3: un, forget, able. What does it mean?"
+   ]
+  ],
+  "board": [
+   "ما بنتسى",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Asif.",
+    "آسف."
+   ],
+   [
+    "Mish mushkle.",
+    "مش مشكلة."
+   ],
+   [
+    "Bahebbak.",
+    "بحبك."
+   ],
+   [
+    "Eshta2tilak.",
+    "اشتقتلك."
+   ],
+   [
+    "Ittasel fiyyi!",
+    "اتصل فيي!"
+   ]
+  ],
+  "ph5": [
+   "Call me!",
+   "A",
+   "phone",
+   {}
+  ],
+  "sent": {
+   "en": "Eid with the family is unforgettable!",
+   "hot": [
+    5
+   ],
+   "dz": "El-3id ma3 el-3ele ma bintasa!",
+   "ar": "العيد مع العيلة ما بنتسى!"
+  },
+  "ah": [
+   "أنفور",
+   "غيتابل"
+  ],
+  "mean": "ما بنتسى"
+ }
+}

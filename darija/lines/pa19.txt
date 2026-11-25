@@ -1,0 +1,12 @@
+# Yallah Say, episode 19 (pa): five phrases, quiz, hard word (Exhausted) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | آدم ركض عشرة كيلومترات. كيف بقول إنه تعبان كتير؟
+T | p01t | أنا مبسوط.
+T | p02t | أنا تعبان.
+T | p03t | أنا مريض.
+T | p04t | أنا بردان.
+T | p05t | أنا معصب!
+T | tw | Exhausted.
+T | w6 | Good job! Exhausted!
+T | v2 | بعد الماتش، أنا هلكان!
+T | Tsl | Exhaus... ted.

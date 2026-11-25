@@ -1,0 +1,12 @@
+# Yallah Say, episode 20 (pa): five phrases, quiz, hard word (Champion) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | لينا جابت تلات أهداف. شو بسموها؟
+T | p01t | يلا نلعب فوتبول!
+T | p02t | مرر الطابة!
+T | p03t | جول!
+T | p04t | ربحنا!
+T | p05t | كانت حلوة اللعبة.
+T | tw | Champion.
+T | w6 | Good job! Champion!
+T | v2 | أخوي هو بطل الحارة!
+T | Tsl | Cham... pion.

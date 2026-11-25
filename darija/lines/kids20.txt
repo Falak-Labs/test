@@ -1,0 +1,12 @@
+# Yallah Say, episode 20: the pupils' English lines that both dialects share (hard word: Champion).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | Let's play football!
+L | p02k | Pass the ball!
+A | p03k | Goal!
+L | p04k | We won!
+A | p05k | Good game.
+A | w5 | Champion!
+L | v1 | My brother is the champion of the neighbourhood!
+L | Lw | Champion!
+A | Asl | Cham... pion.
+L | Lsl | Cham... pion.

@@ -1,0 +1,159 @@
+{
+ "title": "Football",
+ "slow_take": true,
+ "word": {
+  "full": "Champion",
+  "parts": [
+   "Cham",
+   "pion"
+  ],
+  "say": [
+   "CHAM",
+   "pee-un"
+  ],
+  "tts": [
+   "Cham",
+   "Pion"
+  ],
+  "slow": "Cham... pion.",
+  "mean": "البطل",
+  "ar": {
+   "ma": "تشامبيون",
+   "pa": "تشامبيون"
+  }
+ },
+ "en": [
+  [
+   "Let's play football!",
+   "A",
+   "fe:ball",
+   {}
+  ],
+  [
+   "Pass the ball!",
+   "L",
+   "fe:running",
+   {}
+  ],
+  [
+   "Goal!",
+   "A",
+   "fe:goal",
+   {}
+  ],
+  [
+   "We won!",
+   "L",
+   "fe:trophy",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Lina dkhlat 3 d l-goals. Chnou kaysmmiwha?",
+    "لينا دخلات ثلاثة د الكوالات. شنو كيسميوها؟",
+    "Lina scored 3 goals. What do they call her?"
+   ]
+  ],
+  "board": [
+   "البطل",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Yallah nl3bo l-koura!",
+    "يالله نلعبو الكورة!"
+   ],
+   [
+    "Douwz l-koura!",
+    "دوز الكورة!"
+   ],
+   [
+    "But!",
+    "بوت!"
+   ],
+   [
+    "Rb7na!",
+    "ربحنا!"
+   ],
+   [
+    "Match zwin.",
+    "ماتش زوين."
+   ]
+  ],
+  "ph5": [
+   "Good game.",
+   "A",
+   "handshake",
+   {}
+  ],
+  "sent": {
+   "en": "My brother is the champion of the neighbourhood!",
+   "hot": [
+    4
+   ],
+   "dz": "Khoya howa l-batal d l-7ouma!",
+   "ar": "خويا هو البطل د الحومة!"
+  },
+  "ah": [
+   "تشام",
+   "بيون"
+  ],
+  "mean": "البطل"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Lina jabat 3 ahdaf. Shu bisammuha?",
+    "لينا جابت تلات أهداف. شو بسموها؟",
+    "Lina scored 3 goals. What do they call her?"
+   ]
+  ],
+  "board": [
+   "البطل",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Yalla nil3ab foutbol!",
+    "يلا نلعب فوتبول!"
+   ],
+   [
+    "Marrir el-tabe!",
+    "مرر الطابة!"
+   ],
+   [
+    "Gool!",
+    "جول!"
+   ],
+   [
+    "Rbi7na!",
+    "ربحنا!"
+   ],
+   [
+    "Kanat 7ilwe el-lo3be.",
+    "كانت حلوة اللعبة."
+   ]
+  ],
+  "ph5": [
+   "Good game.",
+   "A",
+   "handshake",
+   {}
+  ],
+  "sent": {
+   "en": "My brother is the champion of the neighbourhood!",
+   "hot": [
+    4
+   ],
+   "dz": "Akhui huwe batal el-7ara!",
+   "ar": "أخوي هو بطل الحارة!"
+  },
+  "ah": [
+   "تشام",
+   "بيون"
+  ],
+  "mean": "البطل"
+ }
+}

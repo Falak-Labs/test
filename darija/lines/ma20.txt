@@ -1,0 +1,12 @@
+# Yallah Say, episode 20 (ma): five phrases, quiz, hard word (Champion) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | لينا دخلات ثلاثة د الكوالات. شنو كيسميوها؟
+T | p01t | يالله نلعبو الكورة!
+T | p02t | دوز الكورة!
+T | p03t | بوت!
+T | p04t | ربحنا!
+T | p05t | ماتش زوين.
+T | tw | Champion.
+T | w6 | Good job! Champion!
+T | v2 | خويا هو البطل د الحومة!
+T | Tsl | Cham... pion.

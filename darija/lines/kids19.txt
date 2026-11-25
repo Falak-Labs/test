@@ -1,0 +1,12 @@
+# Yallah Say, episode 19: the pupils' English lines that both dialects share (hard word: Exhausted).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | I'm happy.
+L | p02k | I'm tired.
+A | p03k | I'm sick.
+L | p04k | I'm cold.
+A | p05k | I'm angry!
+A | w5 | Exhausted!
+L | v1 | After the match, I'm exhausted!
+L | Lw | Exhausted!
+A | Asl | Exhaus... ted.
+L | Lsl | Exhaus... ted.

@@ -1,0 +1,159 @@
+{
+ "title": "How do you feel?",
+ "slow_take": true,
+ "word": {
+  "full": "Exhausted",
+  "parts": [
+   "Exhaus",
+   "ted"
+  ],
+  "say": [
+   "ig-ZAWS",
+   "tid"
+  ],
+  "tts": [
+   "Exhaus",
+   "Ted"
+  ],
+  "slow": "Exhaus... ted.",
+  "mean": "مهدود",
+  "ar": {
+   "ma": "إيغزوستد",
+   "pa": "إيغزوستد"
+  }
+ },
+ "en": [
+  [
+   "I'm happy.",
+   "A",
+   "smile",
+   {}
+  ],
+  [
+   "I'm tired.",
+   "L",
+   "fe:sleepy",
+   {}
+  ],
+  [
+   "I'm sick.",
+   "A",
+   "sick",
+   {}
+  ],
+  [
+   "I'm cold.",
+   "L",
+   "cold",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Adam jra 10 kilometrat. Kifach ygoul rah 3iyan bzaf?",
+    "آدم جرا عشرة كيلومترات. كيفاش يقول راه عيان بزاف؟",
+    "Adam ran 10 km. How does he say he's very, very tired?"
+   ]
+  ],
+  "board": [
+   "مهدود",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Ana fer7an.",
+    "أنا فرحان."
+   ],
+   [
+    "Ana 3iyan.",
+    "أنا عيان."
+   ],
+   [
+    "Ana mrid.",
+    "أنا مريض."
+   ],
+   [
+    "Fiya l-berd.",
+    "فيا البرد."
+   ],
+   [
+    "Ana m9elleq!",
+    "أنا مقلق!"
+   ]
+  ],
+  "ph5": [
+   "I'm angry!",
+   "A",
+   "angry",
+   {}
+  ],
+  "sent": {
+   "en": "After the match, I'm exhausted!",
+   "hot": [
+    4
+   ],
+   "dz": "Men b3d l-match, ana mhdoud!",
+   "ar": "من بعد الماتش، أنا مهدود!"
+  },
+  "ah": [
+   "إيغزوس",
+   "تِد"
+  ],
+  "mean": "مهدود"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Adam rakad 10 kilometrat. Kif bi2ul innu ta3ban ktir?",
+    "آدم ركض عشرة كيلومترات. كيف بقول إنه تعبان كتير؟",
+    "Adam ran 10 km. How does he say he's very, very tired?"
+   ]
+  ],
+  "board": [
+   "هلكان",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Ana mabsut.",
+    "أنا مبسوط."
+   ],
+   [
+    "Ana ta3ban.",
+    "أنا تعبان."
+   ],
+   [
+    "Ana mareed.",
+    "أنا مريض."
+   ],
+   [
+    "Ana bardan.",
+    "أنا بردان."
+   ],
+   [
+    "Ana ma3assab!",
+    "أنا معصب!"
+   ]
+  ],
+  "ph5": [
+   "I'm angry!",
+   "A",
+   "angry",
+   {}
+  ],
+  "sent": {
+   "en": "After the match, I'm exhausted!",
+   "hot": [
+    4
+   ],
+   "dz": "Ba3d el-match, ana hal2an!",
+   "ar": "بعد الماتش، أنا هلكان!"
+  },
+  "ah": [
+   "إيغزوس",
+   "تِد"
+  ],
+  "mean": "هلكان"
+ }
+}

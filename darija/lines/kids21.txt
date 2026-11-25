@@ -1,0 +1,12 @@
+# Yallah Say, episode 21: the pupils' English lines that both dialects share (hard word: Unforgettable).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | I'm sorry.
+L | p02k | It's okay.
+A | p03k | I love you.
+L | p04k | I miss you.
+A | p05k | Call me!
+A | w5 | Unforgettable!
+L | v1 | Eid with the family is unforgettable!
+L | Lw | Unforgettable!
+A | Asl | Unfor... gettable.
+L | Lsl | Unfor... gettable.

@@ -1,0 +1,12 @@
+# Yallah Say, episode 21 (ma): five phrases, quiz, hard word (Unforgettable) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | كلمة فيها ثلاثة د الكلمات: un، forget، able. شنو كتعني؟
+T | p01t | سمح ليا.
+T | p02t | ماشي مشكل.
+T | p03t | كنبغيك.
+T | p04t | توحشتك.
+T | p05t | عيط ليا!
+T | tw | Unforgettable.
+T | w6 | Good job! Unforgettable!
+T | v2 | العيد مع العائلة ما كيتنساش!
+T | Tsl | Unfor... gettable.
