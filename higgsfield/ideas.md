@@ -2402,3 +2402,83 @@ New content
   [Peel Region](https://peelregion.ca/transportation/road-maintenance/winter-operations/anti-icing-pre-wetting),
   [Maine DOT, June 2022](https://www1.maine.gov/mdot/mlrc/docs/technical/2023/UnderstandingSalt.pdf),
   [USGS MCS 2026, salt](https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-salt.pdf)
+
+## 2026-11-25 11:00 PT (hourly runner, cloud run)
+
+Trends
+- Ski season opens this week, a news peg for the chairlift build below (new to these notes): Killington, Vermont,
+  opened on Tue Nov 17 and is "under the gun to make enough snow for the event" (its World Cup race), and "World Cup
+  race officials will be on-site Thursday to inspect the conditions" (that was Nov 19); Jay Peak opens on Thanksgiving
+  for passholders (WCAX, Nov 17 2026, upd. Nov 18). Snowbird, Utah, "intends to open on Nov. 27, pending weather
+  conditions", with "the new Chickadee Chairlift" (KUTV, Nov 12 2026). Snow-forecast's "Thanksgiving Storm Cycle"
+  roundup #290 ranks high but is dated Nov 26 2025: check the year before citing a Thanksgiving snow page.
+  [WCAX, Nov 17 2026](https://www.wcax.com/2026/11/17/skiers-return-killington-world-cup-snowmaking-deadline-approaches/),
+  [KUTV, Nov 12 2026](https://kutv.com/news/local/snowbird-targets-thanksgiving-weekend-opening-unveiling-upgrades-for-winter-season)
+- Instagram's Edits app has "Trending topics", which "will provide Reels creators with more insight into what's driving
+  engagement among audiences", for now only for creators with more than 10,000 followers (Social Media Today, Oct 15
+  2026, secondhand; the Reels-link removal in the same article is already in these notes). A place for the desk to
+  look for topics once an Instagram account of ours passes 10,000; the article's audio links and Kits are no use to us.
+  [Social Media Today, Oct 15 2026](https://www.socialmediatoday.com/news/meta-adds-audio-links-and-reference-reels-to-edits/833192/)
+
+Free footage and pictures
+- Freepik is now Magnific, and its free stock is usable for us with a credit line (new to these notes): "Freepik
+  renamed itself to Magnific on April 28, 2026" (dev.to, May 1 2026; tech.eu, Apr 28 2026), "freepik.com automatically
+  redirects to magnific.com" and "The full library transferred to magnific.com" (Magnific help page, undated). Mazwai's
+  home, licence and about pages also redirect to magnific.com when read from here (Nov 25). Magnific's licence table
+  gives the free licence's commercial use as "Yes, with attribution": "Designed by Magnific" "along with a link to
+  www.magnific.com", for a video "In the video credits, at the end of the video, or in the video description on the
+  hosting platform", for a social post "In the post caption or image description, with a link to magnific.com". The
+  videos page: "All videos can be used for both personal and commercial purposes" and "Any social media sharing is
+  allowed"; editing is allowed, but not to "Redistribute the original file" or use in logos. Some clips are marked
+  Premium; free download limits, a vertical filter and whether AI clips are mixed in were not found. For us: real
+  B-roll for the everyday builds after Nov 28, at the cost of a "Designed by Magnific" credit in the caption (post.py
+  would have to add it) or on an end card; check each clip's page for Premium and for recognisable people or brands.
+  [Magnific licences and attribution](https://www.magnific.com/ai/docs/licenses-attribution),
+  [Magnific videos](https://magnific.com/videos),
+  [Magnific help, Freepik is now Magnific](https://www.magnific.com/ai/docs/freepik-is-now-magnific),
+  [tech.eu, Apr 28 2026](https://tech.eu/2026/04/28/freepik-rebrands-as-magnific-unifying-its-ai-creative-stack-as-enterprise-and-no-collar-growth-accelerates/),
+  [dev.to, May 1 2026](https://dev.to/raxxostudios/freepik-just-rebranded-as-magnific-what-changes-for-solo-creators-1jac)
+
+New content
+- The chairlift, "the chair that lets go of the rope", a candidate build for ski season (new to these notes; not in
+  LINEUP, and no lift among the made builds): the first ones ran in December 1936, so December 2026 makes 90 years.
+  Checked facts: a railroad engineer, James Curran, worked from "conveyor belts used to load bananas onto ships in
+  Central America" (Smithsonian) and "replaced the hooks on which bananas hung with chairs" (Union Pacific, Dec 3 2019).
+  The lifts on Proctor and Dollar mountains at Sun Valley, Idaho "opened with the resort in December 1936" as "single
+  chairs that were affixed to an overhead cable" (Smithsonian), loading at "between four to five miles per hour", and
+  "A lift chair was attached to the side of a truck for the test", with roller skates for skis (UP). Before them, rope
+  tows and T-bars were "uncomfortable and awkward, and on occasion, dangerous" (Linda Hall Library, Jun 9 2022); one
+  1936 lift was "later replaced and moved to Rudd Mountain" and "has not operated since 1966" (Linda Hall). Today's fast
+  lift has a "spring-loaded cable grip which detaches at terminals", runs "averaging 1,000 feet per minute" against "a
+  typical fixed-grip speed of 500 feet per minute", and crawls through the station at "a typical speed of 200 feet per
+  minute" (Wikipedia, Detachable chairlift) on "rubber tires that guide chairs through the base terminal" (Colorado Ski
+  History). "Tension is provided either by a counterweight system or by hydraulic or pneumatic rams", for "variations
+  in rope length due to temperature" and to "maintain friction between the rope and the drive bullwheel"; "an
+  anti-rollback device (usually a cam) also acts on the bullwheel"; load tests use "bags of water" (Wikipedia,
+  Chairlift); "Insufficient grip force triggers an alarm and brings the lift to a halt" (a maker's line quoted by
+  Wikipedia). A chain (breaks marked "ours" are ours): A1, green banana bunches swing on hooks along a moving cable into
+  a ship's hold at a tropical port, then a hard cut to the same hooks carrying single wooden chairs up a snowy 1930s
+  mountain. A2, 1930s skiers seen from behind trudging up a steep slope in deep snow while a rope tow drags others,
+  wide. A3, in a rail yard a chair hanging from a tall wooden rig on the side of a moving truck scoops up a rider on
+  roller skates, seen from behind. A4 (ours), the chair never slows: at the bottom station it bumps a skier seen from
+  behind into the seat, poles flying. A5, macro cutaway of a station: a spring grip opens on a rail, the chair rolls
+  off the cable onto a row of spinning tires that slow it to walking pace, then speed it up, and the grip snaps shut on
+  the cable. A6 (ours), on a frozen night the long steel cable sags between the towers and slips on the big drive
+  wheel. B1, a giant concrete counterweight hanging in a tower pulls the wheel back and the cable runs taut again. B2
+  (ours), the motor stops with every uphill chair loaded and the cable starts creeping backwards. B3, a cam bites the
+  big wheel and the line stops dead, then a warning light flags a grip that holds too weakly. B4, a tease of whichever
+  build follows. B5, a load test: bags of water strapped to every uphill chair of a new six-seat lift, inspectors
+  watching from behind, then opening-day crowds from behind riding up. Line 12: "1,000 FT/MIN" (or "200" in the
+  station). Line 13: ninety years after the banana chairs, the chair lets go of the rope at every station and grabs it
+  again. B6: funny slow motion, a mitten slips from a rider's hand on a chairlift, tumbles down and lands on a snowman's
+  head. Check before a line uses them: Wikipedia's first high-speed detachable quad (Breckenridge, 1981) is marked
+  "citation needed", its Chairlift page contradicts the detachable page on loading speeds, and the Sun Valley lift
+  lengths differ between Smithsonian and Linda Hall. No makers' names on screen and no real people's faces (Curran
+  and the resort's founder in words only, if at all). Free video ends Nov 28, so if the main chat wants this build its
+  pair has to run by then.
+  [Smithsonian](https://www.smithsonianmag.com/innovation/how-railroad-engineer-from-nebraska-invented-worlds-first-ski-chairlift-180976878/),
+  [Union Pacific, Dec 3 2019](https://www.up.com/news/heritage/tr071719-ski-lift),
+  [Linda Hall Library, Jun 9 2022](https://www.lindahall.org/about/news/scientist-of-the-day/james-curran),
+  [Wikipedia, Detachable chairlift](https://en.wikipedia.org/wiki/Detachable_chairlift),
+  [Wikipedia, Chairlift](https://en.wikipedia.org/wiki/Chairlift),
+  [Colorado Ski History](https://coloradoskihistory.com/chairlift/hsq2.html)
