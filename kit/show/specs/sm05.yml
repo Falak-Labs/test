@@ -27,7 +27,7 @@ levels:
     en: {world: "ABU DHABI", boss: "THE FRYING PAN", sub: "A SEASIDE PLAZA  ·  HOT AS A FRYING PAN", unlocked: "THE LOUVRE ABU DHABI",
          stamp: "FRYING", chips: [["180 m", "ONE DOME"], ["7,850", "METAL STARS"], ["7,500 t", "OF DOME"]],
          shot: 2.0, still: 3.0}       # the dome close up, light raining through it
-    ar: {world: "أبوظبي", boss: "شمس أبوظبي", sub: "ساحة على البحر  ·  والشمس مخليتها فرن", unlocked: "اللوفر أبوظبي",
+    ar: {world: "أبوظبي", boss: "شمس أبوظبي", sub: "ساحة على البحر  ·  صارت فرن", unlocked: "اللوفر أبوظبي",
          stamp: "فرن", chips: [["180 m", "عرض القبة"], ["7,850", "نجمة حديد"], ["7,500 t", "وزن القبة"]],
          shot: 2.0, still: 3.0}
   - kit: maraya
@@ -37,7 +37,7 @@ levels:
          stamp: "ROASTING", chips: [["~10,000", "SQ M OF MIRROR"], ["4", "WALLS OF MIRROR"], ["1", "GUINNESS RECORD"]],
          shot: 3.9, still: 4.3}       # the valley with the sun flashing off the mirror wall
     ar: {world: "العلا", boss: "شمس الصحرا", sub: "صندوق كبير في الصحرا  ·  ينطبخ مثل الفرن", unlocked: "مرايا العلا",
-         stamp: "ينطبخ", chips: [["~10,000", "متر مربع مرايا"], ["4", "جدران مرايا"], ["1", "رقم قياسي بغينيس"]],
+         stamp: "ينطبخ", chips: [["~10,000", "متر مربع مرايا"], ["4", "جدران مرايا"], ["1", "رقم غينيس"]],
          shot: 3.3, still: 3.8}
 en:
   chip: "SURVIVAL MODE  ·  YOU VS THE SUN"
