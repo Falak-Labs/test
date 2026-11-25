@@ -1,4 +1,4 @@
-# Post status 2026-11-25T02:48:40+00:00
+# Post status 2026-11-25T03:07:30+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -421,18 +421,26 @@
 | ep81-zipper | en.instagram | scheduled |  | 2026-11-25T12:30:00.000Z |
 | ep81-zipper | en.tiktok | scheduled |  | 2026-11-25T12:30:00.000Z |
 | ep82-hzmb | ar.instagram | scheduled |  | 2026-11-25T18:00:00.000Z |
+| ep82-hzmb | ar.tiktok | scheduled |  | 2026-11-25T18:00:00.000Z |
 | ep82-hzmb | en.instagram | scheduled |  | 2026-11-25T15:00:00.000Z |
 | ep82-hzmb | en.tiktok | scheduled |  | 2026-11-25T15:00:00.000Z |
 | ep83-thermos | ar.instagram | scheduled |  | 2026-11-25T20:30:00.000Z |
+| ep83-thermos | ar.tiktok | scheduled |  | 2026-11-25T20:30:00.000Z |
 | ep83-thermos | en.instagram | scheduled |  | 2026-11-25T17:30:00.000Z |
 | ep83-thermos | en.tiktok | scheduled |  | 2026-11-25T17:30:00.000Z |
 | ep84-hooverdam | ar.instagram | scheduled |  | 2026-11-25T23:00:00.000Z |
+| ep84-hooverdam | ar.tiktok | scheduled |  | 2026-11-25T23:00:00.000Z |
 | ep84-hooverdam | en.instagram | scheduled |  | 2026-11-25T20:00:00.000Z |
 | ep84-hooverdam | en.tiktok | scheduled |  | 2026-11-25T20:00:00.000Z |
 | ep85-dubaiframe | ar.instagram | scheduled |  | 2026-11-26T01:30:00.000Z |
 | ep85-dubaiframe | en.instagram | scheduled |  | 2026-11-25T22:30:00.000Z |
 | ep85-dubaiframe | en.tiktok | scheduled |  | 2026-11-25T22:30:00.000Z |
 | ep86-kettle | ar.instagram | scheduled |  | 2026-11-26T04:00:00.000Z |
+| ep86-kettle | en.instagram | scheduled |  | 2026-11-26T01:00:00.000Z |
+| ep86-kettle | en.tiktok | scheduled |  | 2026-11-26T01:00:00.000Z |
+| ep87-balloon | ar.instagram | scheduled |  | 2026-11-26T06:30:00.000Z |
+| ep87-balloon | en.instagram | scheduled |  | 2026-11-26T03:30:00.000Z |
+| ep87-balloon | en.tiktok | scheduled |  | 2026-11-26T03:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://www.tiktok.com/@congratsengineer/video/7710759443809553677?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
