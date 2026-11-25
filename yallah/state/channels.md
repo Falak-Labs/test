@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-25T02:58:31+00:00
+# Yallah Say Buffer channels, checked 2026-11-25T22:14:19+00:00
 
 - ma: Buffer sees youtube (Yallah Say 🇲🇦), tiktok (yallah.say), instagram (yallahsayma)
 - ma.youtube: will post to Yallah Say 🇲🇦
@@ -7,80 +7,84 @@
 - ep01 ma.instagram: sent, sent 2026-11-22T02:05:26.066Z, https://www.instagram.com/reel/DgBsLNXD8J0/
 - ep01 ma.tiktok: not in Buffer's lists (id 6b024b91c72676f5e9f671ae)
 - ep02 ma.instagram: sent, sent 2026-11-22T07:01:39.127Z, https://www.instagram.com/reel/DgCNvCfmi1u/
-- ep02 ma.tiktok: sent, sent 2026-11-22T07:00:41.908Z, https://tiktok.com/@yallah.say/video/7710886883647065358
+- ep02 ma.tiktok: sent, sent 2026-11-22T07:00:41.908Z, https://www.tiktok.com/@yallah.say/video/7710886883647065358
 - ep02 ma.youtube: sent, sent 2026-11-22T06:57:46.468Z, https://www.youtube.com/shorts/NRik6BrzJkQ
 - ep03 ma.instagram: sent, sent 2026-11-22T07:30:54.948Z, https://www.instagram.com/reel/DgCROzSjjch/
-- ep03 ma.tiktok: sent, sent 2026-11-22T07:27:56.378Z, https://tiktok.com/@yallah.say/video/7710893842702060813
+- ep03 ma.tiktok: sent, sent 2026-11-22T07:27:56.378Z, https://www.tiktok.com/@yallah.say/video/7710893842702060813
 - ep03 ma.youtube: sent, sent 2026-11-22T07:26:16.627Z, https://www.youtube.com/shorts/Qu5omoUzjFA
 - ep04 ma.instagram: sent, sent 2026-11-22T20:09:15.764Z, https://www.instagram.com/reel/DgDoM6qlK9X/
-- ep04 ma.tiktok: sent, sent 2026-11-22T20:11:11.524Z, https://tiktok.com/@yallah.say/video/7711090421543324942
+- ep04 ma.tiktok: sent, sent 2026-11-22T20:11:11.524Z, https://www.tiktok.com/@yallah.say/video/7711090421543324942
 - ep05 ma.instagram: sent, sent 2026-11-22T20:26:14.234Z, https://www.instagram.com/reel/DgDqJW1GQRJ/
-- ep05 ma.tiktok: sent, sent 2026-11-22T20:29:11.473Z, https://tiktok.com/@yallah.say/video/7711095081670888735
+- ep05 ma.tiktok: sent, sent 2026-11-22T20:29:11.473Z, https://www.tiktok.com/@yallah.say/video/7711095081670888735
 - ep06 ma.instagram: sent, sent 2026-11-22T20:48:42.685Z, https://www.instagram.com/reel/DgDsuCxFebd/
-- ep06 ma.tiktok: sent, sent 2026-11-22T20:47:56.711Z, https://tiktok.com/@yallah.say/video/7711099954361601294
+- ep06 ma.tiktok: sent, sent 2026-11-22T20:47:56.711Z, https://www.tiktok.com/@yallah.say/video/7711099954361601294
 - ep07 ma.youtube: sent, sent 2026-11-23T14:36:08.126Z, https://www.youtube.com/shorts/zDsbUPxflAg
 - ep07 ma.instagram: sent, sent 2026-11-23T14:37:12.543Z, https://www.instagram.com/reel/DgFm17_Eevh/
-- ep07 ma.tiktok: sent, sent 2026-11-23T14:34:12.750Z, https://tiktok.com/@yallah.say/video/7711374902502165774
+- ep07 ma.tiktok: sent, sent 2026-11-23T14:34:12.750Z, https://www.tiktok.com/@yallah.say/video/7711374902502165774
 - ep08 ma.instagram: sent, sent 2026-11-23T21:41:43.757Z, https://www.instagram.com/reel/DgGXZHkD7Ut/
-- ep08 ma.tiktok: sent, sent 2026-11-23T21:39:42.323Z, https://tiktok.com/@yallah.say/video/7711484332573019406
+- ep08 ma.tiktok: sent, sent 2026-11-23T21:39:42.323Z, https://www.tiktok.com/@yallah.say/video/7711484332573019406
 - ep09 ma.youtube: sent, sent 2026-11-23T22:21:48.685Z, https://www.youtube.com/shorts/SGHdFUirtK8
 - ep09 ma.instagram: sent, sent 2026-11-23T22:24:42.494Z, https://www.instagram.com/reel/DgGcRpyivIa/
-- ep09 ma.tiktok: sent, sent 2026-11-23T22:24:26.535Z, https://tiktok.com/@yallah.say/video/7711495876186803469
+- ep09 ma.tiktok: sent, sent 2026-11-23T22:24:26.535Z, https://www.tiktok.com/@yallah.say/video/7711495876186803469
 - ep10 ma.youtube: error, due 2026-11-24T13:02:41.000Z, ERROR {'message': 'The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later.', 'rawError': "Looks like you've hit the limit of 2 posts per 24 hours.", 'support
 - ep10 ma.instagram: sent, sent 2026-11-24T13:07:54.610Z, https://www.instagram.com/reel/DgIBlnYkrUo/
-- ep10 ma.tiktok: sent, sent 2026-11-24T13:07:43.013Z, https://tiktok.com/@yallah.say/video/7711723432685112590
+- ep10 ma.tiktok: sent, sent 2026-11-24T13:07:43.013Z, https://www.tiktok.com/@yallah.say/video/7711723432685112590
 - ep11 ma.instagram: sent, sent 2026-11-24T18:33:28.695Z, https://www.instagram.com/reel/DgIm1eXHIE_/
-- ep11 ma.tiktok: sent, sent 2026-11-24T18:33:09.891Z, https://tiktok.com/@yallah.say/video/7711807559056870670
+- ep11 ma.tiktok: sent, sent 2026-11-24T18:33:09.891Z, https://www.tiktok.com/@yallah.say/video/7711807559056870670
 - ep12 ma.youtube: sent, sent 2026-11-24T21:31:03.324Z, https://www.youtube.com/shorts/u_GSYQTBjlw
 - ep12 ma.instagram: sent, sent 2026-11-24T21:33:16.573Z, https://www.instagram.com/reel/DgI7ZwfjULc/
-- ep12 ma.tiktok: sent, sent 2026-11-24T21:32:57.170Z, https://tiktok.com/@yallah.say/video/7711853703136840973
-- ep13 ma.youtube: scheduled, due 2026-11-25T13:02:44.000Z
-- ep13 ma.instagram: scheduled, due 2026-11-25T13:02:42.000Z
-- ep13 ma.tiktok: scheduled, due 2026-11-25T13:00:42.000Z
-- ep14 ma.instagram: scheduled, due 2026-11-25T18:32:39.000Z
-- ep14 ma.tiktok: scheduled, due 2026-11-25T18:30:34.000Z
-- ep15 ma.youtube: scheduled, due 2026-11-25T21:31:57.000Z
-- ep15 ma.instagram: scheduled, due 2026-11-25T21:32:21.000Z
-- ep15 ma.tiktok: scheduled, due 2026-11-25T21:30:19.000Z
+- ep12 ma.tiktok: sent, sent 2026-11-24T21:32:57.170Z, https://www.tiktok.com/@yallah.say/video/7711853703136840973
+- ep13 ma.youtube: sent, sent 2026-11-25T13:06:00.011Z, https://www.youtube.com/shorts/fL5g4qZSENo
+- ep13 ma.instagram: sent, sent 2026-11-25T13:08:38.506Z, https://www.instagram.com/reel/DgKmdgIMT-J/
+- ep13 ma.tiktok: sent, sent 2026-11-25T13:07:07.530Z, https://www.tiktok.com/@yallah.say/video/7712094590630645005
+- ep14 ma.instagram: sent, sent 2026-11-25T18:33:39.734Z, https://www.instagram.com/reel/DgLLqapBWx8/
+- ep14 ma.tiktok: sent, sent 2026-11-25T18:32:41.337Z, https://tiktok.com/@yallah.say/video/7712178608709586190
+- ep15 ma.youtube: sent, sent 2026-11-25T21:32:02.531Z, https://www.youtube.com/shorts/8nBUqNxngjY
+- ep15 ma.instagram: sent, sent 2026-11-25T21:33:26.594Z, https://www.instagram.com/reel/DgLgOjNTJEN/
+- ep15 ma.tiktok: sent, sent 2026-11-25T21:31:29.331Z, https://tiktok.com/@yallah.say/video/7712224698326699277
+- ep16 ma.instagram: scheduled, due 2026-11-26T13:02:48.000Z
+- ep16 ma.tiktok: scheduled, due 2026-11-26T13:02:05.000Z
 - pa: Buffer sees youtube (Yalla Say 🇵🇸), tiktok (yallahsaypa), instagram (yallahsaypa)
 - pa.youtube: will post to Yalla Say 🇵🇸
 - pa.instagram: will post to yallahsaypa
 - pa.tiktok: will post to yallahsaypa
 - ep01 pa.instagram: sent, sent 2026-11-22T02:58:59.073Z, https://www.instagram.com/reel/DgByHtKhEog/
-- ep01 pa.tiktok: sent, sent 2026-11-22T02:57:11.918Z, https://tiktok.com/@yallahsaypa/video/7710823964628618509
+- ep01 pa.tiktok: sent, sent 2026-11-22T02:57:11.918Z, https://www.tiktok.com/@yallahsaypa/video/7710823964628618509
 - ep01 pa.youtube: sent, sent 2026-11-22T03:05:05.810Z, https://www.youtube.com/shorts/gwbWb56Hdfo
 - ep02 pa.instagram: sent, sent 2026-11-22T07:02:39.153Z, https://www.instagram.com/reel/DgCOMJgMEhR/
-- ep02 pa.tiktok: sent, sent 2026-11-22T07:01:44.400Z, https://tiktok.com/@yallahsaypa/video/7710887184865266957
+- ep02 pa.tiktok: sent, sent 2026-11-22T07:01:44.400Z, https://www.tiktok.com/@yallahsaypa/video/7710887184865266957
 - ep02 pa.youtube: sent, sent 2026-11-22T07:01:05.846Z, https://www.youtube.com/shorts/i-OiNOF_OeY
 - ep03 pa.instagram: sent, sent 2026-11-22T07:29:56.295Z, https://www.instagram.com/reel/DgCRT4nRUBj/
-- ep03 pa.tiktok: sent, sent 2026-11-22T07:29:11.475Z, https://tiktok.com/@yallahsaypa/video/7710894216800390413
+- ep03 pa.tiktok: sent, sent 2026-11-22T07:29:11.475Z, https://www.tiktok.com/@yallahsaypa/video/7710894216800390413
 - ep04 pa.instagram: sent, sent 2026-11-22T20:09:42.541Z, https://www.instagram.com/reel/DgDoQmAzNm9/
-- ep04 pa.tiktok: sent, sent 2026-11-22T20:11:11.581Z, https://tiktok.com/@yallahsaypa/video/7711090433471892749
+- ep04 pa.tiktok: sent, sent 2026-11-22T20:11:11.581Z, https://www.tiktok.com/@yallahsaypa/video/7711090433471892749
 - ep05 pa.instagram: sent, sent 2026-11-22T20:26:26.116Z, https://www.instagram.com/reel/DgDqLKeN4wB/
-- ep05 pa.tiktok: sent, sent 2026-11-22T20:28:26.449Z, https://tiktok.com/@yallahsaypa/video/7711094933020544269
+- ep05 pa.tiktok: sent, sent 2026-11-22T20:28:26.449Z, https://www.tiktok.com/@yallahsaypa/video/7711094933020544269
 - ep06 pa.instagram: sent, sent 2026-11-22T20:49:13.798Z, https://www.instagram.com/reel/DgDsp9gsJB_/
-- ep06 pa.tiktok: sent, sent 2026-11-22T20:47:42.887Z, https://tiktok.com/@yallahsaypa/video/7711099885348572429
+- ep06 pa.tiktok: sent, sent 2026-11-22T20:47:42.887Z, https://www.tiktok.com/@yallahsaypa/video/7711099885348572429
 - ep07 pa.youtube: sent, sent 2026-11-23T14:34:17.201Z, https://www.youtube.com/shorts/T7WN8whdSNM
 - ep07 pa.instagram: sent, sent 2026-11-23T14:35:26.019Z, https://www.instagram.com/reel/DgFmzXSBvEc/
-- ep07 pa.tiktok: sent, sent 2026-11-23T14:34:57.177Z, https://tiktok.com/@yallahsaypa/video/7711375034702449933
+- ep07 pa.tiktok: sent, sent 2026-11-23T14:34:57.177Z, https://www.tiktok.com/@yallahsaypa/video/7711375034702449933
 - ep08 pa.instagram: sent, sent 2026-11-23T21:40:27.161Z, https://www.instagram.com/reel/DgGXOcXJBMG/
-- ep08 pa.tiktok: sent, sent 2026-11-23T21:38:26.815Z, https://tiktok.com/@yallahsaypa/video/7711484059926531342
+- ep08 pa.tiktok: sent, sent 2026-11-23T21:38:26.815Z, https://www.tiktok.com/@yallahsaypa/video/7711484059926531342
 - ep09 pa.youtube: sent, sent 2026-11-23T22:22:31.540Z, https://www.youtube.com/shorts/Bp28ya-ZnEk
 - ep09 pa.instagram: sent, sent 2026-11-23T22:23:39.106Z, https://www.instagram.com/reel/DgGcY50qkUw/
-- ep09 pa.tiktok: sent, sent 2026-11-23T22:21:43.280Z, https://tiktok.com/@yallahsaypa/video/7711495393363774734
+- ep09 pa.tiktok: sent, sent 2026-11-23T22:21:43.280Z, https://www.tiktok.com/@yallahsaypa/video/7711495393363774734
 - ep10 pa.youtube: error, due 2026-11-24T11:32:25.000Z, ERROR {'message': 'The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later.', 'rawError': "Looks like you've hit the limit of 2 posts per 24 hours.", 'support
 - ep10 pa.instagram: sent, sent 2026-11-24T11:33:00.709Z, https://www.instagram.com/reel/DgH2t4gy_fv/
-- ep10 pa.tiktok: sent, sent 2026-11-24T11:32:26.777Z, https://tiktok.com/@yallahsaypa/video/7711699065133616397
+- ep10 pa.tiktok: sent, sent 2026-11-24T11:32:26.777Z, https://www.tiktok.com/@yallahsaypa/video/7711699065133616397
 - ep11 pa.instagram: sent, sent 2026-11-24T16:09:06.636Z, https://www.instagram.com/reel/DgIWPhDB3xE/
-- ep11 pa.tiktok: sent, sent 2026-11-24T16:09:10.904Z, https://tiktok.com/@yallahsaypa/video/7711770275959835917
+- ep11 pa.tiktok: sent, sent 2026-11-24T16:09:10.904Z, https://www.tiktok.com/@yallahsaypa/video/7711770275959835917
 - ep12 pa.youtube: sent, sent 2026-11-24T19:05:17.787Z, https://www.youtube.com/shorts/z0hwHje7FwU
 - ep12 pa.instagram: sent, sent 2026-11-24T19:08:28.802Z, https://www.instagram.com/reel/DgIqtaFhYIk/
-- ep12 pa.tiktok: sent, sent 2026-11-24T19:07:45.231Z, https://tiktok.com/@yallahsaypa/video/7711816396824530189
-- ep13 pa.youtube: scheduled, due 2026-11-25T11:30:38.000Z
-- ep13 pa.instagram: scheduled, due 2026-11-25T11:31:28.000Z
-- ep13 pa.tiktok: scheduled, due 2026-11-25T11:30:26.000Z
-- ep14 pa.instagram: scheduled, due 2026-11-25T16:02:21.000Z
-- ep14 pa.tiktok: scheduled, due 2026-11-25T16:01:29.000Z
-- ep15 pa.youtube: scheduled, due 2026-11-25T19:02:42.000Z
-- ep15 pa.instagram: scheduled, due 2026-11-25T19:00:55.000Z
-- ep15 pa.tiktok: scheduled, due 2026-11-25T19:02:50.000Z
+- ep12 pa.tiktok: sent, sent 2026-11-24T19:07:45.231Z, https://www.tiktok.com/@yallahsaypa/video/7711816396824530189
+- ep13 pa.youtube: sent, sent 2026-11-25T11:31:26.263Z, https://www.youtube.com/shorts/b9H8bFLtLbk
+- ep13 pa.instagram: sent, sent 2026-11-25T11:33:14.564Z, https://www.instagram.com/reel/DgKbi-IImk2/
+- ep13 pa.tiktok: sent, sent 2026-11-25T11:32:13.058Z, https://www.tiktok.com/@yallahsaypa/video/7712070254804929806
+- ep14 pa.instagram: sent, sent 2026-11-25T16:09:29.802Z, https://www.instagram.com/reel/DgK7H4vqJfV/
+- ep14 pa.tiktok: sent, sent 2026-11-25T16:08:36.923Z, https://www.tiktok.com/@yallahsaypa/video/7712141408311807246
+- ep15 pa.youtube: sent, sent 2026-11-25T19:06:17.870Z, https://www.youtube.com/shorts/9cmQVXMGNV8
+- ep15 pa.instagram: sent, sent 2026-11-25T19:08:46.995Z, https://www.instagram.com/reel/DgLPoTEhWE8/
+- ep15 pa.tiktok: sent, sent 2026-11-25T19:07:58.234Z, https://tiktok.com/@yallahsaypa/video/7712187449547525390
+- ep16 pa.instagram: scheduled, due 2026-11-26T11:31:47.000Z
+- ep16 pa.tiktok: scheduled, due 2026-11-26T11:30:52.000Z
