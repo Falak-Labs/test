@@ -93,3 +93,5 @@ episodes:
   - {slug: pontdugard-b88, kit: pontdugard, look: sd}
   - {slug: noor-b89, kit: noor, look: sd}
   - {slug: pen-b90, kit: pen, look: sd}
+  - {slug: arch-b91, kit: arch, look: sd}
+  - {slug: seatbelt-b92, kit: seatbelt, look: sd}
