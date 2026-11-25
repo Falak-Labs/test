@@ -6,7 +6,7 @@ video:
 hold: [en.youtube, ar.youtube]
 studio: 1
 en:
-  at: "2026-11-26T16:00:00Z"
+  at: "2026-11-26T21:00:00Z"    # 13:00 PT Thu Nov 26, after 91 (moved by the evening run of Nov 24: it collided with 77 at 16:00Z)
   title: "Seatbelt: The Tiny Pendulum That Locks It 🚗"
   text: |
     The belt across your chest does one trick: it locks when you need it. 🚗
@@ -19,7 +19,9 @@ en:
     instagram: "#seatbelt #cars #howitworks #safety #engineering"
     youtube: "#seatbelt #cars #howitworks"
 ar:
-  at: "2026-11-26T20:00:00Z"
+  at:
+    default: "2026-11-27T01:00:00Z"    # Instagram 17:00 PT Thu Nov 26, after 91
+    tiktok: "2026-11-27T05:30:00Z"     # 21:30 PT: 3 h after 91's Arabic TikTok
   title: "حزام الأمان: بندول صغير يقفله 🚗"
   text: |
     الحزام اللي على صدرك له حركة وحدة: يتقفل لما تحتاجه! 🚗

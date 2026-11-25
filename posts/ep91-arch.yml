@@ -6,7 +6,7 @@ video:
 hold: [en.youtube, ar.youtube]
 studio: 1
 en:
-  at: "2026-11-26T13:30:00Z"
+  at: "2026-11-26T18:30:00Z"    # 10:30 PT Thu Nov 26, after 77 (moved by the evening run of Nov 24: it collided with 76 at 13:30Z)
   title: "Gateway Arch: How Two Legs Met 192 m Up 🏙️"
   text: |
     Two steel legs leaning toward each other, with nothing in between. 🏙️
@@ -19,7 +19,9 @@ en:
     instagram: "#gatewayarch #stlouis #engineering #construction #architecture"
     youtube: "#gatewayarch #stlouis #engineering"
 ar:
-  at: "2026-11-26T17:00:00Z"
+  at:
+    default: "2026-11-26T22:30:00Z"    # Instagram 14:30 PT Thu Nov 26, after 77 (12:00 PT)
+    tiktok: "2026-11-27T02:30:00Z"     # 18:30 PT: 3 h after 77's Arabic TikTok (15:30 PT)
   title: "قوس البوابة: كيف التقت الساقين على ارتفاع ١٩٢ متر 🏙️"
   text: |
     ساقين من الفولاذ تميلون على بعض وما بينهم شي! 🏙️

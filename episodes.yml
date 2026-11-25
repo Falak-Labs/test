@@ -56,7 +56,7 @@ episodes:
   - {slug: ep51-burjalarab, kit: burjalarab, look: 2, retired: true}
   - {slug: ep52-palmjumeirah, kit: palmjumeirah, look: 2, retired: true}
   - {slug: ep53-fridge, kit: fridge, look: 2, retired: true}
-  - {slug: ep54-eiffel, kit: eiffel, look: 2}
+  - {slug: ep54-eiffel, kit: eiffel, look: 2, retired: true}
   - {slug: ep55-suez, kit: suez, look: 2}
   - {slug: ep56-escalator, kit: escalator, look: 2, retired: true}
   - {slug: ep57-operahouse, kit: operahouse, look: 2, retired: true}
@@ -75,9 +75,9 @@ episodes:
   - {slug: ep70-louvre, kit: louvre, look: 2, retired: true}
   - {slug: ep71-vacuum, kit: vacuum, look: 2, retired: true}
   - {slug: ep72-petronas, kit: petronas, look: 2, retired: true}
-  - {slug: ep73-pharos, kit: pharos, look: 2}
-  - {slug: ep74-maraya, kit: maraya, look: 2}
-  - {slug: ep75-stepwell, kit: stepwell, look: 2}
+  - {slug: ep73-pharos, kit: pharos, look: 2, retired: true}
+  - {slug: ep74-maraya, kit: maraya, look: 2, retired: true}
+  - {slug: ep75-stepwell, kit: stepwell, look: 2, retired: true}
   - {slug: ep76-cooker, kit: cooker, look: sd}
   - {slug: ep77-goldengate, kit: goldengate, look: sd}
   - {slug: airfryer-b78, kit: airfryer, look: sd}
