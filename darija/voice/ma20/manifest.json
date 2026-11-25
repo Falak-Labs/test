@@ -15,8 +15,10 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 16,
+ "requested_characters": 44,
  "recorded_this_run": [
+  "tw",
+  "w6",
   "Tsl"
  ],
  "notes": [],
@@ -91,7 +93,7 @@
    "text": "Good job! Champion!",
    "characters": 19,
    "model": "eleven_v4",
-   "seconds": 2.24
+   "seconds": 2.08
   },
   {
    "id": "v2",
@@ -109,7 +111,7 @@
    "text": "Champ... pee-un.",
    "characters": 16,
    "model": "eleven_v4",
-   "seconds": 1.92
+   "seconds": 2.0
   }
  ]
 }
