@@ -2242,3 +2242,104 @@ New content
   [Xinhua, Nov 25 2025](https://ydyl.gansu.gov.cn/enggsydyl/news/topnews/202511/t20251126_31950.html),
   [ArchDaily, Jan 15 2018](https://www.archdaily.com/886916/the-record-breaking-31-meter-tall-flamenco-ice-tower-opens-in-harbin-China),
   [Smithsonian Magazine, 2019](https://www.smithsonianmag.com/travel/harbin-ice-snow-festival-2019-180971227/)
+
+## 2026-11-25 09:00 PT (hourly runner, cloud run)
+
+Trends
+- Checked this hour, nothing newer than these notes (later runs can skip): searches for this week's YouTube Shorts and
+  TikTok feature news still return Made on YouTube (Sep 23) and older TikTok posts, and open-weight video news is
+  still LTX-2.5 and MiniMax H3. The University of Regina page on why rinks are flooded with hot water answers "Access
+  Denied" to cloud chats.
+
+New content
+- The ice resurfacer, a candidate everyday build for rink season (new to these notes; not in LINEUP, and no rink
+  build among the made ones): outdoor rinks opened this month (Reston Town Center Nov 6, Colorado Springs' Skate in the
+  Park Nov 11, Chicago's list of Nov 13: search results, pages not read), and the machine that irons the ice between
+  periods is already a STEM topic for the NHL (the Boston Bruins' "STEM week" video on it: search result, not watched).
+  Checked facts: the first one was "developed by American inventor and engineer Frank Zamboni in 1949 in Paramount,
+  California" (Wikipedia); his rink opened "in 1940" (TIME, HowStuffWorks; Wikipedia says 1939: check). Before it,
+  "three or four workers had to scrape, wash, and squeegee the ice" (Wikipedia), using "a tractor with a blade"
+  (HowStuffWorks); "The process took about 90 minutes" and "Skaters either moved through sludge on bad ice, or waited"
+  (TIME). The Model A was "Built on a Jeep platform" (TIME; an "army surplus" chassis, Wikipedia) and gave the rink "a
+  clean sheet in 15 minutes" (TIME); "patented in 1953" (Wikipedia, TIME). How it works (HowStuffWorks unless named): a
+  blade "ranging from 77-96 inches" ("an 80-inch-wide stainless-steel blade", Penn Today) shaves the top, "NHL teams
+  like a 1/32 inch trim"; "A horizontal auger conveyor collects these ice shavings, or snow, and funnels them to a
+  vertical auger" that throws them into the snow tank (Wikipedia), "about 60 cubic feet" each time; "nozzles forcefully
+  spray water into the ice surface" and a rubber squeegee lets "a vacuum nozzle" pick up the dirty water (Wikipedia;
+  HowStuffWorks puts the squeegee in front); last, "warm water (140 to 145 degrees F or 60 to 63 degrees C)" runs out
+  the back "where a towel smoothes it". It moves at "about 9 miles (14.5 kilometers) per hour", weighs "7,000 to 11,000
+  pounds" loaded, and "you basically drive in an ellipse" (Penn Today). Why hot water: it "slightly melts the layer of
+  ice below it" (Wikipedia; "it melts that top layer", a maintenance manager in Exploratorium), and some operators
+  "believe it forms a stronger bond" (Wikipedia). Leave out "hot water freezes faster" (Wikipedia: "the unproven Mpemba
+  effect") and "fewer bubbles" (only an ice-cube answer, "at least in theory", Illinois Physics Van). The sheet: "only
+  one inch thick" (Exploratorium; "1-1/4 inch", CBS Minnesota), made white with "a white powder" mixed into the water,
+  over "10 miles of piping" of glycol at an NHL arena (CBS Minnesota); "When ice builds up along the boards, it starts
+  to create a bowl" (Penn Today). A chain from those facts (breaks marked "ours" are ours): A1, top-down drone shot of
+  the machine gliding in an ellipse over a scarred white rink, a strip of mirror-glass ice behind it. A2, a 1940s rink,
+  a crew with a tractor blade, hoses and squeegees, skaters waiting at the boards, all from behind: 90 minutes. A3,
+  macro of the long blade peeling a 1/32-inch curl of ice. A4 (ours), the shavings pile into a snowdrift in front of
+  the blade. A5, cutaway of the horizontal auger feeding the vertical one, snow spraying up into the tank. A6 (ours),
+  grit and skate dust left in the grooves. B1, wash nozzles blast the grooves, a squeegee and a vacuum slurp the grey
+  water back up. B2 (ours), cold water laid on the cold sheet freezes as a loose skin that skates chip (say it only as
+  the operators' belief). B3, 60 C water through a dragged towel melts the top skin and the film freezes into glass.
+  B4, a tease of whichever build follows it. B5, a packed arena between periods, the machine's ellipse, then skaters
+  gliding onto the mirror, the crowd far off (the 1949 rink seems to skate on as LA Kings Iceland in Paramount: NHL.com
+  search result, check). Line 12: "15 MINUTES" (from 90). Line 13, the twist: all that polish rides on a sheet about
+  one inch thick over miles of frozen pipe. B6: funny slow motion, a cat riding a robot mop in neat ellipses across a
+  wet kitchen floor. Keep the maker's name off screen (it is a trademark and real machines wear it), the driver only
+  from behind. Free video ends Nov 28, so if the main chat wants this build, its pair has to run by then.
+  [Wikipedia](https://en.wikipedia.org/wiki/Ice_resurfacer),
+  [HowStuffWorks, history](https://science.howstuffworks.com/zamboni1.htm),
+  [HowStuffWorks, how it works](https://science.howstuffworks.com/zamboni2.htm),
+  [TIME](https://time.com/4508517/zamboni-history/),
+  [Exploratorium](https://annex.exploratorium.edu/hockey/ice3.html),
+  [Penn Today](https://penntoday.upenn.edu/news/qa-mike-petrocelli-penn-ice-rink),
+  [CBS Minnesota](https://www.cbsnews.com/amp/minnesota/news/good-question-how-do-crews-prepare-ice-for-nhl-games),
+  [Illinois Physics Van](https://van.physics.illinois.edu/qa/listing.php?id=1667),
+  [NHL.com, Bruins STEM week](https://www.nhl.com/fr/bruins/video/topic/features/stem-week-ice-resurfacer-319484416),
+  [NHL.com, LA Kings Iceland](https://www.nhl.com/kings/news/kings-cut-ribbon-la-kings-iceland-at-paramount-as-rink-is-open-to-publ-336874616),
+  [FFXnow, Nov 6 2026](https://ffxnow.com/2026/11/06/ice-skating-returns-to-reston-town-center-for-winter-holiday-season),
+  [Gazette, Nov 11 2026](https://gazette.com/2026/11/11/skate-in-the-park-returns-bringing-holiday-tradition-downtown/),
+  [Chicago Sun-Times, Nov 13 2026](https://chicago.suntimes.com/things-to-do/2026/11/13/where-to-ice-skate-in-chicago-and-the-suburbs-2026)
+- Jeddah Tower (LINEUP 100), the halfway check the Nov 24 15:59 entry asked for: no report of the 500 m mark found at
+  09:00 PT; the newest pages are still Construction Review (Nov 19) and Newsweek (Oct 30, upd. Nov 5). New lines from
+  Newsweek: "We've reached 484 meters [around 1,587 feet], just another 16, four floors to go", "125 will be the
+  halfway mark", "Lately we've been working at a rate of four floors a month", "we achieved 49 levels in 52 weeks", and
+  the halfway point is "projected to reach this point around Thanksgiving, according to the contractor"; completion
+  "Nominally, yes, it is still on track" (August 2028). Check again after Thursday; Luxury Launches refuses fetches.
+  [Newsweek, Oct 30 2026, upd. Nov 5](https://newsweek.com/future-worlds-tallest-building-hit-major-construction-milestone-jeddah-tower-12643303)
+- The Riyadh Metro, a candidate build for Kef Tenbeni (new to these notes; not in LINEUP): its first three lines turn
+  two on Tue Dec 1 ("The Blue, Yellow and Purple lines opened on Dec. 1, followed by the Red and Green Lines two weeks
+  later", the last line on Jan 5 2025, ENR), a Saudi build for the Saudi narrator. Checked facts: a "176-kilometer,
+  85-station Riyadh metro rail system" (ENR) on "six lines" (Gulf News), "certified by Guinness World Records as the
+  longest fully driverless train network" (Gulf News, upd. Nov 27 2025), with "Level 4 automation, eliminating the need
+  for onboard operators" (Arab News), "overseen from central control rooms" (Gulf News); "At peak service, a train will
+  arrive every two-and-a-half minutes" (Bechtel). Building it: "Since breaking ground in 2014" (Bechtel), "28,000 craft
+  professionals from over 50 countries" (Bechtel), "19 companies from 13 countries" in three groups (ENR); TBMs cut
+  "dense limestone and breccia" (Arab News), Line 1 alone has "approximately 17 km of bored tunnel" (ENR), the National
+  Museum station "is 35 meters deep" (Bechtel), "Over 5,000 massive precast segments" went into the viaducts (Bechtel,
+  2017), and the city "had to remain open to traffic and fully functional for millions of residents" (ENR). The
+  surprise for a desert: "The biggest challenge was managing groundwater, as there were extensive underground aquifers"
+  (the BACS project director in ENR). The heat: "The fully air-conditioned stations are equipped with platform screen
+  doors" (Alstom in New Atlas), and the financial-district station's lattice is "designed to take the sting out of the
+  harsh summer heat" (New Atlas). Proof: the "100 millionth passenger" "less than nine months after its official launch
+  in December 2024" (a Gulf News caption: read the linked story before using it); "a capacity for 3.6 million riders"
+  (ENR). A chain (breaks marked "ours" are ours): A1, a train with an empty front window glides out of a tunnel onto a
+  viaduct high over a desert city at dusk. A2, a sprawling desert capital of millions jammed with cars in heat haze.
+  A3, a tunnel boring machine grinding through pale limestone under the city. A4, water: groundwater bursting into the
+  dig under a desert. A5, the line lifted into the air on precast segments while the traffic keeps moving below. A6
+  (ours), passengers wilting on a sun-baked platform, sand blowing. B1, a cool glass wall of platform screen doors
+  sliding open to an air-conditioned train. B2 (ours), six lines and trains every two and a half minutes: too tight
+  for drivers to keep the gaps. B3, a central control room, every train a dot moving on its own. B4, a tease of
+  whichever build follows it. B5, opening-day crowds from behind pouring through the gates. Line 12: "176 KM". Line 13:
+  176 km, 85 stations, and not one driver. B6: funny slow motion, a pigeon hops in as the doors close, rides one stop
+  and hops off. Gaps to fill before a script: the number of TBMs, a temperature figure, how the sand is kept out (ST
+  Engineering's page about sealing it read only as a summary), and one dated ridership figure. Leave out the cost ($25
+  billion in ENR, $23 billion in Arab News), the inauguration, plans and targets (no politics), the train makers' names
+  and faces. Free video ends Nov 28, so this pair would have to run by then.
+  [ENR](https://enr.com/articles/60157-global-consortia-complete-riyadhs-new-25b-metro),
+  [Gulf News, upd. Nov 27 2025](https://gulfnews.com/amp/story/world/gulf/saudi/riyadh-metro-sets-guinness-record-as-worlds-longest-driverless-train-network-1.500361899),
+  [Arab News](https://www.arabnews.com/saudi-arabia/right-on-time-riyadh-metro-engineers-new-era-of-urban-mobility-2581551),
+  [Bechtel](https://www.bechtel.com/projects/riyadh-metro/),
+  [New Atlas](https://newatlas.com/architecture/saudi-arabia-riyadh-metro/),
+  [ST Engineering](https://www.stengg.com/en/smart-city/urban-solutions/smart-mobility-rail/smart-metro-systems/platform-screen-door/transforming-urban-transit-for-riyadh-metro/)
