@@ -1,0 +1,973 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 68.272,
+ "words": 170,
+ "words_per_sec": 2.49,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.557,
+   "text": "Y'all, these towers in Abu Dhabi open umbrellas when the sun hits.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.137,
+     "end": 0.745
+    },
+    {
+     "w": "these",
+     "start": 0.923,
+     "end": 1.209
+    },
+    {
+     "w": "towers",
+     "start": 1.28,
+     "end": 1.638
+    },
+    {
+     "w": "in",
+     "start": 1.709,
+     "end": 1.78
+    },
+    {
+     "w": "Abu",
+     "start": 1.852,
+     "end": 1.995
+    },
+    {
+     "w": "Dhabi",
+     "start": 2.066,
+     "end": 2.423
+    },
+    {
+     "w": "open",
+     "start": 2.495,
+     "end": 2.78
+    },
+    {
+     "w": "umbrellas",
+     "start": 2.923,
+     "end": 3.423
+    },
+    {
+     "w": "when",
+     "start": 3.495,
+     "end": 3.566
+    },
+    {
+     "w": "the",
+     "start": 3.637,
+     "end": 3.709
+    },
+    {
+     "w": "sun",
+     "start": 3.78,
+     "end": 3.995
+    },
+    {
+     "w": "hits.",
+     "start": 4.066,
+     "end": 4.637
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.87,
+   "end": 10.258,
+   "text": "Desert sun turns glass offices into ovens. So how much heat can umbrellas stop?",
+   "words": [
+    {
+     "w": "Desert",
+     "start": 5.009,
+     "end": 5.295
+    },
+    {
+     "w": "sun",
+     "start": 5.437,
+     "end": 5.723
+    },
+    {
+     "w": "turns",
+     "start": 5.795,
+     "end": 6.08
+    },
+    {
+     "w": "glass",
+     "start": 6.152,
+     "end": 6.437
+    },
+    {
+     "w": "offices",
+     "start": 6.58,
+     "end": 7.08
+    },
+    {
+     "w": "into",
+     "start": 7.223,
+     "end": 7.366
+    },
+    {
+     "w": "ovens.",
+     "start": 7.509,
+     "end": 8.146
+    },
+    {
+     "w": "So",
+     "start": 8.286,
+     "end": 8.429
+    },
+    {
+     "w": "how",
+     "start": 8.643,
+     "end": 8.714
+    },
+    {
+     "w": "much",
+     "start": 8.786,
+     "end": 8.929
+    },
+    {
+     "w": "heat",
+     "start": 9.036,
+     "end": 9.143
+    },
+    {
+     "w": "can",
+     "start": 9.25,
+     "end": 9.357
+    },
+    {
+     "w": "umbrellas",
+     "start": 9.464,
+     "end": 9.786
+    },
+    {
+     "w": "stop?",
+     "start": 9.857,
+     "end": 10.357
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.571,
+   "end": 14.668,
+   "text": "So most towers get dark tinted glass. Glare gone!",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.785,
+     "end": 10.928
+    },
+    {
+     "w": "most",
+     "start": 11.071,
+     "end": 11.285
+    },
+    {
+     "w": "towers",
+     "start": 11.356,
+     "end": 11.713
+    },
+    {
+     "w": "get",
+     "start": 11.785,
+     "end": 11.856
+    },
+    {
+     "w": "dark",
+     "start": 11.999,
+     "end": 12.213
+    },
+    {
+     "w": "tinted",
+     "start": 12.285,
+     "end": 12.499
+    },
+    {
+     "w": "glass.",
+     "start": 12.571,
+     "end": 13.035
+    },
+    {
+     "w": "Glare",
+     "start": 13.713,
+     "end": 13.999
+    },
+    {
+     "w": "gone!",
+     "start": 14.142,
+     "end": 14.856
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.98,
+   "end": 18.852,
+   "text": "But now it's gloomy inside, with the lights on at noon.",
+   "words": [
+    {
+     "w": "But",
+     "start": 15.445,
+     "end": 15.587
+    },
+    {
+     "w": "now",
+     "start": 15.659,
+     "end": 15.873
+    },
+    {
+     "w": "it's",
+     "start": 15.945,
+     "end": 16.159
+    },
+    {
+     "w": "gloomy",
+     "start": 16.23,
+     "end": 16.587
+    },
+    {
+     "w": "inside,",
+     "start": 16.659,
+     "end": 17.293
+    },
+    {
+     "w": "with",
+     "start": 17.364,
+     "end": 17.507
+    },
+    {
+     "w": "the",
+     "start": 17.543,
+     "end": 17.579
+    },
+    {
+     "w": "lights",
+     "start": 17.65,
+     "end": 17.936
+    },
+    {
+     "w": "on",
+     "start": 18.007,
+     "end": 18.079
+    },
+    {
+     "w": "at",
+     "start": 18.15,
+     "end": 18.293
+    },
+    {
+     "w": "noon.",
+     "start": 18.364,
+     "end": 19.007
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.164,
+   "end": 24.146,
+   "text": "So they borrowed the mashrabiya, an old Arab wooden screen that breaks up sunlight.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.379,
+     "end": 19.521
+    },
+    {
+     "w": "they",
+     "start": 19.593,
+     "end": 19.807
+    },
+    {
+     "w": "borrowed",
+     "start": 19.879,
+     "end": 20.236
+    },
+    {
+     "w": "the",
+     "start": 20.307,
+     "end": 20.379
+    },
+    {
+     "w": "mashrabiya,",
+     "start": 20.414,
+     "end": 21.45
+    },
+    {
+     "w": "an",
+     "start": 21.557,
+     "end": 21.664
+    },
+    {
+     "w": "old",
+     "start": 21.736,
+     "end": 21.95
+    },
+    {
+     "w": "Arab",
+     "start": 22.021,
+     "end": 22.307
+    },
+    {
+     "w": "wooden",
+     "start": 22.379,
+     "end": 22.593
+    },
+    {
+     "w": "screen",
+     "start": 22.664,
+     "end": 23.021
+    },
+    {
+     "w": "that",
+     "start": 23.093,
+     "end": 23.164
+    },
+    {
+     "w": "breaks",
+     "start": 23.236,
+     "end": 23.45
+    },
+    {
+     "w": "up",
+     "start": 23.521,
+     "end": 23.593
+    },
+    {
+     "w": "sunlight.",
+     "start": 23.664,
+     "end": 24.379
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 24.458,
+   "end": 27.937,
+   "text": "But a fixed screen stays shut, even when the sun moves on.",
+   "words": [
+    {
+     "w": "But",
+     "start": 24.583,
+     "end": 24.726
+    },
+    {
+     "w": "a",
+     "start": 24.797,
+     "end": 24.869
+    },
+    {
+     "w": "fixed",
+     "start": 24.94,
+     "end": 25.154
+    },
+    {
+     "w": "screen",
+     "start": 25.333,
+     "end": 25.512
+    },
+    {
+     "w": "stays",
+     "start": 25.583,
+     "end": 25.869
+    },
+    {
+     "w": "shut,",
+     "start": 25.94,
+     "end": 26.44
+    },
+    {
+     "w": "even",
+     "start": 26.512,
+     "end": 26.726
+    },
+    {
+     "w": "when",
+     "start": 26.797,
+     "end": 26.869
+    },
+    {
+     "w": "the",
+     "start": 26.94,
+     "end": 27.012
+    },
+    {
+     "w": "sun",
+     "start": 27.083,
+     "end": 27.297
+    },
+    {
+     "w": "moves",
+     "start": 27.404,
+     "end": 27.512
+    },
+    {
+     "w": "on.",
+     "start": 27.583,
+     "end": 28.083
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 28.249,
+   "end": 33.197,
+   "text": "So these move! Each umbrella has a motor, and a computer tracks the sun.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.463,
+     "end": 28.678
+    },
+    {
+     "w": "these",
+     "start": 28.749,
+     "end": 29.035
+    },
+    {
+     "w": "move!",
+     "start": 29.178,
+     "end": 29.696
+    },
+    {
+     "w": "Each",
+     "start": 29.901,
+     "end": 30.115
+    },
+    {
+     "w": "umbrella",
+     "start": 30.187,
+     "end": 30.544
+    },
+    {
+     "w": "has",
+     "start": 30.615,
+     "end": 30.758
+    },
+    {
+     "w": "a",
+     "start": 30.829,
+     "end": 30.901
+    },
+    {
+     "w": "motor,",
+     "start": 31.079,
+     "end": 31.544
+    },
+    {
+     "w": "and",
+     "start": 31.579,
+     "end": 31.615
+    },
+    {
+     "w": "a",
+     "start": 31.687,
+     "end": 31.722
+    },
+    {
+     "w": "computer",
+     "start": 31.758,
+     "end": 32.187
+    },
+    {
+     "w": "tracks",
+     "start": 32.258,
+     "end": 32.544
+    },
+    {
+     "w": "the",
+     "start": 32.615,
+     "end": 32.687
+    },
+    {
+     "w": "sun.",
+     "start": 32.758,
+     "end": 33.329
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 33.51,
+   "end": 37.912,
+   "text": "But open umbrellas in a sandstorm? They'd catch the wind like sails.",
+   "words": [
+    {
+     "w": "But",
+     "start": 33.965,
+     "end": 34.108
+    },
+    {
+     "w": "open",
+     "start": 34.251,
+     "end": 34.465
+    },
+    {
+     "w": "umbrellas",
+     "start": 34.572,
+     "end": 34.965
+    },
+    {
+     "w": "in",
+     "start": 35.001,
+     "end": 35.037
+    },
+    {
+     "w": "a",
+     "start": 35.108,
+     "end": 35.179
+    },
+    {
+     "w": "sandstorm?",
+     "start": 35.251,
+     "end": 35.965
+    },
+    {
+     "w": "They'd",
+     "start": 36.126,
+     "end": 36.269
+    },
+    {
+     "w": "catch",
+     "start": 36.34,
+     "end": 36.483
+    },
+    {
+     "w": "the",
+     "start": 36.554,
+     "end": 36.626
+    },
+    {
+     "w": "wind",
+     "start": 36.697,
+     "end": 36.84
+    },
+    {
+     "w": "like",
+     "start": 36.912,
+     "end": 37.054
+    },
+    {
+     "w": "sails.",
+     "start": 37.197,
+     "end": 37.983
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 38.224,
+   "end": 41.973,
+   "text": "So sensors on the roof fold them halfway till the storm passes.",
+   "words": [
+    {
+     "w": "So",
+     "start": 38.428,
+     "end": 38.571
+    },
+    {
+     "w": "sensors",
+     "start": 38.713,
+     "end": 39.071
+    },
+    {
+     "w": "on",
+     "start": 39.142,
+     "end": 39.213
+    },
+    {
+     "w": "the",
+     "start": 39.249,
+     "end": 39.285
+    },
+    {
+     "w": "roof",
+     "start": 39.356,
+     "end": 39.642
+    },
+    {
+     "w": "fold",
+     "start": 39.713,
+     "end": 39.928
+    },
+    {
+     "w": "them",
+     "start": 39.999,
+     "end": 40.071
+    },
+    {
+     "w": "halfway",
+     "start": 40.142,
+     "end": 40.642
+    },
+    {
+     "w": "till",
+     "start": 40.713,
+     "end": 40.856
+    },
+    {
+     "w": "the",
+     "start": 40.892,
+     "end": 40.928
+    },
+    {
+     "w": "storm",
+     "start": 40.999,
+     "end": 41.285
+    },
+    {
+     "w": "passes.",
+     "start": 41.356,
+     "end": 42.071
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 42.286,
+   "end": 48.065,
+   "text": "Hit follow, 'cause next we're building bubble wrap. Yes... it started as wallpaper.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 42.357,
+     "end": 42.5
+    },
+    {
+     "w": "follow,",
+     "start": 42.643,
+     "end": 43.179
+    },
+    {
+     "w": "'cause",
+     "start": 43.286,
+     "end": 43.5
+    },
+    {
+     "w": "next",
+     "start": 43.571,
+     "end": 43.857
+    },
+    {
+     "w": "we're",
+     "start": 44.0,
+     "end": 44.143
+    },
+    {
+     "w": "building",
+     "start": 44.321,
+     "end": 44.5
+    },
+    {
+     "w": "bubble",
+     "start": 44.643,
+     "end": 44.857
+    },
+    {
+     "w": "wrap.",
+     "start": 44.929,
+     "end": 45.357
+    },
+    {
+     "w": "Yes...",
+     "start": 45.786,
+     "end": 46.429
+    },
+    {
+     "w": "it",
+     "start": 46.643,
+     "end": 46.786
+    },
+    {
+     "w": "started",
+     "start": 46.857,
+     "end": 47.143
+    },
+    {
+     "w": "as",
+     "start": 47.214,
+     "end": 47.357
+    },
+    {
+     "w": "wallpaper.",
+     "start": 47.5,
+     "end": 48.286
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 48.378,
+   "end": 52.782,
+   "text": "The answer? About half the heat! So the glass can stay clear.",
+   "words": [
+    {
+     "w": "The",
+     "start": 48.521,
+     "end": 48.663
+    },
+    {
+     "w": "answer?",
+     "start": 48.735,
+     "end": 49.342
+    },
+    {
+     "w": "About",
+     "start": 49.521,
+     "end": 49.806
+    },
+    {
+     "w": "half",
+     "start": 49.878,
+     "end": 50.092
+    },
+    {
+     "w": "the",
+     "start": 50.163,
+     "end": 50.235
+    },
+    {
+     "w": "heat!",
+     "start": 50.306,
+     "end": 50.699
+    },
+    {
+     "w": "So",
+     "start": 51.306,
+     "end": 51.378
+    },
+    {
+     "w": "the",
+     "start": 51.449,
+     "end": 51.521
+    },
+    {
+     "w": "glass",
+     "start": 51.699,
+     "end": 51.878
+    },
+    {
+     "w": "can",
+     "start": 51.949,
+     "end": 52.021
+    },
+    {
+     "w": "stay",
+     "start": 52.092,
+     "end": 52.235
+    },
+    {
+     "w": "clear.",
+     "start": 52.306,
+     "end": 52.949
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 53.095,
+   "end": 57.655,
+   "text": "Two towers, two thousand umbrellas, and one computer chasing the sun.",
+   "words": [
+    {
+     "w": "Two",
+     "start": 53.166,
+     "end": 53.309
+    },
+    {
+     "w": "towers,",
+     "start": 53.38,
+     "end": 54.023
+    },
+    {
+     "w": "two",
+     "start": 54.157,
+     "end": 54.3
+    },
+    {
+     "w": "thousand",
+     "start": 54.514,
+     "end": 54.871
+    },
+    {
+     "w": "umbrellas,",
+     "start": 54.943,
+     "end": 55.479
+    },
+    {
+     "w": "and",
+     "start": 55.514,
+     "end": 55.657
+    },
+    {
+     "w": "one",
+     "start": 55.871,
+     "end": 56.014
+    },
+    {
+     "w": "computer",
+     "start": 56.086,
+     "end": 56.514
+    },
+    {
+     "w": "chasing",
+     "start": 56.657,
+     "end": 57.014
+    },
+    {
+     "w": "the",
+     "start": 57.05,
+     "end": 57.086
+    },
+    {
+     "w": "sun.",
+     "start": 57.229,
+     "end": 57.8
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 57.968,
+   "end": 61.523,
+   "text": "And congrats, you just built the Al Bahar Towers yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.023,
+     "end": 58.166
+    },
+    {
+     "w": "congrats,",
+     "start": 58.273,
+     "end": 59.059
+    },
+    {
+     "w": "you",
+     "start": 59.166,
+     "end": 59.309
+    },
+    {
+     "w": "just",
+     "start": 59.38,
+     "end": 59.523
+    },
+    {
+     "w": "built",
+     "start": 59.63,
+     "end": 59.738
+    },
+    {
+     "w": "the",
+     "start": 59.809,
+     "end": 59.88
+    },
+    {
+     "w": "Al",
+     "start": 59.952,
+     "end": 60.023
+    },
+    {
+     "w": "Bahar",
+     "start": 60.095,
+     "end": 60.38
+    },
+    {
+     "w": "Towers",
+     "start": 60.523,
+     "end": 60.809
+    },
+    {
+     "w": "yourself.",
+     "start": 60.88,
+     "end": 61.738
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 61.836,
+   "end": 68.268,
+   "text": "Two thousand umbrellas fold themselves... and you still can't fold your car's sun shade.",
+   "words": [
+    {
+     "w": "Two",
+     "start": 62.282,
+     "end": 62.496
+    },
+    {
+     "w": "thousand",
+     "start": 62.711,
+     "end": 63.068
+    },
+    {
+     "w": "umbrellas",
+     "start": 63.211,
+     "end": 63.711
+    },
+    {
+     "w": "fold",
+     "start": 63.782,
+     "end": 64.068
+    },
+    {
+     "w": "themselves...",
+     "start": 64.139,
+     "end": 65.068
+    },
+    {
+     "w": "and",
+     "start": 65.825,
+     "end": 65.854
+    },
+    {
+     "w": "you",
+     "start": 65.925,
+     "end": 65.996
+    },
+    {
+     "w": "still",
+     "start": 66.139,
+     "end": 66.425
+    },
+    {
+     "w": "can't",
+     "start": 66.496,
+     "end": 66.711
+    },
+    {
+     "w": "fold",
+     "start": 66.782,
+     "end": 66.996
+    },
+    {
+     "w": "your",
+     "start": 67.068,
+     "end": 67.139
+    },
+    {
+     "w": "car's",
+     "start": 67.211,
+     "end": 67.496
+    },
+    {
+     "w": "sun",
+     "start": 67.604,
+     "end": 67.711
+    },
+    {
+     "w": "shade.",
+     "start": 67.782,
+     "end": 68.425
+    }
+   ]
+  }
+ ]
+}
