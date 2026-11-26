@@ -3476,3 +3476,56 @@ Checked, nothing new
   already here; a search for openings in December 2026 returned general megaproject lists, nothing dated.
 - The Rijksmuseum's image policy (public-domain works; the museum is not in these notes, the Met already is) did not
   load (a redirect to data.rijksmuseum.nl): one look in a later run.
+
+## 2026-11-26 05:05 PT (hourly runner, cloud run)
+
+New content
+- The 100th Macy's Thanksgiving Day Parade did not run this morning: "Officials said Wednesday afternoon that the parade
+  is being postponed until Saturday", Nov 28 at 8:30 a.m. ET, after the National Weather Service forecast "gusts in
+  excess of 40 mph in Manhattan at 10 a.m. on Thursday" (Yahoo live blog, Nov 25 2026). Macy's: "after close
+  consultation with our City and agency partners, we have made the decision to move this year's celebration". Yahoo
+  calls it "the first time the Macy's Thanksgiving Day Parade has been postponed due to weather" (the outlet's claim;
+  Macy's statement does not make it). The balloons were "deflated starting at 7 p.m. ET Wednesday" and will be
+  "reinflated on Friday afternoon"; Saturday's forecast is "sustained winds of just 8 mph" with "gusts peaking at 19
+  mph" (NWS, via Yahoo). Philadelphia's 6abc parade chose "to not fly helium balloons" this year (WPVI via ABC7 NY, Nov
+  25). Our Thanksgiving posts (76, 77) do not mention the parade, so nothing to fix there.
+  [Yahoo, Nov 25 2026](https://www.yahoo.com/news/us/live/macys-thanksgiving-day-parade-postponed-until-saturday-due-to-severe-weather--follow-live-updates-214611617.html),
+  [ABC7 NY, Nov 25 2026](https://abc7ny.com/live-updates/thanksgiving-storm-2026-strong-wind-rain-hit-nyc-tri-state-during-parade/20069977/entry/20079838/)
+- So the giant parade balloon (a candidate since the Nov 25 05:05 entry; not in LINEUP) has its news peg on Saturday,
+  the last free Seedance day (its two jobs would need Chrome before then: the main chat's call), and that entry's gaps
+  are filled from the city's own release (Nov 20 1998, after "last year's" accident, when a balloon severed part of a
+  lamppost and seriously injured a spectator; the release names no balloon). Large balloons stay down in "sustained
+  wind conditions exceeding 23 mph or wind gusts exceeding 34 mph" (it says "or": the AP "and" in the Nov 25 05:05 entry
+  is wrong), and none may "exceed 78 feet in length, 40 feet in width or 70 feet in height". The wind is read from the
+  Weather Service's forecast the night before and that morning, by a meteorologist at the start line, by an assistant
+  pilot walking with each balloon who takes hand-held wind-meter readings at the intersections (the crosswinds), and by
+  windsocks along the route. Each large balloon is tethered to two support vehicles of 1,379 pounds each (one guides,
+  one anchors), has zippers or rip panels for an emergency deflation on the route, and is led by a captain, two
+  assistant captains, a pilot and two assistant pilots (about 50-60 handlers then); the lampposts on Central Park West
+  were replaced by poles whose arms run parallel to the street. Today: "Anywhere between 80 to 100 balloon handlers" on
+  a handle called the "dog bone", "a few different air chambers" per balloon ("The arm might be a chamber, the ear might
+  be a different chamber"), "around eight hours to inflate the whole line-up", netting overnight (NBC Insider, Nov 27
+  2024, modified Nov 16 2026); "The average balloon requires 12,000 cubic feet of helium", handlers "must weigh at least
+  120 pounds", the skin is polyurethane-coated fabric, and a clay model's water displacement sizes the helium (Popular
+  Science, 2014). A shot chain: A1 a giant balloon of a generic shape held low over an avenue by a long line of handlers
+  seen from behind; A2 wind racing between towers; A3 the chambers in cutaway; A4 the 1997 lamppost (no one hurt on
+  screen); A5 the hand-held wind meter and a windsock at an intersection; A6 this week's 40 mph gusts and the balloons
+  deflated the night before; B1 the two 1,379 lb vehicles; B3 the rip panel; B5 Saturday's parade. No character, no
+  Macy's name or logo in any shot (copyright), no faces. Open: the handler count today (80-100, NBC; 90, Popular
+  Science 2014), this year's helium figure, and which balloon hit the lamppost in 1997 (only AP, 2018, names it).
+  [NYC Mayor's Office, Nov 20 1998](https://www.nyc.gov/html/om/html/98b/pr535-98.html),
+  [NBC Insider, Nov 27 2024](https://www.nbc.com/nbc-insider/why-dont-macys-thanksgiving-day-parade-balloons-fly-away),
+  [Popular Science, Nov 26 2014](https://www.popsci.com/science-and-engineering-macys-thanksgiving-day-balloons)
+
+Checked, nothing new
+- Jeddah Tower (100): no 500 m report at about 05:00 PT on Thanksgiving (the pages found are all here already).
+- Kariba Dam: still nothing after May 2026 (NewsDay, May 7: "94% done", "full completion by the fourth quarter of
+  2026"); an undated EU page adds that the plunge-pool reshaping is complete and the last steps were "the removal of the
+  stoplogs and the refilling of the plunge pool".
+  [EU Delegation to Zimbabwe, undated](https://www.eeas.europa.eu/delegations/zimbabwe/kariba-dam-rehabilitation-project-reaches-critical-milestone_en)
+- Black Friday AI video offers: InVideo's offers page and aimojo's Higgsfield page are already here; the Kling and
+  Hailuo pages found are affiliate roundups (not read); nothing free past Nov 28. Higgsfield's own: the results were
+  pages already here (mydealz's expired deals, the "33 days" page, the Oct 30 "7-Day Unlimited Bonus", the 11.11 deals,
+  dio.me); RuntimeWire's article on a seven-day bonus for annual plans returned no article text. Nov 28 stands.
+- eMarketer's 2027 trends page refused the fetch again (a site error), and the Rijksmuseum's policy page redirects to
+  data.rijksmuseum.nl/policy, which this cloud run could not open: both left for a run with a browser.
