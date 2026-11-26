@@ -99,3 +99,6 @@ episodes:
   - {slug: ep95-falkirk, kit: falkirk, look: sd}
   - {slug: ep93-huajiang, kit: huajiang, look: sd}
   - {slug: ep96-handwarmer, kit: handwarmer, look: 2}
+  - {slug: ep97-museum, kit: museum, look: 2}
+  - {slug: ep98-rainvortex, kit: rainvortex, look: 2}
+  - {slug: ep99-noodles, kit: noodles, look: 2}
