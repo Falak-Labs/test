@@ -7,6 +7,8 @@ levels:
   - kit: burjalarab
     music: desert
     color: "#5CD6E0"
+    shot: 1.0                         # the hotel close up at sunset, before the camera pulls back (the hook ends on bare open sea)
+    still: 2.0
     en: {world: "DUBAI", boss: "THE WAVES", sub: "NO LAND OUT HERE  ·  JUST OPEN SEA", unlocked: "THE BURJ AL ARAB",
          stamp: "NO LAND", chips: [["321 m", "TALL"], ["230", "PILES, 40 m DOWN"], ["210 m", "UP TO THE HELIPAD"]]}
     ar: {world: "دبي", boss: "الموج", sub: "ما فيه أرض  ·  كله بحر", unlocked: "برج العرب",
@@ -14,6 +16,8 @@ levels:
   - kit: suez
     music: oasis
     color: "#FFD08A"
+    shot: 4.4                         # the giant ship in its canal through the desert, a camel watching (the hook ends on a map)
+    still: 4.9
     en: {world: "EGYPT", boss: "THE DETOUR", sub: "EUROPE TO ASIA  ·  AROUND ALL OF AFRICA", unlocked: "THE SUEZ CANAL",
          stamp: "DETOUR", chips: [["193 km", "OF CANAL"], ["10", "YEARS OF DIGGING"], ["0", "LOCKS"]]}
     ar: {world: "مصر", boss: "لفة أفريقيا", sub: "من أوروبا لآسيا  ·  حول أفريقيا كلها", unlocked: "قناة السويس",
@@ -21,6 +25,8 @@ levels:
   - kit: pharos
     music: arctic
     color: "#FF9D5C"
+    shot: 3.3                         # the whole tower throwing its beam over the sea at night
+    still: 4.2
     en: {world: "ALEXANDRIA", boss: "THE DARK", sub: "HIDDEN ROCKS  ·  SHIPS KEEP SINKING", unlocked: "THE LIGHTHOUSE OF ALEXANDRIA",
          stamp: "SHIPWRECK", chips: [["~100 m", "TALL"], ["50 km", "SEEN OUT AT SEA"], ["1,600", "YEARS GUIDING SHIPS"]]}
     ar: {world: "الإسكندرية", boss: "الظلام", sub: "صخور مخفية  ·  تغرّق السفن", unlocked: "منارة الإسكندرية",
@@ -29,9 +35,11 @@ levels:
     music: ondol
     color: "#8FB8FF"
     en: {world: "THE NETHERLANDS", boss: "THE NORTH SEA", sub: "A QUARTER OF THE COUNTRY  ·  BELOW THE SEA", unlocked: "THE DUTCH STORM BARRIER",
-         stamp: "STORM SURGE", chips: [["6,800 t", "EACH ARM"], ["10 m", "BALL JOINTS"], ["22 m", "WALL OF STEEL"]]}
+         stamp: "STORM SURGE", chips: [["6,800 t", "EACH ARM"], ["10 m", "BALL JOINTS"], ["22 m", "WALL OF STEEL"]],
+         shot: 2.6, still: 3.3}       # the two arms swinging shut across the river, seen from above (earlier in the Arabic hook)
     ar: {world: "هولندا", boss: "بحر الشمال", sub: "ربع البلد  ·  تحت مستوى البحر", unlocked: "حاجز العواصف الهولندي",
-         stamp: "البحر جاي", chips: [["6,800 t", "كل ذراع"], ["10 m", "كورة المفصل"], ["22 m", "جدار حديد"]]}
+         stamp: "البحر جاي", chips: [["6,800 t", "كل ذراع"], ["10 m", "كورة المفصل"], ["22 m", "جدار حديد"]],
+         shot: 2.1, still: 2.8}
 en:
   chip: "SURVIVAL MODE  ·  YOU VS THE SEA"
   ribbon: "YOU VS THE SEA"
