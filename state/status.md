@@ -1,4 +1,4 @@
-# Post status 2026-11-25T22:17:59+00:00
+# Post status 2026-11-26T02:51:47+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -339,7 +339,7 @@
 | ep59-liberty | en.tiktok | sent |  | 2026-11-22T16:31:31.341Z https://www.tiktok.com/@congratsengineer/video/7711034015494540557?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep59-liberty | en.youtube | sent |  | 2026-11-22T16:30:26.613Z https://www.youtube.com/shorts/TMGgQJwx7fs |
 | ep60-microwave | ar.instagram | sent |  | 2026-11-22T14:02:37.149Z https://www.instagram.com/reel/DgC-LL6hV-N/ |
-| ep60-microwave | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T01:30:00.000Z |
+| ep60-microwave | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T01:30:00.000Z |
 | ep60-microwave | en.instagram | sent |  | 2026-11-22T19:03:37.028Z https://www.instagram.com/reel/DgDgsC5Bn0v/ |
 | ep60-microwave | en.tiktok | sent |  | 2026-11-22T19:02:29.506Z https://www.tiktok.com/@congratsengineer/video/7711072976526953741?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep61-pisa | ar.instagram | sent |  | 2026-11-22T17:03:50.257Z https://www.instagram.com/reel/DgDS0-MzSnZ/ |
@@ -434,18 +434,18 @@
 | ep83-thermos | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T20:30:00.000Z |
 | ep83-thermos | en.instagram | sent |  | 2026-11-25T17:33:46.501Z https://www.instagram.com/reel/DgLEtoVKwPM/ |
 | ep83-thermos | en.tiktok | sent |  | 2026-11-25T17:33:00.153Z https://tiktok.com/@congratsengineer/video/7712163099251576077 |
-| ep84-hooverdam | ar.instagram | scheduled |  | 2026-11-25T23:00:00.000Z |
-| ep84-hooverdam | ar.tiktok | scheduled |  | 2026-11-25T23:00:00.000Z |
+| ep84-hooverdam | ar.instagram | sent |  | 2026-11-25T23:04:39.922Z https://www.instagram.com/reel/DgLqe-IMUJJ/ |
+| ep84-hooverdam | ar.tiktok | sent |  | 2026-11-25T23:02:48.050Z https://tiktok.com/@kef.tenbeni/video/7712248077402344718 |
 | ep84-hooverdam | en.instagram | sent |  | 2026-11-25T20:03:47.614Z https://www.instagram.com/reel/DgLV5REp7bV/ |
 | ep84-hooverdam | en.tiktok | sent |  | 2026-11-25T20:03:14.041Z https://tiktok.com/@congratsengineer/video/7712201930176548109 |
-| ep85-dubaiframe | ar.instagram | scheduled |  | 2026-11-26T01:30:00.000Z |
+| ep85-dubaiframe | ar.instagram | sent |  | 2026-11-26T01:31:40.020Z https://www.instagram.com/reel/DgL7eG8Bp6f/ |
 | ep85-dubaiframe | ar.tiktok | scheduled |  | 2026-11-26T16:00:00.000Z |
-| ep85-dubaiframe | en.instagram | scheduled |  | 2026-11-25T22:30:00.000Z |
-| ep85-dubaiframe | en.tiktok | scheduled |  | 2026-11-25T22:30:00.000Z |
+| ep85-dubaiframe | en.instagram | sent |  | 2026-11-25T22:31:19.624Z https://www.instagram.com/reel/DgLm29ltc9q/ |
+| ep85-dubaiframe | en.tiktok | sent |  | 2026-11-25T22:31:23.024Z https://tiktok.com/@congratsengineer/video/7712240098909228301 |
 | ep86-kettle | ar.instagram | scheduled |  | 2026-11-26T04:00:00.000Z |
 | ep86-kettle | ar.tiktok | scheduled |  | 2026-11-26T04:00:00.000Z |
-| ep86-kettle | en.instagram | scheduled |  | 2026-11-26T01:00:00.000Z |
-| ep86-kettle | en.tiktok | scheduled |  | 2026-11-26T01:00:00.000Z |
+| ep86-kettle | en.instagram | sent |  | 2026-11-26T01:02:26.688Z https://www.instagram.com/reel/DgL4JvmMR5E/ |
+| ep86-kettle | en.tiktok | sent |  | 2026-11-26T01:02:39.342Z https://tiktok.com/@congratsengineer/video/7712278851593784589 |
 | ep87-balloon | ar.instagram | scheduled |  | 2026-11-26T06:30:00.000Z |
 | ep87-balloon | ar.tiktok | scheduled |  | 2026-11-26T06:30:00.000Z |
 | ep87-balloon | en.instagram | scheduled |  | 2026-11-26T03:30:00.000Z |

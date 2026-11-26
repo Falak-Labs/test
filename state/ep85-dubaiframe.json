@@ -4,28 +4,34 @@
    "id": "6b05eaeba94a2d4a75796551",
    "channel": "6af2cd1062b70b94b0ded3ff",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-26T01:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-24T19:51:53+00:00"
+   "created": "2026-11-24T19:51:53+00:00",
+   "link": "https://www.instagram.com/reel/DgL7eG8Bp6f/",
+   "sentAt": "2026-11-26T01:31:40.020Z"
   },
   "en.instagram": {
    "id": "6b06088394ebbd74c28d185e",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-25T22:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-24T21:58:24+00:00"
+   "created": "2026-11-24T21:58:24+00:00",
+   "link": "https://www.instagram.com/reel/DgLm29ltc9q/",
+   "sentAt": "2026-11-25T22:31:19.624Z"
   },
   "en.tiktok": {
    "id": "6b060884ea9b23114ff56578",
    "channel": "6af2d49862b70b94b0df5758",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-25T22:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-24T21:58:24+00:00"
+   "created": "2026-11-24T21:58:24+00:00",
+   "link": "https://tiktok.com/@congratsengineer/video/7712240098909228301",
+   "sentAt": "2026-11-25T22:31:23.024Z"
   },
   "ar.tiktok": {
    "id": "6b073a4f4fd9b17a8c9ed338",
