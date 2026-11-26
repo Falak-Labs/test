@@ -1,0 +1,860 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.0904,
+ "gap": 0.35,
+ "duration": 57.33,
+ "words": 157,
+ "words_per_sec": 2.74,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 2.973,
+   "text": "No land. No shortcut. No light.",
+   "words": [
+    {
+     "w": "No",
+     "start": 0.149,
+     "end": 0.297
+    },
+    {
+     "w": "land.",
+     "start": 0.37,
+     "end": 0.917
+    },
+    {
+     "w": "No",
+     "start": 1.058,
+     "end": 1.205
+    },
+    {
+     "w": "shortcut.",
+     "start": 1.352,
+     "end": 2.049
+    },
+    {
+     "w": "No",
+     "start": 2.196,
+     "end": 2.416
+    },
+    {
+     "w": "light.",
+     "start": 2.489,
+     "end": 3.076
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 3.294,
+   "end": 7.885,
+   "text": "Just you, and four fights with the sea that you are not supposed to win.",
+   "words": [
+    {
+     "w": "Just",
+     "start": 3.588,
+     "end": 3.881
+    },
+    {
+     "w": "you,",
+     "start": 4.028,
+     "end": 4.431
+    },
+    {
+     "w": "and",
+     "start": 4.615,
+     "end": 4.762
+    },
+    {
+     "w": "four",
+     "start": 4.908,
+     "end": 5.128
+    },
+    {
+     "w": "fights",
+     "start": 5.275,
+     "end": 5.495
+    },
+    {
+     "w": "with",
+     "start": 5.569,
+     "end": 5.642
+    },
+    {
+     "w": "the",
+     "start": 5.715,
+     "end": 5.789
+    },
+    {
+     "w": "sea",
+     "start": 5.862,
+     "end": 6.082
+    },
+    {
+     "w": "that",
+     "start": 6.156,
+     "end": 6.229
+    },
+    {
+     "w": "you",
+     "start": 6.302,
+     "end": 6.376
+    },
+    {
+     "w": "are",
+     "start": 6.449,
+     "end": 6.669
+    },
+    {
+     "w": "not",
+     "start": 6.742,
+     "end": 6.963
+    },
+    {
+     "w": "supposed",
+     "start": 7.036,
+     "end": 7.329
+    },
+    {
+     "w": "to",
+     "start": 7.403,
+     "end": 7.476
+    },
+    {
+     "w": "win.",
+     "start": 7.623,
+     "end": 7.99
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.206,
+   "end": 11.603,
+   "text": "Win all four, and congrats, you just beat the sea.",
+   "words": [
+    {
+     "w": "Win",
+     "start": 8.456,
+     "end": 8.5
+    },
+    {
+     "w": "all",
+     "start": 8.61,
+     "end": 8.72
+    },
+    {
+     "w": "four,",
+     "start": 8.866,
+     "end": 9.123
+    },
+    {
+     "w": "and",
+     "start": 9.233,
+     "end": 9.38
+    },
+    {
+     "w": "congrats,",
+     "start": 9.49,
+     "end": 10.187
+    },
+    {
+     "w": "you",
+     "start": 10.334,
+     "end": 10.481
+    },
+    {
+     "w": "just",
+     "start": 10.554,
+     "end": 10.774
+    },
+    {
+     "w": "beat",
+     "start": 10.884,
+     "end": 10.994
+    },
+    {
+     "w": "the",
+     "start": 11.067,
+     "end": 11.141
+    },
+    {
+     "w": "sea.",
+     "start": 11.214,
+     "end": 11.801
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 11.924,
+   "end": 19.943,
+   "text": "Level one. Dubai. You want a hotel out in the open sea, where there's no land at all, and the waves chew up whatever you build.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 12.073,
+     "end": 12.366
+    },
+    {
+     "w": "one.",
+     "start": 12.513,
+     "end": 12.999
+    },
+    {
+     "w": "Dubai.",
+     "start": 13.182,
+     "end": 13.933
+    },
+    {
+     "w": "You",
+     "start": 14.072,
+     "end": 14.145
+    },
+    {
+     "w": "want",
+     "start": 14.219,
+     "end": 14.292
+    },
+    {
+     "w": "a",
+     "start": 14.329,
+     "end": 14.365
+    },
+    {
+     "w": "hotel",
+     "start": 14.439,
+     "end": 14.806
+    },
+    {
+     "w": "out",
+     "start": 14.879,
+     "end": 15.026
+    },
+    {
+     "w": "in",
+     "start": 15.099,
+     "end": 15.172
+    },
+    {
+     "w": "the",
+     "start": 15.209,
+     "end": 15.246
+    },
+    {
+     "w": "open",
+     "start": 15.393,
+     "end": 15.686
+    },
+    {
+     "w": "sea,",
+     "start": 15.833,
+     "end": 16.126
+    },
+    {
+     "w": "where",
+     "start": 16.273,
+     "end": 16.346
+    },
+    {
+     "w": "there's",
+     "start": 16.42,
+     "end": 16.64
+    },
+    {
+     "w": "no",
+     "start": 16.787,
+     "end": 16.933
+    },
+    {
+     "w": "land",
+     "start": 17.007,
+     "end": 17.153
+    },
+    {
+     "w": "at",
+     "start": 17.227,
+     "end": 17.3
+    },
+    {
+     "w": "all,",
+     "start": 17.41,
+     "end": 17.74
+    },
+    {
+     "w": "and",
+     "start": 17.814,
+     "end": 17.887
+    },
+    {
+     "w": "the",
+     "start": 17.924,
+     "end": 17.96
+    },
+    {
+     "w": "waves",
+     "start": 18.034,
+     "end": 18.401
+    },
+    {
+     "w": "chew",
+     "start": 18.474,
+     "end": 18.621
+    },
+    {
+     "w": "up",
+     "start": 18.694,
+     "end": 18.841
+    },
+    {
+     "w": "whatever",
+     "start": 19.061,
+     "end": 19.281
+    },
+    {
+     "w": "you",
+     "start": 19.354,
+     "end": 19.428
+    },
+    {
+     "w": "build.",
+     "start": 19.501,
+     "end": 20.088
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 20.264,
+   "end": 28.169,
+   "text": "Level two. Egypt. Every ship from Europe to Asia has to sail all the way around Africa, because a desert is in the way.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 20.484,
+     "end": 20.851
+    },
+    {
+     "w": "two.",
+     "start": 20.998,
+     "end": 21.548
+    },
+    {
+     "w": "Egypt.",
+     "start": 21.805,
+     "end": 22.41
+    },
+    {
+     "w": "Every",
+     "start": 22.493,
+     "end": 22.713
+    },
+    {
+     "w": "ship",
+     "start": 22.86,
+     "end": 23.006
+    },
+    {
+     "w": "from",
+     "start": 23.08,
+     "end": 23.226
+    },
+    {
+     "w": "Europe",
+     "start": 23.373,
+     "end": 23.593
+    },
+    {
+     "w": "to",
+     "start": 23.667,
+     "end": 23.74
+    },
+    {
+     "w": "Asia",
+     "start": 23.887,
+     "end": 24.18
+    },
+    {
+     "w": "has",
+     "start": 24.253,
+     "end": 24.4
+    },
+    {
+     "w": "to",
+     "start": 24.474,
+     "end": 24.547
+    },
+    {
+     "w": "sail",
+     "start": 24.62,
+     "end": 24.914
+    },
+    {
+     "w": "all",
+     "start": 25.061,
+     "end": 25.281
+    },
+    {
+     "w": "the",
+     "start": 25.354,
+     "end": 25.427
+    },
+    {
+     "w": "way",
+     "start": 25.501,
+     "end": 25.574
+    },
+    {
+     "w": "around",
+     "start": 25.758,
+     "end": 25.941
+    },
+    {
+     "w": "Africa,",
+     "start": 26.014,
+     "end": 26.601
+    },
+    {
+     "w": "because",
+     "start": 26.702,
+     "end": 26.922
+    },
+    {
+     "w": "a",
+     "start": 26.996,
+     "end": 27.069
+    },
+    {
+     "w": "desert",
+     "start": 27.142,
+     "end": 27.436
+    },
+    {
+     "w": "is",
+     "start": 27.509,
+     "end": 27.583
+    },
+    {
+     "w": "in",
+     "start": 27.619,
+     "end": 27.656
+    },
+    {
+     "w": "the",
+     "start": 27.693,
+     "end": 27.729
+    },
+    {
+     "w": "way.",
+     "start": 27.803,
+     "end": 28.243
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 28.49,
+   "end": 35.394,
+   "text": "Level three. Alexandria. Hidden rocks keep sinking ships here, and at night nobody can see a thing.",
+   "words": [
+    {
+     "w": "Level",
+     "start": 28.652,
+     "end": 28.945
+    },
+    {
+     "w": "three.",
+     "start": 29.092,
+     "end": 29.637
+    },
+    {
+     "w": "Alexandria.",
+     "start": 29.707,
+     "end": 30.838
+    },
+    {
+     "w": "Hidden",
+     "start": 30.917,
+     "end": 31.137
+    },
+    {
+     "w": "rocks",
+     "start": 31.211,
+     "end": 31.577
+    },
+    {
+     "w": "keep",
+     "start": 31.651,
+     "end": 31.798
+    },
+    {
+     "w": "sinking",
+     "start": 31.871,
+     "end": 32.164
+    },
+    {
+     "w": "ships",
+     "start": 32.238,
+     "end": 32.531
+    },
+    {
+     "w": "here,",
+     "start": 32.678,
+     "end": 32.971
+    },
+    {
+     "w": "and",
+     "start": 33.045,
+     "end": 33.118
+    },
+    {
+     "w": "at",
+     "start": 33.191,
+     "end": 33.265
+    },
+    {
+     "w": "night",
+     "start": 33.338,
+     "end": 33.558
+    },
+    {
+     "w": "nobody",
+     "start": 33.925,
+     "end": 34.365
+    },
+    {
+     "w": "can",
+     "start": 34.439,
+     "end": 34.585
+    },
+    {
+     "w": "see",
+     "start": 34.659,
+     "end": 34.732
+    },
+    {
+     "w": "a",
+     "start": 34.806,
+     "end": 34.952
+    },
+    {
+     "w": "thing.",
+     "start": 35.136,
+     "end": 35.539
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 35.715,
+   "end": 44.187,
+   "text": "Final level. The Netherlands. A quarter of the country sits below the sea, and a storm is pushing the North Sea up the river toward Rotterdam.",
+   "words": [
+    {
+     "w": "Final",
+     "start": 35.909,
+     "end": 36.349
+    },
+    {
+     "w": "level.",
+     "start": 36.422,
+     "end": 36.935
+    },
+    {
+     "w": "The",
+     "start": 37.046,
+     "end": 37.119
+    },
+    {
+     "w": "Netherlands.",
+     "start": 37.266,
+     "end": 38.036
+    },
+    {
+     "w": "A",
+     "start": 38.165,
+     "end": 38.238
+    },
+    {
+     "w": "quarter",
+     "start": 38.312,
+     "end": 38.605
+    },
+    {
+     "w": "of",
+     "start": 38.642,
+     "end": 38.678
+    },
+    {
+     "w": "the",
+     "start": 38.752,
+     "end": 38.825
+    },
+    {
+     "w": "country",
+     "start": 38.899,
+     "end": 39.192
+    },
+    {
+     "w": "sits",
+     "start": 39.339,
+     "end": 39.559
+    },
+    {
+     "w": "below",
+     "start": 39.742,
+     "end": 39.926
+    },
+    {
+     "w": "the",
+     "start": 39.999,
+     "end": 40.146
+    },
+    {
+     "w": "sea,",
+     "start": 40.293,
+     "end": 40.576
+    },
+    {
+     "w": "and",
+     "start": 40.659,
+     "end": 40.733
+    },
+    {
+     "w": "a",
+     "start": 40.806,
+     "end": 40.879
+    },
+    {
+     "w": "storm",
+     "start": 40.953,
+     "end": 41.246
+    },
+    {
+     "w": "is",
+     "start": 41.32,
+     "end": 41.466
+    },
+    {
+     "w": "pushing",
+     "start": 41.54,
+     "end": 41.76
+    },
+    {
+     "w": "the",
+     "start": 41.833,
+     "end": 41.907
+    },
+    {
+     "w": "North",
+     "start": 42.017,
+     "end": 42.127
+    },
+    {
+     "w": "Sea",
+     "start": 42.273,
+     "end": 42.494
+    },
+    {
+     "w": "up",
+     "start": 42.567,
+     "end": 42.714
+    },
+    {
+     "w": "the",
+     "start": 42.787,
+     "end": 42.86
+    },
+    {
+     "w": "river",
+     "start": 43.007,
+     "end": 43.154
+    },
+    {
+     "w": "toward",
+     "start": 43.227,
+     "end": 43.447
+    },
+    {
+     "w": "Rotterdam.",
+     "start": 43.521,
+     "end": 44.328
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 44.508,
+   "end": 57.315,
+   "text": "Four levels, and you never got seasick. Your stomach says thank you. You just beat the waves, a detour around Africa, the dark and the North Sea, with sand, steam, fire and steel.",
+   "words": [
+    {
+     "w": "Four",
+     "start": 45.004,
+     "end": 45.297
+    },
+    {
+     "w": "levels,",
+     "start": 45.444,
+     "end": 46.058
+    },
+    {
+     "w": "and",
+     "start": 46.132,
+     "end": 46.205
+    },
+    {
+     "w": "you",
+     "start": 46.278,
+     "end": 46.352
+    },
+    {
+     "w": "never",
+     "start": 46.572,
+     "end": 46.792
+    },
+    {
+     "w": "got",
+     "start": 46.865,
+     "end": 47.012
+    },
+    {
+     "w": "seasick.",
+     "start": 47.085,
+     "end": 47.737
+    },
+    {
+     "w": "Your",
+     "start": 47.847,
+     "end": 47.957
+    },
+    {
+     "w": "stomach",
+     "start": 48.03,
+     "end": 48.397
+    },
+    {
+     "w": "says",
+     "start": 48.544,
+     "end": 48.69
+    },
+    {
+     "w": "thank",
+     "start": 48.837,
+     "end": 49.057
+    },
+    {
+     "w": "you.",
+     "start": 49.131,
+     "end": 49.351
+    },
+    {
+     "w": "You",
+     "start": 49.684,
+     "end": 49.708
+    },
+    {
+     "w": "just",
+     "start": 49.782,
+     "end": 49.928
+    },
+    {
+     "w": "beat",
+     "start": 50.002,
+     "end": 50.149
+    },
+    {
+     "w": "the",
+     "start": 50.222,
+     "end": 50.295
+    },
+    {
+     "w": "waves,",
+     "start": 50.442,
+     "end": 51.102
+    },
+    {
+     "w": "a",
+     "start": 51.176,
+     "end": 51.249
+    },
+    {
+     "w": "detour",
+     "start": 51.396,
+     "end": 51.689
+    },
+    {
+     "w": "around",
+     "start": 51.763,
+     "end": 51.983
+    },
+    {
+     "w": "Africa,",
+     "start": 52.129,
+     "end": 52.826
+    },
+    {
+     "w": "the",
+     "start": 52.863,
+     "end": 52.9
+    },
+    {
+     "w": "dark",
+     "start": 53.047,
+     "end": 53.34
+    },
+    {
+     "w": "and",
+     "start": 53.413,
+     "end": 53.634
+    },
+    {
+     "w": "the",
+     "start": 53.67,
+     "end": 53.707
+    },
+    {
+     "w": "North",
+     "start": 53.78,
+     "end": 54.0
+    },
+    {
+     "w": "Sea,",
+     "start": 54.074,
+     "end": 54.496
+    },
+    {
+     "w": "with",
+     "start": 54.606,
+     "end": 54.716
+    },
+    {
+     "w": "sand,",
+     "start": 54.789,
+     "end": 55.376
+    },
+    {
+     "w": "steam,",
+     "start": 55.596,
+     "end": 56.036
+    },
+    {
+     "w": "fire",
+     "start": 56.22,
+     "end": 56.403
+    },
+    {
+     "w": "and",
+     "start": 56.477,
+     "end": 56.697
+    },
+    {
+     "w": "steel.",
+     "start": 56.77,
+     "end": 57.504
+    }
+   ]
+  }
+ ]
+}
