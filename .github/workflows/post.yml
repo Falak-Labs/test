@@ -27,7 +27,9 @@ jobs:
           BUFFER_KEY_AR: ${{ secrets.BUFFER_KEY_AR }}
         run: python scripts/post.py
       - name: Check statuses
-        if: always()
+        # Not on push runs: a full status look costs about 11 Buffer API requests per account and the 30-day
+        # allowance ran low (Nov 26: Arabic 174, English 253 left); post.py counts queue places from state/ by dueAt.
+        if: always() && github.event_name != 'push'
         env:
           BUFFER_KEY_EN: ${{ secrets.BUFFER_KEY_EN }}
           BUFFER_KEY_AR: ${{ secrets.BUFFER_KEY_AR }}
