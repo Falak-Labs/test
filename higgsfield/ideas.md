@@ -3734,3 +3734,60 @@ Checked, nothing new
   property" (its route symbols are trademarks too); the Commons licence pages did not load here, so skip them.
   [MTA Licensing Program](https://www.mta.info/doing-business-with-us/licensing-program),
   [Skift, Dec 6 2013](https://skift.com/2013/12/06/nyc-takes-subway-riders-underground-with-amazing-flickr-account)
+
+## 2026-11-26 09:00 PT (hourly runner, cloud run)
+
+New content
+- Riyadh Metro (LINEUP 106): more trains and a new branch, for line 13 or the B5 shot (new to these notes). The
+  Royal Commission for Riyadh City "had awarded contracts to German engineering group Siemens and French rail
+  manufacturer Alstom, increasing the metro fleet from 183 to 277 trains": 94 more for "SR5.5 billion", capacity up
+  "60 per cent", deliveries that "will begin in phases in 2028" (Gulf News, upd. Oct 14 2026). The 183 matches the
+  makers' fleets summed in the Nov 25 21:00 entry. By line: Red up 142% (a day's capacity "370,000, up from
+  154,000"), Yellow 116% ("over 288,000"), Blue 60% ("from 340,000 to 533,000"), Orange 27%, Purple 16%. The Red Line
+  grows "by 8.4 kilometers" (the Zawya link says "84km", but the text says 8.4) "from King Saud University to the
+  Diriyah Gate Development project", with "five new stations", "7.1 kilometers of deep underground tunnels, 1.3
+  kilometers of elevated tracks", one of them "a future interchange with Line 7", done in "approximately six years"
+  (Zawya, a Saudi Gazette copy, undated, "Copyright 2026"; no contractor or cost named). Rider totals disagree: "300
+  million passengers" since opening (Gulf News), "173 million" in the older Zawya copy, and about 91 million in 2026's
+  first nine months (Nov 25 21:00 entry). Check those before a line uses them, or say "hundreds of millions". Line 13
+  could be: 183 trains, not one driver, and 94 more on the way. No maker names or logos on screen.
+  [Gulf News, upd. Oct 14 2026](https://gulfnews.com/world/gulf/saudi/riyadh-metro-to-add-94-trains-in-sr55-billion-expansion-boosting-capacity-by-60-1.500709707),
+  [Zawya / Saudi Gazette](https://www.zawya.com/en/business/transport-and-logistics/riyadh-metro-to-extend-red-line-to-diriyah-in-84km-expansion-project-k2uqman9)
+- The chairlift (LINEUP 107): no free 1936 photo found (new to these notes as a source check). The University of Idaho
+  Library has "Dollar Mountain Lift. Sun Valley, Idaho." ("Dollar lift and Proctor lift world's first two
+  chairlifts", 1936) and "Guest riding lift on Proctor Mountain" (1936), both 8x10 prints from the Sun Valley News
+  Bureau. Both are marked InC-EDU: "Educational use includes non-commercial use of text and images in materials for
+  teaching and research purposes"; for other uses, contact its Special Collections. So ask the library before a post
+  uses either one. Also not usable: the National Register entry "Proctor Mountain Ski Lift" (NRIS 80001294, 1980,
+  architect "Curran,James") has two PDFs and no terms on its page; the Idaho highway marker "Ski Lifts" on HMDB ("When
+  Sun Valley Lodge was built in 1936, Union Pacific engineers developed chair lifts to transport skiers uphill")
+  carries a 1937 photo credited to Life magazine, which is not free; and The Community Library's "Mock-up of world's
+  first chair" was behind an access check. So the banana-hook and truck-test shots stay AI: Seedance, or an
+  unlimited still after Nov 28.
+  [University of Idaho, Dollar Mountain Lift](https://lib.uidaho.edu/digital/cities/items/cities952.html),
+  [University of Idaho, Proctor Mountain](https://lib.uidaho.edu/digital/cities/items/cities963.html),
+  [NPGallery, NRIS 80001294](https://npgallery.nps.gov/AssetDetail/NRIS/80001294),
+  [HMDB, Ski Lifts](https://www.hmdb.org/m.asp?m=110054)
+- Free US government photos of roads and bridges, real B-roll stills for bridge and road builds with a slow zoom (new
+  to these notes). Each America's Byways photo page has its own rights line. For example, "Historic Bridge on the
+  Columbia River Highway" (#17406, 1000 x 659, "Download Original") says "Public Domain.", so read the line on each
+  photo. FHWA's "Interstate Photo Gallery - All High Resolution Images" is a list of TIFF files (over 200 in the part
+  read), such as "ny_1_GeorgeWashingtonBridge_FHWA_63_1074.tif" and "ny_3_verrazanonarowsbridge_FHWA_1964_615.tif".
+  The page has no rights line. Works of federal staff have no US copyright (17 U.S.C. 105), but check each file's
+  source before use. No Brooklyn Bridge file was in the part read, and three fhwa.dot.gov gallery and history pages
+  returned a server error.
+  [America's Byways, #17406](https://fhwaapps.fhwa.dot.gov/bywaysp/photos/17406),
+  [FHWA, Interstate Photo Gallery](https://highways.dot.gov/highway-history/general-highway-history/gallery/interstate-photo-gallery-all-high-resolution-images)
+
+Checked, nothing new
+- Jeddah Tower (100): no 500 m report at about 08:52 PT. The results (Newsweek, TradeArabia, Gulf News,
+  Construction Review Online, Zawya's 430 m, UNIAN) are already in these notes.
+- Higgsfield at about 08:56 PT: the Black Friday results are pages already in these notes (dio.me, mydealz's MCP
+  deals, which show as expired, pepper.pl, "33 days", "14 days", 11.11, the plan-change explainers). Nov 28 stands.
+- Platforms: a search for this week's Shorts features still returns only Made on YouTube (Sep 23). TikTok's next
+  yearly forecast is not out ("TikTok Next 2026" came out Jan 14), and Virlo's weekly page is still the week of Nov 16.
+- Unsplash for the Riyadh Metro (106): none of the four results shows the metro. "Office building in Riyadh" and
+  "Office skyscrapers in Riyadh" (Youssef Abdelwahab, Apr 21 2024) and a Riyadh street (abdullah ali, Jan 1 2026) are
+  all "Free to use under the Unsplash License" and fine for a city shot. The fourth, a subway station, is tagged Dubai.
+  Arabsstock's "riyadh metro" tag is on a stock site (terms not read).
+  [Unsplash, Office building in Riyadh](https://unsplash.com/photos/Ki3dBaIpp18)
