@@ -1,0 +1,948 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 67.575,
+ "words": 165,
+ "words_per_sec": 2.44,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.023,
+   "text": "Y'all, Singapore's airport has a waterfall... pouring through a hole in the roof.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.139,
+     "end": 0.782
+    },
+    {
+     "w": "Singapore's",
+     "start": 0.996,
+     "end": 1.568
+    },
+    {
+     "w": "airport",
+     "start": 1.782,
+     "end": 1.996
+    },
+    {
+     "w": "has",
+     "start": 2.068,
+     "end": 2.211
+    },
+    {
+     "w": "a",
+     "start": 2.282,
+     "end": 2.425
+    },
+    {
+     "w": "waterfall...",
+     "start": 2.496,
+     "end": 3.336
+    },
+    {
+     "w": "pouring",
+     "start": 3.371,
+     "end": 3.729
+    },
+    {
+     "w": "through",
+     "start": 3.8,
+     "end": 3.871
+    },
+    {
+     "w": "a",
+     "start": 3.943,
+     "end": 4.086
+    },
+    {
+     "w": "hole",
+     "start": 4.229,
+     "end": 4.371
+    },
+    {
+     "w": "in",
+     "start": 4.443,
+     "end": 4.514
+    },
+    {
+     "w": "the",
+     "start": 4.55,
+     "end": 4.586
+    },
+    {
+     "w": "roof.",
+     "start": 4.657,
+     "end": 5.157
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.336,
+   "end": 9.081,
+   "text": "Indoors. No river. So where's all that water from?",
+   "words": [
+    {
+     "w": "Indoors.",
+     "start": 5.351,
+     "end": 6.244
+    },
+    {
+     "w": "No",
+     "start": 6.422,
+     "end": 6.637
+    },
+    {
+     "w": "river.",
+     "start": 6.779,
+     "end": 7.3
+    },
+    {
+     "w": "So",
+     "start": 7.44,
+     "end": 7.583
+    },
+    {
+     "w": "where's",
+     "start": 7.797,
+     "end": 8.012
+    },
+    {
+     "w": "all",
+     "start": 8.083,
+     "end": 8.154
+    },
+    {
+     "w": "that",
+     "start": 8.226,
+     "end": 8.297
+    },
+    {
+     "w": "water",
+     "start": 8.369,
+     "end": 8.583
+    },
+    {
+     "w": "from?",
+     "start": 8.726,
+     "end": 9.226
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.394,
+   "end": 13.256,
+   "text": "So the roof is a giant glass doughnut, with the hole in the middle.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.608,
+     "end": 9.751
+    },
+    {
+     "w": "the",
+     "start": 9.822,
+     "end": 9.965
+    },
+    {
+     "w": "roof",
+     "start": 10.037,
+     "end": 10.251
+    },
+    {
+     "w": "is",
+     "start": 10.322,
+     "end": 10.394
+    },
+    {
+     "w": "a",
+     "start": 10.465,
+     "end": 10.608
+    },
+    {
+     "w": "giant",
+     "start": 10.679,
+     "end": 11.037
+    },
+    {
+     "w": "glass",
+     "start": 11.108,
+     "end": 11.394
+    },
+    {
+     "w": "doughnut,",
+     "start": 11.537,
+     "end": 12.135
+    },
+    {
+     "w": "with",
+     "start": 12.206,
+     "end": 12.278
+    },
+    {
+     "w": "the",
+     "start": 12.313,
+     "end": 12.349
+    },
+    {
+     "w": "hole",
+     "start": 12.421,
+     "end": 12.635
+    },
+    {
+     "w": "in",
+     "start": 12.671,
+     "end": 12.706
+    },
+    {
+     "w": "the",
+     "start": 12.778,
+     "end": 12.849
+    },
+    {
+     "w": "middle.",
+     "start": 12.992,
+     "end": 13.421
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 13.569,
+   "end": 18.848,
+   "text": "But water falling straight down smashes the floor and sprays everybody.",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.301,
+     "end": 14.444
+    },
+    {
+     "w": "water",
+     "start": 14.515,
+     "end": 14.801
+    },
+    {
+     "w": "falling",
+     "start": 14.872,
+     "end": 15.158
+    },
+    {
+     "w": "straight",
+     "start": 15.301,
+     "end": 15.658
+    },
+    {
+     "w": "down",
+     "start": 15.729,
+     "end": 16.015
+    },
+    {
+     "w": "smashes",
+     "start": 16.229,
+     "end": 16.729
+    },
+    {
+     "w": "the",
+     "start": 16.801,
+     "end": 16.872
+    },
+    {
+     "w": "floor",
+     "start": 16.944,
+     "end": 17.229
+    },
+    {
+     "w": "and",
+     "start": 17.301,
+     "end": 17.372
+    },
+    {
+     "w": "sprays",
+     "start": 17.515,
+     "end": 18.015
+    },
+    {
+     "w": "everybody.",
+     "start": 18.158,
+     "end": 19.015
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 19.161,
+   "end": 23.396,
+   "text": "So the hole sits off center, and the water falls in a smooth curve.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.37,
+     "end": 19.512
+    },
+    {
+     "w": "the",
+     "start": 19.584,
+     "end": 19.727
+    },
+    {
+     "w": "hole",
+     "start": 19.834,
+     "end": 19.941
+    },
+    {
+     "w": "sits",
+     "start": 20.012,
+     "end": 20.227
+    },
+    {
+     "w": "off",
+     "start": 20.298,
+     "end": 20.441
+    },
+    {
+     "w": "center,",
+     "start": 20.584,
+     "end": 21.012
+    },
+    {
+     "w": "and",
+     "start": 21.155,
+     "end": 21.298
+    },
+    {
+     "w": "the",
+     "start": 21.37,
+     "end": 21.441
+    },
+    {
+     "w": "water",
+     "start": 21.584,
+     "end": 21.727
+    },
+    {
+     "w": "falls",
+     "start": 21.798,
+     "end": 22.012
+    },
+    {
+     "w": "in",
+     "start": 22.084,
+     "end": 22.155
+    },
+    {
+     "w": "a",
+     "start": 22.298,
+     "end": 22.334
+    },
+    {
+     "w": "smooth",
+     "start": 22.37,
+     "end": 22.87
+    },
+    {
+     "w": "curve.",
+     "start": 23.12,
+     "end": 23.584
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.709,
+   "end": 27.818,
+   "text": "But the mist still drifts. Phones, passports... wet.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.908,
+     "end": 24.051
+    },
+    {
+     "w": "the",
+     "start": 24.122,
+     "end": 24.194
+    },
+    {
+     "w": "mist",
+     "start": 24.265,
+     "end": 24.551
+    },
+    {
+     "w": "still",
+     "start": 24.694,
+     "end": 24.908
+    },
+    {
+     "w": "drifts.",
+     "start": 24.979,
+     "end": 25.602
+    },
+    {
+     "w": "Phones,",
+     "start": 25.685,
+     "end": 26.185
+    },
+    {
+     "w": "passports...",
+     "start": 26.328,
+     "end": 27.292
+    },
+    {
+     "w": "wet.",
+     "start": 27.328,
+     "end": 27.935
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 28.13,
+   "end": 31.726,
+   "text": "So it falls into a clear drum, two floors tall.",
+   "words": [
+    {
+     "w": "So",
+     "start": 28.345,
+     "end": 28.487
+    },
+    {
+     "w": "it",
+     "start": 28.559,
+     "end": 28.702
+    },
+    {
+     "w": "falls",
+     "start": 28.773,
+     "end": 28.987
+    },
+    {
+     "w": "into",
+     "start": 29.059,
+     "end": 29.273
+    },
+    {
+     "w": "a",
+     "start": 29.345,
+     "end": 29.416
+    },
+    {
+     "w": "clear",
+     "start": 29.488,
+     "end": 29.773
+    },
+    {
+     "w": "drum,",
+     "start": 29.916,
+     "end": 30.425
+    },
+    {
+     "w": "two",
+     "start": 30.559,
+     "end": 30.702
+    },
+    {
+     "w": "floors",
+     "start": 30.845,
+     "end": 31.202
+    },
+    {
+     "w": "tall.",
+     "start": 31.237,
+     "end": 31.845
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.038,
+   "end": 36.54,
+   "text": "But falling water drags the air down... a wind in the garden.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.556,
+     "end": 32.699
+    },
+    {
+     "w": "falling",
+     "start": 32.842,
+     "end": 33.199
+    },
+    {
+     "w": "water",
+     "start": 33.271,
+     "end": 33.628
+    },
+    {
+     "w": "drags",
+     "start": 33.771,
+     "end": 34.128
+    },
+    {
+     "w": "the",
+     "start": 34.199,
+     "end": 34.271
+    },
+    {
+     "w": "air",
+     "start": 34.342,
+     "end": 34.556
+    },
+    {
+     "w": "down...",
+     "start": 34.628,
+     "end": 35.128
+    },
+    {
+     "w": "a",
+     "start": 35.199,
+     "end": 35.271
+    },
+    {
+     "w": "wind",
+     "start": 35.342,
+     "end": 35.699
+    },
+    {
+     "w": "in",
+     "start": 35.771,
+     "end": 35.842
+    },
+    {
+     "w": "the",
+     "start": 35.913,
+     "end": 35.985
+    },
+    {
+     "w": "garden.",
+     "start": 36.056,
+     "end": 36.699
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.853,
+   "end": 40.761,
+   "text": "So a low glass wall sends that air up, not sideways.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.066,
+     "end": 37.209
+    },
+    {
+     "w": "a",
+     "start": 37.28,
+     "end": 37.423
+    },
+    {
+     "w": "low",
+     "start": 37.495,
+     "end": 37.638
+    },
+    {
+     "w": "glass",
+     "start": 37.709,
+     "end": 37.995
+    },
+    {
+     "w": "wall",
+     "start": 38.066,
+     "end": 38.28
+    },
+    {
+     "w": "sends",
+     "start": 38.352,
+     "end": 38.566
+    },
+    {
+     "w": "that",
+     "start": 38.637,
+     "end": 38.78
+    },
+    {
+     "w": "air",
+     "start": 38.852,
+     "end": 39.066
+    },
+    {
+     "w": "up,",
+     "start": 39.28,
+     "end": 39.602
+    },
+    {
+     "w": "not",
+     "start": 39.709,
+     "end": 39.923
+    },
+    {
+     "w": "sideways.",
+     "start": 39.995,
+     "end": 40.852
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 41.073,
+   "end": 45.643,
+   "text": "Hit follow, 'cause next we're building noodles... full of tiny holes.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 41.141,
+     "end": 41.284
+    },
+    {
+     "w": "follow,",
+     "start": 41.427,
+     "end": 41.962
+    },
+    {
+     "w": "'cause",
+     "start": 42.07,
+     "end": 42.284
+    },
+    {
+     "w": "next",
+     "start": 42.355,
+     "end": 42.641
+    },
+    {
+     "w": "we're",
+     "start": 42.712,
+     "end": 42.855
+    },
+    {
+     "w": "building",
+     "start": 43.034,
+     "end": 43.212
+    },
+    {
+     "w": "noodles...",
+     "start": 43.284,
+     "end": 43.912
+    },
+    {
+     "w": "full",
+     "start": 43.971,
+     "end": 44.114
+    },
+    {
+     "w": "of",
+     "start": 44.186,
+     "end": 44.257
+    },
+    {
+     "w": "tiny",
+     "start": 44.436,
+     "end": 44.614
+    },
+    {
+     "w": "holes.",
+     "start": 44.864,
+     "end": 45.186
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 45.955,
+   "end": 51.531,
+   "text": "The answer? Rain! The roof catches it, and pumps send the same water round again.",
+   "words": [
+    {
+     "w": "The",
+     "start": 46.17,
+     "end": 46.241
+    },
+    {
+     "w": "answer?",
+     "start": 46.312,
+     "end": 46.902
+    },
+    {
+     "w": "Rain!",
+     "start": 47.08,
+     "end": 47.652
+    },
+    {
+     "w": "The",
+     "start": 48.33,
+     "end": 48.366
+    },
+    {
+     "w": "roof",
+     "start": 48.437,
+     "end": 48.652
+    },
+    {
+     "w": "catches",
+     "start": 48.723,
+     "end": 49.009
+    },
+    {
+     "w": "it,",
+     "start": 49.08,
+     "end": 49.259
+    },
+    {
+     "w": "and",
+     "start": 49.295,
+     "end": 49.366
+    },
+    {
+     "w": "pumps",
+     "start": 49.509,
+     "end": 49.723
+    },
+    {
+     "w": "send",
+     "start": 49.795,
+     "end": 49.937
+    },
+    {
+     "w": "the",
+     "start": 50.045,
+     "end": 50.152
+    },
+    {
+     "w": "same",
+     "start": 50.295,
+     "end": 50.438
+    },
+    {
+     "w": "water",
+     "start": 50.509,
+     "end": 50.723
+    },
+    {
+     "w": "round",
+     "start": 50.795,
+     "end": 51.009
+    },
+    {
+     "w": "again.",
+     "start": 51.223,
+     "end": 51.652
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.844,
+   "end": 56.761,
+   "text": "Forty meters, up to ten thousand gallons a minute, and over two thousand trees.",
+   "words": [
+    {
+     "w": "Forty",
+     "start": 51.906,
+     "end": 52.192
+    },
+    {
+     "w": "meters,",
+     "start": 52.263,
+     "end": 52.799
+    },
+    {
+     "w": "up",
+     "start": 52.906,
+     "end": 52.978
+    },
+    {
+     "w": "to",
+     "start": 53.049,
+     "end": 53.192
+    },
+    {
+     "w": "ten",
+     "start": 53.263,
+     "end": 53.406
+    },
+    {
+     "w": "thousand",
+     "start": 53.549,
+     "end": 53.835
+    },
+    {
+     "w": "gallons",
+     "start": 53.906,
+     "end": 54.192
+    },
+    {
+     "w": "a",
+     "start": 54.263,
+     "end": 54.335
+    },
+    {
+     "w": "minute,",
+     "start": 54.478,
+     "end": 54.728
+    },
+    {
+     "w": "and",
+     "start": 54.835,
+     "end": 54.978
+    },
+    {
+     "w": "over",
+     "start": 55.049,
+     "end": 55.335
+    },
+    {
+     "w": "two",
+     "start": 55.442,
+     "end": 55.549
+    },
+    {
+     "w": "thousand",
+     "start": 55.692,
+     "end": 56.121
+    },
+    {
+     "w": "trees.",
+     "start": 56.371,
+     "end": 56.835
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 57.073,
+   "end": 60.414,
+   "text": "And congrats, you just built the Rain Vortex yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 57.129,
+     "end": 57.272
+    },
+    {
+     "w": "congrats,",
+     "start": 57.379,
+     "end": 58.129
+    },
+    {
+     "w": "you",
+     "start": 58.272,
+     "end": 58.415
+    },
+    {
+     "w": "just",
+     "start": 58.487,
+     "end": 58.629
+    },
+    {
+     "w": "built",
+     "start": 58.737,
+     "end": 58.844
+    },
+    {
+     "w": "the",
+     "start": 58.915,
+     "end": 58.987
+    },
+    {
+     "w": "Rain",
+     "start": 59.058,
+     "end": 59.272
+    },
+    {
+     "w": "Vortex",
+     "start": 59.344,
+     "end": 59.772
+    },
+    {
+     "w": "yourself.",
+     "start": 59.879,
+     "end": 60.629
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 60.727,
+   "end": 67.56,
+   "text": "Now try your kitchen tap on full, over a spoon. Yep. Get a drum.",
+   "words": [
+    {
+     "w": "Now",
+     "start": 61.298,
+     "end": 61.87
+    },
+    {
+     "w": "try",
+     "start": 61.941,
+     "end": 62.155
+    },
+    {
+     "w": "your",
+     "start": 62.227,
+     "end": 62.298
+    },
+    {
+     "w": "kitchen",
+     "start": 62.37,
+     "end": 62.584
+    },
+    {
+     "w": "tap",
+     "start": 62.655,
+     "end": 62.87
+    },
+    {
+     "w": "on",
+     "start": 62.941,
+     "end": 63.012
+    },
+    {
+     "w": "full,",
+     "start": 63.155,
+     "end": 63.655
+    },
+    {
+     "w": "over",
+     "start": 63.762,
+     "end": 63.87
+    },
+    {
+     "w": "a",
+     "start": 63.905,
+     "end": 63.941
+    },
+    {
+     "w": "spoon.",
+     "start": 64.013,
+     "end": 64.557
+    },
+    {
+     "w": "Yep.",
+     "start": 65.941,
+     "end": 66.441
+    },
+    {
+     "w": "Get",
+     "start": 66.771,
+     "end": 66.914
+    },
+    {
+     "w": "a",
+     "start": 66.95,
+     "end": 66.986
+    },
+    {
+     "w": "drum.",
+     "start": 67.057,
+     "end": 67.7
+    }
+   ]
+  }
+ ]
+}
