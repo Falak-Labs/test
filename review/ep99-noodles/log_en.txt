@@ -1,0 +1,13 @@
+noodles: 69.10s, 2073 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/noodles/cover.png: ['INSTANT', 'NOODLES'] (frame 0 of the video)
+video done in 390s
+audio done
+final out/noodles/noodles_final.mp4
+QA  duration 69.10s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2073
+QA sheet out/noodles/qa_sheet.png
