@@ -1501,10 +1501,12 @@ jobs:
     # "originally developed for an aircraft" (00734; nippon.com: "modified versions of the gas turbines used in
     # jetliners"), chosen over diesel engines because it keeps the machine room free of water and saves space, about
     # 100 t lighter with less vibration (edogawa00352). The lift is "up to 14 meters" (00734): never say the pumps lift
-    # the water 50 m. B2-B3: after the big pumps stop, about 670,000 m3 of water left in the system ("一次残水") is
-    # drained by two pumps in three days into the Kuramatsu River (00352; check it is after each use, not the trial
-    # runs); B2's still, half-full tunnel is our picture of that. B4 teases build 105, the Brooklyn Bridge (LINEUP;
-    # granite towers and steel-wire cables), with no people's faces and no writing. B5: Typhoon Hagibis, Oct 12 2019
+    # the water 50 m. B2-B3: the tunnel is kept dry in normal times ("平常時はトンネルをドライの状態にしておく"), so the
+    # water the big pumps cannot clear goes out through small residual-water pumps at shafts 3 and 1: about 670,000 m3
+    # by two pumps in three days into the Kuramatsu River, the last of it into a farm canal (00352, which does not say
+    # how long it takes after a given flood); B2's still, half-full tunnel is our picture of that. B4 teases build
+    # 105, the Brooklyn Bridge (LINEUP; granite towers and steel-wire cables), with no people's faces and no writing.
+    # B5: Typhoon Hagibis, Oct 12 2019
     # (NASA Earth Observatory; MLIT's quick report puts 12.2 million m3 at the Showa pump station: check; "Thank you,
     # Underground Temple." was a tweet quoted by SoraNews24): ideas.md Nov 25 16:10. Line 12: "200 M3 A SECOND" or "59
     # PILLARS"; the still can be the pillared tank (free Unsplash photos by C Cai, ideas.md Nov 25 05:05: look for

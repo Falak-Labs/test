@@ -3899,3 +3899,55 @@ Checked, nothing new
 - Free video: Higgsfield's "33 days", "14 days", "11 days 4K", "7-day bonus" and plan-change pages again (Nov 28
   stands); open video models are still MiniMax H3 and LTX-2.5 (a DEV Community post on "Wan 2.7" seen as a title
   only).
+
+## 2026-11-26 12:10 PT (hourly runner, cloud run)
+
+New content
+- Bubble wrap (LINEUP 103), two figures for lines 11-12 (new to these notes; the story is in the Nov 24 21:05 entry):
+  "The most people popping bubble wrap simultaneously is 2,681", set by the "Denver Area Council, Boy Scouts of
+  America" at Peaceful Valley Scout Ranch in Elbert, Colorado, on Sep 19 2015 (Guinness World Records' record page,
+  which adds "Records change on a daily basis"): "Following a loud start signal the children began exploding the
+  bubbles using their hands or feet and continued for two whole minutes", beating 1,119 by Beaudesert State High
+  School in Australia, Aug 2014 (Guinness news, Sep 22 2015). And B3's fix, film blown up where it is used: "Designed
+  to inflate on demand, it ships and stores flat, saving up to 80% of warehouse space" (Sealed Air's inflatable
+  cushioning page, read Nov 26 2026: a maker's "up to", no truckload figure). Queued as bubblewrap-A/B.
+  [Guinness World Records, record page](https://www.guinnessworldrecords.com/world-records/most-people-popping-bubble-wrap),
+  [Guinness World Records, Sep 22 2015](https://www.guinnessworldrecords.com/news/2015/9/thousands-of-boy-scouts-explode-record-for-most-people-popping-bubble-wrap-397955),
+  [Sealed Air, inflatable cushioning](https://sealedair.com/products/protective-packaging/inflatable-cushioning)
+- Tokyo's G-Cans (LINEUP 104), the pumps from the operator's own pages (MLIT Edogawa River Office; new to these
+  notes): "four large pumps" (English page), volute pumps of 50 m3/s each, 200 m3/s in all, each driven by a two-shaft
+  gas turbine of 14,000 hp "originally developed for an aircraft" and burning heavy fuel oil, chosen over diesel
+  engines because the machine room then needs no water and less space (also less vibration, about 100 t lighter).
+  The lift is "up to 14 meters" (total head 14 m), so the Nov 24 21:05 chain's "the water must go back up 50 m" is
+  wrong for the pumps: say "back up to the river". The tunnel is kept dry in normal times: 「平常時はトンネルをドライの状
+  態にしておくため」 the water the pump station cannot clear goes out through residual-water pumps at shafts 3 and 1,
+  「一次残水約67万立方メートルは2台のポンプを使って3日間で倉松川へ排水し、二次残水は農業用水路へ排水する」 (about
+  670,000 m3 by two pumps in three days into the Kuramatsu River, the rest into a farm canal; a standing arrangement,
+  with no figure for a given flood): B2-B3 of gcans-B. Trial use began in June 2002 (2002-2004: about 20 million m3
+  drained). Most of the ~360,000 m3 of soil dug for the pump station went into the Edo River's levees. Not on these
+  pages: sediment cleaning, the inflow weirs, uses per year; the English "Flood Control Effects" page (edogawa00823)
+  keeps its "Record of adjusting floods" in a chart image (look at it in a browser, or the Japanese edogawa00147).
+  Wikipedia's "seventy-eight 10 MW (13,000 hp) pumps" disagrees with the operator: leave it out. Queued as gcans-A/B.
+  [MLIT Edogawa, Draining pump station (EN)](https://www.ktr.mlit.go.jp/edogawa/edogawa00734.html),
+  [MLIT Edogawa, 排水機場](https://www.ktr.mlit.go.jp/edogawa/edogawa00352.html),
+  [MLIT Edogawa, 調圧水槽](https://www.ktr.mlit.go.jp/edogawa/edogawa00353.html),
+  [MLIT Edogawa, Flood Control Effects (EN)](https://www.ktr.mlit.go.jp/edogawa/edogawa00823.html),
+  [Wikipedia](https://en.wikipedia.org/wiki/Metropolitan_Area_Outer_Underground_Discharge_Channel)
+- The pin tumbler lock (LINEUP 111), Linus Yale Jr.'s own patents as free proof stills (new to these notes; the USPTO
+  rule on patent drawings is in the Nov 23 22:56 entry): US 48,475, "Improvement in locks", June 27 1865, 20 figures
+  on three sheets, where the key is "properly shaped to bring the lines of division between the tumblers into the
+  same line" (the shear line) and "each is provided with a spring" (OCR text, partly garbled: read the drawing); and
+  US 31,278 of Jan 29 1861, a drawer lock with "pistons and drivers" where "behind each of these drivers is a helical
+  spring". No copyright notice on either page. His Wikipedia article was not read (the fetch was refused), so which
+  patent it credits for the cylinder lock is still to check.
+  [Google Patents, US48475](https://patents.google.com/patent/US48475),
+  [Google Patents, US31278](https://patents.google.com/patent/US31278)
+
+Checked, nothing new
+- Free video after Nov 28: Alibaba's Wan2.7-Video (launched Apr 7 2026, "2 to 15 seconds", 720p and 1080p) is on
+  "Alibaba Cloud's Model Studio and the official Wan website" only; its open weights "hasn't been officially
+  confirmed yet" (NemoVideo, undated) and neither page names a free tier: not a free source for us. Higgsfield's Black
+  Friday results are the pages already here (mydealz, aimojo, dio.me, the plan-change explainers): Nov 28 stands.
+  [Alibaba Cloud, Apr 7 2026](https://www.alibabacloud.com/blog/alibaba-unveils-wan2-7-video-to-elevate-creators-from-executors-to-directors_603009),
+  [NemoVideo](https://www.nemovideo.com/blog/wan-2-7-open-source)
+- Trends: the November pages in the results (Virlo's month, startups.co.uk, mean.ceo) are the ones already here.
