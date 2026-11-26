@@ -3403,3 +3403,37 @@ Checked, nothing new
   November 16, 2026" and Buffer's list is still its November edition, so nothing to add (neither was re-read). A
   search for engineering records set this month found only what is already here (Tianjin 117's lift; the Huajiang
   Grand Canyon Bridge is build 93) and 2025 tunnel news.
+
+## 2026-11-26 03:00 PT (hourly runner, cloud run)
+
+New content
+- What the annual Plus plan keeps after Nov 28, from Higgsfield's own plan pages (new to these notes: the 365-day
+  set, the 7-day windows and the tools that always cost credits). "Higgsfield pricing explained" (undated, "Prices
+  verified October 2026"): Plus's 365-day set is six image models, "365 days from activation": Seedream 5.0 Lite
+  (2K/3K), FLUX.2 Pro (1K), Seedream 4.5 (2K/4K), Nano Banana, Kling O1 Image and GPT Image (version not named), and
+  no video model. 7-day windows (credits after): Nano Banana 2 (1K/2K) on Plus, and Kling 3.0 at 720p, 5 s on annual
+  Plus, though the Sep 11 page (annual unlimited AI video plans) names Kling 3.0 only for Ultra annual; the pricing
+  page lists Seedance 2.5 as credits on Plus (our 14 days are the 11.11 bonus, which "does not renew"). HIGGSFIELD.md
+  (read on the site Nov 23) has Kling 3.0 as credits, so only the account page decides: Manage Account >
+  Subscription > "Active unlimited models" (the Nov 23 21:55 to-do for the next browser run). Always credits, even
+  with Unlimited on: MCP, CLI, Canvas and Supercomputer (pricing page), Marketing Studio (Sep 11 page), Soul 2.0 at
+  2K (0.125 credit an image) and Higgsfield Speak 2.0, so a run never opens those. Commercial use is ticked for Plus
+  (pricing page); watermarks are not mentioned. The Sep 11 page also says cancelling "pauses the set; it resumes on
+  reactivation before expiry" and "no priority queue inside unlimited mode". Higgsfield Upscale shows "Unlimited" only
+  on the undated 72-hour promo at higgsfield.ai/unlimited, which needs an "Ultimate or higher plan" (not ours). So
+  after Nov 28 the pictures stay free and the video does not, unless that account page shows a window.
+  [Higgsfield pricing explained, Oct 2026](https://higgsfield.ai/blog/higgsfield-pricing-explained),
+  [Higgsfield, Sep 11 2026](https://higgsfield.ai/blog/annual-unlimited-ai-video-plans),
+  [Higgsfield Unlimited promo, undated](https://higgsfield.ai/unlimited)
+
+Checked, nothing new
+- Jeddah Tower (100): still no report of the 500 m mark at about 02:52 PT on Thanksgiving; the results were pages
+  already here (Newsweek, Sep 3, Oct 6 and Oct 30; Construction Review; TradeArabia; RLI; Brogan; Business Today; New
+  Atlas) and older or undated ones not read (Zawya's "tops 100 floors" and "at least 167 stories", Gulf News,
+  LinkedIn posts; Luxury Launches' Oct 10 page).
+- eMarketer's "Social Trends to Watch in 2027", the first 2027 trend piece seen in these searches, did not load (a
+  site error): one look in a later run. The rest of that search was 2026 lists.
+- The "free generation pools" link on the Sep 11 page leads to the Jul 22 one-day trial for new free-plan users
+  (ended Jul 23; already here). Virlo's week of Nov 23 is in the Nov 25 00:57 entry (its next week starts Nov 30). A
+  search for free video tools launched this month returned vendor roundups (Dreamina, PixVerse, Krea, Scrimba, DEV),
+  nothing new past Nov 28.
