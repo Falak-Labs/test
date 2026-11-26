@@ -3832,8 +3832,11 @@ New content
   third-party "trademark, copyright, privacy, or publicity rights" is "your responsibility". PetaPixel (Mar 7 2024)
   counted "around 88,000 images", among them "44,192 albumen silver prints ... dating back to the 19th century".
   Commercial use is not named outright, but "no restrictions" plus CC0 covers it (our reading). Open items show a
-  "Download image" button in the museum's online collection. Not yet searched for our builds: 19th-century views of
-  bridges, canals and monuments for history lines (the Brooklyn Bridge for 105 first).
+  "Download image" button in the museum's online collection. For 105, the collection's object pages need JavaScript
+  (only their meta tags could be read here). Its "Brooklyn Bridge" items are Walker Evans prints of Oct 28 1929 and a
+  2007 print (not public domain), plus one 19th-century item: "Panorama from Brooklyn Bridge Pier. A." (H. Ropes &
+  Company, about 1870, albumen silver print, 84.XC.873.8855). Whether it is Open Content and what it shows (the
+  bridge was begun in 1870) need a look in a browser.
   [Getty Open Content FAQ](https://www.getty.edu/projects/open-content-program/faqs/),
   [PetaPixel, Mar 7 2024](https://petapixel.com/2024/03/07/gettys-open-content-program-has-88000-images-you-can-use-for-free)
 
