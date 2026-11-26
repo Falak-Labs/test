@@ -1,0 +1,237 @@
+{
+ "slug": "ep101-sprinkler",
+ "kit": "sprinkler",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, one fire, a hundred sprinklers... and only one turns on.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Fire spreads fast. So is one sprinkler enough?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So in eighteen seventy-four, a piano maker sealed them with metal that melts.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But in movies, one fire soaks the whole office!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So each one gets its own tiny glass bulb. Heat swells the liquid... [chuckles] pop!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But a hot oven could pop one, no fire at all.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So bulbs come in colors: red pops near seventy degrees, blue near a hundred twenty.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But the top reason sprinklers fail? Somebody shut the water off.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So the main valve gets locked open, wired to an alarm.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building towers that open umbrellas in the sun.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? Usually, yes! [chuckles] In most fires, one did the job.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] One glass bulb, about seventy degrees, and one sprinkler for most fires.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built a fire sprinkler yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] Ninety candles on grandpa's cake... [laughs harder] and everybody stares up. Nothing!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.37,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "11/159",
+   "mix_lines_off": [
+    "L 1 1 diff  | Yo, one fire, a hundred sprinklers, and only one turns on.",
+    "L 3 3 diff  | So in 1874, a piano maker sealed them with metal that melts.",
+    "L 7 4 diff  | So bulbs come in colors, red pops near 70 degrees, blue near 120.",
+    "L10 1 diff  | Hit follow cuz next we're building towers that open umbrellas in the sun.",
+    "L12 1 diff  | one glass bulb about 70 degrees and one sprinkler for most fires.",
+    "L14 1 diff  | 90 candles on grandpa's cake and everybody stares up nothing"
+   ],
+   "size_mb": 19.6,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، حريق واحد ومية رشاش... [chuckles] واحد بس يشتغل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] الحريق ينتشر بسرعة. طيب رشاش واحد يكفي؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فسنة ألف وثمنمية وأربعة وسبعين، واحد يصنع بيانوهات سكّر الرشاشات بمعدن يذوب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس في الأفلام، حريق صغير يفتح السقف كله... وكل شي يتغرّق!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فكل رشاش فيه حبة زجاج صغيرة. الحرارة تنفخ السائل... [chuckles] وطق!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس فرن المخبز ممكن يكسرها بدون أي حريق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فالحبات ألوان: الحمرا تنكسر عند سبعين درجة، والزرقا تصبر لين مية وعشرين.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس أكثر سبب يخلي الرشاشات تفشل؟ أحد سكّر الموية!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فالمحبس الرئيسي يتربط مفتوح، ولو أحد لفّه، يضرب إنذار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني أبراج تفتح مظلاتها مع الشمس. [chuckles] إي والله.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ غالباً إي! [chuckles] في أغلب الحرايق، رشاش واحد كفّى.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] حبة زجاج وحدة، سبعين درجة تقريباً، ورشاش واحد لأغلب الحرايق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك رشاش الحريق بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] وأبوك يبخّر غرفة الفندق بالعود... والكل يطالع الرشاش. [laughs harder] ولا شي!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 73.83,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 21.6,
+   "cover": true
+  }
+ }
+}

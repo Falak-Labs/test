@@ -1,0 +1,7 @@
+sprinkler_ar_sa: 73.84s, 2215 frames
+cover out/sprinkler_ar_sa/cover.png: ['رشاش', 'الحريق'] (frame 0 of the video)
+video done in 503s
+audio done
+final out/sprinkler_ar_sa/sprinkler_ar_sa_final.mp4
+QA  duration 73.83s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2215
+QA sheet out/sprinkler_ar_sa/qa_sheet.png
