@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-26T03:43:32+00:00
+# Yallah Say Buffer channels, checked 2026-11-26T17:13:25+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -64,8 +64,10 @@
 - jazirah-p2-en en.tiktok: scheduled, due 2026-11-27T21:00:55.000Z
 - jazirah-p3-en en.instagram: scheduled, due 2026-11-28T00:00:04.000Z
 - jazirah-p3-en en.tiktok: scheduled, due 2026-11-28T00:02:11.000Z
-- naddaha-p1-en en.instagram: scheduled, due 2026-11-26T17:02:54.000Z
-- naddaha-p1-en en.tiktok: scheduled, due 2026-11-26T17:01:52.000Z
+- mary-p1-en en.instagram: scheduled, due 2026-11-28T17:00:49.000Z
+- mary-p1-en en.tiktok: scheduled, due 2026-11-28T17:00:55.000Z
+- naddaha-p1-en en.instagram: sending, due 2026-11-26T17:02:54.000Z
+- naddaha-p1-en en.tiktok: sent, sent 2026-11-26T17:11:55.492Z, https://tiktok.com/@thedarktoldme/video/7712528580588178702
 - naddaha-p2-en en.instagram: scheduled, due 2026-11-26T21:01:20.000Z
 - naddaha-p2-en en.tiktok: scheduled, due 2026-11-26T21:02:57.000Z
 - naddaha-p3-en en.instagram: scheduled, due 2026-11-27T00:01:54.000Z
@@ -143,8 +145,10 @@
 - jazirah-p2-ar ar.tiktok: scheduled, due 2026-11-27T17:31:46.000Z
 - jazirah-p3-ar ar.instagram: scheduled, due 2026-11-27T20:01:42.000Z
 - jazirah-p3-ar ar.tiktok: scheduled, due 2026-11-27T20:01:10.000Z
-- naddaha-p1-ar ar.instagram: scheduled, due 2026-11-26T15:01:36.000Z
-- naddaha-p1-ar ar.tiktok: scheduled, due 2026-11-26T15:01:42.000Z
+- mary-p1-ar ar.instagram: scheduled, due 2026-11-28T15:02:00.000Z
+- mary-p1-ar ar.tiktok: scheduled, due 2026-11-28T15:02:44.000Z
+- naddaha-p1-ar ar.instagram: sent, sent 2026-11-26T15:13:44.047Z, https://www.instagram.com/reel/DgNZkwXhbVs/
+- naddaha-p1-ar ar.tiktok: sent, sent 2026-11-26T15:11:40.457Z, https://tiktok.com/@thedarktoldmear/video/7712497694102654221
 - naddaha-p2-ar ar.instagram: scheduled, due 2026-11-26T17:32:18.000Z
 - naddaha-p2-ar ar.tiktok: scheduled, due 2026-11-26T17:30:23.000Z
 - naddaha-p3-ar ar.instagram: scheduled, due 2026-11-26T20:01:01.000Z

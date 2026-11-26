@@ -4,19 +4,23 @@
    "id": "6b060b6394ebbd74c28eb828",
    "channel": "6b028f958541f09ecb5fe973",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-26T15:01:36.000Z",
    "planned": "2026-11-26T07:00:00-08:00",
-   "created": "2026-11-24T22:10:41+00:00"
+   "created": "2026-11-24T22:10:41+00:00",
+   "sentAt": "2026-11-26T15:13:44.047Z",
+   "link": "https://www.instagram.com/reel/DgNZkwXhbVs/"
   },
   "ar.tiktok": {
    "id": "6b060b6494ebbd74c28eb8a0",
    "channel": "6b028c3b8541f09ecb5fd4ae",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-26T15:01:42.000Z",
    "planned": "2026-11-26T07:00:00-08:00",
-   "created": "2026-11-24T22:10:41+00:00"
+   "created": "2026-11-24T22:10:41+00:00",
+   "sentAt": "2026-11-26T15:11:40.457Z",
+   "link": "https://tiktok.com/@thedarktoldmear/video/7712497694102654221"
   }
  }
 }
