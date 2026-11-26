@@ -1261,3 +1261,60 @@ jobs:
       small people seen from behind on a seaside promenade looking up, slow aerial orbit. Shot 6 (25-30 s): funny slow
       motion, in a home kitchen a person seen from behind sets one more plate on a towering stack of washed dishes, it
       sways and topples plate by plate into a sink of soapy water with a huge splash, a cat flinching.
+  - id: sprinkler-A
+    build: 101
+    kit: sprinkler
+    # Facts: only the head over the fire opens: "only the sprinkler heads directly in the area of the fire will operate"
+    # (FPA, Jun 12 2024); in US fires of 2015-2019 where sprinklers operated, one head did it in 77% and five or fewer
+    # in 97% (NFPA Journal, Spring 2022): A1, and the movie version is the break (A4). A2: Henry Parmelee, "in 1874, to
+    # protect his piano factory", is "credited with the first automated sprinkler head" (Wikipedia; the factory is ours
+    # to draw, no people). A3: "a fusible link made of a low-melting alloy" (FPA). A5: a glass bulb "filled with a heat
+    # sensitive liquid, which is commonly glycerin-based" that breaks at "usually 68°C" (FPA; CDC NIOSH says 165 F, 74 C:
+    # say "about 70 degrees"), as "the liquid expands and breaks the glass bulb" (NFSA, Apr 17 2023). A6 is our own break
+    # (an oven's heat), fixed by B1. More in ideas.md (Nov 24 15:05, Nov 25 06:00). No faces: people only from behind;
+    # no hands; no brand on the heads.
+    status: todo
+    file: buildit-sprinkler-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a long dark office ceiling lined with dozens of sprinkler heads, below it a small fire flares in
+      a metal wastebasket, and only the one head right above it bursts open and sprays, every other head stays dry,
+      slow push-in. Shot 2 (5-10 s): an 1870s piano factory full of wood shavings, varnish pots and half-built pianos,
+      a spark from an oil lamp lands in the shavings and flames race along the wooden workbenches, no people, wide
+      view. Shot 3 (10-15 s): macro of an old brass sprinkler on a ceiling pipe, its outlet sealed by a small plug of
+      soft metal, a flame below melts the plug, it drips away and water bursts out in a spray, close-up. Shot 4 (15-20
+      s): in a big open office one small fire sets off every sprinkler at once, water pours from the whole ceiling
+      onto desks, computers and papers, office workers seen from behind run for the doors, wide view. Shot 5 (20-25
+      s): macro of a modern sprinkler head with a tiny glass bulb of red liquid, hot air shimmers around it, the
+      liquid swells, the bulb shatters and water hits a toothed metal plate and fans out in a circle, slow motion.
+      Shot 6 (25-30 s): a hot bakery kitchen at noon, the red glass bulb of a sprinkler right above a blazing bread
+      oven bursts with no fire at all and water drenches the trays of fresh bread, clouds of steam, wide view.
+  - id: sprinkler-B
+    build: 101
+    kit: sprinkler
+    # Facts: the bulb colours (B1): orange and red "from 135 to 170°F (57-77°C)", yellow "174°F (79°C)", green "225°F
+    # (107°C)", blue "250°F (121°C)" (NFSA, Apr 17 2023, citing NFPA). B2: where sprinklers failed, the main reason was a
+    # system "shut off at some point before the fire" (NFPA Journal, Spring 2022). B3: the valves must be "electronically
+    # supervised using a tamper switch", and locking them open is allowed "to prevent vandalism" (NC State Fire Marshal,
+    # on the 2012 code); NFPA 72 wants the signal by "two complete revolutions or one-fifth of the valve's maximum
+    # travel" (EC&M, Feb 15 2008: old, check). B4 teases build 102, Al Bahar Towers in Abu Dhabi (LINEUP; "The 2,098
+    # dynamic units" across the two towers, AHR; each "driven by a linear actuator", designboom; "about half" the sun's
+    # heat kept out: ideas.md Nov 24 21:05), with no writing or emblems. B5: NIST's living-room pair, where the sprinkler
+    # in Room B opened at 85 s and Room A, without one, flashed over at 195 s at over 600 C (ideas.md Nov 25 06:00; its
+    # stills, credit NIST, can serve lines 12-13). B6: the ninety candles (ideas.md Nov 24 15:05). Line 12: "77%" (one
+    # head was enough) or "85 S". No faces: people only from behind; no hands; no brand on the heads or valves.
+    status: todo
+    file: buildit-sprinkler-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): macro of a row of sprinkler heads with glass bulbs in different colors, orange, red, yellow,
+      green and blue, then a green-bulb head above a hot bread oven stays shut while heat shimmers around it,
+      close-up. Shot 2 (5-10 s): in a dim basement a big red valve wheel on a water main sits turned shut, upstairs a
+      sprinkler bulb bursts over a small fire and only a few drops fall while smoke spreads across the ceiling, wide
+      view. Shot 3 (10-15 s): close-up of a big red water valve chained and padlocked open with a small grey switch
+      box on it, a long wrench starts turning the wheel and a red light flashes on a wall alarm panel as a bell rings.
+      Shot 4 (15-20 s): two round glass towers in Abu Dhabi wrapped in a honeycomb of hundreds of triangular
+      umbrella-like shades, as the sun moves the shades on the sunny side fold open and those in shade fold shut, slow
+      aerial orbit. Shot 5 (20-25 s): in a fire test lab two identical living rooms burn side by side behind a glass
+      wall, in one a ceiling sprinkler opens and the flames shrink to smoke, the other room bursts into a roaring wall
+      of fire, wide view. Shot 6 (25-30 s): funny slow motion, at a party a birthday cake blazing with ninety candles
+      is carried under a ceiling sprinkler, the guests seen from behind freeze and look up, nothing happens, and one
+      curl of candle smoke drifts past it.

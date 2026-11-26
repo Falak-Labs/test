@@ -3010,6 +3010,13 @@ New content
   [Thornton Tomasetti](https://www.thorntontomasetti.com/project/jeddah-tower),
   [Construction News, Sep 15 2015](https://www.construction.co.uk/construction-news/203303/schwing-stetter-produces-concrete-for-world-s-tallest-building),
   [ACerS, Mar 5 2014](https://ceramics.org/ceramic-tech-today/worlds-tallest-building-to-bes-got-99-problems-and-concretes-one)
+- The fire sprinkler's main valve, for Build #101's B2-B3 (written into sprinkler-A/B this run with the facts
+  already in these notes): the valves must be "electronically supervised using a tamper switch", while locking
+  them open is allowed "to prevent vandalism" (NC State Fire Marshal, on the 2012 code); NFPA 72's signal comes
+  by "two complete revolutions or one-fifth of the valve's maximum travel", and "Unless this valve remains open,
+  there could be no water available with which to put out a developing fire" (EC&M, Feb 15 2008: old, check).
+  [NC State Fire Marshal](https://ncosfm.gov/building/09034-sprinkler-valve-monitoring/open),
+  [EC&M, Feb 15 2008](https://www.ecmag.com/magazine/articles/article-detail/miscellaneous-mechanics-behind-sprinkler-supervision)
 
 Trends
 - Tokchart, a free daily chart of the fastest-growing TikTok audios (new to these notes): the US and worldwide top 10
