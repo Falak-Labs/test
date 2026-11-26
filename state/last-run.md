@@ -1,4 +1,4 @@
-# Last posting run 2026-11-26T03:30:50+00:00
+# Last posting run 2026-11-26T04:02:43+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -85,13 +85,11 @@
 - ep90-pen ar.youtube: on hold in posts/ep90-pen.yml
 - ep76-cooker en.youtube: on hold in posts/ep76-cooker.yml
 - ep76-cooker ar.youtube: on hold in posts/ep76-cooker.yml
-- ep76-cooker ar.tiktok: scheduled (Thu 26 Nov 20:30 UTC) id 6b07a7efa791bea1b24dafd1
 - ep77-goldengate en.youtube: on hold in posts/ep77-goldengate.yml
 - ep77-goldengate ar.youtube: on hold in posts/ep77-goldengate.yml
-- ep77-goldengate ar.tiktok: scheduled (Thu 26 Nov 23:30 UTC) id 6b07a7efd4eda4b659d40e2f
 - ep91-arch en.youtube: on hold in posts/ep91-arch.yml
 - ep91-arch ar.youtube: on hold in posts/ep91-arch.yml
-- ep91-arch ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep91-arch ar.tiktok: scheduled (Fri 27 Nov 02:30 UTC) id 6b07af65b96dd8d3518884cd
 - sm05 en.youtube: on hold in posts/sm05.yml
 - sm05 en.instagram: on hold in posts/sm05.yml
 - sm05 en.tiktok: on hold in posts/sm05.yml
@@ -100,23 +98,15 @@
 - sm05 ar.tiktok: on hold in posts/sm05.yml
 - ep92-seatbelt en.youtube: on hold in posts/ep92-seatbelt.yml
 - ep92-seatbelt ar.youtube: on hold in posts/ep92-seatbelt.yml
-- ep92-seatbelt ar.instagram: scheduled (Fri 27 Nov 01:00 UTC) id 6b07a7f1b8e2338b858801f4
 - ep92-seatbelt ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep93-huajiang en.youtube: on hold in posts/ep93-huajiang.yml
-- ep93-huajiang en.instagram: scheduled (Thu 26 Nov 23:30 UTC) id 6b07a7f19f6dda31ccbd8f80
-- ep93-huajiang en.tiktok: scheduled (Thu 26 Nov 23:30 UTC) id 6b07a7f207071a60674f2244
 - ep93-huajiang ar.youtube: on hold in posts/ep93-huajiang.yml
-- ep93-huajiang ar.instagram: scheduled (Fri 27 Nov 03:30 UTC) id 6b07a7f4d4eda4b659d40fee
 - ep93-huajiang ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep94-smokealarm en.youtube: on hold in posts/ep94-smokealarm.yml
-- ep94-smokealarm en.instagram: scheduled (Fri 27 Nov 14:00 UTC) id 6b07a7f5d4eda4b659d4104a
-- ep94-smokealarm en.tiktok: scheduled (Fri 27 Nov 14:00 UTC) id 6b07a7f5a791bea1b24db541
 - ep94-smokealarm ar.youtube: on hold in posts/ep94-smokealarm.yml
-- ep94-smokealarm ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep94-smokealarm ar.instagram: scheduled (Fri 27 Nov 08:00 UTC) id 6b07af689f6dda31ccc035e0
 - ep94-smokealarm ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep95-falkirk en.youtube: on hold in posts/ep95-falkirk.yml
-- ep95-falkirk en.instagram: scheduled (Fri 27 Nov 16:30 UTC) id 6b07a7f707071a60674f24c0
-- ep95-falkirk en.tiktok: scheduled (Fri 27 Nov 16:30 UTC) id 6b07a7f7a791bea1b24db5b6
 - ep95-falkirk ar.youtube: on hold in posts/ep95-falkirk.yml
 - ep95-falkirk ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep95-falkirk ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
@@ -126,5 +116,23 @@
 - ep96-handwarmer ar.youtube: on hold in posts/ep96-handwarmer.yml
 - ep96-handwarmer ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep96-handwarmer ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- en: 12 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=142; t=888, "24h"; r=434; t=18727, "30d"; r=397; t=1220516; ratelimit-policy="15m"; q=15
-- ar: 16 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=893, "24h"; r=430; t=18737, "30d"; r=314; t=1226651; ratelimit-policy="15m"; q=15
+- ep97-museum en.youtube: on hold in posts/ep97-museum.yml
+- ep97-museum en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep97-museum en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep97-museum ar.youtube: on hold in posts/ep97-museum.yml
+- ep97-museum ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep97-museum ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep98-rainvortex en.youtube: on hold in posts/ep98-rainvortex.yml
+- ep98-rainvortex en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep98-rainvortex en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep98-rainvortex ar.youtube: on hold in posts/ep98-rainvortex.yml
+- ep98-rainvortex ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep98-rainvortex ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep99-noodles en.youtube: on hold in posts/ep99-noodles.yml
+- ep99-noodles en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep99-noodles en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep99-noodles ar.youtube: on hold in posts/ep99-noodles.yml
+- ep99-noodles ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep99-noodles ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- en: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=419; t=16827, "30d"; r=382; t=1218616; ratelimit-policy="15m"; q=15
+- ar: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=897, "24h"; r=414; t=16829, "30d"; r=298; t=1224742; ratelimit-policy="15m"; q=15

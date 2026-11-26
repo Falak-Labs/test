@@ -1,4 +1,4 @@
-# Post status 2026-11-26T03:31:11+00:00
+# Post status 2026-11-26T04:02:59+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -444,14 +444,14 @@
 | ep85-dubaiframe | ar.tiktok | scheduled |  | 2026-11-26T16:00:00.000Z |
 | ep85-dubaiframe | en.instagram | sent |  | 2026-11-25T22:31:19.624Z https://www.instagram.com/reel/DgLm29ltc9q/ |
 | ep85-dubaiframe | en.tiktok | sent |  | 2026-11-25T22:31:23.024Z https://tiktok.com/@congratsengineer/video/7712240098909228301 |
-| ep86-kettle | ar.instagram | scheduled |  | 2026-11-26T04:00:00.000Z |
-| ep86-kettle | ar.tiktok | scheduled |  | 2026-11-26T04:00:00.000Z |
+| ep86-kettle | ar.instagram | sent |  | 2026-11-26T04:01:48.355Z https://www.instagram.com/reel/DgMMqvTBy9_/ |
+| ep86-kettle | ar.tiktok | sent |  | 2026-11-26T04:01:26.842Z https://tiktok.com/@kef.tenbeni/video/7712325036673207565 |
 | ep86-kettle | en.instagram | sent |  | 2026-11-26T01:02:26.688Z https://www.instagram.com/reel/DgL4JvmMR5E/ |
 | ep86-kettle | en.tiktok | sent |  | 2026-11-26T01:02:39.342Z https://tiktok.com/@congratsengineer/video/7712278851593784589 |
 | ep87-balloon | ar.instagram | scheduled |  | 2026-11-26T06:30:00.000Z |
 | ep87-balloon | ar.tiktok | scheduled |  | 2026-11-26T06:30:00.000Z |
-| ep87-balloon | en.instagram | sending |  | 2026-11-26T03:30:00.000Z |
-| ep87-balloon | en.tiktok | sending |  | 2026-11-26T03:30:00.000Z |
+| ep87-balloon | en.instagram | sent |  | 2026-11-26T03:31:22.560Z https://www.instagram.com/reel/DgMJLqRJrZX/ |
+| ep87-balloon | en.tiktok | sent |  | 2026-11-26T03:32:01.359Z https://tiktok.com/@congratsengineer/video/7712317347914075405 |
 | ep88-pontdugard | ar.instagram | scheduled |  | 2026-11-26T09:00:00.000Z |
 | ep88-pontdugard | ar.tiktok | scheduled |  | 2026-11-26T09:00:00.000Z |
 | ep88-pontdugard | en.instagram | scheduled |  | 2026-11-26T06:00:00.000Z |
@@ -465,6 +465,7 @@
 | ep90-pen | en.instagram | scheduled |  | 2026-11-26T11:00:00.000Z |
 | ep90-pen | en.tiktok | scheduled |  | 2026-11-26T11:00:00.000Z |
 | ep91-arch | ar.instagram | scheduled |  | 2026-11-26T22:30:00.000Z |
+| ep91-arch | ar.tiktok | scheduled |  | 2026-11-27T02:30:00.000Z |
 | ep91-arch | en.instagram | scheduled |  | 2026-11-26T18:30:00.000Z |
 | ep91-arch | en.tiktok | scheduled |  | 2026-11-26T18:30:00.000Z |
 | ep92-seatbelt | ar.instagram | scheduled |  | 2026-11-27T01:00:00.000Z |
@@ -473,6 +474,7 @@
 | ep93-huajiang | ar.instagram | scheduled |  | 2026-11-27T03:30:00.000Z |
 | ep93-huajiang | en.instagram | scheduled |  | 2026-11-26T23:30:00.000Z |
 | ep93-huajiang | en.tiktok | scheduled |  | 2026-11-26T23:30:00.000Z |
+| ep94-smokealarm | ar.instagram | scheduled |  | 2026-11-27T08:00:00.000Z |
 | ep94-smokealarm | en.instagram | scheduled |  | 2026-11-27T14:00:00.000Z |
 | ep94-smokealarm | en.tiktok | scheduled |  | 2026-11-27T14:00:00.000Z |
 | ep95-falkirk | en.instagram | scheduled |  | 2026-11-27T16:30:00.000Z |

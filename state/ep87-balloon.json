@@ -4,19 +4,23 @@
    "id": "6b0650e740e1d58d12f2209d",
    "channel": "6af2b48e62b70b94b0ddc2f3",
    "service": "instagram",
-   "status": "sending",
+   "status": "sent",
    "dueAt": "2026-11-26T03:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-25T03:07:09+00:00"
+   "created": "2026-11-25T03:07:09+00:00",
+   "link": "https://www.instagram.com/reel/DgMJLqRJrZX/",
+   "sentAt": "2026-11-26T03:31:22.560Z"
   },
   "en.tiktok": {
    "id": "6b0650e722dfb7833a7599c4",
    "channel": "6af2d49862b70b94b0df5758",
    "service": "tiktok",
-   "status": "sending",
+   "status": "sent",
    "dueAt": "2026-11-26T03:30:00.000Z",
    "mode": "customScheduled",
-   "created": "2026-11-25T03:07:09+00:00"
+   "created": "2026-11-25T03:07:09+00:00",
+   "link": "https://tiktok.com/@congratsengineer/video/7712317347914075405",
+   "sentAt": "2026-11-26T03:32:01.359Z"
   },
   "ar.instagram": {
    "id": "6b0650eb9cddd8483aa34336",
