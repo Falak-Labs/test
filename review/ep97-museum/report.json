@@ -1,0 +1,236 @@
+{
+ "slug": "ep97-museum",
+ "kit": "museum",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, Dubai built a silver ring with Arabic writing for windows.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] No columns inside. So what's holding it up?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So a computer tried thousands of frames until one steel net fit.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But giant steel parts won't fit down the city streets.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So every tube is the same width, and short enough to ride a truck.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But flat steel won't bend into a curve that bends two ways.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So robot arms shaped every curved panel, one at a time.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But the windows are letters... so not one is a plain square.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So water jets cut over ten thousand glass pieces to fit.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building a waterfall... inside an airport. [chuckles]",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? The outside holds it up! [chuckles] Twenty-four hundred steel beams cross like a basket.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Seventy-seven meters, one thousand twenty-four panels, and fourteen kilometers of lights.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built the Museum of the Future yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] My mom took one look: who's cleaning all those windows? [laughs harder]",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.4,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "14/162",
+   "mix_lines_off": [
+    "L 9 2 diff  | Water jets cut over 10,000 glass pieces to fit.",
+    "L10 1 diff  | Hit follow cuz next we're building a waterfall inside an airport.",
+    "L11 3 diff  | The answer? The outside holds it up. 2400 steel beams cross like a basket.",
+    "L12 7 diff  | 77 meters, 1,024 panels and 14 kilometers of light.",
+    "L13 1 diff  | Hey, congrats! You just built the Museum of the Future yourself."
+   ],
+   "size_mb": 16.9,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، دبي بنت خاتم فضي عملاق... وشبابيكه حروف عربية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] ولا عمود واحد جوا! طيب وش اللي شايله؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فالكمبيوتر جرّب آلاف الهياكل، لين لقى شبكة حديد تركب على الخاتم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس قطع الحديد الكبيرة ما تمشي في شوارع المدينة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فكل الأنابيب بنفس العرض، وقصيرة تكفي تنحمل على تريلة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس لوح الحديد المسطح ما ينثني على انحناء من جهتين.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فأذرع روبوت شكّلت كل لوح منحني، لوح لوح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس الشبابيك حروف... يعني ولا شباك مربع عادي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فموية بضغط قوي قصّت أكثر من عشرة آلاف قطعة زجاج على مقاسها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني شلال... داخل مطار. [chuckles]",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ برّاه هو اللي شايله! ألفين وأربع مية عارضة حديد، متشابكة مثل السلة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] سبعة وسبعين متر، ألف وأربعة وعشرين لوح، وأربعة عشر كيلو أنوار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك متحف المستقبل بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] أمي شافته وأول سؤال: مين بيمسح كل هالشبابيك؟ [laughs harder]",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.97,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 16.7,
+   "cover": true
+  }
+ }
+}

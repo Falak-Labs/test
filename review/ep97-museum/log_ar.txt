@@ -1,0 +1,7 @@
+museum_ar_sa: 69.98s, 2099 frames
+cover out/museum_ar_sa/cover.png: ['متحف', 'المستقبل'] (frame 0 of the video)
+video done in 422s
+audio done
+final out/museum_ar_sa/museum_ar_sa_final.mp4
+QA  duration 69.97s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2099
+QA sheet out/museum_ar_sa/qa_sheet.png
