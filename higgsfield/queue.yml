@@ -1085,7 +1085,7 @@ jobs:
     # in worldsteel's 2020 text is pre-opening), so A6 shows why a flat steel sheet will not take the doubly curved
     # shape (our own break; B1 is the fix). Opened 22 Feb 2022 (Buro Happold). More in ideas.md (Nov 24 13:05 and 18:00).
     # No faces, no hands, no writing on the building (Seedance would draw false Arabic for the calligraphy windows).
-    status: todo
+    status: "skipped (build 97 is made in the v2 look by the Build-It evening run of Nov 25 PT: no footage was ready at 18:40 PT; 99 too. Next pair: build 100, the Jeddah Tower)"
     file: buildit-museum-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): the camera flies through the huge oval hole of a seamless stainless-steel ring-shaped
@@ -1115,7 +1115,7 @@ jobs:
     # Dezeen, Mar 12 2019; ideas.md Nov 24 14:02), drawn without signs. B5 stays Seedance or a picture model: the UAE has
     # no freedom of panorama, so no Commons photo (ideas.md Nov 24 14:02). B6: a ring doughnut in coffee (the building is
     # a ring around a hole). No faces: visitors small and from behind; no hands; no writing on the building.
-    status: todo
+    status: "skipped (build 97 is made in the v2 look by the Build-It evening run of Nov 25 PT: no footage was ready at 18:40 PT; 99 too. Next pair: build 100, the Jeddah Tower)"
     file: buildit-museum-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): a robot arm carves a smooth curved mould out of a block of pale foam, then glass fibre
@@ -1148,7 +1148,7 @@ jobs:
     # 1's old open-air car park per Wikipedia: check before a line says so). The roof's weight differs (ENR 6,000 t,
     # Arup 3,500 t): leave it out. More in ideas.md (Nov 24 14:02 and 18:00). No faces: travellers small and from
     # behind; no signs.
-    status: todo
+    status: "skipped (build 98 is made in the v2 look by the Build-It evening run of Nov 25 PT: no footage was ready at 18:40 PT; 99 too. Next pair: build 100, the Jeddah Tower)"
     file: buildit-rainvortex-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): at night inside a giant glass dome at an airport, a 40-meter column of water roars down from a
@@ -1180,7 +1180,7 @@ jobs:
     # Lines 12-13: a free Unsplash photo of the vortex (ideas.md Nov 25 04:05; Singapore's freedom of panorama covers
     # buildings) or a GPT Image 2.6 still. B6 (ours): a spoon in the sink, the kitchen's own spray problem. No faces:
     # visitors small and from behind; no signs.
-    status: todo
+    status: "skipped (build 98 is made in the v2 look by the Build-It evening run of Nov 25 PT: no footage was ready at 18:40 PT; 99 too. Next pair: build 100, the Jeddah Tower)"
     file: buildit-rainvortex-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): close-up at the rim of a deep pit beside an indoor waterfall, a low solid glass wall one meter
