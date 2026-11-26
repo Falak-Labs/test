@@ -4145,6 +4145,8 @@ December dates (new to these notes)
   [National Geographic, Dec 5 2025](https://www.nationalgeographic.com/travel/article/newgrange-lottery-winter-solstice-event),
   [Irish Times, Dec 21 2025](https://www.irishtimes.com/ireland/2025/12/28/winter-solstice-being-livestreamed-from-ancient-tomb-at-newgrange/),
   [Nature 337, 343 (1989), ADS abstract](https://ui.adsabs.harvard.edu/abs/1989Natur.337..343R/abstract)
+- For these dates: free Seedance ends Nov 28, so a December build that wants its own clips needs a LINEUP slot and a
+  queue pair made before then; after that it gets stills (unlimited picture models, LOC's photo) and the v2 look.
 
 Checked, nothing new
 - Higgsfield and Black Friday at about 14:52 PT: the results are the pages already here (dio.me, both mydealz deals,
