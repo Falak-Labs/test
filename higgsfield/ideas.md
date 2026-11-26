@@ -4075,14 +4075,14 @@ Free footage and pictures
   recordings, § 1401). 1931 is a big engineering year for us: the Empire State Building opened May 1 1931, the George
   Washington Bridge Oct 25 1931 and the Bayonne Bridge Nov 15 1931, so newsreels, newspaper and magazine photos and
   drawings published that year (opening day, the steelwork, the cables) become safe in the US for a January build.
-  Only what was published in 1931 counts (an unpublished print in an archive does not), and an archive's own terms
-  of access still bind its copies. Not confirmed yet: a search at about 13:50 PT showed no 2027 list from Duke's
+  Only what was published in 1931 counts (an unpublished archive print follows other rules), and an archive's own
+  terms of access still bind its copies. Not confirmed yet: a search at about 13:50 PT showed no 2027 list from Duke's
   Center for the Study of the Public Domain (its 2026 page is the model), and Wikipedia's "2027 in public domain"
   could not be read here (the fetch needed an approval nobody was there to give); Cord Cutters News' headline
   "Universal Horror Classics Frankenstein and Dracula Are Set to Enter Public Domain Soon" (search result, not read)
   points the same way (those monsters are not for us). For an Empire State build: ESRT Empire State Building, L.L.C.
-  holds "EMPIRE STATE BUILDING" trademarks (Justia's list) and the building runs a licensing application for its
-  name and image (titles seen in a search, pages not read): keep it editorial, as with the other landmarks.
+  holds "EMPIRE STATE BUILDING" trademarks (Justia's list) and esbnyc.com has a "Licensing Application" page
+  (titles seen in a search, pages not read): keep it editorial, as with the other landmarks.
   [17 U.S.C. § 304](https://www.law.cornell.edu/uscode/text/17/304),
   [17 U.S.C. § 305](https://www.law.cornell.edu/uscode/text/17/305),
   [17 U.S.C. § 1401](https://www.law.cornell.edu/uscode/text/17/1401),
