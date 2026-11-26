@@ -2898,3 +2898,59 @@ Free footage and pictures
   vertical clips: B6 tag jokes and landscapes at most, after reading each site's own licence page.
   [Coverr, Sep 14 2026](https://coverr.co/blog/free-4k-stock-footage-sites-compared-2026),
   [Wyzowl, upd. Jan 15 2026](https://www.wyzowl.com/free-stock-video)
+
+## 2026-11-25 17:58 PT (hourly runner, cloud run)
+
+New content
+- The shopping cart wheel that locks at the edge of the lot, a candidate build for the shopping season (new to these
+  notes, which have the barcode and the airport baggage system but no cart; not in LINEUP). Black Friday is Fri Nov
+  27, and "Today, 20 million to 25 million shopping carts are cruising through America's retail stores at any given
+  moment, roughly one cart for every 13 Americans" (Smithsonian Magazine, Dec 2025 issue). A chain from checked facts
+  (the breaks are ours): A1, dusk, a lone cart rolls across an empty parking lot to a painted line at its edge, its
+  front wheel locks and the cart jerks, skids and swings sideways, slow motion. A2, a 1930s grocery, shoppers' hands
+  straining under heavy wire hand baskets. A3, Sylvan Goldman's 1936 prototype "consisted of two folding chairs placed
+  seat-to-seat with wheels attached to the bottom and a basket on top"; the cart came out "on June 4, 1937, at the
+  Humpty Dumpty grocery store in Oklahoma City" (Smithsonian), built as "a metal frame that held two wire baskets"
+  (Wikipedia). A4, nobody pushed it: men "considered the carts emasculating and said trundling them around was
+  'women's work'" and it sat "unloved and unused at the front of his store" (Smithsonian); "women found them
+  suggestive of a baby carriage" (Wikipedia). A5, "He hired attractive models to shop in the store while confidently
+  pushing the carts" (Smithsonian), people from behind; "By 1940, store owners looking to buy new shopping carts
+  reportedly faced a seven-year wait list". A6, rows of carts fill the front of the store and block the doors (ours).
+  B1, the nesting cart: "In 1946, Orla Watson devised a system for a telescoping (i.e., "nesting") shopping cart",
+  "patent #2,479,530 on August 16, 1949", fitting "into another cart for compact storage via a swinging one-way rear
+  door" (Wikipedia); the Smithsonian has Goldman making "the more familiar nesting cart (following a patent war over
+  the design)": the two pages' years differ, so check before a line uses one. B2, carts far from the store (a creek, a
+  bus stop, a field): they "typically cost between $75 and $150 each, with some models costing $300–400", theft
+  "estimated at $800 million worldwide per annum" (Wikipedia, no year: check), "every cart saved is $150 you don't
+  spend" (Willamette Week). B3, the lock: in 1968 Elmer Isaacks' patent had "a magnetic mechanism [that] would push a
+  rod through a hole in the wheel"; now "Today's perimeter is just a buried wire carrying electric pulses", "An
+  induction coil in the wheel picks up these pulses and passes them to an onboard computer", "activating an internal,
+  motor-driven braking system", and "the lock is armed, and will engage if it goes out the door without first going
+  through a checkout line" (Willamette Week, May 15 2022); "Store personnel must then deactivate the lock with a
+  handheld remote control" (Wikipedia). The coin lock is a second fix if a line needs one: "the user inserts a coin,
+  token or card to unlock the cart, which is returned when they return it" (Wikipedia). B4, the next LINEUP build. B5,
+  a packed parking lot at dawn on Black Friday, streams of full carts rolling to the cars, wide aerial, people from
+  behind. B6, funny slow motion, one front wheel flutters wildly and the cart veers into a pyramid of oranges that
+  rolls across the aisle. Line 12: "1937" or "20-25 MILLION" (the source gives a range). Leave out the hacking talks on triggering the locks (and
+  their signal details), store and brand names in shots, and Goldman's face (hands and backs only). Timing as for New
+  Year's Eve: Seedance is free only until Nov 28 and museum-A/B and rainvortex-A/B go first, so adding this build is
+  the main chat's call.
+  [Smithsonian Magazine, Dec 2025 issue](https://www.smithsonianmag.com/history/industrious-grocer-1930s-wanted-make-easier-customers-buy-more-just-needed-push-180987633/),
+  [Wikipedia, Shopping cart](https://en.wikipedia.org/wiki/Shopping_cart),
+  [Wikipedia, Sylvan Goldman](https://en.wikipedia.org/wiki/Sylvan_Goldman),
+  [Willamette Week, May 15 2022](https://wweek.com/news/dr-know/2022/05/15/how-do-anti-theft-wheel-locks-on-shopping-carts-know-to-trip-at-the-edge-of-the-parking-lot),
+  [Hackaday, Feb 28 2025](https://hackaday.com/2025/02/28/tech-in-plain-sight-shopping-cart-locks) (it adds "A
+  properly equipped cart can determine if it exits the store without going through a checkout line")
+
+Free footage and pictures
+- Adobe Stock's free collection, a lead to check (new to these notes): Adobe's contributor FAQ (upd. Jun 11 2026)
+  calls it "a curated collection of photos, vectors, illustrations, videos, and design templates from Adobe Stock
+  Contributors" whose content "can be used for personal or commercial purposes", but both lines came through a
+  summary of the page (Adobe's two other help pages refused the fetch), and nothing read says how many videos there
+  are, whether any are vertical, what the licence forbids, or whether a free Adobe account is enough (any sign-up is
+  the owner's). Read the licence on the asset page before a clip is used; B6 jokes and landscapes at most, like the
+  other stock sites.
+  [Adobe Stock free collection FAQ, upd. Jun 11 2026](https://helpx.adobe.com/stock/contributor/additional-earning-opportunities/free-collection-faq.html)
+- Checked, nothing new: today's search for Higgsfield's Black Friday offers returned only the pages already in these
+  notes (the mydealz deals, the "33 days unlimited Seedance 2.5" page), so Nov 28 stands; a search for this month's
+  viral engineering formats returned Snapchat topic pages and old trend lists only.
