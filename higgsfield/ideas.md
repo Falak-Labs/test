@@ -3942,6 +3942,16 @@ New content
   patent it credits for the cylinder lock is still to check.
   [Google Patents, US48475](https://patents.google.com/patent/US48475),
   [Google Patents, US31278](https://patents.google.com/patent/US31278)
+- Real photos for 109 and 110, the photo rules (new to these notes): Commons rates Zimbabwe "OK: {{FoP-Zimbabwe}}"
+  (Cap. 26:05, s.35 covers "an artistic work which is permanently situated in a street, square or other public
+  place"), with one condition: "There is a need to attribute the author of the artistic work if photos or videos of it
+  are used for commercial purposes". So a freely licensed Commons photo of the Eastgate Centre can serve 109's lines
+  12-13 with "Architect: Mick Pearce" in the description, plus the photo's own licence credit. Bahrain is "Not OK
+  {{NoFoP-Bahrain}}, Only non-commercial use is allowed" (Law No. 22 of 2006, Art. 25: "architectural arts" only "for
+  non-commercial purposes"), so 110's real-building shots stay Seedance or a picture model, as for Saudi Arabia and the
+  UAE (Nov 24 14:02 entry). The Bahrain line was read on a mirror of Commons' page: check it on commons.wikimedia.org.
+  [Commons, Zimbabwe](https://c.enwp.org/wiki/Commons:FOP_Zimbabwe),
+  [Commons, Freedom of panorama/Asia (mirror)](https://download.osmand.net/wiki/Commons:Freedom_of_panorama/Asia/en)
 
 Checked, nothing new
 - Free video after Nov 28: Alibaba's Wan2.7-Video (launched Apr 7 2026, "2 to 15 seconds", 720p and 1080p) is on
