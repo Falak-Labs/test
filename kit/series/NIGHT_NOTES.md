@@ -2237,3 +2237,56 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   any still waits.
 - LINEUP: 109 the Eastgate Centre (Harare), 110 the Bahrain World Trade Center, 111 a pin tumbler lock appended (nine
   entries ahead of 102: 103-111).
+
+## Nov 26 2026 (show run, 13:17 PT): Survival Mode 6 "You vs the Sea" (sm06) for Fri Nov 27
+- TODAY Thu Nov 26 PT, TOMORROW Fri Nov 27 PT. Hand-off done 14:17 PT (the run took an hour).
+- Step 0: status 21:30Z (13-14 Buffer requests per account: the "30d" line then read Arabic 161, English 239; no second
+  status run and no `limits`). sm05 is NOT OUT on TikTok and Instagram: posts/sm05.yml still holds all six targets and
+  state/sm05.json has none. `yt_desk.py check` prints all four of its YouTube videos as OVERDUE (the ledger's last entry
+  is 01:07Z Nov 25). But the main chat's own round ("Build-It YouTube desk: afternoon round" in list_triggers, next
+  16:45 PT today) says in its prompt that a commit "YouTube desk: 17 uploads scheduled for Nov 26" from the Nov 25
+  round may be unpushed: so the uploads may exist on YouTube while the repo cannot show them. Told the owner at the top
+  of the message; nothing repaired. For whoever picks sm05 up:
+  (1) handoff.py force-pushes the `show` branch, so sm05's full cuts, thumbnails and sheet were kept first on the branch
+  `show-sm05` (the same commit, 450f1e6; the links inside its sheet still say /show/).
+  (2) sm05's `at:` times have passed, and post.py gives a released target with a past time "now + 2 minutes": release
+  it only when its shorts should go out, or give it new times first. A release also takes four queue places.
+- sm04's Arabic TikTok (in error since Nov 24) was not requeued: all four Buffer queues are 10 of 10 with the Arabic
+  TikToks of 99-102 waiting for a place, requeue.py lists every sent post before it moves one (about a dozen of the 161
+  requests left), and TikTok has refused every Arabic show short so far (sm03 twice, sm04). The slot the midday run kept
+  for it (Sat Nov 28 16:30Z) is free for a build.
+- Pick: burjalarab, suez, pharos, barrier (all Mansour, all v2): land where there is none, a shortcut between two seas, a
+  light for ships at night, a wall against the storm. "No land. No shortcut. No light." names levels 1 to 3 and the
+  storm is the final boss. Bosses: the waves / the detour (لفّة أفريقيا) / the dark / the North Sea; joke row "TIMES YOU
+  GOT SEASICK 0" ("كم مرة دوّخك البحر؟"); line 8 ends "with sand, steam, fire and steel". Left out: 96-99 (they post as
+  builds on Friday), 100-102 (Saturday), hagiasophia (show rule). Stock after sm06 (stock.py): fridge, washer, taipei,
+  dishwasher, vacuum, petronas, handwarmer, museum, rainvortex, noodles, jeddahtower, sprinkler, albahar = 13 builds,
+  three episodes (ideas: the house = fridge, washer, dishwasher, vacuum; towers against the wind = taipei, petronas,
+  jeddahtower, albahar; then handwarmer, noodles, sprinkler, rainvortex, museum).
+- Voices in one pass, nothing recorded twice. ElevenLabs read 176,152 before; Ballen (eleven_v4, x1.09) 907 characters,
+  57.33 s; Mansour (eleven_multilingual_v2 through the `model` input, x1.09) 619 characters, 51.58 s; the account read
+  187,886 afterwards (31%; the other 10,000 of that half hour were other projects). Whisper small: English only number
+  formats and "beat the sea" heard "beat the C"; Arabic 0-3% a line, no weak lines. On the four finished files every new
+  line is heard in its place (worst line 4% / 7% / 5% / 11%, under the effects).
+- New in the layer: icons `shortcut` (a straight arrow over a dotted long way round) and `lighthouse` (layout.ICON).
+- Two lessons, both in the README now. (1) `shot`: the Burj Al Arab's hook ends on bare sea and Suez's on a map (shots
+  1.0 / 4.4 / 3.3 for the hotel, the ship in its canal, the whole lighthouse). The barrier's hook is a view from above,
+  two thin arms on a river, which cannot be read in half a second; the storm pushing the sea over the dike (EN 11.7,
+  AR 10.7) reads at once and fits the stamp "STORM SURGE" / "البحر جاي". (2) Arabic card 1: the ج of "الموج" ran into
+  the sub "ما فيه أرض · كله بحر"; the sub is now "كله بحر" and the stamp "ما فيه أرض". Both were seen on full-size
+  frames before the long render (a ten-line script: `Show(work, out, plan).frame(g, sequential=False)` for the four
+  cards and the four flashes) and cost one restart each, two to three minutes.
+- The session's clone: `main` and `origin/main` sat at a Nov 23 commit with HEAD detached at today's tip, so a plain
+  `git fetch origin main` asked for three days of media and hung. `git update-ref refs/remotes/origin/main HEAD` and
+  `git checkout -B main HEAD` first; then the fetch is instant, and the blobless deepen (`--deepen=800`) reached the
+  barrier's videos (retired in 13a5e57).
+- Cuts (all -14.0 LUFS): English full 4:44.9 (true peak -2.2 dBFS, 91.4 MB at crf 22, chapters 0:00 0:13 1:16 2:21 3:20
+  4:24), short 1:26.6 (-2.0, 40.1 MB); Arabic full 4:50.1 (-2.2, 83.1 MB at crf 24, chapters 0:00 0:12 1:18 2:24 3:25
+  4:31), short 1:27.7 (-2.3, 41.6 MB). Stills sheets and 160 frames pulled from the four finished files looked at
+  (words, Arabic right to left, the right boss on each level). Render: both chains side by side, 13:50 to 14:14.
+- Hand-off: media/sm06-en.mp4 + media/sm06-ar.mp4 and posts/sm06.yml on main with ALL six targets on hold.
+  kit/show/youtube/sm06.yml -> handoff.py pushed the two full cuts, the two thumbnails and sheet.json to the `show`
+  branch (b1baad3); every raw link answers 200 and `yt_desk.py plan` lists the four videos first on each channel (then
+  builds 94-99). For Fri Nov 27 PT: Arabic full 09:00, English full 10:00, Arabic Short 10:30, English Short 12:15
+  (YouTube, the main chat's 16:45 PT round); TikTok + Instagram Arabic 10:30 (18:30Z), English 12:15 (20:15Z) after
+  `yt_desk.py release sm06`.
