@@ -392,6 +392,33 @@ def icon_umbrella(c, x, y, s, col, a=1.0):
     c.restore()
 
 
+def icon_shortcut(c, x, y, s, col, a=1.0):
+    """A straight arrow over a dotted long way round: the shortcut (sm06, "No shortcut")."""
+    c.save()
+    c.translate(x, y)
+    for d in range(18, 163, 16):                                  # the long way round, as dots under the arrow
+        rad = math.radians(d)
+        c.drawCircle(0.47 * math.cos(rad) * s, (0.02 + 0.50 * math.sin(rad)) * s, 0.042 * s, P(col, 0.55 * a))
+    c.drawPath(_path([(-0.54, -0.25), (0.14, -0.25), (0.14, -0.46), (0.56, -0.13), (0.14, 0.20), (0.14, -0.01), (-0.54, -0.01)], s), P(col, a))
+    c.restore()
+
+
+def icon_lighthouse(c, x, y, s, col, a=1.0):
+    """A lighthouse throwing two beams: a light at sea (sm06, "No light")."""
+    c.save()
+    c.translate(x, y)
+    for sx in (-1, 1):                                             # the beams
+        c.drawPath(_path([(sx * 0.13, -0.27), (sx * 0.58, -0.46), (sx * 0.58, -0.10)], s), P(col, 0.50 * a))
+    c.drawPath(_path([(-0.22, 0.46), (-0.115, -0.12), (0.115, -0.12), (0.22, 0.46)], s), P(col, a))               # the tower
+    c.drawPath(_path([(-0.157, 0.10), (-0.189, 0.28), (0.189, 0.28), (0.157, 0.10)], s), P(NAVY, 0.50 * a))       # one dark band
+    c.drawRRect(rr(-0.20 * s, -0.19 * s, 0.40 * s, 0.08 * s, 0.03 * s), P(col, a))                                # the gallery
+    c.drawRect(skia.Rect.MakeXYWH(-0.10 * s, -0.37 * s, 0.20 * s, 0.19 * s), P(col, a))                           # the lamp room
+    c.drawRect(skia.Rect.MakeXYWH(-0.055 * s, -0.33 * s, 0.11 * s, 0.11 * s), P("#FFF1C9", a))
+    c.drawPath(_path([(-0.15, -0.37), (0.0, -0.55), (0.15, -0.37)], s), P(col, a))                                # the roof
+    c.drawRRect(rr(-0.32 * s, 0.44 * s, 0.64 * s, 0.09 * s, 0.04 * s), P(col, a))                                 # the rock it stands on
+    c.restore()
+
+
 def no_sign(c, x, y, r, p, col=WARN):
     """Red ring with a slash, stamped on with a little overshoot."""
     if p <= 0:
@@ -593,7 +620,7 @@ ICON = {"bolt": icon_bolt, "flame": icon_flame, "signal": icon_signal, "person":
         "drop": icon_drop, "gear": icon_gear, "brick": icon_brick, "land": icon_land, "wave": icon_wave, "sun": icon_sun,
         "snow": icon_snow, "clock": icon_clock, "coin": icon_coin, "boat": icon_boat, "bridge": icon_bridge,
         "rock": icon_rock, "flat": icon_flat, "down": icon_down, "pause": icon_pause, "rewind": icon_rewind,
-        "hourglass": icon_hourglass, "umbrella": icon_umbrella}
+        "hourglass": icon_hourglass, "umbrella": icon_umbrella, "shortcut": icon_shortcut, "lighthouse": icon_lighthouse}
 WARM_ICONS = ("flame", "sun", "coin")       # drawn orange in the cold open, the rest yellow
 
 

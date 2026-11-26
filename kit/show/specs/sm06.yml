@@ -1,0 +1,62 @@
+# Survival Mode 6: You vs the Sea. Four builds that had to beat the sea, all four with the Saudi narrator (Mansour) in Arabic:
+# land where there is none (the Burj Al Arab on its own island), a shortcut between two seas (the Suez Canal), a light for
+# ships at night (the Lighthouse of Alexandria) and a wall that swings shut against a storm (the Dutch storm barrier).
+# "No land. No shortcut. No light." names the first three; the storm is the final boss. English lines by J. Ballen
+# (`promo: survivalpromob`); the four v2 builds inside still play their Easton narration.
+levels:
+  - kit: burjalarab
+    music: desert
+    color: "#5CD6E0"
+    en: {world: "DUBAI", boss: "THE WAVES", sub: "NO LAND OUT HERE  ·  JUST OPEN SEA", unlocked: "THE BURJ AL ARAB",
+         stamp: "NO LAND", chips: [["321 m", "TALL"], ["230", "PILES, 40 m DOWN"], ["210 m", "UP TO THE HELIPAD"]]}
+    ar: {world: "دبي", boss: "الموج", sub: "ما فيه أرض  ·  كله بحر", unlocked: "برج العرب",
+         stamp: "كله بحر", chips: [["321 m", "ارتفاع"], ["230", "عمود خرسانة"], ["210 m", "علو المهبط"]]}
+  - kit: suez
+    music: oasis
+    color: "#FFD08A"
+    en: {world: "EGYPT", boss: "THE DETOUR", sub: "EUROPE TO ASIA  ·  AROUND ALL OF AFRICA", unlocked: "THE SUEZ CANAL",
+         stamp: "DETOUR", chips: [["193 km", "OF CANAL"], ["10", "YEARS OF DIGGING"], ["0", "LOCKS"]]}
+    ar: {world: "مصر", boss: "لفة أفريقيا", sub: "من أوروبا لآسيا  ·  حول أفريقيا كلها", unlocked: "قناة السويس",
+         stamp: "لفة طويلة", chips: [["193 km", "طول القناة"], ["10", "سنين حفر"], ["0", "هويس"]]}
+  - kit: pharos
+    music: arctic
+    color: "#FF9D5C"
+    en: {world: "ALEXANDRIA", boss: "THE DARK", sub: "HIDDEN ROCKS  ·  SHIPS KEEP SINKING", unlocked: "THE LIGHTHOUSE OF ALEXANDRIA",
+         stamp: "SHIPWRECK", chips: [["~100 m", "TALL"], ["50 km", "SEEN OUT AT SEA"], ["1,600", "YEARS GUIDING SHIPS"]]}
+    ar: {world: "الإسكندرية", boss: "الظلام", sub: "صخور مخفية  ·  تغرّق السفن", unlocked: "منارة الإسكندرية",
+         stamp: "سفن تغرق", chips: [["~100 m", "ارتفاع"], ["50 km", "تنشاف من البحر"], ["1,600", "سنة تدل السفن"]]}
+  - kit: barrier
+    music: ondol
+    color: "#8FB8FF"
+    en: {world: "THE NETHERLANDS", boss: "THE NORTH SEA", sub: "A QUARTER OF THE COUNTRY  ·  BELOW THE SEA", unlocked: "THE DUTCH STORM BARRIER",
+         stamp: "STORM SURGE", chips: [["6,800 t", "EACH ARM"], ["10 m", "BALL JOINTS"], ["22 m", "WALL OF STEEL"]]}
+    ar: {world: "هولندا", boss: "بحر الشمال", sub: "ربع البلد  ·  تحت مستوى البحر", unlocked: "حاجز العواصف الهولندي",
+         stamp: "البحر جاي", chips: [["6,800 t", "كل ذراع"], ["10 m", "كورة المفصل"], ["22 m", "جدار حديد"]]}
+en:
+  chip: "SURVIVAL MODE  ·  YOU VS THE SEA"
+  ribbon: "YOU VS THE SEA"
+  ribbon_icon: wave
+  ribbon_crossed: false
+  no_icons: [land, shortcut, lighthouse]
+  result_label: "TIMES YOU GOT SEASICK"
+  result_value: "0"
+  promo: survivalpromob               # the closing lines read by J. Ballen (series/survivalpromob_lines.txt)
+  cues: {sub: beat, stat: seasick}
+  emph: [LAND, SHORTCUT, LIGHT, FOUR, SEA, WIN, CONGRATS, DUBAI, HOTEL, WAVES, EGYPT, AFRICA, DESERT, ALEXANDRIA, ROCKS, NIGHT,
+         NETHERLANDS, QUARTER, STORM, NORTH, ROTTERDAM, SEASICK, STOMACH, DETOUR, DARK, SAND, STEAM, FIRE, STEEL, BOSSES, YOUTUBE,
+         SUBSCRIBE, ENGINEER, FINAL, ONE, TWO, THREE, LEVELS, WAITING, NEXT]
+ar:
+  chip: "طور البقاء  ·  أنت ضد البحر"
+  ribbon: "أنت ضد البحر"
+  ribbon_icon: wave
+  ribbon_crossed: false
+  no_icons: [land, shortcut, lighthouse]
+  result_label: "كم مرة دوّخك البحر؟"
+  result_value: "0"
+  promo: survivalpromosa              # the closing lines in Saudi dialect, read by Mansour (series/survivalpromosa_lines_ar_sa.txt)
+  or_boss: "ولا الزعيم يفوز"
+  next: "العالم الجاي قريب"
+  cues: {sub: "غلبت", stat: "دوّخك"}
+  emph: ["أرض", "مختصر", "نور", "أربع", "البحر", "ومبروك", "غلبت", "دبي", "فندق", "والموج", "مصر", "أفريقيا", "الصحرا",
+         "الإسكندرية", "الصخور", "الليل", "هولندا", "ربع", "والعاصفة", "الشمال", "روتردام", "دوّخك", "معدتك", "الموج", "ولفّة",
+         "والظلام", "بالرمل", "والبخار", "والنار", "والحديد", "زعماء", "يوتيوب", "اشترك", "الزعيم"]
