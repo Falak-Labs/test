@@ -1,0 +1,39 @@
+episode: sm06                     # Survival Mode 6: You vs the Sea (the 4-minute show). This file posts its SHORT cuts to TikTok + Instagram.
+date: 2026-11-27
+video:
+  en: media/sm06-en.mp4
+  ar: media/sm06-ar.mp4
+# YouTube gets both the full video and this short through YouTube Studio (the main chat, `show` branch), so both YouTube
+# targets stay on hold for good. TikTok and Instagram start on hold too: the main chat releases them with
+# scripts/yt_desk.py release sm06 after the YouTube uploads. No build run may take any target of this file off hold.
+hold: [en.youtube, ar.youtube, en.instagram, en.tiktok, ar.instagram, ar.tiktok]
+en:
+  at: "2026-11-27T20:15:00Z"      # 12:15 PT Fri Nov 27; the full video goes public on YouTube at 10:00 PT
+  title: "A Hotel Standing in the Open Sea ⚓ Survival Mode: You vs the Sea"
+  text: |
+    No land. No shortcut. No light. ⚓
+    Level 1: Dubai. You want a hotel out in the open sea, where there's no land at all, so you ring the spot with rocks, fill it with sand, and drive 230 concrete piles 40 meters down.
+    Three more bosses are waiting. All 4 levels are on our YouTube channel: @congratsengineer
+    Which one would beat you first: the waves, the detour, the dark or the North Sea? 👇
+  tags:
+    tiktok: "#survival #engineering #burjalarab #howitworks #learnontiktok"
+    instagram: "#survival #engineering #burjalarab #howitworks #dubai"
+    youtube: "#survival #engineering"
+ar:
+  at: "2026-11-27T18:30:00Z"      # 10:30 PT Fri Nov 27 = 21:30 Riyadh; the full video goes public on YouTube at 09:00 PT (20:00 Riyadh)
+  title: "فندق واقف وسط البحر ⚓ طور البقاء: أنت ضد البحر"
+  text:
+    default: |
+      بدون أرض. بدون طريق مختصر. بدون نور. ⚓
+      المرحلة الأولى: دبي. تبي فندق وسط البحر وهناك ما فيه أرض، فتحاوط المكان بصخور وتعبّيه رمل، وتدق ميتين وثلاثين عمود خرسانة بطول أربعين متر.
+      باقي قدامك ثلاثة زعماء. المراحل الأربع كلها على قناتنا في يوتيوب: @kef.tenbeni
+      مين كان بيغلبك أول: الموج، لفّة أفريقيا، الظلام ولا بحر الشمال؟ 👇
+    tiktok: |
+      بدون أرض. بدون طريق مختصر. بدون نور. ⚓
+      المرحلة الأولى: دبي. تبي فندق وسط البحر وهناك ما فيه أرض، فتحاوط المكان بصخور وتعبّيه رمل، وتدق ميتين وثلاثين عمود خرسانة بطول أربعين متر.
+      باقي قدامك ثلاثة زعماء في الحلقة الكاملة.
+      مين كان بيغلبك أول: الموج، لفّة أفريقيا، الظلام ولا بحر الشمال؟ 👇
+  tags:
+    tiktok: "#طور_البقاء #هندسة #برج_العرب #السعودية #تعلم_على_التيك_توك"
+    instagram: "#طور_البقاء #هندسة #برج_العرب #كيف_تنبني #معلومات"
+    youtube: "#طور_البقاء #هندسة"

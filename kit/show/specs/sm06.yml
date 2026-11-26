@@ -11,8 +11,8 @@ levels:
     still: 2.0
     en: {world: "DUBAI", boss: "THE WAVES", sub: "NO LAND OUT HERE  ·  JUST OPEN SEA", unlocked: "THE BURJ AL ARAB",
          stamp: "NO LAND", chips: [["321 m", "TALL"], ["230", "PILES, 40 m DOWN"], ["210 m", "UP TO THE HELIPAD"]]}
-    ar: {world: "دبي", boss: "الموج", sub: "ما فيه أرض  ·  كله بحر", unlocked: "برج العرب",
-         stamp: "كله بحر", chips: [["321 m", "ارتفاع"], ["230", "عمود خرسانة"], ["210 m", "علو المهبط"]]}
+    ar: {world: "دبي", boss: "الموج", sub: "كله بحر", unlocked: "برج العرب",      # a short sub: the deep tail of the ج runs into a longer one
+         stamp: "ما فيه أرض", chips: [["321 m", "ارتفاع"], ["230", "عمود خرسانة"], ["210 m", "علو المهبط"]]}
   - kit: suez
     music: oasis
     color: "#FFD08A"

@@ -16,12 +16,15 @@ Episodes so far: `specs/sm01.yml` Zero Electricity (windtower, falaj, igloo, ond
 `specs/sm02.yml` You vs Water (panama, venice, aswan, palmjumeirah; Egyptian narrator), `specs/sm03.yml` You vs Gravity
 (pisa, machupicchu, operahouse, liberty; the first Saudi episode), `specs/sm04.yml` You vs Time (bigben, towerbridge,
 shibam, greatwall), `specs/sm05.yml` You vs the Sun (colosseum, stepwell, louvre, maraya; the first with the English
-lines read by J. Ballen: copy its `en:` and `ar:` blocks). Never reuse a build.
+lines read by J. Ballen: copy its `en:` and `ar:` blocks), `specs/sm06.yml` You vs the Sea (burjalarab, suez, pharos,
+barrier). Never reuse a build.
 
 Only v2 builds (`look: 2` in episodes.yml) fit: `build_show.py` cuts a build with its scene file `kit/episodes/<kit>.py`
 (the times of its four breaks and fixes, clean pictures for the cold open and the cards). The Seedance builds
 (`look: sd`, every build from 76 on except 96) have no scene file, so the show cannot use them until the builder
-learns to read `kit/episodes/<kit>_sd.json` + the voice file. After sm05 the Mansour group holds 12 v2 builds.
+learns to read `kit/episodes/<kit>_sd.json` + the voice file. After sm06 the Mansour group holds 13 v2 builds
+(builds 96-102 were made in the v2 look; hagiasophia is left out: the show rule). Leave out a build that posts as a
+build on the episode's own day or later.
 
 ## 1. Pick four builds
 - One idea that makes them one fight: an enemy (heat, water, gravity, time, ...) or a place.
@@ -47,13 +50,18 @@ language `world`, `boss`, `sub`, `unlocked`, `stamp` (one or two words: it is st
 thumbnail) and three `chips` (a number, then a label; numbers and units in Latin letters in both languages, because
 the big number is drawn with the Latin font). Every number must come from the build's own checked script.
 Per language: `chip`, `ribbon`, `ribbon_icon` (see `layout.ICON`; draw a new icon there when the idea needs one, as
-`rock`, `flat` and `down` were for sm03), `no_icons` (three), `result_label` / `result_value` (the joke row on the
+`rock`, `flat` and `down` were for sm03, `umbrella` for sm05, `shortcut` and `lighthouse` for sm06), `no_icons` (three), `result_label` / `result_value` (the joke row on the
 results card), `emph` (caption words to light up, written exactly as in the line: "والريح", not "الريح") and `cues`.
 `shot` / `still` (seconds into the build; optional, per level or inside `en:` / `ar:` when the two hooks differ): the
 cold open, the thumbnail and the short's boss flashes show each world from `shot`, the level card's backdrop is
 `still`. The default is the end of the hook, which is often a bare start (two floors of a tower, a blueprint): run
 `build_show.py <id> <lang> <work> full fetch prep thumb` (it needs no voice; it stops at the plan), look at
-`<work>/<lang>/thumbnail.jpg`, and set `shot` to the hook's big picture (first 2 to 6 seconds of the build).
+`<work>/<lang>/thumbnail.jpg`, and set `shot` to the hook's big picture (first 2 to 6 seconds of the build). When
+that picture cannot be read in half a second (sm06's storm barrier: two thin arms on a river, seen from above), take
+the build's clearest picture instead, even its problem (the storm pushing the sea over the dike). The middle of each
+thumbnail column sits behind the title, so a picture whose subject is high or low in the frame shows best.
+Arabic level card: a boss name that ends in a letter with a deep tail (ج ح ع ي) runs into the sub line under it, so
+keep that sub shorter than the name (sm06: "الموج" over "كله بحر"); look at the four cards before the long render.
 
 Narration, 8 lines in `series/<id>_lines.txt` and `series/<id>_lines_ar_sa.txt`:
 1. Three short sentences ("No boat. No bridge. No dry land."): one icon slams in per sentence.
