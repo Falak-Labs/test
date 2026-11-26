@@ -1,0 +1,35 @@
+episode: 102
+date: 2026-11-28
+video:
+  en: media/ep102-albahar-en.mp4
+  ar: media/ep102-albahar-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-28T19:00:00Z"    # 11:00 PT Sat Nov 28, after 101 (101's line 10 promises it)
+  title: "Al Bahar Towers: Umbrellas That Follow the Sun ☀️"
+  text: |
+    These towers in Abu Dhabi open umbrellas when the sun hits them. ☀️
+    Desert sun turns glass offices into ovens, and dark tinted glass makes them gloomy. So the architects borrowed the mashrabiya, the old Arab wooden screen, and made it move: about 2,000 umbrella-like shades, each with its own motor, unfold where the sun shines and fold where it doesn't, steered by a computer that tracks the sun. In a storm, sensors on the roof fold them halfway. They keep out about half the sun's heat, so the glass can stay clear.
+    Who else fights their car's sun shade every summer? 👇
+  next: "bubble wrap (it started as wallpaper) 🫧"
+  seo: "How Abu Dhabi's Al Bahar Towers keep cool: two 25-storey towers (Aedas, 2012) wrapped in a computer-controlled mashrabiya of 2,098 umbrella-like shading units, 1,049 per tower. Each unit is a frame of PTFE fabric panels opened and closed by a motor; sun-tracking software unfolds the units in direct sun and folds the ones in shade, and wind sensors on the roof fold them halfway in a storm. The screen cuts the heat gained from sunlight by about half, so the glass can stay clear instead of dark tinted. It won a CTBUH 2012 Tall Building Innovation Award."
+  tags:
+    tiktok: "#albahartowers #abudhabi #architecture #engineering #learnontiktok"
+    instagram: "#albahartowers #abudhabi #architecture #mashrabiya #engineering"
+    youtube: "#abudhabi #architecture #engineering"
+ar:
+  at:
+    default: "2026-11-28T14:00:00Z"    # Instagram 06:00 PT Sat Nov 28 = 17:00 Riyadh, after 101 (03:00 PT)
+    tiktok: "2026-11-28T14:30:00Z"     # 06:30 PT: 3 h after 101's Arabic TikTok (03:30 PT), 4 h before the show's 10:30 PT
+  title: "أبراج البحر: مظلات تلحق الشمس ☀️"
+  text: |
+    أبراج في أبوظبي تفتح مظلاتها إذا جتها الشمس! ☀️
+    شمس الصحرا تخلي مكاتب الزجاج أفران، والزجاج الغامق يخلي المكتب كئيب. فأخذوا فكرة المشربية، الشباك الخشب العربي القديم، وخلوها تتحرك: حوالي ألفين مظلة، كل وحدة فيها موتور، تنفتح وين ما تجي الشمس وتتسكر في الظل، وكمبيوتر يلحق الشمس طول اليوم. وإذا جا العجاج، حساسات فوق السطح تسكرها لنصها. وتوقف تقريباً نص حر الشمس، فالزجاج يظل شفاف.
+    مين بعد يتهاوش مع مظلة السيارة كل صيف؟ 👇
+  next: "نايلون الفقاعات 🫧"
+  seo: "كيف تبرد أبراج البحر في أبوظبي: برجين كل واحد ٢٥ دور (تصميم إيداس، ٢٠١٢) ملفوفين بمشربية يتحكم فيها الكمبيوتر، فيها ٢٠٩٨ مظلة، ١٠٤٩ لكل برج. كل مظلة ألواح قماش تفلون على إطار يفتحه ويسكره موتور؛ برنامج يتبع الشمس يفتح المظلات اللي عليها شمس ويسكر اللي في الظل، وحساسات الهوا فوق السطح تسكرها لنصها وقت العاصفة. المشربية تقلل حرارة الشمس الداخلة تقريباً للنص، فالزجاج يقدر يظل شفاف بدل الغامق."
+  tags:
+    tiktok: "#أبراج_البحر #أبوظبي #الإمارات #هندسة #تعلم_على_التيك_توك"
+    instagram: "#أبراج_البحر #أبوظبي #مشربية #عمارة #هندسة"
+    youtube: "#أبوظبي #عمارة #هندسة"
