@@ -2813,3 +2813,88 @@ New content
   [SoraNews24, Oct 18 2019](https://soranews24.com/2019/10/18/japanese-internet-thanks-the-underground-temple-that-siphoned-off-typhoon-hagibis-torrent/),
   [NASA GPM, Oct 17 2019](https://gpm.nasa.gov/applications/weather/typhoon-hagibis-brings-heavy-rains-japan),
   [NASA GMAO](https://gmao.gsfc.nasa.gov/research/science_snapshots/2019/typhoon_Hagibis.php)
+
+## 2026-11-25 17:00 PT (hourly runner, cloud run)
+
+Trends
+- New Year's Eve, a seasonal build with a deadline (new to these notes: no New Year's line yet). The Times Square
+  ball is a Build-It of its own: the current "Constellation Ball" "measures 12.5 feet in diameter" and "weighs 12,350
+  pounds", with "5,280 crystals and LED light pucks" in "circular shapes" instead of the "triangular shaped crystals
+  introduced back in 1999"; "In November 2025, One Times Square debuted the Constellation Ball", "the ninth Ball" (the
+  same page also says "Seven versions": check). The ball before it: "nearly six tons and twelve feet in diameter",
+  "2,688 crystal triangles" lit by "32,256 LEDs". The twist for the hook is a sailors' clock: "The first 'time-ball'
+  was installed atop England's Royal Observatory at Greenwich in 1833" and dropped "at one o'clock every afternoon" so
+  ship captains could set their chronometers; "Around 150 public time-balls" followed, and the US Naval Observatory's
+  still drops "at noon each day". The first Times Square ball (1907), "made of iron and wood and adorned with one
+  hundred 25-watt light bulbs, was 5 feet in diameter and weighed 700 pounds"; 1920, a "400 pound Ball made entirely
+  of wrought iron"; 1955, an "aluminum Ball weighing a mere 150 pounds". Not on these pages: the LED count, the pole's
+  height, how far and how fast it drops (only "At 11:59 p.m., the Ball begins its descent"), and whether this ball
+  drops again on Dec 31 2026 ("A new theme will be introduced later this year for the 2026 crystals"; the site's
+  "TS2026_Numeral_Fact_Sheet_12-17-2025.pdf" was not read; its NYE2024 ball fact sheet PDF would not load). NPR adds
+  the local link: downtown, the Western Union building "for decades had dropped an iron ball from its rooftop every
+  day at noon", and it gives the ball before this one as "a 12-foot, 11,875-pound crystal ball" (Dec 31 2024).
+  Leave out the crystal maker's name, the 1942-43 wartime "dimout" (no wars) and faces in the crowd. Timing: a Dec
+  30-31 post is made in late December, but Seedance is free only until Nov 28, so if the main chat wants this build in
+  the Seedance look, its two jobs must be written, queued and run by then (it is not in LINEUP: the main chat's
+  call). Shots to start from (ours, check before use): A1, a giant glowing ball of thousands of crystals slides down
+  a pole above a packed square at midnight, people from behind; A2, 1830s sailing ships on the Thames, a captain
+  frowning at his pocket chronometer; A3, a red ball rises up a mast on an observatory roof at 12:55 and drops at
+  exactly one o'clock while officers on the ships set their clocks; B5, the real midnight drop, confetti, the crowd
+  from behind; B6, funny slow motion, a dog watches a tennis ball bounce down a long staircase one step at a time, its
+  head bobbing with each bounce like a countdown. Line 12: "12,350 LB" or "1833".
+  [Times Square Alliance, NYE history](https://timessquarenyc.org/nye/nye-history-times-square-ball),
+  [ABC News, Jan 1 2026](https://abcnews.com/culture/story/new-2026-nye-ball-times-square/?id=128703344),
+  [NPR, Dec 31 2024](https://www.npr.org/2024/12/31/nx-s1-5235245/new-years-eve-ball-drop-times-square)
+- Its Arab-world twin for Kef Tenbeni, a lead only: the Burj Khalifa's facade screen, used for the New Year show,
+  "required 72 kilometers of cabling and 10,000 connectors to cover a total area of 33,000 square meters" and "was
+  first used to ring in the New Year in 2015" (ArchDaily, Sep 28 2016); its fireworks site keeps "20,000 fireworks"
+  (Khaleej Times, Dec 30 2025). How the shells are fixed to the tower and fired was on none of the pages read (Gulf
+  News' "14 facts" is from 2018), so check an Emaar or show-maker release before a script uses any of it.
+  [ArchDaily, Sep 28 2016](https://www.archdaily.com/796295/watch-how-the-worlds-largest-led-screen-was-installed-at-the-burj-khalifa),
+  [Khaleej Times, Dec 30 2025](https://www.khaleejtimes.com/uae/dubai-burj-khalifa-new-years-eve-2026-show-behind-the-scenes)
+- A nearer date for Kef Tenbeni (new to these notes, which have only Etihad Rail's Nov 30 stations): Wed Dec 2 is the
+  UAE's 55th National Day, "Eid Al Etihad" (search results only, pages not read: Gulf News, "UAE federal government
+  announces 55th Eid Al Etihad holiday dates"; Emirates 24|7, "Dubai government announces Eid Al Etihad 55 holiday
+  from 2 to 4 December"; The National, Nov 13 2026). Two UAE builds are already in LINEUP, 97 (the Museum of the
+  Future, Dubai, the next queue job) and 102 (Al Bahar Towers, Abu Dhabi), so one could post that day with a short
+  holiday line in the Arabic caption: posting dates are the main chat's call; keep it to the building (no leaders'
+  faces, nothing political).
+  [Gulf News](https://gulfnews.com/uae/government/uae-federal-government-announces-55th-eid-al-etihad-holiday-dates-1.500746042),
+  [Emirates 24|7](https://www.emirates247.com/uae/dubai-government-announces-eid-al-etihad-55-holiday-from-2-to-4-december/7878),
+  [The National, Nov 13 2026](https://www.thenationalnews.com/news/uae/2026/11/13/uae-national-day-holidays-2026-private-public-sector/)
+- Checked, no peg now: the Gordie Howe International Bridge (Windsor-Detroit) opened in late July 2026 (search results
+  only: Equipment World's "now set to open July 27", Spectrum News' "opening day" story of Jul 27); four months on it
+  is no news peg, and its delay is tied to US-Canada politics, so it is not proposed.
+  [Equipment World](https://www.equipmentworld.com/roadbuilding/article/15830141/gordie-howe-bridge-now-set-to-open-july-27),
+  [Spectrum News, Jul 27 2026](https://spectrumlocalnews.com/michigan/news/2026/07/27/gordie-howe-opening-day)
+
+Free footage and pictures
+- Coverr's AI Studio, a free monthly video allowance for after Nov 28 (new to these notes; only Coverr's stock library
+  was in them). Its free plan: "1,000 AI credits every month", "no card required" (Coverr's blog, Aug 21 2026); the
+  models named are "Veo 3.1, Kling 3.0, Flux and 15+ other models", but the free plan gets only "eine Auswahl an
+  Modellen" (a selection, not named), and the generator page lists clips "Bis zu 30 Sekunden mit Seedance 2.5 und Wan
+  3.0" and "Hochformat 9:16 für Reels, TikTok und Shorts". What one clip costs is shown only inside the generator
+  ("Jedes Modell zeigt seinen Preis an, bevor Sie generieren"), so how many clips 1,000 credits buy is unknown until
+  someone signs in, and that sign-up is the owner's (runners never sign up or type passwords). Paid plans start at
+  "$4.20" a month billed yearly for "20,000" credits (the German pricing list): the owner's call, not ours. The licence
+  (upd. Nov 4 2026) suits us: "As between you and Coverr, you own your output, and Coverr assigns you whatever rights
+  it has in it", generations may be sold and used commercially with no plan excluded, attribution "Not required", but
+  "Labelling is on you", "No impersonating real people, passing synthetic footage off as real events" (a B5 made there
+  gets the AI label, as now), "Brands and IP: logos, products, characters, artwork or buildings" are flagged to check,
+  and "No AI Training". Coverr's older Terms (Apr 4 2023) still speak of "non-commercial use of the Website" and say
+  nothing on AI; the Nov 2026 licence is the newer text.
+  Correction to the Nov 23 line on Coverr's Vertical category: the same licence puts "selected stock and AI items,
+  including vertical (9:16) footage" under Premium, and "Without one: the watermarked version is a preview only. It
+  isn't licensed for any use." Check a vertical clip's badge before using it.
+  [Coverr blog, Aug 21 2026](https://coverr.co/blog/free-ai-video-credits-2026-coverr-vs-runway-vs-pollo),
+  [Coverr blog, Aug 22 2026](https://coverr.co/blog/coverr-vs-runway-pricing-2026),
+  [Coverr AI video generator (German)](https://coverr.co/de/ai/video-generator),
+  [Coverr License, upd. Nov 4 2026](https://coverr.co/license), [Coverr Terms, Apr 4 2023](https://coverr.co/terms)
+- Four more free stock-video sites from two 2026 lists (new to these notes): Dareful, "CC BY 4.0 — attribution
+  required", "native 4K" landscapes and drone shots (Coverr, Sep 14 2026); ISO Republic, "no attribution required,
+  although it is encouraged", "no login required"; Videvo, "Most videos are licensed as royalty free... with no need
+  for attribution", some under a "Videvo Attribution License"; SplitShire, "free for commercial and personal use",
+  mostly drone (Wyzowl, upd. Jan 15 2026). Neither list says any has engineering, factory or machinery footage or
+  vertical clips: B6 tag jokes and landscapes at most, after reading each site's own licence page.
+  [Coverr, Sep 14 2026](https://coverr.co/blog/free-4k-stock-footage-sites-compared-2026),
+  [Wyzowl, upd. Jan 15 2026](https://www.wyzowl.com/free-stock-video)
