@@ -3238,3 +3238,58 @@ Free footage and pictures
   quote), a callback to build 56.
   [LoC 00694390](https://www.loc.gov/item/00694390), [LoC 00694364](https://www.loc.gov/item/00694364),
   [LoC 2017604953](https://www.loc.gov/item/2017604953), [Wikipedia, Escalator](https://en.wikipedia.org/wiki/Escalator)
+
+## 2026-11-25 23:05 PT (hourly runner, cloud run)
+
+New content
+- The automatic rice cooker, a candidate everyday build for both channels (new to these notes; no rice build in LINEUP
+  or kit/series; its cousins the pressure cooker, 76, and the kettle, 86, work differently: this one never reads a
+  clock, it waits for the water to run out). The first: "Toshiba's ER-4, introduced in 1955, was the world's first
+  automatic rice cooker", "on sale on 10 December 1955" (IEEE Spectrum; Wikipedia gives the same date, "or 1956").
+  "At its launch, 700 units were produced, but they did not sell well" (Wikipedia); then "Within a year, Toshiba was
+  selling more than 200,000 rice cookers a month" (IEEE), and "By 1960" it was "in use in about half of all Japanese
+  households" (Wikipedia), at 3,200 yen, "about a third of the average Japanese monthly salary" (IEEE; Wikipedia: a
+  graduate's starting pay). The problem it ended: "getting up by 5:00 am to fan the flames of a kamado", rice made "up
+  to three times a day" (IEEE); the electric pots before it "still needed the heat to be turned off manually"
+  (Wikipedia, "Fumiko Minami"). The 1955 trick: a double pot, "filling the outer pot with a glass of water and heating
+  it" (Wikipedia); "One cup of boiling water in the external pot took 20 minutes to evaporate", then "a bimetallic
+  switch" in the outer pot "would bend and cut the circuit" (IEEE), so it "cooked the rice for exactly 20 minutes and
+  then turned itself off" (IEEE caption). How a basic cooker knows today: the water "stays at boiling point (100 °C,
+  212 °F)" while it lasts, and "When the water has all been absorbed, the temperature can rise above boiling point,
+  which trips the thermostat" (Wikipedia). In simple cookers that thermostat is a magnet and a small button of "an
+  alloy that has a Curie temperature just a bit higher than the boiling point of water": past that point "the magnet
+  is no longer attracted to it, so the spring overcomes the magnet and… *click*" it drops to warming (kottke, Jan 12
+  2024, a quoted passage; a Medium post agrees: it "loses its magnetism at temperatures above 100° C"). No maker's
+  page was read and none gives a number, so say "just past 100 degrees", not "103". Later steps: warming at
+  "approximately 65 °C (150 °F)"; "In 1972, a rice cooker with a heat-retention function", a microcomputer in 1979,
+  induction heating in 1988 (Wikipedia). People: Wikipedia credits "Toshiba's Shogo Yamada beginning in 1951" and "a
+  breakthrough invention by Yoshitada Minami", tested by his wife Fumiko "on her rooftop in cold winters and scorching
+  summers" (IEEE), but Toshiba's museum page names no inventor and IEEE's writer found no mention of Minami before a
+  2012 book chapter: the narration says "Toshiba, 1955". A chain (breaks marked "ours" are ours): A1 cutaway of a
+  white rice cooker, the last water gone from the pot, a small magnet under it lets go with a click and the red light
+  turns amber, slow push-in; A2 before dawn in a 1950s farmhouse kitchen, a cook seen from behind fans the fire of a
+  clay stove under an iron rice pot, smoke in the first light, wide; A3 an early electric pot of rice boiling on a
+  kitchen table, plugged into the wall; A4 nobody switches it off and the bottom layer scorches black, smoke curling up
+  (ours); A5 cutaway of a double pot, a glass of water poured into the outer pot and slowly boiling away around the
+  inner pot of rice; A6 a test pot on a frosty rooftop in a winter wind, the cold slowing it down (ours: the weather
+  changes the time); B1 macro of a strip of two metals bending in the heat and snapping a switch open; B2 the rice
+  done at noon, cold and hard by dinner (ours); B3 a low warming glow under the pot, a wisp of steam for hours; B4 the
+  next LINEUP build; B5 a 1950s department store counter stacked with boxed white rice cookers, shoppers from behind,
+  wide; B6 funny slow motion, a man lifts the lid to check for the tenth time and a puff of steam fogs his glasses
+  while the cat watches. Line 12: "200,000 A MONTH". Keep the steam soft ("a wisp of steam"): "a jet of white steam"
+  came back NSFW on Nov 23 (HIGGSFIELD.md rule 3). No brand or logo on the cookers; for Kef Tenbeni the tag can end on
+  a big family tray of rice. Its Seedance pair could only run by Nov 28, so in practice the v2 look; adding it is the
+  main chat's call.
+  [IEEE Spectrum](https://spectrum.ieee.org/toshiba-rice-cooker), [Wikipedia, Rice cooker](https://en.wikipedia.org/wiki/Rice_cooker),
+  [Wikipedia, Fumiko Minami](https://en.wikipedia.org/wiki/Fumiko_Minami),
+  [Toshiba Science Museum](https://toshiba-mirai-kagakukan.jp/a-guide/en/history-zone/ichigoki/cooker.htm),
+  [kottke, Jan 12 2024](https://also.kottke.org/24/01/the-clever-engineering-trick-that-allows-simple-rice-cookers-to-perfectly-cook-rice),
+  [Medium, 0xmachina](https://medium.com/0xmachina/cooking-with-magnetism-for-real-f4ff8b1dc51a)
+- Checked, nothing new: a search for Higgsfield's Black Friday offers at about 22:58 PT returned only pages already in
+  these notes, so Nov 28 stands. Jeddah Tower (100): a Newsweek piece in the results ("World's Tallest Building Soars
+  As Skyscraper Hits Construction Milestone") is from Jun 17 2026 (upd. Aug 3: "430 meters at the 107th level", from a
+  Jul 26 post), older than the 484 m of Oct 30; no 500 m report found. Searches for this week's Shorts features and
+  trending engineering topics returned Made on YouTube (Sep 2026) and old lists again. Seen in results but not read:
+  the Tianshan Shengli Tunnel in Xinjiang, "world's longest expressway tunnel" (LatestLY headline); a Xinjiang topic
+  may draw political comments, so it is the main chat's call.
+  [Newsweek, Jun 17 2026](https://www.newsweek.com/worlds-tallest-skyscraper-construction-milestone-jeddah-tower-12086826)
