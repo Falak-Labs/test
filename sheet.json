@@ -1,0 +1,52 @@
+{
+ "sm06-en-full": {
+  "url": "https://raw.githubusercontent.com/Falak-Labs/test/show/sm06-en-full.mp4",
+  "channel": "Congrats Engineer",
+  "channel_id": "UCDkfxHa7q5Ea0OoiSSi8DHA",
+  "language": "English",
+  "kind": "full",
+  "title": "Survival Mode: You vs the Sea ⚓ Burj Al Arab, Suez Canal, a Lighthouse",
+  "desc": "No land. No shortcut. No light. Four levels, four bosses made of salt water, and you beat them with sand, steam, fire and steel.\n\n0:00 No land. No shortcut. No light.\n0:13 Level 1: the Burj Al Arab vs the waves\n1:16 Level 2: the Suez Canal vs the detour\n2:21 Level 3: the Lighthouse of Alexandria vs the dark\n3:20 Final level: the Dutch storm barrier vs the North Sea\n4:24 Results\n\nEvery level is a real build: the Burj Al Arab stands 321 meters tall on an island made just for it, on 230 concrete piles driven 40 meters into the sand.\nThe Suez Canal runs 193 kilometers through the desert with zero locks, and made the trip from London to India almost 9,000 kilometers shorter.\nSailors saw the fire of the Lighthouse of Alexandria 50 kilometers out at sea, and each arm of the Dutch storm barrier weighs 6,800 tonnes and swings on a 10-meter ball joint.\n\nNew episode every day. Subscribe, or the boss wins.\n#engineering #survival #howitworks",
+  "date": "Nov 27, 2026",
+  "time": "10:00 AM",
+  "utc": "2026-11-27T18:00Z",
+  "thumb": "https://raw.githubusercontent.com/Falak-Labs/test/show/sm06-en-thumb.jpg"
+ },
+ "sm06-en-short": {
+  "url": "https://raw.githubusercontent.com/Falak-Labs/test/main/media/sm06-en.mp4",
+  "channel": "Congrats Engineer",
+  "channel_id": "UCDkfxHa7q5Ea0OoiSSi8DHA",
+  "language": "English",
+  "kind": "short",
+  "title": "A Hotel Standing in the Open Sea ⚓ Survival Mode: You vs the Sea",
+  "desc": "Level 1 of 4: Dubai. You want a hotel out in the open sea, where there's no land at all, so you build your own island and stand the Burj Al Arab on it.\nThe full episode with all four levels is on this channel: \"Survival Mode: You vs the Sea\".\n#Shorts #engineering #survival",
+  "date": "Nov 27, 2026",
+  "time": "12:15 PM",
+  "utc": "2026-11-27T20:15Z"
+ },
+ "sm06-ar-full": {
+  "url": "https://raw.githubusercontent.com/Falak-Labs/test/show/sm06-ar-full.mp4",
+  "channel": "Kef Tenbeni",
+  "channel_id": "UC8qDuZpMDQXRrowaNp29vow",
+  "language": "Arabic",
+  "kind": "full",
+  "title": "طور البقاء: أنت ضد البحر ⚓ برج العرب وقناة السويس ومنارة الإسكندرية",
+  "desc": "بدون أرض. بدون طريق مختصر. بدون نور. أربع مراحل وأربعة زعماء من البحر، وأنت تغلبهم بالرمل والبخار والنار والحديد.\n\n0:00 بدون أرض ولا طريق مختصر ولا نور\n0:12 المرحلة الأولى: برج العرب والموج\n1:18 المرحلة الثانية: قناة السويس ولفّة أفريقيا\n2:24 المرحلة الثالثة: منارة الإسكندرية والظلام\n3:25 المرحلة الأخيرة: حاجز العواصف الهولندي وبحر الشمال\n4:31 النتيجة\n\nكل مرحلة بناء حقيقي: برج العرب علوه ثلاثمية وواحد وعشرين متر فوق جزيرة انبنت له، على ميتين وثلاثين عمود خرسانة بطول أربعين متر.\nوقناة السويس مية وثلاثة وتسعين كيلو وسط الصحرا وولا هويس، وقصّرت طريق لندن للهند تسعة آلاف كيلو تقريبا.\nومنارة الإسكندرية كان البحارة يشوفون نارها من خمسين كيلو، وحاجز العواصف الهولندي كل ذراع فيه ستة آلاف وثمنمية طن ويلف على كورة حديد عشرة متر.\n\nحلقة جديدة كل يوم. اشترك، ولا الزعيم يفوز.\n#هندسة #طور_البقاء #كيف_تنبني",
+  "date": "Nov 27, 2026",
+  "time": "9:00 AM",
+  "utc": "2026-11-27T17:00Z",
+  "thumb": "https://raw.githubusercontent.com/Falak-Labs/test/show/sm06-ar-thumb.jpg"
+ },
+ "sm06-ar-short": {
+  "url": "https://raw.githubusercontent.com/Falak-Labs/test/main/media/sm06-ar.mp4",
+  "channel": "Kef Tenbeni",
+  "channel_id": "UC8qDuZpMDQXRrowaNp29vow",
+  "language": "Arabic",
+  "kind": "short",
+  "title": "فندق واقف وسط البحر ⚓ طور البقاء: أنت ضد البحر",
+  "desc": "المرحلة الأولى من أربع: دبي. تبي فندق وسط البحر وهناك ما فيه أرض، فتسوي جزيرتك بنفسك وتوقّف عليها برج العرب.\nالحلقة الكاملة بالمراحل الأربع على القناة: \"طور البقاء: أنت ضد البحر\".\n#Shorts #هندسة #طور_البقاء",
+  "date": "Nov 27, 2026",
+  "time": "10:30 AM",
+  "utc": "2026-11-27T18:30Z"
+ }
+}
