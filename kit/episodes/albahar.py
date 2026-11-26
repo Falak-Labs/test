@@ -333,7 +333,7 @@ class AlBahar(EpisodeV2):
         ("closer", "CONGRATS"): "مبروك",
         ("tag", "TWO"): "ألفين", ("tag", "FOLD"): "تتسكر", ("tag", "SHADE"): "تطويها"}}
     TEXT = {"en": {"follow": ("FOLLOW", "next: bubble wrap"),
-                   "stat": [("2", "TOWERS"), ("2,098", "SUN SHADES"), ("50%", "LESS SUN HEAT")],
+                   "stat": [("2", "TOWERS"), ("2,098", "SUN SHADES"), ("1", "COMPUTER ON THE SUN")],
                    "L": {"umbrellas": "THEY OPEN IN THE SUN", "oven": "GLASS IN THE DESERT = OVEN",
                          "how": "HOW MUCH HEAT CAN THEY STOP?", "tint": "DARK TINTED GLASS", "glare": "GLARE GONE!",
                          "gloomy": "GLOOMY... LIGHTS ON AT NOON", "mash": "THE MASHRABIYA", "old": "AN OLD ARAB SCREEN",
@@ -343,7 +343,7 @@ class AlBahar(EpisodeV2):
                          "clear": "CLEAR GLASS", "heat": "SUN HEAT", "name": "AL BAHAR TOWERS", "nope": "NOPE.",
                          "fold": "2,000 FOLD BY THEMSELVES"}},
             "ar_sa": {"follow": ("تابعني", "الجاي: نايلون الفقاعات"),
-                      "stat": [("2", "برجين"), ("2,098", "مظلة"), ("50%", "أقل حر شمس")],
+                      "stat": [("2", "برجين"), ("2,098", "مظلة"), ("1", "كمبيوتر يلحق الشمس")],
                       "L": {"umbrellas": "تفتح مع الشمس", "oven": "زجاج في الصحرا = فرن",
                             "how": "كم توقف من الحر؟", "tint": "زجاج غامق", "glare": "راح الوهج!",
                             "gloomy": "كئيب... والأنوار شغالة الظهر", "mash": "المشربية", "old": "شباك خشب عربي قديم",
