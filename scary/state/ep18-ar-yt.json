@@ -1,0 +1,13 @@
+{
+ "targets": {
+  "ar.youtube": {
+   "id": "6b0892443accdac92cf90378",
+   "channel": "6b028e5d8541f09ecb5fe26b",
+   "service": "youtube",
+   "status": "scheduled",
+   "dueAt": "2026-11-28T19:16:18.000Z",
+   "planned": "2026-11-28T11:15:00-08:00",
+   "created": "2026-11-26T20:10:41+00:00"
+  }
+ }
+}
