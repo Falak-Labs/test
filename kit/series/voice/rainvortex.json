@@ -1,946 +1,921 @@
 {
  "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
  "model": "eleven_v4",
- "tempo": 1.12,
+ "tempo": 1.1164,
  "gap": 0.35,
- "duration": 67.575,
- "words": 165,
- "words_per_sec": 2.44,
+ "duration": 66.008,
+ "words": 160,
+ "words_per_sec": 2.42,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 5.023,
-   "text": "Y'all, Singapore's airport has a waterfall... pouring through a hole in the roof.",
+   "end": 4.438,
+   "text": "Y'all, Singapore's airport has a waterfall pouring through its roof.",
    "words": [
     {
      "w": "Y'all,",
-     "start": 0.139,
-     "end": 0.782
+     "start": 0.143,
+     "end": 0.788
     },
     {
      "w": "Singapore's",
-     "start": 0.996,
-     "end": 1.568
+     "start": 1.003,
+     "end": 1.648
     },
     {
      "w": "airport",
-     "start": 1.782,
-     "end": 1.996
+     "start": 1.899,
+     "end": 2.15
     },
     {
      "w": "has",
-     "start": 2.068,
-     "end": 2.211
+     "start": 2.221,
+     "end": 2.293
     },
     {
      "w": "a",
-     "start": 2.282,
-     "end": 2.425
+     "start": 2.508,
+     "end": 2.627
     },
     {
-     "w": "waterfall...",
-     "start": 2.496,
-     "end": 3.336
+     "w": "waterfall",
+     "start": 2.747,
+     "end": 3.153
     },
     {
      "w": "pouring",
-     "start": 3.371,
-     "end": 3.729
+     "start": 3.296,
+     "end": 3.583
     },
     {
      "w": "through",
-     "start": 3.8,
-     "end": 3.871
+     "start": 3.655,
+     "end": 3.726
     },
     {
-     "w": "a",
-     "start": 3.943,
-     "end": 4.086
-    },
-    {
-     "w": "hole",
-     "start": 4.229,
-     "end": 4.371
-    },
-    {
-     "w": "in",
-     "start": 4.443,
-     "end": 4.514
-    },
-    {
-     "w": "the",
-     "start": 4.55,
-     "end": 4.586
+     "w": "its",
+     "start": 3.834,
+     "end": 3.941
     },
     {
      "w": "roof.",
-     "start": 4.657,
-     "end": 5.157
+     "start": 4.013,
+     "end": 4.586
     }
    ]
   },
   {
    "line": 2,
-   "start": 5.336,
-   "end": 9.081,
+   "start": 4.752,
+   "end": 8.51,
    "text": "Indoors. No river. So where's all that water from?",
    "words": [
     {
      "w": "Indoors.",
-     "start": 5.351,
-     "end": 6.244
+     "start": 4.767,
+     "end": 5.663
     },
     {
      "w": "No",
-     "start": 6.422,
-     "end": 6.637
+     "start": 5.842,
+     "end": 6.057
     },
     {
      "w": "river.",
-     "start": 6.779,
-     "end": 7.3
+     "start": 6.2,
+     "end": 6.723
     },
     {
      "w": "So",
-     "start": 7.44,
-     "end": 7.583
+     "start": 6.863,
+     "end": 7.007
     },
     {
      "w": "where's",
-     "start": 7.797,
-     "end": 8.012
+     "start": 7.222,
+     "end": 7.437
     },
     {
      "w": "all",
-     "start": 8.083,
-     "end": 8.154
+     "start": 7.508,
+     "end": 7.58
     },
     {
      "w": "that",
-     "start": 8.226,
-     "end": 8.297
+     "start": 7.652,
+     "end": 7.723
     },
     {
      "w": "water",
-     "start": 8.369,
-     "end": 8.583
+     "start": 7.795,
+     "end": 8.01
     },
     {
      "w": "from?",
-     "start": 8.726,
-     "end": 9.226
+     "start": 8.153,
+     "end": 8.655
     }
    ]
   },
   {
    "line": 3,
-   "start": 9.394,
-   "end": 13.256,
+   "start": 8.823,
+   "end": 12.699,
    "text": "So the roof is a giant glass doughnut, with the hole in the middle.",
    "words": [
     {
      "w": "So",
-     "start": 9.608,
-     "end": 9.751
+     "start": 9.038,
+     "end": 9.182
     },
     {
      "w": "the",
-     "start": 9.822,
-     "end": 9.965
+     "start": 9.253,
+     "end": 9.397
     },
     {
      "w": "roof",
-     "start": 10.037,
-     "end": 10.251
+     "start": 9.468,
+     "end": 9.683
     },
     {
      "w": "is",
-     "start": 10.322,
-     "end": 10.394
+     "start": 9.755,
+     "end": 9.826
     },
     {
      "w": "a",
-     "start": 10.465,
-     "end": 10.608
+     "start": 9.898,
+     "end": 10.041
     },
     {
      "w": "giant",
-     "start": 10.679,
-     "end": 11.037
+     "start": 10.113,
+     "end": 10.471
     },
     {
      "w": "glass",
-     "start": 11.108,
-     "end": 11.394
+     "start": 10.543,
+     "end": 10.83
     },
     {
      "w": "doughnut,",
-     "start": 11.537,
-     "end": 12.135
+     "start": 10.973,
+     "end": 11.573
     },
     {
      "w": "with",
-     "start": 12.206,
-     "end": 12.278
+     "start": 11.645,
+     "end": 11.717
     },
     {
      "w": "the",
-     "start": 12.313,
-     "end": 12.349
+     "start": 11.752,
+     "end": 11.788
     },
     {
      "w": "hole",
-     "start": 12.421,
-     "end": 12.635
+     "start": 11.86,
+     "end": 12.075
     },
     {
      "w": "in",
-     "start": 12.671,
-     "end": 12.706
+     "start": 12.111,
+     "end": 12.147
     },
     {
      "w": "the",
-     "start": 12.778,
-     "end": 12.849
+     "start": 12.218,
+     "end": 12.29
     },
     {
      "w": "middle.",
-     "start": 12.992,
-     "end": 13.421
+     "start": 12.433,
+     "end": 12.863
     }
    ]
   },
   {
    "line": 4,
-   "start": 13.569,
-   "end": 18.848,
-   "text": "But water falling straight down smashes the floor and sprays everybody.",
+   "start": 13.013,
+   "end": 16.743,
+   "text": "But water falling straight down splashes everybody.",
    "words": [
     {
      "w": "But",
-     "start": 14.301,
-     "end": 14.444
+     "start": 13.528,
+     "end": 13.671
     },
     {
      "w": "water",
-     "start": 14.515,
-     "end": 14.801
+     "start": 13.743,
+     "end": 14.029
     },
     {
      "w": "falling",
-     "start": 14.872,
-     "end": 15.158
+     "start": 14.101,
+     "end": 14.388
     },
     {
      "w": "straight",
-     "start": 15.301,
-     "end": 15.658
+     "start": 14.531,
+     "end": 14.818
     },
     {
      "w": "down",
-     "start": 15.729,
-     "end": 16.015
+     "start": 14.889,
+     "end": 15.248
     },
     {
-     "w": "smashes",
-     "start": 16.229,
-     "end": 16.729
-    },
-    {
-     "w": "the",
-     "start": 16.801,
-     "end": 16.872
-    },
-    {
-     "w": "floor",
-     "start": 16.944,
-     "end": 17.229
-    },
-    {
-     "w": "and",
-     "start": 17.301,
-     "end": 17.372
-    },
-    {
-     "w": "sprays",
-     "start": 17.515,
-     "end": 18.015
+     "w": "splashes",
+     "start": 15.391,
+     "end": 15.893
     },
     {
      "w": "everybody.",
-     "start": 18.158,
-     "end": 19.015
+     "start": 16.036,
+     "end": 16.896
     }
    ]
   },
   {
    "line": 5,
-   "start": 19.161,
-   "end": 23.396,
+   "start": 17.056,
+   "end": 21.307,
    "text": "So the hole sits off center, and the water falls in a smooth curve.",
    "words": [
     {
      "w": "So",
-     "start": 19.37,
-     "end": 19.512
+     "start": 17.266,
+     "end": 17.409
     },
     {
      "w": "the",
-     "start": 19.584,
-     "end": 19.727
+     "start": 17.481,
+     "end": 17.624
     },
     {
      "w": "hole",
-     "start": 19.834,
-     "end": 19.941
+     "start": 17.732,
+     "end": 17.839
     },
     {
      "w": "sits",
-     "start": 20.012,
-     "end": 20.227
+     "start": 17.911,
+     "end": 18.126
     },
     {
      "w": "off",
-     "start": 20.298,
-     "end": 20.441
+     "start": 18.197,
+     "end": 18.341
     },
     {
      "w": "center,",
-     "start": 20.584,
-     "end": 21.012
+     "start": 18.484,
+     "end": 18.914
     },
     {
      "w": "and",
-     "start": 21.155,
-     "end": 21.298
+     "start": 19.057,
+     "end": 19.201
     },
     {
      "w": "the",
-     "start": 21.37,
-     "end": 21.441
+     "start": 19.272,
+     "end": 19.344
     },
     {
      "w": "water",
-     "start": 21.584,
-     "end": 21.727
+     "start": 19.487,
+     "end": 19.631
     },
     {
      "w": "falls",
-     "start": 21.798,
-     "end": 22.012
+     "start": 19.702,
+     "end": 19.917
     },
     {
      "w": "in",
-     "start": 22.084,
-     "end": 22.155
+     "start": 19.989,
+     "end": 20.061
     },
     {
      "w": "a",
-     "start": 22.298,
-     "end": 22.334
+     "start": 20.204,
+     "end": 20.24
     },
     {
      "w": "smooth",
-     "start": 22.37,
-     "end": 22.87
+     "start": 20.276,
+     "end": 20.777
     },
     {
      "w": "curve.",
-     "start": 23.12,
-     "end": 23.584
+     "start": 21.028,
+     "end": 21.494
     }
    ]
   },
   {
    "line": 6,
-   "start": 23.709,
-   "end": 27.818,
+   "start": 21.62,
+   "end": 25.741,
    "text": "But the mist still drifts. Phones, passports... wet.",
    "words": [
     {
      "w": "But",
-     "start": 23.908,
-     "end": 24.051
+     "start": 21.819,
+     "end": 21.962
     },
     {
      "w": "the",
-     "start": 24.122,
-     "end": 24.194
+     "start": 22.034,
+     "end": 22.106
     },
     {
      "w": "mist",
-     "start": 24.265,
-     "end": 24.551
+     "start": 22.177,
+     "end": 22.464
     },
     {
      "w": "still",
-     "start": 24.694,
-     "end": 24.908
+     "start": 22.607,
+     "end": 22.822
     },
     {
      "w": "drifts.",
-     "start": 24.979,
-     "end": 25.602
+     "start": 22.894,
+     "end": 23.519
     },
     {
      "w": "Phones,",
-     "start": 25.685,
-     "end": 26.185
+     "start": 23.601,
+     "end": 24.103
     },
     {
      "w": "passports...",
-     "start": 26.328,
-     "end": 27.292
+     "start": 24.246,
+     "end": 25.214
     },
     {
      "w": "wet.",
-     "start": 27.328,
-     "end": 27.935
+     "start": 25.25,
+     "end": 25.859
     }
    ]
   },
   {
    "line": 7,
-   "start": 28.13,
-   "end": 31.726,
+   "start": 26.055,
+   "end": 29.662,
    "text": "So it falls into a clear drum, two floors tall.",
    "words": [
     {
      "w": "So",
-     "start": 28.345,
-     "end": 28.487
+     "start": 26.27,
+     "end": 26.413
     },
     {
      "w": "it",
-     "start": 28.559,
-     "end": 28.702
+     "start": 26.485,
+     "end": 26.628
     },
     {
      "w": "falls",
-     "start": 28.773,
-     "end": 28.987
+     "start": 26.7,
+     "end": 26.915
     },
     {
      "w": "into",
-     "start": 29.059,
-     "end": 29.273
+     "start": 26.987,
+     "end": 27.202
     },
     {
      "w": "a",
-     "start": 29.345,
-     "end": 29.416
+     "start": 27.273,
+     "end": 27.345
     },
     {
      "w": "clear",
-     "start": 29.488,
-     "end": 29.773
+     "start": 27.417,
+     "end": 27.703
     },
     {
      "w": "drum,",
-     "start": 29.916,
-     "end": 30.425
+     "start": 27.846,
+     "end": 28.357
     },
     {
      "w": "two",
-     "start": 30.559,
-     "end": 30.702
+     "start": 28.491,
+     "end": 28.635
     },
     {
      "w": "floors",
-     "start": 30.845,
-     "end": 31.202
+     "start": 28.778,
+     "end": 29.136
     },
     {
      "w": "tall.",
-     "start": 31.237,
-     "end": 31.845
+     "start": 29.172,
+     "end": 29.781
     }
    ]
   },
   {
    "line": 8,
-   "start": 32.038,
-   "end": 36.54,
+   "start": 29.976,
+   "end": 34.492,
    "text": "But falling water drags the air down... a wind in the garden.",
    "words": [
     {
      "w": "But",
-     "start": 32.556,
-     "end": 32.699
+     "start": 30.495,
+     "end": 30.639
     },
     {
      "w": "falling",
-     "start": 32.842,
-     "end": 33.199
+     "start": 30.782,
+     "end": 31.14
     },
     {
      "w": "water",
-     "start": 33.271,
-     "end": 33.628
+     "start": 31.212,
+     "end": 31.57
     },
     {
      "w": "drags",
-     "start": 33.771,
-     "end": 34.128
+     "start": 31.713,
+     "end": 32.072
     },
     {
      "w": "the",
-     "start": 34.199,
-     "end": 34.271
+     "start": 32.143,
+     "end": 32.215
     },
     {
      "w": "air",
-     "start": 34.342,
-     "end": 34.556
+     "start": 32.287,
+     "end": 32.502
     },
     {
      "w": "down...",
-     "start": 34.628,
-     "end": 35.128
+     "start": 32.573,
+     "end": 33.075
     },
     {
      "w": "a",
-     "start": 35.199,
-     "end": 35.271
+     "start": 33.147,
+     "end": 33.218
     },
     {
      "w": "wind",
-     "start": 35.342,
-     "end": 35.699
+     "start": 33.29,
+     "end": 33.648
     },
     {
      "w": "in",
-     "start": 35.771,
-     "end": 35.842
+     "start": 33.72,
+     "end": 33.792
     },
     {
      "w": "the",
-     "start": 35.913,
-     "end": 35.985
+     "start": 33.863,
+     "end": 33.935
     },
     {
      "w": "garden.",
-     "start": 36.056,
-     "end": 36.699
+     "start": 34.007,
+     "end": 34.652
     }
    ]
   },
   {
    "line": 9,
-   "start": 36.853,
-   "end": 40.761,
-   "text": "So a low glass wall sends that air up, not sideways.",
+   "start": 34.806,
+   "end": 39.007,
+   "text": "So a low wall made of glass sends that air up, not sideways.",
    "words": [
     {
      "w": "So",
-     "start": 37.066,
-     "end": 37.209
+     "start": 34.949,
+     "end": 35.092
     },
     {
      "w": "a",
-     "start": 37.28,
-     "end": 37.423
+     "start": 35.164,
+     "end": 35.236
     },
     {
      "w": "low",
-     "start": 37.495,
-     "end": 37.638
-    },
-    {
-     "w": "glass",
-     "start": 37.709,
-     "end": 37.995
+     "start": 35.379,
+     "end": 35.522
     },
     {
      "w": "wall",
-     "start": 38.066,
-     "end": 38.28
+     "start": 35.594,
+     "end": 35.809
+    },
+    {
+     "w": "made",
+     "start": 35.881,
+     "end": 36.024
+    },
+    {
+     "w": "of",
+     "start": 36.096,
+     "end": 36.167
+    },
+    {
+     "w": "glass",
+     "start": 36.239,
+     "end": 36.669
     },
     {
      "w": "sends",
-     "start": 38.352,
-     "end": 38.566
+     "start": 36.705,
+     "end": 36.884
     },
     {
      "w": "that",
-     "start": 38.637,
-     "end": 38.78
+     "start": 36.955,
+     "end": 37.099
     },
     {
      "w": "air",
-     "start": 38.852,
-     "end": 39.066
+     "start": 37.17,
+     "end": 37.385
     },
     {
      "w": "up,",
-     "start": 39.28,
-     "end": 39.602
+     "start": 37.529,
+     "end": 37.851
     },
     {
      "w": "not",
-     "start": 39.709,
-     "end": 39.923
+     "start": 37.959,
+     "end": 38.174
     },
     {
      "w": "sideways.",
-     "start": 39.995,
-     "end": 40.852
+     "start": 38.245,
+     "end": 39.105
     }
    ]
   },
   {
    "line": 10,
-   "start": 41.073,
-   "end": 45.643,
+   "start": 39.32,
+   "end": 43.905,
    "text": "Hit follow, 'cause next we're building noodles... full of tiny holes.",
    "words": [
     {
      "w": "Hit",
-     "start": 41.141,
-     "end": 41.284
+     "start": 39.388,
+     "end": 39.532
     },
     {
      "w": "follow,",
-     "start": 41.427,
-     "end": 41.962
+     "start": 39.675,
+     "end": 40.212
     },
     {
      "w": "'cause",
-     "start": 42.07,
-     "end": 42.284
+     "start": 40.32,
+     "end": 40.535
     },
     {
      "w": "next",
-     "start": 42.355,
-     "end": 42.641
+     "start": 40.607,
+     "end": 40.893
     },
     {
      "w": "we're",
-     "start": 42.712,
-     "end": 42.855
+     "start": 40.965,
+     "end": 41.108
     },
     {
      "w": "building",
-     "start": 43.034,
-     "end": 43.212
+     "start": 41.287,
+     "end": 41.467
     },
     {
      "w": "noodles...",
-     "start": 43.284,
-     "end": 43.912
+     "start": 41.538,
+     "end": 42.169
     },
     {
      "w": "full",
-     "start": 43.971,
-     "end": 44.114
+     "start": 42.228,
+     "end": 42.371
     },
     {
      "w": "of",
-     "start": 44.186,
-     "end": 44.257
+     "start": 42.443,
+     "end": 42.515
     },
     {
      "w": "tiny",
-     "start": 44.436,
-     "end": 44.614
+     "start": 42.694,
+     "end": 42.873
     },
     {
      "w": "holes.",
-     "start": 44.864,
-     "end": 45.186
+     "start": 43.124,
+     "end": 43.446
     }
    ]
   },
   {
    "line": 11,
-   "start": 45.955,
-   "end": 51.531,
-   "text": "The answer? Rain! The roof catches it, and pumps send the same water round again.",
+   "start": 44.218,
+   "end": 49.919,
+   "text": "The answer? Rain! The roof catches it... and pumps carry the same water back up.",
    "words": [
     {
      "w": "The",
-     "start": 46.17,
-     "end": 46.241
+     "start": 44.433,
+     "end": 44.577
     },
     {
      "w": "answer?",
-     "start": 46.312,
-     "end": 46.902
+     "start": 44.648,
+     "end": 45.266
     },
     {
      "w": "Rain!",
-     "start": 47.08,
-     "end": 47.652
+     "start": 45.481,
+     "end": 46.019
     },
     {
      "w": "The",
-     "start": 48.33,
-     "end": 48.366
+     "start": 46.628,
+     "end": 46.7
     },
     {
      "w": "roof",
-     "start": 48.437,
-     "end": 48.652
+     "start": 46.771,
+     "end": 46.986
     },
     {
      "w": "catches",
-     "start": 48.723,
-     "end": 49.009
+     "start": 47.058,
+     "end": 47.344
     },
     {
-     "w": "it,",
-     "start": 49.08,
-     "end": 49.259
+     "w": "it...",
+     "start": 47.416,
+     "end": 47.739
     },
     {
      "w": "and",
-     "start": 49.295,
-     "end": 49.366
+     "start": 47.774,
+     "end": 47.918
     },
     {
      "w": "pumps",
-     "start": 49.509,
-     "end": 49.723
+     "start": 47.989,
+     "end": 48.204
     },
     {
-     "w": "send",
-     "start": 49.795,
-     "end": 49.937
+     "w": "carry",
+     "start": 48.276,
+     "end": 48.491
     },
     {
      "w": "the",
-     "start": 50.045,
-     "end": 50.152
+     "start": 48.563,
+     "end": 48.706
     },
     {
      "w": "same",
-     "start": 50.295,
-     "end": 50.438
+     "start": 48.849,
+     "end": 48.993
     },
     {
      "w": "water",
-     "start": 50.509,
-     "end": 50.723
+     "start": 49.064,
+     "end": 49.351
     },
     {
-     "w": "round",
-     "start": 50.795,
-     "end": 51.009
+     "w": "back",
+     "start": 49.458,
+     "end": 49.566
     },
     {
-     "w": "again.",
-     "start": 51.223,
-     "end": 51.652
+     "w": "up.",
+     "start": 49.638,
+     "end": 50.068
     }
    ]
   },
   {
    "line": 12,
-   "start": 51.844,
-   "end": 56.761,
+   "start": 50.232,
+   "end": 55.166,
    "text": "Forty meters, up to ten thousand gallons a minute, and over two thousand trees.",
    "words": [
     {
      "w": "Forty",
-     "start": 51.906,
-     "end": 52.192
+     "start": 50.296,
+     "end": 50.583
     },
     {
      "w": "meters,",
-     "start": 52.263,
-     "end": 52.799
+     "start": 50.654,
+     "end": 51.192
     },
     {
      "w": "up",
-     "start": 52.906,
-     "end": 52.978
+     "start": 51.299,
+     "end": 51.371
     },
     {
      "w": "to",
-     "start": 53.049,
-     "end": 53.192
+     "start": 51.443,
+     "end": 51.586
     },
     {
      "w": "ten",
-     "start": 53.263,
-     "end": 53.406
+     "start": 51.658,
+     "end": 51.801
     },
     {
      "w": "thousand",
-     "start": 53.549,
-     "end": 53.835
+     "start": 51.944,
+     "end": 52.231
     },
     {
      "w": "gallons",
-     "start": 53.906,
-     "end": 54.192
+     "start": 52.303,
+     "end": 52.589
     },
     {
      "w": "a",
-     "start": 54.263,
-     "end": 54.335
+     "start": 52.661,
+     "end": 52.732
     },
     {
      "w": "minute,",
-     "start": 54.478,
-     "end": 54.728
+     "start": 52.876,
+     "end": 53.127
     },
     {
      "w": "and",
-     "start": 54.835,
-     "end": 54.978
+     "start": 53.234,
+     "end": 53.377
     },
     {
      "w": "over",
-     "start": 55.049,
-     "end": 55.335
+     "start": 53.449,
+     "end": 53.736
     },
     {
      "w": "two",
-     "start": 55.442,
-     "end": 55.549
+     "start": 53.843,
+     "end": 53.951
     },
     {
      "w": "thousand",
-     "start": 55.692,
-     "end": 56.121
+     "start": 54.094,
+     "end": 54.524
     },
     {
      "w": "trees.",
-     "start": 56.371,
-     "end": 56.835
+     "start": 54.775,
+     "end": 55.241
     }
    ]
   },
   {
    "line": 13,
-   "start": 57.073,
-   "end": 60.414,
+   "start": 55.48,
+   "end": 58.832,
    "text": "And congrats, you just built the Rain Vortex yourself.",
    "words": [
     {
      "w": "And",
-     "start": 57.129,
-     "end": 57.272
+     "start": 55.535,
+     "end": 55.679
     },
     {
      "w": "congrats,",
-     "start": 57.379,
-     "end": 58.129
+     "start": 55.786,
+     "end": 56.539
     },
     {
      "w": "you",
-     "start": 58.272,
-     "end": 58.415
+     "start": 56.682,
+     "end": 56.825
     },
     {
      "w": "just",
-     "start": 58.487,
-     "end": 58.629
+     "start": 56.897,
+     "end": 57.04
     },
     {
      "w": "built",
-     "start": 58.737,
-     "end": 58.844
+     "start": 57.148,
+     "end": 57.255
     },
     {
      "w": "the",
-     "start": 58.915,
-     "end": 58.987
+     "start": 57.327,
+     "end": 57.399
     },
     {
      "w": "Rain",
-     "start": 59.058,
-     "end": 59.272
+     "start": 57.47,
+     "end": 57.685
     },
     {
      "w": "Vortex",
-     "start": 59.344,
-     "end": 59.772
+     "start": 57.757,
+     "end": 58.187
     },
     {
      "w": "yourself.",
-     "start": 59.879,
-     "end": 60.629
+     "start": 58.294,
+     "end": 59.047
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.727,
-   "end": 67.56,
+   "start": 59.145,
+   "end": 66.0,
    "text": "Now try your kitchen tap on full, over a spoon. Yep. Get a drum.",
    "words": [
     {
      "w": "Now",
-     "start": 61.298,
-     "end": 61.87
+     "start": 59.719,
+     "end": 60.292
     },
     {
      "w": "try",
-     "start": 61.941,
-     "end": 62.155
+     "start": 60.363,
+     "end": 60.578
     },
     {
      "w": "your",
-     "start": 62.227,
-     "end": 62.298
+     "start": 60.65,
+     "end": 60.722
     },
     {
      "w": "kitchen",
-     "start": 62.37,
-     "end": 62.584
+     "start": 60.793,
+     "end": 61.008
     },
     {
      "w": "tap",
-     "start": 62.655,
-     "end": 62.87
+     "start": 61.08,
+     "end": 61.295
     },
     {
      "w": "on",
-     "start": 62.941,
-     "end": 63.012
+     "start": 61.367,
+     "end": 61.438
     },
     {
      "w": "full,",
-     "start": 63.155,
-     "end": 63.655
+     "start": 61.582,
+     "end": 62.083
     },
     {
      "w": "over",
-     "start": 63.762,
-     "end": 63.87
+     "start": 62.191,
+     "end": 62.298
     },
     {
      "w": "a",
-     "start": 63.905,
-     "end": 63.941
+     "start": 62.334,
+     "end": 62.37
     },
     {
      "w": "spoon.",
-     "start": 64.013,
-     "end": 64.557
+     "start": 62.442,
+     "end": 62.988
     },
     {
      "w": "Yep.",
-     "start": 65.941,
-     "end": 66.441
+     "start": 64.376,
+     "end": 64.878
     },
     {
      "w": "Get",
-     "start": 66.771,
-     "end": 66.914
+     "start": 65.21,
+     "end": 65.353
     },
     {
      "w": "a",
-     "start": 66.95,
-     "end": 66.986
+     "start": 65.389,
+     "end": 65.425
     },
     {
      "w": "drum.",
-     "start": 67.057,
-     "end": 67.7
+     "start": 65.496,
+     "end": 66.141
     }
    ]
   }
