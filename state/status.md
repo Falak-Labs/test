@@ -1,4 +1,4 @@
-# Post status 2026-11-26T19:50:24+00:00
+# Post status 2026-11-26T20:54:20+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -405,10 +405,10 @@
 | ep75-stepwell | en.instagram | sent |  | 2026-11-25T02:31:25.854Z https://www.instagram.com/reel/DgJdgFfzoxm/ |
 | ep75-stepwell | en.tiktok | sent |  | 2026-11-25T02:31:54.536Z https://tiktok.com/@congratsengineer/video/7711930731504635150 |
 | ep76-cooker | ar.instagram | sent |  | 2026-11-26T16:33:46.898Z https://www.instagram.com/reel/DgNiusJuhsc/ |
-| ep76-cooker | ar.tiktok | scheduled |  | 2026-11-26T20:30:00.000Z |
+| ep76-cooker | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T20:30:00.000Z |
 | ep76-cooker | en.instagram | sent |  | 2026-11-26T13:31:53.771Z https://www.instagram.com/reel/DgNN6tIBCPy/ |
 | ep76-cooker | en.tiktok | sent |  | 2026-11-26T13:31:55.330Z https://tiktok.com/@congratsengineer/video/7712471946658729230 |
-| ep77-goldengate | ar.instagram | scheduled |  | 2026-11-26T20:00:00.000Z |
+| ep77-goldengate | ar.instagram | sent |  | 2026-11-26T20:05:04.642Z https://www.instagram.com/reel/DgN60FKhhJL/ |
 | ep77-goldengate | ar.tiktok | scheduled |  | 2026-11-26T23:30:00.000Z |
 | ep77-goldengate | en.instagram | sent |  | 2026-11-26T16:04:46.718Z https://www.instagram.com/reel/DgNfZcLgeWA/ |
 | ep77-goldengate | en.tiktok | sent |  | 2026-11-26T16:04:17.013Z https://tiktok.com/@congratsengineer/video/7712511370486467853 |
@@ -493,9 +493,12 @@
 | ep97-museum | en.instagram | scheduled |  | 2026-11-27T21:30:00.000Z |
 | ep97-museum | en.tiktok | scheduled |  | 2026-11-27T21:30:00.000Z |
 | ep98-rainvortex | ar.instagram | scheduled |  | 2026-11-27T20:00:00.000Z |
+| ep98-rainvortex | ar.tiktok | scheduled |  | 2026-11-28T02:30:00.000Z |
 | ep98-rainvortex | en.instagram | scheduled |  | 2026-11-28T00:00:00.000Z |
 | ep98-rainvortex | en.tiktok | scheduled |  | 2026-11-28T00:00:00.000Z |
 | ep99-noodles | ar.instagram | scheduled |  | 2026-11-27T23:00:00.000Z |
+| ep99-noodles | en.instagram | scheduled |  | 2026-11-28T02:30:00.000Z |
+| ep99-noodles | en.tiktok | scheduled |  | 2026-11-28T02:30:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://www.tiktok.com/@congratsengineer/video/7710759443809553677?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
