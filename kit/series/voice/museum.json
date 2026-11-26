@@ -1,0 +1,938 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 67.874,
+ "words": 163,
+ "words_per_sec": 2.4,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.349,
+   "text": "Y'all, Dubai built a giant silver ring... and the windows are Arabic writing.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.117,
+     "end": 0.724
+    },
+    {
+     "w": "Dubai",
+     "start": 0.903,
+     "end": 1.26
+    },
+    {
+     "w": "built",
+     "start": 1.331,
+     "end": 1.546
+    },
+    {
+     "w": "a",
+     "start": 1.617,
+     "end": 1.688
+    },
+    {
+     "w": "giant",
+     "start": 1.903,
+     "end": 2.26
+    },
+    {
+     "w": "silver",
+     "start": 2.403,
+     "end": 2.688
+    },
+    {
+     "w": "ring...",
+     "start": 2.76,
+     "end": 3.268
+    },
+    {
+     "w": "and",
+     "start": 3.421,
+     "end": 3.492
+    },
+    {
+     "w": "the",
+     "start": 3.563,
+     "end": 3.635
+    },
+    {
+     "w": "windows",
+     "start": 3.706,
+     "end": 4.135
+    },
+    {
+     "w": "are",
+     "start": 4.242,
+     "end": 4.349
+    },
+    {
+     "w": "Arabic",
+     "start": 4.421,
+     "end": 4.778
+    },
+    {
+     "w": "writing.",
+     "start": 4.992,
+     "end": 5.492
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.662,
+   "end": 9.503,
+   "text": "No columns inside. Not one. So what's holding it up?",
+   "words": [
+    {
+     "w": "No",
+     "start": 5.804,
+     "end": 5.947
+    },
+    {
+     "w": "columns",
+     "start": 6.019,
+     "end": 6.376
+    },
+    {
+     "w": "inside.",
+     "start": 6.662,
+     "end": 7.09
+    },
+    {
+     "w": "Not",
+     "start": 7.233,
+     "end": 7.447
+    },
+    {
+     "w": "one.",
+     "start": 7.59,
+     "end": 8.028
+    },
+    {
+     "w": "So",
+     "start": 8.171,
+     "end": 8.313
+    },
+    {
+     "w": "what's",
+     "start": 8.528,
+     "end": 8.742
+    },
+    {
+     "w": "holding",
+     "start": 8.885,
+     "end": 9.028
+    },
+    {
+     "w": "it",
+     "start": 9.063,
+     "end": 9.099
+    },
+    {
+     "w": "up?",
+     "start": 9.171,
+     "end": 9.671
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.815,
+   "end": 14.245,
+   "text": "So a computer tried thousands of frames until one steel net fit.",
+   "words": [
+    {
+     "w": "So",
+     "start": 10.029,
+     "end": 10.172
+    },
+    {
+     "w": "a",
+     "start": 10.244,
+     "end": 10.315
+    },
+    {
+     "w": "computer",
+     "start": 10.387,
+     "end": 10.815
+    },
+    {
+     "w": "tried",
+     "start": 10.887,
+     "end": 11.244
+    },
+    {
+     "w": "thousands",
+     "start": 11.315,
+     "end": 11.744
+    },
+    {
+     "w": "of",
+     "start": 11.815,
+     "end": 11.887
+    },
+    {
+     "w": "frames",
+     "start": 11.958,
+     "end": 12.315
+    },
+    {
+     "w": "until",
+     "start": 12.529,
+     "end": 12.887
+    },
+    {
+     "w": "one",
+     "start": 12.958,
+     "end": 13.172
+    },
+    {
+     "w": "steel",
+     "start": 13.244,
+     "end": 13.529
+    },
+    {
+     "w": "net",
+     "start": 13.601,
+     "end": 13.815
+    },
+    {
+     "w": "fit.",
+     "start": 13.958,
+     "end": 14.458
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.557,
+   "end": 18.521,
+   "text": "But giant steel parts won't fit down the city streets.",
+   "words": [
+    {
+     "w": "But",
+     "start": 15.395,
+     "end": 15.538
+    },
+    {
+     "w": "giant",
+     "start": 15.68,
+     "end": 15.966
+    },
+    {
+     "w": "steel",
+     "start": 16.037,
+     "end": 16.323
+    },
+    {
+     "w": "parts",
+     "start": 16.395,
+     "end": 16.752
+    },
+    {
+     "w": "won't",
+     "start": 16.823,
+     "end": 17.037
+    },
+    {
+     "w": "fit",
+     "start": 17.109,
+     "end": 17.252
+    },
+    {
+     "w": "down",
+     "start": 17.323,
+     "end": 17.466
+    },
+    {
+     "w": "the",
+     "start": 17.537,
+     "end": 17.609
+    },
+    {
+     "w": "city",
+     "start": 17.68,
+     "end": 17.823
+    },
+    {
+     "w": "streets.",
+     "start": 17.895,
+     "end": 18.609
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.834,
+   "end": 22.839,
+   "text": "So every tube is the same width, and short enough to ride a truck.",
+   "words": [
+    {
+     "w": "So",
+     "start": 19.048,
+     "end": 19.191
+    },
+    {
+     "w": "every",
+     "start": 19.334,
+     "end": 19.62
+    },
+    {
+     "w": "tube",
+     "start": 19.691,
+     "end": 19.905
+    },
+    {
+     "w": "is",
+     "start": 19.977,
+     "end": 20.048
+    },
+    {
+     "w": "the",
+     "start": 20.12,
+     "end": 20.262
+    },
+    {
+     "w": "same",
+     "start": 20.405,
+     "end": 20.548
+    },
+    {
+     "w": "width,",
+     "start": 20.62,
+     "end": 20.95
+    },
+    {
+     "w": "and",
+     "start": 21.102,
+     "end": 21.316
+    },
+    {
+     "w": "short",
+     "start": 21.459,
+     "end": 21.673
+    },
+    {
+     "w": "enough",
+     "start": 21.745,
+     "end": 21.887
+    },
+    {
+     "w": "to",
+     "start": 21.959,
+     "end": 22.03
+    },
+    {
+     "w": "ride",
+     "start": 22.102,
+     "end": 22.173
+    },
+    {
+     "w": "a",
+     "start": 22.245,
+     "end": 22.316
+    },
+    {
+     "w": "truck.",
+     "start": 22.387,
+     "end": 22.959
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.152,
+   "end": 26.784,
+   "text": "But flat steel won't bend into a curve that bends two ways.",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.284,
+     "end": 23.427
+    },
+    {
+     "w": "flat",
+     "start": 23.498,
+     "end": 23.784
+    },
+    {
+     "w": "steel",
+     "start": 23.855,
+     "end": 24.141
+    },
+    {
+     "w": "won't",
+     "start": 24.212,
+     "end": 24.427
+    },
+    {
+     "w": "bend",
+     "start": 24.462,
+     "end": 24.641
+    },
+    {
+     "w": "into",
+     "start": 24.748,
+     "end": 24.855
+    },
+    {
+     "w": "a",
+     "start": 24.927,
+     "end": 24.998
+    },
+    {
+     "w": "curve",
+     "start": 25.07,
+     "end": 25.355
+    },
+    {
+     "w": "that",
+     "start": 25.427,
+     "end": 25.57
+    },
+    {
+     "w": "bends",
+     "start": 25.665,
+     "end": 25.855
+    },
+    {
+     "w": "two",
+     "start": 25.927,
+     "end": 26.07
+    },
+    {
+     "w": "ways.",
+     "start": 26.141,
+     "end": 26.855
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.096,
+   "end": 31.231,
+   "text": "So robot arms shaped every curved panel, one at a time.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.311,
+     "end": 27.525
+    },
+    {
+     "w": "robot",
+     "start": 27.668,
+     "end": 28.025
+    },
+    {
+     "w": "arms",
+     "start": 28.096,
+     "end": 28.382
+    },
+    {
+     "w": "shaped",
+     "start": 28.418,
+     "end": 28.739
+    },
+    {
+     "w": "every",
+     "start": 28.811,
+     "end": 29.096
+    },
+    {
+     "w": "curved",
+     "start": 29.168,
+     "end": 29.454
+    },
+    {
+     "w": "panel,",
+     "start": 29.525,
+     "end": 30.186
+    },
+    {
+     "w": "one",
+     "start": 30.257,
+     "end": 30.4
+    },
+    {
+     "w": "at",
+     "start": 30.471,
+     "end": 30.543
+    },
+    {
+     "w": "a",
+     "start": 30.579,
+     "end": 30.614
+    },
+    {
+     "w": "time.",
+     "start": 30.686,
+     "end": 31.329
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.544,
+   "end": 36.183,
+   "text": "But the windows are letters... so not one is a plain square.",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.109,
+     "end": 32.252
+    },
+    {
+     "w": "the",
+     "start": 32.323,
+     "end": 32.395
+    },
+    {
+     "w": "windows",
+     "start": 32.466,
+     "end": 32.895
+    },
+    {
+     "w": "are",
+     "start": 32.966,
+     "end": 33.109
+    },
+    {
+     "w": "letters...",
+     "start": 33.18,
+     "end": 33.939
+    },
+    {
+     "w": "so",
+     "start": 34.046,
+     "end": 34.154
+    },
+    {
+     "w": "not",
+     "start": 34.368,
+     "end": 34.582
+    },
+    {
+     "w": "one",
+     "start": 34.725,
+     "end": 35.011
+    },
+    {
+     "w": "is",
+     "start": 35.082,
+     "end": 35.154
+    },
+    {
+     "w": "a",
+     "start": 35.225,
+     "end": 35.296
+    },
+    {
+     "w": "plain",
+     "start": 35.439,
+     "end": 35.582
+    },
+    {
+     "w": "square.",
+     "start": 35.654,
+     "end": 36.368
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.496,
+   "end": 40.262,
+   "text": "So water jets cut over ten thousand glass pieces to fit.",
+   "words": [
+    {
+     "w": "So",
+     "start": 36.702,
+     "end": 36.845
+    },
+    {
+     "w": "water",
+     "start": 36.988,
+     "end": 37.273
+    },
+    {
+     "w": "jets",
+     "start": 37.345,
+     "end": 37.559
+    },
+    {
+     "w": "cut",
+     "start": 37.63,
+     "end": 37.773
+    },
+    {
+     "w": "over",
+     "start": 37.916,
+     "end": 38.059
+    },
+    {
+     "w": "ten",
+     "start": 38.13,
+     "end": 38.345
+    },
+    {
+     "w": "thousand",
+     "start": 38.559,
+     "end": 38.987
+    },
+    {
+     "w": "glass",
+     "start": 39.059,
+     "end": 39.273
+    },
+    {
+     "w": "pieces",
+     "start": 39.345,
+     "end": 39.702
+    },
+    {
+     "w": "to",
+     "start": 39.773,
+     "end": 39.845
+    },
+    {
+     "w": "fit.",
+     "start": 39.916,
+     "end": 40.416
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 40.575,
+   "end": 45.62,
+   "text": "Hit follow, 'cause next we're building a waterfall... inside an airport.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 40.714,
+     "end": 40.857
+    },
+    {
+     "w": "follow,",
+     "start": 41.0,
+     "end": 41.571
+    },
+    {
+     "w": "'cause",
+     "start": 41.714,
+     "end": 41.929
+    },
+    {
+     "w": "next",
+     "start": 42.0,
+     "end": 42.286
+    },
+    {
+     "w": "we're",
+     "start": 42.357,
+     "end": 42.571
+    },
+    {
+     "w": "building",
+     "start": 42.714,
+     "end": 42.857
+    },
+    {
+     "w": "a",
+     "start": 42.929,
+     "end": 43.0
+    },
+    {
+     "w": "waterfall...",
+     "start": 43.179,
+     "end": 43.83
+    },
+    {
+     "w": "inside",
+     "start": 43.866,
+     "end": 44.295
+    },
+    {
+     "w": "an",
+     "start": 44.366,
+     "end": 44.438
+    },
+    {
+     "w": "airport.",
+     "start": 44.509,
+     "end": 45.152
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 45.932,
+   "end": 52.022,
+   "text": "The answer? The outside holds it up! Twenty-four hundred steel beams cross like a basket.",
+   "words": [
+    {
+     "w": "The",
+     "start": 46.075,
+     "end": 46.218
+    },
+    {
+     "w": "answer?",
+     "start": 46.289,
+     "end": 46.914
+    },
+    {
+     "w": "The",
+     "start": 47.129,
+     "end": 47.2
+    },
+    {
+     "w": "outside",
+     "start": 47.271,
+     "end": 47.7
+    },
+    {
+     "w": "holds",
+     "start": 47.843,
+     "end": 47.986
+    },
+    {
+     "w": "it",
+     "start": 48.021,
+     "end": 48.057
+    },
+    {
+     "w": "up!",
+     "start": 48.129,
+     "end": 48.414
+    },
+    {
+     "w": "Twenty-four",
+     "start": 49.2,
+     "end": 49.629
+    },
+    {
+     "w": "hundred",
+     "start": 49.7,
+     "end": 49.914
+    },
+    {
+     "w": "steel",
+     "start": 50.057,
+     "end": 50.343
+    },
+    {
+     "w": "beams",
+     "start": 50.414,
+     "end": 50.771
+    },
+    {
+     "w": "cross",
+     "start": 50.843,
+     "end": 51.129
+    },
+    {
+     "w": "like",
+     "start": 51.2,
+     "end": 51.271
+    },
+    {
+     "w": "a",
+     "start": 51.343,
+     "end": 51.414
+    },
+    {
+     "w": "basket.",
+     "start": 51.486,
+     "end": 52.2
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 52.335,
+   "end": 57.898,
+   "text": "Seventy-seven meters, one thousand twenty-four panels, and fourteen kilometers of lights.",
+   "words": [
+    {
+     "w": "Seventy-seven",
+     "start": 52.549,
+     "end": 53.121
+    },
+    {
+     "w": "meters,",
+     "start": 53.263,
+     "end": 53.799
+    },
+    {
+     "w": "one",
+     "start": 53.978,
+     "end": 54.049
+    },
+    {
+     "w": "thousand",
+     "start": 54.192,
+     "end": 54.549
+    },
+    {
+     "w": "twenty-four",
+     "start": 54.621,
+     "end": 55.121
+    },
+    {
+     "w": "panels,",
+     "start": 55.192,
+     "end": 55.763
+    },
+    {
+     "w": "and",
+     "start": 55.835,
+     "end": 55.906
+    },
+    {
+     "w": "fourteen",
+     "start": 55.978,
+     "end": 56.478
+    },
+    {
+     "w": "kilometers",
+     "start": 56.549,
+     "end": 57.121
+    },
+    {
+     "w": "of",
+     "start": 57.192,
+     "end": 57.263
+    },
+    {
+     "w": "lights.",
+     "start": 57.335,
+     "end": 57.978
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 58.211,
+   "end": 61.855,
+   "text": "And congrats, you just built the Museum of the Future yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 58.272,
+     "end": 58.415
+    },
+    {
+     "w": "congrats,",
+     "start": 58.522,
+     "end": 59.272
+    },
+    {
+     "w": "you",
+     "start": 59.415,
+     "end": 59.558
+    },
+    {
+     "w": "just",
+     "start": 59.665,
+     "end": 59.772
+    },
+    {
+     "w": "built",
+     "start": 59.879,
+     "end": 59.987
+    },
+    {
+     "w": "the",
+     "start": 60.022,
+     "end": 60.058
+    },
+    {
+     "w": "Museum",
+     "start": 60.129,
+     "end": 60.487
+    },
+    {
+     "w": "of",
+     "start": 60.558,
+     "end": 60.629
+    },
+    {
+     "w": "the",
+     "start": 60.701,
+     "end": 60.772
+    },
+    {
+     "w": "Future",
+     "start": 60.844,
+     "end": 61.129
+    },
+    {
+     "w": "yourself.",
+     "start": 61.201,
+     "end": 61.987
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 62.168,
+   "end": 67.86,
+   "text": "My mom took one look: who's cleaning all those windows?",
+   "words": [
+    {
+     "w": "My",
+     "start": 63.025,
+     "end": 63.168
+    },
+    {
+     "w": "mom",
+     "start": 63.239,
+     "end": 63.454
+    },
+    {
+     "w": "took",
+     "start": 63.525,
+     "end": 63.739
+    },
+    {
+     "w": "one",
+     "start": 63.882,
+     "end": 64.025
+    },
+    {
+     "w": "look:",
+     "start": 64.096,
+     "end": 64.454
+    },
+    {
+     "w": "who's",
+     "start": 64.525,
+     "end": 64.739
+    },
+    {
+     "w": "cleaning",
+     "start": 64.846,
+     "end": 65.025
+    },
+    {
+     "w": "all",
+     "start": 65.096,
+     "end": 65.168
+    },
+    {
+     "w": "those",
+     "start": 65.239,
+     "end": 65.382
+    },
+    {
+     "w": "windows?",
+     "start": 65.454,
+     "end": 66.239
+    }
+   ]
+  }
+ ]
+}
