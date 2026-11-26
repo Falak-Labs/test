@@ -1313,6 +1313,11 @@ jobs:
     # in Room B opened at 85 s and Room A, without one, flashed over at 195 s at over 600 C (ideas.md Nov 25 06:00; its
     # stills, credit NIST, can serve lines 12-13). B6: the ninety candles (ideas.md Nov 24 15:05). Line 12: "77%" (one
     # head was enough) or "85 S". No faces: people only from behind; no hands; no brand on the heads or valves.
+    # Nov 26 07:00 runner, on B5 and lines 12-13 (English cut): NIST's own clip "Dry Tree Fire with a Sprinkler System"
+    # ("a single residential sprinkler on a dry tree in a furnished room") beside "Dry Tree Fire Without a Sprinkler
+    # System"; "A dry Scotch Pine Tree takes less than nine seconds to become fully involved in flames" (NIST). Free
+    # with "Video: NIST"; a peg if 101 posts in December (UMD's yearly tree burns: Dec 12 2024, Dec 17 2025). The Arabic
+    # cut keeps the living-room pair (no holiday tree). Prompts unchanged; sources in ideas.md (Nov 26 07:00).
     status: todo
     file: buildit-sprinkler-sdB.mp4
     shots: >-

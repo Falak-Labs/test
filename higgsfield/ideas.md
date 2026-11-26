@@ -3582,3 +3582,79 @@ Checked, nothing new
   Create Them for Free)", is gone (the beehiiv account no longer exists).
   [CRI, Sep 11 2025](https://news.cri.cn/20250911/b6e98a39-c02a-cad0-59af-fb47349e12cf.html),
   [TechCrunch, May 13 2025](https://techcrunch.com/2025/05/13/tiktok-launches-tiktok-ai-alive-a-new-image-to-video-tool)
+
+## 2026-11-26 07:00 PT (hourly runner, cloud run)
+
+New content
+- NIST's own clip of one sprinkler on a burning dry tree, real footage for the fire sprinkler (101) and a December peg
+  (new to these notes): NIST's holiday video page (upd. Sep 9 2025, "no longer being updated") lists "Dry Tree Fire
+  with a Sprinkler System", "a single residential sprinkler on a dry tree in a furnished room", beside "Dry Tree Fire
+  Without a Sprinkler System", and says "A dry Scotch Pine Tree takes less than nine seconds to become fully involved
+  in flames"; a watered tree would not light from a match, and under a propane torch its branches lit "briefly, but
+  self-extinguished". The text gives no flashover time or temperature; high-resolution video is asked for from Dan
+  Madrzykowski. Free with "Video: NIST" (NIST's terms: the Nov 24 entry above). The peg: the University of Maryland's
+  yearly tree burns, run by NIST's Isaac Leventon at its Koffel Associates Fire Standards Laboratory (Thu Dec 12 2024,
+  Wed Dec 17 2025), so likely mid-December again; NIST's tree page (upd. Sep 24 2026) cites NFPA's 160 home fires a
+  year (2014-2018). A Christmas tree is a holiday custom: English cut only, the Arabic cut keeps the living-room pair
+  (religion rule). Seen, titles only: NFSA's side-by-side sprinkler demo trailers ("Fire Sprinkler Demo in Times
+  Square"; a Pittsburgh holiday demo, Nov 13 2024), a crowd-watching B5 if a production run wants one.
+  [NIST, holiday videos](https://www.nist.gov/property-fieldsection/video-fire-safety-holidays),
+  [NIST, why water your tree](https://www.nist.gov/fire/holiday-fire-safety/why-you-should-water-your-christmas-tree),
+  [UMD FPE, Dec 19 2025](https://fpe.umd.edu/news/story/christmas-tree-burning-demonstrations-shed-light-at-fire-hazards-during-the-holidays),
+  [UMD Clark School, Dec 17 2024](https://eng.umd.edu/news/story/christmas-tree-burning-demonstrations-shed-light-on-holiday-safety-practices),
+  [NFSA side-by-side demos](https://ffsa.nfsa.org/side-by-side-fire-sprinkler-demos)
+- Flickr Commons, a free source of old photos for history lines (new to these notes as a source): "almost two million
+  photographs" from "over 100 cultural institutions" (FAQ, upd. Apr 1 2025; "113 registered members", how-it-works
+  page, upd. Oct 9 2025), and the FAQ says "feel free to share and reuse Flickr Commons content". But their label "No
+  known copyright restrictions" is "a special assertion", not a licence: the institution "can neither grant permission
+  to others" nor "provide a guarantee that the photograph is in the public domain", and "the responsibility is yours
+  to make your own independent analysis"; "Each member institution is expected to publish and maintain its own Rights
+  Statement" (the members: commons.flickr.org/members). Nothing there on credits or commercial use; CC0 and Public
+  Domain Mark labels are only planned. Use: an old photo for a history line (the 1880s Brooklyn Bridge, 105, if a
+  member holds one) after reading that member's own statement, credited in the caption like a Commons photo.
+  [Flickr Commons, NKCR, upd. Jan 9 2025](https://flickr.org/programs/flickr-commons/no-known-copyright-restrictions-how-it-works),
+  [Flickr Commons FAQ](https://flickr.org/programs/flickr-commons/flickr-commons-faq),
+  [Flickr Commons, how it works](https://www.flickr.org/programs/flickr-commons/flickr-commons-how-it-works/)
+- ICEHOTEL in Jukkasjärvi, Swedish Lapland, a candidate build for mid-December (new to these notes; not in LINEUP): a
+  hotel rebuilt every winter from the Torne River that goes "back to the river" every spring. "We harvest around 5000
+  tons of ice" "when the ice is at its thickest" (its sustainability page; a press-page FAQ says "around 2,000 tons"
+  each spring: check), in blocks of "up to two tons" (The Story), kept "cold during the summer" in a warehouse by the
+  river, with 800 m² of solar cells on its roof since 2016. The build: steel frames packed with snice, "a mixture of
+  snow and ice that reflects sunlight", left "for two days before the frames are removed" (Smithsonian; "a few days",
+  The Story), from "early November", about six weeks; rooms "At around minus five degrees" (23 °F), guests in sleeping
+  bags on reindeer hides; open "from December to April", melting "By mid-April" (Smithsonian). It began in 1989 with
+  Yngve Bergqvist's Arctic Hall (The Story has guests sleeping there that year; Smithsonian has a "645-square-foot
+  igloo" in 1990 and the first night "the next year", "15 visitors": check). ICEHOTEL 36 opened about Dec 12 2025
+  (titles only: 10 Minutes Hotel, Aug 27 2025; Visit Sweden "Now Open", Dec 15 2025); no page read gives this
+  winter's date. Hook picture: a bedroom of clear ice glowing blue at night under the northern lights; breaks: the
+  sun melting a clear-ice vault, a block cracking, the spring melt; B5 the opening night. People only from behind,
+  no Sámi dress or herding as props, no logos.
+  [ICEHOTEL, sustainability](https://icehotel.com/environmental-cycle),
+  [ICEHOTEL, the story](https://www.icehotel.com/the-story),
+  [ICEHOTEL, winter](https://www.icehotel.com/icehotel-winter),
+  [Smithsonian](https://www.smithsonianmag.com/travel/making-remaking-ice-hotel-180954387/)
+- Holland, Michigan's heated streets, a candidate winter build (new to these notes; not in LINEUP): "Since 1988",
+  "waste heat from power generation is captured to heat water", "over 4,700 gallons of water per minute at 95
+  degrees" run through "190 miles of tubing" under "approximately 690,000 square feet of heated sidewalks and streets"
+  (city page, undated; "nearly 807,000 square feet", Plumbing & Mechanical, May 29 2024: check), melting "about one
+  inch of snow per hour at 20 degrees Fahrenheit with winds of 10 mph", so "No salting, No plowing"; the water comes
+  back "about 20° cooler" (PM). The city calls it "the largest publically-owned snowmelt system in North America"
+  (Canary Media 2015, quoting the city: the largest in the United States). Breaks for the script: the old lake water's
+  sediment caused leaks, fixed by clean water from the new Holland Energy Park (opened 2017, PM); a snowfall faster
+  than an inch an hour ("It'll work; it just needs to catch up", PM). Hook picture: a downtown street at dusk in a
+  snowstorm, its sidewalks and road bare and steaming while snow piles on the parked cars. Peg: West Michigan's first
+  big lake-effect snow. No faces, no shop signs.
+  [City of Holland](https://cityofholland.com/879/Snowmelt-System),
+  [Plumbing & Mechanical, May 29 2024](https://pmmag.com/articles/105527-holland-michigans-35-year-old-snow-melt-system-makes-it-a-year-round-destination),
+  [Canary Media, Aug 19 2015](https://www.canarymedia.com/articles/enn/michigan-energy-park-allows-for-growth-of-rare-city-snowmelt-system),
+  [Michigan Public, Mar 22 2016](https://www.michiganpublic.org/families-community/2016-03-22/hollands-heated-sidewalks-streets-were-a-gamble-that-seems-to-have-paid-off)
+
+Checked, nothing new
+- Jeddah Tower (100): no 500 m report at about 06:50 PT on Thanksgiving morning; the results were pages already here
+  (Newsweek, TradeArabia, Construction Review Online).
+- Trend pages: Virlo's November page and SocialPilot again, a Spanish list for November (que.es, Oct 30); Shorts
+  feature searches still return Made on YouTube (Sep 23); TikTok Next 2026 (January) is here already.
+- Higgsfield and Black Friday at about 07:00 PT: the results are the deals and pages already here (mydealz, "33 days
+  unlimited Seedance 2.5", the plan-change pages), plus two titles not read: a Polish pepper.pl copy of the expired
+  one-day deal and a geo.higgsfield.ai page, "What Creators Really Get with Seedance Unlimited on Higgsfield?". So
+  Nov 28 stands.
