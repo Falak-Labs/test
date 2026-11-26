@@ -3529,3 +3529,56 @@ Checked, nothing new
   dio.me); RuntimeWire's article on a seven-day bonus for annual plans returned no article text. Nov 28 stands.
 - eMarketer's 2027 trends page refused the fetch again (a site error), and the Rijksmuseum's policy page redirects to
   data.rijksmuseum.nl/policy, which this cloud run could not open: both left for a run with a browser.
+
+## 2026-11-26 06:05 PT (hourly runner, cloud run)
+
+New content
+- Paris Métro Line 18 (Grand Paris Express), a candidate build whose opening may fall in the next weeks (new to these
+  notes; not in LINEUP): driverless trains on "the longest viaduct in France, which stretches over 6.7 km to cross the
+  main road infrastructure" (Voyages d'Affaires, Nov 4 2026; Time Out: "le plus long de France"). Its first section
+  (Massy-Palaiseau, Polytechnique, Université Paris-Saclay, Christ de Saclay) was set for October 2026 (Batiweb, Dec 11
+  2025), then "December 2026, subject to commissioning conditions" (Sortir à Paris, upd. Sep 30 2026), and on Nov 4 it
+  was "postponed to mid-December or even 2027": "the initial tests of the trains did not meet the expectations of the
+  three partners" (IDFM, RATP GI, Keolis), with "the system of driverless automated trains" "at the heart of the
+  technical concerns" (the keys were handed to IDFM on Oct 13). Numbers: 35 km and 10 stations when whole (Orly 2027,
+  Versailles 2030; IDFM, undated); "100 % automatique" three-car trains from Alstom's Valenciennes plant, a train every
+  3 minutes, Orly to Versailles-Chantiers in 30 minutes (IDFM); ten trains of "350 usagers" each, "vitesse maximale de
+  100 km/h", first test run on Thu Dec 18 2025 with a train crossing the motorway at dusk (Time Out, Jan 5 2026). The
+  viaduct, "between Massy-Palaiseau and the future overhead CEA Saint-Aubin station": "A €193 million contract" (Dec 15
+  2020) to a VINCI-led group with Razel-Bec, "30 months of work", "the voussoirs being precast locally", 400 people at
+  peak (VINCI). Hook picture: a train with no driver's cab gliding along a slim concrete viaduct over open fields at
+  dusk; the failed tests are the break lines; B5 is the opening day if it comes in December. Keep out the budget row
+  between officials (politics), the RATP and IDFM logos, and faces. Open: the opening day; the viaduct's height, spans
+  and how the precast segments were placed (a VINCI project page did not load), and what the rest of the 35 km runs
+  in; Wikipedia did not load, nor did a Sud Radio page headed "la ligne 18 sur les rails début décembre" (likely Dec
+  2025, the first tests). Line 15 South slipped to autumn 2027 (Sortir à Paris): no peg this year.
+  [Voyages d'Affaires, Nov 4 2026](https://www.voyages-d-affaires.com/en/grand-paris-express-line-18-opening-postponed/),
+  [Sortir à Paris, upd. Sep 30 2026](https://www.sortiraparis.com/en/news/in-paris/articles/343880-grand-paris-express-the-provisional-timetable-for-bringing-lines-15-16-17-and-18-into-service),
+  [Time Out Paris, Jan 5 2026](https://www.timeout.fr/paris/actualites/nouvelle-ligne-metro-paris-010526),
+  [IDFM, first train, undated](https://www.iledefrance-mobilites.fr/actualites/nouveau-metro-ligne-18-premiere-rame),
+  [IDFM, line 18 FAQ, undated](https://www.iledefrance-mobilites.fr/en/le-reseau/projets/bus-9106-quartier-ecole-polytechnique/questions/quel-est-le-projet-de-la-future-ligne-18-du-grand-paris),
+  [Batiweb, Dec 11 2025](https://www.batiweb.com/actualites/construction/grand-paris-express-la-mise-en-service-de-la-ligne-15-sud-repoussee-a-2027-47912),
+  [VINCI, Dec 15 2020](https://vinci.com/vinci.nsf/en/press-releases/pages/20201215-1745.htm)
+- Virlo's page on education explainers (new to these notes; vendor data, upd. Nov 19 2026): 1,146 explainers posted
+  Oct 6 - Nov 16 2026 (1,075 TikTok, 71 Instagram; 307 measurable), with "AI-made, animated and gameplay videos" left
+  out, so videos like ours are not in it. A breakout beats 2x the account's usual views: explainers break out 24.8% of
+  the time (all education videos 21.9%). The bold-claim hook breaks out most (30.8%); the question hook is the most
+  used (24.2% of videos) and breaks out 22.6%; text on screen in the first frame (65.9% of videos) breaks out 25.7%;
+  faceless voiceover is 6.5% of the sample and breaks out 20%. Breakouts run a median 34 s (all explainers 40 s), about
+  half our 65-70 s, but 64.8% of the sample is someone talking on camera, so it is a weak guide to our length. For line
+  1: keep the "you" setup (Nov 23 23:55 entry) and let it land as a claim, not a question.
+  [Virlo, upd. Nov 19 2026](https://virlo.ai/tiktok-ideas/education/explainers)
+
+Checked, nothing new
+- Jeddah Tower (100): no 500 m report at about 05:58 PT; the results were all pages already here.
+- "Seedance 3.0": the results are reseller and look-alike pages (seedance2.so in many languages, llamagen.ai, aibase),
+  no ByteDance or Higgsfield page, so Seedance 2.5 stays the model until Nov 28.
+- TikTok AI Alive (new name here; titles only, not read): "TikTok launches TikTok AI Alive, a new image-to-video tool"
+  (TechCrunch, May 13 2025), "how to try it for free" (TechRadar). It is a feature of the TikTok app and our TikToks go
+  out through Buffer, so it is no source for us unless a page shows its clips can be saved.
+- The Changtai Yangtze River Bridge (new name here; titles only) opened in September 2025 as "the World's Longest-Span
+  Cable-Stayed Bridge" (CRI, Sep 11 2025; China Daily, Sep 10 2025): a later candidate, not right after 93 (Huajiang).
+- A Jan 20 2026 newsletter, "How Simple AI Videos About Everyday Objects Are Getting Millions of Views (And How You Can
+  Create Them for Free)", is gone (the beehiiv account no longer exists).
+  [CRI, Sep 11 2025](https://news.cri.cn/20250911/b6e98a39-c02a-cad0-59af-fb47349e12cf.html),
+  [TechCrunch, May 13 2025](https://techcrunch.com/2025/05/13/tiktok-launches-tiktok-ai-alive-a-new-image-to-video-tool)
