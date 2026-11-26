@@ -62,7 +62,7 @@ episodes:
   - {slug: ep57-operahouse, kit: operahouse, look: 2, retired: true}
   - {slug: ep58-ferriswheel, kit: ferriswheel, look: 2, retired: true}
   - {slug: ep59-liberty, kit: liberty, look: 2, retired: true}
-  - {slug: ep60-microwave, kit: microwave, look: 2}
+  - {slug: ep60-microwave, kit: microwave, look: 2, retired: true}
   - {slug: ep61-pisa, kit: pisa, look: 2, retired: true}
   - {slug: ep62-tent, kit: tent, look: 2, retired: true}
   - {slug: ep63-washer, kit: washer, look: 2, retired: true}
@@ -85,8 +85,8 @@ episodes:
   - {slug: fountain-b80, kit: jeddahfountain, look: sd}
   - {slug: zipper-b81, kit: zipper, look: sd, retired: true}
   - {slug: hzmb-b82, kit: hzmb, look: sd, retired: true}
-  - {slug: thermos-b83, kit: thermos, look: sd}
-  - {slug: hooverdam-b84, kit: hooverdam, look: sd}
+  - {slug: thermos-b83, kit: thermos, look: sd, retired: true}
+  - {slug: hooverdam-b84, kit: hooverdam, look: sd, retired: true}
   - {slug: dubaiframe-b85, kit: dubaiframe, look: sd}
   - {slug: kettle-b86, kit: kettle, look: sd}
   - {slug: balloon-b87, kit: balloon, look: sd}
