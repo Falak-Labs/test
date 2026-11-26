@@ -1,4 +1,4 @@
-# Last posting run 2026-11-26T20:54:06+00:00
+# Last posting run 2026-11-26T21:11:11+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -109,11 +109,20 @@
 - ep97-museum ar.youtube: on hold in posts/ep97-museum.yml
 - ep98-rainvortex en.youtube: on hold in posts/ep98-rainvortex.yml
 - ep98-rainvortex ar.youtube: on hold in posts/ep98-rainvortex.yml
-- ep98-rainvortex ar.tiktok: scheduled (Sat 28 Nov 02:30 UTC) id 6b089c70f0a96d0f218d9529
 - ep99-noodles en.youtube: on hold in posts/ep99-noodles.yml
-- ep99-noodles en.instagram: scheduled (Sat 28 Nov 02:30 UTC) id 6b089c719068b6e0796401c5
-- ep99-noodles en.tiktok: scheduled (Sat 28 Nov 02:30 UTC) id 6b089c72f0a96d0f218d9663
 - ep99-noodles ar.youtube: on hold in posts/ep99-noodles.yml
 - ep99-noodles ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=897, "24h"; r=547; t=81397, "30d"; r=303; t=1157930; ratelimit-policy="15m"; q=15
-- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=147; t=899, "24h"; r=544; t=81404, "30d"; r=218; t=1164061; ratelimit-policy="15m"; q=15
+- ep100-jeddahtower en.youtube: on hold in posts/ep100-jeddahtower.yml
+- ep100-jeddahtower en.instagram: scheduled (Sat 28 Nov 14:00 UTC) id 6b08a071c81617797de3e05d
+- ep100-jeddahtower en.tiktok: scheduled (Sat 28 Nov 14:00 UTC) id 6b08a0721fa40915829bdf04
+- ep100-jeddahtower ar.youtube: on hold in posts/ep100-jeddahtower.yml
+- ep100-jeddahtower ar.instagram: scheduled (Sat 28 Nov 08:00 UTC) id 6b08a073ce64081689f384d7
+- ep100-jeddahtower ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep101-sprinkler en.youtube: on hold in posts/ep101-sprinkler.yml
+- ep101-sprinkler en.instagram: scheduled (Sat 28 Nov 16:30 UTC) id 6b08a074ce64081689f3856d
+- ep101-sprinkler en.tiktok: scheduled (Sat 28 Nov 16:30 UTC) id 6b08a075c81617797de3e43c
+- ep101-sprinkler ar.youtube: on hold in posts/ep101-sprinkler.yml
+- ep101-sprinkler ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep101-sprinkler ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- en: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=895, "24h"; r=528; t=80370, "30d"; r=284; t=1156903; ratelimit-policy="15m"; q=15
+- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=147; t=897, "24h"; r=528; t=80377, "30d"; r=202; t=1163034; ratelimit-policy="15m"; q=15

@@ -1,4 +1,4 @@
-# Post status 2026-11-26T20:54:20+00:00
+# Post status 2026-11-26T21:11:29+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -62,6 +62,11 @@
 | ep10-toilet | en.instagram | sent |  | 2026-11-10T16:32:37.108Z https://www.instagram.com/reel/DfkVzibCHA_/ |
 | ep10-toilet | en.tiktok | sent |  | 2026-11-10T16:31:35.772Z https://www.tiktok.com/@congratsengineer/video/7706580909218188558?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep10-toilet | en.youtube | sent |  | 2026-11-10T16:30:32.781Z https://www.youtube.com/shorts/zdZV6e-YG0w |
+| ep100-jeddahtower | ar.instagram | scheduled |  | 2026-11-28T08:00:00.000Z |
+| ep100-jeddahtower | en.instagram | scheduled |  | 2026-11-28T14:00:00.000Z |
+| ep100-jeddahtower | en.tiktok | scheduled |  | 2026-11-28T14:00:00.000Z |
+| ep101-sprinkler | en.instagram | scheduled |  | 2026-11-28T16:30:00.000Z |
+| ep101-sprinkler | en.tiktok | scheduled |  | 2026-11-28T16:30:00.000Z |
 | ep11-airplane | ar.instagram | sent |  | 2026-11-10T16:43:04.064Z https://www.instagram.com/reel/DfkW8ZJAUGA/ |
 | ep11-airplane | ar.tiktok | sent |  | 2026-11-11T03:27:42.554Z https://www.tiktok.com/@kef.tenbeni/video/7706750193227681038?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep11-airplane | ar.youtube | sent |  | 2026-11-11T16:50:05.034Z https://www.youtube.com/shorts/AX26IJw5a7w |
@@ -470,8 +475,8 @@
 | ep91-arch | en.tiktok | sent |  | 2026-11-26T18:31:51.462Z https://tiktok.com/@congratsengineer/video/7712549407450877198 |
 | ep92-seatbelt | ar.instagram | scheduled |  | 2026-11-27T01:00:00.000Z |
 | ep92-seatbelt | ar.tiktok | scheduled |  | 2026-11-27T05:30:00.000Z |
-| ep92-seatbelt | en.instagram | scheduled |  | 2026-11-26T21:00:00.000Z |
-| ep92-seatbelt | en.tiktok | scheduled |  | 2026-11-26T21:00:00.000Z |
+| ep92-seatbelt | en.instagram | sent |  | 2026-11-26T21:04:14.423Z https://www.instagram.com/reel/DgOBnm_BJH7/ |
+| ep92-seatbelt | en.tiktok | sent |  | 2026-11-26T21:02:43.978Z https://tiktok.com/@congratsengineer/video/7712588264007421197 |
 | ep93-huajiang | ar.instagram | scheduled |  | 2026-11-27T03:30:00.000Z |
 | ep93-huajiang | ar.tiktok | scheduled |  | 2026-11-27T08:30:00.000Z |
 | ep93-huajiang | en.instagram | scheduled |  | 2026-11-26T23:30:00.000Z |
