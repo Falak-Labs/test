@@ -1263,7 +1263,7 @@ jobs:
     # Nov 26 runner, on B1: KONE's newest figure is an "over 630-meter" ride to the observation deck on four UltraRope
     # lifts (Oct 8 2025; the 2014 plan said 660 m), so say "over 630 m". A stat for lines 12-13: "597 M" (this month's
     # steel-rope record, Tianjin 117) against "630+ M" (ideas.md Nov 25 23:58).
-    status: todo
+    status: "skipped (build 100 is made in the v2 look by the Build-It midday run of Nov 26 PT: jeddahtower-B was not made by 11:50 PT, so no build had both clips; jeddahtower-A stays a spare. Next pair: build 103, bubble wrap)"
     file: buildit-jeddahtower-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro of a thin flat black carbon fibre belt running over a big pulley at the top of a lift
@@ -1290,7 +1290,7 @@ jobs:
     # say "about 70 degrees"), as "the liquid expands and breaks the glass bulb" (NFSA, Apr 17 2023). A6 is our own break
     # (an oven's heat), fixed by B1. More in ideas.md (Nov 24 15:05, Nov 25 06:00). No faces: people only from behind;
     # no hands; no brand on the heads.
-    status: todo
+    status: "skipped (build 101 is made in the v2 look by the Build-It midday run of Nov 26 PT: no footage was ready. Next pair: build 103, bubble wrap)"
     file: buildit-sprinkler-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a long dark office ceiling lined with dozens of sprinkler heads, below it a small fire flares in
@@ -1324,7 +1324,7 @@ jobs:
     # System"; "A dry Scotch Pine Tree takes less than nine seconds to become fully involved in flames" (NIST). Free
     # with "Video: NIST"; a peg if 101 posts in December (UMD's yearly tree burns: Dec 12 2024, Dec 17 2025). The Arabic
     # cut keeps the living-room pair (no holiday tree). Prompts unchanged; sources in ideas.md (Nov 26 07:00).
-    status: todo
+    status: "skipped (build 101 is made in the v2 look by the Build-It midday run of Nov 26 PT: no footage was ready. Next pair: build 103, bubble wrap)"
     file: buildit-sprinkler-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro of a row of sprinkler heads with glass bulbs in different colors, orange, red, yellow,
@@ -1356,7 +1356,7 @@ jobs:
     # reduction in solar gain"; e-architect says 80%: say "about half"), behind clearer glass with "40% visible light
     # transmission" (Journal of Facade Design and Engineering, IOS Press, article fde0040). More in ideas.md (Nov 24
     # 21:05, Nov 26 10:05). No faces: people only from behind; no writing, flags or emblems anywhere.
-    status: todo
+    status: "skipped (build 102 is made in the v2 look by the Build-It midday run of Nov 26 PT: no footage was ready. Next pair: build 103, bubble wrap)"
     file: buildit-albahar-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): time-lapse at sunrise in a desert city on the sea, a round glass tower wrapped in a honeycomb of
@@ -1390,7 +1390,7 @@ jobs:
     # or "50%" (about half the sun's heat kept out); the still can be the towers at golden hour. Kef Tenbeni peg: UAE
     # National Day, Wed Dec 2 (ideas.md Nov 24 21:05), the building only. No faces: people only from behind; no
     # writing, flags or emblems anywhere.
-    status: todo
+    status: "skipped (build 102 is made in the v2 look by the Build-It midday run of Nov 26 PT: no footage was ready. Next pair: build 103, bubble wrap)"
     file: buildit-albahar-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): close-up of one giant umbrella-like shade standing out from the glass of a round tower, a motor at

@@ -39,7 +39,7 @@ episodes:
   - {slug: ep34-evcar, kit: evcar, look: 2, retired: true}
   - {slug: ep35-phone, kit: phone, look: 2, retired: true}
   - {slug: ep36-pyramid, kit: pyramid, look: 2, retired: true}
-  - {slug: ep37-windtower, kit: windtower, look: 2}
+  - {slug: ep37-windtower, kit: windtower, look: 2, retired: true}
   - {slug: ep38-petra, kit: petra, look: 2, retired: true}
   - {slug: ep39-pagoda, kit: pagoda, look: 2, retired: true}
   - {slug: ep40-panama, kit: panama, look: 2, retired: true}
@@ -87,9 +87,9 @@ episodes:
   - {slug: hzmb-b82, kit: hzmb, look: sd, retired: true}
   - {slug: thermos-b83, kit: thermos, look: sd, retired: true}
   - {slug: hooverdam-b84, kit: hooverdam, look: sd, retired: true}
-  - {slug: dubaiframe-b85, kit: dubaiframe, look: sd}
-  - {slug: kettle-b86, kit: kettle, look: sd}
-  - {slug: balloon-b87, kit: balloon, look: sd}
+  - {slug: dubaiframe-b85, kit: dubaiframe, look: sd, retired: true}
+  - {slug: kettle-b86, kit: kettle, look: sd, retired: true}
+  - {slug: balloon-b87, kit: balloon, look: sd, retired: true}
   - {slug: pontdugard-b88, kit: pontdugard, look: sd}
   - {slug: noor-b89, kit: noor, look: sd}
   - {slug: pen-b90, kit: pen, look: sd}
