@@ -1407,3 +1407,62 @@ jobs:
       side folded flat, palm trees and a busy road below, slow aerial orbit. Shot 6 (25-30 s): funny slow motion, a
       fluffy cat sprawled in a warm patch of sunlight on a living room floor, an automatic window blind slowly lowers by
       itself and the sunny patch slides off the cat, the cat lifts its head and glares at the window.
+  - id: bubblewrap-A
+    build: 103
+    kit: bubblewrap
+    # Facts: "invented in 1957 by engineers Alfred Fielding and Marc Chavannes in Hawthorne, New Jersey" (Wikipedia),
+    # who were "trying to create a textured wallpaper" and "put two pieces of plastic shower curtain through a
+    # heat-sealing machine" (Smithsonian; Mental Floss says "glued": say heat-sealed): A1 is that wallpaper on a wall,
+    # A2-A3 the workshop and the sealing. A4 (nobody bought it) is the Smithsonian's flop shown as a shop; A5: next it
+    # was sold as greenhouse insulation, where "it proved ineffective" (Smithsonian); the frost in A6 is our picture of
+    # that, fixed by B1. They "founded Sealed Air Corp. in 1960" (Smithsonian). Bubble Wrap is Sealed Air's brand name:
+    # the script says "bubble wrap"; no logo or brand anywhere. More in ideas.md (Nov 24 21:05). No faces: the two
+    # inventors were real people, so two engineers only from behind; other people only from behind; no writing.
+    status: todo
+    file: buildit-bubblewrap-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): a 1950s living room at night whose walls are papered floor to ceiling with shiny clear plastic
+      bubbles, warm lamplight glinting on every bubble, an empty armchair and a record player, then the camera glides
+      close until one bubble fills the frame, slow push-in. Shot 2 (5-10 s): 1957, a small engineering workshop in a
+      New Jersey garage, two engineers seen from behind at a long workbench piled with rolls of clear plastic shower
+      curtain beside a heavy heat-sealing machine, wallpaper sample books on a shelf, wide view. Shot 3 (10-15 s): macro
+      of two clear plastic sheets feeding between hot metal rollers, air trapped between them in neat rows of round
+      bubbles, the sealed sheet rolling out shiny and bumpy, close-up. Shot 4 (15-20 s): in a 1950s wallpaper shop,
+      rolls of shiny bubbly plastic wallpaper sit stacked and dusty in a corner while shoppers seen from behind walk past
+      to the flat flowered wallpapers, wide view. Shot 5 (20-25 s): a glass greenhouse on a winter evening, its panes
+      lined inside with sheets of clear plastic bubbles, rows of young seedlings in pots under the warm glow of a lamp,
+      wide view. Shot 6 (25-30 s): night frost creeps across the greenhouse panes and over the bubble sheets, the
+      seedlings inside wilt and turn white with ice, close-up.
+  - id: bubblewrap-B
+    build: 103
+    kit: bubblewrap
+    # Facts: B1: "IBM had recently introduced the 1401 unit" and "needed a way of protecting the delicate device during
+    # transit" (Smithsonian), in 1961 (Wikipedia: "a year later (1961)"); before it, shippers used "balled up
+    # newsprint" (Smithsonian). A plain 1960s computer cabinet with no name on it. B2 is our reading (rolls that are
+    # mostly air fill trucks and warehouses); its fix (B3): film that ships flat and is blown up at the packing table:
+    # "Designed to inflate on demand, it ships and stores flat, saving up to 80% of warehouse space" (Sealed Air's
+    # inflatable cushioning page, read Nov 26 2026: a maker's "up to"), and since 2015 iBubble Wrap "ships flat and
+    # uninflated so it takes up less space in warehouses" (Mental Floss, Jan 28 2019). B4 teases build 104, Tokyo's
+    # G-Cans flood tunnel (LINEUP; a tank "177 meters long, 78 meters wide, and 18 meters high" held up by "59 concrete
+    # columns", nippon.com; ideas.md Nov 24 21:05), with no people and no writing. B5 is a drop test (ours, no named
+    # lab). Line 12: "2,681" (the most people popping bubble wrap at once: the Boy Scouts of America's Denver Area
+    # Council in Elbert, Colorado, Sep 19 2015, for "two whole minutes", Guinness World Records) or "1957"; the still
+    # can be a big sheet of bubble wrap in raking light. B6: the cat (ideas.md Nov 24 21:05). No faces: people only
+    # from behind; no logos, brand names or writing anywhere.
+    status: todo
+    file: buildit-bubblewrap-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): 1961, a big new computer cabinet with rows of switches and spinning tape reels is wrapped in
+      sheets of shiny bubbly plastic and loaded onto a delivery truck by workers seen from behind, then the truck
+      rattles over a bumpy road and the wrapped cabinet rides safely inside, wide view. Shot 2 (5-10 s): a huge
+      warehouse stacked to the ceiling with giant fat rolls of bubble wrap, a forklift squeezes between them, and a
+      delivery truck's open back is crammed full with only a few bulky rolls, wide view. Shot 3 (10-15 s): close-up of
+      a small machine on a packing table blowing air into a flat roll of thin clear plastic film, rows of bubbles
+      puffing up and sealing as the film comes out, a slim flat box of film beside it. Shot 4 (15-20 s): a vast dark
+      underground hall of giant concrete pillars, a waterfall roars down into it from a round shaft high above and
+      spreads across the floor, the pillars reflected in the rising water, slow push-in. Shot 5 (20-25 s): in a
+      packaging test lab a cardboard box drops from a tall steel test frame onto a concrete floor and bounces, then a
+      cutaway view inside the box shows a thin glass vase wrapped in bubble wrap rocking gently on its cushion of
+      bubbles, whole and uncracked, technicians seen from behind watching, wide view. Shot 6 (25-30 s): funny slow
+      motion, a fluffy cat steps carefully onto a big sheet of bubble wrap on a living room floor, the first bubble pops
+      under its paw and the cat leaps straight up into the air, fur on end.
