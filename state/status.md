@@ -1,4 +1,4 @@
-# Post status 2026-11-26T21:11:29+00:00
+# Post status 2026-11-26T21:25:25+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -67,6 +67,8 @@
 | ep100-jeddahtower | en.tiktok | scheduled |  | 2026-11-28T14:00:00.000Z |
 | ep101-sprinkler | en.instagram | scheduled |  | 2026-11-28T16:30:00.000Z |
 | ep101-sprinkler | en.tiktok | scheduled |  | 2026-11-28T16:30:00.000Z |
+| ep102-albahar | en.instagram | scheduled |  | 2026-11-28T19:00:00.000Z |
+| ep102-albahar | en.tiktok | scheduled |  | 2026-11-28T19:00:00.000Z |
 | ep11-airplane | ar.instagram | sent |  | 2026-11-10T16:43:04.064Z https://www.instagram.com/reel/DfkW8ZJAUGA/ |
 | ep11-airplane | ar.tiktok | sent |  | 2026-11-11T03:27:42.554Z https://www.tiktok.com/@kef.tenbeni/video/7706750193227681038?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep11-airplane | ar.youtube | sent |  | 2026-11-11T16:50:05.034Z https://www.youtube.com/shorts/AX26IJw5a7w |
