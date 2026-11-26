@@ -3437,3 +3437,42 @@ Checked, nothing new
   (ended Jul 23; already here). Virlo's week of Nov 23 is in the Nov 25 00:57 entry (its next week starts Nov 30). A
   search for free video tools launched this month returned vendor roundups (Dreamina, PixVerse, Krea, Scrimba, DEV),
   nothing new past Nov 28.
+
+## 2026-11-26 04:02 PT (hourly runner, cloud run)
+
+New content
+- The Kariba Dam on the Zambezi (Zambia and Zimbabwe), a candidate build from Africa whose repair is due to finish this
+  year (new to these notes; not in LINEUP). Hook: the water it lets out dug a hole at its own feet. The spillway jets
+  "progressively scoured a deep and steep-sided plunge pool hole with a current bottom at about 70 m below the original
+  riverbed and about 80 m below the normal tailwater level" (EPFL model study, 2010); Mining Weekly (May 9 2014): "from
+  an initial 10 m when the dam was built in 1959 to nearly 90 m", "gradually moving towards the 128-m-high wall" (the
+  two depths disagree: say "about 70 m", from EPFL). Break: in 2014 engineers warned that a collapse "would put the
+  lives and livelihoods of more than 3.5-million people in Zimbabwe, Zambia and Mozambique at risk" (Mining Weekly; the
+  river authority said "This does not translate into an immediate calamity"). Second break: the concrete swells
+  (alkali-aggregate reaction), which made the six sluice gates "more difficult to open and close smoothly". Fixes, per
+  the Zambezi River Authority (May 7 2026): the plunge pool reshaping, "completed and commissioned in September 2024";
+  hydro-demolition and concrete repairs upstream of the gates (99%); new hoists for all six gates (about 70%, "expected
+  to be fully completed by September 2026"); the whole project "approximately 94% complete", "on course for completion
+  by the end of the fourth Quarter of 2026", about US$294 million. Numbers (World Bank fact sheet, Feb 24 2015): a 128 m
+  double-curvature concrete arch, 617 m crest, commissioned 1960, "181 billion cubic meters of water" ("the largest
+  man-made reservoir in the world"), 1,830 MW, "more than 10,035 GWh" a year. A1 picture: the six gates open, white
+  jets plunging into a deep rock hole at the foot of the curved wall. Open before a script: no page after May 2026 says
+  whether the works are finished (the finish would be the B5 news peg); the rock volume, the cofferdam and the 1957-58
+  construction floods were not on the pages read (Wikipedia did not load). Keep to the engineering (no resettlement or
+  river-legend angle: the politics and religion rules).
+  [EPFL, 2010](https://www.epfl.ch/labs/lch/wp-content/uploads/2018/11/Hydraulic-Modelling-of-the-Kariba-Dam-Plunge.-Determination-of-the-optimum-pool-profile.pdf),
+  [Mining Weekly, May 9 2014](https://www.miningweekly.com/article/kariba-dam-wall-2014-05-09),
+  [ZRA, May 7 2026](https://zambezira.org/sites/default/files/Final%20Press%20Release_Update%20on%20KDRP_May%202026-szm%20%28003%29.pdf),
+  [World Bank, Feb 24 2015](https://www.worldbank.org/en/region/afr/brief/the-kariba-dam-rehabilitation-project-fact-sheet)
+
+Checked, nothing new
+- Jeddah Tower (100): no 500 m report at about 03:52 PT; the results were pages already here (Newsweek, Sep 3, Oct 6
+  and Oct 30; TradeArabia; Construction Review; Gulf News; Zawya; Business Today) plus three not read (Vertical
+  Urbanism, UNIAN in Russian, "approaching an important milestone", and IBTimes Singapore).
+- New AI video models: a Kombitz roundup of Nov 7 (not read) and pages already here (Oakgen's Nov 9 week, Kling 4.0,
+  FLUX 3); no free video source for after Nov 28. Trend pages: Virlo (November, and the week of Nov 16), SocialPilot,
+  Later and Hootsuite are already here; Gelato's "TikTok trends right now" looks evergreen (not read).
+- December openings as news pegs: Etihad Rail's Nov 30 stations and the Gordie Howe Bridge (opened in July) are
+  already here; a search for openings in December 2026 returned general megaproject lists, nothing dated.
+- The Rijksmuseum's image policy (public-domain works; the museum is not in these notes, the Met already is) did not
+  load (a redirect to data.rijksmuseum.nl): one look in a later run.
