@@ -1340,3 +1340,70 @@ jobs:
       of fire, wide view. Shot 6 (25-30 s): funny slow motion, at a party a birthday cake blazing with ninety candles
       is carried under a ceiling sprinkler, the guests seen from behind freeze and look up, nothing happens, and one
       curl of candle smoke drifts past it.
+  - id: albahar-A
+    build: 102
+    kit: albahar
+    # Facts: two round towers of 25 storeys in Abu Dhabi (Aedas; CTBUH 2012 Tall Building Innovation Award), screened on
+    # all but their north faces ("cladding all but their north-facing sides"): "Each tower has 1,049 mashrabiyas"
+    # (DesignCurial "Super sun day", undated), "The 2,098 dynamic units" (AHR): say "about two thousand" or 2,098. Each
+    # is "a woven PTFE fabric" on a frame that "cantilevers 2.8m from the primary structure" and weighs "around 1.5
+    # tonnes" (DesignCurial). A2-A3: glass offices in desert sun usually get "dark tinted glass which inevitably
+    # restricts all incoming light" (New Atlas, Feb 7 2013); A4 (dark offices, lights on at noon) is our reading.
+    # A5: the mashrabiya, the old Arab wooden lattice ("traditional Arab architecture", Gulf News, upd. Oct 29 2026); A6
+    # is our own break (a fixed screen keeps the rooms dim and cuts up the view even when the sun is round the other
+    # side), fixed by B1: "whereas traditional mashrabiyas are passive, Aedas' modern interpretation adapts according to
+    # the sun's position" (New Atlas). Result: heat gains from sunlight cut "by around 50 percent" (Wikipedia; AHR "50%
+    # reduction in solar gain"; e-architect says 80%: say "about half"), behind clearer glass with "40% visible light
+    # transmission" (Journal of Facade Design and Engineering, IOS Press, article fde0040). More in ideas.md (Nov 24
+    # 21:05, Nov 26 10:05). No faces: people only from behind; no writing, flags or emblems anywhere.
+    status: todo
+    file: buildit-albahar-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): time-lapse at sunrise in a desert city on the sea, a round glass tower wrapped in a honeycomb of
+      hundreds of pale umbrella-like shades, as the first sun reaches its east side the shades there unfold one by one
+      like flowers opening while the shaded side stays bare glass, slow aerial push-in. Shot 2 (5-10 s): noon in a hot
+      desert city on the sea, a blazing white sun over rows of glass office towers, heat shimmer rising from the glass
+      and the road, rooftop air conditioning units roaring, wide aerial. Shot 3 (10-15 s): close-up of the glass wall of
+      an office tower in harsh sun, its clear windows turn dark smoky bronze one panel after another until the whole
+      wall is a dark mirror and the glare is gone, slow pan. Shot 4 (15-20 s): inside an office behind dark smoky
+      windows at noon, the room as gloomy as dusk, every ceiling light switched on, office workers seen from behind at
+      their desks while the bright desert day outside looks brown through the glass, wide view. Shot 5 (20-25 s):
+      inside an old house in a desert town by the sea, low sun streams through a carved wooden lattice screen over a
+      window and scatters a pattern of small bright shapes across a cool shaded room, a curtain stirs in the breeze,
+      slow push-in. Shot 6 (25-30 s): late afternoon, a modern glass tower wrapped in a fixed metal lattice, the sun now
+      round on the other side, yet the rooms behind the lattice stay dim and the sea view is cut into small pieces, an
+      office worker seen from behind peers out through the lattice, wide view.
+  - id: albahar-B
+    build: 102
+    kit: albahar
+    # Facts: B1: "When a facade zone is subjected to direct sunlight, the Mashrabiya units in that zone will unfold"
+    # (Journal of Facade Design and Engineering, fde0040); "Grouped in sectors, they are controlled by sun-tracking
+    # software", and "The motor at the centre of each one moves outwards to open the shading device, and inwards to
+    # close" (DesignCurial). B2 is our reading (open shades in a storm); its fix (B3): "three main sensors located at
+    # the top of each tower; 1) light 2) wind and 3) rain", and the control can "move the units into mid-fold position
+    # in the event of unusual conditions, like a storm" (JFDE; DesignCurial: "an anemometer at the top of the building").
+    # No wind speed is published for that: say "a storm". Built for "wind speeds up to ... 240 km/h"; actuators and
+    # bearings last "a minimum of fifteen years"; a test unit ran "30,000 cycles" sprayed with sea water, sand and dust
+    # (JFDE). B4 teases build 103, bubble wrap (LINEUP: two shower curtains heat-sealed in 1957 to make a textured
+    # wallpaper; ideas.md Nov 24 21:05). B5: the UAE has no freedom of panorama (ideas.md Nov 24 14:02), so the proof
+    # shot stays Seedance. B6 (ours): the automatic blind that takes the cat's sunny patch. Lines 12-13: "2,098" shades
+    # or "50%" (about half the sun's heat kept out); the still can be the towers at golden hour. Kef Tenbeni peg: UAE
+    # National Day, Wed Dec 2 (ideas.md Nov 24 21:05), the building only. No faces: people only from behind; no
+    # writing, flags or emblems anywhere.
+    status: todo
+    file: buildit-albahar-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): close-up of one giant umbrella-like shade standing out from the glass of a round tower, a motor at
+      its centre pushes outward and its pale triangular fabric panels unfold, casting a cool shadow onto the window,
+      then a wave of shades unfolds across the sunny side while those in shade stay folded, slow pull back. Shot 2
+      (5-10 s): a towering sandstorm rolls in off the desert toward a round tower wrapped in open umbrella-like shades,
+      gusts slam into them, the pale fabric triangles shake and strain like sails while sand streams across the glass,
+      wide view. Shot 3 (10-15 s): on the roof of the round tower a small weather mast with spinning wind cups whirls
+      in the storm, then down the side of the tower hundreds of shades fold halfway at the same moment and the sand
+      streams past them, the tower calm, wide view. Shot 4 (15-20 s): a 1950s living room whose walls are papered floor
+      to ceiling with shiny clear plastic bubbles, warm lamplight glinting on every bubble, an empty armchair and an old
+      radio, slow push-in. Shot 5 (20-25 s): the real Al Bahar Towers in Abu Dhabi at golden hour, two round towers side
+      by side wrapped in a honeycomb of triangular shades, the shades on the sunny side unfolded and those on the shaded
+      side folded flat, palm trees and a busy road below, slow aerial orbit. Shot 6 (25-30 s): funny slow motion, a
+      fluffy cat sprawled in a warm patch of sunlight on a living room floor, an automatic window blind slowly lowers by
+      itself and the sunny patch slides off the cat, the cat lifts its head and glares at the window.

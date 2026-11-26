@@ -3791,3 +3791,56 @@ Checked, nothing new
   all "Free to use under the Unsplash License" and fine for a city shot. The fourth, a subway station, is tagged Dubai.
   Arabsstock's "riyadh metro" tag is on a stock site (terms not read).
   [Unsplash, Office building in Riyadh](https://unsplash.com/photos/Ki3dBaIpp18)
+
+## 2026-11-26 10:05 PT (hourly runner, cloud run)
+
+New content
+- Al Bahar Towers (LINEUP 102): the gaps the Nov 24 21:05 entry left are now filled, and its pair albahar-A/B is queued
+  (new to these notes). DesignCurial's "Super sun day" (p. 2, undated): "Each tower has 1,049 mashrabiyas" (2,098 in
+  all, as AHR says), "Made from a woven PTFE fabric, they each weigh around 1.5 tonnes", "each cantilevers 2.8m from the
+  primary structure", "cladding all but their north-facing sides", "Grouped in sectors, they are controlled by
+  sun-tracking software", and "The motor at the centre of each one moves outwards to open the shading device, and
+  inwards to close"; the glass has "a clear appearance". The wind question is answered by the Journal of Facade Design
+  and Engineering (IOS Press, article fde0040, no date in the text read): "three main sensors located at the top of
+  each tower; 1) light 2) wind and 3) rain", and the system can "move the units into mid-fold position in the event of
+  unusual conditions, like a storm"; it was designed for "wind speeds up to ... 240 km/h". The units in a zone in
+  direct sun unfold, with the target "during working hours, from 09:00 till 17:00". Actuators and bearings are
+  "designed for a minimum of fifteen years", and a test unit was "set to operate for 30,000 cycles" sprayed with sea
+  water, sand and dust ("as the building faces the sea and is exposed to high levels of sand and dust"). The glass has
+  "40% visible light transmission, 0.28 G-Value". The savings figures differ: "50% energy savings for office spaces
+  alone, and up to 20% for the building overall" (JFDE) against heat gains cut "by around 50 percent" (Wikipedia), so
+  say "about half the sun's heat". No page gives a wind speed for the mid-fold or says what the shades do at night: say
+  "a storm". So B2-B3 are now a storm against open shades (our reading), then the roof sensors folding them halfway;
+  the Nov 24 chain's "two thousand shades / one program" pair now sits inside B1. Gulf News (Rahf Youssef, upd. Oct 29
+  2026) calls it "traditional Arab architecture": use that wording for the mashrabiya, not a religious one.
+  [DesignCurial, Super sun day p. 2](https://www.designcurial.com/news/super-sun-day-4688865/2),
+  [Journal of Facade Design and Engineering, fde0040](https://content.iospress.com/articles/journal-of-facade-design-and-engineering/fde0040),
+  [Wikipedia, Al Bahr Towers](https://en.wikipedia.org/wiki/Al_Bahr_Towers),
+  [Gulf News, upd. Oct 29 2026](https://gulfnews.com/uae/abu-dhabi/al-bahar-towers-a-fusion-of-sustainability-and-traditional-arab-architecture-in-abu-dhabi-1.500727934)
+- Jeddah Tower (100): wind as a schedule risk, from a Newsweek piece new to these notes (Soo Kim, Nov 7 2026). A "Super
+  El Niño wind" could make the team "pause for a week or two for next year", and this summer "we had to go quite
+  slowly" (Ian Norman Miller, Saudi Binladin Group). It expects to pass the Burj Khalifa "sometime around the third
+  quarter of 2028", and the sky terrace is "probably like a year out" (John Peronto, Thornton Tomasetti). The 500 m
+  mark (125th floor) was "projected to occur around Thanksgiving": there is still no report of it at about 10:00 PT on
+  Thanksgiving. Use: A4's wind line can say the wind up high can stop work for days. The jeddahtower-A clip came out
+  this morning (queue note): it shows wind up high but not the box-against-taper contrast.
+  [Newsweek, Nov 7 2026](https://www.newsweek.com/when-jeddah-tower-overtake-burj-khalifa-worlds-tallest-building-el-nino-challenge-12675550)
+- The Getty Museum's Open Content Program, a free source of 19th-century photographs (new to these notes; the one
+  earlier "Getty" here was the paid Getty Images). Its FAQ says the Getty "places no restrictions on the use,
+  modification, or reuse of Open Content images", released under CC0. It asks only that users "not suggest or imply
+  endorsement by the Getty", and requests the credit "Digital image courtesy of Getty's Open Content Program." Checking
+  third-party "trademark, copyright, privacy, or publicity rights" is "your responsibility". PetaPixel (Mar 7 2024)
+  counted "around 88,000 images", among them "44,192 albumen silver prints ... dating back to the 19th century".
+  Commercial use is not named outright, but "no restrictions" plus CC0 covers it (our reading). Open items show a
+  "Download image" button in the museum's online collection. Not yet searched for our builds: 19th-century views of
+  bridges, canals and monuments for history lines (the Brooklyn Bridge for 105 first).
+  [Getty Open Content FAQ](https://www.getty.edu/projects/open-content-program/faqs/),
+  [PetaPixel, Mar 7 2024](https://petapixel.com/2024/03/07/gettys-open-content-program-has-88000-images-you-can-use-for-free)
+
+Checked, nothing new
+- Free AI video this week: Higgsfield's own "free unlimited AI video generation 2026" blog, InVideo's offers page
+  (already here: a 2025 paid-plan offer), Dreamina's "recurring credits vs trials" lists and reseller "Seedance free
+  unlimited" pages. No new free source; Nov 28 stands.
+- Trending sounds: the weekly song lists (Buffer's November list is already here; Metricool's Nov 2 list, Virlo,
+  SocialPilot) showed up in results only and were not read: they are music picks for in-app posting. A search for
+  this week's viral engineering Shorts found algorithm explainers (DEV Community) and channel stat pages only.
