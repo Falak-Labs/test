@@ -1,961 +1,961 @@
 {
  "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
  "model": "eleven_v4",
- "tempo": 1.1023,
+ "tempo": 1.1076,
  "gap": 0.35,
- "duration": 66.005,
+ "duration": 66.009,
  "words": 168,
  "words_per_sec": 2.55,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 4.234,
+   "end": 4.213,
    "text": "Y'all, in Jeddah they're building a tower a thousand meters tall.",
    "words": [
     {
      "w": "Y'all,",
      "start": 0.142,
-     "end": 0.759
+     "end": 0.756
     },
     {
      "w": "in",
-     "start": 0.941,
-     "end": 1.086
+     "start": 0.936,
+     "end": 1.081
     },
     {
      "w": "Jeddah",
-     "start": 1.159,
-     "end": 1.449
+     "start": 1.153,
+     "end": 1.442
     },
     {
      "w": "they're",
-     "start": 1.521,
-     "end": 1.739
+     "start": 1.514,
+     "end": 1.731
     },
     {
      "w": "building",
-     "start": 1.884,
-     "end": 2.029
+     "start": 1.875,
+     "end": 2.02
     },
     {
      "w": "a",
-     "start": 2.102,
-     "end": 2.175
+     "start": 2.092,
+     "end": 2.164
     },
     {
      "w": "tower",
-     "start": 2.356,
-     "end": 2.538
+     "start": 2.345,
+     "end": 2.525
     },
     {
      "w": "a",
-     "start": 2.61,
-     "end": 2.828
+     "start": 2.597,
+     "end": 2.814
     },
     {
      "w": "thousand",
-     "start": 2.9,
-     "end": 3.263
+     "start": 2.886,
+     "end": 3.247
     },
     {
      "w": "meters",
-     "start": 3.336,
-     "end": 3.626
+     "start": 3.32,
+     "end": 3.609
     },
     {
      "w": "tall.",
-     "start": 3.699,
-     "end": 4.425
+     "start": 3.681,
+     "end": 4.403
     }
    ]
   },
   {
    "line": 2,
-   "start": 4.552,
-   "end": 9.006,
+   "start": 4.529,
+   "end": 8.962,
    "text": "But the ground is soft rock full of seashells. So how tall is it now?",
    "words": [
     {
      "w": "But",
-     "start": 4.681,
-     "end": 4.826
+     "start": 4.659,
+     "end": 4.803
     },
     {
      "w": "the",
-     "start": 4.899,
-     "end": 4.972
+     "start": 4.875,
+     "end": 4.947
     },
     {
      "w": "ground",
-     "start": 5.044,
-     "end": 5.334
+     "start": 5.02,
+     "end": 5.309
     },
     {
      "w": "is",
-     "start": 5.407,
-     "end": 5.48
+     "start": 5.381,
+     "end": 5.453
     },
     {
      "w": "soft",
-     "start": 5.552,
-     "end": 5.843
+     "start": 5.525,
+     "end": 5.814
     },
     {
      "w": "rock",
-     "start": 5.915,
-     "end": 6.133
+     "start": 5.886,
+     "end": 6.103
     },
     {
      "w": "full",
-     "start": 6.205,
-     "end": 6.351
+     "start": 6.175,
+     "end": 6.32
     },
     {
      "w": "of",
-     "start": 6.423,
-     "end": 6.496
+     "start": 6.392,
+     "end": 6.464
     },
     {
      "w": "seashells.",
-     "start": 6.568,
-     "end": 7.403
+     "start": 6.536,
+     "end": 7.367
     },
     {
      "w": "So",
-     "start": 7.548,
-     "end": 7.693
+     "start": 7.511,
+     "end": 7.656
     },
     {
      "w": "how",
-     "start": 7.911,
-     "end": 8.056
+     "start": 7.873,
+     "end": 8.017
     },
     {
      "w": "tall",
-     "start": 8.129,
-     "end": 8.274
+     "start": 8.089,
+     "end": 8.234
     },
     {
      "w": "is",
-     "start": 8.346,
-     "end": 8.419
+     "start": 8.306,
+     "end": 8.378
     },
     {
      "w": "it",
-     "start": 8.492,
-     "end": 8.564
+     "start": 8.45,
+     "end": 8.523
     },
     {
      "w": "now?",
-     "start": 8.709,
-     "end": 9.217
+     "start": 8.667,
+     "end": 9.173
     }
    ]
   },
   {
    "line": 3,
-   "start": 9.324,
-   "end": 14.37,
+   "start": 9.278,
+   "end": 14.301,
    "text": "So two hundred seventy piles go down as deep as a hundred five meters.",
    "words": [
     {
      "w": "So",
-     "start": 9.541,
-     "end": 9.759
+     "start": 9.495,
+     "end": 9.712
     },
     {
      "w": "two",
-     "start": 9.904,
-     "end": 10.049
+     "start": 9.856,
+     "end": 10.0
     },
     {
      "w": "hundred",
-     "start": 10.122,
-     "end": 10.412
+     "start": 10.073,
+     "end": 10.362
     },
     {
      "w": "seventy",
-     "start": 10.63,
-     "end": 10.993
+     "start": 10.578,
+     "end": 10.939
     },
     {
      "w": "piles",
-     "start": 11.065,
-     "end": 11.428
+     "start": 11.012,
+     "end": 11.373
     },
     {
      "w": "go",
-     "start": 11.501,
-     "end": 11.573
+     "start": 11.445,
+     "end": 11.517
     },
     {
      "w": "down",
-     "start": 11.646,
-     "end": 11.791
+     "start": 11.589,
+     "end": 11.734
     },
     {
      "w": "as",
-     "start": 12.081,
-     "end": 12.299
+     "start": 12.023,
+     "end": 12.239
     },
     {
      "w": "deep",
-     "start": 12.372,
-     "end": 12.59
+     "start": 12.312,
+     "end": 12.528
     },
     {
      "w": "as",
-     "start": 12.662,
-     "end": 12.735
+     "start": 12.601,
+     "end": 12.673
     },
     {
      "w": "a",
-     "start": 12.807,
-     "end": 12.88
+     "start": 12.745,
+     "end": 12.817
     },
     {
      "w": "hundred",
-     "start": 12.952,
-     "end": 13.17
+     "start": 12.89,
+     "end": 13.106
     },
     {
      "w": "five",
-     "start": 13.388,
-     "end": 13.533
+     "start": 13.323,
+     "end": 13.467
     },
     {
      "w": "meters.",
-     "start": 13.751,
-     "end": 14.477
+     "start": 13.684,
+     "end": 14.406
     }
    ]
   },
   {
    "line": 4,
-   "start": 14.688,
-   "end": 18.424,
+   "start": 14.617,
+   "end": 18.334,
    "text": "But up top, the wind can blow ten times faster.",
    "words": [
     {
      "w": "But",
-     "start": 15.259,
-     "end": 15.332
+     "start": 15.185,
+     "end": 15.258
     },
     {
      "w": "up",
-     "start": 15.405,
-     "end": 15.55
+     "start": 15.33,
+     "end": 15.474
     },
     {
      "w": "top,",
-     "start": 15.731,
-     "end": 16.031
+     "start": 15.655,
+     "end": 15.953
     },
     {
      "w": "the",
-     "start": 16.103,
-     "end": 16.176
+     "start": 16.025,
+     "end": 16.097
     },
     {
      "w": "wind",
-     "start": 16.321,
-     "end": 16.539
+     "start": 16.242,
+     "end": 16.458
     },
     {
      "w": "can",
-     "start": 16.611,
-     "end": 16.684
+     "start": 16.531,
+     "end": 16.603
     },
     {
      "w": "blow",
-     "start": 16.756,
-     "end": 16.974
+     "start": 16.675,
+     "end": 16.892
     },
     {
      "w": "ten",
-     "start": 17.119,
-     "end": 17.337
+     "start": 17.036,
+     "end": 17.253
     },
     {
      "w": "times",
-     "start": 17.41,
-     "end": 17.772
+     "start": 17.325,
+     "end": 17.686
     },
     {
      "w": "faster.",
-     "start": 17.845,
-     "end": 18.571
+     "start": 17.758,
+     "end": 18.481
     }
    ]
   },
   {
    "line": 5,
-   "start": 18.741,
-   "end": 22.898,
+   "start": 18.65,
+   "end": 22.787,
    "text": "So the tower gets skinnier as it rises, and the wind can't grab it.",
    "words": [
     {
      "w": "So",
-     "start": 18.959,
-     "end": 19.104
+     "start": 18.867,
+     "end": 19.012
     },
     {
      "w": "the",
-     "start": 19.177,
-     "end": 19.322
+     "start": 19.084,
+     "end": 19.228
     },
     {
      "w": "tower",
-     "start": 19.467,
-     "end": 19.612
+     "start": 19.373,
+     "end": 19.517
     },
     {
      "w": "gets",
-     "start": 19.685,
-     "end": 19.903
+     "start": 19.589,
+     "end": 19.806
     },
     {
      "w": "skinnier",
-     "start": 19.975,
-     "end": 20.483
+     "start": 19.878,
+     "end": 20.384
     },
     {
      "w": "as",
-     "start": 20.556,
-     "end": 20.628
+     "start": 20.456,
+     "end": 20.528
     },
     {
      "w": "it",
-     "start": 20.701,
-     "end": 20.774
+     "start": 20.6,
+     "end": 20.673
     },
     {
      "w": "rises,",
-     "start": 20.81,
-     "end": 21.427
+     "start": 20.709,
+     "end": 21.323
     },
     {
      "w": "and",
-     "start": 21.572,
-     "end": 21.645
+     "start": 21.467,
+     "end": 21.539
     },
     {
      "w": "the",
-     "start": 21.717,
-     "end": 21.79
+     "start": 21.612,
+     "end": 21.684
     },
     {
      "w": "wind",
-     "start": 21.862,
-     "end": 22.08
+     "start": 21.756,
+     "end": 21.973
     },
     {
      "w": "can't",
-     "start": 22.153,
-     "end": 22.298
+     "start": 22.045,
+     "end": 22.189
     },
     {
      "w": "grab",
-     "start": 22.37,
-     "end": 22.661
+     "start": 22.262,
+     "end": 22.551
     },
     {
      "w": "it.",
-     "start": 22.733,
-     "end": 23.096
+     "start": 22.623,
+     "end": 22.984
     }
    ]
   },
   {
    "line": 6,
-   "start": 23.216,
-   "end": 26.051,
+   "start": 23.103,
+   "end": 25.924,
    "text": "But a skinny tower could wobble like a pencil.",
    "words": [
     {
      "w": "But",
-     "start": 23.346,
-     "end": 23.492
+     "start": 23.233,
+     "end": 23.378
     },
     {
      "w": "a",
-     "start": 23.564,
-     "end": 23.637
+     "start": 23.45,
+     "end": 23.522
     },
     {
      "w": "skinny",
-     "start": 23.709,
-     "end": 24.072
+     "start": 23.594,
+     "end": 23.955
     },
     {
      "w": "tower",
-     "start": 24.254,
-     "end": 24.435
+     "start": 24.136,
+     "end": 24.316
     },
     {
      "w": "could",
-     "start": 24.508,
-     "end": 24.725
+     "start": 24.389,
+     "end": 24.605
     },
     {
      "w": "wobble",
-     "start": 24.798,
-     "end": 25.088
+     "start": 24.678,
+     "end": 24.966
     },
     {
      "w": "like",
-     "start": 25.161,
-     "end": 25.306
+     "start": 25.039,
+     "end": 25.183
     },
     {
      "w": "a",
-     "start": 25.379,
-     "end": 25.451
+     "start": 25.255,
+     "end": 25.328
     },
     {
      "w": "pencil.",
-     "start": 25.488,
-     "end": 26.25
+     "start": 25.364,
+     "end": 26.122
     }
    ]
   },
   {
    "line": 7,
-   "start": 26.368,
-   "end": 29.674,
+   "start": 26.24,
+   "end": 29.53,
    "text": "So three wings hold up the middle, like a tripod.",
    "words": [
     {
      "w": "So",
-     "start": 26.57,
-     "end": 26.788
+     "start": 26.441,
+     "end": 26.657
     },
     {
      "w": "three",
-     "start": 26.933,
-     "end": 27.15
+     "start": 26.802,
+     "end": 27.019
     },
     {
      "w": "wings",
-     "start": 27.223,
-     "end": 27.513
+     "start": 27.091,
+     "end": 27.38
     },
     {
      "w": "hold",
-     "start": 27.622,
-     "end": 27.731
+     "start": 27.488,
+     "end": 27.596
     },
     {
      "w": "up",
-     "start": 27.804,
-     "end": 27.876
+     "start": 27.669,
+     "end": 27.741
     },
     {
      "w": "the",
-     "start": 27.913,
-     "end": 27.949
+     "start": 27.777,
+     "end": 27.813
     },
     {
      "w": "middle,",
-     "start": 28.094,
-     "end": 28.384
+     "start": 27.958,
+     "end": 28.246
     },
     {
      "w": "like",
-     "start": 28.675,
-     "end": 28.82
+     "start": 28.535,
+     "end": 28.68
     },
     {
      "w": "a",
-     "start": 28.856,
-     "end": 28.892
+     "start": 28.716,
+     "end": 28.752
     },
     {
      "w": "tripod.",
-     "start": 28.965,
-     "end": 29.763
+     "start": 28.824,
+     "end": 29.619
     }
    ]
   },
   {
    "line": 8,
-   "start": 29.992,
-   "end": 34.029,
-   "text": "But steel lift ropes that long get way too heavy.",
+   "start": 29.846,
+   "end": 33.941,
+   "text": "But metal lift ropes that long get way too heavy.",
    "words": [
     {
      "w": "But",
-     "start": 30.754,
-     "end": 30.899
+     "start": 30.61,
+     "end": 30.754
     },
     {
-     "w": "steel",
-     "start": 30.972,
-     "end": 31.262
+     "w": "metal",
+     "start": 30.827,
+     "end": 31.043
     },
     {
      "w": "lift",
-     "start": 31.335,
-     "end": 31.48
+     "start": 31.116,
+     "end": 31.332
     },
     {
      "w": "ropes",
-     "start": 31.552,
-     "end": 31.843
+     "start": 31.441,
+     "end": 31.621
     },
     {
      "w": "that",
-     "start": 31.915,
-     "end": 32.06
+     "start": 31.766,
+     "end": 31.982
     },
     {
      "w": "long",
-     "start": 32.133,
-     "end": 32.423
+     "start": 32.054,
+     "end": 32.343
     },
     {
      "w": "get",
-     "start": 32.641,
-     "end": 32.786
+     "start": 32.56,
+     "end": 32.777
     },
     {
      "w": "way",
-     "start": 33.004,
-     "end": 33.294
+     "start": 32.921,
+     "end": 33.21
     },
     {
      "w": "too",
-     "start": 33.367,
-     "end": 33.512
+     "start": 33.282,
+     "end": 33.427
     },
     {
      "w": "heavy.",
-     "start": 33.584,
-     "end": 34.165
+     "start": 33.499,
+     "end": 34.077
     }
    ]
   },
   {
    "line": 9,
-   "start": 34.347,
-   "end": 39.378,
+   "start": 34.257,
+   "end": 39.264,
    "text": "So the lifts ride light carbon fiber belts, over six hundred thirty meters up.",
    "words": [
     {
      "w": "So",
-     "start": 34.554,
-     "end": 34.699
+     "start": 34.464,
+     "end": 34.609
     },
     {
      "w": "the",
-     "start": 34.772,
-     "end": 34.917
+     "start": 34.681,
+     "end": 34.825
     },
     {
      "w": "lifts",
-     "start": 34.99,
-     "end": 35.244
+     "start": 34.897,
+     "end": 35.15
     },
     {
      "w": "ride",
-     "start": 35.28,
-     "end": 35.498
+     "start": 35.186,
+     "end": 35.403
     },
     {
      "w": "light",
-     "start": 35.643,
-     "end": 35.861
+     "start": 35.547,
+     "end": 35.764
     },
     {
      "w": "carbon",
-     "start": 35.933,
-     "end": 36.224
+     "start": 35.836,
+     "end": 36.125
     },
     {
      "w": "fiber",
-     "start": 36.296,
-     "end": 36.586
+     "start": 36.198,
+     "end": 36.486
     },
     {
      "w": "belts,",
-     "start": 36.659,
-     "end": 37.24
+     "start": 36.559,
+     "end": 37.136
     },
     {
      "w": "over",
-     "start": 37.312,
-     "end": 37.603
+     "start": 37.209,
+     "end": 37.498
     },
     {
      "w": "six",
-     "start": 37.675,
-     "end": 37.893
+     "start": 37.57,
+     "end": 37.786
     },
     {
      "w": "hundred",
-     "start": 37.929,
-     "end": 38.111
+     "start": 37.823,
+     "end": 38.003
     },
     {
      "w": "thirty",
-     "start": 38.328,
-     "end": 38.473
+     "start": 38.22,
+     "end": 38.364
     },
     {
      "w": "meters",
-     "start": 38.619,
-     "end": 38.909
+     "start": 38.509,
+     "end": 38.798
     },
     {
      "w": "up.",
-     "start": 39.054,
-     "end": 39.49
+     "start": 38.942,
+     "end": 39.375
     }
    ]
   },
   {
    "line": 10,
-   "start": 39.696,
-   "end": 45.077,
+   "start": 39.58,
+   "end": 44.935,
    "text": "Hit follow, 'cause next we're building a fire sprinkler. Only one turns on!",
    "words": [
     {
      "w": "Hit",
-     "start": 39.768,
-     "end": 39.913
+     "start": 39.653,
+     "end": 39.797
     },
     {
      "w": "follow,",
-     "start": 40.058,
-     "end": 40.639
+     "start": 39.941,
+     "end": 40.519
     },
     {
      "w": "'cause",
-     "start": 40.784,
-     "end": 41.002
+     "start": 40.664,
+     "end": 40.88
     },
     {
      "w": "next",
-     "start": 41.074,
-     "end": 41.365
+     "start": 40.953,
+     "end": 41.242
     },
     {
      "w": "we're",
-     "start": 41.437,
-     "end": 41.655
+     "start": 41.314,
+     "end": 41.53
     },
     {
      "w": "building",
-     "start": 41.8,
-     "end": 41.945
+     "start": 41.675,
+     "end": 41.819
     },
     {
      "w": "a",
-     "start": 42.054,
-     "end": 42.163
+     "start": 41.928,
+     "end": 42.036
     },
     {
      "w": "fire",
-     "start": 42.308,
-     "end": 42.453
+     "start": 42.18,
+     "end": 42.325
     },
     {
      "w": "sprinkler.",
-     "start": 42.526,
-     "end": 43.288
+     "start": 42.397,
+     "end": 43.156
     },
     {
      "w": "Only",
-     "start": 43.905,
-     "end": 44.05
+     "start": 43.769,
+     "end": 43.914
     },
     {
      "w": "one",
-     "start": 44.123,
-     "end": 44.268
+     "start": 43.986,
+     "end": 44.131
     },
     {
      "w": "turns",
-     "start": 44.34,
-     "end": 44.631
+     "start": 44.203,
+     "end": 44.492
     },
     {
      "w": "on!",
-     "start": 44.703,
-     "end": 45.284
+     "start": 44.564,
+     "end": 45.142
     }
    ]
   },
   {
    "line": 11,
-   "start": 45.395,
-   "end": 51.899,
+   "start": 45.251,
+   "end": 51.724,
    "text": "The answer? Almost halfway! Nearly five hundred meters, already past Malaysia's twin towers.",
    "words": [
     {
      "w": "The",
-     "start": 45.54,
-     "end": 45.685
+     "start": 45.395,
+     "end": 45.54
     },
     {
      "w": "answer?",
-     "start": 45.758,
-     "end": 46.356
+     "start": 45.612,
+     "end": 46.208
     },
     {
      "w": "Almost",
-     "start": 46.574,
-     "end": 46.937
+     "start": 46.425,
+     "end": 46.786
     },
     {
      "w": "halfway!",
-     "start": 47.01,
-     "end": 47.663
+     "start": 46.858,
+     "end": 47.508
     },
     {
      "w": "Nearly",
-     "start": 48.425,
-     "end": 48.606
+     "start": 48.266,
+     "end": 48.447
     },
     {
      "w": "five",
-     "start": 48.679,
-     "end": 48.897
+     "start": 48.519,
+     "end": 48.736
     },
     {
      "w": "hundred",
-     "start": 48.969,
-     "end": 49.114
+     "start": 48.808,
+     "end": 48.952
     },
     {
      "w": "meters,",
-     "start": 49.259,
-     "end": 49.84
+     "start": 49.097,
+     "end": 49.675
     },
     {
      "w": "already",
-     "start": 50.058,
-     "end": 50.276
+     "start": 49.891,
+     "end": 50.108
     },
     {
      "w": "past",
-     "start": 50.384,
-     "end": 50.493
+     "start": 50.216,
+     "end": 50.325
     },
     {
      "w": "Malaysia's",
-     "start": 50.566,
-     "end": 51.001
+     "start": 50.397,
+     "end": 50.83
     },
     {
      "w": "twin",
-     "start": 51.038,
-     "end": 51.219
+     "start": 50.866,
+     "end": 51.047
     },
     {
      "w": "towers.",
-     "start": 51.292,
-     "end": 52.017
+     "start": 51.119,
+     "end": 51.842
     }
    ]
   },
   {
    "line": 12,
-   "start": 52.216,
-   "end": 56.395,
+   "start": 52.04,
+   "end": 56.199,
    "text": "Two hundred seventy piles, three wings, and a kilometer of tower.",
    "words": [
     {
      "w": "Two",
-     "start": 52.289,
-     "end": 52.434
+     "start": 52.112,
+     "end": 52.257
     },
     {
      "w": "hundred",
-     "start": 52.506,
-     "end": 52.724
+     "start": 52.329,
+     "end": 52.546
     },
     {
      "w": "seventy",
-     "start": 52.942,
-     "end": 53.232
+     "start": 52.762,
+     "end": 53.051
     },
     {
      "w": "piles,",
-     "start": 53.305,
-     "end": 53.922
+     "start": 53.124,
+     "end": 53.737
     },
     {
      "w": "three",
-     "start": 54.031,
-     "end": 54.248
+     "start": 53.846,
+     "end": 54.062
     },
     {
      "w": "wings,",
-     "start": 54.321,
-     "end": 54.756
+     "start": 54.135,
+     "end": 54.568
     },
     {
      "w": "and",
-     "start": 54.829,
-     "end": 54.901
+     "start": 54.64,
+     "end": 54.712
     },
     {
      "w": "a",
-     "start": 54.938,
-     "end": 54.974
+     "start": 54.749,
+     "end": 54.785
     },
     {
      "w": "kilometer",
-     "start": 55.047,
-     "end": 55.627
+     "start": 54.857,
+     "end": 55.435
     },
     {
      "w": "of",
-     "start": 55.7,
-     "end": 55.772
+     "start": 55.507,
+     "end": 55.579
     },
     {
      "w": "tower.",
-     "start": 55.845,
-     "end": 56.571
+     "start": 55.651,
+     "end": 56.374
     }
    ]
   },
   {
    "line": 13,
-   "start": 56.712,
-   "end": 60.034,
+   "start": 56.514,
+   "end": 59.82,
    "text": "And congrats, you just built the Jeddah Tower yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.769,
-     "end": 56.914
+     "start": 56.57,
+     "end": 56.715
     },
     {
      "w": "congrats,",
-     "start": 57.023,
-     "end": 57.785
+     "start": 56.823,
+     "end": 57.582
     },
     {
      "w": "you",
-     "start": 57.93,
-     "end": 58.075
+     "start": 57.726,
+     "end": 57.871
     },
     {
      "w": "just",
-     "start": 58.148,
-     "end": 58.293
+     "start": 57.943,
+     "end": 58.087
     },
     {
      "w": "built",
-     "start": 58.402,
-     "end": 58.51
+     "start": 58.196,
+     "end": 58.304
     },
     {
      "w": "the",
-     "start": 58.547,
-     "end": 58.583
+     "start": 58.34,
+     "end": 58.376
     },
     {
      "w": "Jeddah",
-     "start": 58.728,
-     "end": 58.946
+     "start": 58.521,
+     "end": 58.737
     },
     {
      "w": "Tower",
-     "start": 59.018,
-     "end": 59.309
+     "start": 58.809,
+     "end": 59.098
     },
     {
      "w": "yourself.",
-     "start": 59.381,
-     "end": 60.252
+     "start": 59.171,
+     "end": 60.037
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.351,
+   "start": 60.136,
    "end": 66.0,
-   "text": "A kilometer of tower... and your glasses still fog up stepping out of the car.",
+   "text": "A kilometer of tower... and stepping out of the car still fogs up your glasses.",
    "words": [
     {
      "w": "A",
-     "start": 60.714,
-     "end": 60.941
+     "start": 60.542,
+     "end": 60.614
     },
     {
      "w": "kilometer",
-     "start": 61.013,
-     "end": 61.739
+     "start": 60.686,
+     "end": 61.264
     },
     {
      "w": "of",
-     "start": 61.812,
-     "end": 61.884
+     "start": 61.336,
+     "end": 61.409
     },
     {
      "w": "tower...",
-     "start": 61.957,
-     "end": 62.583
+     "start": 61.481,
+     "end": 62.149
     },
     {
      "w": "and",
-     "start": 63.294,
-     "end": 63.309
-    },
-    {
-     "w": "your",
-     "start": 63.381,
-     "end": 63.454
-    },
-    {
-     "w": "glasses",
-     "start": 63.526,
-     "end": 63.962
-    },
-    {
-     "w": "still",
-     "start": 64.143,
-     "end": 64.325
-    },
-    {
-     "w": "fog",
-     "start": 64.397,
-     "end": 64.688
-    },
-    {
-     "w": "up",
-     "start": 64.76,
-     "end": 64.833
+     "start": 62.987,
+     "end": 63.016
     },
     {
      "w": "stepping",
-     "start": 64.905,
-     "end": 65.196
+     "start": 63.088,
+     "end": 63.449
     },
     {
      "w": "out",
-     "start": 65.268,
-     "end": 65.341
+     "start": 63.521,
+     "end": 63.593
     },
     {
      "w": "of",
-     "start": 65.377,
-     "end": 65.413
+     "start": 63.63,
+     "end": 63.666
     },
     {
      "w": "the",
-     "start": 65.45,
-     "end": 65.486
+     "start": 63.738,
+     "end": 63.81
     },
     {
-     "w": "car.",
-     "start": 65.559,
-     "end": 66.139
+     "w": "car",
+     "start": 63.882,
+     "end": 64.099
+    },
+    {
+     "w": "still",
+     "start": 64.316,
+     "end": 64.605
+    },
+    {
+     "w": "fogs",
+     "start": 64.677,
+     "end": 64.966
+    },
+    {
+     "w": "up",
+     "start": 65.038,
+     "end": 65.11
+    },
+    {
+     "w": "your",
+     "start": 65.182,
+     "end": 65.255
+    },
+    {
+     "w": "glasses.",
+     "start": 65.291,
+     "end": 66.121
     }
    ]
   }
