@@ -3368,3 +3368,38 @@ Checked, nothing new
   [Higgsfield, Jul 28 2026](https://higgsfield.ai/blog/unlimited-mcp),
   [Higgsfield changelog](https://higgsfield.ai/creator-hub/changelog),
   [Pillitteri, Jul 22 2026](https://pasqualepillitteri.it/hi/news/8641/higgsfield-24-ghante-muft-asimit)
+
+## 2026-11-26 02:05 PT (hourly runner, cloud run)
+
+New content
+- Meta AI translations for Reels, a free way to put the English Reels in front of other languages (new to these
+  notes). Before publishing, switch on "Translate voices with Meta AI"; "translation settings" holds lip sync and the
+  languages; a preview is optional (a notice to publish or discard), the original Reel stays as it is, and the
+  insights show views by language (Instagram Creators blog, "Updated January 16", year not shown). Languages: "to and
+  from" English, Hindi, Spanish and Portuguese, with "Bengali, Tamil, Telugu, Marathi and Kannada" rolling out (Meta,
+  Nov 28 2025, upd. Jan 2026); Metricool adds Japanese, Korean, French, German and Italian on Instagram ("14
+  languages", citing Mosseri; "two languages per translation"). Arabic is named only for Facebook, as rolling out
+  (Metricool), so nothing for Kef Tenbeni yet. Who: "all public Instagram accounts", "in regions where Meta AI is
+  active"; Facebook needs 1,000 followers (Express Tribune, Jan 21 2026; Metricool, citing Meta's eligibility page,
+  not read, lists places where it is not offered, Texas and Illinois among them). "Only one speaker" for now
+  (Instagram): our one narrator fits, and with no faces on screen lip sync does not matter. Viewers see "a note that
+  Meta AI did the translation" (Metricool). No page gives results in figures. Catch: it is a switch in the app's
+  publishing flow and our Reels go out through Buffer, which none of these pages mention (whether Buffer or the API can
+  set it was not checked), so a test means posting one English Reel from the Instagram app and reading its views by
+  language: the owner's or the main chat's call.
+  [Instagram Creators blog](https://creators.instagram.com/blog/meta-ai-translations),
+  [Meta, Nov 28 2025, upd. Jan 2026](https://about.fb.com/news/2025/11/instagram-empowers-creators-to-go-global-with-local-voice-translations-and-fonts/),
+  [Express Tribune, Jan 21 2026](https://tribune.com.pk/story/2588251/metas-ai-expands-real-time-lip-synced-translation-for-reels?amp=1),
+  [Metricool, Jul 17 2026](https://metricool.com/meta-ai-translations/) (vendor)
+
+Checked, nothing new
+- Jeddah Tower (100): today is Thanksgiving, when the 500 m halfway mark was expected; a search at about 01:55 PT found
+  no 500 m report, only pages already here (Newsweek, Sep 3, Oct 6 and Oct 30; Construction Review; TradeArabia; RLI;
+  Brogan) and others not read (Business Today, Aug 7; Zawya; Gulf News; LinkedIn posts). Luxury Launches' "Jeddah
+  Tower reaches halfway" did not load (its address ends in 10102026, which reads like Oct 10 2026, before the 484 m
+  of Oct 30): worth one look before the script.
+- Higgsfield's Black Friday: the results were pages already in these notes (mydealz, aimojo, DemandSage, dio.me, the
+  11.11 page, "New Unlimited"), so Nov 28 stands. This week's trend pages: Virlo's weekly page is still "week of
+  November 16, 2026" and Buffer's list is still its November edition, so nothing to add (neither was re-read). A
+  search for engineering records set this month found only what is already here (Tianjin 117's lift; the Huajiang
+  Grand Canyon Bridge is build 93) and 2025 tunnel news.
