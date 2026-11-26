@@ -3034,3 +3034,84 @@ Free footage and pictures
   up to 7 days of Seedance 2.0 at 720p and 8 s a clip for invites "before July 17": closed, and nothing found today
   extends Nov 28 for the annual Plus plan.
   [Higgsfield, Jul 14 2026](https://higgsfield.ai/blog/how-to-get-free-unlimited-seedance-2)
+
+## 2026-11-25 20:05 PT (hourly runner, cloud run)
+
+New content
+- The drone light show, a candidate build for the season of light shows (new to these notes; not in LINEUP). The
+  records: "most multirotors/drones launched in a week", 71,207 drones in "three shows between 27-30 September" on a
+  farm at Blue Ridge, Texas, "approximately 10,200 drones per performance" (Sky Elements and Damoda; the old record was
+  55,939), and in the same week a 10,183-drone dragon set the record for a mythical creature, beating 2,247 flown at
+  Ras Al Khaimah on 31 December 2025 (GWR, Oct 6 2026): a Gulf tie-in for Kef Tenbeni, with UAE National Day on Dec 2
+  and the New Year's Eve shows after it. Most at once: 33,615 drones over Sichuan, the "largest simultaneous drone
+  flight" (CGTN, May 25 2026). How it works: plain GPS is metres off, so a base station on the ground sends RTK
+  corrections that take each drone "from multiple meters to just a couple centimeters", GPS time ("around 100
+  billionths of a second") starts them together, and each drone is "constantly attempting to hit a moving target" on
+  its own flight plan; a pilot "commands" the show and "Computers execute a show" (Verge Aero). The paths are loaded
+  before take-off and the drones are "not being controlled in real time via a radio link" (Skybrush FAQ; Ingenia says
+  each drone "communicates and shares data with its neighbours": the sources disagree, so a line says only that every
+  drone flies its own path). A show is animated in Blender with the open-source Skybrush Studio add-on, which keeps
+  the drones apart and writes one path and light track per drone (Skybrush); Verge's lights can "show a different
+  color 30 times every second", any drone can fly any slot, and shows "can't happen if it's raining or if there are
+  high winds" (Ingenia). For a line: "a movie that only has a single pixel" (Verge); the first such show, Linz 2012,
+  had 50 drones (Ingenia). A chain (the breaks are ours): A1, a dragon of ten thousand lights flies over a dark farm,
+  slow push-in; A2, thousands of small drones in trays on the grass at dusk; A3, a base-station antenna, the grid
+  snaps into place; A4, plain GPS, the picture smears; A5, an animation split into one path per drone; A6, wind and
+  rain, the fleet stays on the ground; B1, one clock starts them all; B2, a dark gap in the dragon's eye; B3, the
+  pre-flight check, a spare drone takes the slot; B5, a crowd from behind watching a show over a waterfront; B6, funny
+  slow motion, a cat chases one blinking toy drone round a living room. Line 12: "71,207". Leave out shows that went
+  wrong, any portraits or flags in the formations (no real faces, no politics) and the operators' names in shots.
+  Seedance is free only until Nov 28 with jeddahtower-A/B and sprinkler-A/B first, so this is the main chat's call;
+  after Nov 28 it can be stills from the unlimited image models with the depth parallax of the Nov 24 17:00 entry.
+  [GWR, Oct 6 2026](https://www.guinnessworldrecords.com/news/commercial/2026/10/texan-night-sky-lit-up-with-over-70000-drones-during-record-breaking-aerial-performance),
+  [CGTN, May 25 2026](https://news.cgtn.com/news/2026-05-25/World-s-largest-drone-cluster-lights-up-Sichuan-sky-with-33-615-units-1Nrli2Ruj2o/share_amp.html),
+  [Verge Aero](https://docs.verge.aero/drone-show-technology/how-drone-shows-work-an-overview),
+  [Skybrush FAQ](https://docs.skybrush.io/public/faq/latest/overview.html),
+  [Ingenia](https://ingenia.org.uk/articles/how-do-drone-displays-work/)
+- The revolving door, a winter candidate (new to these notes; not in LINEUP, where the Kuwait Towers' turning deck is
+  another thing). Theophilus Van Kannel of Philadelphia patented a "Storm-door structure" (US 387,571, Aug 7 1888)
+  after a German "Tür ohne Luftzug" (a door without draught, 1881), and the first one turned at Rector's restaurant in
+  Times Square in 1899 (Wikipedia; 99% Invisible). The patent says it "effectually prevents the entrance of wind,
+  snow, rain or dust" and is "perfectly noiseless" (Wikipedia); the motto is "always open, always closed" (99%
+  Invisible). The physics: "In the winter, heated air rises toward the top of a building" and cold air is drawn in at the ground
+  floor, and "revolving doors also counter the effects of stack pressure, which increases in taller buildings" (Boon
+  Edam's course), while "When a swing door is opened at ground level, this causes an in-rush of air" (Hackaday, Jun 9
+  2022). The break: at MIT's building E25 in 2006 "just 23 percent of visitors used the revolving doors" (Boon Edam;
+  99% Invisible says about 25, Mental Floss 20-30: say "about one in four"), and with everyone using them "MIT would
+  save almost $7,500 in natural gas a year" and "nearly 15 tons of CO2" (MIT Tech Talk, quoted by Boon Edam); "There's
+  8 times more air exchanged when you use the swing door than when you use the revolving door" (99% Invisible: say it
+  that way round, not "eight times less"). At Columbia, signs took use from 28% to 71% (99% Invisible: a small
+  informal test). Safety: the doors "typically have a "speed control" (governor) to prevent people from spinning the
+  doors too fast", the "bookfold" design "allows all three or four wings to be broken away together" (Wikipedia), and
+  "many building codes mandate that swinging doors also be present" (Hackaday). For line 14: "Compartments terrify
+  people" (99% Invisible). A chain (the breaks are ours): A1, a four-wing door turning slowly in a blizzard, snow
+  whirling outside, a calm warm lobby inside; A2, a tower in winter, warm air rising up its core and a gale sucked in
+  through the lobby's swing doors; A3, the wings that never leave a straight path for the air; A4, people walking past
+  it to the swing door; A5, a sign by the door, more people push the wings; A6, someone spins it far too fast; B1, the
+  governor; B2, a queue of prams and trolleys piling up at the turning door; B3, the wings folding flat like a book;
+  B5, a hotel door at rush hour in the snow, people from behind; B6, funny slow motion, a man and a huge suitcase
+  jammed in one compartment. Line 12: "1888" or "8 TIMES". Leave out the chivalry story (an urban legend: "according to
+  Snopes, there is no evidence to support this"), the 1942 Boston nightclub fire (the folding wings can be told without
+  it), the ANSI figures (only in a summary of the course) and the vendor's "eight times as energy efficient". A Gulf
+  line (the same door keeping the cool air in) needs its own source.
+  [Wikipedia, Revolving door](https://en.wikipedia.org/wiki/Revolving_door),
+  [99% Invisible](https://99percentinvisible.org/episode/revolving-doors/transcript/),
+  [Hackaday, Jun 9 2022](https://hackaday.com/2022/06/09/revolving-doors-arent-just-annoying-theyre-energy-saving-too),
+  [Boon Edam course (BNP Media)](https://continuingeducation.bnpmedia.com/courses/boon-edam/the-ins-and-outs-of-revolving-doors/2),
+  [Mental Floss, May 12 2015](https://www.mentalfloss.com/culture/design/whats-point-revolving-doors)
+
+Free footage and pictures
+- VideoGen, a lead (new to these notes): with its Model 1 (clips up to ten minutes, 16 reference images) the company
+  "opened applications for a $1 million pool of free AI credits for selected projects", for "filmmakers, creators and
+  studios" ("Students and amateurs are welcome"), handed out "through the end of 2026" (LetsDataScience, Oct 20 2026).
+  No amount per project, licence or watermark is stated, and applying is a sign-up: the owner's call.
+  [LetsDataScience, Oct 20 2026](https://letsdatascience.com/news/videogen-unveils-model-1-video-generator-and-1m-credits-a91f8799)
+- This month's new video models add no free source: Seedance 2.5 Flash (announced Nov 12, API Nov 15; Oakgen states no
+  free tier and says it is not offered in the US through Higgsfield) and Gemini Omni 1.2 Flash (Nov 5; free only as
+  Google Vids' three 15-second clips a month, already in these notes; Martin Cid, Nov 6, gives no country list and no
+  commercial terms, and vertical only as a "vertical crop" asked for in an edit). One new detail: "Free Flow users can
+  run shared tools on 50 daily credits" (Oakgen, Nov 13). Oakgen's Nov 19 list of "unlimited" video plans is all paid,
+  and Dreamina's 7-day Seedance unlimited is for plans bought Nov 17-30 and personal use only: not for the channels.
+  [Oakgen, Nov 13 2026](https://oakgen.ai/blog/ai-creative-news-week-of-2026-11-09),
+  [Martin Cid, Nov 6 2026](https://www.martincid.com/technology-sv/gemini-omni-1-2-flash-15-second-ai-video-google-vids-free/),
+  [Oakgen, Nov 19 2026](https://oakgen.ai/blog/best-unlimited-ai-video-generators-2027)
