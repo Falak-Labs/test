@@ -3179,3 +3179,62 @@ Trends
   UAE was not checked. A weekly look at rising hashtags before the post texts are written, at most.
   [TikTok help](https://ads.tiktok.com/help/article/how-to-use-trends),
   [Metricool](https://metricool.com/tiktok-creative-center/), [bir.ch, Oct 17 2025](https://bir.ch/blog/tiktok-creative-center)
+
+## 2026-11-25 22:05 PT (hourly runner, cloud run)
+
+New content
+- Falcons Flight at Six Flags Qiddiya City, Saudi Arabia, as a candidate build for both channels, Kef Tenbeni above all
+  (new to these notes; not a repeat of build 4's generic coaster, whose fixes were the chain lift, the wheels, the
+  teardrop loop and magnetic brakes). It opened "on December 31, 2025" with the park (Coaster101; Intamin says the
+  same; Wikipedia lists a Dec 30 soft opening), an Intamin "Exa coaster" billed as "the world's tallest, fastest and
+  longest roller coaster" (Coaster101; none of the five pages read names Guinness). Numbers: "250 km/h" (Wikipedia,
+  Intamin); "4,250 m" of track (Wikipedia; "13,943 feet", Coaster101); an "elevation change of approximately 195 m"
+  because it "uses the natural cliffs near the park" (Wikipedia; Intamin: "the top of the 195 meters cliff"), while its
+  tallest hill is 163 m (Wikipedia) or "a 165-meter camelback" (Intamin), so the 195 m is the cliff, not a tower: check
+  before a line gives a hill height; about three and a half minutes ("approximately 3 minutes 25 seconds", Intamin;
+  3:35 in Wikipedia's box). The speed comes with no chain at all: "three linear synchronous motor (LSM) launches"
+  (Wikipedia), the first a slow climb, "an LSM lift hill, with a constant speed of 40 km/h" (Intamin), over "more than
+  700 LSM modules" (Wikipedia; Intamin: "more than 722 LSM stators"); the second carries the train "up the Tuwaiq
+  cliffs" (160 km/h in Wikipedia, "a 150 km/h LSM launch" in Intamin: check), where it is "slowed down by brakes at
+  the edge of the cliff before dropping at an angle of 90 degrees into a tunnel" (Wikipedia); the third is "the third,
+  final, and fastest launch" (Intamin). The desert: "protecting riders from airborne sand at high speeds" (Wikipedia)
+  with "curved windshields at the front of each car" (Wikipedia) that end "the need for goggles", "windshields and
+  spoilers to protect passengers' eyes and ears" (Intamin); "large wheels with ventilated rims" (Intamin; "16 inches
+  (41 cm) in diameter", Wikipedia) and a chassis "fully machined with no welding involved" (Wikipedia; Intamin:
+  "weld-free design"), for "the Saudi summer heat" (Intamin). Announced in 2019 "with the park slated to open in early
+  2023" (Wikipedia); six trains of 14 riders, at least 130 cm tall (Wikipedia). A chain (breaks marked "ours" are
+  ours): A1 at sunset a train races up a sheer desert cliff, tips over the edge and drops straight down into a tunnel
+  in the rock, aerial; A2 a flat plateau ending at a cliff about 200 m high, heat haze, a tiny chain lift crawling up a
+  giant steel tower beside it (ours: the slow way up); A3 the track laid up the cliff face itself; A4 a train crawling
+  up the cliff in the blazing sun, far too slowly (ours); A5 cutaway of rows of electromagnets along the track pulling
+  a magnet fin under the car, the train blasting up the slope; A6 at full speed a gust of sand sweeps across the track
+  toward the riders' hands on the lap bars (ours); B1 curved windshields at the front of each car, the sand streaming
+  past them; B2 wheels spinning at full speed glow hot and a welded joint trembles (ours); B3 wide wheels with vented
+  rims on a one-piece machined steel chassis, cool; B4 the next LINEUP build; B5 the real ride on a clear evening, the
+  train dropping 90 degrees into the tunnel, small figures watching far below; B6 funny slow motion, a grown man
+  folded into a tiny kiddie coaster at a fair, knees at his chin, gripping the bar as it crawls along. Line 12: "250
+  KM/H". Riders only from behind or small; no park logo or branding. Its Seedance pair could only run by Nov 28 (in
+  practice the v2 look), and adding it is the main chat's call.
+  [Wikipedia, Falcons Flight](https://en.wikipedia.org/wiki/Falcons_Flight), [Intamin](https://www.intamin.com/record/tallest),
+  [Coaster101, Jan 2 2026](https://www.coaster101.com/2026/01/02/six-flags-qiddiya-city-grand-opening/),
+  [Fast Company](https://www.fastcompany.com/91485191/saudi-arabia-falcons-flight-roller-coaster)
+
+Free footage and pictures
+- The Brooklyn Bridge (105) on film, free (new to these notes; the Nov 25 03:00 entry found the Library of Congress
+  item pages "would not open here", and these opened through a fetch): "Panorama from the tower of Brooklyn Bridge"
+  (American Mutoscope and Biograph, photographed Apr 18 1899, 0:35, a pan from the Brooklyn tower along the East River
+  and across the span) and "Panorama water front and Brooklyn Bridge from East River" (Thomas A. Edison, Inc., camera
+  Edwin S. Porter, May 9 1903, 2:28, piers and steamships, panning to the bridge and Brooklyn Heights). Both pages say
+  "The Library of Congress is not aware of any U.S. copyright or other restrictions in the vast majority of motion
+  pictures" and "Rights assessment is your responsibility"; both came out before 1904, so they are long out of US
+  copyright. Not usable: Edison's 1899 ride over the bridge from the front of a train ("New Brooklyn to New York via
+  Brooklyn Bridge, no. 1"): "Restricted: video files available on-site only". Getting a file: the fetched text shows
+  only a "digital viewing copy" and no file address, and the Fetch media workflow takes only cloudfront.net and
+  higgsfield.ai links (its host check), so a copy needs the owner's download or a change to that workflow (the main
+  chat's call). Build-It use: one black-and-white insert with a slow zoom on line 11, 12 or 13 of 105 (B5 stays the
+  1884 elephants, which no film shows), the 1899 view from the tower above all. An aside for 105's script: the moving
+  incline Jesse Reno built at Coney Island in 1896 ("an inclined belt with cast-iron slats", Wikipedia) "was used for
+  a month-long trial period on the Manhattan side of the Brooklyn Bridge" (Wikipedia, "Escalator"; no year in the
+  quote), a callback to build 56.
+  [LoC 00694390](https://www.loc.gov/item/00694390), [LoC 00694364](https://www.loc.gov/item/00694364),
+  [LoC 2017604953](https://www.loc.gov/item/2017604953), [Wikipedia, Escalator](https://en.wikipedia.org/wiki/Escalator)
