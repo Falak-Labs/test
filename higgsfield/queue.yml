@@ -1219,6 +1219,10 @@ jobs:
     # already ride 578.5 m (Shanghai Tower) and, since Nov 6 2026, 597.2 m (Tianjin 117, Otis: the Guinness record),
     # while Jeddah's planned ride is "over 630-meter" on carbon-fibre UltraRope (KONE, Oct 8 2025). Still no 500 m
     # report at about 23:55 PT Nov 25. Sources in ideas.md (Nov 25 23:58).
+    # Nov 26 01:00 runner, on A1 and line 12: Newsweek names Taipei 101 (508 m), our build 83, as the next record it
+    # passes, after the Petronas Towers (452 m, passed at 454 m, Sep 3) and Central Park Tower (about 472 m, passed at
+    # about 474 m, Oct 6): a series callback for the script. Still no 500 m report at about 01:00 PT Nov 26 (ideas.md
+    # Nov 26 01:05).
     status: todo
     file: buildit-jeddahtower-sdA.mp4
     shots: >-

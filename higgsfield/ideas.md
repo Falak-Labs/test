@@ -3329,3 +3329,42 @@ New content
   formats returned nothing new.
   [RLI, Aug 14 2026](https://www.rli.uk.com/jeddah-tower-reaches-halfway-to-burj-khalifa/),
   [Brogan Group](https://www.brogangroup.com/news/brogan-group-reaches-recordbreaking-access-milestone-on-world-s-tallest-structure/bp1865/)
+
+## 2026-11-26 01:05 PT (hourly runner, cloud run)
+
+New content
+- Build 100's record ladder, with a callback to build 83 (new to these notes: no Petronas, Central Park Tower or
+  "Taipei 101 next" in them). The Jeddah Tower passed the Petronas Towers (452 m) at "454 METERS. LEVEL 113." (a
+  LinkedIn post by SBG's Ian Norman Miller; Newsweek, Sep 3 2026), then New York's Central Park Tower, "the world's
+  tallest all-residential tower" at just over 472 m, at "around 474 meters" (Newsweek, Oct 6 2026, upd. Oct 7).
+  Newsweek names Taipei 101 (508 m) as the next record it passes: our own build 83, the Seedance sample. Pace: about
+  4 m (13 ft) a week (Thornton Tomasetti's John Peronto in June, quoted on Oct 6) and "four floors a month" (Oct 30),
+  so from the 484 m of Oct 30 the 500 m mark falls about now and Taipei 101's height about mid-December (our
+  arithmetic, not a report). Script use for 100: line 2 or 12 can say it is about to pass Taipei 101, build 83 (a
+  series callback). Also on Oct 6: "Soon, in 2027, steel erection for the 'sky terrace' will also begin" (around the
+  160th floor), and the architect Bob Forest says it is "on track to meet its planned completion date" of August 2028.
+  Still no 500 m report at about 01:00 PT Nov 26 (the results were TradeArabia, Nov 3, and Construction Review,
+  Nov 19, both already here). A note is now in jeddahtower-A.
+  [Newsweek, Oct 6 2026](https://www.newsweek.com/worlds-tallest-building-hits-new-milestone-passing-nyc-skyscraper-record-12530478),
+  [Newsweek, Sep 3 2026](https://www.newsweek.com/jeddah-tower-worlds-tallest-skyscraper-construction-milestone-12401838)
+- YouTube's 2026 Culture & Trends report (made with NRG, people aged 14 to 44; new to these notes): 65% agree "that
+  something feels more real or legitimate when [it shows up] on YouTube", and 67% watch more channels "no one else
+  they personally know is watching" than five years ago (Tubefilter, Sep 10 2026). One reading for us: a niche
+  explainer channel is normal now, and the YouTube copies carry the most trust, so the Studio uploads are worth
+  keeping up. The article has no figures on explainers, Shorts or AI-made videos.
+  [Tubefilter, Sep 10 2026](https://www.tubefilter.com/2026/09/10/youtube-culture-and-trends-report-mainstream-not-dead/)
+
+Checked, nothing new
+- Free video after Nov 28: three Higgsfield items new to these notes change nothing. "Seedance 4K unlimited 11 days"
+  is an Aug 2 2026 promo (Seedance 2.0 at 4K for 4 days, then 2.5, 2.0 Mini or 2.0 Fast for 7; no end date given,
+  so about Aug 12). "Meet Higgsfield Unlimited MCP" (Jul 28 2026) was a 24-hour trial for new users ("The offer runs
+  until July 31"), and it says the "All Unlimited" plan (Plus and above) and the Unlimited Models Marketplace are
+  web-only: "Neither one ever included MCP." The CEO's "free and unlimited for 24 hours" day was Jul 21 2026
+  (Pillitteri, a third-party blog). The changelog's newest entries read are Oct 13-22 (Wan 3.0 unlimited for 7 days
+  on Pro and above, Kling 4.0, a weekly film contest), none from November (the page was only partly read). So Nov 28
+  stands, and the rule stays: website + Unlimited switch only. Searches for this week's Shorts, Reels and TikTok
+  features returned Made on YouTube (Sep 2026) and older items again.
+  [Higgsfield, Aug 2 2026](https://higgsfield.ai/blog/seedance-4k-unlimited-11-days),
+  [Higgsfield, Jul 28 2026](https://higgsfield.ai/blog/unlimited-mcp),
+  [Higgsfield changelog](https://higgsfield.ai/creator-hub/changelog),
+  [Pillitteri, Jul 22 2026](https://pasqualepillitteri.it/hi/news/8641/higgsfield-24-ghante-muft-asimit)
