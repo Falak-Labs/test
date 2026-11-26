@@ -3658,3 +3658,79 @@ Checked, nothing new
   unlimited Seedance 2.5", the plan-change pages), plus two titles not read: a Polish pepper.pl copy of the expired
   one-day deal and a geo.higgsfield.ai page, "What Creators Really Get with Seedance Unlimited on Higgsfield?". So
   Nov 28 stands.
+
+## 2026-11-26 08:05 PT (hourly runner, cloud run)
+
+New content
+- Higgsfield's fair-use rule for Unlimited, which the Chrome runs may break (new to these notes; the owner got one push
+  about it at about 08:00 PT): its help page on unlimited models (Aug 3 2026) says "Unlimited is designed for
+  personal, human use only. Automation tools, scripting, credential sharing, and reselling access are strictly
+  prohibited", and "If unusual activity is detected, generations may be slowed or moved to a lower-priority queue, and
+  Unlimited access may be temporarily paused for manual review by the Support team" ("Access is restored once normal
+  usage is confirmed"). It defines neither "automation tools" nor "unusual activity" and gives no rate. An AI-written
+  Higgsfield explainer (upd. "7/9/2026"; its own disclaimer says it "may have errors") has "Automated bulk generation
+  scripts are not permitted", and after a window "The UNLIMITED badge disappears from the model selector" (Seedance
+  then costs credits, so Nov 28 stands). A pause would stop the unlimited pictures too (to Jan 13), so whether chats
+  and runners keep pressing Generate Unlimited through Claude in Chrome is the owner's call; HIGGSFIELD.md unchanged.
+  [Higgsfield help, Aug 3 2026](https://higgsfield.ai/creator-hub/help-center/credits/what-are-unlimited-models-and-which-plans-include-them),
+  [Higgsfield explainer, upd. 7/9/2026](https://geo.higgsfield.ai/blog/what-creators-get-seedance-unlimited-higgsfield)
+- Epidemic Sound inside the Higgsfield connector, real recorded sound we may already have (new to these notes): the
+  connector's search_sound_effects searches "the Epidemic Sound catalog" (about 250,000 sound effects on Epidemic's API
+  page, 200,000 on its Partner API page) and returns titles, lengths and ids, no audio. Two searches here at about 07:52
+  PT (no transaction after them: the newest is a 0-credit GPT Image 2.6 picture of Nov 25 13:51 PT; balance 28.49):
+  "deep cinematic impact thud with a low boom" gave "Designed, Boom, Impact, Dark, Cinematic, Low HIt" (4 s) and
+  "Designed, Boom, Cinematic Hit, Low Boom" (3 s); "low howling wind storm ambience bed" gave "Wind, Designed, Low,
+  Reverbant, Howling 02" (146 s) and "Wind, Interior, Howling, Tempest, Wind 01" (51 s). Listening and saving are
+  separate calls, and "Each call consumes download allowance" (or preview allowance): an MP3 link, 128 kbps for about
+  24 h or 320 kbps for about an hour. No page found says whether that allowance costs credits or what licence
+  Higgsfield passes on. Epidemic's API page says partner users "don't need their own Epidemic Sound account", the music
+  is "Cleared for your users to publish at scale, on the platforms they use", and YouTube, Instagram and TikTok learn it
+  is licensed through "safelisting" (a "paid add-on" on its developer Scale tier), so a sound fetched this way could
+  still draw a claim unless Higgsfield safelists it. Use: real booms and wind for the "But" thud, the "So" whoosh and
+  the storm bed, which kit/bik/sfx.py synthesizes today, once the owner or main chat has tried one download against
+  the balance and found Higgsfield's terms for it (this runner downloaded and previewed nothing).
+  [Epidemic Sound API](https://www.epidemicsound.com/tools/api/),
+  [Epidemic Sound developer portal](https://developers.epidemicsound.com),
+  [Epidemic Sound Partner API](https://go.epidemicsound.com/developers/partner-api/)
+- The New York Public Library's public-domain photos, a free source for the Brooklyn Bridge (105) and other New York
+  builds (new to these notes as a source): Digital Collections counts "298,280 public domain items" of "over 922,495",
+  and for those "You do not need NYPL's permission to use these items and there are no known restrictions on their
+  use" (they "may be subject to rights of privacy, publicity, or other restrictions" by what they show); a credit is
+  "not required" ("From The New York Public Library" if we give one). Each item says NYPL "believes that this item is
+  in the public domain under the laws of the United States" (no ruling for other countries). For 105, the Robert N.
+  Dennis collection of stereoscopic views has "East River bridge tower, N.Y." (the bridge's early name, so possibly a
+  construction view; dated only "1867 - 1910 (Approximate)": look first), "Suspension bridge, from Brooklyn, N.Y."
+  (B. W. Kilburn) and "Brooklyn Bridge, New York. (Taken from ferry boat under full headway.)"; download sizes show
+  only in a browser. One half of a stereo card, cropped to 9:16 with a slow push-in, fits a history line beside the
+  Center for Brooklyn History photo in the Nov 25 03:00 entry.
+  [NYPL Digital Collections, about](https://digitalcollections.nypl.org/about),
+  [NYPL, East River bridge tower](https://rp-digitalcollections.nypl.org/items/510d47e1-e38c-a3d9-e040-e00a18064a99),
+  [NYPL, Suspension bridge, from Brooklyn](https://rp-digitalcollections.nypl.org/items/510d47e1-e41f-a3d9-e040-e00a18064a99),
+  [NYPL, Taken from ferry boat](https://rp-digitalcollections.nypl.org/items/510d47e1-e3d9-a3d9-e040-e00a18064a99)
+- Viewers now pick topics for their feeds (new to these notes): Instagram's "Your Algorithm" in the Reels settings uses
+  AI "to summarise each account's preferred subjects" and lets a viewer name the top three topics they want more of in
+  2026 (Canaltech, translated from Portuguese); it reached every account with the app in English on Jan 13 2026
+  (Mosseri on Threads; Reels only, Explore later). YouTube's Custom Feeds (Made on YouTube, Sep 23 2026) keep a typed
+  prompt such as "Help me discover new DIY creators" as a homepage tab, for "users in the US on web, mobile and TVs
+  soon" (TNW). Neither says how videos are matched to topics; our reading: say the field plainly in the first caption
+  line and the title ("engineering", "how it's built"), so the summaries file each build where a viewer who picks
+  engineering looks.
+  [Canaltech, Jan 14 2026](https://canaltech.com.br/apps/instagram-libera-opcao-para-controlar-o-feed-do-reels-para-mais-pessoas/),
+  [TNW, Sep 23 2026](https://thenextweb.com/news/youtube-custom-feeds-ai-creator-tools-netflix)
+
+Checked, nothing new
+- Google's free video: Decrypt (Sep 26 2026) and Digital Trends (Sep 23 2026) on Omni 1.1 Flash in Google Vids for
+  every Google account are the Sep 23 launch already here (Google Vids); neither gives an allowance or commercial
+  terms, and Decrypt's own test was "only able to generate 720p" although 1080p is announced.
+- Jeddah Tower (100): no 500 m report at about 07:58 PT; the results (Newsweek, TradeArabia, Construction Review
+  Online, Gulf News, Khaleej Times) are here already.
+- Trend pages: Virlo still the week of Nov 16; Gelato, media.io, SocialPilot and que.es are here or evergreen. A search
+  for engineering videos that went viral this week found channel stat pages and a Purdue profile only.
+- Higgsfield after Nov 28: the "33 days", "14 days", "11 days 4K", "7-day bonus" and plan-change pages are here
+  already, and the explainer above was the one title the 07:00 entry left unread. Nov 28 stands.
+- New York's MTA photos are no clean source: its Flickr pictures (Second Avenue Subway tunnels, repair crews; Skift,
+  Dec 6 2013) sit on Commons, but the MTA's licensing page counts "Historic and contemporary images and photographs"
+  as MTA property, covers "social media advertising" and says "The MTA charges a fee for the use of its intellectual
+  property" (its route symbols are trademarks too); the Commons licence pages did not load here, so skip them.
+  [MTA Licensing Program](https://www.mta.info/doing-business-with-us/licensing-program),
+  [Skift, Dec 6 2013](https://skift.com/2013/12/06/nyc-takes-subway-riders-underground-with-amazing-flickr-account)
