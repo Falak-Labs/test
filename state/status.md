@@ -1,4 +1,4 @@
-# Post status 2026-11-26T08:29:11+00:00
+# Post status 2026-11-26T19:30:56+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -404,14 +404,14 @@
 | ep75-stepwell | ar.tiktok | sent |  | 2026-11-24T23:01:43.988Z https://tiktok.com/@kef.tenbeni/video/7711876786996497677 |
 | ep75-stepwell | en.instagram | sent |  | 2026-11-25T02:31:25.854Z https://www.instagram.com/reel/DgJdgFfzoxm/ |
 | ep75-stepwell | en.tiktok | sent |  | 2026-11-25T02:31:54.536Z https://tiktok.com/@congratsengineer/video/7711930731504635150 |
-| ep76-cooker | ar.instagram | scheduled |  | 2026-11-26T16:30:00.000Z |
+| ep76-cooker | ar.instagram | sent |  | 2026-11-26T16:33:46.898Z https://www.instagram.com/reel/DgNiusJuhsc/ |
 | ep76-cooker | ar.tiktok | scheduled |  | 2026-11-26T20:30:00.000Z |
-| ep76-cooker | en.instagram | scheduled |  | 2026-11-26T13:30:00.000Z |
-| ep76-cooker | en.tiktok | scheduled |  | 2026-11-26T13:30:00.000Z |
+| ep76-cooker | en.instagram | sent |  | 2026-11-26T13:31:53.771Z https://www.instagram.com/reel/DgNN6tIBCPy/ |
+| ep76-cooker | en.tiktok | sent |  | 2026-11-26T13:31:55.330Z https://tiktok.com/@congratsengineer/video/7712471946658729230 |
 | ep77-goldengate | ar.instagram | scheduled |  | 2026-11-26T20:00:00.000Z |
 | ep77-goldengate | ar.tiktok | scheduled |  | 2026-11-26T23:30:00.000Z |
-| ep77-goldengate | en.instagram | scheduled |  | 2026-11-26T16:00:00.000Z |
-| ep77-goldengate | en.tiktok | scheduled |  | 2026-11-26T16:00:00.000Z |
+| ep77-goldengate | en.instagram | sent |  | 2026-11-26T16:04:46.718Z https://www.instagram.com/reel/DgNfZcLgeWA/ |
+| ep77-goldengate | en.tiktok | sent |  | 2026-11-26T16:04:17.013Z https://tiktok.com/@congratsengineer/video/7712511370486467853 |
 | ep78-airfryer | ar.instagram | sent |  | 2026-11-25T08:03:46.932Z https://www.instagram.com/reel/DgKDgR0hfJR/ |
 | ep78-airfryer | ar.tiktok | sent |  | 2026-11-25T08:02:17.777Z https://tiktok.com/@kef.tenbeni/video/7712015940736601357 |
 | ep78-airfryer | en.instagram | sent |  | 2026-11-25T05:01:26.824Z https://www.instagram.com/reel/DgJutLuTBXS/ |
@@ -441,7 +441,7 @@
 | ep84-hooverdam | en.instagram | sent |  | 2026-11-25T20:03:47.614Z https://www.instagram.com/reel/DgLV5REp7bV/ |
 | ep84-hooverdam | en.tiktok | sent |  | 2026-11-25T20:03:14.041Z https://tiktok.com/@congratsengineer/video/7712201930176548109 |
 | ep85-dubaiframe | ar.instagram | sent |  | 2026-11-26T01:31:40.020Z https://www.instagram.com/reel/DgL7eG8Bp6f/ |
-| ep85-dubaiframe | ar.tiktok | scheduled |  | 2026-11-26T16:00:00.000Z |
+| ep85-dubaiframe | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T16:00:00.000Z |
 | ep85-dubaiframe | en.instagram | sent |  | 2026-11-25T22:31:19.624Z https://www.instagram.com/reel/DgLm29ltc9q/ |
 | ep85-dubaiframe | en.tiktok | sent |  | 2026-11-25T22:31:23.024Z https://tiktok.com/@congratsengineer/video/7712240098909228301 |
 | ep86-kettle | ar.instagram | sent |  | 2026-11-26T04:01:48.355Z https://www.instagram.com/reel/DgMMqvTBy9_/ |
@@ -452,22 +452,22 @@
 | ep87-balloon | ar.tiktok | sent |  | 2026-11-26T06:30:47.594Z https://tiktok.com/@kef.tenbeni/video/7712363584935841038 |
 | ep87-balloon | en.instagram | sent |  | 2026-11-26T03:31:22.560Z https://www.instagram.com/reel/DgMJLqRJrZX/ |
 | ep87-balloon | en.tiktok | sent |  | 2026-11-26T03:32:01.359Z https://tiktok.com/@congratsengineer/video/7712317347914075405 |
-| ep88-pontdugard | ar.instagram | scheduled |  | 2026-11-26T09:00:00.000Z |
-| ep88-pontdugard | ar.tiktok | scheduled |  | 2026-11-26T09:00:00.000Z |
+| ep88-pontdugard | ar.instagram | sent |  | 2026-11-26T09:02:30.127Z https://www.instagram.com/reel/DgMu_sEOfbx/ |
+| ep88-pontdugard | ar.tiktok | sent |  | 2026-11-26T09:01:59.472Z https://tiktok.com/@kef.tenbeni/video/7712402513101589774 |
 | ep88-pontdugard | en.instagram | sent |  | 2026-11-26T06:02:36.118Z https://www.instagram.com/reel/DgMaZMMJi3h/ |
 | ep88-pontdugard | en.tiktok | sent |  | 2026-11-26T06:01:34.585Z https://tiktok.com/@congratsengineer/video/7712356028104396046 |
-| ep89-noor | ar.instagram | scheduled |  | 2026-11-26T11:30:00.000Z |
-| ep89-noor | ar.tiktok | scheduled |  | 2026-11-26T11:30:00.000Z |
-| ep89-noor | en.instagram | scheduled |  | 2026-11-26T08:30:00.000Z |
-| ep89-noor | en.tiktok | scheduled |  | 2026-11-26T08:30:00.000Z |
-| ep90-pen | ar.instagram | scheduled |  | 2026-11-26T14:00:00.000Z |
-| ep90-pen | ar.tiktok | scheduled |  | 2026-11-26T14:00:00.000Z |
-| ep90-pen | en.instagram | scheduled |  | 2026-11-26T11:00:00.000Z |
-| ep90-pen | en.tiktok | scheduled |  | 2026-11-26T11:00:00.000Z |
+| ep89-noor | ar.instagram | sent |  | 2026-11-26T11:31:58.181Z https://www.instagram.com/reel/DgNAJnyhzrm/ |
+| ep89-noor | ar.tiktok | sent |  | 2026-11-26T11:31:42.618Z https://tiktok.com/@kef.tenbeni/video/7712441125017029902 |
+| ep89-noor | en.instagram | sent |  | 2026-11-26T08:31:33.182Z https://www.instagram.com/reel/DgMrjX8MYL5/ |
+| ep89-noor | en.tiktok | sent |  | 2026-11-26T08:31:05.197Z https://tiktok.com/@congratsengineer/video/7712394448302329102 |
+| ep90-pen | ar.instagram | sent |  | 2026-11-26T14:04:59.718Z https://www.instagram.com/reel/DgNRmjmI3RA/ |
+| ep90-pen | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T14:00:00.000Z |
+| ep90-pen | en.instagram | sent |  | 2026-11-26T11:06:07.122Z https://www.instagram.com/reel/DgM8_7fprjC/ |
+| ep90-pen | en.tiktok | sent |  | 2026-11-26T11:03:24.955Z https://tiktok.com/@congratsengineer/video/7712433617896525069 |
 | ep91-arch | ar.instagram | scheduled |  | 2026-11-26T22:30:00.000Z |
 | ep91-arch | ar.tiktok | scheduled |  | 2026-11-27T02:30:00.000Z |
-| ep91-arch | en.instagram | scheduled |  | 2026-11-26T18:30:00.000Z |
-| ep91-arch | en.tiktok | scheduled |  | 2026-11-26T18:30:00.000Z |
+| ep91-arch | en.instagram | sent |  | 2026-11-26T18:32:45.318Z https://www.instagram.com/reel/DgNwTStBNd_/ |
+| ep91-arch | en.tiktok | sent |  | 2026-11-26T18:31:51.462Z https://tiktok.com/@congratsengineer/video/7712549407450877198 |
 | ep92-seatbelt | ar.instagram | scheduled |  | 2026-11-27T01:00:00.000Z |
 | ep92-seatbelt | en.instagram | scheduled |  | 2026-11-26T21:00:00.000Z |
 | ep92-seatbelt | en.tiktok | scheduled |  | 2026-11-26T21:00:00.000Z |
