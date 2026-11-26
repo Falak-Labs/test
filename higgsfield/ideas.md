@@ -2753,3 +2753,63 @@ New content
   [Physics World](https://physicsworld.com/a/japans-lunar-lander-falls-head-over-heels-for-the-moon/),
   [PBS NewsHour](https://www.pbs.org/newshour/science/japans-1st-moon-lander-has-hit-its-target-but-it-appears-to-be-upside-down),
   [TechCrunch, Jan 25 2024](https://techcrunch.com/2024/01/25/japans-slim-spacecraft-sticks-moon-landing-upside-down/)
+
+## 2026-11-25 16:10 PT (hourly runner, cloud run)
+
+Trends
+- Checked, nothing new: this week's Shorts and Reels feature searches still return Made on YouTube (Sep 23); no report
+  of the Jeddah Tower's 500 m halfway mark yet (newest still Construction Review, Nov 19, and Newsweek, Oct 30); the
+  mydealz Black Friday deal for Higgsfield is the one at the top of these notes. TikTok's yearly trend forecast came out
+  on Jan 14 this year ("TikTok Next 2026"), so next year's is not out yet.
+  [TikTok Newsroom, Jan 14 2026](https://newsroom.tiktok.com/introducing-tiktok-next-2026-our-trend-forecast-for-marketers-for-the-year-ahead?lang=en)
+- Sounds, a lead (new to these notes): the Higgsfield connector can list TikTok's trending "commercially licensed
+  tracks from TikTok's Commercial Music Library" (tiktok_music_trending: read-only, by country, genre and a 1-90 day
+  window), but only "for the connected account", and its music attaches only to posts made through Higgsfield's own
+  publish form ("Music works for DIRECT_POST only"). No TikTok account is connected (tiktok_accounts returned none at
+  16:05 PT), and connecting is an OAuth sign-in for the owner, so this stays a lead; our posts go through Buffer.
+
+Free footage and pictures
+- NASA's Scientific Visualization Studio (new to these notes): "All of our content is in the public domain (unless
+  otherwise noted)", "free to download, use, and redistribute for whatever purposes you see fit"; some visualizations
+  carry "licensed music, which is not in the public domain" (use them without the sound track); newer ones are
+  "created in 4K (3840 x 2160) at either 30 or 60 frames per second" with HD copies, as .mp4 or .webm; no vertical
+  versions are mentioned (crop to 9:16). NASA's rules for all its pictures: they "generally are not subject to
+  copyright in the United States"; commercial use "must not explicitly or implicitly convey NASA's endorsement";
+  "NASA should be acknowledged as the source"; the insignia and logotype are "not in the public domain"; no names or
+  likenesses of current astronauts in commercial material; pictures NASA hosts from others need their owner's
+  permission. Build-It use: real Earth, weather and space footage for B5 and lines 12-13 once free Seedance ends
+  (storms, rain, floods, launches), "NASA" in the credits, no NASA logo in frame. Fetch media would need the .gov
+  host (try one file first).
+  [NASA images and media guidelines](https://nasa.gov/nasa-brand-center/images-and-media),
+  [NASA SVS help, upd. Mar 27 2024](https://svs.gsfc.nasa.gov/help/)
+- Pollinations.ai, checked and not useful (new to these notes): its "Classic" API is "Free · no signup ·
+  rate-limited" (image.pollinations.ai/prompt/...), but a picture is "At most 768 × 768 pixels in area", "One at a
+  time, at least 45 seconds apart", and comes as "a JPEG with a small Pollinations logo in the corner" (no logo only
+  with a key from enter.pollinations.ai or $0.01 a request); its GPT Image 2.6 models "require purchased Pollen", and
+  the pages read say nothing on commercial use of the pictures. Too small and marked for a 1080x1920 still: stills
+  stay on Higgsfield's unlimited models when Chrome is back. (pollinations.ai itself refused the fetch.)
+  [Pollinations API docs](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md)
+
+New content
+- G-Cans (LINEUP 104), a B5 "real thing proving it" (new to these notes; its figures are in the Nov 24 21:05 entry):
+  Typhoon Hagibis, Oct 12 2019. NASA Earth Observatory: "the category 2 storm made landfall on the Izu Peninsula on
+  October 12", "Hakone, which received 922.5 millimeters (36.3 inches) of rain fall in just one day", and "River
+  embankments collapsed in at least 66 places on 47 different rivers and streams". MLIT's quick report on the basin's
+  pumps, 「首都圏外郭放水路等を稼働し、中川・綾瀬川流域の被害軽減 速報版」 (as of Oct 25 2019; read from a summary, so
+  check the PDF before a line uses a number): 「域外への排水量計 59.6 百万ｍ3」 from four stations, 12.2 million m3 of it
+  at 庄和 (G-Cans' own pump station: check), 「流域に降った雨の約３割を排水ポンプで流域外へ排水」 (about a third of the
+  rain on the basin pumped out of it), and 「約９割の浸水被害を軽減」 against the Sep 1982 flood, with 1.1 times its rain.
+  12.2 million is close to the "about 12 million cubic meters" of its Aug 2008 storm (Web Japan, 2013): check which was
+  bigger before a line says "record". People watching: "Thank you, Underground Temple." (a tweet quoted by SoraNews24,
+  Oct 18 2019; still leave out its other figures). Free real pictures for the shot, all NASA (rules above): the MODIS
+  view of Oct 13 2019, rivers "brown with sediment" and "Large plumes of sediment-rich water rushed into several bays
+  along Honshu's east coast" (credit: "NASA Earth Observatory image by Joshua Stevens, using data from the Level 1 and
+  Atmospheres Active Distribution System (LAADS) and Land Atmosphere Near real-time Capability for EOS (LANCE)"); GPM's
+  IMERG rain map of Oct 4-13 ("rainfall totals exceeding 400 to 500 mm" over east-central Honshu; GPM's own image-use
+  page not read); GMAO's "Full Resolution MP4 animation" of the storm's clouds in two GEOS model runs side by side (no
+  credit line on the page; crop one side). Seedance or a still can show the shafts filling.
+  [NASA Earth Observatory, Oct 16 2019](https://science.nasa.gov/earth/earth-observatory/hagibis-floods-japan-145736/),
+  [MLIT 速報版 (PDF)](https://www.mlit.go.jp/river/kouka/jirei/pdf/194.pdf),
+  [SoraNews24, Oct 18 2019](https://soranews24.com/2019/10/18/japanese-internet-thanks-the-underground-temple-that-siphoned-off-typhoon-hagibis-torrent/),
+  [NASA GPM, Oct 17 2019](https://gpm.nasa.gov/applications/weather/typhoon-hagibis-brings-heavy-rains-japan),
+  [NASA GMAO](https://gmao.gsfc.nasa.gov/research/science_snapshots/2019/typhoon_Hagibis.php)
