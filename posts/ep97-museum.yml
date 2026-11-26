@@ -1,0 +1,35 @@
+episode: 97
+date: 2026-11-27
+video:
+  en: media/ep97-museum-en.mp4
+  ar: media/ep97-museum-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-27T21:30:00Z"    # 13:30 PT Fri Nov 27, after 96 (96's line 10 promises it)
+  title: "Museum of the Future: Windows Made of Words 🏛️"
+  text: |
+    Dubai built a silver ring with no columns inside… and Arabic writing for windows. 🏛️
+    The outside holds it up: about 2,400 steel beams cross like a basket, a frame a computer found after trying thousands of shapes. Every tube has the same width and is short enough to ride a truck through the city. Robot arms shaped 1,024 curved panels, water jets cut more than 10,000 glass pieces to fit the letters, and 14 km of lights make the words glow at night.
+    Who's cleaning all those windows? 👇
+  next: "a waterfall inside an airport 💧"
+  seo: "How Dubai's Museum of the Future was built: a 77 m tall stainless-steel ring (torus) with column-free floors, carried by a steel diagrid of about 2,400 diagonal beams found with a growth algorithm that tried thousands of shapes, all tubes one diameter and short enough to travel on city roads. The facade has 1,024 stainless-steel-clad fibreglass panels made with robotic arms, more than 10,000 pieces of glass cut with water jets for the Arabic calligraphy windows, and 14 km of LED lighting. Opened February 22, 2022."
+  tags:
+    tiktok: "#museumofthefuture #dubai #architecture #engineering #learnontiktok"
+    instagram: "#museumofthefuture #dubai #architecture #engineering #design"
+    youtube: "#museumofthefuture #dubai #engineering"
+ar:
+  at:
+    default: "2026-11-27T17:00:00Z"    # Instagram 09:00 PT Fri Nov 27 = 20:00 Riyadh, after 96 (06:00 PT)
+    tiktok: "2026-11-27T23:30:00Z"     # 15:30 PT: 3 h after 96's Arabic TikTok (12:30 PT), 5 h after the show's 10:30 PT
+  title: "متحف المستقبل: شبابيكه حروف 🏛️"
+  text: |
+    دبي بنت خاتم فضي ما فيه ولا عمود... وشبابيكه حروف عربية! 🏛️
+    برّاه هو اللي شايله: حوالي ٢٤٠٠ عارضة حديد متشابكة مثل السلة، شكل لقاه الكمبيوتر بعد آلاف المحاولات. كل الأنابيب بنفس العرض وقصيرة تكفي تنحمل على تريلة في شوارع المدينة. أذرع روبوت شكّلت ١٠٢٤ لوح منحني، وموية بضغط قوي قصّت أكثر من ١٠ آلاف قطعة زجاج على مقاس الحروف، و١٤ كيلو أنوار تخلي الحروف تلمع بالليل.
+    مين بيمسح كل هالشبابيك؟ 👇
+  next: "شلال داخل مطار 💧"
+  seo: "كيف انبنى متحف المستقبل في دبي: خاتم من الستانلس ستيل طوله ٧٧ متر وأدواره بدون أعمدة، يشيله هيكل شبكي من حوالي ٢٤٠٠ عارضة حديد مائلة، صممه الكمبيوتر بعد آلاف المحاولات، وكل الأنابيب بنفس القطر وقصيرة تكفي تمشي في شوارع المدينة. الواجهة فيها ١٠٢٤ لوح من الألياف الزجاجية مكسي بالستانلس ستيل سوتها أذرع روبوت، وأكثر من ١٠ آلاف قطعة زجاج قصّتها الموية بضغط عالي لشبابيك الخط العربي، و١٤ كيلو إضاءة. افتتح في ٢٢ فبراير ٢٠٢٢."
+  tags:
+    tiktok: "#متحف_المستقبل #دبي #هندسة #عمارة #تعلم_على_التيك_توك"
+    instagram: "#متحف_المستقبل #دبي #هندسة #عمارة #الإمارات"
+    youtube: "#متحف_المستقبل #دبي #هندسة"

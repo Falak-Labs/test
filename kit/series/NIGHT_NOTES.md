@@ -2087,3 +2087,66 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   every line's start and end, kit/episodes/<kit>_sd.json gives each line's shot; what is missing is the build's own
   time offset (tools/seedance_cut.py) and clean pictures (frames of the source clips instead of draw_world). The owner
   was told in the run's message.
+
+## Nov 25 2026 (evening run, 18:37 PT): 97 the Museum of the Future, 98 the Rain Vortex, 99 instant noodles (v2; post Fri Nov 27)
+- TODAY Wed Nov 25 PT, TOMORROW Thu Nov 26 PT. Thursday already carries 8 builds (88-90, 76, 77, 91-93), so 97-99 take
+  Friday's evening slots right after 94-96 (96's line 10 promises 97): 97 EN 13:30 PT (21:30Z), AR Instagram 09:00 PT
+  (17:00Z), AR TikTok 15:30 PT (23:30Z); 98 EN 16:00 PT (00:00Z Nov 28), AR Instagram 12:00 PT (20:00Z), AR TikTok 18:30
+  PT (02:30Z Nov 28); 99 EN 18:30 PT (02:30Z Nov 28), AR Instagram 15:00 PT (23:00Z), AR TikTok 21:30 PT (05:30Z Nov 28).
+  Arabic TikToks 3 h apart, the first 3 h after 96's (12:30 PT) and 5 h after the show's (10:30 PT). Every at: turned
+  back into PT before the push. YouTube: verified, so all three hold it with `studio: 1`.
+  NEXT FREE SLOTS AFTER 99 (for the runs of Nov 26; 100 goes first, 99's line 10 promises "Build #100, the Jeddah
+  Tower"): Sat Nov 28 English from 06:00 PT, Arabic Instagram from 00:00 PT, Arabic TikTok from 00:30 PT (3 h after
+  99's 21:30 PT; keep 2 h from the show's 10:30 PT).
+- Why v2: museum-A/B and rainvortex-A/B were still todo (no Chrome on the runner since 11:51 PT; its 18:02 PT note:
+  nothing generating), so 97-99 were made in the v2 look (SEEDANCE_STYLE.md fallback) and the four jobs are marked
+  skipped in higgsfield/queue.yml ("next pair: build 100"). Seedance's free unlimited mode ends Nov 28.
+- Status 02:51Z: Nov 25 PT English 80-86 out (87, 88 at 19:30 / 22:00 PT), Arabic Instagram 78-85 (86, 87 tonight),
+  Arabic TikTok 78, 79, 81, 84 out; 82 and 83 refused, 60's requeue refused again (01:30Z); 80's requeue waits for Fri.
+  Nothing requeued (no 2-hour gap in the Arabic TikTok grid through Friday, and queue places go to new posts first).
+  yt_desk check: nothing overdue. Metrics 02:57Z: 227,490 views (+7,313); entry in claude/build-it-performance.md.
+- Pages: retired ep60 (only a refused Arabic TikTok left), thermos-b83 (the same) and hooverdam-b84 (all sent); all
+  three in the Studio ledger: media/ 1.3 -> 1.1 GB before 97-99. Keep 78 and 79 (their English Studio uploads are
+  still listed as due). Next: 85 after its Arabic TikTok (16:00Z Nov 26), 86-88 as they go out, 37 after 04:30Z Nov 26.
+- Voices (ElevenLabs Pro 169,520 of 613,234 before, about 6,500 characters with the remakes): Ballen v4 museum 66.28 s
+  (first take 67.86 s: a 71 s video, over the v2 gate; hook and line 2 shortened), rainvortex 66.00 s (first 67.56 s;
+  hook and line 4 shortened), noodles 66.00 s; Mansour v4 museum 66.88 s, rainvortex 66.09 s, noodles 66.00 s (x1.07).
+  Hooks after the remakes: EN 4.4-4.8 s, problem by 7.9-8.8 s; AR 4.4-4.9 s, problem by 8.3-9.3 s (only the known
+  "Y'all," / "يا جماعة،" comma FAILs). Whisper small on Ballen: "glass wall" -> "blast wall" (now "a low wall made of
+  glass"), "pumps send" -> "pumps in" (now "pumps carry"), "rushes" -> "rashes" (now "soaks right back in").
+  check_ar_voice: museum line 11 reads 49-51% because Whisper stops after the "!" of "برّاه هو اللي شايله!"; the
+  second half on its own is heard right ("الفين واربعمية عارضة حديد متشابك مثل السلة"; the first take was heard
+  "1200" and was rewritten "ألفين وأربع مية"), so it ships: check a long line in halves before remaking it. noodles L2
+  "الطازجة" -> the Saudi "الطازة"; L13 remade as "ومبروك... كذا سويت لك" (Whisper heard "كيف أساعد لك" before).
+- The cover parser (bik/cover.py _AR) does not take "..." after مبروك: noodles.py overrides draw_cover to read it as a
+  comma ("مبروك، كذا سويت لك" + "النودلز"). Keep closers in the plain frame when you can.
+- Scenes (v2 look 2):
+  - museum.py (ring, grow, street, panel, glass, mom): the torus as the band between two ellipses (rp(u, s): u around
+    the ring, s from the void's edge 0 to the outer edge 1), a 36 x 2 diagrid drawn as polylines in band space, the
+    calligraphy windows as abstract strokes from a seed (no real words: no loops, they read as zeros), a hill drawn
+    after the ring to hide its foot, x-ray floors, a blueprint with jittering trial nets settling into one, a truck
+    whose curved beam jams under a sign gantry, a saddle mould that wrinkles a flat sheet, a robot arm, a water jet
+    tracing a letter with PathMeasure; tag: mom with a spray bottle in front of the ring and a window cleaner's cradle.
+    Lesson: the first layout put the ring's lower half in the caption band; camera y 190-210 at zoom 1.1 keeps it
+    above y 1240.
+  - rainvortex.py (inside, roof, section, sink): the dome seen from inside (ribs and rings converging on the oculus,
+    a funnel of falling water with streaks, a clear drum, terraced forest, a sky train, a light-show palette at night),
+    the doughnut roof from above with rain running to the hole, a section (arch with the oculus off centre, floors
+    stepping down, pit, pool, tanks, pump and pipe loop, air streamlines with dash_paint, a low glass wall); camera
+    (OX, 135, 0.85) keeps the floor and pit above the captions, the reveal pulls out to 0.74 to show the tanks.
+  - noodles.py (macro, fresh, dry, pot, shed, kitchen, cup, tag): a noodle brick of wavy lines, a strand blown up with
+    pores, steam out (frying) and water in (soaking), a plate with growing mould and a day calendar, a drying rack, a
+    slow pot with a clock, a backyard shed with a wok, the cup in x-ray with the block at the bottom (cracks) or wedged
+    mid-cup (water swirling under it), a bouncing van; the tag differs by language (EN a 3-minute timer and someone
+    crunching; AR end of the month, three cups). Lesson: light gold and white bloom to flat shapes: mid-tone gold for the
+    strand, a warm cream cup.
+- Produce (one slug per run, about 16 minutes of rendering each, 03:33-03:50Z): museum EN 69.4 s / AR 70.0 s, rainvortex
+  EN 69.1 / AR 69.2 s, noodles EN 69.1 / AR 69.1 s; all -14.0 LUFS, peaks -1.9 to -2.2 dBFS, covers true (the noodles
+  Arabic cover reads "مبروك، كذا سويت لك" + "النودلز"). QA sheets and covers looked at in both languages. Whisper small
+  on the three English mixes: number formats, "Y'all" -> "Yo", "And congrats" -> "Hey, congrats" only (CI's base.en
+  heard "glass" as "blast" and "a pot and a stove" as "a pot in a soul"; small hears both right). Anchors all found,
+  sweeps and save checks clean in both languages.
+- Posts: posts/ep97-museum.yml, ep98-rainvortex.yml, ep99-noodles.yml pushed after the Pages deploy of 13e6a9a (the
+  last produce commit) succeeded. All 12 Instagram + TikTok targets wait for Buffer places (every channel 10 of 10
+  with 92-96 first in due-time order); later post.yml runs add them. Check-in of this session at 12:30Z Nov 27 (04:30
+  PT Fri) dispatches post.yml if any of 94-99 still waits and requeues failures.

@@ -1,0 +1,35 @@
+episode: 99
+date: 2026-11-27
+video:
+  en: media/ep99-noodles-en.mp4
+  ar: media/ep99-noodles-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-28T02:30:00Z"    # 18:30 PT Fri Nov 27, after 98 (98's line 10 promises it)
+  title: "Instant Noodles: Full of Tiny Holes on Purpose 🍜"
+  text: |
+    Instant noodles are full of tiny holes… on purpose. 🍜
+    Fresh noodles go bad in days, so you dry them, but dry noodles cook slow. In 1958, after a year of tinkering in a backyard shed, Momofuku Ando fried them like tempura: the hot oil blasts the water out and leaves tiny holes, and hot water soaks right back in. In 1971 he put them in a cup, the block wedged in the middle so it won't crack on the road and hot water can get underneath.
+    Be honest: ever waited the full three minutes? 👇
+  next: "Build #100, the Jeddah Tower 🏙️"
+  seo: "How instant noodles work: Momofuku Ando invented them in 1958 (Chicken Ramen) after a year of experiments in a shed behind his house. Frying the noodles in hot oil boils the water out and leaves tiny holes, so they keep for months and hot water rehydrates them in minutes. Cup Noodles (1971) holds the noodle block in the middle of the cup so it does not break in transport and hot water can flow underneath. About 124 billion servings of instant noodles were eaten worldwide in 2025."
+  tags:
+    tiktok: "#instantnoodles #ramen #foodscience #howitworks #learnontiktok"
+    instagram: "#instantnoodles #ramen #foodscience #history #howitworks"
+    youtube: "#instantnoodles #ramen #foodscience"
+ar:
+  at:
+    default: "2026-11-27T23:00:00Z"    # Instagram 15:00 PT Fri Nov 27 = 02:00 Riyadh Sat, after 98 (12:00 PT)
+    tiktok: "2026-11-28T05:30:00Z"     # 21:30 PT: 3 h after 98's Arabic TikTok (18:30 PT)
+  title: "النودلز: مليانة خروم بقصد 🍜"
+  text: |
+    النودلز مليانة خروم صغيرة... بقصد! 🍜
+    النودلز الطازة تخرب بكم يوم، فتنشّفها، بس الناشفة تطول على ما تستوي. سنة ١٩٥٨، بعد سنة كاملة في مخزن ورا بيته، موموفوكو أندو قلاها بالزيت: الزيت الحار يطيّر الموية ويخلي خروم صغيرة، والموية الحارة تدخلها على طول. وسنة ١٩٧١ حطها في كوب، والكتلة معلقة في نص الكوب عشان ما تتكسر في الطريق والموية توصل لتحت.
+    صدق: آخر الشهر، كم مرة تاكلها في اليوم؟ 👇
+  next: "البناء رقم ١٠٠: برج جدة 🏙️"
+  seo: "كيف تشتغل النودلز السريعة: اخترعها موموفوكو أندو سنة ١٩٥٨ بعد سنة تجارب في مخزن ورا بيته. قلي النودلز بالزيت الحار يطيّر الموية منها ويخلي فيها خروم صغيرة، فتقعد شهور بدون ما تخرب، والموية الحارة تدخل الخروم وتستوي في دقايق. وكوب النودلز (١٩٧١) يمسك الكتلة في نص الكوب عشان ما تتكسر في النقل والموية الحارة توصل تحتها. الناس أكلوا حوالي ١٢٤ مليار وجبة نودلز سريعة سنة ٢٠٢٥."
+  tags:
+    tiktok: "#نودلز #اندومي #طبخ #معلومات #تعلم_على_التيك_توك"
+    instagram: "#نودلز #اندومي #معلومات #طلاب #طبخ"
+    youtube: "#نودلز #معلومات #طبخ"
