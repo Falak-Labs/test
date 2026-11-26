@@ -1,4 +1,4 @@
-# Post status 2026-11-26T04:02:59+00:00
+# Post status 2026-11-26T08:29:11+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -219,7 +219,7 @@
 | ep36-pyramid | en.tiktok | sent |  | 2026-11-18T05:30:46.755Z https://www.tiktok.com/@congratsengineer/video/7709379367360597262?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep36-pyramid | en.youtube | sent |  | 2026-11-18T05:30:08.839Z https://www.youtube.com/shorts/NBpVVXvwBd4 |
 | ep37-windtower | ar.instagram | sent |  | 2026-11-18T17:05:10.686Z https://www.instagram.com/reel/Df4_6ANwVci/ |
-| ep37-windtower | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T04:30:00.000Z |
+| ep37-windtower | ar.tiktok | sent |  | 2026-11-26T04:32:19.545Z https://tiktok.com/@kef.tenbeni/video/7712332918336572685 |
 | ep37-windtower | ar.youtube | sent |  | 2026-11-18T17:03:17.795Z https://www.youtube.com/shorts/f3nfx--F-Kk |
 | ep37-windtower | en.instagram | sent |  | 2026-11-18T14:03:06.680Z https://www.instagram.com/reel/Df4rClNxsXT/ |
 | ep37-windtower | en.tiktok | sent |  | 2026-11-18T14:05:41.977Z https://www.tiktok.com/@congratsengineer/video/7709511909875223822?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
@@ -448,14 +448,14 @@
 | ep86-kettle | ar.tiktok | sent |  | 2026-11-26T04:01:26.842Z https://tiktok.com/@kef.tenbeni/video/7712325036673207565 |
 | ep86-kettle | en.instagram | sent |  | 2026-11-26T01:02:26.688Z https://www.instagram.com/reel/DgL4JvmMR5E/ |
 | ep86-kettle | en.tiktok | sent |  | 2026-11-26T01:02:39.342Z https://tiktok.com/@congratsengineer/video/7712278851593784589 |
-| ep87-balloon | ar.instagram | scheduled |  | 2026-11-26T06:30:00.000Z |
-| ep87-balloon | ar.tiktok | scheduled |  | 2026-11-26T06:30:00.000Z |
+| ep87-balloon | ar.instagram | sent |  | 2026-11-26T06:31:16.603Z https://www.instagram.com/reel/DgMdw24z8Gt/ |
+| ep87-balloon | ar.tiktok | sent |  | 2026-11-26T06:30:47.594Z https://tiktok.com/@kef.tenbeni/video/7712363584935841038 |
 | ep87-balloon | en.instagram | sent |  | 2026-11-26T03:31:22.560Z https://www.instagram.com/reel/DgMJLqRJrZX/ |
 | ep87-balloon | en.tiktok | sent |  | 2026-11-26T03:32:01.359Z https://tiktok.com/@congratsengineer/video/7712317347914075405 |
 | ep88-pontdugard | ar.instagram | scheduled |  | 2026-11-26T09:00:00.000Z |
 | ep88-pontdugard | ar.tiktok | scheduled |  | 2026-11-26T09:00:00.000Z |
-| ep88-pontdugard | en.instagram | scheduled |  | 2026-11-26T06:00:00.000Z |
-| ep88-pontdugard | en.tiktok | scheduled |  | 2026-11-26T06:00:00.000Z |
+| ep88-pontdugard | en.instagram | sent |  | 2026-11-26T06:02:36.118Z https://www.instagram.com/reel/DgMaZMMJi3h/ |
+| ep88-pontdugard | en.tiktok | sent |  | 2026-11-26T06:01:34.585Z https://tiktok.com/@congratsengineer/video/7712356028104396046 |
 | ep89-noor | ar.instagram | scheduled |  | 2026-11-26T11:30:00.000Z |
 | ep89-noor | ar.tiktok | scheduled |  | 2026-11-26T11:30:00.000Z |
 | ep89-noor | en.instagram | scheduled |  | 2026-11-26T08:30:00.000Z |
