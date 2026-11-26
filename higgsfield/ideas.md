@@ -3293,3 +3293,39 @@ New content
   the Tianshan Shengli Tunnel in Xinjiang, "world's longest expressway tunnel" (LatestLY headline); a Xinjiang topic
   may draw political comments, so it is the main chat's call.
   [Newsweek, Jun 17 2026](https://www.newsweek.com/worlds-tallest-skyscraper-construction-milestone-jeddah-tower-12086826)
+
+## 2026-11-25 23:58 PT (hourly runner, cloud run)
+
+New content
+- The world's tallest lift changed this month, which corrects build 100's A6 and gives it a stat line (new to these
+  notes: no Tianjin 117 or Otis in them). Guinness, "Tallest elevator in a building": 597.20 m (1,959 ft 3.6 in),
+  bottom to top landing, two Otis SkyRise lifts at Tianjin 117, verified on 6 Nov 2026 (Guinness; Otis's release via
+  PR Newswire, Nov 6 2026). It beat 578.5 m (1,898 ft), a Mitsubishi Electric lift at Shanghai Tower (Manufacturing.net,
+  Nov 6 2026, upd. Nov 16; Guinness). Otis's release lists ultra-high-strength steel ropes, so steel-rope lifts already
+  ride well past the "practical limits" at about 500 m in jeddahtower-A's A6 comment and in LINEUP 100 ("steel ropes
+  get too heavy past about 500 m"): the script should say steel gets too heavy for Jeddah's ride, not that it stops at
+  500 m (a note is now in both jeddahtower jobs). Jeddah's ride: an "over 630-meter vertical voyage to the world's
+  highest observation deck", "the world's tallest elevator ride", on four MiniSpace lifts with UltraRope ("carbon fiber
+  core and high-friction coating", travel "up to one kilometer"), 67 units in all (KONE, Oct 8 2025; the 2014 plan said
+  "the world's highest elevator rise at 660 metres", Gulf Business, Jun 5 2014; ENR 2015's 638 m is in jeddahtower-B's
+  comment). So Jeddah's ride would beat this month's record by more than 30 m: a line-12 stat of "597 M" against
+  "630+ M". Tianjin 117 itself: about 600 m and 117 floors, the "world's tallest unoccupied building" (Newsweek, Aug 20
+  2026). Otis's other measures: rope-sway simulations and building-motion monitoring (Newsweek), aerodynamic shrouds
+  above and below the cabs, sound-insulated cabs, and double-deck cars at "up to 12 meters per second" (Otis). Small
+  figures differ (Newsweek in August: 251 units and "about 1,968 feet"; the November releases: 266 units and 1,959 ft
+  3.6 in): use the Guinness figure. Also a news peg for the elevator itself (build 1, retired): the main chat's call.
+  [Guinness World Records](https://guinnessworldrecords.com/world-records/106868-tallest-elevator-in-a-building),
+  [Otis via PR Newswire (Finviz), Nov 6 2026](https://finviz.com/news/418224/otis-receives-guinness-world-records-title-for-tallest-elevator-at-tianjin-117),
+  [Manufacturing.net, Nov 6 2026](https://www.manufacturing.net/operations/news/22978088/otis-sets-guinness-world-record-for-worlds-tallest-elevator),
+  [Newsweek, Aug 20 2026](https://newsweek.com/worlds-tallest-empty-skyscraper-adds-record-breaking-feature-12349802),
+  [KONE, Oct 8 2025](https://www.kone.com/global/en/newsroom/releases/2025/kone-to-equip-jeddah-tower--the-worlds-tallest-building-to-be-in-saudi-arabia-with-people-flow--solutions-2025-10-08.html),
+  [Gulf Business, Jun 5 2014](https://gulfbusiness.com/en/2014/industry/kone-provide-worlds-fastest-elevators-saudis-kingdom-tower)
+- Checked, nothing new: no report of the Jeddah Tower's 500 m mark (the halfway point expected "around Thanksgiving")
+  at about 23:55 PT; the results were pages already in these notes and older ones (RLI, Aug 14 2026: "430m and 106
+  levels"; Brogan Group, undated, early 2026: six Alimak 3-tonne construction hoists on a common tower "progressed to
+  250 m", to "ultimately reach a height of 500 m"). Free AI video offers this Black Friday: the results were last
+  year's Pixazo/BytePlus toolkit, InVideo's 2025 offer and the expired "72h unlimited via MCP" Higgsfield deal (all
+  already here) and paid Kling deals, so nothing free past Nov 28. A search for this week's viral engineering-explainer
+  formats returned nothing new.
+  [RLI, Aug 14 2026](https://www.rli.uk.com/jeddah-tower-reaches-halfway-to-burj-khalifa/),
+  [Brogan Group](https://www.brogangroup.com/news/brogan-group-reaches-recordbreaking-access-milestone-on-world-s-tallest-structure/bp1865/)

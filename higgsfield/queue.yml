@@ -1215,6 +1215,10 @@ jobs:
     # 500 m report found at 19:00 PT Nov 25, so check the news before the script. More in ideas.md (Nov 24 12:05 and
     # 15:59, Nov 25 09:00 and 19:05). No faces: workers small and from behind; no flags, signs or writing anywhere
     # (Seedance would draw false Arabic); leave the 2018 pause out.
+    # Nov 26 runner, on A6: say steel gets too heavy for Jeddah's ride, not that it stops at 500 m. Steel-rope lifts
+    # already ride 578.5 m (Shanghai Tower) and, since Nov 6 2026, 597.2 m (Tianjin 117, Otis: the Guinness record),
+    # while Jeddah's planned ride is "over 630-meter" on carbon-fibre UltraRope (KONE, Oct 8 2025). Still no 500 m
+    # report at about 23:55 PT Nov 25. Sources in ideas.md (Nov 25 23:58).
     status: todo
     file: buildit-jeddahtower-sdA.mp4
     shots: >-
@@ -1246,6 +1250,9 @@ jobs:
     # so Seedance or a picture model, never a Commons photo (ideas.md Nov 24 14:02). B6 (ours): a tower of washed
     # dishes topples, the tower that had no piles. Lines 12-13: "105 M" or "270 PILES"; the still can be the finished
     # tower at dusk. No faces: people small and from behind; no flags, signs or writing on the building.
+    # Nov 26 runner, on B1: KONE's newest figure is an "over 630-meter" ride to the observation deck on four UltraRope
+    # lifts (Oct 8 2025; the 2014 plan said 660 m), so say "over 630 m". A stat for lines 12-13: "597 M" (this month's
+    # steel-rope record, Tianjin 117) against "630+ M" (ideas.md Nov 25 23:58).
     status: todo
     file: buildit-jeddahtower-sdB.mp4
     shots: >-
