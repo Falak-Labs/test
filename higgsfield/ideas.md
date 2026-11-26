@@ -3847,3 +3847,55 @@ Checked, nothing new
 - Trending sounds: the weekly song lists (Buffer's November list is already here; Metricool's Nov 2 list, Virlo,
   SocialPilot) showed up in results only and were not read: they are music picks for in-app posting. A search for
   this week's viral engineering Shorts found algorithm explainers (DEV Community) and channel stat pages only.
+
+## 2026-11-26 11:00 PT (hourly runner, cloud run)
+
+New content
+- The chairlift (LINEUP 107): the first chairlift's own patent, a free proof still for lines 12-13 (new to these
+  notes; the USPTO rule on patent drawings is in the Nov 23 22:56 entry). US 2,152,235, "Aerial ski tramway", filed
+  Nov 17 1937 and granted Mar 28 1939, names three inventors, "Gordon H. Bannerman", "James M. Curran" and "Glen H.
+  Trout", and the assignee is the rope maker, "The American Steel and Wire Company of New Jersey", not Union Pacific:
+  so the script says "railroad engineers" or "Curran and his team", not Curran alone. Six figures: top and side views
+  of both ends of the lift and two enlarged details. The chair "has an open front, and a leg rest 8 depends from the
+  front end of its seat", it hangs from a bar bent "to bring the center of gravity of the chair 1 into vertical
+  alignment with the rope 3", and the bars "are fixed against longitudinal movement along the rope 3 but can swing
+  laterally": a fixed grip. So the first chairs never let go of the rope, and the detachable grip of the build is the
+  later fix (the "before and after" is our reading). No copyright notice in the page text (OCR text read: check the
+  drawing itself).
+  [Google Patents, US2152235](https://patents.google.com/patent/US2152235)
+- A real old chairlift, free (107; new to these notes, HAER itself is in the Nov 23 21:55 entry): the Library of
+  Congress record "Mad River Glen, Single Chair Ski Lift, 62 Mad River Glen Resort Road, Fayston, Washington County,
+  VT" (Historic American Engineering Record; built 1947, more work in 1958 and 2007; photographer "Lowe, Jet") holds
+  42 photos, 2 colour transparencies and 10 measured drawings: "No known restrictions on images made by the U.S.
+  Government; images copied from other sources may be restricted." A fixed-grip single chair, so it can be the old way
+  under A2 or the stat line with a slow zoom. The record page read here listed only small GIFs: find each photo's
+  large file in a browser and keep to the record's own photos. Three other leads do not work: the University of Utah's
+  Engen folder "Chair Lifts, 1930s-1940s" lists "Skier rides the world's second chair lift at Sun Valley, Idaho" and
+  "Original Collins lift, built in 1938", but "Materials must be used on-site" and it has no rights line (ask the
+  library); the Colorado School of Mines' "People loading chair lift at Sun Valley, Idaho" is from March 1973 and "In
+  copyright - non-commercial use permitted"; and the Truman Library's "President Harry S. Truman rides the ski lift in
+  Sun Valley, Idaho" (June 8 1948) is "Public Domain" but shows a real politician's face, so it is out.
+  [LOC, item vt0134](https://www.loc.gov/pictures/item/vt0134/),
+  [University of Utah, Engen folder](https://archivespace.lib.utah.edu/repositories/3/archival_objects/492057),
+  [Colorado School of Mines](https://repository.mines.edu/entities/publication/07b73fcc-db17-4490-b6c7-8dc1bf9a7a43/full),
+  [Truman Library, 2012-196](https://trumanlibrary.gov/photograph-records/2012-196)
+- The ice resurfacer (LINEUP 108): Frank Zamboni's patent drawing, a free proof still (new to these notes): US
+  2,642,679, "Ice rink resurfacing machine", filed May 16 1949 and granted June 23 1953 (the "patented in 1953" of the
+  Nov 25 09:00 entry), no assignee, four sheets and ten figures, among them "Figure 9 is a side elevational view of
+  another embodiment of the invention, showing a modified form of the apparatus mounted on a jeep". It backs the Nov
+  25 shot chain: the blade "extends transverse to the direction of forward travel, with its sharp cutting edge
+  inclined downwardly to take a shaving cut on the ice", a "worm screw conveyor" just in front of it carries the
+  shavings off, and "the water in the tank flows by gravity to the water distributing device", filling "any cracks or
+  depressions in the ice". No copyright notice in the page text (OCR, partly garbled: check the drawing itself). Say
+  "ice resurfacer"; the brand name only as the inventor's name.
+  [Google Patents, US2642679](https://patents.google.com/patent/US2642679)
+
+Checked, nothing new
+- Jeddah Tower (100): no 500 m report at about 10:52 PT on Thanksgiving; the results are the Newsweek, Construction
+  Review Online and TradeArabia pages already in these notes.
+- Trends: Virlo's weekly page is still the week of Nov 16, the TikTok and Reels "this week" lists (SocialPilot, Later,
+  SocialBee, Buffer) are the pages already here, and a search for Thanksgiving science videos found only older recipe
+  and meme pages. YouTube Shorts news is still Made on YouTube (Sep 23).
+- Free video: Higgsfield's "33 days", "14 days", "11 days 4K", "7-day bonus" and plan-change pages again (Nov 28
+  stands); open video models are still MiniMax H3 and LTX-2.5 (a DEV Community post on "Wan 2.7" seen as a title
+  only).
