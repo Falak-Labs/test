@@ -1,4 +1,4 @@
-# Post status 2026-11-26T19:30:56+00:00
+# Post status 2026-11-26T19:41:13+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -469,16 +469,33 @@
 | ep91-arch | en.instagram | sent |  | 2026-11-26T18:32:45.318Z https://www.instagram.com/reel/DgNwTStBNd_/ |
 | ep91-arch | en.tiktok | sent |  | 2026-11-26T18:31:51.462Z https://tiktok.com/@congratsengineer/video/7712549407450877198 |
 | ep92-seatbelt | ar.instagram | scheduled |  | 2026-11-27T01:00:00.000Z |
+| ep92-seatbelt | ar.tiktok | scheduled |  | 2026-11-27T05:30:00.000Z |
 | ep92-seatbelt | en.instagram | scheduled |  | 2026-11-26T21:00:00.000Z |
 | ep92-seatbelt | en.tiktok | scheduled |  | 2026-11-26T21:00:00.000Z |
 | ep93-huajiang | ar.instagram | scheduled |  | 2026-11-27T03:30:00.000Z |
+| ep93-huajiang | ar.tiktok | scheduled |  | 2026-11-27T08:30:00.000Z |
 | ep93-huajiang | en.instagram | scheduled |  | 2026-11-26T23:30:00.000Z |
 | ep93-huajiang | en.tiktok | scheduled |  | 2026-11-26T23:30:00.000Z |
 | ep94-smokealarm | ar.instagram | scheduled |  | 2026-11-27T08:00:00.000Z |
+| ep94-smokealarm | ar.tiktok | scheduled |  | 2026-11-27T11:30:00.000Z |
 | ep94-smokealarm | en.instagram | scheduled |  | 2026-11-27T14:00:00.000Z |
 | ep94-smokealarm | en.tiktok | scheduled |  | 2026-11-27T14:00:00.000Z |
+| ep95-falkirk | ar.instagram | scheduled |  | 2026-11-27T11:00:00.000Z |
+| ep95-falkirk | ar.tiktok | scheduled |  | 2026-11-27T14:30:00.000Z |
 | ep95-falkirk | en.instagram | scheduled |  | 2026-11-27T16:30:00.000Z |
 | ep95-falkirk | en.tiktok | scheduled |  | 2026-11-27T16:30:00.000Z |
+| ep96-handwarmer | ar.instagram | scheduled |  | 2026-11-27T14:00:00.000Z |
+| ep96-handwarmer | ar.tiktok | scheduled |  | 2026-11-27T20:30:00.000Z |
+| ep96-handwarmer | en.instagram | scheduled |  | 2026-11-27T19:00:00.000Z |
+| ep96-handwarmer | en.tiktok | scheduled |  | 2026-11-27T19:00:00.000Z |
+| ep97-museum | ar.instagram | scheduled |  | 2026-11-27T17:00:00.000Z |
+| ep97-museum | ar.tiktok | scheduled |  | 2026-11-27T23:30:00.000Z |
+| ep97-museum | en.instagram | scheduled |  | 2026-11-27T21:30:00.000Z |
+| ep97-museum | en.tiktok | scheduled |  | 2026-11-27T21:30:00.000Z |
+| ep98-rainvortex | ar.instagram | scheduled |  | 2026-11-27T20:00:00.000Z |
+| ep98-rainvortex | en.instagram | scheduled |  | 2026-11-28T00:00:00.000Z |
+| ep98-rainvortex | en.tiktok | scheduled |  | 2026-11-28T00:00:00.000Z |
+| ep99-noodles | ar.instagram | scheduled |  | 2026-11-27T23:00:00.000Z |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://www.tiktok.com/@congratsengineer/video/7710759443809553677?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |

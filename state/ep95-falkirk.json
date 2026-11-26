@@ -17,6 +17,24 @@
    "dueAt": "2026-11-27T16:30:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-26T03:30:50+00:00"
+  },
+  "ar.instagram": {
+   "id": "6b088b42ce64081689e9bcd5",
+   "channel": "6af2cd1062b70b94b0ded3ff",
+   "service": "instagram",
+   "status": "scheduled",
+   "dueAt": "2026-11-27T11:00:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-26T19:40:43+00:00"
+  },
+  "ar.tiktok": {
+   "id": "6b088b433accdac92cf5a481",
+   "channel": "6af2ce9262b70b94b0dedc45",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-27T14:30:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-26T19:40:43+00:00"
   }
  }
 }
