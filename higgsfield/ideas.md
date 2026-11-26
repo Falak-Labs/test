@@ -3115,3 +3115,67 @@ Free footage and pictures
   [Oakgen, Nov 13 2026](https://oakgen.ai/blog/ai-creative-news-week-of-2026-11-09),
   [Martin Cid, Nov 6 2026](https://www.martincid.com/technology-sv/gemini-omni-1-2-flash-15-second-ai-video-google-vids-free/),
   [Oakgen, Nov 19 2026](https://oakgen.ai/blog/best-unlimited-ai-video-generators-2027)
+
+## 2026-11-25 21:00 PT (hourly runner, cloud run)
+
+New content
+- Riyadh Metro (LINEUP 106), three of the four gaps the Nov 25 10:00 entry left before a script (its first three lines
+  turn two on Tue Dec 1). The boring machines: the counts differ, so say "giant boring machines" or "six".
+  Herrenknecht's reference lists "4x Multi-mode TBM" (10,250 mm) for Line 1 and "2x EPB Shield" (9,730 mm) for Line 5,
+  the Green Line, in "Limestone, Alluvium", with "around 28 kilometers of tunnel" done by October 2016; Bechtel
+  launched "four Herrenknecht multi-mode TBMs" for Lines 1 and 2 (TunnelTalk, Jul 8 2015); Arab News (May 3 2015) had
+  "Seven TMBs [sic]" for "tunnels of 35 km in length at a depth of 30 meters" (a seventh machine on another line is
+  not checked). Sand and heat: the Yellow, Green and Purple lines' trains are "fitted with special elements in order to
+  prevent the ingress of sand" and have "a more powerful air conditioning system, capable of delivering sufficient
+  cooling capacity even in extreme heat" (Alstom, Mar 6 2017); on the Blue and Red lines "Special filters and sealing
+  systems effectively prevent sand from entering the vehicle components and passenger compartments" (Siemens), with
+  "two compact HVAC units" per car (Siemens datasheet). No maker gives a design temperature, so that gap stays: say
+  "extreme heat". Fleet: Siemens' 67 trains (Lines 1-2), "47 Innovia metro trains for the Orange line" and "69
+  Metropolis metro trains for the Yellow, Green, and Purple lines" (Alstom, Nov 28 2024): 183 trains and not one
+  driver (our sum, for line 13). Riders: "31 million passengers in the first quarter and 29.7 million in the second" of
+  2026, Q2 up "nearly 26%" on 23.6 million a year before (Arab News, Aug 11 2026), and "30.4 million trips" in Q3
+  (Arab News, Oct 20 2026): about 91 million in nine months, some 330,000 a day in Q3 (our sums). The "99.7 percent"
+  on time and the Blue Line's "46.5 million riders" are from Aug 26 2025: label them 2025. Keep the machines and trains
+  plain in the shots (no maker's name or logo).
+  [Herrenknecht](https://herrenknecht.com/en/references/referencesdetail/riyadh-metro),
+  [TunnelTalk, Jul 8 2015](https://tunneltalk.com/Saudi-Arabia-08July2015-Bechtel-launches-first-TBM-for-Riyadh-Metro-Line-1.php),
+  [Arab News, May 3 2015](https://www.arabnews.com/node/741346/amp),
+  [Alstom, Mar 6 2017](https://www.alstom.com/press-releases-news/2017/3/alstom-delivers-on-time-the-first-metro-trainset-to-riyadh),
+  [Siemens](https://www.mobility.siemens.com/global/en/portfolio/references/metro-riyadh.html),
+  [Siemens datasheet](https://assets.new.siemens.com/siemens/assets/api/uuid:07c858eb-efae-4950-92f8-7f515346c0e2/riyadh-metro-project-datasheet.pdf),
+  [Alstom, Nov 28 2024](https://www.alstom.com/press-releases-news/2024/11/alstom-celebrates-launch-riyadh-metro-network),
+  [Arab News, Aug 11 2026](https://www.arabnews.pk/saudi-arabia/saudi-rail-passenger-traffic-jumps-16-in-first-half-of-2026-2654162),
+  [Arab News, Oct 20 2026](https://www.arabnews.pk/saudi-arabia/saudi-rail-networks-record-409-million-passenger-journeys-in-q3-2026-3004719),
+  [Arab News, Aug 26 2025](https://www.arabnews.pk/saudi-arabia/riyadh-metro-surpasses-100m-passengers-in-under-9-months-2613047)
+
+Free footage and pictures
+- Google Flow's free tier, the open item of the Nov 23 21:55 entry ("watermark and commercial terms not stated"), read on
+  Google's own help page (undated): "50 Google Flow credits per day to try Google Flow"; "All outputs generated in
+  Google Flow using Veo, Omni, or Nano Banana include invisible SynthID watermarks", and a visible one comes from a
+  "Visible watermarking" toggle, added automatically only for users in India, South Korea and Vietnam; "Google won't
+  claim ownership over that content", and "The Terms of Service govern how these tools may be used" (Google's general
+  terms, not read here for commercial use). Costs, from WaveSpeed (Nov 18 2026; Google says "Model costs are evolving
+  fast" and shows them in Settings): Veo 3.1 Lite "10 credits" a 4, 6 or 8 s clip at 720p, so five a day; Omni Flash
+  1.2 up to 10 s at 3 credits a second at 720p (1 at 360p), which would put Omni within the free credits too, not only
+  in Google Vids as the 20:05 entry has it (not tried in the app); "Unused daily credits don't roll over"; Veo 3.1 Fast
+  and Quality listed as retiring Dec 5. Google's credits page confirms the block: "With no subscription, you receive
+  only 50 Google Flow credits per day" and "During peak hours, roughly 2 PM to 5 PM UTC, you may not be able to
+  generate videos without a subscription" (6-9 AM PT). Commercial use: no Flow help page says either way, and a forum
+  question about free-tier clips (Jun 3 2026) got no answer before it closed on Nov 5, so it is the owner's call
+  before Flow clips go into monetized posts.
+  [Google Flow Help](https://support.google.com/flow/answer/16353333?hl=en),
+  [Google Flow credits](https://support.google.com/flow/answer/16526234?hl=en),
+  [Google AI forum, Jun 3 2026](https://discuss.ai.google.dev/t/inquiry-about-commercial-use-of-videos-generated-via-google-labs-flow-free-tier-for-a-contest/169174),
+  [WaveSpeed, Nov 18 2026](https://wavespeed.ai/blog/cost-and-billing/google-flow-pricing-2026/),
+  [NemoVideo](https://www.nemovideo.com/blog/ai-video-models/google-flow-ai-pricing)
+
+Trends
+- TikTok Creative Center's hashtag side (the Nov 23 21:55 entry has only its "Approved for Business Use" song filter): it
+  "displays trending hashtags by industry", you "Search or filter by industry or time frame", and "See Analytics" gives
+  a hashtag's "trendline, related videos, audience insights, regional popularity, and related hashtags" (TikTok help,
+  "Last updated: July 2026"; step 1 is "Log in to Creative Center"). Metricool (upd. Nov 24 2026) calls it a "free,
+  public resource" for "all TikTok users"; Keyword Insights needs a TikTok Business Account (bir.ch, Oct 17 2025).
+  Neither guide shows a science or engineering topic filter, and whether hashtags can be set to Saudi Arabia or the
+  UAE was not checked. A weekly look at rising hashtags before the post texts are written, at most.
+  [TikTok help](https://ads.tiktok.com/help/article/how-to-use-trends),
+  [Metricool](https://metricool.com/tiktok-creative-center/), [bir.ch, Oct 17 2025](https://bir.ch/blog/tiktok-creative-center)
