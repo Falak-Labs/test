@@ -4094,3 +4094,63 @@ Free footage and pictures
 Checked, nothing new
 - A search for this month's Shorts features returned Made on YouTube (Sep 23) again (Shorts series, already here),
   and one for this month's tunnel breakthroughs, bridge openings and topping-outs returned older or undated items.
+
+## 2026-11-26 15:00 PT (hourly runner, cloud run)
+
+Free pictures
+- Seedream 5.5 is on Higgsfield, with nothing yet saying it is unlimited (new to these notes): ByteDance Seed
+  "introduced Seedream 5.5 on November 9, 2026" (Let's Data Science), and Higgsfield's page of that day says it "is now
+  available on Higgsfield" (Image, then the model list), "1 to 4 images per run at up to 2K", at 2.5 credits an image
+  at 1K and 1.5K and 3.5 at 2K (Seedream 5.0 Pro: 1.5, 1.5 and 3), "Settings and prices checked on Higgsfield on
+  November 10, 2026"; "unlimited" and "plan" do not appear in its Seedream text. New against 5.0 Pro: a transparent
+  background "in one step" (native RGBA; 5.0 Pro had "No Background setting in Image"), up to "100 rounds on the same
+  image" with "unedited areas preserved at the pixel level", and fewer broken letters ("severe text corruption rate
+  of 0.4%"): ByteDance's own demos and numbers. Same 1K, 1.5K and 2K sizes; neither page gives commercial terms. For
+  us: use it only if the website's model list shows it with the UNLIMITED badge and the button reads UNLIMITED
+  (HIGGSFIELD.md rule 1); otherwise Seedream 5.0 Pro stays the unlimited Seedream to Jan 13. A transparent PNG (one
+  object cut out, in one step) would help the long videos' thumbnails.
+  [Higgsfield, Nov 9 2026](https://higgsfield.ai/blog/seedream-5-5-higgsfield),
+  [Let's Data Science, Nov 9 2026](https://letsdatascience.com/news/bytedance-seed-launches-seedream-55-with-100-round-stable-ed-92d2e6e8)
+
+December dates (new to these notes)
+- Fri Dec 11, International Mountain Day (UN; FAO's 2026 theme "Mountain pastoralists: Sustaining rangelands,
+  knowledge and livelihoods", marked in New York on Dec 15): a date for 107, the detachable chairlift, as the ski
+  season opens. The theme itself is not for us.
+  [FAO, International Mountain Day](https://www.fao.org/international-mountain-day/en/)
+- Thu Dec 17, 123 years since the first flight at Kitty Hawk, a candidate build for that day (not in LINEUP, never
+  built; these notes have only the Smithsonian's 3D model of the 1903 Wright Flyer). Its proof still is free: the
+  Library of Congress' "[First flight, 120 feet in 12 seconds, 10:35 a.m.; Kitty Hawk, North Carolina]" ("[1903 Dec.
+  17]"; photographers listed: Wilbur and Orville Wright and John T. Daniels; LC-DIG-ppprs-00626) carries "No known
+  restrictions on publication." (LOC adds that it "does not own rights" and the user must assess them; download sizes
+  not read here). Take LOC's copy, not the Smithsonian's (siris_sic_9650 shows both "There are restrictions for
+  re-using this image" and "No restrictions"). The engineering (their wind tunnel, wing warping, their own engine and
+  propellers) is not checked yet: research it before a shot chain.
+  [Library of Congress, 00652085](https://www.loc.gov/item/00652085/),
+  [Smithsonian, siris_sic_9650](https://www.si.edu/object/siris_sic_9650)
+- Fri Dec 18, World Arabic Language Day (UNESCO, Paris; 2026 theme "Arabic Language and Cultural Diversity:
+  Celebrating Dialogue and Mutual Understanding"): a date for Kef Tenbeni, on the same day as Qatar's National Day,
+  which the Nov 24 21:50 entry pairs with Stadium 974.
+  [UN Indico, World Arabic Language Day 2026](https://indico.un.org/event/1024479/timetable/?view=standard)
+- Mon Dec 21, the winter solstice at Newgrange in Ireland, a candidate build for that day (not in LINEUP): a stone
+  mound "finished around 3200 BCE" (National Geographic), older than "the astronomical structures of Stonehenge by
+  1,000 years" (Nature abstract, 1989), whose sunrise beam comes in "not through the doorway, but through the
+  specially contrived small opening above the entrance known as the roof box" (Irish Times), "travels 19 metres along
+  the passage" (NatGeo; Nature gives the chamber floor as "18 m away": say "nearly 20 metres"), starting "around four
+  and a half minutes after sunrise" (Nature), and lights the chamber "For 17 minutes" on "the five mornings around
+  the winter solstice, from 19-23 December" (NatGeo, 2025's dates; 2026's not checked). Hook material: "just 38
+  lottery winners — chosen from 16,000 global applicants" stand inside (NatGeo, 2025), and the Office of Public Works
+  streamed it on its website and YouTube (Irish Times): the real event on the day, for a B5. It is a tomb that means
+  something to some visitors: keep the script on the stones and the light, no ritual talk, no faces. Free photos not
+  looked for yet. The OPW's own livestream press release could not be read here.
+  [National Geographic, Dec 5 2025](https://www.nationalgeographic.com/travel/article/newgrange-lottery-winter-solstice-event),
+  [Irish Times, Dec 21 2025](https://www.irishtimes.com/ireland/2025/12/28/winter-solstice-being-livestreamed-from-ancient-tomb-at-newgrange/),
+  [Nature 337, 343 (1989), ADS abstract](https://ui.adsabs.harvard.edu/abs/1989Natur.337..343R/abstract)
+
+Checked, nothing new
+- Higgsfield and Black Friday at about 14:52 PT: the results are the pages already here (dio.me, both mydealz deals,
+  aimojo, DemandSage, kripeshadwani, pepper.pl, the 11.11 page, "New Unlimited", the plan-change pages); zplatform.ai's
+  Higgsfield deals page and creatify's "Is Higgsfield free?" were seen in the results, not read. Nov 28 stands.
+- Seedance: the newest item in the results is TechNode's Oct 23 2026 report of a Seedance 2.5 4K model "for film
+  production" (title seen in a search, not read; 4K costs credits, HIGGSFIELD.md). Searches for this week's Shorts,
+  Reels and TikTok features returned Made on YouTube (Sep 23) and older posts again.
+  [TechNode, Oct 23 2026](https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/)
