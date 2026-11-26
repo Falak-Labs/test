@@ -3,954 +3,909 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 70.271,
- "words": 167,
+ "duration": 66.281,
+ "words": 158,
  "words_per_sec": 2.38,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 5.423,
+   "end": 4.881,
    "text": "Y'all, one fire, a hundred sprinklers... and only one turns on.",
    "words": [
     {
      "w": "Y'all,",
-     "start": 0.097,
-     "end": 0.776
+     "start": 0.138,
+     "end": 0.714
     },
     {
      "w": "one",
-     "start": 1.026,
-     "end": 1.24
+     "start": 0.996,
+     "end": 1.21
     },
     {
      "w": "fire,",
-     "start": 1.383,
-     "end": 1.847
+     "start": 1.281,
+     "end": 1.817
     },
     {
      "w": "a",
-     "start": 1.954,
-     "end": 2.097
+     "start": 1.924,
+     "end": 2.067
     },
     {
      "w": "hundred",
-     "start": 2.169,
-     "end": 2.526
+     "start": 2.138,
+     "end": 2.424
     },
     {
      "w": "sprinklers...",
-     "start": 2.597,
-     "end": 3.312
+     "start": 2.496,
+     "end": 3.373
     },
     {
      "w": "and",
-     "start": 3.865,
-     "end": 3.937
+     "start": 3.421,
+     "end": 3.469
     },
     {
      "w": "only",
-     "start": 4.008,
-     "end": 4.222
+     "start": 3.54,
+     "end": 3.826
     },
     {
      "w": "one",
-     "start": 4.437,
-     "end": 4.579
+     "start": 3.897,
+     "end": 4.112
     },
     {
      "w": "turns",
-     "start": 4.651,
-     "end": 5.008
+     "start": 4.219,
+     "end": 4.397
     },
     {
      "w": "on.",
-     "start": 5.079,
-     "end": 5.579
+     "start": 4.54,
+     "end": 5.04
     }
    ]
   },
   {
    "line": 2,
-   "start": 5.736,
-   "end": 9.975,
-   "text": "Fire spreads fast. So is one little sprinkler really enough?",
+   "start": 5.194,
+   "end": 8.784,
+   "text": "Fire spreads fast. So is one sprinkler enough?",
    "words": [
     {
      "w": "Fire",
-     "start": 5.829,
-     "end": 6.044
+     "start": 5.311,
+     "end": 5.525
     },
     {
      "w": "spreads",
-     "start": 6.187,
-     "end": 6.472
+     "start": 5.668,
+     "end": 5.954
     },
     {
      "w": "fast.",
-     "start": 6.615,
-     "end": 7.28
+     "start": 6.096,
+     "end": 6.739
     },
     {
      "w": "So",
-     "start": 7.428,
-     "end": 7.571
+     "start": 6.882,
+     "end": 7.096
     },
     {
      "w": "is",
-     "start": 7.642,
-     "end": 7.856
+     "start": 7.311,
+     "end": 7.596
     },
     {
      "w": "one",
-     "start": 8.071,
-     "end": 8.213
-    },
-    {
-     "w": "little",
-     "start": 8.285,
-     "end": 8.428
+     "start": 7.739,
+     "end": 7.882
     },
     {
      "w": "sprinkler",
-     "start": 8.499,
-     "end": 8.999
-    },
-    {
-     "w": "really",
-     "start": 9.142,
-     "end": 9.428
+     "start": 7.954,
+     "end": 8.311
     },
     {
      "w": "enough?",
-     "start": 9.499,
-     "end": 10.071
+     "start": 8.382,
+     "end": 8.882
     }
    ]
   },
   {
    "line": 3,
-   "start": 10.287,
-   "end": 15.146,
+   "start": 9.096,
+   "end": 13.955,
    "text": "So in eighteen seventy-four, a piano maker sealed them with metal that melts.",
    "words": [
     {
      "w": "So",
-     "start": 10.502,
-     "end": 10.645
+     "start": 9.311,
+     "end": 9.454
     },
     {
      "w": "in",
-     "start": 10.716,
-     "end": 10.859
+     "start": 9.525,
+     "end": 9.668
     },
     {
      "w": "eighteen",
-     "start": 10.93,
-     "end": 11.287
+     "start": 9.739,
+     "end": 10.096
     },
     {
      "w": "seventy-four,",
-     "start": 11.359,
-     "end": 12.305
+     "start": 10.168,
+     "end": 11.114
     },
     {
      "w": "a",
-     "start": 12.377,
-     "end": 12.448
+     "start": 11.186,
+     "end": 11.257
     },
     {
      "w": "piano",
-     "start": 12.484,
-     "end": 12.805
+     "start": 11.293,
+     "end": 11.614
     },
     {
      "w": "maker",
-     "start": 12.877,
-     "end": 13.162
+     "start": 11.686,
+     "end": 11.971
     },
     {
      "w": "sealed",
-     "start": 13.234,
-     "end": 13.52
+     "start": 12.043,
+     "end": 12.329
     },
     {
      "w": "them",
-     "start": 13.591,
-     "end": 13.662
+     "start": 12.4,
+     "end": 12.471
     },
     {
      "w": "with",
-     "start": 13.734,
-     "end": 13.805
+     "start": 12.543,
+     "end": 12.614
     },
     {
      "w": "metal",
-     "start": 13.948,
-     "end": 14.162
+     "start": 12.757,
+     "end": 12.971
     },
     {
      "w": "that",
-     "start": 14.234,
-     "end": 14.377
+     "start": 13.043,
+     "end": 13.186
     },
     {
      "w": "melts.",
-     "start": 14.52,
-     "end": 15.234
+     "start": 13.329,
+     "end": 14.043
     }
    ]
   },
   {
    "line": 4,
-   "start": 15.459,
-   "end": 20.766,
-   "text": "But in the movies, one fire opens the whole ceiling. Everything's soaked!",
+   "start": 14.268,
+   "end": 18.293,
+   "text": "But in movies, one fire soaks the whole office!",
    "words": [
     {
      "w": "But",
-     "start": 16.048,
-     "end": 16.12
+     "start": 14.911,
+     "end": 15.054
     },
     {
      "w": "in",
-     "start": 16.191,
-     "end": 16.262
-    },
-    {
-     "w": "the",
-     "start": 16.334,
-     "end": 16.405
+     "start": 15.125,
+     "end": 15.196
     },
     {
      "w": "movies,",
-     "start": 16.477,
-     "end": 17.146
+     "start": 15.268,
+     "end": 15.991
     },
     {
      "w": "one",
-     "start": 17.218,
-     "end": 17.432
+     "start": 16.062,
+     "end": 16.205
     },
     {
      "w": "fire",
-     "start": 17.504,
-     "end": 17.789
+     "start": 16.348,
+     "end": 16.634
     },
     {
-     "w": "opens",
-     "start": 17.861,
-     "end": 18.146
+     "w": "soaks",
+     "start": 16.705,
+     "end": 16.92
     },
     {
      "w": "the",
-     "start": 18.218,
-     "end": 18.289
+     "start": 16.991,
+     "end": 17.134
     },
     {
      "w": "whole",
-     "start": 18.432,
-     "end": 18.718
+     "start": 17.277,
+     "end": 17.562
     },
     {
-     "w": "ceiling.",
-     "start": 18.861,
-     "end": 19.361
-    },
-    {
-     "w": "Everything's",
-     "start": 19.566,
-     "end": 20.137
-    },
-    {
-     "w": "soaked!",
-     "start": 20.209,
-     "end": 20.923
+     "w": "office!",
+     "start": 17.634,
+     "end": 18.42
     }
    ]
   },
   {
    "line": 5,
-   "start": 21.079,
-   "end": 26.604,
+   "start": 18.605,
+   "end": 24.13,
    "text": "So each one gets its own tiny glass bulb. Heat swells the liquid... pop!",
    "words": [
     {
      "w": "So",
-     "start": 21.293,
-     "end": 21.507
+     "start": 18.82,
+     "end": 19.034
     },
     {
      "w": "each",
-     "start": 21.65,
-     "end": 21.864
+     "start": 19.177,
+     "end": 19.391
     },
     {
      "w": "one",
-     "start": 21.936,
-     "end": 22.079
+     "start": 19.462,
+     "end": 19.605
     },
     {
      "w": "gets",
-     "start": 22.15,
-     "end": 22.293
+     "start": 19.677,
+     "end": 19.82
     },
     {
      "w": "its",
-     "start": 22.364,
-     "end": 22.579
+     "start": 19.891,
+     "end": 20.105
     },
     {
      "w": "own",
-     "start": 22.65,
-     "end": 22.864
+     "start": 20.177,
+     "end": 20.391
     },
     {
      "w": "tiny",
-     "start": 22.936,
-     "end": 23.221
+     "start": 20.462,
+     "end": 20.748
     },
     {
      "w": "glass",
-     "start": 23.293,
-     "end": 23.579
+     "start": 20.82,
+     "end": 21.105
     },
     {
      "w": "bulb.",
-     "start": 23.65,
-     "end": 24.114
+     "start": 21.177,
+     "end": 21.641
     },
     {
      "w": "Heat",
-     "start": 24.204,
-     "end": 24.418
+     "start": 21.73,
+     "end": 21.945
     },
     {
      "w": "swells",
-     "start": 24.489,
-     "end": 24.846
+     "start": 22.016,
+     "end": 22.373
     },
     {
      "w": "the",
-     "start": 24.882,
-     "end": 24.918
+     "start": 22.409,
+     "end": 22.445
     },
     {
      "w": "liquid...",
-     "start": 24.989,
-     "end": 25.561
+     "start": 22.516,
+     "end": 23.087
     },
     {
      "w": "pop!",
-     "start": 26.32,
-     "end": 26.82
+     "start": 23.846,
+     "end": 24.346
     }
    ]
   },
   {
    "line": 6,
-   "start": 26.916,
-   "end": 30.1,
+   "start": 24.443,
+   "end": 27.627,
    "text": "But a hot oven could pop one, no fire at all.",
    "words": [
     {
      "w": "But",
-     "start": 27.028,
-     "end": 27.171
+     "start": 24.554,
+     "end": 24.697
     },
     {
      "w": "a",
-     "start": 27.242,
-     "end": 27.313
+     "start": 24.769,
+     "end": 24.84
     },
     {
      "w": "hot",
-     "start": 27.385,
-     "end": 27.599
+     "start": 24.912,
+     "end": 25.126
     },
     {
      "w": "oven",
-     "start": 27.671,
-     "end": 27.885
+     "start": 25.197,
+     "end": 25.412
     },
     {
      "w": "could",
-     "start": 27.992,
-     "end": 28.099
+     "start": 25.519,
+     "end": 25.626
     },
     {
      "w": "pop",
-     "start": 28.242,
-     "end": 28.385
+     "start": 25.769,
+     "end": 25.912
     },
     {
      "w": "one,",
-     "start": 28.456,
-     "end": 28.813
+     "start": 25.983,
+     "end": 26.34
     },
     {
      "w": "no",
-     "start": 28.956,
-     "end": 29.099
+     "start": 26.483,
+     "end": 26.626
     },
     {
      "w": "fire",
-     "start": 29.242,
-     "end": 29.528
+     "start": 26.769,
+     "end": 27.054
     },
     {
      "w": "at",
-     "start": 29.599,
-     "end": 29.671
+     "start": 27.126,
+     "end": 27.197
     },
     {
      "w": "all.",
-     "start": 29.849,
-     "end": 30.313
+     "start": 27.376,
+     "end": 27.84
     }
    ]
   },
   {
    "line": 7,
-   "start": 30.412,
-   "end": 35.878,
+   "start": 27.939,
+   "end": 33.404,
    "text": "So bulbs come in colors: red pops near seventy degrees, blue near a hundred twenty.",
    "words": [
     {
      "w": "So",
-     "start": 30.623,
-     "end": 30.766
+     "start": 28.151,
+     "end": 28.294
     },
     {
      "w": "bulbs",
-     "start": 30.909,
-     "end": 31.266
+     "start": 28.437,
+     "end": 28.794
     },
     {
      "w": "come",
-     "start": 31.337,
-     "end": 31.48
+     "start": 28.865,
+     "end": 29.008
     },
     {
      "w": "in",
-     "start": 31.552,
-     "end": 31.623
+     "start": 29.079,
+     "end": 29.151
     },
     {
      "w": "colors:",
-     "start": 31.695,
-     "end": 32.436
+     "start": 29.222,
+     "end": 29.963
     },
     {
      "w": "red",
-     "start": 32.507,
-     "end": 32.721
+     "start": 30.035,
+     "end": 30.249
     },
     {
      "w": "pops",
-     "start": 32.793,
-     "end": 33.079
+     "start": 30.321,
+     "end": 30.606
     },
     {
      "w": "near",
-     "start": 33.186,
-     "end": 33.293
+     "start": 30.713,
+     "end": 30.821
     },
     {
      "w": "seventy",
-     "start": 33.364,
-     "end": 33.686
+     "start": 30.892,
+     "end": 31.213
     },
     {
      "w": "degrees,",
-     "start": 33.721,
-     "end": 34.436
+     "start": 31.249,
+     "end": 31.963
     },
     {
      "w": "blue",
-     "start": 34.507,
-     "end": 34.793
+     "start": 32.035,
+     "end": 32.321
     },
     {
      "w": "near",
-     "start": 34.864,
-     "end": 35.007
+     "start": 32.392,
+     "end": 32.535
     },
     {
      "w": "a",
-     "start": 35.079,
-     "end": 35.114
+     "start": 32.606,
+     "end": 32.642
     },
     {
      "w": "hundred",
-     "start": 35.15,
-     "end": 35.293
+     "start": 32.678,
+     "end": 32.821
     },
     {
      "w": "twenty.",
-     "start": 35.436,
-     "end": 36.007
+     "start": 32.963,
+     "end": 33.535
     }
    ]
   },
   {
    "line": 8,
-   "start": 36.19,
-   "end": 40.271,
+   "start": 33.717,
+   "end": 37.797,
    "text": "But the top reason sprinklers fail? Somebody shut the water off.",
    "words": [
     {
      "w": "But",
-     "start": 36.842,
-     "end": 36.985
+     "start": 34.369,
+     "end": 34.512
     },
     {
      "w": "the",
-     "start": 37.056,
-     "end": 37.128
+     "start": 34.583,
+     "end": 34.654
     },
     {
      "w": "top",
-     "start": 37.199,
-     "end": 37.413
+     "start": 34.726,
+     "end": 34.94
     },
     {
      "w": "reason",
-     "start": 37.485,
-     "end": 37.699
+     "start": 35.012,
+     "end": 35.226
     },
     {
      "w": "sprinklers",
-     "start": 37.771,
-     "end": 38.199
+     "start": 35.297,
+     "end": 35.726
     },
     {
      "w": "fail?",
-     "start": 38.271,
-     "end": 38.69
+     "start": 35.797,
+     "end": 36.217
     },
     {
      "w": "Somebody",
-     "start": 38.833,
-     "end": 39.262
+     "start": 36.36,
+     "end": 36.788
     },
     {
      "w": "shut",
-     "start": 39.297,
-     "end": 39.404
+     "start": 36.824,
+     "end": 36.931
     },
     {
      "w": "the",
-     "start": 39.476,
-     "end": 39.547
+     "start": 37.003,
+     "end": 37.074
     },
     {
      "w": "water",
-     "start": 39.619,
-     "end": 39.833
+     "start": 37.146,
+     "end": 37.36
     },
     {
      "w": "off.",
-     "start": 39.904,
-     "end": 40.404
+     "start": 37.431,
+     "end": 37.931
     }
    ]
   },
   {
    "line": 9,
-   "start": 40.583,
-   "end": 44.283,
+   "start": 38.11,
+   "end": 41.81,
    "text": "So the main valve gets locked open, wired to an alarm.",
    "words": [
     {
      "w": "So",
-     "start": 40.797,
-     "end": 40.94
+     "start": 38.324,
+     "end": 38.467
     },
     {
      "w": "the",
-     "start": 41.012,
-     "end": 41.154
+     "start": 38.538,
+     "end": 38.681
     },
     {
      "w": "main",
-     "start": 41.297,
-     "end": 41.44
+     "start": 38.824,
+     "end": 38.967
     },
     {
      "w": "valve",
-     "start": 41.512,
-     "end": 41.726
+     "start": 39.038,
+     "end": 39.253
     },
     {
      "w": "gets",
-     "start": 41.797,
-     "end": 41.94
+     "start": 39.324,
+     "end": 39.467
     },
     {
      "w": "locked",
-     "start": 42.012,
-     "end": 42.226
+     "start": 39.538,
+     "end": 39.753
     },
     {
      "w": "open,",
-     "start": 42.369,
-     "end": 42.931
+     "start": 39.896,
+     "end": 40.458
     },
     {
      "w": "wired",
-     "start": 43.003,
-     "end": 43.36
+     "start": 40.529,
+     "end": 40.887
     },
     {
      "w": "to",
-     "start": 43.431,
-     "end": 43.503
+     "start": 40.958,
+     "end": 41.029
     },
     {
      "w": "an",
-     "start": 43.538,
-     "end": 43.574
+     "start": 41.065,
+     "end": 41.101
     },
     {
      "w": "alarm.",
-     "start": 43.646,
-     "end": 44.431
+     "start": 41.172,
+     "end": 41.958
     }
    ]
   },
   {
    "line": 10,
-   "start": 44.596,
-   "end": 48.861,
+   "start": 42.122,
+   "end": 46.387,
    "text": "Hit follow, 'cause next we're building towers that open umbrellas in the sun.",
    "words": [
     {
      "w": "Hit",
-     "start": 44.667,
-     "end": 44.81
+     "start": 42.194,
+     "end": 42.337
     },
     {
      "w": "follow,",
-     "start": 44.953,
-     "end": 45.488
+     "start": 42.479,
+     "end": 43.015
     },
     {
      "w": "'cause",
-     "start": 45.596,
-     "end": 45.81
+     "start": 43.122,
+     "end": 43.337
     },
     {
      "w": "next",
-     "start": 45.881,
-     "end": 46.167
+     "start": 43.408,
+     "end": 43.694
     },
     {
      "w": "we're",
-     "start": 46.238,
-     "end": 46.381
+     "start": 43.765,
+     "end": 43.908
     },
     {
      "w": "building",
-     "start": 46.56,
-     "end": 46.738
+     "start": 44.087,
+     "end": 44.265
     },
     {
      "w": "towers",
-     "start": 46.774,
-     "end": 47.096
+     "start": 44.301,
+     "end": 44.622
     },
     {
      "w": "that",
-     "start": 47.167,
-     "end": 47.31
+     "start": 44.694,
+     "end": 44.837
     },
     {
      "w": "open",
-     "start": 47.417,
-     "end": 47.524
+     "start": 44.944,
+     "end": 45.051
     },
     {
      "w": "umbrellas",
-     "start": 47.596,
-     "end": 48.096
+     "start": 45.122,
+     "end": 45.622
     },
     {
      "w": "in",
-     "start": 48.131,
-     "end": 48.167
+     "start": 45.658,
+     "end": 45.694
     },
     {
      "w": "the",
-     "start": 48.238,
-     "end": 48.381
+     "start": 45.765,
+     "end": 45.908
     },
     {
      "w": "sun.",
-     "start": 48.56,
-     "end": 48.953
+     "start": 46.087,
+     "end": 46.479
     }
    ]
   },
   {
    "line": 11,
-   "start": 49.173,
-   "end": 54.946,
-   "text": "The answer? Usually, yes! In most fires, one sprinkler did the whole job.",
+   "start": 46.7,
+   "end": 51.588,
+   "text": "The answer? Usually, yes! In most fires, one did the job.",
    "words": [
     {
      "w": "The",
-     "start": 49.387,
-     "end": 49.53
+     "start": 46.914,
+     "end": 47.057
     },
     {
      "w": "answer?",
-     "start": 49.602,
-     "end": 50.191
+     "start": 47.129,
+     "end": 47.771
     },
     {
      "w": "Usually,",
-     "start": 50.405,
-     "end": 50.905
+     "start": 47.986,
+     "end": 48.486
     },
     {
      "w": "yes!",
-     "start": 50.977,
-     "end": 51.477
+     "start": 48.557,
+     "end": 49.021
     },
     {
      "w": "In",
-     "start": 52.12,
-     "end": 52.191
+     "start": 49.557,
+     "end": 49.629
     },
     {
      "w": "most",
-     "start": 52.298,
-     "end": 52.405
+     "start": 49.7,
+     "end": 49.914
     },
     {
      "w": "fires,",
-     "start": 52.477,
-     "end": 53.012
+     "start": 49.986,
+     "end": 50.557
     },
     {
      "w": "one",
-     "start": 53.12,
-     "end": 53.262
-    },
-    {
-     "w": "sprinkler",
-     "start": 53.334,
-     "end": 53.691
+     "start": 50.629,
+     "end": 50.771
     },
     {
      "w": "did",
-     "start": 53.762,
-     "end": 53.905
+     "start": 50.843,
+     "end": 50.914
     },
     {
      "w": "the",
-     "start": 54.012,
-     "end": 54.12
-    },
-    {
-     "w": "whole",
-     "start": 54.191,
-     "end": 54.405
+     "start": 50.986,
+     "end": 51.057
     },
     {
      "w": "job.",
-     "start": 54.548,
-     "end": 55.12
+     "start": 51.129,
+     "end": 51.7
     }
    ]
   },
   {
    "line": 12,
-   "start": 55.258,
-   "end": 59.88,
+   "start": 51.901,
+   "end": 56.523,
    "text": "One glass bulb, about seventy degrees, and one sprinkler for most fires.",
    "words": [
     {
      "w": "One",
-     "start": 55.401,
-     "end": 55.472
+     "start": 52.044,
+     "end": 52.115
     },
     {
      "w": "glass",
-     "start": 55.615,
-     "end": 55.829
+     "start": 52.258,
+     "end": 52.472
     },
     {
      "w": "bulb,",
-     "start": 55.972,
-     "end": 56.365
+     "start": 52.615,
+     "end": 53.008
     },
     {
      "w": "about",
-     "start": 56.472,
-     "end": 56.758
+     "start": 53.115,
+     "end": 53.401
     },
     {
      "w": "seventy",
-     "start": 56.901,
-     "end": 57.151
+     "start": 53.544,
+     "end": 53.794
     },
     {
      "w": "degrees,",
-     "start": 57.187,
-     "end": 57.794
+     "start": 53.829,
+     "end": 54.437
     },
     {
      "w": "and",
-     "start": 57.901,
-     "end": 58.044
+     "start": 54.544,
+     "end": 54.687
     },
     {
      "w": "one",
-     "start": 58.187,
-     "end": 58.329
+     "start": 54.829,
+     "end": 54.972
     },
     {
      "w": "sprinkler",
-     "start": 58.401,
-     "end": 58.829
+     "start": 55.044,
+     "end": 55.472
     },
     {
      "w": "for",
-     "start": 58.901,
-     "end": 58.972
+     "start": 55.544,
+     "end": 55.615
     },
     {
      "w": "most",
-     "start": 59.044,
-     "end": 59.258
+     "start": 55.687,
+     "end": 55.901
     },
     {
      "w": "fires.",
-     "start": 59.329,
-     "end": 59.901
+     "start": 55.972,
+     "end": 56.544
     }
    ]
   },
   {
    "line": 13,
-   "start": 60.193,
-   "end": 63.592,
+   "start": 56.836,
+   "end": 60.235,
    "text": "And congrats, you just built a fire sprinkler yourself.",
    "words": [
     {
      "w": "And",
-     "start": 60.315,
-     "end": 60.336
+     "start": 56.958,
+     "end": 56.979
     },
     {
      "w": "congrats,",
-     "start": 60.407,
-     "end": 61.3
+     "start": 57.05,
+     "end": 57.943
     },
     {
      "w": "you",
-     "start": 61.479,
-     "end": 61.621
+     "start": 58.121,
+     "end": 58.264
     },
     {
      "w": "just",
-     "start": 61.729,
-     "end": 61.836
+     "start": 58.371,
+     "end": 58.479
     },
     {
      "w": "built",
-     "start": 61.907,
-     "end": 61.979
+     "start": 58.55,
+     "end": 58.621
     },
     {
      "w": "a",
-     "start": 62.05,
-     "end": 62.193
+     "start": 58.693,
+     "end": 58.836
     },
     {
      "w": "fire",
-     "start": 62.336,
-     "end": 62.479
+     "start": 58.979,
+     "end": 59.121
     },
     {
      "w": "sprinkler",
-     "start": 62.55,
-     "end": 62.907
+     "start": 59.193,
+     "end": 59.55
     },
     {
      "w": "yourself.",
-     "start": 63.014,
-     "end": 63.693
+     "start": 59.657,
+     "end": 60.336
     }
    ]
   },
   {
    "line": 14,
-   "start": 63.904,
-   "end": 70.261,
-   "text": "Ninety candles on grandpa's cake, and everybody stares at the sprinkler. Nothing!",
+   "start": 60.547,
+   "end": 66.267,
+   "text": "Ninety candles on grandpa's cake... and everybody stares up. Nothing!",
    "words": [
     {
      "w": "Ninety",
-     "start": 64.262,
-     "end": 64.976
+     "start": 60.802,
+     "end": 61.65
     },
     {
      "w": "candles",
-     "start": 65.047,
-     "end": 65.404
+     "start": 61.721,
+     "end": 62.079
     },
     {
      "w": "on",
-     "start": 65.476,
-     "end": 65.547
+     "start": 62.15,
+     "end": 62.221
     },
     {
      "w": "grandpa's",
-     "start": 65.619,
-     "end": 66.119
+     "start": 62.293,
+     "end": 62.793
     },
     {
-     "w": "cake,",
-     "start": 66.19,
-     "end": 66.619
+     "w": "cake...",
+     "start": 62.864,
+     "end": 63.382
     },
     {
      "w": "and",
-     "start": 66.726,
-     "end": 66.833
+     "start": 64.068,
+     "end": 64.096
     },
     {
      "w": "everybody",
-     "start": 66.976,
-     "end": 67.476
+     "start": 64.239,
+     "end": 64.739
     },
     {
      "w": "stares",
-     "start": 67.547,
-     "end": 67.833
+     "start": 64.811,
+     "end": 65.096
     },
     {
-     "w": "at",
-     "start": 67.904,
-     "end": 67.976
-    },
-    {
-     "w": "the",
-     "start": 68.012,
-     "end": 68.047
-    },
-    {
-     "w": "sprinkler.",
-     "start": 68.119,
-     "end": 68.717
+     "w": "up.",
+     "start": 65.168,
+     "end": 65.431
     },
     {
      "w": "Nothing!",
-     "start": 69.556,
-     "end": 70.485
+     "start": 65.677,
+     "end": 66.462
     }
    ]
   }
