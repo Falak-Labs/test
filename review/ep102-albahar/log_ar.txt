@@ -1,0 +1,7 @@
+albahar_ar_sa: 71.91s, 2157 frames
+cover out/albahar_ar_sa/cover.png: ['أبراج البحر'] (frame 0 of the video)
+video done in 494s
+audio done
+final out/albahar_ar_sa/albahar_ar_sa_final.mp4
+QA  duration 71.90s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2157
+QA sheet out/albahar_ar_sa/qa_sheet.png

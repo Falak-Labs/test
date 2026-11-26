@@ -1,0 +1,241 @@
+{
+ "slug": "ep102-albahar",
+ "kit": "albahar",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, these towers in Abu Dhabi open umbrellas when the sun hits.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Desert sun bakes glass offices. How much heat can umbrellas stop?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So most towers get dark tinted glass. [chuckles] Glare gone!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But now it's gloomy inside, with the lights on at noon.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So they borrowed the mashrabiya, an old Arab wooden screen.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But a fixed screen stays shut, even when the sun moves on.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So these move! Each umbrella has a motor, and a computer tracks the sun.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But open umbrellas in a sandstorm? They'd catch the wind like sails.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So sensors on the roof fold them halfway till the storm passes.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building bubble wrap. [chuckles] It started as wallpaper!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? About half the heat! [chuckles] So the glass can stay clear.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Two towers, two thousand umbrellas, and one computer chasing the sun.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built the Al Bahar Towers yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] Two thousand umbrellas fold themselves... [laughs harder] and you can't fold your car's sun shade.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "16/161",
+   "mix_lines_off": [
+    "L 2 1 diff  | Desert Sun bakes glass offices. How much heat can Umbrella stop?",
+    "L 3 3 diff  | Most towers get dark tinniglass. Glare gone.",
+    "L 5 1 diff  | So they borrowed the meshravia, an old Arab wooden screen.",
+    "L 6 1 diff  | But a fixed green stays shut, even when the sun moves on.",
+    "L 7 1 diff  | Well, these move! Each umbrella has a motor and a computer tracks the sun.",
+    "L 9 1 diff  | So sensors on the roof fold them halfway until the storm passes.",
+    "L10 1 diff  | Hit follow cuz next we're building bubble wrap. It started as wallpaper.",
+    "L12 1 diff  | Two towers, 2,000 umbrellas, and one computer chasing the sun.",
+    "L13 2 diff  | And congrats, you just built the Albahar Towers yourself!",
+    "L14 4 diff  | 2000 umbrellas fold themselves and you can't fold your car's sunshade"
+   ],
+   "size_mb": 22.6,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، أبراج في أبوظبي تفتح مظلاتها إذا جتها الشمس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] شمس الصحرا تخلي مكاتب الزجاج أفران. طيب المظلات كم توقف من الحر؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فأغلب الأبراج تحط زجاج غامق. [chuckles] راح الوهج!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس صار المكتب كئيب، والأنوار شغالة الظهر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فأخذوا فكرة عربية قديمة: المشربية، شباك خشب يقطّع الشمس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس المشربية العادية ثابتة، حتى لو راحت الشمس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فهالمشربيات تتحرك! كل مظلة فيها موتور، وكمبيوتر يلحق الشمس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس مظلات مفتوحة في العجاج؟ تصير أشرعة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فحساسات فوق السطح تسكّرها لنصها، لين تعدّي العاصفة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني نايلون الفقاعات. [chuckles] إي والله، كان ورق جدران.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ تقريباً نص حر الشمس! [chuckles] عشان كذا الزجاج يقدر يظل شفاف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] برجين، أكثر من ألفين مظلة، وكمبيوتر واحد يلحق الشمس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك أبراج البحر بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] ألفين مظلة تتسكر لحالها... [laughs harder] وأنت للحين تتهاوش مع مظلة السيارة عشان تطويها!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 71.9,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 22.7,
+   "cover": true
+  }
+ }
+}
