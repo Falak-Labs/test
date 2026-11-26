@@ -1,935 +1,940 @@
 {
  "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
  "model": "eleven_v4",
- "tempo": 1.111,
+ "tempo": 1.1146,
  "gap": 0.35,
- "duration": 65.999,
- "words": 163,
- "words_per_sec": 2.47,
+ "duration": 66.016,
+ "words": 164,
+ "words_per_sec": 2.48,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 4.788,
+   "end": 4.772,
    "text": "Y'all, instant noodles are full of tiny holes. On purpose.",
    "words": [
     {
      "w": "Y'all,",
      "start": 0.107,
-     "end": 0.719
+     "end": 0.717
     },
     {
      "w": "instant",
-     "start": 0.899,
-     "end": 1.259
+     "start": 0.896,
+     "end": 1.255
     },
     {
      "w": "noodles",
-     "start": 1.331,
-     "end": 1.619
+     "start": 1.327,
+     "end": 1.614
     },
     {
      "w": "are",
-     "start": 1.727,
-     "end": 1.835
+     "start": 1.722,
+     "end": 1.829
     },
     {
      "w": "full",
-     "start": 1.907,
-     "end": 2.123
+     "start": 1.901,
+     "end": 2.116
     },
     {
      "w": "of",
-     "start": 2.195,
-     "end": 2.267
+     "start": 2.188,
+     "end": 2.26
     },
     {
      "w": "tiny",
-     "start": 2.339,
-     "end": 2.627
+     "start": 2.332,
+     "end": 2.619
     },
     {
      "w": "holes.",
-     "start": 2.699,
-     "end": 3.204
+     "start": 2.691,
+     "end": 3.193
     },
     {
      "w": "On",
-     "start": 3.78,
-     "end": 3.924
+     "start": 3.767,
+     "end": 3.911
     },
     {
      "w": "purpose.",
-     "start": 4.068,
-     "end": 4.86
+     "start": 4.054,
+     "end": 4.844
     }
    ]
   },
   {
    "line": 2,
-   "start": 5.103,
-   "end": 8.79,
+   "start": 5.086,
+   "end": 8.761,
    "text": "Fresh noodles go bad in days. So what are the holes for?",
    "words": [
     {
      "w": "Fresh",
-     "start": 5.222,
-     "end": 5.438
+     "start": 5.205,
+     "end": 5.42
     },
     {
      "w": "noodles",
-     "start": 5.51,
-     "end": 5.87
+     "start": 5.492,
+     "end": 5.851
     },
     {
      "w": "go",
-     "start": 5.942,
-     "end": 6.014
+     "start": 5.922,
+     "end": 5.994
     },
     {
      "w": "bad",
-     "start": 6.086,
-     "end": 6.302
+     "start": 6.066,
+     "end": 6.281
     },
     {
      "w": "in",
-     "start": 6.374,
-     "end": 6.446
+     "start": 6.353,
+     "end": 6.425
     },
     {
      "w": "days.",
-     "start": 6.59,
-     "end": 7.274
+     "start": 6.568,
+     "end": 7.25
     },
     {
      "w": "So",
-     "start": 7.418,
-     "end": 7.562
+     "start": 7.394,
+     "end": 7.537
     },
     {
      "w": "what",
-     "start": 7.706,
-     "end": 7.778
+     "start": 7.681,
+     "end": 7.753
     },
     {
      "w": "are",
-     "start": 7.85,
-     "end": 7.922
+     "start": 7.824,
+     "end": 7.896
     },
     {
      "w": "the",
-     "start": 7.958,
-     "end": 7.994
+     "start": 7.932,
+     "end": 7.968
     },
     {
      "w": "holes",
-     "start": 8.066,
-     "end": 8.354
+     "start": 8.04,
+     "end": 8.327
     },
     {
      "w": "for?",
-     "start": 8.426,
-     "end": 8.93
+     "start": 8.399,
+     "end": 8.901
     }
    ]
   },
   {
    "line": 3,
-   "start": 9.105,
-   "end": 13.109,
+   "start": 9.075,
+   "end": 13.067,
    "text": "So you dry them out. No water inside, nothing spoils.",
    "words": [
     {
      "w": "So",
-     "start": 9.321,
-     "end": 9.537
+     "start": 9.291,
+     "end": 9.506
     },
     {
      "w": "you",
-     "start": 9.609,
-     "end": 9.753
+     "start": 9.578,
+     "end": 9.721
     },
     {
      "w": "dry",
-     "start": 9.825,
-     "end": 10.041
+     "start": 9.793,
+     "end": 10.008
     },
     {
      "w": "them",
-     "start": 10.149,
-     "end": 10.257
+     "start": 10.116,
+     "end": 10.224
     },
     {
      "w": "out.",
-     "start": 10.329,
-     "end": 10.662
+     "start": 10.295,
+     "end": 10.627
     },
     {
      "w": "No",
-     "start": 10.824,
-     "end": 10.968
+     "start": 10.789,
+     "end": 10.932
     },
     {
      "w": "water",
-     "start": 11.04,
-     "end": 11.256
+     "start": 11.004,
+     "end": 11.219
     },
     {
      "w": "inside,",
-     "start": 11.328,
-     "end": 12.048
+     "start": 11.291,
+     "end": 12.009
     },
     {
      "w": "nothing",
-     "start": 12.12,
-     "end": 12.408
+     "start": 12.081,
+     "end": 12.368
     },
     {
      "w": "spoils.",
-     "start": 12.516,
-     "end": 13.2
+     "start": 12.476,
+     "end": 13.157
     }
    ]
   },
   {
    "line": 4,
-   "start": 13.424,
-   "end": 17.742,
+   "start": 13.381,
+   "end": 17.685,
    "text": "But dry noodles cook slow, and hungry people hate waiting.",
    "words": [
     {
      "w": "But",
-     "start": 13.968,
-     "end": 14.112
+     "start": 13.923,
+     "end": 14.066
     },
     {
      "w": "dry",
-     "start": 14.184,
-     "end": 14.472
+     "start": 14.138,
+     "end": 14.425
     },
     {
      "w": "noodles",
-     "start": 14.544,
-     "end": 14.832
+     "start": 14.497,
+     "end": 14.784
     },
     {
      "w": "cook",
-     "start": 14.904,
-     "end": 15.12
+     "start": 14.856,
+     "end": 15.071
     },
     {
      "w": "slow,",
-     "start": 15.192,
-     "end": 15.831
+     "start": 15.143,
+     "end": 15.78
     },
     {
      "w": "and",
-     "start": 15.903,
-     "end": 15.975
+     "start": 15.852,
+     "end": 15.924
     },
     {
      "w": "hungry",
-     "start": 16.047,
-     "end": 16.335
+     "start": 15.995,
+     "end": 16.282
     },
     {
      "w": "people",
-     "start": 16.407,
-     "end": 16.695
+     "start": 16.354,
+     "end": 16.641
     },
     {
      "w": "hate",
-     "start": 16.912,
-     "end": 17.128
+     "start": 16.857,
+     "end": 17.072
     },
     {
      "w": "waiting.",
-     "start": 17.2,
-     "end": 17.92
+     "start": 17.144,
+     "end": 17.861
     }
    ]
   },
   {
    "line": 5,
-   "start": 18.057,
-   "end": 22.648,
+   "start": 17.999,
+   "end": 22.574,
    "text": "So in a backyard shed, Momofuku Ando fried them, like tempura.",
    "words": [
     {
      "w": "So",
-     "start": 18.254,
-     "end": 18.399
+     "start": 18.195,
+     "end": 18.339
     },
     {
      "w": "in",
-     "start": 18.471,
-     "end": 18.615
+     "start": 18.411,
+     "end": 18.554
     },
     {
      "w": "a",
-     "start": 18.687,
-     "end": 18.759
+     "start": 18.626,
+     "end": 18.698
     },
     {
      "w": "backyard",
-     "start": 18.903,
-     "end": 19.263
+     "start": 18.841,
+     "end": 19.2
     },
     {
      "w": "shed,",
-     "start": 19.335,
-     "end": 19.983
+     "start": 19.272,
+     "end": 19.918
     },
     {
      "w": "Momofuku",
-     "start": 20.091,
-     "end": 20.559
+     "start": 20.026,
+     "end": 20.492
     },
     {
      "w": "Ando",
-     "start": 20.667,
-     "end": 20.847
+     "start": 20.6,
+     "end": 20.779
     },
     {
      "w": "fried",
-     "start": 20.991,
-     "end": 21.279
+     "start": 20.923,
+     "end": 21.21
     },
     {
      "w": "them,",
-     "start": 21.387,
-     "end": 21.711
+     "start": 21.317,
+     "end": 21.64
     },
     {
      "w": "like",
-     "start": 21.819,
-     "end": 21.927
+     "start": 21.748,
+     "end": 21.856
     },
     {
      "w": "tempura.",
-     "start": 22.071,
-     "end": 22.791
+     "start": 21.999,
+     "end": 22.717
     }
    ]
   },
   {
    "line": 6,
-   "start": 22.963,
-   "end": 25.096,
+   "start": 22.888,
+   "end": 25.015,
    "text": "But you still need a pot and a stove.",
    "words": [
     {
      "w": "But",
-     "start": 23.179,
-     "end": 23.323
+     "start": 23.104,
+     "end": 23.247
     },
     {
      "w": "you",
-     "start": 23.395,
-     "end": 23.467
+     "start": 23.319,
+     "end": 23.391
     },
     {
      "w": "still",
-     "start": 23.539,
-     "end": 23.755
+     "start": 23.463,
+     "end": 23.678
     },
     {
      "w": "need",
-     "start": 23.827,
-     "end": 23.971
+     "start": 23.75,
+     "end": 23.893
     },
     {
      "w": "a",
-     "start": 24.007,
-     "end": 24.043
+     "start": 23.929,
+     "end": 23.965
     },
     {
      "w": "pot",
-     "start": 24.115,
-     "end": 24.331
+     "start": 24.037,
+     "end": 24.252
     },
     {
      "w": "and",
-     "start": 24.367,
-     "end": 24.403
+     "start": 24.288,
+     "end": 24.324
     },
     {
      "w": "a",
-     "start": 24.439,
-     "end": 24.475
+     "start": 24.36,
+     "end": 24.396
     },
     {
      "w": "stove.",
-     "start": 24.547,
-     "end": 25.339
+     "start": 24.468,
+     "end": 25.257
     }
    ]
   },
   {
    "line": 7,
-   "start": 25.411,
-   "end": 28.829,
+   "start": 25.329,
+   "end": 28.736,
    "text": "So he put the noodles in a cup. Just add hot water.",
    "words": [
     {
      "w": "So",
-     "start": 25.62,
-     "end": 25.764
+     "start": 25.537,
+     "end": 25.681
     },
     {
      "w": "he",
-     "start": 25.836,
-     "end": 26.052
+     "start": 25.752,
+     "end": 25.968
     },
     {
      "w": "put",
-     "start": 26.124,
-     "end": 26.196
+     "start": 26.039,
+     "end": 26.111
     },
     {
      "w": "the",
-     "start": 26.268,
-     "end": 26.34
+     "start": 26.183,
+     "end": 26.255
     },
     {
      "w": "noodles",
-     "start": 26.412,
-     "end": 26.772
+     "start": 26.327,
+     "end": 26.685
     },
     {
      "w": "in",
-     "start": 26.808,
-     "end": 26.844
+     "start": 26.721,
+     "end": 26.757
     },
     {
      "w": "a",
-     "start": 26.916,
-     "end": 26.988
+     "start": 26.829,
+     "end": 26.901
     },
     {
      "w": "cup.",
-     "start": 27.06,
-     "end": 27.69
+     "start": 26.973,
+     "end": 27.601
     },
     {
      "w": "Just",
-     "start": 27.762,
-     "end": 27.907
+     "start": 27.672,
+     "end": 27.816
     },
     {
      "w": "add",
-     "start": 28.015,
-     "end": 28.123
+     "start": 27.924,
+     "end": 28.031
     },
     {
      "w": "hot",
-     "start": 28.231,
-     "end": 28.339
+     "start": 28.139,
+     "end": 28.247
     },
     {
      "w": "water.",
-     "start": 28.411,
-     "end": 28.987
+     "start": 28.318,
+     "end": 28.893
     }
    ]
   },
   {
    "line": 8,
-   "start": 29.144,
-   "end": 34.042,
+   "start": 29.05,
+   "end": 33.931,
    "text": "But on a bumpy road the noodles crack, and water can't reach the bottom.",
    "words": [
     {
      "w": "But",
-     "start": 29.857,
-     "end": 30.001
+     "start": 29.76,
+     "end": 29.904
     },
     {
      "w": "on",
-     "start": 30.073,
-     "end": 30.145
+     "start": 29.975,
+     "end": 30.047
     },
     {
      "w": "a",
-     "start": 30.217,
-     "end": 30.289
+     "start": 30.119,
+     "end": 30.191
     },
     {
      "w": "bumpy",
-     "start": 30.361,
-     "end": 30.649
+     "start": 30.263,
+     "end": 30.55
     },
     {
      "w": "road",
-     "start": 30.721,
-     "end": 31.081
+     "start": 30.621,
+     "end": 30.98
     },
     {
      "w": "the",
-     "start": 31.297,
-     "end": 31.369
+     "start": 31.196,
+     "end": 31.267
     },
     {
      "w": "noodles",
-     "start": 31.441,
-     "end": 31.729
+     "start": 31.339,
+     "end": 31.626
     },
     {
      "w": "crack,",
-     "start": 31.873,
-     "end": 32.332
+     "start": 31.77,
+     "end": 32.227
     },
     {
      "w": "and",
-     "start": 32.404,
-     "end": 32.476
+     "start": 32.299,
+     "end": 32.371
     },
     {
      "w": "water",
-     "start": 32.548,
-     "end": 32.836
+     "start": 32.443,
+     "end": 32.73
     },
     {
      "w": "can't",
-     "start": 32.908,
-     "end": 33.125
+     "start": 32.802,
+     "end": 33.017
     },
     {
      "w": "reach",
-     "start": 33.197,
-     "end": 33.341
+     "start": 33.089,
+     "end": 33.232
     },
     {
      "w": "the",
-     "start": 33.413,
-     "end": 33.485
+     "start": 33.304,
+     "end": 33.376
     },
     {
      "w": "bottom.",
-     "start": 33.557,
-     "end": 34.205
+     "start": 33.448,
+     "end": 34.094
     }
    ]
   },
   {
    "line": 9,
-   "start": 34.357,
-   "end": 38.055,
+   "start": 34.245,
+   "end": 37.932,
    "text": "So the block hangs mid-cup, with room for water underneath.",
    "words": [
     {
      "w": "So",
-     "start": 34.501,
-     "end": 34.645
+     "start": 34.389,
+     "end": 34.532
     },
     {
      "w": "the",
-     "start": 34.717,
-     "end": 34.789
+     "start": 34.604,
+     "end": 34.676
     },
     {
      "w": "block",
-     "start": 34.861,
-     "end": 35.149
+     "start": 34.748,
+     "end": 35.035
     },
     {
      "w": "hangs",
-     "start": 35.221,
-     "end": 35.509
+     "start": 35.107,
+     "end": 35.394
     },
     {
      "w": "mid-cup,",
-     "start": 35.653,
-     "end": 36.301
+     "start": 35.537,
+     "end": 36.183
     },
     {
      "w": "with",
-     "start": 36.589,
-     "end": 36.733
+     "start": 36.47,
+     "end": 36.614
     },
     {
      "w": "room",
-     "start": 36.805,
-     "end": 36.949
+     "start": 36.686,
+     "end": 36.829
     },
     {
      "w": "for",
-     "start": 37.021,
-     "end": 37.093
+     "start": 36.901,
+     "end": 36.973
     },
     {
      "w": "water",
-     "start": 37.165,
-     "end": 37.453
+     "start": 37.045,
+     "end": 37.332
     },
     {
      "w": "underneath.",
-     "start": 37.525,
-     "end": 38.317
+     "start": 37.403,
+     "end": 38.193
     }
    ]
   },
   {
    "line": 10,
-   "start": 38.37,
-   "end": 44.156,
+   "start": 38.246,
+   "end": 44.012,
    "text": "Hit follow, 'cause next is Build one hundred... a tower going past one kilometer.",
    "words": [
     {
      "w": "Hit",
-     "start": 38.437,
-     "end": 38.581
+     "start": 38.312,
+     "end": 38.456
     },
     {
      "w": "follow,",
-     "start": 38.725,
-     "end": 39.301
+     "start": 38.599,
+     "end": 39.174
     },
     {
      "w": "'cause",
-     "start": 39.445,
-     "end": 39.661
+     "start": 39.317,
+     "end": 39.532
     },
     {
      "w": "next",
-     "start": 39.733,
-     "end": 40.021
+     "start": 39.604,
+     "end": 39.891
     },
     {
      "w": "is",
-     "start": 40.093,
-     "end": 40.237
+     "start": 39.963,
+     "end": 40.107
     },
     {
      "w": "Build",
-     "start": 40.309,
-     "end": 40.525
+     "start": 40.178,
+     "end": 40.394
     },
     {
      "w": "one",
-     "start": 40.597,
-     "end": 40.741
+     "start": 40.466,
+     "end": 40.609
     },
     {
      "w": "hundred...",
-     "start": 40.813,
-     "end": 41.389
+     "start": 40.681,
+     "end": 41.255
     },
     {
      "w": "a",
-     "start": 41.533,
-     "end": 41.677
+     "start": 41.399,
+     "end": 41.542
     },
     {
      "w": "tower",
-     "start": 41.858,
-     "end": 42.038
+     "start": 41.722,
+     "end": 41.901
     },
     {
      "w": "going",
-     "start": 42.182,
-     "end": 42.326
+     "start": 42.045,
+     "end": 42.188
     },
     {
      "w": "past",
-     "start": 42.47,
-     "end": 42.614
+     "start": 42.332,
+     "end": 42.475
     },
     {
      "w": "one",
-     "start": 42.758,
-     "end": 42.902
+     "start": 42.619,
+     "end": 42.762
     },
     {
      "w": "kilometer.",
-     "start": 43.046,
-     "end": 43.694
+     "start": 42.906,
+     "end": 43.552
     }
    ]
   },
   {
    "line": 11,
-   "start": 44.471,
-   "end": 50.338,
-   "text": "The answer? Frying blasts the water out, leaving tiny holes... and hot water rushes back in!",
+   "start": 44.326,
+   "end": 50.389,
+   "text": "The answer? Frying blasts the water out, leaving tiny holes... and hot water soaks right back in!",
    "words": [
     {
      "w": "The",
-     "start": 44.682,
-     "end": 44.826
+     "start": 44.47,
+     "end": 44.613
     },
     {
      "w": "answer?",
-     "start": 44.898,
-     "end": 45.461
+     "start": 44.685,
+     "end": 45.268
     },
     {
      "w": "Frying",
-     "start": 45.537,
-     "end": 45.969
+     "start": 45.519,
+     "end": 45.878
     },
     {
      "w": "blasts",
-     "start": 46.041,
-     "end": 46.473
+     "start": 46.022,
+     "end": 46.453
     },
     {
      "w": "the",
-     "start": 46.509,
-     "end": 46.545
+     "start": 46.488,
+     "end": 46.524
     },
     {
      "w": "water",
-     "start": 46.617,
-     "end": 46.905
+     "start": 46.596,
+     "end": 46.811
     },
     {
      "w": "out,",
-     "start": 46.977,
-     "end": 47.193
+     "start": 46.883,
+     "end": 47.099
     },
     {
      "w": "leaving",
-     "start": 47.265,
-     "end": 47.553
+     "start": 47.17,
+     "end": 47.457
     },
     {
      "w": "tiny",
-     "start": 47.734,
-     "end": 47.914
+     "start": 47.637,
+     "end": 47.816
     },
     {
      "w": "holes...",
-     "start": 47.986,
-     "end": 48.526
+     "start": 47.888,
+     "end": 48.51
     },
     {
      "w": "and",
-     "start": 48.562,
-     "end": 48.706
+     "start": 48.558,
+     "end": 48.606
     },
     {
      "w": "hot",
-     "start": 48.814,
-     "end": 48.922
+     "start": 48.678,
+     "end": 48.821
     },
     {
      "w": "water",
-     "start": 48.994,
-     "end": 49.282
+     "start": 48.893,
+     "end": 49.108
     },
     {
-     "w": "rushes",
-     "start": 49.39,
-     "end": 49.642
+     "w": "soaks",
+     "start": 49.18,
+     "end": 49.467
+    },
+    {
+     "w": "right",
+     "start": 49.539,
+     "end": 49.754
     },
     {
      "w": "back",
-     "start": 49.714,
-     "end": 49.858
+     "start": 49.862,
+     "end": 49.97
     },
     {
      "w": "in!",
-     "start": 50.002,
-     "end": 50.434
+     "start": 50.041,
+     "end": 50.544
     }
    ]
   },
   {
    "line": 12,
-   "start": 50.654,
-   "end": 56.339,
+   "start": 50.703,
+   "end": 56.37,
    "text": "Nineteen fifty-eight, one year in a shed, and a hundred twenty-four billion servings last year.",
    "words": [
     {
      "w": "Nineteen",
-     "start": 50.798,
-     "end": 51.302
+     "start": 50.847,
+     "end": 51.349
     },
     {
      "w": "fifty-eight,",
-     "start": 51.398,
-     "end": 52.166
+     "start": 51.445,
+     "end": 52.211
     },
     {
      "w": "one",
-     "start": 52.238,
-     "end": 52.382
+     "start": 52.283,
+     "end": 52.426
     },
     {
      "w": "year",
-     "start": 52.454,
-     "end": 52.598
+     "start": 52.498,
+     "end": 52.641
     },
     {
      "w": "in",
-     "start": 52.634,
-     "end": 52.67
+     "start": 52.677,
+     "end": 52.713
     },
     {
      "w": "a",
-     "start": 52.742,
-     "end": 52.814
+     "start": 52.785,
+     "end": 52.857
     },
     {
      "w": "shed,",
-     "start": 52.958,
-     "end": 53.318
+     "start": 53.0,
+     "end": 53.359
     },
     {
      "w": "and",
-     "start": 53.39,
-     "end": 53.462
+     "start": 53.431,
+     "end": 53.503
     },
     {
      "w": "a",
-     "start": 53.534,
-     "end": 53.606
+     "start": 53.575,
+     "end": 53.646
     },
     {
      "w": "hundred",
-     "start": 53.678,
-     "end": 53.894
+     "start": 53.718,
+     "end": 53.933
     },
     {
      "w": "twenty-four",
-     "start": 54.038,
-     "end": 54.542
+     "start": 54.077,
+     "end": 54.579
     },
     {
      "w": "billion",
-     "start": 54.758,
-     "end": 55.118
+     "start": 54.795,
+     "end": 55.154
     },
     {
      "w": "servings",
-     "start": 55.19,
-     "end": 55.622
+     "start": 55.225,
+     "end": 55.656
     },
     {
      "w": "last",
-     "start": 55.766,
-     "end": 55.91
+     "start": 55.8,
+     "end": 55.943
     },
     {
      "w": "year.",
-     "start": 55.982,
-     "end": 56.486
+     "start": 56.015,
+     "end": 56.517
     }
    ]
   },
   {
    "line": 13,
-   "start": 56.654,
-   "end": 59.83,
+   "start": 56.684,
+   "end": 59.85,
    "text": "And congrats, you just built instant noodles yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.777,
-     "end": 56.798
+     "start": 56.807,
+     "end": 56.828
     },
     {
      "w": "congrats,",
-     "start": 56.87,
-     "end": 57.734
+     "start": 56.9,
+     "end": 57.761
     },
     {
      "w": "you",
-     "start": 57.878,
-     "end": 58.022
+     "start": 57.904,
+     "end": 58.048
     },
     {
      "w": "just",
-     "start": 58.13,
-     "end": 58.238
+     "start": 58.156,
+     "end": 58.263
     },
     {
      "w": "built",
-     "start": 58.346,
-     "end": 58.454
+     "start": 58.371,
+     "end": 58.479
     },
     {
      "w": "instant",
-     "start": 58.526,
-     "end": 58.886
+     "start": 58.55,
+     "end": 58.909
     },
     {
      "w": "noodles",
-     "start": 58.922,
-     "end": 59.174
+     "start": 58.945,
+     "end": 59.196
     },
     {
      "w": "yourself.",
-     "start": 59.246,
-     "end": 60.038
+     "start": 59.268,
+     "end": 60.058
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.145,
+   "start": 60.164,
    "end": 66.0,
    "text": "The cup says wait three minutes. Nobody has ever waited three minutes.",
    "words": [
     {
      "w": "The",
-     "start": 60.793,
-     "end": 60.865
+     "start": 60.81,
+     "end": 60.882
     },
     {
      "w": "cup",
-     "start": 60.937,
-     "end": 61.153
+     "start": 60.954,
+     "end": 61.169
     },
     {
      "w": "says",
-     "start": 61.225,
-     "end": 61.441
+     "start": 61.241,
+     "end": 61.456
     },
     {
      "w": "wait",
-     "start": 61.513,
-     "end": 61.73
+     "start": 61.528,
+     "end": 61.744
     },
     {
      "w": "three",
-     "start": 61.802,
-     "end": 62.018
+     "start": 61.815,
+     "end": 62.031
     },
     {
      "w": "minutes.",
-     "start": 62.09,
-     "end": 62.702
+     "start": 62.102,
+     "end": 62.713
     },
     {
      "w": "Nobody",
-     "start": 63.674,
-     "end": 64.034
+     "start": 63.681,
+     "end": 64.04
     },
     {
      "w": "has",
-     "start": 64.106,
-     "end": 64.394
+     "start": 64.112,
+     "end": 64.399
     },
     {
      "w": "ever",
-     "start": 64.466,
-     "end": 64.754
+     "start": 64.471,
+     "end": 64.758
     },
     {
      "w": "waited",
-     "start": 64.826,
-     "end": 65.186
+     "start": 64.83,
+     "end": 65.189
     },
     {
      "w": "three",
-     "start": 65.294,
-     "end": 65.402
+     "start": 65.296,
+     "end": 65.404
     },
     {
      "w": "minutes.",
-     "start": 65.474,
+     "start": 65.476,
      "end": 66.122
     }
    ]
