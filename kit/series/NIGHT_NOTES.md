@@ -2150,3 +2150,90 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   last produce commit) succeeded. All 12 Instagram + TikTok targets wait for Buffer places (every channel 10 of 10
   with 92-96 first in due-time order); later post.yml runs add them. Check-in of this session at 12:30Z Nov 27 (04:30
   PT Fri, trig_013c6esiLCurkqCNWftgX4jQ) dispatches post.yml if any of 94-99 still waits and requeues failures.
+
+## Nov 26 2026 (midday run, 11:23 PT): 100 the Jeddah Tower, 101 a fire sprinkler, 102 Al Bahar Towers (v2; post Sat Nov 28)
+- TODAY Thu Nov 26 PT (Thanksgiving), TOMORROW Fri Nov 27 PT, but Friday already carries six builds (94-99), so 100-102
+  take Saturday's first three slots, as the evening run of Nov 25 set out: EN 06:00 / 08:30 / 11:00 PT = 14:00Z /
+  16:30Z / 19:00Z Nov 28; AR Instagram 00:00 / 03:00 / 06:00 PT = 08:00Z / 11:00Z / 14:00Z; AR TikTok 00:30 / 03:30 /
+  06:30 PT = 08:30Z / 11:30Z / 14:30Z (3 h after 99's 21:30 PT Fri). Every at: turned back into PT with
+  `TZ=America/Los_Angeles date -d` before the push. YouTube: verified, so all three hold it with `studio: 1`.
+  NEXT FREE SLOTS (the evening run of Nov 26, builds 103-105; 102's line 10 promises bubble wrap): Sat Nov 28 English
+  13:30 / 16:00 / 18:30 PT, Arabic Instagram 09:00 / 12:00 / 15:00 PT, Arabic TikTok from 12:30 PT (2 h after the show's
+  10:30 PT). 08:30 PT Sat (16:30Z) is left free in the Arabic TikTok grid for the sm04 requeue the show run planned.
+- Status 19:30Z: Thursday's English 89, 90, 76, 77, 91 out (92 13:00, 93 15:30 PT scheduled); Arabic Instagram 88-90,
+  76, 77 out (91, 92, 93 tonight); Arabic TikTok 88, 89 out, 90 refused (14:00Z), 85's requeue refused (16:00Z), 76
+  refused (20:30Z), 77, 91, 92 scheduled tonight. Not requeued: the Arabic TikTok queue is 10 of 10 again and the grid
+  has no 2-hour gap before Saturday. In error now: 48, 50, 54, 56, 60, 62, 66-69, 72-74, 76, 82, 83, 85, 90 (+ sm03, sm04).
+- yt_desk check: OVERDUE sm05 (all four: AR full 09:00, EN full 10:00, AR Short 10:30, EN Short 12:15 PT Thu): the main
+  chat's round of Nov 25 16:45 PT did not upload them, so sm05's six TikTok + Instagram targets are still on hold (no
+  show today). `yt_desk.py plan` also lists Thursday's builds 88-93, 76, 77 as due and not uploaded (the last ledger
+  entries are from 01:07Z Nov 25). Told the owner at the top of the run's message; not repaired here.
+- post.yml had not run since 04:02Z: a dispatch at 19:37Z added the waiting targets of 92-97 and 98 (English +
+  Arabic Instagram). FIXED: ep99's English Instagram + TikTok were refused by post.py ("6 hashtags (limit 5)"): its
+  `next:` "Build #100, the Jeddah Tower" made the cta line carry a hashtag. Now "Build 100, ..." (both scheduled at
+  02:30Z Nov 28). Never put a "#" in `next:` or `text:` (100's caption says "Our 100th build"). 99's Arabic TikTok
+  waits for a queue place (later post.yml runs; the 12:30Z Nov 27 check-in of the evening run of Nov 25).
+- BUFFER API ALLOWANCE (state/last-run.md, the "30d" r=): Arabic 356 at 01:59Z -> 174 at 21:25Z, English 443 -> 253:
+  about 170 a day each, and the 30-day window resets only in about 13.4 days (about Dec 10). Every post.yml run cost
+  about 15 per account (post.py 2-4, then status.py about 11: it lists every post, 25 a page); a tools.yml status run
+  and the status.yml cron (about twice a day) about 13 each. At that pace the Arabic account runs out around Fri Nov 27
+  and then nothing new reaches Buffer until the reset. FIXED IN PART: post.yml now skips status.py on push runs
+  (dispatches, tools.yml status and the cron still look), so a push costs 2-4. Six builds a day still need about 25 a
+  day for posting alone, more than 174 lasts: the owner was told. Dispatch post.yml or tools.yml only when something
+  waits, and skip the metrics run while the allowance is this low.
+- Why v2: jeddahtower-A was made at 09:12 PT, but jeddahtower-B and sprinkler-A/B, albahar-A/B were todo (the
+  on-computer runner made no job at 10:08, 11:08 or 12:08 PT), so no build had both clips; all three are v2 and the five
+  jobs are marked skipped in higgsfield/queue.yml (jeddahtower-A stays a spare). The runner then queued bubblewrap-A/B and
+  gcans-A/B for 103-104.
+- Pages: retired ep37 (its Arabic TikTok requeue went out), dubaiframe-b85 (only a refused Arabic TikTok), kettle-b86
+  and balloon-b87 (all out); all Studio uploads of 85-87 are in the ledger: media/ 1.2 GB -> about 1.0 GB, about 1.1 GB
+  with 100-102. Keep 78, 79, 88-93 and 76-77 until their Studio uploads are done (all listed due).
+- Voices: ElevenLabs Pro 172,707 of 613,234 before (28%, day 5 of the period), 176,152 at the end (29%). Ballen
+  v4 + Mansour v4. First takes: jeddahtower EN 66.0 s / AR 66.0 s; sprinkler EN 70.3 s (x1.12 cap: over the v2 gate)
+  / AR 70.7 s; albahar EN 68.3 s / AR 68.8 s. Two English passes: sprinkler lines 1, 2, 4, 11, 14 shortened (the
+  [chuckles] in the hook cost 0.6 s: hook 5.4 -> 4.9 s); albahar lines 2, 5, 10, 14 shortened, then line 2 again (0.1 s
+  over the 9.5 s mark); jeddahtower line 8 "steel lift ropes" heard "still lift ropes", then "metal lift ropes" heard
+  "metal if ropes" -> "metal ropes", line 14 "your glasses still fog up" heard "your glass is still fog of" -> "stepping
+  out of the car still fogs up your glasses". Final: EN 66.0 / 66.3 / 66.0 s; hooks EN 4.3 / 4.9 / 4.6 s, problem by
+  9.1 / 8.8 / 9.4 s; AR hooks 4.1 / 4.9 / 4.3 s, problem by 8.5 / 8.4 / 10.0 s (only the "Y'all," / "يا جماعة،" comma
+  FAILs). check_ar_voice: no weak line except jeddahtower line 3 (42%: "ميتين وسبعين" and "مية وخمسة" written as digits).
+- Research (WebSearch titles plus higgsfield/ideas.md, no agents): Jeddah Tower (Newsweek Oct 30 "484 meters", the
+  121st floor, Newsweek "El Niño challenge before major milestone" = 500 m not reached yet, Thornton Tomasetti 270 piles
+  up to 105 m under a 5 m raft, ENR on the shell limestone and the taper against vortex shedding, KONE's 630+ m
+  UltraRope ride); fire sprinkler (FPA "only the heads in the area of the fire operate", NFPA Journal 2022: one head in
+  77% of fires where they operated, failures mostly a system shut off; NFSA bulb colours; Parmelee 1874); Al Bahar (AHR
+  2,098 units, DesignCurial 1,049 a tower with a motor in each, JFDE roof light/wind/rain sensors and the mid-fold in a
+  storm, "about half" the solar gain).
+- Scenes (v2 look 2):
+  - jeddahtower.py (sky, ground, wind, plan, lift, tag): tower_hw(f) = a three-wing taper whose wings end at 66% and 79%
+    of the height; jtower(built, plan, lit) = the solid part (mid-grey concrete: light grey bloomed white) and the rest as
+    a dashed glowing outline drawn upward; crane(); ruler() to 1,000 M; outline_building() petronas / taipei / burj for
+    the height race; ground_cut(sink, piles, raft) with shells in soft limestone; box_tower() + vortex() + wind_streaks();
+    plan_view(wings) + pencil() + tripod(); lift_shaft(heavy, belt, rise) + scale_card(); car_door(fog). The hook opens
+    close on the cranes (zoom 2.3) and pulls out to the whole kilometre: a thin tower alone was a weak first frame.
+  - sprinkler.py (office, factory, bulb, bakery, valve, tag): proj() = a one-point perspective ceiling with about a
+    hundred heads (scale 3.2/Z); head(bulb, fill, burst, old, melt) = a pendent sprinkler (frame, glass bulb with its
+    bubble, toothed deflector; old=True: an 1870s brass rose with a soft-metal plug); spray() = an umbrella of falling
+    streaks; tongue() = a flame of three mid-tone teardrops (v2.flame's white additive core bloomed into a white blob on
+    the dark sets); bakery(chart) with the five bulb colours; valve_room(shut, chain, wrench, alarm, drip) with an
+    upstairs inset; ring_gauge() for the 77%; cake() / mabkhara() for the tag (EN 90 candles, AR dad's incense in a hotel).
+  - albahar.py (towers, city, office, lattice, unit, storm, tag): unit(o, fx) = an umbrella shade of six triangles whose
+    angular width opens with o (o=0: thin spikes), fx squeezes it round the cylinder; shaded_tower(sun) opens the units
+    that face the sun (sun = azimuth); the hook starts close on the sunny side (zoom 2.3) so the wave of opening shades
+    reads, then pulls out to both towers; mid-tone cream fabric (white bloomed); glass_tower(tint, glare); office_dark();
+    old_house() + lattice_window() + dappled(); actuator_unit() + screen_sun(); sandstorm() + an anemometer inset;
+    sunshade(opened) for the tag (a twisted bundle that springs into two discs).
+- Produce (one slug per run, 17-24 minutes each; 101 at 20:20Z, 100 at 20:29Z, 102 at 20:37Z): Jeddah Tower EN 69.1 s /
+  AR 69.1 s, fire sprinkler EN 69.4 s / AR 73.8 s, Al Bahar EN 69.1 s / AR 71.9 s; all -14.0 LUFS, peaks -2.1 / -2.2
+  dBFS, covers true (the cover pictures: the finished tower at night; the sprinkler head big; the two towers at dusk).
+  QA sheets and covers looked at in both languages; Whisper small on the three English mixes: number formats, "Jedda",
+  "Alba Haar", "Y'all" -> "Yo" only. Anchors all found, sweeps and save checks clean in both languages.
+- Posts: 100 + 101 pushed 21:08Z after the Pages deploy of 8017043 (after both produce commits) succeeded; 102 pushed
+  21:22Z after the deploy of 619a493 (after 10269ad, the Al Bahar produce commit) succeeded. State 21:25Z: all six
+  English Instagram + TikTok targets of 100-102 scheduled (14:00Z / 16:30Z / 19:00Z Nov 28) and 100's Arabic Instagram
+  (08:00Z); 100's Arabic TikTok, 101's and 102's Arabic Instagram + TikTok (and 99's Arabic TikTok) wait for queue places
+  (every Arabic channel 10 of 10 with Thursday's and Friday's posts): later post.yml runs add them in due-time order; a
+  check-in of this session at 06:30Z Nov 28 (22:30 PT Fri, trig_01B8mDajFB4ywxA6hPqkaNvx) dispatches post.yml once if
+  any still waits.
+- LINEUP: 109 the Eastgate Centre (Harare), 110 the Bahrain World Trade Center, 111 a pin tumbler lock appended (nine
+  entries ahead of 102: 103-111).
