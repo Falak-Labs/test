@@ -1,0 +1,238 @@
+{
+ "slug": "ep98-rainvortex",
+ "kit": "rainvortex",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, Singapore's airport has a waterfall pouring through its roof.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Indoors. No river. So where's all that water from?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So the roof is a giant glass doughnut, with the hole in the middle.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But water falling straight down splashes everybody.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So the hole sits off center, and the water falls in a smooth curve.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But the mist still drifts. Phones, passports... wet.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So it falls into a clear drum, two floors tall.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But falling water drags the air down... a wind in the garden.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So a low wall made of glass sends that air up, not sideways.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building noodles... full of tiny holes. [chuckles]",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? Rain! [chuckles] The roof catches it... and pumps carry the same water back up.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Forty meters, up to ten thousand gallons a minute, and over two thousand trees.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built the Rain Vortex yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] Now try your kitchen tap on full, over a spoon. [laughs harder] Yep. Get a drum.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "12/160",
+   "mix_lines_off": [
+    "L 1 1 diff  | Yo, Singapore's airport has a waterfall pouring through its roof.",
+    "L 2 1 diff  | Endures. No river. So where's all that water from?",
+    "L 3 2 diff  | So the roof is a giant glass donut with a hole in the middle.",
+    "L 4 2 diff  | But waterfalling straight down splashes everybody.",
+    "L 9 2 diff  | So a low wall made of blast says that air up, not sideways.",
+    "L10 1 diff  | Hit follow cuz next we're building noodles full of tiny holes",
+    "L12 3 diff  | 40 meters up to 10,000 gallons a minute and over 2,000 trees."
+   ],
+   "size_mb": 15.1,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، مطار سنغافورة فيه شلال... ينصب من فتحة في السقف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] داخل المطار، وما فيه نهر. طيب الموية من وين؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فالسقف دونات زجاج عملاقة، والفتحة في النص.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس الموية لو نزلت دغري، تضرب الأرض وترش الكل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فالفتحة مو بالنص بالضبط، والموية تنزل على شكل قوس ناعم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس الرذاذ يطير. جوالك وجوازك... تبللوا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فتنزل داخل أسطوانة شفافة، طولها دورين.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس الموية وهي طايحة تسحب الهوا معها... وتصير ريح في الحديقة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فجدار زجاج قصير حولها يرفع الهوا لفوق، بدل ما يروح على الجنب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني نودلز... مليانة خروم صغيرة. [chuckles]",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ المطر! [chuckles] السقف يجمعه، والمضخات ترجّع نفس الموية فوق مرة ثانية.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] أربعين متر، لين ثمانية وثلاثين ألف لتر بالدقيقة، وأكثر من ألفين شجرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك شلال المطر بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] جرّب افتح حنفية المطبخ على آخرها فوق ملعقة. [laughs harder] إي والله... تبي أسطوانة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.2,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 14.8,
+   "cover": true
+  }
+ }
+}
