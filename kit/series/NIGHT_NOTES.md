@@ -2149,4 +2149,4 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
 - Posts: posts/ep97-museum.yml, ep98-rainvortex.yml, ep99-noodles.yml pushed after the Pages deploy of 13e6a9a (the
   last produce commit) succeeded. All 12 Instagram + TikTok targets wait for Buffer places (every channel 10 of 10
   with 92-96 first in due-time order); later post.yml runs add them. Check-in of this session at 12:30Z Nov 27 (04:30
-  PT Fri) dispatches post.yml if any of 94-99 still waits and requeues failures.
+  PT Fri, trig_013c6esiLCurkqCNWftgX4jQ) dispatches post.yml if any of 94-99 still waits and requeues failures.
