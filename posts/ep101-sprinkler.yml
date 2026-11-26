@@ -1,0 +1,35 @@
+episode: 101
+date: 2026-11-28
+video:
+  en: media/ep101-sprinkler-en.mp4
+  ar: media/ep101-sprinkler-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-28T16:30:00Z"    # 08:30 PT Sat Nov 28, after 100 (100's line 10 promises it)
+  title: "Fire Sprinklers: Only One Turns On 🔥"
+  text: |
+    One fire, a hundred sprinklers… and only one turns on. 🔥
+    In 1874 a piano maker sealed his sprinklers with metal that melts in the heat. Today every head has its own tiny glass bulb of liquid: heat swells the liquid, the glass pops at about 68 °C, and only that head sprays, not the whole ceiling like in the movies. Hot rooms get bulbs that pop later (blue, about 121 °C), and the main valve is locked open with an alarm, because the top reason sprinklers fail is water that somebody shut off.
+    Ever stared at one during a birthday party? 👇
+  next: "towers that open umbrellas in the sun ☀️"
+  seo: "How fire sprinklers work: every sprinkler head is its own heat switch. A small glass bulb filled with a glycerin-based liquid holds the water back; heat makes the liquid expand until the bulb breaks (red bulbs at about 68 °C), and the water hits the deflector and sprays only over that spot. Bulb colors mark the temperature (orange 57 °C, red 68 °C, yellow 79 °C, green 107 °C, blue 121 °C). Henry Parmelee's automatic sprinkler of 1874 protected his piano factory. In US fires of 2015-2019 where sprinklers operated, one head did the job in 77% of them, and the main reason sprinklers failed was a system shut off before the fire (NFPA)."
+  tags:
+    tiktok: "#firesprinkler #firesafety #engineering #howitworks #learnontiktok"
+    instagram: "#firesprinkler #firesafety #engineering #howitworks #science"
+    youtube: "#firesprinkler #firesafety #engineering"
+ar:
+  at:
+    default: "2026-11-28T11:00:00Z"    # Instagram 03:00 PT Sat Nov 28 = 14:00 Riyadh, after 100 (00:00 PT)
+    tiktok: "2026-11-28T11:30:00Z"     # 03:30 PT: 3 h after 100's Arabic TikTok (00:30 PT)
+  title: "رشاش الحريق: واحد بس يشتغل 🔥"
+  text: |
+    حريق واحد ومية رشاش... واحد بس يشتغل! 🔥
+    سنة ١٨٧٤ واحد يصنع بيانوهات سكّر الرشاشات بمعدن يذوب من الحرارة. اليوم كل رشاش فيه حبة زجاج صغيرة فيها سائل: الحرارة تنفخ السائل، والزجاجة تنكسر عند ٦٨ درجة تقريباً، وبس الرشاش اللي فوق النار يرش، مو مثل الأفلام اللي السقف كله يصب. الأماكن الحارة تحط حبات تنكسر متأخر (الزرقا حوالي ١٢١ درجة)، والمحبس الرئيسي يتربط مفتوح وعليه إنذار، لأن أكثر سبب يخلي الرشاشات تفشل إن أحد سكّر الموية.
+    مين ولّع البخور تحت الرشاش وخاف؟ 👇
+  next: "أبراج تفتح مظلاتها مع الشمس ☀️"
+  seo: "كيف يشتغل رشاش الحريق: كل رشاش له مفتاح حرارة خاص فيه، حبة زجاج صغيرة فيها سائل تسكّر الفتحة؛ الحرارة تخلي السائل يتمدد لين تنكسر الحبة (الحمرا عند حوالي ٦٨ درجة)، والموية تضرب القرص وترش بس فوق المكان. ألوان الحبات تعرّف الحرارة (البرتقالي ٥٧، الأحمر ٦٨، الأصفر ٧٩، الأخضر ١٠٧، الأزرق ١٢١ درجة). هنري بارميلي سوّى رشاش أوتوماتيكي سنة ١٨٧٤ يحمي فيه مصنع البيانو حقه. وفي حرايق أمريكا من ٢٠١٥ لين ٢٠١٩ اللي اشتغلت فيها الرشاشات، رشاش واحد كفّى في ٧٧٪ منها."
+  tags:
+    tiktok: "#رشاش_الحريق #السلامة #هندسة #معلومات #تعلم_على_التيك_توك"
+    instagram: "#رشاش_الحريق #السلامة_من_الحريق #هندسة #معلومات #علوم"
+    youtube: "#رشاش_الحريق #السلامة #هندسة"

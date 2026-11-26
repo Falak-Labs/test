@@ -1,0 +1,35 @@
+episode: 100
+date: 2026-11-28
+video:
+  en: media/ep100-jeddahtower-en.mp4
+  ar: media/ep100-jeddahtower-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-28T14:00:00Z"    # 06:00 PT Sat Nov 28, after 99 (99's line 10 promises Build #100, the Jeddah Tower)
+  title: "Jeddah Tower: Our 100th Build Goes One Kilometer Up 🏙️"
+  text: |
+    Saudi Arabia is building a tower a thousand meters tall… and it's almost halfway. 🏙️
+    Jeddah sits on soft limestone full of old seashells, so 270 piles go down as deep as 105 m under one thick slab. Up top the wind can blow ten times faster than on the street, so the tower gets skinnier as it rises and three wings brace the middle like a tripod. Steel lift ropes that long get too heavy, so the lifts will ride light carbon-fiber belts, over 630 m in one go.
+    Our 100th build! Would you ride that lift? 👇
+  next: "a fire sprinkler (only one turns on) 🔥"
+  seo: "How the Jeddah Tower is being built: planned as the first building over 1,000 m tall, in Jeddah, Saudi Arabia. It stands on a 5 m thick raft over 270 bored piles up to 105 m deep in soft, porous limestone full of shells. Its three-winged, tapering shape (Adrian Smith + Gordon Gill) breaks up the wind's whirlpools and braces the core, and KONE's carbon-fiber UltraRope lifts will make a ride of more than 630 m. By late October 2026 the core had reached about 484 m (the 121st floor), past the Petronas Towers; completion is planned for 2028."
+  tags:
+    tiktok: "#jeddahtower #saudiarabia #skyscraper #engineering #learnontiktok"
+    instagram: "#jeddahtower #jeddah #saudiarabia #skyscraper #engineering"
+    youtube: "#jeddahtower #skyscraper #engineering"
+ar:
+  at:
+    default: "2026-11-28T08:00:00Z"    # Instagram 00:00 PT Sat Nov 28 = 11:00 Riyadh, after 99 (15:00 PT Fri)
+    tiktok: "2026-11-28T08:30:00Z"     # 00:30 PT: 3 h after 99's Arabic TikTok (21:30 PT Fri)
+  title: "برج جدة: أول برج طوله كيلو 🏙️"
+  text: |
+    في جدة قاعدين يبنون برج طوله كيلو كامل... ووصل تقريباً للنص! 🏙️
+    أرض جدة صخر لين مليان صدف، فحطوا تحته ٢٧٠ عمود بعضها ينزل ١٠٥ متر، وفوقها قاعدة خرسانة سماكتها ٥ متر. وفوق، الهوا أسرع بعشر مرات من تحت، فالبرج يصير أنحف كل ما طلع، وثلاث أجنحة تسند النص مثل الستاند. وحبال المصاعد الحديد بهالطول تصير ثقيلة مرة، فالمصاعد بتمشي على سيور كربون خفيفة، فوق ٦٣٠ متر بطلعة وحدة.
+    البناء رقم ١٠٠ في السلسلة! تركب هالمصعد ولا لا؟ 👇
+  next: "رشاش الحريق: واحد بس يشتغل 🔥"
+  seo: "كيف ينبني برج جدة: أول مبنى مخطط يتعدى ١٠٠٠ متر، في جدة بالسعودية. واقف على قاعدة خرسانة سماكتها ٥ متر فوق ٢٧٠ عمود محفور لين ١٠٥ متر في صخر جيري لين مليان صدف. شكله بثلاث أجنحة يصير أنحف كل ما طلع، يكسر دوامات الهوا ويسند القلب، ومصاعد كوني بحبال ألياف الكربون بتطلع أكثر من ٦٣٠ متر بطلعة وحدة. نهاية أكتوبر ٢٠٢٦ وصل القلب حوالي ٤٨٤ متر (الدور ١٢١) وعدّى أبراج بتروناس، والمتوقع يخلص سنة ٢٠٢٨."
+  tags:
+    tiktok: "#برج_جدة #جدة #السعودية #هندسة #تعلم_على_التيك_توك"
+    instagram: "#برج_جدة #جدة #السعودية #هندسة #ناطحات_سحاب"
+    youtube: "#برج_جدة #السعودية #هندسة"
