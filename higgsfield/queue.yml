@@ -1418,7 +1418,10 @@ jobs:
     # that, fixed by B1. They "founded Sealed Air Corp. in 1960" (Smithsonian). Bubble Wrap is Sealed Air's brand name:
     # the script says "bubble wrap"; no logo or brand anywhere. More in ideas.md (Nov 24 21:05). No faces: the two
     # inventors were real people, so two engineers only from behind; other people only from behind; no writing.
-    status: todo
+    # Started (History 6b686c87, created 13:12:19 PT Nov 26, most likely by the on-computer runner's 13:08 run, which
+    # fired 13:09:06; the style line and the shots below word for word, 9:16, 30 s, 720p, sound off), "in_progress"
+    # when read by the cloud runner at 13:13. Patent drawing for lines 12-13: ideas.md Nov 26 13:05.
+    status: "generating (started: 13:12 PT)"
     file: buildit-bubblewrap-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a 1950s living room at night whose walls are papered floor to ceiling with shiny clear plastic

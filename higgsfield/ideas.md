@@ -3961,3 +3961,106 @@ Checked, nothing new
   [Alibaba Cloud, Apr 7 2026](https://www.alibabacloud.com/blog/alibaba-unveils-wan2-7-video-to-elevate-creators-from-executors-to-directors_603009),
   [NemoVideo](https://www.nemovideo.com/blog/wan-2-7-open-source)
 - Trends: the November pages in the results (Virlo's month, startups.co.uk, mean.ceo) are the ones already here.
+
+## 2026-11-26 13:05 PT (hourly runner, cloud run)
+
+New content
+- Bubble wrap (LINEUP 103, queued as bubblewrap-A/B), its patent drawing as a free proof still (new to these notes;
+  the Nov 24 21:05 entry had only the Smithsonian caption's "U.S. Pat. No. 3,142,599"; the USPTO rule on patent
+  drawings is in the Nov 23 22:56 entry): US 3,142,599, "Method for making laminated cushioning material", filed Nov
+  27 1959 and granted July 28 1964, names one inventor, "Marc A. Chavannes", assigned to "Sealed Air Corp." (so the
+  1957 story keeps both men, and the patent is Chavannes' alone). Three sheets, FIGS. 1-23: FIG. 1 the molding-roller
+  machine, FIGS. 6-7 an exploded and a plan view of the sheet, whose cells are hexagons, FIGS. 8-9 the roller, and
+  variants with round and dome cells, paper or fabric backing and a foil barrier. How it is made, for B3 or a proof
+  line: "the heated plastic film is drawn into these openings by vacuum means including tubes 22 connected with a
+  manifold 23", the second film is fused on by "heating at least the surfaces of the layers to a fusing temperature
+  and then urging the heated surfaces into contact" (it "does not employ adhesives"), leaving "sealed pockets in which
+  air or other fluid is entrapped", for "packaging of products, padding of furniture, cars and trucks, heat
+  insulation and the like". His follow-up, US 3,294,387 "Laminated cellular material" (published Dec 27 1966, no
+  assignee), claims "entrapping a compressible gas in said embossments" (read through a fetch summary). No copyright
+  notice on either page. Build-It use: FIG. 1 or FIGS. 6-7 as a framed insert with a slow zoom for 103's lines 12-13.
+  [Google Patents, US3142599](https://patents.google.com/patent/US3142599),
+  [Google Patents, US3294387](https://patents.google.com/patent/US3294387)
+- The pin tumbler lock (LINEUP 111), father and son (new to these notes; the 12:10 entry left open which patent the
+  cylinder lock is credited to): the father came first, "June 13, 1844 ... pin tumbler safe lock — Springfield,
+  Massachusetts" (Wikipedia, Linus Yale Sr., patent list), and Wikipedia's "Pin tumbler lock" says "In 1848, Linus
+  Yale Sr. invented the modern pin-tumbler lock". The son made it small: "In 1861, Linus Yale Jr. ... invented and
+  patented a smaller flat key with serrated edges" (same page), "Yale patented his cylinder pin-tumbler lock in 1861"
+  (Lemelson-MIT), while his own Wikipedia page gives a bank lock in 1851, "his pin tumbler lock for use in doors in
+  1863" and the June 27 1865 patent for "Cylinder locks and other locks with tumbler pins" (US 48,475, the 12:10
+  entry's drawing); ASME says 1861 in its summary and 1865 in its text. So the script says "a father and son" and
+  "the 1860s", never one exact year. Beats for the breaks: Yale Jr. "did live demonstrations to corporate business
+  executives and government officials that showed how he successfully picked the locks that were in operation"
+  (Wikipedia), and in 1868 he and Henry R. Towne founded the Yale Lock Manufacturing Company in Stamford, Connecticut
+  (Wikipedia, Lemelson); he died that Christmas (the 24th or 25th: the pages differ). The old lock: "around 4,000
+  years ago, in locks that were very large (up to two feet long) and made out of wood" (Lemelson), but Wikipedia's pin
+  tumbler page puts the origin "between 2500 and 1800 BCE in Mesopotamia" and calls Egypt the usually cited one: say
+  "about 4,000 years ago" and "giant wooden locks", not "invented in Egypt". Pins: "typically five or six".
+  No free picture of an old Egyptian lock: the Science Museum Group's "Ancient Egyptian lock" (1912-294, 620 mm tall)
+  is "modern Egyptian construction" of about 1912, its sectioned "Working model of Egyptian pin lock" (1966-364, from
+  Chubb) is "CC BY-NC-SA 4.0" (commercial use is licensed through the Science and Society Picture Library), a 1970
+  Faroe Islands replica (1970-391) is "© The Board of Trustees of the Science Museum", and the Global Egyptian
+  Museum's Roman-period wooden key (National Museum of Ireland 1914:221, "with two tangs") shows no rights line. So
+  111's ancient lock stays a Seedance or picture-model shot, and a museum "Egyptian lock" is often a modern replica:
+  read the record before calling one ancient.
+  [Wikipedia, Pin tumbler lock](https://en.wikipedia.org/wiki/Pin_tumbler_lock),
+  [Wikipedia, Linus Yale Jr.](https://en.wikipedia.org/wiki/Linus_Yale_Jr.),
+  [Wikipedia, Linus Yale Sr.](https://en.wikipedia.org/wiki/Linus_Yale_Sr.),
+  [Lemelson-MIT](https://lemelson.mit.edu/resources/linus-yale),
+  [ASME](https://www.asme.org/topics-resources/content/linus-yale-jr),
+  [Science Museum Group, 1912-294](https://collection.sciencemuseumgroup.org.uk/objects/co50298/ancient-egyptian-lock),
+  [Science Museum Group, 1966-364](https://collection.sciencemuseumgroup.org.uk/objects/co50403/working-model-of-egyptian-pin-lock),
+  [Science Museum Group, 1970-391](https://collection.sciencemuseumgroup.org.uk/objects/co50424),
+  [Global Egyptian Museum, 2633](https://www.globalegyptianmuseum.org/detail.aspx?id=2633)
+- The Brooklyn Bridge (105), the caisson as the papers drew it in 1870 (new to these notes; its facts and shot chain
+  are in the 00:57 entry, its free photos in the Nov 25 03:00 and Nov 26 08:05 entries): the Brooklyn Museum
+  Libraries' "The Brooklyn Bridge-Cross-Section of Caisson. From Harper's Weekly, March 19, 1870, p. 181" (engraving,
+  HW1870-181b) is shown on Google Arts & Culture with "no known copyright restrictions", and the Brooklyn Museum's
+  archive record 55619 (file PER_Harpers_Weekly_1870_p812a-e) captions five more: "The Brooklyn pier - general view
+  of foundation; Working beneath ... edge of caisson; Air chambers for the ingress and egress of workmen; Sending up
+  debris through the water shaft; Sectional view of foundation showing caisson and mason-work" (no rights line on
+  that share page; an 1870 magazine, so out of US copyright by its date: our reading). Both were read through a fetch
+  summary, and no download size was read: look at them in a browser. NYPL's wood engraving "The caisson" (Harper's,
+  May 1883, "Building Brooklyn Bridge.") carries NYPL's undetermined line ("free to use this Item in any way that is
+  permitted by the copyright and related rights legislation that applies to your use"), and its "Brooklyn Caisson
+  transverse section" (1870, John A. Roebling's Sons Company, Manuscripts and Archives Division) showed no rights
+  field here. Build-It use: the real cutaway (the air locks, the debris shaft, the men under the edge) as a framed
+  insert with a slow zoom under 105's caisson line, the drawing that backs the Seedance cutaway. Not free or not
+  online: the Met's Brooklyn Bridge photos (Fink, Weston, Grotz and the Walker Evans Archive are all in copyright;
+  its ca. 1883 albumen print, 2016.453, has no image online); the NYC Municipal Archives' "Brooklyn Bridge drawings
+  and plans" (REC0010, "9,865 sheets of drawings", 1869-1981) are on microfilm with a digitization project under way
+  ("more than 9,000 plans"), and no online gallery or reuse terms were found; the Met's installation of seven of John
+  A. Roebling's presentation drawings (Dec 8 2025 - Feb 22 2026) has closed.
+  [Google Arts & Culture, HW1870-181b](https://artsandculture.google.com/asset/the-brooklyn-bridge-cross-section-of-caisson-from-harper-s-weekly-march-19-1870-p-181/EgErjjK5rwzrcg),
+  [Brooklyn Museum, archives 55619](https://brooklynmuseum.org/opencollection/share/archives/55619),
+  [NYPL, The caisson](https://rp-digitalcollections.nypl.org/items/510d47e2-eb9e-a3d9-e040-e00a18064a99),
+  [NYPL, Brooklyn Caisson transverse section](https://digitalcollections.nypl.org/items/95ce5d40-3889-013c-6b45-0242ac110002),
+  [NYC Municipal Archives, REC0010](https://a860-collectionguides.nyc.gov/repositories/2/resources/38),
+  [NYC Municipal Archives blog](https://archives.nyc/blog/tag/Brooklyn+Bridge),
+  [The Met, The Brooklyn Bridge Up Close](https://www.metmuseum.org/fr/exhibitions/the-brooklyn-bridge-up-close),
+  [The Met, 2016.453](https://www.metmuseum.org/art/collection/search/716283)
+
+Platforms
+- YouTube's automatic "temporary feature pause" (Oct 21 2026; new to these notes, and it bears on the YouTube desk's
+  uploads through Chrome): "we'll now automatically apply a temporary feature pause if we detect unusual or
+  unauthorized activity" (YouTube, quoted by Social Media Today). While paused a channel cannot "upload content,
+  start a livestream or add videos to playlists", set custom thumbnails or switch private videos to unlisted or
+  public (SMT; PPC Land adds Shorts and video edits, and quotes the Help article: "we may also set some of your recent
+  videos to private during the review"); the review is "typically within 24 hours", "If your account security is
+  verified, full access is immediately restored", viewers can still watch and monetization is unaffected; YouTube
+  "didn't outline what it classifies as unusual activity" (Android Authority). For the desk: if Studio shows this
+  pause, stop and tell the owner, with no retries and no going round it through the other channel. Whether scheduled
+  videos still go public during a pause is not stated. Official pages, not read here: the Community post "Introducing
+  temporary feature pause for hacked accounts" and the Help article "Understand why some channel features are
+  temporarily paused".
+  [Social Media Today, Oct 21 2026](https://www.socialmediatoday.com/news/youtube-adds-temporary-pause-for-hacked-accounts/833651/),
+  [PPC Land, Oct 21 2026](https://ppc.land/youtube-halts-uploads-on-suspected-hacked-channels-typically-for-24-hours/),
+  [Android Authority, Oct 21 2026](https://androidauthority.com/youtube-hacked-channels-temporary-pause-3726067)
+
+Checked, nothing new
+- This week's platform pages (SocialBee's YouTube and Instagram pages of Nov 23, unil.ink's roundup of Nov 23, Gain's
+  November edition of Nov 5): Instagram's Content protection (Nov 17) is already here; Instagram's Amazon affiliate
+  links in Reels (Nov 16, US creators) and YouTube Music's new navigation are no use to us.
+  [unil.ink, Nov 23 2026](https://unil.ink/blog/creator-economy-news-2026-11-23)
+- Trends: the "Shorts algorithm 2026" and "viral Shorts formats" pages in the results are undated how-tos, and the
+  engineering channels' vidIQ pages are the Nov 25 13:55 benchmark.
