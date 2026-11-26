@@ -1418,10 +1418,15 @@ jobs:
     # that, fixed by B1. They "founded Sealed Air Corp. in 1960" (Smithsonian). Bubble Wrap is Sealed Air's brand name:
     # the script says "bubble wrap"; no logo or brand anywhere. More in ideas.md (Nov 24 21:05). No faces: the two
     # inventors were real people, so two engineers only from behind; other people only from behind; no writing.
-    # Started (History 6b686c87, created 13:12:19 PT Nov 26, most likely by the on-computer runner's 13:08 run, which
-    # fired 13:09:06; the style line and the shots below word for word, 9:16, 30 s, 720p, sound off), "in_progress"
-    # when read by the cloud runner at 13:13. Patent drawing for lines 12-13: ideas.md Nov 26 13:05.
-    status: "generating (started: 13:12 PT)"
+    # Done (History 6b686c87, created 13:12:19 PT Nov 26, most likely by the on-computer runner's 13:08 run, which
+    # fired 13:09:06; the style line and the shots below word for word, 9:16, 30 s, 720p, sound off), done when read
+    # at 13:24 and fetched by the cloud runner at 13:24 (8.0 MB). As run: cuts near 5 s and at 10.0, 15.4, 20.0 and
+    # 24.7 s; shots 1-5 on prompt (the engineers and the shopper from behind, no faces); shot 6 shows green seedlings
+    # behind the bubble sheet with no frost or wilting in the two frames looked at (27.5 and 29.5 s), so A6's "frost
+    # kills it" beat must come from the narration or the animation; no text or logos in one frame per shot. Patent
+    # drawing for lines 12-13: ideas.md Nov 26 13:05.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261126_211219_6b686c87-c915-4ac0-882b-9fd32b5c0b17.mp4
     file: buildit-bubblewrap-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): a 1950s living room at night whose walls are papered floor to ceiling with shiny clear plastic
@@ -1528,3 +1533,58 @@ jobs:
       river, people in raincoats seen from behind on the levee watching, wide aerial. Shot 6 (25-30 s): funny slow
       motion, a garden hose left lying on a lawn suddenly jumps to full pressure, whips around and soaks a dog
       sunbathing on a towel, the dog sitting up drenched and offended.
+  - id: brooklyn-A
+    build: 105
+    kit: brooklyn
+    # Facts (ideas.md Nov 25 00:57, checked there): the towers stand on caissons, "large (very large) boxes that were
+    # placed open-side-down on the river bottom and then pressurized" (Linda Hall, May 26 2023); "compressed air was
+    # pumped into the chamber, expelling the water" (STRUCTURE, Nov 2016): A1 and A3. A2 (a river too wide and busy
+    # for anything but one huge span) is our reading. A4: the men got "caisson disease, the Bends" (STRUCTURE). A5:
+    # Manhattan's caisson stopped "at a depth of 78 feet 6 inches", where "Roebling decided the dense sand and gravel
+    # would support his tower", with rock at "106 feet" (STRUCTURE; AISC: "stopped the work before completely reaching
+    # bedrock"). A6: "the Haigh firm was sometimes delivering rejected wire rather than the good wire passed by
+    # inspectors" (AISC, June 2011), fixed by B1. Leave out the caisson death counts and the wires per cable (the
+    # sources disagree). The real cutaway, free: Harper's Weekly's 1870 caisson engravings (ideas.md Nov 26 13:05). No
+    # faces: the Roeblings and the contractor are never shown; people small and only from behind; no writing.
+    status: todo
+    file: buildit-brooklyn-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): cutaway of a giant timber box sunk upside down on a riverbed, the river water held out by
+      compressed air, men seen from behind digging by lamplight in the mud inside it, a huge stone tower rising on its
+      roof, slow push-in. Shot 2 (5-10 s): in the 1870s a wide busy river between two crowded cities, sailing ships
+      and smoking steam ferries packed close in the choppy grey water, no bridge anywhere, wide aerial. Shot 3 (10-15
+      s): a giant timber box is lowered open side down onto the riverbed, air pumps on a barge above force the water
+      out of it, and stone blocks are stacked on its roof to sink it deeper, cutaway, wide view. Shot 4 (15-20 s): at
+      dusk weary workers seen from behind climb out of an iron air lock at the top of a shaft on the river, one
+      stumbles and sits down holding his knees, the others helping him up, wide view. Shot 5 (20-25 s): cutaway of the
+      layers under a granite tower, the timber box resting on a thick bed of packed sand and gravel, the hard bedrock
+      still far below it, the box filled solid with concrete, wide view. Shot 6 (25-30 s): night at a riverside wire
+      yard, by lantern light men seen from behind load coils of dull rusty steel wire onto a horse-drawn wagon bound
+      for the bridge, while the bright inspected coils stay behind in a locked shed, wide view.
+  - id: brooklyn-B
+    build: 105
+    kit: brooklyn
+    # Facts: B1: "Roebling required 150 more good steel wires per cable than originally planned" (AISC; STRUCTURE: free
+    # of charge). B2: suspension bridges were "known to collapse under their own weight, heavy traffic or strong
+    # winds" (History.com): a generic old bridge, no named one. B3: the elder Roebling "believed that a heavy, stiff
+    # deck was the key", "an 85-ft wide stiff steel truss", plus "400 diagonal stays" (AISC). B4 teases build 106, the
+    # Riyadh Metro (LINEUP: driverless trains, stations built for desert heat), with no logos and no writing. B5: "On
+    # the evening of May 17, 1884 ... Barnum led a procession of 21 elephants and 17 camels across the bridge, with
+    # Jumbo bringing up the rear" (History.com, upd. Aug 17 2026); Barnum is never shown. Line 12: "1,595 FT" (the
+    # span, AISC) or "21 ELEPHANTS"; the still can be the Harper's caisson engraving or the Center for Brooklyn History
+    # photo (ideas.md Nov 26 13:05, Nov 25 03:00). B6: the dog sent across the plank first (ideas.md Nov 25 00:57). No
+    # faces: people only from behind; no logos, brand names or writing anywhere.
+    status: todo
+    file: buildit-brooklyn-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): macro cross-section of a thick round bridge cable made of thousands of parallel steel wires
+      bound tight, then a ring of extra bright new wires is added among the old ones and the bundle is squeezed round
+      again, close-up. Shot 2 (5-10 s): in a violent storm an old wooden-decked suspension bridge over a river gorge
+      twists and ripples in the wind until its deck tears loose and falls into the water, no people, wide view. Shot 3
+      (10-15 s): a great stone-towered suspension bridge in a storm, its deep stiff steel truss deck stays rigid while a
+      web of diagonal cables fanning down from the towers holds it steady, rain lashing, wide view. Shot 4 (15-20 s):
+      at sunset a driverless metro train glides into a gleaming modern station in a desert city, golden light on the
+      platform glass, no one in the driver's cab, slow push-in. Shot 5 (20-25 s): at dusk in the 1880s a long line of
+      elephants walks across a great stone-towered suspension bridge under gas lamps, crowds seen from behind watching,
+      slow drone push. Shot 6 (25-30 s): funny slow motion, a man seen from behind sends his dog across a wobbly plank
+      over a muddy puddle first, the plank holds the dog, then he steps on it and falls into the mud.
