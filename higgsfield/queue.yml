@@ -1465,3 +1465,61 @@ jobs:
       bubbles, uncracked, technicians seen from behind watching, wide view. Shot 6 (25-30 s): funny slow motion, a
       fluffy cat steps carefully onto a big sheet of bubble wrap on a living room floor, the first bubble pops under its
       paw and the cat leaps straight up into the air, fur on end.
+  - id: gcans-A
+    build: 104
+    kit: gcans
+    # Facts: A1-A2: north of Tokyo "The area is like the bottom of a bowl, where rainwater accumulates easily"
+    # (nippon.com, Apr 4 2017). A3: "five gigantic vertical shafts" "about 70 meters tall" and "about 30 meters in
+    # diameter" joined by a tunnel that "stretches for 6.3 km", "dug about 50 meters below ground" (Web Japan, Mar 2013;
+    # nippon.com the same). A4 is our picture of the problem the tank is there for, "adjusting water pressure that could
+    # change sharply if a water pump breaks down" (Web Japan): a surge, not a claim that streets flood. A5: the tank,
+    # "177 meters long, 78 meters wide, and 18 meters high", "59 concrete columns, each weighing 500 tons" (nippon.com),
+    # "about 22 meters below ground" (Web Japan): script no uplift claim for the pillars. A6 (the water is deep down and
+    # the river is up at ground level) is fixed by B1. Leave out SoraNews24's and Wikipedia's figures (6.4 km, "5
+    # meters", seventy-eight pumps), which disagree with the rest. More in ideas.md (Nov 24 21:05, Nov 26 12:10). No
+    # faces: people small and only from behind; no writing, signs or emblems.
+    status: todo
+    file: buildit-gcans-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): deep under a city a vast dim hall of giant square concrete pillars stretches into the dark like
+      a temple, a shaft of daylight falls from a round opening high above, a lone worker in a hard hat seen from behind
+      stands tiny at the foot of one pillar, slow push-in. Shot 2 (5-10 s): a typhoon over a low flat suburb between
+      wide rivers, sheets of rain, the rivers overflow and brown water spreads through the streets and rice fields like
+      water filling a bowl, wide aerial. Shot 3 (10-15 s): a swollen brown river spills over a low concrete wall into a
+      giant round concrete shaft as wide as a stadium, the water spiralling down into the dark far below, wide aerial.
+      Shot 4 (15-20 s): deep underground a giant pump suddenly stops, a wall of brown water slams back down a huge round
+      tunnel and shoots up a shaft in a towering surge, spray bursting everywhere, wide view. Shot 5 (20-25 s): the vast
+      pillared hall fills calmly as the surge spreads out across it, the brown water rising smoothly between the 59
+      giant pillars, ripples settling, wide view. Shot 6 (25-30 s): cutaway under a flat city at night in heavy rain, a
+      long round tunnel 50 meters down is filled with floodwater while a wide river flows high above at ground level
+      behind its levee, rain still pouring, wide view.
+  - id: gcans-B
+    build: 104
+    kit: gcans
+    # Facts: B1: "four large pumps" (MLIT Edogawa River Office, English page edogawa00734, read Nov 26 2026), volute
+    # pumps of 50 m3/s each, 200 m3/s in all, into the Edo River; each driven by a two-shaft gas turbine of 14,000 hp,
+    # "originally developed for an aircraft" (00734; nippon.com: "modified versions of the gas turbines used in
+    # jetliners"), chosen over diesel engines because it keeps the machine room free of water and saves space, about
+    # 100 t lighter with less vibration (edogawa00352). The lift is "up to 14 meters" (00734): never say the pumps lift
+    # the water 50 m. B2-B3: after the big pumps stop, about 670,000 m3 of water left in the system ("一次残水") is
+    # drained by two pumps in three days into the Kuramatsu River (00352; check it is after each use, not the trial
+    # runs); B2's still, half-full tunnel is our picture of that. B4 teases build 105, the Brooklyn Bridge (LINEUP;
+    # granite towers and steel-wire cables), with no people's faces and no writing. B5: Typhoon Hagibis, Oct 12 2019
+    # (NASA Earth Observatory; MLIT's quick report puts 12.2 million m3 at the Showa pump station: check; "Thank you,
+    # Underground Temple." was a tweet quoted by SoraNews24): ideas.md Nov 25 16:10. Line 12: "200 M3 A SECOND" or "59
+    # PILLARS"; the still can be the pillared tank (free Unsplash photos by C Cai, ideas.md Nov 25 05:05: look for
+    # people first). B6: the garden hose (ideas.md Nov 24 21:05). No faces: people only from behind; no writing.
+    status: todo
+    file: buildit-gcans-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): in a huge pump hall four giant gas turbines like jet engines roar to life one after another,
+      then at the outlet torrents of brown floodwater gush out of four gates into a wide river, wide view. Shot 2 (5-10
+      s): after the storm the giant pumps fall silent, yet a long deep round tunnel is still half full of dark still
+      water lying below their intakes, a single work light glinting on it, wide view. Shot 3 (10-15 s): time-lapse, two
+      smaller pumps hum day and night and the dark water in the deep round tunnel slowly sinks until its wet concrete
+      floor shines, wide view. Shot 4 (15-20 s): at dawn the granite towers and steel-wire cables of a great old
+      suspension bridge rise out of the river mist over New York's East River, gulls gliding past, slow aerial push-in.
+      Shot 5 (20-25 s): during a typhoon brown water gushes out of the gates of a flood tunnel's outlet into a swollen
+      river, people in raincoats seen from behind on the levee watching, wide aerial. Shot 6 (25-30 s): funny slow
+      motion, a garden hose left lying on a lawn suddenly jumps to full pressure, whips around and soaks a dog
+      sunbathing on a towel, the dog sitting up drenched and offended.
