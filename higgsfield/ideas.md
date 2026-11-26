@@ -2954,3 +2954,76 @@ Free footage and pictures
 - Checked, nothing new: today's search for Higgsfield's Black Friday offers returned only the pages already in these
   notes (the mydealz deals, the "33 days unlimited Seedance 2.5" page), so Nov 28 stands; a search for this month's
   viral engineering formats returned Snapchat topic pages and old trend lists only.
+
+## 2026-11-25 19:05 PT (hourly runner, cloud run)
+
+New content
+- The Rockefeller Center tree in New York, a candidate build with a date (new to these notes, which have the string
+  lights and the Times Square ball but not the tree; not in LINEUP). This year's is a "76-foot-tall Norway spruce"
+  that "measures 50 feet in diameter", "weighs roughly 11 tons" and is about 75 years old, from West Edmeston, New
+  York, cut on Thu Nov 5 and set up on Sat Nov 7; it is lit on Wed Dec 2 (the UAE's National Day too) and stays up to
+  Jan 9 2027, with "more than 50,000 multicolored, energy-efficient LED lights strung across five miles of wire" and a
+  900 lb star (6sqft, Oct 26 2026; WTOC/WCBS, Nov 7 2026; Secret NYC, Sep 28 2026). How: "a crane supports the tree
+  while it is cut", and a "custom telescoping trailer" could take 125 ft but street widths cap the tree at 100 ft
+  (Wikipedia); the branches are tied for about six days, then it is "lowered onto a flatbed truck by crane and
+  strapped down" and rides with "a police escort and some closed streets" (the 2023 tree: 190 miles in "a
+  day-and-a-half"); in the plaza a hole drilled in the trunk's base takes a steel spike that sits in a stand that
+  "latches onto angle iron", the star ("70 spikes covered in three million crystals") drops into a pipe set down the
+  middle of the trunk, and the tree drinks "about 90 gallons" at first (NBC, Nov 28 2023); it is held by "four
+  guy-wires attached at its midpoint and by a steel spike at its base" (Wikipedia; 6sqft), and afterwards milled into
+  lumber for Habitat for Humanity. For a line: the 1931 tree was a 20 ft balsam fir hung with "strings of cranberries,
+  garlands of paper, and even a few tin cans", the tallest was 100 ft (1999), and in 2020 an owl was found "within the
+  wrapped branches of the newly delivered tree" (Wikipedia: a line 14 joke). A chain (the breaks are ours): A1, at
+  night an 11-ton spruce swings upright on a crane between skyscrapers; A2, a 50-foot-wide tree far upstate, wider
+  than the road; A3, climbers bind the branches, the crane holds it while a chainsaw cuts; A4, the long trailer stuck
+  on a tight city corner; A5, the telescoping trailer at night behind an escort; A6, the tall tree leaning in a windy
+  canyon of towers; B1, the spike and the four guy-wires; B2, a 900 lb star bending the thin tip; B3, the pipe down the
+  trunk that carries it; B5, the lighting with the crowd from behind; B6, funny slow motion, a family's big tree jams
+  in an apartment doorway and sheds needles everywhere. Line 12: "50,000" or "900 LB". Leave out the star's width
+  ("over nine feet" against "nine feet, four inches") and the LED power saving (1,200 kWh a day against 3,510 down to
+  1,297), the donors' names, the wartime years, and the star's designer and maker; keep the star small in a real photo
+  (it is a 2018 design). Frame it like the string lights, a winter display of a crane and lights, not a religious
+  holiday; whether it suits Kef Tenbeni, and whether two Seedance jobs can still run by Nov 28, is the main chat's call.
+  [6sqft, Oct 26 2026](https://www.6sqft.com/rockefeller-center-reveals-2026-christmas-tree/),
+  [WTOC (WCBS), Nov 7 2026](https://www.wtoc.com/2026/11/08/rockefeller-christmas-tree-arrives-new-york-city/),
+  [Secret NYC, Sep 28 2026](https://secretnyc.co/rockefeller-center-christmas-tree-2026-details/),
+  [Wikipedia](https://en.wikipedia.org/wiki/Rockefeller_Center_Christmas_Tree),
+  [NBC, Nov 28 2023](https://www.nbcchicago.com/entertainment/holidays/answers-to-25-big-questions-about-the-rockefeller-center-christmas-tree/),
+  [6sqft, 10 things](https://www.6sqft.com/10-things-you-didnt-know-about-the-rockefeller-center-christmas-tree/),
+  [Discover, Dec 23 2022](https://www.discovermagazine.com/planet-earth/how-cities-choose-and-relocate-those-massive-christmas-trees)
+- The Jeddah Tower's ground and concrete, new facts for Build #100 (written into jeddahtower-A/B this run, now that
+  the evening run made 97-99 in the v2 look): under "silty sand at grade, up to 2 m thick" lies "a 45-m- to 50-m-thick
+  layer of porous limestone, full of imprints of shells", and the 270 friction piles run "from 45 m at the wing tips
+  to 105 m under the core" (ENR, Nov 11 2015); "Jeddah's rock is at least 10 times softer than Manhattan bedrock"
+  under a "gravity load of 860,000 tonnes" (ENR, Jan 11 2016); "The taper minimizes vortex shedding" (ENR 2015), and
+  the plan was "inspired by the folded fronds of a sprouting desert plant" and checked in "extensive wind tunnel
+  testing" (Thornton Tomasetti). Lifts: "carbon-fiber-based belts instead of steel ropes", "light enough for the 638-m
+  single run" (ENR 2015, the plan then), double-deck cars "exceeding 10 meters (30 feet) per second" (Thornton
+  Tomasetti). Concrete: "85-MPa" walls; "The first floor took about 35 days", then "a 14-day floor cycle" (ENR 2015),
+  now "four floors a month" (Newsweek, Oct 30 2026); four stationary pumps with "a maximum feed pressure of up to 243
+  bar" (Construction News, Sep 15 2015), used "only at night" in the "steamy daytime temps" (ACerS, Mar 5 2014: old,
+  check). Conflicts: the pump maker's note has piles "more than 120m deep" (say 105), and the 2014-15 pages give 200 or
+  240 floors and a 2019 finish (out of date). Still no report of the 500 m halfway mark at 19:00 PT Nov 25 (newest:
+  Newsweek, upd. Nov 5; Thornton Tomasetti's October caption "nearing 500m").
+  [ENR, Nov 11 2015](https://enr.com/articles/37924-jeddah-towers-climb-to-one-kilometer-picks-up-speed),
+  [ENR, Jan 11 2016](https://enr.com/articles/38660-poeppel-designs-worlds-trickiest-supertall-skyscraper-foundation),
+  [Thornton Tomasetti](https://www.thorntontomasetti.com/project/jeddah-tower),
+  [Construction News, Sep 15 2015](https://www.construction.co.uk/construction-news/203303/schwing-stetter-produces-concrete-for-world-s-tallest-building),
+  [ACerS, Mar 5 2014](https://ceramics.org/ceramic-tech-today/worlds-tallest-building-to-bes-got-99-problems-and-concretes-one)
+
+Trends
+- Tokchart, a free daily chart of the fastest-growing TikTok audios (new to these notes): the US and worldwide top 10
+  are open without signing in ("You're seeing today's top 10 of 1,717 audios", US, "Updated 25 November 2026"), the
+  rest is "Pro", and its Radar of audios caught early ("290 audios caught early in the last six months") shows 20 rows
+  free ("Radar is in Discovery, $149 a month"). This week's top 10s are songs with vocals, memes and creators' own
+  audio (the GTA VI score again, already in these notes, and a trance track, "G.T.A. – Grand Trance Audio"): nothing
+  to lay under a narrated explainer, and the pages say nothing about business accounts, so TikTok's Commercial Music
+  Library check still applies. A quick daily look for a sound at most.
+  [Tokchart US](https://tokchart.com/tiktok-trending-sounds/united-states), [Tokchart worldwide](https://tokchart.com/growing),
+  [Tokchart Radar](https://tokchart.com/radar/early-finds)
+
+Free footage and pictures
+- Checked, nothing new: Higgsfield's "Free Unlimited Seedance 2.0: July 2026 Referral Promotion" (Jul 14 2026) gave
+  up to 7 days of Seedance 2.0 at 720p and 8 s a clip for invites "before July 17": closed, and nothing found today
+  extends Nov 28 for the annual Plus plan.
+  [Higgsfield, Jul 14 2026](https://higgsfield.ai/blog/how-to-get-free-unlimited-seedance-2)

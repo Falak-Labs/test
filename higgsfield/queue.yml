@@ -1197,3 +1197,67 @@ jobs:
       orbit. Shot 6 (25-30 s): funny slow motion, in a home kitchen a person seen from behind turns the tap on full
       over a spoon in the sink, a wide fan of splashes soaks their shirt, the window and a cat on the counter, who
       glares.
+  - id: jeddahtower-A
+    build: 100
+    kit: jeddahtower
+    # Facts: the ground (A2): "silty sand at grade, up to 2 m thick. Beneath that is a 45-m- to 50-m-thick layer of
+    # porous limestone, full of imprints of shells" (ENR, Nov 11 2015); "Jeddah's rock is at least 10 times softer than
+    # Manhattan bedrock", under a "gravity load of 860,000 tonnes" (ENR, Jan 11 2016). The fix (A3): "270 bored piles,
+    # each 1.8-meters in diameter, that go to depths up to 105 meters" under a "5-meter thick raft" (Thornton
+    # Tomasetti's project page); ENR 2015 has them "from 45 m at the wing tips to 105 m under the core", "to reduce
+    # settlement" (a 2015 pump maker's note says "more than 120m": say 105). The wind (A4): "three miles an hour at the
+    # base, but it could be 30 miles an hour up at height", and work stops above a set wind speed (Newsweek, Oct 30
+    # 2026). Its fix (A5): "The three-legged plan, a continuously tapering vertical profile", "inspired by the folded
+    # fronds of a sprouting desert plant", checked in "extensive wind tunnel testing" (Thornton Tomasetti); "The taper
+    # minimizes vortex shedding" (ENR 2015). A6: steel lift ropes reach "practical limits" at about 500 m "due to rope
+    # self-weight" (Wikipedia, ideas.md Nov 24 12:05); the carbon-fibre fix is B1. A1: the core is at "484 meters", the
+    # 121st floor, with the halfway mark (125 floors, 500 m) expected "around Thanksgiving" (Newsweek, upd. Nov 5); no
+    # 500 m report found at 19:00 PT Nov 25, so check the news before the script. More in ideas.md (Nov 24 12:05 and
+    # 15:59, Nov 25 09:00 and 19:05). No faces: workers small and from behind; no flags, signs or writing anywhere
+    # (Seedance would draw false Arabic); leave the 2018 pause out.
+    status: todo
+    file: buildit-jeddahtower-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): at sunrise a slow aerial climbs the side of a giant unfinished three-winged concrete skyscraper
+      on the Red Sea coast, tower cranes on its top above a layer of haze, the city tiny far below. Shot 2 (5-10 s):
+      cutaway of the ground under a seaside desert city, a thin layer of sand over a thick bed of pale porous
+      limestone full of fossil shells and salty water, a giant concrete block on it sinks and tilts as the soft rock
+      crumbles, wide view. Shot 3 (10-15 s): cutaway under a giant tower, hundreds of thick concrete piles bored deep
+      into the soft rock, the longest under the middle, all joined at the top by one huge concrete slab five meters
+      thick, wide view. Shot 4 (15-20 s): palm trees stand still at the foot of a tall plain box-shaped tower while
+      half a kilometre up a howling wind whips around its top, white swirls of air peel off its sides and the top
+      sways, cranes swinging, wide view. Shot 5 (20-25 s): in a wind tunnel white smoke flows smoothly past a white
+      model of a tower with three curved wings tapering to a needle, no swirls, the model perfectly still, close-up.
+      Shot 6 (25-30 s): in a very tall dark lift shaft a thick bundle of steel cables hangs hundreds of meters and
+      stretches under its own weight, the motor at the top straining, the lift car far below barely moving, slow tilt
+      down.
+  - id: jeddahtower-B
+    build: 100
+    kit: jeddahtower
+    # Facts: the lifts (B1): "carbon-fiber-based belts instead of steel ropes", "light enough for the 638-m single run"
+    # to the observation deck (ENR, Nov 11 2015: the 2015 plan, check the run), and double-deck cars "exceeding 10
+    # meters (30 feet) per second" (Thornton Tomasetti). B2 is our own break (concrete in the midday heat); its fix
+    # (B3): the pumps "were only able to be used at night" in the "steamy daytime temps" (ACerS, Mar 5 2014: old, check),
+    # four stationary pumps with "a maximum feed pressure of up to 243 bar" (Construction News, Sep 15 2015) push
+    # "85-MPa" concrete up the core (ENR 2015), and the pace went from "The first floor took about 35 days" (ENR 2015) to
+    # "four floors a month" (Newsweek, Oct 30 2026). B4 teases build 101, the fire sprinkler (LINEUP: a little glass
+    # bulb of liquid swells in the heat and bursts at about 68 C, and only the head over the fire opens; FPA, NFSA,
+    # ideas.md Nov 24 15:05), with no brand on the head. B5: the tower at dusk; Saudi Arabia has no freedom of panorama,
+    # so Seedance or a picture model, never a Commons photo (ideas.md Nov 24 14:02). B6 (ours): a tower of washed
+    # dishes topples, the tower that had no piles. Lines 12-13: "105 M" or "270 PILES"; the still can be the finished
+    # tower at dusk. No faces: people small and from behind; no flags, signs or writing on the building.
+    status: todo
+    file: buildit-jeddahtower-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): macro of a thin flat black carbon fibre belt running over a big pulley at the top of a lift
+      shaft, then a double-decker lift car glides up a very tall shaft fast and smooth, wide view. Shot 2 (5-10 s): at
+      noon under a blazing desert sun a bucket of fresh grey concrete hangs from a crane high on an unfinished tower,
+      steaming, cracking and going stiff before it reaches the top, close-up. Shot 3 (10-15 s): at night under
+      floodlights a pump at the foot of a giant tower pushes concrete up one thin steel pipe climbing the whole core,
+      and at the top a placing boom pours it smoothly into the walls, wide view. Shot 4 (15-20 s): macro of a ceiling
+      sprinkler head with a small red glass bulb of liquid, hot grey smoke curls around it, the liquid swells, the
+      bulb bursts and water sprays over just one spot, close-up. Shot 5 (20-25 s): the real Jeddah Tower at dusk, its
+      three-winged core rising nearly half a kilometre above the city by the Red Sea, crane lights blinking on top,
+      small people seen from behind on a seaside promenade looking up, slow aerial orbit. Shot 6 (25-30 s): funny slow
+      motion, in a home kitchen a person seen from behind sets one more plate on a towering stack of washed dishes, it
+      sways and topples plate by plate into a sink of soapy water with a huge splash, a cat flinching.
