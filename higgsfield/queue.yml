@@ -1223,7 +1223,13 @@ jobs:
     # passes, after the Petronas Towers (452 m, passed at 454 m, Sep 3) and Central Park Tower (about 472 m, passed at
     # about 474 m, Oct 6): a series callback for the script. Still no 500 m report at about 01:00 PT Nov 26 (ideas.md
     # Nov 26 01:05).
-    status: todo
+    # Done (History ffe954c9, created 09:12:50 PT Nov 26, most likely by the on-computer runner's 09:08 run, which left
+    # no line; the style line and the shots below word for word, 0 credits), done when read at 09:50 and fetched by the
+    # cloud runner at 09:52. As run: cuts at 5.3, 10.5, 15.0, 20.5 and 25.2 s; shot 4 drew a tapering tower (not a plain
+    # box) with a white ring of wind round its top, so it shows wind up high but not the box-against-taper contrast
+    # with shot 5; no text or flags in one frame per shot.
+    status: done
+    url: https://d8j0ntlcm91z4.cloudfront.net/user_3JVoPmIx9s2blaONPVU7QOaTPpM/hf_20261126_171250_ffe954c9-b8cc-472c-9fde-ba729c538f2a.mp4
     file: buildit-jeddahtower-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): at sunrise a slow aerial climbs the side of a giant unfinished three-winged concrete skyscraper
