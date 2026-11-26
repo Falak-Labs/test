@@ -1,0 +1,239 @@
+{
+ "slug": "ep100-jeddahtower",
+ "kit": "jeddahtower",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, in Jeddah they're building a tower a thousand meters tall.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] But the ground is soft rock full of seashells. So how tall is it now?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So two hundred seventy piles go down as deep as a hundred five meters.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But up top, the wind can blow ten times faster.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So the tower gets skinnier as it rises, and the wind can't grab it.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But a skinny tower could wobble like a pencil.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So three wings hold up the middle, like a tripod.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But metal ropes that long get way too heavy.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So the lifts ride light carbon fiber belts, over six hundred thirty meters up.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building a fire sprinkler. [chuckles] Only one turns on!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? Almost halfway! [chuckles] Nearly five hundred meters, already past Malaysia's twin towers.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Two hundred seventy piles, three wings, and a kilometer of tower.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built the Jeddah Tower yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] A kilometer of tower... [laughs harder] and stepping out of the car still fogs up your glasses.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "21/167",
+   "mix_lines_off": [
+    "L 1 1 diff  | Y'all, in Jetta they're building a tower a thousand meters tall.",
+    "L 3 6 diff  | So 270 piles go down as deep as 105 meters.",
+    "L 7 1 diff  | Three wings hold up the middle like a tripod",
+    "L 9 5 diff  | Though the lips ride light carbon fiber belts over 630 meters up",
+    "L10 1 diff  | Hit follow cuz next we're building a fire sprinkler. Only one turns on.",
+    "L11 3 diff  | The answer? Almost halfway! Nearly 500 meters already passed Malaysia's Twin Towers.",
+    "L12 3 diff  | 270 piles, 3 wings and a kilometer of tower.",
+    "L13 1 diff  | And congrats, you just built the Jetta Tower yourself!"
+   ],
+   "size_mb": 14.9,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، في جدة قاعدين يبنون برج طوله كيلو كامل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] بس أرض جدة صخر لين مليان صدف. طيب كم طوله الحين؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فحطوا تحته ميتين وسبعين عمود، بعضها ينزل مية وخمسة متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس الهوا اللي تحت نسمة، فوق يصير أسرع بعشر مرات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فالبرج يصير أنحف كل ما طلع، والهوا ما يلقى شي يمسكه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس برج نحيف كذا ممكن يتمايل مثل القلم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فثلاث أجنحة تسند النص، مثل الستاند أبو ثلاث رجول.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس حبال المصاعد الحديد بهالطول تصير ثقيلة مرة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فالمصاعد تمشي على سيور كربون خفيفة، وتطلع فوق ستمية وثلاثين متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني رشاش الحريق. [chuckles] واحد بس يشتغل!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ تقريباً نص الطريق! [chuckles] قرب خمسمية متر، وعدّى أبراج بتروناس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] ميتين وسبعين عمود، ثلاث أجنحة، وكيلو كامل من البرج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك برج جدة بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] برج طوله كيلو... [laughs harder] وأنت أول ما تنزل من السيارة، نظارتك تغبّش!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 14.6,
+   "cover": true
+  }
+ }
+}
