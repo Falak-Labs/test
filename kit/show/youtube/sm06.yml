@@ -1,0 +1,51 @@
+# What YouTube shows for Survival Mode 6: You vs the Sea. show/handoff.py turns this into the upload sheet.
+date: 2026-11-27                 # the Pacific day it goes public
+chapters:
+  en: ["No land. No shortcut. No light.", "Level 1: the Burj Al Arab vs the waves", "Level 2: the Suez Canal vs the detour",
+       "Level 3: the Lighthouse of Alexandria vs the dark", "Final level: the Dutch storm barrier vs the North Sea", "Results"]
+  ar: ["بدون أرض ولا طريق مختصر ولا نور", "المرحلة الأولى: برج العرب والموج", "المرحلة الثانية: قناة السويس ولفّة أفريقيا",
+       "المرحلة الثالثة: منارة الإسكندرية والظلام", "المرحلة الأخيرة: حاجز العواصف الهولندي وبحر الشمال", "النتيجة"]
+en:
+  full:
+    time: "10:00"
+    title: "Survival Mode: You vs the Sea ⚓ Burj Al Arab, Suez Canal, a Lighthouse"
+    desc: |
+      No land. No shortcut. No light. Four levels, four bosses made of salt water, and you beat them with sand, steam, fire and steel.
+
+      {chapters}
+
+      Every level is a real build: the Burj Al Arab stands 321 meters tall on an island made just for it, on 230 concrete piles driven 40 meters into the sand.
+      The Suez Canal runs 193 kilometers through the desert with zero locks, and made the trip from London to India almost 9,000 kilometers shorter.
+      Sailors saw the fire of the Lighthouse of Alexandria 50 kilometers out at sea, and each arm of the Dutch storm barrier weighs 6,800 tonnes and swings on a 10-meter ball joint.
+
+      New episode every day. Subscribe, or the boss wins.
+      #engineering #survival #howitworks
+  short:
+    time: "12:15"
+    title: "A Hotel Standing in the Open Sea ⚓ Survival Mode: You vs the Sea"
+    desc: |
+      Level 1 of 4: Dubai. You want a hotel out in the open sea, where there's no land at all, so you build your own island and stand the Burj Al Arab on it.
+      The full episode with all four levels is on this channel: "Survival Mode: You vs the Sea".
+      #Shorts #engineering #survival
+ar:
+  full:
+    time: "09:00"
+    title: "طور البقاء: أنت ضد البحر ⚓ برج العرب وقناة السويس ومنارة الإسكندرية"
+    desc: |
+      بدون أرض. بدون طريق مختصر. بدون نور. أربع مراحل وأربعة زعماء من البحر، وأنت تغلبهم بالرمل والبخار والنار والحديد.
+
+      {chapters}
+
+      كل مرحلة بناء حقيقي: برج العرب علوه ثلاثمية وواحد وعشرين متر فوق جزيرة انبنت له، على ميتين وثلاثين عمود خرسانة بطول أربعين متر.
+      وقناة السويس مية وثلاثة وتسعين كيلو وسط الصحرا وولا هويس، وقصّرت طريق لندن للهند تسعة آلاف كيلو تقريبا.
+      ومنارة الإسكندرية كان البحارة يشوفون نارها من خمسين كيلو، وحاجز العواصف الهولندي كل ذراع فيه ستة آلاف وثمنمية طن ويلف على كورة حديد عشرة متر.
+
+      حلقة جديدة كل يوم. اشترك، ولا الزعيم يفوز.
+      #هندسة #طور_البقاء #كيف_تنبني
+  short:
+    time: "10:30"
+    title: "فندق واقف وسط البحر ⚓ طور البقاء: أنت ضد البحر"
+    desc: |
+      المرحلة الأولى من أربع: دبي. تبي فندق وسط البحر وهناك ما فيه أرض، فتسوي جزيرتك بنفسك وتوقّف عليها برج العرب.
+      الحلقة الكاملة بالمراحل الأربع على القناة: "طور البقاء: أنت ضد البحر".
+      #Shorts #هندسة #طور_البقاء

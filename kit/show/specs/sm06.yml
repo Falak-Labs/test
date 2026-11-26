@@ -36,10 +36,11 @@ levels:
     color: "#8FB8FF"
     en: {world: "THE NETHERLANDS", boss: "THE NORTH SEA", sub: "A QUARTER OF THE COUNTRY  ·  BELOW THE SEA", unlocked: "THE DUTCH STORM BARRIER",
          stamp: "STORM SURGE", chips: [["6,800 t", "EACH ARM"], ["10 m", "BALL JOINTS"], ["22 m", "WALL OF STEEL"]],
-         shot: 2.6, still: 3.3}       # the two arms swinging shut across the river, seen from above (earlier in the Arabic hook)
+         shot: 11.7, still: 12.6}     # the storm pushing the sea over the dike toward the houses (the hook is a view from above: two
+                                      # thin arms on a river, hard to read in half a second); earlier in the Arabic build
     ar: {world: "هولندا", boss: "بحر الشمال", sub: "ربع البلد  ·  تحت مستوى البحر", unlocked: "حاجز العواصف الهولندي",
          stamp: "البحر جاي", chips: [["6,800 t", "كل ذراع"], ["10 m", "كورة المفصل"], ["22 m", "جدار حديد"]],
-         shot: 2.1, still: 2.8}
+         shot: 10.7, still: 11.6}
 en:
   chip: "SURVIVAL MODE  ·  YOU VS THE SEA"
   ribbon: "YOU VS THE SEA"
