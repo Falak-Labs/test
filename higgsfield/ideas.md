@@ -4343,3 +4343,81 @@ December dates (new to these notes: no Voyager, EBR-I or Segway line yet)
 Checked, nothing new
 - A search for this December's short-form trends in science explainers returned vendor listicles (ShortGenius,
   Kineclip, Klap; not read) and Dazed's Sep 10 "explainer" piece, already in these notes.
+
+## 2026-11-26 19:00 PT (hourly runner, cloud run)
+
+Build 109, the Eastgate Centre in Harare (new to these notes: only its photo rule was here, Nov 26 12:10)
+- The facts behind LINEUP 109, from the architect's own project page: "Commissioned March 1991", "Construction Jan
+  1993 - April 1996", "Occupancy April 1996"; "Architects Pearce Partnership", "Engineers Ove Arup and Partners";
+  "two buildings side by side linked together by a glass roof", "Total combined floor area 55000msq", "the seven
+  floors of offices" (mickpearce.com). Arup: "When it first opened its doors in 1996, Eastgate was Zimbabwe's largest
+  office and shopping development." How it cools, a chain for the shots: "32 banks of low and high volume fans draw
+  air from the atrium through filters"; "the high volume fans run at night to give ten air changes per hour and low
+  volume fans run during the day giving two air changes per hour"; the air is "fed through the hollow floors to low
+  level grilles"; "The cold night air passing through the void festooned with concrete teeth removes the heat of the
+  previous day"; the warm air leaves by "48 brick funnels topping internal stacks" (Pearce; ASME: "48 brick
+  chimneys"), Arup's "stack effect" made "by allowing cool air to enter its base and warm air to discharge at roof
+  level". So it runs fans: say "no ordinary air conditioning", never "no machines".
+- The energy figure in LINEUP ("about a tenth") is Arup's "90% less energy to heat and cool", heating and cooling
+  only. The architect's page says "Eastgate uses 35% less total energy than the average consumption of six other
+  conventional buildings with full HVAC in Harare" and "less than 50% of the energy used in conventionally air
+  conditioned buildings". Different baselines: a line names the one it uses, or takes a safer stat: "The saving on
+  capital cost compared with full HVAC was 10% of total building cost" (Pearce; ASME: "10 percent less to build"),
+  "48 CHIMNEYS", or "10 AIR CHANGES AN HOUR" by night. ASME (Mark Wolverton, Nov 21 2019) also has "saved $3.5
+  million in energy costs during its first five years" with no source named: check before use. It is not cold
+  inside: "3°C of cooling between outside and inside temperature is achieved", offices "up to 27 - 28°C on certain
+  days", and "People and machines add 1.5°C to the internal temperature each day" (Pearce); ASME: "mid-70s degrees
+  Fahrenheit", "may reach 80-82 degrees". So "cooler than the street", not "cold".
+- A true twist for line 11 or the tag: the termite picture it copied is not how the mounds work. The old idea was the
+  Swiss entomologist Martin Lüscher's ("many researchers believed the mounds acted as air conditioners"), made
+  popular by Scientific American in 1961; Scott Turner found the mounds "didn't regulate temperature so much as push
+  oxygen and carbon dioxide into and out of the nest", and "While the Eastgate Centre did work as planned, the mounds
+  on which it was based functioned in an entirely different manner" (Nautilus, Lee Billings, Dec 13 2013). Harvard's
+  team (L. Mahadevan, Hunter King, Samuel Ocko; field work in India; PNAS, 2015): the mounds "act similarly to a lung,
+  inhaling and exhaling once a day as they are heated and cooled" (Harvard SEAS, Sep 10 2015). ASME quotes Guy
+  Theraulaz: "Eastgate Centre was built on a wrong conception of how termites regulate the temperature of their
+  nests." The line: it copied the termites wrong and still works (Nautilus quotes Turner: it "succeeded because Pearce
+  was a very good architect rather than a crude imitator of nature"). What the two share is the day-night rhythm: the
+  mound breathes once a day, and Eastgate's concrete soaks up the night's cool and gives it back by day. Pearce and
+  Turner are real people: never shown; the building, mounds, fans, concrete and hands only.
+  [Mick Pearce, Eastgate](https://mickpearce.com/Eastgate.html),
+  [Arup, Eastgate](https://www.arup.com/projects/eastgate),
+  [ASME, Nov 21 2019](https://www.asme.org/Topics-Resources/Content/What-Termites-Can-Teach-Engineers),
+  [Nautilus, Dec 13 2013](https://nautil.us/the-termite-and-the-architect-234706/),
+  [Harvard SEAS, Sep 10 2015](https://seas.harvard.edu/news/how-termites-ventilate)
+
+A free source (new to these notes: Openverse is here since Nov 23, this directory itself was not)
+- The WordPress Photo Directory (wordpress.org/photos): "Photo contributors submit their original content under the
+  CC0 license", and "This license allows everyone to use the photos anywhere, for any purpose, without the need for
+  permission, attribution, or payment" ("Photo attribution is not necessary, but appreciated"). Each photo page
+  offers the original and 2048, 1536 and 768 px copies. Two termite mounds for 109: Ankit Panchal's of Apr 17 2025
+  (2268 x 4032, exactly 9:16: "a termite mound on the ground, featuring a spiral structure with concentric rings") and
+  Shubham Patil's of Mar 4 2025 (4000 x 2250, "a natural termite mound structure on the ground, surrounded by small
+  green plants"). Neither names a place, and both are low ground mounds, not the tall African towers Eastgate copied:
+  fine for a "termites build this" beat, not as a Zimbabwe mound; look at both before use.
+  [WordPress Photos, 4466800b68](https://wordpress.org/photos/photo/4466800b68/),
+  [WordPress Photos, 66367c6c36](https://wordpress.org/photos/photo/66367c6c36/)
+
+Still open from the Nov 24 03:01 entry (platform rules; for a production run or the main chat, not this runner)
+- The AI label: scripts/post.py and scripts/buffer.py still set no AI-generated flag (a grep for aigc, "generated" and
+  "ai" finds none), and posts/*.yml carry none, so the Seedance builds of episodes.yml (look: sd, 76-95) went out or
+  are queued through Buffer (TikTok, Instagram and the YouTube posts sent that way) without the platforms' AI label;
+  Studio uploads answer YouTube's altered-content question by hand (YOUTUBE_STUDIO_UPLOAD.md says "answer it
+  truthfully for this video", though its sample script clicks _NO). TikTok's rule is "We also require creators to
+  label all AI-generated content that contains realistic images, audio, and video" and "We may remove content that
+  violates our Community Guidelines policies by depicting misleading information or unlabeled AI-generated content"
+  (support page, in that entry). The fix named there still stands: find Buffer's "AI-Generated" field with
+  scripts/inspect_api.py in CI (it needs the Buffer key), then have post.py set it for `look: sd` builds.
+
+Checked, nothing new
+- A freely licensed photo of the Eastgate building itself: the search found only the Wikipedia article (not opened;
+  its fetches have waited for an approval in earlier runs). Termite mound pictures elsewhere in the results are paid
+  stock (Getty, Adobe Stock, Alamy, Masterfile) or EurekAlert research images with their own terms (not read): not
+  free.
+- TikTok's AI label: two vendor pages say more than TikTok does and cite no dated TikTok rule: rewarx.com (no date)
+  says the switch is "now active by default for every account" and unlabeled posts are "downgraded in the For You
+  feed"; EchoTik (Jun 11 2026) repeats the realistic-content rule and says labelling "is not supposed to reduce
+  distribution by itself". TikTok's own wording is the Nov 24 03:01 entry's. YouTube's news in the results is Made on
+  YouTube 2026 (Sep 23), already here.
+  [rewarx](https://www.rewarx.com/blogs/tiktok-ai-label-toggle-mandatory-stay-live),
+  [EchoTik, Jun 11 2026](https://www.echotik.live/blog/tiktok-ai-content-labeling-rules-2026/)

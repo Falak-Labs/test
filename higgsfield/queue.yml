@@ -1590,3 +1590,65 @@ jobs:
       elephants walks across a great stone-towered suspension bridge under gas lamps, crowds seen from behind watching,
       slow drone push. Shot 6 (25-30 s): funny slow motion, a man seen from behind sends his dog across a wobbly plank
       over a muddy puddle first, the plank holds the dog, then he steps on it and falls into the mud.
+  - id: riyadhmetro-A
+    build: 106
+    kit: riyadhmetro
+    # Added Nov 26 18:59 PT by the hourly runner (cloud) with five jobs above still todo: the evening run of Nov 26
+    # took 103-105 and pushed their scripts at 18:57 PT while bubblewrap-B, gcans-A/B and brooklyn-A/B were not made
+    # (none of the three builds has both clips), so by SEEDANCE_STYLE.md step 1 those builds go the v2 way and their
+    # jobs only make spares. 106 is the next LINEUP idea with no pair; the midday run of Nov 27 (11:23 PT) takes it.
+    # Facts (ideas.md Nov 25 09:00 and 21:00, Nov 26 09:00): a "176-kilometer, 85-station Riyadh metro rail system"
+    # (ENR) on "six lines" (Gulf News), "certified by Guinness World Records as the longest fully driverless train
+    # network" (Gulf News, upd. Nov 27 2025), with "Level 4 automation, eliminating the need for onboard operators"
+    # (Arab News): A1. A2 (a capital of millions stuck in cars in the heat) is our reading; the city "had to remain
+    # open to traffic and fully functional for millions of residents" (ENR). A3: the machines cut "dense limestone and
+    # breccia" (Arab News); the counts differ by source (Herrenknecht lists "4x Multi-mode TBM" for Line 1 and "2x EPB
+    # Shield" for Line 5): say "giant boring machines". A4: "The biggest challenge was managing groundwater, as there
+    # were extensive underground aquifers" (the BACS project director, ENR). A5: "Over 5,000 massive precast
+    # segments" went into the viaducts (Bechtel, 2017). A6 (heat and sand on an open platform) is ours, fixed by B1.
+    # Leave out the cost, the inauguration, plans and targets, and the makers' names. No faces: people only from
+    # behind; no logos, brand names or writing anywhere.
+    status: todo
+    file: buildit-riyadhmetro-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): at dusk a sleek metro train with no one in the driver's cab glides out of a tunnel mouth and up
+      onto a long concrete viaduct high above a sprawling desert city, the low sun glinting on its empty front window,
+      slow aerial push-in. Shot 2 (5-10 s): midday heat haze over a vast flat desert capital of sand-colored buildings
+      and glass towers, wide highways jammed bumper to bumper with cars, the air shimmering, wide aerial. Shot 3 (10-15
+      s): deep under the city a giant tunnel boring machine grinds through pale limestone, its huge round cutting wheel
+      turning, curved concrete rings fitted behind it, dust glowing in the work lights, wide view. Shot 4 (15-20 s): at
+      the bottom of a deep station dig under the desert city, groundwater suddenly gushes from cracks in the pale rock
+      and spreads across the floor, pumps roaring, workers seen from behind wading back, wide view. Shot 5 (20-25 s):
+      time-lapse, a long elevated concrete viaduct grows across a busy desert city as a giant steel gantry lowers
+      precast concrete segments into place one after another, traffic flowing on the road below, wide view. Shot 6
+      (25-30 s): midday on an open-air train platform in the desert, a hot wind blows sand across the tiles and the air
+      shimmers, waiting passengers seen from behind fan themselves in the glare, wide view.
+  - id: riyadhmetro-B
+    build: 106
+    kit: riyadhmetro
+    # Facts: B1: "The fully air-conditioned stations are equipped with platform screen doors" (Alstom in New Atlas).
+    # B2-B3: the Yellow, Green and Purple lines' trains are "fitted with special elements in order to prevent the
+    # ingress of sand" (Alstom, Mar 6 2017), and on the Blue and Red lines "Special filters and sealing systems
+    # effectively prevent sand from entering the vehicle components and passenger compartments" (Siemens); B2's storm
+    # is our picture of the problem. B4 teases build 107, the detachable chairlift (LINEUP), with no faces and no
+    # writing. B5: "The Blue, Yellow and Purple lines opened on Dec. 1, followed by the Red and Green Lines two weeks
+    # later" (ENR, 2024); "At peak service, a train will arrive every two-and-a-half minutes" (Bechtel). Line 12:
+    # "176 KM"; line 13: 183 trains and not one driver (our sum, ideas.md Nov 25 21:00; 94 more ordered, Gulf News,
+    # upd. Oct 14 2026). B6: the pigeon that rides one stop (ours, ideas.md Nov 25 09:00). No faces: people only from
+    # behind; no logos, brand names or writing anywhere.
+    status: todo
+    file: buildit-riyadhmetro-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): inside a cool underground metro station a long glass wall of platform screen doors slides open
+      exactly in line with the doors of a waiting train, soft light, travelers seen from behind stepping aboard, wide
+      view. Shot 2 (5-10 s): a towering orange sandstorm rolls over an elevated metro line in the desert, a train runs
+      on through the swirling dust, fine sand blowing hard against its doors, wheels and air vents, wide view. Shot 3
+      (10-15 s): cutaway of the metro train in the sandstorm, thick rubber seals around its closed doors and fine
+      filters over its air intakes hold back the blowing sand while the cabin inside stays clean, bright and cool,
+      close-up. Shot 4 (15-20 s): high in snowy mountains at sunrise the empty chairs of a long chairlift glide up the
+      slope on a steel cable between tall towers, at the top station each chair lets go of the cable, slows on a
+      curved rail, then grabs the cable again and swings back out, slow aerial push-in. Shot 5 (20-25 s): on opening
+      day at dusk, crowds seen from behind stream through the gates of a gleaming new metro station in a desert city
+      as a train glides in with no one in the driver's cab, slow push-in. Shot 6 (25-30 s): funny slow motion, a
+      pigeon hops onto a metro train just as the glass doors slide shut, rides one stop standing proudly in the middle
+      of the aisle between passengers seen from behind, then hops off at the next station.
