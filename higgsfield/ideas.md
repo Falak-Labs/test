@@ -5852,3 +5852,76 @@ Checked, nothing new
   trends") still have no details on either page.
   [YouTube Blog, Aug 10 2026](https://blog.youtube/news-and-events/youtube-partner-program-updates-2027-new-opportunities-earn/),
   [Nation Thailand, Aug 14 2026](https://www.nationthailand.com/life/entertainment/40069786)
+
+## 2026-11-27 15:00 PT (hourly runner, cloud run)
+
+New content
+- Build 112, the Sydney Harbour Bridge: the beats LINEUP asks to check (new to these notes: the Nov 26 17:00 entry has
+  the cables in the rock, the meeting of the halves, the span, the steel, the 96 locomotives and free 1930 photos, but
+  not the heat, the cranes, the rivets or the paint). Heat: "Arch can rise or fall 18 centimetres due to heating or
+  cooling" (NSW Government, Minister for Roads, Dec 5 2024); "expansion of the steel structure on hot days can
+  increase the height of the arch by 18 cm (7.1 in)" (Wikipedia). What it stands on: "four steel bearings consisting
+  of large hinge pins and massive steel bases for support of the arches" (NSW State Heritage Register listing, whose
+  pictures are "the copyright of Heritage NSW or respective copyright owners": not free). No page read ties the pins
+  to the heat, so the script keeps two facts (the arch rises and falls; it stands on four giant pins), not a cause.
+  The listing's "maximum thrust at the hinges" of "435,000,000 lb. per hinge" looks about ten times too big (by a
+  rough sum of ours, some 20,000 tonnes a hinge): do not use it. Cranes: "two 580 tonne electrically operated creeper
+  cranes" (Museums of History NSW guide), one "on each side of the harbour", and they "would "creep" along the arches
+  as they were constructed, eventually meeting up in the middle" (Wikipedia); "The cranes hoisted men and materials
+  into place", and came down when the road deck was finished in 1931 (ICE). Closing: "Workers riveted both top and
+  bottom sections of the arch together, and the arch became self-supporting, allowing the support cables to be
+  removed" (Wikipedia). The hour of the meeting differs ("at 10pm", MHNSW; "just before midnight", NSW Government):
+  say "one night in August 1930". Rivets: "Approximately six million hand driven rivets and 52,800 tonnes of steel"
+  (BridgeClimb); how they were heated and thrown is on none of the pages read, so a riveting shot can show the work
+  but the script names no method. Ships: "Road deck is 49 metres above the water" (NSW Government).
+  [NSW Government, Dec 5 2024](https://www.nsw.gov.au/ministerial-releases/four-shades-of-grey-painting-blitz-on-sydney-harbour-bridge-ahead-of-100th-anniversary),
+  [Wikipedia, Sydney Harbour Bridge](https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge),
+  [Museums of History NSW, guide](https://mhnsw.au/guides/sydney-harbour-bridge-guide/),
+  [ICE](https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/sydney-harbour-bridge),
+  [BridgeClimb, construction](https://www.bridgeclimb.com/explore/construction),
+  [NSW State Heritage Register, 5045703](https://apps.environment.nsw.gov.au/dpcheritageapp/ViewHeritageItemDetails.aspx?ID=5045703)
+- 112's "the painting never really ends", checked: about right, as a thirty-year round. The same release says the
+  bridge "takes thirty years to paint", "Total painted surface of the steel structure is 485000m²", "272,000 litres of
+  paint is needed for the initial 3 coats", and the work "involves four coats of paint, each a slightly different
+  shade. The final coat is the heritage-listed Sydney Harbour Bridge Grey" (it gives no reason for the shades: do not
+  script one). "About 150,000 square metres of steel will be repainted by the centenary in 2032", and "Some of the
+  hardest sections to access, including lateral pieces of steel high in the arch, have not been painted in three
+  decades". A fix with no faces for B3: the grit-blasting robots. "Today, there are two robots working on the iconic
+  bridge: Sandy and Rosie" (Transport for NSW, undated); they are "capable of blasting away rust and paint, taking it
+  back to bare metal", "The 25kg robots", where workers had "contended with asbestos and lead from the old paint"
+  (SBS, Jul 17 2013), working "Inside the southern spans" (UTS, Dec 7 2020). The pages disagree on when the research
+  began (2005 against 2006), so no year in the script. Shot ideas: a hot afternoon, the top of the arch rising in the
+  heat shimmer (a break); salt spray and orange rust spots on the grey steel (a break); two small robots blasting
+  grit inside the dim steel of the southern spans, bare metal shining through (the fix). The centenary (Mar 19 2032)
+  is too far off for a hook now.
+  [Transport for NSW, Sandy and Rosie](https://www.transport.nsw.gov.au/data-and-research/research-hub/research-and-evaluation-projects/sandy-and-rosie-sydney-harbour),
+  [SBS, Jul 17 2013](https://www.sbs.com.au/news/article/robots-take-over-sydney-harbour-bridge/pcbvr0dhj),
+  [UTS, Dec 7 2020](https://www.uts.edu.au/case-studies/revolutionising-steel-bridge-maintenance)
+- Free pictures of 112's opening day, for the closer (new to these notes; the Nov 26 17:00 entry has a 1930 arch
+  photo): the City of Sydney Archives' "Sydney Harbour Bridge opening parade, 1932 (19/03/1932), [A-00027568]" is
+  marked "No Copyright": "This item is no longer under copyright in Australia and is in the public domain. It may be
+  used freely", with "attribution" to the City of Sydney Archives. The University of Sydney Library's "Procession at
+  official opening of Sydney Harbour Bridge (1932)" says "The University of Sydney Library believes this item or
+  collection is in the public domain in Australia" and makes no call for other countries, so the City's photo comes
+  first. Both show real crowds: use them as photos, never as a base for AI pictures. Skip the library's photo of the
+  man who cut the ribbon early (a political stunt). The 1932 opening newsreels on Australian Screen (NFSA) show no
+  licence or download on their availability pages (only "Find a copy").
+  [City of Sydney Archives, A-00027568](https://archives.cityofsydney.nsw.gov.au/nodes/view/588213),
+  [University of Sydney Library, 13742](https://digital.library.sydney.edu.au/nodes/view/13742),
+  [Australian Screen, opening newsreel](https://aso.gov.au/titles/newsreels/opening-sydney-harbour-bridge/availability/)
+
+Checked, nothing new
+- Higgsfield's Black Friday: this hour's search gave the mydealz and pepper.pl deals already here (the "72h Unlimited
+  über MCP" ones, expired by the Nov 27 entries) and Higgsfield's 11.11 and "33 days" posts: Nov 28 stands. Trend
+  searches gave only pages these notes already follow (Virlo, SocialPilot, Kapwing; not reopened). HeyOrca's
+  trending-audio post ("updated every Friday") still carried its "November 20, 2026" byline at about 15:00 PT today,
+  with the sounds already here (12:00 entry), and its trends library loads its list by script, so nothing could be
+  read from it. For recap week, TikTok's newsroom has a "Year on TikTok 2025" page and a "Year in Music" post dated
+  Dec 9 2025 (search titles only; no 2026 date found).
+- Not read: Engineers Australia's heritage wiki ("The Creeper Cranes", "Closing the Arch") and Papers Past's 1930
+  newspaper report of the closing answered with bot checks; Moore College's archive photo "Sydney Harbour Bridge -
+  meeting of two sides of arch, with both creeper cranes" shows a reader only its title and download buttons (no date,
+  photographer or rights line); the National Film and Sound Archive's clip "Closing the Harbour Bridge arch" (film of
+  the real thing, a B5 lead) was not opened.
+  [Moore College archives](https://archives.moore.edu.au/Documents/Detail/sydney-harbour-bridge-meeting-of-two-sides-of-arch-with-both-creeper-cranes/134714),
+  [NFSA, Closing the Harbour Bridge arch](https://www.nfsa.gov.au/collection/curated/closing-harbour-bridge-arch)
