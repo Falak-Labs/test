@@ -1,4 +1,4 @@
-# Last posting run 2026-11-27T19:51:53+00:00
+# Last posting run 2026-11-27T21:10:17+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -121,24 +121,31 @@
 - ep100-jeddahtower ar.youtube: on hold in posts/ep100-jeddahtower.yml
 - ep101-sprinkler en.youtube: on hold in posts/ep101-sprinkler.yml
 - ep101-sprinkler ar.youtube: on hold in posts/ep101-sprinkler.yml
-- ep101-sprinkler ar.tiktok: scheduled (Sat 28 Nov 11:30 UTC) id 6b09df5bb5cd052fe287b188
 - ep102-albahar en.youtube: on hold in posts/ep102-albahar.yml
 - ep102-albahar ar.youtube: on hold in posts/ep102-albahar.yml
-- ep102-albahar ar.tiktok: scheduled (Sat 28 Nov 14:30 UTC) id 6b09df5dc02ca0988aae9278
 - ep103-bubblewrap en.youtube: on hold in posts/ep103-bubblewrap.yml
 - ep103-bubblewrap ar.youtube: on hold in posts/ep103-bubblewrap.yml
-- ep103-bubblewrap ar.tiktok: scheduled (Sat 28 Nov 20:30 UTC) id 6b09df5eb5cd052fe287b22f
 - ep104-gcans en.youtube: on hold in posts/ep104-gcans.yml
-- ep104-gcans en.instagram: scheduled (Sun 29 Nov 00:00 UTC) id 6b09df602ea34800c28cf89b
-- ep104-gcans en.tiktok: scheduled (Sun 29 Nov 00:00 UTC) id 6b09df602ea34800c28cf8d1
 - ep104-gcans ar.youtube: on hold in posts/ep104-gcans.yml
-- ep104-gcans ar.instagram: scheduled (Sat 28 Nov 20:00 UTC) id 6b09df62277f27038a33b12e
-- ep104-gcans ar.tiktok: scheduled (Sat 28 Nov 23:30 UTC) id 6b09df63277f27038a33b1b8
 - ep105-brooklyn en.youtube: on hold in posts/ep105-brooklyn.yml
-- ep105-brooklyn en.instagram: scheduled (Sun 29 Nov 02:30 UTC) id 6b09df64277f27038a33b254
-- ep105-brooklyn en.tiktok: scheduled (Sun 29 Nov 02:30 UTC) id 6b09df65b5cd052fe287b475
 - ep105-brooklyn ar.youtube: on hold in posts/ep105-brooklyn.yml
-- ep105-brooklyn ar.instagram: scheduled (Sat 28 Nov 23:00 UTC) id 6b09df66b5cd052fe287b4cd
-- ep105-brooklyn ar.tiktok: scheduled (Sun 29 Nov 02:30 UTC) id 6b09df66277f27038a33b600
-- en: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=889, "24h"; r=580; t=85406, "30d"; r=157; t=1075255; ratelimit-policy="15m"; q=15
-- ar: 9 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=141; t=887, "24h"; r=578; t=85409, "30d"; r=78; t=1081383; ratelimit-policy="15m"; q=150
+- ep106-riyadhmetro en.youtube: on hold in posts/ep106-riyadhmetro.yml
+- ep106-riyadhmetro en.instagram: scheduled (Sun 29 Nov 14:00 UTC) id 6b09f1bcc02ca0988ab69c44
+- ep106-riyadhmetro en.tiktok: scheduled (Sun 29 Nov 14:00 UTC) id 6b09f1bdb5cd052fe29015c0
+- ep106-riyadhmetro ar.youtube: on hold in posts/ep106-riyadhmetro.yml
+- ep106-riyadhmetro ar.instagram: scheduled (Sun 29 Nov 08:00 UTC) id 6b09f1bfc02ca0988ab69d13
+- ep106-riyadhmetro ar.tiktok: scheduled (Sun 29 Nov 08:30 UTC) id 6b09f1bf71e8cc12a6ce7392
+- ep107-chairlift en.youtube: on hold in posts/ep107-chairlift.yml
+- ep107-chairlift en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep107-chairlift en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep107-chairlift ar.youtube: on hold in posts/ep107-chairlift.yml
+- ep107-chairlift ar.instagram: scheduled (Sun 29 Nov 11:00 UTC) id 6b09f1c1c02ca0988ab69ef7
+- ep107-chairlift ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep108-resurfacer en.youtube: on hold in posts/ep108-resurfacer.yml
+- ep108-resurfacer en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep108-resurfacer en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep108-resurfacer ar.youtube: on hold in posts/ep108-resurfacer.yml
+- ep108-resurfacer ar.instagram: scheduled (Sun 29 Nov 14:00 UTC) id 6b09f1c371e8cc12a6ce74c8
+- ep108-resurfacer ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=898, "24h"; r=576; t=80710, "30d"; r=153; t=1070559; ratelimit-policy="15m"; q=15
+- ar: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=892, "24h"; r=572; t=80708, "30d"; r=72; t=1076682; ratelimit-policy="15m"; q=150
