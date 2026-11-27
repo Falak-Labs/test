@@ -1,0 +1,241 @@
+{
+ "slug": "ep105-brooklyn",
+ "kit": "brooklyn",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, twenty-one elephants once marched across this bridge... on purpose.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Its engineer died before work even started. So who finished it?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So his son took over, sinking giant wooden boxes to the riverbed.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But river water rushes in from below!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So pumped-in air pushes the water out, and men dig inside.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But climb out too fast, and you get the bends. Even the boss got them!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So he ran the job from his bed, watching through a telescope.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But a crook sold them bad wire for the cables!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So they added a hundred fifty extra wires to every cable.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building a metro where the trains drive themselves.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? His wife, Emily! [chuckles] She learned the math, ran the job, and rode across first.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Four cables, over five thousand wires each, and twenty-one elephants.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built the Brooklyn Bridge yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] Twenty-one elephants, and it held... [laughs harder] Your uncle sits on a plastic chair: crack!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.43,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "21/164",
+   "mix_lines_off": [
+    "L 1 2 diff  | Y'all, 21 elephants once marched across this bridge on purpose.",
+    "L 2 3 diff  | It's engine here died before work even started, so who finished it?",
+    "L 3 2 diff  | So his son took over, sinking giant wooden boxes to the river bed.",
+    "L 5 1 diff  | So, pumped in air, pushes the water out, and then dig inside.",
+    "L 6 2 diff  | You but climb up too fast and you get the bends. Even the boss got them.",
+    "L 9 4 diff  | They added 150 extra wires to every cable.",
+    "L10 1 diff  | Hit follow, cause next we're building a metro where the trains drive themselves.",
+    "L12 3 diff  | 4 cables, over 5,000 wires each, and 21 elephants.",
+    "L13 1 diff  | Hey, congrats! You just built the Brooklyn Bridge yourself!",
+    "L14 2 diff  | 21 elephants and it held your uncle sits on a plastic chair. Crack!"
+   ],
+   "size_mb": 15.3,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، واحد وعشرين فيل مشوا على هالجسر... عن قصد!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] بس اللي صمّمه مات قبل يبدأ الشغل. طيب مين كمّله؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فولده مسك الشغل، ونزّل صناديق خشب عملاقة لقاع النهر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس موية النهر تدخل عليهم من تحت!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فضخّوا هوا قوي يطرد الموية، والرجال يحفرون داخل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس اللي يطلع بسرعة يجيه مرض الغواصين. حتى المدير جاه!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فصار يدير الشغل من سريره، ويراقبهم بالدربيل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس واحد نصّاب باع لهم سلك مغشوش للكيابل!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فزادوا مية وخمسين سلك على كل كيبل، احتياط.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني مترو الرياض. [chuckles] بدون سواق!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ زوجته، إميلي! [chuckles] تعلّمت الحساب، وأدارت الشغل، وأول وحدة عبرته.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] أربع كيابل، كل واحد فيه أكثر من خمسة آلاف سلك، وواحد وعشرين فيل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك جسر بروكلين بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] واحد وعشرين فيل وما صار له شي... [laughs harder] وكرسي البلاستيك في الاستراحة، ينكسر أول ما يقعد عليه عمك!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 15.0,
+   "cover": true
+  }
+ }
+}
