@@ -5039,8 +5039,9 @@ Build candidates (new to these notes; neither is in LINEUP or episodes.yml)
   introduce a self-contained winch", two machines for Mammoth Mountain's 1985-86 winter; Mammoth now has "82 different
   winch picks" (PistenBully, Nov 7 2025; the brand stays off screen and out of the script). Timing: groomers go out
   "during the night time after the close of the ski area" with "visual or acoustic signals" (Wikipedia) and work "all
-  night until just before our lifts start spinning at 9:00 am" (Park City). Proof: Deer Valley runs "50 groomers", "a
-  combined 182 hours of grooming every night consuming 1,000 gallons of diesel" (KPCW). Chain: a slope scraped into
+  night until just before our lifts start spinning at 9:00 am" (Park City). Proof: Deer Valley's "50 groomers who work
+  13-person shifts" (drivers, not machines) put in "a combined 182 hours of grooming every night consuming 1,000
+  gallons of diesel" (KPCW). Chain: a slope scraped into
   ice and heaps by a day of skiers (A2, ours) → wide tracks that float on the snow (A3) → a blade alone leaves loose
   lumps (A4, ours) → the spinning tiller and the comb leave corduroy (A5) → on a steep face the machine slides (A6) →
   the cable anchored at the top (B1) → a taut cable across a dark slope (B2, ours: no page read reports an accident,
