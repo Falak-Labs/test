@@ -2371,3 +2371,94 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   TikToks still wait). The runs of Nov 27 add them with their pushes as Friday's posts go out; the midday run's check-in
   at 06:30Z Nov 28 (trig_01B8mDajFB4ywxA6hPqkaNvx) and this run's at 15:00Z Nov 28 (trig_01Juzuz8MiV4WvyYVXvx3QgF)
   dispatch post.yml once if any still waits. Buffer's 30-day allowance after the run: English 205, Arabic 126 requests.
+
+## Nov 27 2026 (midday run, 11:23 PT): 106 the Riyadh Metro, 107 a high-speed chairlift, 108 an ice resurfacer (v2; post Sun Nov 29 PT)
+- TODAY Fri Nov 27 PT, TOMORROW Sat Nov 28 PT, but Saturday already carries six builds (100-105), so 106-108 take
+  Sunday's first three slots, as the evening run of Nov 26 set out: EN 06:00 / 08:30 / 11:00 PT = 14:00Z / 16:30Z /
+  19:00Z Nov 29; AR Instagram 00:00 / 03:00 / 06:00 PT = 08:00Z / 11:00Z / 14:00Z; AR TikTok 00:30 / 03:30 / 06:30 PT =
+  08:30Z / 11:30Z / 14:30Z (6 h after 105's 18:30 PT Sat). Every at: turned back into PT with
+  `TZ=America/Los_Angeles date -d` before the push. YouTube: verified, so all three hold it with `studio: 1`.
+  NEXT FREE SLOTS (the evening run of Nov 27, builds 109-111; 108's line 10 promises the Eastgate Centre, "an office
+  that breathes like a termite mound"): Sun Nov 29 PT English 13:30 / 16:00 / 18:30, Arabic Instagram 09:00 / 12:00 /
+  15:00, Arabic TikTok from 12:30 PT, 3 h apart.
+- Status at the start (tools.yml status, about 19:30Z): Friday's English 94, 95, 96 out at 06:00 / 08:30 / 11:00 PT (97
+  13:30, 98 16:00, 99 18:30 PT scheduled); Arabic Instagram 94-97 out (98 12:00, 99 15:00 PT); Arabic TikTok 94 out, 95
+  refused (06:30 PT), 80's requeue refused (08:30 PT), 96 12:30, 97 15:30, 98 18:30, 99 21:30 PT scheduled. Nothing
+  requeued: every requeue lists all sent posts first and the Arabic account has almost no API requests left (below).
+- yt_desk check: OVERDUE sm06, all four (AR full 09:00, EN full 10:00, AR Short 10:30, EN Short 12:15 PT Fri): the main
+  chat did not upload them, so posts/sm06.yml still holds its six TikTok + Instagram targets. The ledger's newest
+  entries are still the Nov 25 round. Told the owner at the top of the run's message; not repaired here.
+- BUFFER API ALLOWANCE ("30d" r= in state/last-run.md): after the status run Arabic 87 / English 163; after the
+  retirement push (19:51Z) 78 / 157; after this run's post-file push (21:10Z) Arabic 72 / English 153; resets in about
+  12.4 days (about Dec 10). A production run costs about 13 (status) + 4-9 (push) per account and the status.yml cron
+  about 13 twice a day: the Arabic account runs out around Sat Nov 28, after which no new Arabic post reaches Buffer until
+  the reset. The owner was told (his call: Buffer's API upgrade, fewer status runs, or a pause). This run made no
+  requeue, one push for all three post files and no check-in.
+- Pages: retired ep76, airfryer-b78, kuwaittowers-b79, fountain-b80, pontdugard-b88, noor-b89, pen-b90 (41ce37e):
+  TikTok + Instagram all out or only a refused Arabic TikTok left, and their Studio dates more than a day past (the
+  desk offers only videos that go public tomorrow, so it no longer lists them; the files are in git history at
+  41ce37e^ if the main chat still wants them). media/ 1.3 -> 0.97 GB, 1.1 GB with 106-108.
+- Why v2: riyadhmetro-A/B and chairlift-A/B were todo at 12:20 PT (no build had both clips; nothing was queued for 108):
+  the four jobs are marked skipped in higgsfield/queue.yml; next pair eastgate-A/B (109), and the runner queued
+  bahrainwtc-A/B (110) at 13:00 PT.
+- Voices: Ballen v4 + Mansour v4, about 6,600 ElevenLabs characters with the remakes (only changed lines cost). Voice
+  runs 204-206 (first takes 19:46Z), 207-209 (rewordings 20:00Z), 210 (107 line 8, 20:09Z). Riyadh EN first take 67.7 s
+  at the x1.12 cap (the video would be 70.8 s, over the 70.5 s v2 gate): five lines shortened. Whisper small on Ballen:
+  Riyadh "groundwater" heard "brown water" (line 4 now "they hit water! Lots of it!") and "Riyadh Metro" heard "Rehab
+  Metro" (reworded and remade); chairlift hook and line 2 too slow for the 5 s / 10 s marks (hook now "these chairs let
+  go of their cable... on purpose"), "warm" heard "worn" and "steel" heard "still" (line 8 now "that cable gets longer
+  in the heat, and loose cable slips"); resurfacer line 9 "hot water" heard "out water" ("spreads water... hot water!").
+  Arabic: resurfacer line 9 "ففوطة" -> "وورا، فوطة". Final voices: Riyadh EN 66.7 s (x1.12) / AR 66.0 s, chairlift 66.0
+  / 66.3 s (x1.12), resurfacer 66.0 / 66.0 s; hooks EN 4.4 / 4.1 / 4.4 s with the problem told by 9.0 / 8.8 / 9.4 s, AR
+  4.2 / 4.2 / 4.3 s by 9.0 / 9.0 / 9.0 s. check_ar_voice: only Riyadh's digit line 12 weak (38%: "دقيقة 2.5").
+  check_en_voice on the final resurfacer voice: number formats and "'cause" only.
+- Anchors after the rewordings: Riyadh ("break2", "LOTS") with KEYS ("break2", "LOTS") -> "جوفية"; chairlift
+  ("break4", "CABLE") -> "كيبل". Both languages "anchors: all found".
+- Research (WebSearch, no agents): Riyadh Metro 176 km, six lines, 85 stations, the longest driverless metro network,
+  TBMs and viaducts, groundwater pumped out and watertight tunnel lining, a control centre, platform screen doors,
+  over 180 trains; detachable chairlifts: the grip opens in the station, tires slow the chair to a walk and speed it
+  back up, springs close the grip and a weak grip stops the lift, a concrete counterweight keeps the cable tight as it
+  grows in the heat, about 1,000 ft (300 m) a minute and 1,800 people an hour, the first chairlift by James Curran of
+  the Union Pacific (Sun Valley, 1936) from his banana-loading hooks; ice resurfacer: blade, auger, wash jets, vacuum,
+  a towel spreading hot water that melts the top and bonds, Frank Zamboni 1949 in Paramount, California, about 15
+  minutes against about 90 by hand.
+- Scenes (v2 look 2):
+  - riyadhmetro.py (city, traffic, section, net, platform, map, tag): a night skyline with a Kingdom-Centre-like and a
+    Faisaliah-like tower, the viaduct and a driverless train with a kid at the front window (the hook zooms 3.0 -> 1.0
+    off the kid); a traffic jam with a 50 °C thermometer; the section with a TBM (tunnel +-90 px), a groundwater layer,
+    pumps and lining rings, a train on the viaduct (train_x lerp 1125 -> 1700); six coloured lines and a crossed-out
+    driver's cap on a dark disc, then a control room zoomed in; glass platform walls and doors; a 176 counter (Arabic:
+    "176" + "كيلو" through arabic.text_ar) and a medal; tag: the uncle from behind in a red-checked shemagh steering an
+    imaginary wheel.
+  - chairlift.py (closer, station, slope, grip, terminal, port, tag): lift_line() between CAB0 (110, 1090) and CAB1
+    (790, 560), the top station at CAB1 (the hook at a station placed further right showed black past the world's
+    edge); closer_scene() a big foreground chair (scale 1.55) on a raised cable, also the cover; the station with the
+    chair at scale 2.2, a bike for the speed, a skier knocked flat, tires and a speedo; grip_closeup() springs, a tester
+    and STOP; terminal() heat sag and the counterweight pit; port() bananas to chairs; tags EN a glove dropped halfway
+    up, AR the wedding buffet line (thobes toned to #C9D1DC / #B3BCC9 so they do not bloom white). floor_dark(c,
+    y=1250) and mid-tone snow (#C3D0E2 / #9AACC6 / #71839F).
+  - resurfacer.py (rink, grooves, cutaway, lens, reveal, tag): mid-tone ice (#9DB7D3 / #7F9DC0 / #6382A8, gloss
+    #4F86C2); a top-down rink with a wet strip behind machine_top(); machine_side() cut away (blade, augers, jets,
+    vacuum, towel) zoomed 1.45 -> 1.0 before break3, on a dark floor; a magnifier at (250, 590) r 160 for the bond;
+    tags EN an arena cheering a mop vs the kitchen (dark floor), AR mom: "لا تشرب بارد وأنت حرّان!".
+  - Lessons: build a skia Path first and then call addCircle on it (do not use the return of Path().addCircle(...));
+    there is no sfx.rumble or sfx.screech (rumble comes from v2set); light snow, ice and machine colours bloom to
+    white under the captions: mid-tones and a dark floor below y 1250.
+- Produce (one slug per run: 106 at 20:41Z, 107 at 20:51Z, 108 at 21:00Z): Riyadh EN 69.8 s / AR 69.1 s, chairlift EN
+  69.1 s / AR 69.43 s, resurfacer EN 69.1 s / AR 69.1 s; all -14.0 LUFS, peaks -1.9 to -2.2 dBFS, covers true (the
+  driverless train on the viaduct at night, a four-seat chair on the cable over the slope, the rink from above with the
+  machine and its glossy strip). QA sheets and covers looked at in both languages. Whisper on the mixes (report.json):
+  number formats, "Y'all" -> "Yo", dropped "So"/"And", Riyadh "a train" -> "are trained", resurfacer line 2 "with hot
+  water" -> "without water" (the voice alone is heard right; the caption carries it), "grooves" -> "droves", "packed
+  arena" -> "pacterena".
+- Posts: one commit (067865a) pushed at 21:07Z after the Pages deploy of c8ff1cf (after all three produce commits)
+  logged "Reported success!" at 21:06:15Z. State 21:10Z: 106 all four scheduled (EN 14:00Z, AR Instagram 08:00Z, AR
+  TikTok 08:30Z Nov 29); 107's and 108's AR Instagram scheduled (11:00Z / 14:00Z); 107's and 108's EN Instagram +
+  TikTok and AR TikTok wait for Buffer places (every channel 10 of 10 with Friday's 97-99 and Saturday's 100-105). The
+  evening run's push adds them first (due-time order) once two of Friday's posts are out on each channel (English 97-98
+  by 16:00 PT, Arabic TikTok 97-98 by 18:30 PT); the runs of Nov 28 add any still waiting before the first slot, 107's
+  AR TikTok at 03:30 PT Sun. The check-ins of Nov 26 (trig_01B8mDajFB4ywxA6hPqkaNvx 06:30Z, trig_01Juzuz8MiV4WvyYVXvx3QgF
+  15:00Z Nov 28) only look at 99-105. If the Arabic allowance runs out first, the Arabic TikToks of 107-108 cannot be
+  added: tell the owner, do not dispatch again.
+- LINEUP: 106-108 taken; 115 a tower crane, 116 the Akashi Kaikyo Bridge, 117 float glass appended (nine entries ahead
+  of 108: 109-117).
