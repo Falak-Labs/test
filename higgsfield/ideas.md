@@ -4753,3 +4753,72 @@ Checked, nothing new
   then). Wikipedia's "History of traffic lights" page did not load from here, so its 1868 picture is for a later run.
   Life of Vids, Beachfront B-roll and Vidsplay (not in these notes): the searches return only listicles and Coverr and
   FreeVisuals pages that are here already, not the sites' own licence pages, so those three stay unchecked.
+
+## 2026-11-27 01:00 PT (hourly runner, cloud run)
+
+Trends
+- Hook types this week: Virlo's weekly page ("week of November 23, 2026", "Updated November 26, 2026") gives the POV
+  setup the best hit rate (33.1%) and has "Controversy" gaining most (23.4% to 24.8%). Our newer openers are
+  direct-address surprises ("Y'all, bubble wrap was invented to be... wallpaper."), and the sprinkler's "one fire, a
+  hundred sprinklers... and only one" is already the myth-busting kind of controversy without a fight; a POV test
+  would be a single opener like "POV: your tower has to stand in a typhoon". Its formats and its top sound ("Flower
+  In A Hurricane") are pop culture or licensed music, not for us; SocialPilot's page still shows Nov 17-25.
+  [Virlo, this week](https://virlo.ai/trending-on-tiktok-this-week), [SocialPilot](https://www.socialpilot.co/blog/tiktok-trends)
+
+Build candidate (new to these notes; LINEUP and episodes.yml have no cable or long-distance call build, only build
+35's smartphone)
+- Thu Jan 7 2027, 100 years since the first transatlantic telephone service (London-New York): Rugby's "second long
+  wave transmitter (call-sign 'GBT')" on "60 kHz" opened it on "Friday 7th January 1927", "£15 for the first three
+  minutes... and then £5 a minute", booked from "1.30pm on Wednesday 5th January" with "long queues" (Rugby Radio
+  Station heritage site; the Substack's "$75 for the first three minutes" is about the same, Mystic's "about $6 per
+  minute" is not); radio because "it was too expensive and difficult to lay a cable" (Mystic). Four stations, one
+  transmitter and one receiver per direction: Rugby to "Houlton Receiving Station in Maine", "Rocky Point Transmitting
+  Station" to "Wroughton Receiving Station near Swindon" (moved to Cupar in Fife later in 1927), landlines to London
+  and New York (rugbyradiostation.co.uk; the Substack routes it differently). Fix: "60 kHz using single-sideband
+  modulation" (Wikipedia, Rugby Radio Station), "which required less power and made more economical use of the
+  waveband" (Science Museum Group); break: "the quality was variable due to atmospheric interference" (Rugby). Radio
+  carried "around 300,000 calls a year" (Wikipedia, TAT-1) before the cable: TAT-1, "laid over the summers of 1955 and
+  1956" by HMTS Monarch from Kerrera, Oban, to Clarenville, Newfoundland, opened 25 September 1956, "one cable for
+  each direction", 51 repeaters in each with "three highly reliable vacuum tubes" (WHYY), expected "to operate for
+  more than 20 years without attention" and flexible so they "pass along the ship's laying gear and into the water at
+  normal speed", at "depths of as much as two and one-half miles" (atlantic-cable.com); spacing 37 nautical miles (69
+  km, Wikipedia) or "about 40-mile intervals" (atlantic-cable); "35 simultaneous telephone calls" plus one channel for
+  "up to 22 telegraph lines" (Wikipedia; the others say 36 circuits); "588 London–US calls and 119 London–Canada calls
+  in the first 24 hours" (Wikipedia); one recorded fault, "a three-day outage in the eastbound circuit in July 1959"
+  from "a never-found fishing trawler" (atlantic-cable). Then the silences were rented out: speech in one direction
+  fills "approximately 40% of the time", so TASI switched "additional users onto any voice channel temporarily idled
+  because an original user has stopped speaking" (Wikipedia, TASI), taking TAT-1 "to 72 speech circuits" from June
+  1960 (Wikipedia, TAT-1; the TASI page says "early 1960s"). Retired 1978. Chain: an ocean whose telegraph cables
+  cannot carry a voice (A2) → the long-wave transmitter hall and masts (A3) → static and fading over a stormy Atlantic
+  (A4) → one sideband, no carrier (A5) → one call at a time, a queue at the booking desk (A6) → twin cables paid out
+  from a cable ship (B1) → a voice fading along 3,000 km of cable (B2) → a flexible repeater rolling over the ship's
+  drum (B3) → switchboards lit on Sep 25 1956, operators seen from behind (B5). A1: a candlestick phone ringing on a
+  desk in fog at the foot of giant radio masts. B6: funny slow motion, someone on the sofa texts "dinner?" to the
+  cook two metres away in the kitchen. Kept out: the 1963 Moscow–Washington hotline that TAT-1 carried (politics). Pictures:
+  the Science Museum's photo of the Rugby transmitter is "CC BY-NC-SA 4.0" (not for monetized posts);
+  atlantic-cable.com credits its photos to AT&T's archive site, "The Story of S.T.C." and Jason Stringer (not free);
+  no free copy found yet.
+  [Rugby Radio Station, Jan 1927](https://rugbyradiostation.co.uk/?p=239),
+  [Rugby Radio Station, The American End](https://rugbyradiostation.co.uk/?p=488),
+  [Mystic Stamp](https://info.mysticstamp.com/this-day-in-history-january-7-1927/),
+  [On This Date](https://onthisdate.substack.com/p/on-this-date-7-january-1927),
+  [Wikipedia, Rugby Radio Station](https://en.wikipedia.org/wiki/Rugby_Radio_Station),
+  [Science Museum Group](https://collection.sciencemuseumgroup.org.uk/objects/co35831/part-of-rugby-transatlantic-telephone-transmitter-1927-1956-telephone-system),
+  [Wikipedia, TAT-1](https://en.wikipedia.org/wiki/TAT-1),
+  [Atlantic-Cable.com, TAT-1](https://www.atlantic-cable.com/Cables/1956TAT-1/index.htm),
+  [WHYY](https://whyy.org/segments/this-week-in-science-history-dialing-across-the-atlantic),
+  [Wikipedia, TASI](https://en.wikipedia.org/wiki/Time-assignment_speech_interpolation)
+
+Checks on earlier candidates (new to these notes)
+- The 23:00 entry's Dec 25 James Webb candidate is already made: build 32, "space telescope" (ep32-telescope, made in
+  the Nov 15 18:37 PT run, retired: true in episodes.yml), whose lines already have the 18 hexagons, the 48 grams of
+  gold and the tennis-court sunshade, so no new build (at most a Dec 25 repost of 32). The Gotthard candidate (same
+  entry) shares its boring machines with build 27 (ep27-tunnel, "a drill as wide as a house"), so a Gotthard script
+  leans on the hot rock, the squeezing rock and the 1 cm breakthrough instead.
+
+Checked, nothing new
+- Higgsfield's Black Friday at about 01:05 PT: the search returns the pages already here (the 14-day and 33-day
+  Seedance posts, the 64 % off deal pages, the expired "72h unlimited über MCP" deals); nothing moves Nov 28. Google
+  Vids' free Omni 1.1 Flash (Digital Trends, Sep 23 2026) is the Vids line already here; Instagram's feature news
+  returns items already here. The Wikipedia pages on single sideband and the 1922 Bell Telephone Magazine picture did
+  not load from here.
