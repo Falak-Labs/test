@@ -2150,6 +2150,8 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   last produce commit) succeeded. All 12 Instagram + TikTok targets wait for Buffer places (every channel 10 of 10
   with 92-96 first in due-time order); later post.yml runs add them. Check-in of this session at 12:30Z Nov 27 (04:30
   PT Fri, trig_013c6esiLCurkqCNWftgX4jQ) dispatches post.yml if any of 94-99 still waits and requeues failures.
+- Check-in 12:37Z Nov 27 (04:37 PT Fri): every Instagram + TikTok target of 94-99 is on Buffer at its Fri Nov 27 PT
+  time (94's Arabic Instagram + TikTok and 95's Arabic Instagram already out); nothing failed, nothing dispatched.
 
 ## Nov 26 2026 (midday run, 11:23 PT): 100 the Jeddah Tower, 101 a fire sprinkler, 102 Al Bahar Towers (v2; post Sat Nov 28)
 - TODAY Thu Nov 26 PT (Thanksgiving), TOMORROW Fri Nov 27 PT, but Friday already carries six builds (94-99), so 100-102
