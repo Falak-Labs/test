@@ -5771,3 +5771,84 @@ Checked, nothing new
   the day: the same pages as at 11:00 (dio.me, both mydealz deals, pepper.pl, kripeshadwani), so Nov 28 stands.
   [Metricool, TikTok news](https://metricool.com/tiktok-news),
   [TT Calculator, Nov 2025](https://ttcalculator.net/news/ai-outline-smart-split-features/)
+
+## 2026-11-27 14:00 PT (hourly runner, cloud run)
+
+New content
+- A topic gap on TikTok (new to these notes: no Next Big line yet): Next Big's "trending on TikTok" page ("Updated
+  November 20, 2026", a rolling 7-day index of searches) lists, among searches with high demand and few videos, "how
+  bread factories speed up baking" (477K), "inside the future of robot learning" (418K) and "electricity power" (+84%,
+  151K). The first one is an everyday-thing build with a real engineering story: the Chorleywood bread process, a
+  candidate build (not in LINEUP, never built). It was "developed in 1961 by scientists here at Campden BRI (then
+  known as the British Baking Industries Research Association (BBIRA))" (Campden BRI, Oct 25 2019); the dough is
+  worked by high shear for "around three minutes" at about "11 Wh/kg dough" for standard UK bread flours (stronger
+  flours "possibly 12-13 Wh/kg or even higher"), with "a partial vacuum" in the later mixing stages (pressure at the
+  start "came in over 20 years later") and "a fast-acting oxidizing agent (Vitamin C/ascorbic acid) and a small
+  proportion of hard fat or emulsifier", so the "lengthy fermentation times" of traditional bread give way to a dough
+  developed "in a few minutes" and "under four hours from flour to sliced bread" (Wikipedia: "about three and a half
+  hours"). It "permitted a much greater proportion of lower-protein domestic wheat to be used in the grist", and "As
+  of 2011 ... 80% of bread made in the United Kingdom used the process" (Wikipedia; Campden: "more than 30
+  countries"). The three developers Wikipedia names are real people: never shown. The health claims about CBP bread
+  are campaigners' (Wikipedia attributes them): keep them out. Neither page gives the old method's hours, so no
+  "from X hours to minutes" line until a page does.
+  [Next Big, trending on TikTok](https://nextbig.io/trending-on-tiktok),
+  [Campden BRI, Oct 25 2019](https://www.campdenbri.co.uk/blogs/chorleywood-bread-process.php),
+  [Wikipedia, Chorleywood bread process](https://en.wikipedia.org/wiki/Chorleywood_bread_process)
+- The pin tumbler lock (LINEUP 111), the first patent and a free engraving of it (new to these notes: no Stansbury
+  line yet): "The first Pin Tumbler style mechanism was patented by Abraham Ogier Stansbury, UK Patent #2,851 dated
+  1805"; "Stansbury subsequently was awarded a US patent for the same lock dated Feb 11, 1807", and "This patent was
+  lost in the Patent Office fire of 1836" (antique-padlocks.com, a collectors' site that has "not found this lock as
+  yet"). The Wellcome Collection holds two engravings after J. Farey: "Engineering: a lock, showing the key, and a
+  loom, with shuttle. Engraving by Porter after J. Farey, junior." (Richard Phillips, New Bridge Street, no date in
+  the record; lettered "Mr. Stansbury's patent lock"), marked "Public Domain Mark": "You can use this work for any
+  purpose without restriction under copyright law", credit "Wellcome Collection"; and "Locks: details of two types of
+  lock. Engraving by H. Mutlow after J. Farey." (G. Kearsley, "Aug.t 1st 1810"), where "The lower lock is one patented
+  by Abraham Ogier Stansbury of New York City, 1805" (no licence line was read on that one: check its page). The first
+  plate's image link as its page gives it: https://iiif.wellcomecollection.org/image/V0024570/full/full/0/default.jpg
+  (a lock and a loom on one plate: crop to the lock, and look at it before a line says it shows pins). The pages
+  differ on where he lived (an American "who emigrated to England" against "of New York City"): a script says "an
+  American patented it in England in 1805". Wikipedia's pin tumbler page did not load in this run, so its Stansbury
+  sentence is still to read. Not fetched yet: when 111 is made, `python3 scripts/ai_media.py fetch
+  buildit-<kit>-stansbury.jpg=<that link>`.
+  [antique-padlocks.com, Early Pin Tumbler Locks](https://antique-padlocks.com/pt_early_01.htm),
+  [Wellcome Collection, lock and loom](https://wellcomecollection.org/works/vcgqrjap),
+  [Wellcome Collection, two types of lock](https://works.www.wellcomecollection.org/works/hv7pdgar)
+- 111's "4,000 years", where the Mesopotamia line comes from (new to these notes; the Nov 26 13:05 entry quoted
+  Wikipedia's "between 2500 and 1800 BCE in Mesopotamia"): the lock historian Schuyler Towne writes "For over 200
+  years it has been generally believed that the first key-based locks originated in Egypt around 2000 BCE" and "I
+  propose that that the first key-based locks originated in Mesopotamia between 2500 & 1800 BCE" (sic; undated page),
+  and by a fetch summary he traces the Egypt story to Vivant Denon's remark of 1798-99. That is one researcher's case,
+  so the script keeps "about 4,000 years ago" and "giant wooden locks", with no country.
+  [Schuyler Towne, Rethinking the Origins of the Lock](https://schuylertowne.com/research/rethinking-the-origins-of-the-lock)
+- Formats (new to these notes): GoViral's TikTok trends page ("Updated 16h ago · US", no date) names two formats to
+  copy this week: "In this town everybody huss" (a story built on a strange town rule, then a realization reveal) and
+  "while they're out partying btw…" (a deadpan reaction, then a reveal of the chaos). Only the shape carries over: the
+  strange rule first, the reason after (109: in this office nobody switches on an air conditioner). Its rising
+  hashtags are gaming and lifestyle: none for us.
+  [GoViral, TikTok trends](https://www.howtogoviral.app/tiktok-trends)
+
+Checked, nothing new
+- Convosight's TikTok "Moments" page shows no trend list and no date; Palladium SMM's "November 2026" TikTok page is
+  dated "31 October 2026" (Halloween sounds) and lists Black Friday and Cyber Monday only as dates; this hour's Reels
+  audio and free stock video searches gave pages already here (SocialPilot, Later, SocialBee, Buffer, HeyOrca,
+  Coverr). Project Gutenberg's 1853 "Rudimentary Treatise on the Construction of Locks" (eBook 63128, with figures)
+  could not be read from here (its robots file did not answer): still a lead for an old engraving of the Egyptian lock.
+  [Convosight](https://www.convosight.com/tools/moments/trends/tiktok),
+  [Palladium SMM, Oct 31 2026](https://palladium-smm.com/en/blog/trendy-tiktok-noyabr-2026),
+  [Project Gutenberg, eBook 63128](https://gutenberg.org/cache/epub/63128/pg63128-images.html)
+- 111's mechanism pages: Explain That Stuff ("Last updated: August 7, 2023") explains the swivelling "metal cylinder",
+  the "two separate sets of pins" and the springs, but credits "Yale's original lock, patented in 1844" to the son and
+  says "~2000 BCE ... ancient Egypt": not a source for 111's dates (the Nov 26 13:05 entry holds). Brown's "13 Things"
+  page agrees with the notes ("Linus Yale, Sr. patented a cylindrical pin tumbler lock in 1848"; holes "typically five
+  or six"; it calls the shear line "the shear point"), with no rights line for its pictures. A Wikipedia mirror for the
+  Stansbury sentence did not load.
+  [Explain That Stuff, Locks](https://explainthatstuff.com/yalelock.html),
+  [Brown, 13 Things](https://webhelper.brown.edu/joukowsky/courses/13things/7641.html)
+- YouTube's Shorts money rule from Feb 1 2027 (YouTube Blog, Aug 10 2026: Shorts ad and subscription revenue only for
+  channels with "10 million qualified Shorts views over the last 90 days"; new members "8,000 qualified watch hours in
+  the last 365 days" or "20 million qualified Shorts views in the last 90 days"; Nation Thailand, Aug 14 2026, the
+  same) is in kit/series/NIGHT_NOTES.md's money rules of Nov 19 already. The incentives promised for channels under
+  the line ("bonuses for YouTube Shopping, incentives for brand deals, and earnings boosts for starting and growing
+  trends") still have no details on either page.
+  [YouTube Blog, Aug 10 2026](https://blog.youtube/news-and-events/youtube-partner-program-updates-2027-new-opportunities-earn/),
+  [Nation Thailand, Aug 14 2026](https://www.nationthailand.com/life/entertainment/40069786)
