@@ -5537,3 +5537,66 @@ Checked, nothing new
 - Free AI video launches this month: roundup lists only (Scrimba's, Dreamina's, Krea's, WaveSpeed's; not read), no
   dated new free tier, so nothing free past Nov 28. Shorts tools: Made on YouTube (Sep 2026) again. Later's Reels
   page could not be read this hour.
+
+## 2026-11-27 10:00 PT (hourly runner, cloud run)
+
+Trends (Later's Reels edition of today; the 09:00 entry could not read it, and these notes had its Nov 20 edition)
+- Later's Reels page now reads "Updated on November 27, 2026" ("Updated Weekly"), with three trends dated Nov 27, all
+  new to these notes. For us: "My coffee sounded weird this morning" (original audio): stir the coffee and the song
+  starts, pull the spoon out and it stops. Bent to a build: a cold open or a B6 tag where a part moving starts the
+  sound and stopping it cuts it (a crank, a turbine, a chairlift's big wheel). "Candle makeup transformation"
+  (original audio): bare face, blow out a candle, cut to the finished look; as a before/after it could cut from the
+  empty site to the finished build on one breath. Not for us: "Nobody cares what you wear to..." (an outfit montage
+  on a famous artist's song). On Reels the 09:00 entry's recap format ("I feel like I haven't done much this year",
+  listed Nov 20) runs on a song, "Coming Up Roses" by Harry Styles, not TikTok's original sound, so an Instagram cut
+  of a recap Short would keep our own sound bed. The royalty note of the Nov 20 edition stands. The main chat's call.
+  [Later, Reels trends, Nov 27 2026](https://www.later.com/blog/instagram-reels-trends)
+
+Timing and a candidate build (new to these notes: no Marconi line yet)
+- Sat Dec 12 2026 is 125 years since the first radio signal heard across the Atlantic, "the three dots – the letter
+  'S' in Morse" (Oxford's History of Science Museum), "pip, pip, pip" (Heritage NL), sent from Poldhu in Cornwall to
+  Signal Hill in St. John's. The chain, from IEEE's two milestone pages unless marked: the problem, "It was generally
+  believed that the curvature of the earth made this impossible" (A2, Oxford); "about 400 wires suspended in an
+  inverted cone from a 200-foot circle of 20, 200 feet high masts" (A3), flattened by "a wind storm on 17 September
+  1901" (A4); "two masts, each a hundred and seventy five feet high" holding "sixty vertical wires" in a fan (A5);
+  the Cape Cod antenna "blew down in a hurricane" on "26 November" (A6), so Newfoundland got a receiver only, landed
+  "6 December", its wire lifted by kites and balloons (B1); "the balloons failed and one of the kites was blown away"
+  (B2, Oxford); "The second kite, which trailed 500 feet of antenna wire, stayed up long enough", with "a telephone
+  earpiece connected to the receiver" (B3); the diary, "Sigs. at 12:30, 1:10 and 2:20.", and "the only witness was
+  George Kemp" (B5); two months later the signals worked "a Morse inker in the presence of witnesses", "on board the
+  Philadelphia" at "over 2,000 miles" (Oxford). Closer: it led "Arthur Kennelly and Oliver Heaviside to suggest" a
+  charged layer high in the air, the ionosphere, that bends the waves round the Earth. Honest caveats: "the signals
+  were too weak to operate an automatic recorder", and "recent historians have suggested that Marconi picked up a
+  high-frequency harmonic on his un-tuned receiver", so the script says he heard it, not that he proved it.
+  Distance: IEEE "more than 2,000 miles", Heritage NL "1700 miles"; our great-circle sum, Poldhu to Signal Hill, is
+  about 3,400 km (2,100 miles), so "2,000 MILES" for the stat line. A1: a kite in a winter gale over a sea cliff,
+  trailing a thin copper wire down into a stone hut, slow push-in. B6: funny slow motion, a man on a wobbling chair
+  holds his phone up to the ceiling for one bar of signal. No event for Dec 12 2026 found yet: last year's (the
+  124th) was at the Johnson Geo Centre in St. John's with the Marconi Radio Club of Newfoundland and the Poldhu
+  Amateur Radio Club (NTV, Dec 11 2025); the Lizard station's 125th ran as GB4LWS through January 2026 (ARNewsline,
+  Jan 8 2026). Kept out: faces (his and his team's), company names and logos, the patent fights. Dec 12 is far past
+  LINEUP's last idea (114), so it would need a dated slot, made after the free video ends (v2 look or free stills).
+  The main chat's call.
+  [IEEE ETHW, transmission](https://ethw.org/Milestones:Transmission_of_Transatlantic_Radio_Signals%2C_1901),
+  [IEEE ETHW, reception](https://ethw.org/Milestones:Reception_of_Transatlantic_Radio_Signals%2C_1901),
+  [Oxford HSM, Atlantic crossing](https://www.mhs.ox.ac.uk/marconi/exhibition/atlanticcrossing.html),
+  [Heritage NL](https://www.heritage.nf.ca/society/marconi.html),
+  [NTV, Dec 11 2025](https://ntv.ca/news/local-radio-groups-memorial-university-to-commemorate-first-wireless-transatlantic-signal-on-friday/),
+  [ARNewsline, Jan 8 2026](https://www.arnewsline.org/news-text/2026/1/8/uk-telegraphy-station-marks-125th-anniversary)
+
+Free pictures for it (read on mirrors of Commons: check each on commons.wikimedia.org before use)
+- "The Marconi Company second antenna system at Poldhu, Cornwall.jpg": "Unknown author", source "Archive of Marconi
+  Corporation, PLC", tagged public domain as an anonymous work "in the EU and countries where copyright expires 70
+  years after anonymous publication", with no US line; its text says the fan had 50 wires (IEEE says sixty: keep the
+  number off screen) and "Belrose contends this image is actually retouched". 683 x 529 px. "Marconi transmitting
+  station Poldhu Cornwall 1900.jpg", from Fleming's book of 1910: public domain "in the United States because it was
+  published ... before January 1, 1929". 476 x 382 px. Both are small, so an inset on a blurred bed with a slow zoom,
+  not a full-frame still. The Dec 1901 photo of the first (ring) system is listed too; its page was not read. Not free
+  until checked: Oxford's kite (inventory 74328) and receiver (96661) under a copyright link with no licence, and
+  Heritage NL's pictures from the Marconi Company's 1947 jubilee book.
+  [Mirror of Commons, second antenna system](https://www.cosmos-indirekt.de/Physik-Schule/Datei:The_Marconi_Company_second_antenna_system_at_Poldhu,_Cornwall.jpg),
+  [Mirror of Commons, Poldhu 1900](https://download.osmand.net/wiki/File:Marconi_transmitting_station_Poldhu_Cornwall_1900.jpg)
+
+Checked, nothing new
+- This week's Shorts trends: list posts and 2026 forecasts only (mean.ceo, vidIQ, Metricool; not read). Record
+  openings in December: the Tianshan Shengli tunnel (open since Dec 26 2025) and the Huajiang bridge (build 93) again.
