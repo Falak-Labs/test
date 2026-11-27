@@ -51,9 +51,9 @@
  "ma": {
   "hook": [
    [
-    "Luggage fiha jouj d G, walakin ma katnte9ch G! Kifach kat9raha?",
-    "Luggage فيها جوج د G، ولكن ما كتنطقش G! كيفاش كتقراها؟",
-    "Luggage has two Gs, but you don't say G! How do you read it?"
+    "Luggage fiha jouj d G, walakin t-tanya kat9ra J! Kifach kat9raha?",
+    "Luggage فيها جوج د G، ولكن التانية كتقرا J! كيفاش كتقراها؟",
+    "Luggage has two Gs, but the second one sounds like J! How do you read it?"
    ]
   ],
   "board": [
@@ -106,9 +106,9 @@
  "pa": {
   "hook": [
    [
-    "Luggage fiha 7arfen G, bas ma bnilfoz G! Kif bin2raha?",
-    "Luggage فيها حرفين G، بس ما بنلفظ G! كيف بنقراها؟",
-    "Luggage has two Gs, but you don't say G! How do you read it?"
+    "Luggage fiha 7arfen G, bas et-tani byin2ara J! Kif bin2raha?",
+    "Luggage فيها حرفين G، بس التاني بينقرا J! كيف بنقراها؟",
+    "Luggage has two Gs, but the second one sounds like J! How do you read it?"
    ]
   ],
   "board": [
