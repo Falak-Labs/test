@@ -5713,3 +5713,61 @@ Checked, nothing new
   [Nuelink](https://blog.nuelink.com/top-trending-reels/),
   [TechCrunch, Dec 2 2025](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched),
   [MacRumors, Dec 2 2025](https://www.macrumors.com/2025/12/02/youtube-recap/)
+
+## 2026-11-27 13:00 PT (hourly runner, cloud run)
+
+Build 110, the Bahrain World Trade Center: how the funnel, the turbines and the bridges work (new to these notes; the
+Nov 24 21:50 entry has the towers, the rubber bearings, the taper and the TU/e twist, the Nov 27 12:00 entry the
+Wikipedia figures), now in queue jobs bahrainwtc-A/B
+- Gulf Construction Online (Atkins' design account, written before completion): the towers amplify "the wind speed at
+  the turbine location by up to 30 per cent", bending the breeze into "an S-shaped streamline" that holds "within a
+  45-degree wind azimuth, either side of the central axis"; "Wind Tunnel Testing was done by BMT and Atkins"; the
+  turbines can work for winds "between 270 and 360 degrees" (at first "285 and 345"), and outside that range "the
+  turbine will automatically adopt a 'standstill' mode". Brakes: the blades stall so "the power output stabilises",
+  "the tip of the blade extends by centrifugal force and rotates to act as a self-regulating governor brake", and if
+  the controls fail "the tip brake working in conjunction with the hydraulic brake" stops it. Bridges: "maintenance-free
+  bearings where they connect to the buildings to allow the towers to move 0.5 m"; for vibration "the facility to add
+  spoilers to the bridge and to adjust the tuned mass damper"; "blade clearance to the bridge of 1.12 m" ("a factor of
+  1.35 safety margin"), watched by "a laser blade position monitoring system" that sets the turbine to standstill; "199
+  different load cases" per turbine. The premium was "less than three per cent of project value", where the page warns
+  of "excessive cost (up to 30 per cent of the project value)".
+  [Gulf Construction Online](https://gulfconstructiononline.com/Article/7209/Atkins_puts_smart_design_into_BWTC)
+- Building (Stephen Kennett, before completion), its spec list: "Rotor diameter: 29 m", "Rotor speed at full load: 38
+  rpm", "Cut-in wind speed: 4 m/s", "Cut-out wind speed: 20 m/s", "225 kW, achieved at a wind speed of 15–20 m/s",
+  blades good for "80 m/s in any direction"; the rotors are "fixed rather than pole-mounted"; the bridges "span 32 m"
+  (31.7 m in Arabian Business), "allowing the towers to move by half a metre relative to one another"; the taper gives
+  "near-identical wind speed at the three turbines", the upper and lower ones predicted at "109% and 93%" of the middle
+  one (400-470, 360-430 and 340-400 MWh a year, top to bottom); "wind turbines have not yet been placed 160 m above
+  ground level".
+  [Building, "Blue sky thinking"](https://building.co.uk/blue-sky-thinking/3060071.article)
+- Arabian Business (Zoe Naylor, 2006): "the shape of the towers actually carves the wind to strike the blades at right
+  angles", the wind tunnel "helped Atkins to tweak the building design and prevent a yawing effect on the blades", and
+  the rotors are "standard type-tested wind turbines which have been adapted to this application with fairly minimal
+  modifications". Its premium is "less than 5%" (Gulf Construction Online "less than three per cent", Building "around
+  3%"): a script says "a few per cent", if anything.
+  [Arabian Business](https://www.arabianbusiness.com/abnews/a-wind-power-world-first-in-bahrain-60436)
+- After it opened: the three "spun in unison for the first time on April 8" 2008 (CSE, Apr 16 2008; SKF Evolution says
+  "went online in March 2008"); "operational 50 percent of the time, depending on wind conditions" (SKF Evolution, Mar
+  25 2009); each "weighs in at sixty-eight tons" (check before a line uses it), installed in 2007, run from "Control
+  centres within the towers" with "small cranes used to maintain and repair them", in "a strong, constant
+  north-westerly breeze" (IET, undated); if export to the grid stayed barred, spare power "may produce chilled water
+  instead" (ENR, Jan 7 2009); a Gulf Daily News video of Jul 12 2021 shows them "in full action"; Energy Digital (Sep
+  2026, a top-10 list): "Today, the three turbines ... can supply 15 %" (a profile line, not a reading). No page gives a
+  measured output: a script says "built to give 11 to 15%". The kW: 225 in Building's list, CSE, IET, Energy Digital
+  and Wikipedia; ENR's "275-kW" is the outlier.
+  [CSE, Apr 16 2008](https://www.csemag.com/blades-spin-on-bahrain-world-trade-center/),
+  [SKF Evolution, Mar 25 2009](https://evolution.skf.com/a-gulf-breeze),
+  [IET, "Windmills in the skyscraper"](https://engx.theiet.org/b/blogs/posts/windmills-in-the-skyscraper),
+  [ENR, Jan 7 2009](https://enr.com/articles/7181-sailing-background-leads-to-two-towers-with-turbines),
+  [Gulf Daily News, Jul 12 2021](https://www.gdnonline.com/Details/951070),
+  [Energy Digital, Sep 2026, p. 39](https://publication.energydigital.com/energy-digital-september-2026/0230728001787564875/p39)
+
+Checked, nothing new
+- TikTok creator news: Metricool's timeline (updated Nov 19 2026) has no item dated after mid-October; TT Calculator's
+  "AI Outline" and "Smart Split" are from November 2025 and not confirmed in TikTok's newsroom. YouTube Shorts: only the
+  Made on YouTube 2026 pages again (Shorts series, in these notes). This hour's TikTok and Reels trend searches gave
+  pages already in these notes (Virlo, SocialPilot, Gelato, Later, SocialBee, Buffer). HeyOrca's Friday update of its
+  sounds list could not be read in this run (the fetch was not allowed). Higgsfield's Black Friday at about 13:00 PT on
+  the day: the same pages as at 11:00 (dio.me, both mydealz deals, pepper.pl, kripeshadwani), so Nov 28 stands.
+  [Metricool, TikTok news](https://metricool.com/tiktok-news),
+  [TT Calculator, Nov 2025](https://ttcalculator.net/news/ai-outline-smart-split-features/)

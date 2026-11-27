@@ -1791,3 +1791,76 @@ jobs:
       hung on cables above them, cool and calm inside, wide view. Shot 6 (25-30 s): funny slow motion, in a sweltering
       office two coworkers seen from behind lunge for the air-conditioner remote, it slips from their hands, spins
       through the air and splashes into the office fish tank, a goldfish swimming over to look.
+
+  - id: bahrainwtc-A
+    build: 110
+    kit: bahrainwtc
+    # Added Nov 27 13:10 PT by the hourly runner (cloud) with two jobs still todo (eastgate-A/B): 110 is the next
+    # LINEUP idea with no pair, and the evening run of Nov 27 (18:37 PT) takes 109-111, so both clips are needed by
+    # then. Facts (ideas.md Nov 24 21:50, Nov 27 12:00 and 13:00): A1: "a 240-metre-high (787 ft), 50-floor, twin tower
+    # complex" with "three skybridges, each holding a 225 kW wind turbine", "29 m (95 ft) in diameter", "aligned north,
+    # which is the direction from which air from the Persian Gulf blows in" (Wikipedia); "a strong, constant
+    # north-westerly breeze" (IET). A2 (a hot Gulf island city cooling its towers while the sea breeze blows past
+    # unused) is our picture of the problem. A3: the turbines are "fixed rather than pole-mounted" (Building), lifted in
+    # after the bridges (Arabian Business, 2006 plan) and installed in 2007 (IET). A4 (ours, fixed by A5): a fixed rotor
+    # cannot turn to meet a side wind; the wind tunnel work "helped Atkins to tweak the building design and prevent a
+    # yawing effect on the blades" (Arabian Business). A5: the towers make "an S-shaped streamline" that holds "within a
+    # 45-degree wind azimuth, either side of the central axis" and amplifies "the wind speed at the turbine location by
+    # up to 30 per cent"; "Wind Tunnel Testing was done by BMT and Atkins"; outside the working range "the turbine will
+    # automatically adopt a 'standstill' mode" (Gulf Construction Online); "the shape of the towers actually carves the
+    # wind to strike the blades at right angles" (Arabian Business). A6 (fixed by B1): the two towers move in the wind,
+    # and "Among the most serious was vibration" (ENR, Jan 7 2009). The architect is a real person: never shown. No
+    # faces: people only from behind; no logos, brand names, flags or writing anywhere.
+    status: todo
+    file: buildit-bahrainwtc-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): at sunrise on the shore of the Gulf, two 50-storey glass towers shaped like giant sails stand
+      face to face, three huge wind turbines hung on steel sky bridges in the gap between them, their giant blades
+      sweeping slowly past the bridges, slow aerial push-in. Shot 2 (5-10 s): midday on a flat island city by the Gulf
+      shimmering in the heat, glass office towers glaring in the sun with rows of cooling units humming on their roofs,
+      while out on the water a steady sea breeze raises whitecaps and bends the palms along the shore, wide aerial.
+      Shot 3 (10-15 s): a giant crane slowly lowers a huge three-bladed wind turbine onto the middle of a steel bridge
+      high between two towers, its round nose pointing out to sea, workers seen from behind on the bridge guiding it
+      into place, wide view. Shot 4 (15-20 s): the sea breeze swings round and blows in from the side, the fixed
+      turbine's giant blades meet the wind at a slant, wobble and slow down, office workers seen from behind at a
+      window watching them falter, close-up. Shot 5 (20-25 s): in a wind tunnel white smoke blows in at an angle toward
+      a white model of two sail-shaped towers, bends into an S-curve between them and streams straight through three
+      tiny turbines on bridges, which spin faster, close-up. Shot 6 (25-30 s): in a strong gust the two tall towers
+      sway apart and back by different amounts, the steel bridge between them strains and shudders, its bolts
+      groaning, the spinning turbine rattling it even more, close-up.
+  - id: bahrainwtc-B
+    build: 110
+    kit: bahrainwtc
+    # Facts: B1: "maintenance-free bearings where they connect to the buildings to allow the towers to move 0.5 m" (Gulf
+    # Construction Online; "half a metre relative to one another", Building), the vibration "cured by inserting rubber
+    # bearings at the bridges' ends" (ENR), and "the facility to add spoilers to the bridge and to adjust the tuned mass
+    # damper" (Gulf Construction Online). B2 (ours, fixed by B3): the "increasing velocity of the onshore breeze at
+    # increasing heights" (Gulf Construction Online). B3: "Tapering as they rise, the towers reduce this funnel effect,
+    # countering the increasing wind speeds with height, and making conditions around the turbines roughly the same"
+    # (ENR); predicted yields of "109% and 93%" for the upper and lower turbines against 100% for the middle one
+    # (Building). B4 teases build 111, the pin tumbler lock (LINEUP; a plain brass lock, no maker's name). B5: the three
+    # "spun in unison for the first time on April 8" 2008 (CSE, Apr 16 2008; SKF Evolution says online in March 2008:
+    # say "in 2008"); a Gulf Daily News video of Jul 12 2021 shows them "in full action". Line 12: "29 M" (each rotor)
+    # or "38 RPM" (Building's spec list: cut-in 4 m/s, cut-out 20 m/s, 225 kW at 15-20 m/s; ENR's "275-kW" is the
+    # outlier), or the "blade clearance to the bridge of 1.12 m" watched by "a laser blade position monitoring system"
+    # (Gulf Construction Online). Energy is a design figure ("between 1,100 and 1,300 MWh per year", "approximately 11
+    # to 15 per cent"): script "built to give"; SKF Evolution: "operational 50 percent of the time, depending on wind
+    # conditions". Line 13: turned the other way round they "would actually produce 14 percent more wind energy" (TU/e,
+    # Apr 23 2014; ideas.md Nov 24 21:50). Stills for 12-13: an AI picture only (Bahrain allows building photos only
+    # for non-commercial use, ideas.md Nov 26 12:10). B6: the hallway draft that slams a door (ours). No faces: people
+    # only from behind; no logos, brand names, flags or writing anywhere.
+    status: todo
+    file: buildit-bahrainwtc-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): cutaway of the end of a steel sky bridge where it meets the tower, a thick bearing of rubber and
+      steel squeezes and slides as the tower sways, the bridge stays steady and the shuddering fades away, close-up.
+      Shot 2 (5-10 s): three wind turbines one above the other on bridges between two straight-sided towers, the top
+      one spins wildly fast in the strong high wind while the bottom one barely turns, wide view. Shot 3 (10-15 s): a
+      slow aerial rise up the gap between two sail-shaped towers that narrow as they climb, white streaks of wind
+      flowing evenly between them, all three turbines turning at the same steady speed, wide view. Shot 4 (15-20 s):
+      macro cutaway of a brass door lock, a key slides in and lifts a row of little split pins until every gap lines up
+      exactly at the edge of the plug, then the plug turns with a soft click, slow push-in. Shot 5 (20-25 s): at dusk
+      on a waterfront promenade, crowds seen from behind watch the three giant turbines between two lit-up sail-shaped
+      towers start to turn together for the first time, the sea glowing orange, wide view. Shot 6 (25-30 s): funny
+      slow motion, at home a man seen from behind opens his front door while the balcony door is open, a gust rushes
+      down the narrow hallway, his papers whirl into the air, the bedroom door slams and the cat's fur blows flat.
