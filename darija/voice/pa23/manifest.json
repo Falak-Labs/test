@@ -15,17 +15,8 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 201,
+ "requested_characters": 20,
  "recorded_this_run": [
-  "h1",
-  "p01t",
-  "p02t",
-  "p03t",
-  "p04t",
-  "p05t",
-  "tw",
-  "w6",
-  "v2",
   "Tsl"
  ],
  "notes": [],
@@ -115,10 +106,10 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Kumf... ter... bul.",
-   "characters": 19,
+   "text": "Cumf... ter... bull.",
+   "characters": 20,
    "model": "eleven_v4",
-   "seconds": 2.96
+   "seconds": 2.88
   }
  ]
 }
