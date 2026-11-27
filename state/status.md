@@ -1,4 +1,4 @@
-# Post status 2026-11-27T08:44:33+00:00
+# Post status 2026-11-27T12:37:57+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -490,10 +490,10 @@
 | ep93-huajiang | en.instagram | sent |  | 2026-11-26T23:31:48.599Z https://www.instagram.com/reel/DgOShJKykil/ |
 | ep93-huajiang | en.tiktok | sent |  | 2026-11-26T23:31:21.486Z https://tiktok.com/@congratsengineer/video/7712626618027592973 |
 | ep94-smokealarm | ar.instagram | sent |  | 2026-11-27T08:03:01.339Z https://www.instagram.com/reel/DgPM_t5PUor/ |
-| ep94-smokealarm | ar.tiktok | scheduled |  | 2026-11-27T11:30:00.000Z |
+| ep94-smokealarm | ar.tiktok | sent |  | 2026-11-27T11:31:14.498Z https://tiktok.com/@kef.tenbeni/video/7712811947736993038 |
 | ep94-smokealarm | en.instagram | scheduled |  | 2026-11-27T14:00:00.000Z |
 | ep94-smokealarm | en.tiktok | scheduled |  | 2026-11-27T14:00:00.000Z |
-| ep95-falkirk | ar.instagram | scheduled |  | 2026-11-27T11:00:00.000Z |
+| ep95-falkirk | ar.instagram | sent |  | 2026-11-27T11:03:45.814Z https://www.instagram.com/reel/DgPhwqKJwlE/ |
 | ep95-falkirk | ar.tiktok | scheduled |  | 2026-11-27T14:30:00.000Z |
 | ep95-falkirk | en.instagram | scheduled |  | 2026-11-27T16:30:00.000Z |
 | ep95-falkirk | en.tiktok | scheduled |  | 2026-11-27T16:30:00.000Z |
