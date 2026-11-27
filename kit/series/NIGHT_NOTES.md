@@ -2363,3 +2363,9 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
     hex-packed wires and +150 green ones; lady() an 1880s dress, rooster(), carriage(); plastic_chair(broke) for the tag.
 - LINEUP: 112 the Sydney Harbour Bridge, 113 Abu Dhabi's Formula Rossa, 114 an aluminum soda can appended (nine entries
   ahead of 105: 106-114).
+- State (posting run 04:44Z Nov 27): 103's EN Instagram + TikTok (21:30Z Nov 28) and AR Instagram (17:00Z) scheduled;
+  103's AR TikTok and all eight Instagram + TikTok targets of 104-105 wait for Buffer places (every channel 10 of 10 with
+  94-99 and 100-103). The same run scheduled 99's and 100's AR TikToks and the AR Instagram of 101-102 (101's and 102's AR
+  TikToks still wait). The runs of Nov 27 add them with their pushes as Friday's posts go out; the midday run's check-in
+  at 06:30Z Nov 28 (trig_01B8mDajFB4ywxA6hPqkaNvx) and this run's at 15:00Z Nov 28 (trig_01Juzuz8MiV4WvyYVXvx3QgF)
+  dispatch post.yml once if any still waits. Buffer's 30-day allowance after the run: English 205, Arabic 126 requests.
