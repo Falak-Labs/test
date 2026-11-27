@@ -5600,3 +5600,61 @@ Free pictures for it (read on mirrors of Commons: check each on commons.wikimedi
 Checked, nothing new
 - This week's Shorts trends: list posts and 2026 forecasts only (mean.ceo, vidIQ, Metricool; not read). Record
   openings in December: the Tianshan Shengli tunnel (open since Dec 26 2025) and the Huajiang bridge (build 93) again.
+
+## 2026-11-27 11:00 PT (hourly runner, cloud run)
+
+A candidate build (new to these notes: no floating-bridge line yet)
+- The first train on a floating bridge: Seattle's 2 Line "opened to passengers Saturday morning", Mar 28 2026, on the
+  I-90 floating bridge across Lake Washington: "It's a world first. No one has ever run light rail on a floating
+  bridge before." (KUOW, Mar 28 2026; FOX 13 the same day). The chain, sources marked: "The lake was too deep, and its
+  bottom was too mushy" for a bridge on piers (A2, History.com); so a road on "22 floating bolted-together pontoons"
+  of hollow concrete held by anchor cables, opened Jul 2 1940 (A3; History.com, HistoryLink, Wikipedia). Break: on
+  Sun Nov 25 1990, Thanksgiving weekend, that bridge sank. Its renovation blasted the sidewalks off with water that
+  "could not be allowed to flow into Lake Washington", so the water was kept in the pontoons and "The watertight doors
+  for the pontoons were therefore removed"; a storm filled them, and "It sank when one pontoon filled and dragged the
+  rest down, because they were cabled together", a "2,790-foot (850 m) section", "captured on film and shown on live
+  TV", and "No one was hurt" (it was closed for the works); "A dozen anchoring cables" of the new twin bridge beside it
+  "were severed" (A4, Wikipedia; HistoryLink: "six-foot-high holes" cut in the pontoons; the storm is on Thanksgiving
+  Day in History.com and Nov 22-24 in Wikipedia, so say "that holiday weekend"). Rebuilt, it reopened Sep 12 1993 (A5,
+  Wikipedia). The train's problem: the lake rises and falls "2 feet annually, requiring anchor cable adjustments" (UW
+  CEE, May 18 2026) and the deck takes "as many as six dynamic movements", "yaw, pitch, roll, and surge" among them
+  (Metro Magazine, Apr 2018), so rails cannot simply run from the shore onto it (A6). Fix: track bridges at the joints,
+  Metro's "eight production track bridges" for the "four expansion joints" of the UW thesis (2013; two tracks each, our
+  reading): two box girders ("wings") on curved "uni-directional friction pendulum bearings", 17 bearer bars under the
+  rails and sliding rail joints, no springs or dampers (Metro, paraphrased); about a quarter of one was tested in UW's
+  lab (B1, thesis). Break: in 2019 "thousands of concrete 'plinths' supporting the tracks" turned out "poorly built" and
+  were torn out, which pushed the opening to 2026 (B2, KUOW); poured again in Sep 2024 (B3, UW CEE caption). Proof: an
+  unpowered train "pushed and then towed across" in May 2025, a four-car train in "livewire testing" on Oct 8 2025 (UW
+  CEE, FOX 13), then opening day (B5). Stat line: "2 FEET" a year, or Bellevue to Chinatown-International District in
+  "about 20 minutes" (KUOW); "55 miles per hour" is Metro's 2018 figure (check with Sound Transit). Closer: sensors in
+  the pontoons now follow the bridge "down to millimeters of accuracy" (UW CEE). A1: a train gliding across a lake at
+  dawn on a road that lies flat on the water, slow push-in. B6: funny slow motion, someone on a pool float carries a
+  brimful cup of coffee as a wave rolls under. To check before a script: that the train runs on the 1989 twin (the one
+  whose cables were cut), as we believe; no page read says so. The sinking was 36 years ago on Wednesday, not a round
+  date, so any slot will do. Kept out: the politicians quoted at the opening, the lawsuit, the contractor's dispute
+  over the blame, faces, logos. Not in LINEUP: the main chat's call.
+  [KUOW, Mar 28 2026](https://www.kuow.org/stories/sound-transit-links-seattle-and-the-eastside-opening-day-on-the-crosslake-connection),
+  [FOX 13, Mar 28 2026](https://www.fox13seattle.com/news/seattle-train-floating-bridge),
+  [UW CEE, May 18 2026](https://www.ce.washington.edu/news/article/2026-05-18/keeping-watch-one-kind-bridge),
+  [UW thesis, 2013](https://digital.lib.washington.edu/researchworks/items/a6855025-3e74-4810-9f94-67cd2d5faae6),
+  [Metro Magazine, Apr 2018](https://www.metro-magazine.com/10007312/seattles-floating-bridge-is-high-tech-light-rail-link),
+  [History.com](https://www.history.com/this-day-in-history/november-25/lacey-v-murrow-memorial-bridge-sinks-to-the-bottom-of-lake-washington),
+  [HistoryLink](https://www.historylink.org/file/2002),
+  [Wikipedia](https://en.wikipedia.org/wiki/Lacey_V._Murrow_Memorial_Bridge)
+
+Free pictures for it: none confirmed
+- Not free until checked: the Seattle Municipal Archives' "Lake Washington Floating Bridge Construction Album" (114
+  prints, Mar 1939 to Dec 1940, "scanned and appear online"; mostly the highway, the tunnel portals and the west
+  approach, no pontoon shots listed) says only "Records are open to the public", an access line, not reuse terms; the
+  State Archives' blog photo of Jan 29 1940 carries two credit lines (State Archives, WSDOT's collection) and no terms.
+  [Seattle Municipal Archives](https://archives.seattle.gov/finding-aids/repositories/2/resources/446),
+  [WA Secretary of State blog](https://sos.wa.gov/node/2971)
+
+Checked, nothing new
+- No December hook: Stuttgart 21's underground station (search titles only: a stepwise start "ab Dezember 2027",
+  stuttgart.de, Jun 2026; reports of "Ende 2031", ZDF heute, Berliner Zeitung); Western Sydney International opened to
+  passengers on Oct 25 2026 (pm.gov.au, The Nightly; titles only). This hour's TikTok and Shorts trend searches gave
+  the pages already in these notes (Virlo, SocialPilot, Gelato, que.es) and 2026 forecast lists (Metricool, Epidemic
+  Sound, vidIQ; not read). Higgsfield's Black Friday at about 11:00 PT on the day: the same pages (dio.me, both mydealz
+  deals, pepper.pl, kripeshadwani, the 14-day, 33-day and plan-change posts), so Nov 28 stands. Searches for record
+  openings return the Tianshan Shengli tunnel (Dec 26 2025) again.
