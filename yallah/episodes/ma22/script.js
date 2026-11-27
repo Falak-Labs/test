@@ -5,7 +5,7 @@ window.SCRIPT={"theme":"ma","ep":"22","L":{"lang":"Darija","TAB":"DARIJA","think
 {"dz":"Fin l-chanta dyali?","ar":"فين الشانطة ديالي؟","en":"Where is my bag?","who":"A","icon":"bag"},
 {"dz":"Tiyara dyali m3e2tla.","ar":"الطيارة ديالي معطلة.","en":"My flight is late.","who":"L","icon":"fe:clock"},
 {"dz":"Ha l-passport dyali.","ar":"ها الباسبور ديالي.","en":"Here is my passport.","who":"A","icon":"fe:passport"},
-{"dz":"Ana ghadi l-dar.","ar":"أنا غادي للدار.","en":"I'm going home.","who":"L","icon":"fe:airplane"},
+{"dz":"Ana raje3 l-dar.","ar":"أنا راجع للدار.","en":"I'm going home.","who":"L","icon":"fe:airplane"},
 {"dz":"L7amdoullah 3la slama!","ar":"الحمدلله على السلامة!","en":"Welcome back!","who":"A","icon":"fe:hug"}
 ],
 "beats":[
@@ -16,7 +16,7 @@ window.SCRIPT={"theme":"ma","ep":"22","L":{"lang":"Darija","TAB":"DARIJA","think
 {"id":"p02k","sp":"L","shot":"K","p":1,"en":"My flight is late.","fx":"ding","pre":1.12,"lead":1.0,"post":0.7},
 {"id":"p03t","sp":"T","shot":"T","p":2,"dz":"Ha l-passport dyali.","ar":"ها الباسبور ديالي.","pre":0.4},
 {"id":"p03k","sp":"A","shot":"K","p":2,"en":"Here is my passport.","fx":"ding","pre":1.12,"lead":1.0,"post":0.7},
-{"id":"p04t","sp":"T","shot":"T","p":3,"dz":"Ana ghadi l-dar.","ar":"أنا غادي للدار.","pre":0.4},
+{"id":"p04t","sp":"T","shot":"T","p":3,"dz":"Ana raje3 l-dar.","ar":"أنا راجع للدار.","pre":0.4},
 {"id":"p04k","sp":"L","shot":"K","p":3,"en":"I'm going home.","fx":"ding","pre":1.12,"lead":1.0,"post":0.7},
 {"id":"p05t","sp":"T","shot":"T","p":4,"dz":"L7amdoullah 3la slama!","ar":"الحمدلله على السلامة!","pre":0.4},
 {"id":"p05k","sp":"A","shot":"K","p":4,"en":"Welcome back!","fx":"ding","pre":1.12,"lead":1.0,"post":0.7},

@@ -12,7 +12,7 @@
    ]
   },
   "slow T": {
-   "seconds": 0.3,
+   "seconds": 0.2,
    "says": [
     "/home/runner/work/test/test/darija/voice/ma22/Tsl.mp3 → 0.60s 0.68s"
    ]
@@ -36,17 +36,17 @@
    ]
   },
   "sound": {
-   "seconds": 3.9,
+   "seconds": 3.5,
    "says": [
-    "duration 1:25.53 (2566 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.650",
-    "quiz 30.4 | hard word 43.2333 | end card 75.3 | word parts (s): {'T': [0.6, 0.68], 'A': [0.56, 0.77], 'L': [0.74, 0.87]}"
+    "duration 1:25.40 (2562 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.647",
+    "quiz 30.2333 | hard word 43.0667 | end card 75.1333 | word parts (s): {'T': [0.6, 0.68], 'A': [0.56, 0.77], 'L': [0.74, 0.87]}"
    ]
   },
   "picture": {
-   "seconds": 112.9,
+   "seconds": 112.3,
    "pieces": 5,
    "at_once": 4,
-   "frames_per_second": 22.7
+   "frames_per_second": 22.8
   },
   "join": {
    "seconds": 0.1,
@@ -57,15 +57,15 @@
    "says": []
   },
   "takes": {
-   "seconds": 3.0,
+   "seconds": 2.9,
    "says": [
-    "ok   o2      at   82.37s len 1.19s  match 0.945  (take offset +0.03s)",
-    "ok   o3      at   83.81s len 0.62s  match 0.993  (take offset +0.01s)",
+    "ok   o2      at   82.21s len 1.19s  match 0.945  (take offset +0.03s)",
+    "ok   o3      at   83.65s len 0.62s  match 0.993  (take offset +0.01s)",
     "below 0.9: none"
    ]
   },
   "frames": {
-   "seconds": 2.2,
+   "seconds": 2.3,
    "says": []
   }
  },
@@ -91,21 +91,21 @@
    "characters": 22
   }
  },
- "frames": 2566,
- "duration": 85.5333,
+ "frames": 2562,
+ "duration": 85.4,
  "sha256": {
-  "page/script.js": "487a701f07a38f454a8e43ee0e6003a66f0b37e2c3a14a0f85d49acd2fe2b2a2",
-  "page/tl.js": "d5c5b58405dde47c80f1861b9db52d4d7e9f752e760109bf1fbac022ddbff96d",
-  "final.wav": "b1ab72272b404d2442a359f1eb29961f17c5ec17d9151a31067f113bca81fa18",
-  "yallah-say-ma-ep22.mp4": "229565e16823c2659459b4341d4ce7f285b92815883788d2842d458ea352a789"
+  "page/script.js": "3c42ecd1539414c5a405121da60d5f8d49c3b18ea9fd0782262e1c30479d843d",
+  "page/tl.js": "2a713f5f629c7d8780d56f842ad05ecb294efb5453082cb242a1db246bae7b65",
+  "final.wav": "006f9ea1e7e3b7545a20bdcce42129eef29ec29bddd6ec496f46ee675ab28e1c",
+  "yallah-say-ma-ep22.mp4": "723e60c2e69307b50c49fc2ad6f710c51d4bb734b7c1168e2252eaca7169d352"
  },
  "video": {
-  "size": 18849703,
-  "frames": 2566,
+  "size": 18725370,
+  "frames": 2562,
   "width": 1080,
   "height": 1920,
   "rate": "30/1",
-  "audio_seconds": 85.533,
+  "audio_seconds": 85.4,
   "audio_rate": "48000"
  },
  "takes_below_0.9": "none",
@@ -116,19 +116,19 @@
   14.13,
   17.03,
   19.27,
-  21.85,
-  24.13,
-  26.89,
-  29.36,
-  32.0,
-  44.83,
-  76.9,
-  85.03
+  21.75,
+  23.97,
+  26.75,
+  29.21,
+  31.83,
+  44.67,
+  76.73,
+  84.9
  ],
  "made_with": {
   "python": "3.13.18",
   "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
   "playwright": "Version 1.63.0"
  },
- "seconds": 125.9
+ "seconds": 124.9
 }

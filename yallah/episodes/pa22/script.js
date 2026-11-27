@@ -1,6 +1,6 @@
 window.SCRIPT={"theme":"pa","ep":"22","L":{"lang":"Palestinian","TAB":"PALESTINIAN","think":"شو يعني بالإنجليزي؟","quizAr":"تعالوا نعيد!","quizSub":"Ta3alu n3id!  ·  Quick quiz","hardAr":"كلمة اليوم الصعبة","turnAr":"دورك! احكيها بصوت عالي","endQ":"عجبك الدرس؟","endWord":"كلمة اليوم الصعبة","cta":"اكتبها بالتعليقات!","ctaEn":"Write the hard word in the comments!","follow":"تابعنا","sub":"عشان تتعلم كل يوم","handle":"@YallahSayPa","meanAr":"المعنى: الشنط","endEq":"لاغيدج = الشنط"},
 "kids":[{"name":"Adam","look":"boy"},{"name":"Lina","look":"girl"},{"name":"Omar","look":"boy2"},{"name":"Yara","look":"girl2"},{"name":"Kareem","look":"boy3"},{"name":"Tala","look":"girl3"}],
-"word":{"full":"Luggage","parts":["Lug","gage"],"say":["LUG","ij"],"tts":["Lug","gidge"],"slow":"Lug... gidge.","ah":["لاغ","يدج"],"sent":{"en":"My luggage is very heavy!","hot":[1],"dz":"Shanati ti2ile ktir!","ar":"شنطاتي تقيلة كتير!"}},
+"word":{"full":"Luggage","parts":["Lug","gage"],"say":["LUG","ij"],"tts":["Lug","gidge"],"slow":"Lug... gidge.","ah":["لاغ","يدج"],"sent":{"en":"My luggage is very heavy!","hot":[1],"dz":"Shantiti ti2ile ktir!","ar":"شنطتي تقيلة كتير!"}},
 "phrases":[
 {"dz":"Wen shantiti?","ar":"وين شنطتي؟","en":"Where is my bag?","who":"A","icon":"bag"},
 {"dz":"Re7lti mit2akhre.","ar":"رحلتي متأخرة.","en":"My flight is late.","who":"L","icon":"fe:clock"},
@@ -43,7 +43,7 @@ window.SCRIPT={"theme":"pa","ep":"22","L":{"lang":"Palestinian","TAB":"PALESTINI
 {"id":"w6","sp":"T","shot":"H","en":"Good job! Luggage!","pre":0.5,"post":0.2},
 {"id":"v0","sp":"T","shot":"H","pre":0.4,"dz":"W-hassa b-jumleh!","ar":"وهسا بجملة!","gl":"And now in a sentence!"},
 {"id":"v1","sp":"L","shot":"H","en":"My luggage is very heavy!","hot":[1],"pre":0.4},
-{"id":"v2","sp":"T","shot":"H","dz":"Shanati ti2ile ktir!","ar":"شنطاتي تقيلة كتير!","pre":0.45},
+{"id":"v2","sp":"T","shot":"H","dz":"Shantiti ti2ile ktir!","ar":"شنطتي تقيلة كتير!","pre":0.45},
 {"id":"v3","shot":"H","sil":2.1,"en":"My luggage is very heavy!","hot":[1],"fx":"ticks","pre":0.3},
 {"id":"v4","clip":"w5","cho":"Lw","sp":"AL","shot":"H","en":"Luggage!","fx":"tada0","pre":0.25,"post":0.8},
 {"id":"o1","sp":"T","shot":"C","ar":"عجبك الدرس؟ اكتب الكلمة بالتعليقات! ولفيديوهات أكثر، تابعنا هون وعلى اليوتيوب!","pre":0.5,"fx":"whoosh"},

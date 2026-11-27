@@ -8,23 +8,23 @@
   "script": {
    "seconds": 0.0,
    "says": [
-    "40 beats, 10 voice lines, 179 characters"
+    "40 beats, 10 voice lines, 178 characters"
    ]
   },
   "slow T": {
-   "seconds": 0.3,
+   "seconds": 0.2,
    "says": [
     "/home/runner/work/test/test/darija/voice/pa22/Tsl.mp3 → 0.60s 0.56s"
    ]
   },
   "slow A": {
-   "seconds": 0.3,
+   "seconds": 0.2,
    "says": [
     "/home/runner/work/test/test/darija/voice/kids22/Asl.mp3 → 0.56s 0.77s"
    ]
   },
   "slow L": {
-   "seconds": 0.3,
+   "seconds": 0.2,
    "says": [
     "/home/runner/work/test/test/darija/voice/kids22/Lsl.mp3 → 0.74s 0.87s"
    ]
@@ -36,36 +36,36 @@
    ]
   },
   "sound": {
-   "seconds": 3.9,
+   "seconds": 3.6,
    "says": [
-    "duration 1:23.27 (2498 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.661",
-    "quiz 29.1333 | hard word 42.0667 | end card 72.8333 | word parts (s): {'T': [0.6, 0.56], 'A': [0.56, 0.77], 'L': [0.74, 0.87]}"
+    "duration 1:23.13 (2494 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.662",
+    "quiz 29.1333 | hard word 42.0667 | end card 72.7 | word parts (s): {'T': [0.6, 0.56], 'A': [0.56, 0.77], 'L': [0.74, 0.87]}"
    ]
   },
   "picture": {
-   "seconds": 158.4,
+   "seconds": 109.9,
    "pieces": 5,
    "at_once": 4,
-   "frames_per_second": 15.8
+   "frames_per_second": 22.7
   },
   "join": {
-   "seconds": 0.2,
+   "seconds": 0.1,
    "says": []
   },
   "mux": {
-   "seconds": 2.5,
+   "seconds": 1.9,
    "says": []
   },
   "takes": {
-   "seconds": 4.1,
+   "seconds": 3.2,
    "says": [
-    "ok   o2      at   80.09s len 1.19s  match 0.945  (take offset +0.03s)",
-    "ok   o3      at   81.53s len 0.62s  match 0.993  (take offset +0.01s)",
+    "ok   o2      at   79.97s len 1.19s  match 0.944  (take offset +0.03s)",
+    "ok   o3      at   81.41s len 0.62s  match 0.993  (take offset +0.01s)",
     "below 0.9: none"
    ]
   },
   "frames": {
-   "seconds": 3.3,
+   "seconds": 2.4,
    "says": []
   }
  },
@@ -73,7 +73,7 @@
   "own": {
    "folder": "darija/voice/pa22",
    "lines": 10,
-   "characters": 179
+   "characters": 178
   },
   "kids": {
    "folder": "darija/voice/kids22",
@@ -91,21 +91,21 @@
    "characters": 22
   }
  },
- "frames": 2498,
- "duration": 83.2667,
+ "frames": 2494,
+ "duration": 83.1333,
  "sha256": {
-  "page/script.js": "276cce0ad768c7602deaa36b9850c033f91e33d4f88a1e96abe8ae55ab05e02a",
-  "page/tl.js": "cbf8b64f9c7b19daec1420af47c513a58d47fb01d47b362aec766855933db987",
-  "final.wav": "742dd8373799907f0ca42f7f306aded562ddcd5a299b66e92b91a0d280621c02",
-  "yallah-say-pa-ep22.mp4": "10b8d22942fe0b7ce25501f21f32f49df0bb29eb17bd95544b9bd56a50423c7b"
+  "page/script.js": "117f8dc97bcb4a9101c32b2fdc8f165331ee9a7c5a38390e9382bab1bdf46eaf",
+  "page/tl.js": "0291ee945bf4adf498b46cae01c158a060f3cda1e55217a72cf3f9c18cd73b25",
+  "final.wav": "0e955cb94e2a2f7b89a1b5272a95cdfdb153d8da044f0a0372a07d2c58034510",
+  "yallah-say-pa-ep22.mp4": "c407e98727fca25250b575c2954bcc738fa2eaab6d6febb0ddadbb27fec07a0b"
  },
  "video": {
-  "size": 17209712,
-  "frames": 2498,
+  "size": 17187944,
+  "frames": 2494,
   "width": 1080,
   "height": 1920,
   "rate": "30/1",
-  "audio_seconds": 83.266,
+  "audio_seconds": 83.133,
   "audio_rate": "48000"
  },
  "takes_below_0.9": "none",
@@ -122,13 +122,13 @@
   28.11,
   30.73,
   43.67,
-  74.43,
-  82.77
+  74.3,
+  82.63
  ],
  "made_with": {
   "python": "3.13.18",
   "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
   "playwright": "Version 1.63.0"
  },
- "seconds": 175.1
+ "seconds": 123.0
 }
