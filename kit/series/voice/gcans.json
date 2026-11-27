@@ -3,8 +3,8 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 66.632,
- "words": 157,
+ "duration": 66.03,
+ "words": 156,
  "words_per_sec": 2.36,
  "lines": [
   {
@@ -194,713 +194,708 @@
   {
    "line": 4,
    "start": 13.691,
-   "end": 17.063,
-   "text": "But five wells fill up in no time. Then what?",
+   "end": 16.464,
+   "text": "But they fill up in no time. Then what?",
    "words": [
     {
      "w": "But",
-     "start": 14.323,
-     "end": 14.466
+     "start": 14.155,
+     "end": 14.227
     },
     {
-     "w": "five",
-     "start": 14.537,
-     "end": 14.823
-    },
-    {
-     "w": "wells",
-     "start": 14.895,
-     "end": 15.18
+     "w": "they",
+     "start": 14.298,
+     "end": 14.441
     },
     {
      "w": "fill",
-     "start": 15.252,
-     "end": 15.323
+     "start": 14.512,
+     "end": 14.655
     },
     {
      "w": "up",
-     "start": 15.395,
-     "end": 15.466
+     "start": 14.727,
+     "end": 14.798
     },
     {
      "w": "in",
-     "start": 15.538,
-     "end": 15.68
+     "start": 14.87,
+     "end": 14.941
     },
     {
      "w": "no",
-     "start": 15.752,
-     "end": 15.895
+     "start": 15.084,
+     "end": 15.227
     },
     {
      "w": "time.",
-     "start": 15.966,
-     "end": 16.502
+     "start": 15.298,
+     "end": 15.78
     },
     {
      "w": "Then",
-     "start": 16.573,
-     "end": 16.716
+     "start": 15.914,
+     "end": 16.129
     },
     {
      "w": "what?",
-     "start": 16.787,
-     "end": 17.287
+     "start": 16.271,
+     "end": 16.629
     }
    ]
   },
   {
    "line": 5,
-   "start": 17.376,
-   "end": 22.121,
+   "start": 16.777,
+   "end": 21.521,
    "text": "So a tunnel joins them, six kilometers long and fifty meters down.",
    "words": [
     {
      "w": "So",
-     "start": 17.59,
-     "end": 17.733
+     "start": 16.991,
+     "end": 17.134
     },
     {
      "w": "a",
-     "start": 17.804,
-     "end": 17.947
+     "start": 17.205,
+     "end": 17.348
     },
     {
      "w": "tunnel",
-     "start": 18.019,
-     "end": 18.304
+     "start": 17.42,
+     "end": 17.705
     },
     {
      "w": "joins",
-     "start": 18.447,
-     "end": 18.733
+     "start": 17.848,
+     "end": 18.134
     },
     {
      "w": "them,",
-     "start": 18.804,
-     "end": 19.304
+     "start": 18.205,
+     "end": 18.705
     },
     {
      "w": "six",
-     "start": 19.376,
-     "end": 19.59
+     "start": 18.777,
+     "end": 18.991
     },
     {
      "w": "kilometers",
-     "start": 19.662,
-     "end": 20.162
+     "start": 19.062,
+     "end": 19.562
     },
     {
      "w": "long",
-     "start": 20.233,
-     "end": 20.519
+     "start": 19.634,
+     "end": 19.92
     },
     {
      "w": "and",
-     "start": 20.626,
-     "end": 20.733
+     "start": 20.027,
+     "end": 20.134
     },
     {
      "w": "fifty",
-     "start": 20.876,
-     "end": 21.162
+     "start": 20.277,
+     "end": 20.562
     },
     {
      "w": "meters",
-     "start": 21.304,
-     "end": 21.59
+     "start": 20.705,
+     "end": 20.991
     },
     {
      "w": "down.",
-     "start": 21.662,
-     "end": 22.233
+     "start": 21.062,
+     "end": 21.634
     }
    ]
   },
   {
    "line": 6,
-   "start": 22.433,
-   "end": 26.129,
+   "start": 21.834,
+   "end": 25.529,
    "text": "But the water races down and slams the end like a train.",
    "words": [
     {
      "w": "But",
-     "start": 22.548,
-     "end": 22.691
+     "start": 21.948,
+     "end": 22.091
     },
     {
      "w": "the",
-     "start": 22.762,
-     "end": 22.905
+     "start": 22.162,
+     "end": 22.305
     },
     {
      "w": "water",
-     "start": 22.977,
-     "end": 23.262
+     "start": 22.377,
+     "end": 22.662
     },
     {
      "w": "races",
-     "start": 23.405,
-     "end": 23.834
+     "start": 22.805,
+     "end": 23.234
     },
     {
      "w": "down",
-     "start": 23.905,
-     "end": 24.12
+     "start": 23.305,
+     "end": 23.52
     },
     {
      "w": "and",
-     "start": 24.191,
-     "end": 24.405
+     "start": 23.591,
+     "end": 23.805
     },
     {
      "w": "slams",
-     "start": 24.512,
-     "end": 24.834
+     "start": 23.912,
+     "end": 24.234
     },
     {
      "w": "the",
-     "start": 24.905,
-     "end": 24.977
+     "start": 24.305,
+     "end": 24.377
     },
     {
      "w": "end",
-     "start": 25.048,
-     "end": 25.191
+     "start": 24.448,
+     "end": 24.591
     },
     {
      "w": "like",
-     "start": 25.262,
-     "end": 25.334
+     "start": 24.662,
+     "end": 24.734
     },
     {
      "w": "a",
-     "start": 25.405,
-     "end": 25.548
+     "start": 24.805,
+     "end": 24.948
     },
     {
      "w": "train.",
-     "start": 25.798,
-     "end": 26.262
+     "start": 25.198,
+     "end": 25.662
     }
    ]
   },
   {
    "line": 7,
-   "start": 26.441,
-   "end": 31.512,
+   "start": 25.842,
+   "end": 30.913,
    "text": "So it spills into a giant tank to calm down, under fifty-nine pillars.",
    "words": [
     {
      "w": "So",
-     "start": 26.655,
-     "end": 26.798
+     "start": 26.056,
+     "end": 26.199
     },
     {
      "w": "it",
-     "start": 26.87,
-     "end": 27.012
+     "start": 26.271,
+     "end": 26.413
     },
     {
      "w": "spills",
-     "start": 27.084,
-     "end": 27.37
+     "start": 26.485,
+     "end": 26.771
     },
     {
      "w": "into",
-     "start": 27.441,
-     "end": 27.655
+     "start": 26.842,
+     "end": 27.056
     },
     {
      "w": "a",
-     "start": 27.727,
-     "end": 27.798
+     "start": 27.128,
+     "end": 27.199
     },
     {
      "w": "giant",
-     "start": 27.941,
-     "end": 28.298
+     "start": 27.342,
+     "end": 27.699
     },
     {
      "w": "tank",
-     "start": 28.37,
-     "end": 28.584
+     "start": 27.771,
+     "end": 27.985
     },
     {
      "w": "to",
-     "start": 28.655,
-     "end": 28.727
+     "start": 28.056,
+     "end": 28.128
     },
     {
      "w": "calm",
-     "start": 28.834,
-     "end": 29.012
+     "start": 28.235,
+     "end": 28.413
     },
     {
      "w": "down,",
-     "start": 29.084,
-     "end": 29.727
+     "start": 28.485,
+     "end": 29.128
     },
     {
      "w": "under",
-     "start": 29.87,
-     "end": 30.012
+     "start": 29.271,
+     "end": 29.413
     },
     {
      "w": "fifty-nine",
-     "start": 30.155,
-     "end": 30.727
+     "start": 29.556,
+     "end": 30.128
     },
     {
      "w": "pillars.",
-     "start": 30.798,
-     "end": 31.584
+     "start": 30.199,
+     "end": 30.985
     }
    ]
   },
   {
    "line": 8,
-   "start": 31.825,
-   "end": 36.468,
+   "start": 31.226,
+   "end": 35.868,
    "text": "But the tank is fifty meters down. Water won't climb out by itself!",
    "words": [
     {
      "w": "But",
-     "start": 32.53,
-     "end": 32.602
+     "start": 31.931,
+     "end": 32.003
     },
     {
      "w": "the",
-     "start": 32.673,
-     "end": 32.745
+     "start": 32.074,
+     "end": 32.146
     },
     {
      "w": "tank",
-     "start": 32.816,
-     "end": 33.03
+     "start": 32.217,
+     "end": 32.431
     },
     {
      "w": "is",
-     "start": 33.102,
-     "end": 33.245
+     "start": 32.503,
+     "end": 32.646
     },
     {
      "w": "fifty",
-     "start": 33.387,
-     "end": 33.673
+     "start": 32.788,
+     "end": 33.074
     },
     {
      "w": "meters",
-     "start": 33.745,
-     "end": 34.03
+     "start": 33.146,
+     "end": 33.431
     },
     {
      "w": "down.",
-     "start": 34.102,
-     "end": 34.655
+     "start": 33.503,
+     "end": 34.056
     },
     {
      "w": "Water",
-     "start": 34.789,
-     "end": 35.004
+     "start": 34.19,
+     "end": 34.404
     },
     {
      "w": "won't",
-     "start": 35.075,
-     "end": 35.218
+     "start": 34.476,
+     "end": 34.619
     },
     {
      "w": "climb",
-     "start": 35.254,
-     "end": 35.504
+     "start": 34.654,
+     "end": 34.904
     },
     {
      "w": "out",
-     "start": 35.575,
-     "end": 35.646
+     "start": 34.976,
+     "end": 35.047
     },
     {
      "w": "by",
-     "start": 35.718,
-     "end": 35.789
+     "start": 35.119,
+     "end": 35.19
     },
     {
      "w": "itself!",
-     "start": 35.896,
-     "end": 36.646
+     "start": 35.297,
+     "end": 36.047
     }
    ]
   },
   {
    "line": 9,
-   "start": 36.78,
-   "end": 41.358,
+   "start": 36.18,
+   "end": 40.758,
    "text": "So four pumps, spun by jet engines, push it up into the Edo River.",
    "words": [
     {
      "w": "So",
-     "start": 37.04,
-     "end": 37.112
+     "start": 36.44,
+     "end": 36.512
     },
     {
      "w": "four",
-     "start": 37.254,
-     "end": 37.397
+     "start": 36.654,
+     "end": 36.797
     },
     {
      "w": "pumps,",
-     "start": 37.469,
-     "end": 38.112
+     "start": 36.869,
+     "end": 37.512
     },
     {
      "w": "spun",
-     "start": 38.183,
-     "end": 38.469
+     "start": 37.583,
+     "end": 37.869
     },
     {
      "w": "by",
-     "start": 38.54,
-     "end": 38.683
+     "start": 37.94,
+     "end": 38.083
     },
     {
      "w": "jet",
-     "start": 38.826,
-     "end": 39.04
+     "start": 38.226,
+     "end": 38.44
     },
     {
      "w": "engines,",
-     "start": 39.112,
-     "end": 39.746
+     "start": 38.512,
+     "end": 39.146
     },
     {
      "w": "push",
-     "start": 39.853,
-     "end": 39.96
+     "start": 39.253,
+     "end": 39.36
     },
     {
      "w": "it",
-     "start": 39.996,
-     "end": 40.031
+     "start": 39.396,
+     "end": 39.431
     },
     {
      "w": "up",
-     "start": 40.103,
-     "end": 40.174
+     "start": 39.503,
+     "end": 39.574
     },
     {
      "w": "into",
-     "start": 40.246,
-     "end": 40.388
+     "start": 39.646,
+     "end": 39.788
     },
     {
      "w": "the",
-     "start": 40.46,
-     "end": 40.531
+     "start": 39.86,
+     "end": 39.931
     },
     {
      "w": "Edo",
-     "start": 40.603,
-     "end": 40.817
+     "start": 40.003,
+     "end": 40.217
     },
     {
      "w": "River.",
-     "start": 40.888,
-     "end": 41.388
+     "start": 40.288,
+     "end": 40.788
     }
    ]
   },
   {
    "line": 10,
-   "start": 41.671,
-   "end": 46.76,
+   "start": 41.071,
+   "end": 46.16,
    "text": "Hit follow, 'cause next we're building the Brooklyn Bridge. Elephants included!",
    "words": [
     {
      "w": "Hit",
-     "start": 41.742,
-     "end": 41.885
+     "start": 41.142,
+     "end": 41.285
     },
     {
      "w": "follow,",
-     "start": 42.028,
-     "end": 42.599
+     "start": 41.428,
+     "end": 41.999
     },
     {
      "w": "'cause",
-     "start": 42.742,
-     "end": 42.956
+     "start": 42.142,
+     "end": 42.356
     },
     {
      "w": "next",
-     "start": 43.028,
-     "end": 43.242
+     "start": 42.428,
+     "end": 42.642
     },
     {
      "w": "we're",
-     "start": 43.385,
-     "end": 43.528
+     "start": 42.785,
+     "end": 42.928
     },
     {
      "w": "building",
-     "start": 43.671,
-     "end": 43.813
+     "start": 43.071,
+     "end": 43.213
     },
     {
      "w": "the",
-     "start": 43.885,
-     "end": 43.956
+     "start": 43.285,
+     "end": 43.356
     },
     {
      "w": "Brooklyn",
-     "start": 44.028,
-     "end": 44.313
+     "start": 43.428,
+     "end": 43.713
     },
     {
      "w": "Bridge.",
-     "start": 44.385,
-     "end": 44.885
+     "start": 43.785,
+     "end": 44.285
     },
     {
      "w": "Elephants",
-     "start": 45.635,
-     "end": 45.956
+     "start": 45.035,
+     "end": 45.356
     },
     {
      "w": "included!",
-     "start": 46.242,
-     "end": 46.76
+     "start": 45.642,
+     "end": 46.16
     }
    ]
   },
   {
    "line": 11,
-   "start": 47.072,
-   "end": 52.3,
+   "start": 46.472,
+   "end": 51.701,
    "text": "The answer? Almost a whole swimming pool... every single second!",
    "words": [
     {
      "w": "The",
-     "start": 47.287,
-     "end": 47.358
+     "start": 46.687,
+     "end": 46.758
     },
     {
      "w": "answer?",
-     "start": 47.501,
-     "end": 48.054
+     "start": 46.901,
+     "end": 47.454
     },
     {
      "w": "Almost",
-     "start": 48.269,
-     "end": 48.626
+     "start": 47.669,
+     "end": 48.026
     },
     {
      "w": "a",
-     "start": 48.697,
-     "end": 48.769
+     "start": 48.097,
+     "end": 48.169
     },
     {
      "w": "whole",
-     "start": 48.912,
-     "end": 49.197
+     "start": 48.312,
+     "end": 48.597
     },
     {
      "w": "swimming",
-     "start": 49.34,
-     "end": 49.697
+     "start": 48.74,
+     "end": 49.097
     },
     {
      "w": "pool...",
-     "start": 49.769,
-     "end": 50.304
+     "start": 49.169,
+     "end": 49.704
     },
     {
      "w": "every",
-     "start": 51.019,
-     "end": 51.197
+     "start": 50.419,
+     "end": 50.597
     },
     {
      "w": "single",
-     "start": 51.34,
-     "end": 51.626
+     "start": 50.74,
+     "end": 51.026
     },
     {
      "w": "second!",
-     "start": 51.769,
-     "end": 52.483
+     "start": 51.169,
+     "end": 51.883
     }
    ]
   },
   {
    "line": 12,
-   "start": 52.612,
-   "end": 57.196,
+   "start": 52.013,
+   "end": 56.597,
    "text": "Six kilometers of tunnel, fifty-nine pillars, and four jet-engine pumps.",
    "words": [
     {
      "w": "Six",
-     "start": 52.755,
-     "end": 52.97
+     "start": 52.156,
+     "end": 52.371
     },
     {
      "w": "kilometers",
-     "start": 53.041,
-     "end": 53.47
+     "start": 52.442,
+     "end": 52.871
     },
     {
      "w": "of",
-     "start": 53.541,
-     "end": 53.612
+     "start": 52.942,
+     "end": 53.013
     },
     {
      "w": "tunnel,",
-     "start": 53.684,
-     "end": 54.121
+     "start": 53.085,
+     "end": 53.522
     },
     {
      "w": "fifty-nine",
-     "start": 54.202,
-     "end": 54.702
+     "start": 53.603,
+     "end": 54.103
     },
     {
      "w": "pillars,",
-     "start": 54.773,
-     "end": 55.273
+     "start": 54.174,
+     "end": 54.674
     },
     {
      "w": "and",
-     "start": 55.345,
-     "end": 55.416
+     "start": 54.746,
+     "end": 54.817
     },
     {
      "w": "four",
-     "start": 55.63,
-     "end": 55.845
+     "start": 55.031,
+     "end": 55.246
     },
     {
      "w": "jet-engine",
-     "start": 56.059,
-     "end": 56.559
+     "start": 55.46,
+     "end": 55.96
     },
     {
      "w": "pumps.",
-     "start": 56.63,
-     "end": 57.345
+     "start": 56.031,
+     "end": 56.746
     }
    ]
   },
   {
    "line": 13,
-   "start": 57.509,
-   "end": 60.949,
+   "start": 56.91,
+   "end": 60.35,
    "text": "And congrats, you just built Tokyo's flood tunnel yourself.",
    "words": [
     {
      "w": "And",
-     "start": 57.631,
-     "end": 57.652
+     "start": 57.032,
+     "end": 57.053
     },
     {
      "w": "congrats,",
-     "start": 57.723,
-     "end": 58.509
+     "start": 57.124,
+     "end": 57.91
     },
     {
      "w": "you",
-     "start": 58.652,
-     "end": 58.795
+     "start": 58.053,
+     "end": 58.196
     },
     {
      "w": "just",
-     "start": 58.866,
-     "end": 59.009
+     "start": 58.267,
+     "end": 58.41
     },
     {
      "w": "built",
-     "start": 59.116,
-     "end": 59.223
+     "start": 58.517,
+     "end": 58.624
     },
     {
      "w": "Tokyo's",
-     "start": 59.366,
-     "end": 59.723
+     "start": 58.767,
+     "end": 59.124
     },
     {
      "w": "flood",
-     "start": 59.795,
-     "end": 59.937
+     "start": 59.196,
+     "end": 59.338
     },
     {
      "w": "tunnel",
-     "start": 60.009,
-     "end": 60.295
+     "start": 59.41,
+     "end": 59.696
     },
     {
      "w": "yourself.",
-     "start": 60.402,
-     "end": 61.08
+     "start": 59.803,
+     "end": 60.481
     }
    ]
   },
   {
    "line": 14,
-   "start": 61.262,
-   "end": 66.624,
+   "start": 60.662,
+   "end": 66.025,
    "text": "It swallows whole rivers... and your sink clogs on one noodle.",
    "words": [
     {
      "w": "It",
-     "start": 61.831,
-     "end": 61.974
+     "start": 61.231,
+     "end": 61.374
     },
     {
      "w": "swallows",
-     "start": 62.046,
-     "end": 62.474
+     "start": 61.446,
+     "end": 61.874
     },
     {
      "w": "whole",
-     "start": 62.617,
-     "end": 62.903
+     "start": 62.017,
+     "end": 62.303
     },
     {
      "w": "rivers...",
-     "start": 63.046,
-     "end": 63.76
+     "start": 62.446,
+     "end": 63.16
     },
     {
      "w": "and",
-     "start": 64.446,
-     "end": 64.474
+     "start": 63.846,
+     "end": 63.874
     },
     {
      "w": "your",
-     "start": 64.581,
-     "end": 64.688
+     "start": 63.981,
+     "end": 64.088
     },
     {
      "w": "sink",
-     "start": 64.76,
-     "end": 64.974
+     "start": 64.16,
+     "end": 64.374
     },
     {
      "w": "clogs",
-     "start": 65.046,
-     "end": 65.403
+     "start": 64.446,
+     "end": 64.803
     },
     {
      "w": "on",
-     "start": 65.474,
-     "end": 65.688
+     "start": 64.874,
+     "end": 65.088
     },
     {
      "w": "one",
-     "start": 65.831,
-     "end": 66.046
+     "start": 65.231,
+     "end": 65.446
     },
     {
      "w": "noodle.",
-     "start": 66.117,
-     "end": 66.831
+     "start": 65.517,
+     "end": 66.231
     }
    ]
   }
