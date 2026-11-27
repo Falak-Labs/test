@@ -4,21 +4,18 @@
  "word": {
   "full": "Temperature",
   "parts": [
-   "Tem",
-   "pera",
+   "Tempera",
    "ture"
   ],
   "say": [
-   "TEM",
-   "pruh",
+   "TEM-pruh",
    "cher"
   ],
   "tts": [
-   "Tem",
-   "pruh",
+   "Tempruh",
    "cher"
   ],
-  "slow": "Tem... pruh... cher.",
+  "slow": "Tempruh... cher.",
   "mean": "درجة الحرارة",
   "ar": {
    "ma": "تيمبراتشر",
@@ -61,7 +58,7 @@
   ],
   "board": [
    "درجة الحرارة",
-   "= ? ? ?"
+   "= ? ?"
   ],
   "ph": [
    [
@@ -100,12 +97,11 @@
    "ar": "الحرارة ثلاثين درجة اليوما!"
   },
   "ah": [
-   "تيم",
-   "برا",
+   "تيمبرا",
    "تشر"
   ],
   "mean": "درجة الحرارة",
-  "teacher_slow": "Tehm... pruh... chur."
+  "teacher_slow": "Tempruh... chur."
  },
  "pa": {
   "hook": [
@@ -117,7 +113,7 @@
   ],
   "board": [
    "درجة الحرارة",
-   "= ? ? ?"
+   "= ? ?"
   ],
   "ph": [
    [
@@ -156,11 +152,10 @@
    "ar": "الحرارة تلاتين درجة اليوم!"
   },
   "ah": [
-   "تيم",
-   "برا",
+   "تيمبرا",
    "تشر"
   ],
   "mean": "درجة الحرارة",
-  "teacher_slow": "Tem... pruh... chur."
+  "teacher_slow": "Tempruh... chur."
  }
 }
