@@ -60,7 +60,7 @@
    },
    "youtube_handle": "YallahSayMa",
    "buffer_limits": {
-    "youtube": 2
+    "youtube": 0
    }
   },
   "pa": {
@@ -106,7 +106,7 @@
     ]
    },
    "buffer_limits": {
-    "youtube": 2
+    "youtube": 0
    },
    "youtube_handle": "YallahSay-Pa"
   }
