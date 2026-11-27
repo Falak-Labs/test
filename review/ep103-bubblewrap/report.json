@@ -1,0 +1,237 @@
+{
+ "slug": "ep103-bubblewrap",
+ "kit": "bubblewrap",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, bubble wrap was invented to be... wallpaper.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Nobody wanted bumpy walls! So how'd it end up in every box?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So trap air instead. Air squishes, then springs right back.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But one big air pillow pops, and your stuff hits the floor.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So make lots of tiny bubbles. Pop one, the rest still hold.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But how do you blow up a million tiny balloons?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So hot plastic gets sucked into little cups, and a flat sheet seals the air in.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But a truck full of bubbles is mostly... air. Shipping air costs money!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So some bubble wrap ships flat, and gets pumped up where you pack.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building the tunnel that swallows Tokyo's floods.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? IBM! [chuckles] Its new computer shipped in bubble wrap.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Two shower curtains, one wallpaper flop, and a whole lot of air.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built bubble wrap yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] One phone charger... [laughs harder] in a giant box with ten feet of bubble wrap.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "9/161",
+   "mix_lines_off": [
+    "L 1 1 diff  | Yo, bubble wrap was invented to be wallpaper.",
+    "L 2 2 diff  | Nobody wanted bumpy walls, so how did it end up in every box?",
+    "L 3 1 diff  | Oh, trap air instead. Air squishes, then springs right back.",
+    "L 5 1 diff  | Make lots of tiny bubbles. Pop one, the rest still hold.",
+    "L10 1 diff  | Hit follow! Cause next we're building the tunnel that swallows Tokyo's floods.",
+    "L11 3 diff  | The answer? IBM! It's new computer ship and bubble wrap."
+   ],
+   "size_mb": 18.6,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، نايلون الفقاعات اخترعوه عشان يكون... ورق جدران.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] بس محد بغى جدار مليان فقاعات! طيب كيف صار في كل كرتون؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فحبسوا فيه هوا. الهوا ينضغط، وبعدين يرجع مكانه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس مخدة هوا وحدة كبيرة تنفجر، وأغراضك تطيح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فسووا فقاعات صغيرة كثير. وحدة تنفقع، والباقي يشيل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس كيف تنفخ مليون بالونة صغيرة؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فالبلاستيك الحار ينسحب لأكواب صغيرة، وطبقة ثانية تسكّر على الهوا.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس شاحنة مليانة فقاعات... أغلبها هوا! وشحن الهوا فلوس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] ففيه نوع الحين يجي مسطّح، وينفخونه وقت التغليف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني نفق يبلع فيضانات طوكيو. [chuckles] إي والله.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ آي بي إم! [chuckles] كانت تبي تشحن كمبيوترها الجديد، ولفّته بالفقاعات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] ستارتين شاور، ورق جدران ما أحد اشتراه، وهوا كثير.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك نايلون الفقاعات بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] وأمك للحين حاطة النايلون على الكنب الجديد... [laughs harder] من خمس سنين!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -1.8,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 17.7,
+   "cover": true
+  }
+ }
+}
