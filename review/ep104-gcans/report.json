@@ -1,0 +1,238 @@
+{
+ "slug": "ep104-gcans",
+ "kit": "gcans",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, Japan built a giant hall of pillars underground... for floods.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Typhoons flood towns near Tokyo. So how fast can it empty?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So five giant wells catch the rivers when they overflow.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But they fill up in no time. Then what?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So a tunnel joins them, six kilometers long and fifty meters down.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But the water races down and slams the end like a train.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So it spills into a giant tank to calm down, under fifty-nine pillars.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But the tank is fifty meters down. Water won't climb out by itself!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So four pumps, spun by jet engines, push it up into the Edo River.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building the Brooklyn Bridge. [chuckles] Elephants included!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? Almost a whole swimming pool... [chuckles] every single second!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Six kilometers of tunnel, fifty-nine pillars, and four jet-engine pumps.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built Tokyo's flood tunnel yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] It swallows whole rivers... [laughs harder] and your sink clogs on one noodle.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.13,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "13/159",
+   "mix_lines_off": [
+    "L 2 1 diff  | typhoon's flood towns near Tokyo. So how fast can it empty?",
+    "L 5 3 diff  | So a tunnel joins them, 6 km long and 50 meters down.",
+    "L 7 2 diff  | So it spills into a giant tank to calm down under 59 pillars.",
+    "L 8 1 diff  | But the tank is 50 meters down, water won't climb out by itself.",
+    "L 9 1 diff  | Four pumps spun by jet engines push it up into the Edo River",
+    "L10 1 diff  | Hit follow cuz next we're building the Brooklyn Bridge. Elephants included.",
+    "L12 4 diff  | 6 km of tunnel, 59 pillars, and 4 jet engine pumps."
+   ],
+   "size_mb": 18.7,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، اليابان بنت قاعة أعمدة عملاقة تحت الأرض... للفيضانات بس.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] الأعاصير تغرّق المدن حول طوكيو. طيب بأي سرعة تطلّع الموية؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فحفروا خمس آبار عملاقة جنب الأنهار، تمسك الموية إذا فاضت.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس الآبار تمتلي بدقايق. وبعدين؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فوصلوها بنفق طوله ست كيلو، وعمقه خمسين متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس الموية تنطلق في النفق، وتضرب آخره مثل القطار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فتصب في خزان عملاق تهدى فيه، تحت تسعة وخمسين عمود ضخم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس الخزان خمسين متر تحت. والموية ما تطلع لحالها!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فأربع مضخات عملاقة، تشغّلها محركات طيارات، ترفعها لنهر كبير.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني جسر بروكلين. [chuckles] وفيه فيلة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ تقريباً مسبح كامل... [chuckles] كل ثانية!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] ست كيلو نفق، تسعة وخمسين عمود، وأربع مضخات بمحركات طيارات.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك نفق طوكيو للفيضانات بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] يبلع أنهار كاملة... [laughs harder] وحنا أول ما تمطر عشر دقايق، الشارع يصير مسبح!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 72.17,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 20.8,
+   "cover": true
+  }
+ }
+}

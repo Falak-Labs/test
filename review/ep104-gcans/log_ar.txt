@@ -1,0 +1,7 @@
+gcans_ar_sa: 72.15s, 2165 frames
+cover out/gcans_ar_sa/cover.png: ['نفق طوكيو', 'للفيضانات'] (frame 0 of the video)
+video done in 428s
+audio done
+final out/gcans_ar_sa/gcans_ar_sa_final.mp4
+QA  duration 72.17s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2165
+QA sheet out/gcans_ar_sa/qa_sheet.png

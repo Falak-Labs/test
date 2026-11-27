@@ -1,0 +1,13 @@
+gcans: 69.12s, 2074 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/gcans/cover.png: ["TOKYO'S", 'FLOOD TUNNEL'] (frame 0 of the video)
+video done in 410s
+audio done
+final out/gcans/gcans_final.mp4
+QA  duration 69.13s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2074
+QA sheet out/gcans/qa_sheet.png
