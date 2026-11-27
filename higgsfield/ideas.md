@@ -4822,3 +4822,92 @@ Checked, nothing new
   Vids' free Omni 1.1 Flash (Digital Trends, Sep 23 2026) is the Vids line already here; Instagram's feature news
   returns items already here. The Wikipedia pages on single sideband and the 1922 Bell Telephone Magazine picture did
   not load from here.
+
+## 2026-11-27 02:00 PT (hourly runner, cloud run)
+
+Build candidates (new to these notes; neither is in LINEUP or episodes.yml)
+- Japan's snow-melting roads ("shosetsu"), a snow build for December with no round date: in snow country the road
+  sprays itself. It "was first developed in the 1960s, when it was deployed in the city of Nagaoka" (The Autopian,
+  Mar 13 2025; The Daily Galaxy: "First introduced in the 1960s in Nagaoka"); a PIARC paper has the sprinkled
+  groundwater system "In 1961" without naming the city, so a script says "in the 1960s". How: sprinklers in
+  "roadside barriers and the roads themselves" let out "a slow trickle of warm groundwater", found at "46 to 64°F"
+  (8-18 C) (Autopian), "sprinkled from pipes installed on the roads directly over the snow" (PIARC). Reach: "By
+  1977, there was a full 354 miles of shosetsu-equipped road" (Autopian, citing a Springer paper not read here);
+  Japan's snowy regions hold "22% of the population (approximately 28 million people)" on about 60 % of its land
+  (PIARC). The break: the sprinklers "used amounts of groundwater, lowered groundwater level and ground subsidence
+  happened" (PIARC); the environment ministry still sees marked subsidence "in snowy regions (e. g. Minami-Uonuma in
+  Niigata Prefecture)", where groundwater is pumped for "snow melting" among other uses, and "Once subsided, the
+  ground does not return to its original level"; its pumping limits date from the 1960s (no cm figure on any page
+  read). The fixes: a road that does not spray, with "heat radiation pipes installed under the pavement" fed from a
+  pumping well and an injection well that puts the water back, so it "neither affects the water supply nor causes
+  land subsidence" (PIARC, which also has Yamagata wells to 100 m at 14-15 C), and Niigata City's 200 m2 demo heated
+  from the sewer (a "heat collecting pipe", antifreeze to a "heat radiation panel"), energy cut "by more than 90
+  percent" against heaters or boilers (Highlighting Japan, Jan 2022). Not on any page read, so not in a script until
+  a source says so: the inventor's name, snow sensors, rust-coloured stains, splashed walkers. Chain: a snow-country
+  town buried in snow, shovels and plows losing (A2) → groundwater warmer than snow, pumped up and sprinkled (A3) →
+  every street pumping on the same night, the wells running low (A4) → a limit on each well (A5) → the ground itself
+  sinks and never comes back (A6) → heat pipes under the road, the water sent back down (B1) → heaters under the
+  walkways gulping power (B2, ours) → the sewer's warmth (B3) → a snow-country street in a storm, black wet asphalt
+  between white banks (B5). A1: at night, rows of little fountains spurt from the middle of a snowy road while the
+  snow keeps falling, cars hissing through. B6: funny slow motion, a snowman at the kerb takes one sprinkler jet in
+  the face and slowly loses its carrot nose.
+  [The Autopian](https://www.theautopian.com/how-japan-clears-snow-from-the-roads-without-salt-and-plows),
+  [The Daily Galaxy](https://dailygalaxy.com/2025/04/japans-ingenious-snow-removal-method-that-the-usa-and-canada-could-definitely-learn-from/),
+  [PIARC, Andorra 2014](https://proceedings-andorra2014.piarc.org/content/actes/44_eng.pdf),
+  [Ministry of the Environment](https://www.env.go.jp/en/water/wq/wemj/ground.html),
+  [Highlighting Japan, Jan 2022](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202201/202201_10_en.html)
+- Fri Jan 1 2027, 25 years of euro cash, and the bridges that were not real. The euro was "book money" from 1
+  January 1999 and "Three years later" people in Germany and eleven other countries got the notes and coins for the
+  first time (Bundesbank, Jan 1 2024: its "25 years" counts from 1999), so New Year's Day is 25 years of the cash
+  (our sum; no 2027 event on the pages read). The hook: the notes' designs "were meant to depict architectural
+  styles... rather than actual monuments or bridges" (Euronews, Jul 27 2026), and then a Dutch town built them:
+  Robin Stam "came up with the idea to create the real-life bridges in 2011" (Euronews); in Spijkenisse the 10 and
+  50 euro bridges opened on Oct 26 2011, the 200 on Oct 17 2012, the 100 and 500 on Sep 26 2013, the 5 and 20 later,
+  seven in all, with "coloured concrete panels placed on the sides" (Wikipedia; no page read says they wear the
+  notes' own colours). The fixes against fakes in the central banks' check guides: raised print at the edges you
+  can feel, a portrait watermark seen against the light, a security thread that shows as a dark stripe, a silver
+  hologram stripe with a window at its top, and an "emerald number" (Bundesbank quick test; Suomen Pankki: "raised
+  print (textured feel)", "portrait watermark", "portrait hologram"); both pages were read as summaries, so a
+  script reads them again before quoting. On screen: the ECB lets anyone use images of euro notes without asking if
+  they keep its rules (one side at least 125 % or at most 75 % of the length and width, "specimen" across a digital
+  copy, at most 72 dpi at full size; read here as a summary, and video is not mentioned), so the shots keep to the
+  bridges and to close-ups of one feature with no writing, and a picture model may refuse money anyway. The portrait
+  is Europa from Greek myth as far as these notes know (not on the pages read: confirm on the ECB's page before a
+  script says so). Left out: the euro's politics, who joined and when. Chain: a fake printed in a back room (A2) →
+  raised print (A3) → a fake taken at a shop till (A4) → the watermark (A5) → a colour copier churning out
+  lookalikes (A6) → the hologram and its window (B1) → a shiny foil strip glued on fools a quick look (B2, ours) →
+  the emerald number that shifts when tilted (B3) → the seven bridges in Spijkenisse on a bright day (B5). A1: a slow
+  aerial over a small Dutch town whose canals are crossed by seven bright bridges straight off the money. B1 can add
+  the EURion pattern: "five 1 mm large circles", "usually in yellow, but often also in green or orange", on "the
+  pound, mark or euro", and copiers "refuse to copy many of the more recent banknotes" because "a simple geometric
+  pattern" "can be easily detected with a matched filter" (Markus Kuhn, Cambridge, Feb 8 2002; what a copier makes
+  instead is not on the page). B6: funny slow motion, a man seen from behind finds a forgotten note in last winter's
+  coat pocket.
+  [Euronews, Jul 27 2026](https://www.euronews.com/2026/07/27/you-can-visit-every-bridge-on-the-back-of-euro-banknotes-and-theyre-all-in-one-town),
+  [Wikipedia, Eurobridges Spijkenisse](https://en.wikipedia.org/wiki/Eurobridges_Spijkenisse),
+  [Bundesbank, the euro turns 25](https://www.bundesbank.de/en/tasks/topics/the-euro-turns-25-921344),
+  [Bundesbank, quick test](https://www.bundesbank.de/en/tasks/cash-management/counterfeit-money/quick-test-europa-series-754108),
+  [Suomen Pankki](https://www.suomenpankki.fi/en/money-and-payments/euro-banknotes-and-coins/recognition-of-banknotes/),
+  [ECB, images and reproduction rules](https://www.ecb.europa.eu/euro/banknotes/images/html/index.en.html),
+  [Markus Kuhn, EURion, 2002](https://www.cl.cam.ac.uk/%7Emgk25/eurion.pdf)
+
+Free picture leads (new to these notes)
+- PAKUTASO, a Japanese free stock site: a photo of "Water sprays from roadside drainage channels on a snow-covered
+  road, steam rising in cold air" (4256 x 2832, landscape, so a 9:16 crop of about 1593 x 2832; no prefecture
+  named), "free for commercial use without attribution" (photo page). Its terms: "Commercial use is permitted, but
+  materials may not be commercialized as products"; credit "is not mandatory except for secondary distribution or
+  book covers"; "Materials may be used with processing, compositing, transformation, or conversion"; "not
+  copyright-free or 'CC0'"; no line on AI use found; banned: "Systematic collection, reproduction, or accumulation of
+  free materials through automated programs" and passing photos to other stock services; users should "be able to
+  communicate in Japanese" if the site writes to them; Japanese law. Monetized video is not named either way, so:
+  one photo picked by hand as the snow build's proof still, never bulk downloads by a script.
+  [PAKUTASO photo](https://www.pakutaso.com/en/20211236348post-37902.html),
+  [PAKUTASO terms](https://www.pakutaso.com/en/userpolicy.html)
+- The Autopian's two sprinkler photos: Yuzawa, credited "Daderot, CC0" (its Wikimedia Commons file not found here:
+  open it and check the CC0 line before use), and Tsurugi, "GoddersUK, CC BY-SA 4.0" (share-alike, kept out like
+  the others).
+
+Checked, nothing new
+- Virlo's daily pages at about 02:00 PT: the search returns the radar page and dated pages up to Nov 18 only, nothing
+  for Black Friday. The NII record on the Muikamachi Basin's subsidence from winter groundwater use came back empty,
+  and Wikipedia's EURion page did not load from here (Kuhn's own note did).
