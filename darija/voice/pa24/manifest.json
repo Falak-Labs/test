@@ -15,7 +15,7 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 20,
+ "requested_characters": 16,
  "recorded_this_run": [
   "Tsl"
  ],
@@ -106,10 +106,10 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Tem... pruh... chur.",
-   "characters": 20,
+   "text": "Tempruh... chur.",
+   "characters": 16,
    "model": "eleven_v4",
-   "seconds": 2.72
+   "seconds": 2.08
   }
  ]
 }

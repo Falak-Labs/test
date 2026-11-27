@@ -15,8 +15,11 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 0,
- "recorded_this_run": [],
+ "requested_characters": 32,
+ "recorded_this_run": [
+  "Asl",
+  "Lsl"
+ ],
  "notes": [],
  "lines": [
   {
@@ -95,19 +98,19 @@
    "id": "Asl",
    "speaker": "A",
    "voice": "tJHJUEHzOkMoPmJJ5jo2",
-   "text": "Tem... pruh... cher.",
-   "characters": 20,
+   "text": "Tempruh... cher.",
+   "characters": 16,
    "model": "eleven_v4",
-   "seconds": 2.88
+   "seconds": 2.24
   },
   {
    "id": "Lsl",
    "speaker": "L",
    "voice": "Nggzl2QAXh3OijoXD116",
-   "text": "Tem... pruh... cher.",
-   "characters": 20,
+   "text": "Tempruh... cher.",
+   "characters": 16,
    "model": "eleven_v4",
-   "seconds": 2.72
+   "seconds": 2.48
   }
  ]
 }
