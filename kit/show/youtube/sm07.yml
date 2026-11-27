@@ -1,0 +1,51 @@
+# What YouTube shows for Survival Mode 7: You vs Chores. show/handoff.py turns this into the upload sheet.
+date: 2026-11-28                 # the Pacific day it goes public
+chapters:
+  en: ["No hands. No ice. No broom.", "Level 1: the dishwasher vs the dishes", "Level 2: the washing machine vs the laundry",
+       "Level 3: the refrigerator vs the heat", "Final level: the vacuum cleaner vs the dust", "Results"]
+  ar: ["بدون يدين ولا ثلج ولا مقشة", "المرحلة الأولى: غسالة الصحون وصحون العزيمة", "المرحلة الثانية: الغسالة والغسيل",
+       "المرحلة الثالثة: الثلاجة والحر", "المرحلة الأخيرة: المكنسة الكهربا والغبار", "النتيجة"]
+en:
+  full:
+    time: "10:00"
+    title: "Survival Mode: You vs Chores 🧹 Dishwasher, Washer, Fridge, Vacuum"
+    desc: |
+      No hands. No ice. No broom. Four levels, four bosses made of housework, and you beat them with enzymes, concrete, a boiling liquid and a tornado.
+
+      {chapters}
+
+      Every level is a real machine: a dishwasher cleans a full load with about 12 liters of water at 60 degrees, where washing a big dinner by hand can send up to 100 liters down the drain.
+      A washing machine spins its drum 1,400 times a minute, at 500 times gravity, and a 25 kilo block of concrete tames the shaking.
+      A refrigerator holds 4 degrees inside and minus 18 in the freezer without a single cube of ice, and a vacuum cleaner's fan turns 125,000 times a minute while 99.97 percent of the dust gets caught.
+
+      New episode every day. Subscribe, or the boss wins.
+      #engineering #survival #howitworks
+  short:
+    time: "12:15"
+    title: "Water Too Hot for Your Hands 🧽 Survival Mode: You vs Chores"
+    desc: |
+      Level 1 of 4: the dinner table. A big dinner is over, so you close the dishes in a box and blast them with water too hot for your hands, from arms that spin with no motor.
+      The full episode with all four levels is on this channel: "Survival Mode: You vs Chores".
+      #Shorts #engineering #survival
+ar:
+  full:
+    time: "09:00"
+    title: "طور البقاء: أنت ضد شغل البيت 🧹 غسالة الصحون والغسالة والثلاجة والمكنسة"
+    desc: |
+      بدون يدين. بدون ثلج. بدون مقشة. أربع مراحل وأربعة زعماء من شغل البيت، وأنت تغلبهم بالإنزيمات والخرسانة وسائل يغلي وإعصار.
+
+      {chapters}
+
+      كل مرحلة مكينة حقيقية: غسالة الصحون تغسل الغسلة بقرابة اثنعش لتر موية على ستين درجة، وغسيل عزيمة كبيرة باليد يصرف لين مية لتر.
+      والغسالة تلف حوضها ألف وأربعمية لفة في الدقيقة، بقوة خمسمية مرة الجاذبية، وحجر خرسانة خمسة وعشرين كيلو يضبط رجّتها.
+      والثلاجة أربع درجات داخلها وسالب ثمنطعش في الفريزر بدون ولا مكعب ثلج، ومروحة المكنسة الكهربا تلف مية وخمسة وعشرين ألف لفة بالدقيقة، وتسعة وتسعين بالمية من الغبار ينمسك.
+
+      حلقة جديدة كل يوم. اشترك، ولا الزعيم يفوز.
+      #هندسة #طور_البقاء #كيف_تنبني
+  short:
+    time: "10:30"
+    title: "موية حارة ما تتحملها يدك 🧽 طور البقاء: أنت ضد شغل البيت"
+    desc: |
+      المرحلة الأولى من أربع: السفرة. خلصت عزيمة كبيرة، فتقفل على الصحون صندوق وتغسلها بموية حارة ما تتحملها يدك، من أذرع تلف بدون موتور.
+      الحلقة الكاملة بالمراحل الأربع على القناة: "طور البقاء: أنت ضد شغل البيت".
+      #Shorts #هندسة #طور_البقاء

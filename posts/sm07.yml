@@ -1,0 +1,39 @@
+episode: sm07                     # Survival Mode 7: You vs Chores (the 4-minute show). This file posts its SHORT cuts to TikTok + Instagram.
+date: 2026-11-28
+video:
+  en: media/sm07-en.mp4
+  ar: media/sm07-ar.mp4
+# YouTube gets both the full video and this short through YouTube Studio (the main chat, `show` branch), so both YouTube
+# targets stay on hold for good. TikTok and Instagram start on hold too: the main chat releases them with
+# scripts/yt_desk.py release sm07 after the YouTube uploads. No build run may take any target of this file off hold.
+hold: [en.youtube, ar.youtube, en.instagram, en.tiktok, ar.instagram, ar.tiktok]
+en:
+  at: "2026-11-28T20:15:00Z"      # 12:15 PT Sat Nov 28; the full video goes public on YouTube at 10:00 PT
+  title: "Water Too Hot for Your Hands 🧽 Survival Mode: You vs Chores"
+  text: |
+    No hands. No ice. No broom. 🧹
+    Level 1: the dinner table. A big dinner is over, and washing it all by hand can send up to a hundred liters down the drain, so you close the dishes in a box and let arms that spin with no motor wash them with about twelve.
+    Three more bosses are waiting. All 4 levels are on our YouTube channel: @congratsengineer
+    Which one would beat you first: the dishes, the laundry, the heat or the dust? 👇
+  tags:
+    tiktok: "#survival #engineering #dishwasher #howitworks #learnontiktok"
+    instagram: "#survival #engineering #dishwasher #howitworks #chores"
+    youtube: "#survival #engineering"
+ar:
+  at: "2026-11-28T18:30:00Z"      # 10:30 PT Sat Nov 28 = 21:30 Riyadh; the full video goes public on YouTube at 09:00 PT (20:00 Riyadh)
+  title: "موية حارة ما تتحملها يدك 🧽 طور البقاء: أنت ضد شغل البيت"
+  text:
+    default: |
+      بدون يدين. بدون ثلج. بدون مقشة. 🧹
+      المرحلة الأولى: السفرة. خلصت عزيمة كبيرة، وغسيل صحونها باليد يصرف لين مية لتر موية، فتقفل على الصحون صندوق، وأذرع تلف بدون موتور تغسلها بقرابة اثنعش لتر.
+      باقي قدامك ثلاثة زعماء. المراحل الأربع كلها على قناتنا في يوتيوب: @kef.tenbeni
+      مين كان بيغلبك أول: الصحون، الغسيل، الحر ولا الغبار؟ 👇
+    tiktok: |
+      بدون يدين. بدون ثلج. بدون مقشة. 🧹
+      المرحلة الأولى: السفرة. خلصت عزيمة كبيرة، وغسيل صحونها باليد يصرف لين مية لتر موية، فتقفل على الصحون صندوق، وأذرع تلف بدون موتور تغسلها بقرابة اثنعش لتر.
+      باقي قدامك ثلاثة زعماء في الحلقة الكاملة.
+      مين كان بيغلبك أول: الصحون، الغسيل، الحر ولا الغبار؟ 👇
+  tags:
+    tiktok: "#طور_البقاء #هندسة #غسالة_الصحون #السعودية #تعلم_على_التيك_توك"
+    instagram: "#طور_البقاء #هندسة #غسالة_الصحون #كيف_تنبني #معلومات"
+    youtube: "#طور_البقاء #هندسة"
