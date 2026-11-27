@@ -4,37 +4,45 @@
    "id": "6b076f10a791bea1b2369ccc",
    "channel": "6b02347bece6dfde5f4e33e8",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-26T21:30:57.000Z",
    "planned": "2026-11-26T21:30:00+00:00",
-   "created": "2026-11-25T23:28:12+00:00"
+   "created": "2026-11-25T23:28:12+00:00",
+   "sentAt": "2026-11-26T21:32:19.013Z",
+   "link": "https://www.instagram.com/reel/DgOE3I4J_6w/"
   },
   "ma.tiktok": {
    "id": "6b076f10b96dd8d3516f2080",
    "channel": "6b0259038541f09ecb5d0742",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-26T21:30:06.000Z",
    "planned": "2026-11-26T21:30:00+00:00",
-   "created": "2026-11-25T23:28:12+00:00"
+   "created": "2026-11-25T23:28:12+00:00",
+   "sentAt": "2026-11-26T21:32:39.054Z",
+   "link": "https://tiktok.com/@yallah.say/video/7712595795647679758"
   },
   "pa.instagram": {
    "id": "6b076f11b8e2338b8570be9e",
    "channel": "6b0255998541f09ecb5cf287",
    "service": "instagram",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-26T19:00:04.000Z",
    "planned": "2026-11-26T21:00:00+02:00",
-   "created": "2026-11-25T23:28:12+00:00"
+   "created": "2026-11-25T23:28:12+00:00",
+   "sentAt": "2026-11-26T19:07:32.076Z",
+   "link": "https://www.instagram.com/reel/DgN0TzxiRey/"
   },
   "pa.tiktok": {
    "id": "6b076f1107071a60673850b7",
    "channel": "6b0256a78541f09ecb5cf94e",
    "service": "tiktok",
-   "status": "scheduled",
+   "status": "sent",
    "dueAt": "2026-11-26T19:02:05.000Z",
    "planned": "2026-11-26T21:00:00+02:00",
-   "created": "2026-11-25T23:28:12+00:00"
+   "created": "2026-11-25T23:28:12+00:00",
+   "sentAt": "2026-11-26T19:07:18.258Z",
+   "link": "https://tiktok.com/@yallahsaypa/video/7712558394686590221"
   }
  }
 }
