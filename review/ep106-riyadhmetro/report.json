@@ -1,0 +1,240 @@
+{
+ "slug": "ep106-riyadhmetro",
+ "kit": "riyadhmetro",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, in Riyadh the best seat on the train is... the driver's.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] A city of millions, stuck in traffic. So how big a metro?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So machines dug tunnels underneath, and tracks went up on concrete legs.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But under the desert... they hit water! Lots of it!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So pumps kept it dry, and tunnels got a watertight lining.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But who drives over a hundred eighty trains, all day long?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] Nobody! Computers drive them, and a control room watches every one.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But with no driver, who stops folks from falling onto the tracks?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So glass walls line the platforms, opening only when a train's there.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building a chairlift that lets go... on purpose.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? A hundred seventy-six kilometers! [chuckles] The longest driverless metro on Earth.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Six lines, eighty-five stations, a train every two and a half minutes.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built the Riyadh Metro yourself!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] No driver, no honking... [laughs harder] and your uncle still says he drives better.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.8,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "21/163",
+   "mix_lines_off": [
+    "L 1 2 diff  | Yo, in Riyadh the best seat on the train is the drivers",
+    "L 3 1 diff  | Machines dug tunnels underneath and tracks went up on concrete legs.",
+    "L 5 1 diff  | Pumps kept it dry and tunnels got a watertight lining",
+    "L 6 3 diff  | But who drives over 180 trains all day long?",
+    "L 7 2 diff  | Nobody, computers drive them, and a control room watches everyone.",
+    "L 9 2 diff  | Glass walls line the platforms, opening only when the train's there.",
+    "L10 1 diff  | Hit follow cuz next we're building a chairlift that lets go on purpose.",
+    "L11 4 diff  | The answer? 176 kilometers! The longest driverless metro on Earth.",
+    "L12 5 diff  | 6 lines, 85 stations, are trained every 2 and a half minutes."
+   ],
+   "size_mb": 14.6,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، في الرياض أحلى مكان في القطار... مكان السواق!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] ملايين الناس عالقين في الزحمة. طيب كم طول المترو اللي يكفيهم؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] فحفروا أنفاق تحت المدينة، ورفعوا السكة فوق على أعمدة خرسانة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس تحت الصحرا... لقوا موية! موية جوفية كثيرة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فشفطوها بالمضخات، وبطّنوا الأنفاق بخرسانة ما تسرّب.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس مين بيسوق أكثر من مية وثمانين قطار، طول اليوم؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] ولا أحد! الكمبيوتر يسوقها، وغرفة تحكم تراقب كل قطار.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس بدون سواق، مين يمنع الناس يطيحون على السكة؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فحطّوا جدران زجاج على الرصيف، ما تنفتح إلا إذا القطار وقف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني كرسي تلفريك يفك الكيبل... عن قصد!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ مية وستة وسبعين كيلو! [chuckles] أطول مترو بدون سواق في العالم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] ست خطوط، وخمسة وثمانين محطة، وقطار كل دقيقتين ونص.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك مترو الرياض بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] لا سواق ولا بوري... [laughs harder] وعمك للحين يقول: أنا أسوق أحسن منه!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -1.9,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 14.5,
+   "cover": true
+  }
+ }
+}

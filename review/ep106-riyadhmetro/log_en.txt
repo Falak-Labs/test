@@ -1,0 +1,13 @@
+riyadhmetro: 69.79s, 2094 frames
+Unable to revert mtime: /usr/share/fonts
+Unable to revert mtime: /usr/share/fonts/truetype
+Unable to revert mtime: /usr/share/fonts/truetype/dejavu
+Unable to revert mtime: /usr/share/fonts/truetype/lato
+Unable to revert mtime: /usr/share/fonts/truetype/liberation
+Unable to revert mtime: /usr/share/fonts/truetype/noto
+cover out/riyadhmetro/cover.png: ['THE RIYADH', 'METRO'] (frame 0 of the video)
+video done in 398s
+audio done
+final out/riyadhmetro/riyadhmetro_final.mp4
+QA  duration 69.80s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2094
+QA sheet out/riyadhmetro/qa_sheet.png
