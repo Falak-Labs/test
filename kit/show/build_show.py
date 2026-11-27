@@ -643,7 +643,8 @@ class Show:
             j = int(clamp((t - t0) / fd, 0, 2.999)) if t >= t0 else 0
             tt = max(0.0, t - t0 - j * fd)
             lv = LEVELS[j + 1]
-            L.world_flash(c, self.shot(j + 1, int(tt * FPS)), j + 1, lv["boss"], tt, fd, chip=STR["flash_chip"].format(n=lv["n"]))
+            L.world_flash(c, self.shot(j + 1, int(tt * FPS)), j + 1, lv["boss"], tt, fd, chip=STR["flash_chip"].format(n=lv["n"]),
+                          dim=lv.get("flash_dim", 0.0))
         else:
             tt = t - seg["t_card"]
             wt = lambda idx: plan.word_t("p2", idx) - seg["start"] / FPS - seg["t_card"]
@@ -673,7 +674,7 @@ class Show:
             fd = (t3 - four) / 4
             j = min(3, int((t - four) / fd))
             tt = t - four - j * fd
-            L.world_flash(c, self.shot(j, int(tt * FPS)), j, LEVELS[j]["stamp"], tt, fd)
+            L.world_flash(c, self.shot(j, int(tt * FPS)), j, LEVELS[j]["stamp"], tt, fd, dim=LEVELS[j].get("flash_dim", 0.0))
         else:
             tt = t - t3
             wt = lambda idx: plan.word_t(3, idx) - T0 - t3

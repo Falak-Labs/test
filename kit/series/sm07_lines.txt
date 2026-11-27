@@ -2,7 +2,7 @@
 [amused] Just you, and four fights with your chores that you are not supposed to win.
 [proudly] Win all four, and congrats, you just beat your chores.
 [playful] Level one. The dinner table. A big dinner is over, and washing it all by hand can send up to a hundred liters down the drain.
-[amused] Level two. The laundry room. A pile of dirty clothes, and soaking them does nothing, because the dirt hides deep in the threads.
+[amused] Level two. The bathroom. A pile of dirty clothes, and soaking them does nothing, because the dirt hides deep in the threads.
 [playful] Level three. The kitchen. It's a heatwave, the milk is going warm, and there's not a single cube of ice in the house.
-[amused] Final level. The living room. Your broom just throws the fine dust into the air, and it lands right back on the carpet.
+[amused] Final level. The living room. A broom just throws the fine dust into the air, and it lands right back on the carpet.
 [chuckles] Four levels, and you never lifted a finger. Your hands say thank you. [proudly] You just beat the dishes, the laundry, the heat and the dust, with enzymes, concrete, a boiling liquid and a tornado.

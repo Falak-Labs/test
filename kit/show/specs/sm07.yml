@@ -8,6 +8,8 @@ levels:
   - kit: dishwasher
     music: oasis
     color: "#5CD6E0"
+    shot: 4.9                         # the camera pulls back from the racks to the whole machine (the hook ends on a sink of dirty plates)
+    still: 3.0
     en: {world: "THE DINNER TABLE", boss: "THE DISHES", sub: "A BIG DINNER  ·  100 LITERS BY HAND", unlocked: "THE DISHWASHER",
          stamp: "DRIED EGG", chips: [["~12 L", "A FULL LOAD"], ["60°C", "HOT WATER"], ["100 L", "BY HAND"]]}
     ar: {world: "السفرة", boss: "الصحون", sub: "عزيمة كبيرة  ·  مية لتر باليد", unlocked: "غسالة الصحون",
@@ -15,13 +17,18 @@ levels:
   - kit: washer
     music: desert
     color: "#FFD08A"
-    en: {world: "THE LAUNDRY ROOM", boss: "THE LAUNDRY", sub: "DIRT DEEP IN THE THREADS  ·  NO HANDS", unlocked: "THE WASHING MACHINE",
+    shot: 3.9                         # the drum at full spin, the speedometer at 130 km/h (the hook ends on a bucket)
+    still: 6.5                        # the machine small on its dark wall: a close-up of the white machine makes a pale card
+    flash_dim: 0.28                   # the white machine fills the flash: darken it so the white stamp and captions read
+    en: {world: "THE BATHROOM", boss: "THE LAUNDRY", sub: "DIRT DEEP IN THE THREADS  ·  NO HANDS", unlocked: "THE WASHING MACHINE",
          stamp: "STILL DIRTY", chips: [["1,400", "SPINS A MINUTE"], ["500x", "GRAVITY"], ["25 kg", "OF CONCRETE"]]}
     ar: {world: "غرفة الغسيل", boss: "الغسيل", sub: "الوسخ لاصق في الخيوط", unlocked: "الغسالة",
          stamp: "وسخ لاصق", chips: [["1,400", "لفة في الدقيقة"], ["500x", "قوة الجاذبية"], ["25 kg", "حجر خرسانة"]]}
   - kit: fridge
     music: arctic
     color: "#8FB8FF"
+    shot: 1.6                         # the open fridge glowing cold, the sun in the window, the ice cube melting (the hook ends on a frozen lake)
+    still: 2.5
     en: {world: "THE KITCHEN", boss: "THE HEAT", sub: "A HEATWAVE  ·  NOT ONE CUBE OF ICE", unlocked: "THE REFRIGERATOR",
          stamp: "NO ICE", chips: [["4°C", "INSIDE"], ["-18°C", "IN THE FREEZER"], ["0", "CUBES OF ICE"]]}
     ar: {world: "المطبخ", boss: "الحر", sub: "عز الصيف  ·  ولا مكعب ثلج", unlocked: "الثلاجة",
@@ -29,6 +36,8 @@ levels:
   - kit: vacuum
     music: ondol
     color: "#FF9D5C"
+    shot: 2.0                         # the motor and the bin close up (the hook ends on a broom and a dusty floor)
+    still: 3.0
     en: {world: "THE LIVING ROOM", boss: "THE DUST", sub: "A BROOM THROWS IT UP  ·  IT LANDS AGAIN", unlocked: "THE VACUUM CLEANER",
          stamp: "DUST CLOUD", chips: [["125,000", "SPINS A MINUTE"], ["99.97%", "OF DUST CAUGHT"], ["0", "BAGS"]]}
     ar: {world: "الصالة", boss: "الغبار", sub: "المقشة تطيّره  ·  ويرجع ينزل", unlocked: "المكنسة الكهربا",
@@ -43,7 +52,7 @@ en:
   result_value: "0"
   promo: survivalpromob               # the closing lines read by J. Ballen (series/survivalpromob_lines.txt)
   cues: {sub: beat, stat: finger}
-  emph: [HANDS, ICE, BROOM, FOUR, CHORES, WIN, CONGRATS, DINNER, TABLE, HUNDRED, LITERS, LAUNDRY, DIRTY, THREADS, KITCHEN,
+  emph: [HANDS, ICE, BROOM, FOUR, CHORES, WIN, CONGRATS, DINNER, TABLE, HUNDRED, LITERS, BATHROOM, LAUNDRY, DIRTY, THREADS, KITCHEN,
          HEATWAVE, MILK, CUBE, LIVING, DUST, CARPET, FINGER, DISHES, HEAT, ENZYMES, CONCRETE, BOILING, TORNADO, BOSSES,
          YOUTUBE, SUBSCRIBE, ENGINEER, FINAL, ONE, TWO, THREE, LEVELS, WAITING, NEXT]
 ar:

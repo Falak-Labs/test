@@ -683,9 +683,12 @@ def lone(c, t):
     icon_person(c, W / 2, 900, 330, INK, p)
 
 
-def world_flash(c, frame_img, k, label, t, dur, chip=None):
-    """One of the four worlds in the cold open: the clean moving picture, a red stamp, a counter."""
+def world_flash(c, frame_img, k, label, t, dur, chip=None, dim=0.0):
+    """One of the four worlds in the cold open: the clean moving picture, a red stamp, a counter. `dim` darkens a
+    picture that is mostly white (a level's `flash_dim` in the spec), so the white stamp and the captions stay readable."""
     draw_img(c, frame_img, zoom=1.05 + 0.05 * t / dur, cy=0.42)
+    if dim:
+        c.drawRect(R(0, 0, W, H), P(DEEP, dim))
     c.drawRect(R(0, 0, W, H), rad_paint(W / 2, H / 2, H * 0.7, [(DEEP, 0.0), (DEEP, 0.0), (DEEP, 0.55)], [0.0, 0.55, 1.0]))
     p = prog(t, 0.03, 0.17)
     if p > 0:
