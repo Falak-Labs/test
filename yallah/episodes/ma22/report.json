@@ -8,7 +8,7 @@
   "script": {
    "seconds": 0.0,
    "says": [
-    "40 beats, 10 voice lines, 210 characters"
+    "40 beats, 10 voice lines, 214 characters"
    ]
   },
   "slow T": {
@@ -18,13 +18,13 @@
    ]
   },
   "slow A": {
-   "seconds": 0.3,
+   "seconds": 0.2,
    "says": [
     "/home/runner/work/test/test/darija/voice/kids22/Asl.mp3 → 0.56s 0.77s"
    ]
   },
   "slow L": {
-   "seconds": 0.3,
+   "seconds": 0.2,
    "says": [
     "/home/runner/work/test/test/darija/voice/kids22/Lsl.mp3 → 0.74s 0.87s"
    ]
@@ -36,36 +36,36 @@
    ]
   },
   "sound": {
-   "seconds": 5.0,
+   "seconds": 3.9,
    "says": [
-    "duration 1:24.90 (2547 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.649",
-    "quiz 29.7667 | hard word 42.6 | end card 74.6667 | word parts (s): {'T': [0.6, 0.68], 'A': [0.56, 0.77], 'L': [0.74, 0.87]}"
+    "duration 1:25.53 (2566 frames) | 13 shots, 40 beats | -14.0 LUFS, peak 0.650",
+    "quiz 30.4 | hard word 43.2333 | end card 75.3 | word parts (s): {'T': [0.6, 0.68], 'A': [0.56, 0.77], 'L': [0.74, 0.87]}"
    ]
   },
   "picture": {
-   "seconds": 151.3,
+   "seconds": 112.9,
    "pieces": 5,
    "at_once": 4,
-   "frames_per_second": 16.8
+   "frames_per_second": 22.7
   },
   "join": {
-   "seconds": 0.2,
+   "seconds": 0.1,
    "says": []
   },
   "mux": {
-   "seconds": 2.4,
+   "seconds": 1.9,
    "says": []
   },
   "takes": {
-   "seconds": 4.0,
+   "seconds": 3.0,
    "says": [
-    "ok   o2      at   81.72s len 1.19s  match 0.945  (take offset +0.03s)",
-    "ok   o3      at   83.16s len 0.62s  match 0.993  (take offset +0.01s)",
+    "ok   o2      at   82.37s len 1.19s  match 0.945  (take offset +0.03s)",
+    "ok   o3      at   83.81s len 0.62s  match 0.993  (take offset +0.01s)",
     "below 0.9: none"
    ]
   },
   "frames": {
-   "seconds": 3.2,
+   "seconds": 2.2,
    "says": []
   }
  },
@@ -73,7 +73,7 @@
   "own": {
    "folder": "darija/voice/ma22",
    "lines": 10,
-   "characters": 210
+   "characters": 214
   },
   "kids": {
    "folder": "darija/voice/kids22",
@@ -91,44 +91,44 @@
    "characters": 22
   }
  },
- "frames": 2547,
- "duration": 84.9,
+ "frames": 2566,
+ "duration": 85.5333,
  "sha256": {
-  "page/script.js": "f206d87fddf0c7623e63dfadb1ed727abfc7351b644e25ac6695ba090a83e97f",
-  "page/tl.js": "6e9ff79d0ce71df1531ae754ca079002feab2e1a0dcc0d6178126cae15a9d362",
-  "final.wav": "000d6a8998d2ca8ee5a39f0c00dbe0ed635a92f3cae900db3c72ff58b1fe4738",
-  "yallah-say-ma-ep22.mp4": "7e861f20eaa084182c593d13d4bb64cd1f15ae22cab7423988fbb03e9af8b458"
+  "page/script.js": "487a701f07a38f454a8e43ee0e6003a66f0b37e2c3a14a0f85d49acd2fe2b2a2",
+  "page/tl.js": "d5c5b58405dde47c80f1861b9db52d4d7e9f752e760109bf1fbac022ddbff96d",
+  "final.wav": "b1ab72272b404d2442a359f1eb29961f17c5ec17d9151a31067f113bca81fa18",
+  "yallah-say-ma-ep22.mp4": "229565e16823c2659459b4341d4ce7f285b92815883788d2842d458ea352a789"
  },
  "video": {
-  "size": 18527649,
-  "frames": 2547,
+  "size": 18849703,
+  "frames": 2566,
   "width": 1080,
   "height": 1920,
   "rate": "30/1",
-  "audio_seconds": 84.9,
+  "audio_seconds": 85.533,
   "audio_rate": "48000"
  },
  "takes_below_0.9": "none",
  "sheet_times": [
   1.6,
-  8.5,
-  11.13,
-  13.5,
-  16.38,
-  18.63,
-  21.2,
-  23.47,
-  26.25,
-  28.73,
-  31.37,
-  44.2,
-  76.27,
-  84.4
+  9.17,
+  11.77,
+  14.13,
+  17.03,
+  19.27,
+  21.85,
+  24.13,
+  26.89,
+  29.36,
+  32.0,
+  44.83,
+  76.9,
+  85.03
  ],
  "made_with": {
   "python": "3.13.18",
   "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
   "playwright": "Version 1.63.0"
  },
- "seconds": 168.6
+ "seconds": 125.9
 }

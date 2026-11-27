@@ -9,7 +9,7 @@ window.SCRIPT={"theme":"ma","ep":"22","L":{"lang":"Darija","TAB":"DARIJA","think
 {"dz":"L7amdoullah 3la slama!","ar":"الحمدلله على السلامة!","en":"Welcome back!","who":"A","icon":"fe:hug"}
 ],
 "beats":[
-{"id":"h1","sp":"T","shot":"T","p":-1,"dz":"Luggage fiha jouj d G, walakin ma katnte9ch G! Kifach kat9raha?","ar":"Luggage فيها جوج د G، ولكن ما كتنطقش G! كيفاش كتقراها؟","gl":"Luggage has two Gs, but you don't say G! How do you read it?","board":["الباليزات","= ? ?"],"pre":0.25},
+{"id":"h1","sp":"T","shot":"T","p":-1,"dz":"Luggage fiha jouj d G, walakin t-tanya kat9ra J! Kifach kat9raha?","ar":"Luggage فيها جوج د G، ولكن التانية كتقرا J! كيفاش كتقراها؟","gl":"Luggage has two Gs, but the second one sounds like J! How do you read it?","board":["الباليزات","= ? ?"],"pre":0.25},
 {"id":"p01t","sp":"T","shot":"T","p":0,"dz":"Fin l-chanta dyali?","ar":"فين الشانطة ديالي؟","pre":0.4},
 {"id":"p01k","sp":"A","shot":"K","p":0,"en":"Where is my bag?","fx":"ding","pre":1.12,"lead":1.0,"post":0.7},
 {"id":"p02t","sp":"T","shot":"T","p":1,"dz":"Tiyara dyali m3e2tla.","ar":"الطيارة ديالي معطلة.","pre":0.4},

@@ -9,7 +9,7 @@ window.SCRIPT={"theme":"pa","ep":"22","L":{"lang":"Palestinian","TAB":"PALESTINI
 {"dz":"El7amdilla 3as-salame!","ar":"الحمدلله عالسلامة!","en":"Welcome back!","who":"A","icon":"fe:hug"}
 ],
 "beats":[
-{"id":"h1","sp":"T","shot":"T","p":-1,"dz":"Luggage fiha 7arfen G, bas ma bnilfoz G! Kif bin2raha?","ar":"Luggage فيها حرفين G، بس ما بنلفظ G! كيف بنقراها؟","gl":"Luggage has two Gs, but you don't say G! How do you read it?","board":["الشنط","= ? ?"],"pre":0.25},
+{"id":"h1","sp":"T","shot":"T","p":-1,"dz":"Luggage fiha 7arfen G, bas et-tani byin2ara J! Kif bin2raha?","ar":"Luggage فيها حرفين G، بس التاني بينقرا J! كيف بنقراها؟","gl":"Luggage has two Gs, but the second one sounds like J! How do you read it?","board":["الشنط","= ? ?"],"pre":0.25},
 {"id":"p01t","sp":"T","shot":"T","p":0,"dz":"Wen shantiti?","ar":"وين شنطتي؟","pre":0.4},
 {"id":"p01k","sp":"A","shot":"K","p":0,"en":"Where is my bag?","fx":"ding","pre":1.12,"lead":1.0,"post":0.7},
 {"id":"p02t","sp":"T","shot":"T","p":1,"dz":"Re7lti mit2akhre.","ar":"رحلتي متأخرة.","pre":0.4},
