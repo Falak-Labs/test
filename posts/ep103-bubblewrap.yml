@@ -1,0 +1,35 @@
+episode: 103
+date: 2026-11-28
+video:
+  en: media/ep103-bubblewrap-en.mp4
+  ar: media/ep103-bubblewrap-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-28T21:30:00Z"    # 13:30 PT Sat Nov 28, after 102 (102's line 10 promises it)
+  title: "Bubble Wrap Was Invented as Wallpaper 🫧"
+  text: |
+    Bubble wrap was invented to be… wallpaper. 🫧
+    In 1957 two inventors in New Jersey sealed two shower curtains together to make a bumpy wallpaper. Nobody wanted it, and greenhouse insulation flopped too. What worked was the trapped air: lots of tiny bubbles cushion a fall, and if one pops the rest still hold. Hot plastic is sucked into little cups on a roller and a flat sheet seals the air in. Then IBM needed to ship its new computer, and bubble wrap kept it safe. Some bubble wrap now ships flat and gets pumped up where you pack, so trucks don't haul air.
+    Be honest: how many bubbles do you pop before you use it? 👇
+  next: "Tokyo's giant flood tunnel 🌊"
+  seo: "How bubble wrap was invented and how it's made: Alfred Fielding and Marc Chavannes sealed two plastic shower curtains together in 1957 hoping to sell textured wallpaper; it flopped, and so did greenhouse insulation. Their company, Sealed Air (1960), found its market protecting IBM's new 1401 computer in shipping. Bubble wrap is made by vacuum-forming hot polyethylene film into cups on a roller and laminating a flat film on top to trap the air; many small bubbles spread a blow, and one pop does not lose the cushion. Newer kinds ship as flat film and are inflated at the packing table to save truck space."
+  tags:
+    tiktok: "#bubblewrap #inventions #howitsmade #engineering #learnontiktok"
+    instagram: "#bubblewrap #inventions #history #howitsmade #engineering"
+    youtube: "#bubblewrap #inventions #engineering"
+ar:
+  at:
+    default: "2026-11-28T17:00:00Z"    # Instagram 09:00 PT Sat Nov 28 = 20:00 Riyadh, after 102 (06:00 PT)
+    tiktok: "2026-11-28T20:30:00Z"     # 12:30 PT: 6 h after 102's Arabic TikTok (06:30 PT), 2 h after the show's 10:30 PT
+  title: "نايلون الفقاعات: كان ورق جدران! 🫧"
+  text: |
+    نايلون الفقاعات اخترعوه عشان يكون... ورق جدران! 🫧
+    سنة ١٩٥٧ اثنين مخترعين في أمريكا لزقوا ستارتين شاور على بعض عشان يسوون ورق جدران بارز. محد اشتراه، وحتى كعازل للبيوت الزجاجية ما مشى. اللي نجح هو الهوا المحبوس: فقاعات صغيرة كثير تمتص الصدمة، ولو وحدة انفقعت الباقي يشيل. البلاستيك الحار ينسحب لأكواب صغيرة على أسطوانة، وطبقة ثانية تسكّر على الهوا. وبعدين آي بي إم احتاجت تشحن كمبيوترها الجديد، ولفّته بالفقاعات. والحين فيه نوع يجي مسطّح وينفخونه وقت التغليف، عشان الشاحنات ما تشيل هوا.
+    وأمكم، للحين حاطة النايلون على الكنب؟ 👇
+  next: "نفق فيضانات طوكيو 🌊"
+  seo: "كيف انخلق نايلون الفقاعات وكيف يتصنع: ألفريد فيلدينغ ومارك شافان لزقوا ستارتين شاور بلاستيك سنة ١٩٥٧ عشان يبيعونه ورق جدران بارز، وما نجح، ولا نجح كعازل للبيوت الزجاجية. شركتهم سيلد إير (١٩٦٠) لقت سوقها لما غلّفت كمبيوتر آي بي إم الجديد ١٤٠١ للشحن. يتصنع بسحب بلاستيك البولي إيثيلين الحار بالشفط لأكواب على أسطوانة، وبعدين تنلصق عليه طبقة مسطحة تحبس الهوا؛ الفقاعات الصغيرة الكثيرة توزع الصدمة، ولو انفقعت وحدة ما يروح الحماية. والأنواع الجديدة تنشحن مسطحة وتنتفخ عند طاولة التغليف عشان توفر مكان في الشاحنات."
+  tags:
+    tiktok: "#نايلون_الفقاعات #اختراعات #كيف_يصنع #هندسة #تعلم_على_التيك_توك"
+    instagram: "#نايلون_الفقاعات #اختراعات #السعودية #هندسة #معلومات"
+    youtube: "#اختراعات #هندسة #معلومات"

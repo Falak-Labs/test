@@ -1,0 +1,35 @@
+episode: 105
+date: 2026-11-28
+video:
+  en: media/ep105-brooklyn-en.mp4
+  ar: media/ep105-brooklyn-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-29T02:30:00Z"    # 18:30 PT Sat Nov 28, after 104 (104's line 10 promises it)
+  title: "Brooklyn Bridge: 21 Elephants and the Woman Who Finished It 🐘"
+  text: |
+    21 elephants once marched across this bridge… on purpose. 🐘
+    Its engineer, John Roebling, died before work began, so his son Washington took over. Giant wooden boxes were sunk to the riverbed and pumped full of air so men could dig inside, but climbing out too fast gave them the bends, and Washington ended up running the job from his bed with a telescope. A crook sold them bad wire, so they added 150 extra wires to every cable. And who really finished it? His wife, Emily Warren Roebling: she learned the math, ran the job, and in 1883 rode across first with a rooster on her lap. In 1884 P.T. Barnum's 21 elephants showed everyone it was strong.
+    Tag the person who really runs things in your house 👇
+  next: "a metro where the trains drive themselves 🚇"
+  seo: "How the Brooklyn Bridge was built (1869-1883): John A. Roebling designed it and died in 1869 before construction began; his son Washington Roebling sank timber caissons to the East River bed and filled them with compressed air so workers could dig inside. Caisson disease, the bends, struck many workers and left Washington bedridden, watching the work from his window in Brooklyn Heights; his wife Emily Warren Roebling studied engineering, carried his orders and ran the work, and was the first to cross on May 24, 1883. When contractor J. Lloyd Haigh's bad wire was found, 150 extra wires were added to each of the four main cables of 5,434 wires. In May 1884 P.T. Barnum led 21 elephants across to show it was safe."
+  tags:
+    tiktok: "#brooklynbridge #newyork #engineering #history #learnontiktok"
+    instagram: "#brooklynbridge #newyork #engineering #history #womeninstem"
+    youtube: "#brooklynbridge #newyork #engineering"
+ar:
+  at:
+    default: "2026-11-28T23:00:00Z"    # Instagram 15:00 PT Sat Nov 28 = 02:00 Riyadh Sun, after 104 (12:00 PT)
+    tiktok: "2026-11-29T02:30:00Z"     # 18:30 PT: 3 h after 104's Arabic TikTok (15:30 PT)
+  title: "جسر بروكلين: ٢١ فيل ومهندسة ما أحد يعرفها 🐘"
+  text: |
+    واحد وعشرين فيل مشوا على هالجسر... عن قصد! 🐘
+    اللي صمّمه، جون رووبلينغ، مات قبل يبدأ الشغل، فمسكه ولده واشنطن. نزّلوا صناديق خشب عملاقة لقاع النهر وضخّوا فيها هوا عشان الرجال يحفرون داخلها، بس اللي يطلع بسرعة يجيه مرض الغواصين، وحتى واشنطن جاه وصار يدير الشغل من سريره بالدربيل. ونصّاب باع لهم سلك مغشوش، فزادوا ١٥٠ سلك على كل كيبل. ومين كمّله صدق؟ زوجته إميلي: تعلّمت الحساب وأدارت الشغل، وسنة ١٨٨٣ كانت أول وحدة تعبره وفي حضنها ديك! وسنة ١٨٨٤ مشّى عليه بارنوم ٢١ فيل عشان يثبت إنه قوي.
+    منشن اللي يدير البيت صدق عندكم 👇
+  next: "مترو الرياض بدون سواق 🚇"
+  seo: "كيف انبنى جسر بروكلين (١٨٦٩-١٨٨٣): صممه جون رووبلينغ ومات سنة ١٨٦٩ قبل يبدأ البناء؛ ولده واشنطن نزّل صناديق خشب عملاقة لقاع النهر الشرقي وعبّاها هوا مضغوط عشان العمال يحفرون داخلها. مرض الغواصين صاب عمال كثير وخلّى واشنطن طريح الفراش يراقب الشغل من شباك بيته في بروكلين هايتس؛ وزوجته إميلي وارن رووبلينغ درست الهندسة ونقلت أوامره وأدارت الشغل، وكانت أول وحدة تعبر الجسر في ٢٤ مايو ١٨٨٣. ولما انكشف السلك المغشوش، زادوا ١٥٠ سلك على كل واحد من الكيابل الأربعة اللي فيها ٥٤٣٤ سلك. وفي مايو ١٨٨٤ مشّى بارنوم ٢١ فيل على الجسر عشان يثبت إنه آمن."
+  tags:
+    tiktok: "#جسر_بروكلين #نيويورك #هندسة #تاريخ #تعلم_على_التيك_توك"
+    instagram: "#جسر_بروكلين #نيويورك #هندسة #تاريخ #معلومات"
+    youtube: "#جسر_بروكلين #هندسة #تاريخ"

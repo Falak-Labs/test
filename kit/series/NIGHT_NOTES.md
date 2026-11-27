@@ -2290,3 +2290,76 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   builds 94-99). For Fri Nov 27 PT: Arabic full 09:00, English full 10:00, Arabic Short 10:30, English Short 12:15
   (YouTube, the main chat's 16:45 PT round); TikTok + Instagram Arabic 10:30 (18:30Z), English 12:15 (20:15Z) after
   `yt_desk.py release sm06`.
+
+## Nov 26 2026 (evening run, 18:37 PT): 103 bubble wrap, 104 Tokyo's G-Cans flood tunnel, 105 the Brooklyn Bridge (v2; post Sat Nov 28)
+- TODAY Thu Nov 26 PT, TOMORROW Fri Nov 27 PT, but Friday already carries six builds (94-99) and Saturday's first three
+  slots hold 100-102, so 103-105 take Saturday's evening slots, as the midday run set out: EN 13:30 / 16:00 / 18:30 PT =
+  21:30Z Nov 28 / 00:00Z / 02:30Z Nov 29; AR Instagram 09:00 / 12:00 / 15:00 PT = 17:00Z / 20:00Z / 23:00Z Nov 28; AR
+  TikTok 12:30 / 15:30 / 18:30 PT = 20:30Z / 23:30Z Nov 28 / 02:30Z Nov 29 (2 h after the show's 10:30 PT, 3 h apart).
+  Every at: turned back into PT with `TZ=America/Los_Angeles date -d` before the push. YouTube: verified, so all three
+  hold it with `studio: 1`.
+  NEXT FREE SLOTS (the runs of Nov 27, builds 106-111; 105's line 10 promises the Riyadh Metro): Sun Nov 29 PT, the usual
+  grid (midday run EN 06:00 / 08:30 / 11:00, AR 00:00 / 03:00 / 06:00, AR TikTok 00:30 / 03:30 / 06:30 PT, 3 h after
+  105's 18:30 PT Sat; evening run EN 13:30 / 16:00 / 18:30, AR 09:00 / 12:00 / 15:00, AR TikTok from 12:30 PT).
+- Status 02:55Z (Nov 26 PT, Thanksgiving, builds 88-93 + 76-77): English Instagram + TikTok 89, 90, 76, 77, 91, 92, 93
+  out at their slots (88 went Wed 22:00 PT); Arabic Instagram 88-90, 76, 77, 91, 92 out, 93 at 19:30 PT; Arabic TikTok
+  88 and 89 out, 90, 76, 77, 91 and 85's requeue refused ("potential spam"), 92 at 21:30 PT. Nothing requeued: the Arabic
+  TikTok grid has no 2-hour gap before Saturday evening, the queue goes to 99-105 first, and every requeue lists all
+  sent posts first (about a dozen of the Arabic account's ~133 API requests left).
+- yt_desk check: "nothing overdue", but only because the `show` branch's sheet.json now holds sm06 (due Fri): the check
+  reads only the newest show. sm05's four Studio uploads (due Thu) are still not in youtube/ledger.json and posts/sm05.yml
+  still holds all six targets. The ledger's newest entries are the Nov 25 round (80-88 EN, 78-87 AR).
+- Metrics: not run (Buffer's 30-day allowance: Arabic 146 / English 223 at 22:20Z before this run's status run, reset
+  about Dec 10). Entry in claude/build-it-performance.md without new numbers; run metrics once on Nov 28 for the two tests.
+- Pages: nothing retired. Every build in media/ (1.2 GB) still has a Studio upload due (78-79 EN, 88 AR, 89-99, 76-77),
+  a post ahead (80's AR TikTok requeue at 16:30Z Nov 27, 92-102) or is the show's (sm*). The 700 MB rule cannot hold
+  while the Studio backlog lasts. media/ is 1.3 GB with 103-105 and the Pages upload is now 1.53 GB: the deploy step
+  warns "exceeds the allowed size of 1 GB. Deployment might fail". It still deploys, but retire builds the moment their
+  Studio uploads are done.
+- Pages wait: every "pages build and deployment" run from 03:21Z to 04:38Z was cancelled by the other projects' pushes
+  (darija voice, Yallah, higgsfield: every 1-5 minutes), and a run needs about 6 minutes (checkout 3.7 min, upload 50 s,
+  deploy 50 s). Run 1667 (09a3a1e, after the produce commit b605066) shows "cancelled", but its deploy step logged
+  "Reported success!" at 04:38:17Z: the push that cancelled it came a second after the deployment went live. The post
+  files went up after that (post.py also checks each file on Pages with its exact size before it uses the link). Read
+  the deploy job's log, not only the run's conclusion.
+- Why v2: bubblewrap-A was done (13:30 PT) but bubblewrap-B, gcans-A/B and brooklyn-A/B were todo at 19:40 PT (the
+  on-computer runner idle since 13:24 PT): all five marked skipped in higgsfield/queue.yml (bubblewrap-A stays a spare).
+- Voices: ElevenLabs Pro 187,886 of 613,234 used before (31%, day 5), 191,687 after the remakes (+3,801, other
+  projects included). Ballen v4 + Mansour v4. First takes: bubblewrap EN
+  66.0 s (x1.076) / AR 66.0 s; gcans EN 68.77 s (x1.12 cap, over the v2 gate) / AR 69.73 s; brooklyn EN 67.81 s (cap) /
+  AR 66.0 s. Remakes (changed lines only): gcans hook "for floodwater" -> "for floods" and line 2 "the towns north of" ->
+  "towns near" (hook 5.5 -> 4.8 s, problem by 10.2 -> 9.3 s), lines 3, 7, 9 shortened, AR hook and line 2 shortened (problem
+  by 10.3 -> 9.6 s); brooklyn lines 3 and 9 shortened. Final: bubblewrap 66.0 / 66.0 s, gcans 66.03 / 69.05 s, brooklyn
+  66.33 / 66.0 s; hooks EN 3.9 / 4.8 / 4.9 s, problem by 8.1 / 9.3 / 9.3 s; AR 4.8 / 4.8 / 4.4 s, by 9.1 / 9.6 / 8.7 s (only
+  the known "Y'all," / "يا جماعة،" comma FAILs).
+- Whisper small on Ballen: gcans "five wells" -> "five whales" (line 4 now "But they fill up in no time"), brooklyn
+  "Its designer died" -> "Its desire died" (now "Its engineer died"); both remade and heard right. Otherwise "Y'all" ->
+  "Yo", number formats, "Edo" -> "Ido", "computer" -> "computers". check_ar_voice: no weak lines (max 30%, brooklyn's
+  digit line 9; bubblewrap lines 3 and 5 about 20%: "فحبسوا", "فسووا").
+- Research (WebSearch titles only, no agents): bubble wrap (Smithsonian "the accidental invention of bubble wrap",
+  Mental Floss, Wikipedia: Fielding and Chavannes 1957, two shower curtains, wallpaper and greenhouse flops, Sealed Air
+  1960, IBM's 1401; iBubble / flat-shipped film inflated on site); G-Cans (MLIT Edogawa office, Scientific American,
+  Tokyo Updates, Wikipedia: 6.3 km tunnel about 50 m down, five shafts about 70 m, the 177 x 78 x 18 m tank with 59
+  pillars of about 500 t, four aircraft-type gas-turbine pumps, about 200 m3/s, "a 25 m pool in about a second");
+  Brooklyn Bridge (History.com, Wikipedia, Linda Hall, ASCE: John Roebling died 1869 before work began, caissons and the
+  bends, Washington bedridden with a telescope, Haigh's bad wire and 150 extra wires a cable, 5,434 wires a cable, Emily
+  first across May 24 1883 with a rooster, Barnum's 21 elephants May 1884).
+- Scenes (v2 look 2):
+  - bubblewrap.py (wall, box, factory, truck, computer, sheet, tag): bubble(c, x, y, r, popped, squash) and sheet() = a
+    hex grid of clear domes on a film, culled to the clip bounds (the zoomed hook drew ~440 bubbles: 1.4 s a frame);
+    wall_room() = a 1957 living room papered with bubbles; card_box() a box with its front cut away; vase(broken);
+    air_pillow(squash, popped) with molecules; drum() with cups and vacuum arrows; truck(cargo air|flat, coins);
+    computer() = three 1959 cabinets with lights and tape reels, wrapped and crated; roll(unroll, big) for the closer;
+    tag EN a giant box with one phone charger, AR mom's sofa still in its plastic ("من خمس سنين!").
+  - gcans.py (hall, town, section, pool, tag): hall() = one-point perspective (HZ 880, F 700) of pillars at Z 14-140 m with
+    ceiling light beams and tiny people; town() a typhoon; the section (surface y 470, tunnel y 900): shaft(), tunnel(surge),
+    tank(level, calm), pump_house(on, lift) with four turbine fans, edo_river(); pool() + stopwatch() for the reveal; tag EN a
+    sink clogged by one noodle, AR a street flooded after ten minutes of rain. Lesson: a light kitchen and a white car
+    bloomed to white; keep tag sets mid-tone.
+  - brooklyn.py (bridge, office, river, bends, cable, emily, tag): bridge() side view (deck y 820, towers x 270 / 810 with
+    pointed arches, cable_y() catenary spans, stays and suspenders, lamps at night); elephant() walking, 21 of them in the
+    hook (the stat's elephants use t - s("stat"), or they walk off screen); desk() 1869 with the drawing; caisson_section()
+    (sink, water_in, air, dig, stones); blood_inset() bubbles; window_room() telescope; cable_cut(bad, snap, extra) =
+    hex-packed wires and +150 green ones; lady() an 1880s dress, rooster(), carriage(); plastic_chair(broke) for the tag.
+- LINEUP: 112 the Sydney Harbour Bridge, 113 Abu Dhabi's Formula Rossa, 114 an aluminum soda can appended (nine entries
+  ahead of 105: 106-114).
