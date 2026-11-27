@@ -5658,3 +5658,58 @@ Checked, nothing new
   Sound, vidIQ; not read). Higgsfield's Black Friday at about 11:00 PT on the day: the same pages (dio.me, both mydealz
   deals, pepper.pl, kripeshadwani, the 14-day, 33-day and plan-change posts), so Nov 28 stands. Searches for record
   openings return the Tianshan Shengli tunnel (Dec 26 2025) again.
+
+## 2026-11-27 12:00 PT (hourly runner, cloud run)
+
+Build 109, the Eastgate Centre: its outside wall and roof (new to these notes; the Nov 26 19:00 entry has the fans,
+floors and chimneys), now in queue jobs eastgate-A/B
+- Mick Pearce's text on Hidden Architecture: the walls are "precast concrete, brushed to expose the granite
+  aggregate"; "massive protruding stone elements not only protect the small windows from the sun but also increase the
+  external surface area of the building to improve heat loss to space at night and minimize heat gain by day"; the
+  ledges are "interrupted by columns of steel rings supporting green vines"; "Along the ridge of the red tiled roof are
+  48 brick funnels topping internal stacks"; the atrium has "steel bridges and lifts suspended on cables". Engineering
+  for Change: "The precast concrete balconies, plants, and deep overhangs help limit the amount of natural sunlight
+  from entering the building"; "floor voids that help cool incoming air during the daytime and serve as a heat
+  exchanger for the interior spaces"; the chimneys "serve as large volume solar accelerators"; "a 9-storey mixed-use
+  building", shops on the ground floor and "7 storeys of office space on top". Its "less than 10% of the energy than
+  other buildings" names no baseline: the Nov 26 19:00 rule stands. Wikipedia's Eastgate page did not load from here.
+  [Hidden Architecture, Eastgate Centre](https://hiddenarchitecture.net/eastgate-centre/),
+  [Engineering for Change, Eastgate Centre](https://www.engineeringforchange.org/?p=60856)
+- Build 110 (eastgate-B's tease), Wikipedia: "three skybridges, each holding a 225 kW wind turbine", "29 m (95 ft) in
+  diameter", "aligned north, which is the direction from which air from the Persian Gulf blows in"; "240-metre-high
+  (787 ft), 50-floor"; "The sail-shaped buildings on either side are designed to funnel wind through the gap". The
+  turbines "are expected to provide 11% to 15% of the towers' total power consumption": a design figure, so a script
+  says "built to give" or finds what they really give.
+  [Wikipedia, Bahrain World Trade Center](https://en.wikipedia.org/wiki/Bahrain_World_Trade_Center)
+
+Free pictures: the Biodiversity Heritage Library's reuse rules (new to these notes: the 00:00 entry found BHL's 1786
+Smeathman translation with no rights line)
+- "If the files are from a work in the public domain you are free to reuse it including commercial reuse"; credit is
+  asked, not required: "We appreciate attribution to the Biodiversity Heritage Library and the library that supplied
+  the content for digitization" (suggested line: "Image from the Biodiversity Heritage Library. Contributed by [Holding
+  Institution]. | www.biodiversitylibrary.org"). Each item has a "Copyright Status" field to read first; "No known
+  copyright restrictions as determined by scanning institution" is "Yes, but proceed with caution"; for in-copyright
+  items "You must contact the copyright holders for any commercial use"; "Images in BHL's Flickr photostream are
+  subject to the same reuse permissions". For 109: a Smeathman termite plate from BHL item 174489 as the lines 12-13
+  still, if its field reads public domain, with the credit line in the description.
+  [BHL, reuse FAQ](https://about.biodiversitylibrary.org/?p=2882),
+  [BHL, public domain FAQ](https://about-new.biodiversitylibrary.org/?p=1027),
+  [BHL on Flickr](https://flickr.com/people/biodivlibrary)
+
+Sounds of the week (new to these notes: HeyOrca's list, dated Nov 20 2026, "updated every Friday")
+- Instagram: "We could stay here, or we could go up" (original audio, for before-and-after and milestones: a side-post
+  fit for build 115, the tower crane that lifts itself) and "Christmas in November". TikTok: "Living in the Dark (Evil
+  Larry Version)", aka "POV: you're the villain but . . ." with a comic chair spin; "The sun is the same in a relative
+  way" (original sound over a childhood photo and one from today: a then-and-now for 107's 1936 banana-conveyor chair
+  or 108's 1949 ice resurfacer); "My moon, my maaaan". Its own warning: "if you have a business account on Instagram or
+  TikTok, you won't have access to copyrighted material", so check in the app that a sound shows for our accounts; the
+  narrated builds keep their own sound bed.
+  [HeyOrca, Nov 20 2026](https://www.heyorca.com/blog/trending-audio-for-reels-tiktok)
+
+Checked, nothing new
+- Nuelink's "Top Trending Reels" is still on its Aug 17 2026 update; Kapwing's monthly TikTok trend pages in the
+  results are 2025 and early-2026 ones. YouTube's own year-end Recap first came on Dec 2 2025 (titles only), so a 2026
+  one may land in recap week with Wrapped (our reading; recap week is in these notes already).
+  [Nuelink](https://blog.nuelink.com/top-trending-reels/),
+  [TechCrunch, Dec 2 2025](https://techcrunch.com/2025/12/02/youtube-releases-its-first-ever-recap-of-videos-youve-watched),
+  [MacRumors, Dec 2 2025](https://www.macrumors.com/2025/12/02/youtube-recap/)

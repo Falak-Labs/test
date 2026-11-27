@@ -1717,3 +1717,77 @@ jobs:
       with big blue barrels of water, workers seen from behind watching from the top station, wide view. Shot 6
       (25-30 s): funny slow motion, in a bright office a man seen from behind goes to sit down, his wheeled office
       chair rolls away across the shiny floor and he lands on the carpet, papers flying.
+
+  - id: eastgate-A
+    build: 109
+    kit: eastgate
+    # Added Nov 27 12:10 PT by the hourly runner (cloud) with no job left todo: the midday run of Nov 27 took 106-108
+    # in the v2 look and set riyadhmetro-A/B and chairlift-A/B to skipped (commit 54f0cff, 11:46 PT), so 109 is the
+    # next LINEUP idea with no pair; the evening run of Nov 27 (18:37 PT) takes 109-111 next, so both clips are needed
+    # by then. Facts (ideas.md Nov 26 19:00 and Nov 27 12:00): A1: "Along the ridge of the red tiled roof are 48 brick
+    # funnels topping internal stacks" (Pearce's text on Hidden Architecture), "a 9-storey mixed-use building", shops
+    # on the ground floor and "7 storeys of office space on top" (E4C). A2 (a glass tower cooled by air-conditioning
+    # boxes in the sun) is our picture of the problem; full air conditioning also costs more to build: "The saving on
+    # capital cost compared with full HVAC was 10% of total building cost" (Pearce). A3: the concrete's "floor voids
+    # that help cool incoming air during the daytime and serve as a heat exchanger for the interior spaces" (E4C). A4
+    # (ours, fixed by A5): by evening the concrete holds the day's heat. A5: "32 banks of low and high volume fans
+    # draw air from the atrium through filters", "the high volume fans run at night to give ten air changes per hour",
+    # the air "fed through the hollow floors", and "The cold night air passing through the void festooned with
+    # concrete teeth removes the heat of the previous day" (Pearce). A6 (fixed by B1): "People and machines add 1.5°C
+    # to the internal temperature each day" (Pearce). Say "no ordinary air conditioning", never "no machines": it runs
+    # fans. The architect is a real person: never shown. No faces: people only from behind; no logos, brand names or
+    # writing anywhere.
+    status: todo
+    file: buildit-eastgate-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): at sunrise a slow aerial push-in over a sunny African city to a long nine-storey office building
+      of rough grey concrete, a row of tall brick chimneys along the ridge of its red tiled roof, warm air shimmering
+      from their tops. Shot 2 (5-10 s): midday on a hot city street, a tall glass office tower glares in the sun, rows
+      of humming air-conditioning boxes on its walls drip onto the pavement, passers-by seen from behind shade their
+      eyes, wide view. Shot 3 (10-15 s): cutaway of an office building with very thick walls and floors of heavy
+      concrete, the afternoon sun beats on the outside while its heat sinks slowly into the concrete and the shaded
+      offices stay cool, wide view. Shot 4 (15-20 s): late afternoon in an office with heavy concrete walls, the heat
+      they soaked up all day radiates back into the room, office workers seen from behind loosen their collars and fan
+      themselves with papers, wide view. Shot 5 (20-25 s): at night beside a tall glass-roofed atrium, rows of big
+      fans spin up and blow cold night air into hollow concrete floors lined with rows of concrete teeth, in a thermal
+      camera view the concrete cools from orange to deep blue. Shot 6 (25-30 s): in a thermal camera view the heat
+      from people and computers rises and gathers as a glowing orange layer under the ceiling of a crowded open-plan
+      office, workers seen from behind at their desks, wide view.
+  - id: eastgate-B
+    build: 109
+    kit: eastgate
+    # Facts: B1: the "48 brick funnels topping internal stacks" (Pearce), brick chimneys that "serve as large volume
+    # solar accelerators" (E4C), and Arup's "stack effect", made "by allowing cool air to enter its base and warm air
+    # to discharge at roof level". B2 (the sun through a wall of glass) is our picture of what B3 prevents. B3:
+    # "massive protruding stone elements not only protect the small windows from the sun but also increase the
+    # external surface area of the building to improve heat loss to space at night", walls of "precast concrete,
+    # brushed to expose the granite aggregate", ledges "interrupted by columns of steel rings supporting green vines"
+    # (Pearce on Hidden Architecture); "The precast concrete balconies, plants, and deep overhangs help limit the
+    # amount of natural sunlight from entering the building" (E4C). B4 teases build 110, the Bahrain World Trade
+    # Center (LINEUP): "three skybridges, each holding a 225 kW wind turbine", "29 m (95 ft) in diameter", and "The
+    # sail-shaped buildings on either side are designed to funnel wind through the gap" (Wikipedia); Bahrain allows
+    # photos of buildings only for non-commercial use (ideas.md Nov 26 12:10), so it stays this AI picture, with no
+    # writing on it. B5: "two buildings side by side linked together by a glass roof" with "steel bridges and lifts
+    # suspended on cables", and "3°C of cooling between outside and inside temperature is achieved" (Pearce; ideas.md
+    # Nov 26 19:00): cooler than the street, not cold. Line 12: "48 CHIMNEYS" or "10 AIR CHANGES AN HOUR" (by night);
+    # line 13: it copied the termites wrong and still works (Nautilus, Harvard SEAS; ideas.md Nov 26 19:00). Stills
+    # for 12-13: a freely licensed Commons photo of the building credited "Architect: Mick Pearce" (ideas.md Nov 26
+    # 12:10), or a Smeathman termite plate from BHL if its Copyright Status reads public domain (ideas.md Nov 27
+    # 12:00). B6: the office fight over the air-conditioner remote (ours). No faces: people only from behind; no
+    # logos, brand names or writing anywhere.
+    status: todo
+    file: buildit-eastgate-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): cutaway of a nine-storey office building, warm air from every floor rises up tall shafts inside
+      it and pours out of a row of brick chimneys along its red tiled roof, hot air shimmering above them, wide view.
+      Shot 2 (5-10 s): the midday sun blazes through a wall of floor-to-ceiling glass into an office, desks bathed in
+      harsh glare, a chocolate bar melting on a desk while workers seen from behind squint, wide view. Shot 3 (10-15
+      s): the outside wall of a long office building of rough grey concrete flecked with granite, small windows set
+      deep behind chunky protruding concrete ledges that keep them in shade, green vines climbing columns of steel
+      rings, slow push-in. Shot 4 (15-20 s): at sunset by a calm sea two tall sail-shaped towers face each other
+      across a narrow gap, three giant wind turbines hung on sky bridges across it, their blades turning in the sea
+      breeze, slow aerial push-in. Shot 5 (20-25 s): on a hot afternoon shoppers seen from behind step in from a
+      sun-baked street into the shade of a tall glass-roofed atrium between two long concrete buildings, glass lifts
+      hung on cables above them, cool and calm inside, wide view. Shot 6 (25-30 s): funny slow motion, in a sweltering
+      office two coworkers seen from behind lunge for the air-conditioner remote, it slips from their hands, spins
+      through the air and splashes into the office fish tank, a goldfish swimming over to look.
