@@ -1,0 +1,124 @@
+{
+ "episode": "pa24",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 178,
+ "recorded_this_run": [
+  "h1",
+  "p01t",
+  "p02t",
+  "p03t",
+  "p04t",
+  "p05t",
+  "tw",
+  "w6",
+  "v2",
+  "Tsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "h1",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "سارة بأريحا: تلاتين درجة! كيف بتقول الحرارة بالإنجليزي؟",
+   "characters": 55,
+   "model": "eleven_v4",
+   "seconds": 5.04
+  },
+  {
+   "id": "p01t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "اليوم برد.",
+   "characters": 10,
+   "model": "eleven_v4",
+   "seconds": 1.6
+  },
+  {
+   "id": "p02t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "شوب كتير!",
+   "characters": 9,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p03t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بتشتّي.",
+   "characters": 7,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p04t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "إلبس جاكيت.",
+   "characters": 11,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "p05t",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "بتثلج!",
+   "characters": 6,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "tw",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Temperature.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "w6",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Good job! Temperature!",
+   "characters": 22,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "v2",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "الحرارة تلاتين درجة اليوم!",
+   "characters": 26,
+   "model": "eleven_v4",
+   "seconds": 2.4
+  },
+  {
+   "id": "Tsl",
+   "speaker": "T",
+   "voice": "jAAHNNqlbAX9iWjJPEtE",
+   "text": "Tem... pruh... cher.",
+   "characters": 20,
+   "model": "eleven_v4",
+   "seconds": 2.56
+  }
+ ]
+}
