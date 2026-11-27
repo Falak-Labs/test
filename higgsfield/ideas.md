@@ -5320,3 +5320,109 @@ Trends (both charts updated Nov 27 2026)
 Checked, nothing new
 - Website Builder Expert's trending-sounds page is its Nov 28 2025 update (a year old); SMK Open (smk.dk) needs
   JavaScript and was not read; this week's sound searches return the same vendor lists (SocialPilot, Gelato, que.es).
+
+## 2026-11-27 07:00 PT (hourly runner, cloud run)
+
+Build candidate (new to these notes; not in LINEUP or episodes.yml)
+- Float glass: every window floated on a lake of liquid metal (it fits the science-explainer pattern under Trends,
+  whose top outlier this month was a TikTok about making glass from soil). The problem: plate glass was rolled, then
+  ground, then polished, and even with the twin grinder "around 20% of the glass" was ground off "as sand which would
+  end up in landfill" (Pilkington, Plate process); drawn sheet glass had surfaces "not as smooth or uniform as those of
+  float glass" (Wikipedia, Float glass). The fix: glass from a melter at 1,500 °C flows onto molten tin "starting at
+  1,100°C" and leaves "as a solid ribbon at 600°C", settling by itself at "a single equilibrium thickness of 6.8 mm"
+  (Pilkington, step by step); the tin bath is "about 3–4 m wide, 50 m long, 6 cm deep" (Wikipedia; Smil: "4 to 8
+  meters in width and up to 60 meters in length"). Breaks and fixes: tin turns to tin dioxide, "dross", that "adheres
+  to the glass", so the bath sits under "a positive pressure protective atmosphere of nitrogen and hydrogen"
+  (Wikipedia); "considerable stresses are developed in the ribbon as it cools", and with too much "the glass will break
+  beneath the cutter" (Pilkington), so a lehr of about 100 m cools it "gradually so that it anneals without strain"
+  (Wikipedia); one natural thickness is not enough, so "Top rollers positioned above the molten tin may be used to
+  control both the thickness and the width" (Wikipedia), now "sub-millimetre to 25 mm" (Pilkington). Other flaws: "a
+  bubble is not removed during refining, a sand grain refuses to melt, a tremor in the tin puts ripples into the glass
+  ribbon" (Pilkington). The story: Alastair Pilkington "began experimenting in December 1952" (the company calls the
+  washing-up tale "a myth"); "All pieces of glass which were made by the process between 1952 and 1959 were not
+  perfect"; the first sheet made entirely by float came in "July 1958"; it was announced "On 20th January 1959" "after
+  seven years of effort and £28 million" (Pilkington, Invention of float glass: its own sum, check it before a script
+  says it); Wikipedia also credits Kenneth Bickerstaff and dates "Full scale profitable sales" to 1960. Proof: "float
+  glass plants work nonstop for 11 to 15 years" (Vaclav Smil, IEEE Spectrum, Mar 30 2022), a line "may be nearly half
+  a kilometre long", "around 500 glass float lines in the world" (Pilkington, undated: say "hundreds"). A reveal: under
+  a shortwave UV lamp "The tin side will glow; the air side won't" (J Racenstein, a glazing supplier, read only in a
+  summary: check the wording). Chain: giant wheels grind a glass plate in a slurry of sand in a 1950s works (A2) →
+  glowing glass pours onto a mirror of molten tin and spreads flat by itself (A3) → grey dross skins the tin and spots
+  the ribbon (A4) → the bath sealed under a gas blanket (A5) → the cooled ribbon cracks under the cutter (A6) → a long
+  tunnel, the lehr, cools it slowly (B1) → every sheet comes out the same 6.8 mm (B2) → rollers above the tin set the
+  thickness and width (B3) → a float line at night, the ribbon gliding out after years of nonstop running (B5). A1: in a
+  dark factory a glowing orange river of glass slides onto a lake of liquid silver metal and stretches away into the
+  distance, slow push-in. B6: funny slow motion, a man walks nose-first into a spotless glass door and squashes
+  against it, his coffee sloshing. Stat line: "11 TO 15 YEARS" nonstop (Smil) or "6.8 MM" (Pilkington). Kept out:
+  Smil's "about 1,050 °C" melt and "230 °C" tin bath (they clash with Pilkington's figures), company names and logos
+  on screen, Sir Alastair's face. Adding it is the main chat's call; its Seedance jobs could only run by Nov 28.
+  [Pilkington, Plate process](https://www.pilkington.com/en/gbl/about-us/pilkington-history/plate-process),
+  [Pilkington, step by step](https://www.pilkington.com/en/global/knowledge-base/glass-technology/the-float-process/the-float-process-step-by-step),
+  [Pilkington, Invention of float glass](https://www.pilkington.com/en-gb/uk/about/heritage/invention-of-float-glass),
+  [Wikipedia, Float glass](https://en.wikipedia.org/wiki/Float_glass),
+  [Vaclav Smil, IEEE Spectrum, Mar 30 2022](https://spectrum.ieee.org/float-glass),
+  [J Racenstein, the tin side](https://jracenstein.com/how-to-find-the-tin-side-of-float-glass-and-why-it-matters)
+
+Free picture sources (new to these notes)
+- National Gallery of Art, Washington: "Images of these works are available free of charge for any use, commercial or
+  non-commercial, under Creative Commons Zero (CC0)"; users "do not need to contact the National Gallery for
+  authorization"; credit is a courtesy ("Courtesy National Gallery of Art, Washington"); users "may not suggest or
+  imply that the National Gallery of Art endorses" a project; works "still under copyright, or the copyright status is
+  unclear" are left out; downloads are "on nga.gov object pages" (Open Access Policy page, undated). Its free-images
+  page did not load, so the count, the largest size and whether it holds engineering subjects are not checked.
+  [NGA, Open Access Policy](https://nga.gov/imagepolicy)
+- Finland's photo archives under CC BY. The Finnish Heritage Agency offers "more than 200,000 print-quality pictures",
+  "primarily under the CC BY licence. A small number of images have more restricted usage rights", downloaded from
+  museovirasto.finna.fi or finna.fi; "The name of the photographer or author and the owner of the collection ... must
+  be indicated" (Museovirasto, undated; it lists websites and apps among the free uses but does not say "commercial":
+  check each item's rights line and put the credit in the post text). The Helsinki City Museum's Helsinkiphotos.fi has
+  "over 65,000 free photos" "published under a Creative Commons BY 4.0 license"; "The photographs may be used
+  commercially, with certain restrictions" (privacy and moral rights), crediting "the Helsinki City Museum and the
+  original photographer" (PetaPixel, Apr 29 2021 by its address). Two period stills for the 04:00 entry's icebreaker
+  candidate: "Finland's first icebreaker", the Murtaja in Helsinki's South Harbour, "possibly taken in April 1890, when
+  the newly completed Murtaja arrived in Helsinki", by Karl Emil Ståhlberg (Helsinki City Museum, CC BY 4.0); and
+  "Steamship Urania covered in ice", from a postcard "produced in March 1894" by Atelier Apollo (Finnish Maritime
+  Museum's picture collection, Finnish Heritage Agency, CC BY 4.0), with two men on its deck (crop them out). Both pages
+  link to Finna records for the files; no size is given.
+  [Museovirasto, 200,000 pictures](https://museovirasto.fi/en/articles/finnish-heritage-agency-releases-more-than-200000-print-quality-pictures-from-its-collections-for-public-use),
+  [PetaPixel, Apr 29 2021](https://petapixel.com/2021/04/29/helsinki-has-a-website-of-65000-free-photos-anyone-can-use),
+  [historia.hel.fi, Finland's first icebreaker](https://historia.hel.fi/en/media/kuva/finlands-first-icebreaker),
+  [historia.hel.fi, Steamship Urania covered in ice](https://historia.hel.fi/en/media/kuva/steamship-urania-covered-in-ice)
+- The Vera C. Rubin Observatory's pictures and videos: "licensed for use under the Creative Commons Attribution 4.0
+  International License", reproducible "without fee for any purpose without prior permission", credit "NSF-DOE Vera
+  C. Rubin Observatory/NOIRLab/SLAC/AURA" unless a caption says otherwise; the logo needs "Prior written approval";
+  "If an image includes an identifiable person, using the image for commercial purposes may infringe that person's
+  right of privacy or publicity"; some items "are owned by organizations other than Rubin Observatory" (check each
+  caption); no endorsement may be "claimed or implied" (Media Use Policy, undated). Its gallery has a video filter. A
+  build it opens (new to these notes): the LSST Camera, "the 3200-megapixel camera", "roughly the size of a small car
+  and weighs around 3000 kilograms", with a front lens "over 1.5 meters (5 feet) across" and "201 individual
+  custom-designed CCD sensors" (the camera page's picture caption says "189 square CCD chips": check) on a focal plane
+  "so flat that its surface varies by no more than a tenth of the width of a human hair"; "it would take hundreds of
+  ultra-high-definition TVs to display just one of its images at full size"; built at SLAC "After two decades of
+  work", then "driven 2737 meters (8980 feet) up Cerro Pachón" (NOIRLab, Apr 3 2024). Its sensors are "kept extremely
+  cold (about -100°C or -148°F) in order to limit the number of defective (bright) pixels"; six filters "30 in/75 cm
+  across" share a carousel of five and are swapped "in less than two minutes"; it was "installed on the Simonyi Survey
+  Telescope in March 2025" (Rubin, camera page). Breaks to build on: warm sensors and bright pixels (the cold), a
+  focal plane that must stay flat (a tenth of a hair), six filters and room for five (the loader), the drive up the
+  mountain. Not in the pages read: the telescope's speed and mirror size, the date of the first images. Kept out:
+  people in the photos, the logo.
+  [Rubin, Media Use Policy](https://rubinobservatory.org/gallery/media-policy),
+  [NOIRLab, Apr 3 2024](https://noirlab.edu/public/news/noirlab2407),
+  [Rubin, the LSST Camera](https://rubinobservatory.org/explore/how-rubin-works/technology/camera)
+
+Trends (science short-form)
+- Virlo's niche tracker for science humor (updated Nov 15 2026; 1.9K videos analyzed, 3.6B views) has three rising
+  themes, "Animated Science Explainers" (21 videos), "Relatable Lab Fails & Humor" (14) and "Microscopy Reveals Hidden
+  Worlds" (13), with "Nanotechnology Applications & Discoveries" fading; its stated pattern: "Animated science
+  explainers are the strongest pattern, using 3D and 2D visuals to make microscopic, abstract and hypothetical ideas
+  easy to follow", which is our Seedance look. Outliers: glass made from soil (TikTok, 11.7M views, Nov 9), a physics
+  experiment compilation (8.4M, Oct 26), a 3D bulletproof-vest explainer (1.7M, Nov 1). For us: a macro reveal as the
+  hook (a microscope, UV or thermal-camera view, as in handwarmer-A) fits the rising microscopy theme.
+  [Virlo, Science Humor](https://virlo.ai/agents/science-humor-lab-fails-ayx9c5)
+
+Checked, nothing new
+- vidIQ's US trending chart (updated Nov 25 19:51 UTC): 3 of its 50 videos are Science & Technology, all long-form
+  (10 to 34 minutes), no Shorts. Virlo's week of Nov 23 (updated Nov 26): no science or making item in its top
+  formats, hooks or sounds; the GTA VI score still leads its TikTok sounds (464 new videos), as in the 04:00 entry.
+  [vidIQ, Science & Technology](https://vidiq.com/youtube-trends/us/science-and-technology/),
+  [Virlo, week of Nov 23 2026](https://virlo.ai/trending-on-tiktok-this-week)
