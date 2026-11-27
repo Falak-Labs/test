@@ -3,9 +3,9 @@
  "model": "eleven_v4",
  "tempo": 1.1139,
  "gap": 0.35,
- "duration": 54.645,
+ "duration": 54.342,
  "words": 159,
- "words_per_sec": 2.91,
+ "words_per_sec": 2.93,
  "lines": [
   {
    "line": 1,
@@ -327,542 +327,542 @@
   {
    "line": 5,
    "start": 19.898,
-   "end": 27.768,
-   "text": "Level two. The bathroom. A pile of dirty clothes, and soaking them does nothing, because the dirt hides deep in the threads.",
+   "end": 27.675,
+   "text": "Level two. Wash day. A pile of dirty clothes, and soaking them does nothing, because the dirt hides deep in the threads.",
    "words": [
     {
      "w": "Level",
-     "start": 20.087,
-     "end": 20.374
+     "start": 20.037,
+     "end": 20.252
     },
     {
      "w": "two.",
-     "start": 20.59,
-     "end": 21.084
+     "start": 20.396,
+     "end": 20.926
     },
     {
-     "w": "The",
-     "start": 21.299,
-     "end": 21.371
+     "w": "Wash",
+     "start": 21.141,
+     "end": 21.428
     },
     {
-     "w": "bathroom.",
-     "start": 21.443,
-     "end": 22.223
+     "w": "day.",
+     "start": 21.5,
+     "end": 21.873
     },
     {
      "w": "A",
-     "start": 22.322,
-     "end": 22.394
+     "start": 21.958,
+     "end": 22.03
     },
     {
      "w": "pile",
-     "start": 22.466,
-     "end": 22.753
+     "start": 22.173,
+     "end": 22.461
     },
     {
      "w": "of",
-     "start": 22.825,
-     "end": 22.897
+     "start": 22.533,
+     "end": 22.604
     },
     {
      "w": "dirty",
-     "start": 22.969,
-     "end": 23.184
+     "start": 22.676,
+     "end": 22.892
     },
     {
      "w": "clothes,",
-     "start": 23.256,
-     "end": 23.795
+     "start": 22.963,
+     "end": 23.574
     },
     {
      "w": "and",
-     "start": 23.903,
-     "end": 24.046
+     "start": 23.682,
+     "end": 23.753
     },
     {
      "w": "soaking",
-     "start": 24.118,
-     "end": 24.405
+     "start": 23.897,
+     "end": 24.184
     },
     {
      "w": "them",
-     "start": 24.477,
-     "end": 24.621
+     "start": 24.256,
+     "end": 24.4
     },
     {
      "w": "does",
-     "start": 24.764,
-     "end": 24.908
+     "start": 24.508,
+     "end": 24.615
     },
     {
      "w": "nothing,",
-     "start": 24.98,
-     "end": 25.447
+     "start": 24.831,
+     "end": 25.298
     },
     {
      "w": "because",
-     "start": 25.483,
-     "end": 25.698
+     "start": 25.405,
+     "end": 25.621
     },
     {
      "w": "the",
-     "start": 25.77,
-     "end": 25.913
+     "start": 25.693,
+     "end": 25.764
     },
     {
      "w": "dirt",
-     "start": 25.949,
-     "end": 26.201
+     "start": 25.836,
+     "end": 26.052
     },
     {
      "w": "hides",
-     "start": 26.273,
-     "end": 26.632
+     "start": 26.124,
+     "end": 26.411
     },
     {
      "w": "deep",
-     "start": 26.703,
-     "end": 26.919
+     "start": 26.554,
+     "end": 26.77
     },
     {
      "w": "in",
-     "start": 26.955,
-     "end": 26.991
+     "start": 26.842,
+     "end": 26.914
     },
     {
      "w": "the",
-     "start": 27.063,
-     "end": 27.134
+     "start": 26.949,
+     "end": 26.985
     },
     {
      "w": "threads.",
-     "start": 27.206,
-     "end": 27.853
+     "start": 27.057,
+     "end": 27.775
     }
    ]
   },
   {
    "line": 6,
-   "start": 28.082,
-   "end": 35.159,
+   "start": 27.989,
+   "end": 35.066,
    "text": "Level three. The kitchen. It's a heatwave, the milk is going warm, and there's not a single cube of ice in the house.",
    "words": [
     {
      "w": "Level",
-     "start": 28.219,
-     "end": 28.506
+     "start": 28.126,
+     "end": 28.413
     },
     {
      "w": "three.",
-     "start": 28.65,
-     "end": 29.241
+     "start": 28.556,
+     "end": 29.147
     },
     {
      "w": "The",
-     "start": 29.386,
-     "end": 29.458
+     "start": 29.293,
+     "end": 29.364
     },
     {
      "w": "kitchen.",
-     "start": 29.601,
-     "end": 30.138
+     "start": 29.508,
+     "end": 30.045
     },
     {
      "w": "It's",
-     "start": 30.203,
-     "end": 30.347
+     "start": 30.11,
+     "end": 30.253
     },
     {
      "w": "a",
-     "start": 30.418,
-     "end": 30.562
+     "start": 30.325,
+     "end": 30.469
     },
     {
      "w": "heatwave,",
-     "start": 30.706,
-     "end": 31.37
+     "start": 30.612,
+     "end": 31.277
     },
     {
      "w": "the",
-     "start": 31.442,
-     "end": 31.514
+     "start": 31.348,
+     "end": 31.42
     },
     {
      "w": "milk",
-     "start": 31.55,
-     "end": 31.729
+     "start": 31.456,
+     "end": 31.636
     },
     {
      "w": "is",
-     "start": 31.801,
-     "end": 31.873
+     "start": 31.708,
+     "end": 31.779
     },
     {
      "w": "going",
-     "start": 32.016,
-     "end": 32.16
+     "start": 31.923,
+     "end": 32.067
     },
     {
      "w": "warm,",
-     "start": 32.34,
-     "end": 32.591
+     "start": 32.246,
+     "end": 32.498
     },
     {
      "w": "and",
-     "start": 32.663,
-     "end": 32.735
+     "start": 32.569,
+     "end": 32.641
     },
     {
      "w": "there's",
-     "start": 32.77,
-     "end": 32.95
+     "start": 32.677,
+     "end": 32.857
     },
     {
      "w": "not",
-     "start": 33.022,
-     "end": 33.094
+     "start": 32.928,
+     "end": 33.0
     },
     {
      "w": "a",
-     "start": 33.165,
-     "end": 33.381
+     "start": 33.072,
+     "end": 33.288
     },
     {
      "w": "single",
-     "start": 33.56,
-     "end": 33.74
+     "start": 33.467,
+     "end": 33.647
     },
     {
      "w": "cube",
-     "start": 33.812,
-     "end": 33.955
+     "start": 33.718,
+     "end": 33.862
     },
     {
      "w": "of",
-     "start": 34.027,
-     "end": 34.099
+     "start": 33.934,
+     "end": 34.006
     },
     {
      "w": "ice",
-     "start": 34.171,
-     "end": 34.386
+     "start": 34.078,
+     "end": 34.293
     },
     {
      "w": "in",
-     "start": 34.422,
-     "end": 34.458
+     "start": 34.329,
+     "end": 34.365
     },
     {
      "w": "the",
-     "start": 34.53,
-     "end": 34.602
+     "start": 34.437,
+     "end": 34.508
     },
     {
      "w": "house.",
-     "start": 34.817,
-     "end": 35.248
+     "start": 34.724,
+     "end": 35.155
     }
    ]
   },
   {
    "line": 7,
-   "start": 35.474,
-   "end": 42.48,
+   "start": 35.38,
+   "end": 42.179,
    "text": "Final level. The living room. A broom just throws the fine dust into the air, and it lands right back on the carpet.",
    "words": [
     {
      "w": "Final",
-     "start": 35.652,
-     "end": 36.011
+     "start": 35.442,
+     "end": 35.729
     },
     {
      "w": "level.",
-     "start": 36.155,
-     "end": 36.712
+     "start": 35.873,
+     "end": 36.431
     },
     {
      "w": "The",
-     "start": 36.927,
-     "end": 36.999
+     "start": 36.555,
+     "end": 36.627
     },
     {
      "w": "living",
-     "start": 37.142,
-     "end": 37.43
+     "start": 36.699,
+     "end": 36.986
     },
     {
      "w": "room.",
-     "start": 37.502,
-     "end": 37.951
+     "start": 37.058,
+     "end": 37.508
     },
     {
      "w": "A",
-     "start": 38.085,
-     "end": 38.121
+     "start": 37.588,
+     "end": 37.66
     },
     {
      "w": "broom",
-     "start": 38.157,
-     "end": 38.444
+     "start": 37.731,
+     "end": 38.019
     },
     {
      "w": "just",
-     "start": 38.516,
-     "end": 38.66
+     "start": 38.09,
+     "end": 38.234
     },
     {
      "w": "throws",
-     "start": 38.731,
-     "end": 39.091
+     "start": 38.378,
+     "end": 38.737
     },
     {
      "w": "the",
-     "start": 39.162,
-     "end": 39.234
+     "start": 38.809,
+     "end": 38.881
     },
     {
      "w": "fine",
-     "start": 39.306,
-     "end": 39.522
+     "start": 38.952,
+     "end": 39.24
     },
     {
      "w": "dust",
-     "start": 39.593,
-     "end": 39.809
+     "start": 39.311,
+     "end": 39.527
     },
     {
      "w": "into",
-     "start": 39.917,
-     "end": 40.024
+     "start": 39.635,
+     "end": 39.742
     },
     {
      "w": "the",
-     "start": 40.096,
-     "end": 40.168
+     "start": 39.814,
+     "end": 39.886
     },
     {
      "w": "air,",
-     "start": 40.24,
-     "end": 40.563
+     "start": 39.958,
+     "end": 40.281
     },
     {
      "w": "and",
-     "start": 40.671,
-     "end": 40.742
+     "start": 40.389,
+     "end": 40.461
     },
     {
      "w": "it",
-     "start": 40.814,
-     "end": 40.886
+     "start": 40.532,
+     "end": 40.604
     },
     {
      "w": "lands",
-     "start": 40.958,
-     "end": 41.245
+     "start": 40.784,
+     "end": 40.963
     },
     {
      "w": "right",
-     "start": 41.389,
-     "end": 41.604
+     "start": 41.035,
+     "end": 41.251
     },
     {
      "w": "back",
-     "start": 41.676,
-     "end": 41.748
+     "start": 41.358,
+     "end": 41.466
     },
     {
      "w": "on",
-     "start": 41.82,
-     "end": 41.892
+     "start": 41.538,
+     "end": 41.61
     },
     {
      "w": "the",
-     "start": 41.927,
-     "end": 41.963
+     "start": 41.646,
+     "end": 41.681
     },
     {
      "w": "carpet.",
-     "start": 42.035,
-     "end": 42.682
+     "start": 41.753,
+     "end": 42.328
     }
    ]
   },
   {
    "line": 8,
-   "start": 42.795,
-   "end": 54.631,
+   "start": 42.493,
+   "end": 54.33,
    "text": "Four levels, and you never lifted a finger. Your hands say thank you. You just beat the dishes, the laundry, the heat and the dust, with enzymes, concrete, a boiling liquid and a tornado.",
    "words": [
     {
      "w": "Four",
-     "start": 43.279,
-     "end": 43.495
+     "start": 42.978,
+     "end": 43.193
     },
     {
      "w": "levels,",
-     "start": 43.639,
-     "end": 44.231
+     "start": 43.337,
+     "end": 43.929
     },
     {
      "w": "and",
-     "start": 44.303,
-     "end": 44.375
+     "start": 44.001,
+     "end": 44.073
     },
     {
      "w": "you",
-     "start": 44.447,
-     "end": 44.518
+     "start": 44.145,
+     "end": 44.217
     },
     {
      "w": "never",
-     "start": 44.734,
-     "end": 44.949
+     "start": 44.432,
+     "end": 44.648
     },
     {
      "w": "lifted",
-     "start": 45.021,
-     "end": 45.308
+     "start": 44.719,
+     "end": 45.007
     },
     {
      "w": "a",
-     "start": 45.344,
-     "end": 45.38
+     "start": 45.043,
+     "end": 45.079
     },
     {
      "w": "finger.",
-     "start": 45.452,
-     "end": 45.883
+     "start": 45.15,
+     "end": 45.581
     },
     {
      "w": "Your",
-     "start": 46.071,
-     "end": 46.215
+     "start": 45.77,
+     "end": 45.913
     },
     {
      "w": "hands",
-     "start": 46.287,
-     "end": 46.574
+     "start": 45.985,
+     "end": 46.273
     },
     {
      "w": "say",
-     "start": 46.646,
-     "end": 46.79
+     "start": 46.344,
+     "end": 46.488
     },
     {
      "w": "thank",
-     "start": 46.933,
-     "end": 47.149
+     "start": 46.632,
+     "end": 46.847
     },
     {
      "w": "you.",
-     "start": 47.221,
-     "end": 47.436
+     "start": 46.919,
+     "end": 47.134
     },
     {
      "w": "You",
-     "start": 47.744,
-     "end": 47.768
+     "start": 47.442,
+     "end": 47.467
     },
     {
      "w": "just",
-     "start": 47.84,
-     "end": 47.912
+     "start": 47.538,
+     "end": 47.61
     },
     {
      "w": "beat",
-     "start": 47.984,
-     "end": 48.127
+     "start": 47.682,
+     "end": 47.826
     },
     {
      "w": "the",
-     "start": 48.199,
-     "end": 48.271
+     "start": 47.897,
+     "end": 47.969
     },
     {
      "w": "dishes,",
-     "start": 48.343,
-     "end": 48.917
+     "start": 48.041,
+     "end": 48.616
     },
     {
      "w": "the",
-     "start": 48.989,
-     "end": 49.061
+     "start": 48.687,
+     "end": 48.759
     },
     {
      "w": "laundry,",
-     "start": 49.133,
-     "end": 49.636
+     "start": 48.831,
+     "end": 49.334
     },
     {
      "w": "the",
-     "start": 49.707,
-     "end": 49.779
+     "start": 49.406,
+     "end": 49.478
     },
     {
      "w": "heat",
-     "start": 49.851,
-     "end": 50.066
+     "start": 49.549,
+     "end": 49.765
     },
     {
      "w": "and",
-     "start": 50.21,
-     "end": 50.354
+     "start": 49.908,
+     "end": 50.052
     },
     {
      "w": "the",
-     "start": 50.426,
-     "end": 50.497
+     "start": 50.124,
+     "end": 50.196
     },
     {
      "w": "dust,",
-     "start": 50.569,
-     "end": 50.964
+     "start": 50.268,
+     "end": 50.663
     },
     {
      "w": "with",
-     "start": 51.072,
-     "end": 51.216
+     "start": 50.77,
+     "end": 50.914
     },
     {
      "w": "enzymes,",
-     "start": 51.287,
-     "end": 51.934
+     "start": 50.986,
+     "end": 51.632
     },
     {
      "w": "concrete,",
-     "start": 52.006,
-     "end": 52.616
+     "start": 51.704,
+     "end": 52.314
     },
     {
      "w": "a",
-     "start": 52.724,
-     "end": 52.796
+     "start": 52.422,
+     "end": 52.494
     },
     {
      "w": "boiling",
-     "start": 52.867,
-     "end": 53.155
+     "start": 52.566,
+     "end": 52.853
     },
     {
      "w": "liquid",
-     "start": 53.227,
-     "end": 53.514
+     "start": 52.925,
+     "end": 53.212
     },
     {
      "w": "and",
-     "start": 53.657,
-     "end": 53.801
+     "start": 53.356,
+     "end": 53.499
     },
     {
      "w": "a",
-     "start": 53.873,
-     "end": 53.945
+     "start": 53.571,
+     "end": 53.643
     },
     {
      "w": "tornado.",
-     "start": 53.981,
-     "end": 54.735
+     "start": 53.679,
+     "end": 54.433
     }
    ]
   }
