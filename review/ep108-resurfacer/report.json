@@ -1,0 +1,237 @@
+{
+ "slug": "ep108-resurfacer",
+ "kit": "resurfacer",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, every hockey rink gives its ice... a hot water bath.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Skates carve it full of grooves. So why fix ice with hot water?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] First, a long blade shaves off the top, thinner than a coin.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But that leaves a pile of snow!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So a spinning screw lifts the snow up into a tank.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But dirt still hides down in the grooves.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So jets wash it, and a vacuum slurps the dirty water up.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But the ice is still bumpy.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So a towel at the back spreads water... hot water! And it freezes like glass.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building an office that breathes like a termite mound.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? Hot water melts the top of the old ice a bit, [chuckles] so the new layer sticks right on.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Nineteen forty-nine, sunny California, and fifteen minutes instead of ninety by hand.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built an ice resurfacer yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] A packed arena cheers a machine for mopping... [laughs harder] nobody claps when you mop the kitchen.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "14/166",
+   "mix_lines_off": [
+    "L 1 1 diff  | Yo, every hockey rink gives its ice a hot water bath.",
+    "L 2 3 diff  | Skates carve it full of droves. So why fix ice without water?",
+    "L10 1 diff  | Hit follow cuz next we're building an office that breathes like a termite mound.",
+    "L12 5 diff  | 1949, sunny California, and 15 minutes instead of 90 by hand.",
+    "L13 2 diff  | And congrats, you just built an ice resurface for yourself.",
+    "L14 2 diff  | A pacterena cheers a machine for mopping. Nobody claps when you mop the kitchen."
+   ],
+   "size_mb": 13.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، ثلج حلبات التزلج يتسبّح... بموية حارة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] أحذية التزلج تخدّشه كله. طيب ليش يصلحونه بموية حارة؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] أول شي، شفرة طويلة تقشّر وجهه، أرق من الريال المعدني.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس القشر يتكوّم قدامها، كوم ثلج!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فبريمة تلف مثل البرغي، وترفع الثلج لخزان فوق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس الوسخ للحين مدفون تحت في الخدوش.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فرشاشات تغسله، وشفاط يسحب الموية الوسخة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس الثلج للحين فيه نقر، مو ناعم.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] وورا، فوطة تفرد طبقة رقيقة من الموية الحارة... وتتجمد مثل الزجاج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني عمارة تتنفّس مثل بيت النمل الأبيض.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ الموية الحارة تذوّب وجه الثلج القديم شوي... [chuckles] فالطبقة الجديدة تلزق فيه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] ألف وتسعمية وتسعة وأربعين، كاليفورنيا المشمسة، وربع ساعة بدل ساعة ونص باليد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك مكينة تنعيم الثلج بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] يصلحون الثلج بموية حارة... [laughs harder] وأمك للحين تقول: لا تشرب بارد وأنت حرّان!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 13.2,
+   "cover": true
+  }
+ }
+}
