@@ -1,0 +1,237 @@
+{
+ "slug": "ep107-chairlift",
+ "kit": "chairlift",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, these chairs let go of their cable... on purpose.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] That cable's as fast as a bike! So who first hung chairs on a rope?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] So in the station, the grip opens and the chair rolls off.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But it's still zooming. It'd knock you flat!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So spinning tires slow it to a walk, then speed it back up.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But a loose grip? The chair slides back down!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So springs squeeze it shut, and one weak grip stops the whole lift.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But that cable gets longer in the heat, and loose cable slips.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So a giant concrete weight pulls on it, keeping it tight.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building a machine that gives ice a hot bath.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? A railroad engineer who'd built banana loaders! [chuckles] He swapped the hooks for chairs.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Nineteen thirty-six, one banana idea, and a thousand feet a minute.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built a high-speed chairlift yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] A grip that never slips... [laughs harder] and you still drop your glove halfway up.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "11/167",
+   "mix_lines_off": [
+    "L 2 1 diff  | That cables as fast as a bike! So who first hung chairs on a rope?",
+    "L 5 4 diff  | So spin it tires slow into a walk then speed it back up",
+    "L 7 1 diff  | So spring squeeze it shut and one weak grip stops the whole lift.",
+    "L10 1 diff  | Hit follow cuz next we're building a machine that gives ice a hot bath.",
+    "L12 3 diff  | 1936, one banana idea and a thousand feet a minute.",
+    "L13 1 diff  | Congrats, you just built a high-speed chairlift yourself."
+   ],
+   "size_mb": 15.6,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، هالكراسي تفك الكيبل في كل محطة... عن قصد!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] الكيبل سريع مثل السيكل! طيب مين أول من علّق كراسي على حبل؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] ففي المحطة، الماسكة تنفك، والكرسي يطلع من الكيبل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس الكرسي للحين مسرع! بيطيّحك على وجهك!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فكفرات تدور تهدّيه لين يصير يمشي، وبعدين تسرّعه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس لو الماسكة ما سكّرت زين، الكرسي يزحلق لورا!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فسوست قوية تقفلها، ولو وحدة ضعيفة، التلفريك كله يوقف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس كيبل الحديد يطوّل في الحر، والكيبل المرتخي يزحلق.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فثقل خرسانة عملاق يسحبه، ويخليه مشدود.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني مكينة تسبّح الثلج بموية حارة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ مهندس سكة حديد كان يسوي رافعات موز! [chuckles] شال خطاطيف الموز، وحط كراسي.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] ألف وتسعمية وستة وثلاثين، فكرة موز وحدة، وثلاث مية متر بالدقيقة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك تلفريك الكراسي السريع بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] يشيل ألف وثمانمية شخص بالساعة... [laughs harder] وطابور البوفيه في العرس ما تحرّك!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.43,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 15.2,
+   "cover": true
+  }
+ }
+}

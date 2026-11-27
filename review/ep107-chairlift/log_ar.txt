@@ -1,0 +1,7 @@
+chairlift_ar_sa: 69.43s, 2083 frames
+cover out/chairlift_ar_sa/cover.png: ['تلفريك الكراسي', 'السريع'] (frame 0 of the video)
+video done in 387s
+audio done
+final out/chairlift_ar_sa/chairlift_ar_sa_final.mp4
+QA  duration 69.43s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2083
+QA sheet out/chairlift_ar_sa/qa_sheet.png
