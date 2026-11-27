@@ -5507,3 +5507,33 @@ Checked, nothing new
   "Seedream 5.5, Nano Banana 2.1 & more image models unlimited for 30 days", with no terms shown; no Seedance banner.
   Nothing free past Nov 28. Searches for free AI video launches this month and for this week's Shorts trends gave list
   posts and 2026 forecasts only. [InVideo, offers](https://invideo.io/offers)
+
+## 2026-11-27 09:00 PT (hourly runner, cloud run)
+
+Trends (Later's TikTok edition of today; its Nov 13 edition is in these notes)
+- Later's page reads "Updated on November 27, 2026" (updated "Every other week"), six trends. For us: "I feel like I
+  haven't done much this year" (original sound by Heir Jordyn) opens on that line, then quick clips "labeled by
+  month": a recap Short for recap week (the 08:00 entry's Wrapped line) that opens on the line and races through the
+  builds. The series began on Nov 10 2026 (posts/ep01-elevator.yml), so label the clips by build number or day, not by
+  month; episodes.yml lists 105 builds made by Nov 27, and that count is the punchline. Text zoom (original audio by
+  ALTÉGO, "Small text, big feelings") is a caption format that could carry a stat line. "btw it's cool to do both"
+  (two sides) and "What do you bring to the table?" (essentials, comic answers) could be bent to two machines or a
+  build's parts. Not for us: Dear Santa, and
+  "Building something AI can never replace" (about "human connection"; our footage is AI-made, so stay off it). The
+  page says nothing about sound licensing, and all named sounds but one are "original" sounds (the Nov 20 Reels note
+  on those stands). The main chat's call. [Later, TikTok trends, Nov 27 2026](https://later.com/blog/tiktok-trends/)
+
+Timing (new to these notes: no F1 line yet)
+- The F1 season finale runs at Yas Marina Circuit on Yas Island "from December 3 to 6, 2026", "the final race of the
+  season" (Gulf Today, Nov 13 2026), the "2026 season finale" (Arab News, Aug 23 2026); Abu Dhabi has hosted F1
+  "since 2009" (Arab News). LINEUP 113, Formula Rossa, is on the same island: if the runs keep taking three builds
+  each, the midday run of Nov 28 makes it for Nov 29, four days before race week. A caption can point at race week,
+  and a repost of 113 on Dec 3-6 is the main chat's call. Neither article gives a start time or says anything about
+  the circuit's lights, so no line about either; no drivers, team names or logos on screen.
+  [Gulf Today, Nov 13 2026](https://www.gulftoday.ae/sport/2026/11/13/abu-dhabi-set-to-host-18th-formula-1-grand-prix-from-december-3-to-6),
+  [Arab News, Aug 23 2026](https://www.arabnews.pk/node/2655631/sport)
+
+Checked, nothing new
+- Free AI video launches this month: roundup lists only (Scrimba's, Dreamina's, Krea's, WaveSpeed's; not read), no
+  dated new free tier, so nothing free past Nov 28. Shorts tools: Made on YouTube (Sep 2026) again. Later's Reels
+  page could not be read this hour.
