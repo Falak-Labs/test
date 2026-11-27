@@ -4195,3 +4195,88 @@ Checked, nothing new
   you record in the Reels camera, iOS first): for camera-made Reels, not our cuts.
   [HeraldNet, Nov 28 2013](https://www.heraldnet.com/news/balloons-steal-show-at-nyc-parade-after-wind-fears),
   [Digital Trends, Oct 15 2026](https://digitaltrends.com/social-media/instagram-feature-to-recreate-trending-reels-with-new-on-screen-reference-tool/)
+
+## 2026-11-26 17:00 PT (hourly runner, cloud run)
+
+December dates (new to these notes: no Marconi and no Sydney Harbour Bridge line yet)
+- Sat Dec 12, 125 years since the first radio signal across the Atlantic, a candidate build for that day (not in
+  LINEUP, never built). IEEE's Milestone at Signal Hill, Newfoundland (dedicated Oct 4 1985): "At Signal Hill on
+  December 12, 1901, Guglielmo Marconi and his assistant, George Kemp," "confirmed the reception of the first
+  transatlantic radio signals." "With a telephone receiver and a wire antenna kept aloft by a kite," "they heard Morse
+  code for the letter "S" transmitted from Poldhu, Cornwall." Its twin at Poldhu (dedicated Dec 12 2001; ETHW says the
+  plaque went into storage, noted in 2015): sent "using equipment built by John Ambrose Fleming". "More than 2,000
+  miles" (ETHW, History.com). Beats: a gale wrecked Poldhu's aerial on Sep 17 1901 (break); at Signal Hill the first
+  kite was carried away by a gale and the second "trailed 500 feet of antenna wire" (fix; ETHW); the hook: the wave
+  "had been headed into space" past the curve of the Earth, yet it "reflected off the ionosphere and bounced back down
+  toward Canada" (History.com), a layer nobody knew of then: Kennelly and Heaviside next proposed "a layer of ionized
+  air in the upper atmosphere" (ETHW). Our own sum for a stat line (check before use): over about 3,200 km the
+  Earth's curve stands about 200 km above a straight line between the ends (d squared over 8R). Keep the script
+  honest: "the only witness was George Kemp, hardly an impartial observer," and "the signals were too weak to operate
+  an automatic recorder" (ETHW), so "Marconi heard", not "the world heard". Faces: Marconi and Kemp were real people,
+  so AI shots show the kite, the huts and the masts with people only from behind; the 1901 kite photos show them
+  (Bridgeman and Mary Evans sell those). Free proof-still lead, not read: Scientific American of Jan 4 1902 on Marconi
+  (US public domain by date; a PDF copy at leradiodisophie.it). The 125th itself: nothing announced for Dec 2026 in
+  what was read; the Lizard Wireless Station marked its own 125th in January 2026 (GB4LWS on air all month), and for
+  the 120th the Marconi Radio Club of Newfoundland and the Poldhu Amateur Radio Club re-enacted the "s" at 1600 UTC
+  on Dec 12 2021 from the Geo Centre on Signal Hill (ARRL): the real thing for a B5 if they do it again (look again
+  in early December). As the 15:00 entry says, a December build that wants Seedance clips needs its queue pair before
+  Nov 28; this one would otherwise get stills and the v2 look.
+  [ETHW, Reception, 1901](https://ethw.org/Milestones%3AReception_of_Transatlantic_Radio_Signals%2C_1901),
+  [ETHW, Transmission, 1901](https://ethw.org/Milestones%3ATransmission_of_Transatlantic_Radio_Signals%2C_1901),
+  [History.com, Dec 12](https://www.history.com/this-day-in-history/december-12/marconi-sends-first-atlantic-wireless-transmission),
+  [Amateur Radio Newsline, Jan 8 2026](https://www.arnewsline.org/news-text/2026/1/8/uk-telegraphy-station-marks-125th-anniversary),
+  [ARRL, Dec 12 2021](https://www.arrl.org/news/clubs-in-newfoundland-and-england-to-re-enact-marconi-s-1901-experiment),
+  [Scientific American, Jan 4 1902 (PDF, not read)](https://www.leradiodisophie.it/Download-new/Sci-Am-1902-01-04-Marconi.pdf)
+- Thu Dec 31, the Sydney Harbour Bridge, a candidate build for New Year's Eve (not in LINEUP, never built; Build 57 was
+  the Opera House beside it), when its fireworks are on screens everywhere (Transport for NSW already lists "Sydney
+  New Year's Eve 2026": title seen in a search, not read). Facts read today: the two half-arches were built out from
+  each shore and "The arches were stabilised by 128 steel cables anchored in tunnels excavated into the bedrock on
+  each embankment" (National Museum of Australia); the halves met on 19 August 1930 at 10 pm (Museums of History
+  NSW, which gives no reason for the hour: do not script one); "The arch spans 503m", its top 134 m above the sea
+  (MHNSW); "more than 52,800 tonnes of steel were used; 39,000 tonnes in the arch alone"; a "two-hinged steel arch"
+  whose "four abutments are the load-bearing foundation of the bridge", with granite pylons that "rise from the
+  abutments" (NMA: it does not say the pylons carry nothing, so no "the towers are fake" line until a page says so);
+  and the B5 picture: "Load testing began in January 1932 with 96 locomotives lined up end to end across all four of
+  the bridge's rail tracks" (NMA), opened 19 March 1932. Hook idea (ours): two giant steel half-arches hanging out
+  over the harbour toward each other, held back only by cables in the rock. Free proof still: the City of Sydney
+  Archives' "Sydney Harbour Bridge arch under construction from Botanic Gardens Sydney, 1930" (Rupert Gough,
+  A-01174909) is marked "No Copyright": "This item is no longer under copyright in Australia and is in the public
+  domain. It may be used freely", with "attribution" to the City of Sydney Archives (an Australian-law statement;
+  pixel size not given). World History Encyclopedia calls two Flickr copies "Public Domain" (the arches meeting, c.
+  1930, from the Royal Australian Historical Society; a 1930 photomontage with aeroplanes from the State Library of
+  NSW): read the Flickr originals before use. Left out: the Blue Mountains Library's April 1930 photo on Commons
+  (cc-by-sa-2.0, share-alike). The National Library of Australia's pictures (EB Studios' 1929 panorama, A.G.
+  Foster's) and Engineers Australia's heritage wiki ("The Erection Cables", "Closing the Arch") answer automated
+  reads with a bot check, so their rights were not read. Like the other Dec dates, clips need a queue pair before
+  Nov 28.
+  [National Museum of Australia](https://nma.gov.au/defining-moments/resources/sydney-harbour-bridge-opens),
+  [Museums of History NSW](https://mhnsw.au/stories/general/joining-the-sydney-harbour-bridge),
+  [Transport for NSW, NYE 2026](https://transportnsw.info/events/2026/12/sydney-new-years-eve-2026),
+  [City of Sydney Archives, A-01174909](https://archives.cityofsydney.nsw.gov.au/nodes/view/1939244),
+  [World History Encyclopedia, 19799](https://www.worldhistory.org/image/19799/sydney-harbour-bridge-construction/),
+  [World History Encyclopedia, 19793](https://www.worldhistory.org/image/19793/sydney-harbour-bridge-during-construction/),
+  [Commons mirror, Blue Mountains Library](https://download.osmand.net/wiki/File:Sydney_Harbour_Bridge_Under_Construction_(40906230472).jpg),
+  [NLA, 1929 panorama](https://nla.gov.au/nla.obj-162453932/view)
+
+Free pictures (new to these notes: no Nationaal Archief line yet)
+- The Dutch National Archives give their own photos away: those with a download button "are available for reuse
+  without restrictions" and are "marked as Public Domain or CC0"; left out are "Scans of documents and photos for
+  which the National Archives is not the copyright holder" and low-resolution scans; credit is "appreciated", in the
+  form "Photo: Charles Breijer, National Archives of the Netherlands / Anefo" (its terms page). Each photo page gives a
+  300 dpi JPEG (A4) or the original TIFF; about 430,000 photos are open data under CC0 (data.overheid.nl, updated Apr
+  7 2022), the Anefo press agency's archive among the three main sources. Anefo ran from 1944 to 1989 (Wikipedia), so
+  the Delta Works years are there, not the Afsluitdijk's closing of 1932 (Open Beelden's Public Domain Mark newsreel
+  stays its B5, Nov 24 23:00 entry). Wikipedia's 2012 CC BY-SA release to Commons is the older terms: take a photo from
+  nationaalarchief.nl and read its own page. Press photos are full of faces, so pick shots of the works themselves.
+  [Nationaal Archief, terms of use](https://nationaalarchief.nl/en/node/44203),
+  [data.overheid.nl, Nationaal Archief foto's](https://data.overheid.nl/en/dataset/nationaal-archief-foto-s),
+  [Wikipedia, Anefo](https://en.wikipedia.org/wiki/Anefo)
+
+Checked, nothing new
+- Year-end lists: YouTube's 2025 end-of-year summary was out by Dec 2 2025 (NPR's story of that day) and TikTok's
+  forecast for 2026 ("TikTok Next 2026") came on Jan 14 2026, so neither list for 2026 is out yet; the recap-week line
+  (Nov 25 08:05) stands. A search for this month's Shorts features returned Made on YouTube (Sep 23) again. Higgsfield
+  and Black Friday at about 17:00 PT on Thanksgiving: the same pages (dio.me, both mydealz deals, kripeshadwani,
+  pepper.pl, the 11.11, "14 days", "33 days" and plan-change pages), so Nov 28 stands.
+  [NPR, Dec 2 2025](https://www.npr.org/2025/12/02/nx-s1-5629186/youtube-2025-trends-videos-music-creators),
+  [TikTok newsroom, Jan 14 2026](https://newsroom.tiktok.com/introducing-tiktok-next-2026-our-trend-forecast-for-marketers-for-the-year-ahead?lang=en)
