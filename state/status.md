@@ -1,4 +1,4 @@
-# Post status 2026-11-27T12:37:57+00:00
+# Post status 2026-11-27T19:35:38+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -434,7 +434,7 @@
 | ep79-kuwaittowers | en.instagram | sent |  | 2026-11-25T07:31:47.220Z https://www.instagram.com/reel/DgJ_6OPMtRL/ |
 | ep79-kuwaittowers | en.tiktok | sent |  | 2026-11-25T07:30:58.738Z https://tiktok.com/@congratsengineer/video/7712007914365406478 |
 | ep80-fountain | ar.instagram | sent |  | 2026-11-25T13:04:11.424Z https://www.instagram.com/reel/DgKl7nZSB1N/ |
-| ep80-fountain | ar.tiktok | scheduled | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T16:30:00.000Z |
+| ep80-fountain | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T16:30:00.000Z |
 | ep80-fountain | en.instagram | sent |  | 2026-11-25T10:02:07.169Z https://www.instagram.com/reel/DgKRGonORKO/ |
 | ep80-fountain | en.tiktok | sent |  | 2026-11-25T10:02:32.773Z https://tiktok.com/@congratsengineer/video/7712047017408744718 |
 | ep81-zipper | ar.instagram | sent |  | 2026-11-25T15:33:06.588Z https://www.instagram.com/reel/DgK27KAhyXL/ |
@@ -491,17 +491,17 @@
 | ep93-huajiang | en.tiktok | sent |  | 2026-11-26T23:31:21.486Z https://tiktok.com/@congratsengineer/video/7712626618027592973 |
 | ep94-smokealarm | ar.instagram | sent |  | 2026-11-27T08:03:01.339Z https://www.instagram.com/reel/DgPM_t5PUor/ |
 | ep94-smokealarm | ar.tiktok | sent |  | 2026-11-27T11:31:14.498Z https://tiktok.com/@kef.tenbeni/video/7712811947736993038 |
-| ep94-smokealarm | en.instagram | scheduled |  | 2026-11-27T14:00:00.000Z |
-| ep94-smokealarm | en.tiktok | scheduled |  | 2026-11-27T14:00:00.000Z |
+| ep94-smokealarm | en.instagram | sent |  | 2026-11-27T14:04:59.199Z https://www.instagram.com/reel/DgP2ZzoBnji/ |
+| ep94-smokealarm | en.tiktok | sent |  | 2026-11-27T14:04:40.297Z https://tiktok.com/@congratsengineer/video/7712851506642357518 |
 | ep95-falkirk | ar.instagram | sent |  | 2026-11-27T11:03:45.814Z https://www.instagram.com/reel/DgPhwqKJwlE/ |
-| ep95-falkirk | ar.tiktok | scheduled |  | 2026-11-27T14:30:00.000Z |
-| ep95-falkirk | en.instagram | scheduled |  | 2026-11-27T16:30:00.000Z |
-| ep95-falkirk | en.tiktok | scheduled |  | 2026-11-27T16:30:00.000Z |
-| ep96-handwarmer | ar.instagram | scheduled |  | 2026-11-27T14:00:00.000Z |
+| ep95-falkirk | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T14:30:00.000Z |
+| ep95-falkirk | en.instagram | sent |  | 2026-11-27T16:32:23.095Z https://www.instagram.com/reel/DgQHXu3IlGE/ |
+| ep95-falkirk | en.tiktok | sent |  | 2026-11-27T16:32:16.454Z https://tiktok.com/@congratsengineer/video/7712889713308208397 |
+| ep96-handwarmer | ar.instagram | sent |  | 2026-11-27T14:04:28.003Z https://www.instagram.com/reel/DgP2R3eBGs2/ |
 | ep96-handwarmer | ar.tiktok | scheduled |  | 2026-11-27T20:30:00.000Z |
-| ep96-handwarmer | en.instagram | scheduled |  | 2026-11-27T19:00:00.000Z |
-| ep96-handwarmer | en.tiktok | scheduled |  | 2026-11-27T19:00:00.000Z |
-| ep97-museum | ar.instagram | scheduled |  | 2026-11-27T17:00:00.000Z |
+| ep96-handwarmer | en.instagram | sent |  | 2026-11-27T19:03:52.382Z https://www.instagram.com/reel/DgQYrQpCvI6/ |
+| ep96-handwarmer | en.tiktok | sent |  | 2026-11-27T19:03:44.872Z https://tiktok.com/@congratsengineer/video/7712928614118952206 |
+| ep97-museum | ar.instagram | sent |  | 2026-11-27T17:04:57.599Z https://www.instagram.com/reel/DgQLGN7h7sW/ |
 | ep97-museum | ar.tiktok | scheduled |  | 2026-11-27T23:30:00.000Z |
 | ep97-museum | en.instagram | scheduled |  | 2026-11-27T21:30:00.000Z |
 | ep97-museum | en.tiktok | scheduled |  | 2026-11-27T21:30:00.000Z |
