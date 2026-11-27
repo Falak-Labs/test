@@ -18,7 +18,7 @@
    "ter",
    "bull"
   ],
-  "slow": "Kumf... ter... bul.",
+  "slow": "Cumf... ter... bull.",
   "mean": "مريح",
   "ar": {
    "ma": "كمفتربل",
@@ -104,7 +104,8 @@
    "تر",
    "بل"
   ],
-  "mean": "مريح"
+  "mean": "مريح",
+  "teacher_slow": "Kumf... ter... bul."
  },
  "pa": {
   "hook": [
@@ -159,6 +160,7 @@
    "تر",
    "بل"
   ],
-  "mean": "مريح"
+  "mean": "مريح",
+  "teacher_slow": "Cumf... ter... bull."
  }
 }

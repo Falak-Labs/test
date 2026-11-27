@@ -8,5 +8,5 @@ A | p05k | Thank you so much!
 A | w5 | Comfortable!
 L | v1 | This couch is so comfortable!
 L | Lw | Comfortable!
-A | Asl | Kumf... ter... bul.
-L | Lsl | Kumf... ter... bul.
+A | Asl | Cumf... ter... bull.
+L | Lsl | Cumf... ter... bull.
