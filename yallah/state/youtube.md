@@ -57,3 +57,10 @@ Channels: Yallah Say MA @YallahSayMa (UC_c7QhlukkSAR-qHKeSvkPA), Yallah Say PS @
 - pa: lesson 19 Xh7cWEub-rs (3:30), 20 uzNLFwiglfY (8:00), 21 mRzfOgP9I6c (11:00), Day 7 long 47V5ZPDiwv0 (7:00)
 - Lessons 13 and 15 went public through Buffer on both channels (checked in Studio), so no Studio re-upload was needed.
 - Studio was left on The Dark Told Me AR.
+
+## Nov 26 2026 (night PT run): scheduled for Nov 28 in Studio (Pacific times)
+- ma: lesson 22 jbWW8pNj8Ho (5:00), 23 eZJo1WJ8ojI (10:30), 24 _PmE1buPxI4 (13:30), Day 8 long pmSaLfllJ0o (9:00)
+- pa: lesson 22 AHoR31tvEtA (3:30), 23 lEvuQuKw80Q (8:00), 24 5C6FlPpzKdU (11:00), Day 8 long Pt1KuXO2bCs (7:00)
+- Long videos are now built with yallah/kit/tools/mklong.py (same layout as Days 4-7).
+- yallah/config.json buffer_limits.youtube is 0, so plan_day.py sends every YouTube post to Studio by itself.
+- Studio was left on The Dark Told Me (where it was at the start of the run).
