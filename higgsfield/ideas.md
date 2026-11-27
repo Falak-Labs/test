@@ -4421,3 +4421,53 @@ Checked, nothing new
   YouTube 2026 (Sep 23), already here.
   [rewarx](https://www.rewarx.com/blogs/tiktok-ai-label-toggle-mandatory-stay-live),
   [EchoTik, Jun 11 2026](https://www.echotik.live/blog/tiktok-ai-content-labeling-rules-2026/)
+
+## 2026-11-26 20:00 PT (hourly runner, cloud run)
+
+Build 107, the chairlift (queued as chairlift-A/B at 19:59; these sources are new to these notes)
+- The grip, the speeds and the tension from a maker and a ski-news explainer (the Nov 25 entry had only Wikipedia and
+  Colorado Ski History for them): "When the vehicle enters the station, the grip detaches from the rope" (Unofficial
+  Networks, Jan 30 2024); detachables "typically travel at speeds of 1,200 feet per minute (14 mph, 22 km/h, 6 m/s)"
+  against a "typical fix-grip speed of 500 ft/min", and "a large counter weight provides tension to one of the
+  bullwheels" while "Newer lifts use hydraulic tensioning" (Unofficial Networks, 2013 by its link). The maker: "up to
+  1,181 feet per minute (6 m/s)", "up to 4,500 persons per hour", chairs for "4, 6 or 8 persons" (which size gives
+  which figure is not said); "While in the neutral position the grip is always closed", and a safety system "ensures
+  the secure clamping of the grip before leaving the station" (Leitner-Poma): B3's check. The speeds differ by source
+  (Wikipedia's 1,000 on the line and 200 in the station, Nov 25), so a line gives one named lift's figure, as
+  chairlift-B's comment does.
+- The load test, for B5 and line 11: Sipapu overloads its lifts "to 110% of its designed load using water barrels",
+  "Each of these chairs is holding about 750 pounds of water", and "We run the lift and test the brakes and safeties"
+  (Oct 22 2020); Summit at Snoqualmie fills "cardboard boxes lined with garbage bags" with water to test "at 120% of
+  full capacity before any passengers load the lift for the first time", on "the primary, standby, and evacuation
+  drive. As well as the brake system", "per state requirements" (no date shown). This season's peg: Angel Express at
+  Angel Fire, "the state's first high-speed six-person chairlift" (New Mexico), 56 chairs, "a rope speed of 1,000 feet
+  per minute", "an uphill capacity of 1,800 skiers per hour", load tested "with water barrels" in July and "scheduled
+  to open with Angel Fire Resort for the 2026-27 winter season in December" (SnowBrains, Aug 9 2026): a real lift to
+  name in words, its maker's name kept off screen. Not read: Unofficial Networks' Powder Mountain load test of Nov 7
+  2026 and SAM's "Back down to earth" (Jan 2026), both refused the fetch; skiresort's list of new lifts for 2026/2027
+  (search result only).
+  [Unofficial Networks, Jan 30 2024](https://unofficialnetworks.com/2024/01/30/detachable-chairlifts-explained/),
+  [Unofficial Networks, How does a chairlift work?](https://unofficialnetworks.com/2013/11/23/chairlift-work/),
+  [Leitner-Poma, detachable chairlifts](https://leitner-poma.com/products/detachable-grip-chairlifts),
+  [Sipapu, Oct 22 2020](https://www.sipapu.ski/dynamic-load-testing/),
+  [Summit at Snoqualmie](https://summitatsnoqualmie.com/summit-source/holiday-quad-chair-update-passed-the-test),
+  [SnowBrains, Aug 9 2026](https://snowbrains.com/new-mexicos-first-high-speed-six-pack-complete-angel-fire-resort/),
+  [skiresort, new lifts 2026/2027](https://www.skiresort.com/en/ski-lifts/new-ski-lifts/north-america/)
+
+A free source (new to these notes)
+- StockSnap (stocksnap.io), CC0 photos: "All photos on StockSnap have been released under Creative Commons - CC0", "free
+  to use for both personal and commercial projects", "without providing attribution to the photographers", and the
+  licence lets you "download, copy, modify, and distribute the photos, even for commercial purposes, all without
+  asking permission" (FAQ). The one limit named: you "cannot use these images to imply any kind of endorsement on the
+  part of the image creator or any person or product depicted in the image" (the licence summary page, which says it
+  "isn't the actual license"). Photos only (no video, no API); images are reviewed before they go up but "mistakes can
+  happen", and uploads must carry no "graphics or text overlayed". So, as with the WordPress directory, look for logos,
+  brand names and faces before a photo goes into a build; no chairlift or rink photo was looked for here.
+  [StockSnap, licence](https://www.stocksnap.io/license),
+  [StockSnap, FAQ](https://www.stocksnap.io/faq)
+
+Checked, nothing new
+- An extension of Seedance 2.5's unlimited past Nov 28: the search returned Higgsfield's own blog pages already in
+  these notes ("33 days unlimited", the 7-day bonus, the 11.11 deals, the 14-day and 4K pages) and Indie Hackers'
+  OpenArt guide (also here); two new results (trak.in's "up to 33 days" story, Higgsfield's "best 5 platforms" post)
+  were not opened. So the rules' end date (Nov 28) stands.
