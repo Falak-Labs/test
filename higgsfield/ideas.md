@@ -4911,3 +4911,113 @@ Checked, nothing new
 - Virlo's daily pages at about 02:00 PT: the search returns the radar page and dated pages up to Nov 18 only, nothing
   for Black Friday. The NII record on the Muikamachi Basin's subsidence from winter groundwater use came back empty,
   and Wikipedia's EURion page did not load from here (Kuhn's own note did).
+
+## 2026-11-27 03:00 PT (hourly runner, cloud run)
+
+Build candidates (new to these notes; neither is in LINEUP or episodes.yml)
+- A quartz watch (no watch build yet; the nearest is build 64, Big Ben's clock), an everyday build with no date
+  peg: the strangest true picture is a crystal tuning fork inside the watch that rings 32,768 times a second. How:
+  the crystal is "precisely cut and shaped like a tuning fork", and "if you squeeze a quartz crystal, it generates a
+  tiny electric voltage" (Explain That Stuff); it "oscillates at a
+  frequency of 32,768 Hz" (Epson); "32,768 is two raised to the 15th power", so a "chain of 'flip-flop' circuit, 15
+  bits long, will reach 1 Hz at the 15th bit", and 32,768 is "The smallest power of two that is greater than 20,000
+  Hz" (SJX, an engineer's piece of Feb 2022; that this keeps the hum above our hearing is his framing, so a script
+  checks it before saying so); a "step motor" "moves the hand by one index per second" (Epson). First on a shelf:
+  "In 1927, Warren Marrison, a Canadian engineer working at Bell Telephone Laboratories, developed a clock that kept
+  time using the vibrations of a quartz crystal", and quartz clocks were "more accurate than any mechanical
+  timekeeper, gaining or losing only a second in three years" (Smithsonian, On Time); Guinness names Marrison and
+  J. W. Horton in New York, "first shown to the public at an academic conference in October 1927", with a 50,000 Hz
+  crystal. First on a wrist: the Quartz Astron 35SQ, sold in Tokyo on Dec 25 1969 for "450,000 yen, around the same
+  price as some of the popular cars of the time" (Seiko museum; ETHW: "$1,250"), with a "Daily difference ±0.2
+  seconds" and a "monthly difference ±5 seconds" when "the daily difference of mechanical watches was ±20 seconds"
+  (Seiko museum); its IEEE Milestone was dedicated on Nov 25 2004 (ETHW). Careful: the Astron itself ran at "8,192
+  Hz", and "32,768 Hz became the standard for later quartz timepieces" (Seiko museum), so the 32,768 line is about
+  today's watches. Breaks and fixes on the pages read: "the quartz vibrates at a slightly different frequency at
+  different temperatures and pressures" (Explain That Stuff); Epson "developed a temperature compensating device
+  using a variable capacitor" and "devised a method of suspending the oscillator inside a vacuum capsule" (that the
+  capsule answers the pressure is our link); crystals creep with age, "quartz drifting or ageing", so fine movements
+  use "quartz crystals aged for at least three months" (SJX); and a movement "may stop without warning once the
+  battery goes flat" (SJX). Chain: a 1960s station where the passengers' wristwatches all disagree with the platform
+  clock (A2) → squeeze quartz and it makes a voltage, give it a voltage and it rings at its own steady rate (A3) →
+  32,768 swings a second, far too fast for gears to count (A4, ours) → fifteen halvings down to one tick a second for
+  a stepping motor (A5) → a watch left on a sunny dashboard or out in the snow drifts (A6) → the sealed capsule and
+  the temperature trimmer (B1) → a brand-new crystal still creeps as it ages (B2) → crystals aged for months before
+  they go in (B3) → Tokyo, December 1969, a gold wristwatch in a shop window and people seen from behind crowding to
+  look (B5, no maker's name on screen). A1: macro of an opened watch, a quartz tuning fork the size of a grain of
+  rice in its tiny metal capsule, blurring as it rings. B6: funny slow motion, a man seen from behind holds his
+  stopped watch to his ear as the train doors close in front of him. Stat line: "±5 SECONDS" a month (against ±20 a
+  day). Kept out: the faces of Marrison, Horton and the team "headed by Tsuneya Nakamura" (ETHW), brand names on
+  screen (SJX's "as much as a Toyota Corolla" becomes "as much as a car"), and the Swiss watch crisis (not on the
+  pages read).
+  [Explain That Stuff](https://www.explainthatstuff.com/quartzclockwatch.html),
+  [Epson, the first quartz watch](https://corporate-origin.epson.biz/en/technology/overview/wearable/quartz-watch.html),
+  [SJX, Feb 2022](https://watchesbysjx.com/2022/02/perspectives-quartz-timekeeping.html),
+  [Seiko Museum, the IEEE award](https://museum.seiko.co.jp/en/seiko_history/milestone/milestone_03/),
+  [Seiko Museum, accuracy](https://museum.seiko.co.jp/en/knowledge/Quartz01/),
+  [ETHW, Milestone](https://ethw.org/Milestones:Electronic_Quartz_Wristwatch%2C_1969),
+  [Smithsonian, On Time](https://americanhistory.si.edu/ontime/expanding/seconds.html),
+  [Guinness, first quartz clock](https://guinnessworldrecords.com/world-records/754830-first-quartz-clock)
+- The Seven Mile Bridge in the Florida Keys, a sea bridge with a trend hook this week (see Trends below) and a live
+  story: the state wants to replace it. The old one, built "1909- 1912" (Library of Congress HAER record; WLRN in 2018
+  says 1908-1910: check), carried the railroad to Key West and was "acclaimed as the longest bridge in the world"
+  (HAER); "After 1935, the bridges and railroad right-of-way were sold to the state and the bridges were converted for
+  highway use" (WLRN 2018), and the old rails were "recycled, painted white, and used as guardrails" (Wikipedia). The
+  new one opened on May 24 1982: "440 spans" of "precast, prestressed concrete sections" in a box girder that rises
+  "in an arc" to a "65-foot-high (20 m) clearance for boat passage" (Wikipedia; the old one had a swing span over
+  Moser Channel, since removed). The breaks: the old bridge's steel beams "rusted out after decades of exposure to
+  saltwater" (WLRN 2018); "Unsupported sections were added in 1935 to widen it for vehicular traffic", they "began to
+  sag", and the stretch to Pigeon Key closed to cars in 2008 (Wikipedia); the 1982 bridge stands in "an extremely
+  corrosive environment, surrounded by salt water", had "6 major rehabilitations through 2019", and the state's
+  engineers said in May 2024 that it "should be fully replaced instead of continuously repaired like it has been",
+  the new one "built to last at least 75 years" (WLRN, May 17 2024; the study was "projected to wrap up sometime in
+  the winter of 2026", so a script checks where it stands). Proof: the old bridge "reopened in January 2022" for
+  walkers and cyclists (Wikipedia; its cost is $77 million in Wikipedia and $38 million in WLRN 2018: check). Chain:
+  islands strung across open sea and a railroad that wants Key West (A2) → piers and girders marching out across the
+  water (A3) → the 1935 hurricane wrecks the line (A4; no deaths on screen or in the script) → the rail bridges become
+  a road, the rails turned into white guardrails (A5) → the added road sections sag and the steel rusts in the salt
+  (A6) → a new bridge of 440 precast concrete spans with a hump high enough for boats (B1) → salt eats the new one
+  too, six big repairs (B2) → build the next one to last 75 years (B3) → walkers and cyclists on the restored old
+  bridge at sunset, the new one alongside (B5). A1: a slow aerial at sunrise over two bridges side by side across
+  turquoise water, the old one with a gap where its middle used to swing. B6: funny slow motion, a pelican lands in a
+  cyclist's handlebar basket on the old bridge. Kept out: the hurricanes' dead, faces (the railroad's backer and its
+  engineers), and anything from the game.
+  [LOC, HAER FL-2](https://loc.gov/pictures/item/fl0293),
+  [WLRN, Sep 10 2018](https://www.wlrn.org/news/2018-09-10/the-century-old-bridge-thats-more-than-just-a-transportation-route),
+  [WLRN, May 17 2024](https://www.wlrn.org/transportation/2024-05-17/seven-mile-bridge-florida-keys-replacement-repair-fdot),
+  [Wikipedia, Seven Mile Bridge](https://en.wikipedia.org/wiki/Seven_Mile_Bridge)
+
+Free picture leads (the watch: none free yet; the bridge: one archive to check)
+- The Library of Congress's HAER record of the Seven Mile Bridge (HAER FL-2): "Photo(s) 81", "Data Page(s) 43", "Photo
+  Caption Page(s) 7", and the rights line "No known restrictions on images made by the U.S. Government; images
+  copied from other sources may be restricted". Its photographer is listed as the Florida Department of
+  Transportation, a state agency, not the U.S. Government, so read each photo's caption page for its source before
+  use (Florida's own rules on its public records are not on a page read here).
+- The Smithsonian's quartz clocks (the Naval Observatory's of about 1936, nmah_850827, "built ... as part of an
+  experimental program to control time signals transmitted by radio", and its standard quartz clock of about 1955,
+  nmah_1073658): the records' text is "CC0", but each also says "There are restrictions for re-using this image", so
+  the pictures are not free. Explain That Stuff's crystal photo is "CC BY-SA 4.0" (share-alike, kept out like the
+  others), and Seiko's and SJX's pictures are all rights reserved, so the watch's still comes from an unlimited image
+  model, with no maker's name on the dial.
+  [Smithsonian, nmah_850827](https://si.edu/es/object/quartz-clock:nmah_850827),
+  [Smithsonian, nmah_1073658](https://si.edu/es/object/standard-quartz-clock:nmah_1073658)
+
+Trends
+- Virlo's Instagram songs page (new to these notes; "Rebuilt every day", "Updated November 27, 2026", counting new
+  Reels in "the 7 days to November 27, 2026"): GTA VI's launch now leads Reels audio, 5 of the top 15 sounds from or
+  about the game (#1 "Flower In A Hurricane", Justice with Tame Impala and SZA, off the game's album, 176 new Reels;
+  #2 "GTA 6 (Grand Theft Auto Six Song)" 125; #4 the San Andreas theme 102; #5 "Vice City" 79; #11 Tove Lo's "Blood
+  In Your Eyes (from GTAVI: The Album)" 31). The only instrumental-looking title is "Me And The Devil Instrumental"
+  (36), and the FAQ says "Business accounts on Instagram have a smaller music library because of licensing" and
+  "Original audio from creators and the songs in Instagram's licensed library are the safe choices". Build-It use: no
+  song to lay under a voice (our own sound stays, as the GTA VI score line of Nov 25 00:57 said), but the game's
+  made-up Florida, with Vice City for Miami (as far as these notes know; no page read here says so), is this week's
+  most-watched map, so a real build from that coast, such as the Florida Keys' Seven Mile Bridge (the candidate
+  above), could ride it with the game named in the caption only, never its pictures, logo or music. FOX 5 DC's
+  headline "GTA VI pulls in estimated $1.84 billion by release day" was seen in the results, not read.
+  [Virlo, Instagram songs, Nov 27 2026](https://virlo.ai/data/trending-songs-on-instagram)
+
+Checked, nothing new
+- Trends at about 02:55 PT: the TikTok trend searches return Virlo's November and Nov 16 pages, SocialPilot, que.es
+  and stackinfluence, all here already. A search for this week's TikTok feature news returns TikTok newsroom items of
+  Oct 28, Nov 13 and Nov 24 2025 (a year old), an AOL story on two AI tools, Smart Split and AI Outline (undated in
+  the results), and Social Media Today on TikTok World 2026's ad tools (for advertisers): none read.
