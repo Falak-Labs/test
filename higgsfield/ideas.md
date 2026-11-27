@@ -5426,3 +5426,84 @@ Checked, nothing new
   formats, hooks or sounds; the GTA VI score still leads its TikTok sounds (464 new videos), as in the 04:00 entry.
   [vidIQ, Science & Technology](https://vidiq.com/youtube-trends/us/science-and-technology/),
   [Virlo, week of Nov 23 2026](https://virlo.ai/trending-on-tiktok-this-week)
+
+## 2026-11-27 08:00 PT (hourly runner, cloud run)
+
+Build candidate (new to these notes; not in LINEUP or episodes.yml)
+- A tower crane, the machine that makes itself taller (a sight in every growing city; it pairs with 100, the Jeddah
+  Tower). The start: it stands on "a large concrete pad" poured "several weeks before the crane arrives", "30 feet by
+  30 feet by 4 feet (10 x 10 x 1.3 meters)" and "400,000 pounds (182,000 kg)", gripped by "Large anchor bolts"; it
+  comes "on 10 to 12 tractor-trailer rigs" and a mobile crane sets the jib and machinery on a first "40-foot
+  (12-meter) mast", then "adds the counterweights" (HowStuffWorks, Marshall Brain, undated). Breaks and fixes: a load
+  far out on the jib tips it, so "large concrete counter weights" sit on the short machinery arm ("20 tons"; the page's
+  "16.3 metric tons" does not match: check) and two limit switches watch the hoist: one "makes sure that the load does
+  not exceed 18 tonnes", the load moment switch "that the operator does not exceed the tonne-meter rating" (300
+  tonne-meters, so "a maximum of 10.1 tonnes" at 30 m); the building outgrows it ("265 feet (80 meters)" standing
+  alone), so it climbs: a "top climber or climbing frame" fits under the slewing unit, the crew hangs "a weight on the
+  jib to balance the counterweight", "hydraulic rams in the top climber push the slewing unit up 20 feet (6 meters)",
+  and the crane lifts "another 20-foot mast section into the gap"; higher still when "tied into the building"
+  (HowStuffWorks). Wind: jibs "are designed to free slew when out of service to avoid high loadings", and a brake left
+  partly on "could result in the jib or whole crane collapsing in strong winds" (HSE, FOD 5-2014, Oct 31 2014); a
+  luffing jib must also be parked "at a safe out-of-service radius" or it "may not be able to weathervane freely in
+  high winds" (HSE, FOD 2-2014, Feb 20 2014, after "the recent collapse of three luffing jib tower cranes in high
+  winds"); "additional wind area" from add-ons "may also prevent an out-of-service crane from free slewing downwind"
+  (HSE, CON2-2018, Dec 2018). The end, the best question: "how do they get the crane down when the building is
+  finished?": "a rooftop crane lifts the tower parts down, then a smaller crane lifts that one down and so on", and a
+  rooftop derrick then takes itself apart into pieces of at most "2.2 x 1.1 metres and a weight of 1,000 kgs"
+  (Vertikal, Nov 16 2006; it does not say how those go down: do not claim the lifts); on the ground "the crane
+  disassembles its own mast and then smaller cranes disassemble the rest" (HowStuffWorks). History: Germany, 1910
+  ("the first tower crane in 1910"; ENR credits both Wolff and Gottlob Gobel); a "quick-erecting crane in 1949" with "a
+  16-meter jib and 1,000-kg capacity"; "the first self-climbing tower crane" in 1956 (ENR, Aug 20 2008). Proof, Gulf:
+  three tower cranes served the Burj Khalifa up to level 156 and "crane operators worked at heights of more than 700
+  metres" (Emirates 24/7, Jan 3 2010, read only in its page summary: check); its 143 m, 450 t spire was put together
+  inside the tower from 5 m sections and lifted 89 m by strand jacks (KHL, Euan Youdale, Feb 15 2010). Chain: a
+  building to rise higher than any truck crane reaches (A2) → the giant pad and anchor bolts, a truck crane sets the
+  first mast (A3) → a heavy load runs out to the jib's tip and the crane leans (A4) → concrete counterweights on the
+  short arm, the hoist stops at its limit (A5) → the floors rise past the cab (A6) → rams push the top up 6 m and a new
+  mast section slides into the gap (B1) → a storm hits a jib held tight by its brake, the steel groans (B2) → the brake
+  let go, the jib swings round with the wind like a weather vane (B3) → a skyline at dusk, every crane turned the same
+  way in the wind, or a rooftop crane lowering the big one piece by piece (B5). A1: above the clouds at dawn, the whole
+  top of a tower crane rises on hydraulic rams and leaves a gap in its own tower, then lifts a new steel section into
+  the gap, slow push-in. B6: funny slow motion, a man on a windy beach clings to an open beach umbrella that swings
+  round with every gust and drags him across the sand. Stat line: "6 METRES" a climb or "182,000 KG" of pad
+  (HowStuffWorks). Kept out: crane collapses with victims, brand names and logos on screen, real faces. Adding it is
+  the main chat's call; its Seedance jobs could only run by Nov 28.
+  [HowStuffWorks, How Tower Cranes Work](https://science.howstuffworks.com/transport/engines-equipment/tower-crane.htm/printable),
+  [HowStuffWorks, How Do Tower Cranes Grow?](https://science.howstuffworks.com/transport/engines-equipment/tower-crane4.htm),
+  [HSE, FOD 5-2014](https://www.hse.gov.uk/safetybulletins/tower-crane-slew-brakes.htm),
+  [HSE, FOD 2-2014](https://www.hse.gov.uk/safetybulletins/luffing-jib-tower-cranes.htm),
+  [HSE, CON2-2018](https://hse.gov.uk/safetybulletins/tower-crane-slew-brakes-release.htm),
+  [Vertikal, Nov 16 2006](https://vertikal.net/en/news/story/3253/new-tower-crane-derrick-from-liebherr),
+  [ENR, Aug 20 2008](https://www.enr.com/articles/29387-cranes-enabled-faster-safer-construction-of-tall-buildings),
+  [Emirates 24/7, Jan 3 2010](https://www.emirates247.com/eb247/companies-markets/construction/a-complex-process-2010-01-04-1.5910),
+  [KHL, Feb 15 2010](https://www.khl.com/news/setting-the-pinnacle-atop-burj-khalifa/1051504.article)
+
+Timing (year-end recaps)
+- Spotify Wrapped 2026 has no announced date: Official Charts (Carl Smith, Nov 26 2026) says it has come out on a
+  Wednesday every year since 2021, so "Wednesday December 2 2026 looks like a very plausible date", "our prediction
+  rather than a date confirmed by Spotify"; Techloy's brief of Nov 10 says "set to launch on December 2" but was
+  "written with AI" and "may contain errors". Dec 2 is also the Rockefeller tree's lighting (Nov 25 19:05 entry). For
+  us: recap week likely starts then, and a "Build-It 2026" recap Short (the year's most-watched builds, from
+  claude/build-it-performance.md) could post that week. Neither page says creators copy the format, so that wave is not
+  checked here; the main chat's call.
+  [Official Charts, Nov 26 2026](https://www.officialcharts.com/chart-news/spotify-wrapped-2026-release-date/),
+  [Techloy, Nov 10 2026](https://www.techloy.com/brief/spotify-wrapped-2026-launch-date-revealed-12njgtp/)
+
+Free picture source (new to these notes)
+- The Carol M. Highsmith Archive at the Library of Congress: "more than 70,000 photos", "primarily the United
+  States", 1980 to now, "expected to grow to more than 100,000"; she dedicated "the rights to the American people for
+  copyright free access" (collection page, undated). Item pages say "No known restrictions on publication." with the
+  credit line "Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division."
+  and the file is a TIFF (an item of Apr 20 2016). It covers "landmark buildings, architectural renovation projects,
+  landscapes and cityscapes"; the page does not list bridges, dams or machines, so search it per build (Sun Valley,
+  where 107's first chairlift ran, is worth a look). The pages read say nothing about people or trademarks shown: keep
+  people out, as always.
+  [LoC, Carol M. Highsmith Archive](https://www.loc.gov/collections/carol-m-highsmith/about-this-collection/),
+  [LoC, a Highsmith item, Apr 20 2016](https://www.loc.gov/item/2016648267)
+
+Checked, nothing new
+- InVideo's offers page, whose search snippet read "Seedance 2.0 Free & Unlimited for 7 days": the page itself still
+  shows the expired 2025 offer ("November 27th to December 1st, 2025", "any paid plan") and an undated banner,
+  "Seedream 5.5, Nano Banana 2.1 & more image models unlimited for 30 days", with no terms shown; no Seedance banner.
+  Nothing free past Nov 28. Searches for free AI video launches this month and for this week's Shorts trends gave list
+  posts and 2026 forecasts only. [InVideo, offers](https://invideo.io/offers)
