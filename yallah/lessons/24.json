@@ -1,0 +1,164 @@
+{
+ "title": "The weather",
+ "slow_take": true,
+ "word": {
+  "full": "Temperature",
+  "parts": [
+   "Tem",
+   "pera",
+   "ture"
+  ],
+  "say": [
+   "TEM",
+   "pruh",
+   "cher"
+  ],
+  "tts": [
+   "Tem",
+   "pruh",
+   "cher"
+  ],
+  "slow": "Tem... pruh... cher.",
+  "mean": "درجة الحرارة",
+  "ar": {
+   "ma": "تيمبراتشر",
+   "pa": "تيمبراتشر"
+  }
+ },
+ "en": [
+  [
+   "It's cold today.",
+   "A",
+   "cold",
+   {}
+  ],
+  [
+   "It's very hot!",
+   "L",
+   "fe:sun",
+   {}
+  ],
+  [
+   "It's raining.",
+   "A",
+   "fe:rain",
+   {}
+  ],
+  [
+   "Take a jacket.",
+   "L",
+   "fe:coat",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Sara f Agadir: 30 daraja! Kifach tgoul l-7arara bl-ingliziya?",
+    "سارة ف أكادير: ثلاثين درجة! كيفاش تقول الحرارة بالإنجليزية؟",
+    "Sara in Agadir: 30 degrees! How do you say 'temperature' in English?"
+   ]
+  ],
+  "board": [
+   "درجة الحرارة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Lyouma l-berd.",
+    "اليوما البرد."
+   ],
+   [
+    "Kayn s-sehd bzaf!",
+    "كاين الصهد بزاف!"
+   ],
+   [
+    "Katsob sh-shta.",
+    "كتصب الشتا."
+   ],
+   [
+    "Lbes l-kabbot.",
+    "لبس الكبوط."
+   ],
+   [
+    "Kat7ti t-telj!",
+    "كتطيح الثلج!"
+   ]
+  ],
+  "ph5": [
+   "It's snowing!",
+   "A",
+   "fe:snow",
+   {}
+  ],
+  "sent": {
+   "en": "The temperature is 30 degrees today!",
+   "hot": [
+    1
+   ],
+   "dz": "L-7arara 30 daraja lyouma!",
+   "ar": "الحرارة ثلاثين درجة اليوما!"
+  },
+  "ah": [
+   "تيم",
+   "برا",
+   "تشر"
+  ],
+  "mean": "درجة الحرارة"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Sara b-Ari7a: 30 daraje! Kif bit2ul el-7arara bil-ingilizi?",
+    "سارة بأريحا: تلاتين درجة! كيف بتقول الحرارة بالإنجليزي؟",
+    "Sara in Jericho: 30 degrees! How do you say 'temperature' in English?"
+   ]
+  ],
+  "board": [
+   "درجة الحرارة",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "El-yom bard.",
+    "اليوم برد."
+   ],
+   [
+    "Shob ktir!",
+    "شوب كتير!"
+   ],
+   [
+    "Btshatti.",
+    "بتشتّي."
+   ],
+   [
+    "Ilbas jakete.",
+    "إلبس جاكيت."
+   ],
+   [
+    "Btthalij!",
+    "بتثلج!"
+   ]
+  ],
+  "ph5": [
+   "It's snowing!",
+   "A",
+   "fe:snow",
+   {}
+  ],
+  "sent": {
+   "en": "The temperature is 30 degrees today!",
+   "hot": [
+    1
+   ],
+   "dz": "El-7arara 30 daraje el-yom!",
+   "ar": "الحرارة تلاتين درجة اليوم!"
+  },
+  "ah": [
+   "تيم",
+   "برا",
+   "تشر"
+  ],
+  "mean": "درجة الحرارة"
+ }
+}

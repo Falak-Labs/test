@@ -1,0 +1,12 @@
+# Yallah Say, episode 22 (ma): five phrases, quiz, hard word (Luggage) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | Luggage فيها جوج د G، ولكن ما كتنطقش G! كيفاش كتقراها؟
+T | p01t | فين الشانطة ديالي؟
+T | p02t | الطيارة ديالي معطلة.
+T | p03t | ها الباسبور ديالي.
+T | p04t | أنا غادي للدار.
+T | p05t | الحمدلله على السلامة!
+T | tw | Luggage.
+T | w6 | Good job! Luggage!
+T | v2 | الباليزات ديالي ثقال بزاف!
+T | Tsl | Lug... gidge.

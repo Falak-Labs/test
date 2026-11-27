@@ -1,0 +1,12 @@
+# Yallah Say, episode 24 (pa): five phrases, quiz, hard word (Temperature) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | سارة بأريحا: تلاتين درجة! كيف بتقول الحرارة بالإنجليزي؟
+T | p01t | اليوم برد.
+T | p02t | شوب كتير!
+T | p03t | بتشتّي.
+T | p04t | إلبس جاكيت.
+T | p05t | بتثلج!
+T | tw | Temperature.
+T | w6 | Good job! Temperature!
+T | v2 | الحرارة تلاتين درجة اليوم!
+T | Tsl | Tem... pruh... cher.

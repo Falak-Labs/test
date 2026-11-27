@@ -1,0 +1,12 @@
+# Yallah Say, episode 24: the pupils' English lines that both dialects share (hard word: Temperature).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | It's cold today.
+L | p02k | It's very hot!
+A | p03k | It's raining.
+L | p04k | Take a jacket.
+A | p05k | It's snowing!
+A | w5 | Temperature!
+L | v1 | The temperature is 30 degrees today!
+L | Lw | Temperature!
+A | Asl | Tem... pruh... cher.
+L | Lsl | Tem... pruh... cher.

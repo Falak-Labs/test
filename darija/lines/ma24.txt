@@ -1,0 +1,12 @@
+# Yallah Say, episode 24 (ma): five phrases, quiz, hard word (Temperature) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | سارة ف أكادير: ثلاثين درجة! كيفاش تقول الحرارة بالإنجليزية؟
+T | p01t | اليوما البرد.
+T | p02t | كاين الصهد بزاف!
+T | p03t | كتصب الشتا.
+T | p04t | لبس الكبوط.
+T | p05t | كتطيح الثلج!
+T | tw | Temperature.
+T | w6 | Good job! Temperature!
+T | v2 | الحرارة ثلاثين درجة اليوما!
+T | Tsl | Tem... pruh... cher.

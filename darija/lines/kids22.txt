@@ -1,0 +1,12 @@
+# Yallah Say, episode 22: the pupils' English lines that both dialects share (hard word: Luggage).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | Where is my bag?
+L | p02k | My flight is late.
+A | p03k | Here is my passport.
+L | p04k | I'm going home.
+A | p05k | Welcome back!
+A | w5 | Luggage!
+L | v1 | My luggage is very heavy!
+L | Lw | Luggage!
+A | Asl | Lug... gidge.
+L | Lsl | Lug... gidge.

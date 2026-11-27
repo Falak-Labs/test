@@ -1,0 +1,164 @@
+{
+ "title": "Visiting family",
+ "slow_take": true,
+ "word": {
+  "full": "Comfortable",
+  "parts": [
+   "Comf",
+   "ort",
+   "able"
+  ],
+  "say": [
+   "KUMF",
+   "ter",
+   "bul"
+  ],
+  "tts": [
+   "Kumf",
+   "ter",
+   "bull"
+  ],
+  "slow": "Kumf... ter... bul.",
+  "mean": "مريح",
+  "ar": {
+   "ma": "كمفتربل",
+   "pa": "كمفتربل"
+  }
+ },
+ "en": [
+  [
+   "Come in!",
+   "A",
+   "fe:door",
+   {}
+  ],
+  [
+   "Sit down, please.",
+   "L",
+   "fe:chair",
+   {}
+  ],
+  [
+   "Are you hungry?",
+   "A",
+   "fe:plate",
+   {}
+  ],
+  [
+   "Make yourself at home.",
+   "L",
+   "fe:house",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Comfortable fiha 4 d l-ma9ati3, walakin l-mirikan kaygoulou ghir 3! Chmen wa7d kayghber?",
+    "Comfortable فيها أربعة د المقاطع، ولكن الميريكان كيقولو غير ثلاثة! شمن واحد كيغبر؟",
+    "Comfortable has 4 syllables, but Americans say only 3! Which one disappears?"
+   ]
+  ],
+  "board": [
+   "مريح",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Dkhel!",
+    "دخل!"
+   ],
+   [
+    "Gles, 3afak.",
+    "گلس، عافاك."
+   ],
+   [
+    "Wach nta ji3an?",
+    "واش نتا جيعان؟"
+   ],
+   [
+    "Dir b7al darek.",
+    "دير بحال دارك."
+   ],
+   [
+    "Chokran bzaf!",
+    "شكرا بزاف!"
+   ]
+  ],
+  "ph5": [
+   "Thank you so much!",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "This couch is so comfortable!",
+   "hot": [
+    4
+   ],
+   "dz": "Had l-kanapé mri7 bzaf!",
+   "ar": "هاد الكنابي مريح بزاف!"
+  },
+  "ah": [
+   "كمف",
+   "تر",
+   "بل"
+  ],
+  "mean": "مريح"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Comfortable fiha 4 ma2ate3, bas el-amerkan bi2ulu 3 bas! Ayya wa7ad byikhtfi?",
+    "Comfortable فيها أربع مقاطع، بس الأمريكان بيقولوا تلاتة بس! أيّا واحد بيختفي؟",
+    "Comfortable has 4 syllables, but Americans say only 3! Which one disappears?"
+   ]
+  ],
+  "board": [
+   "مريح",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Tfaddal!",
+    "تفضل!"
+   ],
+   [
+    "O23od, law sama7t.",
+    "اقعد، لو سمحت."
+   ],
+   [
+    "Inta jo3an?",
+    "إنت جوعان؟"
+   ],
+   [
+    "El-bet betak.",
+    "البيت بيتك."
+   ],
+   [
+    "Shukran ktir!",
+    "شكرا كتير!"
+   ]
+  ],
+  "ph5": [
+   "Thank you so much!",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "This couch is so comfortable!",
+   "hot": [
+    4
+   ],
+   "dz": "Hal-kanabaye mri7a ktir!",
+   "ar": "هالكنباية مريحة كتير!"
+  },
+  "ah": [
+   "كمف",
+   "تر",
+   "بل"
+  ],
+  "mean": "مريح"
+ }
+}

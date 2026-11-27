@@ -1,0 +1,12 @@
+# Yallah Say, episode 23: the pupils' English lines that both dialects share (hard word: Comfortable).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | Come in!
+L | p02k | Sit down, please.
+A | p03k | Are you hungry?
+L | p04k | Make yourself at home.
+A | p05k | Thank you so much!
+A | w5 | Comfortable!
+L | v1 | This couch is so comfortable!
+L | Lw | Comfortable!
+A | Asl | Kumf... ter... bul.
+L | Lsl | Kumf... ter... bul.

@@ -1,0 +1,159 @@
+{
+ "title": "At the airport",
+ "slow_take": true,
+ "word": {
+  "full": "Luggage",
+  "parts": [
+   "Lug",
+   "gage"
+  ],
+  "say": [
+   "LUG",
+   "ij"
+  ],
+  "tts": [
+   "Lug",
+   "gidge"
+  ],
+  "slow": "Lug... gidge.",
+  "mean": "الباليزات",
+  "ar": {
+   "ma": "لاغيدج",
+   "pa": "لاغيدج"
+  }
+ },
+ "en": [
+  [
+   "Where is my bag?",
+   "A",
+   "bag",
+   {}
+  ],
+  [
+   "My flight is late.",
+   "L",
+   "fe:clock",
+   {}
+  ],
+  [
+   "Here is my passport.",
+   "A",
+   "fe:passport",
+   {}
+  ],
+  [
+   "I'm going home.",
+   "L",
+   "fe:airplane",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Luggage fiha jouj d G, walakin ma katnte9ch G! Kifach kat9raha?",
+    "Luggage فيها جوج د G، ولكن ما كتنطقش G! كيفاش كتقراها؟",
+    "Luggage has two Gs, but you don't say G! How do you read it?"
+   ]
+  ],
+  "board": [
+   "الباليزات",
+   "= ? ?"
+  ],
+  "ph": [
+   [
+    "Fin l-chanta dyali?",
+    "فين الشانطة ديالي؟"
+   ],
+   [
+    "Tiyara dyali m3e2tla.",
+    "الطيارة ديالي معطلة."
+   ],
+   [
+    "Ha l-passport dyali.",
+    "ها الباسبور ديالي."
+   ],
+   [
+    "Ana ghadi l-dar.",
+    "أنا غادي للدار."
+   ],
+   [
+    "L7amdoullah 3la slama!",
+    "الحمدلله على السلامة!"
+   ]
+  ],
+  "ph5": [
+   "Welcome back!",
+   "A",
+   "fe:hug",
+   {}
+  ],
+  "sent": {
+   "en": "My luggage is very heavy!",
+   "hot": [
+    1
+   ],
+   "dz": "L-balizat dyali t9al bzaf!",
+   "ar": "الباليزات ديالي ثقال بزاف!"
+  },
+  "ah": [
+   "لاغ",
+   "يدج"
+  ],
+  "mean": "الباليزات"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Luggage fiha 7arfen G, bas ma bnilfoz G! Kif bin2raha?",
+    "Luggage فيها حرفين G، بس ما بنلفظ G! كيف بنقراها؟",
+    "Luggage has two Gs, but you don't say G! How do you read it?"
+   ]
+  ],
+  "board": [
+   "الشنط",
+   "= ? ?"
+  ],
+  "ph": [
+   [
+    "Wen shantiti?",
+    "وين شنطتي؟"
+   ],
+   [
+    "Re7lti mit2akhre.",
+    "رحلتي متأخرة."
+   ],
+   [
+    "Hai basbori.",
+    "هاي باسبوري."
+   ],
+   [
+    "Ana rawe7 3ad-dar.",
+    "أنا راوح عالدار."
+   ],
+   [
+    "El7amdilla 3as-salame!",
+    "الحمدلله عالسلامة!"
+   ]
+  ],
+  "ph5": [
+   "Welcome back!",
+   "A",
+   "fe:hug",
+   {}
+  ],
+  "sent": {
+   "en": "My luggage is very heavy!",
+   "hot": [
+    1
+   ],
+   "dz": "Shanati ti2ile ktir!",
+   "ar": "شنطاتي تقيلة كتير!"
+  },
+  "ah": [
+   "لاغ",
+   "يدج"
+  ],
+  "mean": "الشنط"
+ }
+}

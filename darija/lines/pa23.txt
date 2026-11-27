@@ -1,0 +1,12 @@
+# Yallah Say, episode 23 (pa): five phrases, quiz, hard word (Comfortable) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | Comfortable فيها أربع مقاطع، بس الأمريكان بيقولوا تلاتة بس! أيّا واحد بيختفي؟
+T | p01t | تفضل!
+T | p02t | اقعد، لو سمحت.
+T | p03t | إنت جوعان؟
+T | p04t | البيت بيتك.
+T | p05t | شكرا كتير!
+T | tw | Comfortable.
+T | w6 | Good job! Comfortable!
+T | v2 | هالكنباية مريحة كتير!
+T | Tsl | Kumf... ter... bul.

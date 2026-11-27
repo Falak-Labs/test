@@ -1,0 +1,12 @@
+# Yallah Say, episode 23 (ma): five phrases, quiz, hard word (Comfortable) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | Comfortable فيها أربعة د المقاطع، ولكن الميريكان كيقولو غير ثلاثة! شمن واحد كيغبر؟
+T | p01t | دخل!
+T | p02t | گلس، عافاك.
+T | p03t | واش نتا جيعان؟
+T | p04t | دير بحال دارك.
+T | p05t | شكرا بزاف!
+T | tw | Comfortable.
+T | w6 | Good job! Comfortable!
+T | v2 | هاد الكنابي مريح بزاف!
+T | Tsl | Kumf... ter... bul.
