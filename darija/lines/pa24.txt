@@ -9,4 +9,4 @@ T | p05t | بتثلج!
 T | tw | Temperature.
 T | w6 | Good job! Temperature!
 T | v2 | الحرارة تلاتين درجة اليوم!
-T | Tsl | Tem... pruh... tcher.
+T | Tsl | Tem... pruh... chur.
