@@ -78,11 +78,11 @@ episodes:
   - {slug: ep73-pharos, kit: pharos, look: 2, retired: true}
   - {slug: ep74-maraya, kit: maraya, look: 2, retired: true}
   - {slug: ep75-stepwell, kit: stepwell, look: 2, retired: true}
-  - {slug: ep76-cooker, kit: cooker, look: sd}
+  - {slug: ep76-cooker, kit: cooker, look: sd, retired: true}
   - {slug: ep77-goldengate, kit: goldengate, look: sd}
-  - {slug: airfryer-b78, kit: airfryer, look: sd}
-  - {slug: kuwaittowers-b79, kit: kuwaittowers, look: sd}
-  - {slug: fountain-b80, kit: jeddahfountain, look: sd}
+  - {slug: airfryer-b78, kit: airfryer, look: sd, retired: true}
+  - {slug: kuwaittowers-b79, kit: kuwaittowers, look: sd, retired: true}
+  - {slug: fountain-b80, kit: jeddahfountain, look: sd, retired: true}
   - {slug: zipper-b81, kit: zipper, look: sd, retired: true}
   - {slug: hzmb-b82, kit: hzmb, look: sd, retired: true}
   - {slug: thermos-b83, kit: thermos, look: sd, retired: true}
@@ -90,9 +90,9 @@ episodes:
   - {slug: dubaiframe-b85, kit: dubaiframe, look: sd, retired: true}
   - {slug: kettle-b86, kit: kettle, look: sd, retired: true}
   - {slug: balloon-b87, kit: balloon, look: sd, retired: true}
-  - {slug: pontdugard-b88, kit: pontdugard, look: sd}
-  - {slug: noor-b89, kit: noor, look: sd}
-  - {slug: pen-b90, kit: pen, look: sd}
+  - {slug: pontdugard-b88, kit: pontdugard, look: sd, retired: true}
+  - {slug: noor-b89, kit: noor, look: sd, retired: true}
+  - {slug: pen-b90, kit: pen, look: sd, retired: true}
   - {slug: arch-b91, kit: arch, look: sd}
   - {slug: seatbelt-b92, kit: seatbelt, look: sd}
   - {slug: ep94-smokealarm, kit: smokealarm, look: sd}
