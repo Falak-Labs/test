@@ -5192,3 +5192,131 @@ Checked, nothing new
   pages); nothing moves Nov 28.
 - Openings this December: a search returns the Gordie Howe bridge (open since July, Dezeen Jul 28 2026) and the
   Tianshan Shengli expressway tunnel (Dec 26 2025), both in these notes already.
+
+## 2026-11-27 06:00 PT (hourly runner, cloud run)
+
+Build candidates (new to these notes; neither is in LINEUP or episodes.yml)
+- Airliner de-icing, the orange spray and then the green one (a winter build for the holiday flights; ep11 built the
+  airplane, not this). Why it matters: frost "similar to medium or coarse sandpaper" "can reduce maximum wing lift by
+  as much as 30% and increase lift-induced drag by 40%", and "the stall angle will decrease" (NASA Glenn, A Pilot's
+  Guide to Ground Icing, upd. Sep 27 2016; AOPA, Oct 4 2021, gives the same figures); contamination on the leading
+  edge can let "the wing stalling angle to be reached prior to any indication by the stall warning" (Transport Canada
+  TP 14052, Issue 10, Mar 2026). The two fluids: Type I is "a mix of glycol and water and has a distinctive orange
+  colour" that "breaks the bond between frost, ice or snow and the wings"; Type IV is "an anti-icing fluid that stops
+  new ice or snow from sticking to the plane" and "is bright green in colour" (Toronto Pearson, Dec 13 2021). "Type I
+  must always be applied heated and diluted" and, "the least viscous (thinnest) of fluids, it has the shortest HOTs"
+  (holdover times); the thickening agents "correspond to longer HOTs" but make the fluids "more resistant to shearing
+  off the aircraft during the take-off roll" (NASA), and "Thickened fluids, such as Types II & IV, are aerodynamically
+  designed for 'high take-off speed' aircraft" (TP 14052). The routine: "Two step deicing/anti-icing is generally used
+  when the aircraft is contaminated and when precipitation is active", the second coat going on "before any freezing
+  of the ADF occurs" (the first fluid), "typically within 3 minutes"; the holdover clock starts at the "Time noted at
+  the start of anti-icing fluid application" (TP 14052); "Ultimately, the anti-icing fluid will fail" (NASA), so crews
+  "Perform a pre-take-off contamination inspection just prior to take-off" (TP 14052). What the rules say once the
+  time has run out was read only in a summary (TP 14052, 11.1.7): check it before a script says it. Proof: Toronto
+  Pearson's Central Deicing Facility, "the largest and most technologically advanced centralized deicing facility in
+  the world" (the airport's page, Dec 13 2021, in its description; ESE Magazine's design-era article: "will be the
+  largest facility of its kind in the world"), six pads on 65 acres, "200 staff members and 46 deicing trucks", "500
+  aircraft in a single day" (Pearson); at one time "six Class E aircraft (e.g. B747), or twelve Class C aircraft (eg.
+  B737, A320)" (ESE) or "up to 12 widebody aircraft or 24 narrowbody jets" (Bolt Flight, Feb 13 2026): say "a dozen
+  jets at once". The pads slope so the spent fluid runs "directly into special drains" and "underground storage tanks"
+  of "a combined volume of 15 million litres", where it is "measured, tested and recycled for use in other markets"
+  (Pearson; Bolt Flight's "19 million liters" disagrees: use the airport's figure). Last winter: "approximately 16,800
+  aircraft" by mid-February, "nearly 17,000" (Bolt Flight, a third-party mid-season count; no final figure found).
+  Chain: snow settles on a jet's wings at the gate (A2) → a heated orange spray melts it and blasts it off (A3) → snow
+  keeps falling on the clean wing while the jet waits in line (A4, ours) → a thick green coat that holds the new snow
+  off (A5) → the coat gives out if the wait is too long (A6, NASA's "will fail") → a last look at the wing just before
+  takeoff (B1; who looks and from where is not in the pages read: check) → orange glycol running off into the snow and
+  a creek (B2, ours: a picture of the problem) → sloped pads, drains and tanks that catch it for recycling (B3) →
+  Pearson's six pads at night in a snowstorm, a line of jets waiting their turn (B5). A1: at night in falling snow a
+  jet sits under floodlights while two crane trucks hose it down in clouds of orange steam, then coat it bright green.
+  B6: funny slow motion, a man scrapes his frozen windshield clean and the snow on the roof slides down over him. Stat
+  line: "30%" of the lift (NASA) or "500 A DAY" (Pearson). Kept out: airline names and liveries (plain white tails),
+  fluid brand names, the 2002 Birmingham accident on NASA's page (deaths), crews' faces (hoods, from behind).
+  [NASA Glenn, ground icing fluids](https://aircrafticing.grc.nasa.gov/2_5_2_1.html),
+  [NASA Glenn, frost and lift](https://aircrafticing.grc.nasa.gov/2_1_2_1.html),
+  [AOPA, Oct 4 2021](https://www.aopa.org/news-and-media/all-news/2021/october/04/training-tip-rough-stuff),
+  [Transport Canada, TP 14052](https://tc.canada.ca/en/aviation/publications/guidelines-aircraft-ground-icing-operations-tp-14052),
+  [Toronto Pearson, Dec 13 2021](https://www.torontopearson.com/en/whats-happening/stories/aircraft-deicing-2021),
+  [ESE Magazine](https://esemag.com/archives/central-de-icing-facility-at-torontos-airport-largest-facility-of-its-kind-in-the-world/),
+  [Bolt Flight, Feb 13 2026](https://boltflight.com/toronto-pearson-sets-historic-winter-benchmark-with-nearly-17000-aircraft-de-iced-in-2025-2026-season/)
+- The Dunedin of 1882, the sailing ship that carried the first frozen meat across the world (a "first" with a real
+  voyage as its proof: the start of the cold chain). The problem: "the shipment of livestock from New Zealand to
+  England was prohibitively expensive" and canned meat was popular in the Pacific islands but "less so in England",
+  while in the UK "the rapidly expanding population had outrun the supply of local meat, resulting in rapid increases
+  in prices" (Wikipedia, Dunedin (1874 ship)). The machine: a "Bell-Coleman compression refrigeration machine, cooling
+  the entire hold", "steam-powered" on "3 tons of coal a day" (Wikipedia); "The compressor compressed the warm air and
+  when it was released... it came out at a very low temperature" (RNZ, May 27 2022, quoting a historian); the hold was
+  kept "22 degrees celsius below the outside temperature" (NZHistory). The carcasses were "sewn into calico bags and
+  frozen" on board (Wikipedia): "There were no freezing works or cool stores in those days" (a 1932 recollection
+  quoted by the NZ Herald, Feb 8 2025). "About 5000 carcasses were on board the Dunedin when it sailed on 15 February"
+  1882 from Port Chalmers (NZHistory); Wikipedia's tally is "4331 mutton, 598 lamb and 22 pig carcasses, 250 kegs of
+  butter" (the Herald has 4,311 and RNZ "5000 lamb carcasses": use Wikipedia's, attributed). The breaks: before it
+  sailed "the crankshaft of the compressor broke", "causing the loss of the 643 sheep carcasses" (Wikipedia; the
+  Herald and RNZ give other counts); "Sparks from the compressor's boiler created a fire hazard" (Wikipedia) and
+  "occasionally the sails would catch on fire" (RNZ); in the tropics "the ship was caught on one tack for a long time
+  and the cold air wasn't moving in the hold. So the temperatures were rising" (RNZ), and "Captain John Whitson
+  crawled inside and sawed extra air holes, almost freezing to death" (NZHistory; RNZ: he went down "on a rope on a
+  ventilation shaft" and was pulled out by it). The proof: "The Dunedin arrived in London 98 days after setting sail"
+  (Wikipedia; May 24 1882, RNZ) and "only one carcass was condemned" (NZHistory); John Swan and Sons, quoted by
+  Wikipedia: "Directly the meat was placed on the market, its superiority over the Australian [frozen] meat struck
+  us"; "Within five years, 172 shipments of frozen meat were sent from New Zealand to the United Kingdom" (Wikipedia),
+  the trade that "became the cornerstone of New Zealand's 20th-century economy" (NZHistory). Chain: a hungry 1880s
+  city with bare butchers' hooks, and green hills of sheep half a world away (A2) → a steam engine squeezes air and
+  lets it out ice-cold into the hold (A3) → the crankshaft snaps in port and the first carcasses thaw (A4) → mended,
+  it freezes the cargo hard in calico bags on board (A5, the repair is not described in the pages read: check) →
+  sparks from the boiler set a sail alight (A6) → 22 degrees colder than the air outside, even near the equator (B1) →
+  becalmed on one tack, the cold air stops moving and the hold warms (B2) → the captain, seen from behind, crawls down
+  the air shaft on a rope and saws new air holes (B3) → London, May 1882, the frozen cargo is unloaded before watching
+  crowds, one carcass condemned (B5). A1: a three-masted sailing ship on a blazing tropical sea with a small chimney
+  smoking on its deck and white frost spilling out of its open hatch (whether the ship had a funnel and where the
+  machine sat are not in the pages read: check before the prompt). B6: funny slow motion, a man in a heatwave opens
+  his freezer and puts his whole head inside, eyes closed in bliss. Stat line: "98 DAYS" (or "22°C COLDER"). Pictures:
+  Frederick Tudgay's "Dunedin, 1882" (Te Ara, from the Hocken Collections) is not free: "You may not use this item
+  commercially" and "Permission of the Hocken Collections ... must be obtained" (DigitalNZ, record updated Nov 26
+  2025). A free period still of the same port: Te Papa's "S.S. Ionic [1] at Port Chalmers" (Burton Brothers, about
+  1884, an albumen print, O.000905), "This image has a rights statement of No Known Copyright Restrictions", with a
+  Download button (another ship, not the Dunedin). Kept out: the ship's loss in 1890 with all on board, the captain's
+  face, sheep in distress (the shots show cloth-wrapped cargo, not animals); "too many sheep" and "boiled down for
+  tallow" are not in the pages read, so a script does not say them. Not read: the Lloyd's Register Foundation heritage
+  page (its permission request timed out).
+  [NZHistory, first shipment of frozen meat](https://nzhistory.govt.nz/first-shipment-of-frozen-meat-leaves-nz),
+  [Wikipedia, Dunedin (1874 ship)](https://en.wikipedia.org/wiki/Dunedin_(1874_ship)),
+  [NZ Herald, Feb 8 2025](https://www.nzherald.co.nz/the-country/news/pastures-past-new-zealands-first-frozen-meat-shipment-in-1882/MGWJDDCAFNGTXJHC7S36BDFICQ),
+  [RNZ, May 27 2022](https://www.rnz.co.nz/news/countrylife/551372/a-milestone-marked-for-meat-industry),
+  [DigitalNZ, Dunedin 1882](https://digitalnz.org/records/31929550/dunedin-1882),
+  [Te Papa, S.S. Ionic at Port Chalmers](https://collections.tepapa.govt.nz/object/195026)
+
+Free picture sources (new to these notes)
+- Te Papa, the Museum of New Zealand, Collections Online: images marked "no known copyright restrictions" are
+  "downloadable for any use, any use at all" and credit "isn't mandatory"; others carry "CC BY-NC-ND" ("You can't make
+  money from using the image"), so not for our channels (Te Papa blog, Jun 3 2014). On the site: tick "with
+  downloadable images", then "Download Image" and "Download JPEG" (tips page); DigitalNZ's "Use Commercially" filter
+  finds the free ones (a reply on the blog, Sep 15 2014). The count is from 2014 ("over 30,000 images downloadable,
+  for free") and no size is given; the tips page also points re-users to "Buy or License", so take only items whose
+  rights line reads "No Known Copyright Restrictions". Good for 19th-century ships, ports and machines (the Burton
+  Brothers' photographs).
+  [Te Papa blog, Jun 3 2014](https://blog.tepapa.govt.nz/2014/06/03/free-downloadable-images-from-te-papas-collections/),
+  [Te Papa, tips for downloading](https://tepapa.govt.nz/digital-museum/collections-online/tips-for-downloading-on-collections-online)
+- Paris Musées, the museums of the City of Paris: works in the public domain under "a CCØ (Creative Commons Zero)
+  licence", "without any technical, legal or financial restraints, whether for commercial use or not", "150,000
+  digital reproductions in High Definition", each "an image in HD (300 dpi – 3000 pixels)", 2D works only; a Good
+  Practice Charter asks users to "cite the source" (Paris Musées, Jan 8 2020; the count is the launch figure).
+  PetaPixel's headline at the time: "60,000+ Historic Photos Online, Copyright-Free" (seen in results, not read). Look
+  there for 19th-century Paris engineering pictures (old photographs and prints) before making a still.
+  [Paris Musées, Jan 8 2020](https://parismusees.paris.fr/en/actualite/open-content-150000-works-from-the-museum-collections-of-the-city-of-paris-freely),
+  [PetaPixel, Jan 28 2020](https://petapixel.com/2020/01/28/paris-museums-put-60000-historic-photos-online-copyright-free/)
+
+Trends (both charts updated Nov 27 2026)
+- Tokchart's worldwide TikTok sound chart has an Arabic-language pop song climbing, "Ghazali" by Elyanna, about +8,000
+  videos a day (38K in all): a lead for Kef Tenbeni posts made in the app only (our Buffer posts carry our own mix),
+  and check the lyrics before any use. The top of the chart, "boom clap" (+149,200 a day), is Virlo's "Boom Clap
+  confetti pop" of the 05:00 entry.
+- Virlo: the only rising item in its top ten is a TV sketch clip ("He wanna pay full price SNL", 748 videos, first
+  seen Nov 8), not for us; its Christmas items are dances ("How Christmas Dances Will Look This Year", "Last Christmas
+  X Phat Winter Dance"); neither chart shows a process or engineering trend, or a Thanksgiving or Black Friday one.
+  [Tokchart, Nov 27 2026](https://tokchart.com/growing),
+  [Virlo, November 2026](https://virlo.ai/trends/2026-11)
+
+Checked, nothing new
+- Website Builder Expert's trending-sounds page is its Nov 28 2025 update (a year old); SMK Open (smk.dk) needs
+  JavaScript and was not read; this week's sound searches return the same vendor lists (SocialPilot, Gelato, que.es).
