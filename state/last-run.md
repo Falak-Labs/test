@@ -1,4 +1,4 @@
-# Last posting run 2026-11-27T21:10:17+00:00
+# Last posting run 2026-11-27T22:20:38+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -125,27 +125,27 @@
 - ep102-albahar ar.youtube: on hold in posts/ep102-albahar.yml
 - ep103-bubblewrap en.youtube: on hold in posts/ep103-bubblewrap.yml
 - ep103-bubblewrap ar.youtube: on hold in posts/ep103-bubblewrap.yml
+- sm07 en.youtube: on hold in posts/sm07.yml
+- sm07 en.instagram: on hold in posts/sm07.yml
+- sm07 en.tiktok: on hold in posts/sm07.yml
+- sm07 ar.youtube: on hold in posts/sm07.yml
+- sm07 ar.instagram: on hold in posts/sm07.yml
+- sm07 ar.tiktok: on hold in posts/sm07.yml
 - ep104-gcans en.youtube: on hold in posts/ep104-gcans.yml
 - ep104-gcans ar.youtube: on hold in posts/ep104-gcans.yml
 - ep105-brooklyn en.youtube: on hold in posts/ep105-brooklyn.yml
 - ep105-brooklyn ar.youtube: on hold in posts/ep105-brooklyn.yml
 - ep106-riyadhmetro en.youtube: on hold in posts/ep106-riyadhmetro.yml
-- ep106-riyadhmetro en.instagram: scheduled (Sun 29 Nov 14:00 UTC) id 6b09f1bcc02ca0988ab69c44
-- ep106-riyadhmetro en.tiktok: scheduled (Sun 29 Nov 14:00 UTC) id 6b09f1bdb5cd052fe29015c0
 - ep106-riyadhmetro ar.youtube: on hold in posts/ep106-riyadhmetro.yml
-- ep106-riyadhmetro ar.instagram: scheduled (Sun 29 Nov 08:00 UTC) id 6b09f1bfc02ca0988ab69d13
-- ep106-riyadhmetro ar.tiktok: scheduled (Sun 29 Nov 08:30 UTC) id 6b09f1bf71e8cc12a6ce7392
 - ep107-chairlift en.youtube: on hold in posts/ep107-chairlift.yml
-- ep107-chairlift en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- ep107-chairlift en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep107-chairlift en.instagram: scheduled (Sun 29 Nov 16:30 UTC) id 6b0a023923fb5b7700f88080
+- ep107-chairlift en.tiktok: scheduled (Sun 29 Nov 16:30 UTC) id 6b0a023aeab081a3f5ff6c68
 - ep107-chairlift ar.youtube: on hold in posts/ep107-chairlift.yml
-- ep107-chairlift ar.instagram: scheduled (Sun 29 Nov 11:00 UTC) id 6b09f1c1c02ca0988ab69ef7
 - ep107-chairlift ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep108-resurfacer en.youtube: on hold in posts/ep108-resurfacer.yml
 - ep108-resurfacer en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep108-resurfacer en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
 - ep108-resurfacer ar.youtube: on hold in posts/ep108-resurfacer.yml
-- ep108-resurfacer ar.instagram: scheduled (Sun 29 Nov 14:00 UTC) id 6b09f1c371e8cc12a6ce74c8
 - ep108-resurfacer ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
-- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=898, "24h"; r=576; t=80710, "30d"; r=153; t=1070559; ratelimit-policy="15m"; q=15
-- ar: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=892, "24h"; r=572; t=80708, "30d"; r=72; t=1076682; ratelimit-policy="15m"; q=150
+- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=898, "24h"; r=558; t=76489, "30d"; r=135; t=1066338; ratelimit-policy="15m"; q=15
+- ar: 2 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=148; t=900, "24h"; r=556; t=76496, "30d"; r=56; t=1072470; ratelimit-policy="15m"; q=150
