@@ -1,0 +1,35 @@
+episode: 107
+date: 2026-11-29
+video:
+  en: media/ep107-chairlift-en.mp4
+  ar: media/ep107-chairlift-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-29T16:30:00Z"    # 08:30 PT Sun Nov 29, after 106 (106's line 10 promises it)
+  title: "High-Speed Chairlift: Why the Chairs Let Go of the Cable 🚡"
+  text: |
+    These chairs let go of their cable… on purpose. 🚡
+    The cable on a high-speed chairlift runs about as fast as a bike, way too fast to sit down on. So in the station a spring grip opens, the chair rolls off the cable onto a rail, and a row of spinning tires slows it to a walk while you sit. Then the tires speed it back up and the grip snaps shut on the cable again. Springs squeeze every grip shut, and one weak grip stops the whole lift. Steel cable gets longer in the heat, so a giant concrete weight keeps it tight. And the first chairlift, Sun Valley 1936? A railroad engineer who had worked on banana loaders swapped the hooks for chairs.
+    Skis, snowboard, or hot chocolate in the lodge? 👇
+  next: "ice that gets a hot water bath ⛸️"
+  seo: "How a detachable (high-speed) chairlift works: the haul rope runs at about 1,000 feet per minute (around 5 m/s), too fast to board, so in each terminal a spring-loaded grip opens and the chair leaves the rope, rides a rail on rows of rubber tires that slow it to walking pace for loading, then speeds back up before the grip clamps the rope again. Grips are checked for clamping force before they leave the station, and insufficient grip force stops the lift. A counterweight or hydraulic tensioning system takes up the rope's stretch with temperature and keeps friction on the drive bullwheel. The world's first chairlifts opened at Sun Valley, Idaho, in December 1936, designed by Union Pacific engineer James Curran from a conveyor that loaded bananas onto ships, with chairs in place of the hooks."
+  tags:
+    tiktok: "#chairlift #skiing #snowboarding #engineering #learnontiktok"
+    instagram: "#chairlift #skiing #snowboarding #engineering #howitworks"
+    youtube: "#chairlift #skiing #engineering"
+ar:
+  at:
+    default: "2026-11-29T11:00:00Z"    # Instagram 03:00 PT Sun Nov 29 = 14:00 Riyadh, after 106 (00:00 PT)
+    tiktok: "2026-11-29T11:30:00Z"     # 03:30 PT: 3 h after 106's Arabic TikTok (00:30 PT)
+  title: "تلفريك الكراسي: ليش الكرسي يفك الكيبل؟ 🚡"
+  text: |
+    هالكراسي تفك الكيبل في كل محطة... عن قصد! 🚡
+    كيبل التلفريك السريع يمشي تقريباً بسرعة السيكل، وما تقدر تقعد عليه وهو مسرع. فإذا وصل الكرسي المحطة، الماسكة تنفك ويطلع على سكة، وكفرات تدور تهدّيه لين يمشي على هونه وأنت تقعد، وبعدين تسرّعه وترجع الماسكة تسكّر على الكيبل. وسوست قوية تقفل كل ماسكة، ولو وحدة طلعت ضعيفة يوقف التلفريك كله. وكيبل الحديد يطوّل في الحر، فثقل خرسانة عملاق يخليه مشدود. وأول تلفريك كراسي؟ سنة ١٩٣٦، سوّاه مهندس سكة حديد كان يشتغل على رافعات موز: شال خطاطيف الموز وحط كراسي!
+    منشن واحد يخاف من التلفريك 👇
+  next: "ثلج يتسبّح بموية حارة ⛸️"
+  seo: "كيف يشتغل تلفريك الكراسي السريع: الكيبل يمشي تقريباً ٣٠٠ متر بالدقيقة، أسرع من إنك تركب عليه، فإذا دخل الكرسي المحطة تنفك ماسكته (فيها سوست) ويمشي على سكة فوق صفوف كفرات تهدّيه لين سرعة المشي وقت الركوب، وبعدين تسرّعه وترجع الماسكة تمسك الكيبل. وتنفحص قوة كل ماسكة قبل تطلع من المحطة، ولو كانت ضعيفة يوقف التلفريك. وثقل خرسانة أو نظام هيدروليكي يشد الكيبل لأنه يطوّل مع الحرارة. وأول تلفريك كراسي في العالم انفتح في صن فالي بولاية أيداهو الأمريكية في ديسمبر ١٩٣٦، صممه مهندس سكك حديد اسمه جيمس كوران من سير يحمّل الموز على السفن، وحط كراسي بدل الخطاطيف."
+  tags:
+    tiktok: "#تلفريك #تزلج #ثلج #هندسة #تعلم_على_التيك_توك"
+    instagram: "#تلفريك #تزلج #ثلج #هندسة #معلومات"
+    youtube: "#تلفريك #تزلج #هندسة"

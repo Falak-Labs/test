@@ -1,0 +1,35 @@
+episode: 108
+date: 2026-11-29
+video:
+  en: media/ep108-resurfacer-en.mp4
+  ar: media/ep108-resurfacer-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-29T19:00:00Z"    # 11:00 PT Sun Nov 29, after 107 (107's line 10 promises it)
+  title: "Ice Resurfacer: Why the Rink Gets a Hot Water Bath ⛸️"
+  text: |
+    Every hockey rink gives its ice… a hot water bath. ⛸️
+    Skates carve the ice full of grooves, so between periods a resurfacer drives an oval: a long blade shaves off a sliver thinner than a coin, a spinning screw lifts the snow into a tank, jets wash the grooves while a vacuum slurps the dirty water back up, and a towel at the back spreads hot water that freezes like glass. Why hot? It melts the top of the old ice a little, so the new layer sticks right to it. The first one was built in sunny California in 1949 by a rink owner, Frank Zamboni: about 15 minutes instead of 90 by hand.
+    Would you drive one? 👇
+  next: "an office that breathes like a termite mound 🐜"
+  seo: "How an ice resurfacer works: Frank Zamboni invented it in 1949 in Paramount, California, at his own rink, where three or four workers had spent about 90 minutes scraping, washing and squeegeeing the ice; his first machine, built on a Jeep chassis and patented in 1953, gave a clean sheet in about 15 minutes. A sharp blade shaves a thin layer off the top; a horizontal auger collects the shavings and a vertical auger lifts them into the snow tank; wash water flushes dirt from the grooves and a squeegee and vacuum pick it up; and warm water, about 140 degrees Fahrenheit (60 C), spread by a towel at the back slightly melts the surface so the new layer bonds and freezes smooth."
+  tags:
+    tiktok: "#icerink #hockey #iceskating #engineering #learnontiktok"
+    instagram: "#icerink #hockey #iceskating #engineering #howitworks"
+    youtube: "#icerink #hockey #engineering"
+ar:
+  at:
+    default: "2026-11-29T14:00:00Z"    # Instagram 06:00 PT Sun Nov 29 = 17:00 Riyadh, after 107 (03:00 PT)
+    tiktok: "2026-11-29T14:30:00Z"     # 06:30 PT: 3 h after 107's Arabic TikTok (03:30 PT), 4 h before the show's 10:30 PT
+  title: "مكينة تنعيم الثلج: ليش يسبّحون الثلج بموية حارة؟ ⛸️"
+  text: |
+    ثلج حلبات التزلج يتسبّح... بموية حارة! ⛸️
+    أحذية التزلج تخدّش الثلج كله، فتطلع مكينة تلف الحلبة: شفرة طويلة تقشّر وجهه أرق من الريال المعدني، وبريمة ترفع القشر لخزان فوق، ورشاشات تغسل الخدوش وشفاط يسحب الموية الوسخة، وفي الآخر فوطة ورا تفرد موية حارة تتجمد مثل الزجاج. ليش حارة؟ لأنها تذوّب وجه الثلج القديم شوي، فالطبقة الجديدة تلزق فيه. وأول مكينة سوّاها صاحب حلبة في كاليفورنيا اسمه فرانك زامبوني سنة ١٩٤٩: ربع ساعة بدل ساعة ونص شغل باليد.
+    منشن أمك اللي تقول: لا تشرب بارد وأنت حرّان 👇
+  next: "عمارة تتنفّس مثل بيت النمل الأبيض 🐜"
+  seo: "كيف تشتغل مكينة تنعيم الثلج: اخترعها فرانك زامبوني سنة ١٩٤٩ في كاليفورنيا في حلبته، وكان تنظيف الثلج قبلها ياخذ ثلاث أو أربع عمال حوالي ساعة ونص كشط وغسيل ومساحات؛ وأول مكينة سواها على شاصي جيب وسجّل براءتها سنة ١٩٥٣، وصارت تخلّص الحلبة في ربع ساعة تقريباً. شفرة حادة تقشّر طبقة رقيقة من الثلج، وبريمة أفقية تجمع القشر وبريمة عمودية ترفعه لخزان الثلج، وموية غسيل تطلّع الوسخ من الخدوش ويسحبها شفاط، وفي الآخر موية دافية حوالي ٦٠ درجة تفردها فوطة ورا المكينة فتذوّب وجه الثلج شوي وتلزق الطبقة الجديدة وتتجمد ناعمة."
+  tags:
+    tiktok: "#تزلج #ثلج #هوكي #هندسة #تعلم_على_التيك_توك"
+    instagram: "#تزلج #ثلج #هوكي #هندسة #معلومات"
+    youtube: "#تزلج #ثلج #هندسة"

@@ -1,0 +1,35 @@
+episode: 106
+date: 2026-11-29
+video:
+  en: media/ep106-riyadhmetro-en.mp4
+  ar: media/ep106-riyadhmetro-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-29T14:00:00Z"    # 06:00 PT Sun Nov 29, after 105 (105's line 10 promises it); Saturday already carries 100-105
+  title: "Riyadh Metro: 176 km of Trains and Not One Driver 🚇"
+  text: |
+    In Riyadh, the best seat on the train is… the driver's. 🚇
+    The Riyadh Metro has six lines, 85 stations and over 180 trains, and not one of them has a driver: computers drive every train while control rooms watch them all. Boring machines dug tunnels under the city and concrete legs lift the rest over the streets, and under the desert the diggers hit so much groundwater that it became the job's biggest challenge. Glass walls line the platforms and open only when a train's doors do. At 176 km it's the longest driverless metro on Earth.
+    Would you grab the front seat? 👇
+  next: "a chairlift that lets go of its cable 🚡"
+  seo: "How the Riyadh Metro works: Saudi Arabia's capital opened a 176-kilometer metro with 85 stations on six lines between December 2024 and January 2025, certified by Guinness World Records as the longest driverless metro network. Its trains run fully automatic with no onboard operators, overseen from central control rooms, and at peak a train arrives about every two and a half minutes. Tunnel boring machines cut through limestone under the city while precast concrete viaducts carried lines over the streets, and managing groundwater from underground aquifers was called the biggest challenge. The air-conditioned stations have platform screen doors, and the trains are sealed and filtered against desert sand."
+  tags:
+    tiktok: "#riyadhmetro #riyadh #saudiarabia #trains #engineering"
+    instagram: "#riyadhmetro #riyadh #saudiarabia #trains #engineering"
+    youtube: "#riyadhmetro #riyadh #engineering"
+ar:
+  at:
+    default: "2026-11-29T08:00:00Z"    # Instagram 00:00 PT Sun Nov 29 = 11:00 Riyadh, after 105 (15:00 PT Sat)
+    tiktok: "2026-11-29T08:30:00Z"     # 00:30 PT: 6 h after 105's Arabic TikTok (18:30 PT Sat)
+  title: "مترو الرياض: ١٧٦ كيلو وما فيه ولا سواق 🚇"
+  text: |
+    في الرياض أحلى مكان في القطار... مكان السواق! 🚇
+    مترو الرياض فيه ست خطوط و٨٥ محطة وأكثر من ١٨٠ قطار، وولا واحد منها فيه سواق: الكمبيوتر يسوقها، وغرف تحكم تراقب كل قطار. حفروا أنفاق تحت المدينة ورفعوا السكة على أعمدة خرسانة فوق الشوارع، وتحت الصحرا لقوا موية جوفية كثيرة، وكانت أصعب شي في المشروع. وعلى الرصيف جدران زجاج ما تنفتح إلا مع أبواب القطار. وطوله ١٧٦ كيلو: أطول مترو بدون سواق في العالم.
+    منشن واحد يقول إنه يسوق أحسن من الكمبيوتر 👇
+  next: "كرسي تلفريك يفك الكيبل عن قصد 🚡"
+  seo: "كيف يشتغل مترو الرياض: افتتحت الرياض مترو طوله ١٧٦ كيلومتر فيه ٨٥ محطة على ست خطوط بين ديسمبر ٢٠٢٤ ويناير ٢٠٢٥، وسجّلته موسوعة غينيس كأطول شبكة مترو بدون سائق في العالم. قطاراته تشتغل آلياً بالكامل بدون سائق، وتراقبها غرف تحكم مركزية، ووقت الذروة يجي قطار كل دقيقتين ونص تقريباً. حفرت مكائن حفر الأنفاق في الصخر الجيري تحت المدينة، وانبنت جسور خرسانية مسبقة الصب فوق الشوارع، وكانت المياه الجوفية أكبر تحدي في المشروع. المحطات مكيفة وفيها أبواب زجاجية على الرصيف، والقطارات محكمة ومفلترة ضد الرمل."
+  tags:
+    tiktok: "#مترو_الرياض #الرياض #السعودية #هندسة #تعلم_على_التيك_توك"
+    instagram: "#مترو_الرياض #الرياض #السعودية #هندسة #معلومات"
+    youtube: "#مترو_الرياض #الرياض #هندسة"
