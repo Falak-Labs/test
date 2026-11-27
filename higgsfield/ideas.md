@@ -5124,3 +5124,71 @@ Checked, nothing new
   is its only end-of-year format and is out of date now.
 - Higgsfield's Black Friday at about 04:00 PT on the day: the same pages (dio.me, both mydealz deals, kripeshadwani,
   the 14-day and 33-day Seedance posts, geo.higgsfield's plan pages); nothing moves Nov 28.
+
+## 2026-11-27 05:00 PT (hourly runner, cloud run)
+
+Build candidate (the 18:00 entry's Dec 3 lead, now read; not in LINEUP or episodes.yml)
+- A self-balancing scooter, for Thu Dec 3, 25 years since the Segway was unveiled (say "self-balancing scooter"; the
+  brand only as a name in a caption, no logo; its inventor off screen). The trick: "walking is actually a form of
+  controlled falling", and the machine keeps its wheels "directly below the user's center of gravity" (Scientific
+  American, "Power Walker", undated, written "five years after" the 2001 debut); "the rider just leans slightly
+  forward or backward" (HowStuffWorks, undated). It has "five gyroscopic sensors, though it only needs three" ("The
+  extra sensors add redundancy") and "two tilt sensors filled with electrolyte fluid", and "the controller boards
+  check the position sensors about 100 times per second" (HowStuffWorks; SciAm: "100 times a second"). Two boards:
+  "if one board breaks down, the other will take over all functions so that the system can notify the rider of a
+  failure and shut down gracefully"; "a pair of rechargeable" batteries; "Top speed: 12.5 miles per hour (20 kph)";
+  it turns by spinning "one wheel faster than the other, or ... the wheels in opposite directions" (HowStuffWorks).
+  A real break: on Sep 26 2003 "Approximately 6,000" were recalled because "particularly when the batteries are near
+  the end of charge, some Segway HTs may not deliver enough power, allowing the rider to fall", for instance when
+  "the rider speeds up abruptly, encounters an obstacle, or continues to ride after receiving a low-battery alert"
+  (three falls reported, one head injury that needed stitches); the remedy was "a free software upgrade" (CPSC alert
+  03-553, Justia's copy; NPR's short page agrees). What the upgrade changed is not said, so a script says only "a
+  software fix". A second break: the handlebar-less copies ("Segways without handlebars", "one of the hottest items"
+  of the 2015 holidays: All About Circuits, Mar 4 2016), with a motor and tilt sensors in each wheel and a gyroscope
+  "inside the foot platform" (Live Science, Mar 25 2016). On Jul 6 2016 "About 501,000" from 10 firms were recalled:
+  "The lithium-ion battery packs ... can overheat, posing a risk of the products smoking, catching fire and/or
+  exploding" ("at least 99" incidents), and CPSC had looked into "more than 60 hoverboard fires in more than 20
+  states" with "more than $2 million in property damage". They were "made and sold without a safety standard in
+  place"; the fix is UL 2272, "testing requirements ... that address the electrical system and battery pack problems"
+  (CPSC's recall page and its chairman's statement, both Jul 6 2016; the fall hazard was still open then). The end:
+  production stopped "after mid-July" 2020, about 140,000 sold "since the company was founded", "more often used on
+  city sightseeing tours" (Lonely Planet, Jul 2 2020); SciAm had "fewer than 24,000" five years in, at "$4,000 to
+  $5,500 apiece".
+  Chain: two wheels side by side tip a rider onto his nose (A2, ours) → sensors feel the lean 100 times a second and
+  the motors roll the wheels back under him, falling and catching like walking (A3) → a sensor or board fails mid-ride
+  (A4, ours: a picture of the risk) → five gyros where three would do and a second board that takes over and stops
+  gently (A5) → a nearly flat battery, not enough power to catch him (A6, the 2003 recall) → a software fix for every
+  machine (B1) → a handlebar-less board smoking and catching fire in a dark living room (B2) → a battery pack tested in
+  a lab chamber (B3) → a line of riders on a city sightseeing tour, people watching (B5). A1: at dawn in an empty city
+  square a rider on two big wheels set side by side leans forward like a falling tree, and the wheels roll under him
+  and catch him. B6: funny slow motion, a man balancing a broom upright on his palm chases it across a kitchen and
+  crashes into the fridge. Stat line: "100 TIMES A SECOND". Kept out: the deaths in Lonely Planet's piece, the film,
+  brand names on screen, riders' faces (from behind or in helmets); the famous backers' forecasts ("bigger than the
+  PC", Lonely Planet; "cities will be built around it", the Crimson) only unattributed, if at all.
+  The unveiling: on "Good Morning America" on Dec 3 2001 (This Day in Tech History; the Harvard Crimson, Dec 4 2001:
+  "Code-named Ginger", a consumer version that "will cost around $3,000" in late 2002, "about 12 miles per hour", "up
+  to 15 miles on a single electric charge", and a "$250,000 advance for a book about Ginger without even knowing what
+  the invention was"; its "100 times per minute" is a slip for per second). Neither page names the place, so a script
+  does not.
+  Timing (our count): with builds 100-105 posting Nov 28 and six a day, Dec 3 falls on about builds 130-135, so the
+  run that appends those LINEUP entries can put it there; that is after the free Seedance video ends, so it is a v2
+  or stills build unless its pair runs before Nov 28 ends. Not read: UPI's and IEEE Spectrum's pages (both waited for
+  an approval) and NPR's 2016 and 2020 pages (refused by robots.txt).
+  [Scientific American, Power Walker](https://www.scientificamerican.com/article/power-walker),
+  [HowStuffWorks, How Segways Work](https://science.howstuffworks.com/engineering/civil/ginger1.htm),
+  [CPSC alert 03-553 (Justia), Sep 26 2003](https://recalls.justia.com/operating-equipment/human-transporters/03-553),
+  [NPR, Sep 26 2003](https://www.npr.org/2003/09/26/1447863/safety-concerns-prompt-segway-recall),
+  [CPSC, recall 16-218, Jul 6 2016](https://www.cpsc.gov/Recalls/2016/self-balancing-scooters-hoverboards-recalled-by-10-firms),
+  [CPSC, chairman's statement, Jul 6 2016](https://www.cpsc.gov/about-cpsc/chairman/elliot-f-kaye/statements/chairmans-hoverboard-press-statement),
+  [Live Science, Mar 25 2016](https://www.livescience.com/53046-hoverboard-scooter-how-it-works.html),
+  [All About Circuits, Mar 4 2016](https://www.allaboutcircuits.com/news/hoverboards-how-do-they-work/),
+  [Lonely Planet, Jul 2 2020](https://www.lonelyplanet.com/articles/segway-ending-production-scooter),
+  [This Day in Tech History, Dec 3](https://thisdayintechhistory.com/12/03/segway-unveiled),
+  [Harvard Crimson, Dec 4 2001](https://www.thecrimson.com/article/2001/12/4/long-anticipated-high-tech-invention-ginger-unveiled-dean)
+
+Checked, nothing new
+- Higgsfield's Black Friday at about 04:55 PT: the same pages (dio.me, both mydealz deals, marked expired in earlier
+  entries and not reopened, pepper.pl, aimojo, the 14-day and 33-day Seedance posts, the 11.11 page, the plan-change
+  pages); nothing moves Nov 28.
+- Openings this December: a search returns the Gordie Howe bridge (open since July, Dezeen Jul 28 2026) and the
+  Tianshan Shengli expressway tunnel (Dec 26 2025), both in these notes already.
