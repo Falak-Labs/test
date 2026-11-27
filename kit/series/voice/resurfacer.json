@@ -1,941 +1,946 @@
 {
  "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
  "model": "eleven_v4",
- "tempo": 1.0313,
+ "tempo": 1.0428,
  "gap": 0.35,
- "duration": 66.003,
- "words": 164,
- "words_per_sec": 2.48,
+ "duration": 66.002,
+ "words": 165,
+ "words_per_sec": 2.5,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 4.471,
+   "end": 4.422,
    "text": "Y'all, every hockey rink gives its ice... a hot water bath.",
    "words": [
     {
      "w": "Y'all,",
-     "start": 0.155,
-     "end": 0.853
+     "start": 0.153,
+     "end": 0.844
     },
     {
      "w": "every",
-     "start": 1.086,
-     "end": 1.396
+     "start": 1.074,
+     "end": 1.381
     },
     {
      "w": "hockey",
-     "start": 1.552,
-     "end": 1.862
+     "start": 1.534,
+     "end": 1.841
     },
     {
      "w": "rink",
-     "start": 1.939,
-     "end": 2.172
+     "start": 1.918,
+     "end": 2.148
     },
     {
      "w": "gives",
-     "start": 2.25,
-     "end": 2.405
+     "start": 2.225,
+     "end": 2.378
     },
     {
      "w": "its",
-     "start": 2.482,
-     "end": 2.638
+     "start": 2.455,
+     "end": 2.608
     },
     {
      "w": "ice...",
-     "start": 2.715,
-     "end": 3.181
+     "start": 2.685,
+     "end": 3.145
     },
     {
      "w": "a",
-     "start": 3.336,
-     "end": 3.413
+     "start": 3.299,
+     "end": 3.375
     },
     {
      "w": "hot",
-     "start": 3.53,
-     "end": 3.646
+     "start": 3.491,
+     "end": 3.606
     },
     {
      "w": "water",
-     "start": 3.724,
-     "end": 4.034
+     "start": 3.682,
+     "end": 3.989
     },
     {
      "w": "bath.",
-     "start": 4.111,
-     "end": 4.732
+     "start": 4.066,
+     "end": 4.68
     }
    ]
   },
   {
    "line": 2,
-   "start": 4.811,
-   "end": 9.467,
+   "start": 4.757,
+   "end": 9.362,
    "text": "Skates carve it full of grooves. So why fix ice with hot water?",
    "words": [
     {
      "w": "Skates",
-     "start": 4.966,
-     "end": 5.276
+     "start": 4.911,
+     "end": 5.218
     },
     {
      "w": "carve",
-     "start": 5.354,
-     "end": 5.586
+     "start": 5.294,
+     "end": 5.524
     },
     {
      "w": "it",
-     "start": 5.664,
-     "end": 5.819
+     "start": 5.601,
+     "end": 5.755
     },
     {
      "w": "full",
-     "start": 5.897,
-     "end": 6.129
+     "start": 5.831,
+     "end": 6.061
     },
     {
      "w": "of",
-     "start": 6.168,
-     "end": 6.207
+     "start": 6.1,
+     "end": 6.138
     },
     {
      "w": "grooves.",
-     "start": 6.362,
-     "end": 7.138
+     "start": 6.292,
+     "end": 7.059
     },
     {
      "w": "So",
-     "start": 7.303,
-     "end": 7.458
+     "start": 7.222,
+     "end": 7.375
     },
     {
      "w": "why",
-     "start": 7.691,
-     "end": 7.923
+     "start": 7.605,
+     "end": 7.835
     },
     {
      "w": "fix",
-     "start": 8.001,
-     "end": 8.234
+     "start": 7.912,
+     "end": 8.142
     },
     {
      "w": "ice",
-     "start": 8.311,
-     "end": 8.544
+     "start": 8.219,
+     "end": 8.449
     },
     {
      "w": "with",
-     "start": 8.621,
-     "end": 8.699
+     "start": 8.526,
+     "end": 8.603
     },
     {
      "w": "hot",
-     "start": 8.815,
-     "end": 8.932
+     "start": 8.718,
+     "end": 8.833
     },
     {
      "w": "water?",
-     "start": 9.009,
-     "end": 9.63
+     "start": 8.909,
+     "end": 9.523
     }
    ]
   },
   {
    "line": 3,
-   "start": 9.806,
-   "end": 14.118,
+   "start": 9.698,
+   "end": 13.961,
    "text": "First, a long blade shaves off the top, thinner than a coin.",
    "words": [
     {
      "w": "First,",
-     "start": 10.036,
-     "end": 10.812
+     "start": 9.925,
+     "end": 10.692
     },
     {
      "w": "a",
-     "start": 10.89,
-     "end": 10.967
+     "start": 10.769,
+     "end": 10.846
     },
     {
      "w": "long",
-     "start": 11.122,
-     "end": 11.433
+     "start": 10.999,
+     "end": 11.306
     },
     {
      "w": "blade",
-     "start": 11.51,
-     "end": 11.82
+     "start": 11.383,
+     "end": 11.689
     },
     {
      "w": "shaves",
-     "start": 11.898,
-     "end": 12.131
+     "start": 11.766,
+     "end": 11.996
     },
     {
      "w": "off",
-     "start": 12.208,
-     "end": 12.364
+     "start": 12.073,
+     "end": 12.226
     },
     {
      "w": "the",
-     "start": 12.441,
-     "end": 12.519
+     "start": 12.303,
+     "end": 12.38
     },
     {
      "w": "top,",
-     "start": 12.674,
-     "end": 12.929
+     "start": 12.533,
+     "end": 12.785
     },
     {
      "w": "thinner",
-     "start": 12.965,
-     "end": 13.197
+     "start": 12.821,
+     "end": 13.051
     },
     {
      "w": "than",
-     "start": 13.275,
-     "end": 13.353
+     "start": 13.128,
+     "end": 13.205
     },
     {
      "w": "a",
-     "start": 13.43,
-     "end": 13.508
+     "start": 13.281,
+     "end": 13.358
     },
     {
      "w": "coin.",
-     "start": 13.585,
-     "end": 14.284
+     "start": 13.435,
+     "end": 14.125
     }
    ]
   },
   {
    "line": 4,
-   "start": 14.457,
-   "end": 17.188,
+   "start": 14.297,
+   "end": 16.997,
    "text": "But that leaves a pile of snow!",
    "words": [
     {
      "w": "But",
-     "start": 15.155,
-     "end": 15.31
+     "start": 14.987,
+     "end": 15.141
     },
     {
      "w": "that",
-     "start": 15.388,
-     "end": 15.543
+     "start": 15.217,
+     "end": 15.371
     },
     {
      "w": "leaves",
-     "start": 15.621,
-     "end": 15.853
+     "start": 15.447,
+     "end": 15.678
     },
     {
      "w": "a",
-     "start": 15.931,
-     "end": 16.009
+     "start": 15.754,
+     "end": 15.831
     },
     {
      "w": "pile",
-     "start": 16.164,
-     "end": 16.319
+     "start": 15.984,
+     "end": 16.138
     },
     {
      "w": "of",
-     "start": 16.396,
-     "end": 16.474
+     "start": 16.215,
+     "end": 16.291
     },
     {
      "w": "snow!",
-     "start": 16.552,
-     "end": 17.405
+     "start": 16.368,
+     "end": 17.212
     }
    ]
   },
   {
    "line": 5,
-   "start": 17.527,
-   "end": 21.311,
+   "start": 17.333,
+   "end": 21.075,
    "text": "So a spinning screw lifts the snow up into a tank.",
    "words": [
     {
      "w": "So",
-     "start": 17.76,
-     "end": 17.915
+     "start": 17.563,
+     "end": 17.716
     },
     {
      "w": "a",
-     "start": 17.993,
-     "end": 18.148
+     "start": 17.793,
+     "end": 17.946
     },
     {
      "w": "spinning",
-     "start": 18.225,
-     "end": 18.536
+     "start": 18.023,
+     "end": 18.33
     },
     {
      "w": "screw",
-     "start": 18.691,
-     "end": 19.156
+     "start": 18.483,
+     "end": 18.944
     },
     {
      "w": "lifts",
-     "start": 19.311,
-     "end": 19.622
+     "start": 19.097,
+     "end": 19.404
     },
     {
      "w": "the",
-     "start": 19.699,
-     "end": 19.777
+     "start": 19.481,
+     "end": 19.557
     },
     {
      "w": "snow",
-     "start": 19.932,
-     "end": 20.087
+     "start": 19.711,
+     "end": 19.864
     },
     {
      "w": "up",
-     "start": 20.165,
-     "end": 20.242
+     "start": 19.941,
+     "end": 20.018
     },
     {
      "w": "into",
-     "start": 20.32,
-     "end": 20.553
+     "start": 20.094,
+     "end": 20.325
     },
     {
      "w": "a",
-     "start": 20.63,
-     "end": 20.708
+     "start": 20.401,
+     "end": 20.478
     },
     {
      "w": "tank.",
-     "start": 20.785,
-     "end": 21.483
+     "start": 20.555,
+     "end": 21.245
     }
    ]
   },
   {
    "line": 6,
-   "start": 21.65,
-   "end": 24.363,
+   "start": 21.41,
+   "end": 24.093,
    "text": "But dirt still hides down in the grooves.",
    "words": [
     {
      "w": "But",
-     "start": 21.883,
-     "end": 22.038
+     "start": 21.64,
+     "end": 21.794
     },
     {
      "w": "dirt",
-     "start": 22.116,
-     "end": 22.426
+     "start": 21.87,
+     "end": 22.177
     },
     {
      "w": "still",
-     "start": 22.581,
-     "end": 22.736
+     "start": 22.331,
+     "end": 22.484
     },
     {
      "w": "hides",
-     "start": 22.814,
-     "end": 23.124
+     "start": 22.561,
+     "end": 22.868
     },
     {
      "w": "down",
-     "start": 23.241,
-     "end": 23.357
+     "start": 22.983,
+     "end": 23.098
     },
     {
      "w": "in",
-     "start": 23.434,
-     "end": 23.512
+     "start": 23.175,
+     "end": 23.251
     },
     {
      "w": "the",
-     "start": 23.551,
-     "end": 23.59
+     "start": 23.29,
+     "end": 23.328
     },
     {
      "w": "grooves.",
-     "start": 23.667,
-     "end": 24.521
+     "start": 23.405,
+     "end": 24.249
     }
    ]
   },
   {
    "line": 7,
-   "start": 24.703,
-   "end": 28.936,
+   "start": 24.429,
+   "end": 28.616,
    "text": "So jets wash it, and a vacuum slurps the dirty water up.",
    "words": [
     {
      "w": "So",
-     "start": 24.936,
-     "end": 25.091
+     "start": 24.659,
+     "end": 24.812
     },
     {
      "w": "jets",
-     "start": 25.246,
-     "end": 25.556
+     "start": 24.966,
+     "end": 25.273
     },
     {
      "w": "wash",
-     "start": 25.634,
-     "end": 25.944
+     "start": 25.349,
+     "end": 25.656
     },
     {
      "w": "it,",
-     "start": 26.022,
-     "end": 26.409
+     "start": 25.733,
+     "end": 26.117
     },
     {
      "w": "and",
-     "start": 26.487,
-     "end": 26.565
+     "start": 26.193,
+     "end": 26.27
     },
     {
      "w": "a",
-     "start": 26.603,
-     "end": 26.642
+     "start": 26.308,
+     "end": 26.347
     },
     {
      "w": "vacuum",
-     "start": 26.72,
-     "end": 27.263
+     "start": 26.423,
+     "end": 26.96
     },
     {
      "w": "slurps",
-     "start": 27.34,
-     "end": 27.806
+     "start": 27.037,
+     "end": 27.497
     },
     {
      "w": "the",
-     "start": 27.845,
-     "end": 27.883
+     "start": 27.536,
+     "end": 27.574
     },
     {
      "w": "dirty",
-     "start": 27.961,
-     "end": 28.194
+     "start": 27.651,
+     "end": 27.881
     },
     {
      "w": "water",
-     "start": 28.271,
-     "end": 28.504
+     "start": 27.958,
+     "end": 28.188
     },
     {
      "w": "up.",
-     "start": 28.582,
-     "end": 29.125
+     "start": 28.265,
+     "end": 28.802
     }
    ]
   },
   {
    "line": 8,
-   "start": 29.276,
-   "end": 31.801,
+   "start": 28.951,
+   "end": 31.448,
    "text": "But the ice is still bumpy.",
    "words": [
     {
      "w": "But",
-     "start": 29.844,
-     "end": 29.999
+     "start": 29.513,
+     "end": 29.667
     },
     {
      "w": "the",
-     "start": 30.077,
-     "end": 30.154
+     "start": 29.743,
+     "end": 29.82
     },
     {
      "w": "ice",
-     "start": 30.232,
-     "end": 30.465
+     "start": 29.897,
+     "end": 30.127
     },
     {
      "w": "is",
-     "start": 30.542,
-     "end": 30.697
+     "start": 30.204,
+     "end": 30.357
     },
     {
      "w": "still",
-     "start": 30.775,
-     "end": 31.085
+     "start": 30.434,
+     "end": 30.741
     },
     {
      "w": "bumpy.",
-     "start": 31.24,
-     "end": 32.016
+     "start": 30.894,
+     "end": 31.661
     }
    ]
   },
   {
    "line": 9,
-   "start": 32.14,
-   "end": 37.16,
-   "text": "So a towel at the back spreads hot water... and it freezes like glass.",
+   "start": 31.784,
+   "end": 37.48,
+   "text": "So a towel at the back spreads water... hot water! And it freezes like glass.",
    "words": [
     {
      "w": "So",
-     "start": 32.351,
-     "end": 32.506
+     "start": 32.014,
+     "end": 32.167
     },
     {
      "w": "a",
-     "start": 32.583,
-     "end": 32.739
+     "start": 32.244,
+     "end": 32.398
     },
     {
      "w": "towel",
-     "start": 32.816,
-     "end": 33.126
+     "start": 32.474,
+     "end": 32.781
     },
     {
      "w": "at",
-     "start": 33.204,
-     "end": 33.282
+     "start": 32.858,
+     "end": 32.935
     },
     {
      "w": "the",
-     "start": 33.359,
-     "end": 33.437
+     "start": 33.011,
+     "end": 33.088
     },
     {
      "w": "back",
-     "start": 33.514,
-     "end": 33.747
+     "start": 33.165,
+     "end": 33.395
     },
     {
      "w": "spreads",
-     "start": 33.825,
-     "end": 34.135
-    },
-    {
-     "w": "hot",
-     "start": 34.213,
-     "end": 34.445
+     "start": 33.472,
+     "end": 33.778
     },
     {
      "w": "water...",
-     "start": 34.523,
-     "end": 35.221
+     "start": 33.932,
+     "end": 34.469
     },
     {
-     "w": "and",
-     "start": 35.299,
-     "end": 35.376
+     "w": "hot",
+     "start": 34.622,
+     "end": 34.853
+    },
+    {
+     "w": "water!",
+     "start": 34.929,
+     "end": 35.457
+    },
+    {
+     "w": "And",
+     "start": 35.639,
+     "end": 35.716
     },
     {
      "w": "it",
-     "start": 35.493,
-     "end": 35.609
+     "start": 35.831,
+     "end": 35.946
     },
     {
      "w": "freezes",
-     "start": 35.725,
-     "end": 36.074
+     "start": 36.022,
+     "end": 36.406
     },
     {
      "w": "like",
-     "start": 36.152,
-     "end": 36.385
+     "start": 36.483,
+     "end": 36.713
     },
     {
      "w": "glass.",
-     "start": 36.695,
-     "end": 37.238
+     "start": 37.02,
+     "end": 37.557
     }
    ]
   },
   {
    "line": 10,
-   "start": 37.5,
-   "end": 42.547,
+   "start": 37.816,
+   "end": 42.808,
    "text": "Hit follow, 'cause next we're building an office that breathes like a termite mound.",
    "words": [
     {
      "w": "Hit",
-     "start": 37.655,
-     "end": 37.81
+     "start": 37.969,
+     "end": 38.122
     },
     {
      "w": "follow,",
-     "start": 37.965,
-     "end": 38.586
+     "start": 38.276,
+     "end": 38.89
     },
     {
      "w": "'cause",
-     "start": 38.741,
-     "end": 38.974
+     "start": 39.043,
+     "end": 39.273
     },
     {
      "w": "next",
-     "start": 39.051,
-     "end": 39.362
+     "start": 39.35,
+     "end": 39.657
     },
     {
      "w": "we're",
-     "start": 39.517,
-     "end": 39.672
+     "start": 39.81,
+     "end": 39.964
     },
     {
      "w": "building",
-     "start": 39.827,
-     "end": 39.982
+     "start": 40.117,
+     "end": 40.27
     },
     {
      "w": "an",
-     "start": 40.06,
-     "end": 40.137
+     "start": 40.347,
+     "end": 40.424
     },
     {
      "w": "office",
-     "start": 40.215,
-     "end": 40.525
+     "start": 40.501,
+     "end": 40.807
     },
     {
      "w": "that",
-     "start": 40.642,
-     "end": 40.758
+     "start": 40.923,
+     "end": 41.038
     },
     {
      "w": "breathes",
-     "start": 40.836,
-     "end": 41.146
+     "start": 41.114,
+     "end": 41.421
     },
     {
      "w": "like",
-     "start": 41.223,
-     "end": 41.301
+     "start": 41.498,
+     "end": 41.575
     },
     {
      "w": "a",
-     "start": 41.534,
-     "end": 41.637
+     "start": 41.805,
+     "end": 41.907
     },
     {
      "w": "termite",
-     "start": 41.74,
-     "end": 41.999
+     "start": 42.009,
+     "end": 42.265
     },
     {
      "w": "mound.",
-     "start": 42.077,
-     "end": 42.542
+     "start": 42.342,
+     "end": 42.802
     }
    ]
   },
   {
    "line": 11,
-   "start": 42.886,
-   "end": 49.087,
+   "start": 43.143,
+   "end": 49.275,
    "text": "The answer? Hot water melts the top of the old ice a bit, so the new layer sticks right on.",
    "words": [
     {
      "w": "The",
-     "start": 43.119,
-     "end": 43.274
+     "start": 43.374,
+     "end": 43.527
     },
     {
      "w": "answer?",
-     "start": 43.352,
-     "end": 43.934
+     "start": 43.604,
+     "end": 44.179
     },
     {
      "w": "Hot",
-     "start": 44.05,
-     "end": 44.205
+     "start": 44.294,
+     "end": 44.448
     },
     {
      "w": "water",
-     "start": 44.283,
-     "end": 44.515
+     "start": 44.524,
+     "end": 44.754
     },
     {
      "w": "melts",
-     "start": 44.593,
-     "end": 44.826
+     "start": 44.831,
+     "end": 45.061
     },
     {
      "w": "the",
-     "start": 44.903,
-     "end": 44.981
+     "start": 45.138,
+     "end": 45.215
     },
     {
      "w": "top",
-     "start": 45.058,
-     "end": 45.214
+     "start": 45.291,
+     "end": 45.445
     },
     {
      "w": "of",
-     "start": 45.291,
-     "end": 45.369
+     "start": 45.522,
+     "end": 45.598
     },
     {
      "w": "the",
-     "start": 45.446,
-     "end": 45.524
+     "start": 45.675,
+     "end": 45.752
     },
     {
      "w": "old",
-     "start": 45.602,
-     "end": 45.757
+     "start": 45.828,
+     "end": 45.982
     },
     {
      "w": "ice",
-     "start": 45.834,
-     "end": 46.067
+     "start": 46.059,
+     "end": 46.289
     },
     {
      "w": "a",
-     "start": 46.106,
-     "end": 46.145
+     "start": 46.327,
+     "end": 46.365
     },
     {
      "w": "bit,",
-     "start": 46.222,
-     "end": 46.532
+     "start": 46.442,
+     "end": 46.749
     },
     {
      "w": "so",
-     "start": 47.075,
-     "end": 47.153
+     "start": 47.286,
+     "end": 47.363
     },
     {
      "w": "the",
-     "start": 47.231,
-     "end": 47.308
+     "start": 47.439,
+     "end": 47.516
     },
     {
      "w": "new",
-     "start": 47.386,
-     "end": 47.541
+     "start": 47.593,
+     "end": 47.746
     },
     {
      "w": "layer",
-     "start": 47.618,
-     "end": 47.851
+     "start": 47.823,
+     "end": 48.053
     },
     {
      "w": "sticks",
-     "start": 47.929,
-     "end": 48.239
+     "start": 48.13,
+     "end": 48.437
     },
     {
      "w": "right",
-     "start": 48.394,
-     "end": 48.627
+     "start": 48.59,
+     "end": 48.82
     },
     {
      "w": "on.",
-     "start": 48.705,
-     "end": 49.248
+     "start": 48.897,
+     "end": 49.434
     }
    ]
   },
   {
    "line": 12,
-   "start": 49.426,
-   "end": 55.13,
+   "start": 49.611,
+   "end": 55.25,
    "text": "Nineteen forty-nine, sunny California, and fifteen minutes instead of ninety by hand.",
    "words": [
     {
      "w": "Nineteen",
-     "start": 49.581,
-     "end": 50.008
+     "start": 49.764,
+     "end": 50.186
     },
     {
      "w": "forty-nine,",
-     "start": 50.124,
-     "end": 50.861
+     "start": 50.301,
+     "end": 51.03
     },
     {
      "w": "sunny",
-     "start": 50.977,
-     "end": 51.288
+     "start": 51.145,
+     "end": 51.452
     },
     {
      "w": "California,",
-     "start": 51.637,
-     "end": 52.141
+     "start": 51.797,
+     "end": 52.296
     },
     {
      "w": "and",
-     "start": 52.296,
-     "end": 52.529
+     "start": 52.449,
+     "end": 52.679
     },
     {
      "w": "fifteen",
-     "start": 52.607,
-     "end": 53.072
+     "start": 52.756,
+     "end": 53.216
     },
     {
      "w": "minutes",
-     "start": 53.227,
-     "end": 53.382
+     "start": 53.37,
+     "end": 53.523
     },
     {
      "w": "instead",
-     "start": 53.46,
-     "end": 53.77
+     "start": 53.6,
+     "end": 53.907
     },
     {
      "w": "of",
-     "start": 53.848,
-     "end": 53.925
+     "start": 53.983,
+     "end": 54.06
     },
     {
      "w": "ninety",
-     "start": 54.003,
-     "end": 54.391
+     "start": 54.137,
+     "end": 54.52
     },
     {
      "w": "by",
-     "start": 54.468,
-     "end": 54.623
+     "start": 54.597,
+     "end": 54.75
     },
     {
      "w": "hand.",
-     "start": 54.701,
-     "end": 55.322
+     "start": 54.827,
+     "end": 55.441
     }
    ]
   },
   {
    "line": 13,
-   "start": 55.469,
-   "end": 59.126,
+   "start": 55.586,
+   "end": 59.202,
    "text": "And congrats, you just built an ice resurfacer yourself.",
    "words": [
     {
      "w": "And",
-     "start": 55.524,
-     "end": 55.679
+     "start": 55.641,
+     "end": 55.795
     },
     {
      "w": "congrats,",
-     "start": 55.796,
-     "end": 56.61
+     "start": 55.91,
+     "end": 56.715
     },
     {
      "w": "you",
-     "start": 56.766,
-     "end": 56.921
+     "start": 56.869,
+     "end": 57.022
     },
     {
      "w": "just",
-     "start": 56.998,
-     "end": 57.153
+     "start": 57.099,
+     "end": 57.252
     },
     {
      "w": "built",
-     "start": 57.27,
-     "end": 57.386
+     "start": 57.367,
+     "end": 57.482
     },
     {
      "w": "an",
-     "start": 57.464,
-     "end": 57.541
+     "start": 57.559,
+     "end": 57.636
     },
     {
      "w": "ice",
-     "start": 57.619,
-     "end": 57.774
+     "start": 57.713,
+     "end": 57.866
     },
     {
      "w": "resurfacer",
-     "start": 57.852,
-     "end": 58.472
+     "start": 57.943,
+     "end": 58.556
     },
     {
      "w": "yourself.",
-     "start": 58.589,
-     "end": 59.326
+     "start": 58.671,
+     "end": 59.4
     }
    ]
   },
   {
    "line": 14,
-   "start": 59.465,
+   "start": 59.537,
    "end": 66.0,
    "text": "A packed arena cheers a machine for mopping... nobody claps when you mop the kitchen.",
    "words": [
     {
      "w": "A",
-     "start": 59.775,
-     "end": 60.163
+     "start": 59.844,
+     "end": 60.228
     },
     {
      "w": "packed",
-     "start": 60.241,
-     "end": 60.706
+     "start": 60.305,
+     "end": 60.765
     },
     {
      "w": "arena",
-     "start": 60.784,
-     "end": 61.172
+     "start": 60.842,
+     "end": 61.225
     },
     {
      "w": "cheers",
-     "start": 61.249,
-     "end": 61.637
+     "start": 61.302,
+     "end": 61.685
     },
     {
      "w": "a",
-     "start": 61.676,
-     "end": 61.715
+     "start": 61.724,
+     "end": 61.762
     },
     {
      "w": "machine",
-     "start": 61.792,
-     "end": 62.258
+     "start": 61.839,
+     "end": 62.299
     },
     {
      "w": "for",
-     "start": 62.335,
-     "end": 62.491
+     "start": 62.376,
+     "end": 62.529
     },
     {
      "w": "mopping...",
-     "start": 62.646,
-     "end": 63.654
+     "start": 62.683,
+     "end": 63.68
     },
     {
      "w": "nobody",
-     "start": 63.732,
-     "end": 64.197
+     "start": 63.757,
+     "end": 64.217
     },
     {
      "w": "claps",
-     "start": 64.275,
-     "end": 64.663
+     "start": 64.294,
+     "end": 64.677
     },
     {
      "w": "when",
-     "start": 64.74,
-     "end": 64.818
+     "start": 64.754,
+     "end": 64.831
     },
     {
      "w": "you",
-     "start": 64.857,
-     "end": 64.895
+     "start": 64.869,
+     "end": 64.907
     },
     {
      "w": "mop",
-     "start": 64.973,
-     "end": 65.206
+     "start": 64.984,
+     "end": 65.214
     },
     {
      "w": "the",
-     "start": 65.283,
-     "end": 65.361
+     "start": 65.291,
+     "end": 65.368
     },
     {
      "w": "kitchen.",
-     "start": 65.4,
-     "end": 66.137
+     "start": 65.406,
+     "end": 66.135
     }
    ]
   }
