@@ -4280,3 +4280,66 @@ Checked, nothing new
   pepper.pl, the 11.11, "14 days", "33 days" and plan-change pages), so Nov 28 stands.
   [NPR, Dec 2 2025](https://www.npr.org/2025/12/02/nx-s1-5629186/youtube-2025-trends-videos-music-creators),
   [TikTok newsroom, Jan 14 2026](https://newsroom.tiktok.com/introducing-tiktok-next-2026-our-trend-forecast-for-marketers-for-the-year-ahead?lang=en)
+
+## 2026-11-26 18:00 PT (hourly runner, cloud run)
+
+December dates (new to these notes: no Voyager, EBR-I or Segway line yet)
+- Wed Dec 23, 40 years since the Rutan Voyager landed from the first flight around the world with no stop and no
+  refuel, a candidate build for that day (not in LINEUP, never built). It "took off from Edwards Air Force Base on
+  December 14" and "carried more than three times its weight in fuel" (History.com); HistoryNet gives "7,011.5
+  pounds" of fuel in a "9,694.5 pounds" takeoff weight on an airframe of "939 pounds" (our sum: fuel about 72 % of the
+  takeoff weight). Beats read today: the wings "were so heavy with fuel that their tips scraped along the ground"
+  (History.com) and "were soon shed", and it "lifted off 14,200 feet down the runway, a mere 800 feet from the end"
+  (HistoryNet); built of "layers of carbon-fiber tape and paper impregnated with epoxy resin", wingspan "111 feet"
+  (History.com; HistoryNet says 110, so say "about 110 feet"); it cruised "on the rear engine, to conserve fuel"
+  (HistoryNet); "two tropical storms in the Pacific" (History.com) and a South Atlantic storm that "tossed Voyager
+  like a cork" (HistoryNet); on Dec 23 "the engine it was using went out, and the aircraft plunged from 8,500 to 5,000
+  feet" (History.com) until the other one "coughed to life" (HistoryNet); it landed at Edwards "after flying 25,012
+  miles" (History.com; check it against the FAI record before a stat line) with "just five gallons of fuel left in
+  its remaining operational fuel tank" (History.com; HistoryNet: "little more than 108 pounds (18 gallons)", about
+  1.5 % of the fuel). The time differs by a minute ("nine days and four minutes", History.com; "nine days and three
+  minutes", HistoryNet): say "just over nine days". It is "on permanent display at the National Air and Space Museum
+  in Washington, D.C." (History.com). The two pilots were real people: the plane in every shot, people only from
+  behind. Free proof still for B5 or the stat line: NASA's EC87-0029-02, "Voyager aircraft return from non-stop trip
+  around the world" ("The Voyager aircraft circles before landing at Edwards Air Force Base", "December 23, 1986",
+  "Image Credit: NASA/Thomas Harrop", a Download link to the full-size JPG); NASA's two pages give no licence line
+  (only a link to its usage guidelines), and DVIDS' copy (NIX-EC87-0029-02) is marked "PUBLIC DOMAIN" (its "Date
+  Taken: 09.23.2009" is the upload, not the flight). Credit "NASA/Thomas Harrop"; the full-size picture was not
+  opened, so look at it before use. Not free: HistoryNet's ("©Mark Greenberg", "AP Photo"); the Smithsonian's pages
+  refuse automated reads (robots.txt) and Wikipedia's waited for an approval no one was there to give. Clips need a
+  LINEUP slot and a queue pair before Nov 28, like the other December dates.
+  [History.com, Dec 23](https://www.history.com/this-day-in-history/december-23/voyager-completes-global-flight),
+  [HistoryNet](https://www.historynet.com/nonstop-voyage-around-the-world/),
+  [NASA, EC87-0029-02](https://www.nasa.gov/image-detail/amf-ec87-0029-02),
+  [NASA, Voyager](https://www.nasa.gov/image-article/voyager/),
+  [DVIDS, 739309](https://www.dvidshub.net/image/739309/voyager-aircraft-return-non-stop-trip-around-world)
+- Sun Dec 20, 75 years since EBR-I in Idaho made the first usable electricity from nuclear fission, a candidate build
+  (not in LINEUP, never built): "At 1:23 p.m. on that date in 1951, nuclear power provided a generator with enough
+  electricity to light four 200-watt bulbs" (INL; ANS quotes the log at 1:23, Smithsonian says 1:50: say "that
+  afternoon"), and "The next day, the EBR-I's output reached 100 kilowatts, powering all the electronics in the
+  building" (Smithsonian, which calls the electricity "merely 'incidental'" to the experiment). It was "a liquid
+  metal-cooled fast reactor designed to demonstrate that it could create more fuel than it consumed", cooled by "the
+  sodium-potassium alloy" (DOE), and INL calls it "the first reactor to demonstrate" that (no date on these pages). A
+  break: "During a coolant flow test, EBR-I suffered an unexpected partial core meltdown" (DOE; no date or detail
+  here: check it before scripting, and tell it plainly). Now a National Historic Landmark (1966, DOE) "between Idaho
+  Falls and Arco", with "free guided or self-guided tours every summer from Memorial Day to Labor Day" (INL), so a
+  December B5 has no visitors; INL opened it on the 65th ("Tuesday, Dec. 20", "from 10 a.m. to 3 p.m.", 2016), and
+  nothing about the 75th was found: look again in mid-December. Power only, no weapons talk; the hook is the four
+  bulbs. Proof still not settled: the four-bulb photo is credited "(Photo: DOE)" (ANS) and "Argonne National
+  Laboratory via Flickr" (Smithsonian), with no licence line read (a contractor-run lab: do not assume public domain;
+  read the Flickr page's licence first); ANS's "EBR-1 in Photos" is Will Davis' own collection under "© Copyright
+  2026 American Nuclear Society", so not that. Wikipedia's page was not read (the same approval wait).
+  [DOE, 9 notable facts](https://www.energy.gov/ne/articles/9-notable-facts-about-world-s-first-nuclear-power-plant-ebr-i),
+  [Smithsonian, Dec 20](https://www.smithsonianmag.com/smart-news/on-this-day-in-1951-four-illuminated-lightbulbs-in-idaho-were-evidence-of-the-first-time-a-nuclear-power-plant-generated-electricity-180985710/),
+  [ANS](https://www.ans.org/news/article-4609/the-legacy-of-experimental-breeder-reactori),
+  [INL, 65th anniversary](https://inl.gov/?p=1089),
+  [ANS, EBR-1 in Photos](https://www.ans.org/news/article-2096/ebr-1-in-photos)
+- Thu Dec 3, 25 years since the Segway was unveiled: a lead for a self-balancing build (say "self-balancing scooter",
+  the brand only as a name), not researched; titles seen in a search, not read: UPI's "Secret gizmo is mind-driven
+  scooter" (Dec 3 2001) and IEEE Spectrum's "The Segway is dead but its technology and vision lives on".
+  [UPI, Dec 3 2001](https://www.upi.com/Science_News/2001/12/03/Secret-gizmo-is-mind-driven-scooter/89411007412305/?sl=1),
+  [IEEE Spectrum](https://spectrum.ieee.org/the-segway-is-dead-but-its-technology-and-vision-lives-on)
+
+Checked, nothing new
+- A search for this December's short-form trends in science explainers returned vendor listicles (ShortGenius,
+  Kineclip, Klap; not read) and Dazed's Sep 10 "explainer" piece, already in these notes.
