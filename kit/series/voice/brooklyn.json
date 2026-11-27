@@ -3,9 +3,9 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 66.147,
+ "duration": 66.344,
  "words": 160,
- "words_per_sec": 2.42,
+ "words_per_sec": 2.41,
  "lines": [
   {
    "line": 1,
@@ -68,854 +68,854 @@
   {
    "line": 2,
    "start": 5.223,
-   "end": 9.108,
-   "text": "Its designer died before work even started. So who finished it?",
+   "end": 9.288,
+   "text": "Its engineer died before work even started. So who finished it?",
    "words": [
     {
      "w": "Its",
-     "start": 5.295,
+     "start": 5.366,
      "end": 5.509
     },
     {
-     "w": "designer",
+     "w": "engineer",
      "start": 5.58,
-     "end": 6.08
+     "end": 6.009
     },
     {
      "w": "died",
      "start": 6.152,
-     "end": 6.366
+     "end": 6.437
     },
     {
      "w": "before",
      "start": 6.509,
-     "end": 6.652
+     "end": 6.723
     },
     {
      "w": "work",
-     "start": 6.723,
-     "end": 6.937
+     "start": 6.866,
+     "end": 7.009
     },
     {
      "w": "even",
      "start": 7.08,
-     "end": 7.223
+     "end": 7.295
     },
     {
      "w": "started.",
-     "start": 7.473,
-     "end": 7.964
+     "start": 7.366,
+     "end": 8.009
     },
     {
      "w": "So",
-     "start": 8.143,
-     "end": 8.321
+     "start": 8.152,
+     "end": 8.295
     },
     {
      "w": "who",
-     "start": 8.393,
-     "end": 8.536
+     "start": 8.509,
+     "end": 8.652
     },
     {
      "w": "finished",
-     "start": 8.714,
-     "end": 8.893
+     "start": 8.723,
+     "end": 9.08
     },
     {
      "w": "it?",
-     "start": 8.964,
-     "end": 9.321
+     "start": 9.152,
+     "end": 9.509
     }
    ]
   },
   {
    "line": 3,
-   "start": 9.421,
-   "end": 13.864,
+   "start": 9.601,
+   "end": 14.045,
    "text": "So his son took over, sinking giant wooden boxes to the riverbed.",
    "words": [
     {
      "w": "So",
-     "start": 9.693,
-     "end": 9.836
+     "start": 9.873,
+     "end": 10.016
     },
     {
      "w": "his",
-     "start": 9.907,
-     "end": 10.121
+     "start": 10.087,
+     "end": 10.302
     },
     {
      "w": "son",
-     "start": 10.193,
-     "end": 10.407
+     "start": 10.373,
+     "end": 10.588
     },
     {
      "w": "took",
-     "start": 10.479,
-     "end": 10.621
+     "start": 10.659,
+     "end": 10.802
     },
     {
      "w": "over,",
-     "start": 10.693,
-     "end": 11.264
+     "start": 10.873,
+     "end": 11.445
     },
     {
      "w": "sinking",
-     "start": 11.336,
-     "end": 11.693
+     "start": 11.516,
+     "end": 11.873
     },
     {
      "w": "giant",
-     "start": 11.836,
-     "end": 12.193
+     "start": 12.016,
+     "end": 12.373
     },
     {
      "w": "wooden",
-     "start": 12.264,
-     "end": 12.479
+     "start": 12.445,
+     "end": 12.659
     },
     {
      "w": "boxes",
-     "start": 12.55,
-     "end": 12.907
+     "start": 12.73,
+     "end": 13.087
     },
     {
      "w": "to",
-     "start": 12.979,
-     "end": 13.05
+     "start": 13.159,
+     "end": 13.23
     },
     {
      "w": "the",
-     "start": 13.121,
-     "end": 13.157
+     "start": 13.302,
+     "end": 13.337
     },
     {
      "w": "riverbed.",
-     "start": 13.193,
-     "end": 14.05
+     "start": 13.373,
+     "end": 14.23
     }
    ]
   },
   {
    "line": 4,
-   "start": 14.177,
-   "end": 17.374,
+   "start": 14.357,
+   "end": 17.554,
    "text": "But river water rushes in from below!",
    "words": [
     {
      "w": "But",
-     "start": 14.864,
-     "end": 15.007
+     "start": 15.045,
+     "end": 15.188
     },
     {
      "w": "river",
-     "start": 15.15,
-     "end": 15.364
+     "start": 15.33,
+     "end": 15.545
     },
     {
      "w": "water",
-     "start": 15.436,
-     "end": 15.721
+     "start": 15.616,
+     "end": 15.902
     },
     {
      "w": "rushes",
-     "start": 15.936,
-     "end": 16.293
+     "start": 16.116,
+     "end": 16.473
     },
     {
      "w": "in",
-     "start": 16.364,
-     "end": 16.507
+     "start": 16.545,
+     "end": 16.688
     },
     {
      "w": "from",
-     "start": 16.579,
-     "end": 16.721
+     "start": 16.759,
+     "end": 16.902
     },
     {
      "w": "below!",
-     "start": 16.793,
-     "end": 17.579
+     "start": 16.973,
+     "end": 17.759
     }
    ]
   },
   {
    "line": 5,
-   "start": 17.687,
-   "end": 22.071,
+   "start": 17.867,
+   "end": 22.251,
    "text": "So pumped-in air pushes the water out, and men dig inside.",
    "words": [
     {
      "w": "So",
-     "start": 17.901,
-     "end": 18.115
+     "start": 18.081,
+     "end": 18.296
     },
     {
      "w": "pumped-in",
-     "start": 18.258,
-     "end": 18.687
+     "start": 18.438,
+     "end": 18.867
     },
     {
      "w": "air",
-     "start": 18.829,
-     "end": 19.044
+     "start": 19.01,
+     "end": 19.224
     },
     {
      "w": "pushes",
-     "start": 19.187,
-     "end": 19.544
+     "start": 19.367,
+     "end": 19.724
     },
     {
      "w": "the",
-     "start": 19.615,
-     "end": 19.687
+     "start": 19.796,
+     "end": 19.867
     },
     {
      "w": "water",
-     "start": 19.829,
-     "end": 19.972
+     "start": 20.01,
+     "end": 20.153
     },
     {
      "w": "out,",
-     "start": 20.044,
-     "end": 20.365
+     "start": 20.224,
+     "end": 20.546
     },
     {
      "w": "and",
-     "start": 20.544,
-     "end": 20.687
+     "start": 20.724,
+     "end": 20.867
     },
     {
      "w": "men",
-     "start": 20.758,
-     "end": 21.044
+     "start": 20.938,
+     "end": 21.224
     },
     {
      "w": "dig",
-     "start": 21.187,
-     "end": 21.329
+     "start": 21.367,
+     "end": 21.51
     },
     {
      "w": "inside.",
-     "start": 21.401,
-     "end": 22.187
+     "start": 21.581,
+     "end": 22.367
     }
    ]
   },
   {
    "line": 6,
-   "start": 22.383,
-   "end": 26.606,
+   "start": 22.563,
+   "end": 26.787,
    "text": "But climb out too fast, and you get the bends. Even the boss got them!",
    "words": [
     {
      "w": "But",
-     "start": 22.526,
-     "end": 22.669
+     "start": 22.706,
+     "end": 22.849
     },
     {
      "w": "climb",
-     "start": 22.74,
-     "end": 22.954
+     "start": 22.921,
+     "end": 23.135
     },
     {
      "w": "out",
-     "start": 23.026,
-     "end": 23.169
+     "start": 23.206,
+     "end": 23.349
     },
     {
      "w": "too",
-     "start": 23.276,
-     "end": 23.383
+     "start": 23.456,
+     "end": 23.563
     },
     {
      "w": "fast,",
-     "start": 23.597,
-     "end": 23.847
+     "start": 23.778,
+     "end": 24.028
     },
     {
      "w": "and",
-     "start": 23.883,
-     "end": 24.026
+     "start": 24.063,
+     "end": 24.206
     },
     {
      "w": "you",
-     "start": 24.097,
-     "end": 24.24
+     "start": 24.278,
+     "end": 24.421
     },
     {
      "w": "get",
-     "start": 24.312,
-     "end": 24.383
+     "start": 24.492,
+     "end": 24.563
     },
     {
      "w": "the",
-     "start": 24.49,
-     "end": 24.597
+     "start": 24.671,
+     "end": 24.778
     },
     {
      "w": "bends.",
-     "start": 24.633,
-     "end": 25.303
+     "start": 24.813,
+     "end": 25.483
     },
     {
      "w": "Even",
-     "start": 25.41,
-     "end": 25.517
+     "start": 25.59,
+     "end": 25.697
     },
     {
      "w": "the",
-     "start": 25.588,
-     "end": 25.66
+     "start": 25.769,
+     "end": 25.84
     },
     {
      "w": "boss",
-     "start": 25.803,
-     "end": 25.946
+     "start": 25.983,
+     "end": 26.126
     },
     {
      "w": "got",
-     "start": 26.017,
-     "end": 26.231
+     "start": 26.197,
+     "end": 26.412
     },
     {
      "w": "them!",
-     "start": 26.303,
-     "end": 26.606
+     "start": 26.483,
+     "end": 26.787
     }
    ]
   },
   {
    "line": 7,
-   "start": 26.919,
-   "end": 30.814,
+   "start": 27.099,
+   "end": 30.995,
    "text": "So he ran the job from his bed, watching through a telescope.",
    "words": [
     {
      "w": "So",
-     "start": 27.101,
-     "end": 27.244
+     "start": 27.281,
+     "end": 27.424
     },
     {
      "w": "he",
-     "start": 27.315,
-     "end": 27.529
+     "start": 27.496,
+     "end": 27.71
     },
     {
      "w": "ran",
-     "start": 27.637,
-     "end": 27.744
+     "start": 27.817,
+     "end": 27.924
     },
     {
      "w": "the",
-     "start": 27.815,
-     "end": 27.887
+     "start": 27.996,
+     "end": 28.067
     },
     {
      "w": "job",
-     "start": 27.958,
-     "end": 28.172
+     "start": 28.138,
+     "end": 28.353
     },
     {
      "w": "from",
-     "start": 28.244,
-     "end": 28.315
+     "start": 28.424,
+     "end": 28.496
     },
     {
      "w": "his",
-     "start": 28.387,
-     "end": 28.601
+     "start": 28.567,
+     "end": 28.781
     },
     {
      "w": "bed,",
-     "start": 28.672,
-     "end": 29.199
+     "start": 28.853,
+     "end": 29.379
     },
     {
      "w": "watching",
-     "start": 29.378,
-     "end": 29.735
+     "start": 29.558,
+     "end": 29.915
     },
     {
      "w": "through",
-     "start": 29.806,
-     "end": 29.878
+     "start": 29.987,
+     "end": 30.058
     },
     {
      "w": "a",
-     "start": 29.949,
-     "end": 30.021
+     "start": 30.129,
+     "end": 30.201
     },
     {
      "w": "telescope.",
-     "start": 30.092,
-     "end": 30.949
+     "start": 30.272,
+     "end": 31.129
     }
    ]
   },
   {
    "line": 8,
-   "start": 31.127,
-   "end": 34.797,
+   "start": 31.307,
+   "end": 34.978,
    "text": "But a crook sold them bad wire for the cables!",
    "words": [
     {
      "w": "But",
-     "start": 31.825,
-     "end": 31.968
+     "start": 32.005,
+     "end": 32.148
     },
     {
      "w": "a",
-     "start": 32.004,
-     "end": 32.039
+     "start": 32.184,
+     "end": 32.22
     },
     {
      "w": "crook",
-     "start": 32.182,
-     "end": 32.468
+     "start": 32.362,
+     "end": 32.648
     },
     {
      "w": "sold",
-     "start": 32.539,
-     "end": 32.754
+     "start": 32.72,
+     "end": 32.934
     },
     {
      "w": "them",
-     "start": 32.861,
-     "end": 32.968
+     "start": 33.041,
+     "end": 33.148
     },
     {
      "w": "bad",
-     "start": 33.039,
-     "end": 33.325
+     "start": 33.22,
+     "end": 33.505
     },
     {
      "w": "wire",
-     "start": 33.468,
-     "end": 33.754
+     "start": 33.648,
+     "end": 33.934
     },
     {
      "w": "for",
-     "start": 33.825,
-     "end": 33.896
+     "start": 34.005,
+     "end": 34.077
     },
     {
      "w": "the",
-     "start": 33.968,
-     "end": 34.039
+     "start": 34.148,
+     "end": 34.22
     },
     {
      "w": "cables!",
-     "start": 34.111,
-     "end": 34.968
+     "start": 34.291,
+     "end": 35.148
     }
    ]
   },
   {
    "line": 9,
-   "start": 35.11,
-   "end": 38.811,
+   "start": 35.29,
+   "end": 38.991,
    "text": "So they added a hundred fifty extra wires to every cable.",
    "words": [
     {
      "w": "So",
-     "start": 35.251,
-     "end": 35.394
+     "start": 35.431,
+     "end": 35.574
     },
     {
      "w": "they",
-     "start": 35.465,
-     "end": 35.608
+     "start": 35.646,
+     "end": 35.788
     },
     {
      "w": "added",
-     "start": 35.679,
-     "end": 35.894
+     "start": 35.86,
+     "end": 36.074
     },
     {
      "w": "a",
-     "start": 35.965,
-     "end": 36.037
+     "start": 36.146,
+     "end": 36.217
     },
     {
      "w": "hundred",
-     "start": 36.108,
-     "end": 36.322
+     "start": 36.288,
+     "end": 36.503
     },
     {
      "w": "fifty",
-     "start": 36.465,
-     "end": 36.679
+     "start": 36.646,
+     "end": 36.86
     },
     {
      "w": "extra",
-     "start": 36.894,
-     "end": 37.179
+     "start": 37.074,
+     "end": 37.36
     },
     {
      "w": "wires",
-     "start": 37.251,
-     "end": 37.608
+     "start": 37.431,
+     "end": 37.788
     },
     {
      "w": "to",
-     "start": 37.679,
-     "end": 37.894
+     "start": 37.86,
+     "end": 38.074
     },
     {
      "w": "every",
-     "start": 37.965,
-     "end": 38.251
+     "start": 38.146,
+     "end": 38.431
     },
     {
      "w": "cable.",
-     "start": 38.287,
-     "end": 38.894
+     "start": 38.467,
+     "end": 39.074
     }
    ]
   },
   {
    "line": 10,
-   "start": 39.123,
-   "end": 43.737,
+   "start": 39.304,
+   "end": 43.918,
    "text": "Hit follow, 'cause next we're building a metro where the trains drive themselves.",
    "words": [
     {
      "w": "Hit",
-     "start": 39.195,
-     "end": 39.337
+     "start": 39.375,
+     "end": 39.518
     },
     {
      "w": "follow,",
-     "start": 39.48,
-     "end": 39.98
+     "start": 39.661,
+     "end": 40.161
     },
     {
      "w": "'cause",
-     "start": 40.266,
-     "end": 40.48
+     "start": 40.446,
+     "end": 40.661
     },
     {
      "w": "next",
-     "start": 40.623,
-     "end": 40.766
+     "start": 40.804,
+     "end": 40.946
     },
     {
      "w": "we're",
-     "start": 40.909,
-     "end": 41.052
+     "start": 41.089,
+     "end": 41.232
     },
     {
      "w": "building",
-     "start": 41.195,
-     "end": 41.337
+     "start": 41.375,
+     "end": 41.518
     },
     {
      "w": "a",
-     "start": 41.409,
-     "end": 41.48
+     "start": 41.589,
+     "end": 41.661
     },
     {
      "w": "metro",
-     "start": 41.659,
-     "end": 41.837
+     "start": 41.839,
+     "end": 42.018
     },
     {
      "w": "where",
-     "start": 41.909,
-     "end": 41.98
+     "start": 42.089,
+     "end": 42.161
     },
     {
      "w": "the",
-     "start": 42.052,
-     "end": 42.195
+     "start": 42.232,
+     "end": 42.375
     },
     {
      "w": "trains",
-     "start": 42.266,
-     "end": 42.552
+     "start": 42.446,
+     "end": 42.732
     },
     {
      "w": "drive",
-     "start": 42.623,
-     "end": 42.837
+     "start": 42.804,
+     "end": 43.018
     },
     {
      "w": "themselves.",
-     "start": 42.909,
-     "end": 43.837
+     "start": 43.089,
+     "end": 44.018
     }
    ]
   },
   {
    "line": 11,
-   "start": 44.05,
-   "end": 50.389,
+   "start": 44.23,
+   "end": 50.57,
    "text": "The answer? His wife, Emily! She learned the math, ran the job, and rode across first.",
    "words": [
     {
      "w": "The",
-     "start": 44.264,
-     "end": 44.336
+     "start": 44.445,
+     "end": 44.516
     },
     {
      "w": "answer?",
-     "start": 44.407,
-     "end": 44.996
+     "start": 44.587,
+     "end": 45.177
     },
     {
      "w": "His",
-     "start": 45.068,
-     "end": 45.211
+     "start": 45.248,
+     "end": 45.391
     },
     {
      "w": "wife,",
-     "start": 45.354,
-     "end": 45.711
+     "start": 45.534,
+     "end": 45.891
     },
     {
      "w": "Emily!",
-     "start": 45.782,
-     "end": 46.318
+     "start": 45.962,
+     "end": 46.498
     },
     {
      "w": "She",
-     "start": 46.961,
-     "end": 47.068
+     "start": 47.141,
+     "end": 47.248
     },
     {
      "w": "learned",
-     "start": 47.175,
-     "end": 47.318
+     "start": 47.355,
+     "end": 47.498
     },
     {
      "w": "the",
-     "start": 47.354,
-     "end": 47.425
+     "start": 47.534,
+     "end": 47.605
     },
     {
      "w": "math,",
-     "start": 47.496,
-     "end": 47.925
+     "start": 47.677,
+     "end": 48.105
     },
     {
      "w": "ran",
-     "start": 48.068,
-     "end": 48.282
+     "start": 48.248,
+     "end": 48.462
     },
     {
      "w": "the",
-     "start": 48.354,
-     "end": 48.425
+     "start": 48.534,
+     "end": 48.605
     },
     {
      "w": "job,",
-     "start": 48.604,
-     "end": 48.889
+     "start": 48.784,
+     "end": 49.07
     },
     {
      "w": "and",
-     "start": 48.996,
-     "end": 49.211
+     "start": 49.177,
+     "end": 49.391
     },
     {
      "w": "rode",
-     "start": 49.282,
-     "end": 49.425
+     "start": 49.462,
+     "end": 49.605
     },
     {
      "w": "across",
-     "start": 49.496,
-     "end": 49.782
+     "start": 49.677,
+     "end": 49.962
     },
     {
      "w": "first.",
-     "start": 49.925,
-     "end": 50.496
+     "start": 50.105,
+     "end": 50.677
     }
    ]
   },
   {
    "line": 12,
-   "start": 50.702,
-   "end": 55.383,
+   "start": 50.882,
+   "end": 55.563,
    "text": "Four cables, over five thousand wires each, and twenty-one elephants.",
    "words": [
     {
      "w": "Four",
-     "start": 50.767,
-     "end": 50.91
+     "start": 50.947,
+     "end": 51.09
     },
     {
      "w": "cables,",
-     "start": 51.053,
-     "end": 51.66
+     "start": 51.233,
+     "end": 51.84
     },
     {
      "w": "over",
-     "start": 51.767,
-     "end": 52.053
+     "start": 51.947,
+     "end": 52.233
     },
     {
      "w": "five",
-     "start": 52.124,
-     "end": 52.338
+     "start": 52.304,
+     "end": 52.519
     },
     {
      "w": "thousand",
-     "start": 52.553,
-     "end": 52.91
+     "start": 52.733,
+     "end": 53.09
     },
     {
      "w": "wires",
-     "start": 52.981,
-     "end": 53.338
+     "start": 53.162,
+     "end": 53.519
     },
     {
      "w": "each,",
-     "start": 53.41,
-     "end": 53.838
+     "start": 53.59,
+     "end": 54.019
     },
     {
      "w": "and",
-     "start": 53.91,
-     "end": 53.981
+     "start": 54.09,
+     "end": 54.162
     },
     {
      "w": "twenty-one",
-     "start": 54.053,
-     "end": 54.624
+     "start": 54.233,
+     "end": 54.804
     },
     {
      "w": "elephants.",
-     "start": 54.696,
-     "end": 55.481
+     "start": 54.876,
+     "end": 55.662
     }
    ]
   },
   {
    "line": 13,
-   "start": 55.696,
-   "end": 59.026,
+   "start": 55.876,
+   "end": 59.206,
    "text": "And congrats, you just built the Brooklyn Bridge yourself.",
    "words": [
     {
      "w": "And",
-     "start": 55.767,
-     "end": 55.91
+     "start": 55.947,
+     "end": 56.09
     },
     {
      "w": "congrats,",
-     "start": 55.981,
-     "end": 56.874
+     "start": 56.162,
+     "end": 57.054
     },
     {
      "w": "you",
-     "start": 57.053,
-     "end": 57.196
+     "start": 57.233,
+     "end": 57.376
     },
     {
      "w": "just",
-     "start": 57.303,
-     "end": 57.41
+     "start": 57.483,
+     "end": 57.59
     },
     {
      "w": "built",
-     "start": 57.481,
-     "end": 57.553
+     "start": 57.662,
+     "end": 57.733
     },
     {
      "w": "the",
-     "start": 57.624,
-     "end": 57.696
+     "start": 57.804,
+     "end": 57.876
     },
     {
      "w": "Brooklyn",
-     "start": 57.767,
-     "end": 58.053
+     "start": 57.947,
+     "end": 58.233
     },
     {
      "w": "Bridge",
-     "start": 58.124,
-     "end": 58.338
+     "start": 58.304,
+     "end": 58.519
     },
     {
      "w": "yourself.",
-     "start": 58.446,
-     "end": 59.196
+     "start": 58.626,
+     "end": 59.376
     }
    ]
   },
   {
    "line": 14,
-   "start": 59.338,
-   "end": 66.146,
+   "start": 59.519,
+   "end": 66.327,
    "text": "Twenty-one elephants, and it held... Your uncle sits on a plastic chair: crack!",
    "words": [
     {
      "w": "Twenty-one",
-     "start": 59.621,
-     "end": 60.683
+     "start": 59.802,
+     "end": 60.864
     },
     {
      "w": "elephants,",
-     "start": 60.826,
-     "end": 61.612
+     "start": 61.007,
+     "end": 61.793
     },
     {
      "w": "and",
-     "start": 61.683,
-     "end": 61.754
+     "start": 61.864,
+     "end": 61.936
     },
     {
      "w": "it",
-     "start": 61.826,
-     "end": 61.897
+     "start": 62.007,
+     "end": 62.079
     },
     {
      "w": "held...",
-     "start": 61.969,
-     "end": 62.522
+     "start": 62.15,
+     "end": 62.704
     },
     {
      "w": "Your",
-     "start": 63.567,
-     "end": 63.71
+     "start": 63.748,
+     "end": 63.891
     },
     {
      "w": "uncle",
-     "start": 63.817,
-     "end": 63.996
+     "start": 63.998,
+     "end": 64.177
     },
     {
      "w": "sits",
-     "start": 64.067,
-     "end": 64.281
+     "start": 64.248,
+     "end": 64.462
     },
     {
      "w": "on",
-     "start": 64.353,
-     "end": 64.424
+     "start": 64.534,
+     "end": 64.605
     },
     {
      "w": "a",
-     "start": 64.46,
-     "end": 64.496
+     "start": 64.641,
+     "end": 64.677
     },
     {
      "w": "plastic",
-     "start": 64.567,
-     "end": 64.924
+     "start": 64.748,
+     "end": 65.105
     },
     {
      "w": "chair:",
-     "start": 64.996,
-     "end": 65.54
+     "start": 65.177,
+     "end": 65.721
     },
     {
      "w": "crack!",
-     "start": 65.612,
-     "end": 66.254
+     "start": 65.793,
+     "end": 66.436
     }
    ]
   }
