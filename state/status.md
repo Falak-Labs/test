@@ -1,4 +1,4 @@
-# Post status 2026-11-27T19:35:38+00:00
+# Post status 2026-11-27T21:25:13+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -67,14 +67,31 @@
 | ep100-jeddahtower | en.instagram | scheduled |  | 2026-11-28T14:00:00.000Z |
 | ep100-jeddahtower | en.tiktok | scheduled |  | 2026-11-28T14:00:00.000Z |
 | ep101-sprinkler | ar.instagram | scheduled |  | 2026-11-28T11:00:00.000Z |
+| ep101-sprinkler | ar.tiktok | scheduled |  | 2026-11-28T11:30:00.000Z |
 | ep101-sprinkler | en.instagram | scheduled |  | 2026-11-28T16:30:00.000Z |
 | ep101-sprinkler | en.tiktok | scheduled |  | 2026-11-28T16:30:00.000Z |
 | ep102-albahar | ar.instagram | scheduled |  | 2026-11-28T14:00:00.000Z |
+| ep102-albahar | ar.tiktok | scheduled |  | 2026-11-28T14:30:00.000Z |
 | ep102-albahar | en.instagram | scheduled |  | 2026-11-28T19:00:00.000Z |
 | ep102-albahar | en.tiktok | scheduled |  | 2026-11-28T19:00:00.000Z |
 | ep103-bubblewrap | ar.instagram | scheduled |  | 2026-11-28T17:00:00.000Z |
+| ep103-bubblewrap | ar.tiktok | scheduled |  | 2026-11-28T20:30:00.000Z |
 | ep103-bubblewrap | en.instagram | scheduled |  | 2026-11-28T21:30:00.000Z |
 | ep103-bubblewrap | en.tiktok | scheduled |  | 2026-11-28T21:30:00.000Z |
+| ep104-gcans | ar.instagram | scheduled |  | 2026-11-28T20:00:00.000Z |
+| ep104-gcans | ar.tiktok | scheduled |  | 2026-11-28T23:30:00.000Z |
+| ep104-gcans | en.instagram | scheduled |  | 2026-11-29T00:00:00.000Z |
+| ep104-gcans | en.tiktok | scheduled |  | 2026-11-29T00:00:00.000Z |
+| ep105-brooklyn | ar.instagram | scheduled |  | 2026-11-28T23:00:00.000Z |
+| ep105-brooklyn | ar.tiktok | scheduled |  | 2026-11-29T02:30:00.000Z |
+| ep105-brooklyn | en.instagram | scheduled |  | 2026-11-29T02:30:00.000Z |
+| ep105-brooklyn | en.tiktok | scheduled |  | 2026-11-29T02:30:00.000Z |
+| ep106-riyadhmetro | ar.instagram | scheduled |  | 2026-11-29T08:00:00.000Z |
+| ep106-riyadhmetro | ar.tiktok | scheduled |  | 2026-11-29T08:30:00.000Z |
+| ep106-riyadhmetro | en.instagram | scheduled |  | 2026-11-29T14:00:00.000Z |
+| ep106-riyadhmetro | en.tiktok | scheduled |  | 2026-11-29T14:00:00.000Z |
+| ep107-chairlift | ar.instagram | scheduled |  | 2026-11-29T11:00:00.000Z |
+| ep108-resurfacer | ar.instagram | scheduled |  | 2026-11-29T14:00:00.000Z |
 | ep11-airplane | ar.instagram | sent |  | 2026-11-10T16:43:04.064Z https://www.instagram.com/reel/DfkW8ZJAUGA/ |
 | ep11-airplane | ar.tiktok | sent |  | 2026-11-11T03:27:42.554Z https://www.tiktok.com/@kef.tenbeni/video/7706750193227681038?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep11-airplane | ar.youtube | sent |  | 2026-11-11T16:50:05.034Z https://www.youtube.com/shorts/AX26IJw5a7w |
@@ -498,14 +515,14 @@
 | ep95-falkirk | en.instagram | sent |  | 2026-11-27T16:32:23.095Z https://www.instagram.com/reel/DgQHXu3IlGE/ |
 | ep95-falkirk | en.tiktok | sent |  | 2026-11-27T16:32:16.454Z https://tiktok.com/@congratsengineer/video/7712889713308208397 |
 | ep96-handwarmer | ar.instagram | sent |  | 2026-11-27T14:04:28.003Z https://www.instagram.com/reel/DgP2R3eBGs2/ |
-| ep96-handwarmer | ar.tiktok | scheduled |  | 2026-11-27T20:30:00.000Z |
+| ep96-handwarmer | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T20:30:00.000Z |
 | ep96-handwarmer | en.instagram | sent |  | 2026-11-27T19:03:52.382Z https://www.instagram.com/reel/DgQYrQpCvI6/ |
 | ep96-handwarmer | en.tiktok | sent |  | 2026-11-27T19:03:44.872Z https://tiktok.com/@congratsengineer/video/7712928614118952206 |
 | ep97-museum | ar.instagram | sent |  | 2026-11-27T17:04:57.599Z https://www.instagram.com/reel/DgQLGN7h7sW/ |
 | ep97-museum | ar.tiktok | scheduled |  | 2026-11-27T23:30:00.000Z |
 | ep97-museum | en.instagram | scheduled |  | 2026-11-27T21:30:00.000Z |
 | ep97-museum | en.tiktok | scheduled |  | 2026-11-27T21:30:00.000Z |
-| ep98-rainvortex | ar.instagram | scheduled |  | 2026-11-27T20:00:00.000Z |
+| ep98-rainvortex | ar.instagram | sent |  | 2026-11-27T20:04:02.940Z https://www.instagram.com/reel/DgQfjXXBfi5/ |
 | ep98-rainvortex | ar.tiktok | scheduled |  | 2026-11-28T02:30:00.000Z |
 | ep98-rainvortex | en.instagram | scheduled |  | 2026-11-28T00:00:00.000Z |
 | ep98-rainvortex | en.tiktok | scheduled |  | 2026-11-28T00:00:00.000Z |
