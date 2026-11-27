@@ -9,4 +9,4 @@ T | p05t | الحمدلله على السلامة!
 T | tw | Luggage.
 T | w6 | Good job! Luggage!
 T | v2 | الباليزات ديالي ثقال بزاف!
-T | Tsl | Lug... gidge.
+T | Tsl | Lug... edge.
