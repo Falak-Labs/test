@@ -15,9 +15,9 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 58,
+ "requested_characters": 15,
  "recorded_this_run": [
-  "h1"
+  "p04t"
  ],
  "notes": [],
  "lines": [
@@ -61,10 +61,10 @@
    "id": "p04t",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "أنا غادي للدار.",
+   "text": "أنا راجع للدار.",
    "characters": 15,
    "model": "eleven_v4",
-   "seconds": 1.52
+   "seconds": 1.36
   },
   {
    "id": "p05t",

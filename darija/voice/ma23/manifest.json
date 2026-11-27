@@ -15,8 +15,10 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 0,
- "recorded_this_run": [],
+ "requested_characters": 11,
+ "recorded_this_run": [
+  "p02t"
+ ],
  "notes": [],
  "lines": [
   {
@@ -41,10 +43,10 @@
    "id": "p02t",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "گلس، عافاك.",
+   "text": "جلس، عافاك.",
    "characters": 11,
    "model": "eleven_v4",
-   "seconds": 1.84
+   "seconds": 1.6
   },
   {
    "id": "p03t",

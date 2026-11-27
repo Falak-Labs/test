@@ -15,9 +15,9 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 54,
+ "requested_characters": 17,
  "recorded_this_run": [
-  "h1"
+  "v2"
  ],
  "notes": [],
  "lines": [
@@ -97,10 +97,10 @@
    "id": "v2",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "شنطاتي تقيلة كتير!",
-   "characters": 18,
+   "text": "شنطتي تقيلة كتير!",
+   "characters": 17,
    "model": "eleven_v4",
-   "seconds": 2.08
+   "seconds": 2.0
   },
   {
    "id": "Tsl",
