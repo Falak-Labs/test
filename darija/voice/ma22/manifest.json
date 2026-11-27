@@ -15,8 +15,10 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 0,
- "recorded_this_run": [],
+ "requested_characters": 12,
+ "recorded_this_run": [
+  "Tsl"
+ ],
  "notes": [],
  "lines": [
   {
@@ -104,10 +106,10 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "Lug... gidge.",
-   "characters": 13,
+   "text": "Lug... edge.",
+   "characters": 12,
    "model": "eleven_v4",
-   "seconds": 1.92
+   "seconds": 2.0
   }
  ]
 }
