@@ -2526,3 +2526,8 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   on four days of media. The recipe of the Nov 26 entry (`git update-ref refs/remotes/origin/main HEAD`, `git checkout
   -B main HEAD`, then the blobless deepen with `--deepen=800`) is the fast way; a local branch `old-main-snapshot` keeps
   the old pointer and can be ignored.
+- After the push: the Post workflow (22:20Z) logged all six sm07 targets "on hold" (state/sm07.json has none) and, a
+  queue place being free, scheduled 107's English Instagram + TikTok (16:30Z Nov 29). 107's Arabic TikTok and 108's
+  English Instagram + TikTok and Arabic TikTok still wait for places. Allowance after it ("30d" r=): English 135,
+  Arabic 56 (the 21:25Z status cron took 14 from each, this push 4 and 2). Message, push notification, the two short
+  cuts and the two thumbnails went to the owner at 14:20 PT; claude/build-it-4-minute-show.md has episode 7 in its table.
