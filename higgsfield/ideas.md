@@ -4584,3 +4584,84 @@ Checked, nothing new
 - Higgsfield's Black Friday at about 21:55 PT: the same pages (dio.me, both mydealz deals, aimojo, the "33 days" and
   plan-change pages), so Nov 28 stands. The parade search returned forecast and wind stories; the postponement to
   Saturday is in the Nov 25-26 entries. Shorts trend pages: mean.ceo's and metricool's are already here.
+
+## 2026-11-26 23:00 PT (hourly runner, cloud run)
+
+Build candidates (new to these notes; neither is in LINEUP)
+- Fri Dec 25, 5 years since the James Webb Space Telescope launched ("launched at 7:20 a.m. EST Saturday", Dec 25
+  2021, on an Ariane 5 from "Europe's Spaceport in French Guiana"; NASA's release, last updated Oct 14 2026): a
+  machine build with a launch-day peg (not a holiday topic). From NASA's fact sheet (updated Nov 20 2026) and its
+  sunshield page: a "6.5 m (21.3 ft)" mirror of 18 segments of "beryllium coated with gold", the gold "100 x 10-9
+  meters (1000 angstroms)" thick, 48.25 g in all; five Kapton layers of "21.197 m x 14.162 m (69.5 ft x 46.5 ft)",
+  "roughly the size of a tennis court", layer 1 up to 383 K (about 231 F), layer 5 down to 36 K (about -394 F), "The
+  vacuum between the layers is a very good insulator"; the telescope "under 50 K (-370 °F)", MIRI at about 7 K with
+  its own "cryocooler"; "So big it had to fold origami-style to fit in the rocket and unfolded like a 'Transformer' in
+  space", the mirror's side wings "like the leaves of a drop-leaf table"; "about 150 mechanism assemblies... including
+  about 140 release actuators, approximately 70 hinge assemblies, eight deployment motors, about 400 pulleys and 90
+  cables"; "1.5 million km from Earth orbiting the L2 Point"; mission "5 - 10 years" on the fact sheet (no 20-year line
+  on the pages read, so none in a script). The break: "There are 344 single-point-of-failure items on average",
+  "approximately 80% of those are associated with the deployment" (NASA's lead mission systems engineer at the Nov 2
+  2021 briefing, Space.com; its "Dec. 18" launch date is the one before the slip to Dec 25); "A single-point failure
+  means if this one thing fails, we could potentially lose the whole mission", "those first 2 1/2 weeks of
+  deployment" (the project manager, NPR, Jul 17 2022). Chain: the first galaxies' faint light (A2) → a big gold mirror
+  (A3) → too big for the rocket (A4) → folded origami-style (A5) → the sun's heat would drown the faint light (A6) → the
+  five-layer shield (B1) → MIRI needs 7 K (B2) → the cryocooler (B3) → the launch and the 344 points passed one by one
+  (B5). Ready shots: A1 a gold honeycomb mirror swinging its two side wings open in black space above a silver
+  tennis-court shield; B6 funny slow motion, a pop-up beach tent that will not fold back into its bag. Pictures:
+  NASA's launch photo (credit "NASA, Bill Ingalls (NASA)"; NASA's rules are in the Brand Center note here) and
+  ESA/Webb's CC BY 4.0 images (credit burned in, the ESO/ESA note here).
+  [NASA, launch release](https://science.nasa.gov/missions/webb/nasas-webb-telescope-launches-to-see-first-galaxies-distant-worlds),
+  [NASA, launch photo](https://science.nasa.gov/asset/webb/ariane-5-rocket-launch-of-the-jwst-mission),
+  [NASA, Webb fact sheet](https://science.nasa.gov/mission/webb/fact-sheet),
+  [NASA, Webb's sunshield](https://science.nasa.gov/mission/webb/webbs-sunshield),
+  [ESA, JWST](https://www.esa.int/Science_Exploration/Space_Science/JWST),
+  [Space.com, Nov 3 2021](https://www.space.com/james-webb-space-telescope-deployment-points-of-failure),
+  [NPR, Jul 17 2022](https://www.npr.org/2022/07/17/1111714756/james-webb-telescope-big-bang-galaxy-image-interview-project-manager-bill-ochs)
+- The Gotthard Base Tunnel, the world's longest rail tunnel: its 10-year peg has passed (it "Opened on June 1, 2016"
+  and swissinfo's anniversary piece ran June 1 2026; trains ran to the timetable from December 2016, so this December
+  is only "ten years of trains"), but the build stands without a date. "2 times 57 kilometer long", "152 kilometers of
+  tunnels and shafts" (Herrenknecht); rock "up to 2,300 metres thick" above it (swissinfo, Sep 22 2014); "the rock can
+  reach temperatures of 46°C" (GCR, Jun 1 2016), the air "a high of 45°C, far above the safety limit of 28°C", met with
+  "refrigerated areas and ventilation equipment for the workers" (swissinfo 2014); four Herrenknecht gripper TBMs
+  (Sissi, Heidi, Gabi 1, Gabi 2, about 9.4-9.6 m across): "In the space of only 24 hours, Gabi 2 chomped its way
+  through no less than 56 meters"; 80 % of the main tubes bored and 20 % blasted (GCR; TunnelTalk gives 56/44 for all
+  152 km); "28.2 million tonnes of excavated rock... using 70km of conveyor belts" (GCR), much of it "recycled back into
+  the tunnels" in the concrete (TunnelTalk); the eastern breakthrough on Oct 15 2010 "out by only 1 cm vertically and 8
+  cm horizontally" (GCR); squeezing rock held with "telescopically slidable steel rings" and "an overcut of about 70
+  centimeters" (Herrenknecht); one TBM "trapped for more than six months" in a fault zone (TunnelTalk). Today: "up to
+  260 freight trains and approximately 65 passenger trains per day", 275 km/h in the test runs; and a B-side break: in
+  August 2023 "a freight train derailed after a wheel broke", about CHF 150 million of damage, the western tube shut
+  "for nearly a year", normal traffic back in September 2024, then derailment detectors (Railway Pro, undated). Keep
+  out: the nine deaths of 2002-2012 (GCR) in a light script, and the votes behind it (politics). Chain: the Alps in the
+  way (A2) → a flat tunnel at the mountains' foot (A3) → 46 °C rock (A4) → chilled air (A5) → squeezing rock (A6) →
+  sliding steel rings (B1) → two drives meeting blind under 2 km of rock (B2) → the survey: 1 cm and 8 cm off (B3) →
+  trains at full speed (B5). A1: a cutaway of a snowy Alpine massif with a lit train tiny at its foot. The build-site
+  photos are AlpTransit Gotthard Ltd.'s (GCR's credit), not free.
+  [swissinfo, Jun 1 2026](https://www.swissinfo.ch/eng/various/gotthard-ten-years-of-the-worlds-longest-rail-tunnel/91506152),
+  [Railway Pro](https://www.railwaypro.com/wp/the-gotthard-base-tunnel-10-years-of-impact/),
+  [Herrenknecht](https://herrenknecht.com/en/references/referencesdetail/gotthard-base-tunnel),
+  [GCR, Jun 1 2016](https://globalconstructionreview.com/20-key-facts-about-worlds-long7est-deep7est-ra7il),
+  [swissinfo, Sep 22 2014](https://www.swissinfo.ch/eng/business/engineers-meet-challenge-of-gotthard-tunnel/40792690),
+  [TunnelTalk, Mar 2011](https://tunneltalk.com/Gotthard-Baseline-Mar11-Excavation-finished.php)
+
+Free pictures (new to these notes; leads: read each image's own licence line before use)
+- ETH Library's Image Archive in Zurich ("E-Pics Bildarchiv Online"): about 3.5 million images, about 560,000 online,
+  Swiss science and technology history plus the Swissair and Comet Photo archives; downloads are free ("kostenfrei")
+  in web size (1024 x 768) and as high-resolution JPG and TIFF; the licence is set per image, about 360,000 CC BY-SA
+  4.0 and about 143,000 Public Domain (compgen.de, undated, in German). Only the Public Domain ones for us (share-alike
+  is the licence these notes keep out). Its public-domain and CC BY-SA files go to Wikimedia Commons too (opendata.swiss,
+  Sep 10 2017); the Commons pages did not load from here, so the exact licence lines and credit form are for a later run.
+- WSL/SLF historical photos (wsl.e-pics.ethz.ch, the same E-Pics platform): about 28,000 glass plates, negatives and
+  slides from 1902 on, forest, avalanche and snow work (the Lötschberg line cleared after an avalanche in 1931, a wall
+  of snow on the Grimsel Pass in 1936, timber walls on a slipping slope in 1914): "The majority can be used freely
+  (Creative-Commons-License)", the variant not named; the news item's own pictures are for press use only ("The
+  transfer of this material to image, sound and/or video databases and the sale of the material by third parties are
+  not permitted"). SLF news, Feb 17 2026.
+  [compgen.de](https://www.compgen.de/?p=30594),
+  [opendata.swiss, Sep 10 2017](https://opendata.swiss/en/perma/eth-library-on-wikimedia-commons@eth-bibliothek),
+  [SLF, Feb 17 2026](https://www.slf.ch/en/news/historical-photos-published/)
+
+Checked, nothing new
+- Higgsfield's Black Friday at about 22:55 PT: the same pages (dio.me, both mydealz deals, aimojo, "33 days", the
+  plan-change pages), so Nov 28 stands. The 2027 trend reports are not out: the searches found only last year's TikTok
+  Next 2026 report and Pinterest Predicts 2026. Shorts and TikTok trend pages: Virlo's November pages are already here.
