@@ -1,4 +1,4 @@
-# Post status 2026-11-26T21:40:38+00:00
+# Post status 2026-11-27T02:55:01+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -416,7 +416,7 @@
 | ep76-cooker | en.instagram | sent |  | 2026-11-26T13:31:53.771Z https://www.instagram.com/reel/DgNN6tIBCPy/ |
 | ep76-cooker | en.tiktok | sent |  | 2026-11-26T13:31:55.330Z https://tiktok.com/@congratsengineer/video/7712471946658729230 |
 | ep77-goldengate | ar.instagram | sent |  | 2026-11-26T20:05:04.642Z https://www.instagram.com/reel/DgN60FKhhJL/ |
-| ep77-goldengate | ar.tiktok | scheduled |  | 2026-11-26T23:30:00.000Z |
+| ep77-goldengate | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T23:30:00.000Z |
 | ep77-goldengate | en.instagram | sent |  | 2026-11-26T16:04:46.718Z https://www.instagram.com/reel/DgNfZcLgeWA/ |
 | ep77-goldengate | en.tiktok | sent |  | 2026-11-26T16:04:17.013Z https://tiktok.com/@congratsengineer/video/7712511370486467853 |
 | ep78-airfryer | ar.instagram | sent |  | 2026-11-25T08:03:46.932Z https://www.instagram.com/reel/DgKDgR0hfJR/ |
@@ -471,18 +471,18 @@
 | ep90-pen | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T14:00:00.000Z |
 | ep90-pen | en.instagram | sent |  | 2026-11-26T11:06:07.122Z https://www.instagram.com/reel/DgM8_7fprjC/ |
 | ep90-pen | en.tiktok | sent |  | 2026-11-26T11:03:24.955Z https://tiktok.com/@congratsengineer/video/7712433617896525069 |
-| ep91-arch | ar.instagram | scheduled |  | 2026-11-26T22:30:00.000Z |
-| ep91-arch | ar.tiktok | scheduled |  | 2026-11-27T02:30:00.000Z |
+| ep91-arch | ar.instagram | sent |  | 2026-11-26T22:31:34.012Z https://www.instagram.com/reel/DgOLrBrSWFK/ |
+| ep91-arch | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T02:30:00.000Z |
 | ep91-arch | en.instagram | sent |  | 2026-11-26T18:32:45.318Z https://www.instagram.com/reel/DgNwTStBNd_/ |
 | ep91-arch | en.tiktok | sent |  | 2026-11-26T18:31:51.462Z https://tiktok.com/@congratsengineer/video/7712549407450877198 |
-| ep92-seatbelt | ar.instagram | scheduled |  | 2026-11-27T01:00:00.000Z |
+| ep92-seatbelt | ar.instagram | sent |  | 2026-11-27T01:02:24.901Z https://www.instagram.com/reel/DgOc7TOhQlS/ |
 | ep92-seatbelt | ar.tiktok | scheduled |  | 2026-11-27T05:30:00.000Z |
 | ep92-seatbelt | en.instagram | sent |  | 2026-11-26T21:04:14.423Z https://www.instagram.com/reel/DgOBnm_BJH7/ |
 | ep92-seatbelt | en.tiktok | sent |  | 2026-11-26T21:02:43.978Z https://tiktok.com/@congratsengineer/video/7712588264007421197 |
 | ep93-huajiang | ar.instagram | scheduled |  | 2026-11-27T03:30:00.000Z |
 | ep93-huajiang | ar.tiktok | scheduled |  | 2026-11-27T08:30:00.000Z |
-| ep93-huajiang | en.instagram | scheduled |  | 2026-11-26T23:30:00.000Z |
-| ep93-huajiang | en.tiktok | scheduled |  | 2026-11-26T23:30:00.000Z |
+| ep93-huajiang | en.instagram | sent |  | 2026-11-26T23:31:48.599Z https://www.instagram.com/reel/DgOShJKykil/ |
+| ep93-huajiang | en.tiktok | sent |  | 2026-11-26T23:31:21.486Z https://tiktok.com/@congratsengineer/video/7712626618027592973 |
 | ep94-smokealarm | ar.instagram | scheduled |  | 2026-11-27T08:00:00.000Z |
 | ep94-smokealarm | ar.tiktok | scheduled |  | 2026-11-27T11:30:00.000Z |
 | ep94-smokealarm | en.instagram | scheduled |  | 2026-11-27T14:00:00.000Z |
