@@ -3,7 +3,7 @@ window.SCRIPT={"theme":"ma","ep":"23","L":{"lang":"Darija","TAB":"DARIJA","think
 "word":{"full":"Comfortable","parts":["Comf","ort","able"],"say":["KUMF","ter","bul"],"tts":["Kumf","ter","bull"],"slow":"Cumf... ter... bull.","ah":["كمف","تر","بل"],"sent":{"en":"This couch is so comfortable!","hot":[4],"dz":"Had l-kanapé mri7 bzaf!","ar":"هاد الكنابي مريح بزاف!"}},
 "phrases":[
 {"dz":"Dkhel!","ar":"دخل!","en":"Come in!","who":"A","icon":"fe:door"},
-{"dz":"Gles, 3afak.","ar":"گلس، عافاك.","en":"Sit down, please.","who":"L","icon":"fe:chair"},
+{"dz":"Jles, 3afak.","ar":"جلس، عافاك.","en":"Sit down, please.","who":"L","icon":"fe:chair"},
 {"dz":"Wach nta ji3an?","ar":"واش نتا جيعان؟","en":"Are you hungry?","who":"A","icon":"fe:plate"},
 {"dz":"Dir b7al darek.","ar":"دير بحال دارك.","en":"Make yourself at home.","who":"L","icon":"fe:house"},
 {"dz":"Chokran bzaf!","ar":"شكرا بزاف!","en":"Thank you so much!","who":"A","icon":"heart"}
@@ -12,7 +12,7 @@ window.SCRIPT={"theme":"ma","ep":"23","L":{"lang":"Darija","TAB":"DARIJA","think
 {"id":"h1","sp":"T","shot":"T","p":-1,"dz":"Comfortable fiha 4 d l-ma9ati3, walakin l-mirikan kaygoulou ghir 3! Chmen wa7d kayghber?","ar":"Comfortable فيها أربعة د المقاطع، ولكن الميريكان كيقولو غير ثلاثة! شمن واحد كيغبر؟","gl":"Comfortable has 4 syllables, but Americans say only 3! Which one disappears?","board":["مريح","= ? ? ?"],"pre":0.25},
 {"id":"p01t","sp":"T","shot":"T","p":0,"dz":"Dkhel!","ar":"دخل!","pre":0.4},
 {"id":"p01k","sp":"A","shot":"K","p":0,"en":"Come in!","fx":"ding","pre":1.12,"lead":1.0,"post":0.7},
-{"id":"p02t","sp":"T","shot":"T","p":1,"dz":"Gles, 3afak.","ar":"گلس، عافاك.","pre":0.4},
+{"id":"p02t","sp":"T","shot":"T","p":1,"dz":"Jles, 3afak.","ar":"جلس، عافاك.","pre":0.4},
 {"id":"p02k","sp":"L","shot":"K","p":1,"en":"Sit down, please.","fx":"ding","pre":1.12,"lead":1.0,"post":0.7},
 {"id":"p03t","sp":"T","shot":"T","p":2,"dz":"Wach nta ji3an?","ar":"واش نتا جيعان؟","pre":0.4},
 {"id":"p03k","sp":"A","shot":"K","p":2,"en":"Are you hungry?","fx":"ding","pre":1.12,"lead":1.0,"post":0.7},
