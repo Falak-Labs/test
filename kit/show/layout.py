@@ -418,6 +418,33 @@ def icon_lighthouse(c, x, y, s, col, a=1.0):
     c.drawRRect(rr(-0.32 * s, 0.44 * s, 0.64 * s, 0.09 * s, 0.04 * s), P(col, a))                                 # the rock it stands on
     c.restore()
 
+def icon_hand(c, x, y, s, col, a=1.0):
+    """An open palm: your own two hands (sm07, "No hands")."""
+    c.save()
+    c.translate(x, y)
+    for fx, top in ((-0.245, -0.40), (-0.118, -0.52), (0.009, -0.49), (0.136, -0.36)):      # four fingers
+        c.drawRRect(rr(fx * s, top * s, 0.109 * s, (0.16 - top) * s, 0.054 * s), P(col, a))
+    c.drawRRect(rr(-0.245 * s, 0.02 * s, 0.49 * s, 0.50 * s, 0.15 * s), P(col, a))            # the palm
+    c.save()                                                                                  # the thumb
+    c.translate(-0.20 * s, 0.30 * s)
+    c.rotate(-52)
+    c.drawRRect(rr(-0.06 * s, -0.36 * s, 0.12 * s, 0.40 * s, 0.06 * s), P(col, a))
+    c.restore()
+    c.restore()
+
+
+def icon_broom(c, x, y, s, col, a=1.0):
+    """A broom, leaning: housework (sm07, "No broom", and the ribbon of "You vs Chores")."""
+    c.save()
+    c.translate(x, y)
+    c.rotate(28)
+    c.drawRRect(rr(-0.035 * s, -0.62 * s, 0.07 * s, 0.76 * s, 0.035 * s), P(col, a))          # the handle
+    c.drawRRect(rr(-0.17 * s, 0.10 * s, 0.34 * s, 0.11 * s, 0.03 * s), P(col, a))             # the band
+    c.drawPath(_path([(-0.17, 0.19), (0.17, 0.19), (0.33, 0.60), (-0.33, 0.60)], s), P(col, a))    # the bristles
+    for k in (-2, -1, 0, 1, 2):
+        c.drawLine(k * 0.060 * s, 0.27 * s, k * 0.118 * s, 0.60 * s, P(NAVY, 0.45 * a, stroke=0.022 * s))
+    c.restore()
+
 
 def no_sign(c, x, y, r, p, col=WARN):
     """Red ring with a slash, stamped on with a little overshoot."""
@@ -620,7 +647,8 @@ ICON = {"bolt": icon_bolt, "flame": icon_flame, "signal": icon_signal, "person":
         "drop": icon_drop, "gear": icon_gear, "brick": icon_brick, "land": icon_land, "wave": icon_wave, "sun": icon_sun,
         "snow": icon_snow, "clock": icon_clock, "coin": icon_coin, "boat": icon_boat, "bridge": icon_bridge,
         "rock": icon_rock, "flat": icon_flat, "down": icon_down, "pause": icon_pause, "rewind": icon_rewind,
-        "hourglass": icon_hourglass, "umbrella": icon_umbrella, "shortcut": icon_shortcut, "lighthouse": icon_lighthouse}
+        "hourglass": icon_hourglass, "umbrella": icon_umbrella, "shortcut": icon_shortcut, "lighthouse": icon_lighthouse,
+        "hand": icon_hand, "broom": icon_broom}
 WARM_ICONS = ("flame", "sun", "coin")       # drawn orange in the cold open, the rest yellow
 
 

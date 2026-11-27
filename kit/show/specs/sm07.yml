@@ -1,0 +1,63 @@
+# Survival Mode 7: You vs Chores. Four builds that beat housework, all four with the Saudi narrator (Mansour) in Arabic:
+# the dishes after a big dinner (the dishwasher), a pile of dirty clothes (the washing machine), milk in a heatwave
+# (the refrigerator) and the dust that always lands again (the vacuum cleaner). "No hands. No ice. No broom." names what
+# you may not use; the dust is the final boss. Level 1 is the dishwasher: the best-watched of the four as a build in
+# English (state/metrics.json), and its joke ends the short cut. English lines by J. Ballen (`promo: survivalpromob`);
+# the four v2 builds inside still play their Easton narration.
+levels:
+  - kit: dishwasher
+    music: oasis
+    color: "#5CD6E0"
+    en: {world: "THE DINNER TABLE", boss: "THE DISHES", sub: "A BIG DINNER  ·  100 LITERS BY HAND", unlocked: "THE DISHWASHER",
+         stamp: "DRIED EGG", chips: [["~12 L", "A FULL LOAD"], ["60°C", "HOT WATER"], ["100 L", "BY HAND"]]}
+    ar: {world: "السفرة", boss: "الصحون", sub: "عزيمة كبيرة  ·  مية لتر باليد", unlocked: "غسالة الصحون",
+         stamp: "بيض ناشف", chips: [["~12 L", "للغسلة"], ["60°C", "حرارة الموية"], ["100 L", "باليد"]]}
+  - kit: washer
+    music: desert
+    color: "#FFD08A"
+    en: {world: "THE LAUNDRY ROOM", boss: "THE LAUNDRY", sub: "DIRT DEEP IN THE THREADS  ·  NO HANDS", unlocked: "THE WASHING MACHINE",
+         stamp: "STILL DIRTY", chips: [["1,400", "SPINS A MINUTE"], ["500x", "GRAVITY"], ["25 kg", "OF CONCRETE"]]}
+    ar: {world: "غرفة الغسيل", boss: "الغسيل", sub: "الوسخ لاصق في الخيوط", unlocked: "الغسالة",
+         stamp: "وسخ لاصق", chips: [["1,400", "لفة في الدقيقة"], ["500x", "قوة الجاذبية"], ["25 kg", "حجر خرسانة"]]}
+  - kit: fridge
+    music: arctic
+    color: "#8FB8FF"
+    en: {world: "THE KITCHEN", boss: "THE HEAT", sub: "A HEATWAVE  ·  NOT ONE CUBE OF ICE", unlocked: "THE REFRIGERATOR",
+         stamp: "NO ICE", chips: [["4°C", "INSIDE"], ["-18°C", "IN THE FREEZER"], ["0", "CUBES OF ICE"]]}
+    ar: {world: "المطبخ", boss: "الحر", sub: "عز الصيف  ·  ولا مكعب ثلج", unlocked: "الثلاجة",
+         stamp: "بدون ثلج", chips: [["4°C", "داخل الثلاجة"], ["-18°C", "في الفريزر"], ["0", "مكعبات ثلج"]]}
+  - kit: vacuum
+    music: ondol
+    color: "#FF9D5C"
+    en: {world: "THE LIVING ROOM", boss: "THE DUST", sub: "A BROOM THROWS IT UP  ·  IT LANDS AGAIN", unlocked: "THE VACUUM CLEANER",
+         stamp: "DUST CLOUD", chips: [["125,000", "SPINS A MINUTE"], ["99.97%", "OF DUST CAUGHT"], ["0", "BAGS"]]}
+    ar: {world: "الصالة", boss: "الغبار", sub: "المقشة تطيّره  ·  ويرجع ينزل", unlocked: "المكنسة الكهربا",
+         stamp: "غبار يطير", chips: [["125,000", "لفة بالدقيقة"], ["99%", "من الغبار"], ["0", "أكياس"]]}
+en:
+  chip: "SURVIVAL MODE  ·  YOU VS CHORES"
+  ribbon: "YOU VS CHORES"
+  ribbon_icon: broom
+  ribbon_crossed: false
+  no_icons: [hand, snow, broom]
+  result_label: "FINGERS LIFTED"
+  result_value: "0"
+  promo: survivalpromob               # the closing lines read by J. Ballen (series/survivalpromob_lines.txt)
+  cues: {sub: beat, stat: finger}
+  emph: [HANDS, ICE, BROOM, FOUR, CHORES, WIN, CONGRATS, DINNER, TABLE, HUNDRED, LITERS, LAUNDRY, DIRTY, THREADS, KITCHEN,
+         HEATWAVE, MILK, CUBE, LIVING, DUST, CARPET, FINGER, DISHES, HEAT, ENZYMES, CONCRETE, BOILING, TORNADO, BOSSES,
+         YOUTUBE, SUBSCRIBE, ENGINEER, FINAL, ONE, TWO, THREE, LEVELS, WAITING, NEXT]
+ar:
+  chip: "طور البقاء  ·  أنت ضد شغل البيت"
+  ribbon: "أنت ضد شغل البيت"
+  ribbon_icon: broom
+  ribbon_crossed: false
+  no_icons: [hand, snow, broom]
+  result_label: "كم إصبع حرّكت؟"
+  result_value: "0"
+  promo: survivalpromosa              # the closing lines in Saudi dialect, read by Mansour (series/survivalpromosa_lines_ar_sa.txt)
+  or_boss: "ولا الزعيم يفوز"
+  next: "العالم الجاي قريب"
+  cues: {sub: "غلبت", stat: "إصبع"}
+  emph: ["يدين", "ثلج", "مقشة", "أربع", "البيت", "ومبروك", "غلبت", "السفرة", "عزيمة", "مية", "لتر", "الغسيل", "وسخة", "الخيوط",
+         "المطبخ", "الصيف", "والحليب", "ثلج", "الصالة", "الغبار", "الزولية", "إصبع", "يدينك", "الصحون", "والغسيل", "والحر",
+         "والغبار", "بالإنزيمات", "والخرسانة", "يغلي", "وإعصار", "زعماء", "يوتيوب", "اشترك", "الزعيم"]
