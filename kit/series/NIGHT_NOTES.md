@@ -2462,3 +2462,67 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   added: tell the owner, do not dispatch again.
 - LINEUP: 106-108 taken; 115 a tower crane, 116 the Akashi Kaikyo Bridge, 117 float glass appended (nine entries ahead
   of 108: 109-117).
+
+## Nov 27 2026 (show run, 13:17 PT): Survival Mode 7 "You vs Chores" (sm07) for Sat Nov 28
+- TODAY Fri Nov 27 PT, TOMORROW Sat Nov 28 PT. Hand-off done 14:17 PT (the run took an hour).
+- Step 0. No `tools.yml cmd=status` dispatch: the status.yml cron (the same scripts/status.py) ran by itself at 21:25Z,
+  three minutes after this run began, so the state was fresh and a second look would only have cost about 13 more
+  requests per account (the Arabic account had 72 left before the cron). sm06 is NOT OUT: posts/sm06.yml still holds all
+  six targets, state/sm06.json has none, and `yt_desk.py check` prints its four YouTube videos as OVERDUE (sm05 the same
+  since Nov 26). The ledger's last entry is still 01:07Z Nov 25, and `yt_desk.py plan` lists builds 91-99 under "not for
+  tomorrow": nothing has gone through the desk for Thu Nov 26 or Fri Nov 27. list_triggers (one-shots, completed ones
+  included): the main chat's "Build-It YouTube desk: afternoon round" last fired 00:45Z Nov 27 (Thu 16:45 PT) and its
+  "evening round" 05:30Z Nov 26 (Wed 21:30 PT); neither set its next day, so NO desk round is scheduled today. Told the
+  owner at the top of the message: nothing uploads until he opens the main chat with Chrome open and writes "go".
+  Nothing repaired, no trigger touched or fired.
+- For whoever picks sm06 up: handoff.py force-pushes the `show` branch, so sm06's full cuts, thumbnails and sheet were
+  kept first on the branch `show-sm06` (b1baad3, the commit of the Nov 26 hand-off; the links inside its sheet still say
+  /show/), as `show-sm05` keeps sm05's. Their `at:` times have passed: a released target goes out "now + 2 minutes".
+- sm03's and sm04's Arabic TikToks stay in error ("potential spam"); not requeued (the Arabic allowance, and TikTok has
+  refused every Arabic show short so far).
+- Pick: dishwasher, washer, fridge, vacuum (all Mansour, all v2, all retired: after the blobless deepen `fetch` took
+  them from git history, fridge e0dc8f9^, washer a1a9ddd^, dishwasher and vacuum 0bc48b0^). The first episode set in a
+  house: the worlds are rooms (the dinner table / wash day / the kitchen / the living room; Arabic السفرة / غرفة الغسيل /
+  المطبخ / الصالة) and the bosses are the chores (the dishes, the laundry, the heat, the dust). "No hands. No ice. No
+  broom."; joke row "FINGERS LIFTED 0" ("كم إصبع حرّكت؟"); line 8 "you never lifted a finger. Your hands say thank you ...
+  with enzymes, concrete, a boiling liquid and a tornado". Level 1 is the dishwasher: the best-watched of the four as a
+  build in English (state/metrics.json: 1,603 Instagram views, 27 s average watch; the fridge led in Arabic with 1,590),
+  and its joke (mom washes every plate by hand first / uses the machine as a drying rack) ends the short cut. Left out:
+  100-105 (they post as builds on Saturday), 106-108 (Sunday), hagiasophia (show rule). Stock after sm07 (stock.py):
+  taipei, petronas, handwarmer, museum, rainvortex, noodles, jeddahtower, sprinkler, albahar, bubblewrap, gcans, brooklyn,
+  riyadhmetro, chairlift, resurfacer = 15 builds, almost four episodes, and it grows while the daily builds stay v2
+  (ideas: towers against the wind = taipei, petronas, jeddahtower, albahar; water on the loose = gcans, sprinkler,
+  rainvortex + one; getting people across = brooklyn, riyadhmetro, chairlift + one).
+- Voices. ElevenLabs read 195,387 before and 205,457 at 13:57 PT (33.5% of 613,234); this episode took about 2,030 of
+  those (English 921 + two retakes of lines 5 and 7, about 510; Arabic 599 in one pass), the rest of that half hour was
+  other projects. Ballen eleven_v4 x1.11, 54.3 s; Mansour eleven_multilingual_v2 (the `model` input) x1.11, 47.1 s.
+  Whisper small on Ballen: take 1 "The laundry room" -> "The Laundry Boon" and "Your broom" -> "Your bloom"; take 2 (the
+  world changed to "The bathroom", "A broom") -> "the Bathrain" and "Final level" -> "I ain't no level". Both bad lines
+  carried `[amused]` in both takes; with `[playful]` and the world "Wash day", take 3 differs only in number formats.
+  Lesson: when an `[amused]` line is misheard, change the tag, not only the words. Arabic 0-8% a line, no weak lines. On
+  the four finished files every new line is heard in its place (English only number formats; Arabic worst 12% / 11%, on
+  the shared closing lines under the fanfare and the flashes).
+- New in the layer: icons `hand` and `broom` (layout.ICON), and `flash_dim`, a level's optional key that darkens that
+  world's flashes in the cold open and in the short's teaser (not the thumbnail). The washing machine close up is almost
+  all white and the white stamp and captions sank into it: `flash_dim: 0.28`, and its `still` moved to 6.5 s (the machine
+  small on its dark wall) so the level card is not pale. Shots: dishwasher 4.9 (the pull-back from the racks to the whole
+  machine), washer 3.9 (full spin, the speedometer at 130 km/h), fridge 1.6 (open and glowing, the sun in the window),
+  vacuum 2.0 (the motor and the bin close up); every default hook-end was a bare start (a sink, a bucket, a frozen lake,
+  a broom on a dusty floor). All in the README.
+- Arabic cards: dots under the boss name collide like deep tails do. The ي of "الغسيل" met the sub "الوسخ لاصق في الخيوط"
+  (now "النقع ما ينفع") and the ب of "الغبار" met the shadda of "تطيّره" in the sub (now written without it). Seen on
+  full-size crops of the four cards before the long render.
+- Cuts (all -14.0 LUFS): English full 4:46.1 (true peak -2.1 dBFS, 81.7 MB at crf 24, chapters 0:00 0:13 1:17 2:22 3:25
+  4:26), short 1:27.9 (-2.2, 42.2 MB); Arabic full 4:50.3 (-2.5, 83.1 MB at crf 24, chapters 0:00 0:12 1:16 2:23 3:27
+  4:33), short 1:25.9 (-2.3, 42.3 MB). Stills sheets and 128 frames pulled from the four finished files looked at
+  (words, Arabic right to left, the right boss on each level). Render: Arabic chain 13:46-14:06, English 13:57-14:16
+  (the English voice was only ready at 13:56).
+- Hand-off: media/sm07-en.mp4 + media/sm07-ar.mp4 and posts/sm07.yml on main with ALL six targets on hold (790f76a).
+  kit/show/youtube/sm07.yml -> handoff.py pushed the two full cuts, the two thumbnails and sheet.json to the `show`
+  branch; every raw link answers 200 and `yt_desk.py plan` lists the four videos first on each channel (then builds
+  100-105). For Sat Nov 28 PT: Arabic full 09:00, English full 10:00, Arabic Short 10:30, English Short 12:15 (YouTube,
+  the main chat); TikTok + Instagram Arabic 10:30 (18:30Z), English 12:15 (20:15Z) after `yt_desk.py release sm07`.
+- The session's clone again sat on a Nov 23 `main` with HEAD detached at the tip, and a plain pull hung for two minutes
+  on four days of media. The recipe of the Nov 26 entry (`git update-ref refs/remotes/origin/main HEAD`, `git checkout
+  -B main HEAD`, then the blobless deepen with `--deepen=800`) is the fast way; a local branch `old-main-snapshot` keeps
+  the old pointer and can be ignored.
