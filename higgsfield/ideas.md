@@ -4156,3 +4156,42 @@ Checked, nothing new
   production" (title seen in a search, not read; 4K costs credits, HIGGSFIELD.md). Searches for this week's Shorts,
   Reels and TikTok features returned Made on YouTube (Sep 23) and older posts again.
   [TechNode, Oct 23 2026](https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/)
+
+## 2026-11-26 16:00 PT (hourly runner, cloud run)
+
+After Nov 28: paid routes to keep Seedance 2.5 (new to these notes; none is free, so the owner's call)
+- Artlist: its Seedance 2.5 page says "On Creator (Yearly), AI Professional, and AI Pro Plus plans, Seedance 2.5 costs
+  no credits at its full spec of 30 seconds and 720p" (4 to 30 s; 16:9, 9:16, 1:1 and 21:9; 1080p costs credits),
+  under "One subscription, one commercial license". Artlist's blog (Jun 3 2026, upd. Jun 9) puts AI Creator at $41.67
+  a month billed yearly (no monthly option); its own pages disagree on AI Pro ($239.99 a month yearly on the blog,
+  "$59" on the pricing page), and the model page shows a "Holiday Sale: 40% off yearly AI plans & 2x credits first
+  month" banner, so only the checkout page settles the price. The catch is Higgsfield's (08:05 entry): "Unlimited is
+  for human use only", "we don't permit automation, scraping or account sharing", "subject to reasonable use limits,
+  including daily usage thresholds" (by plan, 900, 4,000 or 5,000 fast jobs a month, then "standard speed"; 8 to 12
+  jobs at once). Free accounts get Seedance 2.0 Mini at 480p, not 2.5. FreeVisuals (a third party with affiliate
+  links, Sep 1 2026) says a "365 days" Seedance offer was advertised and pulled within days: not confirmed, as
+  Artlist's pages still show the no-credit line. For us: the cheapest commercial route to Seedance clips after Nov 28
+  seen so far, for clips a person makes by hand; its rules leave no room for an hourly runner.
+- OpenArt, per a promotional IndieHackers guide ("Pricing verified August 8, 2026"): unlimited Seedance 2.5 only on
+  Wonder, $240 a month or $175 a month yearly; "Starter has no commercial use rights"; "New accounts get free credits"
+  (amount not stated). OpenArt's own Seedance 2.5 page (no date) shows no unlimited offer now. UGC Copilot (a vendor;
+  header Nov 11 2026, offers "as advertised in early August 2026") adds Topview (60 days) and Crea (7, 15 or 30 days;
+  Creaa.ai's $149, $249 and $449 in the IndieHackers guide); those August windows are over. Nothing free and
+  commercial: Nov 28 stands.
+  [Artlist, Seedance 2.5](https://artlist.io/ai/models/seedance-2-5),
+  [Artlist, Jun 3 2026](https://artlist.io/blog/artlist-ai-unlimited-pricing-plan/),
+  [Artlist, pricing](https://artlist.io/page/pricing/max),
+  [FreeVisuals, Sep 1 2026](https://www.freevisuals.net/post/seedance-2-5-on-artlist-and-what-the-unlimited-offer-means),
+  [IndieHackers, Aug 9 2026](https://www.indiehackers.com/post/seedance-2-5-unlimited-how-to-generate-without-a-credit-meter-using-openart-2026-guide-5dd78914aa),
+  [OpenArt, Seedance 2.5 (JA)](https://openart.ai/ja/ai-model/seedance-2-5/),
+  [UGC Copilot, Nov 11 2026](https://ugccopilot.ai/blog/unlimited-seedance-25-offers-decoded/)
+
+Checked, nothing new
+- Seedance 3.0: only resellers' "coming soon" pages (seedance2.so, llamagen, CometAPI), nothing from ByteDance or
+  Higgsfield. New image models: the results are OpenAI's Dec 2025 and Apr 2026 releases. Higgsfield past Nov 28: the
+  "33 days", "14 days", "11 days 4K" and plan-change pages again. "Balloons steal show at NYC parade after wind fears"
+  (HeraldNet) is AP's 2013 story, not today's 100th parade. Feature searches returned Made on YouTube (Sep 23),
+  TikTok's Nov 2025 posts and Instagram's Oct 15 "Use as reference" (a Reel under 90 s plays in a small window while
+  you record in the Reels camera, iOS first): for camera-made Reels, not our cuts.
+  [HeraldNet, Nov 28 2013](https://www.heraldnet.com/news/balloons-steal-show-at-nyc-parade-after-wind-fears),
+  [Digital Trends, Oct 15 2026](https://digitaltrends.com/social-media/instagram-feature-to-recreate-trending-reels-with-new-on-screen-reference-tool/)
