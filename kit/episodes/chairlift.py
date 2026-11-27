@@ -14,7 +14,7 @@ Everything is drawn in screen space; captions sit at y 1330, so the pictures sta
 """
 from v2_base import *  # noqa: F401,F403
 
-SNOW = ("#E3EAF4", "#B9C7DA", "#8193AD")
+SNOW = ("#C3D0E2", "#9AACC6", "#71839F")
 STEELC = ("#CBD5E1", "#94A3B8", "#475569")
 SKIN = ("#E8B48A", "#C68E62", "#A8754E", "#F1C7A3")
 JACKETS = ("#EF4444", "#3B82F6", "#F59E0B", "#10B981", "#A855F7", "#EC4899")
@@ -121,7 +121,7 @@ def mountains(c, t, night=0.0, snow_y=1240):
         c.drawPath(p, P(mix("#1F4D3A", "#0E2219", night)))
 
 
-CAB0, CAB1 = (110, 1090), (900, 520)                   # the lift line: bottom and top stations
+CAB0, CAB1 = (110, 1090), (790, 560)                   # the lift line: bottom and top stations
 
 
 def cable_pt(u):
@@ -139,23 +139,26 @@ def lift_line(c, t, night=0.0, run=1.0, lit=0.0, detach=None):
     p.moveTo(*cable_pt(0))
     for k in range(1, 41):
         p.lineTo(*cable_pt(k / 40))
-    p.lineTo(1080, 520)
+    p.lineTo(930, CAB1[1])
     c.drawPath(p, P("#1F2937", 1, stroke=5))
     # the top station, cut open: the big wheel and the slow rail
-    c.drawRRect(rr(860, 420, 260, 170, 16), P(mix("#475569", "#1E293B", night), 0.95))
-    c.drawRRect(rr(880, 440, 240, 132, 12), P(mix("#0F172A", "#0B1020", night)))
+    sx0, sy0 = 760, CAB1[1] - 100
+    c.drawRect(R(sx0 + 20, sy0 + 160, 30, 160), P(mix("#475569", "#1E293B", night)))
+    c.drawRect(R(sx0 + 210, sy0 + 160, 30, 160), P(mix("#475569", "#1E293B", night)))
+    c.drawRRect(rr(sx0, sy0, 260, 170, 16), P(mix("#475569", "#1E293B", night), 0.95))
+    c.drawRRect(rr(sx0 + 14, sy0 + 16, 232, 138, 12), P(mix("#0F172A", "#0B1020", night)))
+    if lit > 0:
+        c.drawRect(R(sx0 + 14, sy0 + 16, 232, 138), P("#FDE68A", 0.25 * lit))
     c.save()
-    c.translate(1010, 520)
+    c.translate(930, CAB1[1])
     c.scale(1, 0.32)
-    c.drawCircle(0, 0, 90, P(STEELC[1], 1, stroke=12))
+    c.drawCircle(0, 0, 80, P(STEELC[1], 1, stroke=12))
     c.rotate(t * 90 * run)
     for k in range(6):
         c.rotate(60)
-        c.drawLine(0, 0, 0, -86, P(STEELC[1], 0.8, stroke=6))
+        c.drawLine(0, 0, 0, -76, P(STEELC[1], 0.8, stroke=6))
     c.restore()
-    c.drawLine(880, 548, 1080, 548, P("#F59E0B", 1, stroke=6))            # the slow rail
-    if lit > 0:
-        c.drawRect(R(880, 440, 240, 132), P("#FDE68A", 0.25 * lit))
+    c.drawLine(sx0 + 20, CAB1[1] + 30, sx0 + 245, CAB1[1] + 30, P("#F59E0B", 1, stroke=6))   # the slow rail
     for k in range(9):                                 # chairs riding up
         u = (k / 9 + t * 0.018 * run) % 1.0
         if u > 0.985:
@@ -164,11 +167,29 @@ def lift_line(c, t, night=0.0, run=1.0, lit=0.0, detach=None):
         chair(c, x, y, 0.42, t, riders=2 + (k % 3), seed=k)
     if detach is not None:                             # one chair letting go of the cable in the station
         d = clamp(detach)
-        x = lerp(880, 1010, e_out(d))
-        y = lerp(520, 548, smooth(d * 3))
+        x = lerp(CAB1[0] + 6, 930, e_out(d))
+        y = lerp(CAB1[1], CAB1[1] + 30, smooth(d * 3))
         chair(c, x, y, 0.42, t, riders=3, open_=clamp(d * 4), seed=11, swing=math.sin(d * 9) * 6 * (1 - d))
         if 0.05 < d < 0.4:
-            add_glow(c, x, 520, 40, HILITE, 0.7 * (1 - d / 0.4))
+            add_glow(c, x, CAB1[1], 40, HILITE, 0.7 * (1 - d / 0.4))
+
+
+def floor_dark(c, y=1250):
+    """The strip under the pictures where the captions sit: always dark."""
+    c.drawRect(R(0, y, W, H - y), lin_paint(0, y, 0, y + 240, ["#1E293B", "#0B1020"]))
+
+
+def closer_scene(c, t, night=1.0):
+    """The cover picture: a big chair with skiers riding across the frame, the lift lit behind it."""
+    mountains(c, t, night)
+    lift_line(c, t, night=night, lit=1.0)
+    c.drawRect(R(0, 0, W, H), P("#0B1020", 0.25))
+    a0, a1 = (-120, 660), (1200, 400)
+    c.drawLine(a0[0], a0[1], a1[0], a1[1], P("#111827", 1, stroke=10))
+    u = 0.42 + 0.02 * math.sin(t * 0.3)
+    x, y = lerp(a0[0], a1[0], u), lerp(a0[1], a1[1], u)
+    add_glow(c, x, y + 260, 360, "#FDE68A", 0.18)
+    chair(c, x, y, 1.55, t, riders=4, seed=7, swing=math.sin(t * 1.3) * 2)
 
 
 # ====================================================================================== the station close-up
@@ -267,7 +288,7 @@ def station(c, t, chair_x=None, open_=0.0, on_rail=0.0, tire_a=0.0, fall=0.0, si
     skier(c, 720, 1170, 300, t, fall=fall, sit=sit, a=skier_a)
     if chair_x is not None:
         y = lerp(CY, RAIL, smooth(on_rail))
-        chair(c, chair_x, y - 8, 1.6, t, riders=riders, open_=open_, seed=3)
+        chair(c, chair_x, y - 8, 2.2, t, riders=riders, open_=open_, seed=3)
 
 
 def speedo(c, x, y, kmh, a=1.0, top=20.0, col=None):
@@ -286,7 +307,8 @@ def speedo(c, x, y, kmh, a=1.0, top=20.0, col=None):
 
 # ====================================================================================== the slope and the grip close-up
 def slope_scene(c, t, slide=0.0, run=1.0):
-    vrect(c, 0, 0, W, H, ["#1E3A6E", "#6D5A9C", "#F0A3A0"], [0, 0.6, 1])
+    vrect(c, 0, 0, W, 1260, ["#1E3A6E", "#6D5A9C", "#F0A3A0"], [0, 0.6, 1])
+    floor_dark(c)
     hill = skia.Path()
     hill.moveTo(0, 1260)
     hill.lineTo(0, 1180)
@@ -357,7 +379,8 @@ def grip_closeup(c, t, squeeze=1.0, test=0.0, weak=0.0, stop=0.0):
 
 # ====================================================================================== the bottom terminal
 def terminal(c, t, heat=0.0, sag=0.0, slip=0.0, weight=0.0, run=1.0):
-    vrect(c, 0, 0, W, H, ["#1E3A6E", "#6D5A9C", "#F0A3A0"], [0, 0.6, 1])
+    vrect(c, 0, 0, W, 1260, ["#1E3A6E", "#6D5A9C", "#F0A3A0"], [0, 0.6, 1])
+    floor_dark(c)
     if heat > 0:
         add_glow(c, 880, 300, 220, "#FFD27A", 0.7 * heat)
         c.drawCircle(880, 300, 70, P("#FFE7A3", heat))
@@ -392,7 +415,8 @@ def terminal(c, t, heat=0.0, sag=0.0, slip=0.0, weight=0.0, run=1.0):
     if heat > 0:
         thermo(c, 160, 560, 260, 0.4 + 0.5 * heat, a=heat)
     if weight > 0:                                     # the counterweight in its pit, a rope over a pulley to the carriage
-        c.drawRect(R(560, 1000, 300, 240), P("#1F2937", weight))
+        c.drawRect(R(560, 1000, 300, 240), P("#1F2937", clamp(weight * 3)))
+        c.drawRect(R(560, 1000, 300, 240), P("#0B1020", clamp(weight * 3), stroke=8))
         px, py = 700, 860
         c.drawCircle(px, py, 30, P("#94A3B8", weight, stroke=10))
         c.drawLine(wx + 120, 860, px - 30, 860, P("#111827", weight, stroke=8))
@@ -433,8 +457,9 @@ def bananas(c, x, y, s, a=1.0):
 
 
 def port(c, t, swap=0.0, snowy=0.0):
-    vrect(c, 0, 0, W, H, [mix("#2C6E8F", "#1E3A6E", snowy), mix("#79C2C9", "#6D5A9C", snowy), mix("#F6D48C", "#F0A3A0", snowy)],
+    vrect(c, 0, 0, W, 1260, [mix("#2C6E8F", "#1E3A6E", snowy), mix("#79C2C9", "#6D5A9C", snowy), mix("#F6D48C", "#F0A3A0", snowy)],
           [0, 0.6, 1])
+    floor_dark(c)
     c.drawRect(R(0, 980, W, 280), P(mix("#1F6E8C", "#E3EAF4", snowy)))     # the sea (or snow)
     if snowy < 1:
         for k in range(10):
@@ -491,12 +516,12 @@ def glove_tag(c, t, drop=0.0):
 
 
 def buffet_tag(c, t, wait=0.0):
-    vrect(c, 0, 0, W, H, ["#3B1D4A", "#5B2A58"])
+    vrect(c, 0, 0, W, H, ["#22122E", "#3A1C40"])
     for k in range(9):                                 # string lights
         add_glow(c, 60 + k * 120, 360 + 30 * math.sin(k), 40, "#FDE68A", 0.7)
         c.drawCircle(60 + k * 120, 360 + 30 * math.sin(k), 8, P("#FEF3C7"))
-    c.drawRRect(rr(620, 640, 440, 70, 14), P("#F8FAFC"))                    # the buffet table with big rice trays
-    c.drawRect(R(640, 710, 400, 240), P("#E5E7EB"))
+    c.drawRRect(rr(620, 640, 440, 70, 14), P("#B9AE9A"))                    # the buffet table with big rice trays
+    c.drawRect(R(640, 710, 400, 240), P("#8C8270"))
     for k, cx in enumerate((700, 840, 980)):
         c.drawOval(R(cx - 64, 600, 128, 60), P("#B45309"))
         c.drawOval(R(cx - 52, 586, 104, 40), P("#F59E0B"))
@@ -504,9 +529,9 @@ def buffet_tag(c, t, wait=0.0):
             v2.puff(c, cx - 20 + j * 20, 560 - (t * 30 + j * 10) % 60, 14, "#F8FAFC", 0.3)
     xs = (520, 420, 320, 220, 120, 20)
     for k, x in enumerate(xs):                         # the line that never moves
-        shirt = "#F8FAFC" if k % 2 == 0 else "#E5E7EB"
+        shirt = "#C9D1DC" if k % 2 == 0 else "#B3BCC9"
         person(c, x, 1180, 360, shirt, t + k * 0.3, pose="stand" if k else "look", face=1, hair="#111827", skin=SKIN[k % 4])
-        c.drawOval(R(x + 10, 1180 - 250, 60, 16), P("#F8FAFC"))               # an empty plate
+        c.drawOval(R(x + 10, 1180 - 250, 60, 16), P("#D6D3CE"))               # an empty plate
     clock_a = prog(wait, 0.0, 0.2)
     if clock_a > 0:
         c.drawCircle(860, 1050, 90, P("#F8FAFC", clock_a))
@@ -541,7 +566,7 @@ class Chairlift(EpisodeV2):
         ("fix2", "TIRES"): "كفرات", ("fix2", "WALK"): "يمشي", ("fix2", "SPEED"): "وبعدين",
         ("break3", "LOOSE"): "الماسكة", ("break3", "SLIDES"): "يزحلق",
         ("fix3", "SPRINGS"): "سوست", ("fix3", "SHUT"): "تقفلها", ("fix3", "WEAK"): "ضعيفة", ("fix3", "STOPS"): "يوقف",
-        ("break4", "STEEL"): "الحديد", ("break4", "LONGER"): "يطول", ("break4", "HEAT"): "الحر", ("break4", "SLIPS"): "يزحلق",
+        ("break4", "CABLE"): "كيبل", ("break4", "LONGER"): "يطول", ("break4", "HEAT"): "الحر", ("break4", "SLIPS"): "يزحلق",
         ("fix4", "CONCRETE"): "خرسانة", ("fix4", "WEIGHT"): "ثقل", ("fix4", "TIGHT"): "مشدود",
         ("cta", "FOLLOW"): "متابعة", ("cta", "ICE"): "الثلج",
         ("reveal", "ANSWER"): "الجواب", ("reveal", "RAILROAD"): "سكة", ("reveal", "BANANA"): "موز",
@@ -583,7 +608,7 @@ class Chairlift(EpisodeV2):
             "loose": ("break3", "LOOSE", 0.25), "slides": ("break3", "SLIDES", 0.7),
             "springs": ("fix3", "SPRINGS", 0.15), "shut": ("fix3", "SHUT", 0.4), "weak": ("fix3", "WEAK", 0.65),
             "stops": ("fix3", "STOPS", 0.85),
-            "steel": ("break4", "STEEL", 0.15), "longer": ("break4", "LONGER", 0.4), "heat": ("break4", "HEAT", 0.6),
+            "steel": ("break4", "CABLE", 0.15), "longer": ("break4", "LONGER", 0.4), "heat": ("break4", "HEAT", 0.6),
             "slips": ("break4", "SLIPS", 0.9),
             "concrete": ("fix4", "CONCRETE", 0.3), "weight": ("fix4", "WEIGHT", 0.5), "tight": ("fix4", "TIGHT", 0.9),
             "follow": ("cta", "FOLLOW", 0.1), "ice": ("cta", "ICE", 0.7),
@@ -627,7 +652,7 @@ class Chairlift(EpisodeV2):
         if ph == "hook":
             k = e_io(prog(t, T["purpose"] - 0.3, s("break1") - 0.2))
             z = lerp(2.6, 1.0, k)
-            fx, fy = lerp(960, 540, k), lerp(520, 820, k)
+            fx, fy = lerp(850, 540, k), lerp(CAB1[1], 820, k)
             c.save()
             c.translate(540, 760)
             c.scale(z, z)
@@ -635,9 +660,9 @@ class Chairlift(EpisodeV2):
             mountains(c, t, 0.0)
             lift_line(c, t, detach=prog(t, T["chairs"] - 0.6, T["purpose"] + 0.4))
             c.restore()
+            floor_dark(c)
         elif ph == "closer":
-            mountains(c, t, 1.0)
-            lift_line(c, t, night=1.0, lit=1.0)
+            closer_scene(c, t, 0.6)
         else:
             night = prog(t, s("stat"), s("stat") + 1.2) * 0.5 if ph == "stat" else 0.0
             mountains(c, t, night)
