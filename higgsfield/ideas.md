@@ -4521,3 +4521,66 @@ Checked, nothing new
 - Trends: Virlo's weekly page is still the week of Nov 16; SocialPilot's weekly November list and the other trend
   pages in the results are here already. YouTube's Shorts tools: the results are the Made on YouTube 2026 pages
   already here (TechCrunch, Sep 23).
+
+## 2026-11-26 22:00 PT (hourly runner, cloud run)
+
+Free pictures and sounds (new to these notes)
+- Kaboompics (kaboompics.com), free photos: "You can use images for personal or commercial projects - unless marked as
+  Editorial Use Only"; "Giving credit to Kaboompics is not required but always appreciated"; asked if the photos can
+  go in digital videos, the FAQ says "Yes, our license allows that." Not allowed: selling or redistributing unmodified
+  images, a competing platform, claiming that people, brands or businesses in a photo endorse you, and "Images cannot
+  be used for AI training, image generation, biometric tracking, or facial recognition": so a Kaboompics photo may go
+  into an edit as it is, never into Higgsfield as a reference or a start frame. Photos with "recognizable logos,
+  artworks, products, buildings, or people" are commercial only at our own legal risk (pick ones without them), and
+  the free library is photos only (videos are sold in its shop). No date on the page ("We may update this license at
+  any time").
+  [Kaboompics, licence and FAQ](https://kaboompics.com/page/license-and-faq)
+- ZapSplat (zapsplat.com), sound effects: a free member may use them "in an unlimited number of personal, commercial,
+  and broadcast projects", "YouTube videos, Twitch streams, and other online media" among them, but "must provide
+  clear credit to "ZapSplat" wherever reasonably possible" (credits or the description; premium members need none);
+  the sounds may not be the "primary value" of a work or be passed on to others (licence "Last updated: 29th
+  September 2025"). Content ID: "A very small number of our music tracks (not sound effects) could potentially
+  trigger a Content ID claim" (those tracks carry a yellow mark). So a whoosh or a thud costs one "Sounds: ZapSplat"
+  line in the description.
+- Freesound (freesound.org): each sound has its own licence. CC0: "you can do pretty much what you want with the
+  sound"; CC BY: "you should always mention the original creators of the sounds when you use them"; CC BY-NC: "you
+  can't earn any money with the piece of work you create", so never for our monetized posts. Filter the search to
+  CC0 (or CC BY, with the FAQ's credit form, "sound1" by user1 ( http://freesound.org/s/soundID/ ) plus the licence,
+  in the description). The FAQ adds "We aren't lawyers so this isn't legal advice".
+  [ZapSplat, licence](https://www.zapsplat.com/license-agreement),
+  [ZapSplat, YouTube icons FAQ](https://www.zapsplat.com/youtube-safe-content-faq),
+  [Freesound, FAQ](https://freesound.org/help/faq)
+
+Not free for our posts (new to these notes)
+- The San Diego Air & Space Museum's Flickr archive (flickr.com/people/sdasmarchives), a big aviation photo set:
+  search results show Wikipedia file pages from it marked "No known restrictions on publication", but the museum's
+  own page says "Our free Flickr downloads are only available for personal or K-12 in-classroom use", "Any published
+  work that earns an income is considered commercial", and "Fees for photocopies, print and film duplication and
+  commercial usage of SDASM images/film apply" (a request form and a fee schedule; "If there is no known images/film
+  credit, assume that SDASM holds the copyright"). So no SDASM picture in a build, even one found on Commons.
+  [SDASM, usage and reproduction](https://sandiegoairandspace.org/research/usage-reproduction)
+
+EBR-I (the Dec 20 candidate): the four-bulb photo's credit line (new to these notes; the 18:00 entry left it open)
+- INL's own copy on EurekAlert ("Generating usable electricity from fission (IMAGE)", posted by DOE/Idaho National
+  Laboratory): caption "In 1951, Experimental Breeder Reactor-I (EBR-I) became the first nuclear reactor to generate
+  usable amounts of electricity when it powered four lightbulbs", credit "Idaho National Laboratory", usage
+  restrictions "NA", licence "Original content" (no date read). A press image put out with no restrictions, not a
+  public-domain statement: the best lead so far (credit "Idaho National Laboratory"), but read its source page on
+  inl.gov ("Celebrating INL's legacy of innovation") before a build uses it. Wikipedia's EBR-I page was not read (the
+  same approval wait).
+  [EurekAlert, INL image](https://www.eurekalert.org/multimedia/1107918)
+
+Trends (new to these notes)
+- Virlo's Emerging Trends Radar, a "Daily Short-Form Trend Digest" of TikTok, Shorts and Reels trends "ranked by
+  momentum, not raw volume": "Last updated November 26, 2026 · 12 trends", all news and pop culture (the parade's
+  postponement on top, NBC News' video at 2.1M views; Thanksgiving Eve; the rest TV, film, music, pageant, celebrity
+  and gaming news), nothing on science, engineering or explainers. The parade is the balloon chain already here (Nov
+  25-26 entries); nothing else on it is for us. Virlo's November archive (updated Nov 21) lists daily pages up to Nov
+  25 and a week-48 roundup (a page summary's reading, not checked line by line).
+  [Virlo, Emerging Trends Radar](https://virlo.ai/data/emerging-trends),
+  [Virlo, November archive](https://virlo.ai/trending/2026-11)
+
+Checked, nothing new
+- Higgsfield's Black Friday at about 21:55 PT: the same pages (dio.me, both mydealz deals, aimojo, the "33 days" and
+  plan-change pages), so Nov 28 stands. The parade search returned forecast and wind stories; the postponement to
+  Saturday is in the Nov 25-26 entries. Shorts trend pages: mean.ceo's and metricool's are already here.
