@@ -5021,3 +5021,105 @@ Checked, nothing new
   and stackinfluence, all here already. A search for this week's TikTok feature news returns TikTok newsroom items of
   Oct 28, Nov 13 and Nov 24 2025 (a year old), an AOL story on two AI tools, Smart Split and AI Outline (undated in
   the results), and Social Media Today on TikTok World 2026's ad tools (for advertisers): none read.
+
+## 2026-11-27 04:00 PT (hourly runner, cloud run)
+
+Build candidates (new to these notes; neither is in LINEUP or episodes.yml)
+- A snow groomer with a winch, the machine that resurfaces a ski mountain every night: a winter build that pairs with
+  LINEUP 107 (the chairlift) and 108 (the ice resurfacer). How: the front blade "can be up to 20 feet wide! It moves
+  in 12 different directions", "A spinning cutter bar churns up the snow" and it is "sculpted into your favorite rows
+  of corduroy by a flap called the comb" (Park City Mountain, Mar 10 2023); the tracks spread the weight to "typically
+  0.040 to 0.060 kg/cm2" (Wikipedia, Snow grooming) on treads "up to 6 feet wide on some cats" (Park City); one model
+  weighs about ten tons (KPCW prints "21,0000-pound": check). The steep part: winch cats work "Steeper trails with
+  angles about 30 degrees and steeper" (Park City); crossing the fall line "can be risky", and an operator says "you
+  take off sliding downhill and won't be able to climb back up" (KPCW, Apr 14 2024); so "The free end of the cable is
+  anchored at the top of a slope" (Park City), to "a metal pole, or ... another snow cat" (KPCW), with "cable lengths
+  of up to 1,200 metres and a tractive force of up to 4.8 tonnes" (Wikipedia), and the winch "enables the snowcat to
+  control its descents" (Park City). A maker's own claim: "In 1985, PistenBully was the first snow grooming company to
+  introduce a self-contained winch", two machines for Mammoth Mountain's 1985-86 winter; Mammoth now has "82 different
+  winch picks" (PistenBully, Nov 7 2025; the brand stays off screen and out of the script). Timing: groomers go out
+  "during the night time after the close of the ski area" with "visual or acoustic signals" (Wikipedia) and work "all
+  night until just before our lifts start spinning at 9:00 am" (Park City). Proof: Deer Valley runs "50 groomers", "a
+  combined 182 hours of grooming every night consuming 1,000 gallons of diesel" (KPCW). Chain: a slope scraped into
+  ice and heaps by a day of skiers (A2, ours) → wide tracks that float on the snow (A3) → a blade alone leaves loose
+  lumps (A4, ours) → the spinning tiller and the comb leave corduroy (A5) → on a steep face the machine slides (A6) →
+  the cable anchored at the top (B1) → a taut cable across a dark slope (B2, ours: no page read reports an accident,
+  so keep it a picture of the risk) → work after the lifts close, lit up and signalling (B3) → Deer Valley's night
+  (B5). A1: at night a groomer under its own floodlights hangs on one taut steel cable on a steep white face, leaving
+  corduroy behind it. B6: funny slow motion, a carpet just vacuumed into neat stripes and the dog trots straight across
+  it. Stat line: "1,200 METERS" of cable. Kept out: makers' names and logos, drivers' faces (cabs seen from outside).
+  [Wikipedia, Snow grooming](https://en.wikipedia.org/wiki/Snow_grooming),
+  [Park City, Mar 10 2023](https://www.parkcitymountain.com/blog/science-of-grooming.aspx),
+  [PistenBully, Nov 7 2025](https://www.pistenbully.com/en-US/news/2025/winch-40),
+  [KPCW, Apr 14 2024](https://www.kpcw.org/ski-resorts/2024-04-14/how-deer-valley-resort-snow-groomers-lay-down-the-corduroy)
+- An icebreaker that goes backwards, and one that goes sideways (a winter sea build). An icebreaking bow is "designed
+  to break the ice by bending it under the ship's weight" (Wikipedia, Double acting ship). The surprise: "In the late
+  1800s, captains ... discovered that sometimes it was easier to break through ice by running their vessels astern"
+  ("Although not known at the time", the propellers' flow "lowered the ice resistance"); the cost: "the steering
+  ability of a ship is greatly reduced when running astern" (Wikipedia). The fix: a propeller pod that turns all the
+  way round, so the ship steers going astern; model tests in 1994 gave a "40–50% reduction in ice resistance due to
+  lubricating effect of propeller-induced water flow" (Wikipedia), and "Propellers mill the underwater part of the
+  ice ridge to open a passage" (ABB, Sep 14 2021). Proof: the first double acting tanker, Tempera, delivered in 2002
+  (sister Mastera 2003; 106,000 tonnes deadweight, one 16 MW pod): "The ships can break level ice up to 1 metre (3.3
+  ft) thick at 3 knots" stern first (Wikipedia; Marine Insight's "2 knots in 1mm thick ice" is a misprint: don't use).
+  The second twist: escorting ships "up to 40 metres (130 ft) wide" took "two conventional icebreakers with a beam of
+  23–25 metres", so the same design centre (MARC) drew "an asymmetrical, triangle-shaped vessel with three azimuth
+  thrusters in the 'corners'" that pushes at "a 50-degree angle of attack—almost sideways—in ice" to "generate a
+  50-metre (55 yd) channel in 0.6-metre (2.0 ft) ice"; the 76.4 m ship was "completed in 2014" at Arctech Helsinki
+  Shipyard and showed sideways icebreaking in 2015 trials (Wikipedia, Oblique icebreaker, which also notes "doubts
+  about the ability of the relatively small vessel to break a wide channel in ice", with no answer given: check).
+  Chain: a frozen sea with a ship stuck fast (A2, ours) → a bow that bends the ice under the ship's weight (A3) → a
+  thick ridge stops the bow dead (A4, ours) → going astern, the propellers wash and chew the ice away (A5) → a ship
+  going backwards can hardly steer (A6) → the pod that turns all the way round (B1) → a ship far wider than the
+  icebreaker's channel (B2) → the triangle ship going sideways (B3) → a big tanker reversing steadily through
+  metre-thick ice (B5). A1: from the air, a squat triangle-shaped ship moving sideways across white sea ice, a wide
+  black channel opening behind it. B6: funny slow motion, a man cannot push his loaded shopping trolley through deep
+  snow in a car park, turns round and pulls it backwards with ease, then slips. Stat line: "50 METERS" of open water.
+  Kept out: the ships' owners and the oil route they were built for (a state ministry and an Arctic trade: no
+  politics), crews' faces, makers' names.
+  [Wikipedia, Double acting ship](https://en.wikipedia.org/wiki/Double_acting_ship),
+  [Wikipedia, Oblique icebreaker](https://en.wikipedia.org/wiki/Oblique_icebreaker),
+  [ABB, Sep 14 2021](https://new.abb.com/news/detail/82273/menu-login-button),
+  [Marine Insight](https://www.marineinsight.com/types-of-ships/what-are-double-acting-tankers/)
+
+Free picture leads (two museum open-access collections new to these notes)
+- The Cleveland Museum of Art: images of its public-domain works under "Creative Commons Zero ... (CC0)", for
+  "unrestricted commercial and noncommercial use", and "Attribution is not required" (its GitHub README: images for
+  "as many as 30,000 works", data on "more than 61,000 artworks", undated); works still in copyright get data but no
+  image, and the museum's marks must not suggest an endorsement. Each work's page and the open API show the rights.
+  A first find for LINEUP 111 (the pin tumbler lock): a Roman "Key" of 1-100 CE, "iron tang, bronze handle", 15.6 cm
+  (accession 1952.586), "Public Domain" on its page and "share_license_status": "CC0" in the API, with a 2,231 x 3,400
+  px print JPG (taller than wide, so it crops to 9:16). The page does not say what kind of lock it opened ("might once
+  have unlocked a country villa" is a scholar's guess), so a script calls it only "a Roman key, nearly 2,000 years
+  old". Not fetched yet: when build 111 is made, `python3 scripts/ai_media.py fetch
+  buildit-<kit>-romankey.jpg=https://openaccess-cdn.clevelandart.org/1952.586/1952.586_print.jpg`.
+  [CMA, Open Access](https://clevelandart.org/open-access),
+  [CMA, README](https://raw.githubusercontent.com/ClevelandMuseumArt/openaccess/master/README.md),
+  [CMA, Key 1952.586](https://www.clevelandart.org/art/1952.586),
+  [CMA API, 1952.586](https://openaccess-api.clevelandart.org/api/collectiononline/metadata/1952.586)
+- The Art Institute of Chicago: "over 50,000 images" (undated) under CC0, "including commercial and noncommercial
+  uses, free of charge and without additional permission from the museum", for works "believed to be in the public
+  domain"; it "has many artworks which are covered by a copyright", and "A download button is included on pages when
+  the artwork image is in the public domain" (its search has a "Public Domain Filter"); it requests the caption
+  "Artist. Title, Date. The Art Institute of Chicago." A search turned up its "Brooklyn Bridge" works (artworks 16545
+  and 47274), not read: build 105 is made already, so they matter only for the 4-minute show or a remake.
+  [AIC, Open access images](https://www.artic.edu/open-access/open-access-images),
+  [AIC, Image licensing](https://www.artic.edu/image-licensing)
+
+Trends
+- Virlo's "Social media trends" page (new to these notes; header "Updated November 19, 2026", data "As of November
+  27, 2026 at 04:37 UTC"): "on-screen text was the most common visual hook, in 58% of videos" in a 20,000-video
+  sample, the same share the Shortform Kit study found for text on the first frame (Nov 24 06:05 entry) in a separate
+  sample, so the cover text on frame 0 and the title and kicker during the hook stay. Virlo's TikTok week (Nov 23-26,
+  updated Nov 26): the GTA VI wave is on TikTok too, "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the
+  Lizard Wizard) [From GTAVI: Original Score]" the top sound with 464 new videos (the 03:00 entry had Instagram's
+  count); the week's new formats are dance and meme templates ("Boom Clap confetti pop", 69 posts; "SZA Living So Good
+  affirmation", 48, +336%), with no science or holiday item and no Build-It use.
+  [Virlo, Social media trends](https://virlo.ai/social-media-trends),
+  [Virlo, week of Nov 23 2026](https://virlo.ai/trending-on-tiktok-this-week)
+
+Checked, nothing new
+- startups.co.uk's November list (Nov 2, here already): its "Christmas countdown" overlay ("99 days until Christmas")
+  is its only end-of-year format and is out of date now.
+- Higgsfield's Black Friday at about 04:00 PT on the day: the same pages (dio.me, both mydealz deals, kripeshadwani,
+  the 14-day and 33-day Seedance posts, geo.higgsfield's plan pages); nothing moves Nov 28.
