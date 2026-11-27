@@ -15,9 +15,9 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 12,
+ "requested_characters": 54,
  "recorded_this_run": [
-  "Tsl"
+  "h1"
  ],
  "notes": [],
  "lines": [
@@ -25,10 +25,10 @@
    "id": "h1",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Luggage فيها حرفين G، بس ما بنلفظ G! كيف بنقراها؟",
-   "characters": 49,
+   "text": "Luggage فيها حرفين G، بس التاني بينقرا J! كيف بنقراها؟",
+   "characters": 54,
    "model": "eleven_v4",
-   "seconds": 5.2
+   "seconds": 5.84
   },
   {
    "id": "p01t",

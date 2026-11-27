@@ -15,9 +15,9 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 12,
+ "requested_characters": 58,
  "recorded_this_run": [
-  "Tsl"
+  "h1"
  ],
  "notes": [],
  "lines": [
@@ -25,10 +25,10 @@
    "id": "h1",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "Luggage فيها جوج د G، ولكن ما كتنطقش G! كيفاش كتقراها؟",
-   "characters": 54,
+   "text": "Luggage فيها جوج د G، ولكن التانية كتقرا J! كيفاش كتقراها؟",
+   "characters": 58,
    "model": "eleven_v4",
-   "seconds": 5.2
+   "seconds": 5.84
   },
   {
    "id": "p01t",
