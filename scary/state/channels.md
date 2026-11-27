@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-26T22:27:20+00:00
+# Yallah Say Buffer channels, checked 2026-11-27T01:54:25+00:00
 
 - en: Buffer sees tiktok (thedarktoldme), youtube (The Dark Told Me), instagram (thedarktoldme)
 - en.youtube: will post to The Dark Told Me
@@ -16,6 +16,7 @@
 - ep02-en-yt en.youtube: sent, sent 2026-11-25T19:06:16.046Z, https://www.youtube.com/shorts/BvzugHW0eQo
 - ep02-en en.instagram: sent, sent 2026-11-22T22:44:00.496Z, https://www.instagram.com/reel/DgD5su3sm1H/
 - ep02-en en.tiktok: sent, sent 2026-11-22T22:42:30.756Z, https://www.tiktok.com/@thedarktoldme/video/7711129451064577293
+- ep03-en-yt en.youtube: scheduled, due 2026-11-29T01:51:24.000Z
 - ep03-en en.instagram: sent, sent 2026-11-22T16:54:57.289Z, https://www.instagram.com/reel/DgDRwoQB-nv/
 - ep03-en en.tiktok: sent, sent 2026-11-22T16:53:30.939Z, https://www.tiktok.com/@thedarktoldme/video/7711039488847383822
 - ep04-en-tt en.tiktok: sent, sent 2026-11-23T11:28:15.861Z, https://www.tiktok.com/@thedarktoldme/video/7711326541375917325
@@ -47,7 +48,7 @@
 - ep17-en-yt en.youtube: scheduled, due 2026-11-28T20:02:18.000Z
 - ep17-en en.instagram: sent, sent 2026-11-22T11:05:30.619Z, https://www.instagram.com/reel/DgCp9zhi913/
 - ep17-en en.tiktok: sent, sent 2026-11-22T11:04:55.655Z, https://www.tiktok.com/@thedarktoldme/video/7710949626613910798
-- ep18-en-yt en.youtube: scheduled, due 2026-11-27T01:11:08.000Z
+- ep18-en-yt en.youtube: sent, sent 2026-11-27T01:11:20.725Z, https://www.youtube.com/shorts/9Z5NTlzhawY
 - ep18-en en.instagram: sent, sent 2026-11-22T14:34:55.031Z, https://www.instagram.com/reel/DgDBvEkhJA5/
 - ep18-en en.tiktok: sent, sent 2026-11-22T14:33:47.494Z, https://www.tiktok.com/@thedarktoldme/video/7711003458450607373
 - ep19-en-tt en.tiktok: sent, sent 2026-11-23T12:37:00.853Z, https://www.tiktok.com/@thedarktoldme/video/7711344370250697997
@@ -69,12 +70,14 @@
 - mary-p1-en en.tiktok: scheduled, due 2026-11-28T17:00:55.000Z
 - mary-p2-en en.instagram: scheduled, due 2026-11-28T21:02:02.000Z
 - mary-p2-en en.tiktok: scheduled, due 2026-11-28T21:02:50.000Z
+- mary-p3-en en.instagram: scheduled, due 2026-11-29T00:00:53.000Z
+- mary-p3-en en.tiktok: scheduled, due 2026-11-29T00:02:07.000Z
 - naddaha-p1-en en.instagram: sent, sent 2026-11-26T17:13:58.796Z, https://www.instagram.com/reel/DgNnRKOhQl4/
 - naddaha-p1-en en.tiktok: sent, sent 2026-11-26T17:11:55.492Z, https://tiktok.com/@thedarktoldme/video/7712528580588178702
 - naddaha-p2-en en.instagram: sent, sent 2026-11-26T21:05:44.290Z, https://www.instagram.com/reel/DgOB0x6hIyR/
 - naddaha-p2-en en.tiktok: sent, sent 2026-11-26T21:05:17.488Z, https://tiktok.com/@thedarktoldme/video/7712588756594756878
-- naddaha-p3-en en.instagram: scheduled, due 2026-11-27T00:01:54.000Z
-- naddaha-p3-en en.tiktok: scheduled, due 2026-11-27T00:00:40.000Z
+- naddaha-p3-en en.instagram: sent, sent 2026-11-27T00:05:01.253Z, https://www.instagram.com/reel/DgOWXmPhtwa/
+- naddaha-p3-en en.tiktok: sent, sent 2026-11-27T00:06:11.373Z, https://tiktok.com/@thedarktoldme/video/7712635350690057485
 - roushdy-p1-en en.instagram: sent, sent 2026-11-25T17:14:20.418Z, https://www.instagram.com/reel/DgLCiVqpL72/
 - roushdy-p1-en en.tiktok: sent, sent 2026-11-25T17:14:45.582Z, https://www.tiktok.com/@thedarktoldme/video/7712158428541537550
 - roushdy-p2-en en.instagram: sent, sent 2026-11-25T21:04:59.127Z, https://www.instagram.com/reel/DgLc-W3Jx6p/
