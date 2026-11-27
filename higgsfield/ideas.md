@@ -4471,3 +4471,53 @@ Checked, nothing new
   these notes ("33 days unlimited", the 7-day bonus, the 11.11 deals, the 14-day and 4K pages) and Indie Hackers'
   OpenArt guide (also here); two new results (trak.in's "up to 33 days" story, Higgsfield's "best 5 platforms" post)
   were not opened. So the rules' end date (Nov 28) stands.
+
+## 2026-11-26 21:00 PT (hourly runner, cloud run)
+
+Build 113, Formula Rossa: LINEUP's idea line is out of date (new to these notes)
+- LINEUP calls it "the world's fastest roller coaster", but Wikipedia now says "The record was surpassed by Falcon's
+  Flight on 31 December 2025" (its box: "World's Fastest Roller Coaster 4 November 2010 – 31 December 2025"; Falcons
+  Flight, 250 km/h, is in the Nov 25 22:05 entry). What Formula Rossa holds is Guinness's "Highest speed achieved by a
+  rollercoaster launch", 240 km/h, "verified on 30 April 2026" (the record page; the GWR story of that day puts the
+  run "on 28 January": check which date a line gives), "0-240km/h (149.12 mph) in just 4.9 seconds". So its lines say
+  "the fastest launch", not "the fastest coaster", and the lost crown plus the new title is a ready twist. Why
+  Falcons Flight's 250 km/h does not count as a launch is on none of the three pages: check before a line says it.
+- For the shots (Wikipedia unless marked): a hydraulic launch "capable of 20,800 hp", 0-100 km/h in about two seconds
+  over a 400 m launch run, up to 1.7 g in the launch and 4.8 g in the ride (GWR: 4.8), 2.07 km of track (GWR gives
+  both 2.2 and 2.07), a 52 m hill, open since 4 Nov 2010, and "Riders are required to wear safety goggles to protect
+  from airborne particles such as dust". How the train is braked is on none of the three pages.
+  [GWR news, Apr 30 2026](https://www.guinnessworldrecords.com/news/2026/4/formula-rossa-achieves-highest-ever-rollercoaster-launch-speed-to-extend-record-legacy),
+  [GWR record](https://www.guinnessworldrecords.com/world-records/780255-highest-speed-achieved-by-a-rollercoaster-launch),
+  [Wikipedia, Formula Rossa](https://en.wikipedia.org/wiki/Formula_Rossa)
+
+Build 114, the soda can: LINEUP's check sources read (new to these notes)
+- CSMonitor (Apr 14 2015, on Bill Hammack's video): "less than a tenth of a millimeter thick"; "up to 90 pounds per
+  square inch (about six times regular atmospheric pressure)". The car-tyre comparison is LINEUP's, not the page's
+  (check a tyre figure before a line uses it), and 90 psi is the most a can holds, not its usual fill. The dome
+  "allows the can to withstand greater pressures than if it were flat"; the top is "tapered in" for "aluminum
+  savings" (Hackaday); full against empty is only the hand-crush comparison, no figure. A "flat disk a few inches
+  across" is pressed into a shallow cup, then a taller one, in "a seventh of a second"; "about 100 billion cans each
+  year" for the industry (the same page's "100 million cans in a sixth-month period" is one machine, likely a typo:
+  keep the two apart); a coating inside against a metallic taste; carbon dioxide for soda, nitrogen for juice. On
+  neither page: the can's weight, the lid's alloy, an inventor or a year.
+  [CSMonitor, Apr 14 2015](https://csmonitor.com/Science/Science-Notebook/2015/0414/The-surprising-science-behind-the-aluminum-soda-can),
+  [Hackaday, Apr 17 2015](https://hackaday.com/2015/04/17/you-betta-recognize-the-aluminum-beverage-can)
+
+Free pictures (new to these notes)
+- Lummi (lummi.ai), AI-made stock images: "All images are free for commercial and personal use without
+  attribution", the one limit named "Cannot compile Lummi photos to create a competing stock photo service"
+  (licenseorg's summary; Lummi's own licence was not read); stills only, no video. Look each one over for logo-like
+  marks before use.
+- rawpixel: Public Domain Review lists its museum and archive scans as "CC0 license", but its premium images have "a
+  separate, more restrictive license" and licenseorg's own free-tier table marks commercial use as not allowed
+  (against its text calling the free images "public domain or CC0"): so only an image whose own page says CC0 or
+  public domain. rawpixel's own licence page is for a later run.
+  [licenseorg, Lummi](https://licenseorg.com/guide/images/lummi),
+  [Codrops, Jul 4 2024](https://tympanus.net/codrops/2024/07/04/lummi-say-goodbye-to-boring-stock-photos-forever),
+  [licenseorg, rawpixel](https://licenseorg.com/guide/images/rawpixel),
+  [Public Domain Review, rawpixel](https://publicdomainreview.org/collections/source/rawpixel/)
+
+Checked, nothing new
+- Trends: Virlo's weekly page is still the week of Nov 16; SocialPilot's weekly November list and the other trend
+  pages in the results are here already. YouTube's Shorts tools: the results are the Made on YouTube 2026 pages
+  already here (TechCrunch, Sep 23).
