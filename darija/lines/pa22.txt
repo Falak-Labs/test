@@ -8,5 +8,5 @@ T | p04t | أنا راوح عالدار.
 T | p05t | الحمدلله عالسلامة!
 T | tw | Luggage.
 T | w6 | Good job! Luggage!
-T | v2 | شنطاتي تقيلة كتير!
+T | v2 | شنطتي تقيلة كتير!
 T | Tsl | Lug... edge.
