@@ -8,5 +8,5 @@ A | p05k | It's snowing!
 A | w5 | Temperature!
 L | v1 | The temperature is 30 degrees today!
 L | Lw | Temperature!
-A | Asl | Tempruh... cher.
-L | Lsl | Tempruh... cher.
+A | Asl | Tempruh... chur.
+L | Lsl | Tempruh... chur.

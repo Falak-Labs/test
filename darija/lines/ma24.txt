@@ -9,4 +9,4 @@ T | p05t | كتطيح الثلج!
 T | tw | Temperature.
 T | w6 | Good job! Temperature!
 T | v2 | الحرارة ثلاثين درجة اليوما!
-T | Tsl | Tempruh... chur.
+T | Tsl | Tempruh... tchur.
