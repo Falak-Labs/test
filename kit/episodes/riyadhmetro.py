@@ -556,7 +556,7 @@ class RiyadhMetro(EpisodeV2):
     COVER_T = ("closer", 0.55)
     TITLE = {"en": "THE RIYADH METRO", "ar_sa": "مترو الرياض"}
     EMPH = {"en": ["RIYADH", "BEST", "SEAT", "TRAIN", "DRIVER'S", "MILLIONS", "TRAFFIC", "BIG", "METRO", "MACHINES",
-                   "TUNNELS", "TRACKS", "CONCRETE", "LEGS", "DESERT", "WATER", "GROUNDWATER", "PUMPS", "DRY", "WATERTIGHT",
+                   "TUNNELS", "TRACKS", "CONCRETE", "LEGS", "DESERT", "WATER", "LOTS", "PUMPS", "DRY", "WATERTIGHT",
                    "LINING", "WHO", "HUNDRED", "EIGHTY", "TRAINS", "NOBODY", "COMPUTERS", "CONTROL", "ROOM", "DRIVER",
                    "FALLING", "GLASS", "WALLS", "PLATFORMS", "FOLLOW", "CHAIRLIFT", "PURPOSE", "SEVENTY-SIX",
                    "KILOMETERS", "LONGEST", "DRIVERLESS", "EARTH", "SIX", "LINES", "EIGHTY-FIVE", "STATIONS", "MINUTES",
@@ -570,7 +570,7 @@ class RiyadhMetro(EpisodeV2):
         ("hook", "RIYADH"): "الرياض", ("hook", "SEAT"): "أحلى", ("hook", "DRIVER"): "السواق",
         ("break1", "MILLIONS"): "ملايين", ("break1", "TRAFFIC"): "الزحمة", ("break1", "BIG"): "طول",
         ("fix1", "MACHINES"): "حفروا", ("fix1", "TUNNELS"): "أنفاق", ("fix1", "TRACKS"): "السكة", ("fix1", "LEGS"): "أعمدة",
-        ("break2", "DESERT"): "الصحرا", ("break2", "WATER"): "موية", ("break2", "GROUNDWATER"): "جوفية",
+        ("break2", "DESERT"): "الصحرا", ("break2", "WATER"): "موية", ("break2", "LOTS"): "جوفية",
         ("fix2", "PUMPS"): "المضخات", ("fix2", "DRY"): "شفطوها", ("fix2", "LINING"): "خرسانة",
         ("break3", "WHO"): "مين", ("break3", "HUNDRED"): "مية", ("break3", "TRAINS"): "قطار", ("break3", "DAY"): "اليوم",
         ("fix3", "NOBODY"): "أحد", ("fix3", "COMPUTERS"): "الكمبيوتر", ("fix3", "CONTROL"): "تحكم", ("fix3", "WATCHES"): "تراقب",
@@ -609,7 +609,7 @@ class RiyadhMetro(EpisodeV2):
             "millions": ("break1", "MILLIONS", 0.15), "traffic": ("break1", "TRAFFIC", 0.45), "big": ("break1", "BIG", 0.85),
             "machines": ("fix1", "MACHINES", 0.1), "tunnels": ("fix1", "TUNNELS", 0.3), "tracks": ("fix1", "TRACKS", 0.6),
             "legs": ("fix1", "LEGS", 0.9),
-            "desert": ("break2", "DESERT", 0.2), "water": ("break2", "WATER", 0.5), "gw": ("break2", "GROUNDWATER", 0.85),
+            "desert": ("break2", "DESERT", 0.2), "water": ("break2", "WATER", 0.5), "gw": ("break2", "LOTS", 0.85),
             "pumps": ("fix2", "PUMPS", 0.15), "dry": ("fix2", "DRY", 0.4), "lining": ("fix2", "LINING", 0.85),
             "who": ("break3", "WHO", 0.1), "hundred": ("break3", "HUNDRED", 0.45), "trains": ("break3", "TRAINS", 0.7),
             "day": ("break3", "DAY", 0.9),
