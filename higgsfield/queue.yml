@@ -1652,3 +1652,68 @@ jobs:
       as a train glides in with no one in the driver's cab, slow push-in. Shot 6 (25-30 s): funny slow motion, a
       pigeon hops onto a metro train just as the glass doors slide shut, rides one stop standing proudly in the middle
       of the aisle between passengers seen from behind, then hops off at the next station.
+
+  - id: chairlift-A
+    build: 107
+    kit: chairlift
+    # Added Nov 26 19:59 PT by the hourly runner (cloud) with two jobs still todo (riyadhmetro-A/B): 107 is the next
+    # LINEUP idea with no pair. Facts (ideas.md Nov 25 entry on the chairlift, Nov 26 11:00 and 20:00): the lifts on
+    # Proctor and Dollar mountains at Sun Valley "opened with the resort in December 1936" as "single chairs that were
+    # affixed to an overhead cable"; the engineer James Curran worked from "conveyor belts used to load bananas onto
+    # ships in Central America" (Smithsonian) and "replaced the hooks on which bananas hung with chairs" (Union
+    # Pacific, Dec 3 2019): A1 is our picture of that (one chair among the bananas). A2: rope tows were "uncomfortable
+    # and awkward, and on occasion, dangerous" (Linda Hall Library). A3: "A lift chair was attached to the side of a
+    # truck for the test", the rider on roller skates (UP). A4 (ours): the first chairs had a fixed grip, their bars
+    # "fixed against longitudinal movement along the rope" (patent US 2,152,235, filed 1937; Bannerman, Curran and
+    # Trout), so a chair meets the rider at full rope speed. A5: "When the vehicle enters the station, the grip
+    # detaches from the rope" (Unofficial Networks, Jan 30 2024), on "rubber tires that guide chairs through the base
+    # terminal" (Colorado Ski History) at "a typical speed of 200 feet per minute" (Wikipedia). A6 (ours, fixed by B1):
+    # tension is kept for "variations in rope length due to temperature" and to "maintain friction between the rope
+    # and the drive bullwheel" (Wikipedia, Chairlift). Curran and his team are real people: never shown. No faces:
+    # people only from behind; no logos, brand names or writing anywhere.
+    status: todo
+    file: buildit-chairlift-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): at a 1930s tropical port, bunches of green bananas hang from hooks on a moving steel cable
+      carrying them from the dock into a cargo ship's hold, and among them one hook carries a single empty wooden
+      chair, slow push-in. Shot 2 (5-10 s): 1930s, on a steep snowy mountainside skiers seen from behind climb on foot
+      with long wooden skis while others clutching a rope tow are dragged uphill, one tumbles into the snow, wide view.
+      Shot 3 (10-15 s): 1936, in a railroad yard a wooden chair hangs from a tall frame on the side of a slowly moving
+      truck and scoops up a man on roller skates seen from behind, wide view. Shot 4 (15-20 s): at the bottom station
+      of an old single chairlift the chair swings in at full speed without slowing and knocks a waiting skier seen
+      from behind into the seat, ski poles flying, close-up. Shot 5 (20-25 s): macro cutaway of a modern chairlift
+      station, a chair's spring grip opens on a steel rail, the chair lets go of the fast cable and rolls over spinning
+      rubber tires that slow it to walking pace, then speed it up until the grip snaps shut on the cable. Shot 6
+      (25-30 s): a long line of chairs full of skiers seen from behind, the heavy steel cable stretches and sags low
+      between two towers and slips on the giant drive wheel at the top station, the chairs lurching, wide view.
+  - id: chairlift-B
+    build: 107
+    kit: chairlift
+    # Facts: B1: "a large counter weight provides tension to one of the bullwheels" and "Newer lifts use hydraulic
+    # tensioning" (Unofficial Networks, "How does a chairlift work?"). B2 is our picture of what B3 prevents. B3:
+    # "While in the neutral position the grip is always closed" and a safety system "ensures the secure clamping of
+    # the grip before leaving the station" (Leitner-Poma); "Insufficient grip force triggers an alarm and brings the
+    # lift to a halt" (a maker's line quoted in Wikipedia). B4 teases build 108, the ice resurfacer (LINEUP; no maker's
+    # name or logo on the machine, no driver in view). B5: before anyone rides, a new lift is overloaded "to 110% of
+    # its designed load using water barrels" (Sipapu) or "at 120% of full capacity" with boxes of water (Summit at
+    # Snoqualmie), testing every drive "As well as the brake system"; New Mexico's first high-speed six-person
+    # chairlift, Angel Express at Angel Fire, was load tested "with water barrels" in July and opens with the 2026-27
+    # season in December (SnowBrains, Aug 9 2026). Line 12: "1,000 FT/MIN" (Angel Express's "rope speed of 1,000 feet
+    # per minute"; makers give "up to 1,181 feet per minute (6 m/s)", Leitner-Poma; a fixed grip runs about 500,
+    # Unofficial Networks). B6: the office chair that will not wait for you (ours). No faces: people only from behind;
+    # no logos, brand names or writing anywhere.
+    status: todo
+    file: buildit-chairlift-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): cutaway of a chairlift's bottom station, a giant concrete counterweight hanging in a deep pit
+      pulls the big return wheel back on its rails and the long steel cable lifts taut again, the chairs riding level,
+      wide view. Shot 2 (5-10 s): on a steep stretch high above the snow, the grip of one empty chair loosens and the
+      chair slides back down the moving cable into the empty chair below, both swinging wildly, close-up. Shot 3
+      (10-15 s): close-up at a chairlift station exit, each chair's grip rolls past a steel tester that checks how
+      tightly it clamps the cable, one weak grip makes a red warning light flash and the whole line glides to a stop.
+      Shot 4 (15-20 s): top-down drone view at night of an ice resurfacing machine gliding in a slow oval over a
+      scratched white ice rink, leaving a wide strip of wet mirror-smooth ice behind it, no one on the ice. Shot 5
+      (20-25 s): test day on a brand-new six-seat chairlift in snowy mountains, every chair climbing the slope loaded
+      with big blue barrels of water, workers seen from behind watching from the top station, wide view. Shot 6
+      (25-30 s): funny slow motion, in a bright office a man seen from behind goes to sit down, his wheeled office
+      chair rolls away across the shiny floor and he lands on the carpet, papers flying.
