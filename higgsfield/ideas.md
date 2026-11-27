@@ -4665,3 +4665,91 @@ Checked, nothing new
 - Higgsfield's Black Friday at about 22:55 PT: the same pages (dio.me, both mydealz deals, aimojo, "33 days", the
   plan-change pages), so Nov 28 stands. The 2027 trend reports are not out: the searches found only last year's TikTok
   Next 2026 report and Pinterest Predicts 2026. Shorts and TikTok trend pages: Virlo's November pages are already here.
+
+## 2026-11-27 00:00 PT (hourly runner, cloud run)
+
+Build candidates (new to these notes; neither is in LINEUP or episodes.yml)
+- The traffic light, an everyday thing with a winter twist. The first one was "installed at the junction of Great
+  George Street and Bridge Street in Westminster on December 9, 1868" (ITV, Dec 10 2018), "Designed by John Peake
+  Knight, a railway manager from Nottingham" (Smithsonian), who "took the idea from the railway signalling system"
+  (ITV): semaphore arms "raised 20 feet above the street", flat for stop and tilted 30 degrees to "proceed with
+  caution", and "At night ... red and green gaslights signaled stop and go" (Smithsonian), worked by a police constable
+  who "raised or lowered the semaphore arms and, at night, operated a lever" (Wikipedia). The first break: "This system
+  exploded on 2 January 1869 and was taken down" (Wikipedia), "badly burning the traffic warden operating the signal"
+  (Smithsonian); ITV's "some accounts suggest he may have even been killed" is hearsay, so a script says "badly
+  burned"; ITV has Britain without traffic lights again until "about 1925". Electric: Wikipedia credits Lester Wire, a
+  Salt Lake City policeman, with the first electric light (1912) and has the American Traffic Signal Company install
+  "it" in August 1914 "on the corner of East 105th Street and Euclid Avenue in Cleveland, Ohio" (that wording runs two
+  designs together: check before a script names an inventor); William Potts' Detroit light of 1920, the first
+  "four-way, three-color" one, "was the first to include an amber 'caution' light", and in 1921 he put them "in 15
+  towers across Detroit". Seeing the cars: "An insulated, electrically conducting loop is installed in the pavement",
+  driven at "10 kHz to 200 kHz"; a car's metal lowers its inductance (the eddy currents win over the iron) and the
+  detector "sends a pulse to the traffic signal controller", but "small metal masses cannot trigger the relay", so
+  bicycles "may be undetected" (Wikipedia, Induction loop); Transport for NSW lays the loops "in the middle of the lane
+  just behind the stop line", tells riders "When you stop, stay on the loop", and paints "diamond markings" at "the most
+  sensitive detection spot" (updated Sep 7 2026). The modern twist: LED signals "do not waste energy by producing
+  heat", so the snow stays on them, "a problem blamed for dozens of accidents" in Wisconsin, Illinois, Iowa and
+  Minnesota (NBC, photo dated Dec 2009; its one death stays out of a light script; CBC adds Windsor, Ont., and
+  Charlottetown); the fixes: "weather shields", "heating elements like those used in airport runway lights",
+  water-repellent coatings, crews by hand, air compressors in St. Paul. The pages disagree on the saving ("90 percent
+  less energy", NBC; "one quarter the energy", CBC), so a script says "a fraction of the power"; and on how often old
+  bulbs were changed (every 12 to 18 months, NBC; every two or three years, CBC). Chain: carriages and people jammed
+  outside Parliament (A2) → a railway semaphore with gas lamps (A3) → the gas lamp bursts into flame (A4) → electric red
+  and green (A5) → no amber yet (A6) → the amber light (B1) → a lone car at a red on an empty road at night (B2) → the
+  loop under the stop line feels its metal (B3) → a busy junction at dusk, the lights changing (B5). A1: a modern
+  traffic light blind under snow in a blizzard, cars creeping past (the closer can pay it off with the heated lens).
+  B6: funny slow motion, a cyclist hops onto the painted diamond and the light turns green. No round date (Dec 9 is the
+  158th). Picture: the "Westminster street semaphore" engraving is from the Illustrated Times of Jan 16 1869, but
+  Londonist's copy is credited "Copyright the British Library Board via the British Newspaper Archive", so not that
+  copy (a free copy is still to find).
+  [ITV, Dec 10 2018](https://itv.com/news/london/2018-12-10/150-years-since-the-worlds-first-traffic-light-in-london),
+  [Smithsonian](https://www.smithsonianmag.com/smart-news/chaotic-traffic-from-horse-drawn-carriages-inspired-the-worlds-first-traffic-lights-180985558),
+  [Wikipedia, Traffic light](https://en.wikipedia.org/wiki/Traffic_light),
+  [Wikipedia, Induction loop](https://en.wikipedia.org/wiki/Induction_loop),
+  [Transport for NSW](https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/bicycle-safety-and-rules/bicycle-detection),
+  [NBC News](https://www.nbcnews.com/id/wbna34436730),
+  [CBC](https://amp.cbc.ca/lite/story/1.3465301),
+  [Londonist](https://londonist.com/london/history/here-s-what-the-world-s-first-traffic-lights-in-westminster-looked-like)
+- The Akashi Kaikyō Bridge in Japan, the bridge an earthquake made longer (Asia, a famous mega-structure). Its towers
+  were "originally 1,990 m (6,530 ft) apart" and "the only structures that had been erected at the time" of the
+  January 1995 Great Hanshin earthquake ("magnitude 7.3"), which "moved the towers ... such that the central span had
+  to be increased by 1 m (3.3 ft)" (Wikipedia; Britannica: "more than 1 metre (3 feet) farther apart"; Structurae:
+  "construction of the deck had not yet begun"). Where the pages agree: a 1,991 m main span; towers 282.8 m (928 ft)
+  above the sea (Wikipedia, Structurae, PBS; Britannica says 297 m); built for "earthquakes measuring up to magnitude
+  8.5"; tidal currents that exceed "7 knots (about 3.6 m/s)" (Wikipedia); a deck that "can expand because of heat by
+  up to 2 m (6.6 ft) over the course of a day" (Wikipedia; Britannica: "expand and contract up to 2 metres"); opened
+  April 5 1998. Where they differ: wind 286 km/h (Wikipedia, Structurae) or 290 km/h (Britannica), so "almost 290
+  km/h"; cost ¥500 billion, "US$3.6 billion (per 1998 exchange rates)" (Wikipedia) or $4.3 billion (PBS). Fixes: "20
+  tuned mass dampers (TMDs) in each tower" that "swing in the opposite direction of the wind sway" (PBS); two main
+  cables, each "112 centimetres (44 in) in diameter" with "36,830 strands of wire" (Wikipedia; Structurae's 290 strands
+  of 127 wires, 5.23 mm thick, are the same 36,830 wires), "300,000 kilometers", "enough to circle the earth 7.5
+  times!" (PBS); round underwater caissons with a riprap blanket against the tide (Wikipedia). Its record: "Currently,
+  it is the second-longest, behind the 1915 Çanakkale Bridge in Turkey that was opened in March 2022" (Wikipedia;
+  PBS's "Currently the longest" is out of date), so a script says "the longest for almost 24 years". Why it was built:
+  a stormy, busy strait crossed by ferries ("In 1955, two ferries sank in the Shiun Maru disaster during a storm,
+  killing 168 people", Wikipedia); those deaths and the 1995 quake's toll stay out of a light script. Chain: ferries in
+  a stormy strait with fast tides (A2) → two towers on caissons, one 1,991 m span (A3) → typhoon winds sway 283 m
+  towers (A4) → tuned mass dampers (A5) → the longest span needs the strongest cables (A6) → 112 cm cables of 36,830
+  wires (B1) → the 1995 quake shoves the towers apart (B2) → the deck made 1 m longer (B3) → the bridge today, a ship
+  passing under at sunset (B5). A1: two bare steel towers alone in the strait with no deck between them as the sea
+  floor shakes. B6: funny slow motion, a cat wakes on a sofa and stretches a little longer. No pictures read here.
+  [Wikipedia](https://en.wikipedia.org/wiki/Akashi_Kaikyo_Bridge),
+  [Britannica](https://www.britannica.com/topic/Akashi-Strait-Bridge),
+  [PBS, Building Big](https://www.pbs.org/wgbh/buildingbig/wonder/structure/akashi_kaikyo.html),
+  [Structurae](https://structurae.net/en/structures/akashi-kaikyo-bridge)
+
+A free picture lead (read its licence before use)
+- For build 109's termite mounds: Henry Smeathman's "Some account of the termites, which are found in Africa and other
+  hot climates" ("Read at the Royal Society, February 15, 1781"; London 1781, with plates) is on the Wellcome
+  Collection (work uf8c6d5q), but the page text read here shows no licence line, so open its licence panel before a
+  plate is used as a proof still. The Royal Society Picture Library's copies of the plates are credited "© The Royal
+  Society" (not free); BHL holds the 1786 French translation (no rights line in the text read).
+  [Wellcome Collection](https://wellcomecollection.org/works/uf8c6d5q),
+  [BHL](https://www.biodiversitylibrary.org/bibliography/174489),
+  [Royal Society Picture Library](https://pictures.royalsociety.org/image-rs-8500)
+
+Checked, nothing new
+- YouTube feature news at about 00:00 PT: the searches return the Made on YouTube items of Sep 23 again (here since
+  then). Wikipedia's "History of traffic lights" page did not load from here, so its 1868 picture is for a later run.
+  Life of Vids, Beachfront B-roll and Vidsplay (not in these notes): the searches return only listicles and Coverr and
+  FreeVisuals pages that are here already, not the sites' own licence pages, so those three stay unchecked.
