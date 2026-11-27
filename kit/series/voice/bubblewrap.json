@@ -1,0 +1,928 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.0761,
+ "gap": 0.35,
+ "duration": 66.012,
+ "words": 161,
+ "words_per_sec": 2.44,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.935,
+   "text": "Y'all, bubble wrap was invented to be... wallpaper.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.812
+    },
+    {
+     "w": "bubble",
+     "start": 1.035,
+     "end": 1.333
+    },
+    {
+     "w": "wrap",
+     "start": 1.407,
+     "end": 1.63
+    },
+    {
+     "w": "was",
+     "start": 1.704,
+     "end": 1.779
+    },
+    {
+     "w": "invented",
+     "start": 1.853,
+     "end": 2.225
+    },
+    {
+     "w": "to",
+     "start": 2.299,
+     "end": 2.373
+    },
+    {
+     "w": "be...",
+     "start": 2.485,
+     "end": 2.819
+    },
+    {
+     "w": "wallpaper.",
+     "start": 3.042,
+     "end": 4.009
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.26,
+   "end": 8.073,
+   "text": "Nobody wanted bumpy walls! So how'd it end up in every box?",
+   "words": [
+    {
+     "w": "Nobody",
+     "start": 4.404,
+     "end": 4.776
+    },
+    {
+     "w": "wanted",
+     "start": 4.924,
+     "end": 5.147
+    },
+    {
+     "w": "bumpy",
+     "start": 5.222,
+     "end": 5.519
+    },
+    {
+     "w": "walls!",
+     "start": 5.593,
+     "end": 6.193
+    },
+    {
+     "w": "So",
+     "start": 6.337,
+     "end": 6.411
+    },
+    {
+     "w": "how'd",
+     "start": 6.485,
+     "end": 6.634
+    },
+    {
+     "w": "it",
+     "start": 6.708,
+     "end": 6.783
+    },
+    {
+     "w": "end",
+     "start": 6.857,
+     "end": 6.931
+    },
+    {
+     "w": "up",
+     "start": 7.006,
+     "end": 7.08
+    },
+    {
+     "w": "in",
+     "start": 7.117,
+     "end": 7.154
+    },
+    {
+     "w": "every",
+     "start": 7.229,
+     "end": 7.452
+    },
+    {
+     "w": "box?",
+     "start": 7.712,
+     "end": 8.195
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.398,
+   "end": 12.733,
+   "text": "So trap air instead. Air squishes, then springs right back.",
+   "words": [
+    {
+     "w": "So",
+     "start": 8.621,
+     "end": 8.844
+    },
+    {
+     "w": "trap",
+     "start": 8.993,
+     "end": 9.29
+    },
+    {
+     "w": "air",
+     "start": 9.364,
+     "end": 9.513
+    },
+    {
+     "w": "instead.",
+     "start": 9.587,
+     "end": 10.331
+    },
+    {
+     "w": "Air",
+     "start": 10.554,
+     "end": 10.702
+    },
+    {
+     "w": "squishes,",
+     "start": 10.777,
+     "end": 11.446
+    },
+    {
+     "w": "then",
+     "start": 11.52,
+     "end": 11.669
+    },
+    {
+     "w": "springs",
+     "start": 11.743,
+     "end": 12.041
+    },
+    {
+     "w": "right",
+     "start": 12.115,
+     "end": 12.264
+    },
+    {
+     "w": "back.",
+     "start": 12.338,
+     "end": 12.858
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 13.058,
+   "end": 17.538,
+   "text": "But one big air pillow pops, and your stuff hits the floor.",
+   "words": [
+    {
+     "w": "But",
+     "start": 13.916,
+     "end": 14.065
+    },
+    {
+     "w": "one",
+     "start": 14.213,
+     "end": 14.436
+    },
+    {
+     "w": "big",
+     "start": 14.585,
+     "end": 14.808
+    },
+    {
+     "w": "air",
+     "start": 14.882,
+     "end": 15.031
+    },
+    {
+     "w": "pillow",
+     "start": 15.105,
+     "end": 15.328
+    },
+    {
+     "w": "pops,",
+     "start": 15.403,
+     "end": 15.923
+    },
+    {
+     "w": "and",
+     "start": 15.997,
+     "end": 16.072
+    },
+    {
+     "w": "your",
+     "start": 16.146,
+     "end": 16.295
+    },
+    {
+     "w": "stuff",
+     "start": 16.444,
+     "end": 16.592
+    },
+    {
+     "w": "hits",
+     "start": 16.667,
+     "end": 16.815
+    },
+    {
+     "w": "the",
+     "start": 16.89,
+     "end": 16.964
+    },
+    {
+     "w": "floor.",
+     "start": 17.038,
+     "end": 17.707
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.863,
+   "end": 21.949,
+   "text": "So make lots of tiny bubbles. Pop one, the rest still hold.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.086,
+     "end": 18.235
+    },
+    {
+     "w": "make",
+     "start": 18.31,
+     "end": 18.533
+    },
+    {
+     "w": "lots",
+     "start": 18.681,
+     "end": 18.979
+    },
+    {
+     "w": "of",
+     "start": 19.053,
+     "end": 19.127
+    },
+    {
+     "w": "tiny",
+     "start": 19.276,
+     "end": 19.425
+    },
+    {
+     "w": "bubbles.",
+     "start": 19.499,
+     "end": 20.057
+    },
+    {
+     "w": "Pop",
+     "start": 20.14,
+     "end": 20.363
+    },
+    {
+     "w": "one,",
+     "start": 20.438,
+     "end": 20.809
+    },
+    {
+     "w": "the",
+     "start": 20.958,
+     "end": 21.032
+    },
+    {
+     "w": "rest",
+     "start": 21.144,
+     "end": 21.255
+    },
+    {
+     "w": "still",
+     "start": 21.367,
+     "end": 21.478
+    },
+    {
+     "w": "hold.",
+     "start": 21.553,
+     "end": 22.147
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 22.275,
+   "end": 25.439,
+   "text": "But how do you blow up a million tiny balloons?",
+   "words": [
+    {
+     "w": "But",
+     "start": 22.405,
+     "end": 22.554
+    },
+    {
+     "w": "how",
+     "start": 22.702,
+     "end": 22.851
+    },
+    {
+     "w": "do",
+     "start": 22.925,
+     "end": 23.0
+    },
+    {
+     "w": "you",
+     "start": 23.074,
+     "end": 23.148
+    },
+    {
+     "w": "blow",
+     "start": 23.185,
+     "end": 23.371
+    },
+    {
+     "w": "up",
+     "start": 23.446,
+     "end": 23.52
+    },
+    {
+     "w": "a",
+     "start": 23.631,
+     "end": 23.743
+    },
+    {
+     "w": "million",
+     "start": 23.817,
+     "end": 24.263
+    },
+    {
+     "w": "tiny",
+     "start": 24.338,
+     "end": 24.635
+    },
+    {
+     "w": "balloons?",
+     "start": 24.709,
+     "end": 25.527
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 25.764,
+   "end": 30.821,
+   "text": "So hot plastic gets sucked into little cups, and a flat sheet seals the air in.",
+   "words": [
+    {
+     "w": "So",
+     "start": 25.983,
+     "end": 26.132
+    },
+    {
+     "w": "hot",
+     "start": 26.281,
+     "end": 26.504
+    },
+    {
+     "w": "plastic",
+     "start": 26.578,
+     "end": 27.024
+    },
+    {
+     "w": "gets",
+     "start": 27.099,
+     "end": 27.247
+    },
+    {
+     "w": "sucked",
+     "start": 27.322,
+     "end": 27.545
+    },
+    {
+     "w": "into",
+     "start": 27.656,
+     "end": 27.768
+    },
+    {
+     "w": "little",
+     "start": 27.842,
+     "end": 27.991
+    },
+    {
+     "w": "cups,",
+     "start": 28.065,
+     "end": 28.623
+    },
+    {
+     "w": "and",
+     "start": 28.808,
+     "end": 28.883
+    },
+    {
+     "w": "a",
+     "start": 28.957,
+     "end": 29.032
+    },
+    {
+     "w": "flat",
+     "start": 29.106,
+     "end": 29.329
+    },
+    {
+     "w": "sheet",
+     "start": 29.403,
+     "end": 29.701
+    },
+    {
+     "w": "seals",
+     "start": 29.775,
+     "end": 30.072
+    },
+    {
+     "w": "the",
+     "start": 30.147,
+     "end": 30.221
+    },
+    {
+     "w": "air",
+     "start": 30.332,
+     "end": 30.444
+    },
+    {
+     "w": "in.",
+     "start": 30.518,
+     "end": 30.964
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.147,
+   "end": 36.669,
+   "text": "But a truck full of bubbles is mostly... air. Shipping air costs money!",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.936,
+     "end": 32.011
+    },
+    {
+     "w": "a",
+     "start": 32.085,
+     "end": 32.159
+    },
+    {
+     "w": "truck",
+     "start": 32.234,
+     "end": 32.457
+    },
+    {
+     "w": "full",
+     "start": 32.531,
+     "end": 32.68
+    },
+    {
+     "w": "of",
+     "start": 32.717,
+     "end": 32.754
+    },
+    {
+     "w": "bubbles",
+     "start": 32.903,
+     "end": 33.349
+    },
+    {
+     "w": "is",
+     "start": 33.423,
+     "end": 33.498
+    },
+    {
+     "w": "mostly...",
+     "start": 33.572,
+     "end": 34.408
+    },
+    {
+     "w": "air.",
+     "start": 34.594,
+     "end": 34.854
+    },
+    {
+     "w": "Shipping",
+     "start": 35.031,
+     "end": 35.328
+    },
+    {
+     "w": "air",
+     "start": 35.477,
+     "end": 35.7
+    },
+    {
+     "w": "costs",
+     "start": 35.774,
+     "end": 36.146
+    },
+    {
+     "w": "money!",
+     "start": 36.22,
+     "end": 36.815
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.994,
+   "end": 41.102,
+   "text": "So some bubble wrap ships flat, and gets pumped up where you pack.",
+   "words": [
+    {
+     "w": "So",
+     "start": 37.217,
+     "end": 37.366
+    },
+    {
+     "w": "some",
+     "start": 37.515,
+     "end": 37.738
+    },
+    {
+     "w": "bubble",
+     "start": 37.812,
+     "end": 38.035
+    },
+    {
+     "w": "wrap",
+     "start": 38.184,
+     "end": 38.333
+    },
+    {
+     "w": "ships",
+     "start": 38.481,
+     "end": 38.63
+    },
+    {
+     "w": "flat,",
+     "start": 38.704,
+     "end": 39.299
+    },
+    {
+     "w": "and",
+     "start": 39.373,
+     "end": 39.448
+    },
+    {
+     "w": "gets",
+     "start": 39.522,
+     "end": 39.745
+    },
+    {
+     "w": "pumped",
+     "start": 39.819,
+     "end": 40.042
+    },
+    {
+     "w": "up",
+     "start": 40.117,
+     "end": 40.266
+    },
+    {
+     "w": "where",
+     "start": 40.34,
+     "end": 40.414
+    },
+    {
+     "w": "you",
+     "start": 40.489,
+     "end": 40.563
+    },
+    {
+     "w": "pack.",
+     "start": 40.637,
+     "end": 41.232
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 41.427,
+   "end": 46.111,
+   "text": "Hit follow, 'cause next we're building the tunnel that swallows Tokyo's floods.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 41.501,
+     "end": 41.65
+    },
+    {
+     "w": "follow,",
+     "start": 41.799,
+     "end": 42.394
+    },
+    {
+     "w": "'cause",
+     "start": 42.542,
+     "end": 42.765
+    },
+    {
+     "w": "next",
+     "start": 42.84,
+     "end": 43.137
+    },
+    {
+     "w": "we're",
+     "start": 43.211,
+     "end": 43.434
+    },
+    {
+     "w": "building",
+     "start": 43.583,
+     "end": 43.732
+    },
+    {
+     "w": "the",
+     "start": 43.806,
+     "end": 43.88
+    },
+    {
+     "w": "tunnel",
+     "start": 43.918,
+     "end": 44.178
+    },
+    {
+     "w": "that",
+     "start": 44.289,
+     "end": 44.401
+    },
+    {
+     "w": "swallows",
+     "start": 44.475,
+     "end": 44.921
+    },
+    {
+     "w": "Tokyo's",
+     "start": 45.033,
+     "end": 45.442
+    },
+    {
+     "w": "floods.",
+     "start": 45.516,
+     "end": 46.185
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 46.436,
+   "end": 51.375,
+   "text": "The answer? IBM! Its new computer shipped in bubble wrap.",
+   "words": [
+    {
+     "w": "The",
+     "start": 46.659,
+     "end": 46.808
+    },
+    {
+     "w": "answer?",
+     "start": 46.882,
+     "end": 47.514
+    },
+    {
+     "w": "IBM!",
+     "start": 47.737,
+     "end": 48.555
+    },
+    {
+     "w": "Its",
+     "start": 49.335,
+     "end": 49.447
+    },
+    {
+     "w": "new",
+     "start": 49.521,
+     "end": 49.595
+    },
+    {
+     "w": "computer",
+     "start": 49.67,
+     "end": 50.116
+    },
+    {
+     "w": "shipped",
+     "start": 50.19,
+     "end": 50.413
+    },
+    {
+     "w": "in",
+     "start": 50.45,
+     "end": 50.488
+    },
+    {
+     "w": "bubble",
+     "start": 50.636,
+     "end": 50.859
+    },
+    {
+     "w": "wrap.",
+     "start": 50.934,
+     "end": 51.528
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.7,
+   "end": 55.933,
+   "text": "Two shower curtains, one wallpaper flop, and a whole lot of air.",
+   "words": [
+    {
+     "w": "Two",
+     "start": 51.775,
+     "end": 51.923
+    },
+    {
+     "w": "shower",
+     "start": 51.998,
+     "end": 52.295
+    },
+    {
+     "w": "curtains,",
+     "start": 52.369,
+     "end": 52.964
+    },
+    {
+     "w": "one",
+     "start": 53.113,
+     "end": 53.261
+    },
+    {
+     "w": "wallpaper",
+     "start": 53.336,
+     "end": 53.782
+    },
+    {
+     "w": "flop,",
+     "start": 53.856,
+     "end": 54.265
+    },
+    {
+     "w": "and",
+     "start": 54.302,
+     "end": 54.451
+    },
+    {
+     "w": "a",
+     "start": 54.525,
+     "end": 54.674
+    },
+    {
+     "w": "whole",
+     "start": 54.748,
+     "end": 55.12
+    },
+    {
+     "w": "lot",
+     "start": 55.194,
+     "end": 55.343
+    },
+    {
+     "w": "of",
+     "start": 55.417,
+     "end": 55.492
+    },
+    {
+     "w": "air.",
+     "start": 55.566,
+     "end": 56.161
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.258,
+   "end": 59.343,
+   "text": "And congrats, you just built bubble wrap yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.386,
+     "end": 56.407
+    },
+    {
+     "w": "congrats,",
+     "start": 56.481,
+     "end": 57.373
+    },
+    {
+     "w": "you",
+     "start": 57.522,
+     "end": 57.671
+    },
+    {
+     "w": "just",
+     "start": 57.745,
+     "end": 57.894
+    },
+    {
+     "w": "built",
+     "start": 57.968,
+     "end": 58.117
+    },
+    {
+     "w": "bubble",
+     "start": 58.266,
+     "end": 58.489
+    },
+    {
+     "w": "wrap",
+     "start": 58.563,
+     "end": 58.786
+    },
+    {
+     "w": "yourself.",
+     "start": 58.898,
+     "end": 59.529
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.668,
+   "end": 66.0,
+   "text": "One phone charger... in a giant box with ten feet of bubble wrap.",
+   "words": [
+    {
+     "w": "One",
+     "start": 59.965,
+     "end": 60.551
+    },
+    {
+     "w": "phone",
+     "start": 60.625,
+     "end": 61.071
+    },
+    {
+     "w": "charger...",
+     "start": 61.145,
+     "end": 61.963
+    },
+    {
+     "w": "in",
+     "start": 63.004,
+     "end": 63.078
+    },
+    {
+     "w": "a",
+     "start": 63.153,
+     "end": 63.227
+    },
+    {
+     "w": "giant",
+     "start": 63.45,
+     "end": 63.822
+    },
+    {
+     "w": "box",
+     "start": 63.896,
+     "end": 64.193
+    },
+    {
+     "w": "with",
+     "start": 64.268,
+     "end": 64.491
+    },
+    {
+     "w": "ten",
+     "start": 64.64,
+     "end": 64.788
+    },
+    {
+     "w": "feet",
+     "start": 64.937,
+     "end": 65.086
+    },
+    {
+     "w": "of",
+     "start": 65.16,
+     "end": 65.234
+    },
+    {
+     "w": "bubble",
+     "start": 65.309,
+     "end": 65.606
+    },
+    {
+     "w": "wrap.",
+     "start": 65.792,
+     "end": 66.201
+    }
+   ]
+  }
+ ]
+}
