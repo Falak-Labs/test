@@ -1,961 +1,946 @@
 {
  "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
  "model": "eleven_v4",
- "tempo": 1.0772,
+ "tempo": 1.0542,
  "gap": 0.35,
- "duration": 66.014,
- "words": 168,
- "words_per_sec": 2.54,
+ "duration": 66.007,
+ "words": 165,
+ "words_per_sec": 2.5,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 5.05,
-   "text": "Y'all, these chairs let go of their cable at every station... on purpose.",
+   "end": 4.088,
+   "text": "Y'all, these chairs let go of their cable... on purpose.",
    "words": [
     {
      "w": "Y'all,",
-     "start": 0.149,
-     "end": 0.78
+     "start": 0.152,
+     "end": 0.797
     },
     {
      "w": "these",
-     "start": 0.965,
-     "end": 1.188
+     "start": 0.987,
+     "end": 1.214
     },
     {
      "w": "chairs",
-     "start": 1.262,
-     "end": 1.56
+     "start": 1.29,
+     "end": 1.594
     },
     {
      "w": "let",
-     "start": 1.634,
-     "end": 1.708
+     "start": 1.67,
+     "end": 1.745
     },
     {
      "w": "go",
-     "start": 1.782,
-     "end": 1.857
+     "start": 1.821,
+     "end": 1.897
     },
     {
      "w": "of",
-     "start": 1.931,
-     "end": 2.005
+     "start": 1.935,
+     "end": 1.973
     },
     {
      "w": "their",
-     "start": 2.079,
-     "end": 2.154
+     "start": 2.049,
+     "end": 2.201
     },
     {
-     "w": "cable",
-     "start": 2.191,
-     "end": 2.525
-    },
-    {
-     "w": "at",
-     "start": 2.599,
-     "end": 2.822
-    },
-    {
-     "w": "every",
-     "start": 2.971,
-     "end": 3.268
-    },
-    {
-     "w": "station...",
-     "start": 3.342,
-     "end": 4.047
+     "w": "cable...",
+     "start": 2.277,
+     "end": 2.912
     },
     {
      "w": "on",
-     "start": 4.085,
-     "end": 4.307
+     "start": 3.026,
+     "end": 3.254
     },
     {
      "w": "purpose.",
-     "start": 4.604,
-     "end": 5.124
+     "start": 3.33,
+     "end": 4.164
     }
    ]
   },
   {
    "line": 2,
-   "start": 5.375,
-   "end": 9.623,
+   "start": 4.42,
+   "end": 8.761,
    "text": "That cable's as fast as a bike! So who first hung chairs on a rope?",
    "words": [
     {
      "w": "That",
-     "start": 5.449,
-     "end": 5.598
+     "start": 4.496,
+     "end": 4.648
     },
     {
      "w": "cable's",
-     "start": 5.672,
-     "end": 6.043
+     "start": 4.724,
+     "end": 5.103
     },
     {
      "w": "as",
-     "start": 6.117,
-     "end": 6.192
+     "start": 5.179,
+     "end": 5.255
     },
     {
      "w": "fast",
-     "start": 6.266,
-     "end": 6.489
+     "start": 5.331,
+     "end": 5.559
     },
     {
      "w": "as",
-     "start": 6.563,
-     "end": 6.637
+     "start": 5.635,
+     "end": 5.711
     },
     {
      "w": "a",
-     "start": 6.674,
-     "end": 6.712
+     "start": 5.749,
+     "end": 5.786
     },
     {
      "w": "bike!",
-     "start": 6.786,
-     "end": 7.287
+     "start": 5.862,
+     "end": 6.375
     },
     {
      "w": "So",
-     "start": 7.426,
-     "end": 7.575
+     "start": 6.517,
+     "end": 6.669
     },
     {
      "w": "who",
-     "start": 7.798,
-     "end": 7.946
+     "start": 6.896,
+     "end": 7.048
     },
     {
      "w": "first",
-     "start": 8.02,
-     "end": 8.243
+     "start": 7.124,
+     "end": 7.352
     },
     {
      "w": "hung",
-     "start": 8.318,
-     "end": 8.54
+     "start": 7.428,
+     "end": 7.655
     },
     {
      "w": "chairs",
-     "start": 8.615,
-     "end": 8.912
+     "start": 7.731,
+     "end": 8.035
     },
     {
      "w": "on",
-     "start": 8.986,
-     "end": 9.06
+     "start": 8.111,
+     "end": 8.186
     },
     {
      "w": "a",
-     "start": 9.097,
-     "end": 9.134
+     "start": 8.224,
+     "end": 8.262
     },
     {
      "w": "rope?",
-     "start": 9.209,
-     "end": 9.803
+     "start": 8.338,
+     "end": 8.945
     }
    ]
   },
   {
    "line": 3,
-   "start": 9.948,
-   "end": 13.921,
+   "start": 9.093,
+   "end": 13.153,
    "text": "So in the station, the grip opens and the chair rolls off.",
    "words": [
     {
      "w": "So",
-     "start": 10.166,
-     "end": 10.314
+     "start": 9.316,
+     "end": 9.468
     },
     {
      "w": "in",
-     "start": 10.389,
-     "end": 10.537
+     "start": 9.544,
+     "end": 9.696
     },
     {
      "w": "the",
-     "start": 10.611,
-     "end": 10.686
+     "start": 9.772,
+     "end": 9.847
     },
     {
      "w": "station,",
-     "start": 10.76,
-     "end": 11.577
+     "start": 9.923,
+     "end": 10.758
     },
     {
      "w": "the",
-     "start": 11.651,
-     "end": 11.725
+     "start": 10.834,
+     "end": 10.91
     },
     {
      "w": "grip",
-     "start": 11.762,
-     "end": 12.022
+     "start": 10.948,
+     "end": 11.213
     },
     {
      "w": "opens",
-     "start": 12.097,
-     "end": 12.468
+     "start": 11.289,
+     "end": 11.669
     },
     {
      "w": "and",
-     "start": 12.542,
-     "end": 12.616
+     "start": 11.745,
+     "end": 11.821
     },
     {
      "w": "the",
-     "start": 12.691,
-     "end": 12.765
+     "start": 11.896,
+     "end": 11.972
     },
     {
      "w": "chair",
-     "start": 12.914,
-     "end": 13.136
+     "start": 12.124,
+     "end": 12.352
     },
     {
      "w": "rolls",
-     "start": 13.211,
-     "end": 13.508
+     "start": 12.428,
+     "end": 12.731
     },
     {
      "w": "off.",
-     "start": 13.582,
-     "end": 14.102
+     "start": 12.807,
+     "end": 13.338
     }
    ]
   },
   {
    "line": 4,
-   "start": 14.246,
-   "end": 17.654,
+   "start": 13.485,
+   "end": 16.969,
    "text": "But it's still zooming. It'd knock you flat!",
    "words": [
     {
      "w": "But",
-     "start": 14.988,
-     "end": 15.063
+     "start": 14.244,
+     "end": 14.32
     },
     {
      "w": "it's",
-     "start": 15.137,
-     "end": 15.285
+     "start": 14.396,
+     "end": 14.548
     },
     {
      "w": "still",
-     "start": 15.434,
-     "end": 15.582
+     "start": 14.7,
+     "end": 14.851
     },
     {
      "w": "zooming.",
-     "start": 15.731,
-     "end": 16.288
+     "start": 15.003,
+     "end": 15.572
     },
     {
      "w": "It'd",
-     "start": 16.362,
-     "end": 16.585
+     "start": 15.648,
+     "end": 15.876
     },
     {
      "w": "knock",
-     "start": 16.659,
-     "end": 16.882
+     "start": 15.952,
+     "end": 16.179
     },
     {
      "w": "you",
-     "start": 16.956,
-     "end": 17.031
+     "start": 16.255,
+     "end": 16.331
     },
     {
      "w": "flat!",
-     "start": 17.179,
-     "end": 17.847
+     "start": 16.483,
+     "end": 17.166
     }
    ]
   },
   {
    "line": 5,
-   "start": 17.979,
-   "end": 21.937,
+   "start": 17.301,
+   "end": 21.344,
    "text": "So spinning tires slow it to a walk, then speed it back up.",
    "words": [
     {
      "w": "So",
-     "start": 18.196,
-     "end": 18.344
+     "start": 17.522,
+     "end": 17.673
     },
     {
      "w": "spinning",
-     "start": 18.493,
-     "end": 18.864
+     "start": 17.825,
+     "end": 18.205
     },
     {
      "w": "tires",
-     "start": 18.938,
-     "end": 19.31
+     "start": 18.28,
+     "end": 18.66
     },
     {
      "w": "slow",
-     "start": 19.384,
-     "end": 19.532
+     "start": 18.736,
+     "end": 18.888
     },
     {
      "w": "it",
-     "start": 19.607,
-     "end": 19.681
+     "start": 18.963,
+     "end": 19.039
     },
     {
      "w": "to",
-     "start": 19.755,
-     "end": 19.829
+     "start": 19.115,
+     "end": 19.191
     },
     {
      "w": "a",
-     "start": 19.904,
-     "end": 19.978
+     "start": 19.267,
+     "end": 19.343
     },
     {
      "w": "walk,",
-     "start": 20.126,
-     "end": 20.553
+     "start": 19.495,
+     "end": 19.931
     },
     {
      "w": "then",
-     "start": 20.665,
-     "end": 20.776
+     "start": 20.045,
+     "end": 20.159
     },
     {
      "w": "speed",
-     "start": 20.85,
-     "end": 21.148
+     "start": 20.235,
+     "end": 20.538
     },
     {
      "w": "it",
-     "start": 21.185,
-     "end": 21.222
+     "start": 20.576,
+     "end": 20.614
     },
     {
      "w": "back",
-     "start": 21.296,
-     "end": 21.445
+     "start": 20.69,
+     "end": 20.842
     },
     {
      "w": "up.",
-     "start": 21.593,
-     "end": 21.937
+     "start": 20.993,
+     "end": 21.344
     }
    ]
   },
   {
    "line": 6,
-   "start": 22.261,
-   "end": 25.107,
+   "start": 21.676,
+   "end": 24.584,
    "text": "But a loose grip? The chair slides back down!",
    "words": [
     {
      "w": "But",
-     "start": 22.408,
-     "end": 22.557
+     "start": 21.826,
+     "end": 21.978
     },
     {
      "w": "a",
-     "start": 22.631,
-     "end": 22.705
+     "start": 22.054,
+     "end": 22.13
     },
     {
      "w": "loose",
-     "start": 22.779,
-     "end": 23.002
+     "start": 22.206,
+     "end": 22.433
     },
     {
      "w": "grip?",
-     "start": 23.077,
-     "end": 23.413
+     "start": 22.509,
+     "end": 22.853
     },
     {
      "w": "The",
-     "start": 23.531,
-     "end": 23.606
+     "start": 22.974,
+     "end": 23.05
     },
     {
      "w": "chair",
-     "start": 23.68,
-     "end": 23.903
+     "start": 23.126,
+     "end": 23.354
     },
     {
      "w": "slides",
-     "start": 23.977,
-     "end": 24.274
+     "start": 23.429,
+     "end": 23.733
     },
     {
      "w": "back",
-     "start": 24.348,
-     "end": 24.497
+     "start": 23.809,
+     "end": 23.961
     },
     {
      "w": "down!",
-     "start": 24.571,
-     "end": 25.165
+     "start": 24.037,
+     "end": 24.644
     }
    ]
   },
   {
    "line": 7,
-   "start": 25.432,
-   "end": 30.302,
+   "start": 24.916,
+   "end": 29.893,
    "text": "So springs squeeze it shut, and one weak grip stops the whole lift.",
    "words": [
     {
      "w": "So",
-     "start": 25.645,
-     "end": 25.794
+     "start": 25.134,
+     "end": 25.286
     },
     {
      "w": "springs",
-     "start": 25.942,
-     "end": 26.462
+     "start": 25.438,
+     "end": 25.969
     },
     {
      "w": "squeeze",
-     "start": 26.685,
-     "end": 26.908
+     "start": 26.197,
+     "end": 26.424
     },
     {
      "w": "it",
-     "start": 26.982,
-     "end": 27.056
+     "start": 26.5,
+     "end": 26.576
     },
     {
      "w": "shut,",
-     "start": 27.13,
-     "end": 27.576
+     "start": 26.652,
+     "end": 27.107
     },
     {
      "w": "and",
-     "start": 27.725,
-     "end": 27.947
+     "start": 27.259,
+     "end": 27.487
     },
     {
      "w": "one",
-     "start": 28.096,
-     "end": 28.244
+     "start": 27.638,
+     "end": 27.79
     },
     {
      "w": "weak",
-     "start": 28.319,
-     "end": 28.541
+     "start": 27.866,
+     "end": 28.094
     },
     {
      "w": "grip",
-     "start": 28.579,
-     "end": 28.838
+     "start": 28.132,
+     "end": 28.397
     },
     {
      "w": "stops",
-     "start": 28.913,
-     "end": 29.21
+     "start": 28.473,
+     "end": 28.777
     },
     {
      "w": "the",
-     "start": 29.321,
-     "end": 29.433
+     "start": 28.891,
+     "end": 29.004
     },
     {
      "w": "whole",
-     "start": 29.507,
-     "end": 29.73
+     "start": 29.08,
+     "end": 29.308
     },
     {
      "w": "lift.",
-     "start": 29.804,
-     "end": 30.324
+     "start": 29.384,
+     "end": 29.915
     }
    ]
   },
   {
    "line": 8,
-   "start": 30.627,
-   "end": 35.836,
-   "text": "But steel cable gets longer when it's warm, and loose cable slips.",
+   "start": 30.225,
+   "end": 35.176,
+   "text": "But steel cable gets longer in the heat, and loose cable slips.",
    "words": [
     {
      "w": "But",
-     "start": 31.482,
-     "end": 31.631
+     "start": 31.021,
+     "end": 31.173
     },
     {
      "w": "steel",
-     "start": 31.705,
-     "end": 32.002
+     "start": 31.249,
+     "end": 31.552
     },
     {
      "w": "cable",
-     "start": 32.076,
-     "end": 32.373
+     "start": 31.628,
+     "end": 31.932
     },
     {
      "w": "gets",
-     "start": 32.448,
-     "end": 32.67
+     "start": 32.008,
+     "end": 32.235
     },
     {
      "w": "longer",
-     "start": 32.745,
-     "end": 33.19
+     "start": 32.387,
+     "end": 32.767
     },
     {
-     "w": "when",
-     "start": 33.265,
-     "end": 33.339
+     "w": "in",
+     "start": 32.842,
+     "end": 32.918
     },
     {
-     "w": "it's",
-     "start": 33.413,
-     "end": 33.636
+     "w": "the",
+     "start": 32.956,
+     "end": 32.994
     },
     {
-     "w": "warm,",
-     "start": 33.822,
-     "end": 34.211
+     "w": "heat,",
+     "start": 33.07,
+     "end": 33.506
     },
     {
      "w": "and",
-     "start": 34.286,
-     "end": 34.434
+     "start": 33.582,
+     "end": 33.658
     },
     {
      "w": "loose",
-     "start": 34.509,
-     "end": 34.731
+     "start": 33.734,
+     "end": 33.962
     },
     {
      "w": "cable",
-     "start": 34.806,
-     "end": 35.103
+     "start": 34.038,
+     "end": 34.341
     },
     {
      "w": "slips.",
-     "start": 35.251,
-     "end": 35.994
+     "start": 34.493,
+     "end": 35.252
     }
    ]
   },
   {
    "line": 9,
-   "start": 36.161,
-   "end": 40.07,
+   "start": 35.508,
+   "end": 39.503,
    "text": "So a giant concrete weight pulls on it, keeping it tight.",
    "words": [
     {
      "w": "So",
-     "start": 36.384,
-     "end": 36.532
+     "start": 35.736,
+     "end": 35.887
     },
     {
      "w": "a",
-     "start": 36.606,
-     "end": 36.755
+     "start": 35.963,
+     "end": 36.115
     },
     {
      "w": "giant",
-     "start": 36.904,
-     "end": 37.275
+     "start": 36.267,
+     "end": 36.646
     },
     {
      "w": "concrete",
-     "start": 37.423,
-     "end": 37.869
+     "start": 36.798,
+     "end": 37.253
     },
     {
      "w": "weight",
-     "start": 38.017,
-     "end": 38.24
+     "start": 37.405,
+     "end": 37.633
     },
     {
      "w": "pulls",
-     "start": 38.315,
-     "end": 38.612
+     "start": 37.709,
+     "end": 38.012
     },
     {
      "w": "on",
-     "start": 38.686,
-     "end": 38.76
+     "start": 38.088,
+     "end": 38.164
     },
     {
      "w": "it,",
-     "start": 38.834,
-     "end": 39.057
+     "start": 38.24,
+     "end": 38.468
     },
     {
      "w": "keeping",
-     "start": 39.206,
-     "end": 39.428
+     "start": 38.619,
+     "end": 38.847
     },
     {
      "w": "it",
-     "start": 39.503,
-     "end": 39.651
+     "start": 38.923,
+     "end": 39.075
     },
     {
      "w": "tight.",
-     "start": 39.837,
-     "end": 40.245
+     "start": 39.264,
+     "end": 39.682
     }
    ]
   },
   {
    "line": 10,
-   "start": 40.395,
-   "end": 44.814,
+   "start": 39.835,
+   "end": 44.351,
    "text": "Hit follow, 'cause next we're building a machine that gives ice a hot bath.",
    "words": [
     {
      "w": "Hit",
-     "start": 40.465,
-     "end": 40.614
+     "start": 39.907,
+     "end": 40.058
     },
     {
      "w": "follow,",
-     "start": 40.762,
-     "end": 41.319
+     "start": 40.21,
+     "end": 40.779
     },
     {
      "w": "'cause",
-     "start": 41.431,
-     "end": 41.654
+     "start": 40.893,
+     "end": 41.121
     },
     {
      "w": "next",
-     "start": 41.728,
-     "end": 42.025
+     "start": 41.197,
+     "end": 41.5
     },
     {
      "w": "we're",
-     "start": 42.099,
-     "end": 42.248
+     "start": 41.576,
+     "end": 41.728
     },
     {
      "w": "building",
-     "start": 42.396,
-     "end": 42.545
+     "start": 41.88,
+     "end": 42.032
     },
     {
      "w": "a",
-     "start": 42.619,
-     "end": 42.656
+     "start": 42.107,
+     "end": 42.145
     },
     {
      "w": "machine",
-     "start": 42.693,
-     "end": 43.065
+     "start": 42.183,
+     "end": 42.563
     },
     {
      "w": "that",
-     "start": 43.139,
-     "end": 43.213
+     "start": 42.639,
+     "end": 42.715
     },
     {
      "w": "gives",
-     "start": 43.287,
-     "end": 43.51
+     "start": 42.79,
+     "end": 43.018
     },
     {
      "w": "ice",
-     "start": 43.584,
-     "end": 43.807
+     "start": 43.094,
+     "end": 43.322
     },
     {
      "w": "a",
-     "start": 43.882,
-     "end": 44.03
+     "start": 43.398,
+     "end": 43.549
     },
     {
      "w": "hot",
-     "start": 44.104,
-     "end": 44.327
+     "start": 43.625,
+     "end": 43.853
     },
     {
      "w": "bath.",
-     "start": 44.401,
-     "end": 44.995
+     "start": 43.929,
+     "end": 44.536
     }
    ]
   },
   {
    "line": 11,
-   "start": 45.138,
-   "end": 51.386,
+   "start": 44.683,
+   "end": 51.066,
    "text": "The answer? A railroad engineer who'd built banana loaders! He swapped the hooks for chairs.",
    "words": [
     {
      "w": "The",
-     "start": 45.361,
-     "end": 45.51
+     "start": 44.911,
+     "end": 45.062
     },
     {
      "w": "answer?",
-     "start": 45.584,
-     "end": 46.169
+     "start": 45.138,
+     "end": 45.736
     },
     {
      "w": "A",
-     "start": 46.373,
-     "end": 46.447
+     "start": 45.944,
+     "end": 46.02
     },
     {
      "w": "railroad",
-     "start": 46.596,
-     "end": 46.967
+     "start": 46.172,
+     "end": 46.552
     },
     {
      "w": "engineer",
-     "start": 47.041,
-     "end": 47.413
+     "start": 46.627,
+     "end": 47.007
     },
     {
      "w": "who'd",
-     "start": 47.487,
-     "end": 47.71
+     "start": 47.083,
+     "end": 47.31
     },
     {
      "w": "built",
-     "start": 47.821,
-     "end": 47.933
+     "start": 47.424,
+     "end": 47.538
     },
     {
      "w": "banana",
-     "start": 48.155,
-     "end": 48.378
+     "start": 47.766,
+     "end": 47.993
     },
     {
      "w": "loaders!",
-     "start": 48.49,
-     "end": 49.009
+     "start": 48.107,
+     "end": 48.639
     },
     {
      "w": "He",
-     "start": 49.659,
-     "end": 49.734
+     "start": 49.303,
+     "end": 49.378
     },
     {
      "w": "swapped",
-     "start": 49.808,
-     "end": 50.105
+     "start": 49.454,
+     "end": 49.758
     },
     {
      "w": "the",
-     "start": 50.142,
-     "end": 50.179
+     "start": 49.796,
+     "end": 49.834
     },
     {
      "w": "hooks",
-     "start": 50.253,
-     "end": 50.476
+     "start": 49.91,
+     "end": 50.137
     },
     {
      "w": "for",
-     "start": 50.55,
-     "end": 50.699
+     "start": 50.213,
+     "end": 50.365
     },
     {
      "w": "chairs.",
-     "start": 50.773,
-     "end": 51.516
+     "start": 50.441,
+     "end": 51.2
     }
    ]
   },
   {
    "line": 12,
-   "start": 51.711,
-   "end": 56.153,
+   "start": 51.398,
+   "end": 55.937,
    "text": "Nineteen thirty-six, one banana idea, and a thousand feet a minute.",
    "words": [
     {
      "w": "Nineteen",
-     "start": 51.844,
-     "end": 52.156
+     "start": 51.535,
+     "end": 51.853
     },
     {
      "w": "thirty-six,",
-     "start": 52.305,
-     "end": 53.159
+     "start": 52.005,
+     "end": 52.878
     },
     {
      "w": "one",
-     "start": 53.345,
-     "end": 53.493
+     "start": 53.068,
+     "end": 53.219
     },
     {
      "w": "banana",
-     "start": 53.567,
-     "end": 53.864
+     "start": 53.295,
+     "end": 53.599
     },
     {
      "w": "idea,",
-     "start": 54.013,
-     "end": 54.57
+     "start": 53.751,
+     "end": 54.32
     },
     {
      "w": "and",
-     "start": 54.681,
-     "end": 54.756
+     "start": 54.434,
+     "end": 54.509
     },
     {
      "w": "a",
-     "start": 54.867,
-     "end": 54.978
+     "start": 54.623,
+     "end": 54.737
     },
     {
      "w": "thousand",
-     "start": 55.053,
-     "end": 55.424
+     "start": 54.813,
+     "end": 55.192
     },
     {
      "w": "feet",
-     "start": 55.498,
-     "end": 55.647
+     "start": 55.268,
+     "end": 55.42
     },
     {
      "w": "a",
-     "start": 55.721,
-     "end": 55.795
+     "start": 55.496,
+     "end": 55.572
     },
     {
      "w": "minute.",
-     "start": 55.944,
-     "end": 56.315
+     "start": 55.724,
+     "end": 56.103
     }
    ]
   },
   {
    "line": 13,
-   "start": 56.478,
-   "end": 60.172,
+   "start": 56.269,
+   "end": 60.044,
    "text": "And congrats, you just built a high-speed chairlift yourself.",
    "words": [
     {
      "w": "And",
-     "start": 56.605,
-     "end": 56.626
+     "start": 56.399,
+     "end": 56.421
     },
     {
      "w": "congrats,",
-     "start": 56.7,
-     "end": 57.61
+     "start": 56.497,
+     "end": 57.426
     },
     {
      "w": "you",
-     "start": 57.759,
-     "end": 57.907
+     "start": 57.578,
+     "end": 57.73
     },
     {
      "w": "just",
-     "start": 58.019,
-     "end": 58.13
+     "start": 57.844,
+     "end": 57.958
     },
     {
      "w": "built",
-     "start": 58.241,
-     "end": 58.353
+     "start": 58.071,
+     "end": 58.185
     },
     {
      "w": "a",
-     "start": 58.427,
-     "end": 58.501
+     "start": 58.261,
+     "end": 58.337
     },
     {
      "w": "high-speed",
-     "start": 58.576,
-     "end": 59.021
+     "start": 58.413,
+     "end": 58.868
     },
     {
      "w": "chairlift",
-     "start": 59.17,
-     "end": 59.467
+     "start": 59.02,
+     "end": 59.324
     },
     {
      "w": "yourself.",
-     "start": 59.541,
-     "end": 60.358
+     "start": 59.399,
+     "end": 60.234
     }
    ]
   },
   {
    "line": 14,
-   "start": 60.497,
+   "start": 60.377,
    "end": 66.0,
    "text": "A grip that never slips... and you still drop your glove halfway up.",
    "words": [
     {
      "w": "A",
-     "start": 60.794,
-     "end": 61.166
+     "start": 60.68,
+     "end": 61.059
     },
     {
      "w": "grip",
-     "start": 61.24,
-     "end": 61.611
+     "start": 61.135,
+     "end": 61.515
     },
     {
      "w": "that",
-     "start": 61.685,
-     "end": 61.834
+     "start": 61.591,
+     "end": 61.742
     },
     {
      "w": "never",
-     "start": 62.057,
-     "end": 62.279
+     "start": 61.97,
+     "end": 62.198
     },
     {
      "w": "slips...",
-     "start": 62.428,
-     "end": 63.069
+     "start": 62.35,
+     "end": 63.004
     },
     {
      "w": "and",
-     "start": 63.856,
-     "end": 63.885
+     "start": 63.809,
+     "end": 63.839
     },
     {
      "w": "you",
-     "start": 63.997,
-     "end": 64.108
+     "start": 63.953,
+     "end": 64.067
     },
     {
      "w": "still",
-     "start": 64.294,
-     "end": 64.48
+     "start": 64.256,
+     "end": 64.446
     },
     {
      "w": "drop",
-     "start": 64.554,
-     "end": 64.777
+     "start": 64.522,
+     "end": 64.75
     },
     {
      "w": "your",
-     "start": 64.851,
-     "end": 64.925
+     "start": 64.825,
+     "end": 64.901
     },
     {
      "w": "glove",
-     "start": 64.962,
-     "end": 65.222
+     "start": 64.939,
+     "end": 65.205
     },
     {
      "w": "halfway",
-     "start": 65.371,
-     "end": 65.668
+     "start": 65.357,
+     "end": 65.66
     },
     {
      "w": "up.",
-     "start": 65.742,
-     "end": 66.188
+     "start": 65.736,
+     "end": 66.191
     }
    ]
   }
