@@ -2021,3 +2021,79 @@ jobs:
       long office corridor a man seen from behind sits in a wheeled office chair and a colleague behind him gives it
       one huge shove, papers and his coffee float out behind him as he rolls faster and faster with nothing to stop
       him and sinks into a tall pile of cardboard boxes, a cat on a desk watching.
+
+  - id: towercrane-A
+    build: 115
+    kit: towercrane
+    # Added Nov 28 12:10 PT by the hourly runner (cloud) with no job left todo: the midday run of Nov 28 made 112-114
+    # in the v2 look and set harbourbridge-A/B and formularossa-A/B to skipped (114, the soda can, never had a pair),
+    # so 115 is the next LINEUP idea with no pair. Free Seedance video ends tonight (Nov 28 PT): these two can only run
+    # on a Chrome run before midnight PT; from Nov 29 they stay as written prompts (no video jobs), for whatever free
+    # video source comes next. Facts (ideas.md Nov 27 08:00; checked again Nov 28 12:00 on HowStuffWorks' printable
+    # page and HSE): A1 and B1: "a top climber or climbing frame that fits between the slewing unit and the top of the
+    # mast"; "The crew hangs a weight on the jib to balance the counterweight."; "Large hydraulic rams in the top
+    # climber push the slewing unit up 20 feet (6 meters)", then the crane lifts "another 20-foot mast section into the
+    # gap opened by the climbing frame" (HowStuffWorks). A2 (ours): a truck crane too short for the building: check
+    # before a line gives a truck crane's reach. A3: "This pad typically measures 30 feet by 30 feet by 4 feet (10 x 10
+    # x 1.3 meters) and weighs 400,000 pounds (182,000 kg)", "Large anchor bolts embedded deep into this pad", the crane
+    # comes "on 10 to 12 tractor-trailer rigs" (HowStuffWorks; the pad poured "several weeks before the crane arrives",
+    # ideas.md). A4 (ours, fixed by A5): a load far out on the jib tips the crane. A5: the counterweights and two limit
+    # switches: the maximum load switch "makes sure that the load does not exceed 18 tonnes", the load moment switch
+    # "makes sure that the operator does not exceed the tonne-meter rating" (300 tonne-meters); the page's counterweight
+    # line "20 tons (16.3 metric tons)" does not add up (20 US tons is about 18.1 t): no line uses it. A6 (ours, fixed
+    # by B1): the building outgrows the crane; "Maximum unsupported height: 265 feet (80 meters)", more "if it is tied
+    # into the building" (HowStuffWorks). No brand names (no maker's name on the jib), no logos, flags or writing; no
+    # faces: workers only from behind; no collapse and nobody hurt.
+    status: todo
+    file: buildit-towercrane-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): high above the clouds at dawn, the whole top of a tall steel tower crane slowly rises on a steel
+      climbing frame and leaves an open gap in its own lattice tower, then the crane's hook lifts a new square steel
+      tower section up into the gap, slow push-in. Shot 2 (5-10 s): a busy city block in the morning, a deep
+      construction pit beside the street, a truck crane stretches its boom as high as it can go beside a tall
+      half-built concrete core that already rises far above the boom's tip, wide aerial. Shot 3 (10-15 s): time-lapse,
+      workers seen from behind pour a giant square concrete pad with thick steel anchor bolts sticking up out of it,
+      then a line of trucks arrives with steel parts and a truck crane lowers the first lattice tower section onto the
+      bolts, wide view. Shot 4 (15-20 s): a heavy bundle of steel beams hangs from a trolley that rolls far out to the
+      tip of a tower crane's long arm, the whole crane leans toward the load and its steel tower creaks, workers far
+      below seen from behind look up and step back, wide view. Shot 5 (20-25 s): on the short back arm of a tower crane
+      big grey concrete blocks are stacked one by one and the crane stands straight and balanced again, then a heavy
+      load on the hook stops dead in mid-air as a small switch on the cable drum clicks and the drum holds still,
+      close-up. Shot 6 (25-30 s): time-lapse, the concrete floors of a skyscraper rise one after another around a tower
+      crane until the newest floor reaches the crane's long arm and the arm swings just above the fresh concrete, the
+      crane now too short for its building, wide view.
+  - id: towercrane-B
+    build: 115
+    kit: towercrane
+    # Facts: B1: the climb (see towercrane-A). B2 (fixed by B3): "Tower crane jibs are designed to free slew when out of
+    # service"; "If the brake is not fully released the upper slewing structure will not be able to slew freely in
+    # response to changing wind directions. This could result in the jib or whole crane collapsing in strong winds"
+    # (HSE safety bulletin FOD 5-2014, 31 Oct 2014; the investigations found "insufficient lubrication of the slew
+    # brake release mechanism"). The storm shot shows the strain only: no collapse. B3: the brake released, the jib
+    # turns with the wind like a weather vane (HSE FOD 2-2014: a luffing jib parked wrongly "may not be able to
+    # weathervane freely in high winds", ideas.md). B4 teases build 116, the Akashi Kaikyo Bridge: the January 1995
+    # earthquake "moved the towers (the only structures that had been erected at the time) such that the central span
+    # had to be increased by 1 m"; "The central span is 1,991 m"; opened April 5 1998 (Wikipedia, read Nov 28): so no
+    # cables and no deck between the towers in the shot, and no figure for how far each tower moved. B5 (our picture of
+    # B3 at work): a skyline whose cranes have all swung round the same way in the wind. B6 (ours): a beach umbrella
+    # that turns with the wind. Line 12: "6 M" (the climb) or "182,000 KG" (the pad), HowStuffWorks. Line 13 still: an
+    # AI picture (no free photo checked). End of the job, for a script line: "the crane disassembles its own mast and
+    # then smaller cranes disassemble the rest" (HowStuffWorks). No brand names, logos, flags or writing; no faces.
+    status: todo
+    file: buildit-towercrane-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): close-up at the top of a tower crane, a steel climbing frame wraps around the tower and big
+      hydraulic rams push the whole top of the crane up, opening a gap in the tower, then a new square steel tower
+      section slides into the gap and workers seen from behind bolt it in, a heavy weight hanging from the long arm to
+      keep it balanced. Shot 2 (5-10 s): at night a storm lashes a tower crane high above a city, its long arm locked
+      still side-on to the wind, rain streaking past the work lights, the steel tower bending and groaning in each gust,
+      close-up. Shot 3 (10-15 s): the same storm, the brake under the cab let go, the crane's long arm swings freely
+      round with the wind and turns to point downwind like a weather vane, the tower standing straight and calm in the
+      rain, wide view. Shot 4 (15-20 s): two giant steel bridge towers stand alone in a wide sea strait at dawn with no
+      cables and no road between them yet, the sea shudders in an earthquake and the two towers drift a little farther
+      apart, waves rippling around their bases, wide aerial. Shot 5 (20-25 s): a city skyline at dusk crowded with tower
+      cranes on half-built skyscrapers, a strong evening wind blowing, every crane's long arm swung round to point the
+      same way like weather vanes, people seen from behind on a footbridge stopping to watch, wide aerial. Shot 6
+      (25-30 s): funny slow motion, on a windy beach a man seen from behind clings to the pole of an open beach umbrella
+      that spins round with every gust and drags him across the sand, his towel and sandals flying, a seagull watching,
+      wide view.

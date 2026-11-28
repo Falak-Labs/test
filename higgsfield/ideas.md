@@ -7466,3 +7466,52 @@ Checked, nothing new
   [Virlo, Don't Let a Fanatic See This](https://virlo.ai/trends/dont-let-a-fanatic-see-this)
 - Spotify Wrapped 2026: still only the Official Charts and Techloy pages (here), no confirmed date.
 - YouTube Shorts features: Made on YouTube 2026 coverage only (here), nothing dated November.
+
+## 2026-11-28 12:00 PT (hourly runner, cloud run)
+
+Trends (pages new to these notes)
+- Year-end recap, one clip per month: Chatfuel's weekly Reels page ("Updated: November 25, 2026. Next update:
+  December 1, 2026") has "I feel like I haven't done much this year" (spotted Nov 20; an opening line, then one clip
+  per month labelled with the month, 12-20 s; audio "Coming Up Roses — Harry Styles", licensed), and NewEngen's
+  TikTok roundup ("Last updated: November 27, 2026") has the same shape as "A Random Day In..." Year Recap. Build-It
+  use (ours): a late-December Short or 4-minute-show extra, one finished build per month label, only for the months
+  the channels have posted; a licensed sound must be checked in each app's library first.
+- Same Chatfuel page: "The Blue Danube chore ballet" (ordinary tasks filmed as ballet; spotted Nov 6, "rising again
+  this week"; the waltz itself is here already, in the Nov 24 09:05 entry): the shape of our B6 slow-motion tag jokes,
+  so a B6 could be cut to it where the app's library has the track.
+- NewEngen (no per-trend dates or counts): "Zombie Outbreak Survival Stories", animated, second-person, numbered
+  episodes: the 4-minute show (Survival Mode, "You vs ...") already has that shape; keep its "you" and the episode
+  number in titles (ours). "Kung Fu Fighting Bottle Stack" (tag-team bottle stacking to "Everybody Was Kung Fu
+  Fighting", no artist named): a balance stunt that could open 115's counterweight line (ours).
+  [Chatfuel, Instagram Reels trends](https://chatfuel.com/blog/instagram-reels-trends),
+  [NewEngen, TikTok trends](https://newengen.com/insights/tiktok-trends/)
+
+Free sources (new to these notes; neither reachable from this workspace)
+- Vheer: the home page says "Start free with unlimited generations, no signup, and watermark-free exports", but its
+  pricing page gives the Free plan "50 credits per month", "Basic image generation", "Personal use", "No watermark"
+  (no video listed). Its terms ("Effective Date: January 15, 2025", section 11) keep free users' Quality-model images
+  "strictly for personal, non-commercial purposes" yet say the "AI Video Generator, Image-to-Image, ..." are for "both
+  personal and commercial use, regardless of the user's subscription status"; "You retain full ownership of Your
+  Content"; files are "automatically deleted from our servers every 6 hours". It lists Seedance V1.5 Pro, Hailuo 2.3,
+  LTX Video 2.3, Sora 2 and Veo 3.1 among its models without saying which are free, and no free video length or
+  resolution. Ours: the pages contradict each other, so it is only a candidate video fallback after tonight's end of
+  free Seedance: one Chrome test of the real free limit, and the owner reads the terms, before any clip is used.
+- Mage.Space: sign-up gives "300 free Gems"; unlimited is only for members "from $10 a month", on "less powerful
+  hardware" and "one at a time"; "Commercial license on every plan" and, in the FAQ, "Attribution to Mage is great,
+  but not required"; its terms page was not read (the fetch failed). Not a free source for us: 300 Gems only.
+  [Vheer](https://vheer.com/), [Vheer pricing](https://vheer.com/pricing), [Vheer terms](https://vheer.com/terms),
+  [Mage, membership](https://www.mage.space/membership)
+
+Checked, nothing new
+- Then-and-now on Pink Floyd's "Time" (Chatfuel, week of Nov 17, "close to half a million videos on each of Reels
+  and TikTok") is here since Nov 23. NapoleonCat's Reels page has nothing dated after Nov 1 (its November section is
+  the "Housewife" duo dance on Tate McRae's "Housewife").
+- Build 115 facts read again for its new pair (queue.yml towercrane-A/B): HowStuffWorks' printable page and HSE's
+  FOD 5-2014 say what the Nov 27 08:00 entry quotes; one new line from HSE: "If the brake is not fully released the
+  upper slewing structure will not be able to slew freely in response to changing wind directions". For 116,
+  Wikipedia: the 1995 earthquake "moved the towers (the only structures that had been erected at the time)" and the
+  central span "had to be increased by 1 m"; it gives no figure for each tower's move.
+  [HowStuffWorks, How Tower Cranes Work](https://science.howstuffworks.com/transport/engines-equipment/tower-crane.htm/printable),
+  [HSE, Tower crane slew brakes](https://www.hse.gov.uk/safetybulletins/tower-crane-slew-brakes.htm),
+  [Wikipedia, Akashi Kaikyo Bridge](https://en.wikipedia.org/wiki/Akashi_Kaikyo_Bridge)
+- Higgsfield past Nov 28: not searched this hour (the last runs found nothing; pictures only from tomorrow).
