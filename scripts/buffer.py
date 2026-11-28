@@ -35,6 +35,7 @@ def _load_cache():
 class Buffer:
     _schema = None          # the API schema is the same for every account: one cache per process, saved in state/
     quota = {}              # label -> the rate-limit header Buffer sent last (what is left of the API allowance)
+    page_size = "100"       # posts per page when listing (see posts())
 
     def __init__(self, key, label=""):
         self.key, self.label = key, label
@@ -176,10 +177,12 @@ class Buffer:
         page_info = self.field(conn, "pageInfo")
         pi_fields = {f["name"] for f in self.type(unwrap(page_info["type"])["name"]).get("fields") or []} if page_info else set()
         page_sel = " pageInfo { hasNextPage endCursor }" if {"hasNextPage", "endCursor"} <= pi_fields else ""
+        # Nov 27 2026: pages of 100 (was 25), because every listing of ~350 posts cost ~14 of the 30-day allowance per
+        # account. If Buffer refuses a page that big, fall back to 25 for the rest of this run (one request lost).
         out, after = [], None
         for _ in range(40):
             inp_extra, top_extra = "", ""
-            for name, val in (("first", "25"), ("after", '"%s"' % after if after else None)):
+            for name, val in (("first", Buffer.page_size), ("after", '"%s"' % after if after else None)):
                 if val is None:
                     continue
                 if name in top:
@@ -188,7 +191,14 @@ class Buffer:
                     inp_extra += ", %s: %s" % (name, val)
             q = ('query { posts(input: { organizationId: "%s", filter: { status: [%s] }%s }%s) { edges { node { %s } }%s } }'
                  % (organization_id, ", ".join(statuses), inp_extra, top_extra, sel, page_sel))
-            d = self.q(q)["posts"]
+            try:
+                d = self.q(q)["posts"]
+            except (BufferError, requests.HTTPError) as e:
+                if Buffer.page_size == "25" or after is not None or "allowance used up" in str(e):
+                    raise
+                print(f"  [{self.label}] pages of {Buffer.page_size} refused ({str(e)[:200]}); using 25")
+                Buffer.page_size = "25"
+                continue
             out += [e["node"] for e in d.get("edges") or []]
             pi = d.get("pageInfo") or {}
             if not (pi.get("hasNextPage") and pi.get("endCursor") and ("after" in top or "after" in inner)):
