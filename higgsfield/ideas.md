@@ -6964,3 +6964,77 @@ Checked, nothing new
   sec", as here; X refuses reading), a new-user 7-day post, DemandSage, Aliteq, Pixara and camclo3d's pricing page:
   Nov 28 stands.
 - Free stock video: Coverr, Uppbeat's stock video, Picsart, Freepik and Adobe Stock's trial: here already or paid.
+
+## 2026-11-28 06:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build for both channels, Kef Tenbeni above all: the barjeel, the Gulf's wind tower, an air conditioner
+  with no electricity (new to LINEUP and these notes, where it was only one shot inside the air-conditioner
+  candidate). How it works: a tower with "partitioned openings on all four sides, a roof, and a wind shaft",
+  "Operating on the concept of air pressure difference", that sends the cooler air "through the channel in the
+  interiors" and is built "to allow the hot air of the interiors to escape from the vents"; "Wet cloth partitions are
+  hoisted on bamboo poles around the openings to cool the incoming air" (Matador, Shoma Abhyankar, Jun 21 2021: "These
+  are the ancestors of A/C units"). With no wind it still works: "windcatchers operate like a solar chimney, allowing
+  hot air, which is lighter, to flow upwards and escape out the top of the tower" (Atlas Obscura). Dubai's story:
+  "The earliest wind towers in Dubai were made of palm fronds", a material "susceptible to fire", so builders turned
+  to "sea stone and coral"; the towers came "only in the late 19th century" with craftsmen drawn by the pearl trade
+  (Matador); Al Fahidi "has about 60 residential buildings, dates back to the 1890s" (The National). The older form
+  is Persian: Yazd's "oldest of the city's 700 wind catchers dates back to the 14th century", the idea "believed to
+  date back as far as 2,500 years", and the Dowlatabad garden's "33-metre wind catcher" is "one of the tallest in the
+  world" (AFP in Gulf Times, Jul 22 2023; Atlas Obscura: "the tallest existing windcatcher in Iran", in an
+  "18th-century" garden). The modern copy: Masdar City's "45-metre" stainless steel tower, where "Louvres at the top
+  trap the air and funnel it down into the campus's narrow, shaded walkways", designed to cool the plazas "by as much
+  as 20°C"; a mechanical engineering professor told the same paper then that "the results suggest the amount of
+  cooling or energy from this is minimal" (The National, Mar 6 2011; TriplePundit, Jan 2011: "perceived
+  temperatures" down "by as much as 5 degrees celsius"). How much a barjeel cools, never to be mixed: "up to 10
+  degrees Celsius" inside (Ferrovial's blog, May 2024; Matador's unnamed "Studies" say "about 10 degrees Celsius");
+  about 1 °C for a whole old quarter's lanes in computer simulations (Ajman University and University of Sharjah
+  researchers: "42.38°C" in Al Fahidi against "43.23°C" in a modern Ajman district in August; The National, Feb 27
+  2023; its March pair reads the wrong way round as printed: check); and in a 2026 CFD study a vertical barjeel's
+  supply air at 39.38 °C from a 41 °C wind (Muhammed, Chaudhry and Santiago, Architecture 6(1) 43, Mar 10 2026: their
+  horizontal version's gain "relative to the vertical configuration is modest"). So a line says "no electricity at
+  all" and gives degrees only with a source. Chain (breaks marked "ours" are ours): A1, a sand-coloured coral-stone
+  tower on an old courtyard house by Dubai Creek at noon, four tall slots open to the wind, a cutaway shows the breeze
+  sinking down its shaft into a dim room where a wet cloth sways. A2, the creek in 1890s summer heat, wooden pearling
+  boats, heat haze, no electricity. A3, a square tower of palm fronds on a rooftop catching the breeze. A4, a spark
+  from a cooking fire, the dry fronds catch and the tower burns. A5, a new tower of coral stone with partitioned
+  openings on all four sides, catching the wind whichever way it blows. A6 (ours), a windless night, the cloth hangs
+  dead still, the room stifling. B1, warm air rising out of the top like a chimney and pulling fresh air in below,
+  wet cloths on bamboo poles at the openings. B2, electric air conditioners arrive and the towers are forgotten (AFP
+  says so of Yazd), compressors humming on every wall. B3, Masdar's 45 m steel tower turning its louvres to the wind
+  over narrow shaded lanes. B4, the tease of whatever LINEUP build follows it. B5, Al Fahidi's lanes today, visitors
+  seen from behind in the shade under the towers. B6 (ours), funny slow motion: a gust drops down the tower, a stack
+  of papers flies off a desk and the cat asleep in the one cool spot under the shaft does not move. It would be the
+  third passive-cooling build after 102 (Al Bahar) and 109 (Eastgate): space them apart. No faces, no hotel or museum
+  names in the prompts. MAS Architecture Studio's cardboard barjeel for Dubai Design Week 2019 ("480 layers of
+  recycled cardboard", "18-foot-tall", Matador) is a modern-copy option; Dezeen's page on it could not be read from
+  here. Free pictures: not looked for this hour.
+  [Matador, Jun 21 2021](https://matadornetwork.com/read/dubais-wind-towers-citys-traditional-beautiful-way-beat-heat),
+  [The National, Feb 27 2023](https://thenationalnews.com/uae/2023/02/27/heres-why-old-dubai-is-cooler-in-temperature-than-the-rest-of-the-city),
+  [Atlas Obscura, Dolat Abad windcatcher](https://atlasobscura.com/places/dolat-abad-windcatcher),
+  [Gulf Times (AFP), Jul 22 2023](https://www.gulf-times.com/article/664923/region/irans-ancient-wind-catchers-beat-the-heat-naturally),
+  [Ferrovial, May 2024](https://blog.ferrovial.com/en/2024/05/windcatchers/),
+  [The National, Mar 6 2011](https://www.thenationalnews.com/uae/masdar-tower-is-a-big-experiment-1.434122),
+  [TriplePundit, Jan 2011](https://triplepundit.com/2011/01/masdar-wind-tower-abu-dhabi),
+  [MDPI Architecture, Mar 10 2026](https://www.mdpi.com/2673-8945/6/1/43)
+- Free sound effects for every project (new to these notes): the YouTube Audio Library's Sound Effects tab has
+  "hundreds of free sound effects", among them Impacts ("whooshes, hits, transitions"), Weather and Ambience, and
+  per vidIQ (a third party, "updated Feb 16, 2026") "YouTube Audio Library License tracks are free to use on any
+  platform, no attribution", while CC BY tracks need a credit in the description. YouTube's own help pages read this
+  hour cover only Creator Music, which is not for us: it "can only be used in long-form videos, not Shorts or live
+  streams", is rolling out to US Partner Program channels, and "you can only use the track in videos uploaded to
+  YouTube". Check each sound's licence line in YouTube Studio before it goes to TikTok or Instagram.
+  [vidIQ, upd. Feb 16 2026](https://vidiq.com/blog/post/royalty-free-music-youtube-audio-library/),
+  [YouTube Help, Creator Music FAQ](https://support.google.com/youtube/answer/11610609?hl=en-AU),
+  [YouTube Help, Creator Music usage details](https://support.google.com/youtube/answer/11611019)
+
+Checked, nothing new
+- Higgsfield past Nov 28: the "33 days", "14 days", "11 days 4K", "7-day bonus" and plan-change pages and trak.in's
+  story came up again, all here already: Nov 28 stands.
+- Free AI video: Google Vids with Veo 3.1 (creatorstoolbox), Wan 2.6 on Product Hunt, Hackceleration's list, HeyGen's
+  and tech.co's roundups: here already or credit-based.
+- Record openings: the Tianshan Shengli Tunnel and the world's tallest bridge (Huajiang, build 93) again; Newsweek's
+  "Record-breaking bridge longer than world's tallest building" (Soo Kim, Jun 18 2026) is the Danjiang Bridge, here
+  already as a candidate.
+- Trend and feature searches: year-ahead lists (kineclip, Opus, Fluxnote, Epidemic Sound, vidIQ), Dazed's
+  "thoughtfluencers" piece and Made on YouTube (Sep 2026) again: here already or titles only.
