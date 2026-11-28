@@ -1885,7 +1885,7 @@ jobs:
     # B1): the two halves have to meet in the middle. The hour differs ("10pm" MHNSW, "just before midnight" NSW
     # Government): say "one night in August 1930" and give no reason for the night. No "Sydney" in the prompt, so no
     # Opera House turns up in 1930. No faces: workers only from behind or far away; no logos, flags or writing anywhere.
-    status: todo
+    status: "skipped (build 112 is made in the v2 look by the Build-It midday run of Nov 28 PT: no clip was made, the slot idle since 13:24 Nov 26 and free Seedance ends Nov 28. Next pair: build 115, a tower crane)"
     file: buildit-harbourbridge-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): 1930, two giant unfinished steel half-arches reach out over a wide blue harbour from its two
@@ -1926,7 +1926,7 @@ jobs:
     # Copyright" photos (A-01174903, the arch meeting, 1930; A-00027568, the 1932 opening parade; ideas.md Nov 26
     # 17:00, Nov 27 15:00 and 17:00), or an AI picture. B6: the fence that is never finished (ours, after the thirty
     # years of paint). No faces: workers only from behind or far away; no logos, flags or writing anywhere.
-    status: todo
+    status: "skipped (build 112 is made in the v2 look by the Build-It midday run of Nov 28 PT: no clip was made, the slot idle since 13:24 Nov 26 and free Seedance ends Nov 28. Next pair: build 115, a tower crane)"
     file: buildit-harbourbridge-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): at night the thick steel cables behind each shore are let out slowly and the two giant
@@ -1966,7 +1966,7 @@ jobs:
     # airborne particles such as dust" (Wikipedia). A6 (fixed by B1): the train has to let go of the cables at full
     # speed. No "Abu Dhabi" or "Ferrari" in the prompt, so no logo, badge, horse or famous red roof turns up; no
     # catapult or warship picture; no faces: riders only from behind.
-    status: todo
+    status: "skipped (build 113 is made in the v2 look by the Build-It midday run of Nov 28 PT: no clip was made, the slot idle since 13:24 Nov 26 and free Seedance ends Nov 28. Next pair: build 115, a tower crane)"
     file: buildit-formularossa-sdA.mp4
     shots: >-
       Shot 1 (0-5 s): under a white-hot desert sun a plain red roller coaster train shaped like a racing car waits dead
@@ -2003,7 +2003,7 @@ jobs:
     # "10 CM" ("The track length can shrink or expand by approximately +/- 10cm due to an elongation element at launch
     # start", RCDB). Line 13 still: an AI picture (no free photo checked yet). B6: an office chair with no brakes
     # (ours). No faces: riders and office workers only from behind; no logos, badges, flags or writing anywhere.
-    status: todo
+    status: "skipped (build 113 is made in the v2 look by the Build-It midday run of Nov 28 PT: no clip was made, the slot idle since 13:24 Nov 26 and free Seedance ends Nov 28. Next pair: build 115, a tower crane)"
     file: buildit-formularossa-sdB.mp4
     shots: >-
       Shot 1 (0-5 s): macro cutaway, a small steel hook hangs down from the middle car of a speeding red coaster train
