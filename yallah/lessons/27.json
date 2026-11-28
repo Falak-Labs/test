@@ -1,0 +1,164 @@
+{
+ "title": "Emergency",
+ "slow_take": true,
+ "word": {
+  "full": "Ambulance",
+  "parts": [
+   "Am",
+   "bu",
+   "lance"
+  ],
+  "say": [
+   "AM",
+   "byuh",
+   "luns"
+  ],
+  "tts": [
+   "Am",
+   "byuh",
+   "lunce"
+  ],
+  "slow": "Am... byuh... lunce.",
+  "mean": "الإسعاف",
+  "ar": {
+   "ma": "آمبيولَنس",
+   "pa": "آمبيولَنس"
+  }
+ },
+ "en": [
+  [
+   "Help me, please!",
+   "A",
+   "fe:hospital",
+   {}
+  ],
+  [
+   "Are you okay?",
+   "L",
+   "smile",
+   {}
+  ],
+  [
+   "Don't move.",
+   "A",
+   "fe:stop",
+   {}
+  ],
+  [
+   "Stay calm.",
+   "L",
+   "heart",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Ambulance fiha sout mkhebbi ma mktoubch! Fin howa?",
+    "Ambulance فيها صوت مخبي ما مكتوبش! فين هو؟",
+    "Ambulance has a hidden sound that isn't written! Where is it?"
+   ]
+  ],
+  "board": [
+   "الإسعاف",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "3awnni 3afak!",
+    "عاونّي عافاك!"
+   ],
+   [
+    "Wach nta labas?",
+    "واش نتا لاباس؟"
+   ],
+   [
+    "Ma tt7errekch.",
+    "ما تتحركش."
+   ],
+   [
+    "Bqa hani.",
+    "بقا هاني."
+   ],
+   [
+    "Kolchi mzyan.",
+    "كلشي مزيان."
+   ]
+  ],
+  "ph5": [
+   "Everything is fine.",
+   "A",
+   "smile",
+   {}
+  ],
+  "sent": {
+   "en": "The ambulance is coming now!",
+   "hot": [
+    1
+   ],
+   "dz": "L-is3af jay daba!",
+   "ar": "الإسعاف جاي دابا!"
+  },
+  "ah": [
+   "آم",
+   "بيو",
+   "لنس"
+  ],
+  "mean": "الإسعاف"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Ambulance fiha sot mkhabba mish maktub! Wen huwwe?",
+    "Ambulance فيها صوت مخبّى مش مكتوب! وين هو؟",
+    "Ambulance has a hidden sound that isn't written! Where is it?"
+   ]
+  ],
+  "board": [
+   "الإسعاف",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Sa3idni law sama7t!",
+    "ساعدني لو سمحت!"
+   ],
+   [
+    "Inta mni7?",
+    "إنت منيح؟"
+   ],
+   [
+    "Ma tit7arrak.",
+    "ما تتحرك."
+   ],
+   [
+    "Khallik hadi.",
+    "خليك هادي."
+   ],
+   [
+    "Kollo tamam.",
+    "كلو تمام."
+   ]
+  ],
+  "ph5": [
+   "Everything is fine.",
+   "A",
+   "smile",
+   {}
+  ],
+  "sent": {
+   "en": "The ambulance is coming now!",
+   "hot": [
+    1
+   ],
+   "dz": "El-is3af jay hal2et!",
+   "ar": "الإسعاف جاي هلأ!"
+  },
+  "ah": [
+   "آم",
+   "بيو",
+   "لنس"
+  ],
+  "mean": "الإسعاف"
+ }
+}

@@ -1,0 +1,12 @@
+# Yallah Say, episode 25 (ma): five phrases, quiz, hard word (Stomach) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | Stomach فيها CH، ولكن ما كتقراش CH! كيفاش كتقراها؟
+T | p01t | أنا مريض.
+T | p02t | راسي كيضرني.
+T | p03t | فيا السخانة.
+T | p04t | من البارح.
+T | p05t | الله يشافيك!
+T | tw | Stomach.
+T | w6 | Good job! Stomach!
+T | v2 | كرشي كتضرني بزاف!
+T | Tsl | Stum... uck.

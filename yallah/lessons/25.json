@@ -1,0 +1,159 @@
+{
+ "title": "At the doctor",
+ "slow_take": true,
+ "word": {
+  "full": "Stomach",
+  "parts": [
+   "Sto",
+   "mach"
+  ],
+  "say": [
+   "STUM",
+   "uk"
+  ],
+  "tts": [
+   "Stum",
+   "uck"
+  ],
+  "slow": "Stum... uck.",
+  "mean": "الكرش",
+  "ar": {
+   "ma": "ستَمَك",
+   "pa": "ستَمَك"
+  }
+ },
+ "en": [
+  [
+   "I feel sick.",
+   "A",
+   "sick",
+   {}
+  ],
+  [
+   "My head hurts.",
+   "L",
+   "fe:headache",
+   {}
+  ],
+  [
+   "I have a fever.",
+   "A",
+   "fe:thermo",
+   {}
+  ],
+  [
+   "Since yesterday.",
+   "L",
+   "fe:calendar",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Stomach fiha CH, walakin ma kat9rach CH! Kifach kat9raha?",
+    "Stomach فيها CH، ولكن ما كتقراش CH! كيفاش كتقراها؟",
+    "Stomach has CH, but you don't read it as CH! How do you read it?"
+   ]
+  ],
+  "board": [
+   "الكرش",
+   "= ? ?"
+  ],
+  "ph": [
+   [
+    "Ana mrid.",
+    "أنا مريض."
+   ],
+   [
+    "Rasi kaydorni.",
+    "راسي كيضرني."
+   ],
+   [
+    "Fiya s-skhana.",
+    "فيا السخانة."
+   ],
+   [
+    "Men l-bare7.",
+    "من البارح."
+   ],
+   [
+    "Lah ychafik!",
+    "الله يشافيك!"
+   ]
+  ],
+  "ph5": [
+   "Get well soon!",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "My stomach hurts a lot!",
+   "hot": [
+    1
+   ],
+   "dz": "Kerchi katdorni bzaf!",
+   "ar": "كرشي كتضرني بزاف!"
+  },
+  "ah": [
+   "ستَم",
+   "ك"
+  ],
+  "mean": "الكرش"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Stomach fiha CH, bas ma bin2raha CH! Kif bin2raha?",
+    "Stomach فيها CH، بس ما بنقراها CH! كيف بنقراها؟",
+    "Stomach has CH, but you don't read it as CH! How do you read it?"
+   ]
+  ],
+  "board": [
+   "البطن",
+   "= ? ?"
+  ],
+  "ph": [
+   [
+    "Ana ta3ban.",
+    "أنا تعبان."
+   ],
+   [
+    "Rasi byooja3ni.",
+    "راسي بيوجعني."
+   ],
+   [
+    "3indi sokhuneh.",
+    "عندي سخونة."
+   ],
+   [
+    "Min mbare7.",
+    "من مبارح."
+   ],
+   [
+    "Salamtak!",
+    "سلامتك!"
+   ]
+  ],
+  "ph5": [
+   "Get well soon!",
+   "A",
+   "heart",
+   {}
+  ],
+  "sent": {
+   "en": "My stomach hurts a lot!",
+   "hot": [
+    1
+   ],
+   "dz": "Batni byooja3ni ktir!",
+   "ar": "بطني بيوجعني كتير!"
+  },
+  "ah": [
+   "ستَم",
+   "ك"
+  ],
+  "mean": "البطن"
+ }
+}

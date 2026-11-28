@@ -1,0 +1,12 @@
+# Yallah Say, episode 27 (ma): five phrases, quiz, hard word (Ambulance) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | Ambulance فيها صوت مخبي ما مكتوبش! فين هو؟
+T | p01t | عاونّي عافاك!
+T | p02t | واش نتا لاباس؟
+T | p03t | ما تتحركش.
+T | p04t | بقا هاني.
+T | p05t | كلشي مزيان.
+T | tw | Ambulance.
+T | w6 | Good job! Ambulance!
+T | v2 | الإسعاف جاي دابا!
+T | Tsl | Am... byuh... lunce.

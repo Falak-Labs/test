@@ -22,6 +22,8 @@ Microsoft Fluent Emoji, MIT licence (LICENSE-FluentEmoji.txt), from github.com/m
 | gift | assets/Wrapped gift/3D/wrapped_gift_3d.png |
 | girl | assets/Girl/Default/3D/girl_3d_default.png |
 | goal | assets/Goal net/3D/goal_net_3d.png |
+| headache | assets/Face with head-bandage/3D/face_with_head-bandage_3d.png |
+| hospital | assets/Hospital/3D/hospital_3d.png |
 | hourglass | assets/Hourglass done/3D/hourglass_done_3d.png |
 | house | assets/House with garden/3D/house_with_garden_3d.png |
 | hug | assets/People hugging/3D/people_hugging_3d.png |
@@ -33,6 +35,7 @@ Microsoft Fluent Emoji, MIT licence (LICENSE-FluentEmoji.txt), from github.com/m
 | party | assets/Party popper/3D/party_popper_3d.png |
 | passport | assets/Passport control/3D/passport_control_3d.png |
 | pencil | assets/Pencil/3D/pencil_3d.png |
+| pill | assets/Pill/3D/pill_3d.png |
 | pinch | assets/Pinching hand/Default/3D/pinching_hand_3d_default.png |
 | plate | assets/Fork and knife with plate/3D/fork_and_knife_with_plate_3d.png |
 | rain | assets/Cloud with rain/3D/cloud_with_rain_3d.png |
@@ -45,6 +48,7 @@ Microsoft Fluent Emoji, MIT licence (LICENSE-FluentEmoji.txt), from github.com/m
 | snow | assets/Snowflake/3D/snowflake_3d.png |
 | speech | assets/Speech balloon/3D/speech_balloon_3d.png |
 | star | assets/Star/3D/star_3d.png |
+| stop | assets/Stop sign/3D/stop_sign_3d.png |
 | sun | assets/Sun/3D/sun_3d.png |
 | tea | assets/Teacup without handle/3D/teacup_without_handle_3d.png |
 | thermo | assets/Thermometer/3D/thermometer_3d.png |

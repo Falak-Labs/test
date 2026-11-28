@@ -1,0 +1,12 @@
+# Yallah Say, episode 26 (pa): five phrases, quiz, hard word (Pharmacy) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | Pharmacy بتبدا ب P، بس أول صوت بينسمع F! ليش؟
+T | p01t | بدي دوا.
+T | p02t | خد حبة وحدة.
+T | p03t | مرتين باليوم.
+T | p04t | بعد الأكل.
+T | p05t | هي فاتحة هلأ؟
+T | tw | Pharmacy.
+T | w6 | Good job! Pharmacy!
+T | v2 | الصيدلية حد البنك.
+T | Tsl | Far... muh... see.

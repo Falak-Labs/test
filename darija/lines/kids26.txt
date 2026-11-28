@@ -1,0 +1,12 @@
+# Yallah Say, episode 26: the pupils' English lines that both dialects share (hard word: Pharmacy).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | I need medicine.
+L | p02k | Take one pill.
+A | p03k | Twice a day.
+L | p04k | After eating.
+A | p05k | Is it open now?
+A | w5 | Pharmacy!
+L | v1 | The pharmacy is next to the bank.
+L | Lw | Pharmacy!
+A | Asl | Far... muh... see.
+L | Lsl | Far... muh... see.

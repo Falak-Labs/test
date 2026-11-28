@@ -1,0 +1,164 @@
+{
+ "title": "At the pharmacy",
+ "slow_take": true,
+ "word": {
+  "full": "Pharmacy",
+  "parts": [
+   "Phar",
+   "ma",
+   "cy"
+  ],
+  "say": [
+   "FAR",
+   "muh",
+   "see"
+  ],
+  "tts": [
+   "Far",
+   "muh",
+   "see"
+  ],
+  "slow": "Far... muh... see.",
+  "mean": "الصيدلية",
+  "ar": {
+   "ma": "فارمَسي",
+   "pa": "فارمَسي"
+  }
+ },
+ "en": [
+  [
+   "I need medicine.",
+   "A",
+   "fe:pill",
+   {}
+  ],
+  [
+   "Take one pill.",
+   "L",
+   "fe:pill",
+   {}
+  ],
+  [
+   "Twice a day.",
+   "A",
+   "fe:clock",
+   {}
+  ],
+  [
+   "After eating.",
+   "L",
+   "fe:plate",
+   {}
+  ]
+ ],
+ "ma": {
+  "hook": [
+   [
+    "Pharmacy katbda b P, walakin awel sout kaytsma3 F! 3lach?",
+    "Pharmacy كتبدا ب P، ولكن أول صوت كيتسمع F! علاش؟",
+    "Pharmacy starts with P, but the first sound is F! Why?"
+   ]
+  ],
+  "board": [
+   "الصيدلية",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Khassni dwa.",
+    "خاصني دوا."
+   ],
+   [
+    "Khod kina wa7da.",
+    "خود كينة وحدة."
+   ],
+   [
+    "Jouj d l-merrat fn-nhar.",
+    "جوج د المرات فالنهار."
+   ],
+   [
+    "Mn ba3d l-makla.",
+    "من بعد الماكلة."
+   ],
+   [
+    "Wach m7loula daba?",
+    "واش محلولة دابا؟"
+   ]
+  ],
+  "ph5": [
+   "Is it open now?",
+   "A",
+   "fe:door",
+   {}
+  ],
+  "sent": {
+   "en": "The pharmacy is next to the bank.",
+   "hot": [
+    1
+   ],
+   "dz": "S-sayadliya 7da l-banka.",
+   "ar": "الصيدلية حدا البنكة."
+  },
+  "ah": [
+   "فار",
+   "مه",
+   "سي"
+  ],
+  "mean": "الصيدلية"
+ },
+ "pa": {
+  "hook": [
+   [
+    "Pharmacy btibda b P, bas awwal sot binsme3 F! Lesh?",
+    "Pharmacy بتبدا ب P، بس أول صوت بينسمع F! ليش؟",
+    "Pharmacy starts with P, but the first sound is F! Why?"
+   ]
+  ],
+  "board": [
+   "الصيدلية",
+   "= ? ? ?"
+  ],
+  "ph": [
+   [
+    "Bidi dawa.",
+    "بدي دوا."
+   ],
+   [
+    "Khod 7abbe wa7de.",
+    "خد حبة وحدة."
+   ],
+   [
+    "Martein bil-yom.",
+    "مرتين باليوم."
+   ],
+   [
+    "Ba3d el-akel.",
+    "بعد الأكل."
+   ],
+   [
+    "Hiyye fat7a hal2et?",
+    "هي فاتحة هلأ؟"
+   ]
+  ],
+  "ph5": [
+   "Is it open now?",
+   "A",
+   "fe:door",
+   {}
+  ],
+  "sent": {
+   "en": "The pharmacy is next to the bank.",
+   "hot": [
+    1
+   ],
+   "dz": "Es-saydaliyye 7add el-bank.",
+   "ar": "الصيدلية حد البنك."
+  },
+  "ah": [
+   "فار",
+   "مه",
+   "سي"
+  ],
+  "mean": "الصيدلية"
+ }
+}

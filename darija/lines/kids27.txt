@@ -1,0 +1,12 @@
+# Yallah Say, episode 27: the pupils' English lines that both dialects share (hard word: Ambulance).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | Help me, please!
+L | p02k | Are you okay?
+A | p03k | Don't move.
+L | p04k | Stay calm.
+A | p05k | Everything is fine.
+A | w5 | Ambulance!
+L | v1 | The ambulance is coming now!
+L | Lw | Ambulance!
+A | Asl | Am... byuh... lunce.
+L | Lsl | Am... byuh... lunce.

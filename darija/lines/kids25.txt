@@ -1,0 +1,12 @@
+# Yallah Say, episode 25: the pupils' English lines that both dialects share (hard word: Stomach).
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+A | p01k | I feel sick.
+L | p02k | My head hurts.
+A | p03k | I have a fever.
+L | p04k | Since yesterday.
+A | p05k | Get well soon!
+A | w5 | Stomach!
+L | v1 | My stomach hurts a lot!
+L | Lw | Stomach!
+A | Asl | Stum... uck.
+L | Lsl | Stum... uck.

@@ -1,0 +1,12 @@
+# Yallah Say, episode 26 (ma): five phrases, quiz, hard word (Pharmacy) in a sentence.
+# SPEAKER | id | text to say      (T teacher, A Adam, L Lina)
+T | h1 | Pharmacy كتبدا ب P، ولكن أول صوت كيتسمع F! علاش؟
+T | p01t | خاصني دوا.
+T | p02t | خود كينة وحدة.
+T | p03t | جوج د المرات فالنهار.
+T | p04t | من بعد الماكلة.
+T | p05t | واش محلولة دابا؟
+T | tw | Pharmacy.
+T | w6 | Good job! Pharmacy!
+T | v2 | الصيدلية حدا البنكة.
+T | Tsl | Far... muh... see.
