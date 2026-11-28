@@ -1,4 +1,4 @@
-# Post status 2026-11-28T07:57:44+00:00
+# Post status 2026-11-28T19:32:05+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -62,19 +62,19 @@
 | ep10-toilet | en.instagram | sent |  | 2026-11-10T16:32:37.108Z https://www.instagram.com/reel/DfkVzibCHA_/ |
 | ep10-toilet | en.tiktok | sent |  | 2026-11-10T16:31:35.772Z https://www.tiktok.com/@congratsengineer/video/7706580909218188558?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep10-toilet | en.youtube | sent |  | 2026-11-10T16:30:32.781Z https://www.youtube.com/shorts/zdZV6e-YG0w |
-| ep100-jeddahtower | ar.instagram | scheduled |  | 2026-11-28T08:00:00.000Z |
-| ep100-jeddahtower | ar.tiktok | scheduled |  | 2026-11-28T08:30:00.000Z |
-| ep100-jeddahtower | en.instagram | scheduled |  | 2026-11-28T14:00:00.000Z |
-| ep100-jeddahtower | en.tiktok | scheduled |  | 2026-11-28T14:00:00.000Z |
-| ep101-sprinkler | ar.instagram | scheduled |  | 2026-11-28T11:00:00.000Z |
-| ep101-sprinkler | ar.tiktok | scheduled |  | 2026-11-28T11:30:00.000Z |
-| ep101-sprinkler | en.instagram | scheduled |  | 2026-11-28T16:30:00.000Z |
-| ep101-sprinkler | en.tiktok | scheduled |  | 2026-11-28T16:30:00.000Z |
-| ep102-albahar | ar.instagram | scheduled |  | 2026-11-28T14:00:00.000Z |
-| ep102-albahar | ar.tiktok | scheduled |  | 2026-11-28T14:30:00.000Z |
-| ep102-albahar | en.instagram | scheduled |  | 2026-11-28T19:00:00.000Z |
-| ep102-albahar | en.tiktok | scheduled |  | 2026-11-28T19:00:00.000Z |
-| ep103-bubblewrap | ar.instagram | scheduled |  | 2026-11-28T17:00:00.000Z |
+| ep100-jeddahtower | ar.instagram | sent |  | 2026-11-28T08:02:44.506Z https://www.instagram.com/reel/DgRxyEshAS0/ |
+| ep100-jeddahtower | ar.tiktok | sent |  | 2026-11-28T08:30:56.460Z https://tiktok.com/@kef.tenbeni/video/7713136515081129229 |
+| ep100-jeddahtower | en.instagram | sent |  | 2026-11-28T14:03:39.607Z https://www.instagram.com/reel/DgSbHTcM9iK/ |
+| ep100-jeddahtower | en.tiktok | sent |  | 2026-11-28T14:03:18.416Z https://tiktok.com/@congratsengineer/video/7713222322093559054 |
+| ep101-sprinkler | ar.instagram | sent |  | 2026-11-28T11:04:01.419Z https://www.instagram.com/reel/DgSGcbECgTv/ |
+| ep101-sprinkler | ar.tiktok | sent |  | 2026-11-28T11:31:22.646Z https://tiktok.com/@kef.tenbeni/video/7713183248322448654 |
+| ep101-sprinkler | en.instagram | sent |  | 2026-11-28T16:32:12.325Z https://www.instagram.com/reel/DgSsGSyz-yP/ |
+| ep101-sprinkler | en.tiktok | sent |  | 2026-11-28T16:31:42.113Z https://tiktok.com/@congratsengineer/video/7713260622007323917 |
+| ep102-albahar | ar.instagram | sent |  | 2026-11-28T14:03:40.157Z https://www.instagram.com/reel/DgSbGjwz5fN/ |
+| ep102-albahar | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-28T14:30:00.000Z |
+| ep102-albahar | en.instagram | sent |  | 2026-11-28T19:03:28.674Z https://www.instagram.com/reel/DgS9W91hPZ5/ |
+| ep102-albahar | en.tiktok | sent |  | 2026-11-28T19:03:55.526Z https://tiktok.com/@congratsengineer/video/7713299601264020750 |
+| ep103-bubblewrap | ar.instagram | sent |  | 2026-11-28T17:04:59.529Z https://www.instagram.com/reel/DgSv4xIhDUn/ |
 | ep103-bubblewrap | ar.tiktok | scheduled |  | 2026-11-28T20:30:00.000Z |
 | ep103-bubblewrap | en.instagram | scheduled |  | 2026-11-28T21:30:00.000Z |
 | ep103-bubblewrap | en.tiktok | scheduled |  | 2026-11-28T21:30:00.000Z |
