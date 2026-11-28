@@ -1,946 +1,921 @@
 {
  "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
  "model": "eleven_v4",
- "tempo": 1.12,
+ "tempo": 1.1177,
  "gap": 0.35,
- "duration": 67.533,
- "words": 165,
- "words_per_sec": 2.44,
+ "duration": 66.014,
+ "words": 160,
+ "words_per_sec": 2.42,
  "lines": [
   {
    "line": 1,
    "start": 0.0,
-   "end": 4.357,
+   "end": 4.366,
    "text": "Y'all, this office in Zimbabwe copied... a termite mound.",
    "words": [
     {
      "w": "Y'all,",
      "start": 0.143,
-     "end": 0.714
+     "end": 0.716
     },
     {
      "w": "this",
-     "start": 0.929,
-     "end": 1.143
+     "start": 0.93,
+     "end": 1.145
     },
     {
      "w": "office",
-     "start": 1.214,
-     "end": 1.5
+     "start": 1.217,
+     "end": 1.503
     },
     {
      "w": "in",
-     "start": 1.571,
-     "end": 1.643
+     "start": 1.575,
+     "end": 1.646
     },
     {
      "w": "Zimbabwe",
-     "start": 1.679,
-     "end": 2.286
+     "start": 1.682,
+     "end": 2.29
     },
     {
      "w": "copied...",
-     "start": 2.429,
-     "end": 3.143
+     "start": 2.433,
+     "end": 3.149
     },
     {
      "w": "a",
-     "start": 3.214,
-     "end": 3.286
+     "start": 3.221,
+     "end": 3.292
     },
     {
      "w": "termite",
-     "start": 3.464,
-     "end": 3.786
+     "start": 3.471,
+     "end": 3.793
     },
     {
      "w": "mound.",
-     "start": 3.857,
-     "end": 4.429
+     "start": 3.865,
+     "end": 4.438
     }
    ]
   },
   {
    "line": 2,
-   "start": 4.67,
-   "end": 9.509,
-   "text": "Sun turns glass offices into ovens. So how do termites keep cool?",
+   "start": 4.679,
+   "end": 9.027,
+   "text": "Sun turns glass offices into ovens. How do termites keep cool?",
    "words": [
     {
      "w": "Sun",
-     "start": 4.796,
-     "end": 5.011
+     "start": 4.806,
+     "end": 5.021
     },
     {
      "w": "turns",
-     "start": 5.082,
-     "end": 5.404
+     "start": 5.092,
+     "end": 5.379
     },
     {
      "w": "glass",
-     "start": 5.439,
-     "end": 5.796
+     "start": 5.45,
+     "end": 5.808
     },
     {
      "w": "offices",
-     "start": 5.868,
-     "end": 6.368
+     "start": 5.88,
+     "end": 6.381
     },
     {
      "w": "into",
-     "start": 6.511,
-     "end": 6.654
+     "start": 6.452,
+     "end": 6.739
     },
     {
      "w": "ovens.",
-     "start": 6.796,
-     "end": 7.5
+     "start": 6.81,
+     "end": 7.524
     },
     {
-     "w": "So",
-     "start": 7.645,
-     "end": 7.859
-    },
-    {
-     "w": "how",
-     "start": 8.073,
-     "end": 8.216
+     "w": "How",
+     "start": 7.606,
+     "end": 7.678
     },
     {
      "w": "do",
-     "start": 8.288,
-     "end": 8.359
+     "start": 7.75,
+     "end": 7.893
     },
     {
      "w": "termites",
-     "start": 8.43,
-     "end": 8.859
+     "start": 8.0,
+     "end": 8.322
     },
     {
      "w": "keep",
-     "start": 8.93,
-     "end": 9.073
+     "start": 8.394,
+     "end": 8.537
     },
     {
      "w": "cool?",
-     "start": 9.145,
-     "end": 9.645
+     "start": 8.608,
+     "end": 9.182
     }
    ]
   },
   {
    "line": 3,
-   "start": 9.821,
-   "end": 14.62,
+   "start": 9.34,
+   "end": 14.148,
    "text": "First, thick concrete walls, and small windows behind shady ledges.",
    "words": [
     {
      "w": "First,",
-     "start": 9.961,
-     "end": 10.461
+     "start": 9.48,
+     "end": 9.981
     },
     {
      "w": "thick",
-     "start": 10.604,
-     "end": 11.005
+     "start": 10.124,
+     "end": 10.527
     },
     {
      "w": "concrete",
-     "start": 11.148,
-     "end": 11.505
+     "start": 10.67,
+     "end": 11.028
     },
     {
      "w": "walls,",
-     "start": 11.577,
-     "end": 12.077
+     "start": 11.099,
+     "end": 11.6
     },
     {
      "w": "and",
-     "start": 12.148,
-     "end": 12.291
+     "start": 11.672,
+     "end": 11.815
     },
     {
      "w": "small",
-     "start": 12.434,
-     "end": 12.72
+     "start": 11.958,
+     "end": 12.244
     },
     {
      "w": "windows",
-     "start": 12.791,
-     "end": 13.148
+     "start": 12.316,
+     "end": 12.674
     },
     {
      "w": "behind",
-     "start": 13.22,
-     "end": 13.577
+     "start": 12.745,
+     "end": 13.103
     },
     {
      "w": "shady",
-     "start": 13.648,
-     "end": 13.934
+     "start": 13.175,
+     "end": 13.461
     },
     {
      "w": "ledges.",
-     "start": 14.005,
-     "end": 14.72
+     "start": 13.533,
+     "end": 14.248
     }
    ]
   },
   {
    "line": 4,
-   "start": 14.932,
-   "end": 19.353,
-   "text": "But by evening, that concrete is full of the day's heat!",
+   "start": 14.461,
+   "end": 18.236,
+   "text": "But by evening, that concrete is full of heat!",
    "words": [
     {
      "w": "But",
-     "start": 15.71,
-     "end": 15.853
+     "start": 15.186,
+     "end": 15.258
     },
     {
      "w": "by",
-     "start": 15.924,
-     "end": 16.067
+     "start": 15.329,
+     "end": 15.472
     },
     {
      "w": "evening,",
-     "start": 16.21,
-     "end": 16.844
+     "start": 15.615,
+     "end": 16.188
     },
     {
      "w": "that",
-     "start": 16.951,
-     "end": 17.058
+     "start": 16.295,
+     "end": 16.403
     },
     {
      "w": "concrete",
-     "start": 17.129,
-     "end": 17.558
+     "start": 16.474,
+     "end": 16.904
     },
     {
      "w": "is",
-     "start": 17.629,
-     "end": 17.772
+     "start": 16.975,
+     "end": 17.19
     },
     {
      "w": "full",
-     "start": 17.987,
-     "end": 18.201
+     "start": 17.405,
+     "end": 17.62
     },
     {
      "w": "of",
-     "start": 18.272,
-     "end": 18.344
-    },
-    {
-     "w": "the",
-     "start": 18.379,
-     "end": 18.415
-    },
-    {
-     "w": "day's",
-     "start": 18.487,
-     "end": 18.772
+     "start": 17.691,
+     "end": 17.763
     },
     {
      "w": "heat!",
-     "start": 18.844,
-     "end": 19.353
+     "start": 17.834,
+     "end": 18.335
     }
    ]
   },
   {
    "line": 5,
-   "start": 19.665,
-   "end": 24.075,
+   "start": 18.549,
+   "end": 22.967,
    "text": "So at night, big fans blow cold air through hollow floors.",
    "words": [
     {
      "w": "So",
-     "start": 19.861,
-     "end": 20.004
+     "start": 18.744,
+     "end": 18.887
     },
     {
      "w": "at",
-     "start": 20.146,
-     "end": 20.289
+     "start": 19.03,
+     "end": 19.174
     },
     {
      "w": "night,",
-     "start": 20.361,
-     "end": 21.004
+     "start": 19.245,
+     "end": 19.889
     },
     {
      "w": "big",
-     "start": 21.146,
-     "end": 21.361
+     "start": 20.032,
+     "end": 20.247
     },
     {
      "w": "fans",
-     "start": 21.432,
-     "end": 21.718
+     "start": 20.319,
+     "end": 20.605
     },
     {
      "w": "blow",
-     "start": 21.789,
-     "end": 21.932
+     "start": 20.677,
+     "end": 20.82
     },
     {
      "w": "cold",
-     "start": 22.075,
-     "end": 22.361
+     "start": 20.963,
+     "end": 21.249
     },
     {
      "w": "air",
-     "start": 22.504,
-     "end": 22.646
+     "start": 21.392,
+     "end": 21.535
     },
     {
      "w": "through",
-     "start": 22.718,
-     "end": 22.932
+     "start": 21.607,
+     "end": 21.822
     },
     {
      "w": "hollow",
-     "start": 23.004,
-     "end": 23.289
+     "start": 21.893,
+     "end": 22.18
     },
     {
      "w": "floors.",
-     "start": 23.432,
-     "end": 24.146
+     "start": 22.323,
+     "end": 23.038
     }
    ]
   },
   {
    "line": 6,
-   "start": 24.387,
-   "end": 27.764,
+   "start": 23.28,
+   "end": 26.665,
    "text": "But by morning, people and computers heat the rooms back up.",
    "words": [
     {
      "w": "But",
-     "start": 24.518,
-     "end": 24.661
+     "start": 23.411,
+     "end": 23.554
     },
     {
      "w": "by",
-     "start": 24.732,
-     "end": 24.875
+     "start": 23.625,
+     "end": 23.769
     },
     {
      "w": "morning,",
-     "start": 24.946,
-     "end": 25.482
+     "start": 23.84,
+     "end": 24.377
     },
     {
      "w": "people",
-     "start": 25.589,
-     "end": 25.804
+     "start": 24.484,
+     "end": 24.699
     },
     {
      "w": "and",
-     "start": 25.875,
-     "end": 25.946
+     "start": 24.771,
+     "end": 24.842
     },
     {
      "w": "computers",
-     "start": 26.018,
-     "end": 26.518
+     "start": 24.914,
+     "end": 25.415
     },
     {
      "w": "heat",
-     "start": 26.625,
-     "end": 26.732
+     "start": 25.522,
+     "end": 25.629
     },
     {
      "w": "the",
-     "start": 26.768,
-     "end": 26.804
+     "start": 25.665,
+     "end": 25.701
     },
     {
      "w": "rooms",
-     "start": 26.875,
-     "end": 27.089
+     "start": 25.773,
+     "end": 25.987
     },
     {
      "w": "back",
-     "start": 27.161,
-     "end": 27.375
+     "start": 26.059,
+     "end": 26.274
     },
     {
      "w": "up.",
-     "start": 27.446,
-     "end": 27.946
+     "start": 26.345,
+     "end": 26.846
     }
    ]
   },
   {
    "line": 7,
-   "start": 28.077,
-   "end": 32.653,
+   "start": 26.978,
+   "end": 31.562,
    "text": "So small fans pull air through those cold floors, and it comes in cool.",
    "words": [
     {
      "w": "So",
-     "start": 28.291,
-     "end": 28.505
+     "start": 27.192,
+     "end": 27.407
     },
     {
      "w": "small",
-     "start": 28.648,
-     "end": 28.934
+     "start": 27.55,
+     "end": 27.837
     },
     {
      "w": "fans",
-     "start": 29.077,
-     "end": 29.363
+     "start": 27.98,
+     "end": 28.266
     },
     {
      "w": "pull",
-     "start": 29.434,
-     "end": 29.648
+     "start": 28.338,
+     "end": 28.552
     },
     {
      "w": "air",
-     "start": 29.72,
-     "end": 29.862
+     "start": 28.624,
+     "end": 28.767
     },
     {
      "w": "through",
-     "start": 29.934,
-     "end": 30.077
+     "start": 28.839,
+     "end": 28.982
     },
     {
      "w": "those",
-     "start": 30.184,
-     "end": 30.291
+     "start": 29.089,
+     "end": 29.196
     },
     {
      "w": "cold",
-     "start": 30.362,
-     "end": 30.648
+     "start": 29.268,
+     "end": 29.554
     },
     {
      "w": "floors,",
-     "start": 30.791,
-     "end": 31.458
+     "start": 29.697,
+     "end": 30.366
     },
     {
      "w": "and",
-     "start": 31.481,
-     "end": 31.505
+     "start": 30.389,
+     "end": 30.413
     },
     {
      "w": "it",
-     "start": 31.577,
-     "end": 31.648
+     "start": 30.485,
+     "end": 30.556
     },
     {
      "w": "comes",
-     "start": 31.72,
-     "end": 31.934
+     "start": 30.628,
+     "end": 30.843
     },
     {
      "w": "in",
-     "start": 32.005,
-     "end": 32.148
+     "start": 30.914,
+     "end": 31.057
     },
     {
      "w": "cool.",
-     "start": 32.22,
-     "end": 32.791
+     "start": 31.129,
+     "end": 31.702
     }
    ]
   },
   {
    "line": 8,
-   "start": 32.965,
-   "end": 36.035,
+   "start": 31.875,
+   "end": 34.952,
    "text": "But all that warm air has to go somewhere!",
    "words": [
     {
      "w": "But",
-     "start": 33.546,
-     "end": 33.688
+     "start": 32.457,
+     "end": 32.6
     },
     {
      "w": "all",
-     "start": 33.76,
-     "end": 33.903
+     "start": 32.671,
+     "end": 32.814
     },
     {
      "w": "that",
-     "start": 33.974,
-     "end": 34.117
+     "start": 32.886,
+     "end": 33.029
     },
     {
      "w": "warm",
-     "start": 34.188,
-     "end": 34.403
+     "start": 33.101,
+     "end": 33.315
     },
     {
      "w": "air",
-     "start": 34.474,
-     "end": 34.688
+     "start": 33.387,
+     "end": 33.602
     },
     {
      "w": "has",
-     "start": 34.76,
-     "end": 34.974
+     "start": 33.673,
+     "end": 33.888
     },
     {
      "w": "to",
-     "start": 35.046,
-     "end": 35.117
+     "start": 33.96,
+     "end": 34.031
     },
     {
      "w": "go",
-     "start": 35.188,
-     "end": 35.26
+     "start": 34.103,
+     "end": 34.174
     },
     {
      "w": "somewhere!",
-     "start": 35.403,
-     "end": 36.26
+     "start": 34.318,
+     "end": 35.176
     }
    ]
   },
   {
    "line": 9,
-   "start": 36.347,
-   "end": 40.747,
+   "start": 35.265,
+   "end": 39.673,
    "text": "So it rises up tall shafts, and out of forty-eight brick chimneys!",
    "words": [
     {
      "w": "So",
-     "start": 36.562,
-     "end": 36.704
+     "start": 35.48,
+     "end": 35.623
     },
     {
      "w": "it",
-     "start": 36.776,
-     "end": 36.919
+     "start": 35.694,
+     "end": 35.838
     },
     {
      "w": "rises",
-     "start": 36.99,
-     "end": 37.276
+     "start": 35.909,
+     "end": 36.195
     },
     {
      "w": "up",
-     "start": 37.347,
-     "end": 37.49
+     "start": 36.267,
+     "end": 36.41
     },
     {
      "w": "tall",
-     "start": 37.562,
-     "end": 37.847
+     "start": 36.482,
+     "end": 36.768
     },
     {
      "w": "shafts,",
-     "start": 37.99,
-     "end": 38.562
+     "start": 36.911,
+     "end": 37.484
     },
     {
      "w": "and",
-     "start": 38.704,
-     "end": 38.776
+     "start": 37.627,
+     "end": 37.698
     },
     {
      "w": "out",
-     "start": 38.847,
-     "end": 38.919
+     "start": 37.77,
+     "end": 37.842
     },
     {
      "w": "of",
-     "start": 38.99,
-     "end": 39.133
+     "start": 37.913,
+     "end": 38.056
     },
     {
      "w": "forty-eight",
-     "start": 39.204,
-     "end": 39.704
+     "start": 38.128,
+     "end": 38.629
     },
     {
      "w": "brick",
-     "start": 39.847,
-     "end": 39.99
+     "start": 38.772,
+     "end": 38.915
     },
     {
      "w": "chimneys!",
-     "start": 40.062,
-     "end": 40.847
+     "start": 38.987,
+     "end": 39.774
     }
    ]
   },
   {
    "line": 10,
-   "start": 41.06,
-   "end": 45.413,
+   "start": 39.986,
+   "end": 44.348,
    "text": "Hit follow, 'cause next we're building towers with wind turbines between them.",
    "words": [
     {
      "w": "Hit",
-     "start": 41.131,
-     "end": 41.274
+     "start": 40.058,
+     "end": 40.201
     },
     {
      "w": "follow,",
-     "start": 41.417,
-     "end": 41.988
+     "start": 40.344,
+     "end": 40.917
     },
     {
      "w": "'cause",
-     "start": 42.131,
-     "end": 42.346
+     "start": 41.06,
+     "end": 41.274
     },
     {
      "w": "next",
-     "start": 42.417,
-     "end": 42.703
+     "start": 41.346,
+     "end": 41.632
     },
     {
      "w": "we're",
-     "start": 42.846,
-     "end": 42.988
+     "start": 41.775,
+     "end": 41.919
     },
     {
      "w": "building",
-     "start": 43.167,
-     "end": 43.346
+     "start": 42.097,
+     "end": 42.276
     },
     {
      "w": "towers",
-     "start": 43.417,
-     "end": 43.774
+     "start": 42.348,
+     "end": 42.706
     },
     {
      "w": "with",
-     "start": 43.881,
-     "end": 43.988
+     "start": 42.813,
+     "end": 42.921
     },
     {
      "w": "wind",
-     "start": 44.06,
-     "end": 44.274
+     "start": 42.992,
+     "end": 43.207
     },
     {
      "w": "turbines",
-     "start": 44.31,
-     "end": 44.703
+     "start": 43.243,
+     "end": 43.636
     },
     {
      "w": "between",
-     "start": 44.774,
-     "end": 45.131
+     "start": 43.708,
+     "end": 44.066
     },
     {
      "w": "them.",
-     "start": 45.203,
-     "end": 45.56
+     "start": 44.137,
+     "end": 44.495
     }
    ]
   },
   {
    "line": 11,
-   "start": 45.726,
-   "end": 52.2,
-   "text": "The answer? Turns out, mounds mostly breathe, like a lung! It copied them wrong, and it still works.",
+   "start": 44.662,
+   "end": 50.644,
+   "text": "The answer? Mounds mostly breathe, like a lung! It copied them wrong, and it still works.",
    "words": [
     {
      "w": "The",
-     "start": 45.94,
-     "end": 46.083
+     "start": 44.876,
+     "end": 44.948
     },
     {
      "w": "answer?",
-     "start": 46.154,
-     "end": 46.708
+     "start": 45.091,
+     "end": 45.61
     },
     {
-     "w": "Turns",
-     "start": 46.788,
-     "end": 47.074
-    },
-    {
-     "w": "out,",
-     "start": 47.146,
-     "end": 47.467
-    },
-    {
-     "w": "mounds",
-     "start": 47.574,
-     "end": 47.86
+     "w": "Mounds",
+     "start": 45.834,
+     "end": 46.191
     },
     {
      "w": "mostly",
-     "start": 47.931,
-     "end": 48.217
+     "start": 46.37,
+     "end": 46.549
     },
     {
      "w": "breathe,",
-     "start": 48.36,
-     "end": 48.896
+     "start": 46.621,
+     "end": 47.229
     },
     {
      "w": "like",
-     "start": 49.003,
-     "end": 49.146
+     "start": 47.337,
+     "end": 47.48
     },
     {
      "w": "a",
-     "start": 49.217,
-     "end": 49.288
+     "start": 47.516,
+     "end": 47.551
     },
     {
      "w": "lung!",
-     "start": 49.36,
-     "end": 49.851
+     "start": 47.623,
+     "end": 48.151
     },
     {
      "w": "It",
-     "start": 50.003,
-     "end": 50.146
+     "start": 48.303,
+     "end": 48.446
     },
     {
      "w": "copied",
-     "start": 50.253,
-     "end": 50.503
+     "start": 48.553,
+     "end": 48.804
     },
     {
      "w": "them",
-     "start": 50.574,
-     "end": 50.646
+     "start": 48.875,
+     "end": 48.947
     },
     {
      "w": "wrong,",
-     "start": 50.824,
-     "end": 51.038
+     "start": 49.019,
+     "end": 49.412
     },
     {
      "w": "and",
-     "start": 51.074,
-     "end": 51.146
+     "start": 49.448,
+     "end": 49.52
     },
     {
      "w": "it",
-     "start": 51.217,
-     "end": 51.36
+     "start": 49.591,
+     "end": 49.734
     },
     {
      "w": "still",
-     "start": 51.431,
-     "end": 51.646
+     "start": 49.877,
+     "end": 50.021
     },
     {
      "w": "works.",
-     "start": 51.86,
-     "end": 52.288
+     "start": 50.092,
+     "end": 50.736
     }
    ]
   },
   {
    "line": 12,
-   "start": 52.512,
-   "end": 57.291,
+   "start": 50.957,
+   "end": 55.746,
    "text": "Nineteen ninety-six, Harare, and ten fresh air changes an hour at night.",
    "words": [
     {
      "w": "Nineteen",
-     "start": 52.641,
-     "end": 52.941
+     "start": 51.086,
+     "end": 51.387
     },
     {
      "w": "ninety-six,",
-     "start": 53.012,
-     "end": 53.798
+     "start": 51.458,
+     "end": 52.246
     },
     {
      "w": "Harare,",
-     "start": 53.87,
-     "end": 54.584
+     "start": 52.317,
+     "end": 53.033
     },
     {
      "w": "and",
-     "start": 54.727,
-     "end": 54.87
+     "start": 53.176,
+     "end": 53.319
     },
     {
      "w": "ten",
-     "start": 54.941,
-     "end": 55.155
+     "start": 53.391,
+     "end": 53.606
     },
     {
      "w": "fresh",
-     "start": 55.298,
-     "end": 55.512
+     "start": 53.749,
+     "end": 53.963
     },
     {
      "w": "air",
-     "start": 55.584,
-     "end": 55.727
+     "start": 54.035,
+     "end": 54.178
     },
     {
      "w": "changes",
-     "start": 55.798,
-     "end": 56.084
+     "start": 54.25,
+     "end": 54.536
     },
     {
      "w": "an",
-     "start": 56.155,
-     "end": 56.298
+     "start": 54.608,
+     "end": 54.751
     },
     {
      "w": "hour",
-     "start": 56.441,
-     "end": 56.655
+     "start": 54.894,
+     "end": 55.109
     },
     {
      "w": "at",
-     "start": 56.727,
-     "end": 56.798
+     "start": 55.18,
+     "end": 55.252
     },
     {
      "w": "night.",
-     "start": 56.87,
-     "end": 57.37
+     "start": 55.323,
+     "end": 55.824
     }
    ]
   },
   {
    "line": 13,
-   "start": 57.604,
-   "end": 60.968,
+   "start": 56.059,
+   "end": 59.429,
    "text": "And congrats, you just built the Eastgate Centre yourself.",
    "words": [
     {
      "w": "And",
-     "start": 57.726,
-     "end": 57.746
+     "start": 56.181,
+     "end": 56.202
     },
     {
      "w": "congrats,",
-     "start": 57.818,
-     "end": 58.675
+     "start": 56.273,
+     "end": 57.132
     },
     {
      "w": "you",
-     "start": 58.818,
-     "end": 58.961
+     "start": 57.275,
+     "end": 57.419
     },
     {
      "w": "just",
-     "start": 59.068,
-     "end": 59.175
+     "start": 57.526,
+     "end": 57.633
     },
     {
      "w": "built",
-     "start": 59.282,
-     "end": 59.389
+     "start": 57.741,
+     "end": 57.848
     },
     {
      "w": "the",
-     "start": 59.461,
-     "end": 59.532
+     "start": 57.92,
+     "end": 57.991
     },
     {
      "w": "Eastgate",
-     "start": 59.639,
-     "end": 59.889
+     "start": 58.099,
+     "end": 58.349
     },
     {
      "w": "Centre",
-     "start": 59.961,
-     "end": 60.246
+     "start": 58.421,
+     "end": 58.707
     },
     {
      "w": "yourself.",
-     "start": 60.354,
-     "end": 61.104
+     "start": 58.814,
+     "end": 59.566
     }
    ]
   },
   {
    "line": 14,
-   "start": 61.28,
-   "end": 67.525,
+   "start": 59.742,
+   "end": 66.0,
    "text": "A building cooled by night air... and your office still fights over the AC remote.",
    "words": [
     {
      "w": "A",
-     "start": 61.638,
-     "end": 61.977
+     "start": 60.1,
+     "end": 60.44
     },
     {
      "w": "building",
-     "start": 62.048,
-     "end": 62.548
+     "start": 60.511,
+     "end": 61.012
     },
     {
      "w": "cooled",
-     "start": 62.62,
-     "end": 62.905
+     "start": 61.084,
+     "end": 61.37
     },
     {
      "w": "by",
-     "start": 62.977,
-     "end": 63.12
+     "start": 61.442,
+     "end": 61.585
     },
     {
      "w": "night",
-     "start": 63.191,
-     "end": 63.405
+     "start": 61.657,
+     "end": 61.871
     },
     {
      "w": "air...",
-     "start": 63.477,
-     "end": 64.048
+     "start": 61.943,
+     "end": 62.516
     },
     {
      "w": "and",
-     "start": 64.948,
-     "end": 64.977
+     "start": 63.417,
+     "end": 63.446
     },
     {
      "w": "your",
-     "start": 65.084,
-     "end": 65.191
+     "start": 63.553,
+     "end": 63.661
     },
     {
      "w": "office",
-     "start": 65.262,
-     "end": 65.62
+     "start": 63.732,
+     "end": 64.09
     },
     {
      "w": "still",
-     "start": 65.691,
-     "end": 65.977
+     "start": 64.162,
+     "end": 64.448
     },
     {
      "w": "fights",
-     "start": 66.12,
-     "end": 66.334
+     "start": 64.591,
+     "end": 64.806
     },
     {
      "w": "over",
-     "start": 66.405,
-     "end": 66.548
+     "start": 64.877,
+     "end": 65.021
     },
     {
      "w": "the",
-     "start": 66.584,
-     "end": 66.62
+     "start": 65.056,
+     "end": 65.092
     },
     {
      "w": "AC",
-     "start": 66.691,
-     "end": 67.048
+     "start": 65.164,
+     "end": 65.522
     },
     {
      "w": "remote.",
-     "start": 67.12,
-     "end": 67.763
+     "start": 65.593,
+     "end": 66.237
     }
    ]
   }
