@@ -1,0 +1,938 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.1054,
+ "gap": 0.35,
+ "duration": 66.018,
+ "words": 163,
+ "words_per_sec": 2.47,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.845,
+   "text": "Y'all, this roller coaster makes you wear... safety goggles.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.127,
+     "end": 0.742
+    },
+    {
+     "w": "this",
+     "start": 0.923,
+     "end": 1.14
+    },
+    {
+     "w": "roller",
+     "start": 1.285,
+     "end": 1.429
+    },
+    {
+     "w": "coaster",
+     "start": 1.466,
+     "end": 1.719
+    },
+    {
+     "w": "makes",
+     "start": 1.791,
+     "end": 1.936
+    },
+    {
+     "w": "you",
+     "start": 2.008,
+     "end": 2.081
+    },
+    {
+     "w": "wear...",
+     "start": 2.225,
+     "end": 2.551
+    },
+    {
+     "w": "safety",
+     "start": 2.759,
+     "end": 3.121
+    },
+    {
+     "w": "goggles.",
+     "start": 3.193,
+     "end": 3.917
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.161,
+   "end": 8.448,
+   "text": "It hits two-forty in under five seconds! So what are the goggles for?",
+   "words": [
+    {
+     "w": "It",
+     "start": 4.285,
+     "end": 4.306
+    },
+    {
+     "w": "hits",
+     "start": 4.451,
+     "end": 4.596
+    },
+    {
+     "w": "two-forty",
+     "start": 4.668,
+     "end": 5.211
+    },
+    {
+     "w": "in",
+     "start": 5.247,
+     "end": 5.319
+    },
+    {
+     "w": "under",
+     "start": 5.392,
+     "end": 5.609
+    },
+    {
+     "w": "five",
+     "start": 5.681,
+     "end": 5.898
+    },
+    {
+     "w": "seconds!",
+     "start": 6.043,
+     "end": 6.713
+    },
+    {
+     "w": "So",
+     "start": 6.848,
+     "end": 7.065
+    },
+    {
+     "w": "what",
+     "start": 7.282,
+     "end": 7.355
+    },
+    {
+     "w": "are",
+     "start": 7.391,
+     "end": 7.427
+    },
+    {
+     "w": "the",
+     "start": 7.5,
+     "end": 7.572
+    },
+    {
+     "w": "goggles",
+     "start": 7.608,
+     "end": 8.006
+    },
+    {
+     "w": "for?",
+     "start": 8.079,
+     "end": 8.585
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.764,
+   "end": 13.374,
+   "text": "No hill could do that, so a catapult flings it, like a jet off a ship.",
+   "words": [
+    {
+     "w": "No",
+     "start": 8.981,
+     "end": 9.198
+    },
+    {
+     "w": "hill",
+     "start": 9.271,
+     "end": 9.488
+    },
+    {
+     "w": "could",
+     "start": 9.56,
+     "end": 9.705
+    },
+    {
+     "w": "do",
+     "start": 9.777,
+     "end": 9.85
+    },
+    {
+     "w": "that,",
+     "start": 9.922,
+     "end": 10.32
+    },
+    {
+     "w": "so",
+     "start": 10.501,
+     "end": 10.574
+    },
+    {
+     "w": "a",
+     "start": 10.646,
+     "end": 10.718
+    },
+    {
+     "w": "catapult",
+     "start": 10.827,
+     "end": 11.297
+    },
+    {
+     "w": "flings",
+     "start": 11.442,
+     "end": 11.804
+    },
+    {
+     "w": "it,",
+     "start": 11.876,
+     "end": 12.057
+    },
+    {
+     "w": "like",
+     "start": 12.093,
+     "end": 12.238
+    },
+    {
+     "w": "a",
+     "start": 12.311,
+     "end": 12.383
+    },
+    {
+     "w": "jet",
+     "start": 12.455,
+     "end": 12.6
+    },
+    {
+     "w": "off",
+     "start": 12.672,
+     "end": 12.745
+    },
+    {
+     "w": "a",
+     "start": 12.817,
+     "end": 12.889
+    },
+    {
+     "w": "ship.",
+     "start": 12.962,
+     "end": 13.468
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 13.691,
+   "end": 17.784,
+   "text": "But pulling that hard needs more power than the wires can give!",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.36,
+     "end": 14.505
+    },
+    {
+     "w": "pulling",
+     "start": 14.614,
+     "end": 14.795
+    },
+    {
+     "w": "that",
+     "start": 14.867,
+     "end": 15.012
+    },
+    {
+     "w": "hard",
+     "start": 15.157,
+     "end": 15.518
+    },
+    {
+     "w": "needs",
+     "start": 15.627,
+     "end": 15.736
+    },
+    {
+     "w": "more",
+     "start": 15.88,
+     "end": 16.025
+    },
+    {
+     "w": "power",
+     "start": 16.17,
+     "end": 16.459
+    },
+    {
+     "w": "than",
+     "start": 16.532,
+     "end": 16.604
+    },
+    {
+     "w": "the",
+     "start": 16.676,
+     "end": 16.713
+    },
+    {
+     "w": "wires",
+     "start": 16.749,
+     "end": 17.038
+    },
+    {
+     "w": "can",
+     "start": 17.111,
+     "end": 17.255
+    },
+    {
+     "w": "give!",
+     "start": 17.328,
+     "end": 17.979
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 18.1,
+   "end": 22.894,
+   "text": "So pumps squeeze oil into tanks of gas, like winding a giant spring.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.373,
+     "end": 18.59
+    },
+    {
+     "w": "pumps",
+     "start": 18.734,
+     "end": 19.024
+    },
+    {
+     "w": "squeeze",
+     "start": 19.205,
+     "end": 19.386
+    },
+    {
+     "w": "oil",
+     "start": 19.458,
+     "end": 19.675
+    },
+    {
+     "w": "into",
+     "start": 19.748,
+     "end": 19.965
+    },
+    {
+     "w": "tanks",
+     "start": 20.001,
+     "end": 20.254
+    },
+    {
+     "w": "of",
+     "start": 20.327,
+     "end": 20.399
+    },
+    {
+     "w": "gas,",
+     "start": 20.471,
+     "end": 21.123
+    },
+    {
+     "w": "like",
+     "start": 21.231,
+     "end": 21.34
+    },
+    {
+     "w": "winding",
+     "start": 21.412,
+     "end": 21.702
+    },
+    {
+     "w": "a",
+     "start": 21.774,
+     "end": 21.846
+    },
+    {
+     "w": "giant",
+     "start": 21.919,
+     "end": 22.208
+    },
+    {
+     "w": "spring.",
+     "start": 22.281,
+     "end": 23.004
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 23.211,
+   "end": 26.943,
+   "text": "But the train can't stay hooked on. It has to fly free!",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.337,
+     "end": 23.482
+    },
+    {
+     "w": "the",
+     "start": 23.554,
+     "end": 23.627
+    },
+    {
+     "w": "train",
+     "start": 23.699,
+     "end": 23.916
+    },
+    {
+     "w": "can't",
+     "start": 23.989,
+     "end": 24.206
+    },
+    {
+     "w": "stay",
+     "start": 24.278,
+     "end": 24.423
+    },
+    {
+     "w": "hooked",
+     "start": 24.495,
+     "end": 24.712
+    },
+    {
+     "w": "on.",
+     "start": 24.785,
+     "end": 25.219
+    },
+    {
+     "w": "It",
+     "start": 25.364,
+     "end": 25.508
+    },
+    {
+     "w": "has",
+     "start": 25.581,
+     "end": 25.726
+    },
+    {
+     "w": "to",
+     "start": 25.798,
+     "end": 25.943
+    },
+    {
+     "w": "fly",
+     "start": 26.087,
+     "end": 26.232
+    },
+    {
+     "w": "free!",
+     "start": 26.377,
+     "end": 27.101
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.26,
+   "end": 31.728,
+   "text": "So a little cart underneath pulls it, then lets go at full speed.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.477,
+     "end": 27.622
+    },
+    {
+     "w": "a",
+     "start": 27.694,
+     "end": 27.766
+    },
+    {
+     "w": "little",
+     "start": 27.839,
+     "end": 27.984
+    },
+    {
+     "w": "cart",
+     "start": 28.128,
+     "end": 28.418
+    },
+    {
+     "w": "underneath",
+     "start": 28.563,
+     "end": 28.924
+    },
+    {
+     "w": "pulls",
+     "start": 28.997,
+     "end": 29.359
+    },
+    {
+     "w": "it,",
+     "start": 29.431,
+     "end": 29.793
+    },
+    {
+     "w": "then",
+     "start": 29.901,
+     "end": 30.01
+    },
+    {
+     "w": "lets",
+     "start": 30.119,
+     "end": 30.227
+    },
+    {
+     "w": "go",
+     "start": 30.3,
+     "end": 30.444
+    },
+    {
+     "w": "at",
+     "start": 30.517,
+     "end": 30.734
+    },
+    {
+     "w": "full",
+     "start": 30.806,
+     "end": 31.023
+    },
+    {
+     "w": "speed.",
+     "start": 31.096,
+     "end": 31.819
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 32.045,
+   "end": 36.467,
+   "text": "But stopping from two-forty? Normal brakes would glow red-hot!",
+   "words": [
+    {
+     "w": "But",
+     "start": 32.515,
+     "end": 32.66
+    },
+    {
+     "w": "stopping",
+     "start": 32.732,
+     "end": 33.094
+    },
+    {
+     "w": "from",
+     "start": 33.166,
+     "end": 33.239
+    },
+    {
+     "w": "two-forty?",
+     "start": 33.383,
+     "end": 34.225
+    },
+    {
+     "w": "Normal",
+     "start": 34.36,
+     "end": 34.65
+    },
+    {
+     "w": "brakes",
+     "start": 34.722,
+     "end": 34.939
+    },
+    {
+     "w": "would",
+     "start": 35.012,
+     "end": 35.157
+    },
+    {
+     "w": "glow",
+     "start": 35.229,
+     "end": 35.446
+    },
+    {
+     "w": "red-hot!",
+     "start": 35.591,
+     "end": 36.604
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.784,
+   "end": 40.172,
+   "text": "So magnets slow it down... without even touching.",
+   "words": [
+    {
+     "w": "So",
+     "start": 36.997,
+     "end": 37.214
+    },
+    {
+     "w": "magnets",
+     "start": 37.358,
+     "end": 37.793
+    },
+    {
+     "w": "slow",
+     "start": 37.865,
+     "end": 38.01
+    },
+    {
+     "w": "it",
+     "start": 38.082,
+     "end": 38.227
+    },
+    {
+     "w": "down...",
+     "start": 38.408,
+     "end": 38.842
+    },
+    {
+     "w": "without",
+     "start": 38.915,
+     "end": 39.204
+    },
+    {
+     "w": "even",
+     "start": 39.276,
+     "end": 39.493
+    },
+    {
+     "w": "touching.",
+     "start": 39.566,
+     "end": 40.29
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 40.489,
+   "end": 44.953,
+   "text": "Hit follow, 'cause next we're building a soda can that's stronger when it's full.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 40.561,
+     "end": 40.706
+    },
+    {
+     "w": "follow,",
+     "start": 40.85,
+     "end": 41.393
+    },
+    {
+     "w": "'cause",
+     "start": 41.502,
+     "end": 41.719
+    },
+    {
+     "w": "next",
+     "start": 41.791,
+     "end": 42.081
+    },
+    {
+     "w": "we're",
+     "start": 42.226,
+     "end": 42.37
+    },
+    {
+     "w": "building",
+     "start": 42.515,
+     "end": 42.66
+    },
+    {
+     "w": "a",
+     "start": 42.732,
+     "end": 42.805
+    },
+    {
+     "w": "soda",
+     "start": 42.841,
+     "end": 43.094
+    },
+    {
+     "w": "can",
+     "start": 43.166,
+     "end": 43.383
+    },
+    {
+     "w": "that's",
+     "start": 43.456,
+     "end": 43.673
+    },
+    {
+     "w": "stronger",
+     "start": 43.854,
+     "end": 44.107
+    },
+    {
+     "w": "when",
+     "start": 44.18,
+     "end": 44.252
+    },
+    {
+     "w": "it's",
+     "start": 44.324,
+     "end": 44.541
+    },
+    {
+     "w": "full.",
+     "start": 44.686,
+     "end": 45.12
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 45.27,
+   "end": 51.059,
+   "text": "The answer? Desert sand and bugs! At two-forty, even one fly hurts.",
+   "words": [
+    {
+     "w": "The",
+     "start": 45.487,
+     "end": 45.632
+    },
+    {
+     "w": "answer?",
+     "start": 45.704,
+     "end": 46.256
+    },
+    {
+     "w": "Desert",
+     "start": 46.509,
+     "end": 46.871
+    },
+    {
+     "w": "sand",
+     "start": 46.943,
+     "end": 47.233
+    },
+    {
+     "w": "and",
+     "start": 47.341,
+     "end": 47.45
+    },
+    {
+     "w": "bugs!",
+     "start": 47.703,
+     "end": 48.065
+    },
+    {
+     "w": "At",
+     "start": 48.78,
+     "end": 48.888
+    },
+    {
+     "w": "two-forty,",
+     "start": 48.997,
+     "end": 49.576
+    },
+    {
+     "w": "even",
+     "start": 49.612,
+     "end": 49.901
+    },
+    {
+     "w": "one",
+     "start": 49.974,
+     "end": 50.119
+    },
+    {
+     "w": "fly",
+     "start": 50.263,
+     "end": 50.48
+    },
+    {
+     "w": "hurts.",
+     "start": 50.553,
+     "end": 51.132
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.376,
+   "end": 55.924,
+   "text": "Zero to two-forty in four point nine seconds: a Guinness World Record.",
+   "words": [
+    {
+     "w": "Zero",
+     "start": 51.593,
+     "end": 51.81
+    },
+    {
+     "w": "to",
+     "start": 51.883,
+     "end": 52.027
+    },
+    {
+     "w": "two-forty",
+     "start": 52.1,
+     "end": 52.679
+    },
+    {
+     "w": "in",
+     "start": 52.787,
+     "end": 52.896
+    },
+    {
+     "w": "four",
+     "start": 52.968,
+     "end": 53.041
+    },
+    {
+     "w": "point",
+     "start": 53.185,
+     "end": 53.475
+    },
+    {
+     "w": "nine",
+     "start": 53.583,
+     "end": 53.692
+    },
+    {
+     "w": "seconds:",
+     "start": 53.837,
+     "end": 54.488
+    },
+    {
+     "w": "a",
+     "start": 54.56,
+     "end": 54.633
+    },
+    {
+     "w": "Guinness",
+     "start": 54.705,
+     "end": 54.995
+    },
+    {
+     "w": "World",
+     "start": 55.139,
+     "end": 55.357
+    },
+    {
+     "w": "Record.",
+     "start": 55.429,
+     "end": 56.08
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.24,
+   "end": 59.553,
+   "text": "And congrats, you just built Formula Rossa yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.299,
+     "end": 56.444
+    },
+    {
+     "w": "congrats,",
+     "start": 56.552,
+     "end": 57.312
+    },
+    {
+     "w": "you",
+     "start": 57.457,
+     "end": 57.602
+    },
+    {
+     "w": "just",
+     "start": 57.674,
+     "end": 57.819
+    },
+    {
+     "w": "built",
+     "start": 57.891,
+     "end": 58.036
+    },
+    {
+     "w": "Formula",
+     "start": 58.108,
+     "end": 58.47
+    },
+    {
+     "w": "Rossa",
+     "start": 58.543,
+     "end": 58.905
+    },
+    {
+     "w": "yourself.",
+     "start": 59.013,
+     "end": 59.773
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.87,
+   "end": 66.0,
+   "text": "Zero to two-forty in five seconds... and the drive-thru line hasn't moved.",
+   "words": [
+    {
+     "w": "Zero",
+     "start": 60.241,
+     "end": 60.711
+    },
+    {
+     "w": "to",
+     "start": 60.784,
+     "end": 61.001
+    },
+    {
+     "w": "two-forty",
+     "start": 61.073,
+     "end": 61.58
+    },
+    {
+     "w": "in",
+     "start": 61.652,
+     "end": 61.869
+    },
+    {
+     "w": "five",
+     "start": 62.014,
+     "end": 62.159
+    },
+    {
+     "w": "seconds...",
+     "start": 62.303,
+     "end": 63.172
+    },
+    {
+     "w": "and",
+     "start": 64.011,
+     "end": 64.04
+    },
+    {
+     "w": "the",
+     "start": 64.076,
+     "end": 64.113
+    },
+    {
+     "w": "drive-thru",
+     "start": 64.185,
+     "end": 64.619
+    },
+    {
+     "w": "line",
+     "start": 64.692,
+     "end": 64.909
+    },
+    {
+     "w": "hasn't",
+     "start": 64.981,
+     "end": 65.343
+    },
+    {
+     "w": "moved.",
+     "start": 65.596,
+     "end": 66.139
+    }
+   ]
+  }
+ ]
+}
