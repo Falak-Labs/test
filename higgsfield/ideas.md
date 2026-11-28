@@ -6053,3 +6053,68 @@ Checked, nothing new
   AI's own membership" then (Fourth Feed's came later) and lists Runway's 25% off Kling 4.0 generations through Nov 30.
   [textideo](https://textideo.com/black-friday),
   [DIY AI, Kling](https://diyai.io/ai-tools/video-generation/kling-ai-black-friday/)
+
+## 2026-11-27 18:00 PT (hourly runner, cloud run)
+
+New content
+- 114's working parts, a first pass (new to these notes; the LINEUP line names CSMonitor and Hackaday only). The
+  wall is "less than a tenth of a millimeter thick" (CSMonitor, Apr 14 2015), "progressively cut to less than 0.004
+  in." from "a 5½-in.-diameter, 0.011-in.-thick blank" in "two drawing operations followed by three ironing passes
+  through die rings", at "five can bodies/second" (Machine Design, Howard A. Kuhn, Dec 9 2009). The bottom is pressed
+  "into a concave dome shape, which allows the can to withstand greater pressures than if it were flat" (CSMonitor).
+  The neck: a necker "forms a 5-centimeter neck on the can. This is done gradually in 11 steps" (Penn State MATSE
+  81's transcript of a How It's Made episode, with the "disc 14 centimeters in diameter" and "1800 cans per minute");
+  Hackaday (Apr 17 2015) says Bill Hammack's video counts "the aluminum savings through reducing the top diameter of
+  the can". The lid is a harder metal: alloy 5182, "stronger and harder to form than the can-body alloy" (3004). The
+  liner is "a barrier between the drink and the aluminum so the drink won't end up tasting like metal" (Penn State).
+  Each can must "withstand the vertical loads of 24 filled cans stacked above it during shipping", and recycling
+  "slashes 95% of the energy needed to smelt and refine aluminum from natural ores" (Machine Design). CSMonitor's
+  "The whole process takes only a seventh of a second" does not say which step: check the video before a line uses it.
+  [CSMonitor, Apr 14 2015](https://csmonitor.com/Science/Science-Notebook/2015/0414/The-surprising-science-behind-the-aluminum-soda-can),
+  [Machine Design, Dec 9 2009](https://machinedesign.com/materials/metals/article/21832055/aluminum-cans-a-lesson-in-product-development),
+  [Penn State MATSE 81](https://courses.ems.psu.edu/matse81/book/export/html/2216),
+  [Hackaday, Apr 17 2015](https://hackaday.com/2015/04/17/you-betta-recognize-the-aluminum-beverage-can)
+- 114's pressure line needs care (LINEUP: "about three times a car tyre's pressure"). CSMonitor gives "up to 90
+  pounds per square inch (about six times regular atmospheric pressure)", but Machine Design says "They normally
+  exert 45 psi, 90 psi during pasteurization, and 110 psi in the trunk of a car in summer". So "three times a tyre"
+  is the peak, not the usual can, and no source here gives the tyre figure: script "up to 90 psi" or "up to six times
+  the air around you".
+- 114's tab, for a history or tease line (Smithsonian): Ermal "Ernie" Fraze of Dayton, Ohio made the pull-off
+  "zip-top" after a 1959 picnic ("It was detached from cans and thrown away") and sold it to Alcoa, which used it on
+  Iron City Beer cans; the tabs "littered the streets and sidewalks and beaches" and brought "cuts and ingestion"; the
+  "push-in-fold-back tab we use today" was patented in 1976 by "Daniel F. Cudzik, an engineer with Reynolds Metal
+  Co." Real people and brands: names in the script at most, never shown, and no brand on any can.
+  [Smithsonian](https://www.smithsonianmag.com/innovation/how-popping-open-a-can-became-the-sound-of-summer-180982527/)
+- Leads for 114's first-aluminium-can line (search titles only, not read): Waste360's "MillerCoors Celebrates 60th
+  Anniversary of the Recyclable Aluminum Can", ASME's "The Comeback of the Aluminum Can, Part 1", Packaging Digest's
+  "The 50th Anniversary of the Aluminum Beer Can": read one for the year and the maker before a line names them; the
+  Smithsonian page says only "Cans were historically made of steel".
+  [Waste360](https://www.waste360.com/recycling/millercoors-celebrates-60th-anniversary-recyclable-aluminum-can),
+  [ASME](https://www.asme.org/Topics-Resources/Content/Comeback-Aluminum-Can-Part-1),
+  [Packaging Digest](https://www.packagingdigest.com/supply-chain-logistics/the-50th-anniversary-of-the-aluminum-beer-can)
+- Two 1956 films as 114 footage leads, neither cleared. "Aluminum on the March" (1956, Association Films, made by
+  the Handy (Jam) Organization, colour, sound, about 28 min) sits in the Internet Archive's Prelinger Archives
+  collection ("Uploaded by A/V Geeks on April 8, 2012"): Jamaican bauxite mines, an aerial tramway, alumina,
+  reduction plants, ingots, billets, extrusions, then packaging with brand products (those shots stay out). Its page
+  showed no licence line, and the Prelinger help page says the films are reusable "according to the Creative Commons
+  licenses, if any, that appear with on each film's detail page" (copies "available to commercial users through
+  Getty Images"), so read the page's Usage line in a browser before any use. "Miracle of the Can" (ca. 1956, American
+  Can Company; NC State's NCEATS page credits "Prelinger Archive, Library of Congress, Internet Archive" and links
+  archive.org/details/Miracleo1956): steel cans, so a history line only; its licence is unread.
+  [Internet Archive, Aluminum on the March](https://archive.org/details/0583_Aluminum_on_the_March),
+  [Internet Archive, Prelinger Archive help](https://help.archive.org/help/prelinger-archive/),
+  [NCEATS, Miracle of the Can](https://nceats.omeka.chass.ncsu.edu/items/show/395)
+
+Checked, nothing new
+- Footage Farm (new name here, not free): "the great majority of our material is provided rights-free", but only
+  "Low-resolution screeners" with burnt-in timecodes are free; masters are quoted per request, "payment upfront".
+  [Footage Farm](https://footagefarm.com/how_we_operate)
+- Higgsfield: the Cyber Monday search gave the same pages (zplatform, dio.me, both mydealz deals, Creator Hub, the
+  Notion page): Nov 28 stands.
+- Trends: this hour's searches (late-November TikTok sounds, this week's Reels and TikTok features, November Shorts
+  features, viral "how it works" formats) gave pages already here (SocialPilot, Virlo, Gelato, tokchart,
+  stackinfluence, Made on YouTube of Sep 23, TheWrap's Oct 28 column on Instagram's 90-minute "Features"); PR Daily's
+  "this week" page is from Apr 1 2025; akurat.co's Indonesian sound list and que.es's Oct 30 Spanish list not read.
+  Could not be read: Scientific American's "The Aluminum Beverage Can" (robots.txt) and Cyberlink's public domain
+  list.
+  [PR Daily, Apr 1 2025](https://www.prdaily.com/new-social-media-features-and-updates-to-know-this-week-64/)
