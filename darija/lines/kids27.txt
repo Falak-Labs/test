@@ -8,5 +8,5 @@ A | p05k | Everything is fine.
 A | w5 | Ambulance!
 L | v1 | The ambulance is coming now!
 L | Lw | Ambulance!
-A | Asl | Am... byuh... lunce.
-L | Lsl | Am... byuh... lunce.
+A | Asl | Am... byoo... lunss.
+L | Lsl | Am... byoo... lunss.

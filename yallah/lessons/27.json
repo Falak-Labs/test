@@ -18,12 +18,13 @@
    "byuh",
    "lunce"
   ],
-  "slow": "Am... byuh... lunce.",
+  "slow": "Am... byoo... lunss.",
   "mean": "الإسعاف",
   "ar": {
    "ma": "آمبيولَنس",
    "pa": "آمبيولَنس"
-  }
+  },
+  "teacher_says": "Ambulance!"
  },
  "en": [
   [
@@ -104,7 +105,8 @@
    "بيو",
    "لنس"
   ],
-  "mean": "الإسعاف"
+  "mean": "الإسعاف",
+  "teacher_slow": "Am... byoo... lunss."
  },
  "pa": {
   "hook": [
@@ -159,6 +161,7 @@
    "بيو",
    "لنس"
   ],
-  "mean": "الإسعاف"
+  "mean": "الإسعاف",
+  "teacher_slow": "Am... byoo... lunss."
  }
 }

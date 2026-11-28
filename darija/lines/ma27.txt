@@ -6,7 +6,7 @@ T | p02t | واش نتا لاباس؟
 T | p03t | ما تتحركش.
 T | p04t | بقا هاني.
 T | p05t | كلشي مزيان.
-T | tw | Ambulance.
-T | w6 | Good job! Ambulance!
+T | tw | Ambulance!.
+T | w6 | Good job! Ambulance!!
 T | v2 | الإسعاف جاي دابا!
-T | Tsl | Am... byuh... lunce.
+T | Tsl | Am... byoo... lunss.
