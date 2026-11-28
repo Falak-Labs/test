@@ -7259,3 +7259,70 @@ Checked, nothing new
 - Record openings: Gordie Howe and the Danjiang Bridge again; titles only, not read: the Hampton Roads Bridge-Tunnel's
   2025 milestones, the Hangzhou Bay railway bridge's seven main towers, the new Harbor Bridge at Corpus Christi (Arup,
   TxDOT), the Pattullo Bridge replacement.
+
+## 2026-11-28 09:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build for both channels, a winter one for December to February: an ice road, the one road where the
+  seatbelt comes off (new to LINEUP and these notes; a twist on build 92, the seatbelt). On Estonia's ice roads over
+  the frozen sea to its islands, drivers "keep their safety belts unfastened" (Visit Estonia); it is "illegal to wear
+  your seatbelt", so you can get out fast (Estonian World). Speed: 10-25 km/h or 40-70 km/h (ERR, Estonian World),
+  never 25-40 km/h (Dangerous Roads; Visit Estonia's own sentence is garbled: give the numbers only after a check).
+  Why (Estonian World): a moving car presses the ice into a shallow bowl and sets off a wave in the ice and the water
+  under it; slow, the wave fades; fast, you outrun it; in between "you travel with the wave and amplify it". The
+  other rules: at least 250 m between cars (Visit Estonia, ERR), "You should never stop your car on an ice road",
+  daylight hours only, 2.5 tonnes gross at most (Visit Estonia); ice at least 20 cm (Visit Estonia) or 24 cm for a
+  moving car (Estonian World): check. The longest, Rohuküla to Hiiumaa, runs 24-27 km "depending on conditions" and
+  the seven roads together "more than 80 km" (Visit Estonia); a 17 km road between Saaremaa and Hiiumaa opened on Feb
+  8 2026, where "Engineers drilled repeatedly to gauge ice thickness and structure" and temporary bridges span big
+  cracks (ERR, Feb 9 2026). B5, the real thing at scale: Canada's Tibbitt to Contwoyto Winter Road, rebuilt every
+  winter, 400-600 km (367 km on a 2020 map), 85-87 % over frozen lakes, open 8-10 weeks from late January (2026: Feb
+  14 to Apr 10), a record 10,922 loads north in 2007, mostly diesel for the mines; loaded trucks at most 25 km/h (10
+  km/h in places), empty ones 60 km/h; 70 cm of ice for light vehicles, 107 cm for a super B tanker of up to 42 t
+  (Wikipedia). Chain (breaks marked "ours" are ours): A1, a small car alone on a lane ploughed across a white frozen
+  sea to the horizon, close on the driver's seatbelt hanging unbuckled; A2, an island in winter, its ferry frozen fast
+  in the sea ice; A3, crews seen from behind drill the ice and read the thickness, a plough clears a long straight
+  lane; A4, a car at middling speed, a swell rising in the ice ahead of it and cracks running out; A5, one car
+  crawling and one racing, the ice calm under both; A6 (ours), two cars close together, their two bowls meeting; B1,
+  cars far apart, none stopping; B2 (ours), a heavy van at the shore, the ice groaning; B3, small cars only, the van
+  turned back; B4, the tease of whatever LINEUP build follows it; B5, a line of tankers crawling across a frozen
+  Canadian lake under a pale northern sky; B6 (ours), funny slow motion, a man steps onto an icy driveway, arms
+  windmilling, slides all the way down to the mailbox, the cat watching. No faces: drivers only from behind. Free
+  pictures: none found (ERR, Estonian World and Dangerous Roads show credits only, no licence).
+  [Visit Estonia](https://visitestonia.com/en/why-estonia/guide-to-driving-on-ice-roads-in-estonia),
+  [ERR, Feb 9 2026](https://news.err.ee/1609935932/behind-the-scenes-of-estonia-s-newly-opened-saaremaa-hiiumaa-ice-road),
+  [Estonian World](https://estonianworld.com/life/driving-estonias-ice-roads/),
+  [Dangerous Roads](https://www.dangerousroads.org/around-the-world/vehicles/12749-stay-safe-on-ice-roads-6-rules-every-driver-should-know.html),
+  [Wikipedia, Tibbitt to Contwoyto Winter Road](https://en.wikipedia.org/wiki/Tibbitt_to_Contwoyto_Winter_Road)
+- A free picture route that needs no browser (new to these notes): Cloudflare Workers AI gives every account "10,000
+  Neurons per day at no charge" on Workers Free and Paid alike; past that, on the free plan, "further operations will
+  fail with an error" (pricing page, upd. Nov 18 2026). Its image prices: FLUX.1 [schnell] "4.80 neurons per 512x512
+  tile" plus "9.60 neurons per step", so a 1024x1024 picture at 4 steps is about 58 Neurons, some 170 a day (our sum;
+  the page gives no default step count: check); FLUX.2 [klein] 4B "26.05 neurons per output 512x512 tile", about 95 a
+  day (ours); FLUX.2 [dev] "37.50 neurons per output 512x512 tile, per step", so only a few a day; Leonardo's Lucid
+  Origin (636) and Phoenix (530 per tile) three or four a day. Cloudflare's FLUX.2 [dev] post (Nov 25 2025) calls it
+  "the licensed version" and adds editing from reference images (read in summary only: check). Licences: FLUX.2
+  [klein] 4B has "Open weights available for commercial use under the Apache 2.0 license" (its Hugging Face card;
+  out about Jan 15 2026, VentureBeat of Jan 16 says "released yesterday"), so it is the one to use; FLUX.2 [dev] and
+  [klein] 9B are under BFL's non-commercial licence ("Free for non-commercial use", BFL's model overview), and no page
+  read says what Cloudflare's "licensed version" allows, so leave them out; Cloudflare's pages give no terms for the
+  pictures themselves; FLUX.1 [schnell]'s licence was on none of the pages read: check. Why it matters here: these
+  cloud runs have no Chrome, so no Higgsfield pictures; a workflow holding a Cloudflare token as a GitHub secret could
+  make the line 12-13 stills with FLUX.2 [klein] 4B from the cloud at no cost, and the scary project's cf_img.py
+  already makes its free pictures through Workers AI. [Cloudflare, Workers AI pricing](https://developers.cloudflare.com/workers-ai/platform/pricing/),
+  [Cloudflare blog, Nov 25 2025](https://blog.cloudflare.com/flux-2-workers-ai),
+  [Hugging Face, FLUX.2 klein 4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-4B),
+  [VentureBeat, Jan 16 2026](https://venturebeat.com/technology/black-forest-labs-launches-open-source-flux-2-klein-to-generate-ai-images-in),
+  [BFL, FLUX models overview](https://help.bfl.ai/articles/9364115800-flux-models-overview)
+
+Checked, nothing new
+- Higgsfield past Nov 28: the "33 days", "14 days", "4K unlimited 11 days", "new unlimited" and plan-change pages and
+  trak.in again: Nov 28 stands, pictures only from tomorrow.
+- Black Friday video offers: diyai's and zplatform's deal lists, bloggingx's Kling page (a title only), aimojo's
+  Higgsfield page and InVideo's offers page (both here): no free unlimited video.
+- Trends: Virlo's November page, SocialPilot and Gelato (here), Kapwing's and NewEngen's 2025 pages; a science-video
+  search gave older features (Physics Today, PsyPost, Scientific American); Epidemic Sound's TikTok page is still its
+  Nov 13 edition: no new data this hour.
+- Platform news: PR Daily's search hit is its Dec 17 2025 edition, and Stack Influence's November page (dated Nov 17,
+  "refreshed every Thursday") still ends at the week of Nov 12 (here): no feature news after Nov 17.
+- Record openings: the Huajiang Grand Canyon Bridge, the Tianshan Shengli Tunnel and Gordie Howe, all here.
