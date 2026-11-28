@@ -1,4 +1,4 @@
-# Last posting run 2026-11-28T03:45:35+00:00
+# Last posting run 2026-11-28T04:18:45+00:00
 
 - en: Buffer channels: tiktok (congratsengineer), youtube (Congrats Engineer), instagram (congratsengineer)
 - ar: Buffer channels: tiktok (kef.tenbeni), youtube (Kef Tenbeni), instagram (kef.tenbeni)
@@ -139,11 +139,25 @@
 - ep106-riyadhmetro ar.youtube: on hold in posts/ep106-riyadhmetro.yml
 - ep107-chairlift en.youtube: on hold in posts/ep107-chairlift.yml
 - ep107-chairlift ar.youtube: on hold in posts/ep107-chairlift.yml
-- ep107-chairlift ar.tiktok: scheduled (Sun 29 Nov 11:30 UTC) id 6b0a4e61eada83daa6c12b78
 - ep108-resurfacer en.youtube: on hold in posts/ep108-resurfacer.yml
-- ep108-resurfacer en.instagram: scheduled (Sun 29 Nov 19:00 UTC) id 6b0a4e622a2e4f66caf83dfc
-- ep108-resurfacer en.tiktok: scheduled (Sun 29 Nov 19:00 UTC) id 6b0a4e6241454797eae9cb4c
 - ep108-resurfacer ar.youtube: on hold in posts/ep108-resurfacer.yml
-- ep108-resurfacer ar.tiktok: scheduled (Sun 29 Nov 14:30 UTC) id 6b0a4e63eab081a3f51e7bea
-- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=898, "24h"; r=544; t=56992, "30d"; r=121; t=1046841; ratelimit-policy="15m"; q=15
-- ar: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=897, "24h"; r=542; t=56996, "30d"; r=42; t=1052970; ratelimit-policy="15m"; q=150
+- ep109-eastgate en.youtube: on hold in posts/ep109-eastgate.yml
+- ep109-eastgate en.instagram: scheduled (Sun 29 Nov 21:30 UTC) id 6b0a562870e80ae8f1cf8ff8
+- ep109-eastgate en.tiktok: scheduled (Sun 29 Nov 21:30 UTC) id 6b0a5629eada83daa6c42b44
+- ep109-eastgate ar.youtube: on hold in posts/ep109-eastgate.yml
+- ep109-eastgate ar.instagram: scheduled (Sun 29 Nov 17:00 UTC) id 6b0a562aeab081a3f5219a2f
+- ep109-eastgate ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep110-bahrainwtc en.youtube: on hold in posts/ep110-bahrainwtc.yml
+- ep110-bahrainwtc en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep110-bahrainwtc en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep110-bahrainwtc ar.youtube: on hold in posts/ep110-bahrainwtc.yml
+- ep110-bahrainwtc ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep110-bahrainwtc ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep111-pinlock en.youtube: on hold in posts/ep111-pinlock.yml
+- ep111-pinlock en.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep111-pinlock en.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep111-pinlock ar.youtube: on hold in posts/ep111-pinlock.yml
+- ep111-pinlock ar.instagram: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- ep111-pinlock ar.tiktok: waits - 10 posts already queued on this channel (Buffer's limit); a later run adds it
+- en: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=898, "24h"; r=540; t=55002, "30d"; r=117; t=1044851; ratelimit-policy="15m"; q=15
+- ar: 3 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=147; t=897, "24h"; r=539; t=55005, "30d"; r=39; t=1050979; ratelimit-policy="15m"; q=150
