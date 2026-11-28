@@ -19,9 +19,9 @@ SKIN = ("#C68E62", "#A8754E", "#E8B48A", "#8D5A3B")
 WINDC, GOODC, BADC = "#7DD3FC", "#4ADE80", "#F87171"
 
 BASE_Y, TOP_Y = 1150, 450                              # the towers in the front view
-GX0, GX1 = 468, 612                                     # the gap between the inner edges
+GX0, GX1 = 452, 628                                     # the gap between the inner edges
 BRIDGES = (620, 800, 980)                              # bridge heights, top to bottom
-ROTOR_R = 64
+ROTOR_R = 80
 
 
 def arrow(c, x0, y0, x1, y1, col, a=1.0, w=10, head=22):
@@ -47,6 +47,7 @@ def rotor(c, x, y, r, ang, a=1.0, col="#E2E8F0", hub="#475569", tint=None):
         p.lineTo(x + math.cos(th + 0.25) * 10, y + math.sin(th + 0.25) * 10)
         p.close()
         c.drawPath(p, P(tint or col, a))
+        c.drawPath(p, P("#334155", 0.8 * a, stroke=2))
     c.drawCircle(x, y, 11, P(hub, a))
     c.drawCircle(x, y, 5, P("#CBD5E1", a))
 
@@ -96,7 +97,8 @@ def tower(c, side, t, taper=1.0, sway=0.0, lit=0.0, a=1.0, dusk=0.0):
             o, i = tower_edges(y, taper, side)
             x = rng.uniform(min(o, i) + 10, max(o, i) - 10) + sway * ((BASE_Y - y) / (BASE_Y - TOP_Y)) ** 2
             c.drawRect(R(x, y, 14, 6), P("#FFD38A", 0.75 * lit * a))
-    c.drawRect(R(0, TOP_Y - 80, W, 900), lin_paint(GX0 - 300, 0, GX1 + 300, 0, ["#FFFFFF00", "#FFFFFF18", "#FFFFFF00"]))
+    sx = GX0 - 120 if side < 0 else GX1 + 40                       # a soft vertical sheen on the glass
+    c.drawRect(R(sx, TOP_Y - 80, 80, 900), P("#FFFFFF", 0.06 * a))
     c.restore()
     return p
 
@@ -382,7 +384,7 @@ class BahrainWTC(EpisodeV2):
             c.translate(540, 760)
             c.scale(z, z)
             c.translate(-fx, -fy)
-            towers_scene(c, t, dawn=1.0)
+            towers_scene(c, t, dawn=0.45)
             c.restore()
             c.drawRect(R(0, 1250, W, H - 1250), lin_paint(0, 1250, 0, 1490, ["#0E2A3A", "#071018"]))
         elif ph == "closer":

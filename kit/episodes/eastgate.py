@@ -302,7 +302,8 @@ def section(c, t, tod=0.0, wall_heat=0.0, slab_heat=0.0, sun=1.0, night=0.0, fan
                     u = (t * 0.7 + b * 0.5 + d * 0.13 + j * 0.21) % 1.0
                     v2.puff(c, dx + 40 + b * 50, ry + rh - 60 - 40 * u, 10 + 10 * u, HOT, 0.45 * people * (1 - u))
         if gather > 0:                                 # warm air gathering under the ceiling
-            c.drawRect(R(SX0 + 90, ry, SX1 - SX0 - 170, 24 * gather), lin_paint(0, ry, 0, ry + 24, [HOT, "#F9731600"], a=0.7 * gather))
+            for q in range(4):
+                c.drawRect(R(SX0 + 90, ry + q * 7, SX1 - SX0 - 170, 7 * gather), P(HOT, 0.55 * gather * (1 - q / 4)))
         if small_fans > 0:                             # floor grilles letting cooled air up into the room
             for g in range(5):
                 gx = SX0 + 150 + g * 140
