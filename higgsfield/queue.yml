@@ -1864,3 +1864,83 @@ jobs:
       towers start to turn together for the first time, the sea glowing orange, wide view. Shot 6 (25-30 s): funny
       slow motion, at home a man seen from behind opens his front door while the balcony door is open, a gust rushes
       down the narrow hallway, his papers whirl into the air, the bedroom door slams and the cat's fur blows flat.
+
+  - id: harbourbridge-A
+    build: 112
+    kit: harbourbridge
+    # Added Nov 27 19:05 PT by the hourly runner (cloud) with no job left todo: the evening run of Nov 27 took 109-111
+    # in the v2 look and set eastgate-A/B and bahrainwtc-A/B to skipped (commit abbcbad), so 112 is the next LINEUP
+    # idea with no pair; the midday run of Nov 28 takes 112-114 next and free Seedance video ends Nov 28, so both clips
+    # are needed by about 12:00 PT tomorrow. Facts (ideas.md Nov 26 17:00, Nov 27 15:00 and 19:00): A1: the two
+    # half-arches were built out from each shore and "The arches were stabilised by 128 steel cables anchored in
+    # tunnels excavated into the bedrock on each embankment" (National Museum of Australia); a June 1930 photo caption
+    # reads "Six Panels to close, three on each side, gap only 360 feet" (Technology in Australia 1788-1988, austehc
+    # tia/426). "The arch spans 503m", its top 134 m above the sea (MHNSW); "Road deck is 49 metres above the water"
+    # (NSW Government). A2 (a harbour city cut in two, crowded ferries and a queue at the vehicle ferry) is our picture
+    # of the problem: check before a line says the ferry was the only way across. A3: "two 580 tonne electrically
+    # operated creeper cranes", one "on each side of the harbour" (MHNSW guide), that "would "creep" along the arches
+    # as they were constructed" (Wikipedia); "The cranes hoisted men and materials into place" (ICE). Technology in
+    # Australia gives "a creeper crane with a lifting capacity of 122 tonnes": check which figure a line uses. A4 (ours,
+    # fixed by A5): half an arch cannot stand by itself. A5: the 128 cables in tunnels in the rock (NMA). A6 (fixed by
+    # B1): the two halves have to meet in the middle. The hour differs ("10pm" MHNSW, "just before midnight" NSW
+    # Government): say "one night in August 1930" and give no reason for the night. No "Sydney" in the prompt, so no
+    # Opera House turns up in 1930. No faces: workers only from behind or far away; no logos, flags or writing anywhere.
+    status: todo
+    file: buildit-harbourbridge-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): 1930, two giant unfinished steel half-arches reach out over a wide blue harbour from its two
+      shores toward each other, a gap of open sky between their tips, each half held back by thick steel cables
+      running down into the rock behind it, a big crane perched on each tip, slow aerial push-in at sunrise. Shot 2
+      (5-10 s): the 1920s, a city of sandstone buildings on one side of a wide deep harbour and green suburbs on the
+      other with no bridge between them, crowded ferries crossing, a long queue of old cars and horse carts waiting at
+      a ferry wharf, a tall sailing ship gliding past, wide aerial. Shot 3 (10-15 s): a giant electric crane crawls
+      slowly along the curved top of a half-built steel arch high above the water, lifting a huge steel beam up from a
+      barge far below and swinging it into place at the tip, workers seen from behind guiding it, wide view. Shot 4
+      (15-20 s): the tip of an unfinished steel half-arch hangs far out over the harbour, the steel creaks and leans
+      toward the water, workers seen from behind grip the beams high above the tiny boats below, a dropped bolt falls
+      and falls, close-up. Shot 5 (20-25 s): cutaway behind the shore, dozens of thick steel cables loop from the back
+      of a half-arch down into tunnels dug deep into the rock, pulling tight and holding the whole half-arch back over
+      the harbour, wide view. Shot 6 (25-30 s): at night high above the dark harbour, the giant steel tips of the two
+      half-arches hang face to face with a narrow gap of night sky between them, work lamps glowing on the steel, the
+      gap not quite closing, close-up.
+  - id: harbourbridge-B
+    build: 112
+    kit: harbourbridge
+    # Facts: B1: "the critical operation of closing the arch was achieved by lowering out on the wire rope anchorages
+    # to connect at bottom chord level", "following which the required load was jacked into the top chord to make the
+    # arch two-pinned", then "The temporary wire rope anchorages were then removed and the creeper cranes returned down
+    # the arch" (Technology in Australia, austehc tia/426); "Workers riveted both top and bottom sections of the arch
+    # together, and the arch became self-supporting, allowing the support cables to be removed" (Wikipedia). No page
+    # read gives how far the cables were let out a day or any trouble with wind or heat at the closing: script none.
+    # B2 (fixed by B3): the bridge "takes thirty years to paint", "Total painted surface of the steel structure is
+    # 485000m²" (NSW Government, Dec 5 2024), and painters "contended with asbestos and lead from the old paint" (SBS,
+    # Jul 17 2013). B3: "two robots working on the iconic bridge: Sandy and Rosie" (Transport for NSW), "capable of
+    # blasting away rust and paint, taking it back to bare metal", "The 25kg robots" (SBS), "Inside the southern spans"
+    # (UTS, Dec 7 2020); no year (the pages disagree). B4 teases build 113, Formula Rossa (LINEUP: 0 to 240 km/h in
+    # under five seconds on a hydraulic launch, riders in safety goggles); no park name, logo or roof in the picture.
+    # B5: "Load testing began in January 1932 with 96 locomotives lined up end to end across all four of the bridge's
+    # rail tracks" (NMA); opened 19 March 1932. Line 12: "503 M" (the span), "6 MILLION RIVETS" ("Approximately six
+    # million hand driven rivets", BridgeClimb) or "18 CM" (the arch "can rise or fall 18 centimetres due to heating
+    # or cooling", NSW Government; it stands on "four steel bearings consisting of large hinge pins", NSW heritage
+    # listing: two facts, no page read gives the pins as the cause). Line 13 still: the City of Sydney Archives' "No
+    # Copyright" photos (A-01174903, the arch meeting, 1930; A-00027568, the 1932 opening parade; ideas.md Nov 26
+    # 17:00, Nov 27 15:00 and 17:00), or an AI picture. B6: the fence that is never finished (ours, after the thirty
+    # years of paint). No faces: workers only from behind or far away; no logos, flags or writing anywhere.
+    status: todo
+    file: buildit-harbourbridge-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): at night the thick steel cables behind each shore are let out slowly and the two giant
+      half-arches lower toward each other until their bottom edges meet in the middle high above the harbour, work
+      lamps glowing, then the cables go slack and the arch stands on its own, wide view. Shot 2 (5-10 s): close-up of
+      grey painted steel on a giant bridge by the sea, salt spray drifting over it, orange rust spots bubbling up
+      through flaking old paint, a painter seen from behind in a harness high on the arch scraping at it while more
+      rust appears beside him. Shot 3 (10-15 s): inside the dim steel box of a giant bridge span, two small robot arms
+      on wheeled bases blast grit at the rusty steel, a cloud of dust, the bare metal shining through underneath,
+      close-up. Shot 4 (15-20 s): a red roller coaster train launches from a standstill along a straight track on a
+      flat sandy island by the sea at enormous speed, riders seen from behind in safety goggles pressed back into
+      their seats, heat haze under a blazing sun, wide view. Shot 5 (20-25 s): 1932, ninety-six black steam
+      locomotives stand end to end across the four rail tracks of a giant new steel arch bridge over a harbour, tall
+      granite towers at each end, smoke drifting, crowds seen from behind on the shore watching, the arch standing
+      firm, wide aerial. Shot 6 (25-30 s): funny slow motion, a man seen from behind paints the last plank of a very
+      long white garden fence, steps back proudly, then turns and sees the first plank at the far end already
+      peeling, the brush drops from his hand into the grass and the dog tilts its head.

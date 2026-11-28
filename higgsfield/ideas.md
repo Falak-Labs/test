@@ -6118,3 +6118,48 @@ Checked, nothing new
   Could not be read: Scientific American's "The Aluminum Beverage Can" (robots.txt) and Cyberlink's public domain
   list.
   [PR Daily, Apr 1 2025](https://www.prdaily.com/new-social-media-features-and-updates-to-know-this-week-64/)
+
+## 2026-11-27 19:00 PT (hourly runner, cloud run)
+
+New content
+- Build 112, how the two halves were closed (new to these notes: the Nov 27 15:00 entry has the hour, the creeper
+  cranes and the riveting, not the lowering). The University of Melbourne's online "Technology in Australia
+  1788-1988" (pages 425-426): "the critical operation of closing the arch was achieved by lowering out on the wire
+  rope anchorages to connect at bottom chord level", "following which the required load was jacked into the top
+  chord to make the arch two-pinned", and "The temporary wire rope anchorages were then removed and the creeper
+  cranes returned down the arch"; a photo caption there reads "Six Panels to close, three on each side, gap only 360
+  feet -Photo taken 20.6.1930". The hour again: "On 19 August 1930 at 10pm" (MHNSW) and "at 10 pm on 19 August 1930"
+  (the myplace education page, which adds "during the next nine months, steel decking was hung from the arch"). A
+  figure to settle before a line uses it: the same Melbourne page gives "a creeper crane with a lifting capacity of
+  122 tonnes" where MHNSW's guide has "two 580 tonne electrically operated creeper cranes" (perhaps weight against
+  lift: no page read says). Still on no page read: how far the cables were let out each day, any trouble with wind or
+  heat at the closing, and what the hinge pins do as the arch rises and falls, so the new queue pair
+  (harbourbridge-A/B, added this hour; B1 is the lowering) keeps the 18 cm and the pins as two facts. The myplace
+  photo (Henri Mallard, 1930, "Reproduced courtesy of National Library of Australia", "© Curriculum Corporation and
+  National Library of Australia, 2009") is not free: leave it out.
+  [Technology in Australia 1788-1988, pp. 425-426](https://www.austehc.unimelb.edu.au/tia/426.html),
+  [Museums of History NSW](https://mhnsw.au/stories/general/joining-the-sydney-harbour-bridge),
+  [myplace, Closing the arch, 1930](https://myplace.edu.au/assets/TLF_resources/R3352/description.html)
+- Length and shares, from a vendor blog with mostly unsourced figures (Powerdrill, Jun 10 2026, new to these notes):
+  "Videos over 60 seconds get 43% more reach" (credited to a "Buffer analysis of 1.1M videos"), comments per post
+  down 24% on TikTok and 16% on Instagram while shares per TikTok post are up 45% a year (no source given), "the
+  sustainable path is fewer, better posts", and "up to 180 seconds for tutorials and edutainment". Weak evidence, but
+  it points the same way as our 65-70 s builds and the 4-minute show: keep each build past the one-minute mark and
+  give people a reason to send it on (the tag joke). Read Buffer's own study before a post or plan quotes the 43%.
+  [Powerdrill, Jun 10 2026](https://powerdrill.ai/blog/why-your-tiktok-and-reels-views-are-down)
+- Free AI video with commercial rights, a lead only (PC Tech Magazine, Sep 10 2026, new to these notes): of its ten
+  free tools only MakeShot is said to give "Full commercial rights: Free-tier output can be used commercially", with
+  watermark-free exports and no credit amount given; EaseMate AI gives "30 signup credits plus daily check-in
+  credits" and "Watermark-Free HD Exports on all tiers" but no commercial-use line; Kling's free exports are
+  watermarked; Renderforest's "unlimited drafting" is a watermarked draft model. Nothing on the list is free and
+  unlimited for finished clips. Read MakeShot's own terms before any use (Seedance stops being free here after Nov 28).
+  [PC Tech Magazine, Sep 10 2026](https://pctechmag.com/2026/09/top-10-free-ai-video-generators-best-tools-you-can-try-without-paying/)
+
+Checked, nothing new
+- Engineers Australia's heritage wiki cannot be read through its mywikis mirror either: "Closing the Arch" on
+  eha.mywikis.wiki and "Fabricating and Transporting the Bearings" on the main site both sent a challenge page.
+- Trends: this hour's late-November searches gave pages already here (Virlo's November page and its week of Nov 16,
+  startups.co.uk's and mean.ceo's November editions, Kapwing, Dazed's explainer piece); free-tool searches gave lists
+  already here (Hackceleration, Atlas Cloud, Scrimba, Krea, tech.co, imagine.art, Dreamina's own). Not read:
+  mootion's "Viral TikTok Video Trends (2026 Directory)" and seedance.tv's "free unlimited 2026" post (a site using
+  the Seedance name; not checked as official).
