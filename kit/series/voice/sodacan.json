@@ -3,9 +3,9 @@
  "model": "eleven_v4",
  "tempo": 1.12,
  "gap": 0.35,
- "duration": 66.154,
+ "duration": 66.371,
  "words": 172,
- "words_per_sec": 2.6,
+ "words_per_sec": 2.59,
  "lines": [
   {
    "line": 1,
@@ -476,506 +476,506 @@
   {
    "line": 8,
    "start": 30.23,
-   "end": 34.326,
-   "text": "But old pull tabs came off... and littered every beach!",
+   "end": 34.542,
+   "text": "But old tabs came right off... and littered every beach!",
    "words": [
     {
      "w": "But",
-     "start": 30.793,
-     "end": 30.936
+     "start": 30.945,
+     "end": 31.087
     },
     {
      "w": "old",
-     "start": 31.007,
-     "end": 31.15
-    },
-    {
-     "w": "pull",
-     "start": 31.221,
-     "end": 31.436
+     "start": 31.159,
+     "end": 31.302
     },
     {
      "w": "tabs",
-     "start": 31.507,
-     "end": 31.793
+     "start": 31.373,
+     "end": 31.73
     },
     {
      "w": "came",
-     "start": 31.864,
-     "end": 32.079
+     "start": 31.873,
+     "end": 32.016
+    },
+    {
+     "w": "right",
+     "start": 32.159,
+     "end": 32.373
     },
     {
      "w": "off...",
-     "start": 32.257,
-     "end": 32.516
+     "start": 32.445,
+     "end": 32.784
     },
     {
      "w": "and",
-     "start": 32.587,
-     "end": 32.659
+     "start": 32.855,
+     "end": 32.927
     },
     {
      "w": "littered",
-     "start": 32.802,
-     "end": 33.23
+     "start": 33.07,
+     "end": 33.498
     },
     {
      "w": "every",
-     "start": 33.302,
-     "end": 33.659
+     "start": 33.57,
+     "end": 33.855
     },
     {
      "w": "beach!",
-     "start": 33.73,
-     "end": 34.445
+     "start": 33.998,
+     "end": 34.57
     }
    ]
   },
   {
    "line": 9,
-   "start": 34.638,
-   "end": 38.899,
+   "start": 34.854,
+   "end": 39.115,
    "text": "So today's tab stays on: a little lever that pushes the lid in.",
    "words": [
     {
      "w": "So",
-     "start": 34.853,
-     "end": 34.996
+     "start": 35.069,
+     "end": 35.212
     },
     {
      "w": "today's",
-     "start": 35.067,
-     "end": 35.496
+     "start": 35.283,
+     "end": 35.712
     },
     {
      "w": "tab",
-     "start": 35.567,
-     "end": 35.853
+     "start": 35.783,
+     "end": 36.069
     },
     {
      "w": "stays",
-     "start": 35.924,
-     "end": 36.21
+     "start": 36.14,
+     "end": 36.426
     },
     {
      "w": "on:",
-     "start": 36.281,
-     "end": 36.826
+     "start": 36.497,
+     "end": 37.042
     },
     {
      "w": "a",
-     "start": 36.862,
-     "end": 36.897
+     "start": 37.078,
+     "end": 37.113
     },
     {
      "w": "little",
-     "start": 36.969,
-     "end": 37.183
+     "start": 37.185,
+     "end": 37.399
     },
     {
      "w": "lever",
-     "start": 37.254,
-     "end": 37.612
+     "start": 37.471,
+     "end": 37.828
     },
     {
      "w": "that",
-     "start": 37.719,
-     "end": 37.826
+     "start": 37.935,
+     "end": 38.042
     },
     {
      "w": "pushes",
-     "start": 37.933,
-     "end": 38.183
+     "start": 38.149,
+     "end": 38.399
     },
     {
      "w": "the",
-     "start": 38.219,
-     "end": 38.254
+     "start": 38.435,
+     "end": 38.471
     },
     {
      "w": "lid",
-     "start": 38.326,
-     "end": 38.54
+     "start": 38.542,
+     "end": 38.756
     },
     {
      "w": "in.",
-     "start": 38.647,
-     "end": 39.112
+     "start": 38.863,
+     "end": 39.328
     }
    ]
   },
   {
    "line": 10,
-   "start": 39.212,
-   "end": 43.54,
+   "start": 39.428,
+   "end": 43.756,
    "text": "Hit follow, 'cause next we're building a crane that makes itself taller.",
    "words": [
     {
      "w": "Hit",
-     "start": 39.354,
-     "end": 39.497
+     "start": 39.571,
+     "end": 39.713
     },
     {
      "w": "follow,",
-     "start": 39.64,
-     "end": 40.212
+     "start": 39.856,
+     "end": 40.428
     },
     {
      "w": "'cause",
-     "start": 40.354,
-     "end": 40.569
+     "start": 40.571,
+     "end": 40.785
     },
     {
      "w": "next",
-     "start": 40.712,
-     "end": 40.997
+     "start": 40.928,
+     "end": 41.213
     },
     {
      "w": "we're",
-     "start": 41.14,
-     "end": 41.283
+     "start": 41.356,
+     "end": 41.499
     },
     {
      "w": "building",
-     "start": 41.354,
-     "end": 41.569
+     "start": 41.571,
+     "end": 41.785
     },
     {
      "w": "a",
-     "start": 41.64,
-     "end": 41.712
+     "start": 41.856,
+     "end": 41.928
     },
     {
      "w": "crane",
-     "start": 41.783,
-     "end": 42.069
+     "start": 41.999,
+     "end": 42.285
     },
     {
      "w": "that",
-     "start": 42.14,
-     "end": 42.212
+     "start": 42.356,
+     "end": 42.428
     },
     {
      "w": "makes",
-     "start": 42.283,
-     "end": 42.426
+     "start": 42.499,
+     "end": 42.642
     },
     {
      "w": "itself",
-     "start": 42.497,
-     "end": 42.926
+     "start": 42.713,
+     "end": 43.142
     },
     {
      "w": "taller.",
-     "start": 42.997,
-     "end": 43.712
+     "start": 43.213,
+     "end": 43.928
     }
    ]
   },
   {
    "line": 11,
-   "start": 43.853,
-   "end": 49.095,
+   "start": 44.069,
+   "end": 49.311,
    "text": "The answer? Full! The fizz pushes the wall tight, so it barely dents.",
    "words": [
     {
      "w": "The",
-     "start": 44.067,
-     "end": 44.138
+     "start": 44.283,
+     "end": 44.354
     },
     {
      "w": "answer?",
-     "start": 44.21,
-     "end": 44.808
+     "start": 44.426,
+     "end": 45.024
     },
     {
      "w": "Full!",
-     "start": 44.96,
-     "end": 45.46
+     "start": 45.176,
+     "end": 45.676
     },
     {
      "w": "The",
-     "start": 46.103,
-     "end": 46.246
+     "start": 46.319,
+     "end": 46.462
     },
     {
      "w": "fizz",
-     "start": 46.281,
-     "end": 46.531
+     "start": 46.497,
+     "end": 46.747
     },
     {
      "w": "pushes",
-     "start": 46.603,
-     "end": 46.888
+     "start": 46.819,
+     "end": 47.104
     },
     {
      "w": "the",
-     "start": 46.96,
-     "end": 47.031
+     "start": 47.176,
+     "end": 47.247
     },
     {
      "w": "wall",
-     "start": 47.138,
-     "end": 47.246
+     "start": 47.354,
+     "end": 47.462
     },
     {
      "w": "tight,",
-     "start": 47.317,
-     "end": 47.746
+     "start": 47.533,
+     "end": 47.962
     },
     {
      "w": "so",
-     "start": 47.817,
-     "end": 47.888
+     "start": 48.033,
+     "end": 48.104
     },
     {
      "w": "it",
-     "start": 47.996,
-     "end": 48.103
+     "start": 48.212,
+     "end": 48.319
     },
     {
      "w": "barely",
-     "start": 48.174,
-     "end": 48.531
+     "start": 48.39,
+     "end": 48.747
     },
     {
      "w": "dents.",
-     "start": 48.567,
-     "end": 49.174
+     "start": 48.783,
+     "end": 49.39
     }
    ]
   },
   {
    "line": 12,
-   "start": 49.407,
-   "end": 54.778,
+   "start": 49.623,
+   "end": 54.994,
    "text": "A tenth of a millimeter, up to ninety PSI, and over a hundred billion a year.",
    "words": [
     {
      "w": "A",
-     "start": 49.529,
-     "end": 49.55
+     "start": 49.746,
+     "end": 49.766
     },
     {
      "w": "tenth",
-     "start": 49.621,
-     "end": 49.836
+     "start": 49.837,
+     "end": 50.052
     },
     {
      "w": "of",
-     "start": 49.907,
-     "end": 49.979
+     "start": 50.123,
+     "end": 50.195
     },
     {
      "w": "a",
-     "start": 50.014,
-     "end": 50.05
+     "start": 50.23,
+     "end": 50.266
     },
     {
      "w": "millimeter,",
-     "start": 50.121,
-     "end": 50.764
+     "start": 50.337,
+     "end": 50.98
     },
     {
      "w": "up",
-     "start": 50.907,
-     "end": 51.05
+     "start": 51.123,
+     "end": 51.266
     },
     {
      "w": "to",
-     "start": 51.157,
-     "end": 51.264
+     "start": 51.373,
+     "end": 51.48
     },
     {
      "w": "ninety",
-     "start": 51.336,
-     "end": 51.621
+     "start": 51.552,
+     "end": 51.837
     },
     {
      "w": "PSI,",
-     "start": 51.764,
-     "end": 52.621
+     "start": 51.98,
+     "end": 52.837
     },
     {
      "w": "and",
-     "start": 52.693,
-     "end": 52.764
+     "start": 52.909,
+     "end": 52.98
     },
     {
      "w": "over",
-     "start": 52.836,
-     "end": 53.05
+     "start": 53.052,
+     "end": 53.266
     },
     {
      "w": "a",
-     "start": 53.264,
-     "end": 53.288
+     "start": 53.48,
+     "end": 53.504
     },
     {
      "w": "hundred",
-     "start": 53.312,
-     "end": 53.621
+     "start": 53.528,
+     "end": 53.837
     },
     {
      "w": "billion",
-     "start": 53.836,
-     "end": 54.193
+     "start": 54.052,
+     "end": 54.409
     },
     {
      "w": "a",
-     "start": 54.264,
-     "end": 54.336
+     "start": 54.48,
+     "end": 54.552
     },
     {
      "w": "year.",
-     "start": 54.407,
-     "end": 54.907
+     "start": 54.623,
+     "end": 55.123
     }
    ]
   },
   {
    "line": 13,
-   "start": 55.09,
-   "end": 58.76,
+   "start": 55.306,
+   "end": 58.976,
    "text": "And congrats, you just built an aluminum soda can yourself.",
    "words": [
     {
      "w": "And",
-     "start": 55.212,
-     "end": 55.233
+     "start": 55.429,
+     "end": 55.449
     },
     {
      "w": "congrats,",
-     "start": 55.304,
-     "end": 56.179
+     "start": 55.521,
+     "end": 56.396
     },
     {
      "w": "you",
-     "start": 56.322,
-     "end": 56.465
+     "start": 56.538,
+     "end": 56.681
     },
     {
      "w": "just",
-     "start": 56.537,
-     "end": 56.679
+     "start": 56.753,
+     "end": 56.896
     },
     {
      "w": "built",
-     "start": 56.787,
-     "end": 56.894
+     "start": 57.003,
+     "end": 57.11
     },
     {
      "w": "an",
-     "start": 56.929,
-     "end": 56.965
+     "start": 57.146,
+     "end": 57.181
     },
     {
      "w": "aluminum",
-     "start": 57.037,
-     "end": 57.465
+     "start": 57.253,
+     "end": 57.681
     },
     {
      "w": "soda",
-     "start": 57.537,
-     "end": 57.751
+     "start": 57.753,
+     "end": 57.967
     },
     {
      "w": "can",
-     "start": 57.822,
-     "end": 58.037
+     "start": 58.038,
+     "end": 58.253
     },
     {
      "w": "yourself.",
-     "start": 58.108,
-     "end": 58.831
+     "start": 58.324,
+     "end": 59.047
     }
    ]
   },
   {
    "line": 14,
-   "start": 59.072,
-   "end": 66.146,
+   "start": 59.288,
+   "end": 66.362,
    "text": "It survives trucks, ships and hot cars... then your buddy shakes it before handing it over.",
    "words": [
     {
      "w": "It",
-     "start": 59.644,
-     "end": 60.001
+     "start": 59.86,
+     "end": 60.217
     },
     {
      "w": "survives",
-     "start": 60.072,
-     "end": 60.572
+     "start": 60.288,
+     "end": 60.788
     },
     {
      "w": "trucks,",
-     "start": 60.644,
-     "end": 61.358
+     "start": 60.86,
+     "end": 61.574
     },
     {
      "w": "ships",
-     "start": 61.429,
-     "end": 61.715
+     "start": 61.646,
+     "end": 61.931
     },
     {
      "w": "and",
-     "start": 61.929,
-     "end": 62.144
+     "start": 62.146,
+     "end": 62.36
     },
     {
      "w": "hot",
-     "start": 62.215,
-     "end": 62.358
+     "start": 62.431,
+     "end": 62.574
     },
     {
      "w": "cars...",
-     "start": 62.429,
-     "end": 63.126
+     "start": 62.646,
+     "end": 63.342
     },
     {
      "w": "then",
-     "start": 63.84,
-     "end": 63.983
+     "start": 64.056,
+     "end": 64.199
     },
     {
      "w": "your",
-     "start": 64.09,
-     "end": 64.197
+     "start": 64.306,
+     "end": 64.413
     },
     {
      "w": "buddy",
-     "start": 64.233,
-     "end": 64.483
+     "start": 64.449,
+     "end": 64.699
     },
     {
      "w": "shakes",
-     "start": 64.554,
-     "end": 64.84
+     "start": 64.771,
+     "end": 65.056
     },
     {
      "w": "it",
-     "start": 64.912,
-     "end": 64.983
+     "start": 65.128,
+     "end": 65.199
     },
     {
      "w": "before",
-     "start": 65.126,
-     "end": 65.269
+     "start": 65.342,
+     "end": 65.485
     },
     {
      "w": "handing",
-     "start": 65.34,
-     "end": 65.554
+     "start": 65.556,
+     "end": 65.771
     },
     {
      "w": "it",
-     "start": 65.626,
-     "end": 65.697
+     "start": 65.842,
+     "end": 65.913
     },
     {
      "w": "over.",
-     "start": 65.769,
-     "end": 66.269
+     "start": 65.985,
+     "end": 66.485
     }
    ]
   }
