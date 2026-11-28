@@ -6710,3 +6710,47 @@ Checked, nothing new
 - YouTube features: only the Made on YouTube 2026 pages (Sep 23), already here; nothing dated this week.
 - Trends: the December search gave 2026 forecast lists (Adobe Express, Sendible, Metricool, ContentStudio, Kineclip,
   ShortSync, Klap, ShortGenius, Superside, Hedra) and startups.co.uk's November page (here); no new data this hour.
+
+## 2026-11-28 02:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build, Abu Simbel, the temple that was cut up and carried up a hill (new to LINEUP and these notes as a
+  build of its own; the Aswan build's line 11 only names it). Egypt, so an Arab-world story for Kef Tenbeni, and a
+  famous place with a real rescue. The break: the High Dam's Lake Nasser "would reach full capacity in 1966"
+  (National Geographic). The fix: "More than a thousand blocks, each weighing some 30 tons" (UNESCO; Atlas Copco
+  "between 20 and 30 tons"; JSTOR Daily's "Over 7,000 other blocks" clashes, so script "more than a thousand
+  blocks"). The stone fights back: it is porous sandstone, so "explosives could not be used to any greater degree"
+  and the walls were cut with handsaws "due to power saws causing too much waste" (Atlas Copco); "workers using wire
+  saws started slicing them up" in November 1963 (UNESCO); "copious volumes" of epoxy went into the sandstone "to
+  keep it from crumbling" (JSTOR Daily). The rising water: "A temporary dam was built around the site to keep it
+  dry" (NatGeo). The new home: "a specially built artificial cliff, 64 m above the old site and 180 m inland"
+  (UNESCO; Atlas Copco "about 200 meters further inland and 65 meters higher": script "about 65 metres higher"),
+  the halls rebuilt "under an artificial hill supported by concrete domes" (JSTOR Daily), "About 330,000 cubic
+  meters of stone" placed over the cupolas, and "The permitted deviation was just plus or minus 5 mm" (Atlas Copco).
+  B5: "inaugurated in its new location on 22 September 1968" (UNESCO), set so the sun still lights the inner halls
+  "during certain hours of the spring and autumn" (Atlas Copco): "Twice a year, on Oct. 22 and Feb. 22", a beam that
+  "traveled about 60 meters (200 feet) into the temple" and "lasts about 20 minutes", and "Engineers took care to
+  preserve the temple's alignment with the sun" (AP, Oct 22 2026); no page says the move shifted the days, so no line
+  says so. Peg: post it near Feb 22 2027. Money and people: Atlas Copco's "SEK 200 million" is this
+  project, UNESCO's US$80 million the whole Nubia campaign, and JSTOR's 25,000 workers are the dam's: no worker count.
+  Chain: the lake rising (A2) → cut it into blocks (A3) → no blasting in soft sandstone (A4) → handsaws, wire saws and
+  epoxy (A5) → the lake keeps rising while they cut (A6) → a temporary dam (B1) → a temple carved into a cliff, and
+  the new site has no cliff (B2) → an artificial hill on concrete domes, every block back within 5 mm (B3). A1: a
+  giant carved stone face as big as a truck hanging from a crane hook above the desert river. B6: funny slow motion,
+  a flat-pack wardrobe finished with one screw left over. The statues only as the landmark: no made-up pharaoh, no
+  gods or rituals in the lines (LINEUP's rule), 1960s workers from behind or hands only.
+  [UNESCO, Abu Simbel](https://whc.unesco.org/en/story-abu-simbel),
+  [National Geographic, Jul 17 2019](https://www.nationalgeographic.com/history/world-history-magazine/article/egyptian-temples-excavation-abu-simbel),
+  [Atlas Copco Egypt, Abu Simbel](https://www.atlascopco.com/en-eg/history-in-egypt/landmark-projects-abu-simbel),
+  [JSTOR Daily, Feb 21 2025](https://daily.jstor.org/an-epic-face-lift-moving-abu-simbel-out-of-the-nile),
+  [AP via WCAX, Oct 22 2026](https://www.wcax.com/2026/10/22/twice-year-golden-sunbeam-illuminates-3000-year-old-egyptian-temple/)
+
+Checked, nothing new
+- Higgsfield past Nov 28: only pages already here (the 33-day, 14-day and 11.11 posts, the plan-change pages, mydealz,
+  dio.me): Nov 28 stands, so today is the last free video day.
+- Openings this month ("world's tallest / longest ... opens"): only the Huajiang Grand Canyon Bridge (here).
+- YouTube features: only Made on YouTube 2026 (Sep 23), here. Trend pages (Virlo, SocialPilot, Gelato, SocialBee,
+  vidIQ, tokchart): all here, and Virlo's newest week (Nov 23) is already in these notes.
+- Bing Video Creator (here since the Nov 24 19:05 entry, "not usable"): its terms page, "Last Updated: March, 2026", covers Image
+  Creator and Video Creator and says "The Online Services are for entertainment purposes", with every video still
+  watermarked: still no B-roll source. [Bing Image Creator and Video Creator terms](https://www.bing.com/new/termsofuseimagecreator)
