@@ -6822,3 +6822,66 @@ Checked, nothing new
   gave only vendor roundups and InVideo's offers page (here), no launch this week.
 - Recap week: still no confirmed Spotify Wrapped date (only the Official Charts and Techloy pages, here) and no
   TikTok year-end report yet (the search gave statistics pages only).
+
+## 2026-11-28 04:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build for both channels, Japan's Seikan Tunnel, the railway under the sea between Honshu and Hokkaido
+  (new to LINEUP and these notes). 53.85 km long (Wikipedia, web-japan, Guinness; Britannica 53.8), 23.3 km of it
+  under the seabed, the track "240 metres (790 ft) below sea level" and "100 metres (330 ft) below the seabed"
+  (Wikipedia); Guinness lists it as the "Lowest railway line" ("a depth of 240m 786ft below sea level"). Why: in a
+  1954 typhoon five ferries sank in the Tsugaru Strait, "killing 1,430 passengers" (Wikipedia, PBS; one was the Toya
+  Maru), and a bridge was ruled out for the "unpredictable weather conditions" (PBS). How: three bores, a pilot, a
+  service and a main tunnel, joined by drifts "at 600-1,000-metre intervals"; volcanic rock on the Honshu side,
+  sedimentary on the Hokkaido side, crushed by "Igneous intrusions and faults"; the boring machine was abandoned
+  "after less than 2 kilometres" for "difficulty in accessing the face for advanced grouting" (all Wikipedia; PBS
+  says they "couldn't use a tunnel boring machine": script "the machine gave up"). The flood: in 1976 water "gushed
+  into the tunnel at a whopping rate of 80 tons per minute" and "It took more than two months to control" (PBS
+  only; a 1977 TRID abstract has 14 cubic metres a minute at 16.89 km, maybe another inflow). Dates: excavation from
+  1964 (Wikipedia, Britannica; web-japan "September 1971", the main works), pilot breakthrough 27 January 1983, main
+  bore-through 10 March 1985, opened 13 March 1988; "34 workers were killed during construction" (Wikipedia,
+  Britannica: a fact for the record, not a dramatized shot). Today: Hokkaido Shinkansen since March 2016 on a
+  three-rail dual-gauge track (1,435 and 1,067 mm) shared with freight; "speeds are limited to 160 km/h" inside, and
+  on holidays, when "freight traffic is suspended", it runs at 260 km/h (Wikipedia, citing a 2024 Asahi report on the first 260 km/h
+  run in Golden Week). Its two undersea stations, Tappi-Kaitei and Yoshioka-Kaitei, "closed with the construction of
+  the Hokkaido Shinkansen" (Wikipedia). Say "the deepest railway on Earth", not "the longest undersea tunnel": the
+  Channel Tunnel's undersea part is longer (37.9 km) and Gotthard is longer overall. Chain: ferries sink in
+  typhoons (A2) → dig three tunnels under the strait, the small pilot first (A3) → crushed rock lets the sea in, 80
+  tons a minute in 1976 (A4) → grout pumped into the rock ahead of the face (A5) → the boring machine blocks the
+  grouting and is abandoned (A6) → drill and blast, metre by metre, until the 1983 breakthrough (B1) → bullet trains
+  and narrow-gauge freight must share one track (B2) → a third rail, 160 km/h, 260 on holidays (B3). A1: a bullet
+  train racing through a lit tunnel, the camera rising through rock and dark seawater to a storm on the surface.
+  B6: funny slow motion, someone seen from behind bailing a flooding sandcastle moat with a tiny bucket, wave after
+  wave (ours). Workers only from behind, no disaster victims shown, no railway logos. Free pictures: the search found
+  a Commons file "Seikan Tunnel 3d cross section 1a.svg" and a "Category:Seikan Tunnel", both under a wrong host
+  (www.Wikipedia.org) that could not be read from here: check their licences on Commons before use.
+  [Wikipedia, Seikan Tunnel](https://en.wikipedia.org/wiki/Seikan_Tunnel),
+  [PBS Building Big](https://www.pbs.org/wgbh/buildingbig/wonder/structure/seikan.html),
+  [Guinness, Lowest railway line](https://www.guinnessworldrecords.com/world-records/62985-lowest-railway-line),
+  [TRID, 1977](https://trid.trb.org/view/59179),
+  [Britannica](https://www.britannica.com/topic/Seikan-Tunnel),
+  [web-japan](https://web-japan.org/atlas/architecture/arc02.html)
+- OpenRouter lists a free Wan 2.6 video model, but nobody serves it (new to these notes): "alibaba/wan-2.6:free",
+  "Released Mar 28, 2026", Price "Free", "1080p video at 24fps", "clips up to 15 seconds", "16:9, 9:16, and 1:1",
+  "synchronized sound effects and music" and "multi-shot storytelling", yet both its pages say "No provider has
+  served this model since November 21, 2026". No limits, provider, data policy or commercial terms are stated, and
+  it is an API model (an OpenRouter account and key, which no chat may type). Not a source now; worth one look after
+  Nov 28 in case a provider returns, then check Wan's licence first.
+  [OpenRouter, wan-2.6:free](https://openrouter.ai/alibaba/wan-2.6:free),
+  [OpenRouter, activity](https://openrouter.ai/alibaba/wan-2.6-20260327/activity)
+
+Checked, nothing new
+- Higgsfield past Nov 28: this hour's Black Friday search gave only pages already here (dio.me's 64% off, the
+  33-day, 14-day, 11.11, 7-day bonus and plan-change posts, both mydealz deals incl. the expired "3 Tage unbegrenzt
+  per MCP", pepper.pl, aimojo): Nov 28 stands, so today is the last free video day.
+- Later: "The top TikTok trends to try this week" is still "Updated on November 27, 2026" (Text zoom, the "I feel
+  like I haven't done much this year" recap, Dear Santa, all here); its other page, "Current TikTok Trends to Try
+  in 2026", is from "April 8, 2026" and evergreen (real-process videos, "Search-led answer content",
+  comment-driven remixes, proof-before-purchase). [Later](https://later.com/blog/current-tiktok-trends/)
+- Google Vids: a Crypto Briefing headline says "10 free AI video generations per month after April 2026 update",
+  against these notes' three 15-second clips a month from newer (November) sources; not read, so the notes'
+  figure stands until someone checks in the app. [Crypto Briefing](https://cryptobriefing.com/google-vids-free-1080p-ai-video/)
+- Trend, sound and free-tool searches: Virlo (its Nov 16 week; Nov 23 is here), SocialPilot, Gelato, tokchart,
+  vidIQ, SocialBee, Hootsuite, que.es, Dreamina, Hackceleration, Krea, Scrimba, InVideo's offers
+  and Higgsfield's own "free unlimited" post: all here already or undated roundups. Recap week: still no confirmed
+  Spotify Wrapped date (Official Charts and Techloy, here).
