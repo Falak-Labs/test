@@ -15,17 +15,10 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 166,
+ "requested_characters": 52,
  "recorded_this_run": [
-  "h1",
-  "p01t",
-  "p02t",
-  "p03t",
-  "p04t",
-  "p05t",
   "tw",
   "w6",
-  "v2",
   "Tsl"
  ],
  "notes": [],
@@ -88,8 +81,8 @@
    "id": "tw",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "Ambulance.",
-   "characters": 10,
+   "text": "Ambulance!.",
+   "characters": 11,
    "model": "eleven_v4",
    "seconds": 1.12
   },
@@ -97,10 +90,10 @@
    "id": "w6",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "Good job! Ambulance!",
-   "characters": 20,
+   "text": "Good job! Ambulance!!",
+   "characters": 21,
    "model": "eleven_v4",
-   "seconds": 2.32
+   "seconds": 2.48
   },
   {
    "id": "v2",
@@ -115,10 +108,10 @@
    "id": "Tsl",
    "speaker": "T",
    "voice": "OfGMGmhShO8iL9jCkXy8",
-   "text": "Am... byuh... lunce.",
+   "text": "Am... byoo... lunss.",
    "characters": 20,
    "model": "eleven_v4",
-   "seconds": 2.48
+   "seconds": 2.56
   }
  ]
 }

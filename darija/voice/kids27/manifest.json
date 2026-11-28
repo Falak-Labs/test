@@ -15,16 +15,8 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 157,
+ "requested_characters": 40,
  "recorded_this_run": [
-  "p01k",
-  "p02k",
-  "p03k",
-  "p04k",
-  "p05k",
-  "w5",
-  "v1",
-  "Lw",
   "Asl",
   "Lsl"
  ],
@@ -106,19 +98,19 @@
    "id": "Asl",
    "speaker": "A",
    "voice": "tJHJUEHzOkMoPmJJ5jo2",
-   "text": "Am... byuh... lunce.",
+   "text": "Am... byoo... lunss.",
    "characters": 20,
    "model": "eleven_v4",
-   "seconds": 2.64
+   "seconds": 2.88
   },
   {
    "id": "Lsl",
    "speaker": "L",
    "voice": "Nggzl2QAXh3OijoXD116",
-   "text": "Am... byuh... lunce.",
+   "text": "Am... byoo... lunss.",
    "characters": 20,
    "model": "eleven_v4",
-   "seconds": 3.04
+   "seconds": 3.52
   }
  ]
 }
