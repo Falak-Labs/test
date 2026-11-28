@@ -7326,3 +7326,71 @@ Checked, nothing new
 - Platform news: PR Daily's search hit is its Dec 17 2025 edition, and Stack Influence's November page (dated Nov 17,
   "refreshed every Thursday") still ends at the week of Nov 12 (here): no feature news after Nov 17.
 - Record openings: the Huajiang Grand Canyon Bridge, the Tianshan Shengli Tunnel and Gordie Howe, all here.
+
+## 2026-11-28 10:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build for both channels, an everyday one: a musical road, the road that plays a song, in tune only at
+  the speed limit (new to LINEUP and these notes). How it works: rows of grooves cut across the lane, each one a
+  bump under the tyre, so the note is "the velocity of the car divided by the distance between the grooves" (KQED;
+  Hearing Review's worked case: middle C, 262 Hz, at 100 km/h wants grooves about 10.6 cm apart); closer grooves
+  play higher, wider ones lower (99% Invisible), and "the depth defined the sound level" (Hearing Review). Our sums:
+  middle C at 40 km/h wants grooves about 4.2 cm apart, at 55 mph about 9.4 cm. Drive faster and the tune speeds up
+  and climbs, slower and it drags (Japan Experience), so each road is tuned for one speed: Japan's are mostly
+  "lengths of 250 to 320 meters that work at a speed of 40 kmh" (Porsche's Christophorus, 2018), "heard optimally at
+  exactly the speed limit" (Hearing Review). History: Denmark's Asphaltophone, Gylling, October 1995, raised bumps,
+  by Steen Krarup Jensen and Jakob Freud-Magnus (Amusing Planet; the year also in Hearing Review and 99% Invisible);
+  Japan's melody roads from 2007, the first on Highway 272 between Kushiro and Shibetsu in Hokkaido, from the civil
+  engineer Shizuo Shinoda and the Hokkaido Industrial Research Institute (Porsche; Japan Experience and 99%
+  Invisible tell it as a bulldozer that scraped the road by accident: check), "thirty-three" of them (Porsche) or
+  "around thirty" (Japan Experience), made against nodding off and speeding, though "No statistics have been
+  compiled" on crashes (Porsche); South Korea's "Singing Road" near Anyang to keep drivers alert, "Mary Had a Little
+  Lamb" (Amusing Planet, no year); Route 66 near Tijeras, New Mexico, "America the Beautiful" at 45 mph (99%
+  Invisible, KSL; 2014 per Porsche). The breaks, all real: Lancaster, California, a quarter mile of Rossini's
+  William Tell finale made for a car advert in September 2008 on Avenue K, "paved over 18 days later due to noise
+  complaints" and rebuilt in October 2008 on Avenue G "two miles away from any residential areas", for 55 mph (Atlas
+  Obscura; KQED: the move cost the city $35,000), and it plays off-key: "construction workers did not follow the
+  designer's instructions" (Atlas Obscura), "a bit of miscommunication between the road builders and the engineers"
+  (KSL), or the groove width was left out of the sum (a physicist's guess in KQED); in Kita-Karuizawa, Gunma,
+  residents "complained of losing sleep in July of 2012" because the tune "carried for five hundred meters", and
+  "One year later a layer of asphalt" ended it (Porsche); snow muffles Hokkaido's roads; a road costs "up to two
+  hundred thousand euros" (Porsche). Chain (breaks marked "ours" are ours): A1, low on a sunlit desert highway, a
+  car's tyre rolls over rows of fine grooves cut across the lane, dust jumping off them in rhythm; A2, a long
+  straight empty road at night, a car seen from behind drifting toward the edge; A3, a road crew seen from behind
+  cutting rows of grooves with a grinding machine, a tape measure along them; A4, a car racing over the grooves,
+  the dust leaping faster and faster; A5, a small car at a steady speed through a 300 m stretch of grooves on a
+  green mountain road; A6, a car on a desert road, a dog in the back seat tilting its head at the sour tune; B1, a
+  machine cutting some grooves deeper than others; B2, houses at night beside a grooved road, a car passes and
+  lights flick on in the windows; B3, a paving machine lays fresh black asphalt over the grooves by the houses; B4,
+  the tease of whatever LINEUP build follows it; B5, a small car on a winding mountain road with snow-capped Mount
+  Fuji far away (Japan Experience lists a "Fuji no Yama" road on the Ashinoko Skyline, Shizuoka: check it still
+  plays); B6 (ours), funny slow motion, a boy seen from behind runs a stick along a long picket fence, the posts
+  flicking, a cat on the fence leaping off. No faces: drivers only from behind; no makes or badges on the cars. Free
+  pictures: none checked (Wikipedia could not be read from here).
+  [KQED, Feb 9 2024](https://kqed.org/news/11974827/this-stretch-of-the-mojave-desert-plays-the-lone-ranger-theme),
+  [Hearing Review, 2014](https://hearingreview.com/practice-building/practice-management/continuing-education/driving-rhythms-asphaltophone-musical-road),
+  [KSL, Oct 16 2017](https://www.ksl.com/article/46180963/have-you-seen-this-why-californias-musical-road-sounds-so-bad),
+  [Atlas Obscura](https://atlasobscura.com/places/civic-musical-road),
+  [Amusing Planet, Nov 2015](https://www.amusingplanet.com/2015/11/musical-roads-play-melodies-when-cars.html?m=0),
+  [Porsche Christophorus 386, 2018](https://newsroom.porsche.com/christophorus/en/2018/386/porsche-melody-roads-japan-speed-limit-christophorus-386-15159.html),
+  [99% Invisible, Jun 17 2016](https://99percentinvisible.org/article/groovy-roads-musical-highways-can-fun-functional/),
+  [Japan Experience, Oct 15 2018](https://www.japan-experience.com/plan-your-trip/to-know/travelling-in-japan-a-comprehensive-guide/the-melody-roads)
+- Not a source (new to these notes): Ideogram's free plan. Its plans page says new accounts "start with zero free
+  credits" and only accounts made before Nov 26 2026 keep 30 credits a week; its personal-plans page and FAQ still
+  give 30 a week to anyone who signs in with Google, Apple or Microsoft (the pages disagree); 30 credits is about 10
+  pictures a week at 3 credits each for Ideogram 4.5 Low (our sum from its cost table of Nov 15 2026); "On the free
+  plan, everything you generate is public"; commercial use "depends on Ideogram's Terms of Service" (FAQ; the terms
+  not read). Our Higgsfield pictures stay unlimited to Jan 13, so skip it.
+  [Ideogram, available plans](https://docs.ideogram.ai/plans-and-pricing/available-plans),
+  [Ideogram, personal plans](https://docs.ideogram.ai/plans-and-pricing/personal-plans),
+  [Ideogram, FAQ](https://docs.ideogram.ai/using-ideogram/frequently-asked-questions)
+
+Checked, nothing new
+- Higgsfield past Nov 28: the "33 days", "14 days", "4K unlimited 11 days", "7-day unlimited bonus" and plan-change
+  pages and trak.in again: Nov 28 stands, pictures only from tomorrow.
+- Trends: Virlo's November page, Gelato, SocialPilot, Kapwing's and NewEngen's 2025 pages (all here); a science
+  explainer search gave fluxnote's idea lists, Physics Today and Scientific American (here); Instagram: the
+  on-screen reference tool and Edits' audio links (here) and the "Your Algorithm" controls (here); YouTube Shorts:
+  Made on YouTube 2026 coverage and older updates (here); sounds: tokchart's growing list, que.es's November trends,
+  SocialBee and websitebuilderexpert (here), Soundstripe's and Buffer's how-to guides (titles only). No new data
+  this hour.
