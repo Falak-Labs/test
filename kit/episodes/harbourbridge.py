@@ -791,18 +791,19 @@ class HarbourBridge(EpisodeV2):
     def draw_close(self, c, t):
         T, s = self.T, self.tl.s
         let = e_io(prog(t, T["letout"] - 0.2, T["touch1"]))
-        z = lerp(1.25, 2.1, e_io(prog(t, s("reveal"), T["letout"] + 0.6)))
+        z = lerp(1.1, 1.55, e_io(prog(t, s("reveal"), T["letout"] + 0.6)))
         c.save()
-        c.translate(540, 680)
+        c.translate(540, 700)
         c.scale(z, z)
-        c.translate(-XC, -520)
+        c.translate(-XC, -560)
         bb = lerp(0.985, 1.0, let)
-        bridge_scene(c, t, bl=bb, br=bb, night=1.0, lit=0.0, deck_full=False, cab=1.0, cranes=1.0, crane_lift=0.9,
+        bridge_scene(c, t, bl=bb, br=bb, night=1.0, lit=0.0, deck_full=False, cab=1.0, cab_glow=0.6 * (1 - prog(t, T["touch1"], T["touch1"] + 0.6)),
+                     cranes=0.0,
                      closeL=1 - let, closeR=1 - let, join=prog(t, T["touch1"] - 0.05, T["touch1"] + 0.2) *
                      (1 - prog(t, T["touch1"] + 0.8, T["touch1"] + 1.6)))
         c.restore()
         if t >= T["touch1"] - 0.05:
-            v2set.sparks_shower(c, 540, 680 + (yt(XC) - 520) * z, t, T["touch1"], dur=0.9, n=30, speed=640)
+            v2set.sparks_shower(c, 540, 700 + (yt(XC) - 560) * z, t, T["touch1"], dur=0.9, n=30, speed=640)
 
     def ui_close(self, c, t, tw):
         T, s = self.T, self.tl.s
