@@ -157,5 +157,9 @@
   ],
   "mean": "البطن",
   "teacher_slow": "Stum... uck."
- }
+ },
+ "accept_takes": [
+  "p01k",
+  "rc0_0"
+ ]
 }
