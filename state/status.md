@@ -1,4 +1,4 @@
-# Post status 2026-11-27T21:25:13+00:00
+# Post status 2026-11-28T02:51:22+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -91,6 +91,8 @@
 | ep106-riyadhmetro | en.instagram | scheduled |  | 2026-11-29T14:00:00.000Z |
 | ep106-riyadhmetro | en.tiktok | scheduled |  | 2026-11-29T14:00:00.000Z |
 | ep107-chairlift | ar.instagram | scheduled |  | 2026-11-29T11:00:00.000Z |
+| ep107-chairlift | en.instagram | scheduled |  | 2026-11-29T16:30:00.000Z |
+| ep107-chairlift | en.tiktok | scheduled |  | 2026-11-29T16:30:00.000Z |
 | ep108-resurfacer | ar.instagram | scheduled |  | 2026-11-29T14:00:00.000Z |
 | ep11-airplane | ar.instagram | sent |  | 2026-11-10T16:43:04.064Z https://www.instagram.com/reel/DfkW8ZJAUGA/ |
 | ep11-airplane | ar.tiktok | sent |  | 2026-11-11T03:27:42.554Z https://www.tiktok.com/@kef.tenbeni/video/7706750193227681038?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
@@ -249,7 +251,7 @@
 | ep36-pyramid | en.tiktok | sent |  | 2026-11-18T05:30:46.755Z https://www.tiktok.com/@congratsengineer/video/7709379367360597262?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep36-pyramid | en.youtube | sent |  | 2026-11-18T05:30:08.839Z https://www.youtube.com/shorts/NBpVVXvwBd4 |
 | ep37-windtower | ar.instagram | sent |  | 2026-11-18T17:05:10.686Z https://www.instagram.com/reel/Df4_6ANwVci/ |
-| ep37-windtower | ar.tiktok | sent |  | 2026-11-26T04:32:19.545Z https://tiktok.com/@kef.tenbeni/video/7712332918336572685 |
+| ep37-windtower | ar.tiktok | sent |  | 2026-11-26T04:32:19.545Z https://www.tiktok.com/@kef.tenbeni/video/7712332918336572685?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep37-windtower | ar.youtube | sent |  | 2026-11-18T17:03:17.795Z https://www.youtube.com/shorts/f3nfx--F-Kk |
 | ep37-windtower | en.instagram | sent |  | 2026-11-18T14:03:06.680Z https://www.instagram.com/reel/Df4rClNxsXT/ |
 | ep37-windtower | en.tiktok | sent |  | 2026-11-18T14:05:41.977Z https://www.tiktok.com/@congratsengineer/video/7709511909875223822?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
@@ -345,7 +347,7 @@
 | ep54-eiffel | en.tiktok | sent |  | 2026-11-21T19:03:39.426Z https://www.tiktok.com/@congratsengineer/video/7710702140372667662?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep54-eiffel | en.youtube | error | The daily posting limit for this channel has been reached! Please try reducing the amount of times per day in your schedule and try again later. | 2026-11-21T19:00:00.000Z |
 | ep55-suez | ar.instagram | sent |  | 2026-11-21T17:03:40.033Z https://www.instagram.com/reel/DgAuLkmh13i/ |
-| ep55-suez | ar.tiktok | sent |  | 2026-11-25T04:32:06.641Z https://tiktok.com/@kef.tenbeni/video/7711961772466408718 |
+| ep55-suez | ar.tiktok | sent |  | 2026-11-25T04:32:06.641Z https://www.tiktok.com/@kef.tenbeni/video/7711961772466408718?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep55-suez | en.instagram | sent |  | 2026-11-21T21:33:51.385Z https://www.instagram.com/reel/DgBM3p6iAYV/ |
 | ep55-suez | en.tiktok | sent |  | 2026-11-21T21:31:58.874Z https://www.tiktok.com/@congratsengineer/video/7710740185788517646?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep56-escalator | ar.instagram | sent |  | 2026-11-21T20:02:51.861Z https://www.instagram.com/reel/DgBCqCwIFHA/ |
@@ -413,123 +415,123 @@
 | ep70-louvre | ar.instagram | sent |  | 2026-11-24T08:01:40.814Z https://www.instagram.com/reel/DgHeix1hQNg/ |
 | ep70-louvre | ar.tiktok | sent |  | 2026-11-24T08:01:25.630Z https://www.tiktok.com/@kef.tenbeni/video/7711644596975045902?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep70-louvre | en.instagram | sent |  | 2026-11-24T14:03:39.735Z https://www.instagram.com/reel/DgIH7m4MGNv/ |
-| ep70-louvre | en.tiktok | sent |  | 2026-11-24T14:05:06.538Z https://tiktok.com/@congratsengineer/video/7711738341183474975 |
+| ep70-louvre | en.tiktok | sent |  | 2026-11-24T14:05:06.538Z https://www.tiktok.com/@congratsengineer/video/7711738341183474975?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep71-vacuum | ar.instagram | sent |  | 2026-11-24T11:02:45.725Z https://www.instagram.com/reel/DgHzPqKBGjD/ |
-| ep71-vacuum | ar.tiktok | sent |  | 2026-11-24T11:03:17.772Z https://tiktok.com/@kef.tenbeni/video/7711691349459864845 |
+| ep71-vacuum | ar.tiktok | sent |  | 2026-11-24T11:03:17.772Z https://www.tiktok.com/@kef.tenbeni/video/7711691349459864845?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep71-vacuum | en.instagram | sent |  | 2026-11-24T16:32:37.500Z https://www.instagram.com/reel/DgIZAhWsWcl/ |
-| ep71-vacuum | en.tiktok | sent |  | 2026-11-24T16:32:15.783Z https://tiktok.com/@congratsengineer/video/7711776427976232206 |
+| ep71-vacuum | en.tiktok | sent |  | 2026-11-24T16:32:15.783Z https://www.tiktok.com/@congratsengineer/video/7711776427976232206?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep72-petronas | ar.instagram | sent |  | 2026-11-24T14:03:38.712Z https://www.instagram.com/reel/DgIH7o3hQNn/ |
 | ep72-petronas | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T14:00:00.000Z |
 | ep72-petronas | en.instagram | sent |  | 2026-11-24T19:04:13.501Z https://www.instagram.com/reel/DgIqYX1hFmA/ |
-| ep72-petronas | en.tiktok | sent |  | 2026-11-24T19:04:13.990Z https://tiktok.com/@congratsengineer/video/7711815486765354254 |
+| ep72-petronas | en.tiktok | sent |  | 2026-11-24T19:04:13.990Z https://www.tiktok.com/@congratsengineer/video/7711815486765354254?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep73-pharos | ar.instagram | sent |  | 2026-11-24T17:05:43.032Z https://www.instagram.com/reel/DgIcovHB5Ht/ |
 | ep73-pharos | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T16:30:00.000Z |
 | ep73-pharos | en.instagram | sent |  | 2026-11-24T21:31:32.588Z https://www.instagram.com/reel/DgI7NkKh7TW/ |
-| ep73-pharos | en.tiktok | sent |  | 2026-11-24T21:31:12.771Z https://tiktok.com/@congratsengineer/video/7711853488795389197 |
+| ep73-pharos | en.tiktok | sent |  | 2026-11-24T21:31:12.771Z https://www.tiktok.com/@congratsengineer/video/7711853488795389197?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep74-maraya | ar.instagram | sent |  | 2026-11-24T20:02:44.964Z https://www.instagram.com/reel/DgIxEvvgZNL/ |
 | ep74-maraya | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T20:30:00.000Z |
 | ep74-maraya | en.instagram | sent |  | 2026-11-25T00:03:52.694Z https://www.instagram.com/reel/DgJMmUmuUSY/ |
-| ep74-maraya | en.tiktok | sent |  | 2026-11-25T00:03:15.796Z https://tiktok.com/@congratsengineer/video/7711892595084905742 |
+| ep74-maraya | en.tiktok | sent |  | 2026-11-25T00:03:15.796Z https://www.tiktok.com/@congratsengineer/video/7711892595084905742?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep75-stepwell | ar.instagram | sent |  | 2026-11-24T23:03:55.212Z https://www.instagram.com/reel/DgJFsuRBFXV/ |
-| ep75-stepwell | ar.tiktok | sent |  | 2026-11-24T23:01:43.988Z https://tiktok.com/@kef.tenbeni/video/7711876786996497677 |
+| ep75-stepwell | ar.tiktok | sent |  | 2026-11-24T23:01:43.988Z https://www.tiktok.com/@kef.tenbeni/video/7711876786996497677?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep75-stepwell | en.instagram | sent |  | 2026-11-25T02:31:25.854Z https://www.instagram.com/reel/DgJdgFfzoxm/ |
-| ep75-stepwell | en.tiktok | sent |  | 2026-11-25T02:31:54.536Z https://tiktok.com/@congratsengineer/video/7711930731504635150 |
+| ep75-stepwell | en.tiktok | sent |  | 2026-11-25T02:31:54.536Z https://www.tiktok.com/@congratsengineer/video/7711930731504635150?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep76-cooker | ar.instagram | sent |  | 2026-11-26T16:33:46.898Z https://www.instagram.com/reel/DgNiusJuhsc/ |
 | ep76-cooker | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T20:30:00.000Z |
 | ep76-cooker | en.instagram | sent |  | 2026-11-26T13:31:53.771Z https://www.instagram.com/reel/DgNN6tIBCPy/ |
-| ep76-cooker | en.tiktok | sent |  | 2026-11-26T13:31:55.330Z https://tiktok.com/@congratsengineer/video/7712471946658729230 |
+| ep76-cooker | en.tiktok | sent |  | 2026-11-26T13:31:55.330Z https://www.tiktok.com/@congratsengineer/video/7712471946658729230?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep77-goldengate | ar.instagram | sent |  | 2026-11-26T20:05:04.642Z https://www.instagram.com/reel/DgN60FKhhJL/ |
 | ep77-goldengate | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T23:30:00.000Z |
 | ep77-goldengate | en.instagram | sent |  | 2026-11-26T16:04:46.718Z https://www.instagram.com/reel/DgNfZcLgeWA/ |
-| ep77-goldengate | en.tiktok | sent |  | 2026-11-26T16:04:17.013Z https://tiktok.com/@congratsengineer/video/7712511370486467853 |
+| ep77-goldengate | en.tiktok | sent |  | 2026-11-26T16:04:17.013Z https://www.tiktok.com/@congratsengineer/video/7712511370486467853?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep78-airfryer | ar.instagram | sent |  | 2026-11-25T08:03:46.932Z https://www.instagram.com/reel/DgKDgR0hfJR/ |
-| ep78-airfryer | ar.tiktok | sent |  | 2026-11-25T08:02:17.777Z https://tiktok.com/@kef.tenbeni/video/7712015940736601357 |
+| ep78-airfryer | ar.tiktok | sent |  | 2026-11-25T08:02:17.777Z https://www.tiktok.com/@kef.tenbeni/video/7712015940736601357?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep78-airfryer | en.instagram | sent |  | 2026-11-25T05:01:26.824Z https://www.instagram.com/reel/DgJutLuTBXS/ |
-| ep78-airfryer | en.tiktok | sent |  | 2026-11-25T05:01:27.659Z https://tiktok.com/@congratsengineer/video/7711969467135282445 |
+| ep78-airfryer | en.tiktok | sent |  | 2026-11-25T05:01:27.659Z https://www.tiktok.com/@congratsengineer/video/7711969467135282445?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep79-kuwaittowers | ar.instagram | sent |  | 2026-11-25T10:32:09.581Z https://www.instagram.com/reel/DgKUj97h1N1/ |
-| ep79-kuwaittowers | ar.tiktok | sent |  | 2026-11-25T10:31:16.834Z https://tiktok.com/@kef.tenbeni/video/7712054536130546957 |
+| ep79-kuwaittowers | ar.tiktok | sent |  | 2026-11-25T10:31:16.834Z https://www.tiktok.com/@kef.tenbeni/video/7712054536130546957?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep79-kuwaittowers | en.instagram | sent |  | 2026-11-25T07:31:47.220Z https://www.instagram.com/reel/DgJ_6OPMtRL/ |
-| ep79-kuwaittowers | en.tiktok | sent |  | 2026-11-25T07:30:58.738Z https://tiktok.com/@congratsengineer/video/7712007914365406478 |
+| ep79-kuwaittowers | en.tiktok | sent |  | 2026-11-25T07:30:58.738Z https://www.tiktok.com/@congratsengineer/video/7712007914365406478?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep80-fountain | ar.instagram | sent |  | 2026-11-25T13:04:11.424Z https://www.instagram.com/reel/DgKl7nZSB1N/ |
 | ep80-fountain | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T16:30:00.000Z |
 | ep80-fountain | en.instagram | sent |  | 2026-11-25T10:02:07.169Z https://www.instagram.com/reel/DgKRGonORKO/ |
-| ep80-fountain | en.tiktok | sent |  | 2026-11-25T10:02:32.773Z https://tiktok.com/@congratsengineer/video/7712047017408744718 |
+| ep80-fountain | en.tiktok | sent |  | 2026-11-25T10:02:32.773Z https://www.tiktok.com/@congratsengineer/video/7712047017408744718?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep81-zipper | ar.instagram | sent |  | 2026-11-25T15:33:06.588Z https://www.instagram.com/reel/DgK27KAhyXL/ |
-| ep81-zipper | ar.tiktok | sent |  | 2026-11-25T15:32:04.049Z https://tiktok.com/@kef.tenbeni/video/7712132020247268621 |
+| ep81-zipper | ar.tiktok | sent |  | 2026-11-25T15:32:04.049Z https://www.tiktok.com/@kef.tenbeni/video/7712132020247268621?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep81-zipper | en.instagram | sent |  | 2026-11-25T12:32:11.967Z https://www.instagram.com/reel/DgKiStjsTCI/ |
-| ep81-zipper | en.tiktok | sent |  | 2026-11-25T12:31:20.557Z https://tiktok.com/@congratsengineer/video/7712085483958013197 |
+| ep81-zipper | en.tiktok | sent |  | 2026-11-25T12:31:20.557Z https://www.tiktok.com/@congratsengineer/video/7712085483958013197?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep82-hzmb | ar.instagram | sent |  | 2026-11-25T18:05:27.346Z https://www.instagram.com/reel/DgLIY04OcDI/ |
 | ep82-hzmb | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T18:00:00.000Z |
 | ep82-hzmb | en.instagram | sent |  | 2026-11-25T15:04:22.302Z https://www.instagram.com/reel/DgKztGXMQHm/ |
-| ep82-hzmb | en.tiktok | sent |  | 2026-11-25T15:05:25.655Z https://tiktok.com/@congratsengineer/video/7712124938336914718 |
+| ep82-hzmb | en.tiktok | sent |  | 2026-11-25T15:05:25.655Z https://www.tiktok.com/@congratsengineer/video/7712124938336914718?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep83-thermos | ar.instagram | sent |  | 2026-11-25T20:32:20.574Z https://www.instagram.com/reel/DgLZMkMiRWE/ |
 | ep83-thermos | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-25T20:30:00.000Z |
 | ep83-thermos | en.instagram | sent |  | 2026-11-25T17:33:46.501Z https://www.instagram.com/reel/DgLEtoVKwPM/ |
-| ep83-thermos | en.tiktok | sent |  | 2026-11-25T17:33:00.153Z https://tiktok.com/@congratsengineer/video/7712163099251576077 |
+| ep83-thermos | en.tiktok | sent |  | 2026-11-25T17:33:00.153Z https://www.tiktok.com/@congratsengineer/video/7712163099251576077?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep84-hooverdam | ar.instagram | sent |  | 2026-11-25T23:04:39.922Z https://www.instagram.com/reel/DgLqe-IMUJJ/ |
-| ep84-hooverdam | ar.tiktok | sent |  | 2026-11-25T23:02:48.050Z https://tiktok.com/@kef.tenbeni/video/7712248077402344718 |
+| ep84-hooverdam | ar.tiktok | sent |  | 2026-11-25T23:02:48.050Z https://www.tiktok.com/@kef.tenbeni/video/7712248077402344718?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep84-hooverdam | en.instagram | sent |  | 2026-11-25T20:03:47.614Z https://www.instagram.com/reel/DgLV5REp7bV/ |
-| ep84-hooverdam | en.tiktok | sent |  | 2026-11-25T20:03:14.041Z https://tiktok.com/@congratsengineer/video/7712201930176548109 |
+| ep84-hooverdam | en.tiktok | sent |  | 2026-11-25T20:03:14.041Z https://www.tiktok.com/@congratsengineer/video/7712201930176548109?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep85-dubaiframe | ar.instagram | sent |  | 2026-11-26T01:31:40.020Z https://www.instagram.com/reel/DgL7eG8Bp6f/ |
 | ep85-dubaiframe | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T16:00:00.000Z |
 | ep85-dubaiframe | en.instagram | sent |  | 2026-11-25T22:31:19.624Z https://www.instagram.com/reel/DgLm29ltc9q/ |
-| ep85-dubaiframe | en.tiktok | sent |  | 2026-11-25T22:31:23.024Z https://tiktok.com/@congratsengineer/video/7712240098909228301 |
+| ep85-dubaiframe | en.tiktok | sent |  | 2026-11-25T22:31:23.024Z https://www.tiktok.com/@congratsengineer/video/7712240098909228301?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep86-kettle | ar.instagram | sent |  | 2026-11-26T04:01:48.355Z https://www.instagram.com/reel/DgMMqvTBy9_/ |
-| ep86-kettle | ar.tiktok | sent |  | 2026-11-26T04:01:26.842Z https://tiktok.com/@kef.tenbeni/video/7712325036673207565 |
+| ep86-kettle | ar.tiktok | sent |  | 2026-11-26T04:01:26.842Z https://www.tiktok.com/@kef.tenbeni/video/7712325036673207565?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep86-kettle | en.instagram | sent |  | 2026-11-26T01:02:26.688Z https://www.instagram.com/reel/DgL4JvmMR5E/ |
-| ep86-kettle | en.tiktok | sent |  | 2026-11-26T01:02:39.342Z https://tiktok.com/@congratsengineer/video/7712278851593784589 |
+| ep86-kettle | en.tiktok | sent |  | 2026-11-26T01:02:39.342Z https://www.tiktok.com/@congratsengineer/video/7712278851593784589?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep87-balloon | ar.instagram | sent |  | 2026-11-26T06:31:16.603Z https://www.instagram.com/reel/DgMdw24z8Gt/ |
-| ep87-balloon | ar.tiktok | sent |  | 2026-11-26T06:30:47.594Z https://tiktok.com/@kef.tenbeni/video/7712363584935841038 |
+| ep87-balloon | ar.tiktok | sent |  | 2026-11-26T06:30:47.594Z https://www.tiktok.com/@kef.tenbeni/video/7712363584935841038?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep87-balloon | en.instagram | sent |  | 2026-11-26T03:31:22.560Z https://www.instagram.com/reel/DgMJLqRJrZX/ |
-| ep87-balloon | en.tiktok | sent |  | 2026-11-26T03:32:01.359Z https://tiktok.com/@congratsengineer/video/7712317347914075405 |
+| ep87-balloon | en.tiktok | sent |  | 2026-11-26T03:32:01.359Z https://www.tiktok.com/@congratsengineer/video/7712317347914075405?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep88-pontdugard | ar.instagram | sent |  | 2026-11-26T09:02:30.127Z https://www.instagram.com/reel/DgMu_sEOfbx/ |
-| ep88-pontdugard | ar.tiktok | sent |  | 2026-11-26T09:01:59.472Z https://tiktok.com/@kef.tenbeni/video/7712402513101589774 |
+| ep88-pontdugard | ar.tiktok | sent |  | 2026-11-26T09:01:59.472Z https://www.tiktok.com/@kef.tenbeni/video/7712402513101589774?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep88-pontdugard | en.instagram | sent |  | 2026-11-26T06:02:36.118Z https://www.instagram.com/reel/DgMaZMMJi3h/ |
-| ep88-pontdugard | en.tiktok | sent |  | 2026-11-26T06:01:34.585Z https://tiktok.com/@congratsengineer/video/7712356028104396046 |
+| ep88-pontdugard | en.tiktok | sent |  | 2026-11-26T06:01:34.585Z https://www.tiktok.com/@congratsengineer/video/7712356028104396046?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep89-noor | ar.instagram | sent |  | 2026-11-26T11:31:58.181Z https://www.instagram.com/reel/DgNAJnyhzrm/ |
-| ep89-noor | ar.tiktok | sent |  | 2026-11-26T11:31:42.618Z https://tiktok.com/@kef.tenbeni/video/7712441125017029902 |
+| ep89-noor | ar.tiktok | sent |  | 2026-11-26T11:31:42.618Z https://www.tiktok.com/@kef.tenbeni/video/7712441125017029902?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep89-noor | en.instagram | sent |  | 2026-11-26T08:31:33.182Z https://www.instagram.com/reel/DgMrjX8MYL5/ |
-| ep89-noor | en.tiktok | sent |  | 2026-11-26T08:31:05.197Z https://tiktok.com/@congratsengineer/video/7712394448302329102 |
+| ep89-noor | en.tiktok | sent |  | 2026-11-26T08:31:05.197Z https://www.tiktok.com/@congratsengineer/video/7712394448302329102?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep90-pen | ar.instagram | sent |  | 2026-11-26T14:04:59.718Z https://www.instagram.com/reel/DgNRmjmI3RA/ |
 | ep90-pen | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-26T14:00:00.000Z |
 | ep90-pen | en.instagram | sent |  | 2026-11-26T11:06:07.122Z https://www.instagram.com/reel/DgM8_7fprjC/ |
-| ep90-pen | en.tiktok | sent |  | 2026-11-26T11:03:24.955Z https://tiktok.com/@congratsengineer/video/7712433617896525069 |
+| ep90-pen | en.tiktok | sent |  | 2026-11-26T11:03:24.955Z https://www.tiktok.com/@congratsengineer/video/7712433617896525069?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep91-arch | ar.instagram | sent |  | 2026-11-26T22:31:34.012Z https://www.instagram.com/reel/DgOLrBrSWFK/ |
 | ep91-arch | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T02:30:00.000Z |
 | ep91-arch | en.instagram | sent |  | 2026-11-26T18:32:45.318Z https://www.instagram.com/reel/DgNwTStBNd_/ |
-| ep91-arch | en.tiktok | sent |  | 2026-11-26T18:31:51.462Z https://tiktok.com/@congratsengineer/video/7712549407450877198 |
+| ep91-arch | en.tiktok | sent |  | 2026-11-26T18:31:51.462Z https://www.tiktok.com/@congratsengineer/video/7712549407450877198?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep92-seatbelt | ar.instagram | sent |  | 2026-11-27T01:02:24.901Z https://www.instagram.com/reel/DgOc7TOhQlS/ |
-| ep92-seatbelt | ar.tiktok | sent |  | 2026-11-27T05:31:47.992Z https://tiktok.com/@kef.tenbeni/video/7712719275601005837 |
+| ep92-seatbelt | ar.tiktok | sent |  | 2026-11-27T05:31:47.992Z https://www.tiktok.com/@kef.tenbeni/video/7712719275601005837?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep92-seatbelt | en.instagram | sent |  | 2026-11-26T21:04:14.423Z https://www.instagram.com/reel/DgOBnm_BJH7/ |
-| ep92-seatbelt | en.tiktok | sent |  | 2026-11-26T21:02:43.978Z https://tiktok.com/@congratsengineer/video/7712588264007421197 |
+| ep92-seatbelt | en.tiktok | sent |  | 2026-11-26T21:02:43.978Z https://www.tiktok.com/@congratsengineer/video/7712588264007421197?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep93-huajiang | ar.instagram | sent |  | 2026-11-27T03:31:09.060Z https://www.instagram.com/reel/DgOt87ihHWe/ |
-| ep93-huajiang | ar.tiktok | sent |  | 2026-11-27T08:30:48.494Z https://tiktok.com/@kef.tenbeni/video/7712765514468166926 |
+| ep93-huajiang | ar.tiktok | sent |  | 2026-11-27T08:30:48.494Z https://www.tiktok.com/@kef.tenbeni/video/7712765514468166926?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep93-huajiang | en.instagram | sent |  | 2026-11-26T23:31:48.599Z https://www.instagram.com/reel/DgOShJKykil/ |
-| ep93-huajiang | en.tiktok | sent |  | 2026-11-26T23:31:21.486Z https://tiktok.com/@congratsengineer/video/7712626618027592973 |
+| ep93-huajiang | en.tiktok | sent |  | 2026-11-26T23:31:21.486Z https://www.tiktok.com/@congratsengineer/video/7712626618027592973?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep94-smokealarm | ar.instagram | sent |  | 2026-11-27T08:03:01.339Z https://www.instagram.com/reel/DgPM_t5PUor/ |
-| ep94-smokealarm | ar.tiktok | sent |  | 2026-11-27T11:31:14.498Z https://tiktok.com/@kef.tenbeni/video/7712811947736993038 |
+| ep94-smokealarm | ar.tiktok | sent |  | 2026-11-27T11:31:14.498Z https://www.tiktok.com/@kef.tenbeni/video/7712811947736993038?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep94-smokealarm | en.instagram | sent |  | 2026-11-27T14:04:59.199Z https://www.instagram.com/reel/DgP2ZzoBnji/ |
-| ep94-smokealarm | en.tiktok | sent |  | 2026-11-27T14:04:40.297Z https://tiktok.com/@congratsengineer/video/7712851506642357518 |
+| ep94-smokealarm | en.tiktok | sent |  | 2026-11-27T14:04:40.297Z https://www.tiktok.com/@congratsengineer/video/7712851506642357518?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep95-falkirk | ar.instagram | sent |  | 2026-11-27T11:03:45.814Z https://www.instagram.com/reel/DgPhwqKJwlE/ |
 | ep95-falkirk | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T14:30:00.000Z |
 | ep95-falkirk | en.instagram | sent |  | 2026-11-27T16:32:23.095Z https://www.instagram.com/reel/DgQHXu3IlGE/ |
-| ep95-falkirk | en.tiktok | sent |  | 2026-11-27T16:32:16.454Z https://tiktok.com/@congratsengineer/video/7712889713308208397 |
+| ep95-falkirk | en.tiktok | sent |  | 2026-11-27T16:32:16.454Z https://www.tiktok.com/@congratsengineer/video/7712889713308208397?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep96-handwarmer | ar.instagram | sent |  | 2026-11-27T14:04:28.003Z https://www.instagram.com/reel/DgP2R3eBGs2/ |
 | ep96-handwarmer | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T20:30:00.000Z |
 | ep96-handwarmer | en.instagram | sent |  | 2026-11-27T19:03:52.382Z https://www.instagram.com/reel/DgQYrQpCvI6/ |
-| ep96-handwarmer | en.tiktok | sent |  | 2026-11-27T19:03:44.872Z https://tiktok.com/@congratsengineer/video/7712928614118952206 |
+| ep96-handwarmer | en.tiktok | sent |  | 2026-11-27T19:03:44.872Z https://www.tiktok.com/@congratsengineer/video/7712928614118952206?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep97-museum | ar.instagram | sent |  | 2026-11-27T17:04:57.599Z https://www.instagram.com/reel/DgQLGN7h7sW/ |
-| ep97-museum | ar.tiktok | scheduled |  | 2026-11-27T23:30:00.000Z |
-| ep97-museum | en.instagram | scheduled |  | 2026-11-27T21:30:00.000Z |
-| ep97-museum | en.tiktok | scheduled |  | 2026-11-27T21:30:00.000Z |
+| ep97-museum | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-27T23:30:00.000Z |
+| ep97-museum | en.instagram | sent |  | 2026-11-27T21:34:03.639Z https://www.instagram.com/reel/DgQptv9SG2c/ |
+| ep97-museum | en.tiktok | sent |  | 2026-11-27T21:31:07.430Z https://www.tiktok.com/@congratsengineer/video/7712966724521348365?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep98-rainvortex | ar.instagram | sent |  | 2026-11-27T20:04:02.940Z https://www.instagram.com/reel/DgQfjXXBfi5/ |
-| ep98-rainvortex | ar.tiktok | scheduled |  | 2026-11-28T02:30:00.000Z |
-| ep98-rainvortex | en.instagram | scheduled |  | 2026-11-28T00:00:00.000Z |
-| ep98-rainvortex | en.tiktok | scheduled |  | 2026-11-28T00:00:00.000Z |
-| ep99-noodles | ar.instagram | scheduled |  | 2026-11-27T23:00:00.000Z |
+| ep98-rainvortex | ar.tiktok | sent |  | 2026-11-28T02:32:04.410Z https://tiktok.com/@kef.tenbeni/video/7713044026080906509 |
+| ep98-rainvortex | en.instagram | sent |  | 2026-11-28T00:02:58.463Z https://www.instagram.com/reel/DgQ67gDoOas/ |
+| ep98-rainvortex | en.tiktok | sent |  | 2026-11-28T00:02:32.592Z https://tiktok.com/@congratsengineer/video/7713005701320183053 |
+| ep99-noodles | ar.instagram | sent |  | 2026-11-27T23:03:19.682Z https://www.instagram.com/reel/DgQ0BeKO7j9/ |
 | ep99-noodles | ar.tiktok | scheduled |  | 2026-11-28T05:30:00.000Z |
-| ep99-noodles | en.instagram | scheduled |  | 2026-11-28T02:30:00.000Z |
-| ep99-noodles | en.tiktok | scheduled |  | 2026-11-28T02:30:00.000Z |
+| ep99-noodles | en.instagram | sent |  | 2026-11-28T02:33:51.026Z https://www.instagram.com/reel/DgRL_S_sVAd/ |
+| ep99-noodles | en.tiktok | sent |  | 2026-11-28T02:32:05.117Z https://tiktok.com/@congratsengineer/video/7713044016710913311 |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
 | sm01-survival | en.tiktok | sent |  | 2026-11-21T22:46:45.499Z https://www.tiktok.com/@congratsengineer/video/7710759443809553677?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | sm02 | ar.instagram | sent |  | 2026-11-22T18:31:51.122Z https://www.instagram.com/reel/DgDdDtHT-C3/ |
@@ -543,4 +545,4 @@
 | sm04 | ar.instagram | sent |  | 2026-11-24T18:33:23.397Z https://www.instagram.com/reel/DgImuO-hc6f/ |
 | sm04 | ar.tiktok | error | TikTok flagged this post as potential spam and blocked it from publishing. Please review your content and try again. If this persists, try posting directly thro | 2026-11-24T18:30:00.000Z |
 | sm04 | en.instagram | sent |  | 2026-11-24T20:16:43.883Z https://www.instagram.com/reel/DgIynESSfO4/ |
-| sm04 | en.tiktok | sent |  | 2026-11-24T20:17:11.465Z https://tiktok.com/@congratsengineer/video/7711834144270994702 |
+| sm04 | en.tiktok | sent |  | 2026-11-24T20:17:11.465Z https://www.tiktok.com/@congratsengineer/video/7711834144270994702?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
