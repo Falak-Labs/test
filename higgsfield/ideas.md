@@ -5987,3 +5987,69 @@ Checked, nothing new
   [Website Builder Expert](https://www.websitebuilderexpert.com/news/trending-social-media-sounds/),
   [Dash Social](https://www.dashsocial.com/blog/tiktok-sounds),
   [TechRadar](https://www.techradar.com/news/the-best-free-stock-video-sites)
+
+## 2026-11-27 17:00 PT (hourly runner, cloud run)
+
+New content
+- More free photos of 112's arch (new to these notes: the Nov 26 17:00 entry has A-01174909, the arch from the
+  Botanic Gardens, and the 15:00 entry the 1932 parade): four City of Sydney Archives items marked "No Copyright"
+  (public domain, may be used freely, "attribution should be given to the City of Sydney Archives"). "Close up of the
+  centre of the arch meeting during construction, Sydney Harbour Bridge, 1930" (Rupert Gough, A-01174903) is the join
+  itself, a real photo for the line where the two halves meet; "Sydney Harbour Bridge arch near completion from
+  Lavendar Bay, 1930" (Gough, A-01174905, the archive's spelling); "Construction work on the southern arch of the
+  Sydney Harbour Bridge, 1929" (Gough, A-01174901); "Steel decking installed during construction of the Sydney Harbour
+  Bridge, 1930" (no creator named, A-00027565). Left out: "Sydney Harbour Bridge construction site with outbound liner
+  Westralia, 1930" (A-00085359, CC BY-NC-ND 4.0, non-commercial) and Harold Cazneaux's "View of the nearly joined
+  arches of the Sydney Harbour Bridge" (A-00033571, "Copyright not identified"). The pages give titles only (no
+  description, no pixel size): look at each picture before a shot uses it, and use them as photos, never as a base
+  for AI pictures.
+  [City of Sydney Archives, A-01174903](https://archives.cityofsydney.nsw.gov.au/nodes/view/1939238),
+  [A-01174905](https://archives.cityofsydney.nsw.gov.au/nodes/view/1939240),
+  [A-01174901](https://archives.cityofsydney.nsw.gov.au/nodes/view/1939236),
+  [A-00027565](https://archives.cityofsydney.nsw.gov.au/nodes/view/588210),
+  [A-00085359](https://archives.cityofsydney.nsw.gov.au/nodes/view/710617),
+  [A-00033571](https://archives.cityofsydney.nsw.gov.au/nodes/view/597736)
+- Two free ancient Egyptian pictures near 111's history line (new to these notes; the Nov 26 13:05 entry found no
+  free old lock). The Met labels both "Public Domain" with a "Download Image" button: "Key", Ptolemaic Period, 305-30
+  BCE, iron, from Thebes, Dra Abu el-Naga (12.181.284), and "Door Bolt", Third Intermediate Period (Kushite), Dynasty
+  25 or later, ca. 721-664 BCE, wood, from Thebes, Khokha (28.3.136). Neither is the wooden pin lock: the key is iron
+  and over 2,000 years old, the bolt a wooden bar with no pins described, so a shot of either goes under a line that
+  fits its own date and kind ("a wooden door bolt from about 700 BCE"), never under the "4,000 years" pin lock. The
+  search's other Met hits are a hair pin, a coffin knob, a jewelry box, a coffin-rope handle and a ritual tool
+  (553794 not read).
+  [The Met, Key, 12.181.284](https://www.metmuseum.org/art/collection/search/576264),
+  [The Met, Door Bolt, 28.3.136](https://www.metmuseum.org/art/collection/search/553795)
+- Black Friday adds no free video past Nov 28 (new source: Fourth Feed's deal tracker, "Data checked 2026-11-27", a
+  checked date on every row; it earns referral commissions). Higgsfield's Nov 27 wave gives "7-day unlimited Nano
+  Banana Pro 2K, Seedream 5.0 Pro 2K & GPT Image 2.6 2K" on annual Plus and Ultra (pictures only), "ending Nov 28
+  00:00 UTC" (16:00 PT today, over); Kling up to 50% off a first annual year, through Dec 3; Pika up to 60% off
+  yearly, through Dec 2; PixVerse up to 59% off annual, through Dec 1; Runway 30% off a first yearly plan, Nov 27 to
+  Dec 1 PT; Hailuo none (checked Nov 13). A MetaEra roundup on KuCoin (Nov 25, unverified) says Dreamina's annual
+  plans carry "up to 30 days of unlimited generation with the Seedance 2.5 and 2.0 video models" until "November 30 at
+  22:00 Beijing Time" (06:00 PT), where the Nov 25 20:05 entry read 7 days and personal use only: not for the
+  channels either way, and any paid plan is the owner's call.
+  [Fourth Feed](https://fourthfeed.com/deals/black-friday),
+  [KuCoin (MetaEra), Nov 25 2026](https://www.kucoin.com/news/flash/2026-ai-black-friday-guide-nine-major-ai-tools-offer-discounts-up-to-70)
+- 109's closer photo, a lead (the Nov 26 19:00 entry found only the Wikipedia article): Commons has "Category:Eastgate
+  Centre (Harare)" with "File:Eastgate Centre, Harare, Zimbabwe.jpg" and "File:Zimbabwe Harare Eastgate Shopping
+  Mall.jpg" (search titles). The fetch tool answered "url_not_found" for every Commons page, so licence and author are
+  unread: check them in a browser (Zimbabwe's panorama rule, Nov 26 12:10 entry: "OK", with the architect credited
+  for commercial use).
+  [Commons, Category:Eastgate Centre (Harare)](https://commons.wikimedia.org/wiki/Category:Eastgate_Centre_(Harare)),
+  [Commons, Eastgate Centre, Harare, Zimbabwe.jpg](https://commons.wikimedia.org/wiki/File:Eastgate_Centre,_Harare,_Zimbabwe.jpg)
+
+Trends
+- A fourth channel for the Nov 25 13:55 benchmark (vidIQ, lifetime views): Engineering Today (@engineeringtoday1,
+  103K subscribers as of Nov 21) posts long SpaceX Starship videos only; its best recent is "Texas Isn't Enough:
+  SpaceX's Massive Starship Expansion" (Aug 27, 226,944), the others 10,360-42,867, and nothing since Sep 29: a news
+  thread carried it only while the news ran.
+  [vidIQ, Engineering Today](https://vidiq.com/youtube-stats/channel/@engineeringtoday1/videos/)
+
+Checked, nothing new
+- This hour's searches for this week's TikTok sounds, Thanksgiving-weekend trends, Shorts trends and November's TikTok
+  and YouTube creator features gave only pages already here (Virlo, SocialPilot, Gelato, Kapwing, Epidemic Sound,
+  Metricool, Made on YouTube 2026, Smart Split and AI Outline, stackinfluence). textideo's Nov 20-Dec 2 sale adds
+  credits to a paid annual plan; DIY AI's Kling page (Nov 19) found "no public 2026 Black Friday discount on Kling
+  AI's own membership" then (Fourth Feed's came later) and lists Runway's 25% off Kling 4.0 generations through Nov 30.
+  [textideo](https://textideo.com/black-friday),
+  [DIY AI, Kling](https://diyai.io/ai-tools/video-generation/kling-ai-black-friday/)
