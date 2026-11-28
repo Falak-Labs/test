@@ -1,0 +1,239 @@
+{
+ "slug": "ep111-pinlock",
+ "kit": "pinlock",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, your front door is guarded by... five little pins.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Without them, any key would turn it. So how does it know your key?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] First, a spring pushes each pin down into the plug that turns, so it's stuck.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But then even your own key couldn't turn it!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So each pin is cut in two... and your key lifts every cut to the plug's edge. Click!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But what if your neighbor's key lifts them the same?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So the pins come in different lengths, for thousands of different keys.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But the very first pin locks were giant blocks of wood!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So by the eighteen sixties, an American father and son shrank it to a flat metal key.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building the bridge Sydney calls the Coathanger.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? It doesn't! [chuckles] It only checks the heights... so any copy of your key works.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Five pins, thousands of keys, and a trick about four thousand years old.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built a pin tumbler lock yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] Five tiny pins guarding your home... [laughs harder] and the spare key is under the doormat.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.57,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "20/181",
+   "mix_lines_off": [
+    "L 1 1 diff  | Yo, your front door is guarded by five little pins",
+    "L 5 2 diff  | So each pen is cut in two and your key lifts every cut to the plug's edge.",
+    "L 7 5 diff  | So depends on the different lengths for thousands of different keys.",
+    "L 9 3 diff  | By the 1860s, an American father and son shrank it to a flat metal key.",
+    "L10 3 diff  | Hit follow, cause next we're building the bridge Sydney calls the coat hanger.",
+    "L11 2 diff  | The answer? It doesn't. It only checks the heights, so any copy of your keywords.",
+    "L12 2 diff  | 5 pins, thousands of keys, and a trick about 4000 years old.",
+    "L14 2 diff  | Five tiny pins guarding your home and the spare key is under the door mat"
+   ],
+   "size_mb": 13.9,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، باب بيتكم يحرسه... خمس دبابيس صغيرة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] بدونها، أي مفتاح يفتحه. طيب كيف يعرف إنه مفتاحك؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] أول شي، زنبركات تدز الدبابيس لتحت داخل قلب القفل، فما يلف.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس كذا حتى مفتاحك ما راح يلفّه!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فكل دبوس مقصوص نصين... ومفتاحك يرفع كل قصّة لحافة قلب القفل. طق!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس لو مفتاح جارك يرفعها نفس الشي؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فالدبابيس لها أطوال مختلفة، يعني آلاف المفاتيح المختلفة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس أول أقفال بالدبابيس كانت قطع خشب ضخمة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فقبل أكثر من مية وخمسين سنة، أب وولده في أمريكا صغّروه لمفتاح حديد مسطّح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني جسر يسمّونه أهل سيدني: الشمّاعة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ ما يعرف! [chuckles] يشيك على الأطوال بس... يعني أي نسخة من مفتاحك تفتحه.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] خمس دبابيس، آلاف المفاتيح، وفكرة عمرها تقريبًا أربعة آلاف سنة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك قفل الدبابيس بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] خمس دبابيس تحرس بيتك... [laughs harder] وأنت تدوّر على المفتاح، وهو في جيبك!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 71.6,
+   "lufs": -14.0,
+   "peak": -2.0,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 14.8,
+   "cover": true
+  }
+ }
+}

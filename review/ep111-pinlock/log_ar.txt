@@ -1,0 +1,7 @@
+pinlock_ar_sa: 71.60s, 2148 frames
+cover out/pinlock_ar_sa/cover.png: ['قفل', 'الدبابيس'] (frame 0 of the video)
+video done in 407s
+audio done
+final out/pinlock_ar_sa/pinlock_ar_sa_final.mp4
+QA  duration 71.60s  loudness -14.0 LUFS  true peak -2.0 dBFS  1080x1920 @ 30/1  frames 2148
+QA sheet out/pinlock_ar_sa/qa_sheet.png
