@@ -1,0 +1,239 @@
+{
+ "slug": "ep109-eastgate",
+ "kit": "eastgate",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, this office in Zimbabwe copied... a termite mound.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] Sun turns glass offices into ovens. How do termites keep cool?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] First, thick concrete walls, and small windows behind shady ledges.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But by evening, that concrete is full of heat!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So at night, big fans blow cold air through hollow floors.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But by morning, people and computers heat the rooms back up.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So small fans pull air through those cold floors, and it comes in cool.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But all that warm air has to go somewhere!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So it rises up tall shafts, and pours out of forty-eight chimneys!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building towers with wind turbines between them.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? Mounds mostly breathe, like a lung! It copied them wrong, and it still works.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Nineteen ninety-six, Harare, and ten fresh air changes an hour at night.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built the Eastgate Centre yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] A building cooled by night air... [laughs harder] and your office still fights over the AC remote.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.1,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "19/162",
+   "mix_lines_off": [
+    "L 1 2 diff  | Y'all, this office in Zimbabwe copied a turn-right mound.",
+    "L 2 2 diff  | Sun turns glass offices into ovens. How do turn lights keep cool?",
+    "L 6 1 diff  | But by morning, people in computers heat the rooms back up.",
+    "L 9 2 diff  | So it rises up tall shafts and pours out of 48 chimneys.",
+    "L10 1 diff  | Hit follow, cause next we're building towers with wind turbines between them.",
+    "L11 4 diff  | The answer? Sounds mostly brief, like alone. It copied them wrong and it still works.",
+    "L12 3 diff  | 1996, Harare, and 10 fresh air changes an hour at night.",
+    "L13 4 diff  | Hey, congrats! You just built the E-Scate Center yourself!"
+   ],
+   "size_mb": 16.5,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، عمارة مكاتب في زيمبابوي... قلّدت بيت النمل الأبيض!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] الشمس تخلّي مكاتب الزجاج فرن. طيب بيت النمل كيف يظل بارد؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] أول شي، جدران خرسانة سميكة، ودرايش صغيرة مستخبية ورا حواف تظللها.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس مع المغرب، الخرسانة تكون شابعة من حرارة النهار!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فبالليل، مراوح كبيرة تدز هوا الليل البارد داخل أرضيات مجوّفة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس الصبح، الناس والكمبيوترات يسخّنون المكاتب من جديد.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فمراوح صغيرة تسحب الهوا من الأرضيات الباردة، ويدخل منعش.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس الهوا الحار لازم يطلع من مكان!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فيطلع في ممرات طويلة... ويخرج من ثمانية وأربعين مدخنة طوب فوق السطح.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني برجين بينهم مراوح هوا عملاقة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ العلماء لقوا إن بيت النمل يتنفّس مثل الرية! [chuckles] يعني قلّدوه غلط... وللحين شغّال.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] ألف وتسعمية وستة وتسعين، هراري، والهوا يتجدد عشر مرات كل ساعة طول الليل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك مركز إيستغيت بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] عمارة كاملة يبرّدها هوا الليل... [laughs harder] وأنتم في المكتب للحين تتهاوشون على ريموت المكيّف!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 76.23,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 17.8,
+   "cover": true
+  }
+ }
+}

@@ -1,0 +1,7 @@
+eastgate_ar_sa: 76.23s, 2287 frames
+cover out/eastgate_ar_sa/cover.png: ['مركز', 'إيستغيت'] (frame 0 of the video)
+video done in 375s
+audio done
+final out/eastgate_ar_sa/eastgate_ar_sa_final.mp4
+QA  duration 76.23s  loudness -14.0 LUFS  true peak -2.1 dBFS  1080x1920 @ 30/1  frames 2287
+QA sheet out/eastgate_ar_sa/qa_sheet.png
