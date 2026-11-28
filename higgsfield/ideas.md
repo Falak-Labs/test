@@ -7164,3 +7164,98 @@ Checked, nothing new
   only.
 - Record openings: the Huajiang bridge (build 93) and the Gordie Howe bridge again; Arup's "Finland's new
   Kirjalansalmi bridge opens to traffic" (a title only, a regional bridge).
+
+## 2026-11-28 08:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build for both channels, Kef Tenbeni above all: the yakhchal, the Persian desert's ice house, ice kept
+  through the summer with no power at all (new to LINEUP and these notes; a pair for the barjeel of the 06:00 entry,
+  from the same desert towns round Yazd). Age: records go "as far back as 400 BCE" (Wikipedia); Iranica has simple ice
+  pits "since the 1st millennium BCE, if not earlier" and the oldest written ice house at Mari in the 18th century BCE
+  (not Persia: no line). The ice was made on winter nights, never in the summer heat (a "50°C" hook seen in a LinkedIn
+  post mixes the two up: leave it out): qanat water runs into long shallow pools, about "100 m (330 ft) × 10 m" and
+  "40 cm (16 in) to 50 cm (20 in)" deep (Wikipedia); the PLEA 2017 paper models Meybod's pond at "416m2", given "100mm
+  of water" each night. Iranica's method: thin layers of "5-10 cm" freeze overnight and more water goes on until the
+  ice is about "50 cm" thick, then it is cut into blocks; workers "had to harvest ice before sunrise" (Hackaday). The
+  physics: radiation to the clear night sky is the "dominant cooling mechanism", evaporation in the dry air "also
+  important" (Max Fordham, Hareth Pochee, 27 Mar 2018); Wikipedia: "the cold of the desert nights and/or radiative
+  cooling". The paper behind it (Pochee, Gunstone, Wilton, "New insight on passive ice making and seasonal storage of
+  the Iranian Yakhchal...") gives the coldest week's night averages: about 60 W/m2 lost to the sky, 20 to evaporation,
+  1 to the air, 8 gained from the ground; a "maximum predicted ice yield is 12mm/day", ice over 3 mm cut each morning,
+  a winter "total thickness of 120mm", "49m3/yr", and it says its model "probably over predicts the ice formation
+  rate". Ice while the air stays above 0 °C is the usual claim, but none of these gives that air temperature (Yazd's
+  winter nights "occasionally drop below -5°C"): check before a line says it. The shade wall: built "in an east–west
+  direction", "often as high as 10 m", sometimes "15 m", for a "nearly 15 °C (27 °F) to 20 °C (36 °F)" difference
+  (Wikipedia); "A shading wall shields the pond from the heat of low-angle winter sun" (Max Fordham); Iranica puts the
+  "tall shading walls" on the south side. The store: a deep pit under a mud-brick dome, "eighteen meter high" at
+  Kerman (Wikipedia), "18 meters tall" and "20-23 meters" across for four Yazd-region domes (Iranica), the modelled
+  dome "around 15m tall" over a pit "about 5m deep" (Max Fordham, whose own diagram says "11m tall": check); walls "at
+  least two meters thick at the base" (Wikipedia), "2m thick at the base and 0.5m thick at the top" (Max Fordham);
+  storage up to "5,000 m3 (180,000 cu ft)" (Wikipedia). The mortar: "sand, clay, egg whites, lime, goat hair, and ash"
+  (Wikipedia, Hackaday) against mud brick with mortar and plaster in Iranica: say "mud brick" and leave the egg whites
+  out until checked. One winter at Meybod made about "50m3" of ice, "3 million modern-day ice cubes" (Max Fordham's
+  model, 1960-2004 climate); behind 0.5 m of adobe and 0.5 m of thatch "approximately 20%" of it melts by September, 1
+  m of thatch cuts that "by 40% to about 13%", and 0.5 m of modern polyurethane would give "6%" (Max Fordham): a real
+  break and fix pair. Uses, never to be mixed: Wikipedia has food kept cold plus "faloodeh" and sorbets, Iranica says
+  "they were not used for refrigerating foodstuff" (summer ice sold locally, fāluda): say cold drinks and faloodeh.
+  How many: Iran's heritage body registered "56" in 2005, and a 2007-2009 survey found 129 sites, 104 with remains:
+  111 domed, 12 underground, 6 walled (Iranica). Survivors: Meybod, a "popular tourist destination", and Abarkuh,
+  where "three domes are still visible" (Iranica); Kerman's ("over a mile above sea level", Wikipedia; Lonely Planet's
+  "Yakkchal Moayedi" in Kerman is a title only: the same one? check), Sirjan's twin and Kowsar (Wikipedia). The end:
+  "Until the 1960s," then mechanical refrigeration reached most of Iran (Iranica). A modern twist for line 12 or 13:
+  "Daytime radiative freezing" (Science Bulletin 70, 2025, Hong Kong University's Xiaobo Yin group; online Oct 17
+  2024) opens on "Ancient Persians were known to harvest ice from shallow pools", and in a field test in Xi'an, China,
+  a radiative-cooling setup kept water "below freezing for most of the day, even when the ambient temperature exceeded
+  0 °C" (air 8 °C at 14:00, the water's highest 2 °C), passively, with no power ("without relying on evaporative
+  cooling or the need for additional energy expenditure"): the same sky trick, now by day; the ice itself was
+  "difficult to visualize", so say "water kept below freezing", not "ice in the sun". Chain (breaks marked "ours" are
+  ours): A1, a lone mud-brick cone as tall as a six-storey block in a shimmering summer desert, then the cool dark
+  inside, where blocks of ice glisten at the bottom of a deep pit. A2, a desert town at noon in high summer, a dusty
+  lane, a clay water jar baking in the sun. A3, a clear winter night under a sky full of stars, qanat water spreads
+  into a long shallow pool and a thin skin of ice creeps across it. A4, the low winter sun comes up and the thin ice
+  turns to slush. A5, a tall mud-brick wall along the pool's south side throws it into shadow and the ice stays hard;
+  workers seen from behind break it into blocks before sunrise. A6 (ours), blocks carried into an ordinary flat-roofed
+  house drip into puddles by noon. B1, the blocks slide into the deep pit under the great dome, layered with straw,
+  walls two metres thick at the base. B2, months later in summer, meltwater gleams at the bottom of the pit and the
+  ice heap has shrunk. B3, workers seen from behind heap a thick layer of straw thatch over the ice. B4, the tease of
+  whatever LINEUP build follows it. B5, the Meybod ice house today, visitors seen from behind walking into its cool
+  dome on a hot day. B6 (ours), funny slow motion: on a hot day a man drops a whole tray of ice cubes, they bounce
+  across the kitchen tiles and the cat leaps away. Free pictures: none found in one search (Alamy is paid; World
+  History Encyclopedia's image 11521 and Archnet's site 6442: licences not read).
+  [Wikipedia, Yakhchāl](https://en.wikipedia.org/wiki/Yakhch%C4%81l),
+  [Encyclopaedia Iranica, Yakčāl](https://iranicaonline.org/articles/yakcal),
+  [Max Fordham, Mar 27 2018](https://www.maxfordham.com/practice-people/journal/the-physics-of-freezing-at-the-iranian-yakhchal),
+  [Pochee, Gunstone, Wilton, PLEA 2017](https://discovery-pp.ucl.ac.uk/10087896/1/PLEA%202017%20paper%20Pochee%20Gunstone%20Wilton.pdf),
+  [Hackaday, Feb 18 2026](https://hackaday.com/2026/02/18/ancient-ice-production),
+  [Science Bulletin, Daytime radiative freezing](https://yizlab.github.io/assets/pdf/Science%20Bulletin%20-%202025%20-%20Daytime%20radiative%20freezing.pdf),
+  [Lonely Planet, Yakkchal Moayedi](https://www.lonelyplanet.com/points-of-interest/yakkchal-moayedi/1444564)
+- A trend-watching page, no footage (new to these notes): Videos.com, a daily recap of "top TikTok and YouTube
+  videos", today's headed "November 28, 2026 Recap"; no operator named, no licence or free-use terms, outside clips
+  open behind a "You're leaving Videos.com" notice. Use it to see what is big today, never as a source.
+  [Videos.com](https://videos.com/)
+
+Checked, nothing new
+- Higgsfield past Nov 28: the "33 days", "14 days", "4K unlimited 11 days" and plan-change pages, trak.in,
+  seedance2.so's status page and the IndieHackers OpenArt guide came up again: Nov 28 stands, pictures only from
+  tomorrow.
+- Free video after today: PixVerse's own guide (Nov 23 2026, terms checked Nov 6) matches these notes: PixVerse 30
+  credits a day plus 60 at sign-up, up to 540p, watermark-free only on paid plans; Runway 125 one-time credits with a
+  watermark; Leonardo 150 fast tokens a day, creations public; Pika no included credits; so no hosted free tier is
+  unwatermarked and cleared for commercial use ("A free sign-up with zero included generations is not a free video
+  workflow"). DiGen's "free unlimited image to video" guide (May 11, upd. Aug 19 2026) is out of date: its Grok
+  "Unlimited" row (Grok Imagine video left the free plan in March, these notes), Adobe's offer "Unlimited until Jan
+  2026". Resourify's November deals list no free video window (CapCut's "7-day Free Trial", Magnific's "20 Free
+  Image/Day", PixVerse "Free Credits"); movoa's "Unlimited AI Video Generator Black Friday" is a title only.
+  [PixVerse, Nov 23 2026](https://pixverse.ai/en/blog/best-free-ai-video-generator),
+  [DiGen, upd. Aug 19 2026](https://resource.digen.ai/free-unlimited-image-to-video-ai/),
+  [Resourify, November 2026](https://resourify.com/topics/generative-ai)
+- Trend pages: Epidemic Sound's TikTok page is still its Nov 13 edition (Mariah Carey's "It's TIME!", "Why would I
+  deceive you?", the bicep heart, the fancy-cafe stool meme: none fits a build); Spotify Wrapped still has no
+  confirmed date on the pages here (Official Charts, Techloy); Dazed's thoughtfluencer piece and startups.co.uk's
+  November trends are here already; CapCut's "micro-storytelling reels under 7 seconds" page is a vendor page (a title
+  only).
+- Free stock video roundups (Colorlib, Wyzowl, TechRadar, Vecteezy, Coverr's 2026 and commercial-use pages) and
+  Magnific's video launch post (the Freepik rename, here already): nothing new.
+- Record openings: Gordie Howe and the Danjiang Bridge again; titles only, not read: the Hampton Roads Bridge-Tunnel's
+  2025 milestones, the Hangzhou Bay railway bridge's seven main towers, the new Harbor Bridge at Corpus Christi (Arup,
+  TxDOT), the Pattullo Bridge replacement.
