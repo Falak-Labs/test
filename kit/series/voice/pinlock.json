@@ -1,0 +1,1023 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.1185,
+ "gap": 0.35,
+ "duration": 66.009,
+ "words": 180,
+ "words_per_sec": 2.73,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.978,
+   "text": "Y'all, your front door is guarded by... five little pins.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.751
+    },
+    {
+     "w": "your",
+     "start": 0.93,
+     "end": 1.144
+    },
+    {
+     "w": "front",
+     "start": 1.252,
+     "end": 1.359
+    },
+    {
+     "w": "door",
+     "start": 1.43,
+     "end": 1.645
+    },
+    {
+     "w": "is",
+     "start": 1.717,
+     "end": 1.788
+    },
+    {
+     "w": "guarded",
+     "start": 1.967,
+     "end": 2.146
+    },
+    {
+     "w": "by...",
+     "start": 2.289,
+     "end": 2.584
+    },
+    {
+     "w": "five",
+     "start": 2.709,
+     "end": 2.995
+    },
+    {
+     "w": "little",
+     "start": 3.067,
+     "end": 3.281
+    },
+    {
+     "w": "pins.",
+     "start": 3.567,
+     "end": 4.068
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.29,
+   "end": 8.478,
+   "text": "Without them, any key would turn it. So how does it know your key?",
+   "words": [
+    {
+     "w": "Without",
+     "start": 4.505,
+     "end": 4.791
+    },
+    {
+     "w": "them,",
+     "start": 4.934,
+     "end": 5.328
+    },
+    {
+     "w": "any",
+     "start": 5.435,
+     "end": 5.649
+    },
+    {
+     "w": "key",
+     "start": 5.721,
+     "end": 5.864
+    },
+    {
+     "w": "would",
+     "start": 5.935,
+     "end": 6.007
+    },
+    {
+     "w": "turn",
+     "start": 6.079,
+     "end": 6.222
+    },
+    {
+     "w": "it.",
+     "start": 6.293,
+     "end": 6.633
+    },
+    {
+     "w": "So",
+     "start": 6.776,
+     "end": 6.919
+    },
+    {
+     "w": "how",
+     "start": 7.134,
+     "end": 7.277
+    },
+    {
+     "w": "does",
+     "start": 7.348,
+     "end": 7.42
+    },
+    {
+     "w": "it",
+     "start": 7.491,
+     "end": 7.563
+    },
+    {
+     "w": "know",
+     "start": 7.634,
+     "end": 7.706
+    },
+    {
+     "w": "your",
+     "start": 7.849,
+     "end": 8.063
+    },
+    {
+     "w": "key?",
+     "start": 8.135,
+     "end": 8.635
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.791,
+   "end": 13.479,
+   "text": "First, springs push the pins down into the plug that turns, so it's stuck.",
+   "words": [
+    {
+     "w": "First,",
+     "start": 8.931,
+     "end": 9.539
+    },
+    {
+     "w": "springs",
+     "start": 9.718,
+     "end": 10.147
+    },
+    {
+     "w": "push",
+     "start": 10.219,
+     "end": 10.362
+    },
+    {
+     "w": "the",
+     "start": 10.433,
+     "end": 10.505
+    },
+    {
+     "w": "pins",
+     "start": 10.576,
+     "end": 10.863
+    },
+    {
+     "w": "down",
+     "start": 10.97,
+     "end": 11.077
+    },
+    {
+     "w": "into",
+     "start": 11.184,
+     "end": 11.292
+    },
+    {
+     "w": "the",
+     "start": 11.363,
+     "end": 11.435
+    },
+    {
+     "w": "plug",
+     "start": 11.578,
+     "end": 11.721
+    },
+    {
+     "w": "that",
+     "start": 11.828,
+     "end": 11.935
+    },
+    {
+     "w": "turns,",
+     "start": 12.15,
+     "end": 12.626
+    },
+    {
+     "w": "so",
+     "start": 12.675,
+     "end": 12.722
+    },
+    {
+     "w": "it's",
+     "start": 12.794,
+     "end": 12.937
+    },
+    {
+     "w": "stuck.",
+     "start": 13.008,
+     "end": 13.509
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 13.792,
+   "end": 16.89,
+   "text": "But then even your own key couldn't turn it!",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.363,
+     "end": 14.506
+    },
+    {
+     "w": "then",
+     "start": 14.577,
+     "end": 14.792
+    },
+    {
+     "w": "even",
+     "start": 14.935,
+     "end": 15.149
+    },
+    {
+     "w": "your",
+     "start": 15.257,
+     "end": 15.364
+    },
+    {
+     "w": "own",
+     "start": 15.436,
+     "end": 15.65
+    },
+    {
+     "w": "key",
+     "start": 15.793,
+     "end": 16.008
+    },
+    {
+     "w": "couldn't",
+     "start": 16.079,
+     "end": 16.365
+    },
+    {
+     "w": "turn",
+     "start": 16.437,
+     "end": 16.651
+    },
+    {
+     "w": "it!",
+     "start": 16.723,
+     "end": 17.081
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.203,
+   "end": 22.604,
+   "text": "So each pin is cut in two... and your key lifts every cut to the plug's edge. Click!",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.418,
+     "end": 17.632
+    },
+    {
+     "w": "each",
+     "start": 17.704,
+     "end": 17.918
+    },
+    {
+     "w": "pin",
+     "start": 17.99,
+     "end": 18.204
+    },
+    {
+     "w": "is",
+     "start": 18.276,
+     "end": 18.347
+    },
+    {
+     "w": "cut",
+     "start": 18.419,
+     "end": 18.562
+    },
+    {
+     "w": "in",
+     "start": 18.669,
+     "end": 18.777
+    },
+    {
+     "w": "two...",
+     "start": 18.92,
+     "end": 19.492
+    },
+    {
+     "w": "and",
+     "start": 19.528,
+     "end": 19.563
+    },
+    {
+     "w": "your",
+     "start": 19.635,
+     "end": 19.778
+    },
+    {
+     "w": "key",
+     "start": 19.849,
+     "end": 19.992
+    },
+    {
+     "w": "lifts",
+     "start": 20.064,
+     "end": 20.422
+    },
+    {
+     "w": "every",
+     "start": 20.493,
+     "end": 20.708
+    },
+    {
+     "w": "cut",
+     "start": 20.851,
+     "end": 21.065
+    },
+    {
+     "w": "to",
+     "start": 21.101,
+     "end": 21.137
+    },
+    {
+     "w": "the",
+     "start": 21.208,
+     "end": 21.28
+    },
+    {
+     "w": "plug's",
+     "start": 21.351,
+     "end": 21.637
+    },
+    {
+     "w": "edge.",
+     "start": 21.709,
+     "end": 22.21
+    },
+    {
+     "w": "Click!",
+     "start": 22.353,
+     "end": 22.71
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 22.917,
+   "end": 25.436,
+   "text": "But what if your neighbor's key lifts them the same?",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.019,
+     "end": 23.162
+    },
+    {
+     "w": "what",
+     "start": 23.233,
+     "end": 23.305
+    },
+    {
+     "w": "if",
+     "start": 23.376,
+     "end": 23.448
+    },
+    {
+     "w": "your",
+     "start": 23.519,
+     "end": 23.662
+    },
+    {
+     "w": "neighbor's",
+     "start": 23.805,
+     "end": 24.092
+    },
+    {
+     "w": "key",
+     "start": 24.199,
+     "end": 24.306
+    },
+    {
+     "w": "lifts",
+     "start": 24.378,
+     "end": 24.556
+    },
+    {
+     "w": "them",
+     "start": 24.592,
+     "end": 24.735
+    },
+    {
+     "w": "the",
+     "start": 24.807,
+     "end": 24.878
+    },
+    {
+     "w": "same?",
+     "start": 25.093,
+     "end": 25.594
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 25.749,
+   "end": 29.784,
+   "text": "So the pins come in different lengths, for thousands of different keys.",
+   "words": [
+    {
+     "w": "So",
+     "start": 25.942,
+     "end": 26.085
+    },
+    {
+     "w": "the",
+     "start": 26.157,
+     "end": 26.3
+    },
+    {
+     "w": "pins",
+     "start": 26.443,
+     "end": 26.586
+    },
+    {
+     "w": "come",
+     "start": 26.657,
+     "end": 26.8
+    },
+    {
+     "w": "in",
+     "start": 26.872,
+     "end": 26.944
+    },
+    {
+     "w": "different",
+     "start": 27.087,
+     "end": 27.23
+    },
+    {
+     "w": "lengths,",
+     "start": 27.301,
+     "end": 27.945
+    },
+    {
+     "w": "for",
+     "start": 28.052,
+     "end": 28.159
+    },
+    {
+     "w": "thousands",
+     "start": 28.231,
+     "end": 28.732
+    },
+    {
+     "w": "of",
+     "start": 28.803,
+     "end": 28.875
+    },
+    {
+     "w": "different",
+     "start": 29.018,
+     "end": 29.161
+    },
+    {
+     "w": "keys.",
+     "start": 29.232,
+     "end": 29.876
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 30.097,
+   "end": 34.121,
+   "text": "But the very first pin locks were giant blocks of wood!",
+   "words": [
+    {
+     "w": "But",
+     "start": 30.785,
+     "end": 30.928
+    },
+    {
+     "w": "the",
+     "start": 31.0,
+     "end": 31.143
+    },
+    {
+     "w": "very",
+     "start": 31.214,
+     "end": 31.429
+    },
+    {
+     "w": "first",
+     "start": 31.5,
+     "end": 31.715
+    },
+    {
+     "w": "pin",
+     "start": 31.787,
+     "end": 32.001
+    },
+    {
+     "w": "locks",
+     "start": 32.073,
+     "end": 32.359
+    },
+    {
+     "w": "were",
+     "start": 32.43,
+     "end": 32.645
+    },
+    {
+     "w": "giant",
+     "start": 32.716,
+     "end": 33.074
+    },
+    {
+     "w": "blocks",
+     "start": 33.145,
+     "end": 33.432
+    },
+    {
+     "w": "of",
+     "start": 33.503,
+     "end": 33.575
+    },
+    {
+     "w": "wood!",
+     "start": 33.646,
+     "end": 34.29
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 34.434,
+   "end": 40.016,
+   "text": "So by the eighteen sixties, an American father and son shrank it to a flat metal key.",
+   "words": [
+    {
+     "w": "So",
+     "start": 34.648,
+     "end": 34.791
+    },
+    {
+     "w": "by",
+     "start": 34.863,
+     "end": 35.006
+    },
+    {
+     "w": "the",
+     "start": 35.077,
+     "end": 35.149
+    },
+    {
+     "w": "eighteen",
+     "start": 35.221,
+     "end": 35.65
+    },
+    {
+     "w": "sixties,",
+     "start": 35.721,
+     "end": 36.436
+    },
+    {
+     "w": "an",
+     "start": 36.472,
+     "end": 36.508
+    },
+    {
+     "w": "American",
+     "start": 36.579,
+     "end": 37.009
+    },
+    {
+     "w": "father",
+     "start": 37.152,
+     "end": 37.438
+    },
+    {
+     "w": "and",
+     "start": 37.509,
+     "end": 37.581
+    },
+    {
+     "w": "son",
+     "start": 37.724,
+     "end": 38.01
+    },
+    {
+     "w": "shrank",
+     "start": 38.153,
+     "end": 38.439
+    },
+    {
+     "w": "it",
+     "start": 38.511,
+     "end": 38.582
+    },
+    {
+     "w": "to",
+     "start": 38.654,
+     "end": 38.725
+    },
+    {
+     "w": "a",
+     "start": 38.797,
+     "end": 38.868
+    },
+    {
+     "w": "flat",
+     "start": 38.94,
+     "end": 39.226
+    },
+    {
+     "w": "metal",
+     "start": 39.297,
+     "end": 39.512
+    },
+    {
+     "w": "key.",
+     "start": 39.583,
+     "end": 40.156
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 40.329,
+   "end": 44.546,
+   "text": "Hit follow, 'cause next we're building the bridge Sydney calls the Coathanger.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 40.472,
+     "end": 40.615
+    },
+    {
+     "w": "follow,",
+     "start": 40.758,
+     "end": 41.33
+    },
+    {
+     "w": "'cause",
+     "start": 41.473,
+     "end": 41.688
+    },
+    {
+     "w": "next",
+     "start": 41.759,
+     "end": 42.046
+    },
+    {
+     "w": "we're",
+     "start": 42.117,
+     "end": 42.332
+    },
+    {
+     "w": "building",
+     "start": 42.475,
+     "end": 42.618
+    },
+    {
+     "w": "the",
+     "start": 42.654,
+     "end": 42.689
+    },
+    {
+     "w": "bridge",
+     "start": 42.761,
+     "end": 42.975
+    },
+    {
+     "w": "Sydney",
+     "start": 43.047,
+     "end": 43.333
+    },
+    {
+     "w": "calls",
+     "start": 43.476,
+     "end": 43.619
+    },
+    {
+     "w": "the",
+     "start": 43.691,
+     "end": 43.834
+    },
+    {
+     "w": "Coathanger.",
+     "start": 43.905,
+     "end": 44.692
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 44.859,
+   "end": 50.94,
+   "text": "The answer? It doesn't! It only checks the heights... so any copy of your key works.",
+   "words": [
+    {
+     "w": "The",
+     "start": 45.058,
+     "end": 45.201
+    },
+    {
+     "w": "answer?",
+     "start": 45.272,
+     "end": 45.844
+    },
+    {
+     "w": "It",
+     "start": 45.987,
+     "end": 46.13
+    },
+    {
+     "w": "doesn't!",
+     "start": 46.202,
+     "end": 46.846
+    },
+    {
+     "w": "It",
+     "start": 47.632,
+     "end": 47.704
+    },
+    {
+     "w": "only",
+     "start": 47.775,
+     "end": 47.918
+    },
+    {
+     "w": "checks",
+     "start": 47.99,
+     "end": 48.205
+    },
+    {
+     "w": "the",
+     "start": 48.276,
+     "end": 48.348
+    },
+    {
+     "w": "heights...",
+     "start": 48.419,
+     "end": 49.027
+    },
+    {
+     "w": "so",
+     "start": 49.099,
+     "end": 49.313
+    },
+    {
+     "w": "any",
+     "start": 49.456,
+     "end": 49.599
+    },
+    {
+     "w": "copy",
+     "start": 49.671,
+     "end": 49.885
+    },
+    {
+     "w": "of",
+     "start": 49.957,
+     "end": 50.028
+    },
+    {
+     "w": "your",
+     "start": 50.1,
+     "end": 50.171
+    },
+    {
+     "w": "key",
+     "start": 50.243,
+     "end": 50.386
+    },
+    {
+     "w": "works.",
+     "start": 50.458,
+     "end": 51.03
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.253,
+   "end": 55.841,
+   "text": "Five pins, thousands of keys, and a trick about four thousand years old.",
+   "words": [
+    {
+     "w": "Five",
+     "start": 51.316,
+     "end": 51.53
+    },
+    {
+     "w": "pins,",
+     "start": 51.673,
+     "end": 52.246
+    },
+    {
+     "w": "thousands",
+     "start": 52.344,
+     "end": 52.773
+    },
+    {
+     "w": "of",
+     "start": 52.845,
+     "end": 52.916
+    },
+    {
+     "w": "keys,",
+     "start": 53.095,
+     "end": 53.381
+    },
+    {
+     "w": "and",
+     "start": 53.488,
+     "end": 53.56
+    },
+    {
+     "w": "a",
+     "start": 53.631,
+     "end": 53.703
+    },
+    {
+     "w": "trick",
+     "start": 53.774,
+     "end": 53.989
+    },
+    {
+     "w": "about",
+     "start": 54.06,
+     "end": 54.347
+    },
+    {
+     "w": "four",
+     "start": 54.418,
+     "end": 54.561
+    },
+    {
+     "w": "thousand",
+     "start": 54.704,
+     "end": 55.062
+    },
+    {
+     "w": "years",
+     "start": 55.133,
+     "end": 55.348
+    },
+    {
+     "w": "old.",
+     "start": 55.419,
+     "end": 55.849
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.154,
+   "end": 59.62,
+   "text": "And congrats, you just built a pin tumbler lock yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.277,
+     "end": 56.297
+    },
+    {
+     "w": "congrats,",
+     "start": 56.369,
+     "end": 57.263
+    },
+    {
+     "w": "you",
+     "start": 57.442,
+     "end": 57.585
+    },
+    {
+     "w": "just",
+     "start": 57.656,
+     "end": 57.799
+    },
+    {
+     "w": "built",
+     "start": 57.907,
+     "end": 58.014
+    },
+    {
+     "w": "a",
+     "start": 58.085,
+     "end": 58.157
+    },
+    {
+     "w": "pin",
+     "start": 58.264,
+     "end": 58.372
+    },
+    {
+     "w": "tumbler",
+     "start": 58.443,
+     "end": 58.729
+    },
+    {
+     "w": "lock",
+     "start": 58.801,
+     "end": 59.015
+    },
+    {
+     "w": "yourself.",
+     "start": 59.123,
+     "end": 59.802
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.933,
+   "end": 66.0,
+   "text": "Five tiny pins guarding your home... and the spare key is under the doormat.",
+   "words": [
+    {
+     "w": "Five",
+     "start": 60.281,
+     "end": 60.889
+    },
+    {
+     "w": "tiny",
+     "start": 61.032,
+     "end": 61.318
+    },
+    {
+     "w": "pins",
+     "start": 61.461,
+     "end": 61.819
+    },
+    {
+     "w": "guarding",
+     "start": 61.89,
+     "end": 62.177
+    },
+    {
+     "w": "your",
+     "start": 62.248,
+     "end": 62.32
+    },
+    {
+     "w": "home...",
+     "start": 62.391,
+     "end": 62.981
+    },
+    {
+     "w": "and",
+     "start": 63.668,
+     "end": 63.696
+    },
+    {
+     "w": "the",
+     "start": 63.768,
+     "end": 63.839
+    },
+    {
+     "w": "spare",
+     "start": 63.911,
+     "end": 64.197
+    },
+    {
+     "w": "key",
+     "start": 64.34,
+     "end": 64.555
+    },
+    {
+     "w": "is",
+     "start": 64.626,
+     "end": 64.769
+    },
+    {
+     "w": "under",
+     "start": 64.841,
+     "end": 65.055
+    },
+    {
+     "w": "the",
+     "start": 65.127,
+     "end": 65.198
+    },
+    {
+     "w": "doormat.",
+     "start": 65.27,
+     "end": 66.128
+    }
+   ]
+  }
+ ]
+}
