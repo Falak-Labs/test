@@ -1,12 +1,12 @@
-# Last Yallah Say posting run 2026-11-27T16:36:53+00:00
+# Last Yallah Say posting run 2026-11-28T00:16:06+00:00
 
 - ma: Buffer channels: youtube (Yallah Say 🇲🇦), tiktok (yallah.say), instagram (yallahsayma)
-- ep22 ma.instagram: handed to Buffer, goes out Sat 28 Nov 13:01 (id 6b09b1a7bb117e5ba7619c7e)
-- ep22 ma.tiktok: handed to Buffer, goes out Sat 28 Nov 13:01 (id 6b09b1a734d224b14a9ce31c)
+- ep23 ma.instagram: handed to Buffer, goes out Sat 28 Nov 18:30 (id 6b0a1d4770e80ae8f1b9d978)
+- ep23 ma.tiktok: handed to Buffer, goes out Sat 28 Nov 18:32 (id 6b0a1d4741454797ead6bb3f)
+- ep24 ma.instagram: handed to Buffer, goes out Sat 28 Nov 21:31 (id 6b0a1d48eada83daa6ae2dd3)
+- ep24 ma.tiktok: handed to Buffer, goes out Sat 28 Nov 21:31 (id 6b0a1d4923fb5b7700044ea5)
 - pa: Buffer channels: youtube (Yalla Say 🇵🇸), tiktok (yallahsaypa), instagram (yallahsaypa)
-- ep22 pa.instagram: handed to Buffer, goes out Sat 28 Nov 13:32 (id 6b09b1a9b83ec61257e3872e)
-- ep22 pa.tiktok: handed to Buffer, goes out Sat 28 Nov 13:30 (id 6b09b1a9b83ec61257e38779)
-- ep23 pa.instagram: handed to Buffer, goes out Sat 28 Nov 18:00 (id 6b09b1aa32c212878fe7f143)
-- ep23 pa.tiktok: handed to Buffer, goes out Sat 28 Nov 18:02 (id 6b09b1aa015034238d41989b)
-- ma: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=899, "24h"; r=585; t=26526, "30d"; r=2848; t=2103168; ratelimit-policy="15m"; q=1
-- pa: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=898, "24h"; r=583; t=26525, "30d"; r=2843; t=2103166; ratelimit-policy="15m"; q=1
+- ep24 pa.instagram: handed to Buffer, goes out Sat 28 Nov 21:00 (id 6b0a1d4970e80ae8f1b9d9c3)
+- ep24 pa.tiktok: handed to Buffer, goes out Sat 28 Nov 21:00 (id 6b0a1d4a2a2e4f66cae5277a)
+- ma: 6 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=144; t=898, "24h"; r=594; t=86398, "30d"; r=2842; t=2075615; ratelimit-policy="15m"; q=1
+- pa: 4 Buffer API requests this run; allowance left: buffer-ratelimit-upgrade="15m", "24h", "30d"; buffer-ratelimit-upgrade-link=https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade; ratelimit="15m"; r=146; t=900, "24h"; r=596; t=86400, "30d"; r=2839; t=2075614; ratelimit-policy="15m"; q=1
