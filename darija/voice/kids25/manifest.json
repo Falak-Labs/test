@@ -15,16 +15,8 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 134,
+ "requested_characters": 26,
  "recorded_this_run": [
-  "p01k",
-  "p02k",
-  "p03k",
-  "p04k",
-  "p05k",
-  "w5",
-  "v1",
-  "Lw",
   "Asl",
   "Lsl"
  ],
@@ -106,19 +98,19 @@
    "id": "Asl",
    "speaker": "A",
    "voice": "tJHJUEHzOkMoPmJJ5jo2",
-   "text": "Stum... uck.",
-   "characters": 12,
+   "text": "Stum... mick.",
+   "characters": 13,
    "model": "eleven_v4",
-   "seconds": 2.0
+   "seconds": 2.4
   },
   {
    "id": "Lsl",
    "speaker": "L",
    "voice": "Nggzl2QAXh3OijoXD116",
-   "text": "Stum... uck.",
-   "characters": 12,
+   "text": "Stum... mick.",
+   "characters": 13,
    "model": "eleven_v4",
-   "seconds": 2.32
+   "seconds": 2.4
   }
  ]
 }
