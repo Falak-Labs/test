@@ -26,6 +26,15 @@
    "dueAt": "2026-11-29T16:30:00.000Z",
    "mode": "customScheduled",
    "created": "2026-11-27T22:20:38+00:00"
+  },
+  "ar.tiktok": {
+   "id": "6b0a4e61eada83daa6c12b78",
+   "channel": "6af2ce9262b70b94b0dedc45",
+   "service": "tiktok",
+   "status": "scheduled",
+   "dueAt": "2026-11-29T11:30:00.000Z",
+   "mode": "customScheduled",
+   "created": "2026-11-28T03:45:35+00:00"
   }
  }
 }
