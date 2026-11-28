@@ -2,29 +2,31 @@
  "title": "Emergency",
  "slow_take": true,
  "word": {
-  "full": "Ambulance",
+  "full": "Emergency",
   "parts": [
-   "Am",
-   "bu",
-   "lance"
+   "E",
+   "mer",
+   "gen",
+   "cy"
   ],
   "say": [
-   "AM",
-   "byuh",
-   "luns"
+   "ih",
+   "MUR",
+   "jun",
+   "see"
   ],
   "tts": [
-   "Am",
-   "byuh",
-   "lunce"
+   "Ih",
+   "mur",
+   "jen",
+   "see"
   ],
-  "slow": "Am... byoo... lunss.",
-  "mean": "الإسعاف",
+  "slow": "Ih... mur... jen... see.",
+  "mean": "المستعجلات",
   "ar": {
-   "ma": "آمبيولَنس",
-   "pa": "آمبيولَنس"
-  },
-  "teacher_says": "Ambulance!"
+   "ma": "إمَرجِنسي",
+   "pa": "إمَرجِنسي"
+  }
  },
  "en": [
   [
@@ -55,14 +57,14 @@
  "ma": {
   "hook": [
    [
-    "Ambulance fiha sout mkhebbi ma mktoubch! Fin howa?",
-    "Ambulance فيها صوت مخبي ما مكتوبش! فين هو؟",
-    "Ambulance has a hidden sound that isn't written! Where is it?"
+    "Emergency fiha G w C, walakin ma katnte9homch G w K! Kifach?",
+    "Emergency فيها G و C، ولكن ما كتنطقهمش G و K! كيفاش؟",
+    "Emergency has a G and a C, but you don't say them like G and K! How?"
    ]
   ],
   "board": [
-   "الإسعاف",
-   "= ? ? ?"
+   "المستعجلات",
+   "= ? ? ? ?"
   ],
   "ph": [
    [
@@ -93,32 +95,32 @@
    {}
   ],
   "sent": {
-   "en": "The ambulance is coming now!",
+   "en": "Call the emergency number!",
    "hot": [
-    1
+    2
    ],
-   "dz": "L-is3af jay daba!",
-   "ar": "الإسعاف جاي دابا!"
+   "dz": "3iyet l-ra9m d l-mosta3jalat!",
+   "ar": "عيط للرقم د المستعجلات!"
   },
   "ah": [
-   "آم",
-   "بيو",
-   "لنس"
+   "إ",
+   "مر",
+   "جن",
+   "سي"
   ],
-  "mean": "الإسعاف",
-  "teacher_slow": "Am... byoo... lunss."
+  "mean": "المستعجلات"
  },
  "pa": {
   "hook": [
    [
-    "Ambulance fiha sot mkhabba mish maktub! Wen huwwe?",
-    "Ambulance فيها صوت مخبّى مش مكتوب! وين هو؟",
-    "Ambulance has a hidden sound that isn't written! Where is it?"
+    "Emergency fiha G w C, bas ma bnilfozhom G w K! Kif?",
+    "Emergency فيها G و C، بس ما بنلفظهم G و K! كيف؟",
+    "Emergency has a G and a C, but you don't say them like G and K! How?"
    ]
   ],
   "board": [
-   "الإسعاف",
-   "= ? ? ?"
+   "الطوارئ",
+   "= ? ? ? ?"
   ],
   "ph": [
    [
@@ -149,19 +151,19 @@
    {}
   ],
   "sent": {
-   "en": "The ambulance is coming now!",
+   "en": "Call the emergency number!",
    "hot": [
-    1
+    2
    ],
-   "dz": "El-is3af jay hal2et!",
-   "ar": "الإسعاف جاي هلأ!"
+   "dz": "Ittasil 3a ra2m et-tawari2!",
+   "ar": "اتصل ع رقم الطوارئ!"
   },
   "ah": [
-   "آم",
-   "بيو",
-   "لنس"
+   "إ",
+   "مر",
+   "جن",
+   "سي"
   ],
-  "mean": "الإسعاف",
-  "teacher_slow": "Am... byoo... lunss."
+  "mean": "الطوارئ"
  }
 }
