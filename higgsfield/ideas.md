@@ -7038,3 +7038,129 @@ Checked, nothing new
   already as a candidate.
 - Trend and feature searches: year-ahead lists (kineclip, Opus, Fluxnote, Epidemic Sound, vidIQ), Dazed's
   "thoughtfluencers" piece and Made on YouTube (Sep 2026) again: here already or titles only.
+
+## 2026-11-28 07:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build for both channels: the Øresund Link between Copenhagen and Malmö, the bridge that dives into the
+  sea (new to LINEUP and these notes). A 7.8 km bridge from Sweden lands on a man-made island, Peberholm, and the
+  road and railway go down into a 4 km tunnel to Denmark; it "opened to traffic on 1 July 2000" (Ingenia; ICE the
+  same). Why the Danish half is a tunnel: Copenhagen Airport is on the shore, and a bridge "would pose a risk to air
+  traffic to and from the airport", the tunnel also "to provide a clear channel for ships in good weather or bad"
+  and "to prevent ice floes from blocking the strait" (Wikipedia); ICE says a bridge "could interfere with radio
+  signals from nearby Copenhagen Airport", Wikipedia's Peberholm page that it "would have interfered with
+  obstacle-free zones around" the airport, and Ingenia that the "shallow waters" made an immersed tunnel "the
+  natural choice": a line says "the airport next door" and stops there. The tunnel is "twenty prefabricated
+  concrete tunnel elements", each "176 metres long, 49 metres wide, approximately 9 metres high" and "around 57,000
+  tonnes" (Ingenia; Wikipedia "55,000 tonnes each": check), "cast at a purpose-built factory 12 km north of the
+  tunnel site", each in "eight sections" of "one 30 hour cycle"; "the basin was flooded until the element floated",
+  "four tug boats" towed it "almost completely immersed" across a lane of "some 40,000 ships per year", and it was
+  "lowered into the tunnel trench with enormous precision, using GPS satellite navigation"; inside are "five
+  parallel tunnel tubes – two for the railway, two for the motorway plus a small tunnel as an escape gallery" (all
+  Ingenia). The real break: "on 4 August 1998" "a tunnel element was flooded while being positioned in the tunnel
+  trench" when a bulkhead "succumbed to the water pressure", the element ended "several metres out of position" and
+  the repair took "eight weeks" (Ingenia), yet the link "was finished three months ahead of schedule" (Wikipedia).
+  A second real limit: "the link must not block the water flow through Øresund", so reshaping cut the blocking
+  "from 2.3 per cent of the water flow to 0.5 per cent" and "compensation dredging" made up the rest; of the "7.5
+  million cubic metres" dredged, "All dredged seabed material was reused in the reclaimed areas" (Ingenia). The
+  bridge: a 490 m main span between pylons "204 metres above sea level", "the tallest concrete structures in
+  Sweden", the motorway on the upper deck and the railway below, the parts "produced on land and transported to the
+  bridge by the large floating crane, the 'Svanen'", "like a giant Lego kit" (Ingenia), which let the spans grow
+  "from the planned 120 m" (Wikipedia). Cable figures, never to be mixed: "2 x 80 cables" of "68–73 strands",
+  "Total cable weight: 2,150 tons" (Øresundsbron) against "80 pairs of cables" and "about 2,300 tonnes" (Ingenia).
+  The ending: Peberholm, built "from dredged material", "has been allowed to develop its own nature without active
+  human intervention" (Wikipedia); "As of June 2007" Lund biologists "had registered 454 species of plants", the
+  European green toad, "rare and protected in Denmark", counted "2,500 individuals" in 2007-08, and "Only
+  biologists are allowed one annual visit" (Wikipedia, Peberholm; Lund's 1999-2020 plant list on Dryad may hold a
+  newer count: not read; Øresundsbron's own tunnel and Peberholm pages did not render here). Traffic: "In 2024,
+  approximately 7.6m vehicle travelled across the bridge" (ICE) and "15 million rail passengers" in 2024
+  (Wikipedia). Cost "3 billion USD" (Ingenia, no price year: check). Chain (breaks marked "ours" are ours): A1, at
+  sunset a long bridge races out over the sea, lands on a small green island, and its road and railway dive under
+  the water and vanish, slow aerial. A2, an airport right on the shore, planes landing low over the strait, big
+  ships in the channel, ice floes in winter. A3, a giant concrete tunnel element floats out of a flooded dock and
+  four tugs pull it almost fully under water. A4, a bulkhead bursts and water pours into an element as it is
+  lowered, it settles crooked on the seabed. A5, elements lowered one after another into a trench in the seabed, a
+  cutaway of the five tubes. A6, a model of the strait shows the new piers and island damming the flow. B1, the
+  design slimmed and extra dredging, the dug-up seabed piled into a new island. B2, a ship drifting toward a bridge
+  pier in fog (ICE: islands were built round the piers "to protect against ships hitting the structure"). B3, the
+  floating crane sets a whole span in place, two pylons 204 m high, cars above and a train below. B4, the tease of
+  whatever LINEUP build follows it. B5, the link today at dusk, a train and cars crossing, the island wild and green
+  with seabirds, a toad in the grass. B6 (ours), funny slow motion: a dachshund sprints along a garden bench, leaps
+  off its end into a kids' play tunnel and pops out the other side covered in leaves. Europe after a run of Gulf
+  candidates (barjeel, One Za'abeel), so good for the mix; no faces, no operator logos. Free pictures:
+  Øresundsbron's image bank "may be used freely for editorial purposes" with a "[photographer's name]/Øresundsbron"
+  credit, so not for our posts; Good Free Photos calls a dusk photo by Teresita Gerit "CC0 / Public Domain" but
+  credits her Unsplash page (check the Unsplash listing first); EU Space's Sentinel-2 "image of the day" shows the
+  hook itself ("The bridge connects to a tunnel which the road and railway enters on a small artificial island")
+  with a credit but no licence on the page, so export our own view from the Copernicus Browser under the Sentinel
+  data licence (the Nov 24 15:05 entry), for B5, not the opener. Sharing Sweden's Øresund page (published Mar 21
+  2025) has a photo "seen from the Malmö seaside" credited "Silvia Man/imagebank.sweden.se" and asks users to
+  "include the name of the photographers", but its terms page could not be read from here: check before any use.
+  [Ingenia](https://ingenia.org.uk/articles/the-oeresund-bridge-linking-scandinavia-to-the-continent/),
+  [ICE](https://ice.org.uk/what-is-civil-engineering/infrastructure-projects/oresund-bridge),
+  [Wikipedia (Wikiwand), Øresund Bridge](https://www.wikiwand.com/en/%C3%98resund_Bridge),
+  [Wikipedia, Peberholm](https://en.wikipedia.org/wiki/Peberholm),
+  [Øresundsbron, pylons and cable stays](https://www.oresundsbron.com/about-oresundsbron/about-us/facts-about-oresundsbron/bridge-pylons-and-cable-stays),
+  [Øresundsbron, image bank](https://www.oresundsbron.com/about-oresundsbron/press-and-news/oresundsbrons-image-bank),
+  [Good Free Photos](https://www.goodfreephotos.com/public-domain-images/%C3%98resund-Bridge-connecting-malmo-to-denmark.jpg.php),
+  [EU Space, Sentinel-2 image of the day](https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-day/crystal-clear-view-oresund-bridge),
+  [Dryad, Peberholm plants 1999-2020](https://datadryad.org/dataset/doi:10.5061/dryad.2fqz612sp),
+  [Sharing Sweden, The Öresund Bridge](https://sharingsweden.se/materials/the-oresund-bridge)
+- A candidate everyday build for both channels: the cat's eye, the road stud that cleans itself each time a tyre
+  runs over it (new to LINEUP and these notes). Percy Shaw "of Boothtown, Halifax" "patented his invention (patents
+  Nos. 436,290 and 457,536)" in 1934 and on "15 March 1935, founded Reflecting Roadstuds Limited in Halifax"
+  (Wikipedia; Calderdale Museums the same; 99% Invisible says "invented in 1933": a line says "the 1930s" or 1934).
+  The origin is told two ways: "One foggy night" "he noticed a cat, sitting on a fence" on a road with "a very steep
+  drop at one side which Percy called 'the death drop'", where the only light came from tram lines that shone "like
+  twin silver ribbons" (Calderdale Museums), against "he had been using the polished steel rails to navigate at
+  night" with the name from "the eyeshine reflecting from the eyes of a cat" (Wikipedia): tell it as the story he
+  told. How it shines: glass with "a metal coating to make it mirror-like" on its back sends the light back where it
+  came from, "a lens with a mirror on the back" like a cat's eye (Institute of Making), "two pairs of
+  retroreflectors set into a white rubber dome, mounted in a cast iron housing" (Wikipedia). The problem it fixed:
+  exposed road beads "lost all reflectivity in heavy rain, as the film of water deflected the light" (Institute of
+  Making). The trick: "the cast iron base collects rain water" and "the cat's eyes are pushed down into the
+  rainwater, cleaning the glass beads" (Institute of Making); "A fixed rubber wiper cleans the surface of the
+  reflectors as they sink below the surface of the road" (Wikipedia); the rubber "closed like an eyelid over the
+  glass stud when a car tyre ran over it" (Calderdale). It lives under trucks: metal "kerbs" protect the dome and
+  give "tactile and audible feedback for wandering drivers" (Wikipedia), "a sturdy body that can take the abuse of
+  being driven over by heavy trucks" (Hackaday, Dec 8 2025). At first "it was difficult for the company to sell
+  their new idea to road constructors and the government"; later it was "making a million roadstuds a year" (no
+  year given), at "1 Mill Lane, Boothtown, Halifax" (Wikipedia; whether it still makes them there: check). UK
+  colours: white for the centre line or lane lines, red for the left edge, amber by the central reservation, green
+  for "a line that may be crossed, such as a slip road or lay-by" (Wikipedia); much of Europe adds blue for police
+  lay-bys (99% Invisible, 2017). Fun extras: the workshop "was built around Percy's favourite tree which was left to
+  grow through the factory roof" (Calderdale); "In 2006, Cat's eyes were voted one of Britain's top 10 design
+  icons" (Wikipedia). Leave out Wikipedia's wartime-blackout and crash stories. Chain (breaks marked "ours" are
+  ours): A1, a black foggy country road at night, two rows of tiny glowing eyes in the tarmac curving round a bend,
+  then macro of one glass eye in its rubber dome. A2, 1930s Yorkshire, a steep road with a drop at one side, an old
+  car's dim lamps in fog, tram rails gleaming. A3, a cat on a fence, its eyes flashing back in the headlights, then
+  a glass lens with a mirror back bouncing the beam straight home. A4, rain: a film of water and road muck on the
+  glass and the shine dies. A5, a tyre rolls over, the rubber folds like an eyelid, the glass dips into rainwater in
+  the iron base and comes up clean. A6 (ours), a heavy truck and a snowplough grind over the road. B1, the iron
+  housing and its kerbs take the blow, the dome pops back up. B2, road builders seen from behind shaking their heads
+  at a sample on a desk. B3, rows of white, red, amber and green studs sorting a motorway at night. B4, the tease of
+  whatever LINEUP build follows it. B5, a wet motorway at night, studs shining far ahead as cars pass, then the
+  Halifax workshop with a tree growing through its roof. B6 (ours), funny slow motion: a cat on a garden wall at
+  night, eyes flashing in a torch beam, yawns, and the "lights" go out as it shuts its eyes. Free pictures: the
+  Science Museum Group's 1980 "Catseye" pad "with glass bi-convex reflectors" (1984-538/9) has its photo under "CC
+  BY-NC-SA 4.0", so not for our posts (its title and details fields are CC0, its text CC BY 4.0); nothing else
+  looked for (the James Dyson Foundation's cat's eye page could not be read from here).
+  [Wikipedia, Cat's eye (road)](https://en.wikipedia.org/wiki/Cat%27s_eye_(road)),
+  [Calderdale Museums, Percy Shaw](https://museums.calderdale.gov.uk/percy-shaw),
+  [Institute of Making, Cat's Eyes](https://www.instituteofmaking.org.uk/materials-library/material/cats-eyes),
+  [Wikipedia, Reflecting Roadstuds Ltd](https://en.wikipedia.org/wiki/Reflecting_Roadstuds_Ltd),
+  [Hackaday, Dec 8 2025](https://hackaday.com/2025/12/08/the-engineering-that-makes-a-road-cats-eye-self-cleaning),
+  [99% Invisible, Jul 24 2017](https://99percentinvisible.org/article/decoding-cats-eyes-global-color-guide-reflective-road-markers/),
+  [Science Museum Group, Catseye pad](https://collection.sciencemuseumgroup.org.uk/objects/co18724/catseye-reflex-road-stud-pad-with-glass-bi-convex-reflectors)
+
+Checked, nothing new
+- Higgsfield past Nov 28: the "33 days", "14 days", "7-day bonus", "11 days 4K" and plan-change pages, trak.in,
+  Dreamina's pricing page and an IndieHackers guide to OpenArt came up again: Nov 28 stands, pictures only from
+  tomorrow.
+- Trend lists (Virlo's November page and its Nov 16 week, SocialPilot, Gelato, SocialBee, Later, Hootsuite, que.es)
+  and Made on YouTube 2026 coverage (TechCrunch, 9to5Google, Uppbeat, Digital Trends on Shorts seasons): here
+  already.
+- Free AI image roundups: WaveSpeed, zsky and Krea here already; WP Tavern, Dupple, Pixelbin and Overchat titles
+  only.
+- Record openings: the Huajiang bridge (build 93) and the Gordie Howe bridge again; Arup's "Finland's new
+  Kirjalansalmi bridge opens to traffic" (a title only, a regional bridge).
