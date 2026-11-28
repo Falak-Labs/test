@@ -1,0 +1,7 @@
+bahrainwtc_ar_sa: 74.92s, 2248 frames
+cover out/bahrainwtc_ar_sa/cover.png: ['مركز البحرين', 'التجاري العالمي'] (frame 0 of the video)
+video done in 431s
+audio done
+final out/bahrainwtc_ar_sa/bahrainwtc_ar_sa_final.mp4
+QA  duration 74.93s  loudness -14.0 LUFS  true peak -2.2 dBFS  1080x1920 @ 30/1  frames 2248
+QA sheet out/bahrainwtc_ar_sa/qa_sheet.png

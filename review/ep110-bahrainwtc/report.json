@@ -1,0 +1,238 @@
+{
+ "slug": "ep110-bahrainwtc",
+ "kit": "bahrainwtc",
+ "langs": {
+  "en": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] Y'all, two towers in Bahrain hold... three giant wind turbines.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] But these turbines are bolted in place. So which way should they face?",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] First, they face north, into the steady sea breeze off the Gulf.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] But a side wind hits the blades at a slant!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] So the sail-shaped towers bend the wind, and aim it straight at the blades.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] But in strong winds, the two towers sway... and yank on the bridges!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] So rubber bearings at the ends let the towers move half a meter.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] But wind is stronger up high, so the top one would race.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] So the towers narrow as they rise, and all three spin about the same.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] Hit follow, 'cause next we're building a lock that only your key can open.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] The answer? A later study says the other way round, they'd make fourteen percent more!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] Two thousand eight, and each rotor is twenty-nine meters wide... over two buses!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] And congrats, you just built the Bahrain World Trade Center yourself.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] Three turbines making power from the wind... [laughs harder] and Dad still yells about one light left on.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 69.87,
+   "lufs": -14.0,
+   "peak": -2.1,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "mix_word_errors": "17/182",
+   "mix_lines_off": [
+    "L 1 3 diff  | Yo, 2 towers in Bahrain hold 3 giant winter bonds.",
+    "L 3 2 diff  | First, they face North into the steady seabreeze off the gulf.",
+    "L 5 2 diff  | So the sail-shaped tower's been the wind and aim it straight at the blades.",
+    "L 8 2 diff  | But when the stronger up high, so the top one would race.",
+    "L10 1 diff  | Hit follow cuz next we're building a lock that only your key can open.",
+    "L11 2 diff  | The answer? A later study says the other way round. They'd make 14% more.",
+    "L12 5 diff  | 2008 and each rotor is 29 meters wide over two buses"
+   ],
+   "size_mb": 17.7,
+   "cover": true
+  },
+  "ar": {
+   "ok": true,
+   "lines": [
+    {
+     "line": "01",
+     "text": "[amused] يا جماعة، برجين في البحرين شايلين بينهم... ثلاث مراوح هوا عملاقة!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "02",
+     "text": "[playful] بس المراوح مثبّتة مكانها، ما تلف. طيب وين المفروض توجّهها؟",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "03",
+     "text": "[amused] أول شي، وجّهوها للشمال، على نسمة البحر اللي تجي من الخليج.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "04",
+     "text": "[chuckles] بس لا جا الهوا من الجنب، يضرب الريش بالعرض!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "05",
+     "text": "[amused] فالبرجين اللي شكلهم مثل الشراع يلوون الهوا، ويوجّهونه على الريش عدل.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "06",
+     "text": "[playful] بس مع الهبّة، البرجين يتمايلون... ويشدّون الجسور!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "07",
+     "text": "[amused] فحطّوا وسايد مطاط في أطراف الجسور، تخلّي البرجين يتحركون نص متر.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "08",
+     "text": "[chuckles] بس الهوا فوق أقوى، يعني المروحة اللي فوق بتطير طيران!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "09",
+     "text": "[amused] فالبرجين يضعفون كل ما ارتفعوا، والثلاث يلفّون تقريبًا بنفس السرعة.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "10",
+     "text": "[playful] اضغط متابعة، لأن الجاي بنبني قفل ما يفتحه إلا مفتاحك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "11",
+     "text": "[amused] الجواب؟ دراسة بعدين قالت... لو كانوا بالعكس، كان طلّعوا أربعتعش بالمية زيادة! [chuckles]",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "12",
+     "text": "[proudly] ألفين وثمانية، وكل مروحة عرضها تسعة وعشرين متر... أطول من باصين!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "13",
+     "text": "[warmly] ومبروك، كذا سويت لك مركز البحرين التجاري العالمي بيدك.",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    },
+    {
+     "line": "14",
+     "text": "[laughs] ثلاث مراوح تسوي كهربا من الهوا... [laughs harder] وأبوك للحين يطفّي الأنوار وراك ويقول: الكهربا مو ببلاش!",
+     "heard": null,
+     "problems": null,
+     "seed": null
+    }
+   ],
+   "duration": 74.93,
+   "lufs": -14.0,
+   "peak": -2.2,
+   "frame": "1080x1920",
+   "fps": "30/1",
+   "issues": [],
+   "size_mb": 18.5,
+   "cover": true
+  }
+ }
+}
