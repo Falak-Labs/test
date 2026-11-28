@@ -1,0 +1,35 @@
+episode: 110
+date: 2026-11-29
+video:
+  en: media/ep110-bahrainwtc-en.mp4
+  ar: media/ep110-bahrainwtc-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-30T00:00:00Z"    # 16:00 PT Sun Nov 29, after 109 (109's line 10 promises it)
+  title: "Bahrain World Trade Center: Two Towers Holding Wind Turbines 🌬️"
+  text: |
+    These two towers in Bahrain hold… three giant wind turbines. 🌬️
+    The Bahrain World Trade Center in Manama hangs a turbine 29 m wide on each of three sky bridges, and they first spun together in 2008. The turbines are bolted in place, so they face north into the steady sea breeze off the Gulf, and the sail-shaped towers bend the wind so it hits the blades straight on. Rubber bearings at the bridge ends let the swaying towers move half a meter, and the towers narrow as they rise, so all three turbines get about the same wind. The twist: a 2014 study says that the other way round, they'd make 14% more energy.
+    Would you work between the blades? 👇
+  next: "a lock that only your key can open 🔑"
+  seo: "How the Bahrain World Trade Center's wind turbines work: two 50-floor, 240 m sail-shaped towers in Manama, designed by Atkins, hold three 225 kW turbines with 29 m rotors on sky bridges between them, aligned north toward the steady breeze from the Gulf; they turned together for the first time in April 2008. The rotors are fixed and cannot turn to face the wind, so the elliptical towers act like aerofoils that funnel the breeze and straighten it to strike the blades head on; bearings where the bridges meet the towers let the towers move about half a metre relative to each other, and the towers taper with height so the three turbines see similar wind speeds. They were designed to supply about 11 to 15 percent of the towers' power. A 2014 Eindhoven University of Technology (TU/e) study found they would produce about 14 percent more wind energy if the towers were positioned the other way round."
+  tags:
+    tiktok: "#bahrain #windpower #skyscraper #engineering #learnontiktok"
+    instagram: "#bahrain #windpower #skyscraper #engineering #howitworks"
+    youtube: "#bahrain #windpower #engineering"
+ar:
+  at:
+    default: "2026-11-29T20:00:00Z"    # Instagram 12:00 PT Sun Nov 29 = 23:00 Riyadh, after 109 (09:00 PT)
+    tiktok: "2026-11-29T23:30:00Z"     # 15:30 PT: 3 h after 109's Arabic TikTok (12:30 PT)
+  title: "مركز البحرين التجاري العالمي: برجين شايلين مراوح هوا 🌬️"
+  text: |
+    برجين في البحرين شايلين بينهم... ثلاث مراوح هوا عملاقة! 🌬️
+    مركز البحرين التجاري العالمي في المنامة معلّق على كل جسر من جسوره الثلاثة مروحة عرضها ٢٩ متر، ولفّوا مع بعض أول مرة سنة ٢٠٠٨. المراوح مثبّتة ما تلف، فوجّهوها للشمال على نسمة البحر من الخليج، والبرجين اللي شكلهم شراع يلوون الهوا ويوجّهونه على الريش عدل. ووسايد مطاط في أطراف الجسور تخلّي البرجين يتحركون نص متر مع الهوا، والبرجين يضعفون كل ما ارتفعوا عشان الثلاث مراوح ياخذون تقريباً نفس الهوا. والمفاجأة: دراسة سنة ٢٠١٤ تقول لو كانوا بالعكس كان طلّعوا ١٤٪ زيادة!
+    منشن أبوك اللي يطفّي الأنوار وراك 👇
+  next: "قفل ما يفتحه إلا مفتاحك 🔑"
+  seo: "كيف تشتغل مراوح الهوا في مركز البحرين التجاري العالمي: برجين في المنامة طول كل واحد ٢٤٠ متر و٥٠ دور، شكلهم مثل الشراع، صممتهم شركة أتكنز، وبينهم ثلاث جسور على كل جسر مروحة هوا قطرها ٢٩ متر وقوتها ٢٢٥ كيلوواط، موجّهة للشمال على نسمة الخليج، ولفّت الثلاث مع بعض أول مرة في أبريل ٢٠٠٨. المراوح ثابتة ما تقدر تلف على الهوا، فالبرجين يشتغلون مثل الجناح ويلوون الهوا ويضربونه على الريش عدل، ووسايد في أطراف الجسور تخلّي البرجين يتحركون حوالي نص متر عن بعض، والبرجين يضعفون مع الارتفاع عشان الثلاث مراوح ياخذون هوا متقارب. انحسبت تعطي حوالي ١١ إلى ١٥٪ من كهربا البرجين، ودراسة من جامعة آيندهوفن سنة ٢٠١٤ لقت إنهم لو كانوا بالعكس كان طلّعوا حوالي ١٤٪ طاقة زيادة."
+  tags:
+    tiktok: "#البحرين #المنامة #طاقة_الرياح #هندسة #تعلم_على_التيك_توك"
+    instagram: "#البحرين #المنامة #طاقة_الرياح #هندسة #معلومات"
+    youtube: "#البحرين #طاقة_الرياح #هندسة"

@@ -1,0 +1,35 @@
+episode: 109
+date: 2026-11-29
+video:
+  en: media/ep109-eastgate-en.mp4
+  ar: media/ep109-eastgate-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-29T21:30:00Z"    # 13:30 PT Sun Nov 29, after 108 (108's line 10 promises it)
+  title: "Eastgate Centre: The Office That Copied a Termite Mound 🐜"
+  text: |
+    This office in Zimbabwe copied… a termite mound. 🐜
+    Glass offices bake like ovens, but Harare's Eastgate Centre (1996) has no ordinary air conditioning. Thick concrete walls and small windows behind shady ledges soak up the day's heat slowly. At night, big fans push cold night air through hollow floors, about ten fresh air changes an hour, and the concrete cools down. By day, small fans pull air through those cold floors, and the warm air rises up tall shafts and out of 48 brick chimneys on the roof. The twist: scientists later found termite mounds mostly breathe, like a lung. It copied them wrong, and it still works.
+    Would you work there? 👇
+  next: "two towers holding giant wind turbines 🌬️"
+  seo: "How the Eastgate Centre in Harare, Zimbabwe, keeps cool without conventional air conditioning: designed by architect Mick Pearce with engineers Arup and opened in 1996, it is two long concrete buildings linked by a glass-roofed atrium. Precast concrete walls with protruding ledges shade small windows and store heat; at night high-volume fans give about ten air changes an hour through hollow floor slabs lined with concrete teeth, cooling the structure for the next day; by day low-volume fans draw air through the cooled floors, and warm air rises through internal stacks to 48 brick chimneys on the red tiled roof. It was inspired by the old idea that termite mounds work as air conditioners; later research by Scott Turner and a Harvard team (2015) found the mounds mostly ventilate, breathing in and out once a day like a lung."
+  tags:
+    tiktok: "#architecture #termites #biomimicry #engineering #learnontiktok"
+    instagram: "#architecture #biomimicry #zimbabwe #engineering #howitworks"
+    youtube: "#architecture #biomimicry #engineering"
+ar:
+  at:
+    default: "2026-11-29T17:00:00Z"    # Instagram 09:00 PT Sun Nov 29 = 20:00 Riyadh, after 108 (06:00 PT)
+    tiktok: "2026-11-29T20:30:00Z"     # 12:30 PT: 6 h after 108's Arabic TikTok (06:30 PT), 2 h after the show's 10:30 PT
+  title: "مركز إيستغيت: عمارة قلّدت بيت النمل الأبيض 🐜"
+  text: |
+    عمارة مكاتب في زيمبابوي... قلّدت بيت النمل الأبيض! 🐜
+    مكاتب الزجاج تصير فرن مع الشمس، بس مركز إيستغيت في هراري (١٩٩٦) ما فيه تكييف عادي. جدرانه خرسانة سميكة ودرايشه صغيرة مستخبية ورا حواف تظللها، فتشرب حرارة النهار على مهلها. وبالليل مراوح كبيرة تدز هوا الليل البارد داخل أرضيات مجوّفة، والهوا يتجدد عشر مرات بالساعة، فتبرد الخرسانة. وبالنهار مراوح صغيرة تسحب الهوا من الأرضيات الباردة، والهوا الحار يطلع في ممرات طويلة ويخرج من ٤٨ مدخنة طوب فوق السطح. والمفاجأة: العلماء لقوا إن بيت النمل يتنفّس مثل الرية... يعني قلّدوه غلط، وللحين شغّال!
+    منشن خويك اللي يتهاوش على ريموت المكيّف 👇
+  next: "برجين شايلين مراوح هوا عملاقة 🌬️"
+  seo: "كيف يبرد مركز إيستغيت في هراري بزيمبابوي بدون تكييف عادي: صممه المعماري ميك بيرس مع مهندسين شركة آروب وافتتح سنة ١٩٩٦، وهو عمارتين طويلة من الخرسانة بينهم ساحة بسقف زجاج. جدران الخرسانة والحواف البارزة تظلل الدرايش الصغيرة وتخزّن الحرارة، وبالليل مراوح كبيرة تجدد الهوا حوالي عشر مرات بالساعة داخل أرضيات مجوّفة فيها أسنان خرسانة فتبرد العمارة لليوم الجاي، وبالنهار مراوح صغيرة تسحب الهوا من الأرضيات الباردة، والهوا الحار يطلع في ممرات داخلية ويخرج من ٤٨ مدخنة طوب فوق السطح. الفكرة جات من اعتقاد قديم إن بيت النمل الأبيض يشتغل مثل المكيف، بس أبحاث سكوت تيرنر وفريق من هارفارد سنة ٢٠١٥ لقت إن بيت النمل يتنفّس مرة باليوم مثل الرية."
+  tags:
+    tiktok: "#عمارة #النمل_الأبيض #زيمبابوي #هندسة #تعلم_على_التيك_توك"
+    instagram: "#عمارة #النمل_الأبيض #تكييف #هندسة #معلومات"
+    youtube: "#عمارة #النمل_الأبيض #هندسة"

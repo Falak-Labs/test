@@ -1,0 +1,35 @@
+episode: 111
+date: 2026-11-29
+video:
+  en: media/ep111-pinlock-en.mp4
+  ar: media/ep111-pinlock-ar.mp4
+hold: [en.youtube, ar.youtube]    # both channels are verified (youtube/desk.yml): YouTube goes up in Studio through the main chat
+studio: 1
+en:
+  at: "2026-11-30T02:30:00Z"    # 18:30 PT Sun Nov 29, after 110 (110's line 10 promises it)
+  title: "Pin Tumbler Lock: Five Little Pins Guard Your Front Door 🔑"
+  text: |
+    Your front door is guarded by… five little pins. 🔑
+    Springs push each pin down into the plug, so it can't turn. Every pin is cut in two, and the right key lifts every cut exactly to the plug's edge: click, it turns. The pins come in different lengths, so there are thousands of different keys. The first pin locks, about 4,000 years ago, were giant blocks of wood; by the 1860s an American father and son, the Yales, had shrunk the idea to a small flat metal key. The twist: the lock doesn't know your key, it only checks the heights, so any copy works.
+    Who in your house always loses the keys? 👇
+  next: "the bridge Sydney calls the Coathanger 🌉"
+  seo: "How a pin tumbler lock works: a plug that turns sits inside a housing, and stacks of pins pushed down by springs cross the gap between them so the plug cannot turn. Each stack is a key pin and a driver pin; the right key lifts every gap between them exactly to the shear line, the edge of the plug, and the plug turns. Key pins of different lengths, typically five or six of them, make thousands of possible keys. Large wooden pin locks are about 4,000 years old; Linus Yale Sr. made a modern pin tumbler lock in the 1840s and his son Linus Yale Jr. patented the small flat key with serrated edges in the 1860s. The lock only checks the heights cut into the key, so any accurate copy opens it."
+  tags:
+    tiktok: "#lock #keys #howitworks #engineering #learnontiktok"
+    instagram: "#lock #keys #homesecurity #engineering #howitworks"
+    youtube: "#lock #keys #engineering"
+ar:
+  at:
+    default: "2026-11-29T23:00:00Z"    # Instagram 15:00 PT Sun Nov 29 = 02:00 Riyadh Mon, after 110 (12:00 PT)
+    tiktok: "2026-11-30T02:30:00Z"     # 18:30 PT: 3 h after 110's Arabic TikTok (15:30 PT)
+  title: "قفل الدبابيس: خمس دبابيس تحرس بابك 🔑"
+  text: |
+    باب بيتكم يحرسه... خمس دبابيس صغيرة! 🔑
+    زنبركات تدز كل دبوس لتحت داخل قلب القفل فما يلف. وكل دبوس مقصوص نصين، والمفتاح الصح يرفع كل قصّة بالضبط لحافة قلب القفل: طق، ويلف. والدبابيس أطوالها مختلفة، فصار فيه آلاف المفاتيح المختلفة. وأول أقفال بالدبابيس قبل حوالي أربعة آلاف سنة كانت قطع خشب ضخمة، وفي القرن التسعطعش صغّرها أب وولده في أمريكا لمفتاح حديد مسطّح. والمفاجأة: القفل ما يعرف مفتاحك، يشيك على الأطوال بس، فأي نسخة تفتحه!
+    منشن اللي يدوّر على المفتاح وهو في جيبه 👇
+  next: "جسر يسمّونه أهل سيدني: الشمّاعة 🌉"
+  seo: "كيف يشتغل قفل الدبابيس: فيه قلب يلف داخل جسم القفل، وأعمدة دبابيس تدزها زنبركات لتحت وتقطع الفاصل بينهم فما يلف القلب. كل عمود دبوسين، دبوس المفتاح ودبوس فوقه، والمفتاح الصح يرفع الفاصل بينهم بالضبط لحافة القلب فيلف. ودبابيس المفتاح أطوالها مختلفة، وغالباً خمسة أو ستة، فيطلع آلاف المفاتيح. وأقفال الدبابيس الخشب الكبيرة عمرها حوالي أربعة آلاف سنة، ولينوس ييل الأب سوّى قفل دبابيس حديث في الأربعينات من القرن التسعطعش، وولده لينوس ييل الابن سجّل المفتاح الصغير المسطّح المسنّن في الستينات. والقفل يشيك على الأطوال المقصوصة في المفتاح بس، فأي نسخة مضبوطة تفتحه."
+  tags:
+    tiktok: "#قفل #مفاتيح #كيف_يشتغل #هندسة #تعلم_على_التيك_توك"
+    instagram: "#قفل #مفاتيح #معلومات_عامة #هندسة #معلومات"
+    youtube: "#قفل #مفاتيح #هندسة"
