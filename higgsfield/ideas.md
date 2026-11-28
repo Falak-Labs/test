@@ -6534,3 +6534,78 @@ Checked, nothing new
 - Could not be read from here: Google Patents' pages for build 117's float patents, US2911759A "Manufacture of flat
   glass" and GB769692A "Improvements in or relating to the manufacture of flat glass" (titles from search results
   only; the fetch timed out waiting for a permission), and for US4030631A "Easy-open ecology end".
+
+## 2026-11-28 00:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build, Capital Gate in Abu Dhabi, the tower that leans on purpose (a Gulf build for Kef Tenbeni; new to
+  LINEUP and these notes; it answers 61, the Leaning Tower of Pisa, and shares Abu Dhabi with 102 and 113, so not next
+  to them). The record: Guinness's "Farthest manmade leaning building", "an inclination of 18 degrees", "Who: ADNEC"
+  (Guinness); "lean 18 degrees westwards", "certified ... by Guinness World Records", "more than four times that of
+  ... Leaning Tower of Pisa" (Khaleej Times, Jun 5 2010). The Pisa multiple clashes ("more than three times" in
+  Wikipedia's intro, "four times" Trimble, "about five times" CNN): script "more than four times Pisa's lean". Size:
+  "160-metre (524.9 ft)", "35-storey" (Khaleej Times). Fix 1, the ground: "490 piles, drilled 20 - 30 meters
+  underground" (Khaleej Times), "490 pilings" "30 meters (98 ft) below ground" (Wikipedia), "over 30 meters deep"
+  (CNN): script "490 piles, up to 30 metres down". Fix 2, the hook picture: the concrete core was built with a
+  "vertical pre-camber", a "slight opposite lean", and the weight of the floors and the steel grid "slowly straightened
+  it out" (Wikipedia); "world's first 'pre-cambered core'", "straightened as the building rose" (CNN); "146 vertical
+  steel tendons" in the core (Wikipedia). Break, the skin: on the steel diagrid "none of the panels is coplanar to
+  another, each node is unique" (Trimble, Jan 20 2023); the counts clash ("720 sections", Wikipedia; "702 nodes",
+  Trimble; "728 individually made glass panels", CNN): script "more than 700 pieces, no two alike". Fix, the sun: a
+  "wave-shaped 'Splash' structure", "an attractive sun shade to the tower" (Trimble), a "curving mesh skin that
+  'splashes' against the building" (CNN). Dates: work began "September 2007" (Wikipedia), "opened in 2011" (JSTOR's
+  blog, Aug 19 2014). Chain: a leaning tower's weight would tip it over (A2) → 490 deep piles (A3) → floors stacked on
+  the leaning side would bend the core further (A4) → the core poured leaning the other way, pulled straight by each
+  new floor (A5) → no two pieces of the leaning skin alike (A6) → every piece modelled and cut to fit (B1) → the
+  desert sun on a wall of glass (B2) → the Splash shade (B3) → B5 the real tower at dusk, people from behind. A1: a
+  skyscraper leaning far out over the city at sunset as if caught mid-fall. B6: funny slow motion, a man tips his
+  chair back on two legs a little too far. No hotel name, logos or flags in the picture; free photos for lines 12-13
+  not checked (a GPT Image 2.6 Sunburst still otherwise).
+  [Guinness World Records](https://guinnessworldrecords.com/world-records/farthest-manmade-leaning-building),
+  [Khaleej Times, Jun 5 2010](https://www.khaleejtimes.com/uae/adnecs-capital-gate-achieves-guinness-record),
+  [Wikipedia, Capital Gate](https://en.wikipedia.org/wiki/Capital_Gate),
+  [Trimble, Jan 20 2023](https://www.trimble.com/blog/construction/en-US/article/capital-gate-tower),
+  [CNN Travel](https://amp.cnn.com/cnn/travel/article/capital-gate-abu-dhabi),
+  [JSTOR blog, Aug 19 2014](https://about.jstor.org/blog/capital-gate-the-leaning-tower-of-abu-dhabi/)
+- A candidate build, the Shinkansen 500 Series, the bullet train with a kingfisher's beak (a "nature fixed it" hook;
+  new to LINEUP and these notes; Japan like 104, 116 and the Kansai candidate, so spaced out). The break: a train
+  racing into a tunnel drives "atmospheric pressure waves" out of the far end, "creating sonic booms heard by
+  residents 400 meters away" (Trellis, Oct 19 2012, updated Jul 24 2024); the "compression wave" or "micro-pressure
+  wave", called "tunnel don" (GIGAZINE, Nov 10 2017). The two pages' noise limits ("70dBa", Trellis; "75 dB",
+  GIGAZINE) are both real: Japan's Shinkansen standard is "70 or less" dB in Category I areas "used mainly for
+  residential purpose" and "75 or less" in Category II, the other areas (Ministry of the Environment): script "70
+  decibels near homes" or no number. The fix: Eiji Nakatsu, a JR West engineer and "a member of the Japan Wild Bird
+  Society" (GIGAZINE; his job title differs between the pages, so none in a script), copied the kingfisher, which
+  "dives at high speed from one fluid (air) to another that is 800 times denser (water) with barely a splash"
+  (Trellis). Fix 2: the owl's "comb-like array of serrations" on a "wing-graph" pantograph (Trellis), its noise down
+  "by 30%" (GIGAZINE). Fix 3: the pantograph's base made "with reference to the Adelie penguin" (GIGAZINE); its
+  "supporting shaft" shaped like a penguin "cut wind resistance and reduced aerodynamic noise" (Suki Desu, which cites
+  no source for it; Wikipedia names no owl or penguin). Results clash: "30 percent less air resistance" (Trellis)
+  against "10% faster" and "power consumption is 15% less" (GIGAZINE), which Wikipedia matches ("reduce energy
+  consumption by 15%, increase speeds by 10%"), while Trellis gives another power figure: script "10% faster on 15%
+  less power" with Wikipedia and GIGAZINE, or no figures. In service from "March 22, 1997", "300km/h at its maximum"
+  (Trellis; Wikipedia "In service: 22 March 1997 – present"). A peg: Wikipedia has the last 500 Series sets leaving
+  service on 13 January 2027 (not quoted here; check JR West's own notice before a line or caption says it). Chain so
+  far: the boom at the tunnel mouth (A2) → the kingfisher nose (A3) → the pantograph howls in the wind (A4) →
+  owl-feather serrations (A5) → its support still drags and roars (A6) → a penguin-shaped support (B1); the fourth
+  break is still to find. A1: a kingfisher dives into a still river with barely a ripple, then a white train with the
+  same long beak shoots out of a mountain tunnel. B5: a 500 Series train bursting out of a tunnel. B6: funny slow
+  motion, a door slams and the papers on a desk across the room fly up. No faces; no railway logos.
+  [Trellis, Oct 19 2012](https://trellis.net/article/how-one-engineers-birdwatching-made-japans-bullet-train-better?page=full),
+  [GIGAZINE, Nov 10 2017](https://gigazine.net/gsc_news/en/20171110-shinkansen-500-series-biomimetics),
+  [Wikipedia, 500 Series Shinkansen](https://en.wikipedia.org/wiki/500_Series_Shinkansen),
+  [Suki Desu](https://skdesu.com/en/bullet-train-and-kingfisher/),
+  [Ministry of the Environment, railway noise](https://www.env.go.jp/en/air/noise/railway.html)
+
+Checked, nothing new
+- Higgsfield: this hour's search for unlimited Seedance past Nov 28 gave only pages already here (the 14-day, 33-day,
+  7-day bonus, 11.11 and 4K 11-day posts, the plan-change pages, trak.in): Nov 28 stands, so today is the last free
+  video day.
+- Trends and platforms: the trend search returned Virlo's November page and its week of Nov 16, SocialPilot, Gelato,
+  que.es and Kapwing, all here; the creator-feature search gave SocialBee's YouTube and Instagram pages of Nov 23,
+  custom Shorts thumbnails for every creator and Instagram's 90-minute "Features", all here. Seen as a title only: an
+  "Instagram for TV" launch in India on Nov 28 (shattered.io), not read (not our audience).
+- Could not be read from here: JRPass's "Why do Shinkansen have such long noses" page (client error), Wikipedia's
+  "File:Capital_Gate.jpg" at the address the search gave and Wikimedia Commons' "Category:Capital Gate, Abu Dhabi"
+  (both "not found" to the fetcher, the comma in the category's address may be why), so Capital Gate's free photos
+  stay unchecked: open that category in a browser and read each file's licence.
