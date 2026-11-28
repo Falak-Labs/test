@@ -1,4 +1,4 @@
-# Post status 2026-11-28T02:51:22+00:00
+# Post status 2026-11-28T07:57:44+00:00
 
 | Episode | Target | Status | Error | When / link |
 |---|---|---|---|---|
@@ -91,9 +91,16 @@
 | ep106-riyadhmetro | en.instagram | scheduled |  | 2026-11-29T14:00:00.000Z |
 | ep106-riyadhmetro | en.tiktok | scheduled |  | 2026-11-29T14:00:00.000Z |
 | ep107-chairlift | ar.instagram | scheduled |  | 2026-11-29T11:00:00.000Z |
+| ep107-chairlift | ar.tiktok | scheduled |  | 2026-11-29T11:30:00.000Z |
 | ep107-chairlift | en.instagram | scheduled |  | 2026-11-29T16:30:00.000Z |
 | ep107-chairlift | en.tiktok | scheduled |  | 2026-11-29T16:30:00.000Z |
 | ep108-resurfacer | ar.instagram | scheduled |  | 2026-11-29T14:00:00.000Z |
+| ep108-resurfacer | ar.tiktok | scheduled |  | 2026-11-29T14:30:00.000Z |
+| ep108-resurfacer | en.instagram | scheduled |  | 2026-11-29T19:00:00.000Z |
+| ep108-resurfacer | en.tiktok | scheduled |  | 2026-11-29T19:00:00.000Z |
+| ep109-eastgate | ar.instagram | scheduled |  | 2026-11-29T17:00:00.000Z |
+| ep109-eastgate | en.instagram | scheduled |  | 2026-11-29T21:30:00.000Z |
+| ep109-eastgate | en.tiktok | scheduled |  | 2026-11-29T21:30:00.000Z |
 | ep11-airplane | ar.instagram | sent |  | 2026-11-10T16:43:04.064Z https://www.instagram.com/reel/DfkW8ZJAUGA/ |
 | ep11-airplane | ar.tiktok | sent |  | 2026-11-11T03:27:42.554Z https://www.tiktok.com/@kef.tenbeni/video/7706750193227681038?utm_campaign=tt4d_open_api&utm_source=7103819247981182978 |
 | ep11-airplane | ar.youtube | sent |  | 2026-11-11T16:50:05.034Z https://www.youtube.com/shorts/AX26IJw5a7w |
@@ -529,7 +536,7 @@
 | ep98-rainvortex | en.instagram | sent |  | 2026-11-28T00:02:58.463Z https://www.instagram.com/reel/DgQ67gDoOas/ |
 | ep98-rainvortex | en.tiktok | sent |  | 2026-11-28T00:02:32.592Z https://tiktok.com/@congratsengineer/video/7713005701320183053 |
 | ep99-noodles | ar.instagram | sent |  | 2026-11-27T23:03:19.682Z https://www.instagram.com/reel/DgQ0BeKO7j9/ |
-| ep99-noodles | ar.tiktok | scheduled |  | 2026-11-28T05:30:00.000Z |
+| ep99-noodles | ar.tiktok | sent |  | 2026-11-28T05:31:52.561Z https://tiktok.com/@kef.tenbeni/video/7713090342613994783 |
 | ep99-noodles | en.instagram | sent |  | 2026-11-28T02:33:51.026Z https://www.instagram.com/reel/DgRL_S_sVAd/ |
 | ep99-noodles | en.tiktok | sent |  | 2026-11-28T02:32:05.117Z https://tiktok.com/@congratsengineer/video/7713044016710913311 |
 | sm01-survival | en.instagram | sent |  | 2026-11-21T22:45:58.891Z https://www.instagram.com/reel/DgBVWeWJ296/ |
