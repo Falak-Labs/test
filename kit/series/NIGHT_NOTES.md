@@ -2239,6 +2239,9 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   any still waits.
 - LINEUP: 109 the Eastgate Centre (Harare), 110 the Bahrain World Trade Center, 111 a pin tumbler lock appended (nine
   entries ahead of 102: 103-111).
+- Check-in 06:31Z Nov 28: all 12 Instagram + TikTok targets of 100-102 and 99's Arabic TikTok were already on Buffer at
+  their Sat Nov 28 PT times (the later runs' pushes added them), so no dispatch; no error in state (not refreshed since
+  the evening run's status look); allowance at 04:18Z Arabic 39 / English 117.
 
 ## Nov 26 2026 (show run, 13:17 PT): Survival Mode 6 "You vs the Sea" (sm06) for Fri Nov 27
 - TODAY Thu Nov 26 PT, TOMORROW Fri Nov 27 PT. Hand-off done 14:17 PT (the run took an hour).
