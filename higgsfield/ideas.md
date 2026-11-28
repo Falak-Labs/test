@@ -7394,3 +7394,75 @@ Checked, nothing new
   Made on YouTube 2026 coverage and older updates (here); sounds: tokchart's growing list, que.es's November trends,
   SocialBee and websitebuilderexpert (here), Soundstripe's and Buffer's how-to guides (titles only). No new data
   this hour.
+
+## 2026-11-28 11:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build for both channels, an everyday one: popcorn, the seed that is its own pressure cooker (new to
+  LINEUP, episodes.yml and these notes; a callback to build 76). How it works: the hard hull, the pericarp, seals a
+  little water inside the starch, "about 13 to 14.5 percent of its total weight" (Purdue, Feb 7 2020); heated, the
+  water turns to steam until "the critical temperature 180°C at which almost all of popcorn pops", at about 10 bar
+  inside ("pc ∼ 10 bar"), about ten times the air around us (our sum); the hull gives way, the starch foams and the
+  kernel "becomes two times larger and eight times less dense" (Virot and Ponomarenko, "Popcorn: critical
+  temperature, jump and sound", Journal of the Royal Society Interface, Mar 6 2015, filmed at 2,900 frames a
+  second). Their two surprises: the pop "is caused by the release of water vapour", not the hull cracking and not
+  the bounce ("it occurs before any jump"), and the kernel "jumps with a 'leg' of starch which is compressed on the
+  ground", a flip of about 300°, "slightly better than the somersault of a running gymnast", "a few millimetres high
+  to several centimetres high". The breaks, all real: some kernels never pop because "they have cuts or weaknesses in the
+  outside layer", "4 to 47 percent of kernels, dependent on variety", and "the best popping kernels have a stronger
+  pericarp, maximizing moisture retention" (Purdue's Bruce Hamaker); corn was popped "in a basket over an open flame"
+  until Charles Cretors' steam-powered machine "automatically stirred popped corn evenly in a kettle" with butter and
+  seasoning, shown on the Midway Plaisance at Chicago's World's Columbian Exposition in 1893 (Cretors' own history:
+  he began on Dec 2 1885 with a steam peanut roaster on a sidewalk; hand-pulled and horse-drawn popcorn wagons
+  followed; The Henry Ford keeps a "Steam Engine Used on Popcorn Wagon, 1910-1920"). The oldest popcorn: cobs from
+  Paredones and Huaca Prieta on the coast of Peru, "6,700 to 3,000 years ago", "a fairly minor component of the diet"
+  beside corn flour (Dolores Piperno, Smithsonian; PNAS, the year not on the page read). Chain (breaks marked "ours"
+  are ours): A1, super slow motion macro on a hot steel plate, a golden kernel splits, white starch foams out and
+  the kernel flips into the air on a leg of starch; A2, a sunny Pacific shore in ancient Peru, small corn cobs
+  drying on a woven mat beside a clay pot, wide view; A3, a cutaway of a kernel over a flame, a bead of water inside
+  turning to steam behind the glossy hull; A4, a kernel with a hairline crack hisses out a wisp of steam and stays
+  shut while the others burst around it; A5, macro of a smooth unbroken hull swelling, then the burst; A6 (ours),
+  kernels left for months in an open jar on a sunny shelf rattle in a hot pan and stay hard; B1 (ours), kernels
+  poured into a sealed glass jar; B2, a wire basket of corn shaken over an open fire, some kernels black and smoking,
+  some still hard (the burning is ours); B3, 1893, a glass-sided popcorn machine with a small brass steam engine
+  turning a stirrer in the kettle, popcorn spilling over, a fair crowd seen from behind; B4, the tease of whatever
+  LINEUP build follows it; B5, a cinema popcorn kettle tipping a golden flood into its glass case; B6 (ours), funny
+  slow motion, a pan of popcorn with the lid left off sprays kernels across a kitchen and a cat on the counter
+  ducks. No faces: people only from behind; no brand names or logos on machines, bags or the cinema. Free pictures:
+  none checked.
+  [Virot and Ponomarenko, J. R. Soc. Interface, Mar 6 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4345489),
+  [Physics Today, Feb 11 2015](https://physicstoday.aip.org/news/high-speed-cameras-reveal-secrets-of-popcorns-pop),
+  [Purdue Agriculture, Feb 7 2020](https://ag.purdue.edu/news/2020/02/whats-under-the-shell-of-this-popular-snack.html),
+  [Smithsonian, Ancient popcorn unearthed in Peru](https://www.smithsonianmag.com/smithsonian-institution/ancient-popcorn-unearthed-in-peru-81304339/),
+  [Cretors, Our History](https://www.cretors.com/our-history-revised),
+  [The Henry Ford, 00.4.2911](https://www.thehenryford.org/collections/explore/artifact/14454)
+- A free picture source with an API, new to these notes as a source (single Met photos are here already, in the
+  Pont du Gard and Brooklyn Bridge entries): The Met's Open Access. Its images are "in accordance with the Creative
+  Commons Zero (CC0) designation", for "any purpose, including commercial and noncommercial use, free of charge and
+  without requiring permission from the Museum", and "OA does not require any attribution or credit"; but "You may
+  not suggest or imply the Museum's endorsement ... nor use the Museum's trademarks without permission". Counts
+  disagree: "more than 406,000" on the policy pages, "over 492,000" on the hub. Open objects carry an "OA" icon at
+  the lower left of the image; works still in copyright are licensed through Art Resource for a fee. "The Met's Open
+  Access datasets are available through our API" (JSON, with high-resolution JPEGs for public-domain works; docs on
+  metmuseum.github.io), plus a weekly CSV on GitHub (metmuseum/openaccess) without images. Why it matters here
+  (ours): with no Chrome, a run could look up a build's old photograph by name through the API from a GitHub
+  workflow (this workspace cannot reach the site) and fetch the JPEG with scripts/ai_media.py fetch, for a
+  then-and-now B5 or the line 12-13 still. Whether its photographs are in the open set: the pages read do not say,
+  check per object.
+  [The Met, Image and Data Resources](https://www.metmuseum.org/en/policies/image-resources),
+  [The Met, Open Access](https://www.metmuseum.org/en/hubs/open-access),
+  [The Met, FAQ](https://www.metmuseum.org/en/policies/frequently-asked-questions-image-and-data-resources)
+
+Checked, nothing new
+- Higgsfield past Nov 28: the "33 days", "14 days", "4K unlimited 11 days", "7-day unlimited bonus", 11.11 deals and
+  plan-change pages again: Nov 28 stands, pictures only from tomorrow.
+- Trends: Virlo's weekly page is now "Updated November 27, 2026" (week of Nov 23): no science, explainer or
+  how-it's-made format among its named ones, and the GTA VI track is still the top sound on TikTok and Instagram
+  (here). Its "Don't Let a Fanatic See This" page (updated Nov 28; first seen Sep 21 2026, "Rising", 55 creators in
+  7 days) is a product-and-gift format with "Do NOT let a..." on screen and the sound "PHANTOM LIQUID DESIRE", with
+  no food, science or DIY examples: not for us. SocialPilot, Gelato, SocialBee, que.es and Kapwing's and NewEngen's
+  2025 pages (here).
+  [Virlo, this week](https://virlo.ai/trending-on-tiktok-this-week),
+  [Virlo, Don't Let a Fanatic See This](https://virlo.ai/trends/dont-let-a-fanatic-see-this)
+- Spotify Wrapped 2026: still only the Official Charts and Techloy pages (here), no confirmed date.
+- YouTube Shorts features: Made on YouTube 2026 coverage only (here), nothing dated November.
