@@ -5925,3 +5925,65 @@ Checked, nothing new
   the real thing, a B5 lead) was not opened.
   [Moore College archives](https://archives.moore.edu.au/Documents/Detail/sydney-harbour-bridge-meeting-of-two-sides-of-arch-with-both-creeper-cranes/134714),
   [NFSA, Closing the Harbour Bridge arch](https://www.nfsa.gov.au/collection/curated/closing-harbour-bridge-arch)
+
+## 2026-11-27 16:00 PT (hourly runner, cloud run)
+
+New content
+- Build 113, Formula Rossa: how the launch works and how the train stops (new to these notes: the Nov 26 21:00 entry
+  has the record, the specs and the goggles, and found the braking on no page). The pages read describe Intamin's
+  hydraulic launch in general, the type Wikipedia's "Accelerator Coaster" page lists Formula Rossa under, so the
+  script says "a launch like this", not that each number is Formula Rossa's own. The store: pumps "push hydraulic
+  fluid into several accumulators", each with "one side filled with hydraulic fluid and the other with nitrogen gas",
+  and "It takes approximately 45 seconds to pressurize the accumulators with all pumps operating". The pull: "a large
+  winch, around which the launch cables are wound", "driven by hydraulic turbines"; "The two launch cables are
+  attached to the sides of the catch-car", which takes the train by a "launch dog" that "drops down from the center
+  car" and is "held in place by a small magnet"; the catch car runs "underneath the coaster's train and track",
+  "towing the train down a portion of the track at high speed, with it then detaching at the last moment" (How It
+  Works). The stop: "magnetic brakes that smoothly stop the train without making contact", and "The catch-car is
+  stopped by magnetic brakes identical to those used to stop the train" (Accelerator Coaster). LINEUP's carrier line
+  has a source: a "hydraulic launch system similar in concept to those that fling fighter jets off aircraft carriers"
+  (Popular Science, 2011, on Formula Rossa), with "F1 shaped trains", a track "inspired by" Monza, "1.3-mile" long,
+  the ride "92 seconds". Fixes that fit the shot plan: nitrogen squeezed by the fluid like a giant spring (the spring
+  is ours), the winch and cables pulling a catch car that lets go at full speed, magnets that brake without touching,
+  the goggles against the sand. Shots: red race-car-shaped trains with no badge, name or horse (rule 8), riders only
+  from behind.
+  [Wikipedia, Accelerator Coaster](https://en.wikipedia.org/wiki/Accelerator_Coaster),
+  [How It Works, Rollercoaster launchers](https://howitworksdaily.com/rollercoaster-launchers),
+  [Popular Science, 2011](https://www.popsci.com/hiw-fastestcoaster)
+- Three checks before 113's lines (new to these notes). (1) "The fastest launch" needs Guinness's own words: Intamin's
+  Falcons Flight page says its "third, final, and fastest launch" is "achieving the ride's top speed of 250 km/h", so
+  the Nov 26 21:00 entry's open question (why that 250 km/h is not a launch speed) gets no help from Intamin, while
+  Guinness still verified Formula Rossa's "Highest speed achieved by a rollercoaster launch" in 2026. Its rule is on
+  no page read (from a standstill is only our guess), so the script says "0 to 240 km/h in 4.9 seconds, a Guinness
+  World Record", never "no coaster launches faster". (2) Wikipedia's Accelerator Coaster table marks Formula Rossa
+  "SBNO" (standing but not operating). Search titles only, not read: "World's Fastest Roller Coaster Mysteriously
+  Closed For Months" (Inside the Magic, Apr 2024), a "formula-rossa-reopens" story (The National, Dec 24 2024) and
+  "The world's fastest roller coaster is back" (Theme Park Insider, Dec 2024); Guinness's 2026 runs came later, so the
+  mark looks stale: check Ferrari World's ride page before a line or caption says it runs today. (3) The "20,800 hp"
+  from Formula Rossa's Wikipedia page is the figure the Accelerator Coaster page gives for Kingda Ka ("up to 20,800
+  horsepower (15.5 MW) for each launch, although a typical launch used less than 10,000 horsepower"): check a
+  Formula Rossa source (Intamin's) before a line uses it. That page's usual launch, "between 2 and 4 seconds", is
+  shorter than Formula Rossa's 4.9 s to 240 km/h, so no line borrows it.
+  [Intamin, Falcons Flight](https://www.intamin.com/project/falcons-flight/),
+  [Inside the Magic, Apr 2024](https://insidethemagic.net/2024/04/worlds-fastest-roller-coaster-formula-rossa-closed-cj1/),
+  [The National, Dec 24 2024](https://www.thenationalnews.com/lifestyle/things-to-do/2024/12/24/formula-rossa-reopens-ferrari-world-abu-dhabi),
+  [Theme Park Insider, Dec 2024](https://themeparkinsider.com/flume/202412/10629)
+
+Checked, nothing new
+- Sounds: HeyOrca's trending-audio post still carried "November 20, 2026" at about 15:55 PT (its sounds are in the
+  12:00 entry). Website Builder Expert's "The Top TikTok and Instagram Reel Sounds To Use This December" is last
+  year's ("Updated on November 28, 2025"); Dash Social's TikTok sounds page was last "Updated On July 3, 2026" (its
+  FAQ, "Most trending sounds on TikTok are not cleared for commercial use", sends brands to the Commercial Music
+  Library, as these notes already say).
+- Higgsfield: the extension and Cyber Monday searches gave only pages already here (33 days, the 7-day bonus, 11.11,
+  14 days, 4K, the new unlimited, mydealz, dio.me, zplatform): Nov 28 stands. Not read: a Notion page titled "How to
+  Get Free Unlimited AI Video Generation on 20 Top Models 2026".
+- Free footage: TechRadar's "Best free stock video site of 2026" is dated "last updated 23 April 2025" and lists
+  Pexels, Pixabay, Videezy and Videvo (all here) and Clipstill (new name here, a minor source: mostly premium with a
+  small free set, credit "not essential", and not free for a product where a clip is "the main attraction", such as
+  "a greetings card or website template"). Pollo AI's "best free unlimited ai video generators with no watermarks"
+  answered with an error. No new free source this hour.
+  [HeyOrca](https://www.heyorca.com/blog/trending-audio-for-reels-tiktok),
+  [Website Builder Expert](https://www.websitebuilderexpert.com/news/trending-social-media-sounds/),
+  [Dash Social](https://www.dashsocial.com/blog/tiktok-sounds),
+  [TechRadar](https://www.techradar.com/news/the-best-free-stock-video-sites)
