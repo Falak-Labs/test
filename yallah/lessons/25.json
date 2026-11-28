@@ -15,7 +15,7 @@
    "Stum",
    "uck"
   ],
-  "slow": "Stum... uck.",
+  "slow": "Stum... mick.",
   "mean": "الكرش",
   "ar": {
    "ma": "ستَمَك",
@@ -100,7 +100,8 @@
    "ستَم",
    "ك"
   ],
-  "mean": "الكرش"
+  "mean": "الكرش",
+  "teacher_slow": "Stum... uck."
  },
  "pa": {
   "hook": [
@@ -154,6 +155,7 @@
    "ستَم",
    "ك"
   ],
-  "mean": "البطن"
+  "mean": "البطن",
+  "teacher_slow": "Stum... uck."
  }
 }

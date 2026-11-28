@@ -8,5 +8,5 @@ A | p05k | Get well soon!
 A | w5 | Stomach!
 L | v1 | My stomach hurts a lot!
 L | Lw | Stomach!
-A | Asl | Stum... uck.
-L | Lsl | Stum... uck.
+A | Asl | Stum... mick.
+L | Lsl | Stum... mick.
