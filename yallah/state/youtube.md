@@ -64,3 +64,9 @@ Channels: Yallah Say MA @YallahSayMa (UC_c7QhlukkSAR-qHKeSvkPA), Yallah Say PS @
 - Long videos are now built with yallah/kit/tools/mklong.py (same layout as Days 4-7).
 - yallah/config.json buffer_limits.youtube is 0, so plan_day.py sends every YouTube post to Studio by itself.
 - Studio was left on The Dark Told Me (where it was at the start of the run).
+
+## Nov 27 2026 (night PT run): scheduled for Nov 29 in Studio (Pacific times)
+- ma: lesson 25 EvS25CSdX8g (5:00), 26 s8iCf2JeRoA (10:30), 27 m72ngOlz2oQ (13:30), Day 9 long gwsuAgTITlE (9:00)
+- pa: lesson 25 y16KtJsuLok (3:30), 26 AwURjZwmDzs (8:00), 27 durYvnau_Xc (11:00), Day 9 long Eb6TBvZnmRI (7:00)
+- Lesson 27's hard word changed from Ambulance to Emergency: the Moroccan teacher voice could not say "Ambulance" even as a whole word.
+- Studio was left on The Dark Told Me (where it was at the start of the run).
