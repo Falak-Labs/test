@@ -1,4 +1,4 @@
-# Yallah Say Buffer channels, checked 2026-11-27T03:24:46+00:00
+# Yallah Say Buffer channels, checked 2026-11-28T03:25:52+00:00
 
 - ma: Buffer sees youtube (Yallah Say 🇲🇦), tiktok (yallah.say), instagram (yallahsayma)
 - ma.youtube: will post to Yallah Say 🇲🇦
@@ -48,12 +48,18 @@
 - ep17 ma.tiktok: sent, sent 2026-11-26T18:34:07.442Z, https://tiktok.com/@yallah.say/video/7712549799832161549
 - ep18 ma.instagram: sent, sent 2026-11-26T21:32:19.013Z, https://www.instagram.com/reel/DgOE3I4J_6w/
 - ep18 ma.tiktok: sent, sent 2026-11-26T21:32:39.054Z, https://tiktok.com/@yallah.say/video/7712595795647679758
-- ep19 ma.instagram: scheduled, due 2026-11-27T13:00:01.000Z
-- ep19 ma.tiktok: scheduled, due 2026-11-27T13:02:02.000Z
-- ep20 ma.instagram: scheduled, due 2026-11-27T18:30:23.000Z
-- ep20 ma.tiktok: scheduled, due 2026-11-27T18:30:44.000Z
-- ep21 ma.instagram: scheduled, due 2026-11-27T21:30:55.000Z
-- ep21 ma.tiktok: scheduled, due 2026-11-27T21:32:49.000Z
+- ep19 ma.instagram: sent, sent 2026-11-27T13:11:02.302Z, https://www.instagram.com/reel/DgPwSz_s4gO/
+- ep19 ma.tiktok: sent, sent 2026-11-27T13:09:57.055Z, https://tiktok.com/@yallah.say/video/7712837272906878239
+- ep20 ma.instagram: sent, sent 2026-11-27T18:33:13.661Z, https://www.instagram.com/reel/DgQVMfhT3Xh/
+- ep20 ma.tiktok: sent, sent 2026-11-27T18:34:06.699Z, https://tiktok.com/@yallah.say/video/7712920824872848653
+- ep21 ma.instagram: sent, sent 2026-11-27T21:32:10.544Z, https://www.instagram.com/reel/DgQppg5hmAj/
+- ep21 ma.tiktok: sent, sent 2026-11-27T21:33:42.016Z, https://tiktok.com/@yallah.say/video/7712967376236547341
+- ep22 ma.instagram: scheduled, due 2026-11-28T13:01:33.000Z
+- ep22 ma.tiktok: scheduled, due 2026-11-28T13:01:03.000Z
+- ep23 ma.instagram: scheduled, due 2026-11-28T18:30:07.000Z
+- ep23 ma.tiktok: scheduled, due 2026-11-28T18:32:36.000Z
+- ep24 ma.instagram: scheduled, due 2026-11-28T21:31:37.000Z
+- ep24 ma.tiktok: scheduled, due 2026-11-28T21:31:12.000Z
 - pa: Buffer sees youtube (Yalla Say 🇵🇸), tiktok (yallahsaypa), instagram (yallahsaypa)
 - pa.youtube: will post to Yalla Say 🇵🇸
 - pa.instagram: will post to yallahsaypa
@@ -102,9 +108,15 @@
 - ep17 pa.tiktok: sent, sent 2026-11-26T16:10:21.954Z, https://tiktok.com/@yallahsaypa/video/7712512911255538957
 - ep18 pa.instagram: sent, sent 2026-11-26T19:07:32.076Z, https://www.instagram.com/reel/DgN0TzxiRey/
 - ep18 pa.tiktok: sent, sent 2026-11-26T19:07:18.258Z, https://tiktok.com/@yallahsaypa/video/7712558394686590221
-- ep19 pa.instagram: scheduled, due 2026-11-27T11:32:35.000Z
-- ep19 pa.tiktok: scheduled, due 2026-11-27T11:30:27.000Z
-- ep20 pa.instagram: scheduled, due 2026-11-27T16:01:32.000Z
-- ep20 pa.tiktok: scheduled, due 2026-11-27T16:02:53.000Z
-- ep21 pa.instagram: scheduled, due 2026-11-27T19:00:29.000Z
-- ep21 pa.tiktok: scheduled, due 2026-11-27T19:01:06.000Z
+- ep19 pa.instagram: sent, sent 2026-11-27T11:35:43.457Z, https://www.instagram.com/reel/DgPlN2JI2L1/
+- ep19 pa.tiktok: sent, sent 2026-11-27T11:31:57.242Z, https://tiktok.com/@yallahsaypa/video/7712812279997222158
+- ep20 pa.instagram: sent, sent 2026-11-27T16:08:57.748Z, https://www.instagram.com/reel/DgQEp-bOPjO/
+- ep20 pa.tiktok: sent, sent 2026-11-27T16:08:33.270Z, https://tiktok.com/@yallahsaypa/video/7712883534314179853
+- ep21 pa.instagram: sent, sent 2026-11-27T19:07:52.578Z, https://www.instagram.com/reel/DgQZFhmBSg1/
+- ep21 pa.tiktok: sent, sent 2026-11-27T19:06:35.343Z, https://tiktok.com/@yallahsaypa/video/7712929459862621454
+- ep22 pa.instagram: scheduled, due 2026-11-28T11:32:46.000Z
+- ep22 pa.tiktok: scheduled, due 2026-11-28T11:30:47.000Z
+- ep23 pa.instagram: scheduled, due 2026-11-28T16:00:05.000Z
+- ep23 pa.tiktok: scheduled, due 2026-11-28T16:02:03.000Z
+- ep24 pa.instagram: scheduled, due 2026-11-28T19:00:59.000Z
+- ep24 pa.tiktok: scheduled, due 2026-11-28T19:00:11.000Z
