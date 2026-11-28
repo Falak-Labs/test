@@ -1944,3 +1944,80 @@ jobs:
       firm, wide aerial. Shot 6 (25-30 s): funny slow motion, a man seen from behind paints the last plank of a very
       long white garden fence, steps back proudly, then turns and sees the first plank at the far end already
       peeling, the brush drops from his hand into the grass and the dog tilts its head.
+
+  - id: formularossa-A
+    build: 113
+    kit: formularossa
+    # Added Nov 27 20:05 PT by the hourly runner (cloud) with 2 jobs todo (harbourbridge-A/B): 113 is the next LINEUP
+    # idea with no pair (B4 teases 114, the soda can). The midday run of Nov 28 takes 112-114 and free Seedance video
+    # ends Nov 28, so these clips are needed by about 12:00 PT tomorrow, after harbourbridge-A/B. Facts (ideas.md Nov 26
+    # 21:00, Nov 27 16:00 and 20:00): A1: "Hydraulic Launch from 0 mph - 149.1 mph in 4.9s" (RCDB); Guinness verified
+    # "0-240km/h (149.12 mph) in just 4.9 seconds" on 30 April 2026 as the "Highest speed achieved by a rollercoaster
+    # launch". It is no longer the fastest coaster ("surpassed by Falcon's Flight on 31 December 2025", Wikipedia), so
+    # lines say "the fastest launch", never "the fastest coaster". A2 (a flat sandy island; a coaster that has to fall
+    # for its speed) is our picture of the problem: falling from rest to 240 km/h takes a drop of about 227 m without
+    # friction or air (ours: speed squared over 2g; check before a line uses it); the real top hill is 170.6 ft, about
+    # 52 m (RCDB). A3: Intamin says the "last hydraulic launch coaster we sold was Formula Rossa", "accelerated by a
+    # huge hydraulic system" (Eureka); how such a launch works is How It Works' general account: pumps fill
+    # accumulators with "one side filled with hydraulic fluid and the other with nitrogen gas" in "approximately 45
+    # seconds", then "a large winch" "driven by hydraulic turbines" winds in the launch cables, so a line says "a launch
+    # like this", not that each number is Formula Rossa's own (the gas as a giant spring is ours). A4 (ours, fixed by
+    # A5): sand and bugs at 240 km/h. A5: "Safety glasses are required (and provided)" (RCDB), "to protect from
+    # airborne particles such as dust" (Wikipedia). A6 (fixed by B1): the train has to let go of the cables at full
+    # speed. No "Abu Dhabi" or "Ferrari" in the prompt, so no logo, badge, horse or famous red roof turns up; no
+    # catapult or warship picture; no faces: riders only from behind.
+    status: todo
+    file: buildit-formularossa-sdA.mp4
+    shots: >-
+      Shot 1 (0-5 s): under a white-hot desert sun a plain red roller coaster train shaped like a racing car waits dead
+      still at the start of a long straight track by the sea, riders seen from behind pull clear safety goggles down
+      over their eyes, then in a blink the train is gone and only a swirl of sand hangs in the heat haze, slow
+      push-in. Shot 2 (5-10 s): a flat sandy island at the edge of a turquoise sea, flat to the horizon with not one
+      hill, heat shimmering, and beside a long straight empty steel track an ordinary roller coaster train crawls
+      slowly up a tall clanking chain lift hill, wide aerial. Shot 3 (10-15 s): cutaway of a machine room under a
+      coaster track, pumps squeeze fluid into a row of tall steel tanks against a cushion of gas, the gauge needles
+      climbing, then valves snap open and the rushing fluid spins a huge drum of steel cable into a blur, close-up.
+      Shot 4 (15-20 s): riders seen from behind pressed deep into their seats on a speeding red coaster train, their
+      hair whipped flat by the wind, grains of sand and a beetle streaking toward them like hail across the blurred
+      desert, close-up. Shot 5 (20-25 s): macro of a clear safety goggle lens rushing through the desert air at
+      enormous speed, grains of sand and a tiny bug ping off it and streak away, the lens unscratched, the sun flaring
+      on it, close-up. Shot 6 (25-30 s): cutaway under a coaster track, a low steel cart pulled by two steel cables
+      races along beneath a speeding red train, holding it by one small hook, the end of the cart's short track
+      rushing closer and closer, close-up.
+  - id: formularossa-B
+    build: 113
+    kit: formularossa
+    # Facts: B1: in a launch like this the two cables pull a catch car under the train, which holds it by a "launch
+    # dog" that "drops down from the center car" and is "held in place by a small magnet", "detaching at the last
+    # moment" (How It Works, general); "The catch-car is stopped by magnetic brakes identical to those used to stop the
+    # train" (Wikipedia, Accelerator Coaster). B2 (ours, fixed by B3): friction brakes glowing and wearing away at that
+    # speed; no page read says Formula Rossa ever had them. B3: "magnetic brakes that smoothly stop the train without
+    # making contact" (Wikipedia, Accelerator Coaster); in general "powerful, permanent magnets" by the track act on
+    # "pieces of metal mounted on the side of the cars", "frictionless, and wear-free", and they can stop a train "but
+    # not to hold it stationary once it's stopped" (Explain That Stuff, Dec 3 2022): script "slows", and say nothing of
+    # what holds the train in the station or of power cuts. B4 teases build 114, the soda can (LINEUP: "a full can is
+    # stronger than an empty one"; no brand or label on any can). B5: the real ride with crowds watching; it opened on
+    # 4 Nov 2010 (Wikipedia), "4 trains with 4 cars per train", "16 riders per train" (RCDB). Wikipedia's Accelerator
+    # Coaster table and RCDB both show it SBNO (standing but not operating), while Guinness's record run came in 2026:
+    # check Ferrari World's ride page before a line says it runs today. Line 12: "240 KM/H", "4.9 S", "4.8 G" (RCDB) or
+    # "10 CM" ("The track length can shrink or expand by approximately +/- 10cm due to an elongation element at launch
+    # start", RCDB). Line 13 still: an AI picture (no free photo checked yet). B6: an office chair with no brakes
+    # (ours). No faces: riders and office workers only from behind; no logos, badges, flags or writing anywhere.
+    status: todo
+    file: buildit-formularossa-sdB.mp4
+    shots: >-
+      Shot 1 (0-5 s): macro cutaway, a small steel hook hangs down from the middle car of a speeding red coaster train
+      into a low cart running below it, held there by a small magnet, then the cart brakes, the hook flips up and lets
+      go, and the cart falls behind while the train flies on alone, close-up. Shot 2 (5-10 s): a speeding red roller
+      coaster train reaches the end of its ride, brake pads clamp onto it and glow red-hot, sparks and smoke pouring
+      off them as they wear thin, the train still racing, close-up. Shot 3 (10-15 s): at the end of a roller coaster
+      track, rows of powerful magnets line the track and metal plates on the sides of a speeding red train slide past
+      them without touching, the train slowing smoothly and silently, no sparks and no smoke, close-up.
+      Shot 4 (15-20 s): two plain silver drink cans with no labels on a sunny table, a hand squeezes the open empty
+      one and it crumples, then squeezes the sealed full one and it does not give at all, cold drops sliding down its
+      side, close-up. Shot 5 (20-25 s): a bright day at a desert theme park by the sea, crowds seen from behind at a
+      fence watch a long red racing-car-shaped coaster train flash past on a straight track in a blur and a burst of
+      sand, then climb a tall steep hill and drop out of sight, wide view. Shot 6 (25-30 s): funny slow motion, in a
+      long office corridor a man seen from behind sits in a wheeled office chair and a colleague behind him gives it
+      one huge shove, papers and his coffee float out behind him as he rolls faster and faster with nothing to stop
+      him and sinks into a tall pile of cardboard boxes, a cat on a desk watching.

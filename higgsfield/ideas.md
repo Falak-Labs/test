@@ -6163,3 +6163,52 @@ Checked, nothing new
   already here (Hackceleration, Atlas Cloud, Scrimba, Krea, tech.co, imagine.art, Dreamina's own). Not read:
   mootion's "Viral TikTok Video Trends (2026 Directory)" and seedance.tv's "free unlimited 2026" post (a site using
   the Seedance name; not checked as official).
+
+## 2026-11-27 20:00 PT (hourly runner, cloud run)
+
+New content
+- Build 113, Formula Rossa, from the Roller Coaster DataBase (new to these notes): "Hydraulic Launch from 0 mph -
+  149.1 mph in 4.9s"; 6804.5 ft of track, 170.6 ft high, 4.8 g, no inversions; "4 trains with 4 cars per train",
+  riders "2 across in 2 rows for a total of 16 riders per train"; "Safety glasses are required (and provided) to ride
+  the Formula Rossa." A heat fact for a line or the stat (a cousin of 112's 18 cm arch): "The track length can shrink
+  or expand by approximately +/- 10cm due to an elongation element at launch start." RCDB's status also reads SBNO
+  (no date shown), like Wikipedia's Accelerator Coaster table: check Ferrari World's ride page before a line says it
+  runs today.
+  [RCDB, Formula Rossa](https://rcdb.com/4485.htm)
+- Intamin's own word that 113 is hydraulic (new): in Eureka magazine's undated piece on Ferrari Land's Red Force,
+  Intamin says the "last hydraulic launch coaster we sold was Formula Rossa", "accelerated by a huge hydraulic system
+  that generates a release velocity of 240kph". Red Force itself launches on linear motors fed by supercapacitors
+  ("probably 1MW peak load from the grid" where a grid-fed launch "would need about 4MW"; "0-100kph in around 2s";
+  "High efficient eddy current brakes" on a 32 m section "in the event of a roll back"). So 113's lines may say
+  "hydraulic" on Intamin's word, while the accumulators, winch and catch car stay "a launch like this" (How It Works'
+  general account, Nov 27 16:00).
+  [Eureka](https://eurekamagazine.co.uk/content/technology/the-technology-behind-europes-fastest-and-highest-roller-coaster)
+- Magnetic brakes in general, for 113's B3 (new): "a series of powerful, permanent magnets permanently mounted at the
+  end of the track" act on "pieces of metal mounted on the side of the cars"; they are "frictionless, and wear-free",
+  but "you can use an eddy current brake to stop a train, but not to hold it stationary once it's stopped", so
+  "vehicles with eddy current brakes need conventional brakes as well" (Explain That Stuff, updated Dec 3 2022). The
+  page says nothing of power cuts or "fail-safe", so no line claims either; Wikipedia's "Brake run" page could not be
+  read from here. The new queue pair formularossa-A/B (added this hour) uses these: A3 the fluid-and-gas store and
+  winch, A5 the goggles, B1 the magnet-held hook that lets go, B3 the magnets that slow the train without touching.
+  [Explain That Stuff](https://www.explainthatstuff.com/eddy-current-brakes.html)
+- A free footage lead with unclear rights (new to these notes): the Public Domain Review's "35mm Stock Footage"
+  (published Mar 21 2012) is unedited 35mm "shot for feature films but never used", much of it rear-projection
+  "process plates", with miniature river-flood and plane-crash shots, hosted at archive.org/details/35mmstockfootage.
+  Its text says it was "uploaded to the Internet Archive under a Creative Commons Attribution License", but its rights
+  table gives "PD U.S." for the film and "Unclear" for the digital copy ("Internet Archive has CC BY-NC-SA default
+  which this might fall under"), so read the archive.org item's licence before any use; its war footage stays out.
+  [Public Domain Review, 35mm Stock Footage](https://publicdomainreview.org/collection/35mm-stock-footage/)
+
+Checked, nothing new
+- Trends: Virlo's "Current TikTok Trends" page ("Updated November 19, 2026", counts from its own tracker) has "While
+  they're out partying btw" rising (347 creators that week against 116 the week before), a format already in the
+  Nov 27 14:00 entry, and nothing on science or how-it-works; Unum's "Weekly Creator Trend Report" is undated with
+  unsourced figures (a "Lush Life" revival, a Christmas wishlist format). The rest of this hour's late-November trend
+  search gave pages already in these notes (Virlo's November page and week of Nov 16, SocialPilot, Kapwing, que.es).
+  [Virlo, Current TikTok Trends](https://virlo.ai/blog/current-tiktok-trends),
+  [Unum](https://www.unum.la/blog/weekly-creator-trend-report-deep-dive-%28tiktok-youtube-shorts%29)
+- Higgsfield: a search for Seedance unlimited past Nov 28 gave only pages already here (33 days, 14 days, 4K 11 days,
+  the 7-day bonus, 11.11, the geo.higgsfield plan-change pages, trak.in): Nov 28 stands.
+- Free sources: the public-domain film search gave LOC's National Film Registry page (already here) and the Internet
+  Archive's 2026 remix contest (no new footage); the free AI image lists (WP Tavern, photoaistudio, zsky, wavespeed)
+  name nothing checked as free, unlimited and cleared for commercial use.
