@@ -231,9 +231,9 @@ def oven(c, t, heat=1.0, q=0.0):
         person(c, px, py, 70, ["#2563EB", "#DB2777", "#F59E0B", "#10B981"][k], t + k, pose="shrug", skin=SKIN[k % 4],
                hair="#141414", wet=0.8 * heat)
     # a thermometer climbing
-    c.drawRRect(rr(140, 520, 44, 420, 22), P("#E5E7EB"))
-    c.drawRRect(rr(150, lerp(900, 560, heat), 24, lerp(30, 370, heat), 12), P("#EF4444"))
-    c.drawCircle(162, 960, 38, P("#EF4444"))
+    c.drawRRect(rr(140, 640, 44, 400, 22), P("#E5E7EB"))
+    c.drawRRect(rr(150, lerp(1010, 680, heat), 24, lerp(30, 350, heat), 12), P("#EF4444"))
+    c.drawCircle(162, 1060, 38, P("#EF4444"))
     c.drawRect(R(0, GROUND_Y, W, 90), P("#3A2A22"))
     if q > 0:                                          # and a termite mound with a question mark
         c.save()
@@ -545,7 +545,7 @@ class Eastgate(EpisodeV2):
             c.restore()
             c.drawRect(R(0, 1250, W, H - 1250), lin_paint(0, 1250, 0, 1490, ["#1E2230", "#0B0E18"]))
         elif ph == "closer":
-            city_scene(c, t, dusk=1.0, lit=1.0, mound=1.0)
+            city_scene(c, t, dusk=1.0, lit=1.0, mound=1.0, mound_x=985, mound_h=300)
         else:
             city_scene(c, t, dusk=0.0 if ph == "stat" else 0.35, lit=0.0 if ph == "stat" else 0.4)
 
