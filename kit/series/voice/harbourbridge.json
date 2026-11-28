@@ -1,0 +1,968 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.0923,
+ "gap": 0.35,
+ "duration": 66.014,
+ "words": 169,
+ "words_per_sec": 2.56,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.721,
+   "text": "Y'all, Sydney built this bridge from both ends... and hoped they'd meet.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.802
+    },
+    {
+     "w": "Sydney",
+     "start": 1.022,
+     "end": 1.315
+    },
+    {
+     "w": "built",
+     "start": 1.388,
+     "end": 1.608
+    },
+    {
+     "w": "this",
+     "start": 1.681,
+     "end": 1.754
+    },
+    {
+     "w": "bridge",
+     "start": 1.827,
+     "end": 2.047
+    },
+    {
+     "w": "from",
+     "start": 2.12,
+     "end": 2.34
+    },
+    {
+     "w": "both",
+     "start": 2.413,
+     "end": 2.633
+    },
+    {
+     "w": "ends...",
+     "start": 2.779,
+     "end": 3.365
+    },
+    {
+     "w": "and",
+     "start": 3.512,
+     "end": 3.658
+    },
+    {
+     "w": "hoped",
+     "start": 3.805,
+     "end": 4.024
+    },
+    {
+     "w": "they'd",
+     "start": 4.061,
+     "end": 4.244
+    },
+    {
+     "w": "meet.",
+     "start": 4.427,
+     "end": 4.83
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.042,
+   "end": 9.315,
+   "text": "No pillars allowed in a busy harbor! So how do two halves meet?",
+   "words": [
+    {
+     "w": "No",
+     "start": 5.188,
+     "end": 5.335
+    },
+    {
+     "w": "pillars",
+     "start": 5.481,
+     "end": 5.774
+    },
+    {
+     "w": "allowed",
+     "start": 5.847,
+     "end": 6.14
+    },
+    {
+     "w": "in",
+     "start": 6.177,
+     "end": 6.213
+    },
+    {
+     "w": "a",
+     "start": 6.287,
+     "end": 6.36
+    },
+    {
+     "w": "busy",
+     "start": 6.47,
+     "end": 6.58
+    },
+    {
+     "w": "harbor!",
+     "start": 6.653,
+     "end": 7.23
+    },
+    {
+     "w": "So",
+     "start": 7.367,
+     "end": 7.587
+    },
+    {
+     "w": "how",
+     "start": 7.806,
+     "end": 7.953
+    },
+    {
+     "w": "do",
+     "start": 8.063,
+     "end": 8.172
+    },
+    {
+     "w": "two",
+     "start": 8.282,
+     "end": 8.392
+    },
+    {
+     "w": "halves",
+     "start": 8.465,
+     "end": 8.832
+    },
+    {
+     "w": "meet?",
+     "start": 8.905,
+     "end": 9.418
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.635,
+   "end": 13.881,
+   "text": "So each half grew out from its own shore, piece by piece.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.855,
+     "end": 10.075
+    },
+    {
+     "w": "each",
+     "start": 10.221,
+     "end": 10.441
+    },
+    {
+     "w": "half",
+     "start": 10.514,
+     "end": 10.807
+    },
+    {
+     "w": "grew",
+     "start": 10.88,
+     "end": 11.027
+    },
+    {
+     "w": "out",
+     "start": 11.1,
+     "end": 11.247
+    },
+    {
+     "w": "from",
+     "start": 11.32,
+     "end": 11.393
+    },
+    {
+     "w": "its",
+     "start": 11.503,
+     "end": 11.613
+    },
+    {
+     "w": "own",
+     "start": 11.686,
+     "end": 11.833
+    },
+    {
+     "w": "shore,",
+     "start": 11.906,
+     "end": 12.565
+    },
+    {
+     "w": "piece",
+     "start": 12.638,
+     "end": 12.931
+    },
+    {
+     "w": "by",
+     "start": 13.004,
+     "end": 13.224
+    },
+    {
+     "w": "piece.",
+     "start": 13.297,
+     "end": 13.956
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.202,
+   "end": 17.639,
+   "text": "But a half-arch over water would tip right in!",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.879,
+     "end": 14.953
+    },
+    {
+     "w": "a",
+     "start": 15.026,
+     "end": 15.099
+    },
+    {
+     "w": "half-arch",
+     "start": 15.172,
+     "end": 15.685
+    },
+    {
+     "w": "over",
+     "start": 15.758,
+     "end": 15.978
+    },
+    {
+     "w": "water",
+     "start": 16.051,
+     "end": 16.344
+    },
+    {
+     "w": "would",
+     "start": 16.454,
+     "end": 16.564
+    },
+    {
+     "w": "tip",
+     "start": 16.71,
+     "end": 16.857
+    },
+    {
+     "w": "right",
+     "start": 16.93,
+     "end": 17.15
+    },
+    {
+     "w": "in!",
+     "start": 17.223,
+     "end": 17.809
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.959,
+   "end": 22.461,
+   "text": "So thick cables held each half back, tied into tunnels in the rock.",
+   "words": [
+    {
+     "w": "So",
+     "start": 18.178,
+     "end": 18.398
+    },
+    {
+     "w": "thick",
+     "start": 18.617,
+     "end": 18.838
+    },
+    {
+     "w": "cables",
+     "start": 18.91,
+     "end": 19.35
+    },
+    {
+     "w": "held",
+     "start": 19.424,
+     "end": 19.643
+    },
+    {
+     "w": "each",
+     "start": 19.717,
+     "end": 19.862
+    },
+    {
+     "w": "half",
+     "start": 19.936,
+     "end": 20.155
+    },
+    {
+     "w": "back,",
+     "start": 20.229,
+     "end": 20.632
+    },
+    {
+     "w": "tied",
+     "start": 20.815,
+     "end": 21.035
+    },
+    {
+     "w": "into",
+     "start": 21.108,
+     "end": 21.328
+    },
+    {
+     "w": "tunnels",
+     "start": 21.4,
+     "end": 21.767
+    },
+    {
+     "w": "in",
+     "start": 21.803,
+     "end": 21.841
+    },
+    {
+     "w": "the",
+     "start": 21.914,
+     "end": 21.986
+    },
+    {
+     "w": "rock.",
+     "start": 22.06,
+     "end": 22.572
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 22.782,
+   "end": 24.831,
+   "text": "But how do you lift metal that high?",
+   "words": [
+    {
+     "w": "But",
+     "start": 22.798,
+     "end": 22.945
+    },
+    {
+     "w": "how",
+     "start": 23.018,
+     "end": 23.164
+    },
+    {
+     "w": "do",
+     "start": 23.238,
+     "end": 23.311
+    },
+    {
+     "w": "you",
+     "start": 23.384,
+     "end": 23.457
+    },
+    {
+     "w": "lift",
+     "start": 23.531,
+     "end": 23.677
+    },
+    {
+     "w": "metal",
+     "start": 23.824,
+     "end": 24.116
+    },
+    {
+     "w": "that",
+     "start": 24.226,
+     "end": 24.336
+    },
+    {
+     "w": "high?",
+     "start": 24.409,
+     "end": 24.995
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 25.152,
+   "end": 29.116,
+   "text": "So two giant cranes crawled up the arch as it grew.",
+   "words": [
+    {
+     "w": "So",
+     "start": 25.372,
+     "end": 25.591
+    },
+    {
+     "w": "two",
+     "start": 25.738,
+     "end": 25.958
+    },
+    {
+     "w": "giant",
+     "start": 26.177,
+     "end": 26.543
+    },
+    {
+     "w": "cranes",
+     "start": 26.617,
+     "end": 27.056
+    },
+    {
+     "w": "crawled",
+     "start": 27.349,
+     "end": 27.715
+    },
+    {
+     "w": "up",
+     "start": 27.788,
+     "end": 27.862
+    },
+    {
+     "w": "the",
+     "start": 27.935,
+     "end": 28.008
+    },
+    {
+     "w": "arch",
+     "start": 28.081,
+     "end": 28.301
+    },
+    {
+     "w": "as",
+     "start": 28.374,
+     "end": 28.448
+    },
+    {
+     "w": "it",
+     "start": 28.521,
+     "end": 28.594
+    },
+    {
+     "w": "grew.",
+     "start": 28.667,
+     "end": 29.326
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 29.436,
+   "end": 33.863,
+   "text": "But hot sun makes metal grow... and that's a lot of metal!",
+   "words": [
+    {
+     "w": "But",
+     "start": 30.15,
+     "end": 30.296
+    },
+    {
+     "w": "hot",
+     "start": 30.369,
+     "end": 30.589
+    },
+    {
+     "w": "sun",
+     "start": 30.662,
+     "end": 30.955
+    },
+    {
+     "w": "makes",
+     "start": 31.028,
+     "end": 31.248
+    },
+    {
+     "w": "metal",
+     "start": 31.321,
+     "end": 31.541
+    },
+    {
+     "w": "grow...",
+     "start": 31.614,
+     "end": 32.246
+    },
+    {
+     "w": "and",
+     "start": 32.319,
+     "end": 32.392
+    },
+    {
+     "w": "that's",
+     "start": 32.466,
+     "end": 32.685
+    },
+    {
+     "w": "a",
+     "start": 32.759,
+     "end": 32.832
+    },
+    {
+     "w": "lot",
+     "start": 33.052,
+     "end": 33.271
+    },
+    {
+     "w": "of",
+     "start": 33.308,
+     "end": 33.345
+    },
+    {
+     "w": "metal!",
+     "start": 33.418,
+     "end": 33.93
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 34.183,
+   "end": 39.447,
+   "text": "So it's built to move. On hot days, the top rises eighteen centimeters!",
+   "words": [
+    {
+     "w": "So",
+     "start": 34.403,
+     "end": 34.549
+    },
+    {
+     "w": "it's",
+     "start": 34.623,
+     "end": 34.915
+    },
+    {
+     "w": "built",
+     "start": 34.989,
+     "end": 35.208
+    },
+    {
+     "w": "to",
+     "start": 35.282,
+     "end": 35.428
+    },
+    {
+     "w": "move.",
+     "start": 35.611,
+     "end": 35.977
+    },
+    {
+     "w": "On",
+     "start": 36.161,
+     "end": 36.307
+    },
+    {
+     "w": "hot",
+     "start": 36.38,
+     "end": 36.527
+    },
+    {
+     "w": "days,",
+     "start": 36.6,
+     "end": 37.103
+    },
+    {
+     "w": "the",
+     "start": 37.177,
+     "end": 37.25
+    },
+    {
+     "w": "top",
+     "start": 37.36,
+     "end": 37.47
+    },
+    {
+     "w": "rises",
+     "start": 37.543,
+     "end": 37.982
+    },
+    {
+     "w": "eighteen",
+     "start": 38.056,
+     "end": 38.422
+    },
+    {
+     "w": "centimeters!",
+     "start": 38.641,
+     "end": 39.52
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 39.768,
+   "end": 44.501,
+   "text": "Hit follow, 'cause next we're building a roller coaster that launches like a fighter jet.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 39.841,
+     "end": 39.987
+    },
+    {
+     "w": "follow,",
+     "start": 40.134,
+     "end": 40.646
+    },
+    {
+     "w": "'cause",
+     "start": 40.793,
+     "end": 41.013
+    },
+    {
+     "w": "next",
+     "start": 41.086,
+     "end": 41.379
+    },
+    {
+     "w": "we're",
+     "start": 41.452,
+     "end": 41.598
+    },
+    {
+     "w": "building",
+     "start": 41.745,
+     "end": 41.891
+    },
+    {
+     "w": "a",
+     "start": 41.965,
+     "end": 42.038
+    },
+    {
+     "w": "roller",
+     "start": 42.111,
+     "end": 42.331
+    },
+    {
+     "w": "coaster",
+     "start": 42.404,
+     "end": 42.697
+    },
+    {
+     "w": "that",
+     "start": 42.77,
+     "end": 42.917
+    },
+    {
+     "w": "launches",
+     "start": 42.99,
+     "end": 43.356
+    },
+    {
+     "w": "like",
+     "start": 43.429,
+     "end": 43.503
+    },
+    {
+     "w": "a",
+     "start": 43.539,
+     "end": 43.576
+    },
+    {
+     "w": "fighter",
+     "start": 43.796,
+     "end": 44.089
+    },
+    {
+     "w": "jet.",
+     "start": 44.162,
+     "end": 44.601
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 44.822,
+   "end": 50.917,
+   "text": "The answer? They let the cables out, bit by bit... till one night, the two tips touched!",
+   "words": [
+    {
+     "w": "The",
+     "start": 44.968,
+     "end": 45.115
+    },
+    {
+     "w": "answer?",
+     "start": 45.188,
+     "end": 45.856
+    },
+    {
+     "w": "They",
+     "start": 46.113,
+     "end": 46.259
+    },
+    {
+     "w": "let",
+     "start": 46.332,
+     "end": 46.406
+    },
+    {
+     "w": "the",
+     "start": 46.479,
+     "end": 46.552
+    },
+    {
+     "w": "cables",
+     "start": 46.589,
+     "end": 46.918
+    },
+    {
+     "w": "out,",
+     "start": 46.992,
+     "end": 47.321
+    },
+    {
+     "w": "bit",
+     "start": 47.431,
+     "end": 47.651
+    },
+    {
+     "w": "by",
+     "start": 47.761,
+     "end": 47.87
+    },
+    {
+     "w": "bit...",
+     "start": 47.944,
+     "end": 48.346
+    },
+    {
+     "w": "till",
+     "start": 48.798,
+     "end": 48.969
+    },
+    {
+     "w": "one",
+     "start": 49.042,
+     "end": 49.189
+    },
+    {
+     "w": "night,",
+     "start": 49.408,
+     "end": 49.677
+    },
+    {
+     "w": "the",
+     "start": 49.726,
+     "end": 49.775
+    },
+    {
+     "w": "two",
+     "start": 49.885,
+     "end": 49.994
+    },
+    {
+     "w": "tips",
+     "start": 50.141,
+     "end": 50.287
+    },
+    {
+     "w": "touched!",
+     "start": 50.361,
+     "end": 51.02
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.238,
+   "end": 56.318,
+   "text": "Nineteen thirty-two, six million rivets, and a test with ninety-six trains.",
+   "words": [
+    {
+     "w": "Nineteen",
+     "start": 51.384,
+     "end": 51.75
+    },
+    {
+     "w": "thirty-two,",
+     "start": 51.897,
+     "end": 52.666
+    },
+    {
+     "w": "six",
+     "start": 52.849,
+     "end": 53.069
+    },
+    {
+     "w": "million",
+     "start": 53.142,
+     "end": 53.435
+    },
+    {
+     "w": "rivets,",
+     "start": 53.508,
+     "end": 53.984
+    },
+    {
+     "w": "and",
+     "start": 54.094,
+     "end": 54.167
+    },
+    {
+     "w": "a",
+     "start": 54.24,
+     "end": 54.314
+    },
+    {
+     "w": "test",
+     "start": 54.387,
+     "end": 54.607
+    },
+    {
+     "w": "with",
+     "start": 54.68,
+     "end": 54.9
+    },
+    {
+     "w": "ninety-six",
+     "start": 54.973,
+     "end": 55.632
+    },
+    {
+     "w": "trains.",
+     "start": 55.705,
+     "end": 56.438
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 56.639,
+   "end": 60.369,
+   "text": "And congrats, you just built the Sydney Harbour Bridge yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 56.7,
+     "end": 56.847
+    },
+    {
+     "w": "congrats,",
+     "start": 56.957,
+     "end": 57.762
+    },
+    {
+     "w": "you",
+     "start": 57.945,
+     "end": 58.092
+    },
+    {
+     "w": "just",
+     "start": 58.202,
+     "end": 58.311
+    },
+    {
+     "w": "built",
+     "start": 58.421,
+     "end": 58.531
+    },
+    {
+     "w": "the",
+     "start": 58.604,
+     "end": 58.678
+    },
+    {
+     "w": "Sydney",
+     "start": 58.751,
+     "end": 58.971
+    },
+    {
+     "w": "Harbour",
+     "start": 59.044,
+     "end": 59.337
+    },
+    {
+     "w": "Bridge",
+     "start": 59.41,
+     "end": 59.63
+    },
+    {
+     "w": "yourself.",
+     "start": 59.74,
+     "end": 60.509
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 60.69,
+   "end": 66.0,
+   "text": "Sydney calls it the Coathanger... and your coat still lives on a chair.",
+   "words": [
+    {
+     "w": "Sydney",
+     "start": 61.367,
+     "end": 61.66
+    },
+    {
+     "w": "calls",
+     "start": 61.734,
+     "end": 61.953
+    },
+    {
+     "w": "it",
+     "start": 62.027,
+     "end": 62.1
+    },
+    {
+     "w": "the",
+     "start": 62.136,
+     "end": 62.173
+    },
+    {
+     "w": "Coathanger...",
+     "start": 62.319,
+     "end": 63.262
+    },
+    {
+     "w": "and",
+     "start": 63.965,
+     "end": 63.995
+    },
+    {
+     "w": "your",
+     "start": 64.105,
+     "end": 64.215
+    },
+    {
+     "w": "coat",
+     "start": 64.361,
+     "end": 64.507
+    },
+    {
+     "w": "still",
+     "start": 64.654,
+     "end": 64.947
+    },
+    {
+     "w": "lives",
+     "start": 65.02,
+     "end": 65.24
+    },
+    {
+     "w": "on",
+     "start": 65.276,
+     "end": 65.313
+    },
+    {
+     "w": "a",
+     "start": 65.386,
+     "end": 65.46
+    },
+    {
+     "w": "chair.",
+     "start": 65.533,
+     "end": 66.192
+    }
+   ]
+  }
+ ]
+}
