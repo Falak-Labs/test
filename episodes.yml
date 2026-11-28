@@ -111,3 +111,6 @@ episodes:
   - {slug: ep106-riyadhmetro, kit: riyadhmetro, look: 2}
   - {slug: ep107-chairlift, kit: chairlift, look: 2}
   - {slug: ep108-resurfacer, kit: resurfacer, look: 2}
+  - {slug: ep109-eastgate, kit: eastgate, look: 2}
+  - {slug: ep110-bahrainwtc, kit: bahrainwtc, look: 2}
+  - {slug: ep111-pinlock, kit: pinlock, look: 2}

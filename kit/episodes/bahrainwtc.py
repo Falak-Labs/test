@@ -521,6 +521,17 @@ class BahrainWTC(EpisodeV2):
     def whip_backdrop(self, c, t, m):
         vrect(c, 0, 0, W, H, ["#0F2533", "#163447"])
 
+    def draw_cover(self, c):
+        """As the base, but the English name drops its "THE": "THE BAHRAIN WORLD TRADE CENTER" fits in no two lines
+        (cover._fit then falls back to one line that runs off the frame), "BAHRAIN WORLD TRADE CENTER" fits in two."""
+        from bik import cover
+        self.draw_world(c, self.cover_time())
+        closer = next((ln["text"] for ln in self.tl.lines if ln["label"] == "closer"), "")
+        small, name = cover.subject(self.lang, closer, self.TITLE.get(self.lang, self.TITLE["en"]))
+        if not self.rtl and name.startswith("THE "):
+            name = name[4:]
+        return cover.overlay(c, W, H, self.BUILD_NO, self.lang, small, name)
+
     # ------------------------------------------------------------------ sound
     def sfx_events(self):
         T, s, e = self.T, self.tl.s, self.tl.e
