@@ -1,0 +1,1023 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 72.233,
+ "words": 180,
+ "words_per_sec": 2.49,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 4.357,
+   "text": "Y'all, this office in Zimbabwe copied... a termite mound.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.714
+    },
+    {
+     "w": "this",
+     "start": 0.929,
+     "end": 1.143
+    },
+    {
+     "w": "office",
+     "start": 1.214,
+     "end": 1.5
+    },
+    {
+     "w": "in",
+     "start": 1.571,
+     "end": 1.643
+    },
+    {
+     "w": "Zimbabwe",
+     "start": 1.679,
+     "end": 2.286
+    },
+    {
+     "w": "copied...",
+     "start": 2.429,
+     "end": 3.143
+    },
+    {
+     "w": "a",
+     "start": 3.214,
+     "end": 3.286
+    },
+    {
+     "w": "termite",
+     "start": 3.464,
+     "end": 3.786
+    },
+    {
+     "w": "mound.",
+     "start": 3.857,
+     "end": 4.429
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.67,
+   "end": 9.74,
+   "text": "Sun turns glass offices into ovens. So how do termite mounds stay cool?",
+   "words": [
+    {
+     "w": "Sun",
+     "start": 4.797,
+     "end": 5.012
+    },
+    {
+     "w": "turns",
+     "start": 5.154,
+     "end": 5.44
+    },
+    {
+     "w": "glass",
+     "start": 5.512,
+     "end": 5.797
+    },
+    {
+     "w": "offices",
+     "start": 5.94,
+     "end": 6.369
+    },
+    {
+     "w": "into",
+     "start": 6.44,
+     "end": 6.654
+    },
+    {
+     "w": "ovens.",
+     "start": 6.797,
+     "end": 7.437
+    },
+    {
+     "w": "So",
+     "start": 7.592,
+     "end": 7.806
+    },
+    {
+     "w": "how",
+     "start": 8.021,
+     "end": 8.163
+    },
+    {
+     "w": "do",
+     "start": 8.235,
+     "end": 8.306
+    },
+    {
+     "w": "termite",
+     "start": 8.378,
+     "end": 8.735
+    },
+    {
+     "w": "mounds",
+     "start": 8.806,
+     "end": 9.021
+    },
+    {
+     "w": "stay",
+     "start": 9.092,
+     "end": 9.235
+    },
+    {
+     "w": "cool?",
+     "start": 9.306,
+     "end": 9.878
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 10.053,
+   "end": 15.588,
+   "text": "First, thick concrete walls, and small windows tucked behind chunky shady ledges.",
+   "words": [
+    {
+     "w": "First,",
+     "start": 10.267,
+     "end": 10.874
+    },
+    {
+     "w": "thick",
+     "start": 11.044,
+     "end": 11.303
+    },
+    {
+     "w": "concrete",
+     "start": 11.374,
+     "end": 11.803
+    },
+    {
+     "w": "walls,",
+     "start": 11.874,
+     "end": 12.338
+    },
+    {
+     "w": "and",
+     "start": 12.446,
+     "end": 12.588
+    },
+    {
+     "w": "small",
+     "start": 12.66,
+     "end": 13.017
+    },
+    {
+     "w": "windows",
+     "start": 13.088,
+     "end": 13.446
+    },
+    {
+     "w": "tucked",
+     "start": 13.517,
+     "end": 13.66
+    },
+    {
+     "w": "behind",
+     "start": 13.731,
+     "end": 14.088
+    },
+    {
+     "w": "chunky",
+     "start": 14.16,
+     "end": 14.517
+    },
+    {
+     "w": "shady",
+     "start": 14.66,
+     "end": 14.946
+    },
+    {
+     "w": "ledges.",
+     "start": 15.017,
+     "end": 15.66
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 15.901,
+   "end": 20.43,
+   "text": "But by evening, all that concrete is full of the day's heat!",
+   "words": [
+    {
+     "w": "But",
+     "start": 16.687,
+     "end": 16.829
+    },
+    {
+     "w": "by",
+     "start": 16.901,
+     "end": 17.044
+    },
+    {
+     "w": "evening,",
+     "start": 17.187,
+     "end": 17.74
+    },
+    {
+     "w": "all",
+     "start": 17.812,
+     "end": 17.954
+    },
+    {
+     "w": "that",
+     "start": 18.026,
+     "end": 18.169
+    },
+    {
+     "w": "concrete",
+     "start": 18.24,
+     "end": 18.74
+    },
+    {
+     "w": "is",
+     "start": 18.847,
+     "end": 18.954
+    },
+    {
+     "w": "full",
+     "start": 19.097,
+     "end": 19.312
+    },
+    {
+     "w": "of",
+     "start": 19.383,
+     "end": 19.454
+    },
+    {
+     "w": "the",
+     "start": 19.49,
+     "end": 19.526
+    },
+    {
+     "w": "day's",
+     "start": 19.597,
+     "end": 19.883
+    },
+    {
+     "w": "heat!",
+     "start": 19.954,
+     "end": 20.454
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 20.743,
+   "end": 25.268,
+   "text": "So at night, big fans blow cold night air through hollow floors.",
+   "words": [
+    {
+     "w": "So",
+     "start": 20.957,
+     "end": 21.1
+    },
+    {
+     "w": "at",
+     "start": 21.171,
+     "end": 21.314
+    },
+    {
+     "w": "night,",
+     "start": 21.386,
+     "end": 21.957
+    },
+    {
+     "w": "big",
+     "start": 22.1,
+     "end": 22.314
+    },
+    {
+     "w": "fans",
+     "start": 22.386,
+     "end": 22.671
+    },
+    {
+     "w": "blow",
+     "start": 22.743,
+     "end": 22.886
+    },
+    {
+     "w": "cold",
+     "start": 23.029,
+     "end": 23.314
+    },
+    {
+     "w": "night",
+     "start": 23.386,
+     "end": 23.6
+    },
+    {
+     "w": "air",
+     "start": 23.671,
+     "end": 23.886
+    },
+    {
+     "w": "through",
+     "start": 23.957,
+     "end": 24.171
+    },
+    {
+     "w": "hollow",
+     "start": 24.243,
+     "end": 24.529
+    },
+    {
+     "w": "floors.",
+     "start": 24.6,
+     "end": 25.386
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 25.58,
+   "end": 29.364,
+   "text": "But next morning, people and computers heat the rooms right back up.",
+   "words": [
+    {
+     "w": "But",
+     "start": 25.709,
+     "end": 25.852
+    },
+    {
+     "w": "next",
+     "start": 25.923,
+     "end": 26.138
+    },
+    {
+     "w": "morning,",
+     "start": 26.209,
+     "end": 26.709
+    },
+    {
+     "w": "people",
+     "start": 26.852,
+     "end": 27.137
+    },
+    {
+     "w": "and",
+     "start": 27.209,
+     "end": 27.28
+    },
+    {
+     "w": "computers",
+     "start": 27.459,
+     "end": 27.78
+    },
+    {
+     "w": "heat",
+     "start": 27.852,
+     "end": 27.995
+    },
+    {
+     "w": "the",
+     "start": 28.03,
+     "end": 28.066
+    },
+    {
+     "w": "rooms",
+     "start": 28.137,
+     "end": 28.423
+    },
+    {
+     "w": "right",
+     "start": 28.566,
+     "end": 28.78
+    },
+    {
+     "w": "back",
+     "start": 28.852,
+     "end": 28.995
+    },
+    {
+     "w": "up.",
+     "start": 29.138,
+     "end": 29.566
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 29.677,
+   "end": 34.555,
+   "text": "So small fans pull fresh air through those cold floors, and it comes in cool.",
+   "words": [
+    {
+     "w": "So",
+     "start": 29.891,
+     "end": 30.034
+    },
+    {
+     "w": "small",
+     "start": 30.177,
+     "end": 30.462
+    },
+    {
+     "w": "fans",
+     "start": 30.605,
+     "end": 30.891
+    },
+    {
+     "w": "pull",
+     "start": 30.962,
+     "end": 31.177
+    },
+    {
+     "w": "fresh",
+     "start": 31.248,
+     "end": 31.462
+    },
+    {
+     "w": "air",
+     "start": 31.605,
+     "end": 31.748
+    },
+    {
+     "w": "through",
+     "start": 31.82,
+     "end": 31.962
+    },
+    {
+     "w": "those",
+     "start": 32.07,
+     "end": 32.177
+    },
+    {
+     "w": "cold",
+     "start": 32.248,
+     "end": 32.534
+    },
+    {
+     "w": "floors,",
+     "start": 32.605,
+     "end": 33.32
+    },
+    {
+     "w": "and",
+     "start": 33.355,
+     "end": 33.391
+    },
+    {
+     "w": "it",
+     "start": 33.462,
+     "end": 33.534
+    },
+    {
+     "w": "comes",
+     "start": 33.605,
+     "end": 33.82
+    },
+    {
+     "w": "in",
+     "start": 33.927,
+     "end": 34.034
+    },
+    {
+     "w": "cool.",
+     "start": 34.248,
+     "end": 34.748
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 34.868,
+   "end": 37.938,
+   "text": "But all that warm air has to go somewhere!",
+   "words": [
+    {
+     "w": "But",
+     "start": 35.448,
+     "end": 35.591
+    },
+    {
+     "w": "all",
+     "start": 35.662,
+     "end": 35.805
+    },
+    {
+     "w": "that",
+     "start": 35.877,
+     "end": 36.02
+    },
+    {
+     "w": "warm",
+     "start": 36.091,
+     "end": 36.305
+    },
+    {
+     "w": "air",
+     "start": 36.377,
+     "end": 36.591
+    },
+    {
+     "w": "has",
+     "start": 36.662,
+     "end": 36.877
+    },
+    {
+     "w": "to",
+     "start": 36.948,
+     "end": 37.02
+    },
+    {
+     "w": "go",
+     "start": 37.091,
+     "end": 37.162
+    },
+    {
+     "w": "somewhere!",
+     "start": 37.305,
+     "end": 38.162
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 38.25,
+   "end": 43.212,
+   "text": "So it rises up tall shafts... and out of forty-eight brick chimneys on the roof.",
+   "words": [
+    {
+     "w": "So",
+     "start": 38.393,
+     "end": 38.607
+    },
+    {
+     "w": "it",
+     "start": 38.679,
+     "end": 38.821
+    },
+    {
+     "w": "rises",
+     "start": 38.893,
+     "end": 39.25
+    },
+    {
+     "w": "up",
+     "start": 39.321,
+     "end": 39.464
+    },
+    {
+     "w": "tall",
+     "start": 39.536,
+     "end": 39.821
+    },
+    {
+     "w": "shafts...",
+     "start": 39.964,
+     "end": 40.643
+    },
+    {
+     "w": "and",
+     "start": 40.821,
+     "end": 40.964
+    },
+    {
+     "w": "out",
+     "start": 41.036,
+     "end": 41.107
+    },
+    {
+     "w": "of",
+     "start": 41.179,
+     "end": 41.25
+    },
+    {
+     "w": "forty-eight",
+     "start": 41.321,
+     "end": 41.821
+    },
+    {
+     "w": "brick",
+     "start": 41.893,
+     "end": 42.107
+    },
+    {
+     "w": "chimneys",
+     "start": 42.179,
+     "end": 42.536
+    },
+    {
+     "w": "on",
+     "start": 42.607,
+     "end": 42.679
+    },
+    {
+     "w": "the",
+     "start": 42.714,
+     "end": 42.75
+    },
+    {
+     "w": "roof.",
+     "start": 42.821,
+     "end": 43.393
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 43.525,
+   "end": 48.358,
+   "text": "Hit follow, 'cause next we're building towers with giant wind turbines between them.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 43.668,
+     "end": 43.811
+    },
+    {
+     "w": "follow,",
+     "start": 43.954,
+     "end": 44.525
+    },
+    {
+     "w": "'cause",
+     "start": 44.668,
+     "end": 44.882
+    },
+    {
+     "w": "next",
+     "start": 44.954,
+     "end": 45.239
+    },
+    {
+     "w": "we're",
+     "start": 45.311,
+     "end": 45.525
+    },
+    {
+     "w": "building",
+     "start": 45.668,
+     "end": 45.811
+    },
+    {
+     "w": "towers",
+     "start": 45.882,
+     "end": 46.239
+    },
+    {
+     "w": "with",
+     "start": 46.311,
+     "end": 46.525
+    },
+    {
+     "w": "giant",
+     "start": 46.596,
+     "end": 46.954
+    },
+    {
+     "w": "wind",
+     "start": 47.025,
+     "end": 47.239
+    },
+    {
+     "w": "turbines",
+     "start": 47.335,
+     "end": 47.668
+    },
+    {
+     "w": "between",
+     "start": 47.739,
+     "end": 48.025
+    },
+    {
+     "w": "them.",
+     "start": 48.096,
+     "end": 48.454
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 48.671,
+   "end": 56.048,
+   "text": "The answer? Scientists found the mounds mostly breathe, like a lung! It copied them wrong... and it still works.",
+   "words": [
+    {
+     "w": "The",
+     "start": 48.813,
+     "end": 48.956
+    },
+    {
+     "w": "answer?",
+     "start": 49.028,
+     "end": 49.671
+    },
+    {
+     "w": "Scientists",
+     "start": 49.921,
+     "end": 50.349
+    },
+    {
+     "w": "found",
+     "start": 50.456,
+     "end": 50.563
+    },
+    {
+     "w": "the",
+     "start": 50.599,
+     "end": 50.635
+    },
+    {
+     "w": "mounds",
+     "start": 50.706,
+     "end": 50.992
+    },
+    {
+     "w": "mostly",
+     "start": 51.063,
+     "end": 51.421
+    },
+    {
+     "w": "breathe,",
+     "start": 51.492,
+     "end": 52.099
+    },
+    {
+     "w": "like",
+     "start": 52.206,
+     "end": 52.349
+    },
+    {
+     "w": "a",
+     "start": 52.421,
+     "end": 52.492
+    },
+    {
+     "w": "lung!",
+     "start": 52.563,
+     "end": 53.019
+    },
+    {
+     "w": "It",
+     "start": 53.572,
+     "end": 53.644
+    },
+    {
+     "w": "copied",
+     "start": 53.787,
+     "end": 54.072
+    },
+    {
+     "w": "them",
+     "start": 54.144,
+     "end": 54.287
+    },
+    {
+     "w": "wrong...",
+     "start": 54.358,
+     "end": 54.885
+    },
+    {
+     "w": "and",
+     "start": 54.956,
+     "end": 55.028
+    },
+    {
+     "w": "it",
+     "start": 55.099,
+     "end": 55.171
+    },
+    {
+     "w": "still",
+     "start": 55.313,
+     "end": 55.456
+    },
+    {
+     "w": "works.",
+     "start": 55.528,
+     "end": 56.171
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 56.361,
+   "end": 61.627,
+   "text": "Nineteen ninety-six, Harare, and ten fresh air changes an hour, all night long.",
+   "words": [
+    {
+     "w": "Nineteen",
+     "start": 56.489,
+     "end": 56.789
+    },
+    {
+     "w": "ninety-six,",
+     "start": 56.861,
+     "end": 57.575
+    },
+    {
+     "w": "Harare,",
+     "start": 57.646,
+     "end": 58.289
+    },
+    {
+     "w": "and",
+     "start": 58.432,
+     "end": 58.646
+    },
+    {
+     "w": "ten",
+     "start": 58.718,
+     "end": 58.932
+    },
+    {
+     "w": "fresh",
+     "start": 59.004,
+     "end": 59.218
+    },
+    {
+     "w": "air",
+     "start": 59.289,
+     "end": 59.432
+    },
+    {
+     "w": "changes",
+     "start": 59.504,
+     "end": 59.789
+    },
+    {
+     "w": "an",
+     "start": 59.861,
+     "end": 60.004
+    },
+    {
+     "w": "hour,",
+     "start": 60.075,
+     "end": 60.539
+    },
+    {
+     "w": "all",
+     "start": 60.611,
+     "end": 60.754
+    },
+    {
+     "w": "night",
+     "start": 60.896,
+     "end": 61.111
+    },
+    {
+     "w": "long.",
+     "start": 61.182,
+     "end": 61.754
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 61.939,
+   "end": 65.304,
+   "text": "And congrats, you just built the Eastgate Centre yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 62.062,
+     "end": 62.082
+    },
+    {
+     "w": "congrats,",
+     "start": 62.154,
+     "end": 63.011
+    },
+    {
+     "w": "you",
+     "start": 63.154,
+     "end": 63.296
+    },
+    {
+     "w": "just",
+     "start": 63.404,
+     "end": 63.511
+    },
+    {
+     "w": "built",
+     "start": 63.618,
+     "end": 63.725
+    },
+    {
+     "w": "the",
+     "start": 63.796,
+     "end": 63.868
+    },
+    {
+     "w": "Eastgate",
+     "start": 63.975,
+     "end": 64.225
+    },
+    {
+     "w": "Centre",
+     "start": 64.296,
+     "end": 64.582
+    },
+    {
+     "w": "yourself.",
+     "start": 64.689,
+     "end": 65.439
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 65.616,
+   "end": 72.221,
+   "text": "A whole building cooled by the night air... and your office still fights over the AC remote.",
+   "words": [
+    {
+     "w": "A",
+     "start": 65.902,
+     "end": 66.25
+    },
+    {
+     "w": "whole",
+     "start": 66.393,
+     "end": 66.821
+    },
+    {
+     "w": "building",
+     "start": 66.964,
+     "end": 67.321
+    },
+    {
+     "w": "cooled",
+     "start": 67.393,
+     "end": 67.679
+    },
+    {
+     "w": "by",
+     "start": 67.75,
+     "end": 67.821
+    },
+    {
+     "w": "the",
+     "start": 67.893,
+     "end": 67.964
+    },
+    {
+     "w": "night",
+     "start": 68.036,
+     "end": 68.25
+    },
+    {
+     "w": "air...",
+     "start": 68.321,
+     "end": 68.768
+    },
+    {
+     "w": "and",
+     "start": 69.525,
+     "end": 69.554
+    },
+    {
+     "w": "your",
+     "start": 69.625,
+     "end": 69.839
+    },
+    {
+     "w": "office",
+     "start": 69.911,
+     "end": 70.268
+    },
+    {
+     "w": "still",
+     "start": 70.339,
+     "end": 70.696
+    },
+    {
+     "w": "fights",
+     "start": 70.839,
+     "end": 71.054
+    },
+    {
+     "w": "over",
+     "start": 71.125,
+     "end": 71.268
+    },
+    {
+     "w": "the",
+     "start": 71.304,
+     "end": 71.339
+    },
+    {
+     "w": "AC",
+     "start": 71.411,
+     "end": 71.768
+    },
+    {
+     "w": "remote.",
+     "start": 71.982,
+     "end": 72.411
+    }
+   ]
+  }
+ ]
+}
