@@ -1,0 +1,124 @@
+{
+ "episode": "kids25",
+ "status": "ok",
+ "error": null,
+ "model": "eleven_v4",
+ "models_available": [
+  "eleven_v4",
+  "eleven_v4_turbo",
+  "eleven_v3",
+  "eleven_v3_conversational",
+  "eleven_multilingual_v2",
+  "eleven_flash_v2_5",
+  "eleven_turbo_v2_5",
+  "eleven_turbo_v2",
+  "eleven_flash_v2",
+  "eleven_storytel_v2"
+ ],
+ "requested_characters": 134,
+ "recorded_this_run": [
+  "p01k",
+  "p02k",
+  "p03k",
+  "p04k",
+  "p05k",
+  "w5",
+  "v1",
+  "Lw",
+  "Asl",
+  "Lsl"
+ ],
+ "notes": [],
+ "lines": [
+  {
+   "id": "p01k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I feel sick.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p02k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "My head hurts.",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.84
+  },
+  {
+   "id": "p03k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "I have a fever.",
+   "characters": 15,
+   "model": "eleven_v4",
+   "seconds": 1.68
+  },
+  {
+   "id": "p04k",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Since yesterday.",
+   "characters": 16,
+   "model": "eleven_v4",
+   "seconds": 1.44
+  },
+  {
+   "id": "p05k",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Get well soon!",
+   "characters": 14,
+   "model": "eleven_v4",
+   "seconds": 1.36
+  },
+  {
+   "id": "w5",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Stomach!",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.04
+  },
+  {
+   "id": "v1",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "My stomach hurts a lot!",
+   "characters": 23,
+   "model": "eleven_v4",
+   "seconds": 2.64
+  },
+  {
+   "id": "Lw",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Stomach!",
+   "characters": 8,
+   "model": "eleven_v4",
+   "seconds": 1.12
+  },
+  {
+   "id": "Asl",
+   "speaker": "A",
+   "voice": "tJHJUEHzOkMoPmJJ5jo2",
+   "text": "Stum... uck.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 2.0
+  },
+  {
+   "id": "Lsl",
+   "speaker": "L",
+   "voice": "Nggzl2QAXh3OijoXD116",
+   "text": "Stum... uck.",
+   "characters": 12,
+   "model": "eleven_v4",
+   "seconds": 2.32
+  }
+ ]
+}
