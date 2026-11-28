@@ -15,8 +15,11 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 40,
+ "requested_characters": 94,
  "recorded_this_run": [
+  "w5",
+  "v1",
+  "Lw",
   "Asl",
   "Lsl"
  ],
@@ -71,7 +74,7 @@
    "id": "w5",
    "speaker": "A",
    "voice": "tJHJUEHzOkMoPmJJ5jo2",
-   "text": "Ambulance!",
+   "text": "Emergency!",
    "characters": 10,
    "model": "eleven_v4",
    "seconds": 1.04
@@ -80,37 +83,37 @@
    "id": "v1",
    "speaker": "L",
    "voice": "Nggzl2QAXh3OijoXD116",
-   "text": "The ambulance is coming now!",
-   "characters": 28,
+   "text": "Call the emergency number!",
+   "characters": 26,
    "model": "eleven_v4",
-   "seconds": 2.08
+   "seconds": 2.0
   },
   {
    "id": "Lw",
    "speaker": "L",
    "voice": "Nggzl2QAXh3OijoXD116",
-   "text": "Ambulance!",
+   "text": "Emergency!",
    "characters": 10,
    "model": "eleven_v4",
-   "seconds": 1.12
+   "seconds": 1.04
   },
   {
    "id": "Asl",
    "speaker": "A",
    "voice": "tJHJUEHzOkMoPmJJ5jo2",
-   "text": "Am... byoo... lunss.",
-   "characters": 20,
+   "text": "Ih... mur... jen... see.",
+   "characters": 24,
    "model": "eleven_v4",
-   "seconds": 2.88
+   "seconds": 3.36
   },
   {
    "id": "Lsl",
    "speaker": "L",
    "voice": "Nggzl2QAXh3OijoXD116",
-   "text": "Am... byoo... lunss.",
-   "characters": 20,
+   "text": "Ih... mur... jen... see.",
+   "characters": 24,
    "model": "eleven_v4",
-   "seconds": 3.52
+   "seconds": 3.84
   }
  ]
 }

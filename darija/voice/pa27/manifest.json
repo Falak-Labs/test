@@ -15,10 +15,12 @@
   "eleven_flash_v2",
   "eleven_storytel_v2"
  ],
- "requested_characters": 52,
+ "requested_characters": 120,
  "recorded_this_run": [
+  "h1",
   "tw",
   "w6",
+  "v2",
   "Tsl"
  ],
  "notes": [],
@@ -27,10 +29,10 @@
    "id": "h1",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Ambulance فيها صوت مخبّى مش مكتوب! وين هو؟",
-   "characters": 42,
+   "text": "Emergency فيها G و C، بس ما بنلفظهم G و K! كيف؟",
+   "characters": 47,
    "model": "eleven_v4",
-   "seconds": 4.08
+   "seconds": 5.52
   },
   {
    "id": "p01t",
@@ -81,37 +83,37 @@
    "id": "tw",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Ambulance!.",
-   "characters": 11,
+   "text": "Emergency.",
+   "characters": 10,
    "model": "eleven_v4",
-   "seconds": 1.04
+   "seconds": 1.12
   },
   {
    "id": "w6",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Good job! Ambulance!!",
-   "characters": 21,
+   "text": "Good job! Emergency!",
+   "characters": 20,
    "model": "eleven_v4",
-   "seconds": 2.4
+   "seconds": 2.32
   },
   {
    "id": "v2",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "الإسعاف جاي هلأ!",
-   "characters": 16,
+   "text": "اتصل ع رقم الطوارئ!",
+   "characters": 19,
    "model": "eleven_v4",
-   "seconds": 1.68
+   "seconds": 1.92
   },
   {
    "id": "Tsl",
    "speaker": "T",
    "voice": "jAAHNNqlbAX9iWjJPEtE",
-   "text": "Am... byoo... lunss.",
-   "characters": 20,
+   "text": "Ih... mur... jen... see.",
+   "characters": 24,
    "model": "eleven_v4",
-   "seconds": 2.8
+   "seconds": 3.36
   }
  ]
 }
