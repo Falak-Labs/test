@@ -6609,3 +6609,104 @@ Checked, nothing new
   "File:Capital_Gate.jpg" at the address the search gave and Wikimedia Commons' "Category:Capital Gate, Abu Dhabi"
   (both "not found" to the fetcher, the comma in the category's address may be why), so Capital Gate's free photos
   stay unchecked: open that category in a browser and read each file's licence.
+
+## 2026-11-28 01:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build, the launch pad that floods itself at liftoff (new to LINEUP and these notes; a build on the
+  ground, so it keeps LINEUP's rule against far-away space pictures, and NASA's real launch film can be B5). The
+  break, the rocket's own roar: SLS "will create about 176 decibels at liftoff", and the pressure waves "can cause
+  vibrations that could potentially damage the mobile launcher, as well as the rocket" (NASA, Sep 16 2019, upd. Jul
+  26 2023). The fix, Pad 39B's Ignition Overpressure Protection and Sound Suppression system: "approximately 400,000
+  gallons" at liftoff "from large overhead holding tanks" (NASA blog, Jul 19 2024, upd. Sep 29 2025); the 2019 test
+  poured "About 450,000 gallons" in "the 30-second test", at a peak of "more than 1 million gallons per minute". The
+  totals clash: script "about 400,000 gallons" (the Artemis II page) or no total. How the water gets there: "mobile
+  launcher interface pipes", risers and nozzles at the top of the flame deflector (NASA feature, undated);
+  "redesigned rainbird water nozzles" and new "water balancing plates" for Artemis II (2024). It only knocks the noise
+  "down a few decibels" (2019): no percent in a script. Where it goes: "east and west holding ponds through channels,
+  called water flumes" (undated feature). With no launcher on the pad, a test shot water "about 100 feet in the air"
+  (undated feature): the A1 hook picture. Thrust: "8.8 million pounds of thrust" (NASA, Nov 23 2022; Spaceflight Now,
+  Dec 9 2022), so the undated page's "a combined 8.4 million pounds" is out. The heat: the flame trench is lined with
+  about 96,000 heat-resistant bricks in three sizes, rated to "temperatures of up to 2,000 degrees Fahrenheit", its
+  north side about 571 ft long, 58 ft wide and 42 ft high, and the new deflector throws the plume north (NASA, May 11
+  2017). The real break: the first launch, Artemis I on Nov 16 2022, "blew the doors off elevators that run up and
+  down the structure", which "wasn't expected" (Spaceflight Now); "The most significant issue is the damage to the
+  elevators", so crews walked the tower's 662 steps to inspect it (NASA, Nov 23 2022, upd. Sep 29 2023). Before a
+  crew flew: "new water nozzles" for the sound suppression (Spaceflight Now; the 2024 page's rainbird nozzles); neither
+  page says the elevator doors were made stronger, so no line says how they were fixed. Chain: the roar shakes the
+  rocket (A2) → flood the pad (A3) → a 2,000 °F blast at the pad's floor (A4) → 96,000 heat bricks and a deflector
+  that throws it north (A5) → the first launch blew the doors off the tower's elevators (A6) → repairs and new
+  nozzles before a crew flew (B1) → half a million gallons with nowhere to go (B2) → the flumes to the ponds (B3) →
+  B5 the real Artemis II launch of Apr 1 2026. A1: a white geyser bursting 100 ft over an empty concrete launch pad
+  at dawn. B6: funny slow motion, a backyard sprinkler switched on mid-party soaks the guests. Pad and rocket only:
+  no NASA logos, no crew.
+  [NASA, Pad 39B water flow test, Sep 16 2019](https://www.nasa.gov/centers-and-facilities/kennedy/pad-39b-water-flow-test-comes-through-loud-and-clear),
+  [NASA blog, Jul 19 2024](https://www.nasa.gov/blogs/missions/2024/07/19/nasa-kennedy-teams-complete-water-flow-tests-for-artemis-ii-mission/),
+  [NASA, water deluge test at 39B](https://www.nasa.gov/feature/water-deluge-test-a-success-at-launch-pad-39b),
+  [NASA, after Artemis I, Nov 23 2022](https://www.nasa.gov/humans-in-space/teams-assess-mobile-launcher-and-pad-after-successful-artemis-i-launch/),
+  [Spaceflight Now, Dec 9 2022](https://spaceflightnow.com/2022/12/09/repairs-and-upgrades-await-sls-mobile-launcher-before-crewed-lunar-mission/),
+  [NASA, final flame trench brick, May 11 2017](https://www.nasa.gov/blogs/groundsystems/2017/05/11/final-brick-installed-in-launch-complex-39b-flame-trench-for-nasas-space-launch-system)
+- Free real launch film (new to these notes; NASA's terms and SVS: the Nov 24 and 25 entries): NASA SVS 31385,
+  "Artemis II launch" (released Apr 1 2026, upd. Apr 28 2026), has direct MP4 links at 1920x1080 and 3840x2160 (e.g.
+  "Artemis-2-launch-long-4K.mp4 (3840x2160) [438.7 MB]") and SRT captions; the 4K file crops to 9:16 at 1215x2160,
+  above our 1080x1920. Liftoff: "6:35 p.m. EDT" on "April 1, 2026" from Launch Complex 39B (NASA). Space.com (Sep 24
+  2026): new NASA launch videos from "dozens of specialized cameras" from the pad to drones, in slow motion, through
+  booster separation (where those files sit not checked: NASA's Artemis II multimedia page). NASA's "Orion Camera View
+  of Artemis II Climb to Orbit" (2:14, 1280x1024, direct download) is a view from space: out under the LINEUP rule.
+  Use pad and rocket shots only (no crew walkouts or cabin shots: no current astronauts' likeness in commercial use),
+  credit "NASA", no NASA insignia on the cover. Fetch media would need the .gov host: try one small file first.
+  [NASA SVS 31385](https://svs.gsfc.nasa.gov/31385/),
+  [NASA, Orion camera view](https://www.nasa.gov/video-detail/art002m1200912237-saj-jettisonorig-3/),
+  [Space.com, Sep 24 2026](https://www.space.com/space-exploration/artemis/new-videos-of-nasas-artemis-ii-launch-show-the-absolute-power-of-the-sls-rocket),
+  [NASA images and media guidelines](https://nasa.gov/nasa-brand-center/images-and-media)
+- The Shinkansen 500 Series (the 00:00 candidate), its retirement checked: "set to retire from regular service at
+  the end of January 2027, due to the aging of the vehicles" (nippon.com Japan Data, Jul 16 2026, citing a JR West
+  release of Jun 22 2026); Jiji (nippon.com in Spanish, Osaka, Jun 23 2026) has it leaving "en el mismo período" as
+  JR West's Doctor Yellow, "enero de 2027"; the Japan Times (Jul 25 2024) had only "in 2027" and N700S trains to be
+  added. So Wikipedia's 13 January is not confirmed: script "it retires in January 2027" (a peg for a December
+  post), no day. It now runs as Kodama trains, "which stop at every station" (Japan Times).
+  [nippon.com, Jul 16 2026](https://www.nippon.com/en/japan-data/h02826/shinkansen-500-series-set-for-retirement.html),
+  [nippon.com (Jiji), Jun 23 2026](https://www.nippon.com/es/news/yjj2026062200975/),
+  [Japan Times, Jul 25 2024](https://japantimes.co.jp/business/2024/07/25/companies/japan-shinkansen-retire)
+- Doctor Yellow, a possible peg (new to these notes): JR West's yellow inspection Shinkansen checks the track and
+  the overhead wires ("las vías y las catenarias") while running at high speed and leaves service in January 2027;
+  JR Central's made its last run in January 2025 (Jiji via nippon.com, Jun 23 2026). Its speed, how often it runs and
+  what replaces it are not on that page. Japan is already 104 and 116 plus two candidates, so far down the list if at
+  all. [nippon.com (Jiji), Jun 23 2026](https://www.nippon.com/es/news/yjj2026062200975/)
+- A candidate build for the New Year's Eve week, a drone light show (new to LINEUP and these notes; thousands of
+  drones drawing one picture, the year's big record story). Records, kept apart: "largest simultaneous drone
+  flight", 33,615 drones at once over Sichuan (CGTN, May 25 2026; no organiser or certifier named there); Guinness's
+  71,207 is "most multirotors/drones launched in a week", about "10,200 drones per performance" on Sep 27-30 in Blue
+  Ridge, Texas (Sky Elements and Damoda America), whose 10,183-drone dragon on Sep 28 is the "largest aerial display
+  of a mythical creature" (Guinness, Oct 6 2026; the page says both three and five shows). Script "more than 33,000
+  drones at once" (check Guinness's own record page before a line says "world record"), never "70,000". The break:
+  ordinary GPS is off by "around two to three metres" (The Star, Sep 28
+  2026), too far for drones a few metres apart. Fix: RTK, a fixed base station that cuts the error "from multiple
+  meters to just a couple centimeters" (Verge Aero docs). No one flies them: "every single motion they make is
+  actually pre-programmed in advance" (The Star), "Each drone is responsible for automatically executing its own
+  role" (Verge Aero), and a simulation checks beforehand that drones "keep a safe distance apart"; each LED changes
+  colour "30 times every second" (Verge Aero). Breaks for later lines: signals that "bounce off tall buildings" (The
+  Star); a drone that "loses RTK lock" or meets wind shear cuts its lights and "glides out of formation to an
+  emergency landing corridor", and ground control can "freeze a performance mid-air" (The Star); a thunderstorm
+  "rolled in" during the first Texas show (Guinness). A1: a glowing dragon of ten thousand lights over a dark field.
+  B6: funny slow motion, a toy drone at a birthday party drifts straight into the cake. The Gulf peg for Kef
+  Tenbeni: last New Year's Eve Abu Dhabi flew "6,500 drones" for 20 minutes and Ras Al Khaimah took the Guinness
+  title "largest aerial display of a phoenix formed by multirotors / drones" (The National, Jan 1 2026); the Abu
+  Dhabi Media Office's "the largest drone show in the world" (Jan 2 2026) is wrong beside the 33,615 record, so never
+  in a script. Nothing announced yet for this New Year's Eve on those pages. No logos, no faces in the crowd.
+  [The National, Jan 1 2026](https://thenationalnews.com/lifestyle/2026/01/01/uae-fireworks-world-records-drones/),
+  [Abu Dhabi Media Office, Jan 2 2026](https://www.mediaoffice.abudhabi/en/tourism/sheikh-zayed-festival-breaks-5-guinness-world-records-at-new-years-eve-celebrations/),
+  [CGTN, May 25 2026](https://news.cgtn.com/news/2026-05-25/World-s-largest-drone-cluster-lights-up-Sichuan-sky-with-33-615-units-1Nrli2Ruj2o/share_amp.html),
+  [Guinness World Records, Oct 6 2026](https://www.guinnessworldrecords.com/news/commercial/2026/10/texan-night-sky-lit-up-with-over-70000-drones-during-record-breaking-aerial-performance),
+  [Verge Aero, how drone shows work](https://docs.verge.aero/drone-show-technology/how-drone-shows-work-an-overview),
+  [The Star, Sep 28 2026](https://www.thestar.com.my/tech/tech-news/2026/09/28/spectacles-in-the-sky-the-tech-behind-the-aerial-art-of-drone-shows)
+
+Checked, nothing new
+- Higgsfield: this hour's search for unlimited Seedance past Nov 28 gave only pages already here (the 33-day and 4K
+  11-day posts, trak.in, the Seedance 2.5 pages) and a reseller's status page (seedance2.so, not read): Nov 28
+  stands, so today is the last free video day.
+- Holiday-weekend offers: the Cyber Monday search gave last year's Pixazo/BytePlus toolkit and InVideo's offers page
+  (both here) and affiliate deal lists (Cybernews, diyai, Pixara, Mootion), none with free unlimited video.
+- YouTube features: only the Made on YouTube 2026 pages (Sep 23), already here; nothing dated this week.
+- Trends: the December search gave 2026 forecast lists (Adobe Express, Sendible, Metricool, ContentStudio, Kineclip,
+  ShortSync, Klap, ShortGenius, Superside, Hedra) and startups.co.uk's November page (here); no new data this hour.
