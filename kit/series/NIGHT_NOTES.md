@@ -2531,3 +2531,103 @@ The show run of Nov 23 stopped at 13:36 PT on Claude's usage limit (ROUTINE_RUN_
   English Instagram + TikTok and Arabic TikTok still wait for places. Allowance after it ("30d" r=): English 135,
   Arabic 56 (the 21:25Z status cron took 14 from each, this push 4 and 2). Message, push notification, the two short
   cuts and the two thumbnails went to the owner at 14:20 PT; claude/build-it-4-minute-show.md has episode 7 in its table.
+
+## Nov 27 2026 (evening run, 18:37 PT): 109 the Eastgate Centre, 110 the Bahrain World Trade Center, 111 a pin tumbler lock (v2; post Sun Nov 29 PT)
+- TODAY Fri Nov 27 PT, TOMORROW Sat Nov 28 PT, but Saturday already carries six builds (100-105) and the midday run put
+  106-108 on Sunday's first three slots, so 109-111 take Sunday's evening slots: EN 13:30 / 16:00 / 18:30 PT = 21:30Z
+  Nov 29 / 00:00Z / 02:30Z Nov 30; AR Instagram 09:00 / 12:00 / 15:00 PT = 17:00Z / 20:00Z / 23:00Z Nov 29; AR TikTok
+  12:30 / 15:30 / 18:30 PT = 20:30Z / 23:30Z Nov 29 / 02:30Z Nov 30 (6 h after 108's 06:30 PT, 2 h after the show's
+  10:30 PT, then 3 h apart). Every at: turned back into PT with `TZ=America/Los_Angeles date -d` before the push.
+  YouTube: verified, so all three hold it with `studio: 1`.
+  NEXT FREE SLOTS (the runs of Nov 28, builds 112-117; 111's line 10 promises the Sydney Harbour Bridge, "the bridge
+  Sydney calls the Coathanger"): Mon Nov 30 PT, the usual grid (midday EN 06:00 / 08:30 / 11:00, AR 00:00 / 03:00 /
+  06:00, AR TikTok 00:30 / 03:30 / 06:30 PT, 6 h after 111's 18:30 PT Sun; evening EN 13:30 / 16:00 / 18:30, AR 09:00 /
+  12:00 / 15:00, AR TikTok from 12:30 PT).
+- Status at the start (tools.yml status, 02:51Z): Friday's six builds 94-99: English Instagram + TikTok all twelve out
+  at their slots, Arabic Instagram all six; Arabic TikTok 93 (00:30 PT), 94 and 98 out, 99 at 21:30 PT; 95, 96 and 97
+  refused ("potential spam") and 80's requeue refused again (08:30 PT). Not requeued: every requeue lists all sent
+  posts first and costs Arabic requests the new posts need, and refused posts have kept being refused on requeue.
+- BUFFER API ALLOWANCE, FIXED IN PART: scripts/buffer.py now lists posts in pages of 100 instead of 25 (it falls back
+  to 25 for the rest of the run if Buffer ever refuses a big page; it did not). This run's status run cost 5 requests
+  per account (about 14 before); every status, metrics and requeue listing and the status.yml cron (about twice a day,
+  "17 */6" but GitHub drops most) now cost about a third. After the status run: Arabic 51, English 130 ("30d" r=,
+  resets about Dec 10). The schema cache (state/buffer-schema.json) expires 03:30Z Nov 29; the first account that runs
+  after that (English, listed first) pays the ~15-request re-read.
+- yt_desk check: "nothing overdue", but only because it reads the newest show (sm07, due Sat): sm05 and sm06 were never
+  uploaded (posts/sm05.yml and sm06.yml still hold all six targets) and the ledger's newest entry is still 01:07Z
+  Nov 25, so 88-99 are not on YouTube either. No desk round is scheduled (list_triggers). Told the owner; not repaired.
+- Metrics (02:58Z): 243,736 views (+16,246 in two days; Arabic Instagram +7,547). The two tests planned for Nov 28:
+  the hook rules (73-75 vs 64-72) and Seedance (76-95 vs 64-72) show no lift in views and lower watch-through for
+  Seedance; English TikTok woke up on Friday (94-97: 102-228 views in hours). Entry in claude/build-it-performance.md.
+- Pages: retired ep77, arch-b91, seatbelt-b92 and ep93 (Studio date Thu Nov 26; TikTok + Instagram out or only a
+  refused Arabic TikTok left): media/ 1.2 GB -> 944 MB, about 1.05 GB with 109-111. Next: 94-99 once their Friday Studio
+  date is a day past (95-97 carry only refused Arabic TikToks; 99's goes out at 21:30 PT).
+- Why v2: eastgate-A/B and bahrainwtc-A/B were todo (the on-computer runner has made nothing since 13:24 Nov 26; its
+  task shows no bound device); the four jobs are marked skipped in higgsfield/queue.yml. Free Seedance video ends Nov 28.
+- Voices: Ballen v4 + Mansour v4. First takes: Eastgate EN 72.2 s at the x1.12 cap (180 words read slowly: long words
+  and "..." pauses) / AR 73.1 s; Bahrain EN 68.3 s (cap) / AR 71.8 s; pin lock EN 66.0 s / AR 68.5 s. Eastgate English
+  took three more passes: ten lines shortened to 160 words (67.5 s), lines 2, 4 and 11 again (line 2 ended at 9.5 s),
+  then line 9 ("brick" heard "Brit"; now "pours out of forty-eight chimneys") -> 66.0 s. Bahrain: the hook lost "between
+  them" (5.1 -> 4.8 s), line 6 "a gust" heard "August" (now "in strong winds"), lines 8 and 11 shortened -> 66.8 s. Pin
+  lock line 3 "springs" heard "sprains" (now "a spring pushes each pin") -> 66.5 s. Left as heard: "Y'all" -> "Yo",
+  Eastgate line 10 "Hit" -> "If" (the pill and caption carry it), number formats. Arabic voices unchanged; only the two
+  digit stat lines read weak (Eastgate 31%, Bahrain 34%: Whisper writes the years as digits, the words are right). Hooks
+  EN 4.4 / 4.8 / 4.0 s with the problem told by 9.0 / 9.1 / 8.5 s, AR 4.6 / 4.9 / 4.0 s by 9.7 / 9.5 / 8.4 s (only the
+  known comma FAILs). ElevenLabs characters this run (voice job logs): first takes 6,372, remakes 1,596 (about 7,970).
+- Lesson: keep Ballen v2 scripts near 160-170 words when lines carry long words, names and "..." pauses: 180 words was
+  72 s at the cap for Eastgate and 66 s for the pin lock.
+- Research: WebSearch (titles) plus the runner's sourced notes in higgsfield/ideas.md for all three (Eastgate: Pearce,
+  Arup, ASME, Nautilus, Harvard SEAS, E4C, Hidden Architecture; Bahrain: Wikipedia, Gulf Construction Online, Building,
+  Arabian Business, ENR, TU/e 2014, SKF, IET; pin lock: Wikipedia, Lemelson-MIT, antique-padlocks, Schuyler Towne,
+  Explain That Stuff). Claims kept to the safe forms the notes give: "no ordinary air conditioning" (it runs fans),
+  "about ten air changes an hour" by night, the mounds "mostly breathe, like a lung" (Turner, Harvard 2015), "a later
+  study says the other way round they'd make fourteen percent more" (TU/e), "about four thousand years", "by the 1860s
+  an American father and son" (Yale Sr. and Jr.).
+- Scenes (v2 look 2):
+  - eastgate.py (city, oven, section, mound, tag): facade() = two long concrete blocks with ledges over small deep
+    windows, vine columns, red tiled roofs with 24 brick chimneys shimmering (wavy()) and a glass atrium; termite_mound()
+    a knobbly earth spire with turrets; the hook zooms 2.7 -> 1.0 off the mound's top to the building; oven() a glass
+    tower glowing in the sun with workers, a thermometer and a mound inset; section() one block cut open through a day
+    (tod 0-3 sky): hollow slabs with concrete teeth, the outer wall with ledges and small windows, a shaft to a chimney,
+    a thermal tint (wall_heat, slab_heat), people and computers with heat puffs, night fans with flow_arrows() along each
+    slab, floor grilles by day, warm air bands under the ceilings, then up the shaft and out; mound_set() a breathing
+    mound with in/out arrows and a lung; office_tag() the AC-remote tug of war (both languages).
+  - bahrainwtc.py (towers, plan, front, study, tag): tower(side, taper, sway) = sail-shaped glass towers with the crown
+    on the gap side; bridges() trusses with rotors (r 80 in a 176 px gap), strain glows and rubber bearings; plan() a top
+    view with sail-shaped footprints (round front to the north, pointed tail), streamlines that slant (wind_ang) and bend
+    through the gap (bend), the turbine bar with a padlock; front() towers swaying by different amounts, wind arrows
+    longer up high, taper 0 (straight) -> 1; study() the plan turned 180 degrees and a meter to +14%; dad_tag() the light
+    switch with the towers in the window. draw_cover() drops "THE" from the English name (see the cover lesson).
+  - pinlock.py (door, cutaway, ancient, copy, tag): lock_section() = housing, plug (stripes slide when it turns), the
+    dashed shear line (green when every gap sits on it), five pin stacks (spring, driver pin, key pin of KEY_LEN), a key
+    whose V-notched blade_top_at() profile lifts the pins as it slides in (off), a screwdriver, red circles for a wrong
+    key; end_view() the lock face turning or rattling; door_scene() with an x-ray lens over the lock; ancient() the
+    wooden bolt lock and an arm-long key shrinking into a cylinder and a flat key; copy: two keys with height markers;
+    tags EN the spare key under the doormat, AR looking for the key that is in your pocket.
+  - Lessons: bik's hexrgb() reads only #RRGGBB, so "#FFFFFF00" is OPAQUE white (it painted both Bahrain towers white):
+    put alpha in P(color, a) or the lin_paint a=; cover._fit() falls back to ONE line that runs off the frame when no
+    two-line split fits at size 88 ("THE BAHRAIN WORLD TRADE CENTER"), and make_cover's "inside the grid crop" checks
+    only y: look at every cover; light grey pins and a silver key bloomed white: mid-tone metals (#6B7484 / #A3ACB9).
+- Produce (one slug per run; 109 and 110 dispatched 03:36Z, 111 at 03:43Z; commits b5ff964 04:01Z, 27bb619 04:05Z,
+  f5d947e 04:09Z): Eastgate EN 69.1 s / AR 76.23 s, Bahrain EN 69.87 s / AR 74.93 s, pin lock EN 69.57 s / AR 71.6 s;
+  all -14.0 LUFS, peaks -2.0 to -2.2 dBFS, covers true (the office at dusk with its chimneys, the two towers lit with
+  three rotors, the lock cut open with every gap glowing on the shear line). QA sheets and covers looked at in both
+  languages. Whisper small on the three English mixes: number formats, "Yo", "If follow", "Hey, congrats", "sidewind",
+  "pinlocks" only; CI's base.en heard "termite mound" as "turn-right mound", "breathe, like a lung" as "brief, like
+  alone" and "wind turbines" as "winter bonds": small hears all three right. Anchors, sweeps and save checks clean in
+  both languages.
+- Posts: one commit (975f846) pushed at 04:15Z after the Pages deploy of f5d947e (the last produce commit) ended in
+  success (run 46106226493). The retirement push before it (7a2491f, it touches media/) had already started a posting
+  run at 03:45Z that added 107's AR TikTok and 108's EN Instagram + TikTok and AR TikTok. State 04:16Z: 109's EN
+  Instagram + TikTok (21:30Z Nov 29) and AR Instagram (17:00Z) scheduled; 109's AR TikTok and all eight Instagram +
+  TikTok targets of 110-111 wait for Buffer places (every channel 10 of 10 with Saturday's 100-105 and Sunday's
+  106-109). Saturday's posts free places from 00:00 PT; the runs of Nov 28 add them in due-time order with their pushes
+  (the earliest waiting slot is 110's AR Instagram, 12:00 PT Sun), and this session's check-in (trig_01LQ3CoRmeEGZ6qq8sqJwb1d) at 15:30Z Nov 29 (07:30
+  PT Sun) dispatches post.yml once if any still waits.
+- BUFFER ALLOWANCE AFTER THE RUN: Arabic 39, English 117 (status 5, metrics about 5, two posting runs 4 + 3 per
+  account). At six builds a day the posting alone costs about 16 a day per account (one request per post created plus
+  two or three per run), the cron about 10 and each production run's status look 5: Arabic runs out around Sun Nov 29,
+  English around Mon Nov 30, and then nothing new reaches Buffer until about Dec 10. Told the owner (his call: Buffer's
+  API upgrade, or fewer posts a day until the reset).
+- LINEUP: 109-111 taken; 118 the King Fahd Causeway, 119 Velcro, 120 Table Mountain's rotating cable car appended (nine
+  entries ahead of 111: 112-120).
