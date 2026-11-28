@@ -1,0 +1,983 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 66.154,
+ "words": 172,
+ "words_per_sec": 2.6,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 3.865,
+   "text": "Y'all, a soda can's wall is... about as thin as paper.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.143,
+     "end": 0.679
+    },
+    {
+     "w": "a",
+     "start": 0.839,
+     "end": 0.982
+    },
+    {
+     "w": "soda",
+     "start": 1.018,
+     "end": 1.268
+    },
+    {
+     "w": "can's",
+     "start": 1.339,
+     "end": 1.696
+    },
+    {
+     "w": "wall",
+     "start": 1.875,
+     "end": 2.054
+    },
+    {
+     "w": "is...",
+     "start": 2.268,
+     "end": 2.578
+    },
+    {
+     "w": "about",
+     "start": 2.672,
+     "end": 2.768
+    },
+    {
+     "w": "as",
+     "start": 2.839,
+     "end": 2.911
+    },
+    {
+     "w": "thin",
+     "start": 2.982,
+     "end": 3.125
+    },
+    {
+     "w": "as",
+     "start": 3.196,
+     "end": 3.268
+    },
+    {
+     "w": "paper.",
+     "start": 3.339,
+     "end": 4.054
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 4.178,
+   "end": 8.627,
+   "text": "And the fizz pushes as hard as a car tire! Stronger full, or empty?",
+   "words": [
+    {
+     "w": "And",
+     "start": 4.3,
+     "end": 4.321
+    },
+    {
+     "w": "the",
+     "start": 4.392,
+     "end": 4.535
+    },
+    {
+     "w": "fizz",
+     "start": 4.606,
+     "end": 4.821
+    },
+    {
+     "w": "pushes",
+     "start": 4.892,
+     "end": 5.178
+    },
+    {
+     "w": "as",
+     "start": 5.249,
+     "end": 5.392
+    },
+    {
+     "w": "hard",
+     "start": 5.463,
+     "end": 5.678
+    },
+    {
+     "w": "as",
+     "start": 5.713,
+     "end": 5.749
+    },
+    {
+     "w": "a",
+     "start": 5.821,
+     "end": 5.892
+    },
+    {
+     "w": "car",
+     "start": 5.963,
+     "end": 6.178
+    },
+    {
+     "w": "tire!",
+     "start": 6.249,
+     "end": 6.767
+    },
+    {
+     "w": "Stronger",
+     "start": 6.901,
+     "end": 7.329
+    },
+    {
+     "w": "full,",
+     "start": 7.544,
+     "end": 7.937
+    },
+    {
+     "w": "or",
+     "start": 8.044,
+     "end": 8.115
+    },
+    {
+     "w": "empty?",
+     "start": 8.187,
+     "end": 8.758
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 8.939,
+   "end": 13.054,
+   "text": "So the bottom bends in, like a dome, to hold that push.",
+   "words": [
+    {
+     "w": "So",
+     "start": 9.154,
+     "end": 9.296
+    },
+    {
+     "w": "the",
+     "start": 9.368,
+     "end": 9.511
+    },
+    {
+     "w": "bottom",
+     "start": 9.582,
+     "end": 9.868
+    },
+    {
+     "w": "bends",
+     "start": 10.011,
+     "end": 10.368
+    },
+    {
+     "w": "in,",
+     "start": 10.439,
+     "end": 10.796
+    },
+    {
+     "w": "like",
+     "start": 10.939,
+     "end": 11.011
+    },
+    {
+     "w": "a",
+     "start": 11.082,
+     "end": 11.154
+    },
+    {
+     "w": "dome,",
+     "start": 11.225,
+     "end": 11.725
+    },
+    {
+     "w": "to",
+     "start": 11.796,
+     "end": 11.868
+    },
+    {
+     "w": "hold",
+     "start": 12.011,
+     "end": 12.225
+    },
+    {
+     "w": "that",
+     "start": 12.332,
+     "end": 12.439
+    },
+    {
+     "w": "push.",
+     "start": 12.511,
+     "end": 13.154
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 13.367,
+   "end": 17.386,
+   "text": "But how do you shape metal that thin into a tall cup?",
+   "words": [
+    {
+     "w": "But",
+     "start": 13.929,
+     "end": 14.072
+    },
+    {
+     "w": "how",
+     "start": 14.215,
+     "end": 14.287
+    },
+    {
+     "w": "do",
+     "start": 14.358,
+     "end": 14.429
+    },
+    {
+     "w": "you",
+     "start": 14.501,
+     "end": 14.572
+    },
+    {
+     "w": "shape",
+     "start": 14.644,
+     "end": 14.858
+    },
+    {
+     "w": "metal",
+     "start": 15.001,
+     "end": 15.287
+    },
+    {
+     "w": "that",
+     "start": 15.429,
+     "end": 15.644
+    },
+    {
+     "w": "thin",
+     "start": 15.787,
+     "end": 16.144
+    },
+    {
+     "w": "into",
+     "start": 16.215,
+     "end": 16.429
+    },
+    {
+     "w": "a",
+     "start": 16.465,
+     "end": 16.501
+    },
+    {
+     "w": "tall",
+     "start": 16.572,
+     "end": 16.858
+    },
+    {
+     "w": "cup?",
+     "start": 16.929,
+     "end": 17.501
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.698,
+   "end": 22.604,
+   "text": "So a flat disk gets punched into a cup, then squeezed taller through rings.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.912,
+     "end": 18.055
+    },
+    {
+     "w": "a",
+     "start": 18.127,
+     "end": 18.27
+    },
+    {
+     "w": "flat",
+     "start": 18.341,
+     "end": 18.627
+    },
+    {
+     "w": "disk",
+     "start": 18.77,
+     "end": 19.055
+    },
+    {
+     "w": "gets",
+     "start": 19.127,
+     "end": 19.341
+    },
+    {
+     "w": "punched",
+     "start": 19.412,
+     "end": 19.627
+    },
+    {
+     "w": "into",
+     "start": 19.698,
+     "end": 19.912
+    },
+    {
+     "w": "a",
+     "start": 20.055,
+     "end": 20.127
+    },
+    {
+     "w": "cup,",
+     "start": 20.198,
+     "end": 20.555
+    },
+    {
+     "w": "then",
+     "start": 20.662,
+     "end": 20.77
+    },
+    {
+     "w": "squeezed",
+     "start": 20.805,
+     "end": 21.27
+    },
+    {
+     "w": "taller",
+     "start": 21.305,
+     "end": 21.698
+    },
+    {
+     "w": "through",
+     "start": 21.77,
+     "end": 21.984
+    },
+    {
+     "w": "rings.",
+     "start": 22.02,
+     "end": 22.698
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 22.916,
+   "end": 25.82,
+   "text": "But bare aluminum makes soda taste like metal!",
+   "words": [
+    {
+     "w": "But",
+     "start": 23.116,
+     "end": 23.259
+    },
+    {
+     "w": "bare",
+     "start": 23.33,
+     "end": 23.545
+    },
+    {
+     "w": "aluminum",
+     "start": 23.652,
+     "end": 24.045
+    },
+    {
+     "w": "makes",
+     "start": 24.116,
+     "end": 24.33
+    },
+    {
+     "w": "soda",
+     "start": 24.402,
+     "end": 24.687
+    },
+    {
+     "w": "taste",
+     "start": 24.759,
+     "end": 24.973
+    },
+    {
+     "w": "like",
+     "start": 25.045,
+     "end": 25.188
+    },
+    {
+     "w": "metal!",
+     "start": 25.33,
+     "end": 25.83
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 26.132,
+   "end": 29.918,
+   "text": "So the inside gets a thin plastic coat, like a raincoat.",
+   "words": [
+    {
+     "w": "So",
+     "start": 26.346,
+     "end": 26.489
+    },
+    {
+     "w": "the",
+     "start": 26.561,
+     "end": 26.704
+    },
+    {
+     "w": "inside",
+     "start": 26.775,
+     "end": 27.204
+    },
+    {
+     "w": "gets",
+     "start": 27.275,
+     "end": 27.418
+    },
+    {
+     "w": "a",
+     "start": 27.525,
+     "end": 27.632
+    },
+    {
+     "w": "thin",
+     "start": 27.739,
+     "end": 27.846
+    },
+    {
+     "w": "plastic",
+     "start": 27.918,
+     "end": 28.346
+    },
+    {
+     "w": "coat,",
+     "start": 28.418,
+     "end": 28.846
+    },
+    {
+     "w": "like",
+     "start": 28.989,
+     "end": 29.061
+    },
+    {
+     "w": "a",
+     "start": 29.132,
+     "end": 29.168
+    },
+    {
+     "w": "raincoat.",
+     "start": 29.204,
+     "end": 29.918
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 30.23,
+   "end": 34.326,
+   "text": "But old pull tabs came off... and littered every beach!",
+   "words": [
+    {
+     "w": "But",
+     "start": 30.793,
+     "end": 30.936
+    },
+    {
+     "w": "old",
+     "start": 31.007,
+     "end": 31.15
+    },
+    {
+     "w": "pull",
+     "start": 31.221,
+     "end": 31.436
+    },
+    {
+     "w": "tabs",
+     "start": 31.507,
+     "end": 31.793
+    },
+    {
+     "w": "came",
+     "start": 31.864,
+     "end": 32.079
+    },
+    {
+     "w": "off...",
+     "start": 32.257,
+     "end": 32.516
+    },
+    {
+     "w": "and",
+     "start": 32.587,
+     "end": 32.659
+    },
+    {
+     "w": "littered",
+     "start": 32.802,
+     "end": 33.23
+    },
+    {
+     "w": "every",
+     "start": 33.302,
+     "end": 33.659
+    },
+    {
+     "w": "beach!",
+     "start": 33.73,
+     "end": 34.445
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 34.638,
+   "end": 38.899,
+   "text": "So today's tab stays on: a little lever that pushes the lid in.",
+   "words": [
+    {
+     "w": "So",
+     "start": 34.853,
+     "end": 34.996
+    },
+    {
+     "w": "today's",
+     "start": 35.067,
+     "end": 35.496
+    },
+    {
+     "w": "tab",
+     "start": 35.567,
+     "end": 35.853
+    },
+    {
+     "w": "stays",
+     "start": 35.924,
+     "end": 36.21
+    },
+    {
+     "w": "on:",
+     "start": 36.281,
+     "end": 36.826
+    },
+    {
+     "w": "a",
+     "start": 36.862,
+     "end": 36.897
+    },
+    {
+     "w": "little",
+     "start": 36.969,
+     "end": 37.183
+    },
+    {
+     "w": "lever",
+     "start": 37.254,
+     "end": 37.612
+    },
+    {
+     "w": "that",
+     "start": 37.719,
+     "end": 37.826
+    },
+    {
+     "w": "pushes",
+     "start": 37.933,
+     "end": 38.183
+    },
+    {
+     "w": "the",
+     "start": 38.219,
+     "end": 38.254
+    },
+    {
+     "w": "lid",
+     "start": 38.326,
+     "end": 38.54
+    },
+    {
+     "w": "in.",
+     "start": 38.647,
+     "end": 39.112
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 39.212,
+   "end": 43.54,
+   "text": "Hit follow, 'cause next we're building a crane that makes itself taller.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 39.354,
+     "end": 39.497
+    },
+    {
+     "w": "follow,",
+     "start": 39.64,
+     "end": 40.212
+    },
+    {
+     "w": "'cause",
+     "start": 40.354,
+     "end": 40.569
+    },
+    {
+     "w": "next",
+     "start": 40.712,
+     "end": 40.997
+    },
+    {
+     "w": "we're",
+     "start": 41.14,
+     "end": 41.283
+    },
+    {
+     "w": "building",
+     "start": 41.354,
+     "end": 41.569
+    },
+    {
+     "w": "a",
+     "start": 41.64,
+     "end": 41.712
+    },
+    {
+     "w": "crane",
+     "start": 41.783,
+     "end": 42.069
+    },
+    {
+     "w": "that",
+     "start": 42.14,
+     "end": 42.212
+    },
+    {
+     "w": "makes",
+     "start": 42.283,
+     "end": 42.426
+    },
+    {
+     "w": "itself",
+     "start": 42.497,
+     "end": 42.926
+    },
+    {
+     "w": "taller.",
+     "start": 42.997,
+     "end": 43.712
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 43.853,
+   "end": 49.095,
+   "text": "The answer? Full! The fizz pushes the wall tight, so it barely dents.",
+   "words": [
+    {
+     "w": "The",
+     "start": 44.067,
+     "end": 44.138
+    },
+    {
+     "w": "answer?",
+     "start": 44.21,
+     "end": 44.808
+    },
+    {
+     "w": "Full!",
+     "start": 44.96,
+     "end": 45.46
+    },
+    {
+     "w": "The",
+     "start": 46.103,
+     "end": 46.246
+    },
+    {
+     "w": "fizz",
+     "start": 46.281,
+     "end": 46.531
+    },
+    {
+     "w": "pushes",
+     "start": 46.603,
+     "end": 46.888
+    },
+    {
+     "w": "the",
+     "start": 46.96,
+     "end": 47.031
+    },
+    {
+     "w": "wall",
+     "start": 47.138,
+     "end": 47.246
+    },
+    {
+     "w": "tight,",
+     "start": 47.317,
+     "end": 47.746
+    },
+    {
+     "w": "so",
+     "start": 47.817,
+     "end": 47.888
+    },
+    {
+     "w": "it",
+     "start": 47.996,
+     "end": 48.103
+    },
+    {
+     "w": "barely",
+     "start": 48.174,
+     "end": 48.531
+    },
+    {
+     "w": "dents.",
+     "start": 48.567,
+     "end": 49.174
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 49.407,
+   "end": 54.778,
+   "text": "A tenth of a millimeter, up to ninety PSI, and over a hundred billion a year.",
+   "words": [
+    {
+     "w": "A",
+     "start": 49.529,
+     "end": 49.55
+    },
+    {
+     "w": "tenth",
+     "start": 49.621,
+     "end": 49.836
+    },
+    {
+     "w": "of",
+     "start": 49.907,
+     "end": 49.979
+    },
+    {
+     "w": "a",
+     "start": 50.014,
+     "end": 50.05
+    },
+    {
+     "w": "millimeter,",
+     "start": 50.121,
+     "end": 50.764
+    },
+    {
+     "w": "up",
+     "start": 50.907,
+     "end": 51.05
+    },
+    {
+     "w": "to",
+     "start": 51.157,
+     "end": 51.264
+    },
+    {
+     "w": "ninety",
+     "start": 51.336,
+     "end": 51.621
+    },
+    {
+     "w": "PSI,",
+     "start": 51.764,
+     "end": 52.621
+    },
+    {
+     "w": "and",
+     "start": 52.693,
+     "end": 52.764
+    },
+    {
+     "w": "over",
+     "start": 52.836,
+     "end": 53.05
+    },
+    {
+     "w": "a",
+     "start": 53.264,
+     "end": 53.288
+    },
+    {
+     "w": "hundred",
+     "start": 53.312,
+     "end": 53.621
+    },
+    {
+     "w": "billion",
+     "start": 53.836,
+     "end": 54.193
+    },
+    {
+     "w": "a",
+     "start": 54.264,
+     "end": 54.336
+    },
+    {
+     "w": "year.",
+     "start": 54.407,
+     "end": 54.907
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 55.09,
+   "end": 58.76,
+   "text": "And congrats, you just built an aluminum soda can yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 55.212,
+     "end": 55.233
+    },
+    {
+     "w": "congrats,",
+     "start": 55.304,
+     "end": 56.179
+    },
+    {
+     "w": "you",
+     "start": 56.322,
+     "end": 56.465
+    },
+    {
+     "w": "just",
+     "start": 56.537,
+     "end": 56.679
+    },
+    {
+     "w": "built",
+     "start": 56.787,
+     "end": 56.894
+    },
+    {
+     "w": "an",
+     "start": 56.929,
+     "end": 56.965
+    },
+    {
+     "w": "aluminum",
+     "start": 57.037,
+     "end": 57.465
+    },
+    {
+     "w": "soda",
+     "start": 57.537,
+     "end": 57.751
+    },
+    {
+     "w": "can",
+     "start": 57.822,
+     "end": 58.037
+    },
+    {
+     "w": "yourself.",
+     "start": 58.108,
+     "end": 58.831
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 59.072,
+   "end": 66.146,
+   "text": "It survives trucks, ships and hot cars... then your buddy shakes it before handing it over.",
+   "words": [
+    {
+     "w": "It",
+     "start": 59.644,
+     "end": 60.001
+    },
+    {
+     "w": "survives",
+     "start": 60.072,
+     "end": 60.572
+    },
+    {
+     "w": "trucks,",
+     "start": 60.644,
+     "end": 61.358
+    },
+    {
+     "w": "ships",
+     "start": 61.429,
+     "end": 61.715
+    },
+    {
+     "w": "and",
+     "start": 61.929,
+     "end": 62.144
+    },
+    {
+     "w": "hot",
+     "start": 62.215,
+     "end": 62.358
+    },
+    {
+     "w": "cars...",
+     "start": 62.429,
+     "end": 63.126
+    },
+    {
+     "w": "then",
+     "start": 63.84,
+     "end": 63.983
+    },
+    {
+     "w": "your",
+     "start": 64.09,
+     "end": 64.197
+    },
+    {
+     "w": "buddy",
+     "start": 64.233,
+     "end": 64.483
+    },
+    {
+     "w": "shakes",
+     "start": 64.554,
+     "end": 64.84
+    },
+    {
+     "w": "it",
+     "start": 64.912,
+     "end": 64.983
+    },
+    {
+     "w": "before",
+     "start": 65.126,
+     "end": 65.269
+    },
+    {
+     "w": "handing",
+     "start": 65.34,
+     "end": 65.554
+    },
+    {
+     "w": "it",
+     "start": 65.626,
+     "end": 65.697
+    },
+    {
+     "w": "over.",
+     "start": 65.769,
+     "end": 66.269
+    }
+   ]
+  }
+ ]
+}
