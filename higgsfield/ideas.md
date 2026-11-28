@@ -6754,3 +6754,71 @@ Checked, nothing new
 - Bing Video Creator (here since the Nov 24 19:05 entry, "not usable"): its terms page, "Last Updated: March, 2026", covers Image
   Creator and Video Creator and says "The Online Services are for entertainment purposes", with every video still
   watermarked: still no B-roll source. [Bing Image Creator and Video Creator terms](https://www.bing.com/new/termsofuseimagecreator)
+
+## 2026-11-28 03:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build for Kef Tenbeni, Dubai's Cayan Tower, the skyscraper that turns a quarter turn on its way up
+  (new to LINEUP and these notes; a Dubai Marina landmark with a real construction story). It "twists 90 degrees"
+  (Wikipedia, SOM, MEED) over 306.4 m and 73 floors above ground, 5 below (CTBUH, "All-Concrete", begun 2006; SOM
+  and ME Construction News say 307 m, MEED 303 m, SOM 75 floors: go by CTBUH), opened 10 June 2013 (Wikipedia), SOM
+  as architect and structural engineer. The trick: the floor plates, "each is slightly rotated against the story
+  below it", turn around "a cylindrical concrete pillar at the center" (SOM), each floor "set 1.2 degrees clockwise
+  from the floor below" (CTBUH; Wikipedia 1.2 too, MEED "about one degree", MECN 1.08: script "1.2 degrees a
+  floor"), so "each of the 48 columns moves in different directions" (MECN). Why turn it: "Wind load and solar heat gain are reduced compared to a rectilinear building of
+  the same height", and more tenants get "desirable views of the nearby marina and gulf" (SOM, which also names
+  wind-tunnel tests, staggered metal screen panels and deep window sills against the sun). The break that makes the
+  story: on 7 February 2007 (Wikipedia) the diaphragm wall failed after cracks in "the secant piles" and "water from
+  the marina poured in to the basement", a "20-metre-deep" pit (MEED; Snopes "20 meters below ground level"; MECN's
+  "27m" is the excavation), with 39 on site and none hurt (MEED; Snopes quotes Gulf News' "Nearly 100 workers": no
+  head count in a script); Snopes rates the flooded-site photos "True". Work stood still "a year and a half" and
+  resumed in July 2008 (Wikipedia; MECN: the restoration took "14 months" and about 30% of the budget). Its twist
+  record went to the Shanghai Tower in February 2015 (Wikipedia), so no "most twisted" line. Chain: a plain box tower
+  takes the full wind and sun (A2) → turn every floor 1.2 degrees round a concrete core (A3) → the columns can no
+  longer stand straight (A4) → columns that step a little at every floor (A5) → the Marina breaks into the 20 m pit
+  (A6) → pump it dry, rebuild the wall, restart in 2008 (B1) → desert sun on the glass (B2) → staggered metal screens
+  and deep sills (B3). A1: a glass tower turning a quarter turn above a marina at dusk, slow aerial climb. B6: funny
+  slow motion, someone wringing out a soaked bath towel, water everywhere (ours). No "Infinity", developer or builder
+  names in the prompts, no logos, workers only from behind. Free photos: not found yet (a Commons file page turned up
+  in search under a wrong host and could not be read from here).
+  [CTBUH Skyscraper Center](https://www.skyscrapercenter.com/building/cayan-tower/464),
+  [Wikipedia, Cayan Tower](https://en.wikipedia.org/wiki/Cayan_Tower),
+  [SOM, Cayan Tower](https://www.som.com/projects/cayan-tower/),
+  [MEED, undated](https://www.meed.com/work-to-restart-on-flood-hit-infinity-tower/),
+  [Snopes, upd. Jun 7 2007](https://www.snopes.com/fact-check/infinity-tower/),
+  [ME Construction News, Jan 13 2011](https://meconstructionnews.com/929/record-breaking-with-a-twist/amp)
+- Voyager 1 is one light-day out: a line, not a build (new to these notes, whose Voyager so far is the Rutan
+  aircraft; a whole build would break LINEUP's "far-away space pictures" rule). "at 4:16:07 a.m. CST ([10:16:07
+  UTC]) on November 18, 2026, Voyager 1 reached a distance of 1 light-day from Earth", "about 16.1 billion miles
+  (25.9 billion kilometers)", "49 years, 2 months and 11 days" after its launch on "September 5, 1977" (EarthSky,
+  Nov 18 2026; PopSci's Nov 15 was a 2025 projection: say Nov 18); "a command sent from Earth takes 24 hours to reach
+  the spacecraft, and another 24 hours for a response to return" (NASA SVS). The one dish that can talk back is on
+  Earth: DSS-43, "a 230-foot-wide (70-meter-wide) antenna in Canberra", "the only dish with enough signal power to
+  send commands to the Voyagers", offline "From May 4, 2025, through February 2026" for upgrades (JPL, May 14 2025;
+  the same page has the thruster save: roll thrusters that "stopped working in 2004 after losing power in two small
+  internal heaters" came back on Mar 20 2025, though firing them with the heaters off "could trigger a small
+  explosion"). Use: line 13 of the radio-across-the-Atlantic candidate for Dec 12 (Nov 27 10:00 entry), from 1901's
+  "three dots" over one ocean to a signal that now takes a whole day to arrive, or line 11 or 13 of any dish, antenna
+  or radio build. Free footage: NASA SVS 15120 (released Nov 12 2026) has a vertical explainer, "20261104 Voyager 1LD
+  EXPLAINER Video_Final_9x16.mp4" (1080x1920, 163.6 MB; HD, UHD and an .srt too), and clean animations as 1080p MP4
+  and 4K ProRes (e.g. "15120_VoyagerLightDay_01_Launch_from_Earth_clean_1080.mp4"); credit "NASA/JPL-Caltech"
+  (animations "NASA/Jonathan North", "NASA/Krystofer Kim"); the page has no usage line of its own, so NASA's media
+  rules apply as in the Nov 25 16:10 entry (no endorsement, no insignia). At most one short space shot in a build.
+  [EarthSky, Nov 18 2026](https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/),
+  [NASA SVS 15120](https://svs.gsfc.nasa.gov/15120),
+  [JPL, May 14 2025](https://www.jpl.nasa.gov/news/nasas-voyager-1-revives-backup-thrusters-before-command-pause/),
+  [PopSci, Nov 24 2025](https://popsci.com/science/voyager-one-light-day-earth)
+
+Checked, nothing new
+- Higgsfield past Nov 28: this hour's search gave only pages already here (the 33-day, 14-day, 7-day bonus, 4K
+  11-day and "New Unlimited" posts, the geo.higgsfield plan-change pages, trak.in): Nov 28 stands, so today is the
+  last free video day.
+- Later's TikTok trends post: still its Nov 27 edition ("Updated on November 27, 2026"); its newest entries (Text
+  zoom, the "I feel like I haven't done much this year" recap, Dear Santa) are all here already.
+- HeyOrca's Inspo Library (heyorca.com/tools/trends-library, new to these notes as a page): its trends load by
+  script, so from here it reads "No items found."; its trending-audio post could not be read this hour.
+- Trend and sound searches: SocialPilot, Virlo (the Nov 16 week; Nov 23 is here), Gelato, tokchart, Sprout Social,
+  SocialBee, Hootsuite, Exploding Topics, que.es and akurat.co, all here already or undated; free AI video searches
+  gave only vendor roundups and InVideo's offers page (here), no launch this week.
+- Recap week: still no confirmed Spotify Wrapped date (only the Official Charts and Techloy pages, here) and no
+  TikTok year-end report yet (the search gave statistics pages only).
