@@ -6212,3 +6212,148 @@ Checked, nothing new
 - Free sources: the public-domain film search gave LOC's National Film Registry page (already here) and the Internet
   Archive's 2026 remix contest (no new footage); the free AI image lists (WP Tavern, photoaistudio, zsky, wavespeed)
   name nothing checked as free, unlimited and cleared for commercial use.
+
+## 2026-11-27 21:00 PT (hourly runner, cloud run)
+
+New content
+- Shorts over a minute, against our 65-70 s builds (new to these notes): viral.app's own data (3.3M public TikToks,
+  Reels and Shorts from about 81,000 tracked accounts, Oct 1 2025 to Aug 31 2026, page updated Oct 1 2026; a vendor
+  that sells analytics) finds that Shorts over a minute got "0.81 times the median views of the same channel's shorter
+  Shorts", while TikToks of 1-3 minutes got "1.06 times" and Reels showed "no length effect within an account (0.99
+  times)"; its advice: "Keep Shorts under a minute; test longer TikToks with modest expectations." The same data:
+  "Neither original sound nor widely used sounds moved views", "The number of hashtags shows no link to views" (five
+  is now the most common count), and a cross-posted Reel's median views were about 1.35 times the same TikTok's. It
+  counts views only, not watch time. One more reason for the "Shorter cut (about 40-50 s)" test in
+  claude/build-it-performance.md, on YouTube Shorts first; it runs against Powerdrill's "43% more reach" over 60 s
+  (credited to Buffer, unverified; Nov 27 19:00 entry).
+  [viral.app, upd. Oct 1 2026](https://viral.app/blog/insights/short-form-video-trends) (vendor)
+- Build 120, Table Mountain's rotating cable car, the LINEUP checks (new to these notes): it "opened on 4 October
+  1929", built by "Adolf Bleichert & Co. from Leipzig", "at a cost of £60,000" (Wikipedia); "upgrades have taken place
+  in 1958, 1974 and 1997" (the cableway's 2019/2020 media kit), and in 1997 "the round cars with revolving floors
+  called "rotairs" were introduced" (its blog, Jan 17 2019), "installed by Garaventa (Doppelmayr Garaventa Group) from
+  Switzerland", "based on the Titlis Rotair cableway" (Wikipedia). "Each car carries 65 passengers (compared to 25 for
+  the old cars)" (Wikipedia), "a maximum weight of 5,200kg", and "The floor rotates giving everyone a 360-degree view
+  on the way up and down" (kit). The water, settled: "The cable car base is a water tank with a 3,000-litre capacity.
+  This provides fresh drinking water for visitors, and is used as ballast in windy conditions" (blog; the kit:
+  "providing stability during strong winds"). The ride: "4 to 5 minutes" (Wikipedia), "less than 5 minutes" (kit;
+  southafrica.net's "under 10 minutes" is old text beside 2019 prices). "Each of the cable car's cables is 1,200 metres
+  in length and weighs 18 tons", "a maximum speed of 10 metres per second" (blog), and it climbs "704m, from the Lower
+  Cable Station at 363m above sea level, to the Upper Cable Station, at 1067m" (kit; Wikipedia's infobox says 765 m:
+  use 704). Wind: "The round shape of the cable car offers excellent aerodynamics in Cape Town's famously strong South
+  Easter wind", so it can "operate in windier weather conditions than our previous cars" (kit). How often it stops:
+  "this happens between 60 and 90 days each year", "While the cable cars can withstand the wind, best practice
+  dictates that we cease operating", "The wind strength is stronger on top of the Mountain than on the ground" (an
+  undated notice in the cableway's own voice, kept as a PDF on southhobart.org.au; no years or counter given: script
+  "dozens of days a year", or "up to 90" only with that caveat). No page read gives the wind speed that stops it (IOL's report of one
+  closure, undated, has gusts "reaching up to 102km/h"). The yearly maintenance shutdown ran "15 July to Sunday, 1
+  September 2024" (the cableway's blog, Jul 15 2024) and 27 July to 9 August 2026 (Travelers Today, Jul 26 2026,
+  citing a cableway notice), which also says the 2024 work was "a full replacement of all four 1.5-kilometer track
+  rope cables" (credited to capetown.travel, unchecked; the blog's cables are "1,200 metres": check). Wikipedia's
+  history has a fatal accident in the machinery (2001), riders stuck over 30 minutes by a blown fuse (2008) and a fire
+  in the lower station's car park (Oct 2024): no "never had an accident" line, and leave the 2001 death out. Old
+  photos, none cleared: Rhodes University's Cory Library has an undated "Photograph of Table Mountain cable station"
+  ("to obtain a license ... apply to the Cory Library"), and MSU's Chicago Tribune collection a 1930 view with the
+  cableway (Chicago Sunday Tribune, Nov 16 1930, from South African Railways and Harbours) under a general line,
+  "either in the public domain, according to U.S. copyright law, or permission has been obtained", "for all
+  educational uses": not cleared for the channels. Stat candidates: "3,000 LITRES", "65", "360", "10 M/S".
+  [Wikipedia](https://en.wikipedia.org/wiki/Table_Mountain_Aerial_Cableway),
+  [Media kit 2019/2020](https://cms.tablemountain.net/uploads/documents/24454_TM_Media_Kit_Update_2019.pdf),
+  [Cableway blog, Jan 17 2019](https://www.tablemountain.net/our-blog/the-cableway-welcomes-its-28-millionth-visitor-on-international-cable-car-day),
+  [South African Tourism](https://southafrica.net/gl/en/travel/article/a-trip-to-the-top-of-table-mountain-by-cableway),
+  [Days lost to wind (PDF)](https://southhobart.org.au/sites/default/files/news/338/days-lost-due-windy-weather-table-mountain-aerial-cableway-cape-town.pdf),
+  [IOL, 102 km/h](https://www.iol.co.za/capetimes/news/102kmh-winds-close-table-mountain-cableway-40726613),
+  [Cableway blog, Jul 15 2024](https://www.tablemountain.net/our-blog/cableway-closes-for-7-week-annual-maintenance-shutdown),
+  [Travelers Today, Jul 26 2026](https://www.travelerstoday.com/articles/60620/20260726/cape-towns-table-mountain-cableway-shuts-july-27-hikers-must-walk-down.htm),
+  [Cory Library](https://digitalarchives.ru.ac.za/s/cory/item/21938),
+  [MSU, Chicago Tribune 1930](https://lib.msu.edu/branches/dmc/tribune/detail.jsp?id=403)
+- Build 119, Velcro, the LINEUP's year check settled (new to these notes): the walk was in 1941 on three pages ("One
+  summer morning in 1941", WIPO, last updated Aug 10 2026; "It was in 1941 that he took the walk", the National
+  Inventors Hall of Fame, May 13 2024; "a hunting trip with his dog in the Alps in 1941", Wikipedia); 1948 is when
+  the work began ("for ten years starting in 1948", Wikipedia): script 1941 for the walk. The pages differ on the
+  place ("the Jura mountains", WIPO; "the Alps", Wikipedia: script "the mountains") and on how many hooks ("hundreds",
+  WIPO and Wikipedia; "thousands", NIHF: script no number). The dog was "an Irish Pointer" (NIHF only). Under the
+  microscope "the burr had tiny hooks all over it that were able to hold tightly to the fabric loops in his clothing
+  or strands of hair in animal fur" (Lemelson-MIT). The work: "nearly eight years of research and development work
+  with a weaver from a textile plant in France" (WIPO), "a fabric manufacturer in Lyon" (NIHF); cotton first, but
+  "the cotton wore out quickly", then nylon, which "forms hooks that were perfect for the hook side of the fastener
+  when sewn under hot infrared light", and "He bought a pair of shears and trimmed the tops off the loops, thus
+  creating hooks" (Wikipedia only: a picture for a fix). Patents: "In 1951, de Mestral filed patent application
+  CH295638 in Switzerland, which was granted in 1954" (WIPO; Wikipedia says granted 1955; the Swiss National
+  Library, Aug 10 2018: "in 1954, he patented his invention under the name "Velcro""), and "On May 13, 1955" he
+  "patented the VELCRO hook and loop fastener" (NIHF): script "by 1955". The name: velours (velvet) and crochet
+  (hook) on all four pages. A break: "Many people laughed at his idea" (WIPO), and in the early 1960s it "looked like
+  it had been made from left-over bits of cheap fabric" (Wikipedia). Space, where the pages differ: WIPO says NASA
+  "used VELCRO brand fasteners in the Apollo moon missions", "approximately 3,300 square inches" on Apollo 11;
+  Lemelson-MIT names the space shuttle: script "NASA took it to space", or name WIPO with the Apollo figure. WIPO's
+  "over 2100 patents" is "over 2100 patent applications" in its own text: say applications. He lived from 19 June
+  1907 to 8 February 1990 (Lemelson-MIT, Wikipedia). A NASA photo with "Velcro strips" in its caption (41G-07-021,
+  Oct 6 1984, a sleep restraint) shows two astronauts' faces and no rights line on its page: out for our no-faces
+  rule; NASA's Apollo "Working on the Moon" Velcro page now opens the journals' index, so its facts were not read.
+  [WIPO, The Velcro IP story](https://www.wipo.int/en/web/ip-advantage/w/stories/the-velcro-ip-story),
+  [Swiss National Library, Aug 10 2018](https://www.nb.admin.ch/snl/en/home/research/all-questions/velcro-space.html),
+  [National Inventors Hall of Fame, May 13 2024](https://www.invent.org/blog/inventors/walk-in-the-woods-velcro),
+  [Lemelson-MIT](https://lemelson.mit.edu/resources/george-de-mestral),
+  [Wikipedia](https://en.wikipedia.org/wiki/George_de_Mestral)
+- Build 118, the King Fahd Causeway, its numbers (new to these notes): "25 km" (all four pages read); "five bridges,
+  totalling 12.43km", "934m, 2,034m and 5,194m" on the Saudi side and "3,334m and 934m" on the Bahraini side, with
+  "seven embankments extending 12.57km" (Road Traffic Technology, undated; Structurae: "length of viaducts 12 430 m");
+  "Its five bridges rest on 536 concrete pylons" (Wikipedia, Saudipedia). The middle: "embankment No. 4", "a total
+  area of 660,000 square metres", with "two Coast Guard towers and two 65-metre-high (213 ft) tower restaurants", "the
+  west side designated as Saudi Arabian and the east as Bahraini" (Wikipedia; RTT the same). The build: the agreement
+  of 8 July 1981, the cornerstone on 11 November 1982 (Saudipedia, Wikipedia), "constructed between 1982 and 1986"
+  (RTT), the "Last box girder is launched" on 11 April 1985 (Structurae), opened 25 November (Structurae) or 26
+  November 1986 (Wikipedia): script "November 1986". "built by Dutch contractor Ballast Nedam" (RTT); "over 500
+  pre-stressed concrete cylinder piles", "3.5m in diameter", "installed and grouted into drilled sockets" (RTT: a
+  picture for a fix); "five million tons of rock and broken stone" in the embankments (RTT; its sand, "ten million
+  cubic feet", and Saudipedia's "11 million m" of sand and rock do not agree in units: check before use). Figures that
+  differ: the cost, "US$800 million" (Wikipedia) against "$1.2bn" (RTT, Structurae), and the reinforcing steel,
+  147,000 t (Wikipedia, Structurae) against "47,000t" (RTT, Saudipedia): leave both out or check them. Traffic:
+  "about 45,000 vehicles a day that increases to about 60,000 vehicles during weekends" (RTT, undated; Wikipedia's
+  2010 figure is 25,104 a day) and a one-day record of "about 136,498" travellers on 4 March 2023 (Saudipedia). Not
+  on these pages: why some stretches are bridges and others embankments (ship channels, the flow of the sea), how the
+  embankments were armoured, and the segment count. Leads for those, abstracts only: ACI's "Construction and
+  Durability Considerations for King Fahd Causeway--A Case Study" (SP-109, 1988: concrete "materials and mixes"
+  chosen against the sea, test pieces kept in submerged, tidal and air zones) and "Constrution Of The Bahrain
+  Causeway" (sic; Concrete International, May 1990: "the erection of the precast elements, and the cast-in-place
+  concreting"); Structurae's Bridge IV sheet has twin prestressed box girders, "total length 2 x 934 m"; a Dar
+  magazine page on precast balanced-cantilever segments ("a purpose-built casting yard", "the short bed method", a
+  launching gantry) came up in the same search: check that it is this causeway before a line uses it. Wikipedia's
+  military history and the border politics stay out. Commons has a category for the causeway (not read: check each
+  file's licence).
+  [Wikipedia](https://en.wikipedia.org/wiki/King_Fahd_Causeway),
+  [Road Traffic Technology](https://roadtraffic-technology.com/projects/king-fahd-causeway),
+  [Structurae](https://structurae.net/en/structures/king-fahd-causeway),
+  [Saudipedia](https://saudipedia.com/en/king-fahd-causeway),
+  [ACI SP-109, 1988](https://concrete.org/publications/internationalconcreteabstractsportal/m/details/id/3308),
+  [Concrete International, May 1990](https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/9514),
+  [Structurae, Bridge IV](https://structurae.net/en/structures/king-fahd-causeway-bridge-iv),
+  [Dar magazine](https://dar.com/content/publications/i11/html/16.html),
+  [Commons category](https://commons.wikimedia.org/wiki/Category:King_Fahd_Causeway)
+- Meta's Reels "Series" (new to these notes): creators organize individually uploaded Reels into "a chronological
+  collection of episodes", shown in a hub on the profile; viewers can save a series and check for new installments;
+  it was "in a testing phase with select creators and content publishers" "on Instagram and Facebook" (Tubefilter,
+  Jun 3 2026); eMarketer (undated) has creators able to "link both new and previous content", and "Instagram did not
+  state when the tool will become globally available". It would suit the scary stories' Part 1/2/3 and a run of
+  builds (B4 already teases the next one): check in the app whether our accounts have it (not checked from here).
+  [Tubefilter, Jun 3 2026](https://www.tubefilter.com/2026/06/03/meta-reels-series-feature-microdramas/amp/),
+  [eMarketer](https://www.emarketer.com/content/instagram-introduces-linked-reels-enable-serialized-storytelling-drive-engagement)
+- A free AI video tool that is out for us (new to these notes): Raphael says "MiniMax H3 Turbo videos at 480P · 4
+  seconds are free" with no sign-up and "up to 10 free 480P · 4-second videos per 24 hours" with an account, but "free
+  videos are for personal, non-commercial use" ("paid plans include commercial rights under our Terms of Use"): not
+  for the channels.
+  [Raphael, AI video generator](https://raphael.app/ai-video-generator)
+
+Checked, nothing new
+- Higgsfield: this hour's search for unlimited Seedance past Nov 28 (Black Friday, Cyber Monday) gave only pages
+  already here (the 33-day and 14-day posts, 11.11, the geo.higgsfield plan-change pages, dio.me's 64 % off, mydealz's
+  expired "72h unlimited über MCP"): Nov 28 stands.
+- Trends: the late-November TikTok and Shorts searches gave pages already here (SocialPilot, Virlo's November page and
+  its week of Nov 16, que.es, Kapwing, Metricool's 799,718-video study, Epidemic Sound, vidIQ, Tubefilter's Dec 2025
+  recap); an "engineering trend" search gave meme pages (an AI music-video edit trend around a real artist: out for
+  us) and TikTok's own discover pages; the creator-feature search gave Instagram's 90-minute "Features" test (already
+  here) and the Series pages above.
+- Free tools: Swfte's "12 Truly-Free Tools" (May 6 2026) lists free tiers already in these notes (Veo, Sora, Kling,
+  Hailuo 02's "effectively unlimited generations at 5 seconds 720p with a watermark", Pika, Luma, Runway, PixVerse,
+  self-hosted Stable Video Diffusion); none is checked as free, unwatermarked and cleared for commercial use.
+- Could not be read from here: capzai's "Viral Engineering 2026" retention post and TikTok's discover pages (robots
+  refusals), Hypebeast's piece on Instagram's "First Draft" auto-edit (an empty page).
