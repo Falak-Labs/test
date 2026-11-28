@@ -6444,3 +6444,93 @@ Checked, nothing new
   commercial use (Atlas Cloud's "Seedance 2.5 Flash now 35% off — ends Nov 30" is a paid API).
 - Could not be read from here: Wikipedia's Millau page (its redirect was not followed), Construction Equipment Guide's
   Millau story and Make Tech Easier's open-patent page (client errors).
+
+## 2026-11-27 23:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build, Kansai International Airport, the airport on a sinking island (a famous mega-structure in Asia;
+  new to LINEUP and these notes; Japan like 116, so not next to it). Why at sea: it "is built on an artificial island
+  in Osaka Bay, 5km off the coast of Honshu", "Opened in September 1994", "to relieve pressure on the busy Osaka
+  International Airport nearby" (ICE); "a fundamental solution to the problem of the aircraft noise pollution"
+  (Smithsonian Air & Space, no date shown); "virtually no space available" on land, the bay "surrounded by hills on
+  three sides" (SlashGear, May 13 2025). The ground: water "more than 18m deep" over "alluvial clay" (ICE). Fix 1:
+  "sand five feet deep atop the clay seabed" and "2.2 million vertical pipes, each nearly 16 inches in diameter"
+  (Smithsonian) against "one million drains, 20 meters long and 40 centimeters in diameter" that "compressed the clay
+  by two-thirds" (SlashGear): the counts clash, so no number in a script. Break: it was "predicted to evenly settle ...
+  over a 50-year period", but "By 1990 ... the first island had sunk 27 feet instead of the predicted 19", and "Since
+  it opened in 1994, Kansai has sunk 38 feet" (Smithsonian). Fix 2, a hook picture: "900 columns, resting on hydraulic
+  jacks"; workers "excavated below the passenger terminal, inserted iron plates beneath the hydraulic jacks, and raised
+  the columns in stages", and "Every two years, Kansai's jacks will be readjusted if necessary" (Smithsonian). Renzo
+  Piano's terminal is "1.7 km long" with "42 boarding gates" (RPBW; the foundation's table: 1,734 m; RPBW's "longest
+  terminal in the world" is not checked against newer airports, so script "1.7 km long"); its roof lets "air to flow
+  naturally from the rear of the building toward the runway side, eliminating the need for suspended air distribution
+  ducts", with "blade-like deflectors" that "guide the airflow while reflecting natural light" (RPBW); "The building
+  site lasted for 38 months, employing up to 10,000 workers" (Fondazione Renzo Piano). It came through the 1995 Kobe
+  earthquake ("mainly because of the sliding joints in many of its structures"; the quake's toll stays out) and was
+  "largely undamaged by a typhoon in 1998" with winds "up to 200km/h" (ICE). The big break, Typhoon Jebi (Tuesday Sep 4
+  2018): the airport "was flooded ... by high storm tides" and "a 2,591-ton tanker slammed into the bridge after being
+  swept away by strong winds and waves", the bridge that carries "the only road and rail access"; "about 5,000 people
+  stranded" (Japan Times, Sep 4 by its URL) or "Up to about 7,800 passengers and employees" overnight (Sep 6), "Many
+  were transported by high-speed boats" the next day: script "thousands". Neither page links the flood to the sinking
+  or gives the wall's height, so a script may not say the sinking caused it until a source does. The wall: "48,000
+  concrete blocks and rubble", and "At least $150 million was spent to raise the seawall" (Smithsonian, year not
+  given). Now: "The sink rate fell from 50cm a year in 1994 to 7cm a year in 2008" (ICE), "6 centimeters (2.36
+  inches) annually" as of 2024 (SlashGear); "a second 4,000m runway was added in 2007" (ICE). Proof: "one of 10
+  structures given the 'Civil Engineering Monument of the Millennium' award in 2001" by ASCE (ICE; Smithsonian
+  agrees). Clashes: the first cost "$8 billion" (Smithsonian) or "$14bn" (ICE), both "$20bn" by 2008 (script "about 20
+  billion dollars by 2008" or no cost line); SlashGear's "floating airport" is wrong (the island stands on the seabed);
+  the area read from Smithsonian, "69.5 square miles of fill" (about 180 km²), cannot fit two islands when the first is
+  "4 km in leght by 1,2 km in width" (Fondazione, sic): no area line. Chain: noise and no land (A2) → sand drains in
+  the soft clay (A3) → it sinks faster than predicted (A4) → columns on jacks, iron plates slid under (A5) → storm tides
+  over the wall (A6) → a higher wall of concrete blocks (B1) → a tanker drifts into the only bridge (B2) → boats carry
+  thousands off (B3) → B5 a jet landing on the island at sunset. A1: a giant terminal held up on jacks while workers
+  slide metal plates under its columns. B6: funny slow motion, a man sinks slowly into a huge soft beanbag. No faces
+  of stranded travellers; no pictures read here.
+  [ICE, Kansai airport](https://ice.org.uk/what-is-civil-engineering/infrastructure-projects/kansai-airport),
+  [Smithsonian Air & Space, How to save a sinking airport](https://www.smithsonianmag.com/air-space-magazine/how-to-save-a-sinking-airport-180968985/),
+  [SlashGear, May 13 2025](https://www.slashgear.com/1855499/kansai-floating-airport-sinking-fixes),
+  [Japan Times, Sep 4 2018](https://japantimes.co.jp/news/2018/09/04/national/typhoon-jebi-pushes-ship-kansai-airport-bridge-leaving-3000-people-stranded-japans-third-busiest-gateway),
+  [Japan Times, Sep 6 2018](https://www.japantimes.co.jp/news/2018/09/06/national/typhoon-jebi-highlights-vulnerability-offshore-kansai-airport/),
+  [RPBW](https://www.rpbw.com/project/kansai-international-airport-terminal),
+  [Fondazione Renzo Piano](https://fondazionerenzopiano.org/en/project/kansai-international-airport-passenger-terminal-building/)
+- Build 116, free real photos for lines 12-13 (new to these notes; the Akashi entry of Nov 27 00:00 read no
+  pictures): PAKUTASO has four photos of the bridge, each page saying "This material is free for both commercial and
+  non-commercial use. No registration required" (the site's terms are in the PAKUTASO entry of Nov 27 02:00: not CC0,
+  no scripted or bulk downloads, credit not needed except for secondary distribution or book covers). No. 76833
+  (© りんもん, Jan 7 2022, "明石大橋の吊橋と車道を見上げた構図、白いケーブルの放射状構造": looking up at the deck, white
+  cables fanning out against a blue sky) is portrait, 2832 x 4256, so a 9:16 crop of 2394 x 4256 needs no upscaling:
+  the best fit for the stat line (its title says 明石大橋, so check it is the strait bridge). No. 76733 (© しーくん, Dec
+  21 2021, "Akashi Kaikyō Bridge Rainbow LED Illumination": the whole span at night, the towers lit white, 6123 x 4082)
+  and No. 76734 (the same photographer and night, 6240 x 4160) suit the closer. No. 32993 (© Yukillow, Oct 24 2019:
+  the bridge at dusk behind a stone monument, 5424 x 3616) may show carved text, so crop or skip. Pixabay's "Akashi
+  Kaikyo Bridge at twilight over calm water in Japan" (Kanenori, Jun 19 2020, 4500 x 3000) is "Free for use under the
+  Pixabay Content License", but the uploader's profile asks to be contacted for "commercial licensing queries", so
+  PAKUTASO first. Only the pages' text was read, not the pictures: look before use, one picked by hand.
+  [PAKUTASO 76833](https://www.pakutaso.com/en/20220128007post-38236.html),
+  [PAKUTASO 76733](https://www.pakutaso.com/en/20211204355post-38147.html),
+  [PAKUTASO 76734](https://www.pakutaso.com/en/20211230355post-38148.html),
+  [PAKUTASO 32993](https://www.pakutaso.com/en/20191045297post-23842.html),
+  [Pixabay 5313115](https://pixabay.com/photos/landscape-evening-5313115/)
+- Build 114, a free proof-shot lead (new to these notes; the 18:00 entry has Cudzik's 1976 tab from the Smithsonian):
+  US 3,967,753, "Easy-open wall", inventor "Cudzik; Daniel F. (Richmond, VA)", assignee Reynolds Metals Company,
+  filed July 26 1974, granted July 6 1976, 43 figures, whose Fig. 1 "is a perspective view of an exemplary container
+  with the central portion thereof broken away and illustrating an easy-open wall of this invention provided as a top
+  wall"; no copyright notice seen (the USPTO rule of the Nov 23 22:56 entry). Only its text was read (uspto.report),
+  so look at the drawings to check they show the stay-on tab before it stands in for "the push-in-fold-back tab we use
+  today".
+  [uspto.report, US 3,967,753](https://uspto.report/patent/grant/3967753)
+
+Checked, nothing new
+- Higgsfield: this hour's search for unlimited Seedance past Nov 28 gave only pages already here (the 33-day, 14-day,
+  4K 11-day and "New Unlimited" posts, the plan-change pages, Indie Hackers' OpenArt guide): Nov 28 stands.
+- Platforms: a search for this week's Shorts features returns Made on YouTube 2026 (Sep 23) coverage, already here;
+  Instagram's "on-screen reference" tool for recreating trending Reels is the Edits "reference reels" of Social Media
+  Today's Oct 15 item, already here (Digital Trends' page came back empty), and Canaltech's Jan 14 2026 page is the
+  "Your algorithm" rollout to English-language apps, already here; TikTok: Metricool's timeline, Stack Influence's
+  Nov 17 roundup and TikTok World (May 2026), all here.
+- Free tools: this hour's no-watermark lists (Renderforest, Programming Insider, Krea, WaveSpeed, Fast.io, ScreenApp,
+  Crepal, Aivora, Cliprise, Aumiqx) were seen as titles only, not read; earlier hours found no tool free,
+  unwatermarked and cleared for commercial use.
+- Could not be read from here: Google Patents' pages for build 117's float patents, US2911759A "Manufacture of flat
+  glass" and GB769692A "Improvements in or relating to the manufacture of flat glass" (titles from search results
+  only; the fetch timed out waiting for a permission), and for US4030631A "Easy-open ecology end".
