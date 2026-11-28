@@ -6357,3 +6357,90 @@ Checked, nothing new
   self-hosted Stable Video Diffusion); none is checked as free, unwatermarked and cleared for commercial use.
 - Could not be read from here: capzai's "Viral Engineering 2026" retention post and TikTok's discover pages (robots
   refusals), Hypebeast's piece on Instagram's "First Draft" auto-edit (an empty page).
+
+## 2026-11-27 22:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build, the QR code (an everyday thing with a real story; new to LINEUP and these notes): "The QR code
+  was introduced in 1994 by Japanese automotive manufacturer Denso" to "speed up its tracking of car parts", because
+  scanning several barcodes on each box was "slowing the production and distribution process" (IEEE Spectrum, Nov 13
+  2020); the team was "led by Masahiro Hara" at Denso Wave (EPO, a 2014 European Inventor Award finalist). Two
+  pictures for the hook and a fix: the game of Go, "Even if the pieces are a little off the intersection, the players
+  still know where the pieces are" (so lost dots can be made up by the others), and a view from his window, "a tall
+  building standing out from its surroundings", for a mark that would "stand out from the surrounding text" (IEEE).
+  The three corner squares: "A scan through its centre produces bands in the proportion 1:1:3:1:1, a ratio Denso says
+  its engineers chose after analysing printed material" (Make Tech Easier; IEEE: about three months of scanning
+  newspaper pictures to find it); they "allow the code to be read quickly and from any angle" (EPO). Capacity: a
+  barcode holds "up to 12 numbers" (IEEE; EPO "about 20 alphanumeric characters"), the QR code "numbers of up to 7,087
+  digits" (Hara in IEEE; EPO "about 7 000 numerals": script "about 7,000 digits"). Speed differs: "five times faster
+  than a typical barcode" (IEEE), "20 times faster than previous matrix codes" (EPO): script "five times faster". The
+  hook line: four levels, "L, M, Q, and H", restore "7, 15, 25, and 30 per cent of total codewords" (Reed-Solomon,
+  from a 1960 paper), so it is "built to survive being torn, stained, or partly scribbled over", but the 30 % "is not
+  a guarantee that any randomly chosen 30 per cent of the visible square can be covered" (Make Tech Easier): script
+  "up to about a third of it can be damaged". The open patent: Denso Wave "made the specification public and waived
+  enforcement of its patent for standardised QR codes" (Make Tech Easier); patents granted in the US in 1998, Japan
+  1999 and Europe 2000 (IEEE); an ISO standard in 2000 (Make Tech Easier; IEEE's "ISO standard 18004:2015 in 2000"
+  mixes up the edition). Proof: "Many restaurants are displaying QR codes that allow customers to pull up the
+  eatery's menu on their phone" (IEEE, Nov 2020; no figure). A free proof shot: US5726435, "Optically readable
+  two-dimensional code and method and apparatus using the same" (inventors Masahiro Hara, Motoaki Watabe, Tadao
+  Nojiri, Takayuki Nagaya, Yuji Uchiyama; assignees NipponDenso and Toyota Central R&D Labs), whose Fig. 1 is a
+  21 x 21 cell code with its three positioning squares; no copyright notice seen in the part read (the USPTO rule of
+  the Nov 23 22:56 entry; its dates were not read). Script "for car factories", not "Toyota invented it" (Toyota's
+  part is a co-inventor's lab).
+  [IEEE Spectrum, Nov 13 2020](https://spectrum.ieee.org/how-a-board-game-and-skyscrapers-inspired-the-development-of-the-qr-code),
+  [EPO, Masahiro Hara](https://epo.org/learning-events/european-inventor/finalists/2014/hara.html),
+  [Make Tech Easier](https://maketecheasier.com/how-qr-codes-survive-damage/),
+  [Google Patents, US5726435](https://patents.google.com/patent/US5726435)
+- A candidate build, the Millau Viaduct in southern France (a famous mega-structure in Europe; new to LINEUP and these
+  notes; it opened to traffic on Dec 16 2004, so its 22nd birthday falls on Dec 16 2026). Hook: a road above the
+  clouds, "53 ft taller than the Eiffel Tower" at its tallest point and "the world's tallest traffic bridge" (Roads &
+  Bridges, Jul 2005); "the tallest bridge in the world, having a structural height of 336.4 meters" (Structurae,
+  quoting Wikipedia), while its table gives "max. 343 m" above ground (R&B: 1,125 ft): script "taller than the Eiffel
+  Tower" and no figure for the top. The deck is 270 m above the valley floor, a height Chinese suspension bridges have
+  since passed, so "tallest bridge", never "highest road". Problem: "the wide valley of the Tarn River near the city
+  of Millau" and "heavy congestion at the beginning and end of the July and August holiday season" (Structurae) on
+  the A75 between Paris and Barcelona (R&B). Fixes: seven piers, each on "four deep shafts", the tallest (P2)
+  244.96 m, each growing "4 meters" every three days; every pier splits in two near the top ("This bisectioning of the
+  box provides for the required flexibility") so the 2,460 m deck can grow and shrink with the heat; the
+  36,000-tonne steel deck was pushed out from both ends at once over temporary towers (eight, Structurae; seven, R&B):
+  "Each push cycle moved the deck 600 mm and took four minutes", on lifting cylinders "with a capacity of 250 tons",
+  steered by GPS (R&B; Structurae describes laser guidance troubled by wind and mist); the two halves met on 28 May
+  2004 (Structurae). Wind: "wind shields are installed which prevent the overturning of high-sided vehicles", the deck
+  has an "inverse airfoil shape, providing negative lift", reshaped after wind-tunnel tests, built "for winds of up to
+  225 kilometers per hour" (Structurae). Masts: seven, each 87 m and about 700 tonnes, "tilted upwards, as one
+  piece", each with eleven pairs of stays (7 x 22 = 154). Proof: a load test of "920 tons" before it opened to
+  traffic on 16 December 2004 at 09:00; 38 months of works; tolls "for 75 years, until 2080" (Structurae). The cost
+  figures clash (€ 300 million in the table, "about € 400 million" and "approximately € 394 million" in the text,
+  R&B "$523 million"): no cost line. France's president inaugurated it on Dec 14 2004: keep him out (no real faces).
+  Wikipedia could not be read from here.
+  [Structurae](https://structurae.net/en/structures/millau-viaduct),
+  [Roads & Bridges, Jul 2005](https://www.roadsbridges.com/head-and-shoulders-above-clouds)
+- Build 119, a free proof shot and a date check (new to these notes): Velcro's US patent, US2717437, "Velvet type
+  fabric and method of producing same", "George de Mestral, Prangins, Vaud, Switzerland, assignor to Velcro S. A.",
+  "Claims priority, application Switzerland October 22, 1951", filed Oct 15 1952, granted Sep 13 1955; one drawings
+  page, whose Fig. 1 is "an explanatory diagram of a preferred method of production of such a fabric" (loops formed
+  on heated bars, then cut: the shears fix of the 21:00 entry as a real drawing); no copyright notice seen, so the
+  USPTO rule of the Nov 23 22:56 entry applies. The US grant is Sep 13 1955 against NIHF's "May 13, 1955": "by 1955"
+  stands.
+  [Google Patents, US2717437](https://patents.google.com/patent/US2717437)
+- YouTube's dynamic thumbnails (new to these notes; the three-cut Shorts test "from 2027" is here already): creators
+  "can upload multiple thumbnails and leave it to YouTube to determine which thumbnail to show viewers" (TechCrunch,
+  Sep 23 2026; who gets it and when is not stated): worth using for the 4-minute show and the scary longs when Studio
+  offers it. Live auto-dubbing is a pilot "early next year" for live videos only, no languages named: not for us.
+  [TechCrunch, Sep 23 2026](https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/)
+- Factory videos, an old data point (Aug 25 2022, new to these notes): the #factory hashtag "has more than 4.5 billion
+  views on the platform", and "it's also oddly satisfying to see the repetitive, intricate nature" of production,
+  with #oddlysatisfying at over 82 billion views (Thomasnet; four-year-old figures): one more reason to keep the
+  repeating machine motion in shots like 114's can line and 117's glass ribbon.
+  [Thomasnet, Aug 25 2022](https://www.thomasnet.com/insights/5-billion-views-and-counting-why-are-factory-tiktoks-trending-thoughts-after-dark/)
+
+Checked, nothing new
+- Higgsfield: this hour's search for unlimited Seedance past Nov 28 gave only pages already here (the 33-day, 14-day,
+  4K 11-day and 7-day-bonus posts, the plan-change pages, mydealz's expired MCP deals): Nov 28 stands.
+- Trends: TikTok's trend report is still "TikTok Next 2026" (Jan 2026; no 2027 edition yet) and YouTube's year-end
+  recap is not out (2025's came on Dec 2); this hour's sound pages (Virlo, SocialPilot, Buffer, HeyOrca, Website
+  Builder Expert, Nuelink, Gelato) are already here, and Metricool's Instagram songs page is its Nov 2 edition.
+- Free tools: Scrimba's, Dreamina's and Atlas Cloud's 2026 lists gave nothing free, unwatermarked and cleared for
+  commercial use (Atlas Cloud's "Seedance 2.5 Flash now 35% off — ends Nov 30" is a paid API).
+- Could not be read from here: Wikipedia's Millau page (its redirect was not followed), Construction Equipment Guide's
+  Millau story and Make Tech Easier's open-patent page (client errors).
