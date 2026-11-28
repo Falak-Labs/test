@@ -1,0 +1,1038 @@
+{
+ "voice": "elevenlabs:2LxhCRvenFtT95JOekmF",
+ "model": "eleven_v4",
+ "tempo": 1.12,
+ "gap": 0.35,
+ "duration": 68.295,
+ "words": 183,
+ "words_per_sec": 2.68,
+ "lines": [
+  {
+   "line": 1,
+   "start": 0.0,
+   "end": 5.11,
+   "text": "Y'all, two towers in Bahrain hold... three giant wind turbines between them.",
+   "words": [
+    {
+     "w": "Y'all,",
+     "start": 0.135,
+     "end": 0.778
+    },
+    {
+     "w": "two",
+     "start": 0.992,
+     "end": 1.206
+    },
+    {
+     "w": "towers",
+     "start": 1.278,
+     "end": 1.706
+    },
+    {
+     "w": "in",
+     "start": 1.778,
+     "end": 1.849
+    },
+    {
+     "w": "Bahrain",
+     "start": 1.885,
+     "end": 2.349
+    },
+    {
+     "w": "hold...",
+     "start": 2.421,
+     "end": 2.759
+    },
+    {
+     "w": "three",
+     "start": 2.813,
+     "end": 3.171
+    },
+    {
+     "w": "giant",
+     "start": 3.313,
+     "end": 3.599
+    },
+    {
+     "w": "wind",
+     "start": 3.671,
+     "end": 3.813
+    },
+    {
+     "w": "turbines",
+     "start": 3.885,
+     "end": 4.313
+    },
+    {
+     "w": "between",
+     "start": 4.385,
+     "end": 4.742
+    },
+    {
+     "w": "them.",
+     "start": 4.813,
+     "end": 5.242
+    }
+   ]
+  },
+  {
+   "line": 2,
+   "start": 5.422,
+   "end": 9.402,
+   "text": "But these turbines are bolted in place. So which way should they face?",
+   "words": [
+    {
+     "w": "But",
+     "start": 5.553,
+     "end": 5.696
+    },
+    {
+     "w": "these",
+     "start": 5.767,
+     "end": 5.981
+    },
+    {
+     "w": "turbines",
+     "start": 6.053,
+     "end": 6.481
+    },
+    {
+     "w": "are",
+     "start": 6.588,
+     "end": 6.696
+    },
+    {
+     "w": "bolted",
+     "start": 6.803,
+     "end": 7.053
+    },
+    {
+     "w": "in",
+     "start": 7.124,
+     "end": 7.196
+    },
+    {
+     "w": "place.",
+     "start": 7.41,
+     "end": 7.779
+    },
+    {
+     "w": "So",
+     "start": 7.91,
+     "end": 8.053
+    },
+    {
+     "w": "which",
+     "start": 8.124,
+     "end": 8.267
+    },
+    {
+     "w": "way",
+     "start": 8.338,
+     "end": 8.481
+    },
+    {
+     "w": "should",
+     "start": 8.553,
+     "end": 8.624
+    },
+    {
+     "w": "they",
+     "start": 8.731,
+     "end": 8.838
+    },
+    {
+     "w": "face?",
+     "start": 9.053,
+     "end": 9.481
+    }
+   ]
+  },
+  {
+   "line": 3,
+   "start": 9.714,
+   "end": 13.843,
+   "text": "First, they face north, into the steady sea breeze off the Gulf.",
+   "words": [
+    {
+     "w": "First,",
+     "start": 9.929,
+     "end": 10.643
+    },
+    {
+     "w": "they",
+     "start": 10.714,
+     "end": 10.857
+    },
+    {
+     "w": "face",
+     "start": 10.929,
+     "end": 11.143
+    },
+    {
+     "w": "north,",
+     "start": 11.286,
+     "end": 11.786
+    },
+    {
+     "w": "into",
+     "start": 11.893,
+     "end": 12.0
+    },
+    {
+     "w": "the",
+     "start": 12.071,
+     "end": 12.214
+    },
+    {
+     "w": "steady",
+     "start": 12.393,
+     "end": 12.571
+    },
+    {
+     "w": "sea",
+     "start": 12.643,
+     "end": 12.786
+    },
+    {
+     "w": "breeze",
+     "start": 12.857,
+     "end": 13.143
+    },
+    {
+     "w": "off",
+     "start": 13.214,
+     "end": 13.357
+    },
+    {
+     "w": "the",
+     "start": 13.393,
+     "end": 13.429
+    },
+    {
+     "w": "Gulf.",
+     "start": 13.5,
+     "end": 14.071
+    }
+   ]
+  },
+  {
+   "line": 4,
+   "start": 14.155,
+   "end": 17.421,
+   "text": "But a side wind hits the blades at a slant!",
+   "words": [
+    {
+     "w": "But",
+     "start": 14.789,
+     "end": 14.861
+    },
+    {
+     "w": "a",
+     "start": 14.932,
+     "end": 15.004
+    },
+    {
+     "w": "side",
+     "start": 15.075,
+     "end": 15.361
+    },
+    {
+     "w": "wind",
+     "start": 15.432,
+     "end": 15.646
+    },
+    {
+     "w": "hits",
+     "start": 15.718,
+     "end": 15.932
+    },
+    {
+     "w": "the",
+     "start": 15.968,
+     "end": 16.004
+    },
+    {
+     "w": "blades",
+     "start": 16.075,
+     "end": 16.432
+    },
+    {
+     "w": "at",
+     "start": 16.504,
+     "end": 16.575
+    },
+    {
+     "w": "a",
+     "start": 16.646,
+     "end": 16.718
+    },
+    {
+     "w": "slant!",
+     "start": 16.789,
+     "end": 17.575
+    }
+   ]
+  },
+  {
+   "line": 5,
+   "start": 17.734,
+   "end": 22.33,
+   "text": "So the sail-shaped towers bend the wind, and aim it straight at the blades.",
+   "words": [
+    {
+     "w": "So",
+     "start": 17.948,
+     "end": 18.091
+    },
+    {
+     "w": "the",
+     "start": 18.162,
+     "end": 18.305
+    },
+    {
+     "w": "sail-shaped",
+     "start": 18.377,
+     "end": 18.948
+    },
+    {
+     "w": "towers",
+     "start": 18.984,
+     "end": 19.377
+    },
+    {
+     "w": "bend",
+     "start": 19.52,
+     "end": 19.734
+    },
+    {
+     "w": "the",
+     "start": 19.805,
+     "end": 19.877
+    },
+    {
+     "w": "wind,",
+     "start": 19.948,
+     "end": 20.377
+    },
+    {
+     "w": "and",
+     "start": 20.52,
+     "end": 20.662
+    },
+    {
+     "w": "aim",
+     "start": 20.734,
+     "end": 20.805
+    },
+    {
+     "w": "it",
+     "start": 20.877,
+     "end": 21.02
+    },
+    {
+     "w": "straight",
+     "start": 21.234,
+     "end": 21.448
+    },
+    {
+     "w": "at",
+     "start": 21.484,
+     "end": 21.52
+    },
+    {
+     "w": "the",
+     "start": 21.591,
+     "end": 21.662
+    },
+    {
+     "w": "blades.",
+     "start": 21.734,
+     "end": 22.448
+    }
+   ]
+  },
+  {
+   "line": 6,
+   "start": 22.643,
+   "end": 26.813,
+   "text": "But in a gust, the two towers sway... and yank on the bridges!",
+   "words": [
+    {
+     "w": "But",
+     "start": 22.735,
+     "end": 22.806
+    },
+    {
+     "w": "in",
+     "start": 22.878,
+     "end": 22.949
+    },
+    {
+     "w": "a",
+     "start": 23.021,
+     "end": 23.092
+    },
+    {
+     "w": "gust,",
+     "start": 23.128,
+     "end": 23.663
+    },
+    {
+     "w": "the",
+     "start": 23.806,
+     "end": 23.949
+    },
+    {
+     "w": "two",
+     "start": 24.056,
+     "end": 24.163
+    },
+    {
+     "w": "towers",
+     "start": 24.235,
+     "end": 24.663
+    },
+    {
+     "w": "sway...",
+     "start": 24.735,
+     "end": 25.449
+    },
+    {
+     "w": "and",
+     "start": 25.521,
+     "end": 25.592
+    },
+    {
+     "w": "yank",
+     "start": 25.663,
+     "end": 25.878
+    },
+    {
+     "w": "on",
+     "start": 25.949,
+     "end": 26.021
+    },
+    {
+     "w": "the",
+     "start": 26.092,
+     "end": 26.163
+    },
+    {
+     "w": "bridges!",
+     "start": 26.271,
+     "end": 26.949
+    }
+   ]
+  },
+  {
+   "line": 7,
+   "start": 27.126,
+   "end": 30.809,
+   "text": "So rubber bearings at the ends let the towers move half a meter.",
+   "words": [
+    {
+     "w": "So",
+     "start": 27.34,
+     "end": 27.483
+    },
+    {
+     "w": "rubber",
+     "start": 27.626,
+     "end": 27.912
+    },
+    {
+     "w": "bearings",
+     "start": 27.983,
+     "end": 28.34
+    },
+    {
+     "w": "at",
+     "start": 28.412,
+     "end": 28.483
+    },
+    {
+     "w": "the",
+     "start": 28.554,
+     "end": 28.626
+    },
+    {
+     "w": "ends",
+     "start": 28.697,
+     "end": 28.983
+    },
+    {
+     "w": "let",
+     "start": 29.054,
+     "end": 29.126
+    },
+    {
+     "w": "the",
+     "start": 29.197,
+     "end": 29.269
+    },
+    {
+     "w": "towers",
+     "start": 29.34,
+     "end": 29.626
+    },
+    {
+     "w": "move",
+     "start": 29.697,
+     "end": 29.912
+    },
+    {
+     "w": "half",
+     "start": 30.019,
+     "end": 30.126
+    },
+    {
+     "w": "a",
+     "start": 30.197,
+     "end": 30.269
+    },
+    {
+     "w": "meter.",
+     "start": 30.34,
+     "end": 30.983
+    }
+   ]
+  },
+  {
+   "line": 8,
+   "start": 31.121,
+   "end": 35.823,
+   "text": "But the wind is stronger up high, so the top turbine would race.",
+   "words": [
+    {
+     "w": "But",
+     "start": 31.857,
+     "end": 32.0
+    },
+    {
+     "w": "the",
+     "start": 32.071,
+     "end": 32.143
+    },
+    {
+     "w": "wind",
+     "start": 32.214,
+     "end": 32.429
+    },
+    {
+     "w": "is",
+     "start": 32.5,
+     "end": 32.643
+    },
+    {
+     "w": "stronger",
+     "start": 32.821,
+     "end": 33.143
+    },
+    {
+     "w": "up",
+     "start": 33.214,
+     "end": 33.286
+    },
+    {
+     "w": "high,",
+     "start": 33.357,
+     "end": 33.911
+    },
+    {
+     "w": "so",
+     "start": 33.982,
+     "end": 34.054
+    },
+    {
+     "w": "the",
+     "start": 34.125,
+     "end": 34.196
+    },
+    {
+     "w": "top",
+     "start": 34.268,
+     "end": 34.482
+    },
+    {
+     "w": "turbine",
+     "start": 34.554,
+     "end": 34.982
+    },
+    {
+     "w": "would",
+     "start": 35.089,
+     "end": 35.196
+    },
+    {
+     "w": "race.",
+     "start": 35.268,
+     "end": 35.911
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "start": 36.136,
+   "end": 40.527,
+   "text": "So the towers narrow as they rise, and all three spin about the same.",
+   "words": [
+    {
+     "w": "So",
+     "start": 36.35,
+     "end": 36.493
+    },
+    {
+     "w": "the",
+     "start": 36.564,
+     "end": 36.707
+    },
+    {
+     "w": "towers",
+     "start": 36.743,
+     "end": 37.136
+    },
+    {
+     "w": "narrow",
+     "start": 37.279,
+     "end": 37.636
+    },
+    {
+     "w": "as",
+     "start": 37.707,
+     "end": 37.779
+    },
+    {
+     "w": "they",
+     "start": 37.886,
+     "end": 37.993
+    },
+    {
+     "w": "rise,",
+     "start": 38.207,
+     "end": 38.636
+    },
+    {
+     "w": "and",
+     "start": 38.743,
+     "end": 38.85
+    },
+    {
+     "w": "all",
+     "start": 38.921,
+     "end": 39.064
+    },
+    {
+     "w": "three",
+     "start": 39.136,
+     "end": 39.279
+    },
+    {
+     "w": "spin",
+     "start": 39.35,
+     "end": 39.636
+    },
+    {
+     "w": "about",
+     "start": 39.707,
+     "end": 39.921
+    },
+    {
+     "w": "the",
+     "start": 39.993,
+     "end": 40.064
+    },
+    {
+     "w": "same.",
+     "start": 40.243,
+     "end": 40.636
+    }
+   ]
+  },
+  {
+   "line": 10,
+   "start": 40.839,
+   "end": 45.233,
+   "text": "Hit follow, 'cause next we're building a lock that only your key can open.",
+   "words": [
+    {
+     "w": "Hit",
+     "start": 40.911,
+     "end": 41.054
+    },
+    {
+     "w": "follow,",
+     "start": 41.196,
+     "end": 41.768
+    },
+    {
+     "w": "'cause",
+     "start": 41.911,
+     "end": 42.125
+    },
+    {
+     "w": "next",
+     "start": 42.196,
+     "end": 42.482
+    },
+    {
+     "w": "we're",
+     "start": 42.625,
+     "end": 42.768
+    },
+    {
+     "w": "building",
+     "start": 42.911,
+     "end": 43.054
+    },
+    {
+     "w": "a",
+     "start": 43.125,
+     "end": 43.161
+    },
+    {
+     "w": "lock",
+     "start": 43.196,
+     "end": 43.411
+    },
+    {
+     "w": "that",
+     "start": 43.518,
+     "end": 43.625
+    },
+    {
+     "w": "only",
+     "start": 43.696,
+     "end": 43.911
+    },
+    {
+     "w": "your",
+     "start": 44.125,
+     "end": 44.339
+    },
+    {
+     "w": "key",
+     "start": 44.411,
+     "end": 44.554
+    },
+    {
+     "w": "can",
+     "start": 44.625,
+     "end": 44.768
+    },
+    {
+     "w": "open.",
+     "start": 44.839,
+     "end": 45.411
+    }
+   ]
+  },
+  {
+   "line": 11,
+   "start": 45.546,
+   "end": 51.638,
+   "text": "The answer? A later study says... the other way round, they'd make fourteen percent more!",
+   "words": [
+    {
+     "w": "The",
+     "start": 45.76,
+     "end": 45.903
+    },
+    {
+     "w": "answer?",
+     "start": 45.974,
+     "end": 46.554
+    },
+    {
+     "w": "A",
+     "start": 46.76,
+     "end": 46.903
+    },
+    {
+     "w": "later",
+     "start": 46.974,
+     "end": 47.188
+    },
+    {
+     "w": "study",
+     "start": 47.26,
+     "end": 47.546
+    },
+    {
+     "w": "says...",
+     "start": 47.617,
+     "end": 48.081
+    },
+    {
+     "w": "the",
+     "start": 48.26,
+     "end": 48.331
+    },
+    {
+     "w": "other",
+     "start": 48.438,
+     "end": 48.546
+    },
+    {
+     "w": "way",
+     "start": 48.617,
+     "end": 48.688
+    },
+    {
+     "w": "round,",
+     "start": 48.76,
+     "end": 49.188
+    },
+    {
+     "w": "they'd",
+     "start": 49.26,
+     "end": 49.474
+    },
+    {
+     "w": "make",
+     "start": 49.581,
+     "end": 49.688
+    },
+    {
+     "w": "fourteen",
+     "start": 49.76,
+     "end": 50.117
+    },
+    {
+     "w": "percent",
+     "start": 50.26,
+     "end": 50.546
+    },
+    {
+     "w": "more!",
+     "start": 50.688,
+     "end": 51.153
+    }
+   ]
+  },
+  {
+   "line": 12,
+   "start": 51.951,
+   "end": 57.239,
+   "text": "Two thousand eight, and each rotor is twenty-nine meters wide... over two buses!",
+   "words": [
+    {
+     "w": "Two",
+     "start": 52.022,
+     "end": 52.094
+    },
+    {
+     "w": "thousand",
+     "start": 52.237,
+     "end": 52.522
+    },
+    {
+     "w": "eight,",
+     "start": 52.737,
+     "end": 53.094
+    },
+    {
+     "w": "and",
+     "start": 53.237,
+     "end": 53.379
+    },
+    {
+     "w": "each",
+     "start": 53.522,
+     "end": 53.665
+    },
+    {
+     "w": "rotor",
+     "start": 53.737,
+     "end": 54.022
+    },
+    {
+     "w": "is",
+     "start": 54.094,
+     "end": 54.308
+    },
+    {
+     "w": "twenty-nine",
+     "start": 54.487,
+     "end": 54.879
+    },
+    {
+     "w": "meters",
+     "start": 54.951,
+     "end": 55.237
+    },
+    {
+     "w": "wide...",
+     "start": 55.308,
+     "end": 55.817
+    },
+    {
+     "w": "over",
+     "start": 55.996,
+     "end": 56.174
+    },
+    {
+     "w": "two",
+     "start": 56.281,
+     "end": 56.388
+    },
+    {
+     "w": "buses!",
+     "start": 56.531,
+     "end": 57.388
+    }
+   ]
+  },
+  {
+   "line": 13,
+   "start": 57.552,
+   "end": 61.463,
+   "text": "And congrats, you just built the Bahrain World Trade Center yourself.",
+   "words": [
+    {
+     "w": "And",
+     "start": 57.674,
+     "end": 57.695
+    },
+    {
+     "w": "congrats,",
+     "start": 57.766,
+     "end": 58.659
+    },
+    {
+     "w": "you",
+     "start": 58.837,
+     "end": 58.98
+    },
+    {
+     "w": "just",
+     "start": 59.052,
+     "end": 59.195
+    },
+    {
+     "w": "built",
+     "start": 59.302,
+     "end": 59.409
+    },
+    {
+     "w": "the",
+     "start": 59.445,
+     "end": 59.48
+    },
+    {
+     "w": "Bahrain",
+     "start": 59.552,
+     "end": 59.98
+    },
+    {
+     "w": "World",
+     "start": 60.052,
+     "end": 60.195
+    },
+    {
+     "w": "Trade",
+     "start": 60.266,
+     "end": 60.48
+    },
+    {
+     "w": "Center",
+     "start": 60.552,
+     "end": 60.766
+    },
+    {
+     "w": "yourself.",
+     "start": 60.837,
+     "end": 61.623
+    }
+   ]
+  },
+  {
+   "line": 14,
+   "start": 61.776,
+   "end": 68.281,
+   "text": "Three turbines making power from the wind... and Dad still yells about one light left on.",
+   "words": [
+    {
+     "w": "Three",
+     "start": 62.401,
+     "end": 62.615
+    },
+    {
+     "w": "turbines",
+     "start": 62.758,
+     "end": 63.258
+    },
+    {
+     "w": "making",
+     "start": 63.329,
+     "end": 63.544
+    },
+    {
+     "w": "power",
+     "start": 63.687,
+     "end": 63.972
+    },
+    {
+     "w": "from",
+     "start": 64.044,
+     "end": 64.187
+    },
+    {
+     "w": "the",
+     "start": 64.222,
+     "end": 64.258
+    },
+    {
+     "w": "wind...",
+     "start": 64.401,
+     "end": 64.901
+    },
+    {
+     "w": "and",
+     "start": 65.529,
+     "end": 65.544
+    },
+    {
+     "w": "Dad",
+     "start": 65.615,
+     "end": 65.901
+    },
+    {
+     "w": "still",
+     "start": 65.972,
+     "end": 66.329
+    },
+    {
+     "w": "yells",
+     "start": 66.401,
+     "end": 66.615
+    },
+    {
+     "w": "about",
+     "start": 66.687,
+     "end": 66.901
+    },
+    {
+     "w": "one",
+     "start": 67.115,
+     "end": 67.258
+    },
+    {
+     "w": "light",
+     "start": 67.329,
+     "end": 67.544
+    },
+    {
+     "w": "left",
+     "start": 67.615,
+     "end": 67.829
+    },
+    {
+     "w": "on.",
+     "start": 67.901,
+     "end": 68.401
+    }
+   ]
+  }
+ ]
+}
