@@ -6885,3 +6885,82 @@ Checked, nothing new
   vidIQ, SocialBee, Hootsuite, que.es, Dreamina, Hackceleration, Krea, Scrimba, InVideo's offers
   and Higgsfield's own "free unlimited" post: all here already or undated roundups. Recap week: still no confirmed
   Spotify Wrapped date (Official Charts and Techloy, here).
+
+## 2026-11-28 05:00 PT (hourly runner, cloud run)
+
+New content
+- A candidate build for both channels, Kef Tenbeni above all: The Link at One Za'abeel in Dubai, the building that
+  sticks out into thin air (new to LINEUP and these notes). Guinness: "Longest cantilevered building", "67.227 m
+  (220ft 8.7in)", "achieved by One Za'abeel (UAE) in Dubai, UAE, on 1 March 2024"; a cantilevered building is one
+  "anchored at one end only" that "protrudes, unsupported, beyond the main support structure" (the developer's
+  release and ConstructSteel say 67.277 m, Dezeen 67.5 m, Wikipedia both 66 and 67.5: say "about 67 metres"). The
+  whole Link is 230 m long and 100 m up (all four pages), slung between a 305 m, 68-floor tower and a 235 m,
+  59-floor one (Wikipedia, Dezeen), over a highway ("four-lane" in Wikipedia and the release, "six-lane" in Dezeen:
+  check before a line counts lanes). How it went up: put together low down, slid across, then lifted. WSP's project
+  page (WSP worked on the lift; the page names no discipline) says it was assembled on the podium roof, slid from
+  one tower to the other and "lifted it into place in two stages", "only closing roads for 72 hours"; WAM in Khaleej
+  Times (6 Jul 2020) has the "7,100 tonnes" frame's final slide done at ground level, "positioned over The
+  Happiness Bridge in Dubai's Financial District", with "500 tonnes of force" (podium roof or ground level: check).
+  The lift: "a one-of-a-kind cantilever launcher was built onsite", "8,500 tonnes" went up "100 meters above ground
+  level" over "12 days" with "more than 110 jacks and heavy-duty strand jacks", then the "900+ tonne cantilevered
+  structure lifted into place over four days" (ConstructSteel; the release: "two phases over a total of 16 days"),
+  "without disrupting the traffic below"; Nikken Sekkei's Fadi Jabri in Arab News (sponsored, Sep 2020): "The
+  initial lift on Aug. 18 was a mere 10 cm", a 1 m lift "a week later", then "the main event, three days later"
+  (2020 by the article's date; Dezeen: lifted "in two parts during 2020"). The strangest true fact: the towers were
+  built "with a slight lean, which would self-correct once The Link was welded into position", with "Hundreds of
+  gauges" keeping them in line (WSP). The frame is a "robust outer tubular structure system" in "a diamond grid
+  pattern to minimize torsion" (ConstructSteel), and its height, "approximately a third of the way up the towers",
+  "also helps mitigate the sway of the towers in the wind" (Dezeen, quoting Nikken Sekkei). Weights by stage, never
+  to be mixed: 7,100 t at the slide (WAM), 8,500 t lifted (ConstructSteel, Wikipedia, Dezeen), "over 9,450 tonnes,
+  more than the entire Eiffel Tower" (WSP's claim; the Eiffel Tower's own figure depends on the source: check),
+  "23,000 tonnes" fitted out (ConstructSteel). Inside: "the world's longest suspended infinity pool" (Dezeen; the
+  developer says "the UAE's longest"), restaurants, and at the tip "a glass floor, providing views down to the road
+  below" (Dezeen). It beat "the 66.5-metre-long observation deck at Marina Bay Sands" (Dezeen; ConstructSteel the
+  same); opened 10 February 2024 (Wikipedia). Chain (breaks marked "ours" are ours): A1, a glass-and-steel building
+  slung sideways 100 m up between two towers, one end jutting far out into empty air over a highway at dusk, slow
+  aerial. A2, two towers on either side of a busy highway that cannot close, the gap between them high up. A3, a
+  long steel frame of diamond bracing put together low down and slid across between the towers. A4 (ours),
+  thousands of tonnes on jacks: one side rises faster and the frame tilts. A5, over a hundred jacks pull on steel
+  strands in step, a 10 cm test lift, then 100 m in 12 days. A6 (ours), the weight hung between the towers pulls
+  them out of line. B1, two towers built with a slight lean that self-corrects as the link is welded in, gauges
+  watching. B2 (ours), 900 tonnes reaching 67 m out with nothing below, the tip wanting to droop as the wind
+  twists it. B3, the diamond grid that resists the twist, the overhang lifted last over four days. B4, the tease of
+  whatever LINEUP build follows it. B5, the finished Link at sunset, a long pool along its roof, people seen from
+  behind looking down through the glass floor at the traffic. B6 (ours), funny slow motion: a waiter carries a long
+  tray on one hand, the far end sagging, glasses sliding off one by one into a fountain. No brand, hotel or
+  developer names in the prompts (so no logos turn up), no faces. Wikipedia and Dezeen name the architect (Nikken
+  Sekkei) and the main contractor (ALEC); no page read names the lifting contractor. Free pictures: two Unsplash
+  Dubai photos came up, "a bridge leading to a city" by Leon Macapagal (Aug 27 2022) and one by Rhiannon Elliott
+  (Jan 26 2020, before the lift, so not the finished Link), both "Free to use under the Unsplash License", but
+  neither page names One Za'abeel: look before any use.
+  [Guinness, Longest cantilevered building](https://www.guinnessworldrecords.com/world-records/617033-longest-cantilevered-building),
+  [Wikipedia, One Za'abeel](https://en.wikipedia.org/wiki/One_Za%27abeel),
+  [Dezeen](https://www.dezeen.com/?p=2028196),
+  [ConstructSteel](https://constructsteel.org/steel-projects/the-worlds-longest-cantilever-is-jaw-dropping/),
+  [Zawya, the developer's release, Mar 2024](https://www.zawya.com/en/press-release/companies-news/one-zaabeel-achieves-the-guinness-world-records-title-for-the-longest-cantilevered-building-in-the-world-f9c5p0mh),
+  [Arab News, Sep 2020, sponsored](https://www.arabnews.com/node/1733656/amp),
+  [WSP, One Za'abeel](https://wsp.com/en-id/projects/one-zaabeel),
+  [Khaleej Times (WAM), Jul 6 2020](https://www.khaleejtimes.com/article/7100-tonne-link-to-connect-one-zaabeel-towers-takes-final-shape?amp=1),
+  [Unsplash, Macapagal](https://unsplash.com/photos/a-bridge-leading-to-a-city-I_FjsK0X0iQ),
+  [Unsplash, Elliott](https://unsplash.com/photos/xKv8_4v1nbE)
+- No free Seedance 2.5 anywhere after today, a third-party seller says (new to these notes): SeedVideo AI's guide
+  ("Published on Oct 27, 2026·Updated on Nov 5, 2026") says "No platform gives Seedance 2.5 unlimited for free" and
+  that it "is sold as a time-limited window on a paid plan, never as a free tier": its own Premium ("7 days, once
+  per account", clips up to 10 s), Creaa Ultra ("15 days a month or 365 days on annual"), Unify ("5 to 35 days"),
+  Higgsfield's business plan; Dreamina credits only. It sells Premium and says it "is not affiliated with
+  ByteDance", so a confirmation, not a source: from Nov 29 our Seedance footage is what is already in ai-media.
+  [SeedVideo AI, Nov 5 2026](https://www.seeddance.io/blog/seedance-2-5-unlimited)
+- The season turns on Postdom's page ("Updated 27 Nov 2026", status checked 23 Nov), new to these notes: "The tree
+  goes up" (the first tree and lights going up, to a Christmas track), a "Deck the Halls" dance and "Christmas music
+  is allowed now" (a Last Christmas edit). Only timing for us: the Rockefeller tree candidate (the Nov 25 19:05
+  entry; lighting Dec 2) fits the first-decorations week; the dances do not fit.
+  [Postdom, upd. Nov 27 2026](https://postdom.com/blog/tiktok-trends)
+
+Checked, nothing new
+- remakethetrend's AI video trends ("Updated November 27, 2026"): Thanksgiving and dance templates (Kung Fu Turkey,
+  Gobble Gobble Dance, Red Carpet Dance, Run Around the Earth, Missed Train Dance) on a paid face-swap service; none
+  for explainers. [remakethetrend](https://remakethetrend.com/ai-video-trends/)
+- Higgsfield past Nov 28: a Cyber Monday search gave the offer's tier posts on X (annual Plus "14 days, 720p, 30
+  sec", as here; X refuses reading), a new-user 7-day post, DemandSage, Aliteq, Pixara and camclo3d's pricing page:
+  Nov 28 stands.
+- Free stock video: Coverr, Uppbeat's stock video, Picsart, Freepik and Adobe Stock's trial: here already or paid.
